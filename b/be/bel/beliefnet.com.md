@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the beliefnet.com privacy policy that was archived on 2011-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110629120102id_/http%3A//www.beliefnet.com/About-Us/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beliefnet.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628062239id_/http%3A//www.beliefnet.com/About-Us/Privacy-Policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - About Us- Beliefnet.com
+# Privacy Policy - Beliefnet.com
 
-**Effective as of July 14, 2010.**
+ 
+
+ **Effective as of January 31, 2012.**
 
 Beliefnet, Inc. (“Beliefnet,” “we,” “us”) has adopted this privacy policy (the “Privacy Policy”), which describes how we collect, use and share personally identifiable information (such as your full name, email address or mobile number) (“PII”) we obtain online and offline from and about individuals located in the United States. 
 
@@ -14,13 +16,13 @@ Beliefnet may modify this Privacy Policy at any time. Each such modification wil
 
 Because the Beliefnet services are hosted in the United States, if you are a User located outside the United States, you understand and consent to having any PII and non-PII you provide transferred to and processed in the United States. The data protection and other laws of other countries, such as the United States, may not be the same as those in your jurisdiction. As a result, please read this Privacy Policy with care. 
 
-_**A. COLLECTION: COLLECTION OF PII AND NON-PII BY BELIEFNET**_
+**_A. COLLECTION: COLLECTION OF PII AND NON-PII BY BELIEFNET_**
 
 1\. _General_. When Beliefnet collects PII from you it is because you are voluntarily submitting PII to us in order to register as a Member or a Subscriber. Beliefnet may also collect PII from you so that you can participate in activities like creating a personal profile (“Your Profile”), sweepstakes, contests, surveys, forums, in connection with questions you submit to us, or because you want us or a third party to furnish you with products, services or information. You are responsible for ensuring that the PII you provide is accurate and up-to-date. We may also obtain PII from reputable third parties or supplement PII that we have collected directly from our Users with additional PII or non-PII from reputable third parties.
 
 In addition, Beliefnet collects non-PII including, without limitation, IP address, aggregate User data, and browser type. This non-PII data is used to manage and improve the Beliefnet services, enhance your experience on the Site, track usage, and for security purposes. You may also choose to voluntarily provide or store non-PII in Your Profile (as described in Section A (1) (a) below) or on message boards or other public forums, including but not limited to, text, files, images, photos, video, musical works, works of authorship, personal statements, comments or any other materials (collectively “Content”) that you choose to post to the Site (Content posted by any User is "User Content"). If you choose to store your Profile Information (as defined below in Section A (1) (a)), User Content or any PII on Your Profile, or provide any Profile Information, PII or User Content on message boards or other public forums provided on the Site, this information and content will be made public and you do so at your sole discretion and risk. 
 
-Important Information about Changing and Updating your Registration Data and Your Profile Information. Members can change, correct, edit or remove their Registration Data (as defined below in Section A (1) (a)) and Your Profile information at any time and can control how Users and Beliefnet communicate with them by controlling their profile settings and privacy settings, available within the “Edit Profile” portion of the Profile section located in the Community section of the Site. 
+**Important Information about Changing and Updating your Registration Data and Your Profile Information**. Members can change, correct, edit or remove their Registration Data (as defined below in Section A (1) (a)) and Your Profile information at any time and can control how Users and Beliefnet communicate with them by controlling their profile settings and privacy settings, available within the “Edit Profile” portion of the Profile section located in the Community section of the Site. 
 
 Beliefnet collects information from you at several different points on the Site in the manner set forth below:
 
@@ -32,7 +34,7 @@ Beliefnet collects information from you at several different points on the Site 
 
 2\. _Cookies_. Cookies are small bits of information that the Site places on the hard drive of your computer. Beliefnet uses cookies to identify your Internet browser, store your Beliefnet username for easy logon, store Users’ preferences, keep you logged in, and identify parts of the Site you have visited, applications you are using, advertisements you have seen and/or products you have purchased. Information about your activities on the Site and other non-PII about you may also be used to customize the online ads you encounter to those we believe are consistent with your interests.
 
-Beliefnet has contracted with a third party, Datran Media, LLC (“Datran”), who uses cookies to assist Beliefnet in gaining a better understanding of the demographics of visitors to the Site who respond to our offers. Beliefnet does not control Datran’s cookies and Users of the Site should review Datran’s privacy policy at <http://www.datranmedia.com/privacy>. To opt out of Datran Media’s cookie-based marketing program, [click here](http://rt.displaymarketplace.com/optout.html). 
+Beliefnet, or data providers we have engaged, use cookies to enable you to receive customized ads, content or services, and to provide Beliefnet with certain information. No PII is placed into these cookies. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your e-mail address in hashed, non-human readable form. To opt-out of these cookies, please go to [http://www.privacychoice.org/companies](https://web.archive.org/web/20140628062239id_/http%3A//www.beliefnet.com/About-Us/,%5d%20http:/www.privacychoice.org/companies) and <http://www.aboutads.info/choices>.
 
 Third party advertisements displayed on the Site may also contain cookies set by Internet advertising companies or advertisers. Beliefnet does not control these cookies and Users of the Site should check the privacy policy of the Internet advertising company or advertiser to see whether and how it uses cookies. (See Section C ( _Notice_ ) below for more information on third party advertisements). 
 
@@ -40,19 +42,21 @@ Beliefnet may use cookies and similar technology to relate your use of the Site 
 
 You can program your computer to warn you each time a cookie is being set or to refuse cookies completely. However, without cookies you may not have access to certain features on the Site.
 
-A pixel tag is a tiny image inserted in a webpage and used to record the number and types of views for that page. Beliefnet may allow third party pixel tags or similar technology to be present on the Site for purposes of advertising, providing services or data and statistics collection. We also may use this type of technology in order to recognize Users and assess traffic patterns, and we may include pixel tags and cookies in our e-mail messages, including newsletters, in order to count how many e-mail messages have been opened. 
+A pixel tag or web beacon is a tiny image inserted in a webpage and used to record the number and types of views for that page. Beliefnet may allow third party pixel tags or similar technology to be present on the Site for purposes of advertising, providing services or data and statistics collection. We also may use this type of technology in order to recognize Users and assess traffic patterns, and we may include pixel tags/web beacons in our e-mail messages, including newsletters, in order to understand the time and date of when a User has opened an e-email and when he/she has utilized a link within the e-mail to visit a website. These pixel tags/web beacons do not contain PII. Users wishing to disable our pixel tags/web beacons should do so by turning images “off” in their email client (e.g., Outlook, Outlook Express). Please see your e-mail client for more information. 
+
+Notwithstanding anything else in this policy, we or a data provider we have engaged may place or recognize a unique cookie on your browser to enable customized ads or content. No personally identifiable information is placed into these cookies. The cookies may reflect de-identified demographic or other data linked to data you have submitted to us, e.g., your email address, in hashed, non-human readable form. To opt-out of these cookies, please go to <http://www.aboutads.info/choices>.
 
 3\. _Message Boards and Public Forums_ : The message boards and public forums and similar features offered on the Site are for public and not private communications, and you have no expectation of privacy with regard to any PII, User Content or other information posted, submitted or distributed on or through a message board or public forum. Beliefnet cannot guarantee the security of any information you disclose through any of the message boards or public forums available on the Site, and you make such disclosures at your own discretion and risk.
 
-_**B. Collection of Personal Financial Information on the Site by an independent Third Party company**_
+**_B. Collection of Personal Financial Information on the Site by an independent Third Party company_**
 
 Beliefnet may use an independent third party company to process purchases and financial transactions on the Site. When an independent third party company selected by Beliefnet collects, transmits and/or processes your PII and your personal financial information, such as your credit card information or other payment information (collectively, “Personal Financial Information”), on the Site it is because you are submitting such Personal Financial Information in order to purchase any products or services offered from time to time on the Site. At the time of your purchase, Beliefnet will notify you of the identity of any third party that is collecting, transmitting and/or processing your Personal Financial Information. You must be 18 years of age or older to submit Personal Financial Information on the Site, including to place an order on the Site. 
 
-You acknowledge and agree that this Privacy Policy will not apply to any Personal Financial Information that you provide to any independent third party company on the Site and that all payment obligations related to such purchase shall be governed solely by the applicable independent third party company’s privacy policy. You further acknowledge and agree that Beliefnet will have no liability for or control over such independent third party company’s use or protection of your Personal Financial Information. You should check the privacy policy of the independent third party company‘s website to determine how it will handle any Personal Financial Information it collects from you and/or processes. 
+**You acknowledge and agree that this Privacy Policy will not apply to any Personal Financial Information that you provide to any independent third party company on the Site and that all payment obligations related to such purchase shall be governed solely by the applicable independent third party company’s privacy policy. You further acknowledge and agree that Beliefnet will have no liability for or control over such independent third party company’s use or protection of your Personal Financial Information. You should check the privacy policy of the independent third party company‘s website to determine how it will handle any Personal Financial Information it collects from you and/or processes.**
 
-You acknowledge and agree that in the event that such independent third party company experiences a data breach that compromises or otherwise affects your Personal Financial Information, Beliefnet shall in no way be responsible or liable to you for such breach. You should contact the applicable independent third party company regarding any such data breach. __
+You acknowledge and agree that in the event that such independent third party company experiences a data breach that compromises or otherwise affects your Personal Financial Information, Beliefnet shall in no way be responsible or liable to you for such breach. You should contact the applicable independent third party company regarding any such data breach. **__**
 
-_**C. NOTICE: BELIEFNET WILL PROVIDE YOU WITH NOTICE ABOUT ITS PII AND NON-PII COLLECTION PRACTICES**_
+**_C. NOTICE: BELIEFNET WILL PROVIDE YOU WITH NOTICE ABOUT ITS PII AND NON-PII COLLECTION PRACTICES_**
 
 When you voluntarily provide PII to Beliefnet, we will make sure you are informed about who is collecting the information, how and why the information is being collected and the types of uses Beliefnet will make of the information.
 
@@ -64,19 +68,19 @@ The Site may be linked to Internet web sites operated by other companies. Some o
 
 The Site may also be linked to web sites operated by companies affiliated with Beliefnet. Visitors to those affiliated web sites should still refer to their separate privacy policies and practices, which may differ in some respects from this Privacy Policy.
 
-Some of the advertisements that appear on Beliefnet’s Site are delivered to you by national Internet advertising companies. These companies utilize certain technologies to deliver advertisements and marketing messages and to collect non-PII information about your visit to the Site, including information about the advertisements they display, any cookie they place on your computer and your IP address. To opt out of information collection by these companies, or to obtain information about the technologies they use or their own privacy policies, please visit: <http://www.networkadvertising.org/managing/opt_out.asp>
+Some of the advertisements that appear on Beliefnet’s Site are delivered to you by national Internet advertising companies. These companies utilize certain technologies to deliver advertisements and marketing messages and to collect non-PII information about your visit to the Site, including information about the advertisements they display, any cookie they place on your computer and your IP address. To opt out of information collection by these companies, or to obtain information about the technologies they use or their own privacy policies, please visit: <http://www.networkadvertising.org/managing/opt_out.asp>.
 
-_**D. CHOICE: BELIEFNET WILL PROVIDE YOU WITH CHOICES ABOUT THE USE OF YOUR PII**_
+**_D. CHOICE: BELIEFNET WILL PROVIDE YOU WITH CHOICES ABOUT THE USE OF YOUR PII_**
 
 Beliefnet will not use the PII you provide to us for purposes different from the purpose for which it was submitted unless otherwise provided in this Privacy Policy (See Section E ( _Use_ ) below). Beliefnet will not share your PII with third parties that are not affiliated with Beliefnet, unless we obtain your permission or as otherwise provided in this Privacy Policy (See Section E ( _Use_ ) below). 
 
-_**E. USE: BELIEFNET’S USE OF PII**_
+**_E. USE: BELIEFNET’S USE OF PII_**
 
 Beliefnet will use your PII provided under this Privacy Policy in a manner that is consistent with this Privacy Policy. If Beliefnet obtains PII from a third party, such as a business partner, our use of that PII is governed by this Privacy Policy. 
 
-Beliefnet may occasionally send Subscribers new newsletters, or information about special offers, Site updates, contests and other offerings via e-mail.  We may also send information about products and offerings of our partners or other affiliated companies that we think may be of interest to our Subscribers. If you would like to unsubscribe from any Beliefnet newsletter, or to opt out of receiving any of these messages, use the unsubscribe link on the bottom of such newsletter or the opt-out link at the bottom of our emails.
+Beliefnet may occasionally send Users information about special offers, Site updates, contests and other offerings via e-mail. We may also send information about products and offerings of our partners or other affiliated companies that we think may be of interest to our Users. To opt out of receiving these messages, click on the opt-out link at the bottom of our e-mails.
 
-Beliefnet may also share your PII with affiliated companies. Provided you have given us permission, Beliefnet may also share your PII with advertisers and business partners that are not affiliated with Beliefnet, but would like to send you information about their products and services. For example, Beliefnet may share your PII with the companies who supply prizes for Beliefnet’s contests and may have special offers or promotions that might be of interest to Beliefnet users. 
+Beliefnet may also share your PII with affiliated companies. In addition, Beliefnet may share your PII with advertisers and business partners that are not affiliated with Beliefnet, but would like to send you information about their products and services. For example, Beliefnet may share your PII with the companies who supply prizes for Beliefnet’s contests and may have special offers or promotions that might be of interest to Beliefnet users. 
 
 Beliefnet employees, agents and contractors must have a legitimate business or legal reason to access your PII. Beliefnet may share your PII with outside contractors or agents who help us provide you with services or products or who help us manage our information activities, but they may only use your PII to provide Beliefnet with a specific service and not for any other purpose. For example, if you enter a sweepstakes on the Site, your PII may be shared with our sweepstakes administrators. 
 
@@ -84,20 +88,18 @@ Beliefnet may also enter into agreements with outside companies that possess the
 
 There may be instances when Beliefnet may disclose PII without providing you with a choice in order to protect the legal rights of Beliefnet, other affiliated companies or any of their employees, agents and contractors; to protect the safety and security of any person, including, without limitation, Users of the Site, or the public; to protect against fraud or for risk management purposes; or to comply with the law or legal process. In addition, if Beliefnet sells all or part of its business or makes a sale or transfer of assets or is otherwise involved in a merger or business transfer, Beliefnet may transfer your PII to a third party as part of that transaction.
 
-_**F. SECURITY: BELIEFNET PROTECTS THE SECURITY OF PII**_
+**_F. SECURITY: BELIEFNET PROTECTS THE SECURITY OF PII_**
 
 Beliefnet uses reasonable administrative, technical, personnel and physical measures to safeguard PII in its possession against loss, theft and unauthorized use, disclosure or modification. However, no security system is impenetrable. Beliefnet cannot warrant or guarantee the security of its servers, nor can it guarantee that any information, including, without limitation any PII, that you supply will not be intercepted while being transmitted to Beliefnet over the Internet.
 
-**_G. ACCESS: HOW TO ACCESS, CORRECT OR DELETE YOUR_ _PII_**
+**_G. ACCESS: HOW TO ACCESS, CORRECT OR DELETE YOUR_** **_PII_**
 
 Whenever possible, Members and Subscribers may review the PII we maintain about them in our records. We will take reasonable steps to correct any PII a Member or Subscriber informs us of in writing is incorrect. 
 
 If for any reason you want Beliefnet to stop using your PII, Beliefnet will honor that request; however, Beliefnet will retain any record of your PII that is necessary to comply with applicable federal, state or local law. Even after removal of PII and User Content by you or Beliefnet, PII and User Content may still be viewable in cached and archived pages or if another User has stored your User Content.
 
-If you would like to communicate with us about this Privacy Policy or Beliefnet’s collection or use of your PII, or request Beliefnet to delete your PII, please contact Beliefnet c/o: BN Media Associates, LLC, 999 Waterside Drive, Ste. 1910, Norfolk, VA 23510, Attn: Katie King, Beliefnet Internet Privacy Officer. E-mail: [kking@affinity4.com](mailto:kking@affinity4.com).
+If you would like to communicate with us about this Privacy Policy or Beliefnet’s collection or use of your PII, or request Beliefnet to delete your PII, please contact Beliefnet c/o: BN Media Associates, LLC, 999 Waterside Drive, Ste. 1910, Norfolk, VA 23510, Attn: Julia Anderson, Beliefnet Internet Privacy Officer. E-mail: [janderson@affinity4.com](mailto:janderson@affinity4.com).
 
-**_H. REMEDIES AND COMPLIANCE: HOW TO CONTACT BELIEFNET ABOUT PRIVACY CONCERNS_
+ ** _H. REMEDIES AND COMPLIANCE: HOW TO CONTACT BELIEFNET ABOUT PRIVACY CONCERNS_**
 
-If you have questions or concerns regarding privacy, your use of the Beliefnet Site, or the collection and use of PII, you may contact Beliefnet c/o: BN Media Associates, LLC, 999 Waterside Drive, Ste. 1910, Norfolk, VA, 23510 Attn: Katie King, Beliefnet Internet Privacy Officer. Telephone: (757) 228-1722. E-mail: [kking@affinity4.com](mailto:kking@affinity4.com).
-
-**
+If you have questions or concerns regarding privacy, your use of the Beliefnet Site, or the collection and use of PII, you may contact Beliefnet c/o: BN Media Associates, LLC, 999 Waterside Drive, Ste. 1910, Norfolk, VA, 23510 Attn: Julia Anderson, Beliefnet Internet Privacy Officer. Telephone: (757) 200-9944. E-mail: [janderson@affinity4.com](mailto:janderson@affinity4.com). 
