@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edmodo.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220033115id_/https%3A//www.edmodo.com/corporate/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edmodo.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628210556id_/https%3A//www.edmodo.com/corporate/privacy-policy) for the most accurate reproduction.*
 
 # Edmodo | Corporate Privacy Policy
 
@@ -8,7 +8,7 @@
 
 We at Edmodo, Inc. ("Edmodo," "we," "us," "our”) know that you care about how your personal information is used and shared, and we take your privacy seriously. By accessing or using the Services (including without limitation the mobile version of the edmodo.com website (the “Mobile Site”) and the Edmodo mobile application(s) available via the Apple App Store and the Android Marketplace (collectively, the “Mobile Application”)), you acknowledge that you accept the practices and policies outlined in this Privacy Policy. Remember that your use of Edmodo’s Services is at all times subject to the Terms of Service, which incorporates this Privacy Policy. Any terms we use here without defining them have the definitions given to them in the Terms of Service.
 
-Please read on to learn more about how we collect and use your information; if you have any questions or concerns regarding our privacy practices, please send us a detailed message to [privacy@edmodo.com](mailto:privacy@edmodo.com), write us at 60 East Third Ave., Suite 270, San Mateo, CA 94401, or call us at (650) 513-2735.
+Please read on to learn more about how we collect and use your information; if you have any questions or concerns regarding our privacy practices, please send us a detailed message to [privacy@edmodo.com](mailto:privacy@edmodo.com), write us at 1200 Park Place, Suite 400, San Mateo, CA 94403, or call us at +1(650) 513-2735.
 
   
 
