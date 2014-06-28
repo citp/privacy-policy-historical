@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the macroaxis.com privacy policy that was archived on 2013-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130929165414id_/http%3A//www.macroaxis.com/invest/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macroaxis.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628062153id_/http%3A//www.macroaxis.com/invest/privacyPolicy) for the most accurate reproduction.*
 
 # Macroaxis Privacy Policy
 
