@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the web2carz.com privacy policy that was archived on 2013-10-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131030214619id_/http%3A//www.web2carz.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the web2carz.com privacy policy that was archived on 2014-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140628042934id_/http%3A//www.web2carz.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
+<!DOCTYPE html><html class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths no-touch"><head><script async="" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js"></script>
   <title>Privacy Policy | Web2Carz</title>
   <meta charset="utf-8">
   <meta name="description" content="Web2Carz Privacy Policy">
@@ -16,9 +16,47 @@
   <link rel="canonical" href="http://www.web2carz.com/privacy">
   <script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" async="" src="https://px.owneriq.net/stas/s/WEB2CA.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="/common/js/rd/libs/modernizr-2.0.6.min.js"></script>
 </head>
-<body id="privacy">
+<body id="privacy" style="">
 <div id="container">
 <div class="waveTop"></div>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script type="text/javascript">
+  window.jQuery || document.write('<script src="/common/js/rd/libs/jquery-1.10.2.min.js"><\/script>');
+</script><script src="/common/js/rd/libs/jquery-1.10.2.min.js"></script>
+<script type="text/javascript">
+  jQuery.noConflict();
+
+  jQuery.ajaxSetup({
+      cache: true
+  });
+  var touchState = false;
+  if ('ontouchstart' in window || 'onmsgesturechange' in window) {
+      document.documentElement.className += " touch";
+      touchState = true;
+  } else {
+      document.documentElement.className += " no-touch";
+  }
+</script>
+<!--[if IE 9]>
+  <style type="text/css">
+    .gradient {
+       filter: none;
+    }
+  </style>
+  <link rel="stylesheet" href="/common/css/ie-gte9.css" type="text/css" />
+  <script type="text/javascript">
+    jQuery(window).ready(function(){jQuery("button, input[type=button]").addClass("gradient");});
+  </script>
+<![endif]-->
+<!--[if lte IE 8]>
+ <link rel="stylesheet" href="/common/css/ie-lte8.css" type="text/css" />
+ <script type="text/javascript" src="/common/js/rd/libs/selectivizr.min.js"></script>
+ <script type="text/javascript" src="/common/js/rd/libs/html5shiv.min.js"></script>
+<![endif]-->
+
+
+
 
 <script type="text/javascript">
     var googletag = googletag || {};
@@ -48,35 +86,749 @@ googletag.enableServices();
 
 
 
-<!--=============================
-	Header
-=================================-->
-<header>
-    <div class="row">
-        <ul id="headNav">
-            <li class="first"><img src="/images/rd/header_icon.png"></li>
-            <li class="first"><a title="Home" href="http://www.web2carz.com/">Home</a></li>
-<li><a title="Get a Free Price Quote" href="http://www.web2carz.com/new-car-prices">New Cars</a></li>
-<li><a title="Choose From Over 2 Million Listings Nationwide" href="http://www.web2carz.com/used-cars">Used Cars</a></li>
-<li><a title="Get an Auto Loan" href="http://www.web2carz.com/car-loans">Car Loans</a></li>
-<li><a title="List Your Car on Web2Carz.com for Free" href="http://www.web2carz.com/sell-my-car">Sell My Car</a></li>
-<li><a title="Browse Thousands of Expert Car Reviews" href="http://www.web2carz.com/car-reviews">Car Reviews</a></li>
-<li><a title="Compare Free Car Insurance Quotes" href="http://www.web2carz.com/auto-insurance">Car Insurance</a></li>
-<li><a title="Free Auto Warranty Quote" href="http://www.web2carz.com/auto-warranty">Car Warranty</a></li>
-<li><a title="View Used Car Photos" href="http://www.web2carz.com/photo-lot">Photo-Lot</a></li>
-<li><a title="Find &amp; Watch Car Videos" href="http://www.web2carz.com/car-videos">Car Videos</a></li>
-          
-        </ul>
-    </div>
-</header>
 
-<!--=============================
-	/Header
-=================================-->
-<!-- Web2Caz Logo + Ad -->
-    <div id="headWrap">
-    	<a href="http://www.web2carz.com/"><img class="logo" src="/images/rd/article/logo.png"></a>
-        <div class="banner">
+
+<script type="text/javascript">
+    function refreshDataNB(parameters, responseHandler) {
+        jQuery.ajax({
+            type: "POST",
+            url: "/ajax/mmy.php",
+            data: parameters,
+            success: this[responseHandler]
+        });
+    }
+    function refreshModelsUsedNB(data) {
+        var data = eval(data);
+        select = document.getElementById('navbarModelUsed');
+        select.options.length = 0;
+        select.add(new Option("Select A Model", "0"));
+        for (i=0; i<data.length; i++) {
+            select.add(new Option(data[i].NAME, data[i].ID));
+        }
+    }
+    function refreshModelsNewNB(data) {
+        var data = eval(data);
+        select = document.getElementById('navbarModelNew');
+        select.options.length = 0;
+        select.add(new Option("Select A Model", "0"));
+        for (i=0; i<data.length; i++) {
+            select.add(new Option(data[i].NAME, data[i].ID));;
+        }
+        // reset trims
+        select = document.getElementById('navbarTrimNew');
+        select.options.length = 0;
+        select.options[0] = new Option("Select A Trim", "0");
+    }
+    function refreshTrimsNewNB(data) {
+        var data = eval(data);
+        select = document.getElementById('navbarTrimNew');
+        select.options.length = 0;
+        select.add(new Option("Select A Trim", "0"));
+        select.add(new Option("Not Sure", "0"));
+        for (i=0; i<data.length; i++) {
+            select.add(new Option(data[i].NAME, data[i].ID));;
+        }
+    }
+    function refreshModelsResearchNB(data) {
+        var data = eval(data);
+        select = document.getElementById('navbarModelResearch');
+        select.options.length = 0;
+        select.add(new Option("Select A Model", "0"));
+        for (i=0; i<data.length; i++) {
+            select.add(new Option(data[i].NAME, data[i].ID));;
+        }
+        // reset years
+        select = document.getElementById('navbarYearResearch');
+        select.options.length = 0;
+        select.options[0] = new Option("Select A Year", "0");
+    }
+    function refreshYearsResearchNB(data) {
+        var data = eval(data);
+        select = document.getElementById('navbarYearResearch');
+        select.options.length = 0;
+        select.add(new Option("Select A Year", "0"));
+        for (i=0; i<data.length; i++) {
+            select.add(new Option(data[i].NAME, data[i].ID));;
+        }
+    }
+
+
+    function modifyForUrlNB(name) {
+        return name.replace(/ /g, "-").replace(/&/g, "and").toLowerCase();
+    }
+
+    function submitNB(form) {
+        // all the forms have make/model
+        var makeSelect = form.make;
+        var modelSelect = form.model;
+        var makeName = makeSelect.options[makeSelect.selectedIndex].text;
+        var modelName = modelSelect.options[modelSelect.selectedIndex].text;
+        var makeId = makeSelect.options[makeSelect.selectedIndex].value;
+        var modelId = modelSelect.options[modelSelect.selectedIndex].value;
+
+        var link = ""
+        var error = false;
+        var errorMessage = "";
+
+        // validate
+        if (makeId < 1) {
+            error = true;
+            errorMessage += "Please choose a Make\n";
+        }
+        if (modelId < 1) {
+            error = true;
+            errorMessage += "Please choose a Model\n";
+        }
+        if (form.name == "navbarUsedSearch") {
+            var zip = form.zip.value;
+            var radiusSelect = form.radius;
+            if (zip.length != 5 || (/\D/.test(zip))) {
+                error = true;
+                errorMessage += "Please enter a valid Zip\n";
+            }
+            var radius = radiusSelect.options[radiusSelect.selectedIndex].value;
+            link = makeId + "/" + modelId + "/" + zip + "/" + radius + "/" + modifyForUrlNB(makeName) + "/" + modifyForUrlNB(modelName) + "/used-cars";
+
+        } else if (form.name == "navbarNewSearch") {
+            var zip = form.zip.value;
+            if (zip.length != 5 || (/\D/.test(zip))) {
+                error = true;
+                errorMessage += "Please enter a valid Zip\n";
+            }
+            link = makeId + "/" + modelId + "/" + zip + "/new-cars/price-quote/" + modifyForUrlNB(makeName) + "/" + modifyForUrlNB(modelName);
+
+        } else if (form.name == "navbarResearchSearch") {
+            var yearSelect = form.year;
+            var year = yearSelect.options[yearSelect.selectedIndex].value;
+            if (year < 1) {
+                error = true;
+                errorMessage += "Please choose a Year\n";
+            }
+            link = modifyForUrlNB(makeName) + "/" + modifyForUrlNB(modelName) + "/" + year;
+        }
+
+        // problem
+        if (error) {
+            alert(errorMessage);
+            return false;
+        }
+
+        // overide for new..
+        if (form.name == "navbarNewSearch") {
+            return true;
+        }
+
+        var linkDomain = "http://www.web2carz.com/";
+        location.href=linkDomain+link;
+        return false;
+    }
+
+
+    jQuery(document).ready(function() {
+        jQuery('#navbarMakeUsed').change(function() {
+            var makeId = jQuery(this).val();
+            var parameters = "action=getAllModels&args[]=" + makeId;
+            refreshDataNB(parameters, "refreshModelsUsedNB");
+        });
+        jQuery('#navbarMakeNew').change(function() {
+            var makeId = jQuery(this).val();
+            var parameters = "action=getNewModels&args[]=" + makeId;
+            refreshDataNB(parameters, "refreshModelsNewNB");
+        });
+        jQuery('#navbarModelNew').change(function() {
+            var modelId = jQuery(this).val();
+            var makeId = jQuery('#navbarMakeNew').val();
+            var parameters = "action=getNewTrims&args[]=" + makeId + "&args[]=" + modelId;
+            refreshDataNB(parameters, "refreshTrimsNewNB");
+        });
+        jQuery('#navbarMakeResearch').change(function() {
+            var makeId = jQuery(this).val();
+            var parameters = "action=getAllModels&args[]=" + makeId;
+            refreshDataNB(parameters, "refreshModelsResearchNB");
+        });
+        jQuery('#navbarModelResearch').change(function() {
+            var modelId = jQuery(this).val();
+            var makeId = jQuery('#navbarMakeResearch').val();
+            var parameters = "action=getAllYears&args[]=" + makeId + "&args[]=" + modelId;
+            refreshDataNB(parameters, "refreshYearsResearchNB");
+        });
+    });
+</script>
+
+<header class="masthead" id="masthead">
+    <div class="globalNavigationWrapper">
+        <nav class="globalNavigation gradient" id="globalNavigation">
+            <div class="globalNavigationLiner">
+                <ul class="gn-ul clearfix">
+                    <li class="gn-listItem gn-carShopping gradient">
+                        <a class="gn-link">
+                            Car Shopping
+                            <div class="gn-subtext">Used &amp; New Cars</div>
+                        </a>
+                        <div class="gn-wrapper">
+                            <div class="gn-content">
+                                <div class="cs-search gnc-item">
+                                    <div class="tabs">
+                                        <ul>
+                                            <li><a href="#tabs-used"><h3>Used Cars</h3></a></li>
+                                            <li><a href="#tabs-new"><h3>New Cars</h3></a></li>
+                                        </ul>
+                                        <div id="tabs-used">
+                                            <form class="searchUsed" method="get" name="navbarUsedSearch" onsubmit="return submitNB(this);">
+                                                <p class="gold font-21">Search Used and New Cars</p>
+                                                <div>
+                                                    <select class="input-avg" name="make" id="navbarMakeUsed">
+                                                        <option value="0">Select A Make</option>
+                                                        <option value="1">Acura</option>
+<option value="2">Alfa Romeo</option>
+<option value="3">AM General</option>
+<option value="5">Aston Martin</option>
+<option value="6">Audi</option>
+<option value="7">Bentley</option>
+<option value="8">BMW</option>
+<option value="61">Bugatti</option>
+<option value="9">Buick</option>
+<option value="10">Cadillac</option>
+<option value="11">Chevrolet</option>
+<option value="12">Chrysler</option>
+<option value="67">Citroen</option>
+<option value="13">Daewoo</option>
+<option value="14">Daihatsu</option>
+<option value="16">Dodge</option>
+<option value="17">Eagle</option>
+<option value="18">Ferrari</option>
+<option value="75">Fiat</option>
+<option value="74">Fisker</option>
+<option value="19">Ford</option>
+<option value="63">Freightliner</option>
+<option value="20">Geo</option>
+<option value="21">GMC</option>
+<option value="22">Honda</option>
+<option value="23">HUMMER</option>
+<option value="24">Hyundai</option>
+<option value="25">Infiniti</option>
+<option value="70">International</option>
+<option value="26">Isuzu</option>
+<option value="27">Jaguar</option>
+<option value="28">Jeep</option>
+<option value="29">Kia</option>
+<option value="30">Lamborghini</option>
+<option value="31">Land Rover</option>
+<option value="32">Lexus</option>
+<option value="33">Lincoln</option>
+<option value="34">Lotus</option>
+<option value="35">Maserati</option>
+<option value="36">Maybach</option>
+<option value="37">Mazda</option>
+<option value="76">McLaren</option>
+<option value="38">Mercedes-Benz</option>
+<option value="39">Mercury</option>
+<option value="41">MINI</option>
+<option value="42">Mitsubishi</option>
+<option value="64">Morgan</option>
+<option value="43">Nissan</option>
+<option value="44">Oldsmobile</option>
+<option value="45">Panoz</option>
+<option value="46">Plymouth</option>
+<option value="47">Pontiac</option>
+<option value="48">Porsche</option>
+<option value="78">RAM</option>
+<option value="50">Rolls-Royce</option>
+<option value="51">Saab</option>
+<option value="65">Saleen</option>
+<option value="52">Saturn</option>
+<option value="53">Scion</option>
+<option value="62">Smart</option>
+<option value="66">Spyker</option>
+<option value="79">SRT</option>
+<option value="55">Subaru</option>
+<option value="56">Suzuki</option>
+<option value="73">Tesla</option>
+<option value="77">THINK</option>
+<option value="57">Toyota</option>
+<option value="58">Volkswagen</option>
+<option value="59">Volvo</option>
+                                                    </select>
+                                                </div>
+
+                                                <div>
+                                                    <select class="input-avg" name="model" id="navbarModelUsed">
+                                                        <option value="0">Select A Model</option>
+                                                                                                            </select>
+                                                </div>
+
+                                                <div>
+                                                    <input type="text" class="input-mod" name="zip" id="zipNB" size="12" maxlength="5" placeholder="Zip Code">
+                                                </div>
+
+                                                <div>
+                                                    <select class="input-avg" name="radius">
+                                                        <option value="25">Choose Distance</option>
+                                                        <option value="10">10 miles</option>
+                                                        <option value="25" selected="">25 miles</option>
+                                                        <option value="50">50 miles</option>
+                                                        <option value="75">75 miles</option>
+                                                        <option value="100">100 miles</option>
+                                                    </select>
+                                                </div>
+                                                <div>
+                                                <button type="Search" value="Search">Search</button>
+                                                </div>
+                                             </form>
+                                        </div>
+                                        <div id="tabs-new">
+                                            <form class="searchNew" method="post" name="navbarNewSearch" action="/new/new_quote_detail.php" onsubmit="return submitNB(this);">
+
+                                                <p class="gold font-21">Search New and Used Cars</p>
+                                                <div>
+                                                    <select class="input-avg" name="make" id="navbarMakeNew">
+                                                        <option value="0">Select A Make</option>
+                                                        <option value="1">Acura</option>
+<option value="5">Aston Martin</option>
+<option value="6">Audi</option>
+<option value="7">Bentley</option>
+<option value="8">BMW</option>
+<option value="9">Buick</option>
+<option value="10">Cadillac</option>
+<option value="11">Chevrolet</option>
+<option value="12">Chrysler</option>
+<option value="16">Dodge</option>
+<option value="18">Ferrari</option>
+<option value="75">Fiat</option>
+<option value="19">Ford</option>
+<option value="21">GMC</option>
+<option value="22">Honda</option>
+<option value="24">Hyundai</option>
+<option value="25">Infiniti</option>
+<option value="27">Jaguar</option>
+<option value="28">Jeep</option>
+<option value="29">Kia</option>
+<option value="30">Lamborghini</option>
+<option value="31">Land Rover</option>
+<option value="32">Lexus</option>
+<option value="33">Lincoln</option>
+<option value="34">Lotus</option>
+<option value="35">Maserati</option>
+<option value="37">Mazda</option>
+<option value="76">McLaren</option>
+<option value="38">Mercedes-Benz</option>
+<option value="41">MINI</option>
+<option value="42">Mitsubishi</option>
+<option value="43">Nissan</option>
+<option value="48">Porsche</option>
+<option value="78">RAM</option>
+<option value="50">Rolls-Royce</option>
+<option value="53">Scion</option>
+<option value="62">Smart</option>
+<option value="55">Subaru</option>
+<option value="73">Tesla</option>
+<option value="57">Toyota</option>
+<option value="58">Volkswagen</option>
+<option value="59">Volvo</option>
+                                                    </select>
+                                                </div>
+
+                                                <div>
+                                                    <select class="input-avg" name="model" id="navbarModelNew">
+                                                        <option value="0">Select A Model</option>
+                                                                                                            </select>
+                                                </div>
+
+                                                <div>
+                                                   <select class="input-avg" name="trim" id="navbarTrimNew">
+                                                        <option value="0">Select A Trim</option>
+                                                        <option value="0">Not Sure</option>
+                                                                                                            </select>
+                                                </div>
+
+                                                <div>
+                                                    <input type="text" class="input-mod" name="zip" id="zipNB" size="12" maxlength="5" placeholder="Zip Code">
+                                                </div>
+
+                                                <div>
+                                                    <button type="Search" value="Search">Search</button>
+                                                </div>
+                                             </form>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="cs-links gnc-item">
+                                    <ul class="navigationBar">
+                                                                                <li>
+                                            <span class="icon_solo_car_loans sprite-global"></span>
+                                            <a title="Get an Auto Loan" href="http://www.web2carz.com/car-loans">Car Loans</a>
+                                        </li>
+                                        <li>
+                                            <span class="icon_solo_insurance sprite-global"></span>
+                                            <a title="Compare Free Car Insurance Quotes" href="http://www.web2carz.com/auto-insurance">Car Insurance</a>
+                                        </li>
+                                        <li>
+                                            <span class="icon_solo_warranty sprite-global"></span>
+                                            <a title="Free Auto Warranty Quote" href="http://www.web2carz.com/auto-warranty">Car Warranty</a>
+                                        </li>
+                                        <li>
+                                            <span class="icon_solo_car_research sprite-global"></span>
+                                            <a title="Browse Thousands of Car Reviews, Specs, Photos, Prices.." href="http://www.web2carz.com/car-research">Car Research</a>
+                                        </li>
+                                        <!--<li>
+                                            <span class="icon_solo_sell_my_car sprite-global"></span>
+                                            <a title="List Your Car on Web2Carz.com for Free" href="">Sell My Car</a>
+                                        </li>-->
+                                        <li>
+                                            <span class="icon_solo_trade_in sprite-global"></span>
+                                            <a title="Get the Trade in Value of your Vehicle" href="http://www.web2carz.com/trade-in">Trade-In Value</a>
+                                        </li>
+                                        <li>
+                                            <span class="icon_solo_bad_cred_loans sprite-global"></span>
+                                            <a title="Get a Bad Credit Auto Loan" href="http://www.web2carz.com/bad-credit-car-loan">Bad Credit Car Loans</a>
+                                        </li>
+                                        <li>
+                                            <span class="icon_solo_photo_lot sprite-global"></span>
+                                            <a title="View Used Car Photos.." href="http://www.web2carz.com/photo-lot">Photo Lot</a>
+                                        </li>
+                                        <li>
+                                            <span class="icon_solo_car_videos sprite-global"></span>
+                                            <a title="Find &amp; Watch Car Videos.." href="http://www.web2carz.com/car-videos">Car Videos</a>
+                                        </li>
+                                        <li>
+                                            <span class="icon_solo_dealer_search sprite-global"></span>
+                                            <a title="Search for a Dealer" href="http://www.web2carz.com/dealers/dealers.php?searchTerm=dealer-search">Dealer Search</a>
+                                        </li>
+                                        <li>
+                                            <span class="icon_solo_sell_my_car sprite-global"></span>
+                                            <a title="List Your Car on Web2Carz.com for Free" href="/sell-my-car">Sell My Car</a>
+                                        </li>
+                                    </ul>
+                                </div>
+                                <div class="cs-car"></div>
+                                <div class="cs-goldArrow"></div>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="gn-listItem gn-carResearch gradient">
+                        <a class="gn-link">
+                            Car Reviews
+                            <div class="gn-subtext">Car Research</div>
+                        </a>
+                        <div class="gn-wrapper">
+                            <div class="gn-content">
+                                <div class="cr-tasks gnc-item">
+                                    <div class="cr-links">
+                                        <ul class="navigationBar">
+                                            <li>
+                                                <span class="icon_solo_car_research sprite-global"></span>
+                                                <a title="View All Car Reviews" href="http://www.web2carz.com/car-reviews">All Car Reviews</a>
+                                            </li>
+                                            <li>
+                                                <span class="icon_solo_featured_reviews sprite-global"></span>
+                                                <a title="View Featured Car Reviews" href="http://www.web2carz.com/car-reviews/featured">Featured Car Reviews</a>
+                                            </li>
+                                            <li>
+                                                <span class="icon_solo_daily_driver sprite-global"></span>
+                                                <a title="Day to day comparison of vehicles from our auto writers" href="http://www.web2carz.com/daily-driver">The Daily Driver</a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                    <div class="cr-search">
+                                        <div class="tabs">
+                                            <ul>
+                                                <li><a href="#tabs-carReviews"><h3>Car Reviews</h3></a></li>
+                                            </ul>
+                                            <div id="tabs-carReviews">
+                                            <form class="searchNew" method="get" name="navbarResearchSearch" onsubmit="return submitNB(this);">
+                                                <p class="gold">Expert Reviews and Vehicle Details</p>
+                                                <div>
+                                                    <select class="input-avg" name="make" id="navbarMakeResearch">
+                                                        <option value="0">Select A Make</option>
+                                                        <option value="1">Acura</option>
+<option value="2">Alfa Romeo</option>
+<option value="3">AM General</option>
+<option value="5">Aston Martin</option>
+<option value="6">Audi</option>
+<option value="7">Bentley</option>
+<option value="8">BMW</option>
+<option value="61">Bugatti</option>
+<option value="9">Buick</option>
+<option value="10">Cadillac</option>
+<option value="11">Chevrolet</option>
+<option value="12">Chrysler</option>
+<option value="67">Citroen</option>
+<option value="13">Daewoo</option>
+<option value="14">Daihatsu</option>
+<option value="16">Dodge</option>
+<option value="17">Eagle</option>
+<option value="18">Ferrari</option>
+<option value="75">Fiat</option>
+<option value="74">Fisker</option>
+<option value="19">Ford</option>
+<option value="63">Freightliner</option>
+<option value="20">Geo</option>
+<option value="21">GMC</option>
+<option value="22">Honda</option>
+<option value="23">HUMMER</option>
+<option value="24">Hyundai</option>
+<option value="25">Infiniti</option>
+<option value="70">International</option>
+<option value="26">Isuzu</option>
+<option value="27">Jaguar</option>
+<option value="28">Jeep</option>
+<option value="29">Kia</option>
+<option value="30">Lamborghini</option>
+<option value="31">Land Rover</option>
+<option value="32">Lexus</option>
+<option value="33">Lincoln</option>
+<option value="34">Lotus</option>
+<option value="35">Maserati</option>
+<option value="36">Maybach</option>
+<option value="37">Mazda</option>
+<option value="76">McLaren</option>
+<option value="38">Mercedes-Benz</option>
+<option value="39">Mercury</option>
+<option value="41">MINI</option>
+<option value="42">Mitsubishi</option>
+<option value="64">Morgan</option>
+<option value="43">Nissan</option>
+<option value="44">Oldsmobile</option>
+<option value="45">Panoz</option>
+<option value="46">Plymouth</option>
+<option value="47">Pontiac</option>
+<option value="48">Porsche</option>
+<option value="78">RAM</option>
+<option value="50">Rolls-Royce</option>
+<option value="51">Saab</option>
+<option value="65">Saleen</option>
+<option value="52">Saturn</option>
+<option value="53">Scion</option>
+<option value="62">Smart</option>
+<option value="66">Spyker</option>
+<option value="79">SRT</option>
+<option value="55">Subaru</option>
+<option value="56">Suzuki</option>
+<option value="73">Tesla</option>
+<option value="77">THINK</option>
+<option value="57">Toyota</option>
+<option value="58">Volkswagen</option>
+<option value="59">Volvo</option>
+                                                    </select>
+                                                </div>
+                                                <div>
+                                                    <select class="input-avg" name="model" id="navbarModelResearch">
+                                                        <option value="0">Select A Model</option>
+                                                                                                            </select>
+                                                </div>
+                                                <div>
+                                                    <select class="input-avg" name="year" id="navbarYearResearch">
+                                                        <option value="0">Select A Year</option>
+                                                                                                            </select>
+                                                </div>
+
+                                                <div>
+                                                    <button type="Search" value="Search">Search</button>
+                                                </div>
+
+                                            </form>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+
+                                <div class="cr-featured gnc-item">
+                                    <a title="Kia may have a contender." href="http://www.web2carz.com/kia/optima/2014/sxl-turbo/209/review"><img src="/images/mmy/201406/2014-kia-optima-sx-turbo_main_1403811836_186x124.jpg" class="rounded fitted cr-image"></a>
+<div class="cr-featuredContent truncate" style="overflow-wrap: break-word;">
+<h4><a title="Kia may have a contender." href="http://www.web2carz.com/kia/optima/2014/sxl-turbo/209/review">2014 Kia Optima SX Turbo Review</a></h4>
+<h5><a title="Kia may have a contender." href="http://www.web2carz.com/kia/optima/2014/sxl-turbo/209/review">Kia may have a contender.</a></h5>
+<div class="cr-featuredTeaser">
+The fact that the Kia Optima even bears comparison with perennial buyer and reviewer faves like the Honda Accord and the Toyota Camry is kind of remarkable, given the poor reputation the South Korean brand had in the United States for its first decade or so.
+</div>
+</div>
+                                </div>
+
+                                <div class="cr-recent gnc-item">
+                                <div class="cr-reviewPreview">
+<a title="Proof that luxury and trucks do mix." href="http://www.web2carz.com/gmc/sierra-2500hd/2015/denali/205/review"><img src="/images/mmy/201406/2015-gmc-sierra-2500hd-denali_main_1402429045_186x124.jpg" class="rounded cr-reviewImage"></a>
+<a title="Proof that luxury and trucks do mix." href="http://www.web2carz.com/gmc/sierra-2500hd/2015/denali/205/review" class="cr-reviewContent rounded truncate" style="overflow-wrap: break-word;"></a>
+</div>
+<div class="cr-reviewPreview">
+<a title="An expensive toy that's worth every penny." href="http://www.web2carz.com/porsche/cayman/2014/s/208/review"><img src="/images/mmy/201406/2014-porsche-cayman-s_main_1402435993_186x124.jpg" class="rounded cr-reviewImage"></a>
+<a title="An expensive toy that's worth every penny." href="http://www.web2carz.com/porsche/cayman/2014/s/208/review" class="cr-reviewContent rounded truncate" style="overflow-wrap: break-word;"></a>
+</div>
+<div class="cr-reviewPreview">
+<a title="The Little SUV That Shouldn't" href="http://www.web2carz.com/mitsubishi/outlander-sport/2014/se/206/review"><img src="/images/mmy/201406/2014-mitsubishi-outlander-sport-se_main_1402435794_186x124.jpg" class="rounded cr-reviewImage"></a>
+<a title="The Little SUV That Shouldn't" href="http://www.web2carz.com/mitsubishi/outlander-sport/2014/se/206/review" class="cr-reviewContent rounded truncate" style="overflow-wrap: break-word;"></a>
+</div>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="gn-listItem gn-lifestyleFeatures gradient">
+                        <a class="gn-link">
+                            Lifestyle Features
+                            <div class="gn-subtext">Interviews/Music/Tech</div>
+                        </a>
+                        <div class="gn-wrapper">
+                            <div class="gn-content">
+                                <div class="lf-featured gnc-item">
+                                    <a title="All the trends that have been trending online this week." href="http://www.web2carz.com/trends/everything-else/3362/shia-labeoufd-seth-rogen-offends-north-korean-president"><img src="/images/articles/201406/trends6_27_14_1403902732_375x250.jpg" width="341" height="226" class="rounded lf-image"></a>
+<div class="lf-featuredContent truncate" style="overflow-wrap: break-word;">
+<h4><a title="Shia LaBeouf'd, Seth Rogen Offends North Korean President: All the trends that have been trending online this week." href="http://www.web2carz.com/trends/everything-else/3362/shia-labeoufd-seth-rogen-offends-north-korean-president">Shia LaBeouf'd, Seth Rogen Offends North Korean President</a></h4>
+<h5><a title="All the trends that have been trending online this week." href="http://www.web2carz.com/trends/everything-else/3362/shia-labeoufd-seth-rogen-offends-north-korean-president">All the trends that have been trending online this week.</a></h5>
+<div class="lf-featuredTeaser">
+Sick and tired of reading story after story involving recalls? So are we! Hell, we're tired of writing them. That's why we've introduced the Recall Roundup, where we cover the past week's recall-related news in a single, easy-to-digest article. Here's what's on the chopping block for this week.
+</div>
+</div>
+                                </div>
+                                <div class="lf-links gnc-item">
+                                    <ul class="navigationBar-lite darkTheme">
+                                        <li class=""><a title="Most Popular Articles" href="http://www.web2carz.com/most-popular" class="">Most Popular</a></li>
+                                        <li class=""><a title="Interview Articles" href="http://www.web2carz.com/interviews" class="">Interviews</a></li>
+                                        <li class=""><a title="Music Review Articles" href="http://www.web2carz.com/music-reviews" class="">Music Reviews</a></li>
+                                        <li class=""><a title="Wicked Tech Articles" href="http://www.web2carz.com/wicked-tech" class="">Wicked Tech</a></li>
+                                        <li class=""><a title="List Articles" href="http://www.web2carz.com/lists" class="">Lists</a></li>
+                                        <li class=""><a title="Don't Be An Idiom Articles" href="http://www.web2carz.com/dont-be-an-idiom" class="">Don't Be an Idiom</a></li>
+                                        <li class=""><a title="Opinion Articles" href="http://www.web2carz.com/opinion" class="">Opinion</a></li>
+                                    </ul>
+                                </div>
+                                <div class="lf-recent gnc-item">
+                                    <div class="gnc-articlePreview">
+<a title="It always made you look like a prat, it's just now officially passé." href="http://www.web2carz.com/trends/offline/3352/your-beard-is-now-making-you-unhip"><img src="/images/articles/201406/beards_1403720783_120x80.jpg" class="rounded lf-ap-image"></a>
+<div class="gnc-content truncate" style="overflow-wrap: break-word;">
+<h4><a title="Your Beard Is Now Making You Unhip: It always made you look like a prat, it's just now officially passé." href="http://www.web2carz.com/trends/offline/3352/your-beard-is-now-making-you-unhip">Your Beard Is Now Making You Unhip</a></h4>
+<h5 title="It always made you look like a prat, it's just now officially passé.">It always made you look like a prat, it's just now officially passé.</h5>
+</div>
+</div>
+<div class="gnc-articlePreview">
+<a title="New study connects free will to electronic " background="" noise.""="" href="http://www.web2carz.com/lifestyle/everything-else/3347/free-will-may-be-an-illusion"><img src="/images/articles/201406/free_will_1403621965_120x80.jpg" class="rounded lf-ap-image"></a>
+<div class="gnc-content truncate" style="overflow-wrap: break-word;">
+<h4><a title="Free Will May Be an Illusion: New study connects free will to electronic " background="" noise.""="" href="http://www.web2carz.com/lifestyle/everything-else/3347/free-will-may-be-an-illusion">Free Will May Be an Illusion</a></h4>
+<h5 title="New study connects free will to electronic " background="" noise.""="">New study connects free will to electronic "background noise."</h5>
+</div>
+</div>
+<div class="gnc-articlePreview">
+<a title="The Beatles' first film treated like the cinematic masterpiece it is." href="http://www.web2carz.com/lifestyle/music/3348/the-definitive-edition-of-the-definitive-rock-flick"><img src="/images/articles/201406/new_releases6_24_14_1403625137_120x80.jpg" class="rounded lf-ap-image"></a>
+<div class="gnc-content truncate" style="overflow-wrap: break-word;">
+<h4><a title="The Definitive Edition of the Definitive Rock Flick: The Beatles' first film treated like the cinematic masterpiece it is." href="http://www.web2carz.com/lifestyle/music/3348/the-definitive-edition-of-the-definitive-rock-flick">The Definitive Edition of the Definitive Rock Flick</a></h4>
+<h5 title="The Beatles' first film treated like the cinematic masterpiece it is.">The Beatles' first film treated like the cinematic masterpiece it is.</h5>
+</div>
+</div>
+<div class="gnc-articlePreview">
+<a title="Prepare to enter the world of experimental deliciousness." href="http://www.web2carz.com/lifestyle/food/3343/meet-the-real-life-willy-wonka"><img src="/images/articles/201406/lick_me_im_delicious_1403299410_120x80.jpg" class="rounded lf-ap-image"></a>
+<div class="gnc-content truncate" style="overflow-wrap: break-word;">
+<h4><a title="Meet the Real-Life Willy Wonka: Prepare to enter the world of experimental deliciousness." href="http://www.web2carz.com/lifestyle/food/3343/meet-the-real-life-willy-wonka">Meet the Real-Life Willy Wonka</a></h4>
+<h5 title="Prepare to enter the world of experimental deliciousness.">Prepare to enter the world of experimental deliciousness.</h5>
+</div>
+</div>
+<div class="gnc-articlePreview">
+<a title="Exploring the origins of everyday words and phrases." href="http://www.web2carz.com/trends/offline/3305/dont-be-an-idiom-brake"><img src="/images/articles/201406/brakes_1402599520_120x80.jpg" class="rounded lf-ap-image"></a>
+<div class="gnc-content truncate" style="overflow-wrap: break-word;">
+<h4><a title="Don't Be an Idiom: Brake: Exploring the origins of everyday words and phrases." href="http://www.web2carz.com/trends/offline/3305/dont-be-an-idiom-brake">Don't Be an Idiom: Brake</a></h4>
+<h5 title="Exploring the origins of everyday words and phrases.">Exploring the origins of everyday words and phrases.</h5>
+</div>
+</div>
+<div class="gnc-articlePreview">
+<a title="All the trends that have been trending online this week." href="http://www.web2carz.com/trends/everything-else/3339/cocaine-cookies-gerry-goffin-our-miley-world-cup"><img src="/images/articles/201406/trends6_20_14_1403292497_120x80.jpg" class="rounded lf-ap-image"></a>
+<div class="gnc-content truncate" style="overflow-wrap: break-word;">
+<h4><a title="Cocaine Cookies, Gerry Goffin, Our Miley, World Cup: All the trends that have been trending online this week." href="http://www.web2carz.com/trends/everything-else/3339/cocaine-cookies-gerry-goffin-our-miley-world-cup">Cocaine Cookies, Gerry Goffin, Our Miley, World Cup</a></h4>
+<h5 title="All the trends that have been trending online this week.">All the trends that have been trending online this week.</h5>
+</div>
+</div>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    <li class="gn-listItem gn-autoFeatures gradient">
+                        <a class="gn-link">
+                            Auto Features
+                            <div class="gn-subtext">Car News/Opinion</div>
+                        </a>
+                        <div class="gn-wrapper">
+                            <div class="gn-content">
+
+                                <div class="af-featured gnc-item">
+                                    <a title="In which Ford proves that not all the best cars need to be expensive." href="http://www.web2carz.com/autos/everything-else/3360/three-cylinders-good-through-the-up-with-the-ford-fiesta"><img src="/images/articles/201406/ford_fiesta_1403813236_375x250.jpg" width="341" height="226" class="rounded af-image"></a>
+<div class="af-featuredContent truncate" style="overflow-wrap: break-word;">
+<h4><a title="In which Ford proves that not all the best cars need to be expensive." href="http://www.web2carz.com/autos/everything-else/3360/three-cylinders-good-through-the-up-with-the-ford-fiesta">Three Cylinders Good: Through the UP with the Ford Fiesta</a></h4>
+<h5><a title="In which Ford proves that not all the best cars need to be expensive." href="http://www.web2carz.com/autos/everything-else/3360/three-cylinders-good-through-the-up-with-the-ford-fiesta">In which Ford proves that not all the best cars need to be expensive.</a></h5>
+<div class="af-featuredTeaser">
+Believe it or not, it was Henry Ford's abiding love of nature that inspired him to invent the first mass-produced automobile. Ford was an avid conservationist, and famously refused to let any resource go un-recycled (although the oft-repeated tale of Ford using packing crates to make floorboards for the Model T is, in fact, apocryphal).
+</div>
+</div>
+                                </div>
+                                <div class="af-links gnc-item">
+                                    <ul class="navigationBar-lite darkTheme">
+                                        <li class=""><a title="Autos Explained Articles" href="http://www.web2carz.com/autos-explained" class="">Autos Explained</a></li>
+                                        <li class=""><a title="Do-It-Yourself Autos Articles" href="http://www.web2carz.com/do-it-yourself-autos" class="">Do-It-Yourself Autos</a></li>
+                                        <li class=""><a title="Auto Gallery Articles" href="http://www.web2carz.com/auto-galleries" class="">Auto Galleries</a></li>
+                                        <li class=""><a title="Green Auto Articles" href="http://www.web2carz.com/green-auto" class="">Green Auto</a></li>
+                                        <li class=""><a title="Auto News Articles" href="http://www.web2carz.com/autos/news" class="">Car News</a></li>
+                                        <li class=""><a title="Car Tech Articles" href="http://www.web2carz.com/autos/car-tech" class="">Car Tech</a></li>
+                                        <li class=""><a title="Fuel Economy &amp; Safety Articles" href="http://www.web2carz.com/autos/fuel-economy-and-safety" class="">Safety &amp; Economy</a></li>
+                                        <li class=""><a title="Buying &amp; Selling Articles" href="http://www.web2carz.com/autos/buying-and-selling" class="">Buying &amp; Selling</a></li>
+                                    </ul>
+                                </div>
+                                <div class="af-recent gnc-item">
+                                    <div class="gnc-articlePreview">
+<a title="Your auto news roundup for the week of 06/20 - 06/27." href="http://www.web2carz.com/autos/news/3358/chevys-stop-sale-nissans-partnership-hondas-weirdness"><img src="/images/articles/201406/mercedes_cla_1403805983_120x80.jpg" class="rounded af-ap-image"></a>
+<div class="gnc-content truncate" style="overflow-wrap: break-word;">
+<h4><a title="Your auto news roundup for the week of 06/20 - 06/27." href="http://www.web2carz.com/autos/news/3358/chevys-stop-sale-nissans-partnership-hondas-weirdness">Chevy's Stop-Sale, Nissan's Partnership, Honda's Weirdness</a></h4>
+<h5 title="Your auto news roundup for the week of 06/20 - 06/27.">Your auto news roundup for the week of 06/20 - 06/27.</h5>
+</div>
+</div>
+<div class="gnc-articlePreview">
+<a title="The 2015 Promaster City opens up a whole new can of worms." href="http://www.web2carz.com/autos/buying-and-selling/3357/ram-is-entering-the-mini-cargo-van-arena"><img src="/images/articles/201406/2015_ram_promaster_city_1403806829_120x80.jpg" class="rounded af-ap-image"></a>
+<div class="gnc-content truncate" style="overflow-wrap: break-word;">
+<h4><a title="The 2015 Promaster City opens up a whole new can of worms." href="http://www.web2carz.com/autos/buying-and-selling/3357/ram-is-entering-the-mini-cargo-van-arena">Ram Is Entering the Mini Cargo Van Arena</a></h4>
+<h5 title="The 2015 Promaster City opens up a whole new can of worms.">The 2015 Promaster City opens up a whole new can of worms.</h5>
+</div>
+</div>
+<div class="gnc-articlePreview">
+<a title="Web2Carz' presents crazy cute to go with wicked cool" href="http://www.web2carz.com/autos/everything-else/3344/5-most-adorable-car-videos"><img src="/images/articles/201406/adorable_car_videos_1403626136_120x80.jpg" class="rounded af-ap-image"></a>
+<div class="gnc-content truncate" style="overflow-wrap: break-word;">
+<h4><a title="Web2Carz' presents crazy cute to go with wicked cool" href="http://www.web2carz.com/autos/everything-else/3344/5-most-adorable-car-videos">5 Most Adorable Car Videos</a></h4>
+<h5 title="Web2Carz' presents crazy cute to go with wicked cool">Web2Carz' presents crazy cute to go with wicked cool</h5>
+</div>
+</div>
+<div class="gnc-articlePreview">
+<a title="There's no need to roll around on ugly rims. Fix them." href="http://www.web2carz.com/autos/everything-else/3354/diy-rim-refurbishing"><img src="/images/articles/201406/rim_refurb_1403713675_120x80.jpg" class="rounded af-ap-image"></a>
+<div class="gnc-content truncate" style="overflow-wrap: break-word;">
+<h4><a title="There's no need to roll around on ugly rims. Fix them." href="http://www.web2carz.com/autos/everything-else/3354/diy-rim-refurbishing">DIY: Rim Refurbishing</a></h4>
+<h5 title="There's no need to roll around on ugly rims. Fix them.">There's no need to roll around on ugly rims. Fix them.</h5>
+</div>
+</div>
+<div class="gnc-articlePreview">
+<a title="Let's see what's new in automotive recalls this week, shall we?" href="http://www.web2carz.com/autos/fuel-economy-and-safety/3349/recall-roundup-a-hodge-podge-week"><img src="/images/articles/201406/2014_buick_lacrosse_1403626667_120x80.jpg" class="rounded af-ap-image"></a>
+<div class="gnc-content truncate" style="overflow-wrap: break-word;">
+<h4><a title="Let's see what's new in automotive recalls this week, shall we?" href="http://www.web2carz.com/autos/fuel-economy-and-safety/3349/recall-roundup-a-hodge-podge-week">Recall Roundup: A Hodge-Podge Week</a></h4>
+<h5 title="Let's see what's new in automotive recalls this week, shall we?">Let's see what's new in automotive recalls this week, shall we?</h5>
+</div>
+</div>
+<div class="gnc-articlePreview">
+<a title="This week's is for everyone who likes to get dirty." href="http://www.web2carz.com/autos/everything-else/3355/weekly-car-porn-offroad-orgy"><img src="/images/articles/201406/cp_ford_bronco_1403726480_120x80.jpg" class="rounded af-ap-image"></a>
+<div class="gnc-content truncate" style="overflow-wrap: break-word;">
+<h4><a title="This week's is for everyone who likes to get dirty." href="http://www.web2carz.com/autos/everything-else/3355/weekly-car-porn-offroad-orgy">Weekly Car Porn: Offroad Orgy</a></h4>
+<h5 title="This week's is for everyone who likes to get dirty.">This week's is for everyone who likes to get dirty.</h5>
+</div>
+</div>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </div>
+    <div class="logo">
+        <h1><a id="logo-link" href="http://www.web2carz.com/">Web2Carz: The Original Autos &amp; Lifestyle Online Magazine</a></h1>
+    </div>
+    <div class="masthead-external section">
+        <div class="external-social">
+            <a title="Visit us on Facebook" href="http://www.facebook.com/web2carz" class="sprite-global social_facebook_bw"></a>
+            <a title="Visit us on Twitter" href="http://www.twitter.com/web2carz" class="sprite-global social_twitter_bw"></a>
+            <a title="Follow us on Pinterest" href="http://pinterest.com/web2carz/" class="sprite-global social_pintrest_bw"></a>
+            <a title="Join us on Google+" href="https://google.com/+web2carz" class="sprite-global social_google_bw"></a>
+        </div>
+        <div class="external">
+            <!--<img src="http://placehold.it/729x89" />-->
             
 <div id="V2_Corprate_Pages">
 <script type="text/javascript">
@@ -89,30 +841,27 @@ googletag.enableServices();
 
         </div>
     </div>
-
-<!--=============================
-	Stage
-=================================-->
-
-<!-- Begin Nav Area -->
-<div class="row">
-    <section id="stageNav">
-    	<nav>
-        	<ul id="mainNav">
-                <li><a href="http://www.web2carz.com/autos" class="autos"></a></li><li><a href="http://www.web2carz.com/lifestyle" class="lifestyles"></a><ul class="mainDrop"><li><a href="http://www.web2carz.com/lifestyle/music">Music</a></li><li><a href="http://www.web2carz.com/lifestyle/food">Food</a></li><li><a href="http://www.web2carz.com/lifestyle/travel">Travel</a></li><li><a href="http://www.web2carz.com/lifestyle/shopping">Shopping</a></li><li><a href="http://www.web2carz.com/lifestyle/everything-else">Everything Else</a></li></ul></li><li><a href="http://www.web2carz.com/people" class="people"></a><ul class="mainDrop"><li><a href="http://www.web2carz.com/people/who-you-know">Who You Know</a></li><li><a href="http://www.web2carz.com/people/who-you-should-know">Who You Should Know</a></li><li><a href="http://www.web2carz.com/people/everyone-else">Everyone Else</a></li></ul></li><li><a href="http://www.web2carz.com/tech" class="tech"></a><ul class="mainDrop"><li><a href="http://www.web2carz.com/tech/business">Business</a></li><li><a href="http://www.web2carz.com/tech/pleasure">Pleasure</a></li><li><a href="http://www.web2carz.com/tech/everything-else">Everything Else</a></li></ul></li><li><a href="http://www.web2carz.com/trends" class="trends"></a><ul class="mainDrop"><li><a href="http://www.web2carz.com/trends/online">Online</a></li><li><a href="http://www.web2carz.com/trends/offline">Offline</a></li><li><a href="http://www.web2carz.com/trends/everything-else">Everything Else</a></li></ul></li>
-            </ul>
-            <form method="get" action="http://www.web2carz.com/site_search.php" id="cse-search-box">
+    <div class="searchBar">
+        <div class="searchBarLiner gradient">
+            <form method="get" action="http://www.web2carz.com/site_search.php">
                 <input type="hidden" name="cx" value="partner-pub-7000698801807856:2954703055">
                 <input type="hidden" name="ie" value="UTF-8">
                 <input type="hidden" name="cof" value="FORID:10">
-                <input name="q" type="text" size="40">
-            <input name="siteurl" type="hidden" value="web.archive.org/web/20131030214619id_/http%3A//www.web2carz.com/privacy"></form>
-            <script type="text/javascript" src="/common/js/google_search.js"></script>
-            <!--<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>-->
-
-        </nav><!-- /Main Nav -->
-    </section><!-- /stageNav -->
-</div><!-- /row -->
+                <div class="search-wrapper">
+                    <input name="q" type="text" size="40" class="search">
+                    <span class="search-icon"></span>
+                </div>
+            </form>
+        </div>
+    </div>
+</header>
+<script type="text/javascript">
+jQuery.getScript("/common/js/rd/libs/jquery.dotdotdot.min.js")
+.done(function( script, textStatus ) {
+    jQuery(".truncate").dotdotdot();
+});
+jQuery.getScript("/common/js/google_search.js");
+</script>
 <!--=============================
 	Content
 =================================-->
@@ -215,11 +964,71 @@ googletag.enableServices();
 
 
 
-<!--=============================
+<script type="text/javascript">
+ jQuery(document).ready(function () {
+
+
+     jQuery.getScript('/common/js/rd/global.min.js');
+
+     // Attempt to load Google API, on fail load local
+     jQuery.getScript('//ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js')
+         .done(function( script, textStatus ) {
+           initJqueryUI();
+         })
+         .fail(function( jqxhr, settings, exception ) {
+             jQuery.getScript('/common/js/rd/libs/jquery-ui-1.10.3.custom.min.js')
+                 .done(function( script, textStatus ) {
+                     initJqueryUI();
+                 });
+         });
+
+     function initJqueryUI() {
+         if (touchState) {
+             jQuery.getScript('/common/js/rd/libs/jquery.ui.touch-punch.min.js')
+                 .done(function( script, textStatus ) {
+                 jQuery(".tabs").tabs();
+             })
+         } else {
+            jQuery(".tabs").tabs();
+         }
+     }
+
+     // Allow deferred elements
+     jQuery(".defer").removeClass("defer");
+
+     /* Compact Forms
+     jQuery(".compact")
+             .addClass("compacted")
+             .removeClass("compact")
+             .children("input")
+                 .attr("data-originalWidth",function(){
+                     return jQuery(this).width();
+                 })
+                 .focus(function(){
+                     var thisInput = jQuery(this);
+                     thisInput.parent().addClass("focus");
+                     thisInput.width(
+                            Number(thisInput.attr("data-originalWidth"))
+                            + thisInput.siblings("label").width()
+);
+
+                     thisInput.siblings("label").css("left",jQuery(this).width());
+                 })
+                 .blur(function(){
+                     var thisInput = jQuery(this);
+                     thisInput.parent().removeClass("focus");
+                     thisInput.width(
+                             thisInput.attr("data-originalWidth")
+                         );
+
+                     thisInput.siblings("label").css("left","0");
+                 }) */
+ });
+</script><!--=============================
 	Footer
 =================================-->
 <footer>
-	<div id="wrapper">
+	<div class="wrapper">
     	<!--
         <a title="Web2Carz iPhone App" href=""><img class="iphone" src="/images/rd/iphone_app.png" /></a>
         -->
@@ -314,31 +1123,47 @@ googletag.enableServices();
 
         <!-- /Site Map -->
             <ul class="social">
-                <li><a title="Visit us on Facebook" href="http://www.facebook.com/web2carz"><img src="/images/rd/fb.png"></a></li>
-                <li><a title="Visit us on Twitter" href="http://www.twitter.com/web2carz"><img src="/images/rd/twitter.png"></a></li>
-                <li><a title="Join us on Google+" href="https://plus.google.com/113719098388549859657?prsrc=3"><img src="/images/rd/gplus.png"></a></li>
-                <li><a title="Follow us on Pinterest" href="http://pinterest.com/web2carz/"><img src="/images/rd/pinterest.png"></a></li>
+                <li>
+                    <a title="Visit us on Facebook" href="http://www.facebook.com/web2carz">
+                        <span class="footer_fb sprite-global_32 footer-social-icon"></span>
+                    </a>
+                </li>
+                <li>
+                    <a title="Visit us on Twitter" href="http://www.twitter.com/web2carz">
+                        <span class="footer_twitter sprite-global_32 footer-social-icon"></span>
+                    </a>
+                </li>
+                <li>
+                    <a title="Join us on Google+" href="https://google.com/+web2carz">
+                        <span class="footer_gplus sprite-global_32 footer-social-icon"></span>
+                    </a>
+                </li>
+                <li>
+                    <a title="Follow us on Pinterest" href="http://pinterest.com/web2carz/">
+                        <span class="footer_pinterest sprite-global_32 footer-social-icon"></span>
+                    </a>
+                </li>
             </ul>
 
-        <a target="_blank" href="http://www.bbb.org/chicago/business-reviews/auto-dealers-new-cars/web2carzcom-ltd-in-highland-park-il-88259141#bbblogo"><img alt="Click to verify BBB accreditation and to see a BBB report." title="Click to verify BBB accreditation and to see a BBB report." class="bbb" src="/images/rd/bbb.png"></a>
-        <img class="autodata" src="/images/rd/autodata.png">
-    	<span class="copy">© 2013 Web2Carz.com, LTD - All Rights Reserved</span>
+        <a target="_blank" href="http://www.bbb.org/chicago/business-reviews/auto-dealers-new-cars/web2carzcom-ltd-in-highland-park-il-88259141#bbblogo"><span title="Click to verify BBB accreditation and to see a BBB report." class="footer_bbb sprite-global"></span></a>
+        <span class="footer_autodata sprite-global_32"></span>
+    	<span class="copy">© 2014 Web2Carz.com, LTD - All Rights Reserved</span>
     </div>
 </footer>
 <!--=============================
 	/Footer
 =================================-->
-
 <script>
-  window.jQuery || document.write('<script src="/common/js/rd/libs/jquery.1.7.1.min.js"><\/script>');
-</script><script src="/common/js/rd/libs/jquery.1.7.1.min.js"></script>
-<script src="/common/js/rd/plugins.js"></script>
-<script>
-        jQuery.noConflict();
-
     jQuery(document).ready(function() {
-        // Back To Top
-         jQuery().UItoTop({ easingType: 'easeInOutCubic' });
+
+        jQuery.getScript('/common/js/rd/libs/plugins.min.js')
+           .done(function( script, textStatus ) {
+
+                // Back To Top
+                jQuery().UItoTop({ easingType: 'easeInOutCubic' });
+           });
+
+
     });
 </script>
 
@@ -413,5 +1238,6 @@ s.parentNode.insertBefore(oiq, s);
 <noscript>
   <img src="http://b.scorecardresearch.com/p?c1=2&c2=12350640&cv=2.0&cj=1" />
 </noscript>
+
 
 <a href="#" id="toTop" style="display: none;"><span id="toTopHover"></span>To Top</a></body></html>
