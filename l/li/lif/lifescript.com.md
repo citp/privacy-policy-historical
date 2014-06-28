@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the lifescript.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205044840id_/http%3A//www.lifescript.com/aboutlifescript/terms_of_use/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifescript.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628020917id_/http%3A//www.lifescript.com/aboutlifescript/terms_of_use/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Lifescript.com
 
 PLEASE NOTE THAT OUR PRIVACY POLICY HAS CHANGED.
 
- **Last Revised: September 25, 2013**
+ **Last Revised: February 21, 2014**
 
 This privacy policy ("Policy") explains how personal information is collected, used, and disclosed by Lifescript, Inc. ("Lifescript," "we,” “our” or "us") with respect to your use of our Web site located at[www.Lifescript.com](http://www.lifescript.com/) (the "Site") so you can make an informed decision about using our Site. By using our Site, you consent to the privacy practices described in this Policy, as may be modified by us from time to time. We reserve the right to change the provisions of this Policy at any time. **We will alert you that changes have been made by indicating on the privacy policy the date it was last updated. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. Your use of the Site following the posting of such changes or revised statement shall constitute your consent to any changes in our privacy practices.** We encourage you to review this Policy whenever you visit our Site to make sure that you understand how any personal information you provide will be used.
 
