@@ -1,0 +1,513 @@
+<!--The following is the downloaded HTML source of the esharesinc.com privacy policy that was archived on 2014-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140628100458id_/https%3A//www.esharesinc.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html><head><script type="text/javascript" async="" src="https://cdn.mxpnl.com/libs/mixpanel-2.2.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UQMPVFNaGwAHV1hXAAc="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+	<title>eShares - Electronic stock certificates and stock options, subscription 409a valuations, and online cap table management</title>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+    <!-- site ICO images -->
+    <link rel="shortcut icon" href="https://d379ot96i93tz0.cloudfront.net/static/lib/eshares/img/favicon.ico">
+    <link rel="apple-touch-icon" sizes="114x114" href="https://d379ot96i93tz0.cloudfront.net/static/lib/eshares/img/touch-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="https://d379ot96i93tz0.cloudfront.net/static/lib/eshares/img/touch-icon-72x72.png">
+    <link rel="apple-touch-icon" href="https://d379ot96i93tz0.cloudfront.net/static/lib/eshares/img/touch-icon-iphone.png">
+
+    <!-- Fonts -->
+    <script type="text/javascript" src="https://d379ot96i93tz0.cloudfront.net/static/lib/js/pbc3puq.js"></script>
+    <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+
+    <meta name="viewport" content="width=1200">
+	<meta name="title" content="eShares - Electronic stock certificates and stock options, subscription 409a valuations, FAS 123R, and online cap table management">
+	<meta name="description" content="eShares lets you issue electronic stock certificates and options, manage your cap table online, and get expert 409A valuations for $159 per month.">
+    <meta name="google-site-verification" content="7qiDOjKVwCZub639nHsT9U_mm9ieozrWELMlWzv5Jwk">
+	<meta name="keywords" content="">
+	<meta name="robots" content="index,follow">
+
+    <link href="https://d379ot96i93tz0.cloudfront.net/static/css/homepage-5cce9933e745bac4b23a20b7771cb822a5953cf0.css" rel="stylesheet" type="text/css">
+
+    
+        <!-- Google Analytics -->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-33931903-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+<!-- Adroll pixel -->
+<script type="text/javascript">
+    adroll_adv_id = "OH3RE6RD6FEM7PSXXCA6IL";
+    adroll_pix_id = "EHWBWLTAZZCMHHQ7AQ2JOQ";
+    (function () {
+    var oldonload = window.onload;
+    window.onload = function(){
+       __adroll_loaded=true;
+       var scr = document.createElement("script");
+       var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+       scr.setAttribute('async', 'true');
+       scr.type = "text/javascript";
+       scr.src = host + "/j/roundtrip.js";
+       ((document.getElementsByTagName('head') || [null])[0] ||
+        document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+       if(oldonload){oldonload()}};
+    }());
+</script>
+
+    
+
+    
+        <link rel="canonical" href="https://www.esharesinc.com/privacy">
+    
+<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+
+<body class="page-home" data-rel="Okb73CEGtK4mxrVZzUsD0hsLBtlRSmm4"><div id="olark" style="display: none;"><olark><iframe frameborder="0" id="olark-loader"></iframe></olark></div>
+    
+<header>
+	<div class="grid-container">
+        <div class="grid-20">
+            <a class="brand js-brand" href="/">eShares</a>
+            &nbsp;
+        </div>
+        <div class="grid-80">
+			
+				<a class="btn btn-primary btn-signup js-home-get-started-modal" href="/start">Get started</a>
+			
+			<ul class="nav pull-right">
+				
+				<li class="">
+					<a href="/features">
+						Features
+					</a>
+				</li>
+				
+				<li class="">
+					<a href="/pricing">
+						Pricing
+					</a>
+				</li>
+				
+				<li class="">
+					<a href="/409a">409A</a>
+				</li>
+				
+				<li class="">
+					<a href="/asc718">ASC 718</a>
+				</li>
+				<li>
+					<a href="#js-home-nav-modal" data-toggle="modal">
+						More<i class="fa fa-chevron-down" style="font-size:60%;vertical-align:2px;margin-left:8px;"></i>
+					</a>
+				</li>
+				
+                    
+                    
+					<li class=" "><a href="/accounts/login/" id="id_login_link">Log in</a></li>
+				
+			</ul>
+		</div>
+	</div>
+
+
+	<div id="js-home-nav-modal" class="home-nav-modal modal hide fade" tabindex="-1" data-color="white">
+		<a href="#" class="close" data-dismiss="modal">×</a>
+
+		<h1>Product</h1>
+		<ul>
+			<li>
+				
+				<a href="/features">Features</a>
+			</li>
+			<li>
+				
+				<a href="/howitworks">How it works</a>
+			</li>
+			<li>
+				
+				<a href="/pricing">Pricing</a>
+			</li>
+			<li>
+				
+				<a href="/customers">Customers</a>
+			</li>
+		</ul>
+
+		<h1>Compliance</h1>
+		<ul>
+			<li>
+				
+				<a href="/409a">409A</a>
+			</li>
+			<li>
+				
+				<a href="/asc718">ASC 718</a>
+			</li>
+		</ul>
+
+		<h1>Learning</h1>
+		<ul>
+			<li><a href="https://blog.esharesinc.com">Blog</a></li>
+			<li><a href="http://www.eventbrite.com/o/eshares-6190779215" target="_blank">eShares University</a></li>
+			<li><a href="https://esharesinc.zendesk.com" target="_blank">Help center</a></li>
+			<li><a href="#" class="js_support">Live support</a></li>
+		</ul>
+
+		<h1>Company</h1>
+		<ul>
+        	<li><a href="/about">About</a></li>
+            <li><a href="/about#about-team">Team</a></li>
+        	<li><a href="/about#about-investors">Investors</a></li>
+            <li><a href="/about#about-logos">Logos</a></li>
+            <li><a href="/about#about-press">Press</a></li>
+        </ul>
+	</div>
+
+	<div id="js-home-get-started-modal" class="home-get-started-modal modal hide fade" tabindex="-1" data-color="white">
+		<a href="#" class="close" data-dismiss="modal">×</a>
+
+		<h1>How would you like to get started?</h1>
+		<h2>Two ways to get your company onto eShares.</h2>
+		<ul>
+			<li>
+				<p>
+					<strong>Free signup</strong>
+					<br>
+					Set up your company on your own.
+					<br>
+					For the do-it-yourselfers.
+				</p>
+				
+				<a href="/accounts/register/" class="btn btn-primary btn-large">Sign up</a>
+			</li>
+			<li>
+				<span class="ribbon">Most popular!</span>
+				<p>
+					<strong>Full Service Conversion</strong>
+					<br>
+					We'll set up your company for you for $100.
+					<br>
+					Save time and ensure accuracy.
+				</p>
+				<a href="/start" class="btn btn-primary btn-large">Get started</a>
+			</li>
+		</ul>
+
+	</div>
+</header>
+
+
+    
+<div class="hero">
+    <div class="grid-container">
+        <div class="grid-100">
+            <h1>Privacy policy</h1>
+        </div>
+    </div>
+</div>
+
+<div class="feature">
+    <div class="grid-container">
+	    <div class="grid-50 prefix-25 suffix-25">
+	    	<h3>Data Controller and Owner</h3>
+<p class="lighten">eShares, Inc.
+2525 E. Charleston Road, Suite 104
+Mountain View, CA 94043
+, <br>support@esharesinc.com</p>
+
+<br>
+
+<h3>Types of Data collected</h3>
+<p class="lighten">Among the types of Personal Data that this Application collects, by itself or through third parties, there are: Cookie, Usage Data, Email, First Name and Last Name.</p>
+
+<p class="lighten">Other Personal Data collected may be described in other sections of this privacy policy or by dedicated explanation text contextually with the Data collection.
+The Personal Data may be freely provided by the User, or collected automatically when using this Application.
+Any use of Cookies - or of other tracking tools - by this Application or by the owners of third party services used by this Application, unless stated otherwise, serves to identify Users and remember their preferences, for the sole purpose of providing the service required by the User.
+Failure to provide certain Personal Data may make it impossible for this Application to provide its services.</p>
+
+<p class="lighten">The User assumes responsibility for the Personal Data of third parties published or shared through this Application and declares to have the right to communicate or broadcast them, thus relieving the Data Controller of all responsibility.</p>
+
+<br>
+
+
+<h3>Mode and place of processing the Data</h3>
+<p class="reset-margins"><strong>Method of processing</strong></p>
+<p class="lighten">The Data Controller processes the Data of Users in proper manner and shall take appropriate security measures to prevent unauthorized access, disclosure, modification or unauthorized destruction of the Data.
+Access to the Data may be available to Data Processors, if appointed, as well as employees involved with the processing. Access to Data may be also available to external parties providing services to the Data Controller such as third party technical service providers, mail carriers, hosting providers, IT companies, communication agencies. The updated list of these parties may be requested from the Data Controller at any time.</p>
+
+
+<p class="reset-margins"><strong>Place</strong></p>
+
+<p class="lighten">The Data is processed at the Data Controller headquarters, unless stated otherwise in the rest of this document.</p>
+
+<p class="reset-margins"><strong>Conservation Time</strong></p>
+
+<p class="lighten">The Data is kept for the time necessary to provide the service requested by the User, or stated by the purposes outlined in this document, and the User can always request the Data Controller for their suspension or removal.</p>
+
+<br>
+
+
+<h3>The use of the collected Data</h3>
+
+<p class="lighten">The Data concerning the User is collected to allow the Application to provide its services, as well as for the following purposes: Analytics, Contacting the User, Managing email addresses and sending messages, Users' database management, Remarketing and Behavioral Targeting, Infrastructure monitoring and Registration and authentication.</p>
+
+
+<br>
+
+
+<h3>Additional information about Data collection and processing</h3>
+<p class="reset-margins"><strong>Legal Action</strong></p>
+
+<p class="lighten">The User's Personal Data may be used for legal purposes by the Data Controller, in Court or in the stages leading to possible legal action arising from improper use of this Application or the related services.</p>
+<p class="reset-margins"><strong>Additional Information about User's Personal Data</strong></p>
+
+<p class="lighten">In addition to the information in this privacy policy, this Application may provide the User with contextual information concerning particular services or the collection and processing of Personal Data.</p>
+<p class="reset-margins"><strong>System Logs and Maintenance</strong></p>
+
+<p class="lighten">For operation and maintenance purposes, this Application and any third party services may collect files that record interaction with this Application (System Logs) or use for this purpose other Personal Data (such as IP Address).</p>
+<p class="reset-margins"><strong>Information not contained in this policy</strong></p>
+
+<p class="lighten">More details concerning the collection or processing of Personal Data may be requested from the Data Controller at any time at its contact information.</p>
+<p class="reset-margins"><strong>The rights of Users</strong></p>
+
+<p class="lighten">Users have the right, at any time, to know whether their Personal Data has been stored and can consult the Data Controller to learn about their contents and origin, to verify their accuracy or to ask for them to be supplemented, cancelled, updated or corrected, or for their transformation into anonymous format or to block any data held in violation of the law, as well as to oppose their treatment for any and all legitimate reasons. Requests should be sent to the Data Controller at the contact information set out above.</p>
+
+<p class="lighten">This Application does not support “do not track” requests.
+To understand if any of the third party services it uses honor the “do not track” requests, please read their privacy policies.</p>
+<p class="reset-margins"><strong>Changes to this privacy policy</strong></p>
+
+<p class="lighten">The Data Controller reserves the right to make changes to this privacy policy at any time by giving notice to its Users on this page. It is strongly recommended to check this page often, referring to the date of the last modification listed at the bottom. If a User objects to any of the changes to the Policy, the User must cease using this Application and can request the Data Controller to erase the Personal Data. Unless stated otherwise, the then-current privacy policy applies to all Personal Data the Data Controller has about Users.</p>
+
+
+
+<br>
+
+
+<h3>Definitions and legal references </h3>
+
+<p class="reset-margins"><strong>Personal Data (or Data)</strong></p>
+
+<p class="lighten">Any information regarding a natural person, a legal person, an institution or an association, which is, or can be, identified, even indirectly, by reference to any other information, including a personal identification number.</p>
+<p class="reset-margins"><strong>Usage Data</strong></p>
+
+<p class="lighten">Information collected automatically from this Application (or third party services employed in this Application ), which can include: the IP addresses or domain names of the computers utilized by the Users who use this Application, the URI addresses (Uniform Resource Identifier), the time of the request, the method utilized to submit the request to the server, the size of the file received in response, the numerical code indicating the status of the server's answer (successful outcome, error, etc.), the country of origin, the features of the browser and the operating system utilized by the User, the various time details per visit (e.g., the time spent on each page within the Application) and the details about the path followed within the Application with special reference to the sequence of pages visited, and other parameters about the device operating system and/or the User's IT environment.</p>
+<p class="reset-margins"><strong>User</strong></p>
+
+<p class="lighten">The individual using this Application, which must coincide with or be authorized by the Data Subject, to whom the Personal Data refer.</p>
+<p class="reset-margins"><strong>Data Subject</strong></p>
+
+<p class="lighten">The legal or natural person to whom the Personal Data refers to.</p>
+<p class="reset-margins"><strong>Data Processor</strong></p>
+
+<p class="lighten">The natural person, legal person, public administration or any other body, association or organization authorized by the Data Controller to process the Personal Data in compliance with this privacy policy.</p>
+<p class="reset-margins"><strong>Data Controller (or Application Owner, or Owner)</strong></p>
+
+<p class="lighten">The natural person, legal person, public administration or any other body, association or organization with the right, also jointly with another Data Controller, to make decisions regarding the purposes, and the methods of processing of Personal Data and the means used, including the security measures concerning the operation and use of this Application. The Data Controller, unless otherwise specified, is the Owner of this Application.</p>
+<p class="reset-margins"><strong>This Application</strong></p>
+
+<p class="lighten">The hardware or software tool by which the User Personal Data is collected.</p>
+<p class="reset-margins"><strong>Cookie</strong></p>
+
+<p class="lighten">Small piece of data stored in the User's device.</p>
+<p class="reset-margins"><strong>Legal information</strong></p>
+
+<p class="lighten">Notice to European Users: this privacy statement has been prepared in fulfillment of the obligations under Art. 10 of EC Directive n. 95/46/EC, and under the provisions of Directive 2002/58/EC, as revised by Directive 2009/136/EC, on the subject of Cookies.
+
+This privacy policy is solely about this Application.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	    </div>
+    </div>
+</div>
+
+<div class="nag">
+	<div class="grid-container">
+        <div class="grid-100">
+            <h2>
+                Issue your electronic stock certificates and options with eShares.
+            </h2>
+            <a href="/start" class="btn btn-primary btn-large js-home-get-started-modal">Get started now</a>
+        </div>
+    </div>
+</div>
+
+
+
+
+    <footer>
+    <div class="grid-container">
+
+        <div class="grid-15">
+            <h4>Company</h4>
+            <ul>
+                <li><a href="/about">About eShares</a></li>
+                <li><a href="/about#about-team">Meet the team</a></li>
+                <li><a href="/about#about-investors">Investors &amp; advisors</a></li>
+                <li><a href="/about#about-logos">Logos</a></li>
+                <li><a href="/about#about-press">Press</a></li>
+            </ul>
+        </div>
+        <div class="grid-15">
+            <h4>Agreements</h4>
+            <ul>
+                <li><a href="/terms">Terms of service</a></li>
+                <li><a href="/privacy">Privacy policy</a></li>
+            </ul>
+        </div>
+        <div class="grid-45">
+            <h4>Connect</h4>
+            <ul>
+                <li><a href="https://esharesinc.zendesk.com" target="_blank">Help center</a></li>
+                <li><a href="https://esharesinc.zendesk.com/home" target="_blank">FAQ</a></li>
+                <li><a href="https://blog.esharesinc.com">eShares blog</a></li>
+            </ul>
+            <a href="http://www.facebook.com/esharesinc" target="_blank"><i class="fa fa-facebook-square"></i></a>
+            <a href="http://www.twitter.com/esharesinc" target="_blank"><i class="fa fa-twitter-square"></i></a>
+        </div>
+
+        <div class="grid-25">
+            <h4>Contact us</h4>
+
+            <p>
+                <a href="mailto:support@esharesinc.com">support@esharesinc.com</a>
+                <br>
+                (650) 669-8381
+            </p>
+
+            <p>
+                eShares,&nbsp;Inc.
+<br>
+2525&nbsp;E.&nbsp;Charleston&nbsp;Road, Suite&nbsp;104
+<br>
+Mountain&nbsp;View, CA&nbsp;94043
+
+            </p>
+        </div>
+
+        <div class="grid-100">
+            <br>
+            <p>© 2014 <span data-toggle="tooltip" data-trigger="click" data-container="body" title="Hash: 5cce9933e745bac4b23a20b7771cb822a5953cf0; Date: Thu, 26 Jun 2014 21:48:54 -0700; Message: Merge pull request #2343 from eshares/hotfix-2343-pay-history-fix
+
+Don't show failed/uncaptured charges in payment history">eShares</span>, Inc.</p>
+        </div>
+
+    </div>
+</footer>
+
+
+    <script type="text/javascript" src="https://d379ot96i93tz0.cloudfront.net/static/js/homepage-5cce9933e745bac4b23a20b7771cb822a5953cf0.js" charset="utf-8" crossorigin="anonymous"></script>
+
+
+    
+    
+
+    
+    
+
+    <!-- for ie placeholder text -->
+    <!--[if IE]>
+    <script src="https://d379ot96i93tz0.cloudfront.net/static/lib/js/jquery.placeholder.js?v=5cce9933e745bac4b23a20b7771cb822a5953cf0" type="text/javascript"></script>
+    <script type="text/javascript">
+        $('input, textarea').placeholder();
+        if (!Array.prototype.indexOf) {
+            Array.prototype.indexOf = function(elt /*, from*/) {
+                var len = this.length >>> 0;
+                var from = Number(arguments[1]) || 0;
+                from = (from < 0) ? Math.ceil(from) : Math.floor(from);
+                if (from < 0)
+                    from += len;
+                for (; from < len; from++) {
+                    if (from in this && this[from] === elt)
+                        return from;
+                }
+                return -1;
+            };
+        }
+    </script>
+    <![endif]-->
+
+    
+        <!-- start Mixpanel --><script type="text/javascript">(function(e,b){if(!b.__SV){var a,f,i,g;window.mixpanel=b;a=e.createElement("script");a.type="text/javascript";a.async=!0;a.src=("https:"===e.location.protocol?"https:":"http:")+'//cdn.mxpnl.com/libs/mixpanel-2.2.min.js';f=e.getElementsByTagName("script")[0];f.parentNode.insertBefore(a,f);b._i=[];b.init=function(a,e,d){function f(b,h){var a=h.split(".");2==a.length&&(b=b[a[0]],h=a[1]);b[h]=function(){b.push([h].concat(Array.prototype.slice.call(arguments,0)))}}var c=b;"undefined"!==
+typeof d?c=b[d]=[]:d="mixpanel";c.people=c.people||[];c.toString=function(b){var a="mixpanel";"mixpanel"!==d&&(a+="."+d);b||(a+=" (stub)");return a};c.people.toString=function(){return c.toString(1)+".people (stub)"};i="disable track track_pageview track_links track_forms register register_once alias unregister identify name_tag set_config people.set people.set_once people.increment people.append people.track_charge people.clear_charges people.delete_user".split(" ");for(g=0;g<i.length;g++)f(c,i[g]);
+b._i.push([a,e,d])};b.__SV=1.2}})(document,window.mixpanel||[]);
+mixpanel.init("979672b11fc7264dcf4a8f5f148009d0");</script><!-- end Mixpanel -->
+
+
+
+
+    
+
+    
+
+<!-- begin olark code -->
+<script data-cfasync="false" type="text/javascript">/*<![CDATA[*/window.olark||(function(c){var f=window,d=document,l=f.location.protocol=="https:"?"https:":"http:",z=c.name,r="load";var nt=function(){
+f[z]=function(){
+(a.s=a.s||[]).push(arguments)};var a=f[z]._={
+},q=c.methods.length;while(q--){(function(n){f[z][n]=function(){
+f[z]("call",n,arguments)}})(c.methods[q])}a.l=c.loader;a.i=nt;a.p={
+0:+new Date};a.P=function(u){
+a.p[u]=new Date-a.p[0]};function s(){
+a.P(r);f[z](r)}f.addEventListener?f.addEventListener(r,s,false):f.attachEvent("on"+r,s);var ld=function(){function p(hd){
+hd="head";return["<",hd,"></",hd,"><",i,' onl' + 'oad="var d=',g,";d.getElementsByTagName('head')[0].",j,"(d.",h,"('script')).",k,"='",l,"//",a.l,"'",'"',"></",i,">"].join("")}var i="body",m=d[i];if(!m){
+return setTimeout(ld,100)}a.P(1);var j="appendChild",h="createElement",k="src",n=d[h]("div"),v=n[j](d[h](z)),b=d[h]("iframe"),g="document",e="domain",o;n.style.display="none";m.insertBefore(n,m.firstChild).id=z;b.frameBorder="0";b.id=z+"-loader";if(/MSIE[ ]+6/.test(navigator.userAgent)){
+b.src="javascript:false"}b.allowTransparency="true";v[j](b);try{
+b.contentWindow[g].open()}catch(w){
+c[e]=d[e];o="javascript:var d="+g+".open();d.domain='"+d.domain+"';";b[k]=o+"void(0);"}try{
+var t=b.contentWindow[g];t.write(p());t.close()}catch(x){
+b[k]=o+'d.write("'+p().replace(/"/g,String.fromCharCode(92)+'"')+'");d.close();'}a.P(2)};ld()};nt()})({
+loader: "static.olark.com/jsclient/loader0.js",name:"olark",methods:["configure","extend","declare","identify"]});
+/* custom configuration goes here (www.olark.com/documentation) */
+olark.identify('4609-878-10-5610');/*]]>*/</script><noscript><a href="https://www.olark.com/site/4609-878-10-5610/contact" title="Contact us" target="_blank">Questions? Feedback?</a> powered by <a href="http://www.olark.com?welcome" title="Olark live chat software">Olark live chat software</a></noscript>
+<script type="text/javascript">
+    olark('api.chat.updateVisitorNickname', {
+        snippet: [" ()"]
+    });
+</script>
+<!-- end olark code -->
+
+
+
+    
+
+    <script>
+        (function($) {
+            $.fn.visible = function(partial, extra_offset) {
+                extra_offset = extra_offset || 0;
+
+                var $t        = $(this),
+                $w            = $(window),
+                viewTop       = $w.scrollTop(),
+                viewBottom    = viewTop + $w.height(),
+                _top          = $t.offset().top + extra_offset,
+                _bottom       = _top + $t.height() + extra_offset,
+                compareTop    = partial === true ? _bottom : _top,
+                compareBottom = partial === true ? _top : _bottom;
+
+                return ((compareBottom <= viewBottom) && (compareTop >= viewTop));
+            };
+        })(jQuery);
+    </script>
+
+    <!-- Optimizely -->
+    <script src="//cdn.optimizely.com/js/1040263857.js"></script>
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-2.newrelic.com","queueTime":0,"licenseKey":"41f3d0da6d","agent":"js-agent.newrelic.com/nr-411.min.js","transactionName":"Y1FWY0BSC0FQW0QMC1obckJcUBFbXlYfAQ5VWlNYHEUMV0ZLHgIBWlFGXlEdB1NCXQo1Fl1CVVRLZQxXRhZXABA=","applicationID":"3739576","errorBeacon":"bam.nr-data.net","applicationTime":63}</script>
+
+<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
