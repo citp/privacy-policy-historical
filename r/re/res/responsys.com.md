@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the responsys.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229090632id_/http%3A//www.responsys.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the responsys.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628044800id_/http%3A//www.responsys.com/privacy-policy) for the most accurate reproduction.*
 
-# Legal - Privacy Policy | Responsys
+# Legal - Privacy Policy | Oracle Responsys Marketing Cloud Services
+
+Responsys has been [acquired](http://www.oracle.com/us/corporate/acquisitions/responsys/index.html) by Oracle and will soon transition to the Oracle Privacy Policy. Click [here](http://www.oracle.com/us/legal/privacy/privacy-policy/index.html) to view the Oracle Privacy Policy and read your options for opt out and compliance issues under that policy. Please note that the provisions of Responsys' Privacy Policy below will remain active until the policy transition is complete.
 
 ## Effective Date: January 11, 2013
 
