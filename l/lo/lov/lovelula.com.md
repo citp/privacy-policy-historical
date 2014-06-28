@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lovelula.com privacy policy that was archived on 2013-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130916081724id_/https%3A//www.lovelula.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovelula.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628111053id_/https%3A//www.lovelula.com/privacy) for the most accurate reproduction.*
 
 # LoveLula Privacy Policy | LoveLula, the Natural Place to Shop
 
