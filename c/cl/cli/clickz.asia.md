@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickz.asia privacy policy that was archived on 2013-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131130113549id_/http%3A//www.incisivemedia.com/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickz.asia privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628024044id_/http%3A//www.incisivemedia.com/static/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Incisive Media - B2B publishers, financial market data , books/magazines subscriptions, jobs
 
