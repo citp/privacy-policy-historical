@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oto.my privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818044613id_/http%3A//www.oto.my/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oto.my privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629012816id_/http%3A//www.oto.my/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - oto.my
 
@@ -83,6 +83,14 @@ These cookies are beyond the control of **oto.my**.
 We use third-party advertising companies to serve ads when you visit our website.  
 These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.   
 If you would like more information about this practice and would like to know your options in relation to·not having this information used by these companies, click [here](http://www.google.co.uk/privacy_ads.html).
+
+OTO.MY have implemented Google Analytics features based on Display Advertising (i.e. Google Analytics Demographics and Interest Reporting).
+
+OTO.MY and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) together to report how our ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to OTO.MY.
+
+OTO.MY uses data from Google's Interest-based advertising or 3rd-party audience data (such as age, gender, and interests) with Google Analytics to improve our services to our advertisers, our car sellers, buyers (company, agents and private), and to overall gage the response, viewership and reach of OTO.MY.
+
+[Using the Ads Settings](https://www.google.com/settings/ads), visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads.
 
 We never sell or share your personal information with another party.  
 The contact forms gather email address and name so that we may reply to your email.   
