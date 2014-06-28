@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carters.com privacy policy that was archived on 2013-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130919003249id_/http%3A//www.carters.com/privacy/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carters.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628052638id_/http%3A//www.carters.com/privacy/privacy-policy.html) for the most accurate reproduction.*
 
 # Carters.com | OshKoshBgosh.com Privacy Policy
 
@@ -78,7 +78,7 @@ We are very sensitive to your privacy concerns. If you have any questions or com
 
 Our Coremetrics site usage statistics system allows you to view or change your profile. There are 3 different levels of data collection:
 
-  * #### Change your current opt-out option:
+#### Change your current opt-out option:
 
   * Click for Anonymous Opt-Out. This setting allows Coremetrics to anonymously capture the visitor's Web actions (including the data collected in Coremetrics reporting). All actions are grouped with all other anonymous visitors.
   * Click for Total Opt-Out. The data is not collected by Coremetrics' data collection front-end servers and, consequently, is not included in Coremetrics reporting.
