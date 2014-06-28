@@ -1,24 +1,20 @@
-> *The following text is extracted and transformed from the comeon.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805181035id_/https%3A//www.comeon.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comeon.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628071238id_/https%3A//www.comeon.com/privacy-policy) for the most accurate reproduction.*
 
 # ComeOn! Privacy Policy
 
 **Privacy Policy**  
-Come On Europe Limited Privacy Policy  
-Last Updated 25/06/2012
+Co-Gaming Limited Privacy Policy  
+Last Updated 28/02/2014
 
 **Introduction**
 
-Come On Europe Limited wants visitors to its Website to know that we are just as concerned as you are about the privacy of any personal information that you may choose to provide us. Your privacy is important to you and to us so we will protect the information you share with us. To protect your privacy, Come On Europe Limited follows different principles in accordance with worldwide practices for customer privacy and data protection. 
+Co-Gaming Limited wants visitors to its Website to know that we are just as concerned as you are about the privacy of any personal information that you may choose to provide us. Your privacy is important to you and to us so we will protect the information you share with us. To protect your privacy, Co-Gaming Limited follows different principles in accordance with worldwide practices for customer privacy and data protection. 
 
 This privacy policy, together with our general 
 
 [_terms and conditions_](https://www.comeon.com/terms/)
 
-describes how Come On Europe Limited collects and uses the personal information you provide on our Website http://www.comeon.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. Come On Europe Limited has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with 
-
-[_TRUSTe's program requirements_](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html)
-
-including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers information collected through this Website http://www.comeon.com. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trust mark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at support (at) comeon.com. If you are not satisfied with our response you can contact TRUSTe [here.](http://watchdog.truste.com/pvr.php?page=complaint)
+describes how Co-Gaming Limited collects and uses the personal information you provide on our Website http://www.comeon.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. If you have questions or complaints regarding our privacy policy or practices, please contact us at support (at) comeon.com. 
 
 **Collection and Use of Personal Information**
 
@@ -53,7 +49,7 @@ We collect the following personal information from you:
 
 
 **Choice/Opt-Out**  
-You may choose to stop receiving our newsletters or marketing emails by “switching off” the options in the ‘Newsletter Settings’ found in the area ‘My Account’ on our Website or you can contact us at support (at) comeon.com. 
+You may choose to stop receiving our newsletters or marketing emails by ?switching off? the options in the ?Newsletter Settings? found in the area ?My Account? on our Website or you can contact us at support (at) comeon.com. 
 
 **Facebook Connect or Open ID**  
 You can log in to our site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Website to your profile page to share with others within your network. 
@@ -73,7 +69,7 @@ We may also disclose your personal information:
 
   * When we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;   
 
-  * If Come On Europe Limited is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Website of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information;   
+  * If Co-Gaming Limited is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Website of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information;   
 
   * To any other third party with your prior consent to do so. 
 
@@ -89,10 +85,10 @@ The use of cookies by our partners, affiliates, service providers is not covered
 Our Website includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it. 
 
 **Correcting Personally Identifiable Information**  
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, amend, or deactivate it by making the change on our Website in the area ‘My Account’ or by emailing our Customer Support at support (at) comeon.com. 
+If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, amend, or deactivate it by making the change on our Website in the area ?My Account? or by emailing our Customer Support at support (at) comeon.com. 
 
 **Links to Other Websites**  
-Our Site includes links to other Websites whose privacy practices may differ from those of Come On Europe Limited. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any Website you visit. 
+Our Site includes links to other Websites whose privacy practices may differ from those of Co-Gaming Limited. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any Website you visit. 
 
 **Surveys or Contests**  
 From time-to-time we may provide you the opportunity to participate in contests or surveys on our site. If you participate, we will request certain personally identifiable information from you. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code). 
@@ -105,11 +101,11 @@ We will retain your information for as long as your account is active or as need
 
 **Security**  
 The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. The transmission of all information collected on our Site is encrypted using secure socket layer technology (SSL).   
-Come On Europe Limited complies with Payment Card Industry (PCI) Data Security Standards. 
+Co-Gaming Limited complies with Payment Card Industry (PCI) Data Security Standards. 
 
 **Notification of Privacy Policy Changes**  
 We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on our Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. If you have questions about this Privacy Policy or want to contact us regarding how we handle your data, please send an email to support (at) comeon.com or write to us at:   
-Come On Europe Limited  
+Co-Gaming Limited  
 Block A, Suite 3,  
 177, Skyway Offices,  
 Marina Street,  
