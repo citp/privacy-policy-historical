@@ -1,779 +1,924 @@
-<!--The following is the downloaded HTML source of the easyart.com privacy policy that was archived on 2013-09-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130905081202id_/http%3A//www.easyart.com/help/privacy_policy.ghtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the easyart.com privacy policy that was archived on 2014-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140628152600id_/http%3A//www.easyart.com/help/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><head>
-  <meta charset="iso-8859-1">
-  <title>Easyart.com - Privacy Policy</title>
+<!DOCTYPE html><html class=" has-js"><head>
+  <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-T6NVLK"></script><script type="text/javascript" async="" src="//doug1izaerwt3.cloudfront.net/0add6a944e39a94878f19a9decc32beaf7c3a7f1.1.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script src="//cdn.optimizely.com/js/94797635.js"></script>
+  <script>document.documentElement.className += " has-js";</script>
+  
+  <meta charset="utf-8">
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-6.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"e3fce4c026","applicationID":"2745064","transactionName":"eldXTEteWlhSREtaDV5QZk5WXUJVUFNLQgVeXUoXSllZQw==","queueTime":77,"applicationTime":42,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-411.min.js"}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwYFUFRWGwEHUFRSAQU="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+  <title>Privacy Policy Easyart.com</title>
+  <!--[if gt IE 8]><!--><link href="http://d2sgp1kv3jd5k4.cloudfront.net/assets/application-86a6b97b1c06487d07ff041ce42bc0ae.css" media="all" rel="stylesheet" type="text/css"><!--<![endif]-->
+  <!--[if lte IE 8]><link href="http://d2sgp1kv3jd5k4.cloudfront.net/assets/application_lte_ie8-87916ac4104aff1ca6cd14fccb5fe647.css" media="all" rel="stylesheet" type="text/css" /><![endif]-->
+  <script src="http://d2sgp1kv3jd5k4.cloudfront.net/assets/modernizr.custom-f05b368bc3967823697268f634421882.js" type="text/javascript"></script>
+  <meta content="authenticity_token" name="csrf-param">
+<meta content="dobJzNmNozMMeb/tCfRxq2yMOG0Y8RqWO5X7/L1H7mQ=" name="csrf-token">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="/static/css/easyart.css?nosale=true">
+  
+  
+  
+  <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
+  <script type="text/javascript" src="//use.typekit.net/ppg3ogg.js"></script>
+  <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+  <script type="text/javascript">
+    var dataLayer = dataLayer || [];
+  </script>
+  <script>
+var _kmq = _kmq || [];
+var _kmk = _kmk || '0add6a944e39a94878f19a9decc32beaf7c3a7f1';
+function _kms(u){
+  setTimeout(function(){
+    var d = document, f = d.getElementsByTagName('script')[0],
+    s = d.createElement('script');
+    s.type = 'text/javascript'; s.async = true; s.src = u;
+    f.parentNode.insertBefore(s, f);
+  }, 1);
+}
+_kms('//i.kissmetrics.com/i.js');
+_kms('//doug1izaerwt3.cloudfront.net/' + _kmk + '.1.js');
+</script>
 
-  <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="//use.typekit.net/ppg3ogg.js"></script>
-<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 </head>
+<body data-ga-event-category="privacy-page" id="privacy-page">
 
-<body>
-  <div id="header">
-
-  <div class="container">
-    <ul class="nav-util">
-      <li><a href="http://www.easyart.com/contact/">Contact</a></li>
-      <li><a href="http://www.easyart.com/about/">About</a></li>
-      <li class="nav-util-sub">
-        <a class="toggle-switch" href="#">Account &amp; Help <span class="caret"></span></a>
-        <ul class="nav-util-sub-menu">
-          <li><a href="https://www.easyart.com/scripts/account/account.pl">Your Account</a></li>
-          <li><a href="http://www.easyart.com/scripts/gallery/gallery.pl">Saved Items</a></li>
-          <li><a href="http://www.easyart.com/help/">Help</a></li>
-        </ul>
+    <div class="header l-container">
+  <div class="l-header-grid-col">
+    <div class="header-menu-icon"><a href="#menu" class="menu-open js-menu-open"><i class="icon-reorder"></i> Menu</a></div>
+    <ul class="header-contact-info">
+      <li>The UK's favourite place to buy art</li>
+      <li><strong><i class="icon-phone"></i> 01273 511 942</strong> <small><a href="/contact">contact us</a></small></li>
+    </ul>
+  </div>
+  <div class="l-header-grid-col-wide">
+    <p class="header-logo"><a href="/"><img alt="Easyart.com" src="http://d2sgp1kv3jd5k4.cloudfront.net/assets/global/logo-4faa17c085a1df5a3ab2d1545197062f.png"></a></p>
+  </div>
+  <div class="l-header-grid-col ie-last-item">
+    <ul class="header-utils">
+      <li class="header-utils-cart has-popover" data-ga-event="header:cart-link">
+        <a href="https://secure.easyart.com/scripts/cart/cart.pl"><i class="icon-shopping-cart"></i> Cart <span class="cart-count" id="cart-count"></span> <i class="icon-caret-down"></i></a>
+        <div class="popover popover-right cart-popover">
+          <div class="minicart-alert hide alert alert-success text-center"><i class="icon-ok"></i> <strong>1 item added to your cart</strong></div>
+          <div id="minicart-content" class="minicart-content"></div>
+        </div>
       </li>
-      <li class="nav-util-sub">
-        <a class="toggle-switch" href="#">UK <span class="caret"></span></a>
-        <ul class="nav-util-sub-menu">
-          <li><a href="http://www.easyart.de">DE</a></li>
-          <li><a href="http://www.easyart.se">SE</a></li>
-          <li><a href="http://www.easyart.fr">FR</a></li>
-        </ul>
+      <li class="has-popover">
+        <a href="#"><i class="icon-user"></i> Account <i class="icon-caret-down"></i></a>
+        <div class="popover">
+          <ul>
+            <li><a href="https://secure.easyart.com/scripts/login/login.pl" class="iframe-link">Account</a></li>
+            <li><a href="https://secure.easyart.com/scripts/gallery/gallery.pl" class="iframe-link">Saved items</a></li>
+          </ul>
+        </div>
+      </li>
+      <li class="has-popover">
+        <a href="http://www.easyart.com/"><i class="flag-icon-uk"></i> <i class="icon-caret-down"></i></a>
+        <div class="popover">
+          <ul>
+            <li><a href="http://www.easyart.fr"><i class="flag-icon-fr"></i></a></li>
+            <li><a href="http://www.easyart.se"><i class="flag-icon-se"></i></a></li>
+            <li><a href="http://www.easyart.de"><i class="flag-icon-de"></i></a></li>
+          </ul>
+        </div>
       </li>
     </ul>
-    <div class="logo">
-      <a href="http://www.easyart.com">
-        <i class="sprite header-logo"></i>
-      </a>
-    </div>
-    <p class="tagline">The UK’s favourite place to buy art online</p>
-    <a href="#nav" class="nav-toggle"><img src="/static/img/ui/nav_toggle.png" alt="Navigation" title="Navigation"></a>
   </div>
 </div>
 
-<div class="navigation container">
-  <ul id="nav" class="nav-main nav-pri">
-    <li class="nav-artists flyout">
-      <a href="http://www.easyart.com/art-prints/artists/">Artists</a>
-      <ul class="nav-sub flyout-menu">
-        <li class="row">
-          <div class="span4">
-            <div class="flyout-inner">
-              <h3><a href="http://www.easyart.com/styles/Modern-Art-51.html">Modern</a></h3>
+    <div class="nav-container">
+  <div class="menu" id="menu">
+    <a href="#menu" class="menu-close js-menu-close"><i class="icon-remove"></i> Close</a>
+    <ul class="nav">
+      <li class="nav-artists has-dropdown" data-menufor="artists">
+        <a href="/artists">Artists <i class="icon-caret-down"></i></a>
+        <div class="dropdown" data-ga-event="mega-menu-link">
+          <div class="l-grid l-grid-large">
+            <div class="l-grid-item">
+              <h3><a href="/prints/contemporary">Contemporary</a></h3>
               <ul>
-                <li><a href="http://www.easyart.com/art-prints/artists/Andy-Warhol-208.html">Andy Warhol</a></li>
-                <li><a href="http://www.easyart.com/art-prints/artists/Salvador-Dali-4132.html">Salvador Dali</a></li>
-                <li><a href="http://www.easyart.com/art-prints/artists/LS-Lowry-2836.html">LS Lowry</a></li>
-                <li><a href="http://www.easyart.com/art-prints/artists/Roy-Lichtenstein-4094.html">Roy Lichtenstein</a></li>
-              </ul>
-              <a href="http://www.easyart.com/styles/Modern-Art-51.html" class="see-all">Browse all Modern Art</a>
-              <h3><a href="/styles/Contemporary-%26-Decorative-26.html">Contemporary</a></h3>
-              <ul>
-                <li><a href="http://www.easyart.com/art-prints/artists/Jack-Vettriano-2247.html">Jack Vettriano</a></li>
-                <li><a href="http://www.easyart.com/art-prints/artists/Sam-Toft-6784.html">Sam Toft</a></li>
-                <li><a href="http://www.easyart.com/art-prints/artists/Alexander-Millar-5139.html">Alexander Millar</a></li>
-                <li><a href="http://www.easyart.com/art-prints/artists/John-Lowrie-Morrison-2554.html">John Lowrie Morrison</a></li>
-              </ul>
-              <a href="http://www.easyart.com/styles/Contemporary-%26-Decorative-26.html" class="see-all">Browse all Contemporary</a>
-            </div>
-          </div>
-          <div class="span4">
-            <div class="flyout-inner">
-              <h3><a href="http://www.easyart.com/styles/Classics-%26-Masters-7.html">Classic</a></h3>
-              <ul>
-                <li><a href="http://www.easyart.com/art-prints/artists/Canaletto-1817.html">Canaletto</a></li>
-                <li><a href="http://www.easyart.com/art-prints/artists/John-William-Waterhouse-2594.html">John William Waterhouse</a></li>
-                <li><a href="http://www.easyart.com/art-prints/artists/Johannes-Vermeer-2332.html">Johannes Vermeer</a></li>
-                <li><a href="http://www.easyart.com/art-prints/artists/Joseph-Turner-2629.html">Joseph Turner</a></li>
-              </ul>
-              <a href="http://www.easyart.com/styles/Classics-%26-Masters-7.html" class="see-all">Browse all Classics</a>
-              <h3><a href="http://www.easyart.com/styles/Impressionism-42.html">Impressionist</a></h3>
-              <ul>
-                <li><a href="http://www.easyart.com/art-prints/artists/Pierre-Auguste-Renoir-3763.html">Pierre Auguste Renoir</a></li>
-                <li><a href="http://www.easyart.com/art-prints/artists/Claude-Monet-894.html">Claude Monet</a></li>
-                <li><a href="http://www.easyart.com/art-prints/artists/Vincent-Van-Gogh-4730.html">Vincent Van Gogh</a></li>
-                <li><a href="http://www.easyart.com/art-prints/artists/Edgar-Degas-1288.html">Edgar Degas</a></li>
-              </ul>
-              <a href="http://www.easyart.com/styles/Impressionism-42.html" class="see-all">Browse all Impressionist</a>
-            </div>
-          </div>
-          <div class="span4">
-            <div class="flyout-inner">
-              <h3><a href="http://www.easyart.com/art-prints/artists/">Top Artists</a></h3>
-              <ul>
-                <li><a href="http://www.easyart.com/art-prints/artists/Jack-Vettriano-2247.html">Jack Vettriano</a></li>
-                <li><a href="http://www.easyart.com/art-prints/artists/Gustav-Klimt-1905.html">Gustav Klimt</a></li>
-                <li><a href="http://www.easyart.com/art-prints/artists/LS-Lowry-2836.html">LS Lowry</a></li>
-                <li><a href="http://www.easyart.com/art-prints/artists/Andy-Warhol-208.html">Andy Warhol</a></li>
-                <li><a href="http://www.easyart.com/art-prints/artists/Claude-Monet-894.html">Claude Monet</a></li>
-                <li><a href="http://www.easyart.com/art-prints/artists/Pablo-Picasso-3572.html">Pablo Picasso</a></li>
-                <li><a href="http://www.easyart.com/art-prints/artists/Disney-1184.html">Disney</a></li>
-                <li><a href="http://www.easyart.com/art-prints/artists/Salvador-Dali-4132.html">Salvador Dali</a></li>
-                <li><a href="http://www.easyart.com/art-prints/artists/Vincent-Van-Gogh-4730.html">Vincent Van Gogh</a></li>
-                <li><a href="http://www.easyart.com/art-prints/artists/Wassily-Kandinsky-4789.html">Wassily Kandinsky</a></li>
-                <li><a href="http://www.easyart.com/art-prints/artists/Henri-Matisse-2043.html">Henri Matisse</a></li>
-                <li><a href="http://www.easyart.com/art-prints/artists/Marc-Chagall-3119.html">Marc Chagall</a></li>
-              </ul>
-              <a href="http://www.easyart.com/art-prints/artists/" class="see-all">Browse all top Artists</a>
-            </div>
-          </div>
-        </li>
-      </ul>
-    </li>
-    <li class="nav-subjects flyout">
-      <a href="http://www.easyart.com/subjects/">Subjects</a>
-      <ul class="nav-sub flyout-menu">
-        <li class="row">
-          <div class="span4">
-            <div class="flyout-inner">
-              <h3><a href="http://www.easyart.com/subjects/Abstract-2.html">Abstract</a></h3>
-              <ul>
-                <li><a href="http://www.easyart.com/subjects/Abstract-Geometric-7.html">Abstract Geometric</a></li>
-                <li><a href="http://www.easyart.com/subjects/Abstract-Splashes-%26-Expressive-10.html">Splashes &amp; Expressive</a></li>
-                <li><a href="http://www.easyart.com/subjects/Landscape-(Semi-Abstract)-9.html">Abstract Landscape</a></li>
-              </ul>
-              <h3><a href="http://www.easyart.com/subjects/Flowers-%26-Plants-212.html">Flowers &amp; Plants</a></h3>
-              <ul>
-                <li><a href="http://www.easyart.com/subjects/Botanical-213.html">Botanical</a></li>
-                <li><a href="http://www.easyart.com/subjects/Trees-223.html">Trees</a></li>
-                <li><a href="http://www.easyart.com/subjects/Floral-Close-ups-219.html">Floral Close-ups</a></li>
-              </ul>
-              <h3><a href="http://www.easyart.com/subjects/Animals-12.html">Animals</a></h3>
-              <ul>
-                <li><a href="http://www.easyart.com/subjects/Horses-45.html">Horses</a></li>
-                <li><a href="http://www.easyart.com/subjects/Cats-37.html">Cats</a></li>
-                <li><a href="http://www.easyart.com/subjects/Dogs-40.html">Dogs</a></li>
-              </ul>
-              <h3><a href="http://www.easyart.com/subjects/Food-%26-Drink-229.html">Food &amp; Drink</a></h3>
-              <ul>
-                <li><a href="http://www.easyart.com/subjects/Wine-236.html">Wine</a></li>
-                <li><a href="http://www.easyart.com/subjects/Cafes-%26-Pubs-238.html">Cafes</a></li>
-                <li><a href="http://www.easyart.com/subjects/Food-237.html">Food</a></li>
+                <li><a href="/prints/sam-toft">Sam Toft</a></li>
+                <li><a href="/prints/inaluxe">Inaluxe</a></li>
+                <li><a href="/prints/hannah-cole">Hannah Cole</a></li>
+                <li><a href="/prints/marion-mcconaghie">Marion McConaghie</a></li>
+                <li><a href="/prints/yoni-alter">Yoni Alter</a></li>
+                <li><a href="/prints/john-lowrie-morrison">John Lowrie Morrison</a></li>
+                <li><a href="/prints/ana-zaja-petrak">Ana Zaja Petrak</a></li>
+                <li><a href="/prints/jack-vettriano">Jack Vettriano</a></li>
+                <li><a href="/prints/quentin-blake">Quentin Blake</a></li>
+                <li><a href="/prints/mario-testino">Mario Testino</a></li>
               </ul>
             </div>
-          </div>
-          <div class="span4">
-            <div class="flyout-inner">
-              <h3><a href="http://www.easyart.com/subjects/Cities-%26-Towns-257.html">Cities &amp; Towns</a></h3>
+            <div class="l-grid-item">
+              <h3><a href="/prints/modern-art">Modern Masters</a></h3>
               <ul>
-                <li><a href="http://www.easyart.com/subjects/London-263.html">London</a></li>
-                <li><a href="http://www.easyart.com/subjects/New-York-271.html">New York</a></li>
-                <li><a href="http://www.easyart.com/subjects/Paris-265.html">Paris</a></li>
-              </ul>
-              <h3><a href="http://www.easyart.com/subjects/Landscape-291.html">Landscapes</a></h3>
-              <ul>
-                <li><a href="http://www.easyart.com/subjects/Mountains-299.html">Mountains</a></li>
-                <li><a href="http://www.easyart.com/subjects/Seascape-%26-Coastal-309.html">Seascape &amp; Coastal</a></li>
-                <li><a href="http://www.easyart.com/subjects/Lakes-%26-Rivers-298.html">Lakes &amp; Rivers</a></li>
-              </ul>
-              <h3><a href="http://www.easyart.com/subjects/Music-144.html">Music</a></h3>
-              <ul>
-                <li><a href="http://www.easyart.com/subjects/Rock-372.html">Rock</a></li>
-                <li><a href="http://www.easyart.com/subjects/The-Beatles-165.html">The Beatles</a></li>
-                <li><a href="http://www.easyart.com/subjects/Jimi-Hendrix-168.html">Jimi Hendrix</a></li>
-              </ul>
-              <h3><a href="http://www.easyart.com/subjects/Figures-176.html">Figurative</a></h3>
-              <ul>
-                <li><a href="http://www.easyart.com/subjects/Nudes-203.html">Nude</a></li>
-                <li><a href="http://www.easyart.com/subjects/Fashion-429.html">Fashion</a></li>
-                <li><a href="http://www.easyart.com/subjects/Romance-207.html">Romance</a></li>
+                <li><a href="/prints/andy-warhol">Andy Warhol</a></li>
+                <li><a href="/prints/jackson-pollock">Jackson Pollock</a></li>
+                <li><a href="/prints/roy-lichtenstein">Roy Lichtenstein</a></li>
+                <li><a href="/prints/henri-matisse">Henri Matisse</a></li>
+                <li><a href="/prints/pablo-picasso">Pablo Picasso</a></li>
+                <li><a href="/prints/l-s-lowry">L.S Lowry</a></li>
+                <li><a href="/prints/salvador-dali">Salvador Dali</a></li>
+                <li><a href="/prints/wassily-kandinsky">Wassily Kandinsky</a></li>
+                <li><a href="/prints/vincent-van-gogh">Vincent van Gogh</a></li>
+                <li><a href="/prints/gustav-klimt">Gustav Klimt</a></li>
               </ul>
             </div>
-          </div>
-          <div class="span4">
-            <div class="flyout-inner">
-              <h3><a href="http://www.easyart.com/subjects/Sport-317.html">Sport</a></h3>
+            <div class="l-grid-item ie-last-item">
+              <h3><a href="/prints/classics-masters">Old Masters</a></h3>
               <ul>
-                <li><a href="http://www.easyart.com/subjects/Football-%28soccer%29-347.html">Football</a></li>
-                <li><a href="http://www.easyart.com/subjects/Golf-332.html">Golf</a></li>
-                <li><a href="http://www.easyart.com/subjects/Olympics-428.html">Olympics</a></li>
+                <li><a href="/prints/joseph-mallord-william-turner">J.M.W Turner</a></li>
+                <li><a href="/prints/john-william-waterhouse">John William Waterhouse</a></li>
+                <li><a href="/prints/john-constable">John Constable</a></li>
+                <li><a href="/prints/johannes-vermeer">Johannes Vermeer</a></li>
+                <li><a href="/prints/canaletto">Canaletto</a></li>
+                <li><a href="/prints/george-stubbs">George Stubbs</a></li>
+                <li><a href="/prints/hieronymus-bosch">Hieronymus Bosch</a></li>
+                <li><a href="/prints/leonardo-da-vinci">Leonardo da Vinci</a></li>
+                <li><a href="/prints/raphael">Raphael</a></li>
+                <li><a href="/prints/michelangelo">Michelangelo</a></li>
               </ul>
-              <h3><a href="http://www.easyart.com/subjects/Films-%26-Stars-97.html">Films &amp; Stars</a></h3>
-              <ul>
-                <li><a href="http://www.easyart.com/subjects/Audrey-Hepburn-111.html">Audrey Hepburn</a></li>
-                <li><a href="http://www.easyart.com/subjects/Films-98.html">Movies</a></li>
-                <li><a href="http://www.easyart.com/subjects/Marylin-Monroe-122.html">Marilyn Monroe</a></li>
-              </ul>
-              <h3><a href="http://www.easyart.com/subjects/Travel-353.html">Travel</a></h3>
-              <ul>
-                <li><a href="http://www.easyart.com/art-print-search/Railway.html">Railway</a></li>
-                <li><a href="http://www.easyart.com/subjects/Travel-Posters-363.html">Travel Posters</a></li>
-                <li><a href="http://www.easyart.com/subjects/World-Maps-88.html">World Maps</a></li>
-              </ul>
-              <a href="http://www.easyart.com/subjects/" class="see-all">Browse all Subjects</a>
+              <p><strong><a href="/artists">View all artists</a></strong></p>
             </div>
           </div>
-        </li>
-      </ul>
-    </li>
-    <li class="nav-styles flyout">
-      <a href="http://www.easyart.com/styles/">Styles</a>
-      <ul class="nav-sub flyout-menu small-menu">
-        <li class="row">
-          <div class="span3">
-            <div class="flyout-inner">
-              <h3><a href="http://www.easyart.com/styles/Children%27s-2.html">Children's</a></h3>
-              <h3><a href="http://www.easyart.com/styles/Classics-%26-Masters-7.html">Classics &amp; Masters</a></h3>
-              <h3><a href="http://www.easyart.com/styles/Contemporary-%26-Decorative-26.html">Contemporary</a></h3>
-              <h3><a href="http://www.easyart.com/styles/Ethnic-%26-Oriental-32.html">Ethnic &amp; Oriental</a></h3>
-              <h3><a href="http://www.easyart.com/styles/Impressionism-42.html">Impressionism</a></h3>
-              <h3><a href="http://www.easyart.com/styles/Modern-Art-51.html">Modern Art</a></h3>
-              <h3><a href="http://www.easyart.com/styles/Photographic-Styles-66.html">Photographic</a></h3>
-              <h3><a href="http://www.easyart.com/styles/Vintage-%26-Style-75.html">Vintage &amp; Style</a></h3>
-            </div>
-          </div>
-          <div class="span3">
-            <div class="flyout-inner">
-              <h3>Popular Styles</h3>
+        </div>
+      </li>
+      <li class="nav-collections has-dropdown" data-menufor="collections">
+        <a href="/collections">Collections <i class="icon-caret-down"></i></a>
+        <div class="dropdown" data-ga-event="mega-menu-link">
+          <div class="l-grid l-grid-large">
+            <div class="l-grid-item">
+              <h3>Museums &amp; Galleries</h3>
               <ul>
-                <li><a href="http://www.easyart.com/styles/Abstract-Expressionism-54.html">Abstract Expressionism</a></li>
-                <li><a href="http://www.easyart.com/styles/African-33.html">African</a></li>
-                <li><a href="http://www.easyart.com/styles/Art-Deco-76.html">Art Deco</a></li>
-                <li><a href="http://www.easyart.com/styles/Art-Nouveau-77.html">Art Nouveau</a></li>
-                <li><a href="http://www.easyart.com/styles/Italian-Renaissance-20.html">Italian Renaissance</a></li>
-                <li><a href="http://www.easyart.com/styles/French-Impressionism-44.html">French Impressionism</a></li>
-                <li><a href="http://www.easyart.com/styles/Japanese-39.html">Japanese</a></li>
-                <li><a href="http://www.easyart.com/styles/Pre-Raphaelite-25.html">Pre-Raphaelite</a></li>
-                <li><a href="http://www.easyart.com/styles/Pop-Art-62.html">Pop Art</a></li>
-                <li><a href="http://www.easyart.com/styles/Victorian-23.html">Victorian</a></li>
-              </ul>
-              <a href="http://www.easyart.com/styles/" class="see-all">Browse all Styles</a>
-            </div>
-          </div>
-        </li>
-      </ul>
-    </li>
-    <li class="nav-canvas flyout">
-      <a href="http://www.easyart.com/canvas-prints/">Canvas Prints</a>
-      <ul class="nav-sub flyout-menu small-menu">
-        <li class="row">
-          <div class="span3">
-            <div class="flyout-inner">
-              <h3><a href="http://www.easyart.com/canvas-prints/cityscape/">Cityscape Canvases</a></h3>
-              <ul>
-                <li><a href="http://www.easyart.com/canvas-prints/london/">London</a></li>
-                <li><a href="http://www.easyart.com/canvas-prints/new-york/">New York</a></li>
-                <li><a href="http://www.easyart.com/canvas-prints/paris/">Paris</a></li>
-              </ul>
-              <h3>Canvases by Room</h3>
-              <ul>
-                <li><a href="http://www.easyart.com/canvas-prints/kitchen/">Kitchen</a></li>
-                <li><a href="http://www.easyart.com/canvas-prints/kids/">Kids</a></li>
-                <li><a href="http://www.easyart.com/canvas-prints/bedroom/">Bedroom</a></li>
-              </ul>
-              <h3>Nature Canvases</h3>
-              <ul>
-                <li><a href="http://www.easyart.com/canvas-prints/floral/">Floral</a></li>
-                <li><a href="http://www.easyart.com/canvas-prints/landscape/">Landscape</a></li>
-                <li><a href="http://www.easyart.com/canvas-prints/beach/">Beach</a></li>
+                <li><a href="/prints/imperial-war-museum">Imperial War Museum</a></li>
+                <li><a href="/prints/national-gallery">The National Gallery</a></li>
+                <li><a href="/prints/tate">Tate</a></li>
+                <li><a href="/prints/national-railway-museum">The National Railway Museum</a></li>
+                <li><a href="/prints/the-courtauld-gallery">The Courtauld Gallery</a></li>
+                <li><a href="/prints/the-lowry">The Lowry</a></li>
               </ul>
             </div>
-          </div>
-          <div class="span3">
-            <div class="flyout-inner">
-              <h3>Canvases by Hobby</h3>
+            <div class="l-grid-item">
+              <h3>Heritage</h3>
               <ul>
-                <li><a href="http://www.easyart.com/canvas-prints/car/">Car</a></li>
-                <li><a href="http://www.easyart.com/canvas-prints/sport/">Sport</a></li>
-                <li><a href="http://www.easyart.com/canvas-prints/horse/">Horse</a></li>
-              </ul>
-              <h3>Canvas by Style</h3>
-              <ul>
-                <li><a href="http://www.easyart.com/canvas-prints/modern/">Modern</a></li>
-                <li><a href="http://www.easyart.com/canvas-prints/pop-art/">Pop Art</a></li>
-                <li><a href="http://www.easyart.com/canvas-prints/vintage/">Vintage</a></li>
-                <li><a href="http://www.easyart.com/canvas-prints/black-and-white/">Black &amp; White</a></li>
-              </ul>
-              <a href="http://www.easyart.com/canvas-prints/" class="see-all">Browse all Canvas</a>
-            </div>
-          </div>
-        </li>
-      </ul>
-    </li>
-    <li class="nav-collections flyout">
-      <a href="http://www.easyart.com/collections/">Collections</a>
-      <ul class="nav-sub flyout-menu small-menu">
-        <li>
-          <div class="flyout-inner">
-            <h3><a href="http://www.easyart.com/collections/arteverywhere/">Art Everywhere</a></h3>
-            <h3><a href="http://www.easyart.com/collections/nationalgallery/">The National Gallery</a></h3>
-            <h3><a href="http://www.easyart.com/collections/tate/">Tate</a></h3>
-            <h3><a href="http://www.easyart.com/collections/guardian/">Guardian Collection</a></h3>
-            <h3><a href="http://www.easyart.com/collections/penguin/">Penguin Collection</a></h3>
-            <h3><a href="http://www.easyart.com/art-prints/artists/Andy-Warhol-208.html">Andy Warhol</a></h3>
-            <h3><a href="http://www.easyart.com/collections/courtauld">The Courtauld Gallery</a></h3>
-            <h3><a href="http://www.easyart.com/collections/lowry">The Lowry</a></h3>
-            <h3><a href="http://www.easyart.com/collections/rhs/">Royal Horticultural Society</a></h3>
-            <h3><a href="http://www.easyart.com/collections/travel-photographer-of-the-year/">Travel Photographer of the Year</a></h3>
-            <h3><a href="http://www.easyart.com/collections/hammer/">Hammer</a></h3>
-          </div>
-        </li>
-      </ul>
-    </li>
-    <li class="nav-posters flyout">
-      <a href="http://www.easyart.com/posters/">Posters</a>
-      <ul class="nav-sub flyout-menu small-menu">
-        <li class="row">
-          <div class="span3">
-            <div class="flyout-inner">
-              <h3><a href="http://www.easyart.com/subjects/Films-98.html">Movie Posters</a></h3>
-              <ul>
-                <li><a href="http://www.easyart.com/subjects/Horror-%26-Thrillers-105.html">Horror Film</a></li>
-                <li><a href="http://www.easyart.com/subjects/Science-Fiction-109.html">Science Fiction Film</a></li>
-                <li><a href="http://www.easyart.com/subjects/James-Bond-402.html">James Bond</a></li>
-              </ul>
-              <h3><a href="http://www.easyart.com/subjects/Transport-354.html">Transport Posters</a></h3>
-              <ul>
-                <li><a href="http://www.easyart.com/subjects/Car-357.html">Car Posters</a></li>
-                <li><a href="http://www.easyart.com/subjects/Motorcycle-359.html">Motorcycle</a></li>
-                <li><a href="http://www.easyart.com/art-print-search/Railway.html">Railway</a></li>
-              </ul>
-              <h3><a href="http://www.easyart.com/styles/Children%27s-2.html">Children's Posters</a></h3>
-              <ul>
-                <li><a href="http://www.easyart.com/art-prints/artists/Disney-1184.html">Disney</a></li>
-                <li><a href="http://www.easyart.com/scripts/search/generalsearch.pl?searchquery=Winnie+the+Pooh">Winnie the Pooh</a></li>
-                <li><a href="http://www.easyart.com/scripts/search/generalsearch.pl?ptlimit=1%2C2%2C3%2C4%2C7%2C8&amp;searchquery=Thomas+the+Tank+Engine&amp;search-button=Search">Thomas the Tank Engine</a></li>
+                <li><a href="/prints/royal-horticultural-society">Royal Horticultural Society</a></li>
+                <li><a href="/prints/penguin">Penguin</a></li>
+                <li><a href="/prints/hammer">Hammer</a></li>
+                <li><a href="/prints/stilltime">Stilltime</a></li>
+                <li><a href="/prints/kobal">Kobal</a></li>
+                <li><a href="/prints/guardian">Guardian</a></li>
               </ul>
             </div>
-          </div>
-          <div class="span3">
-            <div class="flyout-inner">
-              <h3><a href="http://www.easyart.com/subjects/Music-144.html">Music Posters</a></h3>
+            <div class="l-grid-item ie-last-item">
+              <h3>Culture &amp; Brands</h3>
               <ul>
-                <li><a href="http://www.easyart.com/subjects/Jazz-163.html">Jazz</a></li>
-                <li><a href="http://www.easyart.com/subjects/The-Beatles-165.html">The Beatles</a></li>
-                <li><a href="http://www.easyart.com/subjects/Bob-Dylan-378.html">Bob Dylan</a></li>
+                <li><a href="/prints/vogue">Vogue</a></li>
+                <li><a href="/prints/andy-warhol">The Andy Warhol Foundation</a></li>
+                <li><a href="/prints/do-the-green-thing">Do The Green Thing</a></li>
+                <li><a href="/prints/art-inspired-by-music">Art Inspired by Music</a></li>
+                <li><a href="/prints/art-everywhere">Art Everywhere</a></li>
+                <li><a href="/prints/rare-editions">Rare Editions</a></li>
               </ul>
-              <h3><a href="http://www.easyart.com/subjects/Sport-317.html">Sport Posters</a></h3>
-              <ul>
-                <li><a href="http://www.easyart.com/subjects/Boxing-319.html">Boxing</a></li>
-                <li><a href="http://www.easyart.com/subjects/Football-%28soccer%29-347.html">Football</a></li>
-                <li><a href="http://www.easyart.com/subjects/Surfing-350.html">Surfing</a></li>
-              </ul>
-              <h3><a href="http://www.easyart.com/posters/">More Poster Themes</a></h3>
-              <ul>
-                <li><a href="http://www.easyart.com/subjects/Propaganda-Posters-249.html">Propaganda</a></li>
-                <li><a href="http://www.easyart.com/styles/TV-%26-Cartoons-6.html">Cartoons</a></li>
-              </ul>
-              <a href="http://www.easyart.com/posters/" class="see-all">See all Posters</a>
+              <p><strong><a href="/collections">View all collections</a></strong></p>
             </div>
           </div>
-        </li>
-      </ul>
-    </li>
-    <li class="nav-sale"><a href="http://www.easyart.com/sale/">On Sale</a></li>
-  </ul>
-  <div class="nav-toggle">
-    <a href="#"><img src="/static/img/ui/nav_toggle.png" alt="Menu"></a>
+        </div>
+      </li>
+      <li class="nav-styles has-dropdown" data-menufor="styles">
+        <a href="/styles">Styles <i class="icon-caret-down"></i></a>
+        <div class="dropdown" data-ga-event="mega-menu-link">
+          <div class="l-grid l-grid-large">
+            <div class="l-grid-item">
+              <h3><a href="/prints/fine-art">Fine Art</a></h3>
+              <ul>
+                <li><a href="/prints/abstract-expressionism">Abstract Expressionism</a></li>
+                <li><a href="/prints/art-deco">Art Deco</a></li>
+                <li><a href="/prints/art-nouveau">Art Nouveau</a></li>
+                <li><a href="/prints/contemporary">Contemporary</a></li>
+                <li><a href="/prints/cubism">Cubism</a></li>
+                <li><a href="/prints/french-impressionism">French Impressionism</a></li>
+                <li><a href="/prints/italian-renaissance">Italian Renaissance</a></li>
+                <li><a href="/prints/minimalism">Minimalism</a></li>
+                <li><a href="/prints/pop-art">Pop Art</a></li>
+                <li><a href="/prints/pre-raphaelite">Pre-Raphaelite</a></li>
+                <li><a href="/prints/romanticism">Romanticism</a></li>
+                <li><a href="/prints/surrealism">Surrealism</a></li>
+              </ul>
+            </div>
+            <div class="l-grid-item">
+              <h3><a href="/prints/photography">Photography</a></h3>
+              <ul>
+                <li><a href="/prints/contemporary-photography">Contemporary</a></li>
+                <li><a href="/prints/classic-photography">Vintage</a></li>
+                <li><a href="/prints/photography?dominant_colour=Black+and+White">Black &amp; white</a></li>
+                <li><a href="/prints/abstract-photography">Abstract</a></li>
+              </ul>
+              <h3><a href="/prints/graphic-art">Graphic Art</a></h3>
+              <ul>
+                <li><a href="/prints/typography">Typography</a></li>
+                <li><a href="/prints/street-art">Street Art</a></li>
+                <li><a href="/prints/comic-posters">Comics</a></li>
+              </ul>
+            </div>
+            <div class="l-grid-item ie-last-item">
+              <h3><a href="/prints/world-art">World Art</a></h3>
+              <ul>
+                <li><a href="/prints/chinese-art">Chinese</a></li>
+                <li><a href="/prints/japanese-art">Japanese</a></li>
+                <li><a href="/prints/indian-south-asian-art">Indian &amp; South Asian</a></li>
+              </ul>
+              <p><strong><a href="/styles">View all styles</a></strong></p>
+            </div>
+          </div>
+        </div>
+      </li>
+      <li class="nav-themes has-dropdown" data-menufor="themes">
+        <a href="/subjects">Themes <i class="icon-caret-down"></i></a>
+        <div class="dropdown" data-ga-event="mega-menu-link">
+          <div class="l-grid l-grid-medium">
+            <div class="l-grid-item">
+              <div class="media">
+                <div class="media-img"><a href="/prints/abstract"><img alt="Abstract" src="http://d2sgp1kv3jd5k4.cloudfront.net/assets/navigation/themes/abstract-cbec3da2672196185d91645ce0e1439b.jpg"></a></div>
+                <div class="media-body"><h3><a href="/prints/abstract">Abstract</a></h3></div>
+              </div>
+              <div class="media">
+                <div class="media-img"><a href="/prints/animals"><img alt="Animals" src="http://d2sgp1kv3jd5k4.cloudfront.net/assets/navigation/themes/animals-9d9e80c31af69d3f5e1aa9ec26cb2930.jpg"></a></div>
+                <div class="media-body"><h3><a href="/prints/animals">Animals</a></h3></div>
+              </div>
+              <div class="media">
+                <div class="media-img"><a href="/prints/architectural"><img alt="Architectural" src="http://d2sgp1kv3jd5k4.cloudfront.net/assets/navigation/themes/architectural-b68befec2e1c9f80bb1ef9cebfe7a56a.jpg"></a></div>
+                <div class="media-body"><h3><a href="/prints/architectural">Architecture</a></h3></div>
+              </div>
+            </div>
+            <div class="l-grid-item">
+              <div class="media">
+                <div class="media-img"><a href="/prints/film-posters"><img alt="Film-posters" src="http://d2sgp1kv3jd5k4.cloudfront.net/assets/navigation/themes/film-posters-4368ca8093acba49e61038ae7bfed0cf.jpg"></a></div>
+                <div class="media-body"><h3><a href="/prints/film-posters">Cinema</a></h3></div>
+              </div>
+              <div class="media">
+                <div class="media-img"><a href="/prints/fashion"><img alt="Fashion" src="http://d2sgp1kv3jd5k4.cloudfront.net/assets/navigation/themes/fashion-acef8888b467bbda0723904afd81312d.jpg"></a></div>
+                <div class="media-body"><h3><a href="/prints/fashion">Fashion</a></h3></div>
+              </div>
+              <div class="media">
+                <div class="media-img"><a href="/prints/figures"><img alt="Figures" src="http://d2sgp1kv3jd5k4.cloudfront.net/assets/navigation/themes/figures-34d2b18bdce7c618104a2c92e07410aa.jpg"></a></div>
+                <div class="media-body"><h3><a href="/prints/figures">Figures</a></h3></div>
+              </div>
+            </div>
+            <div class="l-grid-item">
+              <div class="media">
+                <div class="media-img"><a href="/prints/flowers-plants"><img alt="Flowers-plants" src="http://d2sgp1kv3jd5k4.cloudfront.net/assets/navigation/themes/flowers-plants-170500b03cacfe41ed61b6fd33be0516.jpg"></a></div>
+                <div class="media-body"><h3><a href="/prints/flowers-plants">Flowers &amp; Plants</a></h3></div>
+              </div>
+              <div class="media">
+                <div class="media-img"><a href="/prints/food-drink"><img alt="Food-drink" src="http://d2sgp1kv3jd5k4.cloudfront.net/assets/navigation/themes/food-drink-a5a8090b21bbcb6b105979a206d1c9d4.jpg"></a></div>
+                <div class="media-body"><h3><a href="/prints/food-drink">Food &amp; Drink</a></h3></div>
+              </div>
+              <div class="media">
+                <div class="media-img"><a href="/prints/landscape"><img alt="Landscape" src="http://d2sgp1kv3jd5k4.cloudfront.net/assets/navigation/themes/landscape-154e86930edc0bcccc7b351a85b9b4d2.jpg"></a></div>
+                <div class="media-body"><h3><a href="/prints/landscape">Landscapes</a></h3></div>
+              </div>
+            </div>
+            <div class="l-grid-item ie-last-item">
+              <div class="media">
+                <div class="media-img"><a href="/prints/places"><img alt="Places" src="http://d2sgp1kv3jd5k4.cloudfront.net/assets/navigation/themes/places-452de5a9998cf8372a02660e3564cf58.jpg"></a></div>
+                <div class="media-body"><h3><a href="/prints/places">Places</a></h3></div>
+              </div>
+              <div class="media">
+                <div class="media-img"><a href="/prints/sports-posters"><img alt="Sports-posters" src="http://d2sgp1kv3jd5k4.cloudfront.net/assets/navigation/themes/sports-posters-d20b7ab19fdc6379b90023ab0fca5564.jpg"></a></div>
+                <div class="media-body"><h3><a href="/prints/sports-posters">Sport</a></h3></div>
+              </div>
+              <div class="media double-bottom-margin">
+                <div class="media-img"><a href="/prints/vintage-travel-posters"><img alt="Vintage-travel-posters" src="http://d2sgp1kv3jd5k4.cloudfront.net/assets/navigation/themes/vintage-travel-posters-f5ed58bab680da4c144a2074b54a5f25.jpg"></a></div>
+                <div class="media-body"><h3><a href="/prints/vintage-travel-posters">Travel</a></h3></div>
+              </div>
+              <p><strong><a href="/subjects">View all themes</a></strong></p>
+            </div>
+          </div>
+        </div>
+      </li>
+      <li class="nav-new-in">
+        <a href="/new">New in</a>
+      </li>
+      <li class="nav-loves">
+        <a href="/loves">Easyart Loves</a>
+      </li>
+    </ul>
   </div>
-  <div class="nav-tools">
-    <form role="search" action="http://www.easyart.com/scripts/search/generalsearch.pl" method="get" class="searchform" autocomplete="off">
-      <input type="hidden" name="ptlimit" value="1,2,3,4,7,8">
-      <div class="input-append">
-        <input type="search" name="searchquery" class="searchquery" data-provide="typeahead" placeholder="Find an artist or artwork..."><button class="btn" type="submit" id="search-button"><i class="icon-search"></i></button>
+  <div class="search-form">
+    <form action="/prints" method="get" role="search" autocomplete="off" id="search-form" class="form-append">
+      <div class="append-row">
+        <input class="search-query" type="search" name="s" placeholder="Search…" data-ga-event="search-form-focus"><button type="submit" data-ga-event="search-form-submit"><i class="icon-search"></i></button>
       </div>
     </form>
-    <div class="header-cart cart">
-      <a href="http://www.easyart.com/scripts/cart/cart.pl"><span class="items header-cart-total"></span><i class="shopping-cart-icon"></i></a>
-    </div>
-  </div>
-</div>
-
-<div class="header header-alt">
-  <div class="navigation container">
-    <ul class="nav-main">
-      <li class="logo-star"><a href="http://www.easyart.com" title="Easyart.com home">
-        <i class="sprite mini-star"></i>
-      </a></li>
-      <li class="nav-artists flyout"><a href="http://www.easyart.com/art-prints/artists/">Artists</a></li>
-      <li class="nav-subjects flyout"><a href="http://www.easyart.com/subjects/">Subjects</a></li>
-      <li class="nav-styles flyout"><a href="http://www.easyart.com/styles/">Styles</a></li>
-      <li class="nav-canvas flyout"><a href="http://www.easyart.com/canvas-prints/">Canvas Prints</a></li>
-      <li class="nav-collections flyout"><a href="http://www.easyart.com/collections/">Collections</a></li>
-      <li class="nav-posters flyout"><a href="http://www.easyart.com/posters/">Posters</a></li>
-      <li class="nav-sale"><a href="http://www.easyart.com/sale/">On Sale</a></li>
-    </ul>
-    <div class="nav-tools">
-      <form role="search" action="//www.easyart.com/scripts/search/generalsearch.pl" method="get" class="searchform" autocomplete="off">
-        <input type="hidden" name="ptlimit" value="1,2,3,4,7,8">
-        <div class="input-append">
-          <input type="search" name="searchquery" class="searchquery" data-provide="typeahead" placeholder="Find an artist or artwork..."><button class="btn" type="submit" id="search-button-alt"><i class="icon-search"></i></button>
-        </div>
-      </form>
-      <div class="header-cart cart">
-        <a href="http://www.easyart.com/scripts/cart/cart.pl"><span class="items header-cart-total"></span><i class="sprite shopping-cart-white"></i></a>
-      </div>
-    </div>
   </div>
 </div>
 
 
-	<div class="container">
-    <ul class="breadcrumb">
-      <li><a href="http://www.easyart.com/">Home</a> <span class="divider">/</span></li>
-      <li><a href="/help/">Help</a> <span class="divider">/</span></li>
-      <li class="active">Privacy Policy</li>
-    </ul>
-
-		<div id="content" class="row section">
-      <div class="page-header">
-				<h1>Easyart.com privacy policy</h1>
-      </div>
-
-			<div class="left-col span3">
-				<h3>Service &amp; Help</h3>
-<ul class="unstyled">
-	<li><a href="http://www.easyart.com/help/shipping.ghtml">Shipping &amp; delivery</a></li>
-	<li><a href="http://www.easyart.com/help/payment_methods.ghtml">Payment methods</a></li>
-	<li><a href="http://www.easyart.com/help/returns.ghtml">Returns</a></li>
-	<li><a href="http://www.easyart.com/help/gallery.ghtml">Help with saved items</a></li>
-	<li><a href="http://www.easyart.com/help/price_promise.ghtml">Price promise</a></li>
-	<li><a href="http://www.easyart.com/help/terms_and_conditions.ghtml">Terms &amp; conditions</a></li>
-	<li><a href="http://www.easyart.com/help/privacy_policy.ghtml">Privacy policy</a></li>
-	<li><a href="http://www.easyart.com/help/cookies.ghtml">Cookie policy</a></li>
-	<li><a href="http://www.easyart.com/contact/">Contact</a></li>
-	<li><a href="http://www.easyart.com/about/">About Easyart</a></li>
-	<li><a href="http://www.easyart.com/help/jobs.ghtml">Jobs</a></li>
-	<li><a href="http://www.easyart.com/help/ethical_statement.ghtml">Ethical Statement</a></li>
-</ul>
-<h3>Product information</h3>
-<ul class="unstyled">
-	<li><a href="http://www.easyart.com/content/features/how_to_decorate_a_room.ghtml">How to choose a print</a></li>
-	<li><a href="http://www.easyart.com/content/features/how_to_frame_art.ghtml">How to choose a frame</a></li>
-	<li><a href="http://www.easyart.com/content/features/house_doctor/hanging_art_tips.ghtml">How to hang a print</a></li>
-	<li><a href="http://www.easyart.com/content/features/customer_comments.ghtml">Customer comments</a></li>
-	<li><a href="http://www.easyart.com/help/products.ghtml">Product guide</a></li>
-	<li><a href="http://www.easyart.com/help/canvas_transfer.ghtml">Canvas transfer</a></li>
-</ul>
-
-			</div>
-
-			<div class="mid-col span6">
-				<h2>Effective Date: 01 February 2011</h2>
-				<h3>Privacy Policy</h3>
-				<p>Easyart (“We”) are committed to protecting and respecting your privacy.</p>
-				<p>Our Privacy Policy is designed to assist you, businesses, consumers and the general public, in understanding how we collect and use the personal information you give us. It sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. We also want to help you make informed decisions when using our web site and all of our related services therein. </p>
-				<p>Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By using our website your consent to our collection and use of your personal information as described in this Privacy Policy.</p>
-				<h3>Contact Information</h3>
-				<p>To request a correction or deletion of your private information, or if you have any questions and general comments about this privacy policy, please contact us at <a href="mailto:customercare@easyart.com">customercare@easyart.com</a>.</p>
-				<h3>Address</h3>
-				<ul class="unstyled vcard">
-					<li class="org fn">Easyart</li>
-					<li class="adr">
-						<ul class="unstyled">
-							<li class="street-address">Unit 12 E Plan Estate</li>
-							<li class="extended-address">New Road</li>
-							<li class="locality">Newhaven</li>
-							<li class="postal-code">BN9 0EX</li>
-						</ul>
-					</li>
-				</ul>
-				<h3>Telephone:</h3>
-				<ul class="unstyled vcard">
-					<li class="tel">0845 1662 732</li>
-					<li class="tel">+44 (0)1273 511 942 from outside the UK</li>
-				</ul>
-				<h3>Email:</h3>
-				<p><a href="mailto:customercare@easyart.com">customercare@easyart.com</a></p>
-				<h3>What Information Do We Collect?</h3>
-				<p>We may collect and process the following data items related to you:</p>
-				<ol>
-					<li>Information that you provide by filling in forms on our site www.easyart.com (our site). This includes information provided at the time of registering to use our site, subscribing to our service, posting material or requesting further services. We may also ask you for information when you report a problem with our site.</li>
-					<li>If you contact us, we may keep a record of that correspondence.</li>
-					<li>Easyart may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.</li>
-					<li>Details of transactions you carry out through our site and of the fulfilment of your orders.</li>
-					<li>Details of your visits to our site including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access.</li>
-				</ol>
-				<h3>How Do We Use the Information That You Provide to Us?</h3>
-				<p>We use information held about you in the following ways:</p>
-				<ol>
-					<li>To ensure that content from our site is presented in the most effective manner for you and for your computer.</li>
-					<li>To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes.</li>
-					<li>To carry out our obligations arising from any contracts entered into between you and us.</li>
-					<li>To allow you to participate in interactive features of our service, when you choose to do so.</li>
-					<li>To notify you about changes to our service.</li>
-				</ol>
-				<p>If you are an existing customer, we will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale to you.</p>
-				<p>If you do not want us to use your data in this way, please opt-out as directed below.</p>
-				<h2>Cookies</h2>
-				<p><a href="http://www.easyart.com/content/help/cookies.ghtml">Read about our cookie policy</a></p>
-				<h2>Personal Information You Choose to Provide</h2>
-				<h3>Registration Information</h3>
-				<p>You will provide us information about yourself, your firm or company, and your practices when you register to be a user of our services, register for certain services, or register for email newsletters and alerts.</p>
-				<h3>Email Information</h3>
-				<p>If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses. If you use our “Email this page” feature to send a copy of that page to someone else, your email address will appear as the sender of the email. Both your email address and the recipient’s email address will not be used for any other purpose.</p>
-				<h3>Disclosure of your information</h3>
-				<p>We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.</p>
-				<h3>We may disclose your personal information to third parties:</h3>
-				<ul>
-					<li>In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.</li>
-					<li>If Easyart or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.</li>
-					<li>If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use or <a href="/help/terms_and_conditions.ghtml">terms and conditions of supply</a> and other agreements; or to protect the rights, property, or safety of Easyart, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.</li>
-				</ul>
-				<h3>Choice/Opt-out</h3>
-				<p>If you do not wish to receive any promotional or marketing e-mails and/or surface mail marketing letters, you may opt-out of receiving those communications by using the opt-out mechanism on the User Account Settings Web page, or by sending an e-mail with the subject line “Unsubscribe” to our e-mail address — see above.</p>
-				<h3>Sharing Information with Third Parties</h3>
-				<p>We use third parties to facilitate our business, including, but not limited to, sending email and processing credit card payments. In connection with these business operations, our partners and other third parties may have access to your personal information for use in connection with business activities.</p>
-				<h2>How Do We Protect Your Information?</h2>
-				<h3>Secure Information Transmissions</h3>
-				<p>Email is not recognized as a secure medium of communication. For this reason, we request that you do not send private information to us by email. Some of the information you may enter on our Web site may be transmitted securely via Secure Sockets Layer SSL, 256 bit encryption services. Pages utilizing this technology will have URL's that start with HTTPS instead of HTTP. Please contact us on 0845 1662 732 (+44 (0)1273 511 942 Outside UK) if you have any questions or concerns.</p>
-				<p>Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.</p>
-				<p>Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.</p>
-				<h3>Your rights</h3>
-				<p>You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data.  You can also exercise the right at any time by contacting us at <a href="mailto:customercare@easyart.com">customercare@easyart.com</a>.</p>
-				<p>Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates.  If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies.  Please check these policies before you submit any personal data to these websites.</p>
-				<h3>How Can You Access and Correct Your Information?</h3>
-				<p>The Act gives you the right to access information held about you. You may request access to all your personally identifiable information that we collect online and maintain in our database by contacting us (contact information above). Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.</p>
-				<h3>Changes to our privacy policy</h3>
-				<p>Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.</p>
-				<h3>Contact</h3>
-				<p>Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to <a href="mailto:customercare@easyart.com">customercare@easyart.com</a>.</p>
-			</div>
-
-			<div class="right-col span3">
-				<div id="usps-div">
-	<h3>Safe shopping</h3>
-	<ul id="usps" class="unstyled">
-		<li id="usp-1">Custom frames handmade in the UK, <a href="/help/price_promise.ghtml?popup=TRUE" class="modal-link">with price guarantee</a></li>
-		<li id="usp-2">Friendly and knowledgeable <a href="/help/customer_service.ghtml?popup=TRUE" class="modal-link">UK Customer Services</a></li>
-		<li id="usp-3">Special robust packaging protects your goods in transit</li>
-		<li id="usp-4">Guaranteed quality and customer satisfaction <a href="/help/returns_policy.ghtml?popup=TRUE" class="modal-link">or your money back</a></li>
-		<li id="usp-5">Simple and <a href="/help/secure_payments.ghtml?popup=TRUE" class="modal-link">secure payment methods</a></li>
-	</ul>
-	<p id="quote">
-		“<i>Have bought several prints from you and very satisfied with products and service</i>” - <b>Brian</b>
-	</p>
-</div> <!-- // #usps-div -->
-
-			</div>
-
-		</div>
-	</div>
-
-<div id="footer">
-  <div class="container">
-
-    <div class="row">
-      <div class="contact-info span3"><h4>0845 1662 732</h4>8am – 10pm, 7 days a week<p><a href="http://www.easyart.com/contact/">Contact us</a></p></div>
-      <div class="span3">
-        <div class="mailing-list">
-          <h4><a href="http://www.easyart.com/help/subscribe.ghtml?popup=true" class="modal-link-email">Get updates</a></h4>
-          Get a weekly dose of beautiful art &amp; offers. <a href="http://www.easyart.com/help/subscribe.ghtml?popup=true" class="modal-link-email">Subscribe</a>
-        </div>
-      </div>
-      <div class="span3">
-        <div class="blog">
-          <h4><a href="http://www.easyart.com/trends/">Easyart Loves</a></h4>
-          Style advice and art news on our Easyart Loves blog. <a href="http://www.easyart.com/trends/">View</a>
-        </div>
-      </div>
-      <div class="span3">
-        <div class="social-icons">
-  <a href="https://plus.google.com/+easyart" title="Publicly recommend on Google" target="_blank"><div class="google-plus">439</div></a>
-  <a href="https://www.facebook.com/easyartuk" title="Like us on Facebook" target="_blank"><div class="facebook">63k</div></a>
-  <a href="http://pinterest.com/easyart" title="Follow us on Pinterest" target="_blank"><div class="pinterest">1.1k</div></a>
-</div>
-
-      </div>
+  <!--[if lte IE 7]>
+  <div class="browsehappy">
+    <div class="alert">
+      You are using an outdated browser which means some features on this site, such as framing, will not work as expected. To get the most out of this site <a href="http://browsehappy.com/" target="_blank">upgrade your browser</a>.
     </div>
-
-    <hr>
-
-    <div class="row section">
-      <div class="help-links span2">
-        <h4>Need help?</h4>
-        <ul class="unstyled ">
-          <li><a href="http://www.easyart.com/help/site_map.ghtml">Site map</a></li>
-          <li><a href="http://www.easyart.com/help/">Help page</a></li>
-          <li><a href="http://www.easyart.com/contact/">Contact us</a></li>
-          <li><a href="http://www.easyart.com/academy/">Artist submissions</a></li>
-          <li><a href="http://www.easyart.com/help/shipping.ghtml">Shipping</a> &amp; <a href="http://www.easyart.com/help/returns.ghtml">returns</a></li>
-        </ul>
-      </div>
-
-      <div class="help-links span2">
-        <h4>Who we are</h4>
-        <ul class="unstyled ">
-          <li><a href="http://www.easyart.com/about/">About us</a></li>
-          <li><a href="http://www.easyart.com/help/price_promise.ghtml">Price promise</a></li>
-          <li><a href="http://www.easyart.com/help/privacy_policy.ghtml">Privacy</a> &amp; <a href="http://www.easyart.com/help/cookies.ghtml">Cookies</a></li>
-          <li><a href="http://www.easyart.com/help/terms_and_conditions.ghtml">Terms &amp; conditions</a></li>
-          <li><a href="http://www.reviewcentre.com/reviews4063.html" target="_blank">Independent reviews</a></li>
-        </ul>
-      </div>
-
-      <div class="help-links span2">
-        <h4>Our products</h4>
-        <ul class="unstyled ">
-          <li><a href="http://www.easyart.com/posters/">Posters</a></li>
-          <li><a href="http://www.easyart.com/photography/">Photography</a></li>
-          <li><a href="http://www.easyart.com/canvas-prints/">Canvas prints</a></li>
-          <li><a href="http://www.easyart.com/limited-editions/">Limited editions</a></li>
-          <li><a href="http://www.easyart.com/art-prints/top/">Bestsellers</a></li>
-        </ul>
-      </div>
-
-      <div class="help-links span2">
-        <h4>Services</h4>
-        <ul class="unstyled ">
-          <li><a href="http://www.mynewsdesk.com/uk/pressroom/easyart-uk" target="_blank">Press</a></li>
-          <li><a href="https://darwin.affiliatewindow.com/merchant-profile/556">Affiliates</a></li>
-          <li><a href="http://www.easyart.com/gifts/">Gift Ideas</a></li>
-          <li><a href="http://www.easyart.com/business/">Art for businesses</a></li>
-          <li><a href="http://www.easyart.com/scripts/voucher/voucher.pl">Gift Vouchers</a></li>
-        </ul>
-      </div>
-
-      <div class="span4">
-        <h4>Shop with confidence</h4>
-        <ul class="certificates unstyled row-fluid">
-          <li class="span4">
-            <a href="https://sealserver.trustkeeper.net/compliance/cert.php?code=x4ivtZlmFtNVa6R5amh8RViTFoIBnG&amp;style=invert&amp;size=105x54&amp;language=en" target="hATW">
-              <i class="sprite trustwave-logo"></i>
-            </a>
-          </li>
-          <li class="span4">
-            <img src="/static/img/cart/paypal.png" alt="" class="paypal-footer">
-          </li>
-          <li class="span4">
-            <a href="https://trustsealinfo.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=www.easyart.com&amp;lang=en" target="_blank">
-              <i class="sprite norton-logo"></i>
-            </a>
-          </li>
-        </ul>
-        <div class="ratings row-fluid">
-          <div class="rating span6">
-            <i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star icon-semi"></i>
-            <br><small class="muted">Amazon.co.uk</small>
-          </div>
-          <div class="rating span6">
-            <i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star"></i><i class="icon-star icon-semi"></i>
-            <br><small><a class="muted" href="http://www.reviewcentre.com/reviews4063.html" target="_blank">Review centre</a></small>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <hr>
-
-    <p class="easyart-info"><a href="http://www.easyart.com/">Easyart.com</a> is the simple and enjoyable way to shop the UK’s best range of <a href="http://www.easyart.com">art prints</a> and <a href="http://www.easyart.com/posters/">posters</a> online. Founded in 1999, you’ll find a breadth of images covering well known artists like <a href="http://www.easyart.com/art-prints/artists/Pablo-Picasso-3572.html">Picasso</a>, <a href="http://www.easyart.com/art-prints/artists/Andy-Warhol-208.html">Warhol</a>, <a href="http://www.easyart.com/art-prints/artists/Jack-Vettriano-2247.html">Vettriano</a> and <a href="http://www.easyart.com/art-prints/artists/Gustav-Klimt-1905.html">Klimt</a> and themes from <a href="http://www.easyart.com/photography/">photography</a>, <a href="http://www.easyart.com/subjects/Landscape-291.html">landscape</a> and <a href="http://www.easyart.com/subjects/Figures-176.html">figurative</a> to <a href="http://www.easyart.com/styles/Vintage-%26-Style-75.html">vintage</a> art. Find the perfect pictures for your home or workplace and customise using sizing, framing and canvas options. <a href="http://www.easyart.com/about/">Read more »</a></p>
-
-    <ul class="alt-lang">
-      <li><strong>Easyart around the world:</strong></li>
-      <li class="fr"><a href="http://www.easyart.fr/"><i class="sprite fr-flag"></i> Affiches et posters</a></li>
-      <li class="de"><a href="http://www.easyart.de/"><i class="sprite de-flag"></i> Kunstdrucke und Poster</a></li>
-      <li class="se"><a href="http://www.easyart.se/"><i class="sprite se-flag"></i> Tavlor</a></li>
-      <li class="wholesale"><strong>Wholesale:</strong></li>
-      <li class="k-and-m"><a href="http://www.kingandmcgaw.com/" title="Wholesale prints"><i class="sprite kmg-logo"></i> Wholesale prints</a></li>
-    </ul>
-
-    <div class="copyright">
-      <p><small>All art prints and images on this website are copyright their respective owners. All rights reserved. Website © 1999-2013 <a href="http://www.easyart.com/">Easyart.com</a>.</small></p>
-    </div>
-
   </div>
-</div>
+  <![endif]-->
 
-<!-- Affiliate Window Tracking Code -->
-<!-- JP - 20110505 -->
-<script type="text/javascript">
-  // Add a script element as a child of the body
-  function downloadJSAtOnload() {
-    var element = document.createElement('script');
-    element.src = "https://www.dwin1.com/556.js";
-    document.body.appendChild(element);
-  }
-  // Check for browser support of event handling capability
-  if (window.addEventListener)
-  window.addEventListener("load", downloadJSAtOnload, false);
-  else if (window.attachEvent)
-  window.attachEvent("onload", downloadJSAtOnload);
-  else window.onload = downloadJSAtOnload;
-</script>
-<!-- Affiliate Window Tracking Code -->
-
-<div id="logo-download-options" class="modal">
-  <h2>Want to download our logo?</h2>
-  <p><a href="//static.easyart.com/downloads/easyart_logo.zip"><img src="/static/img/assets/ea-logo.png" alt="Easyart.com"></a></p>
-  <a class="btn btn-large btn-primary" href="//static.easyart.com/downloads/easyart_logo.zip">Download <i class="icon-download icon-white"></i></a>
-</div>
-
-<div class="promo-tab">
-  <!-- For email modal -->
-  <a href="http://www.easyart.com/help/subscribe.ghtml?popup=true" class="modal-link-email"><img src="/static/img/promo/email-promo.png" alt="Sign up"></a>
-
-  <!-- For promo modal -->
-  <!-- <a href="#promo-modal" class="modal-link-promo"><img src="/static/img/promo/20-off-promo-tab.png" alt="20% off"></a> -->
-</div>
-
-<!-- <div id="promo-modal" class="hide">
-  <div class="promo-container">
-
-    <div class="promo-first-line">Summer sale</div>
-    <div class="promo-second-line">20% off</div>
-    <div class="promo-third-line">orders above &pound;20</div>
-    <div class="promo-fourth-line">
-      Use code SUMMERSALE20 at checkout
-      <br>
-      Ends midnight Monday 29th July
-    </div> -->
-
-    <!-- <div class="promo-image">
-      <img src="/static/img/promo/lowry-promo-bg.jpg" alt="20% off">
-    </div>
-    <div class="promo-content">
-      <div class="promo-inner">
-        <div class="promo-xlarge-text">20% Off</div>
-        <div class="promo-large-text">All orders over &pound;20</div>
-        <div class="promo-medium-text">Use Code <span class="promo-code">LS2020</span> at checkout to claim</div>
-        <div class="promo-small-text">Ends midnight Monday 1st July</div>
-      </div>
-    </div> -->
   
+
+
+<div class="l-container">
+
+  <ul class="breadcrumb" itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
+    <li><a href="/" itemprop="url">Home</a></li>
+    <li>
+      <i class="icon-angle-right"></i>
+      <a href="/help">Help</a>
+    </li>
+    <li>
+      <i class="icon-angle-right"></i>
+      Privacy
+    </li>
+  </ul>
+
+  <div class="sidebar">
+    <ul>
+  <li><h3><a href="/help">Help</a></h3></li>
+  <li><a href="/contact" rel="nofollow">Contact us</a></li>
+  <li><a href="/help/shipping" rel="nofollow">Shipping</a></li>
+  <li><a href="/help/returns" rel="nofollow">Returns</a></li>
+  <li><a href="/business" rel="nofollow">Business buyers</a></li>
+  <li><a href="/help/gallery" rel="nofollow">Saved items</a></li>
+  <li><a href="http://www.reviews.co.uk/company-reviews/store/15722" rel="nofollow" target="_blank">Reviews</a></li>
+</ul>
+
+<ul>
+  <li><h3><a href="/about">About us</a></h3></li>
+  <li><a href="/about" rel="nofollow">About Easyart</a></li>
+  <li><a href="/help/environment" rel="nofollow">Environment</a></li>
+  <li><a href="/academy" rel="nofollow">Artist submissions</a></li>
+  <li><a href="/help/price-promise" rel="nofollow">Price promise</a></li>
+  <li><a href="/help/privacy" rel="nofollow">Privacy &amp; cookies</a></li>
+  <li><a href="/help/terms" rel="nofollow">Terms &amp; conditions</a></li>
+  <li><a href="/help/jobs" rel="nofollow">Jobs</a></li>
+</ul>
+
+    <ul class="ie-last-item">
+  <li><h3><a href="/guides">Guides</a></h3></li>
+  <li><a href="/guides/how-to-choose-an-art-print">How to choose an art print</a></li>
+  <li><a href="/guides/how-to-hang-your-art">How to hang your art</a></li>
+  <li><a href="/guides/how-to-take-care-of-your-art">How to take care of your art</a></li>
+  <li><a href="/guides/how-to-choose-a-frame">How to choose a frame</a></li>
+  <li><a href="/guides/how-are-easyart-art-prints-printed">How are Easyart art prints printed</a></li>
+  <li><a href="/guides/what-is-a-custom-frame">What is a custom frame</a></li>
+  <li><a href="/guides/what-is-an-art-print">What is an art print</a></li>
+  <li><a href="/guides/what-is-canvas-art">What is canvas art</a></li>
+</ul>
+
+  </div>
+
+  <div class="content-area">
+    <h1>Easyart.com privacy policy</h1>
+    <h2>Effective Date: 01 February 2011</h2>
+    <h3>Privacy Policy</h3>
+    <p>Easyart ("We") are committed to protecting and respecting your privacy.</p>
+    <p>Our Privacy Policy is designed to assist you, businesses, consumers and the general public, in understanding how we collect and use the personal information you give us. It sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. We also want to help you make informed decisions when using our web site and all of our related services therein. </p>
+    <p>Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By using our website your consent to our collection and use of your personal information as described in this Privacy Policy.</p>
+    <h3>Contact Information</h3>
+    <p>To request a correction or deletion of your private information, or if you have any questions and general comments about this privacy policy, please contact us at <a href="mailto:customercare@easyart.com">customercare@easyart.com</a>.</p>
+    <h3>Address</h3>
+    <div class="postal-address" itemscope="" itemtype="http://schema.org/Organization">
+      <span itemprop="name">Easyart</span><br>
+      <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">
+        <span itemprop="streetAddress">Unit 12 E Plan Estate</span><br>
+        <span itemprop="streetAddress">New Road</span><br>
+        <span itemprop="addressLocality">Newhaven</span><br>
+        <span itemprop="addressRegion">Sussex</span><br>
+        <span itemprop="postalCode">BN9 0EX</span><br>
+      </div>
+    </div>
+    <h3>Telephone:</h3>
+    <ul>
+      <li>01273 511 942</li>
+      <li>+44 (0)1273 511 942 from outside the UK</li>
+    </ul>
+    <h3>Email:</h3>
+    <p><a href="mailto:customercare@easyart.com">customercare@easyart.com</a></p>
+    <h3>What Information Do We Collect?</h3>
+    <p>We may collect and process the following data items related to you:</p>
+    <ol>
+        <li>Information that you provide by filling in forms on our site www.easyart.com (our site). This includes information provided at the time of registering to use our site, subscribing to our service, posting material or requesting further services. We may also ask you for information when you report a problem with our site.</li>
+        <li>If you contact us, we may keep a record of that correspondence.</li>
+        <li>Easyart may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.</li>
+        <li>Details of transactions you carry out through our site and of the fulfilment of your orders.</li>
+        <li>Details of your visits to our site including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access.</li>
+    </ol>
+    <h3>How Do We Use the Information That You Provide to Us?</h3>
+    <p>We use information held about you in the following ways:</p>
+    <ol>
+        <li>To ensure that content from our site is presented in the most effective manner for you and for your computer.</li>
+        <li>To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes.</li>
+        <li>To carry out our obligations arising from any contracts entered into between you and us.</li>
+        <li>To allow you to participate in interactive features of our service, when you choose to do so.</li>
+        <li>To notify you about changes to our service.</li>
+    </ol>
+    <p>If you are an existing customer, we will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale to you.</p>
+    <p>If you do not want us to use your data in this way, please opt-out as directed below.</p>
+    <h2>Personal Information You Choose to Provide</h2>
+    <h3>Registration Information</h3>
+    <p>You will provide us information about yourself, your firm or company, and your practices when you register to be a user of our services, register for certain services, or register for email newsletters and alerts.</p>
+    <h3>Email Information</h3>
+    <p>If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses. If you use our "Email this page" feature to send a copy of that page to someone else, your email address will appear as the sender of the email. Both your email address and the recipient's email address will not be used for any other purpose.</p>
+    <h3>Disclosure of your information</h3>
+    <p>We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.</p>
+    <h3>We may disclose your personal information to third parties:</h3>
+    <ul>
+        <li>In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.</li>
+        <li>If Easyart or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.</li>
+        <li>If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use or <a href="/help/terms">terms and conditions of supply</a> and other agreements; or to protect the rights, property, or safety of Easyart, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.</li>
+    </ul>
+    <h3>Choice/Opt-out</h3>
+    <p>If you do not wish to receive any promotional or marketing e-mails and/or surface mail marketing letters, you may opt-out of receiving those communications by using the opt-out mechanism on the User Account Settings Web page, or by sending an e-mail with the subject line "Unsubscribe" to our e-mail address - see above.</p>
+    <h3>Sharing Information with Third Parties</h3>
+    <p>We use third parties to facilitate our business, including, but not limited to, sending email and processing credit card payments. In connection with these business operations, our partners and other third parties may have access to your personal information for use in connection with business activities.</p>
+    <h2>How Do We Protect Your Information?</h2>
+    <h3>Secure Information Transmissions</h3>
+    <p>Email is not recognized as a secure medium of communication. For this reason, we request that you do not send private information to us by email. Some of the information you may enter on our Web site may be transmitted securely via Secure Sockets Layer SSL, 256 bit encryption services. Pages utilizing this technology will have URL's that start with HTTPS instead of HTTP. Please contact us on 01273 511 942 (+44 (0)1273 511 942 Outside UK) if you have any questions or concerns.</p>
+    <p>Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.</p>
+    <p>Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.</p>
+    <h3>Your rights</h3>
+    <p>You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data.  You can also exercise the right at any time by contacting us at <a href="mailto:customercare@easyart.com">customercare@easyart.com</a>.</p>
+    <p>Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates.  If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies.  Please check these policies before you submit any personal data to these websites.</p>
+    <h3>How Can You Access and Correct Your Information?</h3>
+    <p>The Act gives you the right to access information held about you. You may request access to all your personally identifiable information that we collect online and maintain in our database by contacting us (contact information above). Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.</p>
+    <h3>Changes to our privacy policy</h3>
+    <p>Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.</p>
+    <h3>Contact</h3>
+    <p>Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to <a href="mailto:customercare@easyart.com">customercare@easyart.com</a>.</p>
+    <h1>Cookies: Information and Policy</h1>
+    <p>Easyart's websites use cookies. Cookies are pieces of code that allow small amounts of information to be passed from your internet browser to our web server. Easyart use our own cookies, as well as those from third parties, serving several purposes. They allow us to remember whether you are logged in to the site, to remember what items you had in your shopping basket, to serve you with content tailored specifically for you and to help us learn about how you like to use our website and where we can make it better.</p>
+    <p>Easyart will never disclose your personal details to any third parties. All data passed by cookies is anonymous and will never contain your name, address, telephone number, email address, IP address or payment details.</p>
+    <p>You can learn more about cookies, how we use them, how to manage them and about our third party partnerships below.</p>
+    <h2>What is a cookie?</h2>
+    <p>Cookies are small text files that are created by your browser and placed on your computer or browsing device, at the request of websites that you visit. Cookies allow websites to recognise your computer or web browser. They can help to analyse which products or parts of a website you looked at, and how long for.</p>
+    <p>Websites may also use web beacons or 'tags' to do a similar job. Like cookies, web beacons are used to collect non-personal information about the way you browse websites. An example of this could be remembering what products you placed in your shopping basket last time you visited.</p>
+    <p>A web beacon is a transparent graphic image that is placed on a website or in an email and is used to see when that web page or email has been displayed.</p>
+    <p>Third party cookies and web beacons can also be used to help present you with appropriate offers and advertising as you browse other sites on the internet.</p>
+    <p>Note:</p>
+    <ul>
+      <li>Cookies and web beacons are not able to retrieve any information from your computer that you have not already given to a website.</li>
+      <li>Cookies and web beacons are not able to be used to put malware or viruses on your computer.</li>
+      <li>Cookies and web beacons are not able to be used to control the functionality or settings of your computer or web browsing device.</li>
+    </ul>
+    <h2>Why does Easyart use cookies?</h2>
+    <p>Cookies allow us to present you with relevant products and services that are based on the way that you want to use our website, providing you with an enhanced browsing and shopping experience.</p>
+    <p>For example, cookies allow us to remember what products you placed in your shopping basket, whether you were logged in or not, and what language you were using to read the site last time you visited.</p>
+    <p>Cookies and web beacons allow us to work alongside our web analytics partner to see how our customers like to use our websites and which pages or special functions they prefer. This helps us to continually improve our service.</p>
+    <p>Third party cookies and web beacons are also used with our marketing partners to present you with appropriate offers and advertising as you browse other sites on the internet, based on the products you looked at while on our site.</p>
+    <p>Note:</p>
+    <ul>
+      <li>Easyart's cookies and those of our third party partners will never be used to collect any personal data. This includes your name, address, telephone number, email address, credit card information or any other payment details.</li>
+    </ul>
+    <h2>Turning off and deleting cookies</h2>
+    <p>Most web browsers will provide the option to disallow cookies and web beacons. How you do this depends on the web browser you're using. Instructions for disallowing cookies can usually be found in the browser's 'Help' menu.</p>
+    <p>Cookies can also be deleted using your internet browser. However, unless they are disallowed they will be re-applied the next time you visit a website.</p>
+    <p>Note:</p>
+    <ul>
+      <li>In common with most other transactional websites, refusing cookies via your web browser will mean that you are unable to make a transactional purchase on Easyart's websites. You will also find that the functionality of many other websites and services will be affected.</li>
+    </ul>
+    <p>Disallowing cookies will prevent web beacons from tracking your specific activity online. However, web beacons may still record anonymous data from your IP address.</p>
+    <p>For more detailed information about cookies and web beacons please visit <a href="http://allaboutcookies.org" target="_blank">www.allaboutcookies.org</a>.</p>
+    <h2>Where exactly do Easyart use cookies?</h2>
+    <p>Cookies are used by all Easyart transactional websites:</p>
+    <ul>
+      <li><a href="http://www.easyart.com">www.easyart.com</a></li>
+      <li><a href="http://www.easyart.de">www.easyart.de</a></li>
+      <li><a href="http://www.easyart.fr">www.easyart.fr</a></li>
+      <li><a href="http://www.easyart.se">www.easyart.de</a></li>
+    </ul>
+    <p>There are two types of cookie that may be used during your visit to an Easyart website:</p>
+    <h2>1. Session cookies</h2>
+    <p>Session cookies are deleted after each 'session'. For example, when you are browsing an Easyart website, it will remember you for the duration of your visit, but the cookie will be removed from your computer as soon as you close down your internet browser.</p>
+    <p>Without a session cookie, every time you open a new web page the web server where that page is stored will treat you like a completely new visitor and items placed in your shopping basket will disappear by the time you reach the checkout.</p>
+    <h2>2. Persistent cookies</h2>
+    <p>Persistent cookies remember you for a set period of time (unless you delete them).</p>
+    <p>On your first visit to an Easyart site, you will be presented the site in a default manner. Over time, the version of the site you see may change, as persistent cookies remember items you have viewed, preference changes you have made, or whether you logged into or out of your account while browsing.</p>
+    <p>Here is a list of the different types of cookies used by Easyart:</p>
+    <table>
+      <thead>
+        <tr>
+          <th>Cookie purpose</th>
+          <th>Cookie type</th>
+          <th>Summary</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Transaction</td>
+          <td>Session cookie</td>
+          <td>Used to maintain your transaction with Easyart and minimise the need to transfer your information across the internet.</td>
+        </tr>
+        <tr>
+          <td>Navigation</td>
+          <td>Last viewed product</td>
+          <td>Used to help you return to the last viewed product, for instance after adding an item to the cart.</td>
+        </tr>
+      </tbody>
+    </table>
+    <h2>Easyart third party marketing partner cookies</h2>
+    <p>Easyart work with several partners who serve advertisements on our behalf. Most of these third party marketing sites use both session and persistent cookies.</p>
+    <p>All data collected by these third parties is anonymous and will never contain your name, address, telephone number, email address or payment details. You can delete your cookies at any time from any of the third party marketing sites and technology partners mentioned below. Easyart will never disclose your personal details to third parties without your permission.</p>
+    <p>More information on Easyart's third party, network and supplier relationships - and the Easyart' websites to which they apply can be found below.</p>
+    <table>
+      <thead>
+        <tr>
+          <th>Partner</th>
+          <th>Easyart.com</th>
+          <th>Easyart.fr</th>
+          <th>Easyart.de</th>
+          <th>Easyart.se</th>
+      </tr></thead>
+      <tbody>
+        <tr>
+          <td>Criteo</td>
+          <td>×</td>
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Affiliate Window</td>
+          <td>×</td>
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Triggered Messaging</td>
+          <td>×</td>
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Kissmetrics</td>
+          <td>×</td>
+          <td></td>
+          <td></td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Google</td>
+          <td>×</td>
+          <td>×</td>
+          <td>×</td>
+          <td>×</td>
+        </tr>
+        <tr>
+          <td>Yahoo!</td>
+          <td>×</td>
+          <td>×</td>
+          <td>×</td>
+          <td>×</td>
+        </tr>
+        <tr>
+          <td>MSN/Bing</td>
+          <td>×</td>
+          <td>×</td>
+          <td>×</td>
+          <td>×</td>
+        </tr>
+      </tbody>
+    </table>
+    <h2>Criteo</h2>
+    <p>Criteo Technology may place anonymous cookies in your browser. These cookies collect browsing data - like the products you have viewed. This data may then be used by other website(s) in their network to serve advertisements containing products that you may have looked at or similar.</p>
+    <p>Advertisements will always include a link to Criteo's Privacy Policy page. If you'd like to opt out of ad targeting, or would like to see more information on why you are being retargeted, simply click the 'i' which appears in the top left hand corner of every advertisement. Alternatively, if you wish to opt out of receiving Criteo advertisements altogether, please go to <a href="http://www.criteo.com/privacy-policy/opt-out" target="_blank">www.criteo.com/privacy-policy/opt-out</a>.</p>
+    <h2>Affiliate Window</h2>
+    <p>Affiliate Window's tracking technology uses cookies, flash cookies and ETag requests. Flash cookies are similar to normal cookies but they use flash rather than HTML. ETags are pieces of code that behave similarly to cookies and help speed up browsing.</p>
+    <p>These cookies and tag requests store information on your computer so that when you click on an Affiliate Window link, information is stored about the click - such as the time of day and the advertisement that referred you to us.</p>
+    <h2>Triggered Messaging</h2>
+    <p>Places a cookie on the computers of vistors to help us better understand browsing and send more tailored and relevant communications.</p>
+    <h2>Kissmetrics</h2>
+    <p>Places a cookie on the computers of vistors to help us better understand browsing behaviour and improve the user experience.</p>
+    <h2>Google</h2>
+    <p>Google uses cookies to serve you relevant advertisements based on your recent searches and browsing behaviour on our website.</p>
+    <h2>Yahoo!</h2>
+    <p>Yahoo! use cookies across their advertising products and their third party advertising network. Yahoo! may set and access Yahoo! cookies on your computer. Yahoo! use web beacons to access Yahoo! cookies inside and outside of their network of websites and in connection with Yahoo! products and services.</p>
+    <h2>MSN / Bing</h2>
+    <p>Bing search use cookies across their advertising products. When you use Bing Search they place a cookie on your machine which contains a unique identifier known as a 'Search ID'. If you have previously signed into a Microsoft site or service using a Windows Live ID, Easyart can also read one or more additional unique identifiers contained in other Microsoft cookies when you conduct a search.</p>
+  </div>
+
+</div> <!-- // .l-container -->
+
+
+    <div class="footer">
+    <div class="l-container">
+      <div class="l-grid l-grid-medium">
+        <div class="l-grid-item">
+          <h4>01273 511 942</h4>
+          <p>
+            9am - 5.30pm, Mon - Fri<br>
+            <a href="/contact">Contact us</a>
+          </p>
+        </div> <!-- // .l-grid-4 -->
+        <div class="l-grid-item">
+          <h4>Get updates</h4>
+          <p>Get a weekly dose of beautiful art &amp; offers. <a class="modal-link-email" data-ga-event="open-subscribe-modal:footer" href="#email-modal">Subscribe</a></p>
+        </div> <!-- // .l-grid-4 -->
+        <div class="l-grid-item">
+          <h4>Easyart Loves</h4>
+          <p>Style advice and art news on our Easyart Loves blog. <a href="/loves">More</a></p>
+        </div> <!-- // .l-grid-4 -->
+        <div class="l-grid-item ie-last-item">
+          <ul class="social-buttons">
+            <li><a href="https://plus.google.com/share?url=http://www.easyart.com" class="socialite googleplus-one" data-size="tall" data-href="http://www.easyart.com" rel="nofollow" target="_blank"><span class="vhidden">Share on Google+</span></a></li>
+            <li><a href="http://www.facebook.com/sharer.php?u=http://facebook.com/easyartuk" class="socialite facebook-like" data-href="http://facebook.com/easyartuk" data-send="false" data-layout="box_count" data-width="60" data-show-faces="false" rel="nofollow" target="_blank"><span class="vhidden">Share on Facebook</span></a></li>
+            <li><a href="http://twitter.com/share" class="socialite twitter-share" data-text="Easyart.com - the UK's favourite place to buy art" data-url="http://www.easyart.com" data-count="vertical" rel="nofollow" target="_blank"><span class="vhidden">Share on Twitter</span></a></li>
+          </ul>
+        </div> <!-- // .l-grid-4 -->
+      </div> <!-- // .l-grid -->
+      <hr>
+      <div class="l-grid l-grid-small">
+        <div class="l-grid-item">
+          <h4>Need help?</h4>
+          <ul>
+            <li><a href="/help">Help page</a></li>
+            <li><a href="/contact">Contact us</a></li>
+            <li><a href="/academy">Artist submissions</a></li>
+            <li><a href="/help/shipping">Shipping</a></li>
+            <li><a href="/help/returns">Returns</a></li>
+          </ul>
+        </div> <!-- // .l-grid-item -->
+        <div class="l-grid-item">
+          <h4>Who we are</h4>
+          <ul>
+            <li><a href="/about">About us</a></li>
+            <li><a href="/help/price-promise">Price promise</a></li>
+            <li><a href="/help/privacy">Privacy &amp; Cookies</a></li>
+            <li><a href="/help/terms">Terms &amp; conditions</a></li>
+            <li><a href="http://www.reviews.co.uk/company-reviews/store/15722" target="_blank">Independent reviews</a></li>
+          </ul>
+        </div> <!-- // .l-grid-item -->
+        <div class="l-grid-item">
+          <h4>Our products</h4>
+          <ul>
+            <li><a href="/posters">Posters</a></li>
+            <li><a href="/prints/photography">Photography</a></li>
+            <li><a href="/canvas-prints">Canvas prints</a></li>
+            <li><a href="/prints/rare-editions">Rare Editions</a></li>
+            <li><a href="/guides/what-is-a-custom-frame">Framing</a></li>
+          </ul>
+        </div> <!-- // .l-grid-item -->
+        <div class="l-grid-item">
+          <h4>Services</h4>
+          <ul>
+            <li><a href="/contact">Press</a></li>
+            <li><a href="https://darwin.affiliatewindow.com/merchant-profile/556" target="_blank">Affiliates</a></li>
+            <li><a href="/prints/gifts">Gifts</a> <span class="text-muted">&amp;</span> <a href="/gift-vouchers">Vouchers</a></li>
+            <li><a href="/business">Art for businesses</a></li>
+            <li><a href="/new">What's New</a></li>
+          </ul>
+        </div> <!-- // .l-grid-item -->
+        <div class="l-grid-item text-center">
+          <p><img alt="Paypal" src="http://d2sgp1kv3jd5k4.cloudfront.net/assets/footer/paypal-logo-ee21f15de2fae7a4932b71c8b6379300.png"></p>
+          <p><a href="https://sealinfo.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=www.easyart.com&amp;lang=en"><img alt="Norton Secured" src="http://d2sgp1kv3jd5k4.cloudfront.net/assets/footer/verisignseal-301a87a1f85819e5242b52815b33a858.png"></a></p>
+        </div>
+        <div class="l-grid-item ie-last-item text-center">
+              <a href="http://www.reviews.co.uk/company-reviews/store/15722" class="review-widget">
+		
+	<style>
+	#richSnippetContainer{
+			margin:0px ;
+		padding:0px ;
+		border:0px;
+		font-family: "Oxygen",Hevetica,Arial,sans-serif;;
+		scrolling:none;
+		overflow:hidden;
+		font-size:12px;
+		background-color:transparent;
+			}
+	
+	.reviewsBadge{
+		overflow:hidden;
+		border: 2px solid #8f8f8f;
+		width:98%;
+		border-radius:6px;
+		margin:0px !important;
+		background-color: #ffffff;
+	}
+	.reviewsBadge h3{
+		text-align:center;
+		background-color: #8f8f8f;
+		color:;
+		font-size:1.5em;
+		margin:0px !important;
+		line-height:40px;
+		overflow:show;
+		height:auto;
+	}
+	
+	.reviewsBadge h3 > .subh{
+		font-size:60%;
+	}
+	
+	h3#rs_footer{
+		height:33px;
+		line-height:1.5em;
+	}
+	
+	.reviewsBadge .reviews{
+
+	
+	}
+
+	.reviewsBadge .rating{
+		margin-bottom:5px;
+		clear:both;
+	}
+	.reviewsBadge .review h4{
+		color:;
+		margin-bottom:5px;
+		float:left;
+		margin-top:0px;
+	}
+	.reviewsBadge .review, .review a , #footerLink{
+		margin-bottom:20px;
+		padding:10px;
+		color:#1b1b1b;
+	}
+	.reviewsBadge .summary{
+		text-align:center;
+		padding:0px !important;
+		margin-bottom:5px !important;
+		color:;
+	}
+	.reviewDate{
+		float:right;
+		color:#1b1b1b;
+		font-size:0.9em;
+	}
+	#reviewBoxFooterLogo{
+		border:none !important;
+	}
+
+	
+
+</style>
+<div id="richSnippetContainer">
+<div class="reviewsBadge" itemscope="itemscope" itemtype="http://schema.org/LocalBusiness">
+		<h3 class="storeName" itemprop="name" style="margin:0px;">Easyart.com</h3>
+		
+	<div itemprop="aggregateRating" itemscope="itemscope" itemtype="http://schema.org/AggregateRating">
+		<meta itemprop="ratingValue" content="5">
+			
+  		<meta itemprop="ratingCount" content="259">
+			
+	</div>
+	
+	
+	<div class="reviews">
+				<div class="review summary">
+	    	<div class="rating">
+	    						<img src="https://secure.reviews.co.uk/resources/front/images/star-on.png">
+							<img src="https://secure.reviews.co.uk/resources/front/images/star-on.png">
+							<img src="https://secure.reviews.co.uk/resources/front/images/star-on.png">
+							<img src="https://secure.reviews.co.uk/resources/front/images/star-on.png">
+							<img src="https://secure.reviews.co.uk/resources/front/images/star-on.png">
+				       	</div>
+	   		<div class="reviewBody">
+	    			    			    		(259 Reviews)	    			    		
+	    			  		</div>
+		</div>
+			</div>
+   	<h3 id="rs_footer" style="background-image:none;padding:10px 0 10px;">
+   		   		
+   		   			<img id="reviewBoxFooterLogo" border="0" alt="Easyart.com Reviews.co.uk" src="https://secure.reviews.co.uk/resources/b2b/images/logo.png">
+   		   		   	</h3>
+</div>
+<div style="clear:both;float:none;">&nbsp;</div>
+	<script language="javascript">
+	function fixHeight() {
+		
+	}
+	</script>
+</div>
+<!--from cache--></a>
+        </div> <!-- // .l-grid-item -->
+      </div> <!-- // .l-grid -->
+      <hr>
+      <p class="text-center"><small class="text-muted"><a href="http://www.easyart.com/">Easyart.com</a> is the simple and enjoyable way to shop the UK's best range of <a href="http://www.easyart.com/">art prints</a> and <a href="/posters">posters</a> online. Founded in 1999, you'll find a breadth of images covering well known artists like <a href="/prints/pablo-picasso">Picasso</a>, <a href="/prints/andy-warhol">Warhol</a>, <a href="/prints/jack-vettriano">Vettriano</a> and <a href="/prints/gustav-klimt">Klimt</a> and themes from <a href="/prints/photography">photography</a>, <a href="/prints/landscape">landscape</a> and <a href="/prints/figures">figurative</a> to <a href="/prints/vintage-posters">vintage</a> art. Find the perfect pictures for your home or workplace and customise using sizing, framing and canvas options. <a href="/about">Read more</a></small></p>
+      <ul class="footer-external text-center">
+        <li><strong>Easyart around the world:</strong></li>
+        <li><a href="http://www.easyart.fr"><img alt="French flag" src="http://d2sgp1kv3jd5k4.cloudfront.net/assets/footer/fr-flag-64d9171180b4f2b3e1427d3699668313.png"> Affiches et posters</a></li>
+        <li><a href="http://www.easyart.de"><img alt="German flag" src="http://d2sgp1kv3jd5k4.cloudfront.net/assets/footer/de-flag-4ed3720bed79370842aac3bb38c06c37.png"> Kunstdrucke und Poster</a></li>
+        <li><a href="http://www.easyart.se"><img alt="Swedish flag" src="http://d2sgp1kv3jd5k4.cloudfront.net/assets/footer/se-flag-9e744ba90b7c33387b59ff4b6be54fb5.png"> Tavlor</a></li>
+        <li>|</li>
+        <li><strong>Wholesale:</strong></li>
+        <li><a href="http://www.kingandmcgaw.com"><img alt="King and McGaw" src="http://d2sgp1kv3jd5k4.cloudfront.net/assets/footer/kmg-logo-492708de39193c455bc5c108d3e7b942.png"> Wholesale prints</a></li>
+      </ul>
+      <p class="text-center"><small class="text-muted">All art prints and images on this website are copyright their respective owners. All rights reserved. Website © 1999-2013 <a href="http://www.easyart.com/">Easyart.com</a>.</small></p>
+    </div> <!-- // .l-container -->
+  </div> <!-- // .footer -->
 
 
 <div class="cookie-message hide">
   <div class="cookie-message-inner">
-    This site uses cookies. By continuing to use this website you are agreeing to our use of cookies. <a href="/help/cookies.ghtml">Find out more</a>
+    This site uses cookies. By continuing to use this website you are agreeing to our use of cookies. <a href="/help/privacy">Find out more</a>
     <a id="close-cookie-message" href="#">× Close</a>
   </div>
 </div>
 
-<!-- MailChimp tracking -->
-<img style="display:none;" id="mc_tracking_pixel" src="http://gooo.al/tracking_image.gif">
+<div class="promo-tab promo-tab-offer"><a href="#promo-modal" class="modal-link-promo" id="promo-tab"><img alt="25% off" src="http://d2sgp1kv3jd5k4.cloudfront.net/assets/promo/promo-tab-25-5dae5333606444ead82742b7f6f462a4.png"></a></div>
+<!-- <div class="promo-tab promo-tab-email"><a href="#email-modal" class="modal-link-email" id="promo-tab" data-ga-event="open-subscribe-modal:tab"><img alt="Sign up" src="http://d2sgp1kv3jd5k4.cloudfront.net/assets/promo/promo-tab-email-99970059ed49358ba073778b4a28f86b.png" /></a></div> -->
 
 
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js" type="text/javascript"></script>
-<script src="/static/js/easyart.min.js?newmodalcondition=true" type="text/javascript"></script>
+  <!-- Begin hidden content -->
+  <div class="hide">
+<div id="email-modal" class="email-modal t-modal hide text-center">
+  <p><img alt="Easyart" src="http://d2sgp1kv3jd5k4.cloudfront.net/assets/email/logo-email-15fcc7a6aa6e62d7961b59609e6a6929.png"></p>
+  <h2>Sign up now and get a free print</h2>
+  <p>Sign up for the Easyart newsletter to take advantage of this exclusive offer and receive updates on the latest artists and collections.</p>
+  <div id="mc_embed_signup">
+    <div class="alert alert-success hide"></div>
+    <div class="alert alert-error hide"></div>
+    <form action="http://easyart.us5.list-manage1.com/subscribe/post?u=c5becf127cc8199da3351679e&amp;id=a197418d13" method="post" id="mc-embedded-subscribe-form-modal" name="mc-embedded-subscribe-form" class="validate form-inline" target="_blank">
+      <div class="alert alert-error" id="mce-error-response" style="display:none"></div>
+      <div class="alert alert-success" id="mce-success-response" style="display:none"></div>
+      <div class="mc-field-group">
+          <input type="hidden" name="SOURCE" value="email-modal">
+        <div class="control-group">
+          <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Enter email address" required="">
+        </div>
+        <button type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="btn-primary" data-ga-event="open-subscribe-modal:submit-email">Subscribe</button>
+      </div>
+    </form>
+  </div>
+</div>
 
-<!-- triggeredmessaging script -->
-<script defer="defer" async="async" src="//d81mfvml8p5ml.cloudfront.net/zj75f5jk.js"></script>
+    <div id="promo-modal" class="promo-modal t-modal hide">
+      <div class="promo-container">
+        <div class="promo-image">
+          <img alt="25% off" src="http://d2sgp1kv3jd5k4.cloudfront.net/assets/promo/modal-image-6273198e175234eb7ad8f8237bdf8582.jpg">
+        </div>
+        <div class="promo-content">
+          <div class="promo-inner">
+            <div class="promo-xlarge-text">25% Off</div>
+            <div class="promo-large-text">Framed &amp; Canvas Art</div>
+            <div class="promo-medium-text">Use the code <span class="promo-code">SUMMER25</span> to save 25% on all framed art and canvases</div>
+            <div class="promo-small-text">Ends midnight Monday 30th June</div>
+          </div>
+        </div>
+      </div>
+    </div>
 
-<script type="text/javascript">
-  var _gaq = _gaq || [];
-  _gaq.push(["_setAccount", "UA-204511-1"]);
+    <div id="logo-download-options" class="modal hide text-center">
+      <h2>Want to download our logo?</h2>
+      <p><a href="https://s3.amazonaws.com/content.easyart.com/downloads/easyart_logo.zip"><img alt="Easyart.com" src="http://d2sgp1kv3jd5k4.cloudfront.net/assets/email/logo-email-15fcc7a6aa6e62d7961b59609e6a6929.png"></a></p>
+      <br>
+      <p><a href="https://s3.amazonaws.com/content.easyart.com/downloads/easyart_logo.zip" class="btn btn-large btn-primary">Download</a></p>
+    </div>
+
+</div>
+
+  <!-- End hidden content -->
 
   
-    // Only track non-404's as pageviews
-    if (typeof(pagename) == "undefined") {
-      var pagename = "";
-    }
-    _gaq.push(["_trackPageview", pagename]);
-  
 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
-    // ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com//u/ga_debug.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-</script>
+<script src="http://d2sgp1kv3jd5k4.cloudfront.net/assets/application-0d5a2ffdcdffc04334b819664b2e984c.js" type="text/javascript"></script>
 
-<script type="text/javascript">
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  <script>
+  // Track Javascript errors
+  window.onerror = function(message, file, line) {
+    var formattedMessage = "[" + file + " (" + line + ")] " + message;
 
-  ga('create', 'UA-204511-24', 'easyart.com');
-  ga('send', 'pageview');
-</script>
+    dataLayer.push({
+      "event": "GAevent",
+      "eventCategory": "Exceptions",
+      "eventAction": "Javascript",
+      "eventLabel": formattedMessage
+    });
+  }
+
+  // Track missing images
+  $("img").on("error", function() {
+    var formattedMessage = "Missing image " + $(this).attr("src") + " on " + document.URL;
+
+    dataLayer.push({
+      "event": "GAevent",
+      "eventCategory": "Exceptions",
+      "eventAction": "Images",
+      "eventLabel": formattedMessage
+    });
+  });
+  </script>
+
+  <!-- Google Tag Manager -->
+  <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-T6NVLK"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-T6NVLK');</script>
+  <!-- End Google Tag Manager -->
 
 
 
-
-<script src="https://www.dwin1.com/556.js"></script></body></html>
+<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
