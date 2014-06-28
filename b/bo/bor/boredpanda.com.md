@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boredpanda.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205175402id_/http%3A//www.boredpanda.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boredpanda.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628023014id_/http%3A//www.boredpanda.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bored Panda
 
@@ -8,7 +8,7 @@ BoredPanda takes your privacy seriously. This privacy policy describes how and w
 
 **2\. The Information we collect**
 
-Information is collected from you when you register with us, or when you contribute to or use some of the advanced features on the site.  The information we collect is clearly set out on the web page on which we collect it. See for example our registration page and order form. In addition, we may collect your IP address and use cookies unless you configure your web browser not to accept them.
+Information is collected from you when you register with us, or when you contribute to or use some of the advanced features on the site.  The information we collect is clearly set out on the web page on which we collect it. In addition, we use “Google Analytics Demographics and Interest Reporting” which collects demographic data such as as age, gender, and interests (See [currently available opt-outs](https://tools.google.com/dlpage/gaoptout/)). We may also collect your IP address and use cookies unless you configure your web browser not to accept them.
 
 **3\. Why we collect it**
 
