@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the caclubindia.com privacy policy that was archived on 2013-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131107062307id_/http%3A//www.caclubindia.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caclubindia.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628190717id_/http%3A//www.caclubindia.com/privacy_policy.asp) for the most accurate reproduction.*
 
-# CAclubindia : PRIVACY POLICY - CA Clubindia India - Interactive Platform for Finance Professionals & Taxpayers, Chartered Accountant ,CAs India, CA india ,Company Secretary ,CS, CWA, Cost Accountants , MBA and Finance Professionals. ICAI
+# CAclubindia : PRIVACY POLICY
 
   
 Please Wait ..
