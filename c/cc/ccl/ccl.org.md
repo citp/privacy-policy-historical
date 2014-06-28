@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ccl.org privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228022639id_/http%3A//www.ccl.org/leadership/utilities/privacy.aspx%3Fcampaign%3DFooter0813) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ccl.org privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629005224id_/http%3A//www.ccl.org/leadership/utilities/privacy.aspx%3Fcampaign%3DFooter0813) for the most accurate reproduction.*
 
 # Privacy Commitment - Center for Creative Leadership
 
