@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smallbiztrends.com privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030215852id_/http%3A//smallbiztrends.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smallbiztrends.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628054348id_/http%3A//smallbiztrends.com/privacy.htm) for the most accurate reproduction.*
 
 # Small Business Trends | Privacy Policy
 
@@ -6,7 +6,7 @@ Your privacy is important to us.
 
 At _Small Business Trends_ , we recognize that privacy of your personal information is important. The following Privacy Statement describes the types of personal information and anonymous information we receive and collect when you use and visit Small Business Trends, and how we safeguard your information. 
 
-This Privacy Statement applies to all the Small Business Trends family of websites, including [Small Business Trends](http://smallbiztrends.com/), [SMB TrendWire](http://www.smbtrendwire.com/), [smbceo.com](http://www.smbceo.com/), [sellingtosmallbusinesses.com](http://www.sellingtosmallbusinesses.com/) and any sites subsequently added. Any reference to "site" includes all sites within the Small Business Trends family. 
+This Privacy Statement applies to all the Small Business Trends family of websites, including [Small Business Trends](http://smallbiztrends.com/), [SMB TrendWire](http://www.smbtrendwire.com/), [sellingtosmallbusinesses.com](http://www.sellingtosmallbusinesses.com/) and any sites subsequently added. Any reference to "site" includes all sites within the Small Business Trends family. 
 
   
 **Electronic Communications**
@@ -102,4 +102,4 @@ ATTN: Small Business Trends Privacy Statement
 3593 Medina Rd. #160  
 Medina, OH 44256
 
-Privacy Statement updated October 1st, 2013. 
+Privacy Statement updated March 24th, 2014. 
