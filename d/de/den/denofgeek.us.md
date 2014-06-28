@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the denofgeek.us privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203123603id_/http%3A//www.denofgeek.us/content/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the denofgeek.us privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628093950id_/http%3A//www.denofgeek.us/content/privacy-notice) for the most accurate reproduction.*
 
 # Den of Geek | Privacy Notice
 
@@ -16,7 +16,9 @@ You must review the privacy statements of Web sites you choose to link to from t
 
 
 
-DoG Tech will only share your non-public personal information with non-affiliated third parties when we believe sharing is permitted by you or authorized by this Privacy Policy. DoG Tech uses the information we collect from and about users for the following purposes:
+DoG Tech will only share your non-public personal information with non-affiliated third parties when we believe sharing is permitted by you or authorized by this Privacy Policy. 
+
+DoG Tech uses the information we collect from and about users for the following purposes:
 
   * To provide and manage the Site. DoG Tech uses the information we collect from and about users to: measure and improve the Site’s services and features; personalize your experience by delivering relevant content, advertising and marketing messages; allow you to participate in online games, contests or promotions; enable you to communicate and share with other users; and provide you with customer support and respond to inquiries. 
 
