@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the evms.edu privacy policy that was archived on 2013-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131016060218id_/http%3A//www.evms.edu/about_evms/leadership/general_counsel/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evms.edu privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628141337id_/http%3A//evms.edu/about_evms/leadership/general_counsel/legal_and_compliance/privacy_policy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy - Eastern Virginia Medical School (EVMS), Norfolk, Hampton Roads
 
 [](https://web.archive.org/)
 
@@ -27,7 +27,7 @@ The information EVMS collects will be used for:
 
 We will never sell your information, but may share your information with any or all of the following:
 
-  * The EVMS Foundation for purposes of fundraising on behalf of EVMS. For EVMS Medical Group patients, if you do not want us to contact you for fundraising efforts, you must notify our Privacy Office. [Find out more](https://web.archive.org/about_evms/leadership/general_counsel/legal/evms_medical_group_opt_out/).
+  * The EVMS Foundation for purposes of fundraising on behalf of EVMS. For EVMS Medical Group patients, if you do not want us to contact you for fundraising efforts, you must notify our Privacy Office. [Find out more](https://web.archive.org/about_evms/leadership/general_counsel/legal_and_compliance/evms_medical_group_opt_out/).
   * EVMS Medical Group for purposes of following up on a patient care complaint or to improve our patient care services to you
   * Service providers that provide web related services on our behalf. These service providers are contractually restricted from using or disclosing the information except as necessary to perform services on our behalf or to comply with legal requirements.
   * As necessary to comply with legal requirements (i) if we are required to do so by law or legal process, (ii) to law enforcement authorities or other government officials, or (iii) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss or in connection with an investigation of suspected or actual illegal activity.
