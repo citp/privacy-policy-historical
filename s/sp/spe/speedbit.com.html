@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the speedbit.com privacy policy that was archived on 2013-12-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131207204141id_/http%3A//www.speedbit.com/legal/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the speedbit.com privacy policy that was archived on 2014-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140628021628id_/http%3A//www.speedbit.com/legal/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
 	<title>Speedbit Privacy Policy</title>
@@ -119,28 +119,28 @@ var google_remarketing_only = true;
 					.success(function (data)
 					{
 						if (data != null && data.uid != null && data.uid != "")
-						  {
-							  uid = data.uid;
-							  var currentdlurl = $("[sbga*=dapdownload]").attr('href');
-							  if(typeof currentdlurl != "undefined")
-							  {
-								var fileName = currentdlurl.substring(currentdlurl.lastIndexOf("/") + 1, currentdlurl.lastIndexOf("."));
-								//magdlurl = "http://download.speedbit.com/mag/" + fileName + "_" + uid + "_setup.exe";
-								magdlurl = "http://download.speedbit.com/mag/dap10_" + uid + "_setup.exe";
-								$("[sbga*=dapdownload]").attr("href", magdlurl);
-							  }
-						  }
-					})
-					.error(function (jqXHR, textStatus, errorThrown)
-					{
-					//alert("aaa");
-					})
-					.complete(function (data) { });
-		}
-		catch (ex) {
-				var errurl = "http://mag.speedbit.com/jsweberror.ashx?msg=" + encodeURIComponent(ex.message);
-               $('body').append('<img width="1px" heihgt="1px" src="'+ errurl + '" />');
-				qbaka.report(ex);
+  {
+  uid = data.uid;
+  var currentdlurl = $("[sbga*=dapdownload]").attr('href');
+  if(typeof currentdlurl != "undefined")
+  {
+  var fileName = currentdlurl.substring(currentdlurl.lastIndexOf("/") + 1, currentdlurl.lastIndexOf("."));
+  //magdlurl = "http://download.speedbit.com/mag/" + fileName + "_" + uid + "_setup.exe";
+  magdlurl = "https://d1ih5upz66zwom.cloudfront.net/mag/dap10i_" + uid + "_setup.exe";
+  $("[sbga*=dapdownload]").attr("href", magdlurl);
+  }
+  }
+  })
+  .error(function (jqXHR, textStatus, errorThrown)
+  {
+  //alert("aaa");
+  })
+  .complete(function (data) { });
+  }
+  catch (ex) {
+  var errurl = "http://mag.speedbit.com/jsweberror.ashx?msg=" + encodeURIComponent(ex.message);
+  $('body').append('<img width="1px" heihgt="1px" src="'+ errurl + '" />');
+				//qbaka.report(ex);
 		}
 	}
 
@@ -150,86 +150,93 @@ var google_remarketing_only = true;
 
 <body>
 <div id="main">
-	<script src="http://www.speedbit.com/js/sitemenu.js" language="JavaScript" type="text/javascript"></script>
-<!--<script src="http://www.speedbit.com/js/all_div_link.js" language="JavaScript" type="text/javascript"></script>-->
+	<script type="text/javascript">
+//select menu item
+function setMenu(item,subitem)
+{
+	c=item+"tab";
+	if(document.getElementById(c)!= null) document.getElementById(c).className = "current";
+}
+</script>    
+
 <div class="menuwrap">
-	<div class="splogo"><a href="/"><img src="http://www.speedbit.com/img/speedbit-header-logo.png" alt="Download Accelerator Plus - (DAP) Download Manager" title="Download Accelerator Plus - (DAP) Download Manager"></a></div>
-	<div class="slogan">300 million installations and counting...</div>
-		
-	<div class="social">
-		<div class="fb"><script type="text/javascript" language="JavaScript">document.write("<iframe src=\"http:\/\/www.facebook.com\/plugins\/like.php? href="+document.URL+"&layout=button_count&show_faces=false&width=40&action=like&font=verdana&colorscheme=light\" scrolling=\"no\" frameborder=\"0\" style=\"border:none; overflow:hidden; width:50px; height:22px;\" allowTransparency=\"true\"><\/iframe>");</script><iframe src="http://www.facebook.com/plugins/like.php? href=https://web.archive.org/web/20131207204141id_/http://www.speedbit.com/legal/privacy/&amp;layout=button_count&amp;show_faces=false&amp;width=40&amp;action=like&amp;font=verdana&amp;colorscheme=light" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:50px; height:22px;" allowtransparency="true"></iframe></div>
-		<div class="tw">
-			<script type="text/javascript">
-				var twtTitle  = document.title;
-				var twtUrl    = location.href;
-				var maxLength = 140 - (twtUrl.length + 1);
-				if (twtTitle.length > maxLength) {
-				twtTitle = twtTitle.substr(0, (maxLength - 3))+'...';
-				}
-				var twtLink = 'http://twitter.com/home?status='+encodeURIComponent(twtTitle + ' ' + twtUrl);
-				document.write('<a href="'+twtLink+'" target="_blank"'+'><img src="http://www.speedbit.com/img/87/tweetn.png"  border="0" alt="Tweet This!" /'+'><'+'/a>');
-			</script><a href="http://twitter.com/home?status=Speedbit%20Privacy%20Policy%20https%3A%2F%2Fweb.archive.org%2Fweb%2F20131207204141id_%2Fhttp%3A%2F%2Fwww.speedbit.com%2Flegal%2Fprivacy%2F" target="_blank"><img src="http://www.speedbit.com/img/87/tweetn.png" border="0" alt="Tweet This!"></a>
-			</div>	
-		<div class="gg"><g:plusone size="medium" annotation="none"></g:plusone></div>
-		<!-- Place this render call where appropriate -->
-		<script type="text/javascript">
-		  (function() {
-				var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-				po.src = 'https://apis.google.com/js/plusone.js';
-				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-			  })();
-		</script><br>
-	</div>
-	
-	<div id="submenubg" class="submenubg">
-		<ul id="nav">
-			<li id="daptab"><a href="/dap/">DAP</a>
-				<ul>
-					<li><a href="/dap/">DAP Homepage</a></li>
-					<li><a href="/dap/download/">Download DAP</a></li>
-					<li><a href="/dap/whats-new/">What's New in DAP 10</a></li>
-					<li><a href="/dap/features/">DAP Features</a></li>
-					<li><a href="/dap/beta/">DAP Beta</a></li>
-					<li><a href="/dap/languages/">Languages</a></li>
-					<li><a href="/dap/screenshots/free/">DAP Screenshots</a></li>
-					<li><a href="/dap/download/more-download-sites/">Ratings &amp; Reviews</a></li>
-					<li><a href="/dap/developers/">DAP Add-ons Developers</a></li>
-				</ul>
-			</li>
-			<li id="productstab"><a href="/downloads/">Products</a>
-				<ul>
-					<li><a href="/dap/">Download Accelerator Plus (DAP)</a></li>
-					<li><a href="http://www.videoaccelerator.com/">Speedbit Video Accelerator</a></li>
-					<li><a href="/video-downloader-converter/">Speedbit Video Downloader</a></li>
-					<li><a href="/cloud-accelerator/">Speedbit Cloud Accelerator</a></li>
-					<li><a href="http://www.speedoptimizer.com/">SpeedOptimizer</a></li>
-					<li><a href="http://www.fileflyer.com/">FileFlyer</a></li>
-					<li><a href="http://www.fileratings.com/">FileRatings</a></li>
-					<li><a href="http://www.mailinfo.com/web/">Mailinfo</a></li>
-					<li><a href="http://www.fileratings.com/games/">Game Center</a></li>
-				</ul>
-			</li>
-			<!--<li id="oemtab"><a href="">Enterprise</a></li>-->
-			<li id="supporttab"><a href="/faq-download-accelerator/">Support</a>
-				<ul>
-					<li><a href="/faq-download-accelerator/">FAQ</a></li>
-					<li><a href="/dap-help/">Help</a></li>
-					<li><a href="/feedback/">Feedback</a></li>
-					<li><a href="http://wiki.speedbit.com/">Translation Wiki</a></li>
-				</ul>
-			</li>
-			<li id="aboutustab"><a href="/about/">About</a>
-				<ul>
-					<li><a href="/about/">About</a></li>
-					<li><a href="http://blog.speedbit.com/">Blog</a></li>
-					<li><a href="/technology/">Speedbit's Technology</a></li>
-					<li><a href="/reviews/">News &amp; Reviews</a></li>
-					<li><a href="/press/">Press Releases</a> </li>
-				</ul>
-			</li>
-			<li id="storetab"><a href="/store/?ref=SBNav">Store</a></li>
-		</ul>
-	</div>
+<div class="splogo"><a href="/"><img src="http://www.speedbit.com/img/speedbit-header-logo.png" width="172" height="45" alt="Download Accelerator Plus - (DAP) Download Manager" title="Download Accelerator Plus - (DAP) Download Manager"></a></div>
+<div class="slogan">300 million installations and counting...</div>
+
+<div class="social">
+<div class="fb"><script type="text/javascript" language="JavaScript">document.write("<iframe src=\"http:\/\/www.facebook.com\/plugins\/like.php? href="+document.URL+"&layout=button_count&show_faces=false&width=40&action=like&font=verdana&colorscheme=light\" scrolling=\"no\" frameborder=\"0\" style=\"border:none; overflow:hidden; width:50px; height:22px;\" allowTransparency=\"true\"><\/iframe>");</script><iframe src="http://www.facebook.com/plugins/like.php? href=https://web.archive.org/web/20140628021628id_/http://www.speedbit.com/legal/privacy/&amp;layout=button_count&amp;show_faces=false&amp;width=40&amp;action=like&amp;font=verdana&amp;colorscheme=light" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:50px; height:22px;" allowtransparency="true"></iframe></div>
+<div class="tw">
+<script type="text/javascript">
+var twtTitle  = document.title;
+var twtUrl    = location.href;
+var maxLength = 140 - (twtUrl.length + 1);
+if (twtTitle.length > maxLength) {
+twtTitle = twtTitle.substr(0, (maxLength - 3))+'...';
+}
+var twtLink = 'http://twitter.com/home?status='+encodeURIComponent(twtTitle + ' ' + twtUrl);
+document.write('<a href="'+twtLink+'" target="_blank"'+'><img src="http://www.speedbit.com/img/87/tweetn.png" width="55" height="20" border="0" alt="Tweet This!" /'+'><'+'/a>');
+</script><a href="http://twitter.com/home?status=Speedbit%20Privacy%20Policy%20https%3A%2F%2Fweb.archive.org%2Fweb%2F20140628021628id_%2Fhttp%3A%2F%2Fwww.speedbit.com%2Flegal%2Fprivacy%2F" target="_blank"><img src="http://www.speedbit.com/img/87/tweetn.png" width="55" height="20" border="0" alt="Tweet This!"></a>
+</div>	
+<div class="gg"><g:plusone size="medium" annotation="none"></g:plusone></div>
+<!-- Place this render call where appropriate -->
+<script type="text/javascript">
+(function() {
+var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+po.src = 'https://apis.google.com/js/plusone.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+</script><br>
+</div>
+
+<div id="submenubg" class="submenubg">
+<ul id="nav">
+<li id="daptab"><a href="/dap/">DAP</a>
+<ul>
+<li><a href="/dap/">DAP Homepage</a></li>
+<li><a href="/dap/download/">Download DAP</a></li>
+<li><a href="/dap/whats-new/">What's New in DAP 10</a></li>
+<li><a href="/dap/features/">DAP Features</a></li>
+<li><a href="/dap/beta/">DAP Beta</a></li>
+<li><a href="/dap/languages/">Languages</a></li>
+<li><a href="/dap/screenshots/free/">DAP Screenshots</a></li>
+<li><a href="/dap/download/more-download-sites/">Ratings &amp; Reviews</a></li>
+<li><a href="/dap/developers/">DAP Add-ons Developers</a></li>
+</ul>
+</li>
+<li id="productstab"><a href="/downloads/">Products</a>
+<ul>
+<li><a href="/dap/">Download Accelerator Plus (DAP)</a></li>
+<li><a href="http://www.videoaccelerator.com/">Speedbit Video Accelerator</a></li>
+<li><a href="/video-downloader-converter/">Speedbit Video Downloader</a></li>
+<li><a href="/cloud-accelerator/">Speedbit Cloud Accelerator</a></li>
+<li><a href="http://www.speedoptimizer.com/">SpeedOptimizer</a></li>
+<li><a href="http://www.fileflyer.com/">FileFlyer</a></li>
+<li><a href="http://www.fileratings.com/">FileRatings</a></li>
+<li><a href="http://www.mailinfo.com/web/">Mailinfo</a></li>
+<li><a href="http://www.fileratings.com/games/">Game Center</a></li>
+</ul>
+</li>
+<!--<li id="oemtab"><a href="">Enterprise</a></li>-->
+<li id="supporttab"><a href="/faq-download-accelerator/">Support</a>
+<ul>
+<li><a href="/faq-download-accelerator/">FAQ</a></li>
+<li><a href="/dap-help/">Help</a></li>
+<li><a href="/feedback/">Feedback</a></li>
+<li><a href="http://wiki.speedbit.com/">Translation Wiki</a></li>
+</ul>
+</li>
+<li id="aboutustab"><a href="/about/">About</a>
+<ul>
+<li><a href="/about/">About</a></li>
+<li><a href="http://blog.speedbit.com/">Blog</a></li>
+<li><a href="/technology/">Speedbit's Technology</a></li>
+<li><a href="/reviews/">News &amp; Reviews</a></li>
+<li><a href="/press/">Press Releases</a> </li>
+</ul>
+</li>
+<li id="storetab"><a href="/store/?ref=SBNav">Store</a></li>
+</ul>
+</div>
 </div>	
     <div class="breadcrumbs"><a href="/">Home</a> <span class="bread-arrow">››</span> Speedbit Privacy Policy</div>	 
 	<div class="legalwrap">
@@ -350,63 +357,63 @@ var google_remarketing_only = true;
 		</ul>
 	</div>
 	<div class="footer">
-	<div class="col">
-		<h4>Products &amp; Services</h4>
-		<ul>
-			<li><a href="http://www.speedbit.com/">Download Accelerator Plus (DAP)</a></li>
-			<li><a href="http://www.videoaccelerator.com/">Speedbit Video Accelerator</a></li>
-			<li><a href="http://www.speedbit.com/video-downloader-converter/">Speedbit Video Downloader</a></li>
-			<li><a href="http://www.fileflyer.com/">FileFlyer</a></li>
-			<li><a href="http://www.fileratings.com/">FileRatings</a></li>
-			<li><a href="http://www.mailinfo.com/web/">Mailinfo</a></li>
-			<li><a href="http://www.speedoptimizer.com/">SpeedOptimizer</a></li>
-			<li><a href="http://www.speedbit.com/cloud-accelerator/">Speedbit Cloud Accelerator</a></li>
-		</ul>
-	</div>
-		
-	<div class="col">
-		<h4>About Speedbit</h4>
-		<ul>
-			<li><a href="/press/">Press</a></li>
-			<li><a href="/about/">About</a></li>
-			<li><a href="/contact/">Contact</a></li>
-			<li><a href="/partners/">Partners</a></li>
-			<li><a href="/reseller/">Resellers</a></li>
-			<li><a href="/affiliates/">Affiliates</a></li>
-			<li><a href="/sitemap/">Site Map</a></li>
-		</ul>
-	</div>
-	
-	<div class="col">
-		<h4>Community</h4>
-		<ul>
-			<li><a href="http://wiki.speedbit.com/">Translation Wiki</a></li>
-			<li><a href="http://blog.speedbit.com/">Speedbit Blog</a></li>
-			<li class="socialicons">Visit us on:<br>
-	            <a href="http://www.facebook.com/pages/SpeedBit/118045491995" class="fb"><img src="http://www.speedbit.com/img/spacer.gif" alt="Find us on Facebook" class="floatleft mar_t5"></a>
-	            <a href="https://twitter.com/speedbit" class="tw"><img src="http://www.speedbit.com/img/spacer.gif" alt="Follow us on Twitter" class="floatleft mar_t5"></a>
-	            <a href="https://plus.google.com/112794291722556149421?prsrc=3" rel="publisher" class="gg"><img src="http://www.speedbit.com/img/spacer.gif" alt="Follow us on Google Plus" class="floatleft mar_t5"></a>
-			</li>
-		</ul>
-		<div class="clearall"></div><br>
-	</div>
-	
-	<div class="col4">
-		<div class="dwlbtnwrapfooter" onclick="_gaq.push(['_trackEvent', 'Download', 'SPEEDbitHomePage_footer', 'dap10.exe']);" title="Download Accelerator Plus (DAP) - Free Download">
-			<div class="mask roundedCorners">
-				<div class="roundedCorners dwlbtn">
-					<!--<a href="http://www.speedbit.com/dap/download/" sbga="dapdownload">-->
-					<a href="http://www.speedbit.com/dap/download/" class="dapdownload">
-						<span class="font18">DOWNLOAD DAP</span><br>
-						<span class="font12">FREE VERSION</span>
-					</a>
-				</div>
-			</div>
-		</div>
-	</div>
-	<div class="clearall"></div>
+<div class="col">
+<h4>Products &amp; Services</h4>
+<ul>
+<li><a href="http://www.speedbit.com/">Download Accelerator Plus (DAP)</a></li>
+<li><a href="http://www.videoaccelerator.com/">Speedbit Video Accelerator</a></li>
+<li><a href="http://www.speedbit.com/video-downloader-converter/">Speedbit Video Downloader</a></li>
+<li><a href="http://www.fileflyer.com/">FileFlyer</a></li>
+<li><a href="http://www.fileratings.com/">FileRatings</a></li>
+<li><a href="http://www.mailinfo.com/web/">Mailinfo</a></li>
+<li><a href="http://www.speedoptimizer.com/">SpeedOptimizer</a></li>
+<li><a href="http://www.speedbit.com/cloud-accelerator/">Speedbit Cloud Accelerator</a></li>
+</ul>
 </div>
-<div class="footer2"><a href="http://www.speedbit.com/"><img src="http://www.speedbit.com/img/speedbit-logo-footer.png" alt="Speedbit footer logo"></a>	<a href="http://www.speedbit.com/legal/commercial-notice/" class="footer_copy" target="_blank">Commercial Use Note</a> | <a href="#" onclick="NewWindow4=window.open('http://www.speedbit.com/InfringementNotice.asp','NewWindow4','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=no,width=700,height=560,top=80,left=100');return false;" onmouseout="window.status=''; return true;" onmouseover="window.status=''; return true;">Copyright Infringement Notice</a> | <a href="http://www.speedbit.com/legal/privacy/" target="_blank">Speedbit Privacy Policy</a> | <a href="http://www.speedbit.com/Legal/license/" target="_blank">Download Accelerator Plus (DAP) product License Agreement</a> | <a href="http://www.speedbit.com/legal/distribution-agreement/" target="_blank">Speedbit Distribution Agreement</a><br><div>Copyright © 1999-2013 Speedbit Ltd. All specifications are subject to change. All trademarks are the property of their respective owners.</div><div>Speedbit's product Download Accelerator Plus (DAP - free download manager) &amp; services related thereto are covered by United States Patent Nos. 6,339,785, 6,377,974  and 6,606,646. Other patents pending.</div></div><div class="clearall"></div>
+
+<div class="col">
+<h4>About Speedbit</h4>
+<ul>
+<li><a href="/press/">Press</a></li>
+<li><a href="/about/">About</a></li>
+<li><a href="/contact/">Contact</a></li>
+<li><a href="/partners/">Partners</a></li>
+<li><a href="/reseller/">Resellers</a></li>
+<li><a href="/affiliates/">Affiliates</a></li>
+<li><a href="/sitemap/">Site Map</a></li>
+</ul>
+</div>
+
+<div class="col">
+<h4>Community</h4>
+<ul>
+<li><a href="http://wiki.speedbit.com/">Translation Wiki</a></li>
+<li><a href="http://blog.speedbit.com/">Speedbit Blog</a></li>
+<li class="socialicons">Visit us on:<br>
+<a href="http://www.facebook.com/pages/SpeedBit/118045491995" class="fb"><img src="http://www.speedbit.com/img/spacer.gif" alt="Find us on Facebook" class="floatleft mar_t5"></a>
+<a href="https://twitter.com/speedbit" class="tw"><img src="http://www.speedbit.com/img/spacer.gif" alt="Follow us on Twitter" class="floatleft mar_t5"></a>
+<a href="https://plus.google.com/112794291722556149421?prsrc=3" rel="publisher" class="gg"><img src="http://www.speedbit.com/img/spacer.gif" alt="Follow us on Google Plus" class="floatleft mar_t5"></a>
+</li>
+</ul>
+<div class="clearall"></div><br>
+</div>
+
+<div class="col4">
+<div class="dwlbtnwrapfooter" onclick="_gaq.push(['_trackEvent', 'Download', 'SPEEDbitHomePage_footer', 'dap10.exe']);" title="Download Accelerator Plus (DAP) - Free Download">
+<div class="mask roundedCorners">
+<div class="roundedCorners dwlbtn">
+<!--<a href="http://www.speedbit.com/dap/download/" sbga="dapdownload">-->
+<a href="http://www.speedbit.com/dap/download/" class="dapdownload">
+<span class="font18">DOWNLOAD DAP</span><br>
+<span class="font12">Free Download Manager</span>
+</a>
+</div>
+</div>
+</div>
+</div>
+<div class="clearall"></div>
+</div>
+<div class="footer2"><a href="http://www.speedbit.com/"><img src="http://www.speedbit.com/img/speedbit-logo-footer.png" width="129" height="35" alt="Speedbit footer logo"></a>	<a href="http://www.speedbit.com/legal/commercial-notice/" class="footer_copy" target="_blank">Commercial Use Note</a> | <a href="#" onclick="NewWindow4=window.open('http://www.speedbit.com/InfringementNotice.asp','NewWindow4','toolbar=no,location=no,directories=no,status=no,menubar=no,scrollbars=yes,resizable=no,width=700,height=560,top=80,left=100');return false;" onmouseout="window.status=''; return true;" onmouseover="window.status=''; return true;">Copyright Infringement Notice</a> | <a href="http://www.speedbit.com/legal/privacy/" target="_blank">Speedbit Privacy Policy</a> | <a href="http://www.speedbit.com/Legal/license/" target="_blank">Download Accelerator Plus (DAP) product License Agreement</a> | <a href="http://www.speedbit.com/legal/distribution-agreement/" target="_blank">Speedbit Distribution Agreement</a><br><div>Copyright © 1999-2014 Speedbit Ltd. All specifications are subject to change. All trademarks are the property of their respective owners.</div><div>Speedbit's product Download Accelerator Plus (DAP - free download manager) &amp; services related thereto are covered by United States Patent Nos. 6,339,785, 6,377,974  and 6,606,646. Other patents pending.</div></div><div class="clearall"></div>
 </div>
 
 
