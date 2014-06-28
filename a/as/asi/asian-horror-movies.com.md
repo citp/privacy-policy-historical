@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asian-horror-movies.com privacy policy that was archived on 2013-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130808130824id_/http%3A//www.asian-horror-movies.com/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asian-horror-movies.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628045627id_/http%3A//www.asian-horror-movies.com/Privacy-Policy.html) for the most accurate reproduction.*
 
 # None
 
