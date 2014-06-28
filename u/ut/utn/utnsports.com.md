@@ -1,76 +1,61 @@
-> *The following text is extracted and transformed from the utnsports.com privacy policy that was archived on 2013-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130618233616id_/http%3A//utnsports.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utnsports.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628223337id_/http%3A//utnsports.com/privacy_policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY - UTSN - The Universal Takeover Sports Network - UTSN – The Universal Takeover Sports Network
+# PRIVACY POLICY | UTN Sports
 
-What information do we collect?
+Universal Takeover Sports Network  knows that you care about how your personal information is used and shared, and we take your privacy very seriously. Please read the following to learn more about our privacy policy. By visiting our website, you are accepting the practices outlined in this Privacy Policy.
 
-We collect information from you when you register on our site, subscribe to our newsletter, respond to a survey or fill out a form.
+This Privacy Policy covers Universal Takeover Sports Network’s treatment of personal information that Universal Takeover Sports Network gathers when you are on the Universal Takeover Sports Network website and when you use Universal Takeover Sports Network services. This policy does not apply to the practices of third parties that Universal Takeover Sports Network does not own or control, or to individuals that Universal Takeover Sports Network does not employ or manage.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address or phone number. You may, however, visit our site anonymously.
+Information Collected by Universal Takeover Sports Network
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
+We only collect personal information that is relevant to the purpose of our website. This information allows us to provide you with a customized and efficient experience. We do not process this information in a way that is incompatible with this objective. We collect the following types of information from our Universal Takeover Sports Network users:
 
-What do we use your information for?
+1\. Information You Provide to Us: We receive and store any information you enter on our website or provide to us in any other way. You can choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features.
 
-Any of the information we collect from you may be used in one of the following ways:
+2\. Automatic Information:
 
-; To personalize your experience  
-(your information helps us to better respond to your individual needs)
+We receive and store certain types of information whenever you interact with us. Universal Takeover Sports Network and its authorized agents automatically receive and record certain “traffic data” on their server logs from your browser including your IP address, Universal Takeover Sports Network cookie information, and the page you requested. Universal Takeover Sports Network uses this traffic data to help diagnose problems with its servers, analyze trends and administer the website.  
+o Universal Takeover Sports Network may collect and, on any page, display the total counts that page has been viewed.
 
-; To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+Many companies offer programs that help you to visit websites anonymously. While Universal Takeover Sports Network will not be able to provide you with a personalized experience if we cannot recognize you, we want you to be aware that these programs are available.
 
-; To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs)  
-; To administer a contest, promotion, survey or other site feature
+E-mail Communications  
+Universal Takeover Sports Network is very concerned about your privacy and we will never provide your email address to a third party without your explicit permission, as detailed in the “Sharing Your Information” section below. Universal Takeover Sports Network may send out e-mails with Universal Takeover Sports Network-related news, products, offers, surveys or promotions.
 
-; To send periodic emails
+Cookies
 
-The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.
+Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our website are visited and by how many people. Universal Takeover Sports Network cookies do not collect personal information, and we do not combine information collected through cookies with other personal information to tell us who you are or what your screen name or e-mail address is.
 
-How do we protect your information?
+The “help” portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. We recommend that you leave the cookies activated because cookies allow you to use some of Universal Takeover Sports Network’s coolest features.
 
-We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.
+*Universal Takeover Sports Network’s advertising partners may place a cookie on your browser that makes it possible to collect anonymous non-personally identifiable information that ad delivery systems use to present more relevant ads.  If you would prefer to opt-out of this standard practice, please visit our advertising partner Platform-A’s privacy policy and opt-out page.
 
-Do we use cookies?
+Sharing Your Information
 
-Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
+Rest assured that we neither rent nor sell your personal information to anyone and that we will share your personal information only as described below.
 
-Do we disclose any information to outside parties?
+Universal Takeover Sports Network Personnel: Universal Takeover Sports Network personnel and authorized consultants and/or contractors may have access to user information if necessary in the normal course of Universal Takeover Sports Network business.
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+Business Transfers: In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that is transferred. Moreover, if Universal Takeover Sports Network, or substantially all of its assets, were acquired, user information would be one of the assets that is transferred.
 
-Third party links
+Protection of Universal Takeover Sports Network and Others: We may release personal information when we believe in good faith that release is necessary to comply with a law; to enforce or apply our Terms of Use and other policies; or to protect the rights, property, or safety of Universal Takeover Sports Network, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+Syndication: Universal Takeover Sports Network allows for the RSS syndication of all of its public content within the Universal Takeover Sports Network website.
 
-California Online Privacy Protection Act Compliance
+With Your Consent: Except as noted above, we will contact you when your personal information is shared with third parties or used for a purpose incompatible with the purpose(s) for which it was originally collected, and you will be able to opt out to prevent the sharing of this information.
 
-Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
+Children Under 18 Years of Age
 
-Childrens Online Privacy Protection Act Compliance
+You must be 13 years and older to register to use the Universal Takeover Sports Network website. As a result, Universal Takeover Sports Network does not specifically collect information about children. If we learn that Universal Takeover Sports Network has collected information from a child under the age of 13, we will delete that information as quickly as possible. We recommend that minors between the ages of 13 and 18 ask and receive their parents’ permission before using Universal Takeover Sports Network or sending information about themselves or anyone else over the Internet.
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+Changes to this Privacy Policy
 
-Terms and Conditions
+Universal Takeover Sports Network may amend this Privacy Policy from time to time, at its sole discretion. Use of information we collect now is subject to thePrivacy Policy in effect at the time such information is used. If we make changes to the Privacy Policy, we will notify you by posting an announcement on the Universal Takeover Sports Network website so you are always aware of what information we collect, how we use it, and under what circumstances if any, it is disclosed.
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at http://www.UniversalTakeover.com
+Conditions of Use
 
-Your Consent
+If you decide to visit Universal Takeover Sports Network website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of California state law.
 
-By using our site, you consent to our web site privacy policy.
+Effective Date of this Privacy Policy
 
-Changes to our Privacy Policy
-
-If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
-
-This policy was last modified on 10/14/2012
-
-Contacting Us
-
-If there are any questions regarding this privacy policy you may contact us using the information below.
-
-UTNSports.com
-
-legal@universaltakeover.com  
-678-534-6886
+This Privacy Policy is effective as of September 26, 2013 and last updated September 26, 2013. 
