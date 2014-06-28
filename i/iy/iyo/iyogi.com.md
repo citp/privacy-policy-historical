@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the iyogi.com privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818185956id_/http%3A//www.iyogi.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iyogi.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628171647id_/http%3A//www.iyogi.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy: iYogi
 
-This privacy policy explains how iYogi Inc (“iYogi”) collects, uses and discloses personal and other information iYogi receives in connection with the user support services we provide to user (the “Services”) in accordance with the Terms of Use (http://www.iyogi.net/terms.html). When you submit information through our website, email, chat session, provide it to our technicians or, use the Services, you(the “user”) agree to our use of this information consistent with this privacy policy.
+This privacy policy explains how iYogi Inc ("iYogi") collects, uses and discloses personal and other information iYogi receives in connection with the user support services we provide to user (the "Services") in accordance with the Terms of Use (<http://www.iyogi.net/terms.html>). When you submit information through our website, email, chat session, provide it to our technicians or, use the Services, you(the "user") agree to our use of this information consistent with this privacy policy.
 
 ###### HOW IYOGI COLLECTS INFORMATION
 
@@ -16,7 +16,7 @@ Information You Provide
 
 ###### PERSONAL INFORMATION:
 
-We will ask you when we need information that personally identifies you (“personal information”) or allows us to contact you. In order to use the Services, the user must first typically register or provide certain identifying information. For online registration, we ask you to provide contact details (such as First and Last name, E-mail address, Postal address, Personal identifier etc.). iYogi uses this information to contact you regarding the product and/or services you have requested. This includes re-registration/renewal notifications, special offers, and surveys on improving our Services.
+We will ask you when we need information that personally identifies you ("personal information") or allows us to contact you. In order to use the Services, the user must first typically register or provide certain identifying information. For online registration, we ask you to provide contact details (such as First and Last name, E-mail address, Postal address, Personal identifier etc.). iYogi uses this information to contact you regarding the product and/or services you have requested. This includes re-registration/renewal notifications, special offers, and surveys on improving our Services.
 
 ###### PAYMENT INFORMATION:
 
@@ -34,8 +34,10 @@ We may also ask for information related to your (user) computer to provide the S
   * make and model of your computer and/or any computer hardware,
   * software installed or peripherals attached to it,
   * condition of the computer,
-  * system and registry data about software installations and hardware configurations, and  
+  * system and registry data about software installations and hardware configurations, and 
+
 error tracking files.
+
 
 
 
@@ -61,7 +63,7 @@ iYogi reserves the right to monitor and record on-line and off-line sessions bet
 
 ###### COOKIES:
 
-We may use cookies and similar technologies to provide you with more personal service on our website and as you interact with iYogi. Cookies are small pieces of information stored by your browser on your computer’s hard drive or on your device. Cookies help us keep track of the preferences you specify. Most web browsers automatically accept cookies, but you can usually change your browser to prevent that if you prefer not to store the information for future use. Each browser is different, so please check the help menu of your browser.
+We may use cookies and similar technologies to provide you with more personal service on our website and as you interact with iYogi. Cookies are small pieces of information stored by your browser on your computer's hard drive or on your device. Cookies help us keep track of the preferences you specify. Most web browsers automatically accept cookies, but you can usually change your browser to prevent that if you prefer not to store the information for future use. Each browser is different, so please check the help menu of your browser.
 
 ###### LOG FILES:
 
@@ -107,11 +109,11 @@ iYogi may offer contests, sweepstakes or other promotions. These promotions will
 
 ###### CHILDREN
 
-Our Services are not intended for use by anyone under the age of 13. Consistent with the Children’s Online Privacy Protection Act, we do not collect or maintain information at our website from or sell products to those we actually know are under the age of 13.
+Our Services are not intended for use by anyone under the age of 13. Consistent with the Children's Online Privacy Protection Act, we do not collect or maintain information at our website from or sell products to those we actually know are under the age of 13.
 
 ###### CORRECTION/UPDATING PERSONAL INFORMATION
 
-If a user’s personal information changes (such as user zip code), or if a user no longer desires to use the Service. User may correct, update or remove user personal information provided to us through our website.
+If a user's personal information changes (such as user zip code), or if a user no longer desires to use the Service. User may correct, update or remove user personal information provided to us through our website.
 
 ###### NOTIFICATION OF CHANGES
 
@@ -120,17 +122,3 @@ We reserve the right to change our privacy policy. Please check our website peri
 ###### QUESTIONS
 
 If you have any questions about our privacy policy you may email questions or inquiries to [feedback@iyogi.net](mailto://feedback@iyogi.net) or [cpo@iyogi.com](mailto://cpo@iyogi.com)
-
-Annual Unlimited Subscription Plan
-
-Available 24/7, anytime, anywhere
-
-Comprehensive virus removal support for your PC, connected devices, peripherals and over 500 software applications including:
-
-  * Diagnostic & repair for your technologies.
-  * Troubleshooting software errors.
-  * Updating drivers and security to protect against online threats.
-  * Connecting to the Internet, devices and peripherals.
-  * Optimizing your PC's speed and performance.
-
-
