@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the luggageonline.com privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125032642id_/http%3A//www.luggageonline.com/customer-service/privacy-security/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luggageonline.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628191823id_/http%3A//www.luggageonline.com/customer-service/privacy-security/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Luggage Online is committed to maintaining your confidence and trust. We respect your privacy and are committed to protecting the personal information you provide online. We've provided this notice to explain how we collect and use and your personal information. If you have any questions regarding this policy, you may direct them to [tjacobsen@luggageonline.com](mailto:tjacobsen@luggageonline.com).
+Luggage Online is committed to maintaining your confidence and trust. We respect your privacy and are committed to protecting the personal information you provide online. We've provided this notice to explain how we collect and use and your personal information. If you have any questions regarding this policy, you may direct them to [sales@luggageonline.com](mailto:sales@luggageonline.com).
 
 **What information do we collect? How do we use it?**  
 We use your personal information solely to help us service your account, to improve our services to you, to provide you with the products you have requested, and to inform you about additional products or services that may be of interest to you. We use the information you provide about yourself when placing an order only to complete that order. We use the information you provide about someone else when placing an order only to ship the product and to confirm delivery. We use return e-mail addresses to answer the e-mail we receive.
