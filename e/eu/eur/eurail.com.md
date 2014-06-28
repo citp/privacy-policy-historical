@@ -1,21 +1,16 @@
-> *The following text is extracted and transformed from the eurail.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225002951id_/http%3A//www.eurail.com/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eurail.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629013751id_/http%3A//www.eurail.com/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
 
-# Privacy and Cookie Policy
+# Privacy and Cookie Policy | Eurail.com
 
 At Eurail.com, we are committed to protecting the online privacy of visitors to our website. This policy applies only to the website and online services provided by Eurail.com. The purpose of this policy is to inform you about the types of information we gather about you when you visit our website, how we may use that information, and how we disclose it to third parties.
 
 Eurail.com adheres to and is in compliance with the Safe Harbor Privacy Principles developed in coordination with the European Union’s Directive on Data Protection and the U.S. Department of Commerce.
 
-**Topics on this page**
-
-  * Information that we collect ↓
-  * How we use the information we collect ↓
-  * Disclosure of information to third parties ↓
-  * Security of the information we collect ↓
-  * Accuracy of the information we collect ↓
-
-  
-
+Information that we collect  
+How we use the information we collect  
+Disclosure of information to third parties  
+Security of the information we collect  
+Accuracy of the information we collect
 
 ### Information that we collect
 
@@ -67,9 +62,7 @@ You have control over the cookies stored on your computer. Most browsers can be 
 
 You can find more information about cookies by visiting: [www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
-This site uses ClickTale web analytics service. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as text you type in this website. This site does not use ClickTale to collect any personally identifiable information entered in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. For more information see [Privacy Policy for Information Collected by the ClickTale Web Analytics Service](http://www.clicktale.com/privacy_service.aspx). We are using the information collected by ClickTale service to optimize the user experience of our site. You can choose to disable the service at <http://www.clicktale.net/disable.html>.
-
-Back to top of page ↑
+This site uses ClickTale web analytics service. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as text you type in this website. This site does not use ClickTale to collect any personally identifiable information entered in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. For more information see [Privacy Policy for Information Collected by the ClickTale Web Analytics Service](http://www.clicktale.com/privacy-service). We are using the information collected by ClickTale service to optimize the user experience of our site. You can choose to disable the service at <http://www.clicktale.net/disable.html>.
 
 ### How we use the information we collect
 
@@ -84,8 +77,6 @@ If you make a purchase through our online ordering service, we may use the infor
 
 When you provide us with your personal information to make a purchase through our online ordering, we only use this information to process your online order and credit card number. We also use your address and billing information to bill you and provide associated support.
 
-Back to top of page ↑
-
 ### Disclosure of information to third parties
 
 Except as specifically set forth in this policy, we do not share your personal information with any non-affiliated third party without your permission. We may disclose aggregate information, such as demographic information, and our statistical analyses to third parties. This aggregate information does not include your personal information.  
@@ -97,26 +88,20 @@ We sometimes engage unaffiliated businesses to assist us in providing you certai
 **Other disclosures**  
 We may disclose personal information when we are required or requested to do so by law, court order or other government or law enforcement authority or regulatory agency; to enforce or apply our rights and agreements; or when we believe in good faith that disclosing this information is necessary or advisable, including, for example, to protect the rights, property, or safety of Eurail.com, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
 
-Back to top of page ↑
-
 ### Security of the information we collect
 
 The security of your personal information is important to us. We maintain physical, electronic, and procedural safeguards to secure your personal information. However, "perfect security" does not exist on the Internet, and there is always some risk in transmitting information electronically. This website takes every precaution to protect our users’ information. When users submit sensitive information via the website, your information is protected both online and off-line.
 
 When our registration/order form asks users to enter sensitive information (such as credit card number), that information is encrypted and is protected with the best encryption software in the industry, SSL (Secure Sockets Layer). The site employs SSL via a digital certificate issued by Thwate.
 
-If you have any questions about the security at our website, you can send an email to our [customer service](http://www.eurail.com/help/contact-us).
-
-Back to top of page ↑
+If you have any questions about the security at our website, you can send an email to our [customer service](https://web.archive.org/help/contact-us).
 
 ### Accuracy of the information we collect
 
-Any questions you may have regarding our privacy policy, the accuracy of your personal information or the use of your personal information, or any requests that we correct, update, or remove your information in our databases, should be directed via email to [customer service](http://www.eurail.com/help/contact-us).
+Any questions you may have regarding our privacy policy, the accuracy of your personal information or the use of your personal information, or any requests that we correct, update, or remove your information in our databases, should be directed via email to [customer service](https://web.archive.org/help/contact-us).
 
 After receiving a request to change your information, we will make reasonable efforts to ensure that all of your personal information stored in databases we actively use to operate our website will be updated, corrected, changed or deleted, as appropriate, as soon as reasonably practicable. However, we reserve the right to retain in our archival files any information we remove from or change in our active website databases. We may retain such information to resolve disputes, troubleshoot problems and enforce our terms of use.
 
 This policy is effective as of January 31, 2004. We reserve the right to change this policy at any time, and will post any changes to this policy as soon as they go into effect. Please refer back to this policy on a regular basis.
 
-If you have questions regarding our privacy and cookie policy [contact our customer service team](mailto:customerservice@eurail.com).
-
-Back to top of page ↑
+If you have questions regarding our privacy and cookie policy contact our [customer service team](mailto:customerservice@eurail.com).
