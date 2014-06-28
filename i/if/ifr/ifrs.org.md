@@ -1,17 +1,14 @@
-> *The following text is extracted and transformed from the ifrs.org privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219040946id_/http%3A//www.ifrs.org/Pages/PrivacyStatement.aspx%236) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ifrs.org privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628155131id_/http%3A//www.ifrs.org/Pages/PrivacyStatement.aspx%236) for the most accurate reproduction.*
 
 # IFRS - Privacy Statement and Cookies
 
 **The International Financial Reporting Standards Foundation (the Foundation) a not-for-profit corporation under the General Corporation Law of the State of Delaware, which is operating as a registered overseas company in England and Wales (Company No: FC023235), with its principal place of business at 30 Cannon Street, London, EC4M 6XH, United Kingdom.**
 
-  
 The Foundation incorporates the International Accounting Standards Board for the purposes of data protection and the processing of personal data.
 
-  
 This statement (the **Privacy Statement** ) explains how we use the personal information we collect and provides information about the cookies that we use on this website. The Foundation has developed this Privacy Statement as we understand that the privacy and security of your personal information is an important issue to you and we are committed to protecting your privacy as a visitor to this website (the Site).
 
- **  
-If you do not agree with this Privacy Statement and the**[ **Terms and Conditions of Use**](https://web.archive.org/Pages/Terms-and-Conditions.aspx) **please do not use this website.**
+If you do not agree with this Privacy Statement and the [**Terms and Conditions of Use**](https://web.archive.org/Pages/Terms-and-Conditions.aspx) please do not use this website.
 
 * **What personal information do we collect and how do we use it?**
 
@@ -36,11 +33,10 @@ Depending on your relationship with us, the Foundation and entities associated w
   * administration of an online application for employment with the Foundation; and 
   * providing information to credit reference agencies.
 
-
-
+  
 The Foundation will process personal data as set out in this Privacy Statement and its notification to the Information Commissioner. 
 
-Prior to processing your personal data the Foundation ensures that it is entitled to do so under a specific condition of the DPA or that you have consented to such processing. You may withdraw your consent to future processing of your personal data for some of the above purposes by ****[**clicking here**](mailto:lclarke@ifrs.org). 
+Prior to processing your personal data the Foundation ensures that it is entitled to do so under a specific condition of the DPA or that you have consented to such processing. You may withdraw your consent to future processing of your personal data for some of the above purposes by ****[**clicking here**](mailto:mcorti@ifrs.org). 
 
 As noted above, the Foundation may send you marketing information and by providing your contact details through the Site, you are providing your consent to receiving this. You may express your preferences in accordance with your interests in relation to marketing and other emails sent to you through the “[ **Manage Email Alerts**](http://eifrs.ifrs.org/eifrs/ManageEmailAlerts)” section of the Site at any time. 
 
@@ -78,7 +74,7 @@ We also use Google Analytics to monitor the use of the Site. This does mean that
 
 * **European Economic Area (EEA)**
 
-Please note that information displayed on this Site or sent to the Foundation over the Internet may be transferred outside of the EEA, where data protection laws are not as strong as within the EEA. By providing your contact details through the Site, you are consenting to such transfers.  If you have any concerns in relation to such transfers, please contact us via this [**link**](mailto:lclarke@ifrs.org). 
+Please note that information displayed on this Site or sent to the Foundation over the Internet may be transferred outside of the EEA, where data protection laws are not as strong as within the EEA. By providing your contact details through the Site, you are consenting to such transfers.  If you have any concerns in relation to such transfers, please contact us via this [**link**](mailto:mcorti@ifrs.org). 
 
 * **Continued Processing**
 
@@ -118,7 +114,7 @@ Your telephone calls and e-mails to us may be recorded and monitored for quality
 
 * **Contact us**
 
-If you have any queries relating to this Privacy Statement or you wish to notify us about any of the matters set out above, please feel free to contact us via this [**link**](mailto:lclarke@ifrs.org) or  by writing to: 
+If you have any queries relating to this Privacy Statement or you wish to notify us about any of the matters set out above, please feel free to contact us via this [**link**](mailto:mcorti@ifrs.org) or  by writing to: 
 
 The Data Protection Officer, IFRS Foundation, 30 Cannon Street, London, EC4M 6XH, United Kingdom. 
 
@@ -137,8 +133,7 @@ In the DPA “processing” means obtaining, recording, or holding the informati
   * disclosure of the information or data by transmission, dissemination or otherwise making available; or 
   * alignment, combination, blocking, erasure or destruction of the information or data.
 
-
-
+  
 **Personal Data**
 
 Personal data is: 
@@ -146,8 +141,7 @@ Personal data is:
   * any data from which the identity of a living individual can be determined, either by itself or with other data processed by data controller; 
   * any information such as name and address, email address, telephone number and general contact details, personal data includes images on film (e.g. CCTV images), photographs and telephone voice recordings.
 
-
-
+  
 **Sensitive Personal Data**
 
 Sensitive Personal Data means personal data consisting of information as to: 
