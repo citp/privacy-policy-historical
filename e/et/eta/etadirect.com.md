@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the etadirect.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208000106id_/http%3A//toatech.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etadirect.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628075121id_/http%3A//toatech.com/privacy) for the most accurate reproduction.*
 
-# Privacy - TOA Technologies
+# Privacy | TOA Technologies
 
 TOA Technologies is committed to maintaining the highest ethical standards during the receipt and processing of personal information it receives through its customers and their clients, vendors, business partners, employees and others.
 
-TOA Technologies will abide by the Safe Harbor Principles developed by the United States Department of Commerce and the European Commission and the Frequently Asked Questions (FAQs) issued by the U.S. Department of Commerce on July 21, 2000.
+TOA Technologies complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.
 
-TOA’s Safe Harbor Certification can be found at: http://web.ita.doc.gov/safeharbor/shlist.nsf/webPages/safe+harbor+list
+TOA Technologies has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.
 
-For more information about the Safe Harbor Principles, please visit the U.S. Department of Commerce website at http://www.export.gov/safeharbor/doc_safeharbor_index.asp
+To learn more about the Safe Harbor program, and to view TOA Technologies’ certification, please visit http://www.export.gov/safeharbor/
 
 TOA Technologies adheres to the Safe Harbor principles of:
 
@@ -36,7 +36,7 @@ The disclosure is reasonably related to the sale or other disposition of all or 
 
 The information in question is publicly available;
 
-The disclosure is reasonably necessary for the establishment of legal claims; or The disclosure is to another TOA subsidiary, affiliate, or to persons or entities providing services on TOA’s or the individual’s behalf (each a "transferee"), consistent with the purpose for which the information was obtained, if the transferee, with respect to the information in question: is subject to law providing an adequate level of privacy protection; has agreed in writing to provide an adequate level of privacy protection; subscribes to the Safe Harbor Principles.
+The disclosure is reasonably necessary for the establishment of legal claims; or The disclosure is to another TOA subsidiary, affiliate, or to persons or entities providing services on TOA’s or the individual’s behalf (each a “transferee”), consistent with the purpose for which the information was obtained, if the transferee, with respect to the information in question: is subject to law providing an adequate level of privacy protection; has agreed in writing to provide an adequate level of privacy protection; subscribes to the Safe Harbor Principles.
 
 If TOA does disclose information to a third party, it will comply with the notice and choice principles as described above for all data which is disclosed or transferred to a third party.
 
