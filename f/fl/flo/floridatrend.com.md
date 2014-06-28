@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the floridatrend.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214022333id_/http%3A//www.floridatrend.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the floridatrend.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628123341id_/http%3A//www.floridatrend.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,7 +10,7 @@ Our postal address is **490 1st Ave. S., 8th floor, St. Petersburg, FL 33701**.
 
 We can be reached by email at [webmaster@floridatrend.com](mailto:webmaster@floridatrend.com) or **(727) 821-5800**.
 
-Your use of our websites indicates to us that you have read and accepted this **Privacy Policy** and our [Terms and Conditions](https://web.archive.org/web/20131214022333id_/http%3A//privacy-policy).
+Your use of our websites indicates to us that you have read and accepted this **Privacy Policy** and our [Terms and Conditions](https://web.archive.org/web/20140628123341id_/http%3A//privacy-policy).
 
 Our web sites use "cookies," an element of data sent and stored on your computer. We use cookies the following ways: In site administration, to complete a user's requested activity, to target specific information, to perform analysis and for research and development.
 
@@ -26,43 +26,3 @@ Contact [webmaster@floridatrend.com](mailto:webmaster@floridatrend.com) (727-821
 
 **Choices You Have**  
 If you wish to discontinue receiving communications from us at any time, please let us know by e-mailing, calling or writing us (see addresses above).
-
-Florida Business News
-
-  * [Florida exports up 5.6% ](http://www.floridatrend.com/article/16599/fridays-afternoon-update#link1)
-
-The latest international trade numbers show that $4.79 billion worth of goods left Florida for international markets in October, the most recent available.
-
-  * [Jacksonville leads nation in foreclosures](http://www.floridatrend.com/article/16599/fridays-afternoon-update#link2)
-
-Jacksonville had the highest foreclosure rate in the U.S. in November after ranking No. 4 the month prior.
-
-[Gov. Scott makes Christmas Eve a paid holiday again](http://www.floridatrend.com/article/16599/fridays-afternoon-update#link2)
-
-For the third year in a row Gov. Rick Scott has directed state offices to be closed an extra day.
-
-_FRIDAY PREVIEW:_  
-Coming next week to [FloridaTrend.com:](http://www.floridatrend.com/)
-
-    * A Fixture in Apopka \- A profile of Florida's longest-serving mayor.
-    * Building a Tech Community  \- A public-private venture with Miami-Dade County and the Miami Downtown Development Authority, Venture Hive houses an entrepreneurship education program.
-    * Ray Ferrero Jr - Florida Icon  \- A conversation with the Chancellor of Nova Southeaster University.
-    * Wet Suits  \- DiveBar is a 2-year-old south Florida-based group that calls itself the “first underwater Bar association for legal professionals.”
-
-
-
-Florida Trend Video Pick
-
-[](https://web.archive.org/video-picks)
-
-[](https://web.archive.org/video-picks)
-
-Stephen Mason, President and CEO of BayCare Health System, talks about how the Affordable Care Act has changed the approach hospitals take, from doing procedures to more of a wellness approach. Mason also addresses why more Medicaid money could help the hospital system keep costs down.
-
-**[Earlier Videos](https://web.archive.org/video-picks/)** | **[Viewpoints@FloridaTrend](https://web.archive.org/viewpoints/)**
-
-Ballot Box
-
-Holiday shopping poll: Will you spend more (or less) on gifts this year?
-
-[See Results](https://web.archive.org/ballot-box?show=results)
