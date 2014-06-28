@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the goibibo.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221062319id_/http%3A//www.goibibo.com/common/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goibibo.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628232740id_/http%3A//www.goibibo.com/common/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Online Travel Services - Goibibo
+# Privacy Policy - Goibibo
 
 Privacy Policy
 
