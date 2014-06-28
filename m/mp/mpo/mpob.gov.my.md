@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mpob.gov.my privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805161415id_/http%3A//mpob.gov.my/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mpob.gov.my privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628093409id_/http%3A//mpob.gov.my/en/privacy-policy) for the most accurate reproduction.*
 
 # The Official Portal Of Malaysian Palm Oil Board
 
@@ -27,3 +27,7 @@ If this privacy policy changes in any way, it will be updated on this page. Regu
 **Visitor :  
   
 since May 1,2000**
+
+Best Viewed In **1024 x 768** pixel resolutions and above, and compatible with the following browsers:  
+| You may need the followings to view certain areas of the portal:  
+---|---
