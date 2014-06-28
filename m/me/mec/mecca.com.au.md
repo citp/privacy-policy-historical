@@ -1,174 +1,103 @@
-> *The following text is extracted and transformed from the mecca.com.au privacy policy that was archived on 2011-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110216152452id_/http%3A//www.mecca.com.au/common/advertise/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mecca.com.au privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628085000id_/http%3A//www.meccacosmetica.com.au/Privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy « Mecca Cosmetica
 
-### DARK BLUE SEA - PRIVACY POLICY
+We are committed to supporting the 'National Privacy Principles for the Fair Handling of Personal Information' and complying with the Privacy Act 1988 (Cth), which has set clear standards and guidelines for the collection, access, storage and use of Personal Information which we may obtain during the course of our business with you.
 
-This Privacy Policy explains why and how we collect certain personal information from our customers and the visitors to our websites, and what we do with that information.
+Our Privacy Policy sets out matters of which you should be aware regarding the information we may collect about you, our policies on the management of personal information and generally, what sort of information we collect and how we hold, use and disclose that information. When you provide us with personal information (whether via one of our websites, in store, through any of our promotions, or otherwise), we respect your privacy. It is important for you to understand what information we collect about you and what we do with your information. 
 
-The Dark Blue Sea group of companies is part of the Photon Group and offers an exciting range of online products and services including domain name registration, website hosting, domain monetization, domain name resale, expiring and deleted domain name services, reseller services and search engine services.
+## 1\. The personally identifiable information we collect from you.
 
-The Dark Blue Sea group comprises a number of companies that includes:
+We do not collect personally identifiable information about you, except when you provide it to us. In order to provide you with our products or services, we may ask for personal details such as your name, address, telephone number or e-mail address. Australian Privacy laws allow us to collect your personal information directly from you if it is reasonable and practical to do so. If you would prefer that we not collect any personally identifiable information from you, please do not provide us with any such information. When you submit your personally identifiable information to us, you are giving your consent to the collection, use and disclosure of your personally identifiable information as set forth in this Privacy Policy. Where we have collected personal information about you from another source, we will take reasonable steps to ensure that you are made aware of the following:
 
-  * Dark Blue Sea Pty Ltd ABN 47 091 509 796
-  * Fabulous.com Pty Ltd ABN 64 094 218 443 (operates the business Fabulous Domains)
-  * Fabulous Parking Pty Ltd ABN 16 094 225 091
-  * Fabulous.com.au Pty Ltd ABN 34 139 626 994 (trading as Drop.com.au)
-  * Roar.com Pty Ltd ABN 99 094 225 064
-  * Pageseeker.com Pty Ltd ABN 45 090 513 849
-  * Darkblue.com Pty Ltd ABN 14 094 225 082
-  * Yexa.com Pty Ltd ABN 12 094 225 073
-  * Domain8 Pty Ltd ABN 79 135 424 878
-  * Yexa.com.au Pty Ltd ABN 84 137 606 172
-  * Whois Privacy Services Pty Ltd ABN 65 133 058 741
+  * The fact that we have collected personal information about you and how you can contact us regarding the collection of such personal information;
+  * How you can gain access to the personally identifiable information collected;
+  * Why we collected the personally identifiable information;
+  * Who we would usually disclose such personally identifiable information to;
+  * Any law requiring us to collect personally identifiable information.
 
 
 
-#### ABOUT THIS PRIVACY POLICY
+You have no obligation to provide any information requested by us however, we may not be able to provide you with the products or services you requireshould the provision of the product or service depend on the collection of that information, including if the collection of that information is required by law.
 
-This Privacy Policy has been drafted to comply with the National Privacy Principles set out in the _Australian Privacy Act 1988 (Cth)_. More information about the Privacy Act is available on the Australian Privacy Commissioner's website at [http://www.privacy.gov.au](http://www.privacy.gov.au/).
+## 2\. How your personally identifiable information is used
 
-#### WHY WE NEED TO COLLECT PERSONAL INFORMATION
+The personally identifiable information that we collect is generally used to provide you with our products or services, including the benefits of any rewards programs (such as Mecca Beauty Loop). We do not use or share personally identifiable information for any purpose other than for the purpose for which it was disclosed. We do not provide or sell personally identifiable information to other organizations without your consent. However we may disclose personally identifiable information to our service providers (as set out in section 5 below) in connection with providing our product or service to you.
 
-Personal information is any information that identifies you or by which your identity can be reasonably determined.
+By providing your personally identifiable information to us, you acknowledge that and consent to the following:
 
-The collection, use and disclosure of personal information is essential to enable us to conduct our business of delivering online products and services to our customers and website visitors. For example most of our products and services require some form of registration or subscription, while others require a payment to be made. Contact details of our customers and website visitors may also be required from time to time to notify them of competition prizes they may have won. 
+  1. We may collect and use your personally identifiable information for the purpose disclosed to you.
+  2. You are authorised to provide such information to us.
+  3. That any information provided may be disclosed on a confidential basis to our third party contractors, agents or suppliers. 
 
-Some of the personal information we collect, including that obtained from our online enquiry/feedback facilities, is used to help us develop and improve the quality of our products and services, which in turn, provides our customers and website visitors with a more satisfying and enjoyable online experience.
 
-Without collecting and making use of your personal information, we may not be able to provide our online products and services to you.
 
-#### WHAT WE DO WITH YOUR PERSONAL INFORMATION
+If you provide your personal information to us, whether via one of our web sites, in store, through any of our promotions, or otherwise, the information you provide may be used by us to include you in a customer rewards program, create and deliver to you direct mail, emails, sms, surveys or attend customer research or discussion groups or other communications containing product, services and event information, tips or promotions. If you prefer not to be a part of a customer rewards program or receive such communications including those of any rewards programs- see Section 4 below. 
 
-We use personal information that we collect to conduct our business of delivering online products and services and to continually improve our relationship with you.
+We may also contact you to respond to product questions or concerns that you may express. These types of communications are necessary to serve you, respond to your concerns and to provide the high level of customer service that we offer our customers.
 
-In order to do this, we share your personal information with our related companies.
+## 3\. Use of personally identifiable information by group companies 
 
-Personal information may be used to enable us to send you online promotional material on our range of products and services. You may at any time notify us that you do not wish to receive this material via the unsubscribe facility accompanying the material. Once you have notified us, we will not send you any further promotional material. 
+When you submit personally identifiable information to us, the information you provide may be shared with our companies and divisions within our group or any related body corporate (the "Group Companies"). Group Companies may use this information in accordance with this Privacy Policy, such as to market its products, services or promotions to you.
 
-#### HOW WE COLLECT INFORMATION
+## 4\. Keeping information accurate and up to date and opt-out
 
-**Personal Information provided to us**
+We take all reasonable steps to ensure that all personally identifiable information we hold is accurate however it is your responsibility to advise us of any changes to your details. You may contact us at any time and ask for its correction if you feel that the personally identifiable information we have about you is inaccurate or incomplete. Alternatively, you can also visit our web site and log on to manage your personally identifiable information at any time. 
 
-We collect and store personal information that is voluntarily provided by our customers as part of doing business with us. Such information may include a customer's full name, date of birth, addresses (including home, postal and email address) and telephone numbers. We also collect and securely store customer's payment details such as their credit card details (where necessary).
+You may opt-out of receiving email communications from us by clicking the "unsubscribe" link at the bottom of any such email you receive from us and following the instructions provided therein. This may not remove you from any customer rewards program or remove you from receiving direct mail, or other communications. To opt out of all communications, including communications regarding our rewards program, you may opt out by notifying us in store or contacting us at enquiries@meccacosmetica.com.au or calling 1800 007 844 (AUST) or +61 3 9420 7373 (NZ) This will also remove you from receiving any email communications and you will no longer be involved in any customer rewards programs (such as Mecca Beauty Loop). We will not delete your client file and this can still be accessed for making purchases in store or our websites. 
 
-We collect this personal information and make use of these details to provide you with our products and services and to better manage our relationship with you.
+## 5\. Keeping information secure
 
-**Website activity, cookies and related technology**
+We take measures to ensure your personally identifiable information is protected from unauthorised access, loss, misuse, disclosure or alteration, both online and offline. We store personally identifiable information in different ways, including in paper and electronic form. We use security procedures to protect the personally identifiable information we hold. Access to and use of personally identifiable information within our organization is appropriately limited by us to prevent misuse or unlawful disclosure of that personally identifiable information by others.
 
-We provide products and services via a number of different websites. When you view one of our websites, our web server records anonymous information such as the time and date the website is viewed and the web pages/URL's requested. This information assists us to improve the structure of our websites and monitor their performance.  
-We also allow third parties with whom we have entered contractual arrangements ("Advertising Providers") to serve advertising on our websites.  
-We make use of cookies and iframes on our websites and permit Advertising Providers to place and read cookies on end users' browsers. These Advertising Providers may use web beacons or similar technologies to collect information in the course of advertisements being served on our websites.
+## 6\. Disclosure of personally identifiable information 
 
-Cookies are pieces of information that a website transfers to your hard drive for record-keeping purposes. The browser stores the information, and sends the information back to the server each time you request a webpage from the server. The use of cookies is an industry standard, utilized by the majority of website operators.
+### a. Fraud protection and compliance with law 
 
-Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or indicate when a cookie is being sent. However, some parts of our websites, or the products and services provided through our websites, may not function properly or may be considerably slower if you do not enable cookies on your Internet browser.  
-The National Advertising Initiative ("NAI") offers an opt-out tool (located at <http://www.networkadvertising.org/managin/opt_out.asp>) for the purpose of allowing consumers to "opt-out" of the behavioural advertising delivered by its member companies. Some of the third parties with whom we have entered into contractual arrangements are members of NAI.  
-We may have iframes embedded on our websites and may enter into contractual arrangements with third parties so that they may analyse your online behaviour. These iframes allow for the collection of non-personally identifiable information about your website visits.
+We may disclose any information, including personally identifiable information, we deem necessary, in our sole discretion, to comply with any applicable law, regulation, legal process or governmental request. We may also exchange information, including personally identifiable information, with other companies and organizations for credit fraud protection and risk reduction. 
 
-**IP Addresses**
+### b. Service providers 
 
-When you access our websites, our website servers register the type of web browsers that you are using and your IP address.
+We may retain other companies and individuals to perform functions consistent with our Privacy Policy on our behalf. Examples include customer support specialists, webhosting companies, fulfilment companies (eg. companies that coordinate mailings), research and data analysis firms and email service providers. Such third parties may be provided with access to personally identifiable information needed to perform their functions, but may not use such information for any other purpose. 
 
-We collect IP addresses for the purposes of system administration, to report aggregate traffic information to our customers, fraud detection and to generally audit the use of our websites. When you request pages from our websites, our servers may log your IP address.
+### c. Special events 
 
-We do not normally link IP addresses to any personal information, which means that your session will be logged, but you otherwise remain anonymous.
+If you elect to participate in any promotions, sweepstakes, surveys, questionnaires or other events, the rules or terms and conditions for those events may indicate that your personally identifiable information will be shared with third parties. By choosing to participate and submitting your personally identifiable information with respect to such events, you consent to disclosure of your personally identifiable information to such third parties. We are not responsible for and expressly disclaim all liability for any use of the information provided to such third parties. 
 
-We can and will use your IP address to identify you when it is necessary to enforce compliance with our terms of service or to protect the integrity of our services and websites, as well as to protect our interests and those of our other customers.
+## 7\. Dealing with us online
 
-Some services provided by us, such as certain message boards, may display IP addresses along with the message poster's name and message. Please review each service prior to use and only use those services if you are comfortable with their methods of collection and disclosure of personal information.
+We take all reasonable steps to ensure that the personally identifiable information we collect through any of our websites is protected from unauthorised access, loss, misuse, disclosure or alteration. Our website has electronic security systems in place, including the use of firewalls. All pages that require you to enter your personally identifiable information or payment details on our site use 128 bit SSL encryption. To ensure that the page you are viewing uses 128 bit SSL encryption, you should look for the padlock icon in your browser. 
 
-#### WHEN WE DISCLOSE PERSONAL INFORMATION
+## 8\. Cookies and IP Addresses
 
-We take all reasonable steps to protect the personal information we hold from misuse and loss and from unauthorized access, modification or disclosure.
+A cookie is a piece of data that enables us to track and target your preferences. We may use cookies to enable us to identify you as a return user and personalize and enhance your experience and your use of any of our sites. Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or to warn you before accepting cookies. If you have set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. If you reject our cookies, you may still use our site, but you may be limited in the use of some of the features. We use cookies to help us improve our service to you when you access our site and to ensure that our site remains easy to use and navigate. We may also use IP addresses to analyse trends, administer our sites, track traffic patterns, and gather demographic information for aggregate use, as well as in combination with your personally identifiable information for credit fraud protection and risk reduction. 
 
-We may disclose your personal information where you have consented to us doing so. This consent may be express (eg. in writing or verbal) or implied from your conduct. There may however be times where we are required to disclose personal information without your consent eg. when it is required or authorized by law.
+## 9\. Links to other sites from our website
 
-Personal information that you provide to us may be shared among our related companies. Our related companies are required to keep such information private and confidential and otherwise deal with such personal information strictly in accordance with this Privacy Policy.
+Although our sites may contain links to or from external websites, those websites are not subject to our privacy standards, policies and procedures. We recommend that you make your own enquires as to the Privacy Policies of these third parties. We are in no way responsible for the privacy practices of these third parties. This Privacy Policy applies only to the information we collect on our sites.
 
-In order for us to conduct our business, it is necessary to disclose personal information to third parties. We may provide your personal information to third parties with whom we have contracted to provide administrative or other services, including to our affiliated website operators. We will ensure that these third parties are either bound by the Australian Privacy Act or subject to an equivalent law of another jurisdiction.
+## 10\. Gaining access to your personally identifiable information
 
-When you utilize our domain name registration services, we provide your personal information to the registry operator for the relevant top level domain name for the purpose of inclusion in their registry database and the WHOIS service as well as to a third party providing registrar data escrow services (as required by our registrar accreditation agreement with the Internet Corporation for Assigned Names and Numbers ("ICANN")). The WHOIS service allows Internet users to query a domain name to find out the identity and contact details of the registrant. The public WHOIS service is a standard feature of domain name systems around the world. Please see auDA's WHOIS policy at <http://www.auda.org.au/whois-policy> which sets out auDA's guidelines on the collection, disclosure and use of WHOIS data. Please refer to the relevant TLD/ccTLD authority for specific WHOIS data collection policies. We are unable to provide our domain registration services to you without providing your personal information to these parties.
+Upon your request we will provide you with access to any of your personally identifiable information we hold (except in the limited circumstances recognised at law).
 
-#### TRANSBORDER FLOW OF PERSONAL INFORMATION
+If you require access to your personally identifiable information, please contact our Privacy Officer at privacyofficer@cosmeticscubed.com.au
 
-We are in the business of delivering online products and services. The Internet has no boundaries and as such we deal with international organizations and companies such as ICANN, registry operators and other service providers. We reasonably believe that these parties are subject to a law, binding scheme or contract which effectively upholds principles of fair handling of the information that are substantially similar to the National Privacy Principles. Without the transfer overseas to these entities, we will be unable to provide our online products and services to you.
+Proof of identity is required before such information will be provided. For most requests, your information will be provided free of charge, however it may be necessary to charge a reasonable fee if your request requires a substantial effort on our part.
 
-#### EPP SHARING ARRANGEMENTS
+## 11\. Resolving your privacy issues
 
-Fabulous.com.au Pty Ltd, has with the consent of .au Domain Administration Limited, the Australian Domain Name Administrator ("auDA"), entered into an EPP sharing arrangement with Netstart Pty Ltd ACN 111 018 154, an auDA accredited domain name registrar. "EPP" means the connection which the .au registry operator allows registrars to have to the domain name registry. Via the EPP, it is possible for Fabulous.com.au Pty Ltd, Domain8 Pty Ltd and Yexa.com.au Pty Ltd (formerly Domain Candy Pty Ltd) to have access to the registrant information of domain names managed by Netstart Pty Ltd. For this reason, agreements have been signed to protect registrant privacy and whois integrity.
+If you have any issues you wish to raise with us regarding, or would like to discuss any issues about, our Privacy Policy, please contact us at enquiries@meccacosmetica.com.au or calling 1800 007 844 (AUST) or +61 3 9420 7373 (NZ) with your issues or queries.
 
-#### PROTECTING KIDS PRIVACY
+## 12\. Notification of changes 
 
-We are committed to complying with the provisions of the _Children's Online Privacy Protection Act of 1998_ (United States) and its rules and regulations. We encourage parents and guardians to spend time online with their children and to participate in the activities offered on our websites. 
+We may revise this Privacy Policy from time to time. If we decide to change our Privacy Policy, we will post the revised policy here. As we may make changes at any time without notifying you, we suggest that you periodically consult this Privacy Policy. Please note that our rights to use your personally identifiable information will be based on the privacy policy in effect at the time the information is used.
 
-**Notice to Kids**
+## 13\. Contacting us
 
-If you are under 13 years of age, we must get your parent or guardian's permission before we can collect any personal information about you, such as your name, date of birth and your hobbies. 
+We have taken great measures to ensure that your interaction with us is an excellent one and that your privacy is constantly respected. If you have any questions, comments or concerns about our privacy practices, please contact us by email at privacyofficer@cosmeticscubed.com.au.
 
-You are allowed to give us either your email address, or the email address of your parent or guardian, so that we can contact them and ask for their permission to collect your personal information. 
+Please do not email the Privacy Officer for any matters that do not relate to Privacy such as applications for employment, resumes or questions regarding employment. Any applications, resumes and questions sent to the Privacy Officer will be automatically deleted. To apply for a job, follow the instructions outlined in Careers.
 
-No other information about you should be given to us, or one of our websites, until your parent or guardian has given you permission. 
+More information about Privacy law and the National Privacy Principles is available from the Federal Privacy Commissioner’s website [www.privacy.gov.au](http://www.privacy.gov.au/)
 
-**Notice to Parents**
-
-Before your child can access most of the interactive products and services we provide, they are required to provide us with certain information about themselves, for example, their name, date of birth and contact details, so that we can register them as a member. 
-
-However, before we collect this personal information from your child, they are required to provide us with an e-mail address at which you, their parent or guardian can be contacted, so that we can obtain your consent. 
-
-Although users under 13 years of age may be allowed to participate in some contests and promotions, if they win, notification and prizes are sent to the parents or guardians at the address specified in the initial registration process. Publication of contest winners' names, ages, or images for individuals under 13 require parental or guardian consent. 
-
-Subject to the below exemptions, the personal information that we collect from your child will be subject to and dealt with in accordance with the terms of this Privacy Policy. 
-
-No information collected from visitors under 13 years of age is used for any promotional purposes whatsoever, unless expressly stated during the collection of this information or during registration for contests or promotions (and in that case, the information collected is used only for the specific contest or promotion). 
-
-We do not allow visitors under 13 years of age to be listed in our member directory or to receive direct promotional communications from us.
-
-#### LINKS TO OTHER WEBSITES
-
-You should be aware that on our affiliated websites, there are links to third party websites. If you "click" on a banner advertisement, a search result or another type of link contained on one of our sites, the "click" may result in you leaving our site and your browser being redirected to a website owned and controlled by a third party. 
-
-In this case, we recommend that you refer to the privacy policy of the websites you visit. We have no control over, and hence accept no responsibility for, the content of these sites or the actions of the operators in relation to the collection of personal information of users of these sites. 
-
-Whilst we make every reasonable effort to protect the privacy of your personal information, we cannot guarantee the security of any information you disclose online and you do so at your own risk. 
-
-You should keep in mind that whenever you give out personal information online, there is a risk that the information can be intercepted and used by third parties without our knowledge. We are in no way responsible or liable for the misuse of personal information obtained in this manner. 
-
-#### ACCESS AND ACCURACY OF PERSONAL INFORMATION
-
-You may request access to any personal information that we hold about you. All requests will be handled as quickly as possible, and we will endeavour to process any request for access within 30 days of its receipt.
-
-We may refuse access to personal information in certain circumstances such as where the information relates to anticipated legal proceedings with you, where denying access is required or authorized by law, where providing access would be likely to prejudice an investigation by an enforcement body or where the request for access is regarded as frivolous or vexatious. If we deny you access to personal information or refuse to correct personal information, we will give you reasons as to why.
-
-#### ENSURING PERSONAL INFORMATION IS UP-TO-DATE
-
-It is very important that the personal information that we hold about you is complete, accurate and up-to-date. Please notify us immediately if there has been any change to your personal information.
-
-If you register a domain name with us, you will be provided with a unique registry key and/or username/password which may be used to access your personal information as well as to amend/update that personal information.
-
-#### PRIVACY COMPLAINTS
-
-If you believe that we have not protected your personal information in accordance with this Privacy Policy, you can lodge a complaint by:
-
-  * Emailing: privacy@darkbluesea.com
-  * Telephoning: +61 7 3007 0070
-  * Faxing: +61 7 3007 0001
-  * Writing to us at:  
-PO Box 757  
-Fortitude Valley QLD 4006
-
-
-
-If you are not satisfied with the result of your complaint to us, you can refer your complaint to the Australian Privacy Commissioner as follows:
-
-  * Telephoning: +61 1300 363 992
-  * Writing to:  
-Privacy Commissioner  
-GPO Box 5218  
-Sydney NSW 2001
-
-
-
-#### YOUR ACCEPTANCE OF THESE TERMS
-
-By using this website or our affiliated websites, you consent to us collecting, using and disclosing your personal information in accordance with this Privacy Policy (as amended from time to time).
+Copyright © Cosmetics Cubed Pty Ltd 2014 All rights reserved
