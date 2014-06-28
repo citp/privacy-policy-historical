@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the advertisingweek.eu privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227104303id_/http%3A//advertisingweek.eu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advertisingweek.eu privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628100811id_/http%3A//advertisingweek.eu/privacy) for the most accurate reproduction.*
 
 # Advertising Week Europe 2014 – London [ March 31 - 4 April ] / Privacy Policy
 
