@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designfloat.com privacy policy that was archived on 2013-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130814205809id_/http%3A//www.designfloat.com/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designfloat.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628051349id_/http%3A//www.designfloat.com/blog/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DesignFloat Blog
 
