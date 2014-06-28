@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the ontraport.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231185054id_/http%3A//ontraport.com/legal-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ontraport.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628133513id_/http%3A//ontraport.com/legal-privacy) for the most accurate reproduction.*
 
 # ONTRAPORT | Legal – Privacy Policy
 
   * [Terms of Use](https://ontraport.com/legal-terms)
   * [Privacy Policy](https://ontraport.com/legal-privacy)
   * [Abuse Desk](https://ontraport.com/legal-abuse)
+  * [Partner Terms](https://ontraport.com/partner-terms-conditions)
 
 
   * Privacy Policy
@@ -16,8 +17,6 @@ We collect the e-mail addresses of those who communicate with us via e-mail, agg
 It is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Terms of Service, or as otherwise required by law.
 
 We transfer information about you if ONTRAPORT or OfficeAutopilot is acquired by or merged with another company. In this event, ONTRAPORT will notify you before information about you is transferred and becomes subject to a different privacy policy.
-
-ONTRAPORT complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. ONTRAPORT has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view ONTRAPORT’s certification, please visit <http://www.export.gov/safeharbor/>
 
 ### INFORMATION GATHERING AND USAGE
 
