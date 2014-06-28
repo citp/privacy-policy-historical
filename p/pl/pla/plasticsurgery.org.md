@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the plasticsurgery.org privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206184257id_/http%3A//www.plasticsurgery.org/privacy-.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plasticsurgery.org privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628122313id_/http%3A//www.plasticsurgery.org/privacy-.html) for the most accurate reproduction.*
 
 # Privacy on the ASPS Website
 
-## Privacy on the ASPS Web site
+### Privacy on the ASPS Web site
 
 The American Society of Plastic Surgeons (ASPS) is committed to protecting the privacy of the data it collects from you when you visit its web sites. This statement describes the practices that ASPS follows to protect the privacy of personal data collected from you when you visit this site. ASPS may occasionally updatte this privacy statement and other statements reference by it as new services and programs are introduced.
 
@@ -12,7 +12,7 @@ ASPS does not knowingly collect, use or disclose personally identifiable patient
 
 You must be at least 18 years old to have our permission to use this site. We do not knowingly collect, use or disclose personally identifiable information about visitors under 18 years of age.
 
-## Use of information provided
+### Use of information provided
 
 If you voluntarily provide information, you consent to the collection and use of your personally identifiable information by the society. However, ASPS does not sell or rent personal information collected through this site to anyone.
 
@@ -25,11 +25,11 @@ to be unlawful.
 
 If you have voluntarily provided personally identifiable information, ASPS may, from time to time, send mail or e-mail to you regarding products and services. If you do not want to receive such offers and mailings, you can easily indicate that by following the instructions on the correspondence.
 
-## Regarding cookies
+### Regarding cookies
 
 ASPS may utilize a standard Internet technology called "cookies" to recognize your device so that we can provide certain features on our web site to you.. Cookies can allow us to determine that you have visited the site in the past and thus save and remember preferences that you may have set while browsing our site. Cookies do not allow us to retrieve any other data from your hard drive or obtain your e-mail address. ASPS may also make use of memory-based cookies in support of authenticating the user of certain ASPS web applications. While you control the ability to modify your browser settings to either accept all cookies, notify you when a cookie is sent, or reject all cookies, it may not be possible to utilize certain features of our web site which require the use of cookies if your browser is set to reject cookies.
 
-## Other sites
+### Other sites
 
 This site contains links to other sites. While ASPS strives to link only to sites that share our high standards and respect for privacy, ASPS is not responsible for the privacy practices employed by other sites. If you have questions or concerns regarding this statement, you should contact us at [webmaster@plasticsurgery.org](mailto:webmaster@plasticsurgery.org).
 
