@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiaflowergiftshop.com privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819025625id_/http%3A//www.indiaflowergiftshop.com/information/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiaflowergiftshop.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629012909id_/http%3A//www.indiaflowergiftshop.com/information/privacy-policy.htm) for the most accurate reproduction.*
 
 # 
 
@@ -21,11 +21,10 @@ We do not collect and store your credit card information. We do not get any idea
  _ **Your Online Payment**_ **  
 ****Online transaction you do through this website is _100 % Secure and highly protected by VeriSign Secured Payment Gateway and further protected with PCI  Control_. Our Paypal Merchant Account is also a Verified and 100% Secured Payment Account. All Credt Card/Debit Card/Netbanking/Done Card Payments are accepted through EBS**
 
-  
 **Your Inputs:**  
-We welcomes feedback concerning this Privacy Policy. Please send your comments and questions to [ifgscustomercare@gmail.com](mailto:ifgscustomercare@gmail.com)
+We welcomes feedback concerning this Privacy Policy. Please send your comments and questions to [support@indiaflowergiftshop.com](mailto:ifgscustomercare@gmail.com)
 
   
 
 
-    Send Flowers, Cakes, Eggless Cakes, Chocolates, Sweets, Combo Gifts    Free Shipping Over 150 Cities, Door Step Delivery Services over 300 Cities Indiawide ||    || 100% Guaranteed Delivery ||    Fresh Fruits, Dry Fruits, Cards, Addon Gifts, Gift Vouchers, All Occasion Gifts.    II Same Day Delivery Accepted till 5 PM IST || Crossed 5 PM IST? Call Now on +91 9836364260
+    Customer Care: +91 9836364260 , 9831319069     All Indian Major Debit/Credit Cards , Net Banking Available, 3000 + Express Delivery Gifts India     We Accept: International Credit/Debit Cards , JCB / American Express Cards, Dinners Citi Cards,     Payment via Paypal Verified Also     Same Day Delivery Accepted till 5 PM IST ||
