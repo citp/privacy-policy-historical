@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestgfx.biz privacy policy that was archived on 2013-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130909235117id_/http%3A//www.bestgfx.biz/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestgfx.biz privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628023737id_/http%3A//bestgfx.biz/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy » Free Download AE Project Vector Stock Web Template Photoshop Via Torrent Zippyshare From Bestgfx.biz
 
