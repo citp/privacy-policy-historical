@@ -1,18 +1,18 @@
-<!--The following is the downloaded HTML source of the nationalreview.com privacy policy that was archived on 2013-12-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131227092959id_/http%3A//www.nationalreview.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nationalreview.com privacy policy that was archived on 2014-06-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140628060432id_/http%3A//www.nationalreview.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr" xmlns:og="http://ogp.me/ns#"><head profile="http://www.w3.org/1999/xhtml/vocab">
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<link rel="shortlink" href="http://nationalreview.com/privacy">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script type="text/javascript" async="" src="http://cdn.engine.4dsply.com/Scripts/infinity.js.aspx" id="infinity" data-guid="b10a68e0-0178-42b1-a256-afeb4b619d52" data-version="async"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://cdn.krxd.net/controltag?confid=JDkN3HHl"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwIEV19bGwEJV1hVBwE="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+<link rel="shortlink" href="http://www.nationalreview.com/privacy">
 <link rel="publisher" href="http://www.nationalreview.com">
-<link rel="canonical" href="http://nationalreview.com/privacy">
-<link rel="image_src" href="http://global.nationalreview.com/images/logo_NRO_facebook2_square_110.jpg">
+<link rel="canonical" href="http://www.nationalreview.com/privacy">
+<link rel="image_src" href="http://www.nationalreview.com/sites/default/files/logo_nr_social_2013.jpg">
 <meta name="generator" content="Drupal 7 (http://drupal.org)">
 <meta property="fb:app_id" content="129250807108374">
 <meta property="og:site_name" content="National Review Online">
-<meta property="og:url" content="http://nationalreview.com/privacy">
-<link rel="shortcut icon" href="http://nationalreview.com/sites/all/themes/nro/favicon.ico" type="image/vnd.microsoft.icon">
-<meta property="og:image" content="http://global.nationalreview.com/images/logo_NRO_facebook2_square_110.jpg">
+<meta property="og:url" content="http://www.nationalreview.com/privacy">
+<link rel="shortcut icon" href="http://www.nationalreview.com/sites/all/themes/nro/favicon.ico" type="image/vnd.microsoft.icon">
+<meta property="og:image" content="http://www.nationalreview.com/sites/default/files/logo_nr_social_2014_C.jpg">
 <meta property="og:type" content="article">
 <meta property="og:title" content="NRO Contact Us Page">
 <meta name="news_keywords" content="National Review, National Review Online, Article">
@@ -32,74 +32,86 @@
 <meta name="robots" content="follow, index">
   <title>NRO Contact Us Page | National Review Online</title>
   <meta name="bitly-verification" content="84623dfdfbf2">
-	<link type="text/css" rel="stylesheet" href="http://nationalreview.com/sites/default/files/css/cdn_css_5bQ4YqjSM7T9wAQLjYLZub62zW16M4getykdwSET14M.css" media="all">
-<link type="text/css" rel="stylesheet" href="http://nationalreview.com/sites/default/files/css/cdn_css_08_gIL_fS3BSoMeckNNOSJHvDXYLbGChYZvyyV8_RTM.css" media="all">
-<link type="text/css" rel="stylesheet" href="http://nationalreview.com/sites/default/files/css/cdn_css_tOBwr3CSZVgOUYvRkai_mOGfZcpbaCUVnS4NGchulLk.css" media="all">
-<link type="text/css" rel="stylesheet" href="http://nationalreview.com/sites/default/files/css/cdn_css_uc8kV80Af6YGKSo04HCy8vckOOCZkRGeM8FxLG2CcJg.css" media="all">
-<link type="text/css" rel="stylesheet" href="http://nationalreview.com/sites/default/files/css/cdn_css_BX_-wiNO5DLlgamxD5LUqv6TnyGrvv2mNJMP1yidjIE.css" media="all">
+	<link type="text/css" rel="stylesheet" href="http://www.nationalreview.com/sites/default/files/css/cdn_css_5bQ4YqjSM7T9wAQLjYLZub62zW16M4getykdwSET14M.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://www.nationalreview.com/sites/default/files/css/cdn_css_08_gIL_fS3BSoMeckNNOSJHvDXYLbGChYZvyyV8_RTM.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://www.nationalreview.com/sites/default/files/css/cdn_css_ngGaMJEgh_JfxbDCHj1V1JOzRqpoPZuRlkEh57SGJAY.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://www.nationalreview.com/sites/default/files/css/cdn_css_7qraiUFtuJlgWHElvQlJ7mo__1Od1aFAE_eFjMiq_GI.css" media="all">
+<link type="text/css" rel="stylesheet" href="http://www.nationalreview.com/sites/default/files/css/cdn_css_Gw8CAVSh93XewrEHu6tCV96rYPKufpdJyFo2OFHLVv4.css" media="all">
 
 <!--[if lte IE 7]>
-<link type="text/css" rel="stylesheet" href="http://nationalreview.com/sites/default/files/css/cdn_css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU_ie.css.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.nationalreview.com/sites/default/files/css/cdn_css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU_ie.css.css" media="all" />
 <![endif]-->
 
 <!--[if IE 6]>
-<link type="text/css" rel="stylesheet" href="http://nationalreview.com/sites/default/files/css/cdn_css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU_ie6.css.css" media="all" />
+<link type="text/css" rel="stylesheet" href="http://www.nationalreview.com/sites/default/files/css/cdn_css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU_ie6.css.css" media="all" />
 <![endif]-->
 <link type="text/css" rel="stylesheet" href="//fonts.googleapis.com/css?family=BenchNine" media="all">
-  <script type="text/javascript" async="" src="http://cdn.engine.4dsply.com/Scripts/infinity.js.aspx" id="infinity" data-guid="b10a68e0-0178-42b1-a256-afeb4b619d52" data-version="async"></script><script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" src="http://nationalreview.com/sites/default/files/js/js__5ZDbAHXizN0D-Wk2VKxwjQ7OlV6SPlfRVRjhUhxfaA.js"></script>
+  <script type="text/javascript" src="http://www.nationalreview.com/sites/default/files/js/js_0gj6QcpfRH2jzTbCQqf7kEkm4MXY0UA_sRhwPc8jC1o.js"></script>
+<script type="text/javascript" src="http://www.nationalreview.com/sites/default/files/js/js_EDAEU779w6D2qlSIERENgw8iv6QdbxMJMlFLEabBODA.js"></script>
+<script type="text/javascript" src="http://www.nationalreview.com/sites/default/files/js/js_M9Wi6rjcvv2Fy5jLAfKejTWHjmMnaG4tHJy0LuaJRvM.js"></script>
+<script type="text/javascript" src="http://www.nationalreview.com/sites/default/files/js/js_1yMde5qJlPaKG5hFoWUW0xKJnq2JffqcOzWokOnVoDs.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-var googletag = googletag || {};
-googletag.cmd = googletag.cmd || [];
 
+    var redirect = "http:\/\/m.nationalreview.com\/privacy";
+    var regex = new RegExp("(android|bb\\d+|meego).+mobile|avantgo|bada\\\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|iris|kindle|lge |maemo|midp|mmp|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\\\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\\.(browser|link)|vodafone|wap|windows (ce|phone)|xda|xiino", "i");
+    if (redirect != false && regex.test(navigator.userAgent)) {
+      window.location = redirect;
+    }
 //--><!]]>
 </script>
-<script type="text/javascript" src="http://www.googletagservices.com/tag/js/gpt.js"></script>
-<script type="text/javascript" src="http://nationalreview.com/sites/default/files/js/js_Cyc-lC6ixML6RkS4RmBegmTl-vUp8PtXmSZmSGOtAFQ.js"></script>
-<script type="text/javascript" src="http://nationalreview.com/sites/default/files/js/js_EDAEU779w6D2qlSIERENgw8iv6QdbxMJMlFLEabBODA.js"></script>
-<script type="text/javascript" src="http://nationalreview.com/sites/default/files/js/js_h5iVOGuPjl-QeCOhN0joctVutM7vfCAXlD0pzgV5YgA.js"></script>
+<script type="text/javascript" src="http://www.nationalreview.com/sites/default/files/js/js_28dN2SDwoVc4b7Flj99U2e97_JlUqSfeka4C_axHulA.js"></script>
+<script type="text/javascript" src="http://www.nationalreview.com/sites/default/files/js/js_0NYeKREGPo-MIjMv4XTGeWbNv71lVLWPso4kjQ0f-xc.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-googletag.cmd.push(function() {
-  googletag.pubads().enableAsyncRendering();
-  googletag.pubads().enableSingleRequest();
-  googletag.pubads().collapseEmptyDivs();
-});
-googletag.enableServices();
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"nro","theme_token":"JeA_20_0mg45PKJj8YZ6OUPz51h3DU5jbx30yaXFPFU","css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.datepicker.css":1,"misc\/ui\/jquery.ui.tabs.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/google_analytics_reports\/google_analytics_reports\/google_analytics_reports.css":1,"sites\/all\/modules\/contrib\/logintoboggan\/logintoboggan.css":1,"modules\/node\/node.css":1,"modules\/poll\/poll.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/workflow\/workflow_admin_ui\/workflow_admin_ui.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/ckeditor.css":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/plain\/colorbox_style.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/nice_menus\/nice_menus.css":1,"sites\/all\/themes\/nro\/style\/stylesheets\/mymenu.css":1,"sites\/all\/modules\/contrib\/pollanon\/pollanon.css":1,"sites\/all\/themes\/nro\/style\/stylesheets\/style-editor.css":1,"sites\/all\/themes\/nro\/style\/stylesheets\/style.css":1,"sites\/all\/themes\/nro\/style\/stylesheets\/style-user.css":1,"sites\/all\/themes\/nro\/css\/ie.css":1,"sites\/all\/themes\/nro\/css\/ie6.css":1,"\/\/fonts.googleapis.com\/css?family=BenchNine":1},"js":{"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.effects.core.min.js":1,"misc\/ui\/jquery.effects.core.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.datepicker.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.tabs.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.effects.blind.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.effects.bounce.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.effects.clip.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.effects.drop.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.effects.explode.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.effects.fade.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.effects.fold.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.effects.highlight.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.effects.pulsate.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.effects.scale.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.effects.shake.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.effects.slide.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.effects.transfer.min.js":1,"sites\/all\/modules\/contrib\/splashify\/js\/jquery.json-2.3.min.js":1,"sites\/all\/modules\/contrib\/apachesolr_sort\/apachesolr_sort.js":1,"sites\/all\/modules\/contrib\/google_analytics_reports\/google_analytics_reports\/google_analytics_reports.js":1,"sites\/all\/modules\/custom\/nro\/nro_control\/nro_control_article_pager.js":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/plain\/colorbox_style.js":1,"0":1,"sites\/all\/modules\/contrib\/nice_menus\/superfish\/js\/superfish.js":1,"sites\/all\/modules\/contrib\/nice_menus\/superfish\/js\/jquery.bgiframe.min.js":1,"sites\/all\/modules\/contrib\/nice_menus\/superfish\/js\/jquery.hoverIntent.minified.js":1,"sites\/all\/modules\/contrib\/nice_menus\/nice_menus.js":1,"sites\/all\/modules\/contrib\/pollanon\/js\/jquery.cookie.min.js":1,"sites\/all\/modules\/contrib\/pollanon\/js\/pollanon.pack.js":1,"sites\/all\/libraries\/jstorage\/jstorage.min.js":1,"\/srv\/bindings\/78a787313a7749b1b0bcfa9e00cbe49c\/code\/sites\/all\/themes\/nro\/js\/resizetext.js":1,"sites\/all\/themes\/nro\/js\/jquery.tools.min.js":1,"sites\/all\/themes\/nro\/js\/site.js":1,"sites\/all\/themes\/nro\/js\/resizetext.js":1,"sites\/all\/themes\/nro\/js\/jquery.jscrollpane.min.js":1}},"colorbox":{"transition":"none","speed":"350","opacity":"1","slideshow":false,"slideshowAuto":true,"slideshowSpeed":"2500","slideshowStart":"start slideshow","slideshowStop":"stop slideshow","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","overlayClose":true,"maxWidth":"100%","maxHeight":"100%","initialWidth":"100%","initialHeight":"100%","fixed":true,"scrolling":true},"googleAnalyticsReportsAjaxUrl":"\/google-analytics-reports\/ajax","nice_menus_options":{"delay":800,"speed":1}});
 //--><!]]>
 </script>
-<script type="text/javascript" src="http://nationalreview.com/sites/default/files/js/js_UNgcJ10YBN1UblYLaRSsYas2xITynlrtZVOXhUjU7sg.js"></script>
-<script type="text/javascript" src="http://nationalreview.com/sites/default/files/js/js_aWMBNtAI-UT5uz9tGKlhEp3bzMhkXNU_bMy9OlToACw.js"></script>
-<script type="text/javascript">
-<!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"nro","theme_token":"seAIFOrtVWR298Tjb7_X81sYDexlBopNqilbr02gV8c","css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"misc\/ui\/jquery.ui.core.css":1,"misc\/ui\/jquery.ui.theme.css":1,"misc\/ui\/jquery.ui.datepicker.css":1,"misc\/ui\/jquery.ui.tabs.css":1,"modules\/comment\/comment.css":1,"sites\/all\/modules\/contrib\/date\/date_api\/date.css":1,"sites\/all\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"sites\/all\/modules\/contrib\/google_analytics_reports\/google_analytics_reports\/google_analytics_reports.css":1,"sites\/all\/modules\/contrib\/logintoboggan\/logintoboggan.css":1,"modules\/node\/node.css":1,"modules\/poll\/poll.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/contrib\/workflow\/workflow_admin_ui\/workflow_admin_ui.css":1,"sites\/all\/modules\/contrib\/views\/css\/views.css":1,"sites\/all\/modules\/contrib\/ckeditor\/ckeditor.css":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/plain\/colorbox_style.css":1,"sites\/all\/modules\/contrib\/ctools\/css\/ctools.css":1,"sites\/all\/modules\/contrib\/nice_menus\/nice_menus.css":1,"sites\/all\/themes\/nro\/style\/stylesheets\/mymenu.css":1,"sites\/all\/modules\/contrib\/pollanon\/pollanon.css":1,"sites\/all\/themes\/nro\/style\/stylesheets\/style-editor.css":1,"sites\/all\/themes\/nro\/style\/stylesheets\/style.css":1,"sites\/all\/themes\/nro\/style\/stylesheets\/style-user.css":1,"sites\/all\/themes\/nro\/css\/ie.css":1,"sites\/all\/themes\/nro\/css\/ie6.css":1,"\/\/fonts.googleapis.com\/css?family=BenchNine":1},"js":{"sites\/all\/modules\/contrib\/jquery_update\/replace\/jquery\/1.7\/jquery.min.js":1,"misc\/jquery.once.js":1,"0":1,"http:\/\/www.googletagservices.com\/tag\/js\/gpt.js":1,"misc\/drupal.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.core.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.widget.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.effects.core.min.js":1,"misc\/ui\/jquery.effects.core.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.datepicker.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.ui.tabs.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.effects.blind.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.effects.bounce.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.effects.clip.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.effects.drop.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.effects.explode.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.effects.fade.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.effects.fold.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.effects.highlight.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.effects.pulsate.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.effects.scale.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.effects.shake.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.effects.slide.min.js":1,"sites\/all\/modules\/contrib\/jquery_update\/replace\/ui\/ui\/minified\/jquery.effects.transfer.min.js":1,"sites\/all\/modules\/contrib\/splashify\/js\/jquery.json-2.3.min.js":1,"sites\/all\/modules\/contrib\/google_analytics_reports\/google_analytics_reports\/google_analytics_reports.js":1,"sites\/all\/modules\/custom\/nro\/nro_control\/nro_control_article_pager.js":1,"1":1,"sites\/all\/libraries\/colorbox\/jquery.colorbox-min.js":1,"sites\/all\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"sites\/all\/modules\/contrib\/colorbox\/styles\/plain\/colorbox_style.js":1,"sites\/all\/modules\/contrib\/nice_menus\/superfish\/js\/superfish.js":1,"sites\/all\/modules\/contrib\/nice_menus\/superfish\/js\/jquery.bgiframe.min.js":1,"sites\/all\/modules\/contrib\/nice_menus\/superfish\/js\/jquery.hoverIntent.minified.js":1,"sites\/all\/modules\/contrib\/nice_menus\/nice_menus.js":1,"sites\/all\/modules\/contrib\/pollanon\/js\/jquery.cookie.min.js":1,"sites\/all\/modules\/contrib\/pollanon\/js\/pollanon.pack.js":1,"sites\/all\/libraries\/jstorage\/jstorage.min.js":1,"\/sites\/all\/themes\/nro\/js\/resizetext.js":1,"sites\/all\/themes\/nro\/js\/jquery.tools.min.js":1,"sites\/all\/themes\/nro\/js\/site.js":1,"sites\/all\/themes\/nro\/js\/resizetext.js":1,"sites\/all\/themes\/nro\/js\/jquery.jscrollpane.min.js":1}},"colorbox":{"transition":"none","speed":"350","opacity":"1","slideshow":false,"slideshowAuto":true,"slideshowSpeed":"2500","slideshowStart":"start slideshow","slideshowStop":"stop slideshow","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","overlayClose":true,"maxWidth":"100%","maxHeight":"100%","initialWidth":"100%","initialHeight":"100%","fixed":true,"scrolling":true},"googleAnalyticsReportsAjaxUrl":"\/google-analytics-reports\/ajax","nice_menus_options":{"delay":800,"speed":1}});
-//--><!]]>
+
+
+
+
+<!-- BEGIN PAA Control Tag for "National Review" -->
+<!-- Source: /snippet/controltag?confid=JDkN3HHl&site=National%20Review&edit=1 -->
+<script class="kxct" data-id="JDkN3HHl" data-timing="async" data-version="1.9" type="text/javascript">
+  window.Krux||((Krux=function(){Krux.q.push(arguments)}).q=[]);
+  (function(){
+    var k=document.createElement('script');k.type='text/javascript';k.async=true;
+    var m,src=(m=location.href.match(/\bkxsrc=([^&]+)/))&&decodeURIComponent(m[1]);
+    k.src = /^https?:\/\/([a-z0-9_\-\.]+\.)?krxd\.net(:\d{1,5})?\//i.test(src) ? src : src === "disable" ? "" :
+      (location.protocol==="https:"?"https:":"http:")+"//cdn.krxd.net/controltag?confid=JDkN3HHl"
+  ;
+    var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(k,s);
+  }());
+  
 </script>
-	<!--  START::ib-ibi.com View Tag; DO NOT MODIFY TAG-->
-<script type="text/javascript">
-  var _ibgo = '241012', _ibisb = '',
-    _ibel = document.createElement('script');
-  _ibel.type = 'text/javascript';
-  _ibel.src = '//ib.mookie1.com/ibiview.js';
-  document.getElementsByTagName('head')[0].appendChild(_ibel);
-</script><script type="text/javascript" src="//ib.mookie1.com/ibiview.js"></script>
-<noscript><iframe src="//ib.mookie1.com/view.html?go=241012" style="display: none;"></iframe></noscript>
-<!--  END::ib-ibi.com View Tag -->
-<!--  START::ib-ibi.com View Tag; DO NOT MODIFY TAG-->
-<script type="text/javascript">
-    var _ibgo = '240630', _ibisb = '',
-        _ibel = document.createElement('script');
-    _ibel.type = 'text/javascript';
-    _ibel.src = '//ib.mookie1.com/ibiview.js';
-    document.getElementsByTagName('head')[0].appendChild(_ibel);
-</script><script type="text/javascript" src="//ib.mookie1.com/ibiview.js"></script>
-<noscript><iframe src="//ib.mookie1.com/view.html?go=240630" style="display: none;"></iframe></noscript>
-<!--  END::ib-ibi.com View Tag -->
+<!-- END PAA Controltag -->
+
+
+
+
+
 	
 	<!-- Pinterest -->
 	<meta name="p:domain_verify" content="d01ad36f4033677a2e4883eee1a13af1">
 	<!-- Google + -->
-	</head><body class="html not-front not-logged-in no-sidebars page-privacy"><a href="https://plus.google.com/+nationalreview" rel="publisher">Google+</a>
+	</head><body class="html not-front not-logged-in no-sidebars page-privacy domain-www-nationalreview-com"><a href="https://plus.google.com/+nationalreview" rel="publisher">Google+</a>
+
+	<!-- GPT Head -->
+	<script type="text/javascript"> (function() { var useSSL = 'https:' == document.location.protocol; var src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js'; document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>'); })(); </script><script src="https://www.googletagservices.com/tag/js/gpt.js"></script> 
+
+<!-- GPT Subead -->
+ <script type="text/javascript"> googletag.cmd.push(function(){  
+googletag.defineSlot('/6423/nro.com', [[728, 90], [970, 66]], 'div-gpt-ad-top').addService(googletag.pubads()).setTargeting("pos", "top");  
+googletag.defineSlot('/6423/nro.com', [[300, 1050], [300, 600], [300, 250]], 'div-gpt-ad-x01').addService(googletag.pubads()).setTargeting("pos", "x01"); 
+googletag.defineSlot('/6423/nro.com', [[300, 600], [300, 250], [160, 600]], 'div-gpt-ad-x02').addService(googletag.pubads()).setTargeting("pos", "x02"); 
+googletag.defineSlot('/6423/nro.com', [300, 250], 'div-gpt-ad-middle').addService(googletag.pubads()).setTargeting("pos", "middle"); 
+/* googletag.defineSlot('/6423/nro.com/homepage', [2, 2], 'div-gpt-ad-sharethrough').addService(googletag.pubads()).setTargeting("strnativekey","ec8779cf").setTargeting("pos","sharethrough"); */
+googletag.pubads().enableSyncRendering(); googletag.pubads().enableSingleRequest(); googletag.enableServices();  }); </script> 
+
+
+
+
 
 
   <div id="fb-root"></div>
@@ -108,23 +120,12 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 <div id="page-wrapper"><div id="page">
       <div id="header"><div class="section clearfix">
               <div class="nav_wrapper_left">  <div class="region region-header-left">
-    <div id="block-nro-block-top-banner-ad" class="block block-nro-block">
+    <div id="block-block-100" class="block block-block">
 
     
   <div class="content">
-    <div id="block-nro-block-top-banner-ad">
-  <!-- begin DOUBLECLICK ad tag -->
-  <script type="text/javascript">
-    //<![CDATA[
-    ord=Math.random()*10000000000000000;
-    window.dctile = Number(window.dctile) + 1 || 1;
-    document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/nro.com/;pos=top;tile=1;sz=728x90;ord=' + ord + ';dctile=' + dctile + '?"><\/script>');
-    //]]>
-  </script><script type="text/javascript" src="http://ad.doubleclick.net/adj/nro.com/;pos=top;tile=1;sz=728x90;ord=4230133462983387.5;dctile=1?"></script>
-  <noscript><a href="http://ad.doubleclick.net/jump/nro.com/;pos=top;tile=1;sz=728x90;ord=123456789?" target="_blank" ><img src="http://ad.doubleclick.net/ad/nro.com/;pos=top;tile=1;sz=728x90;ord=123456789?" border="0" alt="" /></a></noscript>
-  <!-- end DOUBLECLICK ad tag -->
-</div>
-  </div>
+    <!--smart_paging_filter--><!-- national review online -->
+<div id="div-gpt-ad-top"> <script type="text/javascript"> googletag.display('div-gpt-ad-top'); </script> </div>  </div>
 </div>
 <div id="block-nro-block-banner-social-widgets" class="block block-nro-block">
 
@@ -136,7 +137,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
       <a href="https://twitter.com/nro" class="twitter-follow-button" data-show-count="false"></a>
       <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
     </div>
-    <div id="h-b-s_bottom" class="fb-like" data-href="http://www.nationalreview.com" data-send="false" data-layout="button_count" data-width="110" data-show-faces="false"></div>
+    <div id="h-b-s_bottom" class="fb-like" data-href="https://www.facebook.com/nationalreview" data-send="false" data-layout="button_count" data-width="110" data-show-faces="false"></div>
   </div>
 
   
@@ -146,7 +147,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 
     
   <div class="content">
-    <a href="http://nationalreview.com" title="Home" rel="home" id="logo"><img src="/sites/all/themes/nro/img/logo.jpg" alt="National Review Online"></a>  </div>
+    <a href="http://www.nationalreview.com" title="Home" rel="home" id="logo"><img src="/sites/all/themes/nro/img/logo.jpg" alt="National Review Online"></a>  </div>
 </div>
   </div>
 </div>
@@ -157,29 +158,30 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
   <div class="content">
     <div class="nav-latest-issue">				
   <div class="nav-latest-issue_b">
-    <a href="/nrd/issues/366716" class="header-subs_issue">December 31 Issue</a>  </div>
+    <a href="/nrd/issues/380729" class="header-subs_issue">July 7 Issue</a>  </div>
   <div class="nav-latest-issue_a">		
   <!-- trigger elements -->
-    <div id="small_cover"><img rel="#photo2" src="http://c4.nrostatic.com/sites/default/files/styles/nrd_cover_nav/public/uploaded/cover_20131231_toc.jpg?itok=rl4igo8Z" alt=""></div>
+    <div id="small_cover">
+    <a href="/nrd/issues/380729"><img src="http://c6.nrostatic.com/sites/default/files/styles/nrd_cover_nav/public/uploaded/cover_20140707_toc.jpg?itok=ZpsPHvis" alt=""></a>   </div>
   </div>   	
   <div class="nav-latest-issue_c">
-    <a href="/nrd/issues/366716"><img src="http://global.nationalreview.com/images/pic_header_look-inside_2012_G.png" border="0"></a>  </div>   			
+    <a href="/nrd/issues/380729"><img src="http://c9.nrostatic.com/sites/default/files/images/pic_header_look-inside_2012_G.png" border="0"></a>  </div>   			
   <div class="nav-latest-issue_d">
     <div class="nav-latest-issue_inside"><a href="https://www.nationalreview.com/subscribe/nr.p" class="header_sublinks track-subscribe-print" title="Subscribe to NR"> Subscribe Print</a></div>
     <div class="nav-latest-issue_inside"><a href="https://www.nationalreview.com/swishu/subscribe" class="header_sublinks track-subscribe-nrd" title="Subscribe to NR"> Subscribe Digital</a></div>
-    <div class="nav-latest-issue_inside"><a href="https://secure2.palmcoastd.com/pub/ntrv/multigift_xmas.asp" class="header_sublinks track-subscribe-print-gift" title="Give the Gift of NR"> Gift: NR Print</a></div>
+    <div class="nav-latest-issue_inside"><a href="https://secure2.palmcoastd.com/pub/ntrv/multigift.asp" class="header_sublinks track-subscribe-print-gift" title="Give the Gift of NR"> Gift: NR Print</a></div>
    <div class="nav-latest-issue_inside"> <a href="https://www.nationalreview.com/swishu/gift" class="header_sublinks track-subscribe-digital-gift" title="Subscribe to NR" onclick=""> Gift: NR / Digital</a></div>
   </div>	
   <!-- overlayed element -->
-  <div class="apple_overlay" id="photo2">
-    <img src="http://c0.nrostatic.com/sites/default/files/styles/nrd_cover_overlay/public/cover_overlay_131231.jpg?itok=jkBdyaL1" alt="">    <div align="center" class="overlay_nav">
+ <!--  <div class="apple_overlay" id="photo2">
+     <div align="center" class="overlay_nav">
       <a href="http://www.nationalreview.com/nrd" class="overlay_nav">Issue</a>
       &nbsp;&nbsp;|&nbsp;&nbsp;
       <a href="https://www.nationalreview.com/subscribe/nr.p" class="overlay_nav track-header-cover-subscribe">Subscribe</a>
       &nbsp;&nbsp;|&nbsp;&nbsp;
       <a href="https://secure2.palmcoastd.com/pub/ntrv/renew.asp" class="overlay_nav track-header-cover-renew">Renew</a>
     </div>
-  </div>
+  </div> -->
 </div>
 
 
@@ -208,19 +210,19 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 <li class="menu-3464 menu-path-taxonomy-term-2371   odd  "><a href="/events" title="Events">Events</a></li>
 <li class="menu-789 menuparent  menu-path-media   even  "><a href="/media" title="Audio &amp; Video">Audio, Video &amp; Galleries</a><ul><li class="menu-792 menu-path-media  first   odd  "><a href="/media" title="The Latest">The Latest</a></li>
 <li class="menu-793 menu-path-media-threemartinilunch   even  "><a href="/media/threemartinilunch" title="Three Martini Lunch">Three Martini Lunch</a></li>
-<li class="menu-794 menu-path-media-uncommonknowledge   odd  "><a href="/media/uncommonknowledge" title="Uncommon Knowledge">Uncommon Knowledge</a></li>
+<li class="menu-4001 menu-path-media-maddogsandenglishmen   odd  "><a href="/media/maddogsandenglishmen" title="Mad Dogs &amp; Englishmen">Mad Dogs &amp; Englishmen</a></li>
 <li class="menu-795 menu-path-media-betweenthecovers   even  "><a href="/media/betweenthecovers" title="Between the Covers">Between the Covers</a></li>
-<li class="menu-796 menu-path-media-ricochet   odd  "><a href="/media/ricochet" title="Ricochet">Ricochet</a></li>
-<li class="menu-3478 menu-path-media-firingline   even  "><a href="/media/firingline" title="Firing Line">Firing Line</a></li>
-<li class="menu-3477 menu-path-nationalreviewcom-slideshows   odd   last "><a href="http://www.nationalreview.com/slideshows" title="Slideshows">Slideshows</a></li>
+<li class="menu-4009 menu-path-media-opinionduel   odd  "><a href="/media/opinionduel" title="Opinion Duel">Opinion Duel</a></li>
+<li class="menu-796 menu-path-media-ricochet   even  "><a href="/media/ricochet" title="Ricochet">Ricochet</a></li>
+<li class="menu-3478 menu-path-media-firingline   odd  "><a href="/media/firingline" title="Firing Line">Firing Line</a></li>
+<li class="menu-3477 menu-path-nationalreviewcom-slideshows   even   last "><a href="http://www.nationalreview.com/slideshows" title="Slideshows">Slideshows</a></li>
 </ul></li>
 <li class="menu-783 menu-path-taxonomy-term-11   odd  "><a href="/kudlows-money-politics" title="Larry Kudlow">Kudlow</a></li>
 <li class="menu-784 menu-path-taxonomy-term-6   even  "><a href="/david-pryce-jones" title="David Calling">Pryce-Jones</a></li>
-<li class="menu-785 menu-path-taxonomy-term-9   odd  "><a href="/exchequer" title="Exchequer">Exchequer</a></li>
-<li class="menu-786 menu-path-taxonomy-term-16   even  "><a href="/phi-beta-cons" title="Phi Beta Cons">Phi Beta Cons</a></li>
-<li class="menu-787 menu-path-taxonomy-term-5   odd  "><a href="/critical-condition" title="Critical Condition">Critical Condition</a></li>
-<li class="menu-788 menu-path-taxonomy-term-10   even  "><a href="/human-exceptionalism" title="Human Exceptionalism">Human Exceptionalism</a></li>
-<li class="menu-791 menu-path-tweet   odd   last "><a href="/tweet" title="Tweet Tracker">Tweet Tracker<img src="http://c6.nrostatic.com/images/icon_twitter-bird_nav.png" width="21" height="11" border="0" align="bottom" style="border:none; padding-left:5px;"></a></li>
+<li class="menu-786 menu-path-taxonomy-term-16   odd  "><a href="/phi-beta-cons" title="Phi Beta Cons">Phi Beta Cons</a></li>
+<li class="menu-787 menu-path-taxonomy-term-2747   even  "><a href="/postmodern-conservative" title="Postmodern Conservative">Postmodern Conservative</a></li>
+<li class="menu-788 menu-path-taxonomy-term-10   odd  "><a href="/human-exceptionalism" title="Human Exceptionalism">Human Exceptionalism</a></li>
+<li class="menu-791 menu-path-tweet   even   last "><a href="/tweet" title="Tweet Tracker">Tweet Tracker<img src="http://c6.nrostatic.com/images/icon_twitter-bird_nav.png" width="21" height="11" border="0" align="bottom" style="border:none; padding-left:5px;"></a></li>
 </ul>
   </div>
 </div>
@@ -242,9 +244,10 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 <li class="leaf"><a href="/rss.xml">RSS</a></li>
 <li class="leaf"><a href="http://store.nationalreview.com">Store</a></li>
 <li class="leaf"><a href="/donate">Donate</a></li>
-<li class="leaf"><a href="http://mediakit.nationalreview.com/">Media Kit</a></li>
-<li class="leaf"><a href="/subscription-help">Subscription Help</a></li>
-<li class="last leaf"><a href="/contact">Contact</a></li>
+<li class="leaf"><a href="http://www.nationalreview.com/media-kit">Media Kit</a></li>
+<li class="leaf"><a href="/subscription-help">Magazine Help</a></li>
+<li class="leaf"><a href="/contact">Contact</a></li>
+<li class="last leaf"><a href="http://www.nrinstitute.org" target="_blank">NR Institute</a></li>
 </ul>  </div>
 </div>
     </div>
@@ -260,107 +263,126 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
  
 <p class="node-type-static-headline">Privacy Policy</p>
  
-<p>To help you understand how information submitted will be treated when you log on to and use our web site, National Review Online (www.nationalreview.com) offers this Privacy Policy. Use of the nationalreview.com web site, and disclosure to us of your personal information, is optional and voluntary. By visiting nationalreview.com, you are accepting and agreeing to the practices described in this Policy. The following paragraphs describe the type of information nationalreview.com collects, the reasons why such information is collected, how such information is used and who has access to it.</p>
-<p>GENERAL PRINCIPLES</p>
-<p>Nationalreview.com’s Privacy Policy may change from time to time without notice to you. You should read this Privacy Policy each time you plan to submit personally identifiable information so that you understand how the information you are submitting will be used.
+<p>To help you understand how information submitted will be treated when you log on to and use our website, National Review (www.nationalreview.com) offers this privacy policy. 
 </p><p>
-Any changes made to the Privacy Policy will be prospective, not retroactive.
+This privacy policy applies only to www.nationalreview.com. This policy does not apply to information collected through any other website or to the practices of companies that National Review does not control. Please note that our site may contain links to other websites. For example, if you click on an advertisement on National Review and link to another website, then this privacy policy will not apply to any information collected on that website. We are not responsible for the privacy practices of other websites, and we recommend that you read the privacy policies of each website that you visit. 
+</p><p><b>
+THE INFORMATION WE COLLECT </b>
+</p><p><b>
+The information you provide directly to us: </b>You are not required to provide information directly to us in order to view National Review. However, when you use certain functions of the website, such as when you register for certain services, access certain content or features, or directly contact us, we may ask you to provide information, including: 
+</p><blockquote><p>
+contact information, such as name, email address, postal address, phone number, and mobile number;
 </p><p>
-Nationalreview.com is not responsible for the information practices of third parties, although we take care to engage third party fulfillment processors, ad servers, survey companies and other support services that respect your privacy, preferences and data security needs.
-</p><p>COLLECTION OF INFORMATION</p>
-<p>
-Nationalreview.com collects information that is provided voluntarily by visitors to our site. Certain identifying information, such as name, street address, city, state, zip code and email address, is gathered at certain interactive areas on the site, such as when you subscribe to our print or digital publication while online.
-</p><p>SUBSCRIPTIONS</p>
-<p>
-You may use the web site to subscribe to the print or digital version of National Review by following the instructions for subscribing. All subscription-related information is collected from users on this site and stored by the magazine’s fulfillment house, Palm Coast Data.
-</p><p>SURVEYS</p>
-<p>
-From time to time nationalreview.com conducts voluntary user surveys to better target our content to our audience. We sometimes share the aggregated demographic information in these surveys with our advertisers for various purposes including promotions, contests and offers. We never share any of this survey information about specific individuals with any third party.
-</p><p>COOKIES AND IP ADDRESSES</p>
-<p>
-As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site. Nationalreview.com may use data contained in log files to analyze trends, administer the site, track users’ movement and gather broad demographic information for aggregate use.
+username and password;
 </p><p>
-We use advertising to help support our site. We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <a href="http://www.networkadvertising.org/">networkadvertising.org</a>.
-</p>
-<p>
-Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP, the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geo-targeting purposes or showing certain ads based on specific sites visited.
-</p><p>USE OF THE INFORMATION COLLECTED</p>
-<p>
-Nationalreview.com creates aggregate reports on user demographics and traffic patterns for advertisers. This allows our advertisers to advertise more effectively, and allows our users to receive advertisements that are pertinent to their interests. Because nationalreview.com does not track the usage patterns of individual users, an advertiser will never know that a specific user clicked on a particular ad.
+information posted in community discussions and other interactive online features;
 </p><p>
-We also use tracking information to determine which areas of our site users like and do not like based on traffic to those areas.
-</p><p>CREDIT CARD INFORMATION</p>
-<p>
-We comply with generally accepted industry standards in collecting and processing credit card information. However, nationalreview.com does not guarantee the safety of credit card information over the Internet.
+search queries conducted on NRO; and
 </p><p>
-INFORMATION SHARING </p>
-<p>
-When you visit nationalreview.com and are asked to provide information about yourself, unless specifically stated otherwise in this Privacy Policy, you are sharing that information only with nationalreview.com. Nationalreview.com will not disclose the information you submit, except with our third party fulfillment vendors and except as otherwise described here, or when we believe in good faith that the law requires disclosure to protect the rights or property of nationalreview.com, or for administrative or other purposes we deem necessary to maintain or service our products and services. For example, we may allow access to our database by third parties that provide us with services, such as technical maintenance, but only for the purpose of and to the extent necessary to provide you with our services.
+correspondence you send to us.
+</p></blockquote><p><b>
+Information automatically collected when you visit and interact with NRO:</b> When you visit and interact with NRO, certain information may be collected automatically, including: 
+</p><blockquote><p>
+your computer's Internet Protocol (IP) address;
 </p><p>
-If you do not want your data to be shared, you may choose not to permit the data to be collected or transferred by not submitting personally identifiable information on our site, or by not using a particular service.
+your browser type and operating system;
 </p><p>
-NATIONALREVIEW.COM SECURITY MEASURES</p>
-<p>
-Nationalreview.com web site has technical and organizational security measures in place, including firewalls, to protect the information under our control from accidental or unlawful destruction or accidental loss, alteration, unauthorized disclosure, or access. Such measures do not guarantee prevention of loss, misuse, or alteration of information, however, so while we strive to protect your information, nationalreview.com cannot warrant the security of information you transmit to us, and you do so at your own risk.
+the web pages you were visiting immediately before and after you came to the Site;
 </p><p>
-CHILDREN’S PRIVACY </p>
-<p>
-Nationalreview.com is intended for use by individuals over the age of 18. If you are under 18, please do not submit any personally identifiable information on our site. Children should always ask a parent or guardian for permission to send any personal information online to anyone.
+activities within community discussions;
 </p><p>
-OTHER INFORMATION ABOUT YOUR PRIVACY </p>
-<p>
-Whenever you voluntarily disclose any information online in any forum, that information can be collected and used by others. In other words, if you post personal information online that may be accessed by the public, you may receive unsolicited messages from other parties. It is important to be responsible and careful whenever you are online.
+web pages and advertisements that you view, and links that you click on;
 </p><p>
-UPDATING, CORRECTING AND DELETING PERSONAL INFORMATION</p>
-<p>
-Users who subscribe to our print or digital publication, National Review, may correct or change online their subscription information. Users may change this information at any time and as often as necessary. Users who are experiencing problems with updating information, or who have any questions about how our services work, may contact us at <a href="mailto:nationalreview@emailcustomerservice.com">nationalreview@emailcustomerservice.com</a>
+your bandwidth speed and information about the software programs that are installed on your computer;
 </p><p>
-If you do not want your personally identifiable information to be shared, you can choose not to allow the transfer by letting us know by e-mailing, calling, or writing us (see addresses below). Similarly, please contact us at the same addresses if at any time you wish to review your personally identifiable information.
+aggregated data about email click-through rates and user video viewing;
 </p><p>
-Currently, nationalreview.com does not offer users a means by which to completely delete personal information submitted while on this site.
+standard server log information; and
 </p><p>
-ADDITIONAL INFORMATION </p>
-<p>
-By using this web site, you signify your assent to this policy statement regarding online privacy. If you do not agree to this Privacy Policy, please do not use our web site. Moreover, your continued use of this web site after we post changes to the Privacy Policy will mean that you accept those changes. If you have any questions about this Privacy Policy, the practices of this web site, or your interaction with Nationalreview.com, you may contact us via mail, email, or the telephone number listed below.
+information collected through HTML cookies, Flash cookies, web beacons, and similar technologies. 
+</p></blockquote><p><b>
+Information we collect from other sources:</b> We may access information about you from third-party sources and platforms (such as social networking sites, databases, online marketing firms, and ad targeting firms), including: 
+</p><blockquote><p>
+if you access third-party social networking services (such as Facebook Connect or Twitter) through NRO, your username and connection lists for those services;
 </p><p>
-National Review, Inc.<br>
-Privacy Policy<br>
-215 Lexington Avenue, 11th Floor<br>
-New York, NY 10016 <br>
-Phone: 1.212.679.7330<br>
-E-mail: <a href="mailto:nationalreview@emailcustomerservice.com">nationalreview@emailcustomerservice.com</a></p>
-</div>  </div>
+demographic data, such as age range, gender, and interests;
+</p><p>
+advertisement interaction and viewing data, such as ad click-through rates and information about how many times you viewed a particular ad; and
+</p><p>
+unique identifiers, including mobile device identification numbers, that can identify the physical location of such devices in accordance with applicable law.</p></blockquote><p>
+Please note that we may combine the information that we collect with information we obtain from third-party sources. 
+</p><p><b>
+HOW WE USE THE INFORMATION WE COLLECT</b>
+</p><p><b>
+E-mail Communications:</b> We may use the information that we collect to send you e-mail communications, such as editorial updates, information about your account or changes to National Review, and promotional messages about our own or our marketing partners’ products and services. If you signed up for one of our e-mail newsletters, we also will send you the newsletter that you requested. 
+</p><p><b>
+Advertising:</b> In order to provide our readers with free access to our content, we display advertisements on the National Review website, many of which are targeted based on information about you. For example, using information collected through cookies, web beacons, and other sources, we may use demographic data or information about your online activities or interests to display targeted advertising that may be relevant to your preferences. Through this process, advertisers reach National Review visitors who are most interested in their products, and you see advertising for products or services in which you may be interested. 
+</p><p>
+Third-party advertisers and advertising platforms also may serve targeted ads on the National Review website. Please remember that the information practices of third-party advertisers or platforms collecting data on our site are not covered by this privacy policy.
+</p><p><b>
+User Accounts:</b> To provide you with an open, but also civil, discussion forum, we track user involvement in our community discussions. For example, we may delete comments per our comment-moderation guidelines in order to maintain civil and open discussions.
+</p><p><b>
+Request Fulfillment:</b> We may use the information that we collect to fulfill your requests for products, services, and information. For example, we may use your contact information to respond to your customer-service requests or to enable you to participate in features on the site such as surveys, polls, sweepstakes, and message boards. 
+</p><p><b>
+INFORMATION SHARING</b>
+</p><p>
+National Review values your privacy, and shares information about our users only under certain circumstances. We will make information about you available to other companies, applications, or people in the circumstances listed below: 
+</p><blockquote><p>
+We may employ third parties to perform NRO-related services, including database management, maintenance services, analytics, marketing, data processing, and email and text message distribution. These third parties have access to your information only to perform these tasks on our behalf.
+</p><p>
+If you choose to engage in public activities on the site, such as posting comments on community message boards, any information you submit can be read, collected, or used by others. Please exercise caution when deciding to disclose any personal<b> i</b>nformation in public activities or submissions.
+</p></blockquote><p>
+Please note that third parties may independently collect data about you, including your IP address and information about the websites you visit and the links you click, through cookies, clicks on links, or other means when you visit or view ads on NRO. 
+</p><p><b>
+THIRD-PARTY SERVICES</b>
+</p><p>
+To customize your experience on the National Review website and to simplify our registration process, we provide you with the opportunity to access or interact with third-party services, such as Facebook and Twitter. When you connect to the site through these third-party services, we may share information about you with these third-party service providers and they may share data about you with us. 
+</p><p>
+In addition, if you connect to a Facebook account, your experience on the site may be personalized. For example, you may automatically see what stories are popular in your network, and what your friends are saying about particular stories. 
+</p><p>
+Please note that you may disconnect third-party accounts at any time. To modify your Facebook privacy settings, click here. To modify your Twitter privacy settings, click here. 
+</p><p>
+Please remember that we do not control the privacy practices of these third-party services. We encourage you to read the privacy policies of all third-party service providers. 
+</p><p><b>
+YOUR ACCOUNT</b>
+</p><p><b>
+Deactivating your account:</b> You can deactivate your account at any time (please use the service through which you signed in). When you deactivate your account, your user profile will be disabled, but your public comments will remain on the site. National Review has no responsibility to take down, remove, or edit any of your public activities or any submissions that are a result of your public activities. 
+</p><p><b>
+Cookies and other technologies</b>: As discussed above, cookies and other technologies, as well as third-party advertisers, may collect information about you.
+</p><blockquote><p>
+<i>Cookies: </i>You can change your browser settings to reject all cookies, accept only certain cookies, or notify you when a cookie is set. Please note that you may need to renew these settings if you delete your cookies after these preferences are made. These settings also may not apply if you are using a different computer or Internet browser.
+</p><p><i>
+NAI:</i> In addition, many third-party advertising networks are members of the Network Advertising Initiative. To opt out of having information collected by NAI member companies used for behavioral advertising, to obtain information about the technologies these ad networks might use, and to view information regarding their privacy policies, please go here.
+</p><p><i>
+Flash Cookies</i>: You can control how Flash cookies are used by visiting the Adobe Macromedia site, located here. Adobe enables you to allow some Flash cookies from certain websites, limit Flash cookies' storage capacity, and disallow Flash cookies altogether. In addition, if you use Mozilla Firefox for your Internet browser, you can download the BetterPrivacy add-on to automatically delete your Flash cookies every time you close your browser.</p></blockquote><p>
+If you opt out of these technologies, you will continue to see advertising displayed on National Review, but the advertising may not be targeted to your interests. 
+</p><p>
+Please remember that we do not have access to, or control over, advertiser or service-provider cookies, and the information practices of third parties are not covered by this privacy policy. 
+</p><p><b>
+CONFIDENTIALITY &amp; SECURITY</b>
+</p><p>
+We limit access to contact information about you to employees or service providers who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. We also have adopted commercially reasonable technical, physical, and administrative procedures to help protect information about you from loss, misuse, and alteration. 
+</p><p>
+Please note that no data transmission or storage can be guaranteed to be 100 percent secure. We want you to feel confident using the National Review website, but we cannot ensure or warrant the security of any information you transmit to us. 
+</p><p><b>
+PRIVACY-POLICY CHANGES</b>
+</p><p>
+We may update this privacy policy at any time to reflect changes in our practices and service offerings. If we modify this privacy policy, we will update the effective date below. We will notify you of any material changes in the way we treat your information by placing a prominent notice on our site or sending a notice to the primary e-mail address specified in your account. 
+</p><p><i>
+Effective Date: February 27, 2014</i></p><p>
+
+</p></div>  </div>
                                   </div>
                       <div id="right-column" class="column">
                 <div class="region region-right">
-    <div id="block-search-form" class="block block-search">
+    <div id="block-block-97" class="block block-block">
 
     
   <div class="content">
-    <form action="/privacy" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
-      <h2 class="element-invisible">Search form</h2>
-    <div class="form-item form-type-textfield form-item-search-block-form">
-  <label class="element-invisible" for="edit-search-block-form--2">Search </label>
- <input title="Enter the terms you wish to search for." type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text">
-</div>
-<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit"></div><input type="hidden" name="form_build_id" value="form-Aoympdx9qzhHC5FpJqkfg8KEnkVR67GP_Rgs4w-RXeM">
-<input type="hidden" name="form_id" value="search_block_form">
-</div>
-</div></form>  </div>
-</div>
-<div id="block-nro-block-doubleclick-1" class="block block-nro-block">
-
-    
-  <div class="content">
-    <p>
-  <script type="text/javascript">
-  //<![CDATA[ 
-  ord=Math.random()*10000000000000000; window.dctile = Number(window.dctile) + 1 || 1; document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/nro.com/;pos=x01;tile=2;sz=160x600,300x250,300x600;ord=' + ord + ';dctile=' + dctile + '?"><\/script>'); //]]> </script><script type="text/javascript" src="http://ad.doubleclick.net/adj/nro.com/;pos=x01;tile=2;sz=160x600,300x250,300x600;ord=8139561069197767;dctile=2?"></script>
-  <noscript><a href="http://ad.doubleclick.net/jump/nro.com/;pos=x01;tile=2;sz=160x600,300x250,300x600;ord=123456789?" target="_blank" ><img src="http://ad.doubleclick.net/ad/nro.com/;pos=x01;tile=2;sz=160x600,300x250,300x600;ord=123456789?" border="0" alt="" /></a></noscript> 
-
-</p>
-
-  </div>
+    <!--smart_paging_filter--><p>
+<!-- national review online -->
+</p><div id="div-gpt-ad-x01"> <script type="text/javascript"> googletag.display('div-gpt-ad-x01'); </script> </div>
+<p>  </p></div>
 </div>
 <div id="block-block-1" class="block block-block">
 
@@ -390,19 +412,19 @@ background:#fff url(http://global.nationalreview.com/images/liq1.gif) repeat-y l
 .liquidtop {
 width:100%;
 height:20px;
-background:url(http://global.nationalreview.com/images/liq2.gif) no-repeat left top;
+background:url(https://www.nationalreview.com/sites/default/files/images/liq2.gif) no-repeat left top;
 }
 
 .liquidtop span {
 display:block;
 position:relative;
 height:20px;
-background:url(http://global.nationalreview.com/images/liq3.gif) no-repeat right top;
+background:url(https://www.nationalreview.com/sites/default/files/images/liq3.gif) no-repeat right top;
 }
 
 .liquidcontent {
 position:relative;
-background:url(http://global.nationalreview.com/images/liq4.gif) repeat-y right top;
+background:url(https://www.nationalreview.com/sites/default/files/images/liq4.gif) repeat-y right top;
 padding: 0px;
 margin:-1px 0 -50px 0;
 height:200px;
@@ -410,14 +432,14 @@ height:200px;
 
 .liquidbottom {
 height:60px;
-background:url(http://global.nationalreview.com/images_test_12-11-08/liq5.gif) no-repeat left bottom;
+background:url(https://www.nationalreview.com/sites/default/files/images_test_12-11-08/liq5.gif) no-repeat left bottom;
 }
 
 .liquidbottom span {
 display:block;
 position:relative;
 height:60px;
-background:url(http://global.nationalreview.com/images_test_12-11-08/liq6.gif) no-repeat right top;
+background:url(https://www.nationalreview.com/sites/default/files/images_test_12-11-08/liq6.gif) no-repeat right top;
 }
 </style>
 
@@ -435,7 +457,7 @@ background:url(http://global.nationalreview.com/images_test_12-11-08/liq6.gif) n
 	
 <div class="liquidcontent">
 	
-<div style="width:283px; height:160px; position:absolute; top:-14px; left:5px;" align="center"><img src="http://global.nationalreview.com/images/pic_homepage_newsletter-box_topC_022013.jpg">
+<div style="width:283px; height:160px; position:absolute; top:-14px; left:5px;" align="center"><img src="https://www.nationalreview.com/sites/default/files/images/pic_homepage_newsletter-box_topC_022013.jpg">
 <div id="newsmax-block-bottom">
 
 <div style="width:100%; margin-top:20px;" align="center">
@@ -444,7 +466,7 @@ background:url(http://global.nationalreview.com/images_test_12-11-08/liq6.gif) n
 </div>
 
 <div style="float:left; margin-left:20px;">
-<input id="newsmaxSignupSubmit" type="image" name="image" value="image" src="http://global.nationalreview.com/images/pic_newsletter-signup_static_022013.jpg" width="85" height="37">
+<input id="newsmaxSignupSubmit" type="image" name="image" value="image" src="https://www.nationalreview.com/sites/default/files/images/pic_newsletter-signup_static_022013.jpg" width="85" height="37">
 
 </div>
 </div>
@@ -509,21 +531,15 @@ background:url(http://global.nationalreview.com/images_test_12-11-08/liq6.gif) n
 
   </div>
 </div>
-<div id="block-nro-block-doubleclick-2" class="block block-nro-block">
+<div id="block-block-98" class="block block-block">
 
     
   <div class="content">
-    <div class="house" align="center">
-  <script type="text/javascript">
-  //<![CDATA[ 
-  ord=Math.random()*10000000000000000;
-  window.dctile = Number(window.dctile) + 1 || 1;
-  document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/nro.com/;pos=x02;tile=3;sz=160x600,300x250,300x600;ord=' + ord + ';dctile=' + dctile + '?"><\/script>'); //]]>
-  </script><script type="text/javascript" src="http://ad.doubleclick.net/adj/nro.com/;pos=x02;tile=3;sz=160x600,300x250,300x600;ord=7194276175011416;dctile=3?"></script>
-  <noscript><a href="http://ad.doubleclick.net/jump/nro.com/;pos=x02;tile=3;sz=160x600,300x250,300x600;ord=123456789?" target="_blank" ><img src="http://ad.doubleclick.net/ad/nro.com/;pos=x02;tile=3;sz=160x600,300x250,300x600;ord=123456789?" border="0" alt="" /></a>
-  </noscript>
-</div>
-  </div>
+    <!--smart_paging_filter-->
+<p>
+<!-- national review online -->
+</p><div id="div-gpt-ad-x02"> <script type="text/javascript"> googletag.display('div-gpt-ad-x02'); </script> </div>
+<p></p>  </div>
 </div>
 <div id="block-nro-block-subscribe" class="block block-nro-block">
 
@@ -549,12 +565,12 @@ background:url(http://global.nationalreview.com/images_test_12-11-08/liq6.gif) n
   
   <div class="content">
     <ul class="clearfix">
-  <li class="facebook-link"><a href="http://www.facebook.com/nationalreview"><img src="http://global.nationalreview.com/images/connect/facebook.png" border="0"></a></li>
-  <li class="twitter-link"><a href="http://www.twitter.com/nro"><img src="http://global.nationalreview.com/images/connect/twitter.png" border="0"></a></li>
-	<li class="google-plus-link"><a href="https://plus.google.com/110893840010291820104" rel="publisher"><img src="http://global.nationalreview.com/images/connect/google-plus.png" border="0"></a></li>
-	  <li class="youtube-link"><a href="http://www.youtube.com/nrovideos"><img src="http://global.nationalreview.com/images/connect/youtube.png" border="0"></a></li>
-  <li class="mail-link"><a href="mailto:letters@nationalreview.com"><img src="http://global.nationalreview.com/images/connect/email.png" border="0"></a></li>
-   <li class="rss-link"><a href="https://www.nationalreview.com/rss.xml"><img src="http://global.nationalreview.com/images/connect/rss.png" border="0"></a></li>
+  <li class="facebook-link"><a href="http://www.facebook.com/nationalreview"><img src="https://www.nationalreview.com/sites/default/files/images/connect/facebook.png" border="0"></a></li>
+  <li class="twitter-link"><a href="http://www.twitter.com/nro"><img src="https://www.nationalreview.com/sites/default/files/images/connect/twitter.png" border="0"></a></li>
+	<li class="google-plus-link"><a href="https://plus.google.com/110893840010291820104" rel="publisher"><img src="https://www.nationalreview.com/sites/default/files/images/connect/google-plus.png" border="0"></a></li>
+	  <li class="youtube-link"><a href="http://www.youtube.com/nrovideos"><img src="https://www.nationalreview.com/sites/default/files/images/connect/youtube.png" border="0"></a></li>
+  <li class="mail-link"><a href="mailto:letters@nationalreview.com"><img src="https://www.nationalreview.com/sites/default/files/images/connect/email.png" border="0"></a></li>
+   <li class="rss-link"><a href="https://www.nationalreview.com/rss.xml"><img src="https://www.nationalreview.com/sites/default/files/images/connect/rss.png" border="0"></a></li>
 
 </ul>
   </div>
@@ -570,11 +586,11 @@ background:url(http://global.nationalreview.com/images_test_12-11-08/liq6.gif) n
     <div id="footer" class="clearfix">
       <div id="footer-bkgd">
   <a href="https://www.nationalreview.com/subscribe/nr.p">
-    <img src="http://global.nationalreview.com/images/spacer.gif" height="60" width="900" border="0">
+    <img src="http://www.nationalreview.com/sites/default/files/images/spacer.gif" height="60" width="900" border="0">
   </a>
 </div>
 
-<div id="footer_row_top">© National Review Online 2013. All Rights Reserved.</div>
+<div id="footer_row_top">© National Review Online 2014. All Rights Reserved.</div>
 <div id="footer_row">
 
   <a class="footer_white" href="/">Home</a>&nbsp;&nbsp;|&nbsp;&nbsp;
@@ -585,7 +601,6 @@ background:url(http://global.nationalreview.com/images_test_12-11-08/liq6.gif) n
   
     <a id="viewMobile" class="footer_white" href="http://m.nationalreview.com/">View Mobile Site</a>&nbsp;&nbsp;|&nbsp;&nbsp;
   
-  <a class="footer_white" href="/">Site Problems</a>&nbsp;&nbsp;|&nbsp;&nbsp;
   <a class="footer_white" href="/contact">Contact Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;
   <a class="footer_white" href="/privacy">Privacy Policy</a>
 </div>
@@ -615,10 +630,22 @@ var google_remarketing_only = true;
 
   </div></div> <!-- /.section, /#footer-wrapper -->
 </div></div> <!-- /#page, /#page-wrapper -->
-  	<!-- Pinterest hover -->
+  <script type="text/javascript" src="//cdn.tinypass.com/api/tinypass.min.js"></script>
+			<script type="text/javascript">
+				tp = tp || {};
+				tp.aid = "sUDuerREdW";
+				tp.trackPages = true;
+				tp.contentCreatedSelector = "div.article_date > span.article_timestamp";
+				tp.init();
+			</script>	<!-- Pinterest hover -->
 	<script type="text/javascript" data-pin-hover="true" src="//assets.pinterest.com/js/pinit.js"></script>
 
 	
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-2.newrelic.com","licenseKey":"6b8f18fc41","applicationID":"2939700","transactionName":"YwNTYhEFX0UEVkdYDFpJcFUXDV5YSltBXjxXCV9CEQtdaRVHWkcCVx8=","queueTime":0,"applicationTime":312,"ttGuid":"","agentToken":"","atts":"T0RQFFkfTEs=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script><script type="text/javascript">
+/* <![CDATA[ */
+(function(){try{var s,a,i,j,r,c,l=document.getElementsByTagName("a"),t=document.createElement("textarea");for(i=0;l.length-i;i++){try{a=l[i].getAttribute("href");if(a&&"www.cloudflare.com/email-protection"==a.substr(7 ,35)){s='';j=43;r=parseInt(a.substr(j,2),16);for(j+=2;a.length-j&&a.substr(j,1)!='X';j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}j+=1;s+=a.substr(j,a.length-j);t.innerHTML=s.replace(/</g,"&lt;").replace(/>/g,"&gt;");l[i].setAttribute("href","mailto:"+t.value);}}catch(e){}}}catch(e){}})();
+/* ]]> */
+</script>
 
 <!-- Start Quantcast tag -->
 <script type="text/javascript">
@@ -656,6 +683,7 @@ var google_remarketing_only = true;
   function track_event_click(action,label,track_page_view,category){if (typeof(category)=="undefined"){var category="Event Click"}if (typeof(track_page_view)=="undefined"){track_page_view=true;var pageview="/"+category+"_"+action+"_"+label}if(track_page_view){pageTracker._trackPageview(pageview)}label=action+": "+label;pageTracker._trackEvent(category,action,label)};
 </script>
 <!-- End -->
+
 <!--Chartbeat-->
 <script type="text/javascript">
 var _sf_async_config={uid:22270,domain:"nationalreview.com"};
@@ -682,4 +710,4 @@ var _sf_async_config={uid:22270,domain:"nationalreview.com"};
 var s = document.createElement("script"); s.type = "text/javascript"; s.async = true; s.src = "http://cdn.engine.4dsply.com/Scripts/infinity.js.aspx";
 s.id = "infinity"; s.setAttribute("data-guid", "b10a68e0-0178-42b1-a256-afeb4b619d52"); s.setAttribute("data-version", "async"); var e = document.getElementsByTagName('script')[0]; e.parentNode.insertBefore(s, e); })(); </script>
 <!-- End -->
-<script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js"></script></body></html>
+<script src="https://js-agent.newrelic.com/nr-411.min.js"></script><script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat.js"></script></body></html>
