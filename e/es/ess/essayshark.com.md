@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the essayshark.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124123404id_/http%3A//essayshark.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the essayshark.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628230306id_/https%3A//essayshark.com/privacy-policy.html) for the most accurate reproduction.*
 
 # EssayShark Privacy Policy | Read the Details of our Policy on Customers' Personal Information
 
-The statements below show details of our policy, and about what personal information we collect every time you visit the EssayShark.com website.
+The statements below show details of our policy, and about what personal information we collect every time you visit the EssayShark website.
 
 The information we collect is only used for improving the content of our webpages and for customizing it in accordance with our clients’ individual preferences. No personal information collected for these purposes is disclosed to any third parties.
 
@@ -12,9 +12,20 @@ The statistical data that our webserver collects as you browse the website inclu
 
 ### About Cookies
 
-Cookies are text files used to identify your computer to our server. Cookies identify the computer being used, not a specific individual user. This tool is used by many different websites to monitor visitor traffic.
+Cookies are text files used to identify a computer to a server. Cookies identify, which computer is being used, not a specific individual user. This tool is used by many different websites to monitor visitor traffic. Cookies gather information about areas of a website that users visit, and the time spent on a particular page.
 
-Cookies gather information about areas of the website the user visits, and the time spent on a particular page. Users can modify browser settings to accept all cookies, to receive a notification every time a cookie is used, or not to receive cookies at all. In case of the last option, the user might not be able to use some personalized services.
+On EssayShark, both session (temporary) and persistent (long-term) cookies are used; they serve the following functions:
+
+  * To remember that a user is in the process of making an order.
+  * To remember that a user is signed in.
+  * To display the date and time in accordance with the user's timezone.
+  * To improve user experience and make web-site navigation more convenient.
+
+
+
+Cookies may also be used by some exterior services that function on EssayShark, including Google Analytics, Google Plus, Facebook, Twitter, and PayPal. However, EssayShark does NOT distribute user's personal information to third parties, provided they are not involved in the process of placing, completing, or delivering an order.
+
+Users can modify browser settings to accept all cookies, to receive a notification every time a cookie is used, or not to receive cookies at all. In case of the last option, the user might not be able to use some personalized services.
 
 ### Use of optional information
 
@@ -44,4 +55,4 @@ Because we constantly work on updating and improving our website, our policies c
 
 ### Access to information
 
-You can ask to be provided with any personal information that EssayShark.com holds about you. You can also ask for any inaccuracies to be corrected, to make sure the personal information we hold about you is always up-to-date and accurate. Such information requests are subject to a separate charge of $35. Upon such a request of yours, we provide you with access to all information we maintain about you, subject to the conditions of the Data Protection Act 1998. You may request this service by contacting our support team any time.
+You can ask to be provided with any personal information that EssayShark holds about you. You can also ask for any inaccuracies to be corrected, to make sure the personal information we hold about you is always up-to-date and accurate. Such information requests are subject to a separate charge of $35. Upon such a request of yours, we provide you with access to all information we maintain about you, subject to the conditions of the Data Protection Act 1998. You may request this service by contacting our support team any time.
