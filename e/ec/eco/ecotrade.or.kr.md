@@ -1,99 +1,195 @@
-> *The following text is extracted and transformed from the ecotrade.or.kr privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226104343id_/http%3A//www.ecotrade.org/f.to/guide/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecotrade.or.kr privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628062853id_/http%3A//www.ecotrade.org/f.to/guide/privacy_policy.html) for the most accurate reproduction.*
 
 # Environmental marketplace for Korea environmental technology & product | ECOTRADE
 
-1\. The Information We Collect 
+**Privacy Policy**
 
-1.1 Registration Information.   
-At the time you register to become a Registered User of the Site, you will be asked to fill out a registration form which requires you provide information such as your name, address, phone/fax number, email address and other personal information as well as information about your business (“Registration Information”).   
-1.2 Publishing Information.   
-If you submit any information to KONETIC to be published on the Site through the publishing tools, including but not limited to Company Directory, Product Catalog, Trade Leads, then you are deemed to have given consent to the publication of such information (“Publishing Information”).   
-1.3 Payment Information.   
-If you establish a credit account with us or our providers or if you purchase a product or service from KONETIC or a vendor available through KONETIC, we may collect additional information, including billing information, credit card numbers and expiration dates and tracking information from cheques or money orders (“Payment Information”).   
-1.4 Statistical Information.   
-In addition, we gather aggregate statistical information about our Site and Users, such as IP addresses, browser software, operating system, pages viewed, number of sessions and unique visitors, etc. (“Statistical Information”).   
-1.5 Registration Information, Publishing Information, Payment Information, Statistical Information and any information we may collect from you through the use of cookies (see Section 5 below) or any other means shall collectively be referred to as “Collected Information”. 
+This Privacy Policy sets out in accordance with the Privacy Act to protect user's personal information and rights and to seamlessly handle user's complaints relating to private information in relation to the Ecotrade.org(operated by KEITI,Korea Environmental Industry & Technology Institute) 
 
-2\. How We May Use Information 
+If there will be any revision of the following Privacy policy, the Ecotrade will notify on our Website(ecotrade.org).
 
-2.1 General.   
-We use your Collected Information to improve our marketing and promotional efforts, to statistically analyze site usage, to improve our content and product offerings and to customize our Site's content, layout and service specifically for you.   
-We may use your Collected Information to service your Account with us, including but not limited to investigating problems, resolving disputes and enforcing agreements with us.   
-We may share certain aggregate information based on analysis of Collected Information with our partners, customers, advertisers or potential Users.   
-We may use your Collected Information to execute marketing campaigns, promotions or advertising messages on behalf of third parties; however, in these circumstances, your Collected Information will not be disclosed to such third parties unless you respond to the marketing, promotion or advertising message.   
-2.2 Registration Information.   
-We may use your Registration Information to provide services that you request or to contact you regarding additional services about which KONETIC determines that you might be interested.   
-Specifically, we may use your email address, mailing address, phone number or fax number to contact you regarding notices, surveys, product alerts, new service or product offerings and communications relevant to your use of our Site.   
-We may generate reports and analysis based on the Registration Information for internal analysis, monitoring and marketing decisions.   
-2.3 Publishing Information.   
-All of your Publishing Information will be publicly available on the Site and therefore accessible by any internet user.   
-Any Publishing Information that you disclose to KONETIC becomes public information and you relinquish any proprietary rights (including but not limited to the rights of confidentiality and copyrights) in such information.   
-You should exercise caution when deciding to include personal or proprietary information in the Publishing Information that you submit to us.   
-2.4 Payment Information.   
-KONETIC will share your Payment Information with banks or vendors relevant to the transaction in order to enable transactions to be completed. In addition, KONETIC may use Payment Information to determine your credit-worthiness and, in the process of such determination, KONETIC may make such Payment Information available to banks or credit agencies.   
-Any credit card information that you provide through the Site is directly submitted to a payment server of the credit card processing bank. KONETIC does not maintain electronic or physical copies of your credit card information.   
-While KONETIC has in place up-to-date technology and internal procedures to guard your Payment Information against intruders, there is no guarantee that such technology or procedure can eliminate all of the risks of theft, loss or mis-use.   
-KONETIC shall not be liable to you or any other person for any damages that might result from unauthorized use, publication, disclosure or any other mis-use of Payment Information, including credit card information.   
-2.5 Statistical Information.   
-We use Statistical Information to help diagnose problems with and maintain our computer servers, to manage our Site, and to enhance your Site and services based on the usage pattern data we receive.   
-We may generate reports and analysis based on the Statistical Information for internal analysis, monitoring and marketing decisions.   
-We may provide Statistical Information to third parties, but when we do so, we do not provide personally-identifying information without your permission. 
+This policy will be effective from Jan. 1, 2014
 
-3\. Disclosure of Information 
+**1\. Purpose**
 
-3.1 We reserve the right to disclose your Collected Information to relevant authorities where we have reason to believe that such disclosure is necessary to identify, contact or bring legal action against someone who may be infringing or threatening to infringe, or who may otherwise be causing injury to or interference with, the title, rights, interests or property of KONETIC, our Users, customers, partners, other web site users or anyone else who could be harmed by such activities.   
-3.2 We also reserve the right to disclose Collected Information in response to a subpoena or other judicial order or when we reasonably believe that such disclosure is required by law, regulation or administrative order of any court, governmental or regulatory authority.   
-3.3 If we have reason to believe that a User is in breach of the Terms of User Agreement or any other agreement with us, then we reserve the right to make public or otherwise disclose such User’s Collected Information in order to pursue our claim or prevent further injury to KONETIC or others. 
+The **purposes** of collecting personal information is as follows. Collected information will not be used for the purposes other than it's intended and will gain a prior consent if its proposes are changed
 
-4\. Co-Branded Relationships 
+\- Maintenance
 
-We have established relationships with other parties to offer you the benefit of other products and services which we ourselves do not offer.   
-We offer you access to these other parties either through the use of hyperlinks to their sites from our Site, or through offering "co-branded" sites in which both ourselves and these other parties share the same uniform resource locator, domain name or pages within a domain name on the Internet.   
-In some cases you may be required to submit information for purposes of registering or applying for products or services provided by such third parties or co-branded partners.   
-The privacy policy of such other parties may differ from ours, and we may not have any control over the information that you submit to such third parties or co-branded sites.   
-We therefore encourage you to read that policy before responding to any offers, products or services provided by such other parties. 
+1) verifying your identity
 
-5\. Cookies 
+2) verifying your eligibility to register as a user of the Sites
 
-5.1 We use “cookies” to store specific information about you and track your visits to our Site. It is not uncommon for web sites to use cookies to enhance identification of their users. A “cookie” is a small amount of data that is sent to your browser and stored on your computer's hard drive.   
-A cookie can be sent to your computer’s hard drive only if you access our Site using the computer.   
-If you do not de-activate or erase the cookie, each time you use the same computer to access our Site, our web servers will be notified of your visit to our Site and in turn we may have knowledge of your visit and the pattern of your usage.   
-Generally, we use cookies to identify you and enable us to access your Registration Information, Publishing Information or Payment Information so you do not have to re-enter it; gather statistical information about usage by Users; research visiting patters and help target advertisements based on User interests; assist our partners to track User visits to the Site and process orders; and track progress and participation in promotions.   
-5.2 You can determine if and how a cookie will be accepted by configuring your browser’s which is installed in the computer you are using to access the Site.   
-If you desire, you can change those configurations in your browser.   
-By setting your preferences in the browser, you can accept all cookies, you can be notified when a cookie is sent, or you can reject all cookies.   
-If you reject all cookies by choosing the cookie-disabling function in your browser, you may be required to re-enter your information on our Site more often and certain features of our Site may be unavailable. 
+3) processing your registration as a user, providing you with a log-in ID for the Sites and maintaining and managing your registration
 
-6\. Minors 
+4) providing you with customer service and responding to your queries, feedback, claims or disputes
 
-The Site and its contents are not intended to be targeted to minors under applicable law and we do not intend to sell any of our products or services to minors.   
-However, we have no way of distinguishing the age of individuals who access our Site and so we carry out the same Privacy Policy for individuals of all ages.   
-If a minor has provided us with personal information without parental or guardian consent, the parent or guardian should contact us to remove the information. 
+\- Claims
 
-7\. Security Measures 
+verifying identification of complainant, confirming claims, and notifying results of responding your claims and fact finding
 
-7.1 We employ commercially reasonable security methods to prevent unauthorized access, maintain data accuracy and ensure correct use of information.   
-7.2 As a Registered User, your Registration Information, Publishing Information and Payment Information (if any) can be viewed and edited through your Account which is protected by Password.   
-We recommend that you do not divulge your Password to anyone.   
-Our personnel will never ask you for your Password in an unsolicited phone call or in an unsolicited e-mail. If you share a computer with others, you should not choose to save your log-in information (e.g., User ID and Password) on the computer.   
-Remember to sign out of your Account and close your browser window when you have finished your session.   
-7.3 No data transmission over the Internet or any wireless network can be guaranteed to be perfectly secured.   
-As a result, while we try to protect your information, no web site or company, including ourselves, can absolutely ensure or guarantee the security of any information you transmit to us and you do so at your own risk. 
+\- Contents & Services
 
-8\. Changes to Privacy Policy 
+providing appropriate, timely, and quality services & contents
 
-Any changes to this Privacy Policy will be communicated through our posting an amended and restated Privacy Policy on our Site.   
-Our posting the amended and restated Privacy Policy will make such new Privacy Policy immediately effective.   
-You agree that all Collected Information (whether or not collected prior to or after the new policy became effective) will be governed by the newest Privacy Policy then in effect.   
-If you do not agree to the new changes in our Privacy Policy, you should contact KONETIC in writing (at the address set out in the Notice provision of the Terms of Use Agreement) and specifically request that KONETIC return and/or destroy all copies of all or part of your Collected Information in KONETIC’s possession.   
-This Privacy Policy was last amended on December 10, 2004. 
+\- Research or Statistical analysis
 
-9\. Correcting Your Information 
+performing research or statistical analysis in order to improve our service, provide customized service, and for the promotional purposes
 
-You can access, view and edit your Registration Information, Publishing Information and Payment Information (if any) through your Account with KONETIC.   
-To update or correct such information, please click here 
+**2\. Collection of Information**
 
-10\. Your feedback 
+Your information including, but not limited to, User ID, User Full Name and etc("Registration Information") may be collected at the time of user registration on the Sites.  
+\- Mandatory Information : Business Registration Number, User ID, Password, E-mail, Confirmation Code, User Full Name, Company Name, Street Address, Ku/Kun/City, City/Province, Zip/Postal Code, Phone, Brief Company Description, Main Product / Services Name, Keywords, Category  
+\- Optional Information : Department, Job Title, Fax, Export Amount  
 
-KONETIC welcomes your continuous input regarding our Privacy Policy or our services provided to you.   
-You may send us your comments and responses to konetic@keiti.re.kr. 
+
+**3\. Retention**
+
+Your registration information will be collected and retained from the date of your consent under applicable laws(in accordance with Article 15, paragraph 1). And your registration information will be starlike from record within 5days on the date of your withdrawal of registration 
+
+**4.** **Information sharing and offering**
+
+Your registration information may be provided to third parties only when applied to the law(in accordance with Article 17 & 18)
+
+**5\. Entrust of collected personal information**
+
+① For the smooth fulfillment of processing personal information, the Ecotrade entrust following assignments to consignee. 
+
+\- consignee : ecplaza
+
+\- assignments : system refine, operation, and manintanace
+
+\- period : 2014. 5. 8 ~ 2014. 12. 12
+
+② When make a contract with consignee for assigned tasks, the Ecotrade state contract item(supervision, technological/systematic restraint for protection, liability for damages, prohibition of reconsignment, etc) and exercise supervision of consignee in accordance with Article 25 of the Privacy Act
+
+③ In case commissioning tasks and change of consignee, the Ecotrade will notify it on Private Policy without delay
+
+**6\. User's Rights**
+
+Users are able to exercise the following rights
+
+① Users are able to exercise the following subjects regarding the rights of private information at any time.
+
+1\. Request for viewing personal information
+
+2\. Request for correction if there is an error
+
+3\. Request for deletion
+
+4\. Request for stop processing
+
+② In relation to the paragraph (1), users are able to exercise the rights in accordance with Attachment No. 8 format, documentation, e-mail, and facsimile(FAX). The Ecotrade respond to it without delay.
+
+③ When users request correction and deletion on errors of private information, the Ecotrade will not provide or take advantage of private information not until its work are completed.
+
+④ Users are able to exercise of the rights stated paragraph (1), through the legal representative. In this case, power of attorney must be submitted according to the format(Personal Information Protection Act Enforcement Rules of Attachment No. 11)
+
+**7.** **Disposal**
+
+The Ecotrade in principle disposes a user's personal information without delay after the stated goals are fulfilled. The Ecotrade destroys the personal information in the following procedures and ways
+
+\- Procedures of disposalThe information that users offer for registration is moved to a separate database (a separate file box for papers) after the information is used for the intended purpose, stored for certain period of time for reasons of information protection under internal policy and relevant legislations (Please refer to 4. Retention above) and destroyed. The information transferred to a separate database is not used for any other purpose than being retained unless specified by law.
+
+\- Destruction deadline
+
+The privacy of personal information if the retention period has passed within 5 days from the end of the retention period, to achieve the purpose of processing personal data, the abolition of the service, including the termination of the business that have been unnecessarily when personal information is personal information the treatment is deemed unnecessary within 5 days from the date that your personal information be discarded.
+
+**8\. Measures ensuring the safety**
+
+**According to Privacy Act Article 29, Ecotrade handles the users's privacy with technological and systematic approach for securing safety.**
+
+1\. Personal & Education   
+Designating and limiting person in charge of personal information
+
+2\. Internal Control Plan  
+To secure the personal information, the Ecotrade set out the internal control plan
+
+3\. Encrypted personal information   
+As the personal information is encrypted and managed, Personal Information is encrypted and controled and transfer important data to a file or encrypt data such as the use of file locking using a separate security
+
+4\. Countermeasure against hacking  
+The Ecotrade does its best to prevent users’ privacy from being disclosed or compromised by hacking or computer viruses. The information are periodically protected with the most up-to-date vaccine programs. Also The supervisory systems are installed and controlled in a restricted area with technological and systematic approaches.
+
+5\. Access   
+The Ecotrade do necessary measures by controlling access to the database system and its access rights are authorized, changed, and cancelled as needed. and By using a firewall to control the unauthorized access from the outside
+
+6\. Login record  
+The Ecotrade handles the users’ privacy with technological and systematic approaches to prevent loss, theft, leakages, alteration, and compromise and to secure stability of the information. Also the Ecotrade retains login history at least 6 months.
+
+7\. Infringement of rights  
+
+
+① Counseling on the breach of privacy, please contact the following institutions  
+
+
+1\. Personal information Dispute Mediation Committee(www.kopico.or.kr/02-405-5150)
+
+2\. KISA PRIVACY center (www.1336.or.kr/ 118 without prefix)
+
+3\. Supreme Prosecutors’ Office Cybercrime Investigation Department (http://www.spo.go.k/02-3480-2000) 
+
+4\. Korean National Police Agency cyber terror response center (www.ctrc.go.kr/1566-0112)
+
+② Users who are violated rights or benefit from the administrative measure or unterlassung taken by the head of public institutions in accordance with Article 35 of the Privacy Act (Reading on the Privacy information), Article 36 (Correction and Deletion), Article 37 (Prohibition on the processing privacy information etc.) are able to request administrative judgment accroding to Administrative Appeals Act  
+
+
+**9.** **Responsible person**
+
+① KEITI(Korea Environmental Industry & Technology) designates the following personnel and department to protect personal information and to handle complaints raised by the participants.
+
+| Department | Name or Position | Contact Information  
+---|---|---|---  
+Responsible person | KONETIC | Head of KONETIC | E-mail : eco@keiti.re.kr  
+Senior responsible person | KONETIC | Lee, Young-jun | E-mail : yjlee@keiti.re.kr  
+Handler | KONETIC | Hong, Jun-Seok | Tel : 02-380-0568   
+E-mail : thankyou@keiti.re.kr  
+  
+② Users(information provider) can contact the security department when there is any problem in relation to the protection of private policy, complaints, and consequent damage. KEITI will respond to your queries without delay.
+
+Department in charge 
+
+of managing personal 
+
+information
+
+| Department | 
+
+Name
+
+| 
+
+Contact Information  
+  
+---|---|---|---  
+  
+KONETIC
+
+| 
+
+Kim, Moo-Gyeom
+
+| 
+
+Tel : 02-380-0553
+
+E-mail : mgkim@keiti.re.kr
+
+Fax : 02-380-0590  
+  
+Kim, Dae-Won
+
+| 
+
+Tel : 02-380-0564
+
+E-mail : dwkim@keiti.re.kr
+
+Fax : 02-380-0590  
+  
+**10\. Duty of notice**
+
+① Any addition, deletion, and revision on this Personal Information Policy shall be posted at least a week before the amendment at ‘Notices’ on the website.
+
+② Former private policy may be found as below  
+\- The date enforcement of the law ~ 2013. 12. 31. [Click](https://web.archive.org/f.to/guide/privacy_policy.html?version=prev)
