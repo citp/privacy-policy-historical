@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bls.gov privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210062657id_/http%3A//www.bls.gov/bls/pss.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bls.gov privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628054233id_/http%3A//www.bls.gov/bls/pss.htm) for the most accurate reproduction.*
 
 # Privacy and Security Statement
 
@@ -52,7 +52,7 @@ The BLS website uses the following web measurement and customization technologie
 
   * Session cookies are used for technical purposes, such as remembering your time series selections from one page to another while using the BLS data query tools. Under the Office of Management and Budget's guidance, this qualifies as a Tier 1 use.
   * Session cookies are used to track the number of pages you have viewed before showing you a customer satisfaction survey. Under the Office of Management and Budget's guidance, this qualifies as a Tier 1 use.
-  * Third-party session cookies are used by our analytics provider (currently WebTrends OnDemand). The analytics provider does not receive personally identifying information through these cookies and does not combine, match, or cross-reference bls.gov information with any other information. Under the Office of Management and Budget's guidance, this qualifies as a Tier 1 use.
+  * Third-party session cookies are used by our analytics provider (currently Google Analytics). The analytics provider does not receive personally identifying information through these cookies and does not combine, match, or cross-reference bls.gov information with any other information. Under the Office of Management and Budget's guidance, this qualifies as a Tier 1 use.
   * Persistent cookies are used to recognize a computer that has previously visited bls.gov. The BLS website sets persistent cookies to assess which pages are popular, how often people visit the website, and other measures. These cookies do not collect personally identifying information. Under the Office of Management and Budget's guidance, this qualifies as a Tier 2 use.
 
 
@@ -80,4 +80,4 @@ BLS will block robots that access the website in any way that BLS considers exce
 
 _**NOTE:** Robots using a specific IP address (for example, 146.142.xx.xx) instead of an official BLS URL (such as www.bls.gov or data.bls.gov) are at risk of not receiving data promptly at prescribed times._
 
-**Last Modified Date:** June 13, 2012
+**Last Modified Date:** April 2, 2014
