@@ -1,8 +1,16 @@
-> *The following text is extracted and transformed from the squarespace.com privacy policy that was archived on 2013-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130629154717id_/http%3A//www.squarespace.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the squarespace.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628180845id_/https%3A//www.squarespace.com/privacy) for the most accurate reproduction.*
 
 # Squarespace Privacy Policy — Squarespace
 
-Squarespace, Inc. complies with the U.S.–E.U. Safe Harbor framework and the U.S.–Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Squarespace, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Squarespace, Inc.’s certification, please visit <http://www.export.gov/safeharbor/>.
+_Last updated: April 15, 2013_
+
+Thank you for visiting Squarespace. Squarespace is committed to honoring the privacy of our members and visitors. This privacy policy, part of our overall [Terms of Service](https://www.squarespace.com/terms) (“Terms of Service”), covers personally identifiable information shared through Squarespace. 
+
+This privacy policy applies to www.squarespace.com, owned and operated by Squarespace, Inc. (“Squarespace”). This privacy policy describes how Squarespace, Inc. collects and uses the personal information you provide on our web site: www.squarespace.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+
+Squarespace, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site, www.squarespace.com. 
+
+TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at privacy@squarespace.com. If you are not satisfied with our response you can [contact TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
 Squarespace takes your privacy seriously. We will not sell, lease, or exchange your personal data to, or otherwise share your personal data with, third parties in ways other than described in this Privacy Policy. By using Squarespace, including services available at the squarespace.com domains, you are using a service provided by Squarespace, Inc. (collectively, the “Service”) and you agree to be bound by the Terms of Service and this Privacy Policy. Some capitalized terms used in this Privacy Policy and not otherwise defined may be defined in the Terms of Service. This Privacy Policy only addresses activities from our servers. 
 
@@ -192,7 +200,7 @@ If you have any questions or suggestions regarding our privacy policy, please co
 
 Squarespace is located at: 
 
-Squarespace Inc.   
+Squarespace Inc.  
 459 Broadway 5th Floor  
 New York, NY 10013
 
@@ -201,5 +209,5 @@ All correspondence should be sent to: 
 Squarespace Inc.  
 ATTN: COO  
 Re: Privacy Concern  
-459 Broadway, 5th Floor   
+459 Broadway, 5th Floor  
 New York, NY 10013
