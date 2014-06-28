@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prizeo.com privacy policy that was archived on 2013-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130812142300id_/http%3A//www.prizeo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prizeo.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628110430id_/http%3A//prizeo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Prizeo
 
@@ -10,6 +10,6 @@
   4. We will only keep your personal information for as long as is necessary. We may, from time to time, expand or reduce our business and this may involve the sale of certain divisions or the transfer of control of certain divisions to other parties. Data provided by Users will, where relevant, be transferred and the new owner or new controlling party will, under the terms of this Privacy Policy, be permitted to use such data for the purposes for which it was supplied by you. 
   5. We may use 'cookies' while you access the Site to avoid the need to re-enter details on different occasions. If you do not wish to receive ‘cookies’, you may change the settings on your computer or browser accordingly. 
   6. If you do not want us to retain or use your personal information in any way, please withdraw your consent (i.e. “opt out”), by contacting us at [info@prizeo.com](mailto:info@prizeo.com). 
-  7. If you have any queries about this Privacy Policy or wish to resume receiving information which you may have previously opted-out of receiving, please contact us at please contact us at [info@prizeo.com](mailto:info@prizeo.com). 
+  7. If you have any queries about this Privacy Policy or wish to resume receiving information which you may have previously opted-out of receiving, please contact us at [info@prizeo.com](mailto:info@prizeo.com). 
 
 
