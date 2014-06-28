@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seed-share.com privacy policy that was archived on 2013-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130623063902id_/http%3A//aotar7a.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seed-share.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628043902id_/http%3A//aotar7a.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – World sports magazine
 
