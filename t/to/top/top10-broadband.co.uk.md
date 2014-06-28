@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the top10-broadband.co.uk privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203010740id_/http%3A//www.uswitch.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top10-broadband.co.uk privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628080054id_/http%3A//www.uswitch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -10,7 +10,7 @@ uSwitch.com is committed to protecting your privacy. We use the information that
 
 The site is operated by uSwitch Limited; a company incorporated in England and Wales (registration number 03612689), the registered office of which is Notcutt House, 36 Southwark Bridge Road, London, SE1 9EU ("uSwitch.com"). uSwitch.com complies with all applicable UK Data Protection legislation currently in force in relation to its treatment of personal information. 
 
-The motor and home insurance comparison service is provided by Quotezone, a trading style of Seopa Ltd. Seopa Ltd is authorised and regulated by the Financial Conduct Authority (FCA), Registration number 313860 with the registered address at Seopa Ltd, Blackstaff Studios, 8-10 Amelia Street, Belfast, BT2 7GS. Seopa Ltd is a data controller and complies with all applicable UK Data Protection legislation currently in force in relation to its treatment of personal information. 
+The Car insurance comparison service is provided by uSwitch Limited, Company No 03612689 registered in the UK having its registered office at Notcutt House, 36 Southwark Bridge Road, SE1 9EU. uSwitch Limited is authorised and regulated by the Financial Conduct Authority. Home insurance comparisons and insurance comparisons, specifically for those with medical conditions and vehicles with modifications are provided by Seopa Ltd, registered in Northern Ireland, Registration Number NI46322. Seopa Ltd has its registered office at 5 Dogleap Road, Limavady, Co Londonderry, N.Ireland. BT49 9NN. Seopa Ltd is authorised and regulated by the Financial Conduct Authority (FCA) (Registration number: 313860). All other aspects of the insurance comparison service are provided by uSwitch Limited. The following terms and conditions apply to uSwitch’s insurance comparison service. By using this system you are also agreeing to Seopa’s [Terms & Conditions](http://www.quotezone.co.uk/seopa-legal.htm) and [Privacy Policy](http://www.quotezone.co.uk/seopa-privacy-policy.htm)
 
 This privacy statement sets out the policy in relation to how any personal information collected from you through your use of this site is used. 
 
