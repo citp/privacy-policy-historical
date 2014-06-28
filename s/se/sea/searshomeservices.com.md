@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searshomeservices.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211223516id_/http%3A//www.searshomeservices.com/shs/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searshomeservices.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628051044id_/http%3A//www.searshomeservices.com/shs/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -55,7 +55,7 @@ We partner with third-party service providers known as Ad Networks to serve ads 
 
 This web site may also carry advertisements from other companies. Sears Holdings and its affiliates are not responsible for the privacy practices of these other companies. Once you click on an advertisement, you should check the applicable privacy policy of the third party or advertiser site to determine, among other things, how they will handle any PII they collect from you. These third party advertisements may also contain cookies or web beacons. We do not control these third party cookies or web beacons and you should check the applicable privacy policy of the third party or advertiser site to see whether and how it uses cookies or web beacons.
 
-We do not share any personally identifiable information about you with the advertising networks. To find out more about how the networks manage the privacy of information in conjunction with delivering ads online, please go to: <http://www.doubleclick.com/us/corporate/privacy> or <http://www.atlassolutions.com/privacy2.aspx#atlas_website>. In addition, the Network Advertising Initiative offers useful information about Internet advertising companies; also known as ad networks, including information about how to opt-out of their information collections. See <http://www.networkadvertising.org/participating> for the list of NAI members and <http://www.networkadvertising.org/managing/opt_out.asp> for the opt-out page.
+We do not share any personally identifiable information about you with the advertising networks. To find out more about how the networks manage the privacy of information in conjunction with delivering ads online, please go to: <http://www.doubleclick.com/us/corporate/privacy> or [http://www.atlassolutions.com/privacy-policy](http://atlassolutions.com/privacy-policy). In addition, the Network Advertising Initiative offers useful information about Internet advertising companies; also known as ad networks, including information about how to opt-out of their information collections. See <http://www.networkadvertising.org/choices/> for the list of NAI members and <http://www.networkadvertising.org/managing/opt_out.asp> for the opt-out page.
 
 Back to top
 
