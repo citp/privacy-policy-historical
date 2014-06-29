@@ -1,32 +1,37 @@
-<!--The following is the downloaded HTML source of the copyright.com privacy policy that was archived on 2013-10-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131026194032id_/http%3A//www.copyright.com/content/cc3/en/tools/footer/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the copyright.com privacy policy that was archived on 2014-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140629030805id_/http%3A//www.copyright.com/content/cc3/en/tools/footer/privacypolicy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head><body class="cc2" onload="setupForm()"><div class="head">
-    <meta http-equiv="content-type" content="text/html; charset=UTF8">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head></head><body class="cc2"><div class="head">
+
+
+ 
+
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <meta http-equiv="keywords" content="">
     
     
     
     
     
-    <link href="/etc/designs/cc3/default/static.css" rel="stylesheet" type="text/css">
-<link href="/etc/designs/cc3/default.css" rel="stylesheet" type="text/css">
-
+    <link href="/etc/designs/cc3/default/static.css?version=21" rel="stylesheet" type="text/css">
+    <link href="/etc/designs/cc3/default.css?version=21" rel="stylesheet" type="text/css">
     
     <title>Privacy Policy</title>    
     
     <meta name="description" content="Privacy Policy">
 
-    <link href="/content/dam/cc3/design/css/default.css" rel="stylesheet" type="text/css">
-    <link href="/content/dam/cc3/design/css/ccc-new-v2.css" rel="stylesheet" type="text/css">
+    <link href="/content/dam/cc3/design/css/default.css?version=21" rel="stylesheet" type="text/css">
+    <link href="/content/dam/cc3/design/css/ccc-new-v2.css?version=21" rel="stylesheet" type="text/css">
     <link href="/content/dam/cc3/design/css/static-print.css" rel="stylesheet" type="text/css">
     <link rel="SHORTCUT ICON" href="/content/dam/cc3/design/images/en/favicon.ico">
+    <link href="/content/dam/cc3/design/css/jquery-ui.css" rel="stylesheet" type="text/css">
     
-    <script type="text/javascript" async="" src="//img.en25.com/i/elqCfg.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" language="javascript" src="/content/dam/cc3/design/scripts/webtrends.js"></script>
+    <script type="text/javascript" async="" src="//img.en25.com/i/elqCfg.min.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5N2MM4"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" language="javascript" src="/content/dam/cc3/design/scripts/webtrends.js"></script>
     <script type="text/javascript" language="javascript" src="/content/dam/cc3/design/scripts/new_site.js"></script>
     <script type="text/javascript" language="javascript" src="/content/dam/cc3/design/scripts/jquery.min.js"></script>
     <script type="text/javascript" language="javascript" src="/content/dam/cc3/design/scripts/jquery-ui.min.js"></script>
     <script type="text/javascript" language="javascript" src="/content/dam/cc3/design/scripts/jquery.cycle.js"></script>  
+    <script type="text/javascript" language="javascript" src="/content/dam/cc3/design/scripts/google-analytics.js"></script>    
 
     
 <script type="text/javascript">
@@ -43,30 +48,134 @@
         if (window.addEventListener) window.addEventListener('DOMContentLoaded', async_load, false);
         else if (window.attachEvent) window.attachEvent('onload', async_load); 
     })();
+</script>
+
+<script language="JavaScript" type="text/JavaScript"> 
+ 
+$(function() {
+    titleSearchBoxLabel='Publication Title or ISBN/ISSN';
+    initBasicSearchField();
+});
+ 
+function initBasicSearchField() {
+    field = document.getElementById("titlesearchbox");
+    if (field!=null) {
+        if (field.value==titleSearchBoxLabel) {
+            field.style.color="#999999";        
+        } else if (field.value=='') {
+            field.style.color="#999999";        
+            field.value=titleSearchBoxLabel;
+        } else {
+            field.style.color="black";
+        }
+    }
+}
+function searchFieldGotFocus(field) {
+    if (field.value==titleSearchBoxLabel) {
+        field.value='';
+    }
+    field.style.color="black";
+}
+function searchFieldLostFocus(field) {
+    if (field.value=='') {
+        field.style.color="#999999";
+        field.value=titleSearchBoxLabel;
+    }   
+}
+function doSuggestedSearch(title)
+{
+    frm = document.getElementById("form");
+    frm.titleOrStdNo.value = title;
+    frm.submit();
+}
+function autosuggest(term, wid)
+{
+    var query = "q=" + escape(term);
+    var url = "/autosuggest.do?" + query;
+ 
+    $.getJSON(url, function(terms)
+    {
+        // iterate over terms
+        
+        var list = new Array();
+        
+        for(var i=0; i < terms.response.docs.length; i++)
+        {
+            var trm = terms.response.docs[i];
+            list[i] = trm.title;
+        }
+        $( '#' + wid ).autocomplete({source: list, select: function(event, ui) { 
+            doSuggestedSearch(ui.item.value);
+        }});
+    }, 'text');
+}
+function autosuggestnosubmit(term, wid)
+{
+    var query = "q=" + escape(term);
+    var url = "/autosuggest.do?" + query;
+ 
+    $.getJSON(url, function(terms) 
+    {
+        // iterate over terms
+        
+        var list = new Array();
+        
+        for(var i=0; i < terms.response.docs.length; i++)
+        {
+            var trm = terms.response.docs[i];
+            list[i] = trm.title;
+        }
+        $( '#' + wid ).autocomplete({source: list});
+    }, 'text');
+}
+
+$( "#titlesearchbox" ).attr("autocomplete", "off");
+
 </script>    
        
 <script type="text/javascript">
-var _gaq = _gaq || [];
-var pluginUrl =
- '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
-_gaq.push(['_require', 'inpage_linkid', pluginUrl]);
-_gaq.push(['_setAccount', 'UA-3607871-16']);
-_gaq.push(['_trackPageview']);
-(function() { var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); })();
-</script> 
-       
 
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-3607871-16']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+       
 </div>
  
 
 
  <link href="/content/dam/cc3/design/css/readyimage/readyimage.css" rel="stylesheet" type="text/css">
 
+<script>
+    dataLayer = [{}];
+</script>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5N2MM4"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-5N2MM4');</script>
+<!-- End Google Tag Manager -->
+    <!-- overlay for navigation -->
+    <div class="overlay-nav"></div>
+    <!-- /overlay for navigation -->
 
 <div id="wrapper">
 
 <!-- begin header -->
-        <div class="cc3_header">
+        
+
+
+
 
  
 
@@ -155,115 +264,21 @@ tagline();
 <div class="tcol">|</div>
 <div class="tcol"><a href="http://support.copyright.com/">Help</a></div>
 <div class="tcol">|</div>
-<div class="tcol"><a class="icon-chat" onclick="goUrl('http://chat.copyright.com/webchat/');return false" href="#">Live</a><br>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://chat.copyright.com/webchat/" target="_blank">Help</a></div>
+<div class="tcol"><a class="icon-chat" onclick="goUrl('http://chat.copyright.com/webchat/');return false" href="#">Live</a><br>&nbsp;&nbsp;&nbsp;&nbsp;Help</div>
 
 
 </div>
 </div>
 
 <div id="navigation">
-   <div class="cc3_homepage_header homepageheader"> 
-
  
+    <div id="topnav">
+         
+         
 
 
-
-
-<!--WL:moved all the javascript to /apps/cc3/component/head--> 
-<!--<script src="/content/dam/cc3/design/scripts/jquery.min.js" type="text/javascript"></script>-->
-<!--<script src="/content/dam/cc3/design/scripts/jquery-ui.min.js" type="text/javascript"></script>-->
-<!--<script src="/content/dam/cc3/design/scripts/jquery.cycle.js" type="text/javascript"></script>-->    
-        <link href="/content/dam/cc3/design/css/slidertest.css" rel="stylesheet" type="text/css">
-        <link href="/content/dam/cc3/design/css/topnav.css" rel="stylesheet" type="text/css">
-        <link href="/content/dam/cc3/design/css/jquery-ui.css" rel="stylesheet" type="text/css">
-        
-<script language="JavaScript" type="text/JavaScript"> 
- 
-$(function() {
-    titleSearchBoxLabel='Publication Title or ISBN/ISSN';
-    initBasicSearchField();
-});
- 
-function initBasicSearchField() {
-    field = document.getElementById("titlesearchbox");
-    if (field!=null) {
-        if (field.value==titleSearchBoxLabel) {
-            field.style.color="#999999";        
-        } else if (field.value=='') {
-            field.style.color="#999999";        
-            field.value=titleSearchBoxLabel;
-        } else {
-            field.style.color="black";
-        }
-    }
-}
-function searchFieldGotFocus(field) {
-    if (field.value==titleSearchBoxLabel) {
-        field.value='';
-    }
-    field.style.color="black";
-}
-function searchFieldLostFocus(field) {
-    if (field.value=='') {
-        field.style.color="#999999";
-        field.value=titleSearchBoxLabel;
-    }   
-}
-function doSuggestedSearch(title)
-{
-    frm = document.getElementById("form");
-    frm.titleOrStdNo.value = title;
-    frm.submit();
-}
-function autosuggest(term, wid)
-{
-    var query = "q=" + escape(term);
-    var url = "/autosuggest.do?" + query;
- 
-    $.getJSON(url, function(terms)
-    {
-        // iterate over terms
-        
-        var list = new Array();
-        
-        for(var i=0; i < terms.response.docs.length; i++)
-        {
-            var trm = terms.response.docs[i];
-            list[i] = trm.title;
-        }
-        $( '#' + wid ).autocomplete({source: list, select: function(event, ui) { 
-            doSuggestedSearch(ui.item.value);
-        }});
-    }, 'text');
-}
-function autosuggestnosubmit(term, wid)
-{
-    var query = "q=" + escape(term);
-    var url = "/autosuggest.do?" + query;
- 
-    $.getJSON(url, function(terms) 
-    {
-        // iterate over terms
-        
-        var list = new Array();
-        
-        for(var i=0; i < terms.response.docs.length; i++)
-        {
-            var trm = terms.response.docs[i];
-            list[i] = trm.title;
-        }
-        $( '#' + wid ).autocomplete({source: list});
-    }, 'text');
-}
-
-$( "#titlesearchbox" ).attr("autocomplete", "off");
-
-</script>        
-
-  
-
-<div id="topnav">
-     <div class="topnav">
+<div class="parsys iparsys topMenuIpar"><div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="parsys iparsys topMenuIpar"><div class="cc3_topmenu section">
 
  
 
@@ -272,231 +287,296 @@ $( "#titlesearchbox" ).attr("autocomplete", "off");
 
 
 
-
-
-
-<div id="topnav" class="sub-region-menu">
-   <ul id="main-menu">
-
-
-           <li class="parent-link"><a href="/content/cc3/en/toolbar/getPermission.html" onclick="_gaq.push(['_trackEvent', 'Page', 'Click', 'Privacy Policy - TopNav']);">  <img src="/content/dam/cc3/design/images/en/navigation_div.gif"><img alt="GET PERMISSION" src="/content/cc3/en/toolbar/getPermission.navimage.png"></a>       
-
-
-
-     
-
-   
-
-                 </li>
-     
-          
-            <li class="parent-link"><a href="https://rightscentral.copyright.com/pp/home.do" onclick="_gaq.push(['_trackEvent', 'Page', 'Click', 'Privacy Policy - TopNav']);" target="_blank"><img src="/content/dam/cc3/design/images/en/navigation_div.gif"><img alt="LICENSE YOUR CONTENT" src="/content/cc3/en/toolbar/licenseYourContent.navimage.png"></a>
-
-
-
-     
-
-   
-
-                 </li>
-     
-
-           <li class="parent-link"><a href="/content/cc3/en/toolbar/productsAndSolutions.html" onclick="_gaq.push(['_trackEvent', 'Page', 'Click', 'Privacy Policy - TopNav']);">  <img src="/content/dam/cc3/design/images/en/navigation_div.gif"><img alt="PRODUCTS AND SOLUTIONS" src="/content/cc3/en/toolbar/productsAndSolutions.navimage.png"></a>       
-
-
-
-
-                    <ul class="child-menu">    
-
-           <li class="child-link"><a href="/content/cc3/en/toolbar/productsAndSolutions/Enterprise_Content_Workflow_Solution.html" onclick="_gaq.push(['_trackEvent', 'Page', 'Click', 'Privacy Policy - TopNav']);">Enterprise Content Workflow Solution</a></li> 
-
-
-           <li class="child-link"><a href="/content/cc3/en/toolbar/productsAndSolutions/Academic_Content_Workflow_Solution.html" onclick="_gaq.push(['_trackEvent', 'Page', 'Click', 'Privacy Policy - TopNav']);">Academic Content Workflow Solution</a></li> 
-
-
-           <li class="child-link"><a href="/content/cc3/en/toolbar/productsAndSolutions/payPerUsePermissionServices.html" onclick="_gaq.push(['_trackEvent', 'Page', 'Click', 'Privacy Policy - TopNav']);">Pay-Per-Use Services</a></li> 
-
-
-           <li class="child-link"><a href="/content/cc3/en/toolbar/productsAndSolutions/annualLicenseBusiness.html" onclick="_gaq.push(['_trackEvent', 'Page', 'Click', 'Privacy Policy - TopNav']);">Annual License - Business</a></li> 
-
-
-           <li class="child-link"><a href="/content/cc3/en/toolbar/productsAndSolutions/AnnualLicenseGovernment.html" onclick="_gaq.push(['_trackEvent', 'Page', 'Click', 'Privacy Policy - TopNav']);">Annual License - Government</a></li> 
-
-
-           <li class="child-link"><a href="/content/cc3/en/toolbar/productsAndSolutions/annualLicenseUniversityHospitals.html" onclick="_gaq.push(['_trackEvent', 'Page', 'Click', 'Privacy Policy - TopNav']);">Annual License - Hospitals</a></li> 
-
-
-           <li class="child-link"><a href="/content/cc3/en/toolbar/productsAndSolutions/annualLicenseAcademic.html" onclick="_gaq.push(['_trackEvent', 'Page', 'Click', 'Privacy Policy - TopNav']);">Annual License - Academic</a></li> 
-
-
-           <li class="child-link"><a href="/content/cc3/en/toolbar/productsAndSolutions/Motion_Picture_License.html" onclick="_gaq.push(['_trackEvent', 'Page', 'Click', 'Privacy Policy - TopNav']);">Motion Picture License</a></li> 
-
-
-           <li class="child-link"><a href="/content/cc3/en/toolbar/productsAndSolutions/rightsphere.html" onclick="_gaq.push(['_trackEvent', 'Page', 'Click', 'Privacy Policy - TopNav']);">RightSphere</a></li> 
-
-
-           <li class="child-link"><a href="/content/cc3/en/toolbar/productsAndSolutions/getitnow.html" onclick="_gaq.push(['_trackEvent', 'Page', 'Click', 'Privacy Policy - TopNav']);">Get It Now</a></li> 
-
-
-           <li class="child-link"><a href="/content/cc3/en/toolbar/productsAndSolutions/PaperStats.html" onclick="_gaq.push(['_trackEvent', 'Page', 'Click', 'Privacy Policy - TopNav']);">PaperStats</a></li> 
-
-
-           <li class="child-link"><a href="/content/cc3/en/toolbar/productsAndSolutions/PaperStream.html" onclick="_gaq.push(['_trackEvent', 'Page', 'Click', 'Privacy Policy - TopNav']);">PaperStream</a></li> 
-
-
-           <li class="child-link"><a href="/content/cc3/en/toolbar/productsAndSolutions/rightslink.html" onclick="_gaq.push(['_trackEvent', 'Page', 'Click', 'Privacy Policy - TopNav']);">RightsLink</a></li> 
-
-
-           <li class="child-link"><a href="/content/cc3/en/toolbar/productsAndSolutions/content-solutions.html" onclick="_gaq.push(['_trackEvent', 'Page', 'Click', 'Privacy Policy - TopNav']);">Content Solutions</a></li> 
-
-
-           <li class="child-link"><a href="/content/cc3/en/toolbar/productsAndSolutions/open-access.html" onclick="_gaq.push(['_trackEvent', 'Page', 'Click', 'Privacy Policy - TopNav']);">Open Access and APC Management</a></li> 
-
-
-           <li class="child-link"><a href="/content/cc3/en/toolbar/productsAndSolutions/Republication_Services.html" onclick="_gaq.push(['_trackEvent', 'Page', 'Click', 'Privacy Policy - TopNav']);">Republication Service</a></li> 
-
-       
-            <li class="child-link"><a href="http://rightscentral.copyright.com/" onclick="_gaq.push(['_trackEvent', 'Page', 'Click', 'Privacy Policy - TopNav']);" target="_blank">RightsCentral for Rightsholders</a></li> 
-
-
-           <li class="child-link"><a href="/content/cc3/en/toolbar/productsAndSolutions/pubget_rh.html" onclick="_gaq.push(['_trackEvent', 'Page', 'Click', 'Privacy Policy - TopNav']);">Pubget</a></li> 
-
-
-           <li class="child-link"><a href="/content/cc3/en/toolbar/productsAndSolutions/get_it_now_publishers.html" onclick="_gaq.push(['_trackEvent', 'Page', 'Click', 'Privacy Policy - TopNav']);">Get It Now</a></li> 
-
-
-           <li class="child-link"><a href="/content/cc3/en/toolbar/productsAndSolutions/rightsCentralForRightsholder1.html" onclick="_gaq.push(['_trackEvent', 'Page', 'Click', 'Privacy Policy - TopNav']);">RightsCentral</a></li> 
-
-
-           <li class="child-link"><a href="/content/cc3/en/toolbar/productsAndSolutions/acl_ppu_rh.html" onclick="_gaq.push(['_trackEvent', 'Page', 'Click', 'Privacy Policy - TopNav']);">Annual and Pay-Per-Use Licenses</a></li> 
-
-    
-     
-                    </ul>
-
-     
-
-   
-
-                 </li>
-     
-
-           <li class="parent-link"><a href="/content/cc3/en/toolbar/partners.html" onclick="_gaq.push(['_trackEvent', 'Page', 'Click', 'Privacy Policy - TopNav']);">  <img src="/content/dam/cc3/design/images/en/navigation_div.gif"><img alt="PARTNERS" src="/content/cc3/en/toolbar/partners.navimage.png"></a>       
-
-
-
-
-                    <ul class="child-menu">    
-
-           <li class="child-link"><a href="/content/cc3/en/toolbar/partners/partner-directory.html" onclick="_gaq.push(['_trackEvent', 'Page', 'Click', 'Privacy Policy - TopNav']);">Partner Directory</a></li> 
-
-
-           <li class="child-link"><a href="/content/cc3/en/toolbar/partners/partner-program.html" onclick="_gaq.push(['_trackEvent', 'Page', 'Click', 'Privacy Policy - TopNav']);">Partner Program</a></li> 
-
-
-           <li class="child-link"><a href="/content/cc3/en/toolbar/partners/webServices.html" onclick="_gaq.push(['_trackEvent', 'Page', 'Click', 'Privacy Policy - TopNav']);">Web Services</a></li> 
-
-    
-     
-                    </ul>
-
-     
-
-   
-
-                 </li>
-     
-
-           <li class="parent-link"><a href="/content/cc3/en/toolbar/education.html" onclick="_gaq.push(['_trackEvent', 'Page', 'Click', 'Privacy Policy - TopNav']);">  <img src="/content/dam/cc3/design/images/en/navigation_div.gif"><img alt="EDUCATION" src="/content/cc3/en/toolbar/education.navimage.png"></a>       
-
-
-
-
-                    <ul class="child-menu">    
-
-           <li class="child-link"><a href="/content/cc3/en/toolbar/education/get-the-facts.html" onclick="_gaq.push(['_trackEvent', 'Page', 'Click', 'Privacy Policy - TopNav']);">Get the Facts</a></li> 
-
-
-           <li class="child-link"><a href="/content/cc3/en/toolbar/education/events.html" onclick="_gaq.push(['_trackEvent', 'Page', 'Click', 'Privacy Policy - TopNav']);">Events</a></li> 
-
-
-           <li class="child-link"><a href="/content/cc3/en/toolbar/education/resources.html" onclick="_gaq.push(['_trackEvent', 'Page', 'Click', 'Privacy Policy - TopNav']);">Resources</a></li> 
-
-
-           <li class="child-link"><a href="/content/cc3/en/toolbar/education/certificate_program.html" onclick="_gaq.push(['_trackEvent', 'Page', 'Click', 'Privacy Policy - TopNav']);">Certificate Programs</a></li> 
-
-
-           <li class="child-link"><a href="/content/cc3/en/toolbar/education/news.html" onclick="_gaq.push(['_trackEvent', 'Page', 'Click', 'Privacy Policy - TopNav']);">News</a></li> 
-
-
-           <li class="child-link"><a href="/content/cc3/en/toolbar/education/around-the-world.html" onclick="_gaq.push(['_trackEvent', 'Page', 'Click', 'Privacy Policy - TopNav']);">Around the World</a></li> 
-
-    
-     
-                    </ul>
-
-     
-
-   
-
-                 </li>
-     
-
-           <li class="parent-link"><a href="/content/cc3/en/toolbar/aboutUs.html" onclick="_gaq.push(['_trackEvent', 'Page', 'Click', 'Privacy Policy - TopNav']);">  <img src="/content/dam/cc3/design/images/en/navigation_div.gif"><img alt="ABOUT US" src="/content/cc3/en/toolbar/aboutUs.navimage.png"></a>       
-
-
-
-
-                    <ul class="child-menu">    
-
-           <li class="child-link"><a href="/content/cc3/en/toolbar/aboutUs/managementTeam.html" onclick="_gaq.push(['_trackEvent', 'Page', 'Click', 'Privacy Policy - TopNav']);">Management Team</a></li> 
-
-
-           <li class="child-link"><a href="/content/cc3/en/toolbar/aboutUs/boardOfDirectors.html" onclick="_gaq.push(['_trackEvent', 'Page', 'Click', 'Privacy Policy - TopNav']);">Board of Directors</a></li> 
-
-
-           <li class="child-link"><a href="/content/cc3/en/toolbar/aboutUs/InternationalAdvancementProgram.html" onclick="_gaq.push(['_trackEvent', 'Page', 'Click', 'Privacy Policy - TopNav']);">International Advancement Program</a></li> 
-
-
-           <li class="child-link"><a href="/content/cc3/en/toolbar/aboutUs/careers.html" onclick="_gaq.push(['_trackEvent', 'Page', 'Click', 'Privacy Policy - TopNav']);">Careers</a></li> 
-
-
-           <li class="child-link"><a href="/content/cc3/en/toolbar/aboutUs/newsRoom.html" onclick="_gaq.push(['_trackEvent', 'Page', 'Click', 'Privacy Policy - TopNav']);">News Room</a></li> 
-
-
-           <li class="child-link"><a href="/content/cc3/en/toolbar/aboutUs/testimonials.html" onclick="_gaq.push(['_trackEvent', 'Page', 'Click', 'Privacy Policy - TopNav']);">Testimonials</a></li> 
-
-
-           <li class="child-link"><a href="/content/cc3/en/toolbar/aboutUs/eventsAndTradeshows.html" onclick="_gaq.push(['_trackEvent', 'Page', 'Click', 'Privacy Policy - TopNav']);">Events &amp; Tradeshows</a></li> 
-
-
-           <li class="child-link"><a href="/content/cc3/en/toolbar/aboutUs/contact_us.html" onclick="_gaq.push(['_trackEvent', 'Page', 'Click', 'Privacy Policy - TopNav']);">Contact Us</a></li> 
-
-    
-     
-                    </ul>
-
-     
-
-   
-
-                 </li>
-     
-   
-  
-
-   </ul>
-   
+    <link href="/content/dam/cc3/design/css/navigation/navigation_marketing.css?version=?version=21" rel="stylesheet" type="text/css">
+    <script src="/content/dam/cc3/design/scripts/navigation/navigation_homepage.js?version=?version=21" type="text/javascript"></script>
+
+
+<!-- Menu -->
+<div class="mainMenu">
+    <ul class="clearfix">
+        <li class="nav-1">
+        <a href="/content/cc3/en/toolbar/productsAndSolutions/directpath.html" onclick="_gaq.push(['_trackEvent', 'Page', 'Click', 'TopNav']);">DIRECTPATH</a>
+            <div class="dropCont directpathDrop clearfix">
+                <div class="directpathDropLeft">
+                        <h3>DirectPath™ content workflow solution connects you instantly to published articles and the rights to share them. And with spending and usage analytics, you can easily prioritize future content purchases.<br>
+<br>
+Accelerate research. Simplify copyright compliance. Manage content more efficiently.</h3>
+                    
+                </div>
+                <div class="directpathDropRght">
+
+                    <a href="/content/cc3/en/toolbar/productsAndSolutions/directpath.html" onclick="_gaq.push(['_trackEvent', 'Page', 'Click', 'TopAd']);">
+                        <img src="/content/dam/cc3/design/images/navigation/directpath_ad_top_ccc_v2.jpg" alt="Products and Solutions">
+                    </a>
+                    <div class="featured">
+                        <a href="/content/cc3/en/toolbar/productsAndSolutions/directpath.html" onclick="_gaq.push(['_trackEvent', 'Page', 'Click', 'TopTitle']);">
+                            <img class="icon" src="/content/dam/cc3/design/images/navigation/tipsIcon.png" alt="">
+                            <span class="holder">
+                                Learn more about DirectPath »
+                            </span>
+                        </a>
+                    </div>
+                </div>
+            </div>           
+        </li>
+        <li class="nav-2">
+             <a href="/content/cc3/en/toolbar/getPermission.html" onclick="_gaq.push(['_trackEvent', 'Page', 'Click', 'TopNav']);">GET PERMISSION</a>
+            <div class="dropCont getPermissionDrop">
+                <div class="getPermissionIn clearfix">
+                    <div class="getPermissionLft">
+                        <h3>Search and obtain permission to use and share content from the world's leading titles</h3>
+                        <form action="/basicSearch.do?operation=go" method="post">
+                            <input type="hidden" name="searchType" value="0">
+                            <input type="hidden" name="lastSearch" value="simple">
+                            <input type="hidden" name="all" value="on">
+                            <input type="text" name="titleOrStdNo" id="topmenuTitlesearchbox" maxlength="255" value="Publication Title or ISBN/ISSN" onkeyup="autosuggest(this.value, 'topmenuTitlesearchbox')" onblur="searchFieldLostFocus(this)" onfocus="searchFieldGotFocus(this)" class="ui-autocomplete-input" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true">
+                            <input type="submit">
+                        </form>
+                    </div>
+                    <div class="getPermissionRght">
+                        <a href="/content/cc3/en/toolbar/productsAndSolutions.html" onclick="_gaq.push(['_trackEvent', 'Page', 'Click', 'TopAd']);">
+                            <img src="/content/dam/cc3/design/images/get-permission-navigation.jpg" alt="Products and Solutions">
+                        </a>
+                        <div class="featured">
+                            <a href="/content/cc3/en/toolbar/productsAndSolutions.html" onclick="_gaq.push(['_trackEvent', 'Page', 'Click', 'TopTitle']);">
+                                <img class="icon" src="/content/dam/cc3/design/images/navigation/tipsIcon.png" alt="">
+                                <span class="holder">
+                                    Find the Copyright Solution that Works for You »
+                                </span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </li>
+        <li class="nav-3">
+        <a href="/content/cc3/en/toolbar/productsAndSolutions.html" onclick="_gaq.push(['_trackEvent', 'Page', 'Click', 'TopNav']);">PRODUCTS &amp; SOLUTIONS</a>
+            <div class="dropCont productDrop">
+                <div class="productDropIn clearfix">
+                    <div class="productDropPan proDropOne">
+                        <div class="productDropPanIn">
+                            <h2>Business</h2>
+                            <div class="links">
+                                <p>Get, Share and Track Content - Text</p>
+<p><a href="/content/cc3/en/toolbar/productsAndSolutions/annualLicenseBusiness/DirectPath.html">DirectPath™</a></p>
+<p>Share Content - Text</p>
+<p><a href="/content/cc3/en/toolbar/productsAndSolutions/annualLicenseBusiness.html">Annual Copyright License</a></p>
+<p><a href="/content/cc3/en/toolbar/productsAndSolutions/payPerUsePermissionServices.html">Pay-Per-Use Services</a></p>
+<p>Share Content - Movies and TV</p>
+<p><a href="/content/cc3/en/toolbar/productsAndSolutions/Motion_Picture_License.html">Motion Picture License</a></p>
+<p>Organize Content Rights</p>
+<p><a href="/content/cc3/en/toolbar/productsAndSolutions/rightsphere.html">RightSphere®</a></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+                                        
+                            </div>
+                        </div>
+                    </div>
+                    <div class="productDropPan proDropTwo">
+                        <div class="productDropPanIn">
+                            <h2>Academic</h2>
+                            <div class="links">
+                                <p>Share Content - Text</p>
+<p><a href="/content/cc3/en/toolbar/productsAndSolutions/annualLicenseAcademic.html">Annual Copyright License</a></p>
+<p><a href="/content/cc3/en/toolbar/productsAndSolutions/payPerUsePermissionServices.html">Pay-Per-Use Services</a></p>
+<p><a href="/content/cc3/en/toolbar/productsAndSolutions/MOOCs_content_licensing_solution.html">MOOC Content Licensing Solution</a></p>
+<p>Get Content</p>
+<p><a href="/content/cc3/en/toolbar/productsAndSolutions/getitnow.html">Get It Now</a></p>
+<p>Content Workflow Solution</p>
+<p><a href="/content/cc3/en/toolbar/productsAndSolutions/Academic_Content_Workflow_Solution.html">Get It. Share It. Analyze It.</a></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+                                        
+                            </div>
+                        </div>
+                    </div>
+                    <div class="productDropPan proDropThree">
+                        <div class="productDropPanIn">
+                            <h2>Publishers &amp; Authors</h2>
+                            <div class="links">
+                                <p>License Your Content</p>
+<p><a href="/content/cc3/en/toolbar/productsAndSolutions/rightslink.html">RightsLink®</a></p>
+<p><a href="/content/cc3/en/toolbar/productsAndSolutions/acl_ppu_rh.html">Annual and Pay-Per-Use Licenses</a></p>
+<p><a href="/content/cc3/en/toolbar/productsAndSolutions/Republication_Services.html">Republication Service</a></p>
+<p>Manage Author Fees</p>
+<p><a href="/content/cc3/en/toolbar/productsAndSolutions/open-access.html">RightsLink for Open Access</a></p>
+<p><a href="/content/cc3/en/open_access.html">Open Access News and Resources</a></p>
+<p></p>
+<p>Acquire Republication Permissions</p>
+<p><a href="/content/cc3/en/toolbar/productsAndSolutions/Republication_Services.html">Republication Service</a></p>
+<p>Deliver Content</p>
+<p><a href="/content/cc3/en/toolbar/productsAndSolutions/rightslink.html">RightsLink®</a></p>
+<p><a href="/content/cc3/en/toolbar/productsAndSolutions/get_it_now_publishers.html">Get It Now</a></p>
+<p><a href="/content/cc3/en/toolbar/productsAndSolutions/pubget_rh.html">Pubget</a></p>
+<p>Manage Your Business with CCC</p>
+<p><a href="/content/cc3/en/toolbar/productsAndSolutions/rightsCentralForRightsholder1.html">RightsCentral</a></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+                                        
+                            </div>
+                        </div>
+                    </div>
+                    <div class="productDropPan proDropFour">
+                        <div class="productDropPanIn">
+                            <h2>Industries</h2>
+                            <div class="links">
+                                <p><a href="/content/cc3/en/toolbar/productsAndSolutions/industry_solutions/Business_Services_and_Consulting.html">Business Services and Consulting</a></p>
+<p><a href="/content/cc3/en/toolbar/productsAndSolutions/industry_solutions/Chemical_Manufacturing.html">Chemical Manufacturing</a></p>
+<p><a href="/content/cc3/en/toolbar/productsAndSolutions/industry_solutions/Energy.html">Energy</a></p>
+<p><a href="/content/cc3/en/toolbar/productsAndSolutions/industry_solutions/Engineering_and_Construction.html">Engineering and Construction</a></p>
+<p><a href="/content/cc3/en/toolbar/productsAndSolutions/industry_solutions/Financial_Services.html">Financial Services</a></p>
+<p><a href="/content/cc3/en/toolbar/productsAndSolutions/industry_solutions/Food_Beverage_and_Tobacco.html">Food and Beverage</a></p>
+<p><a href="/content/cc3/en/toolbar/productsAndSolutions/industry_solutions/Healthcare.html">Healthcare</a></p>
+<p><a href="/content/cc3/en/toolbar/productsAndSolutions/industry_solutions/Life_Sciences.html">Life Sciences</a></p>
+<p><a href="/content/rightscentral/en/toolbar_main_content/solutions.html">Publishing</a></p>
+<p><a href="/content/cc3/en/toolbar/productsAndSolutions/industry_solutions/Technology.html">Technology</a></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="clearfix"></div>
+                <form action="/basicSearch.do?operation=go" method="post">
+                    
+                    <input type="hidden" name="searchType" value="0">
+                    <input type="hidden" name="lastSearch" value="simple">
+                    <input type="hidden" name="all" value="on">
+                    <input type="text" name="titleOrStdNo" id="topmenuTitlesearchbox2" maxlength="255" value="Publication Title or ISBN/ISSN" onkeyup="autosuggest(this.value, 'topmenuTitlesearchbox2')" onblur="searchFieldLostFocus(this)" onfocus="searchFieldGotFocus(this)" class="ui-autocomplete-input" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true">
+                    <input type="submit">
+                </form>
+            </div>            
+        </li>
+        <li class="nav-4">
+            <a href="/content/cc3/en/toolbar/education.html" onclick="_gaq.push(['_trackEvent', 'Page', 'Click', 'TopNav']);">EDUCATION</a>
+            <div class="dropCont educationDrop clearfix">
+                <div class="educationDropLeft">
+                    <div class="links">
+                        <p><a href="/content/cc3/en/toolbar/education/get-the-facts.html">Get the Facts</a></p>
+<p><a href="/content/cc3/en/toolbar/education/events.html">Events</a></p>
+<p><a href="/content/cc3/en/toolbar/education/resources.html">Resources</a></p>
+<p><a href="/content/cc3/en/toolbar/education/certificate_program.html">Certificate Programs</a></p>
+<p><a href="/content/cc3/en/toolbar/education/news.html">News</a></p>
+<p><a href="/content/cc3/en/toolbar/education/around-the-world.html">Around the World</a></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+<p></p>
+
+                    </div>
+                </div>
+                <div class="educationDropRght">
+
+                    <a href="http://www.cvent.com/events/copyright-fundamentals-in-the-workplace-elearning-certificate-course/event-summary-2afe4d82bc694e65af4c56b61ae0f2a7.aspx" onclick="_gaq.push(['_trackEvent', 'Page', 'Click', 'TopAd']);">
+                        <img src="/content/dam/cc3/design/images/education-navigation.jpg" alt="Products and Solutions">
+                    </a>
+                    <div class="featured">
+                        <a href="http://www.cvent.com/events/copyright-fundamentals-in-the-workplace-elearning-certificate-course/event-summary-2afe4d82bc694e65af4c56b61ae0f2a7.aspx" onclick="_gaq.push(['_trackEvent', 'Page', 'Click', 'TopTitle']);">
+                            <img class="icon" src="/content/dam/cc3/design/images/navigation/computerIcon.png" alt="">
+                            <span class="holder">
+                                Fundamentals in the Workplace »
+                            </span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </li>
+        <li class="nav-5">
+            <a href="/content/cc3/en/toolbar/aboutUs.html" onclick="_gaq.push(['_trackEvent', 'Page', 'Click', 'TopNav']);">ABOUT US</a>
+            <div class="dropCont abtDrop clearfix">
+                <div class="abtDropLeft">
+                    <div class="links">
+                        <p style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 12px;"><a href="/content/cc3/en/toolbar/aboutUs/managementTeam.html">Management Team</a></p>
+<p style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 12px;"><a href="/content/cc3/en/toolbar/aboutUs/boardOfDirectors.html">Board of Directors</a></p>
+<p><a href="https://www.pre1.copyright.com/content/cc3/en/toolbar/partners.html"></a></p>
+<p style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 12px;"><a href="/content/cc3/en/toolbar/partners.html">Partners</a></p>
+<p><a href="https://www.pre1.copyright.com/content/cc3/en/toolbar/partners.html"></a></p>
+<p></p>
+<p style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 12px;"></p>
+<p style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 12px;"><a href="/content/cc3/en/toolbar/aboutUs/InternationalAdvancementProgram.html">International Advancement Program</a></p>
+<p style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 12px;"><a href="/content/cc3/en/toolbar/aboutUs/careers.html">Careers</a></p>
+<p style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 12px;"><a href="/content/cc3/en/toolbar/aboutUs/newsRoom.html">News Room</a></p>
+<p style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 12px;"><a href="/content/cc3/en/toolbar/aboutUs/testimonials.html">Testimonials</a></p>
+<p style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 12px;"><a href="/content/cc3/en/toolbar/aboutUs/eventsAndTradeshows.html">Events &amp;&nbsp;Tradeshows</a></p>
+<p style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 12px;"><a href="/content/cc3/en/toolbar/aboutUs/contact_us.html">Contact Us</a></p>
+<p style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 12px;"></p>
+<p style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 12px;"></p>
+<p style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 12px;"></p>
+<p style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 12px;"></p>
+<p style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 12px;"></p>
+<p style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 12px;"></p>
+<p style="font-family: tahoma, arial, helvetica, sans-serif; font-size: 12px;"></p>
+
+                    </div>
+                </div>
+                <div class="abtDropRght">
+                    <a href="http://www.copyright.com/content/dam/cc3/marketing/documents/pdfs/annual-report.pdf" target="_blank" onclick="_gaq.push(['_trackEvent', 'Page', 'Click', 'TopAd']);">
+                        <img src="/content/dam/cc3/design/images/annual-report.jpg" alt="Products and Solutions">
+                    </a>
+                    <div class="featured">
+                        <a href="http://www.copyright.com/content/dam/cc3/marketing/documents/pdfs/annual-report.pdf" target="_blank" onclick="_gaq.push(['_trackEvent', 'Page', 'Click', 'TopTitle']);">
+                            <img class="icon" src="/content/dam/cc3/design/images/navigation/downloadIcon.png" alt="">
+                            <span class="holder">
+                                Download the New CCC 2013 Annual Report »
+                            </span>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </li>
+    </ul>
 </div>
-
-               </div>
-       
-</div>
-
-
+<!-- /Menu --></div>
 
 </div>
-   
+</div>
+</div>
+
+        
+    </div>
+
 </div>
 
 
@@ -552,7 +632,7 @@ $( "#titlesearchbox" ).attr("autocomplete", "off");
   </div>
 
   <div id="titlesearch">
-      <img src="/content/dam/cc3/design/images/en/search_getpermission.gif" alt="Get Permission / Find Title" title="Get Permission / Find Title" height="14" width="149"><br>
+      <img src="/content/dam/cc3/design/images/en/search_getpermission.gif" alt="Get Permission / Find Title" title="Get Permission / Find Title" height="14" width="149">
     <form name="searchForm" id="form" method="post" action="/basicSearch.do?operation=go">
         <input type="hidden" name="searchType" value="0">
         <input type="hidden" name="lastSearch" value="simple">
@@ -565,8 +645,7 @@ $( "#titlesearchbox" ).attr("autocomplete", "off");
   
 </div>
 
-<!-- End Header --></div>
- 
+<!-- End Header --> 
 <!-- end header -->        
         
 <!-- Begin template/three-column.jsp -->
@@ -576,52 +655,66 @@ $( "#titlesearchbox" ).attr("autocomplete", "off");
 <div id="one-column">
      <div class="parsys centercolumn"><div class="parbase section ccc_html">
 
-<div class="rc_text"><h1>Privacy Policy<a href="http://www.truste.org/ivalidate.php?url=www.copyright.com&amp;sealid=101" target="blank"><img width="68" height="95" align="right" src="/media/images/clickseal.gif" alt="Trust-e Varification" style="padding-left: 10px; margin-top: -20px; border-width: 0px;"></a></h1>
-<p>Effective: September 20, 2011</p>
-<p>By using the www.copyright.com Web site or any other Copyright Clearance Center (CCC) Web-based service, you agree to the terms of the CCC Online Privacy Policy, as outlined below.</p>
-<p><b>COLLECTION OF PERSONAL INFORMATION</b></p>
+<div class="rc_text"><table cellspacing="0" cellpadding="0" margin="0">
+<tbody><tr><td><h1>Privacy Policy</h1>
+<p>Effective: May 1, 2014</p>
+<p>By using the www.copyright.com website or any other Copyright Clearance Center (CCC) Web-based service, you agree to the terms of the CCC Online Privacy Policy, as outlined below.</p>
+</td>
+<td><div id="6c743f4f-d6c9-49bc-83ea-931cfad874c6"><a target="_blank" title="TRUSTe online privacy certification" href="//privacy.truste.com/privacy-seal/Copyright-Clearance-Center/validation?rid=a670a051-838d-4688-8877-e91e43bbe22d"><img alt="TRUSTe online privacy certification" src="//privacy-policy.truste.com/privacy-seal/Copyright-Clearance-Center/seal?rid=a670a051-838d-4688-8877-e91e43bbe22d" style="border: none;"></a></div>
+</td>
+</tr></tbody></table>
+<p><b>COLLECTION OF PERSONALLY IDENTIFIABLE INFORMATION</b></p>
 <p>You may access and read most material on CCC's Web sites without giving us any information that identifies you. However, when you engage in certain activities on these Web sites, such as seeking and receiving permissions, authorizations or licenses to use the copyrighted works of the copyright rightsholders we represent, we may ask you to provide certain information about yourself and/or your organization by filling out and submitting an online form. It is completely optional for you to fill out the form and/or engage in these activities. Should you choose not to do so, however, it may not be possible for CCC to provide the permission, authorization or license that you are seeking.</p>
-<p>Should you choose to take advantage of our services, we may require that you provide us with personal information, such as your name, organization name, mailing address, e-mail address and other identifying information. Should you choose to pay with a credit card, you may be asked to provide a card number, expiration date and the name and address of the cardholder. For more information about data security, please see the Security section of this Privacy Policy.</p>
+<p>Should you choose to take advantage of our services, we may require that you provide us with personally identifiable information, such as your name, organization name, mailing address, e-mail address and other identifying information. Should you choose to pay with a credit card, you may be asked to provide a card number, expiration date and the name and address of the cardholder. For more information about data security, please see the Security section of this Privacy Policy.</p>
 <p>CCC collects all of this information in order to record and support your licensing and other activities. For example, we may use the information you provide to verify the details of a license issued to you or to keep you informed about our products and services. We may supplement the information you provide with commercially available demographic and address information in order to enhance our ability to serve you.</p>
-<p>Please note that in some cases you may access CCC's services through the Web site of a participating copyright rightsholder, such as a publisher, or one of our integration partners, such as a course management system provider. In those cases, you will be directed to a Web page within a CCC Web site, and it is CCC that will be collecting your information, even though you may continue to see the copyright rightsholder's branding or logo. CCC will share information with the copyright rightsholder as described in the Use of Personal Information section of this Privacy Policy.</p>
-<p><b>USE OF PERSONAL INFORMATION</b></p>
+<p>Please note that in some cases you may access CCC's services through the Web site of a participating copyright rightsholder, such as a publisher, or one of our integration partners, such as a course management system provider. In those cases, you will be directed to a Web page within a CCC Web site, and it is CCC that will be collecting your information, even though you may continue to see the copyright rightsholder's branding or logo. CCC will share information with the copyright rightsholder as described in the Use of Personally Identifiable Information section of this Privacy Policy.</p>
+<p><b>USE OF PERSONALLY IDENTIFIABLE IINFORMATION</b></p>
 <p>CCC shares the information that you provide to us in accordance with our obligations to copyright rightsholders to identify uses of their copyrighted materials. These obligations vary from CCC program to program. Details about such obligations under any particular CCC program are available upon request. CCC does NOT, however, share information with copyright rightsholders (i) about credit card details, or (ii) about the use of OTHER copyright rightsholders' copyrighted materials.</p>
 <p>If you have identified yourself, or are identified by your employer to CCC as being associated with a CCC-participating organization, you may receive promotional communications from CCC either directly from us or through your participating organization. Further, when you use your organization's credit card or CCC billing account to transact business with us, the organization will receive information about the materials you have used and reported to CCC. Similarly, in circumstances where multiple individuals associated with the same organization share a single CCC account or a single user name and password, each individual may have access to information provided by the other individuals on the same account.</p>
-<p>Please note that we may use outside shipping and printing companies to fulfill orders, and a credit card processing company to bill you for goods and services. These companies do not retain, share, store or use the personally identifiable information that they receive from CCC for any other purposes.</p>
-<p>We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order or legal process.</p>
-<p>CCC recognizes and appreciates the importance of the responsible use of your personal information. Except as disclosed above or in published lists of consenting customers, we do not release or sell lists of our customer names to outside organizations. Further, your personal information is password-protected to prevent unauthorized access to it. Finally, when you submit personal information to CCC, you understand and agree that CCC and its subsidiaries, affiliates and trusted vendors may transfer, store and process your customer profile in any country in which we do business, including but not limited to the United States.</p>
+<p>Please note that we may use outside shipping and printing companies to fulfill orders, and a credit card processing company to bill you for goods and services. These companies are not authorized by CCC to retain, share, store or use the personally identifiable information that they receive from CCC for any other purposes. These companies are authorized to use your personally identifiable information only as necessary to provide these services to us.</p>
+<p>We reserve the right to disclose your personally identifiable information as required by law, such as to comply with a subpoena, or similar legal process and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order or legal process.</p>
+<p>If CCC is involved in a merger, acquisition, or sale of all or a portion of its assets you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personally identifiable information, as well as any choices you may have regarding your personally identifiable information.</p>
+<p>CCC recognizes and appreciates the importance of the responsible use of your personally identifiable information. Except as disclosed above or in published lists of consenting customers, we do not release or sell lists of our customer names to outside organizations. Further, your personally identifiable information is password-protected to prevent unauthorized access to it. Finally, when you submit personally identifiable information to CCC, you understand and agree that CCC and its subsidiaries, affiliates and trusted vendors may transfer, store and process your customer profile in any country in which we do business, including but not limited to the United States.</p>
 <p>Please be advised that CCC is not responsible for the content or privacy practices of any other Web sites to which copyright.com or any other CCC Web site may link.</p>
 <p><b>USE OF COOKIES AND OTHER TECHNOLOGIES</b><br>
 </p>
-<p>When you visit copyright.com or any other CCC Web site, you can surf the site without revealing your identity. In order to improve our sites and our services, we use "cookies" to track your visit. A cookie is a small string of data that is transferred to your browser from a Web site and can only be read by the Web site that gave it to you. If you have identified yourself to the Web site, the cookie acts as an identification card, recording your passwords and preferences, and possibly your license status. The cookie cannot be executed as software code or used to deliver viruses.</p>
-<p>Most browsers are initially set to accept cookies. You can set your browser to refuse cookies or to notify you when you receive a cookie, giving you the option to accept it or not. CCC's Web-based offerings include a few Web pages that are inaccessible without a cookie. These pages are associated with an automated log-in feature that allows you to access your account information while bypassing the need to provide your identity and password each time. You are not required to use the automated log-in feature. Choosing not to use it will not affect your ability to use any other part of our Web-based offerings or to use CCC's general services. In the event that CCC decides to create other Web-based offerings that are inaccessible without a cookie (which CCC reserves the right to do), you will be given the option to accept the cookie necessary for such access.</p>
-<p>As with most Web sites, CCC also gathers certain information automatically and stores it in log files. This information includes Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, a date/time stamp and clickstream data. We use this information, which does not include personally identifiable information, to analyze trends, administer the site track users' movements around the site and gather demographic information about our user base as a whole.</p>
+<p>When you visit copyright.com or any other CCC Web site, you can surf the site without revealing your identity. In order to improve our sites and our services, we use "cookies" to track your visit. A cookie is a small string of data that is transferred to your browser from a Web site and can only be read by the Web site that gave it to you. If you have logged in to the Web site, the cookie acts as an identification card, recording your preferences, and possibly your license status. The cookie cannot be executed as software code or used to deliver viruses.</p>
+<p>Most browsers are initially set to accept cookies. You can set your browser to refuse cookies or to notify you when you receive a cookie, giving you the option to accept it or not, through your browser settings. CCC's Web-based offerings include a few Web pages that are inaccessible without a cookie. These pages are associated with an automated log-in feature that allows you to access your account information while bypassing the need to provide your identity and password each time. You are not required to use the automated log-in feature. Choosing not to use it will not affect your ability to use any other part of our Web-based offerings or to use CCC's general services. In the event that CCC decides to create other Web-based offerings that are inaccessible without a cookie (which CCC reserves the right to do), you will be given the option to accept the cookie necessary for such access.</p>
+<p>As with most Web sites, CCC also gathers certain information automatically and stores it in log files. This information includes Internet Protocol (IP) addresses, browser type, Internet Service Provider (ISP), referring/exit pages, operating system, and a date/time stamp and clickstream data. We use this information, which does not include personally identifiable information, to analyze trends, administer the site track users' movements around the site, and gather demographic information about our user base as a whole.</p>
 <p>We also employ a software technology called pixel tags (also known as Web beacons) that help us better manage content on our Web site and in other electronic communications by indicating what content is most effective. Pixel tags are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on your computer's hard drive, pixel tags are embedded invisibly in Web pages and in other electronic communications.</p>
-<p>When you accept our cookies, we use them to track your visit to any CCC Web offering. In addition, we use log files and clear gifs to help manage our Web site and other electronic communications. However, none of this information, other than the automated log-in feature, identifies you personally or is tied to any of your personally identifiable information. You remain anonymous unless you have otherwise provided CCC with personal information.</p>
-<p><b>TELL A FRIEND</b><br>
+<p>When you accept our cookies, we use them to track your visit to any CCC Web offering. In addition, we use log files and clear gifs to help manage our Web site and other electronic communications. However, none of this information, other than the automated log-in feature, identifies you personally or is tied to any of your personally identifiable information. You remain anonymous unless you have otherwise provided CCC with personally identifiable information.</p>
+<p>We do not honor Do Not Track requests at this time, due to the lack of a clear industry standard. This privacy policy may be revised when a common definition and standard is adopted.</p>
+<p>We use local shared objects, also known as Flash cookies, to store your preferences such as volume control, or display content based upon what you view on our site to personalize your visit. Third Parties, with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity, use Flash cookies to collect and store information. Flash cookies are different from browser cookies because of the amount and type of data, as well as the method by which it is stored. Cookie management tools provided by your browser will not remove Flash cookies. At any time, you can remove the Flash cookies, and that will not affect your use of the CCC website. To learn how to manage privacy and storage settings for Flash cookies, click here: <a href="http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118" target="_blank">http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118</a></p>
+<p>The use of cookies by our partners, affiliates, tracking utility company and service providers is not covered by our privacy policy. Our tracking utility company and service providers use both session ID and persistent cookies to make it easier for you to navigate our site, in order for you to use the shopping cart and place orders.</p>
+<p>We partner with a third party ad network to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt out by clicking here: <a href="http://preferences-mgr.truste.com" target="_blank">http://preferences-mgr.truste.com/</a> Please note this does not opt you out of general advertising being served to you and you will continue to receive generic ads.</p>
+<p><b>TESTIMONIALS</b><br>
 </p>
-<p>If you choose to use our referral service to tell a friend about our site or share our communications, such as an e-newsletter, we will ask you for your friend's name and e-mail address. We will automatically forward the content to your friend in a one-time e-mail. CCC maintains statistical data tracking the success of our referral program, but we do not store your tell-a-friend information after sending the one-time e-mail. We will store information provided by your friend should s/he choose to receive information from us.</p>
-<p><b>CHANGING OUR RECORDS OF YOUR PERSONAL INFORMATION</b><br>
+<p>We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. The testimonials are posted at: <a href="/content/cc3/en/toolbar/aboutUs/testimonials.html">http://www.copyright.com/content/cc3/en/toolbar/aboutUs/testimonials.html</a> If you wish to update or delete your testimonial, you can contact us at <a href="mailto:info@copyright.com?subject=Inquiry from Privacy Policy (copyright.com)" target="_blank">info@copyright.com.</a></p>
+<p><b>SOCIAL MEDIA</b><br>
 </p>
-<p>You have the right to correct your personal information. This may be accomplished either directly on our Web site on those screens that allow you to edit your personal information; by writing to CCC at: Copyright Clearance Center, Inc., Customer Relations Department, 222 Rosewood Drive, Danvers, Massachusetts 01923, USA; or by e-mailing us at <a href="mailto:info@copyright.com?subject=Privacy%20Policy"><i>info@copyright.com</i></a>. When you contact us please include your name, address and/or e-mail address, account number (if known) and a detailed explanation of your request.</p>
+<p>Our Web site includes Social Media, such as the Facebook and Twitter buttons or interactive mini-programs that run on our site. These Social Media features may collect your IP address, locate the page you are visiting on our site, and they may set a cookie to enable the Social Media to function properly. Social Media are either hosted by a third party or hosted directly on our Site. Your interactions with these Social Media are governed by the privacy policy of the company providing it.</p>
+<p><b>CHANGING OUR RECORDS OF YOUR PERSONALLY IDENTIFIABLE INFORMATION</b><br>
+</p>
+<p>You have the right to correct or delete your personally identifiable information. This may be accomplished either directly on our Web site on those screens that allow you to edit your personally identifiable information; by writing to CCC at: Copyright Clearance Center, Inc., Customer Relations Department, 222 Rosewood Drive, Danvers, Massachusetts 01923, USA; or by e-mailing us at <a href="mailto:info@copyright.com?subject=Inquiry from Privacy Policy (copyright.com)"><i>info@copyright.com</i></a>.</p>
+<p>When you contact us please include your name, address and/or e-mail address, account number (if known) and a detailed explanation of your request.</p>
+<p>We will retain your information for as long as your account is active or as needed to provide you with services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.</p>
 <p><b>OPTING OUT OF RECEIVING INFORMATION FROM CCC</b></p>
-<p>Copyright Clearance Center follows industry standard safe unsubscribe practices. You have the right to opt out of receiving marketing communications and newsletters from CCC by following the "unsubscribe" instructions that come with each message from us. In addition, you may opt out of receiving such communications by writing to us at: Copyright Clearance Center, Inc., Marketing Department, 222 Rosewood Drive, Danvers, Massachusetts 01923, USA; by e-mailing us at <a href="mailto:marketing@copyright.com?subject=Privacy%20Policy"><i>marketing@copyright.com</i></a>; or by telephoning us at 978-750-8400 and asking to speak with the Marketing Department Administrator.</p>
+<p>Copyright Clearance Center follows industry standard safe unsubscribe practices. You have the right to opt out of receiving marketing communications and newsletters from CCC by following the "unsubscribe" instructions that come with each message from us. In addition, you may opt out of receiving such communications by writing to us at: Copyright Clearance Center, Inc., Marketing Department, 222 Rosewood Drive, Danvers, Massachusetts 01923, USA; by e-mailing us at <a href="mailto:marketing@copyright.com?subject=Inquiry from Privacy Policy (copyright.com)"><i>marketing@copyright.com</i></a>; or by telephoning us at 978-750-8400 and asking to speak with the Marketing Department Administrator.</p>
 <p><b>SECURITY</b></p>
-<p>The security of your personal information is important to us. The password that protects your personal information, as well as your credit card information, are encrypted during transmission using secure socket layer (SSL) technology, which is widely used on the Internet for this purpose. These data are also stored in encrypted form.</p>
+<p>The security of your personally identifiable information is important to us. The password that protects your personally identifiable information, as well as your credit card information, are encrypted during transmission using secure socket layer (SSL) technology, which is widely used on the Internet for this purpose. These data are also stored in encrypted form.</p>
 <p>CCC adheres to generally accepted industry standards to protect this information, both during transmission and once we receive it. These standards include the use of leading hardware and software applications. However, no method of transmission over the Internet or method of electronic storage is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your applicable information, we cannot guarantee its absolute security.</p>
-<p>If you have any questions about security on our Web site, you can e-mail us at <a href="mailto:info@copyright.com?subject=Privacy%20Policy"><i>info@copyright.com</i></a>, or contact our Data Protection Officer at <a href="mailto:dpo@copyright.com?subject=Privacy%20Policy"><i>dpo@copyright.com</i></a>.</p>
-<p>You may also contact our Data Protection Officer with any questions or comments about this privacy policy. If at any time you believe that we have not adhered to this privacy polcy or you have a complaint regarding the way your personal information is being handled, please contact the Data Protection Officer. Disputes under this privacy policy will be resolved by the Data Protection Officer, who will use commercially reasonable efforts to promptly investigate and, if necessary, correct any problem.</p>
+<p>If you have any questions about security on our Web site, you can e-mail us at <a href="mailto:info@copyright.com?subject=Inquiry from Privacy Policy (copyright.com)"><i>info@copyright.com</i></a>, or contact our Data Protection Officer at <a href="mailto:dpo@copyright.com?subject=Inquiry from Privacy Policy (copyright.com)"><i>dpo@copyright.com</i></a>.</p>
+<p>You may also contact our Data Protection Officer with any questions or comments about this privacy policy. If at any time you believe that we have not adhered to this privacy policy or you have a complaint regarding the way your personally identifiable information is being handled, please contact the Data Protection Officer. Disputes under this privacy policy will be resolved by the Data Protection Officer, who will use commercially reasonable efforts to promptly investigate and, if necessary, correct any problem.</p>
 <p>Data Protection Officer<br>
 Copyright Clearance Center<br>
 222 Rosewood Drive<br>
 Danvers, MA 01923 USA<br>
-Email: <a href="mailto:dpo@copyright.com?subject=Privacy%20Policy">dpo@copyright.com</a></p>
+Email: <a href="mailto:dpo@copyright.com?subject=Inquiry from Privacy Policy (copyright.com)">dpo@copyright.com</a></p>
 <p><b>OUR COMMITMENT TO YOUR PRIVACY</b></p>
-<p>CCC has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with <a href="http://www.truste.com/privacy-program-requirements/index.html" target="_blank">TRUSTe's program requirements</a> including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers the web site [insert URLs here] and does not cover information that may be collected through behind the login and mobile app.<br>
-</p>
-<p>TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at <a href="mailto:info@copyright.com" target="_blank">info@copyright.com</a>.&nbsp; If you are not satisfied with our response you can contact TRUSTe <a href="http://watchdog.truste.com/pvr.php?page=complaint" target="_blank">here</a>.</p>
+<p>CCC has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with <a href="http://www.truste.com/privacy-program-requirements/index.html" target="_blank">TRUSTe's program requirements</a> including transparency, accountability and choice regarding the collection and use of your personally identifiable information. The TRUSTe program covers the web site <a href="/">www.copyright.com</a> and does not cover information that may be collected through the login or a mobile app.</p>
+<p>TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at <a href="mailto:info@copyright.com" target="_blank">info@copyright.com</a> If you are not satisfied with our response you can contact TRUSTe <a href="https://feedback-form.truste.com/watchdog/request" target="_blank">here</a>.</p>
 <p><b>CHANGES TO THIS PRIVACY POLICY</b></p>
-<p>When we make any material change to this Privacy Policy, we will inform you by posting a notice on the homepage of www.copyright.com for 30 days that the policy has been updated and by changing the date on this page noting when the policy was last updated.</p>
+<p>When we make any material change to this Privacy Policy, we will inform you by email (sent to the e-mail address specified in your account) or by posting a notice on the homepage of <a href="/">www.copyright.com</a> prior to the change becoming effective. We will post a notice on our homepage for 30 days, thereafter, stating that the policy has been updated and we will change the date on this page, noting when the policy was last updated.</p>
 </div>
 </div>
 </div>
@@ -640,7 +733,9 @@ Email: <a href="mailto:dpo@copyright.com?subject=Privacy%20Policy">dpo@copyright
 <div id="one-column-bottomcorners"></div>
         
 <!-- begin footer -->
-        <div class="cc3_footer">
+    
+        
+            <div class="cc3_footer">
 
  
 
@@ -748,9 +843,10 @@ Email: <a href="mailto:dpo@copyright.com?subject=Privacy%20Policy">dpo@copyright
 
                
             </p>
+            
             <div class="clearer"></div>
             <div id="footer-content-copyright">
-                <a href="/content/cc3/en/tools/copyright.html" rel="nofollow">Copyright</a> 2013 Copyright Clearance Center
+                <a href="/content/cc3/en/tools/copyright.html" rel="nofollow">Copyright</a> 2014 Copyright Clearance Center
             </div>
             <div class="clearer"></div>
         </div>
@@ -773,57 +869,10 @@ Email: <a href="mailto:dpo@copyright.com?subject=Privacy%20Policy">dpo@copyright
     </noscript>
 
     
-    <div class="parbase remarketing">
+    
+<div class="parbase add_this_floating add_this"></div>
 
-
-
-<!-- Google Code for Visitors To Site -->
-<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
-<script type="text/javascript">
-    /* <![CDATA[ */
-        var google_conversion_id = 1064532594;
-        var google_conversion_label = "wMw5CL6UgAIQ8vTN-wM";
-        var google_custom_params = window.google_tag_params;
-        var google_remarketing_only = true;
-    /* ]]> */
-</script>
-<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-</script>
-<noscript>
-    <div style="display:inline;">
-        <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1064532594/?value=0&amp;label=wMw5CL6UgAIQ8vTN-wM&amp;guid=ON&amp;script=0"/>
-    </div>
-</noscript>
-
-
-</div>
-
-    <div class="add_roll parbase">
-
-
-
-<script type="text/javascript"> 
-adroll_adv_id = "56TMRRJTRVB6DNEAZPEEVQ"; 
-adroll_pix_id = "G37O6PG4SVA7XMZN6XAFKA"; 
-(function () { 
-var oldonload = window.onload; 
-window.onload = function(){ 
-   __adroll_loaded=true; 
-   var scr = document.createElement("script"); 
-   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com"); 
-   scr.setAttribute('async', 'true'); 
-   scr.type = "text/javascript"; 
-   scr.src = host + "/j/roundtrip.js"; 
-   ((document.getElementsByTagName('head') || [null])[0] || 
-    document.getElementsByTagName('script')[0].parentNode).appendChild(scr); 
-   if(oldonload){oldonload()}}; 
-}()); 
-</script> 
-
-
-</div>
-
-    <div class="parbase ccc_bing_conversion">
+<div class="parbase ccc_bing_conversion">
 
 
 <script type="text/javascript">
@@ -842,8 +891,38 @@ window.onload = function(){
     </iframe>
 </noscript></div>
 
+
+
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+var _qevents = _qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+_qevents.push({
+qacct:"p-ZxA_Wd5fM-59D"
+});
+</script>
+
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-ZxA_Wd5fM-59D.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast tag -->
+
 <!-- End Footer --></div>
  
+        
+        
+    
 <!-- end footer -->   
 
         <!-- POPUP -->
@@ -851,7 +930,6 @@ window.onload = function(){
             //  Uncomment for popup on all pages used by this layout.
             //  popup_new_site_message();
         </script>
-
 
 
 </body></html>
