@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the driverboost.com privacy policy that was archived on 2013-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131130144625id_/http%3A//www.driverboost.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the driverboost.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629224134id_/http%3A//www.driverboost.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | DriverBoost.com
 
@@ -108,7 +108,7 @@ This Privacy Policy was last amended on 2013 Apr 22.
 
 [](http://www.downloadroute.com/DriverBoost-Maxpro-Software-Inc.html)
 
-[](https://web.archive.org/web/20131130144625id_/http%3A//www.driverboost.com/integrity.php)
+[](https://web.archive.org/web/20140629224134id_/http%3A//www.driverboost.com/integrity.php)
 
 DriverBoost Pro™  
 Boost Software Inc.  
