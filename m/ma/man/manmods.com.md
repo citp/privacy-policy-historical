@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manmods.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228120303id_/http%3A//manmods.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manmods.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630011620id_/http%3A//manmods.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
