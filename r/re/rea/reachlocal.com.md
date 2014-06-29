@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reachlocal.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227225944id_/http%3A//www.reachlocal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reachlocal.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629202625id_/http%3A//www.reachlocal.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ReachLocal
 
@@ -42,7 +42,7 @@ Please be aware that when you are on the Site, you could be directed to other si
 
 ### Security
 
-The security of your Personal Information is important to us. We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data. We restrict access to personal information to ReachLocal employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
+The security of your Personal Information is important to us. We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data. We restrict access to personal information to ReachLocal employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations. For more information visit the [Security](http://www.reachlocal.com/security) page.
 
 ### Account
 
