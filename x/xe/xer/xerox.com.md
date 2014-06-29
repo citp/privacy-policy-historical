@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xerox.com privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105120047id_/http%3A//www.xerox.com/about-xerox/privacy-policy/enus.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xerox.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629225537id_/http%3A//www.xerox.com/about-xerox/privacy-policy/enus.html) for the most accurate reproduction.*
 
 # Xerox Corporation Privacy Policy
 
@@ -146,11 +146,9 @@ Websites cooperate with online advertisers to collect information about visitors
 
 Xerox and our third party advertising partners may use cookies or web beacons to collect information for the purposes of interest-based advertising based on your visits to Xerox.com and other web sites. These cookies identify the pages you view, the links and ads you click on, other actions you take on those websites, and the referring website. Similarly, online advertisers use cookies to deliver advertising to you for companies other than Xerox based on your visits to Xerox.com and other websites. 
 
-You can learn more about interest-based advertising at [www.aboutads.info/choices](http://www.aboutads.info/choices/).
+**Can I control the interest-based advertising that Xerox web sites collect about me?**
 
- **Can I control the interest-based advertising that Xerox web sites collect about me?**
-
-Yes, the website at [www.aboutads.info/choices](http://www.aboutads.info/choices/) provides you the ability to opt-out of data collection by companies that adhere to the [Self-Regulatory Program for Online Behavioral Advertising](http://www.aboutads.info/principles/). 
+Yes, Xerox provides a tool to opt-out of data collection by companies that adhere to the [Self-Regulatory Program for Online Behavioral Advertising](http://www.aboutads.info/principles/). 
 
 We welcome questions or comments about our Online Privacy Policy. You may also contact us if you feel that your personal information is used in a way inconsistent with this policy. [Email](mailto:ethics@xerox.com) us or call 1-866-XRX-0001 if you are in North America. International numbers and a Web submission tool are available on [www.xerox.com/ethics](http://www.xerox.com/ethics). You may also contact us via postal mail at: 
 
@@ -167,7 +165,7 @@ USA
 
 Xerox reserves the right to make changes to this policy. If we make changes, we will revise this Online Privacy Policy to reflect such changes and revise the effective date of the policy. 
 
-Policy Effective Date: June 11, 2013. 
+Policy Effective Date: February 24, 2014. 
 
 **What was revised in the last update?**
 
