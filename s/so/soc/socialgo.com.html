@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the socialgo.com privacy policy that was archived on 2013-08-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130816063528id_/http%3A//www.socialgo.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the socialgo.com privacy policy that was archived on 2014-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140630011316id_/http%3A//www.socialgo.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
     
@@ -8,6 +8,7 @@
 <link rel="stylesheet" href="/public/css/dd.css">
 <link rel="stylesheet" href="/public/css/header.css">
 <link rel="stylesheet" type="text/css" href="/public/js/fancybox/jquery.fancybox-1.3.4.css" media="screen">
+<link rel="stylesheet" type="text/css" href="/public/css/tooltipster.css">
 
 <!--[if IE]>
 <style type="text/css">
@@ -27,6 +28,8 @@ span.quote_one, span.quote_two { color: #eee; }
 
 <script type="text/javascript" src="/public/js/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
 <script type="text/javascript" src="/public/js/jquery.bxslider.min.js"></script>
+<script type="text/javascript" src="/public/js/jquery.anchor.js"></script>
+<script type="text/javascript" src="/public/js/jquery.tooltipster.min.js"></script>
 
 <meta name="google-site-verification" content="ydoV-Mc7SA3hfdvkC5VSr9J7x3PCP6k2AaaMF-Tn4bs"> 
 
@@ -65,6 +68,15 @@ $(document).ready(function() {
 		$('.standard ul li ').mouseleave(function(){
 			$('.popup').hide();
 		});
+
+    //-- compare feature tooltip
+
+        $('.tooltip').tooltipster({
+            maxWidth: 236,
+            offsetY: -13,
+            position: 'top-left',
+            theme: 'tooltipster-sg'
+        });
 		
 		
 
@@ -99,7 +111,8 @@ $(document).ready(function() {
 		controls: false,
 		pager: false,
 		mode: 'fade',
-		speed: 1500
+		speed: 1500,
+        pause: 8000
 	});
 	
 	$('.marketing_slide').bxSlider({
@@ -114,15 +127,65 @@ $(document).ready(function() {
 		pager: true,
 		mode: 'fade'
 	});
-	
 
+    //-- scroll to the end of the banner
 
-	$("span.landing").click(function()
+	$("span.scroll").click(function()
 	{
 		$height = $(this).parent(".banner").height();
 		$distance = $height +1;
-		$('html, body').animate({ scrollTop: $distance }, 500);
-	}); 
+		$('html, body').animate({ scrollTop: $distance }, 1100);
+	});
+
+
+    //-- show and hide scroll down button on pages
+
+    if ($('.scroll-down').hasClass('has-banner')) {
+        $('.scroll-down').hide();
+    } else {
+        $('.scroll-down').show();
+    }
+
+    $(document).scroll(function () {
+        var y = $(this).scrollTop();
+
+        if ($('.scroll-down').hasClass('has-banner')) {
+            $height = $(this).parent(".scroll-down").height() + $(this).parent(".scroll-down").height() + 500;
+        } else {
+            $height = 0;
+        }
+
+        if (y >= $height) {
+            if ($("body").height() <= ($(window).height() + $(window).scrollTop())) {
+                $('.scroll-down').fadeOut();
+            } else {
+                $('.scroll-down').fadeIn();
+            }
+        } else {
+            $('.scroll-down').fadeOut();
+        }
+    });
+
+    $(".scroll-down")
+        .mouseover(function() {
+            $('html, body').animate({ scrollTop: $("body").height() }, 7100);
+        })
+        .mouseout(function() {
+            $('html, body').stop();
+        });
+
+
+    //-- show and hide design and build text
+
+    $('.db-text').hide();
+
+    $( ".db-sticker" )
+        .mouseover(function() {
+            $('.db-text').fadeIn();
+        })
+        .mouseout(function() {
+            $('.db-text').fadeOut();
+        });
 	
 }); // end doc ready
 </script>    
@@ -176,7 +239,7 @@ $(document).ready(function() {
 					<div class="logo"></div>
 				</a>
 			
-				<li class="drop-down"><a href="/classic" class="pie ">CLASSIC</a>
+				<li class="drop-down classic"><a href="/classic" class="pie ">CLASSIC</a>
 					<ul>
 						<li><a href="/classic" class="pie">OVERVIEW</a></li>
 						<li><a href="/classic/pricing" class="pie">PRICING</a></li>
@@ -184,13 +247,16 @@ $(document).ready(function() {
 					</ul>
 				</li>
 					
-				<li class="drop-down"><a href="/pro" class="pie ">PRO</a>
+				<li class="drop-down pro"><a href="/pro" class="pie ">PRO</a>
 					<ul>
 						<li><a href="/pro" class="pie">OVERVIEW</a></li>
 						<li><a href="/pro/pricing" class="pie">PRICING</a></li>
 						<li><a href="/pro/features" class="pie">FEATURES</a></li>					
 					</ul>
 				</li>
+
+                <li class="drop-down"><a href="/compare" class="pie ">COMPARE</a>
+                </li>
 					
 				</div>
 				<div class="fl-rt">			
@@ -218,6 +284,8 @@ $(document).ready(function() {
 	
 	 </div>
 
+
+<div class="scroll-down"><span class="button2 button47 pie">↓ Scroll Down ↓</span></div>
     
    <div class="container">
    		<div class="content_main">
@@ -348,9 +416,72 @@ This privacy policy applies to any personal data that we collect about you or us
 				<ul>
 			            
 					<li> 
-						<span class="tweet"></span>
-						<a target="_blank" class="link_text2" href="https://twitter.com/socialgo/status/">Original Tweet</a>
-						<span class="date">1 January 1970 | 12:00 am</span>
+						<span class="tweet">Hey @zuora - are you having problems today? We keep getting 'Internal Server Error. Please try again later.'</span>
+						<a target="_blank" class="link_text2" href="https://twitter.com/socialgo/status/482485330764132353">Original Tweet</a>
+						<span class="date">27 June 2014 | 11:27 am</span>
+						<div class="clear"></div>
+					</li>
+	 	 		  	    
+					<li> 
+						<span class="tweet">What else would you add to this list? http://t.co/GZFW5zmZq7 #SocialMediaMarketing</span>
+						<a target="_blank" class="link_text2" href="https://twitter.com/socialgo/status/476337189262209024">Original Tweet</a>
+						<span class="date">10 June 2014 | 12:16 pm</span>
+						<div class="clear"></div>
+					</li>
+	 	 		  	    
+					<li> 
+						<span class="tweet">How to keep customers engaged in social media http://t.co/jt4mz8SnxE</span>
+						<a target="_blank" class="link_text2" href="https://twitter.com/socialgo/status/473405101533855744">Original Tweet</a>
+						<span class="date">2 June 2014 | 10:05 am</span>
+						<div class="clear"></div>
+					</li>
+	 	 		  	    
+					<li> 
+						<span class="tweet">Let us know if you need any help over at support@socialgo.com any time @shareabottle</span>
+						<a target="_blank" class="link_text2" href="https://twitter.com/socialgo/status/458540099467481088">Original Tweet</a>
+						<span class="date">22 April 2014 | 9:37 am</span>
+						<div class="clear"></div>
+					</li>
+	 	 		  	    
+					<li> 
+						<span class="tweet">How 'Business and Social' go hand-in-hand: http://t.co/YmnYizbHj3</span>
+						<a target="_blank" class="link_text2" href="https://twitter.com/socialgo/status/456009662815809536">Original Tweet</a>
+						<span class="date">15 April 2014 | 10:02 am</span>
+						<div class="clear"></div>
+					</li>
+	 	 		  	    
+					<li> 
+						<span class="tweet">Monday Blues? Imagine you're here instead: http://t.co/xTUcUt527a</span>
+						<a target="_blank" class="link_text2" href="https://twitter.com/socialgo/status/453107506509004800">Original Tweet</a>
+						<span class="date">7 April 2014 | 9:50 am</span>
+						<div class="clear"></div>
+					</li>
+	 	 		  	    
+					<li> 
+						<span class="tweet">60 + events in social media and PR. Interested? Peek to see if one's in your neck of the woods: http://t.co/2ZpweVIgIW</span>
+						<a target="_blank" class="link_text2" href="https://twitter.com/socialgo/status/451659355625385984">Original Tweet</a>
+						<span class="date">3 April 2014 | 9:55 am</span>
+						<div class="clear"></div>
+					</li>
+	 	 		  	    
+					<li> 
+						<span class="tweet">How do design successful social products: http://t.co/YWKcVlBRvO</span>
+						<a target="_blank" class="link_text2" href="https://twitter.com/socialgo/status/448483281135472640">Original Tweet</a>
+						<span class="date">25 March 2014 | 3:35 pm</span>
+						<div class="clear"></div>
+					</li>
+	 	 		  	    
+					<li> 
+						<span class="tweet">How to Identify and Secure Top Talent Before Your Competitors Grab 'Em! - Social-Hire http://t.co/QUIUzLrqFY</span>
+						<a target="_blank" class="link_text2" href="https://twitter.com/socialgo/status/444100800663416832">Original Tweet</a>
+						<span class="date">13 March 2014 | 1:20 pm</span>
+						<div class="clear"></div>
+					</li>
+	 	 		  	    
+					<li> 
+						<span class="tweet">In London &amp;amp; wanna know what's on tonight? Check out these cool apps: http://t.co/N4Fxgh505g</span>
+						<a target="_blank" class="link_text2" href="https://twitter.com/socialgo/status/441901200888569856">Original Tweet</a>
+						<span class="date">7 March 2014 | 11:40 am</span>
 						<div class="clear"></div>
 					</li>
 	 	 		  		 	 		  	<center>
