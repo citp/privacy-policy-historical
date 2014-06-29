@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the learninggamesforkids.com privacy policy that was archived on 2013-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130813025515id_/http%3A//www.learninggamesforkids.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learninggamesforkids.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629143332id_/http%3A//www.learninggamesforkids.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Learning Games For Kids
 
 Privacy Policy Updated: June 2013
 
-At Learninggamesforkids.com, we consider children’s safety–which is related to privacy–to be all-important.Our site complies with the Children’s Online Privacy Protection Act “COPPA”, which you may read about here. Please read this Privacy Policy carefully because it describes our privacy practices and helps distinguish our service from others which have different policies. If you have questions or comments on our policy, we would very much like to hear from you using the contact us function on the website.
+At Learninggamesforkids.com, we consider children’s safety–which is related to privacy–to be all-important. Our site complies with the Children’s Online Privacy Protection Act, “COPPA”, which you may read about [here](http://www.coppa.org/coppa.htm). Please read this Privacy Policy carefully because it describes our privacy practices and helps distinguish our service from others which have different policies. If you have questions or comments on our policy, we would very much like to hear from you using the contact us function on the website.
 
-Learninggamesforkids.com service – provides a variety of online learning games and resources. Registration is not required and we never store any game data. The only contact information that is collected is from parents interested in receiving our newsletter. www. Learninggamesforkids.com will never seek to directly contact children under 14 years of age.
+Learninggamesforkids.com service – provides a variety of online learning games and resources. Registration is not required and we never store any game data. The only contact information that is collected is from parents interested in receiving our newsletter. Learninggamesforkids.com will never seek to directly contact children under 14 years of age.
 
 ## Supervision
 
@@ -14,7 +14,7 @@ Children on the internet should be closely supervised and instructed about secur
 
 ## What about the collection of information by third parties?
 
-Our web site contains links to web sites not maintained by Learninggamesforkids.com. The privacy and data collection practices on any linked web sites are entirely separate from those of Learninggamesforkids.com and are not covered by this Privacy Policy. We cannot guarantee that student users will not go to another site where personal information from them is solicited. Learninggamesforkids.com does have limited advertising on the site and takes measures to maintain the appropriateness of the advertising material to the educational mission of Learninggamesforkids.com. Google’s Adsense service is our primary supplier of advertising; Google’s activities include placing “cookies” on user computers in order to track user movement through various websites on the internet.
+Our web site contains links to web sites not maintained by Learninggamesforkids.com. The privacy and data collection practices on any linked web sites are entirely separate from those of Learninggamesforkids.com and are not covered by this Privacy Policy. We cannot guarantee that student users will not go to another site where personal information from them is solicited. Learninggamesforkids.com does have limited advertising on the site and takes measures to maintain the appropriateness of the advertising material to the educational mission of Learninggamesforkids.com. Google’s AdSense service is our primary supplier of advertising; Google’s activities include placing “cookies” on user computers in order to track user movement through various websites on the internet.
 
 ***What is a cookie?**
 
@@ -39,7 +39,7 @@ Learninggamesforkids.com is supported in part by Time4Learning.com and Time4Writ
 
 ## Notice to California Residents: Your California Privacy Rights
 
-Effective January 1, 2005, California Civil Code Secton 1798.83 permist our customers who are California residents to request cerain information regarding our dislcosure of personal information to third parties for their direct marketing purposes. To make such a request, please write to us at:
+Effective January 1, 2005, California Civil Code Secton 1798.83 permits our customers who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please write to us at:
 
 Learninggamesforkids.com   
 Attention: California Privacy Rights Request   
