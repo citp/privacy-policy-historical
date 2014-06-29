@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the t.co privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231222021id_/http%3A//twitter.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the t.co privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630004556id_/http%3A//twitter.com/privacy) for the most accurate reproduction.*
 
-# Twitter / Twitter Privacy Policy
+# Twitter / Twitter 的隱私政策
+
+## Twitter Privacy Policy
 
 Twitter instantly connects people everywhere to what’s most meaningful to them. Any registered user can send a Tweet, which is a message of 140 characters or less that is public by default and can include other content like photos, videos, and links to other websites.
 
