@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the opensesame.com privacy policy that was archived on 2013-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130905072225id_/https%3A//www.opensesame.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opensesame.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629055441id_/https%3A//www.opensesame.com/privacy) for the most accurate reproduction.*
 
-# OpenSesame Privacy Policy Online | OpenSesame
+# Learn OpenSesame's e Learning Policy for Privacy
 
 This Privacy Policy (this “Policy”) describes how OpenSesame Inc. (“OpenSesame”), treats information collected from you at the OpenSesame web site (http://www.opensesame.com) (the “Site”) and how it uses and discloses such information. By accessing the Site, you consent to the collection, use and disclosure of your information in accordance with the terms of this Policy.  If you do not wish your information to be collected, used or disclosed in the manners described in this Policy, please do not access the Site or make use of OpenSesame’s training services and related goods. 
 
@@ -18,7 +18,7 @@ OpenSesame complies with requirements of the Children’s Online Privacy Protect
 ## Use of Information
 
   1. Aggregate Information.  OpenSesame uses Aggregate Information only to generate statistical reports, such as reports about the use of the Site.  Such reports are used to make the Site better meet your needs or to allow OpenSesame to better conduct its business. 
-  2. Personal Information.  OpenSesame uses Personal Information to fulfill your requests for certain products and services; to customize the content you see; and to contact you about specials and new products.  OpenSesame reserves the right to use an outside shipping company to ship orders and a credit card processing company to bill users for goods and services.  When OpenSesame uses third parties such as these to assist OpenSesame in processing your requests on the Site, OpenSesame requires that the third parties comply with this Policy and any other appropriate confidentiality and security measures.  OpenSesame may also share Personal Information with third parties in limited circumstances, including when complying with legal process, preventing fraud or imminent harm, and ensuring the security of OpenSesame’s network and services. 
+  2. Personal Information. OpenSesame uses Personal Information to fulfill your requests for certain products and services; to customize the content you see; and to contact you about specials and new products. OpenSesame reserves the right to use third party providers to assist in providing services such as shipping, credit card processing, and communication regarding OpenSesame's services. When OpenSesame uses third parties such as these, OpenSesame requires that the third parties comply with this Policy and any other appropriate confidentiality and security measures. OpenSesame may also share Personal Information with third parties in limited circumstances, including when complying with legal process, preventing fraud or imminent harm, and ensuring the security of OpenSesame’s network and services. 
 
 
 
@@ -58,4 +58,4 @@ OpenSesame reserves the right to make, at its sole discretion, any changes, modi
 
 ## Traveling Beyond the OpenSesame Internet Portal
 
-As a trade-specific portal, this Site provides you with a doorway to the Internet.  When you travel beyond this Site, OpenSesame advises you to browse carefully.  This Policy does not apply to the practices of companies that OpenSesame does not own or control, or to people that OpenSesame does not employ or manage.  OpenSesame recommends that you read the Federal Trade Commission reports and discussions regarding privacy and security located at: http://www.ftc.gov/bcp/menus/consumer/tech/privacy.shtm 
+As a trade-specific portal, this Site provides you with a doorway to the Internet.  When you travel beyond this Site, OpenSesame advises you to browse carefully.  This Policy does not apply to the practices of companies that OpenSesame does not own or control, or to people that OpenSesame does not employ or manage.  OpenSesame recommends that you read the Federal Trade Commission reports and discussions regarding privacy and security located at: http://www.ftc.gov/bcp/menus/consumer/tech/privacy.shtm
