@@ -1,69 +1,105 @@
-> *The following text is extracted and transformed from the myenglishteacher.eu privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209225956id_/http%3A//www.myenglishteacher.eu/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myenglishteacher.eu privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629081036id_/http%3A//www.myenglishteacher.eu/privacy-policy) for the most accurate reproduction.*
 
-# MyEnglishTeacher.eu Adatkezelési nyilatkozata
+# Privacy Policy - Online English Teacher - MyEnglishTeacher.eu
 
-  
+**[](http://www.myenglishteacher.eu/)**
 
+**What information do we collect?**
 
-1\. Handled data
+We collect information from you when you subscribe to our newsletter, fill out a form or purchase English lessons.
 
-Myenglishteacher.eu will only store the following data provided by the User: name, e-mail address, photo, teaching place, teaching language, is English the first language, practice, hourly fee, teaching level, form of teaching, and personal information provided voluntarily considered by the User as important (editable).
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, credit card information or Shipping address. You may, however, visit our site anonymously.
 
-Other Users can access only the following data: name, photo, teaching place, teaching language, is English the first language, practice, hourly fee, teaching level, form of teaching, and personal information provided voluntarily considered by the User as important (editable).
+Google, as a third party vendor, uses cookies to serve ads on your site.  
+Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
+Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
 
-Our servers log the IP address of the User, the start and end of visit, and in some cases – based on the User’s computer settings – the type of browser and operating system used during the viewing of Myenglishteacher.eu. Our system automatically logs this data. The log file data will not be connected by Myenglishteacher.eu with any other personal data.
+**What do we use your information for?**
 
-2\. Purpose of data management
+Any of the information we collect from you may be used in one of the following ways:
 
-The purpose of data management in the case of mandatory data provided by the User is the identification of the User’s authorization, and the possibility of performing the ordered service.  
-The log file data collected during the use of Myenglishteacher.eu is stored solely for statistical purposes.
+; To personalize your experience  
+(your information helps us to better respond to your individual needs)
 
-Myenglishteacher.eu will not use the personal data for any purpose other than the specified purposes; will not disclose any personal data – with the exception of the following cases – to any third party:
+; To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-  * Data transfers required by law,
-  * Partners effecting payments (e.g. credit card companies, banks, PayPal),
-  * IT service providers (e.g. computer centres, internet service providers, data recovery providers, mass mailing service providers)
+; To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs)
 
+; To process transactions
 
+> Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
-These service providers can access your data only to the extent necessary for the fulfilment of their tasks. These service providers oblige themselves to handle your personal data according to this privacy policy statement, and pursuant to the relevant data protection acts.
+; To administer a contest, promotion, survey or other site feature
 
-3\. Duration of data management
+; To send periodic emails
 
-The mandatory data provided by the User is stored on the server of Myenglishteacher.eu until the existence of the relation, but for a maximum of 2 years after the inactivation of the registration.
+> The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
 
-The system stores the data collected in the log file during the use of Myenglishteacher.eu for maximum 2 years starting from visiting the website.
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
-4\. Deletion of personal data
+**How do we protect your information?**
 
-We delete the personal data if its management is unlawful, or if the purpose of data management has been terminated, or if the User expresses his/her definite wish to ultimately delete their data from our record.
+We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.
 
-5\. Data processor
+We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.
 
-Myenglishteacher.eu does not apply an external data processor.
+After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.
 
-6\. Data security measures
+**Do we use cookies?**
 
-Myenglishteacher.eu does not place cookies on the User’s computer.  
-Myenglishteacher .eu carefully chose its hosting provider (where the files of its website and user data are stored) in order to protect its data against unauthorised access, however nobody is safe from hackers these days. Myenglishteacher.eu will notify you, as soon as possible, if a breach in security results in an unauthorized intrusion into our system which materially affects you, and will subsequently report the corrective action taken in response to the intrusion.
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
 
-Myenglishteacher.eu accounts require a username and password to log in. When you're finished using Myenglishteacher.eu , please click the "log out" link in the top right corner of your screen, to prevent someone from using your computer to access your account. You must keep your username and password secure and not disclose it to a third party.
+We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
 
-7\. User rights concerning the management of personal data
+**Do we disclose any information to outside parties?**
 
-Users may request information regarding the management of their personal data. The request for information must be submitted to [info@myenglishteacher.eu.](mailto:info@myenglishteacher.eu)
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-8\. Modification of the privacy policy
+**Third party links**
 
-Myenglishteacher may update this Privacy Policy in the future to reflect changes in our privacy practices, our website functionality, or applicable legislation, so please check back often. We will notify you about material changes to this Privacy Policy by sending a notice to the e-mail address you provided to us or by placing a prominent notice on the Site.
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-9\. Means of redress
+**California Online Privacy Protection Act Compliance**
 
-The User can seek redress and make a complaint at the office of the Data Protection Commissioner (Address: ) If you have any further questions and observations, please contact Myenglishteacher.eu by e-mail at [info@myenglishteacher.eu](mailto:info@myenglishteacher.eu) or regular mail at
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
 
-MyLanguageTeacher Kft.  
-H-1139 Budapest  
-Petneházy u. 38-42. B/8/1.
+**Childrens Online Privacy Protection Act Compliance**
 
-This privacy policy is effective as of 1 April 2011  
- 
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+**Online Privacy Policy Only**
+
+This online privacy policy applies only to information collected through our website and not to information collected offline.
+
+**Terms and Conditions**
+
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at[ http://myenglishteacher.eu/terms-and-conditions/](http://myenglishteacher.eu/terms-and-conditions/)
+
+**Your Consent**
+
+By using our site, you consent to our [online privacy policy](http://www.freeprivacypolicy.com/).
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will update the Privacy Policy modification date below.
+
+This policy was last modified on 30.09.2013
+
+**Contacting Us**
+
+If there are any questions regarding this privacy policy you may contact us using the information below.
+
+http://myenglishteacher.eu-2/
+
+Lehel u. 61  
+Százhalombatta, Pest 2440  
+Hungary  
+info@myenglishteacher.eu
+
+This policy is powered by Free Privacy Policy and Rhino Support. Compare Rhino Support to [Zen desk](http://www.rhinosupport.com/zendesk.htm) and save!
+
+## Speak English fluently without any fear and thinking about grammar. 
+
+array(3) { [0]=> string(0) "" [1]=> string(14) "privacy-policy" [2]=> string(0) "" } 
