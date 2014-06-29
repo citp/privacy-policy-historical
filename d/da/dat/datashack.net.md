@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the datashack.net privacy policy that was archived on 2013-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130810051331id_/https%3A//www.datashack.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datashack.net privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629085139id_/https%3A//www.datashack.net/privacy) for the most accurate reproduction.*
 
 # DataShack :: Shack Up With Affordable Prices
 
