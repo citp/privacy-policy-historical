@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the technipages.com privacy policy that was archived on 2013-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130909044338id_/http%3A//www.technipages.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technipages.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629145616id_/http%3A//www.technipages.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy & Affiliate Disclaimer - Technipages
+# Privacy Policy & Affiliate Disclaimer
 
 This is the web site of **Technipages**.  
 Our postal address is  
