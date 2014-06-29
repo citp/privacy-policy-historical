@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the davidsprom.com privacy policy that was archived on 2013-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131118064852id_/http%3A//www.davidsbridal.com/webapp/wcs/stores/servlet/PrivacyView%3FlangId%3D-1%26storeId%3D10052%26catalogId%3D10051) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davidsprom.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629182506id_/http%3A//www.davidsbridal.com/webapp/wcs/stores/servlet/PrivacyView) for the most accurate reproduction.*
 
 # David's Bridal: Privacy Policy
 
 **Privacy Rights**
 
-Our privacy policy has changed.This privacy policy is effective as of February1, 2012.
+Our privacy policy has changed. This privacy policy is effective as of March 10, 2014.
 
 David's Bridal, Inc., a Florida corporation, DBD Inc., a Delaware corporation, David's Bridal Canada Inc, a Canadian national corporation, and their respective divisions, subsidiaries and affiliates (collectively, "David's Bridal", "we", "us", or "our") are committed to maintaining your confidence and trust. We have adopted the following privacy policy to explain our practices relating to the information we collect, and the information you provide to us, through your completion of a registration or other form in one of our retail stores, and from your visit to and use of Web sites, Prom'd and other mobile applications, content and services (collectively, the "Service") we make publicly available. 
 
@@ -39,9 +39,18 @@ We review this policy regularly, and make changes in connection with its review.
 
 For purposes of this privacy policy, "personal information" means information that can be linked to a specific individual, such as name, postal address, mobile and wired telephone numbers, e-mail address, and credit card number. Personal information also includes demographic information (e.g., identity of bride or groom, date and location of the wedding, and other biographical and demographic information), location information (e.g., zip code, fine location information), and other information about a specific individual, once it is associated with personal information. However, personal information does NOT include information that we collect but do not associate with you and your personal information.
 
-    A.   California Privacy Rights.
+    A.   Your California Privacy Rights
 
-California Civil Code Section 1798.83 permits California residents to opt-out of our disclosure of personal information to third parties for their direct marketing purposes. You may make such a request by contacting us by e-mail addressed to [remove@dbi.com](mailto:remove@dbi.com). Please reference California Privacy Rights in your subject line. You may also write to us at David's Bridal, Inc., 1001 Washington Street, Conshohocken, PA 19428, Attn: Privacy Officer. Please be aware that this opt-out does not prohibit our disclosure of personal information for any purpose other than direct marketing.
+David's Bridal makes these disclosures to its customers, and those visiting its website, who reside in California and supersedes and replaces any conflicting disclosures found elsewhere on our website. 
+
+  1. _Opt-Out of Disclosure for Direct Marketing Purposes_. California Civil Code Section 1798.83 permits California residents to opt-out of our disclosure of personal information to third parties for their direct marketing purposes or to learn the categories of recipients and information disclosed. You may make such a request by contacting us by e-mail addressed to [remove@dbi.com](mailto:remove@dbi.com). Please reference California Privacy Rights in your subject line. You may also write to us at David's Bridal, Inc., PO Box 549, Conshohocken, PA 19428, Attn: Privacy Officer. Please be aware that this opt-out does not prohibit our disclosure of personal information for any purpose other than direct marketing.
+  2.  _Automatic Gathering of Information by David's Bridal_. David's Bridal collects information that you provide to us online, through completion of registration and other forms in our retail stores, or through other means.
+  3.  _Automatic Gathering of Information by Third Parties_. When you visit our website, third parties can collect personally identifiable information about your online activities over time and across different websites pertaining to your visit to or use of our and other Websites. 
+  4. _Do-Not-Track Requests_. As of January 1, 2014, California residents visiting our website may request that we not automatically gather and track information pertaining to their online browsing movements across the Internet. Such requests are typically made through Web browser settings that control signals or other mechanisms that provide consumers the ability to exercise choice regarding the collection of personally identifiable information about an individual consumer's online activities over time and across third-party Websites or online services. David's Bridal honors these requests/settings.
+
+
+
+Effective December 2013
 
     B.  What information does David's Bridal collect?
 
@@ -106,7 +115,7 @@ _Optional Features_ : If you use optional features or functions available throug
 
 _Law Enforcement_ : From time to time, we may be required to disclose your personal information in response to a court order, subpoena, government investigation, or as otherwise required by law. We also reserve the right to share information with law enforcement agencies concerning any activities that we, in good faith, believe to be unlawful. We also may share certain personal information when we believe that such sharing is reasonably necessary to protect the rights, property, and safety of others and ourselves.
 
-Business Transfers: We may also share personal information with third parties in relation to planned or potential corporate sales, mergers, reorganizations, consolidations, dissolutions, bankruptcies or similar events. As a part of any such transaction, we will treat your personal information as an asset and transfer it to the purchaser.
+_Business Transfers_ : We may also share personal information with third parties in relation to planned or potential corporate sales, mergers, reorganizations, consolidations, dissolutions, bankruptcies or similar events. As a part of any such transaction, we will treat your personal information as an asset and transfer it to the purchaser.
 
     E.  How can I review and revise my personal information?
 
@@ -118,11 +127,11 @@ Please note that you may not access or change non-identifying information that w
 
     F.  How can I opt-out of receiving advertising communications from David's Bridal and others? 
 
-You may request that we remove you from our telephone marketing list and refrain from sharing your telephone number with third parties by logging into your Service account and updating your preferences concerning advertising communications from us and third parties. You may also make such a request by sending us an e-mail addressed to [remove@dbi.com](mailto:remove@dbi.com). Please reference Telephone List Removal in your subject line and include your telephone numbers in the body of your email. You may also write to us at David's Bridal, Inc., 1001 Washington Street, Conshohocken, PA 19428, Attn: Privacy Officer.
+You may request that we remove you from our telephone marketing list and refrain from sharing your telephone number with third parties by sending us an e-mail addressed to [remove@dbi.com](mailto:remove@dbi.com). Please reference Telephone List Removal in your subject line and include your telephone numbers in the body of your email. You may also write to us at David's Bridal, Inc., 1001 Washington Street, Conshohocken, PA 19428, Attn: Privacy Officer.
 
-You may request that we remove you from our postal mailing list and refrain from sharing your postal address with third parties by logging into your Service account and updating your preferences concerning advertising communications from us and third parties. You may also make such a request by sending us an e-mail addressed to [remove@dbi.com](mailto:remove@dbi.com). Please reference Postal Mailing List Removal in your subject line and include your postal mailing address in the body of your email. You may also write to us at David's Bridal, Inc., 1001 Washington Street, Conshohocken, PA 19428, Attn: Privacy Officer. 
+You may request that we remove you from our postal mailing list and refrain from sharing your postal address with third parties by sending us an e-mail addressed to [remove@dbi.com](mailto:remove@dbi.com). Please reference Postal Mailing List Removal in your subject line and include your postal mailing address in the body of your email. You may also write to us at David's Bridal, Inc., 1001 Washington Street, Conshohocken, PA 19428, Attn: Privacy Officer. 
 
-If you would prefer not to receive our e-mail offers, please click on the "unsubscribe" link or follow the instructions in our e-mail message, or log into your account and update your preferences concerning advertising communications from us and third parties. You may also make such a request by sending us an e-mail addressed to [remove@dbi.com](mailto:remove@dbi.com). Please reference E-mail List Removal in your subject line and include your email address in the body of the email. You may also write to us at David's Bridal, Inc., 1001 Washington Street, Conshohocken, PA 19428, Attn: Privacy Officer.
+If you would prefer not to receive our e-mail offers, please click on the "unsubscribe" link or follow the instructions in our e-mail message, or by sending us an e-mail addressed to [remove@dbi.com](mailto:remove@dbi.com). Please reference E-mail List Removal in your subject line and include your email address in the body of the email. You may also write to us at David's Bridal, Inc., 1001 Washington Street, Conshohocken, PA 19428, Attn: Privacy Officer.
 
 To opt out of text messages from David's Bridal, reply to the text message you received with the word STOP. 
 
@@ -144,7 +153,7 @@ The Service may contain links to Web sites operated by third parties, including 
 
 **A note to residents of the European Union and other countries outside the United States:**
 
-David's Bridal is located in the United States and makes the Service publicly available from the United States. Any information that you provide to us will be transferred out of your country of residence to the United States. By providing personal information to us, you are consenting to its transfer to and storage in the United States and to its use and disclosure as described in this privacy policy. We adhere to the Safe Harbor Privacy Principles as established by the U.S. Department of Commerce and approved by the European Commission. Our [Safe Harbor Privacy Statement](https://web.archive.org/web/20131118064852id_/http%3A//www.davidsbridal.com/webapp/wcs/stores/servlet/misc?contentName=/Footer/eu_safeharbor_privacy) provides additional information on this subject.
+David's Bridal is located in the United States and makes the Service publicly available from the United States. Any information that you provide to us will be transferred out of your country of residence to the United States. By providing personal information to us, you are consenting to its transfer to and storage in the United States and to its use and disclosure as described in this privacy policy. We adhere to the Safe Harbor Privacy Principles as established by the U.S. Department of Commerce and approved by the European Commission. Our [Safe Harbor Privacy Statement](https://web.archive.org/web/20140629182506id_/http%3A//www.davidsbridal.com/webapp/wcs/stores/servlet/misc?contentName=/Footer/eu_safeharbor_privacy) provides additional information on this subject.
 
 David's Bridal does not fulfill product orders from outside the United States through the Service or by telephone. If you attempt to make a purchase through the Service from outside the United States, and you reside in a country that is serviced for us by our partner, E4X, Inc. (who also does business under the name "FiftyOne"), we will refer the order to E4X for collection of payment for, and fulfillment of, the order, at which time you will be required to submit certain credit card and other personal information to E4X to complete your order.
 
