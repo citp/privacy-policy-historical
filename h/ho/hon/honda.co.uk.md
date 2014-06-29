@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the honda.co.uk privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227184024id_/http%3A//www.honda.co.uk/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the honda.co.uk privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630013936id_/http%3A//www.honda.co.uk/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Honda (UK)
 
@@ -52,7 +52,7 @@ Back to top
 ### Website Activity
 
  **** **Correcting/Updating/Accessing Personal Information**  
-If your personal information changes (such as post code, email address, etc.), or if we have inaccurate information, we will endeavour to correct, update or remove your personal information from our database. To notify us of a change or inaccuracy, you can advise us using our [Update your Details form](http://ww1.honda.co.uk/car/owner/feedback.asp) or by calling us on **0845 200 8000**.  
+If your personal information changes (such as post code, email address, etc.), or if we have inaccurate information, we will endeavour to correct, update or remove your personal information from our database. To notify us of a change or inaccuracy, you can advise us using our [Update your Details form](http://www.honda.co.uk/cars/owners/you-and-your-car/update-your-details/) or by calling us on **0845 200 8000**.  
 Back to top
 
 ### Subject Access Requests
