@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collegexpress.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126082823id_/http%3A//www.collegexpress.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegexpress.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629234050id_/http%3A//www.collegexpress.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | CollegeXpress
 
