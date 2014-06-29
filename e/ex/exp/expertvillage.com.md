@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expertvillage.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228033654id_/http%3A//www.ehow.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expertvillage.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629034411id_/http%3A//www.ehow.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | eHow
 
@@ -90,4 +90,4 @@ We utilize the self-assessment approach to assure our compliance with our privac
 
 Demand Media and eHow are registered trademarks of Demand Media, Inc. in the United States and other countries.
 
-Copyright © 2013. Demand Media, Inc.
+Copyright © 2014. Demand Media, Inc.
