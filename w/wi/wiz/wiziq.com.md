@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wiziq.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102051641id_/http%3A//www.wiziq.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wiziq.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629105225id_/http%3A//www.wiziq.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Your privacy is our top concern
 
-Last revised on July 24, 2013
+Last revised on May 05, 2014
 
 Introduction 
 
@@ -101,15 +101,18 @@ Children can only use our services under the supervision of their parents/legal 
 If you have any questions about the Privacy Policy, contact us at: 
 
 **WizIQ Inc.**   
-2 On The Common  
-P O Box 36   
-Royalston, MA - 01368   
+1101 Pemberton Hill Rd, Suite 101  
+Apex, NC 27502   
 U.S.A.  
-Phone: +1-919-647-4734│Fax: +91-988-299-17 **authorGEN Technologies Pvt. Ltd.**   
+Phone: +1-919-647-4727│Fax: +91-988-299-17  
+1-800-567-8059 (Toll Free) **authorGEN Technologies Pvt. Ltd.**   
 C-133, Second Floor   
 Industrial Area, Phase – VIII   
 Mohali, Punjab – 160071   
 India   
-Phone: +91-921-649-4947 / +91-869-909-4948 │Fax: +91-988-299-17 
+Phone: +91-801-957-0158  
+1-800-3000-1771 (Toll Free)  
+Tel/Fax: +91.172.501.3134-35  
+
 
 Email: [support@wiziq.com](mailto:support@wiziq.com)Website: [www.wiziq.com](http://www.wiziq.com/)
