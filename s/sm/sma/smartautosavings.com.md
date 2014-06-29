@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the smartautosavings.com privacy policy that was archived on 2013-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130709004932id_/http%3A//www.smartautosavings.com/nav/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartautosavings.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629201100id_/http%3A//www.smartautosavings.com/nav/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ### SmartAutoSavings Privacy Statement
 
-Effective Date: November 15, 2012
+Effective Date: January 6, 2014
 
 **About SmartAutoSavings**
 
@@ -49,7 +49,7 @@ We use and disclose the cookie, web beacon and other data we automatically colle
 
 **YOUR PRIVACY CHOICES**
 
-The central purpose of this Site is to collect Requests and share them with Vendors and others. Accordingly, your ability to use this Site without the potential use and disclosure of information described above is limited. You always have the option of not visiting the Site or submitting Requests. Your use of the Site and submission of Requests is voluntary. You can, however, exercise the following choices with respect to certain information about you that we collect and use:
+The central purpose of this Site is to collect Requests and share them with Vendors and others. Accordingly, your ability to use this Site without the potential use and disclosure of information described above is limited. You always have the option of not visiting the Site or submitting Requests. Your use of the Site and submission of Requests is voluntary.  In addition, we do not recognize or take any action with respect to do-not-track signals that may be provided by your web browser. You can, however, exercise the following choices with respect to certain information about you that we collect and use:
 
   1. _Cookies_. If you do not wish for cookie information to be collected when you visit the Site, you may set your browser to refuse cookies, or to alert you when cookies are being sent. If you do so, please note that some parts of this Site may then be inaccessible or may not function properly. 
   2. _Email Offers From Us_. If you do not wish to receive email offers or newsletters from us, you can opt-out of receiving email information from us (other than emails related to the completion of your Request or other transactional communications) by using the unsubscribe process in the email. You can also opt-out of receiving email offers from us at any time by entering your email address on this page—<http://smartautosavings.com/unsubscribe> —or by sending an email (from the address you wish us to opt-out) to info@smartautosavings.com. Please note that if you request to opt-out of receiving emails from us and subsequently submit a Request, we will assume that you wish to reinstate your relationship with us and we will use your information as described in this statement, unless you subsequently request to opt-out. 
