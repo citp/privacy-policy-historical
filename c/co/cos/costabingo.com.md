@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the costabingo.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216083325id_/http%3A//www.costabingo.com/skin/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the costabingo.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629125859id_/http%3A//www.costabingo.com/skin/privacy.php) for the most accurate reproduction.*
 
-# Costa Bingo - Play Online Bingo For Free - Win Real Money!
+# Costa Bingo Privacy Policy
 
 The brands on this website (the "Website") are owned by Mandalay Media Group (the "Brand Owner"). The Website and the services offered on it are powered by a software belonging to Brigend Limited ("Brigend") and operated by Cassava Enterprises (Gibraltar) Limited ("Cassava"), which are both within the same corporate group and registered under the laws of Gibraltar to provide such services. 
 
