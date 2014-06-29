@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the msicomputer.com privacy policy that was archived on 2013-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130605175201id_/http%3A//us.msi.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the msicomputer.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629225721id_/http%3A//us.msi.com/about/privacy-policy) for the most accurate reproduction.*
 
-# MSI USA - MSI Privacy Policy
+# MSI USA - Computer, Laptop, Notebook, Desktop, Mainboard, Graphics and more
 
 MSI takes your privacy seriously. Please read the following to learn more about our privacy policy and how we treat personal information that we collect and receive. MSI reserves the right to change the Privacy Policy from time to time at its sole discretion.
 
