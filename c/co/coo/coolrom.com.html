@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the coolrom.com privacy policy that was archived on 2013-12-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131212173824id_/http%3A//coolrom.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the coolrom.com privacy policy that was archived on 2014-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140630014128id_/http%3A//coolrom.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <title>CoolROM.com - Privacy Policy</title>
 
 
 <meta name="keywords" content="snes roms, nes roms, neo geo roms, genesis roms, n64 roms, mame roms, sega cd roms, saturn roms, neo geo cd roms, gbc roms, gba roms, nds roms, psx roms, gamecube roms, isos, pc, mac, android, iphone">
-<meta name="description" content="Download from the largest and cleanest ROMs and emulators resource on the net. Mobile optimized. Systems include N64, GBA, SNES, NDS, GBC, NES, MAME, PSX, GCN and more.">
+<meta name="description" content="Download from the largest and cleanest ROMs andEmulatorsresource on the net. Mobile optimized. Systems include N64, GBA, SNES, NDS, GBC, NES, MAME, PSX, GCN and more.">
 <meta name="robots" content="all, index, follow, archive"><meta name="revisit-after" content="7 days">
 <meta name="distribution" content="Global">
 <meta http-equiv="content-language" content="en">
@@ -18,90 +18,50 @@
 <meta property="og:type" content="website">
 <meta property="og:image" content="http://coolrom.com/images/128x128.gif">
 <meta property="og:site_name" content="CoolROM.com">
-<meta property="og:description" content="Download from the largest and cleanest ROMs and emulators resource on the net. Mobile optimized. Systems include N64, GBA, SNES, NDS, GBC, NES, MAME, PSX, GCN and more.">
+<meta property="og:description" content="Download from the largest and cleanest ROMs andEmulatorsresource on the net. Mobile optimized. Systems include N64, GBA, SNES, NDS, GBC, NES, MAME, PSX, GCN and more.">
 
 <link rel="canonical" href="http://coolrom.com/privacy.php">
 	
 <link rel="icon" href="/favicon.ico" type="image/x-icon">
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-<link rel="stylesheet" href="/style.css" type="text/css">
+<link rel="stylesheet" href="/css/style.css" type="text/css">
 
-<script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script src="http://code.jquery.com/jquery-latest.js"></script>
+<script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="http://code.jquery.com/jquery-latest.js"></script>
+<script src="/js/jquery-scrolltofixed-min.js" type="text/javascript"></script>
 
-<style type="text/css">
+<script type="text/javascript">
+	$(document).ready(function() {
+		// grab the initial top offset of the navigation 
+		var stickyNavTop = $('.navbar').offset().top;
+		   	
+		// our function that decides weather the navigation bar should have "fixed" css position or not.
+		var stickyNav = function(){
+		var scrollTop = $(window).scrollTop(); // our current vertical position from the top
+			         
+		// if we've scrolled more than the navigation, change its position to fixed to stick to top,
+		// otherwise change it back to relative
+		if (scrollTop > stickyNavTop) { 
+			$('.navbar').addClass('sticky');
+		} else {
+			$('.navbar').removeClass('sticky'); 
+		}
+	};
 
-#dhtmltooltip{
-position: absolute;
-width: 150px;
-border: 1px solid black;
-padding: 2px;
-background-color: #5685c4;
-visibility: hidden;
-z-index: 100;
-/*Remove below line to remove shadow. Below line should always appear last within this CSS*/
-filter: progid:DXImageTransform.Microsoft.Shadow(color=gray,direction=135);
-}
-
-</style>
-
-<style type="text/css">
-
-#dropmenudiv{
-position:absolute;
-border:1px solid black;
-border-bottom-width: 0;
-font:normal 11px Verdana, Arial;
-line-height:15px;
-z-index:100;
-}
-
-#dropmenudiv a{
-width: 100%;
-display: block;
-text-indent: 3px;
-border-bottom: 1px solid black;
-padding: 1px 0;
-text-decoration: none;
-font-weight: bold;
-}
-
-#dropmenudiv a:hover{ /*hover background color*/
-background-color: #FEFEFE;
-}
-
-</style>
-
-<!-- BEGIN TRIGGER TAG INITIALIZATION -->
-<script type="text/javascript" src="http://cdn.triggertag.gorillanation.com/js/triggertag.js"></script>
-<script type="text/javascript">getTrigger('553');</script>
-<!-- END TRIGGER TAG INITIALIZATION -->
-
-<script type="text/javascript" language="javascript">
-
-var cw = 982; // specify content width
-var cp = 10; // specify the content padding if desired
-var smrz = 2147483642; // specify z-index
-var to = 10; // specify top offset pixels
-var bo = 10; // specify bottom offset pixels
-var lo = 10;  // specify left offset pixels (from content)
-var multi = 1; // specify if allow other ads
-var smrx = 300; // specify overlay size horizontal pixels
-var smry = 250; // specify overlay size vertical pixels
-
-try{
-	var s=document.createElement('script');
-	s.id='specific_rome_js';
-	s.type='text/javascript';
-	s.src='//rome.specificclick.net/rome/rome.js?l=172649&t=j&cw='+cw+'&cp='+cp+'&smrx='+smrx+'&smry='+smry+'&to=0&bo=0&lo=0';
-	document.body.appendChild(s);
-} catch(e) {}
-
+	stickyNav();
+	// and run it again every time you scroll
+	$(window).scroll(function() {
+		stickyNav();
+	});
+});
 </script>
+
+
 <meta name="google-translate-customization" content="f740a45bc5cda3eb-019c9e65f0fa8439-ge8b0840dac7a1047-f">
 
 </head>
 
 <body bgcolor="#000000" text="#FFFFFF" topmargin="0">
+
 	
 <!--INFOLINKS_OFF-->
 
@@ -247,31 +207,23 @@ function googleTranslateElementInit() {
 </script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>-->
 
 
-<form method="get" class="translate-form" action="http://translate.google.com/translate">
-	<input type="hidden" name="js" value="n">
-    <input type="hidden" name="prev" value="_t">
-    <input type="hidden" name="hl" value="en">
-    <input type="hidden" name="ie" value="UTF-8">
-    <input type="hidden" name="layout" value="2">
-    <input type="hidden" name="eotf" value="1">
-    <input type="hidden" name="sl" value="en">
-    <input type="hidden" name="u" value="http://www.coolrom.com/roms/atari2600/15759/Submarine_Commander.php">
-
-	<select name="tl">
-    	<option disabled="disabled" value="en">View this page in..</option>
-		<option value="af">Afrikaans</option><option value="sq">Albanian</option><option value="ar">Arabic</option><option value="hy">Armenian</option><option value="az">Azerbaijani</option><option value="eu">Basque</option><option value="be">Belarusian</option><option value="bn">Bengali</option><option value="bg">Bulgarian</option><option value="ca">Catalan</option><option value="zh-cn">Chinese (Simplified)</option><option value="zh-tw">Chinese (Traditional)</option><option value="hr">Croatian</option><option value="cs">Czech</option><option value="da">Danish</option><option value="nl">Dutch</option><option value="en">English</option><option value="et">Estonian</option><option value="tl">Filipino</option><option value="fi">Finnish</option><option value="fr">French</option><option value="gl">Galician</option><option value="ka">Georgian</option><option value="de">German</option><option value="el">Greek</option><option value="gu">Gujarati</option><option value="ht">Haitian Creole</option><option value="iw">Hebrew</option><option value="hi">Hindi</option><option value="hu">Hungarian</option><option value="is">Icelandic</option><option value="id">Indonesian</option><option value="ga">Irish</option><option value="it">Italian</option><option value="ja">Japanese</option><option value="kn">Kannada</option><option value="ko">Korean</option><option value="la">Latin</option><option value="lv">Latvian</option><option value="lt">Lithuanian</option><option value="mk">Macedonian</option><option value="ms">Malay</option><option value="mt">Maltese</option><option value="no">Norwegian</option><option value="fa">Persian</option><option value="pl">Polish</option><option value="pt">Portuguese</option><option value="ro">Romanian</option><option value="ru">Russian</option><option value="sr">Serbian</option><option value="sk">Slovak</option><option value="sl">Slovenian</option><option value="es">Spanish</option><option value="sw">Swahili</option><option value="sv">Swedish</option><option value="ta">Tamil</option><option value="te">Telugu</option><option value="th">Thai</option><option value="tr">Turkish</option><option value="uk">Ukrainian</option><option value="ur">Urdu</option><option value="vi">Vietnamese</option><option value="cy">Welsh</option><option value="yi">Yiddish</option>	</select>
+	<form method="POST" action="/lang.php">
+	<select name="lang">
+    	<option disabled="disabled" value="">View this page in..</option>
+		<option value="en" selected="selected">English</option><option value="fr">French</option><option value="pt">Portuguese</option><option value="es">Spanish</option>	</select>
      <input type="submit" value="Translate!">
-</form>
+	</form>
 
+	
 </td></tr></tbody></table>
 
 </td></tr></tbody></table>
 
 </td></tr>
 
-<tr><td colspan="2" bgcolor="#5685c4" width="100%" height="1">
+<tr><td colspan="2" bgcolor="#5685c4" width="980" height="1" align="center">
 
-<table width="100%">
+<table width="980" class="navbar" bgcolor="#5685c4">
 <tbody><tr><td width="*" class="nav" align="left" style="padding-top:0px;margin-bottom:0;padding-bottom:0px;">
 
 &nbsp;<a href="/" class="nav"><b>Home</b></a> |
@@ -284,9 +236,9 @@ function googleTranslateElementInit() {
 <a href="/queue.php" class="nav"><b>Queue (0)
 </b></a>
 
-</td><td width="350" align="right" style="padding-top:0px;margin-bottom:0;padding-bottom:0px;">
+</td><td width="290" align="right" style="padding-top:0px;margin-bottom:0;padding-bottom:0px;">
 
-<form style="margin-bottom:0;padding-bottom:0px;" method="GET" action="/search" class="nav"><input type="text" name="q" size="28" placeholder="ROM Search" maxlength="100" style="background-color: #262626;font-family: verdana, sans-serif; border: #b2b2b2 1px solid; font-size: 10pt; color: #FFFFFF; padding-left:2px;"> <input type="submit" style="font: 10pt verdana;" value="Go">
+<form style="margin-bottom:0;padding-bottom:0px;" method="GET" action="/search" class="nav"><input type="text" name="q" size="28" placeholder="ROM Search" maxlength="100" class="search"> <input type="submit" style="font: 10pt verdana;" value="Go">
 </form>
 
 </td></tr>
@@ -300,13 +252,11 @@ function googleTranslateElementInit() {
 		<td width="100%" height="110" bgcolor="#000000" colspan="2" align="center">
 			<table cellpadding="0" cellspacing="0" width="100%">
 				<tbody><tr>
-					<td width="220" align="left" style="padding-top:10px;padding-left:11px;" bgcolor="#262626">
-						<center><a href="https://twitter.com/cool_rom" class="twitter-follow-button" data-show-count="true">Follow @cool_rom</a></center>
-						<iframe scrolling="no" frameborder="0" src="//www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Fcoolrom&amp;width=220&amp;height=80&amp;colorscheme=dark&amp;show_faces=false&amp;border_color&amp;stream=false&amp;header=false" style="border: none; overflow: hidden; width:220px; height:80px;" allowtransparency="true"></iframe>
-					</td>
-					<td align="right" style="padding-right:5px;" bgcolor="#262626">
-												<iframe src="/ads/tribalfusion.com/728x90.php" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" topmargin="0" leftmargin="0" allowtransparency="true" width="728" height="90"></iframe>
-					</td>
+					<td align="center" style="padding-right:5px;" bgcolor="#000000"><script type="text/javascript"><!--
+	e9 = new Object();
+    e9.size = "728x90,970x250";
+//--></script>
+<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/CoolROM/ROS/tags.js"></script>										</td>
 				</tr>
 			</tbody></table>
 		</td>
@@ -324,10 +274,7 @@ function googleTranslateElementInit() {
 
 <br>
 
-We strongly respect your privacy. All information collected at CoolROM will be kept strictly 
-confidential and will not be sold, resued, or rented in any way. Any information we collect, 
-such as operating systems, screen resolution and browser types are used to help make your visit 
-more enjoyable. 
+We strongly respect your privacy. All information collected at CoolROM will be kept strictly confidential and will not be sold, re-used, or rented in any way. Any information we collect, such as operating systems, screen resolution and browser types are used to help make your visit more enjoyable. 
 
 <br><br>
 
@@ -335,35 +282,23 @@ more enjoyable.
 
 <br>
 
-We use third-party advertising companies to serve ads when you visit our web site. 
-These companies may use information (not including your name, address, email address or telephone number) 
-about your visits to this and other Web sites in order to provide advertisements on this site and other 
-sites about goods and services that may be of interest to you.
-
+We use third-party advertising companies to serve ads when you visit our web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.
 <br><br>
 
 <font size="2">Third Party Cookies</font>
 
 <br>
 
-In the course of serving advertisements to this site, our 
-third-party advertiser may place or recognize a unique cookie
-on your browser.
-
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.
 <br><br>
 
 <font size="2">External Links</font>
 
 <br>
+CoolROM contains links to other sites and file downloads from other sites. We are not responsible for the privacy practices or content of such web sites.<br><br>
 
-CoolROM contains links to other sites and file downloads from other sites. We are not 
-responsible for the privacy practices or content of such web sites.
+If you have any questions about this privacy policy, please feel free to contact us by using our <a href="/form.php">contact form</a>.
 
-<br><br>
-
-If you have any questions about this privacy policy, please feel free
-to contact us by using our 
-<a href="http://www.coolrom.com/form.php">contact form</a>.
 
 <br><br>
 
@@ -371,16 +306,46 @@ to contact us by using our
 
 </td></tr></tbody></table>
 
-</td><td width="325" height="100%" valign="top" align="center">
+</td><td width="326" height="100%" valign="top" align="center">
 
-<table width="100%" height="100%" cellspacing="0" cellpadding="1">
+<table width="100%" height="100%" cellspacing="0" cellpadding="0">
+	
+<style>
+.container {
+	position: relative;
+}
+.bg {
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	width: 52%;
+}
+.bg2 {
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	width: 48%;
+}
+.content {
+	position: relative;
+	z-index: 1;
+}
+.dgrey {
+	left: 0;
+	background-color: #262626;
+}
+.grey {
+	right: 0;
+	background-color: #434343;
+}
+</style>
 
-<tbody><tr><td colspan="2" background="/images/bg.gif" width="325" height="250" align="center" bgcolor="#333333" valign="top"><script type="text/javascript"><!--
+<tbody><tr><td colspan="2" width="325" height="250" align="center" valign="top" style="margin:0px;padding:0px;"><div class="container"><div class="content"><script type="text/javascript"><!--
 	e9 = new Object();
     e9.size = "300x250";
 //--></script>
-<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/CoolROM/ROS/tags.js"></script></td></tr>
-<tr><td width="170" bgcolor="#262626" align="center" valign="top">
+<script type="text/javascript" src="http://tags.expo9.exponential.com/tags/CoolROM/ROS/tags.js"></script></div><div class="bg dgrey"></div><div class="bg2 grey"></div></div></td></tr>
+<tr><td width="169" bgcolor="#262626" align="center" valign="top">
 
 <table width="98%" align="center">
 	<tbody><tr><td width="100%" align="center" class="nav" bgcolor="#262626" valign="top">
@@ -403,14 +368,14 @@ to contact us by using our
 <script type="text/javascript" src="http://tags.expo9.exponential.com/tags/CoolROM/ROS/tags.js"></script>
 </center>
 
-</td><td bgcolor="#434343" width="155" height="100%" valign="top" align="center" style="height:100%">
+</td><td bgcolor="#434343" width="156" height="100%" valign="top" align="center" style="height:100%">
 
 <table width="98%" height="100%" style="height:100%">
 <tbody><tr><td width="100%" height="100%" bgcolor="#434343" align="left" valign="top" style="height:100%">
 
 <font size="1">
 
-<center><font size="2" color="#FFFFFF"><b>Top 25 Downloaded ROMs</b></font></center><br>» <a href="/roms/gba/14604/Pokemon_Emerald.php" title="Pokemon Emerald"><font size="1">Pokemon Emerald</font></a><font size="1"><br>» <a href="/roms/psx/39719/Tekken_3.php" title="Tekken 3"><font size="1">Tekken 3</font></a><font size="1"><br>» <a href="/roms/gba/14488/Pokemon_FireRed.php" title="Pokemon FireRed"><font size="1">Pokemon FireRed</font></a><font size="1"><br>» <a href="/roms/psx/39136/Jackie_Chan_Stuntmaster.php" title="Jackie Chan Stuntmaster"><font size="1">Jackie Chan Stunt..</font></a><font size="1"><br>» <a href="/roms/nds/41058/Pokemon_Black.php" title="Pokemon Black"><font size="1">Pokemon Black</font></a><font size="1"><br>» <a href="/roms/gcn/40691/Pokemon_XD_-_Gale_of_Darkness.php" title="Pokemon XD - Gale of Darkness"><font size="1">Pokemon XD - Gale..</font></a><font size="1"><br>» <a href="/roms/psx/38727/CTR_-_Crash_Team_Racing.php" title="CTR - Crash Team Racing"><font size="1">CTR - Crash Team ..</font></a><font size="1"><br>» <a href="/roms/psx/39123/Crash_Bandicoot.php" title="Crash Bandicoot"><font size="1">Crash Bandicoot</font></a><font size="1"><br>» <a href="/roms/psx/39278/Digimon_World_3.php" title="Digimon World 3"><font size="1">Digimon World 3</font></a><font size="1"><br>» <a href="/roms/snes/7968/Super_Mario_World.php" title="Super Mario World"><font size="1">Super Mario World</font></a><font size="1"><br>» <a href="/roms/psx/39715/WWF_SmackDown!_2_-_Know_Your_Role.php" title="WWF SmackDown! 2 - Know Your Role"><font size="1">WWF SmackDown! 2 ..</font></a><font size="1"><br>» <a href="/roms/nds/17194/Pokemon_Diamond.php" title="Pokemon Diamond"><font size="1">Pokemon Diamond</font></a><font size="1"><br>» <a href="/roms/nds/17310/Pokemon_HeartGold.php" title="Pokemon HeartGold"><font size="1">Pokemon HeartGold</font></a><font size="1"><br>» <a href="/roms/nds/41000/Pokemon_White.php" title="Pokemon White"><font size="1">Pokemon White</font></a><font size="1"><br>» <a href="/roms/psx/38587/Final_Fantasy_VII_(Disc_1).php" title="Final Fantasy VII (Disc 1)"><font size="1">Final Fantasy VII..</font></a><font size="1"><br>» <a href="/roms/n64/1232/Super_Smash_Bros..php" title="Super Smash Bros."><font size="1">Super Smash Bros.</font></a><font size="1"><br>» <a href="/roms/psx/40091/Vigilante_8_-_2nd_Offense.php" title="Vigilante 8 - 2nd Offense"><font size="1">Vigilante 8 - 2nd..</font></a><font size="1"><br>» <a href="/roms/psx/38704/Bloody_Roar_II.php" title="Bloody Roar II"><font size="1">Bloody Roar II</font></a><font size="1"><br>» <a href="/roms/gba/14374/Yu-Gi-Oh!_GX_-_Duel_Academy.php" title="Yu-Gi-Oh! GX - Duel Academy"><font size="1">Yu-Gi-Oh! GX - Du..</font></a><font size="1"><br>» <a href="/roms/gcn/40655/Legend_of_Zelda,_The_-_Twilight_Princess.php" title="Legend of Zelda, The - Twilight Princess"><font size="1">Legend of Zelda, ..</font></a><font size="1"><br>» <a href="/roms/nds/17311/Pokemon_SoulSilver.php" title="Pokemon SoulSilver"><font size="1">Pokemon SoulSilve..</font></a><font size="1"><br>» <a href="/roms/psx/39032/Digimon_World.php" title="Digimon World"><font size="1">Digimon World</font></a><font size="1"><br>» <a href="/roms/psx/38521/Final_Fantasy_VIII_(Disc_1).php" title="Final Fantasy VIII (Disc 1)"><font size="1">Final Fantasy VII..</font></a><font size="1"><br>» <a href="/roms/gba/14251/Pokemon_LeafGreen.php" title="Pokemon LeafGreen"><font size="1">Pokemon LeafGreen</font></a><font size="1"><br>» <a href="/roms/gba/14592/Pokemon_Ruby.php" title="Pokemon Ruby"><font size="1">Pokemon Ruby</font></a><font size="1"><br>
+<center><font size="2" color="#FFFFFF"><b>Top 25 Downloaded ROMs</b></font></center><br><div class="info" style="text-overflow:ellipsis;">» <a href="/roms/gba/14604/Pokemon_Emerald.php" title="Pokemon Emerald">Pokemon Emerald</a></div><div class="info" style="text-overflow:ellipsis;">» <a href="/roms/gba/14488/Pokemon_FireRed.php" title="Pokemon FireRed">Pokemon FireRed</a></div><div class="info" style="text-overflow:ellipsis;">» <a href="/roms/nds/41058/Pokemon_Black.php" title="Pokemon Black">Pokemon Black</a></div><div class="info" style="text-overflow:ellipsis;">» <a href="/roms/psx/39719/Tekken_3.php" title="Tekken 3">Tekken 3</a></div><div class="info" style="text-overflow:ellipsis;">» <a href="/roms/psx/39136/Jackie_Chan_Stuntmaster.php" title="Jackie Chan Stuntmaster">Jackie Chan Stuntmaster</a></div><div class="info" style="text-overflow:ellipsis;">» <a href="/roms/gcn/40691/Pokemon_XD_-_Gale_of_Darkness.php" title="Pokemon XD - Gale of Darkness">Pokemon XD - Gale of Darkness</a></div><div class="info" style="text-overflow:ellipsis;">» <a href="/roms/psx/38727/CTR_-_Crash_Team_Racing.php" title="CTR - Crash Team Racing">CTR - Crash Team Racing</a></div><div class="info" style="text-overflow:ellipsis;">» <a href="/roms/psx/39123/Crash_Bandicoot.php" title="Crash Bandicoot">Crash Bandicoot</a></div><div class="info" style="text-overflow:ellipsis;">» <a href="/roms/snes/7968/Super_Mario_World.php" title="Super Mario World">Super Mario World</a></div><div class="info" style="text-overflow:ellipsis;">» <a href="/roms/nds/17194/Pokemon_Diamond.php" title="Pokemon Diamond">Pokemon Diamond</a></div><div class="info" style="text-overflow:ellipsis;">» <a href="/roms/nds/17310/Pokemon_HeartGold.php" title="Pokemon HeartGold">Pokemon HeartGold</a></div><div class="info" style="text-overflow:ellipsis;">» <a href="/roms/psx/39278/Digimon_World_3.php" title="Digimon World 3">Digimon World 3</a></div><div class="info" style="text-overflow:ellipsis;">» <a href="/roms/nds/41000/Pokemon_White.php" title="Pokemon White">Pokemon White</a></div><div class="info" style="text-overflow:ellipsis;">» <a href="/roms/gba/14251/Pokemon_LeafGreen.php" title="Pokemon LeafGreen">Pokemon LeafGreen</a></div><div class="info" style="text-overflow:ellipsis;">» <a href="/roms/gba/14592/Pokemon_Ruby.php" title="Pokemon Ruby">Pokemon Ruby</a></div><div class="info" style="text-overflow:ellipsis;">» <a href="/roms/psx/39715/WWF_SmackDown!_2_-_Know_Your_Role.php" title="WWF SmackDown! 2 - Know Your Role">WWF SmackDown! 2 - Know Your Role</a></div><div class="info" style="text-overflow:ellipsis;">» <a href="/roms/gba/14374/Yu-Gi-Oh!_GX_-_Duel_Academy.php" title="Yu-Gi-Oh! GX - Duel Academy">Yu-Gi-Oh! GX - Duel Academy</a></div><div class="info" style="text-overflow:ellipsis;">» <a href="/roms/nds/17311/Pokemon_SoulSilver.php" title="Pokemon SoulSilver">Pokemon SoulSilver</a></div><div class="info" style="text-overflow:ellipsis;">» <a href="/roms/n64/1232/Super_Smash_Bros..php" title="Super Smash Bros.">Super Smash Bros.</a></div><div class="info" style="text-overflow:ellipsis;">» <a href="/roms/gba/14458/Super_Mario_Advance_4_-_Super_Mario_Bros._3.php" title="Super Mario Advance 4 - Super Mario Bros. 3">Super Mario Advance 4 - Super Mario Bros. 3</a></div><div class="info" style="text-overflow:ellipsis;">» <a href="/roms/psx/38587/Final_Fantasy_VII_(Disc_1).php" title="Final Fantasy VII (Disc 1)">Final Fantasy VII (Disc 1)</a></div><div class="info" style="text-overflow:ellipsis;">» <a href="/roms/gcn/40655/Legend_of_Zelda,_The_-_Twilight_Princess.php" title="Legend of Zelda, The - Twilight Princess">Legend of Zelda, The - Twilight Princess</a></div><div class="info" style="text-overflow:ellipsis;">» <a href="/roms/n64/7581/Super_Mario_64.php" title="Super Mario 64">Super Mario 64</a></div><div class="info" style="text-overflow:ellipsis;">» <a href="/roms/psx/40091/Vigilante_8_-_2nd_Offense.php" title="Vigilante 8 - 2nd Offense">Vigilante 8 - 2nd Offense</a></div><div class="info" style="text-overflow:ellipsis;">» <a href="/roms/gcn/40382/Super_Smash_Bros._Melee_(v1.02).php" title="Super Smash Bros. Melee (v1.02)">Super Smash Bros. Melee (v1.02)</a></div>
 <br>
 
 
@@ -432,20 +397,20 @@ to contact us by using our
 » <a href="http://www.dchaven.com" target="_blank">DC Haven</a><br>
 » <a href="http://www.dgemu.com" target="_blank">DGEmu</a><br>
 » <a href="http://www.doperoms.com" target="_blank">Dope Roms</a><br>
-» <a href="http://www.ndsr.net" target="_blank">DS ROMs</a><br>
+» <a href="http://ndsr.net/nds-roms/" target="_blank">DS ROMs</a><br>
 » <a href="http://www.emulanium.com" target="_blank">Emulanium</a><br>
 » <a href="http://www.emuparadise.org" target="_blank">Emuparadise</a><br>
 » <a href="http://www.freeroms.com" target="_blank">Free Roms</a><br>
-» <a href="http://www.frozen-roms.me" target="_blank">Frozen Roms</a><br>
 » <a href="http://www.gameboy-advance.net" target="_blan">Gameboy-Advance</a><br>
 » <a href="http://affiliates.emugp.com/in.php?id=coolrom" target="_blank">GamerZ Paradise</a><br>
 » <a href="http://www.gameboy-advance-roms.com" target="_blank">GBA ROMs</a><br>
+» <a href="https://play.google.com/store/apps/details?id=com.emugamesdb.app" target="_blank">GBA ROMs on Android</a><br>
 » <a href="http://www.moreroms.com" target="_blank">More Roms</a><br>
 » <a href="http://www.roms43.com" target="_blank">NDS ROMs</a><br>
 » <a href="http://www.nesfiles.com" target="_blank">NES ROMs</a><br>
 » <a href="http://www.theoldcomputer.com" target="_blank">Old Computer</a><br>
 » <a href="/roms/ps2/" target="_blank">PS2 ISOs</a><br>
-» <a href="http://www.mypspiso.com" target="_blank">PSP ISO</a><br>
+» <a href="http://mypspiso.com/download/psp-iso" target="_blank">PSP ISO</a><br>
 » <a href="http://www.r4-roms.com" target="_blank">R4 Roms</a><br>
 » <a href="http://www.retrobase.net" target="_blank">Retro Base</a><br>
 » <a href="http://www.romulation.net" target="_blank">RomUlation</a><br>
@@ -456,15 +421,17 @@ to contact us by using our
 » <a href="http://www.romnation.net" target="_blank">Rom Nation</a><br>
 » <a href="http://www.rom-world.com" target="_blan">Rom World</a><br>
 » <a href="http://www.rpg-legends.com" target="_blank">RPG Emulation</a><br>
+» <a href="https://play.google.com/store/apps/details?id=com.emugamesdb.app" target="_blank">SNES ROMs on Android</a><br>
 » <a href="http://www.sonyisos.com" target="_blank">Sony ISOs</a><br>
-» <a href="http://www.theroms.com" target="_blank">The Roms</a><br>
+» <a href="http://www.gfitnesstraining.com" target="_blank">Vancouver Fitness Trainer</a><br>
+» <a href="http://www.albertlaw.ca" target="_blank">Vancouver Lifestyle Photographer</a><br>
 » <a href="/affiliate.php">Your Site Here?</a><br>
 
 <br>
 
 </font>
 
-</font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></td></tr></tbody></table>
+</td></tr></tbody></table>
 
 </td></tr></tbody></table>
 
@@ -475,7 +442,7 @@ to contact us by using our
 <tr colspan="2" height="18"><td width="100%" bgcolor="#5685c4" align="center" class="footer">
 
 
-Copyright © 2013 <a href="/" target="_blank" class="footer">CoolROM.com</a>. All rights reserved. <a href="/privacy.php" class="footer">Privacy Policy</a> <a href="/contact.php" class="footer">Contact Us</a>
+Copyright © 2014 <a href="/" target="_blank" class="footer">CoolROM.com</a>. All rights reserved. <a href="/privacy.php" class="footer">Privacy Policy</a> <a href="/contact.php" class="footer">Contact Us</a>
 
 
 </td></tr></tbody></table>
@@ -678,17 +645,14 @@ document.onclick=hidemenu
 </script><div id="dropmenudiv" style="visibility:hidden;width:168px;background-color:#5685c4" onmouseover="clearhidemenu()" onmouseout="dynamichide(event)"></div>
 
 
-<script type="text/javascript">
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-3213938-1']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
+  ga('create', 'UA-3213938-1', 'coolrom.com');
+  ga('send', 'pageview');
 
 </script>
 
@@ -696,15 +660,14 @@ document.onclick=hidemenu
 
 <script type="text/javascript" src="//assets.pinterest.com/js/pinit.js"></script>
 
-<script type="text/javascript">
-if ((typeof(f426776)=='undefined' || f426776 > 0) ) {
-  if(typeof(gnm_ord)=='undefined') gnm_ord=Math.random()*10000000000000000; if(typeof(gnm_tile) == 'undefined') gnm_tile=1;
-  document.write('<scr'+'ipt src="http://n4403ad.doubleclick.net/adj/gn.coolrom.com/home;sect=home;mtfInline=true;sz=1000x1000;tile='+(gnm_tile++)+';ord='+gnm_ord+'?" type="text/javascript"></scr'+'ipt>');
-}else{
-	//insert default static image here as default ad
-}
-</script><script src="http://n4403ad.doubleclick.net/adj/gn.coolrom.com/home;sect=home;mtfInline=true;sz=1000x1000;tile=1;ord=5228352348779139?" type="text/javascript"></script>
+<script src="http://i.po.st/share/script/post-widget.js#publisherKey=6o9t97jp0l8burt2tefh" type="text/javascript"></script>
 
-<script type="text/javascript" src="http://coolrom.us.intellitxt.com/intellitxt/front.asp?ipid=1912"></script>
+<script type="text/javascript">
+var dc_AdLinkColor = '#5685c4' ;
+var dc_PublisherID = 5430 ;
+ 
+</script>
+<script type="text/javascript" src="http://kona.kontera.com/javascript/lib/KonaLibInline.js">
+</script>
 
 </center></body></html>
