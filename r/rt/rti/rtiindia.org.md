@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rtiindia.org privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217203724id_/http%3A//www.rtiindia.org/forum/content/7-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rtiindia.org privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629081150id_/http%3A//www.rtiindia.org/forum/content/7-privacy-policy.html) for the most accurate reproduction.*
 
 # RTI INDIA - Privacy Policy
 
