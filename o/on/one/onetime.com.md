@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onetime.com privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817233953id_/http%3A//www.onetime.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onetime.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629055323id_/http%3A//www.onetime.com/privacy_policy.php) for the most accurate reproduction.*
 
 # OneTime Privacy Policy - OneTime.com
 
@@ -128,7 +128,7 @@ OneTime.com subscribers may opt out of receiving future OneTime.com communicatio
 
   * Website: <http://www.onetime.com/signin>
   * Email: [help@onetime.com](mailto:help@onetime.com)
-  * Mail: Smarter Travel Media LLC, Attn: OneTime Customer Service, 500 Rutherford Ave, Second Floor, Boston, MA 02129
+  * Mail: Smarter Travel Media LLC, Attn: OneTime Customer Service, 226 Causeway Street, Third Floor, Boston, MA 02114
 
 
 
@@ -175,9 +175,9 @@ If you have questions about this Privacy Policy, please contact us at:
 Email: [privacy@onetime.com](mailto:privacy@onetime.com)
 
 Smarter Travel Media LLC  
-500 Rutherford Avenue  
-Second Floor  
-Boston, MA 02129  
+226 Causeway Street  
+Third Floor  
+Boston, MA 02114  
 617-886-5555  
 617-886-5501 (fax)  
 [privacy@onetime.com](mailto:privacy@onetime.com)
