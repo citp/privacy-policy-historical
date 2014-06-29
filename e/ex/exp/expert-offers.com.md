@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expert-offers.com privacy policy that was archived on 2013-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130927093957id_/http%3A//www.sekindo.com/help/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expert-offers.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629231447id_/http%3A//www.sekindo.com/help/privacy.php) for the most accurate reproduction.*
 
 # SekiNdo - Privacy Policy
 
@@ -7,18 +7,6 @@
 ---|---|---|---|---|---  
 |   |  |   
 ---  
-|  [   Define Campaigns & Ads](https://web.archive.org/advertiser/adStep1.php)  
----  
-[   Pending Publishers' Requests](https://web.archive.org/main/managePendingReq.php?id1=0)  
-[   Tool Box](https://web.archive.org/advertiser/adTools.php)  
-[   Order Campaign Design ](https://web.archive.org/advertiser/creative.php)  
-   
-|  [   Define Ad Spaces](https://web.archive.org/publisher/spaceStep1.php)  
----  
-[   Management & Statistics](https://web.archive.org/publisher/mySpaces.php)  
-[    **The Ad Marketplace**](https://web.archive.org/publisher/searchAds.php)  
-[   Pending Advertising Requests](https://web.archive.org/main/managePendingReq.php?id1=1)  
-   
 |  [   Register to SekiNdo ](https://web.archive.org/account/registerNewUser.php)  
 ---  
 [   Personal Info & Configuration](https://web.archive.org/account/personalInfo.php)  
@@ -48,7 +36,12 @@
    
   |  SekiNdo may automatically collect information through the use of log files and other means. If you register with the Service, then the information gathered will be partially personally identifiable. If you are not a registered user, than we will not knowingly make use of any information which personally identifies you, except as specifically indicated in this policy, or on the Website.   
    
-  |  Further information may be collected when we exchange communications with you, for example, when you submit an inquiry, or if our designated copyright agent contacts you.   
+  |  Further information may be collected when we exchange communications with you, for example, when you submit an inquiry, or if our designated copyright agent contacts you. 
+
+As part of protecting your privacy, please note that if you do not wish that your personal information will be collected, as aforementioned, you should mark "OPT-OUT" by clicking on [this link](http://www.sekindo.com/utils/cookieOptOut.php). Such marking will ensure that information regarding your browsing habits and / or other personal information will not be collected. 
+
+We also use cookies for advertising we serve across the web. Our main advertising cookies are prefixed with ‘v’ (e.g. v12345) and are stored in browsers under the domain sekindo.com. We also use 'c', 'l', 't', 'spc', 'spshc', 'fr', 'ps', 'n', 'e', 'sid', 'udi', 'dp4' and 'fro' prefixed cookies (e.g. spc12345).   
+  
    
   |  What does SekiNdo do with your personally identifiable information?   
    
@@ -119,4 +112,4 @@
    
    
 [Affiliate Network](https://web.archive.org/)     [Terms of Service](https://web.archive.org/help/terms.php)     [About Us](https://web.archive.org/help/aboutUs.php)     [Contact Us](https://web.archive.org/help/contact.php)     [Press & News](https://web.archive.org/help/press.php)     [How It Works](https://web.archive.org/help/howItWorks.php)     [Q&A](https://web.archive.org/help/faqs.php)     [Privacy Policy](https://web.archive.org/help/privacy.php)     [Fee Schedule](https://web.archive.org/help/fee.php)     [Copyright Policy](https://web.archive.org/help/copyright.php)     [Blog](http://sekindo.wordpress.com/)     [Creative Solutions](https://web.archive.org/advertiser/creative.php)  
-© 2007-2013 SekiNdo. All Rights Reserved 
+© 2007-2014 SekiNdo. All Rights Reserved 
