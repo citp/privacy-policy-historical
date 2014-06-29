@@ -1,79 +1,53 @@
-> *The following text is extracted and transformed from the mozilla.net privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231020811id_/http%3A//www.mozilla.org/en-US/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mozilla.net privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629180430id_/http%3A//www.mozilla.org/en-US/privacy) for the most accurate reproduction.*
 
-# Your Privacy — Mozilla
+# Mozilla Privacy
 
-## Putting you in control of your personal information at Mozilla
+## What do we mean by "personal information?"
 
-The following six privacy principles stem from [Mozilla's Manifesto](https://web.archive.org/en-US/about/manifesto/) and inform how we develop our websites, products and services. For details on our information handling practices across Mozilla, be sure to read our specific privacy notices and policies.:
+For us, "personal information" means information which identifies you, like your name or email address.
 
-  1. #### No Surprises
+Any information that falls outside of this is "non-personal information."
 
-Only use and share information about our users for their benefit and as spelled out in our notices.
+If we store your personal information with information that is non-personal, we will consider the combination as personal information. If we remove all personal information from a set of data then the remaining is non-personal information.
 
-  2. #### Real Choices
+## How do we learn information about you?
 
-Educate users whenever we collect any personal information and give them a choice whenever possible.
+We learn information about you when:
 
-  3. #### Sensible Settings 
-
-Establish default settings that balance safety and user experience appropriately.
-
-  4. #### Limited Data
-
-Collect and retain the least amount of user information necessary. Try to share anonymous aggregate data whenever possible, and then only when it benefits the web, users or developers.
-
-  5. #### User Control
-
-Do not disclose personal user experience without the user's consent. Innovate, develop and advocate for privacy enhancements that put users in control of their online experiences.
-
-  6. #### Trusted Third Parties
-
-Make privacy a factor in selecting and interacting with partners.
+  * you give it to us directly (e.g., when you choose to send us crash reports);
+  * we collect it automatically through our products and services (e.g., when your Firefox browser checks with us to see if is up to date);
+  * someone else tells us information about you (e.g., when Thunderbird works with your email providers to set up your account); or
+  * when we try and understand more about you based on information you've given to us (e.g., when we use your IP address to customize language for some of our services).
 
 
 
+## What do we do with your information once we have it?
 
-back to top
+When you give us information, we will use it in the ways for which you've given us permission. Generally, we use your information to help us provide and improve our products and services for you.
 
-We know how much you value your privacy. We build our web sites and design our products and features with your privacy in mind.
+## When do we share your information with others?
 
-Our privacy policies and notices explain in detail what our different sites and products will and won't do with your information. They tell you what is collected, when it is collected, and for what reason it is collected. We want to be transparent and open about our privacy practices.
-
-## For us, "personal information" means:
-
-  * information which identifies you, like your name or email address; or
-  * a combination of several pieces of information which couldn't identify you on their own, but which we believe could become identifiable to you when combined.
-
-
-
-Any information that falls outside of this is "non-personal information." If we store your personal information with information that is non-personal, we will consider the combination as personal information.
-
-back to top
-
-In the software we make we include privacy and security settings with a lot of functionality. There are also plenty of [add-ons for some of our products, like Firefox](https://addons.mozilla.org/en-US/firefox/extensions/privacy-security/), which you can use to get even more control over your online experience, interactions and information.
-
-If you signed up to receive a newsletter or other email communication from Mozilla, but no longer wish to do so, you can opt out from receiving them by following the “unsubscribe” instructions in the next email you receive.
-
-Do Not Track is a feature in Firefox (and some other sweet browsers) which lets you tell websites that you'd rather that they don't keep track of you. You can [read more about Do Not Track](https://web.archive.org/en-US/dnt/) and how to turn it on in Firefox.
-
-We may release information in the following situations:
-
-  * When we tell you we will and you consent to the sharing.
+  * When we have asked and received your permission to share it.
   * For processing or providing products and services to you, but only if those entities receiving your information are contractually obligated to handle the data in ways that are approved by Mozilla.
-  * When we engage vendors, we negotiate to include contract terms that require vendors: (a) to limit use of the user information that we provide them only for the provision of their services to us and (b) not to correlate that user information with other information they might have.
-  * When we are fulfilling our [mission of being open](https://web.archive.org/en-US/about/manifesto/). We sometimes release information to make our products better and foster an open web, but we will try to remove your personal information and disclose it in a way that minimizes the risk of you being re-identified.
-  * When the law requires it. We follow the law whenever we receive requests about you from a government or related to a lawsuit, and we'll notify you when we’re asked to hand over your personal information unless we're legally prohibited from doing so. When we receive requests like this, we'll only release your information if we have a good faith belief that the law requires us to do so. Nothing in this policy is intended to limit any legal defenses or objections that you may have to a third party’s request to disclose your information.
-  * When we believe it is necessary to prevent harm to you or someone else, provided that we will do so only if we have a good faith belief that it is reasonably necessary to protect the rights, property or safety of you, our other users, Mozilla or the public.
-  * If our organizational structure or status changes (if we undergo a restructuring, are acquired, or go bankrupt,) we may pass your information to a successor or affiliate.
+  * When we are fulfilling our [mission of being open](https://web.archive.org/en-US/about/manifesto/). We sometimes release information to make our products better and foster an open web, but when we do so, we will remove your personal information and try to disclose it in a way that minimizes the risk of you being re-identified.
+  * When the law requires it. We follow the law whenever we receive requests about you from a government or related to a lawsuit. We'll notify you when we're asked to hand over your personal information in this way unless we're legally prohibited from doing so. When we receive requests like this, we'll only release your personal information if we have a good faith belief that the law requires us to do so. Nothing in this policy is intended to limit any legal defenses or objections that you may have to a third party's request to disclose your information.
+  * When we believe it is necessary to prevent harm to you or someone else. We will only share your information in this way if we have a good faith belief that it is reasonably necessary to protect the rights, property or safety of you, our other users, Mozilla or the public.
+  * If our organizational structure or status changes (if we undergo a restructuring, are acquired, or go bankrupt) we may pass your information to a successor or affiliate.
 
 
 
-back to top
+## How do we store and protect your personal information?
 
-Mozilla Corporation  
-Attn: Legal Notices - Privacy  
-650 Castro Street, Suite 300  
-Mountain View, CA 94041-2729  
-Phone: +1-650-903-0800
+We are committed to protecting your personal information once we have it. We implement physical, business and technical security measures. Despite our efforts, if we learn of a security breach, we'll notify you so that you can take appropriate protective steps.
 
-back to top
+We also don't want your personal information for any longer than we need it, so we only keep it long enough to do what we collected it for. Once we don't need it, we take steps to destroy it unless we are required by law to keep it longer.
+
+## What else should you know?
+
+We're a global organization and our computers are in several different places around the world. We also use service providers whose computers may also be in various countries. This means that your information might end up on one of those computers in another country, and that country may have a different level of data protection regulation than yours. By giving us information, you consent to this kind of transfer of your information. No matter what country your information is in, we comply with applicable law and will also abide by the commitments we make in this privacy policy.
+
+If you are under 13, we don't want your personal information, and you must not provide it to us. If you are a parent and believe that your child who is under 13 has provided us with personal information, please [contact us](https://web.archive.org/en-US/privacy/#contact) to have your child's information removed.
+
+## What if we change this privacy policy or any of our privacy notices?
+
+We may need to change this policy and our notices. The updates will be posted online. If the changes are substantive, we will announce the update through Mozilla's usual channels for such announcements such as blog posts and forums. Your continued use of the product or service after the effective date of such changes constitutes your acceptance of such changes. To make your review more convenient, we will post an effective date at the top of the page.
