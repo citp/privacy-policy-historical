@@ -1,11 +1,15 @@
-<!--The following is the downloaded HTML source of the talkingpointsmemo.com privacy policy that was archived on 2013-11-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131112233711id_/http%3A//talkingpointsmemo.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the talkingpointsmemo.com privacy policy that was archived on 2014-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140629182322id_/http%3A//talkingpointsmemo.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta charset="utf-8">
 <meta content="IE=edge" http-equiv="X-UA-Compatible">
+<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" async="" src="https://cdn.heapanalytics.com/js/heap.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-4.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"ef71ff2500","applicationID":"1865757","transactionName":"e1hZQBdeCVtdRB9DEVlDXldKWAtTXU4=","queueTime":7,"applicationTime":79,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-411.min.js"}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwAGV1RSGwIIUlRVAgY="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+<meta content="iivVZJBLxzSBdse8fFugr6fbJu-DbSB1dhl_fs48KNQ" name="google-site-verification">
+
 <title>Privacy Policy</title>
-<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://use.typekit.net/fwj1wkm.js" type="text/javascript"></script>
+<script src="//use.typekit.net/fwj1wkm.js" type="text/javascript"></script>
 <script>
   try{Typekit.load();}catch(e){}
 </script>
@@ -14,10 +18,6 @@
   // chartbeat
   var _sf_startpt=(new Date()).getTime();
   var _sf_async_config = {};
-</script>
-<script>
-  // google analytics
-  var _gaq=_gaq||[];(function(){_gaq.push(["_setAccount","UA-927537-1"]);_gaq.push(["_setDomainName",".talkingpointsmemo.com"]);_gaq.push(["_setAllowHash",false]);_gaq.push(["_trackPageview"]);_gaq.push(["_trackEvent","Units","Skyboxes","pageview"]);var b=document.createElement("script"),a=document.getElementsByTagName("script")[0];b.type="text/javascript";b.async=true;b.src=("https:"===document.location.protocol?"https://ssl":"http://www")+".google-analytics.com/ga.js";a.parentNode.insertBefore(b,a)}());
 </script>
 <script>
   // nielsen
@@ -30,11 +30,32 @@
   d.src = ["//secure-us.imrworldwide.com/cgi-bin/m?ci=us-805825h&cg=0&cc=1&si=", escape(window.location.href), "&rp=", escape(document.referrer), "&ts=compact&rnd=", (new Date()).getTime()].join('');
   }).call(this);
 </script>
+<script>
+  // google analytics
+  var _gaq=_gaq||[];(function(){_gaq.push(["_setAccount","UA-927537-1"]);_gaq.push(["_setDomainName",".talkingpointsmemo.com"]);_gaq.push(["_setAllowHash",false]);_gaq.push(["_trackPageview"]);_gaq.push(["_trackEvent","Units","Skyboxes","pageview"]);var b=document.createElement("script"),a=document.getElementsByTagName("script")[0];b.type="text/javascript";b.async=true;b.src=("https:"===document.location.protocol?"https://ssl":"http://www")+".google-analytics.com/ga.js";a.parentNode.insertBefore(b,a)}());
+</script>
+<script>
+  // heap analytics
+  var heap=heap||[];heap.load=function(a){window._heapid=a;var b=document.createElement("script");b.type="text/javascript",b.async=!0,b.src=("https:"===document.location.protocol?"https:":"http:")+"//cdn.heapanalytics.com/js/heap.js";var c=document.getElementsByTagName("script")[0];c.parentNode.insertBefore(b,c);var d=function(a){return function(){heap.push([a].concat(Array.prototype.slice.call(arguments,0)))}},e=["identify","track"];for(var f=0;f<e.length;f++)heap[e[f]]=d(e[f])};
+  heap.load("8675309");
+</script>
+<script>
+  (function() {
+    var userInfo = null;
+    if (userInfo)
+      heap.identify(userInfo);
+  })();
+</script>
 
-<link href="http://static.talkingpointsmemo.com.s3.amazonaws.com/assets/application-250568fb61e8c94f0b7ff57cc0f7f0e5.css" media="screen" rel="stylesheet" type="text/css">
-<link href="http://static.talkingpointsmemo.com.s3.amazonaws.com/assets/tpm-3d03f5aee3e185af6454097a74da9500.css" media="screen" rel="stylesheet" type="text/css">
+<link href="//douyfz3utcehi.cloudfront.net/assets/application-8a6eb18c286607742c749394562afef1.css" media="screen" rel="stylesheet" type="text/css">
+<link href="//douyfz3utcehi.cloudfront.net/assets/tpm-84e4b954800138cee209b2a363c3a82d.css" media="screen" rel="stylesheet" type="text/css">
+<link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" media="screen" rel="stylesheet" type="text/css">
+<link href="//fonts.googleapis.com/css?family=Lobster" media="screen" rel="stylesheet" type="text/css">
 <meta content="authenticity_token" name="csrf-param">
-<meta content="2Uno5woBCs/AMmnD3HNTDObvoD2c42UihJkZrU/8XNs=" name="csrf-token">
+<meta content="T7GIWPOEycsXZsc572JQQJtBU3atCG31brAhe+VB8gA=" name="csrf-token">
+<script>
+!function(){function n(n){return JSON.parse(n)}function o(n,o){return Object.prototype.hasOwnProperty.call(n,o)}var t,e=[],r={};t={_config:r,init:function(n){var o=window.jQuery;if(o){if(e){for(;e.length;){var t=e.shift();o(t)}e=null}n&&o(n)}else e.push(n)},get:function(n){return r[n]},set:function(n,o){r[n]=o},app:function(){return"pivot"},hostname:function(n){n||(n=t.app());var e=t.get("app_hosts");if(o(e,n))return e[n];throw"unknown hostname for app "+n},url:function(n){var o=t.hostname(n.app),e=n.protocol||window.location.protocol;return e+"//"+o},messageHandler:function(e,r){function i(n,t){var e=p[n]||[];return p[n]=e,e.push(t),o(u,n)&&t(u[n],n),!0}function a(n){if(n.origin===e){var o=n.data,t=s(o,n),r=p[t.name]||[];u[t.name]=t.value,r.forEach(function(n){n(t.value,t.name)})}}if("object"==typeof e&&(r=e,e=null),r=r||{},!e){if(!r.app)throw"no origin specified";e=t.url(r.app)}var p={},u={},s=r.parse||n;return window.addEventListener("message",a),i},postMessage:function(n,o,e){var r=t.url({app:o}),i=JSON.stringify(e);n.postMessage(i,r)}},t.set("app_hosts",{pivot:"talkingpointsmemo.com",discourse:"forums.talkingpointsmemo.com"}),window.TPM=window.TPM||t}();
+</script>
 <script>
   (function() {
     var data = {},
@@ -50,8 +71,18 @@
   }).call(this);
 </script>
 <script>
-    preloadStore.set("adUnits", [{"name":"leader_top","width":728,"height":90,"path":"/1025406/TPM_728x90_Top","targeting":{},"special":null,"size":[728,90]},{"name":"rect_right_one","width":300,"height":250,"path":"/1025406/TPM_300xFlex_1","targeting":{},"special":null,"size":[300,250]},{"name":"rect_right_two","width":300,"height":250,"path":"/1025406/TPM_300xFlex_2","targeting":{},"special":null,"size":[300,250]},{"name":"rect_right_three","width":300,"height":250,"path":"/1025406/TPM_300xFlex_5","targeting":{},"special":null,"size":[300,250]},{"name":"rect_left_one","width":300,"height":250,"path":"/1025406/TPM_300xFlex_3","targeting":{},"special":null,"size":[300,250]},{"name":"rect_left_two","width":300,"height":250,"path":"/1025406/TPM_300xFlex_4","targeting":{},"special":null,"size":[300,250]},{"name":"rect_left_three","width":300,"height":250,"path":"/1025406/TPM_300xFlex_5","targeting":{},"special":null,"size":[300,250]},{"name":"leader_btm","width":728,"height":90,"path":"/1025406/TPM_728x90_Bottom","targeting":{},"special":null,"size":[728,90]},{"name":"contentad","width":640,"height":300,"path":"/1025406/TPM_640xFlex_1","targeting":{},"special":null,"size":[640,300]},{"name":"outbrain","width":640,"height":420,"path":"/1025406/TPM_640xFlex_2","targeting":{},"special":null,"size":[640,420]}]);
-    preloadStore.set("adTargeting", {"membership":"anonymous","section":"misc","index":false,"test":false});
+    preloadStore.set("adUnits", [{"name":"leader_top","width":728,"height":90,"path":"/1025406/TPM_728x90_Top","targeting":{},"special":null,"size":[728,90]},{"name":"special_footer","width":600,"height":250,"path":"/1025406/TPM_SpecialFooter","targeting":{},"special":null,"size":[600,250]},{"name":"rect_right_one","width":300,"height":250,"path":"/1025406/TPM_300xFlex_1","targeting":{},"special":null,"size":[300,250]},{"name":"rect_right_two","width":300,"height":250,"path":"/1025406/TPM_300xFlex_2","targeting":{},"special":null,"size":[300,250]},{"name":"rect_right_three","width":300,"height":250,"path":"/1025406/TPM_300xFlex_5","targeting":{},"special":null,"size":[300,250]},{"name":"rect_left_one","width":300,"height":250,"path":"/1025406/TPM_300xFlex_3","targeting":{},"special":null,"size":[300,250]},{"name":"rect_left_two","width":300,"height":250,"path":"/1025406/TPM_300xFlex_4","targeting":{},"special":null,"size":[300,250]},{"name":"rect_left_three","width":300,"height":250,"path":"/1025406/TPM_300xFlex_5","targeting":{},"special":null,"size":[300,250]},{"name":"leader_btm","width":728,"height":90,"path":"/1025406/TPM_728x90_Bottom","targeting":{},"special":null,"size":[728,90]},{"name":"contentad","width":640,"height":300,"path":"/1025406/TPM_640xFlex_1","targeting":{},"special":null,"size":[640,300]},{"name":"outbrain","width":640,"height":250,"path":"/1025406/TPM_640xFlex_2","targeting":{},"special":null,"size":[640,250]},{"name":"the_hill","width":300,"height":250,"path":"/1025406/The_Hill","targeting":{},"special":null,"size":[300,250]},{"name":"newsmax","width":300,"height":440,"path":"/1025406/Newsmax","targeting":{},"special":null,"size":[300,440]}]);
+    preloadStore.set("adTargeting", {"membership":["anonymous"],"section":["misc"],"index":["false"],"issues":[],"test":["false"],"ad_partner":[],"sponsor":[]});
+</script>
+<script>
+  /*!
+   * jQuery Cookie Plugin v1.4.0
+   * https://github.com/carhartl/jquery-cookie
+   *
+   * Copyright 2013 Klaus Hartl
+   * Released under the MIT license
+   */
+  var TPM=TPM||{};(function(e){if(typeof define==="function"&&define.amd){define(["jquery"],e)}else{e(TPM)}})(function(e){function h(e){return g.raw?e:encodeURIComponent(e)}function p(e){return g.raw?e:decodeURIComponent(e)}function d(e){return h(g.json?JSON.stringify(e):String(e))}function v(e){if(e.indexOf('"')===0){e=e.slice(1,-1).replace(/\\"/g,'"').replace(/\\\\/g,"\\")}try{e=decodeURIComponent(e.replace(t," "));return g.json?JSON.parse(e):e}catch(n){}}function m(e,t){var n=g.raw?e:v(e);return f(t)?t(n):n}var t=/\+/g;var n=Array.prototype,r=Object.prototype,i=n.forEach,s=r.hasOwnProperty,o=r.toString,u=n.slice;var a=function(e,t){return s.call(e,t)};var f=function(e){return o.call(e)=="[object Function]"};var l=function(e,t,n){if(e==null)return;if(i&&e.forEach===i){e.forEach(t,n)}else if(e.length===+e.length){for(var r=0,s=e.length;r<s;r++){if(t.call(n,e[r],r,e)===breaker)return}}else{for(var o in e){if(a(e,o)){if(t.call(n,e[o],o,e)===breaker)return}}}};var c=function(e){l(u.call(arguments,1),function(t){if(t){for(var n in t){e[n]=t[n]}}});return e};var g=e.cookie=function(e,t,n){if(t!==undefined&&!f(t)){n=c({},g.defaults,n);if(typeof n.expires==="number"){var r=n.expires,i=n.expires=new Date;i.setDate(i.getDate()+r)}return document.cookie=[h(e),"=",d(t),n.expires?"; expires="+n.expires.toUTCString():"",n.path?"; path="+n.path:"",n.domain?"; domain="+n.domain:"",n.secure?"; secure":""].join("")}var s=e?undefined:{};var o=document.cookie?document.cookie.split("; "):[];for(var u=0,a=o.length;u<a;u++){var l=o[u].split("=");var v=p(l.shift());var y=l.join("=");if(e&&e===v){s=m(y,t);break}if(!e&&(y=m(y))!==undefined){s[v]=y}}return s};g.defaults={};e.removeCookie=function(t,n){if(e.cookie(t)===undefined){return false}e.cookie(t,"",c({},n,{expires:-1}));return!e.cookie(t)}})
 </script>
 <script>
   (function() {
@@ -62,16 +93,23 @@
   })();
 </script><script src="https://www.googletagservices.com/tag/js/gpt.js"></script>
 <script>
-googletag.pubads().setTargeting('membership', 'anonymous');
-googletag.pubads().setTargeting('section', 'misc');
-googletag.pubads().setTargeting('index', 'false');
-googletag.pubads().setTargeting('test', 'false');
+function setGACustomVar(t){var o="Monthly Frequency",e=window._gaq;e&&(e.push(["_setCustomVar",4,o,t,1]),e.push(["_trackEvent",o,t,"",0,!0]))}function setDFPCustomTarget(t,o){t.frequency=o,preloadStore.set("adTargeting",t),googletag.pubads().setTargeting("frequency",o)}!function(){var t,o,e,n;TPM.cookie.json=!0,t=new Date,o=TPM.cookie("_tpm_profile")||{},e=preloadStore.get("adTargeting")||{};var a,r;a=[t.getUTCFullYear(),t.getMonth()+1,t.getDate()].join("-"),r=o.pageViews,r&&r.date===a?r.count+=1:r={date:a,count:1},o.pageViews=r,r.count>=5&&(n="high",setDFPCustomTarget(e,n));var i,s;i=[t.getUTCFullYear(),t.getMonth()+1].join("-"),s=o.monthlyPageViews,s&&s.month===i?s.count+=1:s={month:i,count:1},o.monthlyPageViews=s,s.count>=90?(n="monthly90",setDFPCustomTarget(e,n),setGACustomVar(n)):s.count>=60?(n="monthly60",setDFPCustomTarget(e,n),setGACustomVar(n)):s.count>=30&&(n="monthly30",setDFPCustomTarget(e,n),setGACustomVar(n)),TPM.cookie("_tpm_profile",o,{expires:365,path:"/"}),TPM.cookie.json=!1}.call(this);
+</script>
+<script>
+googletag.pubads().setTargeting('membership', ["anonymous"]);
+googletag.pubads().setTargeting('section', ["misc"]);
+googletag.pubads().setTargeting('index', ["false"]);
+googletag.pubads().setTargeting('issues', []);
+googletag.pubads().setTargeting('test', ["false"]);
+googletag.pubads().setTargeting('ad_partner', []);
+googletag.pubads().setTargeting('sponsor', []);
 googletag.defineSlot('/1025406/TPM_160x600_InArticle_1', [160, 600], 'div-gpt-in_article').addService(googletag.pubads());
 googletag.defineSlot('/1025406/TPM_Skin_Flex_1x1', [1, 1], 'div-gpt-skin').addService(googletag.pubads());
 googletag.defineSlot('/1025406/TPM_970x90', [970, 90], 'div-gpt-dropdown').addService(googletag.pubads());
 googletag.defineSlot('/1025406/Modal_1x1', [1, 1], 'div-gpt-modal').addService(googletag.pubads());
 googletag.defineSlot('/1025406/Modal_1x1_TEST', [1, 1], 'div-gpt-test_modal').addService(googletag.pubads());
 googletag.defineSlot('/1025406/Interstitial_1x1', [1, 1], 'div-gpt-intersitial').addService(googletag.pubads());
+googletag.defineSlot('/1025406/LW_Post', [1, 1], 'div-gpt-sponsered_wire').addService(googletag.pubads());
 googletag.pubads().enableSyncRendering();
 googletag.enableServices();
 </script>
@@ -82,13 +120,17 @@ googletag.enableServices();
 <link href="/assets/mobile/apple-touch-icon-72x72-precomposed.png" rel="apple-touch-icon" sizes="72x72">
 <link href="/assets/mobile/apple-touch-icon-precomposed.png" rel="apple-touch-icon">
 
+<script>
+    preloadStore.set("videoWall", {"color":"black","video":{"mp4":"https://dawm7kda6y2v0.cloudfront.net/videos/video_walls/veep-04-14.mp4","webm":"https://dawm7kda6y2v0.cloudfront.net/videos/video_walls/veep-04-14.webm"},"previewVideo":{"mp4":"https://dawm7kda6y2v0.cloudfront.net/videos/video_walls/veep-04-14-preview.mp4","webm":"https://dawm7kda6y2v0.cloudfront.net/videos/video_walls/veep-04-14-preview.webm"},"skin":{"width":897,"height":1440,"url":"https://dawm7kda6y2v0.cloudfront.net/images/site-skins/veep-04-14.jpg"},"overlayURL":"//douyfz3utcehi.cloudfront.net/assets/play-overlay-52118dd611f2e3c017add74ee0d3b2dd.png"});
+</script>
+
 <link href="/feed/all" rel="alternate" title="ATOM" type="application/atom+xml">
 
 <!--[if lt IE 9 ]>
 <script src='//html5shiv.googlecode.com/svn/trunk/html5.js'></script>
 <![endif]-->
-<script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script></head>
-<body class="bd- bd-not-prime user-not-signed-in" id="bd-" lang="en">
+</head>
+<body class="bd-  bd-not-prime user-not-signed-in" id="bd-" lang="en">
 <script>
   // facebook
   (function(){
@@ -109,22 +151,26 @@ googletag.enableServices();
 googletag.display('div-gpt-skin');
 </script>
 </div>
+
 <div id="div-gpt-modal" data-cb-ad-id="modal">
 <script type="text/javascript">
 googletag.display('div-gpt-modal');
 </script>
 </div>
+
+<div id="takeover"></div>
 <div id="fb-root"></div>
 <div id="container">
 <header id="header">
 <div class="row" id="logo-row">
 <div class="pull-left">
-<a href="/" id="logo">TPM</a>
+<a href="http://talkingpointsmemo.com/" id="logo">TPM</a>
 </div>
 <div class="pull-right">
 <div class="ad-slot no-disclaimer" style="min-width: 728px; min-height: 90px;">
   <script type="text/x-ad-slot" data-unit="leader_top" data-targeting="{}"></script>
 </div>
+
 </div>
 </div>
 <div id="main-nav-container">
@@ -163,18 +209,16 @@ googletag.display('div-gpt-modal');
 <li class="dropdown" id="sign-in">
 <a href="#" class="dropdown-toggle" data-toggle="dropdown" id="sign-in-link">Sign In</a>
 <div class="dropdown-menu pd" id="sign-in-dropdown">
-<form accept-charset="UTF-8" action="/users/sign_in" class="simple_form user-form" data-validate="true" id="new_user" method="post" novalidate="novalidate"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="2Uno5woBCs/AMmnD3HNTDObvoD2c42UihJkZrU/8XNs="></div><div class="inputs" id="login-inputs">
+<form accept-charset="UTF-8" action="/users/sign_in" class="simple_form user-form" data-validate="true" id="new_user" method="post" novalidate="novalidate"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="T7GIWPOEycsXZsc572JQQJtBU3atCG31brAhe+VB8gA="></div><div class="inputs" id="login-inputs">
 <div class="control-group string optional user_login"><div class="controls"><input autofocus="autofocus" class="string optional" id="user_login" name="user[login]" placeholder="Username or Email" size="50" type="text"></div></div>
 <div class="control-group password optional user_password"><div class="controls"><input class="password optional" id="user_password" name="user[password]" placeholder="Password" size="50" type="password"></div></div>
 <div class="control-group clearfix">
 <div class="tr">
-<div class="pull-left">
-<div class="control-group boolean optional user_remember_me remember-me-wrap"><div class="controls"><div class="checkbox inline"><input name="user[remember_me]" type="hidden" value="0"><label class="boolean optional control-label checkbox" for="user_remember_me"><input class="boolean optional" id="user_remember_me" name="user[remember_me]" type="checkbox" value="1">Remember me</label></div></div></div>
-</div>
 <input class="btn btn btn-primary btn-sign-in" name="commit" type="submit" value="Sign In">
 </div>
 </div>
 <a href="/users/password/new">Forgot password?</a>
+<a href="/users/sign_up"> / Sign Up</a>
 </div>
 </form>
 
@@ -271,7 +315,7 @@ Already have an account?
 <ul class="nav nav-text">
 <li class="muted last-update">
 Updated
-6:06 PM EST, Tue Nov 12 2013
+2:00 PM EDT, Sun Jun 29 2014
 </li>
 <li class="nav-send-comments">
 <a href="mailto:talk@talkingpointsmemo.com">Send Comments &amp; News Tips</a>
@@ -286,7 +330,7 @@ Updated
 <input name="ie" type="hidden" value="UTF-8">
 </form>
 
-<script src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en" type="text/javascript"></script>
+<script src="//www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en" type="text/javascript"></script>
 
 </li>
 </ul>
@@ -301,7 +345,7 @@ Updated
 <li class="dropdown">
 <a href="https://www.facebook.com/talkingpointsmemo" class="facebook-24 dropdown-toggle" data-toggle="dropdown" id="facebook-dropdown-link">Facebook</a>
 <div class="dropdown-menu pd" id="facebook-dropdown">
-<div class="fb-like" data-font="lucida grande" data-href="http://talkingpointsmemo.com" data-layout="button_count" data-send="false" data-show-faces="true" data-width="500"></div>
+<div class="fb-like" data-font="lucida grande" data-href="https://www.facebook.com/talkingpointsmemo" data-layout="button_count" data-send="false" data-show-faces="true" data-width="500"></div>
 
 </div>
 </li>
@@ -309,38 +353,6 @@ Updated
 <a href="http://www.youtube.com/user/tpmtv" class="youtube-24 dropdown-toggle" data-toggle="dropdown" id="youtube-dropdown-link">Youtube</a>
 <div class="dropdown-menu pd" id="youtube-dropdown">
 <a href="http://www.youtube.com/subscription_center?add_user=tpmtv" class="yt-sub">YouTube</a>
-
-</div>
-</li>
-<li class="dropdown">
-<a href="/newsletters" class="newsletter-24 dropdown-toggle" data-toggle="dropdown" id="newsletter-dropdown-link">Newsletter</a>
-<div class="dropdown-menu pd" id="newsletter-dropdown">
-<h1 class="section-header">
-<span>TPM</span>
-DayBreaker
-</h1>
-<p>
-Get the day’s best political analysis, news and reporting from the TPM team delivered to your inbox every day. In 30-60 seconds, you’ll be first to see TPM’s best stories of the morning and caught up on what to expect for the day ahead.
-</p>
-<div class="well">
-<form accept-charset="UTF-8" action="/newsletters" class="simple_form form-horizontal" id="new_newsletter" method="post" novalidate="novalidate"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="2Uno5woBCs/AMmnD3HNTDObvoD2c42UihJkZrU/8XNs="></div><div class="control-group email required newsletter_email"><label class="email required control-label" for="newsletter_email"><abbr title="required">*</abbr> Email Address</label><div class="controls"><input class="string email required" id="newsletter_email" name="newsletter[email]" placeholder="email@example.com" size="50" type="email"></div></div>
-<div class="control-group string optional newsletter_postal_code"><label class="string optional control-label" for="newsletter_postal_code">Postal code</label><div class="controls"><input class="string optional" id="newsletter_postal_code" name="newsletter[postal_code]" size="32" type="text"></div></div>
-
-<div class="control-group check_boxes">
-<label class="check_boxes required control-label">
-Newsletters
-</label>
-<div class="controls">
-<label class="checkbox"><input checked="checked" id="newsletter_subscription_type_daybreaker" name="newsletter[subscription_type][]" type="checkbox" value="daybreaker"><label class="collection_check_boxes" for="newsletter_subscription_type_daybreaker">DayBreaker</label></label><label class="checkbox"><input checked="checked" id="newsletter_subscription_type_editors_corner" name="newsletter[subscription_type][]" type="checkbox" value="editors_corner"><label class="collection_check_boxes" for="newsletter_subscription_type_editors_corner">Editor's Corner</label></label><label class="checkbox"><input checked="checked" id="newsletter_subscription_type_breaking_news" name="newsletter[subscription_type][]" type="checkbox" value="breaking_news"><label class="collection_check_boxes" for="newsletter_subscription_type_breaking_news">Breaking News</label></label><input name="newsletter[subscription_type][]" type="hidden" value="">
-</div>
-</div>
-<div class="controls">
-<input class="btn btn btn-primary" name="commit" type="submit" value="Save">
-</div>
-</form>
-
-
-</div>
 
 </div>
 </li>
@@ -363,6 +375,7 @@ Newsletters
 googletag.display('div-gpt-dropdown');
 </script>
 </div>
+
 </div>
 <div class="row">
 <div class="span8">
@@ -482,74 +495,57 @@ review on this page.
 <div class="ad-slot" style="min-width: 300px; min-height: 250px;">
   <script type="text/x-ad-slot" data-unit="rect_right_one" data-targeting="{}"></script>
 </div>
+
 <div id="livewire">
 <h1 class="section-header">
 <a href="/livewire"><span>TPM</span>Livewire
 </a></h1>
-<article class="livewire-widget">
+<article class="heap-livewire-0 livewire-widget">
 <h1>
-<a href="/livewire/hawaii-senate-passes-gay-marriage-bill-guv-expected-to-sign">Hawaii Senate Passes Gay Marriage Bill, Guv Expected To Sign</a>
+<a href="/livewire/nation-editor-kristol-enlist-iraqi-army">Nation Editor Tells Bill Kristol To Join Iraqi Army If He Wants War (VIDEO)</a>
 </h1>
-<time class="timeago" datetime="2013-11-12T23:06:19Z">November 12, 2013,  6:06 PM EST</time>
-The Hawaii Senate on Tuesday passed a marriage equality bill by a 19-4 margin. The House already passed the measure,…
-<a href="/livewire/hawaii-senate-passes-gay-marriage-bill-guv-expected-to-sign" class="read-more">Read&nbsp;More&nbsp;→
+<time class="timeago" datetime="2014-06-29T17:21:45Z">June 29, 2014,  1:21 PM EDT</time>
+The Nation's Katrina Vanden Heuvel on Sunday bashed Weekly Standard editor Bill Kristol as one of the architects of the…
+<a href="/livewire/nation-editor-kristol-enlist-iraqi-army" class="read-more">Read&nbsp;More&nbsp;→
 </a></article>
-<article class="livewire-widget">
+<article class="heap-livewire-1 livewire-widget">
 <h1>
-<a href="/livewire/feinstein-signs-on-to-landrieu-bill-that-addresses-insurance-cancelations">Feinstein Signs On To Landrieu Bill That Addresses Insurance Cancellations</a>
+<a href="/livewire/lerner-gop-demon">Lerner's Attorney: It's Just 'Convenient' For GOP To Have A 'Demon'</a>
 </h1>
-<time class="timeago" datetime="2013-11-12T22:43:00Z">November 12, 2013,  5:43 PM EST</time>
-Sen. Dianne Feinstein (D-CA) announced Tuesday that she would co-sponsor Sen. Mary Landrieu's (D-LA) bill that allows people with existing…
-<a href="/livewire/feinstein-signs-on-to-landrieu-bill-that-addresses-insurance-cancelations" class="read-more">Read&nbsp;More&nbsp;→
+<time class="timeago" datetime="2014-06-29T15:18:07Z">June 29, 2014, 11:18 AM EDT</time>
+The attorney representing former IRS chief Lois Lerner, William Taylor III, on Sunday dismissed House Oversight Committee Chair Darrell Issa's…
+<a href="/livewire/lerner-gop-demon" class="read-more">Read&nbsp;More&nbsp;→
 </a></article>
-<article class="livewire-widget">
+<article class="heap-livewire-2 livewire-widget">
 <h1>
-<a href="/livewire/sarah-palin-surprised-by-pope-francis-liberal-sounding-statements">Sarah Palin 'Surprised' By Pope Francis' 'Liberal' Sounding Statements</a>
+<a href="/livewire/goodlatte-defends-obama-lawsuit">GOP Rep. Insists Lawsuit Against Obama Not Political</a>
 </h1>
-<time class="timeago" datetime="2013-11-12T22:32:27Z">November 12, 2013,  5:32 PM EST</time>
-Former Alaska Gov. Sarah Palin (R) said Tuesday that some of the pope's statements "sounded kind of liberal," but assured…
-<a href="/livewire/sarah-palin-surprised-by-pope-francis-liberal-sounding-statements" class="read-more">Read&nbsp;More&nbsp;→
+<time class="timeago" datetime="2014-06-29T14:41:44Z">June 29, 2014, 10:41 AM EDT</time>
+Rep. Bob Goodlatte (R-VA), on Sunday defended the GOP's plan to sue President Obama over his use of executive actions.…
+<a href="/livewire/goodlatte-defends-obama-lawsuit" class="read-more">Read&nbsp;More&nbsp;→
 </a></article>
-<article class="livewire-widget">
+<article class="heap-livewire-3 livewire-widget">
 <h1>
-<a href="/livewire/obama-approval-rating-hits-new-low-in-quinnipiac-poll">Obama Approval Rating Hits New Low In Quinnipiac Poll</a>
+<a href="/livewire/accidental-shooting-pennsylvania-gun-show">Vendor Accidentally Shot Woman At PA Gun Show While Demonstrating Gun</a>
 </h1>
-<time class="timeago" datetime="2013-11-12T21:54:22Z">November 12, 2013,  4:54 PM EST</time>
-President Barack Obama's approval ratings have taken a hit in another national poll. In a Quinnipiac&nbsp;poll released Tuesday, 39 percent…
-<a href="/livewire/obama-approval-rating-hits-new-low-in-quinnipiac-poll" class="read-more">Read&nbsp;More&nbsp;→
+<time class="timeago" datetime="2014-06-29T13:36:00Z">June 29, 2014,  9:36 AM EDT</time>
+A woman was accidentally shot in the leg at a Bloomsberg, Pa. gun show by a vendor while he was…
+<a href="/livewire/accidental-shooting-pennsylvania-gun-show" class="read-more">Read&nbsp;More&nbsp;→
 </a></article>
-<article class="livewire-widget">
+<article class="heap-livewire-4 livewire-widget">
 <h1>
-<a href="/livewire/house-dem-leaders-to-oppose-gop-s-keep-your-health-plan-bill">House Dem Leaders To Oppose GOP's 'Keep Your Health Plan' Bill</a>
+<a href="/livewire/bill-maher-hillary-clinton-just-go-away">Bill Maher Tells Hillary To 'Just Go Away' For A While Before 2016</a>
 </h1>
-<time class="timeago" datetime="2013-11-12T21:29:05Z">November 12, 2013,  4:29 PM EST</time>
-House Democratic leaders will oppose Republican-led legislation that allows insurers to continue insurance policies into 2014 even if they don't…
-<a href="/livewire/house-dem-leaders-to-oppose-gop-s-keep-your-health-plan-bill" class="read-more">Read&nbsp;More&nbsp;→
+<time class="timeago" datetime="2014-06-28T20:27:39Z">June 28, 2014,  4:27 PM EDT</time>
+Bill Maher, on his HBO show "Real Time With Bill Maher" offered some advice to Hillary Clinton if she wants…
+<a href="/livewire/bill-maher-hillary-clinton-just-go-away" class="read-more">Read&nbsp;More&nbsp;→
 </a></article>
-<article class="livewire-widget">
-<h1>
-<a href="/livewire/arizona-official-who-toyed-with-keeping-obama-off-ballot-now-running-for-governor">Arizona Official Who Dabbled With Birtherism Launches Run For Governor</a>
-</h1>
-<time class="timeago" datetime="2013-11-12T21:13:47Z">November 12, 2013,  4:13 PM EST</time>
-The Arizona election official who once apologized for embarrassing the state because of his flirtation with birtherism announced Tuesday he'd…
-<a href="/livewire/arizona-official-who-toyed-with-keeping-obama-off-ballot-now-running-for-governor" class="read-more">Read&nbsp;More&nbsp;→
-</a></article>
-<article class="livewire-widget">
-<h1>
-<a href="/livewire/richard-cohen-defends-column-discussing-biracial-marriages">Richard Cohen Defends Column: 'The Word Racist Is Truly Hurtful'</a>
-</h1>
-<time class="timeago" datetime="2013-11-12T21:01:34Z">November 12, 2013,  4:01 PM EST</time>
-Washington Post columnist Richard Cohen defended his&nbsp;column&nbsp;centered on the Tea Party on Tuesday, in which he claimed that those with…
-<a href="/livewire/richard-cohen-defends-column-discussing-biracial-marriages" class="read-more">Read&nbsp;More&nbsp;→
-</a></article>
-<article class="livewire-widget">
-<h1>
-<a href="/livewire/chuck-grassley-dares-dems-to-go-nuclear">Grassley Dares Dems To Go Nuclear, Threatens More Scalias</a>
-</h1>
-<time class="timeago" datetime="2013-11-12T20:55:22Z">November 12, 2013,  3:55 PM EST</time>
-The top Republican on the Senate Judiciary Committee dared Democrats to "go ahead" and eliminate the filibuster for nominees via…
-<a href="/livewire/chuck-grassley-dares-dems-to-go-nuclear" class="read-more">Read&nbsp;More&nbsp;→
-</a></article>
+<div id="div-gpt-sponsered_wire" data-cb-ad-id="sponsered_wire">
+<script type="text/javascript">
+googletag.display('div-gpt-sponsered_wire');
+</script>
+</div>
+
 </div>
 
 </div>
@@ -557,88 +553,13 @@ The top Republican on the Senate Judiciary Committee dared Democrats to "go ahea
 <div class="ad-slot" style="min-width: 300px; min-height: 250px;">
   <script type="text/x-ad-slot" data-unit="rect_right_two" data-targeting="{}"></script>
 </div>
-</div>
-<div class="mb">
-<div class="widget hive-widget">
-<h1 class="widget-title">
-top discussions @
-<span class="the-hive">The Hive</span>
-</h1>
-<ul class="topics-list">
-<a href="http://forums.talkingpointsmemo.com/t/whats-the-take-away-from-the-off-off-year-election/813">
-<li class="mild topic">
-<div class="avatar-wrapper">
-<img class="avatar" src="http://a5.img.talkingpointsmemo.com/image/upload/c_fill,fl_keep_iptc,g_faces,h_100,w_100/rbzstzynuj8evycb9txn.jpg">
-</div>
-<div class="topic-info">
-<h2 class="topic-title">What's the take-away from the off-off-year election?</h2>
-<span class="topic-details">20 posts | 7 participants</span>
-</div>
-</li>
-</a>
-<a href="http://forums.talkingpointsmemo.com/t/reader-ta-and-i-am-telling-you-im-not-going/825">
-<li class="mild topic">
-<div class="avatar-wrapper">
-<img class="avatar" src="//www.gravatar.com/avatar/007f084aeb6e32090c93cacf9fcc3748.png?s={size}&amp;r=pg&amp;d=identicon">
-</div>
-<div class="topic-info">
-<h2 class="topic-title">Reader TA; And I am telling you I'm not going</h2>
-<span class="topic-details">16 posts | 8 participants</span>
-</div>
-</li>
-</a>
-<a href="http://forums.talkingpointsmemo.com/t/do-pro-lifers-spay-and-neuter-their-pets/816">
-<li class="topic wild">
-<div class="avatar-wrapper">
-<img class="avatar" src="//www.gravatar.com/avatar/da5d0e9aa67aa0bf3a975ff6af517026.png?s={size}&amp;r=pg&amp;d=identicon">
-</div>
-<div class="topic-info">
-<h2 class="topic-title">Do Pro-Lifers Spay And Neuter Their Pets?</h2>
-<span class="topic-details">22 posts | 14 participants</span>
-</div>
-</li>
-</a>
-<a href="http://forums.talkingpointsmemo.com/t/will-lara-logan-end-up-like-dan-rather/824">
-<li class="topic wild">
-<div class="avatar-wrapper">
-<img class="avatar" src="http://a2.img.talkingpointsmemo.com/image/upload/c_fill,fl_keep_iptc,g_faces,h_100,w_100/wsdyzmfbasyodfy1j4lp.png">
-</div>
-<div class="topic-info">
-<h2 class="topic-title">Will Lara Logan end up like Dan Rather?</h2>
-<span class="topic-details">22 posts | 17 participants</span>
-</div>
-</li>
-</a>
-<a href="http://forums.talkingpointsmemo.com/t/transgender-employment-protections/822">
-<li class="mild topic">
-<div class="avatar-wrapper">
-<img class="avatar" src="http://a3.img.talkingpointsmemo.com/image/upload/c_fill,fl_keep_iptc,g_faces,h_100,w_100/rj5kygfsmum8flg24id6.jpg">
-</div>
-<div class="topic-info">
-<h2 class="topic-title">Transgender Employment Protections</h2>
-<span class="topic-details">12 posts | 5 participants</span>
-</div>
-</li>
-</a>
-<a href="http://forums.talkingpointsmemo.com/t/mirror-mirror-on-the-wall-weakest-democrat-wins-it-all/811">
-<li class="mild topic">
-<div class="avatar-wrapper">
-<img class="avatar" src="//www.gravatar.com/avatar/1b8a2689a6dd94bbd040491d9d570845.png?s={size}&amp;r=pg&amp;d=identicon">
-</div>
-<div class="topic-info">
-<h2 class="topic-title">Mirror Mirror on the Wall- Weakest Democrat wins it all</h2>
-<span class="topic-details">14 posts | 8 participants</span>
-</div>
-</li>
-</a>
-</ul>
-</div>
 
 </div>
 <div class="mb">
 <div class="ad-slot" style="min-width: 300px; min-height: 250px;">
   <script type="text/x-ad-slot" data-unit="rect_right_three" data-targeting="{}"></script>
 </div>
+
 </div>
 
 </div>
@@ -650,6 +571,7 @@ top discussions @
 <div class="ad-slot no-disclaimer" style="min-width: 728px; min-height: 90px;">
   <script type="text/x-ad-slot" data-unit="leader_btm" data-targeting="{}"></script>
 </div>
+
 </div>
 </div>
 <section id="masthead">
@@ -667,25 +589,21 @@ top discussions @
 <dt>Associate Editor</dt>
 <dd><a href="/profile/nickmartin">Nick Martin</a></dd><dd><a href="/profile/ksteiger">Kay Steiger</a></dd>
 </dl>
-<dl>
-<dt>Assistant Editor</dt>
-<dd><a href="/profile/igortpm">Igor Bobic</a></dd>
-</dl>
 </div>
 <div class="span2">
 <dl>
 <dt>Reporters</dt>
-<dd><a href="/profile/sahil">Sahil Kapur</a></dd><dd><a href="/profile/ericlach">Eric Lach</a></dd><dd><a href="/profile/hunter">Hunter Walker</a></dd><dd><a href="/profile/dylanlscott13">Dylan Scott</a></dd><dd><a href="/profile/danielstrauss">Daniel Strauss</a></dd>
+<dd><a href="/profile/sahil">Sahil Kapur</a></dd><dd><a href="/profile/ericlach">Eric Lach</a></dd><dd><a href="/profile/dylanlscott13">Dylan Scott</a></dd><dd><a href="/profile/danielstrauss">Daniel Strauss</a></dd><dd><a href="/profile/tomkludt">Tom Kludt</a></dd>
 </dl>
 </div>
 <div class="span2">
 <dl>
 <dt>Frontpage Editor</dt>
-<dd><a href="/profile/zoe">Zoë Schlanger</a></dd>
+<dd><a href="/profile/brendanjames">Brendan James</a></dd>
 </dl>
 <dl>
 <dt>Newswriters</dt>
-<dd><a href="/profile/tomkludt">Tom Kludt</a></dd><dd><a href="/profile/catherine">Catherine Thompson</a></dd><dd><a href="/profile/caitlinmacneal">Caitlin Mac Neal</a></dd>
+<dd><a href="/profile/catherine">Catherine Thompson</a></dd><dd><a href="/profile/caitlinmacneal">Caitlin Mac Neal</a></dd>
 </dl>
 </div>
 <div class="span2">
@@ -695,7 +613,7 @@ top discussions @
 </dl>
 <dl>
 <dt>VP, Ad Sales</dt>
-<dd><a href="/profile/but-anyway">Bruce Ellerstein</a></dd><dd><a href="/profile/amandatpm">Amanda Hale</a></dd>
+<dd><a href="/profile/bruce-ellerstein">Bruce Ellerstein</a></dd><dd><a href="/profile/amandatpm">Amanda Hale</a></dd>
 </dl>
 </div>
 <div class="span2">
@@ -703,11 +621,23 @@ top discussions @
 <dt>Associate Publisher</dt>
 <dd><a href="/profile/tpmjoe">Joe Ragazzo</a></dd>
 </dl>
+<dl>
+<dt>Manager of Creative Solutions</dt>
+<dd><a href="/profile/derick">Derick Dirmaier</a></dd>
+</dl>
+<dl>
+<dt>Publishing Assistant</dt>
+<dd><a href="/profile/alanalevinson">Alana Levinson</a></dd>
+</dl>
 </div>
 <div class="span2">
 <dl>
-<dt>Designer/Developer</dt>
+<dt>Director of Technology</dt>
 <dd><a href="/profile/woz">Matthew Wozniak</a></dd>
+</dl>
+<dl>
+<dt>Developers</dt>
+<dd><a href="/profile/ericxu">Eric Xu</a></dd><dd><a href="/profile/toml">Tom Lewandowski</a></dd>
 </dl>
 <dl>
 <dt>Design Associate</dt>
@@ -746,14 +676,14 @@ top discussions @
 <a href="/press-releases">Press Releases</a>
 </li>
 <li>
-<a href="/site-issues">Report Bugs &amp; Site Issues</a>
+<a href="http://status-tpm.tumblr.com/">Report Bugs &amp; Site Issues</a>
 </li>
 <li>
 <a href="/advertise">Advertise</a>
 </li>
 </ul>
 <div id="copyright">
-© 2013 TPM Media LLC. All Rights Reserved.
+© 2014 TPM Media LLC. All Rights Reserved.
 </div>
 </div>
 </div>
@@ -761,19 +691,16 @@ top discussions @
 
 </div>
 </div>
-<script>
-    preloadStore.set("backplane", {"busName":"tpm","serverBaseURL":"https://api.echoenabled.com/v1","channel":"bp_channel_id","reset":"__reset_bp_channel_id"});
-    preloadStore.set("rtb", {"url":"https://tpm.rpxnow.com/","key":"echo.realtidbits.commenting.tpm.prod","readOnly":false});
-</script>
-<script src="https://cdn.echoenabled.com/sdk/v3/backplane.js" type="text/javascript"></script>
 
-<script src="http://static.talkingpointsmemo.com.s3.amazonaws.com/assets/application-6425be80295908e6df708e6932f69f09.js" type="text/javascript"></script>
+<script src="//code.jquery.com/jquery-1.10.2.min.js" type="text/javascript"></script>
+<script src="//douyfz3utcehi.cloudfront.net/assets/application-9f90e7fe3fb671381f67510363e61756.js" type="text/javascript"></script>
 
 <div id="div-gpt-intersitial" data-cb-ad-id="intersitial">
 <script type="text/javascript">
 googletag.display('div-gpt-intersitial');
 </script>
 </div>
+
 <script>
   // quantcast
   (function(){
@@ -785,8 +712,8 @@ googletag.display('div-gpt-intersitial');
   })();
   
   var _cbq = window._cbq || [];
-  _cbq.push(['_acct', 'anon']);
-  _sf_async_config.zone="misc";
+  _cbq.push(['_acct', '']);
+  _sf_async_config.zone="[:misc]";
 </script>
 <!-- START Parse.ly Include: Standard -->
 <div id="parsely-root" style="display: none;">
@@ -805,17 +732,6 @@ googletag.display('div-gpt-intersitial');
 </script>
 
 <script async="async" charset="utf-8" src="//platform.twitter.com/widgets.js" type="text/javascript"></script>
-<script type="text/javascript">if (!NREUMQ.f) { NREUMQ.f=function() {
-NREUMQ.push(["load",new Date().getTime()]);
-var e=document.createElement("script");
-e.type="text/javascript";
-e.src=(("http:"===document.location.protocol)?"http:":"https:") + "//" +
-  "js-agent.newrelic.com/nr-100.js";
-document.body.appendChild(e);
-if(NREUMQ.a)NREUMQ.a();
-};
-NREUMQ.a=window.onload;window.onload=NREUMQ.f;
-};
-NREUMQ.push(["nrfj","beacon-2.newrelic.com","ef71ff2500","1865757","e1hZQBdeCVtdRB9DEVlDXldKWAtTXU4=",0,200,new Date().getTime(),"","","","",""]);</script>
 
-<script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script><script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat_pub.js"></script></body></html>
+
+<script src="https://js-agent.newrelic.com/nr-411.min.js"></script><script language="javascript" type="text/javascript" src="https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/js/chartbeat_pub.js"></script></body></html>
