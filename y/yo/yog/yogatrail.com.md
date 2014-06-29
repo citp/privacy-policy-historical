@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yogatrail.com privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030085608id_/http%3A//www.yogatrail.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yogatrail.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629040132id_/http%3A//www.yogatrail.com/privacy-policy) for the most accurate reproduction.*
 
 # YogaTrail Privacy Policy | YogaTrail
 
@@ -67,7 +67,7 @@ YogaTrail uses the information we collect about you for the following purposes:
   * Fulfilling your requests for products and services, including the development of new services;
   * Ensuring the technical functioning of our network;
   * Soliciting information from you, including through polls and surveys;
-  * Providing anonymous reporting for Premium Users of our Website;
+  * Providing reporting for Premium Users of our Website;
   * Resolving disputes or troubleshoot problems;
   * Preventing potentially prohibited or illegal activities;
   * Enforcing our [Terms of Service](http://www.yogatrail.com/terms-of-service).
@@ -103,11 +103,11 @@ We also may share your information under the following circumstances, if we have
 
 
 
-If you create a profile on YogaTrail, certain information on your profile (such as profile picture, name, location, reviews and other content contributed) will be publicly viewable and identifiable. Additionally, through our member-to-member communications programs, other registered YogaTrail Users may contact you by using YogaTrail as an intermediary. YogaTrail will not share your email address with any other members nor display it in any public manner. 
+If you create a profile on YogaTrail, certain information on your profile (such as profile picture, name, location, reviews and other content contributed) will be publicly viewable and identifiable. Additionally, through our member-to-member communications programs, other registered YogaTrail Users may contact you by using YogaTrail as an intermediary. YogaTrail will not display your email address in any public manner, however please note that when you contact another member of YogaTrail, your email address is visible to the person you contacted so that they may reply to your message.
 
 In order to invite others to join our Website, you may use the Services to send invitations to email addresses of people you know if they are not registered Users of YogaTrail. The names and email addresses of people you invite will be used to send your invitations and reminders. Please note that when you send an invitation to connect to another User, that User will have access to your email address because it will be displayed in the invitation.
 
-You should be aware that when you contribute any Content to YogaTrail, you may be identifiable by other Users of our Website. Any personally identifiable information you choose to provide there can be seen, collected, or used by other Users, as well as Developers and other third parties. YogaTrail is not responsible for the information you choose to submit when participating in any area of the Website. Also, some content on YogaTrail may be public and searchable on the Internet. If you would like us to remove one of your reviews, please [contacting us](http://www.yogatrail.com/contact-us-form) and we will remove your review. However, please note that ideas you post and information you share may be seen and used by other Users, and we cannot guarantee that other Users have not made copies of or use the ideas and information that you share with others on YogaTrail.
+You should be aware that when you contribute any Content to YogaTrail, you may be identifiable by other Users of our Website. Any personally identifiable information you choose to provide there can be seen, collected, or used by other Users, as well as Developers and other third parties. YogaTrail is not responsible for the information you choose to submit when participating in any area of the Website. Also, some content on YogaTrail may be public and searchable on the Internet. If you would like us to remove one of your reviews, please [contact us](http://www.yogatrail.com/contact-us-form) and we will remove your review. However, please note that ideas you post and information you share may be seen and used by other Users, and we cannot guarantee that other Users have not made copies of or use the ideas and information that you share with others on YogaTrail.
 
 Other than as set out above, you will be notified when personal information about you will be shared with third parties, and you will have an opportunity to choose not to allow us to share such information. 
 
@@ -169,6 +169,6 @@ Germany
 
 YogaTrail is: Jens Brater, Sven Ernst, Sven Peter Gradwohl, Maria Alexandra Jaton, Alexander Jörgen Klein, Marcus Andreas Renz.
 
-©2013 YogaTrail. All rights reserved.
+©2014 YogaTrail. All rights reserved.
 
-Last updated: January 31, 2013
+Last updated: March 27, 2014
