@@ -1,17 +1,15 @@
-> *The following text is extracted and transformed from the rightbackup.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226014042id_/http%3A//rightbackup.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rightbackup.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629172900id_/http%3A//www.rightbackup.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Right Backup
 
-| 
-
+---  
+  
 Privacy Policy
 
 Rightbackup.com is strongly committed to protect your privacy and provide a safe online experience for all of our users and registered customers while offering the highest quality products and services to them. We may gather certain types of information about and from you to fulfill your request and serve your needs better, we feel you should fully understand the terms and conditions covering the collection and use of this information. This privacy statement discloses what information we may gather, how we may use it and how to correct or change it.
 
-Please read the "Privacy Policy" completely, as well as our 'Terms and Conditions' for use of information we may gather. Should you have any questions in this regard, feel free to contact us.  
-  
----  
-  
+Please read the "Privacy Policy" completely, as well as our 'Terms and Conditions' for use of information we may gather. Should you have any questions in this regard, feel free to contact us.
+
 What Information we may collect about you?
 
 You can visit our website, read products description and other materials, and check on offerings without giving us any personally identifiable information. Since we provide our customers and newsletter subscribers with the most efficient and enhanced personalized service; we may request information about you under occasional circumstances. For your convenience and to serve you better, a customer account includes all the collected personal information we may have, however, you can update or correct your contact information or change your preferences about receiving newsletter and other information from us.
@@ -38,7 +36,7 @@ We may share your personal information with the parties described below:
 
 
 
-As in any transaction, your credit card company will have all relevant information about the name of the affiliate, products purchased, date and total cost. TuneupMyMac.com will not otherwise provide any personal data to your credit card company.
+As in any transaction, your credit card company will have all relevant information about the name of the affiliate, products purchased, date and total cost. RightBackup.com will not otherwise provide any personal data to your credit card company.
 
   * Payment Gateways:
 
