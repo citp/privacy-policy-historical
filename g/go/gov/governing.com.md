@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the governing.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109093115id_/http%3A//www.governing.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the governing.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629115023id_/http%3A//forms.erepublic.com/content/privacy) for the most accurate reproduction.*
 
 # Privacy Policy for e.Republic, Inc.
 
