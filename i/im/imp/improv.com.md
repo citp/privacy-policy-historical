@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the improv.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228061610id_/http%3A//improv.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the improv.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629062514id_/http%3A//improv.com/privacy.cfm) for the most accurate reproduction.*
 
 # Improv Comedy Clubs :: Privacy Policy
-
-#### Privacy Policy
 
 Effective Date of Current Policy: November 1, 2009 
 
@@ -81,13 +79,13 @@ In addition, we may share your personal information with:
 
 **Venues.** We sell tickets on behalf of others; we don‘t organize, produce or otherwise bring you Events. The venues, promoters, artists‘ representatives and fan clubs, troupes, performers, ensembles, and others who are involved in or bring you Events are known as "Event Providers." When you buy tickets, you consent to allow us to provide your personal information to the Event Providers and their contractors. We share this information so Event Providers can contact you about the Event or other Events you may be interested in.
 
-**Direct mail partners.** From time to time we may share our postal mailing list with selected providers of goods, products, and services that may be of interest to you. If you prefer not to receive mailings from these providers, you can notify us at any time by emailing us at customerservice@ticketmob.com.
+**Direct mail partners.** From time to time we may share our postal mailing list with selected providers of goods, products, and services that may be of interest to you. If you prefer not to receive mailings from these providers, you can notify us at any time by emailing us at ticketbuyersupport@crowdtorch.com.
 
 **Other Situations**. LaughStub may also access and disclose your personal information as needed to: (1) comply with applicable laws; (2) respond to governmental inquiries or requests; (3) comply with valid legal process; (4) protect the rights, privacy, safety or property of LaughStub, LaughStub‘s Website visitors or the public; (5) permit us to pursue available remedies or limit the damages that we may sustain; and (6) enforce our Terms of Service or other published guidelines.
 
 LaughStub reserves the right to transfer any and all information that we collect from users of the Website to a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of LaughStub‘s business, assets or stock (including without limitation in connection with any bankruptcy or similar proceedings). However, the use of this information by any successor entity would still be governed by the terms of this Policy, as amended from time to time, including any amendment after such transaction, and you will continue to have the right to opt out of sharing your information with third parties.
 
-In certain circumstances under California law, customers are entitled to certain information regarding any personally identifiable information (as defined by certain California laws) we may share with direct marketing companies. Personally identifiable information generally is defined under California law as information that identifies specifics about an individual and can be used to identify, contact, or locate an individual including that individual's name, mailing address, telephone number, mobile phone number, email address and other identification and contact information. If you are an eligible customer and would like to receive a list detailing the types of personally identifiable information we share with direct marketing companies and the names and addresses of all direct marketing companies that we provide personally identifiable information to, please email us at customerservice@ticketmob.com. Your concern will be investigated and you will be notified as soon as possible of the outcome of the investigation and any action required as a result.
+In certain circumstances under California law, customers are entitled to certain information regarding any personally identifiable information (as defined by certain California laws) we may share with direct marketing companies. Personally identifiable information generally is defined under California law as information that identifies specifics about an individual and can be used to identify, contact, or locate an individual including that individual's name, mailing address, telephone number, mobile phone number, email address and other identification and contact information. If you are an eligible customer and would like to receive a list detailing the types of personally identifiable information we share with direct marketing companies and the names and addresses of all direct marketing companies that we provide personally identifiable information to, please email us at ticketbuyersupport@crowdtorch.com. Your concern will be investigated and you will be notified as soon as possible of the outcome of the investigation and any action required as a result.
 
 In addition, under California Civil Code Section 1789.3, California website users are entitled to the following specific consumer rights notice: The Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs may be contacted in writing at 1625 North Market Blvd., Sacramento, CA 95834, or by telephone at (916) 445-1254 or (800) 952-5210.
 
@@ -127,7 +125,7 @@ The Children's Online Privacy Protection Act took effect on April 21, 2000, and 
 
 ## CONTACTING LAUGHSTUB REGARDING THIS WEBSITE
 
-If you have any questions concerning this Policy, you may send them by email to customerservice@ticketmob.com. Please note that email communications will not necessarily be secure; accordingly you should not include credit card information or other sensitive information in your email correspondence with us. You must send any official correspondence via postal mail to: **LaughStub LLC, 2038 Armacost Avenue, Los Angeles, California 90025. Attention: General Counsel**
+If you have any questions concerning this Policy, you may send them by email to ticketbuyersupport@crowdtorch.com. Please note that email communications will not necessarily be secure; accordingly you should not include credit card information or other sensitive information in your email correspondence with us. You must send any official correspondence via postal mail to: **LaughStub LLC, 2038 Armacost Avenue, Los Angeles, California 90025. Attention: General Counsel**
 
 ## USE OF THIS WEBSITE OUTSIDE THE UNITED STATES
 
