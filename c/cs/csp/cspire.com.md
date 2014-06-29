@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cspire.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205045907id_/http%3A//www.cspire.com/legal/general_landing.jsp%3Fid%3D/generic/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cspire.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629155456id_/http%3A//www.cspire.com/legal/general_landing.jsp%3Fid%3D/generic/privacyPolicy) for the most accurate reproduction.*
 
 # None
 
