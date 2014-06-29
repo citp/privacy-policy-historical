@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usafis.org privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112031915id_/http%3A//www.usafis.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usafis.org privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629191554id_/http%3A//www.usafis.org/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | USAFIS - Green Card DV Lottery Program
 
