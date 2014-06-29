@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bollysite.com privacy policy that was archived on 2013-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130917104114id_/http%3A//bollysite.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bollysite.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629225226id_/http%3A//bollysite.com/privacy.html) for the most accurate reproduction.*
 
 # Bollysite privacy policy
 
