@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fantasyfootballscout.co.uk privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214161052id_/http%3A//www.fantasyfootballscout.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantasyfootballscout.co.uk privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629093502id_/http%3A//www.fantasyfootballscout.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy @ Fantasy Football Tips, News and Views from Fantasy Football Scout
 
@@ -24,7 +24,7 @@ Advertisers sometimes use their own cookies to provide you with targeted adverti
 
 Although cookies are used across almost every site on the internet, some users do not like the idea of this information being stored on their computer. Through your browser settings, it is possible to delete existing cookies and block them from being used in the future. However, this will mean you could lose some functionality on our site – such as the ability for us to remember if you’re logged in.
 
-This website – [www.aboutcookies.org](https://web.archive.org/web/20131214161052id_/http://www.fantasyfootballscout.co.uk/privacy-policy/www.aboutcookies.org) – will help you explore your options when it comes to removing and turning off cookies in your browser. We’ve listed links below to all the major browsers and mobile browsers offering instructions on how to change your settings.
+This website – [www.aboutcookies.org](https://web.archive.org/web/20140629093502id_/http://www.fantasyfootballscout.co.uk/privacy-policy/www.aboutcookies.org) – will help you explore your options when it comes to removing and turning off cookies in your browser. We’ve listed links below to all the major browsers and mobile browsers offering instructions on how to change your settings.
 
 **Browsers**  
 [Internet Explorer](http://support.microsoft.com/kb/196955)  
