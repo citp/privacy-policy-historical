@@ -1,11 +1,19 @@
-> *The following text is extracted and transformed from the citizenship.gov.au privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014144733id_/http%3A//www.immi.gov.au/functional/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citizenship.gov.au privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629172719id_/http%3A//www.immi.gov.au/functional/privacy.htm) for the most accurate reproduction.*
 
 # Privacy
+
+On this page
+
+  * Privacy statement 
+  * Security of information
+  * Site visit data
+  * Cookies
+  * Further information 
 
   
 
 
-## Privacy statement
+##  Privacy statement
 
 The _Privacy Act 1988_ defines personal information as 'information or an opinion (including information or an opinion forming part of a database), whether true or not, and whether recorded in a material form or not, about an individual whose identity is apparent, or can reasonably be ascertained, from the information or opinion'.
 
@@ -21,16 +29,16 @@ We do not collect personal information about you when you visit this site. You c
 
 Our website contains links to other sites. We are not responsible for the content and the privacy practices of other websites and we encourage you to read each site's privacy policy.
 
-## Security of information
+##  Security of information
 
 The _Privacy Act 1988_ has specific provisions that prohibit any officer of this department (or any other government department) from collecting, using or disclosing anyone's personal information except in performing their duties and in specific situations permitted by law. 
 
 Your personal information will not be disclosed unless the law permits it or your permission is given.
 
 While we provide a secure environment, you should be aware there are inherent risks associated with the transmission of information via the Internet.  
-**See:** [Online Security](https://web.archive.org/e_visa/online-security.htm)
+ **See:** [Online Security](https://web.archive.org/e_visa/online-security.htm)
 
-## Site visit data
+##  Site visit data
 
 We operate this web site with outsourced technical assistance. 
 
@@ -42,7 +50,7 @@ The information we log when you access this web site includes:
   * the date and time of your visit to the site
   * the pages accessed
   * your operating system  
-**Example:** Windows 8, Mac OS X etc.
+ **Example:** Windows 8, Mac OS X etc.
   * your web browser version and type   
 **Example:** Mozilla Firefox, Internet Explorer, Google Chrome etc.
   * the time taken to transmit information to you
@@ -54,7 +62,7 @@ This information is analysed to show broken links in our website, bottlenecks, a
 
 No attempt is made to identify you through your browsing activities except in the event of an investigation into the improper use of our internet facility, or where a law enforcement agency exercises a warrant to inspect the Internet Service Provider's logs.
 
-## Cookies
+##  Cookies
 
 We use ‘cookies’ for maintaining contact with a user through a website session. A cookie is a small file supplied by us, and stored by the web browser software on your computer when you access our site. (An explanation of what cookies are and how they work can be found at the site of the [Privacy Commissioner](http://www.privacy.gov.au/internet/internet_privacy/#2.1). Cookies allow us to recognise you as an individual web user, as you browse our website.
 
@@ -70,12 +78,12 @@ These exist for a defined period of time (usually beyond the termination of the 
 
 No personally identifiable information is stored within cookies used by this website. No attempt will be made to identify anonymous users or their browsing activities unless legally compelled to do so, such as in the event of an investigation, where a law enforcement agency may exercise a warrant to inspect the Internet Service Provider's log files.
 
-## Further information
+##  Further information
 
 You can find more information from the Privacy Commissioner's website.  
-**See:** [Privacy Commissioner](http://www.privacy.gov.au/)
+ **See:** [Privacy Commissioner](http://www.privacy.gov.au/)
 
-If at any time you believe we have not adhered to the principles referred to in this privacy statement or have any other comments on these principles, please contact the DIAC Privacy Officer via the online form.  
-**See:** [DIAC Privacy Officer Enquiry Form](https://web.archive.org/contacts/forms/email/eform-privacy-contact.htm?65)
+If at any time you believe we have not adhered to the principles referred to in this privacy statement or have any other comments on these principles, please contact the Privacy Officer through the online form.  
+ **See:** [Privacy Officer Enquiry Form](https://web.archive.org/contacts/forms/email/eform-privacy-contact.htm?65)
 
 Please note the Privacy Officer will only respond to queries on privacy matters. Enquiries about other matters will not be answered.
