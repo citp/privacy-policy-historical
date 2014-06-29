@@ -1,14 +1,8 @@
-> *The following text is extracted and transformed from the celebritycruises.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203114027id_/http%3A//www.celebritycruises.com/footer/legalInformation.do%3Fpagename%3Dfooter_pages_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebritycruises.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629194122id_/http%3A//www.celebritycruises.com/legal-information/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Pages | Celebrity Cruises
 
-  * [Login](https://secure.celebritycruises.com/mycelebrity/login.do?cS=GlobalHeader)
-  * [ My Celebrity ](http://www.celebritycruises.com/mycelebrity/home.do)
-  * [ FAQ ](http://www.celebritycruises.com/footer/faq.do?pagename=footer_pages_faq)
-  * [Sign Up for Special Offers](http://www.celebritycruises.com/specials/promotions.do?pagename=limited_time_offers_gateway&tab=signupemail&cS=GlobalHeader)
-  * [ Specials ](http://www.celebritycruises.com/specials/promotions.do?pagename=limited_time_offers_gateway)
-
-
+[Celebrity Cruises](http://www.celebritycruises.com/home)
 
 ## Privacy Policy
 
@@ -46,7 +40,7 @@ For marketing and promotional purposes, including to provide you with informatio
 
 ### How do I tell Celebrity Cruises that I don't want to be contacted or change my personally identifiable information?
 
-Our Web sites sometimes provide you the opportunity to opt-in to receive communications from us at the point where we request information from you. You always have the option of removing your name from our e-mail mailing list(s) so that you will not receive further e-mail promotional communications from us. In order to ensure immediate removal from any list, it is best to follow the specific instructions outlined within the communications you receive from us since we operate numerous sites and e-mail lists. If you are unable to complete the process indicated in such communications, [e-mail](http://www.celebritycruises.com/footer/contactUsEmailForm.do "Contact Us").
+Our Web sites sometimes provide you the opportunity to opt-in to receive communications from us at the point where we request information from you. You always have the option of removing your name from our e-mail mailing list(s) so that you will not receive further e-mail promotional communications from us. In order to ensure immediate removal from any list, it is best to follow the specific instructions outlined within the communications you receive from us since we operate numerous sites and e-mail lists. If you are unable to complete the process indicated in such communications, [e-mail](http://www.celebritycruises.com/footer/contactUsEmailForm "Contact Us").
 
 ### Links and Third Parties
 
