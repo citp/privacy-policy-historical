@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unicef.org.uk privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230105324id_/http%3A//www.unicef.org.uk/Privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unicef.org.uk privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629060836id_/http%3A//www.unicef.org.uk/Privacy-statement) for the most accurate reproduction.*
 
 # Cookies and privacy | UNICEF UK
 
@@ -62,6 +62,8 @@ We will use the information you provide to us to, for example:-
 
 
 We may use other companies to provide services on our behalf, including packaging, mailing and delivering purchases, answering customers’ questions about products or services, sending postal mail and emails, analysing data and processing credit card payments. We will only provide those companies with the information they need to deliver the service. We may disclose aggregate statistics about our site visitors, customers and sales in order to describe our services to prospective partners, advertisers and other reputable third parties and for other lawful purposes, but these statistics will include no personally identifying information.
+
+One particular service we use is the Google Analytics Demographics and Interest Reporting. You can [opt out and configure how your information is used here](http://www.google.com/settings/ads). If you would like to opt out of all Google Analytics tracking services then you can find out about a [browser plugin here](https://tools.google.com/dlpage/gaoptout/). 
 
 We may disclose personal information if required to do so by law or if we believe that such action is necessary to protect and defend the rights, property or personal safety of UNICEF UK, our websites or our visitors and for other lawful purposes.
 
