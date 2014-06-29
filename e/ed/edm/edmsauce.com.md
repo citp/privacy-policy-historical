@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edmsauce.com privacy policy that was archived on 2013-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131019102215id_/http%3A//www.edmsauce.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edmsauce.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629180924id_/http%3A//www.edmsauce.com/privacy-policy) for the most accurate reproduction.*
 
 # EDM Sauce Privacy Policy and Disclaimers
 
@@ -65,6 +65,16 @@ EDM Sauce has the discretion to update this privacy policy at any time. When we 
 
 By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
+  * The Google Analytics features EDM Sauce implemented based on Display Advertising (e.g., Remarketing, Google Display Network Impression Reporting, the DoubleClick Campaign Manager integration, or Google Analytics Demographics and Interest Reporting).
+  * Using the [Ads Settings](https://www.google.com/settings/ads), visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads.
+  * EDM Sauce uses Remarketing with Google Analytics to advertise online.
+  * Third-party vendors, including Google, may show your ads on sites across the Internet.
+  * EDM Sauce and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on someone’s past visits to your website.
+  * EDM Sauce and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) together to report how your ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to your site.
+  * EDM Sauce uses data from Google’s Interest-based advertising or 3rd-party audience data (such as age, gender, and interests) with Google Analytics.
+
+
+
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
@@ -73,4 +83,4 @@ If you have any questions about this Privacy Policy, the practices of this site,
 EDM Sauce  
 info@edmsauce.com
 
-This document was last updated on October 30, 2012
+This document was last updated on November 22nd, 2013
