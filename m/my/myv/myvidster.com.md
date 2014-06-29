@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myvidster.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229101645id_/http%3A//www.myvidster.com/docs/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myvidster.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630005237id_/http%3A//www.myvidster.com/docs/privacy) for the most accurate reproduction.*
 
 # myVidster - Privacy Policy
 
