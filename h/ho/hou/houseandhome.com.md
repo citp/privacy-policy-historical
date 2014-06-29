@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the houseandhome.com privacy policy that was archived on 2013-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130925165507id_/http%3A//houseandhome.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the houseandhome.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629095458id_/http%3A//houseandhome.com/privacy) for the most accurate reproduction.*
 
 # Consumer Privacy Statement | House & Home
 
@@ -35,6 +35,10 @@ Our Website uses a technology called "cookies”. A cookie is a tiny element of 
 ### Enter into a contest or sweepstakes or respond to one of our surveys
 
 When you ask a question, participate in a survey or enter a contest or sweepstakes, we may collect your name, address, phone number and e-mail address. We use this information to administer your participation in the contest or sweepstakes. At the time you are entering a contest or sweepstakes, or completing a survey, we may also obtain your consent for the HHM magazine and/or our marketing partners to send you marketing information in the future.
+
+### eNewsletters
+
+You can unsubscribe from the H&H eNewsletter list at any time by clicking the unsubscribe link provided in each of our eNewsletters, by e-mailing us at [privacy@hhmedia.com](mailto:privacy@hhmedia.com), or by sending us mail to House & Home Media, 511 King Street West, Suite 120, Toronto, ON, M5V 2Z4.
 
 ### Provide us with feedback or suggestions
 
@@ -89,4 +93,4 @@ We want to assure you that HHM is dedicated to protecting your privacy. Please f
 
 
 
-You can contact us by calling 905-946-1021 or toll-free at 1-800-559-8868, faxing us at 416-591-1630, e-mailing us at [privacy@hhmedia.com](mailto:privacy@hhmedia.com), accessing the “Contact Us” section on our Website, or writing us at House & Home Media – Privacy Department, PO Box 727 Station Main, Markham, Ontario, L3P 9Z9.
+You can contact us by calling 905-946-1021 or toll-free at 1-800-559-8868, faxing us at 416-591-1630, e-mailing us at [privacy@hhmedia.com](mailto:privacy@hhmedia.com), accessing the “Contact Us” section on our Website, or writing us at House & Home Media – Privacy Department, PO Box 727, Markham, Ontario, L3P 7Y1.
