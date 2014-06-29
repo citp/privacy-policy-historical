@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jagranjosh.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202082104id_/http%3A//www.jagranjosh.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jagranjosh.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630000736id_/http%3A//www.jagranjosh.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - MMI Online Ltd
 
