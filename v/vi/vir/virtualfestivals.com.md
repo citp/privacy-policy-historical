@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the virtualfestivals.com privacy policy that was archived on 2013-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131117164004id_/http%3A//www.virtualfestivals.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtualfestivals.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629224820id_/http%3A//www.virtualfestivals.com/info/privacy) for the most accurate reproduction.*
 
-# Privacy Statement - - Privacy Policy
+# Privacy Statement
 
 ### We will not collect any personal or business information, nor store or share that information with any third party without your express permission. 
 
@@ -84,5 +84,3 @@ It is possible that Virtual-Festivals.com Ltd. could merge or be acquired by a
 We caution you against giving out personally identifiable information (such as social security numbers, credit card numbers, names and addresses, driver license numbers, passwords) to strangers online, which may be used for illegal or harmful purposes.
 
 Some personal information you provide to Virtual Festivals may be stored outside of the country in which you reside.
-
-* * *
