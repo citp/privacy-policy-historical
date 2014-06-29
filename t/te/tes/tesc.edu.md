@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tesc.edu privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209124857id_/http%3A//www.tesc.edu/about/Privacy-Policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tesc.edu privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629054817id_/http%3A//www.tesc.edu/about/Privacy-Policy.cfm) for the most accurate reproduction.*
 
 # Thomas Edison State College: Privacy Policy
 
@@ -10,17 +10,17 @@ Trenton, NJ 08608-1176
 
 We may be reached via email at [info@tesc.edu](mailto:info@tesc.edu) or you may reach us by telephone at (888) 442-8372
 
-For each visitor to our Web page, we only collect only the domain name, but not the e-mail address of visitors to our Web page, and aggregate information on what pages visitors access or visit.
+For each visitor to our Web page, we only collect only the domain name, but not the email address of visitors to our Web page, and aggregate information on what pages visitors access or visit.
 
 The information we collect is not shared with other organizations for commercial purposes.
 
 With respect to cookies: We use cookies to store visitor's preferences, record session information, such as information requests, online course registrations, tuition payments and other student services.
 
-If you are a prospective student and supply us with your postal address online you may receive periodic mailings from us with information on the College's programs and course delivery methods. If you do not wish to receive such mailings, please let us know by calling us at the number provided above, e-mailing us at the above address, or writing to us at the above address.
+If you are a prospective student and supply us with your postal address online you may receive periodic mailings from us with information on the College's programs and course delivery methods. If you do not wish to receive such mailings, please let us know by calling us at the number provided above, emailing us at the above address, or writing to us at the above address.
 
-Prospective students who supply us with their telephone numbers online may receive telephone contact from us with information regarding the College's programs and course delivery methods. If you do not wish to receive such telephone calls, please let us know by sending us an e-mail at the above address, calling us at the above telephone number, or writing to us at the above address.
+Prospective students who supply us with their telephone numbers online may receive telephone contact from us with information regarding the College's programs and course delivery methods. If you do not wish to receive such telephone calls, please let us know by sending us an email at the above address, calling us at the above telephone number, or writing to us at the above address.
 
-Prospective students who supply us with their e-mail addresses online may receive e-mail contact from us with information regarding the College's programs and course delivery methods. If you do not wish to receive such e-mail, please let us know by sending us an e-mail at the above address, calling us at the above telephone number, or writing to us at the above address.
+Prospective students who supply us with their email addresses online may receive email contact from us with information regarding the College's programs and course delivery methods. If you do not wish to receive such email, please let us know by sending us an email at the above address, calling us at the above telephone number, or writing to us at the above address.
 
 Thomas Edison State College does not partner with or have special relationships with any ad server companies.
 
