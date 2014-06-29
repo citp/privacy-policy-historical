@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wshome.com privacy policy that was archived on 2013-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131017120103id_/http%3A//www.williams-sonoma.com/customer-service/legal-statement.html%3Fcm_type%3Dfnav) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wshome.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629183104id_/http%3A//www.williams-sonoma.com/customer-service/legal-statement.html) for the most accurate reproduction.*
 
 # Legal Statement | Williams-Sonoma
 
@@ -87,7 +87,7 @@ To serve you better, we may combine information you give us online, in our store
 
 We may contract with companies or persons to provide certain services including credit card processing, shipping, data management, promotional services, etc. We call them our Service Providers. We provide our Service Providers with the information needed for them to perform these services. We also ask our Service Providers to confirm that their privacy practices are consistent with ours.
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web sites. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other web sites in order to provide advertisements about goods and services likely to be of interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/>.
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web sites. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other web sites in order to provide advertisements about goods and services likely to be of interest to you. These companies typically use a cookie or third party web beacon to collect this information. Our systems do not recognize "Do Not Track" signals, but several of these third party companies who utilize these cookies or beacons on our web sites enable you to opt out of this behavioral advertising. To learn more or opt out from these companies you can visit <http://www.networkadvertising.org/>. We also provide you with additional tools to opt out of marketing from us or certain transfers of your information. You can learn about this in the "Opting Out of Marketing and Transfers" section of this Privacy Policy.
 
 We may share contact information and other data with businesses controlling, controlled by, or under common control with any Williams-Sonoma, Inc. Brands.
 
@@ -158,11 +158,11 @@ If we decide to change our privacy policy in whole or in part, we will inform yo
 
 To help us improve our privacy policy and practice, please give us your feedback. In the U.S., you can call us at 800.541.1262 or send us an [email](http://www.williams-sonoma.com/customer-service/email-us/?cm_type=fnav "email"). Outside of the U.S., you can call us at 405.717.6139 or send us an [email](http://www.williams-sonoma.com/customer-service/email-us/?cm_type=fnav "email").
 
-Effective Date: August 15, 2013
+Effective Date: January 1, 2014
 
 Back to Top
 
-[Copyright 2013 Williams-Sonoma, Inc.](http://www.williams-sonomainc.com/ "Copyright 2013 Williams-Sonoma") All Rights Reserved.
+[Copyright 2014 Williams-Sonoma, Inc.](http://www.williams-sonomainc.com/ "Copyright 2014 Williams-Sonoma") All Rights Reserved.
 
 Williams-Sonoma© is a registered trademark of Williams-Sonoma, Inc.
 
