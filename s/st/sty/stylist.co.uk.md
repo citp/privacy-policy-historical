@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stylist.co.uk privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222151305id_/http%3A//stylist.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stylist.co.uk privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629065049id_/http%3A//www.stylist.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy - Stylist Magazine
 
