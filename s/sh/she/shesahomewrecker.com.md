@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shesahomewrecker.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225154047id_/http%3A//shesahomewrecker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shesahomewrecker.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629122501id_/http%3A//shesahomewrecker.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | She's A Homewrecker
+# Privacy Policy |
 
 Exposed by Ariella LLC is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
@@ -76,5 +76,3 @@ We welcome any queries, comments or requests you may have regarding this Privacy
 **Your Consent**
 
 By using this site, you consent to the collection and use of information as outlined in the above documentation. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. 
-
-Filed under: 
