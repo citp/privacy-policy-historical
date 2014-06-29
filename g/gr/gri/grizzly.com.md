@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grizzly.com privacy policy that was archived on 2011-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110113090717id_/http%3A//www.grizzly.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grizzly.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629020531id_/http%3A//www.grizzly.com/privacy) for the most accurate reproduction.*
 
 # Grizzly.com® -- Customer Privacy Policy
 
