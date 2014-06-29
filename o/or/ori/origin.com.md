@@ -1,39 +1,37 @@
-> *The following text is extracted and transformed from the origin.com privacy policy that was archived on 2012-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121221233345id_/http%3A//tos.ea.com/legalapp/WEBPRIVACY/US/en/PC) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the origin.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629063336id_/https%3A//www.origin.com/en-us/privacypolicy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy | Origin - Origin.com
 
-ELECTRONIC ARTS PRIVACY POLICY
+ELECTRONIC ARTS PRIVACY AND COOKIE POLICY
 
-Effective Date: September 4, 2012
+Effective Date: June 28, 2013
 
 [](http://privacy.truste.com/privacy-seal/Electronic-Arts/validation?rid=1cc8e153-d5a9-45d1-b59d-5fe13b8709c5 "TRUSTe European SafeHarbor certification")
 
-  
 By registering for an Origin Account (formerly known as an EA Account) ( ** _"Account"_** ), using this site and/or any of EA's online or mobile products and services, you agree to EA's Privacy Policy and that we may transfer and store your information in the USA. By registering, you agree that EA may process your data in accordance with the following privacy policy and that you will abide by EA's Terms of Service.
 
 IF YOU DO NOT AGREE TO THIS POLICY, PLEASE DO NOT USE ANY EA SITE, ONLINE OR MOBILE PRODUCT OR SERVICE. If we change our privacy policy, we will post those changes to this privacy statement, the home page or other places so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material or significant changes to this policy or the way we use your child's information, we will notify you or the parent/guardian here, by email, or by means of a notice on our home page prior to the changes taking effect. Your continued use of our online and mobile products and services will signify your acceptance of the changes to our online Privacy Policy.
 
- **TABLE OF CONTENTS**
+ **TABLE OF CONTENTS
 
-**I.   ** | **EA Online And Mobile Privacy Policy: Introduction**  
----|---  
-**II.   ** | **EA's Site Is TRUSTe Certified**  
-**III.   ** | **What Is Personal Information And When Does EA Collect It?**  
-**IV.   ** | **What Is Non-Personal Information And When Does EA Collect It?**  
-**V.   ** | **Information Provided to EA By Third Parties.**  
-**VI.   ** | **What Happens To The Information EA Collects?**  
-**VII.   ** | **Where Is The Information Held?**  
-**VIII.   ** | **How Does EA Protect Your Personal Information?**  
-**IX.   ** | **Review, Correction of Your Information, Requesting Removal From Mailing Lists And Deactivating Your Account**  
-**X.   ** | **A Special Note About Children.**  
-**XI.   ** | **Public Information Including User Generated Content, Online Forums, Blogs And Profiles**  
-**XII.   ** | **Third Party Sites**  
-**XIII.   ** | **Products Offered In Partnership With Third Party(s)**  
-**XIV.   ** | **Contact Information**  
-**XV.   ** | **California Residents: Your California Privacy Rights**  
-**XVI.   ** | **Dispute Resolution By Binding Arbitration**  
-  
-I.    EA Online And Mobile Privacy Policy: Introduction
+I. EA Online And Mobile Privacy Policy: Introduction  
+II. EA's Site Is TRUSTe Certified  
+III. What Is Personal Information And When Does EA Collect It?  
+IV. What Is Non-Personal Information And When Does EA Collect It?  
+V. Information Provided to EA By Third Parties.  
+VI. What Happens To The Information EA Collects?  
+VII. Where Is The Information Held?  
+VIII. How Does EA Protect Your Personal Information?  
+IX. Review, Correction of Your Information, Requesting Removal From Mailing Lists And Deactivating Your Account  
+X. A Special Note About Children  
+XI. Public Information Including User Generated Content, Online Forums, Blogs And Profiles  
+XII. Third Party Sites  
+XIII. Products Offered In Partnership With Third Party(s)  
+XIV. Contact Information & Complaints Process  
+XV. California Residents: Your California Privacy Rights  
+XVI. Dispute Resolution By Binding Arbitration
+
+**I.    EA Online And Mobile Privacy Policy: Introduction
 
 EA and its subsidiary companies know that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. We respect the privacy rights of consumers and recognize the importance of protecting the information collected about you. We have adopted this global online Privacy Policy to explain how we store and use personal and non-personal information we collect online on our websites, during your use of our online products and/or services (including online game play) and on mobile platforms. This policy does not cover information provided online in response to job postings. Please review the EA Jobs Data Privacy Statement on EA's jobs site at www.jobs.ea.com for further information. 
 
@@ -139,15 +137,15 @@ EA also obtains personal and non-personal information from third parties as disc
 
 If you sign up to play EA games through a PlayStation®3 computer entertainment system, your Sony Entertainment Network account information will be provided to EA so that we can establish an Origin Account for you. You need an Origin Account to play EA's titles online. By signing up to play EA's titles, you agree that limited user account information can be transferred to EA. Information transferred to EA includes your name, email address, online ID, country, language and date of birth but does not include credit card number or other financial account information.
 
- **2\. Xbox LIVE**
+ **2\. Xbox Live**
 
-If you sign up to play EA games through Microsoft's Xbox LIVE Service, Microsoft will provide your Xbox LIVE user account information to EA so that we can establish an Origin Account for you. You need an Origin Account to play EA's Xbox LIVE titles. By signing up to play EA's Xbox LIVE titles, you agree that Microsoft can transfer your user account information to EA. Information transferred from Microsoft to EA includes your Gamertag, email address, state or province, country, language and age but does not include credit card number or other financial account information.
+If you sign up to play EA games through Microsoft's Xbox Live Service, Microsoft will provide your Xbox Live user account information to EA so that we can establish an Origin Account for you. You need an Origin Account to play EA's Xbox Live titles. By signing up to play EA's Xbox Live titles, you agree that Microsoft can transfer your user account information to EA. Information transferred from Microsoft to EA includes your Gamertag, email address, state or province, country, language and age but does not include credit card number or other financial account information.
 
  **3\. Wii U**
 
 If you sign up to play EA games through a Nintendo Wii U console, your Nintendo account information will be provided to EA so that we can establish an Origin Account for you. You need an Origin Account to play EA’s titles online. By signing up to play EA’s titles, you agree that limited user account information can be transferred to EA. Information transferred to EA includes your Mii information, email address, Nintendo Network ID, friend list, country, language and date of birth but does not include credit card number or other financial account information.
 
-**4\. Other Information Collected From Third Parties**
+ **4\. Other Information Collected From Third Parties**
 
 EA may also receive other information from third parties, including in connection with the operation and distribution of our products and services as well as market and demographic studies that we use to supplement personal and anonymous information collected or provided directly by you. Some third party services such as Twitter and Facebook may also provide us with information from your accounts there with your permission.
 
@@ -203,9 +201,9 @@ If you've granted EA access to your Facebook account information through an EA o
 
 X.    A Special Note About Children
 
-Many EA online or mobile products and services are intended for general audiences and do not knowingly collect any personal information from children. When an EA online or mobile product or service does collect age information, and users identify themselves as under 13, the product or service will either block such users from providing personal information, or will ensure consent is obtained from parents for the collection, use and sharing of their children's personal information. We will not knowingly ask children under the age of 13 to provide more information than is reasonably necessary to provide our services.
+Many EA online or mobile products and services are intended for general audiences and do not knowingly collect any personal information from children. When an EA online or mobile product or service does request age information, and users identify themselves as under 13, the product or service will either block such users from providing personal information, or we will ensure consent is obtained from parents for the collection, use and sharing of their children's personal information. At that time, we will provide a description of the information that the child may make publically available, how we will use the information and other practices. We will not knowingly ask children under the age of 13 to provide more information than is reasonably necessary to provide our services.
 
-Please note that if you grant consent for your child to use EA's online or mobile products and services, this will include such general audience communication services as email, instant messaging, and online groups, and your child will be able to communicate with, and disclose personal information to, other users of all ages. Parents can change or revoke the consent choices previously made, and review, edit or request the deletion of their children's personal information by sending an email to the appropriate Privacy Policy Administrator at [privacyadmin.ea.com](http://privacyadmin.ea.com/).
+Please note that if you grant consent for your child to use EA's online or mobile products and services, this may include such general audience communication services as email, instant messaging, and online groups, and your child will be able to communicate with, and disclose personal information to, other users of all ages. Parents can review, edit, request the deletion, or prevent further collection or use of their children's personal information or make inquiries regarding this policy by sending an email to [privacy_policy@ea.com](mailto:privacy_policy@ea.com); writing to Privacy Policy Administrator, 209 Redwood Shores Parkway, Redwood City, CA 94065; or calling (650) 628-1393.  Alternatively, you may also contact the appropriate Privacy Policy Administrator for your country listed at [privacyadmin.ea.com](http://privacyadmin.ea.com/).
 
 If we change this privacy statement in a way that expands the collection, use or disclosure of children's personal information to which a parent has previously consented, the parent will be notified and we will be required to obtain the parent's additional consent.
 
@@ -233,7 +231,7 @@ XIII.    Products Offered In Partnership With Third Party(s)
 
 Members may register for other services from our site(s). Certain products and/or services available on our site are provided to you in partnership with third party(s) and may require you to disclose personally identifiable information in order to register for and access such products and/or services. Such products and/or services shall identify the third party partners at the point of registration. If you elect to register for such products and/or services your personally identifiable information will be transferred to such third party(s) and will be subject to the privacy policy and practices of such third party(s). We are not responsible for the privacy practices and policies of such third party(s) and, therefore, you should review the privacy practices and policies of such third party(s) prior to providing your personally identifiable information in connection with such products and/or services. 
 
-XIV.    Contact Information
+XIV.    Contact Information & Complaints Process
 
 If you have questions or concerns regarding this statement, you should first contact the EA Privacy Policy Administrator for the country in which you reside at the email address or postal address specified at [privacyadmin.ea.com](http://privacyadmin.ea.com/). If your country is not listed, please contact the United States' Privacy Policy Administrator or write to Privacy Policy Administrator, Electronic Arts Inc., 209 Redwood Shores Pkwy, Redwood City, CA 94065. If your inquiry is not satisfactorily addressed, you should contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request) or at https://feedback.truste.com as instructed above. TRUSTe will then serve as a liaison with us to resolve your concerns. Please note that the TRUSTe program only covers information that is collected through this Website, and does not cover information that may be collected through any software downloaded from this Website.
 
