@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the coull.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229185213id_/http%3A//coull.com/cookies-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coull.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629034951id_/http%3A//coull.com/cookies-privacy) for the most accurate reproduction.*
 
-# Cookies & Privacy | Coull
+# Coull | Privacy Policy
 
 ### A: GENERAL
 
@@ -10,7 +10,7 @@ Coull is committed to respecting your privacy. This policy explains how we colle
 
 Please read this policy carefully. We recommend that you print and retain a copy for your future reference.
 
-Coull may change this policy from time to time by updating the relevant page on the Website. You should check this page from time to time to ensure that you are happy with any changes. This policy was last updated on 14 October 2013.
+Coull may change this policy from time to time by updating the relevant page on the Website. You should check this page from time to time to ensure that you are happy with any changes. This policy was last updated on 14 January 2014.
 
 **Who we are**
 
@@ -168,13 +168,19 @@ We will not sell or share your information with a third party (other than any da
 
 Once you start using the Service on one of your websites, and you have embedded our code, a JavaScript file will be downloaded to the devices of visitors to your websites ( **Visitors** ) when they view the website. This JavaScript file will do the following:
 
+For YouTube videos:
+
 -          Change the domain name for each YouTube video from YouTube.com to Coull.com
+
+For videos of all other video players that we are currently integrated with:
+
+\-          There is no change in domain name for the video. Instead when the visitor plays a video it will request additional information from the Coull service.
 
 When a visitor plays a video that contains an advertiser’s link (a Vidlink) then cookies may be dropped.  Depending on the type of Vidlink, a cookie may be dropped when a video is played or when a Vidlink is clicked.  These cookies: 
 
 -          Collect and store information about the Vidlinks that users click on, and report on other outbound clicks for Publisher reports
 
--          Collect and store information about YouTube videos on Publisher Sites, so we can find a suitable product/Merchant link to add to that video
+-          Collect and store information about videos on Publisher Sites, so we can find a suitable product/Merchant link to add to that video
 
 -          Record anonymous information about the pages, links and Merchants visited by Users across our Publisher network. This will be used to optimise the service we provide, to deliver reporting and analytics to Publishers, and so that the links we create/monetise are to products and Merchants that Users prefer.
 
@@ -224,7 +230,7 @@ In addition, cookies may be dropped when a user visits a video which contains Co
 
 It is important that your website(s) make clear to Visitors that you are engaged in performance marketing through our Service. In order to promote transparent use of the Service, you therefore need to update your privacy policy(ies), 'About Us' or other relevant aspect or text of your website(s) to include an appropriate disclosure statement about your use of our Service. The standard minimum disclosure that we require is as follows, but in signing up to be a publisher you have also agreed that this may change and/or there may be other disclosure requirements.
 
-' _We use performance marketing services on this website which are provided by our partner Coull. Coull serves the marketing links that that you see displayed in the YouTube videos on this site. As part of these services, this site allows cookies and other technologies to be placed on your browser by Coull and its partners. To find out more about what cookies Coull and its partners use, what information they collect, how they use that information, what they do to protect that information, and your choices regarding the collection and use of that information (including opting out of this) please visit [insert link to 'Visitor' section below]_ '
+' _We use performance marketing services on this website which are provided by our partner Coull. Coull serves the marketing links that that you see displayed in the videos on this site. As part of these services, this site allows cookies and other technologies to be placed on your browser by Coull and its partners. To find out more about what cookies Coull and its partners use, what information they collect, how they use that information, what they do to protect that information, and your choices regarding the collection and use of that information (including opting out of this) please visit [insert link to 'Visitor' section below]_ '
 
 **Indemnity**
 
@@ -236,7 +242,7 @@ If you are a visitor to a publisher website that uses our Service ( **Visitor** 
 
 **What is the Service?**
 
-Our Service helps website publishers to earn commission revenue. The Service embeds links within the YouTube videos available on those publishers' websites. If you click on those links and subsequently visit a third party website, and/or then buy something from that website, we pay the publisher a commission for this. The Service in no way makes what you buy more expensive though.
+Our Service helps website publishers to earn commission revenue. The Service embeds links within the videos available on those publishers' websites. If you click on those links and subsequently visit a third party website, and/or then buy something from that website, we pay the publisher a commission for this. The Service in no way makes what you buy more expensive though.
 
 **What information do we collect about Visitors and what do we do with it?**
 
@@ -244,9 +250,9 @@ We do not intentionally capture personal information about you such as your name
 
 We do collect and store your IP address however, from which we can work out your approximate location.  Your IP address is a string of numbers unique to your device(s) that is recorded by our web server. We need these IP addresses to ensure the links we show you are relevant to where you live. We do not use IP addresses to specifically identify any individuals or identify exactly where you live however.
 
-We also store information about the device(s) Visitors use to access the internet, such as the browser type, browser version, and type of device used. This helps us ensure we can diagnose and fix browser compatibility issues more swiftly, and optimise the Service to suit preferred browsing environments.
+We also store information about the device(s) visitors use to access the internet, such as the browser type, browser version, and type of device used. This helps us ensure we can diagnose and fix browser compatibility issues more swiftly, and optimise the Service to suit preferred browsing environments.
 
-As part of the information available in standard web serving logs, we also store information about the website page (if any) from where a Visitor came to a publisher website.  We don't know who a Visitor is however or make any attempt to try and identify them. We also don't combine any information we store with outside sources to find out anything personal or identifiable about a Visitor. All we know is that these actions were done by an anonymous individual, and we use this to try and serve that individual relevant and useful links on that publisher website and other sites within our publisher network.
+As part of the information available in standard web serving logs, we also store information about the website page (if any) from where a visitor came to a publisher website.  We do not know who a visitor is however or make any attempt to try and identify them. We also do not combine any information we store with outside sources to find out anything personal or identifiable about a visitor. All we know is that these actions were done by an anonymous individual, and we use this to try and serve that individual relevant and useful links on that publisher website and other sites within our publisher network.
 
 We also track your browsing habits using cookies (see below for more information about this).
 
@@ -288,7 +294,7 @@ We use cookies to collect information we need to optimise the links provided as 
 
 _Contextual and behavioral advertising cookies_
 
-We aim to provide Visitors with relevant and useful links to products in which they are likely to be interested in. To try and achieve this we use cookies. Some of these cookies allow us to serve advertising links which are relevant to the context of the publisher website you are visiting. Other advertising cookies also track your browsing habits so that we can show you links which we hope are relevant to your interests. These advertising cookies use information about your web browsing activity to group you with other Visitors who have similar interests and show you links based upon those interests. For example, these cookies may remember that you viewed website pages relating to travel and that you viewed similar content on another website. Based on this, we can place cookies on your browser to enable us to show you links relating to travel whilst you are on a publisher website.
+We aim to provide visitors with relevant and useful links to products in which they are likely to be interested in. To try and achieve this we use cookies. Some of these cookies allow us to serve advertising links which are relevant to the context of the publisher website you are visiting. Other advertising cookies also track your browsing habits so that we can show you links which we hope are relevant to your interests. These advertising cookies use information about your web browsing activity to group you with other visitors who have similar interests and show you links based upon those interests. For example, these cookies may remember that you viewed website pages relating to travel and that you viewed similar content on another website. Based on this, we can place cookies on your browser to enable us to show you links relating to travel whilst you are on a publisher website.
 
 _Referral tracking_
 
