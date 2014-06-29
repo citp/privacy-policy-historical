@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the spanishdict.com privacy policy that was archived on 2013-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130517230241id_/http%3A//www.spanishdict.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spanishdict.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629231650id_/http%3A//www.spanishdict.com/company/privacy) for the most accurate reproduction.*
 
-# SpanishDict | Privacy
+# SpanishDict | Privacidad
 
-  * [Home](http://www.spanishdict.com/) >
-  * [Company](http://www.spanishdict.com/company) >
-  * Privacy Policy
+  * [Inicio](http://www.spanishdict.com/) >
+  * [Companía](http://www.spanishdict.com/company) >
+  * Política de privacidad
 
 
 
-Last Updated 5/1/2013
+Last Updated 10/24/2013
 
 SpanishDict is created by Curiosity Media, Inc. At Curiosity Media, Inc. ("The Company", "Company", "we", "us" or "our"), we know your privacy is important to you and we are fully committed to your privacy. 
 
@@ -31,6 +31,16 @@ Information Collected Automatically:
 We may receive and store certain types of information whenever you interact with our Site or services. The Company automatically receives and records information on our server logs from your browser including your IP address, Company cookie information, the page you requested, data submitted, and content accessed.
 
 Generally, our service automatically collects usage information, such as the numbers and frequency of visitors to our site and its components. When users are registered for the site, this information is connection to their account information. We use this information to understand how people interact with the Service and to improve it.
+
+Remarketing:
+
+We use Remarketing with Google Analytics to advertise online. We also use Google Display Network Impression Reporting, the DoubleClick Campaign Manager integration, and Google Analytics Demographics and Interest Reporting. Third-party vendors, including Google, show the Site’s ads on sites across the Internet.
+
+The Site and third-party vendors, including Google, use first and third party cookies together to inform, optimize, and serve ads based on your past visits to the Site. We also use these cookies to report how the Site’s ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to your visits to the Site.
+
+We use Google's Interest-based advertising and 3rd-party audience data (such as age, gender and interests) to get a better understanding of our audience with Google Analytics, which in turn helps us improve our products.
+
+You can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the [Ads Settings](https://www.google.com/settings/ads) or the Google Analytics opt-out browser add-on.
 
 What Are Cookies?
 
