@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onegreenplanet.org privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229234037id_/http%3A//www.onegreenplanet.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onegreenplanet.org privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629061835id_/http%3A//www.onegreenplanet.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | One Green Planet
 
@@ -20,9 +20,9 @@ _Log Files_
 
 As with most other websites, we collect and use the data contained in log files.  The information in the log files include  non-personally identifiable information that your browser automatically sends whenever you visit OneGreenPlanet.org, including your IP (internet protocol) address, your ISP, browser type, browser language, date and time of the request.
 
-_[Cookies](http://www.onegreenplanet.org/tag/vegan-cookie-recipes/) and web beacons_
+_Cookies and web beacons_
 
-[Cookies](http://www.onegreenplanet.org/tag/vegan-cookie-recipes/) are small text files that are stored within a browser. They are accessed and recorded by the web site visited and by the companies that show ads on that site to enable them to recognize the same browser or user. Web beacons are small electronic files that allow a web site to count users who have visited that page or to access certain [cookies](http://www.onegreenplanet.org/tag/vegan-cookie-recipes/).  The OneGreenPlanet.org site uses web beacons in order to analyze the performance and usefulness of our site.
+Cookies are small text files that are stored within a browser. They are accessed and recorded by the web site visited and by the companies that show ads on that site to enable them to recognize the same browser or user. Web beacons are small electronic files that allow a web site to count users who have visited that page or to access certain cookies.  The OneGreenPlanet.org site uses web beacons in order to analyze the performance and usefulness of our site.
 
 We may use services provided by third parties like [Google Analytics](http://www.google.com/analytics), [Quantcast](https://www.quantcast.com/) and [Chartbeat](https://chartbeat.com/) to track usage on our site. In addition, we have implemented social sharing buttons on OneGreenPlanet.org, so you can easily “Like” or share our content via, [Facebook](https://www.facebook.com/), [Twitter](https://twitter.com/), [Pinterest](http://www.pinterest.com/), [Linkedin](https://www.linkedin.com/), [StumbleUpon](http://www.stumbleupon.com/), [Google+](https://plus.google.com/), [Reddit](http://www.reddit.com/), etc. These third parties have their own privacy policies, which you can view through their respective websites. Some of these third parties store cookies in your browser.
 
