@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edsurge.com privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014223803id_/https%3A//www.edsurge.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edsurge.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629034244id_/https%3A//www.edsurge.com/privacy_policy) for the most accurate reproduction.*
 
 # EdSurge Privacy Policy
 
@@ -14,11 +14,11 @@ In order to provide and enhance our website and services, we may collect the fol
 
 When you allow others to view your profile, send messages, post messages, or otherwise share personal information with other users, we cannot control and are not responsible for the actions of other users in handling the information. Any improper collection or misuse of information is a violation of our Terms of Service and should be reported to privacy@edsurge.com 
 
-**Information on Usage** \- We track the usage of our website and our services on other websites to improve the services we offer to our users. For example, we collect user traffic patterns to help improve site flow and usability. We may use anonymous usage data to define various user types and customize the experience for those user types, including notifying them of particular features made just for them or requesting particular actions beneficial to the overall experience with our applications. 
+**Information on Usage** \- We track the usage of our website and our services on other websites to improve the services we offer to our users. For example, we collect user traffic patterns to help improve site flow and usability. We may use anonymous and demographic/audience internet usage data to define various user types and customize the experience for those user types, including notifying them of particular features made just for them or requesting particular actions beneficial to the overall experience with our applications.
 
 **Information from other sources** \- We may also collect information about you from other sources, such as from other users of our services (for example, messages sent to you by other users) in order to provide our services, more useful information, and a more personalized experience. 
 
-**Cookies** \- Our services are integrating with Facebook and Twitter, whom may send one or more cookies - a small file containing a string of characters - to your computer. Facebook and Twitter both use cookies to identify if a user is logged in, and to customize the user experience. 
+**Cookies** \- Our services are integrating with Facebook, Google, and Twitter, whom may send one or more cookies - a small file containing a string of characters - to your computer. These services use cookies to identify if a user is logged in, and to customize the user experience. We also use Google Analytics and related services such as DoubleClick to provide first-party cookies and third-party cookies together to report how your ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to your site.
 
 Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some services may not function properly if you have cookies disabled. 
 
@@ -92,3 +92,5 @@ Attention: Privacy Officer
 If you have a privacy concern regarding the use of data you have provided to EdSurge, or regarding this Privacy Policy generally, and you cannot satisfactorily resolve it through the use of EdSurge's website or EdSurge's services on other websites, please write to: privacy@edsurge.com. In the event that we are still unable to resolve your concerns, EdSurge is committed to cooperating to achieve a proper resolution of your privacy concerns. 
 
 Effective Date: May 15, 2011
+
+Last revised: Nov 11, 2013
