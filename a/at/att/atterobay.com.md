@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atterobay.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109181640id_/http%3A//www.atterobay.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atterobay.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630013432id_/http%3A//www.atterobay.com/privacy-policy) for the most accurate reproduction.*
 
 # Atterobay-Sell Used Mobile Phones| Recycle Mobile Phones In India
 
