@@ -1,44 +1,111 @@
-> *The following text is extracted and transformed from the foodfood.com privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129114218id_/http%3A//www.foodfood.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodfood.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629045521id_/http%3A//www.foodfood.com/privacy-policy) for the most accurate reproduction.*
 
 # FOOD FOOD – Privacy Policy
 
-## Privacy Policy
+### Privacy Policy
 
-**OUR PRIVACY POLICY**  
-We respect the privacy of those who visit our web site. In accordance with this, we have created this policy in order to demonstrate our privacy commitment to our users:
+PLEASE NOTE THAT OUR PRIVACY POLICY HAS CHANGED EFFECTIVE DECEMBER 1, 2013
 
-## **What this Privacy Policy Covers**
+Welcome to www.foodfood.com (“Website”). This Website is owned and operated by Turmeric Vision Private Limited having its registered office at 4th Floor ‘A’ Wing, C-10, Dalia Estate, Near Fun Republic, Off New Link Road, Andheri (W), Mumbai – 400 053 (“ **Turmeric Vision** ”, “ **us** ”, “ **we** ”, or “ **our** ”). 
 
-  * This Privacy Policy covers our treatment of personally identifiable information that we collect when you are on our site, and when you use our services. This policy also covers our treatment of any personally identifiable information that third parties share with us.
-  * This policy does not apply to the practices of organizations that we do not own or control or to people that we do not employ or manage.
+THIS “ **PRIVACY POLICY** ” APPLIES TO THE WEBSITE. PLEASE READ THIS PRIVACY POLICY CAREFULLY BEFORE USING THE WEBSITE, AS THIS PRIVACY POLICY EXPLAINS WHAT INFORMATION MAY BE COLLECTED ON THE WEBSITE, HOW WE USE THIS INFORMATION AND UNDER WHAT CIRCUMSTANCES WE MAY DISCLOSE THE INFORMATION TO THIRD PARTIES. THIS PRIVACY POLICY, TOGETHER WITH THE **TERMS OF USE** POSTED ON THE WEBSITE, SETS FORTH THE GENERAL RULES AND POLICIES GOVERNING YOUR USE OF THE WEBSITE. IF YOU DO NOT AGREE WITH ANY OF THIS PRIVACY POLICY, PLEASE DO NOT ACCESS AND/OR USE THE WEBSITE. BY ACCESSING AND/OR USING THE WEBSITE, YOU ARE AGREEING TO COMPLY WITH THIS PRIVACY POLICY. 
 
+**A. INFORMATION COLLECTED**
 
+The Website typically collects two (2) kinds of information about you, namely: (a) Personally Identifiable Information; and (b) Non-Personal Information.
 
-## **Information Collection and Use**
+1\. Personally Identifiable Information:
 
-  * We collect personally identifiable information when you register on our website, when you use our services, and when you visit our pages. We may also receive personally identifiable information from third parties.
-  * When you register with us, we ask for your name, email address, zip code, occupation, industry, and personal interests. Once you register with us and sign in to our services, you are not anonymous to us.
-  * We use this information for three general purposes: to customize the content you see, to fulfill your requests for certain services, and to contact you about services.
-  * We also automatically receive and record information on our server logs from your browser including your IP address, cookie information and the page you requested. This information is not linked to your account and will not be used to identify you.
+Our definition of personally identifiable information includes any information that may be used to specifically identify or contact you, such as your name, mail address, phone number, etc. As a general policy, we do not automatically collect your personally identifiable information when you visit the Website. In certain circumstances, we may request, allow or otherwise provide you an opportunity to submit your personally identifiable information in connection with a feature, program, promotion or some other aspect of the Website. For instance, you may:  (a) provide your name, mail/shipping address, e-mail address, and phone number when registering with the Website, using our online store or in connection with a contest entry; (b) provide certain demographic information about you (e.g., age, gender, purchase preference, usage frequency, etc.) when participating in a survey, poll or joining a club; or (c) post a product rating and recommendation on the Website. Whether or not you provide this information is your choice; however, in many instances this type of information is required to participate in the particular activity, realize a benefit we may offer or gain access to certain content on the Website.
 
+2\. Non-Personal Information:
 
+Our definition of non-personal information is any information that does not personally identify you. Such non-personal information (i) the number of visitors, (ii) total audience exposed to an ad campaign and the demographic composition of such audience, (iii) which pages or portions of the pages (such as web videos) are visited, (iv) the duration of the page/video views, (v) advertising click through metrics and advertising effectiveness metrics, (vi) the sites the users were visiting before they accessed the Website, and (vii) details about the browser the visitor is using. We and/or our third party service providers may obtain such non-personal information.
 
-## **Information Sharing and Disclosure**
+**B. HOW WE USE & SHARE THE INFORMATION COLLECTED**
 
-  * We will not sell or rent your personally identifiable information to anyone.
-  * We will send personally identifiable information about you to other companies or people when
-  * We have your consent to share the information;
-  * We respond to subpoenas, court orders or legal process; or
-  * We find that your actions on our web sites violate the Terms of Service.
+1\. Personally Identifiable Information:
 
+The personally identifiable information you submit to us is generally used to carry out your requests, respond to your inquiries, better serve you or in other ways naturally associated with the circumstances in which you provided the information. We may also use this information to later contact you for a variety of reasons, such as customer service, to provide you with information or services or process transactions that you have requested or agreed to receive, to provide you with marketing or promotional information for our products or those of our parent company, subsidiaries or other affiliated companies (“ **Affiliated Companies** ”), to communicate with you about content or other information you have posted or shared with us via the Website or with regard to your use of the Website and, in our discretion, changes to the Website and/or Website policies, for internal business purposes, or for purposes disclosed at the time you provide your information or as otherwise set forth in this Privacy Policy. You may opt-out from receiving future promotional information from us, or direct that we not share your information in the future with any affiliated companies or third parties for their direct marketing purposes, as set forth below in Section I.
 
+In certain instances we may also share your personally identifiable information with our third-party vendors performing functions on our behalf (or on behalf of our affiliated companies) – e.g., vendors that process credit card orders, deliver our merchandise, administer our promotions, provide us marketing or promotional assistance, analyze our data, assist us with customer service, etc. Our vendors agree to use this information, and we share information with them, only to carry out our requests. In addition, we may share your personally identifiable information with participating sponsors to a program or promotion (e.g., a sweepstakes or contest) you enter via the Website, and with third parties who assist us in using the content or other information you have posted or shared with us via the Website (e.g., production companies we may use). Further, we may share your personally identifiable information with third parties such as our co-promotional partners and others with whom we have marketing or other relationships. 
 
-## **Changes to this Privacy Policy**
+2\. Non-Personal Information:
 
-****The privacy policy is subject to modification from time to time. If we decide to change our privacy policy, we will post those changes here so that you will always know what information we gather, how we might use that information and whether we will disclose it to anyone. Any significant changes to our privacy policy will be announced on our page. If you do not agree with the changes in our policy you can simply discontinue to visit our website.
+In addition to any personally identifiable information or other information that you choose to provide to us on the Website, we and our third-party service providers may use a variety of technologies, now and hereafter devised, that automatically collect certain website usage information whenever you access/use or interact with the Website. We may use this usage information for a variety of purposes, including enhancement or otherwise improvement of the Website. In addition, we may also collect your IP address or some other unique identifier for the particular device you use to access the Internet, as applicable (collectively, referred to herein as a “ **Device Identifier** ”). A Device Identifier is a number that is automatically assigned to your Computer, and we may identify your device by its Device Identifier. When analyzed, usage information helps us determine how the Website are used, such as what types of visitors arrive at the Website, what type of content is most popular, what type of content you may find most relevant and what type of visitors are interested in particular kinds of content and advertising. We may associate your Device Identifier or web site usage information with the personally identifiable information you provide, but we will treat the combined information as personally identifiable information. Website usage information may be collected using various methods, such as the following:
 
-## **Questions or Suggestions**
+_Web Beacons_ – Small graphic images or other web programming code called web beacons (also known as “1×1 GIFs” or “clear GIFs”) may be included in our web pages and e-mail messages. Web beacons may be invisible to you, but any electronic image or other web programming code inserted into a web page or e-mail can act as a web beacon.  Web beacons or similar technologies may be used for a number of purposes, including, without limitation, to count visitors to the Website, to monitor how users navigate the Website, to count how many e-mails that were sent were actually opened or to count how many particular articles or links were actually viewed.
 
-If you have questions or suggestions complete the enquiry form or send an email at help@foodfood.com
+_Cookies_ – A cookie is a data file placed on a Computer when it is used to visit the Website. Cookies may be used for many purposes, including, without limitation, tracking user preferences and web pages visited while using the Website. You may be able to remove, reject and/or disable some types of cookies using your browser’s preferences or other programs. Some features of the Website may not function properly or may operate slowly if you disable, delete, or refuse to accept cookies. Some of the cookies we use may be “Flash” cookies. A Flash cookie is a data file placed on a Computer via the Adobe Flash plug-in that may be built-in to or downloaded by you to your Computer. While they are harmless, depending on your browser, these cookies may not be deleted when your cookies are deleted or disabled and, in some instances, they may cause your cookies to reappear in your browser. Please check your browser to determine where these types of cookies are stored and how they may be deleted or disabled.
 
-© FOOD FOOD 2013. All rights reserved.
+_Mobile Device Identifiers_ – Certain mobile service providers uniquely identify mobile devices and we or our third-party service providers may receive such device information if you access the Website through mobile devices. Certain features of the Website may require collection of mobile phone numbers, and we may associate that phone number to mobile device identification information. Additionally, some mobile phone service providers operate systems that pinpoint the physical location of devices that use their service. Depending on the provider, we or our third-party service providers may receive this information.
+
+_Embedded Scripts_ – An embedded script is programming code that is designed to collect information about your interactions with the Website, such as the links you click on. The code is temporarily downloaded onto your Computer from our web server or a third-party service provider, is active only while you are connected to the Website, and is deactivated or deleted thereafter.
+
+Information collected through passive means may be non-identifying or may be associated with you. In the latter case it will be treated as personally identifiable information. 
+
+We use non-personal information in a variety of ways, including to help analyze site traffic, understand customer needs and trends, carry out targeted promotional activities and to improve our services. We may use your non-personal information by itself or aggregate it with information we have obtained from others. We may share your non-personal information with our Affiliated Companies and third parties to achieve these objectives and others, but remember that aggregate information is anonymous information that does not personally identify you. We may provide our analysis and certain non-personal information to third parties (who may in turn use this information to provide advertisements tailored to your interests), but this will not involve disclosing any of your personally identifiable information.
+
+3.  Information You Provide About Third Party
+
+If you send someone else a communication from the Website, such as sending Website content to a friend, the information you provide (names, e-mail addresses, etc.) is used to facilitate the communication and is not used for any other marketing purpose unless we obtain consent from that person or we explicitly say otherwise. Please be aware that when you use any send-to-a-friend functionality on the Website, your e-mail address may be included in the communication sent to your friend.
+
+4\. Information Third Parties Provide About You
+
+We also may, from time to time, supplement the information we collect with outside records from third parties in order to enhance our ability to serve you, to tailor our content to you and to offer you opportunities to purchase products or services that we believe may be of interest to you. **** We may combine the information we receive from those other sources with information we collect through the Website. In those cases, we will apply this Privacy Policy to any personal identifiable information received, unless otherwise specifically disclosed by us at the time you provide your personally identifiable information.
+
+**C. OTHER USES**
+
+1\. E-mail Communications:
+
+If you send us an e-mail with questions or comments, we may use your personally identifiable information to respond to your questions or comments, and we may save your questions or comments for future reference. For security reasons, we do not recommend that you send non-public personally identifiable information, such as passwords, social security numbers or bank account information, to us by e-mail. Further, we may send you e-mail under the following circumstances: (a) if you request a particular service or sign up for a feature that involves e-mail communications; (b) if it relates to purchases you have made with us (e.g., product updates, customer support, etc.); (c) if we are sending you information about our other products and services; (d) if you consented to being contacted by e-mail for a particular purpose; (e) if you send us an e-mail, post information on the Website (i.e., a blog) or otherwise submit information to us electronically, we may e-mail you to follow-up or otherwise communicate with you with respect thereto; (f) to provide you legal notices or notices with respect to your use of the Website; or (g) to otherwise facilitate a transaction between us. In certain instances, we may provide you with tools on the Website that will allow you to set your preferences for receiving e-mail communications from us; that is, agree to some communications but not others. You may “opt out” of receiving future commercial e-mail communications from us by clicking the “unsubscribe” link or following the other instructions included at the bottom of most e-mails we send, or as provided below in Section I; provided, however, we reserve the right to send you transactional e-mails such as customer service communications.
+
+2\. Transfer of Assets:
+
+As we continue to develop our business, we may sell or purchase assets. If another entity acquires us or all (or substantially all) of our assets, the personally identifiable information and non-personal information we have about you will be transferred to and used by this acquiring entity, though we will take reasonable steps to ensure that your preferences are followed. Also, if any bankruptcy or reorganization proceeding is brought by or against us, all such information may be considered an asset of ours and as such may be sold or transferred to third parties.
+
+3\. Other:
+
+Notwithstanding anything herein to the contrary, we reserve the right to disclose any personally identifiable or non-personal information about you if we are required to do so by law and/or if we believe that such action is necessary to: (a) fulfill a government request; (b) conform with the requirements of the law or legal process; (c) protect or defend our legal rights or property, the Website, or other users; or (d) in an emergency to protect the health and safety of the Website’ users or the general public. 
+
+4\. Sweepstakes Contests and Promotions:
+
+We may offer sweepstakes, contests, and other promotions through the Website that may require registration. By entering any promotion, you are agreeing to the official rules that govern that promotion, which may contain specific requirements of you, including, except where prohibited by law, allowing the sponsor(s) of the promotion to use your name, voice and/or likeness in advertising or marketing associated with the promotion. If you choose to enter a sweepstakes, contest or other promotion, personally identifiable information may be disclosed to third parties or the public in connection with the administration of such promotion, including, without limitation, in connection with winner selection, prize fulfillment, and as required by law or permitted by the promotion’s official rules, such as on a winners list.
+
+5\. Third Party Ad Server Networks:
+
+The Website may use third parties such as network advertisers to serve advertisements on the Website and may use traffic measurement services to analyze traffic on the Website. Network advertisers are third parties that display advertisements based on your visits to the Website and other websites you have visited. Third-party ad serving enables us to target advertisements to you for products and services in which you might be interested. The Website’s third party ad network providers, the advertisers, the sponsors and/or traffic measurement services may themselves set and access their own cookies and other technologies on your Computer and track certain behavioral information regarding users of your Computer via a Device Identifier. These third party cookies and other technologies are set to, among other things:  (a) help deliver advertisements to you that you might be interested in; (b) prevent you from seeing the same advertisements too many times; and (c) understand the usefulness to you of the advertisements that have been delivered to you. Note that any images (or any other parts of a web page) served by third parties in association with third party cookies may serve as web beacons, which enable third parties to carry out the previously described activities. Third party cookies, web beacons, and other third party technologies are governed by each third party’s specific privacy policy, not this one. 
+
+**D. PUBLIC FORUMS**
+
+We may offer chat rooms, message boards, bulletin boards or similar public forums where you and other users of the Website can communicate. The protections described in this Privacy Policy do not apply when you provide information (including personally identifiable information) in connection with your use of these public forums. We may use personally identifiable and non-personal information about you to identify you with a posting in a public forum. Any information you share in a public forum is public information and may be seen or collected by anyone, including third parties that do not adhere to our Privacy Policy. We are not responsible for events arising from the distribution of any information you choose to publicly post or share through the Website.
+
+**E. CHILDREN**
+
+The features, programs, promotions and other aspects of the Website requiring personally identifiable information are not intended for children. We do not knowingly collect personally identifiable information from children under the age of eighteen (18). If you are a parent or guardian of a child under the age of eighteen (18) and believe he or she has disclosed personally identifiable information to us, please contact us at feedback@foodfood.com. A parent or guardian of a child under the age of eighteen (18) may review and request deletion of such child’s personally identifiable information as well as prohibit the use thereof.
+
+**F. KEEPING YOUR INFORMATION SECURE**
+
+We have implemented security measures we consider reasonable and appropriate to protect against the loss, misuse and alteration of the information under our control. Please be advised, however, that while we strive to protect your personally identifiable information and privacy, we cannot guarantee or warrant the security of any information you disclose or transmit to us online and are not responsible for the theft, destruction or inadvertent disclosure of your personally identifiable information. In the unfortunate event that your “personally identifiable information” (as the term or similar terms are defined by any applicable law requiring notice upon a security breach) is compromised, we may notify you by e-mail (at our sole and absolute discretion) to the last e-mail address you have provided us in the most expedient time reasonable under the circumstances; provided, however, delays in notification may occur while we take necessary measures to determine the scope of the breach and restore reasonable integrity to the system as well as for the legitimate needs of law enforcement if notification would impede a criminal investigation. From time to time we evaluate new technology for protecting information, and when appropriate, we upgrade our information security systems.
+
+**G. OTHER SITES/LINKS**
+
+The Website may link to or contain links to other third party websites that we do not control or maintain, such as in connection with purchasing products referenced on the Website and banner advertisements. We are not responsible for the privacy practices employed by any third party website. We encourage you to note when you leave the Website and to read the privacy statements of all third party websites before submitting any personally identifiable information.
+
+**H. THIRD PARTY APPLICATIONS**
+
+Third party applications may be available via the Website. The owners of these applications (“ **Third Party Owners** ”) may collect personally identifiable information from you and may have their own policies and practices. We are not responsible for how Third Party Owners or their applications use your personally identifiable information.  These Third Party Owners may have their own terms of service, privacy policies or other policies and ask you to agree to the same. We are not responsible for these policies or the practices of Third Party Owners. Be sure to review any available policies before submitting any personally identifiable information to a third party application or otherwise interacting with it.
+
+**I. CONTACT & OPT-OUT INFORMATION**
+
+The Website may include subscription and registration management tools that allow you to make changes regarding your preferences for receiving communications. Regardless of whether these tools are available through the Website, you may contact us as at feedback@foodfood.com if:  (a) you have questions or comments about our Privacy Policy; (b) wish to make corrections to any personally identifiable information you have provided to us; (c) want to opt-out from receiving future commercial correspondence, including e-mails, from us  (we may continue to send you transactional messages such as responding to your inquiries); or (d) wish to withdraw your consent to our future sharing of your personally identifiable information with third parties for their direct marketing purposes.
+
+We will respond to your request and, if applicable and appropriate, make the requested change in our active databases as soon as reasonably practicable. Please, note that we may not be able to fulfill certain requests while allowing you access to certain benefits and features of the Website. Also, please note that it is not always possible to completely change, remove or delete all of your information from our databases and that residual data may remain on backup media or for other reasons. Also, if you have made any public postings on the Website such as in forums or blogs, these communications are generally not removed by us.
+
+**J. CONSENT TO TRANSFER INFORMATION TO INDIA**
+
+The Website is operated in India and intended for users located in India. If you are located elsewhere outside of India, please be aware that information we collect will be transferred to and processed in India. By using the Website or providing us with any information, you consent to this transfer and processing of your information in India.
+
+**K. SOLE STATEMENT**
+
+This Privacy Policy as posted is the sole statement of our privacy policy with respect to the Website. We reserve the right, at our sole discretion; to change the Privacy Policy from time to time without prior notice to you. Any changes will be effective immediately upon posting of the revised Privacy Policy.
