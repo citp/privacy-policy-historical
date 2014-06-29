@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the addatoday.com privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110183158id_/http%3A//www.addatoday.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addatoday.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629085729id_/http%3A//www.addatoday.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# PRIVACY POLICY | Addatoday
+# PRIVACY POLICY
 
 Adda Today respect your privacy and we are committed to safeguarding it while you are online at our site.
 
