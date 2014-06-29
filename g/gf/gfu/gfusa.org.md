@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gfusa.org privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214061220id_/http%3A//www.gfusa.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gfusa.org privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629140813id_/http%3A//www.gfusa.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Grameen Foundation | Connecting the World's Poor to Their Potential
 
