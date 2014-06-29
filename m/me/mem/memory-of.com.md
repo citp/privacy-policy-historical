@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the memory-of.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630232935id_/http%3A//www.memory-of.com/Public/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the memory-of.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630010644id_/http%3A//www.memory-of.com/Public/Privacy.aspx) for the most accurate reproduction.*
 
 # "Memory-of" Privacy Policy
 
