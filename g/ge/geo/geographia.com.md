@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geographia.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227182157id_/http%3A//www.geographia.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geographia.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629225752id_/http%3A//www.geographia.com/privacy.htm) for the most accurate reproduction.*
 
 # Geographia - Privacy Policy
 
@@ -35,5 +35,5 @@ Geographia.com sometimes uses third party providers to deliver the advertisement
 
 Please note this Privacy Policy will change from time to time. We expect most such changes to be minor, but there may be changes that are more significant. Regardless, we will post those changes on this page and, if the changes are significant, we will also provide a more prominent notice. Each version will be noted at the top of the page. Prior versions of this Privacy Policy will be kept in an archive for you to view.
 
-**[AFRICA](https://web.archive.org/web/20131227182157id_/http%3A//www.geographia.com/indx06.htm)   [ASIA](https://web.archive.org/web/20131227182157id_/http%3A//www.geographia.com/indx04.htm)   [CARIBBEAN](https://web.archive.org/web/20131227182157id_/http%3A//www.geographia.com/indx02.htm)   [EUROPE  
-](https://web.archive.org/europe)[LATIN AMERICA](https://web.archive.org/web/20131227182157id_/http%3A//www.geographia.com/indx05.htm)**  **[HOME](http://www.geographia.com/)**  
+**[AFRICA](https://web.archive.org/web/20140629225752id_/http%3A//www.geographia.com/indx06.htm)   [ASIA](https://web.archive.org/web/20140629225752id_/http%3A//www.geographia.com/indx04.htm)   [CARIBBEAN](https://web.archive.org/web/20140629225752id_/http%3A//www.geographia.com/indx02.htm)   [EUROPE  
+](https://web.archive.org/europe)[LATIN AMERICA](https://web.archive.org/web/20140629225752id_/http%3A//www.geographia.com/indx05.htm)**  **[HOME](http://www.geographia.com/)**  
