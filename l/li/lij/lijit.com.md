@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lijit.com privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122111127id_/http%3A//www.lijit.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lijit.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629092048id_/http%3A//www.lijit.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Lijit | Privacy Policy
 
@@ -28,7 +28,7 @@ As you use the Lijit Services as a Publisher or Reader, certain information may 
 
 **Opting Out**
 
-We make available a Lijit "opt-out" cookie that you may download to your browser. If this cookie is installed on your browser, we will not collect anonymous site visit data on that browser. Click [OPT-OUT](http://www.lijit.com/cookie_opt_out) to install this cookie.
+We make available a Lijit "opt-out" cookie that you may download to your browser. If this cookie is installed on your browser, we will not collect anonymous site visit data on that browser. Click Opt-Out to install this cookie.
 
 Our opt-out tool is cookie-based. This opt-out tool only prevents us from collecting site visit data pertaining to you on the browser on which it is installed, and will only function if your browser is set to accept third-party cookies. If you delete an opt-out cookie from a browser's cookie files, we will collect site visit data from that browser until an opt-out cookie is reset on that browser.
 
