@@ -1,399 +1,242 @@
-> *The following text is extracted and transformed from the vietnamcupid.com privacy policy that was archived on 2013-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130822021805id_/http%3A//www.vietnamcupid.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vietnamcupid.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629184425id_/http%3A//www.vietnamcupid.com/privacy.cfm) for the most accurate reproduction.*
 
-# VietnamCupid.com | Privacy Policy
+# Privacy Statement | VietnamCupid.com
 
-**CUPID MEDIA PTY LTD PRIVACY POLICY**
+**Last Updated:** 12 May 2014
 
-VietnamCupid.com (“the Website”) is owned and operated by the company described in item 1 of the Schedule to this Privacy Policy (the "Company", "we", "our", "us").  This Privacy Policy sets out the Company's policies relating to the collection and use of your Personal Information whilst you use this Website.
+**1\. Preliminary**
 
-  **1\. PRIVACY**
+VietnamCupid.com (the "Website") is owned and operated by Cupid Media Pty Ltd ACN 104 844 564, an Australian registered company ("Cupid Media", "we", "our", "us").
 
-The Company is committed to protecting user privacy. We understand that visitors and users of the Website are concerned about their privacy, and the confidentiality and security of any information that is provided.
+**Our contact details are:**
 
-**2\. COLLECTION OF INFORMATION**
+Name: Cupid Media Pty Ltd (ACN 104 844 564)  
+Address: PO Box 9304, Gold Coast MC Qld 9726  
+Phone: 61 7 5571 1181  
+Fax Number: 61 7 3103 4000  
+For Privacy Issues Email: [privacy@cupidmedia.com](mailto:privacy@cupidmedia.com)  
+For Customer Service: [team@VietnamCupid.com](mailto:team@VietnamCupid.com)
 
-**2.1 All users**
+This privacy policy sets out Cupid Media's policies relating to the collection and use of your Personal Information whilst you use the Website and Cupid Media's related websites.
+
+Cupid Media is committed to protecting user privacy. We understand that visitors and users of the Website are concerned about their privacy, and the confidentiality and security of any Personal Information that is provided.
+
+We will only disclose Personal Information in accordance with the Privacy Act 1988 (Cth) (or other applicable law), the Australian Privacy Principles and this privacy policy. If there is any inconsistency, the Privacy Act 1988 (Cth) (or other applicable law) will prevail to the extent of any inconsistency.
+
+Words that are capitalised, such as "Personal Information" and "Sensitive Information" are defined in clause 15 of this policy.
+
+**2\. Anonymity**
+
+Due to the nature of the services provided by Cupid Media it is impractical for us to deal with you without knowing your full name. When you register for our services you are required to use truthful and accurate information and you will not have the option to use a pseudonym.
+
+**3\. Collection of Information**
+
+**3.1 All Users**
 
 Whenever users (including non-member users) visit the Website, our servers automatically record information for statistical purposes about your usage of the Website such as:
 
-(a) the type of browser used;
+(a) the type of browser used;  
+(b) the referring URL;  
+(c) the IP address;  
+(d) the number and type of pages viewed;  
+(e) the date and time of visits; and  
+(f) the exit URL.  
 
-(b) the referring URL;
 
-(c) the IP address;
+This information we collect about you is not Personal Information and, in any event, remains anonymous. We do not link the anonymous information to any other Personal Information unless you have either registered as a member or logged on as a member at the time of use. Accordingly, if you have not identified yourself on the Website, such as by registering as a member or logging on as a member, we will not link a record of your usage of our Website to you personally.
 
-(d) the number and type of pages viewed;
+**3.2 Members**
 
-(e) the date and time of visits; and
+Upon your registration as a member we collect information about you in order to provide you with the full benefits of membership. We collect non-identifying information as well as Personal Information from you directly when you first register and also from time to time thereafter if you provide us with additional information. Personal Information which may be collected by Cupid Media includes, without limitation:
 
-(f) the exit URL.
+(a) your full name;  
+(b) your email address;  
+(c) your residential address;  
+(d) phone number;  
+(e) a photograph of you;  
+(f) your credit card and billing information (if provided by you).  
 
-This information we collect about you is not Personal Information and, in any event, remains anonymous.  We do not link the anonymous information to any other Personal Information unless you have either registered as a member or logged on as a member at the time of use. Accordingly, if you have not identified yourself on the Website, such as by registering as a member or logging on as a member, we will not link a record of your usage of our Website to you personally. 
 
-**2.2 Members**
+Other information collected by the Cupid Media, which may or may not be considered Personal Information includes, without limitation:
 
-Upon your registration as a member we collect information about you in order to provide you with the full benefits of membership. We collect non-identifying information as well as Personal Information from you directly when you first register and also from time to time thereafter if you provide us with additional information. 
+(a) your email address;  
+(b) your age;  
+(c) your occupation;  
+(d) a description of your appearance.  
 
-Personal Information which may be collected by the Company includes, without limitation:
 
-(a) your full name;
+Sensitive Information which may be collected by Cupid Media includes, without limitation:
 
-(b) your email address;
+(e) your racial or ethnic origin;  
+(f) your political opinions;  
+(g) your religious beliefs or affiliations;  
+(h) your philosophical beliefs;  
+(i) your sexual preferences or practices;  
+(j) your criminal record and is only collected if you elect to provide that information to us.  
 
-(c) your residential address;
 
-(d) phone number;
+**3.3 Cookies**
 
-(e) a photograph of you.
+(a) We utilise "cookies" which enable us to monitor traffic patterns and to serve you more efficiently if you revisit the Website. A cookie does not identify you personally but it does identify your computer. You can set your browser to disable cookies or to notify you when you receive a cookie and provide you with an opportunity to either accept or reject it in each instance. If you disable cookies, you may not be able to access certain areas or features on our Website.
 
-Other information collected by the Company, which may or may not be considered Personal Information includes, without limitation:
+(b) Information collected via cookies may be used by us and third party vendors to:  
+(i) support Google Analytics for Display Advertising, including Remarketing and Google Display Network Impression Reporting to advertise our services online;  
+(ii) optimize, personalize and serve ads based on your past visits to our website;  
+(iii) report uses of ad services, and interactions with ad impressions and how they are related to visits to our site. 
 
-(f) your age;
+You can customize or opt out of Google Analytics for Display Advertising using the Ads Settings for your Google account.
 
-(g) you occupation;
+**3.4 Third Parties**
 
-(h) a description of your appearance
+We may allow third-parties, including authorised service providers, advertising companies and ad networks to serve advertisements on our sites. Any information that these third-parties collect via cookies is completely anonymous and is non-identifiable.
 
-**2.3 Purpose**
+**3.5 Use of Google Analytics**
 
-We shall only collect Personal Information that is necessary for our Purposes. 
+This website uses Google Analytics, a web analysis service operated by Google Inc. ("Google"). Google Analytics uses cookies (text files) which are stored on your computer and which allow for analysis of your visits to be conducted. Information concerning your visit produced through cookies (including IP address) will be transferred to and stored on a server in the USA operated by Google. Google will analyse this information to produce a report for the operator on website usage and online usage of associated services. Google may also transfer this information to third parties either where this is required by law or where third parties are contracted by Google to process data. Google will not allow your IP address to be linked to any other personal data. You can prevent cookies being installed on your computer by changing your browser settings; however, if you choose to do this, your visit to our website and use of some functionality may be impaired. By using this website you are deemed to have expressly consented to the use and processing of your data collected and processed at any time. This withdrawal concerns consent to future activities. Please be advised that to avoid personal data being collected through IP addresses, we use Google Analytics ad-on "anonymized". As a result a shortened (or anonymous) IP address is sent to Google.
 
-**2.4 Lawful Means**
+**3.6 Promotion to you**
 
-We shall only collect Personal Information by lawful and fair means and not in any unreasonable or in an unreasonably intrusive way.
+(a) In order to promote our products and services to you, we may provide a hash of your email address (and no other personal data) to third parties such as Facebook in order to better target our advertising to you by using products such as Facebook's Custom Audiences.
 
-**2.5 Notification**
+(b) A comparison of your hashed email address will only be for the purpose of promoting our goods and services to you, and will not be used by that third party for any other purpose. The comparison of the hash of your email address will not be used to identify you or your email address, and no further information about you will be provided by us to that third party. 
 
-Where it is practical to do so, at or before the time that we collect any Personal Information from you we shall take all reasonable steps to ensure that you are aware of:
+**4\. Purposes of collecting, holding, using and disclosing Personal Information**
 
-(a) our identity and how to contact us;
+**4.1 Collect from you only**
 
-(b) the fact that the individual are able to gain access to the Information;
+Where it is reasonable or practical to do so, we will endeavour to only collect Personal Information about you from you.
 
-(c) the Purposes for which the Information is collected;
+**4.2 Purposes of collecting Personal Information**
 
-(d) the Recipient's to whom we would usually disclose that Information;
+(a) We will only collect Personal Information that is reasonably necessary for:
 
-(e) any laws that require particular Information to be collected; and
+(i) enabling us to process your application for membership and enabling us to provide services to you (including creating your publically viewable profile, allowing members to search for suitable members, providing mechanisms for communication between members);  
+(ii) our internal research and statistical purposes (including market segmentation and customer value analysis);  
+(iii) enabling us to forward to you other information or material which we believe may be of interest to you; and  
+(iv) enabling the payment processor to process the payment of subscription fees,(the "Primary Purpose").  
+(v) any other purpose specified in our Website Terms of Use located at [http://www.VietnamCupid.com/en/general/termsofuse](http://www.vietnamcupid.com/en/general/termsofuse)
 
-(f) the main consequences for the Individual if all or part of the Information is not provided.
+**4.3 Holding of Personal Information**
 
-**2.6 Collect from you only**
+**(a) Security**
 
-Where it is reasonable or practical to do so, we shall endeavour to only collect Information about you from you.
+We will take reasonable steps to protect Personal Information that we hold from:
 
-**2.7 Notice to you**
+(i) misuse, interference and loss; and  
+(ii) unauthorised access, modification or disclosure.   
 
-Where we collect Information about you from someone else we will take reasonable steps to ensure that you have been made aware of the matters listed in clause 2.5 above unless in our opinion making you aware of these matters would pose a serious threat to the life or health of anyone.
 
-**2.8 Cookies**
+**(b) Destruction of Personal Information**
 
-We utilise "cookies" which enable us to monitor traffic patterns and to serve you more efficiently if you revisit the Website. A cookie does not identify you personally but it does identify your computer. You can set your browser to disable cookies or to notify you when you receive a cookie and provide you with an opportunity to either accept or reject it in each instance. If you disable cookies, you may not be able to access certain areas or features on our Website.
+If:
 
-**3\. USE AND DISCLOSURE**
+(i) We hold Personal Information about you; and  
+(ii) We no longer need the Personal Information for any purpose for which the information may be used or disclosed by us under the Privacy Act 1988 (Cth) or other applicable law; and  
+(iii) We are not required by or under an Australian law, other applicable law or a court/tribunal order, to retain the information,  
+We will take reasonable steps in the circumstances to destroy the information or to ensure that the information is de identified. 
 
-**3.1 Disclosure**
+**4.4 Use and disclosure of Personal Information**
 
-We shall only disclose Personal Information in accordance with the terms of this Policy. 
+(a) We will only use or disclose Personal Information for the Primary Purpose where it is reasonably necessary.  
+(b) We will not use or disclose any Personal Information about you for any purpose other than the Primary Purpose (the "Secondary Purpose") unless:
 
-**3.2 Secondary Purpose**
+(i) both of the following apply:
 
-We shall not use or disclose any Information about you for a Secondary Purpose unless:
+(A) the Secondary Purpose is related to the Primary Purpose and if the Personal Information is Sensitive Information, the Secondary Purpose is directly related to the Primary Purpose; and  
+(B) you would reasonably expect us to use or disclose the Personal Information for the Secondary Purpose; or  
+(ii) you have consented to the use or disclosure; or  
+(iii) The use or disclosure of the Personal Information is required or authorised by or under an Australian law, other applicable law or a court/tribunal order.
 
-(a) both of the following apply:
+**4.5 Disclosure to overseas recipients**
 
-(i) the Secondary Purpose is related to the Primary Purpose and if the Information is Sensitive Information, the Secondary Purpose is directly related to the Primary Purpose; and
+Any profile information that you have provided to us will be publically viewable on your profile, irrespective of the location of the viewer. By creating a profile you acknowledge that overseas recipients will be able to view your profile.
 
-(ii) you would reasonably expect us to use or disclose the Information for the Secondary Purpose; or
+In order to provide customer support, perform back office functions, fraud prevention tasks or provide services to you we may need to allow our staff or suppliers (who are located or whose resources are located Overseas) to access your profile information, billing information or other personal information that you have supplied.
 
-(b) you have consented to the use or disclosure; or
+In all other circumstances we will only disclose Personal Information to an Overseas recipient if:
 
-(c) if the Information is not Sensitive Information and the use of the Information is for the Secondary Purpose of direct marketing:
+(a) you consent to the transfer (please note the consent you have given in clause 12 of our terms of use); or  
+(b) the disclosure of the information is required or authorised by or under an Australian law, other applicable law or a court/tribunal order. 
 
-(i) it is impractical for us to seek your consent for that particular use; and
+**4.6 Unsolicited Information**
 
-(ii) we have chosen not to charge you to give effect to your request not to receive direct marketing communications; and
+If we collect Personal Information, which we have not sought or requested, and if we determined that we are otherwise permitted to collect that information in compliance with the Australian Privacy Principles or other applicable law, that information will be dealt with in accordance with the terms of this privacy policy. If however, we determine that the collection of your Personal Information is not permitted under the terms of the Australian Privacy Principles or other applicable law, then we will destroy or de-identify that Information as soon as practicable, where it is lawful and reasonable to do so.
 
-(iii) you have not made a request to us not to receive direct marketing communications; and
+**4.7 Information Not Confidential**
 
-(iv) in each direct marketing communication with you we have drawn your attention or prominently displayed a notice that you   
-may express a wish not to receive any further direct marketing communications; and
+You agree that any material or information provided by you, save and except for any Personal Information (which may include your full name, postal address, telephone number etc.) the use of which is governed by this Privacy Policy, will be treated as non-confidential and non-proprietary and we may use such material or information without restriction. Specifically, you consent to Cupid Media using such material or information (including any profile information, photographs, video or audio recordings) that you have provided to us) in order to copy your profile into any other relevant dating site owned and operated by Cupid Media. You acknowledge that any such material or information provided by you will be available for other members or users of the Website to read.
 
-(v) each written direct marketing communication from us to you specifies our business address, telephone number or email address at which we can be contacted directly; or
+**4.8 Communication**
 
-(d) we reasonably believe that the use or disclosure is necessary to lessen or prevent:
+The Company reserves the right to send electronic mail to you regarding recommended matches, notification alerts of activity such as interest alerts or email alerts, for promotions or offers, changes or additions to the Service, or any products and services of the Company and its affiliated businesses. Members may manage their email preferences by using the "Settings / Notifications" function to customize what type of email communications they wish to receive.
 
-(i) serious or imminent threat to an individual's life, health or safety; or
+**5\. Access and Correction**
 
-(ii) a serious threat to public health or public safety;
+**5.1 Access to Personal Information**
 
-(e) we have reason to suspect that unlawful activity is being engaged in and we use or disclose the Personal Information as a necessary part of our investigation of the matter or in reporting our concerns to relevant persons or authorities; or
+We will provide you with access to the Personal Information held by us in relation to you except to the extent that:  
+(a) giving access would be unlawful; or  
+(b) denying access is required or authorised by or under an Australian law, other applicable law or a court/tribunal order. 
 
-(f) the use or disclosure of the Information is required or authorised by or under law;
+**5.2 Request for Access**
 
-(g) we reasonably believe that the use or disclosure is reasonably necessary for one or more of the following by or on behalf of the police or other enforcement body:
+To request access to the Personal Information held by us about you, you must contact us using the contact details provided in clause 1, following which we will contact you within a reasonable time from our receipt of your request and either provide you with that Personal Information, or notify you when we will provide you with the Personal Information. In any event the Personal Information requested will be provided not more than 30 days after our receipt of your request unless we decide not to provide you with access to the Personal Information in which case we will advise you of the reasons for such decision.
 
-(i) the prevention, detection, investigation, prosecution or punishment of criminal offences, breaches of a law imposing a penalty or sanction or breaches of a prescribed law; 
+**5.3 Commercially Sensitive Information**
 
-(ii) the enforcement of laws relating to the confiscation of the proceeds of crime;
+Where providing access to the Personal Information would reveal evaluative information generated by us in connection with a commercially sensitive decision making process we will give you an explanation for the commercially sensitive decision rather than direct access to the Personal Information.
 
-(iii) protection of public revenues;
+**5.4 Use of Intermediaries**
 
-(iv) the prevention, detection, investigation or remedy of seriously improper conduct or prescribed conduct;
+Where because of any of the reasons described in 5.1 above we are not required to provide you with access to the Information then we will, if it is reasonable to do so, give consideration to whether the use of mutually agreed intermediaries would allow sufficient access to meet our respective needs.
 
-(v) the preparation for or conduct of proceedings before and court or tribunal or implementation of the orders of the court tribunal.
+**5.5 Costs**
 
-**4\. DATA QUALITY**
+We reserve the right to charge you for providing access to your Personal Information. Those fees and charges will not be excessive, and will be determined by us from time to time and we will notify you of those costs prior to providing you with access to the Personal Information. We may require those costs to be paid prior to providing you with access.
 
-We will take all reasonable steps to ensure that the Information that we collect, use or disclose is accurate, complete and up to date.
+**5.6 Correction of Personal Information**
 
-**5\. DATA SECURITY**
+(a) It is your responsibility to ensure that the information you provide to us is accurate and to update your Personal Information as necessary.
 
-**5.1 Security**
+(b) If at any time you wish to correct any Personal Information held by us, please contact us as specified in clause 1 and we will correct this record, having regard to the purpose for which it is held, to ensure that the information is accurate, up to date, complete, relevant and not misleading. If we elect not to correct your information, we will notify you, within a reasonable time, of the reason for our refusal, the mechanisms available for you to complain about our refusal and such other matters as required by the Privacy Act 1988 (Cth) or other applicable law.
 
-We will take reasonable steps at the time that we collect, use or disclose Information to secure the Information we hold from misuse and loss, unauthorised access, modification or disclosure.
+(c) If:
 
-**5.2 Steps we will Take**
+(i) we correct Personal Information about you that we previously disclosed to another entity to which the Australian Privacy Principles apply; and  
+(ii) you request us to notify that other entity of the correction, we will take reasonable steps in the circumstances to give that notification unless it is impracticable or unlawful to do so. 
 
-To protect the Information we shall:
+(d) If we are not satisfied that the Personal Information is not accurate, complete or up to date, we will, at your request, keep with your Personal Information a statement noting your claim that the Personal Information is not accurate, complete or up to date.
 
-(a) adopt measures to prevent unauthorised entry to our premises, systems to detect unauthorised access and secure containers for storing paper based Personal Information;
+(e) If you wish to have your Personal Information deleted, please let us know and we will take all reasonable steps to delete it, unless we need to keep it for legal reasons. 
 
-(b) will adopt measures to protect our computer systems and networks for storing, processing and transmitting Personal Information and from unauthorised access, modification and disclosure;
+**5.7 Refusal to Correct**
 
-(c) we shall protect communications via data transmission including emails and voice transmission from interception and preventing unauthorised intrusion into our computer networks; 
+If at any time we refuse or deny access to Personal Information to you or refuse to correct Personal Information we will provide you with reasons for such denial or refusal.
 
-(d) we shall adopt procedural and personnel measures for limiting access to Personal Information except by authorised staff approved for the Purposes and controls to minimise security risks to our information technology systems;   
-and such other Security measures as we consider reasonable.
+**6\. Complaints**
 
-**5.3 Destruction of Information**
+**6.1 Complaint**
 
-We will take reasonable steps to destroy or permanently de-identify Personal Information if it is no longer needed for any Purpose, in a secure manner.
+If you believe that we have used or disclosed your Personal Information in a manner which is contrary to this policy or otherwise breaches an applicable law, then you should email us at [privacy@cupidmedia.com](mailto:privacy@cupidmedia.com)
 
-**6\. OPENNESS**
+**6.2 Our Response**
 
-**6.1 Provide Policy**
+Within 30 days of receipt of your complaint we will notify you in writing as to what action we propose to take in relation to your complaint and will provide you with details of what further action you can take if you are not satisfied with our response.
 
-We will make available to any person who requests it, a copy of this policy.
+**7\. Definitions**
 
-**6.2 Contacting Us**
+"Act" means the Privacy Act 1988 (Cth);
 
-You may contact us to request the Information we hold in relation to you and to correct that Information (in accordance with clause 7) at our contact details which are specified in the Schedule.
+"Australian Privacy Principles" means the Australian Privacy Principles specified in the Act;
 
-**7\. ACCESS AND CORRECTION**
+"Information" means Personal Information collected about an individual and includes Sensitive Information;
 
-**7.1 Access to Information**
+"Overseas" means outside the boundaries of the Commonwealth of Australia;
 
-We shall provide you with access to the Information held by us in relation to you except to the extent that:
+"Personal Information" means Information or opinion whether true or not and whether recorded in a material form or not about an individual whose identity is apparent or can reasonably be ascertained from the Information or opinion;
 
-(a) in the case of Personal Information other than Health Information, providing access would pose a serious and imminent threat to the life or health of any individual; or
+"Purposes" means the Primary and Secondary purposes;
 
-(b) in the case of Health Information, providing access would pose a serious threat to the life or health of any individual; or
+"Sensitive Information" means Information or opinion about any individual's racial or ethnic origin, political opinions, membership of a political association, religious beliefs or affiliations, philosophical beliefs, membership of a professional or trade association, membership of a trade union, sexual preferences or practices, criminal record or Health Information about an individual;
 
-(c) providing access would have an unreasonable impact upon the privacy of other individuals; or
-
-(d) the request for access is frivolous or vexatious; or
-
-(e) the Information relates to existing or anticipated legal proceedings between us and you and the Information would not be accessible by the process of discovery in those legal proceedings; or
-
-(f) providing access would reveal our intentions in relation to negotiations with you in such a way as to prejudice those negotiations; or
-
-(g) providing access would be unlawful; or
-
-(h) denying access is reasonable or authorised by or under law; or 
-
-(i) providing access would be likely to prejudice an investigation of possible unlawful activity; or
-
-(j) providing access would be likely to prejudice:
-
-(i) the prevention, detection, investigation, prosecution or punishment of criminal offences, breaches of a law imposing a penalty or sanction or breaches of prescribed law; or
-
-(ii) the enforcement of laws relating to the confiscation of the proceeds of crime; or
-
-(iii) the protection of the public revenue; or
-
-(iv) the prevention, detection, investigation o remedy of seriously improper conduct or prescribed conduct; or
-
-(v) the preparation for or conduct of proceedings before any court or tribunal or implementation of its orders;  
-by or on behalf of the police or an enforcement body; or
-
-(k) an enforcement body performing a lawful security function asks us not to provide access to the Information on the basis that providing access would be likely to cause damage to the security of Australia.
-
-**7.2 Request for Access**
-
-To request access to the Information held by us about you, you must contact us using the contact details provided in the Schedule, following which we shall contact you within 14 days from our receipt of your request and either provide you with that Personal Information, or notify you when we shall provide you with the Personal Information. In any event the Personal Information requested will be provided not more than 30 days after our receipt of your request unless we decide not to provide you with access to the Personal Information in which case we will advise you of the reasons for such decision.
-
-**7.3 Commercially Sensitive Information**
-
-Where providing access to the Personal Information would reveal evaluative information generated by us in connection with a commercially sensitive decision making process we will give you an explanation for the commercially sensitive decision rather than direct access to the Information.
-
-**7.4 Use of Intermediaries**
-
-Where because of any of the reasons described in 7.1 above we are not required to provide you with access to the Information then we will, if it is reasonable to do so, give consideration to whether the use of mutually agreed intermediaries would allow sufficient access to meet our respective needs.
-
-**7.5 Costs**
-
-We reserve the right to charge you for providing access to your Personal Information. Those fees and charges will not be excessive, and will be determined by us from time to time and we shall notify you of those costs prior to providing you with access to the Information. We may require those costs to be paid prior to providing you with access.
-
-**7.6 Correction of Information**
-
-If you establish that the Information we hold about you is not accurate, complete or up to date we shall take reasonable steps to correct the Information so that it is accurate, complete and up to date. If we are not satisfied that the Information is not accurate, complete or up to date we shall, at your request, keep with your Personal Information a statement noting your claim that the Information is not accurate, complete or up to date.
-
-**7.7 Refusal to Correct**
-
-If at any time we refuse or deny access to Information to you or refuse to correct Personal Information we shall provide you with reasons for such denial or refusal.
-
-**8\. IDENTIFIERS**
-
-**8.1 Use of Identifiers**
-
-We shall not use or disclose an Identifier assigned to you unless:
-
-(a) it is necessary for us to fulfil our obligations to the Commonwealth;
-
-(b) any of the reasons described in paragraph 3.2(d) to 3.2(g) above apply to the use or disclosure of the Identifier; or
-
-(c) it is otherwise lawful for us to do so.
-
-**8.2 Identifying You**
-
-We shall not adopt as a means to identify you, your Identifier except to the extent we are authorised to do so by law.
-
-**9\. ANONYMITY**
-
-Unless there is a practical or legal reason to require identification, we shall allow you to transact with us anonymously to the extent that it is practical for us to do so.
-
-**10\. TRANSBORDER DATA FLOWS**
-
-We shall not transfer Information to someone or to another organisation in a foreign country unless:
-
-(a) we reasonably believe that the recipient is subject to a law, a binding scheme or a contract which effectively upholds principles for the fair handling of the Information that are substantially similar to the National Privacy Principles; or
-
-(b) you consent to the transfer;
-
-(c) the transfer is necessary to perform a contract between you and us or the implementation of pre-contractual measures taken in response to your request; or
-
-(d) the transfer is necessary for the conclusion or performance of a contract concluded in the interests between ourselves and a third party; or
-
-(e) all of the following apply:
-
-(i) the transfer is for your benefit;
-
-(ii) it is impractical to obtain your consent to that transfer; 
-
-(iii) if it were practical to obtain your consent, you would be likely to give it; or
-
-(f) we have taken reasonable steps to ensure that the Information which we intend to transfer will not be held, used or disclosed by the recipient inconsistently with the National Privacy Principles.
-
-**11\. COMPLAINT HANDLING PROCESS**
-
-**11.1 Complaint**
-
-If you believe that we have used or disclosed your Personal Information in a manner which is contrary to this policy or otherwise breaches the Act, then you should complete the complaint form which is available on our website and email the completed form to our contact as specified in the Schedule. .
-
-**11.2 Our Response**
-
-Within 30 days of receipt of your complaint form we shall notify you in writing as to what action we propose to take in relation to your complaint and shall provide you with details of what further action you can take if you are not satisfied with our response.
-
-**12\. SENSITIVE INFORMATION**  
-**  
-12.1 Collection of Sensitive Information**
-
-We shall not collect Sensitive Information unless:
-
-(a) you have consented;
-
-(b) the collection is required by law;
-
-(c) the collection is necessary to prevent or lessen serious or imminent threat to the life or health of any individual where you:
-
-(i) are physically or legally incapable of giving consent to the collection; or
-
-(ii) physically cannot communicate consent to the collection; or
-
-(d) the collection is necessary for the establishment, exercise or defence of legal action.
-
-**13\. DEFINITIONS**
-
-" **Act** " means the Privacy Act 1988 (Cth);
-
-" **Health Information** " means:
-
-(a) Information or opinion about:
-
-(i) the health or disability of an individual; 
-
-(ii) an individual's expressed wishes about the future provision of Health Services to him or her;
-
-(iii) a Health Service provided or to be provided to an individual;  
-that is also Personal Information; or 
-
-(b) other Personal Information collected to provide or in providing a Health Service or 
-
-(c) other Personal Information about an individual collected in connection with the donation or intended donation by the individual of his or her body parts, organs or body substances.
-
-" **Health Service** " means: 
-
-(a) the health services described in the Schedule, which we supply or claimed by the individual or person performing it to:
-
-(i) Assess, record, maintain or improve the individual's health;
-
-(ii) To diagnose the individual's illness or disability; 
-
-(iii) To treat the individual's illness or disability or suspected illness or disability; or
-
-(b) the dispensing or prescription of drug or medicinal preparation by a pharmacist and includes the health service as provided by the organisation as described in the Schedule.
-
-" **Identifier** " means a number assigned by the Commonwealth of Australia or a department or agency on its behalf to an individual to identify uniquely that individual for the purposes of the Commonwealth's operations. However an individual's name or Australian Business Number as defined in the A New Tax System (Australian Business Number) Act 1999 (Cth) is not an Identifier;
-
-" **Information** " means Personal Information collected about an individual and includes Sensitive Information;
-
-" **National Privacy Principles** " means the National Privacy Principles specified in the Act;
-
-" **Personal Information** " means Information or opinion whether true or not and whether recorded in a material form or not about an individual whose identity is apparent or can reasonably be ascertained from the Information or opinion;
-
-" **Purposes** " means the primary and secondary purposes described in the Schedule;
-
-" **Recipients** " means the Recipients described as such in the Schedule;
-
-" **Security** " means the security used to protect the Information from unauthorised access and disclosure and shall include the security measures described in the Schedule and Secure will have the same meaning;
-
-" **Sensitive Information** " means Information or opinion about any individual's racial or ethnic origin, political opinions, membership of a political association, religious beliefs or affiliations, philosophical beliefs, membership of a professional or trade association, membership of a trade union, sexual preferences or practices, criminal record or Health Information about an individual;
-
-" **Source** " means the source of the Information which where it is practical and reasonable to do so shall be from the person about whom the Information is collected and otherwise from the parties described in the Schedule;
-
-" **you** " means the individual about whom we are collecting Information.
-
-**SCHEDULE**
-
-  1. **Company details
-
-Name
-
-**: Cupid Media Pty Ltd (ACN 104 844 564 begin_of_the_skype_highlighting              104 844 564      end_of_the_skype_highlighting), which shall include any related body corporate or associate (as those terms are defined in the Corporations Act 2001 (Cth)) of Cupid Media Pty Ltd.  
-**Address** : PO Box 9304, Gold Coast MC Qld 9726  
-**Phone** : 61 7 5571 1181  
-**Fax Number** : 61 7 3103 4000  
-**Email Address** : team@cupidmedia.com  
-**Contact** : Customer Service
-  2. **Purposes  
-**  
-_Primary:_ The primary purpose of collecting the Personal Information is to enable us to process your application for membership and to enable us to provide services to you (including customising the layout of your profile, and in respect of Personal Information other than your full name, email address, residential address and phone number, enabling you to enjoy the full benefits of membership and enabling other members to view your profile).
-
-_Secondary_ : Ancillary purposes of collecting Personal Information are for our internal research and statistical purposes (including market segmentation and customer value analysis) as well as enabling us to forward to you other information or material which we believe may be of interest to you, and enabling the payment processor to process the payment of subscription fees.
-
-  3. **Recipients:**
-
-The Company's management staff, IT staff and customer service staff, as well as payment processor (for the purpose of processing subscription fees).
-
-  4. **Security:**
-
-Personal Information is stored securely in a database server residing in an enterprise level data centre. Standard data centre security measures are in place to prevent unauthorised access to Personal Information. 
-
-  5. **Source:  
-**  
-All Personal Information collected about you shall be collected directly from you.
-  6. **Health Services:** The Company does not provide or engage in any Health Services.  
-
-
-
+"you" means the individual about whom we are collecting Information.
