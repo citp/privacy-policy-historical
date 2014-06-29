@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shutterstock.co.in privacy policy that was archived on 2013-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130331014607id_/http%3A//www.shutterstock.co.in/privacy.mhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shutterstock.co.in privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629030140id_/http%3A//www.shutterstock.co.in/privacy.mhtml) for the most accurate reproduction.*
 
 # Shutterstock: Privacy Statement for Shutterstock Images
 
@@ -24,7 +24,7 @@ You will be deemed to have been made aware of, and will be subject to, any mater
 
 **Entities Collecting Personal Information**
 
-Personal Information on this Site is collected by Shutterstock, Inc., 60 Broad Street, 30th Floor, New York, NY 10004, USA and its telephone number is 1-866-663-3954. 
+Personal Information on this Site is collected by Shutterstock, Inc., Empire State Building, 350 Fifth Avenue, 21st Floor, New York, NY 10118, USA and its telephone number is 1-866-663-3954. 
 
 **Updating Your Personal Information and Privacy Preferences**
 
@@ -102,7 +102,6 @@ The Personal Information that you provide in connection with the use of the Site
   * Your Personal Information resides on a secure server that only selected Shutterstock personnel and contractors have access to via password. 
   * Your Personal Information is encrypted whenever it is transmitted to Shutterstock. 
   * When you enter sensitive information (such as credit card number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL).
-  * We strive to protect the Personal Information submitted to us, both during transmission and once
 
 
 
@@ -141,12 +140,13 @@ We do not intend to solicit or collect Personal Information from anyone under th
 
 **Privacy Complaints**
 
-Shutterstock takes its users' privacy concerns seriously. If you believe that Shutterstock has not complied with this Privacy Policy with respect to your Personal Information, you may contact the Privacy Officer at Shutterstock, Inc., 60 Broad Street, 30th Floor, New York, NY 10004, USA. In your letter please describe in as much detail as possible the ways in which you believe that the Shutterstock Privacy Policy has not been complied with. We will investigate your complaint promptly. If you do not receive acknowledgment of your complaint or your complaint is not satisfactorily addressed, you should then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process. TRUSTe will serve as a liaison with this Site to resolve your concerns. 
+Shutterstock takes its users' privacy concerns seriously. If you believe that Shutterstock has not complied with this Privacy Policy with respect to your Personal Information, you may contact the Privacy Officer at Shutterstock, Inc., Empire State Building, 350 Fifth Avenue, 21st Floor, New York, NY 10118, USA. In your letter please describe in as much detail as possible the ways in which you believe that the Shutterstock Privacy Policy has not been complied with. We will investigate your complaint promptly. If you do not receive acknowledgment of your complaint or your complaint is not satisfactorily addressed, you should then contact TRUSTe through the TRUSTe Watchdog Dispute Resolution Process. TRUSTe will serve as a liaison with this Site to resolve your concerns. 
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this Web site, you can contact our Privacy Officer at [privacy@shutterstock.com](mailto:privacy@shutterstock.com). 
 
 Shutterstock, Inc.  
-60 Broad Street, 30th Floor  
-New York, NY 10004  
+Empire State Building  
+350 Fifth Avenue, 21st Floor  
+New York, NY 10118  
 USA  
 1-866-663-3954 
