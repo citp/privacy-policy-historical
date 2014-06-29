@@ -1,24 +1,24 @@
-> *The following text is extracted and transformed from the virginholidays.co.uk privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229011352id_/http%3A//www.virginholidays.co.uk/important/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virginholidays.co.uk privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629212634id_/http%3A//www.virginholidays.co.uk/important/privacy-statement) for the most accurate reproduction.*
 
 # Privacy - Virgin Holidays
 
 ## Data Protection
 
-_‘We’ are Virgin Holidays, a member of the Virgin Holidays Family, which includes Virgin Holidays, Virgin Holidays Cruises, Virgin Holidays and HIP Hotels, Travel City Direct and Bales Worldwide._
+_‘We’ are Virgin Holidays, a member of the Virgin Holidays Family, which includes Virgin Holidays, Virgin Holidays Cruises, Virgin Holidays & Worldwide Journeys, Virgin Holidays & HIP Hotels, Travel City Direct and Bales Worldwide._
 
 In order to process your booking and to ensure that your travel arrangements run smoothly and meet your requirements we need to use the information you provide such as name, address, any special needs/dietary requirements etc. We take full responsibility for ensuring that proper security measures are in place to protect your information. We must pass the information on to the relevant suppliers of your travel arrangements such as airlines, hotels, transport companies etc. The information may also be provided to security or credit checking companies, public authorities such as customs/immigration if required by them, or as required by law. Additionally, where your holiday is outside the European Economic Area (EEA), controls on data protection in your destination may not be as strong as the legal requirements in this country.
 
 We may use your information for the purposes set out in our data protection notification with the Office of the Information Commissioner. We may disclose the same to companies in the Virgin group for business purposes and to companies who act as data processors on our behalf. Some of your information may be 'sensitive personal data' such as details of any disabilities, or dietary/religious requirements. (If we cannot pass this information to the relevant suppliers, whether in the EEA or not, we cannot provide your booking). In making this booking, you consent to this information being passed on to the relevant persons. You are responsible for ensuring that other members of your party are aware of our privacy policy.
 
+Telephone calls made to and from our Contact Centres may be recorded and monitored for the purpose of quality assurance, training, security and for business purposes.
+
 **Direct Marketing Material**
 
-We would like to hold your information (including any email address), where collected by us, for our own future marketing purposes (for example to inform you of promotional/competition offers, or to send you our brochure). 
+We would like to hold your information (including any email address), where collected by us, for our own future marketing purposes (for example to inform you of promotional/competition offers, to help recognise and service a potential booking on our website or to send you our brochure). 
 
-If you have given us, the Virgin Holidays family, your consent, from time to time we may contact you by post, phone, e-mail or electronic messaging services with information about products and services (including discounts and special offers) we think will be of interest to you. 
+If you have given us, the Virgin Holidays Group, your consent, from time to time we may contact you by post, phone, e-mail or electronic messaging services with information about products and services (including discounts and special offers) we think will be of interest to you. We may also use your email address to keep you up to date about special offers and promotions via social media.
 
-We may also send you such information about other companies' products and services (such as other members of the Virgin Holidays Family or other Virgin companies), that may be of interest to you. Because we understand the importance of looking after your information, when this happens, we remain in control of your information and so it does NOT involve giving any other company access to your data.
-
-We will NOT share your information with companies outside the Virgin Holidays family as a result of giving your details to us.
+We may also send you such information about other companies' products and services (such as other members of the Virgin Holidays Family or other Virgin companies), that may be of interest to you. We may disclose your information to third parties, like data processing companies, who may provide marketing services on our behalf. You will not be directly contacted by third parties as a result of giving us your details.
 
 If you want to **change the consents** you have given to the Virgin Holidays family, you can do this at any time by contacting us directly at either of the following:
 
@@ -37,7 +37,7 @@ Whichever way you contact us, Please provide the following information:
 
 
 
-We will endeavour to update your record as soon as we possibly can. Of course, if you tell us that you do not wish to receive marketing, you may still receive communications confirming and servicing any bookings you make with us. 
+We will endeavour to update your record as soon as we possibly can. Of course, if you tell us that you do not wish to receive marketing, you may still receive transactional and service based communications confirming and servicing any bookings you make with us. 
 
 Where we do collect your personal information, it is stored in our secure databases at a secure address to prevent unauthorised access. Our systems are configured with data encryption or scrambling technologies and industry standard firewalls. When you send information to Virgin over the internet, your data is protected by secure socket layer technology to ensure safe transmission.
 
@@ -57,7 +57,7 @@ Worried about providing us with information on line?
 
 Here at Virgin Holidays, we are committed to protecting your privacy on line, as highly as we would with your customer information in any of our systems. 
 
-We will not share your personal information for marketing or any other purposes without your consent unless where required by law. We will always respect your privacy and any personal communication between you and ourselves. We will always comply with any data protection legislation currently in force. We collect general statistical information about visitors to our website for general reporting and to improve future content. 
+We will not share your personal information for marketing or any other purposes without your consent unless where required by law. We will always respect your privacy and any personal communication between you and ourselves. We will always comply with any data protection legislation currently in force. We collect information about visitors to our website for general reporting, to improve future content and to help recognise and service a potential booking. 
 
 By using our website, you consent to the collection and use of this information by virginholidays.com. If we change our privacy policy we will inform you by posting these changes on this page. 
 
@@ -68,7 +68,7 @@ We ask for information about you in 4 areas of our website.
   1. **When making an on line booking**  
 Here the information we will ask you for includes your name, contact details such as phone and e mail, Frequent Virgin Club Details if applicable, and credit card details. We need all this information to process a booking for you and in order to be able to contact you if we need more information or if there are any changes to our programme. This information will not be given to any third party, except to the extent and for the purpose we may be required to do so by any law.
   2. **When requesting a brochure online**  
-We need your name and address so we can send you the brochure. If you have given your consent, you may be contacted with relevant promotions, offers or information that you have expressed an interest in or that might be of interest to you. With Virginholidays.com YOU are always in control of your personal information, if at any time you wish us to stop contacting you then simply email us at [updatecustomerdetails@virginholidays.com](mailto:updatecustomerdetails@virginholidays.com)
+We need your name, email and postal address so we can send you the brochure. If you have given your consent, you may be contacted with relevant promotions, offers or information that you have expressed an interest in or that might be of interest to you. With Virginholidays.com YOU are always in control of your personal information, if at any time you wish us to stop contacting you then simply email us at [updatecustomerdetails@virginholidays.com](mailto:updatecustomerdetails@virginholidays.com)
   3. **When signing up for e-mail updates**  
 This information will not be given to any third party, except to the extent and for the purpose we may be required to do so by any law. With Virginholidays.com YOU are always in control of your personal information, if at any time you wish us to stop contacting you then simply email us at [updatecustomerdetails@virginholidays.com](mailto:updatecustomerdetails@virginholidays.com)
   4. **When applying for a job using the online application form**  
