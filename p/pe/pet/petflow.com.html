@@ -1,51 +1,14 @@
-<!--The following is the downloaded HTML source of the petflow.com privacy policy that was archived on 2013-12-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131209060518id_/http%3A//www.petflow.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the petflow.com privacy policy that was archived on 2014-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140629080912id_/http%3A//www.petflow.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US"><head>
+    <!-- MOBIFY - DO NOT ALTER - PASTE IMMEDIATELY AFTER OPENING HEAD TAG -->
+<script type="text/javascript">/*<![CDATA[*/(function(e,f){function h(a){if(a.mode){var b=g("mobify-mode");b&&a[b]||(b=a.mode(c.ua));return a[b]}return a}function m(){function a(a){e.addEventListener(a,function(){c[a]=+new Date},!1)}e.addEventListener&&(a("DOMContentLoaded"),a("load"))}function n(){var a=new Date;a.setTime(a.getTime()+3E5);f.cookie="mobify-path=; expires="+a.toGMTString()+"; path=/";e.location.reload()}function p(){k({src:"https://preview.mobify.com/v7/"})}function g(a){if(a=f.cookie.match(RegExp("(^|; )"+a+"((=([^;]*))|(; |$))")))return a[4]||""}function l(a){f.write('<plaintext style="display:none">');setTimeout(function(){d.capturing=!0;a()},0)}function k(a,b){var e=f.getElementsByTagName("script")[0],c=f.createElement("script"),d;for(d in a)c[d]=a[d];b&&c.setAttribute("class",b);e.parentNode.insertBefore(c,e)}var d=e.Mobify={},c=d.Tag={};d.points=[+new Date];d.tagVersion=[7,0];c.ua=e.navigator.userAgent;c.getOptions=h;c.init=function(a){c.options=a;if(""!==g("mobify-path"))if(m(),a.skipPreview||"true"!=g("mobify-path")&&!/mobify-path=true/.test(e.location.hash)){var b=h(a);if(b){var d=function(){b.post&&b.post()};a=function(){b.pre&&b.pre();k({id:"mobify-js",src:b.url,onerror:n,onload:d},"mobify")};!1===b.capture?a():l(a)}}else l(p)}})(window,document);(function(){var o="//cdn.mobify.com/sites/petflow-smartphone/production/mobify.js";Mobify.Tag.init({mode:function(o){return/ip(hone|od)|android.*(mobile)|blackberry.*applewebkit|bb1\d.*mobile/i.test(o)?"enabled":"desktop"},enabled:{url:o},desktop:{capture:!1,url:"//a.mobify.com/petflow-smartphone/a.js"}})})();/*]]>*/</script>
+<!-- END MOBIFY -->
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
 
-
-  
-    <script type="text/javascript" async="" src="https://www.googlecommerce.com/trustedstores/gtmp_compiled.js"></script><script type="text/javascript" async="" src="https://djnf6e5yyirys.cloudfront.net/js/frndby.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
-    var _gaq = _gaq || [];
-    _gaq.push(['_setAccount', 'UA-11683782-1']);
-    _gaq.push(['_trackPageview']);
-
-    (function() {
-      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-    })();
-  </script>
-  
-    <script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-11683782-1');  // Replace with your property ID.
-
-  
-  ga('send', 'pageview');
-
-  </script>
-  
-        <script type="text/javascript">
-              var _frnd = {
-            site: 'site-82cf2017-petflow.com',
-            page: 'All'
-        };
-      
-      (function(d, l, s) {
-          var a, b = d.getElementsByTagName(s)[0];
-          a = d.createElement(s);a.type = 'text/javascript';a.async = true;
-          a.src = l.protocol + '//djnf6e5yyirys.cloudfront.net/js/frndby.js';
-          b.parentNode.insertBefore(a, b);
-      })(document, location, 'script');
-    </script>
-  
+    
             
-
   <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
   <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/handlebars.js/1.0.rc.2/handlebars.min.js"></script>
   <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/mustache.js/0.7.2/mustache.min.js"></script>
@@ -55,6 +18,7 @@
 var intervals = { }
 var events    = { }
 var hash      = null
+var delay_alert_ms = 0; // how long to delay loading of alerts
 
 // we need to build a prototype function to handle currency
 // format
@@ -63,37 +27,11 @@ String.prototype.money = function() {
 	return parseFloat(this).toFixed(2)
 }
 
-
-// Retrieve user summary data
-$.get('/alert', function(alerts) {
-
-	// define custom event to fire 
-	//$(window).bind('alert', function(event) {
-	events['alert'] = function(event) { 
-		// clear event check interval
-		if (alerts) { 		
-		  template = Handlebars.compile($('script#user-alert-messages').html())
-		  
-		  $('div.messages').html(content = template({
-		    'alerts' : alerts
-		  }))
-
-		  // after alerts have been shown toss em into the drink
-		  $.post('/alert/delete');
-		
-		}
-	}
-
-	events['transition-end'] = function(event) {
-		$.get('/transition/end');
-	}
-
-}, 'json' )
-
-.fail(function()   { })
-.always(function() { })
-
-
+if(navigator.userAgent.toLowerCase().indexOf('firefox') > -1)
+{
+     // in firefox, we need to delay the loading of alerts.  seems they dont get populated for a few seconds in some instances
+     delay_alert_ms = 6500; 
+}
 
 // Responsible for firing event once event type has
 // been bound; for right now, this is simply doing a
@@ -124,29 +62,70 @@ function fire_when_ready(event, lambda) {
 
 </script>    
   <meta charset="UTF-8">
-  
-  <title>Petflow | Privacy Policy
-</title>
+  <script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Vg8BWFZSGwABVFFbDwY="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+  <title>
+      PetFlow | Privacy Policy
+  </title>
+
   <link rel="shortcut icon" href="/favicon.ico">
+
       <meta name="description" content="We carry hundreds of quality pet food brands for dogs and cats!  No matter what food or treat you're looking for, we've got you covered!">
   
           
-    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Open+Sans:400,800">
+    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Open+Sans:400,700,800">
     <link rel="stylesheet" type="text/css" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.9.0/themes/base/jquery-ui.css">
     <link href="//cdnjs.cloudflare.com/ajax/libs/humane-js/3.0.6/themes/jackedup.css" rel="stylesheet" type="text/css">
   
   
-  <link href="/css/application_2ae283951db8a0bc2408d4951c999a96_asdf.css" media="all" rel="stylesheet" type="text/css">
-<link href="/css/pages/privacy_asdf.css" media="all" rel="stylesheet" type="text/css">
+  <link href="/css/application_2ae283951db8a0bc2408d4951c999a96_1403812924.css" media="all" rel="stylesheet" type="text/css">
+<link href="/css/pages/privacy_1403812924.css" media="all" rel="stylesheet" type="text/css">
 
-<script src="https://bounceexchange.com/bounce/i.js?client_id=590" async=""></script></head>
+  </head>
 <body>
-  <div id="page-vars" data-rwbase="http://www.petflow.com/" data-page-type="" data-page-title="" data-cart-id="13276610" data-items=""></div>
+
+        <script type="text/javascript">
+        var utag_data = {}
+        function buildTealiumObject(user_email){
+	    var page_title = '';
+	    switch (document.location.pathname) {
+		case '/':
+		    page_title = 'home';
+		    break;
+		case '/autoship':
+		    page_title = 'autoship';
+		    break;
+		case '/about-us':
+		    page_title = 'about';
+		    break;
+		case '/refer-a-friend':
+		    page_title = 'referafriend';
+		    break;
+		default:
+		    page_title = "";
+		    break;
+	    }
+	    
+            utag_data = {
+                page_name : document.title,
+                page_type : page_title,
+                customer_email: user_email || ''
+                            };
+	                initTealium();
+        }
+        function initTealium(a,b,c,d){
+            a='//tags.tiqcdn.com/utag/petflow/main/prod/utag.js';
+            b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true;
+            a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);
+        }
+    </script>
+    
+  <div id="page-vars" data-rwbase="http://www.petflow.com/" data-saving="" data-edit-program-mode="" data-edit-program-type="" data-order-id="" data-user-id="0" data-program-id="" data-page-type="" data-page-title="" data-cart-id="29747941" data-items=""></div>
+  <input type="hidden" id="is_recurring_customer" value="">
+
     
     
    
-            
-                <div class="top-bar">
+    <div class="top-bar">
     <div class="container">
     <div class="contact">
       <i class="icon-comment"></i> <strong><a href="/support" class="top-bar-need-help" target="_blank">Need Help?</a></strong> | <a href="/refer-a-friend" class="top-tell-a-friend" target="_blank">Tell a friend and get $10!</a>
@@ -155,22 +134,19 @@ function fire_when_ready(event, lambda) {
       <div class="arrow-up"></div>
       <div class="pop-title"></div>
       <div class="pop-content">
-                  <p class="center">Our phone lines are closed at the moment.</p>
-          <p class="center">
-            <a href="/support" target="_blank"><span class="pop-click-here">Click here</span> for support or to email us.</a>
-          </p>
-              </div>
+                <p>
+          <a href="/support" target="_blank"><span class="pop-click-here">Click for help</span> or call <span class="pop-phone">1-888-316-7297</span></a>
+        </p>
+        <p class="pop-hours">We are available 24/7!</p>
+      </div>
     </div>
     <div class="sub-menu user-menu" id="sub_menu_user">
-      <ul>
-
-                  <li><a href="/user/login" title="" id="_user_login" class="">Login</a></li>
-        
+      <ul id="user-top-bar-options">
         <li class="top-my-cart">
           <i class="icon-shopping-cart"></i>
           <strong>
             <a href="/checkout" title="" id="_checkout" class="top-checkout-link">Cart &amp; Checkout 
-                                                      </a>
+                          </a>
           </strong>
         </li>
 
@@ -192,50 +168,7 @@ function fire_when_ready(event, lambda) {
       <div class="break"></div>
     </div>
   </div>
-</div>
-
-<script type="text/javascript">
-  function do_criteo(user_id, cart_items){
-    var criteo_q = window.criteo_q || [];
-
-    // Cart items should be in this format - 
-    /*
-    [
-      {
-        id: "",
-        price:,
-        quantity:
-      },
-      {
-        id: "",
-        price:,
-        quantity:
-      }
-    ]
-    */
-    if ( cart_items.length != 0 ) {
-      if ( user_id != 0 && user_id != '' ) {
-
-        criteo_q.push(
-          {event: "setAccount", account:6349},
-          {event: "setCustomerId", id: user_id},
-          {event: "setSiteType", type:"d"},
-          {event: "viewBasket", product: cart_items}
-        );
-
-      } else {
-
-        criteo_q.push(
-          {event: "setAccount", account:6349},
-          {event: "setSiteType", type:"d"},
-          {event: "viewBasket", product: cart_items}
-        );
-
-      }
-    }
-  }
-</script>
-  
+</div>  
     <div class="overlay" data-type=""></div>
 
         <div id="shipping_modal" class="corner-8 hide sh-pop-box-shadow">
@@ -328,6 +261,141 @@ function fire_when_ready(event, lambda) {
 	<div class="friendbuy-close">×</div>
 	<div id="friendbuy_widget"></div>
 
+</div>    <div class="program-save-message-wrapper wrapper-message noshow">
+  <div class="loading-message">
+    <span><strong>Note:</strong> Please wait while we update your order(s), this could take a few minutes!</span>
+    <div class="loading-dots">
+      <div id="dancing-dots-text">
+        <span><span><i class="icon-circle"></i></span><span><i class="icon-circle"></i></span><span><i class="icon-circle"></i></span></span> 
+      </div>
+    </div>
+  </div>
+</div>    <div class="browser-modal-wrapper" id="browser_modal">
+	<div class="browser-close">×</div>
+	<div class="browser-modal-inner">
+
+		<div class="browser-header">Oh no! Your browser is out of date...</div>
+
+		<div class="browser-section-header">
+			<p>To get the best possible experience using our website, we recommend that you update your browser to the latest available version, or download a different browser.  Don't let your pets go hungry!   Update your browsing experience using one of the links listed below.</p>
+			<p>Just click on one of the browsers to get to the downloads page</p>
+		</div>
+
+		<div class="browser-section">
+			<div class="browser-wrapper">
+
+				<a class="browser" href="https://www.google.com/intl/en/chrome/browser/" target="_blank">
+					<img src="/images/modals/browser/chrome_64x64.png" alt="Google Chrome">
+					<p>Google Chrome</p>
+				</a>
+				<a class="browser" href="http://www.mozilla.org/en-US/firefox/new/" target="_blank">
+					<img src="/images/modals/browser/firefox_64x64.png" alt="Mozilla Firefox">
+					<p>Mozilla Firefox</p>
+				</a>
+				<a class="browser" href="http://support.apple.com/downloads/#safari" target="_blank">
+					<img src="/images/modals/browser/safari_64x64.png" alt="Safari">
+					<p class="oneline">Safari</p>
+				</a>
+				<a class="browser" href="http://www.opera.com/computer/mac" target="_blank">
+					<img src="/images/modals/browser/opera_64x64.png" alt="Opera">
+					<p class="oneline">Opera</p>
+				</a>
+				<a class="browser" href="http://windows.microsoft.com/en-us/internet-explorer/download-ie" target="_blank">
+					<img src="/images/modals/browser/internet-explorer_64x64.png" alt="Internet Explorer">
+					<p>Internet Explorer</p>
+				</a>
+
+			</div>
+		</div>
+
+	</div>
+</div>    <div id="edit_products_modal" data-user-id="" data-program-id="">
+	<div class="edit-products-modal-content">
+		<div class="edit-products-close">×</div>
+		<div class="edit-products-content">
+						<div class="middle">
+				<h2>What Would You Like to Change?</h2>
+				<div class="bottom">
+					<a class="next-order" href="#" id="edit_next_order">
+						<span class="inner">Just Change My <span class="colored">Next Order</span></span>
+					</a>
+					<a class="all-orders" href="#" id="edit_full_program">
+						<span class="inner">Change <span class="colored">All The Orders</span> In This Program</span>
+					</a>
+				</div>
+								<div class="image-wrapper">
+					<img src="/images/modals/checkout/new_dog_and_cat.png" alt="">
+				</div>
+			</div>
+						<div class="bottom-right">
+				<a href="#" class="cancel-nevermind-edit">Cancel, Nevermind</a>
+			</div>
+			<div class="clear"></div>
+		</div>
+	</div>
+</div>    <div id="add_edit_products_modal">
+	<div class="add-edit-products-modal-content">
+		<div class="add-edit-products-close">×</div>
+		<div class="add-edit-products-content">
+						<div class="middle">
+				<h2>What Changes Would You Like to Make?</h2>
+				<div class="bottom">
+					<a class="add-products" href="/user//programs//edit_program" id="add_new_products">
+						<span class="inner">Add Different Products</span>
+					</a>
+					<a class="remove-products" href="#" id="remove_existing_products">
+						<span class="inner">Change Quantities or Remove Products</span>
+					</a>
+				</div>
+				<div class="image-wrapper">
+					<img src="/images/modals/checkout/new_dog_and_cat.png" alt="">
+				</div>
+			</div>
+						<div class="clear"></div>
+			<div class="bottom-right">
+				<a href="#" class="cancel-nevermind-add-edit">Cancel, Nevermind</a>
+			</div>
+		</div>
+		<div id="add_edit_content_loading">
+			<i class="icon-spin icon-refresh"></i>
+		</div>
+	</div>
+</div>    <div id="checkout_modal" data-program-id="" data-order-id="" data-mode="">
+	<input type="hidden" id="edit_contents" value="">
+	<div class="checkout-modal-content">
+		<div class="checkout-close">×</div>
+		<div class="checkout-content" id="checkout_content_modal">
+			<h2>Please Review and Save Any Changes!</h2>
+			<div class="top-loading">
+				<i class="icon-spin icon-refresh"></i>
+			</div>
+			<div class="middle">
+				<div class="shipments-wrapper">
+					<table class="table-bordered">
+						<tbody id="shipments_list"></tbody>
+					</table>
+					<div class="blocker"></div>
+				</div>
+			</div>
+			<div class="bottom-left">
+				<a href="#" class="go-back-checkout"><i class="icon-trash"></i> CANCEL CHANGES</a>
+				<a href="#" class="save-checkout"><i class="icon-check"></i> YES, SAVE MY CHANGES</a>
+			</div>
+			<div class="bottom-left-need-more">
+				<a href="#" class="go-back-checkout"><i class="icon-trash"></i> CANCEL CHANGES</a>
+				<div class="explanation">Almost there! You need at least $15 worth of products to proceed.</div>
+				<div class="clear"></div>
+			</div>
+			<div class="bottom">
+				<div class="totals" id="totals_display"></div>
+				<div class="clear"></div>
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div id="checkout_content_loading">
+			<i class="icon-spin icon-refresh"></i>
+		</div>
+	</div>
 </div>  
     <div class="container main-box">
 
@@ -337,302 +405,525 @@ function fire_when_ready(event, lambda) {
   </a>
 
           <form action="http://www.petflow.com/explorer">
-      <input id="search_box" type="text" name="search" class="search" placeholder="Food, Treats, Toys, etc.">
+            <input id="search_box" type="text" name="search" class="search">
       <a href="http://www.petflow.com/" title="" id="http:__www.petflow.com_" class="search-btn"><i class="icon-search"></i> Search</a>
     </form>
   
-    <div class="header-top-right-promo" data-category="Hills Pet" data-label="hills-header" data-impression="hills-header-impression" data-click="hills-header-click">
-    <a href="/explorer/brand/science-diet" target="_blank">
-                  <div alt="Free FAST Shipping" class="hills-free-shipping"></div>
+      <div class="header-top-right-promo" data-category="Natural Balance" data-label="natural-balance-header" data-impression="natural-balance-header-impression" data-click="natural-balance-header-click">
+    <a href="/explorer/brand/natural-balance" target="_blank">
+      <img src="/images/ads/naturalBalanceFreeShipping.png">
     </a>
   </div>
 </div>
 <div class="main-nav">
-    <div class="container">
-    <ul>
-      <li class="top-level" data-name="top-level-dog-food">
-        <a href="http://www.petflow.com/explorer?f[]=animal:dog&amp;f[]=category:food" title="" id="http:__www.petflow.com_explorer?f[]=animal:dog&amp;f[]=category:food" class="top-level">Dog Food</a>
-        <div class="sub-menu">
-  <div class="col">
-    <h4>Top Categories</h4>
-    <ul>
-            <li><a href="http://www.petflow.com/explorer?f[]=category:dry+food&amp;f[]=animal:dog" title="" id="_explorer?f[]=category:dry+food&amp;f[]=animal:dog" class="">Dry Food</a></li>
-      <li><a href="http://www.petflow.com/explorer?f[]=category:canned+food&amp;f[]=animal:dog" title="" id="_explorer?f[]=category:canned+food&amp;f[]=animal:dog" class="">Canned Food</a></li>
-            <li><a href="http://www.petflow.com/explorer?f[]=category:supplements&amp;f[]=animal:dog" title="" id="_explorer?f[]=category:supplements&amp;f[]=animal:dog" class="">Supplements</a></li>
-            <li><a href="http://www.petflow.com/explorer?f[]=lifestyle:prescription&amp;f[]=animal:dog" title="" id="_explorer?f[]=lifestyle:prescription&amp;f[]=animal:dog" class="">Prescription</a></li>
-    </ul>
-  </div>
-  <div class="col">
-    <h4>Top Brands</h4>
-    <ul>
-            <li><a href="http://www.petflow.com/explorer?f[]=brand:blue+buffalo&amp;f[]=category:food&amp;f[]=animal:dog" title="" id="_explorer?f[]=brand:blue+buffalo&amp;f[]=category:food&amp;f[]=animal:dog" class="">Blue Buffalo</a></li>
-      <li><a href="http://www.petflow.com/explorer?f[]=brand:merrick&amp;f[]=category:food&amp;f[]=animal:dog" title="" id="_explorer?f[]=brand:merrick&amp;f[]=category:food&amp;f[]=animal:dog" class="">Merrick</a></li>
-      <li><a href="http://www.petflow.com/explorer?f[]=brand:taste+of+the+wild&amp;f[]=category:food&amp;f[]=animal:dog" title="" id="_explorer?f[]=brand:taste+of+the+wild&amp;f[]=category:food&amp;f[]=animal:dog" class="">Taste Of The Wild</a></li>
-      <li><a href="http://www.petflow.com/explorer?f[]=brand:wellness&amp;f[]=category:food&amp;f[]=animal:dog" title="" id="_explorer?f[]=brand:wellness&amp;f[]=category:food&amp;f[]=animal:dog" class="">Wellness</a></li>
-      <li><a href="http://www.petflow.com/explorer?f[]=brand:natural+balance&amp;f[]=category:food&amp;f[]=animal:dog" title="" id="_explorer?f[]=brand:natural+balance&amp;f[]=category:food&amp;f[]=animal:dog" class="">Natural Balance</a></li>
-      <li><a href="http://www.petflow.com/explorer?f[]=brand:fromm&amp;f[]=category:food&amp;f[]=animal:dog" title="" id="_explorer?f[]=brand:fromm&amp;f[]=category:food&amp;f[]=animal:dog" class="">Fromm</a></li>
-      <li><a href="http://www.petflow.com/explorer?f[]=brand:royal+canin+veterinary+diet&amp;f[]=category:food&amp;f[]=animal:dog" title="" id="_explorer?f[]=brand:royal+canin+veterinary+diet&amp;f[]=category:food&amp;f[]=animal:dog" class="">Royal Canin Veterinary Diet</a></li>
-      <li><a href="http://www.petflow.com/explorer?f[]=brand:canidae&amp;f[]=category:food&amp;f[]=animal:dog" title="" id="_explorer?f[]=brand:canidae&amp;f[]=category:food&amp;f[]=animal:dog" class="">Canidae</a></li>
-    </ul>
-  </div>
-  <div class="col last-col">
-    <h4>Featured Product</h4>
-    <div class="sub-menu-ad dog-food-promo" data-category="Hills Pet" data-label="hills-dog-food-featured" data-impression="hills-dog-food-featured-impression" data-click="hills-dog-food-featured-click">
-            <a href="/explorer/brand/science-diet" target="_blank">
-        <img src="/images/ads/hillsFeaturedSpotPlacement.jpg" alt="">
-      </a>
-    </div>
-    <a href="http://www.petflow.com/explorer?f[]=animal:dog&amp;f[]=category:food" title="" id="http:__www.petflow.com_explorer?f[]=animal:dog&amp;f[]=category:food" class="shop-btn">Shop all dog food<i class="icon-caret-right"></i></a>
-  </div>
-</div>      </li>
-      <li class="top-level" data-name="top-level-cat-food">
-        <a href="http://www.petflow.com/explorer?f[]=animal:cat&amp;f[]=category:food" title="" id="http:__www.petflow.com_explorer?f[]=animal:cat&amp;f[]=category:food" class="top-level">Cat Food</a>
-        <div class="sub-menu">
-  <div class="col">
-    <h4>Top Categories</h4>
-    <ul>
-            <li><a href="http://www.petflow.com/explorer?f[]=category:dry+food&amp;f[]=animal:cat" title="" id="_explorer?f[]=category:dry+food&amp;f[]=animal:cat" class="">Dry Food</a></li>
-      <li><a href="http://www.petflow.com/explorer?f[]=category:canned+food&amp;f[]=animal:cat" title="" id="_explorer?f[]=category:canned+food&amp;f[]=animal:cat" class="">Canned Food</a></li>
-      <li><a href="http://www.petflow.com/explorer?f[]=category:vitamins&amp;f[]=animal:cat" title="" id="_explorer?f[]=category:vitamins&amp;f[]=animal:cat" class="">Vitamins</a></li>
-      <li><a href="http://www.petflow.com/explorer?f[]=category:supplements&amp;f[]=animal:cat" title="" id="_explorer?f[]=category:supplements&amp;f[]=animal:cat" class="">Supplements</a></li>
-      <li><a href="http://www.petflow.com/explorer?f[]=lifestyle:prescription&amp;f[]=animal:cat" title="" id="_explorer?f[]=lifestyle:prescription&amp;f[]=animal:cat" class="">Prescription</a></li>
-    </ul>
-  </div>
-  <div class="col">
-    <h4>Top Brands</h4>
-    <ul>
-            <li><a href="http://www.petflow.com/explorer?f[]=brand:wellness&amp;f[]=category:food&amp;f[]=animal:cat" title="" id="_explorer?f[]=brand:wellness&amp;f[]=category:food&amp;f[]=animal:cat" class="">Wellness</a></li>
-      <li><a href="http://www.petflow.com/explorer?f[]=brand:royal+canin+veterinary+diet&amp;f[]=category:food&amp;f[]=animal:cat" title="" id="_explorer?f[]=brand:royal+canin+veterinary+diet&amp;f[]=category:food&amp;f[]=animal:cat" class="">Royal Canin Veterinary Diet</a></li>
-      <li><a href="http://www.petflow.com/explorer?f[]=brand:fancy+feast&amp;f[]=category:food&amp;f[]=animal:cat" title="" id="_explorer?f[]=brand:fancy+feast&amp;f[]=category:food&amp;f[]=animal:cat" class="">Fancy Feast</a></li>
-      <li><a href="http://www.petflow.com/explorer?f[]=brand:blue+buffalo&amp;f[]=category:food&amp;f[]=animal:cat" title="" id="_explorer?f[]=brand:blue+buffalo&amp;f[]=category:food&amp;f[]=animal:cat" class="">Blue Buffalo</a></li>
-      <li><a href="http://www.petflow.com/explorer?f[]=brand:evo&amp;f[]=category:food&amp;f[]=animal:cat" title="" id="_explorer?f[]=brand:evo&amp;f[]=category:food&amp;f[]=animal:cat" class="">EVO</a></li>
-      <li><a href="http://www.petflow.com/explorer?f[]=brand:friskies&amp;f[]=category:food&amp;f[]=animal:cat" title="" id="_explorer?f[]=brand:friskies&amp;f[]=category:food&amp;f[]=animal:cat" class="">Friskies</a></li>
-      <li><a href="http://www.petflow.com/explorer?f[]=brand:temptations&amp;f[]=category:food&amp;f[]=animal:cat" title="" id="_explorer?f[]=brand:temptations&amp;f[]=category:food&amp;f[]=animal:cat" class="">Temptations</a></li>
-      <li><a href="http://www.petflow.com/explorer?f[]=brand:weruva&amp;f[]=category:food&amp;f[]=animal:cat" title="" id="_explorer?f[]=brand:weruva&amp;f[]=category:food&amp;f[]=animal:cat" class="">Weruva</a></li>
-    </ul>
-  </div>
-  <div class="col last-col">
-    <h4>Featured Product</h4>
-    <div class="sub-menu-ad">
-            <div class="featured-cat-food" data-category="Royal Canin" data-label="RC-cat-food" data-impression="RC-cat-food-impression" data-click="RC-cat-food-click">
-        <a href="/explorer?f[]=category:food&amp;f[]=animal:cat&amp;f[]=brand:royal+canin" target="_blank">
-          <img src="/images/ads/RCFeaturedProduct2.jpg" alt="Royal Canin">
-        </a>
+  <div class="top-container">
+    <div class="inner-container">
+      <div class="left">
+        <div class="my-pet">Choose:</div>
+        <div data-nav="#dog_nav" class="selector dog-selector active">Dog</div>
+        <div data-nav="#cat_nav" class="selector cat-selector">Cat</div>
+        <div data-nav="#people_nav" class="selector people-selector">People</div>
+        <div class="clear"></div>
+      </div>
+      <div class="right">
+        <div class="sales-and-blowouts-selector">
+          <a href="/">
+            <i class="icon-star"></i> Sale &amp; Blowouts <i class="icon-star"></i>
+          </a>
+        </div>
+        <div class="split"></div>
+        <div class="rx-selector sub-menu-left">
+          <a href="/explorer?f[]=special+condition:prescription+food">
+            <img src="/images/explorer/rx_white2.png" alt="Rx">
+          </a>
+          <div class="sub-menu sub-menu-medium">
+              <div class="col">
+                <h4>Dog</h4>
+                <ul>
+                  <li><a href="/explorer?f[]=pet:dog&amp;f[]=special+condition:prescription+food">Prescription Food</a></li>
+                  <li><a href="/explorer?f[]=special+condition:medication&amp;f[]=pet:dog">Medication</a></li>
+                </ul>
+              </div>
+              <div class="col last-col">
+                <h4>Cat</h4>
+                <ul>
+                  <li><a href="/explorer?f[]=special+condition:prescription+food&amp;f[]=pet:cat">Prescription Food</a></li>
+                  <li><a href="/explorer?f[]=special+condition:medication&amp;f[]=pet:cat">Medication</a></li>
+                </ul>
+              </div>
+            </div>
+        </div>
+        <div class="clear"></div>
       </div>
     </div>
-    <a href="http://www.petflow.com/explorer?f[]=animal:cat&amp;f[]=category:food" title="" id="http:__www.petflow.com_explorer?f[]=animal:cat&amp;f[]=category:food" class="shop-btn">Shop all cat food<i class="icon-caret-right"></i></a>
+    <div class="clear"></div>
   </div>
-</div>      </li>
-      <li class="top-level" data-name="top-level-dog-treats">
-        <a href="http://www.petflow.com/explorer?f[]=animal:dog&amp;f[]=category:treats" title="" id="http:__www.petflow.com_explorer?f[]=animal:dog&amp;f[]=category:treats" class="top-level">Dog Treats</a>
-        <div class="sub-menu">
-  <div class="col">
-    <h4>Top Categories</h4>
-    <div class="top-treats">
-      <a href="/explorer?f[]=animal:dog&amp;f[]=category:treats">See All Treats <i class="icon-caret-right"></i></a>
+  <div class="container nav">
+    <ul id="dog_nav" class="navigation_tracking noshow">
+  <li class="top-level" data-name="top-level-dog-food" data-label="nav-dog-food" data-action="nav-dog-food-impression"><div class="cell-wrapper">
+    <div class="tile-wrapper">
+      <a href="/explorer?f[]=pet:dog&amp;f[]=category:food" class="top-level">Food</a>
     </div>
-    <ul>
-            <li><a href="http://www.petflow.com/explorer?search=dental&amp;f[]=category:treats&amp;f[]=animal:dog" title="" id="_explorer?search=dental&amp;f[]=category:treats&amp;f[]=animal:dog" class="">Dental</a></li>
-      <li><a href="http://www.petflow.com/explorer?search=jerky&amp;f[]=category:treats&amp;f[]=animal:dog" title="" id="_explorer?search=jerky&amp;f[]=category:treats&amp;f[]=animal:dog" class="">Jerky</a></li>
-      <li><a href="http://www.petflow.com/explorer?f[]=conditions:crunchy&amp;f[]=category:treats&amp;f[]=animal:dog" title="" id="_explorer?f[]=conditions:crunchy&amp;f[]=category:treats&amp;f[]=animal:dog" class="">Crunchy</a></li>
-      <li><a href="http://www.petflow.com/explorer?search=freeze+dried&amp;f[]=category:treats&amp;f[]=animal:dog" title="" id="_explorer?search=freeze+dried&amp;f[]=category:treats&amp;f[]=animal:dog" class="">Freeze Dried</a></li>
-      <li><a href="http://www.petflow.com/explorer?search=soft+%26+chewy&amp;f[]=category:treats&amp;f[]=animal:dog" title="" id="_explorer?search=soft+%26+chewy&amp;f[]=category:treats&amp;f[]=animal:dog" class="">Soft &amp; Chewy</a></li>
-    </ul>
-  </div>
-  <div class="col">
-    <h4>Top Brands</h4>
-    <ul>
-            <li><a href="http://www.petflow.com/explorer?f[]=brand:merrick&amp;f[]=category:treats&amp;f[]=animal:dog" title="" id="_explorer?f[]=brand:merrick&amp;f[]=category:treats&amp;f[]=animal:dog" class="">Merrick</a></li>
-      <li><a href="http://www.petflow.com/explorer?f[]=brand:blue+buffalo&amp;f[]=category:treats&amp;f[]=animal:dog" title="" id="_explorer?f[]=brand:blue+buffalo&amp;f[]=category:treats&amp;f[]=animal:dog" class="">Blue Buffalo</a></li>
-      <li><a href="http://www.petflow.com/explorer?f[]=brand:cadet&amp;f[]=category:treats&amp;f[]=animal:dog" title="" id="_explorer?f[]=brand:cadet&amp;f[]=category:treats&amp;f[]=animal:dog" class="">Cadet</a></li>
-      <li><a href="http://www.petflow.com/explorer?f[]=brand:dogswell&amp;f[]=category:treats&amp;f[]=animal:dog" title="" id="_explorer?f[]=brand:dogswell&amp;f[]=category:treats&amp;f[]=animal:dog" class="">Dogswell</a></li>
-      <li><a href="http://www.petflow.com/explorer?f[]=brand:natural+balance&amp;f[]=category:treats&amp;f[]=animal:dog" title="" id="_explorer?f[]=brand:natural+balance&amp;f[]=category:treats&amp;f[]=animal:dog" class="">Natural Balance</a></li>
-      <li><a href="http://www.petflow.com/explorer?f[]=brand:zukes&amp;f[]=category:treats&amp;f[]=animal:dog" title="" id="_explorer?f[]=brand:zukes&amp;f[]=category:treats&amp;f[]=animal:dog" class="">Zukes</a></li>
-      <li><a href="http://www.petflow.com/explorer?f[]=brand:pet+time&amp;f[]=category:treats&amp;f[]=animal:dog" title="" id="_explorer?f[]=brand:pet+time&amp;f[]=category:treats&amp;f[]=animal:dog" class="">Pet Time</a></li>
-      <li><a href="http://www.petflow.com/explorer?f[]=brand:greenies&amp;f[]=category:treats&amp;f[]=animal:dog" title="" id="_explorer?f[]=brand:greenies&amp;f[]=category:treats&amp;f[]=animal:dog" class="">Greenies</a></li>
-    </ul>
-  </div>
-  <div class="col last-col">
-    <h4>Featured Product</h4>
-    <div class="sub-menu-ad">
-            <div class="featured-dog-treats" data-category="Royal Canin" data-label="RC-dog-treats" data-impression="RC-dog-treats-impression" data-click="RC-dog-treats-click">
-        <a href="/explorer?f[]=category:food&amp;f[]=brand:royal+canin&amp;f[]=animal:dog" target="_blank">
-          <img src="/images/ads/RCFeaturedProduct1.jpg" alt="Royal Canin">
-        </a>
+    <div class="sub-menu">
+      <div class="col">
+        <h4>Top Categories</h4>
+        <ul>
+          <li><a href="/explorer?f[]=subcategory:dry+food&amp;f[]=pet:dog">Dry Food</a></li>
+          <li><a href="/explorer?f[]=subcategory:wet+food&amp;f[]=pet:dog">Wet Food</a></li>
+          <li><a href="/explorer?f[]=type:food+roll&amp;f[]=pet:dog">Food Rolls</a></li>
+          <li><a href="/explorer?f[]=type:toppings&amp;f[]=pet:dog">Food Toppings</a></li>
+          <li><a href="/explorer?f[]=special+condition:prescription+food&amp;f[]=pet:dog">Prescription</a></li>
+        </ul>
+      </div>
+      <div class="col">
+        <h4>Top Brands</h4>
+        <ul>
+          <li><a href="/explorer?f[]=brand:blue+buffalo&amp;f[]=category:food&amp;f[]=pet:dog">Blue Buffalo</a></li>
+          <li><a href="/explorer?f[]=brand:merrick&amp;f[]=category:food&amp;f[]=pet:dog">Merrick</a></li>
+          <li><a href="/explorer?f[]=brand:taste+of+the+wild&amp;f[]=category:food&amp;f[]=pet:dog">Taste Of The Wild</a></li>
+          <li><a href="/explorer?f[]=brand:wellness&amp;f[]=category:food&amp;f[]=pet:dog">Wellness</a></li>
+          <li><a href="/explorer?f[]=brand:natural+balance&amp;f[]=category:food&amp;f[]=pet:dog">Natural Balance</a></li>
+          <li><a href="/explorer?f[]=brand:fromm&amp;f[]=category:food&amp;f[]=pet:dog">Fromm</a></li>
+          <li><a href="/explorer?f[]=brand:royal+canin+veterinary+diet&amp;f[]=category:food&amp;f[]=pet:dog">Royal Canin Veterinary Diet</a></li>
+          <li><a href="/explorer?f[]=brand:canidae&amp;f[]=category:food&amp;f[]=pet:dog">Canidae</a></li>
+        </ul>
+      </div>
+      <div class="col last-col">
+        <h4>Featured Brand</h4>
+        <div class="sub-menu-ad trackable-ad-no-impression" data-category="Natures Recipe" data-label="natures-recipe-dog-food-featured" data-impression="natures-recipe-dog-food-featured-impression" data-click="natures-recipe-dog-food-featured-click">
+          <a href="/explorer?search=nature%27s+recipe+pure+essentials" target="_blank">
+            <img src="/images/ads/naturesRecipeDogFoodFeatured.jpg" alt="">
+          </a>
+        </div>
+        <a href="/explorer?f[]=pet:dog&amp;f[]=category:food" class="shop-btn">Shop all dog food <i class="icon-caret-right"></i></a>
       </div>
     </div>
-    <a href="http://www.petflow.com/explorer?f[]=animal:dog&amp;f[]=category:treats" title="" id="http:__www.petflow.com_explorer?f[]=animal:dog&amp;f[]=category:treats" class="shop-btn">Shop all dog treats <i class="icon-caret-right"></i></a>
-  </div>
-</div>      </li>
-      <li class="top-level" data-name="top-level-cat-treats">
-        <a href="http://www.petflow.com/explorer?f[]=animal:cat&amp;f[]=category:treats" title="" id="http:__www.petflow.com_explorer?f[]=animal:cat&amp;f[]=category:treats" class="top-level">Cat Treats</a>
-        <div class="sub-menu">
-  <div class="col">
-    <h4>Top Categories</h4>
-    <div class="top-treats">
-      <a href="/explorer?f[]=animal:cat&amp;f[]=category:treats">See All Treats <i class="icon-caret-right"></i></a>
+  </div></li>
+  <li class="top-level" data-name="top-level-dog-treats" data-label="nav-dog-treats" data-action="nav-dog-treats-impression"><div class="cell-wrapper">
+    <div class="tile-wrapper">
+      <a href="/explorer?f[]=pet:dog&amp;f[]=category:treats" class="top-level">Treats</a>
     </div>
-    <ul>
-            <li><a href="http://www.petflow.com/explorer?search=catnip" title="" id="_explorer?search=catnip&amp;f[]=category:Catnip&amp;f[]=animal:cat" class="">Catnip</a></li>
-      <li><a href="http://www.petflow.com/explorer?search=crunchy&amp;f[]=category:treats&amp;f[]=animal:cat" title="" id="_explorer?search=crunchy&amp;f[]=category:treats&amp;f[]=animal:cat" class="">Crunchy</a></li>
-      <li><a href="http://www.petflow.com/explorer?search=dental&amp;f[]=category:treats&amp;f[]=animal:cat" title="" id="_explorer?search=dental&amp;f[]=category:treats&amp;f[]=animal:cat" class="">Dental</a></li>
-      <li><a href="http://www.petflow.com/explorer?search=freeze+dried&amp;f[]=category:treats&amp;f[]=animal:cat" title="" id="_explorer?search=freeze+dried&amp;f[]=category:treats&amp;f[]=animal:cat" class="">Freeze Dried</a></li>
-      <li><a href="http://www.petflow.com/explorer?search=jerky&amp;f[]=category:treats&amp;f[]=animal:cat" title="" id="_explorer?search=jerky&amp;f[]=category:treats&amp;f[]=animal:cat" class="">Jerky</a></li>
-      <li><a href="http://www.petflow.com/explorer?search=soft+%26+chewy&amp;f[]=category:treats&amp;f[]=animal:cat" title="" id="_explorer?search=soft+%26+chewy&amp;f[]=category:treats&amp;f[]=animal:cat" class="">Soft &amp; Chewy</a></li>
-    </ul>
-  </div>
-  <div class="col">
-    <h4>Top Brands</h4>
-    <ul>
-            <li><a href="http://www.petflow.com/explorer?f[]=brand:temptations&amp;f[]=category:treats&amp;f[]=animal:cat" title="" id="_explorer?f[]=brand:temptations&amp;f[]=category:treats&amp;f[]=animal:cat" class="">Temptations</a></li>
-      <li><a href="http://www.petflow.com/explorer?f[]=brand:evo&amp;f[]=category:treats&amp;f[]=animal:cat" title="" id="_explorer?f[]=brand:evo&amp;f[]=category:treats&amp;f[]=animal:cat" class="">EVO</a></li>
-      <li><a href="http://www.petflow.com/explorer?f[]=brand:greenies&amp;f[]=category:treats&amp;f[]=animal:cat" title="" id="_explorer?f[]=brand:greenies&amp;f[]=category:treats&amp;f[]=animal:cat" class="">Greenies</a></li>
-      <li><a href="http://www.petflow.com/explorer?f[]=brand:catswell&amp;f[]=category:treats&amp;f[]=animal:cat" title="" id="_explorer?f[]=brand:catswell&amp;f[]=category:treats&amp;f[]=animal:cat" class="">Catswell</a></li>
-      <li><a href="http://www.petflow.com/explorer?f[]=brand:pill+pockets&amp;f[]=category:treats&amp;f[]=animal:cat" title="" id="_explorer?f[]=brand:pill+pockets&amp;f[]=category:treats&amp;f[]=animal:cat" class="">Pill Pockets</a></li>
-      <li><a href="http://www.petflow.com/explorer?f[]=brand:zukes&amp;f[]=category:treats&amp;f[]=animal:cat" title="" id="_explorer?f[]=brand:zukes&amp;f[]=category:treats&amp;f[]=animal:cat" class="">Zukes</a></li>
-      <li><a href="http://www.petflow.com/explorer?f[]=brand:wellness&amp;f[]=category:treats&amp;f[]=animal:cat" title="" id="_explorer?f[]=brand:wellness&amp;f[]=category:treats&amp;f[]=animal:cat" class="">Wellness</a></li>
-      <li><a href="http://www.petflow.com/explorer?f[]=brand:petite+cuisine&amp;f[]=category:treats&amp;f[]=animal:cat" title="" id="_explorer?f[]=brand:petite+cuisine&amp;f[]=category:treats&amp;f[]=animal:cat" class="">Petite Cuisine</a></li>
-    </ul>
-  </div>
-  <div class="col last-col">
-    <h4>Featured Product</h4>
-    <div class="sub-menu-ad">
-      <a href="/product/temptations/tasty-chicken-flavor">
-        <img src="/images/filters/cat_treats_2.jpg">
-      </a>
+    <div class="sub-menu">
+      <div class="col">
+        <h4>Top Categories</h4>
+        <ul>
+          <li><a href="/explorer?f[]=type:crunchy+treats&amp;f[]=pet:dog">Crunchy</a></li>
+          <li><a href="/explorer?f[]=type:soft+%26+chewy+treats&amp;f[]=pet:dog">Soft &amp; Chewy</a></li>
+          <li><a href="/explorer?f[]=type:jerky+treats&amp;f[]=pet:dog">Jerky</a></li>
+          <li><a href="/explorer?f[]=type:dental+treats&amp;f[]=pet:dog">Dental</a></li>
+        </ul>
+      </div>
+      <div class="col">
+        <h4>Top Brands</h4>
+        <ul>
+          <li><a href="/explorer?f[]=brand:merrick&amp;f[]=category:treats&amp;f[]=pet:dog">Merrick</a></li>
+          <li><a href="/explorer?f[]=brand:blue+buffalo&amp;f[]=category:treats&amp;f[]=pet:dog">Blue Buffalo</a></li>
+          <li><a href="/explorer?f[]=brand:cadet&amp;f[]=category:treats&amp;f[]=pet:dog">Cadet</a></li>
+          <li><a href="/explorer?f[]=brand:dogswell&amp;f[]=category:treats&amp;f[]=pet:dog">Dogswell</a></li>
+          <li><a href="/explorer?f[]=brand:natural+balance&amp;f[]=category:treats&amp;f[]=pet:dog">Natural Balance</a></li>
+          <li><a href="/explorer?f[]=brand:zukes&amp;f[]=category:treats&amp;f[]=pet:dog">Zukes</a></li>
+          <li><a href="/explorer?f[]=brand:pet+time&amp;f[]=category:treats&amp;f[]=pet:dog">Pet Time</a></li>
+          <li><a href="/explorer?f[]=brand:greenies&amp;f[]=category:treats&amp;f[]=pet:dog">Greenies</a></li>
+        </ul>
+      </div>
+      <div class="col last-col">
+        <h4>Featured Brand</h4>
+                <div class="sub-menu-ad trackable-ad-no-impression" data-category="Natural Balance" data-label="natural-balance-dog-treats-featured" data-impression="natural-balance-dog-treats-featured-impression" data-click="natural-balance-dog-treats-featured-click">
+          <a href="/explorer/brand/natural-balance" target="_blank">
+            <img src="/images/ads/natural_balance_featured_logo.png" alt="">
+          </a>
+        </div>
+        <a href="/explorer?f[]=pet:dog&amp;f[]=category:treats" class="shop-btn">Shop all dog treats <i class="icon-caret-right"></i></a>
+      </div>
     </div>
-    <a href="http://www.petflow.com/explorer?f[]=animal:cat&amp;f[]=category:treats" title="" id="http:__www.petflow.com_explorer?f[]=animal:cat&amp;f[]=category:treats" class="shop-btn">Shop all cat treats<i class="icon-caret-right"></i></a>
-  </div>
-</div>      </li>
-      <li class="top-level" data-name="top-level-litter">
-        <a href="http://www.petflow.com/explorer?f[]=category:litter" title="" id="http:__www.petflow.com_explorer?f[]=category:litter" class="top-level">Litter</a>
-        <div class="sub-menu">
-  <div class="col">
-    <h4>Top Categories</h4>
-    <ul>
-      <li><a href="http://www.petflow.com/explorer?search=clumping&amp;f[]=category:litter&amp;f[]=animal:cat" title="" id="http:__www.petflow.com_explorer?search=clumping&amp;f[]=category:litter&amp;f[]=animal:cat" class="">Clumping</a></li>
-            <li><a href="http://www.petflow.com/explorer?search=biodegradable&amp;f[]=category:litter&amp;f[]=animal:cat" title="" id="http:__www.petflow.com_explorer?search=biodegradable&amp;f[]=category:litter&amp;f[]=animal:cat" class="">Biodegradable</a></li>
-            <li><a href="http://www.petflow.com/explorer?search=liners" title="" id="http:__www.petflow.com_explorer?search=liners" class="">Liners</a></li>
-      <li><a href="http://www.petflow.com/explorer?search=multiple+cats&amp;f[]=category:litter&amp;f[]=animal:cat" title="" id="http:__www.petflow.com_explorer?search=multiple+cats&amp;f[]=category:litter&amp;f[]=animal:cat" class="">Multiple Cats</a></li>
-      <li><a href="http://www.petflow.com/explorer?f[]=conditions:non-clumping&amp;f[]=category:litter&amp;f[]=animal:cat" title="" id="http:__www.petflow.com_explorer?f[]=conditions:non-clumping&amp;f[]=category:litter&amp;f[]=animal:cat" class="">Non-Clumping</a></li>
-      <li><a href="http://www.petflow.com/explorer?search=scented&amp;f[]=category:litter&amp;f[]=animal:cat" title="" id="http:__www.petflow.com_explorer?search=scented&amp;f[]=category:litter&amp;f[]=animal:cat" class="">Scented</a></li>
-      <li><a href="http://www.petflow.com/explorer?search=unscented&amp;f[]=category:litter&amp;f[]=animal:cat" title="" id="http:__www.petflow.com_explorer?search=unscented&amp;f[]=category:litter&amp;f[]=animal:cat" class="">Unscented</a></li>
-    </ul>
-  </div>
-  <div class="col">
-    <h4>Top Brands</h4>
-    <ul>
-      <li><a href="http://www.petflow.com/explorer?f[]=brand:world%27s+best&amp;f[]=category:litter" title="" id="http:__www.petflow.com_explorer?f[]=brand:world%27s+best&amp;f[]=category:litter" class="">World's Best</a></li>
-      <li><a href="http://www.petflow.com/explorer?f[]=brand:tidy+cats&amp;f[]=category:litter" title="" id="http:__www.petflow.com_explorer?f[]=brand:tidy+cats&amp;f[]=category:litter" class="">Tidy Cats</a></li>
-      <li><a href="http://www.petflow.com/explorer?f[]=brand:fresh+step&amp;f[]=category:litter" title="" id="http:__www.petflow.com_explorer?f[]=brand:fresh+step&amp;f[]=category:litter" class="">Fresh Step</a></li>
-      <li><a href="http://www.petflow.com/explorer?f[]=brand:dr.+elsey%27s&amp;f[]=category:litter" title="" id="http:__www.petflow.com_explorer?f[]=brand:dr.+elsey%27s&amp;f[]=category:litter" class="">Dr. Elsey's</a></li>
-      <li><a href="http://www.petflow.com/explorer?f[]=brand:arm+%26+hammer&amp;f[]=category:litter" title="" id="http:__www.petflow.com_explorer?f[]=brand:arm+%26+hammer&amp;f[]=category:litter" class="">Arm &amp; Hammer</a></li>
-      <li><a href="http://www.petflow.com/explorer?f[]=brand:feline+pine&amp;f[]=category:litter" title="" id="http:__www.petflow.com_explorer?f[]=brand:feline+pine&amp;f[]=category:litter" class="">Feline Pine</a></li>
-      <li><a href="http://www.petflow.com/explorer?f[]=brand:swheat+scoop&amp;f[]=category:litter" title="" id="http:__www.petflow.com_explorer?f[]=brand:swheat+scoop&amp;f[]=category:litter" class="">Swheat Scoop</a></li>
-      <li><a href="http://www.petflow.com/explorer?f[]=brand:ever+clean&amp;f[]=category:litter" title="" id="http:__www.petflow.com_explorer?f[]=brand:ever+clean&amp;f[]=category:litter" class="">Ever Clean</a></li>
-    </ul>
-  </div>
-  <div class="col last-col">
-    <h4>Featured Product</h4>
-    <div class="sub-menu-ad">
-      <a href="/explorer?search=Blue+Buffalo+Naturally+Fresh+Clumping+Litter">
-        <img src="/images/filters/litter.jpg">
-      </a>
+  </div></li>
+  <li class="top-level" data-name="top-level-dog-toys" data-label="nav-dog-toys" data-action="nav-dog-toys-impression"><div class="cell-wrapper">
+    <div class="tile-wrapper">
+      <a href="/explorer?f[]=pet:dog&amp;f[]=category:toys" class="top-level">Toys</a>
     </div>
-    <a href="http://www.petflow.com/explorer?f[]=category:litter" title="" id="http:__www.petflow.com_explorer?f[]=category:litter" class="shop-btn">Shop for all litter <i class="icon-caret-right"></i></a>
-  </div>
-</div>      </li>
-      <li class="top-level sub-menu-left" data-name="top-level-toys">
-        <a href="http://www.petflow.com/explorer?f[]=category:toys" title="" id="http:__www.petflow.com_explorer?f[]=category:toys" class="top-level">Toys</a>
-        <div class="sub-menu">
-  <div class="col">
-    <h4>Top Categories</h4>
-    <ul>
-      <li><a href="http://www.petflow.com/explorer?f[]=animal:dog&amp;f[]=category:toys" title="" id="http:__www.petflow.com_explorer?f[]=animal:dog&amp;f[]=category:toys" class="">Dog Toys</a></li>
-      <li><a href="http://www.petflow.com/explorer?f[]=animal:cat&amp;f[]=category:toys" title="" id="http:__www.petflow.com_explorer?f[]=animal:cat&amp;f[]=category:toys" class="">Cat Toys</a></li>
-    </ul>
-  </div>
-  <div class="col">
-    <h4>Top Brands</h4>
-    <ul>
-            <li><a href="http://www.petflow.com/explorer?f[]=brand:multipet&amp;f[]=category:toys" title="" id="_explorer?f[]=brand:multipet&amp;f[]=category:toys" class="">MultiPet</a></li>
-      <li><a href="http://www.petflow.com/explorer?f[]=brand:kong&amp;f[]=category:toys" title="" id="_explorer?f[]=brand:kong&amp;f[]=category:toys" class="">Kong</a></li>
-      <li><a href="http://www.petflow.com/explorer?f[]=brand:ethical+pet&amp;f[]=category:toys" title="" id="_explorer?f[]=brand:ethical+pet&amp;f[]=category:toys" class="">Ethical Pet</a></li>
-      <li><a href="http://www.petflow.com/explorer?f[]=brand:nylabone&amp;f[]=category:toys" title="" id="_explorer?f[]=brand:nylabone&amp;f[]=category:toys" class="">Nylabone</a></li>
-      <li><a href="http://www.petflow.com/explorer?f[]=brand:frolicat&amp;f[]=category:toys" title="" id="_explorer?f[]=brand:frolicat&amp;f[]=category:toys" class="">FroliCat</a></li>
-      <li><a href="http://www.petflow.com/explorer?f[]=brand:hugglehounds&amp;f[]=category:toys" title="" id="_explorer?f[]=brand:hugglehounds&amp;f[]=category:toys" class="">HuggleHounds</a></li>
-      <li><a href="http://www.petflow.com/explorer?f[]=brand:vip+products&amp;f[]=category:toys" title="" id="_explorer?f[]=brand:vip+products&amp;f[]=category:toys" class="">VIP Products</a></li>
-      <li><a href="http://www.petflow.com/explorer?f[]=brand:jw+pet&amp;f[]=category:toys" title="" id="_explorer?f[]=brand:jw+pet&amp;f[]=category:toys" class="">JW Pet</a></li>
-    </ul>
-  </div>
-  <div class="col last-col">
-    <h4>Featured Product</h4>
-    <div class="sub-menu-ad">
-      <a href="/product/accessories/ethical-pet-single-beam-laser-pet-toy">
-        <img src="/images/filters/toys.jpg">
-      </a>
+    <div class="sub-menu sub-menu-medium">
+      <div class="col">
+        <h4>Top Categories</h4>
+        <ul>
+          <li><a href="/explorer?f[]=product+group:balls&amp;f[]=pet:dog">Balls</a></li>
+          <li><a href="/explorer?f[]=product+group:chew+toys&amp;f[]=pet:dog">Chew Toys</a></li>
+          <li><a href="/explorer?f[]=product+group:interactive+toys&amp;f[]=pet:dog">Interactive Toys</a></li>
+          <li><a href="/explorer?f[]=product+group:plush+toys&amp;f[]=pet:dog">Plush Toys</a></li>
+          <li><a href="/explorer?f[]=product+group:toss+%26+rope+toys&amp;f[]=pet:dog">Toss &amp; Rope Toys</a></li>
+        </ul>
+      </div>
+      <div class="col last-col">
+        <h4>Top Brands</h4>
+        <ul>
+          <li><a href="/explorer?f[]=brand:multipet&amp;f[]=category:toys&amp;f[]=pet:dog">Multipet</a></li>
+          <li><a href="/explorer?f[]=brand:kong&amp;f[]=category:toys&amp;f[]=pet:dog">Kong</a></li>
+          <li><a href="/explorer?f[]=brand:ethical+pet&amp;f[]=category:toys&amp;f[]=pet:dog">Ethical Pet</a></li>
+          <li><a href="/explorer?f[]=brand:nylabone&amp;f[]=category:toys&amp;f[]=pet:dog">Nylabone</a></li>
+          <li><a href="/explorer?f[]=brand:hugglehounds&amp;f[]=category:toys&amp;f[]=pet:dog">HuggleHounds</a></li>
+          <li><a href="/explorer?f[]=brand:vip+products&amp;f[]=category:toys&amp;f[]=pet:dog">VIP Products</a></li>
+          <li><a href="/explorer?f[]=brand:jw+pet&amp;f[]=category:toys&amp;f[]=pet:dog">JW Pet</a></li>
+        </ul>
+      </div>
     </div>
-    <a href="http://www.petflow.com/explorer?f[]=category:toys" title="" id="http:__www.petflow.com_explorer?f[]=category:toys" class="shop-btn">Shop for all toys <i class="icon-caret-right"></i></a>
-  </div>
-</div>      </li>
-      <li class="top-level sub-menu-left" data-name="top-level-accessories">
-        <a href="http://www.petflow.com/explorer?f[]=category:accessories" title="" id="http:__www.petflow.com_explorer?f[]=category:accessories" class="top-level">Accessories</a>
-        <div class="sub-menu">
-  <div class="col">
-    <h4>Dogs</h4>
-    <ul>
-                  <li><a href="http://www.petflow.com/explorer?f[]=category:beds&amp;f[]=animal:dog" title="" id="_explorer?f[]=category:beds&amp;f[]=animal:dog">Beds</a></li>
-      <li><a href="http://www.petflow.com/explorer?f[]=category:training+pads&amp;f[]=animal:dog" title="" id="_explorer?f[]=category:training+pads&amp;f[]=animal:dog">Training Pads</a></li>
-            <li><a href="http://www.petflow.com/explorer?f[]=category:bowls&amp;f[]=animal:dog" title="" id="_explorer?f[]=category:bowls&amp;f[]=animal:dog">Bowls</a></li>
-      <li><a href="http://www.petflow.com/explorer?search=collars&amp;f[]=animal:dog" title="" id="_explorer?search=collars&amp;f[]=category:accessories&amp;f[]=animal:dog">Collars</a></li>
-                  <li><a href="http://www.petflow.com/explorer?f[]=category:safety&amp;f[]=animal:dog" title="" id="_explorer?f[]=category:safety&amp;f[]=animal:dog">Safety</a></li>
-            <li><a href="http://www.petflow.com/explorer?f[]=category:placemats&amp;f[]=animal:dog" title="" id="_explorer?f[]=category:placemats&amp;f[]=animal:dog">Placemats</a></li>
-            <li><a href="http://www.petflow.com/explorer?f[]=category:mugs&amp;f[]=animal:dog" title="" id="_explorer?f[]=category:mugs&amp;f[]=animal:dog">Mugs</a></li>
-            <li><a href="http://www.petflow.com/explorer?f[]=category:apparel&amp;f[]=animal:dog" title="" id="_explorer?f[]=category:apparel&amp;f[]=animal:dog">Apparel</a></li>
-            <li><a href="http://www.petflow.com/explorer?f[]=category:waste+disposal&amp;f[]=animal:dog" title="" id="_explorer?f[]=category:waste+disposal&amp;f[]=animal:dog">Waste Disposal</a></li>
-            <li><a href="http://www.petflow.com/explorer?f[]=category:jewelry&amp;f[]=animal:dog" title="" id="_explorer?f[]=category:jewelry&amp;f[]=animal:dog">Jewelry</a></li>
-      <li><a href="http://www.petflow.com/explorer?f[]=category:carriers&amp;f[]=animal:dog" title="" id="_explorer?f[]=category:carriers&amp;f[]=animal:dog">Carriers</a></li>
-      <li><a href="http://www.petflow.com/explorer?search=grooming&amp;f[]=category:accessories&amp;f[]=animal:dog" title="" id="_explorer?search=grooming&amp;f[]=category:accessories&amp;f[]=animal:dog">Grooming</a></li>
-    </ul>
-  </div>
-  <div class="col">
-    <h4>Cats</h4>
-    <ul>
-            <li><a href="http://www.petflow.com/explorer?search=grooming&amp;f[]=category:accessories&amp;f[]=animal:cat" title="" id="_explorer?search=grooming&amp;f[]=category:accessories&amp;f[]=animal:cat" class="">Grooming</a></li>
-            <li><a href="http://www.petflow.com/explorer?search=catnip" title="" id="_explorer?f[]=category:catnip&amp;f[]=animal:cat" class="">Catnip</a></li>
-                  <li><a href="http://www.petflow.com/explorer?f[]=category:mugs&amp;f[]=animal:cat" title="" id="_explorer?f[]=category:mugs&amp;f[]=animal:cat" class="">Mugs</a></li>
-                  <li><a href="http://www.petflow.com/explorer?f[]=category:litter+boxes" title="" id="_explorer?f[]=category:litter+boxes" class="">Litter Boxes</a></li>
-      <li><a href="http://www.petflow.com/explorer?f[]=category:jewelry&amp;f[]=animal:cat" title="" id="_explorer?f[]=category:jewelry&amp;f[]=animal:cat">Jewelry</a></li>
-          </ul>
-  </div>
-  <div class="col last-col">
-    <h4>Featured Product</h4>
-    <div class="sub-menu-ad">
-      <a href="/explorer/brand/the-mountain">
-        <img src="/images/filters/accessories.jpg">
-      </a>
+  </div></li>
+  <li class="top-level" data-name="top-level-dog-feeders" data-label="nav-dog-feeders" data-action="nav-dog-feeders-impression"><div class="cell-wrapper">
+    <div class="tile-wrapper">
+      <a href="/explorer?f[]=category:bowls+%26+feeders" class="top-level">Feeders &amp; Bowls</a>
     </div>
-    <a href="http://www.petflow.com/explorer?f[]=category:accessories" title="" id="http:__www.petflow.com_explorer?f[]=category:accessories" class="shop-btn">Shop for accessories<i class="icon-caret-right"></i></a>
-  </div>
-</div>      </li>
-      <li class="top-level sub-menu-left" data-name="top-level-specials">
-                <a href="http://www.petflow.com/doorbusters" title="" id="http:__www.petflow.com_doorbusters" class="top-level"><i class="icon-star"></i>Specials<i class="icon-star"></i></a>
-        <div class="sub-menu sub-menu-specials">
-  <div class="col">
-    <h4>Top Categories</h4>
-    <ul>
-            <li><a href="http://www.petflow.com/doorbusters?species=dog" title="" id="doorbusters_dog" class="">Dog Blowouts</a></li>
-      <li><a href="http://www.petflow.com/doorbusters?species=cat" title="" id="doorbusters_cat" class="">Cat Blowouts</a></li>
-    </ul>
-  </div>
-</div>      </li>
-      <li class="top-level sub-menu-left spoiled-tab" data-name="top-level-spoiled">
-        <a href="http://www.petflow.com/spoiled" title="" id="http:__www.petflow.com_spoiled" class="top-level" target="_blank"><i class="icon-heart"></i> Spoil 'Em <i class="icon-heart"></i></a>
-              </li>
-    </ul>
-    <div class="break"></div>
+    <div class="sub-menu sub-menu-small">
+      <div class="col">
+        <h4>Top Categories</h4>
+        <ul>
+                    <li><a href="/explorer?f[]=product+group:bowls">Bowls</a></li>
+          <li><a href="/explorer?f[]=product+group:placemats&amp;f[]=pet:dog">Placemats</a></li>
+          <li><a href="/explorer?f[]=product+group:auto+feeders+%26+waterers&amp;f[]=pet:dog">Auto Feeders &amp; Waterers</a></li>
+                  </ul>
+      </div>
+    </div>
+  </div></li>
+  <li class="top-level" data-name="top-level-dog-flea-tick" data-label="nav-dog-flea-tick" data-action="nav-dog-flea-tick-impression"><div class="cell-wrapper">
+    <div class="tile-wrapper">
+      <a href="/explorer?f[]=pet:dog&amp;f[]=category:flea+%26+tick" class="top-level">Flea &amp; Tick</a>
+    </div>
+    <div class="sub-menu sub-menu-small">
+      <div class="col">
+        <h4>Top Categories</h4>
+        <ul>
+          <li><a href="/explorer?f[]=pet:dog&amp;f[]=category:flea+%26+tick&amp;f[]=product+group:collars">Collars</a></li>
+                    <li><a href="/explorer?f[]=pet:dog&amp;f[]=category:flea+%26+tick&amp;f[]=product+group:powders%2C+sprays+%26+wipes">Powders, Sprays &amp; Wipes</a></li>
+          <li><a href="/explorer?f[]=pet:dog&amp;f[]=category:flea+%26+tick&amp;f[]=product+group:shampoos">Shampoos</a></li>
+          <li><a href="/explorer?f[]=pet:dog&amp;f[]=category:flea+%26+tick&amp;f[]=product+group:spot+treatments">Spot Treatments</a></li>
+        </ul>
+      </div>
+    </div>
+  </div></li>
+  <li class="top-level" data-name="top-level-dog-health" data-label="nav-dog-health" data-action="nav-dog-health-impression"><div class="cell-wrapper">
+    <div class="tile-wrapper">
+      <a href="/explorer?f[]=pet:dog&amp;f[]=category:treatments" class="top-level">Health &amp; Wellness</a>
+    </div>
+    <div class="sub-menu sub-menu-small">
+      <div class="col">
+        <h4>Top Categories</h4>
+        <ul>
+          <li><a href="/explorer?f[]=pet:dog&amp;f[]=product+group:dental+care">Dental Care</a></li>
+          <li><a href="/explorer?f[]=pet:dog&amp;f[]=product+group:ear+care">Ear Care</a></li>
+          <li><a href="/explorer?f[]=pet:dog&amp;f[]=product+group:eye+care">Eye Care</a></li>
+          <li><a href="/explorer?f[]=pet:dog&amp;f[]=product+group:first+aid">First Aid</a></li>
+          <li><a href="/explorer?f[]=pet:dog&amp;f[]=product+group:vitamins+%26+supplements">Vitamins &amp; Supplements</a></li>
+          <li><a href="/explorer?f[]=pet:dog&amp;f[]=type:pill+pockets">Pill Pockets</a></li>
+          <li><a href="/explorer?f[]=pet:dog&amp;f[]=special+condition:hip+%26+joint+care">Hip &amp; Joint Care</a></li>
+          <li><a href="/explorer?f[]=pet:dog&amp;f[]=special+condition:stress+%26+anxiety">Stress &amp; Anxiety</a></li>
+          <li><a href="/explorer?f[]=pet:dog&amp;f[]=special+condition:skin+%26+coat+care">Skin &amp; Coat Care</a></li>
+          <li><a href="/explorer?f[]=pet:dog&amp;f[]=special+condition:prescription+food">Prescription</a></li>
+        </ul>
+      </div>
+    </div>
+  </div></li>
+  <li class="top-level sub-menu-left" data-name="top-level-dog-cleaning" data-label="nav-dog-cleaning" data-action="nav-dog-cleaning-impression"><div class="cell-wrapper">
+    <div class="tile-wrapper">
+      <a href="/explorer?f[]=pet:dog&amp;f[]=category:cleaning%2C+training+%26+potty" class="top-level">Cleaning &amp; Potty</a>
+    </div>
+    <div class="sub-menu sub-menu-small">
+      <div class="col">
+        <h4>Top Categories</h4>
+        <ul>
+          <li><a href="/explorer?f[]=pet:dog&amp;f[]=product+group:deodorizers">Deodorizers</a></li>
+          <li><a href="/explorer?f[]=pet:dog&amp;f[]=product+group:cleaning+equipment">Cleaning Equipment</a></li>
+                              <li><a href="/explorer?f[]=pet:dog&amp;f[]=product+group:poop+bags+%26+scoopers">Poop Bags &amp; Scoopers</a></li>
+          <li><a href="/explorer?f[]=pet:dog&amp;f[]=product+group:puppy+pads">Puppy Pads</a></li>
+        </ul>
+      </div>
+    </div>
+  </div></li>
+  <li class="top-level sub-menu-left" data-name="top-level-dog-grooming" data-label="nav-dog-grooming" data-action="nav-dog-grooming-impression"><div class="cell-wrapper">
+    <div class="tile-wrapper">
+      <a href="/explorer?f[]=pet:dog&amp;f[]=category:grooming" class="top-level">Grooming</a>
+    </div>
+    <div class="sub-menu sub-menu-small">
+      <div class="col">
+        <h4>Top Categories</h4>
+        <ul>
+          <li><a href="/explorer?f[]=pet:dog&amp;f[]=product+group:brushes+%26+combs">Brushes &amp; Combs</a></li>
+          <li><a href="/explorer?f[]=pet:dog&amp;f[]=product+group:grooming+tools+%26+accessories">Grooming Tools &amp; Accessories</a></li>
+          <li><a href="/explorer?f[]=pet:dog&amp;f[]=product+group:shampoos+%26+conditioners">Shampoos &amp; Conditioners</a></li>
+          <li><a href="/explorer?f[]=pet:dog&amp;f[]=product+group:spritzers%2C+sprays+%26+wipes">Spritzers, Sprays &amp; Wipes</a></li>
+        </ul>
+      </div>
+    </div>
+  </div></li>
+  <li class="top-level sub-menu-left" data-name="top-level-dog-leashes" data-label="nav-dog-leashes" data-action="nav-dog-leashes-impression"><div class="cell-wrapper">
+    <div class="tile-wrapper">
+      <a href="/explorer?f[]=pet:dog&amp;f[]=category:leashes%2C+collars+%26+safety" class="top-level">Leashes, Collars &amp; Safety</a>
+    </div>
+    <div class="sub-menu sub-menu-small">
+      <div class="col">
+        <h4>Top Categories</h4>
+        <ul>
+          <li><a href="/explorer?f[]=pet:dog&amp;f[]=product+group:collars">Collars</a></li>
+          <li><a href="/explorer?f[]=pet:dog&amp;f[]=product+group:leashes">Leashes</a></li>
+                    <li><a href="/explorer?f[]=pet:dog&amp;f[]=product+group:training%2C+muzzles+%26+safety">Training, Muzzles &amp; Safety</a></li>
+        </ul>
+      </div>
+    </div>
+  </div></li>
+  <li class="top-level sub-menu-left last-col" data-name="top-level-dog-beds" data-label="nav-dog-beds" data-action="nav-dog-beds-impression"><div class="cell-wrapper">
+    <div class="tile-wrapper">
+      <a href="/explorer?f[]=pet:dog&amp;f[]=category:beds%2C+crates+%26+gear" class="top-level">Beds, Crates &amp; Gear</a>
+    </div>
+    <div class="sub-menu sub-menu-small">
+      <div class="col">
+        <h4>Top Categories</h4>
+        <ul>
+          <li><a href="/explorer?f[]=pet:dog&amp;f[]=product+group:beds">Beds</a></li>
+                    <li><a href="/explorer?f[]=pet:dog&amp;f[]=product+group:crates+%26+kennels">Crates &amp; Kennels</a></li>
+                                                            <li><a href="/explorer?f[]=pet:dog&amp;f[]=product+group:apparel">Apparel</a></li>
+        </ul>
+      </div>
+    </div>
+  </div></li>
+</ul>    <ul id="cat_nav" class="navigation_tracking noshow">
+  <li class="top-level" data-name="top-level-cat-food" data-label="nav-cat-food" data-action="nav-cat-food-impression"><div class="cell-wrapper">
+    <div class="tile-wrapper">
+      <a href="/explorer?f[]=pet:cat&amp;f[]=category:food" class="top-level">Food</a>
+    </div>
+    <div class="sub-menu">
+      <div class="col">
+        <h4>Top Categories</h4>
+        <ul>
+          <li><a href="/explorer?f[]=subcategory:dry+food&amp;f[]=pet:cat">Dry Food</a></li>
+          <li><a href="/explorer?f[]=subcategory:wet+food&amp;f[]=pet:cat">Wet Food</a></li>
+          <li><a href="/explorer?f[]=type:food+pouch&amp;f[]=pet:cat">Food Pouches</a></li>
+          <li><a href="/explorer?f[]=special+condition:prescription+food&amp;f[]=pet:cat">Prescription</a></li>
+        </ul>
+      </div>
+      <div class="col">
+        <h4>Top Brands</h4>
+        <ul>
+          <li><a href="/explorer?f[]=brand:wellness&amp;f[]=category:food&amp;f[]=pet:cat">Wellness</a></li>
+          <li><a href="/explorer?f[]=brand:royal+canin+veterinary+diet&amp;f[]=category:food&amp;f[]=pet:cat">Royal Canin Veterinary Diet</a></li>
+          <li><a href="/explorer?f[]=brand:fancy+feast&amp;f[]=category:food&amp;f[]=pet:cat">Fancy Feast</a></li>
+          <li><a href="/explorer?f[]=brand:blue+buffalo&amp;f[]=category:food&amp;f[]=pet:cat">Blue Buffalo</a></li>
+          <li><a href="/explorer?f[]=brand:evo&amp;f[]=category:food&amp;f[]=pet:cat">EVO</a></li>
+          <li><a href="/explorer?f[]=brand:friskies&amp;f[]=category:food&amp;f[]=pet:cat">Friskies</a></li>
+          <li><a href="/explorer?f[]=brand:weruva&amp;f[]=category:food&amp;f[]=pet:cat">Weruva</a></li>
+        </ul>
+      </div>
+      <div class="col last-col">
+        <h4>Featured Brand</h4>
+        <div class="sub-menu-ad">
+          <div class="cat-food-promo trackable-ad-no-impression" data-category="Hills Pet" data-label="hills-cat-food-featured" data-impression="hills-cat-food-featured-impression" data-click="hills-cat-food-featured-click">
+            <a href="/explorer?search=hill%27s+science+diet+grain+free+cat" target="_blank">
+              <img src="/images/ads/hillsFeaturedCatFood.jpg" alt="">
+            </a>
+          </div>
+        </div>
+        <a href="/explorer?f[]=pet:cat&amp;f[]=category:food" class="shop-btn">Shop all cat food <i class="icon-caret-right"></i></a>
+      </div>
+    </div>
+  </div></li>
+  <li class="top-level" data-name="top-level-cat-treats" data-label="nav-cat-treats" data-action="nav-cat-treats-impression"><div class="cell-wrapper">
+    <div class="tile-wrapper">
+      <a href="/explorer?f[]=pet:cat&amp;f[]=category:treats" class="top-level">Treats</a>
+    </div>
+    <div class="sub-menu">
+      <div class="col">
+        <h4>Top Categories</h4>
+        <ul>
+          <li><a href="/explorer?f[]=type:catnip&amp;f[]=pet:cat">Catnip</a></li>
+          <li><a href="/explorer?f[]=type:crunchy+treats&amp;f[]=pet:cat">Crunchy</a></li>
+          <li><a href="/explorer?f[]=type:soft+%26+chewy+treats&amp;f[]=pet:cat">Soft &amp; Chewy</a></li>
+          <li><a href="/explorer?f[]=type:jerky+treats&amp;f[]=pet:cat">Jerky</a></li>
+          <li><a href="/explorer?f[]=type:dental+treats&amp;f[]=pet:cat">Dental</a></li>
+        </ul>
+      </div>
+      <div class="col">
+        <h4>Top Brands</h4>
+        <ul>
+          <li><a href="/explorer?f[]=brand:temptations&amp;f[]=category:treats&amp;f[]=pet:cat">Temptations</a></li>
+          <li><a href="/explorer?f[]=brand:evo&amp;f[]=category:treats&amp;f[]=pet:cat">EVO</a></li>
+          <li><a href="/explorer?f[]=brand:greenies&amp;f[]=category:treats&amp;f[]=pet:cat">Greenies</a></li>
+          <li><a href="/explorer?f[]=brand:catswell&amp;f[]=category:treats&amp;f[]=pet:cat">Catswell</a></li>
+          <li><a href="/explorer?f[]=brand:zukes&amp;f[]=category:treats&amp;f[]=pet:cat">Zukes</a></li>
+          <li><a href="/explorer?f[]=brand:wellness&amp;f[]=category:treats&amp;f[]=pet:cat">Wellness</a></li>
+          <li><a href="/explorer?f[]=brand:petite+cuisine&amp;f[]=category:treats&amp;f[]=pet:cat">Petite Cuisine</a></li>
+        </ul>
+      </div>
+      <div class="col last-col">
+        <h4>Featured Brand</h4>
+        <div class="sub-menu-ad trackable-ad-no-impression" data-category="Pounce" data-label="pounce-cat-treats-featured" data-impression="pounce-cat-treats-featured-impression" data-click="pounce-cat-treats-featured-click">
+          <a href="/explorer/brand/pounce" target="_blank">
+            <img src="/images/ads/pounce_featured_cat_treats.png" alt="">
+          </a>
+        </div>
+        <a href="/explorer?f[]=pet:cat&amp;f[]=category:treats" class="shop-btn">Shop all cat treats <i class="icon-caret-right"></i></a>
+      </div>
+    </div>
+  </div></li>
+  <li class="top-level" data-name="top-level-cat-litter" data-label="nav-cat-litter" data-action="nav-cat-litter-impression"><div class="cell-wrapper">
+    <div class="tile-wrapper">
+      <a href="/explorer?f[]=pet:cat&amp;f[]=category:litter+%26+accessories" class="top-level">Litter &amp; Accessories</a>
+    </div>
+    <div class="sub-menu">
+      <div class="col">
+        <h4>Top Categories</h4>
+        <ul>
+          <li><a href="/explorer?f[]=subcategory:litter&amp;f[]=pet:cat">Litter</a></li>
+          <li><a href="/explorer?f[]=subcategory:litter+accessories&amp;f[]=pet:cat">Litter Accessories</a></li>
+                  </ul>
+      </div>
+      <div class="col">
+        <h4>Top Brands</h4>
+        <ul>
+          <li><a href="/explorer?f[]=brand:world%27s+best&amp;f[]=category:litter+%26+accessories&amp;f[]=pet:cat">World's Best</a></li>
+          <li><a href="/explorer?f[]=brand:tidy+cats&amp;f[]=category:litter+%26+accessories&amp;f[]=pet:cat">Tidy Cats</a></li>
+          <li><a href="/explorer?f[]=brand:fresh+step&amp;f[]=category:litter+%26+accessories&amp;f[]=pet:cat">Fresh Step</a></li>
+          <li><a href="/explorer?f[]=brand:dr.+elsey%27s&amp;f[]=category:litter+%26+accessories&amp;f[]=pet:cat">Dr. Elsey's</a></li>
+          <li><a href="/explorer?f[]=brand:arm+%26+hammer&amp;f[]=category:litter+%26+accessories&amp;f[]=pet:cat">Arm &amp; Hammer</a></li>
+          <li><a href="/explorer?f[]=brand:swheat+scoop&amp;f[]=category:litter+%26+accessories&amp;f[]=pet:cat">Swheat Scoop</a></li>
+          <li><a href="/explorer?f[]=brand:ever+clean&amp;f[]=category:litter+%26+accessories&amp;f[]=pet:cat">Ever Clean</a></li>
+        </ul>
+      </div>
+      <div class="col last-col">
+        <h4>Featured Brand</h4>
+        <div class="sub-menu-ad trackable-ad-no-impression" data-category="Worlds Best" data-label="worlds-best-litter-featured" data-impression="worlds-best-litter-featured-impression" data-click="worlds-best-litter-featured-click">
+          <a href="/explorer/brand/worlds-best" target="_blank">
+            <img src="/images/ads/worldsBestCatLitter.png" alt="">
+          </a>
+        </div>
+        <a href="/explorer?f[]=category:litter+%26+accessories" class="shop-btn">Shop for all litter <i class="icon-caret-right"></i></a>
+      </div>
+    </div>
+  <div class="cell-wrapper"></div></div></li>
+  <li class="top-level" data-name="top-level-cat-toys" data-label="nav-cat-toys" data-action="nav-cat-toys-impression"><div class="cell-wrapper">
+    <div class="tile-wrapper">
+      <a href="/explorer?f[]=pet:cat&amp;f[]=category:toys" class="top-level">Toys</a>
+    </div>
+    <div class="sub-menu sub-menu-medium">
+      <div class="col">
+        <h4>Top Categories</h4>
+        <ul>
+                    <li><a href="/explorer?f[]=product+group:interactive+toys&amp;f[]=pet:cat">Interactive Toys</a></li>
+          <li><a href="/explorer?f[]=product+group:plush+toys&amp;f[]=pet:cat">Plush Toys</a></li>
+          <li><a href="/explorer?f[]=product+group:scratchers&amp;f[]=pet:cat">Scratchers</a></li>
+          <li><a href="/explorer?f[]=product+group:catnip+toys&amp;f[]=pet:cat">Catnip Toys</a></li>
+        </ul>
+      </div>
+      <div class="col last-col">
+        <h4>Top Brands</h4>
+        <ul>
+          <li><a href="/explorer?f[]=brand:multipet&amp;f[]=category:toys&amp;f[]=pet:cat">Multipet</a></li>
+          <li><a href="/explorer?f[]=brand:kong&amp;f[]=category:toys&amp;f[]=pet:cat">Kong</a></li>
+          <li><a href="/explorer?f[]=brand:ethical+pet&amp;f[]=category:toys&amp;f[]=pet:cat">Ethical Pet</a></li>
+          <li><a href="/explorer?f[]=brand:nylabone&amp;f[]=category:toys&amp;f[]=pet:cat">Nylabone</a></li>
+          <li><a href="/explorer?f[]=brand:frolicat&amp;f[]=category:toys&amp;f[]=pet:cat">FroliCat</a></li>
+        </ul>
+      </div>
+    </div>
+  </div></li>
+  <li class="top-level" data-name="top-level-cat-feeders" data-label="nav-cat-feeders" data-action="nav-cat-feeders-impression"><div class="cell-wrapper">
+    <div class="tile-wrapper">
+      <a href="/explorer?f[]=category:bowls+%26+feeders&amp;f[]=pet:cat" class="top-level">Feeders &amp; Bowls</a>
+    </div>
+    <div class="sub-menu sub-menu-small">
+      <div class="col">
+        <h4>Top Categories</h4>
+        <ul>
+                    <li><a href="/explorer?f[]=pet:cat&amp;f[]=product+group:bowls">Bowls</a></li>
+          <li><a href="/explorer?f[]=product+group:placemats&amp;f[]=pet:cat">Placemats</a></li>
+          <li><a href="/explorer?f[]=pet:cat&amp;f[]=product+group:auto+feeders+%26+waterers">Auto Feeders &amp; Waterers</a></li>
+                  </ul>
+      </div>
+    </div>
+  </div></li>
+  <li class="top-level" data-name="top-level-cat-flea-tick" data-label="nav-cat-flea-tick" data-action="nav-cat-flea-tick-impression"><div class="cell-wrapper">
+    <div class="tile-wrapper">
+      <a href="/explorer?f[]=pet:cat&amp;f[]=category:flea+%26+tick" class="top-level">Flea &amp; Tick</a>
+    </div>
+    <div class="sub-menu sub-menu-small">
+      <div class="col">
+        <h4>Top Categories</h4>
+        <ul>
+          <li><a href="/explorer?f[]=pet:cat&amp;f[]=category:flea+%26+tick&amp;f[]=product+group:collars">Collars</a></li>
+                    <li><a href="/explorer?f[]=pet:cat&amp;f[]=category:flea+%26+tick&amp;f[]=product+group:powders%2C+sprays+%26+wipes">Powders, Sprays &amp; Wipes</a></li>
+          <li><a href="/explorer?f[]=pet:cat&amp;f[]=category:flea+%26+tick&amp;f[]=product+group:shampoos">Shampoos</a></li>
+          <li><a href="/explorer?f[]=pet:cat&amp;f[]=category:flea+%26+tick&amp;f[]=product+group:spot+treatments">Spot Treatments</a></li>
+        </ul>
+      </div>
+    </div>
+  </div></li>
+  <li class="top-level sub-menu-left" data-name="top-level-cat-health" data-label="nav-cat-health" data-action="nav-cat-health-impression"><div class="cell-wrapper">
+    <div class="tile-wrapper">
+      <a href="/explorer?f[]=pet:cat&amp;f[]=category:treatments" class="top-level">Health &amp; Wellness</a>
+    </div>
+    <div class="sub-menu sub-menu-small">
+      <div class="col">
+        <h4>Top Categories</h4>
+        <ul>
+          <li><a href="/explorer?f[]=pet:cat&amp;f[]=product+group:dental+care">Dental Care</a></li>
+                              <li><a href="/explorer?f[]=pet:cat&amp;f[]=product+group:vitamins+%26+supplements">Vitamins &amp; Supplements</a></li>
+                    <li><a href="/explorer?f[]=pet:cat&amp;f[]=type:pill+pockets">Pill Pockets</a></li>
+          <li><a href="/explorer?f[]=pet:cat&amp;f[]=special+condition:skin+%26+coat+care">Skin &amp; Coat Care</a></li>
+          <li><a href="/explorer?f[]=pet:cat&amp;f[]=special+condition:prescription+food">Prescription</a></li>
+        </ul>
+      </div>
+    </div>
+  </div></li>
+  <li class="top-level sub-menu-left" data-name="top-level-cat-training" data-label="nav-cat-training" data-action="nav-cat-training-impression"><div class="cell-wrapper">
+    <div class="tile-wrapper">
+      <a href="/explorer?f[]=pet:cat&amp;f[]=category:cleaning%2C+training+%26+potty" class="top-level">Training &amp; Cleaning</a>
+    </div>
+    <div class="sub-menu sub-menu-small">
+      <div class="col">
+        <h4>Top Categories</h4>
+        <ul>
+          <li><a href="/explorer?f[]=pet:cat&amp;f[]=product+group:deodorizers">Deodorizers</a></li>
+          <li><a href="/explorer?f[]=pet:cat&amp;f[]=product+group:cleaning+equipment">Cleaning Equipment</a></li>
+                            </ul>
+      </div>
+    </div>
+  </div></li>
+  <li class="top-level sub-menu-left" data-name="top-level-cat-grooming" data-label="nav-cat-grooming" data-action="nav-cat-grooming-impression"><div class="cell-wrapper">
+    <div class="tile-wrapper">
+      <a href="/explorer?f[]=pet:cat&amp;f[]=category:grooming" class="top-level">Grooming</a>
+    </div>
+    <div class="sub-menu sub-menu-small">
+      <div class="col">
+        <h4>Top Categories</h4>
+        <ul>
+          <li><a href="/explorer?f[]=pet:cat&amp;f[]=product+group:brushes+%26+combs">Brushes &amp; Combs</a></li>
+          <li><a href="/explorer?f[]=pet:cat&amp;f[]=product+group:grooming+tools+%26+accessories">Grooming Tools &amp; Accessories</a></li>
+          <li><a href="/explorer?f[]=pet:cat&amp;f[]=product+group:shampoos+%26+conditioners">Shampoos &amp; Conditioners</a></li>
+        </ul>
+      </div>
+    </div>
+  </div></li>
+  <li class="top-level sub-menu-left last-col" data-name="top-level-cat-beds" data-label="nav-cat-beds" data-action="nav-cat-beds-impression"><div class="cell-wrapper">
+    <div class="tile-wrapper">
+      <a href="/explorer?f[]=pet:cat&amp;f[]=category:beds%2C+crates+%26+gear" class="top-level">Beds, Crates &amp; Gear</a>
+    </div>
+    <div class="sub-menu sub-menu-small">
+      <div class="col">
+        <h4>Top Categories</h4>
+        <ul>
+                                                                              </ul>
+      </div>
+    </div>
+  </div></li>
+</ul>    <ul id="people_nav" class="navigation_tracking noshow">
+  <li class="top-level" data-name="top-level-people-clothing" data-label="nav-people-clothing" data-action="nav-people-clothing-impression"><div class="cell-wrapper">
+    <div class="tile-wrapper">
+      <a href="/explorer?f[]=pet:people&amp;f[]=product+group:clothing" class="top-level">Clothing</a>
+    </div>
+  </div></li>
+  <li class="top-level last-col" data-name="top-level-people-accessories" data-label="nav-people-accessories" data-action="nav-people-accessories-impression"><div class="cell-wrapper">
+    <div class="tile-wrapper">
+      <a href="/explorer?f[]=pet:people&amp;f[]=product+group:accessories" class="top-level">Accessories</a>
+    </div>
+  </div></li>
+</ul>    <div class="break"></div>
   </div>
 </div>
+<div id="new_alerts" style="display:none;"></div>
 
 <div class="messages">
   </div>
@@ -640,15 +931,17 @@ function fire_when_ready(event, lambda) {
 <script type="text/x-handlebars-template" id="user-alert-messages">
 
 
-<div class="message bs" >
-  {{#each alerts}}
-  <div class="alert alert-{{this.type}}">
-    <button type="button" class="close" data-dismiss="alert">&times;</button>
-    <i class="icon-bullhorn"></i>
-    &nbsp; {{{this.message}}}
+{{#if alerts}}
+  <div class="message bs">
+    {{#each alerts}}
+    <div class="alert alert-{{this.type}}">
+      <button type="button" class="close" data-dismiss="alert">&times;</button>
+      <i class="icon-bullhorn"></i>
+      &nbsp; {{{this.message}}}
+    </div>
+    {{/each}}
   </div>
-  {{/each}}
-</div>
+{{/if}}
 
 
 </script>
@@ -676,7 +969,7 @@ function fire_when_ready(event, lambda) {
         </ul>
     </div>
     <div class="right">
-        <img src="http://www.petflow.com/images/legal/privacy.png" alt="" id="3a316http:__www.petflow.com_images_legal_privacy.png" class="privacy-img">
+        <img src="http://www.petflow.com/images/legal/privacy.png" alt="" id="ddc44http:__www.petflow.com_images_legal_privacy.png" class="privacy-img">
     </div>
     <div class="clear"></div>
     <ol id="privacy">
@@ -763,26 +1056,25 @@ function fire_when_ready(event, lambda) {
     <div class="col first-col">
       <h3>Popular Brands</h3>
       <ul>
-        <li><a href="http://www.petflow.com/explorer?f[]=brand:blue+buffalo" title="" id="http:__www.petflow.com_explorer?f[]=brand:blue+buffalo" class="">Blue Buffalo</a></li>
-        <li><a href="http://www.petflow.com/explorer?f[]=brand:wellness" title="" id="http:__www.petflow.com_explorer?f[]=brand:wellness" class="">Wellness</a></li>
-        <li><a href="http://www.petflow.com/explorer?f[]=brand:led+power" title="" id="http:__www.petflow.com_explorer?f[]=brand:led+power" class="">LED Power</a></li>
-        <li><a href="http://www.petflow.com/explorer?f[]=brand:merrick" title="" id="http:__www.petflow.com_explorer?f[]=brand:merrick" class="">Merrick</a></li>
-        <li><a href="http://www.petflow.com/explorer?f[]=brand:royal+canin+veterinary+diet" title="" id="http:__www.petflow.com_explorer?f[]=brand:royal+canin+veterinary+diet" class="">Royal Canin Veterinary Diet</a></li>
-        <li><a href="http://www.petflow.com/explorer?f[]=brand:taste+of+the+wild" title="" id="http:__www.petflow.com_explorer?f[]=brand:taste+of+the+wild" class="">Taste Of The Wild</a></li>
-        <li><a href="http://www.petflow.com/explorer?f[]=brand:natural+balance" title="" id="http:__www.petflow.com_explorer?f[]=brand:natural+balance" class="">Natural Balance</a></li>
-        <li><a href="http://www.petflow.com/explorer?f[]=brand:evo" title="" id="http:__www.petflow.com_explorer?f[]=brand:evo" class="">EVO</a></li>
+        <li><a href="http://www.petflow.com/explorer/brand/blue-buffalo" title="" id="http:__www.petflow.com_explorer_brand_blue-buffalo" class="">Blue Buffalo</a></li>
+        <li><a href="http://www.petflow.com/explorer/brand/wellness" title="" id="http:__www.petflow.com_explorer_brand_wellness" class="">Wellness</a></li>
+        <li><a href="http://www.petflow.com/explorer/brand/led-power" title="" id="http:__www.petflow.com_explorer_brand_led-power" class="">LED Power</a></li>
+        <li><a href="http://www.petflow.com/explorer/brand/merrick" title="" id="http:__www.petflow.com_explorer_brand_merrick" class="">Merrick</a></li>
+        <li><a href="http://www.petflow.com/explorer/brand/royal-canin-veterinary-diet" title="" id="http:__www.petflow.com_explorer_brand_royal-canin-veterinary-diet" class="">Royal Canin Veterinary Diet</a></li>
+        <li><a href="http://www.petflow.com/explorer/brand/taste-of-the-wild" title="" id="http:__www.petflow.com_explorer_brand_taste-of-the-wild" class="">Taste Of The Wild</a></li>
+        <li><a href="http://www.petflow.com/explorer/brand/natural-balance" title="" id="http:__www.petflow.com_explorer_brand_natural-balance" class="">Natural Balance</a></li>
+        <li><a href="http://www.petflow.com/explorer/brand/evo" title="" id="http:__www.petflow.com_explorer_brand_evo" class="">EVO</a></li>
       </ul>
     </div>
     <div class="col">
       <h3>Popular Searches</h3>
       <ul>
-        <li><a href="http://www.petflow.com/explorer?f[]=category:dry+food" title="" id="http:__www.petflow.com_explorer?f[]=category:dry+food" class="">Dry Food</a></li>
-        <li><a href="http://www.petflow.com/explorer?f[]=lifestyle:grain-free" title="" id="http:__www.petflow.com_explorer?f[]=lifestyle:grain-free" class="">Grain Free</a></li>
-        <li><a href="http://www.petflow.com/explorer?f[]=category:canned+food" title="" id="http:__www.petflow.com_explorer?f[]=category:canned+food" class="">Canned Food</a></li>
-        <li><a href="http://www.petflow.com/explorer?f[]=lifestyle:diet" title="" id="http:__www.petflow.com_explorer?f[]=lifestyle:diet" class="">Diet</a></li>
-        <li><a href="http://www.petflow.com/explorer?f[]=conditions:weight+management" title="" id="http:__www.petflow.com_explorer?f[]=conditions:weight+management" class="">Weight Management</a></li>
-        <li><a href="http://www.petflow.com/explorer?f[]=lifestyle:prescription" title="" id="http:__www.petflow.com_explorer?f[]=lifestyle:prescription" class="">Prescription</a></li>
-        <li><a href="http://www.petflow.com/explorer?f[]=conditions:allergy" title="" id="http:__www.petflow.com_explorer?f[]=conditions:allergy" class="">Allergy</a></li>
+        <li><a href="http://www.petflow.com/explorer?f[]=subcategory:dry+food" title="" id="http:__www.petflow.com_explorer?f[]=subcategory:dry+food" class="">Dry Food</a></li>
+        <li><a href="http://www.petflow.com/explorer?f[]=special+condition:grain-free" title="" id="http:__www.petflow.com_explorer?f[]=special+condition:grain-free" class="">Grain Free</a></li>
+        <li><a href="http://www.petflow.com/explorer?f[]=type:canned+food" title="" id="http:__www.petflow.com_explorer?f[]=type:canned+food" class="">Canned Food</a></li>
+        <li><a href="http://www.petflow.com/explorer?f[]=special+condition:weight+control" title="" id="http:__www.petflow.com_explorer?f[]=special+condition:weight+control" class="">Weight Management</a></li>
+        <li><a href="http://www.petflow.com/explorer?f[]=special+condition:prescription+food" title="" id="http:__www.petflow.com_explorer?f[]=special+condition:prescription+food" class="">Prescription</a></li>
+        <li><a href="http://www.petflow.com/explorer?f[]=special+condition:allergy" title="" id="http:__www.petflow.com_explorer?f[]=special+condition:allergy" class="">Allergy</a></li>
         <li><a href="http://www.petflow.com/explorer?f[]=lifestyle:organic" title="" id="http:__www.petflow.com_explorer?f[]=lifestyle:organic" class="">Organic</a></li>
       </ul>
     </div>
@@ -791,6 +1083,7 @@ function fire_when_ready(event, lambda) {
       <ul>
         <li><a href="http://www.petflow.com/about-us" title="" id="http:__www.petflow.com_about-us" class="">About Us</a></li>
                 <li><a href="http://blog.petflow.com" title="" id="http:__blog.petflow.com" class="">Blog</a></li>
+        <li><a href="http://petflow.theresumator.com/apply" title="" id="http:__petflow.theresumator.com_apply" class="" target="_blank">Careers</a></li>
         <li><a href="http://www.petflow.com/press" title="" id="http:__www.petflow.com_press" class="">Press</a></li>
         <li><a href="https://petflow.zendesk.com/forums/21285758-Order-Problems-Returns" title="" id="https:__petflow.zendesk.com_forums_21285758-Order-Problems-Returns" class="" target="_blank">Return Policy</a></li>
         <li><a href="http://www.petflow.com/suggest-a-product" title="" id="http:__www.petflow.com_suggest-a-product" class="">Suggest a Product</a></li>
@@ -813,14 +1106,22 @@ function fire_when_ready(event, lambda) {
       </ul>
     </div>
     <div class="break"></div>
-                <div class="site-ratings" id="secure-logos"></div>
+                <div class="site-ratings" id="secure-logos">
+        <img class="verisign-badge" src="/images/checkout/verisign_secured.png" alt="VeriSign Secured">
+        <img class="paypal-badge" src="/images/paypal-logo-big.jpg" alt="PayPal">
+        <img class="norton-badge" src="/images/checkout/norton_secured.png" alt="Norton Secured">
+        <a href="http://www.nabp.net/programs/accreditation/e-advertiser-approval-program/find-an-nabp-approved-e-advertiser">
+        	<img class="nabp-badge" src="/images/NABP.png" alt="NABP">
+        </a>
+        <div class="break"></div>
+    </div>
     <div class="break"></div>
   </div>
 </div>
 <div id="footer">
   <div class="container">
     <div class="small-logo"></div>
-        <p>© Copyright 2013 PetFlow.com, All Rights Reserved. Made with love in NYC.</p>
+        <p>© Copyright 2014 PetFlow.com, All Rights Reserved. Made with love in NYC.</p>
     <div class="break"></div>
   </div>
 </div>
@@ -836,25 +1137,9 @@ function fire_when_ready(event, lambda) {
 
 
 
-<!-- HOSTNAME: www.petflow.com -->
-    <div class="top-btn-container">
-    <div class="top-btn">
-      <i class="icon-caret-up"></i> Back to Top
-    </div>
-  </div>
-
+<!-- HOSTNAME: web-3c812641.ec2.petflow.com -->
     
-  
-    <!-- Start BounceX tag. Deploy at the beginning of document head. -->
-  <script>
-  (function(d) {
-    var e = d.createElement('script');
-    e.src = d.location.protocol + '//bounceexchange.com/bounce/i.js?client_id=590';
-    e.async = true;
-    d.getElementsByTagName("head")[0].appendChild(e);
-   }(document));
-   </script>
-    <!-- End BounceX tag -->
+    
   
     <script type="text/javascript" src="//petflow.ugc.bazaarvoice.com/static/2239-en_us/bvapi.js">
   </script>
@@ -863,27 +1148,6 @@ function fire_when_ready(event, lambda) {
           submissionContainerUrl: "http://www.petflow.com/review"
       });
   </script>
-  
-    <!-- BEGIN: Google Trusted Stores -->
-  <script type="text/javascript">
-    var gts = gts || [];
-
-    gts.push(["id", "22735"]);
-        gts.push(["google_base_subaccount_id", "7260175"]);
-    gts.push(["google_base_country", "US"]);
-    gts.push(["google_base_language", "en"]);
-
-    (function() {
-      var scheme = (("https:" == document.location.protocol) ? "https://" : "http://");
-      var gts = document.createElement("script");
-      gts.type = "text/javascript";
-      gts.async = true;
-      gts.src = scheme + "www.googlecommerce.com/trustedstores/gtmp_compiled.js";
-      var s = document.getElementsByTagName("script")[0];
-      s.parentNode.insertBefore(gts, s);
-    })();
-  </script>
-  <!-- END: Google Trusted Stores -->
   
   <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
   <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
@@ -898,17 +1162,16 @@ function fire_when_ready(event, lambda) {
         
   
   
-  <script src="/js/application_64e70fc09e37fdde5277f6f9df20ad3d_asdf.js" type="text/javascript"></script>
-<script src="/js/default_asdf.js" type="text/javascript"></script>
+  <script src="/js/application_cc89d5fc6736733cef446336bb614c85_1403812924.js" type="text/javascript"></script>
+<script src="/js/default_1403812924.js" type="text/javascript"></script>
+  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-3.newrelic.com","licenseKey":"4ca04d96b1","applicationID":"3100987","transactionName":"ZFdbNkRXVxIFVkMKW10dehdFQlYMS1BQJ1FVU0wOQhlJEw1DVgBN","queueTime":0,"applicationTime":643,"ttGuid":"","agentToken":"","atts":"SBBYQAxNRBw=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
+
+      <script type="text/javascript">
+    var sidecar = sidecar || {};
+    sidecar.preboot = sidecar.preboot || {};
+    sidecar.preboot.site_key = '6dfff875ae41470091b7e4c488ae8323';
+    </script>
+    <script src="https://d3v27wwd40f0xu.cloudfront.net/js/bootstrap.js" type="text/javascript"></script>
   
-	
-		<script type="text/javascript">
-	var sidecar = sidecar || {};
-	sidecar.preboot = sidecar.preboot || {};
-	sidecar.preboot.site_key = '6dfff875ae41470091b7e4c488ae8323';
-	</script>
-	<script src="https://d3v27wwd40f0xu.cloudfront.net/js/bootstrap.js" type="text/javascript"></script>
 
-
-
-</body></html>
+<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
