@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edublogs.org privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230015932id_/http%3A//edublogs.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edublogs.org privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629053304id_/http%3A//edublogs.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy -Edublogs – education blogs for teachers, students and schools
 
@@ -32,6 +32,10 @@ Certain visitors to Edublogs’s websites choose to interact with Edublogs in wa
 **Aggregated Statistics**
 
 Edublogs may collect statistics about the behavior of visitors to its websites. For instance, Edublogs may monitor the most popular blogs on the Edublogs site or use spam screened by our filters to help identify spam. Edublogs may display this information publicly or provide it to others. However, Edublogs does not disclose personally-identifying information other than as described below.
+
+Edublogs uses Google Analytics for stat tracking including Google Analytics Demographics and Interest Reporting. These stats are never shared, sold, or used for purposes other than to understand our visitors and improve our service.
+
+Using Ads Settings, visitors can [opt-out of Google Analytics](https://tools.google.com/dlpage/gaoptout/) for Display Advertising and customize Google Display Network ads.
 
 **Protection of Certain Personally-Identifying Information**
 
