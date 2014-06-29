@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ulstandards.com privacy policy that was archived on 2011-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110912010258id_/https%3A//www.ulstandards.com/unsecured/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ulstandards.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630000205id_/http%3A//www.ulstandards.com/unsecured/privacy.aspx) for the most accurate reproduction.*
 
 # UL SCCL :: Privacy Policy
 
