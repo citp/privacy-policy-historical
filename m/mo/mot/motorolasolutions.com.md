@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motorolasolutions.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209115850id_/http%3A//www.motorolasolutions.com/Business/US-EN/About/Privacy%2BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motorolasolutions.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629104342id_/http%3A//www.motorolasolutions.com/Business/US-EN/About/Privacy%2BPolicy) for the most accurate reproduction.*
 
 # Privacy Statement - Motorola Solutions USA
 
@@ -103,9 +103,14 @@ When you enter our site, our server may attach a small text file to your hard dr
 
 We may also use cookies to measure traffic patterns, and which areas of the Motorola Solutions site you have visited, and your visiting patterns. This information collected by using a cookie is sometimes called "clickstream." We use this information to understand how our users navigate our site, and to determine common traffic patterns, including what site the user came from. We use this information to make site navigation and product recommendations, and to help redesign our site in order to make your experience on our site more efficient and enjoyable.
 
-We may also use this information to better personalize the content, banner ads, and promotions that you and other users will see. This helps Motorola Solutions deliver you the content you want when you want it, in order for you to make better purchasing decisions. Motorola Solutions uses a third party to track user clickstreams.
+We may also use this information to better personalize the content, banner ads, and promotions that you and other users will see. This helps Motorola Solutions deliver you the content you want when you want it, in order for you to make better purchasing decisions. Motorola Solutions uses third parties to track user clickstreams. These third party companies use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over, hardware/software information, cookie and session ID) and personally identifiable information (e.g., in some jurisdictions, IP address) during your visits to this and other websites in order to provide advertisements about goods and services likely to be of greater interest or relevance to you.
 
 You have choices with respect to cookies. By modifying your Internet browser preferences, you have the ability to accept all cookies, to be notified when a cookie is set, or to reject all cookies. Please note that, if you choose to reject all cookies you will be unable to use those services or engage in activities that require the placement of cookies.
+
+**Privacy Rights of California Residents  
+"Do Not Track"**
+
+Please note that as described above ('What about Cookies?" section) you may be able to control the use of cookies through modification of your web browser preferences. Some web browsers may give you the ability to enable a "do not track" setting that sends a special signal to the websites you visit while browsing the internet. Activating the "do not track' setting is different from declining cookies in your browser settings. To learn more about Privacy Rights of California Residents, [click here](https://web.archive.org/US-EN/About/Privacy+Policy/California+Privacy+Rights).
 
 Motorola Solutions' primary goal in collecting personal information is to facilitate order processing, to communicate regarding business matters, to enable us to contact you if a problem arises with your order, or if there is some other need to reach you. Additionally, if you purchase a product or other device requiring service, your personal information may be used to obtain a credit report if necessary. Such information is required to complete a purchase transaction. This information may also be used to provide you with a customized experience on our site, which includes interactive communications and other services. The Motorola Solutions site may also contain optional registration, surveys and questionnaires asking for information, as well as several opportunities for visitors to ask questions. We use the information you provide to help us design and build better products, to customize your shopping experience, to work better with you as a business partner, and to provide advice and purchase recommendations. Taking part in any of these segments is always optional and voluntary.
 
@@ -150,7 +155,7 @@ Web sites operated by or on behalf of Motorola Solutions, Inc. and its world-wid
 
 * * *
 
-**This Privacy Statement is subject to change without notice.  Last Update: November 26, 2013**
+**This Privacy Statement is subject to change without notice.  Last Update: January 22, 2014**
 
   
 
