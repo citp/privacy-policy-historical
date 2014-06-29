@@ -1,44 +1,40 @@
-> *The following text is extracted and transformed from the occourts.org privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220120116id_/http%3A//www.occourts.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the occourts.org privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629044935id_/http%3A//occourts.org/privacy-policy.html) for the most accurate reproduction.*
 
-# Superior Court of California - County of Orange
+# The Superior Court of California - County of Orange
 
-You are here:   [Home](https://web.archive.org/)   Privacy Policy 
+#### WHAT THIS PRIVACY POLICY COVERS
 
-Thank you for visiting the Orange County Superior Court Website and for reviewing our privacy policy. The Superior Court provides you with this privacy statement in order to disclose the information gathering and dissemination practices for this Website. We do not collect any personal information about you unless you choose to provide that information to us. 
+This policy covers how OCSC treats personal information that it receives, including information related to your past use of certain Court services. Personal information is information about you that is uniquely identifiable such as your name, residential address, email address, or phone number.
 
-## Information Collected and Stored
+#### INFORMATION COLLECTED AND USE GENERAL
 
-For each visitor to the Superior Court Website, our Web server automatically gathers and stores certain information. This information does not personally identify you. Your email address is not automatically collected. Only the following information is collected and stored:
+OCSC retains personal information when you use certain OCSC online applications. For example, when you use certain Court online services we may ask for information such as your name, email address, birth date, gender, zip code, and occupation. When you input this information the Court may retain it in order to assist you in future transaction and to customize the content you see, fulfill your requests for services, improve our services, or to contact you in order to alert to you an impending court appearance or some other issue that we feel may be important to your Court-related matter.
 
-  1. Your Internet domain and IP address.
-  2. The type of browser and operating system you used to access our site.
-  3. The date and time of your access to our site.
-  4. The pages you view on our Website.
-  5. The address of the Website from which you reached us, if you come to our website from a link on another Web site.
+#### CONFIDENTIALITY AND SECURITY
 
+We strictly limit access to personal information about you to those employees who we believe reasonably need to come into contact with that information to provide assistance to you. We have physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you. 
 
+**We do create individual profiles with the information you provide. We do not give it to any other public or private organization for commercial purposes or otherwise**. There is one exception to this policy: if you communicate a threat or a message that describes or promotes unlawful activity, the Court will share it with law enforcement. 
 
-We use this information to make our site more useful to visitors. We use the IP address and domain name to diagnose problems with our server; to keep our website running smoothly; to learn about the number of visitors to our site and the types of technology they use; and to improve the content of the site. We do not track or record information about individuals.
+The Court may use a 3rd party to collect website usage statistics. We do not share this information with outside agencies. 
 
-## If You E-mail the Court
+#### IF YOU E-MAIL THE COURT
 
-DO NOT use e-mails to this website for inquiries or information about specific cases. E-mails sent to the address shown below will not necessarily be reviewed every day. Use this method of communication at your own risk.
+DO NOT use e-mails to this website for inquiries or information about specific cases. E-mails sent to this address shown below will not be reviewed on a regular basis, if ever. Use this method of communication at your own risk. E-mail links within specific applications that you subscribe to will adhere to their own information retention and tracking policy as described within their own ‘terms of use’. It is recommended that these links be used for any questions regarding that particular application. 
 
-If you send personal information to the Court by e-mail, normally we use the information to respond to your message and for no other purpose. We do not create individual profiles with the information you provide or give it to any other public or private organization for commercial purposes or otherwise. There is one exception to this policy: if you communicate a threat or a message that describes or promotes unlawful activity, the Court will share it with law enforcement.
-
-## Links to Other Sites
+#### LINKS TO OTHER SITES
 
 This site contains links to other websites. The Orange County Superior Court is not responsible for the practices or contents of these websites.
 
-## No Substitute for Legal Advice
+#### NO SUBSTITUTE FOR LEGAL ADVICE
 
 No warranty of any kind, expressed or implied is made with respect to any information or third party sites accessed through this page. Further, this website is not a substitute for legal advice. Much of the information provided by this website is subject to change, so you should verify the accuracy and current status of any information published herein before relying upon it.
 
-## Contacting Us
+#### CONTACTING US
 
 If you have any questions about this privacy statement or our Website, you may contact us via the email links for Feedback and Webmaster at the bottom of this page. Please do not, however, ask for legal advice or specific information on a case.
 
-## Our Postal Address is:
+#### OUR POSTAL ADDRESS IS:
 
 700 Civic Center Drive West  
 Santa Ana, CA 92701
