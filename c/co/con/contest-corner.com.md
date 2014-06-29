@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the contest-corner.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228070819id_/http%3A//www.contest-corner.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contest-corner.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629130838id_/http%3A//www.contest-corner.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Contest Corner: The Best Giveaways on The Net! | Oregon Coast Blogger
 
 This Privacy Policy governs the manner in which Contest Corner collects, uses, maintains and discloses information collected from users (each, a “User”) of the <http://www.contest-corner.com/> website (“Site”). This privacy policy applies to the Site and all products and services offered by Contest Corner.
 
 **Personal identification information**
+
+Update April 16th, 2014: Our site uses Google Analytics, which has now upgraded their system and rolled out new features including [demographic information relating to age and gender](https://support.google.com/adwords/answer/2580383?hl=en&utm_id=ad) and “[Interest categories](https://support.google.com/adwords/answer/2497941?hl=en&utm_id=ad)“. We are currently researching these changes and have not yet installed the new tracking code. **You can[opt-out by clicking here](https://www.google.com/settings/u/0/ads?hl=en&sig=ACi0TCibRGEq_A4S0bjEC3hwPRVfQF2oVtpmq6FNH7Z4tURd9u3kvEsHOdEH6la7uWEonP6WWhOInmVdOwwAG3sWOduwNzOTsiQdfqI6JnzlHvO9AC8z1YraG6mIZ11FZPtO_BS4lVK8EoxM_mNBBkfbj-gyE8j5cQBzkCqDbAhBHqfZOHTzpwO2-ONlboPmvQVwEXKTMRFdaknxPQMjv5kinTmke0blYhC5UnvfgirOOYlj82s16znudKzFuMh8DJAtVEzoXHyj) and find other opt-outs [here.](https://tools.google.com/dlpage/gaoptout/)**
 
 We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, subscribe to the newsletter, respond to a survey, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
@@ -58,4 +60,4 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
 [supercoupongirl@gmail.com](mailto:supercoupongirl@gmail.com)
 
-This document was last updated on June 23, 2012
+This document was last updated on April 16th, 2014
