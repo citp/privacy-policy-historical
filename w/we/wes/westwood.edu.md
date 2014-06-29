@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the westwood.edu privacy policy that was archived on 2013-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130602094453id_/http%3A//www.westwood.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westwood.edu privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629114210id_/http%3A//www.westwood.edu/privacy-policy) for the most accurate reproduction.*
 
 # Westwood College Privacy Policy
 
@@ -60,6 +60,7 @@ When using our job application page(s), these pages are hosted by our third part
 In addition to the information you provide to us when you request information, we may automatically collect information about you that is not personally identifiable. Examples of this type of information include:
 
   * Your Internet browser. 
+  * Your IP address. 
   * Your computer's operating system. 
   * Your navigation path, including the domain name of the website that linked you to our site and which of our pages you visited. 
   * When you view one of our web sites, we may store cookies on your computer. These cookies allow us to tailor a web site or advertisement to better match your interests and preferences. With most Internet browsers you can block cookies, receive a warning about cookies, or erase all cookies from your hard drive. Please refer to your browser instructions or Help screen to learn more about these functions. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. 
@@ -88,6 +89,10 @@ When you enter sensitive information (such as social security number) on our reg
 
 If you click on a link to a third party site, you will leave the Alta Colleges site you are visiting and be redirected to the site you selected. Because we cannot control the activities of third parties, we cannot accept responsibility for any use of your personally identifiable information by such third parties, and we cannot guarantee that they will adhere to the same privacy practices as Alta Colleges. We encourage you to review the privacy statements of any other service provider from whom you request services. If you visit a third party website that is linked to a Alta Colleges site, you should read that site’s privacy policy before providing any personally identifiable information.
 
+### How We Respond to Browser "Do Not Track" Signals: 
+
+Some web browsers incorporate a "Do Not Track" feature that signals to websites you visit that you do not want to have your online activity tracked. California law requires that website operators disclose how they respond to a Do Not Track signal and whether other third parties may collect personally identifiable information about an individual’s online activities from their site or service. We currently do not respond to “Do Not Track” signals. As the technology and communication between browser and website improves, we may make changes to our policy. Please refer to the section titled “Information Collected Automatically” for additional information.
+
 ### Changes in this Privacy Policy
 
 We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the email address specified in your account) or by means of notice on this site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
@@ -101,4 +106,4 @@ Denver, CO 80237
 
 [information@westwood.edu](mailto:information@westwood.edu)
 
-Effective: 4/1/2013
+Effective: 01/06/2014
