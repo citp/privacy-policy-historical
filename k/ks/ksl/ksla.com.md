@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ksla.com privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104081259id_/http%3A//www.ksla.com/story/8774923/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ksla.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629111835id_/http%3A//www.ksla.com/story/8774923/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - KSLA News 12 Shreveport, Louisiana News Weather & Sports
 
@@ -29,6 +29,9 @@ In addition, we may collect information about your location when you access any 
 We do not knowingly collect personally identifiable information from children younger than 13 years of age. Before registering for an account to use the Services, we ask that all minors 13 and older have their parents read this Privacy Policy.
 
 We do not control the acts of users of the Services. All users should be aware that, when they disclose personally identifiable information in a bulletin board, chat room, guestbook, or other forum, the information may be collected and used by others to send that person unsolicited e-mail from other parties outside of the Services or WorldNow. In the event that you encounter any user of the Services who is improperly collecting or using information about you or other users, please contact us at [www.raycommedia.com](http://www.raycommedia.com/). 
+
+At this time, this website and the Services do not recognize automated browser signals regarding tracking mechanisms and preferences, which may include "do not track" instructions for personally identifiable information. Third parties may also collect personally identifiable information about users' online activities over time and across different websites as they use our Services and the website. However, you may adjust the privacy preferences of your browser, including the control of how and whether cookies will be accepted by your web browser or device.  For more information on how to do so, please refer to the documentation accompanying your browser or device.  
+
 
 **How we use (and do not use) the information we gather**
 
@@ -70,4 +73,4 @@ We may use third-party advertising companies to serve ads when you use the Servi
 
 Questions regarding this Privacy Policy should be directed to us via the contact link at [www.raycommedia.com](http://www.raycommedia.com/)[](http://www.raycommedia.com/contact/). Please include the URL of the station's website or the name of the mobile application or other Service offered by the station in your email.
 
-_Effective date: March 3, 2012_
+_Effective date: December 10, 2013_
