@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the honda.com privacy policy that was archived on 2013-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131104011635id_/http%3A//www.honda.com/site/site_privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the honda.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629111233id_/http%3A//www.honda.com/site/site_privacy.aspx) for the most accurate reproduction.*
 
 # Honda Cars Motorcycles Watercraft ATVs Engines Generators, Acura
 
@@ -14,6 +14,8 @@ We may request personally identifiable information in order to enhance your expe
 
 To use American Honda's Internet services, such as the Dealer Locator and brochure requests, we require a certain amount of personally identifying information such as name and address to meet your request.  We may use this information to identify and access data in the existing relationship we have with you to provide you with the requested services.  We may request email addresses as an alternate means of contacting you.
 
+Our websites may not recognize browser based do not track signals.
+
 We collect and use anonymous information
 
 We may gather and store certain anonymous information about your visit, including the name of your Internet Service Provider (ISP), the type of browser and operating systems used to access our site, the date and time you access our site, the website that referred you to us, and the pages you visit (click-through).  This information does not identify you personally.  This information is collected and used to generate statistics, measure site activity, and improve the usefulness of our sites.
@@ -28,7 +30,7 @@ Some of our sites, such as automobiles.honda.com and owners.honda.com/owners.acu
 
 Information use
 
-The information you share with American Honda is used to improve the services we provide you and to provide services to you that you request.  For example, if you enroll in EasyPay or Pay Online, our account payment services, we will be required to validate your bank account information with your bank.  If you request brochures, we may hire a third party fulfillment company to meet your request.  We may share information about you with third party service providers (such as companies who assist us in conducting surveys and research to help us provide better products and services).  However, your information is not shared with or sold to any other third party entity or individual for that entity or individual's independent use with the exception of when you request to be added to the fan mailing list of one of the participating Civic Tour bands and/or Civic Tour promotional partners or in situations where required by law, we may need share this information with law enforcement officials such as in response to a court order or subpoena.  American Honda Finance Corporation ("AHFC") customers are also encouraged to see the AHFC Financial Privacy Policy below to learn more about our protections and use of your nonpublic personal information (such as personally identifiable financial information).  
+The information you share with American Honda is used to improve the services we provide you and to provide services to you that you request.  For example, if you enroll in EasyPay or Pay Online, our account payment services, we will be required to validate your bank account information with your bank.  If you request brochures, we may hire a third party fulfillment company to meet your request.  We may share information about you with third party service providers (such as companies who assist us in conducting surveys and research to help us provide better products and services).  However, your information is not shared with or sold to any other third party entity or individual for that entity or individual's independent use with the exception of when you request to be added to the fan mailing list of one of the participating Civic Tour bands and/or Civic Tour promotional partners or in situations where required by law, we may need to share this information with law enforcement officials such as in response to a court order or subpoena.  American Honda Finance Corporation ("AHFC") customers are also encouraged to see the AHFC Financial Privacy Policy below to learn more about our protections and use of your nonpublic personal information (such as personally identifiable financial information).  
 
 Security
 
