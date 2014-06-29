@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the esc4.net privacy policy that was archived on 2013-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131025014414id_/http%3A//www.esc4.net/default.aspx%3Fname%3Dpi.terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esc4.net privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629032419id_/http%3A//www.esc4.net/default.aspx%3Fname%3Dpi.terms) for the most accurate reproduction.*
 
 # 
 
-The Region 4 Education Service Center website is intended for use by the general public as a convenient way to access the information and services provided by the Center. Efforts are made to ensure that the information presented is complete and accurate. However, the information and services included in or available through the Center's website may include inaccuracies or typographical errors. The website is periodically updated, corrected or otherwise modified at Region 4’s sole discretion and without notice. Any concerns regarding the accuracy of the information posted on this website should be directed to [ddeltoro@esc4.net](mailto:ddeltoro@esc4.net).
+The Region 4 Education Service Center website is intended for use by the general public as a convenient way to access the information and services provided by the Center. Efforts are made to ensure that the information presented is complete and accurate. However, the information and services included in or available through the Center's website may include inaccuracies or typographical errors. The website is periodically updated, corrected or otherwise modified at Region 4’s sole discretion and without notice. Any concerns regarding the accuracy of the information posted on this website should be directed to [website@esc4.net](mailto:website@esc4.net).
 
 Region 4 Education Service Center does not represent or warrant that the website will be uninterrupted or error-free, that defects will be corrected, or that the website or the server that makes it available, are free of viruses, malware,  or other harmful components.
 
@@ -34,4 +34,4 @@ Region 4 automatically collects and stores "non-personally identifiable" informa
 
  **Intellectual Property Rights**
 
-The content contained within this website including, but not limited to, text, software, music, sound, photographs, video, graphics, or other material, may be protected by copyrights, trademarks, service marks, patents, or other proprietary rights and laws. Unless otherwise noted, Region 4 Education Service Center maintains intellectual property rights to all content on the website. For use permissions or information contact [ddeltoro@esc4.net](mailto:ddeltoro@esc4.net).
+The content contained within this website including, but not limited to, text, software, music, sound, photographs, video, graphics, or other material, may be protected by copyrights, trademarks, service marks, patents, or other proprietary rights and laws. Unless otherwise noted, Region 4 Education Service Center maintains intellectual property rights to all content on the website. For use permissions or information contact [website@esc4.net](mailto:website@esc4.net).
