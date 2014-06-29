@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hornywood.tv privacy policy that was archived on 2012-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121211113030id_/http%3A//www.linkbucks.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hornywood.tv privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629043359id_/https%3A//www.linkbucks.com/policy) for the most accurate reproduction.*
 
 # Linkbucks.com - Make money when people leave your website!
 
@@ -72,6 +72,6 @@ Linkbucks.com, LLC
 Culver City, CA 90232  
 (951) 262-3013 
 
-<http://www.linkbucks.com/contact/>
+[https://www.linkbucks.com/contact/](https://web.archive.org/contact/)
 
 This document was last updated on August 16, 2012 
