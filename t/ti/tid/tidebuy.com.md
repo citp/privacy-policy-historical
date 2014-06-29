@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tidebuy.com privacy policy that was archived on 2013-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131022151309id_/http%3A//help.tidebuy.com/Privacy-Policy-on-Tidebuycom-141.html%23detail1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tidebuy.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629140107id_/http%3A//help.tidebuy.com/Privacy-Policy-on-Tidebuycom-141.html%23detail1) for the most accurate reproduction.*
 
-# privacy policy on tidebuy.com :Tidebuy.com
+# privacy policy on tidebuy.com:Tidebuy.com
 
 On Tidebuy.com, we take the protection for your Personal Information (such as name; address; phone number; e-mail address; credit card number; gender; language preference; and merchandise category preferences) very seriously.
 
