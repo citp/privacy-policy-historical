@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the holtrenfrew.com privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819062211id_/http%3A//www.holtrenfrew.com/en/holt/content/footer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holtrenfrew.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629154221id_/http%3A//www.holtrenfrew.com/en/holt/content/footer/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Holt Renfrew
 
@@ -196,8 +196,16 @@ Holt Renfrew Chief Privacy Officer
 60 Bloor Street West, Suite 300  
 Toronto, ON M4W 3B8  
 Or:  
-Fax the Office of the Holt Renfrew Chief Privacy Officer at: 416-922-3826.
+Fax the Office of the Holt Renfrew Chief Privacy Officer at: 416-922-3826416-922-3826.
 
 The Holt Renfrew Chief Privacy Officer's office will acknowledge your complaint. Then, providing legal action has not been taken on the matter, the Holt Renfrew Chief Privacy Officer immediately goes to work. You will receive a response within thirty (30) working days.
 
 **If You Are Not Satisfied With the Decision of Holt Renfrew'S Chief Privacy Officer Regarding Your Complaint.** Should you not be able to accept the conclusion of Holt Renfrew'S Chief Privacy Officer, you can ask how your complaint can be further escalated.
+
+**Anti-Spam Policy**
+
+Holt Renfrew maintains a strict no-spam **[policy](http://www.holtrenfrew.com/en/holt/content/footer/casl)**. If you receive unsolicited email from Holt Renfrew, our vendor partners, concessionaires or agents, please notify us at [**privacy.office@holtrenfrew.com**](mailto:privacy.office@holtrenfrew.com). Include the offending email with all the headers intact. Please be aware that it is not uncommon for spammers to hide behind someone else's email account, as well as use mail servers that they do not own.
+
+**Changes to this Privacy Policy**
+
+As Holt Renfrew regularly reviews all policies and procedures, we may change our Privacy Policy from time to time. These changes will be posted on our website as soon as is practical. This privacy statement was last updated on June, 10, 2014. It replaces the privacy statement that was dated November, 13, 2012.
