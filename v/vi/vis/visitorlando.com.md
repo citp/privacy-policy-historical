@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the visitorlando.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230165607id_/http%3A//www.visitorlando.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitorlando.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630015335id_/http%3A//www.visitorlando.com/privacy-policy) for the most accurate reproduction.*
 
 # Visit Orlando - Official Florida Vacation Information
-
-Privacy Policy 
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name. 
 
@@ -26,7 +24,7 @@ A "cookie" is a small data file transferred by a Web site to your computer's har
 
 Most browsers automatically accept cookies by default, but you can usually refuse cookies or selectively accept certain cookies by adjusting the preferences in your browser. If you turn off cookies, there may be some features of our site that will not be available to you and some Web pages may not display properly. You can find information on popular browsers and how to adjust your cookie preferences at the following websites: 
 
-Microsoft Internet Explorer: <http://www.microsoft.com/info/cookies.htm>
+Microsoft Internet Explorer: <http://www.microsoft.com/info/cookies.mspx>
 
 Mozilla Firefox: <http://www.mozilla.org/support/firefox/options#privacy>
 
@@ -62,3 +60,5 @@ Orlando FL 32821
 We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. 
 
 Updated 3/9/05 
+
+© 2014 Visit Orlando.   All rights reserved.
