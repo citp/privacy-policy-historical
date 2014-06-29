@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sciencebuddies.org privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204052549id_/http%3A//www.sciencebuddies.org/science-fair-projects/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sciencebuddies.org privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629190800id_/http%3A//www.sciencebuddies.org/science-fair-projects/privacy_policy.shtml) for the most accurate reproduction.*
 
 # Science Buddies: Privacy Policy
 
@@ -12,11 +12,11 @@ As we continue to offer our visitors new and different types of content and serv
 
 * **The Information We Collect**
 
-At ScienceBuddies.org we do not collect personally identifiable information, unless our visitors voluntarily provide it to us. For some tools on our website, such as the Topic Selection Wizard, we may ask visitors to provide information that is not personally identifiable. This might include zip code, gender, grade level, or ethnicity. For other tools—such as the Help button, "Email This" feature, and some of our online surveys—we ask visitors to provide us with an email address. Email addresses collected through our Help button and "Email This" feature are deleted from our database once the help request has been filled. For ongoing activities, such as the Ask an Expert Forums (bulletin boards), we ask visitors to provide us with a username and password, zip code, and email address to create an online account. Upon receipt, we will inform the parents of registration, via email. Once the parent has access to the username and password, he or she will be able to change and even delete any personal information. If you would like Science Buddies to stop collecting and using your child's information, please email [scibuddy@sciencebuddies.org](mailto:scibuddy@sciencebuddies.org?subject=Privacy%20Policy:%20Stop%20Information).
+At ScienceBuddies.org we do not collect personally identifiable information, unless our visitors voluntarily provide it to us. For some tools on our website, such as the Topic Selection Wizard, we may ask visitors to provide information that is not personally identifiable. This might include zip code, gender, grade level, or ethnicity. For other tools—such as the Help button, "Email This" feature, and some of our online surveys—we ask visitors to provide us with an email address. Email addresses collected through our Help button and "Email This" feature are deleted from our database once the help request has been filled. For ongoing activities, such as the Ask an Expert Forums (bulletin boards), we ask visitors to provide us with a username and password, zip code, and email address to create an online account. Upon receipt, we will inform the parents of registration, via email. Once the parent has access to the username and password, he or she will be able to change and even delete any personal information. If you would like Science Buddies to stop collecting and using your child's information, please email [scibuddy@sciencebuddies.org](mailto:scibuddy@sciencebuddies.org?subject=Privacy+Policy%3a+Stop+Information).
 
 For select programs, such as our online mentoring, or becoming a Science Buddies Member, we ask for more detailed information, which we use to develop program requirements and to ensure the safety of all participants. To apply as a volunteer for Science Buddies, or as a participant in one of our mentoring programs, visitors need to provide us with personal information so that we are better able to place participants in a suitable role or mentoring environment. The types of information collected at these pages include: name, address, email address, phone number, academic, background, interests, (etc.) On some pages, visitors are asked to submit information about other people. For example, student applicants will need to submit a parent's email address. In this circumstance, the types of personal information collected include: name, address, email address, phone number, age, gender, ethnicity, parent name, parent education, school name, academic background, interests.
 
-When a child under 13 participates in an ongoing activity (i.e., online mentoring and the Ask an Expert Forums) that requires the collection, retention, and use of personal information, we will disclose this request to the parent through an email, so that we can notify the parent that we have received personal information from his or her child. We do not knowingly collect names and email addresses from children under 13 for these types of activities without notifying the parent and giving the parent the option to remove his or her child's email address from the applicable database for that activity. If you would like Science Buddies to stop collecting and using your child's information, please email [scibuddy@sciencebuddies.org](mailto:scibuddy@sciencebuddies.org?subject=Privacy%20Policy:%20Stop%20Information).
+When a child under 13 participates in an ongoing activity (i.e., online mentoring and the Ask an Expert Forums) that requires the collection, retention, and use of personal information, we will disclose this request to the parent through an email, so that we can notify the parent that we have received personal information from his or her child. We do not knowingly collect names and email addresses from children under 13 for these types of activities without notifying the parent and giving the parent the option to remove his or her child's email address from the applicable database for that activity. If you would like Science Buddies to stop collecting and using your child's information, please email [scibuddy@sciencebuddies.org](mailto:scibuddy@sciencebuddies.org?subject=Privacy+Policy%3a+Stop+Information).
 
 For purchases made on our site, we will collect information such as address and phone number that is necessary to complete delivery of your order. We do not store any credit card information you supply to complete a purchase.
 
@@ -53,15 +53,15 @@ We may disclose personally identifiable information in response to legal process
 
 We will not use or transfer personally identifiable information in ways that are materially different from the ones described above without also providing parental notification of such practices and obtaining consent for any materially different uses.
 
-Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing visitors an opportunity to opt out or otherwise prohibit such unrelated uses. If you would like Science Buddies to stop collecting and using your child's information, please email [scibuddy@sciencebuddies.org](mailto:scibuddy@sciencebuddies.org?subject=Privacy%20Policy:%20Stop%20Information).
+Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing visitors an opportunity to opt out or otherwise prohibit such unrelated uses. If you would like Science Buddies to stop collecting and using your child's information, please email [scibuddy@sciencebuddies.org](mailto:scibuddy@sciencebuddies.org?subject=Privacy+Policy%3a+Stop+Information).
 
 * **Science Buddies Email Policy**
 
-ScienceBuddies.org will not share, sell, rent, swap, or authorize any third party to use your email address without your permission. If you feel you have received an email from us in error, please contact [scibuddy@sciencebuddies.org](mailto:scibuddy@sciencebuddies.org?subject=Privacy%20Policy:%20Email).
+ScienceBuddies.org will not share, sell, rent, swap, or authorize any third party to use your email address without your permission. If you feel you have received an email from us in error, please contact [scibuddy@sciencebuddies.org](mailto:scibuddy@sciencebuddies.org?subject=Privacy+Policy%3a+Email).
 
 **Account and Service-Related Email:** Science Buddies reserves the right to send you email relating to your account status. This includes confirmations, renewal/expiration notices, other transactional emails, and notifications about major changes to our websites and/or to our Privacy Policy. If you have registered for online discussions or other services, you may receive email specific to your participation in those activities.
 
-**Email Newsletters:** Science Buddies occasionally offers email newsletters. If you do not wish to receive a specific newsletter, follow the "unsubscribe" instructions located near the bottom of each newsletter or email [scibuddy@sciencebuddies.org](mailto:scibuddy@sciencebuddies.org?subject=Privacy%20Policy:%20Unsubscribe) to opt out of our mailing list.
+**Email Newsletters:** Science Buddies occasionally offers email newsletters. If you do not wish to receive a specific newsletter, follow the "unsubscribe" instructions located near the bottom of each newsletter or email [scibuddy@sciencebuddies.org](mailto:scibuddy@sciencebuddies.org?subject=Privacy+Policy%3a+Unsubscribe) to opt out of our mailing list.
 
 * **Our Commitment to Data Security**
 
@@ -69,7 +69,7 @@ To prevent unauthorized access, maintain data accuracy, and ensure the correct u
 
 * **How To Access or Correct Your Information**
 
-Visitors can access all the personally identifiable information that we collect online and maintain by emailing [scibuddy@sciencebuddies.org](mailto:scibuddy@sciencebuddies.org?subject=Privacy%20Policy:%20Personal%20Information). We use this procedure to better safeguard visitor information.
+Visitors can access all the personally identifiable information that we collect online and maintain by emailing [scibuddy@sciencebuddies.org](mailto:scibuddy@sciencebuddies.org?subject=Privacy+Policy%3a+Personal+Information). We use this procedure to better safeguard visitor information.
 
 Visitors can correct factual errors in personally identifiable information by sending us a request that credibly shows error.
 
@@ -79,7 +79,7 @@ To protect visitor privacy and security, we will also take reasonable steps to v
 
 If you have any questions, comments, or concerns regarding our privacy policy and/or practices, please contact us at the following email address or mailing address:
 
-Email: [scibuddy@sciencebuddies.org](mailto:scibuddy@sciencebuddies.org?subject=Privacy%20Policy:%20Contact%20Us)
+Email: [scibuddy@sciencebuddies.org](mailto:scibuddy@sciencebuddies.org?subject=Privacy+Policy%3a+Contact+Us)
 
 Mailing Address:  
 Science Buddies Privacy  
