@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boardgamegeek.com privacy policy that was archived on 2013-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130829123045id_/http%3A//boardgamegeek.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boardgamegeek.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629131605id_/http%3A//boardgamegeek.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | BoardGameGeek
 
