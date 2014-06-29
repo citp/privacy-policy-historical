@@ -1,14 +1,16 @@
-<!--The following is the downloaded HTML source of the blippr.com privacy policy that was archived on 2013-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131228034053id_/http%3A//mashable.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the blippr.com privacy policy that was archived on 2014-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140629043313id_/http%3A//mashable.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html data-env="production" lang="en" xml:lang="en"><head><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
+<!DOCTYPE html><html data-env="production" lang="en" xml:lang="en"><head>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-1.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"faaaef6476","applicationID":"1135420","transactionName":"cAkNR0ENXQpXF0tJA1QDEBxACl4R","queueTime":0,"applicationTime":26,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-411.min.js"}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwYHUF9ACQIDUVVQBw=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
 <script>
   window.__o = {"channel":"home","content_type":"Homepage"};
   window._gaq = window._gaq || [];
   window._gaq.push(['_setAccount', 'UA-92124-1']);
 </script>
 <title>Mashable</title>
-<link href="http://rack.3.mshcdn.com/assets/app-35b03506b28217d23c8a548c7612fe39.css" media="screen" rel="stylesheet" type="text/css">
+<link href="http://rack.3.mshcdn.com/assets/app-27e708684e20cec27e4ec2f879533a63.css" media="screen" rel="stylesheet" type="text/css">
 <link href="http://rack.0.mshcdn.com/assets/pages-e1c54be409cf33a2d2714a07fa59af45.css" media="all" rel="stylesheet" type="text/css">
 <!--[if lte IE 8]>
 <link href="http://rack.3.mshcdn.com/assets/iehax-957092b11e263c6b850533d06d5aaa2c.css" media="screen" rel="stylesheet" type="text/css" />
@@ -26,7 +28,7 @@
 
 <link data-page-subject="true" href="http://mashable.com/privacy/" rel="canonical"><meta content="http://mashable.com/privacy/" data-page-subject="true" property="og:url"><meta content="Mashable" data-page-subject="true" property="og:title"><meta content="website" data-page-subject="true" property="og:type"><meta content="Mashable" data-page-subject="true" property="og:site_name"><meta content="Mashable covers the top social media news on topics like Facebook, YouTube, Gmail, Twitter, Amazon, Pinterest and More." data-page-subject="true" property="og:description"><meta content="Mashable covers the top social media news on topics like Facebook, YouTube, Gmail, Twitter, Amazon, Pinterest and More." data-page-subject="true" name="description"><meta content="Social Networking, Social Media, News, Web, Technology, Web 2.0, Tech, Information, Blog, Facebook, YouTube, Google, Top" data-page-subject="true" name="keywords">
 
-<script src="http://rack.3.mshcdn.com/assets/app-4d5ccff5c87db152a3eeb0fc21b84044.js" type="text/javascript"></script>
+<script src="http://rack.2.mshcdn.com/assets/app-5762275e527bfe597d6d92c73b55ae0a.js" type="text/javascript"></script>
 <!--[if lte IE 8]>
 <script src="http://rack.2.mshcdn.com/assets/polyfill-6620db93ad92c8f787391361dfe3f23c.js" type="text/javascript"></script>
 <![endif]-->
@@ -48,11 +50,14 @@
 <div class="submenu-content">
 <div class="page-container">
 <div class="pull-right follow">
-<a class="social-stub social-share facebook like" data-default="1" data-href="http://facebook.com/mashable" data-shares="1.7m">Like</a>
+<a class="social-stub social-share facebook like" data-default="1" data-href="http://facebook.com/mashable" data-shares="2.4m">Like</a>
 <a class="twitter-follow-button" data-dnt="true" data-show-count="true" data-show-screen-name="false" href="https://twitter.com/mashable">
 Follow @mashable
 </a>
 <div class="g-follow" data-annotation="bubble" data-height="20" data-href="//plus.google.com/+Mashable" data-rel="author"></div>
+<div class="g-override-container">
+<div class="g-ytsubscribe" data-channel="mashable"></div>
+</div>
 <a alt="RSS Feed" class="rss" href="http://feeds.mashable.com/Mashable" title="RSS Feed"></a>
 <a alt="Email Subscriptions" class="email" href="/subscriptions" title="Email Subscriptions"></a>
 <div class="more">
@@ -70,28 +75,26 @@ Follow @mashable
 </div>
 </div>
 </div></li>
+<li class="collapsable" data-tags=""><a href="/category/world-cup">World Cup</a></li>
 <li class="collapsable channel submenu" data-tags="how-to,facebook,twitter,youtube,google-plus"><a href="/social-media/">Social Media</a><div class="submenu-content"></div></li>
 <li class="collapsable channel submenu" data-tags="apps-software,dev-design,gadgets,mobile"><a href="/tech/">Tech</a><div class="submenu-content"></div></li>
 <li class="collapsable channel submenu" data-tags="advertising,marketing,media,small-business,startups,jobs"><a href="/business/">Business</a><div class="submenu-content"></div></li>
 <li class="collapsable channel submenu" data-tags="film,gaming,music,sports,television"><a href="/entertainment/">Entertainment</a><div class="submenu-content"></div></li>
-<li class="collapsable channel submenu" data-tags="politics,social-good,us,world"><a href="/us-world/">US &amp; World</a><div class="submenu-content"></div></li>
-<li class="collapsable channel submenu" data-tags="family-parenting,health-fitness,home,travel-and-leisure,work-and-play"><a href="/lifestyle/">Lifestyle</a><div class="submenu-content"></div></li>
+<li class="collapsable channel submenu" data-tags="us,world,climate,space,politics,social-good"><a href="/us-world/">US &amp; World</a><div class="submenu-content"></div></li>
 <li class="collapsable channel submenu" data-tags="pics,memes,comics,conversations,videos-watercooler"><a href="/watercooler/">Watercooler</a><div class="submenu-content"></div></li>
-<li class="collapsable" data-tags=""><a href="http://findjobs.mashable.com">Jobs</a></li>
 <li class="submenu more"><a href="#"><!-- %span=t "header.nav.more" -->
 <span>More</span></a>
 <div class="submenu-content">
 <div class="page-container">
 <ul class="columns"><li><ul class="column-list"><li class="header">Channels</li>
+<li><a href="/category/world-cup">World Cup</a></li>
 <li><a href="/social-media/">Social Media</a></li>
 <li><a href="/tech/">Tech</a></li>
 <li><a href="/business/">Business</a></li>
 <li><a href="/entertainment/">Entertainment</a></li>
 <li><a href="/us-world/">US &amp; World</a></li>
-<li><a href="/lifestyle/">Lifestyle</a></li>
-<li><a href="/watercooler/">Watercooler</a></li>
-<li><a href="http://findjobs.mashable.com">Jobs</a></li></ul></li><li><ul class="column-list">
-<li class="header">Company</li><li><a href="/about/">About Us</a></li><li><a href="http://www.wrightsmedia.com/sites/mashable/">Licensing &amp; Reprints</a></li><li><a href="http://mashable.com/2012/">Archive</a></li></ul></li><li><ul class="column-list">
+<li><a href="/watercooler/">Watercooler</a></li></ul></li><li><ul class="column-list">
+<li class="header">Company</li><li><a href="/about/">About Us</a></li><li><a href="http://www.wrightsmedia.com/sites/mashable/">Licensing &amp; Reprints</a></li><li><a href="http://mashable.com/2013/">Archive</a></li><li><a href="http://mashable.theresumator.com/">Mashable Careers</a></li></ul></li><li><ul class="column-list">
 <li class="header">Contact</li><li><a href="/contact-us/">Contact Us</a></li><li><a href="/submit/">Submit News</a></li></ul></li><li><ul class="column-list">
 <li class="header">Advertise</li><li><a href="/advertise/">Advertise</a></li></ul></li><li><ul class="column-list">
 <li class="header">Legal</li><li><a href="/privacy/">Privacy Policy</a></li><li><a href="/terms/">Terms of Use</a></li></ul></li><li><ul class="column-list">
@@ -205,11 +208,11 @@ When you use our services or view content provided by us, we may automatically c
 <a class="brand" href="/">
 Mashable
 </a>
-<span class="blurb">is the largest independent online news site dedicated to covering digital culture, social media and technology. With more than 20 million unique monthly visitors, Mashable has one of the most engaged online news communities. Founded in 2005, Mashable is headquartered in New York City with an office in San Francisco.</span>
+<span class="blurb">is a leading source for news, information and resources for the Connected Generation. Mashable reports on the importance of digital innovation and how it empowers and inspires people around the world. Mashable's record 34 million unique visitors worldwide and 15 million social media followers are one of the most influential and engaged online communities. Founded in 2005, Mashable is headquartered in New York City with an office in San Francisco.</span>
 </div>
 <ul class="copyright-and-legal">
 <li>
-©2005-2013
+©2005-2014
 Mashable, Inc.
 </li>
 <li>
@@ -226,17 +229,6 @@ Designed in collaboration with <a rel="nofollow" href="http://www.codeandtheory.
 <img src='http://b.scorecardresearch.com/p?c1=2&amp;c2=8750086&amp;cv=2.0&amp;cj=1'>
 </noscript></div>
 </div>
-<script type="text/javascript">if (!NREUMQ.f) { NREUMQ.f=function() {
-NREUMQ.push(["load",new Date().getTime()]);
-var e=document.createElement("script");
-e.type="text/javascript";
-e.src=(("http:"===document.location.protocol)?"http:":"https:") + "//" +
-  "js-agent.newrelic.com/nr-100.js";
-document.body.appendChild(e);
-if(NREUMQ.a)NREUMQ.a();
-};
-NREUMQ.a=window.onload;window.onload=NREUMQ.f;
-};
-NREUMQ.push(["nrfj","beacon-1.newrelic.com","faaaef6476","1135420","cAkNR0ENXQpXF0tJA1QDEBxACl4R",0,42,new Date().getTime(),"","","","",""]);</script>
 
-<script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
+
+<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
