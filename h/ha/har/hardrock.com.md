@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the hardrock.com privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129171455id_/http%3A//www.hardrock.com/privacy/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hardrock.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629064049id_/http%3A//www.hardrock.com/privacy/privacy.aspx) for the most accurate reproduction.*
 
 # Hard Rock Corporate | Privacy Policy
 
 Privacy Policy  
-Last updated 12/01/12
+Last updated 12/31/13
 
 We respect the privacy of every individual who visits this site
 
@@ -27,9 +27,13 @@ RIGHT NOT TO PROVIDE INFORMATION
 
 In certain jurisdictions, you may have the right not to provide Personal Information. However, if you elect not to provide such information, you may not be able to utilize certain services on this Website.
 
-COOKIES
+COOKIES/ONLINE TRACKING
 
-Some information that we collect about you is collected passively through the use of "cookies." Cookies are small files of information, which save and retrieve information about your visit to the Website - for example, how you entered and navigated our site, and what information was of interest to you. We use this information to remember you when you return and to customize our Website to your preferences. You may set your Web browser to notify you when you receive a cookie or to not accept certain cookies. However, you may find that some parts of the Website will not function properly if cookies are refused.
+Some information that we collect about you is collected passively through the use of "cookies." Cookies are small files of information, which save and retrieve information about your visit to the Website - for example, how you entered and navigated our site, and what information was of interest to you. We use this information to remember you when you return and to customize our Website to your preferences. You may set your Web browser to notify you when you receive a cookie or to not accept certain cookies. However, you may find that some parts of the Website will not function properly if cookies are refused. Please note that Hard Rock does not collect, and is not aware of third parties that collect, from users of the Website personal information about users’ online activities across third party websites.
+
+THIRD PARTY ANALYTICS/TRACKING
+
+We use automated devices and applications, such as Google Analytics, to evaluate usage of our Site. We also may use other analytic means to evaluate our Services. We use these tools to help us improve our Services, performance and user experiences. These entities may use cookies and other tracking technologies to perform their services. We do not share your personal information with these third parties.
 
 ACCESS AND CORRECTION
 
@@ -55,7 +59,7 @@ We may transfer your Personal Information as an asset in connection with the sal
 
 CHOICE/OPT-IN
 
-Our users are given the opportunity to 'opt-out' to having their Personal Information used for purposes not directly related to the purposes for which it has been collected. For example, our online Rock Shop retail merchandise order form has an 'opt-out' mechanism so users who buy a product or register for a service from us, but don't want any marketing material, can keep their email address off of our lists.
+Our users are given the opportunity to 'opt-out’ to having their Personal Information used for purposes not directly related to the purposes for which it has been collected. For example, our online Rock Shop retail merchandise order form has an 'opt-out' mechanism so users who buy a product or register for a service from us, but don't want any marketing material, can keep their email address off of our lists.
 
 HARD ROCK –3RD PARTY DISCLOSURE POLICY
 
@@ -63,7 +67,7 @@ We may, under limited circumstances, send you offers for related products or ser
 
 CONSENT TO SHARING OF PERSONAL INFORMATION
 
-As a global organization, data we collect may be transferred internationally throughout Hard Rock's worldwide organization to Hard Rock's headquarters in the United States. Some of these foreign jurisdictions may not provide the same level of privacy protection as your local jurisdiction. By purchasing Services and submitting Personal Information through the Website, you consent to such transfers of your Personal Information. Without such consent, Hard Rock is not able to provide you with access to its online Services and other programs.
+As a global organization, data we collect may be transferred internationally throughout Hard Rock's worldwide organization to Hard Rock’s headquarters in the United States. Some of these foreign jurisdictions may not provide the same level of privacy protection as your local jurisdiction. By purchasing Services and submitting Personal Information through the Website, you consent to such transfers of your Personal Information. Without such consent, Hard Rock is not able to provide you with access to its online Services and other programs.
 
 PUBLIC FORUMS
 
@@ -91,12 +95,12 @@ You may address all communications to Privacy Policy, Hard Rock Cafe Internation
 
 ENFORCEMENT
 
-This Website is compliant with the U.S. Commerce Department Safe Harbor provisions. In order to demonstrate that our privacy policy accords with the above privacy instrument, we are voluntarily committed to a Self Assessment procedure. If you feel that Hard Rock has not complied with the policies outlined in this privacy policy please contact us at [customer_care@hardrock.com](mailto:customer_care@hardrock.com), attention: Privacy Compliance. The Company will investigate and attempt to resolve complaints and disputes regarding use and disclosure of Personal Information in accordance with the principles contained in this Policy. For complaints that cannot be resolved between the Company and the complainant, the Company has agreed to participate in the dispute resolution procedures of the American Arbitration Association ("AAA") in accordance with its applicable commercial rules as well as the Safe Harbor Principles.
+This Website is compliant with the U.S. Commerce Department Safe Harbor provisions. To learn more about the Safe Harbor program, and to view Hard Rock’s certification, please visit <http://www.export.gov/safeharbor/> In order to demonstrate that our privacy policy accords with the above privacy instrument, we are voluntarily committed to a Self Assessment procedure. If you feel that Hard Rock has not complied with the policies outlined in this privacy policy please contact us at [customer_care@hardrock.com](mailto:customer_care@hardrock.com), attention: Privacy Compliance. The Company will investigate and attempt to resolve complaints and disputes regarding use and disclosure of Personal Information in accordance with the principles contained in this Policy. For complaints that cannot be resolved between the Company and the complainant, the Company has agreed to participate in the dispute resolution procedures of the American Arbitration Association ("AAA") in accordance with its applicable commercial rules as well as the Safe Harbor Principles. 
 
 CHANGES TO OUR PRIVACY POLICY
 
-This privacy policy is effective as of December 1, 2012. If we make any changes to our Policy, we will post the updated Policy, provided on an updated homepage link, and may post other places we deem appropriate. Users who have authorized e-mail communication will be notified via e-mail of any material changes to the Policy. We will use Personal Information in accordance with the Privacy Policy under which it was collected.
+This privacy policy is effective as of December 31, 2013. If we make any changes to our Policy, we will post the updated Policy, provided on an updated homepage link, and may post other places we deem appropriate. Users who have authorized e-mail communication will be notified via e-mail of any material changes to the Policy. We will use Personal Information in accordance with the Privacy Policy under which it was collected.
 
 YOUR CALIFORNIA PRIVACY RIGHTS / NOTICE FOR CALIFORNIA RESIDENTS
 
-California residents who have provided personal information to Hard Rock may obtain information regarding Hard Rock's disclosures, if any, of personal information to 3rd parties for 3rd party direct marketing purposes. Requests must be submitted to the following address: Hard Rock Cafe International (USA), Inc., 6100 Old Park Lane, Orlando, FL 32835. Attn.: California Privacy. Within 30 days of receiving such a request, we will provide a California Privacy Disclosure, which will include a list of certain categories of personal information disclosed during the preceding calendar year to 3rd parties for their direct marketing purposes, along with the names and addresses of the 3rd parties. This request may be made no more than once per calendar year. We reserve our right not to respond to requests submitted other than to the address specified in this paragraph.
+California residents who have provided personal information to Hard Rock may obtain information regarding Hard Rock's disclosures, if any, of personal information to 3rd parties for 3rd party direct marketing purposes. Requests must be submitted to the following address: Hard Rock Cafe International (USA), Inc., 6100 Old Park Lane, Orlando, FL 32835. Attn.: California Privacy. Within 30 days of receiving such a request, we will provide a California Privacy Disclosure, which will include a list of certain categories of personal information disclosed during the preceding calendar year to 3rd parties for their direct marketing purposes, along with the names and addresses of the 3rd parties. This request may be made no more than once per calendar year. We reserve our right not to respond to requests submitted other than to the address specified in this paragraph. 
