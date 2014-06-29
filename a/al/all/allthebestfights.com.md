@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allthebestfights.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227053038id_/http%3A//www.allthebestfights.com/privacy-policy-disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allthebestfights.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629134821id_/http%3A//www.allthebestfights.com/privacy-policy-disclosure) for the most accurate reproduction.*
 
 # Privacy policy & Disclosure - All The Best Fights.com
 
@@ -13,3 +13,5 @@ All the names of companies, images, screenshots, videos and trademarks of third 
 None of the videos are hosted by our servers and we use just public domain videos (hosted on free and public external website) that are embeddable. So if you find a video that you want to report, please contact the video hosting website.
 
 AllTheBestFights design, logo, rankings and all written content are © copyright AllTheBestFights.com and cannot be reused without written permission.
+
+## Watch and rate all the best fights & videos of boxing, mma, muay thai & k-1 creating the best fighting online database!
