@@ -1,35 +1,24 @@
-> *The following text is extracted and transformed from the yext.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424074135id_/http%3A//www.yext.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yext.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629052405id_/http%3A//www.yext.com/privacy-policy) for the most accurate reproduction.*
 
-# Yext.com Privacy Policy | Yext
+# Privacy Policy - Yext
 
-[](http://www.truste.org/ivalidate.php?companyName=Yext%20Inc&sealid=101)
+(Last Updated: November 4, 2010) 
 
-(Last Updated: November 4, 2010)
+This Privacy Policy (this "Privacy Policy") discloses the privacy practices for www.yext.com and all other internet properties (collectively, the "Sites") belonging to Yext, Inc. or any of its affiliates ("Yext", "us" or "we"). We understand the importance that Internet users place on privacy and have designed this Privacy Policy to disclose and describe our information-gathering and dissemination practices. You agree to this Privacy Policy, in its entirety, when you: 1) access or use any Site; and/or 2) agree to receive e-mail from us. Please note that we reserve the right to review and update this Privacy Policy from time to time by posting a prominent notice on the homepage stating that the Privacy Policy has been changed and updating the effective date of this Privacy Policy. If you use a Site after the amended Privacy Policy has been posted, you will be deemed to have agreed to the amended Privacy Policy.
 
-This Privacy Policy (this "Privacy Policy") discloses the privacy practices for [www.yext.com](http://www.yext.com/) and all other internet properties (collectively, the "Sites") belonging to Yext, Inc. or any of its affiliates ("Yext", "us" or "we"). We understand the importance that Internet users place on privacy and have designed this Privacy Policy to disclose and describe our information gathering and dissemination practices. You agree to this Privacy Policy, in its entirety, when you: 1) access or use any Site; and/or 2) agree to receive e-mail from us. Please note that we reserve the right to review and update this Privacy Policy from time to time by posting a prominent notice on the homepage stating that the Privacy Policy has been changed and updating the effective date of this Privacy Policy. If you use a Site after the amended Privacy Policy has been posted, you will be deemed to have agreed to the amended Privacy Policy.
+## INFORMATION THAT WE COLLECT ABOUT YOU:
 
-### This Privacy Policy addresses the following:
+Information Provided by You Upon Registration. Upon registration, you may be required to provide some or all of the following personally identifiable information ("PII"):
 
-  1. Information that we collect about you.
-  2. What we do with the information that we collect.
-  3. With whom we share the information we collect.
-  4. Our opt-out policy.
-  5. Our policy on correcting and updating the personally identifiable information and deactivation your account.
-  6. Miscellaneous
+  
 
-
-
-## Information that we collect about you:
-
-### Information Provided by You Upon Registration. Upon registration, you may be required to provide some or all of the following personally identifiable information ("PII"):
 
   1. Name
   2. Gender
   3. E-mail address
-  4. Address
-  5. Zip code
-  6. Home Phone
-  7. Mobile Phone
+  4. Zip code
+  5. Home Phone
+  6. Mobile Phone
 
 
 
@@ -39,7 +28,7 @@ Use of Cookies. In operating the Sites, we use "cookies." A "cookie" is a piece 
 
 Use of Google Analytics. We use a third-party tracking service called Google Analytics that uses cookies to track non-personally identifiable information about visitors to our Sites in the aggregate.
 
-## What we do with the information we collect
+## WHAT WE DO WITH THE INFORMATION WE COLLECT
 
 Use of PII. If you provide PII for a certain reason, we will use the PII in connection with the reason for which it was provided. For example, we will use the PII you input during the registration process to administer your access to a Site. We may also use the registration data that you provide to personalize your experience with us and for verification purposes. We also use contact information from your registration data to send you information about us and to keep you informed of our other products and services that may be of interest to you. Your contact information is also used to reach you, when necessary, regarding issues concerning the use of the Sites and/or our service.
 
@@ -51,9 +40,9 @@ Use of Information That is NOT PII. We may pool information that is not PII with
 
 Amended Telemarketing Sales Rule. With your consent, by submitting your e-mail address via a Site and/or obtaining services from us, you agree to receive e-mail marketing from us and our third-party advertisers. In addition, you agree that such act constitutes a purchase, an inquiry and/or an application for purposes of the Amended Telemarketing Sales Rule, 16 CFR 310 et seq. (the "ATSR"). Notwithstanding that your telephone number may be listed on the Federal Trade Commission's Do-Not-Call List, we retain the right to contact you via telemarketing in accordance with the ATSR. Moreover, by registering with, or requesting information from, a third-party advertiser at or through a Site, such action shall constitute a purchase, an inquiry and/or an application with the respective third-party advertiser for purposes of the ATSR and you may be contacted via e-mail, direct mail and/or telemarketing by such third-party advertiser in accordance with the ATSR.
 
-## With whom we share the information we collect:
+## WITH WHOM WE SHARE THE INFORMATION WE COLLECT:
 
-Third Party Advertisers. We are able to offer our services to you, in part, based on your willingness to be reached by our third-party advertisers. By allowing us to make the information you supply available to these third parties, you will receive free information on products and services that may be of interest to you. This information may also be shared with advertisers on an aggregate basis. Please keep in mind, though, that we do not control, and are not responsible for, the practices of our third-party advertisers.
+Third-Party Advertisers. We are able to offer our services to you, in part, based on your willingness to be reached by our third-party advertisers. By allowing us to make the information you supply available to these third parties, you will receive free information on products and services that may be of interest to you. This information may also be shared with advertisers on an aggregate basis. Please keep in mind, though, that we do not control, and are not responsible for, the practices of our third-party advertisers.
 
 Third-Party Offers. We may provide you with the opportunity to receive special offers, products and/or services from third-party companies. To receive such offers, products or services, your PII will be shared with such third-party companies, so that they may provide their products and/or services to you without requiring that you first fill another registration form. You may opt-out of receiving these communications by emailing us at [service@yext.com](mailto:service@yext.com).
 
@@ -65,7 +54,7 @@ Legal Requirements: We may disclose PII if required to do so by law or in the go
 
 Business Transfers: As we develop our business, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, dissolution or similar event, PII may be part of the transferred assets.
 
-## Our opt-out policy:
+## OUR OPT-OUT POLICY:
 
 To stop receiving future communications from us or to opt out of having your PII shared with third parties, please send an e-mail with your Login Name and e-mail address to [service@yext.com](mailto:service@yext.com). To unsubscribe from our service, please send an e-mail with your Login Name and e-mail address to [service@yext.com](mailto:service@yext.com).
 
