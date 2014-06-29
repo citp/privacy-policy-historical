@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couponaholic.net privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109234317id_/http%3A//www.couponaholic.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponaholic.net privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629172215id_/http%3A//www.couponaholic.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Couponaholic
 
@@ -14,8 +14,12 @@
 
 
 
+We do run advertising banners and/or browser executable code that can allow our advertisers to track visitors to our site with cookies. We cannot control this behavior and the privacy policies of these vendors affect the use of these technology.
+
 We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
+
+[ ](https://www.facebook.com/sharer/sharer.php?s=100&p\[url\]=http://www.couponaholic.net/privacy-policy/)
 
 _**Extreme Couponing Tip:** You can usually get two prints of most internet coupons. To find them in the easiest possible way, use our **preclipped links that take you right to the coupon.** Then come back and click the same link to get your 2nd print. This will save you the time spent searching for the coupon._
 
-**_Never miss another hot coupon, deal or freebie again!_ ["Like" Couponaholic .NET on Facebook](http://www.facebook.com/couponaholic.net), [Follow us on Twitter](http://twitter.com/couponaholicnet), or [Subscribe to our Daily Email Newsletter!](http://visitor.r20.constantcontact.com/d.jsp?llr=lxdi7cjab&p=oi&m=1109272039147)**
+**_Never miss another hot coupon, deal or freebie again!_ ["Like" Couponaholic .NET on Facebook](http://www.facebook.com/couponaholic.net), [Follow us on Pinterest](http://www.pinterest.com/CouponaholicNet/), [Follow us on Twitter](http://twitter.com/couponaholicnet), [Follow us on Instagram](http://instagram.com/couponaholicdotnet#), [Follow us on Google+](https://plus.google.com/+SteveTheCouponaholicPinski/posts) or [Subscribe to our Daily Email Newsletter!](http://visitor.r20.constantcontact.com/d.jsp?llr=lxdi7cjab&p=oi&m=1109272039147)**
