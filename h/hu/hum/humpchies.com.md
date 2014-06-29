@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the humpchies.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230001043id_/http%3A//www.humpchies.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the humpchies.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630011912id_/http%3A//www.humpchies.com/privacy) for the most accurate reproduction.*
 
 # Escorts & Erotic Massages in & Near Montreal
 
@@ -51,12 +51,3 @@ Unfortunately, the transmission of information via the Internet is not completel
 YOUR RIGHTS
 
 You are entitled to access and correct your Data by doing so directly on the website or by requesting us to do so via the Contact us section. If you have additional questions then please write to us at info@humpchies.com.
-
-### Sunday, February 24, 2013  
-Humpchies is open to the public
-
-Ladies and gents! You can now signup and post your ads for FREE... no BS, no limits, no waiting lists, post as many ads as you want whenever you want.
-
-Keep in mind though: we have released these features in BETA mode ONLY on the French part of the site... things might be flaky. But fear not! drop us a line, and let us know what doesn't work and what you think would be cool to have on the site.
-
-**So, you like Humpchies?!... Then share the joy!**
