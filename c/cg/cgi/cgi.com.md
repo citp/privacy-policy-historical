@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cgi.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207124223id_/http%3A//www.cgi.com/en/global-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cgi.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629034747id_/http%3A//www.cgi.com/en/global-privacy) for the most accurate reproduction.*
 
 # Privacy policy | CGI.com
 
