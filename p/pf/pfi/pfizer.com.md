@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pfizer.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220111016id_/http%3A//www.pfizer.com/general/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pfizer.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629061453id_/http%3A//www.pfizer.com/general/privacy) for the most accurate reproduction.*
 
 # See Our Updated Privacy Policy | Pfizer: the world's largest research-based pharmaceutical company
 
@@ -85,9 +85,9 @@ We may retain other companies and individuals to perform services on our behalf 
 
 We reserve the right to disclose your personal information as required by law, when we believe disclosure is necessary to comply with a regulatory requirement, judicial proceeding, court order, or legal process served on us, or to protect the safety, rights, or property of our customers, the public or Pfizer.
 
-###  In the Aggregate:
+###  In the Aggregate/De-identified:
 
-**De-Identified:** Pfizer may also disclose aggregate or **de-identified** data that is not personally identifiable with third parties. Aggregate data is created by pooling information about individuals and describing the data in the aggregate, _e.g._ , 20% of customers who clicked on the X promotion participated in the promotion.
+Pfizer may also disclose aggregate or de-identified data that is not personally identifiable with third parties. Aggregate data is created by pooling information about individuals and describing the data in the aggregate, _e.g._ , 20% of customers who clicked on the X promotion participated in the promotion.
 
 ##  Cookies and Other Tools
 
