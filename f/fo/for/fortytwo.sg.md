@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fortytwo.sg privacy policy that was archived on 2013-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131117102510id_/http%3A//www.fortytwo.sg/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fortytwo.sg privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629052828id_/http%3A//www.fortytwo.sg/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Online Shopping | FortyTwo | Furniture & Appliances | FortyTwo
 
@@ -43,7 +43,7 @@ FortyTwo reserves the right to amend this Privacy Policy Statement at its own di
 Should you have any queries regarding this Statement, please contact FortyTwo at:  
 Our Office Address: 
 
-**35, Tannery Rd #03-10 Ruby Industrial Complex**  
-**Singapore 347740**  
+**61 Yishun Industrial Park A, #03-02**  
+**Singapore 768767**  
 E-mail: [cs@fortytwo.sg](mailto:cs@fortytwo.sg)  
 Telephone: 6777 7667
