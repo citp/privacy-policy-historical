@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ashp.org privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205004300id_/http%3A//www.ashp.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ashp.org privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629214817id_/http%3A//www.ashp.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Privacy Statement for WWW.ASHP.ORG
+**Privacy Statement for WWW.ASHP.ORG**
 
 The American Society of Health-System Pharmacists (ASHP) has created this statement in order to demonstrate our firm commitment to privacy. This statement will help you understand how your personally identifiable information is collected and how that information may be shared. The following discloses our information gathering and dissemination practices for www.ashp.org. 
 
@@ -24,7 +24,7 @@ The site collects personally identifiable information at the following locations
 
 ## SPECIAL RELATIONSHIPS 
 
-Part of the ASHP Superstore is a royalty arrangement with Doody Publishing. Doody Publishing collects personally identifiable information only for billing purposes and never shares personal information with third parties. Doody Publishing does share with ASHP aggregate sales information as part of the royalty arrangement. Please read Doody Publishing's [privacy policy](http://www.doody.com/Rev450WebScripts/aboutPrivacy.asp?ShoppingCartID=0SOCLAB1160840-) for additional information. 
+Part of the ASHP Superstore is a royalty arrangement with Doody Publishing. Doody Publishing collects personally identifiable information only for billing purposes and never shares personal information with third parties. Doody Publishing does share with ASHP aggregate sales information as part of the royalty arrangement. Please read Doody Publishing's [privacy policy](http://corp.doody.com/corp2012/privacy.aspx) for additional information. 
 
 ## LINKS 
 
