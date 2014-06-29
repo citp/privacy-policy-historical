@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getnymi.com privacy policy that was archived on 2013-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131108182820id_/http%3A//www.getnymi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getnymi.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629044459id_/http%3A//getnymi.com/privacy-policy) for the most accurate reproduction.*
 
 # Nymi | Privacy Policy
 
