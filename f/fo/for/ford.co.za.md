@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ford.co.za privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215070008id_/http%3A//www.ford.co.za/footer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ford.co.za privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630002222id_/http%3A//www.ford.co.za/footer/privacy-policy) for the most accurate reproduction.*
 
 # Ford South Africa
 
@@ -12,7 +12,7 @@ This information will not be disclosed to anyone outside of the Ford Motor Compa
 
 You have the right as an individual to find out what information we hold about you and make corrections if necessary, you also have the right to ask us to not use the information. We will make all practical efforts to respect your wishes. However, certain legislation, especially related to safety issues or financial regulation (e.g. when dealing with Ford Credit) might prevent this.
 
-If you have any specific questions please mail your enquiry to [legalsa@ford.com](https://web.archive.org/web/20131215070008id_/http%3A//www.ford.co.za/footer/legalsa@ford.com)
+If you have any specific questions please mail your enquiry to [legalsa@ford.com](https://web.archive.org/web/20140630002222id_/http%3A//www.ford.co.za/footer/legalsa@ford.com)
 
 ¹The Ford Motor Company Group, a company based in the United States of America, ("FMC") in the context of this Privacy Policy includes those companies where Ford owns at least 25% of the company (this includes Mazda).
 
