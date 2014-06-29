@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the warthunder.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227051910id_/http%3A//warthunder.com/en/support/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the warthunder.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629212123id_/http%3A//warthunder.com/en/support/privacypolicy) for the most accurate reproduction.*
 
-# War Thunder — Open Beta Test Registration - Privacy Policy
+# War Thunder - Next-Gen MMO Combat Game for PC, Mac and Playstation4 | Play for free now! - Privacy Policy
 
 ##  Gaijin Online
 
@@ -30,7 +30,7 @@ We want you to always be aware of what personal and other information we collect
 
 From time to time, we may find the need to make changes to this Privacy Policy.  This Privacy Policy may be amended by Gaijin upon notice given by one or more of the following means: through the Website at or after you login to your account, by the email communication to the address provided by you when you setup your account, or by written mail communication to the address on record for your account.  Failure to provide or maintain accurate or current contact information by you will not avail you from responsibility to comply with Privacy Policy as amended.  Please check the Privacy Policy published on this Website regularly to ensure that you are aware of all terms governing your use of this Website.
 
-##  A. COLLECTEDINFORMATION
+##  A. COLLECTED INFORMATION
 
 ###  Browsing
 
@@ -132,4 +132,4 @@ In your message, please describe in as much detail as possible the nature of you
 
 Please also note that in the event of merger or acquisition of Gaijin, your personal and other information may be transferred to the acquiring party. In such event, your information would be collected, retained and/ used in accordance with this Privacy Policy or any of its revisions, updates or substitutes provided to you by Gaijin or its successors in interest.
 
-Copyright © 2012 Gaijin Entertainment Corporation.  All rights reserved.  This Website and accompanying products and documentation are the copyrighted property of Gaijin Entertainment Corporation and/or its licensors and protected by copyright laws and international intellectual property treaties.  Gaijin and related logo, and all related product and service names, design marks and slogans are the trademarks and/or registered trademarks of Entertainment Corporation or its affiliates.  All other product and service marks contained herein are the trademarks of their respective owners.  Any use of the Gaijin or third party trademarks or logos without the prior written consent of Gaijin or the applicable trademark owner is strictly prohibited.
+Copyright © 2014 Gaijin Entertainment Corporation.  All rights reserved.  This Website and accompanying products and documentation are the copyrighted property of Gaijin Entertainment Corporation and/or its licensors and protected by copyright laws and international intellectual property treaties.  Gaijin and related logo, and all related product and service names, design marks and slogans are the trademarks and/or registered trademarks of Entertainment Corporation or its affiliates.  All other product and service marks contained herein are the trademarks of their respective owners.  Any use of the Gaijin or third party trademarks or logos without the prior written consent of Gaijin or the applicable trademark owner is strictly prohibited.
