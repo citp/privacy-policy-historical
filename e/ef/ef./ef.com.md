@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ef.com privacy policy that was archived on 2013-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131022025327id_/http%3A//www.ef.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ef.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629100210id_/http%3A//www.ef.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | EF Other English speaking countries
 
 By submitting your personal data to www.ef.com (hereinafter EF.com) you automatically accept that EF International Language Schools B.V. or any other corporate entity in the EF Group ("EF") registers and stores said personal data for the specific purposes outlined below in this Privacy Policy. You also agree to that your personal data may be transferred to and stored in a country that is not a member of the European Union or part of the European Economic Area. Please note that the reference to EF in this Privacy Policy covers all entities within the EF group of companies.
 
