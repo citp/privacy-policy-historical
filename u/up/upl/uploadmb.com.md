@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uploadmb.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127171706id_/http%3A//www.uploadmb.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uploadmb.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629133912id_/http%3A//www.uploadmb.com/privacy.php) for the most accurate reproduction.*
 
 # PRIVACY POLICY - UploadMB.com
 
