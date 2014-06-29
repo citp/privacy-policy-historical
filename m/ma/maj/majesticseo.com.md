@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the majesticseo.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231040315id_/http%3A//www.majesticseo.com/support/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the majesticseo.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629044315id_/http%3A//www.majesticseo.com/support/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Majestic SEO
 
@@ -41,9 +41,11 @@ You block cookies by activating the setting on your browser that allows you to r
 
 ### WHERE WE STORE YOUR PERSONAL DATA
 
-All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our sites, you are responsible for keeping this password confidential. We ask you not to share a password with anyone. 
+The data we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside of the EEA who work for us or for one of our suppliers. Such staff may be engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy. 
 
-Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our sites; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access. 
+Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask that you do not share a password with anyone. 
+
+Unfortunately, the transmission of information via is internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try and prevent unauthorised access. 
 
 ### USES MADE OF THE INFORMATION
 
@@ -68,7 +70,7 @@ If you do not want us to use your data in this way, or to pass your details on t
 
 ### DISCLOSURE OF YOUR INFORMATION
 
-In August 2009 we entered into an agreement with Receptional Limited (company registered number 03863417) ( **Receptional** ) for the handling by Receptional of our marketing and business development activities. Where required, we may therefore disclose your personal information to Receptional for such purposes; save that will not provide Receptional with access to our clients' customer lists or our clients' generated reports. 
+We use reputable third party technologies to manage elements of our activities including Salesforce and Mailchimp. We may therefore be required to disclose your information to these companies for such purposes. Mailchimp's privacy policy is available at the time of writing at [http://mailchimp.com/legal and Salesforce’s privacy](http://mailchimp.com/legal%20and%20Salesforce%E2%80%99s%20privacy) policy is available at the time of writing at <http://www.salesforce.com/company/privacy/>
 
 We may disclose your personal information to third parties:
 
