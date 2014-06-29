@@ -1,13 +1,8 @@
-> *The following text is extracted and transformed from the narendramodi.in privacy policy that was archived on 2012-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121228223300id_/http%3A//www.narendramodi.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the narendramodi.in privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629142401id_/http%3A//www.narendramodi.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy « Home | www.narendramodi.in
+# Privacy Policy | Home | www.narendramodi.in
 
-### 
-
-Privacy Policy 
-
-  
-
+## [Privacy Policy](http://www.narendramodi.in/privacy-policy/)
 
 We believe in offering complete confidentiality to those visiting our website. The Privacy Policy of the website respects your privacy and thus precisely put forth the manner in which your data is collected and used by this website.
 
