@@ -1,8 +1,9 @@
-<!--The following is the downloaded HTML source of the blizzcon.com privacy policy that was archived on 2013-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131221015433id_/http%3A//us.blizzard.com/company/about/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the blizzcon.com privacy policy that was archived on 2014-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140629035304id_/http%3A//us.blizzard.com/company/about/privacy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en-us"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en-us" class="en-us"><head>
         <title>Blizzard Entertainment:Privacy Policy</title>
+        <link rel="icon" href="/static/_images/favicon.ico" type="image/x-icon">
 
         <meta name="google-site-verification" content="aBAG_uDTSpLMYIsdcar3YrYiKCEl4VD1JHYWAHGtLww">
 
@@ -14,7 +15,7 @@
 	    <link rel="stylesheet" href="/static/_css/master.css?v4">
         <link rel="stylesheet" href="/static/_css/en_US/local.css?v4">
         
-        <script type="text/javascript" src="/static/_js/functions.js?v4"></script>
+        <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TPRHR6"></script><script type="text/javascript" src="/static/_js/functions.js?v4"></script>
         <script type="text/javascript" src="/static/local-common/js/third-party/swfobject.js?v4"></script>
         <script type="text/javascript" src="/static/_js/jquery-1.7.2.min.js?v4"></script>
 				<script type="text/javascript" src="/static/_js/jquery.countdown.pack.js?v4"></script>
@@ -67,6 +68,12 @@
             <meta property="og:image" content="/static/_images/company/about/awards/logo-dev.gif">
     <style type="text/css" media="screen">#flashtext0 {visibility:hidden}</style></head>
 	<body>
+
+    <script>
+        (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&amp;l='+l:'';j.async=true;j.src=
+                '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})
+                (window,document,'script','dataLayer','GTM-TPRHR6');
+    </script>
 		<div id="languageChoice" style="display:none" lang="en-us">
 			<div class="position">
 				<a href="#" onclick="document.location ='http://us.blizzard.com/en-us/company/about/privacy.html?loc=en-us'" class="linkto-otherlanguage">
@@ -93,15 +100,42 @@
 	<div class="navigation">
 		<div class="bg"></div>
 		<div class="bar">
-			<a href="/en-us/games/" class="navgames"></a>
-			<a href="/en-us/company/" class="navcompany"></a>
-			<a href="/en-us/community/" class="navcommunity"></a>
-				<a href="/support/index.xml?locale=en_US" class="navsupport"></a>
-				<a href="http://us.blizzard.com/store/index.xml?locale=en_US" class="navstore"></a>
+			<a href="/en-us/games/" class="navgames"><span>GAMES</span></a>
+			<a href="/en-us/company/" class="navcompany"><span>COMPANY</span></a>
+			<a href="/en-us/company/careers/" class="navcommunity"><span>CAREERS</span></a>
+				<a href="/support/index.xml?locale=en_US" class="navsupport"><span>SUPPORT</span></a>
+				<a href="http://us.blizzard.com/store/index.xml?locale=en_US" class="navstore" id="shop-mainnav"><span>SHOP</span></a>
 		</div>
 		<a href="/en-us/" class="blizzlink"></a>
+		<div class="shop-subnav" id="shop-subnav">
+			<a href="http://gear.blizzard.com/" class="bg-left">
+				<h2>Blizzard Gear</h2>
+				<div>Looking for apparel, collectibles, books and more? The Gear store has your loot!</div>
+			</a>
+			<a href="http://us.blizzard.com/store/index.xml?locale=en_US" class="bg-right">
+				<h2>Battle.net Shop</h2>
+				<div>Check out digital games, in-game items, and other goodies galore!</div>
+			</a>
+		</div>
 	</div>
 	</form>
+		<script type="text/javascript">
+		//<![CDATA[
+		$j("#shop-mainnav").bind("mouseenter", function(e) { $j("#shop-subnav").show(); });
+		$j(".navsupport, .bg").bind("mouseenter", function(e) { $j("#shop-subnav").hide(); });
+		$j("#shop-subnav").bind("mouseleave", function(e) {
+			e = e || window.event;
+			var rel = (e.relatedTarget) ? e.relatedTarget : e.toElement;
+			while (rel.tagName != "BODY") {
+				if (rel.id == this.id) {
+					e.preventDefault();
+				}
+				rel = rel.parentNode;
+			}
+			$j(this).hide();
+		});
+		//]]>
+		</script>
 				</div>
 		</div>
 	</div>
@@ -150,7 +184,7 @@
 
 <p>Blizzard Entertainment and its affiliate companies (collectively "Blizzard") respect the privacy of its on-line visitors and recognize the importance of providing a secure environment for them. We have adopted a company wide On-Line Privacy Policy that guides how we collect, store, and use the information you provide us. This Privacy Policy details how Blizzard safeguards the privacy of its on-line visitors and does not apply to information that may be collected by Blizzard off-line. Please note that when you link to other sites from a Blizzard website, this Privacy Policy does not apply to, and cannot control the activities on, those other sites. </p>
 <p>Blizzard  has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with <a href="http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html" target="_blank">TRUSTe's program requirements</a>&nbsp; including transparency, accountability and choice regarding the collection and use of your personal information.  The scope of TRUSTe’s certification covers its North American websites us.blizzard.com and us.battle.net and their subdomains.  The TRUSTe program does not cover information that may be collected through downloadable software .   TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact our Privacy Policy Administrator at <a href="mailto:privacy@blizzard.com">privacy@blizzard.com</a>.  If you are not satisfied with our response you can contact <a href="http://watchdog.truste.com/pvr.php?page=complaint" target="_blank">TRUSTe here</a>.</p>
-<p>Blizzard Entertainment complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  Blizzard Entertainment has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view Blizzard Entertainment’s certification, please visit  <a href="http://www.export.gov/safeharbor/" target="_blank">http://www.export.gov/safeharbor/</a></p>
+<p>Blizzard Entertainment complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  Blizzard Entertainment has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view Blizzard Entertainment’s certification, please visit  <a href="https://new.export.gov/safe-harbor" target="_blank">https://new.export.gov/safe-harbor</a></p>
 <p>If you are a visitor from outside the United States, the personal information you provide may be transferred to, stored, and processed within the United States or other countries where Blizzard maintains facilities or business operations. </p>
 <h3>What personal information is collected?<a id="h3l1"></a></h3>
 <p>Blizzard only collects personal information on a voluntary basis. If an on-line visitor submits information to Blizzard, it will usually take the form of either: (1) the purchase of goods or services though our on-line stores, (2) product or account registration, or registration for on-line game participation, (3) player match-up services, (4) message boards or forums, (5) eCards or Recruit-a-Friend e-mails, (6) warranty registrations, (7) contest registrations, (8) a consumer complaint, (9) surveys, (10) customer service or technical support, and/or (11) newsletters. Personal information collected may include your name, home address, phone number, and/or e-mail address. We do not require this information to gain access to our sites, however, you will not be able to utilize certain products, services, or features that require registration or receive materials such as newsletters unless such information is provided. </p>
@@ -302,7 +336,7 @@ Certain Blizzard games playable on Blizzard's Battle.net service feature "Global
 				<br>
 
 				<p class="dark">
-					All trademarks referenced herein are the properties of their respective owners.<br>©2013 Blizzard Entertainment, Inc. All rights reserved.
+					All trademarks referenced herein are the properties of their respective owners.<br>©2014 Blizzard Entertainment, Inc. All rights reserved.
 				</p>
 
 				<br>
