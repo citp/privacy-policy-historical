@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the femaleagent.com privacy policy that was archived on 2013-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130904085105id_/http%3A//www.femaleagent.com/tour/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the femaleagent.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629184044id_/http%3A//www.femaleagent.com/tour/privacy.html) for the most accurate reproduction.*
 
 # FemaleAgent.com
 
@@ -23,7 +23,7 @@ IP Address. An IP address is a number that is assigned to your computer automati
   
 **Types of Information**
 
-Personally Identifiable Information (PII). PII is information that identifies you as an individual, such as your name, mailing address, phone number, email address, credit card information, video materials that you submit, comments you make including such information, or other information that you submit voluntarily, including, but not limited to, when you contact us by email. FemaleAgent.com does not collect PII from users except for email addresses. In limited cases there are the following exceptions:  
+Personally Identifiable Information (PII). PII is information that identifies you as an individual, such as your name, mailing address, phone number, email address, video materials that you submit, comments you make including such information, or other information that you submit voluntarily, including, but not limited to, when you contact us by email. FemaleAgent.com does not collect PII from users except for email addresses. In limited cases there are the following exceptions:  
 User submits feedback to the Sites  
 User sends the Sites a support-related email.  
 FemaleAgent.com absolutely does not distribute user email addresses to third party vendors unless necessary to solve a user-submitted support ticket.  
