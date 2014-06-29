@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifamilies.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229094141id_/http%3A//www.lifamilies.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifamilies.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629154735id_/http%3A//www.lifamilies.com/privacy) for the most accurate reproduction.*
 
 # LIFamilies.com Privacy Policy
 
