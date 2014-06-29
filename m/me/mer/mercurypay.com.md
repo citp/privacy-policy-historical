@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mercurypay.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226232804id_/http%3A//www.mercurypay.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercurypay.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629090605id_/http%3A//www.mercurypay.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » Mercury
 
@@ -8,7 +8,7 @@ Thank you for visiting one or more of our sites at [http://www.mercurypay.com](h
 
 ### THE INFORMATION WE COLLECT
 
-Mercury markets and/or provides a range of products and services, including merchant card services by and though processors, to merchants through bank(s) that are members of card associations, security related products, and loyalty and gift programs and services. As a part of our business operations, we routinely collect and retain information about our customers, about the users of our products and services, and about other users of the Websites, such as software developers and their dealer resellers who may wish to have access to information about us or our products and services. This information assists us in providing our products and services or in providing information about our products, services and company. It may be used for such activities as administration of records; execution of accounting and funding; compliance with laws or regulations; and/or the development of future products and services.
+Mercury markets and/or provides a range of products and services, including merchant card services by and through processors, to merchants through bank(s) that are members of card associations, security related products, and loyalty and gift programs and services. As a part of our business operations, we routinely collect and retain information about our customers, about the users of our products and services, and about other users of the Websites, such as software developers and their dealer resellers who may wish to have access to information about us or our products and services. This information assists us in providing our products and services or in providing information about our products, services and company. It may be used for such activities as administration of records; execution of accounting and funding; compliance with laws or regulations; and/or the development of future products and services.
 
 ### PERSONAL INFORMATION
 
