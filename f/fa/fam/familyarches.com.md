@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the familyarches.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204211033id_/http%3A//www.mcdonalds.com/us/en/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the familyarches.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629193310id_/http%3A//www.mcdonalds.com/us/en/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy :: McDonalds.com
 
@@ -124,6 +124,8 @@ You are in control of any personal information you provide to us through our Onl
 
 Use the options in your web browser if you do not wish to receive a cookie or if you wish to set your browser to notify you when you receive a cookie. Click on the “Help” section of your browser to learn how to change your cookie preferences.  If you disable all cookies, you may not be able to take advantage of all the features of this Site.  
 
+
+California Business & Professions Code Section 22575(b)(as amended effective January 1, 2014) provides that California residents are entitled to know how McDonald’s responds to “Do Not Track” browser settings. McDonald’s does not currently take actions to respond to Do Not Track signals because a uniform technological standard has not yet been developed. We continue to review new technologies and may adopt a standard once one is created.
 
 [Back to Top](https://web.archive.org/us/en/privacy.html#top)
 
