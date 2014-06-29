@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the adioso.com privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217233456id_/http%3A//adioso.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adioso.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629140727id_/http%3A//adioso.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Adioso
+# Adioso - The best flights to anywhere
 
-**Adioso, Inc.**  
+**Adioso, Inc.**
 
 Privacy Policy
 
