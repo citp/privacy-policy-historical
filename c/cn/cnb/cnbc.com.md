@@ -1,57 +1,79 @@
-> *The following text is extracted and transformed from the cnbc.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231052746id_/http%3A//www.cnbc.com/id/100000959) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cnbc.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629175703id_/http%3A//nbcuni.com/privacy) for the most accurate reproduction.*
 
-# CNBC.com Privacy Policy
+# Privacy Home | NBCUniversal
 
-   Text Size  
+In this privacy policy:
 
-Published: Friday, 11 May 2012 | 7:49 AM ET
-
-#### Introduction
-
-This Privacy Policy was last updated on January 11, 2012.  
-
-
-This web sites which are located at the domain cnbc.com (the "Site") are operated by CNBC LLC ("CNBC" or “we” or “our” or “us”). Your privacy is important to us. This Privacy Policy describes the types of information collected from you, what we do with it, with whom we share it, and how you can correct or change such information. It is your responsibility to review this Privacy Policy carefully, especially before providing any personal data through the Site. This Site is operated in and controlled from the United States of America. If you have any questions about this Privacy Policy or Site, or if you wish to unsubscribe from Site services for which you have previously registered, please contact us at customercare@support.cnbc.com or at the address at the end of this policy.  
+  * We’ve summarized our privacy policy terms so you can find what you need quickly;
+  * We’ve designed one privacy policy to apply across many NBCUniversal online services;
+  * We’ve added more detail about the personal information we use and collect, including through mobile apps;and
+  * We explain how we share information with the companies in the NBCUniversal group.
 
 
- **PLEASE REVIEW THIS PRIVACY POLICY AND THE TERMS OF SERVICE FOR THE SITE CAREFULLY. YOUR USE OF THIS SITE SIGNIFIES YOUR AGREEMENT TO SUCH PRIVACY POLICY AND TERMS OF SERVICE.**
 
-#### 1\. Types of Information Collected
+Most recent change – May 2014
 
-**Personal Data:** Personally Identifiable Information (“Personal Data”) is any information that can be used to identify a specific individual, such as your name, email address, home address, phone number and credit card information. This Site collects Personal Data when you interact with the Site, for example when you register for our Subscription Services, including without limitation, CNBC Plus; subscribe for newsletters; register for membership services such as chat rooms or message boards; participate in chat rooms, blogs or other user forums; respond to polls or surveys; purchase merchandise via the Site; register for sweepstakes, contests and other promotional opportunities; or seek help from our customer service departments. We also may collect information when you purchase products or services offline, or register for wireless services via your cellphone or other wireless devices (”Other Services”). Because providing detailed information regarding our privacy policy when you register or provide information in connection with these Other Services often proves impractical, you may instead be provided with a short notice that reminds you to refer to this Privacy Policy and other relevant information from us. We may also obtain Personal Data from reputable third parties, such as credit agencies.  
-
-
- **Aggregate and Anonymous Data:** Aggregate and anonymous data are information collected automatically through the operation of the Site ("AA Data"). We may collect site usage data (such as which Site pages you visit and in what sequence) through the use of various technologies. For example, we collect IP addresses from individuals who visit the Site. An IP address is a number that is automatically assigned to your computer whenever you're surfing the Web. Web servers, the computers that "serve up" Web pages, automatically identify your computer by its IP address, and when you request a page from a website, its servers log your IP address. We do not link IP addresses to any Personal Data, so although your session will be logged, you will remain anonymous to us and the Site. We may also collect password information from you when you log in, as well as computer and connection information such as browser type or version. During some visits, we may use software tools, such as Javascript, to measure and collect session information, including page response times, download errors, time spent on certain pages, page interaction information, and methods used to browse away from the page.
-
-#### 2\. Use of Cookies and Similar Technologies:
-
-Like many sites, we use "cookies" or other similar technologies to collect AA Data. A cookie is a small data file that writes to your hard drive for record keeping purposes when you visit the Site. Cookies allow the Site to measure traffic activity on the Site and to improve your user experience, for example by remembering your passwords and viewing preferences, allowing you to visit “member only” portions of the Site without re-registering, and tracking the progress and number of entries in activities that require registration or entry, such as sweepstakes. Similarly, if you have asked us to send you information about upcoming products and promotions, using cookies we collect information about which Site pages you have visited and in what order (“Clickstream Data”) that may allow us to narrow or limit the materials provided to you based on your prior online activities or preferences. Most browsers are initially set to accept cookies. If you prefer, you can set your browser to refuse cookies or to alert you when cookies are being sent, but it is possible that some parts of the Site will not function properly if you do so.  
+  * We’ve added more information about how to opt out of receiving targeted advertising on [mobile apps](https://web.archive.org/privacy/mobile-apps/#access_and_opt-outs "mobile apps").
 
 
-In addition, we may use a service that collects data remotely by using so-called “pixel tags,” “web beacons,” “clear GIFs” or similar means (collectively, “Pixel Tags”) embedded in the Site’s content. A Pixel Tag is an electronic image, often a single pixel (1x1), that is ordinarily not visible to Site visitors and may be associated with cookies on the visitors’ hard drives. This information is anonymous data.
 
-#### 3\. Our Use of Your Data:
+**Privacy at NBCUniversal**
 
-**Personal Data:** We will use your Personal Data for the purposes for which it was provided. For example, if you provide Personal Data to register for a newsletter or a text messaging service, to enter a contest or a sweepstake, or to purchase goods or services, we will use it to register you for or provide you with those goods or services. We may also use your Personal Data to provide you with information about features, services and other offerings that may be of interest to you. We also may send information or offers to selected groups of Site users on behalf of other businesses. When we do this, we do not give those businesses your name or address. Under certain circumstances (for example if you win a contest) we may post your Personal Data on the Site. We will notify you of this possibility when you provide the Personal Data and, if possible, when the Personal Data is posted.  
+At NBCUniversal, we respect personal information and take seriously our privacy obligations. This website describes NBCUniversal’s approach to privacy for the NBCUniversal websites and mobile applications that link to this page (“online services”).  We are committed to handling personal information in compliance with the specific provisions of applicable privacy laws worldwide.
+
+## What information do we collect and how is it used?
+
+NBCUniversal may collect the following information:(1) information you provide actively (e.g. through forms, surveys, or similar interactive features on the online services); (2) information from the device that you use to access the online services; (3) information about your use of the online services, including video viewing, which may be collected through [cookies/ tracking technologies](https://web.archive.org/privacy/cookies) and/or (4) information from third parties.
+
+[more](https://web.archive.org/privacy/full-privacy-policy/#what_information_do_we_collect_and_how_is_it_used "What information do we collect and how is it used?")
+
+## Children and Privacy
+
+Except where otherwise indicated, our online services are not knowingly directed to children under the age of 13. If you’re under 13 please do not provide us information about yourself. Where we direct our online services to children, we will take additional steps, as required, to protect children’s privacy.
+
+[more](https://web.archive.org/privacy/full-privacy-policy/#children "Children and Privacy")
+
+## How do we share information?
+
+You understand and agree that NBCUniversal shares information we collect as follows:
+
+  * Within NBCUniversal and with third party suppliers, in order to provide you with the online services;
+  * With other third parties (e.g., law enforcement agencies) where required by law or where required as a part of a corporate transaction (e.g., if a company is sold);
+  * With third parties for marketing and advertising purposes (this may vary across different countries or states in accordance with law). California residents can access a list of these third parties.
+  * With companies in the NBCUniversal family, in order to cross-promote NBCUniversal services or for research purposes. You have choices about this.
 
 
-Cookies and similar tools may be used to relate your use of the Site and AA Data to Personal Data obtained from you. If any AA Data are linked with Personal Data, the linked AA Data will then be treated as Personal Data.
 
- **AA Data:** We may also use Personal Data in aggregate form for purposes of research or analysis. In order to better understand and serve the users of the Site and Other Services, CNBC often conducts research on its customer demographics, interests and behavior based on Personal Data we gather. Although this aggregated data may be based in part on Personal Data, it does not identify you personally. CNBC may share this type of AA Data with a variety of third parties, including its affiliates, agents, and current and prospective business partners.  
+[more](https://web.archive.org/privacy/full-privacy-policy/#how_we_share_personal_information "How do we share information?")
 
+## Your rights and choices
 
-We may use AA Data collected from the Site for site administration, advertising and promotional purposes, and we may share such information with various affiliated and unaffiliated entities for such purposes. For example, IP addresses are used for the purposes of system administration and to provide AA Data to advertisers about the volume of use on the Site, and Clickstream Data and demographic AA Data may be shared with our advertisers and business partners. We may also enter into agreements with outside companies that possess technology that allows the Site to customize the advertising and marketing messages you receive on the Site. This data (including Clickstream Data about your activities on our Site) may be shared with these companies for this purpose.
+NBCUniversal provides online service users with access to and choices about their information as required by law. This includes rights to unsubscribe from marketing, opt-out of targeted advertising and revoke permissions previously provided (e.g. you may revoke permissions to have a mobile app use your current location). Some online services may not be available or there may be impact on functionality when you make these choices.
 
-#### 4\. Disclosure of Personal Data:
+[more](https://web.archive.org/privacy/full-privacy-policy/#your_rights_and_choices "Your rights and choices")
 
-**Disclosure to Affiliates:** Personal Data collected by this Site may be shared with our affiliates which include other entities owned or controlled by NBCUniversal Media, LLC ("NBCUniversal"). We reserve the right to share both Personal Data with our affiliates. If you do not want us to share your Personal Data with our affiliated companies for their marketing purposes, you may opt-out of such sharing by contacting us at customercare@support.cnbc.com (see “Your Choices” below)
+## How is information protected?
 
- **Disclosure to Third Parties:** CNBC, like many businesses, sometimes hires other companies to perform certain business-related functions on our behalf such as hosting specific portions of the Site, maintaining databases, administering contests, providing wireless services, mailing information and processing payments. When we employ a third party to perform these functions, that third party will only be provided with the particular Personal Data it needs to perform its function, and is required to protect the Personal Data. With your consent, we may also share Personal Data with pre-screened third parties for their marketing or promotional purposes. We will provide you with an opportunity to elect or decline these services or opportunities (see “Your Choices” below). In the event you have elected to “unsubscribe” from any of our services, we will share your Personal Data with third parties with whom we jointly offer such services solely to the extent necessary to ensure that your request not to receive such communications is honored. In addition, for third-party sponsored sweepstakes, contests or promotions, we may request Personal Data from you that may be shared with the sponsor upon request. When you register on the Site you will be able to opt-in or opt-out of such sharing on the Member Center page.
+We provide physical, electronic, and procedural safeguards to protect information. Please be aware that, although we endeavor to provide reasonable security for information we process and maintain, no security system can prevent all potential security breaches.
 
- **Disclosure to Others:** In addition, we may disclose Personal Data without providing you with a choice under the following limited circumstances to: (1) protect the legal rights, privacy or safety of CNBC, or its subsidiaries, affiliates or its or their employees, agents and contractors; (2) protect the safety and security of visitors to our web sites or other properties; (3) protect against fraud or other illegal activity or for risk management purposes; (4) respond to inquiries or requests from public authorities; (5) permit us to pursue available remedies or limit the damages that we may sustain; (6) enforce our Terms of Service; or (7) comply with the law or legal process.  
+[more](https://web.archive.org/privacy/full-privacy-policy/#general "How is information protected?")
 
+## Tracking/Cookies and Ads
 
-If NBCUniversal or CNBC sells all or part of this Site or makes a sale or transfer of assets or is otherwise involved in a merger or business transfer, we may, in our sole discretion, transfer, sell or assign your Personal Data to a third party as part of or in connection with that transaction. Upon such transfer, the Privacy Policy of the acquiring entity may govern the further use of your Personal Data.  
+We may use the information we collect about your use of online services from your browsing behavior to provide you with online advertisements that might be relevant to you. You can opt- out of this “targeted advertising”. The effect of opting out is controlled by third parties, but they may still collect your usage information for analytic, research or internal operations purposes.
 
+Cookies/ tracking technologies are used on some of our online services to serve ads, perform analytics, and make the online services as interesting as possible to you. By using our online services you are consenting to the use of these cookies/tracking technologies but you do have choices about cookies/tracking technologies.  Some online services may not be available or there may be impact on functionality when you make these [choices](https://web.archive.org/privacy/cookies/#your_cookie_choices_and_how_to_opt-out).
 
-This web sites which are located at the domain cnbc.com (the "Site") are operated by CNBC LLC ("CNBC" or “we” or “our” or “us”). Your privacy is important to us. This Privacy Policy describes the types of information collected from you, what we do with it, with whom we share it, and how you can correct or change such information. It is your responsibility to review this Privacy Policy carefully, especially before providing any personal data through the Site. This Site is operated in and controlled from the United States of America. If you have any questions about this Privacy Policy or Site, or if you wish to unsubscribe from Site services for which you have previously registered, please contact us at customercare@support.cnbc.com or at the address at the end of this policy. 
+[more](https://web.archive.org/privacy/full-privacy-policy/#targeted_advertising_and_cookies_tracking_technologies "Tracking/Cookies and Ads")
+
+## Where is information processed?
+
+NBCUniversal is a global company with headquarters in the United States. Information may be processed in the United States, as well as at various locations globally.
+
+[more](https://web.archive.org/privacy/full-privacy-policy/#where_your_personal_information_will_be_used "Where is information processed?")
+
+## Contact us 
+
+If you have questions about the privacy practices of our online services, please contact us at [privacy@nbcuni.com](mailto:privacy@nbcuni.com).  Please include specific information about the online service you are using and your question so we can respond as soon as possible.
+
+[more](https://web.archive.org/privacy/full-privacy-policy/#contact_us "Contact us  ")
