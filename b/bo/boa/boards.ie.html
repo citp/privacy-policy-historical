@@ -1,17 +1,17 @@
-<!--The following is the downloaded HTML source of the boards.ie privacy policy that was archived on 2013-10-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131020022834id_/http%3A//www.boards.ie/content/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the boards.ie privacy policy that was archived on 2014-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140629044309id_/http%3A//www.boards.ie/content/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 				<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
 		<meta name="viewport" content="width=device-width,initial-scale=1">
 		<title>Boards.ie - Now Ye're Talkin'</title>
 		<link rel="icon" href="http://b-static.net/www/i/favicon_16.ico?v=1" type="image/x-icon">
-		<link rel="stylesheet" type="text/css" media="screen" href="http://b-static.net/www/css/themes/default/boards-www.css?v=337">
-<link rel="stylesheet" type="text/css" media="screen" href="http://b-static.net/www/css/themes/default/content.css?v=337">
-		<script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-				<script type="text/javascript" src="http://b-static.net/www/js/boards-www.js?v=337"></script>
-				<!--[if lte IE 9]><link rel="stylesheet" href="http://b-static.net/www/css/themes/default/ie9.css?v=337"/><![endif]-->
-		<!--[if lte IE 8]><link rel="stylesheet" href="http://b-static.net/www/css/themes/default/ie8.css?v=337"/><![endif]-->
+		<link rel="stylesheet" type="text/css" media="screen" href="http://b-static.net/www/css/themes/default/boards-www.css?v=395">
+<link rel="stylesheet" type="text/css" media="screen" href="http://b-static.net/www/css/themes/default/content.css?v=395">
+		<script type="text/javascript" async="" src="//pool.distilled.ie/js/pool.min.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+				<script type="text/javascript" src="http://b-static.net/www/js/boards-www.js?v=395"></script>
+				<!--[if lte IE 9]><link rel="stylesheet" href="http://b-static.net/www/css/themes/default/ie9.css?v=395"/><![endif]-->
+		<!--[if lte IE 8]><link rel="stylesheet" href="http://b-static.net/www/css/themes/default/ie8.css?v=395"/><![endif]-->
 		<script type="text/javascript">
 		var params = {
 			site: 'www.boards.ie',
@@ -19,9 +19,10 @@
 			staticdomain: 'b-static.net/www',
 			modutilsdomain: 'modutils.boards.ie',
 			cookiedomain: '.boards.ie',
-			version: '337',
+			version: '395',
 			theme: 'default',
-			trackpage: 'terms/privacy'
+			trackpage: 'terms/privacy',
+			js_vars: '[]'
 		}
 		Boards.init(params);
 		</script>
@@ -50,9 +51,15 @@
 			googletag.defineSlot('/31643345/Boards_3_728x90', [728, 90], 'leaderboard-www3').addService(googletag.pubads());
 			googletag.defineSlot('/31643345/Boards_4_728x90', [728, 90], 'leaderboard-www4').addService(googletag.pubads());
 									googletag.pubads().setTargeting('loggedin', '0');
+			// BT-3: Retarget Daft users who were logged in.
+			googletag.pubads().setTargeting('advertiser', '0');
 			googletag.pubads().setTargeting('stylename', 'default');
 			googletag.pubads().setTargeting('tiling', '0');
-			googletag.pubads().enableSingleRequest();
+			googletag.pubads().setTargeting(
+				'upc',
+				'0'
+			);
+			googletag.pubads().disableInitialLoad();
 			googletag.enableServices();
 			});
 		</script>
@@ -111,7 +118,7 @@
 									<div class="page fix-width" style="margin: 0 auto;">
 									<div class="page home-container content-page">
 	<h1>Boards.ie Privacy Statement</h1>
-	<small>Revised: 02/07/’12</small>
+	<small>Revised: 28/03/’14</small>
 
 	<h2 class="intro">Introduction</h2>
 
@@ -403,11 +410,17 @@
 			</tr>
 
 			<tr align="left" valign="top">
-
 				<td>vbulletin_collapse</td>
 				<td>Numeric strings</td>
 				<td>Remembers which collapsible items the user has hidden/displayed</td>
 				<td>On user logout or 1 year</td>
+			</tr>
+
+			<tr align="left" valign="top">
+				<td>__cfduid</td>
+				<td>Hexadecimal IP Numeric strings</td>
+				<td>User identifier</td>
+				<td>6 years</td>
 			</tr>
 
 			<tr align="left" valign="top">
@@ -464,6 +477,13 @@
 	numbers, bank account numbers or credit card numbers. You can opt-out
 	of this ad serving on all sites using this advertising by visiting
 	<a target="_blank" href="http://www.doubleclick.com/privacy/dart_adserving.aspx">http://www.doubleclick.com/privacy/dart_adserving.aspx</a></p>
+
+	<p>
+	We also may use data from Google's Interest-based advertising or 3rd-party
+	audience data (such as age, gender, and interests) with Google Analytics. At no
+	time will we use this information to identify specific users or track personal
+	information. You can opt-out of Google's Interest-based advertising here: <a target="_blank" href="https://www.google.com/settings/ads">https://www.google.com/settings/ads</a>
+	</p>
 
 	<p>The following is a list of cookies currently set by site
 	partners:</p>
@@ -566,6 +586,46 @@
 				<td style="width: 25%; vertical-align: top;">Randomly generated number</td>
 				<td style="width: 25%; vertical-align: top;">Usage stats</td>
 				<td style="width: 25%; vertical-align: top;">6 months</td>
+			</tr>
+			<tr class="header">
+				<td colspan="4">Click Tale (Audience Measurement)</td>
+			</tr>
+			<tr>
+				<td style="width: 25%; vertical-align: top;">WRUID</td>
+				<td style="width: 25%; vertical-align: top;">Randomly generated number</td>
+				<td style="width: 25%; vertical-align: top;">Used to anonymously identify a visitor to Boards for the purpose of enabling the ClickTale software to track such visitor’s actions across the site.</td>
+				<td style="width: 25%; vertical-align: top;">1 Year</td>
+			</tr>
+			<tr>
+				<td style="width: 25%; vertical-align: top;">WRIgnore</td>
+				<td style="width: 25%; vertical-align: top;">0 or 1</td>
+				<td style="width: 25%; vertical-align: top;">
+					Created if the domain is not selected or if the account has run out of recording
+					credits. It provides information that the specific visitor should not be recorded
+					or tracked by the software.
+				</td>
+				<td style="width: 25%; vertical-align: top;">1 Year</td>
+			</tr>
+			<tr>
+				<td style="width: 25%; vertical-align: top;">WRBlock</td>
+				<td style="width: 25%; vertical-align: top;">0 or 1</td>
+				<td style="width: 25%; vertical-align: top;">
+					If a visitor to client’s website does not wish to be tracked by the software
+					they may opt-out through the following link: http://www.clicktale.net/disable.html
+					Clicking this link shall place a cookie on the visitor’s machine for the purpose
+					of blocking any recording by the ClickTale software of this visitor’s session.
+				</td>
+				<td style="width: 25%; vertical-align: top;">1 Year</td>
+			</tr>
+			<tr>
+				<td style="width: 25%; vertical-align: top;">__CT_Data</td>
+				<td style="width: 25%; vertical-align: top;">Number</td>
+				<td style="width: 25%; vertical-align: top;">
+					This cookie is used to count the number of pageviews or visits of the anonymous visitor
+					for the purpose of enabling the ClickTale software to track the number of pageviews or
+					visits a visitor made on the client’s website.
+				</td>
+				<td style="width: 25%; vertical-align: top;">1 Year</td>
 			</tr>
 		</tbody>
 	</table>
@@ -724,7 +784,9 @@
 	192.168.72.34). Every computer connected to the web has a unique IP
 	address, although the address may not be the same every time a
 	connection is made.</p>
-</div>							</div>
+</div>
+
+							</div>
 		</div>
 		<div id="footer">
 	<div class="holder">
@@ -732,15 +794,15 @@
 			<ul>
 								<li><a href="http://www.boards.ie/content/advertise">Advertise</a></li>
 				<li><a href="http://www.boards.ie/faq">FAQ</a></li>
-				<li><a href="http://www.boards.ie/content/terms">Terms of Use</a></li>
+				<li><a href="http://www.boards.ie/content/terms?site=desktop">Terms of Use</a></li>
 				<li><a href="http://www.boards.ie/content/privacy">Privacy Policy</a></li>
 				<li><a href="http://www.boards.ie/content/privacy#cookie-policy">Cookie Policy</a></li>
 				<li><a href="http://www.boards.ie/content/about-us">About Us</a></li>
 				<li><a href="http://www.boards.ie/contact">Contact Us</a></li>
-				<li id="view_on_touch" style="display:none"><a onclick="$.cookie('touch', null, { path:'/', domain: Boards.domains.cookiedomain }); return true;" href="" title="Touch Site">Touch Site</a></li>
+				<li id="view_on_touch"><a onclick="$.cookie('force_device', 'mobile', { path:'/', domain: Boards.domains.cookiedomain, expires: 365 }); return true;" href="" title="Touch Site">Touch Site</a></li>
 
 							</ul>
-			<p>Copyright © 2000 - 2013 Boards.ie Limited (Hosted by <a href="http://www.digiweb.ie">Digiweb Hosting</a>)</p>
+			<p>Copyright © 2000 - 2014 Boards.ie Limited (Hosted by <a href="http://www.digiweb.ie">Digiweb Hosting</a>)</p>
 		</div>
 		<br>
 		<div class="text">
@@ -756,20 +818,32 @@
 		</div>
 	</div>
 </div>
-
+<!-- Google Analytics Autotrack JS -->
 <script type="text/javascript">
-	Boards.on('ready', function(){
-		// Show link to Touch Site in footer if we're on a touch device.
-		if (typeof Boards.Menu.isTouchDevice === 'function' &&
-			Boards.Menu.isTouchDevice()) {
-			$('#view_on_touch').show();
+	Boards.on('analyticsloaded', function() {
+		if (Boards.Analytics.autotrack) {
+			Boards.Analytics.trackPage(Boards.Analytics.getURL());
 		}
 	});
-</script>			
-	<script type="text/javascript">
-	if (Boards.Analytics.autotrack) {
-		Boards.Analytics.trackPage(Boards.Analytics.getURL());
+</script><!-- Distilled Pool JS -->
+<script type="text/javascript">
+	var _pool = _pool || [];
+	(function(){
+		var s = document.createElement('script');
+		s.type = 'text/javascript'; s.async = true;
+		s.src = '//pool.distilled.ie/js/pool.min.js';
+		var x = document.getElementsByTagName('script')[0];
+		x.parentNode.insertBefore(s, x);
+	})();
+
+		if (typeof(pool_js_tags) != 'undefined' && pool_js_tags.length > 0) {
+		$.each(JSON.parse(pool_js_tags), function(index, value) {
+			_pool.push(['add', value]);
+		});
 	}
-	</script>
+
+	
+	_pool.push(['write', ['_dml']]);
+</script>			
 
 </body></html>
