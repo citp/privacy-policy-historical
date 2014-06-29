@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learningmarkets.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229051716id_/http%3A//www.learningmarkets.com/learning-markets-llc-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learningmarkets.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629222529id_/http%3A//www.learningmarkets.com/learning-markets-llc-privacy-policy) for the most accurate reproduction.*
 
 # Learning Markets - Investing education and trading ideas
 
