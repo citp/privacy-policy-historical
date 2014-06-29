@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the thumbtack.com privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121220101id_/http%3A//www.thumbtack.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thumbtack.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629063329id_/http%3A//www.thumbtack.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Thumbtack
 
-This Terms of Use agreement was last updated: _August 6th, 2013_   
+This Terms of Use agreement was last updated: _April 25th, 2013_   
 This Terms of Use agreement is effective as of: _January 15th, 2009_
 
 Thumbtack, Inc. ("Thumbtack") values your privacy. In this Privacy Policy ("Policy"), we describe the information that we collect about you when you visit our website, www.thumbtack.com (the "Website") and use the services available on the Website ("Services"), and how we use and disclose that information. 
 
-If you have any questions or comments about the Privacy Policy, please contact us at [support@thumbtack.com](mailto:support@thumbtack.com). This Policy is incorporated into and is subject to the Thumbtack Terms of Use, which can be accessed at <http://www.thumbtack.com/terms>. Your use of the Website and/or Services and any personal information you provide on the Website remains subject to the terms of the Policy and Thumbtack's Terms of Use. 
+If you have any questions or comments about the Privacy Policy, please contact us at [support@thumbtack.com](mailto:support@thumbtack.com). This Policy is incorporated into and is subject to the Thumbtack Terms of Use, which can be accessed at [www.thumbtack.com/terms](https://www.thumbtack.com/terms). Your use of the Website and/or Services and any personal information you provide on the Website remains subject to the terms of the Policy and Thumbtack's Terms of Use. 
 
 ##  A. Collection of Your Personal Information 
 
@@ -16,11 +16,11 @@ If you have any questions or comments about the Privacy Policy, please contact u
   
 
 
-We collect personal information from service professionals offering their products and services as well as from consumers searching for those service individuals. Both consumers and service professionals are required to create an account to be able to access certain portions of our Website, such as to submit questions, participate in polls or surveys, and request information. When you register for an Account or when you submit questions, participate in polls or surveys and request information, or otherwise interact with our Website and use our Services, we may collect personal information about you. 
+We collect personal information from service professionals offering their products and services as well as from consumers searching for those service professionals. Both consumers and service professionals are required to create an account to be able to access certain portions of our Website, such as to submit questions, participate in polls or surveys, to request a quote, to submit a bid in response to a quote, and request information. The type of personal information that we collect from you varies based on your particular interaction with our Website. 
 
-_Consumers:_ During the Account registration process, we will collect information such as your name, ZIP code, and email address. You also may provide us with your telephone number, mailing address, and demographic information (e.g., gender, age, political preference, education, race or ethnic origin, and other information relevant to user surveys and/or offers). We may also collect personal information that you post in your Offer, Profile, Wants, or Feedback, and any comments or discussions you post in any blog, chat room, or other correspondence site on the Website, or any comments you provide during dispute resolution with other users of the Website. 
+_Consumers:_ During the Account registration process, we will collect information such as your name, zip code, and email address. You also may provide us with your telephone number, mailing address, and demographic information (e.g., gender, age, political preference, education, race or ethnic origin, and other information relevant to user surveys and/or offers). We may also collect personal information that you post in your Offer, Profile, Wants, or Feedback, and any comments or discussions you post in any blog, chat room, or other correspondence site on the Website, or any comments you provide during dispute resolution with other users of the Website. 
 
-_Service Professionals:_ If you are a service professional and would like to post any information about yourself, we will require you to register for an Account. During the Account registration process, we will collect your business name, telephone number, address, ZIP code, travel preferences, a description of your services, a headline for your profile, first and last name, and email address. In addition, you may, but are not required to, provide other content or information about your business, including photographs and videos. We also may collect payment information, such as credit card information, from you. 
+_Service Professionals:_ If you are a service professional and would like to post any information about yourself, we will require you to register for an Account. During the Account registration process, we will collect your business name, telephone number, address, zip code, travel preferences, a description of your services, a headline for your profile, first and last name, and email address. In addition, you may, but are not required to, provide other content or information about your business, including photographs and videos. We also may collect payment information, such as credit card information, from you. 
 
 If we deem it necessary, in our sole and absolute discretion, we may also ask for and collect supplemental information from third parties, such as information about your credit from a credit bureau (to the extent permitted by law), or information to verify any identification details you provide during registration. 
 
@@ -35,22 +35,20 @@ We store the information that we receive from Facebook with other information th
 
 Facebook controls the information it collects from you. For information about how Facebook may use and disclose your information, including any information you make public, please consult Facebook's privacy policy. We have no control over how any third party site uses or discloses the personal information it collects about you. 
 
-3\. COLLECTION OF AGGREGATE INFORMATION, USE OF COOKIES AND OTHER TRACKING DEVICES 
+3\. COLLECTION OF AUTOMATIC INFORMATION, USE OF COOKIES AND OTHER TRACKING DEVICES 
 
   
 
 
-We may collect aggregate information from your use of our Website and Services, such as your browser type, your ISP or operating system, your domain name, your access time, the URL of the previous website you visited, your page views, your IP address, and the type of device that you use. We also track how frequently you visit our Website and use our Services. 
+We and our third party service providers, which include ad networks, use cookies, web beacons, and other tracking technologies to collect information about your use of our Website and Services, such as your browser type, your ISP or operating system, your domain name, your access time, the URL of the previous website you visited, your page views, your IP address, and the type of device that you use. We also track how frequently you visit our Website and use our Services. We use this information (including the information collected by our third party service providers) for Website analytics (including to determine which portions of our Website are used most frequently, what our users like/do not like), to assist us in determining relevant advertising (both on and off our Website), to evaluate the success of our advertising campaigns, and as otherwise described in this policy. Currently, we do not honor browser requests not to be tracked. 
 
-_Cookies._ We may collect information from you by using cookies, web beacons and other technologies. A cookie is a small file stored on user's computer hard drive containing information about the user. The cookie helps us analyze web traffic or informs you about your use of a particular website. Cookies allow web applications to respond to you as an individual, tailoring its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. When you visit the Website, we may send one or more cookies (i.e., a small text file containing a string of alphanumeric characters) to your computer that identifies your browser. 
+_Cookies._ We and our third party service providers collect information from you by using cookies. A cookie is a small file stored on user's computer hard drive containing information about the user. The cookie helps us analyze web traffic or informs you about your use of a particular website. Cookies allow web applications to respond to you as an individual, tailoring its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. When you visit the Website, we may send one or more cookies (i.e., a small text file containing a string of alphanumeric characters) to your computer that identifies your browser. 
 
 Some of these cookies may be connected to third-party companies or websites. The terms of use of such cookies are governed by this Policy and the privacy policy of the relevant thirdparty company or website. For example, Google measures the performance of advertisements by placing cookies on your computer when you click on ads. If you visit the Website when you have such cookies on your computer, we and Google will be able to tell that you saw the ad delivered by Google. The terms of use of these cookies are governed by this Policy and Google's Privacy Policy. 
 
 _Disabling Cookies._ You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you disable cookies you may be prevented from taking full advantage of the Website because it may not function properly if the ability to accept cookies is disabled. 
 
 _Clear GIFs, pixel tags and other technologies._ Clear GIFs are tiny graphics with a unique identifier, similar in function to cookies. In contrast to cookies, which are stored on your computer's hard drive, clear GIFs are embedded invisibly on web pages. We may use clear GIFs (a.k.a. web beacons, web bugs or pixel tags), in connection with our Website to, among other things, track the activities of Website visitors, help us manage content, and compile statistics about Website usage. We and our third party service providers also use clear GIFs in HTML emails to our customers, to help us track email response rates, identify when our emails are viewed, and track whether our emails are forwarded. 
-
-_Third-Party Analytics and Tracking._ We use automated devices and applications, including third party analytic tools as well as internal mechanisms, to evaluate Website usage. We use these tools to help us improve our Services, performance and user experiences. We (and our third party service providers) may use cookies and other tracking technologies to perform their services. 
 
 ##  B. How Thumbtack Uses the Information We Collect 
 
@@ -161,21 +159,28 @@ We may disclose your personal information to prevent an emergency, protect or en
 
 We may contract with various third parties for the provision and maintenance of the Website, Services and our business operations, and Thumbtack may need to share your personal information and data generated by cookies and aggregate information (collectively, "information") with these vendors and service agencies. For example, we may provide your information to a credit card processing company to process your payment. The vendors and service agencies will not receive any right to use your personal information beyond what is necessary to perform its obligations to provide the Services to you. If you complete a survey, we also may share your information with the survey provider; if we offer a survey in conjunction with another entity, we also will disclose the results to that entity. 
 
-3\. DISCLOSURE TO OTHER USERS OF OUR WEBSITE 
+3\. DISCLOSURE TO NON-AFFILIATED THIRD PARTIES IN FURTHERANCE OF YOUR REQUEST 
 
   
 
 
-If you are a service professional, the information that you post (other than your payment information) is available to other users of our Website and our Services. Comments that users post to our Website also will be available to other visitors to our Website (see our discussion of User Generated Content below). In addition, we will post the results (in aggregate form) of surveys to our Website. 
+Your request for services may be shared with third party websites with whom we have a contractual relationship in order to provide your request with maximum exposure. The post on the third party website will include the details of your request, including your location, but will not include your last name. Interested bidders, however, will be able to click on your request on such third party site, and will be directed to our Website where they will have access to your first name and the first letter of your last name, as would any other service provider on our Website interested in bidding on your request. 
 
-4\. INFORMATION DISCLOSED TO LAW ENFORCEMENT OR GOVERNMENT OFFICIALS 
+4\. DISCLOSURE TO OTHER USERS OF OUR WEBSITE 
+
+  
+
+
+If you are a service professional, the information that you post (other than your payment information) is available to other users of our Website and our Services. Comments that users post to our Website also will be available to other visitors to our Website (see our discussion of User Generated Content below). In addition, we will post the results (in aggregate form) of surveys to our Website. If you are a consumer, your first name plus first initial of your last name, zip code, as well as the details of your request, are available to all visitors to our Website. Bidding professionals also will be permitted to see the consumer's full name and telephone number. 
+
+5\. INFORMATION DISCLOSED TO LAW ENFORCEMENT OR GOVERNMENT OFFICIALS 
 
   
 
 
 We will disclose your information, including, without limitation, your name, city, state, telephone number, email address, user ID history, quoting and listing history, and fraud complaints, to law enforcement or other government officials if we are required to do so by law, regulation or other government authority or otherwise in cooperation with an investigation of a governmental authority. 
 
-5\. IN THE EVENT OF A CHANGE OF CONTROL OR BANKRUPTCY 
+6\. IN THE EVENT OF A CHANGE OF CONTROL OR BANKRUPTCY 
 
   
 
@@ -184,12 +189,12 @@ In the event that Thumbtack undergoes a change in control, including, without li
 
 In addition, in the event of Thumbtack's bankruptcy, reorganization, receivership, or assignment for the benefit of creditors, or the application or laws or equitable principles affecting creditors' rights generally, Thumbtack may not be able to control how your information is transferred, used, or treated and reserves the right to transfer the information we have collected from the users of the Website and/or Services to non-affiliated third parties in such event. 
 
-6\. INFORMATION DISCLOSED AT YOUR REQUEST 
+7\. INFORMATION DISCLOSED AT YOUR REQUEST 
 
   
 
 
-We may share your personal information with other Registered Users to whom you explicitly ask us to send your information or if you explicitly consent to such disclosure upon receipt of a specific Service. For instance, when you contract for a specific Service with another Registered User, Thumbtack will send that Registered User a notice that includes the personal information that you have chosen to allow Thumbtack to reveal to users with whom you contract. You can change your privacy settings regarding the information you choose to reveal to other Registered Users with whom you contract by logging into the Website and navigating to your preferences page in "Your Dashboard." 
+We may share your personal information with other Registered Users to whom you explicitly ask us to send your information or if you explicitly consent to such disclosure upon receipt of a specific Service. For instance, when you contract for a specific Service with another Registered User, Thumbtack will send that Registered User a notice that includes the personal information that you have chosen to allow Thumbtack to reveal to users with whom you contract. 
 
 ##  G. Links to External Websites 
 
@@ -205,7 +210,7 @@ The Website may contain links to other websites or resources over which Thumbtac
 
 You may choose to restrict the collection or use of your personal information in the following ways: 
 
-You can review, correct and delete your personal information by logging into the Website and navigating to your preferences page in "Your Dashboard." You must promptly update your personal information if it changes or is inaccurate. Typically, we will not manually alter your personal information because it is very difficult to verify your identity remotely. Nonetheless, upon your request we will close your Account and remove your personal information from view as soon as reasonably possible, based on your Account activity and in accordance with applicable law. We do retain information from closed Accounts in order to comply with the law, prevent fraud, collect any fees owed, resolve disputes, troubleshoot problems, assist with any investigations of any Registered User, enforce our Terms of Use, and take any other actions otherwise permitted by law that we deem necessary in our sole and absolute discretion. You should understand, however, that once you publicly post an Offer, Want, Feedback, or any other information onto the Website, you may not be able to change or remove it. Once we have deleted or removed your Account, you agree that Thumbtack shall not be responsible for any personal information that was not included within your deleted and/or removed Account that remains on the Website. 
+You can review, correct and delete your personal information by logging into the Website and navigating to your preferences page in "Your Dashboard." You must promptly update your personal information if it changes or is inaccurate. Typically, we will not manually alter your personal information because it is very difficult to verify your identity remotely. Nonetheless, upon your request we will close your Account and remove your personal information from view as soon as reasonably possible, based on your Account activity and in accordance with applicable law. We do retain information from closed Accounts in order to comply with the law, prevent fraud, collect any fees owed, resolve disputes, troubleshoot problems, assist with any investigations of any Registered User, enforce our Terms of Use, and take any other actions otherwise permitted by law that we deem necessary in our sole and absolute discretion. You should understand, however, that once you publicly post a Request, Offer, Want, Feedback, or any other information onto the Website, you may not be able to change or remove it. Once we have deleted or removed your Account, you agree that Thumbtack shall not be responsible for any personal information that was not included within your deleted and/or removed Account that remains on the Website. 
 
 ##  I. What Choices Do I Have Regarding Use of My Personal Information? 
 
@@ -215,7 +220,7 @@ We may send periodic promotional or informational emails to you. You may opt-out
 
 We participate in third party ad networks that may display advertisements on other websites based on your visits to our Site as well as other websites. This enables us and these third parties to target advertisements by displaying ads for products and services in which you might be interested. Third party ad network providers, advertisers, sponsors and/or traffic measurement services may use cookies, JavaScript, web beacons (including clear GIFs), Flash LSOs and other technologies to measure the effectiveness of their ads and to personalize advertising content to you. These third party cookies and other technologies are governed by each third party's specific privacy policy, not this one. We may provide these third-party advertisers with information about your usage of our Site and our services, as well as aggregate or non-personally identifiable information about visitors to our Site and users of our service. 
 
-You may opt-out of many third-party ad networks, including those operated by members of the Network Advertising Initiative ("NAI") and the Digital Advertising Alliance ("DAA"). For more information regarding this practice by NAI members and DAA members, and your choices regarding having this information used by these companies, including how to opt-out of thirdparty ad networks operated by NAI and DAA members, please visit their respective websites: [ www.networkadvertising.org/optout_nonppii.asp (NAI) ](https://web.archive.org/web/20131121220101id_/http%3A//www.thumbtack.com/www.networkadvertising.org/optout_nonpii.asp) and [ www.aboutads.info/choices (DAA). ](https://web.archive.org/web/20131121220101id_/http%3A//www.thumbtack.com/www.aboutads.info/choices)
+You may opt-out of many third-party ad networks, including those operated by members of the Network Advertising Initiative ("NAI") and the Digital Advertising Alliance ("DAA"). For more information regarding this practice by NAI members and DAA members, and your choices regarding having this information used by these companies, including how to opt-out of thirdparty ad networks operated by NAI and DAA members, please visit their respective websites: [ www.networkadvertising.org/optout_nonppii.asp (NAI) ](https://web.archive.org/web/20140629063329id_/http%3A//www.thumbtack.com/www.networkadvertising.org/optout_nonpii.asp) and [ www.aboutads.info/choices (DAA). ](https://web.archive.org/web/20140629063329id_/http%3A//www.thumbtack.com/www.aboutads.info/choices)
 
 Opting out of one or more NAI member or DAA member networks (many of which will be the same) only means that those members no longer will deliver targeted content or ads to you. It does not mean you will no longer receive any targeted content or ads on our Site or other websites. You may continue to receive advertisements, for example, based on the particular website that you are viewing. Also, if your browsers are configured to reject cookies when you visit this opt-out page, or you subsequently erase your cookies, use a different computer or change web browsers, your NAI or DAA opt-out may no longer be effective. Additional information is available on NAI's and DAA's websites accessible by the above links. 
 
@@ -233,7 +238,7 @@ As a Registered User of the Website you will select a Full Name during the regis
   
 
 
-The Website facilitates your sharing of personal information with others in order to negotiate, provide, and use the Services. If you agree to contract for a service with another Registered User, you may need to reveal your name, email, phone number, or personal address to that individual so that the service may be performed. Please respect the privacy of others. To help protect your privacy we only allow limited access to other users' contact information during the transaction of business between users, including the negotiation and confirmation of Services. You agree to use the information of other users solely for the following purposes: (a) Thumbtack-transaction-related purposes; and (b) using Services offered through the Website. 
+The Website facilitates your sharing of personal information with others in order to negotiate, provide, and use the Services. If you agree to contract for a service with another Registered User, you may need to reveal your name, email, phone number, or personal address to that individual so that the service may be performed. Please respect the privacy of others. You agree to use the information of other users solely for the following purposes: (a) Thumbtack-transaction-related purposes; and (b) using Services offered through the Website. 
 
 3\. ACCOUNT PROTECTION 
 
@@ -262,3 +267,6 @@ THIS POLICY IS CURRENT AS OF THE EFFECTIVE DATE SET FORTH ABOVE. THUMBTACK MAY, 
 
 
 Our computer systems are currently based in the United States, so your personal data will be processed by us in the United States where data protection and privacy regulations may not offer the same level of protection as in other parts of the world, such as the European Union. If you create an Account with the Website as a visitor from outside the United States, by using the Website, you agree to this Policy and you consent to the transfer of all such information to the United States, which may not offer an equivalent level of protection of that required in the European Union or certain other countries, and to the processing of that information as described in this Policy. 
+
+  
+© 2014 Thumbtack, Inc. All Rights Reserved. 
