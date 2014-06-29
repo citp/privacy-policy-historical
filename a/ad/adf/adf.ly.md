@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the adf.ly privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621030352id_/http%3A//adf.ly/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adf.ly privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629035440id_/http%3A//adf.ly/privacy) for the most accurate reproduction.*
 
-# AdFly - Terms & Conditions
+# AdFly - Termos e Condições
 
 _This statement was last updated February 4, 2011._
 
