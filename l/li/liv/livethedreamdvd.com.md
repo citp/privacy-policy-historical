@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livethedreamdvd.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229052140id_/http%3A//www.mlsp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livethedreamdvd.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629130816id_/http%3A//www.mlsp.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | MyLeadSystemPRO™
 
@@ -8,7 +8,7 @@ By using our services or submitting information, you are accepting the practices
 
 The personal information we collect includes name, address, e-mail address, telephone number, user name, and password. Other personal information that you may submit is clearly labeled at the time you submit it. We use the information that we collect to provide our services, to contact you regarding our products and services, and to improve our site. We also share your name, address, telephone number, and other contact details with the member, if any, who referred you to our website. Once a third-party obtains your personal information, its subsequent use is controlled by their business practices, which is beyond our control. By providing us a telephone number and/or email address, you are expressly requesting that we and/or anyone to whom we subsequently share or transfer your personal information contact you at that number or email address. Note, however, that your payment information is used only for order processing purposes.
 
-We automatically collect certain information from visitors to, and members of, the site, such as Internet addresses, browser type, Internet Service Provider (ISP), referring and exit page, operating system, timestamps, and clickstream data. We also track and analyze non-identifying and aggregate usage and volume statistical information from our visitors and customers. This information is logged to help diagnose technical problems, and to administer our site so that we can constantly improve the quality of the services we provide.
+We automatically collect certain information from visitors to, and members of, the site, such as Internet addresses, browser type, Internet Service Provider (ISP), referring and exit page, operating system, timestamps, and clickstream data. We also track and analyze non-identifying and aggregate usage and volume statistical information from our visitors and customers. This information is logged to help diagnose technical problems, and to administer our site so that we can constantly improve the quality of the services we provide. We do not respond to your browser’s “do not track” signals or other mechanisms for indicating your preference regarding the collection personally identifiable information. Also, we do not permit third parties to collect personally identifiable information about your online activities when you use our website and related services.
 
 When you pay for anything on our site using a credit or debit card—including your monthly membership fee—we collect the personal information needed to complete the transaction. This information includes your name, card number, and other necessary information, all of which is clearly labeled on the form you use to submit payment. We use an unaffiliated, credit card processing company to process your payment. We transfer your payment information—and you authorize us to do so—to this company solely for this purpose. The company does not retain, share, store, or use personally identifiable information for any other purposes.
 
@@ -25,4 +25,4 @@ Upwards Enterprises, LLC
 8605 Santa Monica Blvd #32665  
 Los Angeles, California 90069
 
-This privacy policy is effective as of Sept 7, 2010.
+This privacy policy is effective as of January 6, 2014.
