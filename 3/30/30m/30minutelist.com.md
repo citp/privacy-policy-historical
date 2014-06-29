@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the 30minutelist.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218163149id_/http%3A//30minutelist.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 30minutelist.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629143000id_/http%3A//30minutelist.com/privacy.php) for the most accurate reproduction.*
 
 # 30MinuteList.com
+
+[](http://30minutelist.com/bannerclick.php?id=12896&code=JuVumeBy)  
+
 
 30MinuteList.com Privacy Policy
 
