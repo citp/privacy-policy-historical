@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the giftbig.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204074454id_/http%3A//www.giftbig.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giftbig.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629144716id_/http%3A//www.giftbig.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Privacy & Policies | GiftBig.com
+# Privacy & Policies | GiftBig.com
 
 **A.  ** **General Usage**   
 This Privacy Policy explains how QwikCilver collects, uses, discloses and protects your Personal Information, obtained explicitly through www.giftbig.com website (" **Site** "), as well as other information collected automatically without direct submission by you. 'Personal Information' is information that enables anyone to contact you and your credit-card details. Your full name, address, IP address, e-mail address are other examples of Personal Information. 
