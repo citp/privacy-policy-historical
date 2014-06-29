@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thepostgame.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218023553id_/http%3A//www.thepostgame.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepostgame.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629090440id_/http%3A//www.thepostgame.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | ThePostGame
 
