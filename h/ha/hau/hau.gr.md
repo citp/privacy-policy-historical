@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hau.gr privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227103303id_/http%3A//www.hau.gr/%3Fi%3Dhau.en.terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hau.gr privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629133434id_/http%3A//www.hau.gr/%3Fi%3Dhau.en.terms) for the most accurate reproduction.*
 
 # Privacy Policy | Hellenic American Union
 
-You are at:  [Home](https://web.archive.org/web/20131227103303id_/http%3A//www.hau.gr/%3Fi%3Dhau.en.terms?i=hau.en.home) / Privacy Policy 
+You are at:  [Home](https://web.archive.org/web/20140629133434id_/http%3A//www.hau.gr/%3Fi%3Dhau.en.terms?i=hau.en.home) / Privacy Policy 
 
   * [Google +](https://plus.google.com/share?url=http%3A%2F%2Fwww.hau.gr%2F%3Fi%3Dhau.en.terms)
   * [LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=http%3A%2F%2Fwww.hau.gr%2F%3Fi%3Dhau.en.terms&title=Privacy%20Policy%20|%20Hellenic%20American%20Union)
