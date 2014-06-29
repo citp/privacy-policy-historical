@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the attentiondeficitconnect.com privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110112531id_/http%3A//www.attentiondeficitconnect.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the attentiondeficitconnect.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629133447id_/http%3A//www.attentiondeficitconnect.com/privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy | Attention Deficit Connect
 
-**Last Updated: 09/26/2012**
+**Last Updated: 11/14/13**
 
 ## Introduction / About Alliance Health Networks ("Alliance Health")
 
@@ -27,7 +27,7 @@ In an effort to further our mission to empower consumers and help enable a more 
 
 When you register to join an Alliance Health community and/or register for offers available through our advertising partners you consent to sharing information about yourself, Personally Identifiable Information, so that we can make our services and the services of our partners available to you.
 
-When you join an Alliance Health community, you may set up your personal profile, set and update privacy settings, form relationships with other members, send messages, perform searches and queries, and transmit information through various channels.
+When you join an Alliance Health community, you may set up your personal profile, set and update privacy settings, form relationships with other members, send messages, perform searches and queries, and transmit information through various channels. The profile you create on site will be publicly accessible unless otherwise indicated. You may change your privacy settings by visiting your community profile page. 
 
 By clicking the "Accept" button during registration or by using our sites, you explicitly accept or "opt-in", without limitation or qualification, to the collection, use and transfer of Personally Identifiable Information provided by you in the manner described in this Privacy Policy; as well as in our Terms of Use.
 
@@ -218,6 +218,12 @@ In certain circumstances we may share Personally Identifiable Information for th
 
 
 
+## Blog/Forum
+
+Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [community@alliancehealth.com](mailto:community@alliancehealth.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+
+Our Web site includes Social Media Features, such as the Facebook Like button [and Widgets, such as the Pinterest this button or interactive mini-programs that run on our site]. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+
 ## Your Obligation As a User
 
 In accordance with our mission to empower consumers and help enable a more consumer-centric healthcare industry we rely on you to contribute to the user-generated platform. As you interact within the community site, you may post User Content. You do this at your own risk. Although we allow you to set privacy options that limit access by other site visitors to your profile, please be aware that no security measures are perfect or impenetrable. We cannot control the actions of other Users with whom you may (1.) choose to share your pages, and (2.) directly provide Personally Identifiable Information and personal information to. Therefore, we cannot and do not guarantee that User Content you post on the site will not be viewed by unauthorized persons. We are not responsible for circumvention of any privacy settings or security measures contained on the site. You understand and acknowledge that, even after removal, copies of User Content may remain viewable in cached and archived pages or if other Users have copied or stored your User Content.
@@ -242,7 +248,7 @@ We will retain your Personally Identifiable Information as long as your account 
 
 You may choose to stop receiving Alliance Health newsletters or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at [community@alliancehealth.com](mailto:community@alliancehealth.com). You may also opt-out of the community by following the instruction in the Updating Personally Identifiable Information section above.
 
-#### Alliance Health Reponse Timeframe
+#### Alliance Health Response Timeframe
 
 We will respond to your request to access within 30 business days.
 
@@ -281,7 +287,7 @@ Any improper collection or misuse by unauthorized third parties of Personally Id
 
 We reserve the right to modify this Privacy Policy and our Terms of Use at any time, so please review them frequently.
 
-If we make material changes to either our Privacy Policy or our Terms of Use, we will notify you here, or by email, or by means of a notice on our home page.
+If we make material changes to either our Privacy Policy or our Terms of Use, we will notify you here, or by email, or by means of a notice on our home page prior to the change becoming effective.
 
 Although this Privacy Policy is not a contract and does not create any legal rights, it does serve as an expression of our commitment to protecting Personally Identifiable Information.
 
