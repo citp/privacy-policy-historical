@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rankingtoday.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229234132id_/http%3A//www.rankingtoday.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rankingtoday.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629061656id_/http%3A//www.rankingtoday.com/privacy.php) for the most accurate reproduction.*
 
 # Ranking Today Privacy
 
