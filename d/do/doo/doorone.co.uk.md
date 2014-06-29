@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doorone.co.uk privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207154742id_/http%3A//www.ebaycommercenetwork.com/uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doorone.co.uk privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629193007id_/http%3A//www.ebaycommercenetwork.com/uk/privacy-policy) for the most accurate reproduction.*
 
 # eBay Commerce Network UK - Privacy Policy
 
@@ -102,7 +102,7 @@ You may write to us at: eBay Inc. Attn: Legal - Global Privacy Practices, 2145 H
 
 When you use any of the eBay Commerce Network websites listed above, you are contracting with eBay Inc., with offices located at 2145 Hamilton Avenue, San Jose, CA 95125. If you reside outside of the United States, eBay Inc. is your data controller.
 
-By using the ECN websites or their related applications, services, and tools, or by registering for an account with any of our websites, you expressly consent to our collection, use, disclosure, and retention of your personal information as described in this Privacy Policy and in the eBay Commerce Network [User Agreement](https://web.archive.org/web/20131207154742id_/http%3A//www.ebaycommercenetwork.com/uk/user-agreement), as well as to the transfer and storage of your personal information to our servers in the United States and elsewhere in the world where we have facilities.
+By using the ECN websites or their related applications, services, and tools, or by registering for an account with any of our websites, you expressly consent to our collection, use, disclosure, and retention of your personal information as described in this Privacy Policy and in the eBay Commerce Network [User Agreement](https://web.archive.org/web/20140629193007id_/http%3A//www.ebaycommercenetwork.com/uk/user-agreement), as well as to the transfer and storage of your personal information to our servers in the United States and elsewhere in the world where we have facilities.
 
 ### Global Privacy Standards
 
