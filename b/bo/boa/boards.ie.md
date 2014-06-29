@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the boards.ie privacy policy that was archived on 2013-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131020022834id_/http%3A//www.boards.ie/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boards.ie privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629044309id_/http%3A//www.boards.ie/content/privacy) for the most accurate reproduction.*
 
 # Boards.ie - Now Ye're Talkin'
 
-Revised: 02/07/’12
+Revised: 28/03/’14
 
 ## Introduction
 
@@ -96,6 +96,7 @@ search_sort | string | Remembers the search results sorting preference for a use
 showforums | "1" | If set then when a user visits the touch site homepage it will default to show followed forums not latest posts | On manual homepage tab change or 1 year  
 touch | "off" | Disables the touch site and forces the use of the full site | 1 year  
 vbulletin_collapse | Numeric strings | Remembers which collapsible items the user has hidden/displayed | On user logout or 1 year  
+__cfduid | Hexadecimal IP Numeric strings | User identifier | 6 years  
 vbulletin_inlinepost | Post IDs | Remembers post IDs a moderator selected for quick, inline moderation | 1 hour  
 vbulletin_inlinethread | Thread IDs | Remembers thread IDs a moderator selected for quick, inline moderation | 1 hour  
   
@@ -106,6 +107,8 @@ Audience measurement cookies are used to collect information about how our site 
 We also use third party advertisements to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP, the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing location-based advertisements) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
 
 We also may use DART cookies for ad serving through Google's DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests ("interest based targeting"). The ads served will be targeted based on your previous browsing history (For example, if you have been viewing sites about visiting Las Vegas, you may see Las Vegas hotel advertisements when viewing a non-related site, such as on a site about hockey). DART uses "non personally identifiable information". It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. You can opt-out of this ad serving on all sites using this advertising by visiting <http://www.doubleclick.com/privacy/dart_adserving.aspx>
+
+We also may use data from Google's Interest-based advertising or 3rd-party audience data (such as age, gender, and interests) with Google Analytics. At no time will we use this information to identify specific users or track personal information. You can opt-out of Google's Interest-based advertising here: <https://www.google.com/settings/ads>
 
 The following is a list of cookies currently set by site partners:
 
@@ -129,6 +132,11 @@ __utmb | Randomly generated number | Usage stats | 30 minutes
 __utmc | Randomly generated number | Usage stats | On browser exit  
 __utmv | Same value as __utmc + Information on the logged in status of the user | Usage stats | 2 years  
 __utmz | Randomly generated number | Usage stats | 6 months  
+Click Tale (Audience Measurement)  
+WRUID | Randomly generated number | Used to anonymously identify a visitor to Boards for the purpose of enabling the ClickTale software to track such visitor’s actions across the site. | 1 Year  
+WRIgnore | 0 or 1 |  Created if the domain is not selected or if the account has run out of recording credits. It provides information that the specific visitor should not be recorded or tracked by the software.  | 1 Year  
+WRBlock | 0 or 1 |  If a visitor to client’s website does not wish to be tracked by the software they may opt-out through the following link: http://www.clicktale.net/disable.html Clicking this link shall place a cookie on the visitor’s machine for the purpose of blocking any recording by the ClickTale software of this visitor’s session.  | 1 Year  
+__CT_Data | Number |  This cookie is used to count the number of pageviews or visits of the anonymous visitor for the purpose of enabling the ClickTale software to track the number of pageviews or visits a visitor made on the client’s website.  | 1 Year  
   
 
 
