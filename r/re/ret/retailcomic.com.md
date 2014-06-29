@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the retailcomic.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231213319id_/http%3A//retailcomic.com/privacy-policy-and-terms-of-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the retailcomic.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630002011id_/http%3A//retailcomic.com/privacy-policy-and-terms-of-use) for the most accurate reproduction.*
 
 # Privacy Policy and Terms of Use | Retail Comic
 
