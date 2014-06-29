@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the scheduleonce.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222012100id_/http%3A//www.scheduleonce.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scheduleonce.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629224514id_/http%3A//www.scheduleonce.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy policy
 
-We have created this privacy policy (the “Policy”) to explain our privacy practices so you will understand when and how personal information is collected, used, disclosed and protected with respect to our services (“Service”), and Web sites (“Site”) located at [www.scheduleonce.com](http://www.scheduleonce.com/), [www.meetme.so](http://meetme.so/) and [www.booknow.so](http://booknow.so/). By using the Service, you consent to the privacy practices described in this Policy. 
+We have created this privacy policy (the “Policy”) to explain our privacy practices so you will understand when and how personal information is collected, used, disclosed and protected with respect to our services (“Service”), and Web sites (“Site”) located at [www.scheduleonce.com](http://www.scheduleonce.com/), [www.meetme.so](http://www.meetme.so/) and [www.booknow.so](http://www.booknow.so/). By using the Service, you consent to the privacy practices described in this Policy. 
 
 We reserve the right to change this Policy at any time. If we make any material changes to our Policy, we will post a new policy on our Site and update the “last updated” date set forth above. Therefore, we encourage you to check our Policy whenever you use the Service to see if it has been updated since your last visit. 
 
@@ -38,7 +38,7 @@ Since ScheduleOnce cookies are essential to operate the ScheduleOnce application
 
 ##### Third party cookies (Opt out possible)
 
-There are two types of third party cookies on the ScheduleOnce website. 
+There are two types of third-party cookies on the ScheduleOnce website. 
 
 **Analysis cookies:** These cookies collect information about how people use our web site and application, including which pages visitors go to most often, how fast they load and other statistical information. These cookies do not collect information that individually identifies a visitor. All information these cookies collect is aggregated and anonymous. It is only used to tell us how our web site is used so that we can optimize our users’ experience. ScheduleOnce may also utilize Flash cookies for these purposes. 
 
@@ -98,4 +98,4 @@ We may revise and update this Policy if our practices change, as technology chan
 
 ## CONTACTING US
 
-If you have any questions or comments about this Policy, the privacy practices of the Service, or your dealings with ScheduleOnce, please [contact us](https://web.archive.org/web/20131222012100id_/http://www.scheduleonce.com/contactus.aspx) via our contact form. 
+If you have any questions or comments about this Policy, the privacy practices of the Service, or your dealings with ScheduleOnce, please [contact us](https://web.archive.org/web/20140628232834id_/http://www.scheduleonce.com/contactus.aspx) via our contact form. 
