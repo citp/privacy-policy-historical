@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the razoo.com privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128070856id_/http%3A//www.razoo.com/p/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the razoo.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629235520id_/http%3A//www.razoo.com/p/privacy_policy) for the most accurate reproduction.*
 
 # The Razoo.com Privacy Policy - Razoo
 
@@ -18,11 +18,17 @@ You may also post information, such as comments, texts, images, videos, and othe
 
 If you create an account with us, we may send a monthly newsletter, system notifications, and other communications to your email. You may opt out of the monthly newsletter by adjusting the settings in your user account. We will also use the information you submit to the Website to facilitate completion of your donations made via the Website and to provide you with tools to manage and monitor your transactions.
 
-Razoo Foundation is an associated independent, tax-exempt nonprofit that is the recipient of all donations that are made through the Website. Razoo Foundation maintains one of the largest donor advised funds in the nation, consisting of most US-based public charities in good standing with current tax-exempt from the IRS. In furthering its charitable and educational mission of catalyzing grass-roots philanthropy, the Foundation has agreed to serve as the nation’s trusted charity facilitator of choice. When you make a donation to Razoo Foundation and regrant recommendation (“advisement”) to a nonprofit or qualified organization listed on the Website, you grant us (along with Razoo Foundation) permission to access your donation records at any time. Unless you request that your donor advisement be anonymous, we or Razoo Foundation will make available to your selected nonprofit and/or fundraiser online reports identifying, where available, the name, address, email, and transaction accounting details of the advised contribution. Unless you request that your donor advisement be anonymous, we or Razoo Foundation will also share your name, address, email and transaction accounting details of your donation with the nonprofit or qualified organizations administrating giving events ("Giving Event Administrator") in which you participate. If you choose to make your advisement anonymously, we will share only the donation amount of the advised and completed regrant with your selected organization, fundraiser, and/or Giving Event Administrator.
+Razoo Foundation is an associated independent, tax-exempt nonprofit that is the recipient of all donations that are made through the Website. Razoo Foundation maintains one of the largest donor advised funds in the nation, consisting of most US-based public charities in good standing with current tax-exempt from the IRS. In furthering its charitable and educational mission of catalyzing grass-roots philanthropy, the Foundation has agreed to serve as the nation’s trusted charity facilitator of choice. When you make a donation to Razoo Foundation and regrant recommendation (“advisement”) to a nonprofit or qualified organization listed on the Website, you grant us (along with Razoo Foundation) permission to access your donation records at any time. 
+
+Unless you request that your donor advisement be anonymous, we or Razoo Foundation will make available to your selected nonprofit and/or fundraiser online reports identifying, where available, the name, address, email, employer (if optionally provided) and transaction accounting details of the advised contribution. 
+
+Unless you request that your donor advisement be anonymous, we or Razoo Foundation will also share your name, address, email, employer (if optionally provided) and transaction accounting details of your donation with the nonprofit or qualified organizations administrating giving events ("Giving Event Administrator") in which you participate. 
+
+If you choose to make your advisement anonymously, we will share only the donation amount and your employer (if optionally provided) of the advised and completed regrant with your selected organization, fundraiser, and/or Giving Event Administrator.
 
 If you have participated in a giving event through Razoo, we, Razoo Foundation, or the Giving Event Administrator may send you a one-time, post giving event survey to completed. If you choose to participate in the survey, your feedback on the survey will be shared with the Giving Event Administrator. You will not receive the survey if you have requested that your donor advisement be made anonymously.
 
-Your information may also be provided to third parties – such as (for example) the credit card company, the sponsoring bank, and/or the bank issuing the credit card – for the purpose of processing the credit card (or other) charitable gift transaction.
+Your information may also be provided to third parties – such as (for example) the credit card company, the sponsoring bank, and/or the bank issuing the credit card – for the purpose of processing the credit card (or other) charitable gift transaction. Should you provide us with information related to a matching gift, your information will be shared with third parties for the purpose of processing the matching gift donation.
 
 Neither Razoo Foundation nor we will, however, ever share your personal information, donation activity, or email address with any other third party without your prior consent (except as may be required by law – see “Legal Requirements” section below).
 
@@ -30,7 +36,7 @@ We will use your contact information to send you information concerning your don
 
 ## Security
 
-Razoo takes security seriously and we take reasonable measure to protect our user’s information. All transaction and credit card information entering the Razoo system is encrypted using SSL certificates from VeriSign. We are not, however, responsible for any information your share with other users of the Website or other third parties.
+Razoo takes security seriously and we take reasonable measure to protect our user’s information. All transaction and credit card information entering the Razoo system is encrypted using SSL certificates from VeriSign. We are not, however, responsible for any information you share with other users of the Website or other third parties.
 
 ## Privacy Protection for Children
 
