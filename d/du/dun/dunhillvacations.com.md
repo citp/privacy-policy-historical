@@ -1,14 +1,10 @@
-> *The following text is extracted and transformed from the dunhillvacations.com privacy policy that was archived on 2013-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131128150509id_/http%3A//www.dunhilltraveldeals.com/info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dunhillvacations.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629034708id_/http%3A//www.dunhilltraveldeals.com/info/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
-
-[](https://privacy-policy.truste.com/click-with-confidence/ctv/en/www.dunhillvacations.com/seal_m "Validate TRUSTe privacy certification")
 
 **Effective 5/20/2011**
 
 Dunhill Vacations Inc. dba Dunhill Travel Deals has created this policy because of our commitment to your privacy. This privacy policy covers the information collection and use on the Web site [www.dunhilltraveldeals.com](http://www.dunhilltraveldeals.com/), as well as e-mail newsletters.
-
-Dunhill Travel Deals has been rewarded TRUSTe’s privacy seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding out privacy policy or practices, please contact us at techsupport@dunhilltraveldeals.com. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
 Dunhill Travel Deals publishes various versions of Dunhill's Top Travel Deals, an opt-in newsletter of travel offers and information. Users can sign up for newsletters from our home page by providing their e-mail address. This information will not be sold to third parties.
 
