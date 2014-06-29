@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appointy.com privacy policy that was archived on 2011-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111205184607id_/http%3A//www.appointy.com/newweb/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appointy.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629222429id_/http%3A//www.appointy.com/newweb/privacy.html) for the most accurate reproduction.*
 
 # Appointy :: Privacy Policy
 
@@ -49,7 +49,7 @@ Appointy will not share a Business User schedule with anyone, except to the exte
 
   
 _Other Sharing of Information_   
-We may release information when necessary to comply with the law or a court order or an investigation.  We also may release information to law enforcement to protect our rights, property, or other interests, including those of our customers or users or to prevent illegal activities or violations of our Terms of Use (at [http://www.Appointy.com/newweb/Terms-of-use.html](https://web.archive.org/web/20111205184607id_/http%3A//www.appointy.com/newweb/Terms-of-use.html)).     
+We may release information when necessary to comply with the law or a court order or an investigation.  We also may release information to law enforcement to protect our rights, property, or other interests, including those of our customers or users or to prevent illegal activities or violations of our Terms of Use (at [http://www.Appointy.com/newweb/Terms-of-use.html](https://web.archive.org/web/20140629222429id_/http%3A//www.appointy.com/newweb/Terms-of-use.html)).     
 In the event that we, in whole or in part, establish a partnership with another company, or are acquired by or merged with another company, information we collect may be transferred to the partner or the acquiring or merging company at time such merger, acquisition, or partnership is closed and to the extent necessary to fulfill our obligations under such merger, acquisition, or partnership.  
 
   
