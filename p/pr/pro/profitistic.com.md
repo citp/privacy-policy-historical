@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the profitistic.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222011430id_/http%3A//www.monetise.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the profitistic.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629142545id_/http%3A//www.monetise.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Monetise | Privacy Policy
 
