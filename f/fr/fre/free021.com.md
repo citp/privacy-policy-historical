@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free021.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218141353id_/http%3A//free021.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free021.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629024757id_/http%3A//free021.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Serial Privacy_policy - free021.com
 
@@ -21,4 +21,4 @@ Contact Information
 Concerns or questions about this privacy policy can be directed to info@free0098.com for further clarification.
 
   
-Copyright ©2010 free0098.com | [Privacy Policy / Contact US](https://web.archive.org/web/20131218141353id_/http%3A//free021.com/privacy_policy.php)| [**FAQ / Soalha Va Javabha**](https://web.archive.org/web/20131218141353id_/http%3A//free021.com/faq.php) [ ](http://www.countomat.de/77390.html "Countomat Webcounter und Webstatistik \(Statistik und Logfileanalyse, Counter\)")
+Copyright ©2010 free0098.com | [Privacy Policy / Contact US](https://web.archive.org/web/20140629024757id_/http%3A//free021.com/privacy_policy.php)| [**FAQ / Soalha Va Javabha**](https://web.archive.org/web/20140629024757id_/http%3A//free021.com/faq.php) [ ](http://www.countomat.de/77390.html "Countomat Webcounter und Webstatistik \(Statistik und Logfileanalyse, Counter\)")
