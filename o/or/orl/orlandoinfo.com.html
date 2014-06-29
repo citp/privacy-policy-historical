@@ -1,9 +1,10 @@
-<!--The following is the downloaded HTML source of the orlandoinfo.com privacy policy that was archived on 2013-05-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130515090540id_/http%3A//www.visitorlando.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the orlandoinfo.com privacy policy that was archived on 2014-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140630015335id_/http%3A//www.visitorlando.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb##"><head>
-					
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb##" class=" js no-touch draganddrop localstorage sessionstorage" style=""><head>
+                        
 			<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1">
 			
             
             <meta property="og:image" content="http://www.visitorlando.com/includes/images/assets/logo_small.png">
@@ -30,10 +31,11 @@
 
             <meta property="og:site_name" content="Visit Orlando">
             <meta property="fb:admins" content="100000801563659,100003028943490">
-            <meta http-equiv="X-UA-Compatible" content="IE=8">
-			
 
-		<link href="http://www.visitorlando.com/includes/css/combine.cfm?files=/includes/css/cms.css,/includes/css/main.css,/includes/css/forms.css,/includes/css/shadowbox.css,/includes/css/nav/nav_dd-box-list-2lvl.css,/includes/css/nav/nav_pipe-top-1lvl.css" rel="stylesheet" type="text/css"> 
+		<link href="/includes/css/glyphicons/glyphicons.css" rel="stylesheet" media="all" type="text/css">
+	<link href="/includes/css/custom.css" rel="stylesheet" media="all" type="text/css">
+	<link href="/includes/css/shadowbox.css" rel="stylesheet" media="all" type="text/css">
+	
 			<!--[if IE 8]>
 			<link rel="stylesheet" type="text/css" href="/includes/css/ie8.css" />
 			<![endif]-->
@@ -64,9 +66,10 @@
 			</script>
 
 			
-			<script type="text/javascript" language="javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+			<script type="text/javascript" language="javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 	<script type="text/javascript" language="javascript" src="/includes/scripts/shadowbox-3.0.3/shadowbox.js"></script>
-	<script type="text/javascript" language="javascript" src="/includes/scripts/jquery.jplayer.min.js"></script>
+	<script type="text/javascript" language="javascript" src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+	<script type="text/javascript" language="javascript" src="/includes/scripts/modernizr.min.js"></script>
 	<script type="text/javascript" language="javascript">
 	<!-- 
 	 //-->
@@ -90,95 +93,94 @@
 				fjs.parentNode.insertBefore(js, fjs);
 				}(document, 'script', 'facebook-jssdk'));
 
-
-
-
 				
-				SV = {};
-				Shadowbox.init({
-					language: "en"
-					,players:  ["iframe","img"]
-					,troubleElements: ["select","object","embed","canvas"]
-				});
-				function openShadowbox(title,link,width,height){
-					Shadowbox.open({
-						player: "iframe",
-						title: title,
-						content: link,
-						width: width,
-						height: height,
-						options: {
-							onOpen: function() {
-								jQuery('#sb-nav-close')
-									.css('height', '16px')
-									.css('padding-top', '8px')
-									.css('padding-right', '18px')
-									.css('line-height', '16px')
-									.css('background', 'transparent url("' + siteRoot + 'includes/images/shadowbox/close.png") no-repeat right bottom')
-									.css('font-size', '12px')
-									.css('font-weight', 'bold')
-									.css('color', '#FFFFFF')
-									.css('float', 'right')
-									.css('cursor', 'pointer')
-									.css('position', 'relative')
-									.css('filter', '')
-									.text('Close')
-									.prependTo('#sb-title');
-							},
-							onClose: function() {
-								jQuery('#sb-nav-close')
-									.removeAttr('style')
-									.text('')
-									.prependTo('#sb-nav');
-							}
-						}
-					});
-				}
-				function openCustomShadowbox(obj, width, height, player) {
-					if (player === null || typeof player === 'undefined') {
-						player = 'iframe';
-					}
+                
+                    SV = {};
+                    Shadowbox.init({
+                        language: "en"
+                        ,players:  ["iframe","img"]
+                        ,troubleElements: ["select","object","embed","canvas"]
+                    });
+                    function openShadowbox(title,link,width,height){
+                        Shadowbox.open({
+                            player: "iframe",
+                            title: title,
+                            content: link,
+                            width: width,
+                            height: height,
+                            options: {
+                                onOpen: function() {
+                                    jQuery('#sb-nav-close')
+                                        .css('height', '16px')
+                                        .css('padding-top', '8px')
+                                        .css('padding-right', '18px')
+                                        .css('line-height', '16px')
+                                        .css('background', 'transparent url("' + siteRoot + 'includes/images/shadowbox/close.png") no-repeat right bottom')
+                                        .css('font-size', '12px')
+                                        .css('font-weight', 'bold')
+                                        .css('color', '#FFFFFF')
+                                        .css('float', 'right')
+                                        .css('cursor', 'pointer')
+                                        .css('position', 'relative')
+                                        .css('filter', '')
+                                        .text('Close')
+                                        .prependTo('#sb-title');
+                                },
+                                onClose: function() {
+                                    jQuery('#sb-nav-close')
+                                        .removeAttr('style')
+                                        .text('')
+                                        .prependTo('#sb-nav');
+                                }
+                            }
+                        });
+                    }
+                    function openCustomShadowbox(obj, width, height, player) {
+                        if (player === null || typeof player === 'undefined') {
+                            player = 'iframe';
+                        }
 
-					var mySiteRoot = siteRoot;
-					if (mySiteRoot.charAt(mySiteRoot.length - 1) !== '/') {
-						mySiteRoot += '/';
-					}
-					/*
-					 * We open a custom shadowbox in which we move the close button to the top-right and add the text 'close'
-					 * However, to ensure that all other shadowboxes are kept in their original state, we remove those customizations
-					 * when the box is closed.
-					 */
-					Shadowbox.open({
-						player: player,
-						title: jQuery(obj).attr('title'),
-						content: jQuery(obj).attr('href'),
-						width: width,
-						height: height,
-						options: {
-							handleOversize: 'drag',
-							viewportPadding: 5,
-							overlayOpacity: 0.8,
-							onOpen: function() {
-								jQuery('#sb-nav-close')
-									.css('width', '24px')
-									.css('height', '24px')
-									.css('background', 'transparent url("' + mySiteRoot + 'includes/images/assets/close_btn1.png") no-repeat right top')
-									.css('cursor', 'pointer')
-									.css('position', 'absolute')
-									.css('top', '15px')
-									.css('right', '-11px')
-									.css('z-index', '1000')
-									.css('filter', '')
-									.prependTo('#sb-wrapper');
-							},
-							onClose: function() {
-								jQuery('#sb-nav-close')
-									.removeAttr('style')
-									.prependTo('#sb-nav');
-							}
-						}
-					});
-				}
+                        var mySiteRoot = siteRoot;
+                        if (mySiteRoot.charAt(mySiteRoot.length - 1) !== '/') {
+                            mySiteRoot += '/';
+                        }
+                        /*
+                         * We open a custom shadowbox in which we move the close button to the top-right and add the text 'close'
+                         * However, to ensure that all other shadowboxes are kept in their original state, we remove those customizations
+                         * when the box is closed.
+                         */
+                        Shadowbox.open({
+                            player: player,
+                            title: jQuery(obj).attr('title'),
+                            content: jQuery(obj).attr('href'),
+                            width: width,
+                            height: height,
+                            options: {
+                                handleOversize: 'drag',
+                                viewportPadding: 5,
+                                overlayOpacity: 0.8,
+                                onOpen: function() {
+                                    jQuery('#sb-nav-close')
+                                        .css('width', '24px')
+                                        .css('height', '24px')
+                                        .css('background', 'transparent url("' + mySiteRoot + 'includes/images/assets/close_btn1.png") no-repeat right top')
+                                        .css('cursor', 'pointer')
+                                        .css('position', 'absolute')
+                                        .css('top', '15px')
+                                        .css('right', '-11px')
+                                        .css('z-index', '1000')
+                                        .css('filter', '')
+                                        .prependTo('#sb-wrapper');
+                                },
+                                onClose: function() {
+                                    jQuery('#sb-nav-close')
+                                        .removeAttr('style')
+                                        .prependTo('#sb-nav');
+                                }
+                            }
+                        });
+                    }
+                
 				
 					if (typeof window.itinerary == 'undefined') {
 						window.itinerary = {};
@@ -233,18 +235,113 @@
 		
 
 					</head>
-					<body class="bodyBG">
-						<div id="sv-mainContainer">
-							<div id="sv-bodyContainer">
+					<body>
+                        <div class="navbar navbar-default " role="navigation">
+                            <div class="container">
+                                <div class="pageheader">
 
-								<div class="contentFiller"><img src="http://www.visitorlando.com/includes/images/assets/logoPrint.gif" class="printLogo"></div>
-								<div id="sv-contentHolder">
-									<div class="content"><script language="javascript" type="text/javascript" src="/includes/scripts/s_code.js"></script>
+                                    <div class="logo">
+                                        
+                                            <a href="/" class="logo" title="Home"><img src="http://www.visitorlando.com/includes/images/assets/vo_logo.gif"></a>
+                                        
+                                    </div>
+                                    <div class="corplinks">
+                                        <a href="http://www.orlandomeeting.com/" refname="For Meeting Professionals" class="linkOut headerLink" target="_blank"><span class="e;notranslate" e;="">Meetings</span></a>
+                                         |
+                                        
+                                                    <a href="http://www.visitorlando.com/trade/" refname="For Travel Trade|default" class="linkOut headerLink" target="_blank"><span class="e;notranslate" e;="">Travel Trade</span></a>
+                                            
+                                         |
+                                        
+                                                    <a href="http://www.visitorlando.com/media/" refname="For Media|default" class="linkOut headerLink" target="_blank"><span class="e;notranslate" e;="">Media</span></a>
+                                            
+                                    </div>
+
+                                    <div class="languageselect">
+                                        <a href="/change-language/" title="Change Language" data-toggle="tooltip" data-placement="bottom">
+                                            
+                                                    <img src="http://www.visitorlando.com/includes/images/assets/flags/us_eng.gif">
+                                                
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="navbar-header">
+                                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                                        <span class="icon-bar"></span>
+                                        <span class="icon-bar"></span>
+                                        <span class="icon-bar"></span>
+                                    </button>
+
+                                </div>
+                                <div class="navbar-collapse collapse">
+                                    
+            <ul class="nav navbar-nav">
+                
+                        <li>
+                            <a href="http://www.visitorlando.com/places-to-stay/">
+                                Places to Stay
+                            </a>
+                        </li>
+                    
+                        <li>
+                            <a href="http://www.visitorlando.com/things-to-do/">
+                                Things To Do
+                            </a>
+                        </li>
+                    
+                        <li>
+                            <a href="http://www.visitorlando.com/discounts-and-tickets/">
+                                Discounts &amp; Tickets
+                            </a>
+                        </li>
+                    
+                        <li>
+                            <a href="http://www.visitorlando.com/events/">
+                                Events
+                            </a>
+                        </li>
+                    
+                        <li>
+                            <a href="http://www.visitorlando.com/plan-your-trip/">
+                                Plan Your Trip
+                            </a>
+                        </li>
+                    
+                        <li>
+                            <a href="http://www.visitorlando.com/visit-orlando-blog/">
+                                What's New
+                            </a>
+                        </li>
+                    
+            </ul>
+        
+                                    <ul class="dropdown2">
+                                        <li class="dropdown2">
+                                            <a href="" class="dropdown-toggle" data-toggle="dropdown" style="color:#fff;"><button class="btn btn-primary" type="submit"><div class="caret"></div></button></a>
+                                            <ul class="dropdown-menu">
+                                                <div class="input-group">
+                                                    <input type="text" data-i-search-input="true" class="form-control" name="word" data-autocomplete="true" data-autocomplete-url="" placeholder="Search Here">
+                                                </div>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                    <ul class="nav navbar-nav navbar-right ">
+                                        <form action="/search/" name="siteSearchForm" method="GET">
+                                            <div class="input-group hidden-sm" style="margin-top: 5px;">
+                                                <input type="text" data-i-search-input="true" class="form-control" name="q" data-autocomplete="true" data-autocomplete-url="" placeholder="Search Here">
+                                                <span class="input-group-btn"><button class="btn btn-primary" type="submit"></button></span>
+
+                                            </div>
+                                        </form>
+                                    </ul>
+                                </div><!--/.nav-collapse -->
+                            </div>
+                        </div><script language="javascript" type="text/javascript" src="/includes/scripts/s_code.js"></script>
 				<script language="javascript">
 					/* Catch any potential errors to keep the rest of the page from breaking */
 					try {
 						var omInternalDomains = ['visitorlando.com'];
-						
+
 						/*
 						 * Track a click of some sort:
 						 * 		linkURL:	Required - The URL for the link
@@ -253,7 +350,7 @@
 						 * 					e - External
 						 * 					d - File Download
 						 * 					o - Custom Links
-						 * 					
+						 *
 						 * 					If not specified, o is the default.
 						 * 		object:		The HTML object clicked on. This is not required.
 						 * 		events:		The Omniture Events that need to be sent. Comma-seperated list without spaces.
@@ -263,7 +360,7 @@
 						 */
 						function omTrackClick(linkURL, linkName, linkType, object, events, eVars, eVarValues) {
 							var s = s_gi('orlandovisitorlando');
-							
+
 							if (typeof linkURL === 'undefined' || linkURL === null) {
 								return false;
 							}
@@ -285,40 +382,40 @@
 							if (typeof eVarValues === 'undefined' || eVarValues === null) {
 								eVarValues = '';
 							}
-							
+
 							if (eVars.length > 0 && eVarValues.length > 0) {
 								var keys = eVars.split(',');
 								var values = eVarValues.split(',');
-								
+
 								for (var i = 0; i < keys.length; i++) {
 									if (typeof values[i] === 'string') {
 										s[keys[i]] = values[i];
 									}
 								}
 							}
-							
+
 							s.linkTrackVars = eVars;
 							s.linkTrackEvents = s.events = events;
-							
+
 							if (events.length > 0) {
 								s.linkTrackVars += ',events';
 							}
-							
+
 							if (s.linkTrackVars.length === 0) {
 								s.linkTrackVars = 'None';
 							}
 							if (s.linkTrackEvents.length === 0) {
 								s.linkTrackEvents = 'None';
 							}
-							
+
 							s.pageName = 'US | PRIVACY POLICY';
-							
+
 							var lt = linkURL != null ? s.lt(linkURL) : '';
 							if (lt == '') {
 								s.tl(object, linkType, linkName);
 							}
 						}
-						
+
 						var s_account = "orlandovisitorlando";
 						var s = s_gi(s_account);
 						/************************** CONFIG SECTION **************************/
@@ -336,18 +433,41 @@
 						s.linkTrackVars = true;
 						s.linkTrackEvents = true;
 						//s.Media.autoTrack = true;
-						
+
 						/* WARNING: Changing any of the below variables will cause drastic
 						changes to how your visitor data is collected.  Changes should only be
 						made when instructed to do so by your account manager.*/
 						s.trackingServer="orlandocvb.112.2o7.net"
-						
+
 						s.pageName = 'US | PRIVACY POLICY'; // site content -> pages
 						s.hier1 = 'US,PRIVACY POLICY';
 						s.channel = 'US | PRIVACY POLICY'; // site content -> site sections
+
 						
-						
-						
+
+                        /* Due to page load order this function must be available before document ready
+                           Vzaar Video Player
+                         */
+                        function vzaarVideoPlay(videoID){
+
+                            var linkType = 'e';
+                            var offerType = '';
+                            var events = '';
+                            var linkName = '';
+                            var eVars = [];
+                            var eVarValues = [];
+
+                            var currentPageName = 'US | PRIVACY POLICY | ' + videoID;
+                            events = 'event22';
+                            eVars.push('eVar16');
+                            eVarValues.push(currentPageName);
+                            linkType = 'o';
+                            linkName = currentPageName + videoID;
+
+                            omTrackClick(linkName, linkName, linkType, '', events, eVars.join(','), eVarValues.join(','));
+                        };
+
+
 						$(document).ready(function() {
 							/*
 							 * There's a default onClick that's defined for the "Remove" button in the itinerary and that returns before
@@ -357,10 +477,10 @@
 							$('.iconRemoveItin, .textRemoveItin').each(function() {
 								var myOnClick = $(this).attr('onclick');
 								$(this).removeAttr('onclick');
-								
+
 								$(this).click(function(event) {
 									var linkID = $(this).attr('linkid');
-									
+
 									if (typeof linkID !== 'undefined' && linkID !== null && linkID.length > 0) {
 										var s = s_gi('orlandovisitorlando');
 										s.linkTrackVars = 'prop2,events';
@@ -372,36 +492,48 @@
 											s.tl(this, 'o', linkID);
 										}
 									}
-									
+
 									if (typeof myOnClick !== 'undefined' && myOnClick !== null) {
 										return myOnClick(this);
 									}
 								});
 							});
-							
-							$('a').live('click', function() {
+
+							$('body').on('click', 'a', function() {
 								var linkType = 'e';
+								var offerType = '';
 								var events = '';
 								var linkName = '';
 								var eVars = [];
 								var eVarValues = [];
 								var $obj = $(this);
 								var obj = this;
-								
+								var ilid = '';
+
+                                //Check(ilid) eVar
+                                ilid = $(this).attr('ilid');
+
+                                if(typeof ilid != 'undefined' && ilid != null && ilid.length > 0 ){
+                                    var valToPush = 'US | PRIVACY POLICY|' + ilid;
+                                    eVars.push('eVar15');
+                                    eVarValues.push(valToPush);
+                                }
+
 								// demo links
-								// <a linkid="linktype|1345" href="http://somewhere.com" class="extLinkTrack linkOut2">	
-								// <a linkid="linktype|1345|e" href="http://somewhere.com" class="extLinkTrack linkOut2">			
-								
+								// <a linkid="linktype|1345" href="http://somewhere.com" class="extLinkTrack linkOut2">
+								// <a linkid="linktype|1345|e" href="http://somewhere.com" class="extLinkTrack linkOut2">
+
 								// site content -> links -> custom links
 								if ($obj.filter('a.extLinkTrack, a.linkOut2').length) {
+
 									events = 'event7';
 									eVars.push('prop2');
 									eVarValues.push('US | PRIVACY POLICY');
-									
+
 									linkName = $(this).attr('linkid');
-									
+
 									if (typeof linkName == 'undefined' || linkName == null || linkName.length == 0) {
-									
+
 										linkName = 'UNKNOWN | ';
 										if (typeof $obj.attr('title') === 'string' && $.trim($obj.attr('title')).length > 0) {
 											linkName = $obj.attr('title').toUpperCase() + ' | ';
@@ -409,9 +541,9 @@
 											linkName = $obj.attr('alt').toUpperCase() + ' | ';
 										}
 										linkName += $obj.attr('href');
-										
+
 									}
-									
+
 									linkType = 'e';
 								} else {
 									if (/(\.exe|\.zip|\.wav|\.mp3|\.mov|\.mpg|\.avi|\.wmv|\.docx?|\.pdf|\.xlsx?)$/i.test(obj.href)) {
@@ -421,10 +553,10 @@
 										events = 'event8';
 										eVars.push('prop2');
 										eVarValues.push('US | PRIVACY POLICY');
-										
+
 										linkType = 'd';
 										linkName = $obj.attr('title').length ? $obj.attr('title') : $obj.attr('alt');
-										
+
 										if (typeof linkName !== 'string' || linkName.length <= 0) {
 											linkName = obj.href.replace(/^([A-Z]+:\/\/)?.*\//i, '');
 										}
@@ -433,25 +565,45 @@
 										events = 'event9';
 										eVars.push('prop2');
 										eVarValues.push('US | PRIVACY POLICY');
-										
+
 										linkType = 'o';
 										linkName = $(this).attr('refid');
-										
+										offerType = $(this).attr('offerType');
+
 										if (typeof linkName !== 'string' || linkName.length <= 0) {
 											linkName = 'UNKNOWN';
 										}
-										linkName = 'PRINTED OFFER|' + linkName;
+										if (typeof offerType !== 'string' || offerType.length <= 0) {
+											offerType = 'UNKNOWN';
+										}
+
+										linkName = 'PRINTED OFFER|' + linkName + '|' + offerType;
 									} else if ($obj.filter('a.iconAddItin, a.textAddItin').length) {
 										var linkName = $(this).attr('linkid');
-										
+
 										if (typeof linkName !== 'string' || linkName.length === 0) {
 											return true;
 										}
 										events = 'event10';
 										eVars.push('prop2');
 										eVarValues.push('US | PRIVACY POLICY');
-										
+
 										linkType = 'o';
+
+									} else if ($obj.filter('a.headerLink').length) {
+
+										//Header Track
+										events = 'event20';
+										eVars.push('prop2');
+										eVarValues.push('US | PRIVACY POLICY');
+
+										linkType = 'o';
+										linkName = $(this).attr('refName');
+
+										if (typeof linkName !== 'string' || linkName.length <= 0) {
+											linkName = 'UNKNOWN';
+										}
+										linkName = 'HEADER LINK|' + linkName;
 									} else if (typeof $obj.attr('href') !== 'string') {
 										/*
 										 * Not an external URL. Don't track this.
@@ -468,11 +620,11 @@
 												return true;
 											}
 										}
-										
+
 										events = 'event7';
 										eVars.push('prop2');
 										eVarValues.push('US | PRIVACY POLICY');
-										
+
 										linkName = 'UNKNOWN | ';
 										if (typeof $obj.attr('title') !== 'undefined' && $.trim($obj.attr('title')).length > 0) {
 											linkName = $obj.attr('title').toUpperCase() + ' - ';
@@ -485,12 +637,13 @@
                                         return true;
 									}
 								}
-								
+
 								omTrackClick($obj.attr('href'), linkName, linkType, this, events, eVars.join(','), eVarValues.join(','));
-								
+
 								return true;
 							});
 						});
+
 						
 						/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
 						var s_code=s.t();if(s_code)document.write(s_code);
@@ -500,7 +653,7 @@
 						} else if (typeof console.log === 'undefined' || console.log === null) {
 							console.log = function() {};
 						}
-						
+
 						console.log('Code Exception: ' + err.toString());
 					}
 				</script>
@@ -509,635 +662,160 @@
 				//--></script><!--/DO NOT REMOVE/-->
 				<!-- End SiteCatalyst code version: H.21. -->
 				
-				
+
 				<noscript>
 					<img src="http://orlandocvb.112.2o7.net/b/ss/orlandovisitorlando/1/H.22.1--NS/0" height="1" width="1" border="0" alt="">
-				</noscript> <div class="c1-c3">
-<b>Privacy Policy</b>
-<p>For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name. </p><p>We collect information about users who register for programs on our site, fill out surveys, request visitor information, enter contests, communicate with us by e-mail, and make purchases on our site. We also track page views and usage patterns. We track e-mail open rates in order to monitor the effectiveness and relevance of our newsletter content. </p><p>Aggregated Information (information that does not personally identify you) may be combined with similar information obtained from other users to help improve our site and services (for example, to learn which pages are visited most or what features are most attractive), and to further our mission of promoting Orlando as a tourist destination. Aggregated Information may occasionally be shared with our advertisers and business partners. </p><p>We may use Personally Identifiable Information collected on VisitOrlando.com to communicate with you about your registration and customization preferences; our Terms of Service&nbsp;and privacy policy; services and products offered by VisitOrlando.com, and our partners; information about travel to Orlando and other topics we think you might find of interest. We reserve the right to share this information with our advertisers and business partners. We do not partner with or have special relationships with any ad server companies. </p><p>Personally Identifiable Information may also be used for other purposes, including but not limited to site administration, troubleshooting, processing of e-commerce transactions, administration of sweepstakes and contests, and other communications with you. We will use your information only as permitted by law. </p><p>Upon request, we send out free vacation information packages to postal addresses. You will receive only the information, which you requested when you provided us your postal address. </p><h3>Cookies</h3><p>A "cookie" is a small data file transferred by a Web site to your computer's hard drive. When you surf our site, make purchases, request or personalize information, or register yourself for certain services, a cookie may be placed on to your computer. By accepting the cookie(s), it does not give us access to your personal information, but we may use it to identify your computer. This information helps us in tracking user activity and our Web site's useability. There are 2 cookies, "session" cookies and "permanent" cookies. </p><p>"Session" cookies do not stay on your computer after you leave our Web site or close your browser. The information collected permits us to analyze traffic patterns on our site. This can enable us over time to provide a better experience on our site by improving content or personalization and making our site easier to use. </p><p>"Permanent" cookies are those that remain on your computer. They are used to facilitate shopping, personalization and registration services. For example, cookies can keep track of what you have selected to purchase as you continue to shop and allow you to enter your password only once on Web pages where a login is required. You can remove these "permanent" cookies at any time. </p><p>Most browsers automatically accept cookies by default, but you can usually refuse cookies or selectively accept certain cookies by adjusting the preferences in your browser. If you turn off cookies, there may be some features of our site that will not be available to you and some Web pages may not display properly. You can find information on popular browsers and how to adjust your cookie preferences at the following websites: </p><p>Microsoft Internet Explorer: <a href="http://www.microsoft.com/info/cookies.htm">http://www.microsoft.com/info/cookies.htm</a> </p><p>Mozilla Firefox: <a href="http://www.mozilla.org/support/firefox/options#privacy">http://www.mozilla.org/support/firefox/options#privacy</a> </p><h3>Web beacons</h3><p>Some of our Web pages and HTML-formatted e-mail newsletters use Web beacons in conjunction with cookies to compile aggregate statistics about Web site usage. A Web beacon is an electronic image, called a single-pixel (1x1) or clear GIF. Web beacons can recognize certain types of information on a visitor's computer, such as a visitor's cookie number, time and date of a page view, and a description of the page where the Web beacon is placed. You may render some Web beacons unusable by rejecting their associated cookies. </p><h3>Your choice to opt out</h3><p>Each time we collect information, the user is given the opportunity to opt out of any e-mail communication from our site. E-mail will not be sent to anyone who has indicated that they do not wish to receive our newsletters. </p><h3>Children</h3><p>VisitOrlando.com does not knowingly collect Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe that VisitOrlando.com has Personally Identifiable Information about anyone under the age of 13, please contact us at <a href="mailto:info@VisitOrlando.com">info@VisitOrlando.com</a>. </p><h3>Changes to Our Privacy Policy</h3><p>From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our privacy policy changes at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected. You may prevent your information from being used for any new purposes by e-mailing us at <a href="mailto:info@VisitOrlando.com">info@VisitOrlando.com</a>. </p><p>This policy and the use of this Site are subject to the laws and regulations of the State of Florida. Any claim related to the Site or this policy shall be brought in a federal or state court in Orlando, Florida, within one year after the claim arises. Users of VisitOrlando.com consent to the jurisdiction and venue of such court as the most convenient and appropriate for the resolution of disputes concerning this policy. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party. </p><h3>Contact Us</h3><p>Should you have any question regarding the privacy policy or our Web site, or if you feel that this site is not following its stated information policy, you may contact us at: </p><p>VisitOrlando.com<br>6700 Forum Drive, Ste 100<br>Orlando FL 32821<br>407-363-5823 </p><p><a href="mailto:info@VisitOrlando.com">info@VisitOrlando.com</a>&nbsp;</p><p>We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. </p><p>Updated 3/9/05 </p>
-</div> <div class="clear"></div>
-								</div>
-								<div class="clear"></div>
-								<div id="sv-footer">
-									<div class="ftr-c1">
-										<a href="#" class="ftr-logo">&nbsp;</a>
-									</div>
-									<div class="ftr-c2">
-										
+				</noscript> <div id="holder">
+<div class="container">
 
+<div id="leftCol" class="col-md-12">
+	<h1>Privacy Policy</h1><p>For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name. </p><p>We collect information about users who register for programs on our site, fill out surveys, request visitor information, enter contests, communicate with us by e-mail, and make purchases on our site. We also track page views and usage patterns. We track e-mail open rates in order to monitor the effectiveness and relevance of our newsletter content. </p><p>Aggregated Information (information that does not personally identify you) may be combined with similar information obtained from other users to help improve our site and services (for example, to learn which pages are visited most or what features are most attractive), and to further our mission of promoting Orlando as a tourist destination. Aggregated Information may occasionally be shared with our advertisers and business partners. </p><p>We may use Personally Identifiable Information collected on VisitOrlando.com to communicate with you about your registration and customization preferences; our Terms of Service&nbsp;and privacy policy; services and products offered by VisitOrlando.com, and our partners; information about travel to Orlando and other topics we think you might find of interest. We reserve the right to share this information with our advertisers and business partners. We do not partner with or have special relationships with any ad server companies. </p><p>Personally Identifiable Information may also be used for other purposes, including but not limited to site administration, troubleshooting, processing of e-commerce transactions, administration of sweepstakes and contests, and other communications with you. We will use your information only as permitted by law. </p><p>Upon request, we send out free vacation information packages to postal addresses. You will receive only the information, which you requested when you provided us your postal address. </p><h3>Cookies</h3><p>A "cookie" is a small data file transferred by a Web site to your computer's hard drive. When you surf our site, make purchases, request or personalize information, or register yourself for certain services, a cookie may be placed on to your computer. By accepting the cookie(s), it does not give us access to your personal information, but we may use it to identify your computer. This information helps us in tracking user activity and our Web site's useability. There are 2 cookies, "session" cookies and "permanent" cookies. </p><p>"Session" cookies do not stay on your computer after you leave our Web site or close your browser. The information collected permits us to analyze traffic patterns on our site. This can enable us over time to provide a better experience on our site by improving content or personalization and making our site easier to use. </p><p>"Permanent" cookies are those that remain on your computer. They are used to facilitate shopping, personalization and registration services. For example, cookies can keep track of what you have selected to purchase as you continue to shop and allow you to enter your password only once on Web pages where a login is required. You can remove these "permanent" cookies at any time. </p><p>Most browsers automatically accept cookies by default, but you can usually refuse cookies or selectively accept certain cookies by adjusting the preferences in your browser. If you turn off cookies, there may be some features of our site that will not be available to you and some Web pages may not display properly. You can find information on popular browsers and how to adjust your cookie preferences at the following websites: </p><p>Microsoft Internet Explorer: <a href="http://www.microsoft.com/info/cookies.mspx">http://www.microsoft.com/info/cookies.mspx</a> </p><p>Mozilla Firefox: <a href="http://www.mozilla.org/support/firefox/options#privacy">http://www.mozilla.org/support/firefox/options#privacy</a> </p><h3>Web beacons</h3><p>Some of our Web pages and HTML-formatted e-mail newsletters use Web beacons in conjunction with cookies to compile aggregate statistics about Web site usage. A Web beacon is an electronic image, called a single-pixel (1x1) or clear GIF. Web beacons can recognize certain types of information on a visitor's computer, such as a visitor's cookie number, time and date of a page view, and a description of the page where the Web beacon is placed. You may render some Web beacons unusable by rejecting their associated cookies. </p><h3>Your choice to opt out</h3><p>Each time we collect information, the user is given the opportunity to opt out of any e-mail communication from our site. E-mail will not be sent to anyone who has indicated that they do not wish to receive our newsletters. </p><h3>Children</h3><p>VisitOrlando.com does not knowingly collect Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe that VisitOrlando.com has Personally Identifiable Information about anyone under the age of 13, please contact us at <a href="mailto:info@VisitOrlando.com">info@VisitOrlando.com</a>. </p><h3>Changes to Our Privacy Policy</h3><p>From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our privacy policy changes at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected. You may prevent your information from being used for any new purposes by e-mailing us at <a href="mailto:info@VisitOrlando.com">info@VisitOrlando.com</a>. </p><p>This policy and the use of this Site are subject to the laws and regulations of the State of Florida. Any claim related to the Site or this policy shall be brought in a federal or state court in Orlando, Florida, within one year after the claim arises. Users of VisitOrlando.com consent to the jurisdiction and venue of such court as the most convenient and appropriate for the resolution of disputes concerning this policy. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party. </p><h3>Contact Us</h3><p>Should you have any question regarding the privacy policy or our Web site, or if you feel that this site is not following its stated information policy, you may contact us at: </p><p>VisitOrlando.com<br>6277 Sea Harbor Drive, Ste 400<br>Orlando FL 32821<br>407-363-5823 </p><p><a href="mailto:info@VisitOrlando.com">info@VisitOrlando.com</a>&nbsp; </p><p>We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. </p><p>Updated 3/9/05 </p>
+</div>
 
-	<style>
-		#btmNavCols .navcol{
-			float:left;
-		}
-		#btmNavCols .navcol{
-			width:164px;
-			margin-left:15px;
-		}
-		#btmNavCols .navcol li{
-			width:100%;
-			height:23px;
-			list-style:none;
-			text-align:left;
-		}
-		#btmNavCols .footerLogo{
-			float:left;
-			margin:0px 8px;
-		}
-	</style>
+</div>
+</div> <div id="footer">
 
-	<div id="btmNavCols">
-		<ul class="navcol left">
-			
-				<li><a href="http://www.visitorlando.com/about-us/" title="About Us">About Us</a></li>
-				
-				<li><a href="http://www.visitorlando.com/visit-orlando-partners" title="Visit Orlando Partners" class="linkOut" target="_blank">Visit Orlando Partners</a></li>
-				
-				<li><a href="http://www.visitorlando.com/privacy-policy/" title="Privacy Policy">Privacy Policy</a></li>
-				
-				<li><a href="http://www.visitorlando.com/terms-of-service/" title="Terms of Service">Terms of Service</a></li>
-				
-		</ul>
-		<ul class="navcol right">
-			
-				<li><a href="http://www.visitorlando.com/contact/" title="Contact Us">Contact Us</a></li>
-				
-				<li><a href="http://www.visitorlando.com/rss/" title="RSS Feeds">RSS Feeds</a></li>
-				
-				<li><a href="http://www.visitorlando.com/site-map/" title="Site Map">Site Map</a></li>
-				
-				<li><a href="http://www.visitorlando.com/careers" title="Careers" class="linkOut" target="_blank">Careers</a></li>
-				
-		</ul>
+                            <div class="footerbox">
+                                <div class="footerboximg">
+                                    
+                                        <a href="/" title="Home">
+                                            <img src="http://www.visitorlando.com/includes/images/assets/footerlogo.png">
+                                        </a>
+                                    
+                                </div>
+                                <div class="footerboxtext" style="padding:5px 0px 0px 12px;">
+                                    The Official Source for Orlando Travel Planning
+                                </div>
+                            </div>
 
-		
-		<div class="footerLogo">
-			<a href="http://www.discoveramerica.com/usa/states/florida/cities/orlando.aspx" target="_blank"><img src="/includes/images/assets/brand-usa-discover-america.png" border="0"></a>
-		</div>
+                            <div class="footerbox">
 
-		<div class="footerLogo">
-			<a href="http://www.destinationmarketing.org/page.asp?pid=210" target="_blank"><img src="/includes/images/assets/DMAI-accredited.png" border="0"></a>
-		</div>
+                                <div class="footerboxtext">
+                                    
+                <ul>
+                    
+                        <li><a href="http://www.visitorlando.com/about-us/" title="About Us">About Us</a></li>
+                        
+                        <li><a href="http://www.visitorlando.com/visit-orlando-members" title="Visit Orlando Members" class="linkOut" target="_blank">Visit Orlando Members</a></li>
+                        
+                        <li><a href="http://www.visitorlando.com/privacy-policy/" title="Privacy Policy">Privacy Policy</a></li>
+                        
+                        <li><a href="http://www.visitorlando.com/terms-of-service/" title="Terms of Service">Terms of Service</a></li>
+                        
+                </ul>
+                <ul>
+                    
+                        <li><a href="http://www.visitorlando.com/contact/" title="Contact Us">Contact Us</a></li>
+                        
+                        <li><a href="http://www.visitorlando.com/rss/" title="RSS Feeds">RSS Feeds</a></li>
+                        
+                        <li><a href="http://www.visitorlando.com/site-map/" title="Site Map">Site Map</a></li>
+                        
+                        <li><a href="http://www.visitorlando.com/careers" title="Careers" class="linkOut" target="_blank">Careers</a></li>
+                        
+                </ul>
 
-		<div style="clear:both;"></div>
-	</div>
+        
+                                </div>
 
-	
-
-	<script>
-		$('#sv-footer').css('padding','20px');
-	</script>
-
-	
-										<p>© 2013 Visit Orlando. &nbsp; All rights reserved.</p>
-									</div>
-									<div class="ftr-c3">
-										<a href="http://www.tripadvisor.com/Tourism-g34515-Orlando_Florida-Vacations.html" target="_blank"><img src="/includes/images/assets/ftr-trip_advisor.png" width="148" height="22" border="0" align="TripAdvisor"></a>
-										<p>See what other travelers say about <a href="http://www.tripadvisor.com/Tourism-g34515-Orlando_Florida-Vacations.html" target="_blank">Orlando</a> on TripAdvisor.</p>
-									</div>
-									<div class="clear"></div>
-								</div>
-							</div>
-							
-
-							<div id="sv-headContainer">
-									<div class="tabHolder">
-										<div id="topTabs">
-										
-										
-												<a href="/plan-your-trip/trip-ideas/" pid="174" class="tab1"><span>Trip Ideas</span></a>
-												<a href="/plan-your-trip/visitor-guides/" pid="175" class="tab2"><span>Visitor Guides</span></a>
-												<a href="/video/" pid="176" class="tab3"><span>Orlando Videos</span></a>
-											
-										</div>
-									</div>
-									<div id="sv-headOverlay">
-										<div class="headerContent">
-											<div id="langPicker">
-												<div id="langPickerBtm">
-													<div class="pickerContent">
-													
-													<a href="#" class="closeBtn" title="close"></a>
-													
-		<ul class="langNav">
-		
-				<li><a href="#gTrans-1" class="selected">English</a></li>
-			
-				<li><a href="#gTrans-6">Français</a></li>
-			
-				<li><a href="#gTrans-8">Español</a></li>
-			
-				<li><a href="#gTrans-12">Deutsch</a></li>
-			
-				<div class="clear"></div>
-				<div class="langDrawer" id="gTrans-1"><a href="#" title="USA" class="google-lang-link selected"><img src="http://www.visitorlando.com/includes/images/assets/languages/usaFlag.png"> USA</a><a href="http://www.visitorlando.com/EN-CA/" title="Canada" class="google-lang-link"><img src="http://www.visitorlando.com/includes/images/assets/languages/canadaFlag.png"> Canada</a><a href="http://www.visitorlando.com/EN-GL/UK/" title="UK" class="google-lang-link"><img src="http://www.visitorlando.com/includes/images/assets/languages/ukFlag.png"> UK</a><a href="http://www.visitorlando.com/EN-GL/Ireland/" title="Ireland" class="google-lang-link"><img src="http://www.visitorlando.com/includes/images/assets/languages/irelandFlag.png"> Ireland</a><a href="http://www.visitorlando.com/EN-GL/" title="Global" class="google-lang-link"><img src="http://www.visitorlando.com/includes/images/assets/languages/globalFlag.png"> Global</a></div><div class="langDrawer" id="gTrans-6"><a href="http://www.visitorlando.com/FR-GL/" title="France" class="google-lang-link"><img src="http://www.visitorlando.com/includes/images/assets/languages/franceFlag.png"> France</a><a href="http://www.visitorlando.com/FR-GL/CanadaFrancais/" title="Canada" class="google-lang-link"><img src="http://www.visitorlando.com/includes/images/assets/languages/canadaFlag.png"> Canada</a><a href="http://www.visitorlando.com/FR-GL/"><img src="http://www.visitorlando.com/includes/images/assets/languages/switzerlandFlag.png"> Switzerland</a></div><div class="langDrawer" id="gTrans-8"><a href="http://www.visitorlando.com/ES-GL/Mexico/" title="Mexico" class="google-lang-link"><img src="http://www.visitorlando.com/includes/images/assets/languages/mexicoFlag.png"> Mexico</a><a href="http://www.visitorlando.com/ES-GL/Colombia/" title="Colombia" class="google-lang-link"><img src="http://www.visitorlando.com/includes/images/assets/languages/colombiaFlag.png"> Colombia</a><a href="http://www.visitorlando.com/ES-US/" title="USA" class="google-lang-link"><img src="http://www.visitorlando.com/includes/images/assets/languages/usaFlag.png"> USA</a><a href="http://www.visitorlando.com/ES-GL/" title="Español" class="google-lang-link"><img src="http://www.visitorlando.com/includes/images/assets/languages/globalFlag.png"> Español</a></div><div class="langDrawer" id="gTrans-12"><a href="http://www.visitorlando.com/GE-GL/" title="Germany" class="google-lang-link"><img src="http://www.visitorlando.com/includes/images/assets/languages/germanyFlag.png"> Germany</a><a href="http://www.visitorlando.com/GE-GL/"><img src="http://www.visitorlando.com/includes/images/assets/languages/switzerlandFlag.png"> Switzerland</a><a href="http://www.visitorlando.com/GE-GL/" class="google-lang-link"><img src="http://www.visitorlando.com/includes/images/assets/languages/austriaFlag.png"> Austria</a></div>
-				
-				
-				<li><a href="#gTrans-13">Italiano</a></li>
-			
-				<li><a href="#gTrans-14">Português</a></li>
-			
-				<li><a href="#gTrans-16">日本</a></li>
-			
-				<li><a href="#gTrans-17">中文</a></li>
-			
-				<div class="clear"></div>
-				<div class="langDrawer" id="gTrans-13"><a href="http://www.visitorlando.com/IT-GL/" title="Italy" class="google-lang-link"><img src="http://www.visitorlando.com/includes/images/assets/languages/italyFlag.png"> Italy</a></div><div class="langDrawer" id="gTrans-14"><a href="http://www.visitorlando.com/PT-GL/Alegria/" title="Brazil" class="google-lang-link"><img src="http://www.visitorlando.com/includes/images/assets/languages/brazilFlag.png"> Brazil</a><a href="http://www.visitorlando.com/PT-GL/" title="Portugal" class="google-lang-link"><img src="http://www.visitorlando.com/includes/images/assets/languages/portugalFlag.png"> Portugal</a></div><div class="langDrawer" id="gTrans-16"><a href="http://www.visitorlando.com/JA-GL/" title="Japan" class="google-lang-link"><img src="http://www.visitorlando.com/includes/images/assets/languages/japanFlag.png"> Japan</a></div><div class="langDrawer" id="gTrans-17"><a href="http://www.visitorlando.com/CH-GL/" title="China" class="google-lang-link"><img src="http://www.visitorlando.com/includes/images/assets/languages/chinaFlag.png"> China</a></div>
-				
-				
-		</ul>
-	
-													</div>
-												</div>
-											</div>
-
-											<div id="hdr-c1">
-												
-													<a href="/" class="logo" title="Home"></a>
-												
-											</div>
-
-											<div id="hdr-c2">
-												
-												
-												<div class="weatherContainer">
-													<a href="/plan-your-trip/weather/" class="weather" title="Current Orlando Weather: 61°">
-														<img src="http://www.visitorlando.com/includes/images/assets/weather/icons/33.png" align="absmiddle" height="70" border="0">
-														<span>61° f Fair</span>
-													</a>
-												</div>
-											</div>
-
-											<div id="hdr-c3">
-												<div id="hdr-c3-topHolder">
-													
-													<a href="http://www.visitorlando.com/enter-to-win/">Win a Trip</a>
-													<span class="separator">|</span>
-													
-													<a href="#ChangeLanguage" rel="shadowbox" class="changeLang">Change Language</a>
-													<span class="separator">|</span>
-													<a href="http://tickets.visitorlando.com/store/" class="shopingCart">View</a>
-												</div>
-
-												<form action="http://www.visitorlando.com/search/" method="GET" name="siteSearchForm" class="siteSearchBox">
-													<input name="searchString" id="searchString" type="text" class="txtInput placeHolder" value="Site Search">
-													<input name="submitSearch" type="submit" class="button" value="">
-												</form>
-												<div id="hdr-c3-btmHolder">
-													<a href="http://www.orlandomeeting.com/" class="linkOut" target="_blank">For Meeting Professionals</a><br>
-													
-	    	                                                <a href="http://www.visitorlando.com/trade/" class="linkOut" target="_blank">For Travel Trade</a> &nbsp; &nbsp;
-                                                        
-		        											<a href="http://www.visitorlando.com/media/" class="linkOut" target="_blank">For Media</a>
-                                                        
-												</div>
-											</div>
-
-
-											
-		<ul id="sv-mainNav">
-	
-		
-			<li class="lvl1"><a href="http://www.visitorlando.com/home/">Home</a>
-		
-		
-			</li><li class="lvl1"><a href="http://www.visitorlando.com/places-to-stay/">Places to Stay</a>
-		
-		<div class="dropdown">
-			<ul class="subnav">
-		
-		
-			<li>
-				<a href="http://www.visitorlando.com/places-to-stay/hotels-and-resorts/" title="Hotels &amp; Resorts">
-					<h3>Hotels &amp; Resorts</h3>
-					<span>Find an Orlando hotel or resort by location, rating, price and more...</span> 
-				</a>
-			</li>
-		
-		
-			<li>
-				<a href="http://www.visitorlando.com/places-to-stay/vacation-homes/" title="Vacation Homes">
-					<h3>Vacation Homes</h3>
-					<span>Vacation home rentals, vacation ownership, real estate and more...</span> 
-				</a>
-			</li>
-		
-		
-			<li>
-				<a href="http://www.visitorlando.com/places-to-stay/campgrounds/" title="Campgrounds">
-					<h3>Campgrounds</h3>
-					<span>Find Disney campgrounds, state parks, public campgrounds and more...</span> 
-				</a>
-			</li>
-		
-				</ul>
-			</div>
-			</li>
-		
-		
-			<li class="lvl1"><a href="http://www.visitorlando.com/things-to-do/">Things To Do</a>
-		
-		<div class="dropdown">
-			<ul class="subnav">
-		
-		
-			<li>
-				<a href="http://www.visitorlando.com/things-to-do/theme-parks/" title="Theme Parks">
-					<h3>Theme Parks</h3>
-					<span>Walt Disney World® Resort, Universal Orlando® Resort, SeaWorld Parks &amp; Entertainment, LEGOLAND® Florida.</span> 
-				</a>
-			</li>
-		
-		
-			<li>
-				<a href="http://www.visitorlando.com/things-to-do/attractions/" title="Attractions">
-					<h3>Attractions</h3>
-					<span>Popular attractions, water parks, dinner shows, miniature golf and more...</span> 
-				</a>
-			</li>
-		
-		
-			<li>
-				<a href="http://www.visitorlando.com/things-to-do/arts-culture-and-history/" title="Arts, Culture &amp; History">
-					<h3>Arts, Culture &amp; History</h3>
-					<span>Museums, art galleries, performing arts, festivals and more...</span> 
-				</a>
-			</li>
-		
-		
-			<li>
-				<a href="http://www.visitorlando.com/things-to-do/shopping/" title="Shopping">
-					<h3>Shopping</h3>
-					<span>Shopping malls, outlet malls, shopping districts and more...</span> 
-				</a>
-			</li>
-		
-		
-			<li>
-				<a href="http://www.visitorlando.com/things-to-do/spas/" title="Spas">
-					<h3>Spas</h3>
-					<span>Resort spas, day spas, massage therapy, salons and more...</span> 
-				</a>
-			</li>
-		
-		
-			<li>
-				<a href="http://www.visitorlando.com/things-to-do/sports-and-recreation-outdoors/" title="Sports, Recreation &amp; Outdoors">
-					<h3>Sports, Recreation &amp; Outdoors</h3>
-					<span>Outdoor adventure, eco-tourism, sporting events and more...</span> 
-				</a>
-			</li>
-		
-		
-			<li>
-				<a href="http://www.visitorlando.com/things-to-do/golf/" title="Golf">
-					<h3>Golf</h3>
-					<span>Golf courses, golf instruction, golf retail stores and more...</span> 
-				</a>
-			</li>
-		
-		
-			<li>
-				<a href="http://www.visitorlando.com/things-to-do/restaurants/" title="Restaurants">
-					<h3>Restaurants</h3>
-					<span>Casual dining, upscale restaurants, themed dining and more...</span> 
-				</a>
-			</li>
-		
-		
-			<li>
-				<a href="http://www.visitorlando.com/things-to-do/nightlife-and-entertainment/" title="Nightlife &amp; Entertainment">
-					<h3>Nightlife &amp; Entertainment</h3>
-					<span>Bars, night clubs, lounges, comedy clubs, live music and more...</span> 
-				</a>
-			</li>
-		
-		
-			<li>
-				<a href="http://www.visitorlando.com/things-to-do/weddings/" title="Weddings &amp; Gatherings">
-					<h3>Weddings &amp; Gatherings</h3>
-					<span>Wedding planning, locations, vendors, reunions, group trips and more...</span> 
-				</a>
-			</li>
-		
-				</ul>
-			</div>
-			</li>
-		
-		
-			<li class="lvl1"><a href="http://www.visitorlando.com/discounts-and-tickets/">Discounts &amp; Tickets</a>
-		
-		<div class="dropdown">
-			<ul class="subnav">
-		
-		
-			<li>
-				<a href="http://www.visitorlando.com/discounts-and-tickets/free-magicard-orlando-discount-card/" title="Free Magicard: Orlando's Discount Card">
-					<h3>Free Magicard: Orlando's Discount Card</h3>
-					<span>Free discount card, hotel discounts, restaurant deals and more…</span> 
-				</a>
-			</li>
-		
-		
-			<li>
-				<a href="http://www.visitorlando.com/discounts-and-tickets/travelocity-hotel/" title="Travelocity - Hotel Deals">
-					<h3>Travelocity - Hotel Deals</h3>
-					<span>Save big on your next Orlando visit with hotel deals from Travelocity.</span> 
-				</a>
-			</li>
-		
-		
-			<li>
-				<a href="http://www.visitorlando.com/discounts-and-tickets/travelocity-packages/" title="Travelocity - Package Deals">
-					<h3>Travelocity - Package Deals</h3>
-					<span>Search package deals to save on Air + Hotel on your next trip.</span> 
-				</a>
-			</li>
-		
-		
-			<li>
-				<a href="http://www.visitorlando.com/discounts-and-tickets/buy-all-orlando-attraction-tickets/" title="Buy All Orlando Attraction Tickets">
-					<h3>Buy All Orlando Attraction Tickets</h3>
-					<span>Popular attractions, water parks, dinner shows, outdoor adventure and more...</span> 
-				</a>
-			</li>
-		
-		
-			<li>
-				<a href="http://www.visitorlando.com/discounts-and-tickets/buy-walt-disney-world-tickets/" title="Buy Walt Disney World Tickets">
-					<h3>Buy Walt Disney World Tickets</h3>
-					<span>Magic Kingdom, Epcot, Hollywood Studios, Animal Kingdom and more...</span> 
-				</a>
-			</li>
-		
-		
-			<li>
-				<a href="http://www.visitorlando.com/discounts-and-tickets/buy-universal-orlando-tickets/" title="Buy Universal Orlando Tickets">
-					<h3>Buy Universal Orlando Tickets</h3>
-					<span>Universal Studios, Islands Of Adventure, Blue Man Group and more...</span> 
-				</a>
-			</li>
-		
-		
-			<li>
-				<a href="http://www.visitorlando.com/discounts-and-tickets/buy-seaworld-parks-and-entertainment-tickets/" title="Buy SeaWorld &amp; Busch Gardens Tickets">
-					<h3>Buy SeaWorld &amp; Busch Gardens Tickets</h3>
-					<span>SeaWorld®, Aquatica, Busch Gardens and more...</span> 
-				</a>
-			</li>
-		
-				</ul>
-			</div>
-			</li>
-		
-		
-			<li class="lvl1"><a href="http://www.visitorlando.com/events/">Calendar of Events</a>
-		
-		<div class="dropdown">
-			<ul class="subnav">
-		
-		
-			<li>
-				<a href="http://www.visitorlando.com/events/theme-park-events/" title="Theme Park Events">
-					<h3>Theme Park Events</h3>
-					<span>Walt Disney World® Resort, Universal Orlando® Resort, SeaWorld Parks &amp; Entertainment and more...</span> 
-				</a>
-			</li>
-		
-		
-			<li>
-				<a href="http://www.visitorlando.com/events/festivals/" title="Festivals">
-					<h3>Festivals</h3>
-					<span>Film festivals, music, food &amp; wine, performance, cultural and more...</span> 
-				</a>
-			</li>
-		
-		
-			<li>
-				<a href="http://www.visitorlando.com/events/cultural-events/" title="Cultural Events">
-					<h3>Cultural Events</h3>
-					<span>Visual arts, performing arts, music events, heritage events and more...</span> 
-				</a>
-			</li>
-		
-		
-			<li>
-				<a href="http://www.visitorlando.com/events/holidays/" title="Holidays">
-					<h3>Holidays</h3>
-					<span>Spring Break, Memorial Day, 4th of July, Halloween, Christmas and more...</span> 
-				</a>
-			</li>
-		
-		
-			<li>
-				<a href="http://www.visitorlando.com/events/sporting-events/" title="Sporting Events">
-					<h3>Sporting Events</h3>
-					<span>Orlando Magic, college football, golf, Spring Training baseball and more...</span> 
-				</a>
-			</li>
-		
-		
-			<li>
-				<a href="http://www.visitorlando.com/events/concerts/" title="Concerts">
-					<h3>Concerts</h3>
-					<span>Amway Center, Bob Carr, Hard Rock Live, House of Blues and more...</span> 
-				</a>
-			</li>
-		
-		
-			<li>
-				<a href="http://www.visitorlando.com/events/outdoors-and-adventure/" title="Outdoors &amp; Adventure">
-					<h3>Outdoors &amp; Adventure</h3>
-					<span>Outdoor events, wilderness treks, zoo events, sporting festivals and more...</span> 
-				</a>
-			</li>
-		
-		
-			<li>
-				<a href="http://www.visitorlando.com/events/consumer-trade-shows/" title="Consumer Trade Shows">
-					<h3>Consumer Trade Shows</h3>
-					<span>Orange County Convention Center events open to the public...</span> 
-				</a>
-			</li>
-		
-				</ul>
-			</div>
-			</li>
-		
-		
-			<li class="lvl1"><a href="http://www.visitorlando.com/plan-your-trip/">Plan Your Trip</a>
-		
-		<div class="dropdown">
-			<ul class="subnav">
-		
-		
-			<li>
-				<a href="http://www.visitorlando.com/plan-your-trip/visitor-guides/" title="Visitor Guides">
-					<h3>Visitor Guides</h3>
-					<span>Order and download free Orlando visitor guides and more...</span> 
-				</a>
-			</li>
-		
-		
-			<li>
-				<a href="http://www.visitorlando.com/plan-your-trip/visitor-center/" title="Official Visitor Center">
-					<h3>Official Visitor Center</h3>
-					<span>Discount tickets, free maps, currency exchange, multilingual staff and more...</span> 
-				</a>
-			</li>
-		
-		
-			<li>
-				<a href="http://www.visitorlando.com/plan-your-trip/build-my-itinerary/" title="Build My Itinerary">
-					<h3>Build My Itinerary</h3>
-					<span>Create your perfect Orlando itinerary, printable day planner and more...</span> 
-				</a>
-			</li>
-		
-		
-			<li>
-				<a href="http://www.visitorlando.com/plan-your-trip/book-air-car-and-hotel/" title="Orlando Hotel, Car &amp; Air Packages">
-					<h3>Orlando Hotel, Car &amp; Air Packages</h3>
-					<span>Book flights to Orlando, hotel rooms, rentals cars, packages and more...</span> 
-				</a>
-			</li>
-		
-		
-			<li>
-				<a href="http://www.visitorlando.com/plan-your-trip/facts/" title="Fast Facts">
-					<h3>Fast Facts</h3>
-					<span>Location and geography, time zone, currency exchange, and more...</span> 
-				</a>
-			</li>
-		
-		
-			<li>
-				<a href="http://www.visitorlando.com/plan-your-trip/weather/" title="Weather &amp; Climate">
-					<h3>Weather &amp; Climate</h3>
-					<span>Current Orlando forecast, monthly weather averages and more...</span> 
-				</a>
-			</li>
-		
-		
-			<li>
-				<a href="http://www.visitorlando.com/plan-your-trip/transportation/" title="Transportation">
-					<h3>Transportation</h3>
-					<span>Airports, buses, shuttles, taxis, vehicle rentals and more...</span> 
-				</a>
-			</li>
-		
-		
-			<li>
-				<a href="http://www.visitorlando.com/plan-your-trip/special-needs/" title="Special Needs &amp; Safety Tips">
-					<h3>Special Needs &amp; Safety Tips</h3>
-					<span>Medical facilities, medical equipment rental, special services and more...</span> 
-				</a>
-			</li>
-		
-		
-			<li>
-				<a href="http://www.visitorlando.com/plan-your-trip/find-a-travel-agent/" title="Find a Travel Agent">
-					<h3>Find a Travel Agent</h3>
-					<span>Need travel planning help? Search an Orlando travel agent near you.</span> 
-				</a>
-			</li>
-		
-		
-			<li>
-				<a href="http://www.visitorlando.com/plan-your-trip/trip-ideas/" title="Trip Ideas">
-					<h3>Trip Ideas</h3>
-					<span>Find ideas for things to do in Orlando, age appropriate activities and more...</span> 
-				</a>
-			</li>
-		
-		
-			<li>
-				<a href="http://www.visitorlando.com/plan-your-trip/orlando-area-maps/" title="Orlando Map">
-					<h3>Orlando Map</h3>
-					<span>Interactive map of Orlando, directions, distances and more...</span> 
-				</a>
-			</li>
-		
-		
-			<li>
-				<a href="http://www.visitorlando.com/plan-your-trip/orlando-app-store/" title="Orlando Mobile Phone Apps">
-					<h3>Orlando Mobile Phone Apps</h3>
-					<span>Find mobile phone apps for theme parks, popular attractions and more...</span> 
-				</a>
-			</li>
-		
-				</ul>
-			</div>
-			</li>
-		
-		
-			<li class="lvl1"><a href="http://www.visitorlando.com/visit-orlando-blog/">Blog</a>
-		</li> 
-			</ul>
-		</div>
-	
-										</div>
-									</div>
-								</div>
-
-						</div>
+                            </div>
 
 
 
-						<script type="text/javascript" language="javascript" src="http://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js"></script>
-	<script type="text/javascript" language="javascript" src="/includes/scripts/jquery/jquery.tools.min.js"></script>
-	<script type="text/javascript" language="javascript" src="/includes/scripts/jquery/ui.datepicker.js"></script>
-	<script type="text/javascript" language="javascript" src="/includes/scripts/shared.js"></script>
-	<script type="text/javascript" language="javascript" src="/includes/scripts/nav/nav_dd-box-list-2lvl.js"></script>
-	<script type="text/javascript" language="javascript" src="/includes/scripts/nav/nav_pipe-top-1lvl.js"></script>
-	<script type="text/javascript" language="javascript" src="/includes/scripts/popup.js"></script>
-	<script type="text/javascript" language="javascript" src="http://s7.addthis.com/js/300/addthis_widget.js#username=visitorlando"></script>
-	<script type="text/javascript" language="javascript">
+                            <div class="footerbox">
+                                    <div class="languageselect">
+                                        <a href="/change-language/" title="Change Language" data-toggle="tooltip" data-placement="bottom">
+                                            
+                                                        <img src="http://www.visitorlando.com/includes/images/assets/flags/us_eng.gif">
+                                                
+                                        </a>
+                                    </div>
+                                <div class="footerboximg">
+                                    <a href="http://www.tripadvisor.com/Tourism-g34515-Orlando_Florida-Vacations.html" target="_blank">
+                                        <img src="http://www.visitorlando.com/includes/images/assets/tripadvisor_logo.png">
+                                    </a>
+                                </div>
+                                <div class="footerboxtext" style="width: 160px">
+                                    See what other travelers say about
+                                    <a href="http://www.tripadvisor.com/Tourism-g34515-Orlando_Florida-Vacations.html" target="_blank">
+                                        Orlando
+                                    </a>
+                                    on TripAdvisor.
+                                </div>
+                            </div>
+                            
+
+
+
+                    </div>
+                    <div class="legal">
+                        <ul>
+                            <li><a target="_blank" href="http://www.facebook.com/visitorlando" title="Facebook"><img src="/includes/images/assets/facebook_32.gif" class="socialFollowIcon"> </a></li>
+                            <li><a target="_blank" href="http://www.youtube.com/VisitOrlando" title="Youtube"><img src="/includes/images/assets/youtube_32.gif" class="socialFollowIcon"> </a></li>
+                            <li><a target="_blank" href="http://www.pinterest.com/visitorlando" title="Pinterest"><img src="/includes/images/assets/Pinterest.gif" class="socialFollowIcon"> </a></li>
+
+                            <li><a target="_blank" href="http://www.twitter.com/visitorlando" title="Twitter"><img src="/includes/images/assets/twitter_32.gif" class="socialFollowIcon"> </a></li>
+                            <li><a target="_blank" href="http://plus.google.com/+visitorlando" title="Google +"><img src="/includes/images/assets/gplus-32.gif" class="socialFollowIcon"> </a></li>
+                            <li><a target="_blank" href="http://www.instagram.com/visitorlando" title="Instagram"><img src="/includes/images/assets/Instagram.gif" class="socialFollowIcon"> </a></li>
+                        </ul>
+                    </div>
+                            <div class="legal">© 2014 Visit Orlando. &nbsp; All rights reserved.</div>
+                        <!--footer-->
+						<script type="text/javascript" language="javascript">
 	<!-- 
-	
-		function selectLangDrawer(langID) {
-			if ($(langID).css('display') == 'none') {
-				$('.langDrawer').hide();
-				$(langID).slideDown();
-			} else {
-				$(langID).slideUp();
-			}
-		}
-		$('ul.langNav li > a').click(function () {
-			$('.langNav a').removeClass('clicked');
-			$(this).addClass('clicked');
-			selectLangDrawer(this.hash);
-			return false;
-		});
-	
 	 //-->
 	</script>
 	
 
 						
 						<script type="text/javascript">
-						var _qevents = _qevents || [];
+                            var _qevents = _qevents || [];
 
-						(function() {
-						var elem = document.createElement('script');
-						elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
-						elem.async = true;
-						elem.type = "text/javascript";
-						var scpt = document.getElementsByTagName('script')[0];
-						scpt.parentNode.insertBefore(elem, scpt);
-						})();
+                            (function() {
+                                var elem = document.createElement('script');
+                                elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+                                elem.async = true;
+                                elem.type = "text/javascript";
+                                var scpt = document.getElementsByTagName('script')[0];
+                                scpt.parentNode.insertBefore(elem, scpt);
+                            })();
 
-						_qevents.push({
-						qacct:"p-5do2auQ5tMq62"
-						});
+                            _qevents.push({
+                                qacct:"p-5do2auQ5tMq62"
+						    });
 						</script>
 
 						<noscript>
-						<div style="display:none;">
-						<img src="//pixel.quantserve.com/pixel/p-5do2auQ5tMq62.gif" border="0" height="1" width="1" alt="Quantcast"/>
-						</div>
+                            <div style="display:none;">
+                                <img src="//pixel.quantserve.com/pixel/p-5do2auQ5tMq62.gif" border="0" height="1" width="1" alt="Quantcast"/>
+                            </div>
 						</noscript>
-						
+                        <script type="text/javascript">
+                            /* <![CDATA[ */
+                            var google_conversion_id = 1033512733;
+                            var google_custom_params = window.google_tag_params;
+                            var google_remarketing_only = true;
+                            /* ]]> */
+                        </script>
+                        <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+                        </script>
+                        <noscript>
+                            <div style="display:inline;">
+                                <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1033512733/?value=0&amp;guid=ON&amp;script=0"/>
+                            </div>
+                        </noscript>
+                        
+
+
+                        
+                        <script>
+                            $('.dropdown2 .dropdown-menu').on({
+                                "click":function(e){
+                                    e.stopPropagation();
+                            }
+                        });
+                        </script>
+
 						
 					
 				 </body></html>
