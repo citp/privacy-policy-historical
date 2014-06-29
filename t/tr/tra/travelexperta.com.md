@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the travelexperta.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229053828id_/http%3A//travelexperta.com/review-information-and-disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelexperta.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629150236id_/http%3A//travelexperta.com/review-information-and-disclosure) for the most accurate reproduction.*
 
-# Reviews for Travel Products, Hotels, Restaurants and Tours
+# Reviews for Travel Products, Hotels, Restaurants and ToursTravel Experta – Specializing in Unique International Family Travel
 
 [Travelexperta.com](http://travelexperta.com/) is committed to protecting your privacy when you visit the site. You can access Travel Experta and browse the site without disclosing any of your personal data. I do not collect personal information about individuals, such as names and mailing or e-mail addresses, unless it is knowingly provided by the individual and he or she has agreed to the terms under which Travel Experta will use it.
 
