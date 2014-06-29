@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookabach.co.nz privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425050640id_/http%3A//www.bookabach.co.nz/cms/view/legal/our-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookabach.co.nz privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629204656id_/http%3A//www.bookabach.co.nz/cms/view/legal/our-privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
@@ -51,7 +51,8 @@ We do not use text messaging for marketing purposes.  If you are Owner or Prope
 
 When you visit our website, we may record your “IP addresses” and information on the type of operating system (e.g. Windows XP or Apple OS) and browser software (e.g. Microsoft Internet Explorer, Netscape, Opera etc.) you are using. This information is used to diagnose problems with our service and for planning capacity and compatibility. Your IP address may also be used to help gather aggregated demographic information, such as which ISP you are using or what country you are connecting from.
 
-We use remarketing features within Google Analytics.  This allows us to show our display advertising across the internet, on other websites, via third-party ad serving vendors, including Google.  
+We use remarketing features within Google Analytics.  This allows us to show our display advertising across the internet, on other websites, via third-party ad serving vendors, including Google.
+
 Bookabach and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on past visits to the Bookabach website or other websites in the Bookastay Network.
 
 You can opt-out of Google Analytics tracking for Display Advertising and customize the Google Display Network ads shown to you using the _Google Ads Preferences Manager_.
@@ -71,5 +72,3 @@ We may deploy 3rd party tools and platforms for bulk email processing, support d
 In addition to the circumstances described above, we may disclose your information if required to do so by law, or in the good faith belief that disclosure is otherwise necessary or advisable, including when we have reason to believe that disclosing the information is necessary to identify, contact or bring legal action against someone who may be causing interference with our rights or properties, whether intentionally or otherwise, or when anyone else could be harmed by such activities.
 
 Please note that on our site we have advertisements and links to other websites that may collect personal information from you. This Privacy Policy does not cover the information practices or policies of such websites. We encourage you to read their privacy policies as they may be materially different from our Privacy Policy.
-
-Plan trips away by adding properties to a shortlists. You need to be [logged in](https://web.archive.org/member/login) to create or view your shortlists. 
