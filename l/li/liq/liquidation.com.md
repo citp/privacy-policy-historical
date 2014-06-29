@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liquidation.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806223043id_/http%3A//www.liquidation.com/c/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liquidation.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630000354id_/http%3A//www.liquidation.com/c/privacy.html) for the most accurate reproduction.*
 
 # Liquidation.com Privacy Policy
 
@@ -13,10 +13,6 @@ Liquidity Services, Inc. ("LSI") wants you to know that we take your privacy ver
   * How you can correct any inaccuracies in the information
 
 
-
-Liquidation.com has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [COMPANY CONTACT INFO]. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
-
-Liquidation.com complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union. 
 
 Liquidity Services, Inc. has created this privacy policy in order to demonstrate our firm commitment to privacy. 
 
@@ -74,7 +70,7 @@ We do not include functionality that proxies, requests or collects Facebook user
 
 ### Data Retention 
 
-We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. Please note that users can update their account information in the My Account section of the site, but accounts cannot be deleted after creation. If your information (such as your email address) should change, we ask that you re-submit a registration form or request.Â”
+We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. Please note that users can update their account information in the My Account section of the site, but accounts cannot be deleted after creation. If your information (such as your email address) should change, we ask that you re-submit a registration form or request.â€
 
 ### Correct/Update
 
