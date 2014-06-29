@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petplace.com privacy policy that was archived on 2013-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131021215124id_/http%3A//www.petplace.com/privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petplace.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629210226id_/http%3A//www.petplace.com/privacy-statement.aspx) for the most accurate reproduction.*
 
 # PetPlace.com - Privacy Policy
 
@@ -22,7 +22,7 @@ Our PetPlace.com site employs “cookie” technology to collect non-personal in
 
 **Intelligent Content Corp. does not desire or intend to collect any personal information of children on our PetPlace.com site. We ask that children under the age of 13 do not submit any personal information to us. If you are under the age of 13, you can access the offerings on PetPlace.com requiring input of information only in conjunction with your parents or guardians.**
 
-Any individual information voluntarily supplied by you that we have within our database will be available to you upon written request and proof of identification to Intelligent Content Corp., 602 E McNab Rd., Pompano Beach, Florida 33060. Intelligent Content Corp. will correct any errors in your personal information upon your request. 
+Any individual information voluntarily supplied by you that we have within our database will be available to you upon written request and proof of identification to Intelligent Content Corp., 1180 SW 36 Avenue Suite 103 Pompano Beach, FL 33069. Intelligent Content Corp. will correct any errors in your personal information upon your request. 
 
 Your acceptance of Intelligent Content Corporation’s Privacy Policy for the PetPlace.com site is signified by your use of our web site. Your continued use of PetPlace.com following the posting of changes to these terms will mean that you accept those changes. 
 
