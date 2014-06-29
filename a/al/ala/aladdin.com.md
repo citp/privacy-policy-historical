@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the aladdin.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205093537id_/http%3A//www.safenet-inc.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aladdin.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630002542id_/http%3A//www.safenet-inc.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - SafeNet
 
 **Copyright**
 
-Unless otherwise noted, all information on SafeNet Web Sites is copyright © 2013 by SafeNet, Inc. 
+Unless otherwise noted, all information on SafeNet Web Sites is copyright © 2014 by SafeNet, Inc. 
 
 **SafeNet and the U.S.-EU and U.S.-Swiss Safe Harbors for Privacy**
 
