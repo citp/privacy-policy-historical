@@ -1,19 +1,21 @@
-> *The following text is extracted and transformed from the alaskaair.com privacy policy that was archived on 2013-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131114012930id_/http%3A//www.alaskaair.com/content/legal/privacy-policy.aspx%3Flid%3Dfooter%3AprivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alaskaair.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629114931id_/http%3A//www.alaskaair.com/content/legal/privacy-policy.aspx%3Flid%3Dfooter%3AprivacyPolicy) for the most accurate reproduction.*
 
 # Online Privacy Notice - Alaska Airlines
 
-Alaska Airlines respects your concerns about privacy. This Privacy Notice applies to personal information we collect on the websites and mobile application (collectively, the "Sites") listed here.
+Alaska Airlines respects your concerns about privacy. This Privacy Notice applies to personal information we collect on the websites and applications (collectively, the "Sites") listed here.
 
   * alaskaair.com 
+  * res.asvacations.com (vacation site) 
   * m.alaskaair.com (mobile site) 
   * facebook.com/alaskaairlines 
   * apps.facebook.com/flyingsocial
 
 
 
-  * Alaska Airlines mobile apps for Android, and iOS 
+  * Alaska Airlines mobile apps for Android, iOS, and Windows
   * Alaska Airlines Windows 8 app 
   * Alaska Airlines and Horizon Air Career websites
+  * Trip and Flight Alerts
 
 
 
@@ -28,13 +30,12 @@ When you visit the Sites, you may provide personal information directly to us, i
   * Contact information, such as name, postal address, telephone number, and email address 
   * Travel information, such as flight, hotel and vehicle reservation information 
   * Certain categories of special needs (such as wheelchair use) 
-  * You purchase a ticket or other goods or services through the Sites 
   * Birth date and gender 
   * Transportation Security Administration (TSA) Redress Number 
   * Payment information, such as credit card number and expiration date 
   * Gift card and travel certificate information, such as card code, PIN number, and e-ticket number 
   * Confirmation code, and e-ticket number, Mileage Plan™ number and other awards or loyalty program numbers 
-  * The location of your device (if you use our mobile app, Windows 8 app, or mobile website to search for the nearest airport or float plane dock) 
+  * The location of the device on which you install our app
   * Information provided to us by Facebook when you use the Facebook-related functionality of our apps, including (depending on the app) your name, profile picture, gender, networks, user ID, hometown and location, list of friends (including their photos), and friends' hometowns and locations (but please note that the Facebook login information you enter in our apps to activate the Facebook functionality is collected directly by Facebook, and we do not have access to this information) 
   * Information about your education, work and military history, citizenship or legal work eligibility status, and other information relevant to specific jobs for which you wish to apply, such as whether you are at least 18 years of age.
 
@@ -48,9 +49,11 @@ Cookies are small files that websites send to your computer or other Internet-co
 
 Our Web servers may log information such as your device and operating system type, browser type, domain, device ID, and other system settings, as well as the language your system uses and the country and time zone where your device is located. The Web server logs also may record information such as the address of the Web page that referred you to our Site and the IP address of the device you use to connect to the Internet.
 
-To control which Web servers collect information by automated means, we may place tags on our Web pages called "Web beacons", which are small files that allow us to understand the actions of visitors to our Sites, and we use similar technology to analyze users' interactions with our Mobile Apps.
+To control which Web servers collect information by automated means, we may place tags on our Web pages called "Web beacons", which are small files that allow us to understand the actions of visitors to our Sites, and we use similar technology to analyze users' interactions with our apps.
 
-We use third-party Web analytics services on our Sites, such as those of Omniture and Google Analytics. These service providers use cookies and Web beacons or other technology to help us analyze how users use the Sites. The information collected by such technology (including, where applicable, your IP address) will be disclosed to these service providers, who use the information to facilitate the evaluation of your use of the Sites. [Learn more about Omniture's services](http://www.omniture.com/en/privacy/product), including your opt-out options for the Omniture tools on our websites. [Learn about Google Analytics and how to opt out. ](http://tools.google.com/dlpage/gaoptout)
+We use third-party Web analytics services on our Sites, such as those of Omniture and Google Analytics. These service providers use cookies and Web beacons or other technology to help us analyze how users use the Sites. The information collected by such technology (including, where applicable, your IP address) will be disclosed to or collected directly by these service providers, who use the information to facilitate the evaluation of your use of the Sites. [Learn more about Omniture's services](http://www.omniture.com/en/privacy/product), including your opt-out options for the Omniture tools on our websites. [Learn about Google Analytics and how to opt out.](http://tools.google.com/dlpage/gaoptout)
+
+If your device configuration allows it, our apps may also automatically collect information about the location of your device, using technologies such as GPS, WiFi, and Bluetooth signals. This data may be used for purposes such as providing location-based products, services, or offers, and as further described in the “How We Use the Information We Collect” section below.
 
 #### Interest Based Advertising
 
@@ -60,7 +63,7 @@ You may see certain ads on our and other websites because we participate in adve
 
 ### How We Use the Information We Collect
 
-We may use the information we obtain about you when you visit the Sites for various purposes, including to:
+We may use the information we obtain about you through the Sites for various purposes, including to:
 
   * Verify your identity 
   * Process, evaluate, and respond to your requests, inquiries, and applications 
@@ -78,9 +81,9 @@ We may use the information we obtain about you when you visit the Sites for vari
 
 ### Information We Share
 
-We may share personal information we collect on our Sites with our service providers who perform services on our behalf. These service providers are not authorized by us to use or disclose the information except as necessary to perform services on our behalf or comply with legal requirements. We may also share certain personal information among our affiliates and joint marketing partners for the purposes described in this Privacy Notice, including for their marketing purposes.
+We may share personal information we collect on our Sites with our service providers who perform services on our behalf. These service providers are not authorized by us to use or disclose the information except as necessary to perform services on our behalf or comply with legal requirements. We may also share personal information among our affiliates and joint marketing partners for the purposes described in this Privacy Notice, including for their marketing purposes.
 
-We may share personal information with authorized operators of websites and applications that interact with our systems if you choose to use their applications to interact with us or if you otherwise authorize those operators to access our record of your personal information. For example, if you log in through an authorized third-party mobile app that allows you to view your Mileage Plan™ account, we may share personal information with the operator of the mobile app. Such operators' use of the information may be subject to their own privacy policies, which we strongly recommend you review before logging in through their applications. We are not responsible for such operators' privacy practices, which are not covered by this Privacy Notice.
+We may share personal information with authorized operators of websites and applications that interact with our systems if you choose to use their applications to interact with us or if you otherwise authorize those operators to access our record of your personal information. For example, if you log in through an authorized third-party app that allows you to view your Mileage Plan™ account, we may share personal information with the operator of the app. Such operators' use of the information may be subject to their own privacy policies, which we strongly recommend you review before logging in through their applications. We are not responsible for such operators' privacy practices, which are not covered by this Privacy Notice.
 
 We also may disclose information about you (i) if we are required to do so by law or legal process, (ii) to law enforcement authorities, or (iii) when we believe disclosure is necessary or appropriate to prevent harm or loss or in connection with an investigation of suspected or actual illegal activity.
 
@@ -88,9 +91,13 @@ As mandated by the U.S. government and governments outside the U.S., Alaska Airl
 
 We also reserve the right to transfer personal information we have about you in the event we sell or transfer all or a portion of our business or assets. Should such a sale or transfer occur, we will use reasonable efforts to direct the transferee to use personal information you have provided to us in a manner that is consistent with our Privacy Notice.
 
+Some third parties' embedded content or plugins on Sites, such as Facebook "Like" buttons on alaskaair.com, may allow their operators to learn that you have visited or interacted with our Sites, and they may combine this information with other, identifiable information they have collected about your visits to other websites or online services. These third parties may handle this information, and other information they directly collect through their content and plugins, pursuant to their own privacy policies.
+
 ### Your Choices
 
-If you would like to update or modify your personal information or subscription preferences, you may contact us as described in the How To Contact Us section below. If you have an online account at alaskair.com, you also can login and visit the My Account section; from there you can modify your personal information or click on Manage Email to update your communication preferences. You also may unsubscribe from promotional emails by clicking on the "unsubscribe" link in any promotional email you receive from us. You may choose to opt out from Bank of America and other companies by calling toll free 1-888-5-OPT-OUT (1-888-567-8688).
+If you would like to update or modify your personal information or subscription preferences, you may contact us as described in the How To Contact Us section below. If you have an online account at alaskair.com, you also can login and visit the My Account section; from there you can modify your personal information or click on Manage Email to update your communication preferences. To update your subscription preference for Alaska Airlines Vacations, please log in to your account at <https://res.asvacations.com/Account/Default.aspx>. You may update your flight alerts by going to [Manage Flight Alerts](http://www.alaskaair.com/dayofflight/alerts.aspx?CurrentForm=UCEditAlert), or update your Trip Alerts by logging into your account at: [Manage Trip Alerts](https://www.flightstats.com/ta/Login/login.do). You also may unsubscribe from promotional emails by clicking on the "unsubscribe" link in the relevant emails. You may choose to opt out of receiving prescreened offers of credit and insurance from Bank of America and other companies by calling toll free 1-888-5-OPT-OUT (1-888-567-8688).
+
+To manage notifications and preferences relating to our apps, including certain options regarding the collection and use of location data, visit the Push Notifications section. To manage Flight Alerts that you set through the Flight Status section of the app, go to the main screen in the app, swipe sideways until you find the flight, and then click on “ALERTS”.
 
 To remove or delete our Facebook apps from your account, follow the instructions at <https://www.facebook.com/help/170585223002660>.
 
