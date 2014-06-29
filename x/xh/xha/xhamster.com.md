@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the xhamster.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228191615id_/http%3A//xhamster.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xhamster.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629020713id_/http%3A//xhamster.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
 _for Hammy Media, Ltd. d/b/a[www.xhamster.com](http://www.xhamster.com/), [www.xhamstercams.xxx](http://www.xhamstercams.xxx/)  
-Effective Date: December 28, 2013  
+Effective Date: June 29, 2014  
 Last Modified: September 27, 2011_
 
   1. General 
