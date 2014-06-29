@@ -1,100 +1,57 @@
-> *The following text is extracted and transformed from the jwplatform.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jwplatform.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630002106id_/http%3A//www.jwplayer.com/privacy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy | JW Player
 
-**Go Daddy Respects Your Privacy**
+JW Player ("LongTail Ad Solutions, Inc", "LongTail", "Company", “we”, “our” or “us”) is an online video software company. Our primary offerings are a video player and a video content management system. Our products and services enable websites to embed video, stream and host videos and deliver advertising across the web.
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+The Company primarily serves three groups: those who surf the web (“Users”), those who provide video and other types of content (“Publishers”) and those who advertise their products and services (“Advertisers”). Publishers place our products on their websites so Users may view videos. In some cases, Advertisers place advertising messages via our products and services. We help the Publisher’s understand how videos are being viewed on their websites. We also help Advertisers understand which of their ads were viewed so they can better understand which ads are more effective.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+## Privacy Practices for our Technology
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+We offer Publishers the tools to upload videos, manage video content and gain insight into how Users watch video within our easy to use online dashboard. Our Technology tools collect certain non-personally identifiable information from User interactions with the videos Publishers upload via our Technology tools. This information includes: the User’s IP address, browser type, Internet Service Provider, computer (or mobile device’s) operating system. We also collect the URL of the page where our Technology tools are enabled, the referring URL, the version of the video player the Publisher is utilizing, when and how long the video was played, which advertising message(s) were inserted into the video, whether the video was played in full screen mode, and certain meta data about the video or the Publisher web page.
 
-**Information Collection and Use**
+We use this information in a number of ways, including: a) to help us ensure that the web content is deploying accurately, b) to help us, our Publisher’s and our Advertisers understand how the web content and advertising we deploy is being viewed by Users, and c) to help ensure that the advertising and videos are both appropriate and relevant to User interests.
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+We use cookies in association with our Technology. Cookies are small files placed on the hard drive of your computer. We use cookies to help us understand how our Technology is being used, to tailor advertising, and for ad delivery and reporting purposes. For more information about cookies and web beacons, please visit [www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+Like many video technologies, we may use Flash and similar technologies to enable our video players. However, we don’t use those technologies (e.g., Flash cookies) for advertising or analytics purposes.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+## Privacy Practices for our Website
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+Our website (the “Website”) is directed primarily to Publishers and Advertisers, not Users. We collect personally identifiable information (e.g., full name, postal address, email, telephone number) via the Website only when you choose to provide it to us. For example, you may choose to provide your name, email address and credit card number when you order a [commercial license](https://web.archive.org/pricing/) of the JW Player. You may also setup an account with us, and while registering you may provide your name, email address and additional information. You may further provide your name, telephone number and other information in an email or via an online form in order to ask us a question or subscribe to our email newsletter. We, or our agents and service providers, generally use this information for the reason it was provided (e.g., to facilitate your order or to answer your question).
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+Also, if you register to use the free edition of our products and services, we may send you emails asking if you’d like to purchase paid editions. We offer the opportunity to opt-out of future marketing emails.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+You can choose not to provide certain information, but this will limit your ability to purchase products offered on the website, or to take advantage of some of our features for website customers.
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+We also use "cookie" technology on our website. The cookies we use do not reveal any personally identifiable information. We use cookies to enhance your experience and to determine for which one of our partners, if any, referred you to our website. We also use third party analytics tools such as Google Analytics on our Website to obtain non-personally identifiable, aggregate information.
 
-**Security**
+## Additional Privacy Disclosures
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+### _Information Security_
 
-**Updating Your Information**
+The security of your information is important to us. We have implemented reasonable security measures to protect the information, both during transmission and once it is received. This includes but is not limited to the use of firewalls and encryption. No method of transmission over the Internet or method of electronic storage is 100% secure; therefore, while the company strives to use commercially acceptable means to protect your information, we cannot guarantee absolute security.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+### _Deleting Your Personally Identifiable Information_
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+Although we don’t collect personally identifiable information via our Technology, if you’d like us to update, correct, delete, or deactivate any personally identifiable information that you have provided on the Website, please send your request to [privacy@jwplayer.com](mailto:privacy@jwplayer.com), and the company will process your request within a reasonable period of time after receipt.
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+### _Information Relating to Children_
 
-      iii.      You may call us at: (480) 505-8800
+JW Player’s Website and Technology products and services are designed for those 13 years of age and older. JW Player does not knowingly collect personally identifiable information from anyone under the age of 13. If the company is made aware that it has received personally identifiable information from someone under 13, it will use reasonable efforts to remove that information from its records.
 
-       iv.      You may fax us at: (480) 505-8844
+### _Disclosure of Information to Third Parties_
 
-**Sending Emails**
+JW Player does not rent, sell or share your personally identifiable information with non-affiliated third parties without your consent. The company may, however, share personally identifiable information with trusted third-party partners. These third party contractors are prohibited from using the information for purposes other than performing services for JW Player.
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+The company may share non-personally identifiable data collected via our Technology. For example, we provide Publishers with information about how Users view videos using our Technology. This information cannot be used to contact or identify any person individually.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+JW Player may disclose your information to third parties when obligated to do so by law and in order to investigate, prevent, or take action regarding suspected, or actual prohibited activities, including but not limited to fraud and situations involving potential threats to the physical safety of any person.
 
-**Compliance with Laws and Law Enforcement**
+Finally, JW Player may transfer information, including any personally identifiable information, to a successor entity in connection with a corporate merger, consolidation, sale of assets, bankruptcy, or other corporate change. If JW Player is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via a notice on our Web site of any change in ownership or uses of your person personally identifiable information, as well as any choices you may have regarding your personally identifiable information.
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+### _Changes to this Privacy Policy_
 
-**Third Party Service Providers**
+This privacy policy is subject to change. If the company plans to make any material or substantive changes in the way it uses the personally identifiable information collected through this Website, it will post a clear and conspicuous notice on the website and in this privacy policy prior to the changes being made.
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
-
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
-
-**Supplementation of Information**
-
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
-
-**Contests/Surveys**
-
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+_Effective Date: October 1, 2013_
