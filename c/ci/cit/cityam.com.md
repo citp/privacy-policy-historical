@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cityam.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228105811id_/http%3A//www.cityam.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cityam.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629230059id_/http%3A//www.cityam.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | City A.M.
 
 We are committed to protecting and respecting your privacy. This policy forms part of City A.M.’s Terms and sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-For the purpose of the Data Protection Act 1998 (the Act), the data controller is City AM Ltd of Swan House, 4th Floor, 33 Queen Street, London EC4R 1BR.
+For the purpose of the Data Protection Act 1998 (the Act), the data controller is City AM Ltd of 3rd Floor, Fountain House, 130 Fenchurch Street, London EC3M 5DJ.
 
 INFORMATION WE MAY COLLECT FROM YOU
 
@@ -57,7 +57,7 @@ We gather personal information from you when you send text messages, complete re
 
 YOUR RIGHTS
 
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at Swan House, 4th Floor, 33 Queen Street, London EC4R 1BR or [cityam.admin@cityam.com](mailto:cityam.admin@cityam.com).
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at 3rd Floor, Fountain House, 130 Fenchurch Street, London EC3M 5DJ or [cityam.admin@cityam.com](mailto:cityam.admin@cityam.com).
 
 Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
 
@@ -71,4 +71,4 @@ Any changes we may make to our privacy policy in the future will be posted on th
 
 CONTACT
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to City AM Ltd of Swan House, 4th Floor, 33 Queen Street, London EC4R 1BR or [cityam.admin@cityam.com](mailto:cityam.admin@cityam.com).
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to City AM Ltd of 3rd Floor, Fountain House, 130 Fenchurch Street, London EC3M 5DJ or [cityam.admin@cityam.com](mailto:cityam.admin@cityam.com).
