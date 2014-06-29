@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the bulkreefsupply.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806050437id_/http%3A//www.bulkreefsupply.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bulkreefsupply.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629103201id_/http%3A//www.bulkreefsupply.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Bulk Reef Supply
+
+## Privacy Policy
 
 All information collected on the site is used solely by BulkReefSupply.com and will never ever be shared with any other entity. This includes your email address. We hate spam just as much as you do. Bulk Reef Supply has always been committed to maintaining the accuracy, confidentiality, and security of your personal and corporate information. We have established Privacy Principles to govern our use of customer information.
 
@@ -53,6 +55,6 @@ Customers may direct any questions or inquiries with respect to the privacy prin
 
 If you do not want to receive further communication from Bulkreefsupply.com you may contact us at the address or email address below.
 
-674 Mendelssohn Ave N Golden Valley, MN 55427 USA
+6325 Sandburg Road, Suite 400 Golden Valley, MN 55427 USA
 
 [support@bulkreefsupply.com](mailto:support@bulkreefsupply.com)
