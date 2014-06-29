@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virginexperiencedays.co.uk privacy policy that was archived on 2013-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130811015915id_/http%3A//www.virginexperiencedays.co.uk/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virginexperiencedays.co.uk privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629191549id_/http%3A//www.virginexperiencedays.co.uk/privacy-security) for the most accurate reproduction.*
 
 # Privacy & Security of the Virgin Experience Days Website
 
@@ -10,12 +10,13 @@ You also have complete control over the information stored about you and what ty
 
 You can write to us at our registered address:
 
-Acorne Plc  
-Acorne House  
-9 Lane End Business Park  
-Lane End  
-High Wycombe  
-HP14 3BY
+Virgin Experience Days  
+Acorne PLC  
+Stamford House  
+Boston Drive  
+Bourne End  
+Buckinghamshire  
+SL8 5YS
 
 You can phone us on 0844 504 0844  
 You can email us on [info@virginexperiencedays.co.uk](mailto:info@virginexperiencedays.co.uk)
