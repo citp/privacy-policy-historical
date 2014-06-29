@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sextoy.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502152917id_/http%3A//www.sextoy.com/infopage.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sextoy.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629125912id_/http%3A//www.sextoy.com/infopage.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
-# Largest selection of adult sex toys since 1995. Private and discreet
+# Sex Toys and Adult Products for sale with discreet shipping and billing
 
 ### WE SHARE YOUR CONCERNS ABOUT SAFEGUARDING PERSONAL INFORMATION
 
@@ -52,7 +52,7 @@ If you have any questions about this Policy, the data collection and usage pract
 
 #### Email Preferences
 
-By placing an order, you will be automatically subscribed to our newsletter program. **Your information is secure and confidential and will not be sold or shared with any 3rd parties except as necessary to fulfill your order**.
+By placing an order, you will **NOT** be automatically subscribed to our newsletter program. If you would like to receive our newsletters and/or promotional communications, you may do so at check out or through managing your email preferences in My Account. **Your information is secure and confidential and will not be sold or shared with any 3rd parties except as necessary to fulfill your order**.
 
 ### OPT IN LEARN MORE: QUESTIONS AND ANSWERS
 
