@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the contentwatch.com privacy policy that was archived on 2013-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130813003920id_/http%3A//www.contentwatch.com/support/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contentwatch.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629133055id_/http%3A//www.contentwatch.com/support/privacy_policy) for the most accurate reproduction.*
 
-# ContentWatch Privacy Policy | ContentWatch
+# Privacy Policy | ContentWatch
 
 Your privacy is important to ContentWatch Inc. To better protect your privacy, we have provided this statement which explains our online information practices, and the choices regarding the way your personal information is collected and used. We hope this statement will increase your confidence in our Web site and enhance your experience on the Internet with ContentWatch Inc.
 
