@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the coedcherry.com privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219135839id_/http%3A//www.coedcherry.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coedcherry.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629212217id_/http%3A//www.coedcherry.com/privacy) for the most accurate reproduction.*
 
-# Coed Cherry - Privacy Policy
+# Coed Cherry Privacy Policy
 
 When I entered the porn business in 2003 I was an unemployed computer nerd, having worked for two years as a programmer and one year as a systems administrator. Nerds are notoriously paranoid about privacy and security on the Internet, because we know how easily our personal information can be apprehended and abused.
 
@@ -10,13 +10,13 @@ I believe that it is your right to know exactly what kind of information is bein
 
 Like millions of other websites, CoedCherry uses Google Analytics to help make CoedCherry better.
 
-Google Analytics is a piece of software that grabs data about our visitors (you). It’s something like an advanced server log.
+Google Analytics is a piece of software that grabs data about our visitors (you). Its something like an advanced server log.
 
 **What information does Google Analytics record?**
 
   * What website (or search engine) you came from to get here
   * How long you stay for
-  * What kind of computer you’re using
+  * What kind of computer youre using
   * What country / area of the world you are in
   * And quite a bit more
 
@@ -32,11 +32,11 @@ All of this data is **anonymous**. Here are some things Google Analytics does **
 
 
 
-The information Google Analytics collects allows us to better understand the kind of people who come here and what content they’re enjoying. This allows us to make better decisions about what kind of content to provide in the future.
+The information Google Analytics collects allows us to better understand the kind of people who come here and what content theyre enjoying. This allows us to make better decisions about what kind of content to provide in the future.
 
 All of this activity falls within the bounds of the [Google Analytics Terms of Service](http://www.google.com/analytics/tos.html). 
 
-You can [opt out of Google’s advertising tracking cookie](http://www.google.com/privacy_ads.html) or use a [browser plugin to opt out of all Google Analytics tracking software](http://tools.google.com/dlpage/gaoptout?hl=en).
+You can [opt out of Googles advertising tracking cookie](http://www.google.com/privacy_ads.html) or use a [browser plugin to opt out of all Google Analytics tracking software](http://tools.google.com/dlpage/gaoptout?hl=en).
 
 In addition to Google Analytics we measure the total amount of clicks that content on our site receives (gallery, pay-site link, model page, thumbnail, etc.) Currently these numbers are statistical only, i.e: we only count the total clicks received without knowing who specifically clicked on what.
 
