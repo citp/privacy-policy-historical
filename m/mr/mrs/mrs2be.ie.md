@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the mrs2be.ie privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213054349id_/http%3A//www.mrs2be.ie/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrs2be.ie privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629194438id_/http%3A//www.mrs2be.ie/privacy-policy) for the most accurate reproduction.*
 
-# Mrs2be.ie and Mum2be.ie Privacy Policy | Mrs2Be
-
-29 September 2011
+# Mrs2be.ie and Mum2be.ie Privacy Policy
 
 ## Our Commitment to User Privacy
 
@@ -83,3 +81,5 @@ In order to provide you with the full functionality of the site it is necessary 
 ## Further information on your privacy rights
 
 Further information on your privacy rights is available on the website of the Irish Data Protection Commissioner: [http://www.dataprivacy.ie](http://www.dataprivacy.ie/).
+
+Last updated 29 September 2011
