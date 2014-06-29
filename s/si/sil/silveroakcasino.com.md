@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the silveroakcasino.com privacy policy that was archived on 2011-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110503073408id_/http%3A//www.silveroakcasino.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silveroakcasino.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629072943id_/http%3A//www.silveroakcasino.com/privacy-policy) for the most accurate reproduction.*
 
 # Silver Oak Casino Privacy Policy | Online Casino Games
 
-Welcome to [Silver Oak Casino](http://www.silveroakcasino.com/), as a company we respect the privacy of our visitors and customers. Below you will find a pretty long legal document highlighting all of our terms when it comes to respecting your privacy. It’s long has a lot of legal terms in there and what it really says is that we respect your privacy.
-
-**_We like you and would love for you to come back often as one of our valued customers…_**
+Welcome to [Silver Oak Casino](http://www.silveroakcasino.com/), as a company we respect the privacy of our visitors and customers. Below you will find a pretty long legal document highlighting all of our terms when it comes to respecting your privacy. It’s long and has a lot of legal terms in there, but what it really says is that we respect your privacy.
 
 **Introduction**
 
@@ -14,7 +12,7 @@ When you use the Company’s gambling services, and whether such use is via the 
 
 The Company is committed to respecting your privacy and to complying with applicable data protection and privacy laws and we have therefore provided this Privacy Policy to help you understand how we collect, use and safeguard your PI for the purpose of offering you gambling services. If you do not understand the Privacy Policy or how we handle or use the PI which you provide to us then you are invited to send in your questions to [help@silveroakcasino.com](mailto:help@silveroakcasino.com) and we will do our best to answer your questions in full as quickly as possible.
 
-You should read this Privacy Policy in conjunction with the Silver Oak Casino Operated Sites and Services End User License Agreement.
+You should read this Privacy Policy in conjunction with the Silver Oak Casino Terms and Conditions.
 
 **Collecting Personal Information**
 
