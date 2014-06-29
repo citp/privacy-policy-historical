@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the travelpony.com privacy policy that was archived on 2013-08-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130809174017id_/http%3A//www.travelpony.com/pages/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the travelpony.com privacy policy that was archived on 2014-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140629052736id_/http%3A//www.travelpony.com/pages/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head>
+<!DOCTYPE html><html lang="en"><head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   
   <title>Privacy Policy | TravelPony</title>  
@@ -11,10 +11,25 @@
   var base_path  = "http:\/\/www.travelpony.com\/";
   var base_url   = base_path;
   var site_url   = base_path;
+
+  var is_logged_in = false; 
+  var is_mobile = false; 
+  
+  window.optimizely = [["delayPageviewTracking", 450]];
   </script>
   
-	<link href="/favicon.ico" type="image/x-icon" rel="icon"><link href="/favicon.ico" type="image/x-icon" rel="shortcut icon"><link rel="stylesheet" type="text/css" href="http://www.travelpony.com/css/bootstrap.min.css"><link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Lilita+One|Open+Sans"><link rel="stylesheet" type="text/css" href="http://www.travelpony.com/css/main.css"><script type="text/javascript" src="http://www.travelpony.com/js/head.load.0.99.min.js"></script>   
+    
+	    <meta property="og:image" content="http://www.travelpony.com/img/facebook_share_icon.png">
+    <meta property="og:title" content="TravelPony - great hotel deals every day">
+    <meta property="og:type" content="website">
+    <meta property="og:description" content="At TravelPony you get awesome deals on hotel rooms when you share a post on Facebook!">
+        <meta property="fb:app_id" content="592721854090218">
+    
+    <link href="https://plus.google.com/108962684937435495818" rel="publisher">
+   <script type="text/javascript" src="http://www.travelpony.com/js/jquery1.9.1.min.js"></script><script type="text/javascript" src="http://www.travelpony.com/js/head.load.1.0.3.min.js"></script><link href="/favicon.ico" type="image/x-icon" rel="icon"><link href="/favicon.ico" type="image/x-icon" rel="shortcut icon"><link rel="stylesheet" type="text/css" href="http://www.travelpony.com/css/bootstrap.min.css"><link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Lilita+One|Open+Sans"><link rel="stylesheet" type="text/css" href="http://www.travelpony.com/css/main.css">    
     <script type="text/javascript">
+      jQuery.noConflict = function(){  };  // hack for SAH browser extension
+      
       // Debugging support
       if(!window.console) console = {};
       console.log = console.log || function(){};
@@ -22,16 +37,16 @@
 
       // Load the following Javascript files IN ORDER.
       // Labels are used so that on_load callbacks can be registered
-      head.js(
-             {    jquery: asset_path + "js/jquery1.9.1.min.js" },
-             { bootstrap: asset_path + "js/bootstrap.min.js" },
+      head.load(
+             { bootstrap: asset_path + "js/bootstrap.min.js?d=20140317" },
              {   blockui: asset_path + "js/blockui.js" },
-             {      main: asset_path + "js/main.js?" + Math.floor(Math.random() * 10000)},
-             {     gmaps: 'https://maps.googleapis.com/maps/api/js?v=3&sensor=false&libraries=places&callback=gmaps_loaded' }
+             {      main: asset_path + "js/main.js?d=2014062900" + ""}
+             
       );
   
       head.ready(function(){
         // Example. Use this form instead of $.ready() or $() for inline Javascript
+        head.load({ gmaps: 'http://maps.googleapis.com/maps/api/js?v=3&sensor=false&libraries=places&callback=gmaps_loaded' })
       });
     </script>
     
@@ -53,14 +68,19 @@
         ga('set', 'referrer', null);  // Fix for SSL pages invalidating GA session
 
       ga('set', 'location', ga_current_url);
-
+      
+      if(typeof window['optimizely'].data != 'undefined'){
+        if(window['optimizely'].data.state.variationIdsMap.hasOwnProperty('314892988'))
+          ga('set', 'dimension3', window['optimizely'].data.state.variationIdsMap['314892988']);
+      }
+      
             ga('send', 'pageview');
           </script>
-    
+
 </head>
 
 <body>
-
+  
   <div id="wrap">
   
     	
@@ -69,13 +89,15 @@
         <div class="navbar-inner">
           <div class="container">
       			
+      			      			
       			<a class="brand" id="header-logo" href="http://www.travelpony.com/">TravelPony</a>
-      			
       			
     			  
 
+
+
 <div class="pull-right" id="newsletter_popover" onclick="$('#newsletter_popover [data-toggle=popover]').popover('show'); $(this).attr('onclick','')">
-<img src="/img/envelope_blue.png" style="height:19px; margin:10px 0px 0 13px" data-toggle="popover" data-placement="bottom" title="" data-original-title="Stay Connected with TravelPony" data-html="true" data-content="
+<div style="width:25px; height:19px; margin:10px 0px 0 13px" data-toggle="popover" data-placement="bottom" title="" data-original-title="Stay Connected with TravelPony" data-html="true" data-content="
 <div>
   <div class=&quot;input-prepend&quot;>
     <span class=&quot;add-on&quot;>@</span>
@@ -94,7 +116,7 @@
   <span class=&quot;clickable&quot; onclick=&quot;$('#newsletter_popover [data-toggle=popover]').popover('hide')&quot;>Close</span>
   </div></div>
 </div>
-">
+"></div>
 </div>
 
 <ul class="nav nav-pills">
@@ -107,6 +129,8 @@
         </div>
       </div>
       
+      <img src="http://commondatastorage.googleapis.com/code.snapengage.com/btn/help_right_en.png" style="position:fixed; top:30%; right:0; z-index:200" onclick="show_groove(); $(this).hide()" class="clickable hide-mobile print-hide" alt="Get Help">
+      
       <br class="clear">
     </div>
     
@@ -118,7 +142,7 @@
 <h1>Privacy Policy</h1>
 
 <h2>Introduction</h2>
-<p>Tourico Holidays, Inc., 220 East Central Parkway Altamonte Springs, FL 32701, USA, ("OPERATOR") provides access to and use of this site, TravelPony.com ("Site") of Travel Innovations Group, LLC. TravelPony.com is committed to maintain security and confidentiality of the personal information gathered and used on the www.travelpony.com website (“hereinafter the Website”). This Privacy Statement covers www.travelpony.com.<br>
+<p>Travel Innovations Group, LLC, 102 Woodmont Blvd. #600, Nashville, TN 37205, USA, ("OPERATOR") provides access to and use of this site, TravelPony.com ("Site"). TravelPony.com is committed to maintain security and confidentiality of the personal information gathered and used on the www.travelpony.com website (“hereinafter the Website”). This Privacy Statement covers www.travelpony.com.<br>
 <br>
 TravelPony.com and its authorized technology, marketing and service providers may gather, store, and process personal information from the Website.<br>
 <br>
@@ -150,7 +174,7 @@ PII that you voluntarily provide to TravelPony.com when you register with us can
 <h3>Communications From The Site And How To Opt-out</h3>
 You will receive transaction or service related communications from the Website when you purchase travel products and services through our Website. Additionally, you will receive promotional communications from us if you choose to receive these communications.<p></p>
 
-<p>You may choose at any time during the registration process to “opt-out” and choose not to receive promotional communications that TravelPony.com feels may interest you. You may choose to unsubscribe and not receive future promotional communications by accessing the unsubscribe link on an email received by LastMinuteTravel.com. You can also “opt-out” of receiving these newsletters by logging into your account and “opting-out” of receiving these newsletters.&nbsp;<br>
+<p>You may choose to unsubscribe and not receive future promotional communications by accessing the unsubscribe link on an email received by TravelPony.com.com.<br>
 <br>
 </p><h3>Tell-A-Friend</h3>
 If you choose to use our referral service to tell a friend about our site, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. TravelPony.com does not store this information.&nbsp;<br>
@@ -179,7 +203,7 @@ Changes to this Privacy Statement may be made from time to time. If any change i
 <br>
 
 <h3>Contact Us</h3>
-If you would like to contact us regarding this Privacy Statement, you can reach us by our mailing address at 220 East Central Parkway Altamonte Springs, FL 32701, by phone at (877) 980-1221 or by email at support@travelpony.com.<p></p>
+If you would like to contact us regarding this Privacy Statement, you can reach us by our mailing address at 102 Woodmont Blvd. #600, Nashville, TN 37205, by phone at (877) 980-1221 or by email at support@travelpony.com.<p></p>
 
 
 <style>
@@ -195,7 +219,7 @@ html, body, #wrap { background-color:white }
   </div>
 	
 	<div class="footer print-hide">
-	  <hr>
+	  <hr style="*display:none">
 	  <div id="mounds_wrapper" class="print-hide">
   	  <div style="margin-left:300px">
     	  <div class="center" style="width:660px; margin:auto">
@@ -206,31 +230,39 @@ html, body, #wrap { background-color:white }
 	  </div>
 	  
 	  <div class="footer-inner">
-		     <span class="prettyfont2 pull-left" style="font-size:25px">© 2013 TravelPony.com</span>
+		     <span class="prettyfont2 pull-left" style="font-size:25px">© 2014 TravelPony.com</span>
 		     
 		     <div class="pull-left" style="position:relative; z-index:150">
 		       <div class="footer_col">
-		         <div>TravelPony</div>
+		         <div class="clickable" onclick="window.location='/'">TravelPony</div>
 		         <a href="/pages/about" title="About TravelPony">About TravelPony</a><br>
-		         <!-- <a href="http://www.travelpony.com/hotels-in-united-states-of-america" title="United States Hotels">U.S. Hotels</a> -->
+		         		         <a rel="nofollow" href="/pages/hotel-partners" title="For Hoteliers">Hotel Partners</a><br>
+		         		         <!-- 
+		         <a href="http://www.travelpony.com/hotels-in-united-states-of-america" title="United States Hotels">U.S. Hotels</a> <br />
+		          
+                 
+                 <a href="http://www.travelpony.com/hotels-rio-de-janeiro-brazil" title="Hotels in Rio De Janeiro, Brazil">Rio De Janeiro Hotels</a> <br />
+		         <a href="http://www.travelpony.com/hotels-banff-alberta" title="Hotels in Banff, Canada">Banff Hotels</a> <br />
+		         <a href="http://www.travelpony.com/hotels-in-spain" title="Hotels in Spain">Spain Hotels</a> <br />
+		         -->
 		       </div>
 		     
 		       <div class="footer_col">
 		         <div>Community</div>
+		         <a target="_blank" href="http://blog.travelpony.com/">Blog</a><br>
 		         <a target="_blank" href="https://www.facebook.com/travelpony">Facebook</a><br>
-		         <a target="_blank" href="http://www.linkedin.com/company/travelpony">LinkedIn</a><br>
-		         <a target="_blank" href="https://twitter.com/travelpony">Twitter</a><br>
-		         <a target="_blank" href="https://www.youtube.com/TravelPonyVideo">Youtube</a>
+		         <a target="_blank" href="https://twitter.com/travelpony">Twitter</a>
 		       </div>
 		       
 		       <div class="footer_col">
 		         <div>Info</div>
 		         <a href="/pages/contact" title="Contact TravelPony">Contact Us</a><br>
 		         <a href="/pages/faq" title="Frequently Asked Questions">FAQ</a><br>
-		         <a rel="nofollow" href="/pages/privacy">Privacy Policy</a><br>
+		         
+		         		         <a rel="nofollow" href="/pages/privacy">Privacy Policy</a><br>
 		         <a rel="nofollow" href="/pages/terms" title="Terms and Conditions">Terms</a><br>
 		         <a rel="nofollow" href="/affiliate" title="Affiliate Program">Affiliate</a>
-		       </div>
+		         		       </div>
 		     
 		     </div>
 		     
@@ -239,6 +271,15 @@ html, body, #wrap { background-color:white }
 		<br class="clear">
 	</div>
 
-	
+		
+	<script type="text/javascript">
+ 
+    head.ready(function(){
+      
+            load_adroll_retargeting();
+          })
+  </script>
+    
+
 
 </body></html>
