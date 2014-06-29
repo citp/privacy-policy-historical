@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petsadviser.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216035341id_/http%3A//www.petsadviser.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petsadviser.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629073013id_/http%3A//www.petsadviser.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@ Log Files
 Like many other websites, petsadviser.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
 Cookies and Web Beacons  
-Petsadviser.com uses cookies to store information about visitors’ preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors’ browser type or other information that the visitor sends via their browser.
+Third parties may collect certain types of information about visits to your sites, including interaction with content on these sites. As always, no personally identifiable information will be collected.
 
 DoubleClick DART Cookie  
 .:: Google, as a third-party vendor, uses cookies to serve ads on petsadviser.com.  
@@ -34,5 +34,3 @@ You should consult the respective privacy policies of these third-party ad serve
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
 _We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies,[click here](http://www.networkadvertising.org/)._
-
-**Share it now!**
