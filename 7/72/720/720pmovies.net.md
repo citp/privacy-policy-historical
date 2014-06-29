@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 720pmovies.net privacy policy that was archived on 2013-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130619034926id_/http%3A//www.720pmovies.net/dmca-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 720pmovies.net privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629201529id_/http%3A//www.720pmovies.net/dmca-privacy-policy) for the most accurate reproduction.*
 
-# DMCA and Privacy Policy | 720p Movies
+# DMCA and Privacy Policy | 720p Free Movie Download
 
 **DMCA**
 
