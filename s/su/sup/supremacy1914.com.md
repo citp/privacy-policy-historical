@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supremacy1914.com privacy policy that was archived on 2013-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131120010930id_/http%3A//www.supremacy1914.com/index.php%3Fid%3D259) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supremacy1914.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629212537id_/http%3A//www.supremacy1914.com/index.php%3Fid%3D259) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -57,9 +57,9 @@ If you have given us consent to process personal data, you can withdraw this con
 
  **4. **Contact and Data Deletion Requests****
 
-Bytro Labs provides the possibility to directly delete or correct your own personal data at [this location](https://web.archive.org/web/20131120010930id_/http%3A//www.supremacy1914.com/index.php%3Fid%3D259?id=62). You have to be logged in to your account to enter the settings menu and then scroll down to the "Delete Account" option to delete your personal data.
+Bytro Labs provides the possibility to directly delete or correct your own personal data at [this location](https://web.archive.org/web/20140629212537id_/http%3A//www.supremacy1914.com/index.php%3Fid%3D259?id=62). You have to be logged in to your account to enter the settings menu and then scroll down to the "Delete Account" option to delete your personal data.
 
-For any queries about data protection you can also contact us [here](https://web.archive.org/web/20131120010930id_/http%3A//www.supremacy1914.com/index.php%3Fid%3D259?id=172) or directly via e-mail to support(at)bytro.com. You can also send your request to us by mail at the following mailing address:
+For any queries about data protection you can also contact us [here](https://web.archive.org/web/20140629212537id_/http%3A//www.supremacy1914.com/index.php%3Fid%3D259?id=172) or directly via e-mail to support(at)bytro.com. You can also send your request to us by mail at the following mailing address:
 
 Bytro Labs GmbH
 
