@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the olweb.tv privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125225256id_/http%3A//www.olweb.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the olweb.tv privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629104855id_/http%3A//www.olweb.tv/privacy) for the most accurate reproduction.*
 
 # Privacy - Watch Tv Online
 
@@ -46,5 +46,3 @@ Cookies are data that a Web site transfers to an individual's hard-drive for rec
 Online TV Media has established many links directly to sites operated by third parties. These sites are not operated or maintained by Online TV Media. These sites may collect personal information from you. You should check the applicable privacy policy's of the third party site's in case you enter these sites. All links to external sites (not Online TV Media's) are opened in a new window! 
 
 Online TV Media chooses its advertisers and business partners carefully. However, Online TV Media is not responsible for the content or practices of Web sites operated by third parties that are linked to our site. These links are meant for the user's convenience only. Links to third party sites do not constitute sponsorship, endorsement or approval by Online TV Media of the content, policies or practices of such third party sites. Once you enter a third party site by such a link, you should check the applicable privacy policy of the third party site.
-
-[](http://www.olweb.tv/)
