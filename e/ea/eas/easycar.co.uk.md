@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easycar.co.uk privacy policy that was archived on 2013-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130813024416id_/http%3A//www.easycar.com/nossl/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easycar.co.uk privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629141512id_/http%3A//www.easycar.com/nossl/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Car Hire from easyCar.com
 
@@ -27,7 +27,17 @@ You have the right to ask us not to send you direct marketing material, this can
 
 
 Cookies   
-Cookies are small data files that are saved on your computer by websites. Nearly all websites use cookies as they make sites work better, enable site owners to see how their site is used and where they can improve the site to enhance the users experience. These cookies are used to remember activities and any preferences you and your browser have chosen. They are not used to save personal information. Cookies can be controlled and you can decide which cookies are saved and which you want to remove.  
+Like all sites, we sometimes put cookies on your computer to help us deliver you the best experience. By using this website, you are consenting to us doing so.
+
+Cookies are small data files that are saved on your computer by websites. Nearly all websites use cookies as they make sites work better, enable site owners to see how their site is used and where they can improve the site to enhance the user’s experience. They are not used to save personal information. There are four types of cookies which we use from time to time.
+
+  * Strictly necessary cookies. These are cookies that are required for the operation of our website. They include, for example, cookies that enable you to log into the member areas of our website. They do not gather information about you that could be used for marketing purposes or remembering where you've been on the Internet.
+  * Analytical/performance cookies. These allow us to collect information about how you use our website, such as, how you move around our website and if you experience any errors. These cookies do not collect any information that could identify you; all of the information collected is anonymous and is only used to help us improve the way our website works, understand what interests our users and measure how effective our advertising is.
+  * Functionality cookies. These are used to recognise you when you return to our website. This enables us to personalise our content for you, greet you by name and remember your preferences and improve your visit.
+  * Targeting cookies. These cookies record your visit to our website, the pages you have visited and the links you have followed. They are linked to services provided by third parties, such as "Like" and “Follow" buttons. The third party provides these services in return for recognising that you have visited our website.
+
+  
+Generally, cookies which are strictly necessary for the operation of the website will expire when you leave the website. Other cookies may be more permanent or not expire unless you actively delete them. All browsers provide tools that allow you to control how you handle cookies: accept, reject or delete them. These settings are normally accessed via the 'preferences' or 'options' menu of the browser you are using.  
 
 
 Third Party Advertising   
