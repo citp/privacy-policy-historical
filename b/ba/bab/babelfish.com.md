@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babelfish.com privacy policy that was archived on 2013-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131114082652id_/http%3A//www.babelfish.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babelfish.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629205750id_/http%3A//www.babelfish.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BabelFish - Free Online Translator
 
