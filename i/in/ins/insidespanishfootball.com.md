@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insidespanishfootball.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208051426id_/http%3A//www.insidespanishfootball.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidespanishfootball.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629021835id_/http%3A//www.insidespanishfootball.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,15 +6,15 @@ Inside Spanish Football Limited (“We”) are committed to protecting and respe
 
 This policy (together with our [terms of use ](http://www.insidespanishfootball.com/about/terms-conditions/ "Terms & Conditions")and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-For the purpose of the Data Protection Act 1998 (the Act), the data controller is [COMPANY NAME] of [ADDRESS].
+For the purpose of the Data Protection Act 1998 (the Act), the data controller is Inside Spanish Football Limited of Spain.
 
-Our nominated representative for the purpose of the Act is [NAME].
+Our nominated representative for the purpose of the Act is Thomas Conn.
 
 INFORMATION WE MAY COLLECT FROM YOU
 
 We may collect and process the following data about you:
 
-* Information that you provide by filling in forms on our site www.insidespanishfootball.com (our site). This includes information provided at the time of registering to use our site, subscribing to our service, posting material or requesting further services. We may also ask you for information [when you enter a competition or promotion sponsored by [COMPANY NAME], and] when you report a problem with our site.
+* Information that you provide by filling in forms on our site www.insidespanishfootball.com (our site). This includes information provided at the time of registering to use our site, subscribing to our service, posting material or requesting further services. We may also ask you for information [when you enter a competition or promotion sponsored by Inside Spanish Football Limited, when you report a problem with our site.
 
 * If you contact us, we may keep a record of that correspondence.
 
@@ -24,11 +24,9 @@ We may collect and process the following data about you:
 
 * Details of your visits to our site including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access.
 
-* [DESCRIBE ANY OTHER TYPES OF INFORMATION COLLECTED]
-
 IP ADDRESSES
 
-We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users’ browsing actions and patterns, and does not identify any individual.
+We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users' browsing actions and patterns, and does not identify any individual.
 
 COOKIES
 
@@ -38,7 +36,7 @@ also allows us to improve our site. For detailed information on the cookies we u
 
 WHERE WE STORE YOUR PERSONAL DATA
 
-The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (“EEA”). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
+The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
 
 Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
 
@@ -78,7 +76,7 @@ We may disclose your personal information to third parties:
 
 * If Inside Spanish Football Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
 
-* If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use or [terms and condition](http://www.insidespanishfootball.com/about/terms-conditions/ "Terms & Conditions")s of supply and other agreements; or to protect the rights, property, or safety of Inside Spanish Football, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.]
+* If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use or [terms and condition](http://www.insidespanishfootball.com/about/terms-conditions/ "Terms & Conditions")s of supply and other agreements; or to protect the rights, property, or safety of Inside Spanish Football, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
 YOUR RIGHTS
 
