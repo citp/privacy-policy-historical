@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the governmentjobsnews.in privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127142220id_/http%3A//www.governmentjobsnews.in/2013/06/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the governmentjobsnews.in privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629172219id_/http%3A//www.governmentjobsnews.in/2013/06/privacy-policy.html) for the most accurate reproduction.*
 
-# privacy policy ~ Government Jobs | Recruitment 2013-2014 | SSC | UPSC| IBPS | Railway jobs
+# privacy policy | Government Jobs 2014 Recruitment 2014 SSC UPSC IBPS Railway jobs
 
 **Privacy Policy for http://www.governmentjobsnews.in/**  
 
@@ -32,3 +32,5 @@ If you wish to disable cookies, you may do so through your individual browser op
   
 regards  
 www.governmentjobsnews.in
+
+Advertisements 
