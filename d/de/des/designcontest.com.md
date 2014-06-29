@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the designcontest.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209060437id_/http%3A//www.designcontest.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designcontest.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629232528id_/http%3A//www.designcontest.com/privacy) for the most accurate reproduction.*
 
 # Privacy | DesignContest ®
 
-Hanei Marketing Inc. (hereinafter, referred to as ‘Company’ or ‘We’ or ‘Our’ or ‘Us’), a Delaware Corporation, owns, manages and operates DesignContest.com (hereinafter, referred to as ‘Website’). This Privacy Policy (hereinafter, referred to as ‘Policy’) informs the users (hereinafter, referred to as ‘You’ or ‘Your’) about the manner in which We collect, use, protect, and, disclose their personal and non-personal information. By accessing or using any of the features of this Website, You acknowledge that You have read, understood and agree to the provisions of this Policy.
+Designcontest Ltd (hereinafter, referred to as ‘Company’ or ‘We’ or ‘Our’ or ‘Us’), a Delaware Corporation, owns, manages and operates DesignContest.com (hereinafter, referred to as ‘Website’). This Privacy Policy (hereinafter, referred to as ‘Policy’) informs the users (hereinafter, referred to as ‘You’ or ‘Your’) about the manner in which We collect, use, protect, and, disclose their personal and non-personal information. By accessing or using any of the features of this Website, You acknowledge that You have read, understood and agree to the provisions of this Policy.
 
  **Updates**
 
