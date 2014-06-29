@@ -1,558 +1,550 @@
-<!--The following is the downloaded HTML source of the utorrent.com privacy policy that was archived on 2013-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131230151750id_/http%3A//www.utorrent.com/legal/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the utorrent.com privacy policy that was archived on 2014-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140629140051id_/http%3A//www.utorrent.com/legal/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<title>Privacy Policy - µTorrent - a (very) tiny BitTorrent client</title>
-
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-
-<script id="twitter-wjs" src="//platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script src="//cdn.optimizely.com/js/50136351.js"></script>
-<script type="text/javascript" async="" src="//platform.twitter.com/widgets.js"></script></head><body><div id="fb-root"></div>
-<script>(function(d, s, id) {
-	var js, fjs = d.getElementsByTagName(s)[0];
-	if (d.getElementById(id)) return;
-	js = d.createElement(s); js.id = id;
-	js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
-	fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-	
-	<meta name="description" content="µTorrent is a lightweight and efficient BitTorrent client for Windows or Mac with many features.">
-	<meta name="keywords" content="utorrent, µTorrent, torrent, bittorrent, microtorrent, client, windows, mac, osx">
-
-<link rel="shortcut icon" href="/faviconUT.ico">
-<link href="/stylesheets/screen.css?1385411537" rel="stylesheet" type="text/css">
-<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
-
-<!--[if IE]><link rel="stylesheet" href="/stylesheets/iefixes.css?1385411537"><![endif]-->
-<!--[if IE 6]><link rel="stylesheet" href="/stylesheets/ie6fixes.css?1385411537"><![endif]-->
-<!--[if IE 7]><link rel="stylesheet" href="/stylesheets/ie7fixes.css?1385411537"><![endif]-->
-<!--[if IE 8]><link rel="stylesheet" href="/stylesheets/ie8fixes.css?1385411537"><![endif]-->
-<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-
-<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
-</script>
-<script type="text/javascript">
-	try {
-		GS_googleAddAdSenseService("ca-pub-2464463435440936");
-		GS_googleEnableAllServices();
-	} catch (e) {
-		// do nothing
-	}
-</script>
-<script type="text/javascript">
-	try {
-		GA_googleAddSlot("ca-pub-2464463435440936", "UT-Community-728x90");
-		GA_googleAddSlot("ca-pub-2464463435440936", "UT-Forums-728x90");
-		GA_googleAddSlot("ca-pub-2464463435440936", "UT-GetStarted-728x90");
-		GA_googleAddSlot("ca-pub-2464463435440936", "UT-Help728x90");
-		GA_googleAddSlot("ca-pub-2464463435440936", "UT-PostDownload-728x90");
-	} catch (e) {
-		// do nothing
-	}
-</script>
-<script type="text/javascript">
-	try {
-		GA_googleFetchAds();
-	} catch (e) {
-		// do nothing
-	}
-</script>
-
-<script type="text/javascript">
-	$.ajax({
-		url: "//www.utorrent.com/scripts/headers.php",
-		dataType: 'jsonp',
-		success: function(headers) {
-			language = headers['Accept-Language'];
-			country = headers['Geoip-Country-Code'];
-			var userlang = language.substring(0,2);
-			var languages = ["zh_cn","de","en","es","fr","it","ko","nl","ru","pl","pt","pt_br","tr","ja"];			
-			var uselang = false;
-			var cookies = document.cookie.split(';');
-			for (i=0;i<cookies.length;i++) {
-				if (cookies[i].indexOf('language') != -1) {
-					languagedata = cookies[i].split('=');
-					userlang = languagedata[1];
-				}
-			}
-			if (userlang.substring(0,2) != 'en' && window.location.pathname.indexOf('/intl/') == -1) {
-				for (i=0; i<languages.length; i++) {
-					if (userlang == languages[i]) {
-						uselang = userlang;
-						break;
-					}
-					else if(userlang == 'zh'){
-						uselang = 'zh_cn';
-						break;
-					}
-				}
-				if (!uselang) {
-					for (i=0; i<languages.length; i++) {
-						if (userlang.substring(0,2) == languages[i]) {
-							uselang = userlang.substring(0,2);
-							break;
-						}
-					}
-				}
-			}
-				
-			// Redirect US visitors
-			if(typeof getCountry == 'function' && country == 'US') {
-				var path = window.location.pathname + window.location.search + window.location.hash;
-				var patharr = path.split('/');
-				if (patharr[1] == 'intl')
-					path = path.split('/intl/'+patharr[2])[1];
-
-				if(path in {'/utorrent-plus/features':'', '/utorrent-plus':'','/utorrent-free':'','/utorrent-free/':'','/utorrent-plus/features/':'', '/utorrent-plus/': '','/utorrent-plus/index': '','/utorrent-free/index': '','/utorrent-free/index/': '','/utorrent-plus/index/': '', '/cm/utorrent-plus': '', '/cm/utorrent-plus/': ''})
-					 { window.location = window.location+'?us'; }
-				else if(path in {'/utorrent-plus/features#media_player':'','/utorrent-plus/features/#media_player':'', '/utorrent-plus/features#converter':'','/utorrent-plus/features/#converter':'','/utorrent-plus/features#antivirus':'', '/utorrent-plus/features/#antivirus':'', '/utorrent-plus/features#remote_access': '', '/utorrent-plus/features/#remote_access': ''})
-				     { window.location = document.location.href.replace(location.hash, "?us"+location.hash );}
-				else {
-					if(window.location.hash) {
-						// appends _us before #
-						window.location = document.location.href.replace(location.hash, "_us"+location.hash );
-					} else{
-						window.location = window.location+'_us';
-					}
-				}
-			 }
-			
-			if (uselang) {
-				window.location = window.location.pathname.replace("/","/intl/"+uselang+"/")+window.location.search;
-			}
-		}
-	});
-	//]]>
-//}
-</script>
-<!-- Begin comScore Tag -->
-<script>
-var _comscore = _comscore || [];
-_comscore.push({ c1: "2", c2: "17330952" });
-(function() {
- var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
- s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
- el.parentNode.insertBefore(s, el);
- })();
-</script>
-<!-- End comScore Tag -->
-
-<script type="text/javascript">
-
-	var _gaq = _gaq || [];
-	var pluginUrl = '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
-	_gaq.push(['_require', 'inpage_linkid', pluginUrl]);
-	_gaq.push(['_setAccount', 'UA-116155-1']);
-	_gaq.push(['_setDomainName', 'utorrent.com']);
-	_gaq.push(['_trackPageview']);
-	_gaq.push(['_setAllowLinker', true]);
-
-
-	(function() {
-		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-		ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
-		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-	})();
-
-</script>
-
-<!-- Google Analytics Social Button Tracking -->
-<script type="text/javascript" src="/scripts/ga_social_tracking.js"></script>
-
-<!-- Load Twitter JS-API asynchronously -->
-<script>
-(function(){
-var twitterWidgets = document.createElement('script');
-twitterWidgets.type = 'text/javascript';
-twitterWidgets.async = true;
-twitterWidgets.src = '//platform.twitter.com/widgets.js';
-// Setup a callback to track once the script loads.
-twitterWidgets.onload = _ga.trackTwitter;
-document.getElementsByTagName('head')[0].appendChild(twitterWidgets);
-})();
-</script>
-
-
-
-
-<script type="text/javascript">
-	//<![CDATA[
-	if(top != self) top.location.replace(location);
-	//]]>
-</script>
-
-<div id="mainwrapper">
-	<!-- Begin Header -->
-	<div id="headerwrapper">
-		<div class="header">
-			<p class="logo"><a href="//www.utorrent.com/" title="µTorrent - Home" class="logoimg" id="retina" style="background: url(/images/interface/utorrentLogo.png) 12px 14px no-repeat;">µTorrent</a></p>
-			<script type="text/javascript">
-	//<![CDATA[
-	var toggleLanguage = function() {
-		this._toggle=!this._toggle; var elm = document.getElementById('langpop').style.display=(this._toggle)?'block':'none';
-	}
-	//]]>
-</script>
-
-<ul class="globalnav">
-			<li class="topli">
-			<a class="topa langtoggle" onclick="toggleLanguage();return false;">
-									English
-							</a>
-			<div style="clear:left;"><!-- --></div>
-			<span class="dropdownarrow"><!-- --></span>
-			<ul class="dropdown">
-				<li><a href="//www.utorrent.com/index/setLocale/locale/en" onclick="javascript:pageTracker._trackPageview('/index/setLocale/locale/en');" class="dda">English</a></li>
-															<li><a href="//www.utorrent.com/index/setLocale/locale/zh-cn" onclick="javascript:pageTracker._trackPageview('/index/setLocale/locale/zh-cn');" class="dda">中文（简体）</a></li>
-																				<li><a href="//www.utorrent.com/index/setLocale/locale/de" onclick="javascript:pageTracker._trackPageview('/index/setLocale/locale/de');" class="dda">Deutsch</a></li>
-																				<li><a href="//www.utorrent.com/index/setLocale/locale/es" onclick="javascript:pageTracker._trackPageview('/index/setLocale/locale/es');" class="dda">Español</a></li>
-																				<li><a href="//www.utorrent.com/index/setLocale/locale/fr" onclick="javascript:pageTracker._trackPageview('/index/setLocale/locale/fr');" class="dda">Français</a></li>
-																				<li><a href="//www.utorrent.com/index/setLocale/locale/it" onclick="javascript:pageTracker._trackPageview('/index/setLocale/locale/it');" class="dda">Italiano</a></li>
-																				<li><a href="//www.utorrent.com/index/setLocale/locale/ko" onclick="javascript:pageTracker._trackPageview('/index/setLocale/locale/ko');" class="dda">한국어</a></li>
-																				<li><a href="//www.utorrent.com/index/setLocale/locale/nl" onclick="javascript:pageTracker._trackPageview('/index/setLocale/locale/nl');" class="dda">Nederlands</a></li>
-																				<li><a href="//www.utorrent.com/index/setLocale/locale/ru" onclick="javascript:pageTracker._trackPageview('/index/setLocale/locale/ru');" class="dda">русский</a></li>
-																				<li><a href="//www.utorrent.com/index/setLocale/locale/pl" onclick="javascript:pageTracker._trackPageview('/index/setLocale/locale/pl');" class="dda">Polszczyzna</a></li>
-																				<li><a href="//www.utorrent.com/index/setLocale/locale/pt" onclick="javascript:pageTracker._trackPageview('/index/setLocale/locale/pt');" class="dda">Português</a></li>
-																				<li><a href="//www.utorrent.com/index/setLocale/locale/pt_br" onclick="javascript:pageTracker._trackPageview('/index/setLocale/locale/pt_br');" class="dda">Português (Brasil)</a></li>
-																				<li><a href="//www.utorrent.com/index/setLocale/locale/tr" onclick="javascript:pageTracker._trackPageview('/index/setLocale/locale/tr');" class="dda">Türkçe</a></li>
-																				<li><a href="//www.utorrent.com/index/setLocale/locale/ja" onclick="javascript:pageTracker._trackPageview('/index/setLocale/locale/ja');" class="dda">日本語</a></li>
-												</ul>
-		</li>
-		
-				<li class="topli"><a href="https://twitter.com/utorrent" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false" style="font-size:8px; text-decoration:none;color:#666">Follow</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></li>
-				
-		<li class="topli"><a href="http://www.facebook.com/utorrent" target="_blank"><img border="0" style="border:none;" src="/images/interface/like_bttn_hack.gif"></a>
-		<script type="text/javascript">_ga.trackFacebook();</script></li>
-
-</ul>
-    		<!-- Begin Navigation -->
-			<ul class="primarynav">
-			<li class="topli"><a href="//www.utorrent.com/get-started" class="topa get-started">Get Started</a>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+    <title>Privacy Policy - BitTorrent - Delivering the World’s Content</title><meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta name="keywords" content="bittorrent, BitTorrent, torrent, bittorrent, client, windows, mac, osx">
+<meta name="description" content="BitTorrent is a fast and easy client for Windows and Mac with many features.">
+<meta property="og:title" content="Privacy Policy - BitTorrent - Delivering the World’s Content">
+<meta property="og:type" content="website">
+<meta property="og:image" content="http://www.bittorrent.com/images/logo/btlogo.jpg">
+<meta property="og:url" content="http://www.bittorrent.com/legal/privacy">
+<meta property="og:description" content="BitTorrent is a fast and easy client for Windows and Mac with many features.">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimum-scale=1.0, maximum-scale=1.0">
+<meta name="apple-itunes-app" content="app-id=665156116">
+<meta name="google-play-app" content="app-id=com.bittorrent.sync">
+<meta name="author" content="BitTorrent, Inc."><link href="/stylesheets/screen.css?1399313897" media="screen" rel="stylesheet" type="text/css">
+<link href="/stylesheets/base.css?1400008786" media="screen" rel="stylesheet" type="text/css">
+<link href="/stylesheets/normalize.css?1385411531" media="screen" rel="stylesheet" type="text/css">
+<!--[if IE 7]> <link href="/stylesheets/ie7.css?1399313897" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
+<!--[if IE 8]> <link href="/stylesheets/ie8.css?1397173917" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
+<link href="/stylesheets/lining-compiled.css?1385411531" media="screen" rel="stylesheet" type="text/css">
+<link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" media="screen" rel="stylesheet" type="text/css">
+<link href="/stylesheets/jquery.smartbanner.css?1389835228" media="screen" rel="stylesheet" type="text/css">
+<link href="/faviconNew.ico" rel="shortcut icon">
+<link href="/images/site/syncBannerIcon.png" rel="apple-touch-icon">
+<link href="http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600,300,400,700&amp;subset=latin,cyrillic,latin-ext" rel="stylesheet" type="text/css"><script type="text/javascript" async="" src="//s3.amazonaws.com/ki.js/49207/aDT.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MSNVL9"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" async="" src="https://engine.ap.bittorrent.com/ados.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+    //<![CDATA[
     
-</li>	    		<script type="text/javascript">
-	
-	function SniffMacNav() {
-		if(navigator.userAgent.indexOf("Mac") != -1) 
-		{document.getElementById("ifmacPlus").href="//www.utorrent.com/utorrent-plus/index/onmac?frm_header";
-		document.getElementById("ifmacFree").href="//www.utorrent.com/utorrent-free/index/onmac?frm_header";		
-		}
-	}
-		
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-747528-1', 'auto', {'allowLinker': true});
+    ga('require', 'linkid', 'linkid.js');
+    ga('send', 'pageview');
+    //]]>
 </script>
+<script type="text/javascript" src="//cdn.optimizely.com/js/50136351.js"></script>
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.0/jquery.min.js"></script>
+<script type="text/javascript">
+    //<![CDATA[
+    window.jQuery || document.write('<script src="/scripts/site/jquery-1.7.0.min.js"><\/script>')    //]]>
+</script><script src="/scripts/site/jquery-1.7.0.min.js"></script>
+<!--[if lt IE 9]> <script type="text/javascript" src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+<script type="text/javascript" src="/scripts/site/base.js?1402695478"></script>
+<script type="text/javascript" src="/scripts/site/jquery.smartbanner.js"></script>
+<script type="text/javascript" src="/scripts/site/detection.js?1400003703"></script>
+<!--[if lt IE 9]> <script type="text/javascript" src="/scripts/site/respond.min.js?1385411531"></script><![endif]-->
+<script type="text/javascript">
+    //<![CDATA[
+    
+    var _comscore = _comscore || [];
+    _comscore.push({ c1: "2", c2: "17330952" });
+    (function() {
+        var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+        s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+        el.parentNode.insertBefore(s, el);})();    //]]>
+</script>
+<script type="text/javascript">
+    //<![CDATA[
+    
+   var p="http",d="static";if(document.location.protocol=="https:"){p+="s";d="engine";}
+   var z=document.createElement("script");z.type="text/javascript";z.async=true;z.src=p+"://"+d+".ap.bittorrent.com/ados.js";
+   var s=document.getElementsByTagName("script")[0];s.parentNode.insertBefore(z,s);
+    //]]>
+</script>
+<script type="text/javascript">
+    //<![CDATA[
+    
+   var ados = ados || {};
+   ados.run = ados.run || [];
+   ados.run.push(function() {
+  /* load placement for account: BitTorrent, site: BitTorrent.com, size: 728x245 - 728 x 245, zone: Development Website - BitTorrent.com*/
+   ados_add_placement(5682, 50614, "azk956", 1870).setZone(57118);
+  /* load placement for account: BitTorrent, site: BitTorrent.com, size: 728x90 - Leaderboard, zone: Development Website - BitTorrent.com*/
+   ados_add_placement(5682, 50614, "azk99192", 4).setZone(57118);
+   ados_setDomain('engine.ap.bittorrent.com');
+   ados_load();
+});
+    //]]>
+</script>
+<script type="text/javascript">
+    //<![CDATA[
+    
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    (function() {
+       var gads = document.createElement('script');
+       gads.async = true;
+       gads.type = 'text/javascript';
+       var useSSL = 'https:' == document.location.protocol;
+       gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+       var node = document.getElementsByTagName('script')[0];
+       node.parentNode.insertBefore(gads, node);
+     })();
 
-<li class="topli"><a href="//www.utorrent.com/utorrent-free" class="topa features">Products</a>
-	<span class="dropdownarrow"><!-- --></span>
-    <ul class="dropdown">
-	    <li><a class="dda" onclick="SniffMacNav();" id="ifmacFree" href="//www.utorrent.com/utorrent-free">µTorrent Free</a></li>
-        <li><a class="dda" onclick="SniffMacNav();" id="ifmacPlus" href="//www.utorrent.com/utorrent-plus">µTorrent Plus</a></li>
-		<li><a class="dda" href="//www.utorrent.com/utorrent-control">µTorrent Control</a></li>
-		<li><a class="dda" href="//www.utorrent.com/utorrent-android">µTorrent Android</a></li>
-		<li><a class="dda" href="//www.utorrent.com/utorrent-remote">µTorrent Remote</a></li>
-    </ul>
-	
-	</li>
-	
-			<li class="topli"><a href="//www.utorrent.com/community" class="topa community">Community</a>
-    <span class="dropdownarrow"><!-- --></span>
-    <ul class="dropdown">
-        <li><a class="dda" href="//forum.utorrent.com">Forums</a></li>
-        <li><a class="dda" href="//www.utorrent.com/community/ideabank">Idea Bank</a></li>
-        <li><a class="dda" href="//www.utorrent.com/community/developers">Developers</a></li>
-        <li><a class="dda" href="//www.utorrent.com/get-started/skins">Browse Skins</a></li>
-    </ul>
-</li>			<li class="topli"><a href="//www.utorrent.com/help" class="topa help">Help</a>
-    <span class="dropdownarrow"><!-- --></span>
-    <ul class="dropdown">
-        <li><a href="//www.utorrent.com/help/faq" class="dda">FAQs</a></li>
-        <li><a href="//www.utorrent.com/help/guides" class="dda">Videos &amp; Guides</a></li>
-    </ul>
-</li>				<li class="topli"><a href="//www.utorrent.com/utorrent-plus/?frm_hdr_btn" id="" class="topa header_downloadbutton hpdownload"><span class="br"><span class="bl">Get µTorrent</span></span></a></li>
-			</ul><!-- End Navigation -->
-		</div>
-	</div><!-- End Header -->
+    googletag.cmd.push(function() {
+    googletag.defineSlot('/1035372/BT-Home-Right310x220', [310, 220], 'div-gpt-ad-1383695822109-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+	});    //]]>
+</script>      </head>
+  <body class="old">
+  <!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MSNVL9"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MSNVL9');</script>
+<!-- End Google Tag Manager -->
+  <div class="default_container"></div>
+  
+  <div class="container">
+  <!--[if lt IE 7 ]>
+<div class="wiserBrowser" style="background:#F6DFDF; border-bottom:1px solid #f00; height:75px; left:0; padding:10px 0 12px; width:100%; position:relative; z-index:100">
+    <div style="color:#000; margin:0 auto; padding:0; overflow:hidden; position:relative; text-align:left; width:920px;">
+        <div style="float:left; margin-right:20px"><img src="http://www.wiserbrowser.com/img/alert/attention.png" alt="Warning!"/></div>
+        <div style="float:left; font-family:Arial,sans-serif; width:442px">
+            <p style="font-size:16px; font-weight:bold; line-height:1; margin-top:8px">You're Using an Outdated Web Browser</p>
+            <p style="font-size:14px; line-height:1.3; margin-top:5px">In order to experience this website properly, please upgrade.<br>Learn more at <a href="http://wiserbrowser.com" style="color:#c00; text-decoration:underline; border:none">www.wiserbrowser.com</a></p>
+        </div>
+        <a style="border:none; float:left; margin-right:12px" href="http://www.google.com/chrome" target="_blank"><img src="http://www.wiserbrowser.com/img/alert/chrome.png" style="border: none;" alt="Download Chrome"/></a>
+        <a style="border:none; float:left; margin-right:12px" href="http://www.firefox.com/" target="_blank"><img src="http://www.wiserbrowser.com/img/alert/firefox.png" style="border: none;" alt="Download Firefox"/></a>
+        <a style="border:none; float:left; margin-right:12px" href="http://www.apple.com/safari/" target="_blank"><img src="http://www.wiserbrowser.com/img/alert/safari.png" style="border: none;" alt="Download Chrome"/></a>
+        <a style="border:none; float:left; margin-right:12px" href="http://www.opera.com/" target="_blank"><img src="http://www.wiserbrowser.com/img/alert/opera.png" style="border: none;" alt="Download Opera"/></a>
+        <a style="border:none; float:left; margin-right:12px" href="http://www.microsoft.com/windows/internet-explorer/" target="_blank"><img src="http://www.wiserbrowser.com/img/alert/ie.png" style="border: none;" alt="Download Internet Explorer"/></a>
+        <a style="border:none; font-weight:bold; position:absolute; right:3px; top:3px" href="#" onclick='javascript:this.parentNode.parentNode.style.display="none"; return false;'><img src="http://www.wiserbrowser.com/img/alert/close.png" style="border: none;" alt="Close notification"/></a>
+    </div>
+</div>
+<![endif]--> 
 
-	<script type="text/javascript">
-		var retina = window.devicePixelRatio > 1 ;
-		if(retina)
-			document.getElementById('retina').setAttribute('style', 'width: 165px; background: url(/images/interface/utorrentLogoRetina.png) 0px 14px no-repeat; background-size: 82px 54px;');;
+<div class="heading ">
+    <div class="group">
+        <div class="item span-4" itemscope="" itemtype="http://schema.org/Organization">
+            <a itemprop="url" href="/" class="ga-et gat-btprivacy-TopNav-Click-Logo">
+                <img itemprop="logo" class="logo" alt="official BitTorrent logo" src="/images/logo/logo.png">
+            </a>
+            <div class="mobile_nav_control"><a href="#_" class="icon-link icon-44 menu-44 MOBILE_NAV_CTL">Menu</a></div>
+        </div><!--end .item-->
+        <div class="item skip-6 span-14 topmenu MENU_ITM">
+            <ul id="DROP_NAV" class="hover-nav">
+                    <li>
+        <a href="/get-started">Get Started</a>
+        <div class="sub-container dd-container" style="display:none;">
+            <div class="dd-unit">
+                <ul class="dd-list">
+                    <li><a href="/get-started">BitTorrent<sup>®</sup></a></li>
+                    <li><a href="/sync/get-started">Sync</a></li>
+                </ul>
+            </div>
+        </div>
+    </li>
+    <li>
+        <!--main link-->
+        <a href="/bittorrent-free" class="dd-default">Products</a> <!---->
+        <!--drop down-->
+        <div class="sub-container dd-container" style="display:none;">
+            <div class="dd-unit">
+                <ul class="dd-list">
+                    <li><a href="/bittorrent-free">Free</a></li>
+                    <li><a href="/bittorrent-plus">Plus</a></li>
+                    <li><a href="/bittorrent-control">Control</a></li>
+                    <li><a href="/bittorrent-android">Android</a></li>
+                    <li><a href="/bittorrent-remote">Remote</a></li>
+                    <li class="menu-spacer"></li>
+                    <li><a href="/devices">Devices</a></li>
+                    <li class="menu-spacer"></li>
+                    <li><a href="/sync">Sync</a></li>
+                </ul>
+            </div>
+        </div>
+    </li>
+    <li><a href="http://forum.bittorrent.com" class="dd-default">Community</a> <!---->
+    </li>
+    <li>
+        <a href="http://blog.bittorrent.com/?utm_source=bittorrent&amp;utm_medium=header_link&amp;utm_campaign=bittorrent_topnav_link" target="_blank" class="dd-default ga-et gat-Outbound_Links-Primary_Nav_Link-Blog">Blog</a>
+    </li>
+    <li>
+        <!--main link-->
+        <a href="/help" class="dd-default">Help</a> <!---->
+        <!--drop down-->
+        <div class="sub-container dd-container" style="display:none;">
+            <div class="dd-unit">
+                <ul class="dd-list">
+                    <li><a href="/help/faq">FAQs</a></li>
+                    <li><a href="/help/guides">Videos &amp; Guides</a></li>
+                    <li><a href="/help/manual/">User Manual</a></li>
+                </ul>
+            </div>
+        </div>
+    </li>
+    <!--hack--><li style="display:none;">&nbsp;</li>
+            </ul>
+        </div><!--end .item-->
+    </div><!--.group-->
+</div><!--.heading-->
 
-		if (document.getElementById('downloadlink') !== null) {
-			var OS = navigator.platform;
-			if (OS.indexOf('Mac') != -1) {
-				document.getElementById('downloadlink').href = '//www.utorrent.com/downloads/complete/os/osx';
-			} else if (OS.indexOf('Linux') != -1) {
-				document.getElementById('downloadlink').href = '//www.utorrent.com/downloads/complete/os/lin/track/alpha';
-			}
-		}
-	</script>
-
-	<script type="text/javascript">
-		if (document.getElementById('PlusDownloadLink') !== null) {
-			var OS = navigator.platform;
-			if (OS.indexOf('Mac') != -1) {
-				document.getElementById('PlusDownloadLink').href = '//www.utorrent.com/downloads/complete/os/osx';
-			} else if (OS.indexOf('Linux') != -1) {
-				document.getElementById('PlusDownloadLink').href = '//www.utorrent.com/downloads/complete/os/lin/track/alpha';
-			}
-		}
-	</script>
-	<span class="copyrightfloat">&nbsp;</span>
-	<div id="main">
-
-
-
+<div class="mobile_nav MOBILE_NAV_ITM" style="display:none;">
+    <div class="group">
+        <div class="item">
+            <ul id="MOBILE_NAV">
+                    <li>
+        <a href="/get-started">Get Started</a>
+        <div class="sub-container dd-container" style="display:none;">
+            <div class="dd-unit">
+                <ul class="dd-list">
+                    <li><a href="/get-started">BitTorrent<sup>®</sup></a></li>
+                    <li><a href="/sync/get-started">Sync</a></li>
+                </ul>
+            </div>
+        </div>
+    </li>
+    <li>
+        <!--main link-->
+        <a href="/bittorrent-free" class="dd-default">Products</a> <!---->
+        <!--drop down-->
+        <div class="sub-container dd-container" style="display:none;">
+            <div class="dd-unit">
+                <ul class="dd-list">
+                    <li><a href="/bittorrent-free">Free</a></li>
+                    <li><a href="/bittorrent-plus">Plus</a></li>
+                    <li><a href="/bittorrent-control">Control</a></li>
+                    <li><a href="/bittorrent-android">Android</a></li>
+                    <li><a href="/bittorrent-remote">Remote</a></li>
+                    <li class="menu-spacer"></li>
+                    <li><a href="/devices">Devices</a></li>
+                    <li class="menu-spacer"></li>
+                    <li><a href="/sync">Sync</a></li>
+                </ul>
+            </div>
+        </div>
+    </li>
+    <li><a href="http://forum.bittorrent.com" class="dd-default">Community</a> <!---->
+    </li>
+    <li>
+        <a href="http://blog.bittorrent.com/?utm_source=bittorrent&amp;utm_medium=header_link&amp;utm_campaign=bittorrent_topnav_link" target="_blank" class="dd-default ga-et gat-Outbound_Links-Primary_Nav_Link-Blog">Blog</a>
+    </li>
+    <li>
+        <!--main link-->
+        <a href="/help" class="dd-default">Help</a> <!---->
+        <!--drop down-->
+        <div class="sub-container dd-container" style="display:none;">
+            <div class="dd-unit">
+                <ul class="dd-list">
+                    <li><a href="/help/faq">FAQs</a></li>
+                    <li><a href="/help/guides">Videos &amp; Guides</a></li>
+                    <li><a href="/help/manual/">User Manual</a></li>
+                </ul>
+            </div>
+        </div>
+    </li>
+    <!--hack--><li style="display:none;">&nbsp;</li>
+                <li class="DD_SYNC_CTL">
+                    <!--main link-->
+                    <a href="/sync" class="dd-default">Sync</a> <!---->
+                    <!--drop down-->
+                    <div class="dd-container DD_SYNC_ITM" style="display:none;">
+                        <div class="dd-unit">
+                            <ul class="dd-list">
+                                <li><a href="/sync/get-started/mobile">Get Started</a></li>
+                                <li><a href="/sync/downloads" class="">Downloads</a></li>
+                                <li><a href="/sync/technology">Technology</a></li>
+                                <li><a href="/sync/help/mobile-manual">Mobile Manual</a></li>
+                                <li><a href="/help/faq/sync">FAQ</a></li>
+                                <li><a href="http://forum.bittorrent.com/forum/56-bittorrent-sync/" target="_blank">Forums</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </li>
+            </ul>
+        </div><!--end .item-->
+    </div><!--.group-->
+</div><!--.heading-->
+<div id="main">
+<br><br>
 <!-- Begin Page Content -->
 	<div class="content clearfix">
     	<!-- Begin Primary Coloumn -->
             <h1>Privacy Policy</h1>
-
+			<p>Date of last revision February 12, 2014</p>
 			<div class="thickhr"><!-- --></div>
-			
 			<p>&nbsp;</p>
-            
-            <p><a href="/">utorrent.com</a> and various software applications and services provided through the <a href="/">utorrent.com</a> website, are owned and operated by BitTorrent, Inc. BitTorrent, Inc. is committed to respecting the privacy rights and concerns of all users of our websites, applications and services. As such, we have established and implemented this privacy policy to inform visitors to the sites and users of the applications and services how we use and protect the information we collect. If you have any questions regarding this information or our privacy practices, please see the section entitled "Questions? Contact Us" at the end of this privacy policy.</p>
-            
-            <h3>What information does µTorrent collect and how does µTorrent use it?</h3>
+
+            <p>BitTorrent, Inc. is committed to respecting the privacy rights and concerns of all users of our websites ("Sites"), applications and services (collectively, the "Services"). As such, we have established and implemented this privacy policy to inform visitors to the Sites and users of the Services how we use and protect the information we collect. If you have any questions regarding this information or our privacy practices, please see the section entitled "Questions? Contact Us" at the end of this privacy policy.</p>
+
+            <h3>What information does BitTorrent, Inc. collect and how does BitTorrent use it?</h3>
             <ul>
                 <li>
-                    <h4>How the µTorrent Client Works</h4>
-                    <p>The µTorrent Client is a software application on your machine that manages downloads. It downloads files quickly by trading pieces with other users who are also downloading (or have downloaded) the same content. Your use of the µTorrent Client to download files will, in turn, enable other µTorrent users (or users of other clients that communicate using the Bittorrent protocol, including clients that are unaffiliated with BitTorrent, Inc.) to download pieces of those files from you. Although your IP address is associated with your piece of the file, other users will not have access to any other personal information about you.</p>
-                    <p>We do not track which files you transfer with the µTorrent Client. Merely using the µTorrent Client does not cause a record of which files you transfer to be kept by BitTorrent or BitTorrent on behalf of any third party.</p>
+                    <h4>How the BitTorrent Client Works</h4>
+                    <p>The BitTorrent Client is a software application on your machine that manages downloads. It downloads files quickly by trading pieces with other users who are also downloading (or have downloaded) the same content. Your use of the BitTorrent Client to download files will, in turn, enable other BitTorrent users (or users of other clients that communicate using the BitTorrent protocol, including clients that are unaffiliated with BitTorrent, Inc.) to download pieces of those files from you. Although your IP address is associated with your piece of the file, other users will not have access to any other personal information about you.</p>
+					<p>We do not track which files you transfer with the BitTorrent Client. Merely using the BitTorrent Client does not cause a record of which files you transfer to be kept by BitTorrent or BitTorrent on behalf of any third party.</p>
                 </li>
                 <li>
                     <h4>Gathering and Use of Anonymous Information</h4>
-                    <p>Each time a visitor comes to one of our websites (including <a href="/">utorrent.com</a>), we collect some limited information that your browser routinely makes available whenever you visit a website. We collect this data to improve the overall quality of the online experience, including product monitoring, product improvement, and targeted advertising. This information includes your Internet Protocol address, browser type, browser language, the date and time of your query and one or more cookies that may uniquely identify your browser.</p>
-                    <p>In addition to collecting these types of information, BitTorrent collects aggregate queries for internal reporting and targeted advertising. We also count, track, and aggregate the visitor's activity into our analysis of general traffic flows at our websites (e.g. tracking where traffic comes from, how traffic flows within the websites, etc.). To these ends, we may merge information about you into group data, which may then be shared on an aggregated basis with our advertisers; but BitTorrent will not disclose your individual identity or personal data without your permission.</p>
-                    <p>In the event that you provide us with answers to voluntary survey questions, we may present this information to our advertisers and partners, in the form of grouped statistics compiled from our users' answers to such questions.</p>
-                    <p>We also aggregate some data from our software applications (including µTorrent) regarding total traffic flows and content delivery performance of our Applications as well as other data collected in the use of our products or services in order to understand usability and monitor network conditions and compare the performance of Bittorrent and HTTP protocols on the public internet. End users may opt out of providing this information using a Preferences setting.</p>
+                    <p>Each time a visitor comes to one of our Sites (including utorrent.com), we collect some limited information that your browser routinely makes available whenever you visit a website. We collect this data to improve the overall quality of the online experience, including product monitoring, product improvement, and targeted advertising. This information includes your Internet Protocol address, browser type, browser language, the date and time of your query and one or more cookies that may uniquely identify your browser.</p>
+					<p>In addition to collecting these types of information, BitTorrent collects aggregate queries for internal reporting and targeted advertising. We also count, track, and aggregate the visitor's activity into our analysis of general traffic flows at our websites (e.g. tracking where traffic comes from, how traffic flows within the websites, etc.). To these ends, we may merge information about you into group data, which may then be shared on an aggregated basis with our advertisers; but BitTorrent will not disclose your individual identity or personal data without your permission.</p>
+					<p>In the event that you provide us with answers to voluntary survey questions, we may present this information to our advertisers and partners, in the form of grouped statistics compiled from our users’ answers to such questions.</p>
+					<p>We also aggregate some data from the BitTorrent Client regarding total traffic flows and content delivery performance as well as other data collected in the use of our products or services in order to understand usability and monitor network conditions and compare the performance of BitTorrent and HTTP protocols on the public internet. End users may opt out of providing this information using a Preferences setting.</p>
                 </li>
                 <li>
                     <h4>Gathering and Use of Personally Identifiable Information</h4>
-                    <p>You may visit the <a href="/">utorrent.com</a> website and use the µTorrent application without any registration at all. However, from time to time, we may enable certain additional functionality whereby you will have to create a user account. When you register and create an account, we may require you to provide us your contact information including your name, address, phone number and e-mail address, and other demographic information (such as date of birth, gender, age and interests). Your user name and password will be used so you can securely access and maintain your account. We may also use e-mail addresses and other personally identifiable information from time to time in order to gather and provide to our members and visitors improved content and features.</p>
-                    <p>Notwithstanding any other term of this Privacy Policy, we may release any personal information we obtain or collect when we believe its release is appropriate to comply with the law, enforce our Site policies, or protect ours or others' rights, property, or safety.</p>
+                    <p>You may visit the Sites and use the BitTorrent Client and many of the Services without any registration at all. However, from time to time, we may enable certain additional functionality or services whereby you will have to create a user account, and we may collect and process the following information about you:</p>
+                    <ul><li>information such as your name, address, phone number and e-mail address, and other demogaphic information (such as date of birth, gender, age, and interests) that you provide by completing forms on the Sites, including if you register as a user of the Services, subscribe to our mailing lists, upload or submit any material through the services, or request any information.</li>
+                        <li>your log-in and password details in connection with the account sign-in process;</li>
+                        <li>details of any requests or transactions made by you throughthe Service;</li>
+                        <li>communications you send to us, for example to report a problem or to submit queries, concerns, or comments regarding the Service or its content;</li>
+                        <li>information that you post to the Site in the form of comments or contributions to discussions; and</li>
+                        <li>IP addresses.</li>
+                    </ul>
+                    <p>We will use the personal information you provide to:</p>
+                    <ul><li>identify you when you sign-in to your account;</li>
+                        <li>enable us to provide you with the Services;</li>
+                        <li>send you information we think you may find useful or which you have requested from us;</li>
+                        <li>present projects to you when you use the Service which we believe will be of interest based on your geographic location and previous use of the Service;</li>
+                        <li>administer your account with us;</li>
+                        <li>enable us to contact you regarding any question you make through the Service;</li>
+                        <li>analyze the use of the Service and the people visiting to improve our content and Services; and</li>
+                        <li>use for other purposes that we may disclose to you when we request your information.</li>
+                    </ul>
+                    <p>Publishers of BitTorrent Bundles receive or have access to the e-mail addresses of users who sign up for such Publisher's mailing list through the Services.</p>
+                    <p>We may also use e-mail addresses and other personally identifiable information from time to time in order to gather and provide to our members and visitors improved content and features.</p>
+					<p>Notwithstanding any other term of this Privacy Policy, we may release any personal information we obtain or collect when we believe its release is appropriate to comply with the law, enforce our Site policies, or protect ours or others' rights, property, or safety.</p>
                 </li>
             </ul>
-                      
-            <h3>Spyware and Adware</h3>
-            <ul>
-                <li>
-                    <h4>We oppose spyware and adware.</h4>
-                    <p>Spyware is software installed on your computer without your consent or control. It can record and transmit your Internet activity and other personal information or change your computer's security settings. Adware is spyware that sends you unwanted pop-ups or spam. BitTorrent never uses these unwanted and harmful technologies.</p>
-                </li>
-            </ul>
-            
-            <h3>How does µTorrent protect customer information?</h3>
-            <p>We implement a variety of security measures to ensure the security of your personal information on our systems. User personal information is contained behind secured networks and is only accessible by a limited number of employees who have special access rights to such systems.</p>
-            
-            <h3>Does µTorrent use "cookies"?</h3>
-            <p>Cookies are small bits of electronic information that a web site can transfer to a visitor's hard drive to help tailor and keep records of his or her visit to the site. The use of cookies is standard on the Internet and many web sites use them. Cookies allow web site operators to better customize visits to the site to the visitor's individual preferences. For example, by setting a cookie you would not have to log in a password more than once, thereby saving time. We currently save password information in cookies. In addition, advertisements displayed on the µTorrent Features may contain cookies. The companies who serve our advertisements transfer cookies independent of us, and, as such, we do not control the use of such cookies and in many instances have no access to the information collected by them.</p>
-            <p>Although most Web browsers automatically accept cookies, you can usually change your browser to prevent that or to notify you when you are sent a cookie. Even without accepting a cookie, you can still access many, if not all, of the µTorrent Features. However, some parts of the µTorrent Features may not function properly if you refuse cookies.</p>
 
-            <h3>Does µTorrent disclose the information it collects from its visitors to outside parties?</h3>
-            <p>µTorrent does not currently sell, trade, or otherwise transfer outside the company personally identifiable information that visitors voluntarily provide in any registration or use of the µTorrent Features. This information is used to better understand visitors' use of the µTorrent features, to support related transactions made on or through the µTorrent features, and to better know our visitors and possibly tailor any specific features, promotions, or other notifications to them. However, this data in an aggregate form without any personally identifiable information may be provided to other parties for marketing, advertising, or other uses. Should you no longer wish to receive information from us, or should your information change, we have provided a way for you to correct, update or remove the personal data you gave us. You can do this simply by contacting us in any of the simple ways set forth below in the section entitled "How do you change the information we have for you?"</p>
-            <p>Finally, we may disclose your personally identifiable information upon a transfer or sale to another entity of all or substantially all of our assets or equity securities or upon any other corporate reorganization.</p>
-            
-            <h3>µTorrent's special note to parents.</h3>
-            <p>In compliance with the 1998 Children's Online Privacy Protection Act (COPPA), <a href="/">utorrent.com</a> is a general audience website, and does not knowingly collect, nor will it ever knowingly retain, personally identifiable information from any visitor µTorrent actually knows to be under thirteen years of age without the consent of that child's parent or legal guardian.</p>
-            
+            <h3>How does BitTorrent protect customer information?</h3>
+            <p>We implement a variety of security measures to ensure the security of your personal information on our systems. User personal information is contained behind secured networks and is only accessible by a limited number of employees who have special access rights to such systems.</p>
+
+            <h3>Does BitTorrent use "cookies"?</h3>
+            <p>Cookies are small bits of electronic information that a web site can transfer to a visitor's hard drive to help tailor and keep records of his or her visit to the site. The use of cookies is standard on the Internet and many web sites use them. Cookies allow web site operators to better customize visits to the site to the visitor's individual preferences. For example, by setting a cookie you would not have to log in a password more than once, thereby saving time. We currently save password information in cookies. In addition, advertisements displayed on the BitTorrent websites or in the BitTorrent Client may contain cookies. The companies who serve our advertisements transfer cookies independent of us, and, as such, we do not control the use of such cookies and in many instances have no access to the information collected by them.</p>
+			<p>Although most Web browsers automatically accept cookies, you can usually change your browser to prevent that or to notify you when you are sent a cookie. Even without accepting a cookie, you can still access many, if not all, of the features of the BitTorrent websites or the BitTorrent Client. However, some parts of the BitTorrent websites or the BitTorrent Client may not function properly if you refuse cookies.</p>
+
+            <h3>Does BitTorrent disclose the information it collects from its visitors to outside parties?</h3>
+            <p>BitTorrent does not currently sell, trade, or otherwise transfer outside the company personally identifiable information that visitors voluntarily provide in any registration or use of the BitTorrent websites or the BitTorrent Client. This information is used to better understand visitors’ use of the features of the BitTorrent websites or the BitTorrent Client, to support related transactions made on or through the BitTorrent websites or the BitTorrent Client, and to better know our visitors and possibly tailor any specific features, promotions, or other notifications to them. However, this data in an aggregate form without any personally identifiable information may be provided to other parties for marketing, advertising, or other uses. Should you no longer wish to receive information from us, or should your information change, we have provided a way for you to correct, update or remove the personal data you gave us. You can do this simply by contacting us in any of the simple ways set forth below in the section entitled "How do you change the information we have for you?"</p>
+			<p>Finally, we may disclose your personally identifiable information upon a transfer or sale to another entity of all or substantially all of our assets or equity securities or upon any other corporate reorganization.</p>
+
+            <h3>BitTorrent’s special note to parents.</h3>
+            <p>In compliance with the 1998 Children's Online Privacy Protection Act (COPPA), the Sites are general audience websites, and do not knowingly collect, nor will it ever knowingly retain, personally identifiable information from any visitor BitTorrent actually knows to be under thirteen years of age without the consent of that child's parent or legal guardian.</p>
+
             <h3>How do you change the information we have for you?</h3>
-            <p>To update or modify the information that we have on file for you, if applicable, simply go to the µTorrent forums, log in, go to the "Profile" section, then modify your details and settings as necessary.</p>
+            <p>To update or modify the information that we have on file for your user account, simply go to the applicable Site or Service, log in, go to the user account section, then modify your details and settings as necessary.</p>
 
             <h3>Third party links and co-brand relationships.</h3>
-            <p>In an attempt to provide increased value to our visitors, we may choose various third party web sites or services to link to, and frame within, the Sites or Services. We also participate in co-branding and other relationships to offer e-commerce and other services and features to our users. However, even if the third party is affiliated with us, we have no control over these linked sites, each of which has separate privacy and data collection practices independent of us. Data collected by our co-brand partners or third party web sites (even if offered on or through our site) may not be received by us. As such, we have no responsibility or liability for these independent policies or actions, and are not responsible for the privacy practices or the content of any such web sites. These linked sites are only for your convenience and you therefore access them at your own risk.</p>
-            
-            <h3>EU Safe Harbor Compliance</h3>
-            <p>µTorrent adheres to the European Union Safe Harbor principles as set forth by the United States Department of Commerce regarding the collection, use, and retention of personal information covered by the Privacy Policy from the European Union.</p>
+            <p>In an attempt to provide increased value to our visitors, we may choose various third party web sites or services to link to, and/or frame within, the Sites or Services. We may also include offers from third parties as part of the installation process for our software.  We also participate in co-branding and other relationships to offer e-commerce and other services and features to our users. However, even if the third party is affiliated with us, we have no control over these third party sites or services, each of which has separate privacy and data collection practices independent of us. Data collected by our co-brand partners or third party web sites (even if offered on or through our Site or Services) may not be received by us. As such, we have no responsibility or liability for these independent policies or actions, and are not responsible for the privacy practices or the content of any such web sites or services. These linked sites or services are only for your convenience and you therefore access them at your own risk.</p>
 
             <h3>Notification of changes.</h3>
             <p>By visiting the website or using the applications and/or services, you consent to the collection and use of information by us as set forth in this privacy policy. If we decide to change our privacy policy, we will post those changes within this page so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.</p>
-            
+
             <h3>Questions? Contact us.</h3>
-            <p>If you have any questions about our privacy practices, please do not hesitate to contact:</p>
-<pre>BitTorrent, Inc.
-303 2nd St. Suite S600
+            <p>If you have any questions about our privacy practices, please do not hesitate to write to us at:</p>
+            <pre>Privacy Matters
+c/o BitTorrent, Inc.
+303 Second St. Suite S600
 San Francisco, California 94107</pre>
+            <br>
 
             <h3>End User License Agreements and Terms and Conditions.</h3>
-            <p>Please also read any applicable End User License Agreements and/or Terms and Conditions that apply to individual µTorrent Applications and Services.</p>
-            
+            <p>Please also read any applicable End User License Agreements and/or Terms and Conditions that apply to individual BitTorrent applications and services.</p>
+
     </div>
     <!-- End Page Content -->
-<div id="sharing">
-	<div style="height:30px; width:675px;margin-top:20px;">
-		
-		
-		<div style="float:left;margin-top:0;">
-			<a href="https://twitter.com/utorrent" class="twitter-follow-button" data-show-count="true" data-show-screen-name="true">Follow @utorrent</a>
-			<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
-			</script>
-		</div>
-		
-		<div style="margin-top:0;">
-			<a href="http://www.facebook.com/utorrent" target="_blank"><img border="0" style="border:none;" src="/images/interface/like_bttn_hack.gif"></a><script type="text/javascript">_ga.trackFacebook();</script>
-		</div>
-	</div>
 </div>
-</div>
-<!-- Begin Footer -->
-<div id="footerwrapper">
-	<div class="footer">
-		<div class="footerpaths clearfix">
-			<div class="footerpath" id="chat-content">
-				<h5><a href="http://twitter.com/utorrent"><span class="chat">&nbsp;</span>@uTorrent</a></h5>
-				<p>&nbsp;</p>
-			</div>
-			<div class="footerpath">
-				<h5><a href="http://blog.bittorrent.com/tag/utorrent"><span class="blog">&nbsp;</span>µTorrent Blog</a></h5>
-								<p>Announcing a New Version of µTorrent Server for Linux<br>
-				<a href="http://blog.bittorrent.com/2013/11/20/announcing-a-new-version-of-%c2%b5torrent-server-for-linux/"><strong>View Post</strong></a></p>
-								</div>
-				<div class="footerpath footerpathlast">
-					<h5><a href="http://forum.utorrent.com"><span class="forum">&nbsp;</span>Community Forums</a></h5>
-										</div>
-				</div>
+<div class="footing">
+	<div class="group">
+		<div class="item span-20 footmenu">
+			<ul id="FOOT_DROP_NAV" class="hover-nav">
+				<li>©2014 BitTorrent, Inc.</li>
+<li><a href="/company/about">About Us</a></li>
+<li><a href="http://blog.bittorrent.com/" class="ga-et gat-Outbound_Links-Footer_Nav_Link-Blog" target="_blank">Blog</a></li>
+<li><a href="http://labs.bittorrent.com/?utm_source=bittorrent&amp;utm_medium=web&amp;utm_content=footer&amp;utm_campaign=general" class="ga-et gat-Outbound_Links-Footer_Nav_Link-Labs" target="_blank">Labs</a></li>
+<li><a href="/company/about/jobs">Jobs</a></li>
+<li><a href="/company/about/press">Press</a></li>
+<li><a href="/legal/privacy">Privacy</a></li>
+<li><a href="/legal/eula">EULA</a></li>
+<li><a href="/legal/terms-of-use">Terms</a></li>
+<li><a href="/advertise">Advertise with Us</a></li>
 
-				<ul class="footernav clearfix">
-					<li class="section"><a href="/get-started" class="sectionheader">Get Started</a>
-						<ul>
-							<li><a href="/get-started">Find Torrents</a></li>
-							<li><a href="/get-started/skins">Skins</a></li>
-						</ul>
-					</li>
+<li>
+    <!--main link-->
+    <a class="lang-default lang">English<span class="lang-expand">^</span></a>
+    <!--drop down-->
+    <div href="#language" class="sub-container lang-container LANG_MAIN_ITM" style="display:none;">
+        <div class="lang-unit">
+            <ul class="lang-list">
+                                                <li><a href="/index/setLocale/locale/zh_cn">中文（简体）</a></li>
+                                                                <li><a href="/index/setLocale/locale/de">Deutsch</a></li>
+                                                                <li><a href="/index/setLocale/locale/en">English</a></li>
+                                                                <li><a href="/index/setLocale/locale/es">Español</a></li>
+                                                                <li><a href="/index/setLocale/locale/fr">Français</a></li>
+                                                                <li><a href="/index/setLocale/locale/it">Italiano</a></li>
+                                                                <li><a href="/index/setLocale/locale/ko">한국어</a></li>
+                                                                <li><a href="/index/setLocale/locale/nl">Nederlands</a></li>
+                                                                <li><a href="/index/setLocale/locale/ru">русский</a></li>
+                                                                <li><a href="/index/setLocale/locale/pl">Polszczyzna</a></li>
+                                                                <li><a href="/index/setLocale/locale/pt">Português</a></li>
+                                                                <li><a href="/index/setLocale/locale/pt_br">Português (Brasil)</a></li>
+                                                                <li><a href="/index/setLocale/locale/tr">Türkçe</a></li>
+                                                                <li><a href="/index/setLocale/locale/ja">日本語</a></li>
+                                            </ul>
+        </div>
+    </div>
+</li>
+			</ul>
+		</div><!--end .item-->
+		<div class="item span-20 footmenu_mobile">
+			<ul id="FOOT_MOBILE_NAV" class="hover-nav">
+				<li>©2014 BitTorrent, Inc.</li>
+<li><a href="/company/about">About Us</a></li>
+<li><a href="http://blog.bittorrent.com/" class="ga-et gat-Outbound_Links-Footer_Nav_Link-Blog" target="_blank">Blog</a></li>
+<li><a href="http://labs.bittorrent.com/?utm_source=bittorrent&amp;utm_medium=web&amp;utm_content=footer&amp;utm_campaign=general" class="ga-et gat-Outbound_Links-Footer_Nav_Link-Labs" target="_blank">Labs</a></li>
+<li><a href="/company/about/jobs">Jobs</a></li>
+<li><a href="/company/about/press">Press</a></li>
+<li><a href="/legal/privacy">Privacy</a></li>
+<li><a href="/legal/eula">EULA</a></li>
+<li><a href="/legal/terms-of-use">Terms</a></li>
+<li><a href="/advertise">Advertise with Us</a></li>
 
-					<li class="section"><a href="/community" class="sectionheader">Community</a>
-						<ul>
-							<li><a href="http://forum.utorrent.com">Forums</a></li>
-							<li><a href="/community/ideabank">Idea Bank</a></li>
-							<li><a href="/community/developers">Developers</a></li>
-							<li><a href="http://www.twitter.com/utorrent">Twitter</a></li>
-							<li><a href="http://www.facebook.com/pages/uTorrent/123388254363684">Facebook</a></li>
-						</ul>
-					</li>
-					<li class="section"><a href="/help" class="sectionheader">Help</a>
-						<ul>
-							<li><a href="/help/faq">FAQ</a></li>
-							<li><a href="http://forum.utorrent.com">Forums</a></li>
-							<li><a href="/help/guides">Videos &amp; Guides</a></li>
-						</ul>
-					</li>
-					<li class="section last"><a class="footerdownloadlink sectionheader" href="/downloads/complete/os/win">Products</a>
-						<ul>
-							<li><a href="/downloads">Windows</a></li>
-												<li><a href="/downloads/mac">Mac</a></li>
-							<li><a href="/downloads/linux">Linux</a></li>
-							<li><a href="https://remote.utorrent.com/">µTorrent Remote</a></li>
-						</ul>
-					</li>
-				</ul>
-				<div class="footerdownload">
-					<p class="downloadbutton"><a href="/downloads/complete/os/win" class="hgb hgb1 footerdownloadbutton" id="footerDownloadLink"><span class="hgb hgb2"><span class="hgb hgb3">Get µTorrent<br><span class="version">Version 3.3.2 for Windows</span></span></span></a></p>
-					<p><a href="/downloads" class="otherlanguages">Other Platforms &amp; Languages</a></p>
-				</div>
-				<p class="legalinfo"><a href="http://www.bittorrent.com">© 2013 BitTorrent, Inc.</a> µTorrent is a trademark of BitTorrent, Inc.					<a href="http://www.bittorrent.com/company/about">About Us</a>
-					<a href="http://blog.bittorrent.com/tag/utorrent">Blog</a>
-					<a href="http://www.bittorrent.com/company/about/press">Press</a>
-					<a href="/legal/privacy">Privacy</a>
-					<a href="http://www.bittorrent.com/legal/eula" target="_blank">EULA</a>
-					<a href="http://www.utorrent.com/legal/terms-of-use">Terms</a>
-				</p>
-			</div>
+<li>
+    <!--main link-->
+    <a class="lang-default lang">English<span class="lang-expand">^</span></a>
+    <!--drop down-->
+    <div href="#language" class="sub-container lang-container LANG_MAIN_ITM" style="display:none;">
+        <div class="lang-unit">
+            <ul class="lang-list">
+                                                <li><a href="/index/setLocale/locale/zh_cn">中文（简体）</a></li>
+                                                                <li><a href="/index/setLocale/locale/de">Deutsch</a></li>
+                                                                <li><a href="/index/setLocale/locale/en">English</a></li>
+                                                                <li><a href="/index/setLocale/locale/es">Español</a></li>
+                                                                <li><a href="/index/setLocale/locale/fr">Français</a></li>
+                                                                <li><a href="/index/setLocale/locale/it">Italiano</a></li>
+                                                                <li><a href="/index/setLocale/locale/ko">한국어</a></li>
+                                                                <li><a href="/index/setLocale/locale/nl">Nederlands</a></li>
+                                                                <li><a href="/index/setLocale/locale/ru">русский</a></li>
+                                                                <li><a href="/index/setLocale/locale/pl">Polszczyzna</a></li>
+                                                                <li><a href="/index/setLocale/locale/pt">Português</a></li>
+                                                                <li><a href="/index/setLocale/locale/pt_br">Português (Brasil)</a></li>
+                                                                <li><a href="/index/setLocale/locale/tr">Türkçe</a></li>
+                                                                <li><a href="/index/setLocale/locale/ja">日本語</a></li>
+                                            </ul>
+        </div>
+    </div>
+</li>
+			</ul>
 		</div>
-	</div>
-<!-- End Footer -->
-
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+		<div class="social-links">
+			<div class="item span-1 first">
+				<a href="https://twitter.com/bittorrent" class="social ga-et gat-Outbound_Links-Footer_Social_Link-Twitter" target="_blank">
+					<i class="fa fa-twitter fa-lg"></i>
+				</a>
+			</div><!--end .item-->
+			<div class="item span-1">
+				<a href="http://facebook.com/bittorrent" class="social ga-et gat-Outbound_Links-Footer_Social_Link-Facebook" target="_blank">
+					<i class="fa fa-facebook-square fa-lg"></i>
+				</a>
+			</div><!--end .item-->
+			<div class="item span-1">
+				<a href="https://plus.google.com/117465790200445150675" class="social ga-et gat-Outbound_Links-Footer_Social_Links-Google_Plus" target="_blank">
+					<i class="fa fa-google-plus-square fa-lg"></i>
+				</a>
+			</div><!--end .item-->
+		</div>
+	</div><!--.group-->
+</div><!--.footing-->
+  </div>
+  <script type="text/javascript" src="/scripts/site/retina-1.1.0.min.js"></script>
 <script type="text/javascript">
-//<![CDATA[
-var OS = navigator.platform;
-if (OS.indexOf('Mac') != -1) {
- 	$(".footerdownloadbutton, .footerdownloadlink, .hpdownload, .downloadbutton a").attr("href", '/downloads/complete/os/osx');
-	$(".footerdownloadbutton .version, .downloadbutton .version").text("Version 1.8.4 for Mac");
-	$(".otherlanguages").attr("href", '/downloads/mac');
-	$(".otherlangtext").attr("href", '/downloads/mac');
-} else if (OS.indexOf('Linux') != -1) {
-	$(".footerdownloadbutton, .footerdownloadlink, .hpdownload, .downloadbutton a").attr("href", '/downloads/complete/os/lin/track/alpha');
-	$(".footerdownloadbutton .version, .downloadbutton .version").text("Version  () for Linux");
-	$(".otherlanguages").attr("href",'/downloads/linux');
-	$(".otherlangtext").attr("href",'/downloads/linux');
-}
-//]]>
+    //<![CDATA[
+    // Qualaroo for bittorrent.com
+      var _kiq = _kiq || [];
+      (function(){ setTimeout(function(){
+        var d = document, f = d.getElementsByTagName('script')[0], s = d.createElement('script'); s.type = 'text/javascript';
+        s.async = true; s.src = '//s3.amazonaws.com/ki.js/49207/aDT.js'; f.parentNode.insertBefore(s, f);
+        }, 1);
+      })();    //]]>
 </script>
-<script type="text/javascript" src="/scripts/app.js"></script>
-<script type="text/javascript" src="/scripts/jquery.colorbox.js"></script>
-
-
-
- <script type="text/javascript">
-	//<![CDATA[
-	if ($.browser.msie) {
-		$(document).ready(function(context) {
-			linkMap = {
-				// Footer / Returning Visitor / Navigation Link
-				'#footerDownloadLink, #headerDownloadLink, #downloadlink, #downloadlink2' :
-				'http://download-new.utorrent.com/endpoint/utorrent/os/windows/track/stable/',
-				'#client-utorrent-windows-stable a.client-download-link': 'http://download-new.utorrent.com/endpoint/utorrent/os/windows/track/stable/',
-'#client-utorrent-windows-rc a.client-download-link': 'http://download-new.utorrent.com/endpoint/utorrent/os/windows/track/rc/',
-'#client-bittorrent-windows-stable a.client-download-link': 'http://download-new.utorrent.com/endpoint/bittorrent/os/windows/track/stable/',
-'#client-btmac-osx-stable a.client-download-link': 'http://download-new.utorrent.com/endpoint/btmac/os/osx/track/stable/',
-'#client-btmac-osx-ppc-stable a.client-download-link': 'http://download-new.utorrent.com/endpoint/btmac/os/osx-ppc/track/stable/',
-'#client-utmac-osx-stable a.client-download-link': 'http://download-new.utorrent.com/endpoint/utmac/os/osx/track/stable/',
-'#client-utmac-osx-beta a.client-download-link': 'http://download-new.utorrent.com/endpoint/utmac/os/osx/track/beta/',
-'#client-utmac-osx-ppc-stable a.client-download-link': 'http://download-new.utorrent.com/endpoint/utmac/os/osx-ppc/track/stable/',
-'#client-utserver-linux-i386-debian-6-0-beta a.client-download-link': 'http://download-new.utorrent.com/endpoint/utserver/os/linux-i386-debian-6-0/track/beta/',
-'#client-utserver-linux-x64-debian-6-0-beta a.client-download-link': 'http://download-new.utorrent.com/endpoint/utserver/os/linux-x64-debian-6-0/track/beta/',
-'#client-utserver-linux-i386-ubuntu-13-04-beta a.client-download-link': 'http://download-new.utorrent.com/endpoint/utserver/os/linux-i386-ubuntu-13-04/track/beta/',
-'#client-utserver-linux-x64-ubuntu-13-04-beta a.client-download-link': 'http://download-new.utorrent.com/endpoint/utserver/os/linux-x64-ubuntu-13-04/track/beta/'			}
-
-			// for msie browser, download must be initiated via click to avoid security warning
-			for (key in linkMap) {
-				(function(key, link) { 
-					$(key).click(function(event) {
-						setTimeout('window.location.href=\'' + this.href + '\'', 3000);
-						client_download_link = link;
-						if (client_download_link != undefined) {
-							this.href = client_download_link;
-						}
-					});
-				})(key, linkMap[key])
-			}
-		});
-	}
-	else {
-		$(window).load(function(context) {
-			// for msie browser, download must be initiated via click to avoid security warning
-			// for non-msie browsers, automatically download
-			download_link = $('a#auto-client-download-link');
-			download_link.each(function(context) {
-				if (this.href != undefined) {
-					window.location = this.href;
-				}
-				// execute only once
-				return false;
-			});
-		});
-	}
-	//]]>
-</script>
-<!--Moved google analytics code to head-includes page-->
-
-<!-- comScore noscript tag -->
-<noscript><img src="//b.scorecardresearch.com/p?c1=2&c2=17330952&cv=2.0&cj=1" /></noscript>
-
-<!-- Start Quantcast tag -->
 <script type="text/javascript">
-_qoptions={ qacct:"p-f87ZgUEkM-SZY" };
+    //<![CDATA[
+    
+	   var _browser_information = BrowserDetect;
+	   var _browser_information_lang = (window.location.href.indexOf('intl') > -1) ? 'intl' : 'en';
+	   _kiq.push(['set', { 'OS': _browser_information.OS, 'language': _browser_information_lang }]);
+	       //]]>
 </script>
-<script type="text/javascript" src="http://edge.quantserve.com/quant.js" defer="defer"></script>
-<noscript>
-<img src="//pixel.quantserve.com/pixel/p-f87ZgUEkM-SZY.gif"
+<script type="text/javascript">
+    //<![CDATA[
+     //Display static image if iframe is blocked
+	   var iframeID = $('#div-gpt-ad-1383695822109-0');
+       if( iframeID.css('display') == 'none' || (navigator.userAgent.indexOf('Firefox') != -1 && iframeID.css('-moz-binding') != 'none')){
+	     $('.bundleImgDynamic').hide();
+	     $('.bundleImgStatic').show();
+	   }
+    //]]>
+</script>
+<script type="text/javascript">
+    //<![CDATA[
+    
+$.ajax({
+     url: '/scripts/site/headers.php',
+     dataType: 'jsonp',
+     success: function(headers) {
+         language = headers['Accept-Language'];
+	     var userlang = language.substring(0,2);	
+         var languages = ["zh_cn","de","en","es","fr","it","ko","nl","ru","pl","pt","pt_br","tr","ja"];
+         var uselang = false;
+         var cookies = document.cookie.split(';');
+         for (i=0;i<cookies.length;i++) {
+             if (cookies[i].indexOf('language') != -1) {
+                 languagedata = cookies[i].split('=');
+                 userlang = languagedata[1];
+            }
+        }
+
+        if (userlang.substring(0,2) != 'en' && window.location.pathname.indexOf('/intl/') == -1) {
+            for (i=0; i<languages.length; i++) {
+                if (userlang == languages[i]) {
+                    uselang = userlang;
+                    break;
+                }
+            }
+            if (!uselang) {
+                for (i=0; i<languages.length; i++) {
+                    if (userlang.substring(0,2) == languages[i]) {
+                        uselang = userlang.substring(0,2);
+                        break;
+                    }
+                }
+            }
+        }
+        if (uselang) {
+            window.location = window.location.pathname.replace("/","/intl/"+uselang+"/")+window.location.search;
+        }
+     }
+});    //]]>
+</script>
+<script type="text/javascript" src="/scripts/tracking.js"></script>
+<script type="text/javascript">
+    //<![CDATA[
+    eventTracking.init({'category' : 'BT-Production'});    //]]>
+</script><script type="text/javascript">_qoptions={qacct:"p-f87ZgUEkM-SZY"};</script>
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<noscript><img src="//pixel.quantserve.com/pixel/p-f87ZgUEkM-SZY.gif"
 style="display: none;" border="0" height="1" width="1"
-alt="Quantcast"/>
-</noscript>
-<!-- End Quantcast tag -->
-<!-- Add This JS -->
-<script type="text/javascript" src="//s7.addthis.com/js/250/addthis_widget.js#username=utorrent" defer="defer"></script>
+alt="Quantcast"/></noscript>
+<noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=17330952&cv=2.0&cj=1" /></noscript>
 
 
 </body></html>
