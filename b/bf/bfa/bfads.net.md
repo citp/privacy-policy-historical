@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bfads.net privacy policy that was archived on 2013-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130809021810id_/http%3A//bfads.net/Legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bfads.net privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629225737id_/http%3A//bfads.net/Legal) for the most accurate reproduction.*
 
 # Black Friday Ads - Legal Information and Privacy Policy
 
@@ -40,3 +40,5 @@ This site complies with the Children's Online Privacy Protection Act of 1998. Th
 ## Policy Changes
 
 With or without prior notification, we may find it necessary or be legally obligated to update this Privacy Policy from time to time. All changes will be posted at this site. Except as otherwise required by law, modifications to this Privacy Policy will not affect the privacy of data collected by us prior to the effective date of the policy change.
+
+[](https://privacy.truste.com/privacy-seal/Ebates-com-Inc-/validation?rid=61b0d8f1-b47a-447b-9909-7caeac20726a "TRUSTe online privacy certification")
