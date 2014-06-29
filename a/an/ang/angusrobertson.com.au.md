@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the angusrobertson.com.au privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820153957id_/http%3A//www.angusrobertson.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the angusrobertson.com.au privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630010902id_/http%3A//www.angusrobertson.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Angus & Robertson
 
@@ -97,6 +97,6 @@ The Privacy Officer
 Penguin Australia Pty Ltd   
 707 Collins Street   
 Melbourne VIC 3008   
-Email: [privacy.officer@au.penguingroup.com](mailto:privacy.officer@au.penguingroup.com).
+Email: [privacy.officer@penguinrandomhouse.com.au](mailto:privacy.officer@au.penguingroup.com)
 
-Last Updated: 2 July 2013
+Last Updated: 23 June 2014
