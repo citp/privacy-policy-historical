@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the allhealthcarejobs.com privacy policy that was archived on 2013-11-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131114004403id_/http%3A//www.healthcallings.com/common/seeker/docs/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the allhealthcarejobs.com privacy policy that was archived on 2014-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140629145217id_/http%3A//www.healthcallings.com/common/seeker/docs/privacy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -91,6 +91,112 @@
 
 
 
+
+
+
+
+<style>
+    .pushDownBar{
+        top: 0px;
+        left: 0px;
+        overflow: hidden;
+        position: relative;
+        background-color: #fffdc3;
+        padding:10px 10px 10px 10px;
+
+        -webkit-box-shadow: 3px 3px 5px  #E0E0E0;
+        -moz-box-shadow: 3px 3px 5px  #E0E0E0;
+        box-shadow: 3px 3px 5px  #E0E0E0;
+
+        display:none;
+
+        font-size:12px;
+        line-height: 14px;
+        color:#000;
+    }
+
+    .pushDownBar_container{
+        max-width:1170px;
+
+
+    }
+
+
+    .pushDownBar_close{
+        text-align: right;
+        cursor:pointer;
+    }
+
+    .pushDownBar_text{
+        padding: 5px 0px 5px 0px;
+        text-align: left;
+    }
+
+    .pushDownBar_links {
+        text-align: center;
+        font-size:13px;
+        line-height: 14px;
+    }
+    .pushDownBar a{
+        font-weight: bold;
+        color: #0088C7;
+        text-decoration:  underline;
+    }
+
+
+</style>
+<div class="pushDownBar" align="center">
+    <div class="pushDownBar_container">
+        <div class="pushDownBar_close">Don't display this message again [x]</div>
+        <div class="pushDownBar_text">We're excited to announce we are merging with <i> HEALTHe</i><b>CAREERS</b> Network and will be moving our job opportunities and job seeker tools to <a href="http://www.healthecareers.com/?type=web&amp;source=HC_Growler">www.healthecareers.com</a>. Starting June 3rd, we will begin migrating login information and profiles to provide you uninterrupted access to opportunities from leading healthcare employers.
+            Thank you for choosing Health Callings, and we hope to continue to serve your job search needs in the future.
+        </div>
+        <div class="pushDownBar_links">
+            <a href="http://career-news.healthcallings.com/healthecareers-merger-faq/">Tell Me More</a>
+        </div>
+    </div>
+</div>
+<script>
+
+    function setCookie(cname,cvalue,exdays)
+    {
+        var d = new Date();
+        d.setTime(d.getTime()+(exdays*24*60*60*1000));
+        var expires = "expires="+d.toGMTString();
+        document.cookie = cname+"="+cvalue+"; domain="+".healthcallings.com;"+expires;
+    }
+
+    function getCookie(cname)
+    {
+        var name = cname + "=";
+        var ca = document.cookie.split(';');
+        for(var i=0; i<ca.length; i++)
+        {
+            var c = ca[i].trim();
+            if (c.indexOf(name)==0) return c.substring(name.length,c.length);
+        }
+        return "";
+    }
+
+
+
+    $(document).ready(function(){
+        var isClosed=getCookie("isPDclosed");
+        if (isClosed!=null && isClosed!="true"){
+            //$('.pushDownBar').css({ 'display': "block" });
+            $(".pushDownBar").slideDown(500);
+        }
+
+        $(".pushDownBar_close").click(function(){
+            $(".pushDownBar").slideUp(500, setCookie("isPDclosed","true",365));
+        });
+
+        $(".pushDownBar_optout").click(function(){
+            $(".pushDownBar").slideUp(500, setCookie("isPDclosed","true",365),window.location.replace("http://seeker.healthcallings.com/daf/servlet/DAFctrl?op=2004&email=&campaign=9"));
+        });
+    });
+
+</script>
 <div id="hd">
 
     <div style="width:1224px; margin:auto;">
@@ -109,7 +215,7 @@
     <script type="text/javascript">
         var ord = window.ord || Math.floor(Math.random() * 1e16);
         document.write('<iframe src="http://ad.doubleclick.net/N4140/adi/HealthCallings/job_tools;sz=728x90;ord=' + ord + '?" width="728" height="90" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"></iframe>');
-    </script><iframe src="http://ad.doubleclick.net/N4140/adi/HealthCallings/job_tools;sz=728x90;ord=6192903820470996?" width="728" height="90" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"></iframe>
+    </script><iframe src="http://ad.doubleclick.net/N4140/adi/HealthCallings/job_tools;sz=728x90;ord=8840527925820914?" width="728" height="90" marginwidth="0" marginheight="0" hspace="0" vspace="0" frameborder="0" scrolling="no"></iframe>
     <noscript>
         <a href="http://ad.doubleclick.net/N4140/jump/HealthCallings/job_tools;sz=728x90;ord=[timestamp]?">
             <img src="http://ad.doubleclick.net/N4140/ad/HealthCallings/job_tools;sz=728x90;ord=[timestamp]?" width="728" height="90" />
@@ -397,7 +503,7 @@
 
             <div class="span4" style="width: 320px;">
 
-                <p>Copyright ©1998 - 2013 <a href="http://www.healthcallings.com">HealthCallings.com</a> All rights reserved. Use of this site is subject to certain <a href="/common/seeker/docs/terms_and_conditions.jsp">Terms &amp; Conditions</a></p>
+                <p>Copyright ©1998 - 2014 <a href="http://www.healthcallings.com">HealthCallings.com</a> All rights reserved. Use of this site is subject to certain <a href="/common/seeker/docs/terms_and_conditions.jsp">Terms &amp; Conditions</a></p>
 
                 <a href="http://www.facebook.com/healthcallings" target="_blank"><img src="http://assets.healthcallings.com/assets/stylesheets/images/icons/fb.png" alt="Health Callings Facebook" class="icons"></a>
                 <a href="https://plus.google.com/s/healthcallings" target="_blank"><img src="http://assets.healthcallings.com/assets/stylesheets/images/icons/gplus.png" alt="Health Callings Google+" class="icons"></a>
@@ -435,9 +541,9 @@
 <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
 </script>
 <noscript>
-    <div style="display:inline;">
-        <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/965307312/?value=0&amp;label=2IJDCPD3tQYQsNelzAM&amp;guid=ON&amp;script=0"/>
-    </div>
+
+        <img height="1" width="1" style="border:0; position:absolute; visibility:hidden; margin-bottom:-25px; " alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/965307312/?value=0&amp;label=2IJDCPD3tQYQsNelzAM&amp;guid=ON&amp;script=0"/>
+
 </noscript> 
 <script type="text/javascript">
     adroll_adv_id = "PPCFCVSVWRAEPHXMO44ES5";
