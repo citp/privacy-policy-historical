@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationalrail.co.uk privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218000603id_/http%3A//www.nationalrail.co.uk/46389.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalrail.co.uk privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629043627id_/http%3A//www.nationalrail.co.uk/46389.aspx) for the most accurate reproduction.*
 
 # National Rail Enquiries - Privacy policy
 
@@ -14,7 +14,7 @@ In line with many other web sites National Rail Enquiries use cookies (a small d
 
 If you wish you can usually block cookies using the settings in your web browser.
 
-For more information on online behavioural advertising in the UK, about cookies, and about how to [opt-out](http://www.networkadvertising.org/managing/opt_out.asp) of receiving targeted advertising, please visit [Your Online Choices](http://www.youronlinechoices.co.uk/).
+For more information on online behavioural advertising in the UK, about cookies, and about how to [opt-out](http://www.networkadvertising.org/managing/opt_out.asp) of receiving targeted advertising, please visit [Your Online Choices](http://www.youronlinechoices.com/uk/).
 
 Any information you provide will only be used within National Rail Enquiries and by its agents, service providers and the train operators. Your information will also be disclosed where required by law.
 
