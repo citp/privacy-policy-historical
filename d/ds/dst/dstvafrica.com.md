@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the dstvafrica.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615230436id_/http%3A//www.dstv.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dstvafrica.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629131032id_/http%3A//www.dstv.com/PrivacyPolicy) for the most accurate reproduction.*
 
-# DSTV.COM
+# 
+
+  
+
 
 Introduction
 
