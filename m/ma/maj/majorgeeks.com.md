@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the majorgeeks.com privacy policy that was archived on 2013-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131026030459id_/http%3A//www.majorgeeks.com/content/page/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the majorgeeks.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629121057id_/http%3A//www.majorgeeks.com/content/page/privacy.html) for the most accurate reproduction.*
 
 # Privacy - MajorGeeks
 
