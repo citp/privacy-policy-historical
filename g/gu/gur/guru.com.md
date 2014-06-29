@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the guru.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210152241id_/http%3A//www.guru.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guru.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629081306id_/http%3A//www.guru.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Guru Blog
+# Privacy Policy - Guru
 
-Last Revision was August 9, 2012.
+Last Revision was March 18, 2014.
 
 ## Overview
 
@@ -33,6 +33,22 @@ Guru.com will not sell or rent any collected information to third parties. Guru.
 Guru.com records IP addresses for system administration purposes. This information is used to diagnose server problems, monitor traffic patterns, analyze trends, administer the website, track member user patterns, and identify the most popular areas of the website to deliver content most relevant to registered members. IP addresses are not linked to personally identifiable information and are only used to gather broad demographic information for aggregate use, except in the case of fraud.
 
 Guru.com reserves the right to share aggregated demographic information with its partners and/or advertisers, such information will not be linked to personal information that identifies registered users, except in the case of fraud.
+
+### Google Analytics & AdWords
+
+Google Analytics: We use Google Analytics tracking to review visitor website activities, including: page views, source and time spent on our website. The collected information is depersonalized and is displayed as numbers, meaning it cannot be tracked back to individuals. This will help to protect your privacy. Using Google Analytics, we learn how to give you a better visitor experience.
+
+Google AdWords: Using Google AdWords tracking codes, we can see which pages help lead to different conversions on Guru.com. This allows us to better use our paid advertising budget.
+
+Remarketing With Google Analytics: We use the Google Analytics remarketing code to log when visitors view specific web pages. This allows us to provide targeted advertising in the future.
+
+  * Third-party vendors, including Google, may show Guru.com’s ads across the internet.
+  * Guru.com and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on a user’s past visits to Guru.com.
+
+
+
+Opting Out:  
+Visitors can opt out of Google Analytics for Display Advertising and customize Google Display Network ads using their [Ads Settings](https://www.google.com/settings/ads). Additionally, visitors can opt out of the [Google Analytics Browser Add-On](https://tools.google.com/dlpage/gaoptout/).
 
 ### Links
 
