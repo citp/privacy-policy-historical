@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the authorityrules.com privacy policy that was archived on 2013-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131005094031id_/http%3A//my.copyblogger.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the authorityrules.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629070349id_/http%3A//my.copyblogger.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -13,9 +13,8 @@ When you visit our website you may provide us with two types of information: per
 **_Registration Information_**  
 You will provide us information about yourself, your firm or company, and your practices when you purchase Copyblogger products and services, register for forum support, or register for email newsletters and alerts.
 
-**_Email Information_**
-
-If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses.
+**_Email Information  
+_**If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses.
 
 #### 2\. Website Use Information
 
