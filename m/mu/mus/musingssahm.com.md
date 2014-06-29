@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musingssahm.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228095222id_/http%3A//musingssahm.com/disclosureprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musingssahm.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629022722id_/http%3A//musingssahm.com/disclosureprivacypolicy) for the most accurate reproduction.*
 
 # Giveaway Rules, Disclosure & Privacy Policy, & Copyright - Musings From a Stay At Home Mom
 
