@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the iocreed.com privacy policy that was archived on 2013-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130906062531id_/http%3A//www.iocreed.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iocreed.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629065742id_/http%3A//www.iocreed.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Iocreed
 
-You are here :[Home](http://www.iocreed.com/ "View Home") Privacy Policy
+[Home](http://www.iocreed.com/) Privacy Policy
 
 **Privacy Policy for www.iocreed.com**
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at singh.ashw1061@gmail.com or admin@iocreed.com .
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at singh.ashw1061@gmail.com or  admin@iocreed.com .
 
 At www.iocreed.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.iocreed.com and how it is used.
 
@@ -43,11 +43,6 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit<http://www.networkadvertising.org/managing/opt_out.asp>.
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/managing/opt_out.asp>.
 
-  * Bio
-  * Latest Posts
-
-
-
-Ashwani Kumar Singh is an engineering student from New Delhi, India. He blogs about Blogging, Social Media, PC Tips and Tricks, PC Software, Antivirus and Gadgets. When he is not blogging he likes to chat with friends. Find him on [FaceBook](http://www.facebook.com/ashwani597), [Google+](http://plus.google.com/103025668984956800384), [Twitter](http://www.twitter.com/ashwani1061) and [LinkedIN](http://www.linkedin.com/profile/view?id=228340365).
+### Privacy Policy  ©Iocreed.com 2012-2014
