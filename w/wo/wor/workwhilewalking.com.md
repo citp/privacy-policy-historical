@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the workwhilewalking.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202121334id_/http%3A//www.workwhilewalking.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workwhilewalking.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629150848id_/http%3A//www.workwhilewalking.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WorkWhileWalking.com
 
@@ -27,10 +27,13 @@ WorkWhileWalking.com may collect and use Users personal information for the foll
 
 
 We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.  
-How we protect your information  
+How we protect your information
+
 We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
 Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures. Our Site is also in compliance with PCI vulnerability standards in order to create as secure of an environment as possible for Users.
+
+As you browse WorkWhileWalking, advertising cookies will be placed on your computer so that we can understand what you are interested in. Our display advertising partner, AdRoll, then enables us to present you with retargeting advertising on other sites based on your previous interaction with WorkWhileWalking. The techniques our partners employ do not collect personal information such as your name, email address, postal address or telephone number. You can visit this [page](http://www.networkadvertising.org/choices/) to opt out of AdRoll and their partners’ targeted advertising.
 
 **Sharing your personal information**  
 We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
