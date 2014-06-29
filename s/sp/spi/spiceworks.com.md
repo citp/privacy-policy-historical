@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spiceworks.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221124421id_/http%3A//www.spiceworks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spiceworks.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629134647id_/http%3A//www.spiceworks.com/privacy) for the most accurate reproduction.*
 
 # Spiceworks Privacy Policy
 
@@ -126,5 +126,5 @@ Spiceworks may update its privacy policy from time to time. When we change the p
 If you have comments on the Spiceworks service or ideas on how to improve it, please send email to [feedback@spiceworks.com](mailto:feedback@spiceworks.com). Please note that by doing so, you also grant Spiceworks and third parties permission to use and incorporate your ideas or comments into the service (or third party software or content) without further compensation or approval.
 
 The information contained in this web site is subject to change without notice.  
-Copyright © 2006-2013 Spiceworks, Inc. All rights reserved.  
+Copyright © 2006-2014 Spiceworks, Inc. All rights reserved.  
 Spiceworks, Inc. 7300 FM 2222, Bldg 3, Suite 100, Austin, TX 78730, USA
