@@ -1,14 +1,9 @@
-> *The following text is extracted and transformed from the autobarn.net privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819143014id_/http%3A//www.autobarn.net/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autobarn.net privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629083522id_/http%3A//www.autobarn.net/privacypolicy.html) for the most accurate reproduction.*
 
-# Policies
-
- 
-
- **AutoBarn.com Privacy Policy**
+# Auto Barn Help Center - Policies
 
 **We are committed to maintaining your privacy.**  
-To demonstrate our commitment to your privacy, AutoBarn.com has developed a Privacy Policy to engender trust and confidence in our site and the Internet by encouraging full disclosure and informed consent. This statement discloses the privacy practices for the AutoBarn.com web site. Questions regarding this statement should be directed to AutoBarn.com through our [Customer Service Center.](http://www.autobarn.net/support.html)  
----  
+To demonstrate our commitment to your privacy, AutoBarn.com has developed a Privacy Policy to engender trust and confidence in our site and the Internet by encouraging full disclosure and informed consent. This statement discloses the privacy practices for the AutoBarn.com web site. Questions regarding this statement should be directed to AutoBarn.com through our [Customer Service Center.](http://www.autobarn.net/help-center.html)  
   
   
 **Information We Use & How It is Collected**  
@@ -19,15 +14,15 @@ An Internet Protocol (IP) address is a number that is automatically assigned to 
 "Cookies" are pieces of data your browser stores on your computer's hard drive. They enable us to determine when you or someone using the same browser you previously used revisits AutoBarn.com. Cookies also enable us to create a more personalized shopping experience for you. Most browsers are set up to accept cookies, but you can usually change your browser settings to refuse them. AutoBarn.com does not use cookies to retrieve personal information about you from your computer. Our policy does not cover the use of cookies by any advertisers or any other third parties with links on our site.  
   
 **Other Information We Collect**  
-When you purchase a product we ask you for information such as name, address, and credit card information. We store and use this information so we can process your order. If necessary, we might use this information to contact you for help processing your order. From time to time we send out notices by email of special offers or sales on our site. If for any reason, you do not want to receive these notifications, just contact us through our [Customer Service Center](http://www.autobarn.net/support.html), or contact us using one of the methods listed below under How to Contact Us. Each email offer also includes simple instructions on how to remove your e-mail address from future mailings.
+When you purchase a product we ask you for information such as name, address, and credit card information. We store and use this information so we can process your order. If necessary, we might use this information to contact you for help processing your order. From time to time we send out notices by email of special offers or sales on our site. If for any reason, you do not want to receive these notifications, just contact us through our [Customer Service Center](http://www.autobarn.net/help-center.html), or contact us using one of the methods listed below under How to Contact Us. Each email offer also includes simple instructions on how to remove your e-mail address from future mailings.
 
 Whenever you send us personal correspondence, such as e-mail or letters, or if other users or third parties send us correspondence about your activities or postings on the site, we may collect and store such information. From time to time, AutoBarn.com holds contests and sweepstakes. We will collect and store all information relating to such contests and sweepstakes. AutoBarn.com might purchase information from third parties in order to supplement the information we have received from our customers.  
   
 **Third-Party Web Beacons**  
- We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you.  If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, [click here](https://reports.web.analytics.yahoo.com/optout,OptOut.vm?domain=a.analytics.yahoo.com).  
+We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, [click here](https://reports.web.analytics.yahoo.com/optout,OptOut.vm?domain=a.analytics.yahoo.com).  
    
 **Removing Your Information from Our Records**  
-If for some reason, you want us to remove your credit card and contact information from our database, we will, but only after all of your transactions have been completed. All you have to do is send us e-mail at [customerservice@autobarn.com](mailto:CustomerService@autobarn.com), or contact us using one of the methods listed below under How to Contact Us. Such information, however, is never completely removed from our database archives because we routinely back up our servers for disaster recovery and tax-record purposes.  
+If for some reason, you want us to remove your credit card and contact information from our database, we will, but only after all of your transactions have been completed. All you have to do is send us e-mail at [customerservice@autobarn.com](http://www.autobarn.net/contact-us.html), or contact us using one of the methods listed below under How to Contact Us. Such information, however, is never completely removed from our database archives because we routinely back up our servers for disaster recovery and tax-record purposes.  
   
 **Disclosure of Information to Third Parties**  
 **Personal Information**  
@@ -60,18 +55,16 @@ Prices and availability of products and services are subject to change without n
 By using our Web site, you are consenting to the collection, storage, and dissemination of data as described above. We will post any changes to our privacy policy on this page so you can readily review our most current policy. AutoBarn.com also reserves the right to e-mail you regarding changes to our Privacy Policy or any other matters AutoBarn.com thinks is necessary for the administration of the site.  
   
 **How to Contact Us**  
-We're interested in your comments about our privacy policy. You can send general comments about it to us through our [ Customer Service Center](http://www.autobarn.net/support.html). You also can use that e-mail address to:  
+We're interested in your comments about our privacy policy. You can send general comments or email us any questions you might have through our [Customer Service Center](http://www.autobarn.net/help-center.html).  
    
 **Other Methods of Contacting Us**  
-| **E-mail:** |  [Use Our Customer Service Center](http://www.autobarn.net/support.html)  
+| **E-mail:** |  [Use Our Customer Service Center](http://www.autobarn.net/help-center.html)  
 ---|---  
 **Phone:** | 1-888-484-9560 or 516-484-9500  
 **Fax:** | 516-484-4341  
 **U.S. Mail:** | AutoBarn.com  
-PO Box 100  
-Roslyn, NY 11576  
+450 Jericho Tpke. Ste 207  
+Mineola, NY 11501  
 Attention: Customer Service  
   
 _This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://privacy.yahoo.com/privacy/us/) for more information about how Yahoo! uses this information._
-
- _This site is hosted by Yahoo! Store. Yahoo! hosts the store pages, ordering system, and order data. Yahoo! automatically collects order information but may only use this information in the aggregate. If you accessed this store through Yahoo! Shopping, Yahoo! also automatically collects information about your shopping experience. Please see the[Yahoo! Privacy Policy](http://privacy.yahoo.com/privacy/us/) for more information about how Yahoo! uses this information._
