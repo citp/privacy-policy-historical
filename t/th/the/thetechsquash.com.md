@@ -1,19 +1,28 @@
-> *The following text is extracted and transformed from the thetechsquash.com privacy policy that was archived on 2013-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130923231852id_/http%3A//www.thetechsquash.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetechsquash.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629174921id_/http%3A//www.thetechsquash.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# TheTechSquash | Technology blog,SEO,Internet Marketing,Social Media: Privacy Policy
+# Thetechsquash | Technology News, Gadgets, Smartphones, SEO: Privacy Policy
 
 Privacy Policy for http://thetechsquash.com/   
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at bloggeradmin@thetechsquash.com
 
-At http://thetechsquash.com/, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by http://thetechsquash.com/ and how it is used. 
+At http://thetechsquash.com/, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by http://thetechsquash.com/ and how it is used.   
+  
 
-**Log Files**  
-Like many other Web sites, http://thetechsquash.com/ makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
 
-**Cookies and Web Beacons**    
-http://thetechsquash.com/ does not use cookies. 
+##  **Log Files**
 
-**DoubleClick DART Cookie**    
+Like many other Web sites, http://thetechsquash.com/ makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.   
+  
+
+
+##  **Cookies and Web Beacons**  
+
+http://thetechsquash.com/ does not use cookies.   
+  
+
+
+##  **DoubleClick DART Cookie**  
+
 .:: Google, as a third party vendor, uses cookies to serve ads on http://thetechsquash.com/.  
 .:: Google's use of the DART cookie enables it to serve ads to users based on their visit to http://thetechsquash.com/ and other sites on the Internet.   
 .:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html 
