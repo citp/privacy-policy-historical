@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fluentu.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223083532id_/http%3A//www.fluentu.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fluentu.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629081424id_/http%3A//www.fluentu.com/privacy) for the most accurate reproduction.*
 
 # FluentU - Privacy
 
@@ -15,10 +15,6 @@ We receive and store any personal information you enter on the Site or give to u
 ### Vendors.
 
 We employ other companies and individuals to perform functions on our behalf. Examples might include sending email, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links and providing customer service. They have access to your personal information needed to perform their functions, but may not use it for other purposes.
-
-### Third Party Offers.
-
-We may share personally identifiable information with third parties in order to have them send you special offers and promotions or other information we think you might find of interest. We ourselves will also occasionally send you information on products, services, special deals, promotions, or information which we have found that may be of interest to our users and subscribers. If you do not want us to use the information you provide in order to inform you of products and services we think might interest you, or provide your information to third party companies, it is your obligation to please let us know, by contacting us at [support@fluentu.com](mailto:support@fluentu.com).
 
 ### Invite a Friend.
 
