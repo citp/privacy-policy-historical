@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mosis.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227031221id_/http%3A//www.mosis.com/pages/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mosis.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630010656id_/http%3A//www.mosis.com/pages/about/privacy) for the most accurate reproduction.*
 
 # MOSIS Web Site Privacy Statement
 
