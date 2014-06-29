@@ -1,994 +1,3051 @@
-<!--The following is the downloaded HTML source of the frontgate.com privacy policy that was archived on 2011-01-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20110126214638id_/http%3A//www.frontgate.com/jump.jsp%3FitemType%3DCATEGORY%26itemID%3D517%26path%3D1%252C2%252C270%252C517) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the frontgate.com privacy policy that was archived on 2014-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140630001510id_/http%3A//www.frontgate.com/PrivacyView%3FstoreId%3D10053%26catalogId%3D10053%26langId%3D-1%26contentKey%3DWCM_PRIVACY_RIGHTS) for the most accurate reproduction.-->
 
-<html><head><script language="JavaScript">
-// Disable edit cell tab.
-	if (parent) {
-		if (parent.editCell) {
-			if (parent.editCell.className) {
-			   parent.editCell.className    = "tab-button-dis";
-			}
-		}
-	}
-//   parent.parent.frames('toolbarbottom').altButtons.style.display = "none";
-
-function saveForm() {
-    location.replace("/admin/displayeditcell.do?action=save");
-}
-
-   function editCell(ruleID, itemID, slotID, itemType) {
-        parent.editDisplay.className     = "tab-button";
-        if(typeof(parent.displayRules)!="undefined") {
-            parent.displayRules.className = "tab-button";
-        }
-        parent.editCell.className    = "tab-button-on";
-
-        location.replace("/admin/displayeditcell.do?action=init&itemID=" + itemID + "&ruleID=" + ruleID + "&slotID="+ slotID + "&itemType=" + itemType );
-//        parent.parent.frames('toolbarbottom').altButtons.style.display= "inline";
-    }
-</script>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<title>Privacy &amp; Security - Frontgate</title>
-
-<meta name="description" content="Frontgate - Frontgate offers luxury home furnishings and decor for your kitchen, living room, pool, patio, garden, entry way, dining room, and recreation room.">
-<meta name="keywords" content="Frontgate, Grandin Road, home decor, luxury, furniture, Front gate, patio, garden, bar, recreation, outdoor, utility, dining, living, quality">
-<link rel="stylesheet" type="text/css" href="/includes/stylesheet_FG.css" title="style">
-
-<script language="JavaScript">
-    var isNav, isIE;
-    if(parseInt(navigator.appVersion) >= 4) {
-      if(navigator.appName == "Netscape")
-        isNav = true
-      else
-        isIE = true;
-    }
-
-    /* checks while typing*/
-    function maxlengthCheck(txt, evtThis, maxlength){
-      if(txt.value.length >= maxlength){
-        if (isIE)
-          event.keyCode = 0 // IE
-        else
-          return false;  // Netscape
-        maxlengthHack(txt, maxlength);
-        return false;
-      }
-    }
-
-    /* checks for pasted in text, etc*/
-    function maxlengthHack(txt, maxlength){
-      if(txt.value.length >= maxlength){
-        txt.value = txt.value.substring(0,maxlength);
-      }
-    }
-</script>
-
-<script src="/includes/flyopen.js"></script>
-<script src="/includes/rollover.js"></script>
-<script src="/includes/cleartext.js"></script>
-<script src="/includes/swfobject.js"></script>
-<script src="/includes/s_code.js"></script>
-<script src="/includes/effects.js"></script>
-<script src="/includes/custom_survey.js"></script>
-
-
-<style type="text/css">
-<!--
-    #menuPop {
-        background: #ededed;
-        border: 3px solid #fff;
-        width: 200px;
-        font-family: verdana, arial, sans-serif;
-        font-size: 10px;
-    }
-    #menuPop td.title { padding: 6px 10px 5px 10px; }
-    #menuPop td {
-        padding: 0 10px;
-    }
-    #menuPop .menuPopItem { padding: 0 0 10px 0; }
-    #menuPop .menuPopButton {
-        padding: 10px 0;
-    }
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#" itemscope="" itemtype="http://schema.org/Product" class="js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths boxsizing chrome chrome69 webkit linux web x2-20140630001510id- http%3a www.frontgate.com catalog desktop production"><head>
+<!-- 
+	Environment: PROD, Server name: DM_fgp01_cell\WC_fgp01_node02\server2, Device Id: -1, JSession: I5MYMdrhvzwai3JYsoJyEw0
 -->
-</style>
-
-
-
-<script language="javascript">
-arImageList = new Array ();
-arSubImageList = new Array ();
-
-function preLoadCatImages(images_array) {
-	for(loop = 0; loop < images_array.length; loop++)
-	{
-           arImageList[loop] = new Image();
-           arImageList[loop].src = images_array[loop];
-	}
-}
-function preLoadSubCatImages(images_array) {
-	for(loop = 0; loop < images_array.length; loop++)
-	{
-           arSubImageList[loop] = new Image();
-           arSubImageList[loop].src = images_array[loop];
-	}
-}
-function changeCat(frm, thisbox) {
-   var optiontxt = thisbox.options[thisbox.selectedIndex].value;
-   if (optiontxt == "0"){
-        return;
-    }
-    location.href = optiontxt
-}
-
-function moreinfow(linkv) {
-	var linkURL = "/shopping/product/moreinfo.jsp?iProductID=517&linknum=" + linkv;
-	openMe(linkURL, 'MoreInfo');
-}
-
-function countCharacters(field,maxlimit) {
-	if (field.value.length > maxlimit-1) {
-		field.value = field.value.substring(0, maxlimit);
-		//alert("Sorry, maximum characters is "+maxlimit+"!");
-	}
-}
-
+<script type="text/javascript" async="" src="https://cdns.brsrvr.com/v1/br-trk-5175.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script async="" src="//s.btstatic.com/tag.js#site=qWvsoj4"></script><script type="text/javascript" async="" src="https://sb.monetate.net/js/1/a-3382af25/p/frontgate.com/439598/g"></script><script>
+	
+	diagnosticData = new Object();
+	diagnosticData.serverEnvironment = "PROD";
+	diagnosticData.serverName = "DM_fgp01_cell/WC_fgp01_node02/server2";
+	diagnosticData.deviceId = '-1';
+	diagnosticData.jSessionId = 'I5MYMdrhvzwai3JYsoJyEw0';
+	diagnosticData.userType = 'G';
+	diagnosticData.pageURL = 'http://www.frontgate.com/PrivacyView?contentKey=WCM_PRIVACY_RIGHTS';
+	diagnosticData.userIPAddr = '207.241.237.221';
+	diagnosticData.logonId = '';
 </script>
 
-<!-- MilonicDHTML -->
-<script type="text/javascript" src="/menu/milonic_src.js"></script>
-<script type="text/javascript">
-<!--
-if(ns4)_d.write("<scr"+"ipt language=JavaScript src=/menu/mmenuns4.js><\/scr"+"ipt>");
-  else _d.write("<scr"+"ipt language=JavaScript src=/menu/mmenudom.js><\/scr"+"ipt>");
- -->
-</script><script language="JavaScript" src="/menu/mmenudom.js"></script>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="GENERATOR" content="IBM Software Development Platform">
+ 
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<meta name="apple-touch-fullscreen" content="no">
 
-
-
-
-
-
-
-
-
-
-<script type="text/javascript">
-
-
-/*
-Milonic DHTML Menu - JavaScript Website Navigation System.
-Copyright 2004 (c) Milonic Solutions Limited. All Rights Reserved.
-Version 5+ Data File structure is the property of Milonic Solutions Ltd and must only be used in Milonic DHTML Products
-This is a commercial software product, please visit http://www.milonic.com/ for more information.
-See http://www.milonic.com/license.php for Commercial License Agreement
-All Copyright statements must always remain in place in all files at all times
-*******  PLEASE NOTE: THIS IS NOT FREE SOFTWARE, IT MUST BE LICENSED FOR ALL USE  *******
-*/
-
-_menuCloseDelay=450           // The time delay for menus to remain visible on mouse out
-_menuOpenDelay=80            // The time delay before menus open on mouse over
-_subOffsetTop=0               // Sub menu top offset
-_subOffsetLeft=-15            // Sub menu left offset
-
-with(menuStyle=new mm_style()){
-onclass="menuItemOn";
-offclass="menuItemOff";
-//onbgcolor="#cbced2";
-//oncolor="#000000";
-//onborder='0px solid #929292';
-//offbgcolor="#e1e2e3";
-//offcolor="#000000";
-//offborder='0px solid #929292';
-bordercolor="#929292";
-borderstyle="solid";
-borderwidth=1;
-//separatorcolor="#e1e2e3";
-//separatorsize="3";
-//fontsize="10px";
-//fontstyle="normal";
-//fontfamily="verdana, arial, helvetica, sans-serif";
-//pagebgcolor="#e1e2e3";
-//headercolor="#e1e2e3";
-//headerbgcolor="#e1e2e3";
-//subimagepadding="0";
-//overfilter="Fade(duration=0.0);Alpha(opacity=100);";
-//outfilter="randomdissolve(duration=0.0)";
-}
-with(menuStyle105=new mm_style()){
-onclass="menuItemOn";offclass="menuItemOff";bordercolor="#ffffff";borderstyle="solid";borderwidth="1";pageclass="menuItemCurr";}
-with(menuStyle119=new mm_style()){
-onclass="menuItemOn";offclass="menuItemOff";bordercolor="#ffffff";borderstyle="solid";borderwidth="1";pageclass="menuItemCurr";}
-with(menuStyle5873=new mm_style()){
-onclass="menuItemOn";offclass="menuItemOff";bordercolor="#ffffff";borderstyle="solid";borderwidth="1";pageclass="menuItemCurr";}
-with(menuStyle3558=new mm_style()){
-onclass="menuItemOn";offclass="menuItemOff";bordercolor="#ffffff";borderstyle="solid";borderwidth="1";pageclass="menuItemCurr";}
-with(menuStyle145=new mm_style()){
-onclass="menuItemOn";offclass="menuItemOff";bordercolor="#ffffff";borderstyle="solid";borderwidth="1";pageclass="menuItemCurr";}
-with(menuStyle113=new mm_style()){
-onclass="menuItemOn";offclass="menuItemOff";bordercolor="#ffffff";borderstyle="solid";borderwidth="1";pageclass="menuItemCurr";}
-with(menuStyle130=new mm_style()){
-onclass="menuItemOn";offclass="menuItemOff";bordercolor="#ffffff";borderstyle="solid";borderwidth="1";pageclass="menuItemCurr";}
-with(menuStyle2890=new mm_style()){
-onclass="menuItemOn";offclass="menuItemOff";bordercolor="#ffffff";borderstyle="solid";borderwidth="1";pageclass="menuItemCurr";}
-with(menuStyle160=new mm_style()){
-onclass="menuItemOn";offclass="menuItemOff";bordercolor="#ffffff";borderstyle="solid";borderwidth="1";pageclass="menuItemCurr";}
-with(milonic=new menuname("Menu105")){
-style=menuStyle105;
-aI("image=/images/us/global/globalgraphics/spacer08.gif;");
-aI("text=NEWEST ADDITIONS;url=http://www.frontgate.com/jump.jsp?itemID=5588&itemType=CATEGORY&path=1%2C2%2C105%2C5588;pagematch=path=1%2C2%2C105%2C5588;");
-aI("text=Bedding Essentials;url=http://www.frontgate.com/jump.jsp?itemID=4349&itemType=CATEGORY&path=1%2C2%2C105%2C4349;pagematch=path=1%2C2%2C105%2C4349;");
-aI("text=Sheet Sets & Bedding;url=http://www.frontgate.com/jump.jsp?itemID=5247&itemType=CATEGORY&path=1%2C2%2C105%2C5247;pagematch=path=1%2C2%2C105%2C5247;");
-aI("text=Beds & Bedroom Accessories;url=http://www.frontgate.com/jump.jsp?itemID=3636&itemType=CATEGORY&path=1%2C2%2C105%2C3636;pagematch=path=1%2C2%2C105%2C3636;");
-aI("text=Bath Towels & Guest Towels;url=http://www.frontgate.com/jump.jsp?itemID=1733&itemType=CATEGORY&path=1%2C2%2C105%2C1733;pagematch=path=1%2C2%2C105%2C1733;");
-aI("text=Bathroom Accessories;url=http://www.frontgate.com/jump.jsp?itemID=1736&itemType=CATEGORY&path=1%2C2%2C105%2C1736;pagematch=path=1%2C2%2C105%2C1736;");
-aI("text=Bath Rugs;url=http://www.frontgate.com/jump.jsp?itemID=4439&itemType=CATEGORY&path=1%2C2%2C105%2C4439;pagematch=path=1%2C2%2C105%2C4439;");
-aI("text=Shower Accessories;url=http://www.frontgate.com/jump.jsp?itemID=4452&itemType=CATEGORY&path=1%2C2%2C105%2C4452;pagematch=path=1%2C2%2C105%2C4452;");
-aI("text=Bathroom Furnishings;url=http://www.frontgate.com/jump.jsp?itemID=4501&itemType=CATEGORY&path=1%2C2%2C105%2C4501;pagematch=path=1%2C2%2C105%2C4501;");
-aI("text=Personal Care & Spa Accessories;url=http://www.frontgate.com/jump.jsp?itemID=110&itemType=CATEGORY&path=1%2C2%2C105%2C110;pagematch=path=1%2C2%2C105%2C110;");
-aI("text=LABRAZEL COUNTERTOP ACCESSORIES;url=http://www.frontgate.com/jump.jsp?itemID=6793&itemType=CATEGORY&path=1%2C2%2C105%2C6793;pagematch=path=1%2C2%2C105%2C6793;");
-aI("rawcss=text-transform:uppercase;text=Bed & Bath OUTLET;url=http://www.frontgate.com/shopping/browse/directorymain.jsp?outlet=1&itemID=105&itemType=CATEGORY&path=1%2C2%2C105%2C162;");
-}
-with(milonic=new menuname("Menu119")){
-style=menuStyle119;
-aI("image=/images/us/global/globalgraphics/spacer08.gif;");
-aI("text=NEWEST ADDITIONS;url=http://www.frontgate.com/jump.jsp?itemID=5592&itemType=CATEGORY&path=1%2C2%2C119%2C5592;pagematch=path=1%2C2%2C119%2C5592;");
-aI("text=Indoor Area Rugs;url=http://www.frontgate.com/jump.jsp?itemID=120&itemType=CATEGORY&path=1%2C2%2C119%2C120;pagematch=path=1%2C2%2C119%2C120;");
-aI("text=Bar Stools;url=http://www.frontgate.com/jump.jsp?itemID=122&itemType=CATEGORY&path=1%2C2%2C119%2C122;pagematch=path=1%2C2%2C119%2C122;");
-aI("text=Indoor Decor & Accessories;url=http://www.frontgate.com/jump.jsp?itemID=2127&itemType=CATEGORY&path=1%2C2%2C119%2C2127;pagematch=path=1%2C2%2C119%2C2127;");
-aI("text=Wall Art & Wall Decor;url=http://www.frontgate.com/jump.jsp?itemID=5369&itemType=CATEGORY&path=1%2C2%2C119%2C5369;pagematch=path=1%2C2%2C119%2C5369;");
-aI("text=Sofas, Chairs, Benches & Ottomans;url=http://www.frontgate.com/jump.jsp?itemID=2114&itemType=CATEGORY&path=1%2C2%2C119%2C2114;pagematch=path=1%2C2%2C119%2C2114;");
-aI("text=Occasional Tables & Chests;url=http://www.frontgate.com/jump.jsp?itemID=3444&itemType=CATEGORY&path=1%2C2%2C119%2C3444;pagematch=path=1%2C2%2C119%2C3444;");
-aI("text=Dining Furniture;url=http://www.frontgate.com/jump.jsp?itemID=4530&itemType=CATEGORY&path=1%2C2%2C119%2C4530;pagematch=path=1%2C2%2C119%2C4530;");
-aI("text=Bedroom Furnishings & Storage;url=http://www.frontgate.com/jump.jsp?itemID=1381&itemType=CATEGORY&path=1%2C2%2C119%2C1381;pagematch=path=1%2C2%2C119%2C1381;");
-aI("text=Office Furnishings;url=http://www.frontgate.com/jump.jsp?itemID=2855&itemType=CATEGORY&path=1%2C2%2C119%2C2855;pagematch=path=1%2C2%2C119%2C2855;");
-aI("text=Fireplace & Hearth;url=http://www.frontgate.com/jump.jsp?itemID=127&itemType=CATEGORY&path=1%2C2%2C119%2C127;pagematch=path=1%2C2%2C119%2C127;");
-aI("text=Indoor Lighting;url=http://www.frontgate.com/jump.jsp?itemID=5269&itemType=CATEGORY&path=1%2C2%2C119%2C5269;pagematch=path=1%2C2%2C119%2C5269;");
-aI("text=Game & Media Room Furnishings;url=http://www.frontgate.com/jump.jsp?itemID=1382&itemType=CATEGORY&path=1%2C2%2C119%2C1382;pagematch=path=1%2C2%2C119%2C1382;");
-aI("text=Accent Pillows & Throws;url=http://www.frontgate.com/jump.jsp?itemID=3062&itemType=CATEGORY&path=1%2C2%2C119%2C3062;pagematch=path=1%2C2%2C119%2C3062;");
-aI("text=Home Fitness Equipment;url=http://www.frontgate.com/jump.jsp?itemID=3983&itemType=CATEGORY&path=1%2C2%2C119%2C3983;pagematch=path=1%2C2%2C119%2C3983;");
-aI("text=BRUSHSTROKES FRAMED ART;url=http://www.frontgate.com/jump.jsp?itemID=6283&itemType=CATEGORY&path=1%2C2%2C119%2C6283;pagematch=path=1%2C2%2C119%2C6283;");
-aI("rawcss=text-transform:uppercase;text=Indoor Decor & Furnishings OUTLET;url=http://www.frontgate.com/shopping/browse/directorymain.jsp?outlet=1&itemID=119&itemType=CATEGORY&path=1%2C2%2C119%2C162;");
-}
-with(milonic=new menuname("Menu5873")){
-style=menuStyle5873;
-aI("image=/images/us/global/globalgraphics/spacer08.gif;");
-aI("text=NEWEST ADDITIONS;url=http://www.frontgate.com/jump.jsp?itemID=6126&itemType=CATEGORY&path=1%2C2%2C5873%2C6126;pagematch=path=1%2C2%2C5873%2C6126;");
-aI("text=Pet Beds, Blankets & Throws;url=http://www.frontgate.com/jump.jsp?itemID=5874&itemType=CATEGORY&path=1%2C2%2C5873%2C5874;pagematch=path=1%2C2%2C5873%2C5874;");
-aI("text=Pet Houses, Crates & Travel Accessories;url=http://www.frontgate.com/jump.jsp?itemID=5875&itemType=CATEGORY&path=1%2C2%2C5873%2C5875;pagematch=path=1%2C2%2C5873%2C5875;");
-aI("text=Pet Gates, Stairs & Ramps;url=http://www.frontgate.com/jump.jsp?itemID=5876&itemType=CATEGORY&path=1%2C2%2C5873%2C5876;pagematch=path=1%2C2%2C5873%2C5876;");
-aI("text=Pet Feeders;url=http://www.frontgate.com/jump.jsp?itemID=5877&itemType=CATEGORY&path=1%2C2%2C5873%2C5877;pagematch=path=1%2C2%2C5873%2C5877;");
-aI("text=Pet Collars, Leashes & Leads;url=http://www.frontgate.com/jump.jsp?itemID=6217&itemType=CATEGORY&path=1%2C2%2C5873%2C6217;pagematch=path=1%2C2%2C5873%2C6217;");
-aI("text=Pet Care, Cleaning & Training;url=http://www.frontgate.com/jump.jsp?itemID=5878&itemType=CATEGORY&path=1%2C2%2C5873%2C5878;pagematch=path=1%2C2%2C5873%2C5878;");
-aI("text=Pet Toys, Treats & Gifts;url=http://www.frontgate.com/jump.jsp?itemID=5879&itemType=CATEGORY&path=1%2C2%2C5873%2C5879;pagematch=path=1%2C2%2C5873%2C5879;");
-aI("text=Personalized Pet Accessories;url=http://www.frontgate.com/jump.jsp?itemID=5880&itemType=CATEGORY&path=1%2C2%2C5873%2C5880;pagematch=path=1%2C2%2C5873%2C5880;");
-aI("text=Fish & Bird Accessories;url=http://www.frontgate.com/jump.jsp?itemID=5883&itemType=CATEGORY&path=1%2C2%2C5873%2C5883;pagematch=path=1%2C2%2C5873%2C5883;");
-aI("rawcss=text-transform:uppercase;text=Pet Products OUTLET;url=http://www.frontgate.com/shopping/browse/directorymain.jsp?outlet=1&itemID=5873&itemType=CATEGORY&path=1%2C2%2C5873%2C162;");
-}
-with(milonic=new menuname("Menu3558")){
-style=menuStyle3558;
-aI("image=/images/us/global/globalgraphics/spacer08.gif;");
-aI("text=FURNITURE SET SAVINGS;url=http://www.frontgate.com/jump.jsp?itemID=7037&itemType=CATEGORY&path=1%2C2%2C3558%2C7037;pagematch=path=1%2C2%2C3558%2C7037;");
-aI("text=Outdoor Furniture Collections;url=http://www.frontgate.com/jump.jsp?itemID=3559&itemType=CATEGORY&path=1%2C2%2C3558%2C3559;pagematch=path=1%2C2%2C3558%2C3559;");
-aI("text=Deep-seating Collections;url=http://www.frontgate.com/jump.jsp?itemID=7024&itemType=CATEGORY&path=1%2C2%2C3558%2C7024;pagematch=path=1%2C2%2C3558%2C7024;");
-aI("text=Dining Collections;url=http://www.frontgate.com/jump.jsp?itemID=3565&itemType=CATEGORY&path=1%2C2%2C3558%2C3565;pagematch=path=1%2C2%2C3558%2C3565;");
-aI("text=Chaise Lounges;url=http://www.frontgate.com/jump.jsp?itemID=3563&itemType=CATEGORY&path=1%2C2%2C3558%2C3563;pagematch=path=1%2C2%2C3558%2C3563;");
-aI("text=Outdoor Seating;url=http://www.frontgate.com/jump.jsp?itemID=3564&itemType=CATEGORY&path=1%2C2%2C3558%2C3564;pagematch=path=1%2C2%2C3558%2C3564;");
-aI("text=Outdoor Cushions;url=http://www.frontgate.com/jump.jsp?itemID=7025&itemType=CATEGORY&path=1%2C2%2C3558%2C7025;pagematch=path=1%2C2%2C3558%2C7025;");
-aI("text=Throw Pillows;url=http://www.frontgate.com/jump.jsp?itemID=7036&itemType=CATEGORY&path=1%2C2%2C3558%2C7036;pagematch=path=1%2C2%2C3558%2C7036;");
-aI("text=Outdoor Furniture Covers & Storage;url=http://www.frontgate.com/jump.jsp?itemID=3566&itemType=CATEGORY&path=1%2C2%2C3558%2C3566;pagematch=path=1%2C2%2C3558%2C3566;");
-aI("text=Occasional Tables;url=http://www.frontgate.com/jump.jsp?itemID=3568&itemType=CATEGORY&path=1%2C2%2C3558%2C3568;pagematch=path=1%2C2%2C3558%2C3568;");
-aI("rawcss=text-transform:uppercase;text=Outdoor Furniture OUTLET;url=http://www.frontgate.com/shopping/browse/directorymain.jsp?outlet=1&itemID=3558&itemType=CATEGORY&path=1%2C2%2C3558%2C162;");
-}
-with(milonic=new menuname("Menu145")){
-style=menuStyle145;
-aI("image=/images/us/global/globalgraphics/spacer08.gif;");
-aI("text=NEWEST ADDITIONS;url=http://www.frontgate.com/jump.jsp?itemID=5593&itemType=CATEGORY&path=1%2C2%2C145%2C5593;pagematch=path=1%2C2%2C145%2C5593;");
-aI("text=Outdoor Decor;url=http://www.frontgate.com/jump.jsp?itemID=749&itemType=CATEGORY&path=1%2C2%2C145%2C749;pagematch=path=1%2C2%2C145%2C749;");
-aI("text=Outdoor Rugs;url=http://www.frontgate.com/jump.jsp?itemID=1821&itemType=CATEGORY&path=1%2C2%2C145%2C1821;pagematch=path=1%2C2%2C145%2C1821;");
-aI("text=Fire Pits & Outdoor Heating;url=http://www.frontgate.com/jump.jsp?itemID=1829&itemType=CATEGORY&path=1%2C2%2C145%2C1829;pagematch=path=1%2C2%2C145%2C1829;");
-aI("text=Outdoor Cushions;url=http://www.frontgate.com/jump.jsp?itemID=1750&itemType=CATEGORY&path=1%2C2%2C145%2C1750;pagematch=path=1%2C2%2C145%2C1750;");
-aI("text=Throw Pillows;url=http://www.frontgate.com/jump.jsp?itemID=5033&itemType=CATEGORY&path=1%2C2%2C145%2C5033;pagematch=path=1%2C2%2C145%2C5033;");
-aI("text=Outdoor Lighting & Candles;url=http://www.frontgate.com/jump.jsp?itemID=1824&itemType=CATEGORY&path=1%2C2%2C145%2C1824;pagematch=path=1%2C2%2C145%2C1824;");
-aI("text=Outdoor Door Mats;url=http://www.frontgate.com/jump.jsp?itemID=4391&itemType=CATEGORY&path=1%2C2%2C145%2C4391;pagematch=path=1%2C2%2C145%2C4391;");
-aI("text=Umbrellas & Outdoor Cooling;url=http://www.frontgate.com/jump.jsp?itemID=1813&itemType=CATEGORY&path=1%2C2%2C145%2C1813;pagematch=path=1%2C2%2C145%2C1813;");
-aI("text=Pool & Beach;url=http://www.frontgate.com/jump.jsp?itemID=766&itemType=CATEGORY&path=1%2C2%2C145%2C766;pagematch=path=1%2C2%2C145%2C766;");
-aI("text=Storage, Maintenance & Lawn Care;url=http://www.frontgate.com/jump.jsp?itemID=760&itemType=CATEGORY&path=1%2C2%2C145%2C760;pagematch=path=1%2C2%2C145%2C760;");
-aI("text=Address Plaques & Mailboxes;url=http://www.frontgate.com/jump.jsp?itemID=1832&itemType=CATEGORY&path=1%2C2%2C145%2C1832;pagematch=path=1%2C2%2C145%2C1832;");
-aI("text=Outdoor Entertaining;url=http://www.frontgate.com/jump.jsp?itemID=4412&itemType=CATEGORY&path=1%2C2%2C145%2C4412;pagematch=path=1%2C2%2C145%2C4412;");
-aI("text=Grills & Outdoor Appliances;url=http://www.frontgate.com/jump.jsp?itemID=859&itemType=CATEGORY&path=1%2C2%2C145%2C859;pagematch=path=1%2C2%2C145%2C859;");
-aI("text=Mosquito & Pest Control;url=http://www.frontgate.com/jump.jsp?itemID=7003&itemType=CATEGORY&path=1%2C2%2C145%2C7003;pagematch=path=1%2C2%2C145%2C7003;");
-aI("rawcss=text-transform:uppercase;text=Outdoor Decor & Accessories OUTLET;url=http://www.frontgate.com/shopping/browse/directorymain.jsp?outlet=1&itemID=145&itemType=CATEGORY&path=1%2C2%2C145%2C162;");
-}
-with(milonic=new menuname("Menu113")){
-style=menuStyle113;
-aI("image=/images/us/global/globalgraphics/spacer08.gif;");
-aI("text=NEWEST ADDITIONS;url=http://www.frontgate.com/jump.jsp?itemID=5590&itemType=CATEGORY&path=1%2C2%2C113%2C5590;pagematch=path=1%2C2%2C113%2C5590;");
-aI("text=Audio & Video;url=http://www.frontgate.com/jump.jsp?itemID=115&itemType=CATEGORY&path=1%2C2%2C113%2C115;pagematch=path=1%2C2%2C113%2C115;");
-aI("text=iPod, iPhone & iPad Accessories;url=http://www.frontgate.com/jump.jsp?itemID=7158&itemType=CATEGORY&path=1%2C2%2C113%2C7158;pagematch=path=1%2C2%2C113%2C7158;");
-aI("text=Outdoor Electronics;url=http://www.frontgate.com/jump.jsp?itemID=2320&itemType=CATEGORY&path=1%2C2%2C113%2C2320;pagematch=path=1%2C2%2C113%2C2320;");
-aI("text=Cordless Phones & Communication;url=http://www.frontgate.com/jump.jsp?itemID=118&itemType=CATEGORY&path=1%2C2%2C113%2C118;pagematch=path=1%2C2%2C113%2C118;");
-aI("text=Home Safety;url=http://www.frontgate.com/jump.jsp?itemID=2279&itemType=CATEGORY&path=1%2C2%2C113%2C2279;pagematch=path=1%2C2%2C113%2C2279;");
-aI("text=Digital Media Archiving;url=http://www.frontgate.com/jump.jsp?itemID=3611&itemType=CATEGORY&path=1%2C2%2C113%2C3611;pagematch=path=1%2C2%2C113%2C3611;");
-aI("text=Game & Media Room;url=http://www.frontgate.com/jump.jsp?itemID=4622&itemType=CATEGORY&path=1%2C2%2C113%2C4622;pagematch=path=1%2C2%2C113%2C4622;");
-aI("text=Recreation & Leisure;url=http://www.frontgate.com/jump.jsp?itemID=4614&itemType=CATEGORY&path=1%2C2%2C113%2C4614;pagematch=path=1%2C2%2C113%2C4614;");
-aI("text=Home Appliances & Cleaning;url=http://www.frontgate.com/jump.jsp?itemID=4648&itemType=CATEGORY&path=1%2C2%2C113%2C4648;pagematch=path=1%2C2%2C113%2C4648;");
-aI("text=Flashlights;url=http://www.frontgate.com/jump.jsp?itemID=7897&itemType=CATEGORY&path=1%2C2%2C113%2C7897;pagematch=path=1%2C2%2C113%2C7897;");
-aI("text=Cameras, Binoculars & Telescopes;url=http://www.frontgate.com/jump.jsp?itemID=116&itemType=CATEGORY&path=1%2C2%2C113%2C116;pagematch=path=1%2C2%2C113%2C116;");
-aI("text=Travel Accessories;url=http://www.frontgate.com/jump.jsp?itemID=5364&itemType=CATEGORY&path=1%2C2%2C113%2C5364;pagematch=path=1%2C2%2C113%2C5364;");
-aI("text=Watches, Watch Winders & Storage;url=http://www.frontgate.com/jump.jsp?itemID=4640&itemType=CATEGORY&path=1%2C2%2C113%2C4640;pagematch=path=1%2C2%2C113%2C4640;");
-aI("text=CARBON FIBER COLLECTION;url=http://www.frontgate.com/jump.jsp?itemID=8037&itemType=CATEGORY&path=1%2C2%2C113%2C8037;pagematch=path=1%2C2%2C113%2C8037;");
-aI("rawcss=text-transform:uppercase;text=Electronics & Leisure OUTLET;url=http://www.frontgate.com/shopping/browse/directorymain.jsp?outlet=1&itemID=113&itemType=CATEGORY&path=1%2C2%2C113%2C162;");
-}
-with(milonic=new menuname("Menu130")){
-style=menuStyle130;
-aI("image=/images/us/global/globalgraphics/spacer08.gif;");
-aI("text=NEWEST ADDITIONS;url=http://www.frontgate.com/jump.jsp?itemID=5589&itemType=CATEGORY&path=1%2C2%2C130%2C5589;pagematch=path=1%2C2%2C130%2C5589;");
-aI("text=Kitchen Appliances;url=http://www.frontgate.com/jump.jsp?itemID=131&itemType=CATEGORY&path=1%2C2%2C130%2C131;pagematch=path=1%2C2%2C130%2C131;");
-aI("text=Cookware & Cooking Accessories;url=http://www.frontgate.com/jump.jsp?itemID=4779&itemType=CATEGORY&path=1%2C2%2C130%2C4779;pagematch=path=1%2C2%2C130%2C4779;");
-aI("text=Kitchen Furnishings & Rugs;url=http://www.frontgate.com/jump.jsp?itemID=132&itemType=CATEGORY&path=1%2C2%2C130%2C132;pagematch=path=1%2C2%2C130%2C132;");
-aI("text=Cutlery;url=http://www.frontgate.com/jump.jsp?itemID=4791&itemType=CATEGORY&path=1%2C2%2C130%2C4791;pagematch=path=1%2C2%2C130%2C4791;");
-aI("text=Barware, Bar Furnishings & Accessories;url=http://www.frontgate.com/jump.jsp?itemID=133&itemType=CATEGORY&path=1%2C2%2C130%2C133;pagematch=path=1%2C2%2C130%2C133;");
-aI("text=Serving Accessories;url=http://www.frontgate.com/jump.jsp?itemID=4816&itemType=CATEGORY&path=1%2C2%2C130%2C4816;pagematch=path=1%2C2%2C130%2C4816;");
-aI("text=Grills & Grill Accessories;url=http://www.frontgate.com/jump.jsp?itemID=1848&itemType=CATEGORY&path=1%2C2%2C130%2C1848;pagematch=path=1%2C2%2C130%2C1848;");
-aI("text=Outdoor Entertaining;url=http://www.frontgate.com/jump.jsp?itemID=5675&itemType=CATEGORY&path=1%2C2%2C130%2C5675;pagematch=path=1%2C2%2C130%2C5675;");
-aI("text=Kitchen Storage & Maintenance;url=http://www.frontgate.com/jump.jsp?itemID=5709&itemType=CATEGORY&path=1%2C2%2C130%2C5709;pagematch=path=1%2C2%2C130%2C5709;");
-aI("text=VIKING KITCHEN TOOLS;url=http://www.frontgate.com/jump.jsp?itemID=7793&itemType=CATEGORY&path=1%2C2%2C130%2C7793;pagematch=path=1%2C2%2C130%2C7793;");
-aI("text=SPECIAL COLLECTIONS;url=http://www.frontgate.com/jump.jsp?itemID=6235&itemType=CATEGORY&path=1%2C2%2C130%2C6235;pagematch=path=1%2C2%2C130%2C6235;");
-aI("rawcss=text-transform:uppercase;text=Kitchen & Entertaining OUTLET;url=http://www.frontgate.com/shopping/browse/directorymain.jsp?outlet=1&itemID=130&itemType=CATEGORY&path=1%2C2%2C130%2C162;");
-}
-with(milonic=new menuname("Menu2890")){
-style=menuStyle2890;
-aI("image=/images/us/global/globalgraphics/spacer08.gif;");
-aI("text=Valentine's Day Gifts;url=http://www.frontgate.com/jump.jsp?itemID=8217&itemType=CATEGORY&path=1%2C2%2C2890%2C8217;pagematch=path=1%2C2%2C2890%2C8217;");
-aI("text=Gifts for Him;url=http://www.frontgate.com/jump.jsp?itemID=2891&itemType=CATEGORY&path=1%2C2%2C2890%2C2891;pagematch=path=1%2C2%2C2890%2C2891;");
-aI("text=Gifts for Her;url=http://www.frontgate.com/jump.jsp?itemID=3038&itemType=CATEGORY&path=1%2C2%2C2890%2C3038;pagematch=path=1%2C2%2C2890%2C3038;");
-aI("text=Gifts for Kids & Teens;url=http://www.frontgate.com/jump.jsp?itemID=2913&itemType=CATEGORY&path=1%2C2%2C2890%2C2913;pagematch=path=1%2C2%2C2890%2C2913;");
-aI("text=Gifts for Pets;url=http://www.frontgate.com/jump.jsp?itemID=6427&itemType=CATEGORY&path=1%2C2%2C2890%2C6427;pagematch=path=1%2C2%2C2890%2C6427;");
-aI("text=Personalized Gifts;url=http://www.frontgate.com/jump.jsp?itemID=2918&itemType=CATEGORY&path=1%2C2%2C2890%2C2918;pagematch=path=1%2C2%2C2890%2C2918;");
-aI("text=Electronic Gifts;url=http://www.frontgate.com/jump.jsp?itemID=3044&itemType=CATEGORY&path=1%2C2%2C2890%2C3044;pagematch=path=1%2C2%2C2890%2C3044;");
-aI("text=Gourmet & Entertaining Gifts;url=http://www.frontgate.com/jump.jsp?itemID=3231&itemType=CATEGORY&path=1%2C2%2C2890%2C3231;pagematch=path=1%2C2%2C2890%2C3231;");
-aI("text=Game Room Gifts;url=http://www.frontgate.com/jump.jsp?itemID=3202&itemType=CATEGORY&path=1%2C2%2C2890%2C3202;pagematch=path=1%2C2%2C2890%2C3202;");
-aI("text=Office Gifts;url=http://www.frontgate.com/jump.jsp?itemID=3209&itemType=CATEGORY&path=1%2C2%2C2890%2C3209;pagematch=path=1%2C2%2C2890%2C3209;");
-aI("text=Frontgate Gift Cards;url=http://www.frontgate.com/jump.jsp?itemID=3345&itemType=CATEGORY&path=1%2C2%2C2890%2C3345;pagematch=path=1%2C2%2C2890%2C3345;");
-aI("rawcss=text-transform:uppercase;text=Gifts OUTLET;url=http://www.frontgate.com/shopping/browse/directorymain.jsp?outlet=1&itemID=2890&itemType=CATEGORY&path=1%2C2%2C2890%2C162;");
-}
-with(milonic=new menuname("Menu160")){
-style=menuStyle160;
-aI("image=/images/us/global/globalgraphics/spacer08.gif;");
-aI("text=NEWEST ADDITIONS;url=http://www.frontgate.com/jump.jsp?itemID=266&itemType=CATEGORY&path=1%2C2%2C160%2C266;pagematch=path=1%2C2%2C160%2C266;");
-aI("text=NEARLY GONE;url=http://www.frontgate.com/jump.jsp?itemID=267&itemType=CATEGORY&path=1%2C2%2C160%2C267;pagematch=path=1%2C2%2C160%2C267;");
-aI("text=WEEKLY SPECIALS;url=http://www.frontgate.com/jump.jsp?itemID=4911&itemType=CATEGORY&path=1%2C2%2C160%2C4911;pagematch=path=1%2C2%2C160%2C4911;");
-aI("text=Grandin Road;url=http://www.frontgate.com/jump.jsp?itemID=7610&itemType=CATEGORY&path=1%2C2%2C160%2C7610;pagematch=path=1%2C2%2C160%2C7610;");
-aI("text=Holiday Decor;url=http://www.frontgate.com/jump.jsp?itemID=8172&itemType=CATEGORY&path=1%2C2%2C160%2C8172;pagematch=path=1%2C2%2C160%2C8172;");
-aI("text=Bed & Bath;url=http://www.frontgate.com/shopping/browse/directorymain.jsp?outlet=1&itemID=105&itemType=CATEGORY&path=1%2C2%2C160%2C105;pagematch=path=1%2C2%2C160%2C105;");
-aI("text=Indoor Decor & Furnishings;url=http://www.frontgate.com/shopping/browse/directorymain.jsp?outlet=1&itemID=119&itemType=CATEGORY&path=1%2C2%2C160%2C119;pagematch=path=1%2C2%2C160%2C119;");
-aI("text=Pet Products;url=http://www.frontgate.com/shopping/browse/directorymain.jsp?outlet=1&itemID=5873&itemType=CATEGORY&path=1%2C2%2C160%2C5873;pagematch=path=1%2C2%2C160%2C5873;");
-aI("text=Outdoor Furniture;url=http://www.frontgate.com/shopping/browse/directorymain.jsp?outlet=1&itemID=3558&itemType=CATEGORY&path=1%2C2%2C160%2C3558;pagematch=path=1%2C2%2C160%2C3558;");
-aI("text=Outdoor Decor & Accessories;url=http://www.frontgate.com/shopping/browse/directorymain.jsp?outlet=1&itemID=145&itemType=CATEGORY&path=1%2C2%2C160%2C145;pagematch=path=1%2C2%2C160%2C145;");
-aI("text=Electronics & Leisure;url=http://www.frontgate.com/shopping/browse/directorymain.jsp?outlet=1&itemID=113&itemType=CATEGORY&path=1%2C2%2C160%2C113;pagematch=path=1%2C2%2C160%2C113;");
-aI("text=Kitchen & Entertaining;url=http://www.frontgate.com/shopping/browse/directorymain.jsp?outlet=1&itemID=130&itemType=CATEGORY&path=1%2C2%2C160%2C130;pagematch=path=1%2C2%2C160%2C130;");
-aI("text=Gifts;url=http://www.frontgate.com/shopping/browse/directorymain.jsp?outlet=1&itemID=2890&itemType=CATEGORY&path=1%2C2%2C160%2C2890;pagematch=path=1%2C2%2C160%2C2890;");
-}
-
-
-with(scart=new mm_style()){
-}
-with(milonic=new menuname("SCMenu")){
-style=scart;
-ignorecollision=true;
-left=0;
-top=-1;
-aI("text=`<table id=menuPop cellpadding=0 cellspacing=0 border=0><tr class=menuPopItem>    <td valign=middle align=center><p>There are no items<br/>in your cart.</p></td></tr></table>`;url=`http://www.frontgate.com/basket/basketmain.jsp`");
-}
-
-drawMenus();
+<script src="/wcsstore/CornerStoneBrands/javascript/head.load.min.js"></script>  
+<script>
+  JiffyOptions = {
+    USE_JIFFY:true,
+    ISBULKLOAD: true,
+    BROWSER_EVENTS: {"load":window},
+    SOFT_ERRORS: false
+  };
 </script>
-<!-- End Milonic DHTML includes -->
-<script language="VBScript" type="text/vbscript">
-<!-- // Visual basic helper required to detect Flash Player ActiveX control version information
-Function VBGetSwfVer(i)
-  on error resume next
-  Dim swControl, swVersion
-  swVersion = 0
+<script src="/wcsstore/CornerStoneBrands/javascript/jiffy.js"></script>
 
-  set swControl = CreateObject("ShockwaveFlash.ShockwaveFlash." + CStr(i))
-  if (IsObject(swControl)) then
-    swVersion = swControl.GetVariable("$version")
-  end if
-  VBGetSwfVer = swVersion
-End Function
-// -->
+ 
+<script>
+	Jiffy.mark("syncJSload");
 </script>
-<script src="/includes/flashdetection.js"></script>
+<meta name="gwt:property" content="brand=B10053">
+<script src="/gwtResources?storeId=10053&amp;catalogId=10053&amp;langId=-1&amp;oldView=&amp;key=all"></script>
+  
+<script src="/wcsstore/CornerStoneBrands/GWT/TopNavEntryPoint.nocache.js?ts=1404038782890"></script>
+<script src="/wcsstore/CornerStoneBrands/GWT/CSBEntryPoint.nocache.js?ts=1404038782890"></script>
+<script src="/wcsstore/CornerStoneBrands/javascript/jquery-1.11.0.min.js"></script>
+<script src="/wcsstore/CornerStoneBrands/javascript/jquery-migrate-1.2.1.min.js"></script>
+<script src="/wcsstore/CornerStoneBrands/javascript/jquery-ui.min.js"></script>
 
 
-
-</head>
-
-<body class="main">
-
-<!-- Content Wrap Home Start -->
-
-    
-<table id="layout" align="center" border="0" width="792" cellpadding="0" cellspacing="0">
-  	<tbody><tr height="85">
-		<td class="siteborder" width="0"></td>
-		<td class="navheaderbg"></td>
-		<td class="innersiteborder"></td>
-		<td colspan="3" class="navheaderbg">			
-
-    
-<script language="JavaScript" type="text/JavaScript">
-function showLayers(layerid) { //v6.0
-  var layer = document.getElementById(layerid);
-  layer.style.visibility='visible';
-}
-function hideLayers(layerid) { //v6.0
-  var layer = document.getElementById(layerid);
-  layer.style.visibility='hidden';
-}
-</script>
-
-<!--SourceCode: FG,WEBFGA -->
-<!--Ecom SourceCode: WEBFGA (if blak default will be sent)-->
+	<script src="/MergedJSView?storeId=10053&amp;langid=-1&amp;catalogId=10053&amp;useMergedJSFile=true&amp;ts=1404038782890"></script>
 
 
-
-<!-- Navheader Start-->
-<div id="mainContain">
-	<div id="mast">
-		<div id="search">
-		
-			<form name="searchForm" action="http://www.frontgate.com/mercadoSearch.do" onsubmit="return checkFieldsSearch()">
-				<input type="hidden" name="action" value="search">	
-				<input type="hidden" name="newSearch" value="true">
-				<input id="inputTopSiteSearch" type="text" name="freeText" value="Keyword or item#" style="margin-right: 4px;" onfocus="if(this.value=='Keyword or item#')this.value='';" onfocusout="if(this.value=='')this.value='Keyword or item#';"><input type="Image" name="Search" src="http://a248.e.akamai.net/f/248/6062/6h/www.frontgate.com/images/us/global/globalnav/search_btn.gif" border="0" align="absmiddle" alt="Search">
-		
-			 <div id="scid" onmouseover="popup('SCMenu','scid');" onmouseout="popdown();">
-				<a href="http://www.frontgate.com/basket/basketmain.jsp">
-				<img src="http://a248.e.akamai.net/f/248/6062/6h/www.frontgate.com/images/us/global/globalnav/shoppingCart.gif" border="0" align="absmiddle" alt="Shopping Cart" title="Shopping Cart" name="top_shopbasket"> (0 items)
-				</a>
-			 </div>
-			</form>  
-		</div>
-		<div id="mastLinks">
-			<ul>
-				<li><a href="https://www.frontgate.com/account/login/loginmain.jsp">My Account</a></li>
-				 
-				<li><a href="http://www.frontgate.com/jump.jsp?itemType=CATEGORY&amp;itemID=270&amp;path=1%2C3%2C270">Customer Service</a></li>
-				<li><a href="https://www.frontgate.com/account/orderhistory/orderstatusmain.jsp">Order Status</a></li>
-				<li><b>1.888.263.9850</b></li>
-			</ul>
-		</div>
-		<div id="logo">
-			<a href="http://www.frontgate.com/jump.jsp?itemID=162&amp;itemType=HOME_PAGE"><img src="http://a248.e.akamai.net/f/248/6062/6h/www.frontgate.com/images/us/global/globalnav/logo01.gif" border="0" alt="Frontgate" title="Frontgate" align="absmiddle"></a>
-		</div>
-		<div id="mastclear"><!-- nothing --></div>
-	</div>
-
-
-	<div id="navmenu">
-		<table border="0" cellspacing="0" cellpadding="0" width="792" align="top">
-			<tbody><tr>
-				<td><table border="0" cellspacing="0" cellpadding="0">
-				<tbody><tr valign="top">
-				
-							<td><a href="http://www.frontgate.com/jump.jsp?itemType=CATEGORY&amp;itemID=105&amp;path=1%2C2%2C105" onmouseover="rollover('Left105','http://a248.e.akamai.net/f/248/6062/6h/www.frontgate.com/images/us/global/globalnav/globalnav_bedon.gif');popup('Menu105','Left105', null, null, null, 500);" onmouseout="rollover('Left105','http://a248.e.akamai.net/f/248/6062/6h/www.frontgate.com/images/us/global/globalnav/globalnav_bedoff.gif');popdown();"><img border="0" name="Left105" id="Left105" src="http://a248.e.akamai.net/f/248/6062/6h/www.frontgate.com/images/us/global/globalnav/globalnav_bedoff.gif" alt="Bed &amp; Bath" title="Bed &amp; Bath"></a></td>
-							
-							<td width="3"><img src="http://a248.e.akamai.net/f/248/6062/6h/www.frontgate.com/images/us/global/globalnav/spacer_01.gif" border="0"></td>
-							
-							<td><a href="http://www.frontgate.com/jump.jsp?itemType=CATEGORY&amp;itemID=119&amp;path=1%2C2%2C119" onmouseover="rollover('Left119','http://a248.e.akamai.net/f/248/6062/6h/www.frontgate.com/images/us/global/globalnav/globalnav_indooron.gif');popup('Menu119','Left119', null, null, null, 500);" onmouseout="rollover('Left119','http://a248.e.akamai.net/f/248/6062/6h/www.frontgate.com/images/us/global/globalnav/globalnav_indooroff.gif');popdown();"><img border="0" name="Left119" id="Left119" src="http://a248.e.akamai.net/f/248/6062/6h/www.frontgate.com/images/us/global/globalnav/globalnav_indooroff.gif" alt="Indoor Decor &amp; Furnishings" title="Indoor Decor &amp; Furnishings"></a></td>
-							
-							<td width="3"><img src="http://a248.e.akamai.net/f/248/6062/6h/www.frontgate.com/images/us/global/globalnav/spacer_01.gif" border="0"></td>
-							
-							<td><a href="http://www.frontgate.com/jump.jsp?itemType=CATEGORY&amp;itemID=5873&amp;path=1%2C2%2C5873" onmouseover="rollover('Left5873','http://a248.e.akamai.net/f/248/6062/6h/www.frontgate.com/images/us/global/globalnav/globalnav_peton.gif');popup('Menu5873','Left5873', null, null, null, 500);" onmouseout="rollover('Left5873','http://a248.e.akamai.net/f/248/6062/6h/www.frontgate.com/images/us/global/globalnav/globalnav_petoff.gif');popdown();"><img border="0" name="Left5873" id="Left5873" src="http://a248.e.akamai.net/f/248/6062/6h/www.frontgate.com/images/us/global/globalnav/globalnav_petoff.gif" alt="Pet Products" title="Pet Products"></a></td>
-							
-							<td width="3"><img src="http://a248.e.akamai.net/f/248/6062/6h/www.frontgate.com/images/us/global/globalnav/spacer_01.gif" border="0"></td>
-							
-							<td><a href="http://www.frontgate.com/jump.jsp?itemType=CATEGORY&amp;itemID=3558&amp;path=1%2C2%2C3558" onmouseover="rollover('Left3558','http://a248.e.akamai.net/f/248/6062/6h/www.frontgate.com/images/us/global/globalnav/globalnav_outdoorFurnitureon.gif');popup('Menu3558','Left3558', null, null, null, 500);" onmouseout="rollover('Left3558','http://a248.e.akamai.net/f/248/6062/6h/www.frontgate.com/images/us/global/globalnav/globalnav_outdoorFurnitureoff.gif');popdown();"><img border="0" name="Left3558" id="Left3558" src="http://a248.e.akamai.net/f/248/6062/6h/www.frontgate.com/images/us/global/globalnav/globalnav_outdoorFurnitureoff.gif" alt="Outdoor Furniture" title="Outdoor Furniture"></a></td>
-							
-							<td width="3"><img src="http://a248.e.akamai.net/f/248/6062/6h/www.frontgate.com/images/us/global/globalnav/spacer_01.gif" border="0"></td>
-							
-							<td><a href="http://www.frontgate.com/jump.jsp?itemType=CATEGORY&amp;itemID=145&amp;path=1%2C2%2C145" onmouseover="rollover('Left145','http://a248.e.akamai.net/f/248/6062/6h/www.frontgate.com/images/us/global/globalnav/globalnav_outdoorDecoron.gif');popup('Menu145','Left145', null, null, null, 500);" onmouseout="rollover('Left145','http://a248.e.akamai.net/f/248/6062/6h/www.frontgate.com/images/us/global/globalnav/globalnav_outdoorDecoroff.gif');popdown();"><img border="0" name="Left145" id="Left145" src="http://a248.e.akamai.net/f/248/6062/6h/www.frontgate.com/images/us/global/globalnav/globalnav_outdoorDecoroff.gif" alt="Outdoor Decor &amp; Accessories" title="Outdoor Decor &amp; Accessories"></a></td>
-							
-							<td width="3"><img src="http://a248.e.akamai.net/f/248/6062/6h/www.frontgate.com/images/us/global/globalnav/spacer_01.gif" border="0"></td>
-							
-							<td><a href="http://www.frontgate.com/jump.jsp?itemType=CATEGORY&amp;itemID=113&amp;path=1%2C2%2C113" onmouseover="rollover('Left113','http://a248.e.akamai.net/f/248/6062/6h/www.frontgate.com/images/us/global/globalnav/globalnav_electronicson.gif');popup('Menu113','Left113', null, null, null, 500);" onmouseout="rollover('Left113','http://a248.e.akamai.net/f/248/6062/6h/www.frontgate.com/images/us/global/globalnav/globalnav_electronicsoff.gif');popdown();"><img border="0" name="Left113" id="Left113" src="http://a248.e.akamai.net/f/248/6062/6h/www.frontgate.com/images/us/global/globalnav/globalnav_electronicsoff.gif" alt="Electronics &amp; Leisure" title="Electronics &amp; Leisure"></a></td>
-							
-							<td width="3"><img src="http://a248.e.akamai.net/f/248/6062/6h/www.frontgate.com/images/us/global/globalnav/spacer_01.gif" border="0"></td>
-							
-							<td><a href="http://www.frontgate.com/jump.jsp?itemType=CATEGORY&amp;itemID=130&amp;path=1%2C2%2C130" onmouseover="rollover('Left130','http://a248.e.akamai.net/f/248/6062/6h/www.frontgate.com/images/us/global/globalnav/globalnav_kitchenon.gif');popup('Menu130','Left130', null, null, null, 500);" onmouseout="rollover('Left130','http://a248.e.akamai.net/f/248/6062/6h/www.frontgate.com/images/us/global/globalnav/globalnav_kitchenoff.gif');popdown();"><img border="0" name="Left130" id="Left130" src="http://a248.e.akamai.net/f/248/6062/6h/www.frontgate.com/images/us/global/globalnav/globalnav_kitchenoff.gif" alt="Kitchen &amp; Entertaining" title="Kitchen &amp; Entertaining"></a></td>
-							
-							<td width="3"><img src="http://a248.e.akamai.net/f/248/6062/6h/www.frontgate.com/images/us/global/globalnav/spacer_01.gif" border="0"></td>
-							
-							<td><a href="http://www.frontgate.com/jump.jsp?itemType=CATEGORY&amp;itemID=2890&amp;path=1%2C2%2C2890" onmouseover="rollover('Left2890','http://a248.e.akamai.net/f/248/6062/6h/www.frontgate.com/images/us/global/globalnav/globalnav_giftson.gif');popup('Menu2890','Left2890', null, null, null, 500);" onmouseout="rollover('Left2890','http://a248.e.akamai.net/f/248/6062/6h/www.frontgate.com/images/us/global/globalnav/globalnav_giftsoff.gif');popdown();"><img border="0" name="Left2890" id="Left2890" src="http://a248.e.akamai.net/f/248/6062/6h/www.frontgate.com/images/us/global/globalnav/globalnav_giftsoff.gif" alt="Gifts" title="Gifts"></a></td>
-							
-							<td width="3"><img src="http://a248.e.akamai.net/f/248/6062/6h/www.frontgate.com/images/us/global/globalnav/spacer_01.gif" border="0"></td>
-							
-							<td><a href="http://www.frontgate.com/jump.jsp?itemType=CATEGORY&amp;itemID=160&amp;path=1%2C2%2C160" onmouseover="rollover('Left160','http://a248.e.akamai.net/f/248/6062/6h/www.frontgate.com/images/us/global/globalnav/globalnav_outleton.gif');popup('Menu160','Left160', null, null, null, 500);" onmouseout="rollover('Left160','http://a248.e.akamai.net/f/248/6062/6h/www.frontgate.com/images/us/global/globalnav/globalnav_outletoff.gif');popdown();"><img border="0" name="Left160" id="Left160" src="http://a248.e.akamai.net/f/248/6062/6h/www.frontgate.com/images/us/global/globalnav/globalnav_outletoff.gif" alt="Frontgate Outlet" title="Frontgate Outlet"></a></td>
-							
+<script type="text/javascript" language="javascript">
+			var cm_ClientID = '90231957';
+			var cm_JSFPCookieDomain = 'frontgate.com';
 			
-		</tr></tbody></table>
-		</td>
-	</tr>
-	
-</tbody></table>
-</div>
-</div>
-
-
-<!-- Navheader End -->
-
-<script language="javascript">
-var the_topimages = new Array("http://a248.e.akamai.net/f/248/6062/6h/www.frontgate.com/images/us/global/globalnav/globalnav_bedon.gif",
-"http://a248.e.akamai.net/f/248/6062/6h/www.frontgate.com/images/us/global/globalnav/globalnav_bedoff.gif"
-,"http://a248.e.akamai.net/f/248/6062/6h/www.frontgate.com/images/us/global/globalnav/globalnav_indooron.gif",
-"http://a248.e.akamai.net/f/248/6062/6h/www.frontgate.com/images/us/global/globalnav/globalnav_indooroff.gif"
-,"http://a248.e.akamai.net/f/248/6062/6h/www.frontgate.com/images/us/global/globalnav/globalnav_peton.gif",
-"http://a248.e.akamai.net/f/248/6062/6h/www.frontgate.com/images/us/global/globalnav/globalnav_petoff.gif"
-,"http://a248.e.akamai.net/f/248/6062/6h/www.frontgate.com/images/us/global/globalnav/globalnav_outdoorFurnitureon.gif",
-"http://a248.e.akamai.net/f/248/6062/6h/www.frontgate.com/images/us/global/globalnav/globalnav_outdoorFurnitureoff.gif"
-,"http://a248.e.akamai.net/f/248/6062/6h/www.frontgate.com/images/us/global/globalnav/globalnav_outdoorDecoron.gif",
-"http://a248.e.akamai.net/f/248/6062/6h/www.frontgate.com/images/us/global/globalnav/globalnav_outdoorDecoroff.gif"
-,"http://a248.e.akamai.net/f/248/6062/6h/www.frontgate.com/images/us/global/globalnav/globalnav_electronicson.gif",
-"http://a248.e.akamai.net/f/248/6062/6h/www.frontgate.com/images/us/global/globalnav/globalnav_electronicsoff.gif"
-,"http://a248.e.akamai.net/f/248/6062/6h/www.frontgate.com/images/us/global/globalnav/globalnav_kitchenon.gif",
-"http://a248.e.akamai.net/f/248/6062/6h/www.frontgate.com/images/us/global/globalnav/globalnav_kitchenoff.gif"
-,"http://a248.e.akamai.net/f/248/6062/6h/www.frontgate.com/images/us/global/globalnav/globalnav_giftson.gif",
-"http://a248.e.akamai.net/f/248/6062/6h/www.frontgate.com/images/us/global/globalnav/globalnav_giftsoff.gif"
-,"http://a248.e.akamai.net/f/248/6062/6h/www.frontgate.com/images/us/global/globalnav/globalnav_outleton.gif",
-"http://a248.e.akamai.net/f/248/6062/6h/www.frontgate.com/images/us/global/globalnav/globalnav_outletoff.gif"
-);
-preLoadCatImages(the_topimages);
-function checkFieldsSearch() {
-	
-        var searchtxt=Trim(document.searchForm.freeText.value);
-        
-      if (searchtxt == '')
-      {
-        alert("Please enter keyword or item#.");
-        return false;
-      } else if (searchtxt == 'Keyword or item#') {
-        alert("Please enter keyword or item#.");
-        return false;
-      } else if (searchtxt.length <= 2) {
-        alert("We're sorry, but search terms must be greater than two characters. Please enter additional keywords, item numbers, or search criteria.");
-        return false;
-      } else if (!searchtxt.match(/^[a-zA-Z0-9!#,.\-?@\s]+$/)) {
-        alert("Please enter only characters varying from a-z, A-Z, 0-9 and special characters !#,.-?@ only");
-        return false;
-      }else {
-        return true;
-      }
-}
-function Trim(inString){
-  return LTrim(RTrim(inString));
-}
-
-function LTrim(inString){
-  return inString.replace(/^\s+/,'');
-}
-
-function RTrim(inString){
-  return inString.replace(/\s+$/,'');
-}
-
+			var cm_SkipHandlerReg="F";
+			
+			var production = false;
+			
+				production = true;
+			
+			
+		    cmSetClientID(cm_ClientID, production,'data.coremetrics.com', cm_JSFPCookieDomain);
 </script>
-</td>
-		<td class="innersiteborder"></td>
-		<td class="navheaderbg"></td>
-		<td class="siteborder" width="0"></td>
-	</tr>
-  	<tr>
-      <td class="siteborder" width="0"></td>
-	  <td class="navheaderbg"></td>
-	  <td class="innersiteborder"></td>	
 
-	  <td width="768" class="contentbg">
+<script>
+	var pageData = {
+	"Fuse": {
+		"UCV": ""}
+	};
+	
+	if(typeof analyticsData === "undefined"){
+		analyticsData = new Object();
+	}
 
+	analyticsData.brightTagId = "";
+</script>
 
-<!-- Content Block Start -->
-<!-- contentWrapHomeStart -->
-
-<table border="0" width="768" cellpadding="0" cellspacing="0">
-	<tbody><tr valign="top">
-		<td width="165" class="leftnavbg"><table border="0" cellspacing="0" cellpadding="0">
-		
-		
-		
-			<tbody><tr valign="top"><td><div class="leftnavheadlink"><a href="http://www.frontgate.com/jump.jsp?itemType=CATEGORY&amp;itemID=270&amp;path=1%2C2%2C270"><div><h1 class="leftnavhead">Customer Service</h1></div></a><div></div></div></td></tr>
-		
-			<tr valign="top"><td>
-				<div><div class="leftnavoff"><a href="http://www.frontgate.com/jump.jsp?itemType=CATEGORY&amp;itemID=519&amp;path=1%2C2%2C270%2C519">About Us</a></div><div class="leftnavoff"><a href="http://www.frontgate.com/jump.jsp?itemType=CATEGORY&amp;itemID=271&amp;path=1%2C2%2C270%2C271">Contacting Us</a></div><div class="leftnavoff"><a href="http://www.frontgate.com/jump.jsp?itemType=CATEGORY&amp;itemID=2440&amp;path=1%2C2%2C270%2C2440">Trade &amp; Corporate Sales</a></div><div class="leftnavoff"><a href="http://www.frontgate.com/jump.jsp?itemType=CATEGORY&amp;itemID=2441&amp;path=1%2C2%2C270%2C2441">Email &amp; Catalog Requests</a></div><div class="leftnavoff"><a href="http://www.frontgate.com/jump.jsp?itemType=CATEGORY&amp;itemID=3183&amp;path=1%2C2%2C270%2C3183">Gift Cards</a></div><div class="leftnavoff"><a href="http://www.frontgate.com/jump.jsp?itemType=CATEGORY&amp;itemID=2445&amp;path=1%2C2%2C270%2C2445">Gifting Services</a></div><div class="leftnavoff"><a href="http://www.frontgate.com/jump.jsp?itemType=CATEGORY&amp;itemID=2446&amp;path=1%2C2%2C270%2C2446">How to Order</a></div><div class="leftnavoff"><a href="http://www.frontgate.com/jump.jsp?itemType=CATEGORY&amp;itemID=2447&amp;path=1%2C2%2C270%2C2447">Order Tracking</a></div><div class="leftnavoff"><a href="http://www.frontgate.com/jump.jsp?itemType=CATEGORY&amp;itemID=2448&amp;path=1%2C2%2C270%2C2448">Our Quality Commitment</a></div><div class="leftnavoff"><a href="http://www.frontgate.com/jump.jsp?itemType=CATEGORY&amp;itemID=2451&amp;path=1%2C2%2C270%2C2451">Price Guarantee</a></div><div class="leftnavon"><a href="http://www.frontgate.com/jump.jsp?itemType=CATEGORY&amp;itemID=517&amp;path=1%2C2%2C270%2C517">Privacy &amp; Security</a></div><div class="subleftnavoff"><a href="http://www.frontgate.com/jump.jsp?itemType=CATEGORY&amp;itemID=533&amp;path=1%2C2%2C270%2C517%2C533">Full Privacy Policy</a></div><div class="subleftnavoff"><a href="http://www.frontgate.com/jump.jsp?itemType=CATEGORY&amp;itemID=532&amp;path=1%2C2%2C270%2C517%2C532">Online Security</a></div><div class="leftnavoff"><a href="http://www.frontgate.com/jump.jsp?itemType=CATEGORY&amp;itemID=516&amp;path=1%2C2%2C270%2C516">Shipping &amp; Processing</a></div><div class="leftnavoff"><a href="http://www.frontgate.com/jump.jsp?itemType=CATEGORY&amp;itemID=2449&amp;path=1%2C2%2C270%2C2449">Returns &amp; Exchanges</a></div></div>  
-				<div><img src="http://a248.e.akamai.net/f/248/6062/6h/www.frontgate.com/images/us/global/globalgraphics/spacer01.gif" width="1" height="13" border="0"></div>
-			</td></tr>
-		</tbody></table></td>
-		<td><div class="default"><style type="text/css">
-h4 {
-	font-size: 1em;
-	padding: 0;
-	margin-bottom: -9px;
-}
-</style><table border="0" cellspacing="0" cellpadding="0">
-<tbody><tr><td colspan="3"><img src="/images/us/global/globalgraphics/spacer01.gif" width="1" height="10" border="0"></td></tr>
-	<tr>
-		<td><img src="/images/us/global/globalgraphics/spacer01.gif" width="10" height="1" border="0"></td>
-		<td class="default">
-		<div class="colorsubheader">Your Privacy Rights</div><br>	
-<p>Frontgate respects your privacy and is a member of the Direct Marketing Association (DMA) and follows the DMA privacy guidelines. The DMA's Mail Preference Service reduces the availability of your name and address to many other direct marketing companies. To learn more, click on <a href="http://www.dmachoice.org" target="new"><u>www.dmachoice.org</u></a>.</p>
-
-	<div class="colorsubheader">Consumer Privacy at Frontgate, an HSNi Company.</div><br>
-<p>Frontgate HSN, Inc. ("HSNi") family of businesses. HSNi is a retailing powerhouse that spans the full retail spectrum including television (HSN), ecommerce (hsn.com and catalogue websites), catalogues (Cornerstone Brands), and brick &amp; mortar retail (Frontgate, Grandin Road, Ballard Designs, The Territory Ahead).  For a complete list of all of HSNi's businesses, please visit <a href="http://www.hsni.com" target="new"><u>www.hsni.com</u></a>.<br><br>
-
-At HSNi, we respect the privacy of our customers and the importance of the information they entrust to us. We summarize below the basic information policies and practices in place on all HSNi websites. To read the entire Privacy Policy of Frontgate, please <a href="/jump.jsp?itemType=CATEGORY&amp;itemID=533&amp;path=1%2C2%2C270%2C517%2C533"><u>click here</u></a>.<br><br>
-
-<strong>Information We May Collect</strong> (<a href="/jump.jsp?itemID=533&amp;itemType=CATEGORY#aboutyou"><u>read more</u></a>)<br>
-We may collect information that can identify you ("personal information"), such as your name, address, and email address, (i) when you (or other users) provide it to us when using our website or in some other manner, or (ii) from other HSNi businesses, from our business partners, and from other third parties. We may combine the personal information that we receive from different sources. We also may collect other types of information in the following ways when you visit our website:
-
-
-</p><ul>
-<li>Our server logs automatically collect information, such as your IP address, your browser type and language, and the date and time of your visit, which helps us track users' movements around our site and understand trends.</li>
-<li>We may assign your computer one or more <a href="javascript:openExternalPopup('/text/content/custserv/privacysecurity/cookies_beacons.html','info_window',600,500,1,1)"><u>cookies</u></a> which may collect information to facilitate access to our website and to personalize your online experience.</li>
-<li>We may use standard Internet tools, such <a href="javascript:openExternalPopup('/text/content/custserv/privacysecurity/cookies_beacons.html','info_window',600,500,1,1)"><u>web beacons</u></a>, which collect information that tracks your use of our website and enables us to customize our services and advertisements.</li>
-<li>We do not knowingly collect personal information from children under the age of 13. Should we ever do so, we will comply with the Children's Online Privacy Protection Act.</li>
-</ul>
-
-
-
-<strong>Information Others May Collect</strong> (<a href="/jump.jsp?itemID=533&amp;itemType=CATEGORY#thirdparty"><u>read more</u></a>)<br>
-
-We may allow third-party advertising companies or ad networks to display advertisements on our websites. 
-
-<ul>
-<li>We do not provide any personal information to these companies.</li>
-<li>These companies may use tracking tools, such as cookies, to collect information about computers used to view or interact with their advertisements.</li>
-<li>Some of these companies may be members of the Network Advertising Initiative <a href="http://www.networkadvertising.org" target="new"><u>www.networkadvertising.org</u></a>, which offers consumers the ability to opt out of ad targeting by all member companies.</li>
-</ul>
-
-If you post information about yourself or others, or communicate with others using our website, please note that we cannot control who reads your postings or what they do with the information you provide. We encourage you to use caution in posting personal information.<br><br>
-
-<strong>How We May Use Information We Collect</strong> (<a href="/jump.jsp?itemID=533&amp;itemType=CATEGORY#howweuse"><u>read more</u></a>)<br>
-
-We may use information to:
-
-<ul>
-<li>Fulfill your requests for products and services;</li>
-<li>Offer products and services that may be of interest to you;</li>
-<li>Customize the advertising and content that you see on our website;</li>
-<li>Facilitate use of our website;</li>
-<li>Manage your account and your preferences;</li>
-<li>Analyze use of and improve our website, products and services;</li>
-<li>Identify and protect against fraudulent transactions and other misuses of our website;</li>
-<li>Enforce our Terms of Use.</li>
-</ul>
-
-<strong>With Whom We May Share Information We Collect</strong> (<a href="/jump.jsp?itemID=533&amp;itemType=CATEGORY#sharedinfo"><u>read more</u></a>)<br>
-
-We will not share your personal information with others except as indicated below, or except when we inform you in advance and give you the opportunity to opt out. We may share personal information with: 
-
-<ul>
-<li>Service providers, such as credit-card payment processors, performing services on our behalf;</li>
-<li>Other HSNi businesses;</li>
-<li>Other businesses with which we partner or which we carefully select to offer you products, services, and promotions through our website or offline; and</li>
-<li>Other third parties in limited circumstances, such as complying with legal requirements, preventing fraud, and protecting the safety of our users.</li>
-<li>We may share aggregated, non-personal information in any of the above situations and also with advertisers and others.</li>
-</ul>
-
-<strong>Your Choices</strong> (<a href="/jump.jsp?itemID=533&amp;itemType=CATEGORY#yourchoices"><u>read more</u></a>)<br>
-
-You may choose: 
-
-<ul>
-<li>Not to provide personal information, although that may result in your inability to obtain certain services or use certain features of our website;</li>
-<li>To stop receiving promotional emails or newsletters from us by sending an email to the contact address below or by <a href="/subscribemain.jsp?action=0"><u>clicking here to unsubscribe</u></a></li>
-<li>To delete or decline <a href="javascript:openExternalPopup('/text/content/custserv/privacysecurity/cookies_beacons.html','info_window',600,500,1,1)"><u>cookies</u></a> by changing your browser settings, although if you do so, some of the features or services of our website may not function properly;</li>
-<li>To review and update your personal information by contacting us at the email address below or, if you have an online account on our website, by logging into that account.</li>
-<li>Opt-out. If you do not wish to receive mailings from other companies or to have personal information shared with other companies, including other HSNi businesses, please contact us by phone, email or mail.</li>
-</ul>
-
-
-	<strong>Our Company Contact Points:</strong><br>
-		Toll Free: 1-888-263-9850<br>
-Email: <a href="mailto:cs@frontgate.com"><u>
-cs@frontgate.com</u></a> <br>
-		Mail: Frontgate<br>
-		Attn: Customer Service<br>
-5566 West Chester Road<br>
-West Chester, OH 45069	<br><br>
-
-<strong>Security</strong> (<a href="/jump.jsp?itemType=CATEGORY&amp;itemID=532&amp;path=1%2C2%2C270%2C517%2C532"><u>read more</u></a>)<br>
-We take appropriate physical, electronic, and other security measures to help safeguard personal information from unauthorized access, alteration, or disclosure.<br><br>
-
-<strong>Changes to our Privacy Policy</strong><br>
-We may occasionally update our Privacy Policy to reflect changes in our practices and services. If we make material changes in the way we collect, use, or share your personal information, we will notify you by sending you an email to the email address you most recently provided to us and/or by prominently posting notice of the changes on our website.<br><br>
-
-<strong>How to Contact Us</strong><br>
-If you have any questions about this summary, our <a href="/jump.jsp?itemType=CATEGORY&amp;itemID=548&amp;path=1%2C2%2C270%2C271%2C548">Privacy Policy</a>, or our information practices, please contact us by email or postal mail below:<br><br>
-
-<b>Privacy Contact</b><br>
-Andy Franzoni<br>
-Frontgate<br>
-5566 West Chester Road<br>
-West Chester, OH 45069<br>
-<a href="mailto:ps@frontgate.com"><u>ps@frontgate.com</u></a><br><br>
-
-© 2008 HSN, Inc. All rights reserved.
-
-		</td>
-		<td><img src="/images/us/global/globalgraphics/spacer01.gif" width="10" height="1" border="0"></td>
-	</tr>
-<tr><td colspan="3"><img src="/images/us/global/globalgraphics/spacer01.gif" width="1" height="10" border="0"></td></tr>
-</tbody></table>
-
-<!-- Omniture Reporting Support -->
-
-<script>if ((typeof(s.pageName) == 'undefined') || (s.pageName == '')) { s.pageName='Cat/Customer Service/Privacy &amp Security/Online Security'; }
+<script>
+	cmSetupOther({"cm_TrackImpressions":""});
 </script>
 <script>
-function channelFromPageName(pageName)
-{
-  var s = new String(pageName);
-  s = s.replace(' - Page', ' ');
-  s = s.replace(' - ', '/');
-  var a = s.split('/');
-  var channel = '';
-  for (x = 1; x <= a.length - 2; x++)
-  {
-    if (channel.length > 0) { channel = channel + '/'; }
-    channel = channel + a[x];
-  }
-  if (a.length == 2)
-  {
-  	 channel = a[1];
-  }
-  if (a.length == 1)
-  {
-  	 channel = a[0];
-  }
-  return channel;
-}
+	Jiffy.measure("syncJSload", "syncJSload");
+</script>
+    
+<!-- Scene7 Viewer Setup -->
+<script>
+		var sdk_codeBase = null;
+		var commonViewer_codebase = '/wcsstore/CornerStoneBrands/javascript/';
+		var commonViewer = null;
+		
+		var viewerHeight = 600;
+		var viewerWidth = 800;
+		function openPopup() {
 
-if ((typeof(s.channel) == 'undefined') || (s.channel == '')) { s.channel = channelFromPageName(s.pageName); }
+			document.getElementById("viewerHolder").style.top = (getpageRect().height - viewerHeight) / 2 + 'px';
+			document.getElementById("viewerHolder").style.left = (getpageRect().width - viewerWidth) / 2 + 'px';
+			document.getElementById("viewerHolder").style.visibility = "visible";
 
-if (s.pageName == '/error/error404template.jsp')
-{
-  s.pageType='errorPage';
-  s.pageName='';
-  s.channel='';
-}
+			commonViewer.draw();
+		};
 
-s_code=s.t();if(s_code)document.write(s_code);
+	
+		function getpageRect() {
+			var w = (window.innerWidth ? window.innerWidth : (document.documentElement.clientWidth ? document.documentElement.clientWidth : document.body.offsetWidth));
+			var h = (window.innerHeight ? window.innerHeight : (document.documentElement.clientHeight ? document.documentElement.clientHeight : document.body.offsetHeight));
+
+			return {width : w, height : h};
+		};
+		
 </script>
 
-<!-- End, Omniture Reporting Support -->
+<!--  End Scene7 Viewer Setup --><!--CommandContext.locale : en_US  --><!-- Start - JSP File Name:  ErrorMessageSetup.jspf --><!-- End - JSP File Name:  ErrorMessageSetup.jspf --><!-- TODO: Move the following to the USER AGENT HELPER class -->
+<script>
+function useNonDefaultKeyboard() {
+		var tabletList = ["ipad","android"];  
+		var isTablet = false;
+		for(var i = 0; i < tabletList.length ;i++) {
+			if(navigator.userAgent.toLowerCase().indexOf(tabletList[i]) != -1){
+				isTablet = true;
+				break;
+			}
+		}
+		return isTablet;
+}
+</script>
+<script>
+if(navigator.userAgent.match(/iPad|iPhone|iPod/i)){
+	head.js("/wcsstore/CornerStoneBrands/javascript/CornerstoneFunctions.js");
+}
+</script>
 
 
+ 
 
-
-</div></td>
-	</tr>
-</tbody></table>
-<!-- Content Block End -->
-
-	</td>
-	<td class="innersiteborder"></td>
-	<td class="navfooterbg"></td>
-	<td class="siteborder" width="0"></td>
-</tr>
-
-<tr valign="top">
-	<td colspan="7" align="center">
-
-
-
-
-			<table border="0" width="790" cellpadding="0" cellspacing="0">
-
-			
-
-				
-			</table>
-
-			<div id="footer">
-				<div class="footerLinks">
-					<ul>
-                        
-						<li><a href="http://www.frontgate.com/jump.jsp?itemType=CATEGORY&amp;itemID=519&amp;path=1%2C2%2C270%2C519">About Frontgate</a></li>
-						<li><a href="javascript:openMe('/bmlinfo', 'billmelater')">Bill Me Later©</a></li>
-						
-						<li><a href="http://www.frontgate.com/jump.jsp?itemType=CATEGORY&amp;itemID=547&amp;path=1%2C2%2C270%2C271%2C547">Contact Us</a></li>
-						<li><a href="http://www.frontgate.com/shopping/catalogquickshop/cqsmain.jsp">Catalog Quick Shop</a></li>
-						<li><a href="http://www.frontgate.com/jump.jsp?itemType=CATEGORY&amp;itemID=8162&amp;path=1%2C2%2C270%2C8162">Conditions of Use</a></li>
-						<li><a href="http://www.frontgate.com/catalogrequest/catalogrequestmain.jsp">Free Catalog Requests</a></li>
-						<li><a href="http://www.frontgate.com/jump.jsp?itemType=CATEGORY&amp;itemID=277&amp;path=1%2C2%2C270%2C272%2C277">Gift Registry</a></li>
-					</ul>
-				</div>
-				<div class="footerLinks" style="border-right: none">				
-					<ul>
-						<li><a href="http://www.frontgate.com/jump.jsp?itemID=391&amp;itemType=CATEGORY">Online Catalogs</a></li>
-						<li><a href="http://www.frontgate.com/account/orderhistory/orderstatusmain.jsp">Order Status</a></li>
-						<li><a href="http://www.frontgate.com/jump.jsp?itemType=CATEGORY&amp;itemID=517&amp;path=1%2C2%2C270%2C517">Privacy &amp; Security</a></li>
-						<li><a href="http://www.frontgate.com/jump.jsp?itemType=CATEGORY&amp;itemID=516&amp;path=1%2C2%2C270%2C516">Shipping &amp; Processing</a></li>
-						<li><a href="http://www.frontgate.com/jump.jsp?itemType=CATEGORY&amp;itemID=273&amp;path=1%2C2%2C270%2C271%2C273">Retail Store Locations</a></li>
-						<li><a href="http://www.frontgate.com/content/sitemap/sitemapmain.jsp">Site Map</a></li>
-					</ul>
-				</div>
-			
-			
-<!-- Start Partner Sites for Frontgate -->
-<div id="partnerLinks">
-	<div id="socialFooter" style="margin-bottom:5px;">
-	<div id="fbFooter" style="background-color:#353b42;padding:5px 3px;width:142px;display:inline;margin-right:4px;"><img src="/images/us/local/localgraphics/fbFooterIcon.gif" alt="Join Frontgate on Facebook" height="14" width="14" border="0" style="vertical-align:middle;margin-right:5px;"><a href="http://www.facebook.com/frontgate" target="_blank" style="color:#fff;" onclick="s.linkTrackVars='eVar22';s.linkTrackEvents='None';s.eVar22='Facebook Footer Link';s.tl(this,'o','Facebook Footer Link');">Join us on Facebook</a></div>
-	<div id="twFooter" style="background-color:#353b42;padding:5px 3px;width:142px;display:inline;"><img src="/images/us/local/localgraphics/twFooterIcon.gif" alt="Follow us on Twitter" height="14" width="14" border="0" style="vertical-align:middle;margin-right:5px;"><a href="http://www.twitter.com/frontgate" target="_blank" style="color:#fff;" onclick="s.linkTrackVars='eVar22';s.linkTrackEvents='None';s.eVar22='Twitter Footer Link';s.tl(this,'o','Twitter Footer Link');">Follow us on Twitter</a></div>
-	</div>
-	<div style="margin: 0 0 5px 0;"><a href="/jump.jsp?itemType=CATEGORY&amp;itemID=8151&amp;path=1,2,270,8151" style="color:#fff;">Product Safety Information</a></div>
-	<strong>Partner Sites: </strong>
-		<ul>
+	<script>
+	var com_csb_abVars = {
+	 abValues:{},
+	 setABVariable:function (name, value){
+		this.abValues[name] = value;
+	 },
+	 getABVariable:function (name){
+		return this.abValues[name];
+	 }
+	};
+	function setABVariables(name,value){
+	 com_csb_abVars.setABVariable(name, value);
+	}
+	</script>
 	
-		<li><nobr><a target="_blank" href="http://www.grandinroad.com/jump.jsp?itemType=CATEGORY&amp;itemID=2759&amp;path=1%2C2%2C2759">Halloween Decorations</a></nobr></li>
-	
-				<li><nobr><a target="_blank" href="http://www.improvementscatalog.com/">Home Improvements</a> •</nobr></li>
-				<li><nobr><a target="_blank" href="http://www.travelsmith.com/jump.jsp?itemID=0&amp;itemType=HOME_PAGE">Travel Accessories</a></nobr></li>
-				<li><nobr><a target="_blank" href="http://www.territoryahead.com/">Territory Ahead</a> •</nobr></li>
-				<li><nobr><a target="_blank" href="http://www.garnethill.com/">Garnet Hill</a>  •</nobr></li>
-				<li><nobr><a target="_blank" href="http://www.smithandnoble.com/sn/product_supercategory.jsp?sch_cat=Window%20Treatments&amp;nav_cat=-17966">Window Treatments</a></nobr></li>
-				<li><nobr><a target="_blank" href="http://www.ballarddesigns.com/Accessories/c/1558">Home Accessories</a>  •</nobr></li>
-				<li><nobr><a href="/text/outdoor-decor-tips/contentcenter.jsp">Outdoor Decor Tips</a></nobr></li>
-			 </ul>
-			 
-</div>
-<!-- End Partner Sites -->
+	<!-- Begin Monetate tag v6. Place at start of document head. DO NOT ALTER. -->
+	<script>
+		var monetateT = new Date().getTime();
+		(function() {
+		    var p = document.location.protocol;
+		    if (p == "http:" || p == "https:") {
+		        var m = document.createElement('script'); m.type = 'text/javascript'; m.async = true; m.src = (p == "https:" ? "https://s" : "http://") + "b.monetate.net/js/1/a-3382af25/p/frontgate.com/" + Math.floor((monetateT + 202533) / 3600000) + "/g";
+		        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(m, s);
+		    }
+		})();
+	</script>
+	<!-- End Monetate tag. -->
 
-<script src="https://cdn.mercent.com/js/tracker.js" type="text/javascript"></script>
-<script type="text/javascript">
+
+<script>
+	function enableFlashAlternatives() {	// for example, the Apple mobile device in-place image zoom on PDP
+		return true;
+	}
+</script>
+
+<!-- false -->
+				<link rel="stylesheet" type="text/css" href="/wcsstore//CornerStoneBrands/css/gwt_theme_10053.css">
+			
+				<link rel="stylesheet" type="text/css" href="/wcsstore//CornerStoneBrands/css/jquery-ui.css">
+			
+				<link rel="stylesheet" type="text/css" href="/wcsstore//CornerStoneBrands/css/layout10053.css">
+			
+				<link rel="stylesheet" type="text/css" href="/wcsstore//CornerStoneBrands/css/ratings10053.css">
+			
+				<link rel="stylesheet" type="text/css" href="/wcsstore//CornerStoneBrands/css/brand10053.css">
+			<!--[if IE 6]><link href="/wcsstore/CornerStoneBrands/css/ie610053.css" rel="stylesheet" type="text/css"/><![endif]--> 
+			<!--[if IE 7]><link href="/wcsstore/CornerStoneBrands/css/ie710053.css" rel="stylesheet" type="text/css"/><![endif]-->  
+			<!--[if IE 8]><link href="/wcsstore/CornerStoneBrands/css/ie710053.css" rel="stylesheet" type="text/css"/><![endif]--> 
+			<!--[if IE 9]><link href="/wcsstore/CornerStoneBrands/css/ie710053.css" rel="stylesheet" type="text/css"/><![endif]--> 
+			
+			<link href="/wcsstore/CornerStoneBrands/css/print10053.css" media="print" rel="stylesheet" type="text/css">
+
+			<link href="/wcsstore/images/Frontgate/css/overwrite10053.css" rel="stylesheet" type="text/css">
+			<!--[if IE]><link href="/wcsstore/images/Frontgate/css/ie_overwrite10053.css" rel="stylesheet" type="text/css" /><![endif]-->
+	
+ 	<style>
+ 		.internationalOnly {display: none;}
+ 	</style>
+ 
+
+<script type="text/javascript" src="/wcsstore/CornerStoneBrands/javascript/validations.js"></script><script>
+	window.___gcfg = {parsetags: 'explicit'};
+	head.js("/wcsstore/CornerStoneBrands/javascript/validations.js");
+</script>
+
+
+
+<script>
+ 	var deferredPageTitleSet = '';	// If this is populated, then page title will be set in JS later.
+</script>
+
+
+		<script>
+		 	var PageTitleFound = 'false';	// Initialize, in case WWCM file not found.
+		</script>
+					<title>Privacy &amp; Security - Frontgate</title>		
+
+<script>
 <!--
-	mr_merchantID = "Frontgate";
-	mr_Track();
-// -->
+// This javascript variable is defined so that when this fragment is pulled from cache, the variable will be defined. 
+// That is not true of the JSTL variable.
+var PageTitleFound= 'true';
+// WWCM content: /Frontgate/US/CustomerService/PrivacyAndSecurity/privacy_and_security:PageTitle
+//-->
+</script>
+
+		<script>
+		  if (document.title.length == 0) {
+				// The following is a hack to get around an IE bug that fails when trying to set innerHTML on the title tag.
+				// This requires the existance of a hidden div with id pageTitleHack in the body (see pagelayout.jsp).
+				// document.title will not accept HTML entities directly. By setting innerHTML on a div, it effectively
+				// converts the HTML entity to unicode, so document.title can handle it.
+				// Furthermore, the javascript to execute this hack won't work in the HEAD section, so it is deferred 
+				// to another SCRIPT tag in the body.
+				document.title = '';
+				
+					deferredPageTitleSet = 'Privacy - Frontgate';
+				
+		  }
+		</script>
+	
+		<meta name="description" content="Frontgate - Find oversized outdoor furniture, area rugs, bar stools, bath towels, bedding, kitchen and bath essentials, and electronics at Frontgate - we outfit America's finest homes.">
+		<meta name="keywords" content="Luxury Home Decor, Indoor Furnishings, Kitchen and Bath Essentials, and Electronics, furniture, home furnishings, decor, bed, bath, outdoor, electronics, storage, organization, kitchen, entertainment, gifts, frontgate, front gate, outlet"><script type="text/javascript" src="//www.youtube.com/iframe_api"></script><script type="text/javascript" src="/wcsstore/CornerStoneBrands/javascript/LeftNavExpandCollapse.js"></script>	
+	
+</head><body id="cbiBody" class="GUEST desktop" onload="onLoad();" onunload="onUnload()"><form class="hidden" action="#">
+	
+	<input id="gwt_wishlistcreate_header_lbl" type="hidden" value="Name Your New Wish List">
+	<input id="gwt_wishlistcreate_instruction_lbl" type="hidden" value="">
+	<input id="gwt_wishlistcreate_required_field_lbl" type="hidden" value="">
+	<input id="gwt_wishlistcreate_name_lbl" type="hidden" value="">
+	<input id="gwt_wishlistcreate_err_name_missing" type="hidden" value="Please enter name for the wish list">
+	<input id="gwt_wishlistcreate_err_name_duplicate" type="hidden" value="Duplicate wish list. Please enter a different name">	
+
+	<input id="gwt_wishlistcreate_name_max_length" type="hidden" value="22">							
+						
+</form>
+
+<!-- Adding the social plugins media in the collection pages -->
+	<script src="/wcsstore/CornerStoneBrands/javascript/resxclsx.js"></script>
+	<script>
+		callCertonaRunInFooter = true;
+		resx = new Object();
+		resx.appid = "frontgate01";
+		resx.top1 = 100000;
+		resx.top2 = 100000;
+		<!--  -->
+	</script>
+			<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script><!-- CINMAR FRAMEWORK --><link href="/wcsstore/images/Cinmar/_wcm/css/overwrite.css" rel="stylesheet" type="text/css"><link href="/wcsstore/images/Cinmar/_wcm/css/framework.css" rel="stylesheet" type="text/css"><link href="/wcsstore/images/Frontgate/_wcm/css/framework.css" rel="stylesheet" type="text/css"><script src="/wcsstore/images/Cinmar/_wcm/js/framework/plugins.js" type="text/javascript"></script><script src="/wcsstore/images/Cinmar/_wcm/js/framework/functions.js" type="text/javascript"></script><script>(function($,window,document,$a){/* YOUTUBE API */ if (($a.browser != 'ie') || ($a.browser == 'ie' && $a.version >= 8)) {head.js('//www.youtube.com/iframe_api', function(){onYouTubeIframeAPIReady=$.noop})};/* JSON POLYFILL */ if (!window.JSON) {document.write('<script src="/wcsstore/images/Cinmar/_wcm/js/polyfills/json2.min.js" type="text/javascript"><\/script>')};})(jQuery,window,document,jQuery.agent);</script><script src="/wcsstore/images/Frontgate/_wcm/js/framework/main.js" type="text/javascript"></script><!-- /////////// Start Inspiration Bar SLI Integration /////////// --><script>jQuery(document).on('productSearchAnalyticsCallBack',function(e,data){  if(typeof attachDragHandlerJQuery != 'undefined') {    attachDragHandlerJQuery();  }  if(typeof bloomReachTrack != 'undefined') {    bloomReachTrack(null,null,data.searchTerm);  }});jQuery(document).on('categoryPageAnalyticsCallBack',function(e,data){  if(typeof attachDragHandlerJQuery != 'undefined') {    attachDragHandlerJQuery();  }  if(typeof bloomReachTrack != 'undefined') {    bloomReachTrack(data.categoryId,data.categoryName,null);  }});</script><!-- /////////// End Inspiration Bar SLI Integration /////////// --><!-- EXTERNAL PIXELS --><script src="/wcsstore/images/Frontgate/_wcm/js/tracking/pixels.js" type="text/javascript"></script><!-- IMICLK.COM --><script>trkpix_imiclk_com();</script><!-- CRITEO PIXELS --><script src="//static.criteo.net/js/universal/v0_5_4/criteo_ld.js" type="text/javascript"></script><script>!window.CRITEO && document.write('<script src="/wcsstore/images/Cinmar/_wcm/js/vendor/criteo.js" type="text/javascript"><\/script>');</script><script src="/wcsstore/images/Cinmar/_wcm/js/vendor/criteo.js" type="text/javascript"></script><script>trkpix_criteo_pixels();</script>		
+
+<script>
+<!--
+// This javascript variable is defined so that when this fragment is pulled from cache, the variable will be defined. 
+// That is not true of the JSTL variable.
+var HeaderSpotFound= 'true';
+// WWCM content: /Frontgate/US/Global/tracking_pixels:HeaderSpot
+//-->
+</script>
+<!-- default implementations. Can override on actual pages. -->
+<script>
+	function onLoad() {
+		
+	}
+	function onUnload() {}
+	var showPDPBackorderDateUnderSKUSelector = 'true';
+	var gwtPersonalizationLinkTxt = 'Add Personalization (additional charges apply)';
+	var gwtFreePersonalizationLinkTxt = 'Add Free Personalization';	
+	var gwtPersonalizationEditLinkTxt = '(Edit';
+	var gwtPersonalizationRemoveLinkTxt = 'Remove)';
+	var gwtPersonalizationSeparatorLinkTxt = 'or';
+	var gwtPersonalizationPrefixTxt = 'Personalize : additional';
+</script>
+
+<script type="text/javascript">	
+	function getJavaScriptJSONFromSpan(divId) {
+			var jsonObject;
+			var scriptText;
+
+			eval('var scriptElem = $$("#" + divId + " span.JSON script")');
+
+			if(!scriptElem[0]) {
+				eval('var spanElem = $$("#" + divId + " span.JSON")');
+				if(spanElem[0]) {
+					scriptText = spanElem[0].innerHTML;
+				}
+			}else {
+				scriptText = scriptElem[0].text;
+			}
+
+			if (scriptText) {
+				//now Strip comments
+				if (scriptText.startsWith("/*") && scriptText.endsWith("*/")) {
+						scriptText = scriptText.substring(2,scriptText.length-2);
+				}
+				eval("jsonObject = " + scriptText);
+			}
+			return jsonObject;
+	}
+</script>
+<script>
+            var CHECKOUT_VIEWS = ",ShoppingCartView,CheckoutUserLogonView,BillingShippingAddressDisplayView,MultipleShippingAddressDisplayView,TermsAndConditionsView,GiftingOptionsView,OrderRecap,OrderOKView,OrderConfirmationDisplayView,";
+
+            url = window.location.toString();
+            var viewName;
+            if(url.indexOf("?") != -1) {
+                viewName = "," + url.substring(url.lastIndexOf('/')+1, url.indexOf("?")) + ",";
+            }else {
+                viewName = "," + url.substring(url.lastIndexOf('/')+1, url.length) + ",";
+            }
+            if(CHECKOUT_VIEWS.indexOf(viewName) != -1){
+                document.write('<meta name="format-detection" content="telephone=no">');
+            }
+</script>
+<link href="//assets.resultspage.com/js/rac/sli-rac.1.4.css?ts=1404086400000" rel="stylesheet" type="text/css">
+<link href="//frontgate.resultspage.com/rac/sli-rac.css?ts=1404086400000" rel="stylesheet" type="text/css">
+<script>
+	Jiffy.measure("headComplete");
+</script>
+<link rel="apple-touch-icon" sizes="512x512" href="/wcsstore/images/Frontgate/touch-icon.png"> 
+
+
+
+
+
+
+
+			<script>
+				document.body.className += "desktop";
+			</script>
+		
+<script>
+	Jiffy.measure("bodyStart");
+</script>
+
+	<!-- Check that Javascript is enabled -->
+	<noscript>
+		
+			<div class="no-javascript-message">
+				Javascript is disabled. It is required to use this site. <a href="/BrowserErrorView?storeId=10053&catalogId=10053&langId=-1">Click here for instructions.</a>
+			</div>
+			<meta http-equiv="Refresh" content="0;URL=/BrowserErrorView?storeId=10053&catalogId=10053&langId=-1" />
+				
+	</noscript>	
+	
+	<!-- Test for cookies enabled only if not in a frame as in the store previewer for workspaces -->
+	<script>
+		if (top.location == self.location) { 
+			Set_Cookie( 'testCookiesEnabled', 'none', '', '/', '', '' );
+			 
+			if ( (!Get_Cookie( 'testCookiesEnabled' )) && true)
+			{
+			
+					window.location="/BrowserErrorView?storeId=10053&catalogId=10053&langId=-1&cookieError=true";
+				} else {
+					Delete_Cookie('testCookiesEnabled', '/', '');
+				}
+			}			
+	</script>
+
+	
+		<div id="gwt_DynamicDisplayContentDiv" style="display: none;">
+			<div class="genericESpot"><div class="caption" style="display:none">[DynamicDisplayContent_ConfigurationEspot]</div>
+
+</div>
+				<span id="emailOptinContentCounter"></span>
+				
+			<span id="optStatus">Unknown</span>
+		</div>
+
+	
+
+	<form>	
+		<input type="hidden" id="gwt_view_name" value="PrivacyView">
+		<input type="hidden" id="gwt_area_name" value="">
+		<input type="hidden" id="gwt_social_media_display_in_collection_page" value="true">
+	</form>
+	
+	<!-- This element is required for a page title hack to work around an IE bug. See PageTitle.jspf. -->
+	<div class="nodisplay" id="pageTitleHack"></div>
+	<script>
+		if (deferredPageTitleSet.length > 0) {
+			document.getElementById('pageTitleHack').innerHTML = deferredPageTitleSet;
+			document.title = document.getElementById('pageTitleHack').innerHTML;
+		}
+	</script>
+
+	<!--	CONTAINER | START	-->
+	<div id="container" class="view-PrivacyView area- ">	
+		<!-- Insert Page Header here -->
+<iframe src="javascript:''" id="__gwt_historyFrame" style="position:absolute;width:0;height:0;border:0"></iframe>
+<form class="hidden" action="#">
+		<input type="hidden" id="gwt_add_images_path" value="/wcsstore/CornerStoneBrands/">
+		<input type="hidden" id="gwt_add_shared_images_path" value="/wcsstore/images/Frontgate/">
+		
+		
+		
+		<input id="gwt_topnav_suffix_images_path" type="hidden" value="menu/">		
+		<input id="gwt_addtocart_bundle_each_line" type="hidden" value="true">
+		<input id="gwt_country_changer_wwcm_path" type="hidden" value="/Frontgate/US/International/CountryChanger">
+		<input id="gwt_addtocartdiv_wwcm_path" type="hidden" value="/Frontgate/US/Global/Popups/AddToCartDiv">
+		<input id="signinDialogWWCMContentPrefix" type="hidden" value="/Frontgate/US/Global/Popups/sign_in_dialog">
+
+		
+		<input type="hidden" id="gwt_disable_welcome_window" value="false">
+		<input type="hidden" id="gwt_disable_clickable_shopping_cart_link" value="true">	
+</form>
+
+
+
+<div id="gwt_user_state">
+	<span class="nodisplay" id="userState">GUEST</span>
+</div>
+
+
+<form class="hidden" action="#">
+	<div>
+		<input type="hidden" id="gwt_logon_id" value="">
+		<input type="hidden" id="gwt_email" value="">
+		<input type="hidden" id="gwt_device_id" value="-1">
+	</div>
+</form>
+
+<script>
+	gwtUser = new Object();
+	gwtUser.userId = "-1002";
+	gwtUser.logonId = "";
+	gwtUser.email = "";
+	
+	if(analyticsData == undefined){
+		analyticsData = new Object();
+	}
+	
+    analyticsData.userId = '-1002';
+    analyticsData.email = '';
+</script>
+
+
+<input id="gwt_is_international" type="hidden" value="false">
+<input type="hidden" id="gwt_international_enabled" value="true">
+
+
+<script>
+var isInternational = false;
+</script>
+	
+<input id="gwt_addtocartdiv_boolean" type="hidden" value="true">
+<input id="gwt_profanity_message" type="hidden" value="One or more of the words entered are not allowed.">
+<div id="gwt_dynamic_recommendations_addtocartdiv">
+	<script language="Javascript" type="text/javascript">
+		var gwt_recommendations_addtocartdiv_JSON = {
+			"enabled":"true",
+			"pagename":"addtocartdiv",
+			"instance":"1",
+			"num_recommendations":"8",
+			"num_visible":"3",
+			"carousel":"true",
+			"num_in_carousel":"8",
+			"orientation":"horizontal",
+			"recommendationCategoryID":"39703"
+		}
+	</script>
+</div>
+
+
+
+
+<input id="gwt_tandc_best_phone_number_boolean" type="hidden" value="true">
+<!--[if !IE]>	HEADER | START	<![endif]-->
+
+<div id="header">
+	
+	<div id="topline">
+		
+<div id="phoneNumber">
+	
+			<img src="/wcsstore/images/Frontgate/header/phone-number.png" alt="888.263.9850">
+		
+</div>
+
+		<div id="topright">
+			
+	<div id="shoppingCart">
+		
+		<div id="gwt_minicart_div"></div>			
+	</div>
+
+<div id="wishlist">
+	<a href="/WishListHomeView?storeId=10053&amp;catalogId=10053&amp;langId=-1">Wish List</a>
+</div>
+
+<div id="giftregistry">
+	<a href="/GiftRegistryHomeView?storeId=10053&amp;catalogId=10053&amp;langId=-1">Gift Registry</a>
+</div>
+
+<div id="orderStatus">
+	
+	<a href="/OrderStatusView?storeId=10053&amp;catalogId=10053&amp;langId=-1">Order Status</a>
+</div>
+
+	<div id="myAccount">
+		
+			<a href="/UserLogonView?storeId=10053&amp;catalogId=10053&amp;langId=-1">My Account</a>
+		
+	</div>
+	
+			<div id="login">
+				<a href="/UserLogonView?storeId=10053&amp;catalogId=10053&amp;langId=-1">Sign In/Register</a>
+			</div>
+			<div id="welcome" class="nodisplay">
+			</div>
+		
+		</div>
+	</div>
+	<div id="logoline">
+		
+<div id="logo1">
+	<a href="/"><img src="/wcsstore/images/Frontgate/logo.png" alt="Frontgate"></a>
+</div>
+
+
+		<div id="uNav">
+			<div id="uNavTop">
+				
+	<form name="headerSearchForm" id="headerSearchForm" action="/ProductSearch2" method="get" onsubmit="return submitheaderSearchForm(headerSearchForm);">
+		<input type="hidden" name="storeId" value="10053">
+		<input type="hidden" name="catalogId" value="10053">
+		<input type="hidden" name="langId" value="-1">
+		
+<div id="searchBox">
+	<label id="searchBoxLbl" for="headerBox"></label>	
+	<script>
+		var isFocusTakenByMenu = false;
+		var state = 0;
+				
+		function setIsSearchBoxFocused() {												
+			state = 1;
+		}
+		function clearIsSearchBoxFocused() {
+			setTimeout(delayedClearSearchBoxFocus, '80');			
+		}
+		function delayedClearSearchBoxFocus() {
+			if (state == 1 && isFocusTakenByMenu == false) {
+				state = 0;
+			}
+		}		
+		function setIsFocusTakenByMenu (flag) {									
+			isFocusTakenByMenu = true;
+			if (state == 1) {
+				state = 2;
+			}						
+		}		
+		function resetSearchBoxFocus() {														
+			if (state == 2) {														
+				setTimeout(delayedSetFocus, '100');	
+				isFocusTakenByMenu = false;
+				state = 1;									
+			} else {
+				state = 0;
+			}
+		}
+		function delayedSetFocus() {
+			var searchBoxElement = document.getElementById("headerBox");	
+			searchBoxElement.focus();
+		}
+				
+	</script>
+	<input type="text" id="headerBox" name="searchTerm" maxlength="64" autocomplete="off" onfocus="clear_instructions_headerSearchForm(); setIsSearchBoxFocused();" onblur="clearIsSearchBoxFocused();" value="Search - Keyword or Item #">
+	<button type="submit" class="button third small branding">
+		<img src="/wcsstore/images/Frontgate/content/buttons/go.png" alt="Go">
+	</button>
+	
+</div>
+
+	</form>
+	
+
+<script type="text/javascript" language="javascript">
+	var is_instructions_headerSearchForm = true;
+	function clear_instructions_headerSearchForm()
+	{
+		if(is_instructions_headerSearchForm)
+		{
+			is_instructions_headerSearchForm = false;
+			jQuery('#headerBox').val('');
+		}
+	}
+	
+	function validate_searchP(element)
+	{
+		// TODO This code should not be using JS alerts - use GWT alerts. Also, some brands have inappropriate messages.
+		var str = element.value;
+		str = str.replace(/^\s*(.*?)\s*$/,"$1");
+		
+		if(eval(str.length) == 0 ) 
+		{
+			alert("Please enter keyword or item#");
+			return false;
+		}else if( eval(str.length) < 3 ) 
+		{
+			alert("Please enter at least 3 characters for your search.");
+			return false;
+		} else if(!element.value.match(/^[A-Z0-9 \-\#\,\.\!\?\@\'\&\+]+$/im)) 
+		{
+			alert("Please enter only characters varying from a-z, A-Z, 0-9 and special characters !#,.-?@+&");
+			return false;
+		} 
+		
+		
+		return true;
+	} 
+
+
+	
+	function submitheaderSearchForm( form )
+	{
+		var theForm = document.getElementById( form );
+		
+		clear_instructions_headerSearchForm();
+		
+		var searchBoxElement = document.getElementById("headerBox");
+		
+		if(validate_searchP(searchBoxElement)) {
+			var search = encodeURIComponent(searchBoxElement.value);
+		    var loc = window.location;
+            var location = loc.href.substring(0, loc.href.length - (loc.pathname + loc.search + loc.hash).length);
+            location = location.replace("https","http");
+		    window.location.href = location+"/ProductSearch2#w="+search;
+		  	  
+		}
+		
+		return false;
+	}
+	
+	
+</script>
+
+	<div id="countrySelector" class="header_country_selector">
+	
+	<span class="header_country_select_text nodisplay">Ship to:</span>
+	<span class="header_country_select_enabled nodisplay">true</span>
+	<span class="header_country_select_change_text nodisplay">Change</span>
+		
+	</div>
+	
+<div id="catalogShop">
+	
+	<a href="/CatalogQuickShopView?storeId=10053&amp;catalogId=10053&amp;langId=-1">Catalog Quick Shop</a>
+</div>
+
+<div id="catalogRequestLink">
+	
+	<a href="/RequestACatalogView?storeId=10053&amp;catalogId=10053&amp;langId=-1">Request a Catalog</a>
+</div>
+
+
+<div id="emailSignupLink">
+	
+	<a href="/EmailSubscribeView?storeId=10053&amp;catalogId=10053&amp;langId=-1&amp;subscribeSource=5">Email Signup</a>
+</div>
+
+			</div>
+			<div id="uNavBottom">
+				
+
+<div class="contentspot">
+				<a href="/inspiredliving"><i>Inspired Living</i><!--<img src="/wcsstore/images/Cinmar/_media/images/logos/inspired_living_small.png" />--></a><a href="/homeplusstyle"><b>Home</b> + <i>Style</i><!--<img src="/wcsstore/images/Cinmar/_media/images/logos/home_plus_style_small.png" />--></a><a href="/Frontgate/US/Global/Articles/Index/landing-path"><i>Style Center</i><!--<img src="/wcsstore/images/Cinmar/_media/images/logos/style_center_small.png" />--></a><a href="/ShoppingCartView"><i>Shopping Cart</i><!--<img src="/wcsstore/images/Cinmar/_media/images/logos/shopping_cart_small.png" />--></a>		
+
+<script>
+<!--
+// This javascript variable is defined so that when this fragment is pulled from cache, the variable will be defined. 
+// That is not true of the JSTL variable.
+var ContentSpot1Found= 'true';
+// WWCM content: /Frontgate/US/Global/global_header_footer_content_spots:ContentSpot1
+//-->
+</script>
+
+</div>
+
+<div class="checkoutHeaderContentSpot">
+						
+
+<script>
+<!--
+// This javascript variable is defined so that when this fragment is pulled from cache, the variable will be defined. 
+// That is not true of the JSTL variable.
+var ContentSpot1Found= 'true';
+// WWCM content: /Frontgate/US/Global/checkout_header_footer_spots:ContentSpot1
+//-->
+</script>
+
+</div>
+
+
+			</div>
+		</div>
+	</div>
+	<div id="perzContentBoxg1">
+		
+
+<div id="gwt_personal_content_header_1" class="personalized-content">
+		<span class="enabled nodisplay">false</span>
+		<span class="pagename nodisplay">header</span>
+		<span class="instance nodisplay">1</span>
+		<span class="category nodisplay">39703</span>
+		<span class="recommendVendorParams nodisplay"></span>
+</div>
+
+<script>
+	initPersonalizedContentArea("header","1", "global1_cr");
+</script>
+
+
+
+	</div>
+	<div id="perzContentBoxg2">
+		
+
+<div id="gwt_personal_content_header_2" class="personalized-content">
+		<span class="enabled nodisplay">false</span>
+		<span class="pagename nodisplay">header</span>
+		<span class="instance nodisplay">2</span>
+		<span class="category nodisplay">39703</span>
+		<span class="recommendVendorParams nodisplay"></span>
+</div>
+
+<script>
+	initPersonalizedContentArea("header","2", "global2_cr");
+</script>
+
+
+
+	</div>
+</div>
+<!--[if !IE]>	HEADER | END	<![endif]-->
+<div id="display_source_code" style="display: none;">WEBFGB</div>
+<!-- Insert Top Navigation here -->
+			<div id="css-top-navigation">
+				
+
+<ul id="flyout">
+	
+		<li class="css-MenuItemSeparator">
+			<div class="menuSeparatorLeft"></div>
+		</li>
+	
+	<li class="menuItem">
+		<a href="/outdoor-furniture/">
+			
+				<img class="off" src="/wcsstore/images/Frontgate/menu/outdoor_furniture_off.png" alt="Outdoor Furniture">
+				<img class="on" src="/wcsstore/images/Frontgate/menu/outdoor_furniture_on.png" alt="Outdoor Furniture">
+				
+		</a>
+		
+					<ul>
+						
+	<li class="menuItem">
+		<a href="/outdoor-furniture/special-savings/">
+			
+					<span>30% Off Outdoor Furniture</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/outdoor-furniture/outdoor-furniture-collections/">
+			
+					<span>Furniture Collections</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/outdoor-furniture/deepseating-collections/">
+			
+					<span>Deep Seating</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/outdoor-furniture/outdoor-modular-seating/">
+			
+					<span>Modular Seating</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/outdoor-furniture/chaise-lounges/">
+			
+					<span>Chaises</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/outdoor-furniture/hammocks-daybeds/">
+			
+					<span>Daybeds &amp; Hammocks</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/outdoor-furniture/dining-collections/">
+			
+					<span>Dining Sets</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/outdoor-furniture/outdoor-barstools-tables/">
+			
+					<span>Bar Stools &amp; Tables</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/outdoor-furniture/cafe-bistro-furniture/">
+			
+					<span>Cafe &amp; Bistro Furniture</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/outdoor-furniture/accent-tables/">
+			
+					<span>Accent Tables &amp; Seating</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/outdoor-furniture/patio-umbrellas/">
+			
+					<span>Umbrellas</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/outdoor-furniture/fire-pits/">
+			
+					<span>Fire Pits</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/outdoor-furniture/outdoor-cushions/">
+			
+					<span>Replacement Cushions</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/outdoor-furniture/outdoor-furniture-covers/">
+			
+					<span>Outdoor Furniture Covers</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/outdoor-furniture/content-center/">
+			
+					<span>Legendary Frontgate Quality</span>
+				
+		</a>
+		
+	</li>
+
+	
+					</ul>
+				
+	</li>
+
+	
+		<li class="css-MenuItemSeparator">
+			<div class="menuSeparatorInner"></div>
+		</li>
+	
+	<li class="menuItem">
+		<a href="/outdoor-decor-accessories/">
+			
+				<img class="off" src="/wcsstore/images/Frontgate/menu/outdoor_living_off.png" alt="Outdoor Living">
+				<img class="on" src="/wcsstore/images/Frontgate/menu/outdoor_living_on.png" alt="Outdoor Living">
+				
+		</a>
+		
+					<ul>
+						
+	<li class="menuItem">
+		<a href="/outdoor-decor-accessories/outdoor-door-mats/">
+			
+					<span>Door Mats</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/outdoor-decor-accessories/outdoor-rugs/">
+			
+					<span>Outdoor Rugs</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/outdoor-decor-accessories/throw-pillows/">
+			
+					<span>Pillows &amp; Throws</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/outdoor-decor-accessories/lawn-and-garden/">
+			
+					<span>Lawn &amp; Garden</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/outdoor-decor-accessories/outdoor-lighting-candles/">
+			
+					<span>Lighting &amp; Candles</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/outdoor-decor-accessories/outdoor-decor/">
+			
+					<span>Decorative Accessories</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/outdoor-decor-accessories/address-plaques-mailboxes/">
+			
+					<span>Address Plaques &amp; Mailboxes</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/outdoor-decor-accessories/mosquito-insect-control/">
+			
+					<span>Mosquito &amp; Insect Control</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/outdoor-decor-accessories/beverage-tubs/">
+			
+					<span>Beverage Tubs</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/outdoor-decor-accessories/outdoor-entertaining/">
+			
+					<span>Grills &amp; Entertaining</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/outdoor-decor-accessories/heaters-fans/">
+			
+					<span>Heaters &amp; Fans</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/outdoor-decor-accessories/drapery-fabric/">
+			
+					<span>Drapery &amp; Fabric</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/outdoor-decor-accessories/storage-maintenance-lawn-care/">
+			
+					<span>Storage &amp; Maintenance</span>
+				
+		</a>
+		
+	</li>
+
+	
+					</ul>
+				
+	</li>
+
+	
+		<li class="css-MenuItemSeparator">
+			<div class="menuSeparatorInner"></div>
+		</li>
+	
+	<li class="menuItem">
+		<a href="/pool-beach/">
+			
+				<img class="off" src="/wcsstore/images/Frontgate/menu/pool_beach_off.png" alt="Pool &amp; Beach">
+				<img class="on" src="/wcsstore/images/Frontgate/menu/pool_beach_on.png" alt="Pool &amp; Beach">
+				
+		</a>
+		
+					<ul>
+						
+	<li class="menuItem">
+		<a href="/pool-beach/pool-floats/">
+			
+					<span>Pool Floats</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/pool-beach/games-recreation/">
+			
+					<span>Games &amp; Recreation</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/pool-beach/beach-towels-stands/">
+			
+					<span>Towels, Stands &amp; Hampers</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/pool-beach/storage-maintenance/">
+			
+					<span>Pool Storage &amp; Maintenance</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/pool-beach/pool-seating/">
+			
+					<span>Poolside Seating</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/pool-beach/patio-seating-dining/">
+			
+					<span>Patio Seating &amp; Dining</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/pool-beach/decor/">
+			
+					<span>Pool &amp; Patio Decor</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/pool-beach/outdoor-entertaining/">
+			
+					<span>Outdoor Entertaining</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/pool-beach/umbrellas-cooling/">
+			
+					<span>Shading &amp; Cooling</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/pool-beach/beach-seating/">
+			
+					<span>Beach Essentials</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/pool-beach/sunglasses-apparel-accessories/">
+			
+					<span>Beachwear &amp; Accessories</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/pool-beach/outdoor-electronics/">
+			
+					<span>Electronics</span>
+				
+		</a>
+		
+	</li>
+
+	
+					</ul>
+				
+	</li>
+
+	
+		<li class="css-MenuItemSeparator">
+			<div class="menuSeparatorInner"></div>
+		</li>
+	
+	<li class="menuItem">
+		<a href="/indoor-furniture/">
+			
+				<img class="off" src="/wcsstore/images/Frontgate/menu/furniture_off.png" alt="Furniture">
+				<img class="on" src="/wcsstore/images/Frontgate/menu/furniture_on.png" alt="Furniture">
+				
+		</a>
+		
+					<ul>
+						
+	<li class="menuItem">
+		<a href="/indoor-furniture/newest-additions/">
+			
+					<span>Newest Additions</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/indoor-furniture/bar-stools/">
+			
+					<span>Bar Stools</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/indoor-furniture/benches-ottomans/">
+			
+					<span>Benches &amp; Ottomans</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/indoor-furniture/bedroom-furnishings-storage/">
+			
+					<span>Bedroom Furniture</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/indoor-furniture/sofas-chairs-benches-ottomans/">
+			
+					<span>Living Room Furniture</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/indoor-furniture/game-media-room-furnishings/">
+			
+					<span>Game Room Furniture</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/indoor-furniture/office-furniture/">
+			
+					<span>Office Furniture</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/indoor-furniture/dining-furniture/">
+			
+					<span>Dining Tables &amp; Chairs</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/indoor-furniture/tommy-bahama-indoor/">
+			
+					<span>Tommy Bahama Collections</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/indoor-furniture/leather-furniture-gallery/">
+			
+					<span>Leather Gallery</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/indoor-furniture/french-heritage/">
+			
+					<span>French Heritage Collections</span>
+				
+		</a>
+		
+	</li>
+
+	
+					</ul>
+				
+	</li>
+
+	
+		<li class="css-MenuItemSeparator">
+			<div class="menuSeparatorInner"></div>
+		</li>
+	
+	<li class="menuItem">
+		<a href="/indoor-decor/">
+			
+				<img class="off" src="/wcsstore/images/Frontgate/menu/rugs_decor_off.png" alt="Rugs &amp; Decor">
+				<img class="on" src="/wcsstore/images/Frontgate/menu/rugs_decor_on.png" alt="Rugs &amp; Decor">
+				
+		</a>
+		
+					<ul>
+						
+	<li class="menuItem">
+		<a href="/indoor-decor/newest-additions/">
+			
+					<span>Newest Additions</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/indoor-decor/indoor-area-rugs/">
+			
+					<span>Rugs</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/indoor-decor/indoor-lighting/">
+			
+					<span>Lighting</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/indoor-decor/fireplace-hearth/">
+			
+					<span>Fireplace &amp; Hearth</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/indoor-decor/wall-art-wall-decor/">
+			
+					<span>Wall Art &amp; Mirrors</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/indoor-decor/florals-plants/">
+			
+					<span>Florals &amp; Plants</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/indoor-decor/wreaths/">
+			
+					<span>Wreaths</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/indoor-decor/indoor-decor-accessories/">
+			
+					<span>Decorative Accents</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/indoor-decor/drapery-hardware/">
+			
+					<span>Drapery &amp; Window Hardware</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/indoor-decor/homekeeping/">
+			
+					<span>Housekeeping</span>
+				
+		</a>
+		
+	</li>
+
+	
+					</ul>
+				
+	</li>
+
+	
+		<li class="css-MenuItemSeparator">
+			<div class="menuSeparatorInner"></div>
+		</li>
+	
+	<li class="menuItem">
+		<a href="/bed-bath/">
+			
+				<img class="off" src="/wcsstore/images/Frontgate/menu/bedding_bath_off.png" alt="Bedding &amp; Bath">
+				<img class="on" src="/wcsstore/images/Frontgate/menu/bedding_bath_on.png" alt="Bedding &amp; Bath">
+				
+		</a>
+		
+					<ul>
+						
+	<li class="menuItem">
+		<a href="/bed-bath/newest-additions/">
+			
+					<span>Newest Additions</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/bed-bath/bath-towels-guest-towels/">
+			
+					<span>Bath Towels &amp; Rugs</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/bed-bath/bathroom-accessories/">
+			
+					<span>Bathroom Accessories</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/bed-bath/bathroom-furnishings/">
+			
+					<span>Bathroom Furniture</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/bed-bath/personal-care-spa-accessories/">
+			
+					<span>Personal Care &amp; Spa</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/bed-bath/bedding-collections/">
+			
+					<span>Bedding Collections</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/bed-bath/bedding-essentials/">
+			
+					<span>Bedding Basics</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/bed-bath/sheet-sets/">
+			
+					<span>Sheets</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/bed-bath/shams-and-pillowcases/">
+			
+					<span>Shams &amp; Pillowcases</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/bed-bath/duvets-comforters/">
+			
+					<span>Duvet Covers &amp; Comforters</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/bed-bath/blankets-and-throws/">
+			
+					<span>Blankets &amp; Throws</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/bed-bath/quilts-coverlets/">
+			
+					<span>Quilts &amp; Coverlets</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/bed-bath/decorative-pillows/">
+			
+					<span>Decorative Pillows</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/bed-bath/bedskirts/">
+			
+					<span>Bedskirts</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/bed-bath/drapery-hardware/">
+			
+					<span>Drapery &amp; Window Hardware</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/bed-bath/beds-bedroom-furniture-storage/">
+			
+					<span>Bedroom Furniture</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/bed-bath/outlet/">
+			
+					<span>Bedding &amp; Bath Outlet</span>
+				
+		</a>
+		
+	</li>
+
+	
+					</ul>
+				
+	</li>
+
+	
+		<li class="css-MenuItemSeparator">
+			<div class="menuSeparatorInner"></div>
+		</li>
+	
+	<li class="menuItem flyoutLeft">
+		<a href="/pet-products/">
+			
+				<img class="off" src="/wcsstore/images/Frontgate/menu/pet_products_off.png" alt="Pet Products">
+				<img class="on" src="/wcsstore/images/Frontgate/menu/pet_products_on.png" alt="Pet Products">
+				
+		</a>
+		
+					<ul>
+						
+	<li class="menuItem">
+		<a href="/pet-products/newest-additions/">
+			
+					<span>Newest Additions</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/pet-products/pet-beds-blankets-throws/">
+			
+					<span>Pet Beds</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/pet-products/pet-gates-stairs-ramps/">
+			
+					<span>Pet Gates</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/pet-products/pet-houses-crates-travel-accessories/">
+			
+					<span>Houses &amp; Crates</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/pet-products/pet-feeders/">
+			
+					<span>Bowls &amp; Feeders</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/pet-products/car-travel/">
+			
+					<span>Car &amp; Travel</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/pet-products/pet-collars-leashes-leads/">
+			
+					<span>Collars</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/pet-products/leashes-harnesses/">
+			
+					<span>Leashes &amp; Harnesses</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/pet-products/outdoor-pool/">
+			
+					<span>Outdoor &amp; Pool</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/pet-products/pet-toys-treats-gifts/">
+			
+					<span>Toys &amp; Treats</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/pet-products/pet-gifts/">
+			
+					<span>Pet Gifts</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/pet-products/pet-care-cleaning/">
+			
+					<span>Pet Care &amp; Cleaning</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/pet-products/pet-training-essentials/">
+			
+					<span>Training Tools</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/pet-products/grooming-spa/">
+			
+					<span>Grooming Essentials</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/pet-products/pet-stairs-ramps/">
+			
+					<span>Stairs &amp; Ramps</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/pet-products/apparel-accessories/">
+			
+					<span>Apparel</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/pet-products/fish-bird-accessories/">
+			
+					<span>Fish Aquariums</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/pet-products/pet-products-outlet/">
+			
+					<span>Pet Outlet</span>
+				
+		</a>
+		
+	</li>
+
+	
+					</ul>
+				
+	</li>
+
+	
+		<li class="css-MenuItemSeparator">
+			<div class="menuSeparatorInner"></div>
+		</li>
+	
+	<li class="menuItem flyoutLeft">
+		<a href="/kitchen-entertaining/">
+			
+				<img class="off" src="/wcsstore/images/Frontgate/menu/kitchen_entertaining_off.png" alt="Kitchen &amp; Entertaining">
+				<img class="on" src="/wcsstore/images/Frontgate/menu/kitchen_entertaining_on.png" alt="Kitchen &amp; Entertaining">
+				
+		</a>
+		
+					<ul>
+						
+	<li class="menuItem">
+		<a href="/kitchen-entertaining/newest-additions/">
+			
+					<span>Newest Additions</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/kitchen-entertaining/barware/">
+			
+					<span>Wine &amp; Bar Essentials</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/kitchen-entertaining/gourmet-food/">
+			
+					<span>Gourmet Food &amp; Seasoning</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/kitchen-entertaining/kitchen-appliances/">
+			
+					<span>Electrics</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/kitchen-entertaining/serving-accessories/">
+			
+					<span>Tabletop</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/kitchen-entertaining/kitchen-furnishings-rugs/">
+			
+					<span>Furnishings</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/kitchen-entertaining/cookware-cooking-accessories/">
+			
+					<span>Cookware &amp; Tools</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/kitchen-entertaining/grills-grill-accessories/">
+			
+					<span>Grilling &amp; Outdoor</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/kitchen-entertaining/kitchen-storage-maintenance/">
+			
+					<span>Cleaning &amp; Organization</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/kitchen-entertaining/special-collections/">
+			
+					<span>Special Collections</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/kitchen-entertaining/outlet/">
+			
+					<span>Kitchen &amp; Entertaining Outlet</span>
+				
+		</a>
+		
+	</li>
+
+	
+					</ul>
+				
+	</li>
+
+	
+		<li class="css-MenuItemSeparator">
+			<div class="menuSeparatorInner"></div>
+		</li>
+	
+	<li class="menuItem rightJustify flyoutLeft">
+		<a href="/gifts/">
+			
+				<img class="off" src="/wcsstore/images/Frontgate/menu/gifts_electronics_off.png" alt="Gifts &amp; Electronics">
+				<img class="on" src="/wcsstore/images/Frontgate/menu/gifts_electronics_on.png" alt="Gifts &amp; Electronics">
+				
+		</a>
+		
+					<ul>
+						
+	<li class="menuItem">
+		<a href="/gifts/top-gifts/">
+			
+					<span>Top Gifts</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/gifts/personalize-it/">
+			
+					<span>Personalized Gifts</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/gifts/unique-gifts/">
+			
+					<span>Dream Gifts</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/gifts/gifts-for-him/">
+			
+					<span>Gifts for Him</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/gifts/gifts-for-her/">
+			
+					<span>Gifts for Her</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/gifts/cashmere-shop/">
+			
+					<span>The Cashmere Shop</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/gifts/iphone-ipad-accessories/">
+			
+					<span>iPad &amp; iPhone Accessories</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/gifts/tech-gifts/">
+			
+					<span>Electronic &amp; Tech Gifts</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/gifts/game-enthusiasts/">
+			
+					<span>Family Fun &amp; Games</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/gifts/wine-gifts/">
+			
+					<span>Gifts for Wine Lovers</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/gifts/wine-club/">
+			
+					<span>Frontgate Estate Wine Club</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/gifts/entertaining/">
+			
+					<span>Cooking &amp; Gourmet Gifts</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/gifts/hostess-gifts/">
+			
+					<span>Hostess Gifts</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/gifts/golf-gifts/">
+			
+					<span>Gifts for Golfers</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/gifts/executive/">
+			
+					<span>Office &amp; Travel Gifts</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/gifts/memorabilia-collectibles/">
+			
+					<span>Memorabilia &amp; Collectibles</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/gifts/holiday-gifts/">
+			
+					<span>Christmas &amp; Holiday Gifts</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/gifts/outdoor-gifts/">
+			
+					<span>Outdoor Gifts</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/gifts/pet-gifts/">
+			
+					<span>Gifts for Dog Lovers</span>
+				
+		</a>
+		
+	</li>
+
+	
+					</ul>
+				
+	</li>
+
+	
+		<li class="css-MenuItemSeparator">
+			<div class="menuSeparatorInner"></div>
+		</li>
+	
+	<li class="menuItem rightJustify flyoutLeft">
+		<a href="/holiday-decor/">
+			
+				<img class="off" src="/wcsstore/images/Frontgate/menu/holiday_decor_off.png" alt="Holiday Decor">
+				<img class="on" src="/wcsstore/images/Frontgate/menu/holiday_decor_on.png" alt="Holiday Decor">
+				
+		</a>
+		
+					<ul>
+						
+	<li class="menuItem">
+		<a href="/holiday-decor/christmas-trees/">
+			
+					<span>Christmas Trees</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/holiday-decor/ornaments/">
+			
+					<span>Ornaments</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/holiday-decor/wreaths-garlands/">
+			
+					<span>Wreaths &amp; Garlands</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/holiday-decor/outdoor-greenery/">
+			
+					<span>Outdoor Greenery</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/holiday-decor/outdoor-displays/">
+			
+					<span>Outdoor Decorations</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/holiday-decor/novelty-collectibles/">
+			
+					<span>Figurines &amp; Collectibles</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/holiday-decor/candles-lighting/">
+			
+					<span>Candles &amp; Lighting</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/holiday-decor/home-decor/">
+			
+					<span>Decorative Accents</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/holiday-decor/ribbon-trim/">
+			
+					<span>Ribbons &amp; Bows</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/holiday-decor/christmas-stockings/">
+			
+					<span>Stockings</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/holiday-decor/christmas-tree-skirts/">
+			
+					<span>Tree Skirts</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/holiday-decor/pillows-rugs/">
+			
+					<span>Pillows &amp; Rugs</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/holiday-decor/christmas-storage/">
+			
+					<span>Storage</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/holiday-decor/holiday-videos/">
+			
+					<span>Holiday Inspiration</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/holiday-decor/holiday-sale/">
+			
+					<span>Holiday Decor Outlet</span>
+				
+		</a>
+		
+	</li>
+
+	
+					</ul>
+				
+	</li>
+
+	
+		<li class="css-MenuItemSeparator">
+			<div class="menuSeparatorInner"></div>
+		</li>
+	
+	<li class="menuItem rightJustify flyoutLeft">
+		<a href="/frontgate-outlet/">
+			
+				<img class="off" src="/wcsstore/images/Frontgate/menu/outlet_off.png" alt="Outlet">
+				<img class="on" src="/wcsstore/images/Frontgate/menu/outlet_on.png" alt="Outlet">
+				
+		</a>
+		
+					<ul>
+						
+	<li class="menuItem">
+		<a href="/frontgate-outlet/newest-additions/">
+			
+					<span>Newest Additions</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/frontgate-outlet/weekly-specials/">
+			
+					<span>Weekly Specials</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/frontgate-outlet/bed-bath/">
+			
+					<span>Bedding &amp; Bath</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/frontgate-outlet/indoor-furniture/">
+			
+					<span>Furniture</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/frontgate-outlet/indoor-decor/">
+			
+					<span>Rugs &amp; Decor</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/frontgate-outlet/kitchen-entertaining/">
+			
+					<span>Kitchen &amp; Entertaining</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/frontgate-outlet/outdoor-furniture/">
+			
+					<span>Outdoor Furniture</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/frontgate-outlet/outdoor-decor-accessories/">
+			
+					<span>Outdoor Decor &amp; Accessories</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/frontgate-outlet/outdoor-cushions/">
+			
+					<span>Outdoor Cushions</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/frontgate-outlet/outdoor-pillows/">
+			
+					<span>Outdoor Pillows</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/frontgate-outlet/pool-beach/">
+			
+					<span>Pool &amp; Beach</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/frontgate-outlet/electronics-leisure/">
+			
+					<span>Gifts &amp; Electronics</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/frontgate-outlet/pet-products/">
+			
+					<span>Pet Products</span>
+				
+		</a>
+		
+	</li>
+
+	
+	<li class="menuItem">
+		<a href="/frontgate-outlet/holiday-decor/">
+			
+					<span>Holiday Decor</span>
+				
+		</a>
+		
+	</li>
+
+	
+					</ul>
+				
+	</li>
+
+	
+		<li class="css-MenuItemSeparator">
+			<div class="menuSeparatorRight"></div>
+		</li>
+	
+</ul>
+
+
+				<div id="gwt-top-navigation">&nbsp;
+					<span class="maxRows nodisplay">30</span>
+					<span class="maxColumns nodisplay">6</span>
+					<span class="maxRowsPerSubSubCat nodisplay">0</span>
+					<span class="moreSCtext nodisplay">More...</span>
+					<span class="moreSSCtext nodisplay">More...</span>
+					<span class="menuType nodisplay">image</span>
+					<span class="menuSource nodisplay">html</span>
+					<span class="autoCloseDelay nodisplay">2000</span>
+					<span class="menuOpenDelay nodisplay">300</span>
+				</div>
+		
+			</div>
+		<!-- Insert Global Content Spot here -->
+
+<div id="globalContentSpot">
+						
+
+<script>
+<!--
+// This javascript variable is defined so that when this fragment is pulled from cache, the variable will be defined. 
+// That is not true of the JSTL variable.
+var ContentSpot2Found= 'true';
+// WWCM content: /Frontgate/US/Global/global_header_footer_content_spots:ContentSpot2
+//-->
+</script>
+
+</div>
+<!-- Insert Page Body here -->
+		
+	
+		<div id="content">
+			<div class="contentWrapper">
+				<div class="wrapper">
+				<div class="wrapper-top-div" id="wrapper-top-div"></div>	
+					<!-- Insert SideBar here if necessary-->
+<script>
+	head.js("/wcsstore/CornerStoneBrands/javascript/LeftNavExpandCollapse.js");
+</script>
+
+
+
+<div id="sideBox">
+	<ul>
+	<li id="sideBoxHeader"><a href="/customer-service/content">Customer Service</a></li>
+	<li>
+		<ul>
+			<li class="group"><a href="/about-us/content">About Us</a>
+				<ul>
+					<li><a href="/about-us/content#company-profile">Company Profile</a></li>
+					<li><a href="/about-us/content#corporate-offices">Corporate Offices</a></li>
+					<li><a href="/about-us/content#career-opps">Career Opportunities</a></li>
+					<li><a href="/about-us/content#terms-conditions">Terms &amp; Conditions</a></li>
+				</ul>
+			</li>
+			<li class="group"><a href="/contact-us/content">Contacting Frontgate</a>
+				<ul>
+					<li><a href="/contact-us/content#supplier-inquiries">Supplier Inquiries</a></li>
+					<li><a href="/contact-us/content#partnerships">Partnerships</a></li>
+					<li><a href="/contact-us/content#technical-issues">Technical Issues</a></li>
+					<li><a href="/contact-us/content#media-requests">Media Requests</a></li>
+					<li><a href="/CustomerServiceFormView?storeId=10053&amp;catalogId=10053&amp;langId=-1">Contact Form</a></li>
+				</ul>
+			</li>
+			<li><a href="/store-locs/content">Store Locations</a></li>
+			<li><a href="/corporate-sales/content">Trade Sales</a></li>
+			<li class="group"><a href="/requests/content">Email &amp; Catalog Requests</a>
+				<ul>
+					<li><a href="/catalog-requests/content">Catalog Requests</a></li>
+					<li><a href="/email-subscriptions/content">Email Subscriptions</a></li>
+				</ul>
+			</li>
+			<li><a href="/gift-services/content">Gift Services</a></li>
+			<li class="group"><a href="/privacy-rights/content">Privacy &amp; Security</a>
+				<ul>
+					<li><a href="/full-privacy/content">Full Privacy</a></li>
+					<li><a href="/online-security/content">Online Security</a></li>
+				</ul>
+			</li>
+			<li><a href="/shipping/content">Shipping &amp; Processing</a></li>
+			<li><a href="/returns-and-exchgs/content">Returns &amp; Exchanges</a></li>
+			<li><a href="/webapp/wcs/stores/servlet/OrderStatusView?storeId=10053&amp;catalogId=10053&amp;langId=-1">Order Tracking</a></li>
+			<li><a href="/guarantee/content">Price Guarantee</a></li>
+			<li><a href="/how-to-order/content">How to Order</a></li>
+			<li class="group"><a href="/intl-cs/content">INTERNATIONAL CUSTOMER SERVICE</a>
+				<ul>
+					<li><a href="/intl-faqs/content">Frequently Asked Questions</a></li>
+					<li><a href="/intl-order-tracking/content">Order Tracking</a></li>
+					<li><a href="/intl-returns/content">Returns</a></li>
+					<li><a href="/intl-your-privacy-right/content">Your Privacy Rights</a></li>
+				</ul>
+			</li>
+		</ul>
+	<div class="genericESpot"><div class="caption" style="display:none">[CustomerServiceSideBar_Espot1]</div>
+
+</div><div class="genericESpot"><div class="caption" style="display:none">[CustomerServiceSideBar_Espot2]</div>
+
+</div><div class="genericESpot"><div class="caption" style="display:none">[CustomerServiceSideBar_Espot3]</div>
+
+</div><div class="genericESpot"><div class="caption" style="display:none">[CustomerServiceSideBar_Espot4]</div>
+
+</div>	
+	</li>
+	</ul>
+</div>
+
+							<div id="mainContent">
+						<!-- Insert Right Espot here if necessary-->
+	<div class="breadcrumbs" id="staticContentParamBreadCrumbs">
+		<ul>
+			<li class="first"><a href="/">Home</a></li>
+			
+					<li id="currentBreadCrumb" class="current"></li>
+					<script type="text/javascript">
+						// Use the actual page title
+						//$("currentBreadCrumb").innerHTML=document.getElementsByTagName("title")[0].innerHTML;
+						$("currentBreadCrumb").innerHTML=document.title;
+					</script>
+				
+		</ul>
+	</div>
+<div class="genericESpot"><div class="caption" style="display:none">[StaticContent2Top_Espot1]</div>
+
+</div>
+<div class="ndata">	
+			<h1 class="inner">Privacy &amp; Security</h1>			<div class="data">								<link type="text/css" href="/wcsstore/images/Frontgate/customerservice/Stores/style.css" rel="stylesheet"><div id="page-container" class="main"><p>Frontgate respects your privacy and is a member of the Direct Marketing Association (DMA) and follows the DMA privacy guidelines. The DMA's Mail Preference Service reduces the availability of your name and address to many other direct marketing companies. To learn more, click on <a href="http://www.dmaconsumers.org" target="new"><u>www.dmaconsumers.org</u></a>.</p><h2>Consumer Privacy at Frontgate, an HSNi Company.</h2><p>Frontgate HSN, Inc. ("HSNi") family of businesses. HSNi is a retailing powerhouse that spans the full retail spectrum including television (HSN), ecommerce (hsn.com and catalogue websites), catalogues (Cornerstone Brands), and brick &amp; mortar retail (Frontgate, Grandin Road, Ballard Designs).  For a complete list of all of HSNi's businesses, please visit <a href="http://www.hsni.com" target="new"><u>www.hsni.com</u></a>.</p><p>At HSNi, we respect the privacy of our customers and the importance of the information they entrust to us. We summarize below the basic information policies and practices in place on all HSNi websites. To read the entire Privacy Policy of Frontgate, please <a href="/full-privacy/content">click here</a>.</p><h3>Information We May Collect <span class="more">(<a href="/full-privacy/content#aboutyou">read more</a>)</span></h3><p>We may collect information that can identify you ("personal information"), such as your name, address, and email address, (i) when you (or other users) provide it to us when using our website or in some other manner, or (ii) from other HSNi businesses, from our business partners, and from other third parties. We may combine the personal information that we receive from different sources. We also may collect other types of information in the following ways when you visit our website:</p><ul class="simpleList"><li>Our server logs automatically collect information, such as your IP address, your browser type and language, and the date and time of your visit, which helps us track users' movements around our site and understand trends.</li><li>We may assign your computer one or more <a href="#" onclick="window.open('/wcsstore/images/Frontgate/customerservice/privacysecurity/cookies_beacons.html','features','width=600,height=600,scrollbars=yes')"><u>cookies</u></a> which may collect information to facilitate access to our website and to personalize your online experience.</li><li>We may use standard Internet tools, such <a href="#" onclick="window.open('/wcsstore/images/Frontgate/customerservice/privacysecurity/cookies_beacons.html','features','width=600,height=600,scrollbars=yes')"><u>web beacons</u></a>, which collect information that tracks your use of our website and enables us to customize our services and advertisements.</li><li>We do not knowingly collect personal information from children under the age of 13. Should we ever do so, we will comply with the Children's Online Privacy Protection Act.</li></ul><h3>Information Others May Collect <span class="more">(<a href="/full-privacy/content#thirdparty">read more</a>)</span></h3><p>We may allow third-party advertising companies or ad networks to display advertisements on our websites. </p><ul class="simpleList"><li>We do not provide any personal information to these companies.</li><li>These companies may use tracking tools, such as cookies, to collect information about computers used to view or interact with their advertisements.</li><li>Some of these companies may be members of the Network Advertising Initiative <a href="http://www.networkadvertising.org" target="new" onclick="s_objectID=&quot;http://www.networkadvertising.org/_1&quot;;return this.s_oc?this.s_oc(e):true"><u>www.networkadvertising.org</u></a>, which offers consumers the ability to opt out of ad targeting by all member companies.</li></ul><p>If you post information about yourself or others, or communicate with others using our website, please note that we cannot control who reads your postings or what they do with the information you provide. We encourage you to use caution in posting personal information.</p><h3>How We May Use Information We Collect <span class="more">(<a href="/full-privacy/content#howweuse">read more</a>)</span></h3><p>We may use information to:</p><ul class="simpleList"><li>Fulfill your requests for products and services;</li><li>Offer products and services that may be of interest to you;</li><li>Customize the advertising and content that you see on our website;</li><li>Facilitate use of our website;</li><li>Manage your account and your preferences;</li><li>Analyze use of and improve our website, products and services;</li><li>Identify and protect against fraudulent transactions and other misuses of our website;</li><li>Enforce our Terms of Use.</li></ul><h3>With Whom We May Share Information We Collect <span class="more">(<a href="/full-privacy/content#sharedinfo">read more</a>)</span></h3><p>We will not share your personal information with others except as indicated below, or except when we inform you in advance and give you the opportunity to opt out. We may share personal information with: </p><ul class="simpleList"><li>Service providers, such as credit-card payment processors, performing services on our behalf;</li><li>Other HSNi businesses;</li><li>Other businesses with which we partner or which we carefully select to offer you products, services, and promotions through our website or offline; and</li><li>Other third parties in limited circumstances, such as complying with legal requirements, preventing fraud, and protecting the safety of our users.</li><li>We may share aggregated, non-personal information in any of the above situations and also with advertisers and others.</li></ul><h3>Your Choices <span class="more">(<a href="/full-privacy/content#yourchoices">read more</a>)</span></h3><p>You may choose:</p> <ul class="simpleList"><li>Not to provide personal information, although that may result in your inability to obtain certain services or use certain features of our website;</li><li>To stop receiving promotional emails or newsletters from us by sending an email to the contact address below or by <a href="/EmailUnsubscribeView"><u>clicking here to unsubscribe</u></a></li><li>To delete or decline cookies by changing your browser settings, although if you do so, some of the features or services of our website may not function properly;</li><li>To review and update your personal information by contacting us at the email address below or, if you have an online account on our website, by logging into that account.</li><li>Opt-out. If you do not wish to receive mailings from other companies or to have personal information shared with other companies, including other HSNi businesses, please contact us by phone, email or mail.</li></ul><h3>Our Company Contact Points:</h3><p>Toll Free: 1-888-263-9850<br>Email: <a href="mailto:cs@frontgate.com">cs@frontgate.com</a><br>Mail: Frontgate<br>Attn: Customer Service<br>5566 West Chester Road<br>West Chester, OH 45069</p><h3>Security <span class="more">(<a href="/online-security/content">read more</a>)</span></h3><p>We take appropriate physical, electronic, and other security measures to help safeguard personal information from unauthorized access, alteration, or disclosure.</p><h3>Changes to our Privacy Policy</h3><p>We may occasionally update our Privacy Policy to reflect changes in our practices and services. If we make material changes in the way we collect, use, or share your personal information, we will notify you by sending you an email to the email address you most recently provided to us and/or by prominently posting notice of the changes on our website.</p><h3>How to Contact Us</h3><p>If you have any questions about this summary, our <a href="/full-privacy/content">Privacy Policy</a>, or our information practices, please contact us by email or postal mail below:</p><p><b>Privacy Contact</b><br>Andy Franzoni<br>Frontgate<br>5566 West Chester Road<br>West Chester, OH 45069<br><a href="mailto:ps@frontgate.com">ps@frontgate.com</a></p><p>© 2011 HSN, Inc. All rights reserved.</p></div>			</div>		
+			<input type="hidden" id="isWCMExist" value="true" name="isWCMExist">
+		
+
+<script>
+<!--
+// This javascript variable is defined so that when this fragment is pulled from cache, the variable will be defined. 
+// That is not true of the JSTL variable.
+var CopyFound= 'true';
+// WWCM content: /Frontgate/US/CustomerService/PrivacyAndSecurity/privacy_and_security:Copy
+//-->
+</script>
+
+</div>
+<script type="text/javascript">
+	if(document.getElementById("isWCMExist") != null){
+		if(document.getElementById("isWCMExist").value == 'false'){
+			window.location='/webapp/wcs/stores/servlet/Error404View';			
+		}
+	}
+</script>
+<div class="genericESpot"><div class="caption" style="display:none">[StaticContent2Right_Espot1]</div>
+
+</div><div class="genericESpot"><div class="caption" style="display:none">[StaticContent2Right_Espot2]</div>
+
+</div><div class="genericESpot"><div class="caption" style="display:none">[StaticContent2Right_Espot3]</div>
+
+</div><div class="genericESpot"><div class="caption" style="display:none">[StaticContent2Right_Espot4]</div>
+
+</div><div class="genericESpot"><div class="caption" style="display:none">[StaticContent2Right_Espot5]</div>
+
+</div><div class="genericESpot"><div class="caption" style="display:none">[StaticContent2Right_Espot6]</div>
+
+</div><div class="genericESpot"><div class="caption" style="display:none">[StaticContent2Right_Espot7]</div>
+
+</div><div class="genericESpot"><div class="caption" style="display:none">[StaticContent2Right_Espot8]</div>
+
+</div>
+
+<script>
+  
+	
+	if(analyticsData == undefined){
+		analyticsData = new Object();
+	}
+	analyticsData.cmCategoryId = 'CUSTOMER SERVICE';
+  
+</script>
+
+  
+
+<script type="text/javascript">
+	var catID = 'CUSTOMER SERVICE';
+	var cmTagVal = '';
+	if (cmTagVal == "") {
+		var docTitle = document.title;
+		if (docTitle.indexOf('|') != -1) {
+			docTitle = docTitle.substring(0,docTitle.indexOf('|'));
+		}
+		cmTagVal = docTitle;
+	}
+	cmTagVal = ''+ cmTagVal;
+	cmCreatePageviewTag(cmTagVal, catID, null, null, 10053);
+</script>
+<!-- Insert Bottom Espot here if necessary-->
+				</div><!-- mainContent -->
+
+			</div><!-- wrapper -->
+			</div>
+   		</div><!-- content --><!-- Insert Page Footer here  --><script type="text/javascript">
+  (function () {
+    var tagjs = document.createElement("script");
+    var s = document.getElementsByTagName("script")[0];
+    tagjs.async = true;
+    tagjs.src = "//s.btstatic.com/tag.js#site=qWvsoj4";
+    s.parentNode.insertBefore(tagjs, s);
+  }());
 </script>
 <noscript>
-<img src="https://link.mercent.com/image.ashx?merchantID=Frontgate" style="display: none;">
+	<iframe src="//s.thebrighttag.com/iframe?c=qWvsoj4" width="1" height="1" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>	
 </noscript>
- 
-				<div id="rightBottom">
-					<table>
-						<tbody><tr>
-							<td rowspan="2"><a target="_blank" '="" href="http://www.bbbonline.org/cks.asp?id=292001193"><img title="Click to verify BBB accreditation and to see a BBB report." width="52" border="0" src="/images/us/global/globalgraphics/logo_bbb.gif" alt="Click to verify BBB accreditation and to see a BBB report." oncontextmenu="alert('Use without permission is prohibited.  The BBB Accredited Business seal is a trademark of the Council of Better Business Bureaus, Inc.'); return false;"></a></td>
-							<td>&nbsp;<a target="_blank" href="https://www.scanalert.com/RatingVerify?ref=www.frontgate.com"><img border="0" src="//images.scanalert.com/meter/www.frontgate.com/31.gif" alt="HACKER SAFE certified sites prevent over 99.9% of hacker crime." title="HACKER SAFE certified sites prevent over 99.9% of hacker crime." oncontextmenu="alert('Copying Prohibited by Law - HACKER SAFE  is a Trademark of ScanAlert'); return false;"></a></td>
-						</tr>
-						<tr>
- 							<td>&nbsp;<a href="#" onclick="vrsn_splash();"><img src="/images/us/global/globalgraphics/logo_verisign.gif" width="67" border="0"></a></td>
-						</tr>
-					</tbody></table>
-				</div>
-			</div>
+<!--	FOOTER | START	-->
+	<div id="footer">
+		
+		
+		<div id="gwt_country_changer" class="footer_country_selector">
+			<span class="footer_country_select_text nodisplay">Change Country</span>
+			<span class="footer_country_select_enabled nodisplay">true</span>
+			<span class="footer_go_to_us_enabled nodisplay">false</span>
+			<span class="footer_go_to_us_text nodisplay">go to U.S. site</span>
+		</div>
+	
+		
+		<div class="footerLinks">
+						<div class="footerCategories">  <a href="/inspiredliving"><i>Inspired Living</i><!--<img src="/wcsstore/images/Cinmar/_media/images/logos/inspired_living_small.png" />--></a>  <a href="/homeplusstyle"><b>Home</b> + <i>Style</i><!--<img src="/wcsstore/images/Cinmar/_media/images/logos/home_plus_style_small.png" />--></a>  <a href="/Frontgate/US/Global/Articles/Index/landing-path"><i>Style Center</i><!--<img src="/wcsstore/images/Cinmar/_media/images/logos/home_plus_style_small.png" />--></a></div></div><!-- END "footerLinks" --><div class="footerInner">  <div class="row">    <div class="footerConnect col-xs-4">      <h2>Connect</h2>      <div class="footerSocial">          <a href="http://www.pinterest.com/Frontgate/" target="_blank" class="socialIconPinterest">            <img src="/wcsstore/images/Cinmar/_media/images/interface/btn_social_pinterest.png" alt="Follow on Pinterest">          </a>          <a href="http://www.houzz.com/Frontgate/" target="_blank" class="socialIconHouzz">            <img src="/wcsstore/images/Cinmar/_media/images/interface/btn_social_houzz.png" alt="Follow on Houzz">          </a>          <a href="http://www.facebook.com/Frontgate/" target="_blank" class="socialIconFacebook">            <img src="/wcsstore/images/Cinmar/_media/images/interface/btn_social_facebook.png" alt="Follow on Facebook">          </a>          <a href="http://www.twitter.com/Frontgate/" target="_blank" class="socialIconTwitter">            <img src="/wcsstore/images/Cinmar/_media/images/interface/btn_social_twitter.png" alt="Follow on Twitter">          </a>          <a href="http://www.google.com/+Frontgate1991/" target="_blank" class="socialIconGoogle">            <img src="/wcsstore/images/Cinmar/_media/images/interface/btn_social_google.png" alt="Follow on Google+">          </a>          <button class="socialIconEmail" onclick="/EmailSubscribeView">            <img src="/wcsstore/images/Cinmar/_media/images/interface/btn_social_email.png" alt="Email Signup">          </button>      </div>      <a href="/RequestACatalogView" class="btn tertiary"><span class="carat">Request a Catalog</span></a>    </div>    <div class="footerShop col-xs-4">      <h2>Shop</h2>      <ul class="links">        <li><a href="/CatalogQuickShopView">Catalog Quick Shop</a></li>        <li><a href="/Frontgate/US/Global/online-catalogs/landing-path">Catalogs Online</a></li>        <li><a href="/GiftRegistryHomeView">Gift Registry</a></li>        <li><a href="/store-locs/content">Retail Stores</a></li>        <li><a href="/Frontgate/US/CustomerService/contract-sales/content-path">Contract Sales</a></li>        <li><a href="/corporate-sales/content">Trade Sales</a></li>        <li><a href="https://www.securecheckout.billmelater.com/paycapture-content/fetch?hash=P2529Y8B&amp;content=/bmlweb/coreiw.html" target="_blank">BillMeLater</a></li>      </ul>    </div>    <div class="footerService col-xs-4">      <h2>Service</h2>      <ul class="links">        <li class="phoneNumber"><a href="tel:1.888.263.9850">1.888.263.9850</a></li>        <li><a href="/contact-us/content">Contact Us</a></li>        <li><a href="/Frontgate/US/Global/Design-Consultants/Index/landing-path">Design Services</a></li>        <li><a href="/gift-services/content">Gift Services</a></li>        <li><a href="/quality-commitment/content">One Year Guarantee</a></li>        <li><a href="/OrderStatusView">Order Status</a></li>        <li><a href="/Frontgate/US/CustomerService/product-safety-information/content-path">Product Safety</a></li>        <li><a href="/shipping/content">Shipping &amp; Processing</a></li>        <li><a href="/about-us/content">About Us</a></li>        <li><a href="/Frontgate/US/Global/WeCare/landing-path">Frontgate Cares</a></li>        <li><a href="/career-opps/content">Careers</a></li>      </ul>    </div>		
 
-
-<script language="javascript">
-function vrsn_splash() {
-	tbar = "location=yes,status=yes,resizable=yes,scrollbars=yes,width=560,height=500";
-	u1 = 'https://seal.verisign.com/splash?form_file=fdf/splash.fdf&dn=WWW.FRONTGATE.COM&lang=en';
-	sw = window.open(u1,'VRSN_Splash',tbar);
-	sw.focus();
-}
+<script>
+<!--
+// This javascript variable is defined so that when this fragment is pulled from cache, the variable will be defined. 
+// That is not true of the JSTL variable.
+var ContentSpot1Found= 'true';
+// WWCM content: /Frontgate/US/Footer/footer_links:ContentSpot1
+//-->
 </script>
 
+		</div>
+		
+		<div id="emailUpdates">
+			<!--Start: Email Updates Sign Up Widget -->
 
+	<form action="/EmailSubscribeView" name="EmailSignUpForm" id="EmailSignUpForm" method="get" onsubmit="return emailSignUpSubmit(document.EmailSignUpForm);">
+		<input type="hidden" name="storeId" value="10053">
+		<input type="hidden" name="catalogId" value="10053">
+		<input type="hidden" name="langId" value="-1">
+		<input type="hidden" name="subscribeSource" value="3">
+		<p><label id="emailSignUp_label" for="emailSignUp">Sign up for Email Updates</label></p>
+		<input id="emailSignUp" type="text" name="emailSignUp" maxlength="64" onfocus="clear_instructions_emailSignUp()" value="Sign up for Email Updates">
+		<button class="button third small branding" type="submit">
+			<img src="/wcsstore/images/Frontgate/content/buttons/go.png" alt="Go">
+	  	</button>
+	</form>
+	
+	
+	
+	<script type="text/javascript" language="javascript">
+	
+		var is_instructions_emailSignUp = true;
+		function clear_instructions_emailSignUp()
+		{
+			if(is_instructions_emailSignUp)
+			{
+				is_instructions_emailSignUp = false;
+				jQuery('[name=\'emailSignUp\']').val('');
+			}
+		}
+		function createRegistrationTagIfValidEmail(email){
+	 		if (validate_email_without_add_error(email)) {
+	 			cmCreateRegistrationTag('63200933',email.value, null, null, null, null,null, null, null, null, null, null,null,null,null,null,null);
+	 		}
+		}
+		function emailSignUpSubmit(form)
+		{
+			validator_reset();
+			
+			clear_instructions_emailSignUp();
+	
+			emailSignUp_frmvalidator.validator_submit();
+	
+			if (validation_display_errors('') == true){	
+				/**
+				* @author hsawalhi
+				* Per WCSBD-807
+				*/
+				document.getElementById("emailSignUp_label").removeAttribute("style");
+				cmCreateConversionEventTag('Sign Up for Email Updates','1','OTHER SERVICES', '1','Sign Up for Email Updates-_-'+'Sign Up for Email Updates');
+				cmCreateRegistrationTag('63200933',$('emailSignUp').value, null, null, null, null,null, null, null, null, null, null,null,null,null,null,null);
+				return true;		      
+			}
+			return false;
+		}
+		
+		var emailSignUp_frmvalidator = new Validator("EmailSignUpForm");
+		emailSignUp_frmvalidator.addValidation("emailSignUp",true,"req","emailSignUp_label","Please enter your email address.");
+		emailSignUp_frmvalidator.addValidation("emailSignUp",false,"email","emailSignUp_label","Please enter Sign Up for Email Updates in valid format.");
+	
+	
+	</script>
+<!--End: Enmail Updates Sign Up Widget -->
+		</div>
+		
+		<div class="footerLinks partnerLinks centerLinks">
+								
 
-</td></tr><tr><td align="center" colspan="7" class="mainbg">
-    
-    <div id="subscribe">
-<table border="0" align="center" cellpadding="0" cellspacing="0">
-  <form name="subscribe" method="post" action="/subscribemain.jsp?action=1"></form>
-  <tbody><tr><td>&nbsp;</td></tr>
-  <tr>
-    <td align="right" rowspan="2"><img src="/images/us/global/globalgraphics/perLogo.gif"></td>
-	<td colspan="2">Receive exclusive offers and previews or unsubscribe</td>
-  </tr>
-  <tr>
-	<td>&nbsp;<input name="email" type="text" value="Enter email address" maxlength="50" size="40" class="navemailbox" onfocus="if(this.value=='Enter email address')this.value='';" onfocusout="if(this.value=='')this.value='Enter email address';">&nbsp;
-	</td><td align="right"><input type="Image" name="emailSubmit" src="/images/us/global/globalgraphics/register_btnEmail.gif" border="0" alt="Submit"></td>
-  </tr>
-  
-</tbody></table>
+<script>
+<!--
+// This javascript variable is defined so that when this fragment is pulled from cache, the variable will be defined. 
+// That is not true of the JSTL variable.
+var ContentSpot2Found= 'true';
+// WWCM content: /Frontgate/US/Footer/footer_links:ContentSpot2
+//-->
+</script>
+
+		</div>
+		
+							
+
+<script>
+<!--
+// This javascript variable is defined so that when this fragment is pulled from cache, the variable will be defined. 
+// That is not true of the JSTL variable.
+var CopyFound= 'true';
+// WWCM content: /Frontgate/US/Footer/footer_guarantee:Copy
+//-->
+</script>
+<!-- Footer Section   -->		                
+		<div class="footerContent">
+								
+
+<script>
+<!--
+// This javascript variable is defined so that when this fragment is pulled from cache, the variable will be defined. 
+// That is not true of the JSTL variable.
+var ContentSpot3Found= 'true';
+// WWCM content: /Frontgate/US/Global/global_header_footer_content_spots:ContentSpot3
+//-->
+</script>
+
+		</div>
+		
+		<div class="checkoutFooterContent">
+						</div><!-- END "checkoutFooterContent" --></div><!-- END "footerInner" --><div class="checkoutFooterContent">		
+
+<script>
+<!--
+// This javascript variable is defined so that when this fragment is pulled from cache, the variable will be defined. 
+// That is not true of the JSTL variable.
+var ContentSpot3Found= 'true';
+// WWCM content: /Frontgate/US/Global/checkout_header_footer_spots:ContentSpot3
+//-->
+</script>
+
+		</div>
+		
+		
+	<div id="copyright">
+		<div class="cr">	
+		    Copyright 2014 Frontgate  
+		</div>
+			
+					<ul class="links">  <li><a href="/SiteMapView">Site Map</a></li>  <li class="checkout"><a href="/quality-commitment/content">Quality Commitment</a></li>  <li><a href="/privacy-rights/content">Privacy &amp; Security</a></li>  <li class="checkout"><a href="/shipping/content">Shipping &amp; Processing</a></li>  <li class="checkout"><a href="/returns-and-exchgs/content">Returns &amp; Exchanges</a></li>  <li class="checkout"><a href="javascript:void(0);" onclick="window.open('https://www.securecheckout.billmelater.com/paycapture-content/fetch?hash=P2529Y8B&amp;content=/bmlweb/coreiw.html','features','width=530,height=600,scrollbars=yes');">BillMeLater</a></li>  <li><a href="/Frontgate/US/CustomerService/conditions-of-use/content-path">Conditions of Use</a></li></ul><div class="partners">  Partner Sites  <select onchange="var url = this.options[this.options.selectedIndex].value; if (!!url &amp;&amp; url != 'null') {window.open(url, '_blank');}">    <option name="null" value="null" selected="">Select a partner</option>    <!--<option name="Frontgate" value="http://www.frontgate.com">Frontgate</option>-->    <option name="GrandinRoad" value="http://www.grandinroad.com">Grandin Road</option>    <option name="Improvements" value="http://www.improvementscatalog.com">Improvements</option>    <option name="TravelSmith" value="http://www.travelsmith.com">TravelSmith</option>    <option name="Chasing Fireflies" value="http://www.chasing-fireflies.com">Chasing Fireflies</option>    <option name="Wishworks" value="http://www.wish-works.com/">Wishworks</option>    <!--    <option name="Territory Ahead" value="http://www.territoryahead.com">Territory Ahead</option>    <option name="Smith + Noble" value="http://www.smithandnoble.com">Smith + Noble</option>    -->    <option name="Garnet Hill" value="http://www.garnethill.com">Garnet Hill</option>    <option name="Garnet Hill Kids" value="http://www.garnethillkids.com">Garnet Hill Kids</option>    <option name="HSN" value="http://www.hsn.com">HSN</option>    <option name="Ballard Designs" value="http://www.ballarddesigns.com">Ballard Designs</option>  </select></div><div class="credentials">  <div class="bbb">    <a href="https://www.bbb.org/cincinnati/business-reviews/mail-order-and-catalog-shopping/frontgate-catalog-in-west-chester-oh-3003227/#bbbonlineclick" title="Frontgate Catalog BBB Business Review" target="_blank" oncontextmenu="return false;"><img alt="Frontgate Catalog BBB Business Review" src="/wcsstore/images/Frontgate/credentials/bbb.png"></a>  </div>  <div class="mcafee">    <a href="https://www.scanalert.com/RatingVerify?ref=www.frontgate.com" target="_blank"><img oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;" title="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" src="//images.scanalert.com/meter/www.grandinroad.com/13.gif"></a>  </div>  <div class="verisign">    <a href="https://trustsealinfo.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=www.frontgate.com&amp;lang=en" target="_blank"><img src="/wcsstore/images/Frontgate/credentials/verisign.gif" oncontextmenu="return false;" title="Click to Verify - This site has chosen an SSL Certificate to improve Web site security"></a>  </div></div>		
+
+<script>
+<!--
+// This javascript variable is defined so that when this fragment is pulled from cache, the variable will be defined. 
+// That is not true of the JSTL variable.
+var CopyFound= 'true';
+// WWCM content: /Frontgate/US/Footer/site_credentials:Copy
+//-->
+</script>
+
+		<div class="footerLinks bottomLinks">
+			<ul>
+				
+					<li id="siteMap">
+						<a href="/SiteMapView?storeId=10053&amp;catalogId=10053&amp;langId=-1">Site Map</a>
+					</li>
+				
+					<li id="privacyAndSecurity">
+						<a href="/PrivacyView?storeId=10053&amp;catalogId=10053&amp;langId=-1&amp;contentKey=WCM_PRIVACY_RIGHTS">Privacy &amp; Security</a>
+					</li>
+				
+			</ul>
+		</div>
+	</div>
+
+	<div class="source-code-footer">
+	<ul>
+		<li id="sourceCode" ondblclick="sourceCodeDblClicked()" ontouchstart="sourceCodeTouched(event)" ontouchend="sourceCodeReleased(event)">
+			<script language="javascript" type="text/javascript">
+				var sourceCodeElementDiv = document.getElementById('display_source_code');
+				var sourceCode = null;
+				if (sourceCodeElementDiv != null) sourceCode = sourceCodeElementDiv.innerHTML;
+				if (sourceCode) {
+					var labelTmpl = 'Source Code: {0}';
+					var sourceCodeMsg = labelTmpl.replace("{0}", sourceCode);
+					document.write(sourceCodeMsg);
+				}
+			</script>Source Code: WEBFGB
+		</li>
+	</ul>
+	</div>
+	
+	<script>
+		var touchObj;
+		var touchStartTime;
+		function sourceCodeDblClicked() {
+			triggerReportToServer();
+		}
+		function sourceCodeTouched(event) {
+			event.preventDefault();
+			if (touchObj == null) {
+				touchObj = event.touches[0];
+				touchStartTime = new Date();
+			}
+		}
+		function sourceCodeReleased(event) {
+			var found = false;
+			for (var i = 0; i< event.touches.length; i++) {
+				if (event.touches[i] == touchObj) {
+					found = true;
+					break;
+				}
+			};
+			if ( ! found ) {
+				var touchEndTime = new Date();
+				var duration = touchEndTime - touchStartTime;
+				if (duration > 1000) {
+					triggerReportToServer();
+				}
+				touchObj = null;
+			}
+		}
+		function triggerReportToServer() {
+			if (typeof reportToServer == 'undefined') {
+				head.js("/wcsstore/CornerStoneBrands/javascript/diagnosticTools.js", function() {reportToServer();});
+			} else {
+				reportToServer();
+			}
+		}
+	</script>
+
+ 	<script language="javascript1.1" src="/wcsstore/CornerStoneBrands/javascript/domUtils.js" type="text/javascript"></script>
+	<script language="javascript" type="text/javascript">
+		var divlist = findElementsWithPrefix("div", "gwt_recommendations_");
+		// Determine if any of the divs in divlist are enabled. If so, set callCertonaRunInFooter to false.
+		divlist.each( function (divelem) {
+			if (callCertonaRunInFooter == true) {
+				var jsvarname = divelem.id + "_JSON";
+				eval("var jsonObj = " + jsvarname + ";");
+				if (jsonObj.enabled == "true") {
+					callCertonaRunInFooter = false;
+				}
+			}
+		});
+		var cookieValue = Get_Cookie('RES_TRACKINGID');
+		if ( ! cookieValue || callCertonaRunInFooter ) {
+			certonaResx.run();
+		}
+	</script>
+
+		
+		<div class="trackingPixels">
+					<!-- GOOGLE ANALYTICS --><script>trkpix_google_analytics();</script><!-- START -- BloomSurface tracking code. --><script type="text/javascript">var br_data = {};	function  bloomReachTrack(categoryId, categoryName, searchPhrase) {		br_data = {};		/* --- Begin parameters section: fill in below --- */		br_data.acct_id = "5175";				/*br_data.ptype = "<search, category, product, thematic, other>";*/		var areaName = '';		var viewName = '';		var areaNameElm = document.getElementById("gwt_area_name");				if (areaNameElm) areaName = areaNameElm.value;				var viewNameElm = document.getElementById("gwt_view_name");				if (viewNameElm) viewName = viewNameElm.value;				if(areaName || viewName) {			if("ProductSearch" == areaName) {				br_data.ptype = "search";				br_data.search_term = searchPhrase;			}else if("CategoryView" == areaName) {				br_data.ptype = "category";			}else if("ProductDetailView" == viewName) {				br_data.ptype = "product";			}else if("BRThematicView" == viewName) {				br_data.ptype = "thematic";			}else {				br_data.ptype = "other";			}		}		if((typeof analyticsData != 'undefined') && analyticsData.cmCategoryId ) {			br_data.cat_id = analyticsData.cmCategoryId;		}		/*		br_data.cat = "<category(ies) related to page, separated by a '|'";		*/		if((typeof analyticsData != 'undefined') && analyticsData.cmPageId ) {			br_data.page_id = analyticsData.cmPageId;		}		if((typeof analyticsData != 'undefined') && analyticsData.breadCrumbsArray) {								br_data.cat = '';				if (analyticsData.breadCrumbsArray.length ==0) br_data.cat = '';				else {					br_data.cat = analyticsData.breadCrumbsArray[0];					for (var i=1; i <  analyticsData.breadCrumbsArray.length  ; i++) {						br_data.cat =  analyticsData.breadCrumbsArray[i] + '|' + br_data.cat;					}									}							}		if((typeof productsJson != 'undefined') && productsJson) {			if(productsJson.bundleId) {										br_data.prod_id = productsJson.partNumber;				br_data.prod_name = productsJson.bundleName;				br_data.sku = br_data.prod_id;    /*Sending same as product id*/				if(productsJson.bundleMinimumListPrice >0) 					br_data.price = productsJson.bundleMinimumListPrice;				else 					br_data.price = productsJson.bundleMinimumPrice;				br_data.sale_price = productsJson.bundleMinimumPrice;			}else if((typeof productJSONArray != 'undefined') && productJSONArray && productJSONArray[0] && productJSONArray[0].pageProduct){									br_data.prod_id =  productJSONArray[0].pageProduct.partNumber;				br_data.prod_name =  productJSONArray[0].pageProduct.prodName;				br_data.sku = br_data.prod_id; /*Sending same as product id*/								if(productJSONArray[0].pageProduct.minListPrice >0) 					br_data.price = productJSONArray[0].pageProduct.minListPrice;				else 					br_data.price = productJSONArray[0].pageProduct.minimumPrice;									br_data.sale_price = productJSONArray[0].pageProduct.minimumPrice;			}		}		/*br_data.pstatus= <"product status:  ok, outofstock, discontinued, other">;*/		if((typeof trkpix_json != 'undefined') && trkpix_json && trkpix_json.trkpix_pageName == 'orderConfirmation')  {			br_data.is_conversion = 1;			br_data.basket_value = trkpix_json.trkpix_order_value;			br_data.order_id = trkpix_json.trkpix_merchant_order_id;			/* Extended basket tracking. To be filled in only on pages with is_conversion = 1 */			if(trkpix_json) {								var itemsArray = [];				for (var pagepr in trkpix_json.trkpix_oItems) {						var oitem = trkpix_json.trkpix_oItems[pagepr].oitem;																								if(oitem) {						   var modval = '';						   if( (  ((oitem.price * oitem.qty) ) != Number(oitem.totalDiscountPrice.replace('\$','')))) 							   	modval = "sale";						   else 						   	modval = "";						 					   						    itemsArray.push( {							    "prod_id": oitem.itemsProductmfpartNo,							    "sku": oitem.partNumber ,							    "name": oitem.name,							    "quantity": oitem.qty,							    "price": oitem.price,							    "mod": modval						    });						}				}								br_data.basket={					"items": itemsArray				};							}						}else {			br_data.is_conversion = 0;		}		/* --- End parameter section --- */		(function() {		var brtrk = document.createElement('script');		brtrk.type = 'text/javascript';		brtrk.async = true;		brtrk.src = 'https:' == document.location.protocol ? "https://cdns.brsrvr.com/v1/br-trk-5175.js" : "http://cdn.brcdn.com/v1/br-trk-5175.js";		var s = document.getElementsByTagName('script')[0];		s.parentNode.insertBefore(brtrk, s);		})();	}		var brviewNameElm = document.getElementById("gwt_view_name");	if (brviewNameElm) brviewName = brviewNameElm.value;	if ("SLIBodyView"!=brviewName) {			bloomReachTrack(null,null,null);	}	      function  addToCartAnalyticsCallBack(mfPartnumber, name, qty,  price, categoryId, storeId, currencyCode, catIDoverride, cmAttributes) {      	/*      	if(typeof brtrk == 'undefined' ) {      		(function() {				var brtrk = document.createElement('script');				brtrk.type = 'text/javascript';				brtrk.async = true;				brtrk.src = 'https:' == document.location.protocol ? "https://cdns.brsrvr.com/v1/br-trk-5175.js" : "http://cdn.brcdn.com/v1/br-trk-5175.js";				var s = document.getElementsByTagName('script')[0];				s.parentNode.insertBefore(brtrk, s);		})();      	}      	*/      	      	BrTrk.getTracker().logEvent('Cart', 'add', {'prod_id':mfPartnumber,'sku' :mfPartnumber,'prod_color':'','prod_name': name}, {'price' : price, 'sale_price' : price});       	      }</script><!-- END -- BloomSurface tracking code. -->		
+
+<script>
+<!--
+// This javascript variable is defined so that when this fragment is pulled from cache, the variable will be defined. 
+// That is not true of the JSTL variable.
+var FooterSpotFound= 'true';
+// WWCM content: /Frontgate/US/Global/tracking_pixels:FooterSpot
+//-->
+</script>
+
+		</div>
+	</div>
+	<!--	FOOTER | END	-->
+	<div id="gwt_inspiration_bar" class="nodisplay">
+		<span class="nodisplay gwt_inspiration_bar_position">0</span>
+	</div>
+	<div id="inspiration-bar_Spot_and_WWCM" class="nodisplay">
+		<div id="inspiration-bar-ESpot1">
+			<div class="genericESpot"><div class="caption" style="display:none">[Inspiration_Bar_Header_ESpot]</div>
+
 </div>
+		</div>
+	</div>
+	
+	<div id="inspiration_bar_panel"></div>
+	<div id="inspiration_bar_drop_source" class="inspiration_bar_drop_source"></div>
+    <script src="/wcsstore/CornerStoneBrands/javascript/inspirationbar-dragdrop.js" language="javascript" type="text/javascript"></script>
+	
+	
+  
+		    
+		<script>
+			jQuery(document).ready(function() {
+				var elements = document.getElementsByTagName("div");
+				var divNum = elements.length;
+				for(var i=0; i< divNum; i++) {
+				    var element = elements[i];
+				    if(element.id.startsWith("custom_add_to_cart")) {
+				   
+				        var getResources = document.createElement("script");
+						getResources.rel = "javascript";
+						getResources.src = "/gwtResources?storeId=10053&catalogId=10053&langId=-1&oldView=&key=pdp";
+						document.getElementsByTagName("head")[0].appendChild(getResources);
+				        break;
+				    }
+				}
+			});
+		</script>							
+	     
+		
+ 	<script language="javascript" src="/wcsstore/CornerStoneBrands/javascript/international.js" type="text/javascript"></script>
 
-    
-</td></tr>
+ 	<script language="javascript" type="text/javascript">
+	 	initInternational(false, "https://embassy.fiftyone.com/welcome/welcome.srv", "2823", "");
+ 	</script>
+ 	
 
-<!-- Display Source Code for Session -->
+		
+	</div><!-- container -->
+	 
 
-
-<tr><td colspan="9">&nbsp;</td></tr>
-<tr height="12" valign="middle">
-	<td colspan="9"><div id="sourcecode">Source Code: WEBFGA</div><div id="copyright">© 2011 Frontgate</div></td>
-</tr>
-<tr><td colspan="9">&nbsp;</td></tr>
-
-<!-- </table> -->
-
-<script type="text/javascript">
-s.campaign = s.getValOnce("WEBFGA", "cid_omni", 0);
-var popupCheck = 0;
-
-function openPlcc(){
-	if(popupCheck==0){
-		openMe('https://www.esnapw.com/rses/ESnapServlet?MerchantNumberSent=00223', 'HSBC_eSnap');
-		popupCheck++;
-	}else{
-		alert("Please refresh page to check your eligibility");
-	}
-}
+	<script src="//frontgate.resultspage.com/rac/sli-rac.config.js?ts=1404086400000"></script>
+<script>
+ 	Jiffy.measure("bodyComplete");
 </script>
 
-<!-- Fireclick Integration Implementation  -->
 
-
-<!-- Fireclick Netflame -->
-<script type="text/javascript">
- function handle(){return true;}
- window.onerror=handle;
- var fc_host="www.frontgate.com";
- //var fc_host='';
- document.write('<scr'+'ipt '
- +'src="'+((location.protocol=='http:')?'http://a644.g.akamai.net/f/644/67/3h/':'https://a248.e.akamai.net/f/248/67/3h/ssl-')
- +'hints.netflame.cc/service/sc'+'ript/'+fc_host+'"></scr'+'ipt>');
- function fcce(){if (typeof(fcnf)!="undefined") fcnf();}
- var fcfn=window.onload;
- function fcco(){window.setTimeout("fcce();", 100);fcfn();}
- window.onload= null==fcfn ? fcce:fcco;
- </script><script src="https://a248.e.akamai.net/f/248/67/3h/ssl-hints.netflame.cc/service/script/www.frontgate.com"></script>
- <!-- Fireclick Netflame -->
-
-<!-- Footer End -->
-<!-- MilonicDHTML -->
-<!-- Intelligent Reporting Support -->
-
-
-
-
-
-
-<!-- Intelligent Reporting Support End -->
-<!-- Omniture Reporting Support -->
-
-
-<script>if ((typeof(s.pageName) == 'undefined') || (s.pageName == '')) { s.pageName='Cat/Customer Service/Privacy &amp;amp Security'; }
-</script>
-<script>endOfPageProcessing();s_code=s.t();if(s_code)document.write(s_code);
-</script>
-
-<!-- End, Omniture Reporting Support -->
-
-
-	  
-</tbody></table>	
-
-<!-- Content Wrap End -->
-
-
-
-
-
-
-
-
-
-
-</body></html>
+<div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" role="dialog" tabindex="-1" style="display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxTitle" style="float: left;"></div><div id="cboxCurrent" style="float: left;"></div><button type="button" id="cboxPrevious"></button><button type="button" id="cboxNext"></button><button id="cboxSlideshow"></button><div id="cboxLoadingOverlay" style="float: left;"></div><div id="cboxLoadingGraphic" style="float: left;"></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none;"></div></div></body></html>
