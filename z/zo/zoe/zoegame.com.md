@@ -1,0 +1,35 @@
+> *The following text is extracted and transformed from the zoegame.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629023442id_/http%3A//www.zoegame.com/privacy-policy.htm) for the most accurate reproduction.*
+
+# Privacy Policy ZoeGame.com - Zoe Game
+
+##  Privacy Policy ZoeGame.com 
+
+**At Zoegame.com we do not gather any personal information from the user and we are committed to protect your privacy online**
+
+**IP address and logging in**
+
+We may seek to get broad demographic information from your pattern of visiting our site with your IP address. This includes the number of pages you see at our site, and also the number of downloads you make. We do not gather personal information from our users.
+
+**Third party advertising**
+
+We may utilize Google Adsense or any other advertising agency to serve you with advertisements whenever you visit 123peppy.com. Even though your details like email ID, name, address, or phone number will not be revealed to these companies, they may be enabled to provide you with the kind of ads that interest you, based on the visits that you make to our site.
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit www.networkadvertising.org.
+
+**Cookies**
+
+Our own servers may also display ads. The ads which are loaded from our servers may contain cookies to enable us to make a better selection of the kind of advertisements which may interest you.
+
+**Third party Cookies**
+
+While serving advertisements, any unique cookies which are on your browser may also be recognized by our third-party advertisers.
+
+**Parental rights**
+
+If you seek to know about the personal information of your child which is stored in our servers, all you have to do is call upon us to provide you with the information, which will be done within 7 working days.
+
+**Changes to this privacy policy**
+
+The privacy policy published herein may be changed at any time at our discretion, and it is entirely up to you to keep yourself updated with regard to the latest developments on our site.
+
+We partner with ValueClick to serve ads and/or collect certain information when you visit our website. ValueClick may use cookies or web beacons to collect non-personally identifiable information during your visit to this website in order to help show advertisements on other websites likely to be more interesting to you. To learn more about this “behavioral advertising” practice or to opt-out of this use of your anonymous information, you can visit http://valueclickmedia.com/member_privacy.shtml
