@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bgr.in privacy policy that was archived on 2011-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110426054946id_/http%3A//www.bgr.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bgr.in privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629043427id_/http%3A//www.bgr.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
