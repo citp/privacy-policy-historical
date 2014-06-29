@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the target.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228025405id_/http%3A//www.target.com/spot/privacy-policy%23%3Flnk%3Dfnav_t_spc_2_2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the target.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629083710id_/http%3A//www.target.com/spot/privacy-policy%23%3Flnk%3Dfnav_t_spc_2_2) for the most accurate reproduction.*
 
 # Target
 
 ## Target Privacy Policy
+
+[Spanish Translation (Traducción en español)](http://img1.targetimg1.com/wcsstore/marketing/com/online/pdf/spot/privacy/translations/hippa/0513/privacy_policy_spanish.pdf "Spanish Translation")
 
 At Target, we want you to know how we collect, use, share and protect information about you. By interacting with Target, you consent to use of information that is collected or submitted as described in this privacy policy. We may change or add to this privacy policy, so we encourage you to review it periodically. To help you track the changes, we include a history of changes below.
 
@@ -82,19 +84,23 @@ Types of personal information we collect include:
 
 If you choose not to provide personal information we may not be able to provide you with requested products, services or information. 
 
-#### Automated Information Collection
+#### Automated Information Collection 
 
 We may connect information collected automatically with information we already have about you in order to identify you as a Target guest. If we are able to identify you as a Target guest we may, for example, link your activity on our website to your activity in a Target store. This allows us to provide you with a personalized experience regardless of how you interact with us – online, in store, mobile, etc.
 
  _Automated Information Collection_
 
-We and our service providers use cookies, web beacons, and other technologies to receive and store certain types of information whenever you interact with us through your computer or mobile device. This information, which includes the pages you visit on our site, which web address you came from, the type of browser/device/hardware you are using, purchase information and checkout process, search terms and IP-based geographic location, helps us recognize you, customize your website experience and make our marketing messages more relevant. This includes Target content presented on another website or mobile application, for example, Target Weekly Ad. These technologies also enable us to provide features such as storage of items in your cart between visits and Short Message Service (SMS)/text messages you have chosen to recieve. We also use Flash cookies for fraud prevention purposes. 
+We and our service providers use cookies, web beacons, and other technologies to receive and store certain types of information whenever you interact with us through your computer or mobile device. This information, which includes the pages you visit on our site, which web address you came from, the type of browser/device/hardware you are using, purchase information and checkout process, search terms and IP-based geographic location, helps us recognize you, customize your website experience and make our marketing messages more relevant. This includes Target content presented on another website or mobile application, for example, Target Weekly Ad. These technologies also enable us to provide features such as storage of items in your cart between visits and Short Message Service (SMS)/text messages you have chosen to receive. We also use Flash cookies for fraud prevention purposes. 
 
 In order to provide the best guest experience possible, we also use these technologies for reporting and analysis purposes, such as how you are shopping our website, performance of our marketing efforts, and your response to those marketing efforts.
 
 _Third-Party Automated Collection_
 
-We allow third-party companies to collect certain information when you visit our website and to use that information to serve ads for Target products or services or for the products or services of other companies when you visit this website or other websites. These companies use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over, hardware/software information, cookie and session ID, and IP address) during your visits to this and other websites in order to provide advertisements about goods and services likely to be of greater interest to you. These parties typically use a cookie or a third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, visit the [Network Advertising Initiative website](http://www.networkadvertising.org/choices) or [Digital Advertising Alliance website](http://www.aboutads.info/).
+Target participates in online behavioral advertising (OBA), also known as interest-based advertising. We use third-party advertising companies to display ads tailored to your individual interests based on how you browse and shop online. Target adheres to the Digital Advertising Alliance (DAA) self-regulatory principles for OBA.
+
+We allow third-party companies to collect certain information when you visit our website and to use that information to serve ads for Target products or services or for the products or services of other companies when you visit this website or other websites. These companies use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over, hardware/software information, cookie and session ID) and personally identifiable information (e.g. IP address) during your visits to this and other websites in order to provide advertisements about goods and services likely to be of greater interest to you. These parties typically use a cookie or a third party web beacon to collect this information.
+
+At this time, we do not respond to browser “do not track” signals, but we do provide you the option to opt out of behavioral advertising. To learn more about OBA or to opt-out of this type of advertising, visit the [Network Advertising Initiative website](http://www.networkadvertising.org/choices) or [Digital Advertising Alliance website](http://www.aboutads.info/).
 
 #### User Experience Information
 
@@ -148,7 +154,7 @@ Examples of how we use the information we collect include:
 
 #### Fraud Prevention
 
-  * To prevent fraudulent transactions, monitor against theft and otherwise protect our guests and our business 
+  * To prevent fraudulent transactions, monitor against theft and otherwise protect our guests and our business (e.g. product recalls) 
 
 
 
@@ -166,7 +172,7 @@ We share the information we collect within Target Corporation, which includes al
 
 Target Corporation may use this information to offer you products and services that may be of interest to you.
 
-Target Corporation owns and operates Target Stores and Target web sites, and issues the Target Debit Card. Target Corporation subsidiaries and affiliates include, but are not limited to: Target Bank, Target Canada, Target Commercial Interiors, TCC Cooking Co. (Cooking.com and Chef’s Catalog).
+Target Corporation owns and operates Target Stores and Target web sites, and issues the Target Debit Card. Target Corporation subsidiaries and affiliates include, but are not limited to: Target Bank, Target Canada, Target Commercial Interiors, TCC Cooking Co. (Cooking.com and Chef’s Catalog) and Dermstore LLC (Dermstore.com, Blush.com, and Hairenvy.com).
 
 #### Card Issuing Bank
 
@@ -174,7 +180,7 @@ We may share the information we collect with our banking partner, TD Bank USA N.
 
 #### Service Providers
 
-We may share the information we collect with companies that provide support services to us (such as a printer, e-mail, mobile marketing, analytics providers, web hosting providers, call center service providers, sweepstakes vendors, payment processors, coupon delivery vendors, or data enhancement provider) or that help us market our products and services. These companies may need information about you in order to perform their functions. 
+We may share the information we collect with companies that provide support services to us (such as a printer, e-mail, mobile marketing, analytics providers, web hosting providers, call center service providers, sweepstakes vendors, payment processors, coupon delivery vendors, data enhancement, or fraud prevention providers) or that help us market our products and services. These companies may need information about you in order to perform their functions. 
 
 These companies are not authorized to use the information we share with them for any other purpose. 
 
@@ -293,7 +299,13 @@ Our website may offer links to other sites. If you visit one of these sites, you
 
 This history changes begins as of July 2004 and includes the date of the update and a description of changes.
 
-### Last update: 12/11/2013
+### Last update: 1/25/2014
+
+Jan 2014 
+    Added Dermstore LLC to list of Target subsidiaries and affiliates 
+
+Dec 2013 
+    Added information about Online Behavioral Advertising and fraud prevention 
 
 Dec 2013 
     Updated the choices available for Target Ticket promotional emails 
