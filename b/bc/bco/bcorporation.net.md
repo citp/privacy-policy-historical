@@ -1,91 +1,86 @@
-> *The following text is extracted and transformed from the bcorporation.net privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030035124id_/http%3A//www.bcorporation.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bcorporation.net privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629142737id_/http%3A//www.bcorporation.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | B Corporation
 
-Effective from July 5th, 2011.
+B Lab, Inc. (hereafter referred to as "B Lab", “the B Impact Assessment”, “B Analytics”, "we", "us", or "our") provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of www.bimpactassessment.net and www.b-analytics.net and any other websites (collectively, the “Site”) through which B Lab makes these Services available.
 
-###### General Information
+This Privacy Policy applies only to information that you provide to us through the Site. This Privacy Policy may be updated from time to time. We may update this Privacy Policy to reflect changes to our information practices. If we make any material changes we will notify you by means of a notice on the Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms of Service (www.bimpactassessment/terms-of-use).
 
-B Lab takes your privacy seriously. Please read the following information to learn more about our privacy practices.
+### What Information Do We Collect?
 
-This policy covers what personally identifiable information B Lab collects and how it is treated. Personally identifiable information is information that can be used to identify visitors to the [http://bcorporation.net](https://web.archive.org/ "bcorporation.net") web site. This information may be limited to an IP address or extend to personally identifiable information such as your name, address, email address, or phone number.
+We collect information from you when you register on our Site, provide responses on the B Impact Assessment (“Assessment”) and B Analytics (“Analytics”) platforms, subscribe to our newsletter, or fill out a form. The type of information we collect may include:
 
-This policy only applies to [http://bcorporation.net](https://web.archive.org/ "bcorporation.net") and does not extend to the practices of other web sites that we may link to, companies that we do not own or control, or to people that we do not employ or manage.
-
-###### Contact Information
-
-We invite you to contact us if you have questions about this privacy policy.
-
-B Lab  
-155 E Lancaster Avenue, Second Floor  
-Wayne, PA 19087  
-USA
-
-You may contact us by e-mail at [thelab@bcorporation.net](mailto:thelab@bcorporation.net "Email Us")  
-You may contact us by phone at 610-293-0299.
-
-###### Dispute Resolution
-
-B Lab is committed to resolving any dispute you may have regarding our privacy policy quickly and efficiently. Disputes will be handled by our customer service representative. Our customer service will promptly correct any errors.
-
-###### Dispute Resolution
-
-B Lab is committed to resolving any dispute you may have regarding our privacy policy quickly and efficiently. Disputes will be handled by our customer service representative. Our customer service will promptly correct any errors.
-
-###### Information Collection
-
-When visiting bcorporation.net certain information about you and your computer can sometimes be collected. This section explains what information B Lab collects, and how it is used.
-
-Information Collected - What information do we collect and why?
-
-We collect the following identifiable information about our visitors:
-
-  * user.first-name (optional)
-
-  * user.last-name (optional)
-
-  * user.business-info.online.email (optional)
-
-  * user.company name (optional)
-
-  * user.jobtitle (optional)
-
-  * user.business-info.postal (optional)
-
-  * user.business-info.telecom.telephone (optional)
-
-  * dynamic.clickstream
-
-  * dynamic.http
-
-  * dynamic.searchtext
-
-  * dynamic.miscdata
+  * Personal information such as your name, shipping/billing address, e-mail, and telephone number when you use the Assessment and Analytics platforms. 
+  * Your username and password to allow access to these platforms. 
+  * Customer data or customer company data which you store and use with us. 
+  * User feedback, community discussions, chats and other interactions on our Site or with our staff.
 
 
 
+B Lab will not disclose your name, email address or other personal information to third parties without your explicit consent, except as specified in this policy. 
 
-We collect identifiable information for the following reasons:
+B Lab automatically receives and records some information from your browser or your mobile device when you visit the Site, such as your IP address or unique device identifier, cookies and data about which pages you visit on the Site. This information helps us analyze and understand how the Site works for our users and visitors, and provide a more personalized experience for users. 
 
-  * Completion and Support of Current Activity
+### What We Do with Your Information
 
-  * Web Site and System Administration
+We use the information you enter into our platforms to produce the results you ask for, such as social and environmental impact reports, benchmarking reports that compare your results to other companies, and reports on how your company can improve its impact, etc. 
 
-  * Research and Development
+We use your contact information to assist you in using our platforms or to help you correct a problem with the platform. 
 
+Identifiable information entered into the Assessment is considered confidential, and B Lab will take reasonable precautions to protect such identifiable information. B Lab limits access to your personal information to trained employees, affiliates, or contractors who we believe reasonably need to come into contact with that information to provide products or services to you to help measure, validate, and improve your company’s social and environmental impact. 
 
+#### Our Partners
 
+In the event you have indicated that you are affiliated with, or a member of, one of our Standards Partners, B Lab reserves the right to share information with our Standards Partners (organizations that B Lab has entered into a relationship into with regards to the B Impact Assessment or B Analytics). This data allows our partners to understand the social and environmental impact of its portfolio of investments or users to a greater degree; they may use the data to report aggregate impact data to investors and plan educational programs that improve the users' impact. Data that is shared with our Standards Partners are subject to the privacy policies of our partners. 
 
-Collecting your information will allow us to help you through the B Impact Assessment process. B Lab respects your privacy and will not sell or transfer your identifiable information to any third party without prior consent, unless required to do so in order to comply with applicable laws or regulations.
+#### Academic Research
 
-Our Web Site generates server log files automatically. These log files are used to generate statistical information and error reports to ensure the Web Site runs with a minimum of disruption. They are not actively used to identify individual visitors.
+Separately, B Lab reserves the right to share aggregated and anonymous data on B Analytics and with universities, researchers, and partners, and in publications based upon data submitted through this system. This aggregated, anonymized data is shared to produce academic research that shares insight from the social and environmental impact behaviors of businesses. B Lab will use commercially reasonable efforts to ensure that Company data does not appear with identifiable information or in a benchmark group with less than five other data points. 
 
-###### Information Recipients - Who has access to the information collected?
+Notwithstanding B Lab’s efforts, it is possible that partners, academics, readers or other users would be able to determine the identity of the Company based on the anonymous information. Except as otherwise provided in this agreement, B Lab shall have no liability to the Company or any other person in the event any person is able to determine the identity of the Company based on anonymous or aggregated information.
 
-Ourselves and/or other entities acting as our agents or entities for which we are acting as an agent. These entities may be located in jurisdictions that provide different levels of statutory protection for your information.
+#### Subpoena
 
-For users of the GIIRS Impact Assessment, Certified B Corporations and GIIRS Rated Companies, please see the Terms and Condtions of Use and your signed term sheet for additional information regarding information reciepients, data usage and privacy.
+B Lab may release your personal information to a third-party in order comply with a subpoena or other legal requirement, or when we believe in good faith that such disclosure is necessary to comply with the law; prevent imminent physical harm or financial loss; or investigate or take action regarding illegal activities, suspected fraud, or violations of B Lab's Terms of Use.
 
-###### Information Retention - How long is this information retained?
+Users entering material into the Web Site are responsible for the content of that material. B Lab does not have responsibility for other Content, including the content of any messages or information posted by Users or others, or for the content of information accessible via direct or indirect hyperlinks from the Web Site. However, B Lab retains the right, which it may or may not exercise in its sole discretion, to review, edit, or delete other Content that B Lab deems to be illegal, offensive, or otherwise inappropriate.
 
-We do not have a retention policy for this area of the Web Site.
+#### Your Privacy Controls
+
+We know our users value having control over their own information, and therefore B Lab gives you the choice of providing, editing or removing certain information, as well as choice over how we contact you.
+
+You may change or correct your account information (except your username) on the Site. You may change or correct any data sharing settings with our partners through your account settings. 
+
+### How Do We Protect Your Information?
+
+The security of your personal information is important to us. Your account information is protected by a password. It is important that you protect against unauthorized access of your account and information by choosing your password carefully, and keeping your password and computer secure by signing out after using our services.
+
+B Lab follows generally accepted industry standards to protect the personal and company information submitted to us, both during transmission and once B Lab receives it. No method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+
+### Data Retention
+
+B Lab will retain your information only for as long as is necessary or your account is active or as needed to provide you services. We retain this information to provide services that you ask for such as how your company’s current impact data compares to your company’s historical impact. We also retain this information to make it easy for our company to comply with the impact reporting requirements of your investors or funders. If you no longer wish to use B Lab’s services or receive service-related messages, then you may close your account. To close your account, please contact us at [thelab@bcorporation.net](mailto:thelab@bcorporation.net).
+
+### Compliance with European Safe Harbor Frameworks
+
+B Lab complies with the US - EU Safe Harbor framework and the US - Swiss Safe Harbor framework as set forth by the US Department of Commerce regarding the collection, use and retention of personal data from European Union member countries and Switzerland. B Lab has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement. To learn more about the Safe Harbor program, please visit <http://www.export.gov/safeharbor/>.
+
+### Terms and Conditions
+
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our webSite at <http://www.bimpactassessment.net/terms-of-use>
+
+### Your Consent
+
+By using our Site, you consent to our online privacy policy.
+
+### Changes to Our Privacy Policy
+
+B Lab reserves the right to modify this privacy policy at any time; please review it periodically. We will communicate changes by posting a notice on the Site. If we make material changes to this policy you will be notified here, by email, via notifications on the platform, or other places B Lab deems appropriate.
+
+This policy was last modified on 11/27/2013.
+
+### Contacting Us
+
+If there are any questions regarding this privacy policy you may contact B Lab Staff using the information below.
+
+155 E Lancaster Ave, 2nd Floor, Wayne, PA 19087, United States; Email: [thelab@bcorporation.net](mailto:thelab@bcorporation.net); Telephone: (+1) 610-293-0299.
