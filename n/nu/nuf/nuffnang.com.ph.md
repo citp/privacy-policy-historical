@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nuffnang.com.ph privacy policy that was archived on 2013-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131107225034id_/http%3A//www.nuffnang.com.ph/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nuffnang.com.ph privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629162425id_/http%3A//www.nuffnang.com.ph/privacy-policy) for the most accurate reproduction.*
 
-# Nuffnang Philippines | The World's Leading Blog Advertising Community » Privacy
+# Nuffnang Philippines | The World's Leading Blog Advertising Community » Privacy Policy
 
 Nuffnang Philippines, Inc. (hereinafter referred as " **We** " or " **Us** " or " **Our** "), either itself or through its subsidiaries or licencees, provides online advertising sale and display services (" **Services** ") in electronic portals such as Nuffnang and ChurpChurp (" **Portals** "),for publishers(" **Publisher(s)** ").
 
