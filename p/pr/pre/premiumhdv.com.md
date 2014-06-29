@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the premiumhdv.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205174736id_/http%3A//www.premiumhdv.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the premiumhdv.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629175803id_/http%3A//www.premiumhdv.com/pages/privacy) for the most accurate reproduction.*
 
 # Premium HD Porn Videos and Sex Movies
 
