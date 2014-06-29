@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the aflac.com privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820023202id_/http%3A//www.aflac.com/aboutaflac/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aflac.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629144713id_/http%3A//www.aflac.com/aboutaflac/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Last Updated: 8/16/2013
+Last Updated: 12/31/2013 
 
 **Our Commitment to Privacy**
 
@@ -52,15 +52,40 @@ _Personal Information_ includes any information that can be used to contact, ide
 
 Although Aflac does not collect Personal Information from you at the Web Sites unless you provide it voluntarily, we do collect Nonpersonal Information (information that is compiled in anonymous and aggregate form and is not used to locate, contact, or identify you specifically). Our servers have an activity logging feature, which automatically captures Nonpersonal Information regarding site usage, pages viewed, applications used, files downloaded, browser type, the user’s Internet service provider (ISP), and the user’s type of computer operating system. We use Nonpersonal Information only for the purpose of maintaining and improving the Web Sites. 
 
-**2\. Cookies and how the Web Sites use them**
+**2\. Cookies/Tracking Technologies and How the Web Sites Use Them**
 
-We do not use cookies to collect Personal Information. 
+(a) We do not use cookies to collect Personal Information.
 
-  * We want you to know how we use cookies to enhance your experience when visiting our Web Sites. _Cookies_ are small text files sent to a user’s browser for data storage. These cookies allow us to identify that the same party is moving within the Web Sites without having departed to another Web site. Additionally, cookies allow us to determine the Web site, if any, which referred you to our Web Site. The cookies also allow us to enhance your activity and ascertain your site preferences on our Web Sites. Without cookies, some multimedia images and graphics may not display properly, you may not be able to view customizable features like stock quotes, and/or you may have more difficulty navigating through the Web Sites. 
-  * By themselves, cookies do not tell us your e-mail address or other personally identifiable information. Only you can provide that information on our Web Sites, if you choose to do so. We do not use cookies to collect, track, or store personally identifiable information. Our cookies will never be used to track your activity on any third-party Web sites or to send spam. 
-  * You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is received. (Each browser is different, so check the Help menu of your browser to learn how to change your cookie preferences). If you reject all cookies, you may not be able to take full advantage of all offerings of the Web Sites. 
+  * We want you to know how we use tracking technologies (including **cookies** , **web beacons/GIFs, embedded scripts** as defined in Section 10 below) when you visit our Web Site or receive communications from us. We use tracking technologies/cookies to allow us to identify that the same party is moving within the Web Sites without having departed to another Web Site. Additionally, cookies/tracking technologies allow us to determine the Web Site, if any, which referred you to our Web Sites. The cookies/tracking technologies also allow us to enhance your activity and ascertain your site preferences on our Web Sites. Without cookies/tracking technologies, some multimedia images and graphics may not display properly, you may not be able to view customizable features like stock quotes, and/or you may have more difficulty navigating through the Web Sites.
+  * We may use cookies/tracking technologies for a variety of purposes, including:
+
+ **(1) Operationally-Necessary**. We may use cookies required for system administration, to prevent fraudulent activity or improve security. We are not required to obtain your consent to cookies that are operationally necessary. 
+
+**(2) Performance-Related.** We may use cookies to assess the performance of the Web Sites, including as part of our analytic practices to improve the content offered through the Web Sites.
+
+ **(3) Functionality-Related**. We may use cookies to tell us, for example, whether you have visited the Web Sites before or if you are a new visitor and to help us identify the features in which you may have the greatest interest.
+
+ **(4) Re-targeting-Related**. Our Advertising, research and analytic partners may use cookies to learn more information about your interests based upon your interaction with our Web Sites and third-party sites. For further information on opt-out choices for some cookies that are available on our Web Sites, go to Section 2(b) of this Privacy Policy.
 
 
+
+  * By themselves, cookies do not tell us your e-mail address or other personally identifiable information. Only you can provide that information on our Web Sites, if you choose to do so. We do not use cookies to collect, track, or store personally identifiable information. Our cookies will never be used to track your activity on any third-party Web Sites or to send spam.
+  * You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is received. (Each browser is different, so check the Help menu of your browser to learn how to change your cookie preferences). If you reject all cookies, you may not be able to take full advantage of all offerings of the Web Sites.
+  * You may encounter cookies from our third party service providers, that we have allowed on our site that assist us with various aspects of our Web Site operations and services, such as Google Analytics (as described in Section 11 below).
+
+
+
+(b) Use of Cookies by Our Advertising Partners.
+
+  * The advertising networks and / or content providers that deliver our ads to third-party Web Sites may use cookies or other tracking technologies to uniquely distinguish your web browser and keep track of information relating to serving ads on your web browser, such as the type of ads shown and the web pages on which the ads appeared on other third-party sites.
+  * Some of these companies may combine information they collect from our Web Sites with other information they have independently collected relating to your web browser’s activities across their network of web sites. These companies collect and use this information under their own privacy policies.
+  * Examples of these companies, their privacy policies, and the opt-outs they offer can be found in the table below: 
+  * You may also opt-out of some of the additional third party advertising networks’ cookies that may be placed while you visit our Web Sites by going to the Network Advertising Initiative’s Website at <http://www.networkadvertising.org/managing/opt_out.asp> and the Digital Advertising Alliance (“DAA”) website at http://www.aboutads.info/choices/ and following the directions there. The effect of opting out of third party advertising networks is explained on each opt-out page. Note that for some sites, the effect of opting out of third party advertising means that customized advertising will not be delivered to you on third-party Web Sites. Information regarding your usage of Web Sites and other online services (e.g., mobile apps) may still be collected for research, analytics or internal operations purposes.
+  * We are not responsible for the effectiveness of any such opt-out options.
+
+
+
+(c) Notice to California Residents: How We Respond to Browser “Do Not Track” Signals. California Business & Professions Code Section 22575(b)(as amended effective January 1, 2014) provides that California residents are entitled to know how Aflac responds to “Do Not Track” signals. We do not use tracking technologies to track your online activities across third-party Web Sites or online services. Some web browsers incorporate a “Do Not Track” feature that signals to Web Sites that you visit that you do not want to have your online activity tracked. How browsers communicate the Do Not Track signal is not yet uniform so a standard technological response has not yet been developed by the policy and technological communities. For this reason, and because we do not track your online activities over time and across third-party Web Sites, we do not respond to Do Not Track signals currently and we await the result of work by the policy community and industry to determine when such a response is appropriate under our circumstances and what form it should take. If you wish not to be tracked by third parties while you are using our Web Sites, please follow the instructions provided in the opt-out section above in Section2(b) of this Privacy Policy.
 
 **3\. Disclosure of your information**
 
@@ -134,7 +159,77 @@ At certain places on the Web Sites, we may ask you if you are interested in lear
 
 You will not be able to opt out of receiving all types of communication, such as service announcements and administrative messages, as these types of information are a necessary part of your use of the Web Sites. Please note that modification of your account status or Personal Information will not stop communications generated by or on behalf of Aflac before Aflac can accomplish the modification of the status of your Personal Information. We reserve the right to retain Personal Information reasonably necessary to appropriately document our business activities, and for archival and record retention purposes. 
 
-**10\. How to contact Aflac with questions or comments**
+**10\. Definitions**
+
+**Cookies**
+
+| 
+
+A cookie is a data file placed on a device when it is used to visit the online service. HTML5 cookies can be programmed through HTML5 local storage. A Flash cookie (or locally shared object) is a data file placed on a device via the Adobe Flash plug-in that may be built into or downloaded by you to your device. Regular cookies may generally be disabled or removed by tools that are available as part of most commercial browsers, and in some but not all instances can be blocked in the future by selecting certain settings. Each browser you use will need to be set separately and different browsers offer different functionality and options in this regard. Also, these tools may not be effective with regard to Flash cookies or HTML5 cookies. Please be aware that if you disable or remove cookies or HTML5 cookies on your device, some parts of Web Sites and online services may not function properly, and that when you revisit our Web Sites your ability to limit cookies is subject to your browser settings and limitations.  
+  
+---|---  
+  
+**Web Beacons**
+
+| 
+
+Small graphic images or other web programming code called web beacons (also known as “1x1 GIFs” or “clear GIFs”) may be included in our Web Sites’ pages and messages. Web beacons may be invisible to you, but any electronic image or other web programming code inserted into a page or e-mail can act as a web beacon. Web beacons or similar technologies may be used for a number of purposes, including to count visitors to the online service, to monitor how users navigate the online services, to count how many e-mails we sent that were actually opened, or to count how many particular articles or links were actually viewed.  
+  
+**Embedded Scripts**
+
+| 
+
+An embedded script is programming code that is designed to collect information about your interactions with the online service, such as the links you click on. The code is temporarily downloaded onto your device from our web server or a third-party service provider, is active only while you are connected to the online service, and is deactivated or deleted thereafter.  
+  
+**11\. Information Regarding Third Parties That May Collect Information on our Web Sites.**
+
+The following third party that collects information from you on our Web Sites have given us notice that you may obtain information on their policies and practices, and in some instances opt-out of certain of their activities, as follows:
+
+**Party**
+
+| 
+
+**Service**
+
+| 
+
+**For More Information**
+
+| 
+
+**Use of Tracking Technologies**
+
+| 
+
+**Privacy Choices**  
+  
+---|---|---|---|---  
+  
+Google
+
+| 
+
+Google Analytics for Display Advertisers, Ads Preferences Manager, and Google Analytics Opt-out Browser Add-on
+
+| 
+
+[http://support.google.com/analytics/bin/answer.py?hl=en&topic=2611283&answer=2700409](http://support.google.com/analytics/bin/answer.py?hl=en&topic=2611283&answer=2700409)
+
+[http://www.google.com/settings/ads/onweb/?hl=en&sig=ACi0TCg8VN3Fad5_pDOsAS8a4...](http://www.google.com/settings/ads/onweb/?hl=en&sig=ACi0TCg8VN3Fad5_pDOsAS8a4...)
+
+<https://tools.google.com/dlpage/gaoptout/>
+
+| 
+
+Yes
+
+| 
+
+See information links in prior column  
+  
+PLEASE NOTE: We are not responsible for third-party policies or practices. We try to keep this information current, and will add to and subtract from the chart above as appropriate, but it is provided as a courtesy and may not be current or accurate. Please contact the applicable third parties regarding their privacy and data security policies and practices.
+
+**12\. How to contact Aflac with questions or comments**
 
 If you have questions or comments about our [privacy practices](http://www.aflac.com/aboutaflac/privacypractices.aspx) or this Privacy Notice, please e-mail us at [webmaster@aflac.com](mailto:webmaster@aflac.com), phone us at 1-800-992-3522, or write to us at Aflac Worldwide Headquarters, ATTN: Privacy Office, 1932 Wynnton Road, Columbus, Georgia 31999. 
 
