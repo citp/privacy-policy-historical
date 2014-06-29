@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the removeem.com privacy policy that was archived on 2013-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130516150712id_/http%3A//www.removeem.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the removeem.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629203408id_/http%3A//www.removeem.com/privacy.php) for the most accurate reproduction.*
 
 # Remove'em Privacy Policy
 
