@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dzinepress.com privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122015843id_/http%3A//www.dzinepress.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dzinepress.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629085058id_/http%3A//www.dzinepress.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Dzinepress
+# Privacy Policy - Dzinepress
 
 Dzinepress has a determination to protect your policy. This privacy policy lets you know as why we collect online data, what are its purposes and where it is used? The terms of our policy are so simple, no different terms and conditions are applied!
 
@@ -20,7 +20,7 @@ Some of our advertising partners may use cookies and web beacons on our site. Ou
 
 These third-party ad servers or ad networks use technology to the advertisements and links that appear on Dzinepress.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
-Dzinepress.com has no access to or control over these cookies that are used by third-party advertisers. You can however opt out of some, but not all, of these cookies in one location at the Network Advertising Initiative opt-out website at [www.networkadvertising.org/managing/opt_out.asp](https://web.archive.org/web/20131122015843id_/http://www.dzinepress.com/privacy-policy/www.networkadvertising.org/managing/opt_out.asp)
+Dzinepress.com has no access to or control over these cookies that are used by third-party advertisers. You can however opt out of some, but not all, of these cookies in one location at the Network Advertising Initiative opt-out website at [www.networkadvertising.org/managing/opt_out.asp](https://web.archive.org/web/20140629085058id_/http://www.dzinepress.com/privacy-policy/www.networkadvertising.org/managing/opt_out.asp)
 
 You have the ability to accept or decline cookies. Most browsers automatically accept cookies, but you can usually modify your browser settings to decline cookies. If you choose to decline cookies, you may not be able to sign in or use other interactive features of our sites and services that depend on cookies. In addition to cookies, we may use other technologies to collect personal information and help personalize your online experience.
 
