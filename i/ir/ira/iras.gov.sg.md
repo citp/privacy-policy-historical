@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the iras.gov.sg privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616053735id_/http%3A//www.iras.gov.sg/irasHome/page.aspx%3Fid%3D716) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iras.gov.sg privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629112750id_/http%3A//www.iras.gov.sg/irashome/page.aspx%3Fid%3D716) for the most accurate reproduction.*
 
 # IRAS: Privacy Policy
 
-## GOVERNMENT OF SINGAPORE PRIVACY STATEMENT
+## SINGAPORE GOVERNMENT AGENCY PRIVACY STATEMENT
 
-  1. This is a Government of Singapore website. Thank you for examining our privacy statement.
+  1. This is a Government Agency Website. Thank you for examining our privacy statement.
   2. If you are only browsing this website, we do not capture data that allows us to identify you individually.
   3. If you choose to make an application or send us an e-mail for which you provide us with personally identifiable data, we may share necessary data with other Government agencies, so as to serve you in a most efficient and effective way, unless such sharing is prohibited by legislation. We will NOT share your personal data with non-Government entities, except where such entities have been authorised to carry out specific Government services.
   4. For your convenience, we may also display to you data you had previously supplied us or other Government agencies. This will speed up the transaction and save you the trouble of repeating previous submissions. Should the data be out-of-date, please supply us the latest data. We will retain your personal data only as necessary for the effective delivery of public services to you.
