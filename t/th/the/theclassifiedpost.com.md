@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the theclassifiedpost.com privacy policy that was archived on 2013-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131115033450id_/http%3A//www.theclassifiedpost.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theclassifiedpost.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629161410id_/http%3A//www.theclassifiedpost.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Home
-
-[](https://web.archive.org/web/20131115033450id_/http%3A//www.theclassifiedpost.com/)
-
-**Privacy Policy**
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
 
