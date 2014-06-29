@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the premadeniches.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807082723id_/http%3A//www.premadeniches.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the premadeniches.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629091156id_/http%3A//www.premadeniches.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -25,5 +25,5 @@ We do not share your personally identifiable information to any third party for 
 **Changes to this Policy**  
 Any changes to our Privacy Policy will be placed here and will supersede this version of our Policy. We will take reasonable steps to draw your attention to any changes in our Policy. However, to be on the safe side, we suggest that you read this document each time you use the website to ensure that it still meets with your approval.
 
-[**Contact Us**](https://web.archive.org/web/20130807082723id_/http://www.premadeniches.com/contact/)  
-If you have any questions about our Privacy Policy, or if you want to know what information we have collected about you, please contact us via our [feedback form](https://web.archive.org/web/20130807082723id_/http://www.premadeniches.com/contact/). You can also correct any factual errors in that information or require us to remove your details form any list under our control.
+[**Contact Us**](https://web.archive.org/web/20140629091156id_/http://www.premadeniches.com/contact/)  
+If you have any questions about our Privacy Policy, or if you want to know what information we have collected about you, please contact us via our [feedback form](https://web.archive.org/web/20140629091156id_/http://www.premadeniches.com/contact/). You can also correct any factual errors in that information or require us to remove your details form any list under our control.
