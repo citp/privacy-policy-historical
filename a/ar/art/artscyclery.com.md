@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artscyclery.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228131409id_/http%3A//www.artscyclery.com/custservice/privacy.html%3Fpage%3Dserv) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artscyclery.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630011849id_/http%3A//www.artscyclery.com/custservice/privacy.html%3Fpage%3Dserv) for the most accurate reproduction.*
 
 # Art's Cyclery
 
@@ -6,7 +6,7 @@ Your privacy is taken seriously here at Arts Cyclery. Please take a couple of mi
 
 ## Privacy
 
-Our primary goal in collecting personal information is to provide you with a smooth, efficient and customized experience. Under some circumstances we may require additional financial information. We use your financial information, including credit card information to verify your name, address and other information to bill you for use of our services. The information we maintain in your customer file is used to resolve disputes and troubleshoot problems. We do not sell or rent any personally identifiable information about you to any third party.
+Our primary goal in collecting personal information is to provide you with a smooth, efficient and customized experience. Under some circumstances we may require additional financial information. We use your financial information, including credit card information to verify your name, address and other information to bill you for use of our services. The information we maintain in your customer file is used to resolve disputes and troubleshoot problems. Art's Cyclery does not acknowledge the "Do Not Track" setting in browsers or any other mechanisms that allow the user to exercise choice regarding the collection of Personally Identifiable Information(PII). We also do not allow the collection or sale of Personally Identifiable Information(PII) to third parties or online services.
 
 ## Cookies
 
