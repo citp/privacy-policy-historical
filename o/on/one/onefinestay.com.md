@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onefinestay.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230001346id_/http%3A//www.onefinestay.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onefinestay.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630013108id_/http%3A//www.onefinestay.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | onefinestay
 
@@ -16,7 +16,7 @@
     2. Details of any bookings you make through the Site (either through us or through third parties who use the Site as a booking platform);
     3. Your e-mail address and password;
     4. Billing information such as your credit card number and expiry date;
-    5. Other information about you that you voluntarily supply to use by filling out your profile page.
+    5. Other information you generate as a result of site interactions.
   2. Although it is not compulsory to give us this information, if you do not then you cannot register as a member of the Site or make a booking for accommodation with our Hosts.
 
 
