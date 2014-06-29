@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the absa.co.za privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206170902id_/http%3A//www.absa.co.za/Absacoza/Legal/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the absa.co.za privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630001901id_/http%3A//www.absa.co.za/Absacoza/Legal/Privacy-Policy) for the most accurate reproduction.*
 
 # Absa Bank | Website Privacy Policy
 
@@ -56,8 +56,8 @@ The only instances in which Absa is permitted to disclose customer information i
 **Required by law  
 **This most often relates to government tax reporting requirements or in terms of a court order or if required in terms of legislation or in accordance with the common law. Absa will, however, in all instances required by law, only disclose the information specifically requested.
 
-**Necessary to protect Absa's interes** t  
-This will not be used as a reason for disclosing information about a customer or a customer's accounts (including name and address) to anyone else, including other companies in the Absa Group for marketing purposes. However, basic procedures that protect Absa's interests sometimes lead to the disclosure of specific customer information to third parties for example, returning a cheque due to insufficient funds in an account.
+**Necessary to protect Absa's interest  
+**This will not be used as a reason for disclosing information about a customer or a customer's accounts (including name and address) to anyone else, including other companies in the Absa Group for marketing purposes. However, basic procedures that protect Absa's interests sometimes lead to the disclosure of specific customer information to third parties for example, returning a cheque due to insufficient funds in an account.
 
 **In the public interest**  
 Sometimes Absa is asked to disclose customer information for matters of public interest, e.g. to assist in the prevention of crimes. Before complying with these requests, Absa takes every precaution to ensure the authorities involved have legitimate grounds to make such a request.
