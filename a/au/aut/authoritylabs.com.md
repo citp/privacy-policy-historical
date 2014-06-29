@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the authoritylabs.com privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129102613id_/http%3A//authoritylabs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the authoritylabs.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629104234id_/http%3A//authoritylabs.com/privacy) for the most accurate reproduction.*
 
 # AuthorityLabs Privacy Policy - AuthorityLabs
 
