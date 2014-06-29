@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the builderonline.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218203853id_/http%3A//hanleywood.com/default.aspx%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the builderonline.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629220823id_/http%3A//www.hanleywood.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Hanley Wood - Hanley Wood
+# Privacy Policy - Hanley Wood
 
 This Privacy Policy describes, in general, the practices related to the online collection and use of personal information utilized by the websites operated by Hanley Wood and its divisions and affiliates (“Hanley Wood”) at which this Privacy Policy is posted (the “Sites”). However, some Sites may include features that do not appear on other Sites, and you should see the applicable terms of each Site for the specific policies for each Site. This Policy applies only to the Sites and not to any third party websites that may be accessible from any Site. This Policy does not describe Hanley Wood’s offline personal information collection and use practices, or the practices it employs when collecting personal information online through means other than these Sites (for example, if you send us an e-mail message).
 
