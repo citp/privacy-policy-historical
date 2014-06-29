@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbn.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103033944id_/http%3A//www.cbn.com/about/privacy_notice.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbn.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630001737id_/http%3A//www.cbn.com/about/privacy_notice.aspx) for the most accurate reproduction.*
 
 # CBN.com Privacy Notice
 
@@ -50,10 +50,12 @@ CBN.com does not sell products for purchase by children. We sell children's prod
 **Advertising  
 **We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [networkadvertising.org](http://networkadvertising.org/).
 
+Some browsers incorporate a “Do Not Track” (DNT) feature that, when activated, signals to websites that you do not want to be tracked. Because there is not yet an accepted standard for how to respond to browser DNT signals, we do not currently respond to them.
+
 CBN does not endorse any product or service of a third-party advertiser, and has no responsibility for the fulfillment of any order placed, the performance of any product or service offered, or the actions or inactions of any such third-party advertiser.
 
 **Conditions of Use, Notices, and Revisions**  
-If you choose to visit CBN.com, your visit and any dispute over privacy is subject to this Notice and our [Conditions of Use](https://web.archive.org/web/20131103033944id_/http%3A//www.cbn.com/about/termsofuse.aspx), including limitations on damages, arbitration of disputes, and application of the law of the Commonwealth of Virginia. If you have any concern about privacy at CBN.com, please send us a thorough description to [partners@CBN.com](mailto:partners@CBN.com), and we will try to resolve it.
+If you choose to visit CBN.com, your visit and any dispute over privacy is subject to this Notice and our [Conditions of Use](https://web.archive.org/web/20140630001737id_/http%3A//www.cbn.com/about/termsofuse.aspx), including limitations on damages, arbitration of disputes, and application of the law of the Commonwealth of Virginia. If you have any concern about privacy at CBN.com, please send us a thorough description to [partners@CBN.com](mailto:partners@CBN.com), and we will try to resolve it.
 
 Our business changes constantly, and our Privacy Notice and the Conditions of Use will change also. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers.
 
