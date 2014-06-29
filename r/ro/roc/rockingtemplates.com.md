@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rockingtemplates.com privacy policy that was archived on 2013-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131006115416id_/http%3A//www.rockingtemplates.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockingtemplates.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629043334id_/http%3A//www.rockingtemplates.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Rocking Templates
 
@@ -16,5 +16,4 @@ Your privacy is very important to us. Accordingly, we have developed this Policy
 
 We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. 
 
-**Dhiraj**  
- **RockingTemplates.com**
+**RockingTemplates.com**
