@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careerperfect.com privacy policy that was archived on 2013-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130904214356id_/http%3A//www.careerperfect.com/content/home-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerperfect.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630000504id_/http%3A//www.careerperfect.com/company/privacy-policy) for the most accurate reproduction.*
 
 # CareerPerfect® - Privacy Policy
 
@@ -58,4 +58,4 @@ If we decide to change our privacy commitment for CareerPerfect.com, we will pos
 
 Thank you for using CareerPerfect.com. We'll keep working hard to earn your loyalty.
 
-Visit [Safe and Secure](https://web.archive.org/content/home-safe-and-secure/) to learn how ordering with CareerPerfect.com is fast, easy, and safe!
+Visit [Safe and Secure](https://web.archive.org/company/safe-and-secure/) to learn how ordering with CareerPerfect.com is fast, easy, and safe!
