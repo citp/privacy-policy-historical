@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oldtimecandy.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222034700id_/http%3A//www.oldtimecandy.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oldtimecandy.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629050248id_/http%3A//www.oldtimecandy.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Old Time Candy Company
 
@@ -60,5 +60,5 @@ To protect your privacy and security, we will also take reasonable steps to veri
 
 **How To Contact Us:**
 
-Should you have other questions or concerns about these privacy policies, please call us at (440) 355-4345 or click [Contact Us.](https://web.archive.org/web/20131222034700id_/http%3A//www.oldtimecandy.com/infopage.asp?page=5) If you prefer, write to the Old Time Candy Company - 350 Commerce Drive East - LaGrange, OH 44050.  
+Should you have other questions or concerns about these privacy policies, please call us at (440) 355-4345 or click [Contact Us.](https://web.archive.org/web/20140629050248id_/http%3A//www.oldtimecandy.com/infopage.asp?page=5) If you prefer, write to the Old Time Candy Company - 350 Commerce Drive East - LaGrange, OH 44050.  
 
