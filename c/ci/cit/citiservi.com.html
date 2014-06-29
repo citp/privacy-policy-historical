@@ -1,14 +1,18 @@
-<!--The following is the downloaded HTML source of the citiservi.com privacy policy that was archived on 2013-11-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131109174927id_/http%3A//corp.citiservi.com/en/about-citiservi/policies/privacy__114.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the citiservi.com privacy policy that was archived on 2014-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140629022105id_/http%3A//corp.citiservi.com/en/about-citiservi/policies/privacy__114.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr"><head profile="http://gmpg.org/xfn/11">
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <meta http-equiv="content-language" content="en-us">
         <meta name="description" content="We are committed to protecting our  users′ privacy. This section explains how your information is collected, ">    
-    <link rel="Shortcut Icon" href="http://corp.cstatics.com/images/favicon16.gif">
+    <link rel="shortcut icon" href="http://corp.cstatics.com/images/favicon16.gif">
+    <link rel="icon" sizes="196x196" type="image/png" href="http://corp.cstatics.com/images/touch-icon-196x196.png">
+    <link rel="apple-touch-icon-precomposed" sizes="152x152" type="image/png" href="http://corp.cstatics.com/images/touch-icon-152x152.png">
     <title>Privacy Policy</title>
-    <link rel="stylesheet" href="http://corp.cstatics.com/css/styles.css" type="text/css" media="screen">
+    <link rel="stylesheet" href="http://corp.cstatics.com/css/styles.css?release=20140619102604" type="text/css" media="screen">
     
+    <script type="text/javascript" src="http://corp.citiservi.com/en/js/general_1_1.php"></script>
+
 </head>
 
 <body id="front" class="empresa">
@@ -102,16 +106,41 @@ Please note that this  Privacy Policy may change from time to time. We will not 
             
         </div>
     <div class="footer">
-	<ul>
+    <ul>
         <li><a href="http://www.citiservi.com/terms-and-conditions.html" rel="nofollow">Legal notice</a></li>
         <li><a href="http://www.citiservi.com/privacy-policy.html" rel="nofollow">Privacy Policy</a></li>
         <li><a href="http://corp.citiservi.com/en/about-citiservi/policies/cookies-policy__117.html" rel="nofollow">Cookie Policy</a></li>
         <li><a href="http://www.citiservi.com/contact.html" rel="nofollow">Contact</a></li>
         <li><a href="http://www.citiservi.com">Business Directory</a></li>
         <li><a href="http://quotes.citiservi.com">Request free quotes</a></li>
-        	</ul>
-	<p>© 2008 - 2013 citiservi</p>
+            </ul>
+    <p>© 2008 - 2014 citiservi</p>
 </div>
+<div id="cookie_banner" class="cookie_policy_banner" style="display: none; text-align:left;">
+    <div id="cookie_box">
+    <span id="close_cookie_banner" style="float:right; cursor:pointer;">X</span>
+    <p><strong>Cookie Policy</strong></p>
+    <p>This site uses cookies. By continuing to browse the site you are agreeing to our use of cookies. For more details review our  <a href="http://corp.citiservi.com/en/about-citiservi/policies/cookies-policy__117.html" target="_blank">cookies information</a></p>
+    </div>
+
+</div>
+
+<script type="text/javascript">
+    function set_cookie() {
+        citiservi.utils.create_cookie('_ccp','OK',365,'.citiservi.com');
+    }
+    $('#close_cookie_banner').bind('click', function(e) {
+        $('#cookie_banner').hide();
+        set_cookie();
+        e.preventDefault();
+    });
+    $(document).ready(function(){
+        if (citiservi.utils.read_cookie('_ccp') == null) $('#cookie_banner').show();
+        window.setTimeout( set_cookie, 4000);
+    });
+</script>
+
+
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
