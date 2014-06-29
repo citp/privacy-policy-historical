@@ -1,47 +1,74 @@
-> *The following text is extracted and transformed from the wilcom.com privacy policy that was archived on 2013-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130317040335id_/http%3A//www.wilcom.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wilcom.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629201311id_/http%3A//www.wilcom.com/about/PrivacyStatement.aspx) for the most accurate reproduction.*
 
-# Wilcom - Developers of software for design, production, management and e-commerce solutions in the embroidery, carpet, rugs, print, decoration and apparel industries
+# Privacy Statement
 
-Wilcom International Pty Ltd is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Wilcom International Pty Ltd Web site and governs data collection and usage. By using the Wilcom International Pty Ltd website, you consent to the data practices described in this statement.
+## Wilcom Privacy Policy
 
-Collection of your Personal Information
+This Privacy Policy applies to Wilcom International Pty Limited and all references to " **Wilcom** ", " **we** ", " **us** " or " **our** " are references to Wilcom International Pty Limited (ACN 119 508 575).
 
-Wilcom International Pty Ltd collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. Wilcom International Pty Ltd also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
+Wilcom is committed to protecting your privacy.  This Privacy Policy sets out how we manage your personal information and other information.  From time to time, we may need to change this Privacy Policy.  If we do so, we will post the updated version on our website (www.wilcom.com/about/PrivacyStatement.aspx) and it will apply to all your information held by us at the time.
 
-There is also information about your computer hardware and software that is automatically collected by Wilcom International Pty Ltd. This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by Wilcom International Pty Ltd for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Wilcom International Pty Ltd Web site.
+When we refer to your information, we are referring to your personal information (as defined under the Privacy Act 1988 (Cth)) and other information about you.
 
-Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through Wilcom International Pty Ltd public message boards, this information may be collected and used by others. Note: Wilcom International Pty Ltd does not read any of your private online communications.
+### The kind of information we collect and hold about you
 
-Wilcom International Pty Ltd encourages you to review the privacy statements of Web sites you choose to link to from Wilcom International Pty Ltd so that you can understand how those Web sites collect, use and share your information. Wilcom International Pty Ltd is not responsible for the privacy statements or other content on Web sites outside of the Wilcom International Pty Ltd and Wilcom International Pty Ltd family of Web sites.
+Depending on the particular circumstances, we may collect and hold different information about you.  For example, this may include:
 
-Use of your Personal Information
+  * your name, date of birth, occupation, home or work address, telephone and email contact details;
+  * financial information, such as your bank account or credit card details;
+  * your Wilcom security credentials, such as username and passwords;
+  * your website address and domain name;
+  * information about how you use our products and services; and
+  * where necessary, additional information as part of our user authentication process.
 
-Wilcom International Pty Ltd collects and uses your personal information to operate the Wilcom International Pty Ltd Web site and deliver the services you have requested. Wilcom International Pty Ltd also uses your personally identifiable information to inform you of other products or services available from Wilcom International Pty Ltd and its affiliates. Wilcom International Pty Ltd may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
 
-Wilcom International Pty Ltd does not sell, rent or lease its customer lists to third parties. Wilcom International Pty Ltd may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, Wilcom International Pty Ltd may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to Wilcom International Pty Ltd, and they are required to maintain the confidentiality of your information.
 
-Wilcom International Pty Ltd does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.
+### How we collect your information
 
-Wilcom International Pty Ltd keeps track of the Web sites and pages our customers visit within Wilcom International Pty Ltd, in order to determine what Wilcom International Pty Ltd services are the most popular. This data is used to deliver customized content and advertising within Wilcom International Pty Ltd to customers whose behavior indicates that they are interested in a particular subject area.
+We may collect your information in a number of ways, including: 
 
-Wilcom International Pty Ltd Web sites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Wilcom International Pty Ltd or the site; (b) protect and defend the rights or property of Wilcom International Pty Ltd; and, (c) act under exigent circumstances to protect the personal safety of users of Wilcom International Pty Ltd, or the public.
+  * directly from you (for example, where you provide information to us or our representatives on the telephone or in person, when you apply for our products and services online);
+  * from third parties such as our related companies, business partners, clients and other service providers;
+  * from publicly available sources of information; and
+  * from our records and databases.
 
-Use of Cookies
 
-The Wilcom International Pty Ltd Web site use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
 
-One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize Wilcom International Pty Ltd pages, or register with Wilcom International Pty Ltd site or services, a cookie helps Wilcom International Pty Ltd to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same Wilcom International Pty Ltd Web site, the information you previously provided can be retrieved, so you can easily use the Wilcom International Pty Ltd features that you customized.
+We may also collect information from you online using cookies and other analytical tools or when you visit our websites, including when you use our products and services.
 
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Wilcom International Pty Ltd services or Web sites you visit.
+### How we hold your information
 
-Security of your Personal Information
+We take reasonable steps to maintain the security of your information and to protect it from unauthorised disclosure.  When your financial details (such as a credit card number) are transmitted from our website to a third party website, they are protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
 
-Wilcom International Pty Ltd secures your personal information from unauthorized access, use or disclosure. Wilcom International Pty Ltd secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
+However, as the internet is not always secure, we cannot be responsible for the security of information you transmit over the internet or for any unauthorised access or use of that information.
 
-Changes to this Statement
+You should also be aware that any personal information you disclose when using our online forums will be available to the public. You should take appropriate care to safeguard your information by not disclosing your security credentials (such as your username and password).
 
-Wilcom International Pty Ltd will occasionally update this Statement of Privacy to reflect company and customer feedback. Wilcom International Pty Ltd encourages you to periodically review this Statement to be informed of how Wilcom International Pty Ltd is protecting your information.
+### How we use and disclose your information
 
-Contact Information
+We may use and disclose your information for a range of different purposes, including:
 
-Wilcom International Pty Ltd welcomes your comments regarding this Statement of Privacy. If you believe that Wilcom International Pty Ltd has not adhered to this Statement, please contact Wilcom International Pty Ltd at [wilcom@wilcom.com.au](mailto:wilcom@wilcom.com.au). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+  * to provide products and services and information about those products and services to you, to assist you with enquiries, or to improve our customer service;
+  * for our billing and account purposes;
+  * to maintain our business relationships where you are a business partner, a user of our website and services, or a customer;
+  * to our related companies, our business partners, distributors and service providers, and other third parties who assist us in providing services to you and managing our business;
+  * to our professional advisers; and
+  * where required by law.
+
+
+
+We may disclose or give access to your information to our related companies and our service providers who are located outside of Australia.  For example, we may disclose your information to our related companies and business partners in the countries listed at [http://www.wilcom.com/en-us/contact/wilcomdistributors.aspx](https://web.archive.org/en-us/contact/wilcomdistributors.aspx).
+
+### Marketing
+
+We may also use your information so that we, our related companies, and other business partners and service providers can promote and market products, services and special offers, and advise you of news and industry updates, events, reports and other information that we think will be of interest to you. This marketing may be carried in a variety of ways (including by email, SMS/MMS, social media or via our website) and may continue indefinitely until you opt-out by contacting us 61 2 9578 5100 or by email at support@wilcom.com.
+
+### How to assess or correct your personal information
+
+If you wish to access any of your personal information that we hold or would like to correct any errors in that personal information, please contact us using the contact details set out below.  We may charge you an administrative fee for providing access to your personal information in response to a request.
+
+### How to contact us or make a privacy complaint
+
+If you have any questions in relation to this Privacy Policy or how we manage your information, you can contact on 61 2 9578 5100 or by email at [support@wilcom.com](mailto:support@wilcom.com)
+
+If we are unable to resolve any complaints you may have, you may wish to contact the Office of the Australian Information Commissioner by calling 1300 363 992 or visiting [www.oaic.gov.au](http://www.oaic.gov.au/).
