@@ -1,31 +1,45 @@
-> *The following text is extracted and transformed from the logica.com privacy policy that was archived on 2013-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130816022148id_/http%3A//www.logica.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logica.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629034747id_/http%3A//www.cgi.com/en/global-privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy policy | CGI.com
 
-We are committed to protecting your personal information. Before providing us with any personal information, please read this Privacy Policy, which concerns how we will protect and use your personal information. 
+CGI Group Inc. ("CGI") respects the privacy of its Web site visitors and is committed to protecting the privacy rights of identifiable individuals.  In this regard, CGI has prepared this Web Site Privacy Policy (the "Privacy Policy") to communicate to its users how CGI collects, uses and discloses personal information collected about them on the CGI Web site. This Privacy Policy applies to [www.cgi.com](http://www.cgi.com/) and its authorized sub-sites that expressly adopt, display or link back to this Privacy Policy.
 
-In this Privacy Policy, the expressions "we", "us" or "our" mean Logica Limited or another CGI group company as may be identified in this web site. Logica Limited is part of the CGI group of companies which has CGI Group Inc. as the ultimate holding company.
+**Collection and Use of Personal Information**  
+We may collect personal information such as your name, personal home address, personal e-mail address and personal telephone and fax numbers that you voluntarily provide to us when you request information about our services, submit questions, register for services, or when you submit your resume in relation to a career opportunity. The aforementioned personal information provided by you may then be used to communicate with you in connection with your various inquiries or to consider you for employment purposes.
 
-We may collect and process personal information which you provide to us, such as your name, address, email address, telephone number, employer and/or other information you send to us via this site or by contacting us through other means. We may use it for our business purposes, including lawful purposes relating to recruitment where you send information via this site to our recruitment teams or in response to a recruitment advertisement. We may provide you with information about our group companies, products and services in line with your preferences, process requests you make, update our records (for example if you are a shareholder), and to allow you to use this site and its features. If you wish to change your preferences, please [update your personalised RSS feed](https://web.archive.org/personalized-rss/), or contact us (see below).
+We may also collect information in connection with your visit to our Web site through the use of cookies.  Such information will be used to analyze trends, to administer the site, to track visitors' movements around the site and to gather demographic information about our visitor base as a whole.  The use of cookies merely identifies you as a number, that is, your name, address or any other information that directly identifies you will not be collected.  Additional details regarding the use of various technologies are provided below.
 
-We do not pass on or sell personal information to third parties outside the control of the CGI group of companies. We may however share information within the CGI group. We may also pass your information to our pension or share administrators, share registrar, professional advisors, employees, agents, contractors and sub-contractors working on our behalf where this is appropriate. Also, we may disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use.
+**Disclosure of Personal Information**  
+We may disclose the personal information collected through this Web site with our affiliates for internal business purposes.
 
-Given the global nature of CGI's business, your personal information may be transferred to, stored or processed at a destination outside the European Economic Area ("EEA") including Canada. It may also be processed by staff operating outside the EEA who work for us, for a CGI group company, or for one of our suppliers. By submitting your personal information, you agree to this transfer, storage and/or processing as set out in this Privacy Policy. 
+We may also share information provided by you with service providers that we retain to perform services on our behalf.  These service providers are contractually limited from using or disclosing the information except as is necessary to perform the services or to comply with legal requirements.  Furthermore, we may disclose information about you where we are required or permitted by law to do so.
 
-In addition to the information you submit to us via this site, we may collect information about visits to the site, such as the browser you are using and the IP address of your computer or device if available. This is used within the CGI group to improve the design and layout of our site and to ensure that content from our site is presented in an effective manner for you and for your computer or device. We gather information on the relative popularity of each page, the average number of pages accessed by visitors, the number of emails sent or files downloaded, how the site is used, and the average time spent on the site and its pages. None of this information is linked back to you as an individual.
+**Links to non-CGI websites**  
+This Web site may contain links to third party Web sites that are not affiliated with CGI.  CGI does not in any way endorse or make any representations about such third party Web sites.  The links are simply made available for your convenience.  As such, CGI is not responsible for the privacy practices or content of such third party Web sites.  If you choose to access those links, we encourage you to review their respective privacy policies before submitting any of your personal information.
 
-In collecting information about visits to the site, we may use "cookies" to identify visitors to the site and to provide information to CGI about how the site is used. Cookies will also help us to provide you with a good experience when you browse the site. Cookies are widely used by web sites for these purposes. A cookie is a small piece of text which attaches to your computer or device (but does not access your computer or device) and which can store and track information on how you make use of this site. Most browsers will automatically accept a cookie but it is possible to set your browser to notify you prior to the cookie being sent, to allow you to accept or reject it. You can find out more about the cookies and how they are used on the CGI site by visiting our [Cookies Policy](https://web.archive.org/cookies-policy/).
+**Our Security Measures to Protect Personal Information**  
+To protect the personally identifiable information you transmit through your use of this Web site, we maintain reasonable physical, technical and administrative safeguards to help protect against the unauthorized access, use and disclosure of the information.
 
-We may provide links from this site to web sites of third parties outside the CGI group. Please note that this Privacy Policy applies only to the contents of this site and not to those third party web sites which may have their own terms of use and/or privacy policies.  
+**Access and Correction**  
+Using our [Contact Us](http://www.cgi.com/en/contact-resources) page, you may request information about the existence of the personal information voluntarily provided by you through our Website, and request access to such information in order to have it deleted, updated or corrected, subject to certain legal restrictions.
 
-We may ask you to complete surveys that we use for research purposes within the CGI group. You do not have to respond to the surveys. We may also offer competitions from time to time. Logica International Limited, and/or other companies in the CGI group, may control the personal information provided in these situations and may provide additional information on the terms of such activities. 
+**Use of Technology: Cookies & Logs**  
+As previously mentioned, CGI may use cookies to collect information about its visitors.  Cookies are identifiers that are transferred to your computer's hard drive through your Web browser to enable our systems to recognize your browser.  You may choose to disable cookies on your computer by modifying your Web browser.
 
-Unfortunately, the transmission of information via the internet is not completely secure. Although we will use reasonable efforts to protect your personal information, we cannot guarantee the security of your information transmitted to this site. You send information at your own risk. 
+CGI may also use logs to collect information about its visitors.  CGI may review server logs for security purposes, for example, to detect intrusions into our network.  Server log data, which contains visitors' IP addresses, could in instances of criminal malfeasance be used to trace and identify individuals.  In such instances, raw data logs would be shared with appropriate investigative bodies authorized to investigate such breaches of security.  Like cookies, logs do not cross reference the information automatically collected with any type of personal information that is voluntarily offered by you on or through this Web site.
 
-Once we have received your information, we will process it in accordance with appropriate procedures and security features to try to prevent unauthorised access, to keep it secure and to maintain its accuracy within our systems. 
+**Young Audiences**  
+This Web site is not intentionally designed for or directed to children and we do not knowingly collect or maintain personal information from children on our Web site.  If we become aware that we have inadvertently received personal information from such a visitor, we will delete the information from our records.
 
-We are willing, on written request from you, to provide details of any personal information which you have provided to us (this may be at a small charge) and/or to stop using your personal information. We may require proof of identity from you prior to disclosing such information. If any information you have provided to us becomes inaccurate or out of date, or if you have any queries about this Privacy Policy, please contact us at the following email address: emailus@logica.com. Alternatively, if you have been provided with a different contact address for specific purposes (for example as a CGI shareholder or in relation to a special event), please use that address. 
+**Consent**  
+By using this Web site and sub-sites, you consent to the collection, use and disclosure of your personal information by us in the manner described in this Privacy Policy.  CGI reserves the right to make changes to this Privacy Policy from time to time without notice.
 
-Logica Limited and Logica International Limited are both registered with the UK’s Information Commissioner as data controllers for purposes related to this site. 
+**Privacy Questions and Access**  
+For additional information about our online privacy practices, please contact: ** **
 
-Logica Limited, 250 Brook Drive, Green Park, Reading, RG2 6UA, United Kingdom, company number 1631639; Logica International Limited, 250 Brook Drive, Green Park, Reading, RG2 6UA, United Kingdom, company number 1237299.
+The Privacy Officer  
+CGI Group Inc.  
+1350 René-Lévesque Boulevard West  
+15th floor   
+Montreal, Quebec H3G 1T4  
+Canada
