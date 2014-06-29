@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the filefactory.com privacy policy that was archived on 2013-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130822050728id_/http%3A//www.filefactory.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filefactory.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629182328id_/http%3A//www.filefactory.com/legal/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy - FileFactory
+# FileFactory
 
 Effective Date: July 23, 2012
 
