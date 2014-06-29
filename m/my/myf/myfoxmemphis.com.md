@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the myfoxmemphis.com privacy policy that was archived on 2013-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131121013632id_/http%3A//www.myfoxmemphis.com/story/19534280/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfoxmemphis.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629062422id_/http%3A//www.myfoxmemphis.com/story/19534280/privacy-policy) for the most accurate reproduction.*
 
-# Fox Television Stations Privacy Policy
+# Fox Television Stations Privacy Policy - FOX13 News, WHBQ FOX 13
 
 **Fox Television Stations Privacy Policy**
 
-**  Effective June 28, 2013**
+**  Effective December 11, 2013**
 
 Table of Contents: 
 
@@ -36,7 +36,7 @@ FTS and our service providers may collect the following information from and abo
 
 **Information from Social Media.   **If you access or log-in to an FTS Service through a social media service, or connect an FTS Service to a social media service, the information we collect may also include your user ID and/or user name associated with that social media service, any information or content you have permitted the social media service to share with us, such as your profile picture, email address or friends lists, and any information you have made public in connection with that social media service.  When you access the FTS Services through social media services or when you connect an FTS Service to social media services, you are authorizing FTS to collect, store, and use such information and content in accordance with this Privacy Policy. _           _
 
-**Activity Information.  **When you access and interact with the FTS Services, we may collect certain information about those visits.  For example, in order to permit your connection to the FTS Services, our servers receive and record information about your computer, device, and browser, including potentially your IP address, browser type, and other software or hardware information.  If you access the FTS Services from a mobile or other device, we may collect a unique device identifier assigned to that device, geolocation data, or other information for that device. 
+**Activity Information.  **When you access and interact with the FTS Services, we may collect certain information about those visits.  For example, in order to permit your connection to the FTS Services, our servers receive and record information about your computer, device, and browser, including potentially your IP address, browser type, and other software or hardware information.  If you access the FTS Services from a mobile or other device, we may collect a unique device identifier assigned to that device, geolocation data, or other information for that device.  At this time we do not respond to browser ‘Do Not Track' signals.
 
 Cookies and other tracking technologies (such as browser cookies, pixels, beacons, and Adobe Flash technology including cookies) are comprised of small bits of data that often include a de-identified or anonymous unique identifier.  Websites, apps and other services send this data to your browser when you first request a web page and then store the data on your computer so the website can access information when you make subsequent requests for pages from that service.  These technologies may also be used to collect and store information about your usage of the FTS Services, such as pages you have visited, content you have viewed, search queries you have run and advertisements you have seen. 
 
