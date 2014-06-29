@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the pearsonclinical.com privacy policy that was archived on 2013-11-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131118150538id_/http%3A//www.pearsonclinical.com/legal/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pearsonclinical.com privacy policy that was archived on 2014-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140629140508id_/http%3A//www.pearsonclinical.com/legal/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html lang="en-US" class="no-js"><!--<![endif]--><head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
@@ -89,143 +89,152 @@
 
 
 <div class="clinicalPageWrap clinicalFullPageWidth clinicalPageTopNav">
-<script type="text/javascript">
-    function myAccountLinkClick(url) {
-        var welcome = cookie.get("EP-Welcome", null);
-        if (welcome!=null && welcome != "null" &&  welcome.length > 5) {
-            displayDiv('accountOptionsPop');
-            jQuery('#myAccountLink').removeClass('clinicalAccountButtonClose');
-            jQuery('#myAccountLink').addClass('clinicalAccountButtonOpen');
-        } else {
-            window.location(url);
-            //jQuery('#myAccountLink').addClass('clinicalAccountButtonClose');
-        }
-    }
-    function displayOrderByProduct() {
-        displayDiv('orderPop');
-        jQuery('#orderByProductNumberPopError').hide();
-        var frm = jQuery('#orderByProduct_Form');
-        frm.find('[name="quantity"]').val("");
-        frm.find('[name="prod_id"]').val("");
-    if(frm.find("input[name=prod_id]").hasClass("ani_form_error")){
-            frm.find("input[name=prod_id]").removeClass("ani_form_error");
-        }
-    }
-    function validateOrderByProduct(inputField, isAlpha) {
-        var temp = "";
-        for (var i=0; i < inputField.value.length; i++) {
-            if ("0123456789".indexOf(inputField.value.charAt(i)) != -1 || (isAlpha && inputField.value.charAt(i).match("[a-zA-Z-]") != null)) {
-                temp = temp + inputField.value.charAt(i);
+    <script type="text/javascript">
+    
+        function myAccountLinkClick(url) {
+            var welcome = cookie.get("EP-Welcome", null);
+            if (welcome!=null && welcome != "null" &&  welcome.length > 5) {
+                displayDiv('accountOptionsPop');
+                jQuery('#myAccountLink').removeClass('clinicalAccountButtonClose');
+                jQuery('#myAccountLink').addClass('clinicalAccountButtonOpen');
+            } else {
+                window.location(url);
+                //jQuery('#myAccountLink').addClass('clinicalAccountButtonClose');
             }
         }
-        inputField.value = temp;
-    }
-    function orderByProductFormSubmit() {
-        var frm = jQuery('#orderByProduct_Form');
-        if (frm.find('[name="prod_id"]').val() == null || frm.find('[name="prod_id"]').val() == "") {
-            jQuery('#orderByProductNumberPopError').html("You have not specified a product number. Please try again.");
-            jQuery('#orderByProductNumberPopError').show();
-            jQuery("input[name=prod_id]").addClass("ani_form_error");
-            return false;
-        } else if(jQuery("input[name=prod_id]").hasClass("ani_form_error")){
-            jQuery("input[name=prod_id]").removeClass("ani_form_error");
-        }
-        var quantity = frm.find('[name="quantity"]').val();
-        if (quantity == null || quantity == "" || !quantity.match(/^\d+$/) || quantity.match(/^0+$/)) {
-            jQuery('#orderByProductNumberPopError').html("You have not specified a quantity. Please try again.");
-            jQuery('#orderByProductNumberPopError').show();
-            jQuery("input[name=quantity]").addClass("ani_form_error");
-            return false;
-        } else if(jQuery("input[name=quantity]").hasClass("ani_form_error")){
-            jQuery("input[name=quantity]").removeClass("ani_form_error");
-        }
-		scAddToCart(frm.find('[name="prod_id"]').val());
-        jQuery.ajax({
-            type: 'POST',
-            url: '/content/ani/clinicalassessments/us/en/search/orderByProduct.html',
-            data: frm.serialize(),
-            statusCode: {
-                0: function() {
-                    //alert("status of zero");
-                }
-            },
-
-            success: function(data, textStatus, jqXHR){
-
-				var errorString = "Unknown error adding to cart. Please try again later.";
-                var errorMsg = jqXHR.responseText;
-
-                if (errorMsg && errorMsg.indexOf("<h1>") > 0) {
-                    errorString = "You have submitted an invalid product number. Please try again.";
-					jQuery('#orderByProductNumberPopError').html(errorString);
-                    jQuery('#orderByProductNumberPopError').show();
-                    jQuery("input[name=prod_id]").addClass("ani_form_error");
-
-                } else {
-                    if (/cart.html/.test(window.location.href)) {
-                        window.location.replace("cart.html");
-                    }
-                    jQuery('#orderByProductNumberPopError').hide();
-                    jQuery('#orderPop').hide();
-                    retrieveCartCount();
-                }
-
-            }
+        
+        jQuery(window).bind("unload", function() {
+            /* trigger page reload to close open overlays */
         });
-        return false;
-    };
-    jQuery(document).ready(function() {
-        jQuery("#closeOrderByPopup").click(function(){
-            hideDiv('orderPop');
-			jQuery("input[name=quantity]").removeClass("ani_form_error");
-            jQuery("input[name=prod_id]").removeClass("ani_form_error");
-        });
-
-        jQuery("#closeAccountPopup").click(function(){
-            hideDiv('accountOptionsPop');
-            jQuery('#myAccountLink').removeClass('clinicalAccountButtonOpen');
-            jQuery('#myAccountLink').addClass('clinicalAccountButtonClose');
-        });
-        jQuery("#myAccountLink").click(function(){
-           // hideDiv('cartPop');
-            jQuery("#cartLink").removeClass('clinicalCartButtonOpen');
-            jQuery("#cartLink").addClass('clinicalCartButtonClose');
-
-            if(jQuery("#myAccountLink").hasClass("clinicalAccountButtonOpen"))
-            {
+        jQuery(document).ready(function() {
+            jQuery("#closeOrderByPopup").click(function(){
+                hideDiv('orderPop');
+                jQuery("input[name=quantity]").removeClass("ani_form_error");
+                jQuery("input[name=prod_id]").removeClass("ani_form_error");
+            });
+    
+            jQuery("#closeAccountPopup").click(function(){
                 hideDiv('accountOptionsPop');
                 jQuery('#myAccountLink').removeClass('clinicalAccountButtonOpen');
                 jQuery('#myAccountLink').addClass('clinicalAccountButtonClose');
-            }
-            else
-            {
-                var welcome = cookie.get("EP-Welcome", null);
-                if (welcome!=null && welcome != "null" &&  welcome.length > 5) {
-                    displayDiv('accountOptionsPop');
-                    jQuery('#myAccountLink').removeClass('clinicalAccountButtonClose');
-                    jQuery('#myAccountLink').addClass('clinicalAccountButtonOpen');
-                } else {
-                   window.location=jQuery('#myAccountLink').data('key');
-                    //jQuery('#myAccountLink').addClass('clinicalAccountButtonClose');
+            });
+            jQuery("#myAccountLink").click(function(){
+               // hideDiv('cartPop');
+                jQuery("#cartLink").removeClass('clinicalCartButtonOpen');
+                jQuery("#cartLink").addClass('clinicalCartButtonClose');
+    
+                if(jQuery("#myAccountLink").hasClass("clinicalAccountButtonOpen"))
+                {
+                    hideDiv('accountOptionsPop');
+                    jQuery('#myAccountLink').removeClass('clinicalAccountButtonOpen');
+                    jQuery('#myAccountLink').addClass('clinicalAccountButtonClose');
                 }
-            }
-            return false;
+                else
+                {
+                    var welcome = cookie.get("EP-Welcome", null);
+                    if (welcome!=null && welcome != "null" &&  welcome.length > 5) {
+                        displayDiv('accountOptionsPop');
+                        jQuery('#myAccountLink').removeClass('clinicalAccountButtonClose');
+                        jQuery('#myAccountLink').addClass('clinicalAccountButtonOpen');
+                    } else {
+                       window.location=jQuery('#myAccountLink').data('key');
+                        //jQuery('#myAccountLink').addClass('clinicalAccountButtonClose');
+                    }
+                }
+                return false;
+            });
+    
         });
+    </script>
+    <div class="clinicalTopNav">
+    
+        <div class="parsys iparsys toppar"><div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="parsys iparsys toppar"><div class="countryDropDown section">
 
-    });
-</script>
-<div class="clinicalTopNav">
 
-    <div class="floatLeft clinicalTopNavInterSites">
-        <div class="parsys toppar"></div>
+<div class="floatLeft clinicalTopNavInterSites">
+    <script type="text/javascript">
+        jQuery(document).ready(function() {
+            jQuery("#country").show();
+             jQuery("#countryinternationalsiteslink").hide();
+            jQuery("#countryLink").hide();
+            jQuery(".dropdown img.flag").addClass("flagvisibility");
+    
+            jQuery(".dropdown dt a").click(function() {
+                jQuery(".dropdown dd ul").toggle();
+    
+    
+            });
+    
+            jQuery(".dropdown dd ul li a").click(function() {
+                var text = jQuery(this).html();
+                jQuery(".dropdown dt a span").html(text);
+                jQuery(".dropdown dd ul").hide();
+                window.open(getSelectedValue("country"));
+                location.reload(true);
+            });
+    
+            function getSelectedValue(id) {
+                return jQuery("#" + id).find("dt a span.value").html();
+            }
+    
+            jQuery(document).bind('click', function(e) {
+                var jQueryclicked = jQuery(e.target);
+                if (! jQueryclicked.parents().hasClass("dropdown"))
+                {
+                    jQuery(".dropdown dd ul").hide();
+                }
+    
+            });
+    
+            jQuery("#flagSwitcher").click(function() {
+                jQuery(".dropdown img.flag").toggleClass("flagvisibility");
+            });
+        });
+    </script>
+    
+    <dl id="country" class="dropdown" style="display: none">
+        <dt><a class="clinicalButton clinicalButtonArrowRight clinicalButtonFlag" style=" height: 26px;"><span class="clinicalButtonFlagSpan"><img class="flag" src="/content/dam/ani/clinicalassessments/us/flags/us.png"> United
+        States </span></a></dt>
+        <dd>
+            <ul>
+                <li><a href="#"><img class="flag" src="/content/dam/ani/clinicalassessments/us/flags/au.png"> Australia<span class="value">http://pearsonpsychcorp.com.au</span></a></li>
+                <li><a href="#"><img class="flag" src="/content/dam/ani/clinicalassessments/us/flags/br.png"> Brazil<span class="value">http://www.casadopsicologo.net/casadopsicologo</span></a></li>
+                <li><a href="#"><img class="flag" src="/content/dam/ani/clinicalassessments/us/flags/ca.png"> Canada<span class="value">http://psychcorp.ca</span></a></li>
+                <li><a href="#"><img class="flag" src="/content/dam/ani/clinicalassessments/us/flags/dk.png"> Denmark<span class="value">http://www.pearsonassessment.dk</span></a></li>
+                <li><a href="#"><img class="flag" src="/content/dam/ani/clinicalassessments/us/flags/fr.png"> France<span class="value">http://ecpa.fr</span></a></li>
+                <li><a href="#"><img class="flag" src="/etc/designs/ani/clinicalassessments/us/images/flags/de.png"> Germany<span class="value">http://pearsonassessment.de</span></a></li>
+                <li><a href="#"><img class="flag" src="/etc/designs/ani/clinicalassessments/us/images/flags/in.png"> India<span class="value">http://www.psychcorpindia.com</span></a></li>
+                <li><a href="#"><img class="flag" src="/etc/designs/ani/clinicalassessments/us/images/flags/nl.png"> Netherlands<span class="value">http://www.pearson-nl.com</span></a></li>
+                <li><a href="#"><img class="flag" src="/etc/designs/ani/clinicalassessments/us/images/flags/nz.png"> New Zealand<span class="value">http://pearsonpsychcorp.com.au</span></a></li>
+                <li><a href="#"><img class="flag" src="/etc/designs/ani/clinicalassessments/us/images/flags/no.png"> Norway<span class="value">http://www.pearsonassessment.no</span></a></li>
+                <li><a href="#"><img class="flag" src="/etc/designs/ani/clinicalassessments/us/images/flags/es.png"> Spain<span class="value">http://www.pearsonpsychcorp.es</span></a></li>
+                <li><a href="#"><img class="flag" src="/etc/designs/ani/clinicalassessments/us/images/flags/se.png"> Sweden<span class="value">http://pearsonassessment.se</span></a></li>
+                <li><a href="#"><img class="flag" src="/etc/designs/ani/clinicalassessments/us/images/flags/gb.png"> United Kingdom<span class="value">http://www.psychcorp.co.uk</span></a></li>
+                <li><a href="#"><img class="flag" src="/content/dam/ani/clinicalassessments/us/flags/us.png"> United States<span class="value">/content/ani/clinicalassessments/us/en.html</span></a></li>
+                
+            </ul>
+        </dd>
+    </dl>
+    <span id="result"></span>
+    <span id="countryinternationalsiteslink">
+        <a href="/about/internationalSites.html" sref="true" class="clinicalButton clinicalButtonArrowRight" id="countryLink">International Sites</a>
+    </span>
+</div>
 
-    </div>
-    <div class="floatRight clinicalTopNavLinkList">
-       
+</div>
+</div>
+</div>
+</div>
+
+    
+        <div class="floatRight clinicalTopNavLinkList">
+           
 <div class="parsys iParTopNav iparlist_topnav iparsys"><div class="section" id="iv3"><div class="new"></div>
 </div><div class="iparys_inherited" id="iv4"><div class="parsys iParTopNav iparlist_topnav iparsys"><script>jQuery(document).ready(function(){
     	    jQuery('#topNav a').attr('target', '_self');
-		  });</script><ul id="topNav" class="horizontalList"><div class="parsys welcome">
+		  });</script><ul id="topNav" class="horizontalList">
+           <div class="parsys welcome">
 
 
 <style>.welcome{display:inline;}</style>
@@ -251,6 +260,7 @@ checkCookie();
 </script>
 </div>
 
+           
 
 
 
@@ -290,13 +300,13 @@ checkCookie();
 </div>
 </div>
 
-    </div>
-    <div class="clear"></div>
-
-
-    <div class="floatRight clinicalTopNavButtons">
-        <div class="clinicalTopNavButtonWrap clinicalTopNavButtonWrapCart">
-            <div class="cartcount">
+        </div>
+        <div class="clear"></div>
+    
+    
+        <div class="floatRight clinicalTopNavButtons">
+            <div class="clinicalTopNavButtonWrap clinicalTopNavButtonWrapCart">
+                <div class="cartcount">
 <script>
 function retrieveCartCount() {
     jQuery.ajax({
@@ -368,17 +378,17 @@ jQuery(document).ready(function() {
 
 </div>
 
-        </div>
-        <div class="clinicalTopNavButtonWrap clinicalTopNavButtonWrapAccount">
-            <a href="/account/myaccount.html" class="peBtn btnIcons-account" id="myAccountLink" title="My Account" data-key="/content/ani/clinicalassessments/us/en/account/myaccount.html">
-                <span class="buttonLeftIcon">
-                    <span class="buttonRightIcon">
-                        <span class="buttonText">My Account</span>
+            </div>
+            <div class="clinicalTopNavButtonWrap clinicalTopNavButtonWrapAccount">
+                <a href="/account/myaccount.html" class="peBtn btnIcons-account" id="myAccountLink" title="My Account" data-key="/content/ani/clinicalassessments/us/en/account/myaccount.html">
+                    <span class="buttonLeftIcon">
+                        <span class="buttonRightIcon">
+                            <span class="buttonText">My Account</span>
+                        </span>
                     </span>
-                </span>
-            </a>
-            <div class="topNavPopUpHolder posRel">
-                <div class="accountOptions accountPopup">
+                </a>
+                <div class="topNavPopUpHolder posRel">
+                    <div class="accountOptions accountPopup">
 
 
 <div class="topNavPopUpWrap posAbsolute" id="accountOptionsPop" style="display: none;">
@@ -418,22 +428,100 @@ jQuery(document).ready(function() {
     </div>
 </div></div>
 
-                <div class="clear"></div>
+                    <div class="clear"></div>
+                </div>
             </div>
+            <div class="clear"></div>
+    
         </div>
         <div class="clear"></div>
-
-    </div>
-    <div class="clear"></div>
-    <div class="w100percent">
-        <div class="segementTopNav floatLeft w70percent"><div class="segmentName">
+        <div class="w100percent">
+            <div class="segementTopNav floatLeft w70percent"><div class="segmentName">
 
 
 <div class="title">
     <h1><a href="/">Clinical Assessment</a></h1>
 </div></div>
 
-        </div>
+            </div>
+            <div class="orderByProduct orderByProd">
+
+
+<script type="text/javascript">
+function displayOrderByProduct() {
+    displayDiv('orderPop');
+    jQuery('#orderByProductNumberPopError').hide();
+    var frm = jQuery('#orderByProduct_Form');
+    frm.find('[name="quantity"]').val("");
+    frm.find('[name="prod_id"]').val("");
+if(frm.find("input[name=prod_id]").hasClass("ani_form_error")){
+        frm.find("input[name=prod_id]").removeClass("ani_form_error");
+    }
+}
+
+function validateOrderByProduct(inputField, isAlpha) {
+        var temp = "";
+        for (var i=0; i < inputField.value.length; i++) {
+            if ("0123456789".indexOf(inputField.value.charAt(i)) != -1 || (isAlpha && inputField.value.charAt(i).match("[a-zA-Z-]") != null)) {
+                temp = temp + inputField.value.charAt(i);
+            }
+        }
+        inputField.value = temp;
+    }
+    function orderByProductFormSubmit() {
+        var frm = jQuery('#orderByProduct_Form');
+        if (frm.find('[name="prod_id"]').val() == null || frm.find('[name="prod_id"]').val() == "") {
+            jQuery('#orderByProductNumberPopError').html("You have not specified a product number. Please try again.");
+            jQuery('#orderByProductNumberPopError').show();
+            jQuery("input[name=prod_id]").addClass("ani_form_error");
+            return false;
+        } else if(jQuery("input[name=prod_id]").hasClass("ani_form_error")){
+            jQuery("input[name=prod_id]").removeClass("ani_form_error");
+        }
+        var quantity = frm.find('[name="quantity"]').val();
+        if (quantity == null || quantity == "" || !quantity.match(/^\d+$/) || quantity.match(/^0+$/)) {
+            jQuery('#orderByProductNumberPopError').html("You have not specified a quantity. Please try again.");
+            jQuery('#orderByProductNumberPopError').show();
+            jQuery("input[name=quantity]").addClass("ani_form_error");
+            return false;
+        } else if(jQuery("input[name=quantity]").hasClass("ani_form_error")){
+            jQuery("input[name=quantity]").removeClass("ani_form_error");
+        }
+        jQuery.ajax({
+            type: 'POST',
+            url: '/content/ani/clinicalassessments/us/en/search/orderByProduct.html',
+            data: frm.serialize(),
+            statusCode: {
+                0: function() {
+                    //alert("status of zero");
+                }
+            },
+
+            success: function(data, textStatus, jqXHR){
+
+                var errorString = "Unknown error adding to cart. Please try again later.";
+                var errorMsg = jqXHR.responseText;
+
+                if (errorMsg && errorMsg.indexOf("<h1>") > 0) {
+                    errorString = "You have submitted an invalid product number. Please try again.";
+                    jQuery('#orderByProductNumberPopError').html(errorString);
+                    jQuery('#orderByProductNumberPopError').show();
+                    jQuery("input[name=prod_id]").addClass("ani_form_error");
+
+                } else {
+                    if (/cart.html/.test(window.location.href)) {
+                        window.location.replace("cart.html");
+                    }
+                    jQuery('#orderByProductNumberPopError').hide();
+                    jQuery('#orderPop').hide();
+                    retrieveCartCount();
+                }
+
+            }
+        });
+        return false;
+    };
+</script>
 
         <div class="orderByWrapper floatRight w30percent">
             <div class="clinicalTopNavOrderProducts clinicalTopNavLinkList textRight">
@@ -472,24 +560,25 @@ jQuery(document).ready(function() {
                 </div>
             </div>
             <div class="clear"></div>
+        </div></div>
+
         </div>
+        <div class="clear"></div>
     </div>
-    <div class="clear"></div>
-</div>
 </div>
     <div class="clinicalPageWrap clinicalFullPageWidth clinicalPageBody">
         
 
 <div class="content">
-    
-	    <div class="search">
+ 
+ <div class="search">
 
 
 
 
 <script>
 jQuery(window).load(function(){
-  jQuery('#searchText').val("keyword or product name");
+  jQuery('#searchText').val("keyword, assessment or product code");
   });
   jQuery(function() {
     jQuery("#searchText").autocomplete({
@@ -531,14 +620,15 @@ jQuery(window).load(function(){
                 });
                 });
   function clearText(){
-      if (document.quicksearch.searchText.value == "keyword or product name") {
+      if (document.quicksearch.searchText.value == "keyword, assessment or product code") {
           document.quicksearch.searchText.value = "";
       }
   }
   
   function validateSearchTerm() {
       var str = document.quicksearch.searchText.value;
-	  if ((str == "Search") || (str == "keyword or product name") || (/^([A-Za-z0-9-:&., ]*)$/.test(str))) {
+      
+	  if ((str == "Search") || (str == "keyword or product name") || (/^([A-Za-z0-9-:&.,+/ ]*)$/.test(str))) {
 	  	if (str == "Search" || str == "keyword or product name") {
 	  		document.quicksearch.searchText.value = "";
 	  	}
@@ -556,7 +646,7 @@ jQuery(window).load(function(){
             <input type="hidden" name="requestFrom" value="quickSearch">
             <input type="hidden" name="siteContext" value="ani.clinicalassessment.us.clinicalassessment">
 			
-            <input class="clinicalTopSearchTxtBox ui-widget floatLeft" type="text" value="keyword or product name" onclick="javascript:clearText();" id="searchText" name="searchText">
+            <input class="clinicalTopSearchTxtBox ui-widget floatLeft" type="text" value="keyword, assessment or product code" onclick="javascript:clearText();" id="searchText" name="searchText">
             <div class="">
           	
     		<input class="clinicalButton clinicalTopSearchButton" type="image" value="submit" name="searcSubmit" src="/etc/designs/ani/clinicalassessments/us/images/psychology/psychologyButtonMagGlass.png">
@@ -567,6 +657,9 @@ jQuery(window).load(function(){
     </div>
 </div></div>
 
+   
+    
+	   
 	    <div class="title"><div class=""><h1 class="programTitle">Privacy Policy</h1>
     <h3></h3></div></div>
 
@@ -633,7 +726,7 @@ jQuery(window).load(function(){
                 <div class="parsys iparsys iparsys_footerImg"><div class="section"><div class="new"></div>
 </div><div class="iparys_inherited"><div class="parsys iparsys iparsys_footerImg"><div class="parbase image section">
     
-    <div style="float:left" id="cq-image-jsp-/content/ani/clinicalassessments/us/en/jcr:content/iparsys_footerImg/image"><img title="PsychCorp" alt="PsychCorp" class="cq-dd-image" src="/content/ani/clinicalassessments/us/en/_jcr_content/iparsys_footerImg/image.img.png/1363198820226.png"></div>
+    <div style="float:left" id="cq-image-jsp-/content/ani/clinicalassessments/us/en/jcr:content/iparsys_footerImg/image"><img title="PsychCorp" alt="PsychCorp" class="cq-dd-image" src="/content/ani/clinicalassessments/us/en/_jcr_content/iparsys_footerImg/image.img.png/1384401271101.png"></div>
     
     
 
@@ -676,7 +769,7 @@ jQuery(window).load(function(){
 		    });
 		</script>
 		<select class="" id="pearsonSites" name="pearsonSites" onchange="javascript:navigateToUrl(this);" style="padding: 2px; display:none">
-		    <option value=".html">Other Pearson Sites</option><option value="/content/ped/ani/pa/us/en.html">Assessment</option><option value="/content/ani/clinicalassessments/us/en.html">Clinical Assessments</option><option value="/content/ped/ani/pa/us/en/largescaleassessment.html">Large-Scale Assessment</option><option value="/content/ped/ani/pa/us/en/learningassessments.html">Learning Assessment</option><option value="/content/ped/ani/pa/us/en/postsecondaryeducation.html">Post-Secondary Education</option><option value="/content/ped/ani/pa/us/en/talentassessment.html">Talent Assessment</option><option value="/content/ped/ani/pa/us/en/teacherlicensure.html">Teacher Licensure Testing And Performance Assessment</option>
+		    <option value=".html">Other Pearson Sites</option><option value="http://www.pearsonassessments.com/">Assessment</option><option value="http://www.pearsonclinical.com/">Clinical Assessments</option><option value="http://www.pearsonassessments.com/largescaleassessment.html">Large-Scale Assessment</option><option value="http://www.pearsonassessments.com/learningassessments.html">Learning Assessment</option><option value="http://www.pearsonassessments.com/postsecondaryeducation.html">Post-Secondary Education</option><option value="http://www.pearsonassessments.com/talentassessment.html">Talent Assessment</option><option value="http://www.pearsonassessments.com/teacherlicensure.html">Teacher Licensure Testing And Performance Assessment</option>
 			</select>
 			<a href="/about/pearsonSites.html" id="pearsonSitesLink">Other Pearson Sites</a>
 			
@@ -701,6 +794,13 @@ jQuery(window).load(function(){
 
 
 <li class="firstInList">
+    <a href="/legal.html" title="Legal Policies">Legal Policies</a>
+     | 
+</li>
+
+
+
+<li class="item">
     <a href="/contact/permissions.html" title="Permissions and Licensing">Permissions and Licensing</a>
      | 
 </li>
@@ -741,7 +841,7 @@ jQuery(window).load(function(){
 
 
 <span class="footerCopyright">
- Copyright © 2013 Pearson Education, Inc or its affiliate(s). All rights reserved.
+ Copyright © 2014 Pearson Education, Inc or its affiliate(s). All rights reserved.
 </span></div>
 
             </div>
@@ -766,8 +866,9 @@ var console=console||{"log":function(){}};
 var scpath=location.pathname;
 function getStaticPageName()
 {
-	var segment = getSegmentName();
-    var progId = "";
+    var segment = getSegmentName();
+    var prodId = "null";
+    var programId = "";
     var pageType = "null";
     if(s.events=="purchase"){
         return segment+"ecommerce:checkout:PlaceOrder";
@@ -784,7 +885,9 @@ function getStaticPageName()
             return segment+"browse assessments";
         }
     }
-    if(progId != ""){
+    if(prodId != "" && scpath.indexOf("products")!=-1){
+        s.products = prodId;
+        s.events = "prodView,event3,event25";
         return segment+"product details page";
     }
     if(scpath.indexOf("error") != -1){
@@ -816,7 +919,7 @@ function getParam( name )
 
 function getSegmentName()
 {
-	var segment = "";
+    var segment = "";
     if(segment != ""){
         segment += ':';
     }
@@ -838,96 +941,132 @@ function customPageTrack(pageName)
 
 function trackDownloads(fileName, url)
 {
-	s.linkTrackVars='eVar24,events';
-	s.linkTrackEvents='event24';
-	s.eVar24=fileName;
-	s.events='event24';
-	s.tl(this,'d',url);
+    s.linkTrackVars='eVar24,events';
+    s.linkTrackEvents='event24';
+    s.eVar24=fileName;
+    s.events='event24';
+    s.tl(this,'d',url);
 }
 function trackSocialMedia(linkName, url)
 {
-	s.linkTrackVars='eVar20,events';   
-	s.linkTrackEvents='event22';
-	s.eVar20=linkName;
-	s.events='event22';
-	s.tl(this,'o',url);
+    s.linkTrackVars='eVar20,events';   
+    s.linkTrackEvents='event22';
+    s.eVar20=linkName;
+    s.events='event22';
+    s.tl(this,'o',url);
 }
 function trackRegisterLink(linkName, url)
 {
-	s.linkTrackVars='eVar23,events'; 
-	s.linkTrackEvents='event23'; 
-	s.eVar23=linkName; 
-	s.events='event23'; 
-	s.tl(this,'e',url); 
+    s.linkTrackVars='eVar23,events'; 
+    s.linkTrackEvents='event23'; 
+    s.eVar23=linkName; 
+    s.events='event23'; 
+    s.tl(this,'e',url); 
 }
 
-function scAddToCart(programId)
+function scAddToCart(prodId)
 {
     if($.cookie('EP-Cart-Id') == null){
        s.events="scOpen,scAdd";
     } else {
        s.events="scAdd";
     }
-    s.products = ";"+programId;
+    s.products = ";"+prodId;
     s.linkTrackEvents = s.events;
     /* add to cart location */
-    s.prop6 = getStaticPageName();
-    s.eVar9=s.prop6; 
-    s.linkTrackVars='events,products';
+    s.eVar9 = s.prop6 = getStaticPageName();
+    s.linkTrackVars='events,products,prop6';
     s.linkTrackVars+=s.apl(s.linkTrackVars,'eVar9',',',2); 
     s.tl(true,'o','Add to Cart');
 }
 
 s.pageName=getStaticPageName();
+
 if(s.pageName.indexOf("login")!=-1){
-	s.events = "event7";
+    s.events = "event7";
 }
 jQuery(document).ready(function() {
-	jQuery("button#registerLink").click(function() {
-	    s.linkTrackVars='eVar4';
-	    s.eVar4 = s.eVar21;
-	    customLinkTrack("Registration Initiated");
-	}),
-	jQuery("#loginButton").click(function() {
-		s.linkTrackVars='events,eVar16';
-		s.linkTrackEvents='event15';
-		s.events='event15';
-		s.eVar16=jQuery('#login_form2_username').val();
-		customLinkTrack("Login");
-	})
+    jQuery("button#registerLink").click(function() {
+        s.linkTrackVars='eVar4,events';
+        s.linkTrackEvents='event2';
+        s.eVar4 = s.eVar21;
+        s.events = 'event2';
+        customLinkTrack("Registration Initiated");
+    }),
+    jQuery("#loginButton").click(function() {
+        s.linkTrackVars='events,eVar16';
+        s.linkTrackEvents='event15';
+        s.events='event15';
+        s.eVar16=jQuery('#login_form2_username').val();
+        customLinkTrack("Login");
+    })
 });
 
-	
+    
 console.log(s.pageName);
 s.channel="";
 if(scpath.indexOf("error") != -1){
     s.pageType="errorPage";
 }
+var requestFrom = getParam("requestFrom");
 var searchText = getParam("searchText");
-var siteContext = getParam("siteContext");
+var searchContext = getParam("searchContext");
+var segmentName = getParam("segmentName");
+var categoryId = getParam("categoryId");
+var subCategoryId = getParam("subCategoryId");
+var productType = getParam("productTypeFacet");
+var assessmentType = getParam("assessmentTypeFacet");
+var language = getParam("languageFacet");
+var age = getParam("ageFacet");
+var admin = getParam("administrationFacet");
+var scoring = getParam("scoringOptionFacet");
+
 if(searchText != ""){
-    if(siteContext == "content"){
+    if(searchContext == "content"){
         s.prop1 = "content:"+unescape(searchText);
     } else {
         s.prop1 = "program:"+unescape(searchText);
     }
 }
-
-/* Conversion Variables */
-s.products=""
-if(s.products != ""){
-   s.events = "prodView, event3"
+s.prop7 = '';
+if(requestFrom == "quickSearch"){
+	if(segmentName!=''){
+		s.prop7 += segmentName+'|';
+	}
+	if(categoryId !=''){
+		s.prop7 += categoryId+'|';
+	}
+	if(subCategoryId != ''){
+		s.prop7 += subCategoryId+'|';
+	}
+	if(productType != ''){
+		s.prop7 += productType+'|';
+	}
+	if(assessmentType != ''){
+		s.prop7 += assessmentType+'|';
+	}
+	if(language != ''){
+		s.prop7 += language+'|';
+	}
+	if(age != ''){
+        s.prop7 += age+'|';
+    }
+	if(admin != ''){
+        s.prop7 += admin+'|';
+    }
+	if(scoring != ''){
+        s.prop7 += scoring+'|';
+    }
 }
 
 /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
 var s_code=s.t();if(s_code)document.write(s_code)//--></script>
 <script language="JavaScript" type="text/javascript"><!--
 if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
-//--></script><noscript><img src="http://pearsonnorthamerica.122.2O7.net/b/ss/clinicaldev/1/H.19.4--NS/0" height="1" width="1" border="0" alt=""/></noscript><!--/DO NOT REMOVE/-->
+//--></script><noscript><img src="http://pearsonnorthamerica.122.2O7.net/b/ss/pearsonclinical/1/H.19.4--NS/0" height="1" width="1" border="0" alt=""/></noscript><!--/DO NOT REMOVE/-->
 <!-- End SiteCatalyst code version: H.22.1. -->
         
-<!-- End Paste the SiteCatalyst JavaScript Page code here -->
-</div>
+<!-- End Paste the SiteCatalyst JavaScript Page code here --></div>
 
 
 
