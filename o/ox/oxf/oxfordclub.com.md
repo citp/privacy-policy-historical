@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the oxfordclub.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230194453id_/http%3A//oxfordclub.com/visitors/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oxfordclub.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629131313id_/http%3A//oxfordclub.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Oxford Club
+# Privacy Policy | The Oxford Club
 
 _The Oxford Club_ takes individual privacy very seriously. We are also aware of the threats to your security and privacy on the Internet. Please take a few moments to review the steps that _The Oxford Club_ takes to ensure your privacy and security while giving you the best possible customer service as you use our web sites.
 
