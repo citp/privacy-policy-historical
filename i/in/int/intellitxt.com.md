@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intellitxt.com privacy policy that was archived on 2013-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131006032848id_/http%3A//www.vibrantmedia.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intellitxt.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629194952id_/http%3A//www.vibrantmedia.com/privacy.asp) for the most accurate reproduction.*
 
 # Vibrant Media — The Global Leader of In–Content Contextual Technology
 
@@ -69,7 +69,7 @@ Back to Top
 
 ### 5\. PARTICIPATION IN SELF-REGULATORY PROGRAMS
 
-We support the cross industry, Self-Regulatory Principles as managed by the DAA (" **DAA** ") (for more information [click here](http://www.aboutads.info/ "About Ads")). To provide consumers with enhanced transparency, we display the DAA’s Ad Choices Icon in advertisements delivered across our network to help make consumers aware of how data is being collected and used and to provide choices for consumers who want more control. Vibrant Media also is a member of (1) the Internet Advertising Bureau (“IAB”) and abides by IAB’s Member Code of Conduct, which you can review by [clicking here](http://www.iab.net/public_policy/codeofconduct "IAB") and (2) is a participating network with the Network Advertising Initiative (“NAI”) opt-out tool for behavioral advertising, which you can review at [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/choices/ "NAI Opt-out tool").
+We support the cross industry, Self-Regulatory Principles as managed by the DAA (" **DAA** ") (for more information [click here](http://www.aboutads.info/ "About Ads")). To provide consumers with enhanced transparency, we display the DAA’s Ad Choices Icon in advertisements delivered across our network to help make consumers aware of how data is being collected and used and to provide choices for consumers who want more control. Vibrant Media also is a member of (1) the Internet Advertising Bureau (“IAB”) and abides by IAB’s Member Code of Conduct, which you can review by [clicking here](http://www.iab.net/public_policy/codeofconduct "IAB")and (2) is an NAI member and adheres to the NAI Code of Conduct (“ **NAI** ”) opt-out tool for behavioral advertising, which you can review at [http://www.networkadvertising.org/choices](http://www.networkadvertising.org/choices/ "NAI Opt-out tool").
 
 Our Clients may separately collect Non-PII or other information from consumers. This Privacy Policy does not apply to the privacy practices of our Clients, and we are not responsible for their collection of Non-PII or other information from you. 
 
@@ -95,6 +95,8 @@ If you have any questions or comments about [www.vibrantmedia.com](http://www.vi
 **Via email:** [info@vibrantmedia.com](mailto:info@vibrantmedia.com "Contact Vibrant")   
 **Via telephone:** (646) 312-6100
 
-Last updated September 25, 2013
+Or you can submit an inquiry [here](https://web.archive.org/about/contact.asp?ref=privacy "Contact Vibrant Privacy"). 
 
 Back to Top
+
+Last updated April 24, 2014
