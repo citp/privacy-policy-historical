@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hiphopdx.com privacy policy that was archived on 2013-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131223075509id_/http%3A//www.hiphopdx.com/index/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hiphopdx.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629114136id_/http%3A//www.hiphopdx.com/index/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | HipHop DX
 
