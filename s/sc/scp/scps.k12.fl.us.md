@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scps.k12.fl.us privacy policy that was archived on 2013-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130928150945id_/http%3A//www.scps.k12.fl.us/Home/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scps.k12.fl.us privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630003916id_/http%3A//www.scps.k12.fl.us/Home/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
