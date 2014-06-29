@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mightydeals.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226132742id_/http%3A//www.mightydeals.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mightydeals.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629215035id_/http%3A//www.mightydeals.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - MightyDeals
 
