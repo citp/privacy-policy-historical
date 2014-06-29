@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the featherpixels.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214112624id_/http%3A//featherpixels.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the featherpixels.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629040814id_/http%3A//featherpixels.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Feather Pixels
 
@@ -85,3 +85,5 @@ http://featherpixels.com
 jen@featherpixels.com
 
 This policy is powered by Free Privacy Policy and Rhino Support [help desk software](http://www.rhinosupport.com/).
+
+**0** Flares Twitter 0 Facebook 0 Google+ 0 LinkedIn 0 Email 0 StumbleUpon 0 Reddit 0 Filament.io **0** Flares ×
