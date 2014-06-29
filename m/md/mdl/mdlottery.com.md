@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mdlottery.com privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228201556id_/http%3A//mdlottery.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mdlottery.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629085722id_/http%3A//www.mdlottery.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Maryland Lottery - About Us – Privacy Policy
 
@@ -28,11 +28,11 @@ These web sites may use “temporary cookies” to track User navigation in orde
 
 **E-mail**
 
-If you [Contact Us](http://mdlottery.com/about-us/contact-us/), or if you send other email to the Maryland Lottery, we use the information you send us to respond to your inquiry, just as we do with written correspondence. E-mail correspondence, like mailed correspondence, may become a public record. As a public record, your correspondence could be disclosed to other parties upon their request, in accordance with Maryland’s public records law.
+If you [Contact Us](http://www.mdlottery.com/about-us/contact-us/), or if you send other email to the Maryland Lottery, we use the information you send us to respond to your inquiry, just as we do with written correspondence. E-mail correspondence, like mailed correspondence, may become a public record. As a public record, your correspondence could be disclosed to other parties upon their request, in accordance with Maryland’s public records law.
 
 **General Privacy Policy**
 
-It is our policy to preserve the privacy of personal records and to protect confidential or privileged information. Such information will be disclosed publicly only as required by the Public Information Act or as necessary and permissible to carry out official duties. Under State law, these policies do not apply to information gathered for certain specified purposes, such as the investigation of a possible violation of law. If you have any questions about these privacy policies, please e-mail them to [service.desk@maryland.gov](mailto:service.desk@maryland.gov) or, if specifically regarding the Lottery’s privacy policies, please [Contact Us](http://mdlottery.com/about-us/contact-us/). This privacy policy applies solely to information collected by the www.mdlottery.com online network [defined under “Disclaimer”]. ****
+It is our policy to preserve the privacy of personal records and to protect confidential or privileged information. Such information will be disclosed publicly only as required by the Public Information Act or as necessary and permissible to carry out official duties. Under State law, these policies do not apply to information gathered for certain specified purposes, such as the investigation of a possible violation of law. If you have any questions about these privacy policies, please e-mail them to [service.desk@maryland.gov](mailto:service.desk@maryland.gov) or, if specifically regarding the Lottery’s privacy policies, please [Contact Us](http://www.mdlottery.com/about-us/contact-us/). This privacy policy applies solely to information collected by the www.mdlottery.com online network [defined under “Disclaimer”]. ****
 
 **Privacy Policy Changes**
 
@@ -40,4 +40,4 @@ Changes to our web sites may necessitate changes to the privacy policy. Timely n
 
 Please refer to the [Department of Information Technology](http://doit.maryland.gov/Pages/default.aspx) website for additional details on information technology policies in Maryland. The State of Maryland is committed to providing you with websites over which you may securely and confidently transact business with the State.
 
-_[Full List of Defined Terms](http://mdlottery.com/about-us/legal-definitions/)_
+_[Full List of Defined Terms](http://www.mdlottery.com/about-us/legal-definitions/)_
