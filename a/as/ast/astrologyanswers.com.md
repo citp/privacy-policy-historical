@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the astrologyanswers.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806055224id_/http%3A//astrologyanswers.com/info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astrologyanswers.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629040639id_/http%3A//astrologyanswers.com/info/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Astrology Answers Astrological Horoscope Readings
 
@@ -32,9 +32,7 @@ We will use the Personal Data you provide online for the purpose(s) you have sub
 
 We may disclose your Personal Data in response to subpoenas, court orders, or other legal process, or to establish or exercise our legal rights or to defend against legal claims. We may also disclose your Personal Data when we believe it is necessary or desirable in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our Terms of Service, and/or to protect our rights and property.
 
-Again, If you enjoy your Free Report, you will have the option to purchase a more in-depth Astrological Report from ASTROLOGY ANSWER. There are a number of products and services that are sold here at ASTROLOGY ANSWER, but the first step is to get your Free Report and decide for yourself if the insights you receive are accurate to you and the way you wish to see your future unfold.
-
-We may disclose your personally identifiable information in response to subpoenas, court orders, or other legal process, or to establish or exercise our legal rights or to defend against legal claims. We may also disclose your personally identifiable information when we believe it is necessary or desirable in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our Terms of Service, and/or to protect our rights and property.
+You have the option to purchase an in-depth Astrological Report from ASTROLOGY ANSWERS. There are a number of products and services that are sold here at ASTROLOGY ANSWERS, but there is no obligation to purchase any.
 
 **How We Share Your Personal Data.**
 
@@ -56,7 +54,7 @@ Our site may contain links to other sites whose information practices may be dif
 
 To enhance your online experience with us, many of our web pages use "cookies." Cookies are text files placed on your hard disk by our web server to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other Personal Data unless you choose to provide this information to us. However, once you choose to provide the Personal Data, this information may be linked to the data stored in the cookie. Cookies cannot be used to run programs or deliver viruses to your computer.
 
-We use cookies as a convenience feature to save you time, to understand how our site is used, and to improve the content and offerings on our site. For example, we may use cookies to personalize your experience at our web pages or recall your specific information on subsequent visits (e.g. to recognize you by name when you return to our site). You can opt to have your browser reject cookies without any effect on your use of our site. If you do that, you may need to re-register with us every time you visit our site in order to participate in certain promotions. You should also know that companies that advertise on our web site (and their agents) might use their own cookies. This policy does not cover how these companies use their cookies.
+We use cookies as a conv enience feature to save you time, to understand how our site is used, and to improve the content and offerings on our site. For example, we may use cookies to personalize your experience at our web pages or recall your specific information on subsequent visits (e.g. to recognize you by name when you return to our site). You can opt to have your browser reject cookies without any effect on your use of our site. If you do that, you may need to re-register with us every time you visit our site in order to participate in certain promotions. You should also know that companies that advertise on our web site (and their agents) might use their own cookies. This policy does not cover how these companies use their cookies.
 
 **Web Beacons.**
 
@@ -88,9 +86,9 @@ Under California’s “Shine the Light” law, California residents who provide
 
 If you have any questions or concerns about this privacy policy you may e-mail [privacy@astrologyanswers.com ](mailto:privacy@astrologyanswers.com) or write to the following address:
 
-4283 Express Lane   
-Suite 301-498  
-Sarasota, FL 34238
+10040 West Cheyenne Ave   
+170-129 Las Vegas,  
+NV 89129
 
   
 
