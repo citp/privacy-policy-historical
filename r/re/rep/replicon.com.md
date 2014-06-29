@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the replicon.com privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817144650id_/http%3A//www.replicon.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the replicon.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629135310id_/http%3A//www.replicon.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Replicon
 
@@ -234,7 +234,7 @@ Contacting Replicon
 
 If you have any questions with respect to our policies concerning the collection, use, disclosure or handling of your personal information, or if you wish to request access to, or correction of, your personal information under our care and control, or if you are dissatisfied with how we handle your personal information, please contact our Privacy Contact, Peter Kinash, at:
 
-[peter.kinash@replicon.com](mailto:peter.kinash@replicon.com "Replicon") OR 403-262-6519 ext 384.
+[peter.kinash@replicon.com](mailto:peter.kinash@replicon.com "Replicon") OR 403-716-0386 ext 7386.
 
 If you remain dissatisfied after our Privacy Contact has reviewed and responded to your concern, or have other concerns or questions, you have the right at any time to contact the Office of the Information and Privacy Commissioner at:
 
