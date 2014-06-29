@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the localmoxie.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526162105id_/http%3A//www.localmoxie.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localmoxie.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629042937id_/http%3A//www.localmoxie.com/privacy.php%3Fmoxietype%3Dlocal) for the most accurate reproduction.*
 
-# LocalMoxie » Find local information with moxie!
+# Find Local Info on LocalMoxie.com
 
 ## Privacy Policy
 
