@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1saleaday.com privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125070233id_/http%3A//1saleaday.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1saleaday.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629182743id_/https%3A//1sale.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy at 1Sale
 
@@ -10,7 +10,7 @@ When you visit our Web site you may provide us with two types of information: pe
 
 ## Personal Information You Choose to Provide Registration Information.
 
-You will provide us information about yourself, your firm or company, and your practices when you register to be a member of 1saleaday.com, register for certain services, or register for email newsletters and alerts. You may also provide additional comments on how you see 1saleaday.com servicing your needs and interests. 
+You will provide us information about yourself, your firm or company, and your practices when you register to be a member of 1Sale.com, register for certain services, or register for email newsletters and alerts. You may also provide additional comments on how you see 1Sale.com servicing your needs and interests. 
 
 ## Email Information
 
@@ -22,7 +22,7 @@ Similar to other commercial Web sites, our Web site utilizes a standard technolo
 
 ## How Do We Use the Information That You Provide to Us?
 
-Broadly speaking, we use personal information for purposes of administering and expanding our business activities, providing customer service and making available other products and services to our customers and prospective customers. Occasionally, we may also use the information we collect to notify you about important changes to our Web site, new services and special offers we think you will find valuable. You may notify us at any time if you do not wish to receive these offers by emailing us at [ support@1saleaday.com ](mailto:support@1saleaday.com). 
+Broadly speaking, we use personal information for purposes of administering and expanding our business activities, providing customer service and making available other products and services to our customers and prospective customers. Occasionally, we may also use the information we collect to notify you about important changes to our Web site, new services and special offers we think you will find valuable. You may notify us at any time if you do not wish to receive these offers by using our [ Contact Us ](http://1sale.com/contact-us/?s=other) form. 
 
 ## How Do We Use the Information That You Provide to Us?
 
@@ -38,15 +38,15 @@ We may enter into alliances, partnerships or other business arrangements with th
 
 ## Notice of New Services and Changes
 
-Occasionally, we may also use the information we collect to notify you about important changes to our Web site, new services and special offers we think you will find valuable. As our customer, you will be given the opportunity to notify us of your desire not to receive these offers by sending us an email request at [support@1saleaday.com](mailto:support@1saleaday.com)
+Occasionally, we may also use the information we collect to notify you about important changes to our Web site, new services and special offers we think you will find valuable. As our customer, you will be given the opportunity to notify us of your desire not to receive these offers by using our [ Contact Us ](http://1sale.com/contact-us/?s=other) form. 
 
 ## How Do We Secure Information Transmissions?
 
-Email is not recognized as a secure medium of communication. For this reason, we request that you do not send private information to us by email. Some of the information you may enter on our Web site may be transmitted securely via Secure Sockets Layer SSL, 128 bit encryption services, which are enabled by VeriSign, Inc. Pages utilizing this technology will have URLs that start with HTTPS instead of HTTP. Please contact [support@1saleaday.com](mailto:support@1saleaday.com) if you have any questions or concerns. 
+Email is not recognized as a secure medium of communication. For this reason, we request that you do not send private information to us by email. Some of the information you may enter on our Web site may be transmitted securely via Secure Sockets Layer SSL, 128 bit encryption services, which are enabled by VeriSign, Inc. Pages utilizing this technology will have URLs that start with HTTPS instead of HTTP. Please use our [ Contact Us ](http://1sale.com/contact-us/?s=other) form. 
 
 ## How Can You Access and Correct Your Information?
 
-You may request access to all your personally identifiable information that we collect online and maintain in our database by emailing [support@1saleaday.com ](mailto:support@1saleaday.com). 
+You may request access to all your personally identifiable information that we collect online and maintain in our database by using our [ Contact Us ](http://1sale.com/contact-us/?s=other) form. 
 
 ## Certain Disclosures
 
