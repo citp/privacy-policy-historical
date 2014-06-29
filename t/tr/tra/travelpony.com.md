@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the travelpony.com privacy policy that was archived on 2013-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130809174017id_/http%3A//www.travelpony.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelpony.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629052736id_/http%3A//www.travelpony.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | TravelPony
 
 ## Introduction
 
-Tourico Holidays, Inc., 220 East Central Parkway Altamonte Springs, FL 32701, USA, ("OPERATOR") provides access to and use of this site, TravelPony.com ("Site") of Travel Innovations Group, LLC. TravelPony.com is committed to maintain security and confidentiality of the personal information gathered and used on the www.travelpony.com website (“hereinafter the Website”). This Privacy Statement covers www.travelpony.com.
+Travel Innovations Group, LLC, 102 Woodmont Blvd. #600, Nashville, TN 37205, USA, ("OPERATOR") provides access to and use of this site, TravelPony.com ("Site"). TravelPony.com is committed to maintain security and confidentiality of the personal information gathered and used on the www.travelpony.com website (“hereinafter the Website”). This Privacy Statement covers www.travelpony.com.
 
 TravelPony.com and its authorized technology, marketing and service providers may gather, store, and process personal information from the Website.
 
@@ -36,7 +36,7 @@ PII that you voluntarily provide to TravelPony.com when you register with us can
 
 You will receive transaction or service related communications from the Website when you purchase travel products and services through our Website. Additionally, you will receive promotional communications from us if you choose to receive these communications.
 
-You may choose at any time during the registration process to “opt-out” and choose not to receive promotional communications that TravelPony.com feels may interest you. You may choose to unsubscribe and not receive future promotional communications by accessing the unsubscribe link on an email received by LastMinuteTravel.com. You can also “opt-out” of receiving these newsletters by logging into your account and “opting-out” of receiving these newsletters. 
+You may choose to unsubscribe and not receive future promotional communications by accessing the unsubscribe link on an email received by TravelPony.com.com.
 
 ### Tell-A-Friend
 
@@ -66,7 +66,7 @@ Changes to this Privacy Statement may be made from time to time. If any change i
 
 ### Contact Us
 
-If you would like to contact us regarding this Privacy Statement, you can reach us by our mailing address at 220 East Central Parkway Altamonte Springs, FL 32701, by phone at (877) 980-1221 or by email at support@travelpony.com.
+If you would like to contact us regarding this Privacy Statement, you can reach us by our mailing address at 102 Woodmont Blvd. #600, Nashville, TN 37205, by phone at (877) 980-1221 or by email at support@travelpony.com.
 
   
 
