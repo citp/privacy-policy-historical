@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the japancentre.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630093025id_/http%3A//japancentre.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the japancentre.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629154757id_/http%3A//www.japancentre.com/privacy) for the most accurate reproduction.*
 
 # Japan Centre | Privacy Policy
 
