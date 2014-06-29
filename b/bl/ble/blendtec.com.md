@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blendtec.com privacy policy that was archived on 2013-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131027080326id_/http%3A//www.blendtec.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blendtec.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629231744id_/http%3A//www.blendtec.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Blendtec.com
 
@@ -25,7 +25,7 @@
 
   * **Non-Personally Identifiable Information**
     * The term "nonpersonally identifiable information" means information that you voluntarily provide to us or that we collect electronically but does not personally identify you. 
-    * To make a purchase, we require you to supply us with your email address. Your email address does not personally identify you but is a means for us to contact you. You may later update and modify any inaccuracies by calling 801-222-0888. 
+    * To make a purchase, we require you to supply us with your email address. Your email address does not personally identify you but is a means for us to contact you. You may later update and modify any inaccuracies by calling (801) 222-0888. 
     * Please note we generally keep a copy of your previous email address(es) for our records. 
     * You may also choose not to provide us with your email address; however, you will not be able to purchase products on the Sites without an email address. 
     * Whenever you visit the Sites, nonpersonally identifiable information, such as navigational and clickstream data, is automatically collected and/or recorded. 
