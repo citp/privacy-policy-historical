@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the davidbach.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209145104id_/http%3A//www.finishrich.com/pages/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davidbach.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629110312id_/http%3A//www.finishrich.com/pages/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Privacy Statement and Policy
 
-David Bach and FinishRich take your privacy seriously. Please read the following to learn more about our Privacy Policy. To learn more about our other website policies, please read our [Terms of Use](https://web.archive.org/web/20131209145104id_/http%3A//www.finishrich.com/pages/terms.php).
+David Bach and FinishRich take your privacy seriously. Please read the following to learn more about our Privacy Policy. To learn more about our other website policies, please read our [Terms of Use](https://web.archive.org/web/20140629110312id_/http%3A//www.finishrich.com/pages/terms.php).
 
 What this Privacy Policy Covers
 
@@ -20,7 +20,7 @@ David Bach and FinishRich will not sell or rent your personally identifiable inf
 
 Editing Account Information and Unsubscribing from the Newsletter
 
-You have the ability to edit any personal information associated with your account on the [Account Settings](https://web.archive.org/web/20131209145104id_/http%3A//www.finishrich.com/inc/register.php) page. **When you are logged in** you can access this by clicking on 'Account' located on the upper right hand side of the page. On the Account Settings page, you may edit/add personal information or subscribe/unsubscribe from our free monthly newsletter.
+You have the ability to edit any personal information associated with your account on the [Account Settings](https://web.archive.org/web/20140629110312id_/http%3A//www.finishrich.com/inc/register.php) page. **When you are logged in** you can access this by clicking on 'Account' located on the upper right hand side of the page. On the Account Settings page, you may edit/add personal information or subscribe/unsubscribe from our free monthly newsletter.
 
 Security
 
@@ -32,4 +32,4 @@ David Bach and FinishRich may amend this policy from time to time. If we make an
 
 Questions or Suggestions
 
-If you have questions or suggestions please use our [contact form](https://web.archive.org/web/20131209145104id_/http%3A//www.finishrich.com/contact_us/customer.php).
+If you have questions or suggestions please use our [contact form](https://web.archive.org/web/20140629110312id_/http%3A//www.finishrich.com/contact_us/customer.php).
