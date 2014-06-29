@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joshkotsay.com privacy policy that was archived on 2013-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130901233947id_/http%3A//joshkotsay.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joshkotsay.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629031708id_/http%3A//joshkotsay.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - JoshKotsay.com
 
@@ -14,7 +14,7 @@ Josh Kotsay also collects potentially personally-identifying information like In
 
 ### Gathering of Personally-Identifying Information
 
-Certain visitors to Josh Kotsay's websites choose to interact with Josh Kotsay in ways that require Josh Kotsay to gather personally-identifying information. The amount and type of information that Josh Kotsay gathers depends on the nature of the interaction. For example, we ask visitors who sign up at [joshkotsay.com](http://joshkotsay.com/) to provide a username and email address. Those who engage in transactions with Josh Kotsay are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Josh Kotsay collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with Josh Kotsay. Josh Kotsay does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+Certain visitors to Josh Kotsay's websites choose to interact with Josh Kotsay in ways that require Josh Kotsay to gather personally-identifying information. The amount and type of information that Josh Kotsay gathers depends on the nature of the interaction. For example, we ask visitors who sign up at [joshkotsay.com](http://joshkotsay.net/) to provide a username and email address. Those who engage in transactions with Josh Kotsay are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Josh Kotsay collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with Josh Kotsay. Josh Kotsay does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
 ### Aggregated Statistics
 
