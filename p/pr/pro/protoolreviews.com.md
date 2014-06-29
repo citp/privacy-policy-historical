@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the protoolreviews.com privacy policy that was archived on 2013-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130704024034id_/http%3A//www.protoolreviews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the protoolreviews.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629211436id_/http%3A//www.protoolreviews.com/privacy-policy) for the most accurate reproduction.*
 
-# Pro Tool Reviews Magazine | Privacy Policy | Pro Tool Reviews Magazine
+# Privacy Policy | Pro Tool Reviews
 
 ### **What information do we collect?**
 
@@ -8,7 +8,9 @@ We collect information from you when you register on our site, subscribe to our 
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
+Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+
+Using the Ads Settings, users can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads. We also collect demographic information from Google Analytic’s Interest-based advertising for statistical use in understanding the makeup of our readership.
 
 ### **What do we use your information for?**
 
@@ -66,7 +68,7 @@ If we decide to change our privacy policy, we will post those changes on this pa
 If there are any questions regarding this privacy policy you may [contact us online](http://www.protoolreviews.com/contact "Contact PTR") or by mail at.
 
 Pro Tool Reviews, LLC  
-PO Box 24867  
-Lakeland, FL 33802-4867  
+PO Box 25004  
+Lakeland, FL 33802-5004  
 USA  
 privacy -AT- protoolreviews.com
