@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopjimmy.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231055920id_/http%3A//www.shopjimmy.com/contact%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopjimmy.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629041316id_/http%3A//www.shopjimmy.com/contact%23privacy) for the most accurate reproduction.*
 
 # ShopJimmy Contact & FAQ
 
@@ -143,11 +143,6 @@ From reclaiming to shipping, all of our parts go through a three-point inspectio
 ### • Do you sell replacement TV screens?
 
 We do offer a limited selection of **[panels](http://www.shopjimmy.com/catalogsearch/result/?q=panel&restrictBy\[master+part+type\]=Panel) **. 
-
-
-### • How are you giving back to the community?
-
-We donate all proceeds from remote control sales to the Children's Hospitals and Clinics of Minnesota. We also like to volunteer from time to time. 
 
 
 ### • What are you doing to better the environment?
@@ -331,9 +326,9 @@ With these two data points -- average sales and return rate over the past three 
   
 Group| Monthly Sales Average| Monthly Return Rate| Order Discount| Shipping Discount| Other Perks  
 ---|---|---|---|---|---  
-| More than $300| Less than 5%| 20% | Free shipping on orders over $75, $6 2-day upgrade on orders over $100 (US only) | Shop listed on our "TV Repair Shop Locator", No restocking fees  
-| More than $200| Less than 10%| 15% | Free shipping on orders over $100, $8 2-day upgrade on orders over $120 (US only) | Shop listed on our "TV Repair Shop Locator", No restocking fees  
-| More than $100| Less than 15%| 10% | Free shipping on orders over $150, $10 2-day upgrade on orders over $150 (US only) | Shop listed on our "TV Repair Shop Locator"  
+| More than $300| Less than 5%| 20% | Free shipping on orders over $75, $6 2-day upgrade on orders over $100 (US only) | DLP lamp discounts, No restocking fees  
+| More than $200| Less than 10%| 15% | Free shipping on orders over $100, $8 2-day upgrade on orders over $120 (US only) | DLP lamp discounts, No restocking fees  
+| More than $100| Less than 15%| 10% | Free shipping on orders over $150, $10 2-day upgrade on orders over $150 (US only) | DLP lamp discounts  
   
 ## MORE WAYS TO SAVE
 
