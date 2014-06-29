@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the flywidus.com privacy policy that was archived on 2013-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131117080433id_/http%3A//flywidus.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flywidus.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629081840id_/http%3A//www.flywidus.com/privacy.html) for the most accurate reproduction.*
 
 # Fly Wid Us
 
-Seven Seaz Vacations  Pvt. Ltd. (flywidus.com) respects your privacy and recognizes the need to protect the personally identifiable information (any information by which you can be identified, such as name, address, and telephone number) you share with us. We assure you that we follow appropriate standards when it comes to protecting your privacy on our web portal.
+Seven Seaz Vacations  Pvt. Ltd. (Flywidus.com) respects your privacy and recognizes the need to protect the personally identifiable information (any information by which you can be identified, such as name, address, and telephone number) you share with us. We assure you that we follow appropriate standards when it comes to protecting your privacy on our web portal.
 
 In general, you can visit our website without telling us or without revealing any personal information about yourself. We track the Internet address of the domains from which people visit our website and analyze these data for trends and statistics, but the individual user remains anonymous. 
 
