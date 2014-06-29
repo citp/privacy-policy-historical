@@ -1,91 +1,80 @@
-> *The following text is extracted and transformed from the forums.net privacy policy that was archived on 2013-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130822153458id_/http%3A//forums.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forums.net privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629054728id_/https%3A//forums.net/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | ProBoards
+# Privacy Policy | Forums.net
 
-ProBoards, Inc. (" **ProBoards** ") is committed to respecting the privacy rights of users of the Website (all capitalized terms not defined in this Privacy Policy have the same meanings as in ProBoards' [Website Terms of Service](https://web.archive.org/tos)). ProBoards created this Privacy Policy to give You confidence as You visit and use the Website, and to demonstrate its commitment to fair information practices and to the protection of privacy.
+Forums.net is committed to respecting Your privacy and, as such, has prepared this Privacy Policy to outline its practices with respect to Your personal information. 
 
-This Privacy Policy is only applicable to the Website and not to any websites of third parties (" **Third-Party Websites** "), which may have data collection, storage and use practices and policies that differ materially from this Privacy Policy. For additional information, see the section concerning Third-Party Websites, below.
+This Privacy Policy is part of the [Terms of Service Agreement](https://web.archive.org/tos) (the "Agreement") between You and Forums.net. All Capitalized terms not defined in this Privacy Policy have the same meaning as ascribed in the Agreement. By using the Website and/or Services, You represent and warrant that You have read and understood, and agree to be bound by, the terms of this Privacy Policy. 
 
-BY USING THE WEBSITE, YOU REPRESENT AND WARRANT THAT YOU HAVE READ AND UNDERSTOOD, AND AGREE TO THE TERMS OF, THIS PRIVACY POLICY. IF YOU DO NOT UNDERSTAND OR DO NOT AGREE TO BE BOUND BY THIS PRIVACY POLICY, YOU MUST IMMEDIATELY LEAVE THE WEBSITE.
+Each time You use the Website, the then-current version of this Privacy Policy will apply. Accordingly, each time You use the Website You should check the date of this Privacy Policy (which appears at the end) and review any changes since the last time You used the Website. 
 
-Each time You use the Website, the then-current version of this Privacy Policy will apply. Accordingly, each time You use the Website You should check the date of this Privacy Policy (which appears at the end) and review any changes since the last time You used the Website. For additional information, see the section concerning Updates and Changes to Privacy Policy, below.
-
-1\. **CHILDREN'S PRIVACY**
-
-> ProBoards does not solicit or knowingly collect personally identifiable information from children under the age of 13. If ProBoards obtains actual knowledge that it has collected personally identifiable information from a child under the age of 13, ProBoards will immediately delete such information from its database. Because ProBoards does not collect personally identifiable information from children under the age of 13, ProBoards has no such information to use or disclose to third parties. ProBoards has designed this Privacy Policy in order to comply with the Children's Online Privacy Protection Act (COPPA).
-
-2\. **INFORMATION COLLECTION PRACTICES**
-
-> a. **Traffic Data.** ProBoards may automatically gather information of the sort that browsers automatically make available, including: (i) IP addresses; (ii) domain servers; (iii) types of computers accessing the Website; and (iv) types of Web browsers accessing the Website (collectively " **Traffic Data** ").
-> 
-> b. " **Cookies** " are text files that are placed on your computer by websites that you visit or certain emails that you open. A Cookie acts as a string of information that a website stores on a users computer, and that the users browser provides to the website each time the user submits a query to the website. The purpose of a Cookie is to identify the user as a unique user of the Website. ProBoards uses Cookies.
-> 
-> ProBoards uses cookies on the Website for the following purposes:
-> 
->   * to customize your experience on the Website to your interests
->   * to ensure that you do not see the same advertisements or informational messages repeatedly, and
->   * to store your session identifier so you do not have to re-enter it each time you visit the Website.
-> 
-IF YOU DO NOT WISH TO HAVE COOKIES PLACED ON YOUR COMPUTER, YOU SHOULD SET YOUR BROWSERS TO REFUSE COOKIES BEFORE ACCESSING THE WEBSITE, WITH THE UNDERSTANDING THAT CERTAIN OF THE SERVICES AND CERTAIN FEATURES OF THE WEBSITE MAY NOT FUNCTION PROPERLY WITHOUT THE AID OF COOKIES. IF YOU REFUSE COOKIES, YOU ASSUME ALL RESPONSIBILITY FOR ANY RESULTING LOSS OF FUNCTIONALITY.
-> 
-> You can learn more about how to delete or control cookies at [www.aboutcookies.org](http://www.aboutcookies.org/).
-> 
-> c. **Ad Serving.** ProBoards uses third-parties including [Datonics](http://datonics.com/consumer-privacy-center) for advertising and analytics for pages that we host. These third-parties may place cookies on Your machine, use web beacons, gather IP addresses and log data to collect traffic and activity data in order to deliver relevant metrics, content, and advertising. Notwithstanding anything else in this policy, we or a data provider we have engaged may place or recognize a unique cookie on your browser to enable you to receive customized ads or content. These cookies contain no personally identifiable information. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, that we may share with a data provider solely in hashed, non-human readable form. Some ad networks that are a part of the Network Advertising Initiative provide an easy way to opt out of behavioral targeting by utilizing the [NAI Opt Out page](http://www.networkadvertising.org/managing/opt_out.asp). You can also visit [AboutAds.info](http://www.aboutads.info/choices) for more information and to opt-out.
-> 
-> d. **Personal Information.** In order for You to use certain of the Website services, You will be asked to provide ProBoards certain information that personally identifies You (" **Personal Information** "). Personal Information includes, without limitation: (1) " **Contact Data** " (such as Your e-mail address, website URLs, and instant messaging screen names); and (2) " **Demographic Data** " (such as Your date of birth and gender). In each case, You will be asked to provide Personal Information; the Website will not gather it surreptitiously. ProBoards may supplement the Personal Information You provide with additional Personal Information gathered from public sources or from third-parties (e.g., consumer reporting agencies) who may lawfully provide such information to ProBoards.
-> 
-> You are under no obligation to provide Personal Information, with the caveat that Your refusal to do so may prevent You from using certain of the Services.
-> 
-> e. **Information You Make Public.** By registering with the Website, You are required to create a personal profile, which may include Personal Information. Personal Information contained in personal profiles is available and accessible to all visitors of the Website. The Website contains features that permit You to upload, post, transmit, display, perform or distribute content, information or other, including Your Personal Information. Any information that You choose to disclose by means of such features becomes public information over which ProBoards is unable to exercise control. You should exercise caution when deciding to disclose Your Personal Information by means of such features, and You agree to assume all responsibility for doing so.
-
-3\. **INFORMATION USE AND DISCLOSURE PRACTICES**
-
-> a. **Traffic Data and Information Gathered Using Cookies**
-> 
-> ProBoards analyzes Traffic Data and information gathered using Cookies to help ProBoards better understand who is using the Website and how they are using it. By identifying patterns and trends in usage, ProBoards is able to better design the Website to improve Your experience, and to serve You more relevant and interesting content and advertisements. From time to time, ProBoards may release Traffic Data and information gathered using Cookies in the aggregate, such as by publishing a report on trends in the usage of the Website. ProBoards does not attempt to link information gathered using Cookies to Personal Information.
-> 
-> b. **Personal Information**
->
->> i. **Generally.** ProBoards uses Your Contact Data to send You information about ProBoards and ProBoards' products and services, and to contact You when necessary in connection with the Services. ProBoards uses Your Demographic Data to customize and tailor Your experience on the Website. As with Traffic Data and information gathered using Cookies, from time to time ProBoards may release Demographic Data in the aggregate, such as by publishing a report on trends in the usage of the Website. In addition, ProBoards shares Demographic Data with its advertisers and marketing partners so that such third-parties may provide You with advertisements tailored to Your interests.
->> 
->> ii. **Disclosure Practices.**
->> 
->> Except as otherwise provided in this Privacy Policy, and under the following circumstances, ProBoards will keep Your Personal Information private, and will not share it with third parties.
->> 
->>   * **Disclosure in Connection with Services.** ProBoards discloses Personal Information to those who help it provide services, including those who perform technical, administrative and data processing tasks such as, but not limited to, ad serving, hosting, billing, fulfillment, and data storage and security.
->>   * **Opt-in Consent for Third Party Offers.** Upon registration, and from time to time thereafter, ProBoards may provide You with an opportunity to co-register for, or otherwise receive, offers, goods or services directly from advertisers and companies other than ProBoards ("Third Party Offers"). If You co-register for or opt-in to receive a Third Party Offer, ProBoards will share your Personal Information with such third party. The proprietors of the Third Party Offers may have their own terms of service, privacy policies, unsubscribe provisions, or other policies and they may ask You to agree to the same. ProBoards is not responsible for the policies or practices of the proprietors of any Third Party Offers You opt-in to receive. You are under no obligation to co-register for or opt-in to receive any Third Party Offer.
->>   * **By Law or to Protect Rights.** ProBoards discloses Personal Information when required to do so by law, or in response to a subpoena or court order, or when ProBoards believes in its sole discretion that disclosure is reasonably necessary to protect the property or rights of ProBoards, third-parties or the public at large. 
->>   * **Business Transfers; Bankruptcy.** ProBoards reserves the right to transfer all Personal Information in its possession to a successor organization in the event of a merger, acquisition, or bankruptcy or other sale of all or a portion of ProBoards' assets. Other than to the extent ordered by a bankruptcy or other court, the use and disclosure of all transferred Personal Information will be subject to this Privacy Policy, or to a new privacy policy if You are given notice of that new privacy policy and an opportunity to affirmatively opt-out of it. Personal Information submitted or collected after a transfer, however, may be subject to a new privacy policy adopted by ProBoards' successor organization.
->>   * **License to User Content.** By using the Website, You grant the ProBoards Parties the right to publish Your Personal Information in connection with the ProBoards Parties' exercise of their license in and to Your User Content. You further waive any claims arising from the ProBoards Parties' exercise of that right. For additional information, see Terms of Service Section 15, regarding User Content.
->> 
+  
 
 
-4\. **CONSENT TO RECEIVE EMAIL FROM PROBOARDS**
+  1. Children's Privacy 
 
-By registering with the Website, you thereby consent to receive periodic email communications regarding the Services, new product offers, promotions and other matters.
+Forums.net does not solicit or knowingly collect personally identifiable information from children under the age of 13. If Forums.net obtains actual knowledge that it has collected personally identifiable information from a child under the age of 13, Forums.net will immediately delete such information from its database. Because Forums.net does not collect personally identifiable information from children under the age of 13, Forums.net has no such information to use or disclose to third parties. Forums.net has designed this Privacy Policy in order to comply with the Children's Online Privacy Protection Act (COPPA). 
 
-5\. **CONSENT TO RECEIVE EMAIL COMMUNICATIONS FROM MEMBERS**
+  2. Information Collection Practices 
+    1. Traffic Data 
 
-By registering with the Website, your thereby consent to receive electronic communications, including email and personal messages from other Website members.
+Forums.net may automatically gather information of the sort that browsers automatically make available, including: (i) IP addresses; (ii) domain servers; (iii) types of computers accessing the Website; and (iv) types of Web browsers accessing the Website (collectively " **Traffic Data** "). 
 
-6\. **SECURITY OF PERSONAL INFORMATION**
+    2. Cookies 
 
-ProBoards has implemented and maintains reasonable security procedures and practices to protect against the unauthorized access, use, modification, destruction or disclosure of Your Personal Information.
+"Cookies" are text files that are placed on Your computer by websites that You visit or certain emails that You open. A Cookie acts as a string of information that a website stores on a user's computer, and that the user's browser provides to the website each time the user submits a query to the website. The purpose of a Cookie is to identify the user as a unique user of the Website. Forums.net uses Cookies. 
 
-7\. **USER ABILITY TO ACCESS, UPDATE, AND CORRECT PERSONAL INFORMATION**
+Forums.net uses cookies on the Website for the following purposes: to store a session identifier for You so You do not have to re-enter Your username and password each time You visit the Website. 
 
-ProBoards wants Your Personal Information to be complete and accurate. By using the Website, You represent and warrant that all information You provide on any registration form or otherwise in connection with Your use of the Website and Services will be complete and accurate, and that You will update that information as necessary to maintain its completeness and accuracy. To confirm the completeness and accuracy of, or make changes to, Your Personal Information, please visit your account profile.
+IF YOU DO NOT WISH TO HAVE COOKIES PLACED ON YOUR COMPUTER, YOU SHOULD SET YOUR BROWSERS TO REFUSE COOKIES BEFORE ACCESSING THE WEBSITE, WITH THE UNDERSTANDING THAT CERTAIN OF THE SERVICES AND CERTAIN FEATURES OF THE WEBSITE MAY NOT FUNCTION PROPERLY WITHOUT THE AID OF COOKIES. IF YOU REFUSE COOKIES, YOU ASSUME ALL RESPONSIBILITY FOR ANY RESULTING LOSS OF FUNCTIONALITY. 
 
-8\. **THIRD-PARTY WEBSITES**
+You can learn more about how to delete or control cookies at [www.aboutcookies.org](http://www.aboutcookies.org/). 
 
-ProBoards neither owns nor controls Third-Party Websites. Accordingly, Third-Party Websites are under no obligation to comply with this Privacy Policy. Before visiting or providing Personal Information to a Third-Party Website, You should inform Yourself of the privacy policies and practices (if any) of that Third-Party Website, and should take those steps necessary to, in Your discretion, protect Your privacy.
+    3. Analytics 
 
-9\. **PROMOTIONAL ACTIVITIES**
+Forums.net uses third-parties to measure traffic data and perform other analytics. These third-parties may place cookies on Your machine, use web beacons, gather IP addresses and log data to collect traffic and activity data in order to deliver relevant metrics and content, and analyze the efficacy of Forums.net's advertising. These cookies contain no personally identifiable information. 
 
-From time to time, ProBoards may conduct contests, giveaways and other promotions (collectively, " **Promotional Activities** "). Any information submitted in connection with Promotional Activities will be treated in accordance with this Privacy Policy. From time to time, ProBoards may also ask You to participate in surveys designed to help ProBoards improve the Websites or Services. Any Personal Information provided to ProBoards in connection with any survey will be used only in relation to that survey, and will be disclosed to third parties not bound by this Privacy Policy only in aggregated form.
+    4. Personal Information 
 
-10\. **UPDATES AND CHANGES TO PRIVACY POLICY**
+In order for You to use certain of Services, You will be asked to provide Forums.net information that personally identifies You (" **Personal Information** "). Personal Information includes, without limitation, " **Contact Data** " (such as Your email address, physical address, and phone number). You will always be asked to provide Personal Information; the Website will not gather it surreptitiously. Forums.net may supplement the Personal Information You provide with additional Personal Information gathered from public sources or from third-parties (e.g., consumer reporting agencies) who may lawfully provide such information to Forums.net. You are under no obligation to provide Personal Information, with the caveat that Your refusal to do so may prevent You from using certain of the Services. 
 
-Although most changes are likely to be minor, ProBoards reserves the right, at any time and without notice, to add to, update, change or modify this Privacy Policy, simply by posting such update, change or modification on this page. Any such addition, update, change or modification will be effective immediately upon posting on the Website. Each time You use the Website, the then-current version of this Privacy Policy will apply. Accordingly, each time You use the Website You should check the date of this Privacy Policy (which appears at the end) and review any changes since the last time You used the Website. Unless ProBoards obtains Your express consent, any revised Privacy Policy will apply only to information collected after the effective date of such revised Privacy Policy, and not to information collected under any earlier Privacy Policy.
+    5. Information You Make Public 
 
-Effective Date: January 21, 2013 
+By registering with the Website, You are required to create a user profile, which may include Personal Information. The Website contains features that permit You to upload, post, transmit, display, perform or distribute content, information or other, including Your Personal Information. Any information that You choose to disclose by means of such features becomes public information over which Forums.net is unable to exercise control. You should exercise caution when deciding to disclose Your Personal Information by means of such features, and You agree to assume all responsibility for doing so. 
+
+  3. Information Use and Disclosure Practices 
+
+Forums.net uses Your Contact Data to send You information about Forums.net and to contact You when necessary in connection with the Services. Except as otherwise provided in this Privacy Policy, and under the following circumstances, Forums.net will keep Your Personal Information private, and will not share it with third parties. 
+
+    1. Disclosure in Connection with Services 
+
+Forums.net discloses Personal Information to those who help it provide the Services, including those who perform technical, administrative and data processing tasks such as, but not limited to, ad serving, hosting, billing, fulfillment, and data storage and security. 
+
+    2. By Law or to Protect Rights 
+
+Forums.net discloses Personal Information when required to do so by law, or in response to a subpoena, court order, or when Forums.net believes in its sole discretion that disclosure is reasonably necessary to protect the property or rights of Forums.net, third-parties or the public at large. 
+
+    3. Business Transfers; Bankruptcy 
+
+Forums.net reserves the right to transfer all Personal Information in its possession to a successor organization in the event of a merger, acquisition, or bankruptcy or other sale of all or a portion of Forums.net' assets. Other than to the extent ordered by a bankruptcy or other court, the use and disclosure of all transferred Personal Information will be subject to this Privacy Policy, or to a new privacy policy if You are given notice of that new privacy policy and an opportunity to affirmatively opt-out of it. Personal Information submitted or collected after a transfer, however, may be subject to a new privacy policy adopted by Forums.net' successor organization. 
+
+  4. Consent to Receive Email From Forums.net 
+
+By registering with the Website, You thereby consent to receive periodic email communications regarding the Services, new product offers, promotions and other matters. 
+
+  5. Security of Personal Information 
+
+Forums.net has implemented and maintains reasonable security procedures and practices to protect against the unauthorized access, use, modification, destruction or disclosure of Your Personal Information. 
+
+  6. User Ability to Access, Update, and Correct Personal Information 
+
+Forums.net wants Your Personal Information to be complete and accurate. By using the Website, You represent and warrant that all information You provide on any registration form or otherwise in connection with Your use of the Website and Services will be complete and accurate, and that You will update that information as necessary to maintain its completeness and accuracy. To confirm the completeness and accuracy of, or make changes to, Your Personal Information, please visit Your account profile. 
+
+  7. Updates and Changes to Privacy Policy 
+
+Although most changes are likely to be minor, Forums.net reserves the right, at any time and without notice, to add to, update, change or modify this Privacy Policy, simply by posting such update, change or modification on this page. Any such addition, update, change or modification will be effective immediately upon posting on the Website. Each time You use the Website, the then-current version of this Privacy Policy will apply. Accordingly, each time You use the Website You should check the date of this Privacy Policy (which appears at the end) and review any changes since the last time You used the Website. Unless Forums.net obtains Your express consent, any revised Privacy Policy will apply only to information collected after the effective date of such revised Privacy Policy, and not to information collected under any earlier Privacy Policy. 
+
+
+
+
+Effective Date: April 16, 2014
