@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the markit.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211055839id_/http%3A//www.markit.com/General/Privacy-and-Cookie-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the markit.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629072642id_/http%3A//www.markit.com/General/Privacy-and-Cookie-Policy) for the most accurate reproduction.*
 
 # Markit.com | Privacy & Cookie Policy
 
@@ -7,6 +7,8 @@ Markit is committed to protecting your privacy. This privacy policy applies to t
 In addition, this privacy policy describes the type of information we gather and track, how the information is used, and with whom the information is shared.
 
 In general, you can visit Markit on the internet without disclosing who you are or giving any personal information about yourself. There are times, however, when Markit may need information from you to better serve you.
+
+For Markit’s advertising-related policies and consumer opt-out procedures, please see the [Markit On Demand Digital Advertising Privacy Policy](https://ad.wsod.com/privacy.php).
 
 * * *
 
@@ -48,7 +50,7 @@ Markit will collect such information through the use of various technologies, in
 
 The “help” menu on the menu bar of most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie and how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the website of its manufacturer.
 
-Click for the [list of cookies](https://web.archive.org/web/20131211055839id_/http%3A//www.markit.com/General/Cookies) on Markit websites.
+Click for the [list of cookies](https://web.archive.org/web/20140629072642id_/http%3A//www.markit.com/General/Cookies) on Markit websites.
 
 By using Markit’s website, you agree to our installation of these tracking technologies on your computer or device.
 
