@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the embl.de privacy policy that was archived on 2013-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131114022244id_/http%3A//www.embl.de/aboutus/privacy_policy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the embl.de privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629135952id_/http%3A//www.embl.de/aboutus/privacy_policy/index.html) for the most accurate reproduction.*
 
 # EMBL Privacy Policy - EMBL
 
@@ -18,7 +18,7 @@ Typical cases where we collect your personal data include when you register for 
 
 When you participate in, access or sign up to any of our scientific services, activities or online content, for instance if you create an account with one of our services, we may receive personal information about you. Depending on the activity, this can consist of information such as your name, email address and more rarely postal address, or your telephone or mobile number. In particular, if you submit data to one of our databases (e.g. the European Nucleotide Archive) or create an account on one of our project portals we require a valid email address to create the account. By submitting your details, you enable us to provide you with the services, activities or online content you select.
 
-We also use cookies (see [section vi](https://web.archive.org/web/20131114022244id_/http%3A//www.embl.de/aboutus/privacy_policy/index.html#cookies "EMBL Privacy Policy") below for details) and collect IP addresses (an IP address is a number that can uniquely identify a specific computer or other network device on the internet) from visitors to our websites.
+We also use cookies (see [section vi](https://web.archive.org/web/20140629135952id_/http%3A//www.embl.de/aboutus/privacy_policy/index.html#cookies "EMBL Privacy Policy") below for details) and collect IP addresses (an IP address is a number that can uniquely identify a specific computer or other network device on the internet) from visitors to our websites.
 
 ### Categories of personal data collected include the following:
 
@@ -73,7 +73,7 @@ EMBL will keep your personal data confidential. We will only disclose it when le
   * From time to time, we may share some information with our collaborators, for instance the [WTSI](http://www.sanger.ac.uk/ "Wellcome Trust Sanger Institute"), [NCBI](http://www.ncbi.nlm.nih.gov/ "National Center for Biotechnology Information"), [DDBJ](http://www.ddbj.nig.ac.jp/ "DNA Data Bank of Japan"), [SIB](http://www.isb-sib.ch/ "Swiss Institute of Bioinformatics"), [PIR](http://pir.georgetown.edu/ "Protein Information Resource"), etc. When submitting data to our databases you opt in to submitting some personal information and we assume that you have permission from your institution to submit these data.
   * Partner institutions, for example [DESY](http://www.desy.de/ "Deutsches Elektronen-Synchrotron") in Hamburg, the [ESRF](http://www.esrf.eu/ "European Synchrotron Radiation Facility") in Grenoble, in order to manage access to shared facilities, or more generally to collaborate scientifically
   * Law enforcement and government bodies, in exceptional circumstances
-  * As described in [section VII](https://web.archive.org/web/20131114022244id_/http%3A//www.embl.de/aboutus/privacy_policy/index.html#offensive-content "EMBL Privacy Policy") below.
+  * As described in [section VII](https://web.archive.org/web/20140629135952id_/http%3A//www.embl.de/aboutus/privacy_policy/index.html#offensive-content "EMBL Privacy Policy") below.
 
 
 
@@ -127,7 +127,7 @@ Please note that during your visits to our websites you may notice some cookies 
 
 ### d. EMBL cookies and how to reject cookies?
 
-A list of the main cookies that EMBL websites set (and what each is used for) together with ways to minimise the number of cookies you receive can be found at EMBL's [Cookie List and How To Reject Cookies](https://web.archive.org/web/20131114022244id_/http%3A//www.embl.de/aboutus/privacy_policy/cookies_list/index.html "EMBL cookies list").  
+A list of the main cookies that EMBL websites set (and what each is used for) together with ways to minimise the number of cookies you receive can be found at EMBL's [Cookie List and How To Reject Cookies](https://web.archive.org/web/20140629135952id_/http%3A//www.embl.de/aboutus/privacy_policy/cookies_list/index.html "EMBL cookies list").  
 
 TOP
 
