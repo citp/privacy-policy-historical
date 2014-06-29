@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstaffair.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511231450id_/http%3A//www.firstaffair.com/en/datenschutz.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstaffair.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629073817id_/http%3A//www.firstaffair.com/en/datenschutz.html) for the most accurate reproduction.*
 
 # Privacy Policy - First Affair
 
