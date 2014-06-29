@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bambuser.com privacy policy that was archived on 2013-10-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131015205119id_/http%3A//bambuser.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bambuser.com privacy policy that was archived on 2014-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140629161147id_/http%3A//bambuser.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -7,27 +7,24 @@
 	<meta name="description" content="Live video streaming from your mobile phone or webcam">
 	<meta name="keywords" content="bambuser, mobile, live, streaming, broadcast, symbian, android, iphone, windows mobile">
 	<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">
+	<link rel="apple-touch-icon-precomposed" href="https://static.bambuser.com/r/img/apple_icons/touch-icon-iphone.png">
+	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://static.bambuser.com/r/img/apple_icons/touch-icon-ipad.png">
+	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://static.bambuser.com/r/img/apple_icons/touch-icon-iphone-retina.png">
+	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://static.bambuser.com/r/img/apple_icons/touch-icon-ipad-retina.png">
 
-	<meta property="og:site_name" content="Bambuser">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta property="og:site_name" content="Bambuser">
 <meta property="fb:app_id" content="19126885616">
 <link rel="shortcut icon" href="https://static.bambuser.com/themes/b4/favicon.ico" type="image/x-icon">
-<link rel="stylesheet" href="https://static.bambuser.com/themes/b4/print.css" type="text/css" media="print">
-
 
 	<style type="text/css" media="all">@import "https://static.bambuser.com/modules/b/db/date/date.css";</style>
 <style type="text/css" media="all">@import "https://static.bambuser.com/modules/b/db/date/date_popup/themes/white.calendar.css";</style>
 <style type="text/css" media="all">@import "https://static.bambuser.com/modules/b/db/date/date_popup/themes/timeentry.css";</style>
-<style type="text/css" media="all">@import "https://static.bambuser.com/modules/b/db/movino/movino.css";</style>
 <style type="text/css" media="all">@import "https://static.bambuser.com/modules/b/deprecated/cck/content.css";</style>
 <style type="text/css" media="all">@import "https://static.bambuser.com/modules/node/node.css";</style>
-<style type="text/css" media="all">@import "https://static.bambuser.com/modules/system/defaults.css";</style>
-<style type="text/css" media="all">@import "https://static.bambuser.com/modules/system/system.css";</style>
-<style type="text/css" media="all">@import "https://static.bambuser.com/modules/user/user.css";</style>
-<style type="text/css" media="all">@import "https://static.bambuser.com/modules/b/ui/bambuser_contact/bambuser_contact.css";</style>
 <style type="text/css" media="all">@import "https://static.bambuser.com/themes/b4/layout-fixed.css";</style>
-<style type="text/css" media="all">@import "https://static.bambuser.com/themes/b4/html-elements.css";</style>
+<style type="text/css" media="all">@import "https://static.bambuser.com/themes/b4/fonts.css";</style>
 <style type="text/css" media="all">@import "https://static.bambuser.com/themes/b4/b4.css";</style>
-<style type="text/css" media="all">@import "https://static.bambuser.com/themes/b4/block-editing.css";</style>
 <style type="text/css" media="all">@import "https://static.bambuser.com/r/bambuser.css";</style>
 
 	<!--[if IE]>
@@ -49,18 +46,36 @@
 	<![endif]-->
 
 	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://static.bambuser.com/misc/jquery.js"></script>
-<script type="text/javascript" src="https://static.bambuser.com/misc/drupal.js"></script>
 <script type="text/javascript" src="https://static.bambuser.com/r/bambuser.js"></script>
 <script type="text/javascript" src="https://static.bambuser.com/modules/b/ui/jquery_update/compat.js"></script>
-<script type="text/javascript" src="https://static.bambuser.com/modules/b/ui/bambuser_contact/bambuser_contact.js"></script>
-<script type="text/javascript" src="https://static.bambuser.com/misc/textarea.js"></script>
-<script type="text/javascript">B.conf.set({"static-url":"https:\/\/static.bambuser.com\/","api-url-xhr":"\/xhr-api\/index.php","site-url":"https:\/\/bambuser.com\/","api-url":"https:\/\/api.bambuser.com\/","comet-url":"https:\/\/comet.bambuser.com:3443\/","fb_app_id":"19126885616"})</script>
+<script type="text/javascript" src="https://static.bambuser.com/modules/b/ui/bambuser_ui/bambuser_ui.js"></script>
+<script type="text/javascript">B.conf.set({"static-url":"https:\/\/static.bambuser.com\/","api-url-xhr":"\/xhr-api\/index.php","site-url":"https:\/\/bambuser.com\/","api-url":"https:\/\/api.bambuser.com\/","comet-url":"https:\/\/comet.bambuser.com\/","chat-url":"http:\/\/vchat00.bambuser.com:80\/","fb_app_id":"19126885616"})</script>
+<script type="text/javascript">
+	$(document).ready(function() {
+		$("#bambuser-contact-link").click(function(e) {
+			e.preventDefault();
+			var $contact_form = $("#bambuser-contact").clone();
+			$contact_form.find("#edit-submit").remove();
+			$contact_form.show();
+			B.ui.dialog({
+				contents: $contact_form,
+				query_positive: "Send e-mail",
+				query_negative: "Cancel",
+				callback_positive: function() {
+					$contact_form.find("form").submit();
+				}
+			});
+			return false;
+		});
+	});
+	</script>
 </head>
+
 
 <!--[if lt IE 7]><body class="lt-ie9 lt-ie8 lt-ie7 not-front not-logged-in node-type-page no-sidebars page-privacy section-privacy"><![endif]-->
 <!--[if IE 7]><body class="ie7 lt-ie9 lt-ie8 not-front not-logged-in node-type-page no-sidebars page-privacy section-privacy"><![endif]-->
 <!--[if IE 8]><body class="ie8 lt-ie9 not-front not-logged-in node-type-page no-sidebars page-privacy section-privacy"><![endif]-->
-<!--[if gt IE 8]><!--><body class="modern-browser not-front not-logged-in node-type-page no-sidebars page-privacy section-privacy"><!--<![endif]-->
+<!--[if gt IE 8]><!--><body class=" modern-browser not-front not-logged-in node-type-page no-sidebars page-privacy section-privacy"><!--<![endif]-->
 
 	
 	<!--[if lt IE 9]>
@@ -74,56 +89,107 @@
 	</div>
 	<![endif]-->
 
-	<div id="page"><div id="page-inner">
-								<div id="header"><div id="header-inner" class="clear-block ">
-
-				<a href="/"><img id="logo" src="https://static.bambuser.com/themes/b4/images/b4/bambuser-logo.png" alt="Bambuser - show the world" title="Bambuser - show the world"></a>
-
-				<div id="top-search">
-					<form action="/search/bambuser_search" method="post" id="search-form" class="search-form">
-						<input type="text" maxlength="255" name="keys" id="edit-keys" value="Search" size="20" class="form-text search-form-text-input" onblur="if (this.value == '') {this.value = 'Search';}" onfocus="if (this.value == 'Search') {this.value = '';}">
-						<input class="top-search-submit search-submit-button" type="submit" name="op" value="" alt="Submit button">
-
-												<input type="hidden" name="form_id" id="edit-search-form" value="search_form">
-					</form>
-				</div>
-
-				<ul id="menu-a" class="bambuser-header-menu">
-					<li class="first">
-						<a href="/broadcasts">Broadcasts</a>
-					</li>
-					<li>
-						<a href="/tag">Tags</a>
-					</li>
-					<li>
-						<a href="/users">Users</a>
-					</li>
-					<li>
-						<a href="/groups-events">Events</a>
-					</li>
-					<li class="premium last">
-						<a href="/premium">Premium</a>
-					</li>
-				</ul>
-
-				<ul id="menu-b" class="bambuser-header-menu">
-										<li class="first">
-						<a href="/">Home</a>
-					</li>
-										<li>
-						<a href="/help">Help</a>
-					</li>
-											<li id="sign-up" style="height:25px;" class="">
-							<a href="/signup">Sign up</a>
-						</li>
-
-										<li class="last">
-												<a href="/user?destination=privacy">Log in <img onclick="window.location='/user?connect=fb'; return false;" style="margin-left: 10px; " src="https://static.bambuser.com/r/img/webservices/facebook-tiny-button.png" width="12" height="12" title="Log in with Facebook" alt="Log in with Facebook"></a>
-											</li>
-				</ul>
-
-			</div></div> <!-- /#header-inner, /#header -->
 		
+	<script>
+	$(document).ready(function() {
+		/*
+		 * Check if the device is touch enable, if it is then remove href on anchor
+		 * elements which have a parent with dropdown-menu class. This ensures that
+		 * users with touch interface will be able to access the drop-down menu and
+		 * not be sent to either broadcasts page or their channel page on tap.
+		 */
+		if(B.is_touch_device()) {
+			$('#b-header-menu .dropdown-menu > a').removeAttr('href');
+		}
+
+		$(".search-icon-anchor").click(function() {
+			if($("#search-field-header").hasClass('active')) {
+				$("#search-field-header").removeClass('active');
+			} else {
+				$("#search-field-header").addClass('active');
+				$("#search-field-header input[type='text']").focus();
+			}
+		});
+
+		$(".dropdown-menu.header-no-js").removeClass("header-no-js");
+		$(".dropdown-menu").each(function() {
+			var me = $(this);
+			$('.sub-menu-arrow-top').css({
+				left: 106
+			});
+			me.find("ul.sub-dropdown-menu, .sub-menu-spacer").css({
+				opacity: 0,
+				"margin-left": me.width() - 140
+			});
+			$(this).hover(function() {
+				me.find("ul.sub-dropdown-menu, .sub-menu-spacer").addClass("active").stop().animate({
+					opacity: 0.95
+				}, 100);
+			}, function() {
+				setTimeout(function() {
+					if(me.is(":hover") != true) {
+						me.find("ul.sub-dropdown-menu, .sub-menu-spacer").stop().animate({
+							opacity: 0
+						}, 75, function() {
+							$(this).removeClass("active");
+						});
+					}
+				}, 100);
+			});
+		});
+	});
+
+	</script>
+
+	<div id="b-header-wrapper">
+		<div id="b-header-content" class=" content-wrapper dark ">
+			<a href="/"><img id="logo" src="https://static.bambuser.com/themes/b4/images/b4/bambuser-logo.png" alt="Bambuser - show the world" title="Bambuser - show the world"></a>
+
+			<ul id="b-header-menu" class="">
+
+				<li id="search-field-header">
+					<a class="search-icon-anchor"><span class="b-symbol-font search-icon"></span></a>
+					<div id="search-field-wrapper">
+						<form action="/search" method="post" id="search-form-header" class="search-form-header">
+							<input type="text" maxlength="255" name="keys" id="edit-keys" value="" class="search-input" placeholder="Search">
+						</form>
+					</div>
+				</li>
+				<li>
+					<a href="/premium">Premium</a>
+				</li>
+				<li class="dropdown-menu header-no-js">
+					<a href="/broadcasts">Discover</a>
+					<div class="sub-menu-spacer">
+						<div class="sub-menu-arrow-top"></div>
+					</div>
+					<ul class="sub-dropdown-menu">
+						<li>
+							<a href="/broadcasts" class="label">Broadcasts</a>
+						</li>
+						<li>
+							<a href="/tags" class="label">Tags</a>
+						</li>
+						<li>
+							<a href="/users" class="label">Users</a>
+						</li>
+						<li>
+							<a href="/groups-events" class="label">Events</a>
+						</li>
+					</ul>
+				</li>
+
+									<li>
+						<a href="/user?destination=privacy">Log in</a>
+					</li>
+					<li>
+						<a href="/signup">Sign up</a>
+					</li>
+							</ul>
+		</div>
+	</div>
+
+	<div id="page"><div id="page-inner">
 		
 
 
@@ -230,7 +296,7 @@ Sweden</p>
 			
 		
 		
-<div id="bambuser-contact-wrapper"><a id="bambuser-contact-link" href="/contact"><img src="https://static.bambuser.com/modules/b/ui/bambuser_contact/feedback.png" width="25" height="100"></a><div id="bambuser-contact"><div id="bambuser-contact-close"> </div><form action="/privacy" accept-charset="UTF-8" method="post" id="contact-mail-page">
+<div id="bambuser-contact-wrapper"><a id="bambuser-contact-link" href="/contact"><img src="https://static.bambuser.com/modules/b/ui/bambuser_contact/feedback.png" width="25" height="100"></a><div id="bambuser-contact"><form action="/privacy" accept-charset="UTF-8" method="post" id="contact-mail-page">
 <div>You can leave feedback to Bambuser Crew via this form.<div class="form-item">
  <label for="edit-name">Your name <span class="form-required" title="This field is required.">*</span></label>
  <input type="text" maxlength="255" name="name" id="edit-name" size="60" value="" class="form-text required">
@@ -260,20 +326,37 @@ Sweden</p>
  <label for="edit-bc-message2">Message 2 </label>
  <textarea cols="60" rows="5" name="bc_message2" id="edit-bc-message2" class="form-textarea resizable">sveninge says hi</textarea>
 </div>
-<input type="hidden" name="bc_ts" id="edit-bc-ts" value="1381870280">
+<input type="hidden" name="bc_ts" id="edit-bc-ts" value="1404058308">
 </fieldset>
 <input type="submit" name="op" id="edit-submit" value="Send e-mail" class="form-submit">
 
 </div></form>
-</div><div id="bambuser-contact-border"> </div></div>
+</div></div>
 	</div></div> <!-- /#page-inner, /#page -->
 
 
 	<script type="text/javascript">
+	$(function() {
+		$(document).on('click', "#messages-box span.close-message", function() {
+			$(this).parent().animate({
+				opacity: 0
+			}, 100, function() {
+				$(this).slideUp(200);
+			});
+		});
+
+		if($(".messages.status").length > 0 || $(".messages.error").length > 0) {
+			$("#signup-banner-bg").css({
+				top: $(".messages").height() + parseInt($("#signup-banner-bg").css('top'))
+			});
+		}
+	});
+
 			B.fb.init(function() {
 			FB.getLoginStatus(function(response) {
 				if (response.status == "connected") {
 					FB.api("/me", function(response) {
+						FB.user = response;
 						b_log("fb me response")
 						b_log(response)
 						// Show Facebook avatar and name instead of Sign up button.
@@ -294,7 +377,7 @@ Sweden</p>
 				b_log("Facebook status changed to " + response.status);
 				// If status changed to unknown, place back Sign up button.
 				if (response.status == "unknown") {
-					$("#sign-up").html("<a href=\"/signup\">Sign up</a>");
+					$("#sign-up").html('<a href="/signup">Sign up</a>');
 				}
 			});
 		});
@@ -346,6 +429,32 @@ Sweden</p>
 			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 		})();
 	</script>
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		var google_conversion_id = 1031839484;
+		var google_custom_params = window.google_tag_params;
+		var google_remarketing_only = true;
+		/* ]]> */
+	</script>
+	<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+	<noscript>
+		<div style="display:inline;">
+		<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1031839484/?value=0&amp;guid=ON&amp;script=0"/>
+		</div>
+	</noscript>
+	<script type="text/javascript">
+		/* <![CDATA[ */
+		var google_conversion_id = 975715581;
+		var google_custom_params = window.google_tag_params;
+		var google_remarketing_only = true;
+		/* ]]> */
+	</script>
+	<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+	<noscript>
+		<div style="display:inline;">
+		<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/975715581/?value=0&amp;guid=ON&amp;script=0"/>
+		</div>
+	</noscript>
 	
 		<script type="text/javascript">
 		document.write(unescape("%3Cscript src='" + (("https:" == document.location.protocol) ? "https://ssl-" : "http://")
