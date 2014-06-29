@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the adhitprofits.com privacy policy that was archived on 2013-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130923050641id_/http%3A//adhitprofits.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adhitprofits.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629175954id_/https%3A//adhitprofits.com/privacy.php) for the most accurate reproduction.*
 
 # Ad Hit Profits : Privacy Policy
 
-[](http://youtu.be/q9F_zx1DAf0) [](http://96244aq4w8x50v47ra0n0k2lfu.hop.clickbank.net/)
+[](http://vid.viralangels.pt/)
 
 ## Privacy Policy
 
@@ -99,4 +99,4 @@ Contacting Us 
 
 
 
-[](http://www.reservedposition.com/?jackbox5)
+[](http://www.probux.com/?r=ashley13)
