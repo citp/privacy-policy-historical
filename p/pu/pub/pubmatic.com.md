@@ -1,117 +1,204 @@
-> *The following text is extracted and transformed from the pubmatic.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201082153id_/http%3A//www.pubmatic.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pubmatic.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629172756id_/http%3A//www.pubmatic.com/privacy-policy.php) for the most accurate reproduction.*
 
 # PubMatic - Privacy Policy
 
-Effective: October 24, 2013
+LAST UPDATED: JUNE 19, 2014
 
-ABOUT PUBMATIC & THE CONTENT OF THIS PRIVACY POLICY.
+PubMatic, Inc. and its subsidiaries, including, as of the date of this Privacy Policy, PubMatic Limited, PubMatic GmbH, PubMatic India Private Limited, PubMatic KK and PubMatic Pte. Ltd. (" **we** ," " **our** ," " **PubMatic** ") offer a strategic selling platform to premium publishers, which enables them to optimize their digital assets while protecting their brands. PubMatic's platform is designed to help publishers increase the amount of revenue they make from advertising sales by increasing the overall competition among media buyers for each advertising impression displayed through the PubMatic platform. We are a publisher-focused company, but at the same time we maintain client relationships with media buyers. Ads that you see come from those media buyers, and usually the ad comes from an ad server with the same domain as the media buyer. Generally, a user will encounter an ad from one of our media buyers by viewing the content on a website or application owned or operated by one of our publishers.
 
-PubMatic, Inc. and its subsidiaries offer a strategic selling platform to premium publishers, which enables them to optimize their digital assets while protecting their brands. We are headquartered in the United States, with several international offices. We provide this privacy policy ("Privacy Policy") so that we may inform you about how our services gather and process information on behalf of our publishers, demand partners and other third-parties. This policy also outlines our privacy practices on our corporate Web site, [www.pubmatic.com](http://www.pubmatic.com/).
+We are concerned about privacy issues and want you to be familiar with how we collect, use and disclose information. This Privacy Policy describes our practices in connection with information that we collect through www.pubmatic.com and the other websites operated by us from which you are accessing this Privacy Policy (the " **Websites** "), through the software applications made available by us for use on or through computers and mobile devices (the " **Apps** "), through our social media pages and apps (collectively, our " **Social Media Pages** ") as well as through HTML formatted email messages that we send to you that link to this Privacy Policy and through our technologies used by our publishers, media buyers and third parties that we use to gather and process information on their behalf (collectively, including the Websites, the Apps and our Social Media Pages, the " **Services** "). By providing Personal Information to us, you agree to the terms and conditions of this Privacy Policy.
 
-After reviewing the Privacy Policy, if you have any further questions, please contact us at [privacy@pubmatic.com](mailto:privacy@pubmatic.com?subject=Privacy).
+PERSONAL INFORMATION
 
-PubMatic's platform is designed to help publishers increase the amount of revenue they make from advertising sales by increasing the overall competition among media buyers for each advertising impression displayed through the PubMatic platform. We are a publisher-focused company, but at the same time we maintain client relationships with demand partners. Ads that you see come from those demand partners, and usually the ad comes from an ad server with the same domain as the demand partner. Generally, a user will encounter an ad from one of our demand partners by viewing the content on a website or application owned or operated by one of our publishers.
+**Personal Information We May Collect**
 
-A GENERAL NOTE ON INTERNET TECHNOLOGIES AND PRIVACY
+" **Personal Information** " is information that identifies you as an individual, including: 
 
-Before you review this Privacy Policy, we recommend that you familiarize yourself with the following concepts and terms so that you can best understand how PubMatic uses data about you and other Internet users to display better, more interesting advertising to you as you browse the Internet.
+  * Name
+  * Postal address
+  * Telephone number
+  * Email address
+  * Profile picture
 
-Ad Tags: Ad Tags are pieces of code that allow the delivery of advertisements in the dedicated ad spaces on digital assets such as websites and applications. PubMatic's Ad Tags may transmit certain anonymous information about the web site, section of the site and size of the ad that we are optimizing.
 
-API: An application programming interface or "API" is a particular set of rules and specifications that allows one software program to access and make use of another software program. It helps facilitate the interaction between applications, similar to the way the user interface facilitates interaction between humans and computers. PubMatic uses APIs for its real-time bidding service (as defined below), and occasionally uses publisher APIs to download data about users that is unique to those publishers. This data is only Non-PII data (as defined below).
 
-Cookies: Cookies are small text files that web servers typically send to users' computers when they visit a website. Cookies can be read or edited when the user loads a website or advertisement from the domain that wrote the cookie in the first place. Cookies are used by companies to collect and send information about a user's website visit – for example, number of visits, average time spent, pages viewed, navigation history through the website, and other statistics. This information can be used to improve a user's online experience by saving passwords, or allowing companies to track and improve website loading times, for instance. Cookies can also be used to track a user's browsing or online purchasing habits and to target advertisements to specific users. Cookies cannot be used to access any other data on a user's hard drive, to personally identify them, or to act like malware or a virus. Users who prefer not to accept cookies can set their Internet browser to notify them when they receive a cookie or to prevent cookies from being placed on their hard drive. You can read more about cookies at <http://www.allaboutcookies.org/cookies/>.
+**How We May Collect Personal Information**
 
-Online: When we use the term "online" in this Privacy Policy we are referring to a state of digital connectivity, including, without limitation, via websites (whether accessed by a desktop, laptop, smart phone, feature phone, tablet, IPTV (i.e., Internet Protocol Television) or other device), mobile applications or any other digital or mobile content.
+We and our third-party service providers may collect Personal Information in a variety of ways, including:
 
-Personally Identifiable Information: We define personally identifiable information (or "PII") as information that can be used to personally identify an end user or can be used with other sources to personally identify an end user, including first and last name, email address, home address and telephone number. Information that is collected but which does not qualify as PII is called "Non-PII," such as page viewed, referring URL, mobile carrier, phone model, age, gender and zip code.
+  * **Our Websites, Apps and Social Media Pages** : We may collect Personal Information through our Websites, Apps and Social Media Pages, e.g., when you request information about the Services through the "contact us” section of our website. We also may collect Personal Information in the Career section of the Website from those who submit a resume to PubMatic for recruiting purposes. Please see our **_Careers Privacy Policy_** for more information.
+  * **Offline** : We may collect Personal Information from you offline, such as when you contact us by telephone or postal mail.
+  * **From Other Sources** : We may receive your Personal Information from other sources, such as public databases; joint marketing partners; social media platforms; and other third parties.
 
-Real-Time Bidding: Real-Time Bidding (or "RTB") is a method of buying online advertising inventory by responding in real-time to an ad call with a "bid," usually priced by cost per thousand impressions ("CPM"), to buy that single impression and thus the opportunity to display an ad to that user. RTB buyers use multiple different data sources, including third parties, to more precisely target the ads they display.
 
-Web Beacons & Pixels: A web beacon consists of a small string of code that represents a graphic image request on a web page, a page in an application, or in an email. A graphic image can be associated with the web beacon, but is not required. When an image is present, usually the image is designed to blend into the background of the web page, application, or email in which it appears. Often a beacon will be placed by an online data collecting company without an image, so it is invisible to the user, and in the smallest discrete space possible on the screen. This is a "pixel" and is essentially an invisible web beacon. Pixels and web beacons can be used for site traffic reporting, unique visitor counts, advertising auditing and reporting, personalization, and other uses. They do this typically by writing or editing cookies on each user's computer. Therefore, like cookies, they cannot be used to log keystrokes, copy personal files from your computer, or replicate like a virus. Most pixels and web beacons, including those used by PubMatic, collect only anonymous data.
 
-PUBMATIC'S SERVICE & THE DATA IT COLLECTS
+**How We May Use Personal Information**
 
-Our Collection Practices with Respect to Personally Identifiable Information. We do not collect PII via our services and take all precautions to avoid receiving PII from our clients. Notwithstanding the foregoing, we do collect PII on our Website (www.pubmatic.com) in the Career section from those who submit a resume to PubMatic for recruiting purposes, on the section of the Website where you can request information about our services, and via our publisher and demand partner portals and user interfaces. PII may include first and last name, company name and e-mail address. We retain resumes in case there is a future match with a role we are looking to fill. If you would like us to update, correct, delete or deactivate any PII that you have provided to us, please send your request to us at privacy@pubmatic.com and we will process your request within a reasonable period of time after receipt. Your PII may be stored and processed in any country where we have facilities and/or employees and by providing any PII to us, you consent to the transfer of such PII to countries outside of your country of residence, which countries may have different data protection rules from your country of residence. We Collect Non-Personally Identifiable Information About You.
+We and our third-party service providers may use Personal Information: 
 
-We collect Non-PII via our services, including but not limited to your IP address, date, time, and time zone of the ad request, pages viewed, browser type, the referring URL, and your computer's operating system. We may use such data to extract further related parameters, for example, we may extract city, state, country and zip code from your IP address.
+  * To respond to your inquiries and fulfill your requests.
+  * To send administrative information to you, for example, information regarding the Services and changes to our terms, conditions, and policies.
+  * To send you marketing communications that we believe may be of interest to you.
+  * For our business purposes, such as data analysis, audits, fraud monitoring and prevention, developing new products, enhancing, improving or modifying our Services, identifying usage trends, determining the effectiveness of our promotional campaigns and operating and expanding our business activities.
+  * As we believe to be necessary or appropriate: (a) under applicable law, including laws outside your country of residence; (b) to comply with legal process; (c) to respond to requests from public and government authorities including public and government authorities outside your country of residence; (d) to enforce our terms and conditions; (e) to protect our operations or those of any of our affiliates; (f) to protect our rights, privacy, safety or property, and/or that of our affiliates, you or others; and (g) to allow us to pursue available remedies or limit the damages that we may sustain. 
 
-We collect Non-PII from visitors to this Website through persistent cookies. The Non-PII we may collect includes pages viewed, the time/date of your visit to this Website, and the referring URL. We may use this information to improve the Website, our services and our sales efforts.
 
-Our Clients Also Collect Information About You.
 
-Our publishers may choose to pass Non-PII about their online users to us (including network type of a user’s device, year of birth, ethnicity, gender, geo location, etc.), either directly through our services or through APIs when our services connect to their systems, to allow us to optimize their digital assets by delivering relevant ads by our demand partners to our publishers’ users. We also contract separately with data providers to supply audience data to both our publishers and our demand partners to help them in optimizing their businesses and for ad targeting purposes. Our publishers may collect PII (for instance, from the online registration forms that they may present to the users), but they do not transmit such PII to us. They may, however, transmit non-PII collected from such registration forms. If they inadvertently transmit PII to us and we become aware of that transmission, then we will take all the necessary measures to remove it and ensure that we also do not transmit it.
+**How Personal Information May Be Disclosed**
 
-Several of our demand partners also use Non-PII. For our RTB demand partners, we share the same Non-PII which we collect with those demand partners with each ad impression that we deliver. All demand partners, whether RTB-enabled or not, may use their own data providers. In addition, demand partner's ads may link to landing pages that have their own data collection processes.
+Your Personal Information may be disclosed:
 
-In all cases, please refer to the privacy policies kept by our clients for more information on their data collection processes and policies. We are not responsible or liable for the privacy practices of our clients. These clients are responsible for informing you and obtaining your consent, to the extent applicable, with respect to data they collect from you and shared with us. You should check the privacy policies of the websites you visit and applications you download to learn about the information they collect from you, how they store that information, who they share that information with, and how they and third parties use that information.
+  * Among our affiliates (identified in the first paragraph of this Privacy Policy) for the purposes described in this Privacy Policy. PubMatic, Inc. is the party responsible for the management of the jointly-used Personal Information.
+  * To our third-party service providers who provide services such as lead management, campaign measurement and other services.
+  * By you, on message boards, chat, profile pages and blogs and other services to which you are able to post information and materials (including, without limitation, our Social Media Pages). Please note that any information you post or disclose through these services will become public information, and may be available to users of the Services and to the general public. We urge you to be very careful when deciding to disclose your Personal Information, or any other information, on the Services.
+  * To a third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceedings).
+  * As we believe to be necessary or appropriate: (a) under applicable law, including laws outside your country of residence; (b) to comply with legal process; (c) to respond to requests from public and government authorities including public and government authorities outside your country of residence; (d) to enforce our terms and conditions; (e) to protect our operations or those of any of our affiliates; (f) to protect our rights, privacy, safety or property, and/or that of our affiliates, you or others; and (g) to allow us to pursue available remedies or limit the damages that we may sustain. 
 
-We Use Cookies And Web Beacons In A Variety Of Ways And So Do Our Clients.
 
-We use cookies and web beacons for a number of purposes. We use them in order to track when we deliver an advertising impression so that we can correctly credit it to a demand partner and invoice that demand partner. We distribute our pixels to demand partners who wish to set- up retargeting campaigns (also called "remarketing" or "repurposing"). These demand partners place our pixels on web pages where they are authorized to do so and then, when our ad server indicates a user with that cookie is expecting an ad, they target an ad to that user based on the user's consumer interests that the demand partner inferred from the website where the pixel was placed. We also distribute our cookies and those of certain demand partners who buy media through our RTB product in the HTML code of the ads that we display. These piggybacked pixels allow those demand partners to map their anonymous user identification number ("UID") against PubMatic's own anonymous UID so that the demand partner can associate a user profile to a particular advertising impression in order to target better the ad they choose to display to that particular user's interests. Finally, we distribute pixels through Ad Tags for those data providers we have contracted with to supply data for our audience and data management services. These pixels are dropped through the delivery of advertisements from the PubMatic services, and associate demographic, behavioral, and other audience-related data from the data provider's user profile with that user to better target future advertisements to that user.
 
-You Can Opt Out From Having Us Collect Certain Non-PII And From Having Our Clients Collect Certain Non-PII.
+OTHER INFORMATION
 
-PubMatic's Opt Out Mechanism
+**Other Information We May Collect**
 
-If you'd like to opt-out from having PubMatic place cookies on your computer or device to collect ad targeting Non-PII in connection with our Service, please go to <http://www.pubmatic.com/opt-out/>. When you opt out, we will place an opt-out cookie on your computer or device. The opt-out cookie tells us not to collect your Non-PII for ad targeting purposes. We may still set cookies for non-ad targeting purposes such as frequency capping.
+" **Other Information** " is any information that does not reveal your specific identity or does not directly relate to an individual, such as:
 
-Please note that if you delete, block or otherwise restrict cookies, or if you use a different computer, device or Internet browser, you may need to renew your opt-out choice. You can tell if your browser, computer and device have the opt-out cookie present by reviewing your status at [http://www.pubmatic.com/opt-out/](http://www.pubmatic.com/opt-out).
+  * Browser and device information;
+  * Mobile device identifier;
+  * Information collected through cookies, pixel tags and other technologies;
+  * Demographic information, including physical information
+  * Information provided by you; and
+  * Aggregated information.
 
-However, if you do not opt out as explained above, then PubMatic may collect your Non-PII and perform audience or behavioral targeting on you so that our clients can display the most-relevant ads to you.
 
-Opting Out Through The Network Advertising Initiative
 
-Many of our demand partners and data providers are members of the Network Advertising Initiative which provides a universal opt-out mechanism for those entities. If you go to <http://www.networkadvertising.org/managing/opt_out.asp>, you will find the chance to opt-out from Non-PII collection by a number of different demand partners and data providers. If you opt-out through the Network Advertising Initiative (NAI), please refer to the FAQ available on the NAI website to understand how their opt-out mechanism functions.
+We and our service providers may use Other Information to extract further related parameters, for example, we may extract information including but not limited to city, state, country and zip code and Designated Market Area ("DMA") from your IP address.
 
-Independent Opt Out Mechanisms
+**How We May Collect Other Information**
 
-Many of our clients have their own opt-out mechanisms that are linked from their sites or their online-posted privacy policies. You should review the privacy policies of those partners for these opt-out links if you no longer wish to receive targeted advertising.
+We and our third party service providers may collect Other Information in a variety of ways, including:
 
-PUBMATIC'S SECURITY & STORAGE PROCEDURES FOR YOUR DATA
+  * **Through your browser or device** : Certain information is collected by most browsers or automatically through your device, such as your Media Access Control (MAC) address, computer type (Windows or Macintosh), screen resolution, operating system name and version, device manufacturer and model, language, Internet browser type and version and the name and version of the Services (such as the App) you are using. We use this information to ensure that the Services function properly.
+  * **Mobile device identifier** : If the Website and / or Services are being used on a mobile device, we may also collect and use the device's unique device identifier or a unique identifier that we assign to the device. We use the identifier for purposes of cross-app advertising (as described below), as well as to deliver ads and provide advertising related services, such as providing a specific advertisement based on a particular time of day, statistical reporting in connection with the activity in an application, analytics and analysis, optimization of location of ad placement, ad performance, reach and frequency metrics (e.g., frequency capping), security and fraud prevention, billing, and logging the number and type of ads served on a particular day to a particular application or device. In addition, we may collect and analyze certain characteristics of an individual device and browser combination, in order to identify and probabilistically recognize the same device at a later point in time.
+  * **Through your use of the App** : When you download and use the App, we and our service providers may track and collect App usage data, such as the date and time the App on your device accesses our servers and what information and files have been downloaded to the App based on your device number.
+  * **Using pixel tags and other similar technologies** : Pixel tags (also known as web beacons and clear GIFs) may be used in connection with some Services to, among other things, track the actions of users of the Services (including email recipients), measure the success of our marketing campaigns and compile statistics about usage of the Services and response rates. Ad tags are pieces of code that allow the delivery of advertisements in the dedicated ad spaces on digital assets such as websites and applications. PubMatic's Ad Tags may transmit certain anonymous information about the web site, section of the site and size of the ad that we are optimizing. 
+  * **IP Address** : Your " **IP Address** " is a number that is automatically assigned to the computer that you are using by your Internet Service Provider (ISP). An IP Address may be identified and logged automatically in our server log files whenever a user accesses the Services, along with the time of the visit and the page(s) that were visited. Collecting IP Addresses is standard practice and is done automatically by many websites, applications and other services. We use and disclose IP Addresses for purposes such as calculating usage levels of the Services, helping diagnose server problems, and administering the Services.
+  * **Physical Location** : We may collect the physical location of your device by, for example, using satellite, cell phone tower or WiFi signals or by receiving such information directly from our publishers. We may use your device's physical location to provide you with personalized location-based services and content. We may also share your device's physical location, combined with information about what advertisements you viewed and other information we collect, with our marketing partners and media buyers to enable them to provide you with more personalized content and to study the effectiveness of advertising campaigns. In some instances, you may be permitted to allow or deny such uses and/or sharing of your device's location, but if you choose to deny such uses and/or sharing, we and/or our marketing partners and media buyers may not be able to provide you with the applicable personalized services and content.
+  * **From you** : Information such as your location, as well as other information, such as your preferred means of communication, is collected when you voluntarily provide this information. Unless combined with Personal Information, this information does not personally identify you or any other user of the Services.
+  * **By aggregating information** : Aggregated Personal Information does not personally identify you or any other user of the Services, (for example, we may aggregate Personal Information to calculate the percentage of our users who have a particular telephone area code).
 
-PubMatic is conscious of the importance of your data to you and conscientious about protecting that data from loss, theft, or misuse. All of the user data collected by PubMatic is stored using the same security measures that we use to protect our own proprietary corporate data. Only authorized users are able to access the data we collect and store. While we cannot absolutely guarantee the security of the data we store, we do use all commercially reasonable measures to protect this information.
 
-We retain Non-PII that represents intent and interest segments collected via our services from third party service providers at a user level for up to 90 days and impression data which contains user IP address and other Non-PII through HTTP headers for up to six months. We retain the foregoing data in order to ensure that our services are functioning properly and to evaluate ways to improve our services. In addition, we retain data on an aggregated basis indefinitely for purposes of reporting and system analytics. If you have any questions about our security practices, please send an email to us at [privacy@pubmatic.com](mailto:privacy@pubmatic.com?subject=Privacy).
 
-PUBMATIC'S INFORMATION SHARING
+**We Collect Other Information Using Cookies**
 
-Unless you otherwise permit PubMatic to share the Non-PII information we have collected about you, we will only share that information with the following third parties and in the following circumstances: (i) to the appropriate authorities when we reasonably believe we are obligated to do so by law, or in order to investigate, prevent, or take action regarding suspected or actual prohibited activities, including but not limited to, fraud and situations involving potential threats to the physical safety of any person; (ii) to a court of law, arbitration panel, or similar body to enforce or protect our rights either under law or as granted by an agreement; (iii) to the company or entity that acquires all or substantially all of PubMatic's assets, including if the acquisition occurs as the result of PubMatic's bankruptcy; (iv) to publishers to allow them to analyze the effectiveness and performance of our services; (v) to demand partners to allow them to make decisions regarding buying advertising inventory on our publishers’ websites and to analyze the effectiveness and performance of their advertising campaigns via our services; and (vi) to third parties that help us provide the services to clients, or that enter into strategic partnerships with PubMatic which allow us to expand the services for our clients.
+We and our third party service providers may also collect Other Information using cookies.
 
-WE MAY DISPLAY CONTENT OR ADS FROM THIRD PARTIES
+Cookies are pieces of information stored directly on the computer that you are using. Cookies allow us to collect information such as browser type, time spent on the Services, pages visited, language preferences, date and time an ad was served, clicks on ads, and other anonymous traffic data. We also use cookies and other files to track your use of the Services and other websites. We may supplement this information with information that we receive from a third party about advertising segments that might interest you, and we may share the supplemented information with our media buyers, who use it to target advertisements to you. If you do not want us to collect information from you through the use of cookies, please follow the instructions under "Opting Out of Cookies," below.
 
-The Website may contain links to and advertisements for websites operated by third parties whose privacy practices may differ from PubMatic's. While we endeavor to associate only with reputable entities, PubMatic cannot be responsible for the privacy practices of these other websites. We encourage you to check the privacy policies of all websites that you visit.
+We and our service providers also use the information collected through cookies for security purposes, to facilitate navigation, display information more effectively, and to personalize your experience while using the Services. 
 
-THIRD PARTY VENDORS
+We can recognize your computer to assist your use of the Services. We also gather statistical information about the usage of the Services in order to continually improve the design and functionality, understand how the Services are used and to assist us with resolving questions regarding the Services.
 
-We also work with third party vendors to improve our Website and services. These vendors use cookies, web beacons and other technologies to collect information about your online activity (e.g., the pages you have visited at the Website) in order to help us understand user interest and improve the Website and our services. You may opt out of most vendors’ use of cookies and other technologies by visiting <http://networkadvertising.org/optout_nonppii.asp>. Please note that if you delete, block or otherwise restrict cookies, or if you use a different computer, device or Internet browser, you may need to renew your opt-out choice.
+We also use cookies in order to track when we deliver an advertising impression so that we can correctly credit it to a media buyer and invoice that media buyer. We may also use cookies in online advertising to track responses to our advertisements.
 
-Our Website may also include social media features, such as the Facebook Like or Tweet this button. These features may collect your IP address, which page you are visiting on our Website, and may set a cookie to enable the feature to function properly. These features are hosted by a third party or hosted directly on our Website. Your interactions with these features are governed by the privacy policy of the company providing it.
+We will not collect or use sensitive information unless we have obtained your prior consent. Sensitive information includes information we know to be related to medical information, but we may target ads based on expressed interest in particular health-related consumer products. For example, our publisher partners could retarget website visitors who showed interest in health and beauty products (makeup, skincare, hair care, lotions, perfumes, etc.), items related to personal fitness, and dietary supplements. The health-related advertising segments that we use are: diet and fitness; doctors; health care professionals; health conscious; health and medicine; health and well-being; interest in health insurance; and pregnancy.
 
-We are not responsible or liable for the privacy practices of our vendors. These third parties are responsible for informing you and obtaining your consent, to the extent applicable, with respect to data they collect from you and share with us. You should check the privacy policies of the websites you visit and applications you download to learn about the information these vendors collect from you, how they store that information, who they share that information with, and how they and third parties use that information.
+**Opting Out of Cookies**
 
-SENSITIVE INFORMATION
+For further information about cookies, including how to see what cookies have been set on your device and how to manage and delete them, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/) and [www.youronlinechoices.eu.](http://www.youronlinechoices.eu/)
 
-We will not collect or use sensitive information unless we have obtained, directly or indirectly, your prior consent. Sensitive personal information includes information we know to be related to medical information, but we may target ads based on expressed interest in particular health-related consumer products. For example, our publisher partners could retarget website visitors who showed interest in health and beauty products, items related to personal fitness, and dietary supplements.
+We are a member of the Network Advertising Initiative (NAI) and adhere to the NAI Code. If you do not want information collected by us through the use of cookies, please go to <http://www.pubmatic.com/opt-out/>. When you opt out, we will place an opt-out cookie on your computer or device. However, if you do not accept these cookies, you may experience some inconvenience in your use of the Services. For example, we may not be able to recognize your computer and you may need to log in every time you visit the applicable Services. You also may not receive advertising or other offers from us that are relevant to your interests and needs.
+
+Please note that if you delete, block or otherwise restrict cookies, or if you use a different computer, device or Internet browser, you may need to renew your opt-out choice. You can tell if your browser, computer and device have the opt-out cookie present by reviewing your status at <http://www.pubmatic.com/opt-out/>. 
+
+Many of our media buyers and data providers are members of the Network Advertising Initiative (NAI) and/or participate in the Digital Advertising Alliance (DAA), both of which provide opt-out mechanisms for their respective members or participants. If you go to <http://www.networkadvertising.org/managing/opt_out.asp> or <http://www.aboutads.info/choices/>, you can learn how to exercise choice regarding the collection of information about your online activities over time and across third-party websites or online services.
+
+Some of our clients have their own opt-out mechanisms that are linked from their sites or their online-posted privacy policies. You should review the privacy policies of those partners for these opt-out links if you no longer wish to receive targeted advertising from a particular partner, or multiple partners.
+
+**Cross-App Advertising**
+
+We may deliver advertising to you while you are on your mobile device, based on information that we collect through applications on your device that are owned or operated by different parties. We are able to recognize your device on different applications through the unique identifier that we assign to your device. We may also use your physical location to deliver such advertising to you. We may share the information that we collect for purposes of cross-app advertising with our media buyers and service providers. We are a member of the NAI and adhere to the NAI Mobile Application Code. To learn how to exercise choice regarding the cross-app collection of information from your device, go to <http://www.networkadvertising.org/managing/opt_out.asp>.
+
+**Other Information Collected by Third Parties**
+
+Our clients (i.e. publishers) also collect information about you. They may choose to pass this information to us either directly through our Services or through application programming interfaces or APIs, when our services connect to their systems. APIs are a particular set of rules and specifications that allows one software program to access and make use of another software program. It helps facilitate the interaction between applications, similar to the way the user interface facilitates interaction between humans and computers. PubMatic uses APIs for its real-time bidding service, and occasionally uses publisher APIs to download data about users that is unique to those publishers.
+
+The information our clients may share includes (but is not necessarily limited to) network type of a user's device, year of birth, ethnicity, gender, and precise geolocation. Some publishers may provide precise geolocation information collected on certain platforms. 
+
+Several of our media buyers also use Other Information. All media buyers may use their own data providers. In addition, media buyers' ads may link to landing pages that have their own data collection processes.
+
+This Privacy Policy does not address, and we are not responsible for, the privacy, information or other practices of any third parties, including our vendors or any other third party operating any site or service to which the Services link. The inclusion of a link on the Services does not imply endorsement of the linked site or service by us or by our affiliates.
+
+Please note that we are not responsible for the collection, usage and disclosure policies and practices (including the data security practices) of other organizations, such as Facebook, Apple, Google, Microsoft, RIM or any other app developer, app provider, social media platform provider, operating system provider, wireless service provider or device manufacturer, including any Personal Information you disclose to other organizations through or in connection with the Apps or our Social Media Pages.
+
+You should always read the privacy policy of any website you access or social network page through which you share information carefully in order to understand their specific privacy and information usage practices.
+
+**How We May Use and Disclose Other Information**
+
+Please note that we may use and disclose Other Information for any purpose, except where we are required to do otherwise under applicable law. If we are required to treat Other Information as Personal Information under applicable law, then we may use it as described in "How We May Collect Other Information" section above, as well as for all the purposes for which we use and disclose Personal Information.
+
+We may disclose other information to publishers to allow them to analyze the effectiveness and performance of our service and to offer targeted ad incentory to our media buyers, and to media buyers to allow them to make decisions regarding buying advertising inventory on our publishers' websites and other websites and to analyze the effectiveness and performance of their advertising campaigns via our services.
+
+In some instances, we may combine Other Information with Personal Information (such as combining your name with your geographical location). If we combine any Other Information with Personal Information, the combined information will be treated by us as Personal Information as long as it is combined.
+
+SECURITY
+
+We seek to use reasonable organizational, technical and administrative measures to protect Personal Information within our organization. Unfortunately, no data transmission or storage system can be guaranteed to be 100% secure. If you have reason to believe that your interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised), please immediately notify us of the problem by contacting us in accordance with the "Contacting Us" section below.
+
+CHOICES AND ACCESS
+
+**Your choices regarding our use and disclosure of your Personal Information**
+
+We give you many choices regarding our use and disclosure of your Personal Information for marketing purposes. You may opt-out from: 
+
+  * **Receiving electronic communications from us** : If you no longer want to receive marketing related emails from us on a going-forward basis, you may opt-out of receiving these marketing related emails by contacting us at [privacy@pubmatic.com](mailto:privacy@pubmatic.com). 
+  * **Our sharing of your Personal Information with affiliates for their direct marketing purposes** : If you would prefer that we do not share your Personal Information on a going forward basis with our affiliates for their direct marketing purposes, you may opt-out of this sharing by contacting us at [privacy@pubmatic.com](mailto:privacy@pubmatic.com).
+
+
+
+We will try to comply with your request(s) as soon as reasonably practicable. Please also note that if you do opt-out of receiving marketing-related emails from us, we may still send you important administrative messages, and you cannot opt-out from receiving administrative messages.
+
+**How you can access, change or suppress your Personal Information**
+
+If you would like to review, correct, update, suppress, or delete Personal Information that has been previously provided to us by you, you may contact us at [privacy@pubmatic.com](mailto:privacy@pubmatic.com).
+
+In your request, please make clear what Personal Information you would like to have changed, whether you would like to have your Personal Information that you have provided to us suppressed from our database or otherwise let us know what limitations you would like to put on our use of your Personal Information that you have provided to us For your protection, we may only implement requests with respect to the Personal Information associated with the particular email address that you use to send us your request, and we may need to verify your identity before implementing your request. We will try to comply with your request as soon as reasonably practicable.
+
+Please note that we may need to retain certain information for recordkeeping purposes. There may also be residual information that will remain within our databases and other records, which will not be removed.
+
+RETENTION PERIOD
+
+We retain the information we collect for purposes of serving targeted advertisements to you (including the segment information that we receive from third parties) for up to 90 days, unless we have not received any segment data for a user for 30 days, in which case the data for that user is no longer retained at that point in time. We retain impression information for up to six months. We retain raw ad server logs for our mobile ad server business for up to 9 months. We use precise geolocation solely for the specific ad impression to which the geolocation relates, after which the geolocation is aggregated with other geolocation data for use by us for analytical purposes. If we aggregate the information we collect in connection with the information we collect for targeting advertising purposes, we may retain that aggregated information indefinitely.
+
+We will retain your Personal Information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or permitted by law.
+
+USE OF SERVICES BY MINORS
+
+PubMatic's advertising products and the Services are not intended for nor directed to individuals under the age of thirteen (13), and we request that these individuals do not provide Personal Information through the Services. 
+
+CROSS-BORDER TRANSFER
+
+The Services are controlled and operated by us from the United States, and are not intended to subject us to the laws or jurisdiction of any state, country or territory other than that of the United States. Your Personal Information may be stored and processed in any country where we have facilities and/or employees, or in which we engage service providers, and by using the Services you consent to the transfer of information to countries outside of your country of residence, including the United States, which may have different data protection rules than those of your country of residence.
 
 PUBMATIC'S SAFE HARBOR STATUS
 
-PubMatic adheres to the U.S. -EU Safe Harbor Framework and the U.S. -Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of PII from European Union member countries and Switzerland. PubMatic has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view PubMatic's certification, please visit <http://www.export.gov/safeharbor/>. In addition, you may view PubMatic’s Safe Harbor Notice located on this website.
+PubMatic adheres to the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding information received from affiliates and corporate customers in European Union member countries and Switzerland. PubMatic has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view PubMatic's certification, please visit <http://www.export.gov/safeharbor/>. In addition, you may view PubMatic's Safe Harbor Notice.
 
-CHILDREN UNDER 13 YEARS OF AGE
+SENSITIVE INFORMATION
 
-PubMatic's advertising products and the service are not intended for persons under 13 years of age, and are not intentionally developed for or directed to children. We do not knowingly solicit or collect any personally identifiable information from children under the age of 13, nor do we knowingly market our products or services to children under the age of 13.
+We ask that you not send us, and you not disclose, any sensitive Personal Information (e.g., social security numbers, information related to racial or ethnic origin, political opinions, religion or other beliefs, health, criminal background or trade union membership) on or through the Services or otherwise to us. 
 
-CHANGES TO PUBMATIC'S PRIVACY POLICY
+UPDATES TO THIS PRIVACY POLICY
 
-We may revise this Privacy Policy at any time. Any changes and updates to the Privacy Policy will be updated directly on this page. We encourage you to visit this page periodically to review our current Privacy Policy so that you will always know what information we gather and how we may use that information.
+We may change this Privacy Policy. Please take a look at the "LAST UPDATED" legend at the top of this page to see when this Privacy Policy was last revised. Any changes to this Privacy Policy will become effective when we post the revised Privacy Policy on the Services. Your use of the Services following these changes means that you accept the revised Privacy Policy.
 
 CONTACTING US
 
-Should you have any questions in regards to this Privacy Policy or PubMatic's privacy practices, please contact our representatives at the following email address and they will be more than happy to clarify and assist you in any way possible: [privacy@pubmatic.com](mailto:privacy@pubmatic.com?subject=Privacy), or by mail at:
+If you have any questions about this Privacy Policy or PubMatic's privacy practices, please contact us by email at [privacy@pubmatic.com](mailto:privacy@pubmatic.com), or by mail at:
 
-PubMatic, Inc.  
+**PubMatic, Inc.  
 c/o Privacy  
-305 Main Street, Suite 100  
-Redwood City, CA 94063  
+305 Main  
+Street, Suite 100  
+Redwood City, CA 94063**
 
+Please note that email communications are not always secure; so please do not include sensitive information in your emails to us.
