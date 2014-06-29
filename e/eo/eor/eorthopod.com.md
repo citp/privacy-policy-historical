@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eorthopod.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126132915id_/http%3A//www.eorthopod.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eorthopod.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629092044id_/http%3A//www.eorthopod.com/content/privacy) for the most accurate reproduction.*
 
 # Privacy | eorthopod.com
 
@@ -23,7 +23,3 @@ For each visitor to our Web page, our Web server automatically recognizes no inf
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically. 
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
-
-**Disclaimer**
-
-The information on this website is not intended to replace the advice or care from a healthcare provider. The information on this website is compiled from a variety of sources. It may not be complete or timely. It does not cover all diseases, physical conditions, ailments, or treatments. The information should NOT be used in place of visiting with your healthcare provider, nor should you disregard the advice of your healthcare provider because of any information you obtain on this website. Discuss any activities presented in this website with your healthcare provider before engaging in the activity.
