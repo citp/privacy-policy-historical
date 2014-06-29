@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trustlink.org privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207061029id_/http%3A//trustlink.org/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trustlink.org privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629041733id_/http%3A//www.trustlink.org/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -21,7 +21,7 @@ We will release personal information to appropriate parties under the following 
    
    
 Help Us Keep Your Personal Information Accurate  
-If your personal information changes, please email us at [privacy@trustlink.org](mailto:privacy@trustlink.org) with the new information, and, if appropriate, we will change your records. Let us also know the department that led your submission of personal information so we may efficiently locate your information.  
+10 If your personal information changes, please email us at [privacy@trustlink.org](mailto:privacy@trustlink.org) with the new information, and, if appropriate, we will change your records. Let us also know the department that led your submission of personal information so we may efficiently locate your information.  
    
 Computer Tracking and Cookies  
 Our web site is not set up to track, collect, or distribute personal information not entered by its visitors. Our site logs do generate certain kinds of non-identifying site usage data, such as the number of hits and visits to our site. This information is used for internal purposes by technical support staff to provide better services to the public and may also be provided to others, but again, the statistics contain no personal information and cannot be used to gather such information.  
