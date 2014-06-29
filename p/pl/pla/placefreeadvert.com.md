@@ -1,83 +1,100 @@
-> *The following text is extracted and transformed from the placefreeadvert.com privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217135149id_/http%3A//www.ipage.com/legal/legal_privacy.bml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the placefreeadvert.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629035311id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# iPage's Privacy Policy
+# Legal Agreement
 
-Your privacy is very important to iPage Hosting ("iPage"). We want to make your experience using our services and on the Internet as enjoyable and rewarding as possible, and we want you to use the Internet's vast array of information, tools and opportunities with complete confidence.
+**Go Daddy Respects Your Privacy**
 
-We have created this Privacy Policy to demonstrate our firm commitment to privacy and security. This Privacy Policy describes how iPage collects information from all end users of iPage's Internet services (the "Services") including those who access some of our Services but do not have accounts ("Visitors") as well as those who pay a service fee to subscribe to the Services ("Users"). We also describe what we do with the information we collect and the choices Visitors and Users have concerning the collection and use of such information. iPage requests that you read this Privacy Policy carefully.
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-  1. **Introduction.** iPage collects information in different ways from Visitors and Users who access the various parts of our Services and the network of websites accessible through our Services. We use this information primarily to provide a customized experience as you use our Services and, generally, do not share this information with third parties. However, we may disclose personal information collected if we have received your permission beforehand or in very special circumstances, such as when we believe that such disclosure is required or permitted by law or other special cases described below.
-  
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-  2. **Registration and Account Information.** Users are asked to provide certain personal information when they sign up for our Services including name, postal address, email address, telephone number, billing information (such as a credit card number), and the type of personal computer being used to access the Services. In addition, for domain registrations, Users may be asked to submit the above listed personal information for the registrant, administrative, technical and billing contacts of a domain name for submission to the appropriate domain registry or registration database (collectively, "Domain Name Registration Information"). Users are asked to complete an online form that collects information about demographics, product usage and preferences, along with other information that will help us improve our products and services. The personal information collected from Users through these forms is used to manage each User's account (such as for billing purposes) and provide Users with information about services that may be of interest to them. This information is not shared with third parties, unless specifically stated otherwise or in special circumstances. However, in instances where iPage and a partner jointly promote the Services, iPage may provide the partner certain personal information, such as the name, address, and username of persons who subscribed to the Services as a result of the joint promotion for the sole purpose of allowing us and the partner to assess the results of the promotion. In this instance, personal information may not be used by the partner for any other purpose. iPage may also generate non-identifying and aggregate profiles from personal information Users provide during registration (such as the total number, but not the names, of Users). As explained in more detail below, we may in certain instances use this aggregated and non-identifying information to sell advertisements that appear on the Services.
-  
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-  3. **Domain Registration.** In certain jurisdictions or pursuant to the rules of the Internet Corporation for Assigned Names and Numbers ("ICANN") or certain registries, Domain Name Registration Information legally has to be available to the public. Where Domain Name Registration Information is available to the public, anyone can access it through "WHOIS" searches. The WHOIS database is a publicly accessible database that lists the domain name and contact information of the registrant, adminitrative, and technical contacts for the domain name, the nameserver(s), and the domain name's creation and expiration date. The Domain Name Registration Information you provide is hosted by us and provided to the public. At times, our Users may receive solicitations that result from searches of the publicly available WHOIS database conducted by other companies or individuals. However, the solicitation and/or SPAM they receive do not in any way come from iPage and iPage does not control the use of WHOIS information by third parties. Further, pursuant to ICANN rules, iPage is required to make WHOIS data available to a third party that enters into a bulk access agreement. ICANN allows individuals to opt-out (using the account management panel, domain management console or similar service) of their WHOIS information being made available to third parties through bulk access; however, companies, businesses, and other organizations do not have the option to choose not to have their information made available to such a third party under a bulk access agreement. We may also deposit your Domain Name Registration Information with a third-party escrow provider to comply with ICANN requirements.
-  
+**Information Collection and Use**
 
-  4. **iPage Partners and Sponsors.** Some products and services are offered to Visitors and Users in conjunction with a partner (e.g., domain registration and for joint promotions, as described in paragraph 2 above). To provide Visitors and Users with some of these products and services, the partner may need to collect and maintain personal information. In these instances, we will provide such data collected or transferred to our Partners and Sponsors. Additionally, many iPage Users have co-branded pages that are co-sponsored by non-affiliated partners. iPage will share non-identifying and aggregate information (except as described above), but not personally identifiable information of individual Users, with such partners in order to administer the co-branded products or services offered.
-  
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
-  5. **Online Shopping.** At some websites that you access through links on iPage, you can purchase products and services or register to receive materials, such as a catalog or new product updates. In many cases, you may be asked to provide contact information, such as your name, address, email address, phone number, and credit/debit card information. If you complete an order for a Web site or service that is not provided by iPage, iPage has no control over the third parties' use of any personal information you provide when placing such an order and therefore we have no responsibility or liability for the manner in which the organizations that operate such linked websites may collect, use or disclose, secure and otherwise treat your personal information. Except as provided herein, we will not provide any of your personal information to these third parties without your consent. We provide links to these websites as a convenience to the User. Please exercise care when visiting linked websites. The linked websites have separate and independent privacy statements, notices and terms of use which we recommend you read carefully. If you order products directly from iPage, we will use the personal information you provide only to process that order. We do not share this information with outside parties except to the extent necessary to complete that order.
-  
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-  6. **Online Advertisements.** iPage does not share personally identifiable information about its individual Visitors or Users with advertisers. iPage may display online advertisements and may share aggregated and non-identifying information about our Visitors and Users collected through the registration process, as well as through online surveys and promotions with these advertisers. Additionally, in some instances, we use this aggregated and non-identifying information to deliver tailored advertisements. For instance, an advertiser tells us the audience they want to reach (for example, males between 25 and 55 years of age) and provides us an advertisement tailored to the audience. Based upon the aggregated and non-identifying information we have collected, we may then display the advertisement to the intended audience.
-  
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-  7. **Responses to Email Inquiries.** When Visitors or Users send email inquiries to iPage, the return email address (and other personal information provided in the inquiry) is used to answer the email inquiry we receive. iPage does not use the return email address for any other purpose and does not share the return email address with any third party.
-  
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-  8. **Voluntary Customer Surveys.** We may periodically conduct both business and individual customer surveys. We encourage our Users to participate in these surveys because they provide us with important information that helps us to improve the types of services we offer and how we provide them to you. Your personal information and responses will remain strictly confidential, even if the survey is conducted by a third party. Participation in our customer surveys is voluntary. We take the information we receive from individuals responding to our Customer Surveys and combine (or aggregate) it with the responses of other iPage Users to create broader, generic responses to the survey questions (such as gender, age, residence, hobbies, education, employment, industry sector, or other demographic information). We then use the aggregated information to improve the quality of our services to you, and to develop new services and products. This aggregated, non-personally identifying information may be shared with third parties. Unless otherwise noted in the survey invitation or the survey itself, Users have the option of completing surveys anonymously or providing us with contact information. We may use the contact information to follow up with Users based on the answers they provide. We may also contact you to highlight the changes we have made in response to feedback. 
-  
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-  9. **Service Providers.** We may transfer (or otherwise make available) your personal information to our affiliates and other third parties who provide services on our behalf. For example, as discussed above, we may use service providers to authorize and process payments, administer surveys, and run our promotions. Your personal information may be maintained and processed by our affiliates and other third party service providers in the US or other jurisdictions. Our service providers are given the information they need to perform their designated functions, and we do not authorize them to use or disclose personal information for their own marketing or other purposes. 
-  
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-  10. **Sale of Business.** We may transfer your personal information as an asset in connection with a merger or sale (including transfers made as part of insolvency or bankruptcy proceedings) involving all or part of iPage as part of a corporate reorganization or stock sale or other change in corporate control. iPage may share personally identifiable information with other entities that are owned by iPage or that own iPage or that have some sort of corporate ownership relationship with iPage.
-  
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
-  11. **Special Cases.** It is iPage's policy not to use or share the personal information about Visitors of Users in ways unrelated to the ones described above without your consent. However, iPage, or our service providers, may disclose personal information about Visitors or Users, or information regarding your use of the Services or websites accessible through our Services, for any reason, in our sole discretion to comply with US, Canadian or other laws, such as the Electronic Communications Privacy Act, regulations, or governmental or legal requests or demands for such information; in response to a search warrant or other legally valid inquiry or order; to an investigative body in the case of a breach of an agreement or contravention of law; to disclose information that is necessary to identify, contact, or bring legal action against someone who, for example, may be violating our Acceptable Use Policy or other user policies; to operate the Services properly; to protect iPage and our Users; or as otherwise permitted or required by law.
-  
+**Security**
 
-  12. **"Cookies" and How iPage Uses Them.** A "cookie" is a small data file that can be placed on your hard drive when you visit certain websites. iPage may use cookies to collect, store, and sometimes track information for statistical purposes to improve the products and services we provide and to manage our telecommunications networks.. These cookies do not enable third parties to access any of your User information. You may set your Web browser to notify you when you receive a cookie. However, if you decide not to accept cookies, you may not be able to take advantage of all of the features of our Web site. Additionally, be aware that if you visit non-iPage websites where you are prompted to log in or that are customizable, you may be required to accept cookies. Advertisers and partners may also use their own cookies. We do not control use of these cookies and expressly disclaim responsibility for information collected through them. In addition, iPage utilizes cookies to track referrals from internal and external affiliates, as well as advertising campaigns.
-  
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
-  13. **iPage Statistics.** We use information gathered from our site statistics (for example, User IP addresses) to help diagnose problems with our servers, and to administer our Web site. We also gather broad demographic information from this data to help us improve our site and make your browsing and purchasing experience more enjoyable. 
-  
+**Updating Your Information**
 
-  14. **Public Forums.** Please remember that any information you may disclose in our User Directory, Spotlights/case studies, testimonials, Forums, or other public areas of our websites or the Internet, becomes public information. You should exercise caution when deciding to disclose personal information in these public areas.
-  
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
-  15. **iPage's Commitment to Data Security.** We have implemented measures designed to protect personal information in our custody and control. We maintain reasonable administrative, technical and physical safeguards in an effort to protect against unauthorized access, use, modification and disclosure of personal information in our custody and control. Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while we strive to protect your personally identifiable information, you acknowledge that: (a) there are security and privacy limitations of the Internet which are beyond our control; (b) the security, integrity and privacy of any and all information and data exchanged between you and us through this site cannot be guaranteed; and (c) any such information and data may be viewed or tampered with in transit by a third party, despite our best efforts. 
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-Your online access to certain personal information may be protected with a password you select. We strongly recommend that you do not disclose your password to anyone. We will never ask you for your password in any unsolicited communication (such as letters, phone calls or email messages).
+       ii.      You may send mail to Go Daddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-Data related to the services will be maintained in the US. We have personal information retention processes designed to retain personal information of our customers for no longer than necessary for the purposes stated above or to otherwise meet legal requirements.
+      iii.      You may call us at: (480) 505-8800
 
-  
+       iv.      You may fax us at: (480) 505-8844
 
-  16. **How to Access or Modify Your Information.** You have the right to access, update, and correct inaccuracies in your personal information in our custody and control, subject to certain exceptions prescribed by law. You may request access, updating and corrections of inaccuracies in your personal information we have in our custody or control by accessing your personal profile in your account or by contacting support via email, phone or online chat. We may request certain personal information for the purposes of verifying the identity of the individual seeking access to their personal information records. 
+**Sending Emails**
 
-To ensure you receive the information you need to manage your account and protect your privacy, please be sure to keep your contact and billing information up to date. You can update all account-related information directly through your Control Panel. Alternatively, you can contact iPage Support by phone or through our online support form.
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-  
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-  17. **Where to Direct Questions About iPage's Privacy Policy.** If you have any questions about this Privacy Policy or the practices described herein, you may contact: User Service, iPage Hosting, 10 Corporate Dr. Suite 300, Burlington, MA 01803 or support@ipage-inc.com.
-  
+**Compliance with Laws and Law Enforcement**
 
-  18. **Unsubscribe**
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-When you become a User of iPage, you are automatically subscribed to receive notices about your account, email newsletters and news of special promotions offered through iPage and/or in conjunction with partners.
+**Third Party Service Providers**
 
-To unsubscribe from iPage newsletters and promotional mailings, please update your preferences with our subscription settings tool or email us at [iPage Support](https://web.archive.org/support/). If you would like to cancel a iPage membership completely, please contact iPage Support through our online support form or call us at 877-472-4399.
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
-Please note: iPage reserves the right to send you email communications that relate directly to your account.
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
-  
+**Supplementation of Information**
 
-  19. **Revisions to This Policy.** iPage reserves the right to revise, amend, or modify this policy, and our other policies and agreements at any time and in any manner. Notice of any revision, amendment, or modification will be posted in accordance with the Terms of Service.
-  
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
 
+**Contests/Surveys**
 
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
 
-This file was last modified June 21, 2013. [View comparison version.](https://web.archive.org/web/20131217135149id_/http%3A//www.ipage.com/legal/legal_privacy.bml?showchanges=1)
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+
+**Tell-A-Friend**
+
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+
+**What Happens to my Personal Information if I Opt Out?**
+
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+
+**Transfer of Data Abroad**
+
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+
+**Changes in Our Practices**
+
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+
+**Contacting Our Site**
+
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+
+* * *
+
+Go Daddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
