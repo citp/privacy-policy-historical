@@ -1,11 +1,12 @@
-> *The following text is extracted and transformed from the paloaltoonline.com privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817195612id_/http%3A//paloaltoonline.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paloaltoonline.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629184315id_/http%3A//paloaltoonline.com/about/privacy_policy) for the most accurate reproduction.*
 
-# Palo Alto Online: Privacy Policy
+# Privacy Policy | Palo Alto Online |
 
-Last updated:  Wednesday, March 7, 2007 11:27 AM
+_Last updated: Tuesday, February 11, 2014 2:01 PM_
 
-**Privacy Policy   
-**We respect the privacy of the personal information you give us, such as your name, street address, telephone number and e-mail address, and other personal information you may provide. The following policy is intended to explain how we treat this information. This policy may change from time to time. 
+### Privacy Policy 
+
+We respect the privacy of the personal information you give us, such as your name, street address, telephone number and e-mail address, and other personal information you may provide. The following policy is intended to explain how we treat this information. This policy may change from time to time. 
 
 **Traffic data**   
 Each time a visitor comes to our web site, our servers collect some basic technical information, including, for example, the visitor's domain name (i.e., the ISP from which the user is logged on). We use software to keep track of traffic to our sites and derive such information as the location from which the traffic originates and which particular pages within the site are being viewed. After we analyze this information, we discard it. We may aggregate information about visitors and traffic and may share the results with advertisers. We will not disclose your individual identity or personally identifiable data that you supply us without your permission. It will only be used for us to contact you. 
@@ -15,8 +16,13 @@ A cookie is a small amount of data that is sent to your browser from a Web serve
 
 Other companies that place advertising on our site also have the ability to assign their cookies to you if you visit their sites. This is a process that we do not control.
 
+Additionally, we use services which employ cookies to gather 3rd-party audience data (such as age, gender, and interests), interest-based advertising or information. We do not participate in personally-identifiable information nor do we merge information to build such data repositories.
+
 **E-bulletins**  
 If you sign up to receive e-bulletins from PaloAltoOnline.com, you may also receive infrequent other announcements from us. Users can choose to unsubscribe from any new mailing lists we create (opt-out) at any time by following the unsubscribe instructions found in each e-mail. 
+
+**Site Registration**  
+If you sign up to become a member of PaloAltoOnline.com, your personally identifiable information (such as name, address, phone number, email address) will be stored in our database. We will not disclose your individual identity or personally identifiable data that you supply us without your permission, except as required by law. 
 
 **Surveys**   
 We may conduct voluntary surveys of visitors to the site to collect certain demographic information. This information may be compiled and shared in the aggregate with advertisers and other third parties, but no personal details will be traceable or associated with specific individuals. We may use the e-mail address you provided us for the distribution of other announcements. Users can choose to unsubscribe (opt-out) from any mailing lists we create at any time by following the unsubscribe instructions found in each e-mail. 
