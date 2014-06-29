@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zohocreator.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626094501id_/http%3A//www.zoho.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zohocreator.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629185651id_/https%3A//www.zoho.com/privacy.html) for the most accurate reproduction.*
 
 # Zoho - Privacy Policy
 
@@ -13,7 +13,7 @@ At ZOHO Corporation, we respect your need for online privacy and protect any Per
 
 ZOHO Corporation is a Licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build users’ trust and confidence in the internet by promoting the use of fair information practices. As a testament of our commitment to your privacy, we have elected to disclose our information practices and have our privacy practices reviewed for compliance by TRUSTe. Please direct all your inquiries pertaining to this Privacy Policy Statement or the service to us at the contact information below.
 
-Mailing Address: 4900 Hopyard Road, Suite 310, Pleasanton, California (CA) 94588. We can be reached via e-mail at [privacy@zohocorp.com](mailto:privacy@zohocorp.com) or you can reach Zoho Customer Support Services by telephone at 888 900 9646.
+Mailing Address: 4141 Hacienda Drive, Pleasanton, California (CA) 94588. We can be reached via e-mail at [privacy@zohocorp.com](mailto:privacy@zohocorp.com) or you can reach Zoho Customer Support Services by telephone at 888 900 9646.
 
 ZOHO Corporation complies with the provisions of the U.S-E.U Safe Harbor framework as set forth by the United States Department of Commerce, with regards to the collection, use and storage of Personal Information received from the European Union. For more information about the U.S-E.U Safe Harbor framework kindly visit <http://export.gov/safeharbor/>.
 
