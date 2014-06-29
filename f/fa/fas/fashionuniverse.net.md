@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fashionuniverse.net privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201084450id_/http%3A//www.fashionuniverse.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashionuniverse.net privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629102315id_/http%3A//www.fashionuniverse.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -26,4 +26,4 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites. 
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at **hassaan747@hotmail.com.  **
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at **pakistan_clothes@yahoo.com.  **
