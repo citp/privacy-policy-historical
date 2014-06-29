@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fsf.org privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224205735id_/http%3A//my.fsf.org/donate/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fsf.org privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629113740id_/http%3A//my.fsf.org/donate/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy -
 
@@ -24,6 +24,8 @@ If you're not using "Do Not Track" and you would rather that we don't record you
 ### Customer Information
 
 All information related to financial transactions and member logins is handled through a secure connection.
+
+The FSF does not store credit card numbers on our servers. We retain only the last 4 digits of the card.
 
 ### Sales
 
