@@ -1,569 +1,627 @@
-<!--The following is the downloaded HTML source of the myenglishteacher.eu privacy policy that was archived on 2012-12-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121209225956id_/http%3A//www.myenglishteacher.eu/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the myenglishteacher.eu privacy policy that was archived on 2014-06-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140629081036id_/http%3A//www.myenglishteacher.eu/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-		<title>MyEnglishTeacher.eu Adatkezelési nyilatkozata</title>
-        <link rel="shortcut icon" href="/templates/template/http://www.myenglishteacher.eu/templates/template/img/favico.ico">
-                <!-- base href="http://myenglishteacher.eu/" -->
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<meta name="language" content="en">
-		<meta name="description" content="Ezt fogadod el, amikor angol tanárként regisztrálsz">
-		<meta name="keywords" content="adatkezelési nyilatkozat">
-		<meta name="robots" content="index, follow">
-		<meta name="revisit-after" content="3 Days">
-		<meta name="author" content="Stylers Menedzsment Csoport">
-		<meta name="copyright" content="">
-		<meta name="MADE" content="stylers@stylers.hu">
-		<meta name="GENERATOR" content="STYLERS CMS.">
-		<meta name="rating" content="general">
-		<meta name="distribution" content="global">
+<!DOCTYPE html><html lang="en-US" xmlns:fb="http://ogp.me/ns/fb#" xmlns:addthis="http://www.addthis.com/help/api-spec" prefix="og: http://ogp.me/ns#" class=" html_stretched responsive fixed_header "><head>
+<meta charset="UTF-8">
+<link rel="shortcut icon" href="http://www.myenglishteacher.eu/wp-content/themes/enfold/images/layout/favicon.png">
 
-                <script language="javascript" src="http://www.myenglishteacher.eu/templates/template/js/jquery-1.6.2.min.js" type="text/javascript"></script>
+<title>Privacy Policy - Online English Teacher - MyEnglishTeacher.eu</title>
 
-		<script language="javascript" src="http://www.myenglishteacher.eu/templates/template/js/jquery.equalheights.js" type="text/javascript"></script>
-		<script language="javascript" src="http://www.myenglishteacher.eu/templates/template/js/jquery.jcarousel.min.js" type="text/javascript"></script>
-		<link rel="stylesheet" type="text/css" href="http://www.myenglishteacher.eu/templates/template/css/style.css" media="all">
-		<link rel="stylesheet" type="text/css" href="http://www.myenglishteacher.eu/templates/template/css/print.css" media="print">
-        <script language="javascript" src="http://www.myenglishteacher.eu/templates/template/js/common.js" type="text/javascript"></script>
-        <link rel="stylesheet" type="text/css" href="http://www.myenglishteacher.eu/templates/template/css/layout.css" media="screen, print">
-		<script type="text/javascript">var base_url = 'http://www.myenglishteacher.eu/';</script>
-
-                
-		<script type="text/javascript">
-
-                     
-
-                    /******************* FORMOK ALAPERTEKEINEK KEZELESE *********************/
-
-                    // hibas, invalid form postolasi probalkozasa (return false;) utan hivd meg ezt a fugvenyt,
-                    // mert visszateszi a defaul value-kat a formokba
-                    formsBack = function() {
-                        $('input').each(function(){
-                            if( $(this).attr('type') == 'text' || $(this).attr('type') == 'password' ) {
-                                if($(this).val() == '') {
-                                    $(this).val($(this).attr('dvalue'));
-                                }
-                            }
-                        });
-                    }
-
-                    $(document).ready(function(){
-
-                        // defualt-valuek a valuebol lesznek vagy irast bele a template-ben az inputhoz egy 'dvalue="alapertek"' -et,
-                        // ha nem teszd meg, akkor ez a script automatikusan belerakja azt, ami van
-                        $('input').each(function(){
-                            if( $(this).attr('type') == 'text' || $(this).attr('type') == 'password' ) {
-                                if( $(this).attr('dvalue') == undefined ){
-                                    $(this).attr('dvalue', $(this).val() );
-                                    $(this).attr('dcolor', $(this).css('color'));
-                                }
-                            }
-                        });
-
-                        // formok postolasanal az alapertekeket kiszedem, hogy ne kuldje el
-                        // pl. Ország nevü orszag ugy hincs, vagy nincs 'Ird be a neved!' nevü ember sem
-                        $('form').each(function(){
-                            $(this).submit(function(){
-                                $('input').each(function(){
-									if( $(this).attr('fixed') != undefined ) {
-										return;
-									}
-                                    else if( ($(this).attr('type') == 'text' || $(this).attr('type') == 'password') ) {
-                                        if($(this).attr('dvalue') == $(this).val()){
-                                            $(this).val('');
-                                        }
-                                    }
-                                });
-                            });
-                        });
-
-                        // ha alapertek van akkor azt kiszedjuk az inputbol,
-                        // ill. fekete szinre valtunk a bevitelhez
-                        $('input').bind('click focus', function(){
-                            if( $(this).attr('type') == 'text' || $(this).attr('type') == 'password' ) {
-                                if($(this).val() == $(this).attr('dvalue')){
-                                    $(this).val('');
-                                }
-                                $(this).css('color', 'black');
-                            }
-                        });
-
-                        // ha kiklikkel az inputbol, de nem irt be semmit,
-                        // akkor az visszaall az alapertek
-                        $('input').bind('blur', function(){
-                            if( $(this).attr('type') == 'text' || $(this).attr('type') == 'password' ) {
-                                if($(this).val() == ''){
-                                    $(this).val($(this).attr('dvalue'));
-                                    $(this).css('color', $(this).attr('dcolor'));
-                                }
-                            }
-                        });
-
-                    });
-                    
-                    
-                    /*
-                     *feliratkozos form validalas:
-                     */
-                    var feliratkozoform_error = false;
-                    $(function(){
-                        $('form.feliratkozoform input[type=submit]').click(function(){
-                            feliratkozoform_error = false;
-                            $('form.feliratkozoform input[type=text]').each(function(){
-                                if($(this).val()=='') feliratkozoform_error = true;
-                            });
-                            if(feliratkozoform_error) {
-                                alert('All fields are required!');
-                                return false;
-                            }
-                        });
-                    });
-
-                    /**************************** FORMOK ALAPERTEKKEZELESENEK VEGE *************************/
-                    
-                    $(function(){
-                       $('.header .inner').css('background-image', 'url(templates/template/gfx/headerInnerBg_nogaleryscroll.png)');
-                    });
-
-		</script>
-                
-
-	<!-- Start Kampyle Css -->
-<link rel="stylesheet" type="text/css" media="screen" href="http://cf.kampyle.com/k_button.css">
-<!-- End Kampyle Css -->
-<!--Start Kampyle Exit-Popup Code-->
-<script type="text/javascript">
-    
-var k_push_vars = {
-    "display_after_on_page": 90,
-    "display_after": 0,
-	"view_percentage": 40,
-	"popup_font_color": "#000000",
-	"popup_background": "#ffffff",
-	"popup_separator": "#D4E2F0",
-	"header": "Your feedback is important to us!",
-	"question": "Would you be willing to give us a short (1 minute) feedback?",
-	"footer": "Thank you for helping us improve our website",
-	"remind": "Remind me later",
-	"remind_font_color": "#3882C3",
-	"yes": "Yes",
-	"no": "No",
-	"text_direction": "ltr",
-	"images_dir": "http://cf.kampyle.com/",
-	"yes_background": "#76AC78",
-	"no_background": "#8D9B86",
-	"site_code": 2203241
-}
-
-</script>
-<!--End Kampyle Exit-Popup Code-->
-
-	</head>
-	<body>
-
-		<div class="wrapper">
-
-
-<!-- HEADER -->
-			<div class="header light">
-				<div class="inner">
-
-		<!-- LOGO -->
-					<p class="logo" style="margin-top: 15px; background-image: url(http://www.myenglishteacher.eu/templates/template/gfx/logo.png); background-repeat: no-repeat;">
-						<a href="http://www.myenglishteacher.eu/">Vissza a főoldalra</a>
-					</p>
-		<!-- / LOGO -->
-
-		
-<form class="login" method="POST" action="http://www.myenglishteacher.eu/myprofile">
-	<input type="text" name="login_mail" value="Email address">
-	<input type="password" name="login_pass" value="Password">
-	<input type="submit" value="Login">
-	<input type="hidden" name="user_login" value="true">
-	<p>
-		<a href="http://www.myenglishteacher.eu/sign_up">Sign up</a><br>
-		<a href="http://www.myenglishteacher.eu/forgot_password">Forgot your password?</a>
-	</p>
-</form>
-
-		<!-- LANGMENU -->
-					<ul class="langMenu">
-						<li><a href="en">EN</a> | </li>
-						<!-- <li><a href="de">DE</a> | </li> -->
-						<li><a href="hu">HU</a></li>
-					</ul>
-                                        <script type="text/javascript">
-                                            
-
-                                            function getCookie(c_name)
-                                            {
-                                            var i,x,y,ARRcookies=document.cookie.split(";");
-                                            for (i=0;i<ARRcookies.length;i++)
-                                            {
-                                              x=ARRcookies[i].substr(0,ARRcookies[i].indexOf("="));
-                                              y=ARRcookies[i].substr(ARRcookies[i].indexOf("=")+1);
-                                              x=x.replace(/^\s+|\s+$/g,"");
-                                              if (x==c_name)
-                                                {
-                                                return y;
-                                                }
-                                              }
-                                            }
-
-                                            $(document).ready(function(){
-
-                                                var ende = location.href.substr( location.href.length-3 );
-                                                if(ende == '/en' || ende == '/de' || ende == '/hu'){
-                                                    //history.back();
-                                                    back = getCookie('location_back');
-                                                    if(back!='undefined') {
-                                                        back_ende = back.substr(back.length-3);
-
-					// ha a profil oldalon vagyunk, akkor más az ende
-					if ( location.href.indexOf('profile') > 0) {
-
-back_ende = location.href.substr( location.href.length-3 );
-
-}
-
-
-					
-
-                                                if(back_ende == '/en' || back_ende == '/de' || back_ende == '/hu'); else{
-                          
-							window.location.href = back;
-                                                }
-                                            }
-                                        }
-                                                
-                                                
-                                                    
-                                                    if(ende == '/en' || ende == '/de' || ende == '/hu'); else{
-                                                        document.cookie = 'location_back='+location.href;
-                                                    }
-                                                
-                                            });
-                                            
-                                        </script>
-
-
-		<!-- / LANGMENU -->
+<link rel="stylesheet" href="http://www.myenglishteacher.eu/wp-content/plugins/sitepress-multilingual-cms/res/css/language-selector.css?v=3.1.5" type="text/css" media="all">
+<!-- page title, displayed in your browser bar -->
 
 
 
+<!-- add feeds, pingback and stuff-->
+<link rel="profile" href="http://gmpg.org/xfn/11">
+<link rel="alternate" type="application/rss+xml" title="MyEnglishTeacher.eu RSS2 Feed" href="http://www.myenglishteacher.eu/feed/">
+<link rel="pingback" href="http://www.myenglishteacher.eu/xmlrpc.php">
 
-		<!-- TOPMENU -->
-					<ul class="topMenu">
-						
-<li>
- <a href="http://www.myenglishteacher.eu/angoltanarok" title="Search for an English teacher">
-  Teacher Search </a>
-</li>
-<li>
- <a href="http://www.myenglishteacher.eu/angol-oktatas" title="Teach English - We help you to get students">
-  For Teachers </a>
-</li>
-<li>
- <a href="http://www.myenglishteacher.eu/blog" title="Easy way to share how you learn or teach English">
-  Blog </a>
-</li>
-<li>
- <a href="http://www.myenglishteacher.eu/about_us" title="About us">
-  About us </a>
-</li>
+<!-- mobile setting -->
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
 
-					</ul>
-		<!-- TOPMENU -->
-
-				</div>
-			</div>
-<!-- / HEADER -->
-
-
-
-<!-- GALLERY -->
-			<div class="gallery empty">
-				<div class="inner">
-					&nbsp;
-				</div>
-			</div>
-<!-- / GALLERY -->
-
-
-
-
-
-<!-- CONTENT -->
-			<div class="content light">
-				<div class="inner">
-	<!-- LEFTSIDE -->
-					<div class="leftSide">
-
-                                                
-
-<h2 class="old_h1"></h2>
-<!-- lead -->
-            
-<!-- description -->
-                        
-<div class="hr">&nbsp;</div>
-
-<div style="clear:both;"></div>
-<br>
-<div style="background-color: #f5efe8;">
-
-<h3 style="background-color: transparent;
-color: #A5722B;
-display: block;
-font-family: Verdana, Arial, sans-serif;
-font-size: 17px;
-font-weight: normal;
-height: 20px;
-margin-bottom: 0px;
-margin-left: 15px;
-margin-right: 0px;
-margin-top: 0px;
-padding-bottom: 12px;
-padding-left: 0px;
-padding-right: 0px;
-padding-top: 15px;
-width: 187px;">Recommend this site</h3>
-
-<p style="color:red; padding-bottom:0px; text-align: center;" id="ajanlo_hiba"></p>
-
-<form method="post" action="" id="ajanlo" style="margin-left: 15px;
-margin-right: 15px;">
-    <input type="text" name="ajanlo[nev]" id="ajanlo_nev" value="Your name" style="width: 271px;">
-    <input type="text" name="ajanlo[email]" id="ajanlo_email" value="Recipient's e-mail" style="width: 271px;">
-
-    <div style="text-align: center; padding-bottom: 15px;">
-        <input type="submit" value="Send">
-        
-    </div>
-    
-</form>
-
-</div>
-
-<script type="text/javascript">
-    
-    $(document).ready(function(){
-        $('#ajanlo').submit(function(){
-            var hiba = false;
-            if($('#ajanlo_nev').val()=='')hiba = 'Enter your name!';
-            if($('#ajanlo_email').val()=='')hiba = 'Enter your friend`s e-mail address!';
-            if(hiba){
-                $('#ajanlo_hiba').show();
-                $('#ajanlo_hiba').html(hiba);
-                formsBack();
-                return false;
-            }
-        });
-    });
-    
+<script id="facebook-jssdk" src="//connect.facebook.net/hu_HU/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+	window.google_analytics_uacct = "UA-22745980-1";
 </script>
 
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.5.3.3 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="http://www.myenglishteacher.eu/privacy-policy/">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Privacy Policy - Online English Teacher - MyEnglishTeacher.eu">
+<meta property="og:description" content="What information do we collect? We collect information from you when you subscribe to our newsletter, fill out a form or purchase English lessons. When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, credit card information or Shipping address. You may, however, visit our site …">
+<meta property="og:url" content="http://www.myenglishteacher.eu/privacy-policy/">
+<meta property="og:site_name" content="MyEnglishTeacher.eu">
+<meta property="article:publisher" content="https://www.facebook.com/myenglishteachers">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@myenglishteache">
+<meta name="twitter:domain" content="MyEnglishTeacher.eu">
+<meta name="twitter:creator" content="@myenglishteache">
+<!-- / Yoast WordPress SEO plugin. -->
 
-					</div>
-	<!-- / LEFTSIDE -->
+<link rel="alternate" type="application/rss+xml" title="MyEnglishTeacher.eu » Feed" href="http://www.myenglishteacher.eu/feed/">
+<link rel="alternate" type="application/rss+xml" title="MyEnglishTeacher.eu » Comments Feed" href="http://www.myenglishteacher.eu/comments/feed/">
 
+            <script type="text/javascript">//<![CDATA[
+            // Google Analytics for WordPress by Yoast v4.3.5 | http://yoast.com/wordpress/google-analytics/
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-22745980-1']);
+				            _gaq.push(['_setCustomVar',2,'post_type','page',3],['_setCustomVar',3,'author','ana',3],['_setCustomVar',4,'year','2014',3],['_trackPageview']);
+            (function () {
+                var ga = document.createElement('script');
+                ga.type = 'text/javascript';
+                ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
 
-	<!-- RIGHTSIDE -->
-					<div class="rightSide">
-						<div class="whiteBox">
+                var s = document.getElementsByTagName('script')[0];
+                s.parentNode.insertBefore(ga, s);
+            })();
+            //]]></script>
+			<link rel="alternate" type="application/rss+xml" title="MyEnglishTeacher.eu » Privacy Policy Comments Feed" href="http://www.myenglishteacher.eu/privacy-policy/feed/">
+<link rel="stylesheet" id="avia-media-style-css" href="http://www.myenglishteacher.eu/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/css/avia-media.css?ver=3.9.1" type="text/css" media="all">
+<link rel="stylesheet" id="output-css" href="http://www.myenglishteacher.eu/wp-content/plugins/addthis/css/output.css?ver=3.9.1" type="text/css" media="all">
+<link rel="stylesheet" id="dwqa-style-css" href="http://www.myenglishteacher.eu/wp-content/plugins/dw-question-answer/inc/templates/default/assets/css/style.css?ver=1389254729" type="text/css" media="all">
+<link rel="stylesheet" id="go_pricing_styles-css" href="http://www.myenglishteacher.eu/wp-content/plugins/go_pricing/assets/css/go_pricing_styles.css?ver=2.1" type="text/css" media="all">
+<link rel="stylesheet" id="go_pricing_jqplugin-mediaelementjs-css" href="http://www.myenglishteacher.eu/wp-content/plugins/go_pricing/assets/plugins/js/mediaelementjs/mediaelementplayer.min.css?ver=2.1" type="text/css" media="all">
+<link rel="stylesheet" id="go_pricing_jqplugin-mediaelementjs-skin-css" href="http://www.myenglishteacher.eu/wp-content/plugins/go_pricing/assets/plugins/js/mediaelementjs/skin/mediaelementplayer.css?ver=2.1" type="text/css" media="all">
+<link rel="stylesheet" id="jquery-pin-it-button-style-css" href="http://www.myenglishteacher.eu/wp-content/plugins/jquery-pin-it-button-for-images/css/style.css?ver=1.35a" type="text/css" media="all">
+<link rel="stylesheet" id="avia-wpml-css" href="http://www.myenglishteacher.eu/wp-content/themes/enfold/config-wpml/wpml-mod.css?ver=3.9.1" type="text/css" media="all">
+<link rel="stylesheet" id="avia-grid-css" href="http://www.myenglishteacher.eu/wp-content/themes/enfold/css/grid.css?ver=1" type="text/css" media="screen">
+<link rel="stylesheet" id="avia-base-css" href="http://www.myenglishteacher.eu/wp-content/themes/enfold/css/base.css?ver=1" type="text/css" media="screen">
+<link rel="stylesheet" id="avia-layout-css" href="http://www.myenglishteacher.eu/wp-content/themes/enfold/css/layout.css?ver=1" type="text/css" media="screen">
+<link rel="stylesheet" id="avia-scs-css" href="http://www.myenglishteacher.eu/wp-content/themes/enfold/css/shortcodes.css?ver=1" type="text/css" media="screen">
+<link rel="stylesheet" id="avia-prettyP-css" href="http://www.myenglishteacher.eu/wp-content/themes/enfold/js/prettyPhoto/css/prettyPhoto.css?ver=1" type="text/css" media="screen">
+<link rel="stylesheet" id="avia-media-css" href="http://www.myenglishteacher.eu/wp-content/themes/enfold/js/mediaelement/skin-1/mediaelementplayer.css?ver=1" type="text/css" media="screen">
+<link rel="stylesheet" id="avia-dynamic-css" href="http://www.myenglishteacher.eu/wp-content/uploads/dynamic_avia/enfold.css?ver=1" type="text/css" media="screen">
+<link rel="stylesheet" id="avia-custom-css" href="http://www.myenglishteacher.eu/wp-content/themes/enfold/css/custom.css?ver=1" type="text/css" media="screen">
+<link rel="stylesheet" id="LoginRadius-plugin-frontpage-css-css" href="http://www.myenglishteacher.eu/wp-content/plugins/loginradius-for-wordpress/css/loginRadiusStyle.css?ver=4.0.0" type="text/css" media="all">
+<script type="text/javascript" src="http://www.myenglishteacher.eu/wp-includes/js/jquery/jquery.js?ver=1.11.0"></script>
+<script type="text/javascript" src="http://www.myenglishteacher.eu/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
+<script type="text/javascript" src="http://www.myenglishteacher.eu/wp-content/plugins/pippity/js/pippity.js?ver=3.9.1"></script>
+<script type="text/javascript" src="http://www.myenglishteacher.eu/wp-content/plugins/go_pricing/assets/js/go_pricing_scripts.js?ver=2.1"></script>
+<script type="text/javascript" src="http://www.myenglishteacher.eu/wp-content/plugins/go_pricing/assets/plugins/js/mediaelementjs/mediaelement-and-player.min.js?ver=2.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var jpibfi_options = {"imageSelector":"div.jpibfi_container img","disabledClasses":"nopin;wp-smiley","enabledClasses":"","descriptionOption":"1","usePostUrl":"0","minImageHeight":"0","minImageWidth":"0","siteTitle":"MyEnglishTeacher.eu","buttonPosition":"0","debug":"0","containerSelector":"div","pinImageHeight":"41","pinImageWidth":"65","buttonMarginTop":"20","buttonMarginBottom":"20","buttonMarginLeft":"20","buttonMarginRight":"20"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.myenglishteacher.eu/wp-content/plugins/jquery-pin-it-button-for-images/js/script.min.js?ver=1.35a"></script>
+<script type="text/javascript" src="http://www.myenglishteacher.eu/wp-content/themes/enfold/js/avia-compat.js?ver=1"></script>
+<script type="text/javascript" src="http://www.myenglishteacher.eu/wp-content/plugins/sitepress-multilingual-cms/res/js/jquery.cookie.js?ver=3.1.5"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wpml_browser_redirect_params = {"pageLanguage":"en","languageUrls":{"en_US":"http:\/\/www.myenglishteacher.eu\/privacy-policy\/","en":"http:\/\/www.myenglishteacher.eu\/privacy-policy\/","US":"http:\/\/www.myenglishteacher.eu\/privacy-policy\/"},"cookie":{"name":"_icl_visitor_lang_js","domain":"www.myenglishteacher.eu","path":"\/","expiration":24}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.myenglishteacher.eu/wp-content/plugins/sitepress-multilingual-cms/res/js/browser-redirect.js?ver=3.1.5"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.myenglishteacher.eu/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.myenglishteacher.eu/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 3.9.1">
+<link rel="shortlink" href="http://www.myenglishteacher.eu/?p=1116">
 
-							
-							
-														
-	<h1 class="old_h2">Privacy Policy Statement of Myenglishteacher.eu</h1>
+<!-- This site is using AdRotate v3.9.15 to display their advertisements - http://www.adrotateplugin.com/ -->
+<!-- AdRotate JS -->
+<script type="text/javascript">
+var tracker_url = 'http://www.myenglishteacher.eu/wp-content/plugins/adrotate/library/clicktracker.php';
+</script>
+<!-- /AdRotate JS -->
 
-	<br>
+<script type="text/javascript">
+				pippity_globals = function(jQuery){
+				window.$j = jQuery;
+				window.PTY_URL = "http://www.myenglishteacher.eu/wp-content/plugins/pippity";
+				window.PTY_DOM = "www.myenglishteacher.eu";
+				window.PTY_AJAX = "http://www.myenglishteacher.eu/wp-admin/admin-ajax.php";
+				window.PTY_ADM = "http://www.myenglishteacher.eu/wp-admin/admin.php?page=";
+				window.PTY_PAGE = "";
+				window.PTY_ISPOST = false;
+				window.PTY_KEY = "OTZmNmIwOWYwZWIwMzE5ZjkxZjU4ZTA1MWY4NGIyY2RlOTI2OTEyM2ViY2YwYmQ3NDU5NzY0Njk0MjE4Yjc2ZTY1NDRmODk1ZTgwOTk5N2Q=";
+				window.PTY_AFFLINK = "";
+				window.PTY_AFFTEXT = "";
+				window.PTY_NEWPOPUP = "false";
+				
+				}(jQuery)
+			</script> <meta name="generator" content="WPML ver:3.1.5 stt:1,44;0">
+<link rel="alternate" type="application/rss+xml" title="MyEnglishTeacher.eu » Question Feed" href="http://www.myenglishteacher.eu/question/feed/">		<!--[if lt IE 9]>
+		<style type="text/css">
+			.pinit-overlay {
+				background-image: url( 'http://www.myenglishteacher.eu/wp-content/plugins/jquery-pin-it-button-for-images/images/transparency_0.png' ) !important;
+			}
+		</style>
+		<![endif]-->
 
-	<p>
-	<br>
-	1. Handled data<br>
-	<br>
-	Myenglishteacher.eu will only store the following data provided by the User: name, e-mail address, photo, teaching place, teaching language, is English the first language, practice, hourly fee, teaching level, form of teaching, and personal information provided voluntarily considered by the User as important (editable).<br>
-	<br>
-	Other Users can access only the following data: name, photo, teaching place, teaching language, is English the first language, practice, hourly fee, teaching level, form of teaching, and personal information provided voluntarily considered by the User as important (editable).<br>
-	<br>
-	Our servers log the IP address of the User, the start and end of visit, and in some cases – based on the User’s computer settings – the type of browser and operating system used during the viewing of Myenglishteacher.eu. Our system automatically logs this data. The log file data will not be connected by Myenglishteacher.eu with any other personal data.<br>
-	<br>
-	2. Purpose of data management<br>
-	<br>
-	The purpose of data management in the case of mandatory data provided by the User is the identification of the User’s authorization, and the possibility of performing the ordered service.<br>
-	The log file data collected during the use of Myenglishteacher.eu is stored solely for statistical purposes.<br>
-	<br>
-	Myenglishteacher.eu will not use the personal data for any purpose other than the specified purposes; will not disclose any personal data – with the exception of the following cases – to any third party:</p>
-<ul class="origin">
-	<li>
-		Data transfers required by law,</li>
-	<li>
-		Partners effecting payments (e.g. credit card companies, banks, PayPal),</li>
-	<li>
-		IT service providers (e.g. computer centres, internet service providers, data recovery providers, mass mailing service providers)</li>
-</ul>
-<p>
-	These service providers can access your data only to the extent necessary for the fulfilment of their tasks. These service providers oblige themselves to handle your personal data according to this privacy policy statement, and pursuant to the relevant data protection acts.<br>
-	<br>
-	3. Duration of data management<br>
-	<br>
-	The mandatory data provided by the User is stored on the server of Myenglishteacher.eu until the existence of the relation, but for a maximum of 2 years after the inactivation of the registration.<br>
-	<br>
-	The system stores the data collected in the log file during the use of Myenglishteacher.eu for maximum 2 years starting from visiting the website.<br>
-	<br>
-	4. Deletion of personal data<br>
-	<br>
-	We delete the personal data if its management is unlawful, or if the purpose of data management has been terminated, or if the User expresses his/her definite wish to ultimately delete their data from our record.<br>
-	<br>
-	5. Data processor<br>
-	<br>
-	Myenglishteacher.eu does not apply an external data processor.<br>
-	<br>
-	6. Data security measures<br>
-	<br>
-	Myenglishteacher.eu does not place cookies on the User’s computer.<br>
-	Myenglishteacher .eu carefully chose its hosting provider (where the files of its website and user data are stored) in order to protect its data against unauthorised access, however nobody is safe from hackers these days. Myenglishteacher.eu will notify you, as soon as possible, if a breach in security results in an unauthorized intrusion into our system which materially affects you, and will subsequently report the corrective action taken in response to the intrusion.<br>
-	<br>
-	Myenglishteacher.eu accounts require a username and password to log in. When you're finished using Myenglishteacher.eu , please click the "log out" link in the top right corner of your screen, to prevent someone from using your computer to access your account. You must keep your username and password secure and not disclose it to a third party.<br>
-	<br>
-	7. User rights concerning the management of personal data<br>
-	<br>
-	Users may request information regarding the management of their personal data. The request for information must be submitted to <a href="mailto:info@myenglishteacher.eu">info@myenglishteacher.eu.</a></p>
-<p>
-	8. Modification of the privacy policy</p>
-<p>
-	Myenglishteacher may update this Privacy Policy in the future to reflect changes in our privacy practices, our website functionality, or applicable legislation, so please check back often. We will notify you about material changes to this Privacy Policy by sending a notice to the e-mail address you provided to us or by placing a prominent notice on the Site.<br>
-	<br>
-	9. Means of redress<br>
-	<br>
-	The User can seek redress and make a complaint at the office of the Data Protection Commissioner (Address: ) If you have any further questions and observations, please contact Myenglishteacher.eu by e-mail at <a href="mailto:info@myenglishteacher.eu">info@myenglishteacher.eu</a> or regular mail at<br>
-	<br>
-	MyLanguageTeacher Kft.<br>
-	H-1139 Budapest<br>
-	Petneházy u. 38-42. B/8/1.</p>
-<p>
-	This privacy policy is effective as of 1 April 2011<br>
-	&nbsp;</p>
+		<style type="text/css">
+			a.pinit-button {
+				width: 65px !important;
+				height: 41px !important;
+				background: transparent url('http://www.myenglishteacher.eu/wp-content/plugins/jquery-pin-it-button-for-images/images/pinit-button.png') no-repeat 0 0 !important;
+				background-size: 65px 41px !important
+			}
 
+			a.pinit-button.pinit-top-left {
+				margin: 20px 0 0 20px			}
 
-						</div>
-					</div>
-	<!-- RIGHTSIDE -->
-				</div>
-			</div>
-<!-- / CONTENT -->
+			a.pinit-button.pinit-top-right {
+				margin: 20px 20px 0 0			}
 
+			a.pinit-button.pinit-bottom-left {
+				margin: 0 0 20px  20px			}
 
+			a.pinit-button.pinit-bottom-right {
+				margin: 0 20px  20px 0			}
 
-<!-- FOOTER -->
-			<div class="footer">
-				<div class="inner">
-
-		<!-- FOOTER CONTACT -->
-					<p class="contact">
-
-                                                <br>
-                                                <span class="home" style="background-image: url(http://www.myenglishteacher.eu/templates/template/gfx/info.png); margin-left: 1px;">MyLanguageTeacher Ltd.</span><br>
-						<span class="home">H-2440 Százhalombatta, Lehel u. 61</span><br>
-						<span class="letter"><a href="mailto:info@myenglishteacher.eu">info@myenglishteacher.eu</a></span><br>
-                                                <span>HU23094604</span>
-					</p>
-		<!-- / FOOTER CONTACT -->
-
-		<!-- FOOTER MENU -->
-					<p class="footerMenu1">
-                                            
-&nbsp;
- <a href="http://www.myenglishteacher.eu/angoltanarok" title="Search for an English teacher">
-  Teacher Search </a>
-
-&nbsp;
- <a href="http://www.myenglishteacher.eu/angol-oktatas" title="Teach English - We help you to get students">
-  For Teachers </a>
-
-&nbsp;
- <a href="http://www.myenglishteacher.eu/blog" title="Advice and inspiring ideas for teaching">
-  Blog </a>
-
-&nbsp;
- <a href="http://www.myenglishteacher.eu/about_us" title="About Us">
-  About Us </a>
-
-&nbsp;
- <a href="http://www.myenglishteacher.eu/sign_up" title=" Sign up to get students">
-  Sign up </a>
-
-
-
-					</p>
-		<!-- / FOOTER MENU -->
-		<div style="clear: right;"></div>
-		<!-- FOOTER MENU -->
-					<p class="footerMenu2">
-                                            
-&nbsp;|&nbsp;
- <a href="http://www.myenglishteacher.eu/" title="Home">
-  Home </a>
-
-&nbsp;|&nbsp;
- <a href="http://www.myenglishteacher.eu/privacy_policy" title="Privacy Policy">
-  Privacy Policy </a>
-
-&nbsp;|&nbsp;
- <a href="http://www.myenglishteacher.eu/terms_of_use" title="Terms of Use">
-  Terms of Use </a>
-
-
-
-                                                </p><div style="clear:both;"></div>
-                                             <div style="color:white; float:right;">
-                                                Copyright © 2011 MyEnglishTeacher.eu | All Rights Reserved
-                                            </div>
-					<p></p>
-		<!-- / FOOTER MENU -->
-
-		
-
-	<form class="login" method="POST" action="http://www.myenglishteacher.eu/myprofile">
-		<input type="text" name="login_mail" value="Email address">
-		<input type="password" name="login_pass" value="Password">
-		<input type="submit" value="Login">
-		<input type="hidden" name="user_login" value="true">
-		<p>
-			<a href="http://www.myenglishteacher.eu/sign_up">Sign up</a><br>
-			<a href="http://www.myenglishteacher.eu/forgot_password">Forgot your password?</a>
-		</p>
-	</form>
-
-		<!-- PARTNER LOGOS -->
-					<ul class="partnerLogos">
-						<li><a href="http://www.stylers.hu" target="_blank">Stylers</a></li>
-					</ul>
-		<!-- / PARTNER LOGOS -->
-
-				</div>
-			</div>
-<!-- / FOOTER -->
-
-		</div>
-
-<!--Start Kampyle Feedback Form Button-->
-
-<div id="k_close_button" class="k_float kc_bottom_sl kc_right"></div><div><a href="http://www.kampyle.com/feedback_form/ff-feedback-form.php?site_code=2203241&amp;lang=en&amp;form_id=62867" target="kampyleWindow" id="kampylink" class="k_float k_bottom_sl k_right" onclick="javascript:k_button.open_ff('site_code=2203241&amp;lang=en&amp;form_id=62867');return false;"><img src="http://cf.kampyle.com/buttons/en/orange/en-orange-band-low-right.gif" alt="Feedback Form" border="0"></a></div>
-<div id="k_slogan" class="k_float k_bottom k_right">
-				<a href="http://www.kampyle.com/online-lead-generation-services" target="_blank">Leads to Insight</a></div>
-<script src="http://cf.kampyle.com/k_button.js" type="text/javascript"></script>
-<script src="http://cf.kampyle.com/k_push.js" type="text/javascript"></script>
-<!--End Kampyle Feedback Form Button-->
-
-<!-- adatkezelesi_szabalyzat -->
-
-
-
-
-
-
+			img.pinit-hover {
+				opacity: 0.5 !important;
+				filter:alpha(opacity=50) !important; /* For IE8 and earlier */
+			}
+		</style>
 	
+<style type="text/css">											
+</style><!--[if lt IE 9]><script src="http://www.myenglishteacher.eu/wp-content/themes/enfold/js/html5shiv.js"></script><![endif]-->	<!-- 
+    Mail Chimp 
+    ============================================================================================================================-->
+    <link href="http://cdn-images.mailchimp.com/embedcode/classic-081711.css" rel="stylesheet" type="text/css">
+    <style type="text/css">
+        #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
+        /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
+           We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+    </style>
+
+	<script type="text/javascript">
+    var fnames = new Array();var ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';
+    try {
+        var jqueryLoaded=jQuery;
+        jqueryLoaded=true;
+    } catch(err) {
+        var jqueryLoaded=false;
+    }
+    var head= document.getElementsByTagName('head')[0];
+    if (!jqueryLoaded) {
+        var script = document.createElement('script');
+        script.type = 'text/javascript';
+        script.src = 'http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js';
+        head.appendChild(script);
+        if (script.readyState && script.onload!==null){
+            script.onreadystatechange= function () {
+                  if (this.readyState == 'complete') mce_preload_check();
+            }    
+        }
+    }
+    var script = document.createElement('script');
+    script.type = 'text/javascript';
+    script.src = 'http://downloads.mailchimp.com/js/jquery.form-n-validate.js';
+    head.appendChild(script);
+    var err_style = '';
+    try{
+        err_style = mc_custom_error_style;
+    } catch(e){
+        err_style = '#mc_embed_signup input.mce_inline_error{border-color:#6B0505;} #mc_embed_signup div.mce_inline_error{margin: 0 0 1em 0; padding: 5px 10px; background-color:#6B0505; font-weight: bold; z-index: 1; color:#fff;}';
+    }
+    var head= document.getElementsByTagName('head')[0];
+    var style= document.createElement('style');
+    style.type= 'text/css';
+    if (style.styleSheet) {
+      style.styleSheet.cssText = err_style;
+    } else {
+      style.appendChild(document.createTextNode(err_style));
+    }
+    head.appendChild(style);
+    setTimeout('mce_preload_check();', 250);
+    
+    var mce_preload_checks = 0;
+    function mce_preload_check(){
+        if (mce_preload_checks>40) return;
+        mce_preload_checks++;
+        try {
+            var jqueryLoaded=jQuery;
+        } catch(err) {
+            setTimeout('mce_preload_check();', 250);
+            return;
+        }
+        try {
+            var validatorLoaded=jQuery("#fake-form").validate({});
+        } catch(err) {
+            setTimeout('mce_preload_check();', 250);
+            return;
+        }
+        mce_init_form();
+    }
+    function mce_init_form(){
+        jQuery(document).ready( function($) {
+          var options = { errorClass: 'mce_inline_error', errorElement: 'div', onkeyup: function(){}, onfocusout:function(){}, onblur:function(){}  };
+          var mce_validator = $("#mc-embedded-subscribe-form").validate(options);
+          $("#mc-embedded-subscribe-form").unbind('submit');//remove the validator so we can get into beforeSubmit on the ajaxform, which then calls the validator
+          options = { url: 'http://myenglishteacher.us2.list-manage2.com/subscribe/post-json?u=4cb198e0fb54fee55c9b202a4&id=d1bb473c37&c=?', type: 'GET', dataType: 'json', contentType: "application/json; charset=utf-8",
+                        beforeSubmit: function(){
+                            $('#mce_tmp_error_msg').remove();
+                            $('.datefield','#mc_embed_signup').each(
+                                function(){
+                                    var txt = 'filled';
+                                    var fields = new Array();
+                                    var i = 0;
+                                    $(':text', this).each(
+                                        function(){
+                                            fields[i] = this;
+                                            i++;
+                                        });
+                                    $(':hidden', this).each(
+                                        function(){
+                                            var bday = false;
+                                            if (fields.length == 2){
+                                                bday = true;
+                                                fields[2] = {'value':1970};//trick birthdays into having years
+                                            }
+                                            if ( fields[0].value=='MM' && fields[1].value=='DD' && (fields[2].value=='YYYY' || (bday && fields[2].value==1970) ) ){
+                                                this.value = '';
+                                            } else if ( fields[0].value=='' && fields[1].value=='' && (fields[2].value=='' || (bday && fields[2].value==1970) ) ){
+                                                this.value = '';
+                                            } else {
+                                                if (/\[day\]/.test(fields[0].name)){
+                                                    this.value = fields[1].value+'/'+fields[0].value+'/'+fields[2].value;									        
+                                                } else {
+                                                    this.value = fields[0].value+'/'+fields[1].value+'/'+fields[2].value;
+                                                }
+                                            }
+                                        });
+                                });
+                            return mce_validator.form();
+                        }, 
+                        success: mce_success_cb
+                    };
+          $('#mc-embedded-subscribe-form').ajaxForm(options);
+          
+          
+        });
+    }
+    function mce_success_cb(resp){
+        $('#mce-success-response').hide();
+        $('#mce-error-response').hide();
+        if (resp.result=="success"){
+            $('#mce-'+resp.result+'-response').show();
+            $('#mce-'+resp.result+'-response').html(resp.msg);
+            $('#mc-embedded-subscribe-form').each(function(){
+                this.reset();
+            });
+        } else {
+            var index = -1;
+            var msg;
+            try {
+                var parts = resp.msg.split(' - ',2);
+                if (parts[1]==undefined){
+                    msg = resp.msg;
+                } else {
+                    i = parseInt(parts[0]);
+                    if (i.toString() == parts[0]){
+                        index = parts[0];
+                        msg = parts[1];
+                    } else {
+                        index = -1;
+                        msg = resp.msg;
+                    }
+                }
+            } catch(e){
+                index = -1;
+                msg = resp.msg;
+            }
+            try{
+                if (index== -1){
+                    $('#mce-'+resp.result+'-response').show();
+                    $('#mce-'+resp.result+'-response').html(msg);            
+                } else {
+                    err_id = 'mce_tmp_error_msg';
+                    html = '<div id="'+err_id+'" style="'+err_style+'"> '+msg+'</div>';
+                    
+                    var input_id = '#mc_embed_signup';
+                    var f = $(input_id);
+                    if (ftypes[index]=='address'){
+                        input_id = '#mce-'+fnames[index]+'-addr1';
+                        f = $(input_id).parent().parent().get(0);
+                    } else if (ftypes[index]=='date'){
+                        input_id = '#mce-'+fnames[index]+'-month';
+                        f = $(input_id).parent().parent().get(0);
+                    } else {
+                        input_id = '#mce-'+fnames[index];
+                        f = $().parent(input_id).get(0);
+                    }
+                    if (f){
+                        $(f).append(html);
+                        $(input_id).focus();
+                    } else {
+                        $('#mce-'+resp.result+'-response').show();
+                        $('#mce-'+resp.result+'-response').html(msg);
+                    }
+                }
+            } catch(e){
+                $('#mce-'+resp.result+'-response').show();
+                $('#mce-'+resp.result+'-response').html(msg);
+            }
+        }
+    }
+    
+	
+	jQuery(document).ready(function(e) {
+		if ( jQuery('.default-page .dwqa-container li.status-open a')[0] ) {
+        	jQuery('.default-page .dwqa-container li.status-open a').text('Open');
+		}	
+    });
+	
+    </script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script><script type="text/javascript" src="http://downloads.mailchimp.com/js/jquery.form-n-validate.js"></script><style type="text/css">#mc_embed_signup input.mce_inline_error{border-color:#6B0505;} #mc_embed_signup div.mce_inline_error{margin: 0 0 1em 0; padding: 5px 10px; background-color:#6B0505; font-weight: bold; z-index: 1; color:#fff;}</style>
+    <!--End mc_embed_signup-->
+    
+    <!--Facebook-->
+    <script>
+	(function(d, s, id) {
+	  var js, fjs = d.getElementsByTagName(s)[0];
+	  if (d.getElementById(id)) return;
+	  js = d.createElement(s); js.id = id;
+	  js.src = "//connect.facebook.net/hu_HU/all.js#xfbml=1";
+	  fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));
+    </script>
+    
+    
+<style type="text/css" id="syntaxhighlighteranchor"></style>
+
+
+<!--
+Debugging Info for Theme support: 
+
+Theme: Enfold
+Version: 2.4.5
+Installed: enfold
+AviaFramework Version: 1.8.5
+AviaBuilder Version: 0.4
+ML:256-PU:66-PLA:19
+-->
+
+<style type="text/css">
+	
+	@font-face {
+	font-family: 'entypo-fontello'; font-weight: normal; font-style: normal;
+	src: url('http://www.myenglishteacher.eu/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.eot?v=2');
+	src: url('http://www.myenglishteacher.eu/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.eot?v=2#iefix') format('embedded-opentype'), 
+	     url('http://www.myenglishteacher.eu/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.woff?v=2') format('woff'), 
+	     url('http://www.myenglishteacher.eu/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.ttf?v=2') format('truetype'), 
+	     url('http://www.myenglishteacher.eu/wp-content/themes/enfold/config-templatebuilder/avia-template-builder/assets/fonts/entypo-fontello.svg?v=2#entypo-fontello') format('svg');
+	}
+	
+	#top .avia-font-entypo-fontello, body .avia-font-entypo-fontello, html body [data-av_iconfont='entypo-fontello']:before{ font-family: 'entypo-fontello'; }
+				</style>
+
+</head>
+
+<body id="top" class="page page-id-1116 page-template-default default-page home" itemscope="itemscope" itemtype="http://schema.org/WebPage">
+
+	<div id="wrap_all">
+
+		                    <header id="header" class=" header_color light_bg_color mobile_slide_out" role="banner" itemscope="itemscope" itemtype="http://schema.org/WPHeader">
+    
+                <a id="advanced_menu_toggle" href="#" aria-hidden="true" data-av_icon="" data-av_iconfont="entypo-fontello"></a><a id="advanced_menu_hide" href="#" aria-hidden="true" data-av_icon="" data-av_iconfont="entypo-fontello"></a>    
+    
+    			                <div id="header_main" class="container_wrap container_wrap_logo ">
+    
+                            					
+                        <div class="container">
+    
+                            <strong class="logo bg-logo"><a href="http://www.myenglishteacher.eu/"><img src="http://www.myenglishteacher.eu/wp-content/themes/enfold/images/layout/metlogo.png" alt="MyEnglishTeacher.eu" title="MyEnglishTeacher.eu"></a></strong><nav class="main_menu" data-selectname="Select a page" role="navigation" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement"><div class="avia-menu"><ul id="avia-menu" class="menu"><li id="menu-item-1141" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.myenglishteacher.eu/ask/"><span class="avia-bullet"></span>Forum<span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li id="menu-item-1143" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="http://www.myenglishteacher.eu/blog"><span class="avia-bullet"></span>Blog<span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li id="menu-item-1133" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.myenglishteacher.eu/plans-and-pricing/"><span class="avia-bullet"></span>Pricing<span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li id="menu-item-1135" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.myenglishteacher.eu/about-us/"><span class="avia-bullet"></span>About Us<span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li id="menu-item-1134" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.myenglishteacher.eu/teach-english/"><span class="avia-bullet"></span>Teach English<span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li id="menu-item-1377" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.myenglishteacher.eu/how-to-learn-english-in-a-new-way/"><span class="avia-bullet"></span>English in a new way?<span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+<li id="menu-item-1585" class="menu-item menu-item-type-post_type menu-item-object-page"><a href="http://www.myenglishteacher.eu/contact-us/"><span class="avia-bullet"></span>Contact Us<span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+</ul></div></nav>                        <!-- end container-->
+                        </div>
+    
+    
+    
+                <!-- end container_wrap-->
+                </div>
+    
+                <div class="header_bg"></div>
+    
+            <!-- end header -->
+            </header>
+
+				
+        <div id="main" class="fullsize">
+
+
+		<div class="container_wrap container_wrap_first main_color fullsize">
+
+			<div class="container">
+
+				<main class="template-page content  twelve alpha units" role="main" itemprop="mainContentOfPage">
+
+                    
+		<article class="post-entry post-entry-type-page post-entry-1116" itemscope="itemscope" itemtype="http://schema.org/CreativeWork">
+
+			<div class="entry-content-wrapper clearfix">
+            	<h1>Privacy Policy</h1>                <header class="entry-content-header"></header><div class="entry-content" itemprop="text"><input class="jpibfi" type="hidden"><p><strong>What information do we collect?</strong></p>
+<div style="font-family: arial;">
+<p>We collect information from you when you subscribe to our newsletter, fill out a form or purchase English lessons.</p>
+<p>When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, credit card information or Shipping address. You may, however, visit our site anonymously.</p>
+<p>Google, as a third party vendor, uses cookies to serve ads on your site.<br>
+Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.<br>
+Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..</p>
+<p><strong>What do we use your information for?</strong></p>
+<p>Any of the information we collect from you may be used in one of the following ways:</p>
+<p>; To personalize your experience<br>
+(your information helps us to better respond to your individual needs)</p>
+<p>; To improve our website<br>
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)</p>
+<p>; To improve customer service<br>
+(your information helps us to more effectively respond to your customer service requests and support needs)</p>
+<p>; To process transactions</p>
+<blockquote><p>Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.</p></blockquote>
+<p>; To administer a contest, promotion, survey or other site feature</p>
+<p>; To send periodic emails</p>
+<blockquote><p>The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.</p></blockquote>
+<p>Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.</p>
+<p><strong>How do we protect your information?</strong></p>
+<p>We implement a variety of security measures to maintain the safety of your personal information when you place an order or enter, submit, or access your personal information.</p>
+<p>We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to?keep the information confidential.</p>
+<p>After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.</p>
+<p><strong>Do we use cookies?</strong></p>
+<p>Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information</p>
+<p>We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.</p>
+<p><strong>Do we disclose any information to outside parties?</strong></p>
+<p>We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.</p>
+<p><strong>Third party links</strong></p>
+<p>Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.</p>
+<p><strong>California Online Privacy Protection Act Compliance</strong></p>
+<p>Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.</p>
+<p><strong>Childrens Online Privacy Protection Act Compliance</strong></p>
+<p>We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.</p>
+<p><strong>Online Privacy Policy Only</strong></p>
+<p>This online privacy policy applies only to information collected through our website and not to information collected offline.</p>
+<p><strong>Terms and Conditions</strong></p>
+<p>Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at<a href=" http://myenglishteacher.eu/terms-and-conditions/"> http://myenglishteacher.eu/terms-and-conditions/</a></p>
+<p><strong>Your Consent</strong></p>
+<p>By using our site, you consent to our <a style="text-decoration: none; color: #3c3c3c;" href="http://www.freeprivacypolicy.com/" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.freeprivacypolicy.com']);" target="_blank">online privacy policy</a>.</p>
+<p><strong>Changes to our Privacy Policy</strong></p>
+<p>If we decide to change our privacy policy, we will update the Privacy Policy modification date below.</p>
+<p>This policy was last modified on 30.09.2013</p>
+<p><strong>Contacting Us</strong></p>
+<p>If there are any questions regarding this privacy policy you may contact us using the information below.</p>
+<p>http://myenglishteacher.eu-2/</p>
+<p>Lehel u. 61<br>
+Százhalombatta, Pest 2440<br>
+Hungary<br>
+info@myenglishteacher.eu</p>
+<p>This policy is powered by Free Privacy Policy and Rhino Support. Compare Rhino Support to <a style="color: #000; text-decoration: none;" href="http://www.rhinosupport.com/zendesk.htm" onclick="javascript:_gaq.push(['_trackEvent','outbound-article','http://www.rhinosupport.com']);" target="_blank" rel="nofollow">Zen desk</a> and save!<!-- END PRIVACY POLICY CODE --></p>
+</div>
+<span id="pty_trigger"></span></div><footer class="entry-footer"></footer>			</div>
+
+		</article><!--end post-entry-->
+
+
+
+				<!--end content-->
+				</main>
+
+				
+			</div><!--end container-->
+
+		</div><!-- close default .container_wrap element -->
+
+
+
+		
+
+
+                
+                </div><!-- end main -->
+						
+				<footer class="container_wrap socket_color" id="socket" role="contentinfo" itemscope="itemscope" itemtype="http://schema.org/WPFooter">
+                    <div class="container">
+                    <div id="lang_sel">
+    <ul>
+        <li><a href="#" class="lang_sel_sel icl-en">
+                            
+            <img class="iclflag" src="http://www.myenglishteacher.eu/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.png" alt="en" title="English">                                
+            &nbsp;English</a>                    </li>
+    </ul>    
+</div>
+						<nav class="sub_menu_socket" role="navigation" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement"><div class="avia3-menu"><ul id="avia3-menu" class="menu"><li id="menu-item-1141" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1141"><a href="http://www.myenglishteacher.eu/ask/">Forum</a></li>
+<li id="menu-item-1143" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1143"><a href="http://www.myenglishteacher.eu/blog">Blog</a></li>
+<li id="menu-item-1133" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1133"><a href="http://www.myenglishteacher.eu/plans-and-pricing/">Pricing</a></li>
+<li id="menu-item-1135" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1135"><a href="http://www.myenglishteacher.eu/about-us/">About Us</a></li>
+<li id="menu-item-1134" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1134"><a href="http://www.myenglishteacher.eu/teach-english/">Teach English</a></li>
+<li id="menu-item-1377" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1377"><a href="http://www.myenglishteacher.eu/how-to-learn-english-in-a-new-way/">English in a new way?</a></li>
+<li id="menu-item-1585" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1585"><a href="http://www.myenglishteacher.eu/contact-us/">Contact Us</a></li>
+</ul></div></nav>                                                <span class="copyright">© Copyright  - <a href="http://www.myenglishteacher.eu/">MyEnglishTeacher.eu</a><div class="copyright-menu"><ul id="avia4-menu" class="menu"><li id="menu-item-1132" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-1116 current_page_item menu-item-1132"> - <a href="http://www.myenglishteacher.eu/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-1131" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1131"> - <a href="http://www.myenglishteacher.eu/terms-and-conditions/">Terms and Conditions</a></li>
+</ul></div></span>
+                    </div>
+
+	            <!-- ####### END SOCKET CONTAINER ####### -->
+				</footer>
+
+
+			<!-- end wrap_all --></div>
+
+<script type="text/javascript">var islrsharing = true; var islrsocialcounter = true;</script> <script type="text/javascript" src="//share.loginradius.com/Content/js/LoginRadius.js" id="lrsharescript"></script><script type="text/javascript"></script>
+ <script type="text/javascript">
+ /* <![CDATA[ */  
+var avia_framework_globals = avia_framework_globals || {};
+    avia_framework_globals.frameworkUrl = 'http://www.myenglishteacher.eu/wp-content/themes/enfold/framework/';
+    avia_framework_globals.installedAt = 'http://www.myenglishteacher.eu/wp-content/themes/enfold/';
+    avia_framework_globals.ajaxurl = 'http://www.myenglishteacher.eu/wp-admin/admin-ajax.php?lang=en';
+/* ]]> */ 
+</script>
+ 
+ <script type="text/javascript">
+var addthis_options = "facebook_like,twitter,google_plusone,linkedin";
+var addthis_config = {"data_track_clickback":false,"data_track_addressbar":false,"data_track_textcopy":false,"ui_atversion":"300"};
+var addthis_product = 'wpp-3.5.9';
+</script><script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5308bb3b14a5f2e2"></script>		<!-- Script to enable social login -->
+		 <script src="//hub.loginradius.com/include/js/LoginRadius.js"></script>
+		 <script type="text/javascript"> var loginRadiusOptions={}; loginRadiusOptions.login=true; LoginRadius_SocialLogin.util.ready ( function(){ $ui = LoginRadius_SocialLogin.lr_login_settings;$ui.interfacesize = '';$ui.apikey = "4837fb37-58e7-4502-8f8b-2a64bce9c5b7";$ui.callback = "http%3A%2F%2Fwww.myenglishteacher.eu%2Fprivacy-policy%2F"; $ui.lrinterfacecontainer ="interfacecontainerdiv"; $ui.interfacesize = ""; $ui.noofcolumns = 4; $ui.lrinterfacebackground = ""; $ui.samewindow = 1; LoginRadius_SocialLogin.init ( loginRadiusOptions ); } );
+		 </script>
+				<script>
+		/**
+		 * Call functions on window.onload
+		 */
+		function loginRadiusLoadEvent(func){
+			var oldOnLoad = window.onload;
+			if(typeof window.onload != 'function'){
+				window.onload = func;
+			}else{            
+				window.onload = function(){
+					oldOnLoad();
+					func();
+				}
+			}
+		}
+		</script>
+		<link rel="stylesheet" id="dashicons-css" href="http://www.myenglishteacher.eu/wp-includes/css/dashicons.min.css?ver=3.9.1" type="text/css" media="all">
+<link rel="stylesheet" id="thickbox-css" href="http://www.myenglishteacher.eu/wp-includes/js/thickbox/thickbox.css?ver=3.9.1" type="text/css" media="all">
+<script type="text/javascript" src="http://www.myenglishteacher.eu/wp-content/plugins/adrotate/library/jquery.clicktracker.js?ver=0.6"></script>
+<script type="text/javascript" src="http://www.myenglishteacher.eu/wp-content/themes/enfold/js/avia.js?ver=1"></script>
+<script type="text/javascript" src="http://www.myenglishteacher.eu/wp-content/themes/enfold/js/shortcodes.js?ver=1"></script>
+<script type="text/javascript" src="http://www.myenglishteacher.eu/wp-content/themes/enfold/js/prettyPhoto/js/jquery.prettyPhoto.js?ver=3.1.5"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var mejsL10n = {"language":"en-US","strings":{"Close":"Close","Fullscreen":"Fullscreen","Download File":"Download File","Download Video":"Download Video","Play\/Pause":"Play\/Pause","Mute Toggle":"Mute Toggle","None":"None","Turn off Fullscreen":"Turn off Fullscreen","Go Fullscreen":"Go Fullscreen","Unmute":"Unmute","Mute":"Mute","Captions\/Subtitles":"Captions\/Subtitles"}};
+var _wpmejsSettings = {"pluginPath":"\/wp-includes\/js\/mediaelement\/"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.myenglishteacher.eu/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=2.14.2"></script>
+<script type="text/javascript" src="http://www.myenglishteacher.eu/wp-includes/js/mediaelement/wp-mediaelement.js?ver=3.9.1"></script>
+<script type="text/javascript" src="http://www.myenglishteacher.eu/wp-includes/js/comment-reply.min.js?ver=3.9.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var om_api_object = {"adminajax":"http:\/\/www.myenglishteacher.eu\/wp-admin\/admin-ajax.php","ajaxurl":"http:\/\/www.myenglishteacher.eu\/?optin-monster-ajax-route=1"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.myenglishteacher.eu/wp-content/plugins/optin-monster/inc/js/om.js?ver=1.2.7.2"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var icl_vars = {"current_language":"en","icl_home":"http:\/\/www.myenglishteacher.eu\/"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.myenglishteacher.eu/wp-content/plugins/sitepress-multilingual-cms/res/js/sitepress.js?ver=3.9.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var thickboxL10n = {"next":"Next >","prev":"< Prev","image":"Image","of":"of","close":"Close","noiframes":"This feature requires inline frames. You have iframes disabled or your browser does not support them.","loadingAnimation":"http:\/\/www.myenglishteacher.eu\/wp-includes\/js\/thickbox\/loadingAnimation.gif"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.myenglishteacher.eu/wp-includes/js/thickbox/thickbox.js?ver=3.1-20121105"></script>
+<!-- This site converts visitors into subscribers and customers with the OptinMonster WordPress plugin v1.2.7.2 - http://optinmonster.com/ -->
+<div id="om-kg1w9yixw9-lightbox" style="display:none;"><style type="text/css">html div#om-kg1w9yixw9-lightbox,html div#om-kg1w9yixw9-lightbox * {background:none;border:0;border-radius:0;-webkit-border-radius:0;-moz-border-radius:0;float:none;font:normal 100%/normal helvetica,arial,sans-serif;-webkit-font-smoothing:antialiased;height:auto;letter-spacing:normal;outline:none;position:static;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;width:auto;visibility:visible;overflow:visible;margin:0;padding:0;line-height:1;box-sizing:border-box;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-shadow:none;-moz-box-shadow:none;-ms-box-shadow:none;-o-box-shadow:none;box-shadow:none;-webkit-appearance:none;}html div#om-kg1w9yixw9-lightbox {background: rgb(0, 0, 0);background: rgba(0, 0, 0, .7);-webkit-font-smoothing: antialiased;line-height: 1;width: 100%;height: 100%;}html div#om-kg1w9yixw9-lightbox strong {font-weight: bold;}html div#om-kg1w9yixw9-lightbox em {font-style: italic;}html div#om-kg1w9yixw9-lightbox u {text-decoration: underline;}html div#om-kg1w9yixw9-lightbox .om-clearfix {clear: both;}html div#om-kg1w9yixw9-lightbox .om-clearfix:after {clear: both;content: ".";display: block;height: 0;line-height: 0;overflow: auto;visibility: hidden;zoom: 1;}html div#om-kg1w9yixw9-lightbox #om-lightbox-chalkboard-theme-optin {background: #4f6e81;display: none;position: absolute;top: 50%;left: 50%;min-height: 175px;width: 714px;z-index: 734626274;}html div#om-kg1w9yixw9-lightbox #om-lightbox-chalkboard-theme-optin-wrap {position: relative;height: 100%;border: 3px solid #fff;}html div#om-kg1w9yixw9-lightbox #om-close {position: absolute;top: 16px;right: 16px;width: 16px;height: 16px;display: block;background: url(http://www.myenglishteacher.eu/wp-content/plugins/optin-monster/inc/css/images/chalkboard-close.png) no-repeat scroll 0 0;}html div#om-kg1w9yixw9-lightbox #om-lightbox-chalkboard-theme-header {min-height: 30px;padding: 30px 32px 15px;width: 100%;}html div#om-kg1w9yixw9-lightbox #om-lightbox-chalkboard-theme-optin-title {font-family: "Just Another Hand", Arial, sans-serif;font-size: 72px;font-weight: bold;color: #fff;width: 100%;text-align: center;}html div#om-kg1w9yixw9-lightbox #om-lightbox-chalkboard-theme-optin-title span,html div#om-kg1w9yixw9-lightbox #om-lightbox-chalkboard-theme-optin-title strong,html div#om-kg1w9yixw9-lightbox #om-lightbox-chalkboard-theme-optin-title em,html div#om-kg1w9yixw9-lightbox #om-lightbox-chalkboard-theme-optin-title u {font-family: inherit;}html div#om-kg1w9yixw9-lightbox #om-lightbox-chalkboard-theme-content {padding: 15px 32px;}html div#om-kg1w9yixw9-lightbox #om-lightbox-chalkboard-theme-content-clear {min-height: 104px;}html div#om-kg1w9yixw9-lightbox #om-lightbox-chalkboard-theme-left {float: left;width: 410px;position: relative;}html div#om-kg1w9yixw9-lightbox #om-lightbox-chalkboard-theme-optin-tagline {font-family: "Lato", Arial, sans-serif;font-size: 20px;line-height: 1.25;color: #b8d4e5;}html div#om-kg1w9yixw9-lightbox #om-lightbox-chalkboard-theme-optin-tagline span,html div#om-kg1w9yixw9-lightbox #om-lightbox-chalkboard-theme-optin-tagline strong,html div#om-kg1w9yixw9-lightbox #om-lightbox-chalkboard-theme-optin-tagline em,html div#om-kg1w9yixw9-lightbox #om-lightbox-chalkboard-theme-optin-tagline u {font-family: inherit;}html div#om-kg1w9yixw9-lightbox #om-lightbox-chalkboard-theme-optin-bullet-list {padding: 0;margin: 0;}html div#om-kg1w9yixw9-lightbox #om-lightbox-chalkboard-theme-optin-bullet-list li {margin-left: 30px;line-height: 1.25;list-style-type: none;position: relative;font-size: 16px;color: #484848;margin-bottom: 7px;}html div#om-kg1w9yixw9-lightbox #om-lightbox-chalkboard-theme-optin-bullet-list li span,html div#om-kg1w9yixw9-lightbox #om-lightbox-chalkboard-theme-optin-bullet-list li strong,html div#om-kg1w9yixw9-lightbox #om-lightbox-chalkboard-theme-optin-bullet-list li em,html div#om-kg1w9yixw9-lightbox #om-lightbox-chalkboard-theme-optin-bullet-list li u {font-family: inherit;}html div#om-kg1w9yixw9-lightbox #om-lightbox-chalkboard-theme-optin-bullet-list li .om-arrow {    width: 0;    height: 0;    border-top: 7px solid transparent;            border-bottom: 7px solid transparent;            border-left: 7px solid #ff6201;            display: inline-block;            vertical-align: middle;            margin-right: 8px;}html div#om-kg1w9yixw9-lightbox #om-lightbox-chalkboard-theme-right {float: right;width: 230px;}html div#om-kg1w9yixw9-lightbox #om-lightbox-chalkboard-theme-optin-image-container {position: relative;width: 230px;height: 195px;margin: 0 auto;}html div#om-kg1w9yixw9-lightbox #om-lightbox-chalkboard-theme-optin-image-container img {display: block;margin: 0 auto;text-align: center;}html div#om-kg1w9yixw9-lightbox #om-lightbox-chalkboard-theme-arrow {position: absolute;width: 43px;height: 102px;left: 40px;bottom: 30%;}html div#om-kg1w9yixw9-lightbox #om-lightbox-chalkboard-theme-footer {    background: #2e3c44;padding: 40px 32px;margin-top: 15px;}html div#om-kg1w9yixw9-lightbox label {    color: #333;}html div#om-kg1w9yixw9-lightbox input,html div#om-kg1w9yixw9-lightbox #om-lightbox-chalkboard-theme-optin-name,html div#om-kg1w9yixw9-lightbox #om-lightbox-chalkboard-theme-optin-email {background-color: #fff;width: 235px;height: 48px;-webkit-box-shadow: 0 3px 3px -3px rgba(0,0,0,0.8) inset;-moz-box-shadow: 0 3px 3px -3px rgba(0,0,0,0.8) inset;box-shadow: 0 3px 3px -3px rgba(0,0,0,0.8) inset;border-radius: 2px;font-size: 20px;line-height: 38px;padding: 4px 6px;overflow: hidden;outline: none;margin: 0 10px 0 0;vertical-align: middle;display: inline;}html div#om-kg1w9yixw9-lightbox .om-has-email #om-lightbox-chalkboard-theme-optin-email {width: 480px;}html div#om-kg1w9yixw9-lightbox input[type=submit],html div#om-kg1w9yixw9-lightbox button,html div#om-kg1w9yixw9-lightbox #om-lightbox-chalkboard-theme-optin-submit {background: #e4822a;border: none;border-top: 1px solid rgba(255,255,255,.5);-webkit-box-shadow: none;-moz-box-shadow: none;box-shadow: none;width: 154px;color: #fff;font-size: 20px;padding: 4px 6px;line-height: 24px;text-align: center;vertical-align: middle;cursor: pointer;display: inline;margin: 0;}html div#om-kg1w9yixw9-lightbox input[type=checkbox],html div#om-kg1w9yixw9-lightbox input[type=radio] {    -webkit-appearance: checkbox;    width: auto;    outline: invert none medium;    padding: 0;    margin: 0;}@media (max-width: 700px) {    html div#om-kg1w9yixw9-lightbox[style] {        position: absolute !important;    }    html div#om-kg1w9yixw9-lightbox #om-lightbox-chalkboard-theme-optin[style] {        width: 100%;        position: relative;        top: 30px !important;    }    html div#om-kg1w9yixw9-lightbox #om-lightbox-chalkboard-theme-optin-wrap {        padding: 10px;    }    html div#om-kg1w9yixw9-lightbox #om-lightbox-chalkboard-theme-left,    html div#om-kg1w9yixw9-lightbox #om-lightbox-chalkboard-theme-right,    html div#om-kg1w9yixw9-lightbox #om-lightbox-chalkboard-theme-optin-name,            html div#om-kg1w9yixw9-lightbox #om-lightbox-chalkboard-theme-optin-email,    html div#om-kg1w9yixw9-lightbox #om-lightbox-chalkboard-theme-optin-submit,    html div#om-kg1w9yixw9-lightbox .om-has-email #om-lightbox-chalkboard-theme-optin-email {        float: none;        width: 100%;    }    html div#om-kg1w9yixw9-lightbox #om-lightbox-chalkboard-theme-left {        margin-bottom: 15px;    }}</style><div id="om-lightbox-chalkboard-theme-optin" class="om-lightbox-chalkboard-theme om-clearfix " style="background-color: #4f6e81"><div id="om-lightbox-chalkboard-theme-optin-wrap" class="om-clearfix" style="border-color: #ffffff"><a href="#" id="om-close" title="Close"></a><div id="om-lightbox-chalkboard-theme-header" class="om-clearfix"><h1 id="om-lightbox-chalkboard-theme-optin-title" style="color:#ffffff;font-family:'Vollkorn', sans-serif;font-size:26px;font-weight:bold;font-style:normal;text-decoration:none;text-align:left;">How to Speak English Fluently? 9-days Course</h1></div><div id="om-lightbox-chalkboard-theme-content" class="om-clearfix"><div id="om-lightbox-chalkboard-theme-content-clear"><h2 id="om-lightbox-chalkboard-theme-optin-tagline" style="color:#ffffff;font-family:'Tahoma', sans-serif;font-size:20px;font-weight:normal;font-style:normal;text-decoration:none;text-align:left;">Speak English fluently without any fear and thinking about grammar. </h2></div></div><img id="om-lightbox-chalkboard-theme-arrow" src="http://www.myenglishteacher.eu/wp-content/plugins/optin-monster/inc/css/images/chalkboard-arrow.png" alt="Arrow"><div id="om-lightbox-chalkboard-theme-footer" class="om-clearfix om-has-name-email" style="background-color: #eaeaea;"><input id="om-lightbox-chalkboard-theme-optin-name" type="text" value="" placeholder="Your Name" style="color:#ffffff;font-family:'Tahoma', sans-serif;font-weight:normal;font-style:normal;text-decoration:none;text-align:left;"><input id="om-lightbox-chalkboard-theme-optin-email" type="email" value="" placeholder="Your Email" style="font-family:'Tahoma', sans-serif;font-weight:normal;font-style:normal;text-decoration:none;text-align:left;"><input id="om-lightbox-chalkboard-theme-optin-submit" type="submit" value="Give it to me" style="color:#ffffff;background-color:#ed7f36;font-family:'Tahoma', sans-serif;font-weight:normal;font-style:normal;text-decoration:none;text-align:center;"></div></div></div><script type="text/javascript">function om_js_kg1w9yixw9_lightbox(){this.init = function($){this.resize_element($, "div#om-kg1w9yixw9-lightbox #om-lightbox-chalkboard-theme-optin");},this.resize_element = function($, el){$(el).css({ top: ($(window).height() - $(el).height()) / 2, left: ($(window).width() - $(el).width()) / 2 });$(window).resize(function(){$(el).css({ top: ($(window).height() - $(el).height()) / 2, left: ($(window).width() - $(el).width()) / 2 });});}}</script></div><script type="text/javascript">var kg1w9yixw9_lightbox;var omo = {"type":"lightbox","optin":"kg1w9yixw9-lightbox","ajax":"http:\/\/www.myenglishteacher.eu\/?optin-monster-ajax-route=1","theme":"chalkboard-theme","id":928,"cookie":0,"delay":0,"hash":"kg1w9yixw9-lightbox","second":0,"test":false,"exit":false,"custom":false,"global_cookie":false,"fonts":"Vollkorn"};kg1w9yixw9_lightbox = new OptinMonster(); kg1w9yixw9_lightbox.init(omo);</script>
+<!-- / OptinMonster WordPress plugin. -->
+<!--wp_footer--><a href="#top" title="Scroll to top" id="scroll-top-link" aria-hidden="true" data-av_icon="" data-av_iconfont="entypo-fontello"></a>
+<div id="fb-root"></div>
+array(3) {
+  [0]=&gt;
+  string(0) ""
+  [1]=&gt;
+  string(14) "privacy-policy"
+  [2]=&gt;
+  string(0) ""
+}
+
+
 
 </body></html>
