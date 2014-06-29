@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the coldwellbanker.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230084346id_/http%3A//www.coldwellbanker.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coldwellbanker.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629114501id_/http%3A//www.coldwellbanker.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Coldwell Banker
 
 ## Coldwell Banker ®  
 PRIVACY STATEMENT
 
-_Last modified 5/31/08_
+_Updated and Revised January 1, 2014_
 
 Coldwell Banker Real Estate LLC operates the web site at www.coldwellbanker.com ("Site").
 
@@ -21,7 +21,7 @@ Scope of this Privacy Statement
 
 This Privacy Statement applies to your use of this Site only. We do not own, operate or control the web sites of our Franchisees or sales associates. Accordingly, this Statement does not apply to a Franchisee's or sales associate's web site or to a Franchisee's or sales associate's collection, use, storage and disclosure of your Personal Information.
 
-1.Collection and Use of Your Personal Information
+1\. Collection and Use of Your Personal Information
 
 We collect your Personal Information on the Site in order to enhance the services we offer you. We collect Personal Information from you only when you voluntarily submit it in order to obtain certain services or information, including (A) registrations for special communications, such as saving a search for you and, but only if you request it, sending you new listings that fit the profile of your saved search; (B) requests to find a property, to list your property, and to find a sales associate; (C) requests to contact us; (D) requests to receive periodic industry updates; (E) requests to email a listing to a friend; and (F) applications for employment.
 
@@ -33,7 +33,7 @@ If you choose to send a listing to a friend, you will be asked to provide the fr
 
 If you are seeking employment, you will be asked to provide Personal Information about yourself. We refer this information to Franchisees in the geographic area in which you live. If you have sought employment at our company headquarters, the information is forwarded to our Corporate Human Resources Department.
 
-2.Collection of Non-Personal Information
+2\. Collection of Non-Personal Information
 
 Even if you do not send us any Personal Information, we collect information about how you use our site ("Non-Personal Information"). This information cannot be used to identify you personally and is explained in more detail below under "Non-Personal Information".
 
@@ -43,15 +43,11 @@ Like many sites, we obtain Non-Personal Information such as IP (internet protoco
 
 We send to your web browser some of the advertisements you see when you use our network of web sites. However, we also allow other companies, called third-party ad servers or ad networks, to serve advertisements within our web pages. Because your web browser must request these advertising banners from the ad network web site, these companies can send their own cookies to your cookie file, just as if you had requested a web page from the web site. Please note that if an advertiser asks us to show an advertisement to a certain audience (for example, men ages 18-34) or audience segment (for example, men ages 18-24 who have viewed sports content) and you respond to that ad, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. As always, remember we authorize our third-party ad servers to employ anonymous cookies only for ad delivery and anonymous targeting. Our third-party ad servers do not collect, nor do we give them access, to any Personal Information about you.
 
-If you want to prevent a third-party ad server from sending and reading cookies on your computer, currently you must visit each ad network's web site individually and opt out (if they offer this capability). Currently, we have relationships with the following third-party ad networks (click to visit their Web sites and review their privacy statements):
-
-24/7 Real Media, Inc. http://www.247realmedia.com/privacy.html
-
-3.Use of Information
+3\. Use of Information
 
 We use the Personal Information and the Non-Personal Information we collect on the Site (A) to provide you with the services that you ask to receive through the Site, including saving searches and, if you request it, sending you updates about those searches, (B) to receive, if you choose, to receive periodic industry updates, (C) to answer your questions or complaints, (D) to refer you to Franchisees and sales associates about finding or listing a property or to locate a sale associate; (E) to refer a listing to a friend, and (F) for analytical purposes to help us improve the Site and for our business generally.
 
-4.Sharing Your Information
+4\. Sharing Your Information
 
 We do not rent, sell, or share with third parties the Personal Information we collect from you on this Site except (i) to provide information or services that you have requested, (ii) with your permission, or (iii) under the following circumstances:
 
@@ -62,25 +58,25 @@ We do not rent, sell, or share with third parties the Personal Information we co
 
 The Site contains links to third-party web sites, including a mortgage company, our Franchisees, our advertisers, or banner advertising. If you hold your mouse over a link, it will indicate whether clicking the link will send you off our Site. When you click on those links, you will go to a third-party site where you will be subject to that site's privacy statement and we encourage you to read that policy statement. Please be aware that we are not responsible for the privacy practices of those other web sites and we expressly disclaim any liability for their actions, including actions relating to the use and disclosure of Personal Information by those third parties. We remind you to be aware of when you leave our Site and enter a third-party web site, including one of our independent Franchisees, and again encourage you to read the privacy statement on any web site that collects your Personal Information.
 
-5.Security
+5\. Security
 
 Our hosting services maintains its systems in accordance with reasonable industry standards to reasonably secure the information of its customers. However, no data transmission over the Internet can be guaranteed to be 100% secure. "Perfect security" does not exist on the Internet, and you use the Site at your own risk.
 
-6.Correction/Updating Personal Information
+6\. Correction/Updating Personal Information
 
 If your Personal Information changes or if you no longer wish to use the Site, you may correct or update your Personal Information or unsubscribe from any industry updates you have requested by modifying or deleting your profile on the Site, writing to customer service at:
 
 **Coldwell Banker** Customer Service Attn: Interactive Marketing  
-1 Campus Drive  
-Parsippany, NJ 07054  
+175 Park Avenue  
+Madison, NJ 07940  
 or  
 [unsubscribe@coldwellbanker.com](mailto:unsubscribe@coldwellbanker.com)
 
-7.Children
+7\. Children
 
 This Site is not directed to children under the age of 13 ("Children"), and we do not knowingly collect any information, including Personal Information, from Children. 
 
-8.California Privacy Rights
+8\. California Privacy Rights
 
 Under California law, California residents have the right to request in writing from businesses with whom they have an established business relationship (1) a list of categories of personal information, such as name, address, e-mail address, and the type of services provided to the customer, that a business has disclosed to third parties [including affiliates that are separate legal entities] during the immediately preceding calendar year for the third parties' direct marketing purposes and (2) the names and addresses of all such third parties.
 
@@ -88,20 +84,20 @@ To request the above information please contact us by writing to customer servic
 
 **Coldwell Banker Customer Service  
 Attn: Interactive Marketing  
-1 Campus Drive  
-Parsippany, NJ 07054  
+175 Park Avenue  
+Madison, NJ 07940  
 or  
 by using the ["Contact Us"](https://web.archive.org/contact) feature.  
 **
 
 We will respond to such requests within 30 days of receipt. Please note that we are only required to respond to each customer once per calendar year.
 
-9.Comments and Questions
+9\. Comments and Questions
 
 If you have any questions or concerns about this Privacy Statement, please contact us by using the ["Contact Us"](https://web.archive.org/contact) feature or by postal mail at
 
 **Coldwell Banker Customer Service  
 Attn: Interactive Marketing  
-1 Campus Drive  
-Parsippany, NJ 07054  
+175 Park Avenue  
+Madison, NJ 07940  
 **
