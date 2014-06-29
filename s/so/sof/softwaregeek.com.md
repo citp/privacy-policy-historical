@@ -1,6 +1,22 @@
-> *The following text is extracted and transformed from the softwaregeek.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201022532id_/http%3A//www.softwaregeek.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softwaregeek.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629102638id_/http%3A//www.softwaregeek.com/privacy) for the most accurate reproduction.*
 
 # Software Geek - Free Software Downloads and Reviews - Privacy Policy
+
+  
+
+
+  * [Audio](https://web.archive.org/catalog/audio/1.html)
+  * [Business & Finance](https://web.archive.org/catalog/business___finance/1.html)
+  * [Desktop Enhancements](https://web.archive.org/catalog/desktop_enhancements/1.html)
+  * [Games](https://web.archive.org/catalog/games/1.html)
+  * [Home & Education](https://web.archive.org/catalog/home___education/1.html)
+  * [Internet](https://web.archive.org/catalog/internet/1.html)
+  * [Multimedia & Design](https://web.archive.org/catalog/multimedia___design/1.html)
+  * [Software Development](https://web.archive.org/catalog/software_development/1.html)
+  * [Utilities](https://web.archive.org/catalog/utilities/1.html)
+  * [Web Authoring](https://web.archive.org/catalog/web_authoring/1.html)
+
+| 
 
 Thank you for visiting softwaregeek.com. We are committed to protecting the information about our visitors.   
 This privacy policy states how we collect and use the information collected at our site. 
