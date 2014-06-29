@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the amateurlivecams.com privacy policy that was archived on 2013-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130615024530id_/http%3A//www.amateurlivecams.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amateurlivecams.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629034656id_/http%3A//www.amateurlivecams.com/privacy.html%3F) for the most accurate reproduction.*
 
-# AmateurLiveCams - Privacy
+# AmateurLiveCams - Privacy Policy
 
 [Home](http://www.amateurlivecams.com/) / Privacy Policy
 
@@ -47,9 +47,7 @@ If you have any questions about this Privacy Policy, please contact our customer
 
 The address for correspondence by post is
 
-Streamates Limited  
-c/o Ariel Secretaries Limited  
-196, Arch Makarios Ave, Ariel Corner,  
-1st Flr, Office 102  
-P.O. Box 57528  
-3316 Limassol - Cyprus
+ICF Technology, Inc.  
+PO Box 21508  
+Seattle, WA 98111  
+USA 
