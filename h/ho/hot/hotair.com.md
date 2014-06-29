@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotair.com privacy policy that was archived on 2013-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131224172117id_/http%3A//hotair.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotair.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629102006id_/http%3A//hotair.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Hot Air
 
