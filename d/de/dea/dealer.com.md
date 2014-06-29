@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the dealer.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220154507id_/http%3A//www.dealer.com/company/dealer-com-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealer.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629115124id_/http%3A//www.dealer.com/company/dealer-com-privacy-policy) for the most accurate reproduction.*
 
 # Dealer.com Privacy Policy | Dealer.com
 
 Dealer Dot Com, Inc. (“Dealer.com”) takes your privacy seriously and is committed to safeguarding your privacy online. Because we do gather certain types of information from visitors to our sites, we have developed a privacy statement to help you understand the terms and conditions surrounding the collection and use of that information. This statement discloses the types of information we gather, how it is used, and how you can gain access to and edit any data that we’ve collected about you at any time.
 
-Dealer.com has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through the Web site [www.dealer.com](http://www.dealer.com/) and does not cover information that may be collected through our mobile applications. If you have questions or complaints regarding our privacy policy or practices, please [contact us here](https://web.archive.org/contact/ "Contact"). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
-
-[](http://privacy.truste.com/privacy-seal/Dealer-Dot-Com,-Inc-/validation?rid=e69c800e-ba11-4315-862f-329ec866c283 "TRUSTe online privacy certification")
+Dealer.com has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe’s program requirements including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through the Web site www.dealer.com and does not cover information that may be collected through our mobile applications. If you have questions or complaints regarding our privacy policy or practices, please contact us here. If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
 
 **Guiding Principles:**
 
@@ -28,7 +26,7 @@ Dealer.com understands the importance of your privacy. We collect and maintain t
 
 Business Partners:
 
-Dealer.com may partner with select retailers and other companies at various times to provide expanded services to our site visitors. As part of such a relationship, we may share with these companies the use of certain interactive Web site functions (e.g., when registering for events). Information provided by site visitors through the use of such interactive functions may be available to both Dealer.com and our partners. In addition, note that such third parties may provide access to additional privacy policies related to the service, which should be reviewed by you.
+Dealer.com may partner with select retailers and other companies at various times to provide expanded services to our site visitors. As part of such a relationship, we may share with these companies the use of certain interactive Web site functions (e.g., when registering for events). Information provided by site visitors through the use of such interactive functions may be available to both Dealer.com and our partners.  In addition, note that such third parties may provide access to additional privacy policies related to the service, which should be reviewed by you.
 
 Service Providers:
 
@@ -48,7 +46,7 @@ Other than as set forth in this Privacy Policy, you will be notified when any pe
 
 **Use of Cookies and Other Technologies:**
 
-Dealer.com, and its third party analytics partners, may use a browser feature known as a “cookie.” Cookies are small files placed on your hard drive that assist us in providing you with a customized browsing experience. Dealer.com uses cookies to provide you with the convenience of not having to reenter information, such as your contact details, multiple times during your visits to our Web sites. Cookies can also be utilized to help us provide you with information targeted to your interests, based upon your prior browsing on our Web sites. The “help” section of the toolbar on most browsers will inform you on how to prevent your browser from accepting new cookies, how to have the browser notify you upon the receipt of a new cookie, or how to disable the use of cookies completely. As our Web sites have been designed to take advantage of the use of cookies, should you configure your browser to decline their use, certain features of our Web sites may not function correctly and you may be required to reenter information more frequently.
+Dealer.com, and its third party analytics partners, may use a browser feature known as a “cookie.” Cookies are small files placed on your hard drive that assist us in providing you with a customized browsing experience. Dealer.com uses cookies to provide you with the convenience of not having to reenter information, such as your contact details, multiple times during your visits to our Web sites. Cookies can also be utilized to help us provide you with information targeted to your interests, based upon your prior browsing on our Web sites. The “help” section of the toolbar on most browsers will inform you on how to prevent your browser from accepting new cookies, how to have the browser notify you upon the receipt of a new cookie, or how to disable the use of cookies completely. As our Web sites have been designed to take advantage of the use of cookies, should you configure your browser to decline their use, certain features of our Web sites may not function correctly and you may be required to reenter information more frequently.  Third parties may collect information about your online activities over time and across different websites when you use this website.
 
 Web Beacons / Gifs:
 
@@ -58,7 +56,11 @@ Flash LSOs:
 
 We use local shared objects, also known as Flash cookies, to assist us with the display of video content on our site.  Flash cookies are different from browser cookies because of the amount of, type of, and how data is stored.  Cookie management tools provided by your browser will not remove Flash cookies.  To learn how to manage privacy and storage settings for Flash cookies click here:
 
-[http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118)
+<http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118>
+
+Third Party Tracking:
+
+Third parties may collect information about your online activities over time and across different websites when you use this website.
 
 **Correcting, Updating, Deleting Your Information:**
 
@@ -86,11 +88,15 @@ Our Web site includes Social Media Features, such as the Facebook Like button. T
 
 **Security:**
 
-The security of your personal information is important to us.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security. ****
+The security of your personal information is important to us.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
 **Opt-out Procedures:**
 
 Out of respect for your privacy, you may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us via one of the methods listed below.
+
+**Browser-Based Do Not Track:**
+
+Some browsers incorporate a “Do Not Track” (DNT) feature that, when turned on, signals to websites and online services that you do not want to be tracked. Because there is not yet an accepted standard for how to respond to a DNT signal, we do not currently respond to DNT signals on this website or on websites where we provide advertisements, content, or other services.
 
 **Children’s Privacy:**
 
@@ -98,7 +104,7 @@ This web site is not directed to children under the age of thirteen, and we do n
 
 **Updates to Our Privacy Policy:**
 
-This Privacy Policy may be updated periodically to reflect changes in our online information practices.  If we make any material changes, we will notify you by a prominent notice on our site.  Please check back from time to time to be aware of any changes to the Privacy Policy.
+This Privacy Policy may be updated periodically to reflect changes in our online information practices.  If we make any material changes, we will notify you by a prominent notice on our site.  Please check back from time to time to be aware of any changes to the Privacy Policy.
 
 **Agreement to Privacy Policy:**
 
@@ -106,4 +112,4 @@ Your use of this site constitutes acceptance of the provisions of the Dealer.com
 
 **Contacting the Web Sites:**
 
-If you have questions concerning this Privacy Policy or the practices of these sites, you may contact us by [clicking here](http://vtqa-dealerdotcom01.dealer.ddc/contact/ "Contact"), by calling 802.658.0965, or by writing to us at Dealer.com, 1 Howard Street, Burlington, Vermont 05401.
+If you have questions concerning this Privacy Policy or the practices of these sites, you may contact us by [clicking here](https://web.archive.org/contact/), by calling 802.658.0965, or by writing to us at Dealer.com, 1 Howard Street, Burlington, Vermont 05401.
