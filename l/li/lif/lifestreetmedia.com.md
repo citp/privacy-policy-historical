@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifestreetmedia.com privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112032848id_/http%3A//www.lifestreetmedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifestreetmedia.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630005122id_/http%3A//lifestreetmedia.com/privacy) for the most accurate reproduction.*
 
 # LifeStreet Media — Privacy Policy
 
@@ -59,11 +59,11 @@ Because it does not knowingly collect PII from children under the age of 13, Lif
 
 ##### Third Party Information Collection and Use
 
-Through the use of our services you may be linked to our client's websites or applications. Such websites may use cookies and/or other data collection tools. LifeStreet is not responsible for the privacy practices, policies or content of those websites. LifeStreet has no control over any third party website or application and thus does not control the collection, storage or use of information by or through third party websites. The privacy policies of those websites or applications should be reviewed at the time you access them or enter any information into them.
+Through the use of our services you may be linked to our client's websites or applications. Such websites may use cookies and/or other data collection tools. LifeStreet is not responsible for the privacy practices, policies or content of those websites. LifeStreet has no control over any third party website or application and thus does not control the collection, storage or use of information by or through third party websites. The privacy policies of those websites or applications should be reviewed at the time you access them or enter any information into them. Some of our clients are members of the Network Advertising Initiative, which provides a means of opting out of data collection that is available [here](http://www.networkadvertising.org/managing/opt_out.asp).
 
 ##### Contact Information
 
-If you have any questions, please feel free to contact us at [privacy@lifestreet.com](mailto:privacy@lifestreet.com "privacy@lifestreet.com").
+If you have any questions, please feel free to contact us at .
 
 LifeStreetMedia.com (the "Website") is an Internet property of LifeStreet ("us" or "we"). We provide this privacy policy ("Privacy Policy) so that we may inform you about how our technology ("Technology") processes information on behalf of the online advertisers, website owners and other businesses that use our services. You agree to this Privacy Policy, in its entirety, when you: (1) access or use the Website; and/or (2) apply for any information or services available through the Website ("Services"). If you do not agree with the terms and conditions of our Privacy Policy, please do not use or access the Website or apply for the Services.
 
