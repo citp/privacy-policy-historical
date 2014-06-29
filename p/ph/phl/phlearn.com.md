@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phlearn.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230110116id_/http%3A//phlearn.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phlearn.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629230832id_/http%3A//phlearn.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
