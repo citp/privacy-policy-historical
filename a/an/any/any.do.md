@@ -1,13 +1,15 @@
-> *The following text is extracted and transformed from the any.do privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529074534id_/http%3A//www.any.do/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the any.do privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629060847id_/http%3A//www.any.do/privacy) for the most accurate reproduction.*
 
-# Privacy | Any.DO
+# Any.do Privacy Policy
 
 In keeping with our commitment to transparency, below you'll find our Privacy Policy in full. We ask you to read it thoroughly and contact us if you have any questions.
 
 ### In brief:
 
-  1. Any.DO is a free to-do app that helps you capture, organize & sync all the things you need to do and makes sure you get it done. Any.DO also makes it easy to connect with your friends for mutual assistance. In order to give you the best possible experience, we collect and store some certain information that lets us tailor our services to best assist you in getting your things done. An example of the information we may collect is information deriving from your activation and use of location-based services on your mobile device. We may sample information regarding your location using the GPS in your mobile device (if activated by you) in order to allow us to provide you with the most relevant service provider in your vicinity for the accomplishment of your tasks.
+  1. Any.DO is collection of productivity applications that helps you organize your everyday life and get things done. In order to give you the best possible experience, we collect and store some certain information that lets us tailor our services to best assist you with your everyday life. An example of the information we may collect is information deriving from your activation and use of location-based services on your mobile device. We may sample information regarding your location using the GPS in your mobile device (if activated by you) in order to allow us to provide you with the most relevant service provider in your vicinity for the accomplishment of your tasks.
+
   2. Occasionally we will need to share some information with our partners and providers in order to help you get your things done. This information will be fully anonymized to protect your privacy.
+
 
 
 
@@ -47,7 +49,7 @@ So that we are able to answer your questions and requests as thoroughly as possi
 
 #### 6\. Minimum Age of Use
 
-The minimum age of use for the Services is 13 years of age. We do not knowingly solicit and collect personal information from individuals younger than 13 years of age. If you do not meet this minimum age requirement, you should not register for Any.DO services, nor should you furnish information such as your name, address, phone number, or email address to us. In the event that we discover usage by an individual under the age of 13 without parental consent, we will make every effort to delete their personal information immediately. To inform us of usage by a child under 13, please contact us at [privacy@any.do](mailto:privacy@any.do).
+The minimum age of use for the Services is 13 years of age. We do not knowingly solicit and collect personal information from individuals younger than 13 years of age. If you do not meet this minimum age requirement, you should not register for Any.DO services, nor should you furnish information such as your name, address, phone number, or email address to us. In the event that we discover usage by an individual under the age of 13 without parental consent, we will make every effort to delete their personal information immediately. To inform us of usage by a child under 13, please contact us at [privacy@any.do](mailto:privacy@any.do). 
 
 #### 7\. Actions in Public and Community Areas
 
@@ -79,11 +81,11 @@ Further Explanation of Policies Regarding Sharing Information to Partners and Ot
 
 We may share information to our partners and other companies as described above or under the following limited circumstances:
 
-  * When you have given us your prior consent, such as opting-in for a service or transaction or by accepting this Privacy policy.
-  * When we need to complete a transaction with one of our affiliated companies or business partners. In these circumstances, we shall require our partners and affiliates to comply with the terms laid out in this Privacy Policy. If the transaction requires that you set up an individual account with the third party, then their Privacy Policy governs your information and actions on that service.
-  * When we believe in good faith that using or disclosing your information is necessary in order to uphold applicable laws, regulations, legal processes or enforceable governmental requests, and when we must enforce the Any.DO's Terms of Service. This includes instances when we may need to investigate potential violations of these agreements, detect and prevent fraud, and address issues pertaining to the security of the Services. This also includes instances when we may need to protect against harm to the property, rights, and safety of Any.DO, its users and the public as required by law.
-  * If Any.DO enters into a merger, acquisition or other sale of its assets, we will issue a notice before your personal information is transferred. In this event, your information will become subject to a different privacy policy.
-  * When Any.DO shares non-personal information to partners and third parties. This information does not include personal details or identify individuals. It may include statistics of application usage, number of users as well as search data.
+  * When you have given us your prior consent, such as opting-in for a service or transaction or by accepting this Privacy policy. 
+  * When we need to complete a transaction with one of our affiliated companies or business partners. In these circumstances, we shall require our partners and affiliates to comply with the terms laid out in this Privacy Policy. If the transaction requires that you set up an individual account with the third party, then their Privacy Policy governs your information and actions on that service. 
+  * When we believe in good faith that using or disclosing your information is necessary in order to uphold applicable laws, regulations, legal processes or enforceable governmental requests, and when we must enforce the Any.DO's Terms of Service. This includes instances when we may need to investigate potential violations of these agreements, detect and prevent fraud, and address issues pertaining to the security of the Services. This also includes instances when we may need to protect against harm to the property, rights, and safety of Any.DO, its users and the public as required by law. 
+  * If Any.DO enters into a merger, acquisition or other sale of its assets, we will issue a notice before your personal information is transferred. In this event, your information will become subject to a different privacy policy. 
+  * When Any.DO shares non-personal information to partners and third parties. This information does not include personal details or identify individuals. It may include statistics of application usage, number of users as well as search data. 
 
 
 
@@ -93,7 +95,7 @@ Upon receipt of a transmission from a user, we take appropriate action to ensure
 
 Access to personal information is available only to the employees, contractors, and partners of Any.DO who must use that information in order to provide the Services, develop or improve them. Prior to accessing the personal information, these individuals have agreed to confidentiality agreements and may be subject to disciplinary action, possible termination, or criminal prosecution if they do no abide by these agreements.
 
-In the event of a violation of our security system, we will attempt to inform you electronically and instruct you on the appropriate course of action in order to protect your information. When you use Any.DO's Services, you agree to receive electronic communications from us regarding any issues of security or privacy that arise from use of the Services. If a violation of our security system occurs, you may see a notice on our Website or receive an email to the email address that you have provided upon registration. According to the jurisdiction where you reside, you may also have the right to receive this notice in writing. To receive free written notice from Any.DO regarding a security breach (or withdraw your consent from receiving electronic notice) you must contact us at [privacy@any.do](mailto:privacy@any.do).
+In the event of a violation of our security system, we will attempt to inform you electronically and instruct you on the appropriate course of action in order to protect your information. When you use Any.DO's Services, you agree to receive electronic communications from us regarding any issues of security or privacy that arise from use of the Services. If a violation of our security system occurs, you may see a notice on our Website or receive an email to the email address that you have provided upon registration. According to the jurisdiction where you reside, you may also have the right to receive this notice in writing. To receive free written notice from Any.DO regarding a security breach (or withdraw your consent from receiving electronic notice) you must contact us at [privacy@any.do](mailto:privacy@any.do). 
 
 We will process your personal information in accordance with this Privacy Policy and use it for the purposes that have been outlined above. In order to ensure that we are collecting and storing only the necessary date, we periodically review our data collection and implement changes to improve the Services. You should be vigilant in updating your personal information whenever there is reason to do so, as we rely on accurate information to provide the Services. Copies of your information may still be accessible even after they have been removed from the Services if they have been cached or if other users have copied or stored your information with your prior consent.
 
