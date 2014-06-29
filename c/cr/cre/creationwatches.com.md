@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creationwatches.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210053938id_/http%3A//www.creationwatches.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creationwatches.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629230932id_/http%3A//www.creationwatches.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy :
 
