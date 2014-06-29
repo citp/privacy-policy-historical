@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trafficadbar.com privacy policy that was archived on 2013-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130919055923id_/http%3A//www.trafficadbar.com/general/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficadbar.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629231803id_/http%3A//www.trafficadbar.com/general/privacy.php) for the most accurate reproduction.*
 
 # Free advertising traffic exchange - Traffic Ad Bar
 
