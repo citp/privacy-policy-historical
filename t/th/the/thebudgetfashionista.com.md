@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thebudgetfashionista.com privacy policy that was archived on 2013-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131205180401id_/http%3A//www.thebudgetfashionista.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebudgetfashionista.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629222147id_/http%3A//www.thebudgetfashionista.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » Women, Fashion Advice, Beauty Tips, and More | The Budget Fashionista
 
