@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the learnhowtomakebows.com privacy policy that was archived on 2013-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130204163053id_/http%3A//learnhowtomakebows.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learnhowtomakebows.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629045645id_/http%3A//www.learnhowtomakebows.com/privacy.html) for the most accurate reproduction.*
 
-# Learn How to Make Hair Bows | Free Instructions to Make a Hair Bow
+# Learn How To Make Bows - Privacy Policy
 
-**Privacy Policy:**  
----  
+## **Privacy Policy:**  
   
 **What information do we collect?**  
   
@@ -17,22 +16,22 @@ When ordering or registering on our site, as appropriate, you may be asked to en
   
 Any of the information we collect from you may be used in one of the following ways:   
   
-To improve our website   
+• To improve our website   
   
 > (we continually strive to improve our website offerings based on the information and feedback we receive from you)  
   
   
-To improve customer service   
+• To improve customer service   
   
 > (your information helps us to more effectively respond to your customer service requests and support needs)  
   
   
-To process transactions   
+• To process transactions   
   
 > Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.  
   
   
-To send periodic emails   
+• To send periodic emails   
   
 > The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
 
@@ -89,7 +88,7 @@ This policy was last modified on August 1, 2010
 If there are any questions regarding this privacy policy you may contact us using the information below.   
   
 http://www.LearnHowToMakeBows.com  
-Raleigh, NC 27603   
+Cary, NC 27519  
 United States  
 learnhowtomakebows@gmail.com  
 
