@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zagg.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124155611id_/http%3A//www.zagg.com/company/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zagg.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629231535id_/http%3A//www.zagg.com/company/privacypolicy.php) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | ZAGG
 
 The ZAGG family (ZAGG Inc, iFrogz Inc., ZAGG Retail, Inc., ZAGG Intellectual Property Holding Co., Inc.) (hereinafter "ZAGG" or "We") is committed to the protection and proper use of our customers' personal information. Accordingly, we have developed this Policy to set forth the information we collect and how we collect, use, disclose and store your information. 
 
@@ -17,10 +17,10 @@ We may also collect certain additional information and store it in our log files
 We use your personal information to conduct our business and to provide you with a satisfying shopping experience and high quality products and services. The following are examples of how we use your personal information:
 
   * We may use your personal information to help us develop and deliver quality products and services.
-  * We may use your personal information to contact you regarding upcoming events, promotions, new products and the like. 
-  * We may share your information with third-party service providers, who work with us to provide products and services, or who help ZAGG market to customers. We require that our third-party service providers use your personal information only to perform their obligations to ZAGG in accordance with providing you with quality products and services. We will not share your personal information with any third parties for any third parties' marketing purposes.
+  * We may use your personal information to contact you regarding upcoming events, promotions, new products and the like.
+  * We may share your information with third-party service providers, who work with us to provide products and services, or who help ZAGG market to customers. We require that our third-party service providers use your personal information only to perform their obligations to ZAGG in accordance with providing you with quality products and services. We will not share your personal information with any third parties for any third parties' marketing purposes. 
   * We may disclose your personal information when we have reason to believe that it is necessary to identify you, contact you, or bring legal action to protect our rights or the rights of our customers. 
-  * We may disclose your personal information when you ask us to do so or when we believe it is required by law, litigation and/or requests from public and governmental authorities.
+  * We may disclose your personal information when you ask us to do so or when we believe it is required by law, litigation and/or requests from public and governmental authorities. 
   * We may use your personal information for internal purposes, such as auditing.
   * We may use your personal information to administer programs in which you voluntarily participate, such as contests or promotions.
   * We may use your information to administer our websites, to gather demographic information about our customers and to analyze user behaviors on our websites.
@@ -36,8 +36,8 @@ We will not knowingly collect information from children under 13 years of age. I
 ZAGG maintains certain protocols in order to protect the security of your information. The following are examples of how we protect your personal information:
 
   * We communicate our privacy policy and security guidelines to ZAGG employees and strictly enforce privacy safeguards within the ZAGG family of companies.
-  * We utilize Secure Socket Layer (SSL) technology to encrypt the data you provide to us while placing an order with us online. Some computers may not be able to "communicate" with our secure server. If you experience any difficulty, please call a member of the ZAGG Team at 800-700-ZAGG (9244) to place your order over the phone.
-  * In addition to encrypting your credit card information while it travels over the Internet, for your security, we do not store credit card information in our systems.
+  * We utilize Secure Socket Layer (SSL) technology to encrypt the data you provide to us while placing an order with us online. Some computers may not be able to "communicate" with our secure server. If you experience any difficulty, please call a member of the ZAGG Team at 800-700-ZAGG (9244) to place your order over the phone. 
+  * In addition to encrypting your credit card information while it travels over the Internet, for your security, we do not store credit card information in our systems. 
 
 
 
