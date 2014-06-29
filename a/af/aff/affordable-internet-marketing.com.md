@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the affordable-internet-marketing.com privacy policy that was archived on 2013-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130904025336id_/http%3A//www.affordable-internet-marketing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affordable-internet-marketing.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629060053id_/http%3A//www.affordable-internet-marketing.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-You're here: [AIM Home](http://www.affordable-internet-marketing.com/) » [RSS Only](http://www.affordable-internet-marketing.com/category/rss-only/) » **Privacy Policy**
+You're here:  [AIM Home](http://www.affordable-internet-marketing.com/) » [RSS Only](http://www.affordable-internet-marketing.com/rss-only/) » **Privacy Policy**
 
 This is the web site of Affordable Internet Marketing.  
 This site is owned by Case Stevens  
@@ -55,8 +55,6 @@ In case of a survey or site registration we will store your information with the
 We use third-party advertising companies to serve ads when you visit our website.  
 These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.  
 If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/policies/privacy/ads/).
-
-(Visited 15 times, 1 visits today)
 
 [](http://pinterest.com/casestevens/)
 
