@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arcteryx.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203051006id_/http%3A//www.arcteryx.com/Privacy.aspx%3FEN) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcteryx.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629175116id_/http%3A//arcteryx.com/Privacy.aspx%3FEN) for the most accurate reproduction.*
 
 # Privacy Policy / Arc'teryx
 
@@ -14,8 +14,7 @@ Canada V7H 1A8
 
 **Main Reception:**  
 Phone: 604.960-3001  
-Fax: 604.904-3692  
-Toll Free: 1-866-458-2473 
+Fax: 604.904-3692
 
 ## Arc'teryx Privacy Policy
 
@@ -102,7 +101,7 @@ In the event of changes or opt-out requests, Arc'teryx may retain the personal i
 
 ### Questions or Comments
 
-If you have questions or comments about our personal information practices, please contact our Privacy Officer at Arc'teryx, Suite 100, 2155 Dollarton Highway, North Vancouver, British Columbia, Canada V7H 3B2, by e-mail at [privacy@arcteryx.com](mailto:privacy@arcteryx.com?subject=Privacy%20Policy%20Enquiry), or by telephone at 604.960.3001. 
+If you have questions or comments about our personal information practices, please contact our Privacy Officer at Arc'teryx, Suite 100, 2155 Dollarton Highway, North Vancouver, British Columbia, Canada V7H 3B2, by e-mail at [privacy@arcteryx.com](mailto:privacy@arcteryx.com?subject=Privacy%20Policy%20Enquiry), or by telephone at 604.960.3001.
 
 You may contact us at the address, e-mail address or telephone above to obtain a current copy of our Privacy Policy.
 
