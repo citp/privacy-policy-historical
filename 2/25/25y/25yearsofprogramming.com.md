@@ -1,149 +1,100 @@
-> *The following text is extracted and transformed from the 25yearsofprogramming.com privacy policy that was archived on 2013-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130828104014id_/http%3A//25yearsofprogramming.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 25yearsofprogramming.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629035311id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
 
-# 25yearsofprogramming.com privacy policy
+# Legal Agreement
 
-This website is owned by an individual, Steven Whitney, who is sole operator and webmaster. In the future, any persons engaged to assist with the site will be required to understand and comply with the site's privacy policy.
+**Go Daddy Respects Your Privacy**
 
-I am located in the United States. The server hosting the website is in the United States. 
+**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
 
-The site's principal activity is publishing open source software and other content on the internet. It also is the online presence of my consulting business.
+**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-For questions or comments about this privacy policy, contact us from the [Feedback](https://web.archive.org/web/20130828104014id_/http%3A//25yearsofprogramming.com/feedback.htm) page. 
+**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
 
-  * You can browse this site and use most of its features without disclosing any personal information. 
-  * We only receive personal information about you if you choose to provide it. 
-  * If we do receive personal information from you, we will only use it for the purpose that it appears you intended. 
-  * We will protect your personal information from disclosure to the maximum degree we can, which is a substantially lesser degree than a large corporation with a secure server can provide. 
-  * We will not sell or rent your personal information to anyone.
-  * We will not otherwise disclose your personal information to anyone without your consent unless we are required to do so by a legal obligation or by an investigation into a violation of our Terms of Use in which you appear to be involved. 
-  * Your visit to the site generates information that does not identify you personally. That information is used for site usage analysis and other purposes.
-  * Our Discussion Forum uses a browser cookie to keep you logged in. 
-  * We use the Google Analytics statistical service, which uses a cookie that collects anonymous traffic data. 
-  * Most of the advertisements on our website use cookies. Some of those are of the type known as "tracking cookies". 
+**Information Collection and Use**
 
+Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
 
+We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-You can use the site if you are less than 13 years old, but please do not provide personal information about yourself to anyone while you are here.
+We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-If you attempt to hack this site or otherwise violate its [Terms of Use](https://web.archive.org/web/20130828104014id_/http%3A//25yearsofprogramming.com/termsofuse.htm "View this site's Terms Of Use"), this privacy policy does not apply to you, and information about you will not be kept confidential.
+We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-## What information we collect 
+We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-### Active information (information submitted by you)
+Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
 
-  1. You are free to browse the website without providing any personally identifying information. We only receive personally identifying information about you if you choose to provide it. 
-  2. If you send us an email, it will contain your return email address. 
-  3. In order to post messages to the discussion forum, you are required to provide your name and valid email address during a registration process. 
-  4. If you make a donation, we will see your email address that PayPal used for processing your donation.
-  5. There may in the future be additional areas of the website where you have the option of providing personal information, and there may in the future be features of the website that require it.  
+This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
 
+**Security**
 
+This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
 
-### Passive information (information collected automatically when you visit the site)
+**Updating Your Information**
 
-  6. Click-stream data and HTTP protocol elements. When you visit this website (when your browser sends a request to view one of its pages), information that does not identify you personally is sent to this website's server as part of your request. This information includes some items in the following list. Other items in the list may be determined from the information that is automatically sent:
+You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
 
+        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
+       ii.      You may send mail to Go Daddy at the following postal address:   
+               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
->   * The unique IP address of your computer. It tells our server which computer to send the requested page to. Your IP address also reveals the name of your Internet Service Provider and where they are located.
->   * The operating system and browser you are using and their version information. 
->   * The date and time.
->   * The URL of the webpage you clicked to this site from (the referrer). If the referrer was a search engine, the URL usually contains the search terms that caused this site's page to show up in the results.
-> 
+      iii.      You may call us at: (480) 505-8800
 
+       iv.      You may fax us at: (480) 505-8844
 
-## Cookies
+**Sending Emails**
 
-Cookies are text files that websites write to your computer in a folder that is specially designated for storing them. After a cookie is created, your browser automatically sends it back to the server with each page request. The most important thing a cookie does is uniquely identify your browser in order to maintain continuity during your visit to the site. There is more about cookies at [Wikipedia](http://en.wikipedia.org/wiki/HTTP_cookie "Wikipedia article about HTTP cookies."). 
+We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-There are two types of cookies. Session (temporary) cookies are automatically deleted when your close your browser. Persistent cookies remain on your computer to be reused the next time your browser interacts with the website that created it. 
+The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
 
-Most browsers give you the option of allowing or disallowing persistent cookies, session cookies, or both. 
+**Compliance with Laws and Law Enforcement**
 
-The only part of this site where cookies (from 25yearsofprogramming.com) need to be allowed is in the forum. If you block persistent cookies, you can browse the pages but can't log in. If you also block session cookies, the forum pages won't display properly. 
+We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-To analyze our traffic statistics, we use Google Analytics which [ creates a cookie on your computer](http://www.google.com/privacy_ads.html "A paragraph that describes the use of cookies by Google Analytics.") that [ collects anonymous site traffic data](http://www.google.com/analytics/tos.html "The source of this information is Paragraph 7 of the Google Analytics Terms of Service.").
+**Third Party Service Providers**
 
-Most of our advertisements are served by outside companies such as Google and Amazon.com. Your browser retrieves each ad from a website that is not ours. Most of the advertisements use "third party" cookies that are written and read by the advertiser. Those cookies are not readable or writeable by us. In addition, some of the ads may use [web beacons](http://www.webopedia.com/TERM/W/Web_beacon.html "Webopedia article about web beacons."), sometimes known as clear GIFs. 
+We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
 
-The owner of 25yearsofprogramming.com, Steven Whitney, is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com. Amazon.com ads use "third party" cookies as described above. 
+In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
 
-Google serves ads to our pages from its AdSense program and also from [companies](https://www.google.com/adsense/support/bin/answer.py?answer=94149 "Go to list of Google's third party ad serving companies.") that may use what are known as "tracking cookies". By placing their ads on many websites, and reading and writing their cookie on each visit, they can log which sites and pages a user has visited. This allows them to deliver ads relevant to a user's interests. One of the tracking cookies used by AdSense is the DoubleClick DART cookie. Google provides a way to ["opt out" from the DART cookie](http://www.google.com/privacy_ads.html ""Opt out" at Google.") being used in your browser (on all sites, not just ours). However, the opt out mechanism uses a cookie and therefore requires that cookies be enabled. We provide a much better alternative in [how to block tracking cookies in Internet Explorer and Firefox](https://web.archive.org/web/20130828104014id_/http%3A//25yearsofprogramming.com/blog/2008/20080419.htm "How to block tracking cookies."). 
+**Supplementation of Information**
 
-Some ads these days are in the form of Flash movies. Flash provides scripting capabilities that can make it a security and privacy hazard. [Google asserts](https://www.google.com/adsense/support/bin/answer.py?answer=94153&topic=14535) that it monitors the ads served through its network so that maliciously scripted ads cannot slip into the system. Nonetheless, such ads have slipped into other advertising networks, and we provide instructions [how to disable Flash](https://web.archive.org/web/20130828104014id_/http%3A//25yearsofprogramming.com/blog/2008/20080524.htm#howtodisableflash "How to disable Shockwave Flash in Internet Explorer."). 
+In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
 
-## How personally identifying information is used
+**Contests/Surveys**
 
-### Active information
+From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
 
-  1. We will not sell or rent your personal information to anyone.
-  2. We will not otherwise disclose your personal information to any third party without your permission except in situations where a) we are required to do so by a legal obligation or b) a preliminary investigation determines that you may be responsible for a hack attempt or other violation of our [Terms of Use](https://web.archive.org/web/20130828104014id_/http%3A//25yearsofprogramming.com/termsofuse.htm). If you attempt to hack this site or violate its Terms of Use, this privacy policy does not apply to you, and you cannot expect any of your information to be kept confidential.
-  3. As a general policy, we will use your personal information only for the purpose for which it appears you provided it.
-  4. Completion and support of the current activity. If you provide personal information such as your name and email address in an email and wish a reply, we may use it to reply to your message or respond to your request. 
-  5. **Donations privacy**. If you make a donation through PayPal, we receive your email address as part of the transaction confirmation. We won't use it to contact you unless a) some aspect of completing the transaction requires it, or b) you ask us to reply.
-  6. We have no guidelines for how long to keep personal information that you provide. We delete information in the normal course of events at whatever time it seems to be no longer needed.
+We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
 
+**Tell-A-Friend**
 
+If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
 
-### Passive information
+**What Happens to my Personal Information if I Opt Out?**
 
-  7. We may use logged or tabulated click-stream, HTTP protocol, and site usage reports in the course of system administration, to analyze site usage and traffic patterns, to identify referrers (which external site this site's visitors are coming from), and to improve site functionality.
-  8. Data that is aggregated or not personally identifying may be provided to third parties. Hypothetical examples of such information would be, "90 people viewed the Vintage Computing page last week" or "38% of this site's traffic last month came through ISPs located in New York City." 
-  9. We review the search terms that caused this site to turn up in search engine result pages, primarily to determine what new information should be added to the site to make it more useful.
-  10. In general, the restrictions that do and should apply to the use of information that personally identifies site visitors do not apply to information that is not personally identifying or that is aggregated. 
+If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
 
+**Transfer of Data Abroad**
 
+If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
 
-## Other information
+**Changes in Our Practices**
 
-If you submit an email Feedback request, comment, or a suggestion that we think is of general interest, we may edit and use your comments on the FAQ page or elsewhere, but we will not use your name or other information that identifies you without your permission. If the nature of the comment itself would tend to identify you, we won't use it without your permission.
+We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
-## Opt In, Opt Out
+If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
 
-We do not have a newsletter or mailing list. There is nothing you need to opt out of. As a general policy, any such features added to the site are "opt in". You will have to make a specific request if you want to receive them. 
+**Contacting Our Site**
 
-If you join the forum, you will receive a registration email, and after joining you will have the option of receiving certain notifications by email, such as when someone replies to a topic you are watching. 
+If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
 
-## Revising or updating your personal information
+* * *
 
-You are able to view, revise, or delete the personal information that you provide when you register for membership in the discussion forum. 
-
-## Site security
-
-This site does not use a secure server (https://) and it does not offer a secure encryption method for data transmission. This means that information sent between your browser and the site could potentially be intercepted and read by others.
-
-If you provide personal information, it may be stored:
-
-  1. On the website server. Websites can sometimes get hacked. If this were to happen, personal information stored on the server could be compromised. You should not put unnecessary personal information in emails or other communications.
-  2. On a website administrator's computer that is used to access and maintain the site. This is likely to be a personal computer in a residence and thus inherently insecure.
-
-
-
-## Children's privacy
-
-This website is not directed at children, but it may be used by persons of any age, and its content is intended to be suitable for persons of any age who can understand it.
-
-We do not knowingly collect personally identifying information from children under the age of 13. If personal data is inadvertently collected from or about anyone under the age of 13, it will be promptly deleted.
-
-If you are under the age of 13, please do not give personal information about yourself on this website. Please don't use your full name, and don't give anyone your email address.
-
-## Violations of this website's Terms of Use
-
-If you attempt to hack this site or otherwise violate its [Terms of Use](https://web.archive.org/web/20130828104014id_/http%3A//25yearsofprogramming.com/termsofuse.htm "View this site's Terms Of Use"), this privacy policy does not apply to you, and information about you **will not** be kept confidential.
-
-## Changes to this privacy policy
-
-Changes to this privacy policy will appear in the form of changes to this web page. Changes will not be announced by email. Significant revisions may be announced in the News section of the Home page.
-
-## Outside sites
-
-This site contains links to other websites, including advertisers, that have different privacy policies. You should always review the privacy policy of a website, especially before you give it any of your personal information.
-
-## Privacy Best Practices
-
-  1. Any information, personal or otherwise, that you post to a message board or forum becomes visible to anyone on the internet. It can be collected and used, or misused, by others. Do not post anything that you do not want to become public. 
-
-[](http://validator.w3.org/check?uri=referer) |  |  [](http://jigsaw.w3.org/css-validator/check/referer)  
----|---|---  
-  
-Copyright ©2012 Steven Whitney. Last modified Sun 07/29/2012 10:04:16 -0700.
+Go Daddy   
+ATTN: Web Team   
+14455 North Hayden Rd.   
+Suite 219   
+Scottsdale, AZ, 85260, U.S.A.
