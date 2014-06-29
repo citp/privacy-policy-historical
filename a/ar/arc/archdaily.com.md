@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the archdaily.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216200510id_/http%3A//www.archdaily.com/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the archdaily.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629120520id_/http%3A//www.archdaily.com/legal) for the most accurate reproduction.*
 
 # Legal | ArchDaily
 
@@ -83,3 +83,17 @@ We will respond to your request and, if applicable and appropriate, make the req
 **IX. SOLE STATEMENT**
 
 This Privacy Policy as posted on this Website is the sole statement of our privacy policy with respect to this Website, and no summary, modification, restatement or other version thereof, or other privacy statement or policy, in any form, is valid unless we post a new or revised policy to the Website.
+
+**Legal Address**
+
+Juana de Arco 2012 of 13  
+7510250 Providencia  
+Santiago  
+CHILE
+
+**Postal Address (Books, brochures, etc)**
+
+Monseñor Carlos Casanueva 0237  
+7520253 Providencia  
+Santiago  
+CHILE
