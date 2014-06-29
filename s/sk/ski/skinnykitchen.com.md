@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the skinnykitchen.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230155815id_/http%3A//www.skinnykitchen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skinnykitchen.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630012221id_/http%3A//www.skinnykitchen.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Skinny Kitchen
 
-## Privacy Policy
+[](http://www.printfriendly.com/print?url=http%3A%2F%2Fwww.skinnykitchen.com%2Fprivacy-policy%2F)
 
-[](http://www.printfriendly.com/print/v2?url=http://www.skinnykitchen.com/privacy-policy/)
-
-This privacy policy sets out how Nancy’s Healthy Kitchen Inc. uses and protects any information that you give while using [www.skinnykitchen.com](https://web.archive.org/web/20131230155815id_/http://www.skinnykitchen.com/privacy-policy/www.skinnykitchen.com). Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+This privacy policy sets out how Nancy’s Healthy Kitchen Inc. uses and protects any information that you give while using [www.skinnykitchen.com](https://web.archive.org/web/20140630012221id_/http://www.skinnykitchen.com/privacy-policy/www.skinnykitchen.com). Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
 Nancy’s Healthy Kitchen Inc. may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 2/21/2013.
 
@@ -56,5 +54,3 @@ You may choose to restrict the collection or use of your personal information in
 whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes . If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by contacting us.
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. If you believe that any information we are holding on you is incorrect or incomplete, please contact us.
-
-### Share and Enjoy
