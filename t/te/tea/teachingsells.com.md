@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the teachingsells.com privacy policy that was archived on 2013-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130823223811id_/http%3A//www.teachingsells.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachingsells.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629070349id_/http%3A//my.copyblogger.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-The Teaching Sells Privacy Policy is designed to assist you in understanding how we collect and use the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services. Teaching Sells is a service offering of Copyblogger Media LLC (“Copyblogger Media”), and references in this document to “us,” “our,” and “we” refer to Copyblogger Media.
+The Copyblogger Privacy Policy is designed to assist you in understanding how we collect and use the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services. The Copyblogger membership (including MyCopyblogger and Authority) is a service offering of Copyblogger Media LLC (“Copyblogger Media”), and references in this document to “us,” “our,” and “we” refer to Copyblogger Media.
 
 ### What Information Do We Collect?
 
@@ -11,11 +11,10 @@ When you visit our website you may provide us with two types of information: per
 #### 1\. Personal Information You Choose to Provide
 
 **_Registration Information_**  
-You will provide us information about yourself, your firm or company, and your practices when you purchase Teaching Sells products and services, register for forum support, or register for email newsletters and alerts.
+You will provide us information about yourself, your firm or company, and your practices when you purchase Copyblogger products and services, register for forum support, or register for email newsletters and alerts.
 
-**_Email Information_**
-
-If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses.
+**_Email Information  
+_**If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses.
 
 #### 2\. Website Use Information
 
@@ -27,7 +26,7 @@ Broadly speaking, we use personal information for purposes of administering and 
 
 ### What Are Cookies?
 
-A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a website, that site’s computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each website can send its own cookie to your browser if your browser’s preferences allow it, but (to protect your privacy) your browser only permits a website to access the cookies it has already sent to you, not the cookies sent to you by other sites. Some of our business partners (e.g., advertisers) use cookies that originate from their sites. We have no access or control over those cookies. 
+A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a website, that site’s computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each website can send its own cookie to your browser if your browser’s preferences allow it, but (to protect your privacy) your browser only permits a website to access the cookies it has already sent to you, not the cookies sent to you by other sites. Some of our business partners (e.g., advertisers) use cookies that originate from their sites. We have no access or control over those cookies.
 
 ### How Do We Use Information We Collect from Cookies?
 
@@ -37,8 +36,8 @@ As you use this website, the site uses its cookies to differentiate you from oth
 
 The information we collect is used to improve the content of this site and the quality of our service, and is not shared with or sold to other organizations for commercial purposes. That being said, your information could be shared under the following circumstances:
 
-  * We use third parties to facilitate our business, including, but not limited to, sending email and processing payments. In connection with these offerings and business operations, these third parties may have access to your personal information for use in connection with those business activities. 
-  * As we develop our business, we may buy or sell assets or business offerings. Customer, email, and visitor information is generally one of the transferred business assets in these types of transactions. 
+  * We use third parties to facilitate our business, including, but not limited to, sending email and processing payments. In connection with these offerings and business operations, these third parties may have access to your personal information for use in connection with those business activities.
+  * As we develop our business, we may buy or sell assets or business offerings. Customer, email, and visitor information is generally one of the transferred business assets in these types of transactions.
   * We may also transfer such information in the course of corporate divestitures, mergers, or any dissolution.
   * If it becomes necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our Terms of Service, or as otherwise required by law.
 
@@ -50,7 +49,7 @@ Occasionally, we may also use the information we collect to notify you about imp
 
 ### How Do We Secure Information Transmissions?
 
-Email is not recognized as a secure medium of communication. For this reason, we request that you do not send private information to us by email. Some of the information you may enter on this site may be transmitted securely via Secure Sockets Layer SSL, 128 bit encryption services. Pages utilizing this technology will have URLs that start with HTTPS instead of HTTP. 
+Email is not recognized as a secure medium of communication. For this reason, we request that you do not send private information to us by email. Some of the information you may enter on this site may be transmitted securely via Secure Sockets Layer SSL, 128 bit encryption services. Pages utilizing this technology will have URLs that start with HTTPS instead of HTTP.
 
 ### Certain Disclosures
 
