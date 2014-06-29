@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the nuffnangx.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507080932id_/http%3A//www.nuffnangx.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nuffnangx.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629073105id_/http%3A//imotiv.ly/privacy-policy) for the most accurate reproduction.*
 
-# NuffnangX | Privacy Policy
+# Imotiv | Privacy Policy
 
 **Dated: 17 September 2012**
 
-NuffnangX Pte Ltd (hereinafter referred as “We” or “Us” or “Our”) digests blog posts from around the world and simplifies them for you to read with our patent-pending technology. Such service is provided through various electronic platforms such as mobile application and website (“Application”) 
+Imotiv Pte Ltd (hereinafter referred as “We” or “Us” or “Our”) digests blog posts from around the world and simplifies them for you to read with our patent-pending technology. Such service is provided through various electronic platforms such as mobile application and website (“Application”) 
 
 ## COLLECTION OF INFORMATION
 
@@ -76,7 +76,7 @@ We may also use your personal details and website preferences in presentations, 
 
 ## DISCLOSURE OF PERSONALLY IDENTIFYING INFORMATION
 
-We may share you information with other companies in the Netccentric Group of Companies which NuffnangX is a part of. 
+We may share you information with other companies in the Netccentric Group of Companies which Imotiv is a part of. 
 
 We may share aggregated and non-personally identifiable information about you with third parties such as advertisers. Such information does not identify you individually. 
 
