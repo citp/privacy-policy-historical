@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the protectmyid.com privacy policy that was archived on 2013-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130130055753id_/http%3A//www.protectmyid.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the protectmyid.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629030743id_/http%3A//www.protectmyid.com/privacy) for the most accurate reproduction.*
 
 # Identity Monitoring Privacy Policy | Protect My ID
 
