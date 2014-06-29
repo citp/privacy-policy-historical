@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the girlsgames123.com privacy policy that was archived on 2013-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130308094540id_/http%3A//www.girlsgames123.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlsgames123.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629022130id_/http%3A//www.girlsgames123.com/page/privacy) for the most accurate reproduction.*
 
 # Girl Games, Games for Girls, Play Girls Games!
+
+Free Online Games For Girls
 
 [RECENTLY PLAYED](http://www.girlsgames123.com/recently-played) [MY FAVE GAMES](http://www.girlsgames123.com/favorited)
 
@@ -15,7 +17,6 @@ GirlsGames123.com Privacy Policy
 Hey Girls,  
 It's always very important to be aware of your personal details online, so we're here to tell you some important information like... 
 
-  * How to stay safe online.
   * How girlsgames123.com works.
   * How we work hard to keep you and your personal data protected.
 
@@ -24,9 +25,11 @@ It's always very important to be aware of your personal details online, so we're
   
 
 
-Staying Safe!
+Cookies
 
-ALWAYS remember to stay safe online. This means be careful what you tell other people, even us. Although you might feel safe telling a stranger your personal information, you don't know who they are so it's not a good idea! If you are unsure or don't understand anything we tell you make sure you ask an adult to help. Lets keep girlsgames123.com a fun and safe place for everyone!   
+Computers have the ability to store information in something called a cookie. Every time you connect to a website you send the cookies that you have for that websites, when the website returns information it can change these cookies on your computer. When you connect we give you a unique identification made out of numbers and letters, it means when you go from one page to the next we can tell it's still you! 
+
+We also use these cookies to track your recently played games, fave games and to keep you logged in to the website. At any time your browser will let you delete your cookies and you can find more information at [www.aboutcookies.org](http://www.aboutcookies.org/)! If you do delete your cookies we will see you as a new user, you will also be logged out if you were logged in!   
   
 ---|---  
   
@@ -42,25 +45,13 @@ The content you create on the website like comments and highscores' are public t
   
 
 
-Cookies
-
-Computers have the ability to store information in something called a cookie. Every time you connect to a website you send the cookies that you have for that websites, when the website returns information it can change these cookies on your computer. When you connect we give you a unique identification made out of numbers and letters, it means when you go from one page to the next we can tell it's still you! 
-
-We also use these cookies to track your recently played games, fave games and to keep you logged in to the website. At any time your browser will let you delete your cookies and you can find more information at [www.aboutcookies.org](http://www.aboutcookies.org/)! If you do delete your cookies we will see you as a new user, you will also be logged out if you were logged in! 
-
-  
-
-
 Third Party Advertisers
 
 Around the website you will be able to see adverts from other companies, this is how we make the money to pay for the website and make our great games. These companies may collect information about you and target adverts to suit you. They may track your use of other websites to give you adverts as well. We cannot see this information but they can! Some of these advertisers allow you to opt-out of targeted advertising, just go to [www.youronlinechoices.com](http://www.youronlinechoices.com/) and [networkadvertising.org](http://www.networkadvertising.org/) for more information! 
 
-We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [networkadvertising.org](http://www.networkadvertising.org/)
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [networkadvertising.org](http://www.networkadvertising.org/). 
 
   
 
 
-If you are an adult and still have questions about our policy then please e-mail us at admin@girlsgames123.com  
-  
-  
-
+If you are an adult and still have questions about our policy then please e-mail us at admin@girlsgames123.com
