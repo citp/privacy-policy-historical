@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hult.edu privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110104130id_/http%3A//www.hult.edu/en/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hult.edu privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629132829id_/https%3A//www.hult.edu/en/legal/privacy-policy) for the most accurate reproduction.*
 
-# Policy - Hult International Business School
+# Privacy Policy - Hult International Business School
 
 ## Privacy Policy
 
@@ -11,7 +11,7 @@ Effective September 15, 2012
 
 #### Your consent
 
-By submitting your personal data to www.hult.edu (hereinafter Hult.edu) you automatically accept that Hult International Business School or any other corporate entity in the EF Group ("EF") registers and stores said personal data for the specific purposes outlined below in this Privacy Policy. You also agree to that your personal data may be transferred to and stored in a country that is not a member of the European Union or part of the European Economic Area. Please note that the reference to EF in this Privacy Policy covers all entities within the EF group of companies.
+By submitting your personal data to www.hult.edu (hereinafter Hult.edu) you automatically accept that Hult International Business School, or any other corporate entity in the EF Group ("EF"), its Partners - Educational Agents or any other third party registers and stores said personal data for the specific purposes outlined below in this Privacy Policy. You also agree to that your personal data may be transferred to and stored in a country that is not a member of the European Union or part of the European Economic Area. Please note that the reference to EF in this Privacy Policy covers all entities within the EF group of companies.
 
 #### Information about you 
 
