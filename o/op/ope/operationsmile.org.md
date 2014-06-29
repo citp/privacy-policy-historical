@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the operationsmile.org privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222151419id_/http%3A//www.operationsmile.org/misc/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the operationsmile.org privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629192729id_/http%3A//www.operationsmile.org/misc/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Operation Smile
 
@@ -40,7 +40,7 @@ We respect your time and attention by controlling the frequency of our emails. H
 
 #### Communications Preferences
 
-We strive for accurate, respectful and relevant communications with our donors. We occasionally exchange donor lists with select nonprofit groups. If you would like to correct or update your personal information, modify your mailing preferences, or if you do not wish to participate in our list exchange activities, please contact our Donor Relations Team at 888-677-6453, Monday - Saturday 8:30 a.m. - 11:00 p.m. EST, Sunday 8:30 a.m. - 5:00 p.m. EST, please [contact us](http://www.operationsmile.org/about_us/contact-us/) or alert us via postal mail at our headquarters.
+We strive for accurate, respectful and relevant communications with our donors. We occasionally exchange mailing addresses with select non-profit groups. We will not sell, rent or share your email address or telephone number. If you would like to correct or update your personal information, modify your mailing preferences, or if you do not wish to participate in mailing address exchange activities, please call 1-888-OPSMILE (1-888-667-6453) or email [drelations@operationsmile.org](mailto:drelations@operationsmile.org). A gift made through this appeal represents a gift to the entire Operation Smile mission. To help the most children, we use your gift where it can do the most good by pooling it with the gifts of others. 
 
 ### EXTERNAL LINKS
 
