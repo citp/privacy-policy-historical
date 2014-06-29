@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the justworks.com privacy policy that was archived on 2013-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130904033246id_/http%3A//www.justworks.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justworks.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629090505id_/https%3A//www.justworks.com/privacy) for the most accurate reproduction.*
 
-# Justworks - Payroll & Benefits For All
+# Justworks - Privacy
 
 Thank you for visiting www.justworks.com. Justworks, Inc. ("Company") is committed to treating the personal and corporate information of our users with respect and sensitivity. Our privacy commitment is described in this Privacy Policy. As our services evolve and we perceive the need or desirability of using information collected in other ways, we may from time to time amend this Privacy Policy. We post the effective date of our Privacy Policy on our website ("Site"). 
 
