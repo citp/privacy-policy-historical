@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wealthinformatics.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229094842id_/http%3A//www.wealthinformatics.com/disclaimer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wealthinformatics.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629090446id_/http%3A//www.wealthinformatics.com/disclaimer/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 
 This is just a standard, boring, boilerplate privacy policy, virtually identical to any other website on the planet. Legal agreements require me to have such wonderfully exciting legalese, so just bear with me here.
 
-At [Wealth Informatics](http://www.wealthinformatics.com/ "Wealth Informatics"), we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit [Wealth Informatics](https://web.archive.org/web/20131229094842id_/http://www.wealthinformatics.com/disclaimer/), and how we safeguard your information.  We never sell your personal information to third parties.
+At [Wealth Informatics](http://www.wealthinformatics.com/ "Wealth Informatics"), we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit [Wealth Informatics](https://web.archive.org/web/20140629090446id_/http://www.wealthinformatics.com/disclaimer/), and how we safeguard your information.  We never sell your personal information to third parties.
 
 **Log Files**
 
@@ -16,7 +16,7 @@ As with most other websites, we collect and use the data contained in log files.
 
 We do use cookies to store information, such as your personal preferences when you visit our site.  This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
 
-We also use third party advertisements on [Wealth Informatics](https://web.archive.org/web/20131229094842id_/http://www.wealthinformatics.com/disclaimer/) to support our site.  Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed.  This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
+We also use third party advertisements on [Wealth Informatics](https://web.archive.org/web/20140629090446id_/http://www.wealthinformatics.com/disclaimer/) to support our site.  Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed.  This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
 
 We may allow third-party companies that use tracking technologies, such as cookies or pixels, to record IP information about users who visit or interact with our website. Our website does not provide any personal information to these third parties. This information allows them to deliver targeted advertisements and gauge their effectiveness. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative which offers a single location to opt out of ad targeting from member companies.
 
