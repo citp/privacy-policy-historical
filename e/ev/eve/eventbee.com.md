@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eventbee.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206102913id_/http%3A//www.eventbee.com/main/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eventbee.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629140044id_/http%3A//www.eventbee.com/main/privacystatement) for the most accurate reproduction.*
 
-# Eventbee - Your Online Registration, Event Ticketing, Email Marketing And Event Promotion Solution
+# Eventbee - Your Online Registration, Event Ticketing And Event Promotion Solution
 
 We require people who register to use a Eventbee online software (the "Services") to give us contact information. Depending on the services chosen, we ask for contact and account information, such as name, company name, address, phone number, e-mail address, password , in addition to financial and billing information, such as billing name, address and credit card number. When you express interest in additional information, when you register for the Services, or after you become a user, we may ask for additional personal information, such as title, mobile number, fax number or additional company information, such as annual revenues, number of employees or industry. You can opt out of providing additional information by not entering it when asked. 
 
