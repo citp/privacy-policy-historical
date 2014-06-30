@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the 5hippos.com privacy policy that was archived on 2013-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130823110517id_/http%3A//www.5hippos.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 5hippos.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630055813id_/http%3A//www.5hippos.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+Loading...
 
 5hippos.com understands how important the privacy of personal information is to our users. We respect and are committed to protecting your privacy. This Privacy Policy will tell you what information we collect about you and about your use of 5hippos and its services. 
 
