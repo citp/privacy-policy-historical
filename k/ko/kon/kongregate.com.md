@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kongregate.com privacy policy that was archived on 2013-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131013140451id_/http%3A//www.kongregate.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kongregate.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630073209id_/http%3A//www.kongregate.com/pages/privacy) for the most accurate reproduction.*
 
 # Kongregate Privacy Policy
 
@@ -24,6 +24,8 @@ You may choose to disclose information about yourself in our online chat rooms, 
 
 **Mobile Application Notifications:** With your consent, Kongregate mobile applications may send push notifications to your mobile device to provide game information, news, updates, or other relevant information. You can manage these updates from the ‘options’ or ‘settings’ page from within the Mobile Application or from your device control panel that manages these notifications.
 
+**Do Not Track:** Do Not Track (DNT) is a privacy preference that users can set in their web browsers, allowing users to opt out of tracking by websites and online services. At the present time, the World Wide Web Consortium (W3C) has not yet established universal standards for recognizable DNT signals, and, therefore, Kongregate does not recognize DNT.
+
 ## How We Use This Information
 
 We use the information we collect from the Site and Mobile Applications to respond to your requests and provide customer service, to remit revenue share payments, process credit card payments, let you know about new games and other news from Kongregate, ask for your input and feedback on what we are doing, provide personalized services and recommendations, to make certain offers available that we believe may be of interest to you, and as may otherwise be described in this Privacy Policy or at the time that we collect information from you.
@@ -48,7 +50,7 @@ To personalize the Site, and to simplify the registration process, we give you t
 
 ## Security
 
-We use standard and reasonable technological and procedural measures to protect the information you provide. We urge you to protect your password by not sharing it with anyone else, and to take measures to prevent it from unauthorized access or disclosure. For example, select number and letter combinations that would be difficult for a third party (or hacking program) to determine, and do not write down your password next to your computer. To learn more about how to protect yourself online, we encourage you to visit the government's website at [www.onguardonline.gov](https://web.archive.org/web/20131013140451id_/http%3A//www.kongregate.com/pages/www.onguardonline.gov).
+We use standard and reasonable technological and procedural measures to protect the information you provide. We urge you to protect your password by not sharing it with anyone else, and to take measures to prevent it from unauthorized access or disclosure. For example, select number and letter combinations that would be difficult for a third party (or hacking program) to determine, and do not write down your password next to your computer. To learn more about how to protect yourself online, we encourage you to visit the government's website at [www.onguardonline.gov](https://web.archive.org/web/20140630073209id_/http%3A//www.kongregate.com/pages/www.onguardonline.gov).
 
 ## Children’s Privacy
 
@@ -73,5 +75,5 @@ If you do not agree with the privacy practices described in this Privacy Policy,
 For questions or concerns regarding the use of personal information you submit to us, please contact us at [privacy@kongregate.com](mailto:privacy@kongregate.com).
 
 Kongregate  
-2 Shaw Alley, 4th Floor   
-San Francisco, CA 94105
+450 Sansome Street, 12th Floor   
+San Francisco, CA 94111
