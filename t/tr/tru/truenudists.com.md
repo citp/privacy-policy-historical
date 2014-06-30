@@ -1,34 +1,41 @@
-> *The following text is extracted and transformed from the truenudists.com privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129101942id_/http%3A//www.truenudists.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truenudists.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630103331id_/http%3A//www.truenudists.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # tn | Privacy Policy
 
-This is the web site of **truenudists.com**.(owned by SocialCO Media, LLC) 
+_Date of Last Revision: January 23rd, 2014._
 
-Our postal address is   
-**13026 N. Cave Creek Rd. Suite #203  
-Phoenix, AZ 85022**
+ **Terms  
+****SocialCO Media, LLC** ("we", "our", or "us") operates **truenudists.com** ("website", "the site", "the service"). The Terms of Service ("terms", "rights", "responsibilities"), outlines your rights, responsibilities in the services provided. **SocialCO Media, LLC** ("we", "our" or “us”) operates **truenudists.com**. The services offered by **SocialCO Media, LLC** include **truenudists.com** ("website", "the site", "the service"), or chat services (including, without limitation, instant messaging, private messaging), **truenudists.com** is hosted in the United States. , you accept this Agreemen
 
-We can be reached via e-mail at mailto:support at truenudists.com  
-or you can reach us by telephone at 
+**Information we automatically receive about you  
+**When you visit our site, we receive and may log information that is provided to us by your computer and/or internet browser. Some information, such as your I.P. address is logged automatically by our server software and stored for an indefinite period of time. 
 
-For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible).
+**Information you provide**  
+When you register and create an account with "the site" you are providing information about yourself such as a username, and email address and profile data. This information is stored and kept by our system until your account is purged for an period of inactivity, or you choose to delete/remove your data. 
 
-We collect only the domain name, but not the e-mail address of visitors to our Web page, the domain name and e-mail address (where possible) of visitors to our Web page, the e-mail addresses of those who post messages to our bulletin board, the e-mail addresses of those who communicate with us via e-mail, the e-mail addresses of those who make postings to our chat areas, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations, name and address, telephone number, fax number, payment information (e.g., credit card number and billing address).
+**Deleting your account**  
+Although we make a reasonable attempt to remove your information from our servers, your data may persist even after deletion in system backups, content delivery caches, or stored by 3rd party services that have cached your data (e.g. Search Engines or bots). Information posted to forums, or some sections of the site, may persist even after your account has been removed.
 
-The information we collect is used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor, used to notify consumers about updates to our Web site, disclosed when legally required to do so, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our Website and applicable laws or to protect against misuse or unauthorized use of our Website.
+**Keeping your account safe  
+**We offer many tools to allow who is able to view the data you provide, **but we make no guarantee as to the safety or privacy of content and/or media you post to "the site".** Any information that is shared on the internet, whether posted to "the site" or elsewhere is vulnerable to discovery and we recommend users not post any sensitive data to the internet. **
 
+Usernames and IDs
+
+** Usernames are very easily linked together, through search engines. **We recommend that all users choose a unique username for "the site" that is different to any other personal accounts.
+
+Why we collect information
+
+**  
+The information we collect is used to improve the content of our Web page, provide an entertainment service, or customize the content and/or layout of our page for each individual visitor, and used to notify consumers about updates to our Web site.
+
+**Child Safety and Compliance with Law Enforcement  
+**Any information posted to the site, or collected automatically can and will be disclosed when legally required to do so, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our Website and applicable laws or to protect against misuse or unauthorized use of our Website.
+
+**Cookies**  
 With respect to cookies: We use cookies to store visitors preferences, record user-specific information on what pages users access or visit, ensure that visitors are not repeatedly sent the same banner ads, customize Web page content based on visitors' browser type or other information that the visitor sends.
 
-If you do not want to receive e-mail from us in the future, please let us know by or Modifying your email settings in your account area.
+**Emails**  
+If you do not want to receive e-mail from us in the future, please let us know by or modifying your email settings in your account area.
 
-With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies. 
-
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
-
-Upon request we provide site visitors with access to all information [including proprietary information] that we maintain about them, unique identifier information (e.g., customer number or password) that we maintain about them, communications that the consumer/visitor has directed to our site (e.g., e-mails, customer inquiries), contact information (e.g., name, address, phone number) that we maintain about them .
-
-Upon request we offer visitors the ability to have inaccuracies corrected in contact information.
-
-With respect to security: When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site, We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
-
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
+**Ad servers**  
+With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies, but we reserve the right to do so. 
