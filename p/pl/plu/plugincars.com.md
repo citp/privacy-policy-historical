@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the plugincars.com privacy policy that was archived on 2013-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130928194527id_/http%3A//www.plugincars.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plugincars.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630052031id_/http%3A//www.plugincars.com/privacy-policy.html%3Fsrc%3Dfooter) for the most accurate reproduction.*
 
 # Privacy Policy | PluginCars.com
-
-## Privacy Policy
 
 Our privacy policy is in plain English and will only take a few moments to read and understand.
 
 ### How You Can Contact Us
 
-We can be reached via e-mail using our [Feedback Form](https://web.archive.org/contact/), or by sending mail directly to [info@plugincars.com](mailto:info@plugincars.com).
+We can be reached via e-mail using our  
+[Feedback Form](https://web.archive.org/contact/), or by sending mail directly to  
+[info@plugincars.com](mailto:info@plugincars.com).
 
 ### Site Tracking
 
@@ -29,7 +29,8 @@ Newsletter - We keep track of email addresses when people sign up for our newsle
 
 Email Page to a Friend - We log each time someone uses this feature to track how many times it is used, by whom, and from what page. We do this to make sure that someone doesn't abuse the feature by sending multiple emails from the site to the same person. The information is discarded monthly and will never be sold or transferred to any other organization.
 
-If for any reason you receive an email from us and you do not want to receive e-mail from us in the future, please let us know by sending e-mail to [info@plugincars.com](mailto:info@plugincars.com).
+If for any reason you receive an email from us and you do not want to receive e-mail from us in the future, please let us know by sending e-mail to  
+[info@plugincars.com](mailto:info@plugincars.com).
 
 ### Web Cookies
 
@@ -45,4 +46,6 @@ This site contains links to other web sites. We are not responsible for the priv
 
 ### Complaints
 
-If you feel that this site is not following its stated information policy, you may contact The DMA's Committee on Ethical Business Practices at [mgoldberger@the-dma.org](mailto:mgoldberger@the-dma.org), state or local chapters of the Better Business Bureau, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at <https://www.ftccomplaintassistant.gov/>.
+If you feel that this site is not following its stated information policy, you may contact The DMA's Committee on Ethical Business Practices at  
+[mgoldberger@the-dma.org](mailto:mgoldberger@the-dma.org), state or local chapters of the Better Business Bureau, The Federal Trade Commission by phone at 202.FTC-HELP (202.382.4357) or electronically at  
+<https://www.ftccomplaintassistant.gov/>.
