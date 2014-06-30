@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the speedtest.net privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231215656id_/http%3A//www.speedtest.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedtest.net privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630023708id_/http%3A//www.speedtest.net/privacy.php) for the most accurate reproduction.*
 
 # Speedtest.net by Ookla - Privacy Policy
 
