@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the triggit.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231201952id_/http%3A//triggit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the triggit.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630234736id_/http%3A//triggit.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Triggit
+
+[Opt-Out of Triggit Technology](https://web.archive.org/privacy#opt-out)
 
 At Triggit we care about the privacy of Internet Users. We have created this Privacy Policy in order demonstrate this commitment to privacy.
 
@@ -44,7 +46,7 @@ Triggit offer visitors a means for controlling the use of session information wi
 
 The most simple way to opt out of the Triggit cookie (or any other cookie) is through your Internet Browser. In your preferences you can set the browser on your computer to warn you each time a cookie is being sent, block third party cookies or block all cookies. However, by blocking all cookies you may not have access to features on our Site or other websites which depend upon cookies.
 
-You can also opt-out of Triggit.com by clicking on our opt-out link listed below. This will set a cookie that specifically tells Triggit that you are not interested in our services. If you clear the cookies on your browser, or use a different browser or computer, you must complete the opt-out procedure again.
+[You can also opt-out of Triggit.com by clicking on our opt-out link listed below.](https://web.archive.org/privacy#opt-out) This will set a cookie that specifically tells Triggit that you are not interested in our services. If you clear the cookies on your browser, or use a different browser or computer, you must complete the opt-out procedure again.
 
 ## Security
 
