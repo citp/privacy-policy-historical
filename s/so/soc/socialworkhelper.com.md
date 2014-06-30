@@ -1,31 +1,32 @@
-> *The following text is extracted and transformed from the socialworkhelper.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015144759id_/http%3A//socialworkhelper.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialworkhelper.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630210933id_/http%3A//www.socialworkhelper.com/privacy-policy) for the most accurate reproduction.*
 
-# Socialworkhelper.com
+# Social Work Helper | Privacy Policy - Social Work Helper
 
-**What information do we collect?**
+Social Work Helper understands your privacy is important to you, and it’s important to us also, which is why we provide this statement about the personal information we collect, how we use that information and with whom it may be shared. You should not, and are not required to, disclose any information that you do not want made public.
 
-We collect information from you when you register on our site. 
+When accessing our Website, Social Work Helper will learn certain information about you during your visit. How we will handle information we learn about you depends upon what you do when visiting our site.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: e-mail address. You may, however, visit our site anonymously.
+If you visit our site to read or download information on our pages, we may collect and store the following information about you, possibly via third party software services, for example, SiteMeter, StatCounter:
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
-
- **What do we use your information for?**
-
-Any of the information we collect from you may be used in one of the following ways: 
-
-; To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs)
-
-; To send periodic emails
-
-The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.
+1\. The name and/or address of the domain from which you access the Internet  
+2\. The date and time you access our site  
+3\. The Internet address of the website you used to link directly to our site.  
+4\. browser  
+5\. visit patterns  
+6\. entry page  
+7\. exit page  
+8\. country  
+9\. state  
+10\. city  
+11\. repeat visits  
+12\. cookies  
+13\. I.P. address
 
  **How do we protect your information?**
 
-We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information. 
+We implement a variety of security measures to maintain the safety of your personal information when you enter, submit, or access your personal information.
 
-**Do we use cookies?**
+ **Do we use cookies?**
 
 Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
 
@@ -33,7 +34,13 @@ We use cookies to compile aggregate data about site traffic and site interaction
 
  **Do we disclose any information to outside parties?**
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+All communications and conversations, electronic or otherwise, made to Social Work Helper, or its contributors, editors, writers, interns, or owner, are subject to publication,  **regardless of the method of delivery, format, etc.**. That is, if you send us an email, physical letter, or call us  **we reserve the right to publish the contents of that conversation, including your name and email address** , regardless of  **whether or not you give permission in advance** , and  **whether or not you state otherwise**. This includes but is not exclusive to “letters to the editor” and other emails.
+
+The information collected is for statistical purposes. Social Work Helper may use software programs to create summary statistics, which are used for such purposes as assessing the number of visitors to the different sections of our site, what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas.
+
+For site security purposes and to ensure that this service remains available to all users,Social Work Helper may use software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.
+
+ _The Social Work Helper_  will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information to us, nor will such information be sold or otherwise transferred to unaffiliated third parties without the approval of the user at the time of collection. Personally-identifying information you have provided to us, such as but not limited to email addresses, may be used by us in conjunction with third-party providers to send you information.
 
  **Third party links**
 
@@ -43,7 +50,7 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
 
-As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the 'Edit Profile' page.
+As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime by logging into their control panel and going to the ‘Edit Profile’ page.
 
  **Childrens Online Privacy Protection Act Compliance**
 
@@ -55,7 +62,7 @@ This online privacy policy applies only to information collected through our web
 
  **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.socialworkhelper.com](http://www.socialworkhelper.com/)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [Terms of Service](http://www.socialworkhelper.com/terms-of-services/ "Terms of Service")
 
  **Your Consent**
 
@@ -63,16 +70,19 @@ By using our site, you consent to our [online privacy policy](http://www.freepri
 
  **Changes to our Privacy Policy**
 
-If we decide to change our privacy policy, we will post those changes on this page. 
+If we decide to change our privacy policy, we will post those changes on this page.
 
-This policy was last modified on 05/14/2012
+This policy was last modified on 07/14/2013
 
  **Contacting Us**
 
-If there are any questions regarding this privacy policy you may contact us using the information below. 
+If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://www.socialworkhelper.com  
-PO Box 62122  
+[Socialworkhelper.com](http://www.socialworkhelper.com/ "Socialworkhelper.com")  
+Deona Hooper, MSW  
+Founder and Editor-in-Chief  
+PO Box 62652  
 Durham, NC 27715  
 United States  
-contact@socialworkhelper.com
+deona@socialworkhelper.com  
+(919) 960-1094
