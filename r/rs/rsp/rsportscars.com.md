@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rsportscars.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207145914id_/http%3A//www.rsportscars.com/eng/misc/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rsportscars.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630111404id_/http%3A//www.rsportscars.com/eng/misc/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy Statement | RSportsCars.com
 
