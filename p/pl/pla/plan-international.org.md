@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the plan-international.org privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229051341id_/https%3A//plan-international.org/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plan-international.org privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630182654id_/http%3A//plan-international.org/site/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy — Site links — Plan International
+# Privacy and Cookies — Site links — Plan International
 
 The Plan Ltd Website, found at plan-international.org, including all information and materials contained on it, is managed by Plan Ltd, Dukes Court, Block A, Duke Street, Woking, Surrey GU21 5BH, UK ("Plan Ltd").
 
