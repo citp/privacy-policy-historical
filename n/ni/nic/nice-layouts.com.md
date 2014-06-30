@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nice-layouts.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230160508id_/http%3A//www.nice-layouts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nice-layouts.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630184437id_/http%3A//www.nice-layouts.com/privacy-policy) for the most accurate reproduction.*
 
 # Nice Layouts | Professional Web & Flash Templates | Privacy Policy
 
