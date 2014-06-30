@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beermenus.com privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818152848id_/http%3A//www.beermenus.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beermenus.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630073249id_/http%3A//www.beermenus.com/privacy) for the most accurate reproduction.*
 
 # BeerMenus Privacy Policy
 
@@ -48,7 +48,7 @@ In some cases, we may choose to buy or sell assets. In these types of transactio
 
 International Users By visiting our web site and providing us with data, you acknowledge and agree that due to the international dimension of BeerMenus we may use the data collected in the course of our relationship for the purposes identified in this policy or in our other communications with you, including the transmission of information outside your resident jurisdiction. In addition, please understand that such data may be stored on servers located in the United States. By providing us with your data, you consent to the transfer of such data.
 
-We welcome your feedback on this document. Email [Will@beermenus.com](mailto:Will@beermenus.com)
+We welcome your feedback on this document. Email [support@beermenus.com](mailto:support@beermenus.com)
 
 
 
