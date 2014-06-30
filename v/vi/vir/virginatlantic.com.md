@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virginatlantic.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230162020id_/http%3A//www.virgin-atlantic.com/gb/en/disclaimer/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virginatlantic.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630175642id_/http%3A//www.virgin-atlantic.com/gb/en/disclaimer/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Virgin Atlantic
 
@@ -105,15 +105,20 @@ Your sensitive personal information will not be disclosed to any third-parties (
 
 **Marketing**
 
-We would like to be able to share with you information about other products and services, special offers, exclusive fares and other news, so that you can take advantage of the best we can offer. Of course, we will only use your information in this way where you have given us the OK to do so.
+We would like to be able to share with you information about other products and services, special offers, exclusive fares and other news, so that you can take advantage of the best we can offer. Of course, we will only use your information in this way where you have given us the OK to do so. 
 
-  * Where you have given us your consent Virgin Atlantic would like to keep in touch with you by post, phone and electronic mail with account updates, news, special offers and promotions.
+  * From time-to-time, we may also use your details to keep you up to date about special offers and promotions via social media.
+  * Where you have given us your consent Virgin Atlantic would like to keep in touch with you by post, phone and electronic mail with account updates, news, special offers and promotions.  
+
+  * We will never insist upon your consent in order for you to make a booking with us.
 
 
   * Where you have given us your consent other Virgin companies and our partners may also like to get in touch by post, phone and electronic mail about products and services which they think will interest you.
 
 
-  * We may disclose your information to third parties, like data processing companies, who may provide marketing services on our behalf. You will not be directly contacted by third parties as a result of giving us your details.
+  * We may disclose your information to third parties, like data processing companies, who may provide marketing services on our behalf. You will not be directly contacted by third parties as a result of giving us your details.  
+
+  * Where you have provided your mobile number you may receive calls from us from an automated dialling system.
 
 
   * We will use the most recent consent you have given us, or the most specific consent, subject to the time it takes us to reflect these changes in our systems and/or processes.
@@ -194,8 +199,8 @@ To change your Flying Club details and preferences simply navigate to [www.virgi
 
 To change your Flying Co details simply navigate to [www.virginatlantic.com/flyingco](http://www.virgin-atlantic.com/en/gb/corporateandtrade/flyingco/index.jsp) log into your account and change your company details online. To cancel your membership, please call the Flying Co helpline telephone number.
 
-c) If you have subscribed to receive news and special offers from Virgin Atlantic  
-A link will appear at the bottom of each email sent to you which will enable you to unsubscribe from receiving this information.
+c) If you have subscribed to receive news, special offers and promotions from Virgin Atlantic via email, you can unsubscribe from receiving this information by clicking on the unsubscribe link at the bottom of each email sent.  
+
 
 **If you wish to receive a copy of the information we hold about you**
 
