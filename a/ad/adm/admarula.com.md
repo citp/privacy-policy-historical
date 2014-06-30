@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the admarula.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202151818id_/http%3A//www.admarula.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the admarula.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630215957id_/http%3A//www.admarula.com/privacy-policy) for the most accurate reproduction.*
 
 # AdMarula Performance Marketing Network - Privacy Policy | AdMarula
 
