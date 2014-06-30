@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the irrawaddy.org privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231175804id_/http%3A//www.irrawaddy.org%3Fpage_id%3D915) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irrawaddy.org privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630083220id_/http%3A//www.irrawaddy.org%3Fpage_id%3D915) for the most accurate reproduction.*
 
-# The Irrawaddy Magazine | PRIVACY POLICY
+# PRIVACY POLICY
 
 At The Irrawaddy we collect information about our readers and supporters for three main reasons:
 
