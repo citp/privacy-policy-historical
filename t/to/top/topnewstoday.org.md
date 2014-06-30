@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topnewstoday.org privacy policy that was archived on 2013-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131013202714id_/http%3A//www.topnewstoday.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topnewstoday.org privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630155558id_/http%3A//www.topnewstoday.org/privacy.html) for the most accurate reproduction.*
 
 # Top News Today Privacy Policy
 
@@ -6,7 +6,7 @@
 
 **What information do we collect?**  
 
-We collect information from you when you subscribe to our newsletter or respond to a survey. 
+We collect information from you when you subscribe to our newsletter or respond to a survey.
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
 
