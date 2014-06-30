@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the citiprivatepass.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231040806id_/https%3A//online.citibank.com/US/JRS/portal/template.do%3FID%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citiprivatepass.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630102142id_/https%3A//online.citibank.com/US/JRS/portal/template.do%3FID%3DPrivacy) for the most accurate reproduction.*
 
-# Privacy - Citibank®
+# Privacy - Citibank
 
 ## Privacy for Consumers at Citi
 
