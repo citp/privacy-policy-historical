@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportsinsights.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207042257id_/http%3A//www.sportsinsights.com/company/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsinsights.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630214147id_/http%3A//www.sportsinsights.com/company/privacy-statement) for the most accurate reproduction.*
 
 # Sports Insights Privacy Policy
 
@@ -114,4 +114,4 @@ Sports Insights reserves the right to change this policy from time to time. If w
 
 THE SPORTS INSIGHTS SITES ARE INTENDED FOR ADULTS. WE DO NOT KNOWINGLY OR INTENTIONALLY COLLECT PERSONAL INFORMATION FROM ANYONE UNDER THE AGE OF 18. IF YOU ARE UNDER THE AGE OF 18, PLEASE DO NOT PROVIDE ANY PERSONAL INFORMATION TO SPORTS INSIGHTS. IF YOU KNOW OF ANYONE UNDER THE AGE OF 18 WHO HAS PROVIDED US WITH INFORMATION, PLEASE CONTACT US IMMEDIATELY AND WE WILL REMOVE THE INFORMATION.
 
-_This Privacy Policy was last amended on October, 10 2012_
+_This Privacy Policy was last amended on April 10, 2014_
