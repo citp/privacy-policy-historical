@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winnipegfreepress.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212031952id_/http%3A//www.winnipegfreepress.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winnipegfreepress.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630125703id_/http%3A//www.winnipegfreepress.com/privacy.html) for the most accurate reproduction.*
 
 # Winnipeg Free Press - Breaking News, Sports, Manitoba, Canada
 
