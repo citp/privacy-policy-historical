@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sparkhire.com privacy policy that was archived on 2013-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130822031420id_/https%3A//www.sparkhire.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sparkhire.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630112220id_/https%3A//www.sparkhire.com/privacy) for the most accurate reproduction.*
 
 # Privacy and Security Policy - Spark Hire
 
@@ -12,7 +12,7 @@ Across its various policies, applications, and Website, Spark Hire strives to us
 
 **1.2 Our Commitment to Privacy**
 
-At Spark Hire, we respect the privacy and the confidentiality of our customers’ information, particularly our customers’ PII (also commonly referred to as personally identifying information) (“PII”). We are committed to keeping confidential the PII you share with us. This Privacy and Security Policy explains how Spark Hire collects, uses, discloses and protects the information we obtain.
+At Spark Hire, we respect the privacy and the confidentiality of our customers’ information, particularly our customers’ PII (also commonly referred to as personally identiable information) (“PII”). We are committed to keeping confidential the PII you share with us. This Privacy and Security Policy explains how Spark Hire collects, uses, discloses and protects the information we obtain.
 
  **1.3 Applicability of Privacy and Security Policy**
 
@@ -20,7 +20,7 @@ Our Privacy and Security Policy applies to all individuals and entities from who
 
  **1.4 Website and Apps Not Directed to Minors**
 
-The Website is a professional website directed toward individual job seekers, individual consultants, and consultant groups seeking employment as well as employers seeking to hire individual job seekers, individual consultants, or consultant groups or consultant groups for employment. As such, an individual must be aged sixteen (16) or over to create an account through the Website. As such, the Website is not directed toward children or minors. This also applies to all Spark Hire Apps.
+The Website is a professional website directed toward individual job seekers, individual consultants, and consultant groups seeking employment as well as employers (either directly as customers of Spark Hire or through Staffing Customers that use Spark Hire Services) seeking to hire individual job seekers, individual consultants, or consultant groups or consultant groups for employment. As such, an individual must be aged sixteen (16) or over to create an account through the Website. As such, the Website is not directed toward children or minors. This also applies to all Spark Hire Apps.
 
  **1.5 U.S.-EU Safe Harbor Framework**. Spark Hire complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  Spark Hire has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view Spark Hire’s certification, please visit <http://www.export.gov/safeharbor/>
 
@@ -64,7 +64,7 @@ Additionally, we may use aggregated information derived from PII to improve the 
 
 2.3.5 Unless we are required to do so by law, we shall not obtain your consent before collecting PII about you from parties other than Spark Hire. Rather, Spark Hire shall presume that you have previously provided such consent to any such third party from whom Spark Hire obtains such information. 
 
-2.3.6 Spark Hire restricts the use of your PII to Spark Hire’s personnel and its Strategic Partners 
+2.3.6 In the normal course of its business operations, Spark Hire restricts the use of your PII to Spark Hire’s personnel and its Strategic Partners. However, by using Spark Hire Services, you may necessarily disclose PII to potential employers and Staffing Customers when they access your information, profiles, interviews, and other Content. 
 
 2.3.7 We shall not sell your PII in the normal course of business operations. Should all or any part of Spark Hire’s business operations be sold, this paragraph shall not restrict the transfer of your PII as part of the Website sold to a third party. 
 
@@ -74,11 +74,17 @@ Additionally, we may use aggregated information derived from PII to improve the 
 
 **2.4.1 We do not share PII we obtain from your use of our Apps, Website, and/or Spark Hire Services with others except as described in this Privacy Policy and the[Terms of Use.](https://web.archive.org/terms)**
 
-_General_.
+_2.4.2 General_.
 
 2.4.2.1 Spark Hire may use PII in the normal course of providing the Spark Hire Services; to operate or improve the Apps, Website and/or Spark Hire Services; to outsource certain services to Strategic Partners; to complete a transaction that has been requested; to develop aggregate information; and/or as otherwise disclosed to you. 
 
 2.4.2.2 Spark Hire may provide PII to other persons where (a) we have your consent; (b) the disclosure is necessary to complete a transaction requested; (c) we have obtained information from a third party (presuming that you have previously provided such consent to any such third party from whom Spark Hire obtains such information); (d) we are required or permitted to do so by law; (e) the Apps, Website and/or Spark Hire Services are used in a manner that violates the Terms of Use or uses for purposes other than those for which they were specifically intended; and/or (f) the terms of this Privacy and Security Policy and/or the Terms of Use otherwise permit and/or provide for such disclosure. 
+
+2.4.2.3 In particular, by the very nature of the Spark Hire Services, information submitted by our customers seeking employment or employees will be shared with other customers as applicable to the customers’ particular searches and use of Spark Hire Services. 
+
+2.4.2.4 Additionally, Staffing Customers that use Spark Hire Services may provide their employer customers, Third-Party Customers, information about Spark Hire customers in an effort to match individuals using Spark Hire Services to the needs of their employer Third-Party Customers. In some cases, Third-Party Customers may not be Spark Hire Customers. Although Spark Hire requires its Staffing Customers to ensure that their Third-Party Customers agree to terms similar to those of Spark Hire, Spark Hire has no control over the use of customer PII and non-PII by such Third-Party Customers where a Third-Party Customer is not a Spark Hire Customer.
+
+2.4.2.5 In some cases, Spark Hire Customers may be able to download your Profile Videos and other public information, and store them on, their computers and servers. Other Spark Hire Customers may also be able to use shared links by which they provide related parties who might not also be Spark Hire Customers access to your content.
 
 2.4.3 _Strategic Partners_. Spark Hire may employ, engage or retain certain trusted third parties (“Strategic Partners”) to perform functions and/or provide services on its behalf. Spark Hire will share PII with these Strategic Partners only to the extent necessary to perform the functions and/or provide the services for which they have been employed, engaged or retained. Spark Hire shall also secure contractual obligations from our Strategic Partners to maintain the privacy and security of the PII shared with them. 
 
@@ -104,11 +110,11 @@ _General_.
 
 2.6.1. Cookies can be defined as bits of data stored on your computer that allow website(s) to identify your browser and session. 
 
-4.6.1.2. If you reject all cookies, you may not be able to use the Website Services or products that require you to “sign in” and you may not be able to take full advantage of all offerings. 
+2.6.1.2. If you reject all cookies, you may not be able to use the Spark Hire Services or products that require you to “sign in” and you may not be able to take full advantage of all offerings. 
 
-2.6.1.3. Most browsers allow you to configure it to accept all cookies, reject all cookies, or notify you when a cookie is set. 
+2.6.1.3. Most web browsers automatically accept and collect Cookies. However, most browsers also allow you to configure them to accept all cookies, reject all cookies, or notify you when a cookie is set. Depending upon your web browser’s security settings, you may have the ability to reject all cookies.
 
-2.6.1.4 The Spark Hire site uses its own cookies for a number of purposes including, but not limited to: 
+2.6.1.4 The Spark Hire Website uses its own cookies for a number of purposes including, but not limited to: 
 
 A. Requiring you to re-enter your password after a certain period of time has elapsed to protect you against others accidentally accessing your account contents; 
 
@@ -119,8 +125,6 @@ C. Estimate and report our total audience size and traffic; and,
 D. Conduct research to improve the content and services provided on the Spark Hire Website. 
 
 2.6.1.5. Many of our strategic partners may use Cookies. Spark Hire maintains no control over the use of Cookies by our strategic partners and third-party advertisers. For information on how these third parties utilize Cookies collected, you should examine their respective privacy policies. 
-
-2.6.1.6. Most web browser’s automatically accept and collect Cookies. Depending upon your web browser’s security settings, you may have the ability to reject all cookies. 
 
 2.6.2. Google AdWords Marketing
 
@@ -190,7 +194,7 @@ D. Monitor and prevent fraud and abuse.
 
 **3.1.** Spark Hire may obtain personal information about you through a variety of sources. For each source or method, the manner of consent may differ. 
 
-**3.2.** In general, Spark Hire operates on an “Opt-out” basis. That is, Spark Hire presumes that by using its Apps and/or accessing its Website you have read this _Privacy and Security Policy_ and Spark Hire’s _Terms of Use_. Moreover, by providing the personal information requested (both personally identifiable and non-personally identifiable), you have consented to its use by Spark Hire for the stated purposes. 
+**3.2.** In general, Spark Hire operates on an “Opt-out” basis. That is, Spark Hire presumes that by using its Apps, Spark Hire Services, and/or accessing its Website you have read this _Privacy and Security Policy_ and Spark Hire’s _Terms of Use_. Moreover, by providing the personal information requested (both personally identifiable and non-personally identifiable), you have consented to its use by Spark Hire for the stated purposes.
 
 **3.3.** For these reasons, unless and until you expressly inform Spark Hire you do not wish your information to be used, Spark Hire shall presume it has your consent. 
 
@@ -212,7 +216,7 @@ D. Monitor and prevent fraud and abuse.
 
 **6\. DISPUTE RESOLUTION**
 
-**6.1** Should you any complaints with respect to our compliance with our Privacy and Security Policy and our Safe Harbor commitments, we encourage you to contact us directly to resolve any such complaints. We value our customers and their privacy. Consequently, we want to hear from you should you have any issues regarding our privacy practices. You may send an email to [privacyofficer@sparkhire.com](mailto:privacyofficer@sparkhire.com). 
+**6.1** Should you have any complaints with respect to our compliance with our Privacy and Security Policy and our Safe Harbor commitments, we encourage you to contact us directly to resolve any such complaints. We value our customers and their privacy. Consequently, we want to hear from you should you have any issues regarding our privacy practices. You may send an email to [privacyofficer@sparkhire.com](mailto:privacyofficer@sparkhire.com). 
 
 **6.2** Should you have any unresolved complaints with respect to our compliance with our Privacy and Security Policy and our Safe Harbor commitments, you may contact JAMS as an independent resource mechanism to hear any such disputes. For such purpose, you may contact JAMS at its Chicago office (<http://www.jamsadr.com/jams-chicago/>): 
 
@@ -240,24 +244,28 @@ Your use of our Apps, Website and Spark Hire Services is subject to this Privacy
 
 **9\. PRIVACY OF CHILDREN**
 
-We make it a practice not to knowingly obtain and/or retain information about individuals under the age of sixteen (16). Indeed, no part of our Website or Website Services is directed to anyone under the age of sixteen (16).
+We make it a practice not to knowingly obtain and/or retain information about individuals under the age of sixteen (16). Indeed, no part of our Apps, Spark Hire Services, or Website is directed to anyone under the age of sixteen (16).
 
 **10\. ADDITIONAL INFORMATION**
 
-**10.1** When you post content on the Website, you have the ability to post content which may include personally identifiable information or PII about yourself. You are responsible for the information you post online or you share with another website that you link to from our website. You do so at your own risk. **Spark Hire warns you to be careful in posting information accessible to the public.**
+**10.1** When you post content on the Website and/or through the Spark Hire Services, you have the ability to post content which may include personally identifiable information or PII about yourself. You are responsible for the information you (a) post online; (b) post through use of the Spark Hire Services; or, (c) share with another website that you link to from our website. You do so at your own risk. **Spark Hire warns you to be careful in posting information accessible to the public.**
 
 **10.2** If you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties or other unwanted and possibly harmful contact. **Spark Hire warns you to be careful in posting information accessible to the public.**
 
-**11\. REVISIONS TO PRIVACY AND SECURITY POLICY**
+**11\. CUSTOMER OBLIGATIONS**
 
-**11.1.** Spark Hire reserves the right to revise, amend, or modify this Privacy and Security Policy, our Terms of Use, and other online policies and agreements at any time and in any manner. 
+**11.1.** By using the Spark Hire Services, you agree to use any information about any other Spark Hire Customer, particularly PII, obtained through Spark Hire Services in a manner consistent with the Terms of Use, this Privacy and Security Policy, and the privacy protections provided for in such policies.
 
-**11.2.** Spark Hire shall provide notice of such changes by posting the revised policies to the applicable Spark Hire owned websites and by either (a) providing you a message the next time you login into your account or (b) sending you electronic mail to the email address you provided when creating your account. 
+**12\. REVISIONS TO PRIVACY AND SECURITY POLICY**
 
-**11.3.** With respect to this Privacy and Security Policy, you should visit our website at sparkhire.com from time to time to review the then-current terms. At any time, the current-posted policies govern and shall be binding.
+**12.1.** Spark Hire reserves the right to revise, amend, or modify this Privacy and Security Policy, our Terms of Use, and other online policies and agreements at any time and in any manner. 
+
+**12.2.** Spark Hire shall provide notice of such changes by posting the revised policies to the applicable Spark Hire owned websites and by either (a) providing you a message the next time you login into your account or (b) sending you electronic mail to the email address you provided when creating your account. 
+
+**12.3.** With respect to this Privacy and Security Policy, you should visit our website at sparkhire.com from time to time to review the then-current terms. At any time, the current-posted policies govern and shall be binding.
 
 **For Additional Information or Questions, Contact Our Privacy Officer**
 
 Spark Hire has a designated Privacy Officer. If you have additional questions or concerns regarding how Spark Hire is managing or using your personal information, please send your concerns in writing to our Privacy Officer by e-mail at [privacyofficer@sparkhire.com](mailto:privacyofficer@sparkhire.com).
 
-Rev. 11/13/2012
+Rev. 4/10/2014
