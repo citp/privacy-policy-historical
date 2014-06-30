@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magnumicecream.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231022918id_/http%3A//www.unileverprivacypolicy.com/en_us/policy.aspx%3Fsite%3Dmagnumicecream.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magnumicecream.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630210921id_/http%3A//www.unileverprivacypolicy.com/en_us/policy.aspx%3Fsite%3Dmagnumicecream.com) for the most accurate reproduction.*
 
 # Privacy Policy
 
