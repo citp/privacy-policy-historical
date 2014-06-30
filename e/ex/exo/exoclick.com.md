@@ -1,21 +1,19 @@
-> *The following text is extracted and transformed from the exoclick.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230204054id_/http%3A//www.exoclick.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exoclick.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630052007id_/https%3A//www.exoclick.com/privacy) for the most accurate reproduction.*
 
-# ExoClick.com - Privacy Policy
-
-## PRIVACY POLICY
+# Privacy | ExoClick
 
 Effective on December 1st, 2011.
 
-This privacy statement describes how ExoClick, S.L. (ExoClick) collects and uses the personal information you provide on our Web site www.ExoClick. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+This privacy statement describes how ExoClick, S.L. (ExoClick) collects and uses the personal information you provide on our website www.exoclick.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
-ExoClick has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's [program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers the website www.ExoClick.com. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at privacy@exoclick.com. If you are not satisfied with our response you can contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request).
+ExoClick has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe’s [program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers the website www.exoclick.com. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at privacy@exoclick.com. If you are not satisfied with our response you can contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request).
 
 1\. Collection and Use  
 2\. Information Sharing  
 3\. Tracking Technologies  
 4\. Security  
 5\. Additional Info  
-6\. Contact Info 
+6\. Contact Info
 
 ### 1\. Collection and Use of Personal Information
 
@@ -27,7 +25,7 @@ We collect the following personal information from you
 \- Unique Identifiers such as user name, account number, password  
 \- Information about your business such as company name, company size, business type
 
-As is true of most Web sites, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system. We use this information to  
+As is true of most websites, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system. We use this information to  
 \- Fulfill your order  
 \- Send you an order confirmation  
 \- Send you requested product or service information  
@@ -40,7 +38,7 @@ As is true of most Web sites, we automatically gather information about your com
 \- Conduct research and analysis
 
 **Choice/Opt-Out**  
-You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at privacy@exoclick.com. 
+You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at privacy@exoclick.com.
 
 ### 2\. Information Sharing
 
@@ -54,7 +52,7 @@ We may also disclose your personal information
 \- if ExoClick is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information,  
 \- to any other third party with your prior consent to do so.
 
-**PayPal, Payoneer or Paxum** If you choose to use PayPal, Payoneer or Paxum to finalize and pay for your order, you will provide your credit card number, directly to PayPal/Payoneer/Paxum. PayPal/Payoneer/Paxum's privacy policy will apply to the information you provide on the PayPal/Payoneer/Paxum Web site. 
+**PayPal, Payoneer or Paxum**  If you choose to use PayPal, Payoneer or Paxum to finalize and pay for your order, you will provide your credit card number, directly to PayPal/Payoneer/Paxum. PayPal/Payoneer/Paxum’s privacy policy will apply to the information you provide on the PayPal/Payoneer/Paxum Web site.
 
 ### Cookies and Other Tracking Technologies
 
@@ -68,26 +66,23 @@ Our Web site includes Widgets, such as AddThis, which are interactive mini-progr
 
 ### Security
 
-When we collect personal information directly from you, we follow generally accepted industry standards such as SSL, to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at privacy@exoclick.com. 
+When we collect personal information directly from you, we follow generally accepted industry standards such as SSL, to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at privacy@exoclick.com.
 
 ### Additional Policy Information
 
-**Correcting and Updating Your Personal Information** To review, update, ensure it is accurate, or delete your personal information please contact us at privacy@exoclick.com.
+**Correcting and Updating Your Personal Information**  To review, update, ensure it is accurate, or delete your personal information please contact us at privacy@exoclick.com.
 
 We will retain your information for as long as your account is active or as needed to provide you services. Please contact us if you wish to cancel your account or request that we no longer use your information to provide you services.  We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-**Links to Other Web sites** Our site includes links to other Web sites whose privacy practices may differ from ours. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit.
+**Links to Other Web sites**  Our site includes links to other Web sites whose privacy practices may differ from ours. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit.
 
 **Notification of Privacy Statement Changes**
 
-We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. 
+We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
 ### Contact Information
 
 You can contact us by writing or email us at the address below:
 
-ExoClick S.L.  
-Marina 16 - 18,  
-18B 08005 Barcelona  
-Spain  
-Email: privacy@exoclick.com 
+Address: ExoClick S.L. - Marina 16 – 18, Floor 18 – 08005 Barcelona, Spain  
+Email: privacy@exoclick.com
