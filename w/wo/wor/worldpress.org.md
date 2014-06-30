@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldpress.org privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231214829id_/http%3A//worldpress.org/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldpress.org privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630043801id_/http%3A//www.worldpress.org/privacy.cfm) for the most accurate reproduction.*
 
 # Worldpress.org - Privacy Policy
 
@@ -12,7 +12,7 @@ We take every precaution to protect your personal information. When we ask you t
 
 ## Unsolicited E-Mail (SPAM)
 
-Worldpress.org regards SPAM as an annoyance and as a waste of bandwidth. **Under no circumstances will we share or sell your e-mail address with anyone.** If you supply an e-mail address to us, we may contact you by e-mail about your account. Worldpress.org's [e-mail newsletters](https://web.archive.org/web/20131231214829id_/http%3A//worldpress.org/subscribe.cfm) are only sent to readers who request them.
+Worldpress.org regards SPAM as an annoyance and as a waste of bandwidth. **Under no circumstances will we share or sell your e-mail address with anyone.** If you supply an e-mail address to us, we may contact you by e-mail about your account. Worldpress.org's [e-mail newsletters](https://web.archive.org/web/20140630043801id_/http%3A//www.worldpress.org/subscribe.cfm) are only sent to readers who request them.
 
 ## How Do We Use Your Information?
 
