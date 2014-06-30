@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the imdb.es privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229023104id_/http%3A//www.imdb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imdb.es privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630023027id_/http%3A//www.imdb.com/privacy) for the most accurate reproduction.*
 
 # 
 
 |  | 
 
-**Last Updated, November 15, 2010**. To see what has changed [click here](https://web.archive.org/privacy_change). 
+**Last Updated, March 17, 2014**. To see what has changed [click here](https://web.archive.org/privacy_change). 
 
 IMDb knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. **By visiting IMDb, you are accepting the practices described in this Privacy Notice.**
 
@@ -67,6 +67,14 @@ It is important for you to protect against unauthorized access to your password 
 **Children**
 
 IMDb is not intended for use by children under the age of 13. If you are under 13, you may not submit information about yourself to IMDb. 
+
+**Does IMDb.com Participate in the Safe Harbor Program?**
+
+As a subsidiary of Amazon.com, Inc., IMDb.com is a participant in the Safe Harbor program developed by the U.S. Department of Commerce and (1) the European Union and (2) Switzerland, respectively. Amazon has certified that we adhere to the Safe Harbor Privacy Principles agreed upon by the U.S. and (1) the European Union and (2) Switzerland, respectively. For more information about the Safe Harbor and to view our certification, visit the [U.S. Department of Commerce's Safe Harbor](http://export.gov/safeharbor/) Web site.
+
+In compliance with the US-EU and US-Swiss Safe Harbor Principles, we endeavor to resolve all complaints about privacy and the collection or use of customer information. If you have questions about our participation in the Safe Harbor program or have a complaint, please send an e-mail to safeharbor@amazon.com.
+
+Under the Safe Harbor program, any unresolved privacy complaints can be referred to an independent dispute resolution mechanism. We use the BBB EU Safe Harbor Program, which is operated by the Council of Better Business Bureaus. If you feel that we have not satisfactorily addressed your complaint, you can visit the BBB EU Safe Harbor Program web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information on how to file a complaint.
 
 **Conditions of Use, Notices, and Revisions**
 
