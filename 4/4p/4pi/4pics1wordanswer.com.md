@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the 4pics1wordanswer.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230030152id_/http%3A//4pics1wordanswer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4pics1wordanswer.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630205351id_/http%3A//4pics1wordanswer.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | What's The Word 4 Pics 1 Word Answer
-
-Rating: 0.0/ **5** (0 votes cast)
+# Privacy Policy | 4 Pics 1 Word Answer What's The Word
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at admin@4pics1wordanswer.com.
 
