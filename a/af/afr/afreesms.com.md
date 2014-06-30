@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the afreesms.com privacy policy that was archived on 2013-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130909235036id_/http%3A//www.afreesms.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afreesms.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630221734id_/http%3A//afreesms.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy & Practice
 
@@ -38,5 +38,3 @@ If you have questions regarding this Privacy Notice, you should first contact us
 As our Service evolves, our Privacy Notice will also undergo changes. We reserve the right, at our discretion, to make changes to this Notice at any time. We encourage you to check our Privacy Notice periodically to keep informed of how aFreeSms.com is protecting your information.
 
 (Privacy Notice is effective from Monday, October 1, 2012)
-
-Copyright © 2013 - aFreeSms.com. All Rights Reserved.
