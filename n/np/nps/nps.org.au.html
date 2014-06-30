@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the nps.org.au privacy policy that was archived on 2013-12-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131203225727id_/http%3A//www.nps.org.au/about-this-website/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nps.org.au privacy policy that was archived on 2014-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140630210715id_/http%3A//www.nps.org.au/about-this-website/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en" vocab="http://schema.org/" typeof="WebPage"><!--<![endif]--><head>
-    <script async="" src="//ssl.google-analytics.com/ga.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_GB/all.js#xfbml=1"></script><script src="//cdn.optimizely.com/js/400610706.js"></script>
+    <!--script src="//cdn.optimizely.com/js/400610706.js"></script-->
     <meta charset="utf-8">
     <!-- Metadata section // -->
     <!-- Essential metadata // -->
@@ -24,6 +24,7 @@
     <meta name="Medicines" content="">
     <meta name="Conditions" content="">
     <meta name="Medical.test" content="">
+    <meta name="Related.professional.activity" content="">
     <meta name="Other" content="">
    
    <!-- Values for AP and healthinsite compatibility //-->
@@ -38,14 +39,16 @@
    <meta name="DC.Identifier" scheme="URI" content="http://www.nps.org.au/about-this-website/privacy">
    
    <link rel="canonical" href="http://www.nps.org.au/about-this-website/privacy">
-   <link rel="icon" href="?a=142845" type="image/x-icon">
 <!-- End metadata section // -->
 
-<link rel="apple-touch-icon" href="?a=149961">
-<link rel="stylesheet" type="text/css" href="http://www.nps.org.au/_design/css/style.css" media="all">
+<link rel="apple-touch-icon" href="http://www.nps.org.au/__data/assets/image/0003/149961/apple-touch-icon-precomposed.png">
+<!-- link rel="stylesheet" type="text/css" href="http://www.nps.org.au/_design/css/style.css" media="all" / -->
+<link rel="stylesheet" type="text/css" href="http://www.nps.org.au/_design/css/bootstrap/bootstrap.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.nps.org.au/_design/css/bootstrap/style.css" media="all">
+
 <!--[if lte IE 9]>
-<link rel="stylesheet" href="?a=142079" type="text/css" media="screen" />
-<link rel="stylesheet" href="?a=208743" type="text/css" media="print" />
+<link rel="stylesheet" href="http://www.nps.org.au/_design/css/ie.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="http://www.nps.org.au/_design/css/ie-print.css" type="text/css" media="print" />
 <![endif]-->
 <!--[if (lt IE 9) & (!IEMobile)]>
 <script src="http://www.nps.org.au/__data/assets/js_file/0006/213693/respond.min.js"></script>
@@ -53,7 +56,7 @@
 
 
 <!-- modernizr.js -->
-<script src="http://www.nps.org.au/__data/assets/js_file/0011/141887/modernizr.min.js"></script>
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_GB/all.js#xfbml=1"></script><script src="http://www.nps.org.au/__data/assets/js_file/0011/141887/modernizr.min.js"></script>
 <!-- json2 -->
 <script src="http://www.nps.org.au/__data/assets/js_file/0009/168363/json2.min.js"></script>
 <script>/*fix for iphone viewport scale bug */
@@ -65,6 +68,8 @@
 <script src="http://static-au.funnelback.com/search/js/jquery/jquery.tmpl.min.js"></script>
 
 <script src="http://www.nps.org.au/__data/assets/js_file/0006/158721/jquery.funnelback-completion.js"></script>
+<!--bootstrapjs-->
+<script src="http://www.nps.org.au/__data/assets/js_file/0020/240617/bootstrap.min.js"></script>
 <script>
 // Query completion setup.
 $(document).ready(function() {
@@ -79,6 +84,19 @@ $(document).ready(function() {
         'length'     : '2',
         'delay'      : '0',
         'profile'    : 'global' 
+    });
+    
+    $("#querybottom").fbcompletion({
+        'enabled'    : 'enabled',
+        'collection' : 'nps',
+        'program'    : 'http://search-au.funnelback.com/s/suggest.json',
+        'format'     : 'extended',
+        'alpha'      : '.5',
+        'show'       : '20',
+        'sort'       : '0',
+        'length'     : '2',
+        'delay'      : '0',
+        'profile'    : 'global' //home
     });
     
     $("#querytop").fbcompletion({
@@ -101,7 +119,7 @@ $(document).ready(function() {
   Running Squiz Matrix
   Developed by Squiz - http://www.squiz.net
   Squiz, Squiz Matrix, MySource, MySource Matrix and Squiz.net are registered Trademarks of Squiz Pty Ltd
-  Page generated: 03 December 2013 20:56:06
+  Page generated: 01 July 2014 03:01:50
 -->
 
 
@@ -124,16 +142,16 @@ $(document).ready(function() {
     <noscript>
         <p><strong>Warning!</strong> This site uses JavaScript for some functionality. Turn JavaScript on for a nicer experience.</p>
     </noscript>
-    <header role="banner" class="container banner">
+    <header role="banner" class="banner">
         <div id="site-tools" class="row">
 	<section class="group site">
-		<div class="slogan sixcol">
+		<div class="slogan col-md-6 visible-md visible-lg">
 			<p>Independent.</p>
 			<p>Not-for-profit.</p>
 			<p>Evidence based.</p>
 		</div>
-		<p class="language-options tool threecol"> <a href="http://www.nps.org.au/translated-health-information-about-medicines"><span>Translated resources</span></a> </p>
-		<div class="global-search tool threecol last">
+		<p class="col-md-3">  </p>
+		<div class="global-search tool col-md-3 last">
 			<form action="http://www.nps.org.au/search-result" method="get">
 				<fieldset>
 					<input type="hidden" name="collection" value="nps">
@@ -145,362 +163,518 @@ $(document).ready(function() {
 		</div>
 	</section>
 </div>
+
 <div id="branding" class="row">
-	<section class="group"> <a class="nps sixcol ir" href="http://www.nps.org.au">
-		<div id="logo">
-			<h2>NPS Medicinewise</h2>
-			<img src="http://www.nps.org.au/__data/assets/image/0004/217651/nps-medicinewise-print.png" class="print" alt="" height="94" width="462"> </div>
-		</a>
-		<div id="tertiary-nav" class="sixcol last">
+	<section class="group">
+		<div class="col-xs-3 start">
+			<a class="nps ir" href="http://www.nps.org.au/">
+			<div id="logo">
+				<h2>NPS Medicinewise</h2>
+				<img src="http://www.nps.org.au/__data/assets/image/0004/217651/nps-medicinewise-print.png" class="print" alt="" height="60"> </div>
+			</a>
+		</div>
+		<div class="col-xs-9 visible-xs visible-sm mobile-button">
+			<a class="profile-button" href="http://www.nps.org.au/mynps">MyNPS</a>
+			<a class="menu-button">Menu</a>
+			<a class="search-button">Search</a>
+		</div>
+		<div id="tertiary-nav" class="col-md-9 visible-md visible-lg last">
 			<ul class="nav nav-tertiary">
+				<li><a href="http://www.nps.org.au/about-us">About us</a></li>
 				<li><a href="http://www.nps.org.au/publications">Publications</a></li>
 				<li><a href="http://www.nps.org.au/media-centre">Media</a></li>
-				<li><a href="http://www.nps.org.au/nps-in-the-community">Community programs</a></li>
+				<!--
+				<li><a href="http://www.nps.org.au/translated-health-information-about-medicines">
+				Translated resources</a></li>
+
 				<li><a href="http://www.nps.org.au/order-subscribe">Order &amp; subscribe</a></li>
+				-->
 				<li><a href="http://www.nps.org.au/careers">Careers</a></li>
 				<li class="last"><a href="http://www.nps.org.au/contact-us">Contact us</a></li>
+				<li class="authenticated"><a href="http://www.nps.org.au/mynps"></a></li>
 			</ul>
 		</div>
 	</section>
 </div>
-        <nav id="primary" class="row" role="navigation">
-            <!-- HTML NAV-->	<h3 class="expander">Main menu <span class="toggle">+</span></h3>
-	<ul class="nav nav-primary elevencol">
-		<li class="nav-item-nps"><a href="http://www.nps.org.au" class="ir">Home</a></li>
-		<li class="nav-item-medicines"><a href="http://www.nps.org.au/medicines">Medicines</a>
-			<ul class="meganav">
-				<li class="allergic-disorders sub"><a href="http://www.nps.org.au/medicines/allergic-disorders">Allergic disorders</a> </li>
-				<li class="brain-and-nervous-system sub"><a href="http://www.nps.org.au/medicines/brain-and-nervous-system">Brain &amp; nervous system</a> </li>
-				<li class="cancers sub"><a href="http://www.nps.org.au/medicines/cancers">Cancers</a> </li>
-				<li class="complementary-medicines sub"><a href="http://www.nps.org.au/medicines/complementary-medicines">Complementary medicines</a> </li>
-				<li class="contraceptive-methods sub"><a href="http://www.nps.org.au/medicines/contraceptive-methods">Contraceptive methods</a> </li>
-				<li class="diagnostic-agents sub"><a href="http://www.nps.org.au/medicines/diagnostic-agents">Diagnostic agents</a> </li>
-				<li class="digestive-system sub"><a href="http://www.nps.org.au/medicines/digestive-system">Digestive system</a> </li>
-				<li class="ear-nose-mouth-and-throat sub"><a href="http://www.nps.org.au/medicines/ear-nose-mouth-and-throat">Ear, nose, mouth &amp; throat</a> </li>
-				<li class="eye sub"><a href="http://www.nps.org.au/medicines/eye">Eye</a> </li>
-				<li class="heart-blood-and-blood-vessels sub"><a href="http://www.nps.org.au/medicines/heart-blood-and-blood-vessels">Heart, blood &amp; blood vessels</a> </li>
-				<li class="hormonal-and-metabolic-system sub"><a href="http://www.nps.org.au/medicines/hormonal-and-metabolic-system">Hormonal &amp; metabolic system</a> </li>
-				<li class="immune-system sub"><a href="http://www.nps.org.au/medicines/immune-system">Immune system</a> </li>
-				<li class="infections-and-infestations sub"><a href="http://www.nps.org.au/medicines/infections-and-infestations">Infections &amp; infestations</a> </li>
-				<li class="muscles-bones-and-joints sub"><a href="http://www.nps.org.au/medicines/muscles-bones-and-joints">Muscles, bones &amp; joints</a> </li>
-				<li class="nutrition sub"><a href="http://www.nps.org.au/medicines/nutrition">Nutrition</a> </li>
-				<li class="pain-relief sub"><a href="http://www.nps.org.au/medicines/pain-relief">Pain relief</a> </li>
-				<li class="poisoning-toxicity-and-substance-dependence sub"><a href="http://www.nps.org.au/medicines/poisoning-toxicity-and-substance-dependence">Poisoning, toxicity &amp; substance dependence</a> </li>
-				<li class="respiratory-system sub"><a href="http://www.nps.org.au/medicines/respiratory-system">Respiratory system</a> </li>
-				<li class="skin sub"><a href="http://www.nps.org.au/medicines/skin">Skin</a> </li>
-				<li class="surgical-preparations sub"><a href="http://www.nps.org.au/medicines/surgical-preparations">Surgical preparations</a> </li>
-				<li class="urinary-system-and-sex-organs sub"><a href="http://www.nps.org.au/medicines/urinary-system-and-sex-organs">Urinary system &amp; sex organs</a> </li>
-				<li class="sub-keypad">
-					<h2>Browse medicines</h2>
-					<ul class="keypad clearfix">
-						<li><a href="/a-z-list/medicines/a" class="key A">A</a></li>
-						<li><a href="/a-z-list/medicines/b" class="key B">B</a></li>
-						<li><a href="/a-z-list/medicines/c" class="key C">C</a></li>
-						<li><a href="/a-z-list/medicines/d" class="key D">D</a></li>
-						<li><a href="/a-z-list/medicines/e" class="key E">E</a></li>
-						<li><a href="/a-z-list/medicines/f" class="key F">F</a></li>
-						<li><a href="/a-z-list/medicines/g" class="key G">G</a></li>
-						<li><a href="/a-z-list/medicines/h" class="key H">H</a></li>
-						<li><a href="/a-z-list/medicines/i" class="key I">I</a></li>
-						<li><a href="/a-z-list/medicines/j" class="key J">J</a></li>
-						<li><a href="/a-z-list/medicines/k" class="key K">K</a></li>
-						<li><a href="/a-z-list/medicines/l" class="key L">L</a></li>
-						<li><a href="/a-z-list/medicines/m" class="key M">M</a></li>
-						<li><a href="/a-z-list/medicines/n" class="key N">N</a></li>
-						<li><a href="/a-z-list/medicines/o" class="key O">O</a></li>
-						<li><a href="/a-z-list/medicines/p" class="key P">P</a></li>
-						<li><a href="/a-z-list/medicines/q" class="key Q">Q</a></li>
-						<li><a href="/a-z-list/medicines/r" class="key R">R</a></li>
-						<li><a href="/a-z-list/medicines/s" class="key S">S</a></li>
-						<li><a href="/a-z-list/medicines/t" class="key T">T</a></li>
-						<li><a href="/a-z-list/medicines/u" class="key U">U</a></li>
-						<li><a href="/a-z-list/medicines/v" class="key V">V</a></li>
-						<li><a href="/a-z-list/medicines/w" class="key W">W</a></li>
-						<li><a href="/a-z-list/medicines/x" class="key X">X</a></li>
-						<li><a href="/a-z-list/medicines/y" class="key Y">Y</a></li>
-						<li><a href="/a-z-list/medicines/z" class="key Z">Z</a></li>
-						<li><a href="/a-z-list/medicines/0" class="key numeric">0-9</a></li>
-					</ul>
-				</li>
-			</ul>
-		</li>
-		<li class="nav-item-conditions_and_topics"><a href="http://www.nps.org.au/conditions-and-topics">Conditions &amp; topics</a>
-			<ul class="meganav">
-				<li class="conditions sub">
-					<h2><a href="http://www.nps.org.au/conditions-and-topics/conditions">Conditions</a></h2>
-					<ul>
-						<li class="allergic-problems"><a href="http://www.nps.org.au/conditions-and-topics/conditions/allergic-problems">Allergic problems</a></li>
-						<li class="cancer"><a href="http://www.nps.org.au/conditions-and-topics/conditions/cancer">Cancer</a></li>
-						<li class="digestive-system-problems"><a href="http://www.nps.org.au/conditions-and-topics/conditions/digestive-system-problems">Digestive system problems</a></li>
-						<li class="ear-nose-mouth-and-throat-problems"><a href="http://www.nps.org.au/conditions-and-topics/conditions/ear-nose-mouth-and-throat-disorders">Ear, nose, mouth &amp; throat problems</a></li>
-						<li class="eye-disorders"><a href="http://www.nps.org.au/conditions-and-topics/conditions/eye-disorders">Eye disorders</a></li>
-						<li class="heart-blood-and-blood-vessel-conditions"><a href="http://www.nps.org.au/conditions-and-topics/conditions/heart-blood-and-blood-vessel-conditions">Heart, blood &amp; blood vessel conditions</a></li>
-						<li class="hormones-metabolism-and-nutritional-problems"><a href="http://www.nps.org.au/conditions-and-topics/conditions/hormones-metabolism-and-nutritional-problems">Hormones, metabolism &amp; nutritional problems</a></li>
-						<li class="immune-conditions"><a href="http://www.nps.org.au/conditions-and-topics/conditions/immune-conditions">Immune conditions</a></li>
-						<li class="infections-bacterial-viral-fungal-parasitic-and-worms"><a href="http://www.nps.org.au/conditions-and-topics/conditions/infections-bacterial-viral-fungal-and-parasitic-and-worms">Infections (bacterial, viral, fungal, parasitic) &amp; worms</a></li>
-						<li class="mental-health-conditions"><a href="http://www.nps.org.au/conditions-and-topics/conditions/mental-health-conditions">Mental health conditions</a></li>
-						<li class="muscle-bone-and-joint-problems"><a href="http://www.nps.org.au/conditions-and-topics/conditions/muscle-bone-and-joint-problems">Muscle, bone &amp; joint problems</a></li>
-						<li class="nervous-system-problems"><a href="http://www.nps.org.au/conditions-and-topics/conditions/nervous-system-problems">Nervous system problems</a></li>
-						<li class="reproductive-system-conditions"><a href="http://www.nps.org.au/conditions-and-topics/conditions/reproductive-system-conditions">Reproductive system conditions</a></li>
-						<li class="respiratory-problems"><a href="http://www.nps.org.au/conditions-and-topics/conditions/respiratory-problems">Respiratory problems</a></li>
-						<li class="skin-conditions"><a href="http://www.nps.org.au/conditions-and-topics/conditions/skin-conditions">Skin conditions</a></li>
-						<li class="substance-dependence-poisoning-and-toxicity"><a href="http://www.nps.org.au/conditions-and-topics/conditions/substance-dependence-poisoning-and-toxicity">Substance dependence, poisoning &amp; toxicity</a></li>
-						<li class="urine-bladder-and-kidney-problems"><a href="http://www.nps.org.au/conditions-and-topics/conditions/urine-bladder-and-kidney-problems">Urine, bladder &amp; kidney problems</a></li>
-						<li class="venomous-bites-and-stings"><a href="http://www.nps.org.au/conditions-and-topics/conditions/venomous-bites-and-stings">Venomous bites &amp; stings</a></li>
-					</ul>
-				</li>
-				<li class="topics sub">
-					<h2><a href="http://www.nps.org.au/conditions-and-topics/topics">Topics</a></h2>
-					<ul>
-						<!--li class="campaigns-and-events"><a href="http://www.nps.org.au/conditions-and-topics/topics/campaigns-events">Campaigns &amp; events</a></li-->
-						
-						<li class="ages-and-life-stages"><a href="http://www.nps.org.au/conditions-and-topics/topics/how-to-be-medicinewise/ages-life-stages">Ages &amp; life stages</a></li>
-						<li class="ehealth"><a href="http://www.nps.org.au/conditions-and-topics/topics/e-health">eHealth</a></li>
-						<li class="preventive-health"><a href="http://www.nps.org.au/conditions-and-topics/topics/preventive-health">Preventive health</a></li>
-						<!-- level3 -->
-						<li class="how-to-be-medicinewise">
-							<h3><a href="http://www.nps.org.au/conditions-and-topics/topics/how-to-be-medicinewise">How to be medicinewise</a></h3>
-							<!-- level4 nest -->
-							<ul>
-								<li class="choose-medicines-wisely"><a href="http://www.nps.org.au/conditions-and-topics/topics/how-to-be-medicinewise/making-wise-choices-about-medicines">Choose medicines wisely</a></li>
-								<li class="buying-medicines"><a href="http://www.nps.org.au/conditions-and-topics/topics/how-to-be-medicinewise/buying-medicines">Buying medicines</a></li>
-								<li class="generic-medicine-brands"><a href="http://www.nps.org.au/conditions-and-topics/topics/how-to-be-medicinewise/buying-medicines/generic-medicine-brands">Generic medicine brands</a></li>
-								<li class="manage-your-medicines"><a href="http://www.nps.org.au/conditions-and-topics/topics/how-to-be-medicinewise/managing-your-medicines">Manage your medicines</a></li>
-								<li class="side-effects-and-interactions"><a href="http://www.nps.org.au/conditions-and-topics/topics/how-to-be-medicinewise/side-effects-interactions">Side effects &amp; interactions</a></li>
-								<li class="finding-information-on-medicines"><a href="http://www.nps.org.au/conditions-and-topics/topics/how-to-be-medicinewise/finding-information-on-medicines">Finding information on medicines</a></li>
-								<li class="using-complementary-medicines"><a href="http://www.nps.org.au/conditions-and-topics/topics/how-to-be-medicinewise/using-complementary-medicines">Using complementary medicines</a></li>
-								<li class="healthy-lifestyle-choices"><a href="http://www.nps.org.au/conditions-and-topics/topics/how-to-be-medicinewise/healthy-lifestyle-choices">Healthy lifestyle choices</a></li>
-								<li class="regulation-and-trials"><a href="http://www.nps.org.au/conditions-and-topics/topics/how-to-be-medicinewise/regulation-clinical-trials">Regulation &amp; trials</a></li>
-							</ul>
-						</li>
-					</ul>
-				</li>
-				<li class="sub-keypad last">
-					<h2>Browse conditions &amp; topics</h2>
-					<ul class="keypad clearfix">
-						<li><a href="/a-z-list/conditions-topics/a" class="key A">A</a></li>
-						<li><a href="/a-z-list/conditions-topics/b" class="key B">B</a></li>
-						<li><a href="/a-z-list/conditions-topics/c" class="key C">C</a></li>
-						<li><a href="/a-z-list/conditions-topics/d" class="key D">D</a></li>
-						<li><a href="/a-z-list/conditions-topics/e" class="key E">E</a></li>
-						<li><a href="/a-z-list/conditions-topics/f" class="key F">F</a></li>
-						<li><a href="/a-z-list/conditions-topics/g" class="key G">G</a></li>
-						<li><a href="/a-z-list/conditions-topics/h" class="key H">H</a></li>
-						<li><a href="/a-z-list/conditions-topics/i" class="key I">I</a></li>
-						<li><a href="/a-z-list/conditions-topics/j" class="key J">J</a></li>
-						<li><a href="/a-z-list/conditions-topics/k" class="key K">K</a></li>
-						<li><a href="/a-z-list/conditions-topics/l" class="key L">L</a></li>
-						<li><a href="/a-z-list/conditions-topics/m" class="key M">M</a></li>
-						<li><a href="/a-z-list/conditions-topics/n" class="key N">N</a></li>
-						<li><a href="/a-z-list/conditions-topics/o" class="key O">O</a></li>
-						<li><a href="/a-z-list/conditions-topics/p" class="key P">P</a></li>
-						<li><a href="/a-z-list/conditions-topics/q" class="key Q">Q</a></li>
-						<li><a href="/a-z-list/conditions-topics/r" class="key R">R</a></li>
-						<li><a href="/a-z-list/conditions-topics/s" class="key S">S</a></li>
-						<li><a href="/a-z-list/conditions-topics/t" class="key T">T</a></li>
-						<li><a href="/a-z-list/conditions-topics/u" class="key U">U</a></li>
-						<li><a href="/a-z-list/conditions-topics/v" class="key V">V</a></li>
-						<li><a href="/a-z-list/conditions-topics/w" class="key W">W</a></li>
-						<li><a href="/a-z-list/conditions-topics/x" class="key X">X</a></li>
-						<li><a href="/a-z-list/conditions-topics/y" class="key Y">Y</a></li>
-						<li><a href="/a-z-list/conditions-topics/z" class="key Z">Z</a></li>
-						<li><a href="/a-z-list/conditions-topics/0" class="key numeric">0-9</a></li>
-					</ul>
-				</li>
-			</ul>
-		</li>
-		
-		<li class="nav-item-medical_tests"><a href="http://www.nps.org.au/medical-tests">Medical tests</a>
-			<ul class="meganav">
-				<li class="understanding-medical-tests sub"><h2><a href="http://www.nps.org.au/medical-tests/understanding-medical-tests">Understanding medical tests</a></h2>
-					<ul>
-						<li class="questions-to-ask-your-doctor"><a href="http://www.nps.org.au/medical-tests/understanding-medical-tests/for-individuals/questions-to-ask-your-doctor">Questions to ask your doctor</a></li>
-						<li class="weigh-up-your-options"><a href="http://www.nps.org.au/medical-tests/understanding-medical-tests/for-individuals/weigh-up-your-options">Weigh-up your options</a></li>
-						<li class="know-your-test-history"><a href="http://www.nps.org.au/medical-tests/understanding-medical-tests/for-individuals/know-your-test-history">Know your test history</a></li>
-						<li class="find-more-test-information"><a href="http://www.nps.org.au/medical-tests/understanding-medical-tests/for-individuals/find-more-test-information">Find more test information</a></li>
-					</ul>
-				</li>
-				<li class="pathology-tests sub"><h2><a href="http://www.nps.org.au/medical-tests/pathology-tests">Pathology tests</a></h2>
-					<ul>
-						<li class="blood-tests"><a href="http://www.nps.org.au/medical-tests/pathology-tests/for-individuals/blood-tests">Blood tests</a> </li>
-						<li class="stool-tests"><a href="http://www.nps.org.au/medical-tests/pathology-tests/for-individuals/stool-tests">Stool tests</a> </li>
-						<li class="urine-tests"><a href="http://www.nps.org.au/medical-tests/pathology-tests/for-individuals/urine-tests">Urine tests</a> </li>
-						<li class="other-pathology-tests"><a href="http://www.nps.org.au/medical-tests/pathology-tests/for-individuals/other-pathology-tests">Other pathology tests</a> </li>
-					</ul>
-				</li>
-				<li class="medical-imaging sub"><h2><a href="http://www.nps.org.au/medical-tests/medical-imaging">Medical imaging</a></h2>
-					<ul>
-						<li class="types-of-imaging"><a href="http://www.nps.org.au/medical-tests/medical-imaging/for-individuals/types-of-imaging">Types of imaging</a> </li>
-						<li class="radiation"><a href="http://www.nps.org.au/medical-tests/medical-imaging/for-individuals/radiation">Radiation</a> </li>
-						<li class="advantages-and-disadvantages"><a href="http://www.nps.org.au/medical-tests/medical-imaging/for-individuals/advantages-and-disadvantages">Advantages &amp; disadvantages</a> </li>
-						<li class="imaging-and-children"><a href="http://www.nps.org.au/medical-tests/medical-imaging/for-individuals/imaging-and-children">Imaging &amp; children</a> </li>
-					</ul>
-				</li>
-				<li class="tests-by-conditions sub"><h2><a href="http://www.nps.org.au/medical-tests/tests-by-conditions">Tests by conditions</a></h2>
-					<ul>
-						<li class="back-pain-tests"><a href="http://www.nps.org.au/medical-tests/tests-by-conditions/for-individuals/back-pain-tests">Back pain</a> </li>
-						<li class="colon-cancer-tests"><a href="http://www.nps.org.au/medical-tests/tests-by-conditions/for-individuals/colon-cancer-tests">Bowel cancer</a> </li>
-						<li class="breast-cancer-screening-tests"><a href="http://www.nps.org.au/medical-tests/tests-by-conditions/for-individuals/breast-cancer-screening-tests">Breast cancer</a> </li>
-						<li class="heart-disease-tests"><a href="http://www.nps.org.au/medical-tests/tests-by-conditions/for-individuals/heart-disease-tests">Cardiovascular tests</a> </li>
-						<li class="cervical-cancer-screening-tests"><a href="http://www.nps.org.au/medical-tests/tests-by-conditions/for-individuals/cervical-cancer-screening-tests">Cervical cancer</a> </li>
-						<li class="diabetes-tests"><a href="http://www.nps.org.au/medical-tests/tests-by-conditions/for-individuals/diabetes-tests">Diabetes</a> </li>
-						<li class="headache-tests"><a href="http://www.nps.org.au/medical-tests/tests-by-conditions/for-individuals/headache-tests">Headache</a> </li>
-						<li class="kidney-tests"><a href="http://www.nps.org.au/medical-tests/tests-by-conditions/for-individuals/kidney-problems-and-disorders-tests">Kidney disorders</a> </li>
-						<li class="prostate-cancer-screening-tests"><a href="http://www.nps.org.au/medical-tests/tests-by-conditions/for-individuals/prostate-cancer-screening-tests">Prostate cancer</a> </li>
-						<li class="respiratory-tract-infection-tests"><a href="http://www.nps.org.au/medical-tests/tests-by-conditions/for-individuals/respiratory-tract-infection-tests">Respiratory tract infection (RTIs)</a> </li>
-						<li class="thyroid-problems-and-dysfunction-tests"><a href="http://www.nps.org.au/medical-tests/tests-by-conditions/for-individuals/thyroid-problems-and-dysfunction-tests">Thyroid problems &amp; dysfunction</a> </li>
-						<li class="vitamin-d-deficiency-tests"><a href="http://www.nps.org.au/medical-tests/tests-by-conditions/for-individuals/vitamin-d-deficiency-tests">Vitamin D deficiency</a> </li>
-					</ul>
-				</li>
-				<!--li class="diagnostic-agents sub"><h2><a href="http://www.nps.org.au/medical-tests/diagnostic-agents">Diagnostic agents</a></h2></li-->
-				<li class="sub-keypad last">
-					<h2>Browse medical tests</h2>
-					<ul class="keypad clearfix">
-						<li><a href="/a-z-list/medical-tests/a" class="key A">A</a></li>
-						<li><a href="/a-z-list/medical-tests/b" class="key B">B</a></li>
-						<li><a href="/a-z-list/medical-tests/c" class="key C">C</a></li>
-						<li><a href="/a-z-list/medical-tests/d" class="key D">D</a></li>
-						<li><a href="/a-z-list/medical-tests/e" class="key E">E</a></li>
-						<li><a href="/a-z-list/medical-tests/f" class="key F">F</a></li>
-						<li><a href="/a-z-list/medical-tests/g" class="key G">G</a></li>
-						<li><a href="/a-z-list/medical-tests/h" class="key H">H</a></li>
-						<li><a href="/a-z-list/medical-tests/i" class="key I">I</a></li>
-						<li><a href="/a-z-list/medical-tests/j" class="key J">J</a></li>
-						<li><a href="/a-z-list/medical-tests/k" class="key K">K</a></li>
-						<li><a href="/a-z-list/medical-tests/l" class="key L">L</a></li>
-						<li><a href="/a-z-list/medical-tests/m" class="key M">M</a></li>
-						<li><a href="/a-z-list/medical-tests/n" class="key N">N</a></li>
-						<li><a href="/a-z-list/medical-tests/o" class="key O">O</a></li>
-						<li><a href="/a-z-list/medical-tests/p" class="key P">P</a></li>
-						<li><a href="/a-z-list/medical-tests/q" class="key Q">Q</a></li>
-						<li><a href="/a-z-list/medical-tests/r" class="key R">R</a></li>
-						<li><a href="/a-z-list/medical-tests/s" class="key S">S</a></li>
-						<li><a href="/a-z-list/medical-tests/t" class="key T">T</a></li>
-						<li><a href="/a-z-list/medical-tests/u" class="key U">U</a></li>
-						<li><a href="/a-z-list/medical-tests/v" class="key V">V</a></li>
-						<li><a href="/a-z-list/medical-tests/w" class="key W">W</a></li>
-						<li><a href="/a-z-list/medical-tests/x" class="key X">X</a></li>
-						<li><a href="/a-z-list/medical-tests/y" class="key Y">Y</a></li>
-						<li><a href="/a-z-list/medical-tests/z" class="key Z">Z</a></li>
-						<li><a href="/a-z-list/medical-tests/0" class="key numeric">0-9</a></li>
-					</ul>
-				</li>
-			</ul>
-		</li>
-		<li class="nav-item-health_professionals"><a href="http://www.nps.org.au/health-professionals">For health professionals <i class="icon-health-pro-lrg"></i></a>
-			<ul class="meganav">
-				<li class="publications sub">
-					<h2><a href="http://www.nps.org.au/health-professionals/publications">Publications</a></h2>
-					<ul>
-						<li class="australian-prescriber"><a href="http://www.nps.org.au/publications/health-professional/australian-prescriber">Australian Prescriber</a></li>
-						<li class="elearning---nps"><a href="http://www.nps.org.au/publications/health-professional/e-learning">eLearning @ NPS</a></li>
-						<li class="medicinewise-news"><a href="http://www.nps.org.au/publications/health-professional/medicinewise-news">Medicinewise News</a></li>
-						<li class="nps-direct"><a href="http://www.nps.org.au/publications/health-professional/nps-direct">NPS Direct</a></li>
-						<li class="nps-news"><a href="http://www.nps.org.au/publications/health-professional/nps-news">NPS News</a></li>
-						<li class="nps-radar"><a href="http://www.nps.org.au/publications/health-professional/nps-radar">NPS RADAR</a></li>
-						<li class="nurse-update"><a href="http://www.nps.org.au/publications/health-professional/nurse-update">Nurse Update</a></li>
-						<li class="practice-review"><a href="http://www.nps.org.au/publications/health-professional/prescribing-practice-review">Practice Review</a></li>
-					</ul>
-				</li>
-				<li class="resources-and-tools sub">
-					<h2><a href="http://www.nps.org.au/health-professionals/resources-and-tools">Resources &amp; tools</a></h2>
-					<ul>
-						<li class="health-news-evidence"><a href="http://www.nps.org.au/health-professionals/health_news_evidence">Health news and evidence</a></li>
-						<li class="for-your-patients"><a href="http://www.nps.org.au/health-professionals/resources-and-tools/for-your-patients">For your patients</a></li>
-						<li class="medicines-information-resources"><a href="http://www.nps.org.au/health-professionals/resources-and-tools/medicine-information-resources">Medicines information resources</a></li>
-						<li class="decision-and-management-tools"><a href="http://www.nps.org.au/health-professionals/resources-and-tools/decision-and-management-tools">Decision &amp; management tools</a></li>
-						<li class="medication-management-in-residential-aged-care"><a href="http://www.nps.org.au/health-professionals/resources-and-tools/medication-managment-in-residential-aged-care">Medication management in residential aged care</a></li>
-					</ul>
-				</li>
-				<li class="professional-development sub">
-					<h2><a href="http://www.nps.org.au/health-professionals/professional-development">Professional development</a></h2>
-					<ul>
-						<li class="cpd-and-qpi"><a href="http://www.nps.org.au/health-professionals/professional-development/about-points">CPD &amp; QPI</a></li>
-						<li class="clinical-audits-for-gps"><a href="http://www.nps.org.au/health-professionals/professional-development/clinical-audits-for-gps">Clinical audits for GPs</a></li>
-						<li class="pharmacy-practice-reviews"><a href="http://www.nps.org.au/health-professionals/professional-development/pharmacy-practice-reviews">Pharmacy practice reviews</a></li>
-						<li class="pharmacy-practice-reviews"><a href="http://www.nps.org.au/health-professionals/professional-development/case-studies">Case studies</a></li>
-						<li class="due-programs"><a href="http://www.nps.org.au/health-professionals/professional-development/due-programs">DUE programs</a></li>
-						<li class="general-practice-networks-and-divisions"><a href="http://www.nps.org.au/health-professionals/professional-development/general-practice-networks-and-divisions">General practice networks &amp; divisions</a></li>
-						<li class="nps-medicinewise-facilitator-visits"><a href="http://www.nps.org.au/health-professionals/professional-development/nps-facilitator-visits">NPS Medicinewise facilitator visits</a></li>
-						<li class="online-learning"><a href="http://www.nps.org.au/health-professionals/professional-development/online-learning">Online learning</a></li>
-						<li class="outreach-pharmacists"><a href="http://www.nps.org.au/health-professionals/professional-development/outreach-pharmacists">Outreach pharmacists</a></li>
-						<li class="prescribing-competencies-framework"><a href="http://www.nps.org.au/health-professionals/professional-development/prescribing-competencies-framework">Prescribing Competencies Framework</a></li>
-						<li class="register-of-consultants"><a href="http://www.nps.org.au/health-professionals/professional-development/register-of-consultants">Register of consultants</a></li>
-					</ul>
-				</li>
-				<li class="sub-keypad last">
-					<h2>Browse medicines, conditions &amp; topics</h2>
-					<ul class="keypad clearfix">
-						<li><a href="/a-z-list/medicines-conditions-medical-tests-topics/a" class="key A">A</a></li>
-						<li><a href="/a-z-list/medicines-conditions-medical-tests-topics/b" class="key B">B</a></li>
-						<li><a href="/a-z-list/medicines-conditions-medical-tests-topics/c" class="key C">C</a></li>
-						<li><a href="/a-z-list/medicines-conditions-medical-tests-topics/d" class="key D">D</a></li>
-						<li><a href="/a-z-list/medicines-conditions-medical-tests-topics/e" class="key E">E</a></li>
-						<li><a href="/a-z-list/medicines-conditions-medical-tests-topics/f" class="key F">F</a></li>
-						<li><a href="/a-z-list/medicines-conditions-medical-tests-topics/g" class="key G">G</a></li>
-						<li><a href="/a-z-list/medicines-conditions-medical-tests-topics/h" class="key H">H</a></li>
-						<li><a href="/a-z-list/medicines-conditions-medical-tests-topics/i" class="key I">I</a></li>
-						<li><a href="/a-z-list/medicines-conditions-medical-tests-topics/j" class="key J">J</a></li>
-						<li><a href="/a-z-list/medicines-conditions-medical-tests-topics/k" class="key K">K</a></li>
-						<li><a href="/a-z-list/medicines-conditions-medical-tests-topics/l" class="key L">L</a></li>
-						<li><a href="/a-z-list/medicines-conditions-medical-tests-topics/m" class="key M">M</a></li>
-						<li><a href="/a-z-list/medicines-conditions-medical-tests-topics/n" class="key N">N</a></li>
-						<li><a href="/a-z-list/medicines-conditions-medical-tests-topics/o" class="key O">O</a></li>
-						<li><a href="/a-z-list/medicines-conditions-medical-tests-topics/p" class="key P">P</a></li>
-						<li><a href="/a-z-list/medicines-conditions-medical-tests-topics/q" class="key Q">Q</a></li>
-						<li><a href="/a-z-list/medicines-conditions-medical-tests-topics/r" class="key R">R</a></li>
-						<li><a href="/a-z-list/medicines-conditions-medical-tests-topics/s" class="key S">S</a></li>
-						<li><a href="/a-z-list/medicines-conditions-medical-tests-topics/t" class="key T">T</a></li>
-						<li><a href="/a-z-list/medicines-conditions-medical-tests-topics/u" class="key U">U</a></li>
-						<li><a href="/a-z-list/medicines-conditions-medical-tests-topics/v" class="key V">V</a></li>
-						<li><a href="/a-z-list/medicines-conditions-medical-tests-topics/w" class="key W">W</a></li>
-						<li><a href="/a-z-list/medicines-conditions-medical-tests-topics/x" class="key X">X</a></li>
-						<li><a href="/a-z-list/medicines-conditions-medical-tests-topics/y" class="key Y">Y</a></li>
-						<li><a href="/a-z-list/medicines-conditions-medical-tests-topics/z" class="key Z">Z</a></li>
-						<li><a href="/a-z-list/medicines-conditions-medical-tests-topics/0" class="key numeric">0-9</a></li>
-					</ul>
-				</li>
-			</ul>
-		</li>
-		<li class="nav-item-about_us"><a href="http://www.nps.org.au/about-us">About us</a>
-			<ul class="meganav">
-				<li class="who-we-are sub">
-					<h2><a href="http://www.nps.org.au/about-us/who-we-are">Who we are</a></h2>
-					<ul>
-						<li class="our-history"><a href="http://www.nps.org.au/about-us/who-we-are">Our history</a></li>
-						<li class="our-people"><a href="http://www.nps.org.au/about-us/our-people">Our people</a></li>
-						<li class="governance"><a href="http://www.nps.org.au/about-us/governance">Governance</a></li>
-					</ul>
-				</li>
-				<li class="what-we-do sub">
-					<h2><a href="http://www.nps.org.au/about-us/what-we-do">What we do</a></h2>
-					<ul>
-						<li class="medicineinsight"><a href="http://www.nps.org.au/about-us/what-we-do/medicineinsight">MedicineInsight</a></li>
-						<li class="nps-medical-tests-initiative"><a href="http://www.nps.org.au/about-us/what-we-do/nps-medical-tests-initiative">NPS medical tests initiative</a></li>
-						<li class="our-campaigns"><a href="http://www.nps.org.au/conditions-and-topics/topics/campaigns-events">Our campaigns</a></li>
-						<li class="our-research"><a href="http://www.nps.org.au/about-us/what-we-do/our-research">Our research</a></li>
-						<li class="evaluating-our-work"><a href="http://www.nps.org.au/about-us/what-we-do/evaluation">Evaluating our work</a></li>
-					</ul>
-				</li>
-				<li class="who-we-work-with sub">
-					<h2><a href="http://www.nps.org.au/about-us/who-we-work-with">Who we work with</a></h2>
-					<ul>
-						<li class="our-members"><a href="http://www.nps.org.au/about-us/who-we-work-with">Our members</a></li>
-						<li class="nps-facilitators-and-medicare-locals"><a href="http://www.nps.org.au/about-us/who-we-work-with/NPS-facilitators-and-Medicare-locals">NPS facilitators &amp; Medicare locals</a></li>
-						<li class="advisory-and-editorial-groups"><a href="http://www.nps.org.au/about-us/who-we-work-with/working-groups-and-committees">Advisory &amp; editorial groups</a></li>
-					</ul>
-				</li>
-				<li class="contact-us sub">
-					<h2><a href="http://www.nps.org.au/contact-us">Contact us</a></h2>
-					<ul>
-						<li class="adverse-medicines-events-line"><a href="http://www.nps.org.au/contact-us/adverse-medicines-events">Adverse Medicine Events Line</a></li>
-						<li class="medicines-line"><a href="http://www.nps.org.au/contact-us/medicines-line">Medicines Line</a></li>
-						<li class="give-feedback"><a href="http://www.nps.org.au/contact-us/give-feedback">Give feedback</a></li>
-					</ul>
-				</li>
-			</ul>
-		</li>
-	</ul>        </nav>
+
+<div class="row visible-xs visible-sm" id="brandbar"></div><script>
+
+$( document ).ready(function() {
+	
+	function shownavigation(){
+		if (($(window).width() < 770) && $("body").hasClass("home-page")) {
+				$( "#site-tools" ).css("display","none");
+				$( ".nav-item-health_professionals a" ).html("Health professional");
+				$( "#branding a.menu-button" ).remove();
+				$( "#primary" ).css("display","block");
+			} else if ( ($(window).width() < 770) && !($("body").hasClass("home-page")) ) {
+				$( "#site-tools" ).css("display","none");
+				$( ".nav-item-health_professionals a.forhealth" ).html("Health professional");
+				$( "#primary" ).css("display","none");
+			} else if ( ($(window).width() > 770) ) {
+				$( "#site-tools" ).css("display","block").insertBefore('#branding');
+				$( ".nav-item-health_professionals a.forhealth" ).html('For health professionals <i class="icon-health-pro-lrg"></i>');
+				$( "#primary" ).css("display","block");
+			}
+	}
+	
+	$( "#primary" ).css("display","block");
+	shownavigation();
+	
+	$(window).resize(function() {
+		shownavigation();
+	});    
+	
+	$( "#branding" ).on( "click", "a.search-button", function() {
+		if ( $(this).hasClass("show-search") ) {
+			$( "#site-tools" ).slideUp('slow');
+			$(this).removeClass('show-search');
+			
+		} else {
+			$( "#site-tools" ).insertAfter('#branding');
+			$( "#site-tools" ).slideDown('slow');
+			$(this).addClass('show-search');
+		}
+	});
+	
+	$( "#branding" ).on( "click", "a.menu-button", function() {
+		if ( $(this).hasClass("show-menu") ) {
+			$( "#primary" ).slideUp('slow');
+			$(this).removeClass('show-menu');
+			
+		} else {
+			$( "#primary" ).slideDown('slow');
+			$(this).addClass('show-menu');
+		}
+	});
+
+	// update mobile header profile button based on authentication
+	var profileButton = $('#branding').find('.profile-button,.authenticated a');
+
+	if ( $('body').hasClass('loggedIn') ) {
+		 profileButton.first().text('MyNPS');
+		 profileButton.last().text('MyNPS - Public');
+		 //profileButton.attr('href', "http://www.nps.org.au/mynps");	
+	} else {
+		profileButton.text('Log in');
+		//profileButton.attr('href', "http://www.nps.org.au/mynps");	
+	}
+	
+});
+
+</script>        <nav id="primary" class="row" role="navigation">
+            <!-- HTML NAV-->
+
+<ul class="nav nav-primary elevencol col-md-11">
+	<li class="nav-item-nps"><a href="http://www.nps.org.au" class="ir">Home</a></li>
+	<li class="nav-item-medicines"><a href="http://www.nps.org.au/medicines">Medicines</a>
+		<ul class="meganav">
+			<li class="sub">
+				<ul>
+					<li><a href="http://www.nps.org.au/medicines/allergic-disorders">Allergic disorders</a> </li>
+					<li><a href="http://www.nps.org.au/medicines/brain-and-nervous-system">Brain &amp; nervous system</a> </li>
+					<li><a href="http://www.nps.org.au/medicines/cancers">Cancers</a> </li>
+					<li><a href="http://www.nps.org.au/medicines/complementary-medicines">Complementary medicines</a> </li>
+					<li><a href="http://www.nps.org.au/medicines/allergic-disorders/allergy-test-and-desensitisation-preparations/allergen-extracts-allergen-extracts/oralair-combination-pack">Contraceptive methods</a> </li>
+					<li><a href="http://www.nps.org.au/medicines/diagnostic-agents">Diagnostic agents</a> </li>
+					<li><a href="http://www.nps.org.au/medicines/digestive-system">Digestive system</a> </li>
+					<li><a href="http://www.nps.org.au/medicines/ear-nose-mouth-and-throat">Ear, nose, mouth &amp; throat</a> </li>
+				</ul>
+			</li>
+			<li class="sub">
+				<ul>
+					<li><a href="http://www.nps.org.au/medicines/eye">Eye</a> </li>
+					<li><a href="http://www.nps.org.au/medicines/heart-blood-and-blood-vessels">Heart, blood &amp; blood vessels</a> </li>
+					<li><a href="http://www.nps.org.au/medicines/hormonal-and-metabolic-system">Hormonal &amp; metabolic system</a> </li>
+					<li><a href="http://www.nps.org.au/medicines/immune-system">Immune system</a> </li>
+					<li><a href="http://www.nps.org.au/medicines/infections-and-infestations">Infections &amp; infestations</a> </li>
+					<li><a href="http://www.nps.org.au/medicines/muscles-bones-and-joints">Muscles, bones &amp; joints</a> </li>
+					<li><a href="http://www.nps.org.au/medicines/nutrition">Nutrition</a> </li>
+					<li><a href="http://www.nps.org.au/medicines/pain-relief">Pain relief</a> </li>
+				</ul>
+			</li>
+			<li class="sub">
+				<ul>
+					<li><a href="http://www.nps.org.au/medicines/poisoning-toxicity-and-substance-dependence">Poisoning, toxicity &amp; substance dependence</a> </li>
+					<li><a href="http://www.nps.org.au/medicines/respiratory-system">Respiratory system</a> </li>
+					<li><a href="http://www.nps.org.au/medicines/skin">Skin</a> </li>
+					<li><a href="http://www.nps.org.au/medicines/surgical-preparations">Surgical preparations</a> </li>
+					<li><a href="http://www.nps.org.au/medicines/urinary-system-and-sex-organs">Urinary system &amp; sex organs</a> </li>
+				</ul>
+			</li>
+			<li class="sub-keypad">
+				<h2>Browse medicines</h2>
+				<ul class="keypad clearfix">
+					<li><a href="/a-z-list/medicines/a" class="key A">A</a></li>
+					<li><a href="/a-z-list/medicines/b" class="key B">B</a></li>
+					<li><a href="/a-z-list/medicines/c" class="key C">C</a></li>
+					<li><a href="/a-z-list/medicines/d" class="key D">D</a></li>
+					<li><a href="/a-z-list/medicines/e" class="key E">E</a></li>
+					<li><a href="/a-z-list/medicines/f" class="key F">F</a></li>
+					<li><a href="/a-z-list/medicines/g" class="key G">G</a></li>
+					<li><a href="/a-z-list/medicines/h" class="key H">H</a></li>
+					<li><a href="/a-z-list/medicines/i" class="key I">I</a></li>
+					<li><a href="/a-z-list/medicines/j" class="key J">J</a></li>
+					<li><a href="/a-z-list/medicines/k" class="key K">K</a></li>
+					<li><a href="/a-z-list/medicines/l" class="key L">L</a></li>
+					<li><a href="/a-z-list/medicines/m" class="key M">M</a></li>
+					<li><a href="/a-z-list/medicines/n" class="key N">N</a></li>
+					<li><a href="/a-z-list/medicines/o" class="key O">O</a></li>
+					<li><a href="/a-z-list/medicines/p" class="key P">P</a></li>
+					<li><a href="/a-z-list/medicines/q" class="key Q">Q</a></li>
+					<li><a href="/a-z-list/medicines/r" class="key R">R</a></li>
+					<li><a href="/a-z-list/medicines/s" class="key S">S</a></li>
+					<li><a href="/a-z-list/medicines/t" class="key T">T</a></li>
+					<li><a href="/a-z-list/medicines/u" class="key U">U</a></li>
+					<li><a href="/a-z-list/medicines/v" class="key V">V</a></li>
+					<li><a href="/a-z-list/medicines/w" class="key W">W</a></li>
+					<li><a href="/a-z-list/medicines/x" class="key X">X</a></li>
+					<li><a href="/a-z-list/medicines/y" class="key Y">Y</a></li>
+					<li><a href="/a-z-list/medicines/z" class="key Z">Z</a></li>
+					<li><a href="/a-z-list/medicines/0" class="key numeric">0-9</a></li>
+				</ul>
+			</li>
+		</ul>
+	</li>
+	<li class="nav-item-conditions"><a href="http://www.nps.org.au/conditions">Conditions</a>
+		<ul class="meganav">
+			<li class="sub">
+				<ul>
+					<li><a href="http://www.nps.org.au/conditions/allergic-problems">Allergic problems</a></li>
+					<li><a href="http://www.nps.org.au/conditions/cancer">Cancer</a></li>
+					<li><a href="http://www.nps.org.au/conditions/digestive-system-problems">Digestive system problems</a></li>
+					<li><a href="http://www.nps.org.au/conditions/ear-nose-mouth-and-throat-disorders">Ear, nose, mouth &amp; throat problems</a></li>
+					<li><a href="http://www.nps.org.au/conditions/eye-disorders">Eye disorders</a></li>
+					<li><a href="http://www.nps.org.au/conditions/heart-blood-and-blood-vessel-conditions">Heart, blood &amp; blood vessel conditions</a></li>
+				</ul>
+			</li>
+			<li class="sub">
+				<ul>
+					<li><a href="http://www.nps.org.au/conditions/hormones-metabolism-and-nutritional-problems">Hormones, metabolism &amp; nutritional problems</a></li>
+					<li><a href="http://www.nps.org.au/conditions/immune-conditions">Immune conditions</a></li>
+					<li><a href="http://www.nps.org.au/conditions/infections-bacterial-viral-fungal-and-parasitic-and-worms">Infections (bacterial, viral, fungal, parasitic) &amp; worms</a></li>
+					<li><a href="http://www.nps.org.au/conditions/mental-health-conditions">Mental health conditions</a></li>
+					<li><a href="http://www.nps.org.au/conditions/muscle-bone-and-joint-problems">Muscle, bone &amp; joint problems</a></li>
+					<li><a href="http://www.nps.org.au/conditions/nervous-system-problems">Nervous system problems</a></li>
+				</ul>
+			</li>
+			<li class="sub">
+				<ul>
+					<li><a href="http://www.nps.org.au/conditions/reproductive-system-conditions">Reproductive system conditions</a></li>
+					<li><a href="http://www.nps.org.au/conditions/respiratory-problems">Respiratory problems</a></li>
+					<li><a href="http://www.nps.org.au/conditions/skin-conditions">Skin conditions</a></li>
+					<li><a href="http://www.nps.org.au/conditions/substance-dependence-poisoning-and-toxicity">Substance dependence, poisoning &amp; toxicity</a></li>
+					<li><a href="http://www.nps.org.au/conditions/urine-bladder-and-kidney-problems">Urine, bladder &amp; kidney problems</a></li>
+					<li><a href="http://www.nps.org.au/conditions/venomous-bites-and-stings">Venomous bites &amp; stings</a></li>
+				</ul>
+			</li>
+			<li class="sub-keypad last">
+				<h2>Browse conditions</h2>
+				<ul class="keypad clearfix">
+					<li><a href="/a-z-list/conditions/a" class="key A">A</a></li>
+					<li><a href="/a-z-list/conditions/b" class="key B">B</a></li>
+					<li><a href="/a-z-list/conditions/c" class="key C">C</a></li>
+					<li><a href="/a-z-list/conditions/d" class="key D">D</a></li>
+					<li><a href="/a-z-list/conditions/e" class="key E">E</a></li>
+					<li><a href="/a-z-list/conditions/f" class="key F">F</a></li>
+					<li><a href="/a-z-list/conditions/g" class="key G">G</a></li>
+					<li><a href="/a-z-list/conditions/h" class="key H">H</a></li>
+					<li><a href="/a-z-list/conditions/i" class="key I">I</a></li>
+					<li><a href="/a-z-list/conditions/j" class="key J">J</a></li>
+					<li><a href="/a-z-list/conditions/k" class="key K">K</a></li>
+					<li><a href="/a-z-list/conditions/l" class="key L">L</a></li>
+					<li><a href="/a-z-list/conditions/m" class="key M">M</a></li>
+					<li><a href="/a-z-list/conditions/n" class="key N">N</a></li>
+					<li><a href="/a-z-list/conditions/o" class="key O">O</a></li>
+					<li><a href="/a-z-list/conditions/p" class="key P">P</a></li>
+					<li><a href="/a-z-list/conditions/q" class="key Q">Q</a></li>
+					<li><a href="/a-z-list/conditions/r" class="key R">R</a></li>
+					<li><a href="/a-z-list/conditions/s" class="key S">S</a></li>
+					<li><a href="/a-z-list/conditions/t" class="key T">T</a></li>
+					<li><a href="/a-z-list/conditions/u" class="key U">U</a></li>
+					<li><a href="/a-z-list/conditions/v" class="key V">V</a></li>
+					<li><a href="/a-z-list/conditions/w" class="key W">W</a></li>
+					<li><a href="/a-z-list/conditions/x" class="key X">X</a></li>
+					<li><a href="/a-z-list/conditions/y" class="key Y">Y</a></li>
+					<li><a href="/a-z-list/conditions/z" class="key Z">Z</a></li>
+					<li><a href="/a-z-list/conditions/0" class="key numeric">0-9</a></li>
+				</ul>
+			</li>
+		</ul>
+	</li>
+	<li class="nav-item-topics"><a href="http://www.nps.org.au/topics">Health topics</a>
+		<ul class="meganav">
+			<li class="with-medicines sub">
+				<h2><a href="http://www.nps.org.au/topics/living-with-medicines">Living with medicines</a></h2>
+				<ul>
+					<li><a href="http://www.nps.org.au/topics/how-to-be-medicinewise/buying-medicines">Buying medicines</a></li>
+					<li><a href="http://www.nps.org.au/topics/how-to-be-medicinewise/making-wise-choices-about-medicines">Choosing medicines</a></li>
+					<li><a href="http://www.nps.org.au/topics/how-to-be-medicinewise/healthy-lifestyle-choices">Healthy lifestyle choices&nbsp;</a></li>
+					<li><a href="http://www.nps.org.au/topics/how-to-be-medicinewise/buying-medicines/keeping-your-medicines-costs-down">Keeping medicines costs down&nbsp;</a></li>
+					<li><a href="http://www.nps.org.au/topics/how-to-be-medicinewise/managing-your-medicines">Manage your medicines&nbsp;</a></li>
+					<li><a href="http://www.nps.org.au/topics/how-to-be-medicinewise/managing-your-medicines/managing-multiple-medicines">Managing multiple medicines&nbsp;</a></li>
+					<li><a href="http://www.nps.org.au/topics/how-to-be-medicinewise/side-effects-interactions">Side effects and interactions </a></li>
+				</ul>
+			</li>
+			<li class="ages sub">
+				<h2><a href="http://www.nps.org.au/topics/ages-life-stages">Ages &amp; life stages</a></h2>
+				<ul>
+					<li><a href="http://www.nps.org.au/topics/ages-life-stages/for-individuals/children">Kids</a></li>
+					<li><a href="http://www.nps.org.au/topics/ages-life-stages/for-individuals/older-people-and-medicines">Older people</a></li>
+					<li><a href="http://www.nps.org.au/topics/ages-life-stages/for-individuals/im-pregnant-can-i-take-it">Pregnancy</a></li>
+				</ul>
+				<h2 style="margin-top:15px;"><a href="http://www.nps.org.au/topics/e-health">eHealth</a></h2>
+				<ul>
+					<li><a href="http://www.nps.org.au/topics/e-health/electronic-transfer-of-prescriptions-etp">Electronic transfer of prescriptions</a></li>
+					<li><a href="http://www.nps.org.au/topics/e-health/personally-controlled-ehealth-record">Personally Controlled eHealth Record</a></li>
+				</ul>
+			</li>
+			<li class="sub">
+				<h2><a href="http://www.nps.org.au/topics/about-medicines">About medicines</a></h2>
+				<ul>
+					<li><a href="http://www.nps.org.au/topics/combination-medicines">Combination medicines</a></li>
+					<li><a href="http://www.nps.org.au/topics/how-to-be-medicinewise/using-complementary-medicines">Complementary medicines</a></li>
+					<li><a href="http://www.nps.org.au/topics/how-to-be-medicinewise/finding-information-on-medicines/what-is-consumer-medicine-information">Consumer medicine information (CMI)</a></li>
+					<li><a href="http://www.nps.org.au/topics/how-to-be-medicinewise/managing-your-medicines/find-the-active-ingredient">Find the active ingredient</a></li>
+					<li><a href="http://www.nps.org.au/topics/how-to-be-medicinewise/buying-medicines/generic-medicine-brands">Generic medicine brands</a></li>
+					<li><a href="http://www.nps.org.au/topics/how-to-be-medicinewise/regulation-clinical-trials">Regulation and trials</a></li>
+					<li><a href="http://www.nps.org.au/topics/preventive-health">Preventive health</a></li>
+				</ul>
+			</li>
+			<li class="sub">
+				<h2><a href="http://www.nps.org.au/topics/apps-and-tools">Apps &amp; tools</a></h2>
+				<ul>
+					<li><a href="http://www.nps.org.au/topics/how-to-be-medicinewise/managing-your-medicines/medicines-list/medicinelist-smartphone-app">MedicineList+</a></li>
+					<li><a href="http://www.nps.org.au/topics/how-to-be-medicinewise/managing-your-medicines/home-medicine-review">Home Medicines Review</a></li>
+					<li><a href="http://www.nps.org.au/topics/how-to-be-medicinewise/making-wise-choices-about-medicines/questions-to-ask-your-doctor">Questions to ask your doctor </a></li>
+				</ul>
+			</li>
+			<li class="sub-keypad last">
+				<h2>Browse health topics</h2>
+				<ul class="keypad clearfix">
+					<li><a href="/a-z-list/topics/a" class="key A">A</a></li>
+					<li><a href="/a-z-list/topics/b" class="key B">B</a></li>
+					<li><a href="/a-z-list/topics/c" class="key C">C</a></li>
+					<li><a href="/a-z-list/topics/d" class="key D">D</a></li>
+					<li><a href="/a-z-list/topics/e" class="key E">E</a></li>
+					<li><a href="/a-z-list/topics/f" class="key F">F</a></li>
+					<li><a href="/a-z-list/topics/g" class="key G">G</a></li>
+					<li><a href="/a-z-list/topics/h" class="key H">H</a></li>
+					<li><a href="/a-z-list/topics/i" class="key I">I</a></li>
+					<li><a href="/a-z-list/topics/j" class="key J">J</a></li>
+					<li><a href="/a-z-list/topics/k" class="key K">K</a></li>
+					<li><a href="/a-z-list/topics/l" class="key L">L</a></li>
+					<li><a href="/a-z-list/topics/m" class="key M">M</a></li>
+					<li><a href="/a-z-list/topics/n" class="key N">N</a></li>
+					<li><a href="/a-z-list/topics/o" class="key O">O</a></li>
+					<li><a href="/a-z-list/topics/p" class="key P">P</a></li>
+					<li><a href="/a-z-list/topics/q" class="key Q">Q</a></li>
+					<li><a href="/a-z-list/topics/r" class="key R">R</a></li>
+					<li><a href="/a-z-list/topics/s" class="key S">S</a></li>
+					<li><a href="/a-z-list/topics/t" class="key T">T</a></li>
+					<li><a href="/a-z-list/topics/u" class="key U">U</a></li>
+					<li><a href="/a-z-list/topics/v" class="key V">V</a></li>
+					<li><a href="/a-z-list/topics/w" class="key W">W</a></li>
+					<li><a href="/a-z-list/topics/x" class="key X">X</a></li>
+					<li><a href="/a-z-list/topics/y" class="key Y">Y</a></li>
+					<li><a href="/a-z-list/topics/z" class="key Z">Z</a></li>
+					<li><a href="/a-z-list/topics/0" class="key numeric">0-9</a></li>
+				</ul>
+			</li>
+		</ul>
+	</li>
+	<li class="nav-item-medical_tests"><a href="http://www.nps.org.au/medical-tests">Medical tests</a>
+		<ul class="meganav">
+			<li class="understanding-medical-tests sub">
+				<h2><a href="http://www.nps.org.au/medical-tests/understanding-medical-tests">Understanding medical tests</a></h2>
+				<ul>
+					<li><a href="http://www.nps.org.au/medical-tests/understanding-medical-tests/for-individuals/questions-to-ask-your-doctor">Questions to ask your doctor</a></li>
+					<li><a href="http://www.nps.org.au/medical-tests/understanding-medical-tests/for-individuals/weigh-up-your-options">Weigh-up your options</a></li>
+					<li><a href="http://www.nps.org.au/medical-tests/understanding-medical-tests/for-individuals/know-your-test-history">Know your test history</a></li>
+					<li><a href="http://www.nps.org.au/medical-tests/understanding-medical-tests/for-individuals/find-more-test-information">Find more test information</a></li>
+				</ul>
+			</li>
+			<li class="pathology-tests sub">
+				<h2><a href="http://www.nps.org.au/medical-tests/pathology-tests">Pathology tests</a></h2>
+				<ul>
+					<li><a href="http://www.nps.org.au/medical-tests/pathology-tests/for-individuals/blood-tests">Blood tests</a> </li>
+					<li><a href="http://www.nps.org.au/medical-tests/pathology-tests/for-individuals/stool-tests">Stool tests</a> </li>
+					<li><a href="http://www.nps.org.au/medical-tests/pathology-tests/for-individuals/urine-tests">Urine tests</a> </li>
+					<li><a href="http://www.nps.org.au/medical-tests/pathology-tests/for-individuals/other-pathology-tests">Other pathology tests</a> </li>
+				</ul>
+			</li>
+			<li class="medical-imaging sub">
+				<h2><a href="http://www.nps.org.au/medical-tests/medical-imaging">Medical imaging</a></h2>
+				<ul>
+					<li><a href="http://www.nps.org.au/medical-tests/medical-imaging/for-individuals/types-of-imaging">Types of imaging</a> </li>
+					<li><a href="http://www.nps.org.au/medical-tests/medical-imaging/for-individuals/radiation">Radiation</a> </li>
+					<li><a href="http://www.nps.org.au/medical-tests/medical-imaging/for-individuals/advantages-and-disadvantages">Advantages &amp; disadvantages</a> </li>
+					<li><a href="http://www.nps.org.au/medical-tests/medical-imaging/for-individuals/imaging-and-children">Imaging &amp; children</a> </li>
+				</ul>
+			</li>
+			<li class="tests-by-conditions sub">
+				<h2><a href="http://www.nps.org.au/medical-tests/tests-by-conditions">Tests by conditions</a></h2>
+				<ul>
+					<li><a href="http://www.nps.org.au/medical-tests/tests-by-conditions/for-individuals/back-pain-tests">Back pain</a> </li>
+					<li><a href="http://www.nps.org.au/medical-tests/tests-by-conditions/for-individuals/bowel-cancer-tests">Bowel cancer</a> </li>
+					<li><a href="http://www.nps.org.au/medical-tests/tests-by-conditions/for-individuals/breast-cancer-screening-tests">Breast cancer</a> </li>
+					<li><a href="http://www.nps.org.au/medical-tests/tests-by-conditions/for-individuals/cardiovascular-tests">Cardiovascular tests</a> </li>
+					<li><a href="http://www.nps.org.au/medical-tests/tests-by-conditions/for-individuals/cervical-cancer-screening-tests">Cervical cancer</a> </li>
+					<li><a href="http://www.nps.org.au/medical-tests/tests-by-conditions/for-individuals/diabetes-tests">Diabetes</a> </li>
+					<li><a href="http://www.nps.org.au/medical-tests/tests-by-conditions/for-individuals/headache-tests">Headache</a> </li>
+					<li><a href="http://www.nps.org.au/medical-tests/tests-by-conditions/for-individuals/kidney-problems-and-disorders-tests">Kidney disorders</a> </li>
+					<li><a href="http://www.nps.org.au/medical-tests/tests-by-conditions/for-individuals/prostate-cancer-screening-tests">Prostate cancer</a> </li>
+					<li><a href="http://www.nps.org.au/medical-tests/tests-by-conditions/for-individuals/respiratory-tract-infection-tests">Respiratory tract infection (RTIs)</a> </li>
+					<li><a href="http://www.nps.org.au/medical-tests/tests-by-conditions/for-individuals/thyroid-problems-and-dysfunction-tests">Thyroid problems &amp; dysfunction</a> </li>
+					<li><a href="http://www.nps.org.au/medical-tests/tests-by-conditions/for-individuals/vitamin-d-deficiency-tests">Vitamin D deficiency</a> </li>
+				</ul>
+			</li>
+			<!--li class="diagnostic-agents sub"><h2><a href="http://www.nps.org.au/medical-tests/diagnostic-agents">Diagnostic agents</a></h2></li-->
+			<li class="sub-keypad last">
+				<h2>Browse medical tests</h2>
+				<ul class="keypad clearfix">
+					<li><a href="/a-z-list/medical-tests/a" class="key A">A</a></li>
+					<li><a href="/a-z-list/medical-tests/b" class="key B">B</a></li>
+					<li><a href="/a-z-list/medical-tests/c" class="key C">C</a></li>
+					<li><a href="/a-z-list/medical-tests/d" class="key D">D</a></li>
+					<li><a href="/a-z-list/medical-tests/e" class="key E">E</a></li>
+					<li><a href="/a-z-list/medical-tests/f" class="key F">F</a></li>
+					<li><a href="/a-z-list/medical-tests/g" class="key G">G</a></li>
+					<li><a href="/a-z-list/medical-tests/h" class="key H">H</a></li>
+					<li><a href="/a-z-list/medical-tests/i" class="key I">I</a></li>
+					<li><a href="/a-z-list/medical-tests/j" class="key J">J</a></li>
+					<li><a href="/a-z-list/medical-tests/k" class="key K">K</a></li>
+					<li><a href="/a-z-list/medical-tests/l" class="key L">L</a></li>
+					<li><a href="/a-z-list/medical-tests/m" class="key M">M</a></li>
+					<li><a href="/a-z-list/medical-tests/n" class="key N">N</a></li>
+					<li><a href="/a-z-list/medical-tests/o" class="key O">O</a></li>
+					<li><a href="/a-z-list/medical-tests/p" class="key P">P</a></li>
+					<li><a href="/a-z-list/medical-tests/q" class="key Q">Q</a></li>
+					<li><a href="/a-z-list/medical-tests/r" class="key R">R</a></li>
+					<li><a href="/a-z-list/medical-tests/s" class="key S">S</a></li>
+					<li><a href="/a-z-list/medical-tests/t" class="key T">T</a></li>
+					<li><a href="/a-z-list/medical-tests/u" class="key U">U</a></li>
+					<li><a href="/a-z-list/medical-tests/v" class="key V">V</a></li>
+					<li><a href="/a-z-list/medical-tests/w" class="key W">W</a></li>
+					<li><a href="/a-z-list/medical-tests/x" class="key X">X</a></li>
+					<li><a href="/a-z-list/medical-tests/y" class="key Y">Y</a></li>
+					<li><a href="/a-z-list/medical-tests/z" class="key Z">Z</a></li>
+					<li><a href="/a-z-list/medical-tests/0" class="key numeric">0-9</a></li>
+				</ul>
+			</li>
+		</ul>
+	</li>
+	<li class="nav-item-health_professionals"><a href="http://www.nps.org.au/health-professionals" class="forhealth">For health professionals <i class="icon-health-pro-lrg"></i></a>
+		<ul class="meganav">
+			<li class="publications sub">
+				<h2><a href="http://www.nps.org.au/publications">Publications</a></h2>
+				<ul>
+					<li><a href="http://www.nps.org.au/publications/health-professional/australian-prescriber">Australian Prescriber</a></li>
+					<li><a href="http://www.nps.org.au/publications/health-professional/nps-news">Medicinewise News</a></li>
+					<li><a href="http://www.nps.org.au/health-professionals/e-newsletters/nps-direct">NPS Direct</a></li>
+					<li><a href="http://www.nps.org.au/publications/health-professional/nps-radar">NPS RADAR</a></li>
+				</ul>
+			</li>
+			<li class="resources-and-tools sub">
+				<h2><a href="http://www.nps.org.au/health-professionals/resources-and-tools">Resources &amp; tools</a></h2>
+				<ul>
+					<li><a href="http://www.nps.org.au/health-professionals/health-news-evidence">Health news and evidence</a></li>
+					<li><a href="http://www.nps.org.au/health-professionals/patient-fact-sheets">For your patients</a></li>
+					<li><a href="http://www.nps.org.au/health-professionals/medicine-information-resources">Medicines information resources</a></li>
+					<li><a href="http://www.nps.org.au/health-professionals/resources-and-tools/decision-and-management-tools">Decision &amp; management tools</a></li>
+				</ul>
+			</li>
+			<li class="professional-development sub">
+				<h2><a href="http://www.nps.org.au/health-professionals/professional-development">Professional development</a></h2>
+				<ul>
+					<li><a href="http://www.nps.org.au/health-professionals/professional-development/about-points">CPD &amp; QPI</a></li>
+					<li><a href="http://www.nps.org.au/health-professionals/professional-development/clinical-audits-for-gps">Clinical audits for GPs</a></li>
+					<li><a href="http://www.nps.org.au/health-professionals/professional-development/pharmacy-practice-reviews">Pharmacy practice reviews</a></li>
+					<li><a href="http://www.nps.org.au/health-professionals/professional-development/case-studies">Case studies</a></li>
+					<li><a href="http://www.nps.org.au/health-professionals/professional-development/due-programs">DUE programs</a></li>
+					<li><a href="http://www.nps.org.au/health-professionals/professional-development/general-practice-networks-and-divisions">General practice networks &amp; divisions</a></li>
+					<li><a href="http://www.nps.org.au/health-professionals/professional-development/nps-facilitator-visits">NPS Medicinewise facilitator visits</a></li>
+					<li><a href="http://www.nps.org.au/health-professionals/professional-development/online-learning">Online learning</a></li>
+					<li><a href="http://www.nps.org.au/health-professionals/professional-development/outreach-pharmacists">Outreach pharmacists</a></li>
+					<li><a href="http://www.nps.org.au/health-professionals/cpd/prescribing-competencies-framework">Prescribing Competencies Framework</a></li>
+					<li><a href="http://www.nps.org.au/health-professionals/professional-development/register-of-consultants">Register of consultants</a></li>
+				</ul>
+			</li>
+			<li class="sub-keypad last">
+				<h2>Browse medicines, conditions &amp; topics</h2>
+				<ul class="keypad clearfix">
+					<li><a href="/a-z-list/medicines-conditions-medical-tests-topics/a" class="key A">A</a></li>
+					<li><a href="/a-z-list/medicines-conditions-medical-tests-topics/b" class="key B">B</a></li>
+					<li><a href="/a-z-list/medicines-conditions-medical-tests-topics/c" class="key C">C</a></li>
+					<li><a href="/a-z-list/medicines-conditions-medical-tests-topics/d" class="key D">D</a></li>
+					<li><a href="/a-z-list/medicines-conditions-medical-tests-topics/e" class="key E">E</a></li>
+					<li><a href="/a-z-list/medicines-conditions-medical-tests-topics/f" class="key F">F</a></li>
+					<li><a href="/a-z-list/medicines-conditions-medical-tests-topics/g" class="key G">G</a></li>
+					<li><a href="/a-z-list/medicines-conditions-medical-tests-topics/h" class="key H">H</a></li>
+					<li><a href="/a-z-list/medicines-conditions-medical-tests-topics/i" class="key I">I</a></li>
+					<li><a href="/a-z-list/medicines-conditions-medical-tests-topics/j" class="key J">J</a></li>
+					<li><a href="/a-z-list/medicines-conditions-medical-tests-topics/k" class="key K">K</a></li>
+					<li><a href="/a-z-list/medicines-conditions-medical-tests-topics/l" class="key L">L</a></li>
+					<li><a href="/a-z-list/medicines-conditions-medical-tests-topics/m" class="key M">M</a></li>
+					<li><a href="/a-z-list/medicines-conditions-medical-tests-topics/n" class="key N">N</a></li>
+					<li><a href="/a-z-list/medicines-conditions-medical-tests-topics/o" class="key O">O</a></li>
+					<li><a href="/a-z-list/medicines-conditions-medical-tests-topics/p" class="key P">P</a></li>
+					<li><a href="/a-z-list/medicines-conditions-medical-tests-topics/q" class="key Q">Q</a></li>
+					<li><a href="/a-z-list/medicines-conditions-medical-tests-topics/r" class="key R">R</a></li>
+					<li><a href="/a-z-list/medicines-conditions-medical-tests-topics/s" class="key S">S</a></li>
+					<li><a href="/a-z-list/medicines-conditions-medical-tests-topics/t" class="key T">T</a></li>
+					<li><a href="/a-z-list/medicines-conditions-medical-tests-topics/u" class="key U">U</a></li>
+					<li><a href="/a-z-list/medicines-conditions-medical-tests-topics/v" class="key V">V</a></li>
+					<li><a href="/a-z-list/medicines-conditions-medical-tests-topics/w" class="key W">W</a></li>
+					<li><a href="/a-z-list/medicines-conditions-medical-tests-topics/x" class="key X">X</a></li>
+					<li><a href="/a-z-list/medicines-conditions-medical-tests-topics/y" class="key Y">Y</a></li>
+					<li><a href="/a-z-list/medicines-conditions-medical-tests-topics/z" class="key Z">Z</a></li>
+					<li><a href="/a-z-list/medicines-conditions-medical-tests-topics/0" class="key numeric">0-9</a></li>
+				</ul>
+			</li>
+		</ul>
+	</li>
+	<li class="nav-item-about_us"><a href="http://www.nps.org.au/about-us">About us</a>
+		<ul class="meganav">
+			<li class="who-we-are sub">
+				<h2><a href="http://www.nps.org.au/about-us/who-we-work-with">Who we are</a></h2>
+				<ul>
+					<li><a href="http://www.nps.org.au/about-us/our-history">Our history</a></li>
+					<li><a href="http://www.nps.org.au/about-us/our-people">Our people</a></li>
+					<li><a href="http://www.nps.org.au/about-us/governance">Governance</a></li>
+				</ul>
+			</li>
+			<li class="what-we-do sub">
+				<h2><a href="http://www.nps.org.au/about-us/what-we-do">What we do</a></h2>
+				<ul>
+					<li><a href="http://www.nps.org.au/about-us/what-we-do/medicineinsight">MedicineInsight</a></li>
+					<li><a href="http://www.nps.org.au/about-us/what-we-do/campaigns-events/national-medicines-symposium">National Medicines Symposium 2014</a></li>
+					<li><a href="http://www.nps.org.au/about-us/what-we-do/international-programs">International programs</a></li>
+					<li><a href="http://www.nps.org.au/about-us/what-we-do/nps-medical-tests-initiative">NPS medical tests initiative</a></li>
+					<li><a href="http://www.nps.org.au/about-us/what-we-do/campaigns-events">Our campaigns</a></li>
+					<li><a href="http://www.nps.org.au/about-us/what-we-do/evaluation">Evaluating our work</a></li>
+				</ul>
+			</li>
+			<li class="who-we-work-with sub">
+				<h2><a href="http://www.nps.org.au/about-us/who-we-work-with">Who we work with</a></h2>
+				<ul>
+					<li><a href="http://www.nps.org.au/about-us/who-we-work-with">Our members</a></li>
+					<li><a href="http://www.nps.org.au/about-us/who-we-work-with/NPS-facilitators-and-Medicare-locals">NPS facilitators &amp; Medicare locals</a></li>
+					<li><a href="http://www.nps.org.au/about-us/who-we-work-with/working-groups-and-committees">Advisory &amp; editorial groups</a></li>
+				</ul>
+			</li>
+			<li class="contact-us sub">
+				<h2><a href="http://www.nps.org.au/contact-us">Contact us</a></h2>
+				<ul>
+					<li><a href="http://www.nps.org.au/contact-us/adverse-medicines-events">Adverse Medicine Events Line</a></li>
+					<li><a href="http://www.nps.org.au/contact-us/medicines-line">Medicines Line</a></li>
+					<li><a href="http://www.nps.org.au/contact-us/give-feedback">Give feedback</a></li>
+				</ul>
+			</li>
+		</ul>
+	</li>
+</ul>
+        </nav>
     </header>
     <div role="main" id="content" class="container">
         
@@ -519,7 +693,7 @@ $(document).ready(function() {
     
         <div class="row mid-main clearfix">
         
-            <div class="threecol group">
+            <div class="col-md-3 group">
                 <nav id="secondary">
                     <div id="norm-nav">
                         <h3 class="expander">Section menu <span class="toggle">+</span></h3>
@@ -529,12 +703,18 @@ $(document).ready(function() {
                             
                                                             <li class="first">
                                 <a href="http://www.nps.org.au/about-this-website">About this website</a></li>
-                                                                <li><a href="http://www.nps.org.au/about-this-website/accessibility" class="left_norm">Accessibility</a></li>
-                                                                        <li><a href="http://www.nps.org.au/about-this-website/privacy" class="active">Privacy</a></li>
-                                                                        <li><a href="http://www.nps.org.au/about-this-website/copyright" class="left_norm">Copyright</a></li>
-                                                                        <li><a href="http://www.nps.org.au/about-this-website/terms-of-use" class="left_norm">Terms of use</a></li>
-                                                                        <li><a href="http://www.nps.org.au/about-this-website/contact-us" class="left_norm">Contact Us</a></li>
-                                                            </ul>
+                            
+           							                                    <li><a href="http://www.nps.org.au/about-this-website/accessibility" class="left_norm">Accessibility</a></li>
+                                    							
+                                                                    <li><a href="http://www.nps.org.au/about-this-website/privacy" class="active">Privacy</a></li>
+                                    							
+                                                                    <li><a href="http://www.nps.org.au/about-this-website/copyright" class="left_norm">Copyright</a></li>
+                                    							
+                                                                    <li><a href="http://www.nps.org.au/about-this-website/terms-of-use" class="left_norm">Terms of use</a></li>
+                                    							
+                                                                    <li><a href="http://www.nps.org.au/about-this-website/contact-us" class="left_norm">Contact Us</a></li>
+                                    							
+                                                        </ul>
                     </div>
                 </nav>
             </div>
@@ -542,34 +722,37 @@ $(document).ready(function() {
 						
             
         <!-- rolling nav -->
-                        
+            		            
         <!-- medicines nav sub-->
-                          
+              		            
         <!-- medicines nav-->
-                        
+            		
+              <!-- endnoindex -->
+            
+            
             <!-- page content and right sidebar rendered with paint layout -->
             <!--endnoindex-->
             
-		<section class="main sixcol group">
+		<section class="main col-md-6 group">
 	<div class="pagetitle">
 		<h1>Privacy policy</h1>
                 
 
         </div>
 <div id="content_div_198">
-<p style="text-align: right;"><strong>This policy was updated 1 July 2012.</strong><br></p>
+<p style="text-align: right;"><strong>This policy was updated 11 June 2014.</strong><br></p>
 
-<p>This document sets out the types of personal information held by National Prescribing Service Limited (NPS) (ABN 61 082 034 393) and how NPS collects, holds, uses and discloses that information as part of our business to provide independent, evidence-based information and services to health professionals, the community and individuals on the quality use of medicines and medical tests.</p>
+<p>This document sets out the types of personal information held by National Prescribing Service Limited (NPS) (ABN 61 082 034 393) and how NPS MedicineWise collects, holds, uses and discloses that information as part of our business to provide independent, evidence-based information and services to health professionals, the community and individuals on the quality use of medicines and medical tests.</p>
 
-<p>NPS is bound by the National Privacy Principles contained in the Privacy Act 1988 (Cth) and relevant state and territory privacy legislation.</p>
+<p>NPS MedicineWise is bound by the National Privacy Principles contained in the Privacy Act 1988 (Cth) and relevant state and territory privacy legislation.</p>
 
 <h2>What is personal information?</h2>
 
-<p>Personal information is any information that identifies you or from which your identity could be reasonably ascertained. The types of personal information that NPS collects will vary depending on your relationship with us.<br></p>
+<p>Personal information is any information that identifies you or from which your identity could be reasonably ascertained. The types of personal information that NPS MedicineWise collects will vary depending on your relationship with us.</p>
 
 <h2>How types of personal information is collected?</h2>
 
-<p>The personal information that NPS collects could include your name, age, gender, the organisation you work for, your postal address, telephone and fax numbers and your email address.<br></p>
+<p>The personal information that NPS MedicineWise collects could include your name, age, gender, the organisation you work for, your postal address, telephone and fax numbers and your email address.</p>
 
 <h3>Health professionals</h3>
 
@@ -601,25 +784,25 @@ $(document).ready(function() {
 
 <h3>Sensitive information</h3>
 
-<p>NPS may collect sensitive information–such as health information and information about personal attributes such as ethnic or racial origin–when it relates to the provision of a service or its evaluation.&nbsp; Where you request the provision of specific information relating to health conditions (for example by contacting NPS’ phone line services or requesting educational material), this may result in NPS collecting health information about you. NPS will only collect this information with your consent or otherwise in accordance with the National Privacy Principles and relevant privacy legislation.<br></p>
+<p>NPS MedicineWise may collect sensitive information–such as health information and information about personal attributes such as ethnic or racial origin–when it relates to the provision of a service or its evaluation.&nbsp; Where you request the provision of specific information relating to health conditions (for example by contacting NPS MedicineWise’s phone line services or requesting educational material), this may result in NPS MedicineWise collecting health information about you. NPS MedicineWise will only collect this information with your consent or otherwise in accordance with the National Privacy Principles and relevant privacy legislation.</p>
 
 <h3>Use of de-identified health information</h3>
 
-<p>As part of its services, NPS offers health professionals the opportunity to undertake quality assurance activities that require them to collect health information about individuals and disclose it to NPS on a de-identified basis for quality assurance purposes.</p>
+<p>As part of its services, NPS MedicineWise offers health professionals the opportunity to undertake quality assurance activities that require them to collect health information about individuals and disclose it to NPS MedicineWise on a de-identified basis for quality assurance purposes.</p>
 
-<p>Health professionals providing de-identified data are advised what it will be used for and give NPS written consent for the data to be aggregated in feedback material provided to other health professionals or professional bodies.&nbsp; This aggregated de-identified data may also be used in NPS evaluation studies and reports.</p>
+<p>Health professionals providing de-identified data are advised what it will be used for and give NPS MedicineWise written consent for the data to be aggregated in feedback material provided to other health professionals or professional bodies.&nbsp; This aggregated de-identified data may also be used in NPS evaluation studies and reports.</p>
 
-<p>Data submitted to NPS is first encrypted using PKI (Public Key Infrastructure) encryption and then transmitted via a secure protocol so that NPS is unable to identify the individual the subject of the data.<br></p>
+<p>Data submitted to NPS MedicineWise is first encrypted using PKI (Public Key Infrastructure) encryption and then transmitted via a secure protocol so that NPS is unable to identify the individual the subject of the data.</p>
 
 <h3>Consequences of not providing information</h3>
 
-<p>In some instances if all necessary personal information is not provided, NPS may be unable to assess or process your information or provide you with the programs, services, materials or products you require.<br></p>
+<p>In some instances if all necessary personal information is not provided, NPS MedicineWise may be unable to assess or process your information or provide you with the programs, services, materials or products you require.</p>
 
 <h2>How is personal information collected?</h2>
 
 <h3>On provision of information to us</h3>
 
-<p>NPS primarily collects information about you when you use or request a product or service, complete a survey, questionnaire or enrolment form or when you communicate with NPS by email, telephone, in writing or in person. NPS also collects information about you if you are providing services to NPS or, if you apply for employment at NPS, through the staff recruitment and selection process.<br></p>
+<p>NPS MedicineWise primarily collects information about you when you use or request a product or service, complete a survey, questionnaire or enrolment form or when you communicate with NPS by email, telephone, in writing or in person. NPS MedicineWise also collects information about you if you are providing services to NPS&nbsp;MedicineWise&nbsp;or, if you apply for employment at NPS&nbsp;MedicineWise&nbsp;, through the staff recruitment and selection process.</p>
 
 <h3>From publicly available sources</h3>
 
@@ -627,26 +810,26 @@ $(document).ready(function() {
 
 <h3>Indirect collection</h3>
 
-<p>NPS tries to collect personal information about an individual only from that individual, but in some circumstances NPS may obtain personal information from a third party, such as an NPS Facilitator, general practice manager, your health professional, a member of your family, a friend or your carer. If you provide personal information about another person to NPS, we require that you inform that person you have done so.<br></p>
+<p>NPS&nbsp;MedicineWise&nbsp;tries to collect personal information about an individual only from that individual, but in some circumstances NPS&nbsp;MedicineWise&nbsp;may obtain personal information from a third party, such as an NPS&nbsp;MedicineWise&nbsp;facilitator, general practice manager, your health professional, a member of your family, a friend or your carer. If you provide personal information about another person to NPS&nbsp;MedicineWise, we require that you inform that person you have done so.</p>
 
 <h3>From the website</h3>
 
-<p>When you visit the NPS website, our web server may download a cookie to your computer. A cookie is a small piece of information sent by our server to your browser.</p>
+<p>When you visit the NPS&nbsp;MedicineWise&nbsp;website, our web server may download a cookie to your computer. A cookie is a small piece of information sent by our server to your browser.</p>
 
 <p>To protect your privacy, your browser only permits a web site to access the cookies it has already sent to you, not the cookies sent to you by other sites. If you do not wish to receive any cookies, you may set your browser to refuse them; go to the browser’s help menu for instructions.</p>
 
-<p>Cookies do not contain personal information about users. However, cookies can identify a user's browser. The cookies transferred by the NPS website are used for such things as capturing information about a user's web browser, controlling a pop-up window or enabling login access to password protected areas of the website.<br></p>
+<p>Cookies do not contain personal information about users. However, cookies can identify a user's browser. The cookies transferred by the NPS&nbsp;MedicineWise&nbsp;website are used for such things as capturing information about a user's web browser, controlling a pop-up window or enabling login access to password protected areas of the website.</p>
 
 <h2>How is personal information used?</h2>
 
-<p>The personal information collected by NPS is used by NPS in accordance with the Privacy Act and the National Privacy Principles to:<br></p>
+<p>The personal information collected by NPS&nbsp;MedicineWise&nbsp;is used by NPS&nbsp;MedicineWise&nbsp;in accordance with the Privacy Act and the National Privacy Principles to:</p>
 
 <ul>
   <li>provide information (such as publications, subscriptions, materials and products) to health professionals, health professional students and consumers</li>
 
-  <li>conduct evaluations of NPS products, materials, programs and services</li>
+  <li>conduct evaluations of NPS&nbsp;MedicineWise&nbsp;products, materials, programs and services</li>
 
-  <li>assist in NPS conducting research</li>
+  <li>assist in NPS&nbsp;MedicineWise&nbsp;conducting research</li>
 
   <li>create individual health stories which are published and/or broadcast to promote the quality use of medicines and/or medical tests and record the background information concerning the subject of the health story (including the individual’s consent to appear in the same)</li>
 
@@ -656,45 +839,45 @@ $(document).ready(function() {
 
   <li>promote educational activities including events and conferences</li>
 
-  <li>in the case of the NPS phone line services, provide a health service</li>
+  <li>in the case of the NPS&nbsp;MedicineWise&nbsp;phone line services, provide a health service</li>
 
-  <li>contact individuals for feedback on NPS’ products, materials, programs and services, and</li>
+  <li>contact individuals for feedback on NPS MedicineWise’s products, materials, programs and services, and</li>
 
-  <li>assist NPS perform its corporate and contractual obligations.</li>
+  <li>assist NPS&nbsp;MedicineWise&nbsp;perform its corporate and contractual obligations.</li>
 </ul>
 
 <h2>How is personal information disclosed?</h2>
 
-<p>Personal information held by NPS is disclosed by NPS in accordance with the Privacy Act and the National Privacy Principles.</p>
+<p>Personal information held by NPS&nbsp;MedicineWise&nbsp;is disclosed by NPS&nbsp;MedicineWise in accordance with the Privacy Act and the National Privacy Principles.</p>
 
-<p>Where NPS provides or administers education or participation activities for health professionals or health professional students, NPS may disclose personal information to relevant institutions for the purposes of monitoring the participation and use (against course or institution requirements) and to professional associations for the purpose of recording continuing professional development points.</p>
+<p>Where NPS&nbsp;MedicineWise&nbsp;provides or administers education or participation activities for health professionals or health professional students, NPS&nbsp;MedicineWise&nbsp;may disclose personal information to relevant institutions for the purposes of monitoring the participation and use (against course or institution requirements) and to professional associations for the purpose of recording continuing professional development points.</p>
 
 <p>In some cases, information on the education or participation activity status of health professionals within a practice is provided to a practice manager of that practice.</p>
 
-<p>NPS may disclose your information to contractors to whom NPS out-sources certain functions or which provide services to NPS, such as bodies that assist in conducting or analysing research and print, data capture, mailing and distribution houses.&nbsp; NPS takes all reasonable measures with its contractors to ensure they comply with the privacy standards set out in the Privacy Act 1988 (Cth) and any relevant state and territory legislation.&nbsp; NPS may also disclose your information to its research partners where this is approved by the relevant Human Research Ethics Committee.&nbsp;</p>
+<p>NPS&nbsp;MedicineWise&nbsp;may disclose your information to contractors to whom NPS&nbsp;MedicineWise&nbsp;out-sources certain functions or which provide services to NPS&nbsp;MedicineWise, such as bodies that assist in conducting or analysing research and print, data capture, mailing and distribution houses.&nbsp; NPS&nbsp;MedicineWise&nbsp;takes all reasonable measures with its contractors to ensure they comply with the privacy standards set out in the Privacy Act 1988 (Cth) and any relevant state and territory legislation.&nbsp; NPS MedicineWise may also disclose your information to its research partners where this is approved by the relevant Human Research Ethics Committee.&nbsp;</p>
 
 <p>Personal information incorporated into health stories may be disclosed to the general public when the health story is published and/or broadcast.&nbsp; The information disclosed in these circumstances would not include an individual’s address, phone number, email address or other contact details.<br></p>
 
-<p>NPS may also disclose personal information in circumstances where it has statutory obligations or is otherwise required to do so by law.</p>
+<p>NPS MedicineWise may also disclose personal information in circumstances where it has statutory obligations or is otherwise required to do so by law.</p>
 
-<p>NPS does not supply, sell or rent the personal information it collects to unrelated third parties for the purpose of marketing those third parties’ products or services.<br></p>
+<p>NPS MedicineWise does not supply, sell or rent the personal information it collects to unrelated third parties for the purpose of marketing those third parties’ products or services.</p>
 
 <h2>Customers of our phone line services</h2>
 
-<p>NPS operates two phone line services:<br></p>
+<p>NPS MedicineWise operates two phone line services:</p>
 
 <ul>
-  <li><a href="http://www.nps.org.au/contact-us/medicines-line">Medicines Line</a> for consumers which is operated by NPS in collaboration with <em>healthdirect Australia.</em></li>
+  <li><a href="http://www.nps.org.au/contact-us/medicines-line">Medicines Line</a> for consumers which is operated by NPS&nbsp;MedicineWise&nbsp;in collaboration with <em>healthdirect Australia.</em></li>
 
   <li><a href="http://www.nps.org.au/contact-us/adverse-medicines-events">Adverse Medicine Events&nbsp;(AME)&nbsp;Line</a> for consumers wishing to report adverse experiences with their medicines.</li>
 </ul>
 
-<p>In delivering the phone line information services NPS may need to collect health information specific to a person in order to deliver the medicines information service requested.</p>
+<p>In delivering the phone line information services NPS MedicineWise may need to collect health information specific to a person in order to deliver the medicines information service requested.</p>
 
 <p>This information may include:<br></p>
 
 <ul>
-  <li>the relationship the caller has to the patient or person they are calling on behalf of and whether or not consent for making the call has been given. NPS also requires those calling on behalf of someone else and providing personal information about them to inform the patient or person that they have done so</li>
+  <li>the relationship the caller has to the patient or person they are calling on behalf of and whether or not consent for making the call has been given. NPS&nbsp;MedicineWise&nbsp;also requires those calling on behalf of someone else and providing personal information about them to inform the patient or person that they have done so</li>
 
   <li>age, date of birth and gender</li>
 
@@ -713,33 +896,33 @@ $(document).ready(function() {
 
 <h2>Protection and security</h2>
 
-<p>NPS has a privacy officer and a risk committee to oversee the management of personal information in accordance with this policy and privacy legislation.</p>
+<p>NPS MedicineWise has a privacy officer and a risk committee to oversee the management of personal information in accordance with this policy and privacy legislation.</p>
 
-<p>NPS maintains the confidentiality and security of personal information by restricting access to only those staff and service providers with a legitimate need to access it. Security measures are in place to prevent the misuse, unauthorised access, modification or disclosure of personal information.</p>
+<p>NPS MedicineWise maintains the confidentiality and security of personal information by restricting access to only those staff and service providers with a legitimate need to access it. Security measures are in place to prevent the misuse, unauthorised access, modification or disclosure of personal information.</p>
 
-<p>NPS has archiving policies and procedures, which provide for the secure, permanent destruction of records of personal information when no longer required, in accordance with National Privacy Principle 4.2. Data collected for research purposes is stored and disposed of in accordance with National Health and Medical Research Council guidelines.<br></p>
+<p>NPS MedicineWise has archiving policies and procedures, which provide for the secure, permanent destruction of records of personal information when no longer required, in accordance with National Privacy Principle 4.2. Data collected for research purposes is stored and disposed of in accordance with National Health and Medical Research Council guidelines.</p>
 
 <h2>Access and correction</h2>
 
-<p>At any time you can advise NPS of changes to your personal information or ask to be removed from our mailing lists by contacting us at our address below.</p>
+<p>At any time you can advise NPS MedicineWise of changes to your personal information or ask to be removed from our mailing lists by contacting us at our address below.</p>
 
 <p>You have the right to ask for the personal information held about you and to advise of any inaccuracy. There are some exceptions to this set out in the Privacy Act.</p>
 
-<p>If you make an access request, NPS will ask you to verify your identity and specify what information you require. NPS may ask the reason for your request so we can assist you most effectively. However, you are under no obligation to provide a reason if you do not wish to.<br></p>
+<p>If you make an access request, NPS MedicineWise will ask you to verify your identity and specify what information you require. NPS may ask the reason for your request so we can assist you most effectively. However, you are under no obligation to provide a reason if you do not wish to.</p>
 
 <h2>Complaints</h2>
 
-<p>If you believe your personal information is not properly protected, or that there has been a breach or potential breach of this Privacy Policy or the privacy legislation, please contact NPS immediately and ask for your complaint or concern to be directed to the Privacy Officer.</p>
+<p>If you believe your personal information is not properly protected, or that there has been a breach or potential breach of this Privacy Policy or the privacy legislation, please contact NPS MedicineWise immediately and ask for your complaint or concern to be directed to the Privacy Officer.</p>
 
-<p>NPS takes breaches seriously and has procedures to help identify and resolve a breach, potential breach or complaint as quickly as possible. This includes appropriate escalation processes to the NPS Risk Committee and CEO and notification processes in the event of a breach.</p>
+<p>NPS MedicineWise takes breaches seriously and has procedures to help identify and resolve a breach, potential breach or complaint as quickly as possible. This includes appropriate escalation processes to the NPS MedicineWise Risk Committee and CEO and notification processes in the event of a breach.</p>
 
 <p>Every complaint is forwarded by the staff member who receives it to the Privacy Officer. You will be notified of the process for dealing with the breach or potential breach. Your complaint will be thoroughly investigated and a suitable resolution negotiated with you.</p>
 
-<p>If you are not satisfied with the resolution of your complaint by NPS you may contact the <a href="http://www.privacy.gov.au/contact" target="_blank">Office of the Federal Privacy Commissioner</a>&nbsp;who may investigate your complaint and has the power to award compensation against NPS in appropriate circumstances.<br></p>
+<p>If you are not satisfied with the resolution of your complaint by NPS MedicineWise you may contact the <a href="http://www.privacy.gov.au/contact" target="_blank">Office of the Federal Privacy Commissioner</a>&nbsp;who may investigate your complaint and has the power to award compensation against NPS MedicineWise in appropriate circumstances.</p>
 
 <h2>Further information</h2>
 
-<p>For enquiries or feedback about this policy, or for complaints about NPS’s handling of personal information, please <a href="mailto:privacy@nps.org.au">email the privacy officer</a> or phone 02 8217 8798. You can also fax your enquiry to 02 9211 7578 or mail to:</p>
+<p>For enquiries or feedback about this policy, or for complaints about NPS MedicineWise’s handling of personal information, please <a href="mailto:privacy@nps.org.au">email the privacy officer</a> or phone 02 8217 9259. You can also fax your enquiry to 02 9211 7578 or mail to:</p>
 
 <p>NPS Privacy officer<br>
 NPS Medicinewise<br>
@@ -758,10 +941,14 @@ NSW 2012<br></p>
 		<li class="google-plus">
 			<g:plusone size="medium"></g:plusone>
 		</li>
+		<li>
+			<script src="//platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script>
+			<script type="IN/Share" data-counter="right"></script>
+		</li>
 		<li class="email"> <a class="btn" href="mailto:?subject=NPS%20MedicineWise%20website:%20Privacy policy&amp;body=I thought you'd be interested in this article on the NPS MedicineWise website: http://www.nps.org.au/about-this-website/privacy" title="Email a link to this page"><i class="icon-email"></i> Email</a> </li>
 		<li class="print-page last"> <a href="#" title="Print this page" class="btn"><i class="icon-print"></i> Print</a> </li>
 	</ul>
-</div></section><aside class="sidebar threecol last"><ul class="page-tools" id="page-tools-side">
+</div></section><aside class="sidebar col-md-3 last"><ul class="page-tools" id="page-tools-side">
 	<li class="textresize btn-group">
 		<a class="btn smaller" title="Smaller text"><i class="icon-smaller"></i></a>
 		<a class="btn larger" title="Larger text"><i class="icon-larger"></i></a>
@@ -780,8 +967,11 @@ NSW 2012<br></p>
 	<li class="google-plus">
 		<g:plusone size="medium" annotation="none"></g:plusone>
 	</li>
-	<li class="facebook last">
+	<li class="facebook">
 		<div class="fb-like" data-send="false" data-layout="button_count" data-width="50" data-show-faces="false" data-action="recommend"></div>
+	</li>
+	<li class="last">
+		<script type="IN/Share" data-counter="right"></script>
 	</li>
 </ul>
 <!--QUERY_STRING: [query=!showall&amp;num_ranks=2000&amp;meta_B_phrase=Medicine&amp;sort=title&amp;collection=nps&amp;profile=stream&amp;form=relatedlink2&amp;metaSubject=|kkqolosda]-->
@@ -805,141 +995,308 @@ NSW 2012<br></p>
     <!-- @/.row--> 
 </div>
 <!-- @/#content-->
-<footer class="container">
-    <section class="row sub-footer disclaimer">
+<footer>
+    <hr>
+<section class="row sub-footer disclaimer container">
 	<p class="published"><span class="">Date published:
 		<time property="dateModified" datetime="2012-08-20T00:00:00+10:00">20 Aug 2012</time>
 		</span></p>
-	<p>Reasonable care is taken to provide accurate information at the date of creation. This information is not intended as a substitute for medical advice from health professionals. Health professionals should rely on their own expertise and enquiries when providing medical advice or treatment. Where permitted by law, NPS disclaims all liability (including for negligence) for any loss, damage, or injury resulting from reliance on, or use of this information.</p>
-	<p><a href="http://www.nps.org.au/about-this-website/terms-of-use">Read our full disclaimer</a>.</p>
-	<p>References to brands should not be taken as an endorsement by NPS.</p>
+	<p>Reasonable care is taken to provide accurate information at the time of creation. This information is not intended as a substitute for medical advice and should not be exclusively relied on to manage or diagnose a medical condition. NPS MedicineWise disclaims all liability (including for negligence) for any loss, damage or injury resulting from reliance on or use of this information. <a href="http://www.nps.org.au/about-this-website/terms-of-use?footer">Read our full disclaimer</a>.</p>
 </section>
-<section class="row sub-footer footer-banner group">
-	<div class="mod mod-footer-banner threecol">
-		<div class="inner">
-			<h3 class="lrg-icon-question"><a href="http://www.nps.org.au/contact-us/medicines-line">Consumers: get medicines information</a></h3>
-			<div class="lrg-icon-indent">
-				<p class="action"><a href="tel:1300%20633%20424" class="tel">1300 Medicine</a></p>
+
+
+
+<section class="row sub-footer footer-banner group container">
+	<div class="col-md-5 start">
+		<div class="mod mod-footer-banner">
+			<h2 class="block">Consumers: Talk to a professional<p><small>Mon–Fri | 9am to 5pm AEST</small></p></h2>
+			<div class="col-sm-6 inner">
+			
+				<h3><a href="http://www.nps.org.au/contact-us/medicines-line?footer">Medicines Line</a></h3>
+				<p><strong>Get medicines information:</strong>
+				</p><div class="action"><a href="tel:1300%20633%20424" class="tel">1300 Medicine</a></div>
+				<p></p>
 				<p><small>(1300 633 424)</small></p>
-				<p>Mon–Fri | 9am to 5pm AEST</p>
-				<p>Calls answered by <em>healthdirect</em> Australia</p>
+				<p>Calls triaged by <em>healthdirect</em> Australia</p>
+			</div>
+			<div class="col-sm-6 inner">
+				<h3><a href="http://www.nps.org.au/contact-us/adverse-medicines-events?footer">Adverse Medicine Events Line</a></h3>
+					<p><strong>Report a medicines problem:</strong>
+					</p><div class="action"><a href="tel:1300%20633%20424" class="tel">1300 134 237</a></div>
+					<p></p>
+					<p>Online via the <a href="http://www.tga.gov.au/safety/problem.htm?footer">Therapeutic Goods Administration</a></p>				
 			</div>
 		</div>
+		<div class="mod hidden-sm hidden-xs"><a href="http://www.nps.org.au/topics/how-to-be-medicinewise/managing-your-medicines/medicines-list/medicinelist-smartphone-app?footer"><img style="height:auto; width:auto; max-width:458px; max-height:195px;" src="http://www.nps.org.au/__data/assets/image/0008/248759/MedList-Footer-Promo.gif" alt="MedicineList+"></a>
+		</div>
+		
 	</div>
-	<div class="mod mod-footer-banner threecol">
-		<div class="inner">
-			<h3 class="lrg-icon-phone"><a href="http://www.nps.org.au/contact-us/adverse-medicines-events">Consumers: report a medicines problem</a></h3>
-			<div class="lrg-icon-indent">
-				<p class="action"><a href="tel:1300%20134%20237" class="tel">1300 134 237</a></p>
-				<p>Mon–Fri | 9am to 5pm AEST</p>
-				<p>Adverse Medicine Events Line</p>
-				<p><a href="http://www.tga.gov.au/safety/problem.htm">Online via Therapeutic Goods Administration</a></p>
+	<div class="col-md-4">
+
+		<div class="search search-home">
+			<h2 class="block">Looking for something? Let us help.</h2>
+				<div class="inner"><form class="form-search" method="GET" action="http://www.nps.org.au/search-result">
+				<fieldset class="input-bordered">
+					<input type="hidden" name="collection" value="nps">
+					<input name="morph_target_query" id="querybottom" class="field ui-autocomplete-input" type="search" placeholder="We’ll suggest pages as you type" accesskey="q" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true">
+					<input name="morph_query" type="hidden" value="query">
+					<input type="hidden" name="meta_B_orsand" value="medicine">
+					<input type="hidden" name="meta_B_orsand" value="condition">
+					<input type="hidden" name="meta_B_orsand" value="topic">
+					<input type="hidden" name="meta_B_orsand" value="medical%20test">
+					<input type="hidden" name="profile" value="_default_preview">
+					<input type="submit" value="Search" class="submit-search ir arrow">
+				</fieldset>
+			</form>
 			</div>
 		</div>
-	</div>
-	<div id="order-subscribe" class="mod mod-footer-banner threecol">
-		<div class="inner"> <a href="http://www.nps.org.au/order-subscribe">
-			<h3 class="lrg-icon-order">Our publications</h3>
-			<div class="lrg-icon-indent">
-				<p class="action">Subscribe</p>
-				<p>Get free print publications and e-alerts for health professionals and consumers</p>
+		
+		<div class="search search-keypad hidden-xs">
+			<h2 class="block">A–Z index of medicines</h2>
+			<div class="inner clearfix">
+				<ul class="keypad">	
+					<li><a href="/a-z-list/medicines-conditions-medical-tests-topics/a?footer">A</a></li>
+					<li><a href="/a-z-list/medicines-conditions-medical-tests-topics/b?footer">B</a></li>
+					<li><a href="/a-z-list/medicines-conditions-medical-tests-topics/c?footer">C</a></li>
+					<li><a href="/a-z-list/medicines-conditions-medical-tests-topics/d?footer">D</a></li>
+					<li><a href="/a-z-list/medicines-conditions-medical-tests-topics/e?footer">E</a></li>
+					<li><a href="/a-z-list/medicines-conditions-medical-tests-topics/f?footer">F</a></li>
+					<li><a href="/a-z-list/medicines-conditions-medical-tests-topics/g?footer">G</a></li>
+					<li><a href="/a-z-list/medicines-conditions-medical-tests-topics/h?footer">H</a></li>
+					<li><a href="/a-z-list/medicines-conditions-medical-tests-topics/i?footer">I</a></li>
+					<li><a href="/a-z-list/medicines-conditions-medical-tests-topics/j?footer">J</a></li>
+					<li><a href="/a-z-list/medicines-conditions-medical-tests-topics/k?footer">K</a></li>
+					<li><a href="/a-z-list/medicines-conditions-medical-tests-topics/l?footer">L</a></li>
+					<li><a href="/a-z-list/medicines-conditions-medical-tests-topics/m?footer">M</a></li>
+					<li><a href="/a-z-list/medicines-conditions-medical-tests-topics/n?footer">N</a></li>
+					<li><a href="/a-z-list/medicines-conditions-medical-tests-topics/o?footer">O</a></li>
+					<li><a href="/a-z-list/medicines-conditions-medical-tests-topics/p?footer">P</a></li>
+					<li><a href="/a-z-list/medicines-conditions-medical-tests-topics/q?footer">Q</a></li>
+					<li><a href="/a-z-list/medicines-conditions-medical-tests-topics/r?footer">R</a></li>
+					<li><a href="/a-z-list/medicines-conditions-medical-tests-topics/s?footer">S</a></li>
+					<li><a href="/a-z-list/medicines-conditions-medical-tests-topics/t?footer">T</a></li>
+					<li><a href="/a-z-list/medicines-conditions-medical-tests-topics/u?footer">U</a></li>
+					<li><a href="/a-z-list/medicines-conditions-medical-tests-topics/v?footer">V</a></li>
+					<li><a href="/a-z-list/medicines-conditions-medical-tests-topics/w?footer">W</a></li>
+					<li><a href="/a-z-list/medicines-conditions-medical-tests-topics/x?footer">X</a></li>
+					<li><a href="/a-z-list/medicines-conditions-medical-tests-topics/y?footer">Y</a></li>
+					<li><a href="/a-z-list/medicines-conditions-medical-tests-topics/z?footer">Z</a></li>
+					<li><a href="/a-z-list/medicines-conditions-medical-tests-topics/0?footer" class="numeric">0-9</a> </li>
+				</ul>
+
 			</div>
-			</a> </div>
-	</div>
-	<div class="threecol last">
-		<div id="medicines-list" class="mod mod-footer-banner-half-height">
-			<div class="inner"> <a href="http://www.nps.org.au/conditions-and-topics/topics/how-to-be-medicinewise/managing-your-medicines/medicines-list"><span class="img-breakout-medicines-list-app"></span>
-				<h3>Medicines List app</h3>
-				<p>Keep track of your medicines wherever you are.</p>
-				</a> </div>
+		</div>	
+		
+		<div id="follow-us">
+				<strong>Connect with NPS MedicineWise</strong>
+				<ul class="unstyled clearfix">
+					<li><a class="social sq twitter ir" href="http://twitter.com/NPSmedicinewise?footer">Twitter</a></li>
+					<li><a class="social sq facebook ir" href="http://www.facebook.com/npsmedicinewise?footer">Facebook</a></li>
+					<li><a class="social sq linkedin ir" href="http://www.linkedin.com/company/nps-medicinewise?footer">Linkedin</a></li>
+					<li><a class="social sq youtube ir" href="http://www.youtube.com/npsmedicinewise?footer">YouTube</a></li>
+					<li><a class="social sq googleplus ir" href="https://plus.google.com/+NPSmedicinewise?footer">Google plus</a></li>
+					<li><a class="social sq instagram ir" href="http://instagram.com/npsmedicinewise?footer">Instagram</a></li>
+					<li class="last"><a class="social sq rss ir" href="http://www.nps.org.au/rss?footer">RSS</a></li>
+				</ul>
 		</div>
-		<div id="follow-us" class="mod mod-footer-banner-half-height">
-			<div class="inner">
-				<h3>Follow us</h3>
-				<ul class="unstyled">
-					<li><a class="social sq facebook ir" href="http://www.facebook.com/npsmedicinewise">Facebook</a></li>
-					<li><a class="social sq twitter ir" href="http://twitter.com/NPSmedicinewise">Twitter</a></li>
-					<li><a class="social sq youtube ir" href="http://www.youtube.com/npsmedicinewise">YouTube</a></li>
-					<li class="last"><a class="social sq rss ir" href="http://www.nps.org.au/rss">RSS</a></li>
+	</div>
+	<div class="col-md-3 last">
+		<div class="mod mod-footer-banner mod-footer-panel">
+			<h2 class="block">Earn free CPD points<p><small>Online and interactive</small></p></h2>
+			
+			<div class="inner clearfix">
+				<img src="http://www.nps.org.au/__data/assets/image/0003/248736/CPD-panel-image-updated.png" width="248" height="80" alt="Earn free CPD points" class="visible-md visible-lg" style="margin-bottom:10px">
+				Our free CPD activities provide health professionals and students with high-quality learning opportunities and support you in maintaining best practice.<br><br>
+				<strong>Register and start an activity now:</strong><p></p>
+				<ul>
+					<li><a href="http://www.nps.org.au/health-professionals/professional-development/clinical-audits-for-gps?footer">Clinical e-Audit</a></li>
+					<li><a href="http://www.nps.org.au/health-professionals/professional-development/pharmacy-practice-reviews?footer">Pharmacy Practice Review</a></li>
+					<li><a href="http://www.nps.org.au/health-professionals/professional-development/case-studies?footer">Case Study</a></li>
+					<li><a href="http://www.nps.org.au/health-professionals/professional-development/online-learning?footer">Online courses</a></li>
+					<li><a href="http://www.nps.org.au/health-professionals/professional-development/nps-facilitator-visits?footer">Educational visits</a></li>
 				</ul>
 			</div>
 		</div>
 	</div>
+	
+	<div class="row visible-md visible-lg visible-sm" id="logo-section">
+		<div class="logo-fund">
+			<strong>Our programs are funded by:</strong><br>
+			<img src="http://www.nps.org.au/__data/assets/image/0018/246510/logo-doh.jpg" width="198" height="131" alt="Department of Health">
+		</div>
+		<div class="logo-init">
+			<strong>Other NPS MedicineWise initiatives:</strong>
+			<div class="publogo">			
+			<a href="http://www.australianprescriber.com/?footer" target="_blank"><img src="http://www.nps.org.au/__data/assets/image/0008/246509/logo-ap.jpg" width="158" height="56" alt="Australian prescriber"></a>
+			<a href="http://www.nps.org.au/publications/health-professional/nps-radar?footer" target="_blank"><img src="http://www.nps.org.au/__data/assets/image/0020/246512/logo-radar.jpg" width="200" height="56" alt="RADAR"></a>
+			<a href="http://www.nps.org.au/health-professionals/professional-development/clinical-audits-for-gps?footer" target="_blank"><img src="http://www.nps.org.au/__data/assets/image/0003/246513/Clinical-e-Audit-logo.gif" width="78" height="80" alt="Clinical e-Audits"></a>
+			<a href="http://www.nps.org.au/health-professionals/professional-development/pharmacy-practice-reviews?footer" target="_blank"><img src="http://www.nps.org.au/__data/assets/image/0004/246514/Pharmacy-Practice-Review-logo.gif" width="134" height="53" alt="Pharmacy practice review"></a>
+			<a href="http://www.nps.org.au/publications/consumer/medicine-update?footer" target="_blank"><img src="http://www.nps.org.au/__data/assets/image/0019/246511/logo-mu.jpg" width="264" height="45" alt="Medicine update"></a>
+			</div>
+		</div>
+	</div>
+	
+	<div class="row visible-md visible-lg visible-sm col-md-12 our-member"> <h3>Our members</h3>
+		 <div class="clearfix">
+		 	<div class="arrowpanel previous"><a href="#" class="prev">previous</a></div>
+			<div class="footercaro clearfix">
+				<ul>
+<li><a href="http://www.aacp.com.au/" target="_blank"><img src="http://www.nps.org.au/__data/assets/image/0004/248611/Resized-AACP-logo-stacked-blue.png" alt="Australian Association of Consultant Pharmacy" width="139" height="60"></a></li>
+<li><a href="https://ascept.org/" target="_blank"><img src="http://www.nps.org.au/__data/assets/image/0018/248121/ASCEPT-LOGO-small.jpg" alt="Australasian Society of Clinical Experimental Pharmacologists and Toxicologists" width="100" height="46"></a></li>
+<li><a href="http://www.acn.edu.au/" target="_blank"><img src="http://www.nps.org.au/__data/assets/image/0019/248122/Resized-ACN-Primary-Logo-No-Line-Portrait.gif" alt="Australian College of Nursing" width="56" height="80"></a></li>
+<li><a href="https://www.acrrm.org.au/" target="_blank"><img src="http://www.nps.org.au/__data/assets/image/0003/248124/Resized-ACRRM-Logo-Landscape-CMYK.png" alt="Australian College of Rural and Remote Medicine" width="179" height="50"></a></li>
+<li><a href="http://ahha.asn.au/" target="_blank"><img src="http://www.nps.org.au/__data/assets/image/0004/248125/Resized-AHHA.gif" alt="Australian Healthcare and Hospitals Association" width="99" height="80"></a></li>
+<li><a href="https://ama.com.au/" target="_blank"><img src="http://www.nps.org.au/__data/assets/image/0005/248126/AMA_JPEG.gif" alt="Australian Medical Association" width="104" height="80"></a></li>
+<li><a href="http://www.apha.org.au/" target="_blank"><img src="http://www.nps.org.au/__data/assets/image/0006/248127/Resized-APHA_JPEF.gif" alt="Australian Private Hospitals Association" width="193" height="60"></a></li>
+<li><a href="http://www.apna.asn.au/scripts/cgiip.exe/WService=APNA/ccms.r" target="_blank"><img src="http://www.nps.org.au/__data/assets/image/0007/248128/Resized-APNAlogo_Supportingnursesinprimaryhealthcare.gif" alt="Australian Practice Nurses Association" width="139" height="80"></a></li>
+<li><a href="http://www.asthmaaustralia.org.au/" target="_blank"><img src="http://www.nps.org.au/__data/assets/image/0008/248129/Resized-Asthma-Australia.gif" alt="Asthma Australia" width="124" height="70"></a></li>
+<li><a href="http://acnp.org.au/" target="_blank"><img src="http://www.nps.org.au/__data/assets/image/0018/248130/Resized-Australian-College-of-Nurse-Practitioners_TIF.gif" alt="Australian College of Nurse Practitioners" width="139" height="80"></a></li>
+<li><a href="http://www.medicalwriters.org/" target="_blank"><img src="http://www.nps.org.au/__data/assets/image/0019/248131/Resized-Australian-Medical-Writers-Association.gif" alt="Australasian Medical Writers Association" width="153" height="60"></a></li>
+<li><a href="http://anmf.org.au/" target="_blank"><img src="http://www.nps.org.au/__data/assets/image/0020/248132/Resized-Australian-Nursing-and-Midwifery-Federation.gif" alt="Australian Nursing and Midwifery Federation" width="176" height="80"></a></li>
+<li><a href="http://www.apsf.asn.au/" target="_blank"><img src="http://www.nps.org.au/__data/assets/image/0003/248133/Resized-Australian-Pensioners_rgb300.gif" alt="Australian Pensioners &amp; Superannuants' Federation Inc" width="213" height="50"></a></li>
+<li><a href="http://www.asmi.com.au/home/" target="_blank"><img src="http://www.nps.org.au/__data/assets/image/0004/248134/Resized-Australian-Self-Medication-Industry.gif" alt="Australian Self-Medication Industry" width="172" height="60"></a></li>
+<li><a href="http://www.carersaustralia.com.au/" target="_blank"><img src="http://www.nps.org.au/__data/assets/image/0005/248135/Resized-Carers-Australia_JPEG.gif" alt="Carers Australia" width="100" height="80"></a></li>
+<li><a href="https://www.chf.org.au/" target="_blank"><img src="http://www.nps.org.au/__data/assets/image/0006/248136/Resized-CHF_logoHORIZ_CMYK.gif" alt="Consumers Health Forum of Australia" width="169" height="80"></a></li>
+<li><a href="http://www.dva.gov.au/Pages/home.aspx" target="_blank"><img src="http://www.nps.org.au/__data/assets/image/0007/248137/Resized-DVA_stacked.gif" alt="Department of Veterans' Affairs" width="137" height="80"></a></li>
+<li><a href="http://www.fecca.org.au/" target="_blank"><img src="http://www.nps.org.au/__data/assets/image/0008/248138/Resized-FECCA_JPEG.gif" alt="Federation of Ethnic Communities' Councils of Australia" width="168" height="60"></a></li>
+<li><a href="http://nrha.org.au/hcrra/" target="_blank"><img src="http://www.nps.org.au/__data/assets/image/0019/248140/Resized-Health-Consumers-of-Rural-and-Remote-Australia.gif" alt="Health Consumers of Rural and Remote Australia" width="112" height="80"></a></li>
+<li><a href="//www.heartfoundation.org.au" target="_blank"><img src="http://www.nps.org.au/__data/assets/image/0020/248141/Resized-Heart-Foundation.gif" alt="National Heart Foundation of Australia" width="92" height="80"></a></li>
+<li><a href="http://www.lungfoundation.com.au/" target="_blank"><img src="http://www.nps.org.au/__data/assets/image/0003/248142/Resized-Lung_Foundation_Portrait.gif" alt="Lung Foundation Australia" width="111" height="80"></a></li>
+<li><a href="http://medicinesaustralia.com.au/" target="_blank"><img src="http://www.nps.org.au/__data/assets/image/0004/248143/Resized-MedicinesAustralia_JPEG.gif" alt="Medicines Australia" width="157" height="30"></a></li>
+<li><a href="http://www.nationalasthma.org.au/" target="_blank"><img src="http://www.nps.org.au/__data/assets/image/0005/248144/Resized-National-Asthma-Council_JPEG.gif" alt="National Asthma Council Australia" width="200" height="80"></a></li>
+<li><a href="http://www.ciap.health.nsw.gov.au/nswtag/" target="_blank"><img src="http://www.nps.org.au/__data/assets/image/0006/248145/Resized-NSW_TAG.gif" alt="NSW Therapeutic Advisory Group" width="146" height="60"></a></li>
+<li><a href="http://www.optometrists.asn.au/" target="_blank"><img src="http://www.nps.org.au/__data/assets/image/0007/248146/Resized-Optometrists-Association-Australia_JPEG.gif" alt="Optometrists Association Australia" width="140" height="80"></a></li>
+<li><a href="http://www.palliativecare.org.au/" target="_blank"><img src="http://www.nps.org.au/__data/assets/image/0003/248610/Resized-PAL-Logo-variant.png" alt="Palliative Care Australia" width="125" height="80"></a></li>
+<li><a href="http://www.guild.org.au/" target="_blank"><img src="http://www.nps.org.au/__data/assets/image/0008/248147/Resized-PGA.gif" alt="Pharmacy Guild of Australia" width="171" height="40"></a></li>
+<li><a href="http://www.psa.org.au/" target="_blank"><img src="http://www.nps.org.au/__data/assets/image/0009/248148/Resized-PSA_JPEG.png" alt="Pharmaceutical Society of Australia" width="203" height="35"></a></li>
+<li><a href="//www.racp.edu.au" target="_blank"><img src="http://www.nps.org.au/__data/assets/image/0007/248155/Resized-The-Royal-Australasian-College-of-Physicians.gif" alt="Royal Australasian College of Physicians" width="102" height="80"></a></li>
+<li><a href="https://www.ranzcp.org/Home.aspx" target="_blank"><img src="http://www.nps.org.au/__data/assets/image/0010/248149/Resized-RANZCP20Crest20205020years.gif" alt="Royal Australian and New Zealand College of Psychiatrists" width="182" height="70"></a></li>
+<li><a href="http://www.ranzcr.edu.au/" target="_blank"><img src="http://www.nps.org.au/__data/assets/image/0020/248150/Resized-RANZCR_FC_Vertical.gif" alt="Royal Australian and New Zealand College of Radiologists" width="91" height="80"></a></li>
+<li><a href="http://www.rcpa.edu.au/" target="_blank"><img src="http://www.nps.org.au/__data/assets/image/0003/248151/resized-RCPA_JPEG.png" alt="The Royal College of Pathologists of Australasia" width="165" height="50"></a></li>
+<li><a href="http://www.rdaa.com.au/" target="_blank"><img src="http://www.nps.org.au/__data/assets/image/0004/248152/Resized-RDAA_JPEG.gif" alt="Rural Doctors Association of Australia" width="191" height="80"></a></li>
+<li><a href="http://www.shpa.org.au/" target="_blank"><img src="http://www.nps.org.au/__data/assets/image/0005/248153/Resized-Society-of-Hospital-Pharmacists.gif" alt="Society of Hospital Pharmacists of Australia" width="177" height="60"></a></li>
+<li><a href="http://www.tg.org.au/" target="_blank"><img src="http://www.nps.org.au/__data/assets/image/0006/248154/Tg-logo.png" alt="Therapeutic Guidelines " width="167" height="50"></a></li>
+
+</ul>
+</div>
+			<div class="arrowpanel next"><a href="#" class="nxt">next</a></div>
+		 </div></div>
 </section>
-<hr class="row">
-<section class="row sub-footer" role="contentinfo">
-	<div class="threecol">
-		<ul id="otherlanguages" class="nav">
-			<li><a href="http://www.nps.org.au/translated-health-information-about-medicines">Resources in other languages</a></li>
-		</ul>
-		<ul class="nav nav-tertiary">
-			<li><a href="http://www.nps.org.au/publications">Publications</a></li>
-			<li><a href="http://www.nps.org.au/media-centre">Media</a></li>
-			<li><a href="http://www.nps.org.au/nps-in-the-community">Community programs</a></li>
-			<li><a href="http://www.nps.org.au/order-subscribe">Order &amp; subscribe</a></li>
-			<li><a href="http://www.nps.org.au/careers">Careers</a></li>
-			<li class="last"><a href="http://www.nps.org.au/contact-us">Contact us</a></li>
-		</ul>
-		<ul class="nav site">
-			<li><a href="http://www.nps.org.au">Home</a></li>
-			<li><a href="http://www.nps.org.au/medicines">Medicines</a></li>
-			<li><a href="http://www.nps.org.au/conditions-and-topics">Conditions &amp; topics</a></li>
-			<li><a href="http://www.nps.org.au/medical-tests">Medical tests</a></li>
-			<li><a href="http://www.nps.org.au/health-professionals">For health professionals</a></li>
-			<li><a href="http://www.nps.org.au/about-us">About us</a></li>
-			<li class="last"><a href="http://www.nps.org.au/glossary">Glossary</a></li>
-		</ul>
+
+
+<section class="sub-footer" role="contentinfo">
+	<div class="row">
+		<div class="col-md-11 col-sm-6 footer-nav start last">
+			<ul class="clearfix">
+				<li class="home-footer"><a href="/?footer">Home</a></li>
+				<li class="medicine-footer"><a href="http://www.nps.org.au/medicines?footer">Medicines</a>
+					<ul class="visible-md visible-lg">
+						<li><a href="http://www.nps.org.au/medicines/heart-blood-and-blood-vessels/anti-clotting-medicines/for-individuals/anticoagulant-medicines/for-individuals/active-ingredients/warfarin?footer">Warfarin</a></li>
+						<li><a href="http://www.nps.org.au/medicines/immune-system/vaccines-and-immunisation?footer">Vaccines &amp; immunisation</a></li>
+						<li><a href="http://www.nps.org.au/medicines/heart-blood-and-blood-vessels/anti-clotting-medicines/for-individuals/anticoagulant-medicines/for-individuals/active-ingredients/dabigatran?footer">Dabigatran</a></li>
+						<li><a href="http://www.nps.org.au/medicines/complementary-medicines?footer">Complementary medicines</a></li>
+						<li><a href="http://www.nps.org.au/medicines?footer">See more medicines</a></li>
+					</ul>
+				</li>
+				<li class="condition-footer"><a href="http://www.nps.org.au/conditions?footer">Conditions</a>
+					<ul class="visible-md visible-lg">
+						<li><a href="http://www.nps.org.au/conditions/hormones-metabolism-and-nutritional-problems/diabetes-type-2?footer">Type 2 diabetes</a></li>
+						<li><a href="http://www.nps.org.au/conditions/nervous-system-problems/pain/for-individuals/pain-conditions/low-back-pain?footer">Low back pain</a></li>
+						<li><a href="http://www.nps.org.au/conditions/hormones-metabolism-and-nutritional-problems/vitamin-deficiency/vitamin-d-deficiency?footer">Vitamin D deficiency</a></li>
+						<li><a href="http://www.nps.org.au/conditions/respiratory-problems/respiratory-tract-infections/for-individuals/conditions/common-cold?footer">Common cold</a></li>
+						<li><a href="http://www.nps.org.au/conditions?footer">See more conditions</a></li>
+					</ul>
+				</li>
+				<li class="topic-footer"><a href="http://www.nps.org.au/topics?footer">Health topics</a>
+					<ul class="visible-md visible-lg">
+						<li><a href="http://www.nps.org.au/topics/ages-life-stages?footer">Ages &amp; life stages</a></li>
+						<li><a href="http://www.nps.org.au/topics/e-health?footer">eHealth</a></li>
+						<li><a href="http://www.nps.org.au/topics/how-to-be-medicinewise/managing-your-medicines?footer">Managing your medicines</a></li>
+						<li><a href="http://www.nps.org.au/topics/how-to-be-medicinewise/side-effects-interactions?footer">Side effects &amp; interactions</a></li>
+						<li><a href="http://www.nps.org.au/topics?footer">See more topics</a></li>
+					</ul>
+				</li>
+				<li class="test-footer"><a href="http://www.nps.org.au/medical-tests?footer">Medical tests</a>
+					<ul class="visible-md visible-lg">
+						<li><a href="http://www.nps.org.au/medical-tests/pathology-tests?footer">Pathology tests</a></li>
+						<li><a href="http://www.nps.org.au/medical-tests/medical-imaging?footer">Medical imaging</a></li>
+						<li><a href="http://www.nps.org.au/medical-tests/tests-by-conditions/for-individuals/cervical-cancer-screening-tests?footer">Cervical cancer tests</a></li>
+						<li><a href="http://www.nps.org.au/medical-tests/tests-by-conditions/for-individuals/back-pain-tests?footer">Back pain tests</a></li>
+						<li><a href="http://www.nps.org.au/medical-tests?footer">See more medical tests</a></li>
+					</ul>
+				</li>
+				<li class="prof-footer"><a href="http://www.nps.org.au/health-professionals?footer">Health professionals</a>
+					<ul class="visible-md visible-lg">
+						<li><a href="http://www.nps.org.au/health-professionals/professional-development?footer">Professional development</a></li>
+						<li><a href="http://www.nps.org.au/health-professionals/publications?footer">Publications</a></li>
+						<li><a href="http://www.nps.org.au/health-professionals/professional-development/online-learning?footer">Online learning</a></li>
+						<li><a href="http://www.nps.org.au/health-professionals/resources-and-tools?footer">Resources &amp; tools</a></li>
+						<li><a href="http://www.nps.org.au/health-professionals?footer">See more for professionals</a></li>
+					</ul>
+				</li>
+				<li class="about-footer visible-md visible-lg"><a href="http://www.nps.org.au/about-this-website?footer">About this website</a>
+					<ul class="visible-md visible-lg">
+						<li><a href="http://www.nps.org.au/glossary?footer">Glossary</a></li>
+						<li><a href="http://www.nps.org.au/about-this-website/privacy?footer">Privacy</a></li>
+						<li><a href="http://www.nps.org.au/about-this-website/terms-of-use?footer">Terms of use</a></li>
+						<li><a href="http://www.nps.org.au/about-this-website/copyright?footer">Copyright</a></li>
+						<li><a href="http://www.nps.org.au/about-this-website/accessibility?footer">Accessibility</a></li>
+					</ul>
+				</li>
+			</ul>
+		</div>
+		 
+		<div class="col-sm-6 footer-nav start last1 hidden-md hidden-lg">
+			<ul class="clearfix">
+				<li><a href="http://www.nps.org.au/media-centre?footer">Media</a></li>
+				<li><a href="http://www.nps.org.au/publications?footer">Publications</a></li>
+				<li><a href="http://www.nps.org.au/careers?footer">Careers</a></li>
+				<li><a href="http://www.nps.org.au/order-subscribe?footer">Order &amp; Subscribe</a></li>
+				<li><a href="http://www.nps.org.au/about-this-website?footer">About this website</a></li>
+				<li><a href="http://www.nps.org.au/contact-us?footer">Contact us</a></li>
+			</ul>
+		</div>
+		<div class="col-md-1 visible-md visible-lg">
+			<div class="honcode"><a href="https://www.hon.ch/HONcode/Conduct.html?HONConduct933561&amp;footer" target="_blank"><img src="http://www.nps.org.au/__data/assets/image/0011/246926/honcode.jpg" width="44" height="55" alt="honcode"></a></div>
+		</div>
 	</div>
-	<div class="threecol">
-		<ul class="nav contentinfo">
-			<li><a href="http://www.nps.org.au/about-this-website/privacy">Privacy</a></li>
-			<li><a href="http://www.nps.org.au/about-this-website/terms-of-use">Terms of use</a></li>
-			<li><a href="http://www.nps.org.au/about-this-website/copyright" title="#">Copyright</a></li>
-			<li><a href="http://www.nps.org.au/about-this-website/accessibility" title="#">Accessibility</a></li>
-			<li class="last"><a href="http://www.nps.org.au/contact-us" title="#">Contact us</a></li>
-		</ul>
-		&nbsp; </div>
-	<div class="threecol">
-		<p><strong>We’re for a medicinewise Australia.</strong></p>
-		<p class="copyright">© <span property="copyrightYear">2013</span> <span property="publisher copyrightHolder" typeof="organisation">National Prescribing Service Limited</span> trading as NPS MedicineWise.</p>
-		<p>Our programs are funded by the Australian Government Department of Health.</p>
+	
+	<div class="row">
+	<p>PO Box 1147 Strawberry Hills NSW 2012 | Level 7, 418A Elizabeth St, Surry Hills NSW 2010 | ABN: 61 082 034 393 © 2014 National Prescribing Service Limited trading as NPS MedicineWise. Providing free, independent, not-for-profit, evidence based information for the Australian Capital Territory (ACT), New South Wales, Northern Territory, Queensland, South Australia, Tasmania, Victoria and Western Australia.</p>
 	</div>
-	<div class="threecol last">
-		<ul class="accreditation">
-			<li class="the-hon-code"><a title="HON Code" href="https://www.hon.ch/HONcode/Conduct.html?HONConduct933561" class="new-window"><img src="http://www.honcode.ch/HONcode/Seal/HONConduct933561_s.gif" alt="HONConduct933561_s1" width="49" height="72"></a></li>
-			<li class="australian-prescriber"><a title="Australian Prescriber" href="http://www.australianprescriber.com">
-				<p>Published by NPS</p>
-				<span class="ir">Australian Prescriber</span></a></li>
-		</ul>
-	</div>
-</section>
-</footer>
+	
+	
+</section></footer>
 <!-- @/footer-->
 <!-- @/.page -->
 <!-- version at 20130903 -->
 
+
 <script src="http://www.nps.org.au/__data/assets/js_file/0017/143036/plugins.js"></script> 
+  <!-- Import script.js --> 
 <script src="http://www.nps.org.au/__data/assets/js_file/0006/141891/script.js"></script>
+  <!-- Import mynps-shared-scripts.js --> 
+  <script src="http://www.nps.org.au/__data/assets/js_file/0006/253599/mynps-shared-scripts.js"></script>
+  <!-- script-2014.js -->
+  <script src="http://www.nps.org.au/__data/assets/js_file/0015/252042/script-2014.js"></script>
 
 
 
 <script>
-	var _gaq=[['_setAccount','UA-4805052-1'],['_trackPageview']];
-	(function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];g.async=1;
-	g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
-	s.parentNode.insertBefore(g,s)}(document,'script'));
-
-// initiate page tracking for areas.	
-try{
-	var pageTracker = _gat._createTracker("UA-4805052-1");	
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 	
-	_gaq.push(['_setCustomVar', 1, 'Hub', '00',3 ]);
-	_gaq.push(['_setCustomVar', 2, 'HP', '0',3 ]);
-	_gaq.push(['_setCustomVar', 3, 'Media', '0',3 ]);
-	_gaq.push(['_addIgnoredRef', 'nps.org.au']);
-	pageTracker._trackPageview();
-	
-} catch(err) {}
+	ga('create', 'UA-4805052-1', 'nps.org.au');
+	ga('set', 'contentGroup1', '___');
+	ga('set', 'contentGroup2', 'NotHPOnly');
+	ga('set', 'contentGroup3', '0');
+	ga('set', 'dimension1', '00');
+	ga('set', 'dimension2', '0');
+	ga('set', 'dimension3', '0');
+	ga('send', 'pageview');
+  
 		
 function initiate_listening(divid) {
 	// array to make things readable for NPS
@@ -954,7 +1311,7 @@ function initiate_listening(divid) {
 		var linktext = readable_name[divid] + " | " +  all_links[i].href;
 		try {
 			all_links[i].addEventListener("click", function() {
-				pageTracker._trackEvent('Social', "Click",  linktext);
+				ga('send', 'event', 'Social', 'click', linktext);
 			}, false);
 		} catch(err) {	}
 	}
@@ -977,8 +1334,7 @@ function chart_listening(divid) {
 		try {
 			//alert(all_links);
 			all_links[i].addEventListener("click", function() {
-				//pageTracker._trackEvent('Privacy policy', 'Charts', linktext)
-				_gaq.push(['_trackEvent', 'Interactive', "click",  linktext]);
+				ga('send', 'event', 'Interactive', 'click', linktext);
 			}, false);
 		} catch(err) {	}
 	}
@@ -1001,8 +1357,7 @@ function medicineslist_listening(selector, idx) {
 		try {
 			//all_links.addEventListener("click", function() {
             all_links[i].on('click', function() {
-				//pageTracker._trackEvent('Privacy policy', 'Charts', linktext) Medicines eList - Privacy policy
-				pageTracker._trackEvent('Interactive', 'click', 'Medicines eList - ' + linktext);
+				ga('send', 'event', 'Interactive', 'click', 'Medicines eList - ' + linktext);
 				//console.log(linktext);
 			});
 		} catch(err) { 
@@ -1014,22 +1369,22 @@ function medicineslist_listening(selector, idx) {
 
 function step4_tracker() {
     try {
-        pageTracker._trackEvent('Interactive', 'click', 'Medicines eList - Summary page accessed for first time');
+		ga('send', 'event', 'Interactive', 'click', 'Medicines eList - Summary page accessed for first time');
     } catch(err) {	}
 }
 
 function addProfile_tracker() {
 	try {
-        pageTracker._trackEvent('Interactive', 'click', 'Medicines eList - Add profile button clicked');
+		ga('send', 'event', 'Interactive', 'click', 'Medicines eList - Add profile button clicked');
     } catch(err) {	}
 }
 
 function clickPrint_tracker(source) {
 	try {
 		if(source === 'pdf') {
-			pageTracker._trackEvent('Interactive', 'click', 'Medicines eList - Print pdf button clicked');
+			ga('send', 'event', 'Interactive', 'click', 'Medicines eList - Print pdf button clicked');
 		} else if(source === 'html') {
-			pageTracker._trackEvent('Interactive', 'click', 'Medicines eList - Print html button clicked');
+			ga('send', 'event', 'Interactive', 'click', 'Medicines eList - Print html button clicked');
 		}
     } catch(err) {	}
 }
@@ -1046,11 +1401,12 @@ function initiate_poll_listening(thisclass) {
 		var linktext = "Privacy policy | " +  all_links[i].href;
 		try {
 			all_links[i].addEventListener("click", function() {
-				pageTracker._trackEvent('PollQuiz', readable_name[thisclass],  linktext);
+				ga('send', 'event', 'PollQuiz', readable_name[thisclass],  linktext);
 			}, false);
 		} catch(err) {	}
 	}
 }
+
 
 // do the actual initiation
 initiate_listening('page-tools-main');
@@ -1062,16 +1418,32 @@ chart_listening('adverseEvents');
 chart_listening('Medicines-relatedProblems');
 chart_listening('PrescribingCascades');
 chart_listening('InappropriatePrescribing');
+//dipex_listening();
 
 initiate_poll_listening('poll-click');
-//medicineslist_listening('#btn-add-new-profile', 0);  //2nd arg is the index number of the array readable_name in function
-//medicineslist_listening('#summary-actions button.list-action-pdf', 1);
-//medicineslist_listening('#summary-actions button.list-action-print', 2);
-
 </script>
 
 <script src="http://www.nps.org.au/__data/assets/js_file/0009/218439/trackingCode.js"></script>
+<script src="http://www.nps.org.au/__data/assets/js_file/0020/240617/bootstrap.min.js"></script>
+
+<!-- Ben S 14012301 - Third version analytics code. Lets me test the implementation of the second version -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-47400329-1', 'nps.org.au', {'name': 'newTracker'});
+  ga('newTracker.set', 'contentGroup1', '___');
+  ga('newTracker.set', 'contentGroup2', 'NotHPOnly');
+  ga('newTracker.set', 'contentGroup3', '0');
+  ga('newTracker.set', 'dimension1', '00');
+  ga('newTracker.set', 'dimension2', '0');
+  ga('newTracker.set', 'dimension3', '0');
+  ga('newTracker.send', 'pageview');
+</script>
 <!--endnoindex-->
+  <div class="purpleBg"></div>
 
 
 
