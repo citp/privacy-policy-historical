@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thomsonreuters.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231211608id_/http%3A//thomsonreuters.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thomsonreuters.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630045402id_/http%3A//thomsonreuters.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Thomson Reuters
 
@@ -21,7 +21,7 @@ _Cookies/ Web server logs_ : Similar to other commercial Web sites, our Web Site
 You can, of course, disable cookies on your computer by indicating this in the preferences or options menus in your browser. However, it is possible that some parts of our Web Site will not operate correctly if you disable cookies. You should consult with your browser's provider/manufacturer if you have any questions regarding disabling cookies.   
 
 
-_Third Party Services_ :   We may use services hosted by third parties such as Google Analytics, to assist in providing our services and to help us understand how use our websites  is used. These services may collect information sent by a browser as part of a web page request, including IP addresses or cookies. If these third party services collect information, they do so anonymously and in the aggregate to provide information helpful to us such as website trends, without identifying individual visitors. Please see "Cookies" in the section above for information on how you can control the use of cookies on your computer.  
+_Third Party Services_ : We may use services hosted by third parties, such as Google Analytics, to assist in providing our services and to help us understand how use our websites  is used. These services may collect information sent by a browser as part of a web page request, including IP addresses or cookies. If these third party services collect information, they do so anonymously and in the aggregate to provide information helpful to us such as website trends, without identifying individual visitors. Please see "Cookies" in the section above for information on how you can control the use of cookies on your computer.  
 
 
 How Do We Use the Information We Collect? 
