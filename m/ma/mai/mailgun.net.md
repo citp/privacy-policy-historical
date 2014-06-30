@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mailgun.net privacy policy that was archived on 2013-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131117004646id_/http%3A//www.mailgun.com/public/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mailgun.net privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630190737id_/http%3A//www.mailgun.com/privacy) for the most accurate reproduction.*
 
-# Mailgun: Privacy Policy
+# Privacy Policy - Mailgun
 
 This privacy policy applies to your use of the services made available by Mailgun, Inc. (the “Services”), including the Mailgun platform (the “Platform”) and the website at mailgun.com (the “Site”), as of the effective date indicated above. It applies to information we collect before, on and after the effective date. In this document, “we” refers to Mailgun, Inc., and “you” refers to you, the user or customer to whom this policy applies. This policy should be read in conjunction with our [Terms of Service](https://web.archive.org/public/terms).
 
@@ -28,6 +28,7 @@ We use the information we collect about you to provide the Services to you. As p
   * to communicate with you (for example through newsletters, announcements or special offers) about the Services;
   * for billing and collection purposes, if you have subscribed to one of our paid plans; and
   * to help promote compliance with our Terms of Service or any other agreements between us.
+  * for customers that are allocated dedicated IP addresses, to ARIN (American Registry for Internet Numbers), for the purposes of assigning the dedicated IP address to the customer.
 
 
 
@@ -75,7 +76,7 @@ by email:
 
 [support@mailgunhq.com](mailto:support%40mailgunhq.com)
 
-Mailgun has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Mailgun, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](https://web.archive.org/web/20131117004646id_/http%3A//www.mailgun.com/public/www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint. Please note that the BBB EU SAFE HARBOR can not handle all privacy complaints, but only those related to alleged violations of the Safe Harbor Privacy Principles.
+Mailgun has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Mailgun, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](https://web.archive.org/web/20140630190737id_/http%3A//www.mailgun.com/www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint. Please note that the BBB EU SAFE HARBOR can not handle all privacy complaints, but only those related to alleged violations of the Safe Harbor Privacy Principles.
 
 ## 7\. Modification
 
