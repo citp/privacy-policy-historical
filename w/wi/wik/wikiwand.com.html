@@ -1,0 +1,282 @@
+<!--The following is the downloaded HTML source of the wikiwand.com privacy policy that was archived on 2014-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140630234424id_/http%3A//www.wikiwand.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en" ng-app="wikiwand" class="no-js"><!--<![endif]--><head>
+
+	
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
+	<link rel="chrome-webstore-item" href="https://chrome.google.com/webstore/detail/emffkefkbkpkgpdeeooapgaicgmcbolj">
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+
+    
+
+    <script>
+        var genericData = {
+            debug: {
+                pageLoadedTimestamp: (new Date()).getTime()
+            }
+        };
+    </script>
+
+	
+	
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+	
+    
+        <link rel="stylesheet" href="/minified/wikiwand.early.min-5047c4170d9b5bfa94d99e29d44386bb.css" type="text/css" media="screen">
+        <script type="text/javascript" src="/minified/wikiwand.early.min-a82ca4d452ab398696ab5bf0501c3052.js"></script>
+    
+
+    <link href="http://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic|Ubuntu:400,700,400italic,700italic|Open+Sans:400italic,300,700&amp;subset=latin,cyrillic" rel="stylesheet" type="text/css">
+
+
+
+	</head><body class=""><div id="activity-indicator" style="position:fixed;top:50%;left:50%;width:110px;height:110px; margin-left:-55px;margin-top:-55px;background-image:url('/css/img/loader_clap.gif');">
+	</div>
+	<div style="width:100%;min-height:200%;position:relative;"></div>
+	<script>
+		
+			var serverData={"config":{"environment":"production"}};
+		
+		
+	</script>
+	<title>Privacy Policy - WikiWand</title>
+	<meta name="robots" content="index,follow">
+	
+		<meta name="description" content="">
+		
+		<meta property="og:title" content="">
+		<meta property="og:type" content="article">
+		<meta property="og:url" content="">
+		<meta property="og:image" content="">
+		<meta property="og:description" content="">
+		<meta property="og:site_name" content="WikiWand">
+	
+
+    
+
+
+
+<div ng-controller="ShellController" ng-init="initialize()" ng-click="clickedOutside()">
+
+<nav ng-class="{active:tocFloating}" ng-controller="ToolbarController" id="header" class=" wide  unselectable">
+	<ul class="menu" id="main_menu">
+		
+		<li class="article_btn" ng-class="{active:showWikiwandMenu}" ng-click="toggleWikiwandMenu($event)">
+			<!-- menu_tooltip ENDS -->
+			<img class="unselectable" src="/css/img/logo-d091d6db878b372301e5aad84abd9b6a.svg" alt="wikiwand logo">
+			<i></i>
+			<ul class="drop_down" ng-cloak="" ng-show="showWikiwandMenu" ng-click="clickedInside()">
+				<li><a href="/"><i class="home_icon"></i>Home</a></li>
+				<li><a href="/about"><i class="about_icon"></i>About</a></li>
+				<li><a href="https://www.facebook.com/wikiwandapp" target="_blank"><i class="face_icon"></i>Follow on Facebook</a></li>
+				<li><a href="https://twitter.com/wikiwand" target="_blank"><i class="twitter_icon"></i>Follow on Twitter</a></li>
+				<li><a href="https://plus.google.com/+Wikiwand/about" target="_blank"><i class="gplus_icon"></i>Follow on Google+</a></li>
+				
+				<li><a href="/random/en"><i class="random_icon"></i>Random Article</a></li>
+				
+				
+				
+			</ul>
+
+		</li>
+
+		<li class="search_btn" ng-controller="ArticleSearchController" ng-click="searchClicked($event)">
+			<input id="queryinput" class="toolbar-search typeahead" type="text" ng-blur="onMyBlur()" ng-focus="onMyBlur()" placeholder="Search">
+			<div class="search-it op-hover"></div>
+		</li>
+
+		
+
+
+		<li class="share_btn  menu-tooltip" ng-class="{active:showShareMenu}" ng-click="toggleShareMenu($event)" title="Share">
+			<i></i><span class="menu_line"></span>
+			<div class="drop_down menu_share" id="share_drop_down" ng-cloak="" ng-show="showShareMenu" ng-click="clickedInside()">
+				<ul class="share_links">
+					<li class="share-facebook"><a class="hover" href="#" target="_blank"></a></li>
+					<li class="share-twitter"><a class="hover" href="https://twitter.com/share" target="_blank"></a></li>
+					<li class="share-gplus"><a class="hover" href="https://plus.google.com/+Wikiwand/about" target="_blank"></a></li>
+				</ul>
+			</div>
+		</li>
+
+		<li class="feedback_btn menu-tooltip" ng-class="{active:showFeedbackMenu}" ng-click="toggleFeedbackMenu($event)" title="Feedback">
+			<i></i><span class="menu_line"></span>
+			<div class="drop_down" id="feedback_drop_down" ng-cloak="" ng-show="showFeedbackMenu" ng-click="clickedInside()">
+
+			</div>
+		</li>
+
+		<li ng-show="!extensionInstalled" ng-cloak="" class="upgrade_btn menu-tooltip" title="Make Wikipedia look like this in a click" onclick="chromeInstallExtensionClicked();">
+			<span class="upgrade_txt">Upgrade Wikipedia</span><i></i><span class="menu_line"></span>
+		</li>
+
+	</ul>
+	<!--************ loading ************-->
+	<ul id="loader_colors" ng-class="{slide:progressFinished}">
+		<li style="background-color:#40bbe1"></li>
+		<li style="background-color:#cc56a2"></li>
+		<li style="background-color:#fbbb1a"></li>
+		<li style="background-color:#94c16c"></li>
+	</ul>
+	
+</nav>
+
+
+
+<!--************ html5 popup************-->
+<div class="html5-only hide">
+	<p>No HTML5 support... ):<br>Please update to a modern browser &amp; visit <a href="http://wikiwand.com">WikiWand</a> again</p>
+	<ul>
+		<li><a href="https://www.google.com/intl/en/chrome/browser/" target="_blank">CHROME - (optimized)</a></li>
+		<li><a href="http://www.mozilla.org/en-US/firefox/new/" target="_blank">MOZILLA</a></li>
+		<li><a href="http://windows.microsoft.com/en-us/internet-explorer/download-ie" target="_blank">IE 10</a></li>
+	</ul>
+	<div><a href="mailto:info@wikiwand.com" target="_blank">Need any help?</a></div>
+</div>
+<!--************ html5 popup ENDS************-->
+
+
+<!--************ wikiwand_wrapper ************-->
+<div id="wrapper">
+	<!--************ TOC  ************-->
+	
+	<!--************ content  ************-->
+	<div id="content" ng-class="{active:tocFloating}" class=" wide  small_image">
+
+
+		
+
+		<!--************ main_image ************-->
+		<section id="main_image" ng-controller="CoverImageController">
+			
+				<section class="title_wrapper no_gradient">
+					<h1 id="firstHeading">Privacy Policy</h1>
+					<h2></h2>
+				</section>
+			
+			<div ng-class="{hide: articleContentReadyNow }" class="article_loader"></div>
+		</section>
+		<!--************ main_image ENDS ************-->
+		
+
+
+
+
+		
+
+
+<article id="article_content_wrapper" class="loaded">
+	<section class="article_content">
+
+	        
+
+	<p>Our Privacy Policy was last updated and posted on March 26, 2014. It governs the privacy terms of our Website, located at wikiwand.com. Any capitalized terms not defined in our Privacy Policy, have the meaning as specified in our Terms of Service.</p>
+
+	<p><strong>Your Privacy</strong><br>WikiWand follows all legal requirements to protect your privacy. Our Privacy Policy is a legal statement that explains how we may collect information from you, how we may share your information, and how you can limit our sharing of your information. You will see terms in our Privacy Policy that are capitalized. These terms have meanings as described in the Definitions section below.</p>
+
+	<p><strong>Definitions</strong><br>"Non Personal Information" is information that is not personally identifiable to you and that we automatically collect when you access our Website with a web browser. It may also include publicly available information that is shared between you and others.</p>
+	<p>"Personally Identifiable Information" is non-public information that is personally identifiable to you and obtained in order for us to improve your experience within the Website. Personally Identifiable Information may include information such as your name, email address, and other related information that you provide to us or that we obtain about you.</p>
+
+	<p><strong>Information We Collect</strong><br>Generally, you control the amount and type of information you provide to us when using our Website.</p>
+	<p>As a Visitor, you can browse our website to find out more about our Website. You are not required to provide us with any Personally Identifiable Information as a Visitor.</p>
+
+	<p><strong>Computer Information Collected</strong><br>When you use our Website, we automatically collect certain computer information by the interaction of your mobile phone or web browser with our Website. Such information is typically considered Non Personal Information. We also collect the following:</p>
+	<ul>
+		<li>
+			<p><strong>Cookies</strong><br>Our Website uses "Cookies" to identify the areas of our Website that you have visited. A Cookie is a small piece of data stored on your computer or mobile device by your web browser. We use Cookies to personalize the Content that you see on our Website. Most web browsers can be set to disable the use of Cookies. However, if you disable Cookies, you may not be able to access functionality on our Website correctly or at all. We never place Personally Identifiable Information in Cookies.</p>
+		</li>
+		<li>
+			<p><strong>Automatic Information</strong><br>We automatically receive information from your web browser or mobile device. This information may include the name of the website from which you entered our Website, if any, as well as the name of the website to which you're headed when you leave our website. This information also includes the IP address of your computer/proxy server that you use to access the Internet, your Internet Website provider name, web browser type, type of mobile device, and computer operating system. We use all of this information to analyze trends among our Users to help improve our Website.</p>
+		</li>
+	</ul>
+
+	<p><strong>How We Use Your Information</strong><br>We use the information we collect or receive from you as follows:</p>
+	<ul>
+		<li>
+			<p><strong>Customizing Our Website</strong><br>We may use the Personally Identifiable information you provide to us along with any computer information we receive to customize our Website.</p>
+		</li>
+		<li>
+			<p><strong>Sharing Information with Affiliates and Other Third Parties</strong><br>We do not sell, rent, or otherwise provide your Personally Identifiable Information to third parties for marketing purposes. We may provide your Personally Identifiable Information to affiliates that provide services to us with regards to our Website (i.e. payment processors, Website hosting companies, etc.); such affiliates will only receive information necessary to provide the respective services and will be bound by confidentiality agreements limiting the use of such information.</p>
+		</li>
+		<li>
+			<p><strong>Data Aggregation</strong><br>We retain the right to collect and use any Non Personal Information collected from your use of our Website and aggregate such data for internal analytics that improve our Website and Service as well as for use or resale to others. At no time is your Personally Identifiable Information included in such data aggregations.</p>
+		</li>
+		<li>
+			<p><strong>Legally Required Releases of Information</strong><br>We may be legally required to disclose your Personally Identifiable Information, if such disclosure is (a) required by subpoena, law, or other legal process; (b) necessary to assist law enforcement officials or government enforcement agencies; (c) necessary to investigate violations of or otherwise enforce our Legal Terms; (d) necessary to protect us from legal action or claims from third parties including you and/or other Members; and/or (e) necessary to protect the legal rights, personal/real property, or personal safety of WikiWand, our Users, employees, and affiliates.</p>
+		</li>
+	</ul>
+
+	<p><strong>Links to Other Websites</strong><br>Our Website may contain links to other websites that are not under our direct control. These websites may have their own policies regarding privacy. We have no control of or responsibility for linked websites and provide these links solely for the convenience and information of our visitors. You access such linked Websites at your own risk. These websites are not subject to this Privacy Policy. You should check the privacy policies, if any, of those individual websites to see how the operators of those third-party websites will utilize your personal information. In addition, these websites may contain a link to Websites of our affiliates. The websites of our affiliates are not subject to this Privacy Policy, and you should check their individual privacy policies to see how the operators of such websites may utilize your personal information.</p>
+
+	<p><strong>Privacy Policy Updates</strong><br>We reserve the right to modify this Privacy Policy from time to time. You should review this Privacy Policy frequently. If we make material changes to this policy, we may notify you on our Website, by a blog post, by email, or by any method we determine. The method we choose is at our sole discretion. We will also change the "Last Updated" date at the beginning of this Privacy Policy. Any changes we make to our Privacy Policy are effective as of this Last Updated date and replace any prior Privacy Policies.</p>
+
+	<p><strong>Questions About Our Privacy Practices or This Privacy Policy</strong><br>If you have any questions about our Privacy Practices or this Policy, please contact us.</p>
+
+	<p>Published with permission from TermsFeed.com</p>
+
+
+
+
+	</section>
+</article>
+
+
+
+
+		
+		<!--************ wikiwand_footer ************-->
+		<footer class="wikiwand_footer">
+
+			<div class="footer_icon"></div>
+
+			
+			<div class="h2">Enjoying WikiWand?</div>
+			<div ng-show="!extensionInstalled" ng-cloak="" class="h3">Give good old Wikipedia a great new look:</div>
+			<button ng-show="!extensionInstalled" ng-cloak="" onclick="chromeInstallExtensionClicked();">Upgrade Wikipedia</button>
+			<div ng-show="extensionInstalled" ng-cloak="" class="h3">Please support us by writing a short review:</div>
+			<a ng-show="extensionInstalled" ng-cloak="" href="https://chrome.google.com/webstore/detail/better-wikipedia/emffkefkbkpkgpdeeooapgaicgmcbolj" target="_blank" class="footer_rate_us hover"></a>
+			
+
+			<ul class="social_links">
+				<li class="facebook"><a class="hover" href="https://www.facebook.com/wikiwandapp" target="_blank"></a></li>
+				<li class="twitter"><a class="hover" href="https://twitter.com/wikiwand" target="_blank"></a></li>
+				<li class="gplus"><a class="hover" href="https://plus.google.com/+Wikiwand/about" target="_blank"></a></li>
+				<li class="linkedin"><a class="hover" href="http://www.linkedin.com/company/wikiwand" target="_blank"></a></li>
+			</ul>
+
+			<ul class="footer_links">
+				<li><a href="/">Homepage</a></li>
+				<li><a href="/about">About</a></li>
+				<li><a href="/sitemap">Site Map</a></li>
+				<li><a href="/terms">Terms Of Service</a></li>
+				<li><a href="/privacy">Privacy Policy</a></li>
+			</ul>
+		</footer>
+		<!--************ wikiwand_footer ENDS ************-->
+
+		<div id="toc_swipe" class="hide" ng-class="{active:tocFloating}" ng-click="tocFold()" ng-swipe-left="tocFold('swipeLeft')" ng-swipe-right="tocFold('swipeRight')"></div>
+
+	</div>
+	<!--************ content ENDS ************-->
+	
+
+    <div id="audio_player" class="unselectable"><i class="unselectable"></i><div class="unselectable"></div><span class="listen hide">Listen to this article</span></div>
+</div>
+<!--************ wikiwand_wrapper ENDS************-->
+
+
+
+
+
+
+
+
+</div>
+
+
+
+
+</body></html>
