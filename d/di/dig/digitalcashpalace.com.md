@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalcashpalace.com privacy policy that was archived on 2013-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131221003132id_/http%3A//www.digitalcashpalace.com/about/terms-conditions) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalcashpalace.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630023356id_/http%3A//www.digitalcashpalace.com/about/terms-conditions) for the most accurate reproduction.*
 
 # Terms & Conditions - Forex Brokers Portal
 
@@ -46,7 +46,7 @@ We reserve the right to update this policy in other to adapt it to new legal req
 
 **1\. Use of the site**
 
-DigitalCashPalace.Com is a free resource about [Forex Brokers](http://www.digitalcashpalace.com/forex-brokers-comparison/ "Forex Brokers") with information about Brokers and service that brokers provide, [Forex Bonus](http://www.digitalcashpalace.com/promotions/ "Forex Bonus"), [Forex contests](http://www.digitalcashpalace.com/brokers-contests/ "Forex Contests"), Press, includes [Forex forum](http://www.digitalcashpalace.com/forum/ "Forex Forum"). Information and users reviews are for information reference only.
+DigitalCashPalace.Com is a free resource about [Forex Brokers](http://www.digitalcashpalace.com/forex-brokers-comparison/ "Forex Brokers") with information about Brokers and service that brokers provide, [Forex Bonus](http://www.digitalcashpalace.com/forex-bonus/ "Forex Bonus"), [Forex contests](http://www.digitalcashpalace.com/forex-contest/ "Forex Contests"), Press, includes [Forex forum](http://www.digitalcashpalace.com/forum/ "Forex Forum"). Information and users reviews are for information reference only.
 
 **2\. Liability**
 
