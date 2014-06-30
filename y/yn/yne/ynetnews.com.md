@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ynetnews.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231214957id_/http%3A//www.ynetnews.com/home/1%2C7340%2CL-3126%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ynetnews.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630062827id_/http%3A//www.ynetnews.com/home/1%2C7340%2CL-3126%2C00.html) for the most accurate reproduction.*
 
 # Privacy Policy - Israel Homepage, Ynetnews
 
