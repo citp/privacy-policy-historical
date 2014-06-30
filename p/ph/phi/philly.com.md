@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the philly.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231215230id_/http%3A//www.philly.com/philly/about/terms_of_use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the philly.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630202430id_/http%3A//www.philly.com/philly/about/terms_of_use) for the most accurate reproduction.*
 
 # Privacy Policy & Terms of Use - philly.com
 
 Go to Terms of Use 
+
+Go to Commenting Policy 
 
 **Privacy Policy**
 
@@ -10,7 +12,7 @@ Effective October 2, 2007
 
 This Philadelphia Media Network, Inc. site, Philly.com, is covered by the policies herein. This privacy statement covers Philly.com.
 
-Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. If you have questions or concerns regarding this statement, you should contact Philadelphia Media Network, Inc. at: [Philadelphia Media Network, Inc. Feedback ](https://web.archive.org/web/20131231215230id_/http://www.philly.com/philly/about/terms_of_use/philly/about/feedback/).
+Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. If you have questions or concerns regarding this statement, you should contact Philadelphia Media Network, Inc. at: [Philadelphia Media Network, Inc. Feedback ](https://web.archive.org/philly/about/feedback/).
 
 This privacy statement covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site.
 
@@ -28,7 +30,7 @@ Our main goal is to provide you with a customized and more relevant experience o
 
 We use a third party to serve ads when you visit our site. This third party ad server may use certain information about your visit to our site in order to provide advertisements about goods and services that may be of interest to you, but they are not allowed to collect or use personally identifiable information about you for their own purposes.
 
-All credit card information is transmitted in an encrypted form, using SSL (secure socket layer) encryption, the industry-standard. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. Philadelphia Media Network, Inc. assumes no liability for disclosure of data due to errors in transmission or unauthorized third parties. If you have any questions about security on our Web site, you can contact us at: [Philadelphia Media Network, Inc. Feedback ](https://web.archive.org/web/20131231215230id_/http://www.philly.com/philly/about/terms_of_use/philly/about/feedback/)
+All credit card information is transmitted in an encrypted form, using SSL (secure socket layer) encryption, the industry-standard. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. Philadelphia Media Network, Inc. assumes no liability for disclosure of data due to errors in transmission or unauthorized third parties. If you have any questions about security on our Web site, you can contact us at: [Philadelphia Media Network, Inc. Feedback ](https://web.archive.org/philly/about/feedback/)
 
 The email address provided by you at registration, or as updated, may be used by Philadelphia Media Network, Inc. and its affiliated entities, including Philadelphia Media Network, Inc., to contact you for any reason, including: (1) Your account status (including an email confirmation of registration), (2) Major changes to the Web site, the Terms of Use and Privacy Policy, (3) Participation in user surveys, asking for feedback on the Web site and (4) notifying you of existing or prospective products and services offered by us or our advertisers and partners. This information helps us to improve our Web site. The information provided by you at registration may be used by Philadelphia Media Network, Inc. and its affiliated entities, to contact you with special offers and promotions.
 
@@ -74,7 +76,7 @@ Third-party advertising companies may be used to serve ads when you visit philly
 
 **PRIVACY PROTECTION FOR CHILDREN.** In compliance with the Children's Online Privacy Protection Act (COPPA), we will not knowingly provide access to Philadelphia Media Network, Inc. sites to persons under the age of thirteen (13). If Philadelphia Media Network, Inc. later learns that any registered user is under the age of thirteen (13), we will take appropriate steps to remove the member's information from the database and we will restrict this individual from future access to Philadelphia Media Network, Inc. sites. We feel strongly about protecting the privacy of children. We encourage kids to involve their parents in any interactive activity they participate in online. Except where otherwise disclosed, we will not collect or use any personal information from children we know to be under the age of thirteen without obtaining express parental consent. All general information collected from users under the age of thirteen is used only for aggregate statistical analysis.
 
-**Acceptance of Privacy Policy.** By using Philadelphia Media Network, Inc. sites and services, you signify your acceptance of this Privacy Statement. If you do not agree or are not comfortable with any policy described in this Privacy statement, your only remedy is to discontinue use of Philadelphia Media Network, Inc. sites. We reserve the right, to modify this Privacy Statement at any time. If we materially change how we use your personal information we will notify you either by email or through a prominent notice on the web site. Your continued use of any portion of Philadelphia Media Network, Inc. sites following notification or posting of such changes, will constitute your accept of those changes. Questions or concerns about our specific policies, please contact us through our feedback form at: [Philadelphia Media Network, Inc. Feedback ](https://web.archive.org/web/20131231215230id_/http://www.philly.com/philly/about/terms_of_use/philly/about/feedback/).
+**Acceptance of Privacy Policy.** By using Philadelphia Media Network, Inc. sites and services, you signify your acceptance of this Privacy Statement. If you do not agree or are not comfortable with any policy described in this Privacy statement, your only remedy is to discontinue use of Philadelphia Media Network, Inc. sites. We reserve the right, to modify this Privacy Statement at any time. If we materially change how we use your personal information we will notify you either by email or through a prominent notice on the web site. Your continued use of any portion of Philadelphia Media Network, Inc. sites following notification or posting of such changes, will constitute your accept of those changes. Questions or concerns about our specific policies, please contact us through our feedback form at: [Philadelphia Media Network, Inc. Feedback ](https://web.archive.org/philly/about/feedback/).
 
 **Want more information? Check out these helpful links...**
 
@@ -105,3 +107,13 @@ We welcome you to our site. We ask that you review these Terms of Use, which are
 **6\. Modifications/Termination.** The terms of this agreement will not be modified on an individual basis. You agree that we may modify the terms of this Agreement (or discontinue this site) in our sole discretion, without advance notice, and that your right to access this site is conditioned on an ongoing basis with your compliance with the then-current version of these Terms and Conditions. You should therefore visit this page frequently.
 
 **7\. Jurisdiction.** This Web site is hosted on servers located in the United States and is intended to be viewed by residents of the United States. In the event of any dispute arising out of or relating to this site, you agree that the exclusive venue for litigating disputes shall be in state or federal court in Philadelphia, Pennsylvania.
+
+* * *
+
+**Commenting Policy**
+
+Philly.com comments are intended to be civil, friendly conversations. Please treat other participants with respect and in a way that you would want to be treated. You are responsible for what you say. And please, stay on topic. If you see an objectionable post, please report it to us using the “Report Abuse” option. 
+
+Please note that comments are monitored by Philly.com staff. We reserve the right at all times to remove any information or materials that are unlawful, threatening, abusive, libelous, defamatory, obscene, vulgar, pornographic, profane, indecent or otherwise objectionable. Personal attacks, especially on other participants, are not permitted. We reserve the right to permanently block any user who violates these terms and conditions.
+
+Additionally comments that are long, have multiple paragraph breaks, include code, or include hyperlinks may not be posted.
