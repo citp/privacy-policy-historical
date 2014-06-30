@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the metlinkmelbourne.com.au privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219214945id_/http%3A//ptv.vic.gov.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metlinkmelbourne.com.au privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630060728id_/http%3A//ptv.vic.gov.au/privacy) for the most accurate reproduction.*
 
 # Privacy - Public Transport Victoria
 
 Public Transport Victoria (PTV) will collect, use, store and disclose personal information and health information in accordance with Information Privacy Principles (IPPs) set out in the Information Privacy Act 2000 (Vic) and the Health Privacy Principles (HPPs) and the Health Records Act 2001 (Vic).
 
-This policy outlines how PTV manages Personal Information and Health Information, and is designed to assist people to understand how Personal Information and Health Information is managed by PTV.
+This policy outlines how PTV manages Personal Information and Health Information, and is designed to assist people to understand how Personal Information and Health Information is managed by PTV
 
 Information is also provided about how people can seek assurance that their Personal Information and/or Health Information is maintained in accordance with the Information Privacy Act 2000 and the Health Records Act 2001.
 
@@ -123,7 +123,7 @@ PTV will not:
 
 The following information refers to privacy and myki. Most cardholders may choose whether they want to register their myki. Find out the benefits of [registering your myki](http://ptv.vic.gov.au/tickets/myki/registering-your-myki/).
 
-The full myki Privacy Policy can be found [here](http://www.ptv.vic.gov.au/assets/PDFs/myki-Privacy-Policy-May-2013-updated.pdf "Download the full myki Privacy Policy").
+The full myki Privacy Policy can be found [here](http://ptv.vic.gov.au/assets/PDFs/myki-Privacy-Policy-May-2013-updated.pdf "Download the full myki Privacy Policy").
 
 ### **Personal information will be collected if you choose to do any of the following things:**
 
