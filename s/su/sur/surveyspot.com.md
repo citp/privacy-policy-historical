@@ -1,213 +1,452 @@
-> *The following text is extracted and transformed from the surveyspot.com privacy policy that was archived on 2013-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130805091727id_/http%3A//www.surveyspot.com/en/General/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveyspot.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630122319id_/https%3A//www.surveyspot.com/en/policies/privacy) for the most accurate reproduction.*
 
 # 
 
-  1. Commitment; Applicability
-  2. Types of Information Collected; Collection Process; Data Storage
-  3. Tell-A-Friend
-  4. Uses of Personal Informations
-  5. Onward Transfers and Disclosures of Personal Information; Collection of Personal Information by Clients
-  6. Data Security
-  7. Cookies; Online Ad Exposure Programs; Log Files; Clear GIFs
-  8. Digital Fingerprinting; Data Validation
-  9. Children’s Privacy Protection
-  10. Third Party Links
-  11. Rights Pertaining to Personal Information
-  12. Enforcement; Safe Harbor Dispute Resolution
-  13. Agreement to Privacy Policy; Changes to Privacy Policy
+**Effective: August 15th, 2013**
 
+**Last Updated:  May 14th, 2014**
 
+  1. 1\. Information You Submit
+  2. 2\. Information Collected Through Automated Means
+  3. 3\. Information collected from Third Parties
+  4. 4\. SSI's Use of Information
 
-## 1. ****Commitment; Applicability****
 
-Survey Sampling International, LLC (“ **SSI** ”) is a global provider of sampling solutions for survey research, providing clients with access to consumer and business-to-business respondents via internet, telephone (both fixed/landline and wireless/mobile), postal, and multi-mode methodologies. SSI also offers value-added services including data processing, data collection, offline data analysis, consulting, programming and hosting services. SSI serves a vast array of for-profit and not-for profit businesses, universities, and governmental agencies and departments. 
 
-In addition to SSI’s commitment to provide the highest standard of actionable marketing intelligence, SSI is committed to protecting the privacy and security of all Personal Information (as defined herein) collected or received by SSI. SSI strives to conform its privacy practices with applicable international, national, Federal, state and/or local laws, codes, and regulations; and the industry codes, standards, rules, and regulations of various market and opinion research professional associations, including, without limitation, the ICC/ESOMAR International Code on Market and Social Research and the Code of Standards and Ethics for Survey Research of the Council of American Survey Research Organizations, with whom SSI is a member (collectively " **Applicable Laws and Codes** "). Panel membership and/or participation in any survey or study offered, provided, hosted, or administered by SSI (individually a “ **Survey** ” and collectively “ **Surveys** ”) is completely voluntary. All references to SSI in this Privacy Policy include SSI’s parents, subsidiaries and affiliates.
+Survey Sampling International, LLC and its parent, subsidiary and affiliated companies (collectively “SSI”) provide sampling solutions and technology for survey research, providing clients with access to consumer and business-to-business respondents via internet, telephone (both fixed/landline and wireless/mobile), postal and multi-mode methodologies. SSI serves a vast array of for-profit and not-for profit businesses, universities and governmental agencies and departments. This Privacy Policy sets forth the collection, use and disclosure of personal data or personally identifiable information (“PII”) and other information by SSI in connection with SSI’s Services (as defined herein). SSI’s Services provide you with the opportunity to join a Panel (as defined herein), participate in surveys (whether as a Panel member or a non-Panel member), use the websites associated with the Panels, and receive and redeem rewards and incentives, including, without limitation, sweepstakes entries, offered in connection with Panel membership and/or the completion of surveys (collectively “Services”). Registration with, use of, and access to SSI’s Services is subject to [SSI’s Terms and Conditions](http://opinionworld.com/en/policies/terms/general).  Your use of SSI’s Services is completely voluntary and therefore SSI’s processing of your PII in connection with the Services and this Privacy Policy is with your consent. SSI strives to conform its privacy practices to applicable laws, codes, and regulations, and the codes of standards of applicable market and opinion survey research associations, including, without limitation, CASRO and ESOMAR. For clarification, except for Panels that have a separate privacy policy, this Privacy Policy applies to all of SSI’s survey research panels, including, without limitation, SurveySpot, Opinion Outpost, OpinionWorld, Choozz and YourVoice (each a “Panel” and collectively the “Panels”). All references in this Privacy Policy to SSI include SSI and its parent, subsidiary and affiliated companies. All references to “us” or “we” refer to SSI. 
 
-SSI complies with the United States (“ **US** ”) - European Union (“ **EU** ”) Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal data from EU member countries. SSI has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement. To learn more about the Safe Harbor program, and to view SSI’s certification page, please visit <http://www.export.gov/safeharbor/>.
+All PII is stored on servers located in the United States, which servers are owned and maintained by SSI. SSI complies with the United States (“US”) - European Union (“EU”) and US – Swiss Safe Harbor Frameworks as set forth by the US Department of Commerce regarding the collection, use and retention of personal data from EU member countries and Switzerland. SSI has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement. To learn more about the Safe Harbor program, and to view SSI’s certification page, please visit http://www.export.gov/safeharbor/.
 
-**This Privacy Policy applies to** : 
+For the purpose of this Privacy Policy, the term “PII” shall include, without limitation, your name, address(es), telephone number(s) (including home, cell, and/or business telephone numbers), email address(es), date of birth, the unique identification number we assign to you (individually a “UID” and collectively “UIDs”)”), reward, loyalty, or incentive account numbers and Sensitive Data (as defined herein).
 
-  * Members of SSI’s panels and subpanels, including, without limitation, SurveySpot Research Panel, Opinion Outpost Panel, OpinionWorld Research Panel, Choozz Research Panel, and Your Voice Research Panel (individually each a “ **Panel** ” and collectively “ **Panels** ”); 
-  * Non-Panel members participating in Surveys; and 
-  * Any individual who discloses or provides Personal Information to SSI (except for Personal Information disclosed or provided in connection with <http://www.surveysampling.com/>). 
+What information is collected by SSI, how is PII collected, and how is it used?
 
+## 1. ****Information You Submit****
 
+SSI collects information from Panel members during and after registration with a Panel, including, without limitation, during participation in a survey and in connection with the receipt and redemption of rewards and incentives. When you sign up for a Panel you will be asked to provide certain PII and demographic information, including, without limitation, your name, address(es), telephone number(s) (including home, cell, and/or business telephone numbers), email address(es), date of birth, and occupation/education, and racial and gender information. In addition to the collection of PII mentioned above, during and subsequent to the registration process, you may be asked to voluntarily provide or disclose Sensitive Data. **“Sensitive Data”** means PII that discloses or reveals health and medical conditions, sexual orientation or sexual life, political opinions/views, race/ethnic origin, religious and philosophical beliefs and trade-union membership. Sensitive Data is used to target survey opportunities to you. By way of clarification, by voluntarily disclosing Sensitive Data to SSI you expressly consent to the transfer of Sensitive Data by SSI to the United States for storage and processing.
 
-top
+SSI collects PII and demographic information from non-Panel members prior to and during participation in a survey.
 
-## 2. **Types of Information Collected; Collection Process; Data Storage** ****
+You may submit, upload or transmit content or material, including, without limitation, photos, videos and/or any other similar or related content or material (“User Content”). If you submit User Content in connection with SSI’s Services, the User Content may become publicly available and may be shared with third parties including, without limitation, SSI’s clients, clients of SSI’s clients and third party service providers. User Content should only include audio, video, images, or the likeness of the individual submitting the User Content and should not contain copyrighted or trademarked content or material of any third party. User Content should not include audio, video, images, or the likeness of anyone other than the user and should not contain any PII of or about anyone other than the user.
 
-For the purpose of this Privacy Policy: (i) " **Personal Information** " means any information identifiable with you, including, without limitation, first and last name, residential address, email address, telephone number(s) (home and/or cell), and date of birth; (ii) “ **Demographic Information** ” includes, without limitation, marital status, income range, ethnicity, employment status, hobbies, interests and product ownership; (iii) “ **Survey Data** ” means responses to survey questions; and (iv) “ **Information** ” means Personal Information, Demographic Information and Survey Data. 
+## 2. **Information Collected Through Automated Means.** ****
 
-SSI collects Information through fair and lawful means. 
+SSI may also collect certain information automatically, such as information about: (i) your device or computer and its capabilities, including, without limitation, the operating system, the applications or programs on your device or computer, IP address, device carrier, device type, time zone, network status, browser type, browser identifier, unique device identification number, carrier user ID (a number uniquely allocated to you by your network provider), media access control address, international mobile equipment identity, locale and other information that alone or in combination may be used to uniquely identify your device or computer; and (ii) your activities in connection with SSI’s Services, including, without limitation, survey data and responses, and reward, incentive, and/or sweepstakes information.  Specific examples of this information, and the technology that collects it, are below:
 
-SSI collects Personal Information and Demographic Information from Panel members during and after registration for membership with a Panel. The collection of Personal Information and Demographic Information after registration for membership with a Panel occurs in various ways, including, without limitation, during participation in a Survey. The disclosure of Information by Panel members is voluntary. 
+Social Media Information. You may be offered the opportunity to access SSI’s Services through third party social media platforms. If you select such option, SSI may collect certain profile information stored in your social media platform account.
 
-SSI collects Personal Information and Demographic Information from non-Panel members prior to and during participation in a Survey. The disclosure of Information by non-Panel members is voluntary. SSI retains Personal Information collected by SSI from non-Panel members to fulfill incentives and rewards and to improve user experience. 
+Cookies.
 
-SSI may obtain Personal Information and Demographic Information of prospective Survey respondents or Panel members from vendors or partners. Prior to obtaining Personal Information from a vendor or partner, SSI requires written assurances that: (i) the data subjects have consented to have their Personal Information listed or compiled by the vendor or partner; and (ii) the vendor or partner has the right to disclose the Personal Information to SSI and to allow SSI to use the Personal Information for the specific purpose(s) for which it was disclosed by the vendor or partner.   
+_SSI’s Use of Cookies Generally._
 
-SSI engages third parties to recruit individuals for Survey participation and for joining a Panel. Recruitment includes, without limitation, the third party placing banner ads or links on its website(s) and/or the website(s) of its affiliate(s). The banner ads or links provide an individual with the opportunity to join a Panel and/or participate in a Survey. The collection of Personal Information by such a third party does not constitute collection by SSI and this Privacy Policy does not cover such collection. This Privacy Policy applies to Personal Information only when SSI actually receives or collects the Personal Information.
+Cookies are small files that store certain data on a device or computer. SSI may use session and persistent cookies for several purposes including, without limitation, to provide a better survey experience, quality control, validation, to enable or facilitate survey participation, tracking of completed surveys or other completed actions, and for fraud detection and/or prevention. Session cookies expire when you close your browser. Persistent cookies remain on your device or computer indefinitely until deleted.   
 
-SSI may collect the Internet Protocol Address (the " **IP Address** ") that is publicly available on your computer. The IP Address is not collected for the purpose of tracking or monitoring online activity. SSI collects, uses, maintains, secures, and discloses IP Addresses in accordance with Applicable Laws and Codes.
+_Use of Cookies by Subcontractors Generally._
 
-Survey Data is collected from Panel members and non-Panel members during Survey participation. 
+SSI uses third parties to provide services and certain functionality to SSI, including, without limitation, fraud detection services. SSI uses contracts with such third parties to control their use of cookies and to limit their use of cookies to the limited purposes set forth in the contracts.
 
-**All Information collected or received by SSI is stored in the US. By joining a Panel, participating in a Survey, or otherwise disclosing Information to SSI, you hereby explicitly consent to SSI’s collection and storage of your Information in the US.**
+_SSI’s Online Ad Effectiveness Program._
 
-top
+In connection with SSI’s online ad effectiveness program, you can participate in surveys regarding specific ads and promotions that SSI is testing for its clients. To facilitate the completion of these surveys, SSI’s clients may write, set, or read cookies, locally shared/stored objects, flash cookies and/or any other related technology (each a “ **Third Party Technology** ” and collectively the “ **Third Party Technologies** ”). The Third Party Technologies may be written, set or read in various locations, including, without limitation, SSI’s servers or systems. If you participate, your UID will be stored in or associated with the Third Party Technology to allow you to be re-contacted about the online ad or promotion and SSI’s client will use the Third Party Technology to determine whether you have seen, clicked on, or otherwise interacted with the online ad or promotion. If you have interacted with the online ad or promotion, SSI’s client will send your UID and the specific survey to SSI and SSI will provide you with the opportunity to complete the survey. Additionally, if you participate, SSI may share your UID and data previously collected by SSI, including, without limitation, age, gender, income, number of people in your household, education/education level, and employment status, (“ **Audience Measurement Data** ”), to third parties, including, without limitation, SSI’s subcontractors, partners, and/or clients for the purpose of audience measurement reporting on the advertisements, campaigns, and websites that you visit, view, and/or click on. The Audience Measurement Data will be used to assist in the creation, development, and implementation of websites, online advertisements, and other Internet and digital media features, functionality, and campaigns. Audience Measurement Data may be shared in a single summary form (i.e. individual respondent level) or aggregate summary form (i.e. group of respondents).
 
-## 3. Tell-A-Friend ****
+**If you live outside of the EU and you have not previously agreed to participate in the Online Ad Effectiveness Program, as of the Effective Date of this Privacy Policy, you hereby consent to participate.  If you wish to opt-out, please follow the opt-out process and procedures here.**
 
-Where applicable and if you choose to use SSI’s Tell-A-Friend referral program, you will need to provide the first and last name and email address for your friend. SSI will send a one-time email inviting your friend to join a Panel. By using SSI’s Tell-A-Friend referral program, you acknowledge and agree you have the right and permission to disclose your friend’s Personal Information to SSI and you are initiating the email invitation to your friend voluntarily. 
+_Cookie Notice:_ SSI values your privacy. Below please find a list of the cookies set or deployed by SSI and/or its partners, clients, and/or subcontractors in connection with the Services. For certain cookies no opt-out mechanism is provided. For the cookies with an opt-out mechanism, you can opt-out by clicking on the link provided below or by going to the appropriate website and following the opt-out instructions.
 
-Your friend may request the removal of the friend’s Personal Information from SSI’s database by: (i) clicking on the unsubscribe link contained in the email from SSI to the friend; or (ii) contacting SSI in accordance with Section 12.A. of this Privacy Policy. Any written removal request should include the friend’s first and last name, email address, and the words “remove me.”
+** A.**    **Essential Cookies:  **
 
-top
+Name:
 
-## 4. ****Uses of Personal Information****
+| 
 
-SSI does not use Information for direct marketing or advertising purposes. All Information collected by SSI is collected in furtherance of, or in connection with, legitimate market research. SSI does not collect any Information under the guise of research for any non-research purpose. 
+Purpose
 
-Generally, SSI uses Personal Information and Demographic Information: (i) to communicate with you regarding Panel membership and/or Survey participation; (ii) to tailor Survey opportunities to you; (iii) to send you Survey opportunities; (iv) to comply with legal obligations, including, without limitation, complying with taxation requirements; (v) to administer and manage SSI’s incentive programs and fulfill your requests for incentives; (vi) to facilitate your entry into SSI’s sweepstakes and communicate with you regarding sweepstakes entries; (vii) to update SSI’s records; (viii) to comply with any data suppression obligations or requirements; and (ix) as otherwise permitted pursuant to this Privacy Policy or as otherwise authorized by you. 
+| 
 
-SSI may contact you to participate in surveys in one of several ways, including, without limitation, email survey invitations, “push” notifications or SMS text messages, or via telephone. By disclosing your email address you hereby expressly consent to receive email communications, including, without limitation, Survey invitations, promotion or incentive information, and notices required hereunder, from SSI and/or any Subcontractor (as defined herein). SSI does not send unsolicited commercial emails. SSI will only contact you for Survey participation via “push” notifications or SMS text messages and/or via telephone if you expressly agree to receive such communication(s).   
+Consent  
+  
+---|---|---  
+  
+flch
 
-Survey Data is used for legitimate scientifically based market research purposes. Survey Data helps organizations research opinions and attitudes about products and services. Generally, SSI provides Survey Data to clients in aggregate form, which does not permit the client or any other party or person to identify individual respondents.
+| 
 
-SSI may disclose Demographic Information to third parties in either single or aggregate summary form. Singular summary includes providing Demographic Information about a person to a third party without specifically identifying the person to the third party. For example, this summary does not contain personal information such as a name or e-mail address, nor does the combination of Demographic Information make it possible to identify the person. Aggregate summary includes providing Demographic Information about a group of persons without specifically identifying any person within the group. 
+Nebu DubInterviewer Session Cookie
 
-Certain Panel websites allow Panel members to access Facebook Connect to interact with friends and to share their recent activity on Facebook through various Facebook features including, without limitation, walls and news feeds. If you are logged into both a Panel Website and Facebook when you click the “Connect with Facebook” button, you will be prompted to merge your user profiles. If you are already logged into a Panel Website but are not logged into Facebook when you click the “Connect with Facebook” button you will be prompted to enter your Facebook login information or to “Sign up for Facebook." By proceeding, you are allowing SSI to access your information and you are agreeing to the Facebook Terms of Use in connection with your use Panel websites.
+| 
 
-If you attempt to access a Panel Website by clicking the “Sign in Using Facebook” button and you are not currently a member of a Panel, you will first be asked to enter your Facebook login details and will be given the option to register and join the applicable Panel. Once you are registered with the Panel and connect with Facebook, you will be able to automatically post your recent activity using Facebook’s features. You can edit privacy settings for the reviews that appear on Facebook or disconnect this service by visiting the Facebook Application Settings page.
+no opt-out provided  
+  
+flv
 
-top
+| 
 
-## 5. ****Onward Transfers and Disclosures of Personal Information; Collection of Personal Information by Clients****
+Nebu DubInterviewer Session Cookie
 
-SSI shall not transfer or disclose Personal Information to any third party without the prior written consent of the data subject, except as follows:
+| 
 
-(i)     As required pursuant to Applicable Laws and Codes; or a valid court or governmental order or subpoena.
+no opt-out provided  
+  
+flvsn
 
-(ii)    To protect the safety of an individual or to protect SSI’s rights and/or property. 
+| 
 
-(iii)   Between various Panels if an individual signs up for more than one Panel.
+Nebu DubInterviewer Session Cookie
 
-(iv)   To a parent, subsidiary, or affiliate of SSI: (1) in the event of a reorganization or restructuring, or (2) for use and processing in accordance with this Privacy Policy or as authorized by you. 
+| 
 
-(v)    To authorized agents, consultants, vendors, and subcontractors of SSI, and/or of SSI’s clients, who are providing services to SSI and/or SSI’s client, including, without limitation, data append services, data validation services, and incentive fulfillment and sweepstakes related services (individually a “ **Subcontractor** ” and collectively the “ **Subcontractors** ”). Prior to disclosing Personal Information to a Subcontractor, SSI requires the Subcontractor to enter into a written agreement restricting the Subcontractor’s use of Personal Information for only the purpose of providing services to SSI and/or SSI’s client and requiring the Subcontractor to ensure the security and confidentiality of the Personal Information. 
+no opt-out provided  
+  
+flvuf
 
-(vi)    To a client for limited market research related uses including modeling, survey validation, data append, or database segmentation. Prior to disclosing Personal Information to a client, SSI requires the client to enter into a written agreement restricting the client’s use of Personal Information for only a market research related use and requiring the client to ensure the security and confidentiality of the Personal Information.
+| 
 
-(vii)   In connection with a change of ownership or control, including, without limitation, a merger or an acquisition of any or all of SSI’s business assets (“ **Business Transaction** ”). In the event of a Business Transaction, which includes the transfer of Personal Information, SSI shall require the other party (e.g. the surviving or resulting entity in a merger, or the acquiring entity in an acquisition) to agree in writing to use, protect, and maintain the security, integrity, and confidentiality of the transferred Personal Information in accordance with this Privacy Policy. 
+Nebu DubInterviewer Session Cookie
 
-(viii)  As otherwise permitted pursuant to this Privacy Policy or as otherwise authorized by you.
+| 
 
-Please contact SSI in accordance with Section 12.A. of this Privacy Policy if you have any questions or concerns regarding the processing of Personal Information by SSI and/or its Subcontractors. 
+no opt-out provided  
+  
+sfcRelevantId
 
-SSI may allow a client to collect Personal Information from Survey respondents; however, disclosure of Personal Information by respondents is strictly voluntary and, prior to the collection of Personal Information by the client, SSI requires the client to enter into a written agreement restricting the client’s use of Personal Information for only a market research related use and requiring the client to ensure the security and confidentiality of the Personal Information. 
+| 
 
-**By joining a Panel, participating in a Survey, or otherwise disclosing Personal Information to SSI, you hereby expressly consent to the transfers and disclosures set forth in this Section 5.**
+Imperium RelevantID
 
-top
+| 
 
-## 6. ****Data Security****
+no opt-out provided  
+  
+RVCOOKIE
 
-SSI maintains reasonable technical, administrative, and physical safeguards to protect and secure Information. SSI reviews, monitors, and evaluates its privacy practices and protection systems on a regular basis. Sensitive Personal Information (e.g. credit card number(s), social security number, national ID, etc.) submitted via an online registration or web form, SSI uses reasonable encryption methods (e.g. secure socket layer technology, etc.) to protect and secure the sensitive Personal Information. Notwithstanding the foregoing, you acknowledge and agree that transmissions over the Internet are never one hundred percent (100%) secure or error free and SSI does not and cannot guarantee the security of online transmissions. 
+| 
 
-top
+Imperium RelevantID
 
-## 7. ****Cookies; Online Ad Exposure Programs; Log Files; Clear GIFS****
+| 
 
-A. Cookies.
+no opt-out provided  
+  
+RVIDExtId
 
-(i) _SSI Cookies_.       Cookies are small text files or other forms of data which are stored on a computer by a website that assign a numerical user ID and stores certain information about the internet browsing activity of the user of a computer. SSI uses session and persistent cookies to make it easier for you to navigate SSI’s websites, to provide a better experience for Survey participants, and for quality control and validation purposes. Session cookies expire when you close your browser. Persistent cookies remain on your computer, indefinitely, until deleted. Personal Information is not stored or collected in the cookies used by SSI. You may disable and/or delete cookies via your browser and/or plug-in settings; however, this may: (1) decrease the functionality of the websites you visit; (2) limit your ability to use and view SSI’s web sites; and (3) limit your participation in Surveys.  
+| 
 
-(ii) _Third Party Cookies_. The use of cookies by SSI’s affiliates, partners, Subcontractors, and/or clients is not covered by this Privacy Policy. SSI does not have control over the policies and practices of such parties. 
+Imperium RelevantID
 
-B. Online Ad Exposure Programs.        
+| 
 
+no opt-out provided  
+  
+__EC_TEST__
 
-SSI may send you surveys related to advertisements you see online. The intent is to help advertisers understand what their ads communicate to internet users. Online ad exposure programs include: 
+| 
 
-(i) a locally stored object (“ **LSO** ”), which can identify tags contained in on-line advertisements, being dropped onto a person’s Web browser; (ii) when the person views a Web page containing an online ad that has been tagged, the tag reads the LSO and provides SSI’s client with a unique identification number that does not personally identify the person; and (iii) SSI’s client supplies SSI with the identification number and requests that SSI provide the person associated with, or connected to, the identification number a survey related to the advertisement. 
+Imperium RelevantID
 
-Certain Web pages or Web-based advertisements that you view may be tracked by SSI’s client and/or its subcontractors or vendors and in connection with the tracking certain tracking data may be collected by SSI’s client and/or its subcontractors or vendors. No Personal Information should be collected in connection with online ad exposure programs. [Panel members may opt-out of participating in online ad exposure programs and the LSOs by going to “My Account” in the members’ area of the applicable Panel website and changing the setting called “Survey for online ad exposure.” Opting-out of online ad exposure programs will not delete any LSOs currently stored in your Web browser; LSOs must be deleted through your Web browser. Opting-out of SSI’s online ad exposure program will only apply to SSI’s program and will not affect or restrict third parties from deploying LSOs or similar technology onto your Web browser or remove you from participation in online tracking programs.         
+| 
 
-Participation is strictly voluntary and subject to the individual consenting to participate in the online tracking program. SSI is not responsible for third party applications, technologies, or tracking cookies or for the information or data collected or used in connection with the applications, technologies, or cookies.   
+no opt-out provided  
+  
+ISIStest
 
-If you need assistance or have any questions, please contact us at [privacy@surveysampling.com](mailto:privacy@surveysampling.com) with the following subject line: “Online Ad Exposure Program.”
+| 
 
-C.         Log Files. SSI’s websites automatically gather certain information and store this information in log files. This gathered information includes data available from a user’s web browser, including, without limitation, IP Address, browser type, internet service provider, referring/exiting pages, operating system, date/time stamp, and click stream data.
+Imperium RelevantID
 
-D.         Clear GIFs **.          **Clear GIFs are embedded invisibly on Web pages and are about the size of the period at the end of a sentence. SSI may permit certain third party suppliers to set clear GIFs on the Panel referrals obtained through their websites. In addition, we may use clear GIFs in our HTML-based e-mails to let us know which e-mails recipients have opened. These GIFs allow us to gauge the effectiveness of certain communications, panel recruitment efforts and the effectiveness of our panelist outreach campaigns. No personal information is contained in clear GIFs.
+| 
 
-**By joining a Panel, by accessing a Panel website, by participating in a Survey, or otherwise disclosing Information to SSI, you hereby consent to SSI’s use of cookies and log files as set forth in this Section 7.**
+no opt-out provided  
+  
+thx_guid
 
-top
+| 
 
-## 8. ****Digital Fingerprinting; Data Validation****
+ThreatMetrix
 
-A. Digital Fingerprinting. In general, digital fingerprinting technologies assign a unique identifier to a user’s computer to identify and track the computer. SSI uses digital fingerprinting technology (the “ **Technology** ”) to assist SSI’s clients in ensuring the integrity of Survey results by identifying duplicate and fraudulent respondents. SSI may engage a third party or third parties to assist SSI in the implementation and use of the Technology. The Technology analyzes publicly available information and data obtained from a computer’s web browser and from other publicly available data points, including, without limitation, the technical settings of the computer, the characteristics of the computer, and the computer’s IP Address, to create a unique identifier assigned to the computer. The unique identifier does not contain any information or data that individually identifies the person who is assigned the unique identifier. In furtherance of SSI’s efforts to assist its clients in protecting and ensuring the integrity of Survey results, SSI: (i) may link or associate your unique identifier to you and any of your Personal Information; (ii) may share your unique identifier with SSI’s clients and with other sample or panel providers; and (iii) may receive or obtain a unique identifier linked to you from a third party, including, without limitation, a sample or panel provider or a client of SSI. Any unique identifier(s) received or obtained by SSI and linked to an identified or identifiable individual shall be protected in accordance with this Privacy Policy.
+| 
 
-SSI uses reasonable efforts to ensure that the Technology is safe, secure, and does not cause undue privacy or data security risks. SSI uses and distributes the Technology in a professional and ethical manner and in accordance with: (i) this Privacy Policy and (ii) Applicable Laws and Codes. 
+no opt-out provided  
+  
+.SSI-ASPXAUTH
 
-If SSI discovers or learns of any illegal or unethical conduct in connection with the use of the Technology, or that the Technology is being used in a manner inconsistent with the statements and/or disclosures made by SSI, SSI shall use reasonable efforts to restrict, limit, or prohibit the illegal or unethical conduct and to ensure the proper use and administration of the Technology. 
+| 
 
-B. Data Validation. From time-to-time, SSI may engage a third party or third parties to validate Panel and non-Panel members. The purpose of the data validation is to assist SSI’s clients in ensuring the integrity of Survey results. For Panel members, validation may occur during and/or after registration with a Panel, including, without limitation, prior to, during, or after participation in a Survey. For non-Panel members, validation may occur prior to, during, or after participation in a Survey. The data validation process involves: (i) SSI disclosing or transferring Personal Information to a Subcontractor, (ii) the Subcontractor performing validation services, and (iii) the Subcontractor returning the Personal Information to SSI with any updates or corrections and, if applicable, with a validation score. SSI reserves the right to reject, deny, or terminate Panel membership, or to deny or reject Survey participation, if Personal Information is not validated to SSI’s satisfaction.
+Session cookie
 
-top
+| 
 
-## 9. ******Children’s Privacy Protection** **** **** ****
+no opt-out provided  
+  
+ASP.NET_SessionId
 
-SSI strongly believes it is important to protect the online privacy of children. Accordingly, SSI adheres to Applicable Laws and Codes pertaining to the protection of children’s privacy, including, without limitation, the Children’s Online Privacy Protection Act (US). 
+| 
 
-In the US, SSI does not knowingly collect or receive Personal Information from an individual under the age of thirteen (13), without prior parental consent. Outside of the US, SSI does not knowingly collect or receive Personal Information from an individual under the age of fourteen (14), without prior parental consent. Children under the age thresholds set forth above, are contacted to participate in Surveys through their parents or guardians. For Surveys involving data subjects between the age thresholds listed above and the age of seventeen (17), SSI carefully considers both privacy issues and parental concerns. Parents and guardians are encouraged to contact SSI about this Privacy Policy and to discuss their rights to access, edit, or delete Personal Information of or about their child or children. 
+Session cookie
 
- top
+| 
 
-## 10. ****Third Party** **Links****
+no opt-out provided  
+  
+PHPSESSID
 
-SSI may provide you with the ability to voluntarily link or connect to websites maintained and/or operated by third parties (“ **Third Party Websites** ”). SSI does not endorse, and is not responsible for,: (i) the Third Party Websites and the policies and practices in connection with the Third Party Websites; or (ii) the products, services, surveys, and/or opportunities advertised, offered, and/or sold by, through or in connection with the Third Party Websites (“ **Third Party Content** ”). SSI does not make any representations or warranties regarding the Third Party Websites and/or the Third Party Content. Please carefully review all policies, and the terms and conditions, applicable to the Third Party Websites and Third Party Content. 
+| 
 
-top
+Session Cookie
 
-## 11. ******Rights Pertaining to Personal Information** ****
+| 
 
- A. Access to Personal Information; Updating Personal Information. You may access your Personal Information in order to review, correct, or delete Personal Information by: (i) accessing your membership account and following the instructions contained therein; or (ii) sending an email request to [privacy@surveysampling.com](mailto:privacy@surveysampling.com). When contacting SSI via email, please include your first and last name and your specific request. SSI shall respond to requests for access to Personal Information within thirty (30) days of receipt of a request.
+no opt-out provided  
+  
+ANYSSIDOMAIN#lang
 
-B. Opting-Out. 
+| 
 
-For non-Panel members, you may request to be removed from SSI’s database by sending an “opt-out” request to SSI in accordance with Section 12.A. of this Privacy Policy.
+Display the proper language
 
-For Panel members, you may terminate your Panel membership by: (i) following the instructions set forth in your membership account; (ii) sending an email request to the member services team for the appropriate Panel; (iii) clicking on the unsubscribe link contained in a Survey invitation and following the instructions on the opt-out web page; or (iv) sending an “opt-out” request to SSI in accordance with Section 12.A. of this Privacy Policy. 
+| 
 
-SSI promptly processes all “opt-out” requests; however, you may continue to receive communications and/or Survey invitations from SSI for a few days following SSI’s receipt of your “opt-out” request. If you opt-out, SSI will retain your Personal Information in SSI’s unsubscribe database to ensure compliance with your “opt-out” request. 
+no opt-out provided  
+  
+JSESSIONID
 
-top
+| 
 
-## 12\. **Enforcement; Safe Harbor Dispute Resolution** ****
+NewRelic Performance Monitoring - Session Cookie
 
-A.         Questions or Complaints Generally. 
+| 
 
-SSI is committed to working with individuals to address any questions about, or to obtain a fair resolution to any complaints or disputes in connection with, this Privacy Policy. Any questions or complaints about this Privacy Policy should be sent:
+no opt-out provided  
+  
+PHPSESSID
 
-_via regular mail, postage prepaid, addressed to_ :               
+| 
 
-    **  Survey Sampling International, LLC**
+FraudLogix Fraud Prevention
 
-**     6 Research Drive**
+| 
 
-**     Shelton, Connecticut 06484**
+no opt-out provided  
+  
+** B.   Advertising - Online Ad Effectiveness Program/Advertising**
 
-**     Attn: Legal Department**
+Name
 
-or  _via email to_ : [privacy@surveysampling.com](mailto:privacy@surveysampling.com)
+| 
 
-When contacting SSI via regular mail or email, please include your first and last name and specific information regarding your question or complaint.
+Purpose
 
-B.         Questions or Complaints By Citizens of EU Member Countries.
+| 
+
+Consent  
+  
+---|---|---  
+  
+ComScore
+
+| 
+
+Online Ad Effectiveness Program
+
+| 
+
+<http://www.voicefive.com/preferences.aspx>  
+  
+Dynamic Logic
+
+| 
+
+Online Ad Effectiveness Program
+
+| 
+
+<http://www.safecount.net/viewyourcookiesinformation_optinout.php>  
+  
+[Facebook Connect](http://info.evidon.ie/companies/facebook-connect)
+
+| 
+
+Ad Serving, Ad Targeting, Analytics/Measurement, Content Customization
+
+| 
+
+no opt-out provided  
+  
+HotTraffic
+
+| 
+
+Online Ad Effectiveness Program
+
+| 
+
+<http://n01d01.cumulus-cloud.com/ssi/optout.php>  
+  
+Nielsen
+
+| 
+
+Online Ad Effectiveness Program
+
+| 
+
+[http://www.nielsen-online.com/corp.jsp?section=leg_prs&nav=1](http://www.nielsen-online.com/corp.jsp?section=leg_prs&nav=1) ,  
+  
+YouTube
+
+| 
+
+Ad Targeting
+
+| 
+
+[go to site](http://www.google.com/settings/ads/onweb/)  
+  
+ MSI ACI |  Online Ad Effectiveness Program |  <http://www.msi-aci.com/tagging.html>  
+ InsightExpress |  Online Ad Effectiveness Program  
+|  <http://ad.insightexpressai.com/adserver/optout.aspx?redir=http://www.opinion-central.com/optedout.asp>  
+  
+ Turn |  Online Ad Effectiveness Program  
+|  <http://www.turn.com/privacy/customer-opt-out>  
+  
+  
+** C **.   Analytics and Customization - Data Collection****
+
+Name
+
+| 
+
+Purpose
+
+| 
+
+Consent  
+  
+---|---|---  
+  
+[Google Analytics](http://info.evidon.ie/companies/google-analytics)
+
+| 
+
+Ad Targeting, Analytics/Measurement, Optimization
+
+| 
+
+go to site  
+  
+Log Files.  SSI’s Services may automatically gather and store certain information in log files, including, without limitation, data available from your web browser, including, without limitation, IP Address, browser type, internet service provider, referring/exiting pages, operating system, date/time stamp and click stream data.
+
+Digital Fingerprinting. Generally, digital fingerprinting assigns a unique identifier to your device or computer based upon the device’s or computer’s technical settings, characteristics and IP Address. SSI uses digital fingerprinting technology for quality control and validation purposes and fraud detection and/or prevention, including, without limitation, identifying duplicate or fraudulent respondents. SSI may implement and use digital fingerprinting directly or through a third party vendor.
+
+Watermarking.  Generally, watermarking involves placing a technology or file on your device or computer to identify that it has previously been used to register with or access SSI’s Services.  Watermarking is used for quality control and validation purposes and fraud detection and/or prevention purposes. SSI may engage in watermarking activities directly or through a third party vendor.
+
+SSI’s Do Not Track Notice.
+
+Do Not Track (“ **DNT** ”) is a preference in your browser that you can set to notify websites that you visit that you do not want the websites to collect certain information about you. SSI does not track individuals over time and across third party websites to provide targeted advertising and therefore SSI does not respond to DNT signals. If you object to SSI’s practice with regards to DNT signals, you may opt-out from participation or use of SSI’s services as described below.
+
+In connection with SSI’s online ad effectiveness program, SSI permits SSI’s subcontractors, partners and/or clients to drop, set, and/or write Third Party Technologies for the purpose of facilitating audience measurement and ad recall survey activities; however, SSI’s online ad effectiveness program does not include, and does not facilitate, the targeting of advertisements to individuals. SSI is not responsible for any third party’s compliance with or response to DNT signals. To learn more about SSI’s online ad effectiveness program, please review the Cookies section of this Privacy Policy.  
+
+  
+
+
+## 3. Information collected from Third Parties ****
+
+SSI may obtain PII and demographic information from third parties, including, without limitation, information services bureaus, other sample suppliers and/or social media platforms.  SSI may use the PII for various purposes, including, without limitation, data validation, data append, fraud detection purposes, and/or sending you a one-time email to invite you to participate in a survey and/or join a Panel.
+
+## 4. ****SSI's Use of Information****
+
+In addition to other purposes set forth in this Privacy Policy, SSI uses information collected through SSI’s Services as follows: (i) to communicate with you regarding your membership with a Panel; (ii) to communicate with you regarding your participation in a survey(s); (iii) to tailor survey opportunities to you; (iv) to send you notifications of survey opportunities; (v) to comply with any and all legal obligations, including, without limitation, tax obligations; (vi) to administer and manage SSI’s reward and incentive programs and fulfill your requests for rewards and incentives; (vii) to facilitate your entry into SSI’s sweepstakes and promotions and communicate with you regarding such entries; (viii) to update SSI’s records; (ix) to comply with any data suppression obligations or requirements; (x) for fraud detection and/or prevention purposes; and (xi) as otherwise permitted pursuant to this Privacy Policy or as otherwise authorized by you.
+
+**What communications will I receive through SSI’s Services?**
+
+SSI and/or SSI’s agents, processors, and/or vendors or subcontractors may contact you or communicate with you as follows:
+
+  1. Via “push” notifications or SMS/text messages, if you expressly agree to receive such communications, for participation in surveys.
+
+  2. Via email communications for the purpose of: (i) sending you survey invitations, (ii) communicating with you regarding your survey participation (past, present and/or future), (iii) communicating with you regarding reward or incentive information, inquiries, and/or redemption, (iv) sending you newsletters, (v) sending you notices required to be provided hereunder or required by law, (vi) communicating with you regarding sweepstakes or prize draw promotions, including, without limitation, winning entries to or for such sweepstakes or prize draws, and (vii) responding to inquiries received from you.
+
+  3. Via telephone for the purpose of: (i) communicating with you on or about your survey participation (past, present and/or future), (ii) communicating with you regarding reward or incentive information, inquiries, and/or redemption, (iii) sending you notices required to be provided hereunder or required by law, (iv) communicating with you regarding sweepstakes or prize draw promotions, including, without limitation, winning entries to or for such sweepstakes or prize draws, and (v) responding to inquiries from you. Additionally, SSI may use the business or work telephone number you provide during panel registration or during completion of SSI’s business-to-business profiler questionnaire to call you to verify: (a) your qualification for surveys designed for individuals working in certain professional or business roles or capacities, and/or (b) your registration or qualification for a survey panel(s) specifically designed for individuals in certain professions. The verification process may involve verifying information or data you have previously provided or supplied to SSI.
+
+
+
+
+**Does SSI share PII and other information collected through SSI’s Services with third parties?**
+
+SSI will disclose PII and other information collected through SSI’s Services to third parties as follows:
+
+  1. With your consent, other than your consent to the processing and sharing described in this Privacy Policy and specifically this section.
+
+  2. Pursuant to applicable law or in response to a subpoena or an order of a court or government agency.
+
+  3. To establish, exercise, or defend legal claims of an individual or SSI, including in order to protect the safety of an individual or to protect SSI’s rights and/or property.
+
+  4. Between various Panels if you sign up for more than one Panel.
+
+  5. To a parent, subsidiary, or affiliate of SSI: (i) in the event of a reorganization or restructuring, or (ii) for use and processing in accordance with this Privacy Policy or as authorized by you.
+
+  6. To authorized agents and/or subcontractors of SSI and/or of SSI’s clients, who are providing services, including, without limitation, data append services, data validation services, fraud detection and/or prevention services, database-matching services, coding services, data segmentation services, and reward, incentive, and sweepstakes related services.
+
+  7. To a client for limited market research related uses including, without limitation, modeling, validation, fraud detection and/or prevention, data append, database segmentation, and reward, incentive, or sweepstakes redemption, fulfillment, and/or entry in connection with your participation in or completion of a survey.
+
+  8. In connection with a change of ownership or control, including, without limitation, a merger or an acquisition of any or all of SSI’s business assets, provided that the party receiving or acquiring the PII agrees to use, protect, and maintain the security, integrity, and confidentiality of PII in accordance with this Privacy Policy.
+
+  9. To partners of SSI who offer incentives for use of SSI’s Services, solely for the partners’ use in connection with their incentive program and its terms of use, including, without limitation, the crediting of member accounts maintained by the partners for individuals who use or participate in SSI’s Services.
+
+  10.  As otherwise permitted pursuant to this Privacy Policy.
+
+
+
+
+Additionally, UIDs and information collected by automated means are provided to third parties, including, without limitation, clients, partners, agents and/or vendor for several purposes including, without limitation, identifying respondents for re-contact surveys or communications, fraud detection and/or prevention, database matching, data validation, data append, coding, data segmentation, and reward, incentive, sweepstakes or promotion related services and/or developing aggregated data insights regarding our survey respondents and providing a client(s) with access to and use of the aggregated data insights.
+
+With respect to information collected through SSI’s Services, SSI will provide survey data and responses to SSI clients with no PII disclosed by SSI, other than UID. If you voluntarily disclose PII in connection with your survey responses, and SSI collects the survey responses, SSI will transfer the survey responses, UID and the voluntarily disclosed PII to SSI’s client.  In addition, SSI may share geographic and/or demographic data SSI collects from you during enrollment or through certain profile questions SSI may ask you. Such data may be shared with third parties in single summary form (i.e. individual respondent level) or aggregate summary form (i.e. a group of respondents).
+
+Generally, disclosures of PII by SSI to a third party, except for disclosures of UIDs, are made pursuant to a written agreement between SSI and the third party, which, among other things, limits use of the PII.   SSI may allow a client to collect PII directly from respondents. The disclosure is voluntary and, prior to collection, the client is required to enter into a written agreement with SSI, which, among other things, limits use of the PII.
+
+**What if I want to tell a friend about SSI’s Services?**
+
+If you would like to tell a friend about SSI’s Services you can use SSI’s tell-a-friend feature. To use SSI’s tell-a-friend feature, you will need to complete SSI’s online form that will require you to enter your name and email address. SSI will send you an email containing a link to SSI’s join page. You can then forward the link to your friend.
+
+**Does SSI hire third parties to recruit individuals to use SSI’s Services?**
+
+SSI may engage third parties to recruit individuals to use SSI’s Services including, without limitation, to join a Panel or participate in a survey. The recruitment activities may include, without limitation, the third party placing banners or advertisements on websites or sending email communications offering the opportunity to join a Panel or participate in a survey. This Privacy Policy only applies to PII when SSI actually collects the PII and does not cover or apply to the recruitment activities performed by the third parties.
+
+**How can I opt out of certain data collection and/or use?**
+
+There are multiple opt-out options for users of SSI’s Services:
+
+Panel members may opt-out by: (i) following the instructions set forth in your membership account; (ii) clicking on the unsubscribe link contained in a survey invitation and following the instructions on the opt-out web page; or (iii) contacting us as set forth below.
+
+You may opt out of email communications, by clicking the unsubscribe link in any email you receive from us or contacting us as set forth below.
+
+You may opt-out of participation in SSI’s Online Ad Effectiveness Program, by going into the membership dashboard or my profile section and checking the box next to “No, I do not want to participate in Online Ad Effectiveness Program surveys”. To delete the cookies used in connection with SSI’s Online Ad Effectiveness Program, please review the section of this Privacy Policy addressing cookies.
+
+You may opt out of sharing social media platform profile data by changing your preference/profile settings with the social media platform regarding the sharing of data with third parties.
+
+To delete all information collected by SSI please contact SSI as set forth below.
+
+**How long does SSI keep my PII and other information?**
+
+SSI will retain PII and other information relating to your use the Services during your use of the Services and for up to one (1) year thereafter or such other period as may be required or permissible by law.
+
+**How can I access the PII and other information collected about me?**
+
+You may request access to review, correct, delete or to object to the processing of your PII by contacting us as set forth below.
+
+**Does SSI collect data from children?**
+
+SSI believes it is important to protect the online privacy of children. Accordingly, SSI adheres to Applicable Laws and Codes pertaining to the protection of children’s privacy, including, without limitation, the Children's Online Privacy Protection Act of 1998 in the United States (as amended). SSI carefully considers both privacy issues and parental concerns in connection with surveys involving individuals under the age of eighteen (18). Certain countries where SSI operates and maintains a Panel may prescribe an age threshold under which parental consent is required for the collection of PII. SSI’s Services are not designed or intended for use by any individual under such age thresholds. SSI does not knowingly collect PII from anyone under such age thresholds. If SSI became aware that it had inadvertently collected PII from anyone under such age thresholds, SSI would promptly delete such PII. For example, in the United States, SSI’s Services are not designed or intended for use by any individual under the age of thirteen (13) and SSI does not knowingly collect PII from anyone under the age of thirteen (13).Parents, guardians or other persons with parental rights are encouraged to contact SSI, as set forth below, to discuss this Privacy Policy and their rights to access, review, correct, delete or object to the processing of PII of or about their child or children.
+
+**What security is available for the PII and other information collected through the Services?**
+
+SSI maintains appropriate technical, administrative and physical safeguards to protect PII and other information disclosed or collected by SSI. SSI reviews, monitors and evaluates its privacy practices and protection systems on a regular basis. Notwithstanding the foregoing, transmissions over the Internet and/or a mobile network are not one hundred percent (100%) secure and SSI does not guarantee the security of transmissions. SSI is not responsible for any errors by individuals in submitting PII to SSI.
+
+**Who can I contact with questions or complaints about this Privacy Policy?**
+
+Questions or Complaints Generally.
+
+If you have any questions or complaints regarding SSI’s privacy practices and/or this Privacy Policy or want to communicate an opt-out request to SSI, or want to exercise your rights to access, review, correct, delete or object to the processing of PII, please contact us via email at privacy@surveysampling.com. SSI’s Legal Department is responsible for the organization’s compliance with this Privacy Policy.
+
+Questions or Complaints by Citizens of EU Member Countries.
 
 In compliance with the Safe Harbor Principles, SSI commits to resolve complaints about privacy and its collection or use of PII. Citizens of EU member countries with inquiries or complaints regarding this Privacy Policy should first contact SSI as set forth above.
 
@@ -215,20 +454,25 @@ Pursuant to the Safe Harbor Principles, SSI has further committed to refer unres
 
 Council of Better Business Bureaus, Inc.  
 BBB EU Safe Harbor  
-[www.bbb.org/us/safe-harbor-complaints"](http://www.bbb.org/us/safe-harbor-complaints)   
+[www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints)
 
-**NOTE** **: The dispute resolution procedure described in Section 12.B. is only available for citizens of EU member countries.**
+**Are there any companies within the SSI Group located in the EU that may collect, store and process PII?**
 
- top
+  * Survey Sampling Europe BV - Weena 161, 3013 CK Rotterdam, Netherlands
 
-## 13. **Agreement to Privacy Policy; Changes to Privacy Policy** ****
+  * SSI Denmark ApS – Frederiksholms Kanal 4B, DK-1220, Copenhagen K Copenhagen
 
-You acknowledge your consent to, and agreement with, this Privacy Policy by: (i) joining a Panel, (ii) participating in a Survey, (iii) visiting a Panel website(s), and (iv) disclosing your Personal Information to SSI. 
+  * Survey Sampling France SASU - 22 rue de Dunkerque, 75010 Paris, France
 
-SSI hereby reserves the right, in SSI’s sole discretion, to make changes to this Privacy Policy. SSI encourages you to review this Privacy Policy on an ongoing basis. SSI will treat Personal Information in a manner consistent with the Privacy Policy under which the Personal Information was collected, unless SSI receives your consent to treat the Personal Information in a different manner. By joining a Panel, participating in a Survey, visiting a Panel website(s), or disclosing your Personal Information to SSI, after SSI changes or modifies this Privacy Policy, you voluntarily and specifically give SSI your consent to collect, use, transfer, and disclose your Personal Information in the manner specified in the then-current Privacy Policy. 
+  * Survey Sampling Germany GmbH - Kaiserstrasse 13, 60311 Frankfurt am Main, Deutschland
 
-Please click here for the most recent prior version of this Privacy Policy.
+  * Survey Sampling RO S.R.L.  \- 12 Popa Sapca Street, Timisoara 300057
 
-top
+  * Survey Sampling Spain S.L. - C/ Carranza, 25, 2ª planta, 28004, Madrid, Spain
 
-**Last Updated** :   August  15, 2011
+  * SSI Sweden AB - Drakens Gränd 8, 111 30 Stockholm, Sweden
+
+  * Survey Sampling UK Ltd. - Commonwealth House, 7th Floor, 1-19 New Oxford Street, London WC1A 1NU
+
+
+
