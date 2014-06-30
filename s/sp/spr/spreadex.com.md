@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spreadex.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231005927id_/http%3A//www.spreadex.com/financials/terms-and-agreements/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spreadex.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630062327id_/http%3A//www.spreadex.com/financials/terms-and-agreements/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Spreadex | Financial Spread Betting
 
