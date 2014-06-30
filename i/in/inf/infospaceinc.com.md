@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infospaceinc.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231155910id_/http%3A//www.blucora.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infospaceinc.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630075844id_/http%3A//www.blucora.com/home/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -13,9 +13,10 @@ Please note that this policy only applies to our data collection and use practic
 Through the Blucora Network and from third party sources, we collect both aggregate data and personal information. A general description of the types of information we collect and how we use that information is provided below. For more specific descriptions of the information we collect and use in connection with a particular Blucora Site, please review the privacy policy for that property located below:
 
   * [Infospace](http://support.infospace.com/privacy/)
-  * [Dogpile](http://www.dogpile.com/support/privacypolicy), [Metacrawler](http://www.metacrawler.com/support/privacypolicy), [Webcrawler](http://www.webcrawler.com/support/privacypolicy), and [Nation](http://www.nation.com/p/privacy-policy)
+  * [Monoprice](http://www.monoprice.com/home/home.asp?pn=privacy)
+  * [Dogpile](http://www.dogpile.com/support/privacypolicy), [Zoo](http://infospace.com/terms/privacy.html), [Webcrawler](http://www.webcrawler.com/support/privacypolicy), and [Nation](http://www.nation.com/p/privacy-policy)
   * [Webfetch (UK)](http://webfetch.co.uk/support/privacypolicy)
-  * [Webcrawler (Germany)](http://www.webcrawler.de/support/privacypolicy)
+  * [Webcrawler (Germany)](http://www.webcrawler.com/support/privacypolicy?qc=web&aid=ab3f5234-3008-4c12-ac99-c667bb83d9ee&ridx=1)
   * [WebPosition](http://www.webposition.com/support/privacy.htm)
 
 
