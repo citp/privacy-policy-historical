@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themepacific.com privacy policy that was archived on 2013-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131006191536id_/http%3A//themepacific.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themepacific.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630035306id_/http%3A//themepacific.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - ThemePacific
 
