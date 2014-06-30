@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mp1st.com privacy policy that was archived on 2012-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120626221740id_/http%3A//mp1st.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mp1st.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630045206id_/http%3A//mp1st.com/privacy-policy) for the most accurate reproduction.*
 
-# MP1st – Privacy Policy
+# Privacy Policy - MP1st
 
 **What information do we collect?** We collect information from you when you register on our site, subscribe to our newsletter or fill out a form.When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
 
