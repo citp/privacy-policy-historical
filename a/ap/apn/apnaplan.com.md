@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the apnaplan.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227081228id_/http%3A//apnaplan.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apnaplan.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630184511id_/http%3A//apnaplan.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy for ApnaPlan | Fixed Deposit, Mutual Funds, Insurance, Personal Finance, Loans, Income Tax
+# Privacy Policy for ApnaPlan | ApnaPlan – Personal Financial Planning and Investing Blog
 
 At [http://apnaplan.com](http://apnaplan.com/), the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by [http://apnaplan.com](http://apnaplan.com/) and how it is used.
 
@@ -37,8 +37,3 @@ By using our site, you consent to our web site [privacy policy](http://apnaplan.
 **Contacting Us**
 
 If there are any questions regarding this privacy policy you may contact us using our [Contact Us Page](http://apnaplan.com/contact-us/)
-
-#### Popular Searches For This Post:
-
-apnaplan tax calculator fy 2012 -13 -
-
