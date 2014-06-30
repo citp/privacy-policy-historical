@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the bloggerbulk.com privacy policy that was archived on 2013-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131119231114id_/http%3A//www.bloggerbulk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloggerbulk.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630165756id_/http%3A//www.bloggerbulk.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Blogger Wordpress TricksBlogger Wordpress Tricks
+# Privacy Policy - Blogger Wordpress Tricks
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at **tharun782@gmail.com**. 
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at **tharunblogs@gmail.com**. 
 
   
-At [Blogger Bulk](http://bloggerbulk.com/), the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by http://wehelpalways.blogspot.in/ and how it is used.
+At [Blogger Bulk](http://bloggerbulk.com/), the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by http://www.bloggerbulk.com/ and how it is used.
 
 ## Log Files
 
@@ -17,8 +17,8 @@ Like many other Web sites, [Blogger Bulk](http://bloggerbulk.com/) makes use of 
 
 ## DoubleClick DART Cookie 
 
-  * Google, as a third party vendor, uses cookies to serve ads on http://wehelpalways.blogspot.in/. 
-  * Google’s use of the DART cookie enables it to serve ads to users based on their visit to http://wehelpalways.blogspot.in/ and other sites on the Internet.  
+  * Google, as a third party vendor, uses cookies to serve ads on http://www.bloggerbulk.com/. 
+  * Google’s use of the DART cookie enables it to serve ads to users based on their visit to http://www.bloggerbulk.com/ and other sites on the Internet.  
   * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html 
 
 
@@ -34,7 +34,7 @@ These third-party ad servers or ad networks use technology to the advertisements
 **http://bloggerbulk.com/** has no access to or control over these cookies that are used by third-party advertisers. 
 
   
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. http://wehelpalways.blogspot.in/’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. http://www.bloggerbulk.com/’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
 
   
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites. 
