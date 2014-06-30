@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thestallionstyle.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230032524id_/http%3A//thestallionstyle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thestallionstyle.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630201900id_/http%3A//thestallionstyle.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - TheStallionStyle
 
 **Collection of Personal Information**  
 When visiting **TheStallionStyle.com** , the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyse trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
