@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businessoffashion.com privacy policy that was archived on 2013-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130906072142id_/http%3A//www.businessoffashion.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessoffashion.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630143135id_/http%3A//www.businessoffashion.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - BoF - The Business of Fashion
 
@@ -6,7 +6,7 @@ Last Updated June 26, 2013
 
 **GENERAL RULES AND DEFINITIONS**
 
-This page describes the Privacy Policy that govern your use of certain Business of Fashion digital products, including the website www.businessoffashion.com and mobile applications, offered by The Business of Fashion Ltd. (“BoF”, “us” or “we”).
+This page describes the Privacy Policy that govern your use of certain Business of Fashion digital products, including the website www.businessoffashion.com and mobile applications, offered by [The Business of Fashion](http://www.businessoffashion.com/the-business-of-fashion) Ltd. (“BoF”, “us” or “we”).
 
 If you choose to use [www.businessoffashion.com](http://www.businessoffashion.com/), any mobile sites and applications, or any of the features of this site (the “Site”), including but not limited to RSS, API, software and other downloads (collectively, the “Services”), you will be agreeing to abide by all of the terms and conditions of the BoF Privacy Policy.  Your continued use of the Site and Services now, or following the posting of notice of changes in these operating rules, will indicate acceptance by you of such rules.
 
