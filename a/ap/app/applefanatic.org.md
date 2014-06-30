@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the applefanatic.org privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529234830id_/http%3A//applefanatic.org/ucp.php%3Fmode%3Dprivacy%26sid%3Df600b0b8ec6f0c2df4dded207f660d9a) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the applefanatic.org privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630154124id_/http%3A//applefanatic.org/ucp.php%3Fmode%3Dprivacy%26sid%3Df66cb42aad4386032c3cbb7f0f747056) for the most accurate reproduction.*
 
 # Privacy policy - Apple Fanatic • User Control Panel
 
