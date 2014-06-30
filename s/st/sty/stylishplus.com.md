@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stylishplus.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207005321id_/http%3A//www.stylishplus.com/privacy-i-6.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stylishplus.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630154213id_/http%3A//stylishplus.com/privacy-i-6.html) for the most accurate reproduction.*
 
-# Privacy Policy - Be more stylish with Stylishplus.com
+# Privacy Policy | Stylishplus.com
 
 This privacy statement discloses the privacy practices for **www.stylishplus.com**. We are committed to protecting your privacy and encourage you to periodically review this page to be informed of how we protect the information you disclose to us.
 
