@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the realtourvision.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209203659id_/http%3A//www.realtourvision.com/support/policies/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realtourvision.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701001113id_/http%3A//www.realtourvision.com/support/policies/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | RTV 360 Software
 
 **Updated: 2/12/2008**
 
-Tour Vision Inc, is a Michigan corporation with its principal office at 400 E Eighth Street, Suite 2, Traverse City, MI 49686 (d.b.a. RTV) and hereinafter referred to as “RTV”, or “Company”.
+Tour Vision Inc, is a Michigan corporation with its principal office at 400 E Eighth Street, Suite 2, Traverse City, MI 49686 (d.b.a. RTV) and hereinafter referred to as "RTV", or "Company".
 
 This privacy statement covers the Web site www.realtourvision.com. Because RTV wants to demonstrate its commitment to your privacy, we have provided the below listed information and privacy practices for your review. Our Privacy Policy is designed to assist you in understanding how we collect and use the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services.
 
@@ -48,7 +48,7 @@ Occasionally, we may also use the information we collect to notify you about imp
 
 **Email-A-Friend/Tour**
 
-If you choose to use the Email a Friend or Email a Tour referral service to tell a friend about information you’ve seen on our site, we will ask you for your friend’s email address and any comment you wish to make to your friend. We will automatically send your friend a one-time email forwarding the requested tour or information. We do not store this information and it is used for the sole purpose of sending this one-time email.
+If you choose to use the Email a Friend or Email a Tour referral service to tell a friend about information you've seen on our site, we will ask you for your friend's email address and any comment you wish to make to your friend. We will automatically send your friend a one-time email forwarding the requested tour or information. We do not store this information and it is used for the sole purpose of sending this one-time email.
 
 ## 3\. How Do We Protect Your Information?
 
