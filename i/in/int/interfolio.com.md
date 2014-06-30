@@ -1,16 +1,10 @@
-> *The following text is extracted and transformed from the interfolio.com privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106075631id_/http%3A//www.interfolio.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interfolio.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630113335id_/http%3A//www.interfolio.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Interfolio
 
-_Last updated on May 18, 2013_
+_Last updated on November 7, 2013_
 
-## A note from TRUSTe:
-
-[](http://www.truste.org/ivalidate.php?url=www.interfolio.com&sealid=101)Interfolio, Inc. is a licensee of the TRUSTe Privacy Program. This privacy statement discloses the privacy practices for http://www.interfolio.com. TRUSTe is an organization whose mission is to build users’ trust and confidence in the Internet by promoting the use of fair information practices. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
-
-If you have questions or concerns regarding this statement, you should first contact Interfolio Security and Privacy by phone: (877) 997-8807 or email: [help@interfolio.com](mailto:help@interfolio.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe online at: <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
-
-Interfolio complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Interfolio has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Interfolio”s certification, please visit <http://www.export.gov/safeharbor/>.
+Interfolio complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Interfolio has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Interfolio’s certification, please visit <http://www.export.gov/safeharbor/>.
 
 ## Interfolio’s Privacy Policy
 
@@ -52,7 +46,7 @@ _Anonymous Information_
 As you use our Service, we may also collect certain information, including your Internet protocol address, browser type, and access times. We also use Cookies and navigational data like Uniform Resource Locators (URLs) to gather information regarding the date and time of your use of the Service. An  **“Internet protocol address”**  or  **“IP address”**  is a number that is automatically assigned to your computer by your Internet access provider when you use the Internet. In some cases your IP address stays the same from browser session to browser session; but if you use a consumer internet access provider, your IP address probably varies from session to session. We track IP addresses solely in conjunction with session cookies to analyze our web page flow.  **“Cookies”**  are small pieces of information that a web site sends to your computer’s hard drive while you are viewing a web site. We may use both session Cookies (which expire once you close your web browser) and persistent Cookies (which stay on your computer until you delete them). Persistent Cookies can be removed by following Internet browser help file directions.
 
 _Disclosure—Usage of Third Party Cookies_  
-We may use a third party tracking service to track and analyze Anonymous Information from Users of our Site. Such third parties may use Cookies to help track User behavior.
+We may use a third party tracking service to track and analyze Anonymous Information from Users of our Site. Such third parties may use Cookies to help track User behavior. We do not have access or control over these cookies. Our analytics service provider uses session IDs to help us uncover bugs, improve user pathways, and build better services.
 
 ### HOW WE USE INFORMATION
 
@@ -103,11 +97,11 @@ IF YOU AUTHORIZE US TO SHARE PERSONAL INFORMATION WITH A RECIPIENT OR YOUR UNIVE
 
 ### ACCESSING AND CONTROLLING YOUR INFORMATION
 
-To change information that you have previously provided Interfolio, you may log in to your account at[http://www.interfolio.com](http://www.interfolio.com/) and edit the information on your Settings page. You may also contact Interfolio’s Customer Support to change this information by emailing [help@interfolio.com](mailto:help@interfolio.com) or by calling (877) 997-8807. If you change and/or request changes to your information, subsequent uses or disclosures of that information by us will reflect those changes, however, we do not have the ability to update any information previously disclosed to any third party, including your University. We will correct any inaccuracies in any Personal Information that we have in our possession once notified of the requested change. We endeavor to process these requested changes as soon as is possible, but it may take up to thirty (30) days to make requested changes.
+To change information that you have previously provided Interfolio, you may log in to your account at[http://www.interfolio.com](http://www.interfolio.com/) and edit the information on your Settings page. You may also contact Interfolio’s Customer Support to change this information by emailing [privacy@interfolio.com](mailto:privacy@interfolio.com) or by calling (877) 997-8807. If you change and/or request changes to your information, subsequent uses or disclosures of that information by us will reflect those changes, however, we do not have the ability to update any information previously disclosed to any third party, including your University. We will correct any inaccuracies in any Personal Information that we have in our possession once notified of the requested change. We endeavor to process these requested changes as soon as is possible, but it may take up to thirty (30) days to make requested changes.
 
-You may not be able to access Confidential Personal Information submitted to the Services about you. Similarly, if you have provided us with Confidential Personal Information, you may not be able to control this information or to whom it is disclosed, provided, however, than you can request its deletion by emailing [help@interfolio.com](mailto:help@interfolio.com) or by calling (877) 997-8807. Such a request will not affect any previously disclosed information.
+You may not be able to access Confidential Personal Information submitted to the Services about you. Similarly, if you have provided us with Confidential Personal Information, you may not be able to control this information or to whom it is disclosed, provided, however, than you can request its deletion by emailing [privacy@interfolio.com](mailto:privacy@interfolio.com) or by calling (877) 997-8807. Such a request will not affect any previously disclosed information.
 
-Certain information is necessary in order for us to provide the Site or Services; therefore, if you delete such necessary information you will not be able to use the Site or Services. If you wish to have your Personal Information removed from our databases or to discontinue the Service you may contact us at [help@interfolio.com](mailto:help@interfolio.com). Within a reasonable time period after we receive your request, we will remove your Personal Information provided, however, that we may continue to maintain and use your Personal Information in a manner where the information is no longer personally identifiable.
+Certain information is necessary in order for us to provide the Site or Services; therefore, if you delete such necessary information you will not be able to use the Site or Services. If you wish to have your Personal Information removed from our databases or to discontinue the Service you may contact us at [privacy@interfolio.com](mailto:privacy@interfolio.com). Within a reasonable time period after we receive your request—and it may take up to thirty (30) days to process the deletion—we will remove your Personal Information provided, however, that we may continue to maintain and use your Personal Information in a manner where the information is no longer personally identifiable.
 
 Please note that even though you may request the deletion of your Personal Information by us, we may be required (by law or otherwise, such as to prevent fraud, resolve disputes, troubleshoot problems, or enforce our Services Agreement) to keep this information and not delete it (or to keep this information for a certain time) in which case we will comply with your deletion request only after we have fulfilled such requirements). When we delete Personal Information, it will be deleted from the active database, but may remain in our archives.
 
@@ -121,7 +115,25 @@ The Site may contain links to other websites. Interfolio is not responsible for 
 
 ### SECURITY
 
-We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can send email us at[help@interfolio.com](mailto:help@interfolio.com). This site has security measures in place to protect the loss, misuse and alteration of the information under our control.
+The security of your personal information is important to us. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
+
+We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can send email us at [help@interfolio.com](mailto:help@interfolio.com). This site has security measures in place to protect the loss, misuse and alteration of the information under our control.
+
+### BLOG
+
+Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [help@interfolio.com](mailto:help@interfolio.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+
+### TESTIMONIAL
+
+We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at [help@interfolio.com](mailto:help@interfolio.com).
+
+### SOCIAL MEDIA WIDGETS
+
+Our Web site includes Social Media Features, such as the Facebook button [and Widgets, such as the Twitter button or interactive mini-programs that run on our site]. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
+
+### SINGLE SIGN-ON
+
+You can log in to our site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
 
 ### REGARDING CHILDREN
 
@@ -133,6 +145,10 @@ This Privacy Policy is a living document. We reserve the right to modify this Pr
 
 In addition, if we make any material changes to our Privacy Policy that do not affect User information already stored in our database, we will post a prominent notice on our Site notifying Users of the change, and, at our discretion, email Users who have opted to receive communications from us, notifying them of the changes in our privacy practices. It is your sole responsibility to check the Site from time to time to view any such changes to the terms of this Privacy Policy. If you do not agree to any changes, if and when such changes may be made to this Privacy Policy, you must cease access to the Site and use of the Services. You give us permission to email you for the purpose of notification as described in this Section.
 
-### CONTACT
+### CONTACT US
 
-If you have questions or concerns about our Privacy Policy, please contact us at: [help@interfolio.com](mailto:help@interfolio.com).
+If you have questions or concerns about our Privacy Policy, please contact us at: [help@interfolio.com](mailto:help@interfolio.com)
+
+Interfolio, Inc.  
+1025 Connecticut Avenue NW #1103  
+Washington, DC 20036
