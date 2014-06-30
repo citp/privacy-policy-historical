@@ -1,127 +1,300 @@
-> *The following text is extracted and transformed from the harveynorman.com.au privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229051521id_/http%3A//www.harveynorman.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harveynorman.com.au privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630173839id_/http%3A//www.harveynorman.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Harvey Norman Australia
 
-### HARVEY NORMAN ONLINE - PRIVACY POLICY
+### Our Privacy Commitment
 
-This Privacy Policy is applicable to Harvey Norman Online only.   
-To view the Privacy Policy of other Harvey Norman franchisees, please see the [relevant store](http://harveynorman.findnearest.com.au/ "Harvey Norman Store Finder") for details.   
-To view the Privacy Policy of the Publisher, please see the [Generic Publications](http://www.harveynorman.com.au/privacy-policy/generic-publications/) Privacy Policy.
+The eCommerce Agency Pty Limited A.C.N. 145 985 815 acting in its capacity as trustee of the eCommerce Agency No 2 Trust and trading as "Harvey Norman Online" ("Harvey Norman Online") is committed to managing your personal information openly and transparently and to keeping your personal information safe. We will take all necessary measures to fulfil this commitment, including to:
 
-### About Our Privacy Policy
+• comply with the Australian Privacy Principles ("APPs");
 
-This privacy policy applies to The Ecommerce Agency Pty Limited A.C.N. 145 985 815 (trading as Harvey Norman Online) of A1 Richmond Road, Homebush West, New South Wales 2140 (referred to as “our”, “us”, “we”). We are an independent franchisee that has been granted a franchise by HN Online Franchisor Pty Ltd ACN 148 935 808 (“Franchisor”), and a limited licence by a related body corporate of the Franchisor, to trade as “Harvey Norman Online” from the website .
+• ensure that we manage your personal information openly and transparently;
 
-We respect your privacy and are committed to handling your personal information in accordance with the Privacy Act 1988 (Cth) (the “Act”).
+• only collect personal information from you that we need in order to offer you the best possible service and customer experience;
 
-This privacy policy explains how we manage your personal information that we collect about you. Please read this privacy policy before using the website at [www.harveynorman.com.au](http://www.harveynorman.com.au/ "Harvey Norman Website") (the "website") or submitting any personal information. By using the website, you are accepting the practices described in this privacy policy.
+• tell you how we might use your personal information;
 
-You are encouraged to review the privacy policy whenever you visit the website to make sure that you understand how any personal information you provide will be used.
+• let you know if we need to disclose your personal information to anyone else (including anyone overseas) and if so, in what circumstances this might occur;
 
-### Collection of Your Personal Information
+• keep your personal information secure;
 
-Your personal information is not collected if you only browse this website.
+• promptly respond to any request by you not to receive direct marketing material from us;
 
-We and/or our third party service providers may collect your personal information:
+• make sure your personal information is kept accurate and up to date and to properly dispose of any personal information which is no longer required by us; and
 
-(a) directly from you;  
-(b) when you register as a member of the website;   
-(c) when you place an order via the website;  
-(d) where you access and interact with the website or the Customer First Team; or  
+• ensure that, where appropriate, you can access and correct your personal information.
+
+### About this Policy
+
+This policy is intended to explain clearly and in plain language some of the key processes and procedures that we have implemented to manage your personal information, to protect your privacy and to comply with the Privacy Act 1988, the Privacy Amendment (Enhancing Privacy Protection) Act 2012 ("Act") and the Australian Privacy Principles.
+
+References to "our", "us" and "we" in this policy are references to The eCommerce Agency Pty Limited A.C.N. 145 985 815 acting in its capacity as trustee of the eCommerce Agency No 2 Trust and trading as "Harvey Norman Online" and its related entities.
+
+[www.harveynorman.com.au](http://www.harveynorman.com.au/ "Harvey Norman Website") ("Website") is owned and administered by The eCommerce Agency Pty Limited.
+
+### What sorts of personal information do we collect?
+
+We will only collect from you information that is necessary and relevant to our relationship with you, including to enable us to provide to you the best possible service and customer experience.
+
+Depending on the exact nature of our relationship with you, we may request that you provide some or all of the following information:
+
+• information that we may require to initially identify you, including your name, home address and your date of birth;
+
+• information that we can use to contact you, including your telephone number, mobile number, email address, work address, mailing address;
+
+• information we may require to confirm your identity, including your driver's licence number, passport details, business name, Medicare card;
+
+• information that may assist us to confirm your financial position or credit history when you are considering a finance or credit arrangement, including your credit card details, bank details, purchase history or transaction details and loan and credit information where finance arrangements apply.
+
+It would be very unusual for us to need to collect all or even most of the above information from you however the information we will require will depend on the specific service or services that we are providing to you. We will only collect personal information from you that we reasonably require in order to satisfactorily perform the services that you require from us.
+
+The Act places restrictions on us collecting sensitive information about you (which includes information about your religion, political views, ethnicity, criminal records and sexual preferences). Generally we will not collect this type of information , however we may need to collect some sensitive information if you are applying for a job with us, and you have provided us with your consent to do so.
+
+### Why do we require your personal information?
+
+There are various reasons why we might need to collect, hold, use or disclose your personal information and this will depend upon the specific services that we are providing to you but we will tell you the main reason for asking for your personal information at the time when we ask you to provide it.
+
+Usually, the main reason that we will need to collect your personal information will be relating to a service that we are providing to you or are about to provide to you and for contacting you in relation to those services. Our main services include the sale, rental and delivery of goods; issuing gift cards; providing credit; repair; processing of warranties and coordinating the installation of goods.
+
+We may also use your personal information for other reasons, including:
+
+• to contact you in relation to an event, special offer or product that you might be interested in;
+
+• preventing fraud and other criminal activities;
+
+• to assist us to run our business and to improve our services and performance, including staff training, accounting, risk management, record keeping, archiving, systems development, developing new products and services and undertaking planning, research and statistical analysis; and
+
+• to comply with our legal obligations.
+
+There is no obligation for you to provide us with any of your personal information but if you choose not to provide us with your personal information, we may not be able to provide the information, goods or services that you require.
+
+### How do we collect your personal information?
+
+The means by which we collect your personal information will depend on the nature of the service that we are providing to you.
+
+We may collect your personal information:
+
+(a) directly from you, either in person or over the phone;
+
+(b) when you place an order via the Website;
+
+(c) when you access and interact with the Website, including access via Social Media sites;
+
+(d) from publically available sources, for example, the electoral role, the telephone directory or from other websites; or
+
 (e) from other sources.
 
-The information collected may include your name, mailing or residential address, telephone number, email address and other transaction and registration details.
+We will always collect your personal information directly from you unless it is impracticable to do so. This would usually be done through application forms, over the telephone, in person or over the internet.
 
-If you choose not to provide us with your personal information, we may not be able to provide the information, goods or the service you may require, or to fulfil one or more other purposes of collection of your personal information.
+Your personal information will not be collected if you are only browsing the Website but we do use cookies to better tailor our information and our services to meet your needs. A cookie is a small piece of text that is placed within the memory of a computer and can be later retrieved by web page servers. Cookies are used to enhance your interaction and convenience in using the Website and we do not use cookies to record any of your personal information. Cookies may record information about your visit, including the type of browser and operating system you use, the previous site you visited, your server’s IP address, the pages you access and the information downloaded by you. While this anonymous statistical data may be aggregated and used in broader statistical analysis by us and our web monitoring service provider to improve our services, at no time can we personally identify you as the source of that data.
 
-We do not collect your credit card or banking details as online payments are handled by TNS and Paypal. Please check the [www.tnsi.com](http://www.tnsi.com/ "TNS Website") and [www.paypal.com.au](http://www.paypal.com.au/ "Paypal Website") websites for details of their privacy policies and security measures.
+Where we are collecting your personal information, we will remind you of the following at the time of collecting your personal information:
 
-### Our Use of Cookies
+(i) our details, including our contact details;
 
-A cookie is a small piece of text that is placed within the memory of a computer and can be later retrieved by web page servers. We use cookies to enhance your interaction and convenience with our website and do not use cookies to record any personal information.
+(ii) that we are collecting your information and the reasons why we are collecting your information;
 
-Cookies may record information about your visit, including the type of browser and operating system you use, the previous site you visited, your server’s IP address, the pages you access and the information downloaded by you. While this anonymous statistical data may be aggregated and used in broader statistical analysis by us and our web monitoring service provider to improve our services, at no time can we personally identify you as the source of that data.
+(iii) if the collection is required or authorised by law, the details of the law, court or tribunal order;
 
-### Use and Disclosure of Personal Information
+(iv) what happens if we cannot collect your personal information;
 
-You acknowledge and consent that by providing your personal information to us that we may use and disclose your personal information for the purposes for which it was collected or for a related or ancillary purpose such as:
+(v) any third parties to whom we may disclose the personal information;
 
-(a) to facilitate and process your order;
+(vi) how you can access and correct your personal information;
 
-(b) to carry out or respond to your requests;
+(vii) how you can complain about any breach of the APPs and how we will handle any such complaints; and
 
-(c) to our third party service providers to assist us in providing and improving our services to you, and to analyse trends in sales and better understand our customer’s needs or to develop, improve and market our products and services to you;
+(viii) whether your personal information is likely to be disclosed to anyone overseas and if practicable, the countries in which those recipients are located.
 
-(d) for regulatory reporting and compliance with our legal obligations;
+### Collecting and disclosing personal information about others
 
-(e) to various regulatory bodies and law enforcement officials and agencies to protect against fraud and for related security purposes;
+Wherever possible, we will collect personal information directly from the relevant individual to whom that information relates.
 
-(f) to our third party service providers to include in a database compiled by us or our third party service provider for use in direct marketing of promotions, product and services we think may interest to you;
+You represent and warrant to us that where you provide personal information to us about another person:
 
-(g) to seek your feedback in relation to customer satisfaction and our relationship with you;
+(a) you are authorised to provide that information to us;
 
-(h) to the Franchisor and its related bodies corporate for internal accounting and administration;
+(b) you have obtained the express consent of the individual to disclose their personal information to us for its relevant use, including for use in our business and to provide our services;
 
-(i) to monitor or improve the quality and standard of service provided to you by Harvey Norman Online;
+(c) you have complied with the APPs in collecting that personal information, including by making all relevant notifications required under APP 5; and
 
-(j) to our successors and/or assigns;
+(d) you have informed that person about the contents of this privacy policy including who we are, how we use and disclose personal information, and that they can gain access to, and correct, that information.
 
-(k) to provide offers that may be of interest to you; and
+### Unsolicited personal information
 
-(l) to better understand your preferences.
+From time to time we may receive personal information about you that we have not requested or taken steps to come to know. In these circumstances, we will only hold onto such information where the information is necessary in our dealings with you. If we determine that the information received is not necessary to our relationship with you then we will take steps to de-identify or destroy the information as soon as is practicable. Any determination as to whether or not the information is required to be retained by us will be made within a reasonable period after the information is received by us. Any information that has not been requested but is subsequently retained by us will be subject to the procedures and requirements set out in this privacy policy.
 
-Our third party service providers are organisations that include those that may assist us with research, mail and delivery, security, professional advisory, banking, payment processing or technology services. Where we engage third party service providers to perform services for us those third parties may be required to handle your personal information. Under these circumstances those third parties must safeguard this information and must only use it for the purposes for which it was supplied, although we are not responsible for ensuring this.
+### How do we use or disclose your personal information?
 
-Other than the above, we will not disclose your personal information without your consent unless disclosure is either necessary to prevent a threat to life or health, authorised or required by law, reasonably necessary to enforce the law or necessary to investigate a suspected unlawful activity.
+We may use and disclose your personal information for the purposes for which it was collected or for a related purpose such as:
 
-Any permitted handling of personal information under any exemptions under the Act will take priority over this Privacy Policy to the extent of any inconsistency.
+(a) to consider your request for a product or service;
 
-### Providing Personal Information About Another Person
+(b) to enable us to provide a product or a service to you;
 
-You represent to us that where you provide personal information to us about another person, you are authorised to provide that information to us, and that you will inform that person who we are, how we use and disclose their information, and that they can gain access to that information;
+(c) to facilitate and process your orders and payments;
 
-### Securing Your Personal Information
+(d) to carry out or respond to your requests;
 
-We have implemented appropriate physical, electronic and managerial security procedures in order to protect personal information from loss, misuse, alteration or destruction. Access to your personal information is limited to those who specifically need it to conduct their responsibilities.
+(e) to any third party suppliers of our goods or services;
 
-We and our third party service providers take reasonable steps to destroy or permanently de-identify your personal information where it is no longer required and to protect your personal information from unauthorised access, disclosure, loss, misuse and alteration.
+(f) to any third party credit provider (where relevant);
 
-### Accuracy and Access to Personal Information
+(g) to our third party service providers to assist us in providing and improving our services to you, and to analyse trends in sales and better understand your needs or to develop, improve and market our products and services to you;
 
-We take reasonable steps to ensure that the information we hold about you is accurate, complete and up-to-date. To assist us to do this, please provide us with the correct information and inform us if your details change. You may update your membership details at any time by accessing your membership account or by contacting our [Customer First Team](https://web.archive.org/contact-us "Harvey Norman Contact Us"). If we deny you access to your personal information, we will provide you with the reason for such denial. We may recover from you our reasonable costs of supplying you with access to this information.
+(h) for regulatory reporting and compliance with our legal obligations;
 
-### Linked Sites
+(i) to relevant third parties to undertake fraud checks;
 
-Harvey Norman Online may contain links to websites which are owned or operated by other parties. You should make your own enquiries as to the privacy policies of these parties. We are not responsible for information on, or the privacy practices of, such websites.
+(j) to various regulatory bodies and law enforcement officials and agencies to protect against fraud and for related security purposes;
 
-### Transmission of Your Data
+(k) to perform administrative and operational tasks (including risk management, systems development and testing, staff training and collecting debts);
 
-While care is taken to protect your personal information on the website, unfortunately no data transmission over the Internet is guaranteed as 100% secure. Accordingly, we cannot ensure or warrant the security of any information you send to us or receive from us online. This is particularly true for information you send to us via email as we have no way of protecting that information until it reaches us. Once we receive your personal information, we are required to protect it in accordance with the Act.
+(l) to include in a database compiled by us or our third party service providers for use in direct marketing of promotions, products and services that we, or our third party service providers, think may be of interest to you;
 
-### Website Hosting and Trans-Border data flows
+(m) to seek your feedback in relation to particular products, customer satisfaction and our relationship with you and to manage any customer complaints;
 
-Your personal information may be transferred to a database or server hosted outside Australia, in which case, we and our third party service providers will comply with the transborder data flow privacy standards under the Act, for example, by taking reasonable steps to protect the information being held, used or disclosed by the recipient inconsistently with the National Privacy Principles. Please contact our [Customer First Team](https://web.archive.org/contact-us "Harvey Norman Contact Us") if you have any objections to such transfers.
+(n) to Harvey Norman Holdings Limited A.C.N. 003 237 545 ("Holdings"), subsidiaries of Holdings and other franchisees of Holdings ("Recipient Parties") for the direct marketing by those
 
-### Changes to our Policy
+Recipient Parties of promotions, products and services offered by those Recipient Parties;
 
-From time to time it may be necessary for us to review and revise this Privacy Policy. We reserve the right to change our Privacy Policy at any time. Amendments or replacements of the Privacy Policy will be posted on the website.
+(o) to monitor or improve the quality and standard of service that we provide to you;
 
-### Direct Marketing
+(p) to consider any concerns or complaints you may raise against us;
 
-You consent for your personal information to be included in a database for use in direct marketing by Harvey Norman Online, the Franchisor, their related entities or their third party contractors. If you do not wish to receive marketing material from us, you can opt-out or unsubscribe, by contacting our [Customer First Team](https://web.archive.org/contact-us "Harvey Norman Contact Us"). All emails, SMS and newsletters from this website allow you to opt-out of further mailings by clicking on the link or responding “unsubscribe”.
+(q) to our agents, successors and/or assigns;
 
-### Interpretation
+(r) to notify you of offers that may be of interest to you; and
 
-All defined terms in this Privacy Policy shall have the same meaning in this Privacy Policy as is given to those terms in the [Terms and Conditions](https://web.archive.org/terms-and-conditions "Harvey Norman Website Terms and Conditions") of this website.
+(s) to better understand your preferences.
 
-### Our Privacy Complaint Process
+By agreeing to accept the terms of this privacy policy or by providing your personal information to us, or both, you are taken to have consented to the use and disclosure of your personal information for the above purposes.
 
-If you are concerned with the way your personal information has been handled, please contact or write to us, or alternatively, contact the Franchisor’s Privacy Officer as set out below. If your personal information has not been handled in an appropriate way, we will take steps to remedy your concerns in a reasonable time.
+At the time that we collect your personal information, we will make it clear to you why we are collecting your information, including through this privacy policy where appropriate. We will not use your personal information for any other purpose without your consent or where we do use your information for another purpose, it will either be for a purpose which we believe is related to the purpose for which you first provided us with the information or for a purpose which you would expect.
 
-The Privacy Officer – Harvey Norman Online  
-A1 Richmond Road, Homebush West, NSW 2112  
-Telephone: 02 9201 6111  
-Fax: 02 9394 6298  
-Email: [HNprivacy.officer@au.harveynorman.com](mailto:HNprivacy.officer@au.harveynorman.com "Email Harvey Norman Online Privacy Officer")
+We may also provide your personal information to third parties as outlined in this privacy policy.
 
-HN Online Privacy Policy Version 3.0 September 2011
+Other than as outlined in this privacy policy or in any notice provided to you at the time of collecting your personal information, we will not disclose your personal information without your consent unless disclosure is either necessary to prevent a threat to life or health, authorised or required by law, reasonably necessary to enforce the law or necessary to investigate a suspected unlawful activity.
+
+### Do we share your personal information with others?
+
+We may share your personal information with other companies that are related to Harvey Norman Online or with any Recipient Party. By agreeing to accept the terms of this privacy policy or by providing your personal information to us, or both, you consent to your personal information being shared with our related entities and with any one or more of the Recipient Parties.
+
+We deal with third party service providers who may assist us with a variety of functions including with research, mail and delivery, security, insurance, professional advisory (including legal, accounting and auditing advice), banking, payment processing, credit reporting, fraud checks or technology services. By agreeing to accept the terms of this privacy policy or by providing your personal information to us, or both, you are taken to have consented to us disclosing your personal information to our third party service providers. Where we engage third party service providers to perform services for us, those third parties may be required to handle or deal with your personal information. Under these circumstances, those third parties must safeguard this information and must only use it for the purposes for which it was supplied and we will make all reasonable enquiries to try to ensure that this is the case.
+
+Wherever possible, we will limit the information provided to independent third parties to that information required for those third parties to properly perform their functions. Further, our contracts with these third parties will always require the third parties to comply with the APPs (or equivalent standards).
+
+### Do we use your personal information for marketing purposes?
+
+As part of the services that we provide to you, we may:
+
+(a) use personal information that we have collected about you to identify a product or service that may benefit you;
+
+(b) contact you from time to time to let you know about a product or service that we believe you might be interested in; and
+
+(c) disclose your personal information to our related entities, any one or more of the Recipient Parties or to our business partners to enable them to tell you about a product or service that you might be interested in.
+
+By providing your personal information to us or by agreeing to accept the terms of this privacy policy, or both, you consent to your personal information being included in our database to be used for direct marketing purposes, including those described above, however, you can opt-out, unsubscribe or make a request not receive direct marketing communications from us, by calling 02 9763-6891 or by writing to us at A1 Richmond Road Homebush West NSW 2140 or by logging such a request through the Website at any time. Additionally, each direct marketing communication, including all emails and SMS, will include an opt-out or "unsubscribe" option which will immediately indicate to us that you no longer wish to receive materials of this kind. If you make a request not to receive direct marketing communications from us, we will stop sending you these materials.
+
+You may make a request that we do not disclose your personal information to facilitate direct marketing by another organisation and you may request that we provide you with the source of any personal information we use for direct marketing purposes. Any such requests will be actioned within a reasonable period and there will be no charges to you for making, or to you from us actioning, such requests.
+
+### How do we store your personal information?
+
+We have implemented appropriate processes and techniques (including physical security such as locks and security systems and computer and network security, including firewalls and passwords) to protect personal information from loss, misuse and interference and from unauthorised access, modification or disclosure. In addition, access to your personal information is limited to those who specifically need it to conduct their responsibilities.
+
+We and our third party service providers take all necessary steps to destroy or permanently de-identify your personal information where it is no longer required and to protect your personal information from loss, misuse and interference and from unauthorised access, modification or disclosure.
+
+While care is taken to protect your personal information on the Website, unfortunately no data transmission over the Internet is guaranteed as 100% secure. Accordingly, we cannot ensure or warrant the security of any information you send to us or receive from us online. This is particularly true for information you send to us via email as we have no way of protecting that information until it reaches us. Once we receive your personal information, we are required to protect it in accordance with the Act.
+
+Maintaining your personal information
+
+We take reasonable steps to ensure that:
+
+(a) the information that we collect about you is accurate, complete and up-to-date at the time of collection;
+
+(b) when we use your personal information, it is accurate, up-to-date, complete and accurate at the time of use; and
+
+(c) if we disclose your personal information, it is accurate, up-to-date, complete and accurate at the time of disclosure.
+
+### Will we disclose your personal information to anyone overseas?
+
+There may be circumstances where we need to disclose your personal information to a third party overseas. This may occur, for example, where we have a database or server hosted outside Australia.
+
+APP 8.1 requires that we will take all reasonable steps to ensure that the third party recipient of your information complies with the APPs (other than APP 1) in relation to your information, or that the third party recipient is bound by laws that offer you at least as much protection as the APPs and that you are able to enforce your rights under those international laws in the event of any breach. Now that you are aware of our obligations and your rights under APP 8.1, please confirm your consent to us disclosing your personal information to overseas third parties by reading the following paragraph and ticking the box below.
+
+I am aware of the obligations of Harvey Norman Online and the protections for me contained in APP 8.1 and as summarised above and I consent to Harvey Norman Online disclosing my personal information to overseas third parties on the understanding that in so consenting, Harvey Norman Online will not be subject to the obligations otherwise imposed on Harvey Norman Online by APP 8.1 and I will not be afforded the protections otherwise provided to me by APP 8.1.
+
+The countries to which we are most likely to send your personal information include New Zealand, United States, United Kingdom and Singapore.
+
+### How can you access your personal information?
+
+Usually we will be able to provide you with access to your personal information upon receipt of your written request by post sent to A1 Richmond Road Homebush West NSW 2140, and confirmation of your identity. There are some limited circumstances in which we may not be able to provide you with access to your personal information when requested. Such circumstances might include where access would pose a serious threat to the life, health or safety of another person or where such access would unreasonably impact on the privacy of others.
+
+Where you request access to your personal information, we will respond to any such request within a reasonable period after the request is made and if possible, we will provide you with access to your information in the manner requested by you, if specified. In any event, we will take all reasonable steps to give you access to your information in a way that meets your needs.
+
+If we deny you access to your personal information for any reason, or if we are unable to provide you with access to your information in the manner requested by you, then we will provide you with a written notice confirming:
+
+(a) the reason for such refusal; and
+
+(b) the procedure to complain about the refusal.
+
+We may recover from you our reasonable costs of supplying you with access to your personal information but we will not charge you for any request you might make to access your information.
+
+### How can you seek to correct your personal information?
+
+We do what we can to ensure that the information we hold about you is accurate, complete, up-to-date, relevant and not misleading. To assist us to do this, please ensure that you provide us with correct information at the time you provide it to us and immediately inform us if your details change at any time. If we are concerned that any of your information is inaccurate, incomplete, out-of-date, irrelevant or misleading, or if you request that we correct any of your information, then we will take all reasonable steps to correct the information to ensure that it is accurate, complete, up-to-date, relevant and not misleading in the context of the purpose for which it is held.
+
+If we correct any of your personal information and that information has previously been disclosed to another entity that is required to comply with the APPs, then, upon your request to do so, we will take reasonable steps to notify that other entity of the correction unless such notification is impracticable or unlawful.
+
+If we refuse to correct your personal information following a request by you to do so, then we will provide you with a written notice confirming:
+
+(a) the reason for such refusal; and
+
+(b) the procedure to complain about the refusal.
+
+If we refuse to correct your personal information following a request by you to do so and you request that we associate with the information a statement that the information is inaccurate, out-of-date, incomplete, irrelevant or misleading then we will take reasonable steps to associate the statement with the information so that the statement is apparent to users of the information.
+
+We will respond to any requests regarding the correction of your personal information within a reasonable period after the request is made.
+
+We will not charge you for any request to correct your personal information, nor will we pass on to you any costs incurred by us in correcting your personal information or for associating a statement with your personal information.
+
+### What if you want to make a complaint about some aspect of our privacy procedures?
+
+We are committed to maintaining and protecting your privacy but it is possible that in limited circumstances, mistakes might be made. If you are concerned with the way your personal information has been handled then you are entitled to make a complaint. If you would like to lodge a complaint, please contact us through our Privacy Compliance Officer, whose details are set out below.
+
+**The Franchisee**
+
+If your personal information has not been handled in an appropriate way, we will do our best to remedy your concerns as quickly as possible, including by acknowledging receipt of your complaint within 48 hours and trying to resolve the complaint within 10 working days. Where this is not possible, we will contact you within this period to let you know an anticipated time frame within which your complaint will be resolved.
+
+If your complaint is not satisfactorily resolved, you may approach an external dispute resolution service or apply to the Office of the Australian Information Commissioner ("OAIC") to have the complaint heard and determined.
+
+### Protecting your identity
+
+Wherever it is practicable, you will always provide you with the option not to identify yourself when dealing with us. Alternatively, you may elect to use a pseudonym to protect your identity.
+
+### Links to other websites
+
+This Website may contain links to websites which are owned or operated by other parties. You should make your own enquiries as to the privacy policies of these parties. We are not responsible for information on, or the privacy practices of, such websites.
+
+### Changes to this policy
+
+From time to time it may be necessary for us to review and revise this privacy policy. We reserve the right to change our privacy policy at any time.
+
+### How can you contact us?
+
+Please find below our contact details. Please do not hesitate to contact us in relation to any privacy-related concerns and we will use our best endeavours to address any such concerns thoroughly and in a timely manner.
+
+If it is practical to do so, you can contact us without identifying yourself. However, if you choose not to identify yourself, it may be more difficult for us to assist you with your enquiry. This will depend on the nature of your enquiry.
+
+Harvey Norman Online  
+Postal address: A1 Richmond Road Homebush West NSW 2140  
+E-mail address: [HNPrivacy.officer@au.harveynorman.com](mailto:HNPrivacy.officer@au.harveynorman.com "Email Harvey Norman Online Privacy Officer")  
+Phone: 02 9763-6891
+
+Please note that the Act contains certain exemptions which may permit us to use your personal information in a particular way if specific circumstances arise. Any such exemptions under the Act will take priority over this privacy policy to the extent of any inconsistency.
+
+### Express consent to collection, storage, use and disclosure
+
+In addition to the other consents provided by you above, by agreeing to accept the terms of this privacy policy, or by providing your personal information to us, or both, you are taken to have expressly consented to the collection, storage, use and disclosure of your personal information for each of the purposes and to all of the parties outlined in this privacy policy.
+
+Harvey Norman Privacy Policy Version-1 March 2014
