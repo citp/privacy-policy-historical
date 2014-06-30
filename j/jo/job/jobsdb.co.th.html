@@ -1,21 +1,22 @@
-<!--The following is the downloaded HTML source of the jobsdb.co.th privacy policy that was archived on 2013-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131226014634id_/http%3A//th.jobsdb.com/TH/en/StaticContentContainer/PrivacyPolicy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jobsdb.co.th privacy policy that was archived on 2014-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140630090209id_/http%3A//th.jobsdb.com/TH/en/StaticContentContainer/PrivacyPolicy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 
-    <link rel="SHORTCUT ICON" href="http://content.jobsdb.co.th/Content/v187/Images/shared/v8revamp2/favicon.ico">
-<link href="http://content.jobsdb.co.th/Content/v187/Css/minEffect.css" rel="stylesheet" type="text/css" media="all">
-<link href="http://content.jobsdb.co.th/Content/v187/Css/minJs.css" rel="stylesheet" type="text/css" media="all">
-<link href="http://content.jobsdb.co.th/Content/v187/Css/minJs_RevampQuirkmode.css" rel="stylesheet" type="text/css" media="all">
+    <meta name="referrer" content="origin">
+    <link rel="SHORTCUT ICON" href="http://content.jobsdb.co.th/Content/v208/Images/shared/v8revamp2/favicon.ico">
+<link href="http://content.jobsdb.co.th/Content/v208/Css/minEffect.css" rel="stylesheet" type="text/css" media="all">
+<link href="http://content.jobsdb.co.th/Content/v208/Css/minJs.css" rel="stylesheet" type="text/css" media="all">
+<link href="http://content.jobsdb.co.th/Content/v208/Css/minJs_RevampQuirkmode.css" rel="stylesheet" type="text/css" media="all">
 
     
-<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-QT33"></script><script src="http://content.jobsdb.co.th/Content/v187/Javascript/jquery-1.3.2.min.js" type="text/javascript"></script><script src="http://content.jobsdb.co.th/Content/v187/Javascript/detect-zoom.js" type="text/javascript"></script></head>
+<script src="http://content.jobsdb.co.th/Content/v208/Javascript/jquery-1.3.2.min.js" type="text/javascript"></script><script src="http://content.jobsdb.co.th/Content/v208/Javascript/detect-zoom.js" type="text/javascript"></script></head>
 <body>
     <div class="wrapper wrapPopup">
         <div id="container">
             <div id="header785">
                 
-                    <img src="http://content.jobsdb.co.th/Content/v187/Images/Shared/v8Revamp/img_joblisting_v8i.gif">
+                    <img src="http://content.jobsdb.co.th/Content/v208/Images/Shared/v8Revamp/img_joblisting_v8i.gif">
                 
             </div>
             <div class="clearboth">
@@ -104,11 +105,11 @@
   <p align="justify">This Statement is made and agreed in English which shall be the governing language. As required by the prevailing laws and regulations, this Statement may be translated into other language. In the event of any inconsistency between the English language and the other language versions, the English language version shall prevail of such inconsistency and such other language version shall be amended accordingly to reflect the meaning of the English version. Users hereby undertake that they have read this Statement and understand its English contents.</p>
   
   <p align="justify">Effective Date: 13 September 2012</p>
-</div></div><script type="text/javascript">if (typeof jQuery == 'undefined'){ var script = document.createElement('script'); script.setAttribute('src', 'http://content.jobsdb.co.th/Content/v187/Javascript/jquery-1.3.2.min.js'); script.setAttribute('type', 'text/javascript'); document.getElementsByTagName('head')[0].appendChild(script);
-var script2 = document.createElement('script'); script2.setAttribute('src', 'http://content.jobsdb.co.th/Content/v187/Javascript/detect-zoom.js'); script2.setAttribute('type', 'text/javascript'); document.getElementsByTagName('head')[0].appendChild(script2);}</script><script type="text/javascript" src="http://content.jobsdb.co.th/Content/v187/Javascript/detect-zoom.js"></script><script type="text/javascript">
+</div></div><script type="text/javascript">if (typeof jQuery == 'undefined'){ var script = document.createElement('script'); script.setAttribute('src', 'http://content.jobsdb.co.th/Content/v208/Javascript/jquery-1.3.2.min.js'); script.setAttribute('type', 'text/javascript'); document.getElementsByTagName('head')[0].appendChild(script);
+var script2 = document.createElement('script'); script2.setAttribute('src', 'http://content.jobsdb.co.th/Content/v208/Javascript/detect-zoom.js'); script2.setAttribute('type', 'text/javascript'); document.getElementsByTagName('head')[0].appendChild(script2);}</script><script type="text/javascript" src="http://content.jobsdb.co.th/Content/v208/Javascript/detect-zoom.js"></script><script type="text/javascript">
 var siteCatalystAccID = 'jobsdb-prd-th';
 </script>
-<script type="text/JavaScript" src="http://content.jobsdb.co.th/Content/v187/Javascript/s_code.js"></script>
+<script type="text/JavaScript" src="http://content.jobsdb.co.th/Content/v208/Javascript/s_code.js"></script>
 <script type="text/javascript">
 //<![CDATA[
 function InitOmnitureSiteCatalyst(s){
@@ -136,18 +137,32 @@ s.eVar10 = "D=s_vi";
 s.prop6 = "D=v6";
 s.prop10 = "D=v10";
 s.pageName = ["staticcontent","renderwithcontainer"].join('/');
+s.contextData['AB.NonMemP1'] = getP1ABTestingStatus(getCookie('IsUsingP1RevampPage'));s.contextData['AB.MemP1'] = getP1ABTestingStatus(getCookie('IsUsingP1MemberApply'));
+var IsHasResumeId; var IsHasP1Profile;
 var visitNumber = s.getVisitNum();
 var languageCodeID = getLanguageID(s.eVar1);
-var IsHasResumeId = 0;
 var loginStatusID = getLoginStatusID(s.eVar4);
 if (loginStatusID == 0) {
 IsHasResumeId = 0;
+IsHasP1Profile = 2;
+}
+else{
+var userClassificationCookie = getCookie('UserClassification');
+if(userClassificationCookie == null) {
+$.ajax({url: "http://th.jobsdb.com/TH/EN/JobSeeker/UpdateUserClassificationCookie", async: false, cache: false, type: "GET"})
+userClassificationCookie = getCookie('UserClassification');
+}
+var cookieObj = JSON.parse(userClassificationCookie);
+IsHasResumeId = cookieObj.IsHasResume;
+IsHasP1Profile = cookieObj.IsHasP1Profile;
 }
 var zoomRatio = 0; 
 if (window.parent.detectZoom != undefined) {
 zoomRatio = Math.round(window.parent.detectZoom.zoom()*1000)/10; }
-s.eVar51 = visitNumber + ":" + languageCodeID + ":" + loginStatusID + ":" + IsHasResumeId + ":" + zoomRatio + ":0:0:0:0:0";
-var s_code=s.t();if(s_code)document.write(s_code);}
+s.eVar51 = visitNumber + ":" + languageCodeID + ":" + loginStatusID + ":" + IsHasResumeId + ":" + zoomRatio + ":" + IsHasP1Profile +":0:0:0:0";
+var s_code=s.t();if(s_code)document.write(s_code);
+if(typeof InitGoogleTagManager === 'function') { InitGoogleTagManager(); }
+}
 if(window.parent && window.parent != window && window.parent.suppressChildOmnitureCodesPageName != undefined){
 suppressOmnitureCodes = (window.parent.suppressChildOmnitureCodesPageName == ["staticcontent","renderwithcontainer"].join('/'));
 }
@@ -163,13 +178,17 @@ JobsDB_Common.ClearPageTrackOmnitureCarry();
 //]]>
 }</script>
 <!-- Google Tag Manager -->
-    <noscript><iframe src='//www.googletagmanager.com/ns.html?id=GTM-QT33' height='0' width='0' style='display:none;visibility:hidden'></iframe></noscript>
-    <script>ga_account='UA-2012489-14';
+<noscript><iframe src='//www.googletagmanager.com/ns.html?id=GTM-QT33' height='0' width='0' style='display:none;visibility:hidden'></iframe></noscript>
+<script>ga_account='UA-2012489-14';
+function InitGoogleTagManager()
+{
     (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});
     var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;
     j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-    })(window,document,'script','dataLayer','GTM-QT33');</script>
-    <!-- End Google Tag Manager -->
+    })(window,document,'script','dataLayer','GTM-QT33');
+}    
+</script>
+<!-- End Google Tag Manager -->
                 
                 </div>
                 <div class="clearboth">
@@ -181,7 +200,7 @@ JobsDB_Common.ClearPageTrackOmnitureCarry();
         <div class="pushPopup"></div>
     </div>
     <div id="footer785">
-        <div class="left">Copyright © 1998-2013, jobsDB Inc. All Rights Reserved. </div>
+        <div class="left">Copyright © 1998-2014, jobsDB Inc. All Rights Reserved. </div>
         <div class="right">
             
                     <!--BEGIN WEB STAT CODE-->
