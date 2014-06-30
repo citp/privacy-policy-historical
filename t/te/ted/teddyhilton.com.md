@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teddyhilton.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231231308id_/http%3A//perezhilton.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teddyhilton.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630101019id_/http%3A//perezhilton.com/privacy-notice) for the most accurate reproduction.*
 
 # INTERNET PRIVACY NOTICE | PerezHilton.com
 
