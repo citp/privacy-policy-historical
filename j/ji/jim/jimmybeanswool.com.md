@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jimmybeanswool.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230233817id_/http%3A//www.jimmybeanswool.com/secure-html/onlineec/privacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jimmybeanswool.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630213603id_/http%3A//www.jimmybeanswool.com/secure-html/onlineec/privacyPolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy at Jimmy Beans Wool
 
@@ -39,14 +39,14 @@ Jimmy Beans Wool does not rent, sell, or share personal information about you wi
   
   * If you have an account, you can [log in to to your account](https://www.jimmybeanswool.com/secure-html/onlineec/accountLogin.asp) and edit your personal options. These changes are effective on the site immediately.
   * If you don't have an account, you can [update your notification options](http://www.jimmybeanswool.com/notificationsUpdate.asp) for all of our email lists. These changes are effective on the site immediately.
-  * You can request that we delete your personal information by [contacting us](https://web.archive.org/web/20131230233817id_/http%3A//www.jimmybeanswool.com/contactUs.asp). Please include your name and order number, if the order number is available.
+  * You can request that we delete your personal information by [contacting us](https://web.archive.org/web/20140630213603id_/http%3A//www.jimmybeanswool.com/contactUs.asp). Please include your name and order number, if the order number is available.
 
   
   
 ### Confidentiality and Security  
   
   * We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. 
-  * In certain areas, such as the shopping cart and payment information entry pages, Jimmy Beans Wool uses industry-standard SSL-encryption to protect data transmissions. We also implement a variety of other security measures to ensure your private information stays private. Please see our [frequently asked questions](https://web.archive.org/web/20131230233817id_/http%3A//www.jimmybeanswool.com/faqs.asp) for more information.
+  * In certain areas, such as the shopping cart and payment information entry pages, Jimmy Beans Wool uses industry-standard SSL-encryption to protect data transmissions. We also implement a variety of other security measures to ensure your private information stays private. Please see our [frequently asked questions](https://web.archive.org/web/20140630213603id_/http%3A//www.jimmybeanswool.com/faqs.asp) for more information.
 
   
   
@@ -58,7 +58,7 @@ Jimmy Beans Wool does not rent, sell, or share personal information about you wi
   
 ### Questions and Suggestions  
   
-  * If you have questions or suggestions, please [contact us](https://web.archive.org/web/20131230233817id_/http%3A//www.jimmybeanswool.com/contactus.asp). 
+  * If you have questions or suggestions, please [contact us](https://web.archive.org/web/20140630213603id_/http%3A//www.jimmybeanswool.com/contactus.asp). 
 
   
   
