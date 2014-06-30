@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nextgenupdate.com privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521200233id_/http%3A//www.nextgenupdate.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nextgenupdate.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630234449id_/http%3A//www.nextgenupdate.com/policies/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - NextGenUpdate
 
 This Privacy Policy governs the manner in which NextGenUpdate Inc. collects, uses, maintains and discloses information collected from users of http://www.nextgenupdate.com. This privacy policy applies to the Site and all products and services offered by NextGenUpdate Inc..
 
@@ -50,4 +50,4 @@ By using NextGenUpdate, you signify your acceptance of this policy. If you do no
 
 IX) Contacting us
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: [support@nextgenupdate.com](https://web.archive.org/web/20130521200233id_/http%3A//www.nextgenupdate.com/policies/support@nextgenupdate.com)
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: [support@nextgenupdate.com](https://web.archive.org/web/20140630234449id_/http%3A//www.nextgenupdate.com/policies/support@nextgenupdate.com)
