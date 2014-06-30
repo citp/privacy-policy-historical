@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the bookmarktechnology.com privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213041252id_/http%3A//www.bookmarktechnology.com/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookmarktechnology.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630235533id_/http%3A//www.bookmarktechnology.com/static/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bookmark Technology
-
-[ ](http://www.servedome.com/)
-
-[](http://www.shareasale.com/r.cfm?b=428935&u=831996&m=43951&urllink=&afftrack=)
 
 ## **Privacy Policy**
 
@@ -19,10 +15,3 @@
 **Links to third party Websites** We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own.
 
 **Changes to this Privacy Statement** The contents of this statement may be altered at any time, at our discretion. If you have any questions regarding the privacy policy of Company Profile Examples then you may contact us at lamp.info20@gmail.com
-
-[](http://www.adworkmedia.com/affiliate-publisher.php?ref=32288)
-
-[ ](http://www.mb01.com/lnk.asp?o=4728&c=55166&a=135852)
-
-  
-
