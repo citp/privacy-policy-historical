@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the naturalbabyshower.co.uk privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230035606id_/http%3A//www.naturalbabyshower.co.uk/online-media/privacy-policy-cookie-restriction-mode.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naturalbabyshower.co.uk privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630184109id_/https%3A//www.naturalbabyshower.co.uk/online-media/privacy-policy-cookie-restriction-mode.html) for the most accurate reproduction.*
 
 # Privacy Policy | Natural Baby Shower
 
 This privacy policy sets out how Natural Baby Shower Ltd uses and protects any information that you give Natural Baby Shower Ltd when you use this website. Natural Baby Shower Ltd is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. Natural Baby Shower Ltd may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.
 
 ## What we collect
+
+We do not store credit card details nor do we share customer details with any 3rd parties.
 
 We may collect the following information:
 
@@ -15,16 +17,14 @@ We may collect the following information:
 
 
 
-For the exhaustive list of cookies we collect see the List of cookies we collect section.
-
 ## What we do with the information we gather
 
 We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
   * Internal record keeping.
   * We may use the information to improve our products and services.
-  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided. 
-  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests. 
+  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
 
 
 
@@ -48,8 +48,8 @@ Our website may contain links to other websites of interest. However, once you h
 
 You may choose to restrict the collection or use of your personal information in the following ways:
 
-  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes 
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at hello@naturalbabyshower.co.uk 
+  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at hello@naturalbabyshower.co.uk
 
 
 
@@ -63,7 +63,7 @@ If you believe that any information we are holding on you is incorrect or incomp
 
 The table below lists the cookies we collect and what information they store.
 
-COOKIE name | COOKIE Description  
+COOKIE name| COOKIE Description  
 ---|---  
 CART | The association with your shopping cart.  
 CATEGORY_INFO | Stores the category info on the page, that allows to display pages more quickly.  
