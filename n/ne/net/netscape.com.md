@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netscape.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626110515id_/http%3A//privacy.aol.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netscape.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630100613id_/http%3A//privacy.aol.com) for the most accurate reproduction.*
 
 # AOL Privacy
 
@@ -14,7 +14,7 @@ Your AOL information is used to operate and improve our services, fulfill your r
 
 ### Information Sharing
 
-AOL does not share, sell or rent your personal information to third parties. Your information is shared with third parties with your permission, except in response to legal process.
+AOL may share your personal information in limited circumstances, including when we have your consent to do so or when sharing is necessary to protect AOL or comply with the law. Our agents and contractors may have access to your information, but only to perform services for AOL. We do not sell or rent your personal information to third parties.
 
 ### Internet Advertising
 
