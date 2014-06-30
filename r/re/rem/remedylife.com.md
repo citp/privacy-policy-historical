@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the remedylife.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231080111id_/http%3A//www.remedyhealthmedia.com/files/3813/2337/7724/Remedy_Health_Media_Privacy_Policy_2011.12.05.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the remedylife.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630153931id_/http%3A//www.remedyhealthmedia.com/files/3813/2337/7724/Remedy_Health_Media_Privacy_Policy_2011.12.05.pdf) for the most accurate reproduction.*
 
 # Remedy Health Media, LLC
 
