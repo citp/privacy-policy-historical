@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluesombrero.com privacy policy that was archived on 2013-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130420071230id_/http%3A//www.bluesombrero.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluesombrero.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630112545id_/http%3A//www.bluesombrero.com/privacy) for the most accurate reproduction.*
 
 # Free Online Registration & Club Management for Youth Sports
 
