@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adpasar.sg privacy policy that was archived on 2013-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131219171326id_/http%3A//adpasar.sg/cgi-bin/auction/auction.cgi%3Faction%3DPrivacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adpasar.sg privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630034618id_/http%3A//adpasar.sg/cgi-bin/auction/auction.cgi%3Faction%3DPrivacy_Policy) for the most accurate reproduction.*
 
 # Online Shopping Singapore - Shopping site for cheap second hand items & garage sale discounts locally.
 
