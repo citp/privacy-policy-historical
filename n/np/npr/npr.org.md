@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the npr.org privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231025452id_/http%3A//www.npr.org/about-npr/179878450/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the npr.org privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630073736id_/http%3A//www.npr.org/about-npr/179878450/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : NPR
 
