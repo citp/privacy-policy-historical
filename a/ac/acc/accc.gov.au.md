@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the accc.gov.au privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229140026id_/http%3A//www.accc.gov.au/about-us/using-our-website/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accc.gov.au privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630232638id_/http%3A//www.accc.gov.au/about-us/using-our-website/privacy) for the most accurate reproduction.*
 
 # Privacy | ACCC
 
-The ACCC is subject to the _Privacy Act 1988_ and the Information Privacy Principles contained in that Act. The Information Privacy Principles set out the manner in which Australian Government agencies can collect, store, use and disclose personal information and how a person can access records containing their personal information.
+The ACCC is subject to the _Privacy Act 1988_ and the Australian Privacy Principles (APPs) contained in that Act. The APPs set out the manner in which agencies and organisations may collect, store, use and disclose personal information and how a person can access and/or correct records containing their personal information.
 
-### When you visit our site
+### When you visit this site
 
 Our objective in maintaining an active and expanding site is to improve communication with the community at large, specifically to:
 
@@ -13,70 +13,70 @@ Our objective in maintaining an active and expanding site is to improve communic
 
 
 
-This site is operated by the ACCC using both Australian Government and commercial web hosting facilities. When visiting this site, a record of your visit is logged. The following clickstream data is recorded and is used by us for statistical purposes:
+We operate our website using both Australian Government and commercial web hosting facilities. When visiting this site, a record of your visit is logged. The following clickstream data is recorded and is used by us for statistical purposes:
 
-  * your server address
-  * your top level domain name (for example .com, .gov, .au, .uk etc)
+  * your IP address
+  * your top level domain name (e.g. .com, .gov, .au, .uk)
   * the type of browser you are using
-  * your operating system (for example Windows, Mac etc)
+  * your operating system (e.g. Windows, Mac)
   * the date and time of the visit to the site
   * the pages accessed and the documents downloaded
   * the internet address of the site from which you linked directly to our site.
 
 
 
-No attempt will be made to identify users or their browsing activities except in the unlikely event of an investigation when a law enforcement agency or other government agency may exercise its legal authority to inspect our internet web server logs.
+No attempt will be made to identify users or their browsing activities except in the unlikely event of an investigation when a law enforcement agency or other government agency may exercise its legal authority to inspect our internet web server logs.
 
 ### When you subscribe to email alerts
 
-When you subscribe to email alerts you must provide an email address to which the system can send your alerts. We will not use your email address to send you unsolicited information.
+When you subscribe to email alerts you must provide an email address to which the system can send your alerts. We will not use your email address to send you unsolicited information, unless you otherwise indicate that you would like to receive this information from us.
 
-### When you contact us
+### When you complete an online form or make a submission
 
-Any other personal information collected by us will only be collected:
+We may only solicit and collect personal information:
 
-  * for a lawful purpose directly related to a function or activity of the ACCC.
-  * when it is necessary for or directly related to that lawful purpose
+  * for a lawful purpose that is reasonably necessary for, or directly related to, one or more of our functions or activities
   * by lawful and fair means.
 
 
 
-The ACCC may collect personal information about you when you:
+We provide a number of online forms for enquiries, complaints, reports, submissions and web feedback. Not all of our online forms provide facilities for the secure transmission of information across the internet. You should be aware that there are inherent risks transmitting information across the internet using non-secure forms. Our secure forms can be identified by the padlock symbol and an address starting with https://.
 
-  * complete an electronic complaints or enquiries form
-  * send us an email
-  * make phone complaints and inquiries
-  * send correspondence to any of the ACCC offices.
+With the exception of clickstream data recorded when you visit our website, the personal information you provide the ACCC is voluntary.
 
+Our site uses cookies to better serve you when you return to the website. A cookie is a piece of data that a site can send to your browser, which may then be stored on your computer as an anonymous tag that identifies your computer but not you.
 
+You can set your browser to notify you before you receive a cookie, giving you the chance to decide whether to accept it. You can also set your browser to turn off cookies. If you do so, some pages in the site may not work properly.
 
-The information collected will be used to help us perform our duties or functions and may be provided to other regulatory agencies where appropriate. We may also disclose information in accordance with the law (for example, court orders).
+Cookies are either persistent or session based. Persistent cookies are stored on your computer, contain an expiry date, and may be used to track your browsing behaviour upon return to the issuing site. Session cookies are short-lived, are used only during a browsing session, and expire when you quit your browser.
 
-However, when requested, we will seek to ensure that a complainant remains anonymous or details of the complaint itself remain confidential. As some complaints are also inherently confidential in nature, even if a complainant does not make such a request, we will seek to protect the complainant if disclosure would have a substantially adverse effect on the complainant.
+Our site uses both kinds of cookies to provide a rich and session based experience. The cookies are used to enable us to track users’ browsing patterns in order to provide statistical information to improve the usability of the site.
 
-Our site does not provide facilities for the secure transmission of information across the internet. You should be aware that there are inherent risks transmitting information across the internet.
+If you do provide us with your personal information and you wish to limit the use and disclosure of personal information, we recommend you expressly state those limitations when contacting us.
 
-A cookie is a piece of data that a site can send to your browser, which may then be stored on your computer as an anonymous tag that identifies your computer but not you. Our site uses cookies to better serve you when you return to the website. You can set your browser to notify you before you receive a cookie, giving you the chance to decide whether to accept it. You can also set your browser to turn off cookies. If you do so, however, some pages in the site may not work properly.
+If you provide personal information in the course of a public review process, for example you make a submission which may be placed on an ACCC website and you do not wish for your personal information to be disclosed, you should expressly state this and we can take steps to redact your personal information before placing your submission on the website.
 
-Cookies are either persistent or session based. Persistent cookies are stored on your computer, contain an expiration date, and may be used to track your browsing behaviour upon return to the issuing site. Session cookies are short-lived, are used only during a browsing session, and expire when you quit your browser.
+If you do not wish to provide the ACCC with your personal information, you may contact us anonymously, or by using a pseudonym. By remaining anonymous, or by using a pseudonym, we may be limited in our ability to respond to or make further enquiries regarding your complaint, submission or enquiry with us.
 
-Our site uses both kinds of cookies to provide a rich and session based experience. The cookies are used to enable us to track users browsing patterns in order to provide statistical information to improve the usability of the site.
+To request access to your personal information, please email [privacy@accc.gov.au](mailto:privacy@accc.gov.au). When making your request, please provide sufficient information to enable us to identify records held by us that contain your personal information and to verify that the information contained in the records is your personal information.
 
-The ACCC will store, use and disclose personal information in a manner consistent with our obligations under the _Privacy Act 1988_ and the Information Privacy Principles
+We will provide you access to your personal information except where we are not required to do so.
 
-We do not generally use information collected from our site for any other purpose than to improve services or to respond to complaints, enquiries, or feedback. When you provide us with an email address, it will not be added to a mailing list unless you have specifically requested this.
+Where access is refused, the ACCC will act in accordance with the Privacy Act and the APPs.
 
-No data collected from the site will be disclosed to a third party except where it is legally required, such as in the investigation of a criminal offence, or in compliance with a search warrant or subpoena.
+You can request to correct your personal information by:
 
-If you want to
-
-  * obtain access to your personal information
-  * make a complaint about a breach of your privacy
-  * query how your personal information is collected, used or disclosed
-  * ask questions about our Privacy Statement
+  * contacting the staff member or area of the ACCC and AER that you had contact with, or
+  * emailing [privacy@accc.gov.au](mailto:privacy@accc.gov.au) providing sufficient information to enable us to identify records held by us that contain your personal information and the correction you wish to make.
 
 
 
-Please use our [feedback form](http://transition.accc.gov.au/content/maintain/create/index.phtml?contentTypeName=acccWebFeedback&informationSpaceItemId=tag.AcccFeedbackInternet&inPop=1&returnUrl=.) or contact us.
+If we are unable to correct your personal information in the manner you request, we will act in accordance with the procedures outlined in the Privacy Act and the APPs.
 
-Users inquiring about their rights and remedies for breaches of privacy can access detailed information at the [Office of the Australian Information Commissioner](http://www.oaic.gov.au/)
+If you believe the ACCC or AER has breached the APPs you can lodge a complaint with the ACCC by email to [privacy@accc.gov.au](mailto:privacy@accc.gov.au). We will respond to your complaint as soon as possible.
+
+You may also wish to read our [Service Charter](https://web.archive.org/about-us/australian-competition-consumer-commission/service-charter).
+
+Users enquiring about their rights and remedies for breaches of privacy can access detailed information at the [Office of the Australian Information Commissioner](http://www.oaic.gov.au/).
+
+For further information please refer to the [ACCC / AER Privacy Policy](https://web.archive.org/publications/accc-aer-privacy-policy).
