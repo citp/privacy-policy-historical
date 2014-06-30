@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the kartrocket.com privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106005220id_/http%3A//www.kartrocket.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kartrocket.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630034847id_/http%3A//www.kartrocket.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - KartRocket
+# Privacy Policy - KartRocket.com
 
-KartRocketTM collects e-mail addresses and other contact details of people who register at our website and send us e-mail. The information we collect is not shared with or sold to others except under the certain circumstances and which your use of the Service is deemed to provide to us a valid consent to disclose the following:
+KartRocketTM collects e-mail addresses and other [contact](http://www.kartrocket.com/about-us/contact/ "contact") details of people who register at our website and send us e-mail. The information we collect is not shared with or sold to others except under the certain circumstances and which your use of the Service is deemed to provide to us a valid consent to disclose the following:
 
 In order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of KartRocket’s terms of use, or as otherwise required by law.
 
