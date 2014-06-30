@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dundas.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226005547id_/http%3A//www.dundas.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dundas.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630063917id_/http%3A//www.dundas.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Dundas Data Visualization
 
@@ -153,8 +153,8 @@ If you have a question about the privacy policies stated on this site, please ca
 
 If you have a concern or complaint about privacy, confidentiality or the personal information handling practices of Dundas, our employees or service suppliers, please contact:
 
-Brett Greenberg, Dundas Privacy Officer  
-Phone : +1-416-467-5100 x115  
+Craig Segal, Dundas General Counsel  
+Phone : +1-416-467-5100 x 120  
 Fax : +1-416-422-4801  
 Email: [privacy@dundas.com](mailto:privacy@dundas.com)
 
