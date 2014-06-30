@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beoo.com privacy policy that was archived on 2013-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130928010742id_/http%3A//www.beoo.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beoo.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630022039id_/http%3A//www.beoo.com/page/privacy) for the most accurate reproduction.*
 
 # Beoo.com | Privacy Policy
 
@@ -6,30 +6,30 @@
 
 We collect information from you when you register on our site, place an order, subscribe to our newsletter, respond to a survey, fill out a form or give a feedback. 
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number, credit card information, social security number or location. You may, however, visit our site anonymously.
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number, credit card information, social security number or location. You may, however, visit our site anonymously. 
 
-Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy 
 
 ### What do we use your information for?
 
-Any of the information we collect from you may be used in one of the following ways:
+Any of the information we collect from you may be used in one of the following ways: 
 
- **1\. To personalize your experience**  
-Your information helps us to better respond to your individual needs.
+**1\. To personalize your experience**  
+Your information helps us to better respond to your individual needs. 
 
- **2\. To improve our website**  
-We continually strive to improve our website offerings based on the information and feedback we receive from you.
+**2\. To improve our website**  
+We continually strive to improve our website offerings based on the information and feedback we receive from you. 
 
- **3\. To improve customer service**  
-Your information helps us to more effectively respond to your customer service requests and support needs.
+**3\. To improve customer service**  
+Your information helps us to more effectively respond to your customer service requests and support needs. 
 
- **4\. To process transactions**  
-Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
+**4\. To process transactions**  
+Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested. 
 
- **5\. To administer a contest, promotion, survey or other site feature**
+**5\. To administer a contest, promotion, survey or other site feature**
 
- **6\. To send periodic emails**  
-The email address you provide for order processing, will only be used to send you information and updates pertaining to your order. Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+**6\. To send periodic emails**  
+The email address you provide for order processing, will only be used to send you information and updates pertaining to your order. Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
 
 ### How do we protect your information?
 
