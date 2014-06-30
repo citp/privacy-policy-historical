@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adventuresincoupons.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424140307id_/http%3A//www.adventuresincoupons.com/disclosure-policy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adventuresincoupons.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630154441id_/http%3A//www.adventuresincoupons.com/disclosure-policy/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Adventures in Coupons
 
