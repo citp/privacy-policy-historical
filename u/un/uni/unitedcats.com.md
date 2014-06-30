@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unitedcats.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230043729id_/http%3A//www.unitedcats.com/en/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unitedcats.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630184315id_/http%3A//www.unitedcats.com/en/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy / Unitedcats
 
@@ -22,7 +22,7 @@ When you invite your friends to see your dog or cat profiles or send messages th
 
 You post your and your pets personal information on United Dogs and United Cats at your own risk. Under profile settings you can limit access to your personal information, please be aware that no security measures are perfect or impenetrable. We can’t control the actions of other users or visitors with whom you may choose to share your and your pets pages and information. Therefore, we cannot and do not guarantee that user and pets’ information you post on United Dogs or United Cats will not be viewed by unauthorized persons. United Dogs and United Cats is not responsible for circumvention of any privacy settings or security measures contained on the United Dogs and United Cats. You understand and acknowledge that, even after removal, copies of user and pet information may remain viewable in cached and archived pages or if other users or visitors have copied or stored your user or pet information.
 
-Access and control over user personal and pets’ information on United Dogs and United Cats is readily available under profile settings. United Dogs and Untied Cats users may modify or delete any of their profile information and their pets profiles information at any time by logging into their account. Individuals who wish to deactivate their United Dogs and United Cats account or their pets profiles may do so by sending a request to info[at]uniteddogs.com. Removed information may persist in backup copies for a reasonable period of time but will not be generally available to members or visitors of United Dogs and United Cats.
+Access and control over user personal and pets’ information on United Dogs and United Cats is readily available under profile settings. United Dogs and Untied Cats users may modify or delete any of their profile information and their pets profiles information at any time by logging into their account. Individuals who wish to deactivate their United Dogs and United Cats account or their pets profiles may do so by sending a request to services@uniteddogs.com. Removed information may persist in backup copies for a reasonable period of time but will not be generally available to members or visitors of United Dogs and United Cats.
 
 United Dogs and United Cats takes appropriate precautions to protect our users' information. Your account information is located on a secured server behind a firewall. Because e-mail and instant messaging are not recognized as secure communications, we request that you not send private information to us by email or instant messaging services.
 
@@ -36,4 +36,4 @@ We may occasionally update this Privacy Policy to reflect changes in our practic
 
 If you have any questions about the security of United Dogs or United Cats websites, please feel free to contact us.
 
-Date of Last Revision: September 16th 2012
+Date of Last Revision: June 3th 2014
