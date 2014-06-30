@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travel.com.au privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819012549id_/http%3A//www.travel.com.au/info/terms-conditions-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travel.com.au privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630233837id_/http%3A//www.travel.com.au/info/terms-conditions-privacy) for the most accurate reproduction.*
 
 # Terms & Conditions, Privacy
 
@@ -11,13 +11,13 @@ as Travel.com.au.
 ### Bookings made through the site
 
   1. We act as disclosed agent for third party suppliers and your contract is directly with them. Bookings are subject to the supplier’s terms and conditions and policies and you should read these before proceeding with your booking. Our role as agent is limited to facilitating bookings and arranging documentation, payments and refunds, as applicable.
-  2. We may pass on your credit card details and any other essential booking details to the third party supplier who may charge your card directly for all or part of your booking payment. We collect your personal information to enable us to make your booking. We may also use your personal information (including email address) to provide you with information about other travel related products or services available from travel.com.au. For details of how we collect and use your personal information please view our [Privacy Policy](http://www.travel.com.au/general/privacy-policy/w140,gen).
+  2. We may pass on your credit card details and any other essential booking details to the third party supplier who may charge your card directly for all or part of your booking payment. We collect your personal information to enable us to make your booking. We may also use your personal information (including email address) to provide you with information about other travel related products or services available from travel.com.au. For details of how we collect and use your personal information please view our [Privacy Policy](http://www.travel.com.au/info/terms-conditions-privacy#privacy_policy).
   3. By making a booking through the Site you warrant that you are at least 18 years old.
   4. Without affecting any of your statutory consumer rights that cannot be lawfully excluded or limited: a) we will not be liable for any losses, damages, liability, claims or expenses (howsoever caused, including negligence, and whether direct, indirect or consequential) arising from the use of or connected with our site or any products or services purchased on our site or any linked site, and b) we make no warranty or representation as to the fitness or suitability of any product or service displayed on our site. Where our liability cannot be excluded, to the extent permitted by law such liability is limited to the value of the booking made.
   5. We recommend that all travellers obtain travel insurance against cancellation or amendment fees as well as providing sufficient medical cover.
   6. We always try to settle any issues or complaints quickly and fairly. Any correspondence should be sent by email [Contact Us](mailto:customercentral@travel.com.au).
   7. Information collected when you purchase from us is used to charge your credit card and deliver your booking confirmation electronically. We may also contact you about your stay for customer service purposes or to make change any changes or cancellations to your booking.
-  8. Adding your frequent flyer details to your booking does not indicate or guarantee that the selected fare is eligible for frequent flyer points or that the airline will award points for your flight. 
+  8. Adding your frequent flyer details to your booking does not indicate or guarantee that the selected fare is eligible for frequent flyer points or that the airline will award points for your flight.
 
 
 
@@ -120,85 +120,107 @@ _If the holday is not available:_
 
 Please use the [back] button on your browser to return to your booking.
 
-This privacy policy statement has been made in accordance with amendments to the Federal Government Privacy Amendment (Private Sector) Act 2000 (New Privacy Laws) which took effect from 21 December 2001 as well as the Spam Act 2003 which took effect from 10 April 2004.
+We are committed to protecting the privacy and security of your personally identifiable information (PII) and are bound by the Australian Privacy Principles (APPs). We will only collect, use or disclose PII in accordance with the APPs and this Privacy Policy. This policy was last adjusted on 12 March 2014.
 
-travel.com.au recognises the importance of client privacy and supports best practice procedures in the way your personal information is handled by us. By providing your personal information you agree and consent to the collection, use, disclosure, storage and holding of your personal information in accordance with this privacy policy.
+We reserve the right to amend this policy at any time. Any material changes to this privacy policy will be posted prior to its implementation. If you do not agree with this policy please do not continue to use the site. You will be deemed to have consented to any changes to the policy when you use the site after the effective date of change.
 
-At travel.com.au, we are committed to our clients privacy and security. We will never pass on your personal details to a third party except the necessary information required by providers of products or services you have purchased eg airlines, tour operators, hotels, etc.
+## **Information we collect**
 
-Although, from time to time, travel.com.au may provide statistical information about sales, trading patterns and information on navigation techniques to reputable third parties, this does not include any direct personal information identifying you as our customer.
+The PII we collect from or about you will depend on our relationship with you, the reason for its collection and the services we are providing to you.
 
-## 1) **Newsletters**
+We collect PII when you:
 
-travel.com.au sends each of our subscribers a weekly newsletter called 'Travel News'. Subscription to our newsletter occurs through a user placing a booking with travel.com.au, leaving the newsletter subscription box ticked and accepting our booking terms & conditions, entering a competition hosted by travel.com.au that requires subscription in order for them to participate or following a user's request to add their email address in the subscribe box that appears throughout the travel.com.au website.
-
-The newsletters contain information and offers as well as some paid advertising material. In addition to the weekly newsletters, travel.com.au may occasionally send out a “stop press” or “one-off” emails which are deemed to be valuable to our customers. In accordance with the Spam Act 2003, No. 129, 2003, An Act about spam, and for related purposes.
-
-The newsletters contain information for travel.com.au deals and/or paid advertising material.
-
-The newsletter is sent to our database of subscribers and clients and usually takes place weekly on Monday. In addition to the weekly newsletter, travel.com.au may occasionally send out a 'stop press' or 'one-off' emails which are deemed to be valuable to our customers.
-
-In accordance with the Spam Act 2003, No. 129, 2003, An Act about spam, and for related purposes.
-
-  * travel.com.au does not send unsolicited e-mail messages;
-  * travel.com.au does not purchase, sell or use third party distribution lists acquired through address-harvesting software;
-  * Members can unsubscribe from the travel.com.au newsletter at any time by clicking on the unsubscribe link located at the base of every newsletter.
+  * **make a booking** : We collect your name, email address, phone number and guest/traveler details each time you make a booking with travel.com.au. We will also collect credit card information, including card number, card type, security number, cardholder name, expiry date and issuing bank and country to pay for services purchased through travel.com.au. We may also collect frequent traveler numbers, seating preferences, passport information and other relevant information as required by the airline.
+  * **subscribe to receive our travel offers** : We collect email addresses, mobile phone numbers, names, city of residence and communications preferences from people who elect to subscribe to our travel offers.
+  * **participate in surveys, promotions and competition** : We may collect your PII when you participate in one of our surveys, promotions or competitions either conducted by us (or on our behalf) or as a prize supplier of the competition/promotion.
+  * **contact travel.com.au** : We collect PII such as your full name, email address and/or telephone number and feedback whenever you submit an enquiry or suggestion, provide feedback or comments or request assistance with a booking.
+  * **make a reservation for a third party** : When you make a reservation for someone else or purchase a gift certificate through this website, we will request PII about that person. You should obtain the consent of the other person prior to providing us with their PII and provide that individual access to this policy. Any access to view or change the PII of your travel companion(s) will be available through your booking.
+  * **deal with third parties** : We may also from time to time obtain both personal and non-personal information about you from affiliates, related companies, business partners and other independent third party sources.
 
 
 
-To subscribe to the travel.com.au newsletter [click here](http://newsletters.travel.com.au/inxmail2/subscribe.jsp)  
-To unsubscribe from the travel.com.au newsletter [click here](http://newsletters.travel.com.au/inxmail2/subscribe.jsp)  
-To view more information about the Spam Act 2003, [click here](http://www.dbcde.gov.au/online_safety_and_security/spam)
+**Other information we collect**
 
-For any questions, feedback, or comments relating specifically to travel.com.au's commitment to compliance of the Spam Act 2003, you can [Contact Us](mailto:customercentral@travel.com.au).
-
-## 2) **Information Collected on the Site**
-
-When you look at our website, our Internet Service Provider (Telstra) makes a record of your visit and logs the following information for statistical purposes:
-
-  * Your server address
-  * Your top level domain (for example .com, .gov, .au.uk, etc)
-  * The date and time of your visit to the site
-  * The pages you accessed and the documents downloaded
-  * The previous site you have visited
-  * The type of browser you are using
+  * **Non-PI** : We may collect non-PII to help customise your user experience and provide you with offers tailored to your interests.
+  * **Statistical information** : When you visit our site, we record general information about your visit for statistical purposes. These statistics do not contain any PII.
 
 
 
-We use third-party advertising companies (such as Ad2One Group) to serve ads on our web site and other web sites. These companies may use information (not personal or contact details) about your visits to this and other web sites in order to measure advertising effectiveness and to provide advertisements about goods and services of interest to you.
+**Cookies**
 
-To find out more please click here: <http://www.ad2onegroup.com/au>
+We and our trusted third party service providers may, from time to time, use "cookies" to store your preferences, record session information and collect non-personally identifiable information on how you visit and access our web pages and newsletters. This information allows us to continually improve our services to provide you with a better overall experience.
 
-## 3) **Member Profiles**
+Cookies are small files stored on your computer which allow us to recognise you when you return to our site. Cookies can make the web more useful by storing information about your preferences on a particular site. The use of cookies is an industry standard and many websites use them to provide useful features for you. Cookies in and of themselves do not personally identify you, only your computer.
 
-When you make a booking or enquiry with travel.com.au we need to collect certain information so that we can process it. By information we mean your name, mailing address, email address, frequent traveller numbers, meal requirements, seating preferences, etc. and so on.
+We also use third party cookies to show you travel.com.au advertisements on other websites (remarketing). Our advertisements on other websites maybe based on destinations and products you have searched for or viewed on travel.com.au
 
-Individual profile and company details are not used for any other purpose. Details are only supplied to a third party supplier when it is required for goods or services which you have purchased. Although our preferred local suppliers have privacy policies in accordance with the New Privacy Laws, you accept that some third parties care located overseas eg hotels, car rental companies, etc, and may not have in place equivalent privacy policies.
+Cookies can be deleted from your computer at any time (see your internet browser's help menu for more information), however this will remove all cookies and not just those associated with the travel.com.au site.
 
-## 4) **Why we collect Personal Profiles on our members when they book**
+## **How we use your information**
 
-### Convenience and speed
+We use your PII only for the primary purpose of providing our services and communicating with you in relation to bookings and travel offers. By providing your PII to us, or otherwise allowing your PII to be collected, you consent to us using this PII for the primary purpose for which it was collected and for the following related purposes:
 
-Retaining your account information on our files means that when shop with us again you don't need to re-enter all of your details every time. This makes the entire booking process simpler and faster.
+  * **Purchase travel.com.au services** : Information collected when you purchase from us is used to charge your credit card and deliver your booking confirmation electronically. We may contact you about your booking with your related with related offers from us or our partners which we think may be of interest to you. We may also contact you about your stay for customer service and feedback purposes, or to make any changes or cancellations to your booking.
+  * **Retain your details for future bookings** : We may retain your PII on our files so that when you shop with us again you don’t need to re-enter your details. This makes the booking process quicker and simpler for you.
+  * **Travel offers** : We will use your PII to conduct marketing activities which may include sending you travel offers by email or SMS. We will only send our travel offers to you if you have consented to receiving them. Our newsletters may contain paid advertising material.
+  * **Advertising** : From time to time anonymous usage statistics are used by our third party advertising providers including to serve more relevant advertisements. Your PII is never shared with these parties.
+  * **Offers tailored to your interests** : Based on information you share with us, offers tailored to your interests may be shown to you on our website, in mobile apps or on third party websites, including social media platforms.
+  * **Respond to your questions or suggestions** : We will use your email address and/or telephone number to contact you when you submit a question or suggestion.
+  * **General communications** : We may use your PII to communicate with you in general.
+  * **Market research** : We may ask you to participate in market research so that we can improve the products and services we offer to you.
+  * **Illegal activity** : We may use PII for the detection and prevention of fraud and other illegal activities.
+  * **Improving and promoting our services** : We use PII and non-PII for analytical purposes, to improve our services, to promote our offers to other customers, to enhance the user experience and to improve the functionality and quality of your customer experience.
 
-### To offer you a better product
 
-To better understand what sort of travel experiences our clients are looking for, we sometimes ask them for extra information about themselves. Clients have the choice of providing this information to further personalise their experience with us. Any information shared with us remains completely confidential.
 
-## 5) **Credit Card Information**
+## **Who we share your information with**
 
-travel.com.au utilises a technology called SSL (Secure Sockets Layer) including 128bit encryption. If you'd like to know more take a look at our payment options & site security policy.
+We do not disclose any PII except in the following circumstances:
 
-Your credit card details are only used to pay for a travel booking, and are securely stored. They are not used for any other purpose. Details are only supplied to a third party when it is required to provide goods or services which you have purchased
+  * **Travel providers** : We provide the guest/passenger name, telephone number and email address for each booking made to the relevant airline or its representatives to fulfil your booking. We may also provide to the airline other relevant information collected from you. These parties require this information for the booking and may use it if they need to contact you about the booking. Although we offer flights from reputable suppliers, please always review their privacy policies prior to booking your flight.
+  * **Third party service providers** : We may share your PII with third parties we appoint to perform services on our behalf. For example, we use a technology platform provider to facilitate marketing campaigns controlled and managed by us. Our service providers are not permitted to use or share your PII for any purpose other than the purpose for which they are appointed.
+  * **Legal obligations** : We may be required by law to disclose your PII or to service providers where we are investigating a serious complaint or potential illegal acts.
+  * **Related companies** : We may share your PII with our parent company and related companies. This sharing enables us to provide you with information about travel related products which may be of interest to you. They will comply with all applicable laws in their handling of your PII and will include an unsubscribe facility in any electronic messages sent to you.
+  * **Partner websites** : If you were referred to this website from another website we may share some information about you with that referring website.
 
-## 6) **Other people's information provided by you**
 
-When you use our gift certificates you'll be providing details of people who may never have visited this site. Travel.com.au will not disclose the recipient addresses and will not send them any promotional information other than that specific product ie the gift voucher
 
-Occasionally, we offer members incentives for referring new joiners to our newsletters. Should any recipient of our newsletter wish to unsubscribe, they can do so from the auto-reply welcome email, on our newsletter, or by contacting our customer service department and will not receive any further promotional material from travel.com.au
+Other than as set out above, you will be notified when PII about you will be shared with third parties.
 
-## 7) **Links**
+## **Disclosure of your information overseas**
 
-This Web site contains links to other sites. Please be aware that travel.com.au is not responsible for the privacy practices of such other sites. We encourage our users to be aware, when they leave our site, to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
+Your PII may be transferred to, stored and processed overseas where those third parties with whom we share it, as described in this policy, are located. Due to the nature of the travel services offered to you many of the service providers that we deal with are located overseas. As a consequence it is not practicable to list the location of every service provider with whom we deal. We do, however, engage a third party technology platform provider based in the United States to facilitate marketing campaigns controlled and managed by us.
+
+The recipient of your PII may be located in a country that might not provide an equivalent level of data protection. While we do take steps to help ensure that your PII is protected we cannot be responsible for how these recipients handle your PII. By providing your PII to us, you consent to our disclosure of your PII to these parties. If you have any concerns regarding the transfer of your PII overseas please contact us using the details provided below.
+
+## **How you control and access your information**
+
+Subject to any exceptions provided by law, you are able to access any PII we hold about you. If we refuse your access request we will provide you with our reasons for doing so. Here's how you can control and have access to your information:
+
+  * **Travel offers** : If at any time you would like to either change your email address with us, update your preferences or unsubscribe from our travel deal offers you can click on the unsubscribe link at the bottom of every email or contact us using the details set out below.
+  * **Booking information** : If at any time you would like to alter the PII you provided us in your booking, please contact us using the details set out below.
+  * **General** : Where any personal information we hold about you is not accurate, complete or up to date or relevant you may contact us to correct that PII and we will respond to you in a reasonable time period.
+
+
+
+## **How we protect your information**
+
+To ensure the confidentiality of your PII, we use leading security technology and procedures that are regularly reviewed and updated. We will never ask you to send us credit card information by email and we never store any “cvv” credit card security numbers.
+
+We have obtained a digital certificate from Thawte Server CA, an industry leader in the protection and management of data transmission.
+
+Our systems are configured with industry standard data encryption and firewall technology. When you send PII to us over the Internet, your data is protected by Secure Socket Layer (SSL) technology to ensure safe transmission.
+
+## **Links**
+
+This website contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware, when they leave our site, to read the privacy policies of each and every website that collects PII. This privacy policy applies solely to information collected by this website.
+
+## **Privacy complaints**
+
+If you are concerned about how we handle your PII please contact is using the details below. We will respond to you within a reasonable time period.
+
+## **Contact us**
+
+If you have any questions regarding how we handle your PII please send your questions by email to [customercentral@travel.com.au](mailto:customercentral@travel.com.au) or send via post to: ACN 079 010 772 Ltd trading as Travel.com.au, Attention: Privacy Officer, 7 Baroona Road, Milton, Qld, 4064, Australia.
 
 Please use the [back] button on your browser to return to your booking.
