@@ -1,460 +1,747 @@
-<!--The following is the downloaded HTML source of the templatemonster.com privacy policy that was archived on 2013-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131231032153id_/http%3A//www.templatemonster.com/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the templatemonster.com privacy policy that was archived on 2014-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140630120232id_/http%3A//www.templatemonster.com/privacy-policy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-  <!-- Common Header Start-->
-<!-- ============================================================================ -->
-<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0012/0919.js?438986" async="" type="text/javascript"></script><script type="text/javascript" async="" src="//cdnprod.socialproof.it/widget/resource.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script><title>Privacy Policy</title>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<!DOCTYPE html><html lang="en-US"><!--<![endif]--><head><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MS2BNB"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQQHVVRXGwEJUFdRDwI="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+<title>Privacy Policy</title>
+<meta charset="utf-8">
 <meta property="fb:page_id" content="240734989375">
 <link rel="publisher" href="https://plus.google.com/116173187155256042113">
-
-
-		<!-- ACDN-TCSS --><link type="text/css" href="http://t.tmimgcdn.com/themes/default/css/main.css?14212" rel="stylesheet">
-<link rel="icon" href="http://images.templatemonster.com/images/favicon.ico" type="image/x-icon">
-	<link rel="shortcut icon" href="http://images.templatemonster.com/images/favicon.ico" type="image/x-icon">
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js"></script>
-		<!-- ACDN-RJS --><script type="text/javascript" src="http://j.tmimgcdn.com/main.js?14270"></script>
-
-
-<link type="text/css" href="http://j.tmimgcdn.com/jquery/jquery-ui-1.8.17.custom/css/redmond/jquery-ui-1.8.17.custom.css?11419" rel="stylesheet">
-
-		<!-- ACDN-RJS --><script type="text/javascript" src="http://j.tmimgcdn.com/jquery/jquery-ui-1.8.17.custom/js/jquery-ui-1.8.17.custom.min.js"></script>
-
-<script language="javascript" type="text/javascript">
-	function buy(id, checkout, ip, channel) {
-		var url = '/cart.php?add=' + id
-						+ '&PHPSESSID=817af795053046042d216b93994412fb';
-		var priceVariantElement = $('input[name=price_variant]:checked');
-		var offers = '';
-		$('#preview_page_offers li input:checkbox, #preview_page_offers_oncart li input:checkbox,  #template-preview-page li input:checkbox').each(function()
-		{
-			var el = $(this);
-			var oid = el.val();
-			if ('installation' == oid) {
-				oid = el.attr('offer');
-			}
-			offers += ('' == offers ? '' : '&');
-			if (el.prop('checked'))
-			{
-				offers += 'offers[]=' + oid;
-			}
-			else
-			{
-				offers += 'deloffers[]=' + oid;
-			}
-		});
-		$('#preview_page_offers .offers-data input, #template-preview-page .offers-data input').each(function()
-		{
-			var el = $(this);
-			offers += ('' == offers ? '' : '&');
-			offers += el.attr('name') + '=' + el.val();
-		});
-
-
-		if ('undefined' != typeof priceVariantElement && priceVariantElement.length) {
-			url = url + "&price_variant="+priceVariantElement.val();
-		}
-		if ('' != offers) {
-			url += '&' + offers;
-		}
-		$('#preview_page_offers li input[name^="offer_bundle_select["],#preview_page_offers_oncart li input[name^="offer_bundle_select["]').each(function() {
-			url += '&' + $(this).attr('name') + '=' + $(this).attr('value');
-		});
-		window.location.href = url + (('boolean' == typeof checkout) && checkout ? '&action=checkout' : '') + (('boolean' == typeof ip) && ip ? '&ip=true' : '')
-								+ (('undefined' != typeof channel) ? '&channel='+channel : '');
-	}
-	
-function cart(s) {
-  s = s || '';
-  var priceVariantElement = $('input[name=price_variant]:checked');
-  var priceStr = '';
-  if ('undefined' != typeof priceVariantElement) {
-	priceStr = "&price_variant="+priceVariantElement.val();
-  }
-  if ($('#add-to-cart') && s) {
-    $('#button-add-to-cart').hide();
-    $('#button-add-to-cart-disabled').show();
-    $('#add-to-cart').hide();
-    $.ajax({type: "POST",url: "/particles.php",data: "mode=add-to-cart&id="+s+priceStr,success: function(html){$('#add-to-cart').html(html).fadeIn(1000);}
-    });
-  } else {
-      window.location.href = "/cart.php?" + s + priceStr + "&PHPSESSID=817af795053046042d216b93994412fb";
-  }
-}
-
-function cartWithYourPrice(id, price) {
-  window.location.href = "/cart.php?add="+ id + "&price="+ price
-                       + "&PHPSESSID=817af795053046042d216b93994412fb";
-}
-
-</script>
-
-		<!-- ACDN-RJS --><script type="text/javascript" src="http://j.tmimgcdn.com/cufon/cufon-yui-1.09i.js"></script>
- <!-- made a temporary solution for stripping cufon 195162-->
-
-		<!-- ACDN-RJS --><script type="text/javascript" src="http://j.tmimgcdn.com/cufon/fonts/Myriad_Pro_Regular_400.font.js"></script>
-
-		<!-- ACDN-RJS --><script type="text/javascript" src="http://j.tmimgcdn.com/cufon/fonts/Myriad_Pro_Bold_700.font.js"></script>
-
-
-		<!-- ACDN-RJS --><script type="text/javascript" src="http://j.tmimgcdn.com/jquery/plugins/detectmobilebrowser.js"></script>
-<!-- Common Header End-->
-<!-- ============================================================================ -->
-
-<script type="text/javascript">
-(function() {
-var s = document.createElement('script');
-s.type = 'text/javascript';
-s.async = true;
-s.src = '//cdnprod.socialproof.it/widget/resource.js';
-var x = document.getElementsByTagName('script')[0];
-x.parentNode.insertBefore(s, x);
-})();
-
-window.spiAsyncInit = function() {
-socialproofit.init("2097");
-}
-</script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
-
-<body itemscope="" itemtype="http://schema.org/WebPage" id="breadTab_body_id_privacy_policy">
-<a name="top"></a>
-<div style="display: none; position: absolute;" id="altDiv"></div>
-
-	<!--[if lt IE 7]>
-    <div style='clear: both; height: 30px; position: absolute; top:0; text-align:center; width:100%;'>
-        <a href="http://www.microsoft.com/windows/internet-explorer/default.aspx?ocid=ie6_countdown_bannercode" onclick="_gaq.push(['a._trackPageview', '/out/links/upgradeIE6']);"><img src = "http://t.tmimgcdn.com/themes/default/images/ie6-countdown-bg.png"  alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today."    /></a>
-    </div>
+<link rel="icon" href="http://static.tmimgcdn.com/img/favicon.ico?874a9a4" type="image/x-icon">
+<link rel="shortcut icon" href="http://static.tmimgcdn.com/img/favicon.ico?874a9a4" type="image/x-icon">
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=PT+Sans:400,700,400italic,700italic" type="text/css">
+<!--[if lt IE 9]>
+<link rel="stylesheet" href="http://static.tmimgcdn.com/css/ie.css?dccc477" media="screen">
 <![endif]-->
 <!--[if lt IE 9]>
-	<div style='clear: both; height: 112px; padding:0; position: relative;'><a href="http://www.theie8countdown.com/ie-users-info"><img src="http://www.theie8countdown.com/assets/badge_iecountdown.png" border="0" height="112" width="348" alt="" /></a></div>
+<script src="http://static.tmimgcdn.com/js/html5shiv.js?4407049"></script>
 <![endif]-->
-
-<table id="page">
-    <tbody>
-        <tr>
-            <td id="page_header">
-
-                <div class="leftbox">
-                  <a id="logo" href="http://www.templatemonster.com/"><img src="http://i.tmimgcdn.com/library/New-Year-Logo.jpg" alt="New Year Logo"></a>                  <a id="logo_description" href="http://www.templatemonster.com/"><img src="http://i.tmimgcdn.com/library/New-Year-Logo-Description.jpg" alt="New Year Logo Description"></a>                </div>
-
-                <div class="rightbox">
-                    <div id="lsd-container" class="lsd-dropdown">
-					<ul class="" style="height: 22px; display: block; overflow: hidden;">
-						<li class="lsd-active">US <img src="http://t.tmimgcdn.com/themes/default/images/us.png" alt="Website Templates - TemplateMonster" width="16" height="11"></li>
-						<a title="Plantillas Web - TemplateMonster en Espanol" href="http://www.templatemonster.com/es/"><li class="lsd-nonactive">ES <img src="http://t.tmimgcdn.com/themes/default/images/es.png" alt="Plantillas Web - TemplateMonster en Espanol" width="16" height="11"></li></a>
-						<a title="TemplateMonster Russia: создать сайт так просто" href="http://www.templatemonster.com/ru/"><li class="lsd-nonactive">RU <img src="http://t.tmimgcdn.com/themes/default/images/ru.png" alt="TemplateMonster Russia: создать сайт так просто" width="16" height="11"></li></a>
-						<a title="TemplateMonster auf Deutsch" href="http://www.templatemonster.com/de/"><li class="lsd-nonactive">DE <img src="http://t.tmimgcdn.com/themes/default/images/de.jpg" alt="TemplateMonster auf Deutsch" width="16" height="11"></li></a>
-						<a title="TemplateMonster Polska" href="http://www.templatemonster.com/pl/"><li class="lsd-nonactive">PL <img src="http://t.tmimgcdn.com/themes/default/images/pl.jpg" alt="TemplateMonster Polska" width="16" height="11"></li></a>
-						<a title="" href="http://www.templatemonster.com/it/ "><li class="lsd-nonactive">IT <img src="http://t.tmimgcdn.com/themes/default/images/it.png" width="16" height="11"></li></a>
-						<a title="" href="http://www.templatemonster.com/tr/"><li class="lsd-nonactive">TR <img src="http://t.tmimgcdn.com/themes/default/images/tr.png" width="16" height="11"></li></a>
-						<a title="" href="http://www.templatemonster.com/fr/ "><li class="lsd-nonactive">FR <img src="http://t.tmimgcdn.com/themes/default/images/fr.png" width="16" height="11"></li></a>
-						<a title="" href="http://www.templatemonster.com/pt-br/"><li class="lsd-nonactive">BR <img src="http://t.tmimgcdn.com/themes/default/images/br.png" width="16" height="11"></li></a>
-					</ul>
-				</div>
-		<span class="button"><a id="help" href="/support.php">Help &amp; Support</a></span>
-	<span class="button"><a id="about_us_page" href="/about.php">About Us</a></span>
-	<span class="button"><a id="shopping_cart" href="/cart.php" rel="nofollow">Shopping Cart</a></span>                    <div class="banner">
-                        <!-- Banner -->
-                        <div class="lbg"></div>
-                        <div class="banner_content">
-                            						<span id="account_icon"></span>
-			<div><p class="account_title">Have an Account?</p></div>				<a href="https://wac.templatemonster.com/register.html?ps=cD1odHRwOi8vd3d3LnRlbXBsYXRlbW9uc3Rlci5jb20vcHJpdmFjeS1wb2xpY3kucGhwJms9MjBGREYwOTE3NzY2NjYzMjk2OEM0REEzNkQ4RjRGMTI=" rel="nofollow">
-									<span class="join_lbg"></span>
-									<span class="join_rbg"></span>
-									Register Now!
-				</a>
-			<a href="https://wac.templatemonster.com/signin.html?ps=cG9wdXA9dHJ1ZSZwPWh0dHA6Ly93d3cudGVtcGxhdGVtb25zdGVyLmNvbS9wcml2YWN5LXBvbGljeS5waHAmaz0yMEZERjA5MTc3NjY2NjMyOTY4QzREQTM2RDhGNEYxMg==" rel="nofollow" id="sign_in" onclick="return false;">
-							<span class="join_lbg"></span>
-							<span class="join_rbg"></span>
-							Sign In
-						</a>
-                        </div>
-                        <div class="rbg"></div>
-                        <!--// Banner -->
-                    </div>
-                    <div class="clear"></div>
-					                </div>
-                <div class="clear"></div>
-            </td>
-        </tr>
-	    <tr>
-      <td>
-        <div id="page_header_menu">
-            <ul class="top">
-                <li id="hot-trends-nav" class="">
-                  <a href="/index.php"><span>Most Popular</span></a>
-              </li><li id="web-design_nav" class="">
-                  <a href="/web-templates.php"><span>Web Templates</span></a>
-              </li><li id="ecommerce_nav" class="">
-                  <a href="/ecommerce-templates.php"><span>E-commerce Templates</span></a>
-              </li><li class="">
-                  <a href="/cms-blog-templates.php"><span>CMS &amp; Blog Templates</span></a>
-              </li><li id="corporate_nav" class="">
-                  <a href="/corporate-design.php"><span>Corporate Design</span></a>
-              </li><li class="">
-                  <a href="/facebook-layouts.php"><span>Facebook Layouts</span></a>
-              </li>            </ul>
-
-          <div class="bot">
-            <ul class="subnav_support"><li class="">
-                                    <a href="/free-templates.php" title="Sample Free Templates">Sample Free Templates</a>
-                              </li><li class="">
-                                    <a href="/support_index.php" title="Support Chat" target="_blank">Support Chat</a>
-                              </li><li class="">
-                                    <a href="/help" title="Help Center">Help Center</a>
-                              </li><li class="">
-                                    <a href="http://esupport.template-help.com/index.php?/Tickets/Submit" title="Submit a ticket" target="_blank">Submit a ticket</a>
-                              </li><li class="">
-                                    <a href="/license_faq.php" title="Licensing FAQ">Licensing FAQ</a>
-                              </li><li class="">
-                                    <a href="/faq.php" title="FAQ">FAQ</a>
-                              </li><li class="">
-                                    <a href="/terms.php" title="Terms of Use">Terms of Use</a>
-                              </li><li class="">
-                                    <a href="/refund-policy.php" title="Refund Policy">Refund Policy</a>
-                              </li><li class="act_sub_menu ">
-                                    <a href="/privacy-policy.php" title="Privacy Policy">Privacy Policy<span class="tab_lbg"></span><span class="tab_rbg"></span></a>
-                              </li></ul>
-          </div>
-                    <div id="titlebar" class="wide">
-            <!-- Breadcrumb --><ul class="breadcrumbs" itemprop="breadcrumb"> <li><a href="http://www.templatemonster.com/">Home</a></li>  <li><a href="/support.php">Support</a></li>  <li>Privacy Policy</li> </ul><!--// Breadcrumb -->
-                      </div>
-        </div>
-      </td>
-    </tr>
-	
-<!-- Page body -->
-  <tr>
-    <td>
-<div class="content border2-1 support-faqpage">
-<h1>Privacy Policy</h1>
-				<div class="clear"></div>
-<div class="otherbox bonuses-box-1 ">
-<div style="padding:8px;padding-left:14px;padding-right:14px">
+<link rel="stylesheet" href="http://static.tmimgcdn.com/css/compiled.css?dccc477" media="screen">
+ 
+<meta name="description" content="Privacy Policy TemplateMonster.com, Inc. (hereafter referred to as TemplateMonster.com) has created this privacy policy to demonstrate our commitment to the">
+<link rel="canonical" href="http://www.templatemonster.com/privacy-policy.php">
+ 
+</head>
+<body class="page page-id-4 page-template page-template-page-fullwidth-php" itemscope="" itemtype="http://schema.org/WebPage">
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MS2BNB" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+            '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-MS2BNB');</script>
+<!--[if lt IE 9]>
+<div style='clear: both; height: 112px; padding:0; position: relative;'><a href="http://www.theie8countdown.com/ie-users-info"><img src="http://www.theie8countdown.com/assets/badge_iecountdown.png" border="0" height="112" width="348" alt="" /></a></div>
+<![endif]-->
+<header id="header">
+<div class="top">
+<div class="container">
+ 
+<div class="badge-since">
+<div class="badge-big">
+<span>Providing templates and themes</span><img src="http://static.tmimgcdn.com/img/since.png?874a9a4" alt="Providing web templates and themes since 2002">
+</div>
+<div class="badge-small">
+<img src="http://static.tmimgcdn.com/img/badge-since-rt.gif?874a9a4" alt="Providing web templates and themes since 2002">Providing web templates and themes
+</div>
+</div>
+<ul class="user-menu">
+<li class="account-menu-li" style="display:none;">
+<a href="#" id="your-account-link">Hello, <span></span><b class="icon-arrow-small-down"></b></a>
+<ul class="account-menu">
+<li><a href="/profile.php?tab=summary"><strong>Your account</strong></a></li>
+</ul>
+</li>
+<li class="sign-out-li" style="display:none;">
+<a href="#" class="sign-out-btn" id="signout-link"><span class="sign-out">Sign Out</span></a>
+</li>
+<li class="sign-in-li">
+<a href="#" class="sign-in" id="signin-link">Sign In<b class="icon-arrow-small-down"></b><em></em></a>
+<div class="sign-in-form">
+<h5>Sign In to Templatemonster</h5>
+<form action="/wac/signin.php" method="POST" name="signin" id="signin-form" class="form-horizontal">
+<div id="signin-form-errors"></div>
+<input type="hidden" name="billingInfo" id="signin-form-billingInfo" tabindex="1" value="">
+<input type="hidden" name="cartHtml" id="signin-form-cartHtml" tabindex="2" value="">
+<fieldset>
+<div class="form-group"><div class="col-lg-12 col-md-12 col-sm-12"><input type="email" name="email" autocomplete="off" data-constraints="@NotBlank @HTML5Required @Email(message=&quot;Doesn't look like a valid email&quot;) @HTML5Email(message=&quot;Doesn't look like a valid email&quot;) @Length(min=&quot;0&quot;, max=&quot;72&quot;, message=&quot;Doesn't look like a valid email&quot;) @Pattern(regex=&quot;/^(.{1,64})\@/&quot;, message=&quot;Doesn't look like a valid email&quot;)" required="required" id="signin-form-email" class=" form-control js-placeholder" tabindex="3" placeholder="Email" value=""></div></div>
+<div class="form-group"><div class="col-lg-12 col-md-12 col-sm-12"><input type="password" name="password" autocomplete="off" data-constraints="@NotBlank @HTML5Required" required="required" id="signin-form-password" class=" form-control js-placeholder" tabindex="4" placeholder="Password" value=""><p class="js-fgt_pswd fgt_pswd"><a href="https://wac.templatemonster.com/forgotpass.html">Forgot password?</a></p></div></div>
+<div class="form-group"><div class="col-lg-12 col-md-12 col-sm-12"><button type="submit" name="submit" id="signin-form-submit" class="btn btn-default" tabindex="5" value="">Sign in</button></div></div>
+</fieldset>
+</form>
+<div class="signin-block">
+<div class="signin-arrow"></div>
+<div class="register-user">
+New to Templatemonster?
+<a href="https://wac.templatemonster.com/register.html" class="link-red with-arrow"><b class="icon-arrow-small-right"></b>Register</a>
+</div>
+</div>
+</div>
+</li>
+<li class="help-support">
+<a href="#/support.php">Help &amp; Support<b class="icon-arrow-small-down"></b></a>
+<ul class="help-menu">
+<li><a title="Help &amp; Support" href="/support.php" class=""><strong>Help Center</strong></a></li>
+<li><a title="Free Sample Templates" href="/free-templates.php" class=""><strong>Free Sample Templates</strong></a></li>
+<li><a title="Refund Policy" href="/refund-policy.php" class=""><strong>Refund Policy</strong></a></li>
+<li><a title="Report Spam" href="/report-spam.php" class=""><strong>Report Spam</strong></a></li>
+</ul>
+</li>
+<li class="language-pick">
+<a href="#">US<b class="icon-arrow-small-down"></b></a>
+<ul class="languages-menu">
+<li style="display:none"><a title="Templatemonster - TemplateMonster US" href="http://www.templatemonster.com/" class="us-language"><strong>US</strong>
+<i class="svg lang-icon"></i>
+</a>
+</li>
+<li><a title="Plantillas Web - TemplateMonster en Espanol" href="http://www.templatemonster.com/es/" class="es-language"><strong>ES</strong>
+<i class="svg lang-icon"></i>
+</a>
+</li>
+<li><a title="TemplateMonster Russia: создать сайт так просто" href="http://www.templatemonster.com/ru/" class="ru-language"><strong>RU</strong>
+<i class="svg lang-icon"></i>
+</a>
+</li>
+<li><a title="TemplateMonster auf Deutsch" href="http://www.templatemonster.com/de/" class="de-language"><strong>DE</strong>
+<i class="svg lang-icon"></i>
+</a>
+</li>
+<li><a title="TemplateMonster Polska" href="http://www.templatemonster.com/pl/" class="pl-language"><strong>PL</strong>
+<i class="svg lang-icon"></i>
+</a>
+</li>
+<li><a title="" href="http://www.templatemonster.com/it/ " class="it-language"><strong>IT</strong>
+<i class="svg lang-icon"></i>
+</a>
+</li>
+<li><a title="" href="http://www.templatemonster.com/tr/" class="tr-language"><strong>TR</strong>
+<i class="svg lang-icon"></i>
+</a>
+</li>
+<li><a title="" href="http://www.templatemonster.com/fr/ " class="fr-language"><strong>FR</strong>
+<i class="svg lang-icon"></i>
+</a>
+</li>
+<li><a title="" href="http://www.templatemonster.com/pt-br/" class="br-language"><strong>BR</strong>
+<i class="svg lang-icon"></i>
+</a>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div class="header">
+<div class="container">
+<div class="row">
+ 
+<div class="col-lg-3 col-md-4 col-mdm-4 col-sm-4">
+<div class="block-logo">
+<a class="logo" href="/">
+</a>
+</div>
+</div>
+ 
+<div class="col-lg-7 col-md-6 col-sm-6">
+<div class="block-search">
+<form id="js-searchForm" name="searchForm" class="form-search" action="/templates.php">
+<div class="input-append control-group">
+<input name="keywords" type="text" placeholder="Enter Keyword or Product Number" class="js-typeahead2 keyword-search-field js-placeholder form-control" value="">
+<a href="#" id="searchFormSubmit" onclick="$('#js-searchForm').submit();return false;" class="btn btn-default"><span class="icon-search"></span></a>
+</div>
+<label>e.g., <span id="js-search-label">responsive wordpress</span></label>
+</form>
+</div>
+</div>
+ 
+<div class="col-lg-2 col-md-2 col-sm-2">
+<div class="block-cart">
+<a href="/cart.php" class="shop-cart"><b class="icon-cart"></b>Shopping Cart <span class="cart-count js-cart-count" id="cart-count">0<b class="arrow"></b></span></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+ 
+<div class="navigation">
+<div class="container">
+<ul class="nav main-menu">
+<li class="sub-menu"><a onclick="_gaq.push(['b._trackEvent', 'navbar', 'Best Sellers', 'Best Sellers']);" href="http://www.templatemonster.com/templates.php?propertylist[features][]=responsive-design&amp;propertylist[features][]=opencart-templates&amp;propertylist[types][]=prestashop-themes&amp;propertylist[types][]=joomla-templates&amp;propertylist[types][]=magento-themes&amp;propertylist[types][]=wordpress-themes">Best Sellers </a>
+<div class="sub-menu-1 ">
+<ul>
+<li><a onclick="_gaq.push(['b._trackEvent', 'navbar', 'Best Sellers', 'WordPress Themes']);" href="http://www.templatemonster.com/wordpress-themes.php">
+<b class="icon-wordpress svg square-icon"></b>
+WordPress Themes</a></li>
+<li><a onclick="_gaq.push(['b._trackEvent', 'navbar', 'Best Sellers', 'Joomla Templates']);" href="http://www.templatemonster.com/joomla-templates.php">
+<b class="icon-joomla svg square-icon"></b>
+Joomla Templates</a></li>
+<li><a onclick="_gaq.push(['b._trackEvent', 'navbar', 'Best Sellers', 'PrestaShop Themes']);" href="http://www.templatemonster.com/prestashop-themes.php">
+<b class="icon-prestahop svg square-icon"></b>
+PrestaShop Themes</a></li>
+<li><a onclick="_gaq.push(['b._trackEvent', 'navbar', 'Best Sellers', 'Magento Themes']);" href="http://www.templatemonster.com/magento-themes.php">
+<b class="icon-magento svg square-icon"></b>
+Magento Themes</a></li>
+<li><a onclick="_gaq.push(['b._trackEvent', 'navbar', 'Best Sellers', 'Website Templates']);" href="http://www.templatemonster.com/website-templates.php">
+<b class="icon-html5-2 svg square-icon"></b>
+Website Templates</a></li>
+<li><a onclick="_gaq.push(['b._trackEvent', 'navbar', 'Best Sellers', 'Responsive Templates']);" href="http://www.templatemonster.com/properties/features/responsive-design/">
+<b class="icon-responsive svg square-icon"></b>
+Responsive Templates</a></li>
+<li><a onclick="_gaq.push(['b._trackEvent', 'navbar', 'Best Sellers', 'Moto CMS Templates']);" href="http://www.templatemonster.com/moto-cms-html-templates.php">
+<b class="icon-moto svg square-icon"></b>
+Moto CMS Templates</a></li>
+</ul>
+</div>
+</li>
+<li class="sub-menu">
+<a onclick="_gaq.push(['b._trackEvent', 'navbar', 'Categories', 'Categories']);" href="http://www.templatemonster.com/category/">Categories</a>
+<div class="sub-menu-2  clearfix">
+<ul>
+<li class="maxheight1">
+<a class="item_title" onclick="_gaq.push(['b._trackEvent', 'navbar', 'Categories', 'Art &amp; Culture']);" href="http://www.templatemonster.com/properties/topic/art-culture/">
+<b class="icon-"></b>Art &amp; Culture
+</a>
+<span>(861)</span>
+<p>
+<a onclick="_gaq.push(['b._trackEvent', 'navbar', 'Categories', 'Art']);" href="http://www.templatemonster.com/category/art-templates/">Art</a>, <a onclick="_gaq.push(['b._trackEvent', 'navbar', 'Categories', 'Music']);" href="http://www.templatemonster.com/category/music/">Music</a>, <a onclick="_gaq.push(['b._trackEvent', 'navbar', 'Categories', 'Museum']);" href="http://www.templatemonster.com/category/museum-templates/">Museum</a>, <a onclick="_gaq.push(['b._trackEvent', 'navbar', 'Categories', 'Movie']);" href="http://www.templatemonster.com/category/movie-templates/">Movie</a>, <a onclick="_gaq.push(['b._trackEvent', 'navbar', 'Categories', 'Theatre']);" href="http://www.templatemonster.com/category/theater-templates/">Theatre</a> </p>
+</li>
+<li class="maxheight1">
+<a class="item_title" onclick="_gaq.push(['b._trackEvent', 'navbar', 'Categories', 'Animals &amp; Pets']);" href="http://www.templatemonster.com/properties/topic/animals-pets/">
+<b class="icon-"></b>Animals &amp; Pets
+</a>
+<span>(454)</span>
+<p>
+<a onclick="_gaq.push(['b._trackEvent', 'navbar', 'Categories', 'Pets']);" href="http://www.templatemonster.com/category/animals-pets/">Pets</a>, <a onclick="_gaq.push(['b._trackEvent', 'navbar', 'Categories', 'Wild Life']);" href="http://www.templatemonster.com/category/wild-life-templates/">Wild Life</a>, <a onclick="_gaq.push(['b._trackEvent', 'navbar', 'Categories', 'Zoo']);" href="http://www.templatemonster.com/category/zoo-templates/">Zoo</a> </p>
+</li>
+<li class="maxheight1">
+<a class="item_title" onclick="_gaq.push(['b._trackEvent', 'navbar', 'Categories', 'Design &amp; Photography']);" href="http://www.templatemonster.com/properties/topic/design-photography/">
+<b class="icon-"></b>Design &amp; Photography
+</a>
+<span>(5605)</span>
+<p>
+<a onclick="_gaq.push(['b._trackEvent', 'navbar', 'Categories', 'Design']);" href="http://www.templatemonster.com/category/design/">Design</a>, <a onclick="_gaq.push(['b._trackEvent', 'navbar', 'Categories', 'Photography']);" href="http://www.templatemonster.com/category/photography-templates/">Photography</a>, <a onclick="_gaq.push(['b._trackEvent', 'navbar', 'Categories', 'Architecture']);" href="http://www.templatemonster.com/category/architecture/">Architecture</a> </p>
+</li>
+<li class="maxheight1">
+<a class="item_title" onclick="_gaq.push(['b._trackEvent', 'navbar', 'Categories', 'Electronics']);" href="http://www.templatemonster.com/properties/topic/electronics/">
+<b class="icon-"></b>Electronics
+</a>
+<span>(688)</span>
+<p>
+</p>
+</li>
+<li class="maxheight1">
+<a class="item_title" onclick="_gaq.push(['b._trackEvent', 'navbar', 'Categories', 'Holidays, Gifts &amp; Flowers']);" href="http://www.templatemonster.com/properties/topic/holidays-gifts-flowers/">
+<b class="icon-"></b>Holidays, Gifts &amp; Flowers
+</a>
+<span>(475)</span>
+<p>
+<a onclick="_gaq.push(['b._trackEvent', 'navbar', 'Categories', 'Flowers']);" href="http://www.templatemonster.com/category/flowers/">Flowers</a>, <a onclick="_gaq.push(['b._trackEvent', 'navbar', 'Categories', 'Holidays']);" href="http://www.templatemonster.com/category/holiday-templates/">Holidays</a>, <a onclick="_gaq.push(['b._trackEvent', 'navbar', 'Categories', 'Gifts']);" href="http://www.templatemonster.com/category/gifts/">Gifts</a> </p>
+</li>
+<li class="maxheight1">
+<a class="item_title" onclick="_gaq.push(['b._trackEvent', 'navbar', 'Categories', 'Education &amp; Books']);" href="http://www.templatemonster.com/properties/topic/education-books/">
+<b class="icon-"></b>Education &amp; Books
+</a>
+<span>(810)</span>
+<p>
+<a onclick="_gaq.push(['b._trackEvent', 'navbar', 'Categories', 'Books']);" href="http://www.templatemonster.com/category/books/">Books</a>, <a onclick="_gaq.push(['b._trackEvent', 'navbar', 'Categories', 'Education']);" href="http://www.templatemonster.com/category/education/">Education</a>, <a onclick="_gaq.push(['b._trackEvent', 'navbar', 'Categories', 'Science']);" href="http://www.templatemonster.com/category/science/">Science</a> </p>
+</li>
+<li class="maxheight1">
+<a class="item_title" onclick="_gaq.push(['b._trackEvent', 'navbar', 'Categories', 'Business &amp; Services']);" href="http://www.templatemonster.com/properties/topic/business-services/">
+<b class="icon-"></b>Business &amp; Services
+</a>
+<span>(11064)</span>
+<p>
+<a onclick="_gaq.push(['b._trackEvent', 'navbar', 'Categories', 'Consulting']);" href="http://www.templatemonster.com/category/consulting-templates/">Consulting</a>, <a onclick="_gaq.push(['b._trackEvent', 'navbar', 'Categories', 'Industrial']);" href="http://www.templatemonster.com/category/industrial/">Industrial</a>, <a onclick="_gaq.push(['b._trackEvent', 'navbar', 'Categories', 'Law']);" href="http://www.templatemonster.com/category/law/">Law</a> </p>
+</li>
+<li class="maxheight1">
+<a class="item_title" onclick="_gaq.push(['b._trackEvent', 'navbar', 'Categories', 'Cars &amp; Motorcycles']);" href="http://www.templatemonster.com/properties/topic/cars-motorcycles/">
+<b class="icon-"></b>Cars &amp; Motorcycles
+</a>
+<span>(721)</span>
+<p>
+<a onclick="_gaq.push(['b._trackEvent', 'navbar', 'Categories', 'Cars']);" href="http://www.templatemonster.com/category/cars/">Cars</a>, <a onclick="_gaq.push(['b._trackEvent', 'navbar', 'Categories', 'Motorcycles']);" href="http://www.templatemonster.com/templates.php?keywords=bike">Motorcycles</a> </p>
+</li>
+<li class="maxheight1">
+<a class="item_title" onclick="_gaq.push(['b._trackEvent', 'navbar', 'Categories', 'Sports, Outdoors &amp; Travel']);" href="http://www.templatemonster.com/properties/topic/sports-outdoors-travel/">
+<b class="icon-"></b>Sports, Outdoors &amp; Travel
+</a>
+<span>(2300)</span>
+<p>
+<a onclick="_gaq.push(['b._trackEvent', 'navbar', 'Categories', 'Sports']);" href="http://www.templatemonster.com/category/sport/">Sports</a>, <a onclick="_gaq.push(['b._trackEvent', 'navbar', 'Categories', 'Travel']);" href="http://www.templatemonster.com/category/travel/">Travel</a>, <a onclick="_gaq.push(['b._trackEvent', 'navbar', 'Categories', 'Hotels']);" href="http://www.templatemonster.com/category/hotels/">Hotels</a> </p>
+</li>
+<li class="maxheight1">
+<a class="item_title" onclick="_gaq.push(['b._trackEvent', 'navbar', 'Categories', 'Fashion &amp; Beauty']);" href="http://www.templatemonster.com/properties/topic/fashion-beauty/">
+<b class="icon-"></b>Fashion &amp; Beauty
+</a>
+<span>(3210)</span>
+<p>
+<a onclick="_gaq.push(['b._trackEvent', 'navbar', 'Categories', 'Fashion']);" href="http://www.templatemonster.com/category/fashion/">Fashion</a>, <a onclick="_gaq.push(['b._trackEvent', 'navbar', 'Categories', 'Jewelry']);" href="http://www.templatemonster.com/category/jewelry/">Jewelry</a>, <a onclick="_gaq.push(['b._trackEvent', 'navbar', 'Categories', 'Beauty']);" href="http://www.templatemonster.com/category/beauty/">Beauty</a> </p>
+</li>
+<li class="maxheight1">
+<a class="item_title" onclick="_gaq.push(['b._trackEvent', 'navbar', 'Categories', 'Computers &amp; Internet']);" href="http://www.templatemonster.com/properties/topic/computers-internet/">
+<b class="icon-"></b>Computers &amp; Internet
+</a>
+<span>(1743)</span>
+<p>
+<a onclick="_gaq.push(['b._trackEvent', 'navbar', 'Categories', 'Hosting']);" href="http://www.templatemonster.com/category/hosting/">Hosting</a>, <a onclick="_gaq.push(['b._trackEvent', 'navbar', 'Categories', 'Software']);" href="http://www.templatemonster.com/category/software/">Software</a> </p>
+</li>
+<li class="maxheight1">
+<a class="item_title" onclick="_gaq.push(['b._trackEvent', 'navbar', 'Categories', 'Food &amp; Restaurant']);" href="http://www.templatemonster.com/properties/topic/food-restaurant/">
+<b class="icon-"></b>Food &amp; Restaurant
+</a>
+<span>(1320)</span>
+<p>
+<a onclick="_gaq.push(['b._trackEvent', 'navbar', 'Categories', 'Restaurant']);" href="http://www.templatemonster.com/category/cafe-and-restaurant/">Restaurant</a>, <a onclick="_gaq.push(['b._trackEvent', 'navbar', 'Categories', 'Food &amp; Drinks']);" href="http://www.templatemonster.com/category/food-drink/">Food &amp; Drinks</a>, <a onclick="_gaq.push(['b._trackEvent', 'navbar', 'Categories', 'Cafe']);" href="http://www.templatemonster.com/category/cafe-templates/">Cafe</a> </p>
+</li>
+<li class="maxheight1">
+<a class="item_title" onclick="_gaq.push(['b._trackEvent', 'navbar', 'Categories', 'Society &amp; People']);" href="http://www.templatemonster.com/properties/topic/society-people/">
+<b class="icon-"></b>Society &amp; People
+</a>
+<span>(1840)</span>
+<p>
+<a onclick="_gaq.push(['b._trackEvent', 'navbar', 'Categories', 'Personal Pages']);" href="http://www.templatemonster.com/category/personal-pages/">Personal Pages</a>, <a onclick="_gaq.push(['b._trackEvent', 'navbar', 'Categories', 'Dating']);" href="http://www.templatemonster.com/category/dating/">Dating</a>, <a onclick="_gaq.push(['b._trackEvent', 'navbar', 'Categories', 'Religion']);" href="http://www.templatemonster.com/category/religious/">Religion</a>, <a onclick="_gaq.push(['b._trackEvent', 'navbar', 'Categories', 'Charity']);" href="http://www.templatemonster.com/category/charity/">Charity</a> </p>
+</li>
+<li class="maxheight1">
+<a class="item_title" onclick="_gaq.push(['b._trackEvent', 'navbar', 'Categories', 'Home &amp; Family']);" href="http://www.templatemonster.com/properties/topic/home-family/">
+<b class="icon-"></b>Home &amp; Family
+</a>
+<span>(2532)</span>
+<p>
+<a onclick="_gaq.push(['b._trackEvent', 'navbar', 'Categories', 'Wedding']);" href="http://www.templatemonster.com/category/wedding/">Wedding</a>, <a onclick="_gaq.push(['b._trackEvent', 'navbar', 'Categories', 'Interior &amp; Furniture']);" href="http://www.templatemonster.com/category/interior-furniture/">Interior &amp; Furniture</a>, <a onclick="_gaq.push(['b._trackEvent', 'navbar', 'Categories', 'Children']);" href="http://www.templatemonster.com/templates.php?keywords=children">Children</a>, <a onclick="_gaq.push(['b._trackEvent', 'navbar', 'Categories', 'Kids']);" href="http://www.templatemonster.com/templates.php?keywords=kids">Kids</a> </p>
+</li>
+<li class="maxheight1">
+<a class="item_title" onclick="_gaq.push(['b._trackEvent', 'navbar', 'Categories', 'Entertainment, Games &amp; Nightlife']);" href="http://www.templatemonster.com/properties/topic/entertainment-games-nightlife/">
+<b class="icon-"></b>Entertainment, Games &amp; Nightlife
+</a>
+<span>(1004)</span>
+<p>
+<a onclick="_gaq.push(['b._trackEvent', 'navbar', 'Categories', 'Games']);" href="http://www.templatemonster.com/category/games/">Games</a>, <a onclick="_gaq.push(['b._trackEvent', 'navbar', 'Categories', 'Night Club']);" href="http://www.templatemonster.com/category/night-club/">Night Club</a>, <a onclick="_gaq.push(['b._trackEvent', 'navbar', 'Categories', 'Online Casino']);" href="http://www.templatemonster.com/category/online-casino/">Online Casino</a>, <a onclick="_gaq.push(['b._trackEvent', 'navbar', 'Categories', 'Radio']);" href="http://www.templatemonster.com/category/radio-website-templates/">Radio</a> </p>
+</li>
+<li class="maxheight1">
+<a class="item_title" onclick="_gaq.push(['b._trackEvent', 'navbar', 'Categories', 'Real Estate']);" href="http://www.templatemonster.com/properties/topic/real-estate-templates/">
+<b class="icon-"></b>Real Estate
+</a>
+<span>(104)</span>
+<p>
+<a onclick="_gaq.push(['b._trackEvent', 'navbar', 'Categories', 'Real Estate Agency']);" href="http://www.templatemonster.com/category/real-estate/">Real Estate Agency</a>, <a onclick="_gaq.push(['b._trackEvent', 'navbar', 'Categories', 'Mortgage']);" href="http://www.templatemonster.com/category/mortgage-templates/">Mortgage</a>, <a onclick="_gaq.push(['b._trackEvent', 'navbar', 'Categories', 'Land Broker']);" href="http://www.templatemonster.com/category/land-broker-templates/">Land Broker</a> </p>
+</li>
+<li class="maxheight1">
+<a class="item_title" onclick="_gaq.push(['b._trackEvent', 'navbar', 'Categories', 'Medical (Healthcare)']);" href="http://www.templatemonster.com/properties/topic/medical-templates/">
+<b class="icon-"></b>Medical (Healthcare)
+</a>
+<span>(149)</span>
+<p>
+<a onclick="_gaq.push(['b._trackEvent', 'navbar', 'Categories', 'Drug Store']);" href="http://www.templatemonster.com/category/drug-store-templates/">Drug Store</a>, <a onclick="_gaq.push(['b._trackEvent', 'navbar', 'Categories', 'Dentistry']);" href="http://www.templatemonster.com/category/dentistry-templates/">Dentistry</a>, <a onclick="_gaq.push(['b._trackEvent', 'navbar', 'Categories', 'Herbal']);" href="http://www.templatemonster.com/category/herbal-templates/">Herbal</a> </p>
+</li>
+</ul>
+</div>
+</li>
+<li class="sub-menu"><a onclick="_gaq.push(['b._trackEvent', 'navbar', 'Web Templates', 'Web Templates']);" href="http://www.templatemonster.com/web-templates.php">Web Templates</a>
+<div class="sub-menu-3  clearfix">
+<ul>
+<li class="maxheight2">
+<a onclick="_gaq.push(['b._trackEvent', 'navbar', 'Web Templates', 'Responsive Templates']);" href="http://www.templatemonster.com/properties/features/responsive-design/"><b class="icon-responsive svg square-icon"></b>Responsive <br>Templates </a><span>(3546)</span>
+<p class="sub-menu-padding">Make website fully responsive for all devices and screen resolutions. Startlingly adaptive designs done right </p>
+</li>
+<li class="maxheight2">
+<a onclick="_gaq.push(['b._trackEvent', 'navbar', 'CMS Templates', 'Wix Website Templates']);" href="http://www.templatemonster.com/wix-website-templates.php"><b class="icon-wix svg square-icon"></b>Wix Website <br>Templates </a><span>(22)</span>
+<p class="sub-menu-padding">Designer-made templates to build awesome websites as simple as drag &amp; drop</p>
+</li>
+<li class="maxheight2">
+<a onclick="_gaq.push(['b._trackEvent', 'navbar', 'Web Templates', 'Bootstrap Themes']);" href="http://www.templatemonster.com/properties/features/bootstrap-templates/"><b class="icon-bootstrap svg square-icon"></b>Bootstrap <br>Themes </a><span>(2279)</span>
+<p class="sub-menu-padding">Have everything in place to be a real contender: Bootstrap functionality, responsive design, unique add-ons</p>
+</li>
+<li class="maxheight2">
+<a onclick="_gaq.push(['b._trackEvent', 'navbar', 'Web Templates', 'HTML5 Site Templates']);" href="http://www.templatemonster.com/website-templates.php"><b class="icon-html5-2 svg square-icon"></b>HTML5 Site <br>Templates </a><span>(12461)</span>
+<p class="sub-menu-padding">Super customizable themes built on intelligent HTML5, with a clean look to design and coding</p>
+</li>
+<li class="maxheight2">
+<a onclick="_gaq.push(['b._trackEvent', 'navbar', 'Web Templates', 'PSD Templates']);" href="http://www.templatemonster.com/psd-templates.php"><b class="icon-psd svg square-icon"></b>PSD <br>Templates </a><span>(993)</span>
+<p class="sub-menu-padding">Multipurpose themes that have only graphic design source files, very flexible with a variety of custom options</p>
+</li>
+<li class="maxheight2">
+<a onclick="_gaq.push(['b._trackEvent', 'navbar', 'Web Templates', 'Facebook Themes']);" href="http://www.templatemonster.com/facebook-layouts.php"><b class="icon-facebook svg square-icon"></b>Facebook <br>Themes </a><span>(1542)</span>
+<p class="sub-menu-padding">Social minded, engaging brand pages made to be perfect companion for your company’s main website</p>
+</li>
+<li class="maxheight2">
+<a onclick="_gaq.push(['b._trackEvent', 'navbar', 'Web Templates', 'Photo Gallery Templates']);" href="http://www.templatemonster.com/photo-gallery-templates.php"><b class="icon-moto svg square-icon"></b>Photo Gallery <br>Templates </a><span>(266)</span>
+<p class="sub-menu-padding">Perfect combination of the drag-n-drop ability of site builder, the cataloging of photos, and the editing power of MotoCMS</p>
+</li>
+<li class="maxheight2">
+<a onclick="_gaq.push(['b._trackEvent', 'navbar', 'Web Templates', 'Newsletter Templates']);" href="http://www.templatemonster.com/newsletter-email-templates.php"><b class="icon-email svg square-icon"></b>Newsletter Templates </a><span>(5)</span>
+<p class="sub-menu-padding">Responsive email templates with a modern design you could use to get more people to sign up for your newsletter</p>
+</li>
+</ul>
+<a class="banner" href="http://www.templatemonster.com/templates.php?propertylist%5B2553%5D%5B0%5D=64310&amp;propertylist%5Btypes%5D%5B0%5D=50108">
+<span class="browse-btn">Browse Now</span>
+<span>Photo Galleries for Creative Photographers</span>
+<p>Unique galleries • Touch-Optimized • Mobile version included</p>
+</a>
+<ul class="sub-menu-3-bottom clearfix">
+</ul>
+</div>
+</li>
+<li class="sub-menu"><a onclick="_gaq.push(['b._trackEvent', 'navbar', 'CMS Templates', 'CMS Templates']);" href="http://www.templatemonster.com/cms-blog-templates.php">CMS Templates</a>
+<div class="sub-menu-3  clearfix">
+<ul>
+<li class="maxheight2">
+<a onclick="_gaq.push(['b._trackEvent', 'navbar', 'CMS Templates', 'WordPress Themes']);" href="http://www.templatemonster.com/wordpress-themes.php"><b class="icon-wordpress svg square-icon"></b>WordPress <br>Themes </a><span>(1595)</span>
+<p class="sub-menu-padding">Three reasons to use WordPress: no time, no skills, no headache</p>
+</li>
+<li class="maxheight2">
+<a onclick="_gaq.push(['b._trackEvent', 'navbar', 'CMS Templates', 'Drupal Themes']);" href="http://www.templatemonster.com/drupal-themes.php"><b class="icon-drupal svg square-icon"></b>Drupal <br>Themes </a><span>(457)</span>
+<p class="sub-menu-padding">In the hands of a knowledgeable, Drupal theme is a glove that fits all sizes</p>
+</li>
+<li class="maxheight2">
+<a onclick="_gaq.push(['b._trackEvent', 'navbar', 'CMS Templates', 'Joomla Templates']);" href="http://www.templatemonster.com/joomla-templates.php"><b class="icon-joomla svg square-icon"></b>Joomla <br>Templates </a><span>(1568)</span>
+<p class="sub-menu-padding">Best for users with prior technical or website experience</p>
+</li>
+<li class="maxheight2">
+<a onclick="_gaq.push(['b._trackEvent', 'navbar', 'CMS Templates', 'Moto CMS HTML']);" href="http://www.templatemonster.com/moto-cms-html-templates.php"><b class="icon-moto svg square-icon"></b>Moto CMS HTML <br>Templates </a><span>(1270)</span>
+<p class="sub-menu-padding">Powerful templates with feature-rich editing tools for less technically skilled</p>
+</li>
+<li class="maxheight2">
+<a onclick="_gaq.push(['b._trackEvent', 'navbar', 'CMS Templates', 'Turnkey Websites']);" href="http://www.templatemonster.com/turnkey-websites.php"><b class="icon-monster_dark svg square-icon"></b>Turnkey <br>Websites </a><span>(289)</span>
+<p class="sub-menu-padding">Drag &amp; drop admin controlled templates, fit both experienced and beginners</p>
+</li>
+<li class="maxheight2">
+<a onclick="_gaq.push(['b._trackEvent', 'navbar', 'CMS Templates', 'Flash CMS']);" href="http://www.templatemonster.com/flash-cms-templates.php"><b class="icon-moto svg square-icon"></b>Flash CMS <br>Templates </a><span>(740)</span>
+<p class="sub-menu-padding">Drag &amp; drop builder comprised with beautiful designs, minimum skills required</p>
+</li>
+</ul>
+<ul class="sub-menu-3-bottom clearfix">
+</ul>
+</div>
+</li>
+<li class="sub-menu"><a onclick="_gaq.push(['b._trackEvent', 'navbar', 'E-commerce Templates', 'E-commerce Templates']);" href="http://www.templatemonster.com/ecommerce-templates.php">E-commerce Templates</a>
+<div class="sub-menu-3  clearfix">
+<ul>
+<li class="maxheight2">
+<a onclick="_gaq.push(['b._trackEvent', 'navbar', 'E-commerce Templates', 'Magento Themes']);" href="http://www.templatemonster.com/magento-themes.php"><b class="icon-magento svg square-icon"></b>Magento <br>Themes </a><span>(857)</span>
+<p class="sub-menu-padding">Robustly featured and scalable shopping cart for tech-savvy web developers</p>
+</li>
+<li class="maxheight2">
+<a onclick="_gaq.push(['b._trackEvent', 'navbar', 'E-commerce Templates', 'VirtueMart Templates']);" href="http://www.templatemonster.com/virtuemart-templates.php"><b class="icon-virtuemart svg square-icon"></b>VirtueMart <br>Templates </a><span>(492)</span>
+<p class="sub-menu-padding">Flexible e-commerce plugin for Joomla, optimal for small to mid-sized stores</p>
+</li>
+<li class="maxheight2">
+<a onclick="_gaq.push(['b._trackEvent', 'navbar', 'E-commerce Templates', 'ZenCart Templates']);" href="http://www.templatemonster.com/zencart-templates.php"><b class="icon-zencart svg square-icon"></b>ZenCart <br>Templates </a><span>(785)</span>
+<p class="sub-menu-padding">Shopping cart with great merchandising features to run a bigger web store</p>
+</li>
+<li class="maxheight2">
+<a onclick="_gaq.push(['b._trackEvent', 'navbar', 'E-commerce Templates', 'PrestaShop Themes']);" href="http://www.templatemonster.com/prestashop-themes.php"><b class="icon-prestahop svg square-icon"></b>PrestaShop <br>Themes </a><span>(877)</span>
+<p class="sub-menu-padding">User-friendly platform good in its quick set up and simple managing</p>
+</li>
+<li class="maxheight2">
+<a onclick="_gaq.push(['b._trackEvent', 'navbar', 'E-commerce Templates', 'Jigoshop Themes']);" href="http://www.templatemonster.com/jigoshop-themes.php"><b class="icon-jigoshop svg square-icon"></b>Jigoshop <br>Themes </a><span>(167)</span>
+<p class="sub-menu-padding">WordPress based e-commerce solution made to be fast and easy to use</p>
+</li>
+<li class="maxheight2">
+<a onclick="_gaq.push(['b._trackEvent', 'navbar', 'E-commerce Templates', 'OpenCart Templates']);" href="http://www.templatemonster.com/opencart-templates.php"><b class="icon-opencart svg square-icon"></b>OpenCart <br>Templates </a><span>(413)</span>
+<p class="sub-menu-padding">For small-to-mid merchants who need simple, highly extensible platform</p>
+</li>
+<li class="maxheight2">
+<a onclick="_gaq.push(['b._trackEvent', 'navbar', 'E-commerce Templates', 'Shopify Themes']);" href="http://www.templatemonster.com/shopify-themes.php"><b class="icon-shopify svg square-icon"></b>Shopify <br>Themes </a><span>(56)</span>
+<p class="sub-menu-padding">Instant e-commerce platform with simple customization, great for entrepreneurs who want a hosted store</p>
+</li>
+<li class="maxheight2">
+<a onclick="_gaq.push(['b._trackEvent', 'navbar', 'E-commerce Templates', 'WooCommerce']);" href="http://www.templatemonster.com/woocommerce-themes.php"><b class="icon-woo svg square-icon"></b>WooCommerce <br>Themes </a><span>(119)</span>
+<p class="sub-menu-padding">Predesigned templates to handle e-commerce store on your WordPress based website</p>
+</li>
+<li class="maxheight2">
+<a onclick="_gaq.push(['b._trackEvent', 'navbar', 'E-commerce Templates', 'osCommerce Templates']);" href="http://www.templatemonster.com/oscommerce-templates.php"><b class="icon-osc svg square-icon"></b>osCommerce <br>Templates </a><span>(1416)</span>
+<p class="sub-menu-padding">Great for advanced online merchants who need highly configurable stores</p>
+</li>
+<li class="maxheight2">
+<a onclick="_gaq.push(['b._trackEvent', 'navbar', 'E-commerce Templates', 'Loaded7 Templates']);" href="http://www.templatemonster.com/loaded7-templates.php"><b class="icon-loaded7 svg square-icon"></b>Loaded7 Templates </a><span>(5)</span>
+<p class="sub-menu-padding">Outstanding mobile performance for both customers and store owners</p>
+</li>
+</ul>
+<ul class="sub-menu-3-bottom clearfix">
+</ul>
+</div>
+</li>
+<li class="sub-menu"><a onclick="_gaq.push(['b._trackEvent', 'navbar', 'Flash &amp; Media', 'Flash &amp; Media']);" href="http://www.templatemonster.com/templates.php?propertylist[types][]=flash-intro&amp;propertylist[types][]=flash-templates&amp;propertylist[types][]=swish-templates&amp;propertylist[types][]=flash-cms-templates&amp;propertylist[types][]=after-effects-intros">Flash &amp; Media</a>
+<div class="sub-menu-3 sub-menu-3-last clearfix">
+<ul>
+<li class="maxheight2">
+<a onclick="_gaq.push(['b._trackEvent', 'navbar', 'Flash &amp; Media', 'Flash Templates']);" href="http://www.templatemonster.com/flash-templates.php"><b class="icon-flash svg square-icon"></b>Flash Site <br>Templates </a><span>(5860)</span>
+<p class="sub-menu-padding">Animation-rich templates a par with video clips, fit all websites and users of any level</p>
+</li>
+<li class="maxheight2">
+<a onclick="_gaq.push(['b._trackEvent', 'navbar', 'Flash &amp; Media', 'Flash Intro']);" href="http://www.templatemonster.com/flash-intro.php"><b class="icon-flash svg square-icon"></b>Flash Intro <br>Templates </a><span>(183)</span>
+<p class="sub-menu-padding">Intro is a great way to attract visitors and give your website a diamond shine</p>
+</li>
+<li class="maxheight2">
+<a onclick="_gaq.push(['b._trackEvent', 'navbar', 'Flash &amp; Media', 'SWiSH Templates']);" href="http://www.templatemonster.com/swish-templates.php"><b class="icon-swish svg square-icon"></b>SWiSH <br>Templates </a><span>(753)</span>
+<p class="sub-menu-padding">Best creation tool with tons of Flash effects to develop fully interactive websites</p>
+</li>
+<li class="maxheight2">
+<a onclick="_gaq.push(['b._trackEvent', 'navbar', 'Flash &amp; Media', 'After Effects Templates']);" href="http://www.templatemonster.com/video-templates.php"><b class="icon-ae svg square-icon"></b>After Effects <br>Templates </a><span>(258)</span>
+<p class="sub-menu-padding">Hollywood-quality video products and digital motion graphics for any taste</p>
+</li>
+<li class="maxheight2">
+<a onclick="_gaq.push(['b._trackEvent', 'navbar', 'Flash &amp; Media', 'PowerPoint Templates']);" href="http://www.templatemonster.com/powerpoint-templates.php"><b class="icon-powerpoint svg square-icon"></b>PowerPoint <br>Templates </a><span>(428)</span>
+<p class="sub-menu-padding">Bold and captivating templates that combine quality visuals with clear message</p>
+</li>
+<li class="maxheight2">
+<a onclick="_gaq.push(['b._trackEvent', 'navbar', 'Flash &amp; Media', 'Corporate Design ']);" href="http://www.templatemonster.com/corporate-design.php"><b class="icon-corporate svg square-icon"></b>Corporate <br>Design </a><span>(3953)</span>
+<p class="sub-menu-padding">Template catalog designed around conceptually inspired brand identity</p>
+</li>
+</ul>
+<ul class="sub-menu-3-bottom clearfix">
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</header><section id="content"> <div class="full">
+<div class="container">
+<div id="main-column">
+<div id="post-4" class="post-4 page type-page status-publish hentry fullwidth-page">
+<div class="fullwidth-container sample">
+<h4><strong>Privacy Policy</strong></h4>
 <p>TemplateMonster.com, Inc. (hereafter referred to as TemplateMonster.com) has created this privacy policy to demonstrate our commitment to the privacy of the users of our websites. Please read the following to learn more about our privacy policy, and how we treat personally identifiable information collected from our visitors and users.</p>
-<h4>What this Privacy Policy Covers</h4>
+<p><strong>What this Privacy Policy Covers</strong></p>
+<div class="list styled check-list">
 <ul>
-    <li>This privacy policy covers TemplateMonster.com's treatment of personally identifiable information collected by TemplateMonster.com through a website owned and operated by TemplateMonster.com.</li>
-    <li>This privacy policy does not apply to the practices of companies that TemplateMonster.com does not own or control, or of persons that TemplateMonster.com does not employ or manage, including any third-party content contributors bound by contract and any third-party websites to which TemplateMonster.com websites link.</li>
+<li>This privacy policy covers TemplateMonster.com’s treatment of personally identifiable information collected by TemplateMonster.com through a website owned and operated by TemplateMonster.com.</li>
+<li>This privacy policy does not apply to the practices of companies that TemplateMonster.com does not own or control, or of persons that TemplateMonster.com does not employ or manage, including any third-party content contributors bound by contract and any third-party websites to which TemplateMonster.com websites link.</li>
 </ul>
-<h4>Collection and Use of Personal Information</h4>
+</div>
+<strong>Collection and Use of Personal Information</strong><br>
+<div class="list styled arrow-list">
 <ul>
-    <li>You can visit the websites of TemplateMonster.com without revealing any personal information. However, TemplateMonster.com needs certain personal information if you wish to purchase our products, register for an affiliate account, receive TemplateMonster.com newsletter, or use certain TemplateMonster.com services.</li>
-
-    <li>Where required, this information may include your personal contact information and/or your company contact information. TemplateMonster.com will use this information to reply to your inquiries, to provide you with requested products and services, to set up your member's account, and to contact you regarding new products and services.</li>
-    <li>By accessing the services of TemplateMonster.com and voluntarily providing us with the requested personal information, you consent to the collection and use of the information in accordance with this privacy policy.</li>
+<li>You can visit the websites of TemplateMonster.com without revealing any personal information. However, TemplateMonster.com needs certain personal information if you wish to purchase our products, register for an affiliate account, receive TemplateMonster.com newsletter, or use certain TemplateMonster.com services.</li>
+<li>Where required, this information may include your personal contact information and/or your company contact information. TemplateMonster.com will use this information to reply to your inquiries, to provide you with requested products and services, to set up your member’s account, and to contact you regarding new products and services.</li>
+<li>By accessing the services of TemplateMonster.com and voluntarily providing us with the requested personal information, you consent to the collection and use of the information in accordance with this privacy policy.</li>
 </ul>
-<h4>Collection and Use of Non-Personal Information</h4>
+</div>
+<strong>Collection and Use of Non-Personal Information</strong><br>
+<div class="list styled arrow-list">
 <ul>
-    <li>TemplateMonster.com automatically receives and records non-personal information on our server logs from your browser including your IP address, cookie information and the page you requested. TemplateMonster.com may use this information to customize the advertising and content you see and to fulfill your requests for certain products and services. However, TemplateMonster.com does not connect this non-personal data to any personal information collected from you.</li>
-    <li>TemplateMonster.com also allows third party companies that are presenting advertisements on some of our pages to set and access their cookies on your computer. Again, these cookies are not connected to any personal information. Third party cookie usage is subject to their own privacy policies, and TemplateMonster.com assumes no responsibility or liability for this usage.</li>
+<li>TemplateMonster.com automatically receives and records non-personal information on our server logs from your browser including your IP address, cookie information and the page you requested. TemplateMonster.com may use this information to customize the advertising and content you see and to fulfill your requests for certain products and services. However, TemplateMonster.com does not connect this non-personal data to any personal information collected from you.</li>
+<li>TemplateMonster.com also allows third party companies that are presenting advertisements on some of our pages to set and access their cookies on your computer. Again, these cookies are not connected to any personal information. Third party cookie usage is subject to their own privacy policies, and TemplateMonster.com assumes no responsibility or liability for this usage.</li>
 </ul>
-
-<h4>Information Sharing and Disclosure</h4>
+</div>
+<strong>Information Sharing and Disclosure</strong><br>
+<div class="list styled check-list">
 <ul>
-    <li>TemplateMonster.com may disclose your personal information to third parties who work on behalf of TemplateMonster.com to provide products and services requested by you. We will share personal information for these purposes only with third parties whose privacy policies are consistent with ours or who agree to abide by our policies with respect to personal information</li>
-    <li>TemplateMonster.com may otherwise disclose your personal information when:</li>
-    <ul>
-        <li>We have your express consent to share the information for a specified purpose;</li>
-        <li>We need to respond to subpoenas, court orders or such other legal process;</li>
-
-        <li>We need to protect the personal safety of the users of our websites or defend the rights or property of TemplateMonster.com;</li>
-        <li>We find that your actions on our websites violate the TemplateMonster.com Terms of Use document or any of our usage guidelines for specific products or services.</li>
-    </ul>
+<li>TemplateMonster.com may disclose your personal information to third parties who work on behalf of TemplateMonster.com to provide products and services requested by you. We will share personal information for these purposes only with third parties whose privacy policies are consistent with ours or who agree to abide by our policies with respect to personal information</li>
+<li>TemplateMonster.com may otherwise disclose your personal information when:<br>
+</li></ul></div>
+<div class="list styled arrow-list">
+<ul>
+<li>We have your express consent to share the information for a specified purpose;</li>
+<li>We need to respond to subpoenas, court orders or such other legal process;</li>
+<li>We need to protect the personal safety of the users of our websites or defend the rights or property of TemplateMonster.com;</li>
+<li>We find that your actions on our websites violate the TemplateMonster.com Terms of Use document or any of our usage guidelines for specific products or services.</li>
 </ul>
+</div>
 
-<h4>Display Advertising</h4>
+<p><strong>Display Advertising</strong><br>
+</p><div class="list styled arrow-list">
 <ul>
-    <li>TemplateMonster.com has implemented Display Advertising and uses Remarketing with Google Analytics to advertise online. It means that third-party vendors, including Google, show our ads on sites across the Internet.</li> 
-    <li>TemplateMonster.com along with third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on your past visits to our website.</li> 
-    <li>If you want to opt-out of Google Analytics for Display Advertising, just customize Google Display Network ads using the <a href="https://www.google.com/settings/ads">Ads Settings</a> or using <a href="https://tools.google.com/dlpage/gaoptout/">Google Analytics Opt-out Browser Add-on</a> that will instruct the Google Analytics JavaScript not to send any information about the website visit to Google Analytics.</li> 
-    </ul>
-
-<h4>Consent</h4>
+<li>TemplateMonster.com has implemented Display Advertising and uses Remarketing with Google Analytics to advertise online. It means that third-party vendors, including Google, show our ads on sites across the Internet.</li>
+<li>TemplateMonster.com along with third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on your past visits to our website.</li>
+<li>If you want to opt-out of Google Analytics for Display Advertising, just customize Google Display Network ads using the <a href="https://www.google.com/settings/ads">Ads Settings</a> or using <a href="https://tools.google.com/dlpage/gaoptout/">Google Analytics Opt-out Browser Add-on</a> that will instruct the Google Analytics JavaScript not to send any information about the website visit to Google Analytics.</li>
+</ul>
+</div>
+<p><strong>Consent</strong><br>
+</p><div class="list styled arrow-list">
 <ul>
-    <li>If you do not consent to the collection, use or disclosure of your personal information as outlined in this policy, please do not provide any personal information to TemplateMonster.com. If you have provided personal information to TemplateMonster.com and no longer consent to its use or disclosure as outlined herein, please notify TemplateMonster.com at privacy@templatemonster.com.<script type="text/javascript">
+<li>If you do not consent to the collection, use or disclosure of your personal information as outlined in this policy, please do not provide any personal information to TemplateMonster.com. If you have provided personal information to TemplateMonster.com and no longer consent to its use or disclosure as outlined herein, please notify TemplateMonster.com at privacy@templatemonster.com.<script type="text/javascript">
 /* <![CDATA[ */
 (function(){try{var s,a,i,j,r,c,l,b=document.getElementsByTagName("script");l=b[b.length-1].previousSibling;a=l.getAttribute('data-cfemail');if(a){s='';r=parseInt(a.substr(0,2),16);for(j=2;a.length-j;j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}s=document.createTextNode(s);l.parentNode.replaceChild(s,l);}}catch(e){}})();
 /* ]]> */
 </script></li>
 </ul>
-<h4>Security</h4>
-
+</div>
+<p><strong>Security</strong><br>
+</p><div class="list styled arrow-list">
 <ul>
-    <li>Unfortunately, no data transmission over the Internet can be considered 100% secure. However, your TemplateMonster.com Information protected for your privacy and security. In certain areas of our websites, as identified on the site, TemplateMonster.com uses industry-standard SSL-encryption to protect data transmissions.</li>
-    <li>We also safeguard your personal information from unauthorized access, through access control procedures, network firewalls and physical security measures.</li>
-    <li>Further, TemplateMonster.com retains your personal information only as long as necessary to fulfil the purposes identified above or as required by law.</li>
+<li>Unfortunately, no data transmission over the Internet can be considered 100% secure. However, your TemplateMonster.com Information protected for your privacy and security. In certain areas of our websites, as identified on the site, TemplateMonster.com uses industry-standard SSL-encryption to protect data transmissions.</li>
+<li>We also safeguard your personal information from unauthorized access, through access control procedures, network firewalls and physical security measures.</li>
+<li>Further, TemplateMonster.com retains your personal information only as long as necessary to fulfil the purposes identified above or as required by law.</li>
 </ul>
-<h4>Changes to this Privacy Policy</h4>
+</div>
+<strong>Changes to this Privacy Policy</strong><br>
+<div class="list styled arrow-list">
 <ul>
-    <li>TemplateMonster.com may at any time, without notice to you and in its sole discretion, amend this policy from time to time. Please review this policy periodically. Your continued use of TemplateMonster.com websites after any such amendments signifies your acceptance thereof.</li>
-
+<li>TemplateMonster.com may at any time, without notice to you and in its sole discretion, amend this policy from time to time. Please review this policy periodically. Your continued use of TemplateMonster.com websites after any such amendments signifies your acceptance thereof.</li>
 </ul>
-<h4>Questions or Suggestions</h4>
+</div>
+<strong>Questions or Suggestions</strong><br>
+<div class="list styled arrow-list">
 <ul>
-    <li>If you have questions or suggestions about this privacy policy, or your own personal information, please e-mail us at <a href="mailto:privacy@templatemonster.com">privacy@templatemonster.com<script type="text/javascript">
+<li>If you have questions or suggestions about this privacy policy, or your own personal information, please e-mail us at <a href="privacy@templatemonster.com" target="_blank">privacy@templatemonster.com<script type="text/javascript">
 /* <![CDATA[ */
 (function(){try{var s,a,i,j,r,c,l,b=document.getElementsByTagName("script");l=b[b.length-1].previousSibling;a=l.getAttribute('data-cfemail');if(a){s='';r=parseInt(a.substr(0,2),16);for(j=2;a.length-j;j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}s=document.createTextNode(s);l.parentNode.replaceChild(s,l);}}catch(e){}})();
 /* ]]> */
 </script></a>.</li>
-</ul></div></div></div>
-<div id="templatePreviewWrapper">
-		<h2 id="templatePreviewHeading"></h2>
-		<div id="templatePreviewBody">
-					</div>
-	</div>
-	</td>
-</tr>
-<!--// Page body -->
-
-<!-- Page footer -->
-	<tr>
-	<td class="footer">
-		<div style="float: left;">
-						More Products: <a href="/web-design-templates.php">Web Design Templates</a>&nbsp;|&nbsp;<a href="/dreamweaver-templates.php">Dreamweaver Templates</a>&nbsp;|&nbsp;<a href="/html-templates.php">HTML Templates</a>&nbsp;|&nbsp;<a href="/psd-templates.php">PSD Templates</a>&nbsp;|&nbsp;<a href="/photoshop-templates.php">Photoshop Templates</a>				</div>
-		<div id="McAfeeBox"></div>
-	<br class="clear">
-				<br>
-		<div style="text-align: center;">
-				Copyright © 2003-2013 Jetimpex, Inc, Jetimpex, LP and Collerno Trade Ltd. All Rights Reserved. Payments are performed by Jetimpex, LP.		<br>
-	<a href="/privacy-policy.php">Privacy Policy</a> |
-	<a href="/report-spam.php" rel="nofollow">Report spam</a><br>
-	Template Monster - Website Templates &nbsp;|&nbsp; Flash Templates &nbsp;|&nbsp; Web Templates Design
-			</div>
-		<div id="aff_holder" style="visibility:hidden;"></div>
-		
-	</td>
-	</tr>
-<!--// Page footer -->
-
-</tbody>
-</table>
-
-<!-- BINGo -->
-
-<!-- Google analytics -->
-<script type="text/javascript">
-/* Google analytics */
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
+</ul>
+</div>
+<div class="clear"></div>
+</div>
+</div> 
+</div>
+</div>
+</div>
+</section>
+<footer id="footer">
+ 
+<div class="footer-columns">
+<div class="container">
+<div class="row footer-line-dividers">
+<div class="col-lg-2 col-md-2 col-sm-2 column-1">
+ 
+<div class="block block-style-2 company">
+<h3 class="block-heading">Company</h3>
+<div class="block-content">
+<ul class="list">
+<li><a href="/about.php">About</a></li>
+<li><a href="/testimonials.php">Testimonials</a></li>
+<li><a href="/register_aff.php">Affiliate Program</a></li>
+<li><a href="/contact_us.php">Contact Us</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="col-lg-3 col-md-3 col-sm-3 column-2">
+ 
+<div class="block follow-us block-style-2">
+<h3 class="block-heading">Connect with Us</h3>
+<div class="block-content">
+<ul class="social-list">
+<li><a href="http://www.facebook.com/TemplateMonster/"><b class="icon-facebook svg square-icon"></b>Be a Fan on Facebook</a></li>
+<li><a href="http://twitter.com/#!/templatemonster"><b class="icon-twitter svg square-icon"></b>Follow Us on Twitter</a></li>
+<li><a href="https://plus.google.com/+templatemonster/"><b class="icon-google-plus svg square-icon"></b>Join TemplateMonster at Google+</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="col-lg-4 col-md-4 col-sm-4 column-3">
+ 
+<div class="block block-style-2 subscribe_footer">
+<h3 class="block-heading">Subscribe to Our Newsletter</h3>
+<div class="block-content">
+Get new web templates report and design news.
+<form action="/jajaxserver.php?app=Newsletter&amp;action=subscription" method="POST" name="subscribe" id="subscribe-form" class="form-horizontal">
+<div id="subscribe-form-errors"></div>
+<input type="hidden" name="name" id="subscribe-form-name" tabindex="1" value="Customer">
+<div class="form-group"><div class="col-lg-12"><input type="email" name="email" autocomplete="off" data-constraints="@NotBlank @HTML5Required @Email(message=&quot;Doesn't look like a valid email&quot;) @HTML5Email(message=&quot;Doesn't look like a valid email&quot;) @Length(min=&quot;0&quot;, max=&quot;72&quot;, message=&quot;Doesn't look like a valid email&quot;) @Pattern(regex=&quot;/^(.{1,64})\@/&quot;, message=&quot;Doesn't look like a valid email&quot;)" required="required" id="subscribe-form-email" class=" form-control js-placeholder" tabindex="2" placeholder="Email Address" value=""></div></div>
+<div class="form-group"><div class="col-lg-12"><button type="submit" name="submit" id="subscribe-form-submit" class="btn btn-default" tabindex="3" value="">Subscribe</button></div></div>
+</form>
+</div>
+</div>
+</div>
+<div class="col-lg-3 col-md-3 col-sm-3 column-4">
+ 
+<div class="block block-style-2 help">
+<h3 class="block-heading">Help &amp; Support</h3>
+<div class="block-content">
+<ul class="list">
+<li><a href="/help/">Help Center</a></li>
+<li><a href="/free-templates.php">Free Sample Templates</a></li>
+<li><a href="/refund-policy.php">Refund Policy</a></li>
+<li><a href="/report-spam.php">Report Spam</a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="copyright-columns">
+<div class="container">
+<div class="row">
+<div class="col-lg-6 col-md-5 col-sm-5">
+ 
+<div class="copyright">
+<p>Copyright © 2003–2014 Jetimpex, Inc and Jetimpex, LP. <a href="/privacy-policy.php">Privacy Policy</a><br>All Rights Reserved. Payments are performed by Jetimpex, LP.</p>
+</div>
+</div>
+<div class="col-lg-5 col-md-6 col-sm-6">
+ 
+<div class="payments">
+<p>Secure Payments by <img src="http://static.tmimgcdn.com/img/paypal-img.png?874a9a4" alt=""></p>
+</div>
+</div>
+<div class="col-lg-1 col-md-1 col-sm-1">
+ 
+<div class="virus-protection">
+<img width="81" height="54" border="0" src="http://static.tmimgcdn.com/img/comodo-secure.png?874a9a4" alt="Comodo SSL Certificate">
+</div>
+</div>
+</div>
+</div>
+</div>
+</footer>
+ 
+<div class="block live-chat live-chat-in">
+<div class="block-heading">
+<a href="javascript:;" class="btn-close"><i class="icon-close"></i></a>
+<strong>Live Chat</strong>
+</div>
+<div class="block-content">
+<div class="box-monster">
+<figure class="img-monster"><img src="http://static.tmimgcdn.com/img/img-monster.png?874a9a4" alt=""></figure>
+<span>Hello! Can I help you choose a product?</span>
+</div>
+<form action="/jajaxserver.php?app=InvitationToChat&amp;action=redirect" method="POST" name="live_chat" id="live-chat-form" class="form-horizontal">
+<div id="live-chat-form-errors"></div>
+<div class="form-group"><div class="col-lg-12 col-md-12 col-sm-12"><input type="text" name="name" autocomplete="off" data-constraints="@NotBlank @HTML5Required" required="required" id="live-chat-form-name" class=" form-control js-placeholder" tabindex="4" placeholder="Your Name" value=""></div></div>
+<div class="form-group"><div class="col-lg-12 col-md-12 col-sm-12"><input type="email" name="email" autocomplete="off" data-constraints="@NotBlank @HTML5Required @Email(message=&quot;Doesn't look like a valid email&quot;) @HTML5Email(message=&quot;Doesn't look like a valid email&quot;) @Length(min=&quot;0&quot;, max=&quot;72&quot;, message=&quot;Doesn't look like a valid email&quot;) @Pattern(regex=&quot;/^(.{1,64})\@/&quot;, message=&quot;Doesn't look like a valid email&quot;)" required="required" id="live-chat-form-email" class=" form-control js-placeholder" tabindex="5" placeholder="Email Address" value=""></div></div>
+<div class="form-group"><div class="col-lg-12 col-md-12 col-sm-12"><button type="submit" name="submit" id="live-chat-form-submit" class="btn btn-default" tabindex="6" value="">Start Chat</button></div></div>
+</form>
+Have a support question? <a href="http://esupport.template-help.com/index.php?/Tickets/Submit">Submit a ticket</a>
+</div>
+</div>
+ 
+ 
+<div class="block live-chat live-chat-out" style="display: none;">
+<div class="block-heading">
+<a href="javascript:;">Live Chat <i class="icon-chat"></i>
+<i class="icon-arrow-up"></i></a>
+</div>
+</div>
+ 
+<script src="/js/livechatconfig.js"></script>
+<script src="http://static.tmimgcdn.com/js/compiled.js?4407049"></script>
+<script>
 try {
-    var _gaq = _gaq || [];
+	var _gaq = _gaq || [];
 	_gaq.push(['a._setAccount', 'UA-1217838-2']);
-	
-		_gaq.push(['a._setDomainName', '.templatemonster.com']);
-		_gaq.push(['a._setAllowLinker', true]);
-		_gaq.push(['a._setAllowHash', false]);
-		
-		_gaq.push(['a._setSessionCookieTimeout', 180000000]);
-		_gaq.push(['a._setVisitorCookieTimeout', 63072000000]);
 
-		
+	_gaq.push(['a._setDomainName', '.templatemonster.com']);
+	_gaq.push(['a._setAllowLinker', true]);
+	_gaq.push(['a._setAllowHash', false]);
+
+	_gaq.push(['a._setSessionCookieTimeout', 180000000]);
+	_gaq.push(['a._setVisitorCookieTimeout', 63072000000]);
+
 	_gaq.push(['b._setAccount', 'UA-1217838-16']);
 
-	
-		_gaq.push(['b._setDomainName', '.templatemonster.com']);
-		_gaq.push(['b._setAllowLinker', true]);
-		_gaq.push(['b._setAllowHash', false]);
-		
-		_gaq.push(['b._setSessionCookieTimeout', 180000000]);
-		_gaq.push(['b._setVisitorCookieTimeout', 63072000000]);
 
-		
-	_gaq.push(['a._setCustomVar', 1, "Account", "No", 2]);
-	_gaq.push(['b._setCustomVar', 1, "Account", "No", 2]);
+	_gaq.push(['b._setDomainName', '.templatemonster.com']);
+	_gaq.push(['b._setAllowLinker', true]);
+	_gaq.push(['b._setAllowHash', false]);
 
-	_gaq.push(['a._require', 'inpage_linkid', '//www.google-analytics.com/plugins/ga/inpage_linkid.js']);
-	
-	_gaq.push(['b._trackEvent', 'Time Spent', 'Server Generation', '/privacy-policy.php', 161]);
+	_gaq.push(['b._setSessionCookieTimeout', 180000000]);
+	_gaq.push(['b._setVisitorCookieTimeout', 63072000000]);
 
+    _gaq.push(['a._setCustomVar', 3, "Beta", "Yes", 2]);
+    _gaq.push(['b._setCustomVar', 3, "Beta", "Yes", 2]);
 
-_gaq.push(['a._trackPageview']);_gaq.push(['b._trackPageview']);
-} catch (err) {}
-</script>
-<!--// Google analytics -->
-	<img id="banner" src="http://i.tmimgcdn.com/ad/banner.gif" width="1" height="1">
-<script type="text/javascript">
-	jQuery(document).ready(function($){
-		setTimeout(function(){
-			if( !$('#banner').is(':visible') ){
-				_gaq.push(['b._trackEvent', 'SiteUsage', 'adblock-plus-detected-tm', location.pathname]);
-			}
-		}, 1000);
-	});
-</script>
-
-<script type="text/javascript">
-var _gaa = Tm.GA ('a');
-</script>
-<script type="text/javascript">
-var _gab = Tm.GA ('b');
-</script>
-        <script type="text/javascript">
-            $(document).ready(function() {
-		function setModalDeliveryBanner(idPopup) {
-                    _gaq.push(['b._trackEvent', 'ModalDeliveryBanner', '', 'Show']);			$('#' + idPopup).find('.close').click(function () {
-				$('#' + idPopup).popup('close');
-				return false;
-			});
-			$('#' + idPopup).popup('open', {
-				scroll:true
-			});
-			overlayClose: true
-                 }
-                 var banner = 'null';
-                 if(banner != 'null') {
-                     setModalDeliveryBanner('null');
-                 }
-             });
-
-        </script>
-<script type="text/javascript">
     
-    adroll_adv_id = "BB3IH3HVAVBFTMY7RNAXT3";
-    adroll_pix_id = "XP3KBR5ODFD6LIYRYFZGH6";
-    (function () {
-        var oldonload = window.onload;
-        window.onload = function(){
-            __adroll_loaded=true;
-            var scr = document.createElement("script");
-            var host = (("https:" == document.location.protocol) ?
-                "https://s.adroll.com" : "http://a.adroll.com");
-            scr.setAttribute('async', 'true');
-            scr.type = "text/javascript";
-            scr.src = host + "/j/roundtrip.js";
-            ((document.getElementsByTagName('head') || [null])[0] ||
-                document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
-            if(oldonload){oldonload();}
-        };
-    }());
-</script>
-<script type="text/javascript">
+	_gaq.push(['a._require', 'inpage_linkid', '//www.google-analytics.com/plugins/ga/inpage_linkid.js']);
+
+} catch (err) {}
 (function() {
-    if (1 == $('#PreviewPage2').length)
-	{
-	var host = ("https:" == document.location.protocol ? "https://secure.eemt.se" : "http://www.eemt.se");
-	document.write(unescape("%3Cscript src='" + host + "/gt/js/3166.js' type='text/javascript'%3E%3C/script%3E"));
-        }
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 })();
-</script>
+</script>  
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-1.newrelic.com","licenseKey":"72d7dcce33","applicationID":"2946383","transactionName":"ZV1TZ0FTVkFVWkwKXlwXcFBHW1dcG0lZBFQfXkRfX0VRVkBR","queueTime":0,"applicationTime":177,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
 
-
-<!-- Crazyegg.com: add code -->
-<script type="text/javascript">
-setTimeout(function(){var a=document.createElement("script");
-var b=document.getElementsByTagName("script")[0];
-a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0012/0919.js?"+Math.floor(new Date().getTime()/3600000);
-a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
-</script> 
-
-<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:")+"//"+"js-agent.newrelic.com/nr-100.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-1.newrelic.com","72d7dcce33","242398","ZV1TZ0FTVkFVWkwKXlwXZEFaHUhAXU9ZAEgfSF5fWlFBHERRSA==",0,164,new Date().getTime(),"","","","",""]);</script><script type="text/javascript">
-/* <![CDATA[ */
-(function(){try{var s,a,i,j,r,c,l=document.getElementsByTagName("a"),t=document.createElement("textarea");for(i=0;l.length-i;i++){try{a=l[i].getAttribute("href");if(a&&"www.cloudflare.com/email-protection"==a.substr(7 ,35)){s='';j=43;r=parseInt(a.substr(j,2),16);for(j+=2;a.length-j&&a.substr(j,1)!='X';j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}j+=1;s+=a.substr(j,a.length-j);t.innerHTML=s.replace(/</g,"&lt;").replace(/>/g,"&gt;");l[i].setAttribute("href","mailto:"+t.value);}}catch(e){}}}catch(e){}})();
-/* ]]> */
-</script>
-
-
-<script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
+ <script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
