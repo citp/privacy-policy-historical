@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loveculture.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203054456id_/http%3A//www.loveculture.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loveculture.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630161454id_/http%3A//loveculture.com/privacy-policy.html) for the most accurate reproduction.*
 
 # eCommerce Solutions On-Demand | Demandware Privacy Policy
 
