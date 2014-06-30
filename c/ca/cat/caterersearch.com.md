@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caterersearch.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229224358id_/http%3A//www.catererandhotelkeeper.co.uk/staticPages/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caterersearch.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630213616id_/http%3A//www.catererandhotelkeeper.co.uk/staticPages/privacy.htm) for the most accurate reproduction.*
 
 # Find Hospitality News and Your Next Hospitality Job on Caterer and Hotelkeeper
 
