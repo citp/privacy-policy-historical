@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegarden.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206140119id_/http%3A//www.themadisonsquaregardencompany.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegarden.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630061249id_/http%3A//www.themadisonsquaregardencompany.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy - The Madison Square Garden Company
 
@@ -76,8 +76,30 @@ If you have provided personal information while using the Services and later dec
 **PERSONALIZED CONTENT AND ADVERTISING AND YOUR CHOICES**  
 We may personalize the content and advertising that you see when using the Services through the use of third-party advertising technologies that allow for the delivery of relevant content and advertising on MSG websites or applications. You can learn more about personalized advertising through consumer education materials provided by the Digital Advertising Alliance [here](http://www.aboutads.info/).
 
-If you do not wish to receive personali 
+If you do not wish to receive personalized advertising when using a MSG website, third parties who deliver those advertisements allow you to opt-out [here](http://www.networkadvertising.org/managing/opt_out.asp). MSG does not control this third-party provided opt-out process. If you do not wish to receive personalized advertising when using a MSG mobile application, you have the following options: If you are using an iOS (Apple) device to access the Services you may opt-out by accessing the following link on your mobile device: http://oo.apple.com. If you are using an iOS6 device, you also may limit the delivery of personalized advertisement by: Open Settings and tap “General” then tap “About”; Scroll to the bottom of About and tap “Advertising”; Flip “Limit Ad Tracking” to ON. If you are using an Android device and you do not wish to receive personalized in-application advertisements, you can visit Google’s Ads Preferences page from a browser on your device and make your choices there. We do not control how the applicable platform operator allows you to control receiving personalized in-application advertisements; thus, you should contact the platform provider if any of the above-options are no longer available.
 
-500 Server Error
+Please note that to the extent advertising technology is integrated into the Services, you may still receive advertisements even if you opt-out. In that case, the advertising will not be tailored to your interests.
 
-Please click the back button and try again.
+**UPDATING YOUR INFORMATION**  
+To keep your information accurate, current and complete, visit your account page(s) or email [privacychoices@msg.com](mailto:privacychoices@msg.com) to update and/or correct any information previously provided. If a member name and password are required to access the feature, you will need to provide such information to update your registration information. If you have forgotten your password, you may obtain it by visiting the registration area and requesting that a hint be sent to you at the email address you originally provided during registration.
+
+**LINKS**  
+Links to third-party websites, applications and other services may be made available through the Services. We are not responsible for the privacy practices or the content of such third-party services. Any information you provide via those services is subject to the applicable privacy policies and is not covered by this Policy.
+
+**SECURITY**  
+We have implemented commercially reasonable administrative, technical, and physical security measures to protect against the loss, misuse and/or alteration of your information. However, we cannot and do not guarantee that these measures will prevent every unauthorized attempt to access, use, or disclose your information since despite our efforts, no Internet and/or other electronic transmissions can be completely secure.
+
+**YOUR CALIFORNIA PRIVACY RIGHTS**  
+California Law permits visitors who are California residents to request certain information regarding our disclosure of personal information to third parties for such third parties’ direct marketing purposes. To make such a request, please send an email to [privacychoices@msg.com](mailto:privacychoices@msg.com) or write to us at MSG Holdings, L.P., 2 Pennsylvania Plaza, 16th Floor, New York, New York 10012, Attn: Vice President, Engagement Marketing and with a copy to Vice President, Legal and Business Affairs, Entertainment and the same address.
+
+**INFORMATION FROM CHILDREN**  
+MSG does not knowingly collect any personally identifiable information directly from children under the age of 13. If you are under 13, please do not submit any personally identifiable information to MSG. If we discover we have received any information from a child under the age of 13 in violation of this Policy, we will delete that information as quickly as possible. If you believe MSG has any information from or about anyone under the age of 13, please contact us at the address listed below.
+
+**CONTACTING US ABOUT THIS POLICY**  
+Please do not hesitate to contact us with any questions, concerns, requests or comments by email at [msgfeedback@msg.com](mailto:msgfeedback@msg.com) or write to us at MSG Holdings, L.P., 2 Pennsylvania Plaza, 16th Floor, New York, New York 10012, Attn: Vice President, Engagement Marketing and with a copy to Vice President, Legal and Business Affairs, Entertainment at the same address.
+
+Effective Date: October 1, 2013
+
+© Copyright 1999-2013 MSG Holdings, L.P. 2 Pennsylvania Plaza, New York, NY 10121-0091. All rights reserved. Use of the Service which include a link to this Policy signifies your acceptance of this Policy.
+
+Thank you for visiting!
