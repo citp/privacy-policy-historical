@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pickthebrain.com privacy policy that was archived on 2013-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131107023223id_/http%3A//www.pickthebrain.com/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pickthebrain.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630075311id_/http%3A//www.pickthebrain.com/blog/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Pick the Brain | Motivation and Self Improvement
 
