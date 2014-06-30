@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blogbeast.com privacy policy that was archived on 2013-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131004041128id_/http%3A//www.empowernetwork.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogbeast.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630192940id_/http%3A//www.empowernetwork.com/privacy%3Fid%3Ddavidwood) for the most accurate reproduction.*
 
-# Welcome to Empower Network - Privacy Policy
+# Empower Network: Privacy Policy
 
 This site (the "Site") is owned by Empower Network, LLC, a Florida limited liability company ("us," "we," or "Company"). We created this Privacy Policy ("Privacy Policy") to explain how we use the information we collect on the Site. This Privacy Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site, each of which may have data collection, storage, and use practices and policies that differ materially from this Privacy Policy. 
 
@@ -40,4 +40,4 @@ St. Petersburg, Florida 33701
 Suite 201  
 Effective Date: November 7, 2011 
 
-[Continue to signup page](https://web.archive.org/web/20131004041128id_/http%3A//www.empowernetwork.com/commissionloophole.php?id=anthonyganelon)
+[Continue to signup page](https://web.archive.org/join?id=davidwood)
