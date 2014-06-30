@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shroomery.org privacy policy that was archived on 2013-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130901055325id_/http%3A//www.shroomery.org/forums/viewprivacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shroomery.org privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630045548id_/http%3A//www.shroomery.org/forums/viewprivacy.php) for the most accurate reproduction.*
 
 # Privacy statement - Shroomery Message Board
 
@@ -17,9 +17,9 @@ The Shroomery sets many cookies to enhance the browsing experience. They are use
 
 _Third Parties:_
 
-Like many websites, The Shroomery may display ads which are provided by third parties and hosted on domains we do not control. In such a situation, the third party would be capable of logging your IP and technical information when the ad is displayed. We will only accept hosted ads from established, responsible third parties who themselves have a published privacy policy. To prevent third party advertisers from receiving your information, you must access the site through a proxy server. Alternately, [supporters](https://web.archive.org/store/home.php?cat=248) have the option of disabling all banner advertising.
+Like many websites, The Shroomery may display ads which are provided by third parties and hosted on domains we do not control. In such a situation, the third party would be capable of logging your IP and technical information when the ad is displayed. We will only accept hosted ads from established, responsible third parties who themselves have a published privacy policy. To prevent third party advertisers from receiving your information, you must access the site through a proxy server. Alternately, [supporters](https://web.archive.org/store/#c1) have the option of disabling all banner advertising.
 
-The Shroomery also uses [CloudFlare](https://www.cloudflare.com/overview) to help improve performance and protect against online threats. As part of this service, CloudFlare intercepts and analyzes traffic from this site. However, they have their own [privacy policy](https://www.cloudflare.com/security-policy) and have established a [good record](http://blog.cloudflare.com/58611873) of protecting their clients. There is currently no way to bypass CloudFlare when visiting the Shroomery, but [supporters](https://web.archive.org/store/home.php?cat=248) who enable SSL will always receive end-to-end encryption to and from our servers. 
+The Shroomery also uses [CloudFlare](https://www.cloudflare.com/overview) to help improve performance and protect against online threats. As part of this service, CloudFlare intercepts and analyzes traffic from this site. However, they have their own [privacy policy](https://www.cloudflare.com/security-policy) and have established a [good record](http://blog.cloudflare.com/58611873) of protecting their clients. There is currently no way to bypass CloudFlare when visiting the Shroomery, but [supporters](https://web.archive.org/store/#c1) who enable SSL will always receive end-to-end encryption to and from our servers. 
 
 _Usage:_  
 The Shroomery will never sell, give, share or transfer any information we collect about our users, except as outlined below: 
