@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailymobile.net privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230003147id_/http%3A//www.dailymobile.net/2010/01/01/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailymobile.net privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630175321id_/http%3A//www.dailymobile.net/2010/01/01/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Daily Mobile
 
