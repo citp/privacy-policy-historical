@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autoinsureusa.com privacy policy that was archived on 2012-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120418011125id_/http%3A//autoinsureusa.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autoinsureusa.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630212536id_/http%3A//www.autoinsureusa.com/privacy) for the most accurate reproduction.*
 
 # AutoInsureUSA.com
 
