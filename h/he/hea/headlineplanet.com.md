@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the headlineplanet.com privacy policy that was archived on 2013-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131201065901id_/http%3A//headlineplanet.com/home/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the headlineplanet.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630172120id_/http%3A//headlineplanet.com/home/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Headline Planet
+# Privacy Policy
 
 HeadlinePlanet.com has developed the following privacy policy to demonstrate our firm commitment to privacy. All information below represents the privacy policies followed by HeadlinePlanet.com.HeadlinePlanet.com is a site open to general audiences and all site-content is filtered (where possible) to ensure the privacy of users remains intact, and the site remains appropriate for all audiences.
 
