@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the raidentech.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502060351id_/http%3A//raidentech.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raidentech.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630024838id_/http%3A//www.raidentech.com/privacypolicy.html) for the most accurate reproduction.*
 
 # RaidenTech.com
 
