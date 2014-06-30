@@ -1,96 +1,63 @@
-> *The following text is extracted and transformed from the mcalistersdeli.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230155457id_/http%3A//www.mcalistersdeli.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcalistersdeli.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630081221id_/http%3A//www.focusbrands.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | McAlister's Deli
+# Focus Brands | Privacy Policy
 
-Welcome to McAlister’s Deli® website (the "Site"). This Privacy Policy ("Policy") describes how McAlister’s Corporation ("McAlister’s", "we", "us", and "our") collects, handles, and uses personal information collected from users or visitors to the Site. By using the Site or its services you agree to the terms and conditions of this Policy. If you do not agree to this Policy, please do not use this Site or provide your information to us.
+## Privacy Policy
 
-#### What Personal Information do we collect?
+**Updated as of June 1, 2014**
 
-"Personal information" is information that identifies (whether directly or indirectly) a particular individual, such as the individual’s name, address, e-mail address, and telephone number. We may collect the following Personal Information from users that register on our Site, use the services offered on our Site, purchase a gift card, subscribe to a newsletter, apply for a job, participate in a survey, sweepstakes or contest, send an inquiry or other communication to us, or respond to communications initiated by us:
+FOCUS Brands Inc. or any of its affiliates or subsidiaries, including but not limited to FOCUS Brands Holdings Inc., Celebration Foods LLC, Carvel Corporation, Cinnabon International, Inc., FOCUS Brands Rewards, Inc., Schlotzsky’s Stores LLC, Moe’s Franchisor LLC, Temporary Support Services LLC, Franchise Stores Realty Corp., FOCUS Brands LLC, Carvel LLC, Celebration Foods Holding Corporation, Cinnabon, Inc., Schlotzsky’s Franchise LLC, Moe’s Stores LLC, Moe’s International LLC, Auntie Anne's, Inc., Auntie Anne's Capital, Inc., Auntie Anne's Food, Inc., Lighthouse Sales, LLC, McAlister’s Corporation, McAlister’s Development Corporation, McAlister’s Louisiana LLC, and Mississippi Restaurant Holdings, Inc. (collectively referred herein as “FOCUS Brands”) is committed to protecting the privacy of certain data that is collected from you and that you submit when you access this web site or other web sites and/or mobile applications under our operation and control (collectively, the “Website”). We recognize the sensitive nature of much of the information with which we are entrusted on a daily basis, and we are committed to the highest standards of privacy. The following outline is intended to familiarize you with our policies for the gathering, use, maintenance and protection of private information. The examples given are intended to be for illustrative purposes only, and therefore, should not be considered a complete representation of our practices.
 
-  * Name
-  * Address
-  * E-mail address
-  * Phone number
-  * Password
-  * Age or date of birth
-  * Gender
-  * Zip code
+Please review this policy carefully. FOCUS Brands reserves the right to change its privacy policy at any time. Changes will be effective immediately upon posting a revised policy to the Website. You are responsible for reviewing this Privacy Policy. By accessing the Website, you are indicating your agreement to FOCUS Brands’ Privacy Policy.
 
+**INFORMATION COLLECTED.**
 
+As you are probably aware, in the course of our relationship with you, we may collect information from a variety of sources. We collect this information in order to carry out our business functions and provide the highest quality of service to you. Most of our information comes directly from you. Generally, you may visit the Website without providing FOCUS Brands with any personally identifiable information. We collect personally identifiable information about you only if you voluntarily provide it to us and you have the option not to provide any personally identifiable information to us. You may voluntarily provide to us personally identifiable information such as your name, address, email, phone number and other contact information when you contact FOCUS Brands, submit a request to FOCUS Brands, fill out feedback or survey forms, enter contests or sweepstakes, register for a loyalty program, or subscribe to mailings or notices concerning FOCUS Brands or our products. If you submit a request for a franchise, we will also collect certain financial information and business background information from you, but we will only use your personally identifiable information to process your request. If you apply for a job with us online, we will collect your personally identifiable information that you submit to us in connection with your job application, but we will only use that information to process your request. We may also collect other personally identifiable information that you choose to include in any communications that you send to us. We may use your personally identifiable information to respond to your requests for information; to administer surveys, loyalty programs, contests and sweepstakes; to provide you with information and/or mailings or notices that you have requested; to provide you with notices regarding products that may be of interest to you; and to improve the content and general administration of the Website. If you request that FOCUS Brands send certain information or a greeting to a friend, we may ask you to submit your friend's email address and we will only use this email address to send the requested information or greeting.
 
-The submission of Personal Information is voluntary. However, you may not be able to access certain services or features on our Site unless you register and provide such Personal Information. For example, you cannot participate in our sweepstakes without providing us certain Personal Information that we need to conduct that promotion.
+FOCUS Brands may compile statistical information concerning the usage of the Website. This information allows FOCUS Brands to monitor its utilization and continuously improve its quality. Examples of this information would include, but not be limited to, the number of visitors to the Website, or to sections or pages within the Website, patterns of traffic flowing through the Website, length of time spent on the Website, or in sections or pages of the Website, the other sites that refer or transfer visitors to the Website, the pages of the Website that visitors frequently use as entry and exit points, utilization of the browser and operating systems and versions used by visitors to the Website, etc.
 
-We may use the Personal Information we collect in the following ways:
+In order to compile this information, FOCUS Brands may collect and store your IP address, your operating system version, your browser version, the pages you visit within the Website, the length of time you spend on pages within the Website, the site from which you linked to ours, search terms you used in search engines which resulted in you linking to the Website, etc. While all of this information can be associated with the IP address your computer had while you visited the Site, it will not be associated with you as an individual, or associated with any other information you may submit through the Website, or FOCUS Brands may store about you for any other purposes.
 
-  * to develop, enhance, market, sell, or otherwise provide information, products, or services;
-  * to contact and respond to any communications from users;
-  * to provide you information about McAlister’s and its products, services, offerings and promotions;
-  * to conduct or administer contests, sweepstakes, or other promotions in which you have participated; and
-  * to develop and manage our business and operations.
+FOCUS Brands may use web site “cookies” in the process of compiling the statistical information mentioned above and to tailor certain pages of the Website for your browsing convenience. You have the option of setting your browser to reject cookies, but the Website may not function correctly if you do. Refer to the Help feature of your browser for information on disabling cookies.
 
+The Website is not directed to children. FOCUS Brands does not knowingly collect any personal information from children under the age of 13 without verifiable parental consent. Should we receive notice that we have collected such information from a child under the age of 13, without verifiable parental consent, we will promptly delete that information from our customer database. If you are concerned about your child’s use of the Website, you may use web-filtering technology to supervise or limit access to the Website.
 
+**DISCLOSURE OF INFORMATION.**
 
-We may also use such Personal Information to enforce this Privacy Policy; to detect and protect us and other third parties against error, negligence, breach of contract, fraud, theft, and other illegal activity; to comply with any legal or regulatory requirements or provisions; or for any other purpose to which a user might consent.
+In the course of our normal business activities, we may disclose collected information to both affiliates and non-affiliated entities, as we deem necessary. For example, we may provide your personally identifiable information to our Website hosting company that assists us in operating the Website or to a third-party service provider to provide marketing or advertising on our behalf. We will not disclose your information for any purposes other than those in conjunction with the business activities requested of us unless otherwise permitted or required by law, regulation or other government authority or to prevent harm to yourself or others. Additionally, we may disclose your personally identifiable information, in our sole discretion, to law enforcement agencies to assist in any investigation. In addition, we may transfer this information to a successor entity on a merger, consolidation or other corporate reorganization in which FOCUS Brands participates or to a purchaser of all or substantially all of FOCUS Brands' assets related to this Site. Any successor entity will be bound by the terms of this Privacy Policy. The business activities include the provision of accounting, financial and other related services and performing other essential functions of our business. Affiliated entities are within FOCUS Brands’ family of companies, while non-affiliated entities are those outside of FOCUS Brands’ family of companies with which we conduct our activities. We endeavor to choose non-affiliates with similar standards to ours regarding the protection of private information. 
 
-We may also track non-personal information about web pages and content accessed by visitors (see Cookies below) to the Site and the number of times such content is accessed by a specific user. For example, we may track the total number of visitors to our Site, the number of visitors to each page of our Site, IP addresses or unique device identifiers of visitors, the web browsers used by visitors, and any linking to Linked Site (defined below). An IP address is associated with the access point through which you enter the Internet, and is typically controlled by your Internet Service Provider (ISP) or your company. We may collect this non-personal information to improve the quality of the Site and the products and services offered through the Site.
+FOCUS Brands generally does not require collected information to obtain access to any area of the Website. However, if you decide to provide personal information to FOCUS Brands, in no case will FOCUS Brands sell, license or transmit that information to third parties, except as required or permitted by law. Any information that you voluntarily share with FOCUS Brands in a form is kept strictly confidential and fully secure. 
 
-We store personal and other information we collect through the Site on servers located in the United States. By providing us your Personal Information you consent to its transfer to the United States.
+**CORRECTION/UPDATING PERSONALLY IDENTIFIABLE INFORMATION.**
 
-#### When and to whom do we disclose Personal Information?
+FOCUS Brands provides you with the ability to correct or delete any of the personally identifiable information that you have provided to us. If you wish to correct or delete any information you have provided to us, you may contact us by email at: [contactus@focusbrands.com](mailto:contactus@focusbrands.com) or by mail at: 200 Glenridge Point Parkway, Suite 200, Atlanta, Georgia 30342.
 
-We may disclose Personal Information in the following situations:
+If you have questions or comments regarding FOCUS Brands' privacy practices, you can contact us at: [contactus@focusbrands.com](mailto:contactus@focusbrands.com). We will be sure to address your concerns.
 
-  * We may disclose Personal Information to our affiliates, franchisees and to third parties (e.g., data storage and processing facilities) that we use to assist us in providing our services, as more fully described below;
-  * We may disclose Personal Information where you have specifically authorized us to do so in connection with registering at our Site or in some other written communication;
-  * We may disclose Personal Information if required by law, court, and administrative agency order, subpoena, or other legal action, or by law enforcement;
-  * We may disclose Personal Information if it is found that your use of the Site violates this Policy or if it is deemed reasonably necessary by McAlister’s to protect McAlister’s legal rights and/or property, or the rights and/or property of third parties;
-  * Finally, we may disclose Personal Information upon a transfer or sale to another entity of all or substantially all of our stock or assets in the line of business that this Policy relates or upon any other corporate reorganization.
+**SAFEGUARDING OF INFORMATION.**
 
+Our employees are trained to understand the importance of confidentiality and are required to adhere to our privacy policies and procedures. Employees who violate these policies and procedures are subject to disciplinary action. We may employ numerous procedural and technological measures, consistent with industry practice to protect against the disclosure of information for purposes unrelated to the performance of our business functions or to individuals other than those who must use it in the course of their work activities. These practices may include the use of password protection of computer files, e-mail and voice-mail, video surveillance, and other physical, electronic, and procedural safeguards.
 
+**FOR AUNTIE ANNE’S ONLY.**
 
-On occasion, we contract with trusted third party providers who would receive your Personal Information to perform certain services on our behalf. Through our contractual arrangements, we require our contracting partners to maintain adequate security of Personal Information provided to them. We do not permit such third parties to sell your Personal Information to other third parties, however such third parties may share non-personally identifiable aggregate data (such as user demographics, website activity, purchase history, and other statistical information) and de-identified individual data and profiles with third parties for market research and other purposes. Here are some of the third parties that we use to provide services:
+**Auntie Anne’s, Inc. Pretzel Perks Program** offers mobile access to various coupons, promotions, and other announcements over SMS. Enrollment can be achieved in two ways: (i) providing your mobile phone number upon enrollment in the Pretzel Perks program (available at [http://auntieannes.fbmta.com/members/UpdateProfile.aspx?Action=Subscribe&inputsource=w](http://auntieannes.fbmta.com/members/UpdateProfile.aspx?Action=Subscribe&inputsource=w)) or (ii) texting either keyword “ **PRETZEL”** or “ **PERKS”** to **21333**. For mobile enrollments, the mobile phone number's verification message & data rates apply. Users will be allowed to opt-out of this program at any time. Message frequency is approximately two times per month. **Standard text rates apply.** You can contact us at 1-877-778-9588 with questions about the Auntie Anne’s Pretzel Perks Program or any of Auntie Anne’s products or stores! If you have specific questions about the text messaging program, text “ **HELP”** to: **Mobile 21333**. To Stop Participation in the Mobile Pretzel Perks Program: To stop the messages coming to your phone, you can opt out of the program via SMS. Just text the word " **STOP** " to: **Mobile 21333** ). You'll receive a one-time opt-out confirmation text message. After that, you will receive no future messages via SMS. 
 
-  * We use Zipscene LLC to help us operate our website and administer various activities. To learn more about how Zipscene LLC uses information you provide to our Site, please visit zipscene.com/privacy.
-  * We use GiveX to manage our gift card program. Personal Information that you provide when signing up for McAlister’s gift cards is disclosed to GiveX and managed by GiveX in accordance with the privacy policy at <https://wwws-usa1.givex.com/cws/mcalisters/consumer/main/home.py?_FUNCTION_:privacy>. GiveX may also collect credit or debit card information when you purchase gift cards through their service. Such information is subject to the GiveX privacy policy and is not shared with or disclosed to McAlister’s. You agree that McAlister’s has no responsibility for the credit or debit card information collected by GiveX.
-  * We use Fishbowl to send you information (i.e. "Deligrams") regarding news and information about McAlister’s and its products, services, promotions, and offerings. Information you provide when signing up for Deligrams may be stored and used by Fishbowl to send you such Deligrams.
+**Auntie Anne's FANatics: Guidelines and Terms of Use**
 
+The first name and last name initial, the city, state/providence, country, and age of the Auntie Anne's Fan submitting a photo for the Auntie Anne's FANatics program must be submitted along with any photo posted to Auntie Anne's Fan Page. Explicit parental consent is required for a photo featuring any individual under the age of 13. Inclusion of an Auntie Anne's product is recommended, and any depiction of the product should be in appropriate, non-offensive manner. Photos which feature abusive, defamatory, or obscene content shall be immediately removed. If individuals other than the person submitting the photo are featured, the Auntie Anne's Fan submitting the photo must have the permission to use the photo by the individual (or his or her parent or legal guardian’s permission, if individual is a minor). An Auntie Anne's FANatic will be selected from time to time. Adherence to these guidelines will be confirmed prior to the selected photo being featured as the profile picture on the [Auntie Anne's Facebook page](http://www.facebook.com/auntieannespretzels).
 
+**Submitting Recipes: Guidelines and Terms of Use**
 
-Except as noted above, McAlister’s does not sell, rent, or transmit Personal Information to other organizations.
+We are accepting recipes that use Auntie Anne's® At-Home TM Baking Kit. These submissions must be recipes that you have already tested and know work! If Auntie Anne's publishes your recipe, you will receive a coupon valid at any of our domestic Auntie Anne's locations in appreciation of your efforts. Please note, recipes are published at the sole discretion of Auntie Anne's, Inc. Recipes may need to be edited before publishing. By submitting a recipe featuring Auntie Anne's At-Home Baking Kit, you hereby grant Auntie Anne's permission to publish all aspects of the recipe, in any and all media worldwide, known or unknown, without limitation or compensation to you and to use the submitted recipe for any purpose, including but not limited to product development, marketing, and promotional opportunities. Complete names of authors of recipes are not published (first name and city only.)
 
-#### Linked Sites
+***
 
-The Site may, from time to time, provide links to other third party websites ("Linked Sites") which are outside our control and not covered by this Policy and may have privacy policies that are different from this Policy. For example, McAlister’s is not responsible for the acts or omissions of any Linked Site. You are encouraged to review the privacy policies posted on all Linked Sites before using them or providing them Personal Information.
+**FOR MCALISTER’S DELI ONLY.**
 
-#### Children
+We use Zipscene LLC to help us operate our website and administer various activities. To learn more about how Zipscene LLC uses information you provide to our website, please visit [zipscene.com/privacy.](http://zipscene.com/privacy)
 
-Our Site and services do not and will not target, and not intended to solicit or attract, children. McAlister’s does not knowingly solicit Personal Information from children or send them requests for Personal Information. For the purposes of this Policy, children means anyone under the age of 13.
+***
 
-#### Cookies
+This Privacy Policy is governed by the internal substantive laws of Georgia, without regard to its conflict of laws principles. Jurisdiction for any claims arising under or out of this Privacy Policy shall lie exclusively with the state and federal courts within Georgia. If any provision of this Privacy Policy is found to be invalid by a court having competent jurisdiction, the invalidity of such provision shall not affect the validity of the remaining provisions of this Privacy Policy, which shall remain in full force and effect.
 
-We may collect non-identifiable information from visitors to our Site through the use of cookies and other technologies. A cookie is a piece of data that a website can send to your browser, which may then be stored on your computer as an anonymous tag that identifies your computer but not you. You can set your browser to notify you before you receive a cookie, giving you the chance to decide whether to accept it. You can also set your browser to turn off cookies. If you do so, however, some parts of our Site may not work properly.
-
-#### Security
-
-We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, to maintain data security, and to correctly use the information we collect online. However, we cannot guarantee absolute security because information on the internet and in electronic storage is never 100% secure or error-free.
-
-#### Updates to Personal Information
-
-You may update or delete the Personal Information that you provide to us by submitting a request by email to [Privacycontact@mcalistersdeli.com](mailto:Privacycontact@mcalistersdeli.com) or by writing to us at the following address: McAlister’s Corporation, c/o Privacy Contact, 4501 North Point Parkway, Ste 100  
-Alpharetta, GA 30022 . 
-
-#### Notification of Changes
-
-We reserve the right to amend this Policy at any time and without prior notice. We will post the updated Policy to this Site. Your use of the Site or services after the updated Policy is posted constitute your acceptance of such changes, whether or not you have reviewed them. Your sole and exclusive remedy if you do not agree with such changes is to cease your use of the Site and the services.
-
-#### Your California Privacy Rights
-
-Under California Civil Code sections 1798.83-1798.84, California residents are entitled to request information regarding the disclosure of your Personal Information to third parties for those third parties’ direct marketing purposes. California residents can make such a request by e-mailing us at Privacycontact@mcalistersdeli.com or by writing to us at the following address: McAlister’s Corporation, c/o Privacy Contact, 4501 North Point Parkway, Ste 100  
-Alpharetta, GA 30022 .
-
-#### Questions
-
-If you have a question about this Policy, you can send an e-mail to McAlister’s at [Privacycontact@mcalistersdeli.com](mailto:Privacycontact@mcalistersdeli.com). You can also contact us at this address if you have a question about McAlister’s handling of your Personal Information.
-
-#### Updated: 6/24/2013 
+UNDER NO CIRCUMSTANCES SHALL FOCUS BRANDS HAVE ANY LIABILITY WHATSOEVER FOR ANY ERRORS OR OMISSIONS IN INFORMATION ON THE WEBSITE, OR FOR ANY DAMAGES, LOSSES, OR EXPENSES THAT MAY OCCUR WHILE ACCESSING THE WEBSITE, OR ANY LINKED SITE, OR THE INABILITY TO ACCESS THESE SITES; OR ANY FAILURE OF PERFORMANCE, ERROR, OMISSION, INTERRUPTION, DEFECT, DELAY IN OPERATION OR TRANSMISSION, COMPUTER VIRUS OR LINE OR SYSTEM FAILURE; OR ANY CONSEQUENTIAL, INCIDENTAL, INDIRECT OR SPECIAL DAMAGES ARISING OUT OF THE BREACH OF THIS PRIVACY POLICY, HOWEVER OCCASIONED.
