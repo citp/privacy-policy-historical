@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the landofnod.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424131729id_/http%3A//www.landofnod.com/Customer-Service/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landofnod.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630151637id_/http%3A//www.landofnod.com/Customer-Service/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # The Land of Nod
 
@@ -6,87 +6,127 @@ Thanks a million for shopping at landofnod.com. It’s no secret that we take yo
 
 ## Getting to Know You
 
-When you make a purchase on landofnod.com, place an order through our call center, purchase at one of our store locations, create a registry, enter a sweepstakes, provide a product review or answer one of our surveys you may choose to give us basic information such as name, mailing address, email address, zip code, phone number and credit card number. If you shop with us on our website, we may collect more information such as your internet service provider’s address, the name of the web page directing you and your clicks and activity on our site. We also take note of the purchases you have made in the past in order to better understand your unique customer preferences.
+### Personal Information: 
 
-## Why We Collect Your Information
+When you make a purchase in one of our stores or on our Websites or otherwise, create an account, join our Gift Registry, participate in a sweepstakes or contest or any other promotion, post a product review, answer one of our surveys, apply for our credit card, or interact with us in any way, you may choose to give us personal information, such as: your name, email address, mailing address, ZIP code, phone number and credit card numbers. This allows us to provide you with our services, to process your transactions more efficiently and, ultimately, to give you a higher caliber of customer service. The decision to provide this information is optional. However, if you choose not to provide the requested information, you may not be able to use some or all of the features of our Websites or our services. Likewise, other companies also may forward to us additional personal information (such as, for example, names, mailing addresses and email addresses, as well as demographic and other usage information), when we have news or product offerings that may be of special interest to those individuals. We also may receive personal information through the use of social media websites and services or from other sources.
 
-All of this information is used to provide you with the highest caliber of customer service and to make your shopping experience at The Land of Nod the best it can possibly be. We may send you an email to notify you of your order confirmation or a change to your order status. We also communicate new additions to our product assortment and special savings via our emails and catalog mailings. Because of our commitment to safety, we may need to contact you via phone or your postal address to inform you of any potential product safety issues that may arise. In addition, our merchants use purchase information and online product reviews to help them continue to seek out products and designs that you may find relevant and unique.
+### Usage and Website Activity Information:
 
-## How The Land of Nod Contacts You
+When you visit our Websites, we may collect more information: Your Internet service provider's address, the name of the website directing you, as well as your clicks and activity on our Websites. This anonymous usage information generally is not associated with your personal information. This tracking data helps us understand how to make our Websites more available and user-friendly to our customers.
 
-If you make a purchase, create a registry, request a catalog or sign up for our email list we will notify you of new product introductions and sales through our catalog mailings and our emails. If you prefer to not receive materials from The Land of Nod, you may opt out at any time. To opt out of emails, you may unsubscribe directly from the email that was sent to you. For email and/or catalog mailings you may also call our customer service department at 800.933.9904 or email them at [customerservice@landofnod.com](mailto:customerservice@landofnod.com). If you prefer to receive less frequent catalog mailings from The Land of Nod, please call us at 800.933.9904 and indicate if you would like to receive one, two or four catalogs per year. Please note that it could take up to 8 weeks for your no mail request to be processed. When contacting us, please be sure to include your full name, mailing address, source code and customer code on the back of your catalog.
+We also gather customer information by taking note of the purchases you make. Think of it as a concierge service where customer preferences are remembered for future consideration. By looking at your purchases in context with marketing demographics or with information from companies whose products and services you may be interested in, it helps our buyers and merchandisers continue to seek out products and designs you may find relevant and unique. 
 
-## Secure Shopping
+## Cookies Are Served
 
-We take all reasonable steps to protect our customers’ personal information against loss, misuse and alteration. We use encryption technology whenever receiving and transferring your personal information on our site.
+"Cookies" are small amounts of data that are stored on your computer. They find their way to your browser via a Web server. Cookies flag information about your activity on our Websites. This information helps us improve our Websites and make them friendlier and easier to use. We never use cookies to save passwords, credit card numbers or other highly confidential information. However, we may use them and other tracking technologies to provide enhanced online marketing based on your interests and preferences. Our systems do not recognize browser “Do Not Track” signals, but several of our service providers who utilize these cookies and other tracking technologies on our Websites enable you to opt out of this type of advertising. To opt out of these ads, please click here. Please also see the “Third Party Service Providers” section of this Privacy Policy for additional information about and options for opting out of this type of advertising. We also provide you with additional tools to opt out of marketing from us or certain transfers of your information. Please see the “Your Information Sharing Choices” section and the “Remove Your Name From Our Lists at Any Time” section of this Privacy Policy for more information.
 
-When you make a purchase online, either a solid key or a locked padlock icon will appear in the lower right of your browser window. This icon indicates that your transaction session is secured through Secure Sockets Layer (SSL). If you're still concerned about ordering electronically, you can place your order by phone 24 hours a day, 7 days a week at 800.933.9904.
+## Information at Your Service
+
+The personal information we collect is primarily intended to offer better customer service and to improve communications. The customer information from our brands may be combined to provide greater security and inform customers of products and services that may interest them. When a purchased item is not immediately available, many of our customers appreciate receiving an email to update the status of their order. We also may need to contact customers by phone, postal mail or email if questions arise regarding their orders.
+
+When you shop at a the Land of Nod store, order from our catalogs or visit us online, it is also an opportunity for you to provide us with information and feedback that helps us continue to bring new ideas, unique products and a creative approach to shopping for your home.
+
+## Third-Party Service Providers
+
+In order to serve you better, we may at times contract with other companies (“Service Providers”) to help us process information. For instance, their assistance can help us better fulfill customer orders, manage, store and enhance customer data, and comply with postal regulations. For your security, these companies are bound by our nondisclosure agreements or other contractual arrangements to provide privacy protection for your information.
+
+We use a Service Provider to send emails that you have agreed to receive. Web cookies are used in those email messages and at our Websites to help us measure the effectiveness of those emails and for other analytical purposes. You can "opt out" of this email cookie at any time by deleting your name from the Land of Nod email mailing list, as detailed below.
+
+We also contract with a Service Provider to help us assess visitation to our Websites. To do this, we place small pixel tags and cookies on our Websites. While these do allow our Service Provider to track your visits, the data retrieved cannot be used for any reason without our authorization. Although our Service Provider logs the information about your visit, we control how that data may and may not be used. You can opt out of this Website analysis tool by clicking here. 
+
+We contract with Service Providers to place our banner advertising on other websites. These Service Providers may collect information from us about your visits to our Websites and stores, and your interaction with our products and services. They also may use this information to tailor banner advertisements for goods and services. This anonymous information is collected through the use of a pixel tag, which is industry-standard technology used by most major websites. Notwithstanding anything to the contrary in this Privacy Policy, personally identifiable information may be shared with our Service Provider and its service providers, including, without limitation, your name, postal address and email address, as well as a record of any transactions you conduct on our Website or offline in order to deliver banner advertisements and other advertising tailored to your interests when you visit certain websites. Our trusted Service Provider will keep this data anonymous and will not share any personally identifiable information with any other third parties. Please visit the Network Advertising Initiative (<http://www.networkadvertising.org/managing/opt_out.asp>) to learn more about the use of this information by our Service Provider or to choose limited use of this information by opting out of interest-based online advertising.
 
 ## Information Sharing
 
-Information sharing can provide a valuable type of consumer networking. When you make a purchase with us, your name and mailing address is shared with other select catalog companies whose products and services you may find useful. By helping to make these connections, we hope to introduce you to new products that are compatible with your interests and needs. Rest assured that your email address and confidential credit card information are never shared with any other company or third party.
+Information sharing can provide a valuable type of consumer networking. By helping to make new connections and introduce new resources to our customers, you may discover new opportunities and products compatible with your interests and needs. With that end in mind, your customer information may be shared with other select companies whose products and services you may find useful.
 
-We appreciate and respect that not all customers may wish to benefit from the opportunity to share information with other select companies. If you do not want Land of Nod to share your customer information, please immediately contact us at the address, email address, or phone number listed below and we will remove your name from lists we share with other companies.
+Information sharing also helps us to guard against potential fraud and other wrongdoing. We review transactions internally on a regular basis to identify potential concerns, and we partner with select outside companies to further enhance our ability to ensure that fraudulent orders and/or potentially damaging worms, viruses and other types of malware do not interfere with our ability to provide the best possible products, value and services to you and to our other valued customers.
 
-The Land of Nod  
-Customer Service Department  
-8135 River Drive  
-Morton Grove, IL 60053  
-[customerservice@landofnod.com](mailto:customerservice@landofnod.com)   
-800.933.9904
+## Your Information Sharing Choices
 
-After the six to eight week time period it takes to process your request, your information will no longer be shared. When contacting us, please clearly state your request, including your name, mailing address, email address, and phone number.
+We appreciate and respect that not all customers may wish to benefit from the opportunity to share information with other select companies. If you do not want the Land of Nod to share your personal information for marketing purposes, please immediately [contact us](https://web.archive.org/Customer-Service/ContactUs.aspx) and we will remove your name from lists we share with other companies. When contacting us, please clearly state your request, including your name, mailing address, email address and phone number. After we process your request, your personal information will no longer be shared for marketing purposes.
 
-It is important to understand that with some companies or online partners, your information must be shared in order to receive their services. By agreeing to share information, our customers may have the opportunity to participate in a wider array of services and offerings.
+It is important to understand that with some companies or online partners, your information must be shared in order to receive their services.
+
+For instance, when you order a large furniture item, we may send your name, address, email address and phone number to our shipping vendor, allowing you to access their online delivery scheduling system. Our vendor does not share your personal information with third parties; it is used strictly to coordinate and complete your shipment. 
+
+Opting out of sharing your information for marketing purposes will not prevent your relevant information from being provided to shippers when you order products for delivery or from other sharing for non-marketing purposes. Similarly, this will not prevent us from sharing information as and to the extent it is combined or aggregated (in a non-personally identified manner) or otherwise analyzed by us or our Service Providers.
+
+Your information may be shared among any or all of the Crate and Barrel brands: Crate and Barrel, CB2, and The Land of Nod.
+
+## Update Your Information
+
+Updating your contact information is quick and easy. Just [contact us](https://web.archive.org/Customer-Service/ContactUs.aspx) \- include your previous and current full name, mailing address, email address and phone number or make changes directly through your account. Please understand updates may take some time to process.
+
+## Remove Your Name From Our Lists at Any Time
+
+To delete your name from our email contact lists, please follow these simple [email opt-out instructions](https://web.archive.org/Customer-Service/Opt-Out.aspx). Please note that, to provide you with more control of your experience with us, opting out of one brand does not automatically opt you out of our other brands. For example, if you click through to opt out of emails from The Land of Nod, you will not be opted out of emails from Crate and Barrel or CB2; if you wish to opt out of either or both of those brands, you must visit each of their respective opt out pages and follow the opt out instructions.
+
+To request to have your name removed from the catalog mailing list, please complete this quick [catalog opt-out form](https://web.archive.org/Customer-Service/Catalog-Preference.aspx). We appreciate your patience while we process your request. When you make subsequent purchases at Crate and Barrel, CB2 or The Land of Nod, you may provide contact information for customer service only, and request that your name not be forwarded to either mailing list. If you have already opted out, you do not need to opt out again; your information will not be used for purposes other than the customer service you have requested, unless you affirmatively ask to opt in again, in which case you will be opted in and will receive emails from us until you again request to be opted out.
+
+## Notice to California Residents/Your California Privacy Rights
+
+As set forth in this Privacy Policy, we offer our customers the ability to opt out of sharing your personally identifiable information with third parties for their direct marketing purposes. To make such a request, follow [email opt-out instructions](https://web.archive.org/Customer-Service/Opt-Out.aspx) AND / OR [catalog opt-out form](https://web.archive.org/Customer-Service/Catalog-Preference.aspx), and clearly state your request, including your name, mailing address, email address and phone number. Please see the Your Information Sharing Choices section of this Privacy Policy for additional information.
 
 ## Protecting Children's Privacy
 
-The Land of Nod adheres to a strict privacy code regarding children and does not knowingly accept personal information from any child. If you let us know that a subscriber is under age by contacting us at 800.933.9904 or [customerservice@landofnod.com](mailto:customerservice@landofnod.com), we will immediately remove all personal and identifiable information from our records in compliance with the Online Children’s Privacy Protection Act of 1998. In addition, we will not disclose this information to any other companies. To prevent a child’s name from being added to our database, we suggest that you refrain from listing your child’s name as the purchaser or recipient on an order.
+The Land of Nod adheres to a strict privacy code regarding children and does not knowingly accept personal information from any child under the age of 13. If it is brought to our attention that we have inadvertently received personal information from a child under 13, we will immediately remove all personal and identifiable information from our records in compliance with the Children’s Online Privacy Protection Act of 1998. In addition, we will not disclose this information to any other companies. To prevent a child’s name from being added to our database, we suggest that you refrain from listing your child’s name as the purchaser or recipient on an order.
 
-## Mmmm, Cookies
+## Be Careful When You Share Information with Others
 
-"Cookies" are small amounts of data that are stored on your computer. They find their way to your browser via a Web server. They sound friendly and helpful because they are. They flag information about your activity on our Web site. This information helps us improve our site and make it friendlier and easier to use. We never use cookies to save passwords, credit card numbers or other highly confidential information. However, we may use them to provide enhanced online marketing based on your interests and preferences. To opt out of these ads, please click here. 
+Please be aware that whenever you share information on a publicly available area of our Websites, such as in a product review, that information may be accessed by others. In addition, please remember that when you share information in any other communications with third parties, that information may be passed along or made public by others. This means that anyone with access to such information can potentially use it for any purpose, including sending unsolicited communications. 
 
-## Additional Online Information
+## Links to Sites And Services
 
-We currently contract with several online partners to help manage and optimize our Internet business and communications.
+At times, we provide links our customers may be interested in, including links to social media sites such as, for example, Facebook, Twitter or Pinterest. The Land of Nod is not responsible for these websites, which have their own privacy policies and privacy practices to which you may be subject. When visiting our presence on social media or other tools, you will be subject to those websites’ privacy policies. If you visit our Websites through a link from another website, you may be subject to that website’s privacy policy as well. If you choose to explore these websites and services, we suggest that you carefully review their individual privacy policies. See our [Terms of Use](https://web.archive.org/Customer-Service/Terms-Of-Use.aspx) for further information about use of social media.
 
-We use a third party to send emails that you have agreed to receive. Web cookies are used in those email messages and at our Web site to help us measure the effectiveness of those emails. You can opt out of this email cookie at any time by unsubscribing from The Land of Nod email mailing list.
+## Compliance With Laws and Law Enforcement
 
-We also contract with a web analytics provider to help us assess visitation to our website. To do this, we place small pixel tags and cookies on our site. While these do allow us to track your visits, the data retrieved cannot be used for any reason without our authorization. You can opt out of this Web site analysis tool by clicking [here](http://www.omniture.com/en/privacy/policy).
+The Land of Nod cooperates with government and law-enforcement officials and private parties to enforce and comply with the law. We may disclose personal information and any other information about you to government or law-enforcement officials or private parties if, in our discretion, we believe it is necessary or appropriate in order to respond to legal requests (including court orders and subpoenas); to protect the safety, property or rights of Land of Nod or of any third party; to prevent or stop any illegal, unethical or legally actionable activity; or to comply with the law.
 
-We contract with a third-party service provider to place our advertising messages on this and other websites. This provider may collect anonymous information about your visits to our website, and your interaction with our products and services. They may also use information about your visits to this and other websites to target advertisements for goods and services. This anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major websites. They do not know the name, phone number, postal address, email address or any other personal information about the user because this information is made anonymous before it reaches the provider. If you prefer not to receive relevant banner advertising, please visit the NAI (Network Advertising Initiative) website, which allows for central opting out of all of its members’ cookies from a single opt-out page by clicking [here](http://www.networkadvertising.org/managing/opt_out.asp). If you delete your cookies, use a different browser, or buy a new computer, you will need to renew your opt-out
+## Information Security
 
-You can also read more about online marketing practices and the technologies that support them by visiting the Network Advertising Initiative's website, or by clicking [here](http://www.networkadvertising.org/).
+We take our customers’ personal information seriously and take steps to protect our customers' personal information against loss, misuse, alteration and unauthorized access. We use encryption technology whenever receiving and transferring your payment information on our Websites.
+
+### ABOUT SSL CERTIFICATES
+
+When you make a purchase online, either a solid key or a locked padlock icon will appear in the lower right of your browser window. This icon indicates that your transaction session is secured through Secure Sockets Layer (SSL). If one of these icons does not appear, please contact Land of Nod at 800.967.6696 to complete your purchase.
+
+## Your Responsibilities
+
+You are responsible for maintaining the confidentiality of your account and password and for restricting access to your computer. You are responsible for all activities that occur under your account or password. As a result, it is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a computer that others may have access to.
 
 ## A Privacy Promise
 
-We support and adhere to the guidelines and practices adopted by the Direct Marketing Association’s "Privacy Promise." In so doing, we agree to comply with a customer’s requests to not share their information with other companies or to contact them for marketing purposes by postal mail, telephone or email.
+We support and adhere to the guidelines and practices adopted by the Direct Marketing Association’s “Privacy Promise. ” In so doing, we agree to comply with a customer ’s requests to not share their information with other companies or to contact them for marketing purposes by postal mail, telephone or email.
 
-If at any time, as a customer, you believe The Land of Nod is not committed to its Privacy Policy, please contact us. You may also contact the DMA’s Committee on Ethical Business Practices at [mgoldberger@the-dma.org](mailto:mgoldberger@the-dma.org).
+If at any time, as a customer, you believe The Land of Nod is not committed to its Privacy Policy, please contact us. You also may contact the DMA’s Committee on Ethical Business Practices at [mgoldberger@the-dma.org.](mailto:mgoldberger@the-dma.org)
+
+## Processing in the United States
+
+Please be aware that your personal information and communications may be transferred to and maintained on servers or databases located outside your state, province or country. If you are located outside the United States, please be advised that we process and store all information in the United States. The laws in the United States may not be as protective of your privacy as those in your location. By using our Websites or our services, you agree that the collection, use, transfer and disclosure of your personal information and communications will be governed by the applicable laws in the United States.
 
 ## Privacy Policy Updates
 
-Efforts to bring new services, ideas and partners to benefit our customers may make it necessary to amend our Privacy Policy. If this occurs, we will post the new policy on our Web site and in our stores. Once posted, the new policy will go into effect immediately, replacing any previously stated policy.
+Efforts to bring new services, ideas and partners to benefit our customers may make it necessary to amend our Privacy Policy. If this occurs, we will post the new policy on our Websites and in our stores. Once posted, the new policy will go into effect immediately, replacing any previously stated policy. Your continued use of our Websites or services constitutes your consent to the revised Privacy Policy.
 
-## Questions, Anyone?
+## Questions Anyone?
 
-If you have any questions regarding our Privacy Policy, we will do our best to answer them. Here’s how to contact us.
+If you have any questions regarding our Privacy Policy, we will do our best to answer them. Here's how to [contact us](https://web.archive.org/Customer-Service/ContactUs.aspx):
 
-## Phone:
-
+**Phone:**  
 Customer Service Department  
-800.933.9904, 7 days a week  
+800.933.9904  
+Monday - Sunday, 7 days a week 
 
-
-## Email:
-
+**Email:**  
 [customerservice@landofnod.com](mailto:customerservice@landofnod.com)
 
-## Address:
-
+**Address:**  
 The Land of Nod  
 Customer Service Department  
 8135 River Drive  
 Morton Grove, IL 60053  
 
+
+_Last Updated, December 13th 2013_
