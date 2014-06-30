@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freelancer.ph privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231215639id_/http%3A//www.freelancer.ph/page.php%3Fp%3Dinfo/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freelancer.ph privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630030750id_/https%3A//www.freelancer.ph/page.php%3Fp%3Dinfo/privacy) for the most accurate reproduction.*
 
 # Freelancer.ph | Online Jobs | Freelance Employment | Outsourcing Services | Programmers | Web Design | Freelancers
 
@@ -37,7 +37,9 @@ We use hosting provider Amazon Web Services, therefore your information may be t
 ### 4\. Sharing your Information
 
   1. We disclose personal information to respond to legal requirements, enforce our policies, respond to claims that a listing or other content violates the rights of others, or protect anyone's rights, property, or safety. Such information will be disclosed in accordance with applicable laws and regulations. As stated above, we do not disclosure your personal information to third parties for their marketing purposes without your explicit consent. 
-  2. We may share aggregate data with advertisers and other third parties. Freelancer uses industry-standard encryption technologies when transferring and receiving consumer and transaction data exchanged with our site. 
+  2. We may disclose personal information to our related bodies corporate and third party suppliers and service providers located overseas for some of the purposes listed above. We take reasonable steps to ensure that the overseas recipients of your personal information do not breach the privacy obligations relating to your personal information. 
+  3. We may disclose your personal information to entities located outside of Australia, including our related bodies corporate, located in the Philippines, Singapore, Switzerland, Canada and the UK. 
+  4. We may share aggregate data with advertisers and other third parties. Freelancer uses industry-standard encryption technologies when transferring and receiving consumer and transaction data exchanged with our site. 
 
 
 
@@ -45,10 +47,20 @@ We use hosting provider Amazon Web Services, therefore your information may be t
 
   1. Cookies are pieces of data assigned by a web server that uniquely identify the browser on your PC. Freelancer uses cookies called "persistent" cookies to enable the site to remember you on subsequent visits, speeding up or enhancing your experience of services or functions offered. Cookies also enable our systems to gather information about your navigational patterns through the site. You have the option to disable cookies at any time through your browsers. We may also store your website activity in cookies which may be used by third party vendors, including Google, to serve ads based on your behaviour on our website. 
   2. The third party vendors (e.g. Google Analytics) may receive and record non-personal information from cookies, server logs, and similar technology from your browser or mobile device, including your IP address. You may opt out of Google's use of cookies by visiting the Google advertising [opt-out page](http://www.google.com/privacy_ads.html)
-  3. If you access our Services with your login credentials from a social networking site (e.g., Facebook or Twitter) or if you otherwise agree to associate your Freelancer account with a social networking account, we may receive personal information about you from such social networking site, in accordance with the terms of use and privacy policy of the social networking site. For example, Facebook may share with us your friend list, birthday, information about the interests of you or your friends or other personal information, in order to help us establish your account, tailor services to you and find other current or potential site users that you know. We may add this information to the information we have already collected from you via other aspects of the Site. You are also subject to the social networking site's terms of use and privacy policy. We use the OAuth (open authorization) protocol to enable us to access this information without collecting your password when you agree allow another application to access your account information. 
+  3. If you access our Services with your login credentials from a social networking site (e.g., Facebook or Twitter) or if you otherwise agree to associate your Freelancer account with a social networking account, we may receive personal information about you from such social networking site, in accordance with the terms of use and privacy policy of the social networking site. For example, Facebook may share with us your friend list, birthday, information about the interests of you or your friends or other personal information, in order to help us establish your account, tailor services to you and find other current or potential site users that you know. We may add this information to the information we have already collected from you via other aspects of the Site. You are also subject to the social networking site's terms of use and privacy policy. We use the OAuth (open authorisation) protocol to enable us to access this information without collecting your password when you agree allow another application to access your account information. 
 
 
 
 ### 6\. Accessing and updating your Information
 
-You can update your information through your account profile settings. If you have any concerns about the accuracy of your information or any privacy complaints please contact us at [privacy@freelancer.com](mailto:privacy@freelancer.com)
+You can update your information through your account profile settings. If you believe that personal information we hold about you is incorrect, incomplete or inaccurate, then you may request us to amend it. 
+
+Additionally, You may request access to any personal information we hold about you at any time by contacting us at [privacy@freelancer.com](mailto:privacy@freelancer.com). Where we hold information that you are entitled to access, we will try to provide you with suitable means of accessing it (for example, by mailing or emailing it to you). We may charge you a fee to cover our administrative and other reasonable costs in providing the information to you. We will not charge for simply making the request and will not charge for making any corrections to your personal information. 
+
+There may be instances where we cannot grant you access to the personal information we hold. For example, we may need to refuse access if granting access would interfere with the privacy of others or if it would result in a breach of confidentiality. If that happens, we will give you written reasons for any refusal. 
+
+### Changes to our privacy policy
+
+We may change this privacy policy from time to time. Any updated versions of this privacy policy will be posted on our website. Please review it regularly. 
+
+This privacy policy was last updated on 11th March 2014. 
