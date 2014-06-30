@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timeslive.co.za privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231055229id_/http%3A//www.timeslive.co.za/%3Ffilter%3DprivacyAndPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timeslive.co.za privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630164854id_/http%3A//www.timeslive.co.za/%3Ffilter%3DprivacyAndPolicy) for the most accurate reproduction.*
 
 # Privacy and Policy - Times LIVE
 
