@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the propertyshowrooms.com privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031184719id_/http%3A//www.propertyshowrooms.com/privacy_statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propertyshowrooms.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630222022id_/http%3A//www.propertyshowrooms.com/privacy_statement.asp) for the most accurate reproduction.*
 
 # Propertyshowrooms.com Privacy Statement
 
@@ -10,11 +10,11 @@ Please read the full privacy policy below.
 
 ## Contacting you
 
-By registering your contact details on Propertyshowrooms.com including registration as a member of the International Property Investment Network (IPIN) you agree that we can contact you at anytime via any method using the details submitted to us, you grant us the right to contact you until you notify us not to.
+By registering your contact details on Propertyshowrooms.com including registration as a member of the IPIN Global (IPIN) you agree that we can contact you at anytime via any method using the details submitted to us, you grant us the right to contact you until you notify us not to.
 
 ## Email Marketing
 
-By registering your contact details on Propertyshowrooms.com including registration as a member of the International Property Investment Network (IPIN) you agree that we can send you marketing emails at any time, these will continue until you notify us to remove you from our mailing list.
+By registering your contact details on Propertyshowrooms.com including registration as a member of the IPIN Global (IPIN) you agree that we can send you marketing emails at any time, these will continue until you notify us to remove you from our mailing list.
 
 ## Anti-Spam
 
