@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opticsinfobase.org privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214072806id_/http%3A//www.opticsinfobase.org/include/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opticsinfobase.org privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630052627id_/http%3A//www.opticsinfobase.org/include/privacy.cfm) for the most accurate reproduction.*
 
 # Optics InfoBase - OSA Privacy Policy
 
