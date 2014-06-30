@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cleverhousewife.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229090459id_/http%3A//cleverhousewife.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cleverhousewife.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630084711id_/http%3A//www.cleverhousewife.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Clever Housewife
 
