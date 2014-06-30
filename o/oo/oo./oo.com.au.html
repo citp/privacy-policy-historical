@@ -1,9 +1,10 @@
-<!--The following is the downloaded HTML source of the oo.com.au privacy policy that was archived on 2013-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131231083254id_/http%3A//www.oo.com.au/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the oo.com.au privacy policy that was archived on 2014-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140630174009id_/http%3A//www.oo.com.au/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en" xml:lang="en" class="showAU wf-loading"><head><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//use.typekit.net/ysr7jlc.js" type="text/javascript" async=""></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en" xml:lang="en" class="showAU wf-loading webkit chrome linux js carousel"><head><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PSN7ZV"></script><script src="//use.typekit.net/ysr7jlc.js" type="text/javascript" async=""></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
 
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=955">
     
 	
@@ -18,7 +19,7 @@
 	 
 		
 			
-				<link href="http://www.oo.com.au/css/style_v201312311403.min.css" media="all" type="text/css" rel="stylesheet">
+				<link href="http://www.oo.com.au/css/style_v201406101440.min.css" media="all" type="text/css" rel="stylesheet">
 			
 		
 	
@@ -38,8 +39,10 @@
 
 	
 		
-			<script src="/js/script_v201312311403.min.js" type="text/javascript"></script>
+			<script src="/js/script_v201406101440.min.js" type="text/javascript"></script>
 		
+        <script src="/js/Grays_VisitorAPI_1.0.js" type="text/javascript"></script>
+        <script src="/js/Grays_AppMeasurement_1.6.js" type="text/javascript"></script>
 		
 
 	<script type="text/javascript">
@@ -71,7 +74,6 @@
  <!-- END COREMETRICS SUPPORT -->   
  
     
-    
 	<link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon">
 
 
@@ -93,8 +95,6 @@
 	
 	
 	
-		
-	
 
 	
 	
@@ -105,13 +105,21 @@
 	
 	
 	
-		
-	
-
 
 	
+			
+	
 
 	
+
+	
+	
+	
+	
+	
+
+	
+
 
 	<script id="tmpl_mini_cart10" type="text/x-handlebars-template">
 
@@ -186,6 +194,30 @@
 							{{home.terms}}
 						</p>
 					</div>
+	{{/if}}
+</script>
+
+<script id="tmpl_idn_home_delivery" type="text/x-handlebars-template">
+	{{#if home.exists}}
+		<div class="idnhomedeliverybanner discount-truck-sec">
+			<div id="idnexit"></div>
+			<div class="margin-auto margin-t5">
+				<div class="idndeliverytruck float_left"></div>
+					<div class="discount-wrapper float_left">
+						<span class="discount">
+							{{{home.deliverydiscountmsg}}}
+						</span>
+
+						<span class="category">
+							{{{home.scope}}}
+						</span>
+					</div>
+				<div class="idndeliverytruck float_left"></div>
+			</div>
+			<p class="terms-wrapper-center">
+				{{home.terms}}
+			</p>
+		</div>
 	{{/if}}
 </script>
 
@@ -313,11 +345,13 @@
 
 
 
+
+
 	
 		
 				<title>Privacy Policy</title>
 	
-		
+		<style type="text/css">#sub_col > div{float:none;}</style>
 		
 
 				
@@ -338,12 +372,25 @@
 
 			if( typeof mURL != 'undefined')
 			{
-				createCookie( 'VIEWMOBILE', '1', null, cookieDomain);
+				var s = window.location.search;
+				if( s.length > 0 ) 
+				{
+					if( mURL.indexOf( '?') > 0 )
+					{
+						mURL += s.replace( '?', '&');
+					}
+					else
+					{
+						mURL += s;
+					}
+
+				}
+				createCookie( 'VIEWMOBILE1', '1', null, cookieDomain);
 				window.location.href = mURL
 			}
 			else
 			{
-				createCookie( 'VIEWMOBILE', '0', null, cookieDomain);
+				createCookie( 'VIEWMOBILE1', '0', null, cookieDomain);
 			}
 		}
 	</script>
@@ -352,55 +399,36 @@
 
 
 
-				
-					<style type="text/css">
-						
-
-							
-							
-						
-						
-						
-							.ppbgclick
-							{
-								width: 165px;
-								height: 500px;
-								position: absolute;
-								top: 181px;
-								text-indent: -999px;
-							}
-							.ppbgclick a
-							{
-								display: block;
-								width: 100%;
-								height: 100%;
-							}
-						
-
-						
-							#ppbgclick_left{
-								background: url("/images/wings/BoxingDaySale_EndsToday.jpg") no-repeat 0 0;
-							}
-						
-
-						
-							#ppbgclick_right{
-								background: url("/images/wings/BoxingDaySale_EndsToday.jpg") no-repeat 0 0;
-							}
-						
-					</style>
-
-
-
-				
-			
 
 
 
 </head>
 
 
-<body>
+<body><div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" style="padding-bottom: 0px; padding-right: 0px; display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear:left"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxLoadedContent" style="width: 0px; height: 0px; overflow: hidden;" class=""></div><div id="cboxLoadingOverlay" class=""></div><div id="cboxLoadingGraphic" class=""></div><div id="cboxTitle" class=""></div><div id="cboxCurrent" class=""></div><div id="cboxNext" class=""></div><div id="cboxPrevious" class=""></div><div id="cboxSlideshow" class=""></div><div id="cboxClose" class=""></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear:left"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position:absolute; width:9999px; visibility:hidden; display:none"></div></div>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-PSN7ZV"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PSN7ZV');</script>
+<!-- End Google Tag Manager -->
+
+	
+			<div id="subPopup" class="subPopup">
+				<div id="subPopupClose"></div>
+				<div id="subPopupIn" class="subPopupIn">
+					<form name="frmSubscription" id="idFrmSubscription" method="POST" onsubmit="return false;">
+						<input id="email_address" name="email_address" type="email" placeholder="Enter your email" class="txtEmail" required="">	
+						<input id="btnSubPopupSubmit" name="btnSubPopupSubmit" type="submit" value="JOIN" class="btnSub">	
+					</form>
+				</div>
+			</div>   		
+		
+
+
 
 
 
@@ -480,7 +508,7 @@ var WRInitTime=(new Date()).getTime();
         	<ul id="nav_main_left">
                 <li><a href="/products/" class="ns3 first-node"><span>shop by category</span></a></li>
                 <li><a href="/brand/" class="ns1"><span>brands</span></a></li>
-                <li><a href="/stores/" class="ns1"><span>stores</span></a></li>
+                <li><a href="/onsale/" class="ns1"><span>on sale</span></a></li>
                 <li><a href="/latest-arrivals/" class="ns2"><span>latest arrivals</span></a></li>
                 <li><a href="/clearance/" class="ns2"><span>clearance</span></a></li>
                 <li><a href="/best-sellers/" class="ns2"><span>best sellers</span></a></li>
@@ -504,7 +532,7 @@ var WRInitTime=(new Date()).getTime();
 			
 				
 				
-		<div id="gen_body">      <h2>Privacy Policy</h2>      <p align="center">          </p><div style="text-align:center;" id="bf6b388b-8d47-436e-8440-d495c45693ed"> <script type="text/javascript" src="//privacy-policy.truste.com/privacy-seal/OO-AUSTRALASIA-PTY-LTD/asc?rid=bf6b388b-8d47-436e-8440-d495c45693ed"></script><a href="//privacy.truste.com/privacy-seal/OO-AUSTRALASIA-PTY-LTD/validation?rid=ca1fb80f-decc-4427-a47e-67102252cef8" title="TRUSTe online privacy certification" target="_blank"><img style="border: none" src="http://www.oo.com.au/images/seal.png" alt="TRUSTe online privacy certification"></a></div>      <p></p><h3>Effective Date of this policy: 02/04/2013</h3>      <p>          <span id="internal-source-marker_0.08827390971562643">oo.com.au ("OO") has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with </span>          <a href="http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html">TRUSTe's program requirements</a>          including transparency, accountability and choice regarding the collection and use of your personal information. &nbsp;TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. This privacy statement covers the web site www.oo.com.au.       </p>      <p>          If you have questions or concerns regarding this statement, you should first contact our Customer Service Manager (<a href="mailto:policy@oo.com.au">policy@oo.com.au</a>). If you are not satisfied with our response you can contact <a href="http://watchdog.truste.com/pvr.php?page=complaint">TRUSTe here</a>.       </p>      <h3>OO's Commitment to Your Privacy</h3>      <p>          <span id="internal-source-marker_0.">OO values our relationship with you and the other users of this website. We recognize that you may be concerned about our collection, use, and disclosure of your personally identifiable information that we may collect when you use the Web Site. Accordingly, we have implemented this Privacy Policy to inform you of the information that we collect from you, how we collect this information, and what we do with it after we collect it. If you have any questions or comments regarding this Privacy Policy, please contact us at: </span>          <a href="mailto:policy@oo.com.au">policy@oo.com.au</a>      </p>      <h3>OO's Commitment to Online Security</h3>      <p>          <span id="internal-source-marker_0.2">Your personal information is treated with the greatest of care. Sensitive payment information such as credit card details are NEVER stored on the Internet with our system. Once you type your information, it is sent instantly, encrypted, directly to our order processing system. We employ the latest 1024-bit encryption technology in all areas of the site which require you to provide payment information. This is done to protect you from unauthorized use of the information you are sending to our server. This website is registered with site identification authorities to enable your browser to confirm our security identity before any transmission is sent. With this technology, the identity of this site is automatically confirmed behind the scenes prior to the transmission of any sensitive information requested to complete an online order and ensures that your data reaches your intended target or your browser notifies you that the potential receiving site looks suspicious and should be avoided.</span>      </p>      <p>          Physical, electronic and managerial procedures have been employed to safeguard the security and integrity of personal information. The OO website encrypts sensitive information wherever OO requests it. OO employs a third party (McAfee Secure) to monitor the security of our web servers to alert us to any weaknesses before hackers find them. &nbsp;Please note that no method of transmission over the Internet, or method of electronic storage, is 100% secure. &nbsp;Therefore, we cannot guarantee its absolute security.      </p>      <h3>Email Subscription</h3>      <p>          <span id="internal-source-marker_0.3">All our marketing emails contain a link to unsubscribe. You will not receive marketing emails from us again if you choose to unsubscribe. In order to make our emails more relevant and useful to you, our servers may receive a confirmation when you open email from us.</span>      </p>      <h3>Being Included In and Removed From our Marketing Emails, including Newsletters</h3>      <p>          <span id="internal-source-marker_0.4">You will be included in our email mailing list (which include special offers, competitions, new product arrival alerts and other communications related to our services or the products we offer) if you subscribe to our newsletters or if you make a purchase from us or if you have requested that we notify you of an items expected arrival and we expect to receive other items that are similar or complementary. You will not be included in any of our mailing lists if you communicate with us for any other reasons. Every marketing email we send has an unsubscribe option, which will always be clear and easy to locate, and will also include your email address that is subscribed. You may unsubscribe from any mailing list whenever you wish and you will be immediately removed as per your request. You also have the option of emailing </span>          <a href="mailto:customerservice@oo.com.au">customerservice@oo.com.au</a>          and a member of our Customer Service Team will unsubscribe you if you provide them with the email address that is subscribed.      </p>      <h3>Service Providers</h3>      <p>          <span id="internal-source-marker_0.5">We use an outside shipping company to fulfill orders, and a credit card processing company to bill you for goods and services. These companies do not retain, share, store or use personally identifiable information for any other purposes. These third parties are prohibited from using your personally identifiable information for any other purpose.</span>      </p>      <h3>Blog</h3>      <p>          <span id="internal-source-marker_0.6">If you use the blog application on this Web site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages.OO is not responsible for the personally identifiable information you choose to submit in these forums. To request removal of your personal information from our blog or community forum, contact us at </span>          <a href="mailto:customerservice@oo.com.au">customerservice@oo.com.au</a>. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.      </p>      <h3>Links to Other Sites</h3>      <p>          <span id="internal-source-marker_0.7">This Web site contains links to other sites that are not owned or controlled by OO. Please be aware that we are not responsible for the privacy practices of such other sites.</span>      </p>      <p>          We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information.      </p><h3>Social Media Widgets</h3><p><span>Our Web site includes Social Media Features, such as the Facebook Like button, Twitter button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.</span></p>      <h3>Personal Information that OO May Collect Online</h3>      <p>          <span id="internal-source-marker_0.8">In order to make a purchase on the Site or to create a OO account online, OO collects personal contact information online such as names, postal and e-mail addresses, phone numbers and personal billing/financial information such as credit card information and billing address. OO may also collect business information from sole proprietorships that apply for membership and for program participation, some of which could constitute personal information, as well as personal information from individuals acting solely in their business capacity.</span>      </p>      <p>          Access to Personally Identifiable Information      </p>      <p>          If your personally identifiable information changes, or if you no longer desire our service, you may correct/ update or delete your information or request that your web site account be deactivated by emailing our Customer Service team at <a href="mailto:customerservice@oo.com.au">customerservice@oo.com.au</a>          or by contacting us by telephone or postal mail at the contact information listed below.      </p>      <p>          We will retain your information for as long as your account is active or as needed to provide you services. &nbsp;If you wish to cancel your account or request that we no longer use your information to provide you services contact us at <a href="mailto:customerservice@oo.com.au">customerservice@oo.com.au</a>. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.      </p>      <h3>Contact By Phone:</h3>      <p>          <span id="internal-source-marker_0.9">Call our hotline on 1300 132 151 between 9am and 5pm AET, and we will gladly be of assistance. If you are calling from New Zealand, please call +61 2 9101 9971</span>      </p>      <h3>Contact By Mail:</h3>      <p>          oo.com.au, PO Box 366, Regents Park BC NSW 2143, Australia      </p>      <h3>How OO Uses Personal Information Collected Online</h3>      <p>          <span id="internal-source-marker_0.10">We will use your personal information only for the purposes of processing your order and to communicate effectively with you. This communication includes but is not limited to; emailing you tax invoices, dispatch and tracking information, returns and exchange authorisations, etc. As a condition of sale we reserve the right to email you special offer promotions that we believe will be of interest to you. You may, once you have placed your order, advise us that you are not interested in these offers and we will consequently not send these to you. To do this please send this request to </span>          <a href="mailto:customerservice@oo.com.au">customerservice@oo.com.au</a>. In any event, you may, at any time, unsubscribe from any special offer promotions we send you, and your unsubscribe request will be actioned immediately. Our research may lead to the publication of aggregate demographical data but will not result in the reporting or publication of any personal information provided to us.      </p>      <h3>How Your Information May Be Shared</h3>      <p>          <span id="internal-source-marker_0.11">We will never sell or rent your personal information except as described in this privacy policy. OO may release personal information under the following circumstances:</span>      </p>      <ul>          <li>              Where release is required by law (for example, a warrant, court order or subpoena) or regulation or is requested by a government agency;          </li>          <li>              Where our records indicate a company or an individual may be engaged in fraudulent activity or other deceptive practices that a governmental agency should be made aware of;          </li>          <li>              To appropriate persons, where your communication suggests possible harm to others;          </li>          <li>              If OO is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.          </li>      </ul>      <h3>Computer Tracking and Cookies</h3>      <p>          <span id="internal-source-marker_0.12">Our website is set up to track non-personally identifiable information in order to operate, improve and perform analyses of user behaviour to measure interest in and use of the various aspects of the products we advertise. This information helps us provide you with personalized recommendations and learn about user preferences, popular categories, offers users like to see and in general, how to improve the functionality and relevancy of our website. We use cookies to do these. A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use both session ID cookies and persistent cookies.  A session ID cookie expires when you close your browser.  Session ID cookies are used to ensure we present the website to you consistently throughout a single visit.  A persistent cookie remains on your hard drive for an extended period of time.  We use persistent cookies to ensure return visits are more personalized to you, and to maintain a consistency of experience across multiple website visits.  You can remove persistent cookies by following directions provided in your Internet browser’s “help” directory. If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as contests or surveys, may be limited.</span>      </p><p>Some features of the website are provided by third parties (e.g. recommendations, product reviews) and some activity is tracked by third parties for the purposes of analytics. The use of cookies by third party service providers is not covered by our privacy policy.  We do not have access or control over these cookies.  These third parties use session ID cookies to improve your shopping experience and improve our ability to provide you with quality service.</p>      <h3>Third Party Tracking</h3>      <p>          <span id="internal-source-marker_0.13">We use third-party tracking services that use web beacons to track non-personally identifiable information about visitors to our site in the aggregate. The use of web beacons by our web analytics service providers are used to help us better manage content on our site by informing us what content is effective. On some occasions, we may engage third party advertising companies to advertise relevant content or products to you on our website or on a third party's website. These companies may employ cookies and action tags to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous and does not contain any personally identifiable information. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking <a href="http://preferences-mgr.truste.com">Here</a>.  Please note this does not opt you out of being served advertising.  You will continue to receive generic ads.</span>        </p>      <p>          We use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. You may opt-out of these emails as described in this privacy policy.</p>      <p>          Changes to this Privacy Notice, Conditions of Use and Notices      </p>      <p>          If we decide to change our privacy policy, we will post those changes to this privacy statement and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.      </p>      <p>          We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here or by email prior to the change becoming effective.      </p>      <p>          <strong>oo.com.au</strong>      </p>      <p>          <span id="internal-source-marker_0.14">PO Box 366<br>              Regents Park BC NSW 2143              <br>              Australia          </span>      </p>  </div>
+		<style>#gen_body {background-color: #fff;margin: 5px 0;padding: 20px 10px;width: 735px;float: left;}#gen_body ul li { background:none;list-style:disc;padding-left:0;}</style><div id="gen_body"><h1><p style="text-align:center;"><a name="_GoBack"></a><strong>Privacy Policy</strong></p></h1> <p></p><div id="bf6b388b-8d47-436e-8440-d495c45693ed" style="text-align:center;"> <script type="text/javascript" src="//privacy-policy.truste.com/privacy-seal/OO-AUSTRALASIA-PTY-LTD/asc?rid=bf6b388b-8d47-436e-8440-d495c45693ed"></script><a href="//privacy.truste.com/privacy-seal/OO-AUSTRALASIA-PTY-LTD/validation?rid=ca1fb80f-decc-4427-a47e-67102252cef8" title="TRUSTe online privacy certification" target="_blank"><img style="border: none" src="//privacy-policy.truste.com/privacy-seal/OO-AUSTRALASIA-PTY-LTD/seal?rid=ca1fb80f-decc-4427-a47e-67102252cef8" alt="TRUSTe online privacy certification"></a></div><p></p> <p><strong>Effective Date of this policy: 12/04/2014</strong></p> <p>This privacy policy applies to www.oo.com.au owned and operated by Grays (NSW) Pty Limited trading doing business as oo.com.au. By registering with OO or by providing any personal information that is collected from you or by engaging in any other activities through which you may be asked to disclose your personal information, you consent to the collection, our practices in relation to the ways in which we store, and handle and the use and disclosure of, your personal information held by us, our under our control, as described in this privacy policy.</p> <p>In this privacy policy</p> <p>(a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; References to "OO", "we", "us" "our" and other similar terms is, in each case, a reference to oo.com.au&nbsp;</p> <p>(b)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "personal information" means information or an opinion about an identified individual, or an individual who is reasonably identifiable:</p> <p style="margin-left:42.55pt">(i)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; whether the information or opinion is true or not; and</p> <p style="margin-left:42.55pt">(ii)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; whether the information or opinion is recorded in a material form or not.</p> <p>(c)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Other terms that have the initial letter capitalised have the same meaning as used in the OO user terms and conditions.</p> <p>oo.com.au ("OO") has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with <a href="http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html">TRUSTe's program requirements</a> including transparency, accountability and choice regarding the collection and use of your personal information. &nbsp;TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. This privacy statement covers the business conducted by oo.com.au.</p> <p style="margin-left:35.45pt">&nbsp;</p> <p><strong>OO's Commitment to Your Privacy</strong></p> <p>OO values our relationship with you. We recognize that you may be concerned about our collection, use, and disclosure of your personal information that we may collect when you use the oo.com.au website (<strong>Website</strong>) or deal with us by telephone, email or letter, or in person. Accordingly, we have implemented this Privacy Policy to inform you of the personal information that we collect from you, how we collect this information, and what we do with it after we collect it. If you have any questions or comments regarding this Privacy Policy, please contact us at: <a href="mailto:policy@oo.com.au">customerservice@oo.com.au</a></p> <p><strong>OO's Commitment to Online Security &amp; Information Security</strong></p> <p>Your personal information is treated with the greatest of care. Sensitive payment information such as credit card details are NEVER stored on the Internet with our system. Once you type your information, it is sent instantly, encrypted, directly to our order processing system. We employ the latest 1024-bit encryption technology in all areas of the site which require you to provide payment information. This is done to protect you from unauthorized use of the information you are sending to our server. The Website is registered with site identification authorities to enable your browser to confirm our security identity before any transmission is sent. With this technology, the identity of this site is automatically confirmed behind the scenes prior to the transmission of any sensitive information requested to complete an online order and ensures that your data reaches your intended target or your browser notifies you that the potential receiving site looks suspicious and should be avoided.</p> <p>Physical, electronic and managerial procedures have been employed to safeguard the security and integrity of personal information. The Website encrypts sensitive information wherever OO requests it. OO employs a third party (McAfee Secure) to monitor the security of our web servers to alert us to any weaknesses before hackers find them. &nbsp;Please note that no method of transmission over the Internet, or method of electronic storage, is 100% secure. &nbsp;Therefore, we cannot guarantee its absolute security.</p> <p>In addition to the steps we take to protect your information online, we also take reasonable steps to ensure the personal information that we collect, hold, use or disclose, in whatever form, is accurate, complete, relevant and up-to-date. We recommend you notify us if you change your address or contact details as soon as possible. This will help us to maintain your privacy by ensuring that any communications are sent to the correct postal address, email address, or telephone number. This can usually be done online or by contacting us at customerservice@oo.com.au.</p> <p>We also take reasonable steps to protect your personal information from misuse, loss and unauthorised access, modification or disclosure, and to destroy or permanently de-identify personal information if we no longer need it for any purpose.</p> <p><strong>How do we use your personal information?</strong></p> <p>We may disclose information of prospective employees to third party companies to assist us with the recruitment process, such as screening and selection services.</p> <p>Personal information - We may use and disclose your personal information (in whole or in part, and in identifiable and de-identifiable formats) in order to provide OO services or in relation to any service that is ancillary or necessary to those services, including administration, management, account management, verification and auditing of services and our business, complaints handling, dispute resolution, product and services improvement and development and service support (<strong>Purpose</strong>).</p> <p>Disclosure to third parties - We will only disclose your personal information to third parties for a Purpose and with whom we have entered into an agreement that gives you (or that the law requires to give you) at least the same level of protection to your personal information as OO does. We do not sell your personal information to third parties.</p> <p>We may enter into agreements with third parties to whom disclosures may be made who are located outside the country where the information was collected.&nbsp; If this occurs, and it is practicable to do so, we will update our overseas data transfers list, as required by law, about the location of actual or likely recipients of any personal information held and disclosed by OO.&nbsp; At present, the only circumstances where personal information is transferred outside Australia is under supplier&nbsp; arrangements where the goods are held by the vendor offshore, and delivered directly to the purchaser by the vendor once a sale is completed. &nbsp;Where you buy goods under this type of arrangement (which is identified during the sales process) we send the customer's name and address to the relevant supplier who is responsible for delivery, so they can fulfil the order.&nbsp; The overseas data transfers list is currently, the United Kingdom, the United States and &nbsp;Hong Kong.</p> <p>None of these activities can be carried out on an anonymous basis or pseudonymous basis.</p> <p>Direct marketing – You consent to OO using or disclosing your personal information for the purposes of direct marketing (including direct marketing by third parties), unless you have requested to opt-out of any direct marketing communications.&nbsp;&nbsp; These activities cannot be carried out anonymously but may be possible of being carried out on a pseudonymous basis.</p> <p>In particular, we currently disclose information in the following ways:</p> <p><strong>Being Included In and Removed From our Marketing Emails, including Newsletters</strong></p> <p>You will be included in our email mailing list (which include special offers, competitions, new product arrival alerts and other communications related to our services or the products we offer) if you subscribe to our newsletters or if you make a purchase from us or if you have requested that we notify you of an items expected arrival and we expect to receive other items that are similar or complementary. You will not be included in any of our mailing lists if you communicate with us for any other reasons. Every marketing email we send has an unsubscribe option, which will always be clear and easy to locate, and will also include your email address that is subscribed. You may unsubscribe from any mailing list whenever you wish and you will be immediately removed as per your request. You also have the option of emailing <a href="mailto:customerservice@oo.com.au">customerservice@oo.com.au</a> and a member of our Customer Service Team will unsubscribe you if you provide them with the email address that is subscribed. &nbsp;&nbsp;If you choose to unsubscribe from our mailing list we will not be able to provide you information on special offers and promotions, or products or services which we think would be of interest to you.</p> <p><strong>Email Subscription</strong></p> <p>All our marketing emails contain a link to unsubscribe. You will not receive marketing emails from us again if you choose to unsubscribe. In order to make our emails more relevant and useful to you, our servers may receive a confirmation when you open email from us.</p> <p><strong>Service Providers</strong></p> <p>We use an outside shipping company to fulfill orders, and a credit card processing company to bill you for goods and services. These companies do not retain, share, store or use personal information for any other purposes. These third parties are prohibited from using your personal information for any other purpose. &nbsp;We may also use or disclose your personal information to provide pre- or post-sale support or if you have any issues with the quality of our services.&nbsp; Similar personal information is collected in respect of our suppliers and contractors so that we can do business with you.&nbsp; We collect personal information such as career history, contact details and education details from prospective employees so that we can assess their applications and contact them if necessary.</p> <p><strong>Blog</strong></p> <p>If you use the blog application on the Website, you should be aware that any personal information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages.&nbsp; OO is not responsible for the personal information you choose to submit in these forums. To request removal of your personal information from our blog or community forum, contact us at <a href="mailto:customerservice@oo.com.au">customerservice@oo.com.au</a>. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.</p> <p><strong>Links to Other Sites</strong></p> <p>The website contains links to other sites that are not owned or controlled by OO. Please be aware that we are not responsible for the privacy practices of those other sites.</p> <p>We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personal information.</p> <p><strong>Social Media Widgets</strong></p> <p>Our Web site includes Social Media Features, such as the Facebook Like button, Twitter button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.</p> <p><strong>Personal Information that OO May Collect Online</strong></p> <p>In order to make a purchase on the Web site or to create a OO account online, OO collects personal information such as names, postal and e-mail addresses, phone numbers, personal billing/financial information such as credit card information and billing address and unique identifiers such as password. OO may also collect business information from sole proprietorships that apply for membership and for program participation, some of which could constitute personal information, as well as personal information from individuals acting solely in their business capacity.</p> <p><strong>Access to &nbsp;Personal Information </strong></p> <p>If you have an online account with OO you may at anytime access and modify the personal information associate with your account by accessing your account through the Website.</p> <p>If your personal information changes, or if you no longer desire our service, you may update your information or request access to or correction of your personal information or request that your web site account is cancelled by emailing our Customer Service team at <a href="mailto:customerservice@oo.com.au">customerservice@oo.com.au</a> or by contacting us by mail at the contact information listed below. &nbsp;&nbsp;</p> <p>In order to process that request we may require verification of your identity and we will deal with that request within a reasonable period of time after you have done so.&nbsp; If you request access or correction, and we cannot accommodate your request (in accordance with the law), you will receive our reasons in writing.</p> <p>We will retain your personal information for as long as needed to provide you services or for any other Purpose for which it was collected, including to comply with our legal obligations, resolve disputes, and enforce our agreements.</p> <p>We will make available to you a copy of our Privacy Policy free of charge and in the most appropriate form.&nbsp; If you require a copy of the amended Grays Privacy Policy, other than as provided on our website, please contact us at &nbsp;customerservice@oo.com.au.&nbsp; We will use our reasonable efforts to provide you with a copy of the OO Privacy Policy in the form requested by you.</p> <p>If you have questions or concerns regarding this statement, you should first contact our Customer Service Manager (customerservice@oo.com.au). If you are not satisfied with our response you can contact <a href="http://watchdog.truste.com/pvr.php?page=complaint">TRUSTe here</a> or the Office of the Australian Information Commissioner &nbsp;or the New Zealand Privacy Commissioner's Office. as applicable (for details see the "Complaints" section at the end of this statement).</p> <p><strong>Contact By Phone:</strong></p> <p>Call our hotline on 1300 132 151 between 9am and 5pm AET, and we will gladly be of assistance. If you are calling from New Zealand, please call +61 2 9101 9971</p> <p><strong>Contact By Mail:</strong></p> <p>oo.com.au, Customer Service, 29-33 Carter St, Lidcombe, NSW 2141, Australia</p> <p><strong>Complaints</strong></p> <p>Naturally, it is in our interest to protect your privacy in order that we develop a long and trusted relationship with you and so, if at any time you are unhappy with the manner in which we handle your personal information and you wish to make a complaint, you may contact us in writing at:</p> <p>oo.com.au<br>Customer Service<br>29-33 Carter St<br>Lidcombe NSW 2141<br>Australia<br>Email: customerservice@oo.com.au</p> <p>We will do our best to resolve your complaint as quickly as possible. If you are not satisfied with our response to your complaint, you can refer the matter to the relevant privacy regulator.&nbsp; More information about each regulator, the complaints process and how to lodge a complaint is available here&nbsp; <a href="http://www.oaic.gov.au/privacy/privacy-complaints" target="_blank" style="text-decoration:underline;">http://www.oaic.gov.au/privacy/privacy-complaints</a>&nbsp; (Australia) or <a href="http://privacy.org.nz/your-privacy/introduction-to-complaints" target="_blank" style="text-decoration:underline;">http://privacy.org.nz/your-privacy/introduction-to-complaints/</a> (New Zealand).</p> <p><strong>How OO Uses Personal Information Collected </strong></p> <p>We will use your personal information only for the purposes of processing your order and to communicate effectively with you. This communication includes but is not limited to; emailing you tax invoices, dispatch and tracking information, returns and exchange authorisations, etc. As a condition of sale we reserve the right to email you special offer promotions that we believe will be of interest to you. You may, once you have placed your order, advise us that you are not interested in these offers and we will consequently not send these to you. To do this please send this request to <a href="mailto:customerservice@oo.com.au">customerservice@oo.com.au</a>. In any event, you may, at any time, unsubscribe from any special offer promotions we send you, and your unsubscribe request will be actioned promptly, in accordance with our legal obligations]. Our research may lead to the publication of aggregate demographical data but will not result in the reporting or publication of any personal information provided to us.</p> <p><strong>How Your Information May Be Shared</strong></p> <p>We will never sell or rent your personal information except as described in this privacy policy. OO may also release personal information under the following circumstances:</p> <ul> <li>Where release is required by law (for example, a warrant, court order or subpoena) or regulation or is requested by a government agency;</li> <li>Where our records indicate a company or an individual may be engaged in fraudulent activity or other deceptive practices that a governmental agency should be made aware of;</li> <li>To appropriate persons, where your communication suggests possible harm to others;</li> <li>If OO is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.</li> </ul> <p><strong>Tracking Technologies</strong></p> <p>Our website is set up to track non-personal information in order to operate, improve and perform analyses of user behaviour to measure interest in and use of the various aspects of the products we advertise. This information helps us provide you with personalized recommendations and learn about user preferences, popular categories, offers users like to see and in general, how to improve the functionality and relevancy of our website. We use cookies to do these. A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use both session ID cookies and persistent cookies. A session ID cookie expires when you close your browser. Session ID cookies are used to ensure we present the website to you consistently throughout a single visit. A persistent cookie remains on your hard drive for an extended period of time. We use persistent cookies to ensure return visits are more personalized to you, and to maintain a consistency of experience across multiple website visits. You can remove persistent cookies by following directions provided in your Internet browser’s “help” directory. If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as contests or surveys, may be limited.</p> <p>Some features of the website are provided by third parties (e.g. recommendations, product reviews) and some activity is tracked by third parties for the purposes of analytics. The use of cookies by third party service providers is not covered by our privacy policy. We do not have access or control over these cookies. These third parties use session ID cookies to improve your shopping experience and improve our ability to provide you with quality service.</p> <p><strong>Third Party Tracking</strong></p> <p>We use third-party tracking services that use web beacons to track non-personal information about visitors to our site in the aggregate. The use of web beacons by our web analytics service providers are used to help us better manage content on our site by informing us what content is effective. On some occasions, we may engage third party advertising companies to advertise relevant content or products to you on our website or on a third party's website. These companies may employ cookies and action tags to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous and does not contain any personally identifiable information. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking <a href="http://preferences-mgr.truste.com/">Here</a>. Please note this does not opt you out of being served advertising. You will continue to receive generic ads.</p> <p>We use Google AdSense to publish ads on this site.&nbsp; When you view or click on an ad a cookie will be set to help better provide advertisements that may be of interest to you on this and other Web sites.&nbsp;&nbsp; You may opt-out of the use of this cookie by visiting Google’s Advertising and Privacy page: <a href="http://www.google.com/privacy_ads.html">http://www.google.com/privacy_ads.html</a></p> <p>We use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. You may opt-out of these emails as described in this privacy policy.</p> <p><strong>Changes to this Privacy Policy</strong></p> <p>If we decide to change our privacy policy, we will post those changes to this privacy policy on the website and other places we deem appropriate or by email prior to the change becoming effective so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.</p> <p>We reserve the right to modify this privacy statement at any time. These amendments will take effect from the time of posting and we remind and encourage you to check back from time to time for any changes.</p> <p><strong>oo.com.au</strong></p> <p>29-33 Carter St<br> Lidcombe NSW 2141<br> Australia&nbsp;</p></div>
 		
 
 				
@@ -589,10 +617,7 @@ var WRInitTime=(new Date()).getTime();
 	                    <li><a href="/online-safety/" rel="nofollow"><div id="sec_sos"></div></a></li>      
 						<li><a name="trustlink" href="http://secure.trust-guard.com/certificates/7203" target="_blank" onclick="var nonwin=navigator.appName!='Microsoft Internet Explorer'?'yes':'no'; window.open(this.href.replace('http', 'https'),'welcome','location='+nonwin+',scrollbars=yes,width=517,height='+screen.availHeight+',menubar=no,toolbar=no'); return false;" oncontextmenu="var d = new Date(); alert('Copying Prohibited by Law - This image and all included logos are copyrighted by trust-guard \251 '+d.getFullYear()+'.'); return false;"><img name="trustseal" alt="Security Verified Seal" style="border: 0;" src="http://seals.trust-guard.com/security-7203-small-gray.gif"></a></li>
 						 
-	                    <li><div id="bf6b388b-8d47-436e-8440-d495c45693ed">
-	                     
-	                     <script type="text/javascript" style="display: none;"> $(window).load( function(){$LAB.script( "//privacy-policy.truste.com/privacy-seal/OO-AUSTRALASIA-PTY-LTD/asc?rid=bf6b388b-8d47-436e-8440-d495c45693ed" ); });</script>
-	                     <a href="//privacy.truste.com/privacy-seal/OO-AUSTRALASIA-PTY-LTD/validation?rid=ca1fb80f-decc-4427-a47e-67102252cef8" title="TRUSTe online privacy certification" target="_blank"><img style="border: none; margin-top:8px;" src="//privacy-policy.truste.com/privacy-seal/OO-AUSTRALASIA-PTY-LTD/seal?rid=ca1fb80f-decc-4427-a47e-67102252cef8" alt="TRUSTe online privacy certification"></a></div></li>                   
+	                    <li><div id="bf6b388b-8d47-436e-8440-d495c45693ed"> <script type="text/javascript" src="//privacy-policy.truste.com/privacy-seal/OO-AUSTRALASIA-PTY-LTD/asc?rid=bf6b388b-8d47-436e-8440-d495c45693ed"></script><a href="//privacy.truste.com/privacy-seal/OO-AUSTRALASIA-PTY-LTD/validation?rid=ca1fb80f-decc-4427-a47e-67102252cef8" title="TRUSTe online privacy certification" target="_blank"><img style="border: none; margin-top:8px;" src="//privacy-policy.truste.com/privacy-seal/OO-AUSTRALASIA-PTY-LTD/seal?rid=ca1fb80f-decc-4427-a47e-67102252cef8" alt="TRUSTe online privacy certification"></a></div></li>                   
 						<li><a href="/about-us/" rel="nofollow"><div id="aff_hitwise"></div></a></li>
 						<li><a href="/about-us/" rel="nofollow"><div id="aff_netguide"></div></a></li>
 						
@@ -655,7 +680,7 @@ var WRInitTime=(new Date()).getTime();
 			<div id="legal">
 			<div class="site-wrapper">
 				
-				<p>© Copyright 2013 oo.com.au - The Joy of Shopping Online</p>
+				<p>© Copyright 2014 oo.com.au - The Joy of Shopping Online</p>
 				
 				<p id="abn">ABN 35 003 688 284, PO Box 366, Regents Park BC NSW 2143</p>
 			</div>
@@ -679,10 +704,10 @@ var WRInitTime=(new Date()).getTime();
   	 
 
 <div class="nav_sub10">
-    <ul id="to_centre" class="sf-menu">
+    <ul id="to_centre" class="sf-menu sf-js-enabled" style="margin-left: 7px;">
 
         <li class="nav01 first-node"><a class="top" href="/Kitchenware_C35.cfm">Home, garden <span>&amp; pets</span></a>       
-			<ul class="column1 nav01">
+			<ul class="column1 nav01" style="display: none; visibility: hidden;">
             	<div class="menu_img" id="menu_nav01"></div>
               <li class="insprMenu">
                 <span class="firstItem"><a class="insprItem" href="/Kitchenware_C35.cfm?sort=Popularity">Browse All</a></span>
@@ -693,7 +718,7 @@ var WRInitTime=(new Date()).getTime();
                 <span class="lastItem"><a class="insprItem" href="/Kitchenware_C35.cfm?sort=CheapestFirst">Cheapest</a></span>
               </li>              
             </ul>    
-            <ul class="column2 nav01">
+            <ul class="column2 nav01" style="display: none; visibility: hidden;">
               <li class="firstList"><a href="/Home-Appliances-Online_C93.cfm">Appliances &amp; Whitegoods</a></li>
               <li><a href="/Cookware-Dining_C6553.cfm">Cookware &amp; Dining</a></li>
               <li><a href="/Bedding-Manchester_C852.cfm">Bedding &amp; Bath</a></li>
@@ -702,7 +727,7 @@ var WRInitTime=(new Date()).getTime();
               <li><a href="/Home-Decor_C285.cfm">Home Décor</a></li>
               <li><a href="/Storage-Organisation_C875.cfm">Storage &amp; Organisation</a></li>
             </ul>
-            <ul class="column3 nav01">                
+            <ul class="column3 nav01" style="display: none; visibility: hidden;">                
               <li class="firstList"><a href="/Pet_Supplies_C943.cfm">Pet Supplies</a></li>
               <li><a href="/Picnic_BBQ_C500.cfm">BBQ</a></li>
               <li><a href="/Garden-Lawn-Products_C1127.cfm">Garden &amp; Lawn</a></li>
@@ -710,13 +735,13 @@ var WRInitTime=(new Date()).getTime();
               <li><a href="/Luggage-Travel-Bags_C457.cfm">Luggage &amp; Travel</a></li>
               <li><a href="/Gifts_C2281.cfm">Gifts &amp; Novelty</a></li>
               <li><a href="/Musical-Instruments_C6.cfm">Musical Instruments</a></li>
-                          
+              <li><a href="/Christmas-Lights-Decorations_C3600.cfm">Christmas Lights &amp; Decorations</a></li>            
             </ul>
 		</li>
       
       
         <li class="nav02"><a class="top" href="/Electronics_C2.cfm">Electronics &amp; <span>Computers</span></a>
-        	<ul class="column1 nav02">
+        	<ul class="column1 nav02" style="display: none; visibility: hidden;">
             	<div class="menu_img" id="menu_nav02"></div>
               <li class="insprMenu">
                 <span class="firstItem"><a class="insprItem" href="/Electronics_C2.cfm?sort=Popularity">Browse All</a></span>
@@ -727,7 +752,7 @@ var WRInitTime=(new Date()).getTime();
                 <span class="lastItem"><a class="insprItem" href="/Electronics_C2.cfm?sort=CheapestFirst">Cheapest</a></span>
               </li> 
             </ul>
-            <ul class="column2 nav02">
+            <ul class="column2 nav02" style="display: none; visibility: hidden;">
               <li class="firstList"><a href="/TVs-Video_C6552.cfm">TVs &amp; Video</a></li>
               <li><a href="/DVD-Home-Theatre_C1295.cfm">Home Audio &amp; Home Theatre</a></li>
               <li><a href="/Cameras-Video_C76.cfm">Camera &amp; Video</a></li>
@@ -736,7 +761,7 @@ var WRInitTime=(new Date()).getTime();
               <li><a href="/Phones_C50.cfm">Phones &amp; Communication </a></li>
               <li><a href="/DJ-Equipment_C1527.cfm">DJ Equipment</a></li>             
         	</ul>
-        	<ul class="column3 nav02">
+        	<ul class="column3 nav02" style="display: none; visibility: hidden;">
               <li class="firstList"><a href="/Computers-Laptops_C395.cfm">Computers &amp; Accessories</a></li>
               <li><a href="/Printer-Cartridges_C1921.cfm">Printer Cartridges </a></li>
               <li><a href="/backup-storage-drive_C105.cfm">Backup &amp; Storage</a></li>
@@ -748,7 +773,7 @@ var WRInitTime=(new Date()).getTime();
 		</li>
       
         <li class="nav03"><a class="top" href="/Sports_Fitness_Equipment_C27.cfm">Sports &amp; <span>Outdoors</span></a>
-        	<ul class="column1 nav03">
+        	<ul class="column1 nav03" style="display: none; visibility: hidden;">
             	<div class="menu_img" id="menu_nav03"></div>
               <li class="insprMenu">
                 <span class="firstItem"><a class="insprItem" href="/Sports_Fitness_Equipment_C27.cfm?sort=Popularity">Browse All</a></span>
@@ -759,16 +784,16 @@ var WRInitTime=(new Date()).getTime();
                 <span class="lastItem"><a class="insprItem" href="/Sports_Fitness_Equipment_C27.cfm?sort=CheapestFirst">Cheapest</a></span>
               </li> 
             </ul>
-        	<ul class="column2 nav03">
+        	<ul class="column2 nav03" style="display: none; visibility: hidden;">
               <li class="firstList"><a href="/Exercise-Machines-Fitness-Equipment_C110.cfm">Exercise &amp; Fitness</a></li>
               <li><a href="/Golf-Equipment_C266.cfm">Golf Equipment</a></li>
               <li><a href="/Cricket-Equipment_C1962.cfm">Cricket Equipment</a></li>
               <li><a href="/Sports_C1323.cfm">Sports Equipment</a></li>
               <li><a href="/Bicycles_Bikes_C29.cfm">Cycling </a></li>
               <li><a href="/Pool-Beach_C1449.cfm">Pool &amp; Beach</a></li>
-              <li><a href="/Roosters-NRL_C1794.cfm">Memorabilia &amp; Merchandise</a></li>                        
+              <li><a href="/Sports-Memorabilia_C2173.cfm">Memorabilia &amp; Merchandise</a></li>                        
 			   </ul>
-            <ul class="column3 nav03">
+            <ul class="column3 nav03" style="display: none; visibility: hidden;">
               <li class="firstList"><a href="/Outdoor_Camping_C89.cfm">Camping &amp; Hiking</a></li>
               <li><a href="/Outdoor-Furniture-Chairs_C6554.cfm">Outdoor Chairs &amp; Furniture</a></li>
               <li><a href="/Gazebos-Party-Tents-Sun-Shades_C6024.cfm">Gazebos &amp; Sun Shades</a></li>
@@ -778,7 +803,7 @@ var WRInitTime=(new Date()).getTime();
         </li>
 
         <li class="nav04"><a class="top" href="/Toys-Kids-Baby-Products-Toy_C42.cfm">Toys &amp;<span>Baby</span></a>        
-        	<ul class="column1 nav04">
+        	<ul class="column1 nav04" style="display: none; visibility: hidden;">
             	<div class="menu_img" id="menu_nav04"></div>
               <li class="insprMenu">
                 <span class="firstItem"><a class="insprItem" href="/Toys-Kids-Baby-Products-Toy_C42.cfm?sort=Popularity">Browse All</a></span>
@@ -789,7 +814,7 @@ var WRInitTime=(new Date()).getTime();
                 <span class="lastItem"><a class="insprItem" href="/Toys-Kids-Baby-Products-Toy_C42.cfm?sort=CheapestFirst">Cheapest</a></span>
               </li> 
             </ul>
-            <ul class="column2 nav04">
+            <ul class="column2 nav04" style="display: none; visibility: hidden;">
               <li class="firstList"><a href="/Toys_C290.cfm">Toys</a></li>
               <li><a href="/Ride-On-Push-Toys_C1235.cfm">Bikes &amp; Ride Ons</a></li>
               <li><a href="/Sports-Outdoor-Play_C915.cfm">Sports &amp; Outdoor Play</a></li>
@@ -798,7 +823,7 @@ var WRInitTime=(new Date()).getTime();
               <li><a href="/Games-Puzzles_C6565.cfm">Games &amp; Puzzles</a></li>
               <li><a href="/Arts_and_Crafts_C824.cfm">Arts &amp; Crafts</a></li>                        
 			</ul>
-			<ul class="column3 nav04">
+			<ul class="column3 nav04" style="display: none; visibility: hidden;">
               <li class="firstList"><a href="/Baby-Products_C88.cfm">Baby</a></li>
               <li><a href="/Baby-Toys_C1388.cfm">Baby Toys &amp; Activities</a></li>
               <li><a href="/strollers-baby-prams_C1384.cfm">Baby Strollers &amp; Prams</a></li>
@@ -812,7 +837,7 @@ var WRInitTime=(new Date()).getTime();
         </li>
       
         <li class="nav05"><a class="top" href="/Wine_C1088.cfm">Wine, Beer &amp; <span>Spirits</span></a>
-        	<ul class="column1 nav05">
+        	<ul class="column1 nav05" style="display: none; visibility: hidden;">
             	<div class="menu_img" id="menu_nav05"></div>
               <li class="insprMenu">
                 <span class="spaceHolder"></span>
@@ -824,7 +849,7 @@ var WRInitTime=(new Date()).getTime();
                 <span class="lastItem right"><a class="insprItem" href="/Wine_C1088.cfm?sort=CheapestFirst">Cheapest</a></span>
               </li> 
             </ul>
-        	<ul class="column2 nav05">
+        	<ul class="column2 nav05" style="display: none; visibility: hidden;">
               <li class="firstList"><a href="/Red-Wine_C1413.cfm">Red Wine </a></li>
               <li><a href="/White-Wine_C1414.cfm">White Wine </a></li>
               <li><a href="/Mixed-Dozens_C1415.cfm">Wine Mixed Packs </a></li>
@@ -834,7 +859,7 @@ var WRInitTime=(new Date()).getTime();
               <li><a href="/Wine-Bar-Accessories_C1466.cfm">Wine Accessories</a></li>
               <li><a href="/Wine-Storage_C6479.cfm">Wine Storage</a></li>                          
 			</ul>
-            <ul class="column3 nav05">
+            <ul class="column3 nav05" style="display: none; visibility: hidden;">
               <li class="firstList"><a href="/Beer_C1733.cfm">Beer</a></li>
               <li><a href="/Cider_C6483.cfm">Cider</a></li>
               <li><a href="/Wine_C1088.cfm">Sake</a></li>
@@ -846,7 +871,7 @@ var WRInitTime=(new Date()).getTime();
         </li>
   
         <li class="nav06"><a class="top" href="/Fragrances-Beauty_C2447.cfm">Health &amp; <span>Beauty</span></a>
-			     <ul class="column1 nav06">
+			     <ul class="column1 nav06" style="display: none; visibility: hidden;">
             	<div class="menu_img" id="menu_nav06"></div>
               <li class="insprMenu">
                 <span class="spaceHolder"></span>
@@ -858,7 +883,7 @@ var WRInitTime=(new Date()).getTime();
                 <span class="lastItem"><a class="insprItem" href="/Fragrances-Beauty_C2447.cfm?sort=CheapestFirst">Cheapest</a></span>
               </li> 
             </ul>
-            <ul class="column2 nav06">
+            <ul class="column2 nav06" style="display: none; visibility: hidden;">
               <li class="firstList"><a href="/Womens-Perfumes_C85.cfm">Womens Perfumes</a></li>
               <li><a href="/Mens_Fragrances_C84.cfm">Mens Fragrances</a></li>
               <li><a href="/Make-Up_C2004.cfm">Makeup</a></li>
@@ -866,7 +891,7 @@ var WRInitTime=(new Date()).getTime();
               <li><a href="/Health-Personal-Care_C1450.cfm">Personal Care</a></li>
               <li><a href="/Mens-Grooming_C2035.cfm">Men's Grooming</a></li>             
 			     </ul>
-			<ul class="column3 nav06">
+			<ul class="column3 nav06" style="display: none; visibility: hidden;">
               <li class="firstList"><a href="/Massage-equipment_C40.cfm">Massage Equipment</a></li>
               <li><a href="/Health_and_Wellbeing_C391.cfm">Health &amp; Wellbeing</a></li>
               <li><a href="/Tanning_C3968.cfm">Tanning Equipment</a></li>
@@ -874,8 +899,8 @@ var WRInitTime=(new Date()).getTime();
 			</ul>       
         </li>
 
-       <li class="nav07"><a class="top" href="/Fashion-and-Watches_C32.cfm">Fashion &amp; <span>Accessories</span></a>
-            <ul class="column1 nav07">
+       <li class="nav07 last-node"><a class="top" href="/Fashion-and-Watches_C32.cfm">Fashion &amp; <span>Accessories</span></a>
+            <ul class="column1 nav07" style="display: none; visibility: hidden;">
             	<div class="menu_img" id="menu_nav07"></div>
               <li class="insprMenu">
                 <span class="spaceHolder"></span>
@@ -887,14 +912,14 @@ var WRInitTime=(new Date()).getTime();
                 <span class="lastItem"><a class="insprItem" href="/Fashion-and-Watches_C32.cfm?sort=CheapestFirst">Cheapest</a></span>
               </li>  
             </ul>
-            <ul class="column2 nav07">
+            <ul class="column2 nav07" style="display: none; visibility: hidden;">
               <li class="firstList"><a href="/Womens-Fashion_C6444.cfm">Womens Fashion</a></li>
               <li><a href="/Fashion_and_Accessories_C20.cfm">Mens Fashion</a></li>
               <li><a href="/Kids-Fashion_C6509.cfm">Kids Fashion</a></li>
               <li><a href="/Kids-Babies-Fashion_C6407.cfm">Baby Fashion</a></li>
               <li><a href="/Shoes_C223.cfm">Shoes &amp; Footwear</a></li>            
             </ul>
-            <ul class="column3 nav07">
+            <ul class="column3 nav07" style="display: none; visibility: hidden;">
               <li class="firstList"><a href="/Handbags_C380.cfm">Handbags &amp; Purses</a></li>
               <li><a href="/Sunglasses_C1411.cfm">Sunglasses &amp; Eyewear</a></li>
               <li><a href="/Watches_C94.cfm">Watches</a></li>
@@ -905,43 +930,7 @@ var WRInitTime=(new Date()).getTime();
             </ul>
         </li>
 
-       <li class="nav08 last-node"><a class="top" href="/Christmas-Lights-Decorations_C3600.cfm">Christmas <span>Shop</span></a>
-            <ul class="column1 nav08">
-              <div class="menu_img" id="menu_nav08"></div>
-              <li class="insprMenu">
-                <span class="spaceHolder"></span>
-                <span><a class="insprItem" href="/Christmas-Lights-Decorations_C3600.cfm?sort=Popularity">Browse All</a></span>
-                <span><a class="insprItem" href="/Christmas-Lights-Decorations_C3600.cfm?sort=Popularity&amp;OnSale=true&amp;filterhistory=OnSale">On Sale</a></span>
-                <span><a class="insprItem" href="/Christmas-Lights-Decorations_C3600.cfm?sort=NewestFirst">Latest Arrivals</a></span>
-                <span><a class="insprItem" href="/Christmas-Lights-Decorations_C3600.cfm?sort=TopReviewed">Top Reviewed</a></span>
-                <span><a class="insprItem" href="/Christmas-Lights-Decorations_C3600.cfm?sort=Popularity">Top Sellers</a></span>
-                <span class="lastItem"><a class="insprItem" href="/Christmas-Lights-Decorations_C3600.cfm?sort=CheapestFirst">Cheapest</a></span>
-              </li>  
-            </ul>
-            <ul class="column2 nav08">
-              <li class="firstList"><a href="/Christmas-Lights_C3606.cfm">Christmas Lights</a></li>
-              <li><a href="/Christmas-LED-Lights_C5943.cfm">Christmas Solar Lights</a></li>
-              <li><a href="/Christmas-LED-Lights_C5944.cfm">Christmas LED Lights</a></li>
-              <li><a href="/Novelty-LED-Lights_C6610.cfm">Novelty LED Lights</a></li>
-              <li><a href="/Christmas-LED-Lights_C6275.cfm">LED Christmas Trees</a></li>
-              <li><a href="/Christmas-Lights_C3601.cfm">Christmas LED Rope Lights</a></li>
-              <li><a href="/Silhouette-Rope-Lights_C5942.cfm">Christmas Silhouette Rope Lights</a></li>
-              <li><a href="/Garden-LED-lights_C5945.cfm">Christmas Garden LED Path Lights</a></li>             
-            </ul>
-            <ul class="column3 nav08">
-              <div class="xmasBox">
-                <span>Christmas Gift Shopping</span>
-                <div id="menuGiftFinder"><a href="/giftfinder">Our Easy <strong>Gift Finder</strong></a></div>
-                <div id="menuGiftCerts"><a href="/Online_Gift_Certificates_C387.cfm">Instant <strong>Gift Certificates</strong></a></div>
-                <div id="menuPersonalisedProducts"><a href="/Personalised-Product_C6329.cfm">Personalised Gifts</a></div>
-              </div>
-              <li class="firstList"><a href="/Christmas-Decorations_C6295.cfm">Christmas Decorations</a></li>
-              <li><a href="/Christmas-Trees_C5935.cfm">Christmas Trees</a></li>
-              <li><a href="/Christmas-Inflatables_C5947.cfm">Christmas Inflatables</a></li>
-              <li><a href="/Christmas-Novelty_C5946.cfm">Christmas Novelty</a></li>
-                          
-            </ul>
-        </li>              
+             
 
     </ul>
  </div>  
@@ -960,61 +949,11 @@ CentreNav();
 
 
 
-				
-					<script>
-					
-						var windowWidth = $(window).width();
-						if( windowWidth >= ( 1220 ) )
-						{
-							
-
-								
-								var ppdiv1 = $( '<div id="ppbgclick_left"  class="ppbgclick" > <a href="/newsletters/" >&nbsp;</a>	</div>');
-								var ppdiv2 = $( '<div id="ppbgclick_right"  class="ppbgclick" ><a href="/newsletters/" >&nbsp;</a>	</div>');
-								ppdiv1.appendTo('#site');
-								ppdiv2.appendTo('#site');
-								var offset = ((windowWidth - 955) / 2) - 165;
-								ppdiv1.css( 'left',offset );
-								
-									ppdiv2.css( 'right', offset);
-								
-							
-								$(window).resize( function(){
-									var windowWidth = $(window).width();
-									var offset = ((windowWidth - 955) / 2) - 165;
-									ppdiv1.css( 'left',offset );
-									
-										ppdiv2.css( 'right', offset);
-									
-									
-								});
-							
-						}
-						
-
-					</script>
-				
-			
 
 
 
 
 
-
-
-	
-	<script type="text/javascript">
-		  var _gaq = _gaq || [];
-		  _gaq.push(['_setAccount', 'UA-524225-1']);
-		  _gaq.push(['_setDomainName', 'oo.com.au']);
-		  _gaq.push(['_trackPageview']);
-		
-		  (function() {
-		    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-		    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-		    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-		  })();
-	</script>
 
 
 
@@ -1042,7 +981,65 @@ CentreNav();
 	
 
 
+
+
+<script>
+	var breadcrumb = '';
+	$('#breadcrumbs span').each( function(){ 
+
+		name = $(this).text().replace(/ /g,'').toLowerCase(); 
+		breadcrumb += '>' + name;
+
+	});
+	breadcrumb = breadcrumb.replace('>','');
+	dataLayer.push({'breadCrumbs': breadcrumb});
+</script>
+
+
+<script>
+	dataLayer.push({"pageName":"www.oo.com.au:privacy-policy"});
+	dataLayer.push({'event': 'checkUserLogin'}); //This event is used to trigger some tags which need to be fired before other tags
+	dataLayer.push({'event': 'checkEvent'});
+</script>
+
+
+
+
+	
+	<script type="text/javascript">
+		  var _gaq = _gaq || [];
+		  _gaq.push(['_setAccount', 'UA-524225-1']);
+		  _gaq.push(['_setDomainName', 'oo.com.au']);
+		  _gaq.push(['_trackPageview']);
+		
+			
+
+							  (function() {
+							    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+							    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+							    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+							  })();
+	</script>
+
+
+
 <script type="text/javascript">
+
+               
+                    if(ooidn.SiteVisit.IsFirst ){
+                    	if( Math.random() >= 0.5)
+                    	{
+                        	_fnDisplaySubPopupBG();
+                        	cmCreateElementTag( '1', 'SW_PU');
+                    	}
+                    	else
+                    	{
+							cmCreateElementTag( '0', 'SW_PU');
+                    	}
+                    } 
+                        
+
+
 $(window).load( function(){
 		$LAB.script( function(){ initQuickView(); } );
 	});
@@ -1074,9 +1071,7 @@ $(window).load( function(){
 				
 					{ event: "setCustomerId", id: 194295519 },
 				
-					{ event: "setSiteType", type: "d" },
-				
-					{ event: "setData", chnl: "other" }
+					{ event: "setSiteType", type: "d" }
 				
 				);
 		</script>
@@ -1118,7 +1113,7 @@ $(window).load( function(){
 </script>
 
 
-<script type="text/javascript">if (!NREUMQ.f) { NREUMQ.f=function() {NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:") + "//" + "js-agent.newrelic.com/nr-100.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-5.newrelic.com","e236a9be15","2794439","MgFUNkUEVxBRVEIIXAtLZQdFE1UGRBh1B142AUQUWwBN",0,67,new Date().getTime(),"","","","",""]);</script>
+<script type="text/javascript">if (!NREUMQ.f) { NREUMQ.f=function() {NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:") + "//" + "js-agent.newrelic.com/nr-100.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-5.newrelic.com","e236a9be15","2794439","MgFUNkUEVxBRVEIIXAtLZQdFE1UGRBh1B142AUQUWwBN",0,121,new Date().getTime(),"","","","",""]);</script>
 
 		
 	<script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
