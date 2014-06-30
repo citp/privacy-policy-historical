@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the sokanu.com privacy policy that was archived on 2013-11-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131116061006id_/http%3A//www.sokanu.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sokanu.com privacy policy that was archived on 2014-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140630155235id_/http%3A//www.sokanu.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://cdn.mxpnl.com/libs/mixpanel-2.2.min.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
+<!DOCTYPE html><html><head><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://cdn.mxpnl.com/libs/mixpanel-2.2.min.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o?o:n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({D5DuLP:[function(t,n){function e(t,n){var e=r[t];return e?e.apply(this,n):(o[t]||(o[t]=[]),void o[t].push(n))}var r={},o={};n.exports=e,e.queues=o,e.handlers=r},{}],handle:[function(t,n){n.exports=t("D5DuLP")},{}],G9z0Bl:[function(t,n){function e(){var t=l.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&p&&p.body){l.proto="https"===f.split(":")[0]||t.sslForHttp?"https://":"http://",i("mark",["onload",a()]);var n=p.createElement("script");n.src=l.proto+t.agent,p.body.appendChild(n)}}function r(){"complete"===p.readyState&&o()}function o(){i("mark",["domContent",a()])}function a(){return(new Date).getTime()}var i=t("handle"),u=window,p=u.document,s="addEventListener",c="attachEvent",f=(""+location).split("?")[0],l=n.exports={offset:a(),origin:f,features:[]};p[s]?(p[s]("DOMContentLoaded",o,!1),u[s]("load",e,!1)):(p[c]("onreadystatechange",r),u[c]("onload",e)),i("mark",["firstbyte",a()])},{handle:"D5DuLP"}],loader:[function(t,n){n.exports=t("G9z0Bl")},{}]},{},["G9z0Bl"]);</script>
         <title>Privacy</title>
 
         <!-- Bootstrap -->
@@ -9,9 +9,10 @@
 
         <!-- Big Sokanu Stylesheet -->
         <link rel="stylesheet" href="https://sokanu.s3.amazonaws.com/compiled_css/global/global.css">
+        <link rel="stylesheet" href="https://sokanu.s3.amazonaws.com/sokanu/compiled/styles/navbar.css">
 
-        <!-- Stylesheet for the browser that eats glue in the corner -->
-        <!--[if lt IE 9]><link rel="stylesheet" href="https://sokanu.s3.amazonaws.com/compiled_css/ie/unstylish-sheet.css"><![endif]-->
+        <!-- Stylesheet for the internet explorer versions 8 and below -->
+        <!--[if lt IE 9]><link rel="stylesheet" href="https://sokanu.s3.amazonaws.com/sokanu/compiled/styles/ie8.css"><![endif]-->
 
         <!-- Favicon -->
         <link rel="icon" type="image/x-icon" href="https://sokanu.s3.amazonaws.com/img/favicon.ico">
@@ -20,6 +21,9 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
         <meta name="apple-mobile-web-app-capable" content="yes">
 
+        <!-- jQuery -->
+        <script src="https://sokanu.s3.amazonaws.com/lib/jquery/jquery-min.js"></script>
+
         <!-- Extra Head Information -->
         
     
@@ -27,50 +31,80 @@
     <body class="s-logged-out">
         <div id="fb-root"></div> <!-- required for any facebook UI interaction -->
 
-        <header class="navbar site-navbar red-toolbar ">
-            <div class="l-no_stack l-col3">
-                <h1 class="brand"><a href="/" track="mixpanel" data-target="Home">sokanu</a></h1>
-            </div>
-            <nav class="global_nav l-pull-left">
-                <h1 class="hidden">Global Navigation</h1>
-                <ul class="nav-list">
-                    
+        <div class="navbar navbar-sokanu logged-in-False" role="navigation">
 
-                        
-                            <li>
-                                <a class="white" href="/register/" track="mixpanel" data-target="Register">
-                                    <i class="global_nav-icon icon-bolt"></i> <span class="global_nav-link">Sign Up</span>
-                                </a>
-                            </li>
-                            <li>
-                                <a class="white" href="/login/?next=/privacy/" track="mixpanel" data-target="Login">
-                                    <i class="global_nav-icon icon-key"></i> <span class="global_nav-link">Login</span>
-                                </a>
-                            </li>
-                            <li>
-                                <a class="white" href="/matches/" track="mixpanel" data-target="Matches">
-                                    <i class="global_nav-icon icon-heart"></i> <span class="global_nav-link">Matches</span>
-                                </a>
-                            </li>
-                        
-                    
-                </ul>
-            </nav>
-            
-            
-                <form class="l-pull-right navbar-search" action="/search/" method="GET">
-                    <input class="navbar-search-input" type="search" placeholder="Find careers and people" name="q">
-                    <input type="submit" class="hidden">
-                </form>
-                <a data-toggle-mobile-menu="" class="main-menu--toggle l-pull-right"><i class="icon icon-reorder"></i></a>
-            
-        </header>
+  <div class="navbar-header">
+
+    <!-- mobile nav button -->
+    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#site-nav">
+      <span class="sr-only">toggle navigation</span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+      <span class="icon-bar"></span>
+    </button>
+
+    <a class="navbar-brand" href="/" track="mixpanel" data-target="Home">sokanu</a>
+
+  </div>
+
+  <!-- everything in this container collapses into the mobile menu -->
+  <div class="collapse navbar-collapse" id="site-nav">
+
+    
+<!-- global navigation -->
+    <ul class="nav navbar-nav">
+      
+
+      <li><a href="/careers/" class="" track="mixpanel" data-target="Careers">Careers</a></li>
+
+      
+      
+      <li><a href="/community/" class="" track="mixpanel" data-target="Community">Community</a></li>
+      
+
+      
+
+      
+
+      
+        <li><a href="/register/" class="" track="mixpanel" data-target="Register">Sign Up</a></li>
+        <li><a href="/login/?next=/privacy/" class="" track="mixpanel" data-target="Login">Log In</a></li>
+      
+    </ul>
+    <!-- end global navigation -->
+
+    <!-- account dropdown -->
+    
+    <!-- end account dropdown -->
+
+    <!-- autocompleting search for careers and members -->
+    <form class="navbar-form navbar-right navbar-sokanu-search" role="search" action="/careers/">
+      <div class="form-group">
+        <span class="twitter-typeahead">
+          <input type="text" class="form-control search-input" placeholder="Search" value="" name="search">
+        </span>
+      </div>
+      <button type="submit" class="btn btn-default">
+        <span class="glyphicon glyphicon-search"></span>
+        <span class="glyphicon glyphicon-remove"></span>
+        <span class="glyphicon glyphicon-ok"></span>
+      </button>
+    </form>
+    <!-- end search -->
+
+
+  </div>
+  <!-- end navbar collapse -->
+</div>
+
+
+
 
         <div class="body clearfix ">
             
             
-<div class="l-container--adaptive">
-
+    <div class="l-container--article">
+    
     <h1>Privacy</h1>
 
     <p> The Privacy Policy describes Sokanu's policies and procedures regarding
@@ -121,7 +155,7 @@
     settings with these third party social media web sites.</p>
 
     <h2>Information Sharing and Disclosure</h2>
-    
+
     <p> We use the information we collect to make the Sokanu Site
     available to our users, to measure the use of the Sokanu Site,
     to improve the Sokanu Site, and to provide you with customer
@@ -183,71 +217,53 @@
     <p> If you have any questions or concerns about the online privacy
     statement for this site or its implementation you may contact
     us <a href="mailto:contact@sokanu.com">here</a>.</p>
-</div>
+
+    </div>
 
         </div>
 
-        <ul class="mobile-menu">
-            <li>
-                <form action="/search/" method="GET">
-                    <input class="mobile-menu--search" type="search" placeholder="Find people and careers" name="q">
-                    <input type="submit" class="hidden">
-                </form>
-            </li>
+        
+    <footer class="l-container global-footer">
+        <p class="global-footer-copyright">© Sokanu 2014</p>
+        <ul class="nav-list">
             
-                <li>
-                    <a class="mobile-menu--link" href="/matches/">
-                        <i class="icon-heart"></i>
-                        Matches
-                        <span class="mobile-menu--link-caption t-small">Browse all careers</span>
-                    </a>
-                </li>
-                <li>
-                    <a class="mobile-menu--link" href="/login/">
-                        <i class="icon-key"></i>
-                        Login
-                    </a>
-                </li>
-                <li>
-                    <a class="mobile-menu--link" href="/register/">
-                        <i class="icon-bolt"></i>
-                        Register
-                    </a>
-                </li>
+                <li><a class="global-footer-link" href="/about/">About Us</a></li>
+                <li><a class="global-footer-link" href="/contact/">Contact</a></li>
+                <li><a class="global-footer-link" href="http://blog.sokanu.com">Blog</a></li>
+                <li><a class="global-footer-link" href="/work/">Work At Sokanu</a></li>
+                <li><a class="global-footer-link" href="/press/">Press</a></li>
+                <li><a class="global-footer-link" href="/advertising/">Partnerships</a></li>
+                <li><a class="global-footer-link" href="/privacy/">Privacy</a></li>
+                <li><a class="global-footer-link" href="/terms/">Terms</a></li>
             
         </ul>
+    </footer>
 
-        
-            <footer class="l-container global_footer">
-                <p class="global_footer-copyright">© Sokanu 2013</p>
-                <ul class="nav-list responsive">
-                    
-                        <li><a class="global_footer-link" href="/about/">About Us</a></li>
-                        <li><a class="global_footer-link" href="/contact/">Contact</a></li>
-                        <li><a class="global_footer-link" href="/wlw/">Blog</a></li>
-                        <li><a class="global_footer-link" href="/work/">Work With Us</a></li>
-                        <li><a class="global_footer-link" href="/press/">Press</a></li>
-                        <li><a class="global_footer-link" href="/advertising/">Partnerships</a></li>
-                        <li><a class="global_footer-link" href="/privacy/">Privacy</a></li>
-                        <li><a class="global_footer-link" href="/terms/">Terms</a></li>
-                        <li><a href="http://mixpanel.com/f/partner"><img src="http://mixpanel.com/site_media/images/partner/badge_light.png" alt="Mobile Analytics"></a></li>
-                    
-                </ul>
-            </footer>
-        
 
-        <!-- Globally Accessible Variables -->
+        <!-- important global variables for javascript on the page -->
         <script>
-            window.user_id = false;
-            window.STATIC_URL = "https://sokanu.s3.amazonaws.com/";
-            window.DEBUG = false;
-
-            // Globally accessible faecbook app id reference (required for FB.ui calls)
-            window.FACEBOOK_APP_ID = "263514677100821";
+            var user_id = window.user_id = false,
+                STATIC_URL = window.STATIC_URL = "https://sokanu.s3.amazonaws.com/",
+                DEBUG = window.DEBUG = false,
+                FACEBOOK_APP_ID = window.FACEBOOK_APP_ID = "263514677100821";
         </script>
 
         <!-- jQuery -->
         <script src="https://sokanu.s3.amazonaws.com/lib/jquery/jquery-min.js"></script>
+
+        <!-- bootstrap -->
+        <script src="https://sokanu.s3.amazonaws.com/lib/bootstrap31/javascripts/bootstrap.min.js"></script>
+
+        <!-- Older browser support -->
+        <script src="https://sokanu.s3.amazonaws.com/lib/modernizr.js"></script>
+        <!--[if lt IE 9]>
+            <script src="https://sokanu.s3.amazonaws.com/js/array.js"></script>
+            <script src="https://sokanu.s3.amazonaws.com/lib/respond/respond.min.js"></script>
+            <script src="https://sokanu.s3.amazonaws.com/lib/placeholders.js"></script>
+        <![endif]-->
+
+        <!-- Main JS File -->
+        <script data-main="https://sokanu.s3.amazonaws.com/compiled_js/main" src="https://sokanu.s3.amazonaws.com/lib/require/require.min.js"></script>
 
         <!-- Mixpanel -->
         <!-- start Mixpanel -->
@@ -258,77 +274,7 @@ mixpanel.init("7d3d3d7f76b416df31df49815b670e19");</script><!-- end Mixpanel -->
 
 
 <!-- end Mixpanel -->
-        <script type="text/javascript">
-    // determine if user has just entered site from a campaign we are running
-    var campaign = undefined;
-    var campaign_details = "";
-    var campaign_cost = 0.00;
 
-    // used to decode properties of URL
-    // source: http://stackoverflow.com/questions/1403888/get-url-parameter-with-jquery
-    function getURLParameter(name) {
-        return decodeURIComponent(
-            (location.search.match(RegExp("[?|&]"+name+'=(.+?)(&|$)'))||[,null])[1]
-        );  
-    }
-
-    // determine if traffic originates from a campagin
-    if( document.referrer.indexOf("stumbleupon.com") > -1 ) {
-        campaign = "StumbleUpon";
-        if( document.referrer.indexOf("/high/") > -1 ) {
-            campaign_details = "StumbleUpon High";
-            campaign_cost = 0.25;
-        } else if( document.referrer.indexOf("/medium/") > -1 ) {
-            campaign_details = "StumbleUpon Medium";
-            campaign_cost = 0.10;
-        } else {
-            campaign_details = "StumbleUpon Low";
-            campaign_cost = 0.05;
-        }
-    } else if( document.referrer.indexOf("www.google.") > -1 ) {
-        campaign = "Google Search";
-    } else if ( getURLParameter("utm_source") == "facebook" ) {
-        // direct facebook link ad
-        var ad_type = getURLParameter("utm_campaign");
-
-        campaign = "Facebook Ad";
-        campaign_details = "Ad Type: " + ((ad_type == "null") ? "Generic" : ad_type);
-        campaign_cost = 0.15;
-    } else if( document.referrer.indexOf("facebook.com") > -1 ) {
-        // facebook action or ad
-        campaign = "Facebook";
-
-        var source = getURLParameter("fb_source");
-        if( source == "appcenter" ) {
-            campaign_details = "Facebook App Center";
-        } else if ( source == "notification" ) {
-            campaign_details = "Facebook Invite";
-        } else if ( (source == "timeline_og") || (source == "feed_opengraph") || (source == "ticker") ) {
-            campaign_details = "Facebook Open Graph";
-        } else if ( source == "search" ) {
-            // no way to distinguish between paid and free searches, as far as i can tell
-            campaign_details = "Facebook Search";
-        } else if ( (source == "null") && (document.referrer.indexOf("apps.facebook.com") > -1) ) {
-            // there needs to be a better way to track this
-            campaign = "Facebook Ad";
-            campaign_details = "Ad Type: Generic";
-            campaign_cost = 0.15;
-        } else {
-            // don't track any other facebook sources
-            campaign_details = "Facebook " + source;
-        }
-    }
-
-    // if a campaign was found, track it
-    if( campaign ) {
-        // track google
-        mixpanel.register({"Campaign": campaign, "Campaign Details": campaign_details, "Campaign Cost": campaign_cost});
-        mixpanel.track("Campaign Visit", {"Campaign": campaign, "Campaign Details": campaign_details, "Campaign Cost": campaign_cost, "Domain Path": document.location.pathname});
-    }
-</script>
-
-        <!-- Main JS File -->
-        <script data-main="https://sokanu.s3.amazonaws.com/compiled_js/main" src="https://sokanu.s3.amazonaws.com/lib/require/require.min.js"></script>
 
         <!-- Javascript Error Tracking -->
         <script type="text/javascript">
@@ -391,9 +337,16 @@ mixpanel.init("7d3d3d7f76b416df31df49815b670e19");</script><!-- end Mixpanel -->
     }
 </script>
 
+        <!-- Typekit Fonts -->
+        <script src="//use.typekit.net/msz5mtv.js"></script>
+        <script>try{Typekit.load();}catch(e){}</script>
+
+        <!-- Extra page-specific JS -->
+        
+
         <!--- AJAX CSRF setup -->
         
-<input type="hidden" name="csrfmiddlewaretoken" value="om7PRfTW4GBrq51ctANUfDvcCboD6keB">
+<input type="hidden" name="csrfmiddlewaretoken" value="F1hJetCEUNti1EonXHsSHeaixR8ptkkp">
 
 <script type="text/javascript">
     // using jQuery
@@ -447,18 +400,6 @@ mixpanel.init("7d3d3d7f76b416df31df49815b670e19");</script><!-- end Mixpanel -->
     ajaxCSRFSetup();
 </script>
 
-        <!-- Typekit Fonts -->
-        <script src="https://use.typekit.com/dhl3xrt.js"></script>
-        <script>try{Typekit.load();}catch(e){}</script>
-
-        <!-- Extra page-specific JS -->
-        
-
-        <!-- HTML5 and media query shims for IE8 -->
-        <!--[if lt IE 9]>
-                <script src="https://sokanu.s3.amazonaws.com/lib/modernizr.js"></script>
-                <script src="https://sokanu.s3.amazonaws.com/lib/respond/respond.min.js"></script>
-        <![endif]-->
 
         <!-- Google Analytics -->
         <script>
@@ -473,6 +414,44 @@ mixpanel.init("7d3d3d7f76b416df31df49815b670e19");</script><!-- end Mixpanel -->
                 var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
               })();
         </script>
-    <script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:")+"//"+"js-agent.newrelic.com/nr-100.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-6.newrelic.com","f54ad793da","1298261","NFFaYEAHWBBVVk0PCQ0bfkFcBUIKW1sWAgwCWl9bHBBfBkNGFwEDDVFKXVFIVAJHUAMyAw5EVFVGA2AKUUI=",10,25,new Date().getTime(),"","","","",""]);</script>
 
-<script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
+        <!-- search -->
+        <script type="text/javascript" src="https://sokanu.s3.amazonaws.com/lib/twittertypeahead/typeahead.min.js"></script>
+        <script type="text/javascript" src="https://sokanu.s3.amazonaws.com/lib/underscore/underscore-min.js"></script>
+        <script type="text/javascript" src="https://sokanu.s3.amazonaws.com/sokanu/compiled/scripts/search.js"></script>
+        <script type="text/javascript">
+            $(document).ready(function() {
+                $('.search-input').sokanu_search();
+            });
+        </script>
+
+        
+        <script type="text/html" id="search_member_result_template">
+            <div class="navbar-sokanu-search-thumbnail">
+            <img class="circle" src="<%= image %>">
+            </div>
+            <div class="navbar-sokanu-search-title">
+            <div class="valign" style="height: 100%;">
+                <div class="valign--middle">
+                <%= value %>
+                </div>
+            </div>
+            </div>
+        </script>
+
+
+        <script type="text/html" id="search_career_result_template">
+            <div class="navbar-sokanu-search-thumbnail">
+            <img src="<%= image %>">
+            </div>
+            <div class="navbar-sokanu-search-title">
+            <div class="valign" style="height: 100%;">
+                <div class="valign--middle">
+                <%= value %>
+                </div>
+            </div>
+            </div>
+        </script>
+    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"licenseKey":"f54ad793da","applicationTime":67,"errorBeacon":"bam.nr-data.net","transactionName":"NFFaYEAHWBBVVk0PCQ0bfkFcBUIKW1sWAgwCWl9bHBBfBkNGFwEDDVFKXVFIVAJHUAMyAw5EVFVGA2AKUUIXAQMX","queueTime":22,"beacon":"beacon-6.newrelic.com","applicationID":"1298261","agent":"js-agent.newrelic.com/nr-411.min.js"}</script>
+
+<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
