@@ -1,109 +1,188 @@
-> *The following text is extracted and transformed from the raywj.com privacy policy that was archived on 2011-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111220145705id_/http%3A//www.raywj.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raywj.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630224848id_/https%3A//www.google.com/intl/en/policies/privacy) for the most accurate reproduction.*
 
-# » Privacy Policy Ray William Johnson
+# Privacy Policy – Privacy & Terms – Google
 
-## [Privacy Policy](http://www.raywj.com/privacy-policy/ "Privacy Policy")
+[Download PDF version](https://www.google.com/intl/en/policies/privacy/google_privacy_policy_en.pdf)
 
-**PRIVACY POLICY (INCLUDING YOUR CALIFORNIA PRIVACY RIGHTS)**
+There are many different ways you can use our services – to search for and share information, to communicate with other people or to create new content. When you share information with us, for example by creating a [Google Account](https://web.archive.org/web/20140630224848id_/http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-account), we can make those services even better – to show you [more relevant search results](https://web.archive.org/web/20140630224848id_/http://www.google.com/intl/en/policies/privacy/example/more-relevant-search-results.html) and ads, to help you [connect with people](https://web.archive.org/web/20140630224848id_/http://www.google.com/intl/en/policies/privacy/example/connect-with-people.html) or to make [sharing with others quicker and easier](https://web.archive.org/web/20140630224848id_/http://www.google.com/intl/en/policies/privacy/example/sharing-with-others.html). As you use our services, we want you to be clear how we’re using information and the ways in which you can protect your privacy. 
 
-Last Updated April 13, 2011
+Our Privacy Policy explains: 
 
-At [RayWJ.com](http://raywj.com/), we appreciate your readership and respect your privacy. This is the official privacy policy and California privacy rights (referred to collectively herein as our **“Privacy Policy”).** Our Privacy Policy governs the Personal Information (as defined below) collected by this website, but does not cover any other information, whether collected in any other manner or for any other purpose, nor on any other website or service unless specifically stated.
+  * What information we collect and why we collect it. 
+  * How we use that information. 
+  * The choices we offer, including how to access and update information.
 
-**Overview** : Our Privacy Policy is intended to **explain our privacy practices** and inform you as to:
 
-    **The kinds of Personal Information we collect from users and how such Personal Information is collected;**
 
-    **How we use Personal Information;**
+We’ve tried to keep it as simple as possible, but if you’re not familiar with terms like cookies, IP addresses, pixel tags and browsers, then read about these [key terms](https://web.archive.org/web/20140630224848id_/http://www.google.com/intl/en/policies/privacy/key-terms/) first. Your privacy matters to Google so whether you are new to Google or a long-time user, please do take the time to get to know our practices – and if you have any questions [consult this page](http://support.google.com/policies/troubleshooter/2990837?hl=en&rd=2). 
 
-    **The circumstances under which we disclose Personal Information to third parties;**
+## Information we collect
 
-    **How you can access, update or delete any Personal Information we collect about you; and**
+We collect information to provide better services to all of our users – from figuring out basic stuff like which language you speak, to more complex things like which [ads you’ll find most useful](https://web.archive.org/web/20140630224848id_/http://www.google.com/intl/en/policies/privacy/example/ads-youll-find-most-useful.html) or [the people who matter most to you online](https://web.archive.org/web/20140630224848id_/http://www.google.com/intl/en/policies/privacy/example/the-people-who-matter-most.html). 
 
-    **The mechanisms we have implemented to protect your Personal Information.**
+We collect information in two ways: 
 
-If for any reason, you do not agree with our Privacy Policy, please do not use any of this website at all because by doing so, you will have indicated that you have accepted same.
+  * **Information you give us.** For example, many of our services require you to sign up for a Google Account. When you do, we’ll ask for [personal information](https://web.archive.org/web/20140630224848id_/http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-personal-info), like your name, email address, telephone number or [credit card](https://web.archive.org/web/20140630224848id_/http://www.google.com/intl/en/policies/privacy/example/credit-card.html). If you want to take full advantage of the sharing features we offer, we might also ask you to create a publicly visible [Google Profile](http://support.google.com/accounts/bin/answer.py?hl=en&answer=112783), which may include your name and photo. 
 
-We reserve the right to change our Privacy Policy at any time and from time-to-time by posting an updated version on this website, without advance notice to you, or we may, in our sole discretion, send you a message telling you we have made a change (for example, we may, email you about the changes). The changes shall be effective to you immediately upon our posting or when you receive our message, whichever is sooner. We encourage you to check our Privacy Policy often so you are aware of the most current terms and conditions that apply to you.
+  * **Information we get from your use of our services.** We may [collect information](https://web.archive.org/web/20140630224848id_/http://www.google.com/intl/en/policies/privacy/example/collect-information.html) about the services that you use and how you use them, like when you visit a website that uses our advertising services or you [view and interact with our ads](https://web.archive.org/web/20140630224848id_/http://www.google.com/intl/en/policies/privacy/example/view-and-interact-with-our-ads.html) and content. This information includes: 
 
-When we use the term **“Personal Information,” we mean information such as your first/middle initial or name and last name, street address, town or city, state, zip code, mobile device number, telephone number, profile, your photograph or audio-visual images of you, your instant-messenger nickname, blog, vlog or any personal website URL, your date of birth, email address, gender and any other information that would allow someone to identify or contact you. Personal Information also** includes information about your personal preferences, survey responses, and your transactions and interactions with us, if you are or have been a registered user or you have provided this type of information to us. Personal Information may also be contained in postings you post on this website or submit to us or any other user.  If you make purchases on our Site, in addition to your name and contact information, we will also collect and maintain your billing address, shipping address, service or product selections, your credit card or other payment instrument information, your order number, and information about your computer’s internet address and website which may have referred or directed you to our website ( _e.g._ , the referring URL).  Your credit card or debit card number is classified as “Sensitive Personal Information” and is collected via a secure transmission. ****
+    * **[Device information](https://web.archive.org/web/20140630224848id_/http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-device)**
 
-We are committed to protecting our users’ privacy and to keeping Personal Information you share with us through the use of our website secure, including Personal Information we obtain on our website and from your postings, but you understand, acknowledge and agree that we do not and cannot control your postings, nor are or shall we be liable if you post or make any information, about yourself or others, available (including allowing others to use your user ID or failing to protect your user ID from disclosure or use by others), on our website or otherwise. It is also important for us to explain to you how we collect, use, disclose and maintain your Personal Information and help you understand these things. We maintain reasonable physical, electronic and procedural safeguards to protect your Personal Information and while no data transmission which is wireless or mobile or over the Internet is completely secure, we have used and will continue to use commercially reasonable efforts to ensure the protection of your Personal Information.
+We may collect [device-specific information](https://web.archive.org/web/20140630224848id_/http://www.google.com/intl/en/policies/privacy/example/device-specific-information.html) (such as your hardware model, operating system version, [unique device identifiers](https://web.archive.org/web/20140630224848id_/http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-unique-device-id), and mobile network information including phone number). Google may associate your [device identifiers](https://web.archive.org/web/20140630224848id_/http://www.google.com/intl/en/policies/privacy/example/device-identifiers.html) or [phone number](https://web.archive.org/web/20140630224848id_/http://www.google.com/intl/en/policies/privacy/example/phone-number.html) with your Google Account. 
 
-**YOUR CALIFORNIA PRIVACY RIGHTS**
+    * **Log information**
 
-Residents of the State of California, under the California Civil Code, have the right to request from companies conducting business in California, a list of all third parties to which we have disclosed Personal Information during the preceding year for direct marketing purposes. Alternatively, the law provides that if we have a privacy policy that gives either an “opt-out” or “opt-in” choice for use of your Personal Information by third parties (such as advertisers or affiliated companies) for marketing purposes, we may instead provide you with information on how to exercise your disclosure choice options.
+When you use our services or view content provided by Google, we may automatically collect and store certain information in [server logs](https://web.archive.org/web/20140630224848id_/http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-server-logs). This may include: 
 
-We qualify for the alternative option: we have a comprehensive privacy policy and provide you with details on how you may either decline to permit (“opt-out) or consent to (“opt-in”) the use of your Personal Information by third parties for direct marketing purposes. Therefore, we are not required to maintain or disclose a list of the third parties that received your Personal Information for marketing purposes during the preceding year.
+      * details of how you used our service, such as your search queries. 
+      * telephony log information like your phone number, calling-party number, forwarding numbers, time and date of calls, duration of calls, SMS routing information and types of calls. 
+      * [Internet protocol address](https://web.archive.org/web/20140630224848id_/http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-ip). 
+      * device event information such as crashes, system activity, hardware settings, browser type, browser language, the date and time of your request and referral URL. 
+      * cookies that may uniquely identify your browser or your Google Account.
+    * **Location information**
 
-If you are a California resident and request information about how to exercise your third party disclosure choices, you must send a request to the following address with a preference on how our response to your request should be sent (email or postal mail). Send an email to the Privacy Administrator at [Privacy@RayWJ.com](mailto:Privacy@RayWJ.com) or you may contact us via postal mail at:
+When you use a location-enabled Google service, we [may collect and process information about your actual location](https://web.archive.org/web/20140630224848id_/http://www.google.com/intl/en/policies/privacy/example/may-collect-and-process-information.html), like GPS signals sent by a mobile device. We may also use various technologies to determine location, such as sensor data from your device that may, for example, provide information on nearby Wi-Fi access points and cell towers. 
 
-RayWJ.com – Privacy Administrator
+    * **Unique application numbers**
 
-[Privacy@RayWJ.com](mailto:Privacy@RayWJ.com)
+Certain services include a unique application number. This number and information about your installation (for example, the operating system type and application version number) may be sent to Google when you install or uninstall that service or when that service periodically contacts our servers, such as for automatic updates. 
 
-Attn: Your California Privacy Rights
+    * **Local storage**
 
-**All requests sent via postal mail must be labeled “Your California** **Privacy Rights” on the envelope or post card and clearly stated on the actual request.** For all requests, please include your name, street address, city, state, and zip code. (Your street address is optional if you wish to receive a response to your request via email. Please include your zip code for our own recordkeeping.) **We will not accept requests via the telephone or by facsimile.** We are not responsible for notices that are not labeled or sent properly, notices that are illegible or do not have complete information.
+We may collect and store information (including personal information) locally on your device using mechanisms such as [browser web storage](https://web.archive.org/web/20140630224848id_/http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-browser-web-storage) (including HTML 5) and [application data caches](https://web.archive.org/web/20140630224848id_/http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-application-data-cache). 
 
-To all users of the website, if you have any questions about this Privacy Statement, please contact our Privacy Administrator at the address listed above.
+    * **Cookies and anonymous identifiers**
 
-**OUR GENERAL PRIVACY POLICIES**
+We and our partners use various technologies to collect and store information when you visit a Google service, and this may include sending one or more [cookies](https://web.archive.org/web/20140630224848id_/http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-cookie) or [anonymous identifiers](https://web.archive.org/web/20140630224848id_/http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-identifier) to your device. We also use cookies and anonymous identifiers when you interact with services we offer to our partners, such as [advertising services](https://web.archive.org/web/20140630224848id_/http://www.google.com/intl/en/policies/privacy/example/advertising-services.html) or Google features that may appear on other sites.
 
-Please be aware that Personal Information we obtain from you or that you provide to us may be transferred, stored, maintained and used both within and outside the servers, communication and data processing facilities we maintain. By using our website and providing us with Personal Information, you consent to the transfer of your Personal Information and waive any claims that may arise under your own or any other local or national laws, rules or regulation or international treaties. All users of our website are required to provide true, current, complete and accurate Personal Information when prompted and we have the right to refuse or revoke your right to use our website and/or reject and delete any purchase or posting you make, if we have reason to believe information you provide to us is or may be false, fraudulent, or inconsistent with our Privacy Policy. Your continued use of our website indicates your acceptance of our Privacy Policy and of the collection, use, disclosure, maintenance, management and storage of your Personal Information as described. We may from time-to-time, transfer or merge your Personal Information collected off-line to our online databases or store off-line information in an electronic format. We may also combine Personal Information we collect online with information available from other sources, including information received from our advertisers and promotional partners. Our Privacy Policy remains applicable to your Personal Information for as long as your Personal Information is in our possession, even if you terminate or discontinue your use of our website and you acknowledge and agree you will be bound by its terms.
 
-**Collection and Use of Personal Information:** **** We collect Personal Information about you when you use our website, as a user, whether or not you register or enroll or sign up for particular services, games, activities, features or functions, participate in promotions, order goods or services or simply in the course of exchanges of information, transactions and activities (including, but not limited to, posting in our user-generated content areas, which we refer to as **“Postings”** ) in connection withour website.  We may use your Personal Information to tailor your experience on our website, serve content we think may be of relevance to you, to understand your preferences, and among other things, to provide you with offers we think may be of interest to you. It is your responsibility to give us current, complete, truthful, and accurate information and to keep the Personal Information that you provide us up to date. We cannot and shall not be responsible for any problems or liability that may arise if you do not give us accurate, truthful or complete information or you fail to update the information you give us. You are solely responsible for maintaining the confidentiality of your user ID. Bear in mind when you submit information to us, it does not guarantee that we will permit you to register, subscribe and/or participate in or use any or all of the activities, services, features or functions of our site. ****
 
-**Registered Users.** Registered users are required to submit certain Personal Information and maintain a user ID. By registering, you understand, acknowledge and agree you are giving us your consent to track your activities and use of our website. Registered users may be provided with opportunities to subscribe to text-message and/or email newsletters, alerts and other periodic communications and information we may send you. We will always disclose this to you if that is the case and you will be given the opportunity at that time and thereafter, to opt-out of receiving or continuing to receive these. You understand, acknowledge and agree that you are giving us your consent to track your use of our website and all your activities, exchanges of information and transactions in connection with our website you have agreed to receive or participate in as described.
 
-**Promotions and Advertising.** We may make certain advertisements, promotions and offers available on our website and in addition to the additional terms and conditions that may apply, you may be required to submit Personal Information ( _e.g._ , your name, street address, city, state and zip code, email address, telephone number and date of birth) in order to participate.  When you participate in any such promotion or offer, you are also confirming your agreement to comply with all of the additional terms and conditions that apply. We may also make advertisements and promotional material and offers from third parties available on all or certain portions of our website.  You understand, acknowledge and agree that if you respond, take advantage of and/or accept any  offer or redirect or have your browser redirected from our website, or otherwise engage in any transactions or activities with such third parties, their privacy policies, terms and conditions and policies (and not ours) will govern their relationship with you, including, without limitation, the treatment of Personal Information and we shall have no liability therefor, nor do we control or have any responsibility therefor. ****
+## How we use information we collect
 
-**Opt-out Procedures.** We may post notices, advertising and promotional material on our website and/or we may contact you by email or otherwise to send you offers we believe may be of interest to you. You may chose to opt-out of receiving marketing and promotional emails or similar electronic messages from us by sending us an email to [Privacy@RayWJ.com](mailto:Privacy@RayWJ.com) or otherwise following the instructions in the promotional email. We may always contact you via email for administrative or informational purposes, including follow-up messages regarding the administration of your account, any promotions that you have entered or participated in or offers you have accepted or services you have enrolled in or ordered or other transactions you have initiated in connection with our website. ****
+We use the information we collect from all of our services to provide, maintain, protect and improve them, to [develop new ones](https://web.archive.org/web/20140630224848id_/http://www.google.com/intl/en/policies/privacy/example/develop-new-ones.html), and to [protect Google and our users](https://web.archive.org/web/20140630224848id_/http://www.google.com/intl/en/policies/privacy/example/protect-google-and-our-users.html). We also use this information to offer you tailored content – like giving you more relevant search results and ads. 
 
-**Marketing Services and Promotional Opportunities.** We may provide our users with the opportunity to register for special contests, alerts, services, music, video and other news, programming and information.  If any of these are included in a sign up, registration or enrolment process, we will disclose that to you at the time you are requested to provide us with your Personal Information and we will advise you that continuing will constitute your consent to receive these from us. Users may be required to register or re-enter or provide additional Personal Information such as e-mail address to participate or take advantage of these services.  Optional information may be requested for specific offers, promotions or services and we may also collect an e-mail address or other information. In addition, while we make efforts to protect our website from intrusion and unauthorized access, we cannot and do not guarantee that any of your Internet communications, Postings and/or activities on the World Wide Web, including our website, are secure or are not subject to interception by third parties.
+We may use the name you provide for your Google Profile across all of the services we offer that require a Google Account. In addition, we may replace past names associated with your Google Account so that you are represented consistently across all our services. If other users already have your email, or other information that identifies you, we may show them your publicly visible Google Profile information, such as your name and photo. 
 
-**Use of Information**. We will not use any Personal Information submitted to us for any purpose, except as set forth herein, unless we provide advance notice to you of any such use. We will not share Personal Information submitted to us with any non-affiliated parties, unless you opt-in. We will share information with our parent company, subsidiaries and affiliates, as well as our operational service providers that assist in delivering our website to you. We may also share Personal Information with an outside shipping company or credit card processing companies to fulfill your online order and to bill you for goods.
+When you contact Google, we may keep a record of your communication to help solve any issues you might be facing. We may use your email address to inform you about our services, such as letting you know about upcoming changes or improvements. 
 
-**Cookies and Similar Technology.** We use ‘cookie’ technology to collect data regarding your visits to our website. This data is stored in aggregate form and is not used to identify any particular user or individual. We use cookies and similar tracking technologies in a variety of ways, including:
+We use information collected from cookies and other technologies, like [pixel tags](https://web.archive.org/web/20140630224848id_/http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-pixel), to [improve your user experience](https://web.archive.org/web/20140630224848id_/http://www.google.com/intl/en/policies/privacy/example/improve-your-user-experience.html) and the overall quality of our services. For example, by saving your language preferences, we’ll be able to have our services appear in the language you prefer. When showing you tailored ads, we will not associate a cookie or anonymous identifier with [sensitive categories](https://web.archive.org/web/20140630224848id_/http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-sensitive-categories), such as those based on race, religion, sexual orientation or health. 
 
-     Saving your user ID or other information so you don’t have to re-enter it each time you visit our website;
+We may [combine personal information from one service with information, including personal information, from other Google services](https://web.archive.org/web/20140630224848id_/http://www.google.com/intl/en/policies/privacy/example/combine-personal-information.html) – for example . We will not combine DoubleClick cookie information with personally identifiable information unless we have your opt-in consent. 
 
-      Keeping count of your return visits to our website, advertisers’ or partners’ sites;
+We will ask for your consent before using information for a purpose other than those that are set out in this Privacy Policy. 
 
-      Accumulating and reporting aggregate, statistical information in connection with our website; and
+Google processes personal information on our servers in many countries around the world. We may process your personal information on a server located outside the country where you live. 
 
-      Determining which content, features and functions users like best.
+## Transparency and choice
 
-Although we may track and collect certain Personal Information of users to inform us on how best to update and enhance our website, Sensitive Personal Information is not extracted in this process.  We use tracking information on an aggregated basis, and other discrete Personal Information, to help us operate, enhance, and improve our website, display advertising and marketing information. You can choose to have your computer warn you each time a cookie or image tag is being sent or you can choose to turn off all such mechanisms. This is done through your browser. If you turn cookies off, you may not have access to many features and functions of our website that make your experience more efficient and enjoyable and some of features may not function properly.
+People have different privacy concerns. Our goal is to be clear about what information we collect, so that you can make meaningful choices about how it is used. For example, you can: 
 
-**Postings**. **** We respect the privacy of the contents of certain non-public Postings you provide or make, however, even with respect to private Postings, we do reserve the right to monitor, edit and disclose your use of our website and/or any information pertaining to a Posting and any of the contents to a third party if we believe such action is required by law or is necessary to protect and defend our rights or to protect our interests or the interests of our users,  advertisers, suppliers, operational service providers or others. ****
+  * [Review and control](https://www.google.com/dashboard/?hl=en) certain types of information tied to your Google Account by using Google Dashboard. 
+  * [View and edit](https://www.google.com/settings/ads/preferences?hl=en) your preferences about the ads shown to you on Google and across the web, such as which categories might interest you, using Ads Settings. You can also opt out of certain Google advertising services here. 
+  * [Use our editor](http://support.google.com/accounts/bin/answer.py?hl=en&answer=112783) to see and adjust how your Google Profile appears to particular individuals. 
+  * [Control](http://support.google.com/plus/bin/static.py?hl=en&page=guide.cs&guide=1257347) who you share information with. 
+  * [Take information](http://www.dataliberation.org/) out of many of our services.
 
-**Disclosure to Third Parties.** Some of the aggregate data we collect in connection with our website may be shared with our advertisers and other business partners, but we do not give any Sensitive Personal Information to them as part of the relationship unless specifically stated in our Privacy Policy.  On their websites and in connection with the use of their services, treatment of your Personal Information is subject to their privacy policies and practices and for more information, please contact these third parties directly. We do not sell, rent, lease or disclose your Personal Information for direct marketing purposes to non-affiliated entities ( _i.e_., entities that are not our parent or subsidiary or affiliated companies) or entities that are not our advertisers or operational service providers, except in the limited circumstances disclosed in our Privacy Policy.
 
-We also have the right to disclose your Personal Information to third parties for the purpose of administering and maintaining our website and our operations. These third party specialists that provide support to our website are our “operational service providers” and we use them to efficiently provide the full range of content, subscription plans, services, promotions, advertising, downloading, streaming and other features and functions we offer or make available to you. We request that our operational service providers also protect your privacy and not disclose your Personal Information to third party marketers that are not associated with our website. Additionally, these operational service providers are not permitted to use your Personal Information for their own direct marketing or promotional purposes. ****
 
-We will make your Personal Information available to non-affiliated third parties in the following limited circumstances:
+You may also set your browser to block all cookies, including cookies associated with our services, or to indicate when a cookie is being set by us. However, it’s important to remember that many of our services [may not function properly](https://web.archive.org/web/20140630224848id_/http://www.google.com/intl/en/policies/privacy/example/may-not-function-properly.html) if your cookies are disabled. For example, we may not remember your language preferences. 
 
-         When we are compelled to do so by a governmental agency, court or other entity ( _e.g_., to respond to subpoenas, court orders or legal process);
+## Information you share
 
-         If we believe your actions violate any law, regulation, any term or condition of our website (including additional terms and conditions of promotions, etc.) or if you threaten the rights, property or safety of us, our parent, subsidiaries or affiliated companies, any of our operational service providers, suppliers, advertisers, customers, other users, or any other party;
+Many of our services let you share information with others. Remember that when you share information publicly, it may be indexable by search engines, including Google. Our services provide you with different options on [sharing](https://web.archive.org/web/20140630224848id_/http://www.google.com/intl/en/policies/privacy/example/sharing.html) and [removing your content](https://web.archive.org/web/20140630224848id_/http://www.google.com/intl/en/policies/privacy/example/removing-your-content.html). 
 
-         If in our sole discretion, we believe such disclosure to be necessary or appropriate to investigate or resolve possible problems or inquiries to protect our business and assets, to defend our interests, or to comply with any legal and regulatory obligations; or
+## Accessing and updating your personal information
 
-         In the event of a bankruptcy, merger, acquisition, transfer of control, joint venture or other business combination involving us. ****
+Whenever you use our services, we aim to provide you with [access to your personal information](https://web.archive.org/web/20140630224848id_/http://www.google.com/intl/en/policies/privacy/example/access-to-your-personal-information.html). If that information is wrong, we strive to give you ways to update it quickly or to delete it – unless we have to keep that information for legitimate business or legal purposes. When updating your personal information, we may ask you to verify your identity before we can act on your request. 
 
-**Security and Protection of Personal Information.** We maintain reasonable standards of security and confidentiality. However, for most Internet sites and wireless and mobile communications, it is possible third parties may unlawfully intercept or access transmissions or private communications over an unsecured transmission. We conduct financial transactions via secured transmissions but may not always secure other parts of our website in the same way. We also limit access to our website by our own employees to individuals who are authorized for the proper handling of such information and any employee found violating our standards of security and confidentiality will be subject to our disciplinary processes. We request that our operational service providers follow the same policy.
+We may reject requests that are unreasonably repetitive, require disproportionate technical effort (for example, developing a new system or fundamentally changing an existing practice), risk the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup systems). 
 
-**Review, Update or Delete Your Personal Information.** Generally, you may review, update or delete any of your Personal Information collected by or through our website, as well as your profile or any other user information you may have entered during the registration process or otherwise or any prior updates you may have given us. You may also correct factual inaccuracies. However, Personal Information that is necessary to check eligibility, such as date of birth or age may be modified with sufficient verification of the correct information, but cannot be deleted and if you delete or attempt to delete such information, it may result in the suspension of any and all rights you may have to use website or other activity requiring eligibility or otherwise. If you have registered as a user or provided any information as part of an account or profile in connection with our website, you may review, update or delete your Personal Information and you should go to our website and follow the instructions there that will explain how you can edit, change, update and, with some exceptions noted, delete your Personal Information.
+Where we can provide information access and correction, we will do so for free, except where it would require a disproportionate effort. We aim to maintain our services in a manner that protects information from accidental or malicious destruction. Because of this, after you delete information from our services, we may not immediately delete residual copies from our active servers and may not remove information from our backup systems. 
 
-If you do not understand or are not sure what Personal Information may be collected or used for particular purposes, you should contact our Privacy Administrator via email with a request at [Privacy@RayWJ.com](mailto:Privacy@RayWJ.com) and be prepared to provide verification of your identity.
+## Information we share
 
-We reserve the right to deny, suspend, deactivate, terminate and/or cancel any registration, subscription, status as a user and/or the use of or access to our website and any other services, content, activities, features or functions, if we believe there is a question about the identity of the person trying to use or access any portion of our website, to use or access any information or to use a user ID. If the burden or expense of providing access to your Personal Information is disproportionate to the risks to your privacy or if the legitimate rights of others would be violated, we may decide not to provide you access to such information. In such cases, we will provide you with an explanation of why access cannot be provided and a contact person for further inquiries. ****
+We do not share personal information with companies, organizations and individuals outside of Google unless one of the following circumstances applies: 
 
-**Questions.** If you have any questions about our Privacy Policy, you may email us at [Privacy@RayWJ.com](mailto:Privacy@RayWJ.com) you cannot find the answer to a question related to our Privacy Policy or if you do not understand the information about how we collect, maintain, store, use or share your Personal Information you may contact our Privacy Administrator at [Privacy@RayWJ.com](mailto:Privacy@RayWJ.com).
+  * **With your consent**
 
-**Sole Statement.** The foregoing statements, terms and conditions contained in our Privacy Policy is the sole statement of our privacy policy, and no summary, restatement or other version, or other statement or policy, in any form, including, without limitation, machine-generated, is valid.
+We will share personal information with companies, organizations or individuals outside of Google when we have your consent to do so. We require opt-in consent for the sharing of any [sensitive personal information](https://web.archive.org/web/20140630224848id_/http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-sensitive-info). 
 
-This Privacy Policy was last modified on April 13, 2011 and is effective immediately.
+  * **With domain administrators**
 
-© Copyright 2011 Maker Studios, Inc. All Rights Reserved.
+If your Google Account is managed for you by a [domain administrator](http://support.google.com/a/bin/answer.py?hl=en&answer=178897) (for example, for Google Apps users) then your domain administrator and resellers who provide user support to your organization will have access to your Google Account information (including your email and other data). Your domain administrator may be able to: 
+
+    * view statistics regarding your account, like statistics regarding applications you install. 
+    * change your account password. 
+    * suspend or terminate your account access. 
+    * access or retain information stored as part of your account. 
+    * receive your account information in order to satisfy applicable law, regulation, [legal process or enforceable governmental request](https://web.archive.org/web/20140630224848id_/http://www.google.com/intl/en/policies/privacy/example/legal-process.html). 
+    * restrict your ability to delete or edit information or privacy settings.
+
+Please refer to your domain administrator’s privacy policy for more information. 
+
+  * **For external processing**
+
+We provide personal information to our [affiliates](https://web.archive.org/web/20140630224848id_/http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-affiliates) or other trusted businesses or persons to process it for us, based on our instructions and in compliance with our Privacy Policy and any other appropriate confidentiality and security measures. 
+
+  * **For legal reasons**
+
+We will share personal information with companies, organizations or individuals outside of Google if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to: 
+
+    * meet any applicable law, regulation, legal process or enforceable governmental request. 
+    * enforce applicable Terms of Service, including investigation of potential violations. 
+    * detect, prevent, or otherwise address fraud, security or technical issues. 
+    * protect against harm to the rights, property or safety of Google, our users or the public as required or permitted by law.
+
+
+
+, [non-personally identifiable information](https://web.archive.org/web/20140630224848id_/http://www.google.com/intl/en/policies/privacy/key-terms/#toc-terms-info) publicly and with our partners – like publishers, advertisers or connected sites. For example, we may share information publicly [to show trends](https://web.archive.org/web/20140630224848id_/http://www.google.com/intl/en/policies/privacy/example/to-show-trends.html) about the general use of our services. 
+
+If Google is involved in a merger, acquisition or asset sale, we will continue to ensure the confidentiality of any personal information and give affected users notice before personal information is transferred or becomes subject to a different privacy policy. 
+
+## Information security
+
+We work hard to protect Google and our users from unauthorized access to or unauthorized alteration, disclosure or destruction of information we hold. In particular: 
+
+  * We encrypt many of our services [using SSL](http://support.google.com/websearch/bin/answer.py?answer=173733&en). 
+  * We offer you [two step verification](https://www.google.com/intl/en/landing/2step/) when you access your Google Account, and a [Safe Browsing feature](http://www.google.com/chrome/intl/en/more/security.html) in Google Chrome. 
+  * We review our information collection, storage and processing practices, including physical security measures, to guard against unauthorized access to systems. 
+  * We restrict access to personal information to Google employees, contractors and agents who need to know that information in order to process it for us, and who are subject to strict contractual confidentiality obligations and may be disciplined or terminated if they fail to meet these obligations.
+
+
+
+## When this Privacy Policy applies
+
+Our Privacy Policy applies to all of the services offered by Google Inc. and its affiliates, including services offered on other sites (such as our advertising services), but excludes services that have separate privacy policies that do not incorporate this Privacy Policy. 
+
+Our Privacy Policy does not apply to services offered by other companies or individuals, including products or sites that may be displayed to you in search results, sites that may include Google services, or other sites linked from our services. Our Privacy Policy does not cover the information practices of other companies and organizations who advertise our services, and who may use cookies, pixel tags and other technologies to serve and offer relevant ads. 
+
+## Compliance and cooperation with regulatory authorities
+
+We regularly review our compliance with our Privacy Policy. We also adhere to several [self regulatory frameworks](https://web.archive.org/web/20140630224848id_/http://www.google.com/intl/en/policies/privacy/frameworks/). When we receive formal written complaints, we will contact the person who made the complaint to follow up. We work with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that we cannot resolve with our users directly. 
+
+## Changes
+
+Our Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your explicit consent. We will post any privacy policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of privacy policy changes). We will also keep prior versions of this Privacy Policy in an archive for your review. 
+
+## Specific product practices
+
+The following notices explain specific privacy practices with respect to certain Google products and services that you may use: 
+
+  * [Chrome and Chrome OS](http://www.google.com/chrome/intl/en/privacy.html)
+  * [Books](http://books.google.com/intl/en/googlebooks/privacy.html)
+  * [Wallet](http://wallet.google.com/files/privacy.html?hl=en)
+  * [Fiber](https://fiber.google.com/legal/privacy.html)
+
+
+
+Further useful privacy and security related materials can be found through Google’s [policies and principles pages](https://web.archive.org/web/20140630224848id_/http://www.google.com/intl/en/policies/), including: 
+
+  * Information about our [technologies and principles](https://web.archive.org/web/20140630224848id_/http://www.google.com/intl/en/policies/technologies/), which includes, among other things, more information on 
+    * [how Google uses cookies](https://web.archive.org/web/20140630224848id_/http://www.google.com/intl/en/policies/technologies/cookies/). 
+    * technologies we use for [advertising](https://web.archive.org/web/20140630224848id_/http://www.google.com/intl/en/policies/technologies/ads/). 
+    * how we [recognize patterns like faces](https://web.archive.org/web/20140630224848id_/http://www.google.com/intl/en/policies/technologies/pattern-recognition/).
+  * A [page](https://web.archive.org/web/20140630224848id_/http://www.google.com/intl/en/policies/privacy/partners/) that explains what data is shared with Google when you visit websites that use our advertising, analytics and social products. 
+  * Google’s [safety center](https://www.google.com/intl/en/safetycenter/), which provides information on how to stay safe and secure online.
+
+
