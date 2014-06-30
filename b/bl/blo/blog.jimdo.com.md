@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the blog.jimdo.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231073955id_/http%3A//www.jimdo.com/info/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blog.jimdo.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630051729id_/http%3A//www.jimdo.com/info/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Jimdo
 
 At Jimdo, we place the highest importance on handling your personal data with respect and confidentiality. Accordingly, Jimdo adheres to all applicable data protection laws and regulations, in particular to the strict [German Federal Data Protection Act](http://www.bfdi.bund.de/EN/DataProtectionActs/DataProtectionActs_node.html/). The following Privacy Policy outlines which data is collected from you and how it is handled. This policy applies to all Jimdo products and services. Jimdo is a service of Jimdo GmbH. 
 
   
-For questions about this privacy policy, you can write to us at any time via [our contact form](http://www.jimdo.com/info/privacy-statement/privacy-contact/) or by mail: 
+For questions about this privacy policy, you can write to us at any time via [our contact form](http://www.jimdo.com/info/privacy-contact/) or by mail: 
 
 **Jimdo GmbH**
 
@@ -112,7 +112,7 @@ If you do not consent to this privacy policy in whole or in part, now or at a la
 
 We may change our privacy policy from time to time. Your rights, however, will not be reduced without good reason. All changes to the privacy policy will be listed on this page. If the changes are significant, we will announce the change to users (in an email newsletter, for example). 
 
-If you have questions or concerns about this privacy policy, you can [contact us here](http://www.jimdo.com/info/privacy-statement/privacy-contact/) or by mail at: 
+If you have questions or concerns about this privacy policy, you can [contact us here](http://www.jimdo.com/info/privacy-contact/) or by mail at: 
 
 **Jimdo GmbH**
 
@@ -128,7 +128,7 @@ Revised October 20, 2011
 
 **Please note:** The previous versions of our privacy policy (from February 2007, May 2008 and February 2010) are located here: [Older Versions of the Jimdo privacy policy](http://www.jimdo.com/info/privacy-statement-old/)
 
-If you choose not to accept the changes of our privacy policy, you have the opportunity to decline them within one month. After this period of time, the changes are considered to be accepted. Please enter your objection via the [contact form](http://www.jimdo.com/info/privacy-statement/privacy-contact/) below or write to us at: 
+If you choose not to accept the changes of our privacy policy, you have the opportunity to decline them within one month. After this period of time, the changes are considered to be accepted. Please enter your objection via the [contact form](http://www.jimdo.com/info/privacy-contact/) below or write to us at: 
 
 **Jimdo GmbH**
 
