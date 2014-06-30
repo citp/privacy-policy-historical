@@ -1,15 +1,16 @@
-<!--The following is the downloaded HTML source of the brainyquote.com privacy policy that was archived on 2013-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131231005342id_/http%3A//www.brainyquote.com/inquire/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the brainyquote.com privacy policy that was archived on 2014-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140630043055id_/http%3A//www.brainyquote.com/inquire/privacy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html lang="en" xmlns:fb="http://ogp.me/ns/fb#"><head><script src="https://web.archive.org/st/js/472915/jq_plugins.js"></script><script src="https://web.archive.org/st/js/472915/core.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html lang="en" xmlns:fb="http://ogp.me/ns/fb#"><head><script src="https://web.archive.org/st/js/737914/jq_plugins.js"></script><script src="https://web.archive.org/st/js/737914/core.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
 <title>BrainyQuote - Privacy Policy</title>
 <meta name="googlebot" content="NOODP">
 <meta property="og:site_name" content="BrainyQuote">
-<meta property="ver" content="2.3.1:472915">
+<meta property="ver" content="3.0.7b:737914">
+<meta name="msapplication-config" content="none">
 <meta name="apple-mobile-web-app-capable" content="yes">
-<meta property="ts" content="1388444810">
+<meta property="ts" content="1404098325">
 <meta property="og:type" content="article">
-<meta property="og:image" content="http://i.brainyquote.com/i/fbl.jpg">
+<meta property="og:image" content="/images/fbl.jpg">
 <meta property="og:image:type" content="image/jpeg">
 <meta property="og:image:width" content="200">
 <meta property="og:image:height" content="200">
@@ -19,7 +20,7 @@
 <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">
 <link rel="alternate" media="only screen and (max-width: 640px)" href="http://mobile.brainyquote.com/inquire/privacy.html">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="http://cdn.yb0t.com/js/yieldbot.intent.js"></script><script type="text/javascript">BQ_TBAN="";BQ_TTOP="";BQ_TMID="";BQ_TBOT="";</script>
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script src="http://cdn.yb0t.com/js/yieldbot.intent.js"></script><script type="text/javascript">BQ_TBAN="";BQ_TTOP="";BQ_TMID="";BQ_TBOT="";</script>
 <script type="text/javascript" src="http://js.bqcpu.com/javascript/jsInit.php"></script>
 <script type="text/javascript">
  var ybotq = ybotq || [];
@@ -78,6 +79,7 @@ ybotq.push(function () {
  
  STICKY_ON = ((Math.random() * 100)  < 0);
  ST_AD_DIVS=[];
+ SLOTS={};
  var slot;
  
  if (ST_AD_DIVS.length==0) {STICKY_ON=false;} 
@@ -85,18 +87,20 @@ ybotq.push(function () {
   
  ybotq.push(function() {
   googletag.cmd.push(function() {		
-  slot=googletag.defineSlot('/1008298/BQ_ros_top_728x90', [[970, 90],[728, 90]], 'div-gpt-ad-1348185546004-3')
+  SLOTS['div-gpt-ad-1348185546004-3']=slot=googletag.defineSlot('/1008298/BQ_ros_top_728x90', [[970, 90],[728, 90]], 'div-gpt-ad-1348185546004-3')
    .setTargeting('ybot_ad', yieldbot.adAvailable('BQ_ros_top_728x90'))
    .setTargeting('ybot_slot', 'BQ_ros_top_728x90')
-   .addService(googletag.pubads());
+   .addService(googletag.pubads());   
    if (BQ_TBAN!='') { slot.setTargeting('pr',BQ_TBAN); }
 
-  slot=googletag.defineSlot('/1008298/BQ_ros_square_300x250', [300, 250], 'div-gpt-ad-1348185546004-2')
+           
+  SLOTS['div-gpt-ad-1348185546004-2']=slot=googletag.defineSlot('/1008298/BQ_ros_square_300x250', [300, 250], 'div-gpt-ad-1348185546004-2')
    .setTargeting('ybot_ad', yieldbot.adAvailable('BQ_ros_square_300x250'))
    .setTargeting('ybot_slot', 'BQ_ros_square_300x250')
-   .addService(googletag.pubads());
+   .addService(googletag.pubads());   
    if (BQ_TTOP!='') { slot.setTargeting('pr',BQ_TTOP); }
 
+           
 
    if (typeof(BQ_CC) == "undefined" || !BQ_CC) {
 	   BQ_CC = "99";
@@ -110,6 +114,8 @@ ybotq.push(function () {
        googletag.pubads().setTargeting("quantcast", qcc.split("|"));
    }
    konsole.log("t bq_cc_dvc=" + BQ_CC + "|" + BQ_DVC);
+
+   googletag.pubads().enableAsyncRendering();
    googletag.pubads().enableSingleRequest();
    googletag.pubads().collapseEmptyDivs();
    googletag.enableServices();
@@ -122,66 +128,111 @@ ybotq.push(function () {
 <script type="text/javascript">
 IS_MBL=0;
 
-var _gaq = _gaq || [];
-_gaq.push(['_setAccount', 'UA-6252296-1']);
-_gaq.push(['_trackPageview']);
-(function() {
-var ga = document.createElement('script');
-ga.type = 'text/javascript';
-ga.async = true;
-ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-})();
+var bqId = 'UA-6252296-1';
+var grpBId = 'UA-6252296-8';
+var expGrpId = grpBId;
 
+<!-- Google Analytics -->
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', bqId, 'auto');
+ga('send', 'pageview');
+ga('create', expGrpId, 'auto', {'name': 'exp'});
+ga('exp.send', 'pageview');
+
+function trEvt(sid,pre,cat,act,l,v) {
+ga(pre + 'send', 'event', cat, act, l, v, {'nonInteraction': 1});
+}
+
+function authorCl(a, i, pos) {
+var cat = 'Popular Authors';
+var act = 'Author ' + pos + ' Click';
+trEvt(bqId,'',cat, act, a, i);
+trEvt(expGrpId,'exp.',cat, act, a, i);
+}
+
+function topicCl(t, i, pos) {
+var cat = 'Popular Topics';
+var act = 'Topic ' + pos + ' Click';
+trEvt(bqId,'',cat, act, t, i);
+trEvt(expGrpId,'exp.',cat, act, t, i);
+}
+
+function qCl(type, item, q, pgNum) {
+var cat = 'Quote click on ' + type;
+var act = 'Quote click on ' + item;
+trEvt(bqId,'',cat, act, q, pgNum);
+trEvt(expGrpId,'exp.',cat, act, q, pgNum);
+}
+
+function kCl(quri, key, keypos, det) {
+var cat = 'Keyword click on quote';
+if (det) cat = cat + ' detail';
+var act = 'Keyword click on ' + quri;
+trEvt(bqId,'',cat, act, key, keypos);
+trEvt(expGrpId,'exp.',cat, act, key, keypos);
+}
+
+function aCl(type, item, q, pgNum) {
+var cat = 'Author click on ' + type;
+var act = 'Author click on ' + item;
+trEvt(bqId,'',cat, act, q, pgNum);
+trEvt(expGrpId,'exp.',cat, act, q, pgNum);
+}
+
+function socCl(sn, type, url) {
+ga('send', 'social', sn, type, url);
+ga('exp.send', 'social', sn, type, url);
+}
 
 </script>
 <script type="text/javascript" src="http://scripts.webspectator.com/ws-F5A6D6C5.js"></script>
 <link href="http://cf.shareasimage.com/static/app/css/publisher.css" type="text/css" rel="stylesheet">
 <script type="text/javascript">if (window!=top){top.location.href=location.href;};</script>
 <meta name="robots" content="noindex">
-<link href="/st/css/472915/core.css" media="screen, print" type="text/css" rel="stylesheet">
+<link href="/st/css/737914/core.css" media="screen, print" type="text/css" rel="stylesheet">
+<style type="text/css">h1{font-size:20.0px;}.letter-navbar{min-height:25px;padding-top:3px;}.bq-tn-letters{font-size:13px;}</style>
 </head>
 <body>
 <div align="center">
  
 <div id="div-gpt-ad-1348185546004-3" class="bq_ad_90min  wsz" data-pid="3271">
 <script type="text/javascript">
-		ybotq.push(function() {googletag.cmd.push(function() { googletag.display('div-gpt-ad-1348185546004-3'); });
+		ybotq.push(function() {googletag.cmd.push(function() { 
+			 googletag.display('div-gpt-ad-1348185546004-3');
+			  
+		});
 		});</script>
 </div>
 </div>
  
-<div id="bq-tn" class="bq_tn_cntr">
-<div class="container">
-<div class="row">
-<div class="span12" style="text-align: center">
-<a href="/"><img src="/st/img/472915/bql.png" id="bqlimg" width="420" height="90" alt="BrainyQuote Logo"></a>
-</div>
-</div>
-</div>
-<div id="bq-top-nav" style="left:0px;">
-<div class="navbar" style="margin-bottom: 0px">
-<div class="navbar-inner navbar-pull-center">
- 
+<div id="bq-tn" class="bq_tn_cntr"><div id="bq-top-nav" style="left:0px;">
+<div class="slim navbar" style="margin-bottom: 0px">
+<div class="navbar-inner navbar-pull-center" data-sai-excludehighlight="true">
 <ul class="nav">
-<li id="bq-nav-home-b">
+<li id="bq-nav-home-i">
+<a class="brand" style="padding:0px 5px 0px 0px; color:white" href="/"><span class="bqDesktopLogo" id="sl-bqlimg"></span></a>
+</li>
+<li id="sl-bq-nav-home-b">
 <a class="btn btn-navbar bq-tn-btn" href="/">&nbsp;<span class="icon-home icon-white"></span>&nbsp;</a>
 </li>
-<li id="bq-nav-home-t"><a href="/">Home</a></li>
-<li><a href="/quotes/favorites.html">Authors</a></li>
-<li><a href="/quotes/topics.html">Topics</a></li>
-<li><a href="/quotes_of_the_day.html">Quote of the Day</a></li>
-<li><a href="/quotes/quote_pictures.html">Pictures</a></li>
-<li id="bq-nv-srch-f"><form class="navbar-search bq-no-print pull-left" action="/search_results.html">
+<li id="sl-bq-nav-home-t"><a href="/" class="txnav">Home</a></li>
+<li><a href="/quotes/favorites.html" class="txnav">Authors</a></li>
+<li><a href="/quotes/topics.html" class="txnav">Topics</a></li>
+<li><a href="/quotes_of_the_day.html" class="txnav">Quote of the Day</a></li>
+<li><a href="/quotes/quote_pictures.html" class="txnav">Pictures</a></li>
+<li id="sl-bq-nv-srch-f"><form class="navbar-search bq-no-print pull-left" action="/search_results.html">
 <input type="text" class="search-query bq_google_wm" name="q" value="" id="q"></form>
 </li>
-<li id="bq-nv-srch-b">
+<li id="sl-bq-nv-srch-b">
 <a class="btn btn-navbar bq-tn-btn" href="/search.html">&nbsp;<span class="icon-search icon-white"></span>&nbsp;</a>
 </li>
 </ul>
 </div>
-</div>
-</div>
+</div></div>
 <div class="letter-navbar" style="text-align: center; letter-spacing: 2px">
 <span class="body bq-tn-letters"> <span id="bq-auth-lbl" class="bq-tn-wrap">Authors:</span>
 <span class="bq-tn-wrap"> <a href="/quotes/a.html">A</a>
@@ -198,6 +249,16 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 </span>
 </div>
 </div>
+<div id="sideSharingNav" class="postDelay" style="display:none; position: fixed; top:150px; width: 75px">
+<div class="bq25 postDynamic">
+<div class="pw-widget pw-layout-vertical pw-size-large pw-counter-vertical" pw:twitter-via="BrainyQuote">
+<a class="pw-button-facebook"></a>
+<a class="pw-button-twitter"></a>
+<a class="pw-button-googleplus"></a>
+<a class="pw-button-linkedin"></a>
+</div>
+</div>
+</div>
 <div class="container">
 <div class="row">
 <div class="span12">
@@ -208,84 +269,49 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 <div class="span8">
 <div class="bq_s">
 <h2>1. Introduction</h2>
-Thank you for visiting BrainyQuote.com, a site designed to inform,
-inspire, educate and entertain users all around the globe. This Privacy
-Policy is written to better explain how we collect and use your
-information, and to cover our caboose in case you plan to sue us
-because you don't like how we use information, or you're a person who
-just doesn't like quotes. This Privacy Policy is a binding contract and
-you must agree to it to the same extent as our Terms of Service in
-order to use our services, including submitting quotes to our website.
+<p>Thank you for visiting BrainyQuote.com, a site designed to inform, inspire, educate and entertain users all around the globe (the "Site"). The Site is created by Xplore, Inc., a corporation doing business in the Lone Star State. This Privacy Policy is written to better explain how we collect and use your information, and to cover our caboose in case you plan to sue us because you don't like how we use information, or you're a person who just doesn't like quotes.</p>
+<p>BY ACCESSING OR USING THE SITE, YOU AGREE THAT YOU HAVE READ AND UNDERSTAND THIS PRIVACY POLICY AND THAT YOU AGREE WITH THE TERMS OF THIS PRIVACY POLICY AS WELL AS OUR <a href="/inquire/terms.html">TERMS OF SERVICE</a>. If you do not agree with our policies and practices, your choice is not to use the Site.</p>
 </div>
 <div class="bq_s">
 <h2>2. Personal Information We Collect</h2>
-Good news! You don't have to give us any personal information when you
-use our website. You may, however, tell us your name and your life
-story (it's not that we're not interested, and we can't stop you), but
-please do not share your personal details when you submit a quote to us
-for consideration. We will not disclose any information that you
-provide to us except in accordance with the provisions of this Privacy
-Policy.
+<p>Good news! You don't have to give us any personally identifiable information when you use the Site. Please do not share any other personally identifiable information or your life story (it's not that we're not interested, and we can't stop you) when you submit a quote to us for consideration. We will not disclose any information that you provide to us except in accordance with the provisions of this Privacy Policy.</p>
 </div>
 <div class="bq_s">
 <h2>3. Non-Personal Information We Collect</h2>
-We may collect information about you that is not personal information.
-When you access our website and/or submit a quote, we may collect such
-things as your IP address, browser, operating system, referring URL,
-and other general information about our visitors. This information, on
-its own, cannot usually be used to identify you.
+<p>We may collect information about you that is not personal information ("Collected Information"). When you access the Site and/or submit a quote, we may collect such things as your IP address, browser, operating system, referring URL, metadata, specific pages that you access on the Site or prior to or after visiting the site, the length of time you spend at the site, and other general information about our visitors. This information, on its own, cannot usually be used to identify you.</p>
 </div>
 <div class="bq_s">
 <h2>4. Use of Information</h2>
-We may use your information for a wide variety of purposes, including
-printing physical paper copies of it and turning it into an origami hat
-(kidding again). Specifically, though, we may let your non-personal
-information be shared with:
-<ul>
-<li>Our host, whose server logs collect the non-personal
-information described above.</li>
-<li>Google, as a third party vendor, uses cookies to serve ads on
-our websites. Google's use of the DART cookie enables it to serve ads
-to our users based on their visit to our sites and other sites on the
-Internet. Users may opt out of the use of the DART cookie by visiting
-the <a href="http://www.google.com/privacy_ads.html" target="_blank" rel="nofollow">Google ad and content network privacy policy.</a>
-</li>
-<li>RadiumOne, which uses cookies to identify anonymous user
-interests on our websites. You may opt out of the RadiumOne cookie by
-visiting the <a href="http://www.radiumone.com/about/opt.html" target="_blank" rel="nofollow">RadiumOne Preference Manager</a>.
-</li>
-<li>Glam Media, which uses cookies to identify anonymous user
-interests on our websites. You may opt out of the Glam Media cookie by
-visiting the <a href="http://www.glammedia.com/about_glam/legal/opt-out/" target="_blank" rel="nofollow">Glam Media Preference Manager</a>.
-</li>
-<li>AOL Advertising, as a third party vendor, uses cookies to
-identify anonymous user interests on our websites. Users may opt out
-of the use of the AOL Advertising cookie by visiting the <a href="http://advertising.aol.com/privacy" target="_blank" rel="nofollow">AOL Advertising Preference Manager</a>.
-</li>
-<li>Quantcast, as a third party vendor, uses cookies to identify
-anonymous user interests on our websites. Users may opt out of the
-use of the Quantcast cookie by visiting the <a href="http://www.quantcast.com/opt-out" target="_blank" rel="nofollow">Quantcast Preference Manager</a>.
-</li>
-<li>comScore, Inc. (weird capitalization intentional - but that's
-how they spell it), which also identifies anonymous user interests on
-our websites via its Scorecard Research program. You may opt out of
-this cookie by visiting the <a href="http://www.scorecardresearch.com/preferences.aspx" target="_blank" rel="nofollow">Scorecard Research Preference
-Manager</a>.
-</li>
-<li>Yieldbot, uses cookies to identify anonymous user
-interests (starting to notice a pattern here?) on our website. You
-may opt out of this cookie by visiting - wait for it - the <a href="http://yieldbot.com/privacy-policy.html#opt-out" target="_blank" rel="nofollow">Yieldbot Privacy Policy Opt-out</a>.
-</li></ul>
+<p>We may use the Collected Information for a wide variety of purposes, including printing physical paper copies of it and turning it into an origami hat (kidding again). All jokes aside, we and our third party service providers may use this information to help administer the Site and the servers that provide the Site, generate statistical information, monitor and analyze Site traffic and usage patterns, and improve the Site's content and content delivery, including any online content, materials, and services that we describe or make available on the Site.</p>
+<p>If you contact us for support or assistance, we may use any contact information you provide to us, including your name or email address, (also deemed "Collected Information" hereunder) to provide service and support to you. We may also use Collected Information and the associated statistical data we and our third party service providers generate to deliver targeted advertisements to you and other visitors of the Site.</p>
+<p>We and our third party service providers may store Collected Information for as long as needed for the purposes indicated in this Privacy Policy, which may be indefinitely.</p>
 </div>
 <div class="bq_s">
-<h2>5. Cookies</h2>
-Cookies aren't just delicious; they also apparently have something to
-do with computers. We use cookies to save your preferences. We also use
-cookies to track ads and to share information with third parties as
-described above. Because of this, you should enable your cookies when
-you use our website. If you're new to the Internet, please don't try
-dunking your mouse in milk and eating it; this is the Number One
-complaint we get after users read our Privacy Policy.
+<h2>5. Disclosure of Your Information</h2>
+<p>We may share Collected Information with certain of our third party service providers (e.g., our web hosting provider whose server logs collect the non-personal information described above) in order to provide the Site to you. We may also share Collected Information with some of our business and marketing partners in furthering our mission as an organization or delivering the content, materials, and services available on or through the Site to you. We and our third party service providers may also produce reports on Site traffic, usage patterns, and similar data generated from Collected Information, and we may share these reports with our business and marketing partners and others. Specifically, though, we may share your non-personal information with the following third party service providers:</p>
+<ul>
+<li>Google, as a third party vendor, uses cookies to serve ads on the Site. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the <a href="http://www.google.com/privacy_ads.html" target="_blank" rel="nofollow">Google ad and content network privacy policy.</a> Tracking of users through the DART cookie mechanisms are subject to Google's own privacy policies.
+</li>
+<li>RadiumOne, which uses cookies to identify and collect anonymous user interests on the Site. You may opt out of the RadiumOne cookie by visiting the <a href="http://www.radiumone.com/about/opt.html" target="_blank" rel="nofollow">RadiumOne Preference Manager</a>.
+</li>
+<li>Glam Media, which uses cookies to identify and collect anonymous user interests on the Site. You may opt out of the Glam Media cookie by visiting the <a href="http://www.glammedia.com/about_glam/legal/opt-out" target="_blank" rel="nofollow">Glam Media Preference Manager</a>.
+</li>
+<li>Quantcast, as a third party vendor, uses cookies to identify and collect anonymous user interests on the Site. Users may opt out of the use of the Quantcast cookie by visiting the <a href="http://www.quantcast.com/opt-out" target="_blank" rel="nofollow">Quantcast Preference Manager</a>.
+</li>
+<li>comScore, Inc. (weird capitalization intentional - but that's how they spell it), as a third party vendor, uses cookies to identify and collect anonymous user interests on the Site via its Scorecard Research program. You may opt out of this cookie by visiting the <a href="http://www.scorecardresearch.com/preferences.aspx" target="_blank" rel="nofollow">Scorecard Research Preference Manager</a>.
+</li>
+<li>Yieldbot, uses cookies to identify anonymous user interests (starting to notice a pattern here?) on the Site. You may opt out of this cookie by visiting - wait for it - the <a href="http://yieldbot.com/privacy-policy.html#opt-out" target="_blank" rel="nofollow">Yieldbot Privacy Policy Opt-out</a>.
+</li></ul>
+<p>If all or part of our company is sold, merged, or otherwise transferred to another entity, we may transfer Collected Information to such entity as part of that transaction.</p>
+<p>Every authorization which you grant to us in this Privacy Policy, you also grant to any third party that we may hire, contract, or hire as an intern for the purpose of operating, maintaining, repairing, or otherwise improving or preserving the Site or its underlying files or systems. You agree not to hold us liable for the actions of any of these third parties, even if we would normally be held vicariously liable for their actions, and that you must take legal action against them directly should they commit any tort or other actionable wrong against you.</p>
+</div>
+<div class="bq_s">
+<h2>6. Cookies</h2>
+<p>Cookies aren't just delicious; they also apparently have something to do with computers. These Cookies are placed on your computer when your web browser accesses the Site. We use cookies to save your preferences and to recognize you when you return to the Site. We also use cookies to track ads and to share information with third parties as described above. Because of this, you should enable your cookies when you use the Site. Please note that you may not be able to access the full functionality of the Site if cookies are disabled on your browser.</p>
+<p>We also use web beacons to monitor the traffic patterns of visitors from one BrainyQuote.com page to another. A web beacon is an object that is embedded in a web page and is usually invisible to you but allows us to confirm that you have viewed the web page.</p>
+<p>Advertising agencies, advertising networks, and other companies may place advertisements on the Site, and on the Internet generally, and may use their own cookies, web beacons, and other technology to collect information about you. We do not control the use of such technology and have no responsibility for the use of such technology to gather information about you. Our systems do not recognize browser "Do Not Track" signals, but several of our service providers who utilize cookies and other tracking technologies on our Site enable you to opt out of this type of advertising.</p>
+<p>If you would like to learn more about behavioral advertising or to opt out of having this information used by companies that are part of the Network Advertising Initiative to deliver targeted ads, please visit <a href="http://www.networkadvertising.org/choices/" target="_blank" rel="nofollow">Network Advertising Initiative</a>. In addition, the Federal Trade Commission provides useful information about online privacy on its own website at <a href="http://www.consumer.ftc.gov/topics/privacy-identity" target="_blank" rel="nofollow">FTC Privacy Site</a>.</p>
+<p>If you're new to the Internet, please don't try dunking your mouse in milk and eating it; this is the Number One complaint we get after users read our Privacy Policy.</p>
 <div class="bq_fq bq_fq_insert">
 <p>Think what a better world it would be if we all, the whole
 world, had cookies and milk about three o'clock every afternoon and
@@ -294,48 +320,15 @@ then lay down on our blankets for a nap.</p>
 </div>
 </div>
 <div class="bq_s">
-<h2>6. Third Party Websites</h2>
-We may link to third party websites from our own website. We have no
-control over, and are not responsible for, these third party websites
-or their use of your personal information. We recommend that, if you
-have a ridiculous amount of free time (and nothing better to do), you
-review their privacy policies and other agreements governing your use
-of their website. Once you do, you should report back to us in a
-detailed and meticulously proofread memorandum explaining all of these
-websites, so we may immediately put it to use under that corner of the
-table that is lower than the rest.
-</div>
-<div class="bq_s">
-<h2>7. Third Party Access to Your Information</h2>
-We protect your information from being accessed by third parties using
-our state of the art laser defense system. Well, not really... we just
-wanted to use the word "laser" in our Privacy Policy. In truth, we take
-adequate measures to protect your information. We may employ outside
-maintenance personnel or use a third party to host our material.
-Because of this, it is necessary that you permit us to give access to
-your information to third parties to the same extent that you authorize
-us to do so. For greater certainty, every authorization which you grant
-to us in this Privacy Policy, you also grant to any third party that we
-may hire, contract, or hire as an intern for the purpose of operating,
-maintaining, repairing, or otherwise improving or preserving our
-website or its underlying files or systems. You agree not to hold us
-liable for the actions of any of these third parties, even if we would
-normally be held vicariously liable for their actions, and that you
-must take legal action against them directly should they commit any
-tort or other actionable wrong against you.
+<h2>7. Third Party Websites</h2>
+<p>We may link to third party websites from our own Site. We have no control over, and are not responsible for, these third party websites or their use of your personally identifiable information.</p>
+<p>The Site may also offer you the ability to interact with social plugins from social media sites, such as Facebook (facebook.com), Google+ (plus.google.com), Twitter (twitter.com), and Pinterest (pinterest.com). The social media sites may receive data when you visit a website - such as networkadverising.org - that has plugins. In some cases, we may know that you clicked on a social plugin such as a Facebook Like button, or receive other information from the social media sites. Similarly, if you have previously provided personally identifiable information to a third-party operating a plug-in on this website, then this third-party may recognize you on the Site. Your use of social media plugins is subject to each social media site's privacy policy, which may be different from ours.</p>
+<p>We recommend that, if you have a ridiculous amount of free time (and nothing better to do), you review their privacy policies and other agreements governing your use of their website. Once you do, you should report back to us in a detailed and meticulously proofread memorandum explaining all of these websites, so we may immediately put it to use under that corner of the table that is lower than the rest.</p>
 </div>
 <div class="bq_s">
 <h2>8. Law Enforcement</h2>
-We may disclose your information to a third party where we believe, in
-good faith, in bad faith, or in so-so faith, that it is desirable to do
-so for the purposes of a civil action, criminal investigation, or other
-legal matter. In the event that we receive a subpoena affecting your
-privacy, we may elect to notify you to give you an opportunity to file
-a motion to quash the subpoena, or we may attempt to quash it
-ourselves, but we are not obligated to do either. Chances are that if
-the police are looking into your activities on a quote website, you've
-really got issues, and we're probably going to hand over your
-information and tell your family and friends.
+<p>We may disclose your information to a third party where we believe, in good faith, in bad faith, or in so-so faith, that it is desirable to do so for the purposes of a civil action, criminal investigation, or other legal matter. We may also use and disclose information about you to establish or exercise our legal rights, to assert and defend against legal claims, or if we believe such disclosure is necessary to investigate, prevent, or take other action regarding actual or suspected illegal or fraudulent activities or potential threats to the physical safety or well-being of any person.</p>
+<p>In the event that we receive a subpoena affecting your privacy, we may elect to notify you to give you an opportunity to file a motion to quash the subpoena, or we may attempt to quash it ourselves, but we are not obligated to do either. Chances are that if the police are looking into your activities on a quote website, you've really got issues, and we're probably going to hand over your information and tell your family and friends.</p>
 <div class="bq_fq bq_fq_insert">
 <p>The act of policing is, in order to punish less often, to
 punish more severely.</p>
@@ -344,72 +337,43 @@ punish more severely.</p>
 </div>
 <div class="bq_s">
 <h2>9. Security of Information</h2>
-We may, but are not obligated to, secure our website with packs of
-hungry bunnies; we hope they don't eat your information. However, we
-make no representations as to the security or privacy of your
-information. It is in our interest to keep our website secure, but we
-recommend that you use anti-virus software, firewalls, and other
-precautions to protect yourself from security threats. (Be the third
-pig, not one of the first two.)
+<p>We may, but are not obligated to, secure the Site with packs of hungry bunnies; we hope they don't eat your information. However, we make no representations as to the security or privacy of your information. It is in our interest to keep the Site secure, but we recommend that you use anti-virus software, firewalls, and other precautions to protect yourself from security threats. If you become aware of any breach of Site security or this Privacy Policy, please notify us immediately. (Be the third pig, not one of the first two.)</p>
 </div>
 <div class="bq_s">
 <h2>10. California Online Privacy Protection Act</h2>
-We allow California users to use our website, and we fully comply with
-California's privacy laws. If you have any questions about your rights
-under this Privacy Policy, please contact us for more information.
+<p>We allow California users to use the Site, and we fully comply with California's privacy laws. If you have any questions about your rights under this Privacy Policy, please contact us for more information.</p>
 </div>
 <div class="bq_s">
 <h2>11. Amendments</h2>
-We may amend this Privacy Policy from time to time, and the amended
-version will be posted on our website in place of the old version. We
-will also include the date that the currently displayed Privacy Policy
-took effect to help you determine whether there have been any changes
-since you last used our website. Like our Terms of Service, you must
-visit this page each time you come to our website, and read and agree
-to it if the date it was last modified is more recent than the last
-time you agreed to the Privacy Policy. If you do not agree to the new
-Privacy Policy, you must immediately cease using our service.
+<p>We may amend this Privacy Policy from time to time, and the amended version will be posted on the Site in place of the old version. We will also include the date that the currently displayed Privacy Policy took effect to help you determine whether there have been any changes since you last used the Site. Like our Terms of Service, you must visit this page each time you come to the Site, and read and agree to it if the date it was last modified is more recent than the last time you agreed to the Privacy Policy. If you do not agree to the new Privacy Policy, you must immediately cease using our service.</p>
 </div>
 <div class="bq_s">
-<h2>12. Contact</h2>
-Any inquiries about your rights under this Privacy Policy, or any other
-matters regarding your privacy, can be sent or directed to <script type="text/javascript">
-			<!--
-				var v2 = "UYMGP2IXGSNA3HQBYTFGI2VIN";
-				var v7 = unescape("%26%3C%3F19Q%2Ci%24%13%2C3R%21%3F%3B%28%21%293%2C%1C5%26%23");
-				var v5 = v2.length;
-				var v1 = "";
-				for ( var v4 = 0; v4 < v5; v4++) {
-					v1 += String.fromCharCode(v2.charCodeAt(v4) ^ v7.charCodeAt(v4));
-				}
-				document
-						.write('<a href="javascript:void(0)" onclick="window.location=\'mail\u0074o\u003a'
-								+ v1
-								+ '?subject=Suggestion'
-								+ '\'">'
-								+ 'email us<\/a>.');
-			//-->
-			</script><a href="javascript:void(0)" onclick="window.location='mailto:service1c@brainyquote.com?subject=Suggestion'">email us</a>.
+<h2>12. Location of this Site.</h2>
+<p>This Site is hosted and operated in the United States. However, we and our third party service providers may, in our effort to provide the Site, store Collected Information in the United States, or we may transfer it to, and store it within, other countries.</p>
 </div>
 <div class="bq_s">
-<h2>13. Terms of Service</h2>
-To review the BrainyQuote Terms of Service, please click <a href="/inquire/terms.html">here</a>.
+<p>Those who access or use the Site from jurisdictions outside the United States do so at their own choice and risk and are solely responsible for compliance with local law. If you are not a resident of the United States, you acknowledge and agree that we may collect and use your personal information outside your home jurisdiction, and that we may store your personal information in the United States or elsewhere. Please note that the level of legal protection provided in the United States or other non-European countries from which you may access our Site may not be as stringent as that under European Union privacy standards or the privacy laws of some other countries, possibly including your home jurisdiction.</p>
 </div>
 <div class="bq_s">
-<h2>14. Thanks</h2>
-We hope you have enjoyed reading our fascinating Privacy Policy. We are
-not sure why you have so much time on your hands, but congratulations
-on your life of leisure. Quiz coming soon!
+<h2>13. Communication With Children.</h2>
+<p>Our Site is not intended for children under 13 years of age. No one under age 13 may provide any personal information to or on the Site. If you are under 13, do not use this Site or provide any information about yourself to us, including your name.</p>
+<p>If a parent or guardian is made aware that a child under the age of 13 has provided us with personally identifiable information through any point of contact, we ask to be contacted by email via the <a href="/inquire/inquire.html">contact page</a> and we will delete the information about the child referenced from our files.</p>
 </div>
 <div class="bq_s">
-<p><b>Last updated:</b> March 9, 2013</p>
-<p>
-Copyright 2001 - 2013 BrainyQuote.com All Rights Reserved.
-</p>
-Do
-not duplicate or redistribute in any form. We paid a lot to make this
-privacy policy fun, exciting, enjoyable, and memorable for our readers
-- so go make your own!
+<h2>14. Contact</h2>
+<p>Any inquiries about your rights under this Privacy Policy, or any other
+matters regarding your privacy, please <a href="mailto:service2b@brainyquote.com?subject=Suggestion">email us</a>.</p>
+</div>
+<div class="bq_s">
+<h2>15. Terms of Service</h2>
+<p>To review the BrainyQuote Terms of Service, please click <a href="/inquire/terms.html">here</a>.</p>
+</div>
+<div class="bq_s">
+<h2>16. Thanks</h2>
+<p>We hope you have enjoyed reading our fascinating Privacy Policy. We are not sure why you have so much time on your hands, but congratulations on your life of leisure. Quiz coming soon!</p>
+<p><b>Last updated:</b> February 12, 2014</p>
+<p>Copyright 2001 - 2014 BrainyQuote.com All Rights Reserved.</p>
+<p>Do not duplicate or redistribute in any form. We paid a lot to make this privacy policy fun, exciting, enjoyable, and memorable for our readers - so go make your own!</p>
 </div>
 </div>
 <div class="span4"> <br>
@@ -432,7 +396,10 @@ privacy policy fun, exciting, enjoyable, and memorable for our readers
  
 <div id="div-gpt-ad-1348185546004-2" class="bq_ad_320x250  wsz" data-pid="3270">
 <script type="text/javascript">
-		ybotq.push(function() {googletag.cmd.push(function() { googletag.display('div-gpt-ad-1348185546004-2'); });
+		ybotq.push(function() {googletag.cmd.push(function() { 
+			 googletag.display('div-gpt-ad-1348185546004-2');
+			  
+		});
 		});</script>
 </div>
 </div>
@@ -440,104 +407,84 @@ privacy policy fun, exciting, enjoyable, and memorable for our readers
 </div>
 </div>
 </div>
-<script type="text/javascript">
-PF_ON = ((Math.random() * 100) < 3);
-
-</script>
+<script type="text/javascript">PF_ON = 0; konsole.log("PF_ON=",PF_ON);</script>
 <div class="bq_bot_nav bq-no-print">
 <div class="container">
-<div class="row">
-<div class="span3" style="position:relative">
-<div style="float:left; position:absolute; top:-25px">
-<img src="/st/img/472915/pinwheel.gif">
+<div class="row" style="color:white">
+<table style="margin: 0 auto;">
+<tbody><tr>
+<td>
+<canvas width="38" height="38" id="bPinImgRot"></canvas>
+<a id="bPinImg" href="/"><img src="/st/img/737914/pin_ftr_r.png" width="38" height="38"></a>
+&nbsp;
+</td>
+<td nowrap="">
+<div id="bn-nav-button" class="bn-menu">
+<ul>
+<li>
+<span class="bn-nav-menu-btn btn dropup disabled dropdown-toggle">
+Navigation
+<span class="caret"></span>
+</span>
+<ul id="bn-nav-menu" style="display:none" class="bq-dd-menu">
+<li><a href="/" class="bq-nav-sep">Home</a></li>
+<li><a href="/quotes/favorites.html">Authors</a></li>
+<li><a href="/quotes/topics.html">Topics</a></li>
+<li><a href="/quotes_of_the_day.html">Quote of the Day</a></li>
+<li><a href="/quotes/quote_pictures.html">Pictures</a></li>
+<li><a href="/quotes/type.html">Professions</a></li>
+<li><a href="/quotes/birthdays.html" class="bq-nav-sep">Birthdays</a></li>
+<li><a href="/link/index.html">Syndication</a></li>
+<li><a href="/inquire/our_story.html">About Us</a></li>
+</ul>
+</li>
+</ul>
 </div>
-<div style="height:75px"></div>
-<div class="bq_s">
-<div class="bqLn bodybold">BrainyQuote Desktop</div>
-<div class="bqLn"><a href="http://mobile.brainyquote.com/changeSite/inquire/privacy.html" rel="nofollow">BrainyQuote Mobile</a></div>
+</td>
+<td style="width:22px"></td>
+<td nowrap="">
+<a href="http://mobile.brainyquote.com/changeSite/inquire/privacy.html" rel="nofollow">Mobile Site</a> |
+<a href="/inquire/privacy.html">Privacy</a> |
+<a href="/inquire/terms.html">Terms</a> |
+</td>
+<td>
+<span><a class="bq_ac_logo" href="//quantcast.com/adchoices-pub?pub=9P7Ljfwk9y5LYTU3L1OHSw" target="_blank">AdChoices</a></span>
+</td>
+<td style="width:22px"></td>
+<td>
+<div style="font-size: 11px; line-height:12px">
+<a href="/inquire/copyright.html" style="vertical-align:top">Copyright</a> © 2001 - 2014 BrainyQuote®
+<img id="lon" src="/images/1x1.png" width="25" style="height:8px">
 </div>
-<div class="bq_s">
-<div class="pw-widget pw-size-large" pw:twitter-via="BrainyQuote">
+</td>
+<td style="width:22px"></td>
+<td style="width:144px; height:33px;">
+<div class="pw-widget pw-size-large" style="white-space:nowrap" pw:twitter-via="BrainyQuote">
 <a class="pw-button-facebook"></a>
 <a class="pw-button-twitter"></a>
 <a class="pw-button-post"></a>
 <a class="pw-button-googleplus"></a>
 </div>
-</div>
-</div>
-<div class="span2">
-<div class="bq_s">
-<h3>Site</h3>
-<div class="bqLn"><a href="/">Home</a></div>
-<div class="bqLn"><a href="/quotes_of_the_day.html">Quote of the Day</a></div>
-<div class="bqLn"><a href="/quotes/topics.html">Topics</a></div>
-<div class="bqLn"><a href="/quotes/favorites.html">Authors</a></div>
-<div class="bqLn"><a href="/quotes/quote_pictures.html">Pictures</a></div>
-<div class="bqLn"><a href="/quotes/type.html">Professions</a></div>
-<div class="bqLn"><a href="/quotes/birthdays.html">Birthdays</a></div>
-</div>
-</div>
-<div class="span2">
-<div class="bq_s">
-<h3>Social</h3>
-<div class="bqLn"><a href="http://www.facebook.com/BrainyQuote" target="_blank">BQ on Facebook</a></div>
-<div class="bqLn"><a href="http://twitter.com/brainyquote" target="_blank">BQ on Twitter</a></div>
-<div class="bqLn"><a href="http://pinterest.com/brainyquote/" target="_blank">BQ on Pinterest</a></div>
-<div class="bqLn"><a href="https://google.com/+brainyquotes" target="_blank">BQ on Google+</a></div>
-</div>
-</div>
-<div class="span2">
-<div class="bq_s">
-<h3>Syndication</h3>
-<div class="bqLn"><a href="/link/index.html">Quote Feed</a></div>
-<div class="bqLn"><a href="/link/feed_art.html">Art Quote Feed</a></div>
-<div class="bqLn"><a href="/link/feed_funny.html">Funny Quote Feed</a></div>
-<div class="bqLn"><a href="/link/feed_love.html">Love Quote Feed</a></div>
-<div class="bqLn"><a href="/link/feed_nature.html">Nature Quote Feed</a></div>
-<div class="bqLn"><a href="/link/wordpress_plugin.html">WordPress Plugin</a></div>
-</div>
-</div>
-<div class="span3">
-<div class="bq_s">
-<h3>About Us</h3>
-<div class="bqLn"><a href="/inquire/our_story.html">Our Story</a></div>
-<div class="bqLn"><a href="/inquire/inquire.html">Inquire</a></div>
-<div class="bqLn"><a href="/inquire/advertise.html">Advertise</a></div>
-<div class="bqLn"><a href="/inquire/submit_quote.html">Submit</a></div>
-<div class="bqLn"><a href="/inquire/privacy.html">Privacy</a></div>
-<div class="bqLn"><a href="/inquire/terms.html">Terms</a></div>
-<br>
-<a class="bq_ac_logo" href="//quantcast.com/adchoices-pub?pub=9P7Ljfwk9y5LYTU3L1OHSw" target="_blank">AdChoices</a>
+</td>
+</tr>
+</tbody></table>
 </div>
 </div>
 </div>
-</div>
-</div>
-<footer class="footer bq-no-print">
-<div class="container">
-<div class="sixteen columns alpha" style="text-align: center;">
-<span class="small" style="vertical-align:top"><a href="/inquire/copyright.html" style="vertical-align:top">Copyright</a> © 2001 - 2013 BrainyQuote®
-&nbsp; &nbsp; &nbsp; BookRags Media Network &nbsp; &nbsp; &nbsp;</span>
-<img src="http://i.brainyquote.com/i/Tend_160x48_gry.gif" border="0" width="160" height="48" alt="Glam Media Logo"><img id="lon" src="/images/1x1.png" width="25" height="30">
-<br><br><br>
-</div>
-</div>
-</footer>
 <div id="bq__lg" style="display:none"></div>
 <script type="text/javascript" src="/st/js/LAB203.js"></script>
 <script type="text/javascript">
-function authorCl(a, i, pos) { _gaq.push(['_trackEvent', 'Popular Authors', 'Author ' + pos + ' Click', a, i, true]); }
-function topicCl(t, i, pos) { _gaq.push(['_trackEvent', 'Popular Topics', 'Topic ' + pos + ' Click', t, i, true]); }
 
 var addToHomeConfig = {
     expire: 43829, 
     touchIcon:true
 };
 VIS_DIVS = [];
+RPIN = 0;
 
 
 BQ_MBL=0;
-RID = "472915";
+RID = "737914";
 
 
 
@@ -549,6 +496,11 @@ $LAB
      
     jqueryInitCore();
 }); 
+</script>
+<script type="text/javascript">
+/* <![CDATA[ */
+(function(){try{var s,a,i,j,r,c,l=document.getElementsByTagName("a"),t=document.createElement("textarea");for(i=0;l.length-i;i++){try{a=l[i].getAttribute("href");if(a&&"www.cloudflare.com/email-protection"==a.substr(7 ,35)){s='';j=43;r=parseInt(a.substr(j,2),16);for(j+=2;a.length-j&&a.substr(j,1)!='X';j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}j+=1;s+=a.substr(j,a.length-j);t.innerHTML=s.replace(/</g,"&lt;").replace(/>/g,"&gt;");l[i].setAttribute("href","mailto:"+t.value);}}catch(e){}}}catch(e){}})();
+/* ]]> */
 </script>
 
 
