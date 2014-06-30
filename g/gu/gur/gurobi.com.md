@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gurobi.com privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211072533id_/http%3A//www.gurobi.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gurobi.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630185358id_/http%3A//www.gurobi.com/company/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - We respect our customers and their privacy
 
