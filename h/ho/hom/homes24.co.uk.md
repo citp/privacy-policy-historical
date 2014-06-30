@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the homes24.co.uk privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807113401id_/http%3A//www.homes24.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homes24.co.uk privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630162200id_/http%3A//www.homes24.co.uk/privacy) for the most accurate reproduction.*
 
 # Homes24 Privacy policy
 
 ## Our commitment to you
 
-Zoopla Ltd ('Zoopla') and Archant Ltd ('Archant') respect your privacy and are committed to protecting personal information collected from you through our website. This privacy policy governs the way we collect and use information, and by using the services on our website ('Services') you agree to be bound by this policy. All references within this policy to 'we/us/our' refer to both Zoopla Ltd and Archant Ltd.
+Zoopla Property Group Plc ('Zoopla') and Archant Ltd ('Archant') respect your privacy and are committed to protecting personal information collected from you through our website. This privacy policy governs the way we collect and use information, and by using the services on our website ('Services') you agree to be bound by this policy. All references within this policy to 'we/us/our' refer to both Zoopla Property Group Plc and Archant Ltd.
 
 ## Information we collect
 
@@ -14,7 +14,7 @@ When visiting our website, we may place one or more cookies (a small file that i
 
 ## How we use information
 
-We use the information we collect to provide the Services and to communicate with you. We may disclose information (including personal information) to other companies in our group (<http://www.dmgt.co.uk/footer/dmgt>) and may use and share, within the group, information that we learn from your interactions with us. We will only share your personal information outside our group in the following circumstances:
+We use the information we collect to provide the Services and to communicate with you. We may disclose information (including personal information) to other companies in our group and may use and share, within the group, information that we learn from your interactions with us. We will only share your personal information outside our group in the following circumstances:
 
   * When you have consented or directed us to share the information.
   * With service providers or affiliate companies who perform services on our behalf.
@@ -43,4 +43,4 @@ We reserve the right to change this privacy policy at any time without prior not
 
 If you have any questions or comments about our privacy policy, please [Contact us](https://web.archive.org/contact/).
 
-This policy was last updated on 28th September, 2012
+This policy was last updated on 19th June, 2014
