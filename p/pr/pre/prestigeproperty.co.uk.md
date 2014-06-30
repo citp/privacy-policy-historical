@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prestigeproperty.co.uk privacy policy that was archived on 2013-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131108090353id_/http%3A//www.prestigeproperty.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prestigeproperty.co.uk privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630221653id_/http%3A//www.prestigeproperty.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - Prestige Property Group
 
