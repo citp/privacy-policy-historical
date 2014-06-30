@@ -1,29 +1,135 @@
-> *The following text is extracted and transformed from the paperchase.co.uk privacy policy that was archived on 2012-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120501084351id_/http%3A//www.paperchase.co.uk/customer-service/security%2Bprivacy/page/securitypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paperchase.co.uk privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630183809id_/http%3A//www.paperchase.co.uk/privacy-and-cookies) for the most accurate reproduction.*
 
-# security & your data at Paperchase
+# Privacy & Cookies at Paperchase
 
-At Paperchase, we take care to protect your privacy and secure your information. 
+At Paperchase we use cookies to look at how groups, rather than individuals, use our website. In our physical stores, we can observe which aisles and departments are most heavily trafficked and determine what displays or products are the most successful. We can then identify ways to improve the customer experience. On the web, cookies help us develop a similar understanding so that we can continue to improve the arrangement, product offerings, and merchandise placement you see at Paperchase.co.uk.
 
-To provide credit card security and keep your personal information safe, we use Secure Sockets Layer (SSL) technology, the most widely used data encryption coding system for secure eCommerce transactions. If your browser doesn't accept the SSL technology, your purchase will not be permitted. All of your information is encrypted (scrambled) prior to being sent over the Internet to our system. To protect your information once we receive it, we place it on Tier 1 PCI DSS certified systems designed to keep information safe and inaccessible to other Internet users. 
+We also use cookies to keep track of products that you as an individual user have recently viewed and if you’ve arrived on our site from an affiliate website, which affiliate you arrived from.
 
-The [Payment Card Industry Data Security Standard (PCI DSS)](http://www.venda.com/pci-compliance-certificate?referer=http://www.paperchase.co.uk "PCI Tier 1 100% Security and Data Protection - opens in a new window") is a security standard and our Tier 1 Certification and compliance ensures unbeatable security and protection of sensitive customer information including credit cards. Paperchase.co.uk has gone through a rigorous independent audit and significant investment to attain Tier 1 PCI DSS certification. The purpose is to ensure that your data is as safe as possible when you purchase products online at Paperchase.co.uk.
+Please note that Paperchase are not responsible for the content of external websites.
 
-For return visits to the site, we can securely store your credit card information in our system using that same technology if you opt in for us to save your credit card information. Shopping at Paperchase.co.uk is safe, convenient and secure.
+This privacy policy sets out how Paperchase uses and protects any information that you give Paperchase when you use this website. Paperchase is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. Paperchase may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. 
 
-### what information do we collect?
+* * *
 
-We collect various types of information depending upon how you use our site. We will not disclose your personal details to third parties.
+## WHAT INFORMATION WE COLLECT
 
-  * When you order from us, we collect some personal information from you including your name, billing address, delivery address, email address, phone number(s) and credit card number (with expiration date) or gift voucher number. We also store information on the person who will receive any gift you send (e.g., that person's name and address) and we will retain a record of your purchases. In addition, if you are a registered user and have signed in when you enter this information, it will automatically be saved in your “my account” area for ease of reference. We also provide you with the option requiring us not to save your credit card information with us if you so choose.
-  * When you become a Paperchase.co.uk registered user, we collect information from you including your name, mailing address, email address and password. This information is gathered to make your shopping experience as a registered user as quick and easy as possible. Additionally, we collect certain personal information if you choose to opt-in to our email newsletters or SMS alerts.
-  * Our primary goal in collecting personal information - including your first name, last name, purchase history, phone number(s), valid email and residential address and credit card data - is to provide you with a smooth, efficient, customised shopping experience and to let you know about offers that may be of interest to you.
-  * Data collected from this website will also help us work towards improving our website content and for internal marketing analysis and promotional purposes. We will not disclose your personal details to third parties.
-  * Information collected from you relating to career opportunities within Paperchase will be used as part of our internal recruitment process only and will not be shared with other parties.
+We may collect the following information:
+
+  * name
+  * contact information including email address
+  * demographic information such as postcode, preferences and interests
+  * other information relevant to customer surveys and/or offers
 
 
 
-This website is operated by Paperchase Products Ltd, and this security policy applies to this website only.
+**Back to top**
 
-If you have any questions or comments about our security or privacy policy, please [contact us](http://www.paperchase.co.uk/help/contact-us/page/contact/).
+* * *
 
-Read more about [privacy & cookies](https://web.archive.org/page/cookies).
+## WHAT WE DO WITH THE INFORMATION
+
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons: 
+
+  * Internal record keeping.
+  * We may use the information to improve our products and services.
+  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided. 
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests. 
+
+
+
+**Back to top**
+
+* * *
+
+## SECURITY
+
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. 
+
+**Back to top**
+
+* * *
+
+## HOW WE USE COOKIES
+
+A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. 
+
+We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. 
+
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website. 
+
+**Back to top**
+
+* * *
+
+## LINKS TO OTHER WEBSITES
+
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question. 
+
+**Back to top**
+
+* * *
+
+## CONTROLLING YOUR PERSONAL INFORMATION
+
+You may choose to restrict the collection or use of your personal information in the following ways:
+
+  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes 
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at customerservices@paperchase.co.uk 
+
+
+
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. 
+
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to . 
+
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect. 
+
+**Back to top**
+
+* * *
+
+## LIST OF COOKIES WE COLLECT
+
+The table below lists the cookies we collect and what information they store.
+
+COOKIE NAME | COOKIE DESCRIPTION  
+---|---  
+CART | The association with your shopping cart.  
+CATEGORY_INFO | Stores the category info on the page, that allows to display pages more quickly.  
+COMPARE | The items that you have in the Compare Products list.  
+CURRENCY | Your preferred currency  
+CUSTOMER | An encrypted version of your customer id with the store.  
+CUSTOMER_AUTH | An indicator if you are currently logged into the store.  
+CUSTOMER_INFO | An encrypted version of the customer group you belong to.  
+CUSTOMER_SEGMENT_IDS | Stores the Customer Segment ID  
+EXTERNAL_NO_CACHE | A flag, which indicates whether caching is disabled or not.  
+FRONTEND | You sesssion ID on the server.  
+GUEST-VIEW | Allows guests to edit their orders.  
+LAST_CATEGORY | The last category you visited.  
+LAST_PRODUCT | The most recent product you have viewed.  
+NEWMESSAGE | Indicates whether a new message has been received.  
+NO_CACHE | Indicates whether it is allowed to use cache.  
+PERSISTENT_SHOPPING_CART | A link to information about your cart and viewing history if you have asked the site.  
+POLL | The ID of any polls you have recently voted in.  
+POLLN | Information on what polls you have voted on.  
+RECENTLYCOMPARED | The items that you have recently compared.   
+STF | Information on products you have emailed to friends.  
+STORE | The store view or language you have selected.  
+USER_ALLOWED_SAVE_COOKIE | Indicates whether a customer allowed to use cookies.  
+VIEWED_PRODUCT_IDS | The products that you have recently viewed.  
+WISHLIST | An encrypted list of products added to your Wishlist.  
+WISHLIST_CNT | The number of items in your Wishlist.  
+_UTMA | Records the time of your first visit, previous visit, and current visit.   
+_UTMB & _UTMC | Indicates when your visit starts and approximately ends.  
+_UTMZ | Indicates how you entered the site.  
+  
+As we continue to develop our website and take advantage of technologies to improve the services we offer, this privacy policy may change. We therefore encourage you to refer to this policy on an ongoing basis so that you understand our current privacy policy.
+
+This website is operated by Paperchase Products Ltd, and this privacy policy applies to this website only.
+
+If you have any questions or comments about our security or privacy policy, please [contact us](http://www.paperchase.co.uk/#/).
+
+Read more about [security & your data](http://www.paperchase.co.uk/security/)
+
+**Back to top**
