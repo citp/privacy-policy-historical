@@ -1,0 +1,364 @@
+<!--The following is the downloaded HTML source of the junkmail.co.za privacy policy that was archived on 2014-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140630034626id_/http%3A//www.junkmail.co.za/help/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "	"><html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" prefix="og: http://ogp.me/ns#"><head profile="http://gmpg.org/xfn/11">
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script data-cfasync="false" src="//dsms0mj1bbhn4.cloudfront.net/assets/pub/shareaholic.js" type="text/javascript" async=""></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgYCVlBQGwIAU1BbAwk="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+	
+	<title>Junk Mail Help -&nbsp;Privacy Policy | Junk Mail Help -&nbsp;</title>
+	
+	<link rel="stylesheet" href="http://www.junkmail.co.za/help/wp-content/themes/Junk%20Mail%20Help/css/Stylesheet.css" media="screen" type="text/css">
+	
+	<link rel="alternate" type="application/rss+xml" title="Junk Mail Help -&nbsp; RSS Feed" href="http://www.junkmail.co.za/help/feed/">
+	
+	<link rel="pingback" href="http://www.junkmail.co.za/help/xmlrpc.php">
+	    
+	
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.5.2.8 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="robots" content="noodp,noydir">
+<link rel="canonical" href="http://www.junkmail.co.za/help/privacy-policy/">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Privacy Policy | Junk Mail Help -&nbsp;">
+<meta property="og:description" content="&nbsp; Junk Mail Digital Privacy Statement Junk Mail Digital is committed to protecting your privacy and developing technology that gives you a powerful and safe online experience. This Statement of Privacy applies to the Junk Mail Digital Web (www.junkmail.co.za) site and governs data collection and usage. By using the Junk Mail Digital website, you consent …">
+<meta property="og:url" content="http://www.junkmail.co.za/help/privacy-policy/">
+<meta property="og:site_name" content="Junk Mail Help -&nbsp;">
+<meta property="article:published_time" content="2014-01-23T13:18:35+00:00">
+<!-- / Yoast WordPress SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="Junk Mail Help -&nbsp; » Privacy Policy Comments Feed" href="http://www.junkmail.co.za/help/privacy-policy/feed/">
+<!-- This site is powered by Shareaholic - https://shareaholic.com -->
+<script type="text/javascript" data-cfasync="false">
+  //<![CDATA[
+    (function() {
+      var shr = document.createElement('script');
+      shr.setAttribute('data-cfasync', 'false');
+      shr.src = '//dsms0mj1bbhn4.cloudfront.net/assets/pub/shareaholic.js';
+      shr.type = 'text/javascript'; shr.async = 'true';
+      shr.onload = shr.onreadystatechange = function() {
+        var rs = this.readyState;
+        if (rs && rs != 'complete' && rs != 'loaded') return;
+        var site_id = '9d81ac9d7094871bba57d408db463cff';
+        var page_config = {};
+        try { Shareaholic.init(site_id, page_config); } catch (e) {}
+      };
+      var s = document.getElementsByTagName('script')[0];
+      s.parentNode.insertBefore(shr, s);
+    })();
+  //]]>
+</script>
+
+<!-- Shareaholic Content Tags -->
+<meta name="shareaholic:site_name" content="Junk Mail Help -&nbsp;">
+<meta name="shareaholic:language" content="en-US">
+<meta name="shareaholic:url" content="http://www.junkmail.co.za/help/privacy-policy/">
+<meta name="shareaholic:article_published_time" content="2014-01-23T11:18:35+00:00">
+<meta name="shareaholic:article_modified_time" content="2014-05-15T08:23:07+00:00">
+<meta name="shareaholic:article_author_name" content="Junk Mail Help">
+<meta name="shareaholic:site_id" content="9d81ac9d7094871bba57d408db463cff">
+<meta name="shareaholic:wp_version" content="7.2.0.0">
+
+<!-- Shareaholic Content Tags End -->
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.junkmail.co.za/help/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.junkmail.co.za/help/wp-includes/wlwmanifest.xml"> 
+
+<link rel="shortlink" href="http://www.junkmail.co.za/help/?p=2915">
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-3573529-12']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+	<script language="javascript" src="http://www.junkmail.co.za/help/wp-content/themes/Junk%20Mail%20Help/settings/expand.js"></script> 
+	<script language="javascript" src="http://www.junkmail.co.za/help/wp-content/themes/Junk%20Mail%20Help/js/plugins/bootstrap/bootstrap-dropdown.js"></script>
+	<!--[if lt IE 9]>
+	<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
+
+</head>
+
+<body>
+<div id="wrapper">
+
+	<!-- Site Header -->
+	<header id="masthead">
+		<div class="container">
+			<div class="top-bar">
+				<div class="link-group">
+					
+				    <ul class="vertical sister-sites-dropdown">
+					    <li class="dropdown" id="sister-sites">
+					        <a class="dropdown-toggle" data-toggle="dropdown" href="#sister-sites"><span class="icon arrow-white"></span> More Junk Mail Sites</a>
+					          
+					         	<ul class="dropdown-menu">
+					         		<li><a href="http://www.jobmail.co.za/" target="_blank">Job Mail</a></li>
+					         		<li><a href="http://www.lovemail.co.za/" target="_blank">Love Mail</a></li>
+					         		<li><a href="http://www.freepropertyads.co.za/" target="_blank">Free Property Ads</a></li>
+					         		<li><a href="http://www.automart.co.za/" target="_blank">AutoMart</a></li>					         		
+					         		<li><a href="http://www.automart.co.za/bikes" target="_blank">Bike and Quad Mart</a></li>
+					         		<li><a href="http://www.truckandtrailer.co.za/" target="_blank">Truck and Trailer</a></li>
+					         		<li><a href="http://www.truckandtrailer.co.za/machinery" target="_blank">Plant and Machinery</a></li>
+					         	</ul>
+					      </li>
+				     </ul>
+				     
+				     <small>A Junk Mail Media Site</small>
+				     
+				</div>
+				<small>Want Junk Mail on your mobile? Visit our <a href="http://www.junkmail.co.za/mobile">Mobile Classifieds</a></small>
+			</div>
+			<div class="row middle-bar">
+				<figure class="span3 logo">
+					<a href="http://www.junkmail.co.za/"><img src="http://www.junkmail.co.za/help/wp-content/themes/Junk%20Mail%20Help/images/site/logo.png" alt="Junk Mail Classifieds"></a>
+				</figure>
+				<div class="span10 kb">
+					&nbsp;					
+				</div>
+
+				<div class="span3 right-block">
+					<!-- Free Ad Button -->
+					<div class="block block-free-ad-button">
+						<div class="content">
+							<form method="POST" action="/post-free-ad?utm_source=JunkMailBlog&amp;utm_medium=Social&amp;utm_campaign=HelpHeader">
+								<input type="submit" style="cursor: pointer;" value="Place a Free Ad" name="post">
+							</form>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="bottom-bar">
+				<nav class="main-navigation">
+					<ul class="float horizontally navigation">
+						<li class="link-home"><a href="http://www.junkmail.co.za/?utm_source=JunkMailBlog&amp;utm_medium=Social&amp;utm_campaign=HelpHeader">Browse Classifieds</a></li>
+						<li class="link-contact"><a href="http://www.junkmail.co.za/contact-us?utm_source=JunkMailBlog&amp;utm_medium=Social&amp;utm_campaign=HelpHeader">Contact Us</a></li>
+						<li class="link-trader"><a href="http://www.junkmail.co.za/trader-directory?utm_source=JunkMailBlog&amp;utm_medium=Social&amp;utm_campaign=HelpHeader">Trader Directory</a></li>
+						<li class="link-scams"><a href="http://www.junkmail.co.za/help/safety-and-security-tips/?utm_source=JunkMailBlog&amp;utm_medium=Social&amp;utm_campaign=HelpHeader">Avoid Scams</a></li>
+						<li class="link-blog"><a href="http://www.junkmail.co.za/blog/?utm_source=JunkMailBlog&amp;utm_medium=Social&amp;utm_campaign=HelpHeader">Blog</a></li>
+					</ul>
+				</nav>
+			</div>
+			
+		</div>
+	</header>
+<div class="container">
+<!-- Site Mast -->
+<section class="row" id="mast">
+	
+	<!-- Sidebar -->
+	<section class="span3 left sidebar">
+	
+		<!-- Free Ad Button -->
+		<div class="block block-free-ad-button">
+			<div class="content">
+				<form method="POST" action="/post-free-ad?utm_source=JunkMailBlog&amp;utm_medium=Social&amp;utm_campaign=HelpSidebar">
+					<input type="submit" style="cursor: pointer;" value="Place a Free Ad" name="post">
+				</form>
+			</div>
+		</div>
+		
+			<div class="sidebar">
+	
+		<div class="sideItem"><h3>More Info</h3>		<ul>
+			<li class="page_item page-item-1332"><a href="http://www.junkmail.co.za/help/about-us/">About us</a></li>
+<li class="page_item page-item-1310"><a href="http://www.junkmail.co.za/help/ads-allowed/">Ads not allowed</a></li>
+<li class="page_item page-item-2915 current_page_item"><a href="http://www.junkmail.co.za/help/privacy-policy/">Privacy Policy</a></li>
+<li class="page_item page-item-1272"><a href="http://www.junkmail.co.za/help/safety-and-security-tips/">Safety and Security Tips</a></li>
+<li class="page_item page-item-1306"><a href="http://www.junkmail.co.za/help/terms-conditions/">Terms and Conditions</a></li>
+		</ul>
+		</div><div class="sideItem"><h3>Categories</h3>		<ul>
+	<li class="cat-item cat-item-76"><a href="http://www.junkmail.co.za/help/category/account-login/" title="View all posts filed under Account Login">Account Login</a>
+</li>
+	<li class="cat-item cat-item-72"><a href="http://www.junkmail.co.za/help/category/account-registration/" title="View all posts filed under Account Registration">Account Registration</a>
+</li>
+	<li class="cat-item cat-item-78"><a href="http://www.junkmail.co.za/help/category/account-verification/" title="View all posts filed under Account Verification">Account Verification</a>
+</li>
+	<li class="cat-item cat-item-184"><a href="http://www.junkmail.co.za/help/category/advert-bump-up/" title="View all posts filed under Advert Bump Up">Advert Bump Up</a>
+</li>
+	<li class="cat-item cat-item-82"><a href="http://www.junkmail.co.za/help/category/advert-management/" title="View all posts filed under Advert Management">Advert Management</a>
+</li>
+	<li class="cat-item cat-item-4"><a href="http://www.junkmail.co.za/help/category/advert-placement/" title="View all posts filed under Advert Placement">Advert Placement</a>
+</li>
+	<li class="cat-item cat-item-84"><a href="http://www.junkmail.co.za/help/category/advert-responses/" title="View all posts filed under Advert Responses">Advert Responses</a>
+</li>
+	<li class="cat-item cat-item-20"><a href="http://www.junkmail.co.za/help/category/browsing/" title="View all posts filed under Browsing">Browsing</a>
+</li>
+	<li class="cat-item cat-item-16"><a href="http://www.junkmail.co.za/help/category/drop-down-menus/" title="View all posts filed under Drop Down Menus">Drop Down Menus</a>
+</li>
+	<li class="cat-item cat-item-90"><a href="http://www.junkmail.co.za/help/category/email-address-locking/" title="View all posts filed under Email Address Locking">Email Address Locking</a>
+</li>
+	<li class="cat-item cat-item-92"><a href="http://www.junkmail.co.za/help/category/email-alerts/" title="View all posts filed under Email Alerts">Email Alerts</a>
+</li>
+	<li class="cat-item cat-item-8"><a href="http://www.junkmail.co.za/help/category/featured-articles/" title="View all posts filed under Featured Articles">Featured Articles</a>
+</li>
+	<li class="cat-item cat-item-22"><a href="http://www.junkmail.co.za/help/category/filtering/" title="View all posts filed under Filtering">Filtering</a>
+</li>
+	<li class="cat-item cat-item-243"><a href="http://www.junkmail.co.za/help/category/jobs/" title="View all posts filed under Jobs">Jobs</a>
+</li>
+	<li class="cat-item cat-item-18"><a href="http://www.junkmail.co.za/help/category/keywords/" title="View all posts filed under Keywords">Keywords</a>
+</li>
+	<li class="cat-item cat-item-27"><a href="http://www.junkmail.co.za/help/category/listings/" title="View all posts filed under Listings">Listings</a>
+</li>
+	<li class="cat-item cat-item-86"><a href="http://www.junkmail.co.za/help/category/messages/" title="View all posts filed under Messages">Messages</a>
+</li>
+	<li class="cat-item cat-item-236"><a href="http://www.junkmail.co.za/help/category/mobile-help/" title="View all posts filed under Mobile">Mobile</a>
+</li>
+	<li class="cat-item cat-item-14"><a href="http://www.junkmail.co.za/help/category/my-junk-mail/" title="User account information">My Junk Mail</a>
+</li>
+	<li class="cat-item cat-item-221"><a href="http://www.junkmail.co.za/help/category/opt-out/" title="View all posts filed under Opt-out">Opt-out</a>
+</li>
+	<li class="cat-item cat-item-88"><a href="http://www.junkmail.co.za/help/category/password-locking/" title="View all posts filed under Password Locking">Password Locking</a>
+</li>
+	<li class="cat-item cat-item-80"><a href="http://www.junkmail.co.za/help/category/password-recovery/" title="View all posts filed under Password Recovery">Password Recovery</a>
+</li>
+	<li class="cat-item cat-item-170"><a href="http://www.junkmail.co.za/help/category/profile/" title="View all posts filed under Profile">Profile</a>
+</li>
+	<li class="cat-item cat-item-257"><a href="http://www.junkmail.co.za/help/category/promoted-adverts-faqs/" title="View all posts filed under Promoted Adverts – FAQ's">Promoted Adverts – FAQ's</a>
+</li>
+	<li class="cat-item cat-item-24"><a href="http://www.junkmail.co.za/help/category/refining-results/" title="View all posts filed under Refining Results">Refining Results</a>
+</li>
+	<li class="cat-item cat-item-196"><a href="http://www.junkmail.co.za/help/category/responding-to-adverts/" title="View all posts filed under Responding to Adverts">Responding to Adverts</a>
+</li>
+	<li class="cat-item cat-item-10"><a href="http://www.junkmail.co.za/help/category/searching/" title="Searching for ads on Junk Mail">Searching</a>
+</li>
+	<li class="cat-item cat-item-156"><a href="http://www.junkmail.co.za/help/category/selecting-your-region/" title="View all posts filed under Selecting your Region">Selecting your Region</a>
+</li>
+	<li class="cat-item cat-item-212"><a href="http://www.junkmail.co.za/help/category/sharing-adverts/" title="View all posts filed under Sharing Adverts">Sharing Adverts</a>
+</li>
+	<li class="cat-item cat-item-216"><a href="http://www.junkmail.co.za/help/category/sms-advert/" title="View all posts filed under SMS Advert">SMS Advert</a>
+</li>
+	<li class="cat-item cat-item-26"><a href="http://www.junkmail.co.za/help/category/sorting-results/" title="View all posts filed under Sorting Results">Sorting Results</a>
+</li>
+	<li class="cat-item cat-item-226"><a href="http://www.junkmail.co.za/help/category/telephone-number-locking/" title="View all posts filed under Telephone Number Locking">Telephone Number Locking</a>
+</li>
+	<li class="cat-item cat-item-176"><a href="http://www.junkmail.co.za/help/category/top-listing/" title="View all posts filed under Top Listing">Top Listing</a>
+</li>
+	<li class="cat-item cat-item-265"><a href="http://www.junkmail.co.za/help/category/trader-directory/" title="View all posts filed under Trader Directory">Trader Directory</a>
+</li>
+	<li class="cat-item cat-item-223"><a href="http://www.junkmail.co.za/help/category/unsubscribe/" title="View all posts filed under Unsubscribe">Unsubscribe</a>
+</li>
+	<li class="cat-item cat-item-218"><a href="http://www.junkmail.co.za/help/category/usability/" title="View all posts filed under Usability">Usability</a>
+</li>
+	<li class="cat-item cat-item-168"><a href="http://www.junkmail.co.za/help/category/username-recovery/" title="View all posts filed under Username Recovery">Username Recovery</a>
+</li>
+	<li class="cat-item cat-item-12"><a href="http://www.junkmail.co.za/help/category/viewing-adverts/" title="View all posts filed under Viewing Adverts">Viewing Adverts</a>
+</li>
+		</ul>
+</div>	
+	</div>		
+	</section>
+	
+	<!-- Content -->
+	<section class="span13 content" id="page-blog">
+		
+		<!-- Search box -->
+		<div class="searchForm">
+		
+			<form id="searchformHead" method="get" action="http://www.junkmail.co.za/help/index.php">
+				<input type="text" name="s" id="s" value="What do you need help with?" onfocus="if (this.value == 'What do you need help with?') {this.value = '';}" onblur="if (this.value == '') {this.value = 'What do you need help with?';}" class="form-text">
+				<input type="submit" class="medium green button" value="Search">
+				<div class="clear"></div>
+			</form>
+						
+		</div>
+		
+		<!-- Paste start -->
+			<div class="wp_breadcrumbs">
+			<a href="http://www.junkmail.co.za/help">Junk Mail Help -&nbsp;</a> » Privacy Policy		</div>
+						
+								
+					<div class="post" id="2915">
+					
+						<div class="postHead">
+						
+							<h2>Privacy Policy</h2>
+							
+							<div class="postMeta">
+							</div>
+							
+						</div>
+							
+						<div class="postContent">
+							
+								
+							<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tbody>
+<tr>
+<td>&nbsp;</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Junk Mail Digital Privacy Statement</strong></p>
+<p>Junk Mail Digital is committed to protecting your privacy and developing technology that gives you a powerful and safe online experience. This Statement of Privacy applies to the Junk Mail Digital Web (www.junkmail.co.za) site and governs data collection and usage. By using the Junk Mail Digital website, you consent to the data practices described in this statement.</p>
+<p><b>Collection of your Personal Information</b><br>
+Junk Mail Digital collects personally identifiable information during the optional registration and ad placement processes, such as your e-mail address, name, home or work address or telephone number. Junk Mail Digital also collects anonymous demographic information, which is not unique to you, such as your postal code, age, gender, preferences, interests and favourites.</p>
+<p>There is also information about your computer hardware and software that is automatically collected by Junk Mail Digital. This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by Junk Mail Digital for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Junk Mail Digital Web site.</p>
+<p>Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through the Junk Mail Digital public message boards, this information may be collected and used by others.</p>
+<p>Junk Mail Digital encourages you to review the privacy statements of Web sites you choose to link to from Junk Mail Digital so that you can understand how those Web sites collect, use and share your information. Junk Mail Digital is not responsible for the privacy statements or other content on Web sites outside of the <a href="http://www.junkmail.co.za">www.junkmail.co.za</a> web site and the Junk Mail Digital family of Web sites.</p>
+<p><b>Use of your Personal Information</b><br>
+Junk Mail Digital collects and uses your personal information to operate the Junk Mail Digital Web site and deliver the services you have requested. Junk Mail Digital also uses your personally identifiable information to inform you of other products or services available from Junk Mail Digital and its affiliates. Junk Mail Digital may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.</p>
+<p>Junk Mail Digital does not sell, rent or lease its customer lists to third parties. Junk Mail Digital may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, Junk Mail Digital may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to Junk Mail Digital, and they are required to maintain the confidentiality of your information.</p>
+<p>Junk Mail Digital does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.</p>
+<p>Junk Mail Digital keeps track of the Web sites and pages our customers visit within Junk Mail Digital, in order to determine what Junk Mail Digital services are the most popular. This data is used to deliver customised content and advertising within Junk Mail Digital to customers whose behaviour indicates that they are interested in a particular subject area.</p>
+<p>Junk Mail Digital will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Junk Mail Digital or the site; (b) protect and defend the rights or property of Junk Mail Digital; and, (c) act under exigent circumstances to protect the personal safety of users of Junk Mail Digital, or the public.</p>
+<p><b>Use of Cookies</b><br>
+The Junk Mail Digital web site uses “cookies” to help you personalise your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.</p>
+<p>One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalise Junk Mail Digital pages, or register with the Junk Mail Digital site or services, a cookie helps Junk Mail Digital to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same Junk Mail Digital Web site, the information you previously provided can be retrieved, so you can easily use the Junk Mail Digital features that you customised.</p>
+<p>You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Junk Mail Digital services or other Web sites you visit.</p>
+<p><b>Security of your Personal Information</b><br>
+Junk Mail Digital secures your personal information from unauthorized access, use or disclosure. Junk Mail Digital secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol. Junk Mail Digital does not though store any Credit Card details.</p>
+<p><b>Third Party Cookies</b></p>
+<p>Junk Mail Digital use both our own (first party) and partner companies’ (third party) cookies to support the activity on the <a href="http://www.junkmail.co.za">www.junkmail.co.za</a> website. First party cookies are owned &amp; created by the website you’re viewing. Third party cookies are owned &amp; created by an independent company, usually a company providing a service to the website owners. Examples of usages for third party cookies are web analysis (e.g. Google Analytic) and search queries.</p>
+<p>Junk Mail Digital takes due care when selecting 3<sup>rd</sup> Party service providers, however Junk Mail Digital cannot take responsibility for the content and use of the cookies deployed by such 3<sup>rd</sup> parties. You have the ability within your browser to specifically deny 3<sup>rd</sup> party cookies.</p>
+<p><b>Changes to this Statement</b><br>
+Junk Mail Digital will occasionally update this Statement of Privacy to reflect company and customer feedback. Junk Mail Digital encourages you to periodically review this Statement to be informed of how Junk Mail Digital is protecting your information.</p>
+<p><b>Contact Information</b><br>
+Junk Mail Digital welcomes your comments regarding this Statement of Privacy. If you believe that Junk Mail Digital has not adhered to this Statement, please contact Junk Mail Digital at <a href="mailto:webmaster@junkmail.co.za">webmaster@junkmail.co.za</a>. We will use commercially reasonable efforts to promptly determine and remedy the problem.</p>
+<script type="text/javascript" src="http://www.junkmail.co.za/help/wp-content/plugins/top-10/top-10-addcount.js.php?top_ten_id=2915&amp;activate_counter=11"></script>							
+							
+						</div>
+						
+					</div>
+				
+								
+						
+		<!-- Paste End -->
+		
+		
+	</section>
+	
+</section>
+
+<!-- Start Footer -->
+	<footer class="row" id="footend">
+		
+		<section class="span16 caveat">
+			<h6><span class="endlogo">&nbsp;</span> © 2012 Junk Mail Publishing</h6>
+		</section>
+		
+	</footer>
+	
+	</div>
+	
+
+</div>
+
+<!-- Start Alexa Certify Javascript -->
+   <script type="text/javascript" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js">
+   </script>
+   
+   <script type="text/javascript">
+      _atrk_opts = { atrk_acct: "A48ch1acOh00i5", domain:"junkmail.co.za"}; atrk ();
+   </script>
+       <noscript>
+       <img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=A48ch1acOh00i5" style="display:none" height="1" width="1" alt="" />
+   </noscript>
+<!-- End Alexa Certify Javascript -->
+
+
+<!-- Powered by WPtouch: 3.2.1 --><script type="text/javascript" src="http://www.junkmail.co.za/help/wp-includes/js/comment-reply.min.js?ver=3.9"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-4.newrelic.com","licenseKey":"ec52eee1b9","applicationID":"1071948","transactionName":"YF1UYBEFD0dTVhEMDlkXd1cXDQ5aHUUEAgQ=","queueTime":0,"applicationTime":191,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
+<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
