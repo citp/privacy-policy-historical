@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the androidforums.com privacy policy that was archived on 2013-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130815083711id_/http%3A//androidforums.com/misc.php%3Fdo%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the androidforums.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630062144id_/http%3A//androidforums.com/misc.php%3Fdo%3Dprivacy) for the most accurate reproduction.*
 
 # Android Forums - Privacy Policy
 
