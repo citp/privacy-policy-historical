@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sqlmaestro.com privacy policy that was archived on 2013-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131015054134id_/http%3A//www.sqlmaestro.com/contacts/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sqlmaestro.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630115255id_/http%3A//www.sqlmaestro.com/contacts/privacy) for the most accurate reproduction.*
 
 # Database management tools for MySQL, Oracle, SQL Server, DB2, SQL Anywhere, PostgreSQL, SQLite, Firebird and MaxDB by SQL Maestro Group
 
@@ -6,9 +6,9 @@ Partners
 
 Testimonials
 
-**Gianmarco Brundo:** "I have purchased SQLite Mestro and SQLite Data Wizard, your products are very good".
+**Chris Passion:** "I tried 3 different programs before yours and none would be so handy and helpful. PostgreSQL Maestro works great and couldn't be easier to install".
 
-**Stephen Arrowel, Database Administrator:** "We are in the process of implementing Firebird solutions at multiple levels in our international organization. We expect that SQL Maestro Group will do nothing short of revolutionize the way we develop and maintain our Firebird databases. The continuous improvement and development means that the product is extremely flexible and will grow with us. The service and responsiveness of the Support Team has been exceptional. They have devoted countless hours to understanding our needs, so that we could get a Firebird administration tool which would be so simple and effective in use. SQL Maestro Group is helping Sytrax sail into the 21st Century".
+**Andrew Rassel:** "I just wanted to let you know how satisfied I am with your administrative tools. I have been consistently receiving your support. I think you have wonderful products and I am highly satisfied with the results that I am getting".
 
 [More](http://www.sqlmaestro.com/products/testimonials/)
 
@@ -71,24 +71,24 @@ If we decide to change our privacy policy, we will post those changes on our hom
 
 Company news[](http://www.sqlmaestro.com/rss.xml)
 
-Sep 20, 2013
+May 22, 2014
 
-New version comes with keyboard interactive SSH authentication, updated Script Runner, redesigned start page, improved SQL editors and data grids, as well as with many other useful things.
+New version introduces PostgreSQL 9.4 compatibility, support of materialized views, range types and some other latest PostgreSQL features, dramatically improved Function Editor, enhanced Data Import abilities, data export to JSON, and other new features.
 
-Aug 5, 2013
+Apr 10, 2014
 
-We are pleased to introduce a new member of Microsoft SQL Server tools family designed for SQL Server Compact database development and management.
+Support for SQL Server Native Clients, nullable column checker, updated Data Import and SQL Dump tools, data export to JSON and some other enhancements.
 
-Jul 8, 2013
+Mar 12, 2014
 
-New version features support for foreign data management objects, keyboard-interactive SSH authentication, updated SQL Dump wizard, nullable column checker and a lot of other useful things.
+Features enhanced constraint management, support for various data storage modes and WITHOUT ROWID tables, updated Data Import and SQL Dump tools, nullable column checker, some performance and usability improvements, and a lot of other useful things.
 
 Feature of the day
 
-[](http://www.sqlmaestro.com/products/db2/datawizard/help/02_02_00_scheduler/)
+[](http://www.sqlmaestro.com/products/firebird/codefactory/screenshots/getting_started/diagram_viewer/)
 
-DB2 Data Wizard has an ability to schedule tasks for executing them (once or periodically) later.
+Firebird Code Factory allows you to represent numeric data from a query result as a diagram with a possibility of customizing its appearance and export the diagram to the following formats: BMP, Windows metafile, PDF, JPEG, PNG and more.
 
-[](http://www.sqlmaestro.com/products/oracle/phpgenerator/screenshots/common/color_schemes/)
+[](http://www.sqlmaestro.com/products/postgresql/datawizard/help/02_03_00_agent/)
 
-PHP Generator allows you to select a standard HTML template or create your own style with CSS file. 
+Tray agent can execute tasks scheduled in PostgreSQL Data Wizard, but does not require Data Wizard to be running at the current time.
