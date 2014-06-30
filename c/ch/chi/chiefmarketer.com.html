@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the chiefmarketer.com privacy policy that was archived on 2013-10-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131020210433id_/http%3A//www.chiefmarketer.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the chiefmarketer.com privacy policy that was archived on 2014-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140630064307id_/http%3A//www.chiefmarketer.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="ie ie8" lang="en-US" xmlns:fb="http://ogp.me/ns/fb#" xmlns:addthis="http://www.addthis.com/help/api-spec" prefix="og: http://ogp.me/ns#"><head>
 	
-<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0017/1502.js?439008" async="" type="text/javascript"></script><script type="text/javascript" async="" src="//doug1izaerwt3.cloudfront.net/6cce78e5c8829afe4adb21aee23d114b7733c504.1.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script><script src="//cdn.optimizely.com/js/314966508.js"></script>
+<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0017/1502.js?439008" async="" type="text/javascript"></script><script type="text/javascript" async="" src="//mlno6.com/tag.aspx?3102020"></script><script type="text/javascript" async="" src="//doug1izaerwt3.cloudfront.net/6cce78e5c8829afe4adb21aee23d114b7733c504.1.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//cdn.optimizely.com/js/314966508.js"></script>
 
-<meta charset="UTF-8">
+<meta charset="UTF-8"><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o?o:n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({D5DuLP:[function(t,n){function e(t,n){var e=r[t];return e?e.apply(this,n):(o[t]||(o[t]=[]),void o[t].push(n))}var r={},o={};n.exports=e,e.queues=o,e.handlers=r},{}],handle:[function(t,n){n.exports=t("D5DuLP")},{}],G9z0Bl:[function(t,n){function e(){var t=l.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&p&&p.body){l.proto="https"===f.split(":")[0]||t.sslForHttp?"https://":"http://",i("mark",["onload",a()]);var n=p.createElement("script");n.src=l.proto+t.agent,p.body.appendChild(n)}}function r(){"complete"===p.readyState&&o()}function o(){i("mark",["domContent",a()])}function a(){return(new Date).getTime()}var i=t("handle"),u=window,p=u.document,s="addEventListener",c="attachEvent",f=(""+location).split("?")[0],l=n.exports={offset:a(),origin:f,features:[]};p[s]?(p[s]("DOMContentLoaded",o,!1),u[s]("load",e,!1)):(p[c]("onreadystatechange",r),u[c]("onload",e)),i("mark",["firstbyte",a()])},{handle:"D5DuLP"}],loader:[function(t,n){n.exports=t("G9z0Bl")},{}]},{},["G9z0Bl"]);</script>
 
 <meta name="viewport" content="width=device-width">
 
@@ -26,6 +26,55 @@
 <link type="text/css" rel="stylesheet" media="all" href="http://www.chiefmarketer.com/wp-content/themes/chiefmarketer/css/video_slider.css">
 
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script type="text/javascript">
+// default the first submenu to active 
+jQuery(document).ready(function() {
+	// default the first submenu to active 
+	$('#access div ul li a').mouseover( // main menu items
+		function(){
+			// find any li's that are still active and remove 
+			$(this).parent().find('li.active').removeClass('active');
+			$(this).parent().find('.sub-menu li:first-child').addClass('active');
+		}
+	 );
+	$('#access div ul li a').mouseout( // main menu items
+		function(){
+	//		note needed 
+		}
+	 );	
+	// this to allow the current 2nd panel to remain active when you mouse of the third panel
+     $('#access li ul.sub-menu li a').mouseover( // main menu items
+		function(){
+			$(this).parent().parent().find('li.active').removeClass('active');
+			//$('#access li').find('li.active').removeClass('active');
+			if ($(this).parent().hasClass('menu-item-object-category')) 
+			{
+				$(this).parent().addClass('active');
+			}
+		}
+	 );
+	 // catch all 
+	 $('#access dd-block').mouseout( 
+		function(){
+			$(this).find('li.acive').removeClass('active');
+		}
+	 );		
+});
+
+function getScript(url){
+    var script = document.createElement('script');
+    script.src = url;
+    var head = document.getElementsByTagName('head')[0], done=false;
+    script.onload = script.onreadystatechange = function(){
+        if (!done && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) {
+            done=true;
+            script.onload = script.onreadystatechange = null;
+        }
+    };
+    head.appendChild(script);
+}
+</script>
+
 
 <script type="text/javascript" src="http://www.chiefmarketer.com/wp-content/themes/chiefmarketer/js/video_slider.js"></script>
 
@@ -55,7 +104,7 @@
             // Google Analytics for WordPress by Yoast v4.3.3 | http://yoast.com/wordpress/google-analytics/
             var _gaq = _gaq || [];
             _gaq.push(['_setAccount', 'UA-1090752-51']);
-				            _gaq.push(['_setCustomVar',2,'post_type','page',3],['_setCustomVar',3,'author','brian-aloisio',3],['_trackPageview']);
+				            _gaq.push(['_setAllowLinker',true],['_setDomainName','chiefmarketer.com'],['_setCustomVar',2,'post_type','page',3],['_setCustomVar',3,'author','brian-aloisio',3],['_trackPageview']);
             (function () {
                 var ga = document.createElement('script');
                 ga.type = 'text/javascript';
@@ -86,21 +135,23 @@
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.chiefmarketer.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.chiefmarketer.com/wp-includes/wlwmanifest.xml"> 
 <meta name="generator" content="WordPress 3.6.1">
-<link rel="stylesheet" href="http://www.chiefmarketer.com/wp-content/plugins/solr-for-wordpress/template/autocomplete.css" type="text/css" media="screen">
+<script type="text/javascript" src="http://apps.decisionbriefs.com/js/custom/bigquery/tracking.js"></script>	<script type="text/javascript">
+	t_set_identity_info(
+		'207.241.237.233', //ip
+		null, //identity id
+		null, //session id
+		 'd41d8cd98f00b204e9800998ecf8427e' //hash email
+	);
 
-<script type="text/javascript">
-
-    jQuery(document).ready(function($) {
-
-        $("#s").suggest("?method=autocomplete",{});
-
-        $("#qrybox").suggest("?method=autocomplete",{});
-
-    });
-
-</script>
-
-								
+	
+	t_set_app_info(
+		'wp-chiefmarketer', //application
+		'chiefmarketer', //brand
+		'marketing', //market
+		null //profiles_collection
+	);
+	</script>
+									
 				<script language="javascript">
 						
 					jQuery(document).ready(function() {		
@@ -210,6 +261,8 @@ googletag.enableServices();
 
 </script>
 
+
+
 <!-- KISSmetrics Tracking Code -->
 <script type="text/javascript">
   var _kmq = _kmq || [];
@@ -227,143 +280,54 @@ googletag.enableServices();
 </script>
 <!-- End KISSmetrics Tracking Code -->
 
-<script type="text/javascript" async="" src="//cm2012.disqus.com/embed.js?pname=wordpress&amp;pver=2.74"></script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+<script src="http://apps.decisionbriefs.com/widgets/placement/write/marketing/529f8f31af538a0e38000000?l=5&amp;area=ai-sponsor-114431&amp;container=ai-dropdown-114431&amp;ime=menu-item-114431&amp;ima=mouseover&amp;at=sub nav"></script><script src="http://apps.decisionbriefs.com/widgets/placement/write/marketing/529f8f31af538a0e38000000?l=5&amp;area=ai-sponsor-114440&amp;container=ai-dropdown-114440&amp;ime=menu-item-114440&amp;ima=mouseover&amp;at=sub nav"></script><script src="http://apps.decisionbriefs.com/widgets/placement/write/marketing/529f8f31af538a0e38000000?l=5&amp;area=ai-sponsor-114445&amp;container=ai-dropdown-114445&amp;ime=menu-item-114445&amp;ima=mouseover&amp;at=sub nav"></script><script src="http://apps.decisionbriefs.com/widgets/placement/write/marketing/529f8f31af538a0e38000000?l=5&amp;area=ai-sponsor-114451&amp;container=ai-dropdown-114451&amp;ime=menu-item-114451&amp;ima=mouseover&amp;at=sub nav"></script><script src="http://apps.decisionbriefs.com/widgets/placement/write/marketing/529f8f31af538a0e38000000?l=5&amp;area=ai-sponsor-114457&amp;container=ai-dropdown-114457&amp;ime=menu-item-114457&amp;ima=mouseover&amp;at=sub nav"></script><script src="http://apps.decisionbriefs.com/widgets/placement/write/marketing/529f8f31af538a0e38000000?l=5&amp;area=ai-sponsor-114462&amp;container=ai-dropdown-114462&amp;ime=menu-item-114462&amp;ima=mouseover&amp;at=sub nav"></script><script src="http://apps.decisionbriefs.com/widgets/placement/write/marketing/529f8f31af538a0e38000000?l=5&amp;area=ai-sponsor-114467&amp;container=ai-dropdown-114467&amp;ime=menu-item-114467&amp;ima=mouseover&amp;at=sub nav"></script><script src="http://apps.decisionbriefs.com/widgets/placement/write/marketing/529f8f31af538a0e38000000?l=5&amp;area=ai-sponsor-114471&amp;container=ai-dropdown-114471&amp;ime=menu-item-114471&amp;ima=mouseover&amp;at=sub nav"></script><script src="http://apps.decisionbriefs.com/widgets/placement/write/marketing/529f8f31af538a0e38000000?l=5&amp;area=ai-sponsor-114476&amp;container=ai-dropdown-114476&amp;ime=menu-item-114476&amp;ima=mouseover&amp;at=sub nav"></script><script type="text/javascript" async="" src="//cm2012.disqus.com/embed.js?pname=wordpress&amp;pver=2.74"></script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 
 <body class="page page-id-117004 page-template-default custom-font-enabled">
 
 <div class="wrapper">
 <div class="header">
 		<div class="chif-lo">
-
   <p>
   	Chief Marketer Network:
   	<span><a href="http://www.chiefmarketer.com/promotional-marketing">PROMO</a></span>
     <span><a href="http://www.chiefmarketer.com/direct-marketing">DIRECT</a></span>
     <span><a href="http://www.multichannelmerchant.com">MULTICHANNEL MERCHANT</a></span>
   </p>
-
 </div>
-
 <!--<div class="detai-pro">
-
   <ul>
-
     <li class="promo"><a href="http://www.chiefmarketer.com/promotional-marketing"><img src="http://www.chiefmarketer.com/wp-content/themes/chiefmarketer/images/cmnetwork_promo_3.gif" /></a></li>
-
     <li class="direcet"><a href="http://www.chiefmarketer.com/direct-marketing"><img src="http://www.chiefmarketer.com/wp-content/themes/chiefmarketer/images/cmnetwork_direct.gif" /></a></li>
-
   </ul>
-
 </div> --> 
 
 <div class="up-tab">
-
-  <form action="http://www.chiefmarketer.com/newsletter/" id="cm-subscribe-form" name="form-subs" method="post" onsubmit="return subs()">	
-
-  <ul class="social">
-
-    <li> <a title="Like Us on Facebook" href="http://www.facebook.com/chiefmarketer" target="_blank"> <span class="facebook">Like Us on</span> Facebook </a> </li>
-
-    <li> <a title="Follow Us On Twitter" href="http://www.twitter.com/chief_marketer" target="_blank"> <span class="twitter">Follow Us On</span> Twitter </a> </li>
-
-    <li> <a title="Follow Us On LinkedIn" href="http://www.linkedin.com/groups?mostPopular=&amp;gid=3141389" target="_blank"> <span class="linkedin">Follow Us On</span> LinkedIn </a> </li>
-
-    <li> <a title="RSS" href="/privacy-policy/feed/" target="_blank"> <span class="rss">RSS</span></a> </li>
-
-    <li>
-
-      <div class="mob-mar"><input class="input-nert" type="text" placeholder="Email Address" size="20" name="email_address" id="ne"></div>
-
-    </li>
-
-    <li class="bt-bord"><div class="get_up mob-mar">
-
-      <input class="primary-action" name="submit" type="submit" value="Subscribe"></div>
-
-    </li>
- 
-
-  </ul>
-  <!-- COMMENTED 10-7-13 JR
-  <div style="float:right; padding-top:10px; color:#990000; font-weight: bold">NEW EVENT: <a href="http://www.agency-next.com/" target="_blank">AgencyNext</a></div>
--->
   
-
-  <div class="clr"></div>
-
-  <div class="nextsteps">  
- <span class="title">Subscribe To <span style="width:5px; float:right; cursor:pointer;" id="close_nextsteps">X</span></span> 
-
-  <label for="interests-1">
-
-    <input type="checkbox" name="nl[]" value="CM-01" checked="checked" id="interests-1">
-
-    Chief Business Marketer</label>
-
-  <br>
-
-  <label for="interests-2">
-
-    <input type="checkbox" name="nl[]" value="CM-02" checked="checked" id="interests-2">
-
-    Chief Data Marketer</label>
-
-  <br>
-
-  <label for="interests-3">
-
-    <input type="checkbox" name="nl[]" value="CM-04" checked="checked" id="interests-3">
-
-    Chief Direct Marketer</label>
-
-  <br>
-
-  <label for="interests-4">
-
-    <input type="checkbox" name="nl[]" value="CM-11" checked="checked" id="interests-4">
-
-    Chief Marketer Tip Sheet</label>
-
-  <br>
-
-  <label for="interests-5">
-
-    <input type="checkbox" name="nl[]" value="CM-14" checked="checked" id="interests-5">
-
-    Chief PROMO Marketer</label>
-
-  <br>
-
-  <label for="interests-6">
-
-    <input type="checkbox" name="nl[]" value="CM-13" checked="checked" id="interests-6">
-
-    Chief Marketer Tech Talk</label>
-
-  <br>
-
-  <label for="interests-7">
-
-    <input type="checkbox" name="nl[]" value="CM-05" checked="checked" id="interests-7">
-
-    Chief Marketer This Week</label>
-
-  </div>
-
-</form></div>
-
-
-
-<div class="clr"></div>
-
-<div class="logo-chif"><a href="http://www.chiefmarketer.com/"><img src="http://www.chiefmarketer.com/wp-content/themes/chiefmarketer/images/logo.png"></a></div>
-    
 <div class="inp-op">
-    <form name="searchbox" method="get" id="searchbox" action="">
+    <form name="searchbox" method="get" id="searchbox" action="/search/">
     <input id="qrybox" name="s" placeholder="Search" type="text" class="bg-input solr_field" size="20" value="">
         <input type="submit" class="zoom-p" name="submit" id="searchsubmit" value="">
   </form>
 </div>
+  <div class="social">
+    <div class="fb-i"> <a title="Like Us on Facebook" href="http://www.facebook.com/chiefmarketer" target="_blank"> <span class="facebook">Like Us on</span> Facebook </a> </div>
+    <div class="tw-i"> <a title="Follow Us On Twitter" href="http://www.twitter.com/chief_marketer" target="_blank"> <span class="twitter">Follow Us On</span> Twitter </a> </div>
+    <div class="ln-i"> <a title="Follow Us On LinkedIn" href="http://www.linkedin.com/groups?mostPopular=&amp;gid=3141389" target="_blank"> <span class="linkedin">Follow Us On</span> LinkedIn </a> </div>
+    <div class="gplus-i"> <a title="Follow Us On Google+" href="https://plus.google.com/+ChiefmarketerCM/posts" target="_blank"> <span class="googlep">Follow Us On</span> Google+ </a> </div>
+    <div class="ytube-i"> <a title="Follow Us On Youtube" href="https://www.youtube.com/user/ChiefMarketerNetwork" target="_blank"> <span class="youtube">Follow Us On</span> Youtube</a> </div>        
+      
+    <div class="rs-i"> <a title="RSS" href="/privacy-policy/feed/" target="_blank"> <span class="rss">RSS</span></a>  </div>
+  </div>
+  <!-- COMMENTED 10-7-13 JR
+  <div style="float:right; padding-top:10px; color:#990000; font-weight: bold">NEW EVENT: <a href="http://www.agency-next.com/" target="_blank">AgencyNext</a></div>
+-->  
+  
+  
+</div>
+
+<div class="clr"></div>
+<div class="logo-chif"><a href="http://www.chiefmarketer.com/"><img src="http://www.chiefmarketer.com/wp-content/themes/chiefmarketer/images/logo.png"></a></div>
+<div style="float: left; margin: 20px 0pt 0pt 180px; font-size:18px"><a target="_blank" href="http://www.leadscon.com/leadsconny/b2bleadsconsummit/"><img align="absmiddle" src="/wp-content/uploads/2014/06/b2blc.gif"></a><a style="margin-left:20px" href="http://www.leadscon.com/leadsconny/b2bleadsconsummit/" target="_blank">Learn More »</a></div>
     <div class="clr"></div>
 <div class="login-ragis">
     <ul><li><a target="_blank" href="http://www.b2bmediaportal.com/dynamicregister/register.aspx?fid=CMKN&amp;status=NEW&amp;key=CMWeb ">Subscribe</a></li>
@@ -372,138 +336,262 @@ googletag.enableServices();
   <div class="clr"></div></div>
 
 <nav id="access" role="navigation">
-    <div class=" responsiveSelectContainer"><ul id="menu-main-menu-1" class="menu responsiveSelectFullMenu"><li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-114431"><a title="PROMO" href="http://www.chiefmarketer.com/./promotional-marketing">PROMO</a>
+        
+    <div class=" responsiveSelectContainer"><ul id="menu-main-menu-1" class="menu responsiveSelectFullMenu"><li id="menu-item-114431" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a title="PROMO" href="http://www.chiefmarketer.com/./promotional-marketing">PROMO</a><div class="dd-block">
+					 	<div class="sponsor">
+					 	  <h3>Partner Content</h3><div id="ai-sponsor-114431"><script>getScript('http://apps.decisionbriefs.com/widgets/placement/write/marketing/529f8f31af538a0e38000000?l=5&area=ai-sponsor-114431&container=ai-dropdown-114431&ime=menu-item-114431&ima=mouseover&at=sub nav');</script></div></div></div>
 <ul class="sub-menu">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-122700"><a href="http://www.chiefmarketer.com/topshops-application">PROMO’s Top Shops</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-114437"><a title="PROAwards" href="http://www.chiefmarketer.com/2012-pro-awards-best-promotion-marketing-campaigns">PROAwards</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-114432"><a title="Sweepstakes/Contests" href="http://www.chiefmarketer.com/./promotional-marketing/contests-sweeps">Sweepstakes/Contests</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-114434"><a title="POP/In-Store" href="http://www.chiefmarketer.com/./promotional-marketing/storepop">POP/In-Store</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-114433"><a title="Events" href="http://www.chiefmarketer.com/./promotional-marketing/event-marketing">Events</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-114435"><a title="Incentives" href="http://www.chiefmarketer.com/./promotional-marketing/incentives">Incentives</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-114436"><a title="Sponsorships &amp; Tie-ins" href="http://www.chiefmarketer.com/./promotional-marketing/sponsorshipstie-ins">Sponsorships &amp; Tie-ins</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-114439"><a title="Agencies" href="http://www.chiefmarketer.com/./agencies">Agencies</a></li>
+	<li id="menu-item-114432" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a title="Sweepstakes/Contests" href="http://www.chiefmarketer.com/./promotional-marketing/contests-sweeps">Sweepstakes/Contests</a><div class="stories">
+					 	  <h3>Latest Content</h3>
+                          <ul><li><a href="http://www.chiefmarketer.com/pro-awards/4-reasons-attend-pro-awards-gala-june-25-nyc-16062014">4 Reasons Why YOU Should Attend the PRO Awards Gala: June 25 NYC</a></li><li><a href="http://www.chiefmarketer.com/promotional-marketing/jack-daniels-back-photo-sharing-campaign-10062014">Jack Daniel’s is Back with its Photo-Sharing Campaign</a></li><li><a href="http://www.chiefmarketer.com/promotional-marketing/ideas-steal-networking-2014-pro-awards-gala-june-25-nyc-09062014">Ideas to Steal, Networking: The 2014 PRO Awards Gala, June 25 NYC</a></li><li><a href="http://www.chiefmarketer.com/b2b/chief-marketer-top-shop-23052014">Be a Chief Marketer Top Shop</a></li><li><a href="http://www.chiefmarketer.com/promotional-marketing/2014-top-shops-call-applications-20052014">2014 Top Shops Call for Applications</a></li></ul><p class="more-link"><a title="Sweepstakes/Contests" href="http://www.chiefmarketer.com/./promotional-marketing/contests-sweeps">View More</a></p></div></li>
+	<li id="menu-item-114434" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a title="POP/In-Store" href="http://www.chiefmarketer.com/./promotional-marketing/storepop">POP/In-Store</a><div class="stories">
+					 	  <h3>Latest Content</h3>
+                          <ul><li><a href="http://www.chiefmarketer.com/pro-awards/4-reasons-attend-pro-awards-gala-june-25-nyc-16062014">4 Reasons Why YOU Should Attend the PRO Awards Gala: June 25 NYC</a></li><li><a href="http://www.chiefmarketer.com/promotional-marketing/sephora-heads-australia-smart-marketing-strategy-11062014">Sephora Heads to Australia with a Smart Marketing Strategy</a></li><li><a href="http://www.chiefmarketer.com/direct-marketing/subway-5-footlong-success-shows-power-simplicity-10062014">Subway $5 Footlong Success Shows the Power of Simplicity</a></li><li><a href="http://www.chiefmarketer.com/promotional-marketing/ideas-steal-networking-2014-pro-awards-gala-june-25-nyc-09062014">Ideas to Steal, Networking: The 2014 PRO Awards Gala, June 25 NYC</a></li><li><a href="http://www.chiefmarketer.com/promotional-marketing/new-top-socialdigital-guru-campbell-soup-offers-advice-marketers-28052014">New Top Social/Digital Guru at Campbell Soup Offers Advice for Marketers</a></li></ul><p class="more-link"><a title="POP/In-Store" href="http://www.chiefmarketer.com/./promotional-marketing/storepop">View More</a></p></div></li>
+	<li id="menu-item-114433" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a title="Events" href="http://www.chiefmarketer.com/./promotional-marketing/event-marketing">Events</a><div class="stories">
+					 	  <h3>Latest Content</h3>
+                          <ul><li><a href="http://www.chiefmarketer.com/pro-awards/4-reasons-attend-pro-awards-gala-june-25-nyc-16062014">4 Reasons Why YOU Should Attend the PRO Awards Gala: June 25 NYC</a></li><li><a href="http://www.chiefmarketer.com/promotional-marketing/ideas-steal-networking-2014-pro-awards-gala-june-25-nyc-09062014">Ideas to Steal, Networking: The 2014 PRO Awards Gala, June 25 NYC</a></li><li><a href="http://www.chiefmarketer.com/b2b/chief-marketer-top-shop-23052014">Be a Chief Marketer Top Shop</a></li><li><a href="http://www.chiefmarketer.com/promotional-marketing/2014-top-shops-call-applications-20052014">2014 Top Shops Call for Applications</a></li><li><a href="http://www.chiefmarketer.com/promotional-marketing/red-roof-listened-took-action-now-markets-new-segment-12052014">Red Roof Listened, Took Action and Now Markets a New Segment </a></li></ul><p class="more-link"><a title="Events" href="http://www.chiefmarketer.com/./promotional-marketing/event-marketing">View More</a></p></div></li>
+	<li id="menu-item-114435" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a title="Incentives" href="http://www.chiefmarketer.com/./promotional-marketing/incentives">Incentives</a><div class="stories">
+					 	  <h3>Latest Content</h3>
+                          <ul><li><a href="http://www.chiefmarketer.com/promotional-marketing/millennials-love-loyalty-programs-24062014">Millennials and their Love for Loyalty Programs</a></li><li><a href="http://www.chiefmarketer.com/pro-awards/4-reasons-attend-pro-awards-gala-june-25-nyc-16062014">4 Reasons Why YOU Should Attend the PRO Awards Gala: June 25 NYC</a></li><li><a href="http://www.chiefmarketer.com/promotional-marketing/sephora-heads-australia-smart-marketing-strategy-11062014">Sephora Heads to Australia with a Smart Marketing Strategy</a></li><li><a href="http://www.chiefmarketer.com/promotional-marketing/ideas-steal-networking-2014-pro-awards-gala-june-25-nyc-09062014">Ideas to Steal, Networking: The 2014 PRO Awards Gala, June 25 NYC</a></li><li><a href="http://www.chiefmarketer.com/promotional-marketing/2014-top-shops-call-applications-20052014">2014 Top Shops Call for Applications</a></li></ul><p class="more-link"><a title="Incentives" href="http://www.chiefmarketer.com/./promotional-marketing/incentives">View More</a></p></div></li>
+	<li id="menu-item-114436" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a title="Sponsorships &amp; Tie-ins" href="http://www.chiefmarketer.com/./promotional-marketing/sponsorshipstie-ins">Sponsorships &amp; Tie-ins</a><div class="stories">
+					 	  <h3>Latest Content</h3>
+                          <ul><li><a href="http://www.chiefmarketer.com/pro-awards/4-reasons-attend-pro-awards-gala-june-25-nyc-16062014">4 Reasons Why YOU Should Attend the PRO Awards Gala: June 25 NYC</a></li><li><a href="http://www.chiefmarketer.com/promotional-marketing/ideas-steal-networking-2014-pro-awards-gala-june-25-nyc-09062014">Ideas to Steal, Networking: The 2014 PRO Awards Gala, June 25 NYC</a></li><li><a href="http://www.chiefmarketer.com/promotional-marketing/5-tips-engaging-soccer-fans-without-breaking-marketing-budget-27052014">5 Tips for Engaging Soccer Fans Without Breaking Your Marketing Budget</a></li><li><a href="http://www.chiefmarketer.com/promotional-marketing/old-bay-expands-craft-beer-freezer-new-partners-22052014">Old Bay Expands to Craft Beer, the Freezer and New Partners</a></li><li><a href="http://www.chiefmarketer.com/promotional-marketing/2014-top-shops-call-applications-20052014">2014 Top Shops Call for Applications</a></li></ul><p class="more-link"><a title="Sponsorships &amp; Tie-ins" href="http://www.chiefmarketer.com/./promotional-marketing/sponsorshipstie-ins">View More</a></p></div></li>
+	<li id="menu-item-114439" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a title="Agencies" href="http://www.chiefmarketer.com/./agencies">Agencies</a><div class="stories">
+					 	  <h3>Latest Content</h3>
+                          <ul><li><a href="http://www.chiefmarketer.com/pro-awards/4-reasons-attend-pro-awards-gala-june-25-nyc-16062014">4 Reasons Why YOU Should Attend the PRO Awards Gala: June 25 NYC</a></li><li><a href="http://www.chiefmarketer.com/agencies/lebron-james-5-lifestyle-principles-marketing-success-22052014">LeBron James: 5 Lifestyle Principles for Marketing Success</a></li><li><a href="http://www.chiefmarketer.com/agencies/15-marketing-executives-making-biggest-bucks-09042014">The 15 Marketing Executives Making the Biggest Bucks</a></li><li><a href="http://www.chiefmarketer.com/agencies/new-customer-first-prospect-second-mindset-06032014">The New Customer First, Prospect Second Mindset</a></li><li><a href="http://www.chiefmarketer.com/agencies/skills-marketers-need-fill-talent-gap-20022014">Skills Marketers Need to Fill the Talent Gap</a></li></ul><p class="more-link"><a title="Agencies" href="http://www.chiefmarketer.com/./agencies">View More</a></p></div></li>
+	<li id="menu-item-131395" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="/topshops2013/">PROMO’s Top Shops</a></li>
+	<li id="menu-item-135513" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="http://www.chiefmarketer.com/pro-awards-2014">2014 PRO Awards Winners</a></li>
+	<li id="menu-item-133899" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="http://directory.chiefmarketer.com/">Source Directory</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-114440"><a title="DIRECT" href="http://www.chiefmarketer.com/./direct-marketing">DIRECT</a>
+<li id="menu-item-114440" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a title="DIRECT" href="http://www.chiefmarketer.com/./direct-marketing">DIRECT</a><div class="dd-block">
+					 	<div class="sponsor">
+					 	  <h3>Partner Content</h3><div id="ai-sponsor-114440"><script>getScript('http://apps.decisionbriefs.com/widgets/placement/write/marketing/529f8f31af538a0e38000000?l=5&area=ai-sponsor-114440&container=ai-dropdown-114440&ime=menu-item-114440&ima=mouseover&at=sub nav');</script></div></div></div>
 <ul class="sub-menu">
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-114443"><a title="Direct Mail" href="http://www.chiefmarketer.com/./direct-marketing/direct-mail-1">Direct Mail</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-114441"><a title="Catalog" href="http://www.chiefmarketer.com/./direct-marketing/catalogs">Catalog</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-114442"><a title="Creative" href="http://www.chiefmarketer.com/./direct-marketing/creative">Creative</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-114444"><a title="Postal Regulations" href="http://www.chiefmarketer.com/./direct-marketing/regulations">Postal Regulations</a></li>
+	<li id="menu-item-114443" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a title="Direct Mail" href="http://www.chiefmarketer.com/./direct-marketing/direct-mail-1">Direct Mail</a><div class="stories">
+					 	  <h3>Latest Content</h3>
+                          <ul><li><a href="http://www.chiefmarketer.com/direct-marketing/chief-marketer-listline-june-25-2-25062014">Chief Marketer Listline June 25</a></li><li><a href="http://www.chiefmarketer.com/b2b/closing-b2b-sales-follow-matters-25062014">In Closing B2B Sales, Follow-Up Matters</a></li><li><a href="http://www.chiefmarketer.com/direct-marketing/chief-marketer-listline-june-18-2-18062014">Chief Marketer Listline June 18</a></li><li><a href="http://www.chiefmarketer.com/direct-marketing/chief-marketer-listline-june-10-10062014">Chief Marketer Listline June 10</a></li><li><a href="http://www.chiefmarketer.com/direct-marketing/chief-marketer-listline-june-4-2-04062014">Chief Marketer Listline June 4</a></li></ul><p class="more-link"><a title="Direct Mail" href="http://www.chiefmarketer.com/./direct-marketing/direct-mail-1">View More</a></p></div></li>
+	<li id="menu-item-114441" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a title="Catalog" href="http://www.chiefmarketer.com/./direct-marketing/catalogs">Catalog</a><div class="stories">
+					 	  <h3>Latest Content</h3>
+                          <ul><li><a href="http://www.chiefmarketer.com/database-marketing/keeping-data-clean-can-help-environment-27052014">Why Keeping Your Data Clean Can Help the Environment </a></li><li><a href="http://www.chiefmarketer.com/direct-marketing/tactile-complement-can-strengthen-digital-campaigns-06052014">How a Tactile Complement Can Strengthen Digital Campaigns</a></li><li><a href="http://www.chiefmarketer.com/direct-marketing/deep-discounting-maybe-shouldnt-18032014">Are You Deep Discounting? Maybe You Shouldn’t Be</a></li><li><a href="http://www.chiefmarketer.com/direct-marketing/six-factors-bridging-direct-brand-marketing-18032014">Six Factors for Bridging Direct and Brand Marketing</a></li><li><a href="http://www.chiefmarketer.com/direct-marketing/whats-b2b-story-10022014">What's Your B2B Story?</a></li></ul><p class="more-link"><a title="Catalog" href="http://www.chiefmarketer.com/./direct-marketing/catalogs">View More</a></p></div></li>
+	<li id="menu-item-114442" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a title="Creative" href="http://www.chiefmarketer.com/./direct-marketing/creative">Creative</a><div class="stories">
+					 	  <h3>Latest Content</h3>
+                          <ul><li><a href="http://www.chiefmarketer.com/direct-marketing/subway-5-footlong-success-shows-power-simplicity-10062014">Subway $5 Footlong Success Shows the Power of Simplicity</a></li><li><a href="http://www.chiefmarketer.com/database-marketing/5-ways-befriend-cfo-27052014">5 Ways to Befriend Your CFO</a></li><li><a href="http://www.chiefmarketer.com/b2b/cmo-talks-3-things-know-taking-new-cmo-job-13052014">CMO Talks: 3 Things to Know Before Taking a New CMO Job </a></li><li><a href="http://www.chiefmarketer.com/direct-marketing/tactile-complement-can-strengthen-digital-campaigns-06052014">How a Tactile Complement Can Strengthen Digital Campaigns</a></li><li><a href="http://www.chiefmarketer.com/direct-marketing/build-market-new-category-06052014">How to Build and Market a New Category</a></li></ul><p class="more-link"><a title="Creative" href="http://www.chiefmarketer.com/./direct-marketing/creative">View More</a></p></div></li>
+	<li id="menu-item-114444" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a title="Postal Regulations" href="http://www.chiefmarketer.com/./direct-marketing/regulations">Postal Regulations</a><div class="stories">
+					 	  <h3>Latest Content</h3>
+                          <ul><li><a href="http://www.chiefmarketer.com/direct-marketing/tcpa-changes-bring-accountability-call-centers-16022014">TCPA Changes Bring Accountability for Call Centers</a></li><li><a href="http://www.chiefmarketer.com/direct-marketing/85-web-pages-dont-comply-tcpa-revisions-24102013">85% of Web Pages Don’t Comply With TCPA Revisions</a></li><li><a href="http://www.chiefmarketer.com/b2b/finding-talent-channel-attribution-among-biggest-dm-challenges-10102013">Finding Talent, Channel Attribution Among Biggest DM Challenges</a></li><li><a href="http://www.chiefmarketer.com/direct-marketing/six-things-marketers-need-to-know-before-dialing-a-cell-phone-13052013">Six Things Marketers Need to Know Before Dialing a Cell Phone</a></li><li><a href="http://www.chiefmarketer.com/direct-marketing/usps-must-delay-5-day-delivery-plan-12042013">USPS Must Delay 5-Day Delivery Plan</a></li></ul><p class="more-link"><a title="Postal Regulations" href="http://www.chiefmarketer.com/./direct-marketing/regulations">View More</a></p></div></li>
+	<li id="menu-item-133897" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="http://directory.chiefmarketer.com/">Source Directory</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-114445"><a title="EMAIL" href="http://www.chiefmarketer.com/./email-marketing">EMAIL</a>
+<li id="menu-item-114445" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a title="EMAIL" href="http://www.chiefmarketer.com/./email-marketing">EMAIL</a><div class="dd-block">
+					 	<div class="sponsor">
+					 	  <h3>Partner Content</h3><div id="ai-sponsor-114445"><script>getScript('http://apps.decisionbriefs.com/widgets/placement/write/marketing/529f8f31af538a0e38000000?l=5&area=ai-sponsor-114445&container=ai-dropdown-114445&ime=menu-item-114445&ima=mouseover&at=sub nav');</script></div></div></div>
 <ul class="sub-menu">
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-114446"><a title="Acquisition" href="http://www.chiefmarketer.com/./email-marketing/email-marketing-acquisition">Acquisition</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-114450"><a title="Targeting/Personalization" href="http://www.chiefmarketer.com/./email-marketing/targetingpersonalization">Targeting/Personalization</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-114448"><a title="Deliverability" href="http://www.chiefmarketer.com/./email-marketing/deliverability">Deliverability</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-114449"><a title="Retention" href="http://www.chiefmarketer.com/./email-marketing/retention">Retention</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-114447"><a title="Creative" href="http://www.chiefmarketer.com/./email-marketing/email-marketing-creative">Creative</a></li>
+	<li id="menu-item-114446" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a title="Acquisition" href="http://www.chiefmarketer.com/./email-marketing/email-marketing-acquisition">Acquisition</a><div class="stories">
+					 	  <h3>Latest Content</h3>
+                          <ul><li><a href="http://www.chiefmarketer.com/email-marketing/inbox-confidential-02062014">Inbox Confidential</a></li><li><a href="http://www.chiefmarketer.com/database-marketing/5-ways-befriend-cfo-27052014">5 Ways to Befriend Your CFO</a></li><li><a href="http://www.chiefmarketer.com/email-marketing/national-geographic-shifts-less-frequent-targeted-email-strategy-15052014">National Geographic Shifts to Less Frequent, More Targeted Email Strategy</a></li><li><a href="http://www.chiefmarketer.com/email-marketing/emails-getting-opened-infographic-30042014">Are Your Emails Getting Opened? Infographic</a></li><li><a href="http://www.chiefmarketer.com/email-marketing/email-clickthrough-rates-legitimate-01042014">Are Your Email Clickthrough Rates Legitimate?</a></li></ul><p class="more-link"><a title="Acquisition" href="http://www.chiefmarketer.com/./email-marketing/email-marketing-acquisition">View More</a></p></div></li>
+	<li id="menu-item-114450" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a title="Targeting/Personalization" href="http://www.chiefmarketer.com/./email-marketing/targetingpersonalization">Targeting/Personalization</a><div class="stories">
+					 	  <h3>Latest Content</h3>
+                          <ul><li><a href="http://www.chiefmarketer.com/direct-marketing/chief-marketer-listline-june-18-2-18062014">Chief Marketer Listline June 18</a></li><li><a href="http://www.chiefmarketer.com/direct-marketing/chief-marketer-listline-june-10-10062014">Chief Marketer Listline June 10</a></li><li><a href="http://www.chiefmarketer.com/email-marketing/inbox-confidential-02062014">Inbox Confidential</a></li><li><a href="http://www.chiefmarketer.com/email-marketing/national-geographic-shifts-less-frequent-targeted-email-strategy-15052014">National Geographic Shifts to Less Frequent, More Targeted Email Strategy</a></li><li><a href="http://www.chiefmarketer.com/email-marketing/emails-getting-opened-infographic-30042014">Are Your Emails Getting Opened? Infographic</a></li></ul><p class="more-link"><a title="Targeting/Personalization" href="http://www.chiefmarketer.com/./email-marketing/targetingpersonalization">View More</a></p></div></li>
+	<li id="menu-item-114448" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a title="Deliverability" href="http://www.chiefmarketer.com/./email-marketing/deliverability">Deliverability</a><div class="stories">
+					 	  <h3>Latest Content</h3>
+                          <ul><li><a href="http://www.chiefmarketer.com/email-marketing/inbox-confidential-02062014">Inbox Confidential</a></li><li><a href="http://www.chiefmarketer.com/email-marketing/national-geographic-shifts-less-frequent-targeted-email-strategy-15052014">National Geographic Shifts to Less Frequent, More Targeted Email Strategy</a></li><li><a href="http://www.chiefmarketer.com/email-marketing/emails-getting-opened-infographic-30042014">Are Your Emails Getting Opened? Infographic</a></li><li><a href="http://www.chiefmarketer.com/email-marketing/email-clickthrough-rates-legitimate-01042014">Are Your Email Clickthrough Rates Legitimate?</a></li><li><a href="http://www.chiefmarketer.com/email-marketing/increasing-potential-email-file-21032014">Increasing the Potential of Your Email File</a></li></ul><p class="more-link"><a title="Deliverability" href="http://www.chiefmarketer.com/./email-marketing/deliverability">View More</a></p></div></li>
+	<li id="menu-item-114449" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a title="Retention" href="http://www.chiefmarketer.com/./email-marketing/retention">Retention</a><div class="stories">
+					 	  <h3>Latest Content</h3>
+                          <ul><li><a href="http://www.chiefmarketer.com/email-marketing/inbox-confidential-02062014">Inbox Confidential</a></li><li><a href="http://www.chiefmarketer.com/email-marketing/national-geographic-shifts-less-frequent-targeted-email-strategy-15052014">National Geographic Shifts to Less Frequent, More Targeted Email Strategy</a></li><li><a href="http://www.chiefmarketer.com/email-marketing/using-enewsletters-drive-customer-behavior-04042014">Using Enewsletters to Drive Customer Behavior</a></li><li><a href="http://www.chiefmarketer.com/email-marketing/email-clickthrough-rates-legitimate-01042014">Are Your Email Clickthrough Rates Legitimate?</a></li><li><a href="http://www.chiefmarketer.com/email-marketing/increasing-potential-email-file-21032014">Increasing the Potential of Your Email File</a></li></ul><p class="more-link"><a title="Retention" href="http://www.chiefmarketer.com/./email-marketing/retention">View More</a></p></div></li>
+	<li id="menu-item-114447" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a title="Creative" href="http://www.chiefmarketer.com/./email-marketing/email-marketing-creative">Creative</a><div class="stories">
+					 	  <h3>Latest Content</h3>
+                          <ul><li><a href="http://www.chiefmarketer.com/email-marketing/inbox-confidential-02062014">Inbox Confidential</a></li><li><a href="http://www.chiefmarketer.com/email-marketing/using-enewsletters-drive-customer-behavior-04042014">Using Enewsletters to Drive Customer Behavior</a></li><li><a href="http://www.chiefmarketer.com/email-marketing/email-clickthrough-rates-legitimate-01042014">Are Your Email Clickthrough Rates Legitimate?</a></li><li><a href="http://www.chiefmarketer.com/email-marketing/increasing-potential-email-file-21032014">Increasing the Potential of Your Email File</a></li><li><a href="http://www.chiefmarketer.com/direct-marketing/deep-discounting-maybe-shouldnt-18032014">Are You Deep Discounting? Maybe You Shouldn’t Be</a></li></ul><p class="more-link"><a title="Creative" href="http://www.chiefmarketer.com/./email-marketing/email-marketing-creative">View More</a></p></div></li>
+	<li id="menu-item-133895" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="http://directory.chiefmarketer.com/">Source Directory</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-114451"><a title="WEB" href="http://www.chiefmarketer.com/./web-marketing">WEB</a>
+<li id="menu-item-114451" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a title="WEB" href="http://www.chiefmarketer.com/./web-marketing">WEB</a><div class="dd-block">
+					 	<div class="sponsor">
+					 	  <h3>Partner Content</h3><div id="ai-sponsor-114451"><script>getScript('http://apps.decisionbriefs.com/widgets/placement/write/marketing/529f8f31af538a0e38000000?l=5&area=ai-sponsor-114451&container=ai-dropdown-114451&ime=menu-item-114451&ima=mouseover&at=sub nav');</script></div></div></div>
 <ul class="sub-menu">
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-114454"><a title="Search" href="http://www.chiefmarketer.com/./web-marketing/search-marketing">Search</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-114456"><a title="Web Content" href="http://www.chiefmarketer.com/./web-marketing/content">Web Content</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-114455"><a title="Video" href="http://www.chiefmarketer.com/./web-marketing/video">Video</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-114453"><a title="E-commerce" href="http://www.chiefmarketer.com/./e-commerce">E-commerce</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-114452"><a title="Website Advertising" href="http://www.chiefmarketer.com/./web-marketing/website-advertising">Website Advertising</a></li>
+	<li id="menu-item-114454" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a title="Search" href="http://www.chiefmarketer.com/./web-marketing/search-marketing">Search</a><div class="stories">
+					 	  <h3>Latest Content</h3>
+                          <ul><li><a href="http://www.chiefmarketer.com/web-marketing/forecasting-helps-marketers-set-digital-budgets-04062014">Forecasting Helps Marketers Set Digital Budgets</a></li><li><a href="http://www.chiefmarketer.com/web-marketing/factors-influencing-digital-marketing-budgets-27052014">Factors Influencing Digital Marketing Budgets</a></li><li><a href="http://www.chiefmarketer.com/promotional-marketing/showrooming-isnt-bad-retailers-think-20052014">Showrooming – Why It Isn’t as Bad as Retailers Think</a></li><li><a href="http://www.chiefmarketer.com/web-marketing/demystifying-programmatic-buying-19052014">Demystifying Programmatic Buying </a></li><li><a href="http://www.chiefmarketer.com/web-marketing/marketing-challenges-political-marketers-13052014">Marketing Challenges for Political Marketers</a></li></ul><p class="more-link"><a title="Search" href="http://www.chiefmarketer.com/./web-marketing/search-marketing">View More</a></p></div></li>
+	<li id="menu-item-114456" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a title="Web Content" href="http://www.chiefmarketer.com/./web-marketing/content">Web Content</a><div class="stories">
+					 	  <h3>Latest Content</h3>
+                          <ul><li><a href="http://www.chiefmarketer.com/mobile-marketing/bic-asks-writing-samples-new-mobile-campaign-10062014">BIC Asks for Writing Samples in New Mobile Campaign </a></li><li><a href="http://www.chiefmarketer.com/web-marketing/forecasting-helps-marketers-set-digital-budgets-04062014">Forecasting Helps Marketers Set Digital Budgets</a></li><li><a href="http://www.chiefmarketer.com/web-marketing/5-tips-deliver-killer-video-experience-27052014">5 Tips to Deliver a Killer Video Marketing Experience</a></li><li><a href="http://www.chiefmarketer.com/web-marketing/factors-influencing-digital-marketing-budgets-27052014">Factors Influencing Digital Marketing Budgets</a></li><li><a href="http://www.chiefmarketer.com/web-marketing/demystifying-programmatic-buying-19052014">Demystifying Programmatic Buying </a></li></ul><p class="more-link"><a title="Web Content" href="http://www.chiefmarketer.com/./web-marketing/content">View More</a></p></div></li>
+	<li id="menu-item-114455" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a title="Video" href="http://www.chiefmarketer.com/./web-marketing/video">Video</a><div class="stories">
+					 	  <h3>Latest Content</h3>
+                          <ul><li><a href="http://www.chiefmarketer.com/mobile-marketing/honda-markets-fit-gen-y-24062014">Honda Markets its Fit to Gen Y</a></li><li><a href="http://www.chiefmarketer.com/web-marketing/roi-better-video-text-24062014">ROI Better for Video than Text</a></li><li><a href="http://www.chiefmarketer.com/web-marketing/popular-styles-explainer-videos-04062014">Popular Styles of “Explainer” Videos </a></li><li><a href="http://www.chiefmarketer.com/web-marketing/5-tips-deliver-killer-video-experience-27052014">5 Tips to Deliver a Killer Video Marketing Experience</a></li><li><a href="http://www.chiefmarketer.com/web-marketing/factors-influencing-digital-marketing-budgets-27052014">Factors Influencing Digital Marketing Budgets</a></li></ul><p class="more-link"><a title="Video" href="http://www.chiefmarketer.com/./web-marketing/video">View More</a></p></div></li>
+	<li id="menu-item-114453" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a title="E-commerce" href="http://www.chiefmarketer.com/./e-commerce">E-commerce</a><div class="stories">
+					 	  <h3>Latest Content</h3>
+                          <ul><li><a href="http://www.chiefmarketer.com/e-commerce/retailers-look-merge-brick-online-shopping-experiences-06052014">Retailers Look to Merge Brick and Online Shopping Experiences </a></li><li><a href="http://www.chiefmarketer.com/e-commerce/bangle-blend-alex-ani-connect-across-multiple-platforms-06052014">Bangle Blend: How Alex and Ani Connect Across Multiple Platforms</a></li><li><a href="http://www.chiefmarketer.com/e-commerce/penguin-magics-engagement-trick-21032014">Penguin Magic's Engagement Trick</a></li><li><a href="http://www.chiefmarketer.com/direct-marketing/deep-discounting-maybe-shouldnt-18032014">Are You Deep Discounting? Maybe You Shouldn’t Be</a></li><li><a href="http://www.chiefmarketer.com/e-commerce/amazon-prime-membership-goes-25-14032014">Amazon Prime Membership Goes Up 25%</a></li></ul><p class="more-link"><a title="E-commerce" href="http://www.chiefmarketer.com/./e-commerce">View More</a></p></div></li>
+	<li id="menu-item-114452" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a title="Website Advertising" href="http://www.chiefmarketer.com/./web-marketing/website-advertising">Website Advertising</a><div class="stories">
+					 	  <h3>Latest Content</h3>
+                          <ul><li><a href="http://www.chiefmarketer.com/web-marketing/factors-influencing-digital-marketing-budgets-27052014">Factors Influencing Digital Marketing Budgets</a></li><li><a href="http://www.chiefmarketer.com/web-marketing/demystifying-programmatic-buying-19052014">Demystifying Programmatic Buying </a></li><li><a href="http://www.chiefmarketer.com/web-marketing/native-advertising-blurred-ad-content-line-29042014">Native Advertising and the Blurred Ad-Content Line</a></li><li><a href="http://www.chiefmarketer.com/web-marketing/hotels-com-campaign-well-obvious-03042014">Hotels.com Campaign is, Well Obvious</a></li><li><a href="http://www.chiefmarketer.com/promotional-marketing/digital-marketing-comes-age-cpg-brands-01042014">Digital Marketing Comes of Age for CPG Brands</a></li></ul><p class="more-link"><a title="Website Advertising" href="http://www.chiefmarketer.com/./web-marketing/website-advertising">View More</a></p></div></li>
+	<li id="menu-item-133893" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="http://directory.chiefmarketer.com/">Source Directory</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-114457"><a title="SOCIAL" href="http://www.chiefmarketer.com/./social-marketing">SOCIAL</a>
+<li id="menu-item-114457" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a title="SOCIAL" href="http://www.chiefmarketer.com/./social-marketing">SOCIAL</a><div class="dd-block">
+					 	<div class="sponsor">
+					 	  <h3>Partner Content</h3><div id="ai-sponsor-114457"><script>getScript('http://apps.decisionbriefs.com/widgets/placement/write/marketing/529f8f31af538a0e38000000?l=5&area=ai-sponsor-114457&container=ai-dropdown-114457&ime=menu-item-114457&ima=mouseover&at=sub nav');</script></div></div></div>
 <ul class="sub-menu">
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-114459"><a title="Social Media/Networks" href="http://www.chiefmarketer.com/./social-marketing/networks">Social Media/Networks</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-114458"><a title="Blogs" href="http://www.chiefmarketer.com/./social-marketing/blogs">Blogs</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-114461"><a title="Social Content" href="http://www.chiefmarketer.com/./social-marketing/social-content">Social Content</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-114460"><a title="Social Marketing Platforms" href="http://www.chiefmarketer.com/./social-marketing/platforms-tools">Social Marketing Platforms</a></li>
+	<li id="menu-item-114459" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a title="Social Media/Networks" href="http://www.chiefmarketer.com/./social-marketing/networks">Social Media/Networks</a><div class="stories">
+					 	  <h3>Latest Content</h3>
+                          <ul><li><a href="http://www.chiefmarketer.com/social-marketing/secret-edmunds-optics-social-boost-27062014">The Secret to Edmunds Optics' Social Boost</a></li><li><a href="http://www.chiefmarketer.com/b2b/combining-paid-search-linkedin-ads-b2b-success-26062014">Combining Paid Search With LinkedIn Ads for B2B Success</a></li><li><a href="http://www.chiefmarketer.com/social-marketing/ritz-carlton-leads-shift-social-strategies-24062014">Ritz-Carlton Leads in Shift in Social Strategies</a></li><li><a href="http://www.chiefmarketer.com/social-marketing/11-tips-generate-loyal-youtube-subscribers-28052014">11 Tips to Generate Loyal YouTube Subscribers</a></li><li><a href="http://www.chiefmarketer.com/promotional-marketing/5-tips-engaging-soccer-fans-without-breaking-marketing-budget-27052014">5 Tips for Engaging Soccer Fans Without Breaking Your Marketing Budget</a></li></ul><p class="more-link"><a title="Social Media/Networks" href="http://www.chiefmarketer.com/./social-marketing/networks">View More</a></p></div></li>
+	<li id="menu-item-114458" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a title="Blogs" href="http://www.chiefmarketer.com/./social-marketing/blogs">Blogs</a><div class="stories">
+					 	  <h3>Latest Content</h3>
+                          <ul><li><a href="http://www.chiefmarketer.com/promotional-marketing/5-tips-engaging-soccer-fans-without-breaking-marketing-budget-27052014">5 Tips for Engaging Soccer Fans Without Breaking Your Marketing Budget</a></li><li><a href="http://www.chiefmarketer.com/social-marketing/3-strategies-make-personal-branding-work-brand-17042014">3 Strategies to Harness the Power of Personal Branding </a></li><li><a href="http://www.chiefmarketer.com/database-marketing/special-report-following-digital-footprints-make-sense-data-points-17032014">Special Report: Following Digital Footprints to Make Sense of All Your Data Points</a></li><li><a href="http://www.chiefmarketer.com/social-marketing/tips-better-social-marketing-14032014">Tips for Better Social Marketing</a></li><li><a href="http://www.chiefmarketer.com/social-marketing/brand-building-social-media-27022014">Brand-Building On Social Media</a></li></ul><p class="more-link"><a title="Blogs" href="http://www.chiefmarketer.com/./social-marketing/blogs">View More</a></p></div></li>
+	<li id="menu-item-114461" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a title="Social Content" href="http://www.chiefmarketer.com/./social-marketing/social-content">Social Content</a><div class="stories">
+					 	  <h3>Latest Content</h3>
+                          <ul><li><a href="http://www.chiefmarketer.com/social-marketing/secret-edmunds-optics-social-boost-27062014">The Secret to Edmunds Optics' Social Boost</a></li><li><a href="http://www.chiefmarketer.com/b2b/want-content-marketing-achieve-26062014">What Do You Want Your Content Marketing to Achieve?</a></li><li><a href="http://www.chiefmarketer.com/social-marketing/ritz-carlton-leads-shift-social-strategies-24062014">Ritz-Carlton Leads in Shift in Social Strategies</a></li><li><a href="http://www.chiefmarketer.com/mobile-marketing/honda-markets-fit-gen-y-24062014">Honda Markets its Fit to Gen Y</a></li><li><a href="http://www.chiefmarketer.com/promotional-marketing/jack-daniels-back-photo-sharing-campaign-10062014">Jack Daniel’s is Back with its Photo-Sharing Campaign</a></li></ul><p class="more-link"><a title="Social Content" href="http://www.chiefmarketer.com/./social-marketing/social-content">View More</a></p></div></li>
+	<li id="menu-item-114460" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a title="Social Marketing Platforms" href="http://www.chiefmarketer.com/./social-marketing/platforms-tools">Social Marketing Platforms</a><div class="stories">
+					 	  <h3>Latest Content</h3>
+                          <ul><li><a href="http://www.chiefmarketer.com/b2b/combining-paid-search-linkedin-ads-b2b-success-26062014">Combining Paid Search With LinkedIn Ads for B2B Success</a></li><li><a href="http://www.chiefmarketer.com/social-marketing/facebooks-pages-watch-important-10062014">Why is Facebook’s "Pages to Watch" Important?</a></li><li><a href="http://www.chiefmarketer.com/social-marketing/pinterest-offers-self-serve-promoted-pins-05062014">Pinterest Offers Self-Serve Promoted Pins</a></li><li><a href="http://www.chiefmarketer.com/social-marketing/know-twitter-card-8-types-business-04062014"> Do you Know What Twitter Cards are? 8 Types for your Business </a></li><li><a href="http://www.chiefmarketer.com/promotional-marketing/5-tips-engaging-soccer-fans-without-breaking-marketing-budget-27052014">5 Tips for Engaging Soccer Fans Without Breaking Your Marketing Budget</a></li></ul><p class="more-link"><a title="Social Marketing Platforms" href="http://www.chiefmarketer.com/./social-marketing/platforms-tools">View More</a></p></div></li>
+	<li id="menu-item-133891" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="http://directory.chiefmarketer.com/">Source Directory</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-114462"><a title="MOBILE" href="http://www.chiefmarketer.com/./mobile-marketing">MOBILE</a>
+<li id="menu-item-114462" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a title="MOBILE" href="http://www.chiefmarketer.com/./mobile-marketing">MOBILE</a><div class="dd-block">
+					 	<div class="sponsor">
+					 	  <h3>Partner Content</h3><div id="ai-sponsor-114462"><script>getScript('http://apps.decisionbriefs.com/widgets/placement/write/marketing/529f8f31af538a0e38000000?l=5&area=ai-sponsor-114462&container=ai-dropdown-114462&ime=menu-item-114462&ima=mouseover&at=sub nav');</script></div></div></div>
 <ul class="sub-menu">
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-114463"><a title="Mobile Ads/Networks" href="http://www.chiefmarketer.com/./mobile-marketing/ad-networks">Mobile Ads/Networks</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-114464"><a title="Mobile Commerce" href="http://www.chiefmarketer.com/./mobile-marketing/m-commerce">Mobile Commerce</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-114465"><a title="Mobile Targeting" href="http://www.chiefmarketer.com/./mobile-marketing/targeting">Mobile Targeting</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-114466"><a title="Mobile Web Optimization" href="http://www.chiefmarketer.com/./mobile-marketing/optimization">Mobile Web Optimization</a></li>
+	<li id="menu-item-114463" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a title="Mobile Ads/Networks" href="http://www.chiefmarketer.com/./mobile-marketing/ad-networks">Mobile Ads/Networks</a><div class="stories">
+					 	  <h3>Latest Content</h3>
+                          <ul><li><a href="http://www.chiefmarketer.com/mobile-marketing/marketers-need-improve-mobile-infrastructure-report-29042014">Marketers Need to Improve Mobile Infrastructure: Report</a></li><li><a href="http://www.chiefmarketer.com/mobile-marketing/cm-asks-whats-favorite-app-22042014">CM Asks….What’s Your Favorite App?</a></li><li><a href="http://www.chiefmarketer.com/mobile-marketing/unilever-uses-new-mobile-platform-compensates-people-asia-free-airtime-09042014">Unilever Mobile Ad Compensates People in Asia with Free Airtime</a></li><li><a href="http://www.chiefmarketer.com/b2b/creating-mobile-apps-b2b-sales-marketing-22022014">Creating Mobile Apps for B2B Sales &amp; Marketing</a></li><li><a href="http://www.chiefmarketer.com/mobile-marketing/4-tips-improving-mobile-data-strategy-16022014">4 Tips for Improving Your Mobile Data Strategy</a></li></ul><p class="more-link"><a title="Mobile Ads/Networks" href="http://www.chiefmarketer.com/./mobile-marketing/ad-networks">View More</a></p></div></li>
+	<li id="menu-item-114464" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a title="Mobile Commerce" href="http://www.chiefmarketer.com/./mobile-marketing/m-commerce">Mobile Commerce</a><div class="stories">
+					 	  <h3>Latest Content</h3>
+                          <ul><li><a href="http://www.chiefmarketer.com/mobile-marketing/marketers-need-improve-mobile-infrastructure-report-29042014">Marketers Need to Improve Mobile Infrastructure: Report</a></li><li><a href="http://www.chiefmarketer.com/mobile-marketing/cm-asks-whats-favorite-app-22042014">CM Asks….What’s Your Favorite App?</a></li><li><a href="http://www.chiefmarketer.com/mobile-marketing/ibeacons-apples-passbook-new-frontier-customer-engagement-04042014">iBeacons, Apple’s Passbook and Customer Engagement  </a></li><li><a href="http://www.chiefmarketer.com/b2b/creating-mobile-apps-b2b-sales-marketing-22022014">Creating Mobile Apps for B2B Sales &amp; Marketing</a></li><li><a href="http://www.chiefmarketer.com/mobile-marketing/4-tips-improving-mobile-data-strategy-16022014">4 Tips for Improving Your Mobile Data Strategy</a></li></ul><p class="more-link"><a title="Mobile Commerce" href="http://www.chiefmarketer.com/./mobile-marketing/m-commerce">View More</a></p></div></li>
+	<li id="menu-item-114465" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a title="Mobile Targeting" href="http://www.chiefmarketer.com/./mobile-marketing/targeting">Mobile Targeting</a><div class="stories">
+					 	  <h3>Latest Content</h3>
+                          <ul><li><a href="http://www.chiefmarketer.com/mobile-marketing/ios-8-offers-new-ways-interact-app-users-18062014">IOS 8 Offers New Ways to Interact With App Users</a></li><li><a href="http://www.chiefmarketer.com/mobile-marketing/maximizing-mobile-traffic-3-tips-04062014">Maximizing Your Mobile Traffic — 3 Tips</a></li><li><a href="http://www.chiefmarketer.com/mobile-marketing/targeted-push-text-work-better-broadcast-report-02062014">Does Targeted Push Text Work Better than Broadcast? Report</a></li><li><a href="http://www.chiefmarketer.com/mobile-marketing/25-takeaways-killer-mobile-marketing-infographic-22052014">25 Takeaways for Killer Mobile Marketing: Infographic</a></li><li><a href="http://www.chiefmarketer.com/mobile-marketing/3-tips-capitalizing-mobile-messaging-20052014">3 Tips for Capitalizing on Mobile Messaging</a></li></ul><p class="more-link"><a title="Mobile Targeting" href="http://www.chiefmarketer.com/./mobile-marketing/targeting">View More</a></p></div></li>
+	<li id="menu-item-114466" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a title="Mobile Web Optimization" href="http://www.chiefmarketer.com/./mobile-marketing/optimization">Mobile Web Optimization</a><div class="stories">
+					 	  <h3>Latest Content</h3>
+                          <ul><li><a href="http://www.chiefmarketer.com/mobile-marketing/ios-8-offers-new-ways-interact-app-users-18062014">IOS 8 Offers New Ways to Interact With App Users</a></li><li><a href="http://www.chiefmarketer.com/mobile-marketing/maximizing-mobile-traffic-3-tips-04062014">Maximizing Your Mobile Traffic — 3 Tips</a></li><li><a href="http://www.chiefmarketer.com/mobile-marketing/25-takeaways-killer-mobile-marketing-infographic-22052014">25 Takeaways for Killer Mobile Marketing: Infographic</a></li><li><a href="http://www.chiefmarketer.com/mobile-marketing/3-tips-capitalizing-mobile-messaging-20052014">3 Tips for Capitalizing on Mobile Messaging</a></li><li><a href="http://www.chiefmarketer.com/e-commerce/bangle-blend-alex-ani-connect-across-multiple-platforms-06052014">Bangle Blend: How Alex and Ani Connect Across Multiple Platforms</a></li></ul><p class="more-link"><a title="Mobile Web Optimization" href="http://www.chiefmarketer.com/./mobile-marketing/optimization">View More</a></p></div></li>
+	<li id="menu-item-133889" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="http://directory.chiefmarketer.com/">Source Directory</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-114467"><a title="DATABASE/CRM" href="http://www.chiefmarketer.com/./database-marketing">DATABASE/CRM</a>
+<li id="menu-item-114467" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a title="DATABASE/CRM" href="http://www.chiefmarketer.com/./database-marketing">DATABASE/CRM</a><div class="dd-block">
+					 	<div class="sponsor">
+					 	  <h3>Partner Content</h3><div id="ai-sponsor-114467"><script>getScript('http://apps.decisionbriefs.com/widgets/placement/write/marketing/529f8f31af538a0e38000000?l=5&area=ai-sponsor-114467&container=ai-dropdown-114467&ime=menu-item-114467&ima=mouseover&at=sub nav');</script></div></div></div>
 <ul class="sub-menu">
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-114470"><a title="Loyalty/ CRM" href="http://www.chiefmarketer.com/./database-marketing/loyalty-crm">Loyalty/ CRM</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-114468"><a title="Demographics" href="http://www.chiefmarketer.com/./database-marketing/demographics">Demographics</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-114469"><a title="Data Enhancement" href="http://www.chiefmarketer.com/./database-marketing/enhancement">Data Enhancement</a></li>
+	<li id="menu-item-114470" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a title="Loyalty/ CRM" href="http://www.chiefmarketer.com/./database-marketing/loyalty-crm">Loyalty/ CRM</a><div class="stories">
+					 	  <h3>Latest Content</h3>
+                          <ul><li><a href="http://www.chiefmarketer.com/database-marketing/keeping-data-clean-can-help-environment-27052014">Why Keeping Your Data Clean Can Help the Environment </a></li><li><a href="http://www.chiefmarketer.com/database-marketing/crm-profitable-valued-20-4-million-07052014">CRM Is Profitable; Valued at $20.4 Million</a></li><li><a href="http://www.chiefmarketer.com/database-marketing/loyalty-crm/300-conversion-sony-loyalty-program-01052014">300% Conversion for Sony Rewards Loyalty Program</a></li><li><a href="http://www.chiefmarketer.com/database-marketing/loyalty-crm/4-biggest-brand-missteps-lose-loyalty-22042014">Losing Loyalty? 4 Biggest Missteps</a></li><li><a href="http://www.chiefmarketer.com/database-marketing/cmo-talks-5-ways-befriend-cio-22042014">CMO Talks: 5 Ways to Befriend Your CIO</a></li></ul><p class="more-link"><a title="Loyalty/ CRM" href="http://www.chiefmarketer.com/./database-marketing/loyalty-crm">View More</a></p></div></li>
+	<li id="menu-item-114468" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a title="Demographics" href="http://www.chiefmarketer.com/./database-marketing/demographics">Demographics</a><div class="stories">
+					 	  <h3>Latest Content</h3>
+                          <ul><li><a href="http://www.chiefmarketer.com/database-marketing/ftc-calls-restrictions-consumer-data-collection-05062014">FTC Calls for Restrictions on Consumer Data Collection</a></li><li><a href="http://www.chiefmarketer.com/database-marketing/keeping-data-clean-can-help-environment-27052014">Why Keeping Your Data Clean Can Help the Environment </a></li><li><a href="http://www.chiefmarketer.com/database-marketing/5-ways-befriend-cfo-27052014">5 Ways to Befriend Your CFO</a></li><li><a href="http://www.chiefmarketer.com/database-marketing/tap-behavioral-cues-summer-marketing-holiday-cues-14052014">Tap into Behavioral Cues for Summer Marketing, Not Holiday Cues</a></li><li><a href="http://www.chiefmarketer.com/b2b/digital-transformation-next-level-sales-enablement-13052014">Digital Transformation, The Next Level of Sales Enablement</a></li></ul><p class="more-link"><a title="Demographics" href="http://www.chiefmarketer.com/./database-marketing/demographics">View More</a></p></div></li>
+	<li id="menu-item-114469" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a title="Data Enhancement" href="http://www.chiefmarketer.com/./database-marketing/enhancement">Data Enhancement</a><div class="stories">
+					 	  <h3>Latest Content</h3>
+                          <ul><li><a href="http://www.chiefmarketer.com/b2b/digital-transformation-next-level-sales-enablement-13052014">Digital Transformation, The Next Level of Sales Enablement</a></li><li><a href="http://www.chiefmarketer.com/database-marketing/rpi-vs-rfm-targeting-unique-ecommerce-behavior-22042014">RPI vs. RFM: Targeting Unique Ecommerce Behavior</a></li><li><a href="http://www.chiefmarketer.com/database-marketing/emc-creates-centralized-global-database-15042014">EMC Creates Centralized Global Database</a></li><li><a href="http://www.chiefmarketer.com/database-marketing/principle-one-branding-15042014">The ‘Principle of One’ in Branding</a></li><li><a href="http://www.chiefmarketer.com/database-marketing/beyond-big-data-hype-14032014">Beyond the Big Data Hype</a></li></ul><p class="more-link"><a title="Data Enhancement" href="http://www.chiefmarketer.com/./database-marketing/enhancement">View More</a></p></div></li>
+	<li id="menu-item-133887" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="http://directory.chiefmarketer.com/">Source Directory</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-114471"><a title="LEAD GENERATION" href="http://www.chiefmarketer.com/./database-marketing/lead-generation">LEAD GENERATION</a>
+<li id="menu-item-114471" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a title="LEAD GENERATION" href="http://www.chiefmarketer.com/./database-marketing/lead-generation">LEAD GENERATION</a><div class="dd-block">
+					 	<div class="sponsor">
+					 	  <h3>Partner Content</h3><div id="ai-sponsor-114471"><script>getScript('http://apps.decisionbriefs.com/widgets/placement/write/marketing/529f8f31af538a0e38000000?l=5&area=ai-sponsor-114471&container=ai-dropdown-114471&ime=menu-item-114471&ima=mouseover&at=sub nav');</script></div></div></div>
 <ul class="sub-menu">
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-114472"><a title="Acquisition" href="http://www.chiefmarketer.com/./database-marketing/lead-generation/acquisition">Acquisition</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-114473"><a title="Lead Management" href="http://www.chiefmarketer.com/./database-marketing/lead-generation/lead-management">Lead Management</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-114474"><a title="Lead Scoring" href="http://www.chiefmarketer.com/./database-marketing/lead-generation/lead-scoring">Lead Scoring</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-114475"><a title="Lead Technology" href="http://www.chiefmarketer.com/./database-marketing/lead-generation/lead-technology">Lead Technology</a></li>
+	<li id="menu-item-114472" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a title="Acquisition" href="http://www.chiefmarketer.com/./database-marketing/lead-generation/acquisition">Acquisition</a><div class="stories">
+					 	  <h3>Latest Content</h3>
+                          <ul><li><a href="http://www.chiefmarketer.com/database-marketing/lead-generation/marketing-technology-can-stop-consumer-disconnect-25062014">How Marketing Technology Can Stop Consumer Disconnect</a></li><li><a href="http://www.chiefmarketer.com/database-marketing/lead-generation/global-brands-local-lead-gen-challenges-18062014">Global Brands and Local Lead Gen Challenges</a></li><li><a href="http://www.chiefmarketer.com/b2b/5-ways-determine-lead-gen-budget-stacks-10062014">5 Ways To Determine if Your Lead Gen Budget Stacks Up</a></li><li><a href="http://www.chiefmarketer.com/b2b/value-testing-online-prospecting-10062014">The Value of Testing in Online Prospecting</a></li><li><a href="http://www.chiefmarketer.com/b2b/allocate-manage-digital-marketing-budget-13052014">How to Allocate and Manage a Digital Marketing Budget</a></li></ul><p class="more-link"><a title="Acquisition" href="http://www.chiefmarketer.com/./database-marketing/lead-generation/acquisition">View More</a></p></div></li>
+	<li id="menu-item-114473" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a title="Lead Management" href="http://www.chiefmarketer.com/./database-marketing/lead-generation/lead-management">Lead Management</a><div class="stories">
+					 	  <h3>Latest Content</h3>
+                          <ul><li><a href="http://www.chiefmarketer.com/database-marketing/lead-generation/best-ways-track-leads-25062014">The Best Ways to Track Leads</a></li><li><a href="http://www.chiefmarketer.com/database-marketing/lead-generation/global-brands-local-lead-gen-challenges-18062014">Global Brands and Local Lead Gen Challenges</a></li><li><a href="http://www.chiefmarketer.com/b2b/allocate-manage-digital-marketing-budget-13052014">How to Allocate and Manage a Digital Marketing Budget</a></li><li><a href="http://www.chiefmarketer.com/b2b/ideas-driving-growth-lead-management-13052014">Ideas for Driving Growth With Lead Management</a></li><li><a href="http://www.chiefmarketer.com/b2b/full-agenda-announced-b2b-leadscon-summit-2014-07052014">Full Agenda Announced for B2B LeadsCon Summit 2014</a></li></ul><p class="more-link"><a title="Lead Management" href="http://www.chiefmarketer.com/./database-marketing/lead-generation/lead-management">View More</a></p></div></li>
+	<li id="menu-item-114474" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a title="Lead Scoring" href="http://www.chiefmarketer.com/./database-marketing/lead-generation/lead-scoring">Lead Scoring</a><div class="stories">
+					 	  <h3>Latest Content</h3>
+                          <ul><li><a href="http://www.chiefmarketer.com/database-marketing/lead-generation/global-brands-local-lead-gen-challenges-18062014">Global Brands and Local Lead Gen Challenges</a></li><li><a href="http://www.chiefmarketer.com/b2b/allocate-manage-digital-marketing-budget-13052014">How to Allocate and Manage a Digital Marketing Budget</a></li><li><a href="http://www.chiefmarketer.com/b2b/ideas-driving-growth-lead-management-13052014">Ideas for Driving Growth With Lead Management</a></li><li><a href="http://www.chiefmarketer.com/b2b/full-agenda-announced-b2b-leadscon-summit-2014-07052014">Full Agenda Announced for B2B LeadsCon Summit 2014</a></li><li><a href="http://www.chiefmarketer.com/database-marketing/lead-generation/difference-exclusive-shared-lead-models-06052014">The Difference Between Exclusive and Shared Lead Models</a></li></ul><p class="more-link"><a title="Lead Scoring" href="http://www.chiefmarketer.com/./database-marketing/lead-generation/lead-scoring">View More</a></p></div></li>
+	<li id="menu-item-114475" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a title="Lead Technology" href="http://www.chiefmarketer.com/./database-marketing/lead-generation/lead-technology">Lead Technology</a><div class="stories">
+					 	  <h3>Latest Content</h3>
+                          <ul><li><a href="http://www.chiefmarketer.com/database-marketing/lead-generation/best-ways-track-leads-25062014">The Best Ways to Track Leads</a></li><li><a href="http://www.chiefmarketer.com/database-marketing/lead-generation/marketing-technology-can-stop-consumer-disconnect-25062014">How Marketing Technology Can Stop Consumer Disconnect</a></li><li><a href="http://www.chiefmarketer.com/database-marketing/lead-generation/global-brands-local-lead-gen-challenges-18062014">Global Brands and Local Lead Gen Challenges</a></li><li><a href="http://www.chiefmarketer.com/database-marketing/lead-generation/keys-capturing-web-audiences-10062014">Optimizing Lead Gen Efforts With Killer Calls to Action</a></li><li><a href="http://www.chiefmarketer.com/b2b/allocate-manage-digital-marketing-budget-13052014">How to Allocate and Manage a Digital Marketing Budget</a></li></ul><p class="more-link"><a title="Lead Technology" href="http://www.chiefmarketer.com/./database-marketing/lead-generation/lead-technology">View More</a></p></div></li>
+	<li id="menu-item-133885" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="http://directory.chiefmarketer.com/">Source Directory</a></li>
+	<li id="menu-item-141125" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="http://www.leadscon.com/leadsconny/b2bleadsconsummit/">B2B LeadsCon Summit</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-114476"><a href="http://www.chiefmarketer.com/./b2b">B2B</a>
+<li id="menu-item-114476" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://www.chiefmarketer.com/./b2b">B2B</a><div class="dd-block">
+					 	<div class="sponsor">
+					 	  <h3>Partner Content</h3><div id="ai-sponsor-114476"><script>getScript('http://apps.decisionbriefs.com/widgets/placement/write/marketing/529f8f31af538a0e38000000?l=5&area=ai-sponsor-114476&container=ai-dropdown-114476&ime=menu-item-114476&ima=mouseover&at=sub nav');</script></div></div></div>
 <ul class="sub-menu">
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-114478"><a title="B2B Creative" href="http://www.chiefmarketer.com/./b2b/b2b-creative">B2B Creative</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-114477"><a href="http://www.chiefmarketer.com/./b2b/b2b-events">B2B Events</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-114480"><a title="B2B Lead Generation" href="http://www.chiefmarketer.com/./b2b/b2b-lead-generation">B2B Lead Generation</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-114479"><a title="B2B Email" href="http://www.chiefmarketer.com/./b2b/b2b-email">B2B Email</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-114481"><a title="B2B Social" href="http://www.chiefmarketer.com/./b2b/b2b-social">B2B Social</a></li>
+	<li id="menu-item-114478" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a title="B2B Creative" href="http://www.chiefmarketer.com/./b2b/b2b-creative">B2B Creative</a><div class="stories">
+					 	  <h3>Latest Content</h3>
+                          <ul><li><a href="http://www.chiefmarketer.com/b2b/want-content-marketing-achieve-26062014">What Do You Want Your Content Marketing to Achieve?</a></li><li><a href="http://www.chiefmarketer.com/b2b/closing-b2b-sales-follow-matters-25062014">In Closing B2B Sales, Follow-Up Matters</a></li><li><a href="http://www.chiefmarketer.com/b2b/5-tips-make-b2b-brand-connect-customers-18062014">5 Tips To Make B2B Brand Connect with Customers</a></li><li><a href="http://www.chiefmarketer.com/b2b/rubber-band-theory-better-marketing-behavior-12062014">The Rubber Band Theory of Better Marketing Behavior</a></li><li><a href="http://www.chiefmarketer.com/b2b/jay-baer-creating-value-marketing-04062014">Jay Baer on Creating Value in Marketing </a></li></ul><p class="more-link"><a title="B2B Creative" href="http://www.chiefmarketer.com/./b2b/b2b-creative">View More</a></p></div></li>
+	<li id="menu-item-114477" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a href="http://www.chiefmarketer.com/./b2b/b2b-events">B2B Events</a><div class="stories">
+					 	  <h3>Latest Content</h3>
+                          <ul><li><a href="http://www.chiefmarketer.com/b2b/jay-baer-creating-value-marketing-04062014">Jay Baer on Creating Value in Marketing </a></li><li><a href="http://www.chiefmarketer.com/b2b/bma2014-focuses-changing-b2b-buyer-29052014">BMA2014 Focuses on Changing B2B Buyer</a></li><li><a href="http://www.chiefmarketer.com/b2b/pillars-growth-27052014">SiriusDecisions Summit Focuses on B2B Growth </a></li><li><a href="http://www.chiefmarketer.com/b2b/trade-show-marketing-dos-donts-ways-annoy-prospects-22052014">Trade Show Marketing Do’s &amp; Don’ts: Ways to Annoy Your Prospects</a></li><li><a href="http://www.chiefmarketer.com/b2b/apply-now-become-b2b-top-shop-20052014">Apply Now to Become a B2B Top Shop!</a></li></ul><p class="more-link"><a href="http://www.chiefmarketer.com/./b2b/b2b-events">View More</a></p></div></li>
+	<li id="menu-item-114480" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a title="B2B Lead Generation" href="http://www.chiefmarketer.com/./b2b/b2b-lead-generation">B2B Lead Generation</a><div class="stories">
+					 	  <h3>Latest Content</h3>
+                          <ul><li><a href="http://www.chiefmarketer.com/b2b/5-tips-make-b2b-brand-connect-customers-18062014">5 Tips To Make B2B Brand Connect with Customers</a></li><li><a href="http://www.chiefmarketer.com/b2b/rubber-band-theory-better-marketing-behavior-12062014">The Rubber Band Theory of Better Marketing Behavior</a></li><li><a href="http://www.chiefmarketer.com/b2b/5-ways-determine-lead-gen-budget-stacks-10062014">5 Ways To Determine if Your Lead Gen Budget Stacks Up</a></li><li><a href="http://www.chiefmarketer.com/b2b/value-testing-online-prospecting-10062014">The Value of Testing in Online Prospecting</a></li><li><a href="http://www.chiefmarketer.com/b2b/jay-baer-creating-value-marketing-04062014">Jay Baer on Creating Value in Marketing </a></li></ul><p class="more-link"><a title="B2B Lead Generation" href="http://www.chiefmarketer.com/./b2b/b2b-lead-generation">View More</a></p></div></li>
+	<li id="menu-item-114479" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a title="B2B Email" href="http://www.chiefmarketer.com/./b2b/b2b-email">B2B Email</a><div class="stories">
+					 	  <h3>Latest Content</h3>
+                          <ul><li><a href="http://www.chiefmarketer.com/b2b/bma2014-focuses-changing-b2b-buyer-29052014">BMA2014 Focuses on Changing B2B Buyer</a></li><li><a href="http://www.chiefmarketer.com/b2b/apply-now-become-b2b-top-shop-20052014">Apply Now to Become a B2B Top Shop!</a></li><li><a href="http://www.chiefmarketer.com/b2b/full-agenda-announced-b2b-leadscon-summit-2014-07052014">Full Agenda Announced for B2B LeadsCon Summit 2014</a></li><li><a href="http://www.chiefmarketer.com/b2b/enewsletters-outperform-b2b-promotional-emails-study-21022014">Enewsletters Outperform B2B Promotional Emails: Study</a></li><li><a href="http://www.chiefmarketer.com/b2b/brilliant-b2b-big-brands-struggle-understand-smb-market-25012014">Brilliant B2B: Big Brands Struggle to Understand SMB Market</a></li></ul><p class="more-link"><a title="B2B Email" href="http://www.chiefmarketer.com/./b2b/b2b-email">View More</a></p></div></li>
+	<li id="menu-item-114481" class="menu-item menu-item-type-taxonomy menu-item-object-category"><a title="B2B Social" href="http://www.chiefmarketer.com/./b2b/b2b-social">B2B Social</a><div class="stories">
+					 	  <h3>Latest Content</h3>
+                          <ul><li><a href="http://www.chiefmarketer.com/b2b/combining-paid-search-linkedin-ads-b2b-success-26062014">Combining Paid Search With LinkedIn Ads for B2B Success</a></li><li><a href="http://www.chiefmarketer.com/b2b/want-content-marketing-achieve-26062014">What Do You Want Your Content Marketing to Achieve?</a></li><li><a href="http://www.chiefmarketer.com/b2b/5-tips-make-b2b-brand-connect-customers-18062014">5 Tips To Make B2B Brand Connect with Customers</a></li><li><a href="http://www.chiefmarketer.com/b2b/jay-baer-creating-value-marketing-04062014">Jay Baer on Creating Value in Marketing </a></li><li><a href="http://www.chiefmarketer.com/b2b/4-strategies-end-struggle-marketing-sales-01062014">4 Strategies to End the Struggle Between Marketing and Sales</a></li></ul><p class="more-link"><a title="B2B Social" href="http://www.chiefmarketer.com/./b2b/b2b-social">View More</a></p></div></li>
+	<li id="menu-item-141285" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="http://www.chiefmarketer.com/b2b/chief-marketer-top-shop-23052014">B2B Top Shops</a></li>
+	<li id="menu-item-133883" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="http://directory.chiefmarketer.com/">Source Directory</a></li>
+	<li id="menu-item-141123" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="http://www.leadscon.com/leadsconny/b2bleadsconsummit/">B2B LeadsCon Summit</a></li>
 </ul>
 </li>
 </ul><select class="responsiveMenuSelect"><option value="" selected="selected">⇒ Menu</option><option id="menu-item-114431" value="http://www.chiefmarketer.com/./promotional-marketing">PROMO</option>
-	<option id="menu-item-122700" value="http://www.chiefmarketer.com/topshops-application">– PROMO’s Top Shops</option>
-	<option id="menu-item-114437" value="http://www.chiefmarketer.com/2012-pro-awards-best-promotion-marketing-campaigns">– PROAwards</option>
 	<option id="menu-item-114432" value="http://www.chiefmarketer.com/./promotional-marketing/contests-sweeps">– Sweepstakes/Contests</option>
 	<option id="menu-item-114434" value="http://www.chiefmarketer.com/./promotional-marketing/storepop">– POP/In-Store</option>
 	<option id="menu-item-114433" value="http://www.chiefmarketer.com/./promotional-marketing/event-marketing">– Events</option>
 	<option id="menu-item-114435" value="http://www.chiefmarketer.com/./promotional-marketing/incentives">– Incentives</option>
 	<option id="menu-item-114436" value="http://www.chiefmarketer.com/./promotional-marketing/sponsorshipstie-ins">– Sponsorships &amp; Tie-ins</option>
 	<option id="menu-item-114439" value="http://www.chiefmarketer.com/./agencies">– Agencies</option>
+	<option id="menu-item-131395" value="/topshops2013/">– PROMO’s Top Shops</option>
+	<option id="menu-item-135513" value="http://www.chiefmarketer.com/pro-awards-2014">– 2014 PRO Awards Winners</option>
+	<option id="menu-item-133899" value="http://directory.chiefmarketer.com/">– Source Directory</option>
 <option id="menu-item-114440" value="http://www.chiefmarketer.com/./direct-marketing">DIRECT</option>
 	<option id="menu-item-114443" value="http://www.chiefmarketer.com/./direct-marketing/direct-mail-1">– Direct Mail</option>
 	<option id="menu-item-114441" value="http://www.chiefmarketer.com/./direct-marketing/catalogs">– Catalog</option>
 	<option id="menu-item-114442" value="http://www.chiefmarketer.com/./direct-marketing/creative">– Creative</option>
 	<option id="menu-item-114444" value="http://www.chiefmarketer.com/./direct-marketing/regulations">– Postal Regulations</option>
+	<option id="menu-item-133897" value="http://directory.chiefmarketer.com/">– Source Directory</option>
 <option id="menu-item-114445" value="http://www.chiefmarketer.com/./email-marketing">EMAIL</option>
 	<option id="menu-item-114446" value="http://www.chiefmarketer.com/./email-marketing/email-marketing-acquisition">– Acquisition</option>
 	<option id="menu-item-114450" value="http://www.chiefmarketer.com/./email-marketing/targetingpersonalization">– Targeting/Personalization</option>
 	<option id="menu-item-114448" value="http://www.chiefmarketer.com/./email-marketing/deliverability">– Deliverability</option>
 	<option id="menu-item-114449" value="http://www.chiefmarketer.com/./email-marketing/retention">– Retention</option>
 	<option id="menu-item-114447" value="http://www.chiefmarketer.com/./email-marketing/email-marketing-creative">– Creative</option>
+	<option id="menu-item-133895" value="http://directory.chiefmarketer.com/">– Source Directory</option>
 <option id="menu-item-114451" value="http://www.chiefmarketer.com/./web-marketing">WEB</option>
 	<option id="menu-item-114454" value="http://www.chiefmarketer.com/./web-marketing/search-marketing">– Search</option>
 	<option id="menu-item-114456" value="http://www.chiefmarketer.com/./web-marketing/content">– Web Content</option>
 	<option id="menu-item-114455" value="http://www.chiefmarketer.com/./web-marketing/video">– Video</option>
 	<option id="menu-item-114453" value="http://www.chiefmarketer.com/./e-commerce">– E-commerce</option>
 	<option id="menu-item-114452" value="http://www.chiefmarketer.com/./web-marketing/website-advertising">– Website Advertising</option>
+	<option id="menu-item-133893" value="http://directory.chiefmarketer.com/">– Source Directory</option>
 <option id="menu-item-114457" value="http://www.chiefmarketer.com/./social-marketing">SOCIAL</option>
 	<option id="menu-item-114459" value="http://www.chiefmarketer.com/./social-marketing/networks">– Social Media/Networks</option>
 	<option id="menu-item-114458" value="http://www.chiefmarketer.com/./social-marketing/blogs">– Blogs</option>
 	<option id="menu-item-114461" value="http://www.chiefmarketer.com/./social-marketing/social-content">– Social Content</option>
 	<option id="menu-item-114460" value="http://www.chiefmarketer.com/./social-marketing/platforms-tools">– Social Marketing Platforms</option>
+	<option id="menu-item-133891" value="http://directory.chiefmarketer.com/">– Source Directory</option>
 <option id="menu-item-114462" value="http://www.chiefmarketer.com/./mobile-marketing">MOBILE</option>
 	<option id="menu-item-114463" value="http://www.chiefmarketer.com/./mobile-marketing/ad-networks">– Mobile Ads/Networks</option>
 	<option id="menu-item-114464" value="http://www.chiefmarketer.com/./mobile-marketing/m-commerce">– Mobile Commerce</option>
 	<option id="menu-item-114465" value="http://www.chiefmarketer.com/./mobile-marketing/targeting">– Mobile Targeting</option>
 	<option id="menu-item-114466" value="http://www.chiefmarketer.com/./mobile-marketing/optimization">– Mobile Web Optimization</option>
+	<option id="menu-item-133889" value="http://directory.chiefmarketer.com/">– Source Directory</option>
 <option id="menu-item-114467" value="http://www.chiefmarketer.com/./database-marketing">DATABASE/CRM</option>
 	<option id="menu-item-114470" value="http://www.chiefmarketer.com/./database-marketing/loyalty-crm">– Loyalty/ CRM</option>
 	<option id="menu-item-114468" value="http://www.chiefmarketer.com/./database-marketing/demographics">– Demographics</option>
 	<option id="menu-item-114469" value="http://www.chiefmarketer.com/./database-marketing/enhancement">– Data Enhancement</option>
+	<option id="menu-item-133887" value="http://directory.chiefmarketer.com/">– Source Directory</option>
 <option id="menu-item-114471" value="http://www.chiefmarketer.com/./database-marketing/lead-generation">LEAD GENERATION</option>
 	<option id="menu-item-114472" value="http://www.chiefmarketer.com/./database-marketing/lead-generation/acquisition">– Acquisition</option>
 	<option id="menu-item-114473" value="http://www.chiefmarketer.com/./database-marketing/lead-generation/lead-management">– Lead Management</option>
 	<option id="menu-item-114474" value="http://www.chiefmarketer.com/./database-marketing/lead-generation/lead-scoring">– Lead Scoring</option>
 	<option id="menu-item-114475" value="http://www.chiefmarketer.com/./database-marketing/lead-generation/lead-technology">– Lead Technology</option>
+	<option id="menu-item-133885" value="http://directory.chiefmarketer.com/">– Source Directory</option>
+	<option id="menu-item-141125" value="http://www.leadscon.com/leadsconny/b2bleadsconsummit/">– B2B LeadsCon Summit</option>
 <option id="menu-item-114476" value="http://www.chiefmarketer.com/./b2b">B2B</option>
 	<option id="menu-item-114478" value="http://www.chiefmarketer.com/./b2b/b2b-creative">– B2B Creative</option>
 	<option id="menu-item-114477" value="http://www.chiefmarketer.com/./b2b/b2b-events">– B2B Events</option>
 	<option id="menu-item-114480" value="http://www.chiefmarketer.com/./b2b/b2b-lead-generation">– B2B Lead Generation</option>
 	<option id="menu-item-114479" value="http://www.chiefmarketer.com/./b2b/b2b-email">– B2B Email</option>
 	<option id="menu-item-114481" value="http://www.chiefmarketer.com/./b2b/b2b-social">– B2B Social</option>
-</select></div></nav>
+	<option id="menu-item-141285" value="http://www.chiefmarketer.com/b2b/chief-marketer-top-shop-23052014">– B2B Top Shops</option>
+	<option id="menu-item-133883" value="http://directory.chiefmarketer.com/">– Source Directory</option>
+	<option id="menu-item-141123" value="http://www.leadscon.com/leadsconny/b2bleadsconsummit/">– B2B LeadsCon Summit</option>
+</select></div>    
+    
+</nav>
 <div class="clr"></div>
-	
 
 	<div id="primary" class="site-content">
 		<div id="content" role="main">
@@ -531,7 +619,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1363361813814-0');
 </div>
 <br>
 
-<div class="up-data"><span><a href="http://stage.chiefmarketer.com/">HOME</a> &gt; <strong>PRIVACY POLICY</strong></span></div>
+<div class="up-data"><span><a href="http://www.chiefmarketer.com/">HOME</a> &gt; <strong>PRIVACY POLICY</strong></span></div>
 <div class="bore-dottesd">&nbsp;</div>
 
 
@@ -634,7 +722,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1363361813814-0');
 
 
 
- <div class="star"><aside id="just_released_plus_widget-2" class="widget just_released_plus_widget"><h3 class="widget-title">Just Released</h3><p class="first"><a href="http://www.chiefmarketer.com/up-coming-webinars/negative-reviews-can-improve-purchase-intent-brands-know-respond-08102013">Webinar: How Negative Reviews Can Improve Purchase Intent – If Brands Know How to Respond</a></p><p><a href="http://www.chiefmarketer.com/whitepapers/facebook-graph-search-pov-16082013">Facebook Graph Search POV</a></p><p><a href="http://www.chiefmarketer.com/research/half-of-marketers-report-enterprise-data-most-underutilized-asset-survey-05082013">Half of Marketers Report Enterprise Data Most Underutilized Asset: Survey </a></p><div class="see-more"><a href="/research-library/">more &gt;</a><div>
+ <div class="star"><aside id="just_released_plus_widget-2" class="widget just_released_plus_widget"><h3 class="widget-title">Just Released</h3><p class="first"><a href="">Webinar: How to Make 2014 the Best Holiday Sales Season Yet</a></p><p><a href="http://www.chiefmarketer.com/database-marketing/half-of-marketers-report-enterprise-data-most-underutilized-asset-survey-05082013">Half of Marketers Report Enterprise Data Most Underutilized Asset: Survey </a></p><div class="see-more"><a href="/research-library/">more &gt;</a><div>
 	</div></div></aside></div>
     <div id="div-gpt-ad-1363598800725-0" style="width:300px; height:250px;">
 
@@ -646,11 +734,11 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1363598800725-0');
 
 </div>
 
-<div class="video"><aside id="latest_posts_plus_widget-2" class="widget latest_posts_plus_widget"><h3 class="widget-title">Latest Webinars</h3><p class="first"><a href="http://www.chiefmarketer.com/up-coming-webinars/deliver-great-customer-experiences-preference-management-can-help-10102013">Deliver Great Customer Experiences: How Preference Management Can Help</a></p><p><a href="http://www.chiefmarketer.com/up-coming-webinars/negative-reviews-can-improve-purchase-intent-brands-know-respond-08102013">How Negative Reviews Can Improve Purchase Intent – If Brands Know How to Respond</a></p><div class="see-more"><a href="/webinars/">more &gt;</a><div>
-	</div></div></aside></div><div class="doc"><aside id="latest_posts_plus_widget-3" class="widget latest_posts_plus_widget"><h3 class="widget-title">Latest Whitepapers </h3><p class="first"><a href="http://www.chiefmarketer.com/whitepapers/get-started-with-social-relationship-management-16082013">Get Started with Social Relationship Management</a></p><p><a href="http://www.chiefmarketer.com/whitepapers/facebook-graph-search-pov-16082013">Facebook Graph Search POV</a></p><div class="see-more"><a href="http://whitepapers.chiefmarketer.com/">more &gt;</a><div>
-	</div></div></aside></div><div class="research"><aside id="latest_posts_plus_widget-4" class="widget latest_posts_plus_widget"><h3 class="widget-title">Latest Research</h3><p class="first"><a href="http://www.chiefmarketer.com/research/chief-marketers-2013-annual-social-media-survey-23092013">Chief Marketer’s 2013 Annual Social Media Survey</a></p><p><a href="http://www.chiefmarketer.com/research/half-of-marketers-report-enterprise-data-most-underutilized-asset-survey-05082013">Half of Marketers Report Enterprise Data Most Underutilized Asset: Survey</a></p><div class="see-more"><a href="/research/">more &gt;</a><div>
-	</div></div></aside></div><div class="chart"><aside id="latest_posts_plus_widget-6" class="widget latest_posts_plus_widget"><h3 class="widget-title">Latest Executive Summary</h3><p class="first"><a href="http://www.chiefmarketer.com/news/big-data-big-deal-transform-your-email-marketing-by-leveraging-big-data-12062013">Big Data, Big Deal: Transform Your Email Marketing by Leveraging Big Data</a></p><div class="see-more"><a href="/latest-executive-summary/">more &gt;</a><div>
-	</div></div></aside></div><div class="doc"><aside id="latest_posts_plus_widget-5" class="widget latest_posts_plus_widget"><h3 class="widget-title">TipSheets</h3><p class="first"><a href="http://www.chiefmarketer.com/marketing-tip-sheets/incentive-marketing-tip-sheet-08102013">Incentive Marketing Tip Sheet</a></p><p><a href="http://www.chiefmarketer.com/marketing-tip-sheets/experential-marketing-tips-01072013">Experential Marketing Tips</a></p><div class="see-more"><a href="/marketing-tip-sheets/">more &gt;</a><div>
+<div class="video"><aside id="latest_posts_plus_widget-2" class="widget latest_posts_plus_widget"><h3 class="widget-title">Latest Webinars</h3><p class="first"><a href="http://www.chiefmarketer.com/up-coming-webinars/make-2014-best-holiday-sales-season-yet-23062014">How to Make 2014 the Best Holiday Sales Season Yet</a></p><div class="see-more"><a href="/webinars/">more &gt;</a><div>
+	</div></div></aside></div><div class="doc"><aside id="latest_posts_plus_widget-3" class="widget latest_posts_plus_widget"><h3 class="widget-title">Latest Whitepapers </h3><p class="first"><a href="http://www.chiefmarketer.com/whitepapers/get-started-with-social-relationship-management-16082013"> How to Achieve a Seamless Marketing Execution</a></p><p><a href="http://www.chiefmarketer.com/whitepapers/facebook-graph-search-pov-16082013">The Beginner's Guide to Social Media Metrics</a></p><div class="see-more"><a href="http://whitepapers.chiefmarketer.com/">more &gt;</a><div>
+	</div></div></aside></div><div class="research"><aside id="latest_posts_plus_widget-4" class="widget latest_posts_plus_widget"><h3 class="widget-title">Latest Research</h3><p class="first"><a href="http://www.chiefmarketer.com/research/chief-marketers-2013-annual-social-media-survey-23092013">Chief Marketer’s 2013 Annual Social Media Survey</a></p><p><a href="http://www.chiefmarketer.com/research/exclusive-mobile-marketing-research-27062013">Exclusive Mobile Marketing Research</a></p><div class="see-more"><a href="/research/">more &gt;</a><div>
+	</div></div></aside></div><div class="chart"><aside id="latest_posts_plus_widget-6" class="widget latest_posts_plus_widget"><h3 class="widget-title">Latest Executive Summary</h3><p class="first"><a href="http://www.chiefmarketer.com/special-reports/search-social-roi-need-know-social-media-attribution-18032014">In Search of Social ROI: What You Need to Know About Social Media and Attribution</a></p><div class="see-more"><a href="/latest-executive-summary/">more &gt;</a><div>
+	</div></div></aside></div><div class="doc"><aside id="latest_posts_plus_widget-5" class="widget latest_posts_plus_widget"><h3 class="widget-title">TipSheets</h3><p class="first"><a href="http://www.chiefmarketer.com/marketing-tip-sheets/top-10-data-pain-points-17032014">Top 10 Data Pain Points</a></p><p><a href="http://www.chiefmarketer.com/marketing-tip-sheets/list-data-tricks-tips-trends-10122013">List &amp; Data Tricks, Tips and Trends</a></p><div class="see-more"><a href="/marketing-tip-sheets/">more &gt;</a><div>
 	</div></div></aside></div>    <!--<script language="Javascript1.1" src="http://ad.doubleclick.net/adj/multichannel.iclick.com/adtarget;abr=!webtv;page=;subss=;subs=;area=home;site=multichannel;kw=;sz=300x250;tile=2;pos=square3001;ord=66487.84425299674"></script>
 <noscript><a href="http://googleads.g.doubleclick.net/aclk?sa=L&ai=BRgq5-58UUem5EIfNigew9ICwBOu0upEDAAAAEAEgADgAULz6mI7-_____wFYq8_ynVNg5dLmg7wOggEXY2EtcHViLTAwOTg0MDcyODk1Mjc3OTmyARhtdWx0aWNoYW5uZWxtZXJjaGFudC5jb226AQlnZnBfaW1hZ2XIAQLaASBodHRwOi8vbXVsdGljaGFubmVsbWVyY2hhbnQuY29tL8ACAuACAOoCJTM4MzQvbXVsdGljaGFubmVsLmljbGljay5jb20vYWR0YXJnZXT4AvTRHpADmgiYA6QDqAMB0ASQTuAEAaAGFA&num=0&sig=AOD64_1syjJRrDBM4sop6a1XOP8NKohb9w&client=ca-pub-0098407289527799&adurl=https://penton-sub.halldata.com/site/PEN004261CJnl/init.do%3F%26PK%3DNLHWEB%3FOffer%3DBAOFA"><img width="300" height="250" border="0" alt="" src="http://pagead2.googlesyndication.com/simgad/16731431296880181846"></a></noscript>-->
 	<!-- Multichannelmerchant.com/bottomrightboombox -->
@@ -792,9 +880,16 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1363361918073-0');
       <div class="site-oty tech-myu">
         <ul>
           <li> <a href="http://www.operationssummit.com" title="Operations Summit" target="_blank">Operations Summit</a></li>
+          
+          <li> <a href="http://www.mcmgrowingglobal.com/?CMfooter" title="Growing Global" target="_blank">Growing Global</a></li>
           <!-- <li> <a href="http://www.multichannelmerchant.com/events" title="MCM Live" target="_blank">MCM Live </a></li> -->
           <li> <a href="http://www.chiefmarketer.com/webinars" title="Webinars">Webinars </a></li>
-          <li> <a href="http://www.leadscon.com" title="Leadscon" target="_blank">LeadsCon </a></li>
+          <li> <a href="http://www.leadscon.com" title="Leadscon" target="_blank">LeadsCon </a></li></ul> 
+          <p class="site-feat"> <strong>Awards</strong></p>
+        <ul>
+          <li> <a href="http://www.chiefmarketer.com/pro-awards-2014" title="Pro Awards" target="_blank">Pro Awards</a></li>
+          <!-- <li> <a href="http://www.multichannelmerchant.com/events" title="MCM Live" target="_blank">MCM Live </a></li> -->
+          <li> <a href="http://www.marcawards.com/?utm_source=CM&amp;utm_medium=Footer&amp;utm_campaign=Marketing%20ARC%20awards" title="Marketing Arc Awards" target="_blank">Marketing Arc Awards</a> </li>
         </ul>
       </div>
     </div>
@@ -803,7 +898,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1363361918073-0');
       <div class="site-oty">
         <ul>          
           <li><a href="http://directory.promomagazine.com">Directory</a></li>
-          <li><a href="http://www.jobtarget.com/home/index.cfm?site_id=15648">Jobs</a></li>
+          <li><a href="http://jobs.chiefmarketer.com">Jobs</a></li>
           <li><a href="http://www.chiefmarketer.com/research">Research</a></li>
           <li><a href="http://www.b2bmediaportal.com/register.aspx?fid=CMKN&amp;status=new">ELetters</a></li>
           <li><a href="http://www.chiefmarketer.com/special-reports">Special Reports</a></li>
@@ -849,11 +944,40 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1363361918073-0');
     </div>
     <div class="clr"></div>
     <div class="copy-right">
-      <p>Copyright © 2013, Access Intelligence, LLC. All rights reserved.</p>
+      <p>Copyright © 2014, Access Intelligence, LLC. All rights reserved.</p>
     </div>
   </div>
 </div>
 </div>
+<script>
+		t_log_action(
+			'impression', //action
+			'', //entity label
+			'cm_page', //entity collection
+			'', //owner
+			null, //distribution id
+			'', //channel
+			'', //widget
+			null, //campaign_id
+			null, //meta
+			null //value
+		);
+		
+
+		t_log_action(
+			'impression', //action
+			'', //entity label
+			'cm_page', //entity collection
+			'', //owner
+			null, //distribution id
+			'', //channel
+			'', //widget
+			null, //campaign_id
+			null, //meta
+			null //value
+		);
+		
+</script>
 
 <!--Plugin WP Missed Schedule 2013.0131.3333 Active - Key Tag: 8a22836915262a9b0c04fa9101e61016-->
 
@@ -861,8 +985,7 @@ googletag.cmd.push(function() { googletag.display('div-gpt-ad-1363361918073-0');
 
 var addthis_config = {"data_track_clickback":false,"data_track_addressbar":false,"data_track_textcopy":false,"ui_atversion":"300","ui_508_compliant":true};
 var addthis_product = 'wpp-3.5.1';
-</script><script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-513ebcd567147d90"></script><script type="text/javascript" src="http://www.chiefmarketer.com/wp-includes/js/jquery/suggest.min.js?ver=1.1-20110113"></script>
-<script type="text/javascript" src="http://www.chiefmarketer.com/wp-content/themes/chiefmarketer/js/navigation.js?ver=1.0"></script>
+</script><script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-513ebcd567147d90"></script><script type="text/javascript" src="http://www.chiefmarketer.com/wp-content/themes/chiefmarketer/js/navigation.js?ver=1.0"></script>
 <!--wp_footer-->
 <script type="text/javascript">
 setTimeout(function(){var a=document.createElement("script");
@@ -871,10 +994,22 @@ a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0
 a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 </script>
 
-<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:")+"//"+"js-agent.newrelic.com/nr-100.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-2.newrelic.com","7b3e015db0","2261186","Y1xQYEQEDBBYBhVaDVoWZ0ZfSgsNXQAZHRJcSQ==",0,5,new Date().getTime(),"","","","",""]);</script>
+<script type="text/javascript">
+(function () {
+_ml = window._ml || {};
+_ml.pub = '46';
+_ml.ef = ['#email','#Email', '#ne', '#/LB/9/EmailAddress'];
+var s = document.getElementsByTagName('script')[0], cd = new Date(), mltag =
+document.createElement('script');
+mltag.type = 'text/javascript'; mltag.async = true;
+mltag.src = '//mlno6.com/tag.aspx?' + cd.getDate() + cd.getMonth() +
+cd.getFullYear();
+s.parentNode.insertBefore(mltag, s);
+})();
+</script>
+
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-4.newrelic.com","licenseKey":"7b3e015db0","applicationID":"2261186","transactionName":"Y1xQYEQEDBBYBhVaDVoWc1dCDA0NFhUAVAc=","queueTime":0,"applicationTime":1868,"ttGuid":"","agentToken":"","atts":"TxtTFgweHx4=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
 
 <!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
 
-Page Caching using memcached
-
- Served from: www.chiefmarketer.com @ 2013-10-20 16:46:20 by W3 Total Cache --><script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
+ Served from: www.chiefmarketer.com @ 2014-06-30 02:43:09 by W3 Total Cache --><script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
