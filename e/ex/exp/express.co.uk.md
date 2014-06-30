@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the express.co.uk privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231220524id_/http%3A//www.express.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the express.co.uk privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630090047id_/http%3A//www.express.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Daily Express
 
