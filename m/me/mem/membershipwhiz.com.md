@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the membershipwhiz.com privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630162939id_/http%3A//www.wpmemberchamp.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the membershipwhiz.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630235442id_/http%3A//www.wpmemberchamp.com/privacy.php) for the most accurate reproduction.*
 
 # wpmemberchamp.com Privacy Policy
 
