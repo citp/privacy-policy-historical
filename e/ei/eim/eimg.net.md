@@ -1,90 +1,112 @@
-> *The following text is extracted and transformed from the eimg.net privacy policy that was archived on 2012-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121003202511id_/http%3A//www.earthlink.com/about/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eimg.net privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630093748id_/http%3A//www.earthlink.net/about/policies/privacy) for the most accurate reproduction.*
 
 # Earthlink Policies & Agreements - Privacy Policy
 
-Your privacy is very important to us. We want to make your experience on the Internet as enjoyable and rewarding as possible, and we want you to use the Internet's vast array of information, tools, and opportunities with complete confidence.
+**1\. What does the EarthLink Consumer Privacy Policy cover?**
 
-EarthLink has created this Privacy Policy to demonstrate our firm commitment to privacy and security. This Privacy Policy describes how EarthLink collects information from users of EarthLink services (the "Services"), how we use the information we collect and the choices you have concerning the collection and use of such information. Please read this Privacy Policy carefully.
+This Privacy Policy covers (i) the use and retention of personally identifiable information ("PII") that EarthLink, LLC ("EarthLink") collects from our customers and visitors to the webpages on earthlink.net under the Residential tab, peoplepc.com and all of their subdomains (collectively, the "EarthLink Consumer Website") and (ii) your options with regard to that collection and use. The EarthLink Consumer Website and the services and products offered on or through the EarthLink Consumer Website are collectively referred to in this Privacy Policy as the "EarthLink Consumer Services".
 
-**Collection and Use of Information**
+EarthLink is committed to protecting the privacy and security of your PII and will not share, sell or license your PII except in very limited circumstances as described below. All PII collected by EarthLink including, but not limited to, via the Internet, via any EarthLink Consumer mobile application, via mail or over the telephone is protected by the terms of this Privacy Policy.
 
-Members are asked to provide certain information when they sign up for our Services such as name, address, telephone number, billing information (such as a credit card number), and the type of personal computer being used to access the Services. The personal information collected from Members during the registration process is used to manage each Member's account (such as billing and collections).
+**2\. What is PII?**
 
-In order to better understand its Members, EarthLink collects consumer data such as ZIP code, demographics and other publicly available information from third-parties. EarthLink uses this data to provide product and service offers. We use data in aggregate to develop products and offers to better serve its Members.
+PII is any information that can be used to personally identify you, including, but not limited to:
 
-EarthLink collects information from Visitors and Members who use the various parts of our Services. We use this information primarily to provide a customized experience as you use our Services. EarthLink collects consumer information about its Members through surveys or preference pages. You may request that EarthLink not collect consumer data by visiting our opt-out website at <https://myaccount.earthlink.net/cam/contactinfo.jsp>.
+  * Information you provide in connection with your purchase of or subscription to EarthLink Consumer Services including your name, mailing and/or shipping address, telephone number, email address, and credit card number.
+  * Transaction and activity information about your EarthLink Consumer Services; your customer account and billing records; your interactions with our customer service and/or technical support representatives over the telephone, email or through online chat; and your contest entries.
+  * Information obtained by EarthLink through its Refer a Friend Program.
 
-EarthLink may share personal information with select affiliates in order to provide EarthLink services to our Members. EarthLink does not share identifying information (like Name and address) with affiliates for their use in delivering product and service offers to Members. Affiliates will not be allowed to use any information provided in serving our customers to be sold, rented, or given to any other company. Affiliates are not allowed to use EarthLink data for any other purpose other than EarthLink approved programs designed to better serve Members.
 
-In instances where EarthLink and an affiliate jointly promote the Services, EarthLink may provide the affiliate certain personal information, as a result of the joint promotion. In this instance, the information may not be used by the affiliate for any other purpose. EarthLink may also generate aggregate profiles from information provided during registration (such as the total number, but not the names, of Members). We may use this aggregated and non-identifying information to sell advertisements that appear on the Services.
 
-We use registration information to contact you in a variety of ways. We may send you offers through email, phone or regular mail of EarthLink products and services or offers on behalf of selected affiliates. If you order products directly from EarthLink, we will use your information to continue to provide you products that you are interested in. You may exercise your options to not receive any marketing from EarthLink by visiting our opt-out website at <https://myaccount.earthlink.net/cam/contactinfo.jsp>. Customers will still receive administrative emails from EarthLink.
+**3\. How EarthLink uses your PII**
 
-**EarthLink Affiliates and Sponsors**
+EarthLink uses your PII to (i) provide your EarthLink Consumer Services to you, (ii) establish and manage your customer account and billing records, (iii) contact you about your customer account including your EarthLink Consumer Services and other products and services that we offer or that we offer in conjunction with an affiliate company, (iv) provide you with additional information that may be of interest to you such as news about EarthLink, (v) resolve billing problems, (vi) provide customized technical support, (vii) monitor your EarthLink Consumer Services, (viii) monitor and protect our network, (ix) protect against fraudulent, abusive, unauthorized or unlawful use of the EarthLink Consumer Services, (x) provide customized personal start pages, and (xi) administer surveys and contests.
 
-Some EarthLink products and services are offered to Members in conjunction with a third-party vendor. For example, we outsource the provision of stock quotes and operation of your stock portfolio (accessible through your Personal Start Page) to a third-party vendor. To provide these products and services, the vendor may need to collect and maintain your personal information. Additionally, many EarthLink Members have co-branded Personal Start Pages that are cosponsored by non-affiliated partners. EarthLink may share non-identifying and aggregate consumer information with such affiliates in order to more effectively market our co-branded products or services offered to our customers.
+If you apply online for a position at EarthLink, we will only use the information you provide for job recruitment and other customary human resources purposes.
 
-**Online Shopping**
+EarthLink may supplement your PII with information received from publicly available sources, such as demographic information, to help us develop and improve the EarthLink Consumer Services and to send marketing offers to you that may be of interest to you.
 
-At some websites, you can purchase products and services or register to receive materials, such as a catalog or new product and service updates. In many cases, you may be asked to provide contact information, such as your name, address, email address, phone number, and credit/debit card information. If you complete an order for someone else, such as an online gift order sent directly to a recipient, you may be asked to provide information about the recipient, such as the recipient's name, address, and phone number. EarthLink has no control over third-party websites and their use of any personal information you provide when placing such an order. Please exercise care when doing so.
+**4\. How EarthLink protects the Security of PII**
 
-**Online Advertisements**
+EarthLink has implemented an information security program that contains administrative, technical and physical controls that are designed to safeguard your PII and non-personally identifiable information. We use industry standards to secure PII when it is being collected and transmitted over the Internet as well as firewalls, security monitoring, encryption and intrusion detection software. Although we cannot guarantee that our information security program will prevent every unauthorized attempt to access, use or disclose your PII, we maintain security and incident response practices to handle incidents involving unauthorized access, use or disclosure of your PII.
 
-EarthLink may share aggregated and non-identifying information about our Visitors and Members collected through the registration process as well as through online surveys and promotions with select advertisers. In some instances, we use this information to deliver tailored advertisements. Based upon the information we have collected, we may then display advertisements to specific audiences. EarthLink does not share personal information about its Members with these advertisers.
+Under our practices and policies, access to PII is authorized only for EarthLink employees and contractors who have a business need for such access, and records are retained in accordance with applicable laws and then securely destroyed. EarthLink employees and contractors are trained on the importance of protecting privacy and on the proper access to, use of and disclosure of PII.
 
-We use DoubleClick and other third-party advertising companies to serve ads when you visit our websites. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here [www.networkadvertising.org](http://www.networkadvertising.org/)
+As an extra precaution, you should not share your password with anyone. EarthLink will only ask you for your password as part of a customer service or technical support call or online chat, and only in cases where you request customer support to access your account information or you request customer service or technical support in connection with the EarthLink Consumer Services.
 
-**Voluntary Surveys**
+**5\. Sharing of PII in Limited Circumstances**
 
-We may periodically conduct both business and individual surveys. We encourage Members to participate in these voluntary surveys because they provide us with important information that helps us to improve the types of services we offer and how we provide them to you. Your personal information and responses will remain confidential, even if the survey is conducted by a third-party.
+EarthLink will not share, sell, or license your PII to third parties for their marketing purposes without your consent. EarthLink may disclose your PII in response to:
 
-We take the information we receive from individuals responding to our surveys and combine (or aggregate) it with the responses of other Members to create broader, generic responses to the survey questions (such as gender, age, residence, hobbies, education, employment, industry sector, or other demographic information). We then use the aggregated information to improve the quality of our services to you, and to develop new services and products. This aggregated, non-personally identifying information may be shared with third-party affiliates.
+  * Subpoenas, court orders, search warrants or other valid legal process, or as otherwise authorized by law,
+  * Circumstances where EarthLink has a good faith belief that a crime has been committed by an EarthLink customer or visitor,
+  * An emergency that poses a safety threat to you or another person, or
+  * Possible violations of the EarthLink Acceptable Use Policy or other EarthLink policies, available at [earthlink.net/about/policies/](http://www.earthlink.net/about/policies/).
 
-**Special Cases**
 
-It is EarthLink's policy not to use or share the personal information in ways unrelated to the ones described above without also providing an opportunity to opt out or otherwise prohibit such unrelated uses. However, EarthLink may disclose personal information or information regarding use of the Services if, for any reason, in our sole discretion, we believe that it is reasonable to do so, including: to satisfy laws, regulations or other legal requests for such information; to disclose information that is necessary to identify, contact or bring legal action against someone who may be violating our Acceptable Use Policy or other policies; to operate the Services properly; or to protect EarthLink, our Services, our employees or our Members.
 
-**"Cookies" and How EarthLink Uses Them**
+When EarthLink uses third parties to perform business functions on our behalf, we require them through contracts to treat your PII confidentially and to only use your PII for the express purpose of providing the specific business functions for EarthLink. Examples of such third parties include, but are not limited to: (i) merchant banks for credit card authorizations, (ii) collection agencies, (iii) customer service companies, and (iv) market research companies.
 
-A "cookie" is a small data file that can be placed on your hard drive when you visit certain websites. EarthLink may use cookies to collect, store, and sometimes track information for statistical purposes to operate and improve the products and services we provide and to manage our network and property. If you have created your own Personal Start Page, we will use a cookie to save your settings and to provide customizable and personalized services. Additionally, be aware that if you visit non-EarthLink websites where you are prompted to log in or that are customizable, you may be required to accept cookies.
+Some EarthLink Consumer Services are offered to EarthLink customers in conjunction with a third-party vendor. To provide these services, the vendor may need to collect and retain your PII but the vendor will be required by contract with EarthLink to maintain the confidentiality of your PII.
 
-Advertisers and partners may also use their own cookies. We do not control use of these cookies and expressly disclaim responsibility for information collected through them.
+If ownership of EarthLink changes, including as a result of a merger, acquisition, or the sale of its assets, your PII may be transferred or assigned as part of the transferred assets. If such a transfer results in a material change in the use of your PII, we will notify you about the material change.
 
-**EarthLink's Commitment to Children's Privacy**
+**6\. Use of Cookies and Other Data Collection Technologies**
 
-Protecting children's privacy is especially important to us. It is our policy to comply with the Children's Online Privacy Protection Act of 1998 and other applicable laws. You must be 18 to use the Services. EarthLink does not attempt to ask or collect information from any person under the age of 18.
+EarthLink uses cookies and anonymous identifiers to collect certain non-personally identifiable information ("Non-PII") about you when you use the EarthLink Consumer Services. A cookie is a small text file that websites send to your computer, tablet, mobile device or other Internet-connected device to uniquely identify your browser or to store information or settings in your browser. An anonymous identifier is a random string of characters that is used for the same purposes as a cookie on platforms, including certain mobile devices, where cookie technology is not available.
 
-EarthLink may have products and web pages designed especially for younger users under the direct supervision of an adult Member. While we make every effort to ensure that these Services are fun and age-appropriate for a younger audience, we believe that there is no substitute for proper parental supervision. For further information about tips, tools, age-appropriate or kid-friendly websites and how to report online trouble, please visit [www.getnetwise.org](http://www.getnetwise.org/).
+This Non-PII does not identify you personally, but includes technical information such as your Internet Protocol or IP address, operating system, and browsing and linking activity while using the EarthLink Consumer Services. EarthLink uses cookies to authenticate you and save your settings on your personal start page so that we can provide you with customized and personalized content and services. EarthLink uses anonymous identifiers to monitor browsing and linking activity throughout the EarthLink Consumer Services.
 
-EarthLink recommends that children ask a parent for permission before sending any personal information anywhere using the Internet.
+EarthLink also uses advertising networks that customize and serve third party advertisements or other content on the EarthLink Consumer Website. The servers of these advertising networks place and access cookies and similar technologies in browsers to collect Non-PII information about your visits to the EarthLink Consumer Website. These kinds of tracking and analytics are done in the aggregate and are anonymous. 
 
-**Public Forums**
+**7\. How to access and update your Registration and Billing Information**
 
-Any information that you disclose in public areas of our websites or the Internet may become public information. You should exercise caution when deciding to disclose personal information in these areas.
+EarthLink provides you with access to your registration and billing information and the ability to update this information at [myaccount.earthlink.net](http://myaccount.earthlink.net/) for EarthLink subscribers and [myaccount.peoplepc.com](http://myaccount.peoplepc.com/) for PeoplePC subscribers.
 
-**EarthLink's Commitment to Data Security**
+**8\. Your Opt In and Opt Out Choices**
 
-EarthLink has security measures in place to protect the loss, misuse, and alteration of the information under our control. While we make every effort to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party "hackers" from illegally obtaining this information. We will never sell your information to a third party.
+If you are an EarthLink subscriber, you may exercise your opt out option not to receive email marketing communications from EarthLink by (i) clicking the links under communications preferences on the bottom of these email marketing communications or (ii) visiting [myaccount.earthlink.net](http://myaccount.earthlink.net/). If you choose to opt out of email marketing communications, you will still receive EarthLink's eLink newsletter. You may opt out of receiving the eLink newsletter by clicking on the link at the bottom of the eLink newsletter or by going directly to [myaccount.earthlink.net](http://myaccount.earthlink.net/).
 
-**How to Access or Modify Your Information**
+If you are a PeoplePC subscriber, you may exercise your opt out option not to receive any of our email marketing communications or PeoplePC Connections by (i) clicking the links on the bottom of these email communications or PeoplePC Connections or (ii) visiting [myaccount.peoplepc.com](http://myaccount.peoplepc.com/).
 
-EarthLink offers Members the opportunity to access or modify information provided during registration. To access or modify such information, visit [myaccount.earthlink.net](http://myaccount.earthlink.net/).
+You also may contact EarthLink Customer Service via telephone or live chat regarding your opt in or opt out choices. Your opt out choices will remain in effect until you change them. You cannot opt out of receiving administrative communications from EarthLink because they communicate information that affects your customer account.
 
-**Questions About EarthLink's Privacy Policy**
+All browsers are different, so visit the "help" section of your browser to learn about cookie preferences and other privacy settings that may be available. For example, you can manage cookie preferences set by EarthLink by adjusting the settings in your browser not to accept cookies. If your browser is set to reject cookies, EarthLink will not be able to provide you with personalized features on the EarthLink Consumer Website. The EarthLink Consumer Website does not honor do not track requests from browsers. If you would like more information about opting out of Internet-based advertising in general, you can go to [www.networkadvertising.org/faq/](http://www.networkadvertising.org/faq/).
 
-Questions about this Privacy Policy or the practices described herein should be directed to our FAQ page that is located at [www.earthlink.net/optout](http://www.earthlink.net/optout).
+**9\. What is Outside the Scope of this Privacy Policy**
 
-If you have any additional questions about this Privacy Policy or the practices described herein, you may contact:
+This Privacy Policy does not apply to information about you collected by third party websites that you may link to from the EarthLink Consumer Website or information collected by advertising networks on third party websites. Any information you provide to third party websites is subject to the third party websites' privacy policies and terms of service. We encourage you to read the third party websites' privacy policies and terms of service before using these third party websites. EarthLink is not responsible for the content, services, products or applications provided by or through third party websites.
 
-Customer Service  
-EarthLink, Inc.  
-1375 Peachtree Street, N.W.  
-Level A  
-Atlanta, Georgia 30309
+This Privacy Policy does not apply to the PII of EarthLink Business' customers. The EarthLink Business privacy policy is located at [earthlinkbusiness.com/about-us/legal/privacy-policy.xea](http://www.earthlinkbusiness.com/about-us/legal/privacy-policy.xea).
 
-**Revisions to This Policy**
+If you post any comments to any of the public areas of the EarthLink Consumer Website such as blogs, forums or "Ask Email Guy," EarthLink's Facebook page, or EarthLink's Twitter account, your comments can be read or used by others and any PII that you post in such public areas could be used by others to contact you or for other purposes. You should exercise caution when deciding to disclose any information in these public areas. EarthLink is not responsible for any PII you choose to submit through the public areas of the EarthLink Consumer Website, third party websites or social networking services.
 
-EarthLink reserves the right to revise, amend, or modify this policy and our other policies and agreements at any time and in any manner. Any revision, amendment, or modification will be posted on our website: www.earthlink.net.
+**10\. Protection of Children**
 
-Version 2.0  
-Effective 10/31/2003
+Protecting children's privacy is especially important to us. You must be 18 years of age or older to order and receive the EarthLink Consumer Services. EarthLink does not knowingly ask for or collect PII from any person under the age of 18.
+
+EarthLink recommends that children ask a parent for permission before sending any PII anywhere using the Internet. For further information about tips, techniques and resources about Internet safety, please visit [www.GetNetWise.org](http://www.getnetwise.org/) or [www.StaySafeOnline.org](http://www.staysafeonline.org/).
+
+**11\. California Privacy Rights**
+
+California Civil Code Section 1798.83, also known as S.B. 27, allows our California customers to request certain information regarding our disclosures in the prior calendar year, if any, of PII to third parties for their own direct marketing purposes. If you are a California resident and want to make such a request, please contact us at [earthlinkconsumerprivacy@corp.earthlink.com](mailto:earthlinkconsumerprivacy@corp.earthlink.com) or EarthLink, LLC, Legal Department/Consumer Privacy, 1375 Peachtree Street, Atlanta, GA 30309 and include your name and address. Please note that under California law, businesses are only required to respond to a customer request for this information once during any calendar year.
+
+**12\. International Visitors**
+
+Your PII will be processed and maintained by us in compliance with this Privacy Policy and United States data protection and privacy laws and regulations. If you create an account to use an EarthLink Consumer Service and/or are using the EarthLink Consumer Website as a visitor from outside the United States, you agree to the terms of this Privacy Policy and you consent to the transfer and processing of all your PII in accordance with this Privacy Policy and United States data protection and privacy laws, which many not offer an equivalent level of protection to the laws in the European Union or certain other countries.
+
+**13\. Changes to this Privacy Policy**
+
+From time to time, EarthLink may update this Privacy Policy to reflect new or different privacy practices. You will be able to see that changes have been made by checking the effective date and endnotes at the end of this Privacy Policy that explain what has been revised.
+
+In addition, if any of the revisions to this Privacy Policy will materially affect the way we use, disclose or retain previously-collected PII, we will notify you about the change by sending an email notice to the primary email address associated with your customer account. 
+
+**14\. How to Contact Us**
+
+Please contact us if you have any questions about this Privacy Policy or its implementation, at [earthlinkconsumerprivacy@corp.earthlink.com](mailto:earthlinkconsumerprivacy@corp.earthlink.com) or EarthLink, LLC, Legal Department/Consumer Privacy, 1375 Peachtree Street, Atlanta, GA 30309.
+
+Effective Date: February 14, 2014
+
+* * *
+
+This EarthLink Consumer Privacy Policy dated February 14, 2014 updates the previous version dated December 28, 2012 to clarify the use of cookies and to comply with California law but there are no material changes to EarthLink's privacy policies or procedures from the December 28, 2012 version.
