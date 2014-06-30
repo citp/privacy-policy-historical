@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the insight.ly privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222133745id_/http%3A//www.insightly.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insight.ly privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630055511id_/https%3A//insightly.com/Privacy) for the most accurate reproduction.*
 
 # Insightly Privacy Policy - CRM and Project Management software for small business
 
-[](https://privacy.truste.com/privacy-seal/Insightly-Inc-/validation?rid=ac8c278e-d101-4e6d-b63d-96222cd9345a "Validate TRUSTe privacy certification")
+[](https://privacy.truste.com/privacy-seal/Insightly-Inc-/validation?rid=5a145142-f2a0-4629-9238-631f09f32d9a "Validate TRUSTe privacy certification")
 
-**Effective Date: November 1, 2012**
+**Effective Date: January 1, 2014**
 
 This privacy policy applies to www.insightly.com and the Insightly platform on www.insight.ly, owned and operated by Insightly Inc. (Insightly). This privacy policy describes how Insightly collects and uses the personal information you provide us and it also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
@@ -12,7 +12,7 @@ When registering for Insightly you can be certain that we have implemented compr
 
 Insightly complies with the U.S.–E.U. Safe Harbor framework and the U.S.-Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Insightly has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Insightly’s certification, please visit <http://www.export.gov/safeharbor/>
 
-Insightly has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements and TRUSTed Cloud Program Requirements including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through this web site www.insightly.com and the platform on www.insight.ly. The TRUSTe program does not cover information that may be collected through our mobile applications. If you have questions or complaints regarding our privacy policy or practices, please contact us at contact@insight.ly. If you are not satisfied with our response you can contact TRUSTe [here](mailto:feedback@truste.com)
+Insightly has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements) and [TRUSTed Cloud Program Requirements](http://www.truste.com/privacy-program-requirements/TRUSTed-cloud) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through this web site www.insightly.com and the platform on www.insight.ly. The TRUSTe program does not cover information that may be collected through our mobile applications. If you have questions or complaints regarding our privacy policy or practices, please contact us at contact@insight.ly. If you are not satisfied with our response you can contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request)
 
 ## Information You Provide
 
@@ -37,6 +37,8 @@ Insightly collects information under the direction of its clients and has no dir
 ## Cookies
 
 When visiting the Site or using the Service, we use session "cookies" – a piece of information stored on your computer – to allow the Site or Service to uniquely identify your browser while you are logged in and to enable Insightly to process your online transactions. Session cookies also help us confirm your identity and are required in order to use the Service. Insightly uses persistent cookies that only Insightly can read and use, to identify a user as a Insightly customer and make it easier for you to log in to the Service. Users who disable their web browsers’ ability to accept cookies will be able to browse our Site, but will not be able to access or take advantage of the Service. The use of cookies by our partners and service providers is not covered by our privacy policy. We do not have access or control over these cookies. Our partners and service providers may use session ID and persistent cookies to make it easier for you to navigate our site.
+
+The use of cookies by our partners and service providers is not covered by our privacy policy. We do not have access or control over these cookies. Our partners and service providers may use session ID and persistent cookies to make it easier for you to navigate our site.
 
 ## Analytics / Log Files
 
