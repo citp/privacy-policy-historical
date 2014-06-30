@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the namebright.com privacy policy that was archived on 2014-03-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140331022934id_/https%3A//www.namebright.com/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the namebright.com privacy policy that was archived on 2014-07-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140701013059id_/https%3A//www.namebright.com/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
@@ -7,10 +7,6 @@
 function getJsonJw() { return [["Privacy","8","","\/Privacy","",""]]; };
 
 var timeZoneString = '(UTC-07:00) Mountain Time (US & Canada)';
-
-</script>
-
-<script type="text/javascript">
     var aid = 0;
 </script>
 
@@ -22,6 +18,7 @@ var timeZoneString = '(UTC-07:00) Mountain Time (US & Canada)';
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.min.js"></script>
 <script type="text/javascript" src="https://www.namebrightstatic.com/cart/Scripts/ShoppingCart.js"></script>
 <script type="text/javascript" src="https://www.namebrightstatic.com/js/JSON_countries.js"></script>
+<script type="text/javascript" src="https://www.namebrightstatic.com/js/fingerprint.js"></script>
 <link type="text/css" rel="stylesheet" href="https://www.namebrightstatic.com/css/common_merged.css">
 <link type="text/css" rel="stylesheet" href="https://www.namebrightstatic.com/css/pages3.css">
 <link type="text/css" rel="stylesheet" href="https://www.namebrightstatic.com/css/skins.css">
@@ -31,6 +28,11 @@ var timeZoneString = '(UTC-07:00) Mountain Time (US & Canada)';
 <link type="text/css" rel="stylesheet" href="https://www.namebrightstatic.com/css/additional.css">
 <script type="text/javascript" language="javascript" src="https://www.namebrightstatic.com/js/jquery.watermark.min.js"></script>
 <script type="text/javascript" src="https://www.namebrightstatic.com/js/namebright.js"></script>
+
+    <script type="text/javascript">
+        var bruid = null;
+        try { bruid = new Fingerprint({canvas: true, screen_resolution: true}).get(); } catch(e) {}
+    </script>
 <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 
 <!--[if lte IE 7]><body class="ie7 noscript bodyskin_default"><![endif]-->
@@ -39,6 +41,9 @@ var timeZoneString = '(UTC-07:00) Mountain Time (US & Canada)';
 
 
 <div class="skin_default"><div class="skin_img"><div class="skin_bot">
+
+
+
 
 
 
@@ -69,7 +74,8 @@ var timeZoneString = '(UTC-07:00) Mountain Time (US & Canada)';
                             function submitLinkedAccountForm() {
                                 $("#hfOriginalAccountID").val($(lnkLinkedUserName).attr("data-aid"));
                                 formLnkAcct.submit();
-                            }                        
+                            }         
+                            
                             </script>
                     </div>
 					
@@ -78,9 +84,9 @@ var timeZoneString = '(UTC-07:00) Mountain Time (US & Canada)';
 						<form class="f_login" action="https://www.namebright.com/Login.aspx" method="post" autocomplete="off">
                             
                             <span><input type="text" id="master_username" name="username" class="inputTextOverlay" data-value="Username"></span>
-                            <input type="password" id="master_password" name="6Y3FE8BYJAF2ZQSFHBM5_password" class="inputTextOverlay" data-value="Password" autocomplete="off">
+                            <input type="password" id="master_password" name="TZ2OI0M8TI4S61C9M8SM_password" class="inputTextOverlay" data-value="Password" autocomplete="off">
                             
-
+                            <input type="hidden" id="bruidTop" name="bruid" value=""><script type="text/javascript">document.getElementById("bruidTop").value=bruid;</script>
 							<input name="ctl00$dest" type="hidden" id="dest">
                             <span style="position:relative;top:1px;">
                                 <input id="master_login_submit" type="submit" value="" class="animateButton">
@@ -353,6 +359,8 @@ var timeZoneString = '(UTC-07:00) Mountain Time (US & Canada)';
 				<ul>
 					<li class="veri"><a href="https://www.namebright.com/Trust"><img src="https://www.namebrightstatic.com/images/logoFooter_geotrust.gif" alt="" width="118" height="26"></a></li>
 					
+                    <li class="pbv_com"><a href="https://www.verisigninc.com" target="_blank"><img src="https://www.namebrightstatic.com/images/pbv_com.png" alt="" width="109" height="36"></a></li>
+
                     
 					<li class="tru"><a href="/Features"><img src="https://www.namebrightstatic.com/images/logoFooter_nba.gif" alt="" width="138" height="36"></a></li>
 					
