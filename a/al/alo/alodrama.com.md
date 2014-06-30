@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alodrama.com privacy policy that was archived on 2014-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140302135012id_/http%3A//www.alodrama.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alodrama.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701014534id_/http%3A//www.alodrama.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Alodrama.Com watch drama
 
