@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intouch.org privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103160117id_/http%3A//www.intouch.org/donate/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intouch.org privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630071035id_/http%3A//intouch.org/donate/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -58,7 +58,7 @@ ITM uses Secure Sockets Layer [SSL] technology to securely encrypt data sent dur
 
 ## CHILDREN’S POLICY
 
-In Touch Ministries will not knowingly collect or preserve data from children under 16 years of age. We recommend that you become involved with your child’s Internet activities and their access to our site, so that you can help protect their privacy. We recommend the article “Protecting Kids’ Privacy” at the Federal Trade Commission website and the [ProtectKids.com](http://www.proteckids.com/) website as resources you can use to help protect your children.
+In Touch Ministries will not knowingly collect or preserve data from children under 16 years of age. We recommend that you become involved with your child’s Internet activities and their access to our site, so that you can help protect their privacy. We recommend the article “Protecting Kids’ Privacy” at the Federal Trade Commission website and the [ProtectKids.com](http://www.protectkids.com/) website as resources you can use to help protect your children.
 
 ## OBTAINING, VIEWING AND CHANGING YOUR INFORMATION
 
