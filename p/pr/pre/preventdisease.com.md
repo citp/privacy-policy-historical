@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the preventdisease.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208065529id_/http%3A//preventdisease.com/home/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the preventdisease.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630070624id_/http%3A//preventdisease.com/home/privacy.shtml) for the most accurate reproduction.*
 
 # PreventDisease.com - Privacy Statement
 
@@ -96,4 +96,4 @@ Please see our [Online Service Agreement](http://www.preventdisease.com/home/ter
 
 [](http://www.addtoany.com/share_save)
 
-...............................................................................................................[](http://pinterest.com/pin/create/button/?url=http://preventdisease.com&media=http://preventdisease.com/images/pinit_preview_none.png&description=PreventDisease.com)
+...............................................................................................................[](https://www.pinterest.com/pin/create/button/?url=http://preventdisease.com&media=http://farm8.staticflickr.com/7027/6851755809_df5b2051c9_z.jpg&description=Next%20stop:%20Pinterest)
