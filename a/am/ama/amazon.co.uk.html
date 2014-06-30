@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the amazon.co.uk privacy policy that was archived on 2013-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131231235113id_/http%3A//www.amazon.co.uk/gp/help/customer/display.html%3Fie%3DUTF8%26nodeId%3D502584) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the amazon.co.uk privacy policy that was archived on 2014-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140630184156id_/http%3A//www.amazon.co.uk/gp/help/customer/display.html%3Fie%3DUTF8%26nodeId%3D502584) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
  
@@ -238,9 +238,9 @@ INPUT { font-family: fixed; }
 
 
 
-<link type="text/css" href="http://z-ecx.images-amazon.com/images/G/01/browser-scripts/uk-site-wide-css-beacon/site-wide-9076086950._V1_.css" rel="stylesheet">
+<link type="text/css" href="http://z-ecx.images-amazon.com/images/G/01/browser-scripts/navbarCSS-global/navbarCSS-global-min-2007988434._V1_.css" rel="stylesheet">
 <link type="text/css" href="http://z-ecx.images-amazon.com/images/G/01/browser-scripts/wcs-css-buttons/wcs-css-buttons-2172471701._V1_.css" rel="stylesheet">
-<link type="text/css" href="http://z-ecx.images-amazon.com/images/G/01/browser-scripts/wcs-help-base/wcs-help-base-1653315911._V1_.css" rel="stylesheet">
+<link type="text/css" href="http://z-ecx.images-amazon.com/images/G/01/browser-scripts/wcs-help-base/wcs-help-base-1815045990._V1_.css" rel="stylesheet">
 
 
 <script type="text/javascript">
@@ -265,6 +265,14 @@ var amznJQ,jQueryPatchIPadOffset=false;
 
 
 </script>
+
+
+<!-- disabled nav-config-asset-injection GB::desktop::standard::31406:C::auiDebug=0::isSecure=0::jsOnEvent= navc-SnZdPXrNxenLzVcQ55JMSHfA23t6yclmWw+VyJo3L1LkqivHtItPWuFkQMjy1EKAe9XX1/76SLc= rid-1QXBWT91JQSFFRD4XAZH (Mon Jun 30 19:14:44 2014) **CACHED-BY-NCCC** -->
+
+
+
+
+
 
 
 
@@ -301,206 +309,254 @@ Amazon.co.uk Help: Privacy Notice
 
 
 
+
+
+
 <script language="JavaScript" type="text/javascript">
    <!--
 var csHelpOmnitureAccountName = 'acsuk-prod';  
 
-amznJQ.onReady('wcs-help-omniture', function () {  
-   s.pageName = '502584';
-   s.channel = 'Retail';
-   s.eVar46 = s.channel;
-   s.fpCookieDomainPeriods = '3';
+if (typeof csHelpOmniture === 'undefined') { csHelpOmniture = {}; }
+
+csHelpOmniture.event = function(omnitureObjJson) {
+    s.pageName = '502584';
+    s.channel = 'Retail';
+    s.eVar46 = s.channel;
+    s.fpCookieDomainPeriods = '3';
+
    
 
+    s.prop14 = 'amazon.co.uk privacy notice';
+    // The first H1 entry takes precedence over the encoded title value, if present. 
+    var firstH1 = '';
+    // Migrate to Help 4.0, need to compatible with Help 3.0, will delete else branch once Help 4.0 fully launched
+    if (jQuery('.cs-help-content h1:first').length) {
+        if (jQuery('.cs-help-content h1:first img').length) {
+            if ( jQuery('.cs-help-content h1:first img').attr("alt") !== undefined ) {
+                firstH1 = jQuery('.cs-help-content h1:first img').attr("alt").replace(/["'`\r\n]/g, '');
+            }
+        } else {
+            firstH1 = jQuery('.cs-help-content h1:first').text().replace(/["'`\r\n]/g, '');
+        }
+    } else {
+        firstH1 = jQuery('.center-col h1:first').text();
+    }
 
+    if ( firstH1 ) { s.prop14 = firstH1; }   
 
-
-
-
-   s.prop14 = 'privacy notice (september 25th 2012)';
-   // The first H1 entry takes precedence over the encoded title value, if present. 
-   var firstH1;
-   // Migrate to Help 4.0, need to compatible with Help 3.0, will delete else branch once Help 4.0 fully launched
-   if (jQuery('.cs-help-content h1:first').length) {
-     if (jQuery('.cs-help-content h1:first img').length) {
-       firstH1 = jQuery('.cs-help-content h1:first img').attr("alt").replace(/["'`\r\n]/g, '');
-     } else {
-       firstH1 = jQuery('.cs-help-content h1:first').text().replace(/["'`\r\n]/g, '');
-     }
-   } else {
-     firstH1 = jQuery('.center-col h1:first').text();
-   }
-
-   if ( firstH1 ) { s.prop14 = firstH1; }   
-
-   s.prop15 = 'CU_SIC_CONDENSED_DIGITAL_24269:'; // Store any useful weblab settings here, uncomment when we need it
-   // Append Help 3.0 / 4.0 flag
-   if (jQuery('.cs-help-content').length) {
-      s.prop15 += '|HELP_VERSION:4.0';
-   } else {
-      s.prop15 += '|HELP_VERSION:3.0';
-   }
-   s.list1 = s.prop15;
+    s.prop15 = 'CU_KINDLE_VIDEOS_DYK_31599:|HELP_FACETED_NAVIGATION_29679:|REDESIGN_HELP_GATEWAY_32610:'; // Store any useful weblab settings here, uncomment when we need it
+    // Append Help 3.0 / 4.0 flag
+    if (jQuery('.cs-help-content').length) {
+        s.prop15 += '|HELP_VERSION:4.0';
+    } else {
+        s.prop15 += '|HELP_VERSION:3.0';
+    }
+    s.list1 = s.prop15;
      
-   s.prop37 = '0'; // encrypted customer id
-   s.eVar37 = s.prop37;
+    s.prop37 = '0'; // encrypted customer id
+    s.eVar37 = s.prop37;
    
-   s.prop38 = '000-0000000-0000000'; // session id
-   s.eVar38 = s.prop38;
+    s.prop38 = '000-0000000-0000000'; // session id
+    s.eVar38 = s.prop38;
 
 
-   s.prop41 = 'en_GB';  // TO-DO: find correct variable name. 
-   s.eVar41 = s.prop41;  
-  
-   s.eVar44 = s.prop14;
+    s.prop41 = 'en_GB';  // TO-DO: find correct variable name. 
+    s.eVar41 = s.prop41;  
+    s.eVar44 = s.prop14;
+   
 
+    var mobileSubTopicNodes;
+    if (jQuery('div.a-touch .cs-help-content .a-box-group a').length) {
+        mobileSubTopicNodes = jQuery('div.a-touch .cs-help-content .a-box-group a');
+        mobileSubTopicNodes.click(
+        function(e) {
+            var s = s_gi('acsuk-prod');
+            s.linkTrackVars = 'prop44';
 
-   var mobileSubTopicNodes;
-   if (jQuery('div.a-touch .cs-help-content .a-box-group a').length) {
-     mobileSubTopicNodes = jQuery('div.a-touch .cs-help-content .a-box-group a');
-     mobileSubTopicNodes.click(
-       function(e) {
-           var s = s_gi('acsuk-prod');
-           s.linkTrackVars='prop44';
+            var link = jQuery(this);
+            var position = mobileSubTopicNodes.index(jQuery(this)) + 1;
+            s.prop44 = link.text() + ":" + position;
 
-           var link = jQuery(this);
-           var position = mobileSubTopicNodes.index(jQuery(this)) + 1;
-           s.prop44 = link.text() + ":" + position;
+            s.tl(this,'o');
+        }
+        );
+    }
+    var mobileTopicH2Nodes;
+    if (jQuery('a.a-expander-header').length) {
+        mobileTopicH2Nodes = jQuery('a.a-expander-header');
+        mobileTopicH2Nodes.click(
+        function(e) {
+            if ( ! mobileTopicH2Nodes.children('i.a-icon-section-collapse').length ) return;
+            var s = s_gi('acsuk-prod');
+            s.linkTrackVars = 'prop45,eVar45';
+            s.linkTrackEvents =' event1,event2,event3,event4,event5,event6,event7,event21';
+            s.events = 'event21'; 
 
-           s.tl(this,'o');
-       }
-     );
-   }
+            var link = jQuery(this);
+            s.prop45 = link.text();
+            s.eVar45 = link.text();
 
-   var mobileTopicH2Nodes;
-   if (jQuery('a.a-expander-header').length) {
-     mobileTopicH2Nodes = jQuery('a.a-expander-header');
-     mobileTopicH2Nodes.click(
-       function(e) {
-           if ( ! mobileTopicH2Nodes.children('i.a-icon-section-collapse').length ) return;
-           var s = s_gi('acsuk-prod');
-           s.linkTrackVars='prop45,eVar45';
-           s.linkTrackEvents='event1,event2,event3,event4,event5,event6,event7,event21';
-           s.events = 'event21'; 
-
-           var link = jQuery(this);
-           s.prop45 = link.text();
-           s.eVar45 = link.text();
-
-           s.tl(this,'o', link.text());
-       }
-
-     );
-   }
-   var firstThreeSearchResultNodes;
-   if (jQuery('.results-list').length) {
-     firstThreeSearchResultNodes = jQuery('.results-list').children('li:lt(3)').find('a');
-   } else {
-     firstThreeSearchResultNodes = jQuery('.cs-help-search-results').children('div.cs-help-search-result-row:lt(3)').children('h2').find('a');
-   }
-   firstThreeSearchResultNodes.click(
-       function(e) {
-           var s = s_gi('acsuk-prod');
-           s.linkTrackVars='prop10,eVar10';
-           s.linkTrackEvents='event1,event2,event3,event4,event5,event6,event7,event20,event22';
-           s.events = 'event20,event22';
+            s.tl(this,'o', link.text());
+        }
+        );
+    }
+    var firstThreeSearchResultNodes;
+    if (jQuery('.results-list').length) {
+        firstThreeSearchResultNodes = jQuery('.results-list').children('li:lt(3)').find('a');
+    } else {
+        firstThreeSearchResultNodes = jQuery('.cs-help-search-results').children('div.cs-help-search-result-row:lt(3)').children('h2').find('a');
+    }
+    firstThreeSearchResultNodes.click(
+        function(e) {
+            var s = s_gi('acsuk-prod');
+            s.linkTrackVars = 'prop10,eVar10';
+            s.linkTrackEvents = (omnitureObjJson['page'] >= 1) ? 'event1,event2,event3,event4,event5,event6,event7,event22' : 'event1,event2,event3,event4,event5,event6,event7,event20,event22';
+            s.events = (omnitureObjJson['page'] >= 1) ? 'event22' : 'event20,event22';
            
-           var link = jQuery(this);           
+            var link = jQuery(this);           
            
-           s.prop10 = '';
-           s.eVar10 = '';
+            s.prop10 = '';
+            s.eVar10 = '';
            
-           s.tl(this,'o', link.text());
-       }
-   ); 
+            s.tl(this,'o', link.text());
+        }
+    ); 
 
-   var otherSearchResultNodes;
-   if (jQuery('.results-list').length) {
-     otherSearchResultNodes = jQuery('.results-list').children('li:gt(2)').find('a');
-   } else {
-     otherSearchResultNodes = jQuery('.cs-help-search-results').children('div.cs-help-search-result-row:gt(2)').children('h2').find('a');
-   }
-   otherSearchResultNodes.click(
-       function(e) {
-           var s = s_gi('acsuk-prod');
-           s.linkTrackVars='events';
-           s.linkTrackEvents='event1,event2,event3,event4,event5,event6,event7,event22';
-           s.events = 'event22';
+    var otherSearchResultNodes;
+    if (jQuery('.results-list').length) {
+        otherSearchResultNodes = jQuery('.results-list').children('li:gt(2)').find('a');
+    } else {
+        otherSearchResultNodes = jQuery('.cs-help-search-results').children('div.cs-help-search-result-row:gt(2)').children('h2').find('a');
+    }
+    
+    otherSearchResultNodes.click(
+        function(e) {
+            var s = s_gi('acsuk-prod');
+            s.linkTrackVars = 'events';
+            s.linkTrackEvents = 'event1,event2,event3,event4,event5,event6,event7,event22';
+            s.events = 'event22';
            
-           var link = jQuery(this);
-           s.tl(this,'o', link.text());
-       }
-   );
+            var link = jQuery(this);
+            s.tl(this,'o', link.text());
+        }
+    );
 
-   jQuery('#displayLink a').click(
-       function(e) {
-           var s = s_gi('acsuk-prod');
-           s.linkTrackVars='events';
-           s.linkTrackEvents='event1,event2,event3,event4,event5,event6,event7';
-           s.events = 'event4'; // Clicked the Contact Us button
+    jQuery('#displayLink a').click(
+        function(e) {
+            var s = s_gi('acsuk-prod');
+            s.linkTrackVars = 'events,prop15';
+            s.linkTrackEvents = 'event1,event2,event3,event4,event5,event6,event7';
+            s.events = 'event4'; // Clicked the Contact Us button
 
-           var link = jQuery(this);           
-           
-           s.tl(this,'o', link.text());
-       }
-   ); 
+            var link = jQuery(this);
+            s.prop15 = 'CU_KINDLE_VIDEOS_DYK_31599:|HELP_FACETED_NAVIGATION_29679:|REDESIGN_HELP_GATEWAY_32610:';
+            s.list1 = s.prop15;
 
-   var navTopicNodes;
-   if (jQuery('.cs-help-sidebar-module').length) {
-     navTopicNodes = jQuery('.cs-help-sidebar-module.topic-sidebar li a');
-   } else {
-     navTopicNodes = jQuery('#other-areas-content li').add('.nav-level').add('.nav-siblings').add('.nav-children').add('.nav').find('a');
-   }
-   navTopicNodes.click(
-       function(e) {
-           var s = s_gi('acsuk-prod');
-           s.linkTrackVars='events,eVar12,prop11';
-           s.linkTrackEvents='event1,event2,event3,event4,event5,event6,event7';
-           s.events = 'event5'; // Clicked a left-nav link
-           
-           var link = jQuery(this);           
+            s.tl(this,'o', link.text());
+        }
+    ); 
 
-           
-           s.tl(this,'o', link.text());
-       }       
-   ); 
+    var navTopicNodes;
+    if (jQuery('.cs-help-sidebar-module').length) {
+        navTopicNodes = jQuery('.cs-help-sidebar-module.topic-sidebar .nav-topics li a');
+    } else {
+        navTopicNodes = jQuery('#other-areas-content li').add('.nav-level').add('.nav-siblings').add('.nav-children').add('.nav').find('a');
+    }
+    navTopicNodes.click(
+        function(e) {
+            var s = s_gi('acsuk-prod');
+            s.linkTrackVars =' events,eVar12,prop11,prop15';
+            s.linkTrackEvents = 'event1,event2,event3,event4,event5,event6,event7';
+            s.events = 'event5'; // Clicked a left-nav link
 
-   var takeActionNodes;
-   if (jQuery('.cs-help-sidebar-module').length) {
-     takeActionNodes = jQuery('.cs-help-sidebar-module.take-action-sidebar li a').not('a-button');
-   } else {
-     takeActionNodes = jQuery('.cs-list-jq li a').add('.gray_box div.inner ul.small_list li a').not('.amzn-btn');
-   }
-   takeActionNodes.click(
-       function(e) {
-           var s = s_gi('acsuk-prod');
-           s.linkTrackVars='events,eVar17';
-           s.linkTrackEvents='event1,event2,event3,event4,event5,event6,event7';
-           s.events = 'event7'; // Clicked a right hand link
-           
-           var link = jQuery(this);                      
-           s.eVar17 = link.text(); 
-           
-           s.tl(this,'o', link.text());
-       }
-   ); 
+            var link = jQuery(this);
+
+            s.prop15 = 'CU_KINDLE_VIDEOS_DYK_31599:|HELP_FACETED_NAVIGATION_29679:|REDESIGN_HELP_GATEWAY_32610:';
+            s.list1 = s.prop15;
+            s.tl(this,'o', link.text());
+        }       
+    );
+    
+    var takeActionNodes;
+    if (jQuery('.cs-help-sidebar-module').length) {
+        takeActionNodes = jQuery('.cs-help-sidebar-module.take-action-sidebar li a').not('a-button');
+    } else {
+        takeActionNodes = jQuery('.cs-list-jq li a').add('.gray_box div.inner ul.small_list li a').not('.amzn-btn');
+    }
+    takeActionNodes.click(
+        function(e) {
+            var s = s_gi('acsuk-prod');
+            s.linkTrackVars = 'events,eVar17,prop15';
+            s.linkTrackEvents = 'event1,event2,event3,event4,event5,event6,event7';
+            s.events = 'event7'; // Clicked a right hand link
+
+            var link = jQuery(this);
+            s.eVar17 = link.text(); 
+            s.prop15 = 'CU_KINDLE_VIDEOS_DYK_31599:|HELP_FACETED_NAVIGATION_29679:|REDESIGN_HELP_GATEWAY_32610:';
+            s.list1 = s.prop15;
+            s.tl(this,'o', link.text());
+        }
+    );
+    
+    jQuery('#search-help').add('#search-help-bottom').submit(
+        function () {
+            var input_value = this.help_keywords.value;
+            var s = s_gi('acsuk-prod');
+            s.linkTrackVars = 'events,eVar47,prop46';
+            s.linkTrackEvents = 'event1,event2,event3,event4,event5,event6,event7,event27';
+            s.events = "event27";
+            s.eVar47 = input_value;
+            s.prop46 = input_value;
+            
+            s.tl(this,'o', input_value);
+            
+        }
+    );
+
+    amznJQ.onReady('wcs-help-faceted-update', function () {
+        jQuery('.cs-help-search-facets li a').click(
+            function (e) {  
+                var s = s_gi('acsuk-prod');
+                s.linkTrackVars = 'events,eVar48,eVar49,eVar50';
+                s.linkTrackEvents = 'event1,event2,event3,event4,event5,event6,event7,event28';
+                s.events = 'event28'; 
+        
+                var link = jQuery(this);
+                var facetName = link.closest('fieldset').find('legend').text();
+                var facetValue = link.text();
+                s.eVar48 = '' + '|' + facetName + '|' + facetValue; 
+                s.eVar49 = facetName;
+                s.eVar50 = facetValue;
+        
+                s.tl(this,'o', link.text());
+            }
+        );
+    });
 
 
 
    /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
    var s_code=s.t();if(s_code)document.write(s_code)
    //-->
+   
+};
+
+amznJQ.onReady('wcs-help-omniture', function () {  
+    csHelpOmniture.event(0);
+
 });
    <!--
       /* Ensure a separate start and end tag via a meaningless comment. */
    //-->
 </script>
 
-    <script language="JavaScript" type="text/javascript">
-    <!--
-            if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
-    //-->
-    </script>
+<!-- https://tt.amazon.com/0022849232 -->
+<!-- Serve problematic Javascript from CDN(SharedCSBrowserScripts), to avoid the unexpected tag displayed on JP website. -->
+
+
+
+
+
 
 <noscript>
    <img alt="" border="0" height="1" src="https://amazoncustomerservice.d2.sc.omtrdc.net/b/ss/acsuk-prod/1/H.25.2--NS/0" width="1"/>
@@ -508,24 +564,16 @@ amznJQ.onReady('wcs-help-omniture', function () {
 
 <!--/DO NOT REMOVE/-->
 <!-- End SiteCatalyst code version: H.20.3. -->
-
  </head>
  <body>
 <!-- BeginNav --><!-- From remote config --><style type="text/css"><!--
-.nav-sprite {
-  background-image: url(http://g-ecx.images-amazon.com/images/G/02/gno/beacon/BeaconSprite-UK-02._V397961423_.png);
+.nav-sprite-v1 .nav-sprite {
+  background-image: url(http://g-ecx.images-amazon.com/images/G/02/gno/sprites/global-sprite-v1._V339352782_.png);
+  background-position: 0 1000px;
+  background-repeat: repeat-x;
 }
-.nav_pop_h {
-  background-image: url(http://g-ecx.images-amazon.com/images/G/02/gno/beacon/nav-pop-h-v2._V147907311_.png);
-}
-.nav_pop_v {
-  background-image: url(http://g-ecx.images-amazon.com/images/G/02/gno/beacon/nav-pop-v-v2._V147907310_.png);
-}
-.nav_ie6 .nav_pop_h {
-  background-image: url(http://g-ecx.images-amazon.com/images/G/02/gno/beacon/nav-pop-8bit-h._V147907309_.png);
-}
-.nav_ie6 .nav_pop_v {
-  background-image: url(http://g-ecx.images-amazon.com/images/G/02/gno/beacon/nav-pop-8bit-v._V147907308_.png);
+.nav-spinner {
+  background-image: url(http://g-ecx.images-amazon.com/images/G/02/javascripts/lib/popover/images/snake._V192252891_.gif);
 }
 .nav-ajax-loading .nav-ajax-message {
   background: center center url(http://g-ecx.images-amazon.com/images/G/02/javascripts/lib/popover/images/snake._V192252891_.gif) no-repeat;
@@ -534,31 +582,28 @@ amznJQ.onReady('wcs-help-omniture', function () {
   background-image: url(http://g-ecx.images-amazon.com/images/G/02/nav2/images/gui/beacon-sprite.png);
 }
 --></style>
-<!-- From remote config v3-->
-<script type="text/javascript"><!--
-(function(d){var e=function(d){function b(f,c,b){f[b]=function(){a._replay.push(c.concat({m:b,a:[].slice.call(arguments)}))}}var a={};a._sourceName=d;a._replay=[];a.getNow=function(a,b){return b};a.when=function(){var a=[{m:"when",a:[].slice.call(arguments)}],c={};b(c,a,"run");b(c,a,"declare");b(c,a,"publish");b(c,a,"build");return c};b(a,[],"declare");b(a,[],"build");b(a,[],"publish");b(a,[],"importEvent");e._shims.push(a);return a};e._shims=[];d.$Nav||(d.$Nav=e("rcx-nav"));d.$Nav.make||(d.$Nav.make=
-e)})(window);window.$Nav.when("exposeSBD.enable","img.horz","img.vert","img.spin","$popover","btf.full").run(function(d,e,j,b){function a(a){switch(typeof a){case "boolean":h=a;i=!0;break;case "function":g=a;c++;break;default:c++}i&&2<c&&g(h)}function f(a,b){var c=new Image;b&&(c.onload=b);c.src=a;return c}var c=0,g,h,i=!1;f(e,d&&a);f(j,d&&a);window.$Nav.declare("protectExposeSBD",a);window.$Nav.declare("preloadSpinner",function(){f(b)})});
+<!-- disabled nav-config-asset-injection aui-p -->
+<!-- disabled nav-config-asset-injection GB::desktop::standard::31406:C::auiDebug=0::isSecure=0::jsOnEvent= navc-SnZdPXrNxenLzVcQ55JMSHfA23t6yclmWw+VyJo3L1LkqivHtItPWuFkQMjy1EKAe9XX1/76SLc= rid-1QXBWT91JQSFFRD4XAZH (Mon Jun 30 19:14:44 2014) **CACHED-BY-NCCC** --><!-- From remote config v3-->
+<script type="text/javascript">
+(function(b){document.createElement("header");var d=function(b){function c(c,e,b){c[b]=function(){a._replay.push(e.concat({m:b,a:[].slice.call(arguments)}))}}var a={};a._sourceName=b;a._replay=[];a.getNow=function(a,c){return c};a.when=function(){var a=[{m:"when",a:[].slice.call(arguments)}],b={};c(b,a,"run");c(b,a,"declare");c(b,a,"publish");c(b,a,"build");return b};c(a,[],"declare");c(a,[],"build");c(a,[],"publish");c(a,[],"importEvent");d._shims.push(a);return a};d._shims=[];b.$Nav||(b.$Nav=d("rcx-nav"));
+b.$Nav.make||(b.$Nav.make=d)})(window);
 
-window.$NavTimeout={ timeout:1,useSetImmediate:false
-};
-window.amznJQ && amznJQ.available('navbarJS-beacon', function(){});
-window._navbarSpriteUrl = 'http://g-ecx.images-amazon.com/images/G/02/gno/beacon/BeaconSprite-UK-02._V397961423_.png';
-$Nav.importEvent('navbarJS-beacon');
-$Nav.importEvent('NavAuiJS');
-$Nav.declare('exposeSBD.enable',false);
-$Nav.declare('img.spin','http://g-ecx.images-amazon.com/images/G/02/javascripts/lib/popover/images/snake._V192252891_.gif');
-$Nav.when('$').run(function($){
-  var ie6 = $.browser.msie && parseInt($.browser.version) <= 6;
-  $Nav.declare('img.horz', ie6 ?
-    'http://g-ecx.images-amazon.com/images/G/02/gno/beacon/nav-pop-8bit-h._V147907309_.png' :
-    'http://g-ecx.images-amazon.com/images/G/02/gno/beacon/nav-pop-h-v2._V147907311_.png');
-  $Nav.declare('img.vert', ie6 ?
-    'http://g-ecx.images-amazon.com/images/G/02/gno/beacon/nav-pop-8bit-v._V147907308_.png' :
-    'http://g-ecx.images-amazon.com/images/G/02/gno/beacon/nav-pop-v-v2._V147907310_.png');
+window.amznJQ && amznJQ.available('navbarJS-global', function(){});
+window._navbarSpriteUrl = 'http://g-ecx.images-amazon.com/images/G/02/gno/sprites/global-sprite-v1._V339352782_.png';
+$Nav.importEvent('navbarJS-global');
+$Nav.importEvent('NavAuiAssets');
+$Nav.declare('img.pixel', 'http://g-ecx.images-amazon.com/images/G/02/x-locale/common/transparent-pixel._V384789948_.gif');
+$Nav.declare('img.sprite', {
+  'png8': 'http://g-ecx.images-amazon.com/images/G/02/gno/sprites/global-sprite-v1._V339352782_.png',
+  'png32': 'http://g-ecx.images-amazon.com/images/G/02/gno/sprites/global-sprite-32-v1._V351555323_.png',
+  'png32-2x': 'http://g-ecx.images-amazon.com/images/G/02/gno/sprites/global-sprite-32-2x-v1._V351965766_.png'
 });
---></script>
-<img src="http://g-ecx.images-amazon.com/images/G/02/gno/beacon/BeaconSprite-UK-02._V397961423_.png" style="display:none" alt="">
+</script>
+<img src="http://g-ecx.images-amazon.com/images/G/02/gno/sprites/global-sprite-v1._V339352782_.png" style="display:none" alt="">
 <img src="http://g-ecx.images-amazon.com/images/G/02/x-locale/common/transparent-pixel._V384789948_.gif" style="display:none" alt="" id="nav_trans_pixel">
+
+
+
 
 
 
@@ -586,6 +631,8 @@ $Nav.when('$').run(function($){
 
 
 
+
+
 <script type="text/javascript">
 window.uet && uet('ns');
 
@@ -606,7 +653,7 @@ window.$Nav && $Nav.declare('config.ajaxProximity', [141,7,60,150]);
 
 </script>
 
-<!-- navp-a/kHYC91XF2KoKhMsXWrhCEz3QLEOITOqzN69DWE5n8WgQ7svtwmPxYST6hjcghAAZIFmIzGXgM= rid-0W1Q5Z05TA96KG7V8FM6 (Tue Dec 31 23:51:14 2013) -->
+<!-- navp-MbQeVWXxRlx6iNYNHJuusYbgP8lw3iHjqnagCRfG+DOn1hPIIMW2GvH0v49QdgRDH27j/NlhWjA= rid-1BHHR20SX1T0XJ5SAZZ6 (Mon Jun 30 19:41:57 2014) -->
 
   
 
@@ -614,63 +661,63 @@ window.$Nav && $Nav.declare('config.ajaxProximity', [141,7,60,150]);
 
 
 
-  <style type="text/css"><!--
-    .nav-searchfield-width {
-      padding: 0 2px 0 43px;
-    }
-
-    #nav-search-in {
-      width: 43px;
-    }
-
-  --></style>
-
 <style type="text/css"><!--
-    select#searchDropdownBox {
+    #navbar select#searchDropdownBox {
       visibility: visible;
       display: block;
     }
-    div.nav-searchfield-width {
-      padding-left: 200px;
-    }
-    .nav-aui span#nav-search-in, .nav-beacon span#nav-search-in {
+    #navbar #nav-search-in {
       width: 200px;
     }
-    #nav-search-in span#nav-search-in-content {
+    #navbar #nav-search-in-content {
       display: none;
     }
 --></style>
-
-<header>
-  <div id="navbar" role="navigation" class="nav-beacon nav-beacon-default nav-subnav nav-prime-menu">
-
-    <div id="nav-cross-shop" class="nav-size-large">
-
-      <a href="/" id="nav-logo" class="nav_a nav-sprite" alt="Amazon">
-        Amazon
-        <span class="nav-prime-tag nav-sprite"></span>
-      </a>
+<style type="text/css"><!--#nav-bar-middle #nav-searchbar .nav-submit-button .nav-submit-input {
+    margin: 0;
+    padding: 0px 11px;
+}
+--></style>
 
 
-      <ul id="nav-cross-shop-links">
-                      <li class="nav-xs-link nav_first"><a href="/gp/yourstore/home" class="nav_a" id="nav-your-amazon">Your Amazon.co.uk</a></li>
-                          <li class="nav-xs-link "><a href="/deals-offers-savings/b?ie=UTF8&amp;node=350613011" class="nav_a">Today's Deals</a></li>
-                          <li class="nav-xs-link "><a href="/gp/gc" class="nav_a">Gift Cards</a></li>
-                          <li class="nav-xs-link "><a href="/b?ie=UTF8&amp;node=2374298031" class="nav_a">Sell</a></li>
-                          <li class="nav-xs-link "><a href="/Help/b?ie=UTF8&amp;node=471044" class="nav_a">Help</a></li>
-                  </ul>
+
+<header class="nav-locale-gb nav-lang-en">
+  <div id="navbar" role="navigation" class="nav-subnav nav-subnav-container nav-skin-default nav-sprite-v1">
+    <div id="nav-cross-shop" class="nav-xshop-large"> 
+
+
+<div id="nav-logo" class="nav-logo-cn-10yr">
+  <a href="/" class="nav-logo-link">
+    <span class="nav-logo-base nav-sprite">Amazon</span>
+    <span class="nav-logo-ext nav-sprite"></span>
+    <span class="nav-logo-locale nav-sprite"></span>
+  </a>
+  <a href="/" class="nav-logo-tagline nav-sprite"></a>
+</div>
+
+
+
+      <div id="nav-cross-shop-content">
+
+
+        <div id="nav-cross-shop-links">
+                          <a href="/gp/yourstore/home" class="nav_a" id="nav-your-amazon">Your Amazon.co.uk</a>
+                              <a href="/deals-offers-savings/b?ie=UTF8&amp;node=350613011" class="nav_a">Today's Deals</a>
+                              <a href="/Gift-Cards-Vouchers-Birthday-Kindle/b?ie=UTF8&amp;node=1571304031" class="nav_a">Gift Cards</a>
+                              <a href="/b?ie=UTF8&amp;node=2374298031" class="nav_a">Sell</a>
+                              <a href="/Help/b?ie=UTF8&amp;node=471044" class="nav_a">Help</a>
+                      </div>
+      
+      </div>
 
       
         <div id="welcomeRowTable" style="height:50px">
-        <!--[if IE ]><div class='nav-ie-min-width' style='width: 770px'></div><![endif]-->
-        <div id="nav-ad-background-style" style="background-position: -800px 0px; background-image: url(http://g-ecx.images-amazon.com/images/G/02/img13/marketing/boxingday/nintendo/UK_Boxing-Day_SWMS_2._V366785666_.png);  height: 56px; margin-bottom: -6px; position: relative;background-repeat: no-repeat;">
+        <div id="nav-ad-background-style" style="background-position: -800px 0px; background-image: url(http://g-ecx.images-amazon.com/images/G/02/digital/video/merch/swm/SWM-Extended-405-x-50._V336404909_.jpg);  height: 56px; margin-bottom: -6px; position: relative;background-repeat: no-repeat;">
           <div id="navSwmSlot">
-            <div id="navSwmHoliday" style="background-image: url(http://g-ecx.images-amazon.com/images/G/02/img13/marketing/boxingday/nintendo/UK_Boxing-Day_SWMS_2._V366785666_.png); width: 300px; height: 50px; overflow: hidden;"><img alt="Fashion50pc2" src="http://g-ecx.images-amazon.com/images/G/02/x-locale/common/transparent-pixel._V384789948_.gif" border="0" width="300px" height="50px" usemap="#nav-swm-holiday-map"></div><div style="display: none;"><map id="nav-swm-holiday-map" name="nav-swm-holiday-map"><area shape="rect" coords="0,0,300,50" href="/Boxing-Day-Deals/b?ie=UTF8&amp;node=118857031" alt="Boxing Day Deals"></map></div>
+            <div id="navSwmHoliday" style="background-image: url(http://g-ecx.images-amazon.com/images/G/02/digital/video/merch/swm/SWM-Extended-405-x-50._V336404909_.jpg); width: 405px; height: 50px; overflow: hidden;"><img alt="StartYourFreeTrial" src="http://g-ecx.images-amazon.com/images/G/02/x-locale/common/transparent-pixel._V384789948_.gif" border="0" width="405px" height="50px" usemap="#nav-swm-holiday-map"></div><div style="display: none;"><map id="nav-swm-holiday-map" name="nav-swm-holiday-map"><area shape="rect" coords="0,0,405,50" href="/gp/feature.html?ie=UTF8&amp;docId=1000784863" alt="Start you free trial now"></map></div>
           </div>
         </div>
       </div>
-
-      <div style="clear: both;"></div>
     </div>
 
     <div id="nav-bar-outer">
@@ -679,114 +726,84 @@ window.$Nav && $Nav.declare('config.ajaxProximity', [141,7,60,150]);
 
       <div id="nav-bar-inner" class="nav-sprite">
 
-        <a id="nav-shop-all-button" href="/gp/site-directory" class="nav_a nav-button-outer nav-menu-inactive" alt="Shop By Department">
-          <span class="nav-button-mid nav-sprite">
-            <span class="nav-button-inner nav-sprite">
-              <span class="nav-button-title nav-button-line1">Shop by</span>
-              <span class="nav-button-title nav-button-line2">Department</span>
-            </span>
-          </span>
-          <span class="nav-down-arrow nav-sprite"></span>
-        </a>
-
-                  <label id="nav-search-label" for="twotabsearchtextbox">
-            Search
-          </label>
+        <div id="nav-bar-left">
+          <a id="nav-shop-all-button" href="/gp/site-directory" class="nav_a nav-button-outer nav-menu-inactive" alt="Shop By Department">
+            <span class="nav-button-title nav-button-line1">Shop by</span>
+            <span class="nav-button-title nav-button-line2">Department<span class="nav-down-arrow"></span></span>          
+          </a>
+        </div>
         
-        <div>
-          <form action="/s" method="get" name="site-search" class="nav-searchbar-inner nav-prime-menu" role="search" accept-charset="utf-8">
+        <div id="nav-bar-right">
+                   
+        
+          <a id="nav-your-account" href="https://www.amazon.co.uk/ap/signin?_encoding=UTF8&amp;openid.assoc_handle=gbflex&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.mode=checkid_setup&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&amp;openid.pape.max_auth_age=0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.co.uk%2Fgp%2Fcss%2Fhomepage.html%3Fie%3DUTF8%26ref_%3Dgno_yam_ya" class="nav_a nav-button-outer nav-menu-inactive nav-button-ellipsis" alt="Your Account">
+            <span id="nav-signin-title" class="nav-button-title nav-button-line1">
+              Hello.
+              <span id="nav-signin-text" class="nav-button-em">Sign in</span>
+            </span>
+            <span class="nav-button-title nav-button-line2">Your Account<span class="nav-down-arrow"></span></span>          
+          </a>
+
+            <span class="nav-divider"></span>
+            <a id="nav-your-prime" href="/gp/prime" class="nav_a nav-button-outer nav-menu-inactive" alt="Try Prime">
+              <span class="nav-button-title nav-button-line1">Try</span>
+              <span class="nav-button-title nav-button-line2">Prime<span class="nav-down-arrow"></span></span>            
+            </a>
+
+            <span class="nav-divider"></span>
+            <a id="nav-cart" href="/gp/cart/view.html" class="nav_a nav-button-outer nav-menu-inactive" alt="Basket">
+              <span class="nav-button-title nav-button-line1"> </span>
+              <span class="nav-button-title nav-button-line2">Basket<span class="nav-down-arrow"></span></span>
+              <span class="nav-cart-button nav-sprite"></span>
+              <span id="nav-cart-count" class="nav-cart-0">0</span>            
+            </a>
+
+            <span class="nav-divider"></span>
+            <a id="nav-wishlist" href="/gp/registry/wishlist" class="nav_a nav-button-outer nav-menu-inactive" alt="Wish List">
+              <span class="nav-button-title nav-button-line1">Wish</span>
+              <span class="nav-button-title nav-button-line2">List<span class="nav-down-arrow"></span></span>            
+            </a>
+        </div>
+
+        <div id="nav-bar-middle">
+                      <label id="nav-search-label" for="twotabsearchtextbox">
+              Search
+            </label>
+                    <form id="nav-searchbar" action="/s" method="get" name="site-search" role="search" accept-charset="utf-8" ,="" class="nav-searchbar-inner">
           
+          
+            <div class="nav-submit-button nav-sprite">
+              <input type="submit" value="Go" class="nav-submit-input" title="Go">
+            </div>
 
             <span id="nav-search-in" class="nav-sprite">
               <span id="nav-search-in-content" data-value="search-alias=aps">
                 All
               </span>
-              <span class="nav-down-arrow nav-sprite"></span>
-              <select data-nav-digest="LtaV7PjVkS/ydtrpKRZ0i5y46FY" data-nav-selected="0" name="url" id="searchDropdownBox" class="searchSelect" title="Search in"><option value="search-alias=aps" selected="selected">All Departments</option><option value="search-alias=mobile-apps">Apps for Android</option><option value="search-alias=baby">Baby</option><option value="search-alias=beauty">Beauty</option><option value="search-alias=stripbooks">Books</option><option value="search-alias=automotive">Car &amp; Motorbike</option><option value="search-alias=classical">Classical</option><option value="search-alias=clothing">Clothing</option><option value="search-alias=computers">Computers &amp; Accessories</option><option value="search-alias=diy">DIY &amp; Tools</option><option value="search-alias=electronics">Electronics &amp; Photo</option><option value="search-alias=dvd">Film &amp; TV</option><option value="search-alias=outdoor">Garden &amp; Outdoors</option><option value="search-alias=gift-cards">Gift Cards</option><option value="search-alias=grocery">Grocery</option><option value="search-alias=drugstore">Health &amp; Personal Care</option><option value="search-alias=jewelry">Jewellery</option><option value="search-alias=digital-text">Kindle Store</option><option value="search-alias=kitchen">Kitchen &amp; Home</option><option value="search-alias=appliances">Large Appliances</option><option value="search-alias=lighting">Lighting</option><option value="search-alias=luggage">Luggage</option><option value="search-alias=digital-music">MP3 Music</option><option value="search-alias=popular">Music</option><option value="search-alias=mi">Musical Instruments &amp; DJ</option><option value="search-alias=videogames">PC &amp; Video Games</option><option value="search-alias=pets">Pet Supplies</option><option value="search-alias=shoes">Shoes &amp; Bags</option><option value="search-alias=software">Software</option><option value="search-alias=sports">Sports &amp; Outdoors</option><option value="search-alias=office-products">Stationery &amp; Office Supplies</option><option value="search-alias=toys">Toys &amp; Games</option><option value="search-alias=vhs">VHS</option><option value="search-alias=watches">Watches</option></select>
+              <span class="nav-down-arrow"></span>
+              <select data-nav-digest="i0yilDqHzVzAgo8MKovBR4XYFUs" data-nav-selected="0" name="url" id="searchDropdownBox" class="searchSelect" title="Search in"><option value="search-alias=aps" selected="selected">All Departments</option><option value="search-alias=instant-video">Amazon Instant Video</option><option value="search-alias=mobile-apps">Apps for Android</option><option value="search-alias=baby">Baby</option><option value="search-alias=beauty">Beauty</option><option value="search-alias=stripbooks">Books</option><option value="search-alias=automotive">Car &amp; Motorbike</option><option value="search-alias=classical">Classical</option><option value="search-alias=clothing">Clothing</option><option value="search-alias=computers">Computers &amp; Accessories</option><option value="search-alias=digital-music">Digital Music </option><option value="search-alias=diy">DIY &amp; Tools</option><option value="search-alias=dvd">DVD &amp; Blu-ray</option><option value="search-alias=electronics">Electronics &amp; Photo</option><option value="search-alias=outdoor">Garden &amp; Outdoors</option><option value="search-alias=gift-cards">Gift Cards</option><option value="search-alias=grocery">Grocery</option><option value="search-alias=drugstore">Health &amp; Personal Care</option><option value="search-alias=jewelry">Jewellery</option><option value="search-alias=digital-text">Kindle Store</option><option value="search-alias=kitchen">Kitchen &amp; Home</option><option value="search-alias=appliances">Large Appliances</option><option value="search-alias=lighting">Lighting</option><option value="search-alias=dvd-bypost">LOVEFiLM by Post</option><option value="search-alias=luggage">Luggage</option><option value="search-alias=popular">Music</option><option value="search-alias=mi">Musical Instruments &amp; DJ</option><option value="search-alias=videogames">PC &amp; Video Games</option><option value="search-alias=pets">Pet Supplies</option><option value="search-alias=shoes">Shoes &amp; Bags</option><option value="search-alias=software">Software</option><option value="search-alias=sports">Sports &amp; Outdoors</option><option value="search-alias=office-products">Stationery &amp; Office Supplies</option><option value="search-alias=toys">Toys &amp; Games</option><option value="search-alias=vhs">VHS</option><option value="search-alias=watches">Watches</option></select>
             </span>
 
-            <div class="nav-searchfield-outer nav-sprite">
-              <div class="nav-searchfield-inner nav-sprite">
-                <div class="nav-searchfield-width">
-                  <div id="nav-iss-attach">
-                    <input type="text" id="twotabsearchtextbox" title="Search For" value="" name="field-keywords" autocomplete="off">
-                  </div>
-                </div>
-                <!--[if IE ]><div class='nav-ie-min-width' style='width: 360px'></div><![endif]-->
+            <div class="nav-searchfield-width">
+              <div id="nav-iss-attach">
+                <input type="text" id="twotabsearchtextbox" title="Search For" value="" name="field-keywords" autocomplete="off">
               </div>
             </div>
-
-            <div class="nav-submit-button nav-sprite">
-              <input type="submit" value="Go" class="nav-submit-input" title="Go">
-            </div>
-
           </form>
         </div>
-
-        <a id="nav-your-account" href="https://www.amazon.co.uk/ap/signin?_encoding=UTF8&amp;openid.assoc_handle=gbflex&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.mode=checkid_setup&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&amp;openid.pape.max_auth_age=0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.co.uk%2Fgp%2Fcss%2Fhomepage.html%3Fie%3DUTF8%26ref_%3Dgno_yam_ya" class="nav_a nav-button-outer nav-menu-inactive nav-prime-menu" alt="Your Account">
-          <span class="nav-button-mid nav-sprite">
-            <span class="nav-button-inner nav-sprite">
-              <span id="nav-signin-title" class="nav-button-title nav-button-line1">
-                Hello.
-                <span id="nav-signin-text" class="nav-button-em">Sign in</span>
-              </span>
-              <span class="nav-button-title nav-button-line2">Your Account</span>
-            </span>
-          </span>
-          <span class="nav-down-arrow nav-sprite"></span>
-        </a>
-
-          <span class="nav-divider nav-divider-prime"></span>
-
-          <a id="nav-your-prime" href="/gp/prime" class="nav_a nav-button-outer nav-menu-inactive" alt="Try Prime">
-            <span class="nav-button-mid nav-sprite">
-              <span class="nav-button-inner nav-sprite">
-                <span class="nav-button-title nav-button-line1">Try</span>
-                <span class="nav-button-title nav-button-line2">Prime</span>
-              </span>
-            </span>
-            <span class="nav-down-arrow nav-sprite"></span>
-          </a>
-
-          <span class="nav-divider nav-divider-account"></span>
-
-          <a id="nav-cart" href="/gp/cart/view.html" class="nav_a nav-button-outer nav-menu-inactive" alt="Basket">
-            <span class="nav-button-mid nav-sprite">
-              <span class="nav-button-inner nav-sprite">
-
-                <span class="nav-button-title nav-button-line1"> </span>
-                <span class="nav-button-title nav-button-line2">Basket</span>
-
-                <span class="nav-cart-button nav-sprite"></span>
-                <span id="nav-cart-count" class="nav-cart-0">0</span>
-
-              </span>
-            </span>
-            <span class="nav-down-arrow nav-sprite"></span>
-          </a>
-
-          <span class="nav-divider nav-divider-cart"></span>
-
-          <a id="nav-wishlist" href="/gp/registry/wishlist" class="nav_a nav-button-outer nav-menu-inactive" alt="Wish List">
-            <span class="nav-button-mid nav-sprite">
-              <span class="nav-button-inner nav-sprite">
-                <span class="nav-button-title nav-button-line1">Wish</span>
-                <span class="nav-button-title nav-button-line2">List</span>
-              </span>
-            </span>
-            <span class="nav-down-arrow nav-sprite"></span>
-          </a>
-
-          <!-- nav-linktree-category -->
+        
+</div><div id="nav-subnav-container">          <!-- nav-linktree-category -->
           <!-- nav-linktree-subnav -->
-          <ul id="nav-subnav" data-category="welcome" data-digest="qPQcMREoVSH/Ga61vnCLyd2wGY8">
-<li class="nav-subnav-item nav-category-button"><a href="/b?ie=UTF8&amp;node=468294" class="nav_a">Amazon.co.uk</a></li><li class="nav-subnav-item"><a href="/Warehouse-Deals/b?ie=UTF8&amp;node=304071031" class="nav_a">Warehouse Deals</a></li><li class="nav-subnav-item"><a href="/Subscribe-Save-Health-Beauty-Grocery/b?ie=UTF8&amp;node=423139031" class="nav_a">Subscribe &amp;&nbsp;Save</a></li><li class="nav-subnav-item"><a href="/gp/family/signup/welcome" class="nav_a">Amazon Family</a></li><li class="nav-subnav-item"><a href="/Outlet/b?ie=UTF8&amp;node=3012216031" class="nav_a">Outlet</a></li><li class="nav-subnav-item"><a href="/gp/subs/primeclub/signup/main.html" class="nav_a">Amazon Prime</a></li><li class="nav-subnav-item"><a href="/gp/feature.html?ie=UTF8&amp;docId=1000501923" class="nav_a">Mobile Apps</a></li><li class="nav-subnav-item"><a href="/gp/feature.html?ie=UTF8&amp;docId=1000448843" class="nav_a">Amazon Toolbar</a></li><li class="nav-subnav-item"><a href="/local/deals/all" class="nav_a">Amazon Local</a></li>          </ul>
+          <ul id="nav-subnav" data-category="welcome" data-digest="lUfVvN320S17LDtVXC6heut2LJc">
+<li class="nav-subnav-item nav-category-button"><a href="/b?ie=UTF8&amp;node=468294" class="nav_a">Amazon.co.uk</a></li><li class="nav-subnav-item"><a href="/Warehouse-Deals/b?ie=UTF8&amp;node=304071031" class="nav_a">Warehouse Deals</a></li><li class="nav-subnav-item"><a href="/Subscribe-Save-Health-Beauty-Grocery/b?ie=UTF8&amp;node=423139031" class="nav_a">Subscribe &amp;&nbsp;Save</a></li><li class="nav-subnav-item"><a href="/gp/family/signup/welcome" class="nav_a">Amazon Family</a></li><li class="nav-subnav-item"><a href="/Outlet/b?ie=UTF8&amp;node=3012216031" class="nav_a">Outlet</a></li><li class="nav-subnav-item"><a href="/gp/subs/primeclub/signup/main.html" class="nav_a">Amazon Prime</a></li><li class="nav-subnav-item"><a href="/gp/feature.html?ie=UTF8&amp;docId=1000501923" class="nav_a">Mobile Apps</a></li><li class="nav-subnav-item"><a href="/gp/feature.html?ie=UTF8&amp;docId=1000448843" class="nav_a">Amazon Toolbar</a></li><li class="nav-subnav-item"><a href="/local/deals/all" class="nav_a">Amazon Local</a></li><li class="nav-subnav-item"><a href="/b?ie=UTF8&amp;node=2594544031" class="nav_a">Amazon Locker</a></li>          </ul>
       </div>
     </div>
 
     
   </div>
 </header>
+
+
 
 
 
@@ -800,6 +817,8 @@ window.$Nav && $Nav.declare('config.dismissNotificationUrl',
 
 window.$Nav && $Nav.declare('config.enableDynamicMenus', true);
 
+window.$Nav && $Nav.declare('config.isInternal', false);
+
 window.$Nav && $Nav.declare('config.subnavFlyoutUrl',
   '/gp/navigation/ajax/subnav-flyout');
 
@@ -807,7 +826,7 @@ window.$Nav && $Nav.declare('config.subnavFlyoutUrl',
 window.$Nav && $Nav.declare('config.readyOnATF', false);
 
 window.$Nav && $Nav.declare('config.dynamicMenuArgs',
-  {"rid":"0W1Q5Z05TA96KG7V8FM6","isPrime":0,"primeMenuWidth":310});
+  {"rid":"1BHHR20SX1T0XJ5SAZZ6","isPrime":0,"primeMenuWidth":310});
 
 window.$Nav && $Nav.declare('config.signOutText',
   null);
@@ -827,7 +846,7 @@ window.$Nav && $Nav.declare('config.responsiveTouchAgents', ["ieTouch"]);
 
 window.$Nav && $Nav.declare('config.responsiveGW',false);
 
-window.$Nav && $Nav.declare('config.newFlyouts',false);
+window.$Nav && $Nav.declare('config.newFlyouts',true);
 
 window.$Nav && $Nav.declare('config.velocityFlyoutToggling', false);
 window.$Nav && $Nav.declare('config.velocityFlyoutThreshold', 40);
@@ -837,7 +856,15 @@ window.$Nav && $Nav.declare('config.twoClickFlyouts',false);
 window.$Nav && $Nav.declare('config.sslTriggerType','');
 window.$Nav && $Nav.declare('config.sslTriggerRetry',0);
 
-window.$Nav && $Nav.declare('config.pantryCart',false);
+window.$Nav && $Nav.declare('config.pantryCart',true);
+
+window.$Nav && $Nav.declare('config.doubleCart',false);
+
+
+window.$Nav && $Nav.declare('config.signInTooltip',false);
+
+window.$Nav && $Nav.declare('config.highRes',false);
+
 
     
     window.$Nav && $Nav.declare('config.browsePromos', window._navbar.browsepromos);
@@ -892,8 +919,8 @@ window.$Nav && $Nav.declare('config.pantryCart',false);
 
 
 <div class="nav-level step1"><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=492866">Security, Privacy &amp; Accessibility</a></div><ul class="nav-siblings step1"><li><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=502570">Customer Promise
-</a></li><li><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=200406970">Safe Online Shopping</a></li><li><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=14044771">Non-Disclosure Agreement
-</a></li><li><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=1040616">Conditions of Use &amp; Sale</a></li><li class="selected">Privacy Notice</li><li><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=200217120"> Recalls &amp; Product Safety</a></li><li><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=541522">E-mail Subscriptions &amp; Communication Preferences</a></li><li><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=200537150">E-mail Account Verification</a></li><li><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=200899020">Supplier Code of Standards and Responsibilities</a></li><li><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=200942050">Amazon Accessibility Resources</a></li><li><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=201280910">About Amazon Customer Survey E-mails</a></li><li><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=201149560">Cookies &amp; Internet Advertising</a></li></ul>
+</a></li><li><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=1040616">Conditions of Use &amp; Sale</a></li><li class="selected">Privacy Notice</li><li><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=14044771">Non-Disclosure Agreement
+</a></li><li><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=200899020">Supply Chain Standards</a></li><li><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=201149560">Cookies &amp; Internet Advertising</a></li><li><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=541522">E-mails From Amazon</a></li><li><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=201489600">Your Security</a></li></ul>
 </div>
 </div>  
 
@@ -922,16 +949,12 @@ window.$Nav && $Nav.declare('config.pantryCart',false);
 <li><a href="/gp/help/customer/display.html/ref=hp_sn_ord?nodeId=10293911">Ordering</a> </li> 
 <li><a href="/gp/help/customer/display.html/ref=hp_sn_pay?nodeId=492874">Payment, Pricing &amp; VAT</a></li>
 <li><a href="/gp/help/customer/display.html/ref=hp_sn_kin?nodeId=200127470">Kindle</a> </li> 
-<li><a href="/gp/help/customer/display.html/ref=hp_sn_mp3?nodeId=200274390">Amazon MP3 Downloads</a> </li> 
-<li><a href="/gp/help/customer/display.html/ref=hp_sn_cloud?nodeId=200896440">Amazon Cloud Drive</a> </li> 
+<li><a href="https://www.amazon.co.uk/gp/help/customer/display.html/ref=hp_sn_aiv?nodeId=201376320">Amazon Instant Video</a></li><li><a href="https://www.amazon.co.uk/gp/help/customer/display.html/ref=hp_sn_lbp?nodeId=201394750">LOVEFiLM By Post</a></li><li><a href="/gp/help/customer/display.html/ref=hp_sn_mp3?nodeId=201376340">Amazon Music Downloads</a> </li> 
+<li><a href="/gp/help/customer/display.html/ref=hp_sn_cloud?nodeId=201376330">Amazon Cloud Drive</a> </li> 
 <li><a href="/gp/help/customer/display.html/ref=hp_left_ac?ie=UTF8&amp;nodeId=201357410">Amazon Appstore for Android</a> </li>
-<li><a href="/gp/help/customer/display.html/ref=hp_sn_gift?nodeId=201164780">Games &amp; Software Downloads</a> </li>
-<li><a href="/gp/help/customer/display.html/ref=hp_sn_gift?nodeId=200268710">Gifts, Gift Certificates and Wish Lists</a> </li>   
-<li><a href="/gp/help/customer/display.html/ref=hp_sn_mktp?nodeId=3149101">Amazon.co.uk Marketplace</a> </li> 
-<li><a href="/gp/help/customer/display.html/ref=hp_sn_extra?nodeId=492876">Products &amp; Services</a> </li> 
+<li><a href="/gp/help/customer/display.html/ref=hp_sn_gift?nodeId=201376360">Games &amp; Software Downloads</a> </li>
+<li><a href="/gp/help/customer/display.html/ref=hp_sn_gift?nodeId=200268710">Gifts, Gift Certificates and Wish Lists</a> </li><li><a href="/gp/help/customer/display.html/ref=hp_sn_extra?nodeId=492876">Site Features</a> </li> 
 <li><a href="/gp/help/customer/display.html/ref=hp_sn_sec?nodeId=492866">Security, Privacy &amp; Accessibility </a></li> 
-<li><a href="/gp/help/customer/display.html/ref=hp_sn_use?nodeId=492880">Technical Information</a> </li>
-<br> <br> 
 </ul></div></div>
 </div>  
 
@@ -996,188 +1019,359 @@ window.$Nav && $Nav.declare('config.pantryCart',false);
 
 
 
-<h1>Amazon.co.uk Privacy Notice</h1>
-<p>Last Updated: 25 September 2012. To view changes to the Privacy Notice please click <a href="/gp/help/customer/display.html?nodeId=200321100">here</a></p>
-<p>Amazon.co.uk knows that you care how information about you is used and shared and we appreciate your trust in us to do that carefully and sensibly. This notice describes the privacy policy of Amazon.co.uk. <b>By visiting Amazon.co.uk, you are accepting and consenting to the practices described in this Privacy Notice.</b></p>
-<ul>
-  <li><a href="#a">Controllers of
-    Personal Information</a></li>
-  <li><a href="#b">What Personal
-    Information About Customers Does Amazon.co.uk Gather?</a> </li>
-  <li><a href="#c">What About
-    Cookies?</a></li>
-  <li><a href="#d">Does
-    Amazon.co.uk Share the Information it Receives?</a> </li>
-  <li><a href="#e">How Secure Is
-    Information About Me?</a></li>
-  <li><a href="#f">What About
-    Third-Party Advertisers and Links to Other Websites?</a> </li>
-  <li><a href="#g">What
-    Information Can I Access?</a></li>
-  <li><a href="#h">What Choices
-    Do I Have?</a></li>
-  <li><a href="#i">Are Children
-    Allowed to Use Amazon.co.uk?</a></li>
-  <li><a href="#k">Notices and
-    Revisions</a></li>
-  <li><a href="#l">Examples of
-    Information Collected</a></li>
+
+ <a name="GUID-76787A77-872C-4019-8BD7-03C8AC3812EB"></a><h1>Amazon.co.uk Privacy Notice</h1>
+  
+   
+  <div>
+<p class="lead"> Last Updated: 13 March 2014.</p>
+ 
+	 
+<div id="GUID-76787A77-872C-4019-8BD7-03C8AC3812EB__GUID-23032991-0A9F-4AB1-8338-7020D768D6BE">
+<a name="GUID-76787A77-872C-4019-8BD7-03C8AC3812EB__GUID-23032991-0A9F-4AB1-8338-7020D768D6BE"></a>
+</div>
+<p>To view changes to the Privacy Notice please click <a href="/gp/help/customer/display.html?nodeId=200321100" target="_blank"> here</a>.</p>
+ 
+<p>Amazon.co.uk knows that you care how information about you is used and shared and we appreciate your trust in us to do that carefully and sensibly. This notice describes the privacy policy of Amazon.co.uk. <strong>By visiting Amazon.co.uk, you are accepting and consenting to the practices described in this Privacy Notice.</strong>
+</p>
+ 
+<p> 
+		
+</p><ul id="GUID-76787A77-872C-4019-8BD7-03C8AC3812EB__UL_906F0CE125914AD0A47278F3BA854435">
+<li>
+<span class="a-list-item"><a href="#GUID-76787A77-872C-4019-8BD7-03C8AC3812EB__SECTION_597B86D9F6794FA59E718D4A9CC8F727">Controllers of Personal Information</a>.</span>
+</li>
+
+<li>
+<span class="a-list-item"><a href="#GUID-76787A77-872C-4019-8BD7-03C8AC3812EB__SECTION_132E2551D08240A6AABB9F35C15C7810">What Personal Information About Customers Does Amazon.co.uk Gather?</a></span>
+</li>
+
+<li>
+<span class="a-list-item"><a href="#GUID-76787A77-872C-4019-8BD7-03C8AC3812EB__SECTION_28547C20192449569FDAAF08E2E42BA3">What About Cookies?</a></span>
+</li>
+
+<li>
+<span class="a-list-item"><a href="#GUID-76787A77-872C-4019-8BD7-03C8AC3812EB__SECTION_5E308B5A0A524A979CB1472572F45223">Does Amazon.co.uk Share the Information it Receives?</a></span>
+</li>
+
+<li>
+<span class="a-list-item"><a href="#GUID-76787A77-872C-4019-8BD7-03C8AC3812EB__SECTION_2C5606B8189649CEA0E1C8B51EBCF0AB">How Secure Is Information About Me?</a></span>
+</li>
+
+<li>
+<span class="a-list-item"><a href="#GUID-76787A77-872C-4019-8BD7-03C8AC3812EB__SECTION_DCBB450DB9DB40738A35416542DFE138">What About Third-Party Advertisers and Links to Other Websites?</a></span>
+</li>
+
+<li>
+<span class="a-list-item"><a href="#GUID-76787A77-872C-4019-8BD7-03C8AC3812EB__SECTION_6B0CF7FB277A4B7D9F5012054476A3C2">What Information Can I Access?</a></span>
+</li>
+
+<li>
+<span class="a-list-item"><a href="#GUID-76787A77-872C-4019-8BD7-03C8AC3812EB__SECTION_392EAF4C83FD47A2A360EF81917F7FBE">What Choices Do I Have?</a></span>
+</li>
+
+<li>
+<span class="a-list-item"><a href="#GUID-76787A77-872C-4019-8BD7-03C8AC3812EB__SECTION_34D09FECEE2746B2B8CB0ED6CB4BC147">Are Children Allowed to Use Amazon.co.uk?</a></span>
+</li>
+
+<li>
+<span class="a-list-item"><a href="#GUID-76787A77-872C-4019-8BD7-03C8AC3812EB__SECTION_170A673EEFC640B0B3FB12E079D41FD2">Notices and Revisions</a>.</span>
+</li>
+
+<li>
+<span class="a-list-item"><a href="#GUID-76787A77-872C-4019-8BD7-03C8AC3812EB__SECTION_22160257376047E78334D565CD73852D">Examples of Information Collected</a>.</span>
+</li>
+ 
+		
 </ul>
-<p><a name="a"></a><b><span class="lftnavorange">Controllers of Personal
-  Information</span></b><br>
-</p>
-<p>Any personal information provided to or gathered by Amazon.co.uk is controlled by Amazon EU SARL, Amazon Services Europe SARL and Amazon Media EU SARL (the data controllers), all three at 5 Rue Plaetis L-2338, Luxembourg. Amazon.co.uk Ltd of Patriot Court, 1-9 The Grove, Slough, Berkshire, England SL1 1QP UK acts as data processor on behalf of the data controllers.</p>
-<p>Amazon.com, Inc. and its controlled US subsidiaries are participants in the Safe Harbour programme developed by the US Department of Commerce and the European Union. These Amazon Group companies have certified that they adhere to the Safe Harbour Privacy Principles agreed upon by the US and the EU. For more information about the Safe Harbour and to view these Amazon Group companies' certification, visit the <a href="https://www.export.gov/safeharbor">U.S. Department of Commerce's Safe Harbour</a> website. If you would like to contact Amazon directly about the Safe Harbour programme, please send an e-mail to <a href="mailto:safeharbor@amazon.com">safeharbor@amazon.com</a>.</p>
-<p><a href="#Top">Back to
-  top</a><br>
-  <br>
-  <a name="b"></a><b><span class="lftnavorange">What
-    Personal Information About Customers Does Amazon.co.uk
-    Gather?</span></b><br>
-</p>
-<p>The information we learn from customers helps us personalise and continually improve your shopping experience at Amazon.co.uk. We use the information to handle orders, deliver products and services, process payments, communicate with you about orders, products, services and promotional offers, update our records and generally maintain your accounts with us, display content such as wish lists and customer reviews and recommend merchandise and services that might be of interest to you. We also use this information to improve our store and platform, prevent or detect fraud or abuses of our website and enable third parties to carry out technical, logistical or other functions on our behalf.</p>
-<p>Here are the types of information we gather.</p>
-<ul>
-  <li><b>Information You Give Us:</b> we receive and store any information you enter on our website or give us in any other way. <a href="#l">Click here</a> to see examples of what we collect. You can choose not to provide certain information but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customising future shopping for you, improving our stores, and communicating with you. </li>
-<li><b>Automatic Information:</b> we receive and store certain types of information whenever you interact with us. For example, like many websites, we use "cookies" and we obtain certain types of information when your Web browser accesses Amazon.co.uk or advertisements and other content served by or on behalf of Amazon.co.uk on other Web sites. Click <a href="#auto">here</a> to see examples of the information we receive.</li>
-  <li><strong>Mobile:</strong> When you download or use <a href="/gp/feature.html/ref=sa_menu_adr_amz2?ie=UTF8&amp;docId=1000501923">apps created by Amazon</a> or its subsidiaries and, where applicable, have requested or consented to location services, we may receive information about your location and your mobile device, including a unique identifier for your device. We may use this information to provide you with location-based services, such as search results, and other personalised content. Most mobile devices allow you to turn off location services. For more information about how to do this, <a href="#mobile">click here</a>.</li>   
 
-  <li><b>E-mail Communications:</b> to help us make e-mails more useful and interesting, we often receive a confirmation when you open e-mail from Amazon.co.uk if your computer supports such capabilities. We also compare our customer list to lists received from other companies in an effort to avoid sending unnecessary messages to our customers. If you do not want to receive e-mail or other mail from us, please adjust your <a href="https://www.amazon.co.uk/ap/signin?_encoding=UTF8&amp;openid.assoc_handle=gbflex&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.mode=checkid_setup&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&amp;openid.pape.max_auth_age=900&amp;openid.return_to=https%3A%2F%2Fwww.amazon.co.uk%2Fgp%2Fgss%2Fccp%3Fie%3DUTF8%26ref_%3Dya__21">Customer Communication Preferences</a></li>
-<li><b>Information from Other Sources:</b> we might receive information about you from other sources and add it to our account information. <a href="#l">Click here</a> to see examples of the information we receive.</li>
-</ul>
-<p><a href="#Top">Back to
-  top</a><br>
-  <br>
-<a name="c"></a><b><span class="lftnavorange">What About Cookies?</span></b><br>
-</p>
-<p>To enable  our systems to recognise your device and to provide features to you, we use  cookies. For more information about  cookies and how we use them, please read our <a href="/gp/BIT/InternetBasedAds">Cookies &amp; Internet Advertising policy</a>. </p>
-<p><a href="#Top">Back to
-  top</a><br>
-  <br>
-  <a name="d"></a><b><span class="lftnavorange">Does Amazon.co.uk share the Information it receives?</span></b><br>
-</p>
-<p>Information about our customers is an important part of our business and we are not in the business of selling it to others. Amazon.co.uk shares customer information only as described below and with Amazon.com, Inc. and the subsidiaries which Amazon.com, Inc., controls and that are either subject to this Privacy Notice or follow practices at least as protective as those described in this Privacy Notice.</p>
-<ul>
-<li><b>Affiliated Businesses We Do Not Control:</b> We work closely with affiliated businesses. In some cases, such as Marketplace sellers, these businesses operate stores at Amazon.co.uk or sell offerings to you at Amazon.co.uk. In other cases, we operate stores, provide services or sell product lines jointly with or on behalf of these businesses. <a href="#l">Click here</a> for some examples of co-branded and joint offerings. You can tell when a third party is involved in your transactions and we share customer information related to those transactions with that third party. </li>
-
-<li><b>Third Party Service Providers:</b> We employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analysing data, providing marketing assistance, providing search results and links (including paid listings and links), processing credit card payments and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes. Further, they must process the personal information in accordance with this Privacy Notice and as permitted by applicable data protection laws. </li>
-
-<li><b>Promotional Offers:</b> Sometimes we send offers to selected groups of Amazon.co.uk customers on behalf of other businesses. When we do this, we do not give that business your name and address. If you do not want to receive such offers, please adjust your <a href="https://www.amazon.co.uk/ap/signin?_encoding=UTF8&amp;openid.assoc_handle=gbflex&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.mode=checkid_setup&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&amp;openid.pape.max_auth_age=900&amp;openid.return_to=https%3A%2F%2Fwww.amazon.co.uk%2Fgp%2Fgss%2Fccp%3Fie%3DUTF8%26ref_%3Dya__21">Customer Communication Preferences</a>. </li>
-
-<li><b>Business Transfers:</b> As we continue to develop our business, we might sell or buy stores, subsidiaries or business units. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Notice (unless, of course, the customer consents otherwise). Also, in the unlikely event that Amazon.com, Inc. or substantially all of its assets are acquired, customer information will of course be one of the transferred assets. </li>
-
-<li><b>Protection of Amazon.co.uk and Others:</b> We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our Conditions of Use and other agreements; or protect the rights, property or safety of Amazon.co.uk, our users or others. This includes exchanging information with other companies and organisations for fraud protection and credit risk reduction. Obviously, however, this does not include selling, renting, sharing or otherwise disclosing personally identifiable information from customers for commercial purposes in a way that is contrary to the commitments made in this Privacy Notice. </li>
-
-<li><b>With your consent:</b> other than as set out above, you will receive notice when information about you might go to third parties and you will have an opportunity to choose not to share the information. </li>
-</ul>
-<p>Whenever we transfer personal information to countries outside of the European Economic Area in the course of sharing information as set out above, we will ensure that the information is transferred in accordance with this Privacy Notice and as permitted by the applicable laws on data protection.</p>
-<p><a href="#Top">Back to
-  top</a><br>
-  <br>
-
-<a name="e"></a><b><span class="lftnavorange">How Secure Is Information About
-    Me?</span></b><br>
-</p>
-<ul>
-<li>We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. </li>
-
-<li>We reveal only the last four digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing. </li>
-
-<li>We maintain physical, electronic and procedural safeguards in connection with the collection, storage and disclosure of personally identifiable customer information. Our security procedures mean that we may occasionally request proof of identity before we disclose personal information to you. </li>
-
-<li>It is important for you to protect against unauthorised access to your password and to your computer. Be sure to sign off when you finish using a shared computer. <a href="/gp/help/customer/display.html/ref=hp_sn_dd?nodeId=1093784">Click here</a> for more information on how to sign off. </li>
-</ul>
-<p><a href="#Top">Back to
-  top</a><br>
-  <br>
-  <a name="f"></a><b><span class="lftnavorange">What About Third-Party Advertisers and Links to Other Web
-    sites?</span></b><br>
-</p>
-<p>Our site may include third-party advertising and links to other Web sites. For more information about third-party advertising at Amazon.co.uk, including personalised or  interest-based ads, please read our <a href="/gp/BIT/InternetBasedAds">Cookies &amp; Internet Advertising policy</a>.</p>
-<a href="#Top">Back to
-  top</a>
-<br><br>
-
-<a name="g"></a><b><span class="lftnavorange">What Information Can I Access?</span></b><br>
 <p></p>
-<p>Amazon.co.uk gives you access to a broad range of information about your account and your interactions with Amazon.co.uk for the limited purpose of viewing and, in certain cases, updating that information. <a href="#z">Click here</a> to see some examples. This list will change as our
-  website evolves.</p>
+ 
+	 
+ 
+	 
+<div id="GUID-76787A77-872C-4019-8BD7-03C8AC3812EB__SECTION_597B86D9F6794FA59E718D4A9CC8F727">
+<a name="GUID-76787A77-872C-4019-8BD7-03C8AC3812EB__SECTION_597B86D9F6794FA59E718D4A9CC8F727"></a>
+</div>
+<h2> Controllers of Personal Information</h2>
+<p>Any personal information provided to or gathered by Amazon.co.uk is controlled by Amazon EU SARL, Amazon Services Europe SARL and Amazon Media EU SARL (the data controllers), all three at 5 Rue Plaetis L-2338, Luxembourg and Amazon Instant Video Limited of 60 Holborn Viaduct, London, England, EC1A 2FD UK (together the data controllers). Amazon.co.uk Ltd of Patriot Court, 1-9 The Grove, Slough, Berkshire, England SL1 1QP UK acts as data processor on behalf of the data controllers. </p>
+ 
+<p>Amazon.com, Inc. and its controlled US subsidiaries are participants in the Safe Harbour programme developed by the US Department of Commerce and the European Union. These Amazon Group companies have certified that they adhere to the Safe Harbour Privacy Principles agreed upon by the US and the EU. For more information about the Safe Harbour and to view these Amazon Group companies' certification, visit the <a href="https://www.export.gov/safeharbor" target="_blank">U.S. Department of Commerce's Safe Harbour</a> website. If you would like to contact Amazon directly about the Safe Harbour programme, please send an e-mail to <a href="mailto:safeharbor@amazon.com">safeharbor@amazon.com</a>.</p>
+ 
+	 
+ 
+	 
+<div id="GUID-76787A77-872C-4019-8BD7-03C8AC3812EB__SECTION_132E2551D08240A6AABB9F35C15C7810">
+<a name="GUID-76787A77-872C-4019-8BD7-03C8AC3812EB__SECTION_132E2551D08240A6AABB9F35C15C7810"></a>
+</div>
+<h2>What Personal Information About Customers Does Amazon.co.uk Gather?</h2>
+<p>The information we learn from customers helps us personalise and continually improve your shopping experience at Amazon.co.uk. We use the information to handle orders, deliver products and services, process payments, communicate with you about orders, products, services and promotional offers, update our records and generally maintain your accounts with us, display content such as wish lists and customer reviews and recommend merchandise and services that might be of interest to you. We also use this information to improve our store and platform, prevent or detect fraud or abuses of our website and enable third parties to carry out technical, logistical or other functions on our behalf.</p>
+ 
+<p>Here are the types of information we gather: 
+		</p><ul id="GUID-76787A77-872C-4019-8BD7-03C8AC3812EB__UL_E12E939F3BA74F4EB56C2577F50BA78F">
+<li>
+<span class="a-list-item"><strong>Information You Give Us:</strong> we receive and store any information you enter on our website or give us in any other way. <a href="#GUID-76787A77-872C-4019-8BD7-03C8AC3812EB__SECTION_22160257376047E78334D565CD73852D">Click here</a> to see examples of what we collect. You can choose not to provide certain information but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customising future shopping for you, improving our stores, and communicating with you. </span>
+</li>
 
-<p><a href="#Top">Back to
-  top</a><br>
-  <br>
-<a name="h"></a><b><span class="lftnavorange">What Choices Do I Have?</span></b><br>
-</p>
-<ul>
-<li>As discussed above, you can always choose not to provide information, even though it might be needed to make a purchase or to take advantage of such Amazon.co.uk features as <a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=200039420">Your Profile</a>, <a href="/gp/help/customer/display.html?nodeId=748390">Wish Lists</a>, <a href="/gp/help/customer/display.html?nodeId=200267590">Customer Reviews</a> and <a href="/gp/help/customer/display.html?nodeId=200182130">Amazon Prime</a>.</li>
+<li>
+<span class="a-list-item"><strong>Automatic Information:</strong> we receive and store certain types of information whenever you interact with us. For example, like many websites, we use "cookies" and we obtain certain types of information when your web browser accesses Amazon.co.uk or advertisements and other content served by or on behalf of Amazon.co.uk on other websites. <a href="#GUID-76787A77-872C-4019-8BD7-03C8AC3812EB__SECTION_22160257376047E78334D565CD73852D">Click here</a> to see examples of the information we receive. </span>
+</li>
 
-<li>You can add or update certain information on pages such as those referenced in the <a href="#g">Which Information Can I Access?</a> section. When you update information, we usually keep a copy of the previous version for our records. </li>
+<li>
+<span class="a-list-item"><strong>Mobile:</strong> When you download or use <a href="https://www.amazon.co.uk/gp/feature.html?ie=UTF8&amp;docId=1000501923" target="_blank"> apps created by Amazon</a> or its subsidiaries and, where applicable, have requested or consented to location services, we may receive information about your location and your mobile device, including a unique identifier for your device. We may use this information to provide you with location-based services, such as search results, and other personalised content. Most mobile devices allow you to turn off location services. For more information about how to do this, <a href="#GUID-76787A77-872C-4019-8BD7-03C8AC3812EB__GUID-A5BCFFDB-DC07-44FC-824C-91C0306D5771">click here</a>. </span>
+</li>
 
-<li>If you do not want to receive e-mail or other mail from us, please adjust your <a href="https://www.amazon.co.uk/ap/signin?_encoding=UTF8&amp;openid.assoc_handle=gbflex&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.mode=checkid_setup&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&amp;openid.pape.max_auth_age=900&amp;openid.return_to=https%3A%2F%2Fwww.amazon.co.uk%2Fgp%2Fgss%2Fccp%3Fie%3DUTF8%26ref_%3Dya__21">Customer Communication Preferences</a>. (If you do not want to receive <a href="/gp/help/customer/display.html/026-3166383-1414827?nodeId=1040616">Conditions of Use and Sale</a> and other legal notices from us, such as this Privacy Notice, those notices will still govern your use of Amazon.co.uk and orders placed with Amazon.co.uk, and it is your responsibility to review them for changes.) </li>
+<li>
+<span class="a-list-item"><strong>E-mail Communications:</strong> to help us make e-mails more useful and interesting, we often receive a confirmation when you open e-mail from Amazon.co.uk if your computer supports such capabilities. We also compare our customer list to lists received from other companies in an effort to avoid sending unnecessary messages to our customers. If you do not want to receive e-mail or other mail from us, please adjust your <a href="https://www.amazon.co.uk/gp/gss/ccp" target="_blank"> Customer Communication Preferences</a>. </span>
+</li>
 
-
-<li>If you do not want us to use personal information that we gather to allow third parties to personalise advertisements we display to you, please adjust your  <a href="https://www.amazon.co.uk/gp/advertising/oo">Advertising Preferences</a>. </li>
-
-<li>The Help feature on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie or how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the website of its manufacturer. However, because cookies allow you to take advantage of some of Amazon.co.uk's essential features, we recommend that you leave them turned on. For instance, if you block or otherwise reject our cookies, you will not be able to add items to your Shopping Basket, proceed to Checkout, or use any Amazon.co.uk products and services that require you to Sign in.</li>
+<li>
+<span class="a-list-item"><strong>Information From Other Sources:</strong> we might receive information about you from other sources and add it to our account information. <a href="#GUID-76787A77-872C-4019-8BD7-03C8AC3812EB__SECTION_22160257376047E78334D565CD73852D">Click here</a> to see examples of the information we receive. </span>
+</li>
+ 
+		
 </ul>
-<p><a href="#Top">Back to
-  top</a><br>
-  <br>
-  <a name="i"></a><b><span class="lftnavorange">Are Children Allowed to Use Amazon.co.uk?</span></b><br>
-</p>
-<p>Amazon.co.uk does not sell products for purchase by children. We sell children's products for purchase by adults. If you are under 18, you may use Amazon.co.uk only with the involvement of a parent or guardian.</p>
-<p><a href="#Top">Back to
-  top</a><br>
-  <br>
-  <a name="k"></a></p><p><strong>Conditions of Use, Notices, and Revisions</strong></p>
-<p>If you have any concern about privacy at Amazon.co.uk, please <a href="/gp/help/contact-us/general-questions.html">e-mail us</a> with a thorough description and we will try to resolve the
-  issue for you.</p>
-<p>Our business changes constantly and our Privacy Notice and the <a href="/gp/help/customer/display.html/026-3166383-1414827?nodeId=1040616">Conditions of Use and Sale</a> will change also. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our website frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers. </p>
-<p><b>Related Practices and
-  Information:</b></p>
-<ul>
-  <li><a href="/gp/help/customer/display.html/026-3166383-1414827?nodeId=1040616">Conditions
-    of
-    Use and Sale</a></li>
-  <li><a href="/gp/forum/content/db-guidelines.html/">Discussion
-    Boards</a></li>
-  <li><a href="/gp/help/customer/display.html?nodeId=471044">Help
-    Desk</a></li>
-  <li><a href="https://www.amazon.co.uk/gp/css/order-history?ie=UTF8&amp;ref_=ya_orders&amp;">Most Recent
-    Purchases</a></li>
-  <li><a href="/gp/help/customer/display.html?nodeId=200039740">Your Profile
-    and Community Guidelines</a> </li>
+
+<p></p>
+ 
+	 
+ 
+	 
+<div id="GUID-76787A77-872C-4019-8BD7-03C8AC3812EB__SECTION_28547C20192449569FDAAF08E2E42BA3">
+<a name="GUID-76787A77-872C-4019-8BD7-03C8AC3812EB__SECTION_28547C20192449569FDAAF08E2E42BA3"></a>
+</div>
+<h2>What About Cookies?</h2>
+<p>To enable our systems to recognise your device and to provide features to you, we use cookies. For more information about cookies and how we use them, please read our <a href="https://www.amazon.co.uk/gp/BIT/InternetBasedAds" target="_blank">Cookies &amp; Internet Advertising policy</a>. </p>
+ 
+	 
+ 
+	 
+<div id="GUID-76787A77-872C-4019-8BD7-03C8AC3812EB__SECTION_5E308B5A0A524A979CB1472572F45223">
+<a name="GUID-76787A77-872C-4019-8BD7-03C8AC3812EB__SECTION_5E308B5A0A524A979CB1472572F45223"></a>
+</div>
+<h2>Does Amazon.co.uk Share the Information it Receives?</h2>
+<p>Information about our customers is an important part of our business and we are not in the business of selling it to others. Amazon.co.uk shares customer information only as described below and with Amazon.com, Inc. and the subsidiaries which Amazon.com, Inc., controls and that are either subject to this Privacy Notice or follow practices at least as protective as those described in this Privacy Notice. 
+		</p><ul id="GUID-76787A77-872C-4019-8BD7-03C8AC3812EB__UL_94152BD5A3F146DDA54BC8DA8878CA5E">
+<li>
+<span class="a-list-item"><strong>Affiliated Businesses We Do Not Control:</strong> We work closely with affiliated businesses. In some cases, such as Marketplace sellers, these businesses operate stores at Amazon.co.uk or sell offerings to you at Amazon.co.uk. In other cases, we operate stores, provide services or sell product lines jointly with or on behalf of these businesses. <a href="#GUID-76787A77-872C-4019-8BD7-03C8AC3812EB__SECTION_22160257376047E78334D565CD73852D">Click here</a> for some examples of co-branded and joint offerings. You can tell when a third party is involved in your transactions and we share customer information related to those transactions with that third party. </span>
+</li>
+
+<li>
+<span class="a-list-item"><strong>Third Party Service Providers:</strong> We employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analysing data, providing marketing assistance, providing search results and links (including paid listings and links), processing credit card payments and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes. Further, they must process the personal information in accordance with this Privacy Notice and as permitted by applicable data protection laws. </span>
+</li>
+
+<li>
+<span class="a-list-item"><strong>Promotional Offers:</strong> Sometimes we send offers to selected groups of Amazon.co.uk customers on behalf of other businesses. When we do this, we do not give that business your name and address. If you do not want to receive such offers, please adjust your <a href="https://www.amazon.co.uk/gp/gss/ccp" target="_blank"> Customer Communication Preferences</a>. </span>
+</li>
+
+<li>
+<span class="a-list-item"><strong>Business Transfers:</strong> As we continue to develop our business, we might sell or buy stores, subsidiaries or business units. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Notice (unless, of course, the customer consents otherwise). Also, in the unlikely event that Amazon.com, Inc. or substantially all of its assets are acquired, customer information will of course be one of the transferred assets. </span>
+</li>
+
+<li>
+<span class="a-list-item"><strong>Protection of Amazon.co.uk and Others:</strong> We release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our Conditions of Use and other agreements; or protect the rights, property or safety of Amazon.co.uk, our users or others. This includes exchanging information with other companies and organisations for fraud protection and credit risk reduction. Obviously, however, this does not include selling, renting, sharing or otherwise disclosing personally identifiable information from customers for commercial purposes in a way that is contrary to the commitments made in this Privacy Notice. </span>
+</li>
+
+<li>
+<span class="a-list-item"><strong>With Your Consent:</strong> other than as set out above, you will receive notice when information about you might go to third parties and you will have an opportunity to choose not to share the information. </span>
+</li>
+ 
+		
 </ul>
-<p><a href="#Top">Back to
-  top</a><br>
-  <br>
-  <a name="l"></a><b><span class="lftnavorange">Examples of Information
-    Collected</span></b><br>
+
+<p></p>
+
+<p>Whenever we transfer personal information to countries outside of the European Economic Area in the course of sharing information as set out above, we will ensure that the information is transferred in accordance with this Privacy Notice and as permitted by the applicable laws on data protection. </p>
+ 
+	 
+ 
+	 
+<div id="GUID-76787A77-872C-4019-8BD7-03C8AC3812EB__SECTION_2C5606B8189649CEA0E1C8B51EBCF0AB">
+<a name="GUID-76787A77-872C-4019-8BD7-03C8AC3812EB__SECTION_2C5606B8189649CEA0E1C8B51EBCF0AB"></a>
+</div>
+<h2>How Secure is Information About Me?</h2>
+<p> 
+		
+</p><ul id="GUID-76787A77-872C-4019-8BD7-03C8AC3812EB__UL_4E7C8A89657E403482C9F8C9FE193310">
+<li>
+<span class="a-list-item">We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. </span>
+</li>
+
+<li>
+<span class="a-list-item">We reveal only the last four digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing. </span>
+</li>
+
+<li>
+<span class="a-list-item">We maintain physical, electronic and procedural safeguards in connection with the collection, storage and disclosure of personally identifiable customer information. Our security procedures mean that we may occasionally request proof of identity before we disclose personal information to you. </span>
+</li>
+
+<li>
+<span class="a-list-item">It is important for you to protect against unauthorised access to your password and to your computer. Be sure to sign off when you finish using a shared computer. <a href="/gp/help/customer/display.html?nodeId=1093784" target="_blank"> Click here</a> for more information on how to sign off. </span>
+</li>
+ 
+		
+</ul>
+
+<p></p>
+ 
+	 
+ 
+	 
+<div id="GUID-76787A77-872C-4019-8BD7-03C8AC3812EB__SECTION_DCBB450DB9DB40738A35416542DFE138">
+<a name="GUID-76787A77-872C-4019-8BD7-03C8AC3812EB__SECTION_DCBB450DB9DB40738A35416542DFE138"></a>
+</div>
+<h2>What About Third-Party Advertisers and Links to Other Websites?</h2>
+<p>Our site may include third-party advertising and links to other Web sites. For more information about third-party advertising at Amazon.co.uk, including personalised or interest-based ads, please read our <a href="https://www.amazon.co.uk/gp/BIT/InternetBasedAds" target="_blank">Cookies &amp; Internet Advertising policy</a>. </p>
+ 
+	 
+ 
+	 
+<div id="GUID-76787A77-872C-4019-8BD7-03C8AC3812EB__SECTION_6B0CF7FB277A4B7D9F5012054476A3C2">
+<a name="GUID-76787A77-872C-4019-8BD7-03C8AC3812EB__SECTION_6B0CF7FB277A4B7D9F5012054476A3C2"></a>
+</div>
+<h2>What Information Can I Access?</h2>
+<p>Amazon.co.uk gives you access to a broad range of information about your account and your interactions with Amazon.co.uk for the limited purpose of viewing and, in certain cases, updating that information. <a href="#GUID-76787A77-872C-4019-8BD7-03C8AC3812EB__SECTION_22160257376047E78334D565CD73852D">Click here</a> to see some examples. This list will change as our website evolves. </p>
+ 
+	 
+ 
+	 
+<div id="GUID-76787A77-872C-4019-8BD7-03C8AC3812EB__SECTION_392EAF4C83FD47A2A360EF81917F7FBE">
+<a name="GUID-76787A77-872C-4019-8BD7-03C8AC3812EB__SECTION_392EAF4C83FD47A2A360EF81917F7FBE"></a>
+</div>
+<h2>What Choices Do I Have?</h2>
+<p> 
+		
+</p><ul id="GUID-76787A77-872C-4019-8BD7-03C8AC3812EB__UL_9782393634574D7F9EF516B7A85B819A">
+<li>
+<span class="a-list-item">As discussed above, you can always choose not to provide information, even though it might be needed to make a purchase or to take advantage of such Amazon.co.uk features as <a href="/gp/help/customer/display.html?nodeId=200039420" target="_blank"> Your Profile</a>, <a href="/gp/help/customer/display.html?nodeId=748390" target="_blank"> Wish Lists</a>, <a href="/gp/help/customer/display.html?nodeId=201468010" target="_blank"> Customer Reviews</a> and <a href="/gp/help/customer/display.html?nodeId=200182130" target="_blank"> Amazon Prime</a>. </span>
+</li>
+
+<li>
+<span class="a-list-item">You can add or update certain information on pages such as those referenced in the <a href="#GUID-76787A77-872C-4019-8BD7-03C8AC3812EB__SECTION_6B0CF7FB277A4B7D9F5012054476A3C2">Which Information Can I Access?</a> section. When you update information, we usually keep a copy of the previous version for our records. </span>
+</li>
+
+<li>
+<span class="a-list-item">If you don't want to receive e-mail or other mail from us, please adjust your <a href="https://www.amazon.co.uk/gp/gss/ccp" target="_blank"> Customer Communication Preferences</a>. (If you do not want to receive <a href="/gp/help/customer/display.html?nodeId=1040616" target="_blank"> Conditions of Use and Sale</a> and other legal notices from us, such as this Privacy Notice, those notices will still govern your use of Amazon.co.uk and orders placed with Amazon.co.uk, and it is your responsibility to review them for changes.) </span>
+</li>
+
+<li>
+<span class="a-list-item">If you don't want us to use personal information that we gather to allow third parties to personalise advertisements we display to you, please adjust your <a href="https://www.amazon.co.uk/gp/advertising/oo" target="_blank">Advertising Preferences</a>. </span>
+</li>
+
+<li>
+<span class="a-list-item">The Help feature on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie or how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the website of its manufacturer. However, because cookies allow you to take advantage of some of Amazon.co.uk's essential features, we recommend that you leave them turned on. For instance, if you block or otherwise reject our cookies, you will not be able to add items to your Shopping Basket, proceed to Checkout, or use any Amazon.co.uk products and services that require you to Sign in. </span>
+</li>
+ 
+		
+</ul>
+
+<p></p>
+ 
+	 
+ 
+	 
+<div id="GUID-76787A77-872C-4019-8BD7-03C8AC3812EB__SECTION_34D09FECEE2746B2B8CB0ED6CB4BC147">
+<a name="GUID-76787A77-872C-4019-8BD7-03C8AC3812EB__SECTION_34D09FECEE2746B2B8CB0ED6CB4BC147"></a>
+</div>
+<h2>Are Children Allowed to Use Amazon.co.uk?</h2>
+<p>Amazon.co.uk doesn't sell products for purchase by children. We sell children's products for purchase by adults. If you're under 18, you may use Amazon.co.uk only with the involvement of a parent or guardian. </p>
+ 
+	 
+ 
+	 
+<div id="GUID-76787A77-872C-4019-8BD7-03C8AC3812EB__SECTION_170A673EEFC640B0B3FB12E079D41FD2">
+<a name="GUID-76787A77-872C-4019-8BD7-03C8AC3812EB__SECTION_170A673EEFC640B0B3FB12E079D41FD2"></a>
+</div>
+<h2>Conditions of Use, Notices &amp; Revisions</h2>
+<p>If you have any concern about privacy at Amazon.co.uk, please <a href="https://www.amazon.co.uk/gp/help/contact-us/general-questions.html" target="_blank"> e-mail us</a> with a thorough description and we will try to resolve the issue for you.</p>
+ 
+<p>Our business changes constantly and our Privacy Notice and the <a href="/gp/help/customer/display.html?nodeId=1040616" target="_blank"> Conditions of Use and Sale</a> will change also. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our website frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers.</p>
+ 
+	 
+ 
+	 
+<div id="GUID-76787A77-872C-4019-8BD7-03C8AC3812EB__SECTION_577CCE67E3854CDBBE289DC342CFA191">
+<a name="GUID-76787A77-872C-4019-8BD7-03C8AC3812EB__SECTION_577CCE67E3854CDBBE289DC342CFA191"></a>
+</div>
+<h2>Related Practices &amp; Information</h2>
+<p> 
+		
+</p><ul id="GUID-76787A77-872C-4019-8BD7-03C8AC3812EB__UL_D1B82DF0E1784182A2D3BE25E5B8D31C">
+<li>
+<span class="a-list-item"><a href="/gp/help/customer/display.html?nodeId=1040616" target="_blank"> Conditions of Use and Sale</a></span>
+</li>
+
+<li>
+<span class="a-list-item"><a href="https://www.amazon.co.uk/gp/forum/content/db-guidelines.html/" target="_blank">Discussion Boards</a></span>
+</li>
+
+<li>
+<span class="a-list-item"><a href="/gp/help/customer/display.html?nodeId=471044" target="_blank">Help Desk</a></span>
+</li>
+
+<li>
+<span class="a-list-item"><a href="https://www.amazon.co.uk/gp/css/order-history" target="_blank">Most Recent Purchases</a></span>
+</li>
+
+<li>
+<span class="a-list-item"><a href="/gp/help/customer/display.html?nodeId=200039740" target="_blank">Your Profile and Community Guidelines</a></span>
+</li>
+ 
+		
+</ul>
+
+<p></p>
+ 
+	 
+ 
+	 
+<div id="GUID-76787A77-872C-4019-8BD7-03C8AC3812EB__SECTION_22160257376047E78334D565CD73852D">
+<a name="GUID-76787A77-872C-4019-8BD7-03C8AC3812EB__SECTION_22160257376047E78334D565CD73852D"></a>
+</div>
+<h2>Examples of Information Collected</h2>
+<p>
+<strong>Information You Give Us</strong>
 </p>
-<p><b>Information You Give Us</b></p>
-<p>You provide most such information when you search, buy, post, participate in a contest or questionnaire or communicate with customer service. For example, you provide information when you: search for a product; place an order through Amazon.co.uk or one of our third-party sellers; provide information in <a href="https://www.amazon.co.uk/gp/css/homepage/">Your Account</a> (and you might have more than one if you have used more than one e-mail address when shopping with us) or your <a href="https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=200039420">Your Profile</a>; communicate with us by phone, e-mail or otherwise; complete a questionnaire or a contest entry form; use our services; compile <a href="https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=748390">Wish Lists</a> or other gift registries; participate in Discussion Boards or other community features; provide and rate <a href="https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=1092614">Reviews</a>; specify a Special Occasion Reminder; and employ Product Availability Alerts, such as Available to Order Notifications. As a result of those actions, you might supply us with such information as: your name; address and phone number; credit card information; people to whom purchases have been dispatched (including addresses and phone numbers); people (with addresses and phone numbers) listed in <a href="https://www.amazon.co.uk/gp/help/customer/display.html/026-3166383-1414827?nodeId=492872">1-Click</a> settings; e-mail  addresses of your friends and other people; content of reviews and e-mails to us; personal description and photograph in your <a href="https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=200039420">Your Profile</a>; and financial information.</p>
 
-<p><a id="auto" name="auto"></a><b>Automatic Information</b></p>
-<p>Examples of the information we collect and analyse include: the Internet protocol (IP) address used to connect your computer to the Internet; login; e-mail address; password; computer and connection information such as browser type and version; and time zone setting, browser plug-in types and versions; operating system and platform; purchase history, which we sometimes aggregate with similar information from other customers to create features such as Best Sellers; the full Uniform Resource Locators (URL) clickstream to, through and from our website (including date and time); cookie number; products you viewed or searched for; and any phone number used to call our customer service number. We may also use browser data such as cookies, Flash cookies (also known as Flash Local Shared Objects), or similar data on certain parts of our website for fraud prevention and other purposes. During some visits we may use software tools such as JavaScript to measure and collect session information, including page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page.We may also collect technical information to help  us identify your device for fraud prevention and diagnostic purposes.</p>
+<p>You provide most such information when you search, buy, post, participate in a contest or questionnaire or communicate with customer service. For example, you provide information when you: search for a product; place an order through Amazon.co.uk or one of our third-party sellers; provide information in <a href="https://www.amazon.co.uk/youraccount" target="_blank">Your Account</a> (and you might have more than one if you have used more than one e-mail address when shopping with us) or your <a href="https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=200039420" target="_blank"> Your Profile</a>; communicate with us by phone, e-mail or otherwise; complete a questionnaire or a contest entry form; use our services; compile <a href="/gp/help/customer/display.html?nodeId=748390" target="_blank"> Wish Lists</a> or other gift registries; participate in Discussion Boards or other community features; provide and rate <a href="/gp/help/customer/display.html?nodeId=201461120" target="_blank"> Reviews</a>; specify a Special Occasion Reminder; and employ Product Availability Alerts, such as Available to Order Notifications. As a result of those actions, you might supply us with such information as: your name; address and phone number; credit card information; people to whom purchases have been dispatched (including addresses and phone numbers); people (with addresses and phone numbers) listed in <a href="/gp/help/customer/display.html?nodeId=492872" target="_blank"> 1-Click</a> settings; e-mail addresses of your friends and other people; content of reviews and e-mails to us; personal description and photograph in your <a href="/gp/help/customer/display.html?nodeId=200039420" target="_blank"> Your Profile</a>; and financial information. </p>
 
-<a name="mobile"></a>
-<p><strong>Mobile</strong></p>
-<p>Most mobile devices provide users with the  ability to disable location services. Most likely, these controls are located  in the device's settings menu. For information about specific devices, <a href="https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=201020350">click here</a>. If you have questions about how to disable your device's location services, we recommend you contact your mobile service carrier or your device manufacturer.  </p>
+<p>
+<strong>Automatic Information</strong>
+</p>
+ 
+<p>Examples of the information we collect and analyse include: the Internet protocol (IP) address used to connect your computer to the Internet; login; e-mail address; password; computer and connection information such as browser type and version; and time zone setting, browser plug-in types and versions; operating system and platform; purchase history, which we sometimes aggregate with similar information from other customers to create features such as Best Sellers; the full Uniform Resource Locators (URL) clickstream to, through and from our website (including date and time); cookie number; products you viewed or searched for; and any phone number used to call our customer service number. We may also use browser data such as cookies, Flash cookies (also known as Flash Local Shared Objects), or similar data on certain parts of our website for fraud prevention and other purposes. During some visits we may use software tools such as JavaScript to measure and collect session information, including page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), and methods used to browse away from the page.We may also collect technical information to help us identify your device for fraud prevention and diagnostic purposes. </p>
 
-<p><a name="lbs"></a></p>
-<p><b>Information from Other Sources</b></p>
-<p>Examples of information we receive from other sources include: updated delivery and address information from our carriers or other third parties, which we use to correct our records and deliver your next purchase or communication more easily; account information, purchase or redemption information and page-view information from some merchants with which we operate co-branded businesses or for which we provide technical, fulfillment, advertising or other services; search term and search result information from some searches conducted through the Web search features offered by our  subsidiary, Alexa Internet; search results and links, including paid listings (such as Sponsored Links); and credit history information from credit bureaus, which we use to help prevent and detect fraud and to offer certain credit or financial services to some customers.</p>
+<p>
+<strong>Mobile</strong>
+</p>
 
-<p><b>Co-Branded and Joint Offerings</b></p>
-<p>We may from time to time offer joint or co-branded products and services.</p>
+<p>Most mobile devices provide users with the ability to disable location services. Most likely, these controls are located in the device's settings menu. For information about specific devices, <a href="/gp/help/customer/display.html?nodeId=201311040" target="_blank"> click here</a>. If you have questions about how to disable your device's location services, we recommend you contact your mobile service carrier or your device manufacturer. </p>
 
-<p><a name="z"></a></p>
-<p><b>Information You Can
-  Access</b></p>
-<p>Examples of information you can access easily at Amazon.co.uk include: up-to-date information regarding recent orders; personally identifiable information (including name, e-mail, password, communications and personalised advertising preferences, address book and 1-Click settings); payment settings (including credit-card information and gift certificate, gift card and cheque balances); e-mail notification settings (including Product Availability Alerts,  Delivers, Special Occasion Reminders, and newsletters); recommendations (including Recommended for You and Improve Your Recommendations); shopping lists and gift registries (including Wish Lists and Baby and Wedding Registries) Seller accounts and Your Profile (including your product Reviews, Recommendations, Listmania lists, Reminders and personal profile).</p>
-<a href="#Top">Back to
-top</a><br>
-<br><span class="focus cs-none">Amazon.co.uk knows that you care how information about you is
+<p>
+<strong>Information From Other Sources</strong>
+</p>
+
+<p>Examples of information we receive from other sources include: updated delivery and address information from our carriers or other third parties, which we use to correct our records and deliver your next purchase or communication more easily; account information, purchase or redemption information and page-view information from some merchants with which we operate co-branded businesses or for which we provide technical, fulfillment, advertising or other services; search term and search result information from some searches conducted through the Web search features offered by our subsidiary, Alexa Internet; search results and links, including paid listings (such as Sponsored Links); and credit history information from credit bureaus, which we use to help prevent and detect fraud and to offer certain credit or financial services to some customers. </p>
+
+<p>
+<strong>Co-Branded &amp; Joint Offerings</strong>
+</p>
+
+<p>We may from time to time offer joint or co-branded products and services. </p>
+
+<p>
+<strong>Information You Can Access</strong>
+</p>
+
+<p>Examples of information you can access easily at Amazon.co.uk include: up-to-date information regarding recent orders; personally identifiable information (including name, e-mail, password, communications and personalised advertising preferences, address book and 1-Click settings); payment settings (including credit-card information and gift certificate, gift card and cheque balances); e-mail notification settings (including Product Availability Alerts, Delivers, Special Occasion Reminders, and newsletters); recommendations (including Recommended for You and Improve Your Recommendations); shopping lists and gift registries (including Wish Lists and Baby and Wedding Registries) Seller accounts and Your Profile (including your product Reviews, Recommendations, Listmania lists, Reminders and personal profile). </p>
+ 
+	 
+ 
+  
+</div>
+ 
+
+<span class="focus cs-none">Amazon.co.uk knows that you care how information about you is
 used
 and shared and we appreciate your trust in us to do that carefully and
 sensibly. This notice describes the privacy policy of Amazon.co.uk.</span>
@@ -1231,7 +1425,7 @@ sensibly. This notice describes the privacy policy of Amazon.co.uk.</span>
         <input name="search" value="true" type="hidden">
         <input name="kwHidden" id="searchPlaceholder" value="true" type="hidden">
        </form>
-       <strong>Ask the Community</strong>: Post your question or search for an answer in our <a href="/gp/help/customer/forums">General Help Forum</a> or <a href="/gp/help/customer/forums/kindleqna">Kindle Help Forum</a>.
+       <strong>Ask the Community</strong>: Post your question or search for an answer in our <a href="/gp/help/customer/forums">General Help Community</a> or <a href="/gp/help/customer/forums/kindleqna">Kindle Help Community</a>.
 </div>
 
 
@@ -1255,26 +1449,7 @@ sensibly. This notice describes the privacy policy of Amazon.co.uk.</span>
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    
 
 
 
@@ -1288,14 +1463,20 @@ sensibly. This notice describes the privacy policy of Amazon.co.uk.</span>
   <span class="cBoxBR"><!-- &nbsp; --></span>
   <span class="cBoxB"><!-- &nbsp; --></span>
   <h2>Self-Service</h2>
-  <div class="cBoxInner"><ul class="cs-list-jq default-actions"><li><a href="https://www.amazon.co.uk/gp/css/order-history">Track Packages or View Orders</a></li><li><a href="/gp/css/account/cards/view.html">Manage your Payment Methods</a></li><li><a href="/gp/css/returns/homepage.html">Return or Replace Items</a></li><li><a href="https://www.amazon.co.uk/ap/cnep?_encoding=UTF8&amp;openid.assoc_handle=gbflex&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.mode=checkid_setup&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&amp;openid.pape.max_auth_age=0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.co.uk%2Fgp%2Fhelp%2Fcustomer%2Fdisplay.html%3Fie%3DUTF8%26ref_%3Dhp_ss_comp_cnep">Change Name, Email, or Password</a></li><li><a href="/gp/css/account/address/view.html">Manage Address Book</a></li><li><a href="/gp/digital/fiona/manage">Manage Your Kindle</a></li><li class="cs-divider-before"><a href="/gp/help/customer/forums/kindleqna">Kindle Help Forum</a></li><li><a href="/gp/help/customer/forums">General Help Forum</a></li><li id="displayLink" class="cs-divider-before"><a href="https://www.amazon.co.uk/gp/help/customer/contact-us?ie=UTF8&amp;nodeId=502584" class="amzn-btn btn-prim-med-ra" unselectable="on"><span>Contact Us</span></a></li></ul></div>
+  <div class="cBoxInner"><ul class="cs-list-jq default-actions"><li class="a-spacing-micro"><a href="https://www.amazon.co.uk/gp/css/order-history">Track Packages or View Orders</a></li><li class="a-spacing-micro"><a href="/gp/css/account/cards/view.html">Manage Your Payment Methods</a></li><li class="a-spacing-micro"><a href="/gp/css/returns/homepage.html">Return or Replace Items</a></li><li class="a-spacing-micro"><a href="https://www.amazon.co.uk/ap/cnep?_encoding=UTF8&amp;openid.assoc_handle=gbflex&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.mode=checkid_setup&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&amp;openid.pape.max_auth_age=0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.co.uk%2Fgp%2Fhelp%2Fcustomer%2Fdisplay.html%3Fie%3DUTF8%26ref_%3Dhp_ss_comp_cnep">Change Name, Email, or Password</a></li><li class="a-spacing-micro"><a href="/gp/css/account/address/view.html">Manage Address Book</a></li><li class="a-spacing-micro"><a href="/gp/digital/fiona/manage">Manage Your Kindle</a></li><li class="a-spacing-micro cs-divider-before"><a href="/gp/help/customer/forums/kindleqna">Kindle Help Community</a></li><li class="a-spacing-micro"><a href="/gp/help/customer/forums">General Help Community</a></li><li id="displayLink" class="a-spacing-micro cs-divider-before"><a href="https://www.amazon.co.uk/gp/help/customer/contact-us?ie=UTF8&amp;nodeId=502584" class="amzn-btn btn-prim-med-ra" unselectable="on"><span>Contact Us</span></a></li></ul></div>
 </div>  
 
 
 
 
 
-
+<script type="text/javascript">
+    amznJQ.onReady('wcs-help-carnac', function() {
+        if (carnacJS) {
+            carnacJS.bindSelfToMouseOverEvent("a.btn-prim-med-ra", "Help_ContactUs_OnMouseOver");
+        }
+    });
+</script>
 
 
 
@@ -1314,7 +1495,7 @@ sensibly. This notice describes the privacy policy of Amazon.co.uk.</span>
   <span class="cBoxBR"><!-- &nbsp; --></span>
   <span class="cBoxB"><!-- &nbsp; --></span>
   <h2>Other Help Sites</h2>
-  <div class="cBoxInner"><ul class="nav-topics"><li><a href="/help/selling?_encoding=UTF8&amp;ref_=hp_other_selling">Sell on Amazon</a></li><li><a href="/gp/redirect.html?location=http://affiliate-program.amazon.co.uk/gp/associates/help/main.html&amp;token=A5D631D12425194440F6DEF90D9043BB9B652B49">Associates Programme</a></li><li><a href="https://www.amazon.co.uk:443/gp/redirect.html?_encoding=UTF8&amp;location=https%3A%2F%2Fdeveloper.amazonwebservices.com%2Fconnect%2Fsupport.jspa%3Fabsolute%3D1&amp;token=00440F90BD9329A4212E9DF8DED8882E382ED5BB">Amazon Web Services</a></li><li><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=3906">Publisher and Vendor Help</a></li></ul></div>
+  <div class="cBoxInner"><ul class="nav-topics"><li class="a-spacing-micro"><a href="/help/selling?_encoding=UTF8&amp;ref_=hp_other_selling">Sell on Amazon</a></li><li class="a-spacing-micro"><a href="/gp/redirect.html?location=http://affiliate-program.amazon.co.uk/gp/associates/help/main.html&amp;token=A5D631D12425194440F6DEF90D9043BB9B652B49">Associates Programme</a></li><li class="a-spacing-micro"><a href="https://www.amazon.co.uk:443/gp/redirect.html?_encoding=UTF8&amp;location=https%3A%2F%2Fdeveloper.amazonwebservices.com%2Fconnect%2Fsupport.jspa%3Fabsolute%3D1&amp;token=00440F90BD9329A4212E9DF8DED8882E382ED5BB">Amazon Web Services</a></li><li class="a-spacing-micro"><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=3906">Publisher and Vendor Help</a></li></ul></div>
 </div>  
 
 
@@ -1351,14 +1532,14 @@ sensibly. This notice describes the privacy policy of Amazon.co.uk.</span>
 
 
 
-<div id="navFooter" role="contentinfo"><table class="navFooterVerticalColumn" cellspacing="0" align="center"><tbody><tr><td class="navFooterLinkCol"><div class="navFooterColHead">Get to Know Us</div><ul><li class="nav_first"><a href="/b?ie=UTF8&amp;node=202594011" class="nav_a">Careers</a></li><li><a href="/gp/redirect.html?_encoding=UTF8&amp;location=http%3A%2F%2Fphx.corporate-ir.net%2Fphoenix.zhtml%3Fc%3D97664%26p%3Dirol-irhome&amp;token=F9CAD8A11D4336B5E0B3C3B089FA066D0A467C1C" class="nav_a">Investor Relations</a></li><li><a href="/gp/redirect.html?_encoding=UTF8&amp;location=http%3A%2F%2Fphx.corporate-ir.net%2Fphoenix.zhtml%3Fc%3D251199%26p%3Dirol-mediaHome&amp;token=F9CAD8A11D4336B5E0B3C3B089FA066D0A467C1C" class="nav_a">Press Releases</a></li><li><a href="/Amazon-and-our-Planet/b?ie=UTF8&amp;node=299737031" class="nav_a">Amazon and Our Planet</a></li><li class="nav_last"><a href="/b?ie=UTF8&amp;node=2492376031" class="nav_a">Amazon in the Community</a></li></ul></td><td class="navFooterColSpacerInner"></td><td class="navFooterLinkCol"><div class="navFooterColHead">Make Money with Us</div><ul><li class="nav_first"><a href="http://services.amazon.co.uk/services/sell-on-amazon/how-it-works/?ld=AZUKSOAFooter" class="nav_a">Sell on Amazon</a></li><li><a href="https://affiliate-program.amazon.co.uk" class="nav_a">Associates Programme</a></li><li><a href="http://services.amazon.co.uk/services/fulfilment-by-amazon/features-benefits/?ld=AZUKFBAFooter" class="nav_a">Fulfilment by Amazon</a></li><li><a href="http://services.amazon.co.uk/services/product-ads/how-it-works.html/ref=footer_pads?ld=AZUKPADSFooter" class="nav_a">Advertise Your Products</a></li><li><a href="http://kdp.amazon.co.uk/" class="nav_a">Independently Publish with Us</a></li><li class="nav_last nav_a_carat"><span class="nav_a_carat">›</span><a href="http://services.amazon.co.uk/services/?ld=AZUKALLFooter" class="nav_a">See all</a></li></ul></td><td class="navFooterColSpacerInner"></td><td class="navFooterLinkCol"><div class="navFooterColHead">Let Us Help You</div><ul><li class="nav_first"><a href="/gp/css/order-history" class="nav_a">Track Packages or View Orders</a></li><li><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=492868" class="nav_a">Delivery Rates &amp; Policies</a></li><li><a href="/gp/subs/primeclub/signup/main.html" class="nav_a">Amazon Prime</a></li><li><a href="/gp/css/returns/homepage.html" class="nav_a">Returns Are Easy</a></li><li><a href="/gp/digital/fiona/manage" class="nav_a">Manage Your Kindle</a></li><li class="nav_last"><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=471044" class="nav_a">Help</a></li></ul></td></tr></tbody></table>
+<div id="navFooter" role="contentinfo"><table class="navFooterVerticalColumn" cellspacing="0" align="center"><tbody><tr><td class="navFooterLinkCol"><div class="navFooterColHead">Get to Know Us</div><ul><li class="nav_first"><a href="/gp/redirect.html?ie=UTF8&amp;location=http%3A%2F%2Fwww.amazon.jobs%2Fgp%2Fredirect.html%3Flocation%3D%252F&amp;token=25117E9F01C8F0AB1D649F37EDDD2DEBE047C3A6" class="nav_a">Careers</a></li><li><a href="/gp/redirect.html?_encoding=UTF8&amp;location=http%3A%2F%2Fphx.corporate-ir.net%2Fphoenix.zhtml%3Fc%3D97664%26p%3Dirol-irhome&amp;token=F9CAD8A11D4336B5E0B3C3B089FA066D0A467C1C" class="nav_a">Investor Relations</a></li><li><a href="/gp/redirect.html?_encoding=UTF8&amp;location=http%3A%2F%2Fphx.corporate-ir.net%2Fphoenix.zhtml%3Fc%3D251199%26p%3Dirol-mediaHome&amp;token=F9CAD8A11D4336B5E0B3C3B089FA066D0A467C1C" class="nav_a">Press Releases</a></li><li><a href="/Amazon-and-our-Planet/b?ie=UTF8&amp;node=299737031" class="nav_a">Amazon and Our Planet</a></li><li class="nav_last"><a href="/b?ie=UTF8&amp;node=2492376031" class="nav_a">Amazon in the Community</a></li></ul></td><td class="navFooterColSpacerInner"></td><td class="navFooterLinkCol"><div class="navFooterColHead">Make Money with Us</div><ul><li class="nav_first"><a href="http://services.amazon.co.uk/services/sell-on-amazon/how-it-works/?ld=AZUKSOAFooter" class="nav_a">Sell on Amazon</a></li><li><a href="https://affiliate-program.amazon.co.uk" class="nav_a">Associates Programme</a></li><li><a href="http://services.amazon.co.uk/services/fulfilment-by-amazon/features-benefits/?ld=AZUKFBAFooter" class="nav_a">Fulfilment by Amazon</a></li><li><a href="http://services.amazon.co.uk/services/product-ads/how-it-works.html/ref=footer_pads?ld=AZUKPADSFooter" class="nav_a">Advertise Your Products</a></li><li><a href="http://kdp.amazon.co.uk/" class="nav_a">Independently Publish with Us</a></li><li class="nav_last nav_a_carat"><span class="nav_a_carat">›</span><a href="http://services.amazon.co.uk/services/?ld=AZUKALLFooter" class="nav_a">See all</a></li></ul></td><td class="navFooterColSpacerInner"></td><td class="navFooterLinkCol"><div class="navFooterColHead">Amazon Payment Methods</div><ul><li class="nav_first"><a href="/compare-credit-card-offers/b?ie=UTF8&amp;node=367529031" class="nav_a">Amazon Money Store</a></li><li><a href="/Gift-Cards-Vouchers-Birthday-Kindle/b?ie=UTF8&amp;node=1571304031" class="nav_a">Gift Cards</a></li><li><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=201253940" class="nav_a">Amazon Currency Converter</a></li><li class="nav_last"><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=201228650" class="nav_a">Payment Methods Help</a></li></ul></td><td class="navFooterColSpacerInner"></td><td class="navFooterLinkCol"><div class="navFooterColHead">Let Us Help You</div><ul><li class="nav_first"><a href="/gp/css/order-history" class="nav_a">Track Packages or View Orders</a></li><li><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=492868" class="nav_a">Delivery Rates &amp; Policies</a></li><li><a href="/gp/subs/primeclub/signup/main.html" class="nav_a">Amazon Prime</a></li><li><a href="/gp/css/returns/homepage.html" class="nav_a">Returns Are Easy</a></li><li><a href="/gp/digital/fiona/manage" class="nav_a">Manage Your Kindle</a></li><li class="nav_last"><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=471044" class="nav_a">Help</a></li></ul></td></tr></tbody></table>
 
 <div class="navFooterLine navFooterLogoLine"><a href="/"><img src="http://g-ecx.images-amazon.com/images/G/02/gno/images/general/navAmazonLogoFooter._V152929188_.gif" width="133" alt="amazon.co.uk" height="28" border="0"></a></div>
 
 <div class="navFooterLine navFooterLinkLine navFooterPadItemLine"><ul><li class="nav_first"><a href="http://www.amazon.com.au" class="nav_a">Australia</a></li><li><a href="http://www.amazon.com.br" class="nav_a">Brazil</a></li><li><a href="http://www.amazon.ca/" class="nav_a">Canada</a></li><li><a href="http://www.amazon.cn/" class="nav_a">China</a></li><li><a href="http://www.amazon.fr/" class="nav_a">France</a></li><li><a href="http://www.amazon.de/" class="nav_a">Germany</a></li><li><a href="http://www.amazon.in/" class="nav_a">India</a></li><li><a href="http://www.amazon.it/" class="nav_a">Italy</a></li><li><a href="http://www.amazon.co.jp/" class="nav_a">Japan</a></li><li><a href="http://www.amazon.com.mx/" class="nav_a">Mexico</a></li><li><a href="http://www.amazon.es/" class="nav_a">Spain</a></li><li class="nav_last"><a href="http://www.amazon.com/" class="nav_a">United States</a></li></ul></div>
 
 <div class="navFooterLine navFooterLinkLine navFooterDescLine"><table cellspacing="0"><tbody><tr>
-<td class="navFooterDescSpacer" style="width: 36.0%"></td>
+<td class="navFooterDescSpacer" style="width: 40.0%"></td>
 <td class="navFooterDescItem"><a href="http://www.abebooks.co.uk" class="nav_a">AbeBooks<br> <span class="navFooterDescText">Rare &amp; Collectible<br> Books</span></a></td>
 <td class="navFooterDescSpacer" style="width: 4%"></td>
 <td class="navFooterDescItem"><a href="http://www.audible.co.uk" class="nav_a">Audible<br> <span class="navFooterDescText">Download<br> Audio Books</span></a></td>
@@ -1367,25 +1548,17 @@ sensibly. This notice describes the privacy policy of Amazon.co.uk.</span>
 <td class="navFooterDescSpacer" style="width: 4%"></td>
 <td class="navFooterDescItem"><a href="http://aws.amazon.com/what-is-cloud-computing/?sc_channel=EL&amp;sc_campaign=UK_amazonfooter" class="nav_a">Amazon Web Services<br> <span class="navFooterDescText">Scalable Cloud<br> Computing Services</span></a></td>
 <td class="navFooterDescSpacer" style="width: 4%"></td>
-<td class="navFooterDescItem"><a href="http://www.bookdepository.co.uk/" class="nav_a">Book Depository<br> <span class="navFooterDescText">Books With Free<br> Delivery Worldwide</span></a></td>
+<td class="navFooterDescItem"><a href="http://www.bookdepository.com/" class="nav_a">Book Depository<br> <span class="navFooterDescText">Books With Free<br> Delivery Worldwide</span></a></td>
 <td class="navFooterDescSpacer" style="width: 4%"></td>
 <td class="navFooterDescItem"><a href="http://www.createspace.co.uk" class="nav_a">CreateSpace<br> <span class="navFooterDescText">Indie Print Publishing<br> Made Easy</span></a></td>
-<td class="navFooterDescSpacer" style="width: 4%"></td>
-<td class="navFooterDescItem"><a href="http://www.dpreview.co.uk" class="nav_a">DPReview<br> <span class="navFooterDescText">Digital<br> Photography</span></a></td>
-<td class="navFooterDescSpacer" style="width: 4%"></td>
-<td class="navFooterDescItem"><a href="http://uk.imdb.com/" class="nav_a">IMDb<br> <span class="navFooterDescText">Movies, TV<br> &amp; Celebrities</span></a></td>
-<td class="navFooterDescSpacer" style="width: 36.0%"></td>
+<td class="navFooterDescSpacer" style="width: 40.0%"></td>
 </tr>
 <tr><td>&nbsp;</td></tr>
 <tr>
-<td class="navFooterDescSpacer" style="width: 36.0%"></td>
-<td class="navFooterDescItem"><a href="http://www.javari.co.uk/f/welcome" class="nav_a">Javari UK<br> <span class="navFooterDescText">Shoes<br> &amp; Handbags</span></a></td>
+<td class="navFooterDescSpacer" style="width: 40.0%"></td>
+<td class="navFooterDescItem"><a href="http://www.dpreview.co.uk" class="nav_a">DPReview<br> <span class="navFooterDescText">Digital<br> Photography</span></a></td>
 <td class="navFooterDescSpacer" style="width: 4%"></td>
-<td class="navFooterDescItem"><a href="http://www.javari.fr" class="nav_a">Javari France<br> <span class="navFooterDescText">Shoes<br> &amp; Handbags</span></a></td>
-<td class="navFooterDescSpacer" style="width: 4%"></td>
-<td class="navFooterDescItem"><a href="http://www.javari.jp" class="nav_a">Javari Japan<br> <span class="navFooterDescText">Shoes<br> &amp; Handbags</span></a></td>
-<td class="navFooterDescSpacer" style="width: 4%"></td>
-<td class="navFooterDescItem"><a href="http://www.javari.de/f/willkommen" class="nav_a">Javari Germany<br> <span class="navFooterDescText">Shoes<br> &amp; Handbags</span></a></td>
+<td class="navFooterDescItem"><a href="http://uk.imdb.com/" class="nav_a">IMDb<br> <span class="navFooterDescText">Movies, TV<br> &amp; Celebrities</span></a></td>
 <td class="navFooterDescSpacer" style="width: 4%"></td>
 <td class="navFooterDescItem"><a href="http://www.junglee.com/" class="nav_a">Junglee.com<br> <span class="navFooterDescText">Shop Online<br> in India</span></a></td>
 <td class="navFooterDescSpacer" style="width: 4%"></td>
@@ -1394,14 +1567,14 @@ sensibly. This notice describes the privacy policy of Amazon.co.uk.</span>
 <td class="navFooterDescItem"><a href="http://www.myhabit.com/" class="nav_a">MYHABIT<br> <span class="navFooterDescText">Designer &amp; Fashion<br> Private Sale Site</span></a></td>
 <td class="navFooterDescSpacer" style="width: 4%"></td>
 <td class="navFooterDescItem"><a href="http://www.shopbop.com/uk/welcome" class="nav_a">Shopbop<br> <span class="navFooterDescText">Designer<br> Fashion Brands</span></a></td>
-<td class="navFooterDescSpacer" style="width: 36.0%"></td>
+<td class="navFooterDescSpacer" style="width: 40.0%"></td>
 </tr>
 </tbody></table></div>
 
-<div class="navFooterLine navFooterLinkLine navFooterPadItemLine"><ul><li class="nav_first"><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=1040616" class="nav_a">Conditions of Use &amp; Sale</a></li><li><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=502584" class="nav_a">Privacy Notice</a></li><li><a href="/cookiesandinternetadvertising" class="nav_a">Cookies &amp; Internet Advertising</a></li><li class="nav_last">© 1996-2013, Amazon.com, Inc. or its affiliates</li></ul></div>
+<div class="navFooterLine navFooterLinkLine navFooterPadItemLine"><ul><li class="nav_first"><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=1040616" class="nav_a">Conditions of Use &amp; Sale</a></li><li><a href="/gp/help/customer/display.html?ie=UTF8&amp;nodeId=502584" class="nav_a">Privacy Notice</a></li><li><a href="/cookiesandinternetadvertising" class="nav_a">Cookies &amp; Internet Advertising</a></li><li class="nav_last">© 1996-2014, Amazon.com, Inc. or its affiliates</li></ul></div>
 </div>
-<!-- whfh-5jFqoKLs6P3CRQDLzu5XU2hDlE6uASclwsWBpY/QRki05owEoqKOKYj/RkEFCouI rid-0W1Q5Z05TA96KG7V8FM6 -->
-<div id="sis_pixel_r2" style="height:1px;"><iframe id="DAsis" src="//aax-eu.amazon-adsystem.com/s/iu3?d=amazon.co.uk&amp;slot=navFooter&amp;a2=0101a1823ca3d5d46ce03d4502edf28f095b20f780c29eddcddebefb2933fa9c1e98&amp;old_oo=0&amp;cb=1388533874206" width="1" height="1" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></div><script>(function(a,b){a.attachEvent?a.attachEvent("onload",b):a.addEventListener&&a.addEventListener("load",b,!1)})(window,function(){setTimeout(function(){var el=document.getElementById("sis_pixel_r2");el&&(el.innerHTML='<iframe id="DAsis" src="//aax-eu.amazon-adsystem.com/s/iu3?d=amazon.co.uk&slot=navFooter&a2=0101a1823ca3d5d46ce03d4502edf28f095b20f780c29eddcddebefb2933fa9c1e98&old_oo=0&cb=1388533874206" width="1" height="1" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>')},300)});</script>
+<!-- whfh-27FhRIC54uQYKzY3RVNEHkt76YS3/Lu+1hYt3REJqud1IGkNYzA7AQibBFzJrHNP rid-1BHHR20SX1T0XJ5SAZZ6 -->
+<div id="sis_pixel_r2" style="height:1px;"><iframe id="DAsis" src="//aax-eu.amazon-adsystem.com/s/iu3?d=amazon.co.uk&amp;slot=navFooter&amp;a2=0101a1823ca3d5d46ce03d4502edf28f095b20f780c29eddcddebefb2933fa9c1e98&amp;old_oo=0&amp;cb=1404153717757" width="1" height="1" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></div><script>(function(a,b){a.attachEvent?a.attachEvent("onload",b):a.addEventListener&&a.addEventListener("load",b,!1)})(window,function(){setTimeout(function(){var el=document.getElementById("sis_pixel_r2");el&&(el.innerHTML='<iframe id="DAsis" src="//aax-eu.amazon-adsystem.com/s/iu3?d=amazon.co.uk&slot=navFooter&a2=0101a1823ca3d5d46ce03d4502edf28f095b20f780c29eddcddebefb2933fa9c1e98&old_oo=0&cb=1404153717757" width="1" height="1" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>')},300)});</script>
 
 
 
@@ -1420,11 +1593,8 @@ sensibly. This notice describes the privacy policy of Amazon.co.uk.</span>
 </div>
 
 
-      
-      
-
-<div style="display: none;">
-
+  <div style="display: none;">
+    
 
 
 
@@ -1436,28 +1606,29 @@ sensibly. This notice describes the privacy policy of Amazon.co.uk.</span>
 <div id="nav_browse_flyout">
   <div id="nav_subcats_wrap" class="nav_browse_wrap">
     <div id="nav_subcats">
-      <div id="nav_subcats_0" data-nav-promo-id="mp3" class="nav_browse_subcat"><ul class="nav_browse_ul nav_browse_cat_ul"><li class="nav_pop_li nav_browse_cat_head">MP3s &amp; Cloud Player</li><li class="nav_first nav_taglined nav_subcat_link nav_pop_li"><a href="/MP3-Music-Download/b?ie=UTF8&amp;node=77197031" class="nav_a nav_item">MP3 Music Store</a><div class="nav_tag">Shop 20 million songs</div></li><li class="nav_taglined nav_subcat_link nav_pop_li"><a href="/gp/dmusic/mp3/player" class="nav_a nav_item">Cloud Player for Web</a><div class="nav_tag">Play from any browser</div></li><li class="nav_taglined nav_subcat_link nav_pop_li"><a href="/cloud-player-android/b?ie=UTF8&amp;node=1947547031" class="nav_a nav_item">Cloud Player for Android</a><div class="nav_tag">For Android phones, and tablets</div></li><li class="nav_taglined nav_subcat_link nav_pop_li"><a href="/cloud-player-iphone-ipod-touch/b?ie=UTF8&amp;node=1947549031" class="nav_a nav_item">Cloud Player for iOS</a><div class="nav_tag">For iPhone and iPod touch</div></li></ul></div>
-<div id="nav_subcats_1" data-nav-promo-id="cloud-drive" class="nav_browse_subcat"><ul class="nav_browse_ul nav_browse_cat_ul"><li class="nav_pop_li nav_browse_cat_head">Amazon Cloud Drive</li><li class="nav_first nav_taglined nav_subcat_link nav_pop_li"><a href="/clouddrive" class="nav_a nav_item" target="_blank">Your Cloud Drive</a><div class="nav_tag">5 GB of free storage</div></li><li class="nav_taglined nav_subcat_link nav_pop_li"><a href="/gp/feature.html?ie=UTF8&amp;docId=1000655873" class="nav_a nav_item">Get the Desktop App</a><div class="nav_tag">For Windows and Mac</div></li><li class="nav_taglined nav_subcat_link nav_pop_li"><a href="/gp/feature.html?ie=UTF8&amp;docId=1000683943" class="nav_a nav_item">Cloud Drive Photos for Android</a><div class="nav_tag">For Android phones and tablets</div></li><li class="nav_taglined nav_subcat_link nav_pop_li"><a href="/gp/feature.html?ie=UTF8&amp;docId=1000721253" class="nav_a nav_item">Cloud Drive Photos for iPhone</a><div class="nav_tag">For iPhone and iPod touch</div></li><li class="nav_subcat_link nav_pop_li"><a href="/gp/feature.html?ie=UTF8&amp;docId=1000655803" class="nav_a nav_item">Learn More About Cloud Drive</a></li></ul></div>
-<div id="nav_subcats_2" data-nav-promo-id="kindle" class="nav_browse_subcat nav_super_cat"><ul class="nav_browse_ul nav_browse_cat_ul"><li class="nav_first nav_pop_li nav_browse_cat_head">Kindle E-readers</li><li class="nav_first nav_taglined nav_subcat_link nav_pop_li"><a href="/dp/B007HCCOD0" class="nav_a nav_item">Kindle</a><div class="nav_tag">Small, light, perfect for reading</div></li><li class="nav_taglined nav_subcat_link nav_pop_li"><a href="/dp/B00CTUKFNQ" class="nav_a nav_item">Kindle Paperwhite</a><div class="nav_tag">The ultimate device for reading</div></li><li class="nav_taglined nav_subcat_link nav_pop_li"><a href="/dp/B00CUVGB6Y" class="nav_a nav_item">Kindle Paperwhite 3G</a><div class="nav_tag">With free 3G wireless</div></li><li class="nav_taglined nav_subcat_link nav_pop_li"><a href="/b?ie=UTF8&amp;node=426479031" class="nav_a nav_item">Kindle Accessories</a><div class="nav_tag">Covers, chargers, sleeves and more</div></li><li class="nav_pop_li nav_browse_cat_head nav_divider_before">Kindle Store</li><li class="nav_first nav_subcat_link nav_pop_li"><a href="/Kindle-eBooks/b?ie=UTF8&amp;node=341689031" class="nav_a nav_item">Kindle Books</a></li><li class="nav_subcat_link nav_pop_li"><a href="/b?ie=UTF8&amp;node=2092391031" class="nav_a nav_item">Newsstand</a></li><li class="nav_taglined nav_subcat_link nav_pop_li"><a href="/gp/feature.html?ie=UTF8&amp;docId=1000659983" class="nav_a nav_item">Kindle Owners' Lending Library</a><div class="nav_tag">With Prime, Kindle device owners read for free</div></li><li class="nav_pop_li nav_browse_cat_head nav_divider_before">Kindle Apps &amp; Resources</li><li class="nav_first nav_taglined nav_subcat_link nav_pop_li"><a href="/gp/kindle/kcp" class="nav_a nav_item">Free Kindle Reading Apps</a><div class="nav_tag">For PC, iPad, iPhone, Android, and more</div></li><li class="nav_subcat_link nav_pop_li"><a href="/gp/digital/fiona/manage" class="nav_a nav_item">Manage Your Kindle</a></li></ul>
+      <div id="nav_subcats_0" data-nav-promo-id="instant-video" class="nav_browse_subcat"><ul class="nav_browse_ul nav_browse_cat_ul"><li class="nav_pop_li nav_browse_cat_head">Amazon Instant Video</li><li class="nav_first nav_taglined nav_subcat_link nav_pop_li"><a href="/Instant-Video/b?ie=UTF8&amp;node=3010085031" class="nav_a nav_item">Amazon Instant Video</a><div class="nav_tag">All movies and TV shows</div></li><li class="nav_taglined nav_subcat_link nav_pop_li"><a href="/Prime-Instant-Video/b?ie=UTF8&amp;node=3280626031" class="nav_a nav_item">Prime Instant Video</a><div class="nav_tag">Unlimited streaming of movies and TV shows</div></li><li class="nav_taglined nav_subcat_link nav_pop_li"><a href="/Shop-Instant-Video/b?ie=UTF8&amp;node=3280627031" class="nav_a nav_item">Shop Instant Video</a><div class="nav_tag">Rent or buy movies and TV shows</div></li><li class="nav_taglined nav_subcat_link nav_pop_li nav_divider_before"><a href="/gp/video/watchlist" class="nav_a nav_item">Your Watchlist</a><div class="nav_tag">Add videos to watch later</div></li><li class="nav_taglined nav_subcat_link nav_pop_li"><a href="/gp/video/library" class="nav_a nav_item">Your Video Library</a><div class="nav_tag">Your purchases and rentals</div></li><li class="nav_taglined nav_subcat_link nav_pop_li"><a href="/gp/feature.html?ie=UTF8&amp;docId=1000778153" class="nav_a nav_item">Watch Anywhere</a><div class="nav_tag">Tablets, game consoles, TVs and more</div></li></ul></div>
+<div id="nav_subcats_1" data-nav-promo-id="mp3" class="nav_browse_subcat"><ul class="nav_browse_ul nav_browse_cat_ul"><li class="nav_pop_li nav_browse_cat_head">Digital Music</li><li class="nav_first nav_taglined nav_subcat_link nav_pop_li"><a href="/MP3-Music-Download/b?ie=UTF8&amp;node=77197031" class="nav_a nav_item">Digital Music Store</a><div class="nav_tag">Shop 30 million songs</div></li><li class="nav_taglined nav_subcat_link nav_pop_li"><a href="/gp/dmusic/mp3/player" class="nav_a nav_item">Your Amazon Music Library</a><div class="nav_tag">Play from any browser</div></li><li class="nav_taglined nav_subcat_link nav_pop_li"><a href="/cloud-player-android/b?ie=UTF8&amp;node=1947547031" class="nav_a nav_item">Amazon Music for Android</a><div class="nav_tag">For Android phones and tablets</div></li><li class="nav_taglined nav_subcat_link nav_pop_li"><a href="/cloud-player-iphone-ipod-touch/b?ie=UTF8&amp;node=1947549031" class="nav_a nav_item">Amazon Music for iOS</a><div class="nav_tag">For iPhone, iPad and iPod touch</div></li></ul></div>
+<div id="nav_subcats_2" data-nav-promo-id="cloud-drive" class="nav_browse_subcat"><ul class="nav_browse_ul nav_browse_cat_ul"><li class="nav_pop_li nav_browse_cat_head">Amazon Cloud Drive</li><li class="nav_first nav_taglined nav_subcat_link nav_pop_li"><a href="/clouddrive" class="nav_a nav_item" target="_blank">Your Cloud Drive</a><div class="nav_tag">5 GB of free storage</div></li><li class="nav_taglined nav_subcat_link nav_pop_li"><a href="/gp/feature.html?ie=UTF8&amp;docId=1000655873" class="nav_a nav_item">Cloud Drive on the Web</a><div class="nav_tag">Protect the Files on Your Computer</div></li><li class="nav_taglined nav_subcat_link nav_pop_li"><a href="/gp/feature.html?ie=UTF8&amp;docId=1000683943" class="nav_a nav_item">Cloud Drive Photos for Android</a><div class="nav_tag">For Android phones and tablets</div></li><li class="nav_taglined nav_subcat_link nav_pop_li"><a href="/gp/feature.html?ie=UTF8&amp;docId=1000721253" class="nav_a nav_item">Cloud Drive Photos for iPhone</a><div class="nav_tag">For iPhone and iPod touch</div></li><li class="nav_subcat_link nav_pop_li"><a href="/gp/feature.html?ie=UTF8&amp;docId=1000655803" class="nav_a nav_item">Learn More About Cloud Drive</a></li></ul></div>
+<div id="nav_subcats_3" data-nav-promo-id="kindle" class="nav_browse_subcat nav_super_cat"><ul class="nav_browse_ul nav_browse_cat_ul"><li class="nav_first nav_pop_li nav_browse_cat_head">Kindle E-readers</li><li class="nav_first nav_taglined nav_subcat_link nav_pop_li"><a href="/dp/B007HCCOD0" class="nav_a nav_item">Kindle</a><div class="nav_tag">Small, light, perfect for reading</div></li><li class="nav_taglined nav_subcat_link nav_pop_li"><a href="/dp/B00JG8GBDM" class="nav_a nav_item">Kindle Paperwhite</a><div class="nav_tag">The ultimate device for reading</div></li><li class="nav_taglined nav_subcat_link nav_pop_li"><a href="/dp/B00JG8GYAW" class="nav_a nav_item">Kindle Paperwhite 3G</a><div class="nav_tag">With free 3G wireless</div></li><li class="nav_taglined nav_subcat_link nav_pop_li"><a href="/b?ie=UTF8&amp;node=426479031" class="nav_a nav_item">Kindle Accessories</a><div class="nav_tag">Covers, chargers, sleeves and more</div></li><li class="nav_pop_li nav_browse_cat_head nav_divider_before">Kindle Store</li><li class="nav_first nav_subcat_link nav_pop_li"><a href="/Kindle-eBooks-books/b?ie=UTF8&amp;node=341689031" class="nav_a nav_item">Kindle Books</a></li><li class="nav_subcat_link nav_pop_li"><a href="/b?ie=UTF8&amp;node=2092391031" class="nav_a nav_item">Newsstand</a></li><li class="nav_taglined nav_subcat_link nav_pop_li"><a href="/gp/feature.html?ie=UTF8&amp;docId=1000659983" class="nav_a nav_item">Kindle Owners' Lending Library</a><div class="nav_tag">With Prime, Kindle device owners read for free</div></li><li class="nav_pop_li nav_browse_cat_head nav_divider_before">Kindle Apps &amp; Resources</li><li class="nav_first nav_taglined nav_subcat_link nav_pop_li"><a href="/gp/kindle/kcp" class="nav_a nav_item">Free Kindle Reading Apps</a><div class="nav_tag">For PC, iPad, iPhone, Android, and more</div></li><li class="nav_taglined nav_subcat_link nav_pop_li"><a href="https://www.amazon.co.uk:443/gp/redirect.html?location=https://read.amazon.co.uk/&amp;token=CC36D68B7D9D82617EDA5FDBB645E0B69A0839F4" class="nav_a nav_item" target="_blank">Kindle Cloud Reader</a><div class="nav_tag">Read your Kindle books in a browser</div></li><li class="nav_subcat_link nav_pop_li"><a href="/gp/digital/fiona/manage" class="nav_a nav_item">Manage Your Kindle</a></li></ul>
 <ul class="nav_browse_ul nav_browse_cat2_ul">
-<li class="nav_pop_li nav_browse_cat_head">Kindle Fire Tablets</li><li class="nav_first nav_taglined nav_subcat_link nav_pop_li"><a href="/dp/B00CTVTJ4Q" class="nav_a nav_item">Kindle Fire HD</a><div class="nav_tag">An HD tablet at a breakthrough price</div></li><li class="nav_taglined nav_subcat_link nav_pop_li"><a href="/dp/B00ANZNBJO" class="nav_a nav_item">Kindle Fire HD 8.9"</a><div class="nav_tag">Large 8.9" HD display</div></li><li class="nav_taglined nav_subcat_link nav_pop_li"><a href="/dp/B00CYR6UTM" class="nav_a nav_item">Kindle Fire HDX</a><div class="nav_tag">7" HDX display, powerful 2.2 GHz processor</div></li><li class="nav_taglined nav_subcat_link nav_pop_li"><a href="/dp/B00D3UMEHQ" class="nav_a nav_item">Kindle Fire HDX 8.9"</a><div class="nav_tag">Astonishingly light, large HDX display</div></li><li class="nav_pop_li nav_browse_cat_head nav_divider_before">Kindle Fire HDX 4G LTE Tablets
+<li class="nav_pop_li nav_browse_cat_head">Kindle Fire Tablets</li><li class="nav_first nav_taglined nav_subcat_link nav_pop_li"><a href="/dp/B00CTVTJ4Q" class="nav_a nav_item">Kindle Fire HD</a><div class="nav_tag">An HD tablet at a breakthrough price</div></li><li class="nav_taglined nav_subcat_link nav_pop_li"><a href="/dp/B00CYR6UTM" class="nav_a nav_item">Kindle Fire HDX</a><div class="nav_tag">7" HDX display, powerful 2.2 GHz processor</div></li><li class="nav_taglined nav_subcat_link nav_pop_li"><a href="/dp/B00D3UMEHQ" class="nav_a nav_item">Kindle Fire HDX 8.9"</a><div class="nav_tag">Astonishingly light, large HDX display</div></li><li class="nav_pop_li nav_browse_cat_head nav_divider_before">Kindle Fire HDX 4G LTE Tablets
 </li><li class="nav_first nav_taglined nav_subcat_link nav_pop_li"><a href="/dp/B00CYR5T3U" class="nav_a nav_item">Kindle Fire HDX 4G LTE</a><div class="nav_tag">7" HDX display with ultra-fast 4G LTE technology</div></li><li class="nav_taglined nav_subcat_link nav_pop_li"><a href="/dp/B00D3WRJPQ" class="nav_a nav_item">Kindle Fire HDX 8.9" 4G LTE</a><div class="nav_tag">Large HDX display with ultra-fast 4G LTE technology</div></li><li class="nav_taglined nav_subcat_link nav_pop_li"><a href="/b?ie=UTF8&amp;node=426479031" class="nav_a nav_item">Kindle Accessories</a><div class="nav_tag">Covers, chargers, stylus, audio and more</div></li></ul></div>
-<div id="nav_subcats_3" data-nav-promo-id="android" class="nav_browse_subcat"><ul class="nav_browse_ul nav_browse_cat_ul"><li class="nav_pop_li nav_browse_cat_head">Appstore for Android</li><li class="nav_first nav_subcat_link nav_pop_li"><a href="/mobile-apps/b?ie=UTF8&amp;node=1661657031" class="nav_a nav_item">Appstore</a></li><li class="nav_subcat_link nav_pop_li"><a href="/b?ie=UTF8&amp;node=1710360031" class="nav_a nav_item">Games</a></li><li class="nav_taglined nav_subcat_link nav_pop_li"><a href="/gp/feature.html?ie=UTF8&amp;docId=1000501923" class="nav_a nav_item">Amazon Apps</a><div class="nav_tag">Kindle, mobile shopping, MP3, and more</div></li><li class="nav_taglined nav_subcat_link nav_pop_li"><a href="/gp/mas/your-account/myapps" class="nav_a nav_item">Your Apps and Devices</a><div class="nav_tag">View your apps and manage your devices</div></li></ul></div>
-<div id="nav_subcats_4" data-nav-promo-id="digital-games-software" data-nav-wt="20095" class="nav_browse_subcat"><ul class="nav_browse_ul nav_browse_cat_ul"><li class="nav_pop_li nav_browse_cat_head">Digital Games &amp; Software</li><li class="nav_first nav_taglined nav_subcat_link nav_pop_li"><a href="/game-downloads/b?ie=UTF8&amp;node=2683270031" class="nav_a nav_item">Digital Games</a><div class="nav_tag">For PC and Mac</div></li><li class="nav_taglined nav_subcat_link nav_pop_li"><a href="/b?ie=UTF8&amp;node=2683322031" class="nav_a nav_item">Free-to-Play Games</a><div class="nav_tag">For PC and Mac</div></li><li class="nav_taglined nav_subcat_link nav_pop_li"><a href="/digital-software-download-PC-Mac/b?ie=UTF8&amp;node=2754780031" class="nav_a nav_item">Digital Software</a><div class="nav_tag">For PC and Mac</div></li><li class="nav_subcat_link nav_pop_li"><a href="/gp/swvgdtt/your-account/manage-downloads.html" class="nav_a nav_item">Your Games &amp; Software Library</a></li></ul></div>
-<div id="nav_subcats_5" data-nav-promo-id="audible-audiobooks" class="nav_browse_subcat"><ul class="nav_browse_ul nav_browse_cat_ul"><li class="nav_pop_li nav_browse_cat_head">Audible Audiobooks</li><li class="nav_first nav_taglined nav_subcat_link nav_pop_li"><a href="/gp/feature.html?ie=UTF8&amp;docId=1000738503" class="nav_a nav_item">Audible Membership</a><div class="nav_tag">First book free when you try Audible</div></li><li class="nav_subcat_link nav_pop_li"><a href="/Audible-Audiobook-Downloads/b?ie=UTF8&amp;node=192376031" class="nav_a nav_item">Audible Audiobooks &amp; More</a></li><li class="nav_subcat_link nav_pop_li"><a href="/b?ie=UTF8&amp;node=2996091031" class="nav_a nav_item">Bestsellers</a></li><li class="nav_subcat_link nav_pop_li"><a href="/b?ie=UTF8&amp;node=3017854031" class="nav_a nav_item">New Releases</a></li><li class="nav_subcat_link nav_pop_li"><a href="/b?ie=UTF8&amp;node=3017819031" class="nav_a nav_item">Listener Favourites</a></li></ul></div>
-<div id="nav_subcats_6" data-nav-promo-id="books" data-nav-wt="24889" class="nav_browse_subcat"><ul class="nav_browse_ul nav_browse_cat_ul"><li class="nav_pop_li nav_browse_cat_head">Books</li><li class="nav_first nav_subcat_link nav_pop_li"><a href="/books-used-books-textbooks/b?ie=UTF8&amp;node=266239" class="nav_a nav_item">Books</a></li><li class="nav_subcat_link nav_pop_li"><a href="/Kindle-eBooks/b?ie=UTF8&amp;node=341689031" class="nav_a nav_item">Kindle Books</a></li><li class="nav_subcat_link nav_pop_li"><a href="/New-Used-Textbooks-Books/b?ie=UTF8&amp;node=13384091" class="nav_a nav_item">Books For Study</a></li><li class="nav_subcat_link nav_pop_li"><a href="/Audio-CDs-Books/b?ie=UTF8&amp;node=267859" class="nav_a nav_item">Audiobooks</a></li></ul></div>
-<div id="nav_subcats_7" data-nav-promo-id="music-games-film-tv" data-nav-wt="24889" class="nav_browse_subcat"><ul class="nav_browse_ul nav_browse_cat_ul"><li class="nav_pop_li nav_browse_cat_head">Movies, TV, Music, Games</li><li class="nav_first nav_subcat_link nav_pop_li"><a href="/music-rock-classical-pop-jazz/b?ie=UTF8&amp;node=229816" class="nav_a nav_item">Music</a></li><li class="nav_subcat_link nav_pop_li"><a href="/MP3-Music-Download/b?ie=UTF8&amp;node=77197031" class="nav_a nav_item">MP3 Downloads</a></li><li class="nav_subcat_link nav_pop_li"><a href="/musical-instruments-DJ/b?ie=UTF8&amp;node=340837031" class="nav_a nav_item">Musical Instruments &amp; DJ</a></li><li class="nav_subcat_link nav_pop_li"><a href="/DVDs-Blu-ray-box-sets/b?ie=UTF8&amp;node=283926" class="nav_a nav_item">Film &amp; TV</a></li><li class="nav_subcat_link nav_pop_li"><a href="/Blu-ray-Movies-TV/b?ie=UTF8&amp;node=293962011" class="nav_a nav_item">Blu-ray</a></li><li class="nav_subcat_link nav_pop_li"><a href="/PC-Video-Games-Consoles-Accessories/b?ie=UTF8&amp;node=300703" class="nav_a nav_item">PC &amp; Video Games</a></li></ul></div>
-<div id="nav_subcats_8" data-nav-promo-id="electronics-computers" class="nav_browse_subcat nav_super_cat"><ul class="nav_browse_ul nav_browse_cat_ul"><li class="nav_first nav_pop_li nav_browse_cat_head">Electronics</li><li class="nav_first nav_subcat_link nav_pop_li"><a href="/digitalcamera-dslr-camcorders-lenses/b?ie=UTF8&amp;node=560834" class="nav_a nav_item">Camera &amp; Photo</a></li><li class="nav_subcat_link nav_pop_li"><a href="/tv-bluray-dvd-home-cinema/b?ie=UTF8&amp;node=560858" class="nav_a nav_item">TV &amp; Home Cinema</a></li><li class="nav_subcat_link nav_pop_li"><a href="/Audio-HiFi/b?ie=UTF8&amp;node=2589474031" class="nav_a nav_item">Audio &amp; HiFi</a></li><li class="nav_subcat_link nav_pop_li"><a href="/satnav-GPS-garmin-tomtom/b?ie=UTF8&amp;node=509908031" class="nav_a nav_item">Sat Nav &amp; Car Electronics</a></li><li class="nav_subcat_link nav_pop_li"><a href="/mobile-phones-smartphones/b?ie=UTF8&amp;node=560820" class="nav_a nav_item">Phones</a></li><li class="nav_subcat_link nav_pop_li"><a href="/b?ie=UTF8&amp;node=1345741031" class="nav_a nav_item">Electronics Accessories</a></li><li class="nav_subcat_link nav_pop_li"><a href="/PC-Video-Games-Consoles-Accessories/b?ie=UTF8&amp;node=300703" class="nav_a nav_item">PC &amp; Video Games</a></li><li class="nav_subcat_link nav_pop_li"><a href="/electronics-camera-mp3-ipod-tv/b?ie=UTF8&amp;node=560798" class="nav_a nav_item">All Electronics</a></li></ul>
+<div id="nav_subcats_4" data-nav-promo-id="android" class="nav_browse_subcat"><ul class="nav_browse_ul nav_browse_cat_ul"><li class="nav_pop_li nav_browse_cat_head">Appstore for Android</li><li class="nav_first nav_subcat_link nav_pop_li"><a href="/mobile-apps/b?ie=UTF8&amp;node=1661657031" class="nav_a nav_item">Appstore</a></li><li class="nav_subcat_link nav_pop_li"><a href="/b?ie=UTF8&amp;node=1710360031" class="nav_a nav_item">Games</a></li><li class="nav_taglined nav_subcat_link nav_pop_li"><a href="/gp/feature.html?ie=UTF8&amp;docId=1000501923" class="nav_a nav_item">Amazon Apps</a><div class="nav_tag">Kindle, mobile shopping, MP3, and more</div></li><li class="nav_taglined nav_subcat_link nav_pop_li"><a href="/gp/mas/your-account/myapps" class="nav_a nav_item">Your Apps and Devices</a><div class="nav_tag">View your apps and manage your devices</div></li></ul></div>
+<div id="nav_subcats_5" data-nav-promo-id="digital-games-software" class="nav_browse_subcat"><ul class="nav_browse_ul nav_browse_cat_ul"><li class="nav_pop_li nav_browse_cat_head">Digital Games &amp; Software</li><li class="nav_first nav_taglined nav_subcat_link nav_pop_li"><a href="/game-downloads/b?ie=UTF8&amp;node=2683270031" class="nav_a nav_item">Digital Games</a><div class="nav_tag">For PC and Mac</div></li><li class="nav_taglined nav_subcat_link nav_pop_li"><a href="/b?ie=UTF8&amp;node=2683322031" class="nav_a nav_item">Free-to-Play Games</a><div class="nav_tag">For PC and Mac</div></li><li class="nav_taglined nav_subcat_link nav_pop_li"><a href="/digital-software-download-PC-Mac/b?ie=UTF8&amp;node=2754780031" class="nav_a nav_item">Digital Software</a><div class="nav_tag">For PC and Mac</div></li><li class="nav_subcat_link nav_pop_li"><a href="/gp/swvgdtt/your-account/manage-downloads.html" class="nav_a nav_item">Your Games &amp; Software Library</a></li></ul></div>
+<div id="nav_subcats_6" data-nav-promo-id="audible-audiobooks" class="nav_browse_subcat"><ul class="nav_browse_ul nav_browse_cat_ul"><li class="nav_pop_li nav_browse_cat_head">Audible Audiobooks</li><li class="nav_first nav_taglined nav_subcat_link nav_pop_li"><a href="/gp/feature.html?ie=UTF8&amp;docId=1000738503" class="nav_a nav_item">Audible Membership</a><div class="nav_tag">First book free when you try Audible</div></li><li class="nav_subcat_link nav_pop_li"><a href="/Audible-Audiobook-Downloads/b?ie=UTF8&amp;node=192376031" class="nav_a nav_item">Audible Audiobooks &amp; More</a></li><li class="nav_subcat_link nav_pop_li"><a href="/b?ie=UTF8&amp;node=2996091031" class="nav_a nav_item">Bestsellers</a></li><li class="nav_subcat_link nav_pop_li"><a href="/b?ie=UTF8&amp;node=3017854031" class="nav_a nav_item">New Releases</a></li><li class="nav_subcat_link nav_pop_li"><a href="/b?ie=UTF8&amp;node=3017819031" class="nav_a nav_item">Listener Favourites</a></li></ul></div>
+<div id="nav_subcats_7" data-nav-promo-id="books" class="nav_browse_subcat"><ul class="nav_browse_ul nav_browse_cat_ul"><li class="nav_pop_li nav_browse_cat_head">Books</li><li class="nav_first nav_subcat_link nav_pop_li"><a href="/books-used-books-textbooks/b?ie=UTF8&amp;node=266239" class="nav_a nav_item">Books</a></li><li class="nav_subcat_link nav_pop_li"><a href="/Kindle-eBooks-books/b?ie=UTF8&amp;node=341689031" class="nav_a nav_item">Kindle Books</a></li><li class="nav_subcat_link nav_pop_li"><a href="/New-Used-Textbooks-Books/b?ie=UTF8&amp;node=13384091" class="nav_a nav_item">Books For Study</a></li><li class="nav_subcat_link nav_pop_li"><a href="/Audio-CDs-Books/b?ie=UTF8&amp;node=267859" class="nav_a nav_item">Audiobooks</a></li><li class="nav_subcat_link nav_pop_li nav_divider_before"><a href="/b?ie=UTF8&amp;node=1766559031" class="nav_a nav_item">Trade In Your Books</a></li></ul></div>
+<div id="nav_subcats_8" data-nav-promo-id="music-games-film-tv" class="nav_browse_subcat"><ul class="nav_browse_ul nav_browse_cat_ul"><li class="nav_pop_li nav_browse_cat_head">Movies, TV, Music, Games</li><li class="nav_first nav_subcat_link nav_pop_li"><a href="/Instant-Video/b?ie=UTF8&amp;node=3010085031" class="nav_a nav_item">Amazon Instant Video</a></li><li class="nav_subcat_link nav_pop_li"><a href="/DVDs-Blu-ray-box-sets/b?ie=UTF8&amp;node=283926" class="nav_a nav_item">DVD &amp; Blu-ray</a></li><li class="nav_subcat_link nav_pop_li"><a href="/LOVEFiLM-By-Post/b?ie=UTF8&amp;node=3054240031" class="nav_a nav_item">LOVEFiLM By Post</a></li><li class="nav_subcat_link nav_pop_li nav_divider_before"><a href="/music-rock-classical-pop-jazz/b?ie=UTF8&amp;node=229816" class="nav_a nav_item">Music</a></li><li class="nav_subcat_link nav_pop_li"><a href="/MP3-Music-Download/b?ie=UTF8&amp;node=77197031" class="nav_a nav_item">Digital Music</a></li><li class="nav_subcat_link nav_pop_li"><a href="/musical-instruments/b?ie=UTF8&amp;node=340837031" class="nav_a nav_item">Musical Instruments &amp; DJ</a></li><li class="nav_subcat_link nav_pop_li nav_divider_before"><a href="/PC-Video-Games-Consoles-Accessories/b?ie=UTF8&amp;node=300703" class="nav_a nav_item">PC &amp; Video Games</a></li><li class="nav_subcat_link nav_pop_li"><a href="/b?ie=UTF8&amp;node=1766560031" class="nav_a nav_item">Trade In Your Games &amp; Consoles</a></li></ul></div>
+<div id="nav_subcats_9" data-nav-promo-id="electronics-computers" data-nav-wt="25685" class="nav_browse_subcat nav_super_cat"><ul class="nav_browse_ul nav_browse_cat_ul"><li class="nav_first nav_pop_li nav_browse_cat_head">Electronics</li><li class="nav_first nav_subcat_link nav_pop_li"><a href="/digitalcamera-dslr-camcorders-lenses/b?ie=UTF8&amp;node=560834" class="nav_a nav_item">Camera &amp; Photo</a></li><li class="nav_subcat_link nav_pop_li"><a href="/tv-bluray-dvd-home-cinema/b?ie=UTF8&amp;node=560858" class="nav_a nav_item">TV &amp; Home Cinema</a></li><li class="nav_subcat_link nav_pop_li"><a href="/Audio-HiFi/b?ie=UTF8&amp;node=2589474031" class="nav_a nav_item">Audio &amp; HiFi</a></li><li class="nav_subcat_link nav_pop_li"><a href="/satnav-GPS-garmin-tomtom/b?ie=UTF8&amp;node=509908031" class="nav_a nav_item">Sat Nav &amp; Car Electronics</a></li><li class="nav_subcat_link nav_pop_li"><a href="/mobile-phones-smartphones/b?ie=UTF8&amp;node=560820" class="nav_a nav_item">Phones</a></li><li class="nav_subcat_link nav_pop_li"><a href="/b?ie=UTF8&amp;node=1345741031" class="nav_a nav_item">Electronics Accessories</a></li><li class="nav_subcat_link nav_pop_li"><a href="/PC-Video-Games-Consoles-Accessories/b?ie=UTF8&amp;node=300703" class="nav_a nav_item">PC &amp; Video Games</a></li><li class="nav_subcat_link nav_pop_li"><a href="/electronics-camera-mp3-ipod-tv/b?ie=UTF8&amp;node=560798" class="nav_a nav_item">All Electronics</a></li></ul>
 <ul class="nav_browse_ul nav_browse_cat2_ul">
-<li class="nav_pop_li nav_browse_cat_head">Computers &amp; Office</li><li class="nav_first nav_subcat_link nav_pop_li"><a href="/laptops/b?ie=UTF8&amp;node=429886031" class="nav_a nav_item">Laptops</a></li><li class="nav_subcat_link nav_pop_li"><a href="/tablet-pc-ipad-android/b?ie=UTF8&amp;node=429892031" class="nav_a nav_item">Tablets</a></li><li class="nav_subcat_link nav_pop_li"><a href="/b?ie=UTF8&amp;node=428654031" class="nav_a nav_item">Computer Accessories</a></li><li class="nav_subcat_link nav_pop_li"><a href="/b?ie=UTF8&amp;node=428655031" class="nav_a nav_item">Computer Components</a></li><li class="nav_subcat_link nav_pop_li"><a href="/software-business-finance-virus-protection/b?ie=UTF8&amp;node=300435" class="nav_a nav_item">Software</a></li><li class="nav_subcat_link nav_pop_li"><a href="/b?ie=UTF8&amp;node=428653031" class="nav_a nav_item">Printers &amp; Ink</a></li><li class="nav_subcat_link nav_pop_li"><a href="/computers-accessories/b?ie=UTF8&amp;node=340831031" class="nav_a nav_item">All Computers &amp; Accessories</a></li><li class="nav_subcat_link nav_pop_li"><a href="/stationery-office-supplies/b?ie=UTF8&amp;node=192413031" class="nav_a nav_item">Stationery &amp; Office Supplies</a></li></ul></div>
-<div id="nav_subcats_9" data-nav-promo-id="home-garden-pets-and-DIY" data-nav-wt="25355" class="nav_browse_subcat nav_super_cat"><ul class="nav_browse_ul nav_browse_cat_ul"><li class="nav_first nav_pop_li nav_browse_cat_head">Home &amp; Garden</li><li class="nav_first nav_subcat_link nav_pop_li"><a href="/Garden-Outdoors-Home/b?ie=UTF8&amp;node=11052671" class="nav_a nav_item">Garden &amp; Outdoors</a></li><li class="nav_subcat_link nav_pop_li"><a href="/Furniture-beds-bedding-clocks-furnishings/b?ie=UTF8&amp;node=10709121" class="nav_a nav_item">Homeware &amp; Furniture</a></li><li class="nav_subcat_link nav_pop_li"><a href="/Kitchen-cookware-glassware-cutlery-pans/b?ie=UTF8&amp;node=11052681" class="nav_a nav_item">Kitchen &amp; Dining</a></li><li class="nav_subcat_link nav_pop_li"><a href="/Kitchen-Appliances-Home/b?ie=UTF8&amp;node=391784011" class="nav_a nav_item">Kitchen &amp; Home Appliances</a></li><li class="nav_subcat_link nav_pop_li"><a href="/Lighting-LED-bulbs-lamps-energy-saving/b?ie=UTF8&amp;node=213077031" class="nav_a nav_item">Lighting</a></li><li class="nav_subcat_link nav_pop_li"><a href="/home-garden-kitchen-appliances-lighting/b?ie=UTF8&amp;node=11052591" class="nav_a nav_item">All Home &amp; Garden</a></li></ul>
+<li class="nav_pop_li nav_browse_cat_head">Computers &amp; Office</li><li class="nav_first nav_subcat_link nav_pop_li"><a href="/laptops/b?ie=UTF8&amp;node=429886031" class="nav_a nav_item">Laptops</a></li><li class="nav_subcat_link nav_pop_li"><a href="/tablet-pc-ipad-android/b?ie=UTF8&amp;node=429892031" class="nav_a nav_item">Tablets</a></li><li class="nav_subcat_link nav_pop_li"><a href="/b?ie=UTF8&amp;node=428654031" class="nav_a nav_item">Computer Accessories</a></li><li class="nav_subcat_link nav_pop_li"><a href="/b?ie=UTF8&amp;node=428655031" class="nav_a nav_item">Computer Components</a></li><li class="nav_subcat_link nav_pop_li"><a href="/software-business-finance-virus-protection/b?ie=UTF8&amp;node=300435" class="nav_a nav_item">Software</a></li><li class="nav_subcat_link nav_pop_li"><a href="/Printers/b?ie=UTF8&amp;node=428653031" class="nav_a nav_item">Printers &amp; Ink</a></li><li class="nav_subcat_link nav_pop_li"><a href="/computers-accessories/b?ie=UTF8&amp;node=340831031" class="nav_a nav_item">All Computers &amp; Accessories</a></li><li class="nav_subcat_link nav_pop_li"><a href="/stationery-office-supplies/b?ie=UTF8&amp;node=192413031" class="nav_a nav_item">Stationery &amp; Office Supplies</a></li></ul></div>
+<div id="nav_subcats_10" data-nav-promo-id="home-garden-pets-and-DIY" class="nav_browse_subcat nav_super_cat"><ul class="nav_browse_ul nav_browse_cat_ul"><li class="nav_first nav_pop_li nav_browse_cat_head">Home &amp; Garden</li><li class="nav_first nav_subcat_link nav_pop_li"><a href="/Garden-Outdoors-Home/b?ie=UTF8&amp;node=11052671" class="nav_a nav_item">Garden &amp; Outdoors</a></li><li class="nav_subcat_link nav_pop_li"><a href="/Furniture-beds-bedding-clocks-furnishings/b?ie=UTF8&amp;node=10709121" class="nav_a nav_item">Homeware &amp; Furniture</a></li><li class="nav_subcat_link nav_pop_li"><a href="/Kitchen-cookware-glassware-cutlery-pans/b?ie=UTF8&amp;node=11052681" class="nav_a nav_item">Kitchen &amp; Dining</a></li><li class="nav_subcat_link nav_pop_li"><a href="/Kitchen-Appliances-Home/b?ie=UTF8&amp;node=391784011" class="nav_a nav_item">Kitchen &amp; Home Appliances</a></li><li class="nav_subcat_link nav_pop_li"><a href="/Washing-Machines-Fridges-Freezers-Ovens-Tumble-Dryers/b?ie=UTF8&amp;node=908798031" class="nav_a nav_item">Large Appliances</a></li><li class="nav_subcat_link nav_pop_li"><a href="/Lighting-LED-bulbs-lamps-energy-saving/b?ie=UTF8&amp;node=213077031" class="nav_a nav_item">Lighting</a></li><li class="nav_subcat_link nav_pop_li"><a href="/home-garden-kitchen-appliances-lighting/b?ie=UTF8&amp;node=11052591" class="nav_a nav_item">All Home &amp; Garden</a></li></ul>
 <ul class="nav_browse_ul nav_browse_cat2_ul">
 <li class="nav_pop_li nav_browse_cat_head">Pets</li><li class="nav_first nav_subcat_link nav_pop_li"><a href="/Pet-Supplies-Food-Animals/b?ie=UTF8&amp;node=340840031" class="nav_a nav_item">Pet Supplies</a></li><li class="nav_pop_li nav_browse_cat_head nav_divider_before">DIY &amp; Tools</li><li class="nav_first nav_subcat_link nav_pop_li"><a href="/DIY-Power-Garden-Tools-Accessories/b?ie=UTF8&amp;node=79903031" class="nav_a nav_item">DIY &amp; Tools</a></li></ul></div>
-<div id="nav_subcats_10" data-nav-promo-id="baby-kids-toys" class="nav_browse_subcat"><ul class="nav_browse_ul nav_browse_cat_ul"><li class="nav_pop_li nav_browse_cat_head">Toys, Children &amp; Baby</li><li class="nav_first nav_subcat_link nav_pop_li"><a href="/toys-games-dolls-puzzles-arts-and-crafts/b?ie=UTF8&amp;node=468292" class="nav_a nav_item">Toys &amp; Games</a></li><li class="nav_subcat_link nav_pop_li"><a href="/Baby-Car-Seats-Prams-Nursery/b?ie=UTF8&amp;node=59624031" class="nav_a nav_item">Baby</a></li><li class="nav_subcat_link nav_pop_li"><a href="/gp/registry/baby" class="nav_a nav_item">Baby Wish List</a></li><li class="nav_taglined nav_subcat_link nav_pop_li"><a href="/gp/family/signup/welcome" class="nav_a nav_item">Amazon Family</a><div class="nav_tag">20% off nappies, delivery benefits and more</div></li></ul></div>
-<div id="nav_subcats_11" data-nav-promo-id="clothes-shoes-watches" class="nav_browse_subcat"><ul class="nav_browse_ul nav_browse_cat_ul"><li class="nav_pop_li nav_browse_cat_head">Clothes, Shoes &amp; Jewellery</li><li class="nav_first nav_subcat_link nav_pop_li"><a href="/Clothing-Fashion-Women-Men-Kids/b?ie=UTF8&amp;node=83450031" class="nav_a nav_item">Clothing</a></li><li class="nav_subcat_link nav_pop_li"><a href="/Shoes-Smart-Casual-Trainers-Bags/b?ie=UTF8&amp;node=355005011" class="nav_a nav_item">Shoes</a></li><li class="nav_subcat_link nav_pop_li"><a href="/Jewellery-Rings-Earrings-Bracelets-Necklaces-Diamonds/b?ie=UTF8&amp;node=193716031" class="nav_a nav_item">Jewellery</a></li><li class="nav_subcat_link nav_pop_li"><a href="/Watches-Chronograph-Analogue-Digital-Automatic/b?ie=UTF8&amp;node=328228011" class="nav_a nav_item">Watches</a></li><li class="nav_subcat_link nav_pop_li"><a href="/Totes-Clutch-Shoulderbag-Messengerbag-Satchel/b?ie=UTF8&amp;node=1769551031" class="nav_a nav_item">Handbags &amp; Shoulder Bags</a></li><li class="nav_subcat_link nav_pop_li"><a href="/luggage/b?ie=UTF8&amp;node=2454166031" class="nav_a nav_item">Luggage</a></li></ul></div>
-<div id="nav_subcats_12" data-nav-promo-id="sports-outdoors" class="nav_browse_subcat"><ul class="nav_browse_ul nav_browse_cat_ul"><li class="nav_pop_li nav_browse_cat_head">Sports &amp; Outdoors</li><li class="nav_first nav_subcat_link nav_pop_li"><a href="/Exercise-Fitness-Toning-Strength-Equipment/b?ie=UTF8&amp;node=319535011" class="nav_a nav_item">Fitness</a></li><li class="nav_subcat_link nav_pop_li"><a href="/Camping-Hiking-Tents-Sleeping-Bags/b?ie=UTF8&amp;node=319545011" class="nav_a nav_item">Camping &amp; Hiking</a></li><li class="nav_subcat_link nav_pop_li"><a href="/Cycling-Bikes-Helmets-Lights-Accessories/b?ie=UTF8&amp;node=324144011" class="nav_a nav_item">Cycling</a></li><li class="nav_subcat_link nav_pop_li"><a href="/Sportswear-Outdoor-Clothing/b?ie=UTF8&amp;node=116189031" class="nav_a nav_item">Athletic &amp; Outdoor Clothing</a></li><li class="nav_subcat_link nav_pop_li"><a href="/Skiing-Snowboarding-Sledging-Jackets-Trousers/b?ie=UTF8&amp;node=1402545031" class="nav_a nav_item">Winter Sports</a></li><li class="nav_subcat_link nav_pop_li"><a href="/Golf-Balls-Clubs-Bags-Clothing/b?ie=UTF8&amp;node=324115011" class="nav_a nav_item">Golf</a></li><li class="nav_subcat_link nav_pop_li"><a href="/Swimming-Kayaking-Diving-Surfing-Triathlon/b?ie=UTF8&amp;node=319542011" class="nav_a nav_item">Water Sports</a></li><li class="nav_subcat_link nav_pop_li"><a href="/Sports-Exercise-Fitness-Bikes-Camping/b?ie=UTF8&amp;node=318949011" class="nav_a nav_item">All Sports &amp; Outdoors</a></li></ul></div>
-<div id="nav_subcats_13" data-nav-promo-id="grocery-health-beautyT1" class="nav_browse_subcat"><ul class="nav_browse_ul nav_browse_cat_ul"><li class="nav_first nav_pop_li nav_browse_cat_head">Health &amp; Beauty</li><li class="nav_first nav_subcat_link nav_pop_li"><a href="/beauty-skin-care-fragrances-cosmetics/b?ie=UTF8&amp;node=117332031" class="nav_a nav_item">Beauty</a></li><li class="nav_subcat_link nav_pop_li"><a href="/health-beauty-haircare-wellbeing-dentalcare-shaving-hairremoval/b?ie=UTF8&amp;node=65801031" class="nav_a nav_item">Health &amp; Personal Care</a></li><li class="nav_pop_li nav_browse_cat_head nav_divider_before">Grocery</li><li class="nav_first nav_subcat_link nav_pop_li"><a href="/Coffee-Snacks-International-Speciality-Food/b?ie=UTF8&amp;node=340834031" class="nav_a nav_item">Grocery</a></li><li class="nav_subcat_link nav_pop_li"><a href="/b?ie=UTF8&amp;node=358583031" class="nav_a nav_item">Beer, Wine &amp; Spirits</a></li><li class="nav_taglined nav_subcat_link nav_pop_li nav_divider_before"><a href="/Subscribe-Save-Health-Beauty-Grocery/b?ie=UTF8&amp;node=423139031" class="nav_a nav_item">Subscribe &amp; Save</a><div class="nav_tag">Up to 15% off, free delivery and more</div></li></ul></div>
-<div id="nav_subcats_14" data-nav-promo-id="car-motorbike" class="nav_browse_subcat"><ul class="nav_browse_ul nav_browse_cat_ul"><li class="nav_pop_li nav_browse_cat_head">Car &amp; Motorbike</li><li class="nav_first nav_subcat_link nav_pop_li"><a href="/Car-Accessories-Parts/b?ie=UTF8&amp;node=248877031" class="nav_a nav_item">Car Accessories &amp; Parts</a></li><li class="nav_subcat_link nav_pop_li"><a href="/Tools-Maintenance-Care/b?ie=UTF8&amp;node=301312031" class="nav_a nav_item">Tools &amp; Equipment</a></li><li class="nav_subcat_link nav_pop_li"><a href="/satnav-GPS-garmin-tomtom/b?ie=UTF8&amp;node=509908031" class="nav_a nav_item">Sat Nav &amp; Car Electronics</a></li><li class="nav_subcat_link nav_pop_li"><a href="/Motorbike-Accessories-Parts/b?ie=UTF8&amp;node=301311031" class="nav_a nav_item">Motorbike Accessories &amp; Parts</a></li></ul></div>
+<div id="nav_subcats_11" data-nav-promo-id="baby-kids-toys" class="nav_browse_subcat"><ul class="nav_browse_ul nav_browse_cat_ul"><li class="nav_pop_li nav_browse_cat_head">Toys, Children &amp; Baby</li><li class="nav_first nav_subcat_link nav_pop_li"><a href="/toys/b?ie=UTF8&amp;node=468292" class="nav_a nav_item">Toys &amp; Games</a></li><li class="nav_subcat_link nav_pop_li"><a href="/Baby-Car-Seats-Prams-Nursery/b?ie=UTF8&amp;node=59624031" class="nav_a nav_item">Baby</a></li><li class="nav_subcat_link nav_pop_li"><a href="/gp/registry/baby" class="nav_a nav_item">Baby Wish List</a></li><li class="nav_taglined nav_subcat_link nav_pop_li"><a href="/gp/family/signup/welcome" class="nav_a nav_item">Amazon Family</a><div class="nav_tag">20% off nappies, delivery benefits and more</div></li></ul></div>
+<div id="nav_subcats_12" data-nav-promo-id="clothes-shoes-watches" class="nav_browse_subcat"><ul class="nav_browse_ul nav_browse_cat_ul"><li class="nav_pop_li nav_browse_cat_head">Clothes, Shoes &amp; Jewellery</li><li class="nav_first nav_subcat_link nav_pop_li"><a href="/Clothing-Fashion-Women-Men-Kids/b?ie=UTF8&amp;node=83450031" class="nav_a nav_item">Clothing</a></li><li class="nav_subcat_link nav_pop_li"><a href="/Shoes-Smart-Casual-Trainers-Bags/b?ie=UTF8&amp;node=355005011" class="nav_a nav_item">Shoes</a></li><li class="nav_subcat_link nav_pop_li"><a href="/Jewellery-Rings-Earrings-Bracelets-Necklaces-Diamonds/b?ie=UTF8&amp;node=193716031" class="nav_a nav_item">Jewellery</a></li><li class="nav_subcat_link nav_pop_li"><a href="/Watches-Chronograph-Analogue-Digital-Automatic/b?ie=UTF8&amp;node=328228011" class="nav_a nav_item">Watches</a></li><li class="nav_subcat_link nav_pop_li"><a href="/Totes-Clutch-Shoulderbag-Messengerbag-Satchel/b?ie=UTF8&amp;node=1769551031" class="nav_a nav_item">Handbags &amp; Shoulder Bags</a></li><li class="nav_subcat_link nav_pop_li"><a href="/luggage/b?ie=UTF8&amp;node=2454166031" class="nav_a nav_item">Luggage</a></li></ul></div>
+<div id="nav_subcats_13" data-nav-promo-id="sports-outdoors" class="nav_browse_subcat"><ul class="nav_browse_ul nav_browse_cat_ul"><li class="nav_pop_li nav_browse_cat_head">Sports &amp; Outdoors</li><li class="nav_first nav_subcat_link nav_pop_li"><a href="/Exercise-Fitness-Toning-Strength-Equipment/b?ie=UTF8&amp;node=319535011" class="nav_a nav_item">Fitness</a></li><li class="nav_subcat_link nav_pop_li"><a href="/Camping-Hiking-Tents-Sleeping-Bags/b?ie=UTF8&amp;node=319545011" class="nav_a nav_item">Camping &amp; Hiking</a></li><li class="nav_subcat_link nav_pop_li"><a href="/Cycling-Bikes-Helmets-Lights-Accessories/b?ie=UTF8&amp;node=324144011" class="nav_a nav_item">Cycling</a></li><li class="nav_subcat_link nav_pop_li"><a href="/Sportswear-Outdoor-Clothing/b?ie=UTF8&amp;node=116189031" class="nav_a nav_item">Athletic &amp; Outdoor Clothing</a></li><li class="nav_subcat_link nav_pop_li"><a href="/Skiing-Snowboarding-Sledging-Jackets-Trousers/b?ie=UTF8&amp;node=1402545031" class="nav_a nav_item">Winter Sports</a></li><li class="nav_subcat_link nav_pop_li"><a href="/Golf-Balls-Clubs-Bags-Clothing/b?ie=UTF8&amp;node=324115011" class="nav_a nav_item">Golf</a></li><li class="nav_subcat_link nav_pop_li"><a href="/Swimming-Kayaking-Diving-Surfing-Triathlon/b?ie=UTF8&amp;node=319542011" class="nav_a nav_item">Water Sports</a></li><li class="nav_subcat_link nav_pop_li"><a href="/Sports-Exercise-Fitness-Bikes-Camping/b?ie=UTF8&amp;node=318949011" class="nav_a nav_item">All Sports &amp; Outdoors</a></li></ul></div>
+<div id="nav_subcats_14" data-nav-promo-id="grocery-health-beautyT1" class="nav_browse_subcat"><ul class="nav_browse_ul nav_browse_cat_ul"><li class="nav_first nav_pop_li nav_browse_cat_head">Health &amp; Beauty</li><li class="nav_first nav_subcat_link nav_pop_li"><a href="/beauty-skin-care-fragrances-cosmetics/b?ie=UTF8&amp;node=117332031" class="nav_a nav_item">All Beauty</a></li><li class="nav_subcat_link nav_pop_li"><a href="/luxury-beauty/b?ie=UTF8&amp;node=3411821031" class="nav_a nav_item">Luxury Beauty</a></li><li class="nav_subcat_link nav_pop_li"><a href="/health-beauty-haircare-wellbeing-dentalcare-shaving-hairremoval/b?ie=UTF8&amp;node=65801031" class="nav_a nav_item">Health &amp; Personal Care</a></li><li class="nav_subcat_link nav_pop_li"><a href="/male-grooming/b?ie=UTF8&amp;node=3869264031" class="nav_a nav_item">Men's Grooming</a></li><li class="nav_pop_li nav_browse_cat_head nav_divider_before">Grocery</li><li class="nav_first nav_subcat_link nav_pop_li"><a href="/Coffee-Snacks-International-Speciality-Food/b?ie=UTF8&amp;node=340834031" class="nav_a nav_item">Grocery</a></li><li class="nav_subcat_link nav_pop_li"><a href="/beer-wine-spirits/b?ie=UTF8&amp;node=358583031" class="nav_a nav_item">Beer, Wine &amp; Spirits</a></li><li class="nav_taglined nav_subcat_link nav_pop_li nav_divider_before"><a href="/Subscribe-Save-Health-Beauty-Grocery/b?ie=UTF8&amp;node=423139031" class="nav_a nav_item">Subscribe &amp; Save</a><div class="nav_tag">Up to 15% off, free delivery and more</div></li></ul></div>
+<div id="nav_subcats_15" data-nav-promo-id="car-motorbike" class="nav_browse_subcat"><ul class="nav_browse_ul nav_browse_cat_ul"><li class="nav_pop_li nav_browse_cat_head">Car &amp; Motorbike</li><li class="nav_first nav_subcat_link nav_pop_li"><a href="/Car-Accessories-Parts/b?ie=UTF8&amp;node=248877031" class="nav_a nav_item">Car Accessories &amp; Parts</a></li><li class="nav_subcat_link nav_pop_li"><a href="/Tools-Maintenance-Care/b?ie=UTF8&amp;node=301312031" class="nav_a nav_item">Tools &amp; Equipment</a></li><li class="nav_subcat_link nav_pop_li"><a href="/satnav-GPS-garmin-tomtom/b?ie=UTF8&amp;node=509908031" class="nav_a nav_item">Sat Nav &amp; Car Electronics</a></li><li class="nav_subcat_link nav_pop_li"><a href="/Motorbike-Accessories-Parts/b?ie=UTF8&amp;node=301311031" class="nav_a nav_item">Motorbike Accessories &amp; Parts</a></li></ul></div>
 
     </div>
     <div class="nav_subcats_div"></div>
@@ -1465,7 +1636,7 @@ sensibly. This notice describes the privacy policy of Amazon.co.uk.</span>
   </div>
   <div id="nav_cats_wrap" class="nav_browse_wrap">
     <ul id="nav_cats" class="nav_browse_ul">
-      <li class="nav_first nav_taglined nav_pop_li nav_cat" id="nav_cat_0">MP3s &amp; Cloud Player<div class="nav_tag">20 million songs, play anywhere</div></li><li class="nav_taglined nav_pop_li nav_cat" id="nav_cat_1">Amazon Cloud Drive<div class="nav_tag">5 GB of free storage</div></li><li class="nav_pop_li nav_cat" id="nav_cat_2">Kindle</li><li class="nav_taglined nav_pop_li nav_cat" id="nav_cat_3">Appstore for Android<div class="nav_tag">Get a paid app for free every day<span id="nav_amabotandroid-tagline"></span></div></li><li class="nav_pop_li nav_cat" id="nav_cat_4">Digital Games &amp; Software</li><li class="nav_taglined nav_pop_li nav_cat" id="nav_cat_5">Audible Audiobooks<div class="nav_tag">100,000 audiobook downloads</div></li><li class="nav_pop_li nav_cat nav_divider_before" id="nav_cat_6">Books</li><li class="nav_pop_li nav_cat" id="nav_cat_7">Movies, TV, Music, Games</li><li class="nav_pop_li nav_cat" id="nav_cat_8">Electronics &amp; Computers</li><li class="nav_pop_li nav_cat" id="nav_cat_9">Home, Garden, Pets &amp; DIY</li><li class="nav_pop_li nav_cat" id="nav_cat_10">Toys, Children &amp; Baby</li><li class="nav_pop_li nav_cat" id="nav_cat_11">Clothes, Shoes &amp; Jewellery</li><li class="nav_pop_li nav_cat" id="nav_cat_12">Sports &amp; Outdoors</li><li class="nav_pop_li nav_cat" id="nav_cat_13">Grocery, Health &amp; Beauty</li><li class="nav_pop_li nav_cat" id="nav_cat_14">Car &amp; Motorbike</li><li class="nav_last nav_pop_li nav_divider_before nav_a_carat" id="nav_cat_15"><span class="nav_a_carat">›</span><a href="/gp/site-directory" class="nav_a">Full Shop Directory</a></li>
+      <li class="nav_first nav_pop_li nav_cat" id="nav_cat_0">Amazon Instant Video</li><li class="nav_taglined nav_pop_li nav_cat" id="nav_cat_1">Digital Music<div class="nav_tag">30 million songs, play anywhere</div></li><li class="nav_taglined nav_pop_li nav_cat" id="nav_cat_2">Amazon Cloud Drive<div class="nav_tag">5 GB of free storage</div></li><li class="nav_pop_li nav_cat" id="nav_cat_3">Kindle</li><li class="nav_taglined nav_pop_li nav_cat" id="nav_cat_4">Appstore for Android<div class="nav_tag">Get a paid app for free every day<span id="nav_amabotandroid-tagline"></span></div></li><li class="nav_pop_li nav_cat" id="nav_cat_5">Digital Games &amp; Software</li><li class="nav_pop_li nav_cat" id="nav_cat_6">Audible Audiobooks</li><li class="nav_pop_li nav_cat nav_divider_before" id="nav_cat_7">Books</li><li class="nav_pop_li nav_cat" id="nav_cat_8">Movies, TV, Music, Games</li><li class="nav_pop_li nav_cat" id="nav_cat_9">Electronics &amp; Computers</li><li class="nav_pop_li nav_cat" id="nav_cat_10">Home, Garden, Pets &amp; DIY</li><li class="nav_pop_li nav_cat" id="nav_cat_11">Toys, Children &amp; Baby</li><li class="nav_pop_li nav_cat" id="nav_cat_12">Clothes, Shoes &amp; Jewellery</li><li class="nav_pop_li nav_cat" id="nav_cat_13">Sports &amp; Outdoors</li><li class="nav_pop_li nav_cat" id="nav_cat_14">Beauty, Health &amp; Grocery</li><li class="nav_pop_li nav_cat" id="nav_cat_15">Car &amp; Motorbike</li><li class="nav_last nav_pop_li nav_divider_before nav_a_carat" id="nav_cat_16"><span class="nav_a_carat">›</span><a href="/gp/site-directory" class="nav_a">Full Shop Directory</a></li>
     </ul>
     <div id="nav_cat_indicator" class="nav-sprite"></div>
   </div>
@@ -1480,16 +1651,14 @@ sensibly. This notice describes the privacy policy of Amazon.co.uk.</span>
 
 
 
-
-
 <div id="nav_your_account_flyout" class="nav-flyout-content">  <ul class="nav_pop_ul">
-<li class="nav_pop_li nav_divider_after">
-  <div><a href="https://www.amazon.co.uk/ap/signin?_encoding=UTF8&amp;openid.assoc_handle=gbflex&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.mode=checkid_setup&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&amp;openid.pape.max_auth_age=0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.co.uk%2Fgp%2Fyourstore%2Fhome%3Fie%3DUTF8%26ref_%3Dgno_signin" class="nav-action-button nav-sprite" rel="nofollow">
-      <span class="nav-action-inner nav-sprite">Sign in</span>
+<li id="nav-ya-btn-signin" class="nav_pop_li nav_divider_after">
+  <div><a href="https://www.amazon.co.uk/ap/signin?_encoding=UTF8&amp;openid.assoc_handle=gbflex&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.mode=checkid_setup&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&amp;openid.pape.max_auth_age=0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.co.uk%2Fgp%2Fyourstore%2Fhome%3Fie%3DUTF8%26ref_%3Dgno_signin" class="nav-action-button" rel="nofollow">
+      <span class="nav-action-inner">Sign in</span>
     </a></div>
   <div class="nav_pop_new_cust">New customer? <a href="https://www.amazon.co.uk/ap/register?_encoding=UTF8&amp;openid.assoc_handle=gbflex&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.mode=checkid_setup&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&amp;openid.pape.max_auth_age=0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.co.uk%2Fgp%2Fyourstore%2Fhome%3Fie%3DUTF8%26ref_%3Dgno_newcust" rel="nofollow" class="nav_a">Start here.</a></div>
 </li>
-<li class="nav_first nav_pop_li"><a href="https://www.amazon.co.uk/gp/css/homepage.html" class="nav_a">Your Account</a></li><li class="nav_pop_li"><a href="https://www.amazon.co.uk/ap/signin?_encoding=UTF8&amp;openid.assoc_handle=gbamazon&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.mode=checkid_setup&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.co.uk%2Fgp%2Fcss%2Forder-history&amp;pageId=webcs-yourorder&amp;showRmrMe=1" class="nav_a" id="nav_prefetch_yourorders">Your Orders</a></li><li class="nav_pop_li"><a href="/gp/registry/wishlist" class="nav_a">Your Wish List</a></li><li class="nav_pop_li"><a href="https://www.amazon.co.uk/ap/signin?_encoding=UTF8&amp;openid.assoc_handle=gbflex&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.mode=checkid_setup&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.co.uk%2Fgp%2Fyourstore" class="nav_a">Your Recommendations</a></li><li class="nav_pop_li"><a href="https://www.amazon.co.uk/ap/signin?_encoding=UTF8&amp;openid.assoc_handle=gbflex&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.mode=checkid_setup&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.co.uk%2Fgp%2Fsubscribe-and-save%2Fmanager%2Fviewsubscriptions" class="nav_a">Manage Your Subscribe &amp; Save Items</a></li><li class="nav_pop_li nav_divider_before"><a href="https://www.amazon.co.uk/ap/signin?_encoding=UTF8&amp;openid.assoc_handle=gbflex&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.mode=checkid_setup&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.co.uk%2Fgp%2Fdigital%2Ffiona%2Fmanage" class="nav_a">Manage Your Kindle</a></li><li class="nav_taglined nav_pop_li"><a href="/gp/dmusic/mp3/player" class="nav_a">Your Cloud Player</a><div class="nav_tag">Play from any browser</div></li><li class="nav_taglined nav_pop_li"><a href="https://www.amazon.co.uk/ap/signin?_encoding=UTF8&amp;openid.assoc_handle=amzn_clouddrive_uk&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.mode=checkid_setup&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.co.uk%2Fclouddrive&amp;pageId=clouddrive_authportal_uk" class="nav_a">Your Cloud Drive</a><div class="nav_tag">5 GB of free storage</div></li><li class="nav_pop_li"><a href="https://www.amazon.co.uk/ap/signin?_encoding=UTF8&amp;openid.assoc_handle=gbflex&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.mode=checkid_setup&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.co.uk%2Fgp%2Fswvgdtt%2Fyour-account%2Fmanage-downloads.html" class="nav_a">Your Games and Software Library</a></li><li class="nav_last nav_pop_li"><a href="https://www.amazon.co.uk/ap/signin?_encoding=UTF8&amp;openid.assoc_handle=gbflex&amp;openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&amp;openid.mode=checkid_setup&amp;openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&amp;openid.return_to=https%3A%2F%2Fwww.amazon.co.uk%2Fgp%2Fmas%2Fyour-account%2Fmyapps" class="nav_a">Your Apps &amp; Devices</a></li>   </ul>   <!--[if IE ]>      <div class='nav-ie-min-width' style='width: 160px; height: 1px;'></div>    <![endif]-->  </div>
+<li class="nav_first nav_pop_li"><a href="https://www.amazon.co.uk/gp/css/homepage.html" class="nav_a">Your Account</a></li><li class="nav_pop_li"><a href="https://www.amazon.co.uk/gp/css/order-history" class="nav_a" id="nav_prefetch_yourorders">Your Orders</a></li><li class="nav_pop_li"><a href="/gp/registry/wishlist?ie=UTF8&amp;requiresSignIn=1" class="nav_a">Your Wish List</a></li><li class="nav_pop_li"><a href="/gp/yourstore" class="nav_a">Your Recommendations</a></li><li class="nav_pop_li"><a href="https://www.amazon.co.uk/gp/subscribe-and-save/manager/viewsubscriptions" class="nav_a">Your Subscribe &amp; Save Items</a></li><li class="nav_pop_li"><a href="/gp/subs/primeclub/account/homepage.html" class="nav_a">Your Prime Membership</a></li><li class="nav_pop_li nav_divider_before"><a href="/gp/digital/fiona/manage" class="nav_a">Manage Your Kindle</a></li><li class="nav_pop_li"><a href="/gp/dmusic/mp3/player" class="nav_a">Your Music Library</a></li><li class="nav_taglined nav_pop_li"><a href="/clouddrive" class="nav_a">Your Cloud Drive</a><div class="nav_tag">5 GB of free storage</div></li><li class="nav_taglined nav_pop_li"><a href="/Prime-Instant-Video/b?ie=UTF8&amp;node=3280626031" class="nav_a">Your Prime Instant Video</a><div class="nav_tag">Unlimited streaming of thousands<br>of movies and TV shows</div></li><li class="nav_pop_li"><a href="/gp/video/watchlist" class="nav_a">Your Watchlist</a></li><li class="nav_pop_li"><a href="/gp/video/library" class="nav_a">Your Video Library</a></li><li class="nav_pop_li"><a href="/gp/rentallist" class="nav_a">Your Rental List</a></li><li class="nav_pop_li"><a href="/gp/swvgdtt/your-account/manage-downloads.html" class="nav_a">Your Games and Software Library</a></li><li class="nav_last nav_pop_li"><a href="/gp/mas/your-account/myapps" class="nav_a">Your Apps &amp; Devices</a></li>   </ul>   <!--[if IE ]>      <div class='nav-ie-min-width' style='width: 160px; height: 1px;'></div>    <![endif]-->  </div>
 
 
 
@@ -1501,9 +1670,23 @@ sensibly. This notice describes the privacy policy of Amazon.co.uk.</span>
 
 
 
+<div id="nav-cart-flyout" class="nav-empty nav-flyout-content" data-one="" data-many="">
 
-<div id="nav_cart_flyout" class="nav-empty nav-flyout-content">
-  <ul class="nav_dynamic"></ul>
+  <div class="nav-dynamic-full">
+    <div id="nav-cart-standard" class="nav-cart-content">
+      <a href="/gp/cart/view.html?ie=UTF8&amp;hasWorkingJavascript=1" class="nav-cart-title"></a>
+      <div class="nav-cart-subtitle"></div>
+      <div class="nav-cart-items"></div>
+    </div>
+    
+    <div id="nav-cart-pantry" class="nav-cart-content" data-box="" data-boxes="" data-box-filled="" data-boxes-filled="">
+
+      <a href="/gp/cart/view.html?ie=UTF8&amp;hasWorkingJavascript=1" class="nav-cart-title"></a>
+      <div class="nav-cart-subtitle"></div>
+      <div class="nav-cart-items"></div>
+    </div>
+  </div>
+  
   <div class="nav-ajax-message"></div>
   <div class="nav-dynamic-empty">
     <p class="nav_p nav-bold nav-cart-empty"> Your Shopping Basket is empty.</p>
@@ -1514,16 +1697,20 @@ sensibly. This notice describes the privacy policy of Amazon.co.uk.</span>
     <p class="nav_p nav-bold"> There's a problem previewing your shopping basket at the moment.</p>
     <p class="nav_p "> Check your Internet connection and <a href="/gp/cart/view.html?ie=UTF8&amp;hasWorkingJavascript=1" class="nav_a">go to your cart</a>, or <a href="javascript:void(0);" class="nav_a nav-try-again">try again</a>.</p>
   </div>
+  
+  <div id="nav-cart-footer">  
+    <a href="/gp/cart/view.html?ie=UTF8&amp;hasWorkingJavascript=1" id="nav-cart-menu-button" class="nav-action-button">
+      <span class="nav-action-inner">
+        View Shopping Basket
+        <span id="nav-cart-menu-button-count">
+          <span id="nav-cart-zero">(<span class="nav-cart-count">0</span> items)</span>
+          <span id="nav-cart-one" style="display: none;">(<span class="nav-cart-count">0</span> item)</span>
+          <span id="nav-cart-many" style="display: none;">(<span class="nav-cart-count">0</span> items)</span>
+        </span>
+      </span>
+    </a>
+  </div>  
 
-  <a href="/gp/cart/view.html?ie=UTF8&amp;hasWorkingJavascript=1" id="nav-cart-menu-button" class="nav-action-button nav-sprite"><span class="nav-action-inner nav-sprite">
-    View Shopping Basket
-
-    <span id="nav-cart-menu-button-count">
-      <span id="nav-cart-zero">(<span class="nav-cart-count">0</span> items)</span>
-      <span id="nav-cart-one" style="display: none;">(<span class="nav-cart-count">0</span> item)</span>
-      <span id="nav-cart-many" style="display: none;">(<span class="nav-cart-count">0</span> items)</span>
-    </span>
-  </span></a>
 </div>
 
 
@@ -1539,7 +1726,7 @@ sensibly. This notice describes the privacy policy of Amazon.co.uk.</span>
   <div class="nav-ajax-message"></div>
   <ul class="nav_dynamic nav_pop_ul nav_divider_after"></ul>
   <ul class="nav_pop_ul">
-    <li class="nav_first nav_pop_li nav-dynamic-empty"><a href="/gp/wishlist" class="nav_a">Create a Wish List</a></li><li class="nav_pop_li"><a href="/gp/registry/search.html?ie=UTF8&amp;type=wishlist" class="nav_a">Find a Wish List</a></li><li class="nav_taglined nav_pop_li"><a href="/wishlist/universal" class="nav_a">Wish from Any Website</a><div class="nav_tag">Add items to your List from anywhere</div></li><li class="nav_pop_li"><a href="/gp/wedding/homepage" class="nav_a">Wedding List</a></li><li class="nav_last nav_pop_li"><a href="/gp/registry/baby" class="nav_a">Baby Wish List</a></li>
+    <li class="nav_first nav_pop_li nav-dynamic-empty"><a href="/gp/registry/wishlist?ie=UTF8&amp;triggerElementID=createList" class="nav_a">Create a Wish List</a></li><li class="nav_pop_li"><a href="/gp/registry/search.html?ie=UTF8&amp;type=wishlist" class="nav_a">Find a Wish List</a></li><li class="nav_taglined nav_pop_li"><a href="/wishlist/universal" class="nav_a">Wish from Any Website</a><div class="nav_tag">Add items to your List from anywhere</div></li><li class="nav_pop_li"><a href="/gp/wedding/homepage" class="nav_a">Wedding List</a></li><li class="nav_last nav_pop_li"><a href="/gp/registry/baby" class="nav_a">Baby Wish List</a></li>
   </ul>
 </div>
 
@@ -1566,18 +1753,23 @@ sensibly. This notice describes the privacy policy of Amazon.co.uk.</span>
 </script>
 
   <script type="text/html" id="nav-tpl-cart">
-    <# jQuery.each(cart, function (i, item) { #>
-      <li class='nav_cart_item'>
-        <a href='<#=item.url #>' class='nav_a'>
-          <img class='nav_cart_img' src='<#=item.img #>'/>
-          <span class='nav-cart-title'><#=item.name #></span>
+    <# jQuery.each(items, function (i, item) { #>
+      <div class='nav-cart-item'>
+        <a href='<#=item.url #>' class='nav-cart-item-link'>
+          <img src='<#=item.img #>' class='nav-cart-item-image' />
+          <span class='nav-cart-item-title'><#=item.name #></span>
+          <# if (item.weight) { #>
+            <span class='nav-cart-item-weight' style='display:none;'>
+              <#= "".replace("{value}", item.weight.value).replace("{unit}", item.weight.unit) #>
+            </span>
+          <# } #>
           <# if (item.ourPrice) { #>
-            <span class='nav-cart-buyingPrice'><#=item.ourPrice #></span>
+            <span class='nav-cart-item-buyingPrice'><#=item.ourPrice #></span>
           <# } #>
           <# if (item.scarcityMessage) { #>
             <span class='<#=item.scarcityClass #>'><#=item.scarcityMessage #></span>
           <# } #>
-          <span class='nav-cart-quantity'>
+          <span class='nav-cart-item-quantity'>
             <# if(typeof item.wireless !== 'undefined') { #>
               <#= "Items: {count}".replace("{count}", item.qty) #>
             <# } else { #>
@@ -1585,8 +1777,12 @@ sensibly. This notice describes the privacy policy of Amazon.co.uk.</span>
             <# } #>
           </span>
         </a>
-      </li>
+      </div>
+      <# if (i%2==1) { #>
+        <div class='nav-cart-item-break'></div>
+      <# } #>
     <# }); #>
+    <div class='nav-cart-item-break'></div>
   </script>
 
 <script type="text/html" id="nav-tpl-asin-promo">
@@ -1641,49 +1837,21 @@ sensibly. This notice describes the privacy policy of Amazon.co.uk.</span>
   <# } #>
 </script>
 
-
-
-
-
-
-
-
-
-
-
-
-</div>
-<script type="text/javascript">window.$Nav && $Nav.declare('config.prefetchUrls', ["http://z-ecx.images-amazon.com/images/G/01/browser-scripts/fruitCSS/GB-combined-766573992._V1_.css","http://z-ecx.images-amazon.com/images/G/01/browser-scripts/registriesCSS/GB-combined-1135378189._V376148982_.css","https://images-na.ssl-images-amazon.com/images/G/01/authportal/common/images/amznbtn-sprite03._V395592492_.png","https://images-na.ssl-images-amazon.com/images/G/01/browser-scripts/uk-site-wide-css-beacon/site-wide-9076086950._V1_.css","https://images-na.ssl-images-amazon.com/images/G/01/browser-scripts/wcs-ya-homepage-beaconized/wcs-ya-homepage-beaconized-1968712395._V1_.css","https://images-na.ssl-images-amazon.com/images/G/01/browser-scripts/wcs-ya-homepage-beaconized/wcs-ya-homepage-beaconized-3515399030._V1_.js","https://images-na.ssl-images-amazon.com/images/G/01/browser-scripts/wcs-ya-order-history-beaconized/wcs-ya-order-history-beaconized-1154085490._V1_.css","https://images-na.ssl-images-amazon.com/images/G/01/x-locale/cs/css/images/amznbtn-sprite03._V387356454_.png","https://images-na.ssl-images-amazon.com/images/G/02/authportal/common/images/amazon_logo_no-org_mid._V143113087_.png","https://images-na.ssl-images-amazon.com/images/G/02/authportal/flex/reduced-nav/ap-flex-reduced-nav-2.0._V393733355_.js","https://images-na.ssl-images-amazon.com/images/G/02/authportal/flex/reduced-nav/ap-flex-reduced-nav-2.1._V369045641_.css","https://images-na.ssl-images-amazon.com/images/G/02/gno/beacon/BeaconSprite-UK-02._V397961423_.png","https://images-na.ssl-images-amazon.com/images/G/02/gno/images/general/navAmazonLogoFooter._V152929188_.gif","https://images-na.ssl-images-amazon.com/images/G/02/x-locale/common/buttons/sign-in-secure._V192198127_.gif","https://images-na.ssl-images-amazon.com/images/G/02/x-locale/common/login/fwcim._V369606485_.js","https://images-na.ssl-images-amazon.com/images/G/02/x-locale/common/transparent-pixel._V384789948_.gif","https://images-na.ssl-images-amazon.com/images/G/02/x-locale/communities/social/snwicons_v2._V402336182_.png","https://images-na.ssl-images-amazon.com/images/G/02/x-locale/cs/help/images/spotlight/kindle-family-02b._V369419403_.jpg","https://images-na.ssl-images-amazon.com/images/G/02/x-locale/cs/orders/images/acorn._V192195382_.gif","https://images-na.ssl-images-amazon.com/images/G/02/x-locale/cs/orders/images/amazon-gc-100._V152930314_.gif","https://images-na.ssl-images-amazon.com/images/G/02/x-locale/cs/orders/images/amazon-gcs-100._V152930315_.gif","https://images-na.ssl-images-amazon.com/images/G/02/x-locale/cs/orders/images/btn-close._V192195353_.gif","https://images-na.ssl-images-amazon.com/images/G/02/x-locale/cs/projects/text-trace/texttrace_typ._V353753445_.js","https://images-na.ssl-images-amazon.com/images/G/02/x-locale/cs/ya/images/new-link._V192238985_.gif","https://images-na.ssl-images-amazon.com/images/G/02/x-locale/cs/ya/images/shipment_large_lt._V192238984_.gif"]);
+  </div>
+  <script type="text/javascript">
+      window.$Nav && $Nav.declare('config.prefetchUrls', ["http://z-ecx.images-amazon.com/images/G/01/browser-scripts/fruitCSS/GB-combined-766573992._V1_.css","https://images-na.ssl-images-amazon.com/images/G/01/authportal/common/images/amznbtn-sprite03._V395592492_.png","https://images-na.ssl-images-amazon.com/images/G/01/browser-scripts/navbarCSS-global/navbarCSS-global-min-2007988434._V1_.css","https://images-na.ssl-images-amazon.com/images/G/01/browser-scripts/wcs-ya-homepage-beaconized/wcs-ya-homepage-beaconized-1968712395._V1_.css","https://images-na.ssl-images-amazon.com/images/G/01/browser-scripts/wcs-ya-homepage-beaconized/wcs-ya-homepage-beaconized-3515399030._V1_.js","https://images-na.ssl-images-amazon.com/images/G/01/browser-scripts/wcs-ya-order-history-beaconized/wcs-ya-order-history-beaconized-207125090._V1_.css","https://images-na.ssl-images-amazon.com/images/G/01/x-locale/cs/css/images/amznbtn-sprite03._V387356454_.png","https://images-na.ssl-images-amazon.com/images/G/02/authportal/common/images/amazon_logo_no-org_mid._V143113087_.png","https://images-na.ssl-images-amazon.com/images/G/02/authportal/flex/reduced-nav/ap-flex-reduced-nav-2.0._V393733355_.js","https://images-na.ssl-images-amazon.com/images/G/02/authportal/flex/reduced-nav/ap-flex-reduced-nav-2.1._V343893047_.css","https://images-na.ssl-images-amazon.com/images/G/02/gno/images/general/navAmazonLogoFooter._V152929188_.gif","https://images-na.ssl-images-amazon.com/images/G/02/gno/sprites/global-sprite-v1._V339352782_.png","https://images-na.ssl-images-amazon.com/images/G/02/x-locale/common/buttons/sign-in-secure._V192198127_.gif","https://images-na.ssl-images-amazon.com/images/G/02/x-locale/common/login/fwcim._V342129220_.js","https://images-na.ssl-images-amazon.com/images/G/02/x-locale/common/transparent-pixel._V384789948_.gif","https://images-na.ssl-images-amazon.com/images/G/02/x-locale/communities/social/snwicons_v2._V402336182_.png","https://images-na.ssl-images-amazon.com/images/G/02/x-locale/cs/help/images/spotlight/kindle-family-02b._V369419403_.jpg","https://images-na.ssl-images-amazon.com/images/G/02/x-locale/cs/orders/images/acorn._V192195382_.gif","https://images-na.ssl-images-amazon.com/images/G/02/x-locale/cs/orders/images/amazon-gc-100._V152930314_.gif","https://images-na.ssl-images-amazon.com/images/G/02/x-locale/cs/orders/images/amazon-gcs-100._V152930315_.gif","https://images-na.ssl-images-amazon.com/images/G/02/x-locale/cs/orders/images/btn-close._V192195353_.gif","https://images-na.ssl-images-amazon.com/images/G/02/x-locale/cs/projects/text-trace/texttrace_typ._V353753445_.js","https://images-na.ssl-images-amazon.com/images/G/02/x-locale/cs/ya/images/new-link._V192238985_.gif","https://images-na.ssl-images-amazon.com/images/G/02/x-locale/cs/ya/images/shipment_large_lt._V192238984_.gif"]);
 window.$Nav && $Nav.declare('config.prefetch',function() {
     var pUrls = window.$Nav.getNow('config.prefetchUrls');
     if (window.amznJQ) amznJQ.addPL(pUrls);
     else if (window.P) P.when('A').execute(function (A) { A.preload(pUrls); });
 });
-    window.$Nav && $Nav.declare( 'config.flyoutURL', null );
+/* disabled nav-config-asset-injection GB::desktop::standard::31406:C::isSecure=0::preload navc-2dfyXQ8uOAVIb6XA8fzeJ1QPJCFQ617MDafhY2wuRdk/ZTNTt0ungtFLqQ5HoRCjf7TNFADAKuE= rid-1BQE578VZCT40SVYQMX4 (Mon Jun 30 18:21:17 2014) **CACHED-BY-NCCC** */
+    window.$Nav && $Nav.declare('config.flyoutURL', null);
     window.$Nav && $Nav.declare('btf.lite');
     window.amznJQ && amznJQ.declareAvailable('navbarBTFLite');
     window.$Nav && $Nav.declare('btf.full');
     window.amznJQ && amznJQ.declareAvailable('navbarBTF');
-</script>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+  </script>
 
 
 
@@ -1693,7 +1861,6 @@ window.$Nav && $Nav.declare('config.prefetch',function() {
 
 
 <!--AMZNJQFINAL-->
-
 
 
 
@@ -1717,6 +1884,10 @@ window.$Nav && $Nav.declare('config.prefetch',function() {
 
  
  
+
+
+
+
 
 
 </body></html>
