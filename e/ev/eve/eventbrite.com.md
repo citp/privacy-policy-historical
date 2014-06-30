@@ -1,47 +1,8 @@
-> *The following text is extracted and transformed from the eventbrite.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231033716id_/http%3A//www.eventbrite.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eventbrite.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630185317id_/http%3A//www.eventbrite.com/privacypolicy) for the most accurate reproduction.*
 
 # Eventbrite Privacy Policy
 
-##  Privacy Policy 
-
-Last updated: October 8, 2013  
-View summary of recent updates Return to Privacy Policy
-
-Below is a high level summary of the recent material changes we've made to our [Privacy Policy](https://web.archive.org/privacypolicy/), but please make sure to read our [Privacy Policy](https://web.archive.org/privacypolicy/) in its entirety as it contains all of the terms covering our practices regarding collection, use and disclosure of information.
-
-October 8, 2013
-
-  * As we expand our product offerings to include the ability to contribute to fundraising campaigns and to transfer tickets/registrations, we made updates to the Privacy Policy to reflect these new features.
-  * We've specified that we do not participate in any "Do Not Track" frameworks.
-  * We've created a new [Cookie Policy](https://web.archive.org/cookies/) with more details about our use of cookies, pixel tags, local shared objects, web storage and similar technologies. While this Cookie Policy is incorporated into our Privacy Policy, we thought it would be helpful to have a separate and more focused document devoted to our use of these technologies. 
-
-
-
-June 13, 2012
-
-  * Eventbrite now participates in the US-EU and US-Swiss Safe Harbor Frameworks. We have updated our privacy policy to describe our participation in a new section called "US-EU and US-Swiss Safe Harbor Programs".
-  * In connection with our participation in the Safe Harbor Frameworks, we have appointed TRUSTe as our exclusive dispute resolution mechanism for all Safe Harbor Framework related complaints. This new dispute resolution mechanism is now described under "Dispute Resolution".
-
-
-
-June 6, 2012
-
-  * We've provided further descriptions on how information is used, disclosed, transferred and stored as it relates to third party connections, such as Facebook. You can see these changes under "Our Disclosure of Information That We Collect: 1. Facebook and Other Third Party Connections".
-  * We clarified that when we change our Privacy Policy we provide you notice of that change by posting the new Privacy Policy to our Site and updates to this recent updates page.
-  * We explained how you can access and update the information that we have collected and stored about you under "Access to Information".
-  * We've clarified our retention and deletion practices under "Retention and Deletion".
-  * We've let you know how you can bring a complaint about our privacy practices to our attention under "Dispute Resolution".
-
-
-
-January 18, 2012
-
-  * As we expand across the globe and create new Eventbrite domains and as we expand our product offerings to mobile apps such as At The Door™, Entry Manager and the Eventbrite app, we wanted to clarify that our Privacy Policy applies to those new domains and product offerings.
-  * We provided further examples of the Personal Data and Non-Personal Data we may collect from you under "Information We Collect: Personal Data".
-  * We clarified under "Our Use of Information That We Collect: Personal Data" that if we intend to use your Personal Data in a manner that is not consistent with our Privacy Policy, we will inform you of such anticipated use prior to or at the time at which we collect it or we will obtain your consent subsequent to such collection but prior to such use.
-  * We wanted to give you further information on the cookies and other session identifiers that we may use from time to time and how you can manage them, so we updated "Information We Collect: Non-Personal Data: Cookies."
-
-
+View summary of recent updates
 
 ###  About Eventbrite: 
 
@@ -155,7 +116,7 @@ If you are visiting our website or using one of our software applications from o
 
 ####  US-EU & US-Swiss Safe Harbor Programs: 
 
-We participate in the US-EU & US-Swiss Safe Harbor Frameworks covering the collection, use and retention of personal information gathered in the European Union member countries and Switzerland. Our participation means that we self certify that we adhere to the Safe Harbor principles of notice, choice, onward transfer, security, integrity, access and enforcement with respect to such personal information. For more information about these frameworks and our participation in them, please visit the US Department of Commerce's Safe Harbor website. If you have any questions about our participation, please contact our Eventbrite Safe Harbor Privacy Contact at Eventbrite, Inc., Attn: Privacy Officer, 651 Brannan Street, Suite 110, San Francisco, CA 94107, USA, or by email to [privacy@eventbrite.com](mailto:privacy@eventbrite.com). 
+We participate in the US-EU & US-Swiss Safe Harbor Frameworks covering the collection, use and retention of personal information gathered in the European Union member countries and Switzerland. Our participation means that we self certify that we adhere to the Safe Harbor principles of notice, choice, onward transfer, security, integrity, access and enforcement with respect to such personal information. For more information about these frameworks and our participation in them, please visit the US Department of Commerce's Safe Harbor website. If you have any questions about our participation, please contact our Eventbrite Safe Harbor Privacy Contact at Eventbrite, Inc., Attn: Privacy Officer, 155 5th St, 7th Floor, San Francisco, CA 94103, USA, or by email to [privacy@eventbrite.com](mailto:privacy@eventbrite.com). 
 
 ####  Other Terms and Conditions: 
 
@@ -179,4 +140,4 @@ Please also feel free to contact us if you have any questions about this Privacy
 
 ####  Dispute Resolution: 
 
-If you have a complaint about Eventbrite's privacy practices you should write to us at Eventbrite, Inc., Attn: Privacy Officer, 651 Brannan Street, Suite 110, San Francisco, CA 94107, USA, or by email to [privacy@eventbrite.com](mailto:privacy@eventbrite.com). We will take reasonable steps to work with you to attempt to resolve your complaint. As part of our participation in the US-EU & US-Swiss Safe Harbor Frameworks, Eventbrite has appointed TRUSTe as its exclusive dispute resolution mechanism for all Safe Harbor Framework related complaints. You may raise such a complaint with TRUSTe by Internet [here](http://watchdog.truste.com/pvr.php?page=complaint&url=) or by fax to 415-520-3420 or by mail to the TRUSTe Safe Harbor Compliance Department at the address listed [here](http://www.truste.com/about-TRUSTe/contact_us), but in each case only after first contacting our Privacy Officer with your complaint and allowing us a reasonable amount of time to address your complaint. If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of the company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, click [here](http://watchdog.truste.com/pvr.php?page=complaint&url=) or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process will be conducted in English.
+If you have a complaint about Eventbrite's privacy practices you should write to us at Eventbrite, Inc., Attn: Privacy Officer, 155 5th St, 7th Floor, San Francisco, CA 94103, USA, or by email to [privacy@eventbrite.com](mailto:privacy@eventbrite.com). We will take reasonable steps to work with you to attempt to resolve your complaint. As part of our participation in the US-EU & US-Swiss Safe Harbor Frameworks, Eventbrite has appointed TRUSTe as its exclusive dispute resolution mechanism for all Safe Harbor Framework related complaints. You may raise such a complaint with TRUSTe by Internet [here](http://watchdog.truste.com/pvr.php?page=complaint&url=) or by fax to 415-520-3420 or by mail to the TRUSTe Safe Harbor Compliance Department at the address listed [here](http://www.truste.com/about-TRUSTe/contact_us), but in each case only after first contacting our Privacy Officer with your complaint and allowing us a reasonable amount of time to address your complaint. If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of the company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, click [here](http://watchdog.truste.com/pvr.php?page=complaint&url=) or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process will be conducted in English.
