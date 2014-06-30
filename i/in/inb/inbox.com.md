@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inbox.com privacy policy that was archived on 2013-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130621174436id_/http%3A//www.inbox.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inbox.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630181431id_/http%3A//www.inbox.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Inbox.com - Privacy Policy
 
@@ -80,7 +80,7 @@ We understand and respect that people have different privacy concerns. Our goal 
   * Cancel your account at any time;
   * You can decline to submit requested information, however, it’s important to understand that the Services may not function properly or we may not be able to provide the requested service to you;
   * You can uninstall Inbox software at any time and discontinue use of our Services;
-  * [Control](http://support.google.com/plus/bin/static.py?hl=en&page=guide.cs&guide=1257347) what information you post in public profiles and who you share information with;
+  * Control what information you post in public profiles and who you share information with;
   * Set your browser to block all cookies, including cookies associated with our services, or to indicate when a cookie is being set by us. However, it’s important to remember that many of our services may not function properly if your cookies are disabled. For example, we may not remember your language preferences.
 
 
