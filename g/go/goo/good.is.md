@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the good.is privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218022706id_/http%3A//www.good.is/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the good.is privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630231017id_/http%3A//www.good.is/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | GOOD
 
@@ -20,7 +20,7 @@ Please read this Privacy Policy carefully. You can access the Privacy Policy any
 
 2\. Information GOOD Gathers. Information GOOD gathers generally falls into two categories: (1) personally identifiable information, which is gathered with your specific knowledge and consent, for instance when you enter a sweepstakes or contest, complete a survey, make a purchase, subscribe to our publication(s), or register for any portion of our services, you are asked to provide information such as your email address, name, and phone number, and (2) non-personally identifiable information collected through technology, which includes tracking information collected as you navigate use of GOOD.
 
-2.1. Personally Identifiable Information That You Give Us
+## 2.1. Personally Identifiable Information That You Give Us
 
 2.1.1. Registration. Registration for GOOD requires that you supply certain personally identifiable information including, in most cases, a unique email address and demographic information to register. Purchases made through GOOD require that you supply your name, address, telephone number, email address, credit card number, and other billing
 
@@ -36,7 +36,7 @@ If you have signed up for a GOOD account, we will track and aggregate your Publi
 
 2.1.6. Surveys, Panels, and Market Research. GOOD may collect personal information from you in connection with voluntary surveys. Unless we notify you at the time of collection, the information you provide in response to optional survey questions may be shared, but only in aggregate, with advertisers and partners.
 
-2.2. Non-Personally Identifiable Information Collected Using Technology.
+## 2.2. Non-Personally Identifiable Information Collected Using Technology.
 
 2.2.1. Device Information. We may collect information about the computer, mobile telephone, smart phone, or other device you use to access GOOD.
 
@@ -46,7 +46,7 @@ If you have signed up for a GOOD account, we will track and aggregate your Publi
 
 2.2.4. Log Files and Reading History. We automatically log certain information about your use of GOOD. This information includes reading history of the pages you view. We may use this information to provide you with customized recommendations based on your reading history. We also use log files in aggregate usage of GOOD.
 
-3\. How GOOD Uses the Information We Gather
+## 3\. How GOOD Uses the Information We Gather
 
 3.1. Services You Request. GOOD uses personally identifying information you supply to provide you with the service you have requested. For example, if you subscribe to GOOD Magazine, we may use your email address to send you a confirmation notice and your mailing address to send you the publication.
 
@@ -58,7 +58,7 @@ We may also use the information to communicate with you about new features, prod
 
 3.4. Affiliates and Partners. Unless otherwise specified elsewhere on GOOD, we may share personally identifying information with our affiliates, and with carefully selected partners.
 
-4\. Our Email Policy. GOOD complies fully with the federal CAN SPAM Act of 2003.
+## 4\. Our Email Policy. GOOD complies fully with the federal CAN SPAM Act of 2003.
 
 4.1. Account Related Emails. GOOD reserves the right to send you email relating to your account status. This includes order confirmations, renewal notices, notices about credit cards problems, and other transactional emails and notifications about major changes to GOOD or our Privacy Policy or Terms of Service.
 
@@ -66,15 +66,17 @@ We may also use the information to communicate with you about new features, prod
 
 4.3. Promotional Emails. GOOD may also periodically email you messages about products and services that we think may be of interest to you. You may choose not to receive messages in the future by following the “unsubscribe” instructions located at the bottom of each email.
 
-5\. Kids and Parents. GOOD is not intended for use by children under the age of 13. No one under age 13 is allowed to provide any personal information or use our public discussion areas, forums, and chats. Minors between the ages of 13 and 17 must get the permission of their parent(s) or legal guardian (s) before making purchases, including subscriptions on the site. If you are worried about you're your children's activities or their privacy on our site, we encourage you to contact our Privacy Policy Coordinator as described above.
+## 5\. Kids and Parents.
 
-6\. Legal Stuff.
+GOOD is not intended for use by children under the age of 13. No one under age 13 is allowed to provide any personal information or use our public discussion areas, forums, and chats. Minors between the ages of 13 and 17 must get the permission of their parent(s) or legal guardian (s) before making purchases, including subscriptions on the site. If you are worried about you're your children's activities or their privacy on our site, we encourage you to contact our Privacy Policy Coordinator as described above.
+
+## 6\. Legal Stuff.
 
 6.1. Legal Requirements. We may also provide access to our databases to cooperate with official investigations or legal proceedings, including, for example, in response to subpoenas, search warrants, court orders, or other legal proceedings.
 
 6.2. Acquisition or Transfer. As our business changes, we may buy or sell various assets. In the event that all or a portion of the assets owned or controlled by GOOD, its parent, subsidiaries, or affiliates, are sold, assigned, transferred or acquired by another company, the information from and/or about GOOD users may be among the assets.
 
-7\. How Information is Kept Secure
+## 7\. How Information is Kept Secure
 
 7.1. Security of Account Information. Your member account information is password-protected. We will not share your password with anyone. Please do not share your password with anyone, and remember to change your password from time to time, to keep your account information secure.
 
@@ -82,8 +84,14 @@ We may also use the information to communicate with you about new features, prod
 
 7.3. Management Procedures. We also maintain standard physical and electronic procedural safeguards that limit access to your personally identifiable information to our employees (or people working on our behalf and under confidentiality agreements) who, through the course of standard business activities, need to access your personally identifiable information.
 
-8\. For Our Canadian Members and Visitors. Canadian citizens, except under circumstances defined by law, are entitled to access their own personally identifiable information collected by GOOD by writing to: Web Director, GOOD Worldwide Inc, 6380 Wilshire Blvd., 15th Floor, Los Angeles, California 90048. We may ask you to pay an administrative fee for accessing or copying your information, but will inform you of the anticipated charges and confirm that you want us to proceed before processing your request. If you believe that the personally identifiable information about you that we have collected is incomplete or inaccurate, we will correct the information upon verification of the omission or error and of the identity of the person requesting the change. If you wish additional information about our personal identifiable management, to access, correct or have us investigate any matters in relation to your personally identifiable information, please contact our Web Director at the address provided above.
+## 8\. For Our Canadian Members and Visitors.
 
-9\. Special Note For Our International Visitors. GOOD's website is intended for and directed to users in the United States. If you are accessing the GOOD website from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use and disclosure that differ from United States laws, please be advised that through your continued use of the GOOD website which is governed by U.S. law, this Privacy Notice and our Terms of Service, you are transferring your personal information to the United States and you consent to that transfer.
+Canadian citizens, except under circumstances defined by law, are entitled to access their own personally identifiable information collected by GOOD by writing to: Web Director, GOOD Worldwide Inc, 6380 Wilshire Blvd., 15th Floor, Los Angeles, California 90048. We may ask you to pay an administrative fee for accessing or copying your information, but will inform you of the anticipated charges and confirm that you want us to proceed before processing your request. If you believe that the personally identifiable information about you that we have collected is incomplete or inaccurate, we will correct the information upon verification of the omission or error and of the identity of the person requesting the change. If you wish additional information about our personal identifiable management, to access, correct or have us investigate any matters in relation to your personally identifiable information, please contact our Web Director at the address provided above.
 
-10\. Updates to Our Privacy Policy. Our service is evolving and developing. From time to time, we will review and make changes to our privacy policy. When we do so, we will notify you either by email or place a prominent notice on our website. The most recent version of our privacy policy is always available from a link on our homepage, and at good.is/privacy. We encourage you to visit this site frequently to stay up to date on our current policy.
+## 9\. Special Note For Our International Visitors.
+
+GOOD's website is intended for and directed to users in the United States. If you are accessing the GOOD website from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use and disclosure that differ from United States laws, please be advised that through your continued use of the GOOD website which is governed by U.S. law, this Privacy Notice and our Terms of Service, you are transferring your personal information to the United States and you consent to that transfer.
+
+## 10\. Updates to Our Privacy Policy.
+
+Our service is evolving and developing. From time to time, we will review and make changes to our privacy policy. When we do so, we will notify you either by email or place a prominent notice on our website. The most recent version of our privacy policy is always available from a link on our homepage, and at good.is/privacy. We encourage you to visit this site frequently to stay up to date on our current policy.
