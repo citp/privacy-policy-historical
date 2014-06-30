@@ -1,17 +1,19 @@
-<!--The following is the downloaded HTML source of the stocklayouts.com privacy policy that was archived on 2013-10-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131017084611id_/http%3A//www.stocklayouts.com/Privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the stocklayouts.com privacy policy that was archived on 2014-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140630080728id_/http%3A//www.stocklayouts.com/Privacy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><head><meta http-equiv="X-UA-Compatible" content="IE=9">
-	    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/ClientScript/SL-Main-Nav.js"></script>
-		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta name="verify-v1" content="JzdIphdEbOqZc7gRvT4FEAEeHUkQFKsyqlqOoBvvvZM="><link rel="stylesheet" type="text/css" href="/Styles/sl-main.css?09-06-13"><link rel="stylesheet" type="text/css" href="/Styles/topNavStyles.css?07-25-13"><link rel="stylesheet" type="text/css" href="/Styles/tabs.css?8-01-10"><link rel="stylesheet" type="text/css" href="/highslide/highslide.css?12-28-12"><link rel="shortcut icon" href="/favicon.ico">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta name="viewport" content="width=1024"><meta name="verify-v1" content="JzdIphdEbOqZc7gRvT4FEAEeHUkQFKsyqlqOoBvvvZM="><link rel="stylesheet" type="text/css" href="/Styles/sl-main.css?v=20140622"><link rel="stylesheet" type="text/css" href="/Styles/top-nav.css?v=20140503"><link rel="stylesheet" type="text/css" href="/Styles/tabs.css?v=20140201"><link rel="stylesheet" type="text/css" href="/highslide/highslide.css?v=20140521"><link rel="stylesheet" type="text/css" href="/Styles/bxslider.css"><link rel="shortcut icon" href="/favicon.ico?v=20140202" type="image/x-icon"><link rel="icon" href="/favicon.ico?v=20140202" type="image/x-icon">
+        <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="//use.typekit.net/cdd1tau.js"></script>
+        <script type="text/javascript">
+            try { Typekit.load(); } catch (e) { }
+        </script>
 		<script type="text/javascript" src="/highslide/highslide.js"></script>
         <script type="text/javascript">
             // override Highslide settings here
             // instead of editing the highslide.js file
             hs.Expander.prototype.onImageClick = function() {
-              if (this.custom) {
-                navigateWithReferrer(this.custom.url);
-                // window.location.href = this.custom.url 
+                if (this.custom) {
+                    navigateWithReferrer(this.custom.url);
+                    // window.location.href = this.custom.url 
                 };
                 return false;
             }
@@ -20,7 +22,8 @@
                 hs.lang.restoreTitle = this.thumb.title
             };
             hs.graphicsDir = '/highslide/graphics/';
-            hs.captionOverlay.position = 'below';
+            hs.captionOverlay.position = "rightpanel";
+            hs.captionOverlay.width = "240px";
             hs.registerOverlay({
                 thumbnailId: 'full',
                 overlayId: 'close-button',
@@ -45,22 +48,50 @@
                 position: 'top right',
                 fade: 2 // fading the semi-transparent overlay looks bad in IE
             });
-            function navigateWithReferrer(url)
-            {
-                var fakeLink = document.createElement ("a");
-                if (typeof(fakeLink.click) == 'undefined')
+
+            function navigateWithReferrer(url) {
+                var fakeLink = document.createElement("a");
+                if (typeof (fakeLink.click) == 'undefined')
                     window.location.href = url;  // sends referrer in FF, not in IE
-                else
-                {
+                else {
                     fakeLink.href = url;
                     document.body.appendChild(fakeLink);
                     fakeLink.click();   // click() method defined in IE only
                 }
             }
         </script>
-
+        <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+        <script type="text/javascript" src="/ClientScript/bxslider.js"></script>
+        <script type="text/javascript">
+            $(document).ready(function() {
+                $('.slider1').bxSlider({
+                    minSlides: 3,
+                    maxSlides: 3,
+                    slideWidth: 280,
+                    slideMargin: 20,
+                    infiniteLoop: false,
+                    pager: false
+                });
+                $('.slider2').bxSlider({
+                    minSlides: 3,
+                    maxSlides: 3,
+                    slideWidth: 280,
+                    slideMargin: 20,
+                    infiniteLoop: false,
+                    pager: false
+                });
+                $('.slider3').bxSlider({
+                    minSlides: 5,
+                    maxSlides: 5,
+                    slideWidth: 160,
+                    slideMargin: 20,
+                    infiniteLoop: false,
+                    pager: false
+                });
+            });
+        </script>
+        <script type="text/javascript" src="/ClientScript/Utilities.js"></script>
 		
-
 
         <script type="text/javascript">
 
@@ -75,7 +106,7 @@
             })();
 
         </script>
-	<link href="/Styles/genericBrowser.css?2-20-09" type="text/css" rel="stylesheet"><link href="/Styles/SideSearch.css?08-02-11" type="text/css" rel="stylesheet">	<meta name="KEYWORDS" content="privacy, policy">
+		<meta name="KEYWORDS" content="privacy, policy">
 	<meta name="DESCRIPTION" content="StockLayouts privacy policy for the Internet.">
 <title>
 	StockLayouts | Privacy Policy
@@ -83,606 +114,468 @@
 	<body>
 		<form name="aspnetForm" method="post" action="/Privacy.aspx" id="aspnetForm">
 <div>
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJODk5OTg5MTY2D2QWAmYPZBYCAgMQZGQWBAIDD2QWBAIBD2QWAmYPZBYCAgEPDxYCHgRUZXh0ZWRkAgIPZBYCZg9kFgJmD2QWAgIDDw8WAh4HVmlzaWJsZWhkZAIFD2QWBgIBD2QWAgIFDxBkZBYAZAICD2QWBAIBDxYCHglpbm5lcmh0bWwFEVNlYXJjaCBCeSBQcm9kdWN0ZAIDD2QWAmYPEGQQFRQJQnJvY2h1cmVzC05ld3NsZXR0ZXJzBkZseWVycwlQb3N0Y2FyZHMOQnVzaW5lc3MgQ2FyZHMLTGV0dGVyaGVhZHMKRGF0YXNoZWV0cw1QcmVzZW50YXRpb25zBU1lbnVzB1Bvc3RlcnMKUmFjayBDYXJkcwlQcmludCBBZHMJUGFtcGhsZXRzCExlYWZsZXRzDFNhbGVzIFNoZWV0cw5HcmVldGluZyBDYXJkcwpOb3RlIENhcmRzBUxvZ29zC0NEIEJvb2tsZXRzEVsrXSBNb3JlIFByb2R1Y3RzFRRWaHR0cDovL3d3dy5zdG9ja2xheW91dHMuY29tL1RlbXBsYXRlcy9Ccm9jaHVyZS9Ccm9jaHVyZS1UZW1wbGF0ZXMtRGVzaWducy1MaWJyYXJ5LmFzcHhaaHR0cDovL3d3dy5zdG9ja2xheW91dHMuY29tL1RlbXBsYXRlcy9OZXdzbGV0dGVyL05ld3NsZXR0ZXItVGVtcGxhdGVzLURlc2lnbnMtTGlicmFyeS5hc3B4UGh0dHA6Ly93d3cuc3RvY2tsYXlvdXRzLmNvbS9UZW1wbGF0ZXMvRmx5ZXIvRmx5ZXItVGVtcGxhdGVzLURlc2lnbnMtTGlicmFyeS5hc3B4Vmh0dHA6Ly93d3cuc3RvY2tsYXlvdXRzLmNvbS9UZW1wbGF0ZXMvUG9zdGNhcmQvUG9zdGNhcmQtVGVtcGxhdGVzLURlc2lnbnMtTGlicmFyeS5hc3B4YGh0dHA6Ly93d3cuc3RvY2tsYXlvdXRzLmNvbS9UZW1wbGF0ZXMvQnVzaW5lc3MtQ2FyZC9CdXNpbmVzcy1DYXJkLVRlbXBsYXRlcy1EZXNpZ25zLUxpYnJhcnkuYXNweFpodHRwOi8vd3d3LnN0b2NrbGF5b3V0cy5jb20vVGVtcGxhdGVzL0xldHRlcmhlYWQvTGV0dGVyaGVhZC1UZW1wbGF0ZXMtRGVzaWducy1MaWJyYXJ5LmFzcHhYaHR0cDovL3d3dy5zdG9ja2xheW91dHMuY29tL1RlbXBsYXRlcy9EYXRhc2hlZXQvRGF0YXNoZWV0LVRlbXBsYXRlcy1EZXNpZ25zLUxpYnJhcnkuYXNweGlodHRwOi8vd3d3LnN0b2NrbGF5b3V0cy5jb20vVGVtcGxhdGVzL1Bvd2VyUG9pbnQtUHJlc2VudGF0aW9uL1ByZXNlbnRhdGlvbi1UZW1wbGF0ZXMtRGVzaWducy1MaWJyYXJ5LmFzcHhOaHR0cDovL3d3dy5zdG9ja2xheW91dHMuY29tL1RlbXBsYXRlcy9NZW51L01lbnUtVGVtcGxhdGVzLURlc2lnbnMtTGlicmFyeS5hc3B4Umh0dHA6Ly93d3cuc3RvY2tsYXlvdXRzLmNvbS9UZW1wbGF0ZXMvUG9zdGVyL1Bvc3Rlci1UZW1wbGF0ZXMtRGVzaWducy1MaWJyYXJ5LmFzcHhYaHR0cDovL3d3dy5zdG9ja2xheW91dHMuY29tL1RlbXBsYXRlcy9SYWNrLUNhcmQvUmFjay1DYXJkLVRlbXBsYXRlcy1EZXNpZ25zLUxpYnJhcnkuYXNweFZodHRwOi8vd3d3LnN0b2NrbGF5b3V0cy5jb20vVGVtcGxhdGVzL1ByaW50LUFkL1ByaW50LUFkLVRlbXBsYXRlcy1EZXNpZ25zLUxpYnJhcnkuYXNweFZodHRwOi8vd3d3LnN0b2NrbGF5b3V0cy5jb20vVGVtcGxhdGVzL1BhbXBobGV0L1BhbXBobGV0LVRlbXBsYXRlcy1EZXNpZ25zLUxpYnJhcnkuYXNweFRodHRwOi8vd3d3LnN0b2NrbGF5b3V0cy5jb20vVGVtcGxhdGVzL0xlYWZsZXQvTGVhZmxldC1UZW1wbGF0ZXMtRGVzaWducy1MaWJyYXJ5LmFzcHhcaHR0cDovL3d3dy5zdG9ja2xheW91dHMuY29tL1RlbXBsYXRlcy9TYWxlcy1TaGVldC9TYWxlcy1TaGVldC1UZW1wbGF0ZXMtRGVzaWducy1MaWJyYXJ5LmFzcHhgaHR0cDovL3d3dy5zdG9ja2xheW91dHMuY29tL1RlbXBsYXRlcy9HcmVldGluZy1DYXJkL0dyZWV0aW5nLUNhcmQtVGVtcGxhdGVzLURlc2lnbnMtTGlicmFyeS5hc3B4WGh0dHA6Ly93d3cuc3RvY2tsYXlvdXRzLmNvbS9UZW1wbGF0ZXMvTm90ZS1DYXJkL05vdGUtQ2FyZC1UZW1wbGF0ZXMtRGVzaWducy1MaWJyYXJ5LmFzcHhOaHR0cDovL3d3dy5zdG9ja2xheW91dHMuY29tL1RlbXBsYXRlcy9Mb2dvL0xvZ28tVGVtcGxhdGVzLURlc2lnbnMtTGlicmFyeS5hc3B4Wmh0dHA6Ly93d3cuc3RvY2tsYXlvdXRzLmNvbS9UZW1wbGF0ZXMvQ0QtQm9va2xldC9DRC1Cb29rbGV0LVRlbXBsYXRlcy1EZXNpZ25zLUxpYnJhcnkuYXNweAIrMBQrAxRnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZxYAZAIDD2QWBAIBDxYCHwIFElNlYXJjaCBCeSBJbmR1c3RyeWQCAw9kFgJmDxBkEBUdFVByb2Zlc3Npb25hbCBTZXJ2aWNlcxJGaW5hbmNpYWwgU2VydmljZXMLUmVhbCBFc3RhdGUVTWVkaWNhbCAmIEhlYWx0aCBDYXJlClRlY2hub2xvZ3kQU3BvcnRzICYgRml0bmVzcw9IZWFsdGggJiBCZWF1dHkURWR1Y2F0aW9uICYgVHJhaW5pbmcPRm9vZCAmIEJldmVyYWdlGVJlbGlnaW91cyAmIE9yZ2FuaXphdGlvbnMbQXV0b21vdGl2ZSAmIFRyYW5zcG9ydGF0aW9uFUFncmljdWx0dXJlICYgRmFybWluZwpDaGlsZCBDYXJlDENvbnN0cnVjdGlvbhRFbmVyZ3kgJiBFbnZpcm9ubWVudBpHb3Zlcm5tZW50ICYgUHVibGljIFNhZmV0eRBIb21lIE1haW50ZW5hbmNlCUluc3VyYW5jZQ5MZWdhbCBTZXJ2aWNlcw1NYW51ZmFjdHVyaW5nDE11c2ljICYgQXJ0cwpOb24gUHJvZml0DlBldHMgJiBBbmltYWxzDlJldGFpbCAmIFNhbGVzEFRyYXZlbCAmIFRvdXJpc20YV2VkZGluZyAmIEV2ZW50IFBsYW5uaW5nD0J1c2luZXNzIEV2ZW50cxJIb2xpZGF5ICYgU2Vhc29uYWwTWytdIE1vcmUgSW5kdXN0cmllcxUdcGh0dHA6Ly93d3cuc3RvY2tsYXlvdXRzLmNvbS9UZW1wbGF0ZXMvUHJvZmVzc2lvbmFsLVNlcnZpY2VzL1Byb2Zlc3Npb25hbC1TZXJ2aWNlcy1UZW1wbGF0ZXMtRGVzaWducy1MaWJyYXJ5LmFzcHhqaHR0cDovL3d3dy5zdG9ja2xheW91dHMuY29tL1RlbXBsYXRlcy9GaW5hbmNpYWwtU2VydmljZXMvRmluYW5jaWFsLVNlcnZpY2VzLVRlbXBsYXRlcy1EZXNpZ25zLUxpYnJhcnkuYXNweFxodHRwOi8vd3d3LnN0b2NrbGF5b3V0cy5jb20vVGVtcGxhdGVzL1JlYWwtRXN0YXRlL1JlYWwtRXN0YXRlLVRlbXBsYXRlcy1EZXNpZ25zLUxpYnJhcnkuYXNweGxodHRwOi8vd3d3LnN0b2NrbGF5b3V0cy5jb20vVGVtcGxhdGVzL01lZGljYWwtSGVhbHRoLUNhcmUvTWVkaWNhbC1IZWFsdGgtQ2FyZS1UZW1wbGF0ZXMtRGVzaWducy1MaWJyYXJ5LmFzcHhaaHR0cDovL3d3dy5zdG9ja2xheW91dHMuY29tL1RlbXBsYXRlcy9UZWNobm9sb2d5L1RlY2hub2xvZ3ktVGVtcGxhdGVzLURlc2lnbnMtTGlicmFyeS5hc3B4Ymh0dHA6Ly93d3cuc3RvY2tsYXlvdXRzLmNvbS9UZW1wbGF0ZXMvU3BvcnRzLUZpdG5lc3MvU3BvcnRzLUZpdG5lc3MtVGVtcGxhdGVzLURlc2lnbnMtTGlicmFyeS5hc3B4YGh0dHA6Ly93d3cuc3RvY2tsYXlvdXRzLmNvbS9UZW1wbGF0ZXMvSGVhbHRoLUJlYXV0eS9IZWFsdGgtQmVhdXR5LVRlbXBsYXRlcy1EZXNpZ25zLUxpYnJhcnkuYXNweGpodHRwOi8vd3d3LnN0b2NrbGF5b3V0cy5jb20vVGVtcGxhdGVzL0VkdWNhdGlvbi1UcmFpbmluZy9FZHVjYXRpb24tVHJhaW5pbmctVGVtcGxhdGVzLURlc2lnbnMtTGlicmFyeS5hc3B4YGh0dHA6Ly93d3cuc3RvY2tsYXlvdXRzLmNvbS9UZW1wbGF0ZXMvRm9vZC1CZXZlcmFnZS9Gb29kLUJldmVyYWdlLVRlbXBsYXRlcy1EZXNpZ25zLUxpYnJhcnkuYXNweHRodHRwOi8vd3d3LnN0b2NrbGF5b3V0cy5jb20vVGVtcGxhdGVzL1JlbGlnaW91cy1Pcmdhbml6YXRpb25zL1JlbGlnaW91cy1Pcmdhbml6YXRpb25zLVRlbXBsYXRlcy1EZXNpZ25zLUxpYnJhcnkuYXNweHhodHRwOi8vd3d3LnN0b2NrbGF5b3V0cy5jb20vVGVtcGxhdGVzL0F1dG9tb3RpdmUtVHJhbnNwb3J0YXRpb24vQXV0b21vdGl2ZS1UcmFuc3BvcnRhdGlvbi1UZW1wbGF0ZXMtRGVzaWducy1MaWJyYXJ5LmFzcHhsaHR0cDovL3d3dy5zdG9ja2xheW91dHMuY29tL1RlbXBsYXRlcy9BZ3JpY3VsdHVyZS1GYXJtaW5nL0FncmljdWx0dXJlLUZhcm1pbmctVGVtcGxhdGVzLURlc2lnbnMtTGlicmFyeS5hc3B4Wmh0dHA6Ly93d3cuc3RvY2tsYXlvdXRzLmNvbS9UZW1wbGF0ZXMvQ2hpbGQtQ2FyZS9DaGlsZC1DYXJlLVRlbXBsYXRlcy1EZXNpZ25zLUxpYnJhcnkuYXNweF5odHRwOi8vd3d3LnN0b2NrbGF5b3V0cy5jb20vVGVtcGxhdGVzL0NvbnN0cnVjdGlvbi9Db25zdHJ1Y3Rpb24tVGVtcGxhdGVzLURlc2lnbnMtTGlicmFyeS5hc3B4amh0dHA6Ly93d3cuc3RvY2tsYXlvdXRzLmNvbS9UZW1wbGF0ZXMvRW5lcmd5LUVudmlyb25tZW50L0VuZXJneS1FbnZpcm9ubWVudC1UZW1wbGF0ZXMtRGVzaWducy1MaWJyYXJ5LmFzcHh2aHR0cDovL3d3dy5zdG9ja2xheW91dHMuY29tL1RlbXBsYXRlcy9Hb3Zlcm5tZW50LVB1YmxpYy1TYWZldHkvR292ZXJubWVudC1QdWJsaWMtU2FmZXR5LVRlbXBsYXRlcy1EZXNpZ25zLUxpYnJhcnkuYXNweGZodHRwOi8vd3d3LnN0b2NrbGF5b3V0cy5jb20vVGVtcGxhdGVzL0hvbWUtTWFpbnRlbmFuY2UvSG9tZS1NYWludGVuYW5jZS1UZW1wbGF0ZXMtRGVzaWducy1MaWJyYXJ5LmFzcHhYaHR0cDovL3d3dy5zdG9ja2xheW91dHMuY29tL1RlbXBsYXRlcy9JbnN1cmFuY2UvSW5zdXJhbmNlLVRlbXBsYXRlcy1EZXNpZ25zLUxpYnJhcnkuYXNweGJodHRwOi8vd3d3LnN0b2NrbGF5b3V0cy5jb20vVGVtcGxhdGVzL0xlZ2FsLVNlcnZpY2VzL0xlZ2FsLVNlcnZpY2VzLVRlbXBsYXRlcy1EZXNpZ25zLUxpYnJhcnkuYXNweGBodHRwOi8vd3d3LnN0b2NrbGF5b3V0cy5jb20vVGVtcGxhdGVzL01hbnVmYWN0dXJpbmcvTWFudWZhY3R1cmluZy1UZW1wbGF0ZXMtRGVzaWducy1MaWJyYXJ5LmFzcHhaaHR0cDovL3d3dy5zdG9ja2xheW91dHMuY29tL1RlbXBsYXRlcy9NdXNpYy1BcnRzL011c2ljLUFydHMtVGVtcGxhdGVzLURlc2lnbnMtTGlicmFyeS5hc3B4Wmh0dHA6Ly93d3cuc3RvY2tsYXlvdXRzLmNvbS9UZW1wbGF0ZXMvTm9uLVByb2ZpdC9Ob24tUHJvZml0LVRlbXBsYXRlcy1EZXNpZ25zLUxpYnJhcnkuYXNweF5odHRwOi8vd3d3LnN0b2NrbGF5b3V0cy5jb20vVGVtcGxhdGVzL1BldHMtQW5pbWFscy9QZXRzLUFuaW1hbHMtVGVtcGxhdGVzLURlc2lnbnMtTGlicmFyeS5hc3B4Xmh0dHA6Ly93d3cuc3RvY2tsYXlvdXRzLmNvbS9UZW1wbGF0ZXMvUmV0YWlsLVNhbGVzL1JldGFpbC1TYWxlcy1UZW1wbGF0ZXMtRGVzaWducy1MaWJyYXJ5LmFzcHhiaHR0cDovL3d3dy5zdG9ja2xheW91dHMuY29tL1RlbXBsYXRlcy9UcmF2ZWwtVG91cmlzbS9UcmF2ZWwtVG91cmlzbS1UZW1wbGF0ZXMtRGVzaWducy1MaWJyYXJ5LmFzcHhyaHR0cDovL3d3dy5zdG9ja2xheW91dHMuY29tL1RlbXBsYXRlcy9XZWRkaW5nLUV2ZW50LVBsYW5uaW5nL1dlZGRpbmctRXZlbnQtUGxhbm5pbmctVGVtcGxhdGVzLURlc2lnbnMtTGlicmFyeS5hc3B4ZGh0dHA6Ly93d3cuc3RvY2tsYXlvdXRzLmNvbS9UZW1wbGF0ZXMvQnVzaW5lc3MtRXZlbnRzL0J1c2luZXNzLUV2ZW50cy1UZW1wbGF0ZXMtRGVzaWducy1MaWJyYXJ5LmFzcHhmaHR0cDovL3d3dy5zdG9ja2xheW91dHMuY29tL1RlbXBsYXRlcy9Ib2xpZGF5LVNlYXNvbmFsL0hvbGlkYXktU2Vhc29uYWwtVGVtcGxhdGVzLURlc2lnbnMtTGlicmFyeS5hc3B4AiswFCsDHWdnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnZ2dnFgBkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYBBRtjdGwwMCRkeW5hU2lkZU5hdjEkZ29CdXR0b24nhVLL9Wda0RcNcy19+kjtzbraHQ==">
+<input type="hidden" name="ctl00_slScriptManager_HiddenField" id="ctl00_slScriptManager_HiddenField" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNDMyNDU0NjAzD2QWAmYPZBYCAgMQZGQWAgIDD2QWAgIBD2QWAmYPZBYCZg9kFgICAw8PFgIeB1Zpc2libGVoZGQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgIFMGN0bDAwJHRvcE5hdkNvbnRyb2wkdG9wU2VhY2hDb250cm9sJHNlYXJjaEJ1dHRvbgUhY3RsMDAkQm90dG9tTmF2JGVtYWlsU3VibWl0QnV0dG9ud1DYFF4+NxhWtDbCo4zukcbnG84=">
 </div>
 
 
-<script src="/ScriptResource.axd?d=oW3jUJ0aKBEYZ_sR54X2h9gKRrgTmAjoiTrImkhcuFACv5VG-kY--NB4seaVyk7Rs29NsWyXOJvfo5zUGSzGWKjLTHIfkNzZQfJ8KcSbq_1dW9J-ocRLl9pkW9b3Ct33AyneSyeI3J1RVlVJv217FWI8UQg1&amp;t=75f33161" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=36-_pIGqEVJcRkB2k7quXIN6YA2iwnkhhzjf5yYL4zhlMNpL5iysEau1PdgLJlKHgYAIWqa2p7GUagPQNoo_KKU7STGkvmXcePngQvMh3xMIbuNu-jysoOkva7MbH8g-qmwisoewbogNH_clSOFzXzd0nGY1&amp;t=ffffffffcf2b31b5" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=aTwOIRJwuXul1lmYGteX_f6Pb2EWBtIFYmzQO1Khjwe1QAKAAudgCNytXfO4lhFu2EGQyByKF0zR01S21luxcTKICYlLZFLCd9hiS1CU3wmxbCNWbgLZoqR6WgvAimIGGq1EcnJoj9QD1vN-iN7GzXm9pRA1&amp;t=ffffffffcf2b31b5" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=67LHbtAxvAL47srptLGD0GCXWR93M9f5xlETvaHGhI95NlsutP0IBtZCsnPpd_ggiVekq35X8YwnyLED3EVS30IREK0LMUyRKS5S_98KygRM2yl9bmsqcshWglIWe9kiZ0wRmLdYQn_YRQxzJv23D96brB41&amp;t=ffffffffcf2b31b5" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=Sc2izT1jeDkd9WHhnsBsek9HUWROWzdhkVB_L8-ebEmd8jyhltlSo5j3WhXc-yP-QnvZmmgIh5HVzc6XQ77156ZFPIk6c0uLrhqjI7wGVKWFCgi4zlxvEkdu1P1gQTjgG-e1P1Ky_3HSmw3xHWe8dSxmdQc1&amp;t=ffffffffcf2b31b5" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=KVvXQUFpPuv_Zd4hijFjT0P9Oa8Ep-ZuVB4pMx3NYNUWVKEoa0xLAqNhVDqbEjHAA_8IXhNYwcbhsTValheb0Dq16j19ZauH63Lxui9-jHkekex_0Hs10nv3HQvdZZFx3r9iHkWHgtsRMkc0B_4ffdEDgZ01&amp;t=ffffffffcf2b31b5" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=rLhUGVv5L779DYzb8psXEdkhOUP0ghB_d43ypf0pbw4pKK9-zmUMomHlj67iWwne7UfueDsOMymTdu5MO_JMJoruYsxsOw3km_jlr6L-Xc7qEf8J0Zn0lHsbFfBvVNLL2aLnbWxuwrnM_1cz4Br3gjxXC3s1&amp;t=ffffffffcf2b31b5" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=RpudylM4Dx7iChV4ftZJAuVi6VQ6dvt86tMtTlrlAfszf2ET2y7kNoHdeoPKrGUzw9af6Qsz9ETrKpES6K_fAcvKjcWsl-Ih6JZ_NprQLyHwFoPFuLDyHGL7PaaBDQSBWQEQUTGKE_38CoTyT3nLJniOayf0r1_8WXADH0mzI4PLZXrQ0&amp;t=ffffffffcf2b31b5" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=oW3jUJ0aKBEYZ_sR54X2h9gKRrgTmAjoiTrImkhcuFACv5VG-kY--NB4seaVyk7Rs29NsWyXOJvfo5zUGSzGWKjLTHIfkNzZQfJ8KcSbq_1dW9J-ocRLl9pkW9b3Ct33AyneSyeI3J1RVlVJv217FWI8UQg1&amp;t=91c07f7" type="text/javascript"></script>
 <div>
 
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBgLtlvOPDgLE4fnDCgLqk42rCAK95awwAt7Xq4UEAriKofEB/a1Q/6zQLcbxUQDnux9yUwC5oHo=">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWBQL5zZ31CwLPu9rUCALdpYHCCgK7sI2YDwLIof3wDMpaseG+aho34NRSeJZLSlfGO201">
 </div>
 			<input type="hidden" name="ctl00$slScriptManager" id="ctl00_slScriptManager">
             <div class="highslide-overlay" id="close-button" onclick="return hs.close(this)" title="Close"></div>
             <div class="highslide-closelink" id="close-link" onclick="return hs.close(this)">close</div>
             <div class="highslide-detail-close" id="detail-close-button" onclick="return hs.close(this)" title="Close"></div>
             <div class="highslide-detail-closelink" id="detail-close-link" onclick="return hs.close(this)">close</div>
-			<div style="width: 1040px; margin: 10px auto 0px auto;">
-				<table border="0" cellpadding="0" cellspacing="0">
-					<tbody><tr valign="top">
-						<td style="width: 20px; background: url('/images/bg-shadow-left.png') repeat-y;">
-							<img src="/images/bg-shadow-top-left.png" alt="" style="background: #D7DEE8; width: 20px; height: 20px;">
-						</td>
-						<td>
-							<div style="width: 980px; padding: 10px; background: #FFFFFF;">
-								
-<div id="topNavLogoBox">
-	<table border="0" cellpadding="0" cellspacing="0" width="100%" style="padding-top: 5px;">
-		<tbody><tr valign="bottom">
-			<td width="20"></td>
-			<td width="154">
-				<a href="http://www.stocklayouts.com/"><img src="/images/stocklayouts-logo.gif" alt="Graphic Design Templates | StockLayouts" style="display: inline; width: 154px; height: 29px;"></a>
-			</td>
-			<td width="56"></td>
-			<td width="306">
-				
-			</td>
-			<td width="430" align="right">
-			    <div id="ctl00_topNavControl_UserPanel1_topNavUserPanel">
+			<div id="wrap">
+			    <div id="main">
+                    
+<div class="top-header">
+    <div class="grid-container">
+        <div class="logo" style="margin-left: 10px;">
+		    <a href="http://www.stocklayouts.com/"><img src="/images/stocklayouts-logo.png" alt="Graphic Design Templates | StockLayouts" width="220" height="32" style="display: inline;"></a>
+        </div>
+        <div class="header-links" style="margin-right: 10px;">
+	        <div id="ctl00_topNavControl_UserPanel1_topNavUserPanel">
 	
-			<div id="ctl00_topNavControl_UserPanel1_notLoggedInPanel" class="topNavUserInfo">
+		<div id="ctl00_topNavControl_UserPanel1_notLoggedInPanel">
 		
-				<table border="0" cellpadding="0" cellspacing="0">
-					<tbody><tr style="vertical-align: text-bottom;">
-						<td><a href="https://www.stocklayouts.com/Account/Login.aspx" class="noUnderline">Log in</a></td>
-						<td align="center" width="20">|</td>
-						<td><a href="https://www.stocklayouts.com/Account/MyAccount.aspx" class="noUnderline">My account</a></td>
-						<td align="center" width="20">|</td>
-						<td><img src="/images/shopping-cart-icon.gif?v=20130601" alt="shopping cart icon" style="margin-right: 5px; margin-bottom: -1px; display: inline; width: 14px; height: 11px;"> 
-						<span class="cartItem">My Cart: <a href="https://www.stocklayouts.com/Order/Cart.aspx">0 Items</a></span></td>
-					</tr>
-				</tbody></table>
-			
+			<table border="0" cellpadding="0" cellspacing="0">
+				<tbody><tr style="vertical-align: text-bottom;">
+					<td><a href="https://www.stocklayouts.com/Account/Login.aspx" class="noUnderline">Log in</a></td>
+					<td align="center" width="20"></td>
+					<td><a href="https://www.stocklayouts.com/Account/MyAccount.aspx" class="noUnderline">My account</a></td>
+					<td align="center" width="30"></td>
+					<td>Cart:&nbsp;&nbsp;<span class="cartItem"><a href="https://www.stocklayouts.com/Order/Cart.aspx">0 Items</a></span></td>
+				</tr>
+			</tbody></table>
+		
 	</div>
-			
 		
-</div>
-			</td>
-		</tr>
-	</tbody></table>	
-</div>
-<ul id="topNavMenu">
-   <li class="menuButton"><a href="javascript:void(0);" class="menuButtonLink" style="text-decoration: none;"><span class="templates" style="text-align: center;">Templates <img src="/images/main-nav-arrow.png" class="navArrow" alt="" style="width: 6px; height: 3px;"></span></a>
-		<ul class="topDropDown">
-			<li class="col1" style="margin-bottom: 5px; margin-left: 20px; text-decoration: none;"><b>By Product</b></li>
-	        <li class="col1"><a href="http://www.stocklayouts.com/Templates/Brochure/Brochure-Templates-Designs.aspx">Brochures</a></li>
-	        <li class="col1"><a href="http://www.stocklayouts.com/Templates/Tri-Fold-Brochure/Tri-Fold-Brochure-Templates-Designs.aspx">Tri-Fold Brochures</a></li>
-	        <li class="col1"><a href="http://www.stocklayouts.com/Templates/Newsletter/Newsletter-Templates-Designs.aspx">Newsletters</a></li>
-	        <li class="col1"><a href="http://www.stocklayouts.com/Templates/Flyer/Flyer-Templates-Designs.aspx">Flyers</a></li>
-	        <li class="col1"><a href="http://www.stocklayouts.com/Templates/Print-Ad/Print-Ad-Templates-Designs.aspx">Print Ads</a></li>
-	        <li class="col1"><a href="http://www.stocklayouts.com/Templates/Postcard/Postcard-Templates-Designs.aspx">Postcards</a></li>
-	        <li class="col1"><a href="http://www.stocklayouts.com/Templates/Business-Card/Business-Card-Templates-Designs.aspx">Business Cards</a></li>
-	        <li class="col1"><a href="http://www.stocklayouts.com/Templates/Letterhead/Letterhead-Templates-Designs.aspx">Letterheads</a></li>
-	        <li class="col1"><a href="http://www.stocklayouts.com/Templates/Datasheet/Datasheet-Templates-Designs.aspx">Datasheets</a></li>
-	        <li class="col1"><a href="http://www.stocklayouts.com/Templates/PowerPoint-Presentation/Presentation-Templates-Designs.aspx">Presentations</a></li>
-	        <li class="col1"><a href="http://www.stocklayouts.com/Templates/Rack-Card/Rack-Card-Templates-Designs.aspx">Rack Cards</a></li>
-	        <li class="col1"><a href="http://www.stocklayouts.com/Templates/Menu/Menu-Templates-Designs.aspx">Menus</a></li>
-	        <li class="col1"><a href="http://www.stocklayouts.com/Templates/Pamphlet/Pamphlet-Templates-Designs.aspx">Pamphlets</a></li>
-	        <li class="col1"><a href="http://www.stocklayouts.com/Templates/Leaflet/Leaflet-Templates-Designs.aspx">Leaflets</a></li>
-	        <li class="col1"><a href="http://www.stocklayouts.com/Templates/Sales-Sheet/Sales-Sheet-Templates-Designs.aspx">Sales Sheets</a></li>
-	        <li class="col1"><a href="http://www.stocklayouts.com/Templates/Poster/Poster-Templates-Designs.aspx">Posters</a></li>
-	        <li class="col1"><a href="http://www.stocklayouts.com/Templates/Greeting-Card/Greeting-Card-Templates-Designs.aspx">Greeting Cards</a></li>
-	        <li class="col1"><a href="http://www.stocklayouts.com/Templates/Note-Card/Note-Card-Templates-Designs.aspx">Note Cards</a></li>
-	        <li class="col1" style="margin-top: 10px;"><a href="http://www.stocklayouts.com/Templates/Graphic-Design/Graphic-Design-Templates-Designs.aspx">All Design Templates</a></li>
-	        <li class="col2" style="margin-bottom: 5px; margin-left: 155px; text-decoration: none; margin-top: -388px;"><b>By Application</b></li>
-			<li class="col2"><a href="http://www.stocklayouts.com/Templates/Adobe-InDesign/Adobe-InDesign-Templates-Designs.aspx">Adobe InDesign</a></li>
-			<li class="col2"><a href="http://www.stocklayouts.com/Templates/Adobe-Illustrator/Adobe-Illustrator-Templates-Designs.aspx">Adobe Illustrator</a></li>
-	        <li class="col2"><a href="http://www.stocklayouts.com/Templates/Quark-QuarkXPress/Quark-QuarkXPress-Templates-Designs.aspx">QuarkXPress</a></li>
-	        <li class="col2"><a href="http://www.stocklayouts.com/Templates/Corel-CorelDraw/Corel-CorelDraw-Templates-Designs.aspx">CorelDRAW</a></li>
-	        <li class="col2"><a href="http://www.stocklayouts.com/Templates/Microsoft-Publisher/Microsoft-Publisher-Templates-Designs.aspx">Microsoft Publisher</a></li>
-	        <li class="col2"><a href="http://www.stocklayouts.com/Templates/Microsoft-Word/Microsoft-Word-Templates-Designs.aspx">Microsoft Word</a></li>
-	        <li class="col2"><a href="http://www.stocklayouts.com/Templates/Apple-iWork-Pages/Apple-iWork-Pages-Templates-Designs.aspx">Apple iWork Pages</a></li>
-	        <li class="col2" style="margin-bottom: 20px;"><a href="http://www.stocklayouts.com/Templates/Microsoft-PowerPoint/Microsoft-PowerPoint-Templates-Designs.aspx">Microsoft PowerPoint</a></li>
-	        <li class="col2" style="margin-bottom: 5px; margin-left: 155px; text-decoration: none;"><b>By Newest</b></li>
-			<li class="col2"><a href="http://www.stocklayouts.com/Templates/NewReleases.aspx" style="margin-bottom: 180px;">New Design Releases</a></li>
-	        <li class="col3" style="margin-bottom: 5px; margin-left: 305px; text-decoration: none; margin-top: -407px;"><b>By Industry</b></li>
-			<li class="col3"><a href="http://www.stocklayouts.com/Templates/Agriculture-Farming/Agriculture-Farming-Templates-Designs.aspx">Agriculture &amp; Farming</a></li>
-			<li class="col3"><a href="http://www.stocklayouts.com/Templates/Automotive-Transportation/Automotive-Transportation-Templates-Designs.aspx">Automotive</a></li>
-			<li class="col3"><a href="http://www.stocklayouts.com/Templates/Child-Care/Child-Care-Templates-Designs.aspx">Child Care</a></li>
-			<li class="col3"><a href="http://www.stocklayouts.com/Templates/Construction/Construction-Templates-Designs.aspx">Construction</a></li>
-			<li class="col3"><a href="http://www.stocklayouts.com/Templates/Education-Training/Education-Training-Templates-Designs.aspx">Education &amp; Training</a></li> 
-			<li class="col3"><a href="http://www.stocklayouts.com/Templates/Energy-Environment/Energy-Environment-Templates-Designs.aspx">Energy &amp; Environment</a></li>
-			<li class="col3"><a href="http://www.stocklayouts.com/Templates/Financial-Services/Financial-Services-Templates-Designs.aspx">Financial Services</a></li>
-			<li class="col3"><a href="http://www.stocklayouts.com/Templates/Food-Beverage/Food-Beverage-Templates-Designs.aspx">Food &amp; Beverage</a></li> 
-			<li class="col3"><a href="http://www.stocklayouts.com/Templates/Government-Public-Safety/Government-Public-Safety-Templates-Designs.aspx">Government</a></li>
-			<li class="col3"><a href="http://www.stocklayouts.com/Templates/Health-Beauty/Health-Beauty-Templates-Designs.aspx">Health &amp; Beauty</a></li>
-			<li class="col3"><a href="http://www.stocklayouts.com/Templates/Home-Maintenance/Home-Maintenance-Templates-Designs.aspx">Home Maintenance</a></li>
-			<li class="col3"><a href="http://www.stocklayouts.com/Templates/Insurance/Insurance-Templates-Designs.aspx">Insurance</a></li>
-			<li class="col3"><a href="http://www.stocklayouts.com/Templates/Legal-Services/Legal-Services-Templates-Designs.aspx">Legal Services</a></li>
-			<li class="col3"><a href="http://www.stocklayouts.com/Templates/Manufacturing/Manufacturing-Templates-Designs.aspx">Manufacturing</a></li>
-	        <li class="col3"><a href="http://www.stocklayouts.com/Templates/Medical-Health-Care/Medical-Health-Care-Templates-Designs.aspx">Medical &amp; Health Care</a></li>
-	        <li class="col3"><a href="http://www.stocklayouts.com/Templates/Music-Arts/Music-Arts-Templates-Designs.aspx">Music &amp; Arts</a></li>
-			<li class="col3"><a href="http://www.stocklayouts.com/Templates/Non-Profit/Non-Profit-Templates-Designs.aspx">Non Profit</a></li>
-			<li class="col4" style="margin-top: -323px;"><a href="http://www.stocklayouts.com/Templates/Pets-Animals/Pets-Animals-Templates-Designs.aspx">Pets &amp; Animals</a></li>
-			<li class="col4"><a href="http://www.stocklayouts.com/Templates/Professional-Services/Professional-Services-Templates-Designs.aspx">Professional Services</a></li>
-			<li class="col4"><a href="http://www.stocklayouts.com/Templates/Real-Estate/Real-Estate-Templates-Designs.aspx">Real Estate</a></li>
-			<li class="col4"><a href="http://www.stocklayouts.com/Templates/Religious-Organizations/Religious-Organizations-Templates-Designs.aspx">Religious &amp; Organizations</a></li>
-			<li class="col4"><a href="http://www.stocklayouts.com/Templates/Retail-Sales/Retail-Sales-Templates-Designs.aspx">Retail &amp; Sales</a></li>
-			<li class="col4"><a href="http://www.stocklayouts.com/Templates/Sports-Fitness/Sports-Fitness-Templates-Designs.aspx">Sports &amp; Fitness</a></li> 
-			<li class="col4"><a href="http://www.stocklayouts.com/Templates/Technology/Technology-Templates-Designs.aspx">Technology</a></li>
-			<li class="col4"><a href="http://www.stocklayouts.com/Templates/Travel-Tourism/Travel-Tourism-Templates-Designs.aspx">Travel &amp; Tourism</a></li>
-			<li class="col4"><a href="http://www.stocklayouts.com/Templates/Wedding-Event-Planning/Wedding-Event-Planning-Templates-Designs.aspx">Weddings &amp; Events</a></li>										
-			<li class="col4"><a href="http://www.stocklayouts.com/Templates/Business-Events/Business-Events-Templates-Designs.aspx">Business Events</a></li>									
-			<li class="col4"><a href="http://www.stocklayouts.com/Templates/Holiday-Seasonal/Holiday-Seasonal-Templates-Designs.aspx">Holiday &amp; Seasonal</a></li>
-			<li class="col4"><a href="http://www.stocklayouts.com/Templates/Graphic-Design/Graphic-Design-Templates-Designs.aspx">Graphic Designs</a></li>
-			<li class="col4"><a href="http://www.stocklayouts.com/Templates/Print-Design/Print-Design-Templates-Designs.aspx">Print Designs</a></li>
-			<li class="col4"><a href="http://www.stocklayouts.com/Templates/Desktop-Publishing/Desktop-Publishing-Templates-Designs.aspx">Desktop Publishing</a></li>
-			<li class="col4" style="margin-bottom: 86px;"><a href="http://www.stocklayouts.com/Templates/Business-Marketing/Business-Marketing-Templates-Designs.aspx">Business Marketing</a></li>
-        </ul>
-   </li>
-   <li class="menuButton"><a href="javascript:void(0);" class="menuButtonLink" style="text-decoration: none;"><span class="subscriptions">Plans &amp; Pricing <img src="/images/main-nav-arrow.png" class="navArrow" alt="" style="width: 6px; height: 3px;"></span></a>
-        <ul class="topDropDown">
-			<li class="col5" style="margin-bottom: 5px; margin-left: 20px; text-decoration: none;"><b>Subscribe and Save!</b></li>
-	        <li class="col5" style="line-height: 19px; margin-left: 20px; margin-right: 15px; text-decoration: none;">3-Month Subscription <span class="orange">$299</span></li>
-	        <li class="col5" style="line-height: 19px; margin-left: 20px; margin-right: 15px; text-decoration: none;">1-Year Subscription <span class="orange">$599</span></li>
-	        <li class="col5" style="margin-top: 5px;"><a href="http://www.stocklayouts.com/Templates/Template-Subscriptions.aspx"><u>Template Subscriptions</u></a></li>
-        </ul>
-    </li>
-    <li class="menuButton"><a href="javascript:void(0);" class="menuButtonLink" style="text-decoration: none;"><span class="samples">Free Templates <img src="/images/main-nav-arrow.png" class="navArrow" alt="" style="width: 6px; height: 3px;"></span></a>
-        <ul class="topDropDown">
-			<li class="col6"><a href="http://www.stocklayouts.com/Templates/Free-Templates/Free-Brochure-Templates-Download.aspx">Free Brochure</a></li>
-			<li class="col6"><a href="http://www.stocklayouts.com/Templates/Free-Templates/Free-Tri-Fold-Brochure-Templates-Download.aspx">Free Tri-Fold Brochure</a></li>
-	        <li class="col6"><a href="http://www.stocklayouts.com/Templates/Free-Templates/Free-Newsletter-Templates-Download.aspx">Free Newsletter</a></li>
-	        <li class="col6"><a href="http://www.stocklayouts.com/Templates/Free-Templates/Free-Flyer-Templates-Download.aspx">Free Flyer</a></li>
-	        <li class="col6"><a href="http://www.stocklayouts.com/Templates/Free-Templates/Free-Print-Ad-Templates-Download.aspx">Free Print Ad</a></li>
-	        <li class="col6"><a href="http://www.stocklayouts.com/Templates/Free-Templates/Free-Postcard-Templates-Download.aspx">Free Postcard</a></li>
-	        <li class="col6"><a href="http://www.stocklayouts.com/Templates/Free-Templates/Free-Business-Card-Templates-Download.aspx">Free Business Card</a></li>
-	        <li class="col6"><a href="http://www.stocklayouts.com/Templates/Free-Templates/Free-Letterhead-Templates-Download.aspx">Free Letterhead</a></li>
-	        <li class="col6"><a href="http://www.stocklayouts.com/Templates/Free-Templates/Free-Datasheet-Templates-Download.aspx">Free Datasheet</a></li>
-	        <li class="col6"><a href="http://www.stocklayouts.com/Templates/Free-Templates/Free-Presentation-Templates-Download.aspx">Free Presentation</a></li>
-	        <li class="col6"><a href="http://www.stocklayouts.com/Templates/Free-Templates/Free-Rack-Card-Templates-Download.aspx">Free Rack Card</a></li>
-	        <li class="col6"><a href="http://www.stocklayouts.com/Templates/Free-Templates/Free-Menu-Templates-Download.aspx">Free Menu</a></li>
-	        <li class="col6"><a href="http://www.stocklayouts.com/Templates/Free-Templates/Free-Pamphlet-Templates-Download.aspx">Free Pamphlet</a></li>
-	        <li class="col6"><a href="http://www.stocklayouts.com/Templates/Free-Templates/Free-Leaflet-Templates-Download.aspx">Free Leaflet</a></li>	        
-	        <li class="col6"><a href="http://www.stocklayouts.com/Templates/Free-Templates/Free-Sales-Sheet-Templates-Download.aspx">Free Sales Sheet</a></li>	        
-	        <li class="col6"><a href="http://www.stocklayouts.com/Templates/Free-Templates/Free-Poster-Templates-Download.aspx">Free Poster</a></li>	        
-	        <li class="col6"><a href="http://www.stocklayouts.com/Templates/Free-Templates/Free-Greeting-Card-Templates-Download.aspx">Free Greeting Card</a></li>
-	        <li class="col6"><a href="http://www.stocklayouts.com/Templates/Free-Templates/Free-Note-Card-Templates-Download.aspx">Free Note Card</a></li>
-			<li class="col6" style="margin-top: 10px;"><a href="http://www.stocklayouts.com/Templates/Free-Templates/Free-Sample-Templates.aspx">All Free Templates</a></li>
-			<li class="col6"><a href="http://www.stocklayouts.com/Templates/Graphic-Design-PDF-Portfolio-Catalog.aspx">Free Design Catalog</a></li>
-        </ul>
-    </li>
-    <li class="menuButton"><a href="javascript:void(0);" class="menuButtonLink" style="text-decoration: none;"><span class="solutions">Solutions <img src="/images/main-nav-arrow.png" class="navArrow" alt="" style="width: 6px; height: 3px;"></span></a>
-		<ul class="topDropDown">
-	        <li class="col7"><a href="http://www.stocklayouts.com/Solutions/Small-Business-Marketing.aspx">Small Business Owners</a></li>
-	        <li class="col7"><a href="http://www.stocklayouts.com/Solutions/Graphic-Designs.aspx">Graphic Designers</a></li>
-	        <li class="col7"><a href="http://www.stocklayouts.com/Solutions/Desktop-Publishing.aspx">Desktop Publishers</a></li>
-	        <li class="col7"><a href="http://www.stocklayouts.com/Solutions/Marketing-Materials.aspx">Marketing Professionals</a></li>
-	        <li class="col7"><a href="http://www.stocklayouts.com/Solutions/Color-Printing.aspx">Commercial Printers</a></li>
-	        <li class="col7"><a href="http://www.stocklayouts.com/Solutions/Web-To-Print-Applications-Templates.aspx">Web-to-Print Templates</a></li>
-        </ul>
-    </li>
-    <li class="menuButton"><a href="javascript:void(0);" class="menuButtonLink" style="text-decoration: none;"><span class="support">Support <img src="/images/main-nav-arrow.png" class="navArrow" alt="" style="width: 6px; height: 3px;"></span></a>
-        <ul class="topDropDown">
-			<li class="col8"><a href="https://www.stocklayouts.com/Account/MyAccount.aspx">My Account</a></li>
-	        <li class="col8"><a href="http://www.stocklayouts.com/Templates/How-Templates-Work.aspx">How Templates Work</a></li>
-	        <li class="col8"><a href="http://www.stocklayouts.com/Support/Faqs.aspx">Top 10 FAQS</a></li>
-	        <li class="col8"><a href="http://www.stocklayouts.com/Templates/How-To-Video-Tutorials.aspx">How-To Videos</a></li>
-	        <li class="col8"><a href="http://www.stocklayouts.com/Support/HelpGuide.aspx">Help Guide</a></li>
-	        <li class="col8"><a href="http://www.stocklayouts.com/Support/Resources.aspx">Resource Links</a></li>
-	        <li class="col8"><a href="http://www.stocklayouts.com/Support/Testimonials.aspx">Testimonials</a></li>
-	        <li class="col8"><a href="http://graphicdesign.stocklayouts.com/" target="_blank">Graphic Design Blog</a></li>
-	        <li class="col8"><a href="http://www.stocklayouts.com/ContactUs.aspx">Contact Us</a></li>
-        </ul>
-    </li>
-</ul>
-								<div id="topDiv">
-									<table border="0" cellspacing="0" cellpadding="0">
-										<tbody><tr>
-											<td colspan="3" height="5"></td>
-										</tr>
-										<tr valign="top">
-											<td width="200">
-												
-
-<div style="width: 200px; margin-bottom: 20px;" class="sideNav">
-    <div id="ctl00_dynaSideNav1_textSearchPanel">
 	
-	    <div style="padding: 12px 10px 13px 10px; background: #EEF5FC">
-		    <h4 class="basicHeader" style="display: block; margin-bottom: 6px; margin-top: 0px;">
-		        Find a Template
-		    </h4>
-		    <table border="0" cellpadding="0" cellspacing="0" width="100%">
-			    <tbody><tr valign="middle">
-				    <td>
-					    <input name="ctl00$dynaSideNav1$searchFeild" type="text" id="ctl00_dynaSideNav1_searchFeild" class="sideSearchBox" onfocus="clearSearch()" onblur="resetSearch()">
-					    
-				    </td>
-				    <td align="right">
-					    <input type="image" name="ctl00$dynaSideNav1$goButton" id="ctl00_dynaSideNav1_goButton" class="sideSearchButton" src="/images/go-button.gif" style="border-width:0px;">
-				    </td>
-			    </tr>
-		    </tbody></table>
-	    </div>
-    
-</div>	
-    <div style="width: auto; height: 10px;"></div>
-    <div class="dynaSideNav">
-        
-        <div id="ctl00_dynaSideNav1_divProductMenu">
-            <h4 id="ctl00_dynaSideNav1_h4Product" class="basicHeader">Search By Product</h4>
-            <ul id="ctl00_dynaSideNav1_productTreeNav_blstOptions">
-	<li><a href="http://www.stocklayouts.com/Templates/Brochure/Brochure-Templates-Designs-Library.aspx">Brochures</a></li><li><a href="http://www.stocklayouts.com/Templates/Newsletter/Newsletter-Templates-Designs-Library.aspx">Newsletters</a></li><li><a href="http://www.stocklayouts.com/Templates/Flyer/Flyer-Templates-Designs-Library.aspx">Flyers</a></li><li><a href="http://www.stocklayouts.com/Templates/Postcard/Postcard-Templates-Designs-Library.aspx">Postcards</a></li><li><a href="http://www.stocklayouts.com/Templates/Business-Card/Business-Card-Templates-Designs-Library.aspx">Business Cards</a></li><li><a href="http://www.stocklayouts.com/Templates/Letterhead/Letterhead-Templates-Designs-Library.aspx">Letterheads</a></li><li><a href="http://www.stocklayouts.com/Templates/Datasheet/Datasheet-Templates-Designs-Library.aspx">Datasheets</a></li><li><a href="http://www.stocklayouts.com/Templates/PowerPoint-Presentation/Presentation-Templates-Designs-Library.aspx">Presentations</a></li><li><a href="http://www.stocklayouts.com/Templates/Menu/Menu-Templates-Designs-Library.aspx">Menus</a></li><li><a href="http://www.stocklayouts.com/Templates/Poster/Poster-Templates-Designs-Library.aspx">Posters</a></li><li class="expandedNavNode0" style="display: none;"><a href="http://www.stocklayouts.com/Templates/Rack-Card/Rack-Card-Templates-Designs-Library.aspx">Rack Cards</a></li><li class="expandedNavNode0" style="display: none;"><a href="http://www.stocklayouts.com/Templates/Print-Ad/Print-Ad-Templates-Designs-Library.aspx">Print Ads</a></li><li class="expandedNavNode0" style="display: none;"><a href="http://www.stocklayouts.com/Templates/Pamphlet/Pamphlet-Templates-Designs-Library.aspx">Pamphlets</a></li><li class="expandedNavNode0" style="display: none;"><a href="http://www.stocklayouts.com/Templates/Leaflet/Leaflet-Templates-Designs-Library.aspx">Leaflets</a></li><li class="expandedNavNode0" style="display: none;"><a href="http://www.stocklayouts.com/Templates/Sales-Sheet/Sales-Sheet-Templates-Designs-Library.aspx">Sales Sheets</a></li><li class="expandedNavNode0" style="display: none;"><a href="http://www.stocklayouts.com/Templates/Greeting-Card/Greeting-Card-Templates-Designs-Library.aspx">Greeting Cards</a></li><li class="expandedNavNode0" style="display: none;"><a href="http://www.stocklayouts.com/Templates/Note-Card/Note-Card-Templates-Designs-Library.aspx">Note Cards</a></li><li class="expandedNavNode0" style="display: none;"><a href="http://www.stocklayouts.com/Templates/Logo/Logo-Templates-Designs-Library.aspx">Logos</a></li><li class="expandedNavNode0" style="display: none;"><a href="http://www.stocklayouts.com/Templates/CD-Booklet/CD-Booklet-Templates-Designs-Library.aspx">CD Booklets</a></li><li displaymode="LinkButton" class="showMoreLink" onclick="return toggleExpansionItems(event, 0);"><a href="javascript:__doPostBack('ctl00$dynaSideNav1$productTreeNav$blstOptions','19')">[+] More Products</a></li>
-</ul>
-
-
+</div>
         </div>
-        <div id="ctl00_dynaSideNav1_divIndustryMenu">
-            <h4 id="ctl00_dynaSideNav1_h4Industry" class="basicHeader">Search By Industry</h4>
-            <ul id="ctl00_dynaSideNav1_industryTreeNav_blstOptions">
-	<li><a href="http://www.stocklayouts.com/Templates/Professional-Services/Professional-Services-Templates-Designs-Library.aspx">Professional Services</a></li><li><a href="http://www.stocklayouts.com/Templates/Financial-Services/Financial-Services-Templates-Designs-Library.aspx">Financial Services</a></li><li><a href="http://www.stocklayouts.com/Templates/Real-Estate/Real-Estate-Templates-Designs-Library.aspx">Real Estate</a></li><li><a href="http://www.stocklayouts.com/Templates/Medical-Health-Care/Medical-Health-Care-Templates-Designs-Library.aspx">Medical &amp; Health Care</a></li><li><a href="http://www.stocklayouts.com/Templates/Technology/Technology-Templates-Designs-Library.aspx">Technology</a></li><li><a href="http://www.stocklayouts.com/Templates/Sports-Fitness/Sports-Fitness-Templates-Designs-Library.aspx">Sports &amp; Fitness</a></li><li><a href="http://www.stocklayouts.com/Templates/Health-Beauty/Health-Beauty-Templates-Designs-Library.aspx">Health &amp; Beauty</a></li><li><a href="http://www.stocklayouts.com/Templates/Education-Training/Education-Training-Templates-Designs-Library.aspx">Education &amp; Training</a></li><li><a href="http://www.stocklayouts.com/Templates/Food-Beverage/Food-Beverage-Templates-Designs-Library.aspx">Food &amp; Beverage</a></li><li><a href="http://www.stocklayouts.com/Templates/Religious-Organizations/Religious-Organizations-Templates-Designs-Library.aspx">Religious &amp; Organizations</a></li><li class="expandedNavNode0" style="display: none;"><a href="http://www.stocklayouts.com/Templates/Automotive-Transportation/Automotive-Transportation-Templates-Designs-Library.aspx">Automotive &amp; Transportation</a></li><li class="expandedNavNode0" style="display: none;"><a href="http://www.stocklayouts.com/Templates/Agriculture-Farming/Agriculture-Farming-Templates-Designs-Library.aspx">Agriculture &amp; Farming</a></li><li class="expandedNavNode0" style="display: none;"><a href="http://www.stocklayouts.com/Templates/Child-Care/Child-Care-Templates-Designs-Library.aspx">Child Care</a></li><li class="expandedNavNode0" style="display: none;"><a href="http://www.stocklayouts.com/Templates/Construction/Construction-Templates-Designs-Library.aspx">Construction</a></li><li class="expandedNavNode0" style="display: none;"><a href="http://www.stocklayouts.com/Templates/Energy-Environment/Energy-Environment-Templates-Designs-Library.aspx">Energy &amp; Environment</a></li><li class="expandedNavNode0" style="display: none;"><a href="http://www.stocklayouts.com/Templates/Government-Public-Safety/Government-Public-Safety-Templates-Designs-Library.aspx">Government &amp; Public Safety</a></li><li class="expandedNavNode0" style="display: none;"><a href="http://www.stocklayouts.com/Templates/Home-Maintenance/Home-Maintenance-Templates-Designs-Library.aspx">Home Maintenance</a></li><li class="expandedNavNode0" style="display: none;"><a href="http://www.stocklayouts.com/Templates/Insurance/Insurance-Templates-Designs-Library.aspx">Insurance</a></li><li class="expandedNavNode0" style="display: none;"><a href="http://www.stocklayouts.com/Templates/Legal-Services/Legal-Services-Templates-Designs-Library.aspx">Legal Services</a></li><li class="expandedNavNode0" style="display: none;"><a href="http://www.stocklayouts.com/Templates/Manufacturing/Manufacturing-Templates-Designs-Library.aspx">Manufacturing</a></li><li class="expandedNavNode0" style="display: none;"><a href="http://www.stocklayouts.com/Templates/Music-Arts/Music-Arts-Templates-Designs-Library.aspx">Music &amp; Arts</a></li><li class="expandedNavNode0" style="display: none;"><a href="http://www.stocklayouts.com/Templates/Non-Profit/Non-Profit-Templates-Designs-Library.aspx">Non Profit</a></li><li class="expandedNavNode0" style="display: none;"><a href="http://www.stocklayouts.com/Templates/Pets-Animals/Pets-Animals-Templates-Designs-Library.aspx">Pets &amp; Animals</a></li><li class="expandedNavNode0" style="display: none;"><a href="http://www.stocklayouts.com/Templates/Retail-Sales/Retail-Sales-Templates-Designs-Library.aspx">Retail &amp; Sales</a></li><li class="expandedNavNode0" style="display: none;"><a href="http://www.stocklayouts.com/Templates/Travel-Tourism/Travel-Tourism-Templates-Designs-Library.aspx">Travel &amp; Tourism</a></li><li class="expandedNavNode0" style="display: none;"><a href="http://www.stocklayouts.com/Templates/Wedding-Event-Planning/Wedding-Event-Planning-Templates-Designs-Library.aspx">Wedding &amp; Event Planning</a></li><li class="expandedNavNode0" style="display: none;"><a href="http://www.stocklayouts.com/Templates/Business-Events/Business-Events-Templates-Designs-Library.aspx">Business Events</a></li><li class="expandedNavNode0" style="display: none;"><a href="http://www.stocklayouts.com/Templates/Holiday-Seasonal/Holiday-Seasonal-Templates-Designs-Library.aspx">Holiday &amp; Seasonal</a></li><li displaymode="LinkButton" class="showMoreLink" onclick="return toggleExpansionItems(event, 0);"><a href="javascript:__doPostBack('ctl00$dynaSideNav1$industryTreeNav$blstOptions','28')">[+] More Industries</a></li>
-</ul>
-
-
-            
-        </div>
-        <h4 class="basicHeader">More Search Options</h4>
-        <ul class="sideNav" style="margin-bottom: 15px;">
-            <li><a id="ctl00_dynaSideNav1_LinkAllTemplates" href="javascript:__doPostBack('ctl00$dynaSideNav1$LinkAllTemplates','')">All Template Designs</a></li>
-            <li><a id="ctl00_dynaSideNav1_LinkNewDesigns" href="javascript:__doPostBack('ctl00$dynaSideNav1$LinkNewDesigns','')">New Design Releases</a></li>
-            <li><a id="ctl00_dynaSideNav1_LinkAdvSearch" href="javascript:__doPostBack('ctl00$dynaSideNav1$LinkAdvSearch','')">Advanced Search</a></li>
-            <li style="margin-top: 8px;"><a href="/Templates/Free-Templates/Free-Sample-Templates.aspx">Free Templates</a></li>
-            <li style="margin-bottom: 0px;"><a href="/Templates/Graphic-Design-PDF-Portfolio-Catalog.aspx">Free Design Catalog</a></li>
-        </ul>
+        <div style="clear: both;"></div>
     </div>
-	<div class="sideNav" style="padding: 12px 10px 5px 10px; border: solid 1px #DDDDDD; margin-top: 25px;">
-	    <div style="margin-bottom: 10px;">
-	        <span class="lucidaBodyHeader" style="color: #10528F;">Get Connected</span>
-	    </div>
-	    <div style="margin-bottom: 10px;">
-	        <span class="basicHeader">Customer Projects</span><br>
-	        <a href="/Support/Testimonials.aspx">
-	            <u>View examples</u>
-	        </a>
-	    </div>
-	    <div style="margin-bottom: 10px;">
-	        <span class="basicHeader">Design Updates</span><br>
-	        <a href="/Account/Register.aspx"><u>Sign up now!</u></a>
-	    </div>
-	    <div style="margin-bottom: 10px;">
-	        <span class="basicHeader">Join Our Community</span><br>
-            <a href="http://graphicdesign.stocklayouts.com/" target="_blank" style="text-decoration: none;">
-                <img src="/images/rss-icon-sm.jpg" title="Get our RSS" alt="" style="display: inline; width: 18px; height: 18px; margin-top: 5px; margin-right: 3px;">
-            </a>
-            <a href="http://www.facebook.com/stocklayouts/" target="_blank" style="text-decoration: none;">
-                <img src="/images/facebook-icon-sm.jpg" title="Like us on Facebook" alt="" style="display: inline; width: 18px; height: 18px; margin-top: 5px; margin-right: 3px;">
-            </a>
-            <a href="http://www.twitter.com/stocklayouts/" target="_blank" style="text-decoration: none;">
-                <img src="/images/twitter-icon-sm.jpg" title="Follow us on Twitter" alt="" style="display: inline; width: 18px; height: 18px; margin-top: 5px; margin-right: 3px;">
-            </a>
-            <a href="http://www.instagram.com/stocklayouts/" target="_blank" style="text-decoration: none;">
-                <img src="/images/instagram-icon-sm.gif" title="Follow us on Instagram" alt="" style="display: inline; width: 18px; height: 18px; margin-top: 5px; margin-right: 3px;">
-            </a>
-            <a href="http://www.pinterest.com/stocklayouts/" target="_blank" style="text-decoration: none;">
-                <img src="/images/pinterest-icon-sm.gif" title="Follow us on Pinterest" alt="" style="display: inline; width: 18px; height: 18px; margin-top: 5px; margin-right: 3px;">
-            </a>
-            <a href="http://plus.google.com/+stocklayouts/" target="_blank" style="text-decoration: none;">
-                <img src="/images/google-plus-icon-sm.gif" title="Follow us on Google+" alt="" style="display: inline; width: 18px; height: 18px; margin-top: 5px; margin-right: 3px;">
-            </a>
-	    </div>
+</div>
+<div>
+	<div id="cbp-hrmenu" class="cbp-hrmenu">
+		<ul>
+			<li>
+				<a class="dropdown" href="#">Templates&nbsp;&nbsp;<span style="font-size: 9px; vertical-align: middle;">▼</span></a>
+				<div class="cbp-hrsub">
+					<div class="cbp-hrsub-inner">
+					    <div>
+					        <div style="padding: 50px 0px 40px 20px;">
+					            <div style="float: left; margin-right: 60px;">
+						            <p class="mainHeadingText" style="font-size: 25px; margin-top: 0px;">
+    						            Graphic Design Templates
+						            </p>
+					                <p class="noUnderline" style="float: left; font-size: 16px; line-height: 27px; margin-right: 20px;">
+	                                    <a href="http://www.stocklayouts.com/Templates/Brochure/Brochure-Templates-Designs.aspx">Brochures</a><br>
+	                                    <a href="http://www.stocklayouts.com/Templates/Tri-Fold-Brochure/Tri-Fold-Brochure-Templates-Designs.aspx">Tri-Fold Brochures</a><br>
+	                                    <a href="http://www.stocklayouts.com/Templates/Newsletter/Newsletter-Templates-Designs.aspx">Newsletters</a><br>
+	                                    <a href="http://www.stocklayouts.com/Templates/Flyer/Flyer-Templates-Designs.aspx">Flyers</a><br>
+	                                    <a href="http://www.stocklayouts.com/Templates/Print-Ad/Print-Ad-Templates-Designs.aspx">Print Ads</a><br>
+	                                    <a href="http://www.stocklayouts.com/Templates/Postcard/Postcard-Templates-Designs.aspx">Postcards</a><br>
+	                                </p>
+	                                <p class="noUnderline" style="float: left; font-size: 16px; line-height: 27px; margin-right: 30px;">
+	                                    <a href="http://www.stocklayouts.com/Templates/Business-Card/Business-Card-Templates-Designs.aspx">Business Cards</a><br>
+	                                    <a href="http://www.stocklayouts.com/Templates/Letterhead/Letterhead-Templates-Designs.aspx">Letterheads</a><br>
+	                                    <a href="http://www.stocklayouts.com/Templates/Datasheet/Datasheet-Templates-Designs.aspx">Datasheets</a><br>
+	                                    <a href="http://www.stocklayouts.com/Templates/PowerPoint-Presentation/Presentation-Templates-Designs.aspx">Presentations</a><br>
+	                                    <a href="http://www.stocklayouts.com/Templates/Rack-Card/Rack-Card-Templates-Designs.aspx">Rack Cards</a><br>
+	                                    <a href="http://www.stocklayouts.com/Templates/Menu/Menu-Templates-Designs.aspx">Menus</a><br>
+	                                </p>
+	                                <p class="noUnderline" style="float: left; font-size: 16px; line-height: 27px; margin-bottom: 10px;">
+	                                    <a href="http://www.stocklayouts.com/Templates/Pamphlet/Pamphlet-Templates-Designs.aspx">Pamphlets</a><br>
+	                                    <a href="http://www.stocklayouts.com/Templates/Leaflet/Leaflet-Templates-Designs.aspx">Leaflets</a><br>
+	                                    <a href="http://www.stocklayouts.com/Templates/Sales-Sheet/Sales-Sheet-Templates-Designs.aspx">Sales Sheets</a><br>
+	                                    <a href="http://www.stocklayouts.com/Templates/Poster/Poster-Templates-Designs.aspx">Posters</a><br>
+	                                    <a href="http://www.stocklayouts.com/Templates/Greeting-Card/Greeting-Card-Templates-Designs.aspx">Greeting Cards</a><br>
+	                                    <a href="http://www.stocklayouts.com/Templates/Note-Card/Note-Card-Templates-Designs.aspx">Note Cards</a><br>
+					                </p>
+					            </div>
+					            <div style="float: left; margin-right: 60px;">
+						            <p class="mainHeadingText" style="font-size: 25px; margin-top: 0px;">
+    						            New Releases
+						            </p>
+					                <p class="noUnderline" style="font-size: 16px; line-height: 27px;">
+	                                    <a href="http://www.stocklayouts.com/Templates/NewReleases.aspx">Latest Designs</a><br>
+	                                </p>
+						            <p class="mainHeadingText" style="font-size: 25px; margin-top: 20px;">
+    						            Library Subscriptions
+						            </p>
+					                <p class="noUnderline" style="font-size: 16px; line-height: 27px;">
+	                                    <a href="http://www.stocklayouts.com/Templates/Template-Subscriptions.aspx">Template Subscriptions</a><br>
+	                                </p>
+					            </div>
+					            <div style="float: left;">
+						            <p class="mainHeadingText" style="font-size: 25px; margin-top: 0px;">
+    						            Catalog
+						            </p>
+					                <p class="noUnderline" style="font-size: 16px; line-height: 27px;">
+	                                    <a href="http://www.stocklayouts.com/Templates/Graphic-Design-PDF-Portfolio-Catalog.aspx">Template Reference Book</a><br>
+	                                </p>
+						            <p class="mainHeadingText" style="font-size: 25px; margin-top: 20px;">
+    						            Extended Licensing
+						            </p>
+					                <p class="noUnderline" style="font-size: 16px; line-height: 27px;">
+	                                    <a href="http://www.stocklayouts.com/Solutions/Web-To-Print-Applications-Templates.aspx">Web-to-Print Subscription</a><br>
+	                                </p>
+					            </div>
+					        </div>
+					    </div>
+					</div>
+				</div><!-- /cbp-hrsub -->
+			</li>
+			<li>
+				<a class="dropdown" href="#">How It Works&nbsp;&nbsp;<span style="font-size: 9px; vertical-align: middle;">▼</span></a>
+				<div class="cbp-hrsub">
+					<div class="cbp-hrsub-inner">
+					    <div>
+					        <div style="padding: 50px 0px 40px 155px;">
+					            <div style="float: left; margin-right: 80px;">
+						            <p class="mainHeadingText" style="font-size: 25px; margin-top: 0px;">
+    						            Product Details
+						            </p>
+					                <p class="noUnderline" style="float: left; font-size: 16px; line-height: 27px; margin-right: 20px;">
+	                                    <a href="http://www.stocklayouts.com/Templates/How-Templates-Work.aspx">How Templates Work</a><br>
+	                                    <a href="http://www.stocklayouts.com/Templates/Template-Features.aspx">Template Features</a><br>
+	                                </p>
+					            </div>
+					            <div style="float: left; margin-right: 60px;">
+						            <p class="mainHeadingText" style="font-size: 25px; margin-top: 0px;">
+    						            Support
+						            </p>
+					                <p class="noUnderline" style="font-size: 16px; line-height: 27px;">
+	                                    <a href="http://www.stocklayouts.com/Support/Faqs.aspx">Top 10 FAQs</a><br>
+	                                    <a href="http://www.stocklayouts.com/Templates/How-To-Video-Tutorials.aspx">Video Tutorials</a><br>
+	                                    <a href="http://www.stocklayouts.com/Support/HelpGuide.aspx">Help Guide</a><br>
+	                                    <a href="http://www.stocklayouts.com/Support/Resources.aspx">Resources</a><br>
+	                                </p>
+					            </div>
+					        </div>
+					    </div>
+					</div>
+				</div><!-- /cbp-hrsub -->
+			</li>
+			<li>
+				<a href="http://www.stocklayouts.com/Templates/Template-Pricing.aspx">Pricing</a>
+			</li>
+			<li>
+				<a href="http://www.stocklayouts.com/Templates/Free-Templates/Free-Sample-Templates.aspx">Free Downloads</a>
+			</li>
+		</ul>
 	</div>
+    <div class="grid-container">
+        <div class="search-top-nav" style="margin-right: 10px;">
+            <div id="ctl00_topNavControl_topSeachControl_searchPanel">
+	
+<div class="topSearchBox">
+    <input name="ctl00$topNavControl$topSeachControl$searchFeild" type="text" value="Find a Template" id="ctl00_topNavControl_topSeachControl_searchFeild" class="topSearchInput" onfocus="clearSearch()" onblur="resetSearch()">
+    <input type="image" name="ctl00$topNavControl$topSeachControl$searchButton" id="ctl00_topNavControl_topSeachControl_searchButton" class="topSearchButton" src="/images/search-icon.gif" style="border-width:0px;">
+</div>
+
 </div>
 <script type="text/javascript">
 	function clearSearch()
 	{
-		var search = $get('ctl00_dynaSideNav1_searchFeild');
-		if (search.value == "") search.value = "";
+		var search = $get('ctl00_topNavControl_topSeachControl_searchFeild');
+		if (search.value == "Find a Template") search.value = "";
 	}
 
 	function resetSearch()
 	{
-		var search = $get('ctl00_dynaSideNav1_searchFeild');
-		if (search.value == "") search.value = "";
+		var search = $get('ctl00_topNavControl_topSeachControl_searchFeild');
+		if (search.value == "") search.value = "Find a Template";
 	}
 
-	var searchBox = $get('ctl00_dynaSideNav1_searchFeild');
+	var searchBox = $get('ctl00_topNavControl_topSeachControl_searchFeild');
 	//searchBox.focus()
 </script>
+
+        </div>
+    </div>
+	<div style="clear: both;"></div>
+</div>
+<script type="text/javascript" src="/ClientScript/cbpHorizontalMenu.js"></script>
 <script type="text/javascript">
-    function toggleExpansionItems(e, i)
-    {
-        e = e ? e : window.event;
-        
-        var lnk = e.target ? e.target : e.srcElement;
-        var li = lnk.parentNode;
-        var nav = li.parentNode;
-
-        var lic = getElementsByCondition(
-            function(el) {if (el.className == 'expandedNavNode' + i.toString()) {el.style.display = (el.style.display == "none" ? "" : "none"); return el}}
-            , nav
-            , "li"
-            ) ;
-
-        if (lnk.innerHTML.indexOf("[+]") > -1)
-        {
-            lnk.innerHTML = lnk.innerHTML.replace("[+]", "[-]");
-            lnk.innerHTML = lnk.innerHTML.replace("More", "Fewer");
-        }
-        else
-        {
-            lnk.innerHTML = lnk.innerHTML.replace("[-]", "[+]");
-            lnk.innerHTML = lnk.innerHTML.replace("Fewer", "More");
-        }
-            
-        return false;
-    }
-    
-    
-    function getElementsByCondition(condition, container, element_type)
-    {
-        //container = container ? container : document;
-        var all = container.getElementsByTagName(element_type) ? container.getElementsByTagName(element_type) : container.all;
-        var arr = [];
-        for (var k = 0; k < all.length; k++)
-        {
-            var elm = all[k];
-            if (condition(elm, k))
-            {
-                arr[arr.length] = elm;
-            }
-        }
-        return arr;
-    } 
-
+    $(function() {
+        cbpHorizontalMenu.init();
+    });
 </script>
-												
-
-											</td>
-											<td width="30"></td>
-											<td width="730">					
-												
-	<div class="headerBar orangeBar" style="margin-bottom: 20px;">
-		Privacy Policy
+                    
+    <div class="grid-container">
+        <h1 class="mainHeadingTitle">
+    		Privacy Policy
+        </h1>
+        <div class="longText">
+	        <p class="basicHeader" style="color: #1A1A1A;">
+	            StockLayouts Privacy Policy for the Internet
+	        </p>
+	        <p>
+		        StockLayouts LLC respects your ability to make informed choices about 
+		        the collection and uses of your personal information. This privacy policy tells 
+		        you about our online collection and uses of information that identifies you 
+		        personally so that you can make an informed choice about using this site. The 
+		        terms of this policy apply to www.stocklayouts.com unless different terms are 
+		        otherwise specified in a form or contract provided to you by us.
+	        </p>
+	        <p>
+		        The websites of our third party content providers may have different 
+		        privacy policies and practices from those disclosed here, and we encourage you 
+		        to become familiar with them. This site is operated by StockLayouts LLC in the 
+		        United States. By using this website, you understand and agree that (1) the 
+		        information collected from this site may be retained indefinitely, and may be 
+		        stored, accessed, and used in jurisdictions whose privacy laws may be different 
+		        and less protective than those of your home jurisdiction; (2) StockLayouts LLC 
+		        may use this information for a variety of purposes including direct marketing 
+		        (unless you opt out of receiving direct marketing from StockLayouts LLC); and 
+		        (3) unless you opt out of disclosing your personal information to a third 
+		        party, StockLayouts LLC may disclose this information to affiliates, 
+		        subsidiaries, agents, third party content providers and necessary payment 
+		        processors, whose privacy policies and practices may be different from those of 
+		        StockLayouts LLC, and for which StockLayouts LLC assumes no responsibility.
+	        </p>
+	        <p>
+		        <b>What We Collect.</b><br>
+		        When you visit this website, some information, such as the site that 
+		        referred you to us, your IP and email address, and navigational and purchase 
+		        information, may be collected automatically as part of the site's operation. 
+		        This information is used to generate user profiles and to personalize the web 
+		        site to your particular interests. On some occasions we may ask you to provide 
+		        information on online forms. For example, we may ask for your user name, 
+		        password, place of birth, full name, telephone number, email address and postal 
+		        address, or other information to register online, or for your credit card 
+		        number or other personally identifying information to fulfill licensing 
+		        transactions or to receive products or services.
+	        </p>
+	        <p>
+		        Whenever you are asked to provide personal information, we will notify 
+		        you of the purposes for taking such information, usually at the point when the 
+		        information is collected. Providing information on online forms is always 
+		        voluntary, and you are free not to complete any online forms. If you choose not 
+		        to, however, some products and services may not be available to you. We will 
+		        let you know when certain information is required to carry out the service 
+		        requested, usually by placing an asterisk or some other designation next to 
+		        required information (or by letting you know when certain information requested 
+		        is optional).
+	        </p>
+	        <p>
+		        <b>How We Use It.</b><br>
+		        The information collected online is stored indefinitely and is used for 
+		        various purposes, including processing your transactions, customer service, 
+		        product and service development, responding to your inquiries, direct marketing 
+		        and marketing analysis and facilitating your use of this website. Unless you 
+		        tell us otherwise, the information we collect may be shared with our 
+		        subsidiaries, agents, third party content providers, affiliates and selected 
+		        other entities for similar purposes.
+	        </p>
+	        <p>
+		        <b>Your Choices.</b><br>
+		        You may choose not to allow us to disclose information to third parties 
+		        for purposes other than providing the requested service by selecting the 
+		        appropriate box at the time of data disclosure, or by sending an email to 
+		        <a href="mailto:info@stocklayouts.com">info@stocklayouts.com</a>. 
+		        In addition, unless you opt out of receiving 
+		        promotional materials from us, we may notify you of special promotions, new 
+		        products or services, or other information that may be of interest. You may 
+		        choose not to receive promotional information from StockLayouts LLC by checking 
+		        the appropriate box at the time of information collection or at a later time by 
+		        sending an email to <a href="mailto:info@stocklayouts.com">info@stocklayouts.com</a>. 
+		        (Please note that you may still receive such material from third party content 
+		        providers, affiliates and other parties to whom we provide your information in 
+		        the course of doing business.) If you would like to review or revise 
+		        information you previously provided on an online form, or believe that what we 
+		        currently have on record is incorrect, you may access, update, or delete your 
+		        information in the My Account section of this website. If for some reason you 
+		        are unable to access your data online, you may send an email to 
+		        <a href="mailto:info@stocklayouts.com">info@stocklayouts.com</a>, 
+		        requesting that we update your information for you.
+	        </p>
+	        <p>
+		        <b>Other Disclosures.</b><br>
+		        We also reserve the right to disclose your personal information if 
+		        required to do so by law, or in the good faith belief that such action is 
+		        reasonably necessary to comply with legal process, respond to claims, or 
+		        protect the rights, property or safety of our company, employees, customers or 
+		        the public.
+	        </p>
+	        <p>
+		        <b>Cookies.</b><br>
+		        When you visit stocklayouts.com, we may place a text file, called a 
+		        cookie, in the browser directory of your computer's hard drive. A cookie is a 
+		        small piece of information that a website can store on your web browser and 
+		        later retrieve. Cookies do not contain your personal information. The 
+		        information that cookies collect includes the date and time of your visit, your 
+		        registration information and your navigational and purchase activity. Cookies 
+		        offer you many conveniences. They allow StockLayouts LLC, and certain third 
+		        party content providers, to recognize information, and so can determine what 
+		        content is best suited to your needs. Cookies also allow you to retrieve 
+		        previous image search results and view your previous invoices. The domain name 
+		        of the site server transmitting the cookies is stocklayouts.com.
+	        </p>
+	        <p>
+		        Most browsers allow you to decline cookies, but if you elect to do so, 
+		        these pages may not display properly. While cookies will be stored in your hard 
+		        drive for your next visit with us, you are free to delete cookies after your 
+		        session, and your browser should contain instructions on how to do this.
+	        </p>
+	        <p>
+		        <b>Links to Other Websites.</b><br>
+		        The sites to which we link, including but not limited to the sites of 
+		        third party content providers, may have different privacy policies and 
+		        practices from those disclosed here. These other websites may send their own 
+		        cookies to visitors, collect data or solicit personal information. We assume no 
+		        responsibility for the policies or practices of linked sites and encourage you 
+		        to become acquainted with them.
+	        </p>
+	        <p>
+		        <b>Safeguarding Your Information.</b><br>
+		        StockLayouts LLC uses reasonable precautions to keep your personal 
+		        information secure from loss, misuse and unauthorized access, disclosure, 
+		        alteration and destruction. However, we are not responsible for any breach of 
+		        security or for the actions of third parties.
+	        </p>
+	        <p>
+		        <b>Policy Regarding Minors.</b><br>
+		        We do not intend to collect personal information from anyone under the 
+		        age of 18. If you are under 18, you should not enter information on this 
+		        website and should ask a parent to do so for you.
+	        </p>
+	        <p>
+		        <b>Notice to European Union Member Citizens and Residents:</b><br>
+		        If you are located outside of the United States of America, please note 
+		        that StockLayouts LLC is not a participant of the Safe Harbor program of the 
+		        U.S. Department of Commerce. Nonetheless, StockLayouts LLC has made every 
+		        effort possible to comply with the European Union Commission's guidelines and 
+		        directives on privacy protection.
+	        </p>
+	        <p>
+		        <b>Contacting Us.</b><br>
+		        If at any time you believe that we have not followed the above policy, 
+		        or would like more information regarding your privacy protection, please let us 
+		        know by sending an email to <a href="mailto:info@stocklayouts.com">info@stocklayouts.com</a>
+		        or by writing to us at 11075 SW Sage Terrace, Tigard, Oregon 97223, Attn: 
+		        Privacy Policy. We will make reasonable efforts to identify and correct any 
+		        problem.
+	        </p>
+	        <p>
+		        We reserve the right to change the terms of this privacy policy at any 
+		        time, but will not do so without posting the revised policy on this website. We 
+		        encourage you to review this privacy policy whenever you visit our website to 
+		        make sure you understand how we use the information we collect.
+	        </p>
+	    </div>
 	</div>
-	<div class="pureTextPage">
-	    <p class="lucidaBodyHeader">
-	        StockLayouts Privacy Policy for the Internet
-	    </p>
-	    <p>
-		    StockLayouts LLC respects your ability to make informed choices about 
-		    the collection and uses of your personal information. This privacy policy tells 
-		    you about our online collection and uses of information that identifies you 
-		    personally so that you can make an informed choice about using this site. The 
-		    terms of this policy apply to www.stocklayouts.com unless different terms are 
-		    otherwise specified in a form or contract provided to you by us.
-	    </p>
-    	
-	    <p>
-		    The websites of our third party content providers may have different 
-		    privacy policies and practices from those disclosed here, and we encourage you 
-		    to become familiar with them. This site is operated by StockLayouts LLC in the 
-		    United States. By using this website, you understand and agree that (1) the 
-		    information collected from this site may be retained indefinitely, and may be 
-		    stored, accessed, and used in jurisdictions whose privacy laws may be different 
-		    and less protective than those of your home jurisdiction; (2) StockLayouts LLC 
-		    may use this information for a variety of purposes including direct marketing 
-		    (unless you opt out of receiving direct marketing from StockLayouts LLC); and 
-		    (3) unless you opt out of disclosing your personal information to a third 
-		    party, StockLayouts LLC may disclose this information to affiliates, 
-		    subsidiaries, agents, third party content providers and necessary payment 
-		    processors, whose privacy policies and practices may be different from those of 
-		    StockLayouts LLC, and for which StockLayouts LLC assumes no responsibility.
-	    </p>
-    	
-	    <p>
-		    <b>What We Collect.</b><br>
-		    When you visit this website, some information, such as the site that 
-		    referred you to us, your IP and email address, and navigational and purchase 
-		    information, may be collected automatically as part of the site's operation. 
-		    This information is used to generate user profiles and to personalize the web 
-		    site to your particular interests. On some occasions we may ask you to provide 
-		    information on online forms. For example, we may ask for your user name, 
-		    password, place of birth, full name, telephone number, email address and postal 
-		    address, or other information to register online, or for your credit card 
-		    number or other personally identifying information to fulfill licensing 
-		    transactions or to receive products or services.
-	    </p>
-    	
-	    <p>
-		    Whenever you are asked to provide personal information, we will notify 
-		    you of the purposes for taking such information, usually at the point when the 
-		    information is collected. Providing information on online forms is always 
-		    voluntary, and you are free not to complete any online forms. If you choose not 
-		    to, however, some products and services may not be available to you. We will 
-		    let you know when certain information is required to carry out the service 
-		    requested, usually by placing an asterisk or some other designation next to 
-		    required information (or by letting you know when certain information requested 
-		    is optional).
-	    </p>
-    	
-	    <p>
-		    <b>How We Use It.</b><br>
-		    The information collected online is stored indefinitely and is used for 
-		    various purposes, including processing your transactions, customer service, 
-		    product and service development, responding to your inquiries, direct marketing 
-		    and marketing analysis and facilitating your use of this website. Unless you 
-		    tell us otherwise, the information we collect may be shared with our 
-		    subsidiaries, agents, third party content providers, affiliates and selected 
-		    other entities for similar purposes.
-	    </p>
-    	
-	    <p>
-		    <b>Your Choices.</b><br>
-		    You may choose not to allow us to disclose information to third parties 
-		    for purposes other than providing the requested service by selecting the 
-		    appropriate box at the time of data disclosure, or by sending an email to 
-		    <a href="mailto:info@stocklayouts.com">info@stocklayouts.com</a>. 
-		    In addition, unless you opt out of receiving 
-		    promotional materials from us, we may notify you of special promotions, new 
-		    products or services, or other information that may be of interest. You may 
-		    choose not to receive promotional information from StockLayouts LLC by checking 
-		    the appropriate box at the time of information collection or at a later time by 
-		    sending an email to <a href="mailto:info@stocklayouts.com">info@stocklayouts.com</a>. 
-		    (Please note that you may still receive such material from third party content 
-		    providers, affiliates and other parties to whom we provide your information in 
-		    the course of doing business.) If you would like to review or revise 
-		    information you previously provided on an online form, or believe that what we 
-		    currently have on record is incorrect, you may access, update, or delete your 
-		    information in the My Account section of this website. If for some reason you 
-		    are unable to access your data online, you may send an email to <a href="mailto:info@stocklayouts.com">
-			    info@stocklayouts.com</a>, requesting that we update your information for 
-		    you.
-	    </p>
-    	
-	    <p>
-		    <b>Other Disclosures.</b><br>
-		    We also reserve the right to disclose your personal information if 
-		    required to do so by law, or in the good faith belief that such action is 
-		    reasonably necessary to comply with legal process, respond to claims, or 
-		    protect the rights, property or safety of our company, employees, customers or 
-		    the public.
-	    </p>
-    	
-	    <p>
-		    <b>Cookies.</b><br>
-		    When you visit stocklayouts.com, we may place a text file, called a 
-		    cookie, in the browser directory of your computer's hard drive. A cookie is a 
-		    small piece of information that a website can store on your web browser and 
-		    later retrieve. Cookies do not contain your personal information. The 
-		    information that cookies collect includes the date and time of your visit, your 
-		    registration information and your navigational and purchase activity. Cookies 
-		    offer you many conveniences. They allow StockLayouts LLC, and certain third 
-		    party content providers, to recognize information, and so can determine what 
-		    content is best suited to your needs. Cookies also allow you to retrieve 
-		    previous image search results and view your previous invoices. The domain name 
-		    of the site server transmitting the cookies is stocklayouts.com.
-	    </p>
-    	
-	    <p>
-		    Most browsers allow you to decline cookies, but if you elect to do so, 
-		    these pages may not display properly. While cookies will be stored in your hard 
-		    drive for your next visit with us, you are free to delete cookies after your 
-		    session, and your browser should contain instructions on how to do this.
-	    </p>
-    	
-	    <p>
-		    <b>Links to Other Websites.</b><br>
-		    The sites to which we link, including but not limited to the sites of 
-		    third party content providers, may have different privacy policies and 
-		    practices from those disclosed here. These other websites may send their own 
-		    cookies to visitors, collect data or solicit personal information. We assume no 
-		    responsibility for the policies or practices of linked sites and encourage you 
-		    to become acquainted with them.
-	    </p>
-    	
-	    <p>
-		    <b>Safeguarding Your Information.</b><br>
-		    StockLayouts LLC uses reasonable precautions to keep your personal 
-		    information secure from loss, misuse and unauthorized access, disclosure, 
-		    alteration and destruction. However, we are not responsible for any breach of 
-		    security or for the actions of third parties.
-	    </p>
-    	
-	    <p>
-		    <b>Policy Regarding Minors.</b><br>
-		    We do not intend to collect personal information from anyone under the 
-		    age of 18. If you are under 18, you should not enter information on this 
-		    website and should ask a parent to do so for you.
-	    </p>
-    	
-	    <p>
-		    <b>Notice to European Union Member Citizens and Residents:</b><br>
-		    If you are located outside of the United States of America, please note 
-		    that StockLayouts LLC is not a participant of the Safe Harbor program of the 
-		    U.S. Department of Commerce. Nonetheless, StockLayouts LLC has made every 
-		    effort possible to comply with the European Union Commission's guidelines and 
-		    directives on privacy protection.
-	    </p>
-    	
-	    <p>
-		    <b>Contacting Us.</b><br>
-		    If at any time you believe that we have not followed the above policy, 
-		    or would like more information regarding your privacy protection, please let us 
-		    know by sending an email to <a href="mailto:info@stocklayouts.com">info@stocklayouts.com</a>
-		    or by writing to us at 11075 SW Sage Terrace, Tigard, Oregon 97223, Attn: 
-		    Privacy Policy. We will make reasonable efforts to identify and correct any 
-		    problem.
-	    </p>
-    	
-	    <p>
-		    We reserve the right to change the terms of this privacy policy at any 
-		    time, but will not do so without posting the revised policy on this website. We 
-		    encourage you to review this privacy policy whenever you visit our website to 
-		    make sure you understand how we use the information we collect.
-	    </p>
-	</div>
-	<div style="width: auto; height: 30px;"></div>
 
-											</td>
-										</tr>
-										<tr>
-											<td colspan="3" height="10"></td>
-										</tr>
-									</tbody></table>
-								</div>
-								<div id="bottomDiv" style="background: #FFFFFF;">
-									
-
-<div style="width: auto; background: white; padding: 0px 10px 10px 10px;">
-    <div style="float: right;">
-        <a href="http://plus.google.com/+stocklayouts/" rel="publisher" target="_blank" style="text-decoration: none;">
-            <img src="/images/google-plus-icon-sm.gif" alt="StockLayouts on Google+" style="width: 22px; height: 22px; margin-right: 10px;"></a>
-    </div>
-    <div style="float: right;">
-        <a href="http://www.pinterest.com/stocklayouts/" target="_blank" style="text-decoration: none;">
-            <img src="/images/pinterest-icon-sm.gif" alt="StockLayouts on Pinterest" style="width: 22px; height: 22px; margin-right: 10px;"></a>
-    </div>
-    <div style="float: right;">
-        <a href="http://www.instagram.com/stocklayouts/" target="_blank" style="text-decoration: none;">
-            <img src="/images/instagram-icon-sm.gif" alt="StockLayouts on Instagram" style="width: 22px; height: 22px; margin-right: 10px;"></a>
-    </div>
-    <div style="float: right;">
-        <a href="http://www.twitter.com/stocklayouts/" target="_blank" style="text-decoration: none;">
-            <img src="/images/twitter-icon-sm.jpg" alt="StockLayouts on Twitter" style="width: 22px; height: 22px; margin-right: 10px;"></a>
-    </div>
-    <div style="float: right;">
-        <a href="http://www.facebook.com/stocklayouts/" target="_blank" style="text-decoration: none;">
-            <img src="/images/facebook-icon-sm.jpg" alt="StockLayouts on Facebook" style="width: 22px; height: 22px; margin-right: 10px;"></a>
-    </div>
-    <div style="float: right;">
-        <a href="http://graphicdesign.stocklayouts.com/" target="_blank" style="text-decoration: none;">
-            <img src="/images/rss-feed-icon-sm.gif" alt="StockLayouts Graphic Design Blog" style="width: 22px; height: 22px; margin-right: 10px;"></a>
+                </div>
+            </div>
+            
+<div id="bottom-footer">
+    <div class="grid-container">
+        <div class="smallBottomText" style="float: left; margin-right: 50px;">
+	        <h4 class="mainHeadingText" style="margin-bottom: 5px;">
+	            Company Info
+	        </h4>
+	        <div style="float: left; margin-right: 20px;">
+                <a href="http://www.stocklayouts.com/CompanyInfo.aspx">About us</a><br>
+                <a href="http://www.stocklayouts.com/PressReleases.aspx">News</a><br>
+                <a href="http://www.stocklayouts.com/Partners.aspx">Partners</a><br>
+                <a href="http://www.stocklayouts.com/Support/Testimonials.aspx">Testimonials</a><br>
+                <a href="http://www.stocklayouts.com/Affiliates/RevenueShare.aspx">Affiliate program</a><br>
+                <a href="http://www.stocklayouts.com/ContactUs.aspx">Contact us</a><br>
+	        </div>
+	        <div style="float: left;">
+                <a href="http://www.stocklayouts.com/Licensing.aspx">Licensing</a><br>
+                <a href="http://www.stocklayouts.com/Returns.aspx">Return policy</a><br>
+                <a href="http://www.stocklayouts.com/Privacy.aspx">Privacy policy</a><br>
+                <a href="http://www.stocklayouts.com/Terms.aspx">Terms of use</a><br>
+	        </div>
+        </div>
+        <div class="smallBottomText" style="float: left; margin-right: 50px;">
+	        <h4 class="mainHeadingText" style="margin-bottom: 5px;">
+	            Solutions
+	        </h4>
+	        <div style="float: left;">
+                <a href="http://www.stocklayouts.com/Solutions/Small-Business-Marketing.aspx">Business Owners</a><br>
+                <a href="http://www.stocklayouts.com/Solutions/Graphic-Designs.aspx">Graphic Designers</a><br>
+                <a href="http://www.stocklayouts.com/Solutions/Desktop-Publishing.aspx">Desktop Publishers</a><br>
+                <a href="http://www.stocklayouts.com/Solutions/Marketing-Materials.aspx">Marketing Professionals</a><br>
+                <a href="http://www.stocklayouts.com/Solutions/Color-Printing.aspx">Commercial Printers</a><br>
+                <a href="http://www.stocklayouts.com/Solutions/Web-To-Print-Applications-Templates.aspx">Web-to-Print Templates</a><br>
+            </div>
+        </div>
+        <div class="smallBottomText" style="float: left; margin-right: 60px;">
+	        <h4 class="mainHeadingText" style="margin-bottom: 5px;">
+	            Template File Formats
+	        </h4>
+	        <div style="float: left; margin-right: 20px;">
+                <a href="http://www.stocklayouts.com/Templates/Adobe-InDesign/Adobe-InDesign-Templates-Designs.aspx">Adobe InDesign</a><br>
+                <a href="http://www.stocklayouts.com/Templates/Adobe-Illustrator/Adobe-Illustrator-Templates-Designs.aspx">Adobe Illustrator</a><br>
+                <a href="http://www.stocklayouts.com/Templates/Quark-QuarkXPress/Quark-QuarkXPress-Templates-Designs.aspx">QuarkXPress</a><br>
+                <a href="http://www.stocklayouts.com/Templates/Corel-CorelDraw/Corel-CorelDraw-Templates-Designs.aspx">CorelDRAW</a><br>
+            </div>
+	        <div style="float: left;">
+                <a href="http://www.stocklayouts.com/Templates/Microsoft-Publisher/Microsoft-Publisher-Templates-Designs.aspx">Microsoft Publisher</a><br>
+                <a href="http://www.stocklayouts.com/Templates/Microsoft-Word/Microsoft-Word-Templates-Designs.aspx">Microsoft Word</a><br>
+                <a href="http://www.stocklayouts.com/Templates/Microsoft-PowerPoint/Microsoft-PowerPoint-Templates-Designs.aspx">Microsoft PowerPoint</a><br>
+                <a href="http://www.stocklayouts.com/Templates/Apple-iWork-Pages/Apple-iWork-Pages-Templates-Designs.aspx">Apple iWork Pages</a><br>
+            </div>
+        </div>
+        <div class="smallBottomText" style="float: left; width: 280px;">
+	        <h4 class="mainHeadingText" style="margin-bottom: 5px;">
+	            Get Connected
+	        </h4>
+	        <div style="float: left;">
+                <div class="emailSubmitBox" data-defaultbutton="ctl00_BottomNav_emailSubmitButton">
+                    <input name="ctl00$BottomNav$preRegisterEmailBox" type="text" value="Sign up for special offers" id="ctl00_BottomNav_preRegisterEmailBox" class="emailSubmitInput" onfocus="(this.value=='Sign up for special offers')?this.value='':this.value=this.value" onblur="(this.value=='')?this.value='Sign up for special offers':this.value=this.value">
+                    <input type="image" name="ctl00$BottomNav$emailSubmitButton" id="ctl00_BottomNav_emailSubmitButton" class="emailSubmitButton" src="/images/button-right-on.png" style="border-width:0px;">
+                </div>
+	            <div style="height: 30px;"></div>
+	            <div style="float: left;">
+	                <div class="facebook" style="float: left; margin-right: 10px;">
+                        <a href="http://www.facebook.com/stocklayouts/" target="_blank"></a>
+	                </div>
+	                <div class="google" style="float: left; margin-right: 10px;">
+                        <a href="http://plus.google.com/+stocklayouts/" rel="publisher" target="_blank"></a>
+	                </div>
+	                <div class="pinterest" style="float: left; margin-right: 10px;">
+                        <a href="http://www.pinterest.com/stocklayouts/" target="_blank"></a>
+	                </div>
+	                <div class="twitter" style="float: left; margin-right: 10px;">
+                        <a href="http://www.twitter.com/stocklayouts/" target="_blank"></a>
+	                </div>
+	                <div class="instagram" style="float: left; margin-right: 10px;">
+                        <a href="http://www.instagram.com/stocklayouts/" target="_blank"></a>
+	                </div>
+	                <div class="blog" style="float: left;">
+                        <a href="http://graphicdesign.stocklayouts.com/" target="_blank"></a>
+	                </div>
+	            </div>
+	        </div>
+        </div>
+        <div style="clear: both; height: 30px;"></div>
+        <div class="smallBody">
+            Copyright ©2014 StockLayouts LLC All rights reserved.
+        </div>
     </div>
 </div>
-<div style="clear: both; padding: 10px 10px 10px 10px; background: white;">
-	<div style="float: right;">
-		<b>1-877-833-3305</b>
-		<a href="mailto:info@stocklayouts.com">info@stocklayouts.com</a>
-	</div>
-	<div>
-		<a href="http://www.stocklayouts.com/CompanyInfo.aspx" style="text-decoration: none;">About StockLayouts</a> |
-		<a href="http://www.stocklayouts.com/Affiliates/RevenueShare.aspx" style="text-decoration: none;">Affiliates</a> |
-		<a href="http://www.stocklayouts.com/ContactUs.aspx" style="text-decoration: none;">Contact Us</a> |
-		<a href="http://www.stocklayouts.com/Licensing.aspx" style="text-decoration: none;">Licensing</a> |
-		<a href="http://www.stocklayouts.com/Privacy.aspx" style="text-decoration: none;">Privacy</a> |
-		<a href="http://www.stocklayouts.com/Terms.aspx" style="text-decoration: none;">Terms of Use</a>
-	</div>
-</div>
+<script type="text/javascript">
+        $(function() {
+            $( document ).on( "keypress", "div[data-defaultButton]", function(e) {
+                if (e.keyCode == '13') {
+                    $(this).find('#' + $(this).attr('data-defaultButton')).click();
+                    return false;
+                }
+            });        
+        });
+</script>
+    		
 
-
-								</div>
-								
-
-							</div>						
-						</td>
-						<td style="width: 20px; background: url('/images/bg-shadow-right.png') repeat-y;">
-							<img src="/images/bg-shadow-top-right.png" alt="" style="background: #D7DEE8; width: 20px; height: 20px;">
-						</td>
-					</tr>
-				</tbody></table>
-			</div>
-			<div style="width: 1040px; margin: 0px auto 0px auto;">
-				<img src="/images/bg-shadow-bottom.png" alt="" style="width: 1040px; height: 20px;">
-				<span style="margin-left: 40px;">Copyright ©2013 StockLayouts LLC All rights reserved.</span>
-			</div>
-			<div style="clear:both; height:20px; width: auto;"></div>
 		
 
 <script type="text/javascript">
@@ -692,9 +585,6 @@ Sys.Application.setServerId("ctl00_slScriptManager", "ctl00$slScriptManager");
 
 Sys.Application._enableHistoryInScriptManager();
 Sys.Application.initialize();
-Sys.Application.add_init(function() {
-    $create(AjaxControlToolkit.AutoCompleteBehavior, {"completionInterval":100,"completionListCssClass":"autoCompleteStyle","completionListElementID":"searchAutoComplete","delimiterCharacters":"","id":"ctl00_dynaSideNav1_searchAutoCompleteExtender","minimumPrefixLength":2,"serviceMethod":"GetPopularKeywords","servicePath":"/AJAXservices/stocklayoutsAjax.asmx","useContextKey":true}, null, null, $get("ctl00_dynaSideNav1_searchFeild"));
-});
 //]]>
 </script>
 </form>
