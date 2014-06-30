@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the firstpost.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231233111id_/http%3A//www.firstpost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstpost.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630102106id_/http%3A//www.firstpost.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Firstpost
+
+[ ](http://xads.zedo.com/ads2/c?a=1986938;g=0;c=1656001122;i=0;x=24320;n=1656;s=8;k=http://www.firstpost.com/photos/nautica-get-to-the-water-3-1574953.html "#GetToTheWater in New England, USA with Nautica")
+
+[ ](http://firstbiz.firstpost.com/startup/heres-why-function-space-is-the-science-geeks-answer-to-facebook-87706.html "Function Space is the science geek’s answer to Facebook")
 
 **Our Commitment**  
 firstpost.com is strongly committed to your right to privacy and to keeping your personal information secure. To earn your trust and confidence in our commitment, we are fully disclosing our privacy practices. We encourage you to read our privacy statement to understand what types of personally identifiable information we collect and how we use this information.
