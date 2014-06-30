@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the opinionoutpost.com privacy policy that was archived on 2013-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130822045604id_/https%3A//www.opinionoutpost.com/en/General/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opinionoutpost.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630101542id_/https%3A//www.opinionoutpost.com/en/policies/privacy) for the most accurate reproduction.*
 
-# 
+# Ways to Make Money Online | Privacy Policy | Opinion Outpost
 
 **Effective: August 15th, 2013**
 
-**Last Updated:  August 15th, 2013**
+**Last Updated:  May 14th, 2014**
 
   1. 1\. Information You Submit
   2. 2\. Information Collected Through Automated Means
@@ -13,7 +13,7 @@
 
 
 
-Survey Sampling International, LLC and its parent, subsidiary and affiliated companies (collectively “SSI”) provide sampling solutions and technology for survey research, providing clients with access to consumer and business-to-business respondents via internet, telephone (both fixed/landline and wireless/mobile), postal and multi-mode methodologies. SSI serves a vast array of for-profit and not-for profit businesses, universities and governmental agencies and departments. This Privacy Policy sets forth the collection, use and disclosure of personal data or personally identifiable information (“PII”) and other information by SSI in connection with SSI’s Services (as defined herein). SSI’s Services provide you with the opportunity to join a Panel (as defined herein), participate in surveys (whether as a Panel member or a non-Panel member), use the websites associated with the Panels, and receive and redeem rewards and incentives, including, without limitation, sweepstakes entries, offered in connection with Panel membership and/or the completion of surveys (collectively “Services”). Registration with, use of, and access to SSI’s Services is subject to [SSI’s Terms and Conditions](https://www.opinionoutpost.com/en/General/Terms-Conditions/General-Terms).  Your use of SSI’s Services is completely voluntary and therefore SSI’s processing of your PII in connection with the Services and this Privacy Policy is with your consent. SSI strives to conform its privacy practices to applicable laws, codes, and regulations, and the codes of standards of applicable market and opinion survey research associations, including, without limitation, CASRO and ESOMAR. For clarification, except for Panels that have a separate privacy policy, this Privacy Policy applies to all of SSI’s survey research panels, including, without limitation, SurveySpot, Opinion Outpost, OpinionWorld, Choozz and YourVoice (each a “Panel” and collectively the “Panels”). All references in this Privacy Policy to SSI include SSI and its parent, subsidiary and affiliated companies. All references to “us” or “we” refer to SSI. 
+Survey Sampling International, LLC and its parent, subsidiary and affiliated companies (collectively “SSI”) provide sampling solutions and technology for survey research, providing clients with access to consumer and business-to-business respondents via internet, telephone (both fixed/landline and wireless/mobile), postal and multi-mode methodologies. SSI serves a vast array of for-profit and not-for profit businesses, universities and governmental agencies and departments. This Privacy Policy sets forth the collection, use and disclosure of personal data or personally identifiable information (“PII”) and other information by SSI in connection with SSI’s Services (as defined herein). SSI’s Services provide you with the opportunity to join a Panel (as defined herein), participate in surveys (whether as a Panel member or a non-Panel member), use the websites associated with the Panels, and receive and redeem rewards and incentives, including, without limitation, sweepstakes entries, offered in connection with Panel membership and/or the completion of surveys (collectively “Services”). Registration with, use of, and access to SSI’s Services is subject to [SSI’s Terms and Conditions](http://opinionworld.com/en/policies/terms/general).  Your use of SSI’s Services is completely voluntary and therefore SSI’s processing of your PII in connection with the Services and this Privacy Policy is with your consent. SSI strives to conform its privacy practices to applicable laws, codes, and regulations, and the codes of standards of applicable market and opinion survey research associations, including, without limitation, CASRO and ESOMAR. For clarification, except for Panels that have a separate privacy policy, this Privacy Policy applies to all of SSI’s survey research panels, including, without limitation, SurveySpot, Opinion Outpost, OpinionWorld, Choozz and YourVoice (each a “Panel” and collectively the “Panels”). All references in this Privacy Policy to SSI include SSI and its parent, subsidiary and affiliated companies. All references to “us” or “we” refer to SSI. 
 
 All PII is stored on servers located in the United States, which servers are owned and maintained by SSI. SSI complies with the United States (“US”) - European Union (“EU”) and US – Swiss Safe Harbor Frameworks as set forth by the US Department of Commerce regarding the collection, use and retention of personal data from EU member countries and Switzerland. SSI has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement. To learn more about the Safe Harbor program, and to view SSI’s certification page, please visit http://www.export.gov/safeharbor/.
 
@@ -47,7 +47,7 @@ SSI uses third parties to provide services and certain functionality to SSI, inc
 
 _SSI’s Online Ad Effectiveness Program._
 
-In connection with SSI’s online ad effectiveness program, you can participate in surveys regarding specific ads and promotions that SSI is testing for its clients. To facilitate the completion of these surveys, SSI’s clients may write, set, or read cookies, locally shared/stored objects, flash cookies and/or any other related technology (each a **“Third Party Technology”** and collectively the **“Third Party Technologies”** ). The Third Party Technologies may be written, set or read in various locations, including, without limitation, SSI’s servers or systems. If you participate, your UID will be stored in the Third Party Technology to allow you to be re-contacted about the online ad or promotion and SSI’s client will use the Third Party Technology to determine whether you have seen, clicked on, or otherwise interacted with the online ad or promotion. If you have interacted with the online ad or promotion, SSI’s client will send your UID and the specific survey to SSI and SSI will provide you with the opportunity to complete the survey.
+In connection with SSI’s online ad effectiveness program, you can participate in surveys regarding specific ads and promotions that SSI is testing for its clients. To facilitate the completion of these surveys, SSI’s clients may write, set, or read cookies, locally shared/stored objects, flash cookies and/or any other related technology (each a “ **Third Party Technology** ” and collectively the “ **Third Party Technologies** ”). The Third Party Technologies may be written, set or read in various locations, including, without limitation, SSI’s servers or systems. If you participate, your UID will be stored in or associated with the Third Party Technology to allow you to be re-contacted about the online ad or promotion and SSI’s client will use the Third Party Technology to determine whether you have seen, clicked on, or otherwise interacted with the online ad or promotion. If you have interacted with the online ad or promotion, SSI’s client will send your UID and the specific survey to SSI and SSI will provide you with the opportunity to complete the survey. Additionally, if you participate, SSI may share your UID and data previously collected by SSI, including, without limitation, age, gender, income, number of people in your household, education/education level, and employment status, (“ **Audience Measurement Data** ”), to third parties, including, without limitation, SSI’s subcontractors, partners, and/or clients for the purpose of audience measurement reporting on the advertisements, campaigns, and websites that you visit, view, and/or click on. The Audience Measurement Data will be used to assist in the creation, development, and implementation of websites, online advertisements, and other Internet and digital media features, functionality, and campaigns. Audience Measurement Data may be shared in a single summary form (i.e. individual respondent level) or aggregate summary form (i.e. group of respondents).
 
 **If you live outside of the EU and you have not previously agreed to participate in the Online Ad Effectiveness Program, as of the Effective Date of this Privacy Policy, you hereby consent to participate.  If you wish to opt-out, please follow the opt-out process and procedures here.**
 
@@ -227,7 +227,7 @@ FraudLogix Fraud Prevention
 
 no opt-out provided  
   
-**B.   Advertising - Online Ad Effectiveness Program/Advertising**
+** B.   Advertising - Online Ad Effectiveness Program/Advertising**
 
 Name
 
@@ -301,17 +301,13 @@ Ad Targeting
 
 [go to site](http://www.google.com/settings/ads/onweb/)  
   
-MSI ACI
-
-| 
-
-Online Ad Effectiveness Program
-
-| 
-
-<http://www.msi-aci.com/tagging.html>
-
-|   
+ MSI ACI |  Online Ad Effectiveness Program |  <http://www.msi-aci.com/tagging.html>  
+ InsightExpress |  Online Ad Effectiveness Program  
+|  <http://ad.insightexpressai.com/adserver/optout.aspx?redir=http://www.opinion-central.com/optedout.asp>  
+  
+ Turn |  Online Ad Effectiveness Program  
+|  <http://www.turn.com/privacy/customer-opt-out>  
+  
   
 ** C **.   Analytics and Customization - Data Collection****
 
@@ -343,6 +339,15 @@ Digital Fingerprinting. Generally, digital fingerprinting assigns a unique ident
 
 Watermarking.  Generally, watermarking involves placing a technology or file on your device or computer to identify that it has previously been used to register with or access SSI’s Services.  Watermarking is used for quality control and validation purposes and fraud detection and/or prevention purposes. SSI may engage in watermarking activities directly or through a third party vendor.
 
+SSI’s Do Not Track Notice.
+
+Do Not Track (“ **DNT** ”) is a preference in your browser that you can set to notify websites that you visit that you do not want the websites to collect certain information about you. SSI does not track individuals over time and across third party websites to provide targeted advertising and therefore SSI does not respond to DNT signals. If you object to SSI’s practice with regards to DNT signals, you may opt-out from participation or use of SSI’s services as described below.
+
+In connection with SSI’s online ad effectiveness program, SSI permits SSI’s subcontractors, partners and/or clients to drop, set, and/or write Third Party Technologies for the purpose of facilitating audience measurement and ad recall survey activities; however, SSI’s online ad effectiveness program does not include, and does not facilitate, the targeting of advertisements to individuals. SSI is not responsible for any third party’s compliance with or response to DNT signals. To learn more about SSI’s online ad effectiveness program, please review the Cookies section of this Privacy Policy.  
+
+  
+
+
 ## 3. Information collected from Third Parties ****
 
 SSI may obtain PII and demographic information from third parties, including, without limitation, information services bureaus, other sample suppliers and/or social media platforms.  SSI may use the PII for various purposes, including, without limitation, data validation, data append, fraud detection purposes, and/or sending you a one-time email to invite you to participate in a survey and/or join a Panel.
@@ -355,11 +360,11 @@ In addition to other purposes set forth in this Privacy Policy, SSI uses informa
 
 SSI and/or SSI’s agents, processors, and/or vendors or subcontractors may contact you or communicate with you as follows:
 
-  1. 1\. Via “push” notifications or SMS/text messages, if you expressly agree to receive such communications, for participation in surveys.
+  1. Via “push” notifications or SMS/text messages, if you expressly agree to receive such communications, for participation in surveys.
 
-  2. 2\. Via email communications for the purpose of: (i) sending you survey invitations, (ii) communicating with you regarding your survey participation (past, present and/or future), (iii) communicating with you regarding reward or incentive information, inquiries, and/or redemption, (iv) sending you newsletters, (v) sending you notices required to be provided hereunder or required by law, (vi) communicating with you regarding sweepstakes or prize draw promotions, including, without limitation, winning entries to or for such sweepstakes or prize draws, and (vii) responding to inquiries received from you.
+  2. Via email communications for the purpose of: (i) sending you survey invitations, (ii) communicating with you regarding your survey participation (past, present and/or future), (iii) communicating with you regarding reward or incentive information, inquiries, and/or redemption, (iv) sending you newsletters, (v) sending you notices required to be provided hereunder or required by law, (vi) communicating with you regarding sweepstakes or prize draw promotions, including, without limitation, winning entries to or for such sweepstakes or prize draws, and (vii) responding to inquiries received from you.
 
-  3. 3\. Via telephone for the purpose of: (i) communicating with you on or about your survey participation (past, present and/or future), (ii) communicating with you regarding reward or incentive information, inquiries, and/or redemption, (iii) sending you notices required to be provided hereunder or required by law, (iv) communicating with you regarding sweepstakes or prize draw promotions, including, without limitation, winning entries to or for such sweepstakes or prize draws, and (v) responding to inquiries from you. Additionally, SSI may use the business or work telephone number you provide during panel registration or during completion of SSI’s business-to-business profiler questionnaire to call you to verify: (a) your qualification for surveys designed for individuals working in certain professional or business roles or capacities, and/or (b) your registration or qualification for a survey panel(s) specifically designed for individuals in certain professions. The verification process may involve verifying information or data you have previously provided or supplied to SSI.
+  3. Via telephone for the purpose of: (i) communicating with you on or about your survey participation (past, present and/or future), (ii) communicating with you regarding reward or incentive information, inquiries, and/or redemption, (iii) sending you notices required to be provided hereunder or required by law, (iv) communicating with you regarding sweepstakes or prize draw promotions, including, without limitation, winning entries to or for such sweepstakes or prize draws, and (v) responding to inquiries from you. Additionally, SSI may use the business or work telephone number you provide during panel registration or during completion of SSI’s business-to-business profiler questionnaire to call you to verify: (a) your qualification for surveys designed for individuals working in certain professional or business roles or capacities, and/or (b) your registration or qualification for a survey panel(s) specifically designed for individuals in certain professions. The verification process may involve verifying information or data you have previously provided or supplied to SSI.
 
 
 
@@ -368,25 +373,25 @@ SSI and/or SSI’s agents, processors, and/or vendors or subcontractors may cont
 
 SSI will disclose PII and other information collected through SSI’s Services to third parties as follows:
 
-  1. 1\. With your consent, other than your consent to the processing and sharing described in this Privacy Policy and specifically this section.
+  1. With your consent, other than your consent to the processing and sharing described in this Privacy Policy and specifically this section.
 
-  2. 2\. Pursuant to applicable law or in response to a subpoena or an order of a court or government agency.
+  2. Pursuant to applicable law or in response to a subpoena or an order of a court or government agency.
 
-  3. 3\. To establish, exercise, or defend legal claims of an individual or SSI, including in order to protect the safety of an individual or to protect SSI’s rights and/or property.
+  3. To establish, exercise, or defend legal claims of an individual or SSI, including in order to protect the safety of an individual or to protect SSI’s rights and/or property.
 
-  4. 4\. Between various Panels if you sign up for more than one Panel.
+  4. Between various Panels if you sign up for more than one Panel.
 
-  5. 5\. To a parent, subsidiary, or affiliate of SSI: (i) in the event of a reorganization or restructuring, or (ii) for use and processing in accordance with this Privacy Policy or as authorized by you.
+  5. To a parent, subsidiary, or affiliate of SSI: (i) in the event of a reorganization or restructuring, or (ii) for use and processing in accordance with this Privacy Policy or as authorized by you.
 
-  6. 6\. To authorized agents and/or subcontractors of SSI and/or of SSI’s clients, who are providing services, including, without limitation, data append services, data validation services, fraud detection and/or prevention services, database-matching services, coding services, data segmentation services, and reward, incentive, and sweepstakes related services.
+  6. To authorized agents and/or subcontractors of SSI and/or of SSI’s clients, who are providing services, including, without limitation, data append services, data validation services, fraud detection and/or prevention services, database-matching services, coding services, data segmentation services, and reward, incentive, and sweepstakes related services.
 
-  7. 7\. To a client for limited market research related uses including, without limitation, modeling, validation, fraud detection and/or prevention, data append, database segmentation, and reward, incentive, or sweepstakes redemption, fulfillment, and/or entry in connection with your participation in or completion of a survey.
+  7. To a client for limited market research related uses including, without limitation, modeling, validation, fraud detection and/or prevention, data append, database segmentation, and reward, incentive, or sweepstakes redemption, fulfillment, and/or entry in connection with your participation in or completion of a survey.
 
-  8. 8\. In connection with a change of ownership or control, including, without limitation, a merger or an acquisition of any or all of SSI’s business assets, provided that the party receiving or acquiring the PII agrees to use, protect, and maintain the security, integrity, and confidentiality of PII in accordance with this Privacy Policy.
+  8. In connection with a change of ownership or control, including, without limitation, a merger or an acquisition of any or all of SSI’s business assets, provided that the party receiving or acquiring the PII agrees to use, protect, and maintain the security, integrity, and confidentiality of PII in accordance with this Privacy Policy.
 
-  9. 9\. To partners of SSI who offer incentives for use of SSI’s Services, solely for the partners’ use in connection with their incentive program and its terms of use, including, without limitation, the crediting of member accounts maintained by the partners for individuals who use or participate in SSI’s Services.
+  9. To partners of SSI who offer incentives for use of SSI’s Services, solely for the partners’ use in connection with their incentive program and its terms of use, including, without limitation, the crediting of member accounts maintained by the partners for individuals who use or participate in SSI’s Services.
 
-  10. 10\. As otherwise permitted pursuant to this Privacy Policy.
+  10.  As otherwise permitted pursuant to this Privacy Policy.
 
 
 
@@ -394,8 +399,6 @@ SSI will disclose PII and other information collected through SSI’s Services t
 Additionally, UIDs and information collected by automated means are provided to third parties, including, without limitation, clients, partners, agents and/or vendor for several purposes including, without limitation, identifying respondents for re-contact surveys or communications, fraud detection and/or prevention, database matching, data validation, data append, coding, data segmentation, and reward, incentive, sweepstakes or promotion related services and/or developing aggregated data insights regarding our survey respondents and providing a client(s) with access to and use of the aggregated data insights.
 
 With respect to information collected through SSI’s Services, SSI will provide survey data and responses to SSI clients with no PII disclosed by SSI, other than UID. If you voluntarily disclose PII in connection with your survey responses, and SSI collects the survey responses, SSI will transfer the survey responses, UID and the voluntarily disclosed PII to SSI’s client.  In addition, SSI may share geographic and/or demographic data SSI collects from you during enrollment or through certain profile questions SSI may ask you. Such data may be shared with third parties in single summary form (i.e. individual respondent level) or aggregate summary form (i.e. a group of respondents).
-
-SSI’s clients may engage SSI to supply or provide demographic information of or about individuals who have viewed an advertisement or visited a website for the purpose of measuring internet and digital media audiences. The demographic information may be provided or supplied to SSI’s clients. The demographic information and analysis performed by or on behalf of SSI’s clients assist with the creation, development and implementation of websites, online advertisements and other Internet and digital media features, functionality and campaigns.
 
 Generally, disclosures of PII by SSI to a third party, except for disclosures of UIDs, are made pursuant to a written agreement between SSI and the third party, which, among other things, limits use of the PII.   SSI may allow a client to collect PII directly from respondents. The disclosure is voluntary and, prior to collection, the client is required to enter into a written agreement with SSI, which, among other things, limits use of the PII.
 
