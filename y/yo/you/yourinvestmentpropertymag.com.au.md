@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yourinvestmentpropertymag.com.au privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230105345id_/http%3A//www.yourinvestmentpropertymag.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourinvestmentpropertymag.com.au privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630203745id_/http%3A//www.yourinvestmentpropertymag.com.au/privacy) for the most accurate reproduction.*
 
-# Privacy - Your Investment Property Australia
+# Privacy | Your Investment Property
 
 Protecting your privacy is important to Key Media. We strive to keep your personal information confidential. By ensuring that you are aware of and understand the Key Media Customer Privacy Policy, we can provide you with better service. Please take a moment to read the following policy to learn how we handle your personal information.
 
