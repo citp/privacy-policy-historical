@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the omonatheydidnt.livejournal.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626191400id_/http%3A//www.livejournal.com/legal/privacy.bml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omonatheydidnt.livejournal.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630072221id_/http%3A//www.livejournal.com/legal/privacy.bml) for the most accurate reproduction.*
 
 # LiveJournal Privacy Policy
 
@@ -6,10 +6,10 @@ LiveJournal Inc. takes your privacy seriously. We are committed to making best e
 
 **Safe Harbor Principles:** LiveJournal is a social media platform that hosts user-generated content. LiveJournal does not control, condone, endorse, or assume responsibility for any of the content posted by our users. LiveJournal complies with the <http://www.export.gov/safeharbor/> U.S. Department of Commerce’s Safe Harbor Program, and is committed to resolving complaints about your privacy and our collection or use of your personal information.  European Union citizens with inquiries or complaints regarding this privacy policy should first contact LiveJournal at:
 
-  * Live Journal, Inc.
-  * 580 Market Street, Suite 500
-  * San Francisco, CA 94104
+  * LiveJournal, Inc.
   * Attn: Safe Harbor Compliance Unit
+  * 28 2nd St. Third Floor
+  * San Francisco, CA 94104
 
 
 
