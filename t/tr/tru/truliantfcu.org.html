@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the truliantfcu.org privacy policy that was archived on 2013-08-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130818175503id_/http%3A//www.truliantfcu.org/page2.php/sid/11) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the truliantfcu.org privacy policy that was archived on 2014-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140630081959id_/http%3A//www.truliantfcu.org/page2.php/sid/11) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 <title>Privacy Policy - Truliant Federal Credit Union</title>
@@ -24,7 +24,7 @@
 <a href="http://www.truliantfcu.org/index.php"><img src="img/tfculogoDB.png" alt="Truliant Federal Credit Union" style="border:0px;"></a>
 </div>
 <div id="banner" class="banner">
-<img src="img/StaticCUABSHeader.gif" style="border: 0px;"> </div>
+<a href="http://www.truliantfcu.org/page1.php/sid/5"><img src="img/StaticFinancialServHeader.gif" style="border: 0px;"></a> </div>
  
 <div id="menu" class="menu">
 <a href="https://www.truliantfcu.org/login.php" title="Online Banking" class="menuitem" style="text-decoration:none; padding:0px;"><img src="img/accountlogin.png" alt="Click here to login to online banking." style="border:none;"></a>
@@ -297,9 +297,6 @@ We permit access to your information only to those employees who provide you pro
 <a href="http://www.truliantfcu.org/page2.php/sid/5/aid/129">Truliant Investment Center</a>
 </li>
 <li>
-<a href="https://www2.qa.iraservicecenter.com/rc/?OrgNbr=13952">TruFinancial Planning Center</a>
-</li>
-<li>
 <a href="http://www.truliantfcu.org/page2.php/sid/5/aid/159/">Financial Advisors At Truliances</a>
 </li>
 </ul>
@@ -362,7 +359,7 @@ We permit access to your information only to those employees who provide you pro
 <div style="width:601px; padding:0px 17px; float:left;">
 <img src="img/nondeposit.jpg" width="411" height="22" alt="Non Deposit Investment Policy" title="Non Deposit Investment Policy"> <br>
 <span style="font-size: 12px;">Truliant is federally insured by the National Credit Union Administration.</span><br>
-Copyright © 2013 Truliant Federal Credit Union. All rights reserved.
+Copyright © 2014 Truliant Federal Credit Union. All rights reserved.
 Truliant is a registered trademark of Truliant Federal Credit Union.
 </div>
 <a href="/pdf/NCUAHowYourAcctInsured.pdf"><img src="img/ncua.gif" alt="NCUA - How your funds are insured." style="float:left; border: 0px;"></a>
@@ -396,38 +393,18 @@ Truliant is a registered trademark of Truliant Federal Credit Union.
 	});
 
 // ---------------------------------------------------------------------------------------------------------------------------------------------
-	
-	$(document).ready(function(){
-			var altImg = $('.clickChat').attr('altimg');
-			var altLink = $('.clickChat').attr('altlink');
-			
-			if(typeof altImg !== 'undefined' && altImg !== false){
-				$('.clickChat').attr('src', altImg);
-			}else{
-				$('.clickChat').attr('src','img/loan_specialist.png');
-			}
-			
-			if(typeof altLink !== 'undefined' && altLink !== false){
-				$('.clickChat').parent().attr('href', altLink);
-			}else{
-				$('.clickChat').parent().attr('href','https://www.truliantfcu.org/chat/lending/');
-			}
-			
-			$('.clickChat').parent().attr('title', 'Chat with a Specialist');
-			$('.clickChat').parent().attr('onclick', "window.open(this.href,'chat_window','height=650,width=800,left=50,top=1,resizable=yes,scrollbars=yes,toolbar=no,menubar=no,status=no','');return false;");
-	});
-	
 		
 // ---------------------------------------------------------------------------------------------------------------------------------------------
 
 	// Track external clicks with analytics --Added February 2013 - DW
-	function trackOutboundLink(link, category, action, label) {  
+	// Updated 1/31/2014 - Added passthrough argument to override popup windows that don't use the 'check' function i.e. chat popup
+	function trackOutboundLink(link, category, action, label, passthrough) {  
+		passthrough = typeof passthrough !== 'undefined' ? passthrough : false;
 		try { 
 			_gaq.push(['_trackEvent', category , action, label]); 
 		} catch(err){}
-	 
 		setTimeout(function() {
-			if(!check.called) {
+			if(!check.called && passthrough == false) {
 				document.location.href = link.href;
 			}
 		}, 100);
