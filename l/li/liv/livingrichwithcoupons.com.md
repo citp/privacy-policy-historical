@@ -1,39 +1,69 @@
-> *The following text is extracted and transformed from the livingrichwithcoupons.com privacy policy that was archived on 2013-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131124105505id_/http%3A//www.livingrichwithcoupons.com/2009/05/living-rich-with-coupons-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livingrichwithcoupons.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630142945id_/http%3A//www.livingrichwithcoupons.com/2009/05/living-rich-with-coupons-privacy-policy.html) for the most accurate reproduction.*
 
-# Living Rich With Coupons Privacy Policy | Living Rich With CouponsLiving Rich With Coupons
+# Living Rich With Coupons Privacy Policy | Living Rich With Coupons®Living Rich With Coupons®
 
-_**Our Commitment to Privacy:**_
+### Living Rich With Coupons® Privacy Policy
 
-This section summarizes what personally identifiable information Living Rich With Coupons may collect, if any, and how I might use this information. This policy also describes other important topics relating to your privacy. Living Rich With Coupons reserves the right to modify this privacy policy at any time. I will promptly reflect any such modifications in these Web pages. _  
-**  
-Cookies and Web Beacons:**_
+Protecting your private information is our priority. This Statement of Privacy applies to Living Rich Media, LLC and LivingRichwithCoupons.com and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to Living Rich Media, LLC include LivingRichwithCoupons.com and LRM. The LRM website is a Coupon Deal website. By using the LRM website, you consent to the data practices described in this statement.
 
-Living Rich With Coupons may use cookies to store information about visitors’ preferences or other information that visitors send via their browser.
+#### Collection of your Personal Information
 
-Some of my advertising partners may use cookies and web beacons on my site. My advertising partners include, but are not limited to, Google Adsense, Juice Box Jungle, Glam and Coupons.com.
+LRM may collect personally identifiable information, such as your name. We may gather additional personal or non-personal information in the future.
 
-These third-party ad servers or ad networks sponsor advertisements and links on Living Rich With Coupons that are sent directly to your browsers. They automatically receive your IP address when this occurs. Other technologies (such as cookies, JavaScript, or web beacons) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and/or to personalize the advertising content that you see.
+Information about your computer hardware and software may be automatically collected by LRM. This information can include: your IP address, browser type, domain names, access times and referring website addresses. This information is used for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the LRM website.
 
-Living Rich With Coupons has no access to or control over these cookies that are used by third-party advertisers.
+Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through LRM’s public message boards, this information may be collected and used by others.
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt out of certain practices. Living Rich With Coupons’ privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+LRM encourages you to review the privacy statements of websites you choose to link to from LRM so that you can understand how those websites collect, use and share your information. LRM is not responsible for the privacy statements or other content on websites outside of the LRM website.
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+#### Use of your Personal Information
 
-_**Children:**_
+LRM collects and uses your personal information to operate its website(s) and deliver the services you have requested.
 
-_I will not collect any information from children under 18.  
-**  
-Information Collection:**_
+LRM may also use your personally identifiable information to inform you of other products or services available from LRM and its affiliates. LRM may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
 
-There are occasions when I will ask for personal information, such as when you enter a giveaway. In these cases, I will only collect personally identifiable information (such as name, address, telephone number, or e-mail address) that you voluntarily provide through my Website or via email correspondence.
+LRM does not sell, rent or lease its customer lists to third parties.
 
-I will not sell or exchange your personal information at any time. I will collect general information (such as the type of browser you use, the files you request, and the domain name and country from which you request information) to improve my Website and better meet your needs.  
-_**  
-Use of Information:**_
+LRM may share data with trusted partners to help perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to LRM, and they are required to maintain the confidentiality of your information.
 
-_Before I collect any personally identifiable information, I will provide an explanation for the possible use of your data. For example, the information you supply might be used by Living Rich With Coupons to respond to your inquiries or supply you with requested information. It may be necessary, if required by law or if pertinent to judicial or governmental investigations, to release your personally identifiable information. If you have submitted personal information to me electronically and would like it removed or modified, please contact me. I will use every possible reasonable effort to comply with your request.  
-**  
-Links:**_
+LRM may keep track of the websites and pages our users visit within LRM, in order to determine what LRM services are the most popular. This data is used to deliver customized content and advertising within LRM to customers whose behavior indicates that they are interested in a particular subject area.
 
-While Living Rich With Coupons is highly selective about which sites we provide links to, I do not control these web sites, nor do I endorse or otherwise accept responsibility for the content or privacy policies of those sites. I encourage you to review the privacy policies posted on third party sites.
+LRM will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on LRM or the site; (b) protect and defend the rights or property of LRM; and, (c) act under exigent circumstances to protect the personal safety of users of LRM, or the public.
+
+#### Use of Cookies
+
+The LRM website may use “cookies” to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
+
+One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize LRM pages, or register with LRM site or services, a cookie helps LRM to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same LRM website, the information you previously provided can be retrieved, so you can easily use the LRM features that you customized.
+
+You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the LRM services or websites you visit.
+
+#### Security of your Personal Information
+
+LRM secures your personal information from unauthorized access, use or disclosure.
+
+#### Children Under Thirteen
+
+LRM does not knowingly collect personally identifiable information from children under the age of thirteen. If you are under the age of thirteen, you must ask your parent or guardian for permission to use this website.
+
+#### Opt-Out & Unsubscribe
+
+We respect your privacy and give you an opportunity to opt-out of receiving announcements of certain information. Users may opt-out of receiving any or all communications from LRM by contacting us here:  
+\- Email: patricklivesey@livingrichwithcoupons.com
+
+#### Changes to this Statement
+
+LRM will occasionally update this Statement of Privacy to reflect company and customer feedback. LRM encourages you to periodically review this Statement to be informed of how LRM is protecting your information.
+
+#### Contact Information
+
+LRM welcomes your questions or comments regarding this Statement of Privacy. If you believe that LRM has not adhered to this Statement, please contact LRM at:
+
+Living Rich Media, LLC  
+PO Box 34  
+Lincroft, New Jersey 07738
+
+Email Address:  
+patricklivesey@livingrichwithcoupons.com
+
+Effective as of May 01, 2014
