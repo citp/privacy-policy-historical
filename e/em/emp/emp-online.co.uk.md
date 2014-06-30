@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emp-online.co.uk privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116155858id_/http%3A//www.emp-online.co.uk/ter_dataprotection) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emp-online.co.uk privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630032657id_/http%3A//www.emp-online.co.uk/ter_dataprotection) for the most accurate reproduction.*
 
 # Terms of delivery - EMP Mail Order UK Ltd. ::: The Heavy Metal Mailorder ::: Merchandise, Shirts and more!
 
@@ -6,16 +6,17 @@
 
 The safety software we use SSL (Secure Socket Layer) encrypts all personal information (like name, address, credit card number) you enter in our website. This information is not accessible to any third-parties whilst you are connected to our server with the SSL protocol. SSL encrypts all information that you pass to us over the internet using a unique key that only we can access.
 
-Public Key: RSA 1024 Bit  
-User data encryption: RC4 128 Bit
+SSL protocol: SSL 3.0  
+Public Key: SHA1 + RSA 2048 bit  
+User data encryption: DHE RSA – AES 256 bit
 
  **The following information is encrypted:**
 
-  * Personal information (name, address, Telephone-No. etc.) 
-  * Login Information (eMail Address and password) 
-  * Payment method 
-  * Credit-Card and Bank Account Information 
-  * The Date you wish to wait for missing items in an order 
+  * Personal information (name, address, Telephone-No. etc.)
+  * Login Information (eMail Address and password)
+  * Payment method
+  * Credit-Card and Bank Account Information
+  * The Date you wish to wait for missing items in an order
 
 
 
@@ -46,16 +47,6 @@ Ordering at EMP is very easy. We offer a free registration service, where all ne
 The registration is free and you have no obligation to order.
 
 You can delete your customer account at any time. You can do this in the "My EMP" section (once you have logged in to your account). To delete the account, simply click the link "Delete my account irrevocably now". Please note that once the account has been deleted, you must re-register if you wish to place a new order.
-
-## eKomi Customer Feedback
-
-We always really value your comments and reviews so we can constantly try and improve our service to you. We have therefore added to our website some software from **eKomi** – a user friendly Feedback system that will allow you to give your feedback.  After purchase, you get the opportunity to rate our online shop – when the merchandise has been delivered, you will receive an email requesting your review. You don’t have to write a review or use this software of course it is only there to make it easy for you if you do want to offer feedback!
-
-eKomi is obliged to handle your data according to data protection laws. It will take all organisational and technical measures to protect your data. Using a web-based social commerce SaaS technology, customers are politely encouraged to offer an authentic and valuable customer feedback. Initially, eKomi does not receive any customer data from the data base of our online shop via an interface – this is just a unique ID (for identification purposes and review purposes via link generation). eKomi only receives the respective email address for contact purposes in the unlikely event that an arbitration process is required between EMP and the customer. The email address is only used for verification and communication purposes between the customer, our online shop, and eKomi.
-
-To summarise: by placing your order, you agree to an electronic review request. You may choose to ignore this review request, or you can add eKomi to your spam filter at any time - although your review would be very helpful for us and other customers.
-
-More info [http://www.ekomi.co.uk/](https://www.ekomi.co.uk/ "ekomi")
 
 ##  **The Use of Cookies at EMP -   “Cookie" Policy details.**
 
