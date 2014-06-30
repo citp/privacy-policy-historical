@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theweek.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231062343id_/http%3A//theweek.com/home/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theweek.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630073231id_/http%3A//theweek.com/home/info/privacy) for the most accurate reproduction.*
 
 # The Week Magazine - News reviews and opinion, arts, entertainment & political cartoons
 
@@ -102,11 +102,9 @@ THIRD PARTY ADVERTISING
 
 We use third party advertising companies and advertising networks to serve ads to you on our behalf when you visit these Services. These companies may use information (not including your name, address, e-mail address or telephone number) about your visits to these Services and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit the following web addresses:
 
-[http://www.networkadvertising.org/optout_nonppii.asp](https://www.networkadvertising.org/optout_nonppii.asp)
+<http://www.networkadvertising.org/managing/opt_out.asp>
 
-[http://www.advertising.com/Privacy.html](https://www.advertising.com/Privacy.html)
-
-[http://www.doubleclick.com/us/about_doubleclick/privacy](https://www.doubleclick.com/us/about_doubleclick/privacy)
+<http://www.doubleclick.com/us/about_doubleclick/privacy>
 
 USE OF IP ADDRESSES
 
