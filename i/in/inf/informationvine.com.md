@@ -1,266 +1,178 @@
-> *The following text is extracted and transformed from the informationvine.com privacy policy that was archived on 2012-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120514003812id_/http%3A//www.informationvine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the informationvine.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630073352id_/http%3A//about.ask.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Information Vine
+# Privacy Policy | Ask.com
 
-Consumer Privacy Statement
+_(Effective December 18, 2013)_
 
-THE WRITERS NETWORK at Pronto.com, an IAC Company
+**Privacy Policy**
 
-Pronto LLC, a wholly owned IAC company, owns and operates The Writers Network which operates [www.writersnetwork.com](https://www.writersnetwork.com/), [www.homeandgardenideas.com](http://www.homeandgardenideas.com/), [www.moneyandbusiness.com](http://www.moneyandbusiness.com/), [www.beautyandstyle.com](http://www.beautyandstyle.com/), [www.sportsandfitnessideas.com](http://www.sportsandfitnessideas.com/) and [www.informationvine.com](http://www.informationvine.com/).  IAC includes over 60 brands including, in addition to Pronto, Ask.com, Match.com, Citysearch, UrbanSpoon, ServiceMagic, Dictionary.com and many others. For a list of all of IAC's businesses, please visit [www.iac.com](http://www.iac.com/). In order to help customers clearly understand our data collection and use practices, IAC has decided to have its businesses follow a standard set of privacy practices and use a standard format to describe their privacy practices. The following Consumer Privacy statement applies to all IAC businesses. In addition, Pronto LLC has implemented this Privacy Policy for [www.writersnetwork.com](https://www.writersnetwork.com/), [www.homeandgardenideas.com](http://www.homeandgardenideas.com/), [www.moneyandbusiness.com](http://www.moneyandbusiness.com/), [www.beautyandstyle.com](http://www.beautyandstyle.com/), [www.sportsandfitnessideas.com](http://www.sportsandfitnessideas.com/) and [www.informationvine.com](http://www.informationvine.com/) consistent with the IAC privacy commitment and standard privacy policy format. Please review both this Consumer Privacy statement and this web site's complete privacy policy. 
+**Last Updated On: December 18, 2013  
+**  
+At Ask.com, we respect your privacy, and we understand the importance of the information you entrust to us. This Privacy Policy describes our practices concerning the information collected by the Ask family of companies consisting of IAC Search & Media, Inc., APN, LLC and Mindspark Interactive Network, Inc.  (“Ask”, “we”, “us”, “our”) through the use of (i) our websites (the “Website”), (ii) our Ask mobile applications and (iii) “Search Applications,”  a search box on an application or site from which you can access our search services, specifically provided by APN, LLC and/or Mindspark Interactive Network, Inc.(collectively the “Services”).
 
-At IAC, we respect the privacy of our users and the importance of the information they entrust to us. We summarize below the basic information policies and practices in place on all IAC websites. To read the entire Privacy Policy for The Writers Network and its operated sites, please see below.  
+Below we describe what information we collect when you use our Services, how we protect that information, how long we retain it, with whom we share it, and what your privacy options are.  By using the Services, you consent to our collection and use of your information as described in this Privacy Policy.
 
+We will continue to evaluate this Privacy Policy against new technologies, business practices, and our users’ needs, and may make changes to the Privacy Policy accordingly.  Please check this page periodically for updates.  If we make any material changes to this Privacy Policy, we will post the updated Privacy Policy here, along with its effective date, and notify you by email or by means of a notice on our Website.  Your continued use of the Services after our posting of changes to this Privacy Policy means that you agree to be bound by such changes.
 
-Information we may collect  |  Read More Below
+**1.          What information do we collect about you? **
 
-We may collect information that can identify you ("personal information"), such as your name and email address, (i) when you (or other users) provide it to us when using our website or in some other manner, or (ii) from other IAC businesses, from our business partners, and from other third parties. We may combine the personal information that we receive from different sources. 
+We explain below the main ways that we collect and process information about you.
 
-We also may collect other types of information in the following ways when you visit our website: 
+**Information You Provide To Us** **:**
 
-Our server logs automatically collect information, such as your IP address, your browser type and language, and the date and time of your visit, which helps us track users' movements around our site and understand trends. 
+Your use of the Services may require registration, in which case we will ask you to provide certain personal information, including an email address, username, and password.  You may also decide to provide us with some optional demographic information to enhance your profile, such as your country of residence, home address, education, interests, and communications preferences.
 
-  * We may assign your computer one or more cookies to the relevant section of the Privacy Policy which may collect information to facilitate access to our website and to personalize your online experience.
-  * We may use standard Internet tools, such as web beacons which collect information that tracks your use of our website and enables us to customize our services and advertisements.
-  * We do not knowingly collect personal information from children under the age of 13. Should we ever do so, we will comply with the Children's Online Privacy Protection Act.
+You may also provide personal information to us, if you choose to:
 
+  * sign up to receive our “Question of the Day” or any similar service or request to receive certain other communications from us;
+  * submit a help request, a customer services inquiry or other inquiry to us, or fill in any other forms for the purposes of receiving our Services;
+  * participate in some of the features accessible via the Services (for example, message boards, chat groups, social networking, games, surveys, polls, promotions, contests, or sweepstakes);
+  * contact us about employment opportunities posted to the Services; or
+  * otherwise use the Services in a manner that you have requested.
 
 
-Information others may collect  |  Read More Below
 
-We may allow third-party advertising companies or ad networks to display advertisements on our websites. 
+Depending on which of these or any other Services you use, the personal information you provide may include your name, email address, user name, home address, telephone number, information posted by you on sites accessed via the Services.   Also, if you choose to login to a product or feature accessed through a Search Application via a social networking site, you are granting us permission to access and use information about you provided by the social network.  For example, if you use a social network feature to login to a product accessed through a Search Application, per such social network’s policies, they may provide us access to you and your friends names, pictures, genders, user Ids, connections and any content shared using an “Everyone” or similar privacy setting. Please be aware, that by posting information to message boards, chat groups or social networking facilities available via the Services, you will be making this information available to other users of these Services to the public.  You should be careful about revealing any sensitive details about yourself.  **__**
 
-  * We do not provide any personal information to these companies.
-  * These companies may use tracking tools, such as cookies to collect information about computers used to view or interact with their advertisements.
-  * Some of these companies may be members of the [Network Advertising Initiative](http://www.networkadvertising.org/), which offers consumers the ability to opt out of ad targeting by all member companies.
+**Information We Collect When You Use The Services** **:**
 
+When you use the Services, we automatically collect and store certain information about your computer or device and your activities, including:
 
+(1)       IP address of your computer
 
-If you post information about yourself or others, or communicate with others using our website, please note that we cannot control who reads your postings or what they do with the information you provide. We encourage you to use caution in posting personal information.
+(2)        Unique mobile device identifier
 
-How we may use information we collect  |  Read More Below We may use information to:  
+(3)        Technical information about your computer or mobile device such as type of device, mobile device ID number, web browser (Internet Explorer 8, etc.), other browser information (e.g. size, connection speed and connection type), and operating system or platform (Mac, Windows XP, etc.)
 
+(4)        Your preferences and settings (time zone, language, etc.)
 
-  * Fulfill your requests for products and services;
-  * Offer products and services that may be of interest to you;
-  * Customize the advertising and content that you see on our website;
-  * Facilitate use of our website;
-  * Manage your account and your preferences;
-  * Analyze use of and improve our website, products and services;
-  * Identify and protect against fraudulent transactions and other misuses of our website; and
-  * Enforce our Terms of Service.
+(5)        Internet provider or mobile carrier name
 
+(6)        The URL of the last webpage you visited before visiting the Website
 
+(7)        Information about your activity on the Services (e.g., your search queries, mis-formatted DNS entries, search results selected, clicks, pages viewed, search history, comments);
 
-With whom we may share information we collect  |  Read More Below
+(8)    If you are using a mobile device, your mobile device’s geographic location (specific geographic location if you’ve enabled collection of that information, or general geographic location automatically).  Please see the section “Mobile Device Location Information” below for further information.
 
-We will not share your personal information with others except as indicated below, or except when we inform you in advance and give you the opportunity to opt out. We may share personal information with:
+(9)    If you installed a Search Application, we may also collect information about that Search Application (e.g. the specific release date and distribution source of your Search Application, a unique Search Application ID, Search Application partner ID, the ads you click on, and information contained in error log files or cookies, aggregate query or click data and erroneous domain name system requests).
 
-  * Service providers, such as credit-card payment processors, performing services on our behalf;
-  * Other IAC businesses; and
-  * Other businesses with which we partner or which we carefully select to offer you products, services, and promotions through our website or offline.
+**2.          How do we use the information we collect?**
 
+We use the information we collect from and about you for a variety of purposes, including to:
 
+  * verify your eligibility for our Services;
+  * respond to your queries with the best possible answers and search results;
+  * understand our users (their demographics, what they do on our Services, what features they like, how they use them etc.) and improve our Services, such as by personalizing content to your interests and process and complete your transactions;
+  * administer our Services, diagnose technical problems and otherwise manage our business;
+  * distinguish your Search Application for purposes of compensating third parties who distributed the Search Application on our behalf and to analyze retention and usage per distribution partner or channel;
+  * send you communications that you have requested or that may be of interest to you in accordance with your preferences.  Please see the section “Reviewing, changing or deleting information” for further information about how you can control these communications;
+  * send you questions from other users that you may be able to answer if you have registered with our Services;
+  * deliver prizes in connection with contests and sweepstakes or otherwise facilitate the use of our Services;
+  * provide you with customer support;
+  * enable us to show you ads that are more relevant to you; and
+  * perform functions as otherwise described at the time of collection.
 
-We may share aggregated, non-personal information in any of the above situations and also with advertisers and others.
 
-Your choices  |  Read More Below
 
-You may choose:
+We may also generate, use and disclose aggregated and/or anonymized information and statistics about your use of the Services to third parties for marketing, analytical and strategic purposes. However, no user of our Services will be individually identifiable from the aggregated and/or anonymized information and statistics.
 
-  * Not to provide personal information, although that may result in your inability to obtain certain services or use certain features of our website;
-  * To stop receiving promotional emails or newsletters from us by sending an email to the contact address at the bottom of this policy;
-  * To delete or decline cookies by changing your browser settings, although if you do so, some of the features or services of our website may not function properly;
-  * To review and update your personal information by contacting us at the email address below or, if you have an online account on our website, by logging into that account.
+**3.          How do we share the information we collect?**
 
+We will not share the personal information we collect about you with any third party for their own marketing purposes without your consent.  We will share your information in the following ways:
 
+  * **_Our suppliers, subcontractors and business partners (“service providers”):_** We may share your data with our services providers who process your personal information to provide services to us or on our behalf.  We have contracts with our service providers that prohibit them from sharing the information about you that they collect or that we provide to them with anyone else, or using it for other purposes.
+  * **_Companies within the IAC Group of Companies:_** __ We may share your information with our affiliates, which are entities under common ownership or control of our ultimate parent company, IAC Corp.  _ _
+  * **_Our Search Application partners:_** __ If you have installed a Search Application, our Search Application partners may collect / receive information about you including the queries you submit via the Services, the Search Application functionality and / or website, the version of your Search Application or your browser settings, the search results and ads you click on, and the address of the web pages you previously visited. **  **
+  * **_Fraud prevention:_** We may disclose the personal information we collect about our users when we believe disclosure is necessary to investigate, prevent, or respond to suspected illegal or fraudulent activity or to protect the safety, rights, or property of us, our users, or others.
+  * **_Law enforcement purposes:_** If requested or required by government authorities, such as law enforcement authorities, courts, or regulators, or otherwise to comply with the law, we may disclose any information we have about our users. We also may disclose information collected about you in order to exercise or protect legal rights or defend against legal claims.
+  * **_Sale or merger of our business:_** __ We may transfer your personal information to a third party if we or any of our affiliates are involved in a corporate restructuring (e.g., a sale, merger, or other transfer of assets).
+  * **_Advertisers and advertising networks:_**  Advertisers and advertising networks place ads (including sponsored links in search results) on our site and in our mobile applications. These companies may collect information, such as your computer’s IP address, browser information, mobile device ID, and search queries, as you use our Website and Services.  They also may use cookies and other technologies to collect this information when you visit our site as described below.
 
-Security  |  Read More Below
 
-We take appropriate physical, electronic, and other security measures to help safeguard personal information from unauthorized access, alteration, or disclosure.
 
-Changes to The Writers Network Privacy Policy
+**4.          Cookies and Online Advertising:**
 
-We may occasionally update The Privacy Policy applicable to [www.writersnetwork.com](http://www.writersnetwork.com/ "www.writersnetwork.com"), [www.homeandgardenideas.com](http://www.homeandgardenideas.com/ "www.homeandgardenideas.com"), [www.moneyandbusiness.com](http://www.moneyandbusiness.com/ "www.moneyandbusiness.com"), [www.beautyandstyle.com](http://www.beautyandstyle.com/ "www.beautyandstyle.com"), [www.sportsandfitnessideas.com](http://www.sportsandfitnessideas.com/ "www.sportsandfitnessideas.com") and [www.informationvine.com](http://www.informationvine.com/ "www.informationvine.com") to reflect changes in our practices and services. If we make material changes in the way we collect, use, or share your personal information, we will notify you by sending you an email to the email address you most recently provided to us and/or by prominently posting notice of the changes on our website.
+**Cookies.**   We use cookies, pixel tags, web beacons and other such similar technologies to collect and store the information we automatically collect about your computer, device and Service usage. A cookie is a small text file that is stored on your computer and a pixel tag (also called a web beacon or clear GIF) is a tiny graphic with a unique identifier, embedded invisibly on a webpage (or an online ad or email). We use the term “cookies” in this policy to refer to cookies and all such similar technologies.
 
-How to contact us
+There are two broad categories of cookies: (1) first party cookies, served directly by us to your computer or mobile device, and (2) third party cookies, which are served by a third party on our behalf.  Cookies have a lot of jobs.  For example, our cookies enable us to recognize you (e.g. as a registered user) when you visit our website and to store your preferences and settings.  We use third party cookies for functionality, performance / analytics, advertising and social media purposes.  Cookies from advertising companies, for example, help to ensure that the advertisements you see online are more relevant to you and your interests.  To understand more about cookies and pixel tags, click [here.](http://www.allaboutcookies.org/)
 
-If you have any questions about this summary, our Privacy Policy, or our information practices, please contact us by email or postal mail below:
+**How To Control Or Delete Cookies** **:  
+_____________________________________________________________________________  
+****NOTICE REGARDING ASK ERASER**
 
-Privacy Officer
+Please note that Ask will discontinue its AskEraser feature on January 15, 2014.  AskEraser is a privacy feature from Ask that when enabled, deletes your search activity from Ask’s servers in most circumstances.  However, even without Ask Eraser, you can use your browser’s support or help settings to disable Ask cookies from collecting this information in the first place. Detailed information about how to disable Ask.com cookies can be found below.
 
-The Writers Network
+**_____________________________________________________________________________**
 
-Pronto, LLC.
+Most browsers allow you to change your cookie settings. Users can usually set their browsers to block all third-party cookies (which are those set by third-party companies collecting information on websites operated by other companies), block all cookies (including first-party cookies such as the ones Ask uses to collect search activity information about its users), or block specific cookies.  These settings will typically be found in the “options” or “preferences” menu of your browser. In order to understand these settings, the following links may be helpful, otherwise you should use the “Help” option in your browser for more details.
 
-555 West 18th Street
+  * [Cookie settings in Internet Explorer](http://support.microsoft.com/kb/196955)
+  * [Cookie settings in Firefox](http://support.mozilla.com/en-US/kb/Cookies)
+  * [Cookie settings in Chrome](http://www.google.com/support/chrome/bin/answer.py?hl=en&answer=95647)
+  * [Cookie settings in Safari web](http://support.apple.com/kb/PH5042) and [iOS](http://support.apple.com/kb/HT1677).
 
-4th Floor
 
-New York, NY 10011
 
-[www.pronto.com](http://www.pronto.com/)
+Please note that if you choose to block cookies, this may interfere with certain functionality on our website.  Also, if you have disabled one or more cookies, we may still use information collected from cookies prior to your disabled preference being set; however, we will stop using the disabled cookie to collect any further information.
 
-[prontocontent@pronto.com](mailto:prontocontent@pronto.com)
+Third parties whose products or services are accessible or advertised through the Services, including social networking services, may also use cookies or similar tools, and we advise you to check their privacy policies for information about their cookies and other practices.  We do not control the practices of such partners and their privacy policies govern their interactions with you.  We encourage you to read their privacy policies.
 
-© 2012 IAC/InterActiveCorp. All rights reserved.
+**Online Behavioral Advertising and Mobile.**   Advertisers and advertising networks place ads (including sponsored links in search results) on our website and in our mobile applications. These companies, as well as data analytics companies who service them, may use cookies, pixel tags, mobile device IDs and other similar technologies to collect data about you when you visit our site.  They use the data to enable them to track your activity across various sites where they display ads and record your activities, so they can show ads that they consider relevant to you.  You may opt-out of receiving targeted online advertising from advertising networks that is delivered on Ask.com and other websites by visiting the following websites:
 
-* * *
+  * Network Advertising Initiative (<http://www.networkadvertising.org/>)
+  * Digital Advertising Alliance (<http://www.aboutads.info/consumers>)
 
-THE WRITERS NETWORK
 
-PRIVACY POLICY
 
-Your Privacy Rights
+Please bear in mind that there are many more companies listed on these sites than those that drop cookies on our website.
 
-Last updated November 5, 2010
+If you are using an Ask mobile application, we use your unique mobile device ID number to recognize you when you use the application and to store your preferences and settings. Advertising companies may also use and store your mobile device ID to show ads that they consider relevant to you in various mobile services that you use.
 
-Pronto, LLC. (ìProntoî) owns and operates The Writers Network and [www.writersnetwork.com](https://www.writersnetwork.com/), [www.homeandgardenideas.com](http://www.homeandgardenideas.com/), [www.moneyandbusiness.com](http://www.moneyandbusiness.com/), [www.beautyandstyle.com](http://www.beautyandstyle.com/), , [www.sportsandfitnessideas.com](http://www.sportsandfitnessideas.com/) and [www.informationvine.com](http://www.informationvine.com/).  Pronto respects the privacy of our users and has developed this Privacy Policy to demonstrate its commitment to protecting your privacy. This Privacy Policy is intended to describe for you, as an individual who is a user of  [www.homeandgardenideas.com](http://www.homeandgardenideas.com/ "www.homeandgardenideas.com"), [www.writersnetwork.com](http://www.writersnetwork.com/ "www.writersnetwork.com"), [www.beautyandstyle.com](http://www.beautyandstyle.com/ "www.beautyandstyle.com"), [www.moneyandbusiness.com](http://www.moneyandbusiness.com/ "www.moneyandbusiness.com"), [www.sportsandfitnessideas.com](http://www.sportsandfitnessideas.com/ "www.sportsandfitnessideas.com"), [www.informationvine.com](http://www.informationvine.com/ "www.informationvine.com") or our other websites within The Writers Network, which link to this Privacy Policy and which are covered by this Privacy Policy, the information we collect, how that information may be used, with whom it may be shared, and your choices about such uses and disclosures.
+If you are using an iOS device and you do not want to receive tailored in-application ads that relate to your interests, you may opt-out by accessing the following link on your device:  [http://oo.apple.com](http://oo.apple.com/).  If you are using an iOS6 device, you also may limit the delivery of tailored ads by: Open Settings and tap “General” then tap “About”; Scroll to the bottom of About and tap “Advertising”; Flip “Limit Ad Tracking” to ON.  If you are using an Android device and you do not wish to receive tailored in-application ads, you can visit Google’s [Ads Preferences](http://www.google.com/ads/preferences/) page from a browser on your device and make your choices there.  We do not control how the applicable platform operator allows you to control receiving tailored in-application ads; thus, you should contact the platform provider if the above options are no longer available.
 
-We encourage you to read this Privacy Policy carefully when using The Writers Network and/or [www.homeandgardenideas.com](http://www.homeandgardenideas.com/ "www.homeandgardenideas.com"), [www.writersnetwork.com](http://www.writersnetwork.com/ "www.writersnetwork.com"), [www.beautyandstyle.com](http://www.beautyandstyle.com/ "www.beautyandstyle.com"), [www.moneyandbusiness.com](http://www.moneyandbusiness.com/ "www.moneyandbusiness.com"), [www.sportsandfitnessideas.com](http://www.sportsandfitnessideas.com/ "www.sportsandfitnessideas.com"), [www.informationvine.com](http://www.informationvine.com/ "www.informationvine.com"). By using our website or our services within The Writers Network, you are accepting the practices described in this Privacy Policy.  Pronto is a part of the IAC/InterActiveCorp family of businesses [[www.iac.com]](http://www.iac.com/), which includes Ask.com, Citysearch, UrbanSpoon, Match.com, ServiceMagic, Dictionary.com, and many others.
+**Mobile Device Location Information.**   When you use one of our location-enabled services (for example, when you access Services from a mobile device), we may need to collect and process information about your actual GPS location (including the latitude, longitude or altitude of your mobile device) and the time the location information was recorded.  Some of these services require your personal data for the feature to work and we may associate location data with your device ID and other information we hold about you.  We keep this data for no longer than is reasonably necessary for providing our services.  If you wish to use the particular feature, you will be asked to consent to your data being used for this purpose. You can withdraw your consent at any time by disabling the relevant feature.  If you do not want your location information collected when you use the Services from a mobile device, please follow these instructions:
 
-If you have any questions about our privacy practices, please refer to the end of this Privacy Policy for information on how to contact us.
+  * If you are using an Apple device, click on “General,” then “Reset,” then “Reset Location and Privacy.” This will turn off location functionality for all of your apps so that the next time you download or use an app, you will be asked again to provide your consent for us and others to access your location information.
+  * If you are using an Android device, visit device settings, click “Location,” and then click the boxes for the particular applications for which you would like to disable location services.
+  * If your device changes the above methods of disabling the collection of mobile device location, please contact your device manufacturer or platform provider to determine how to disable the collection of this information.
 
-Information we collect about you
 
-In General. We may collect personal information that can identify you such as your name and email address and other information that does not identify you. When you provide personal information through our website, the information may be sent to servers located in the United States and other countries around the world.
 
-  * Information you provide. We may collect and store any personal information you enter on our website or provide to us in some other manner. This includes identifying information, such as your name, address and e-mail address. We also may request information about your interests and activities, your gender and age, zip code, and other demographic information.  If you sign up to become a writer in The Writersí Network, we may collect and store additional personal information which will be subject to the terms and conditions of any agreement you enter with Pronto in the sign up process.
-  * Information from other sources. We may also periodically obtain both personal and non-personal information about you from other IAC businesses, business partners, contractors and other third parties. Examples of information that we may receive include: updated delivery and address information, purchase history, and additional demographic information.
-  * Information about others. We may also collect and store personal information about other people that you provide to us. If you use our website to send others (friends, relatives, colleagues, etc.) information that may interest them or messages (such as invitations to join a network) or other purpose that our service mail allow through our system, we may store your personal information, and the personal information of each such recipient.
+**5.          Reviewing, changing or deleting information**
 
+If you would like to review, change or delete personal information we have collected from you, please contact the Ask Privacy Officer:
 
+Ask.com  
+Attn: Privacy Officer  
+555 12th Street, 11th Floor  
+Oakland, CA 94607
 
-Use of cookies and other technologies to collect information. We use various technologies to collect information from your computer and about your activities on our site.  
+If you would like to permanently delete your Ask.com account, please access the “Your Account” tab on the Settings page, and follow the instructions there.
 
+**Do Not Track.**   Do Not Track (“DNT”) is a privacy preference that users can set in certain web browsers. DNT is a way for users to inform websites and services that they do not want certain information about their webpage visits collected over time and across websites or online services.
 
-  * Information collected automatically. We automatically collect information from your browser when you visit our website. This information includes your IP address, your browser type and language, operating system, screen resolution access times, the content of any undeleted cookies that your browser previously accepted from us (see "Cookies"), and the referring website address.
-  * Cookies. When you visit our website, we may assign your computer one or more cookies, to facilitate access to our site and to personalize your online experience. Through the use of a cookie, we also may automatically collect information about your online activity on our site, such as the web pages you visit, the links you click, and the searches you conduct on our site. Most browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you choose to decline cookies, please note that you may not be able to sign in or use some of the interactive features offered on our website.
-  * Other Technologies. We may use standard Internet technology, such as web beacons and other similar technologies, to track your use of our site. We also may include web beacons in promotional [or other] e-mail messages or newsletters to determine whether messages have been opened and acted upon. The information we obtain in this manner enables us to customize the services we offer our website visitors to deliver targeted advertisements and to measure the overall effectiveness of our online advertising, content, programming or other activities.
-  * Information collected by third-parties. We may allow third-parties, including our authorized service providers, IAC companies, advertising companies, and ad networks, to display advertisements on our site. These companies may use tracking technologies, such as cookies or web beacons these should be a link to the relevant section of the Privacy Policy, to collect information about users who view or interact with their advertisements. Our website does not provide any personal information to these third parties. This information allows them to deliver targeted advertisements and gauge their effectiveness. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies ([www.networkadvertising.org](http://www.networkadvertising.org/)).
+We are committed to providing you with meaningful choices about the information collected on our website for third party purposes, and that is why we provide the Network Advertising Initiative and the Digital Advertising Alliance opt-out links above. However, we do not recognize or respond to browser-initiated DNT signals, as the Internet industry is currently still working toward defining exactly what DNT means, what it means to comply with DNT, and a common approach to responding to DNT.
 
+**6.          How do we keep the information we collect secure? **
 
+We take the security of your personal information seriously and use appropriate technical and organizational measures to protect your personal information against unauthorized or unlawful processing and against accidental loss, destruction or damage.  We also limit access to personal information about you to employees who reasonably need access to it to provide products or services to you, or in order to do their jobs.  However, because no security system can be 100% effective, we cannot completely guarantee the security of any information we may have collected from or about you.
 
-How we use the information we collect
+**7.          How long do we keep the information we collect?**
 
-In general. We may use information that we collect about you to:
+We retain the information we collect about and from you for as long as necessary to fulfill a business purpose or comply with a legal request.  We may also choose to anonymize certain of the information you provide to us so that it can no longer be attributed to you if we would like to retain it for longer periods of time.
 
-  * deliver services that you have requested;
-  * manage your account and provide you with customer support;
-  * allows other users of our service to learn about you and your interests through information you make available on your profile;
-  * perform research and analysis about your use of, or interest in, our service or content, or products, services or content offered by others;
-  * communicate with you by e-mail, postal mail, telephone and/or mobile devices about products or services that may be of interest to you either from us, our sister IAC companies or other third parties;
-  * develop and display content and advertising tailored to your interests on our site and other sites;
-  * verify your eligibility and deliver prizes in connection with contests and sweepstakes;
-  * enforce our terms and conditions;
-  * manage our business and
-  * perform functions as otherwise described to you at the time of collection.
+**8.          Children under 13**
 
+ ****The Services are not intended for users under the age of 13.   We do not knowingly collect any personal information from children under 13.  If we become aware that a person submitting information is under 13, we will attempt to delete the information as soon as possible.  You hereby represent that you are at least 13.
 
+**9.          Consent to Transfer of Information **
 
-Job applicants. If your personal information is submitted through our website when applying for a position with our company, the information will be used solely in connection with considering and acting upon your application. We may retain your personal information for a period of time, but only for the purpose of considering your application for current or future available positions. This information may be shared with our sister IAC companies for the purpose of evaluating your qualifications for other available positions, as well as with third-party service providers retained by us to collect, maintain and analyze candidate submissions for job postings.
+If you are visiting the Services from outside the United States, your data will be transferred to and stored in our servers in the U.S.  By using the Services, you consent to our collection and use of your data as described in this Privacy Policy.
 
-The Writers Network Sign Up. If your personal information is submitted through The Writers Network web site at [www.writersnetwork.com](https://www.writersnetwork.com/) when enrolling to become a writer for that service, the information will be used solely in connection with considering and acting upon your application and, if accepted, in managing your account, making payments to you and remitting information to the proper governmental authorities as required.  If your relationship with The Writers Network terminates for any reason, we may keep a copy of your information for our record keeping purposes. 
+**10.        U.S.-EU Safe Harbor Notice**
 
-Please review "Your choices about collection and use of your information" below.
+The Ask.com Website and mobile applications are certified under the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from EU member countries and Switzerland.
 
-With whom we share your information:
+Ask.com has further committed to refer unresolved privacy complaints regarding the Website or mobile applications under the U.S.-EU and U.S.-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by us, please visit the BBB EU SAFE HARBOR web site at www.bbb.org/us/safe-harbor-complaints for more information and to file a complaint.
 
-We want you to understand when and with whom we may share personal or other information we have collected about you or your activities on our web site or while using our services.
-
-  * Personal information. We do not share your personal information with others except as indicated below or when we inform you and give you an opportunity to opt out of having your personal information shared. We may share personal information with:
-  * Authorized service providers: We may share your personal information with our authorized service providers that perform certain services on our behalf. These services may include performing business and sales analysis, supporting our website functionality and connectivity, and supporting any contests, sweepstakes, surveys and/or other features that may be offered through our website. These service providers may have access to personal information needed to perform their functions but are not permitted to share or use such information for any other purposes.
-  * Business partners: When you engage in promotions offered through our website or our services, we may share personal information with the businesses with which we partner to offer you those products, services, promotions, contests and/or sweepstakes. When you elect to engage in a particular merchant's offer or program, you authorize us to provide your email address and other information to that merchant.
-  * Other IAC businesses. We are part of the IAC family of businesses (go to [www.iac.com](http://www.iac.com/ "www.iac.com") for a listing of these businesses). We may share information we collect, including personal information, with the IAC companies. Sharing information with our IAC companies enables us to provide you with information about a variety of products and services that might interest you. All IAC companies comply with the IAC Consumer Privacy Statement. Our IAC companies also will comply with applicable privacy and security laws and, at a minimum, in any commercial e-mail they send to you, will give you the opportunity to choose not to receive such e-mail messages in the future.
-  * Other Situations. We also may disclose your information:
-  *     * In response to a subpoena or similar investigative demand, a court order, or a request for cooperation from a law enforcement or other government agency; to establish or exercise our legal rights; to defend against legal claims; or as otherwise required by law. In such cases, we may raise or waive any legal objection or right available to us.
-    * When we believe disclosure is appropriate in connection with efforts to investigate, prevent, or take other action regarding illegal activity, suspected fraud or other wrongdoing; to protect and defend the rights, property or safety of our company, our users, our employees, or others; to comply with applicable law or cooperate with law enforcement; or to enforce our website terms and conditions or other agreements or policies.
-    * In connection with a substantial corporate transaction, such as the sale of our business, a divestiture, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy.
-
-
-
-Any third parties to whom we may disclose personal information may have their own privacy policies which describe how they use and disclose personal information. Those policies will govern use, handling and disclosure of your personal information once we have shared it with those third parties as described in this Privacy Policy. If you want to learn more about their privacy practices, we encourage you to visit the websites of those third parties. These entities or their servers may be located either inside or outside the United States.
-
-Aggregated and non-personal information. We may share aggregated and non-personal information we collect under any of the above circumstances. We may also share it with third parties and our IAC sister companies to develop and deliver targeted advertising on our websites and on websites of third parties. We may combine non-personal information we collect with additional non-personal information collected from other sources. We also may share aggregated information with third parties, including advisors, advertisers and investors, for the purpose of conducting general business analysis. For example, we may tell our advertisers the number of visitors to our website and the most popular features or services accessed. This information does not contain any personal information and may be used to develop website content and services that we hope you and other users will find of interest and to target content and advertising.
-
-Third-party websites
-
-There are a number of places on our website where you may click on a link to access other websites that do not operate under this Privacy Policy. For example, if you click on a link to a retailer or an advertisement or a search result on our website, you may be taken to a website that we do not control. These third-party websites may independently solicit and collect information, including personal information, from you and, in some instances, provide us with information about your activities on those websites. We recommend that you consult the privacy statements of all third-party websites you visit by clicking on the "privacy" link typically located at the bottom of the webpage you are visiting.
-
-How you can access your information:
-
-If you have an online account or profile with us, you have the ability to review and update your personal information online by logging into your account. You can also review and update your personal information by contacting us. More information about how to contact us is provided below.
-
-If you have an online account with us, you also may choose to close your account at any time by contacting us at the address below. After you close your account, you will not be able to sign in to our website or access any of your personal information. However, you can open a new account at any time. If you close your account, we may still retain certain information associated with your account for analytical purposes and recordkeeping integrity, as well as to prevent fraud, collect any fees owed, enforce our terms and conditions, take actions we deem necessary to protect the integrity of our web site or our users, or take other actions otherwise permitted by law. In addition, if certain information has already been provided to third parties as described in this Privacy Policy, retention of that information will be subject to those third parties' policies.
-
-Your choices about collection and use of your information
-
-  * You can choose not to provide us with certain information, but that may result in you being unable to use certain features of our website because such information may be required in order for you to register as a member; purchase products or services; participate in a contest, promotion, survey, or sweepstakes; ask a question; or initiate other transactions on our website.
-  * At any time you can choose to no longer receive commercial or promotional emails or newsletters from us by unsubscribing from our email programs or contacting us at [prontocontent@pronto.com](mailto:prontocontent@pronto.com). You also will be given the opportunity, in any commercial e-mail that we send to you, to opt out of receiving such messages in the future. It may take up to 10 days for us to process an opt-out request. We may send you other types of transactional and relationship e-mail communications, such as service announcements, administrative notices, and surveys, without offering you the opportunity to opt out of receiving them. Please note that changing information in your account, or otherwise opting out of receipt of promotional email communications will only affect future activities or communications from us. If we have already provided your information to a third party (such as an event provider) before you have changed your preferences or updated your information, you may have to change you preferences directly with that third party.
-
-
-
-How we protect your personal information:
-
-We take appropriate security measures (including physical, electronic and procedural measures) to help safeguard your personal information from unauthorized access and disclosure. For example, only authorized employees are permitted to access personal information, and they may do so only for permitted business functions. In addition, we use encryption in the transmission of your sensitive personal information between your system and ours, and we use firewalls to help prevent unauthorized persons from gaining access to your personal information.
-
-We want you to feel confident using our website to transact business. However, no system can be completely secure. Therefore, although we take steps to secure your information, we do not promise, and you should not expect, that your personal information, searches, or other communications will always remain secure. Users should also take care with how they handle and disclose their personal information and should avoid sending personal information through insecure email. Please refer to the Federal Trade Commission's website at <http://www.ftc.gov/bcp/menus/consumer/data.shtm> for information about how to protect yourself against identity theft.
-
-Children's privacy
-
-Our website is a general audience site, and we do not knowingly collect personal information from children under the age of 13.
-
-Visiting our websites from outside the United States:
-
-This Privacy Policy is intended to cover collection of information on our website from residents of the United States. If you are visiting our website from outside the United States, please be aware that your information may be transferred to, stored, and processed in the United States where our servers are located and our central database is operated. The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country. Please be assured that we seek to take reasonable steps to ensure that your privacy is protected. By using our services, you understand that your information may be transferred to our facilities and those third parties with whom we share it as described in this privacy policy.
-
-Changes to The Writers Network Privacy Policy:
-
-We will occasionally update this Privacy Policy to reflect changes in our practices and services. When we post changes to this Privacy Policy, we will revise the "last updated" date at the top of this Privacy Policy. If we make any material changes in the way we collect, use, and/or share your personal information, we will notify you by sending an e-mail to the e-mail address you most recently provided us in your account, profile or registration (unless we do not have such an email address), and/or by prominently posting notice of the changes on our website. We recommend that you check our website from time to time to inform yourself of any changes in this Privacy Policy or any of our other policies.
-
-How to contact us
-
-If you have any questions about this Privacy Policy or our information-handling practices, or if you would like to request information about our disclosure of personal information to third parties for their direct marketing purposes, please contact us by e-mail or postal mail as follows:
-
-Privacy Officer
-
-The Writers Network
-
-Pronto, LLC.
-
-555 West 18th Street
-
-4th Floor
-
-New York, NY 10011
-
-[prontocontent@pronto.com](mailto:prontocontent@pronto.com)
-
-Your California Privacy Rights:
-
-If you are a resident of California, in addition to the rights set forth above, you have the right to request information from us regarding the manner in which we share certain categories of personal information with third parties and the IAC companies for their direct marketing purposes. California law gives you the right to send us a request at a designated address to receive the following information:
-
-  1. the categories of information we disclosed to third parties for their direct marketing purposes during the preceding calendar year
-  2. the names and addresses of the third parties that received that information; and
-  3. if the nature of the third party's business cannot be determined from their name, examples of the products or services marketed.
-
-
-
-We may provide this information in a standardized format that is not specific to you. The designated email address for these requests is [prontocontent@pronto.com](mailto:mailto:prontocontent@pronto.com).
-
-© 2012 IAC/InterActiveCorp. All rights reserved.
-
-Cookies:
-
-A cookie is a small text file that is stored on a user's computer for record keeping purposes. Cookies can be either session cookies or persistent cookies. A session cookie expires when you close your browser and is used to make it easier for you to navigate our website. A persistent cookie remains on your hard drive for an extended period of time.
-
-For example, when you sign in to our website, we will record your user ID and the name on your user account in the cookie file on your computer. We also may record your password in this cookie file, if you indicated that you would like your password saved for automatic sign-in. For security purposes, we will encrypt any usernames, passwords, and other user or member account-related data that we store in such cookies. In the case of sites and services that do not use a user ID, the cookie will contain a unique identifier. We may allow our authorized service providers to serve cookies from our website to allow them to assist us in various activities, such as doing analysis and research on the effectiveness of our site, content and advertising.
-
-You may delete or decline cookies by changing your browser settings. (Click "Help" in the toolbar of most browsers for instructions.) If you do so, some of the features and services of our website may not function properly.
-
-We may allow third-parties, including IAC companies, advertising companies, and ad networks, to display advertisements on our site. These companies may use tracking technologies, such as cookies, to collect information about users who view or interact with their advertisements. Our website does not provide any personal information to these third parties, but they may collect information about where you, or others who are using your computer, saw and/or clicked on the advertisements they deliver, and possibly associate this information with your subsequent visits to the advertised websites. They also may combine this information with personal information they collect from you. The collection and use of that information is subject to the third-party's privacy policy. This information allows them to deliver targeted advertisements and gauge their effectiveness. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies ([www.networkadvertising.org](http://www.networkadvertising.org/)).
-
-Web Beacons:
-
-Web beacons (also known as clear GIFs, pixel tags or web bugs) are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of web users or to access cookies. Unlike cookies which are stored on the user's computer hard drive, web beacons are embedded invisibly on the web pages (or in email) and are about the size of the period at the end of this sentence.
-
-Web beacons may be used to deliver or communicate with cookies, to count users who have visited certain pages and to understand usage patterns. We also may receive an anonymous identification number if you come to our site from an online advertisement displayed on a third-party website.
+To learn more about the Safe Harbor program, and to view Ask.com’s certification for the Website and mobile applications, please visit <http://www.export.gov/safeharbor/>.
