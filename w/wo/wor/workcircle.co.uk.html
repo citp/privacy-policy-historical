@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the workcircle.co.uk privacy policy that was archived on 2013-11-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131102194753id_/http%3A//www.workcircle.co.uk/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the workcircle.co.uk privacy policy that was archived on 2014-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140630062646id_/http%3A//www.workcircle.co.uk/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head profile="http://a9.com/-/spec/opensearch/1.1/">
 <!-- TradeDoubler site verification 1253612 -->
@@ -15,15 +15,17 @@
 
 
 <link title="Workcircle Job Search" rel="search" type="application/opensearchdescription+xml" href="http://www.workcircle.co.uk/opensearch.xml">
-<link rel="stylesheet" type="text/css" href="/style.2013100801.css">
+<link rel="stylesheet" type="text/css" href="/style.2014050801.css">
 <link rel="canonical" href="/jobs/">
 
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+<script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
 window.google_analytics_uacct = "UA-284929-13";
 </script>
 
-<script type="text/javascript" src="/javascript/javascript.2013100801.js"></script>
+<script type="text/javascript" src="/javascript/javascript.20140523.js"></script>
 <script type="text/javascript" src="/javascript/jquery.js"></script>
+<script type="text/javascript" src="/javascript/jquery.simplemodal.js"></script>
+<!-- <script type="text/javascript" src="/javascript/jquery.easyModal.js"></script> -->
 <script type="text/javascript">
 function sticky_relocate() {
 	var window_top = $(window).scrollTop();
@@ -42,8 +44,11 @@ function sticky_relocate() {
 	}
 }
 $(function() {
-  $(window).scroll(sticky_relocate);
-  sticky_relocate();
+//  $(window).scroll(sticky_relocate);
+//  sticky_relocate();
+
+
+
 });
 
 (function($,sr){
@@ -79,7 +84,7 @@ $(window).smartresize(function(){
 	var window_width = $(window).width();
 
 	$('#emailinjobs').width( $('#main').width() );
-	go_adverts( 'GB', 2, '', '', '174.129.237.157');
+	go_adverts( 'ALL', 2, '', '', '207.241.237.103');
 });
 </script>
 <script type="text/javascript">
@@ -110,11 +115,19 @@ _gaq.push(['_trackPageview']);
   } 
 </script>
 
+<script>(function(a){var d=document,c=d.createElement("script");c.async=!0,c.defer=!0,c.src=a,d.getElementsByTagName("head")[0].appendChild(c)})((iatDev=(window.location.href.indexOf("iatDev=1")>-1||document.cookie.indexOf("iatDev=1")>-1),"//"+(window.location.protocol=="http:"&&!iatDev?"":"s")+"data.captifymedia.com/248720.js?r="+Math.random()*1e16+"&m=1112&a=248720"+(iatDev?"&d=1":"")))</script><script async="" defer="" src="//sdata.captifymedia.com/248720.js?r=1282661241772829&amp;m=1112&amp;a=248720"></script>
 </head><body onload="">
 <div id="header">
 <div class="nav">
 <!---->
-<a href="/login">Login</a> | <a href="/login#register">Register</a> | <a href="/alerts">Job alerts</a></div>
+<span id="login_nav">
+<a href="/login">Login</a> | <a href="/login#register">Register</a> | <a href="/alerts">Job alerts</a>
+</span>
+ |
+<a href="https://twitter.com/workcircleuk" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false">Follow @workcircleuk</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+
+</div>
 <div class="spacer"></div>
 <div id="topsearch">
 
@@ -146,21 +159,21 @@ _gaq.push(['_trackPageview']);
 
 </div>
 <div id="register" style="display:none; position:absolute;">
-<form method="post" action="" onsubmit="jsSaveSearch( this ); return false;" id="alert" class="emailalert">
+<form method="post" action="" onsubmit="jsSaveSearchGeneric( this ); return false;" id="alert" class="emailalert">
 <span class="close"><a onclick="toggle();" title="close">x</a></span>
 <p>Receive new <strong>Jobs </strong> daily</p>
 <input type="hidden" name="query" value="">
 <input type="hidden" name="location" value="">
-<div id="jsJustSaved2" style="display: none;"><p>This search is now saved, and we'll email you new matching jobs daily.</p></div>
-<div id="jsAlreadySaved2" style="display: none;">
+<div id="jsJustSaved2" class="just_saved" style="display: none;"><p>This search is now saved, and we'll email you new matching jobs daily.</p></div>
+<div id="jsAlreadySaved2" class="already_saved" style="display: none;">
 <p>You already have an email alert saved for this search. Go to <a href="/alerts">Alerts</a> page to manage them.</p><br></div>
-<div id="jsSaveSearch2">
-<div id="jsError2" class="error"></div>
-<input type="hidden" name="email" value="">
-<input name="search" type="submit" value="email me!" class="button orange small"></div>
+<div id="jsSaveSearch2" class="save_search">
+	<div id="jsError2" class="error"></div>
+<input name="email" type="text" style="width:190px;" value="type your email address here" onfocus="if( this.value == 'type your email address here' ) this.value = '';" class="smalltxt">
+	<input name="search" type="submit" value="email me!" class="button orange small">
+</div>
 </form>
 </div>
-
 
 	
 <div id="container">
@@ -230,12 +243,6 @@ We know what employers want. Enquire now to find out what course could be right 
 
 
 
-<br>
-<br>
-
-<div class="rhsad"><h3><a href="http://ad.workcircle.com/adclick.php?bannerid=135&amp;zoneid=48&amp;source=&amp;dest=http%3A%2F%2Fwww.cv-library.co.uk%2Faff%2F100109&amp;ismap="> Click here to upload your CV</a></h3><p> and get it in front of over <strong>5,000</strong> top recruiters!<br><a href="http://ad.workcircle.com/adclick.php?bannerid=135&amp;zoneid=48&amp;source=&amp;dest=http%3A%2F%2Fwww.cv-library.co.uk%2Faff%2F100109&amp;ismap="><img src="http://www.workcircle.co.uk/images/cvlibrary-logo.png" alt="CV library" width="82" height="23"></a></p><br clear="all"></div>
-
-
 
 </div>
 </div>
@@ -258,16 +265,14 @@ var total_top_count=3;
 
 
 
+var total_top_count=1;
+
 
 var top_count = total_top_count - indeed_count;
 
 
 	
-		
-			
-				var mychannel = '5096178894'
-			
-		
+		var mychannel = '1092361533'
 	
 
 
@@ -448,14 +453,16 @@ phpAds_random = new String (Math.random()); phpAds_random = phpAds_random.substr
 
 
 
+<script type="text/javascript" src="http://www.indeed.com/ads/apiresults.js"></script>
+
 <script type="text/javascript" charset="utf-8">
 
 
 
-//go_adverts( 'GB', 2, '', '', '', '174.129.237.157');
+go_indeed( 0, 'ALL', 2, '', '', '', '207.241.237.103');
 
 
-go_adsense( 0, 'GB', 2, '', '', '', '174.129.237.157');
+go_adsense( 0, 'ALL', 2, '', '', '', '207.241.237.103');
 
 </script>
 
