@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the atmel.com privacy policy that was archived on 2013-10-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131015130243id_/http%3A//www.atmel.com/About/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the atmel.com privacy policy that was archived on 2014-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140630134124id_/http%3A//www.atmel.com/About/privacy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class="loading ready js"><head id="ctl00_ctl00_masterHead"><script type="text/javascript" async="" src="/System/Javascript/elqCfg.min.js"></script><script src="https://secure.atmel.com/forms/Secure/SignOn/SessionInfo.ashx?callback=jsonp1580458439291"></script>    <!-- [01/18/2013]Added empty title tag with visibility false.This is to remove the duplicate Title tag in all pages. Dotnet looks for title tag; if it doesn't find, it will add title tag by default.-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en" xmlns="http://www.w3.org/1999/xhtml" class="loading ready js"><head id="ctl00_ctl00_masterHead"><script type="text/javascript" async="" src="/System/Javascript/elqCfg.min.js"></script><script src="https://secure.atmel.com/forms/Secure/SignOn/SessionInfo.ashx?callback=jsonp1580458439250"></script>    <!-- [01/18/2013]Added empty title tag with visibility false.This is to remove the duplicate Title tag in all pages. Dotnet looks for title tag; if it doesn't find, it will add title tag by default.-->
     
     
     
@@ -11,8 +11,8 @@
 
 
     
-<meta http-equiv="Content-type" content="text/html; charset=utf-8"><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE8">
-    <script type="text/javascript" async="" src="https://api.demandbase.com/api/v2/ip.json?key=d63e3e6b56346b29975512f072c96cbaf06c5fa8&amp;callback=DemandbaseAnalytics.demandbaseGA.track&amp;page=https://web.archive.org/web/20131015130243id_/http%3A//www.atmel.com/About/privacy.aspx&amp;referrer="></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/System/JavaScript/jquery-1.4.1.js"></script>
+<meta http-equiv="Content-type" content="text/html; charset=utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <script type="text/javascript" async="" src="https://api.demandbase.com/api/v2/ip.json?key=d63e3e6b56346b29975512f072c96cbaf06c5fa8&amp;callback=DemandbaseAnalytics.demandbaseGA.track&amp;page=https://web.archive.org/web/20140630134124id_/http%3A//www.atmel.com/About/privacy.aspx&amp;referrer="></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/System/JavaScript/jquery-1.4.1.js"></script>
     <link rel="shortcut icon" href="/Images/favicon.ico" type="/image/vnd.microsoft.icon"><link rel="stylesheet" href="/System/Styles/style.css" type="text/css" media="screen"><link rel="stylesheet" href="/System/Styles/jquery.lightbox-0.5.css" type="text/css" media="screen"><link rel="stylesheet" href="/System/Styles/print.css" type="text/css" media="print"><link rel="stylesheet" href="/ProductFinder/ProductFinder/css/finder.css" type="text/css">
     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
 
@@ -211,7 +211,7 @@
     </script>
     <script type="text/javascript">
         function AddToFavourites(pageTitle, pageUrl, callback) {
-            var lnkName = typeof (pageTitle) != "undefined" ? pageTitle : jQuery("#txtlnkName").val();
+            var lnkName = jQuery("#txtlnkName").val();
             var lnkUrl = typeof (pageUrl) != "undefined" ? pageUrl : encodeURIComponent(document.URL);
             if (lnkUrl == "")
                 return false;
@@ -279,6 +279,42 @@
                 }
             });
         }
+
+         /*Function to log the software/document download details via all search result pages*/
+         function TrackGSASearchDownload(targetUri, assetTitle, assetType, reqRegistn, docType, pageType) {
+            if (typeof (assetType) == "undefined" || assetType == "")
+                assetType = "Software";
+            _gaq.push(['_trackEvent', pageType, assetType, assetTitle]);
+            if (typeof (targetUri) == "undefined" || targetUri == "")
+                return true;
+            if (typeof (reqRegistn) != "undefined" && reqRegistn == "Yes")
+                return true;
+            jQuery.ajax({
+                Type: "GET",
+                url: "https://secure.atmel.com/secure/DownloadHelper.ashx",
+                dataType: 'jsonp',
+                async: false,
+                data: 'target=' + targetUri,
+                timeout: 9000,
+                success: function (data) {
+                    var sResult = eval(data);
+                    if (typeof (sResult) != "undefined") {
+                        if (sResult.Status == "OK")
+                            return true;
+                        else if (sResult.Status == "ERROR")
+                            return true; //show error label (TODO:show exists error)
+                        else if (sResult.Status == "INVALID")
+                            return true; //show error label
+                    }
+                    else
+                        return true;
+                },
+                error: function (data) {
+                    return true; ;
+                }
+            });
+        }
+
         /*Function to read the cookie value for given name check if cookie holds any value then return its value else return empty.*/
         function readCookie(cname) {
             if (document.cookie.length > 0) {
@@ -314,7 +350,7 @@
             return;
         }
     </script>
-<script type="text/javascript" src="https://web.archive.org/web/20120721010231/https://secure.eloqua.com/visitor/v200/svrGP?pps=70&amp;siteid=1733930802&amp;ref=&amp;ms=386"></script></head>
+<script type="text/javascript" src="https://web.archive.org/web/20120721010231/https://secure.eloqua.com/visitor/v200/svrGP?pps=70&amp;siteid=1733930802&amp;ref=&amp;ms=266"></script></head>
 <!--[if lt IE 7 ]> <body class="ie6 page"> <![endif]-->
 <!--[if IE 7 ]>    <body class="ie7 page"> <![endif]-->
 <!--[if IE 8 ]>    <body class="ie8 page"> <![endif]-->
@@ -367,6 +403,7 @@
                 <li><a href="/forms/Secure/verifylogin.aspx?target_url=EN" onclick="TrackLink('myAtmel','My Account','Top Navigation - Login');">Log In</a></li>
                 <li><a href="/forms/Secure/user-registration.aspx?target_url=EN" onclick="TrackLink('myAtmel','My Account','Top Navigation - Register');">Create Account</a></li>
                 <li><a href="/forms/Secure/benefits.aspx">Benefits of myAtmel</a></li>
+                <li><a href="/forms/Secure/myAtmel-faqs.aspx">FAQs</a></li>
             </ul>
         </li>
         <li id="liHeaderLinkLogIn" style="display:none;">            
@@ -430,7 +467,7 @@
 			[current_refering_application:]-->
 <li>
   <a data-filter="corners" href="/products/microcontrollers/default.aspx?src=parent" class="products-en" style="position: relative;">Products<i class="corner top-left"></i><i class="corner top-right"></i></a>
-  <div class="content" id="products-menu">
+  <div class="content" id="products-menu-en">
     <div class="group">
       <div class="groupheader">
         <a href="/products/microcontrollers/default.aspx">Microcontrollers</a>
@@ -440,10 +477,7 @@
           <a href="/products/microcontrollers/avr/default.aspx">AVR 8- and 32-bit MCUs</a>
         </li>
         <li>
-          <a href="/products/microcontrollers/arm/default.aspx">ARM-based Solutions</a>
-        </li>
-        <li>
-          <a href="/products/microcontrollers/wireless/default.aspx">MCU Wireless</a>
+          <a href="/products/microcontrollers/arm/default.aspx">SMART ARM-based MCUs</a>
         </li>
         <li>
           <a href="/products/microcontrollers/8051architecture/default.aspx">8051 Architecture</a>
@@ -504,20 +538,20 @@
     </div>
     <div class="groupleft">
       <div class="groupheader">
-        <a href="/products/wireless/default.aspx">Wireless / RF</a>
+        <a href="/products/wireless/default.aspx">Wireless Connectivity</a>
       </div>
       <ul>
         <li>
-          <a href="/products/wireless/zigbee/default.aspx">MCU Wireless</a>
+          <a href="/products/wireless/802154/default.aspx">802.15.4</a>
         </li>
         <li>
-          <a href="/products/wireless/rfid/default.aspx">RF Identification</a>
+          <a href="/products/wireless/wifi/default.aspx">Wi-Fi </a>
         </li>
         <li>
           <a href="/products/wireless/smartrf/default.aspx">Smart RF</a>
         </li>
         <li>
-          <a href="/products/wireless/wifi/default.aspx">Wi-Fi</a>
+          <a href="/products/wireless/rfid/default.aspx">RF Identification</a>
         </li>
         <li>
           <a href="/products/wireless/ir-control/default.aspx">IR Control</a>
@@ -554,7 +588,7 @@
     </div>
     <div class="groupleft">
       <div class="groupheader">
-        <a href="/products/security-ics/default.aspx">Security ICs</a>
+        <a href="/products/security-ics/default.aspx">Security ICs </a>
       </div>
       <ul>
         <li>
@@ -593,7 +627,7 @@
           <a href="/products/other/fpga_conversion_ulc/default.aspx">FPGA Conversion ULC</a>
         </li>
         <li>
-          <a href="/products/other/spld-cpld/default.aspx">SPLD/CPLD</a>
+          <a href="/products/other/spld-cpld/default.aspx">Programmable Logic – SPLD/CPLD</a>
         </li>
         <li>
           <a href="/products/other/field_programmable_gate_array/default.aspx">Field Programmable Gate Array</a>
@@ -603,7 +637,7 @@
         </li>
       </ul>
     </div>
-    <div class="groupleft">
+    <div class="groupleft-4">
     </div>
     <div style="margin-top:400px;margin-right:10px;margin-left:400px">
       <a href="/products/selector_overview.aspx">» Parametric Product Selector</a>
@@ -612,7 +646,7 @@
 </li>
 <li>
   <a data-filter="corners" href="/applications/automotive/default.aspx?src=parent" class="applications-en" style="position: relative;">Applications<i class="corner top-left"></i><i class="corner top-right"></i></a>
-  <div class="content" id="applications-menu">
+  <div class="content" id="applications-menu-en">
     <div class="group">
       <div class="groupheader">
         <a href="/applications/automotive/default.aspx">Automotive</a>
@@ -634,7 +668,10 @@
           <a href="/applications/automotive/microcontrollers/default.aspx">Microcontrollers</a>
         </li>
         <li>
-          <a href="/applications/automotive/motor_control_systems/default.aspx">Motor Control Systems</a>
+          <a href="/applications/automotive/body-and-convenience/default.aspx">Body and Convenience</a>
+        </li>
+        <li>
+          <a href="/applications/automotive/under-the-hood/default.aspx">Under the Hood</a>
         </li>
       </ul>
       <div class="groupheader">
@@ -733,6 +770,17 @@
     </div>
     <div class="groupleft">
       <div class="groupheader">
+        <a href="/applications/iot/default.aspx">Internet of Things</a>
+      </div>
+      <ul>
+        <li>
+          <a href="/applications/iot/gps_tracking/default.aspx">GPS Tracking</a>
+        </li>
+        <li>
+          <a href="/applications/iot/wearables/default.aspx">Wearables</a>
+        </li>
+      </ul>
+      <div class="groupheader">
         <a href="/applications/smart_energy/default.aspx">Smart Energy</a>
       </div>
       <ul>
@@ -769,6 +817,8 @@
           <a href="/applications/mobile_electronics/portable_audio_players/default.aspx">Portable Audio Players</a>
         </li>
       </ul>
+    </div>
+    <div class="groupleft-4">
       <div class="groupheader">
         <a href="/applications/pc_peripherals/default.aspx">PC Peripherals</a>
       </div>
@@ -787,13 +837,11 @@
         </li>
       </ul>
     </div>
-    <div class="groupleft">
-    </div>
   </div>
 </li>
 <li>
   <a data-filter="corners" href="/technologies/hubpage.aspx" class="technologies-en" style="position: relative;">Technologies<i class="corner top-left"></i><i class="corner top-right"></i></a>
-  <div class="content" id="technologies-menu">
+  <div class="content" id="technologies-menu-en">
     <div class="group">
       <div class="groupheader">
       </div>
@@ -826,29 +874,29 @@
 </li>
 <li>
   <a data-filter="corners" href="/design-support/" class="designsupport-en" style="position: relative;">Design Support<i class="corner top-left"></i><i class="corner top-right"></i></a>
-  <div class="content" id="designsupport-menu">
+  <div class="content" id="designsupport-menu-en">
     <div class="group">
       <div class="groupheader">
         <a href="/design-support/software-tools/default.aspx">Boards and Kits</a>
       </div>
       <ul>
         <li>
-          <a href="/search.aspx?filter=0&amp;btnG=Search&amp;site=en_collection&amp;client=support_frontend&amp;proxystylesheet=support_frontend&amp;output=xml_no_dtd&amp;getfields=*&amp;oe=UTF-8&amp;ie=UTF-8&amp;ud=1&amp;exclude_apps=1&amp;num=1000&amp;access=p&amp;sort=date:D:L:d1&amp;entqr=3&amp;entqrm=0&amp;lr=lang_en&amp;q=+inmeta:tool_type~Evaluation+Kit&amp;dnavs=inmeta:tool_type~Evaluation+Kit">Evaluation Kits</a>
+          <a href="/search.aspx?filter=p&amp;btnG=Search&amp;site=en_collection&amp;client=support_frontend&amp;proxystylesheet=support_frontend&amp;output=xml_no_dtd&amp;getfields=*&amp;oe=UTF-8&amp;ie=UTF-8&amp;ud=1&amp;exclude_apps=1&amp;num=1000&amp;access=p&amp;sort=date:D:L:d1&amp;entqr=3&amp;entqrm=0&amp;lr=lang_en&amp;q=+inmeta:tool_type~Evaluation+Kit&amp;dnavs=inmeta:tool_type~Evaluation+Kit">Evaluation Kits</a>
         </li>
         <li>
-          <a href="/search.aspx?filter=0&amp;btnG=Search&amp;site=en_collection&amp;client=support_frontend&amp;proxystylesheet=support_frontend&amp;output=xml_no_dtd&amp;getfields=*&amp;oe=UTF-8&amp;ie=UTF-8&amp;ud=1&amp;exclude_apps=1&amp;num=1000&amp;access=p&amp;sort=date:D:L:d1&amp;entqr=3&amp;entqrm=0&amp;lr=lang_en&amp;q=+inmeta:tool_type~Starter+Kit&amp;dnavs=inmeta:tool_type~Starter+Kit">Starter Kits</a>
+          <a href="/search.aspx?filter=p&amp;btnG=Search&amp;site=en_collection&amp;client=support_frontend&amp;proxystylesheet=support_frontend&amp;output=xml_no_dtd&amp;getfields=*&amp;oe=UTF-8&amp;ie=UTF-8&amp;ud=1&amp;exclude_apps=1&amp;num=1000&amp;access=p&amp;sort=date:D:L:d1&amp;entqr=3&amp;entqrm=0&amp;lr=lang_en&amp;q=+inmeta:tool_type~Starter+Kit&amp;dnavs=inmeta:tool_type~Starter+Kit">Starter Kits</a>
         </li>
         <li>
-          <a href="/search.aspx?filter=0&amp;btnG=Search&amp;site=en_collection&amp;client=support_frontend&amp;proxystylesheet=support_frontend&amp;output=xml_no_dtd&amp;getfields=*&amp;oe=UTF-8&amp;ie=UTF-8&amp;ud=1&amp;exclude_apps=1&amp;num=1000&amp;access=p&amp;sort=date:D:L:d1&amp;entqr=3&amp;entqrm=0&amp;lr=lang_en&amp;q=+inmeta:tool_type~Development+Kit&amp;dnavs=inmeta:tool_type~Development+Kit">Development Kits</a>
+          <a href="/search.aspx?filter=p&amp;btnG=Search&amp;site=en_collection&amp;client=support_frontend&amp;proxystylesheet=support_frontend&amp;output=xml_no_dtd&amp;getfields=*&amp;oe=UTF-8&amp;ie=UTF-8&amp;ud=1&amp;exclude_apps=1&amp;num=1000&amp;access=p&amp;sort=date:D:L:d1&amp;entqr=3&amp;entqrm=0&amp;lr=lang_en&amp;q=+inmeta:tool_type~Development+Kit&amp;dnavs=inmeta:tool_type~Development+Kit">Development Kits</a>
         </li>
         <li>
-          <a href="/search.aspx?filter=0&amp;btnG=Search&amp;site=en_collection&amp;client=support_frontend&amp;proxystylesheet=support_frontend&amp;output=xml_no_dtd&amp;getfields=*&amp;oe=UTF-8&amp;ie=UTF-8&amp;ud=1&amp;exclude_apps=1&amp;&amp;num=1000&amp;access=p&amp;sort=date:D:L:d1&amp;entqr=3&amp;entqrm=0&amp;lr=lang_en&amp;q=+inmeta:tool_type~Reference+Design&amp;dnavs=inmeta:tool_type~Reference+Design">Reference Designs</a>
+          <a href="/search.aspx?filter=p&amp;btnG=Search&amp;site=en_collection&amp;client=support_frontend&amp;proxystylesheet=support_frontend&amp;output=xml_no_dtd&amp;getfields=*&amp;oe=UTF-8&amp;ie=UTF-8&amp;ud=1&amp;exclude_apps=1&amp;&amp;num=1000&amp;access=p&amp;sort=date:D:L:d1&amp;entqr=3&amp;entqrm=0&amp;lr=lang_en&amp;q=+inmeta:tool_type~Reference+Design&amp;dnavs=inmeta:tool_type~Reference+Design">Reference Designs</a>
         </li>
         <li>
-          <a href="/search.aspx?filter=0&amp;btnG=Search&amp;site=en_collection&amp;client=support_frontend&amp;proxystylesheet=support_frontend&amp;output=xml_no_dtd&amp;getfields=*&amp;oe=UTF-8&amp;ie=UTF-8&amp;ud=1&amp;exclude_apps=1&amp;num=1000&amp;access=p&amp;sort=date:D:L:d1&amp;entqr=3&amp;entqrm=0&amp;lr=lang_en&amp;q=+inmeta:tool_type~Add+ons&amp;dnavs=inmeta:tool_type~Add+ons">Add-ons and Accessories</a>
+          <a href="/search.aspx?filter=p&amp;btnG=Search&amp;site=en_collection&amp;client=support_frontend&amp;proxystylesheet=support_frontend&amp;output=xml_no_dtd&amp;getfields=*&amp;oe=UTF-8&amp;ie=UTF-8&amp;ud=1&amp;exclude_apps=1&amp;num=1000&amp;access=p&amp;sort=date:D:L:d1&amp;entqr=3&amp;entqrm=0&amp;lr=lang_en&amp;q=+inmeta:tool_type~Add+ons&amp;dnavs=inmeta:tool_type~Add+ons">Add-ons and Accessories</a>
         </li>
         <li>
-          <a href="/search.aspx?filter=0&amp;btnG=Search&amp;site=en_collection&amp;client=support_frontend&amp;proxystylesheet=support_frontend&amp;output=xml_no_dtd&amp;getfields=*&amp;oe=UTF-8&amp;ie=UTF-8&amp;ud=1&amp;exclude_apps=1&amp;num=1000&amp;access=p&amp;sort=date:D:L:d1&amp;entqr=3&amp;entqrm=0&amp;lr=lang_en&amp;q=+inmeta:tool_type~ZigBit+Wireless+Modules&amp;dnavs=inmeta:tool_type~ZigBit+Wireless+Modules">Zigbit Wireless Modules</a>
+          <a href="/search.aspx?filter=p&amp;btnG=Search&amp;site=en_collection&amp;client=support_frontend&amp;proxystylesheet=support_frontend&amp;output=xml_no_dtd&amp;getfields=*&amp;oe=UTF-8&amp;ie=UTF-8&amp;ud=1&amp;exclude_apps=1&amp;num=1000&amp;access=p&amp;sort=date:D:L:d1&amp;entqr=3&amp;entqrm=0&amp;lr=lang_en&amp;q=+inmeta:tool_type~ZigBit+Wireless+Modules&amp;dnavs=inmeta:tool_type~ZigBit+Wireless+Modules">Zigbit Wireless Modules</a>
         </li>
         <li>
           <a href="/design-support/software-tools/default.aspx">More</a>
@@ -992,29 +1040,29 @@
       </div>
       <ul>
         <li>
-          <a href="/about/contact/default.aspx?contactType=Third%20Party%20Support%20-%20AVR#">Third-Party Support - AVR</a>
+          <a href="/about/contact/sales/default.aspx?contactType=Third%20Party%20Support%20-%20AVR#">Third-Party Support - AVR</a>
         </li>
         <li>
-          <a href="/about/contact/default.aspx?contactType=Third%20Party%20Support%20-%20ARM#">Third-Party Support - ARM</a>
+          <a href="/about/contact/sales/default.aspx?contactType=Third%20Party%20Support%20-%20ARM#">Third-Party Support - ARM</a>
         </li>
         <li>
           <a href="http://gallery.atmel.com">Atmel Gallery (app store)</a>
         </li>
         <li>
-          <a href="/about/contact/default.aspx?contactType=Partners%20-%20Touchscreens#">Touch Partners</a>
+          <a href="/about/contact/sales/default.aspx?contactType=Partners%20-%20Touchscreens#">Touch Partners</a>
         </li>
         <li>
-          <a href="/about/contact/default.aspx?contactType=Sales%20Representative#">Sales Reps</a>
+          <a href="/about/contact/distributors/default.aspx?contactType=Sales%20Representative#">Sales Reps</a>
         </li>
         <li>
-          <a href="/about/contact/default.aspx?contactType=Distributor#">Distributors</a>
+          <a href="/about/contact/distributors/default.aspx?contactType=Distributor#">Distributors</a>
         </li>
         <li>
           <a href="/design-support/third-party/default.aspx">More</a>
         </li>
       </ul>
     </div>
-    <div class="groupleft">
+    <div class="groupleft-4">
     </div>
     <div style="margin-top:450px;margin-right:10px;margin-left:400px">
       <a href="/products/selector_overview.aspx">» Parametric Product Selector</a>
@@ -1023,7 +1071,7 @@
 </li>
 <li>
   <a data-filter="corners" href="/about/corporate/default.aspx" class="active-en" style="position: relative;">About Atmel<i class="corner top-left"></i><i class="corner top-right"></i></a>
-  <div class="content" id="about_atmel-menu">
+  <div class="content" id="about_atmel-menu-en">
     <div class="group">
       <div class="groupheader">
         <a href="/about/corporate/default.aspx">Corporate</a>
@@ -1040,6 +1088,9 @@
         </li>
         <li>
           <a href="/design-support/training/events/default.aspx#">Hands-on, Webinars, Tradeshows</a>
+        </li>
+        <li>
+          <a href="/atmel-makes/">Maker Community</a>
         </li>
       </ul>
       <div class="groupheader">
@@ -1066,14 +1117,14 @@
         </li>
       </ul>
       <div class="groupheader">
-        <a href="/about/contact/default.aspx?contactType=Online%20Directory">Contact Atmel</a>
+        <a href="/about/contact/distributors/default.aspx?contactType=Online%20Directory">Contact Atmel</a>
       </div>
       <ul>
         <li>
-          <a href="/about/contact/default.aspx?contactType=Atmel%20Sales%20Office">Sales Offices</a>
+          <a href="/about/contact/sales/default.aspx">Partners</a>
         </li>
         <li>
-          <a href="/about/contact/default.aspx?contactType=Distributor">Distributors and Sales Reps</a>
+          <a href="/about/contact/distributors/default.aspx?contactType=Distributor">Distributors and Sales Reps</a>
         </li>
       </ul>
     </div>
@@ -1169,13 +1220,13 @@
         </li>
       </ul>
     </div>
-    <div class="groupleft">
+    <div class="groupleft-4">
     </div>
   </div>
 </li>
 <li>
   <a data-filter="corners" href="/buy/default.aspx" class="buy-en" style="position: relative;">Buy<i class="corner top-left"></i><i class="corner top-right"></i></a>
-  <div class="content" id="buy-menu">
+  <div class="content" id="buy-menu-en">
     <div class="group">
       <div class="groupheader">
       </div>
@@ -1190,13 +1241,13 @@
           <a href="/buy/inventory/default.aspx">Check Inventory</a>
         </li>
         <li>
-          <a href="/buy/contact_us.aspx?contactType=Atmel%20Sales%20Office">Sales Offices</a>
+          <a href="/about/contact/distributors/default.aspx?contactType=Atmel%20Sales%20Office">Sales Offices</a>
         </li>
         <li>
-          <a href="/buy/contact_us.aspx?contactType=Sales%20Representative">Sales Reps</a>
+          <a href="/about/contact/distributors/default.aspx?contactType=Sales%20Representative">Sales Reps</a>
         </li>
         <li>
-          <a href="/buy/contact_us.aspx?contactType=Distributor">Distributors</a>
+          <a href="/about/contact/distributors/default.aspx?contactType=Distributor">Distributors</a>
         </li>
       </ul>
     </div>
@@ -1209,8 +1260,7 @@
                 </ul>
             </div><!-- primarynav -->
             <!--googleon: all-->
-        </div><!-- primary -->
-        
+        </div><!-- primary -->        
         
     <div id="content">
         
@@ -1402,23 +1452,25 @@ San Jose, California 95110</p><p>Privacy Policy, ©2011-2012 Atmel Corporation. 
                     
 <div id="footer-social">
     
-    <a href="/facebook" target="_blank"><img src="/Images/footer_socialicons_Facebook_24x24.png" alt="Facebook"></a>&nbsp;
+    <a href="https://www.facebook.com/AtmelCorporation" target="_blank"><img src="/Images/footer_socialicons_Facebook_24x24.png" alt="Facebook"></a>&nbsp;
     
-    <a href="https://plus.google.com/106109247591403112418" target="_blank"><img src="/Images/footer_socialicons_Google%2B_24x24.png" alt="Google+"></a>&nbsp;
+    <a href="https://plus.google.com/106109247591403112418" target="_blank"><img src="/Images/footer_socialicons_GooglePlus_24x24.png" alt="Google+"></a>&nbsp;
     
-    <a href="/twitter" target="_blank"><img src="/Images/footer_socialicons_Twitter_24x24.png" alt="Twitter"></a>&nbsp;
+    <a href="https://twitter.com/Atmel" target="_blank"><img src="/Images/footer_socialicons_Twitter_24x24.png" alt="Twitter"></a>&nbsp;
     
-    <a href="/linkedin" target="_blank"><img src="/Images/footer_socialicons_LinkedIn_24x24.png" alt="LinkedIn"></a>&nbsp;
+    <a href="http://www.linkedin.com/company/atmel-corporation" target="_blank"><img src="/Images/footer_socialicons_LinkedIn_24x24.png" alt="LinkedIn"></a>&nbsp;
     
-    <a href="/youtube" target="_blank"><img src="/Images/footer_socialicons_YouTube_24x24.png" alt="YouTube"></a>&nbsp;
+    <a href="http://www.youtube.com/user/AtmelCorporation" target="_blank"><img src="/Images/footer_socialicons_YouTube_24x24.png" alt="YouTube"></a>&nbsp;
     
-    <a href="/rss/press_feed.xml?source=footer" target="_blank"><img src="/Images/rss.png" alt="RSS"></a>&nbsp;
+    <a href="/rss/releases.aspx" target="_blank"><img src="/Images/rss.png" alt="RSS"></a>&nbsp;
+    
+    <a href="http://atmelcorporation.wordpress.com/" target="_blank"><img src="/Images/footer_socialicons_Blog_Wordpress_24x24.png" alt="WordPress"></a>&nbsp;
     
 </div>
 <div id="footer-meta">
     <ul>
         
-        <li><a href="/About/contact/default.aspx?contactType=Online%20Directory">Contact</a></li>
+        <li><a href="/About/contact/distributors/default.aspx?contactType=Online%20Directory">Contact</a></li>
         
         <li><a href="https://performancemanager4.successfactors.com/career?company=Atmel" target="_blank">Jobs</a></li>
         
@@ -1430,7 +1482,7 @@ San Jose, California 95110</p><p>Privacy Policy, ©2011-2012 Atmel Corporation. 
         
         <li><a href="/About/terms.aspx">Sales Terms</a></li>
         
-        <li>© 2013 Atmel Corporation</li>
+        <li>© 2014 Atmel Corporation</li>
     </ul>
 </div>
                 
@@ -1454,7 +1506,7 @@ San Jose, California 95110</p><p>Privacy Policy, ©2011-2012 Atmel Corporation. 
       <a href="/products/automotive/default.aspx">Automotive</a>
     </li>
     <li>
-      <a href="/products/wireless/default.aspx">Wireless / RF</a>
+      <a href="/products/wireless/default.aspx">Wireless Connectivity</a>
     </li>
     <li>
       <a href="/products/smart-energy/default.aspx">Smart Energy</a>
@@ -1463,7 +1515,7 @@ San Jose, California 95110</p><p>Privacy Policy, ©2011-2012 Atmel Corporation. 
       <a href="/products/memories/default.aspx">Memory</a>
     </li>
     <li>
-      <a href="/products/security-ics/default.aspx">Security ICs</a>
+      <a href="/products/security-ics/default.aspx">Security ICs </a>
     </li>
     <li>
       <a href="/products/other/default.aspx">More Products</a>
@@ -1492,6 +1544,9 @@ San Jose, California 95110</p><p>Privacy Policy, ©2011-2012 Atmel Corporation. 
     </li>
     <li>
       <a href="/applications/lighting/default.aspx">Lighting</a>
+    </li>
+    <li>
+      <a href="/applications/iot/default.aspx">Internet of Things</a>
     </li>
     <li>
       <a href="/applications/smart_energy/default.aspx">Smart Energy</a>
@@ -1566,7 +1621,7 @@ San Jose, California 95110</p><p>Privacy Policy, ©2011-2012 Atmel Corporation. 
       <a href="/about/news/default.aspx">Press Room</a>
     </li>
     <li>
-      <a href="/about/contact/default.aspx?contactType=Online%20Directory">Contact Atmel</a>
+      <a href="/about/contact/distributors/default.aspx?contactType=Online%20Directory">Contact Atmel</a>
     </li>
     <li>
       <a href="http://ir.atmel.com/index.cfm?source=global_nav">Investors</a>
@@ -1590,7 +1645,7 @@ San Jose, California 95110</p><p>Privacy Policy, ©2011-2012 Atmel Corporation. 
 </div>
 <div id="footer-contact">
   <p>
-    <a href="/about/contact/default.aspx?contactType=Online Directory">Contact Atmel</a>
+    <a href="/about/contact/distributors/default.aspx?contactType=Online Directory">Contact Atmel</a>
   </p>
   <ul>
     <li>
@@ -1649,6 +1704,7 @@ San Jose, California 95110</p><p>Privacy Policy, ©2011-2012 Atmel Corporation. 
     
     
 
+
     <!-- Google Code for Remarketing tag --> 
     <!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide:      google.com/ads/remarketingsetup --> 
     <script type="text/javascript"> 
@@ -1683,6 +1739,7 @@ San Jose, California 95110</p><p>Privacy Policy, ©2011-2012 Atmel Corporation. 
                   loadChartbeat : function() { oldonload(); loadChartbeat(); };
             })();
      </script>
-
+       <img src="https://a.company-target.com/pixel?id=1391562825&amp;type=img" alt="" style="display:none">
+       <img src="https://a.company-target.com/pixel?id=1391562963&amp;type=img" alt="" style="display:none">
 
 <div id="modal-container" style="display: none;"></div><img src="/Images/white.png" id="modal-background" style="display: none;"><div id="modal-close" style="display: none;"></div><script language="javascript" type="text/javascript" src="//static.chartbeat.com/js/chartbeat.js"></script></body></html>
