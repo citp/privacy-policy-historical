@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rome2rio.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204013830id_/http%3A//www.rome2rio.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rome2rio.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630064656id_/http%3A//www.rome2rio.com/legal/privacy) for the most accurate reproduction.*
 
-# rome2rio: Privacy Policy
+# 
 
 **Privacy Policy**
 
@@ -50,7 +50,7 @@ Any personal information or content that you voluntarily disclose for posting to
 
 From time to time, we may run contests, special offers, or other events or activities (“Events”) on the Service together with a third party partner. If you provide information to such third parties, you give them permission to use it for the purpose of that Event and any other use that you approve. We cannot control third parties’ use of your information. If you do not want your information to be collected by or shared with a third party, you can choose not to participate in these Events.
 
-Except as otherwise described in this Privacy Policy, Rome2rio will not disclose personal information to any third party unless required to do so by law or subpoena or if we believe that such action is necessary to (a) conform to the law, comply with legal process served on us or our affiliates, or investigate, prevent, or take action regarding suspected or actual illegal activities; (b) to enforce our [Terms of Use](http://www.rome2rio.com/Terms "Terms"), take precautions against liability, to investigate and defend ourselves against any third-party claims or allegations, to assist government enforcement agencies, or to protect the security or integrity of our site; and (c) to exercise or protect the rights, property, or personal safety of Rome2rio, our Users or others.
+Except as otherwise described in this Privacy Policy, Rome2rio will not disclose personal information to any third party unless required to do so by law or subpoena or if we believe that such action is necessary to (a) conform to the law, comply with legal process served on us or our affiliates, or investigate, prevent, or take action regarding suspected or actual illegal activities; (b) to enforce our [Terms of Use](http://adioso.com/terms "Terms"), take precautions against liability, to investigate and defend ourselves against any third-party claims or allegations, to assist government enforcement agencies, or to protect the security or integrity of our site; and (c) to exercise or protect the rights, property, or personal safety of Rome2rio, our Users or others.
 
 Non-Personally Identifiable Information: We may share non-personally identifiable information (such as anonymous usage data, referring/exit pages and URLs, platform types, number of clicks, etc.) with interested third parties to help them understand the usage patterns for certain Rome2rio services.
 
@@ -89,8 +89,8 @@ If we change our privacy policies and procedures, we will post those changes on 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this website, please contact us at privacy@rome2rio.com, or send mail to:
 
 Rome2rio Pty. Ltd.  
-5/90 Kavanagh St.  
-Southbank VIC 3006  
+35 Hambleton St.  
+Albert Park VIC 3206  
 Australia
 
 Updates:
