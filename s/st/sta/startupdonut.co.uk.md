@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the startupdonut.co.uk privacy policy that was archived on 2013-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130809001110id_/http%3A//www.startupdonut.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startupdonut.co.uk privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630084427id_/http%3A//www.startupdonut.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy, cookies | Start Up Donut
 
@@ -10,17 +10,15 @@ This website is operated by Atom Content Marketing Ltd. We take your privacy ser
 
 We use cookies on the Start Up Donut, to collect information about your use of the website. When you visit the website you can allow or disallow it to store cookies on your computer's hard drive, by customising your cookie preferences using your web browser's preferences/options/tools.
 
-We also receive your username, email address and postcode if you choose to register on the website.
+We also receive your email address if you choose to register for our newsletter.
 
 ## Why we collect it
 
 We collect information about you so that we can personalise your use of the website. There are many different versions of the Start Up Donut and we are able to show you a version that is most appropriate for you; for example, a version that includes the news and information of an organisation that you are a member of.
 
-If you have registered on the website, cookies also allow you to log in automatically in the future. The cookie will be stored on your computer's hard drive and will remember your username and password.
-
 We also collect aggregated information about every single link and page on the Start Up Donut website, so we can measure the website's performance. This allows us to create more of the pages that users like and to remove unused content. It also allows Atom to attract sponsorship for each section of the Start Up Donut website.
 
-If you opt-in to subscribe to the newsletters (by ticking this preference when registering) you will, at a later date, be able to request additional content on particular topics. (This preference functionality will increase over time, as Atom provides a wider and deeper set of content to choose from.) You may update your contact preferences, or opt out of receiving the newsletters, at any time.
+If you opt-in to subscribe to the newsletters, you will, at a later date, be able to request additional content on particular topics. (This preference functionality will increase over time, as Atom provides a wider and deeper set of content to choose from.) You may update your contact preferences, or opt out of receiving the newsletters, at any time.
 
 ## Who we disclose it to
 
