@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the military1st.co.uk privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208130936id_/http%3A//www.military1st.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the military1st.co.uk privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630040855id_/http%3A//www.military1st.co.uk/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
 In this privacy policy references to "we", "us" and "our" are to MMG Trading Ltd.  
-References to "our Website" or "the Website" are www.military1st.co.uk?or any of our other associated websites.
+References to "our Website" or "the Website" are www.military1st.co.uk or any of our other associated websites.
 
-Important Note:?Your privacy is very important to us. We never sell your details.
+Important Note: Your privacy is very important to us. We never sell your details.
 
 What information we collect and how we use your information.
 
@@ -31,14 +31,14 @@ Any personal information we collect from this website will be used in accordance
 
 ### Your Rights
 
-You have the right to request a copy of any information that we currently hold about you. In order to receive such information please send your contact details including address and payment of ?10 to cover administration expenses to the following address:
+You have the right to request a copy of any information that we currently hold about you. In order to receive such information please send your contact details including address and payment of £10 to cover administration expenses to the following address:
 
 Privacy  
 MMG Trading Ltd  
-Unit 9, Norbury Court  
-7 Welcomb Street  
+Unit 1, Fourth Avenue  
+Trafford Park  
 Manchester  
-M11 2NB  
+M17 1DB  
 United Kingdom
 
 ### Other Websites
