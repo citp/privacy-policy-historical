@@ -1,16 +1,24 @@
-<!--The following is the downloaded HTML source of the tripadvisor.com.sg privacy policy that was archived on 2013-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131231045737id_/http%3A//www.tripadvisor.com.sg/pages/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tripadvisor.com.sg privacy policy that was archived on 2014-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140630225818id_/http%3A//www.tripadvisor.com.sg/pages/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
 <link rel="icon" href="http://c1.tacdn.com/favicon.ico" type="image/x-icon">
 <script type="text/javascript">
-window.onerror = function(msg, url, line) {
+window.onerror = function onErrorFunc(msg, url, line, colno, error) {
+if(!ta.has('ta.js_error_array.processed')) {
 if(typeof js_error_array == 'undefined') {
 js_error_array = [];
 }
-js_error_array[js_error_array.length] = {'msg': msg, 'script_url': url, 'line': line};
+var err = error;
+js_error_array[js_error_array.length] = {'msg': msg, 'error_script': url, 'line': line, 'column': colno, 'error': err};
 return true;
+}
+else {
+if(window.ta && ta.util && ta.util.error && ta.util.error.record) {
+ta.util.error.record(error, 'error post load:: ' + msg, null, {'error_script': url, 'line': line, 'column': colno});
+}
+}
 };
 </script>
 <script type="text/javascript">
@@ -36,21 +44,29 @@ return true;
 <link rel="alternate" hreflang="es-MX" href="http://www.tripadvisor.com.mx/pages/privacy.html">
 <link rel="alternate" hreflang="en-IE" href="http://www.tripadvisor.ie/pages/privacy.html">
 <link rel="alternate" hreflang="ar" href="http://www.tripadvisor.com.eg/pages/privacy.html">
+<link rel="alternate" hreflang="de-AT" href="http://www.tripadvisor.at/pages/privacy.html">
 <link rel="alternate" hreflang="el" href="http://www.tripadvisor.com.gr/pages/privacy.html">
 <link rel="alternate" hreflang="en-AU" href="http://www.tripadvisor.com.au/pages/privacy.html">
 <link rel="alternate" hreflang="en-MY" href="http://www.tripadvisor.com.my/pages/privacy.html">
+<link rel="alternate" hreflang="en-NZ" href="http://www.tripadvisor.co.nz/pages/privacy.html">
+<link rel="alternate" hreflang="en-PH" href="http://www.tripadvisor.com.ph/pages/privacy.html">
 <link rel="alternate" hreflang="en-SG" href="http://www.tripadvisor.com.sg/pages/privacy.html">
+<link rel="alternate" hreflang="en-ZA" href="http://www.tripadvisor.co.za/pages/privacy.html">
 <link rel="alternate" hreflang="es-AR" href="http://www.tripadvisor.com.ar/pages/privacy.html">
 <link rel="alternate" hreflang="es-CL" href="http://www.tripadvisor.cl/pages/privacy.html">
 <link rel="alternate" hreflang="es-CO" href="http://www.tripadvisor.co/pages/privacy.html">
 <link rel="alternate" hreflang="es-PE" href="http://www.tripadvisor.com.pe/pages/privacy.html">
 <link rel="alternate" hreflang="es-VE" href="http://www.tripadvisor.com.ve/pages/privacy.html">
-<link rel="alternate" hreflang="in" href="http://www.tripadvisor.co.id/pages/privacy.html">
+<link rel="alternate" hreflang="fi" href="http://www.tripadvisor.fi/pages/privacy.html">
+<link rel="alternate" hreflang="hu" href="http://www.tripadvisor.co.hu/pages/privacy.html">
+<link rel="alternate" hreflang="id" href="http://www.tripadvisor.co.id/pages/privacy.html">
+<link rel="alternate" hreflang="he" href="http://www.tripadvisor.co.il/pages/privacy.html">
 <link rel="alternate" hreflang="ko" href="http://www.tripadvisor.co.kr/pages/privacy.html">
 <link rel="alternate" hreflang="no" href="http://no.tripadvisor.com/pages/privacy.html">
 <link rel="alternate" hreflang="pl" href="http://pl.tripadvisor.com/pages/privacy.html">
 <link rel="alternate" hreflang="ru" href="http://www.tripadvisor.ru/pages/privacy.html">
 <link rel="alternate" hreflang="th" href="http://th.tripadvisor.com/pages/privacy.html">
+<link rel="alternate" hreflang="vi" href="http://www.tripadvisor.com.vn/pages/privacy.html">
 <link rel="alternate" hreflang="zh-Hant" href="http://www.tripadvisor.com.tw/pages/privacy.html">
 <script type="text/javascript">
 (function () { /* ensure that console.log is a valid function */
@@ -70,6 +86,7 @@ var jsGlobalMonths =     new Array("January","February","March","April","May","J
 var jsGlobalMonthsAbbrev =     new Array("Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec");
 var jsGlobalDaysAbbrev =     new Array("Mon","Tue","Wed","Thu","Fri","Sat","Sun");
 var jsGlobalDaysShort =     new Array("M","T","W","T","F","S","S");
+var jsGlobalDaysFull =     new Array("Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday");
 var sInvalidDates = "The dates you entered are invalid. Please correct your dates and search again.";
 var sSelectDeparture = "Please select a departure airport.";
 var DATE_FORMAT_MMM_YYYY = "MMM YYYY";
@@ -78,7 +95,7 @@ var DATE_PICKER_META_FORMAT = "EEE, MMM d";
 var jsGlobalDayOffset = 2 - 1;
 var DATE_FORMAT = { pattern: /(\d{1,2})\/(\d{1,2})\/(\d{2,4})/, month: 2, date: 1, year: 3 };
 var formatDate = function(d, m, y) {return [d,++m,y].join("/");}
-var cal_month_header = function(month, year) {return cal_months[month]+"&nbsp;"+year;}
+var cal_month_header = function(month, year) {return cal_months[month]+"&nbsp;"+year;};
 </script>
 <script type="text/javascript">
 var currencySymbol = new Array();
@@ -153,7 +170,7 @@ currencySymbol["HRK"] = new Array("HRK", false);
 currencySymbol["HTG"] = new Array("HTG", false);
 currencySymbol["HUF"] = new Array("HUF", false);
 currencySymbol["IDR"] = new Array("Rp.", false);
-currencySymbol["ILS"] = new Array("ILS", false);
+currencySymbol["ILS"] = new Array("₪", false);
 currencySymbol["IQD"] = new Array("IQD", false);
 currencySymbol["IRR"] = new Array("IRR", false);
 currencySymbol["ISK"] = new Array("ISK", false);
@@ -305,31 +322,36 @@ overlayLightbox = true;
 }
 var isTakeOver = false;
 var overlayOptions = "";
-var overlayBackupLoc = "34438";
+var overlayBackupLoc = "";
 var gmapDomain = "maps.google.com";
-var mapChannel = "ta.PRODUCTION";
+var mapChannel = "ta.desktop";
 var bingMapsLang = "en".toLowerCase();
 var bingMapsCountry = "SG".toLowerCase();
 var bingMapsBaseUrl = "http://www.bing.com/maps/default.aspx?cc=sg&";
 var googleMapsBaseUrl = "http://maps.google.com.sg/?";
 var yandexMapsBaseUrl = "http://maps.yandex.com";
-var serverPool = "A";
+var serverPool = "C";
 var reg_overhaul = true;
 var posLocale = "en_SG";
-var cssPhotoViewerAsset = "http://c1.tacdn.com/css2/photos_with_inline_review-v11769061652a.css";
-var jsPhotoViewerAsset = 'http://c1.tacdn.com/js3/src/ta/photos/Viewer-v12914176025a.js';
+var cssPhotoViewerAsset = "http://c1.tacdn.com/css2/photos_with_inline_review-v13216464372a.css";
+var cssAlbumViewerAsset = "http://c1.tacdn.com/css2/photo_albums-v151846328a.css";
+var jsPhotoViewerAsset = 'http://c1.tacdn.com/js3/src/ta/photos/Viewer-v12431145327a.js';
+var jsAlbumViewerAsset = 'http://c1.tacdn.com/js3/src/ta/photos/albumViewer-v12997299121a.js';
+var jsScrollingTabsAsset = 'http://c1.tacdn.com/js3/src/ta/widgets/ScrollingTabs-v12995788147a.js';
 var jsPhotoViewerTALSOAsset = 'http://c1.tacdn.com/js3/src/TALSO-v112862410a.js';
-var jsJWPlayerHelperAsset = 'http://c1.tacdn.com/js3/src/ta/media/jwplayerHelper-v1995955711a.js';
+var jsJWPlayerHelperAsset = 'http://c1.tacdn.com/js3/src/ta/media/jwplayerHelper-v1950123900a.js';
 </script>
 <script type="text/javascript">
 var IS_DEBUG = false;
 var CDNHOST = "http://c1.tacdn.com";
 var MEDIA_HTTP_BASE = "http://media-cdn.tripadvisor.com/media/";
+var POINT_OF_SALE = "en_SG";
 </script>
 <script type="text/javascript">
 var VERSION_MAP = {
-"ta-widgets-typeahead.js": "http://c1.tacdn.com/js3/ta-widgets-typeahead-c-v181441170a.js",
-"ta-media.js": "http://c1.tacdn.com/js3/ta-media-c-v1249854080a.js"
+"ta-widgets-typeahead.js": "http://c1.tacdn.com/js3/ta-widgets-typeahead-c-v1524289991a.js",
+"ta-media.js": "http://c1.tacdn.com/js3/ta-media-c-v1249854080a.js",
+"ta-mapsv2.js": "http://c1.tacdn.com/js3/ta-mapsv2-google-c-v13973783545a.js"
 }
 </script>
 <script type="text/javascript">
@@ -348,11 +370,12 @@ var closedFolder  = "http://c1.tacdn.com/img/saves/closedFolder.gif";
 var openFolder    = "http://c1.tacdn.com/img/saves/openFolder.gif";
 var add           = "http://c1.tacdn.com/img/saves/addFolder.gif";
 var userLoggedIn = false;
+var currentCurrency = 'USD';
 </script>
 <script type="text/javascript">
 var migrationMember = false;
 var savesEnable = true;
-var savesJS = 'http://c1.tacdn.com/js3/src/saves-v12062170575a.js';
+var savesJS = 'http://c1.tacdn.com/js3/src/saves-v11445131811a.js';
 var flagsUrl = '/pages/privacy.html';
 var noPopClass = "no_cpu";
 var flagsSettings = [
@@ -369,34 +392,37 @@ var modelLocId = "";
 var gClient = 'gme-tripadvisorinc';
 var gKey = '';
 var gLang = '';
-var mapsJs = 'http://c1.tacdn.com/js3/ta-maps-bing-c-v12794576582a.js';
+var mapsJs = 'http://c1.tacdn.com/js3/ta-maps-bing-c-v13784217133a.js';
 var mapsJsLite = 'http://c1.tacdn.com/js3/lib/TAMap-v12716202300a.js';
-var memoverlayCSS = 'http://c1.tacdn.com/css2/pages/memberoverlay-v11425099229a.css';
-var flagsFlyoutCSS = 'http://c1.tacdn.com/css2/overlays/flags/flags_flyout-v12311564600a.css';
+var memoverlayCSS = 'http://c1.tacdn.com/css2/pages/memberoverlay-v13754600100a.css';
+var flagsFlyoutCSS = 'http://c1.tacdn.com/css2/overlays/flags/flags_flyout-v13958638978a.css';
 var globalCurrencyPickerCSS = 'http://c1.tacdn.com/css2/overlays/global_currency_picker-v13493039252a.css';
-var emailHotelCSS = 'http://c1.tacdn.com/css2/t4b/emailhotel-v1319357716a.css';
+var emailHotelCSS = 'http://c1.tacdn.com/css2/t4b/emailhotel-v11656377253a.css';
 var passportStampsCSS = 'http://c1.tacdn.com/css2/modules/passport_stamps-v11996473260a.css';
-var autocompleteCss = "http://c1.tacdn.com/css2/modules/autocomplete-v14002881294a.css";
+var autocompleteCss = "http://c1.tacdn.com/css2/modules/autocomplete-v12296357173a.css";
+var globalTypeAheadCss = "http://c1.tacdn.com/css2/src/widgets/global_typeahead-v13746939368a.css";
 var wiFriHasMember =  false  ;
-var JS_SECURITY_TOKEN = "AAABQ0cDo5JRaKrSmyLib4aSlRel47Nk0dnxxQ==";
+var JS_SECURITY_TOKEN = "AAABRu8AGFqGrkrb4rTtzgitGk864Za2xV6DTw==";
 var addOverlayCloseClass = "";
 var isOverlayServlet = "";
 var IS_OVERLAY_DEBUG = "false";
+var IS_MTPU_ENABLED = true;
+var MTPU_RULE = 734;
 var cpu_enabled = true;
 </script>
 <script type="text/javascript">
 var freshVSTrackingCookie = true;         </script>
-<script type="text/javascript" src="http://c1.tacdn.com/js3/tripadvisor-c-v13762804363a.js"></script>
-<script type="text/javascript">var taSecureToken = "AAABQ0cDo5JRaKrSmyLib4aSlRel47Nk0dnxxQ=="</script>
+<script type="text/javascript" crossorigin="anonymous" src="http://c1.tacdn.com/js3/tripadvisor-c-v11477366132a.js"></script>
+<script type="text/javascript">var taSecureToken = "AAABRu8AGFqGrkrb4rTtzgitGk864Za2xV6DTw=="</script>
 <script type="text/javascript">
 var geoParam = "&geo=";
 </script>
-<link rel="stylesheet" type="text/css" media="screen, print" href="http://c1.tacdn.com/css2/universal_new-en_SG-v12072290030a.css">
+<link rel="stylesheet" type="text/css" media="screen, print" href="http://c1.tacdn.com/css2/universal_new-en_SG-v12670431563a.css">
 <!--[if IE 6]>
-    <link rel="stylesheet" type="text/css" media="screen, print" href="http://c1.tacdn.com/css2/winIE6-v13177518358a.css" />
+    <link rel="stylesheet" type="text/css" media="screen, print" href="http://c1.tacdn.com/css2/winIE6-v12820092551a.css" />
         <![endif]-->
 <!--[if IE 7]>
-    <link rel="stylesheet" type="text/css" media="screen, print" href="http://c1.tacdn.com/css2/winIE7-v12468927065a.css" />
+    <link rel="stylesheet" type="text/css" media="screen, print" href="http://c1.tacdn.com/css2/winIE7-v12702072199a.css" />
         <![endif]-->
 <style type="text/css">
 body{}
@@ -437,30 +463,29 @@ width:100px; font-weight: normal; }
 NOTE: All of the rtl-specific items (unless otherwise noted) can be removed when this
 file is merged back into the standard css in /css2/
 ----------------------------------------------------------------------------------------- */
-body {
+body.fall_2013_masthead_refresh {
 /* Ensure that the gradient nav bars look right when there's a scrollbar. */
 min-width:989px;
 }
-#HEAD.header_refresh { margin: 0 !important; padding: 0; z-index: 204; }
-#HEAD.header_refresh .masthead {
+.fall_2013_masthead_refresh #HEAD.header_refresh { margin: 0 !important; padding: 0; z-index: 204; }
+.fall_2013_masthead_refresh #HEAD.header_refresh .masthead {
 padding: 0;
 width: auto;
 }
-.fluid #HEAD.header_refresh .masthead {
+.fall_2013_masthead_refresh.fluid #HEAD.header_refresh .masthead {
 margin: 0; /* Overrides ".fluid #HEAD .masthead" */
 }
-#HEAD.header_refresh .container { position: relative; width: 983px; margin:0 auto; min-height: 41px; }
-#HEAD.header_refresh .tabsBar {
+.fall_2013_masthead_refresh #HEAD.header_refresh .container { position: relative; width: 983px; margin:0 auto; min-height: 41px; }
+.fall_2013_masthead_refresh #HEAD.header_refresh .tabsBar {
 height: 37px;
 width: auto;
 /* The parent of the <ul> must be static, or the "more" menu won't be able to extend outside the navbar in IE 7. */
 position: static;
 }
-.ltr #HEAD.header_refresh .tabsBar { margin-left: -8px; }
-.rtl #HEAD.header_refresh .tabsBar { margin-right: -8px; }
-#HEAD.header_refresh .tabsBar .tabs { margin: 0 auto; width: 994px;}
-#HEAD.header_refresh .topLogo,
-.domn_ko #HEAD.header_refresh .topLogo {
+.fall_2013_masthead_refresh #HEAD.header_refresh .tabsBar { margin-left: -8px; }
+.fall_2013_masthead_refresh #HEAD.header_refresh .tabsBar .tabs { margin: 0 auto; width: 994px;}
+.fall_2013_masthead_refresh #HEAD.header_refresh .topLogo,
+.fall_2013_masthead_refresh.domn_ko #HEAD.header_refresh .topLogo {
 width: 197px;
 height: 35px;
 margin: 0px 0px 0px 0;
@@ -471,19 +496,18 @@ vertical-align: middle;
 float: none;
 /* IE 7 */ zoom: 1; display:inline !ie;
 }
-.rtl #HEAD.header_refresh .topLogo { margin: 4px 0 2px 8px }
-.domn_en_US .sprite-taLogo_refresh {
+.fall_2013_masthead_refresh.domn_en_US .sprite-taLogo_refresh {
 /* Compensate for a misaligned logo sprite in ENG-US*/
 margin-left:-4px;
 }
-#HEAD.header_refresh .brandArea {
+.fall_2013_masthead_refresh #HEAD.header_refresh .brandArea {
 position: absolute;
 bottom: 0;
 width: 100%;
 z-index: 1;
 }
-#HEAD.header_refresh .header,
-.domn_ja.globalNav2011_reset #HEAD.header_refresh .header {
+.fall_2013_masthead_refresh #HEAD.header_refresh .header,
+.fall_2013_masthead_refresh.domn_ja.globalNav2011_reset #HEAD.header_refresh .header {
 color: #656565;
 margin: 4px 0 0 -15px;
 overflow: hidden;
@@ -493,10 +517,9 @@ vertical-align: middle;
 float: none;
 /* IE 7 */ zoom: 1; display:inline !ie;
 }
-.domn_ko #HEAD.header_refresh .header {margin-left:0;} /* Because the logo is incorrectly right-aligned in this language. */
-.rtl #HEAD.header_refresh .header {margin-left:auto; margin-right:-15px;}
+.fall_2013_masthead_refresh.domn_ko #HEAD.header_refresh .header {margin-left:0;} /* Because the logo is incorrectly right-aligned in this language. */
 /* This CSS trick, combined with .header styles, vertically centers the contained h1.header element. */
-#HEAD.header_refresh .brandArea:before {
+.fall_2013_masthead_refresh #HEAD.header_refresh .brandArea:before {
 content: '';
 display: inline-block;
 height: 42px;
@@ -504,69 +527,59 @@ vertical-align: middle;
 /* IE 7 */ zoom: 1; display:inline !ie;
 }
 /* Done base this on #HEAD, because that will prevent it from applying to business listings (/ManagementCenter) */
-.header_refresh #USER_PREFS { color: #656565; overflow: hidden; z-index:2; }
-.header_refresh #USER_PREFS ul { font-size: 0.9165em; margin: 2px 0; }
-.ltr .header_refresh #USER_PREFS li { float: left; }
-.rtl .header_refresh #USER_PREFS li { float: right; }
-.header_refresh #USER_PREFS li .link {
+.fall_2013_masthead_refresh .header_refresh #USER_PREFS { color: #656565; overflow: hidden; z-index:2; }
+.fall_2013_masthead_refresh .header_refresh #USER_PREFS ul { font-size: 0.9165em; margin: 2px 0; }
+.fall_2013_masthead_refresh .header_refresh #USER_PREFS li { float: left; }
+.fall_2013_masthead_refresh .header_refresh #USER_PREFS li .link {
 cursor: pointer;
 line-height: 15px;
 margin-top: 8px !important;
 padding: 4px 10px;
 font-size: 1.0835em;
 }
-.header_refresh #USER_PREFS li .link.noninteractive {
+.fall_2013_masthead_refresh .header_refresh #USER_PREFS li .link.noninteractive {
 cursor: default;
 }
-.ltr .header_refresh #USER_PREFS li .link { float: left; border-right: 1px solid #EAEAEA; }
-.rtl .header_refresh #USER_PREFS li .link { float: right; border-left: 1px solid #EAEAEA; }
-.ltr .header_refresh #USER_PREFS li .link.greeting { padding-left: 4px; }
-.rtl .header_refresh #USER_PREFS li .link.greeting { padding-right: 4px; }
-.header_refresh #USER_PREFS li .link a {
+.fall_2013_masthead_refresh .header_refresh #USER_PREFS li .link { float: left; border-right: 1px solid #EAEAEA; }
+.fall_2013_masthead_refresh .header_refresh #USER_PREFS li .link.greeting { padding-left: 4px; }
+.fall_2013_masthead_refresh .header_refresh #USER_PREFS li .link a {
 color: #656565;
 }
-.header_refresh #USER_PREFS li .link.greeting b {
+.fall_2013_masthead_refresh .header_refresh #USER_PREFS li .link.greeting b {
 max-width: 135px;
 overflow: hidden;
 text-overflow: ellipsis;
 white-space: nowrap;
 display: inline-block;
 }
-.header_refresh .unregistered.user {
+.fall_2013_masthead_refresh .header_refresh .unregistered.user {
 /* These styles match #USER_PREFS li .link, for unlinked items like "Your TripAdvisor." */
 margin-top: 8px;
 padding: 4px 0px 4px 10px;
 }
-.rtl .header_refresh .unregistered.user { padding: 4px 10px 4px 0px; }
-.ltr .header_refresh .unregistered.user.sprite-member_grn {
+.fall_2013_masthead_refresh .header_refresh .unregistered.user.sprite-member_grn {
 padding-left: 15px;
 margin-left: 10px;
 }
-.rtl .header_refresh .unregistered.user.sprite-member_grn { padding-right: 15px; margin-right: 10px; }
-.header_refresh #USER_PREFS li .sprite-facebook15x15 { height: 15px; padding: 0; width: 15px; }
-.header_refresh #USER_PREFS .circularAvWrap {
+.fall_2013_masthead_refresh .header_refresh #USER_PREFS li .sprite-facebook15x15 { height: 15px; padding: 0; width: 15px; }
+.fall_2013_masthead_refresh .header_refresh #USER_PREFS .circularAvWrap {
 border: 1px solid #EDEDED;
 border-radius: 100%;
 float: left;
 padding: 2px;
 position: relative;
 }
-.rtl .header_refresh #USER_PREFS .circularAvWrap {
-float: right;
-}
-.header_refresh #USER_PREFS .circularAvWrap .circularAvatar {
+.fall_2013_masthead_refresh .header_refresh #USER_PREFS .circularAvWrap .circularAvatar {
 border-radius: 100%;
 }
-.header_refresh #USER_PREFS .circularAvWrap.smallCircularAvWrap {
+.fall_2013_masthead_refresh .header_refresh #USER_PREFS .circularAvWrap.smallCircularAvWrap {
 height: 30px;
 width: 30px;
 }
-.header_refresh #USER_PREFS .circularAvWrap .facebookIcon { position: absolute; bottom: 0; left: 0; width: 12px; height: 12px; }
-.rtl .header_refresh #USER_PREFS .circularAvWrap .facebookIcon { right: 0; left: auto; }
-.ltr .header_refresh #USER_PREFS #INTLPOP .link { border-right: 0; padding-right: 0;}
-.rtl .header_refresh #USER_PREFS #INTLPOP .link { border-left: 0; padding-left: 0;}
-.header_refresh #USER_PREFS .sprite-arrow_dropdown_gry { margin-top: 2px;}
-.header_refresh #USER_PREFS li .link .newMessages {
+.fall_2013_masthead_refresh .header_refresh #USER_PREFS .circularAvWrap .facebookIcon { position: absolute; bottom: 0; left: 0; width: 12px; height: 12px; }
+.fall_2013_masthead_refresh .header_refresh #USER_PREFS #INTLPOP .link { border-right: 0; padding-right: 0;}
+.fall_2013_masthead_refresh .header_refresh #USER_PREFS .sprite-arrow_dropdown_gry { margin-top: 2px;}
+.fall_2013_masthead_refresh .header_refresh #USER_PREFS li .link .newMessages {
 display: inline-block;
 color: #FFF;
 background: #DC7B00;
@@ -581,165 +594,176 @@ padding: 0 0 0.1em 0.1em;
 margin-left: 2px;
 /* IE 7 */ zoom: 1; display:inline !ie;
 }
-.header_refresh #USER_PREFS li .link .newMessages:hover {
+.fall_2013_masthead_refresh .header_refresh #USER_PREFS li .link .newMessages:hover {
 text-decoration: none;
 }
-.fall_2013_masthead_refresh #IP_WELCOME { margin: 0 auto; text-align: right; width: 983px; }
-.fall_2013_masthead_refresh #IP_WELCOME .ipWelcomeMsg { color: #656565; display: inline-block; margin: 6px 0 0; }
-.fall_2013_masthead_refresh #IP_WELCOME .ipWelcomeMsg.highlightIP { background: #FFFFE4; margin: 0; padding: 6px; }
-.fall_2013_masthead_refresh #IP_WELCOME .pipe { color: #EAEAEA; margin: 0 4px; }
-#HEAD.header_refresh .tabItem, #HEAD.header_refresh .tabItemNoLink { margin: 1px 0 0; display:block; position:relative; border-left:none; border-right:none; float:left; height:36px;}
-.rtl #HEAD.header_refresh .tabItem, .rtl #HEAD.header_refresh .tabItemNoLink { float: right; }
-.ltr #HEAD.header_refresh .tabItem.last, #HEAD.header_refresh .tabItemNoLink.last { border-right:none;}
-.rtl #HEAD.header_refresh .tabItem.last, #HEAD.header_refresh .tabItemNoLink.last { border-left:none;}
-#HEAD.header_refresh .tabItem .tabLink,
-#HEAD.header_refresh .tabItemNoLink .tabNoLink {
+.fall_2013_masthead_refresh .fall_2013_masthead_refresh #IP_WELCOME { margin: 0 auto; text-align: right; width: 983px; }
+.fall_2013_masthead_refresh .fall_2013_masthead_refresh #IP_WELCOME .ipWelcomeMsg { color: #656565; display: inline-block; margin: 6px 0 0; }
+.fall_2013_masthead_refresh .fall_2013_masthead_refresh #IP_WELCOME .pipe { color: #EAEAEA; margin: 0 4px; }
+.fall_2013_masthead_refresh #HEAD.header_refresh .tabItem,
+.fall_2013_masthead_refresh #HEAD.header_refresh .tabItemNoLink { margin: 1px 0 0; display:block; position:relative; border-left:none; border-right:none; float:left; height:36px;}
+.fall_2013_masthead_refresh #HEAD.header_refresh .tabItem.last,
+.fall_2013_masthead_refresh #HEAD.header_refresh .tabItemNoLink.last { border-right:none;}
+.fall_2013_masthead_refresh #HEAD.header_refresh .tabItem .tabLink,
+.fall_2013_masthead_refresh #HEAD.header_refresh .tabItemNoLink .tabNoLink {
 padding: 1px 10px;
 height:34px;
 font-weight:normal;
 line-height:34px;
 -webkit-font-smoothing:antialiased;
 }
-#HEAD.header_refresh .tabItem .tabLink a { color:#fff; line-height:34px;}
-#HEAD.header_refresh .tabItem a:active { background-color: transparent; }
-#HEAD.header_refresh .tabItem:hover,
-#HEAD.header_refresh .tabItemShown { background-color:#589442;
+.fall_2013_masthead_refresh #HEAD.header_refresh .tabItem .tabLink a { color:#fff; line-height:34px;}
+.fall_2013_masthead_refresh #HEAD.header_refresh .tabItem a:active { background-color: transparent; }
+.fall_2013_masthead_refresh #HEAD.header_refresh .tabItem:hover,
+.fall_2013_masthead_refresh #HEAD.header_refresh .tabItemShown { background-color:#589442;
 -webkit-box-shadow:inset 8px 0 8px -8px rgba(75,126,55,.75), inset -8px 0 8px -8px rgba(75,126,55,.75);
 -moz-box-shadow:inset 8px 0 8px -8px rgba(75,126,55,.75), inset -8px 0 8px -8px rgba(75,126,55,.75);
 box-shadow:inset 8px 0 8px -8px rgba(75,126,55,.75), inset -8px 0 8px -8px rgba(75,126,55,.75); text-decoration:none;}
-#HEAD.header_refresh .tabItem:hover .tabLink,
-#HEAD.header_refresh .tabItem .tabLinkShown { padding:1px 10px; border:none; color:#fff;}
-#HEAD.header_refresh .tabItem .tabLinkShown a,
-#HEAD.header_refresh .tabItem:hover .tabLink a { color:#fff; -webkit-font-smoothing:antialiased;}
-#HEAD.header_refresh .tabItem .sprite-facebook15x15 {
+.fall_2013_masthead_refresh #HEAD.header_refresh .tabItem:hover .tabLink,
+.fall_2013_masthead_refresh #HEAD.header_refresh .tabItem .tabLinkShown { padding:1px 10px; border:none; color:#fff;}
+.fall_2013_masthead_refresh #HEAD.header_refresh .tabItem .tabLinkShown a,
+.fall_2013_masthead_refresh #HEAD.header_refresh .tabItem:hover .tabLink a { color:#fff; -webkit-font-smoothing:antialiased;}
+.fall_2013_masthead_refresh #HEAD.header_refresh .tabItem .sprite-facebook15x15 {
 margin: 0;
 }
-#HEAD.header_refresh .dropDown:hover .subNav { top:36px;}
-#HEAD.header_refresh .dropDown .subNav { padding: 5px 0; box-shadow:0 5px 5px 0 rgba(0,0,0,.5);}
-#HEAD.header_refresh .dropMenu,
-#HEAD.header_refresh .dropMenu .inner,
-#HEAD.header_refresh .dropDown .subNav { margin-top:0; border-width:1px 2px 2px; border-style:solid; border-color:#68b04d #589442 #589442; background-color:#fff;}
-#HEAD.header_refresh .dropMenu .inner { background-image:none; border:0; padding:0 !important;}
-#HEAD.header_refresh .subItem .subLink,
-#HEAD.header_refresh .subItemNoLink .subNoLink {
+.fall_2013_masthead_refresh #HEAD.header_refresh .dropDown:hover .subNav { top:36px;}
+.fall_2013_masthead_refresh #HEAD.header_refresh .dropDown .subNav { padding: 5px 0; box-shadow:0 5px 5px 0 rgba(0,0,0,.5);}
+.fall_2013_masthead_refresh #HEAD.header_refresh .dropMenu,
+.fall_2013_masthead_refresh #HEAD.header_refresh .dropMenu .inner,
+.fall_2013_masthead_refresh #HEAD.header_refresh .dropDown .subNav { margin-top:0; border-width:1px 2px 2px; border-style:solid; border-color:#68b04d #589442 #589442; background-color:#fff;}
+.fall_2013_masthead_refresh #HEAD.header_refresh .dropMenu .inner { background-image:none; border:0; padding:0 !important;}
+.fall_2013_masthead_refresh #HEAD.header_refresh .subItem .subLink,
+.fall_2013_masthead_refresh #HEAD.header_refresh .subItemNoLink .subNoLink {
 color: #656565;
 padding: 6px 9px;
 text-shadow: none;
 -webkit-font-smoothing: antialiased;
 }
-#HEAD.header_refresh .expandSubItem .expandSubLink {
+.fall_2013_masthead_refresh #HEAD.header_refresh .expandSubItem .expandSubLink {
 color: #656565;
 padding:4px 25px 4px 9px;
 text-shadow: none;
 -webkit-font-smoothing: antialiased;
 }
-#HEAD.header_refresh .subItem .subLink:hover,
-#HEAD.header_refresh .subItemNoLink .subNoLink:hover,
-#HEAD.header_refresh .expandSubItem .expandSubLink:hover {
+.fall_2013_masthead_refresh #HEAD.header_refresh .subItem .subLink:hover,
+.fall_2013_masthead_refresh #HEAD.header_refresh .subItemNoLink .subNoLink:hover,
+.fall_2013_masthead_refresh #HEAD.header_refresh .expandSubItem .expandSubLink:hover {
 background-color: #589442 !important;
 color: #FFF;
 text-shadow: none;
 }
-.dropMenu_refresh,
-.dropMenu_refresh,
-#HEAD.header_refresh .dropDown .expandSubItem .secondSubNav {
+.fall_2013_masthead_refresh .dropMenu_refresh,
+.fall_2013_masthead_refresh .dropMenu_refresh,
+.fall_2013_masthead_refresh #HEAD.header_refresh .dropDown .expandSubItem .secondSubNav {
 border-width:1px 2px 2px;
 border-style:solid;
 border-color:#68b04d #589442 #589442;
 background-color:#fff;
 box-shadow:0 5px 5px 0 rgba(0,0,0,.5);
 }
-.dropMenu_refresh .inner ul {
+.fall_2013_masthead_refresh .dropMenu_refresh .inner ul {
 background-color: #FFF;
 padding: 7px 1px;
 }
-.dropMenu_refresh .inner .subNav {
+.fall_2013_masthead_refresh .dropMenu_refresh .inner .subNav {
 background-color: #FFF;
 }
-.dropMenu_refresh .inner .subLink,
-.dropMenu_refresh .inner .subItemNoLink .subNoLink,
-.dropMenu_refresh .inner .subLink {
+.fall_2013_masthead_refresh .dropMenu_refresh .inner .subLink,
+.fall_2013_masthead_refresh .dropMenu_refresh .inner .subItemNoLink .subNoLink,
+.fall_2013_masthead_refresh .dropMenu_refresh .inner .subLink {
 padding: 6px 9px;
 }
-.dropMenu_refresh .inner .subLink,
-.dropMenu_refresh .inner .subItemNoLink .subNoLink,
-.dropMenu_refresh .inner .taLnk a {
+.fall_2013_masthead_refresh .dropMenu_refresh .inner .subLink,
+.fall_2013_masthead_refresh .dropMenu_refresh .inner .subItemNoLink .subNoLink,
+.fall_2013_masthead_refresh .dropMenu_refresh .inner .taLnk a {
 color: #656565;
 margin: 1px;
 }
-.dropMenu_refresh .inner .subLink,
-.dropMenu_refresh .inner .taLnk a {
+.fall_2013_masthead_refresh .dropMenu_refresh .inner .subLink,
+.fall_2013_masthead_refresh .dropMenu_refresh .inner .taLnk a {
 cursor: pointer;
 }
-.dropMenu_refresh .inner .subLink:hover,
-.dropMenu_refresh .inner .taLnk:hover a {
+.fall_2013_masthead_refresh .dropMenu_refresh .inner .subLink:hover,
+.fall_2013_masthead_refresh .dropMenu_refresh .inner .taLnk:hover a {
 background-color: #589442 !important;
 color: #FFF;
 text-shadow: none;
 -webkit-font-smoothing: antialiased;
 }
-.dropMenu_refresh.accountMenuFlyout,
-.dropMenu_refresh.bizListingsMenuFlyout {
+.fall_2013_masthead_refresh .dropMenu_refresh.accountMenuFlyout,
+.fall_2013_masthead_refresh .dropMenu_refresh.bizListingsMenuFlyout {
 min-width: 150px;
 }
-.dropMenu_refresh.accountMenuFlyout {
+.fall_2013_masthead_refresh .dropMenu_refresh.accountMenuFlyout {
 margin-top: 3px;
 }
-.dropMenu_refresh .subItem .subLink {
+.fall_2013_masthead_refresh .dropMenu_refresh .subItem .subLink {
 padding: 8px 10px;
 display: block;
 margin: 0;
 line-height: 1.2em;
 font-size: 1.1em;
 }
-.dropMenu_refresh .subLink.multiple:after,
-#HEAD.header_refresh .expandSubItem .expandSubLink:after  {
+.fall_2013_masthead_refresh .dropMenu_refresh .subLink.multiple:after,
+.fall_2013_masthead_refresh #HEAD.header_refresh .expandSubItem .expandSubLink:after  {
 content:'>';
 position:absolute;
 right:10px;
 }
-.rtl .dropMenu_refresh .subLink.multiple:after,
-.rtl #HEAD.header_refresh .expandSubItem .expandSubLink:after  {
-left:10px;
-right:auto;
-}
-.dropMenu_refresh #ogMastheadHistory b,
-.dropMenu_refresh #ogMastheadSharingOnOff,
-.dropMenu_refresh .ogMastheadRadioText {
+.fall_2013_masthead_refresh .dropMenu_refresh #ogMastheadHistory b,
+.fall_2013_masthead_refresh .dropMenu_refresh #ogMastheadSharingOnOff,
+.fall_2013_masthead_refresh .dropMenu_refresh .ogMastheadRadioText {
 font-weight: normal;
 }
-.dropMenu_refresh .ogMastheadRadioText {
+.fall_2013_masthead_refresh .dropMenu_refresh .ogMastheadRadioText {
 top: -2px;
 }
-.dropMenu_refresh .signOutLink {
+.fall_2013_masthead_refresh .dropMenu_refresh .signOutLink {
 border-top: 1px solid #589442;
 margin-top: 7px !important;
 }
-.dropMenu_refresh #SIGNOUT_LINK {
+.fall_2013_masthead_refresh .dropMenu_refresh #SIGNOUT_LINK {
 font-weight: bold;
 margin-top: 7px !important;
 }
-.dropMenu_refresh .taLnk a {color:#006699; text-decoration:none;}
-.secondaryNavBar .navSrch {
+.fall_2013_masthead_refresh .dropMenu_refresh .taLnk a {color:#006699; text-decoration:none;}
+.fall_2013_masthead_refresh .secondaryNavBar .searchSpacer {
+float: right;
+height: 23px;
+width: 220px;
+}
+.fall_2013_masthead_refresh .secondaryNavBar .globalSearch {
+position: absolute;
+right: 0;
+top: 5px;
+}
+.fall_2013_masthead_refresh .secondaryNavBar .fader {
+background: transparent;
+background: -moz-linear-gradient(left, rgba(75, 126, 55, 0) 0%, rgba(75, 126, 55, 1) 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left, right, color-stop(0%, rgba(75, 126, 55, 0)), color-stop(100%, rgba(75, 126, 55, 1))); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(left, rgba(75, 126, 55, 0) 0%, rgba(75, 126, 55, 1) 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(left, rgba(75, 126, 55, 0) 0%, rgba(75, 126, 55, 1) 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(left, rgba(75, 126, 55, 0) 0%, rgba(75, 126, 55, 1) 100%); /* IE10+ */
+background: linear-gradient(left right, rgba(75, 126, 55, 0) 0%, rgba(75, 126, 55, 1) 100%); /* W3C */
+float: left;
+height: 23px;
+width: 20px;
+}
+.fall_2013_masthead_refresh .secondaryNavBar .navSrch {
+background: #FFF;
 border: 0;
 border-radius: 3px;
 box-shadow: inset 2px 2px 3px 0 #CCC;
-float: right;
-height: 23px;
-margin-top: -2px;
-position: static;
-width: auto;
-background-color:#fff;
-}
-.rtl .secondaryNavBar .navSrch {
 float: left;
+height: 23px;
+width: auto;
 }
-.secondaryNavBar .navSrch .text {
+.fall_2013_masthead_refresh .secondaryNavBar .navSrch .text {
 border: 0;
 outline: 0;
 }
-#HEAD.header_refresh .navSrch .text,
-.secondaryNavBar .navSrch .text {
+.fall_2013_masthead_refresh #HEAD.header_refresh .navSrch .text,
+.fall_2013_masthead_refresh .secondaryNavBar .navSrch .text {
 background-color: transparent;
 border: 0;
 color: #686868;
@@ -748,55 +772,39 @@ font: inherit;
 margin: 4px 8px;
 padding: 0;
 vertical-align: baseline;
-width: 265px;
+width: 175px;
 }
-.rtl #HEAD.header_refresh .text,
-.rtl .secondaryNavBar .text {
-float: right;
-}
-.secondaryNavBar .navSrchLang .text {
+.fall_2013_masthead_refresh .secondaryNavBar .navSrchLang .text {
 margin: 4px 2px 4px 8px;
 }
-.rtl .secondaryNavBar .navSrchLang .text {
-margin: 4px 8px 4px 2px;
-}
-.secondaryNavBar .sprite-search_mag_glass {
+.fall_2013_masthead_refresh .secondaryNavBar .sprite-search_mag_glass {
 float: left;
 margin: 3px;
 padding: 0;
 width: 20px;
 }
-.rtl .secondaryNavBar .sprite-search_mag_glass { float:right; }
-.secondaryNavBar #SEARCH_LANG_SELECT {
+.fall_2013_masthead_refresh .secondaryNavBar #SEARCH_LANG_SELECT {
 background-color: transparent;
 float: left;
 height: 23px;
 line-height: 24px;
 }
-.rtl .secondaryNavBar #SEARCH_LANG_SELECT {float:right;}
-/* This overrides a strange rtl-only hack which is no longer needed. */
-.rtl .secondaryNavBar #SEARCH_LANG_SELECT {
-top:0;
-}
-.secondaryNavBar #SEARCH_LANG_SELECT .sprite-arrow_dropdown_gry_refresh {
+.fall_2013_masthead_refresh .secondaryNavBar #SEARCH_LANG_SELECT .sprite-arrow_dropdown_gry_refresh {
 height: 6px;
 margin: 4px 0 0 0;
 width: 10px;
 }
-#HEAD.header_refresh .prfs .sprite-arrow_dropdown_gry_refresh {
+.fall_2013_masthead_refresh #HEAD.header_refresh .prfs .sprite-arrow_dropdown_gry_refresh {
 margin: 3px 0 0 5px;
 vertical-align: top; /*Needed by IE. No effect in webkit.*/
 }
-.rtl #HEAD.header_refresh .prfs .sprite-arrow_dropdown_gry_refresh {
-margin: 3px 5px 0 0;
-}
-.secondaryNavBar #SEARCH_LANG_SELECTED {
+.fall_2013_masthead_refresh .secondaryNavBar #SEARCH_LANG_SELECTED {
 height: 23px;
 margin: 0;
 padding: 0 5px;
 border: 0;
 }
-.secondaryNavBar #SEARCH_LANG_SELECT_POPUP {
+.fall_2013_masthead_refresh .secondaryNavBar #SEARCH_LANG_SELECT_POPUP {
 background-color: #FFF;
 border: 2px solid #589442;
 border-top: 1px solid #68B04D;
@@ -806,11 +814,7 @@ width: 295px;
 left: -277px;
 padding: 5px 0;
 }
-.rtl .secondaryNavBar #SEARCH_LANG_SELECT_POPUP {
-left: auto;
-right: -277px;
-}
-.secondaryNavBar #SEARCH_LANG_SELECT_POPUP .langSelectOption {
+.fall_2013_masthead_refresh .secondaryNavBar #SEARCH_LANG_SELECT_POPUP .langSelectOption {
 color: #656565;
 cursor: pointer;
 display: block;
@@ -818,23 +822,17 @@ line-height: 16px;
 margin: 1px;
 padding: 4px 9px 4px 23px; /* The 23 pixels is to offset the checkbox from the "selected" style */
 }
-.rtl .secondaryNavBar #SEARCH_LANG_SELECT_POPUP .langSelectOption {
-padding: 4px 23px 4px 9px;
-}
-.secondaryNavBar #SEARCH_LANG_SELECT_POPUP .selected {
+.fall_2013_masthead_refresh .secondaryNavBar #SEARCH_LANG_SELECT_POPUP .selected {
 background-image: url(/img2/home/icon_checkmark.png);
 background-repeat: no-repeat;
 background-position: 5px 7px;
 }
-.rtl .secondaryNavBar #SEARCH_LANG_SELECT_POPUP .selected {
-background-position: right 7px;
-}
-.secondaryNavBar #SEARCH_LANG_SELECT_POPUP .langSelectOption:hover {
+.fall_2013_masthead_refresh .secondaryNavBar #SEARCH_LANG_SELECT_POPUP .langSelectOption:hover {
 background-color: #589442;
 color: #FFF;
 text-shadow: none;
 }
-.secondaryNavBar {
+.fall_2013_masthead_refresh .secondaryNavBar {
 background: #4B7E37;
 box-shadow: 0px 2px 4px 0px rgba(0, 0, 0, .25);
 clear: both;
@@ -845,41 +843,42 @@ position: relative;
 z-index: 203;
 -webkit-font-smoothing: antialiased;
 }
-.secondaryNavBar .crumbs {
+.fall_2013_masthead_refresh .secondaryNavBar .crumbs {
 font-family: Arial, Tahoma, "Bitstream Vera Sans", sans-serif;
 margin: 0 auto;
 padding-top: 7px;
 padding-bottom: 5px;
+position: relative;
 width: 983px;
 }
-.domn_ja .secondaryNavBar .crumbs {
+.fall_2013_masthead_refresh.domn_ja .secondaryNavBar .crumbs {
 font-family: "ヒラギノ角ゴ Pro W3","Hiragino Kaku Gothic Pro","メイリオ",Meiryo,Osaka,"ＭＳ Ｐゴシック","MS PGothic",sans-serif;
 }
-.secondaryNavBar .crumbs .breadcrumbs {
+.fall_2013_masthead_refresh .secondaryNavBar .crumbs .breadcrumbs {
 overflow: hidden;
 /* Without this, the breadcrumbs don't display correctly in most browsers */
 display: inline;
 }
 /* For some reason, Korean layout is messed up if this element doesn't have a fixed width.
 Since Korean's a very concise language, it's not likely that breadcrumbs will wrap anyway. */
-.lang_ko .secondaryNavBar .crumbs .breadcrumbs {width:600px;}
-.secondaryNavBar .crumbs .breadcrumbs li {
+.fall_2013_masthead_refresh .lang_ko .secondaryNavBar .crumbs .breadcrumbs {width:600px;}
+.fall_2013_masthead_refresh .secondaryNavBar .crumbs .breadcrumbs li {
 color: #b4c5ae;
 cursor: default;
 }
-.secondaryNavBar .crumbs .breadcrumbs a {
+.fall_2013_masthead_refresh .secondaryNavBar .crumbs .breadcrumbs a {
 /* !important overrides strange override in quickreview_thanks_new.css. */
 color: #FFF!important;
 text-decoration: none;
 }
-.secondaryNavBar .crumbs .breadcrumbs a:hover {
+.fall_2013_masthead_refresh .secondaryNavBar .crumbs .breadcrumbs a:hover {
 text-decoration: underline;
 }
-.secondaryNavBar .crumbs .breadcrumbs li {
+.fall_2013_masthead_refresh .secondaryNavBar .crumbs .breadcrumbs li {
 display: inline-block;
 /* IE 7 */ zoom: 1; display:inline !ie;
 }
-.secondaryNavBar .crumbs .breadcrumbs .divider {
+.fall_2013_masthead_refresh .secondaryNavBar .crumbs .breadcrumbs .divider {
 margin: 5px 9px 3px 10px;
 width: 4px; /* Needed to override vacation rentals override. */
 /* These styles are to override Vacation Rental-specific overrides in vr-universal.css
@@ -888,24 +887,14 @@ border-top:none;
 float:none;
 top:auto;
 }
-.rtl .secondaryNavBar .crumbs .breadcrumbs .divider {
-margin: 5px 10px 3px 9px;
-/* Flip the image */
--moz-transform: scaleX(-1);
--o-transform: scaleX(-1);
--webkit-transform: scaleX(-1);
-transform: scaleX(-1);
-filter: FlipH;
--ms-filter: "FlipH";
-}
-.secondaryNavBar .warLink .tabLink,
-.secondaryNavBar .warLink .pen_wht,
-.header_refresh#HEAD .tabItem .tabLink,
-.header_refresh#HEAD .tabItemNoLink .tabNoLink
+.fall_2013_masthead_refresh .secondaryNavBar .warLink .tabLink,
+.fall_2013_masthead_refresh .secondaryNavBar .warLink .pen_wht,
+.fall_2013_masthead_refresh .header_refresh#HEAD .tabItem .tabLink,
+.fall_2013_masthead_refresh .header_refresh#HEAD .tabItemNoLink .tabNoLink
 {
 text-shadow: none;
 }
-.header_refresh.parentForumLink {
+.fall_2013_masthead_refresh .header_refresh.parentForumLink {
 position:relative;
 z-index:1;
 width:987px;
@@ -914,32 +903,33 @@ margin:0 auto;
 float:none;
 padding: 10px 35px 10px 0;
 }
-.header_refresh.parentForumLink {
+.fall_2013_masthead_refresh .header_refresh.parentForumLink {
 text-align:left;
 padding: 10px 0 10px 35px;
 }
-.header_refresh.vrHeadingGroup {
+.fall_2013_masthead_refresh .header_refresh.vrHeadingGroup {
 margin-top:10px;
 }
-.header_refresh.ad.iab_leaBoa {
-margin:16px 0;
+/* neg margin needed for wider size */
+.fall_2013_masthead_refresh .header_refresh.ad.iab_leaBoa {
+margin:16px -8px;
 }
 /* Business listings */
-.header_refresh .headerright {
+.fall_2013_masthead_refresh .header_refresh .headerright {
 position:absolute;
 right:0;
 bottom:12px;
 }
-.header_refresh.t4bheader {
+.fall_2013_masthead_refresh .header_refresh.t4bheader {
 position:relative;
 bottom:14px;
 }
-.header_refresh.t4bheader #USER_PREFS {
+.fall_2013_masthead_refresh .header_refresh.t4bheader #USER_PREFS {
 top:10px;
 margin-top:10px;
 }
-#HEAD.header_refresh .arrow_text,
-#HEAD.header_refresh .pen_wht {
+.fall_2013_masthead_refresh #HEAD.header_refresh .arrow_text,
+.fall_2013_masthead_refresh #HEAD.header_refresh .pen_wht {
 display: inline-block;
 /* IE 7 */ zoom: 1; display:inline !ie;
 }
@@ -953,21 +943,20 @@ top: auto;
 .fall_2013_masthead_refresh #MAIN.GoListDetail {
 padding-top: 14px !important;
 }
-.ltr #HEAD.header_refresh .dropDown .arrow_dropdown_wht,
-.ltr #HEAD.header_refresh .dropDownJS .arrow_dropdown_wht,
-.ltr #HEAD.header_refresh .pen_wht {
+.fall_2013_masthead_refresh #HEAD.header_refresh .dropDown .arrow_dropdown_wht,
+.fall_2013_masthead_refresh #HEAD.header_refresh .dropDownJS .arrow_dropdown_wht,
+.fall_2013_masthead_refresh #HEAD.header_refresh .pen_wht {
 margin-left:4px;
 }
-.rtl #HEAD.header_refresh .dropDown .arrow_dropdown_wht,
-.rtl #HEAD.header_refresh .dropDownJS .arrow_dropdown_wht,
-.rtl #HEAD.header_refresh .pen_wht {
-margin-right:4px;
-}
 /* Remove custom styling for Russian */
-.domn_ru #HEAD.header_refresh .tabItem .tabLink, .domn_ru #HEAD.header_refresh .tabItemNoLink .tabNoLink, .domn_ru #HEAD.header_refresh .tabItem .submit {
+.fall_2013_masthead_refresh.domn_ru #HEAD.header_refresh .tabItem .tabLink,
+.fall_2013_masthead_refresh.domn_ru #HEAD.header_refresh .tabItemNoLink .tabNoLink,
+.fall_2013_masthead_refresh.domn_ru #HEAD.header_refresh .tabItem .submit {
 padding: 1px 8px;
 }
-.domn_pt #HEAD.header_refresh .tabItem .tabLink, .domn_pt #HEAD.header_refresh .tabItemNoLink .tabNoLink, .domn_pt #HEAD.header_refresh .tabItem .submit {
+.fall_2013_masthead_refresh.domn_pt #HEAD.header_refresh .tabItem .tabLink,
+.fall_2013_masthead_refresh.domn_pt #HEAD.header_refresh .tabItemNoLink .tabNoLink,
+.fall_2013_masthead_refresh.domn_pt #HEAD.header_refresh .tabItem .submit {
 padding: 1px 7px;
 }
 /* EU IP welcome bar */
@@ -998,76 +987,31 @@ color: #069;
 .fall_2013_masthead_refresh #TAIPWELCOMEBAR .circularAvWrap {
 display: none;
 }
-#HEAD.header_refresh .container, .header_refresh.crumbs {
+.fall_2013_masthead_refresh #HEAD.header_refresh .container,
+.fall_2013_masthead_refresh .header_refresh.crumbs {
 width: 983px;
 left: 50%;
 margin-left: -491px;
 }
-#HEAD.header_refresh .brandArea {
+.fall_2013_masthead_refresh #HEAD.header_refresh .brandArea {
 bottom: auto;
 }
-#HEAD.header_refresh .masthead .logoBarPersistentSpacer {
-width: 983px;
-display:none;
-}
-#HEAD.header_refresh .masthead.fixed .logoBarPersistentSpacer {
-display:block;
-height:41px;
-}
-#HEAD.header_refresh .masthead .logoBarPersistent {
+.fall_2013_masthead_refresh .secondaryNavBar {
 width: 100%;
-background-color: white;
-z-index: 208;
-}
-#HEAD.header_refresh .masthead.fixed .logoBarPersistent {
-position: fixed;
-top: 0;
-}
-#HEAD.header_refresh .masthead.fixed.transitional .logoBarPersistent {
-border-bottom: 1px solid #589442;
-}
-.secondaryNavBarPersistentSpacer {
-width: 983px;
-display:none;
-}
-/* BEFORE COMMIT: REMOVE THIS CLASS AND ELEMENT */
-.secondaryNavBarPersistentSpacer.fixed, .secondaryNavBarPersistentSpacer.transitional {
-display:none;
-height:33px;
-}
-.secondaryNavBar {
-width: 100%;
-}
-.secondaryNavBar.transitional {
-position: fixed;
-top: -5px;
-min-height: 37px;
-}
-.secondaryNavBar.fixed {
-position: fixed;
-top: 41px;
-min-height: 37px;
-}
-.secondaryNavBar.fixed .crumbs {
-padding-top: 9px;
-}
-.secondaryNavBar.fixed .crumbs .breadcrumbs li {
-color: #BBD4B3;
 }
 /* These two elements define the green gradient bar. */
-.secondaryNavBar.fixed,
-.header_refresh.secondaryNavBar.transitional,
-.header_refresh#HEAD .tabsBar {
+.fall_2013_masthead_refresh .header_refresh#HEAD .tabsBar {
+background: #589442;
 background: -moz-linear-gradient(top, #68b14e 0%, #589442 100%); /* FF3.6+ */
 background: -webkit-linear-gradient(top, #68b14e 0%,#589442 100%); /* Chrome10+,Safari5.1+ */
+background: -webkit-gradient(linear, top, bottom, color-stop(0%, #68b14e), color-stop(100%, #589442)); /* Chrome,Safari4+ */
 background: -o-linear-gradient(top, #68b14e 0%,#589442 100%); /* Opera 11.10+ */
 background: -ms-linear-gradient(top, #68b14e 0%,#589442 100%); /* IE10+ */
 background: linear-gradient(to bottom, #68b14e 0%,#589442 100%); /* W3C */
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#68b14e', endColorstr='#589442',GradientType=0 ); /* IE6-9 */
 border-bottom: 1px solid #68B04D;
 }
-.secondaryNavBar.fixed:before,
-.header_refresh#HEAD .tabsBar:before {
+.fall_2013_masthead_refresh .header_refresh#HEAD .tabsBar:before {
 content: '';
 border-top: 1px solid #68B04D;
 background-color: #86C171;
@@ -1080,7 +1024,7 @@ width: 100%;
 .fall_2013_masthead_refresh .dropMenu_refresh.overlay .inner {
 padding: 0;
 }
-.dropMenu_refresh.overlay.relative {
+.fall_2013_masthead_refresh .dropMenu_refresh.overlay.relative {
 margin: 1px 3px;
 }
 .fall_2013_masthead_refresh .dropMenu_refresh .inner .subNav.hotelsDD {
@@ -1146,34 +1090,25 @@ width: 194px;
 display: block;
 margin: 12px 0;
 }
-.fall_2013_masthead_refresh ul.semauto-choices.fixed {
+.fall_2013_masthead_refresh .semauto-choices {
+width: 348px;
+}
+.fall_2013_masthead_refresh .semauto-choices.fixed {
 position: fixed;
 top: 70px !important;
 }
-.fall_2013_masthead_refresh ul.semauto-choices {
-min-width: 305px;
-}
-.fall_2013_masthead_refresh ul.semauto-choices li div.choice-entry {
+.fall_2013_masthead_refresh .semauto-choices li div.choice-entry {
 padding-right: 10px;
-}
-.rtl.fall_2013_masthead_refresh ul.semauto-choices li div.choice-entry {
-padding-left: 10px;
-}
-.fall_2013_masthead_refresh ul.semauto-choices.typeahead_list_ui li div.choice-entry {
-max-width: auto;
 }
 .fall_2013_masthead_refresh #FLAGS_FLY,
 .fall_2013_masthead_refresh #ogSharingMenu {
 margin: 10px;
 }
-.persistentNav .sidebar .scrollAd {
-top: 84px;
-}
 </style>
-<!-- web151a.tripadvisor.com -->
+<!-- web621a.a.tripadvisor.com -->
 <!-- PRODUCTION -->
 <!-- PRODUCTION -->
-<script type="text/javascript" src="http://c1.tacdn.com/js3/src/trsupp-v12893079112a.js"></script>
+<script type="text/javascript" src="http://c1.tacdn.com/js3/src/trsupp-v13958736710a.js"></script>
 </head>
 <body class="ltr domn_en_SG lang_en globalNav2011_reset fall_2013_masthead_refresh">
 <div id="fb-root"></div>
@@ -1181,7 +1116,8 @@ top: 84px;
 function initSaves()
 {
 SV_DEFAULT_FOLDER_NAME = "My Trip";
-if (SV_DEFAULT_FOLDER_NAME.length > $('savesWidgetNewFolder').maxLength) {
+var savesWidgetNewFolder = ta.id('savesWidgetNewFolder');
+if (savesWidgetNewFolder && SV_DEFAULT_FOLDER_NAME.length > savesWidgetNewFolder.maxLength) {
 SV_DEFAULT_FOLDER_NAME = "My Trip";
 }
 SV_IS_POPUP = 0;
@@ -1228,6 +1164,7 @@ USD
 </span>
 
 </li>
+<script type="text/javascript"> ta.store('flag_flyout_link_fixing.featureEnabled', 'false'); </script>
 <li id="INTLPOP" class=" no_cpu " onclick="ta.call('ta.overlays.Factory.intlPopup', event, this)">
 <span class="link">
 <img class="sprite-flag flag" src="http://c1.tacdn.com/img2/x.gif" alt="International Sites" title="International Sites">
@@ -1244,37 +1181,37 @@ Hotels
 <span class="hidden">
 <div class="subNav hotelsDD">
 <div class="allHotels"><a href="/Hotels" alt="Search All Hotels">Search All Hotels</a></div> <div class="popDests"><div class="popDestsTitle">Popular destinations</div> <div class="popDestsLeft">
-<div class="popDestsLink"><a href="/Hotels-g294265-Singapore-Hotels.html" alt="Hotels in Singapore">Hotels in Singapore</a></div>
-<div class="popDestsLink"><a href="/Hotels-g294217-Hong_Kong-Hotels.html" alt="Hotels in Hong Kong">Hotels in Hong Kong</a></div>
-<div class="popDestsLink"><a href="/Hotels-g298570-Kuala_Lumpur_Wilayah_Persekutuan-Hotels.html" alt="Hotels in Kuala Lumpur">Hotels in Kuala Lumpur</a></div>
-<div class="popDestsLink"><a href="/Hotels-g294261-Cebu_Visayas-Hotels.html" alt="Hotels in Cebu">Hotels in Cebu</a></div>
-<div class="popDestsLink"><a href="/Hotels-g293913-Taipei-Hotels.html" alt="Hotels in Taipei">Hotels in Taipei</a></div>
-<div class="popDestsLink"><a href="/Hotels-g298292-Cameron_Highlands_Pahang-Hotels.html" alt="Hotels in Cameron Highlands">Hotels in Cameron Highlands</a></div>
-<div class="popDestsLink"><a href="/Hotels-g298450-Makati_Metro_Manila_Luzon-Hotels.html" alt="Hotels in Makati">Hotels in Makati</a></div>
-<div class="popDestsLink"><a href="/Hotels-g298307-Kota_Kinabalu_Kota_Kinabalu_District_West_Coast_Division_Sabah-Hotels.html" alt="Hotels in Kota Kinabalu">Hotels in Kota Kinabalu</a></div>
-<div class="popDestsLink"><a href="/Hotels-g255060-Sydney_New_South_Wales-Hotels.html" alt="Hotels in Sydney">Hotels in Sydney</a></div>
-<div class="popDestsLink"><a href="/Hotels-g297930-Patong_Kathu_Phuket-Hotels.html" alt="Hotels in Patong">Hotels in Patong</a></div>
-</div><div class="popDestsRight"> <div class="popDestsLink"><a href="/Hotels-g298278-Johor_Bahru_Johor_Bahru_District_Johor-Hotels.html" alt="Hotels in Johor Bahru">Hotels in Johor Bahru</a></div>
-<div class="popDestsLink"><a href="/Hotels-g294197-Seoul-Hotels.html" alt="Hotels in Seoul">Hotels in Seoul</a></div>
-<div class="popDestsLink"><a href="/Hotels-g298555-Guangzhou_Guangdong-Hotels.html" alt="Hotels in Guangzhou">Hotels in Guangzhou</a></div>
-<div class="popDestsLink"><a href="/Hotels-g306997-Melaka_Central_Melaka_District_Melaka_State-Hotels.html" alt="Hotels in Melaka">Hotels in Melaka</a></div>
-<div class="popDestsLink"><a href="/Hotels-g293919-Pattaya_Chonburi_Province-Hotels.html" alt="Hotels in Pattaya">Hotels in Pattaya</a></div>
-<div class="popDestsLink"><a href="/Hotels-g188590-Amsterdam_North_Holland_Province-Hotels.html" alt="Hotels in Amsterdam">Hotels in Amsterdam</a></div>
-<div class="popDestsLink"><a href="/Hotels-g255103-Perth_Greater_Perth_Western_Australia-Hotels.html" alt="Hotels in Perth">Hotels in Perth</a></div>
-<div class="popDestsLink"><a href="/Hotels-g308272-Shanghai-Hotels.html" alt="Hotels in Shanghai">Hotels in Shanghai</a></div>
-<div class="popDestsLink"><a href="/Hotels-g293925-Ho_Chi_Minh_City-Hotels.html" alt="Hotels in Ho Chi Minh City">Hotels in Ho Chi Minh City</a></div>
-<div class="popDestsLink"><a href="/Hotels-g294212-Beijing-Hotels.html" alt="Hotels in Beijing">Hotels in Beijing</a></div>
+<div class="popDestsLink"><a href="/Hotels-g294265-Singapore-Hotels.html">Hotels in Singapore</a></div>
+<div class="popDestsLink"><a href="/Hotels-g294217-Hong_Kong-Hotels.html">Hotels in Hong Kong</a></div>
+<div class="popDestsLink"><a href="/Hotels-g298570-Kuala_Lumpur_Wilayah_Persekutuan-Hotels.html">Hotels in Kuala Lumpur</a></div>
+<div class="popDestsLink"><a href="/Hotels-g294261-Cebu_Island_Visayas-Hotels.html">Hotels in Cebu</a></div>
+<div class="popDestsLink"><a href="/Hotels-g293913-Taipei-Hotels.html">Hotels in Taipei</a></div>
+<div class="popDestsLink"><a href="/Hotels-g298292-Cameron_Highlands_Pahang-Hotels.html">Hotels in Cameron Highlands</a></div>
+<div class="popDestsLink"><a href="/Hotels-g298450-Makati_Metro_Manila_Luzon-Hotels.html">Hotels in Makati</a></div>
+<div class="popDestsLink"><a href="/Hotels-g298307-Kota_Kinabalu_Kota_Kinabalu_District_West_Coast_Division_Sabah-Hotels.html">Hotels in Kota Kinabalu</a></div>
+<div class="popDestsLink"><a href="/Hotels-g255060-Sydney_New_South_Wales-Hotels.html">Hotels in Sydney</a></div>
+<div class="popDestsLink"><a href="/Hotels-g297930-Patong_Kathu_Phuket-Hotels.html">Hotels in Patong</a></div>
+</div><div class="popDestsRight"> <div class="popDestsLink"><a href="/Hotels-g298278-Johor_Bahru_Johor_Bahru_District_Johor-Hotels.html">Hotels in Johor Bahru</a></div>
+<div class="popDestsLink"><a href="/Hotels-g294197-Seoul-Hotels.html">Hotels in Seoul</a></div>
+<div class="popDestsLink"><a href="/Hotels-g298555-Guangzhou_Guangdong-Hotels.html">Hotels in Guangzhou</a></div>
+<div class="popDestsLink"><a href="/Hotels-g306997-Melaka_Central_Melaka_District_Melaka_State-Hotels.html">Hotels in Melaka</a></div>
+<div class="popDestsLink"><a href="/Hotels-g293919-Pattaya_Chonburi_Province-Hotels.html">Hotels in Pattaya</a></div>
+<div class="popDestsLink"><a href="/Hotels-g188590-Amsterdam_North_Holland_Province-Hotels.html">Hotels in Amsterdam</a></div>
+<div class="popDestsLink"><a href="/Hotels-g255103-Perth_Greater_Perth_Western_Australia-Hotels.html">Hotels in Perth</a></div>
+<div class="popDestsLink"><a href="/Hotels-g308272-Shanghai-Hotels.html">Hotels in Shanghai</a></div>
+<div class="popDestsLink"><a href="/Hotels-g293925-Ho_Chi_Minh_City-Hotels.html">Hotels in Ho Chi Minh City</a></div>
+<div class="popDestsLink"><a href="/Hotels-g294212-Beijing-Hotels.html">Hotels in Beijing</a></div>
 </div> </div> <a class="tchNavPromoLink" href="/TravelersChoice-Hotels" onclick="setPID(16076);">
 <div class="tchNavPromo">
-<img src="http://c1.tacdn.com/img2/tc/2013/TCH-Hotels-dropdown_LL_TM_2.png" alt="Travellers' Choice Hotel Awards"> <p>The world's best hotels. <span class="taLnk">Get the list</span>.</p> </div>
+<img src="http://c1.tacdn.com/img2/tc/2014/TCH-Hotels-dropdown_LL_TM.gif" alt="Travellers' Choice Hotel Awards"> <p>The world's best hotels. <span class="taLnk">Get the list</span>.</p> </div>
 </a>
 </div>
 </span></li>
-<li class="tabItem  hvrIE6"><a onclick="ta.setEvtCookie('TopNav', 'click', 'Flights', 0, this.href);setPID(1940)" href="/Flights" class="tabLink  pid18957">
+<li class="tabItem  hvrIE6"><a onclick="ta.setEvtCookie('TopNav', 'click', 'Flights', 0, this.href);setPID(1940)" href="/CheapFlightsHome" class="tabLink  pid18957">
 Flights
 </a>
 </li>
-<li class="tabItem  hvrIE6"><a onclick="ta.setEvtCookie('TopNav', 'click', 'VacationRentals', 0, this.href)" href="/VacationRentals" class="tabLink  pid4968">
+<li class="tabItem  hvrIE6"><a onclick="ta.setEvtCookie('TopNav', 'click', 'VacationRentals', 0, this.href)" href="/Rentals" class="tabLink  pid4968">
 Holiday Rentals
 </a>
 </li>
@@ -1420,7 +1357,7 @@ Any Price
 </form>
 </span></li>
 <li class="tabItem  hvrIE6"><a onclick="ta.setEvtCookie('TopNav', 'click', 'TravelersChoice', 0, this.href)" href="/TravelersChoice" class="tabLink  pid5087">
-Best of 2013
+Best of 2014
 </a>
 </li>
 <li id="FRIENDSTAB" class="tabItem tooltip hvrIE6"><a onclick="ta.setEvtCookie('TopNav', 'click', 'YourFriends', 0, this.href);ta.call('ta.common.header.adjustFriendsLink', event, this);" href="/Friends-rnauth" class="tabLink tooltip pid18784">
@@ -1428,7 +1365,7 @@ Your Friends <span id="FBL" class="sprite-facebook15x15"></span>
 </a>
 <div class="overlayContents"><div class="inner2"><div class="help"><div class="hdr">Travel is better with friends.</div><div class="ttbody">Get inspired by your friends and share your travel plans. <a href="/Friends-rnauth" onclick="return ta.call('ta.common.header.adjustFriendsLink', event, this);">Learn more</a></div></div></div></div>
 </li>
-<li class="tabItem dropDown hvrIE6 ">
+<li class="tabItem dropDown hvrIE6 " onmouseenter="ta.call('ta.overlays.Factory.createEmptyOverlay', event, this, false)">
 <span class="tabLink arwLink"><span class="arrow_text">More</span><img class="arrow_dropdown_wht sprite-arrow_dropdown_wht_refresh" src="http://c1.tacdn.com/img2/x.gif" alt="" width="9" height="7"></span> <ul class="subNav">
 <li class="subItem ">
 <a href="/ForumHome" onclick="ta.setEvtCookie('TopNav', 'click', 'Travel Forum', 0, this.href)" class="subLink pid34623">Travel Forum
@@ -1444,8 +1381,8 @@ Your Friends <span id="FBL" class="sprite-facebook15x15"></span>
 </li>
 </ul>
 </li>
-<li class="tabItem altItem warLink hvrIE6">
-<a href="/UserReview-ehttp%3A__2F____2F__www__2E__tripadvisor__2E__com__2E__sg__2F__pages__2F__privacy__2E__html" class="writeReview taLnk hvrIE6 tabLink pid1434" onclick="ta.setEvtCookie('TopNav', 'click', 'WriteAReview', 0, this.href.replace('UserReview', 'UserReviewRedesign'))">
+<li class="tabItem altItem warLink hvrIE6" onmouseover="if(!ta.retrieve('GLOBAL_NAV_WAR_HOVER')){new Request({url: '/ActionRecord?action=GLOBAL_NAV_WAR_HOVER'}).send(); ta.store('GLOBAL_NAV_WAR_HOVER',true);return false;}">
+<a href="https://www.tripadvisor.com.sg/UserReview-ehttp%3A__2F____2F__www__2E__tripadvisor__2E__com__2E__sg__2F__pages__2F__privacy__2E__html" class="writeReview taLnk hvrIE6 tabLink pid1434" onclick="ta.setEvtCookie('TopNav', 'click', 'WriteAReview', 0, '/UserReviewRedesign')">
 <span class="arrow_text">Write a Review</span> <span class="pen_wht sprite-pen_wht"></span>
 </a>
 </li>
@@ -1453,14 +1390,23 @@ Your Friends <span id="FBL" class="sprite-facebook15x15"></span>
 </div> </div>
 <div class="secondaryNavBar">
 <div class="crumbs">
+<div class="searchSpacer"></div>
+<div class="globalSearch">
+<div class="fader"></div>
 <div class="navSrch   no_cpu ">
 <form method="get" action="/Search" onsubmit="return ta.call('ta.common.search.recordAndValidate', event)" id="global_nav_search_form">
-<input id="mainSearch" type="text" name="q" class=" text focusClear" autocomplete="off" onfocus="ta.call('ta.widgets.typeahead.factory.global',event,this,'SITEWIDECOMBINEDV2','ta.widgets.typeahead.events.onSelectGlobalTypeAhead',{zIndex:203,maxChoices:16,minLength:3, showPrompt: false, isRefreshNav: true, showOnlyTypedChoices:true,geo:''});                       return ta.call('ta.common.search.clearOnFocus',event);" onblur="return ta.call('ta.common.search.defaultOnBlur',event);" onkeyup="if ((event.keyCode||event.which)==13) ta.trackEventOnPage('Masthead_Search', ta.common.header.isElementPersistent('crumbs') ? 'click_PersistentNav' : 'click', 'Enter', 0)" value="Search for a city, hotel, etc." data-ghosttext="Search for a city, hotel, etc.">
-<input class="sprite-search_mag_glass" type="image" src="http://c1.tacdn.com/img2/x.gif" onclick="ta.trackEventOnPage('Masthead_Search', ta.common.header.isElementPersistent('crumbs') ? 'click_PersistentNav' : 'click', 'Button', 0); if (event.clientY) { ta.id('global_nav_search_form').elements['pid'].value=3825; }" name="sub-search">
+<input id="mainSearch" type="text" name="q" class="text    focusClear" autocomplete="off" onfocus="if (ta &amp;&amp; ta.common) { 
+               ta.call('ta.common.header.expand', event, this);
+                                                            
+                                                            ta.call('ta.common.header.createTypeAhead', event, this, 'API', '', {showHistory:true, showHistoryOnCreation:true}); 
+                               ta.call('ta.common.search.clearOnFocus', event) }" onblur="if (ta &amp;&amp; ta.common) { ta.call('ta.common.header.contract', event, this);
+                ta.call('ta.common.search.defaultOnBlur', event); }" onkeyup="if (ta &amp;&amp; (event.keyCode || event.which) === 13) ta.trackEventOnPage('Masthead_Search', 'click', 'Enter', 0)" value="Search for a city, hotel, etc." data-ghosttext="Search for a city, hotel, etc.">
+<input class="sprite-search_mag_glass" type="image" src="http://c1.tacdn.com/img2/x.gif" onclick="ta.trackEventOnPage('Masthead_Search', 'click', 'Button', 0); if (event.clientY) { ta.id('global_nav_search_form').elements['pid'].value=3825; }" name="sub-search">
 <input type="hidden" name="geo" value="">
 <input type="hidden" name="pid" value="3826">
 <input type="hidden" name="returnTo" value="http%3A__2F____2F__www__2E__tripadvisor__2E__com__2E__sg__2F__pages__2F__privacy__2E__html">
 </form>
+</div>
 </div>
 <ul class="breadcrumbs">
 </ul>
@@ -1468,9 +1414,8 @@ Your Friends <span id="FBL" class="sprite-facebook15x15"></span>
 <div class="easyClear"></div>
 </div>
 <div id="MAINWRAP">
-<div id="SAVES" style="display: none;">
-</div>
-<div id="MAIN" class="StaticVelocityXmlPage  header_refresh" rel="v:itemreviewed">
+<div id="MAIN" class="StaticVelocityXmlPage
+         header_refresh " rel="v:itemreviewed">
 <div id="LEFTNAV" class="col">
 <div class="lhnHigh onShow">
 <ul>
@@ -1504,7 +1449,7 @@ Terms of Use</a>
 </li>
 <li>
 <a class="k_static" href="/pages/mobile.html">
-Mobile Terms of Use</a>
+Mobile Licenses</a>
 </li>
 <li>
 <a class="k_press_center_home" href="/PressCenter">
@@ -1540,66 +1485,8 @@ Travel Advisories</a>
 </li>
 </ul>
 </div>
-<div id="CMSPOLLBOX" class="bx cmsPoll">
-<div id="CMSPOLL" class="bx-cell p16758">
-<dl>
-<dt>Today's Poll</dt>
-<dd>
-<form action="CMSPollController" name="CMSPollForm" id="CMSPollForm">
-<input type="hidden" name="pollid" value="16758">
-<input type="hidden" name="Action" value="vote">
-<input type="hidden" name="fromServlet" value="StaticVelocityXmlPage">
-<div class="questions">
-<div class="q16757">
-<div class="question">
-Where have you heard about the special events for Visit Malaysia Year 2014?
 </div>
-<div class="answers for8">
-<div class="answer rdoSet">
-<input id="q16757-a0" type="radio" name="radio16757" value="0">
-<label for="q16757-a0">Tourism Malaysia website</label>
-</div>
-<div class="answer rdoSet">
-<input id="q16757-a1" type="radio" name="radio16757" value="1">
-<label for="q16757-a1">Newspapers</label>
-</div>
-<div class="answer rdoSet">
-<input id="q16757-a2" type="radio" name="radio16757" value="2">
-<label for="q16757-a2">Magazines</label>
-</div>
-<div class="answer rdoSet">
-<input id="q16757-a3" type="radio" name="radio16757" value="3">
-<label for="q16757-a3">TV/Radio</label>
-</div>
-<div class="answer rdoSet">
-<input id="q16757-a4" type="radio" name="radio16757" value="4">
-<label for="q16757-a4">Online media</label>
-</div>
-<div class="answer rdoSet">
-<input id="q16757-a5" type="radio" name="radio16757" value="5">
-<label for="q16757-a5">Social media – Facebook etc</label>
-</div>
-<div class="answer rdoSet">
-<input id="q16757-a6" type="radio" name="radio16757" value="6">
-<label for="q16757-a6">Advertisements</label>
-</div>
-<div class="answer rdoSet">
-<input id="q16757-a7" type="radio" name="radio16757" value="7">
-<label for="q16757-a7">I have not heard about it</label>
-</div>
-</div>
-</div>
-</div>
-<div class="vote wrap">
-<a class="js_ajaxSubmit form_CMSPollForm tgt_CMSPOLLBOX method_get sprite-gradient1x27_gry" href="CMSPollController">Vote Now</a>
-</div>
-</form>
-</dd>
-</dl>
-</div>
-</div>
-</div>
-<div id="BODYCON" class="col poolA adjust_padding" typeof="v:Organization">
+<div id="BODYCON" class="col poolC adjust_padding new_meta_chevron_v2" typeof="v:Organization">
 <div class="wrpHeader">
 </div>
 <style type="text/css">
@@ -1663,7 +1550,7 @@ We also may periodically obtain both personal and non-personal information about
 </p>
 <p>When you first visit TripAdvisor, you will see an option to turn off Instant Personalization in just one click. If you decide to turn it off at a later date, you can do so by first logging into Facebook and clicking on the disable link on <a href="http://www.tripadvisor.com.sg/instantpersonalization?frame=deauth">this page</a>, or by scrolling over the “Learn More” link on the top of the page on TripAdvisor and clicking on “How to turn off personalization”. You can also turn off Instant Personalization by editing your privacy settings on Facebook. Please note that, if you have Facebook friends who are using TripAdvisor, they may also have shared information about you with us through Facebook. If you wish to prevent that sharing, you can do so by editing your Facebook privacy settings.
 </p>
-<p><a href="http://www.facebook.com/instantpersonalization/">Learn more about Instant Personalization</a> on Facebook or read TripAdvisor’s <a href="http://www.tripadvisor.com.sg/vpages/ip_faq.html">Instant Personalization FAQ’s.</a></p>
+<p><a rel="nofollow" href="http://www.facebook.com/instantpersonalization/">Learn more about Instant Personalization</a> on Facebook or read TripAdvisor’s <a href="http://www.tripadvisor.com.sg/vpages/ip_faq.html">Instant Personalization FAQ’s.</a></p>
 <h4>Automatic Collection of Information.</h4>
 <p>
 We automatically collect some information about your computer when you visit TripAdvisor. For example, we will collect session data, including your IP address, Web browser software, and referring Web site. We also may collect information about your online activity, such as content viewed and pages visited. One of our goals in collecting this automatic information is to help us understand the interests of our users and customize your user experience.
@@ -1852,11 +1739,11 @@ This Privacy Policy is effective as of July 1, 2011
 <div class="citydtlname">Hong Kong Hotels</div>
 </a>
 <a href="/Hotels-g294217-Hong_Kong-Hotels.html" class="photo_link">
-<div class="sizedThumb " style="height: 111px; width: 170px">
-<img id="lazyload_-1881105085_0" height="111" style="height: 111px; width: 186px; margin-left: -8px;" alt="Hong Kong" width="170" class="photo_image">
+<div class="sizedThumb  " style="height: 111px; width: 170px">
+<img id="lazyload_1871314766_0" height="111" style="height: 111px; width: 186px; margin-left: -8px;" alt="Hong Kong" width="170" class="photo_image">
 </div>
 <div class="transbox">
-<div class="citydtlreviews">200,665 reviews</div>
+<div class="citydtlreviews">240,540 reviews</div>
 </div>
 </a>
 </div>
@@ -1867,11 +1754,11 @@ This Privacy Policy is effective as of July 1, 2011
 <div class="citydtlname">Batam Hotels</div>
 </a>
 <a href="/Hotels-g297717-Batam_Riau_Archipelago_Riau_Islands_Province-Hotels.html" class="photo_link">
-<div class="sizedThumb " style="height: 112px; width: 170px">
-<img id="lazyload_-1881105085_1" height="112" style="height: 122px; width: 170px;" alt="Batam" width="170" class="photo_image">
+<div class="sizedThumb  " style="height: 112px; width: 170px">
+<img id="lazyload_1871314766_1" height="112" style="height: 122px; width: 170px;" alt="Batam" width="170" class="photo_image">
 </div>
 <div class="transbox">
-<div class="citydtlreviews">5,392 reviews</div>
+<div class="citydtlreviews">6,990 reviews</div>
 </div>
 </a>
 </div>
@@ -1881,25 +1768,25 @@ This Privacy Policy is effective as of July 1, 2011
 <div class="citydtlname">Bintan Island Hotels</div>
 </a>
 <a href="/Hotels-g297718-Bintan_Island_Riau_Archipelago_Riau_Islands_Province-Hotels.html" class="photo_link">
-<div class="sizedThumb " style="height: 244px; width: 360px">
-<img id="lazyload_-1881105085_2" height="244" style="height: 269px; width: 360px;" alt="Bintan Island" width="360" class="photo_image">
+<div class="sizedThumb  " style="height: 244px; width: 360px">
+<img id="lazyload_1871314766_2" height="244" style="height: 269px; width: 360px;" alt="Bintan Island" width="360" class="photo_image">
 </div>
 <div class="transbox">
-<div class="citydtlreviews">6,211 reviews</div>
+<div class="citydtlreviews">7,271 reviews</div>
 </div>
 </a>
 </div>
 <div class="singlecol_l">
 <div class="smallbox">
-<a href="/Hotels-g317121-Tagaytay_Calabarzon_Region_Luzon-Hotels.html" class="city_link">
+<a href="/Hotels-g317121-Tagaytay_Cavite_Province_Calabarzon_Region_Luzon-Hotels.html" class="city_link">
 <div class="citydtlname">Tagaytay Hotels</div>
 </a>
-<a href="/Hotels-g317121-Tagaytay_Calabarzon_Region_Luzon-Hotels.html" class="photo_link">
-<div class="sizedThumb " style="height: 112px; width: 170px">
-<img id="lazyload_-1881105085_3" height="112" style="height: 127px; width: 170px;" alt="Tagaytay" width="170" class="photo_image">
+<a href="/Hotels-g317121-Tagaytay_Cavite_Province_Calabarzon_Region_Luzon-Hotels.html" class="photo_link">
+<div class="sizedThumb  " style="height: 112px; width: 170px">
+<img id="lazyload_1871314766_3" height="112" style="height: 127px; width: 170px;" alt="Tagaytay" width="170" class="photo_image">
 </div>
 <div class="transbox">
-<div class="citydtlreviews">4,203 reviews</div>
+<div class="citydtlreviews">5,439 reviews</div>
 </div>
 </a>
 </div>
@@ -1908,11 +1795,11 @@ This Privacy Policy is effective as of July 1, 2011
 <div class="citydtlname">Langkawi Hotels</div>
 </a>
 <a href="/Hotels-g298283-Langkawi_Langkawi_District_Kedah-Hotels.html" class="photo_link">
-<div class="sizedThumb " style="height: 111px; width: 170px">
-<img id="lazyload_-1881105085_4" height="111" style="height: 111px; width: 186px; margin-left: -8px;" alt="Langkawi" width="170" class="photo_image">
+<div class="sizedThumb  " style="height: 111px; width: 170px">
+<img id="lazyload_1871314766_4" height="111" style="height: 111px; width: 186px; margin-left: -8px;" alt="Langkawi" width="170" class="photo_image">
 </div>
 <div class="transbox">
-<div class="citydtlreviews">43,669 reviews</div>
+<div class="citydtlreviews">52,467 reviews</div>
 </div>
 </a>
 </div>
@@ -1923,11 +1810,11 @@ This Privacy Policy is effective as of July 1, 2011
 <div class="citydtlname">Lombok Hotels</div>
 </a>
 <a href="/Hotels-g297733-Lombok_West_Nusa_Tenggara-Hotels.html" class="photo_link">
-<div class="sizedThumb " style="height: 112px; width: 170px">
-<img id="lazyload_-1881105085_5" height="112" style="height: 127px; width: 170px;" alt="Lombok" width="170" class="photo_image">
+<div class="sizedThumb  " style="height: 112px; width: 170px">
+<img id="lazyload_1871314766_5" height="112" style="height: 127px; width: 170px;" alt="Lombok" width="170" class="photo_image">
 </div>
 <div class="transbox">
-<div class="citydtlreviews">30,325 reviews</div>
+<div class="citydtlreviews">39,771 reviews</div>
 </div>
 </a>
 </div>
@@ -1936,11 +1823,11 @@ This Privacy Policy is effective as of July 1, 2011
 <div class="citydtlname">Las Vegas Hotels</div>
 </a>
 <a href="/Hotels-g45963-Las_Vegas_Nevada-Hotels.html" class="photo_link">
-<div class="sizedThumb " style="height: 111px; width: 170px">
-<img id="lazyload_-1881105085_6" height="111" style="height: 111px; width: 186px; margin-left: -8px;" alt="Las Vegas" width="170" class="photo_image">
+<div class="sizedThumb  " style="height: 111px; width: 170px">
+<img id="lazyload_1871314766_6" height="111" style="height: 111px; width: 186px; margin-left: -8px;" alt="Las Vegas" width="170" class="photo_image">
 </div>
 <div class="transbox">
-<div class="citydtlreviews">620,131 reviews</div>
+<div class="citydtlreviews">749,277 reviews</div>
 </div>
 </a>
 </div>
@@ -1952,11 +1839,11 @@ This Privacy Policy is effective as of July 1, 2011
 <div class="citydtlname">Sentosa Island Hotels</div>
 </a>
 <a href="/Hotels-g294264-Sentosa_Island-Hotels.html" class="photo_link">
-<div class="sizedThumb " style="height: 112px; width: 170px">
-<img id="lazyload_-1881105085_7" height="112" style="height: 127px; width: 170px;" alt="Sentosa Island" width="170" class="photo_image">
+<div class="sizedThumb  " style="height: 112px; width: 170px">
+<img id="lazyload_1871314766_7" height="112" style="height: 127px; width: 170px;" alt="Sentosa Island" width="170" class="photo_image">
 </div>
 <div class="transbox">
-<div class="citydtlreviews">16,838 reviews</div>
+<div class="citydtlreviews">20,489 reviews</div>
 </div>
 </a>
 </div>
@@ -1965,11 +1852,11 @@ This Privacy Policy is effective as of July 1, 2011
 <div class="citydtlname">Singapore Hotels</div>
 </a>
 <a href="/Hotels-g294265-Singapore-Hotels.html" class="photo_link">
-<div class="sizedThumb " style="height: 111px; width: 170px">
-<img id="lazyload_-1881105085_8" height="111" style="height: 111px; width: 186px; margin-left: -8px;" alt="Singapore" width="170" class="photo_image">
+<div class="sizedThumb  " style="height: 111px; width: 170px">
+<img id="lazyload_1871314766_8" height="111" style="height: 111px; width: 186px; margin-left: -8px;" alt="Singapore" width="170" class="photo_image">
 </div>
 <div class="transbox">
-<div class="citydtlreviews">228,010 reviews</div>
+<div class="citydtlreviews">284,144 reviews</div>
 </div>
 </a>
 </div>
@@ -1978,11 +1865,11 @@ This Privacy Policy is effective as of July 1, 2011
 <div class="citydtlname">Kuala Lumpur Hotels</div>
 </a>
 <a href="/Hotels-g298570-Kuala_Lumpur_Wilayah_Persekutuan-Hotels.html" class="photo_link">
-<div class="sizedThumb " style="height: 111px; width: 170px">
-<img id="lazyload_-1881105085_9" height="111" style="height: 111px; width: 186px; margin-left: -8px;" alt="Kuala Lumpur" width="170" class="photo_image">
+<div class="sizedThumb  " style="height: 111px; width: 170px">
+<img id="lazyload_1871314766_9" height="111" style="height: 111px; width: 186px; margin-left: -8px;" alt="Kuala Lumpur" width="170" class="photo_image">
 </div>
 <div class="transbox">
-<div class="citydtlreviews">120,022 reviews</div>
+<div class="citydtlreviews">146,532 reviews</div>
 </div>
 </a>
 </div>
@@ -1991,11 +1878,11 @@ This Privacy Policy is effective as of July 1, 2011
 <div class="citydtlname">Penang Hotels</div>
 </a>
 <a href="/Hotels-g298302-Penang-Hotels.html" class="photo_link">
-<div class="sizedThumb " style="height: 112px; width: 170px">
-<img id="lazyload_-1881105085_10" height="112" style="height: 112px; width: 170px;" alt="Penang" width="170" class="photo_image">
+<div class="sizedThumb  " style="height: 112px; width: 170px">
+<img id="lazyload_1871314766_10" height="112" style="height: 112px; width: 170px;" alt="Penang" width="170" class="photo_image">
 </div>
 <div class="transbox">
-<div class="citydtlreviews">43,951 reviews</div>
+<div class="citydtlreviews">55,686 reviews</div>
 </div>
 </a>
 </div>
@@ -2004,11 +1891,11 @@ This Privacy Policy is effective as of July 1, 2011
 <div class="citydtlname">Dubai Hotels</div>
 </a>
 <a href="/Hotels-g295424-Dubai_Emirate_of_Dubai-Hotels.html" class="photo_link">
-<div class="sizedThumb " style="height: 111px; width: 170px">
-<img id="lazyload_-1881105085_11" height="111" style="height: 111px; width: 186px; margin-left: -8px;" alt="Dubai" width="170" class="photo_image">
+<div class="sizedThumb  " style="height: 111px; width: 170px">
+<img id="lazyload_1871314766_11" height="111" style="height: 111px; width: 186px; margin-left: -8px;" alt="Dubai" width="170" class="photo_image">
 </div>
 <div class="transbox">
-<div class="citydtlreviews">209,045 reviews</div>
+<div class="citydtlreviews">273,017 reviews</div>
 </div>
 </a>
 </div>
@@ -2016,15 +1903,15 @@ This Privacy Policy is effective as of July 1, 2011
 <div class="doublecol">
 <div class="singlecol_l">
 <div class="smallbox">
-<a href="/Hotels-g298445-Baguio_Cordillera_Region_Luzon-Hotels.html" class="city_link">
+<a href="/Hotels-g298445-Baguio_Benguet_Province_Cordillera_Region_Luzon-Hotels.html" class="city_link">
 <div class="citydtlname">Baguio Hotels</div>
 </a>
-<a href="/Hotels-g298445-Baguio_Cordillera_Region_Luzon-Hotels.html" class="photo_link">
-<div class="sizedThumb " style="height: 112px; width: 170px">
-<img id="lazyload_-1881105085_12" height="112" style="height: 127px; width: 170px;" alt="Baguio" width="170" class="photo_image">
+<a href="/Hotels-g298445-Baguio_Benguet_Province_Cordillera_Region_Luzon-Hotels.html" class="photo_link">
+<div class="sizedThumb  " style="height: 112px; width: 170px">
+<img id="lazyload_1871314766_12" height="112" style="height: 127px; width: 170px;" alt="Baguio" width="170" class="photo_image">
 </div>
 <div class="transbox">
-<div class="citydtlreviews">4,901 reviews</div>
+<div class="citydtlreviews">6,824 reviews</div>
 </div>
 </a>
 </div>
@@ -2033,11 +1920,11 @@ This Privacy Policy is effective as of July 1, 2011
 <div class="citydtlname">Bali Hotels</div>
 </a>
 <a href="/Hotels-g294226-Bali-Hotels.html" class="photo_link">
-<div class="sizedThumb " style="height: 111px; width: 170px">
-<img id="lazyload_-1881105085_13" height="111" style="height: 111px; width: 186px; margin-left: -8px;" alt="Bali" width="170" class="photo_image">
+<div class="sizedThumb  " style="height: 111px; width: 170px">
+<img id="lazyload_1871314766_13" height="111" style="height: 111px; width: 186px; margin-left: -8px;" alt="Bali" width="170" class="photo_image">
 </div>
 <div class="transbox">
-<div class="citydtlreviews">392,870 reviews</div>
+<div class="citydtlreviews">488,866 reviews</div>
 </div>
 </a>
 </div>
@@ -2048,11 +1935,11 @@ This Privacy Policy is effective as of July 1, 2011
 <div class="citydtlname">Bangkok Hotels</div>
 </a>
 <a href="/Hotels-g293916-Bangkok-Hotels.html" class="photo_link">
-<div class="sizedThumb " style="height: 111px; width: 170px">
-<img id="lazyload_-1881105085_14" height="111" style="height: 111px; width: 186px; margin-left: -8px;" alt="Bangkok" width="170" class="photo_image">
+<div class="sizedThumb  " style="height: 111px; width: 170px">
+<img id="lazyload_1871314766_14" height="111" style="height: 111px; width: 186px; margin-left: -8px;" alt="Bangkok" width="170" class="photo_image">
 </div>
 <div class="transbox">
-<div class="citydtlreviews">354,380 reviews</div>
+<div class="citydtlreviews">425,787 reviews</div>
 </div>
 </a>
 </div>
@@ -2061,11 +1948,11 @@ This Privacy Policy is effective as of July 1, 2011
 <div class="citydtlname">Istanbul Hotels</div>
 </a>
 <a href="/Hotels-g293974-Istanbul-Hotels.html" class="photo_link">
-<div class="sizedThumb " style="height: 111px; width: 170px">
-<img id="lazyload_-1881105085_15" height="111" style="height: 111px; width: 186px; margin-left: -8px;" alt="Istanbul" width="170" class="photo_image">
+<div class="sizedThumb  " style="height: 111px; width: 170px">
+<img id="lazyload_1871314766_15" height="111" style="height: 111px; width: 186px; margin-left: -8px;" alt="Istanbul" width="170" class="photo_image">
 </div>
 <div class="transbox">
-<div class="citydtlreviews">294,553 reviews</div>
+<div class="citydtlreviews">360,364 reviews</div>
 </div>
 </a>
 </div>
@@ -2075,11 +1962,11 @@ This Privacy Policy is effective as of July 1, 2011
 <div class="citydtlname">Johor Bahru Hotels</div>
 </a>
 <a href="/Hotels-g298278-Johor_Bahru_Johor_Bahru_District_Johor-Hotels.html" class="photo_link">
-<div class="sizedThumb " style="height: 243px; width: 360px">
-<img id="lazyload_-1881105085_16" height="243" style="height: 243px; width: 405px; margin-left: -22px;" alt="Johor Bahru" width="360" class="photo_image">
+<div class="sizedThumb  " style="height: 243px; width: 360px">
+<img id="lazyload_1871314766_16" height="243" style="height: 243px; width: 405px; margin-left: -22px;" alt="Johor Bahru" width="360" class="photo_image">
 </div>
 <div class="transbox">
-<div class="citydtlreviews">7,855 reviews</div>
+<div class="citydtlreviews">10,267 reviews</div>
 </div>
 </a>
 </div>
@@ -2089,11 +1976,11 @@ This Privacy Policy is effective as of July 1, 2011
 <div class="citydtlname">Pattaya Hotels</div>
 </a>
 <a href="/Hotels-g293919-Pattaya_Chonburi_Province-Hotels.html" class="photo_link">
-<div class="sizedThumb " style="height: 111px; width: 170px">
-<img id="lazyload_-1881105085_17" height="111" style="height: 111px; width: 186px; margin-left: -8px;" alt="Pattaya" width="170" class="photo_image">
+<div class="sizedThumb  " style="height: 111px; width: 170px">
+<img id="lazyload_1871314766_17" height="111" style="height: 111px; width: 186px; margin-left: -8px;" alt="Pattaya" width="170" class="photo_image">
 </div>
 <div class="transbox">
-<div class="citydtlreviews">52,542 reviews</div>
+<div class="citydtlreviews">67,391 reviews</div>
 </div>
 </a>
 </div>
@@ -2104,16 +1991,16 @@ This Privacy Policy is effective as of July 1, 2011
 <div class="citydtlname">Phuket Hotels</div>
 </a>
 <a href="/Hotels-g293920-Phuket-Hotels.html" class="photo_link">
-<div class="sizedThumb " style="height: 111px; width: 170px">
-<img id="lazyload_-1881105085_18" height="111" style="height: 111px; width: 186px; margin-left: -8px;" alt="Phuket" width="170" class="photo_image">
+<div class="sizedThumb  " style="height: 111px; width: 170px">
+<img id="lazyload_1871314766_18" height="111" style="height: 111px; width: 186px; margin-left: -8px;" alt="Phuket" width="170" class="photo_image">
 </div>
 <div class="transbox">
-<div class="citydtlreviews">194,805 reviews</div>
+<div class="citydtlreviews">244,220 reviews</div>
 </div>
 </a>
 </div>
 </div>
-</div> </div> </div> <div class="textbelow">Plan and have the perfect trip! TripAdvisor is the world’s largest travel site with more than 125 million reviews and opinions by travellers around the world, you’ll find the best places to eat, sleep, and play, wherever you go!</div>
+</div> </div> </div> <div class="textbelow">Plan and have the perfect trip! TripAdvisor is the world’s largest travel site with more than 150 million reviews and opinions by travellers around the world, you’ll find the best places to eat, sleep, and play, wherever you go!</div>
 </div>
 </div> </div>
 <div id="FOOT_CONTAINER">
@@ -2123,7 +2010,7 @@ This Privacy Policy is effective as of July 1, 2011
 <div class="block">
 <dl class="sep brand">
 <dt>
-<img id="lazyload_-1881105085_19" height="22" alt="TripAdvisor" width="133">
+<img id="lazyload_1871314766_19" height="20" alt="TripAdvisor" width="132">
 </dt>
 <dd class="meta">
 Reviews and advice on hotels, resorts, flights, restaurants, holiday packages, and lots more!
@@ -2135,7 +2022,8 @@ Reviews and advice on hotels, resorts, flights, restaurants, holiday packages, a
 </div>
 <div class="sep legal">
 <div class="copyright">
-© 2013 TripAdvisor LLC All rights reserved. TripAdvisor <a href="/pages/terms.html">Terms of Use</a> and <a href="/pages/privacy.html">Privacy Policy</a>.</div>
+© 2014 TripAdvisor LLC All rights reserved. TripAdvisor <a href="/pages/terms.html">Terms of Use</a> and <a href="/pages/privacy.html">Privacy Policy</a>.
+</div>
 <div class="vfm_disclaimer">
 </div>
 <div id="PDISCLAIMER" class="disclaimer">
@@ -2159,14 +2047,12 @@ ta.store('ta.commerce.suppress_commerce_impressions.enabled', true);
 </script>
 <script type="text/javascript">
 ta.store('typeahead.typeahead2_mixed_ui', true);
-ta.store('typeahead.destination_icons', "http://c1.tacdn.com/img2/icons/typeahead/destination_icons.png");
-ta.store('typeahead.hit', "Hit"); // Hit
-ta.store('typeahead.enter', "ENTER"); // ENTER
-ta.store('typeahead.startTyping', "Start typing — we'll start your search!"); // Start typing - we'll start your search!
-ta.store('typeahead.searchForPrompt', "Search for"); // Search for
-</script>
-<script type="text/javascript">
 ta.store('typeahead.elasticsearch_include_geo_pages', true);
+ta.store('typeahead.typeahead2_geo_segmented_ui', true);
+ta.store('typeahead.destination_icons', "http://c1.tacdn.com/img2/icons/typeahead/destination_icons.png");
+ta.store('typeahead.geoArea', ' area');       ta.store('typeahead.worldwide', 'Worldwide');       ta.store('typeahead.noResultsFound', 'No results found.');       ta.store('typeahead.searchForPrompt', "Search for");       ta.store('typeahead.searchMore', 'Find more results for "%"');
+ta.store('typeahead.history', "Recently viewed");
+ta.store('typeahead.recentHistoryList', []);
 </script>
 <script type="text/javascript">
 ta.store('metaCheckRatesUpdateDivInline', 'PROVIDER_BLOCK_INLINE');
@@ -2179,8 +2065,16 @@ ta.store('metaCheckRatesUpdateDiv', 'PROVIDER_BLOCK');
 ta.store('checkrates.meta_ui_sk_box_v3', true)
 ta.store('checkrates.one_second_xsell', true);
 </script>
+<script>
+ta.store("meta_ui_lightbox_chevron.enabled", true);
+ta.store("lightbox_improvements", true);
+ta.store("checkrates.hr_bc_see_all_click.lb", true);
+</script>
+<script>
+ta.store("marketing_text_in_lightbox.enabled", true);
+</script>
 <script type="text/javascript">
-var metaCheckRatesCSS = 'http://c1.tacdn.com/css2/meta_ui_sk_box_v3-v12983203992a.css';
+var metaCheckRatesCSS = 'http://c1.tacdn.com/css2/meta_ui_sk_box_chevron-v13614343272a.css';
 ta.store('metaCheckRatesFeatureEnabled', true);
 </script>
 <script type="text/javascript">
@@ -2188,11 +2082,11 @@ ta.store('mapProviderFeature.maps_api','ta-maps-bing');
 </script>
 <script type="text/javascript">
 ta.store('meta.dropdownMiniMetaHotels', true);
-var dropdownMetaCSS = "http://c1.tacdn.com/css2/meta_drop_down_overlay-en_SG-v12051155200a.css";
+var dropdownMetaCSS = "http://c1.tacdn.com/css2/meta_drop_down_overlay-en_SG-v1615726893a.css";
 </script>
 <script type="text/javascript">
 ta.store('meta.dropdownMiniMeta', true);
-var dropdownMetaCSS = "http://c1.tacdn.com/css2/meta_drop_down_overlay-en_SG-v12051155200a.css";
+var dropdownMetaCSS = "http://c1.tacdn.com/css2/meta_drop_down_overlay-en_SG-v1615726893a.css";
 </script>
 <script type="text/javascript">
 ta.store('metaDatePickerEnabled', true);
@@ -2201,7 +2095,7 @@ ta.store('multiDP.skipDates', "Search without specific dates");         ta.store
 ta.store('multiDP.outDate', "");
 ta.store('multiDP.multiNightsText', "2 nights");         ta.store('multiDP.singleNightText', "1 night");         ta.store('calendar.preDateText', "dd/mm/yyyy");
 ta.store('multiDP.adultsCount', "2");
-ta.store('multiDP.singleAdultsText', "1 guest");         ta.store('multiDP.multiAdultsText', "2 guests");       	        ta.store('multiDP.enterDatesText', "Enter dates");         ta.store('multiDP.checkIn', "Check-in");         ta.store('multiDP.checkOut', "Check-out");         ta.store('multiDP.isMondayFirstDayOfWeek', true);
+ta.store('multiDP.singleAdultsText', "1 guest");         ta.store('multiDP.multiAdultsText', "2 guests");         ta.store('multiDP.enterDatesText', "Enter dates");                 ta.store('multiDP.checkIn', "Check-in");         ta.store('multiDP.checkOut', "Check-out");         ta.store('multiDP.isMondayFirstDayOfWeek', true);
 ta.store('multiDP.dateSeparator', " - ");
 ta.store('multiDP.dateRangeEllipsis', "Searching %%%...");         ta.store('multiDP.abbrevMonthList', ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]);                   ta.store('multiDP.two_field', true);
 ta.store('multiDP.v4', false);
@@ -2213,11 +2107,11 @@ ta.store('multiDP.checkIn', "dd/mm/yyyy");             ta.store('multiDP.checkOu
 <script type="text/javascript">
 (function(window,ta,undefined){
 try {
-if(ta){
-ta.uid = 'UsJOwQreApcAAEeS8NMAAAAR';
+ta = window.ta = window.ta || {};
+ta.uid = 'U7HriwokISgAADP@eRgAAAAY';
+ta.userLoggedIn = false;
 if (ta.prerender && ta.prerender._init){
 ta.prerender._init(true);
-}
 }
 if(ta&&ta.store){
 ta.store('google_analytics_events',true);
@@ -2231,15 +2125,15 @@ _gaq.push(['_addIgnoredRef','tripadvisor']);
 _gaq.push(['_addIgnoredRef','daodao']);
 _gaq.push(['_setCustomVar',2,'Member','-',3]);
 _gaq.push(['_setCustomVar',5,'EntryServlet','Home',3]);
-_gaq.push(['_setCustomVar',6,'Pool','A',3]);
-_gaq.push(['_setCustomVar',7,'Slice','2581',3]);
+_gaq.push(['_setCustomVar',6,'Pool','C',3]);
+_gaq.push(['_setCustomVar',7,'Slice','2457',3]);
 _gaq.push(['_setCustomVar',18,'MCID','TripAdvisor-0',3]);
 _gaq.push(['_setCustomVar',21,'PageType','Desktop Page',3]);
 _gaq.push(['_setCustomVar',22,'DeviceType','Desktop',3]);
 _gaq.push(['_setCustomVar',23,'IPGeo','San Francisco-60713',3]);
 _gaq.push(['_setCustomVar',24,'ProductType','Browser',3]);
-_gaq.push(['_setCustomVar',48,'WebServer','web151a',3]);
-pageData=ta.analytics._JSON_parse('{\"cv\":[[\"_deleteCustomVar\",1],[\"_deleteCustomVar\",47],[\"_setCustomVar\",20,\"PP\",\"-287-277-251-274-\",3],[\"_deleteCustomVar\",12],[\"_deleteCustomVar\",25],[\"_deleteCustomVar\",10],[\"_deleteCustomVar\",8],[\"_deleteCustomVar\",19],[\"_deleteCustomVar\",14],[\"_deleteCustomVar\",13],[\"_deleteCustomVar\",11]],\"url\":\"/StaticVelocityXmlPage?xml=privacy.xml\"}');
+_gaq.push(['_setCustomVar',48,'WebServer','web621a',3]);
+pageData=ta.analytics._JSON_parse('{\"cv\":[[\"_deleteCustomVar\",1],[\"_deleteCustomVar\",47],[\"_setCustomVar\",20,\"PP\",\"-287-277-251-274-\",3],[\"_deleteCustomVar\",10],[\"_deleteCustomVar\",8],[\"_deleteCustomVar\",25],[\"_deleteCustomVar\",11],[\"_deleteCustomVar\",13],[\"_deleteCustomVar\",14],[\"_deleteCustomVar\",12],[\"_deleteCustomVar\",19]],\"url\":\"/StaticVelocityXmlPage?xml=privacy.xml\"}');
 pageDataStack.push(pageData);
 if(ta.keep){
 ta.keep("partials.pageProperties","287-277-251-274");
@@ -2266,26 +2160,26 @@ ta.util.error.record(e,'global_ga.vm');
 </script>
 <script type="text/javascript">
 var lazyImgs = [
-{"id":"lazyload_-1881105085_0","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-f/03/9b/2d/d3/hong-kong.jpg"}
-,   {"id":"lazyload_-1881105085_1","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-f/01/18/7b/c2/rocks-and-sand-around.jpg"}
-,   {"id":"lazyload_-1881105085_2","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-s/01/42/cd/35/bintan.jpg"}
-,   {"id":"lazyload_-1881105085_3","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-f/01/43/1b/52/the-white-sand-beach.jpg"}
-,   {"id":"lazyload_-1881105085_4","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-f/03/9b/2f/c1/langkawi.jpg"}
-,   {"id":"lazyload_-1881105085_5","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-f/01/8b/2b/23/tanjung-aan.jpg"}
-,   {"id":"lazyload_-1881105085_6","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-f/03/9b/2d/de/las-vegas.jpg"}
-,   {"id":"lazyload_-1881105085_7","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-f/01/02/39/8f/famous-merlion-statue.jpg"}
-,   {"id":"lazyload_-1881105085_8","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-f/03/9b/2e/11/singapore.jpg"}
-,   {"id":"lazyload_-1881105085_9","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-f/03/9b/2f/bd/kuala-lumpur.jpg"}
-,   {"id":"lazyload_-1881105085_10","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-f/01/1c/37/1f/sunset-dinner-cruise.jpg"}
-,   {"id":"lazyload_-1881105085_11","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-f/03/9b/2d/c5/dubai.jpg"}
-,   {"id":"lazyload_-1881105085_12","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-f/01/45/d3/3e/street-dance-parade.jpg"}
-,   {"id":"lazyload_-1881105085_13","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-f/03/9b/2f/36/bali.jpg"}
-,   {"id":"lazyload_-1881105085_14","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-f/03/9b/2d/ad/bangkok.jpg"}
-,   {"id":"lazyload_-1881105085_15","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-f/03/9b/2d/d7/istanbul.jpg"}
-,   {"id":"lazyload_-1881105085_16","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-s/03/9b/2f/a9/johor-bahru.jpg"}
-,   {"id":"lazyload_-1881105085_17","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-f/03/9b/2f/fc/pattaya.jpg"}
-,   {"id":"lazyload_-1881105085_18","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-f/03/9b/30/02/phuket.jpg"}
-,   {"id":"lazyload_-1881105085_19","scroll":true,"priority":100,"data":"http://c1.tacdn.com/img2/branding/identityFOOT.png"}
+{"id":"lazyload_1871314766_0","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-f/03/9b/2d/d3/hong-kong.jpg"}
+,   {"id":"lazyload_1871314766_1","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-f/01/18/7b/c2/rocks-and-sand-around.jpg"}
+,   {"id":"lazyload_1871314766_2","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-s/01/42/cd/35/bintan.jpg"}
+,   {"id":"lazyload_1871314766_3","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-f/01/43/1b/52/the-white-sand-beach.jpg"}
+,   {"id":"lazyload_1871314766_4","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-f/03/9b/2f/c1/langkawi.jpg"}
+,   {"id":"lazyload_1871314766_5","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-f/01/8b/2b/23/tanjung-aan.jpg"}
+,   {"id":"lazyload_1871314766_6","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-f/03/9b/2d/de/las-vegas.jpg"}
+,   {"id":"lazyload_1871314766_7","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-f/01/02/39/8f/famous-merlion-statue.jpg"}
+,   {"id":"lazyload_1871314766_8","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-f/03/9b/2e/11/singapore.jpg"}
+,   {"id":"lazyload_1871314766_9","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-f/03/9b/2f/bd/kuala-lumpur.jpg"}
+,   {"id":"lazyload_1871314766_10","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-f/01/1c/37/1f/sunset-dinner-cruise.jpg"}
+,   {"id":"lazyload_1871314766_11","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-f/03/9b/2d/c5/dubai.jpg"}
+,   {"id":"lazyload_1871314766_12","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-f/01/45/d3/3e/street-dance-parade.jpg"}
+,   {"id":"lazyload_1871314766_13","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-f/03/9b/2f/36/bali.jpg"}
+,   {"id":"lazyload_1871314766_14","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-f/03/9b/2d/ad/bangkok.jpg"}
+,   {"id":"lazyload_1871314766_15","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-f/03/9b/2d/d7/istanbul.jpg"}
+,   {"id":"lazyload_1871314766_16","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-s/03/9b/2f/a9/johor-bahru.jpg"}
+,   {"id":"lazyload_1871314766_17","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-f/03/9b/2f/fc/pattaya.jpg"}
+,   {"id":"lazyload_1871314766_18","tagType":"img","scroll":true,"priority":100,"data":"http://media-cdn.tripadvisor.com/media/photo-f/03/9b/30/02/phuket.jpg"}
+,   {"id":"lazyload_1871314766_19","tagType":"img","scroll":true,"priority":100,"data":"http://c1.tacdn.com/img2/branding/identityFOOT_2014.png"}
 ];
 var lazyHtml = [
 ];
@@ -2294,7 +2188,7 @@ window.setupLazyLoad();
 }, 'lazy load images');
 </script>
 <script type="text/javascript">
-ta.store('abMarkerSet', 't259_mobile_app_persistent_12|t260_sitex_refresh_rollout');
+ta.store('abMarkerSet', '');
 ta.store('facebook.hasPublishActions', "");
 ta.keep('startOffset', '');
 ta.store('page.geo', "");
@@ -2304,7 +2198,7 @@ ta.store('facebook.disableLogin', false);
 ta.store('facebook.apiKey', "f1e687a58f0cdac60b7af2317a5febb3");
 ta.store('facebook.appId', "162729813767876");
 ta.store('facebook.appName', "tripadvisor");
-ta.store('facebook.taServerTime', "1388465857");
+ta.store('facebook.taServerTime', "1404169099");
 ta.store('facebook.skip.session.check',"false");
 ta.store("facebook.invalidFBCreds", true);
 window.fbAsyncInit = ta.support.Facebook.init;
@@ -2324,10 +2218,8 @@ ipWelcome.inject(head, 'top');
 ta.queueForLoad(ip_adjustHeader, 'ip_adjustHeader');
 ta.store('fb.name', "");
 ta.store('fb.icon', "");
-ta.store('facebook.showWelcomeBar', true);
 ta.keep('facebook.data.request', [
-'IP_HEADER'                    ,              'IP_BAR'
-]);
+'IP_HEADER'       ]);
 ta.keep('facebook.data.request', ['ACTIVITY_COUNT']);
 ta.keep('facebook.onSessionAvail', function () {
 var node = ta.id('MOBHDRLNK');
@@ -2337,6 +2229,7 @@ node.parentNode.removeChild(node);
 }
 });
 ta.queueForLoad( function() { Cookie.writeSession('FBH', sniffFacebook() ? 1 : 2); }, 'SniffFB' );
+ta.store('scrollAd.enableScroll', false );
 if( ta.common && ta.common.ads ) {
 ta.store('scrollAd.enableScroll',  false  );
 ta.store('scrollAd.sbElem', document.getElement('.gridA>.sidebar') || document.getElement('.gridR>.sidebar'));
@@ -2365,7 +2258,7 @@ window.addEvent('scroll', window.ta_handleAdDefer );
 })();
 }
 var avlb_hero_photos = "http://c1.tacdn.com/css2/modules/avlb_hero_photos-v1672090301a.css";
-var floatingMapCSS = "http://c1.tacdn.com/css2/modules/floating_map-v12587033169a.css";
+var floatingMapCSS = "http://c1.tacdn.com/css2/modules/floating_map-v12419345840a.css";
 var t4bSlideshowCSS = "http://c1.tacdn.com/css2/modules/t4b_slideshow-v14112077699a.css";
 var dhtml_cr_redesign_png24 = "http://c1.tacdn.com/css2/overlays/cr_flyout-v12544950678a.css";
 ta.store('checkrates.check_more_re',true);
@@ -2379,28 +2272,75 @@ ta.store('metaUI.disablePriceTabAutoToggle', true );
 ta.store('checkrates.micro_meta_above_fold',true);
 ta.store('p13n_client_tracking_tree',true);
 ta.store('useHotelsFilterState', true);
-ta.store('metaUI.isHotelsAvailabilitySort', true);
 ta.store('unavail_maybe_v1', true);
 ta.store('similar_hotels_exit_window_chevron', true);
-ta.store('metaUI.isMetaPriceFilterCalendar', true)
 ta.store('fall_2013_masthead_refresh', true);
+ta.store( 'hotel_highlight_sd_style_disclaimer', true);
+ta.queueForLoad(ta.meta.linkTracking.setup, 'setup meta link tracking event');
 ta.queueForLoad(function() {
 if(typeof js_error_array != "undefined") {
-Array.each(js_error_array, function(js_error) {
+Array.each(js_error_array, function onErrorFuncPost(js_error) {
 if(js_error && js_error.msg) {
 var jsMsg = js_error.msg;
 delete js_error['msg'];
+var jsErr = null;
+if(js_error.error) {
+jsErr = js_error.error;
+delete js_error['error'];
+}
 if(jsMsg.indexOf('ta is not defined') == -1) {
-ta.util.error.record(null, "window.onerror:: " + jsMsg, null, js_error);
+ta.util.error.record(jsErr, "window.onerror:: " + jsMsg, null, js_error);
 }
 }
 });
 ta.store('ta.onload.errors', true);
 }
+ta.store('ta.js_error_array.processed', true);
 }, 'record onload errors');
+try {
+if (window.ta && ta.store) {
+if(document.location.protocol != "https:") {
+ta.store("ta.common.dmpFeatures.dmpEnabled", true);
+ta.store("ta.common.dmpFeatures.dmpBlueKaiEnabled", true);
+ta.store("ta.common.dmpFeatures.dmpPerfLoggingEnabled", false);
+ta.store("ta.common.dmpFeatures.dmpConsoleDebugEnabled", false);
+if (ta.common && ta.common.dmp && ta.common.dmp.bluekai) {
+ta.store("ta.common.dmpFeatures.activeDMP", ta.common.dmp.bluekai);
+}
+else if (ta && ta.util && ta.util.error && ta.util.error.record) {
+ta.util.error.record.apply(this, [null, "DMP JavaScript not found"]);
+}
+ta.store("ta.common.dmp.taUUID", "EV30OGKlG4LW3c8byNgVGsab0yT9k2MiS5PKhcGtnzs6IlLNd9qbhQ==");
+ta.store("ta.common.dmpBehaviors", {
+"ServletName" : [
+"StaticVelocityXmlPage"
+]
+}
+);
+if (ta.queueForLoad && ta.common && ta.common.dmp) {
+ta.queueForLoad(function() {
+ta.common.dmp.init();
+},
+"initialize DMP framework"
+);
+}
+}
+}
+}
+catch(e) {
+if (window.ta && ta.util && ta.util.error && ta.util.error.record) {
+ta.util.error.record.apply(this, [e, "generic exception in ads_dmp_js.vm"]);
+}
+}
+;
+ta.store('access_control_headers', true);
+ta.store('secure_registration.enabled',true);
+ta.store( 'meta.collapseDisclaimer', true );
+ta.store( 'meta.disclaimerLinkText', 'Disclaimer' )
+ta.store('restaurant_reserve_ui',true);
 </script>
 <script class="allowAbsoluteUrls" type="text/javascript">
-ta.store('ta.registration.currentUrlDefaults', {"url": "http://www.tripadvisor.com.sg/pages/privacy.html","partnerKey": "1","urlKey": "5219426b643770824"} );
+ta.store('ta.registration.currentUrlDefaults', {'url' : 'http%3A__2F____2F__www__2E__tripadvisor__2E__com__2E__sg__2F__pages__2F__privacy__2E__html','partnerKey' : '1','urlKey' : '5219426b643770824'} );
 </script>
 <script type="text/javascript">
 ta.queueForLoad(function() {
@@ -2412,10 +2352,22 @@ if(emDiv) emDiv.appendChild(em);
 </script>
 <div id="em-script"></div>
 <script type="text/javascript">
-ta.store('remarketing.pixelList', "remarketing_crossmedia,");
+ta.store('remarketing.pixelList', "");
+</script>
+<script type="text/javascript">
+ta.store('ta.isIE11orHigher', false);
+</script>
+<script type="text/javascript">
+ta.store('ta.enable_desktop_js_cors', true);
+</script>
+<script type="text/javascript">
+ta.store('meta.meta_chevron_module_2014', true);
+</script>
+<script type="text/javascript">
+ta.store('hr_to_hh_redirect_on_date_change.enabled', true);
 </script>
 <div id="IP_IFRAME_HOLDER"></div>
 
-<!-- st: 30 dc: 0 sc: 1 -->
-<!-- uid: UsJOwQreApcAAEeS8NMAAAAR -->
+<!-- st: 26 dc: 0 sc: 1 -->
+<!-- uid: U7HriwokISgAADP@eRgAAAAY -->
 </body></html>
