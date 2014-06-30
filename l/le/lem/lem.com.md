@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lem.com privacy policy that was archived on 2013-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131204174052id_/http%3A//www.lem.com/hq/en/content/view/33/112) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lem.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630025435id_/http%3A//www.lem.com/hq/en/content/view/33/112) for the most accurate reproduction.*
 
 # LEM Website - Privacy policy
 
