@@ -1,48 +1,51 @@
-> *The following text is extracted and transformed from the pornstep.com privacy policy that was archived on 2010-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100104163002id_/http%3A//pornstep.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornstep.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630145529id_/http%3A//www.pornstep.com/static/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Pornstep
+# Privacy Policy - pornstep.com
 
-This document details important information regarding the use and disclosure of User Data collected on pornstep.com 
+## pornstep.com Privacy Policy
 
-The security of your Data is very important to pornstep.com and as such we take all appropriate steps to limit the risk that it may be lost, damaged or misused. 
+pornstep.com recognizes that its customers, visitors, users, and others who use pornstep.com value their privacy. This privacy notice details important information regarding the use and disclosure of user information collected on the pornstep.com web site. We provide this privacy notice to help you make an informed decision about whether to use or continue using our site.
 
-This site expressly and strictly limits its membership and/or viewing privliges to adults 18 years of age and over or having attentaind the age of majotity in their comunity. All persons who do not meet tis criteria are strictly forbiden from accessing or viewing the contents of this Site. We do not knowingly seek or collect any personal information or data from persons who have not attained the age of majority. 
+Please note that any video, image, or other content posted at the direction of users onto the pornstep.com site becomes published content and is not considered personally identifiable information subject to this privacy notice. 
 
-DATA COLLECTED 
+**The Information pornstep.com Collects**
 
-  * Personal Information:   
+User-provided information: You provide certain personally identifiable information (such as your name and email address) to pornstep.com when choosing to participate in various activities on the sites such as uploading videos or posting messages.
 
-    * Non-Registered users can watch videos without registering and without any information being collected and processed. Howverver the visitor's IP address will be recorded in the event that there is any misappropriationof information and/or content.
-    *     * Registered Members: Registration is required for uploading videos, and accessing a number of other features. The following personal information is requested at the time of registration: username (required), and email address (required). Additional personal information, such as year of birth, relationship status and sexual orientation may be added on a voluntary basis after registration, for members interested in identifying and potentially contacting other members meeting specific criteria. All this data with the exception of the email address and IP address becomes publicly accessible information.
-  * Content Uploaded to the site: Any personal information or video content that you voluntarily disclose online becomes publicly available and can be collected and used by others.
-  * Cookies: When you visit pornstep.com, we may send one or more cookies to your computer that uniquely identifies your browser session. pornstep.com uses both session cookies and persistent cookies. If you remove your persistent cookie, some of the site's features may not function properly.
-  * Log File Information: When you visit pornstep.com, our servers automatically record certain information that your web browser sends such as your web request, IP address, browser type, browser language, referring URL, platform type, domain names and the date and time of your request.
-  * Emails: If you contact us, we may keep a record of that correspondence. 
+  * Cookies Information: When you visit the pornstep.com web site, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser. pornstep.com uses both session cookies and persistent cookies. A persistent cookie remains after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser help file directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the pornstep.com web site may not function properly if the ability to accept cookies is disabled. 
+  * Log File Information: When you use the pornstep.com web site, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, browser language, referring / exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser. 
 
-  
-USES 
 
-  * Your Personally identifiable information submitted to pornstep.com is used to provide to the user the website's features and special personalised features. 
-  * Your chosen usernaname (not your email address) is displayed to other Users alongside the content you upload, including videos, comments, at, the messages you send through the pornstep.com private mail, etc. Other Users can contact you through, private messages. 
-  * Any videos that you submit to pornstep.com may be redistributed through the internet and other media channels, and may be viewed by the general public. 
-  * We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent. 
-  * We may use your email address without further consent for non-marketing or administrative purposes (such as notifying you of key website changes or for customer service purposes). 
-  * We analyse aggregated user traffic information to help streamline our marketing and hosting operations and to improve the quality of the pornstep.com user-experience. 
 
-  
-DISCLOSURE OF INFORMATION 
+**The Way pornstep.com Retains Information**
 
-  * if under duty to do so pornstep.com may release data to comply with any legal obligation, or in order to enforce our Terms Of Service and other agreements; or to protect the rights, property or safety of pornstep.com or our subscribers or others. This includes exchanging information with other companies and organisations including the police and governmental authorities for the purposes of protection against fraud or any other kind of illegal activity whether or not identified in the Terms Of Service. It is pornstep.comג€™s policy, whenever possible and legally permissible, to promptly notify you upon an obligation to supply data to any third party. 
-  * Should you deliberatlly upload any illegal material PormHub.com shall forward all available information to all relevant authrities and this without notice.   
-ֲ»We do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. 
+  * To preserve the integrity of website databases, pornstep.com Video's procedure is to retain information submitted by members for an indefinite length of time. By submitting information to pornstep.com, you are consenting to store that information indefinitely. 
 
-  
-SECURITY 
 
-Where we have given you (or where you have chosen a password) which enables you to access certain parts of our Site, you are responsible for keeping this password confidential. We ask you not to share your password with anyone. 
 
-Unfortunately, the transmission of information via the Internet is not completely secure. pornstep.com uses commercially reasonable physical, managerial and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to pornstep.com and you do so at your own risk. 
+**The Way pornstep.com Uses Information**
 
-YOUR RIGHTS 
+  * If you submit personally identifiable information to us through the pornstep.com web site, then we use your personal information to operate, maintain, and provide to you the features and functionality of the site.
+  * Any personal information or video content that you voluntarily disclose online (on discussion boards, in messages and chat areas, within your public profile page, etc.) becomes publicly available and can be collected and used by others. Your account name (not your email address) is displayed to other users when you upload videos or send messages through the pornstep.com web site, and other users can contact you through messages and comments. Any videos that you submit to the pornstep.com web site may be redistributed through the Internet and other media channels, and may be viewed by the general public. 
+  * We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. We may, however, use your email address without further consent for non-marketing or administrative purposes.
 
-You are entitled to access and correct your Data by doing so directly on the website or by requesting us to do so via the Contact us section. If you have additional questions then please write to us at info@pornstep.com. 
+
+
+**When pornstep.com Discloses Information**
+
+  * We provide personally identifiable information and non-personally-identifiable information to our subsidiaries, affiliated companies, or other businesses or persons for the purpose of processing such information on our behalf. We require that these parties agree to process such information in compliance with our privacy policy, and we use reasonable efforts to limit their use of such information and to use other appropriate confidentiality and security measures.
+  * We do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. 
+  * We may release personally identifiable information and/or non-personally-identifiable information if required to do so by law, or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. Copyright Law) or respond to a court order, subpoena, or search warrant. 
+  * pornstep.com also reserves the right to disclose personally identifiable information and/or non-personally-identifiable information that, in good faith, is appropriate or necessary to enforce our terms of use, take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of our web site, and to protect the rights, property, or personal safety of pornstep.com, our users or others. 
+
+
+
+**Our Commitment to Legal-Age Usage**  
+Protecting children from adult content is especially important. For that reason, pornstep.com does not knowingly collect or maintain personally identifiable information or non-personally-identifiable information on the pornstep.com web site from persons under 18 years of age, and no part of our website is directed to persons under 18, or legal age according to state law. If you are under 18 years of age, then please do not use or access the pornstep.com web site at any time or in any manner. If pornstep.com learns that personally identifiable information of persons under 18 years of age has been collected, appropriate steps will be taken to delete this information.
+
+**In the Event of Merger, Sale, or Bankruptcy**  
+In the event that pornstep.com is acquired by or merged with a third party entity, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected from our users as part of such merger, acquisition, sale, or other change of control. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, we may not be able to control how your personal information is treated, transferred, or used.
+
+**Changes and updates to this Privacy Notice**
+
+This privacy notice may be revised periodically and users are encouraged to review it periodically to stay aware of any changes. Your continued use of the pornstep.com web site constitutes your agreement to this privacy notice and any future revisions. 
