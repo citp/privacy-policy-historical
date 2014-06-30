@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the askkids.com privacy policy that was archived on 2013-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131228204357id_/http%3A//about.ask.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the askkids.com privacy policy that was archived on 2014-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140630073352id_/http%3A//about.ask.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta charset="UTF-8">
@@ -35,7 +35,6 @@
         <div class="nav">
             <ul id="top-menu" class="menu"><li id="menu-item-24" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24"><a href="http://about.ask.com/history/"><span>History</span></a></li>
 <li id="menu-item-23" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23"><a href="http://about.ask.com/our-team/"><span>Our Team</span></a></li>
-<li id="menu-item-22" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22"><a href="http://about.ask.com/partners/"><span>Partners</span></a></li>
 <li id="menu-item-21" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21"><a href="http://about.ask.com/press-room/"><span>Press Room</span></a></li>
 <li id="menu-item-20" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20"><a href="http://about.ask.com/jobs/"><span>Jobs</span></a></li>
 <li id="menu-item-83" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-83"><a href="http://help.ask.com/"><span>Help Center</span></a></li>
@@ -242,7 +241,6 @@ div.iconRss a:hover {
             <!--<pre><a href="#">History</a>   -   <a href="#">Our Team</a>   -   <a href="#">Partners</a>   -   <a href="#">Press Room</a>   -   <a href="#">Jobs</a>   -   <a href="#">Help Center</a>   -   <a href="#">Q&amp;A</a>   -   <a href="#">Help</a>   -   <a href="#">Feedback</a>    &copy;2012 <a href="http://www.ask.com/" target="_blank">Ask.com</a></pre>-->
                 <p><a href="http://about.ask.com/history/">History</a>&nbsp; - 
 <a href="http://about.ask.com/our-team/">Our Team</a>&nbsp; - 
-<a href="http://about.ask.com/partners/">Partners</a>&nbsp; - 
 <a href="http://about.ask.com/press-room/">Press Room</a>&nbsp; - 
 <a href="http://about.ask.com/jobs/">Jobs</a>&nbsp; - 
 <a href="http://about.ask.com/terms-of-service/">Terms of Service</a>&nbsp; - 
@@ -255,10 +253,56 @@ div.iconRss a:hover {
         </div>
     </div>
 </div><!-- .footer End -->
-<script type="text/javascript" src="http://about.ask.com/wp-content/themes/askAbout/assets/js/jquery-latest.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 <script type="text/javascript" src="http://about.ask.com/wp-content/themes/askAbout/assets/js/jquery.cycle.all.2.72.js"></script>
 <script type="text/javascript" src="http://about.ask.com/wp-content/themes/askAbout/assets/js/custom.js"></script>
+<script>
+	/*! jQuery Instagram - v0.3.1 - 2014-06-19
+* http://potomak.github.com/jquery-instagram
+* Copyright (c) 2014 Giovanni Cappellotto; Licensed MIT */
+!function(a){function b(b){var c="https://api.instagram.com/v1",d={};if(null==b.accessToken&&null==b.clientId)throw"You must provide an access token or a client id";if(d=a.extend(d,{access_token:b.accessToken||"",client_id:b.clientId||"",count:b.count||""}),null!=b.url)c=b.url;else if(null!=b.hash)c+="/tags/"+b.hash+"/media/recent";else if(null!=b.search)c+="/media/search",d=a.extend(d,b.search);else if(null!=b.userId){if(null==b.accessToken)throw"You must provide an access token";c+="/users/"+b.userId+"/media/recent"}else null!=b.location?(c+="/locations/"+b.location.id+"/media/recent",delete b.location.id,d=a.extend(d,b.location)):c+="/media/popular";return{url:c,data:d}}a.fn.instagram=function(c){var d=this;c=a.extend({},a.fn.instagram.defaults,c);var e=b(c);return a.ajax({dataType:"jsonp",url:e.url,data:e.data,success:function(a){d.trigger("didLoadInstagram",a)}}),this.trigger("willLoadInstagram",c),this},a.fn.instagram.defaults={accessToken:null,clientId:null,count:null,url:null,hash:null,userId:null,location:null,search:null}}(jQuery);
+	
 
+	$('.ourTeam .socialIcon a').each(function(){
+		var $this=$(this);
+		if($this.attr('href')===''){
+		   $this.hide();
+		}
+	});
+
+	function createPhotoElement(photo) {
+  	var innerHtml = $('<img>')
+    		.addClass('instagram-image')
+    		.attr('src', photo.images.low_resolution.url);
+
+  	innerHtml = $('<a>')
+    		.attr('target', '_blank')
+    		.attr('href', photo.link)
+    		.append(innerHtml);
+
+  	return $('<div>')
+    		.addClass('instagram-placeholder')
+    		.attr('id', photo.id)
+    	.append(innerHtml);
+	}
+
+	function didLoadInstagram(event, response) {
+  		var that = this;
+
+  		$.each(response.data, function(i, photo) {
+    			$(that).append(createPhotoElement(photo));
+  		});
+	}
+
+	$(document).ready(function(){
+		$('#instaFeed').on('didLoadInstagram', didLoadInstagram);
+  		$('#instaFeed').instagram({
+    			userId: 27141021,
+    			count: 9,
+    			accessToken: '955633393.98740cd.4fb78ef81f8f47be84d2442cf249db75'
+  		});
+	});
+</script>
 
 
 
@@ -266,7 +310,7 @@ div.iconRss a:hover {
 <!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
 
 Page Caching using disk: enhanced
-Database Caching 10/13 queries in 0.004 seconds using disk
-Object Caching 1067/1072 objects using disk
+Database Caching 12/13 queries in 0.006 seconds using disk
+Object Caching 996/1001 objects using disk
 
- Served from: about.ask.com @ 2013-12-28 20:09:23 by W3 Total Cache --></body></html>
+ Served from: about.ask.com @ 2014-06-30 07:33:52 by W3 Total Cache --></body></html>
