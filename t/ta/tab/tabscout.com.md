@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tabscout.com privacy policy that was archived on 2013-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131214025137id_/http%3A//www.tabscout.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tabscout.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630152736id_/http%3A//www.tabscout.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - TabScout
 
