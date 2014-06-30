@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloomberg.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231121927id_/http%3A//www.bloomberg.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloomberg.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630113508id_/http%3A//www.bloomberg.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Bloomberg
 
@@ -25,6 +25,25 @@ BLP, its designated service providers, or third-party advertisers or their adver
 BLP adheres to the industry’s Self-Regulatory Principles for Online Behavioral Advertising located [here](http://www.aboutads.info/principles). To "opt out" of advertising cookies placed by participating companies in the Self-Regulatory Program for Online Behavioral Advertising, and thereby limit the tracking of your online activity and the targeted advertising you receive, please [click here](http://www.aboutads.info/). To "opt out" of advertising cookies placed by the Network Advertising Initiative’s ("NAI") online behavioral advertising member networks, and thereby limit the tracking of your online activity and the targeted advertising you receive, please [click here](http://www.networkadvertising.org/managing/opt_out.asp). Note that even if you opt out of cookies placed by such member networks and participating companies, you will still receive online advertising. 
 
 BLP’s designated service providers assist BLP with advertisement display functions and related analytics for this Web site. For a list of these designated service providers and more information about their anonymous information collection and use practices, please [click here](https://login.bloomberg.com/ad_sp).
+
+###  Advertising Guidelines
+
+What is Sponsor Content?
+
+“Sponsor Content” consists of: (i) all paid-for content created by the Bloomberg L.P. (“Bloomberg”) custom content team (“Bloomberg Custom Content”) in collaboration with advertisers, and served by or appears in any Bloomberg medium and (ii) paid-for content supplied by advertisers that is served by or appears in any Bloomberg medium. The foregoing categories include any paid-for content purchased under the AAAA/IAB Standard Terms and Conditions. 
+
+Standards and Procedures for Sponsor Content
+
+In addition to the general advertising guidelines established by Bloomberg, the standards listed below apply to Sponsor Content. 
+
+* All Sponsor Content must be approved in advance and in writing by a Bloomberg Custom Content editor before it appears on any Bloomberg medium.
+* Sponsor Content is neither produced by nor contributed to by any editorial team member of any Bloomberg medium, nor does it necessarily reflect the views of the editors of any Bloomberg medium. A disclaimer similar to the following will be included with all Sponsor Content: “A sponsor paid for the creation and placement of the content on this page. No editorial member of any Bloomberg medium contributed to any part of its creation, and it does not necessarily reflect the editorial views of Bloomberg L.P. or any of its affiliated entities.”
+* Bloomberg may, in its sole discretion, include a more detailed disclaimer with certain Sponsor Content.
+* The form, function and placement of Sponsor Content will be consistent with the look, feel, and general layout of the Bloomberg medium in which it appears.
+* All Sponsor Content will be appropriately labeled and distinguished from editorial content.
+* Bloomberg may, in its sole discretion, allow the use of a Bloomberg Custom Content logo to be used in Sponsor Content. The design and placement of such logo will be at the discretion of Bloomberg, and any and all such uses shall be subject to Bloomberg’s prior written approval.
+* Where Sponsor Content allows user participation, the moderation and functionality of this element will be determined and implemented solely by Bloomberg and will be subject to the general Terms of Service for the applicable Bloomberg medium.
+* Bloomberg reserves the right to refuse or remove any Sponsor Content that in any way: (i) disparages, defames or discredits Bloomberg or its products or services or otherwise reflects adversely on Bloomberg’s brand or (ii) is false, misleading, deceptive or illegal.
 
 ### Disclosure of Personal Information and Other Information
 
