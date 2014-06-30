@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the bellnw.com privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818112255id_/http%3A//www.bellnw.com/privacy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bellnw.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630122214id_/http%3A//www.bellnw.com/privacy/index.htm) for the most accurate reproduction.*
 
-# Bell Electronics NW Privacy / Security Policy
-
-## Bell Electronics Privacy Policy
+# Bell Electronics Privacy Policy
 
 Bell Electronics has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this Web site: www.bellnw.com.
 
@@ -12,7 +10,7 @@ We use your IP address to help diagnose problems with our server, and to adminis
 
 This site may contain links to other sites. www.bellnw.com is not responsible for the privacy practices or the content of such Web sites.
 
-##### Information Collection
+**Information Collection**
 
 We collect information from web site visitors who must register for certain services on-line, from users who agree to participate in on-line surveys, from users who wish to make certain on-line information requests from us, and from users who wish to participate in on-line contests and promotions sponsored by us.
 
@@ -26,13 +24,13 @@ We also share user information with governmental authorities when legally requir
 
 Other than these specific exceptions noted,  we do not sell, rent, or provide access to any data collected about or from our users to any third parties.
 
-#####  Choice/Opt-Out
+**Choice/Opt-Out**
 
 Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. You will notice in all e-mail subscriptions generated from www.bellnw.com there is an unsubscribe link at the bottom of the message. Simply click on this link to go to a page that allows you to unsubscribe from any or all of the lists you are subscribed to. 
 
 In addition to using the unsubscribe page, you can send e-mail to esecurity@bellnw.com.
 
-##### Correct/Update/Review
+**Correct/Update/Review**
 
 This site gives users the following options for reviewing, changing and modifying information previously provided.
 
@@ -41,7 +39,7 @@ This site gives users the following options for reviewing, changing and modifyin
 
 
 
-##### Contacting the Web Site
+**Contacting the Web Site**
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
 
@@ -52,21 +50,21 @@ Bell Electronics NW
 Kent, WA 98032 USA  
 [eprivacy@bellnw.com ](mailto:eprivacy@bellnw.com)
 
-##### Changes to This Policy
+**Changes to This Policy**
 
 We may make changes to this policy from time to time. We will post changes to this policy here, so be sure to check back periodically. We will notify users by e-mail of significant changes, and provide a meaningful opportunity to opt-out, or otherwise prevent, any new uses of information not described in this current policy.
 
-## Bell Electronics Security Policy
+**Bell Electronics Security Policy**
 
 Bell Electronics has created this security statement in order to demonstrate our firm commitment to the protection of data you provide us. The following discloses how information is maintained by www.bellnw.com.
 
-Your data security is very important to us. By participating in the ScanAlert ® Security Program we have made a commitment to web site intrusion prevention. Further information about this program is available at [ http://www.scanalert.com](https://www.mcafeesecure.com/RatingVerify?ref=www.bellnw.com).
+Your data security is very important to us. By participating in the McAfee SECURE™ Program we have made a commitment to web site intrusion prevention. Further information about this program is available at [ https://www.mcafeesecure.com](https://www.mcafeesecure.com/RatingVerify?ref=www.bellnw.com).
 
 We use your IP address to help diagnose problems with our server, and to administer our Web site. The www.bellnw.com web site makes use of browser "cookies". Cookies are files written to a user's hard disk and read by the server programs to inform a Web site if the user has previously visited that site. We use cookies to deliver content specific to your interests, to save your user name or password so you don't have to re-enter it each time you visit our site, and for other purposes. Cookies can be rejected by you and if so none of the functions listed above will be performed. 
 
 This site may contain links to other sites. www.bellnw.com is not responsible for the privacy practices or the content of such Web sites.
 
-##### Security
+**Security**
 
 This site has taken reasonable security measures to protect the loss, misuse and alteration of the information under our control. Please remember that no computer system should be considered safe from intrusion. E-mail may pass through many computer systems, and should not be considered as a secure means of communication unless encrypted. Even then, information is only as secure as the encryption method.
 
