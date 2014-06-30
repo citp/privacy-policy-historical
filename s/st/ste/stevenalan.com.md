@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stevenalan.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212120317id_/http%3A//www.stevenalan.com/Privacy-Policy-Terms/cs-privacy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stevenalan.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630055120id_/http%3A//www.stevenalan.com/cs-privacy.html) for the most accurate reproduction.*
 
 # Steven Alan - Privacy Policy & Terms
 
@@ -6,7 +6,7 @@
 
 #### terms of use
 
-Welcome to the Steven Alan Website ("Site"). Please review the following basic terms that govern your use of and purchase of products from our Site. Please note that your use of our Site constitutes your agreement to follow and be bound by those terms (the "Agreement").
+Welcome to the Steven Alan Website ("Site"). Please review the following basic terms that govern your use of and purchase of products from our Site. Please note that your use of our Site constitutes your agreement to follow and be bound by those terms (the "Agreement"). We have created this Privacy Policy to inform you what information we collect on the Website, how we use your information, and the choices you have about the way your information is collected and used. Please read this Privacy Policy carefully. Your use of the Website indicates that you have read and accepted our privacy practices, as outlined in this Privacy Policy. Please be advised that the practices described in this Privacy Policy apply to information gathered by us or our subsidiaries, affiliates or agents: (i) through this Website, (ii) where applicable, through our Customer Service Department in connection with this Website, (iii) through information provided to us in our free-standing retail stores, and (iv) through information provided to us in conjunction with marketing promotions and sweepstakes.
 
 #### general
 
@@ -33,6 +33,7 @@ Steven Alan takes your privacy seriously.
   * We DO NOT RELEASE any information about you to other companies. To have your name removed from this list, please send email to [remove@stevenalan.com](mailto:remove@stevenalan.com). Please provide us with the exact email address you used to register or to order with us and we will make sure your name and address is removed from the list.
   * When you visit [StevenAlan.com](http://www.stevenalan.com/), we do not collect your name, email or any other personal information until you register or place and order with us.
   * After you place an order at Steven Alan Online, we use your information to process your order. You will receive an email confirmation with UPS tracking number in it. Occasionally, we may need to contact you by postal mail or email if we have other questions regarding your order.
+  * • Use of Cookies: Also, like many Websites, we use "cookies." Cookies are pieces of information that a website either transfers to your computer's hard drive or stores temporarily in your computer's memory for record-keeping purposes. We may use cookies for a number of purposes. For example, cookies help us to identify account holders and to optimize their shopping experience. Cookies also allow us to hold selections in a shopping cart when a user leaves this Website without checking out. When you log in at this Website with your username and password, we will assign you a secure session ID. The server then passes your information to you through this secure session ID. Also, we will use cookies to monitor and maintain information about your use of this Website. Cookies are also used to track the identity of the Website you visited immediately prior to visiting this Website; otherwise, we do not track information about your use of other Websites. Most browsers accept cookies automatically. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, we recommend that you leave cookies "turned on" so that we can offer you a better shopping experience on this Website. If you decline to accept cookies, you may not be able to take advantage of or participate in certain features of this Website.
 
 
 
