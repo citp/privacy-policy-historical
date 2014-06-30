@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the computershopper.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220013020id_/http%3A//www.ziffdavis.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the computershopper.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630171249id_/http%3A//www.ziffdavis.com/privacy-policy) for the most accurate reproduction.*
 
-# Ziff Davis, Inc. Privacy Policy « Ziff Davis
+# Ziff Davis, LLC. Privacy Policy « Ziff Davis
 
-Updated August 2013
+Updated June 2014
 
-**Ziff Davis, Inc. Privacy Policy**
+**Ziff Davis, LLC. Privacy Policy**
 
 This Privacy Policy describes what information Ziff Davis and certain third parties gather, how we collect it, our information sharing practices, how users may change the way their information is collected and more.
 
@@ -84,7 +84,7 @@ _To allow other users to find you._ In order to locate My IGN Members that a use
 
 **_How You Can Change or Control what is Collected:_**
 
-_Cookies._  Most web browsers automatically accept cookies but allow you to modify security settings so you can approve or reject cookies on a case-by-case basis.  You may stop or restrict cookies on your computer or purge them from your browser by adjusting your web browser preferences. If you would prefer that we not collect anonymous data that may be used to help determine which advertisements to serve you, opt out by clicking this icon AdChoice
+_Cookies._  Most web browsers automatically accept cookies but allow you to modify security settings so you can approve or reject cookies on a case-by-case basis.  You may stop or restrict cookies on your computer or purge them from your browser by adjusting your web browser preferences. If you would prefer that we not collect anonymous data that may be used to help determine which advertisements to serve you, opt out by clicking this icon [AdChoice](http://www.aboutads.info/)
 
 However, if you ‘turn off,’ purge or disable cookies, although you may still use our websites, you may not be able to use all of the features, functions or services available on our websites. Please [click here](http://www.aboutads.info/) to learn more about the use of cookies, your opt out choices, and more.
 
@@ -117,6 +117,15 @@ _Links to Other Sites._ Ziff Davis web site may contain links to other sites who
 _Compliance with Law and Other Terms._ **** Subject to applicable law, we reserve the right to release information concerning any user of our sites or services when we have grounds to believe that the user is in violation of our [**Terms of Use**](http://www.ziffdavis.com/about/terms) or other published guidelines or engages in (or we have grounds to believe is engaging in) any illegal activity, and to release information in response to court and governmental orders, other enforceable requests from government entities, civil subpoenas, discovery requests and otherwise as required by law. We also may release information about users when we believe in good faith that such release is required to protect the rights, property, safety or security of Ziff Davis, any of our users or the public, or to respond to an emergency.
 
 _International._ Ziff Davis operates websites in the United States and, depending on your country of residence, the submission of personally identifiable information to our sites may involve some transfer of personal information to the United States. You should be aware that privacy laws in the United States may not provide protections equivalent to those of your country of residence.
+
+**_California Residents_** In accordance with the Online Privacy Protection Act (“CalOPPA”), we may collect Personal Information about your online activities when you use our sites. While we give our users many avenues to opt out of providing Personal Information, we do not respond to Web browsers’ “do not track” signals, in accordance with California Business & Professions Code Section 22575. If you wish for us to refrain from gathering your Personal Information, please see our section on **How to Change or Control What Is Collected**. 
+
+California’s “Shine the Light” law, Civil Code Section 1798.83, permits our users who are California residents to periodically request and obtain certain information about any personal information disclosed to third parties for direct marketing purposes. If you are a California resident and wish to make such a request, please submit your request in writing to:
+
+Ziff Davis Legal Department  
+28 East 28th Street  
+New York, NY 10016  
+
 
 **Please visit our**[ **Terms of Use**](http://www.ziffdavis.com/about/terms) **page for more information concerning your use of Ziff Davis websites and other services. The**[ **Terms of Use**](http://www.ziffdavis.com/about/terms) **are incorporated by reference into this Privacy Policy.**
 
