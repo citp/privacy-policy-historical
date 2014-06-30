@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jibjab.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209055912id_/http%3A//www.jibjab.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jibjab.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630121632id_/http%3A//www.jibjab.com/about/privacy) for the most accurate reproduction.*
 
 # Funny eCards, Happy Birthday eCards, and Holiday eCards - JibJab.com
 
@@ -21,6 +21,8 @@ By submitting personal information on any of the JibJab Sites or through any of 
 Effective January 1, 2005, California Civil Code Section 1798.83 (known as the “Shine the Light” law) provides that, if an individual who is a California resident has provided his/her personal information to a business in connection with a business relationship that is primarily for personal, family, or household purposes, and if that business has within the immediately preceding calendar year disclosed such individual’s personal information to a third party and knows or should have known that such third party used the information for its own direct marketing purposes, then that business is obligated to disclose in writing to such individual upon request, what personal information was shared and with whom the information was shared. A business may comply with this law by: (1) having EITHER a published privacy policy of not sharing a customer’s personal information for third-party direct marketing use unless the customer has first affirmatively opted in to such sharing OR a published privacy policy of not sharing a customer’s personal information for third-party direct marketing use if the customer has opted out to prevent his/her personal information from being shared for third-party direct marketing use; AND (2) notifying the customer of his/her right to opt out and providing a cost-free means for the customer to exercise that right.
 
 California residents may request an information-sharing disclosure from us by emailing your request to support@JibJab.com or writing to us at JibJab Media Inc., Att: Privacy Dept., PO Box 5356, Santa Monica, CA, 90405\. Please note that, under the law, we are not required to respond to your request more than once in a calendar year, nor are we required to respond to any requests that are not sent to the above-designated email or mailing address.
+
+_Do Not Track Disclosure_ : The JibJab Sites do not currently respond to "Do Not Track" signals of Web browsers. However, should the industry establish uniform technological standards for recognizing and interpreting "Do Not Track" signals, the JibJab Sites would be open to following such industry standards.
 
 **Information Collection and Use**
 
