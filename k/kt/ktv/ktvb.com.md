@@ -1,186 +1,102 @@
-> *The following text is extracted and transformed from the ktvb.com privacy policy that was archived on 2013-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131029053303id_/http%3A//www.ktvb.com/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ktvb.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630132226id_/http%3A//www.ktvb.com/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
 
 # KTVB.COM | Privacy Policy - KTVB.COM
 
-## Updated as of June 26, 2012 and effective as of July 26, 2012
+## Last Updated: December 23, 2013
 
-Welcome! This Privacy Policy governs the use and collection of information from you by Belo Corp. and its affiliated companies (collectively, "Belo," "we" or "us") through your use of Web sites, interactive services and mobile applications that display an authorized link to this Privacy Policy (collectively, the "Services"). This Privacy Policy does not apply to any information you may provide to us offline or through any means other than the Services. For example, this Privacy Policy does not apply to information you provide when you subscribe by postal mail or telephone to one of our stations or to information that you provide to us at a live event or when you respond by postal mail or telephone to a survey or an invitation to enter a sweepstakes or contest. Please read this Privacy Policy carefully so that you understand our online privacy practices. By using any of our Services, you agree that your use, and any dispute over our privacy practices, is governed by this Privacy Policy and our [Terms of Service](https://web.archive.org/terms-and-conditions/terms-of-use). Understanding that technologies are rapidly evolving, we reserve the right to make changes to this Privacy Policy at any time. Any such changes will be promptly posted on this page, with an updated "effective date" posted at the beginning and/or end of this policy.
+We take seriously your interest in how your information is collected and used. Please read the following to understand about our privacy practices.
 
-### This Privacy Policy explains the following:
+This Privacy Notice discloses the privacy practices of our website, mobile site or app (the "Site"). Specifically, it outlines the types of information that we gather about you while you are using the Site, and the ways in which we use and share this information. This Privacy Notice does not apply to any information you may provide to us, or that we may collect, offline and/or through other means (for example, at a live event, via telephone, or through the mail).
 
-  1. What types of information we collect 
-  2. What cookies, scripts, and beacons are and why we use them 
-  3. How we use your personal information 
-  4. With whom we share your personal information 
-  5. Other parties that may collect information when you use our Services
-  6. How you can opt-out of sharing your personal information or receiving our promotional communications 
-  7. How you can update your personal information or registration information 
-  8. What safeguards we put in place to protect your personal information 
-  9. What you should know about third-party sites and advertising 
-  10. Whether we knowingly collect personal information from children under 13 
-  11. How you can contact us 
-  12. What you should know about "phishing" 
-  13. When this Privacy Policy is effective and how changes to the Privacy Policy are posted 
-
-
-
-### What Types of Information Do We Collect?
-
-The information we gather falls into two categories: (1) information (for example, your name, e-mail address and mailing address) that you voluntarily supply when you register, initiate transactions, or communicate with us, and (2) information collected automatically as you navigate within our Services, or read our e-mail newsletters. In some cases, it is a vendor or service provider of ours that collects the information on our behalf. Third-party providers featured on or linked to by our Services also may be gathering the same kinds of information through processes that we don't control subject to their own separate privacy policies.
-
-#### Registration and Other Personal Information
-
-When we use the term "Personal Information" in this policy, we are referring only to information that uniquely identifies a specific individual, such as an individual's name, phone number, mailing address, or e-mail address, and information about an individual's activity or characteristics that is directly linked to personally-identifying information.
-
-We may ask you for Personal Information when you register for or use various aspects of our Services, including when you order products, complete a survey, enter a contest or sweepstakes, or report a problem with our Services. We may also collect contact information for other individuals when you use the sharing tools available within our Services to share content or offers with your friends and associates. We use this information to facilitate the communications you request. Please note that if you use any "send-to-friend" features of our Services, your e-mail address may be included in the communication sent to your friend. 
-
-#### Aggregated Information
-
-Much of the information we collect is compiled in the form of aggregated statistics, such as the traffic generated by visits on various pages within our Services, and the habits and preferences of our audience. Such aggregated information does not include any information that would identify you personally and does not constitute "Personal Information" under this policy. We may use aggregated information or other anonymous information and disclose it to third parties as we see fit.
-
-#### Information We Collect Automatically When You Use Our Services
-
-Belo or third-party vendors and service providers acting on our behalf may collect certain information automatically when you use our Services, including:
-
-  1. Your browser type, browser identifiers, language, plug-ins, Internet domain and operating system;
-  2. Your Internet Protocol (IP) address (a numerical address assigned to your computer by your Internet service provider so that other computers connected to the Internet can communicate with you online) that can sometimes be used to derive your general geographic area;
-  3. The site you visited before visiting a Belo Service and the site you visited after leaving our Service;
-  4. Content and advertisements you view and links you click on while navigating within our Services;
-  5. Unique identifiers, including mobile device identification numbers, that can identify the physical location of such devices in accordance with applicable law;
-  6. Information collected through cookies, scripts, web beacons and other tracking technologies (see additional descriptions of these terms below);
-  7. Information about your interactions with our video content, such as the type of content viewed on our Services;
-  8. Information about your interactions with our e-mail messages, such as the links you click on and whether you open or forward a message; and
-  9. Standard server log information.
-
-
-
-#### Precise Location-Based Information
-
-With your consent, we may also collect information about the exact real-time location of mobile devices you use to access our Services. We use this information to provide you the content and location services you request, such as location-based weather reports and traffic maps, tell you about offers we think you will value based on your location, enable you to submit user-generated content based on your location, and otherwise improve your experience using our Services. You are not required to consent to our collection of precise location-based information to use our Services and you can adjust the settings of your mobile device to turn on and off our access to your precise location information. 
-
-### What Are Cookies, Scripts and Web Beacons and Why Do We Use Them?
-
-#### What are Cookies?
-
-Cookies are alphanumeric identifiers stored within your browser. Cookies are accessed and recorded by the Web sites you visit, and by the companies that deliver the advertisements you see on Web sites, so they can recognize the same browser navigating online. We use cookies for the following general purposes:
-
-  1. To help us recognize your browser as a previous visitor and save and remember any preferences that may have been set while you visited one of our Web sites. For example, if you register for a Belo Service, we may save your username and password, so you do not have to re-enter them each time you visit.
-  2. To help control the display of advertisements and customize the content and advertisements you see while using our Services. 
-  3. To help us measure and analyze visitor traffic and usage patterns and to improve the quality and effectiveness of our content, features, advertisements, and other communications.
-
-
-
-Third-party companies that provide some of the tools and features accessible through our Services and advertisers and other companies involved in the delivery of the advertisements that you see while using our Services also may place cookies within your browser. We do not have access to these cookies and do not control how they may be used. You can set your browser to accept or reject most cookies, or to notify you when a cookie is set. (Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences.) It is up to you whether to allow us or third parties to send you or to set cookies, but if you block cookies, you may not be able to view or access some of the features of our Services. Please note that certain browsers cannot be used to block or delete so-called "Flash" cookies, which use a feature of the Adobe Flash video player to store information on your computer. For information about how to delete Flash cookies, please visit the Adobe Web site [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). 
-
-#### Web Beacons, Scripts, and Other Tracking Technologies
-
-We and our service providers and other third-party companies involved in the delivery of advertisements you see on our Services and/or while visiting other unaffiliated Web sites may use scripts, web beacons and/or similar technologies, to collect information about your use of our Services. Web beacons (sometimes called "transparent GIFs," "clear GIFs," or "pixel tags") embed a small graphic image (usually invisible) on a web page or in an e-mail. When your browser downloads a web beacon, the server that sends the corresponding image to your browser can recognize and store certain types of information such as cookies previously set, the time and date that you viewed the page embedded with the beacon and a description of that page. We use web beacons to improve your experience using our Services, including to provide you with content, advertising and offers customized to your interests, and to understand whether our users read e-mail messages and access links contained within those messages. 
-
-#### How Do We Use Your Personal Information?
-
-We believe we can enhance your experience on our Services with the information you share with us. We use Personal Information to improve our advertising and marketing efforts, to statistically analyze Service usage, to improve our content and product offerings and to personalize the content, layout, and features of the Services. We will use your Personal Information to respond to your comments and questions. We may also use your Personal Information, such as your e-mail address, phone number or mailing address, to contact you regarding products and/or services that we think may be of interest to you, including products and services of third parties, unless you have elected not to receive these promotions and offers by modifying your profile as described below in "How Can You Opt-Out of Sharing Your Personal Information or Receiving Our Promotional Communications?"  
-We may match Personal Information we collect through our Services with other information about you supplied by third parties so that we can provide you with customized product, services, and content offerings that we believe will interest you and to otherwise improve our advertising and marketing efforts. After registering on one of our Services, you may receive communications including mail, e-mail, telephone or wireless text messages from us related to products and services that we believe will interest you. Although we hope you find these communications informative and useful, you can opt-out from receiving these types of communications from us by changing the privacy preferences in your member profile or by deleting your profile from our database. Please refer to "How Can You Opt-Out of Sharing Your Personal Information or Receiving Our Promotional Communications?" for additional information and instructions.
-
-### With Whom Do We Share Your Personal Information?
-
-#### Our Affiliated Companies
-
-We may share any information, including Personal Information, that we collect through the Services with any company that is directly or indirectly owned, controlled or operated by Belo so that we and they can communicate with you about products and services that we believe may be of interest to you. The use and further disclosure of the information collected on our Services by our affiliated companies will be governed by this Privacy Policy, as it may be amended from time to time.
-
-#### Vendors, Service Providers and Provider Partners
-
-We have today, and will in the future have, arrangements with third-party vendors and service providers, such as credit card processors, shipping companies and fulfillment services, that assist us with the operation and development of our Services. We reserve the right to share with these companies any information we collect provided that they commit not to use Personal Information collected from our users for any purpose unrelated to the services that they provide for us or our users.
-
-To make our Services more valuable to our visitors, we may offer some features of our Services in conjunction with other unaffiliated companies ("Provider Partners") that specialize in operating such features. For example, we may offer a car buying service, personalized finance and weather information services, social networking tools, sweepstakes offers or other promotions through cooperative arrangements with Provider Partners. We share with our Provider Partners such information, including Personal Information, as is useful or necessary for them to provide you with the feature that they offer through our cooperative arrangement with them. Some of these Provider Partners may also collect their own Personal Information in connection with providing the service. Their use of such information will be subject to the terms of their respective privacy policies, which you can find on their Web sites or obtain by contacting the Provider Partners directly. Please refer to "Who is the Party Collecting Your Personal Information?" for additional information.
-
-#### Other Disclosures
-
-Notwithstanding anything to the contrary stated in this policy or within our Services, we reserve the right to release Personal Information about our users when we deem such release to be appropriate to comply with law, respond to compulsory process or law enforcement requests, enforce our [Terms of Service](https://web.archive.org/terms-and-conditions/terms-of-use), or protect the rights, property or safety of our users, the public, Belo, our affiliates, or any third party. Over time, we may reorganize or transfer various assets and lines of business. Notwithstanding anything to the contrary stated herein or within our Services, we reserve the right to disclose or transfer any information we collect to third parties in connection with any proposed or actual purchase, sale, lease, merger, foreclosure, liquidation, amalgamation or any other type of acquisition, disposal, transfer, conveyance or financing of all or any portion of Belo or our affiliates.
-
-### What Other Parties Might Be Collecting Information When You Use Our Services?
-
-#### Third-Party Advertising, Data and Analytics Companies
-
-We work with third-party advertising companies and data providers to target and serve some of the advertisements you see on our Services and on other Web sites, to send e-mails on our behalf, and to provide related analytics, forecasting and optimization services. Most of the third-party advertising and data companies we work with, including DoubleClick and Google, are members of the Network Advertising Initiative ("NAI") and/or the Digital Advertising Alliance ("DAA"). To learn more about the information collection practices of NAI and DAA members and your opt-out choices, please visit the NAI's Web site [here](http://www.networkadvertising.org/choices/), or the DAA's Web site (and opt-out mechanism) at [http://www.aboutads.info](http://www.aboutads.info/). Some of the ads you see in our Services may contain cookies and Web beacons that are managed by other third parties (e.g., advertisers or their advertising agencies) that we do not control. If you have questions regarding the data collection practices of any of the advertisers that appear on our Services, we encourage you to contact the applicable advertiser or review its privacy policy, which should be posted on the advertiser's Web site.
-
-We also engage Omniture, a third party analytics company, to track and analyze usage and browsing patterns of our users to help us improve our Services. For information about Omniture's information collection practices and related opt-out choices, click [here](http://www.omniture.com/en/privacy/visualsciences/policy).  
-When you visit our mobile Web sites or use our mobile applications, third-party mobile advertising networks in which we participate may collect certain information, including your unique device ID and information about your wireless carrier, carrier user ID, the make, model and operating system of your device, cookies stored on your mobile browser, location information, and information about how you navigate within our Services. These networks may collect and track such information over time and combine it with other information collected when you access other mobile Web sites and applications that participate in the network to display advertising that is customized to your interests. Our mobile advertising network relationships are subject to change but include, as of the effective date of this policy, AdMob, iAd, Jumptap, and Millennial. To review their respective privacy policies and learn about any opt-out choices they offer, please visit the following webpages:  
-AdMob - <http://www.admob.com/home/privacy>  
-iAd - <http://support.apple.com/kb/HT4228>  
-Jumptap - <http://www.jumptap.com/privacy-policy/>  
-Millennial - <http://lp.mydas.mobi/rich/foundation/opt-out.php>
-
-#### News Registry
-
-We participate in the News Registry, a service operated by the NewsRight, LLC (NR). The News Registry collects content usage information and may use cookies in conjunction with this activity. Your continued use of the Services means you accept the privacy policy of the NR News Registry. Please refer to the NR News Registry privacy policy at <http://www.newsregistry.com/privacycenter/servicepolicy.aspx> for further information.
-
-#### Blogs, Discussion Forums and Community or Social Networking Areas
-
-This Privacy Policy only addresses the use and transfer of information that we collect from you. To the extent that you disclose any information to other parties, whether through interactive features, third-party services or promotions offered on or through the Services, or through other Web sites throughout the Internet, different policies will apply and Belo will not be responsible for the use or dissemination of such information. Our Services may offer social network tools, message boards, chat rooms or other forums or interactive areas you can use to communicate with other users or to submit and post your own content (such as stories, blogs, photos and videos, and the like). If you disclose Personal Information in one of these forums, this information can be viewed, collected, and used by others. Belo is not responsible for the use of information you disclose in these forums or areas. We encourage you to consult the forum rules and the [Terms of Service](https://web.archive.org/terms-and-conditions/terms-of-use) regarding the policies and procedures that apply to that portion of our Services.
-
-#### Co-branded Sites and Services
-
-Our Services may operate as part of a larger group of sites and applications and may carry co-branded pages. In addition, other third-party sites or applications may use Belo's name, or the name of one of Belo's affiliated companies or Services. Since Belo does not control the privacy policies of third parties, you are subject to the privacy policies, if any, of such third parties, and Belo shall not be responsible for the use or dissemination of your Personal Information by such parties. Therefore, we encourage you to ask questions and review those parties' privacy policies before you disclose your Personal Information to others.
-
-### How Can You Opt-Out of Sharing Your Personal Information or Receiving Our Promotional Communications?
-
-You may choose to "opt-out" of sharing Personal Information in several ways. When choosing to use certain features of the Services, you can choose whether to share optional Personal Information in connection with the feature. If you receive e-mail, phone or mail communications from one of our Web sites that you prefer not to receive, you may opt-out from receiving these communications by modifying the contact options in your registration profile. You may change your contact options at any time by following the process described in "How Can You Update Your Personal or Registration Information?," below.  
-In addition to opting-out by managing your contact preference options, you may opt-out from receiving commercial e-mail communications from any Belo Service that contacts you by using the opt-out link or instructions included in each commercial e-mail message you receive, or by sending your request to [Customer Service](https://web.archive.org/on-tv/contact), or by postal mail to:
-
-Belo Corp.  
-Attn: Opt-Out Request  
-400 South Record Street  
-Dallas, TX 75202.
-
-Please note that changing the contact preference options described above will not affect your receipt of any wireless text message communications you may have registered to receive. To unsubscribe from wireless text communications, please send your "opt-out" request, including the wireless number or wireless address you wish to remove from our list to [Customer Service](https://web.archive.org/on-tv/contact), or by sending postal mail to:
-
-Belo Corp.  
-Attn: Opt-Out Request  
-400 South Record Street  
-Dallas, TX 75202.
-
-You may "opt-out" altogether from providing Personal Information to us by not registering on the Services, or not registering for any Belo-sponsored promotion, and thereby not providing Personal Information. You may also choose at a later date to have your name removed from our database by deleting your registration profile. To do so, please follow the process described in "How Can You Update Your Personal or Registration Information?."
-
-### How Can You Update Your Personal Information or Registration Information?
-
-You may access all of the Web site registration information that we collect from you online and maintain by using the procedure described below. We use this procedure to better safeguard your Personal Information. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access to your profile or making changes.  
-You may also at any time choose to change or delete your profile from our database using this procedure. You should know that if you choose to delete your profile, certain aspects of our Services may no longer be available to you.
-
-  1. If you are not already logged in to the Web site, click on "Log-in" on the main navigation bar.
-  2. Click on the 'My Profile' link.
-  3. To change personal information click on the 'Personal Information' text. 
-  4. Update information and click submit. 
-  5. To delete your profile, submit a request to [Customer Service](https://web.archive.org/on-tv/contact).
-
-
-
-### What Safeguards Do We Put in Place to Protect Your Personal Information?
-
-Belo maintains reasonable safeguards to protect the security and integrity of the Personal Information that you provide to us. However, no security system is impenetrable and we cannot guarantee the security of our database. Nor can we guarantee that the information you supply won't be intercepted while being transmitted to us over the Internet.  
-For the purposes described in this policy, Personal Information may be transferred to, processed, stored and accessed by us, our affiliates and our service providers in the United States and in other jurisdictions where we or they operate. Courts and other authorities in these jurisdictions may, in certain circumstances, be entitled to access your Personal Information. By using the Services, you consent to this transfer, processing, storage and access of your Personal Information in and/or outside of the jurisdiction in which you reside. 
-
-### What Should You Know About Third-Party Sites and Advertising?
-
-Our Services include links to many other Web sites, and provide access to products and services offered by third parties whose privacy policies we don't control. When you access another site, purchase products or services, or conduct other transactions through links on our Services, use of any information you provide will be governed by the privacy policy of the operator of the site you're visiting or of the provider of such products or services. Belo assumes no responsibility or liabilities whatsoever for the content or privacy practices of the operators of any such linked sites or of any link or linking program. Belo does not necessarily endorse companies (or related products or services) promoted on the pages to which our Services are linked. If you decide to access any of the third-party sites linked to the Services, you do so entirely at your own risk.
-
-### Do We Knowingly Collect Personal Information of Children Under 13?
-
-Children should always get permission from their parents before sending any information about themselves (such as their names, e-mail addresses, and phone numbers) over the Internet, to us or to anyone else. We won't knowingly allow anyone under 13 to register with our Services or to provide any other Personal Information via the Services. If you're under 13, please do not provide us with any Personal Information about yourself (such as your name, your e-mail address or your phone number).
+Please read this Privacy Notice carefully. By visiting and using the Site, you agree that your use of our Site, and any dispute over our online privacy practices, is governed by this Privacy Notice and our [Terms of Service](https://web.archive.org/terms-and-conditions/terms-of-use). Because the Web is an evolving medium, we may need to change our Privacy Notice at some point in the future, in which case we'll post the revised Privacy Notice on this website and update the "Last Updated" date to reflect the date of the changes. By continuing to use the Site after we post any such changes, you accept the Privacy Notice as modified. Your access of the Site for the limited and exclusive purpose of reviewing this Privacy Notice does not constitute your acceptance of this Notice unless you make any further access or use of our Site.
 
 ### Your California Privacy Rights
 
-California law permits users who are California residents to request and obtain from us once a year, free of charge, a list of the third parties to whom we have disclosed their personal information (if any) for their direct marketing purposes in the prior calendar year, as well as the type of personal information disclosed to those parties. If you are a California resident and would like to request this information, please submit your request in an e-mail to [Customer Service](https://web.archive.org/on-tv/contact).
+California Civil Code Section 1798.83, also known as the "Shine The Light" law, permits our customers who are California residents to request and obtain from us once a year, free of charge, information about the personal information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of personal information that was shared and the names and addresses of all third parties with which we shared information in the immediately preceding calendar year.If you are a California resident and would like to make such a request, please submit your request in writing to:
 
-### How Do You Contact Us?
+Mark Faris   
+www.KTVB.COM  
+Online Privacy Coordinator  
+Gannett Law Department  
+7950 Jones Branch Drive  
+McLean, VA 22107 
 
-If you have any questions or comments about our Privacy Policy, please contact [Customer Service](https://web.archive.org/on-tv/contact). 
+### How We Collect Information
 
-### What Should You Know About "Phishing?"
+**Information You Provide.** We may collect and store information that you voluntarily supply to us while on our Site. This may include information that can be used to contact or identify you, such as your name, email address, or postal address. Some examples of this type of information include information that you electronically submit when you contact us with questions or participate in contests, surveys or sweepstakes, information that you post on blogs, discussion forums or other community posting and social networking areas on our Site, and information that you electronically submit when you complete an online registration form to access and use certain features of our Site. We also may ask for information (including a credit card number and other financial information) from those users who make purchases or have payment transactions on our Site.
 
-What we do NOT do: a warning about "phishing."  
-We do not and will not, at any time, request your credit card information, login name, or password, in an unsecured or unsolicited e-mail or telephone call. Identity theft and the practice currently known as "phishing" are of great concern to us. Safeguarding information to help protect you from identity theft is our priority. For more information about phishing, you may want to visit the Federal Trade Commission at <http://www.ftc.gov/>.
+**Location Information.** We may collect location information (e.g., city and state and/or zip code) that you provide. Certain devices and browsers contain unique identifiers that can be used to identify the geographical location of the device. When you use such a device or browser to access our Site, your device and/or browser may automatically collect and/or transmit your location information. We also may collect GPS information from the device if the device transmits it. Additionally, if you download our app, we may collect your location information in order to deliver our app services. If you choose to enable certain features in our apps that require your geographic location, then we will collect and store that information.
 
-### When is this Privacy Policy Effective? How Do We Post Changes to the Privacy Policy?
+**Other Information Automatically Collected to Improve the Site and Deliver Targeted Advertising.** We also collect and store information through a variety of automatic technologies, such as browser and flash cookies, pixels and web beacons about your use of our Site, including device identifying information such as IP addresses, MAC address or other device-specific alphanumerical ID numbers, the make and model of your device, the wireless provider associated with your device, whether you downloaded the app, the source of the download of the App (for example, whether via a particular advertisement for the App), when the App is launched, how many times a particular page within the Site is visited, which features the users interact with, and your device or computer's connection to the Internet. If you choose to connect to our Site through a social network such as Facebook, we may automatically collect your profile information. These things allow us, among other things, to improve the delivery of our web pages to you and to measure traffic on the Site.
 
-This Privacy Policy is effective as of July 26, 2012. Belo reserves the right to modify the terms of this policy at any time and in our sole discretion, by posting a change notice to this page and/or on the Service. Your continued viewing, browsing, use or access of a Belo Service following our posting of a change notice will constitute your binding acceptance of those changes.  
-Last updated: June 26, 2012
+The information we collect may be collected directly by us, or it may be collected by a third-party website hosting provider, or another third-party service provider, on our behalf.
+
+We also may use "cookies" and other similar technologies on the Site. Cookies are small files that are placed on your hard drive for record-keeping purposes and to enhance your experience with the Site. By showing how and when visitors use the Site, cookies help us deliver advertisements, identify how many unique users visit us, and track user trends and patterns. They also prevent you from having to re-enter your preferences on certain areas of the Site where you may have entered preference information before. This Site also may use web beacons (single-pixel graphic files also known as "transparent GIFs") to access cookies and to count users who visit the Site or open HTML-formatted email messages.
+
+### How Information is Used
+
+We use the information we collect from you while you are using the Site in a variety of ways, including, for example, for the purpose for which the information was submitted, to process your registration request, to provide you with services and communications that you have requested, to send you email updates and other communications, customize features and advertising that appear on the Site, to deliver our Site content to you, to measure Site traffic, measure user interests and traffic patterns, and to improve the Site and the services and features offered via the Site.
+
+We may use location information, either information you provided by you or information automatically collected, in order to provide you with content, services and advertising that is relevant to your geographic area. We may combine information we collect from you while you are using our Site with information that we collect from other sources to customize features, content and advertising that appear on our Site. In addition, we may use any information submitted by or collected from you via the Site for any purpose related to the Site, including to contact you for customer service purposes, to inform you of important changes or additions to our Site or the services offered over our Site, and to send you administrative notices and any other communications that we believe may be of interest to you.
+
+**Your Choices.** When we request information from you on the Site, you may always choose not to provide us with that information. But if you decline to supply or provide us with certain information while using the Site, you may not be able to use or participate in some or all of the features offered through the Site.
+
+If you want to limit the information that is automatically collected while you use our Site, most Web browsers allow you to disable certain functionality or set certain privacy setting. If you choose to disable cookies or turn off other functionality, you may not be able to use or participate in some or all of the features offered through the Site. If you would like more information on how to opt out of information collection practices by many third parties, visit the Digital Advertising Alliance's website at [www.aboutads.info](https://web.archive.org/web/20140630132226id_/http%3A//www.ktvb.com/terms-and-conditions/www.aboutads.info).
+
+### How Information is Shared
+
+**Sharing with Affiliates, Partners and Third Party Service Providers.** We may provide your information to our affiliates or to third parties, including our third party service providers and contractors, for purposes related to Site administration and other services. For example, if you use a credit or debit card to complete a transaction on our Site, we may share your personal information and credit card number with a credit card processing and/or a fulfillment company in order to complete your transaction, or such service provider(s) may collect that information from you directly, on our behalf.
+
+If you do not wish certain information to be shared for these purposes, send a letter to the Online Privacy Coordinator whose contact information is listed at the end of this Privacy Notice.
+
+We also make some content, products and services available through our Site through cooperative relationships with third-party providers, where the brands of our provider partner appear on the Site in connection with such content, products and/or services. We may share with our provider partner any information you provide, or that is collected, in the course of visiting any pages that are made available in cooperation with our provider partner. In some cases, the provider partner may collect information from you directly, in which cases the Privacy Notice of our provider partner may apply to the provider partner's use of your information. The Privacy Notice of our provider partners may differ from ours. If you have any questions regarding the Privacy Notice of one of our provider partners, you should contact the provider partner directly for more information.
+
+**Sharing Information with Third Parties for Advertising and Other Promotional Purposes.** We may use third-party service providers to target and serve some of the advertisements you see on the Site. We may share technical or aggregate information, such as type of pages viewed and categories of interest, from our Site with these service providers and advertisers for their use in displaying ads on our Site. These third party providers and advertisers may use their own browser or flash cookies, web beacons and similar technologies to collect technical information (such as device unique identifier, IP address, MAC address, browser type, pages visited, and location information) from users of the Site that is generated automatically as a user views or interacts with an ad. These service providers may use that information, sometimes in conjunction with similar information gathered through other websites and other sources, to deliver advertisements on this Site, and on other websites.
+
+Unless you affirmatively provide information within an ad, the data collected in connection with the ads, ad serving and ad targeting on our Site does not include your name, address, email address or telephone number, but it may include the device unique identifier, IP address, MAC address and location information of your computer or device. The use and collection of information by third-party advertising service providers is governed by the relevant third party's privacy policy and is not covered by our Privacy Notice.
+
+For information about use of your information by us and by third-party advertising service providers for advertising, see the section "[Data Collected in Connection with Ad Serving and Targeting.](https://web.archive.org/terms-and-conditions/privacy-policy#adchoices)" Sharing with Third Parties for Other Purposes. Please be aware that we may occasionally release information about our visitors if required to do so by law or if, in our business judgment, such disclosure is reasonably necessary: (a) to comply with legal process; (b) to enforce our [Terms of Service](https://web.archive.org/terms-and-conditions/terms-of-use); or (c) to protect the rights, property, or personal safety of our Site, us, our affiliates, our officers, directors, employees, representatives, our licensors, other users, and/or the public.
+
+Please also note that as our business grows, we may buy or sell various assets. In the unlikely event that we sell some or all of our assets, or our Site is acquired by another company, information about our Site users may be among the transferred assets.
+
+### Data Collected in Connection with Ad Serving and Targeting
+
+We operate in compliance with the Digital Advertising Alliance's Self-Regulatory Principles for Online Behavioral Advertising, [www.aboutads.info](http://www.aboutads.info/).
+
+We may use cookies, web beacons and similar technologies, and/or a third-party ad serving software, to automatically collect information about site users and site activity, and we may use this information to, among other things, serve targeted advertisements on this site. The information collected allows us to analyze how users use the site and to track user interests, trends and patterns, thus allowing us to deliver more relevant advertisements to users.
+
+We also may use third-party service providers, to target and serve some of the advertisements you see on the pages of our Site. We may share technical or aggregate information about your interaction with our Site, such as type of pages viewed and categories of interest, from our Site with these service providers for their use in displaying ads on our Site. These providers may use their own cookies, web beacons and similar technologies to collect similar information from our Site. These service providers may use that information, sometimes in conjunction with similar information gathered through other websites, to deliver advertisements on this Site, and on other websites that participate in our service providers' advertising networks, that are tailored to match the perceived interests of consumers. The information obtained by our third-party service providers also may be used to help measure and research an advertisement's effectiveness, or for other purposes.
+
+Unless you affirmatively provide information, the data collected in connection with the ad serving and ad targeting on our Site does not identify you personally and does not include your name, address, email address or telephone number, but it may include device identifying information such as the IP address, MAC address, cookie or other device-specific unique alphanumerical ID of your computer.
+
+The use and collection of information by third-party advertising service providers are governed by the relevant third party's Privacy Notice and are not covered by our Privacy Notice. If you would like more information about the information collection practices of a particular service provider, or if you would like more information on how to opt out of a service provider's information collection practices, go to [www.aboutads.info](http://www.aboutads.info/). You can opt out of the use of cookies by DoubleClick, one of our service providers, by visiting <http://www.google.com/intl/en/policies/privacy>. Additionally, many of our advertising service providers are members of the Network Advertising Initiative ("NAI"). You can obtain more information about these advertising service providers' information collection practices, and opt out of such practices (and at the same time opt out of the collection practices of other, or all, NAI members) by following the opt out instructions on the NAI's website at <http://www.networkadvertising.org/managing/opt_out.asp>. If you would like more information on how to opt out of information collection practices, go to [www.aboutads.info](http://www.aboutads.info/).
+
+### Information You Post to Blogs, Discussion Forums and Other Community Posting or Social Networking Areas
+
+Please keep in mind that whenever you voluntarily make your personal information or other private information available for viewing by third parties online - for example on blogs, discussion forums, or other community posting or social networking areas of our Site - that information can be seen, collected and used by others besides us. We cannot be responsible for any unauthorized third-party use of such information.
+
+### Children's Privacy Statement
+
+This site is not intended for children under the age of 13. We do not knowingly collect any Personal Information from a child under 13. If we become aware that we have inadvertently received personally identifiable information from a user under the age of 13 as part of the Site, we will delete such information from our records.
+
+### How To Make Changes to Your Information
+
+If you are a registered user of our Site, you can make changes to your account information by logging in to the Site and using the tools available via the Site. If you have subscribed to one or more of our email newsletters, you also may change your subscriber information, modify your subscriptions, and/or unsubscribe from these newsletters at any time by logging in to your account. If you have any questions about modifying your account or preference information, please visit the "Customer Service" pages of our Site.
+
+### Security
+
+All information we gather on our Site is stored within databases to which only we and services providers are provided access. However, as effective as the reasonable security measures implemented by us may be, no physical or electronic security system is impenetrable. We cannot guarantee the security of our Site's servers or databases, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet.
+
+### Links to Other Sites
+
+**Our Site also includes links to other websites and provides access to products and services offered by third parties, whose privacy policies we do not control. When you access another website or purchase products or services from a third-party, use of any information you provide is governed by the Privacy Notice of the operator of the site you are visiting or the provider of such products or services.**
+
+### Questions Regarding Privacy
+
+**If you have any questions about this Privacy Notice, our privacy practices, or your dealings with us, you can contact:**  
+Mark Faris  
+www.KTVB.COM  
+Online Privacy Coordinator  
+Gannett Law Department  
+7950 Jones Branch Drive  
+McLean, VA 22107 
