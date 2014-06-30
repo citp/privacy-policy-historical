@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the equityapartments.com privacy policy that was archived on 2013-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131002124912id_/http%3A//www.equityapartments.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the equityapartments.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630020919id_/http%3A//www.equityapartments.com/privacy.aspx) for the most accurate reproduction.*
 
 # Equity Residential - Apartments for Rent - Apartment Rentals - Apartment Search
 
 This web site (the “ _Web Site_ ”) is provided by Equity Residential, a Maryland Real Estate Investment Trust and its affiliates, subsidiaries and related entities (“ _Equity_ ,” “ _we_ ,” “ _our_ ” or “ _us_ ”). This Privacy Policy describes our privacy practices with regard to information about you that could reasonably be used to identify you personally or that is associated with information that identifies you (“ _Personal Information_ ”). Unless specifically stated otherwise, this Privacy Policy applies only to Personal Information that we gather or collect via the Web Site and any other Equity web site that posts a link to this Privacy Policy. It does not apply to any Personal Information collected offline or otherwise outside of the Web Site.
 
-Please take a moment to review the terms of this Privacy Policy. Please also review the [Terms of Use](https://web.archive.org/web/20131002124912id_/http%3A//www.equityapartments.com/terms-of-use.aspx), which govern your use of the Web Site. Please note that certain features or services discussed in this Privacy Policy may not be offered on the Web Site at any particular time.
+Please take a moment to review the terms of this Privacy Policy. Please also review the [Terms of Use](https://web.archive.org/web/20140630020919id_/http%3A//www.equityapartments.com/terms-of-use.aspx), which govern your use of the Web Site. Please note that certain features or services discussed in this Privacy Policy may not be offered on the Web Site at any particular time.
 
 ## COLLECTION OF INFORMATION ABOUT YOU
 
