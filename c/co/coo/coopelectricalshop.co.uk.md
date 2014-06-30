@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coopelectricalshop.co.uk privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230011949id_/http%3A//www.coopelectricalshop.co.uk/eStore/Content/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coopelectricalshop.co.uk privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630141610id_/http%3A//www.coopelectricalshop.co.uk/eStore/Content/Privacy) for the most accurate reproduction.*
 
 # Buy Electrical Appliances Online At The Co-operative Electrical
 
