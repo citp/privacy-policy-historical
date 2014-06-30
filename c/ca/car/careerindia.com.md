@@ -1,55 +1,66 @@
-> *The following text is extracted and transformed from the careerindia.com privacy policy that was archived on 2011-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111012142317id_/http%3A//www.oneindia.in/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerindia.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630055330id_/http%3A//www.oneindia.in/privacy.html) for the most accurate reproduction.*
 
 # Oneindia | Privacy Policy
 
-[Home](https://web.archive.org/) » Privacy Policy
+Greynium Information Technologies Pvt. Ltd., (hereinafter referred as " **Greynium** " which expression shall, unless repugnant to the context or meaning thereof, be deemed to include its affiliates, parent company, legal representatives and permitted assigns) provides the you, i.e. the user (hereinafter referred to as the " **User** ") with access to its content, resources, tools for communication, public forums, commerce platforms, and other services through its network of websites and all mobile applications ( hereinafter referred to as the " **Service** "). 
 
-**Privacy Policy**
+We at Greynium appreciate and respect your privacy and so we have drafted this Privacy Policy (hereinafter referred to as " **this Policy** ") which details how we handle your information. Privacy protection is our number one priority. Greynium uses the patent-pending "dual blind" privacy protection technology which allows Greynium to customize advertisement for User's browser without ever knowing User's name, address, social security number, telephone number or any other personally identifiable information. It's completely anonymous. Kindly note that usage of our Services on/through our network of websites and all mobile applications is subject to your absolute and unconditional acceptance of the terms and conditions of this Privacy Policy. 
 
-Oneindia.in Privacy Policy describes how we maintain your personal information when you register for Oneindia.in's services which include Oneindia Mail, Oneindia Bookmarks, Oneindia Videos, Oneindia Blogs, Public Notice & Fans Community on <http://popcorn.oneindia.in/> .
+* **User Information & Usage**
 
-**Personal information**
+For accessing or using our Service, you may be required to provide certain information such as name, address, occupation, nationality, credit/debit card details, email, contact number, etc. 
 
-  * You will need to create a [Oneindia Accoun](http://user.oneindia.in/)t to use the services on Oneindia.in. Oneindia.in will collect personal information when you create your Account which includes your email address, your name and a password, which is used to protect your account from unauthorized access. The Oneindia Account allows you to access all of our services including Oneindia Mail, Oneindia Bookmarks, Oneindia Videos, Oneindia Blogs, Public Notice, Fans community.
-  * As a Fan Club member, you can create a profile which includes personal information, such as your name (if no nickname is set), gender, location and also add profile photo. This information may be accessed and viewed by other members.
-  * When you invite new members into your network or send messages through the Fan Club, Oneindia.in collects and maintains the email addresses associated with the messages.
+All information, disclosed by you shall be deemed to be disclosed willingly and without any coercion. No liability pertaining to the authenticity/misrepresentation/fraud/negligence, etc. of the information disclosed to us shall lie on Greynium nor will we in any way be responsible to verify any information obtained from you. 
 
+You agree and acknowledge that all information gathered from you may be used by us for the following purposes:
 
-
-**Uses and Information Sharing**
-
-  * Oneindia.in maintains and processes your personal information and content of your communications in order to provide access to Oneindia services and the use of Fan Club services. 
-  * Your profile information displayed on your Fan Club account includes you name (if no nickname is set), gender, location and date of joining the Fan Club. 
-  * When you send messages through the Fan Club, your name and email address will be identified in the message. We also use your name and email address to notify you of new members, messages and or other information, such as invitations to join fan clubs, new alerts including ratings, reviews, recommendations, and crush notices. 
-  * If you invite another person or friends to join the Fan Club, we use the name and email address you provide us to contact that person and, if necessary, may send reminders to join. 
-  * Friends or other persons can search your profile by using the nickname provided in your profile. 
-  * Oneindia.in allows you to upload photos & videos to your profile. You understand that Photos & Videos posted are the sole responsibility of the person/user from which such content originated and such content are publicly available for other users to see, rate, recommend and download.
-  * Users may also post reviews, comments, polls, quizzes, so long as the contents are not illegal, obscene, threatening, defamatory, invasive of privacy, infringing of intellectual property rights, or otherwise injurious to third parties or objectionable and not contain political campaigning, commercial solicitation, chain letters, mass mailings, or any form of "spam". 
-  * Oneindia.in pre-screens user submitted polls & quizzes, the right to approve, reject or remove such content solely remains with Oneindia.in.
-  * You agree not to submit material that is copyrighted, protected by trade secret or otherwise subject to third party proprietary rights, including privacy and publicity rights, unless you are the owner of such rights or have written permission from their rightful owner to post the material and to grant Oneindia.in all of the license rights granted herein.
+  1. to maintain, develop, protect and improve our Services, manage your account/orders/subscriptions, etc; 
+  2. for communication regarding important notices, changes in any of our user related terms and conditions and policies, promotion and marketing purposes; 
+  3. for internal purposes such as auditing, data analysis and research relating our Services; 
+  4. in the event you participate in any contests or other promotional activity, for administering those activities; 
+  5. for doing strategic and targeted marketing. 
 
 
+* **Collection of Information & Storage**
 
-**Your Fan Club Profile**
+We shall collect information from you about you or relating to third parties, during the following stages (if applicable), but not limited to the following stages:
 
-  * Oneindia.in allows you to view and share your information with your friends, friends of friends and all Fan Club members.
-  * You can update your profile information anytime by clicking on the "edit" on your profile.
-  * Messages from Oneindia.in or your friends will be sent to your Primary email address provided while registering for Oneindia.in Account.
+  1. When you subscribe for any of our Services; 
+  2. When you share our content with third parties; 
+  3. When you invite others to use our Services; 
+  4. When you make any payments for our Services; 
+  5. When you gift out subscription or any of our Services to any third party; etc. 
 
 
 
-**Advertisers**
+We may make use of cookies and other technologies such as pixel tags and web beacons to gather information about you or to make effective use of the information gathered from you. The aforementioned technology tools shall collect only the information which you voluntarily/agree to supply and unless you identify yourself vide such information, we may not be able to ascertain your identity. Further, all information about you, including information about your internet connection, IP address, etc. may be used by us in our endeavours to cater to you mindful of your interests, preferences and otherwise.
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp). 
+All information gathered by us shall be stored on servers, log files and any other storage system owned by us or by third parties. Additionally, information may be stored on our computers, hard drives, hard copies, etc. 
 
-**Disclaimer**
+* **Collection of Information by Third-Party Sites and Advertisers**
 
-We value the privacy of information pertaining to its associates. We do not use or disclose information about your individual visits to our portal.
+Our network of websites and all mobile applications may contain links to other websites/other applications, whose privacy policies may be different to ours. You should consult the other sites'/applications’ privacy policies as we have no control over information that is submitted to, or collected by, these third parties.
 
-We will not use information about you without your permission and will provide the means for you to manage and control the information that you have provided. You agree to receive promotional communications from us (email and/or SMS) unless you specifically indicate otherwise in writing to us.
+On our network of websites and all mobile applications, there are third party advertisers and links who advertise their products and/or services and such third party advertisers and links may place or recognize a unique "cookie" on your browser and may use information (not including your name, address, e-mail address) about your visits to our and other websites in order to provide advertisements about goods and services of interest to you.
 
-We do not disclose any personal information to advertisers and for other marketing and promotional purposes that could be used to personally identify you, such as your password, credit card number and bank account number. 
+* **Disclosure**
 
-**More information**
+You agree and acknowledge that Greynium shall be at liberty to disclose your information or part thereof to its agents/ business partners/ retailers/vendors/ service providers/ third party servers/advertisers and other business associates.
 
-Our Terms & Condition, Privacy Policy and other related legal information applies to all sites owned by the Company. If you have additional questions, please write to [inquiries@greynium.com](mailto:inquiries@greynium.com)
+* **Confidentiality**
+
+We at Greynium endeavor to treat your information as confidential and not cause any harm, theft, loss, unauthorized access, misuse within our storage system, alteration and destruction. In line with the priority for confidentiality, we request you to SSL-enabled browsers such as Chrome, Safari, Firefox or Internet Explorer as such browsers protect the confidentiality of out information while it is transmitted over internet. In the event any of our Services are public forums such at chat rooms you shall be responsible for the information you may disclose on such forums to other users.
+
+However, in the course of our business we may be required to disclose information about you or part thereof to its agents/ business partners/ retailers/vendors/ service providers/ third party servers/advertisers and other business associates. 
+
+* **Legal Disclosure**
+
+You agree that if so required by law or as per directions of the governmental agency, authority, court, etc, Greynium may be required to disclose all your information and in such an event Greynium is in no manner responsible for informing you or seeking your prior approval.
+
+* **Grievances**
+
+In the event you have any grievances relating to the Policy, please inform us within 24 hours of occurrence of the instance from which the grievance has arisen, by writing an email to tos@oneindia.co.in. We shall respond to all grievances lodged with us, within 36 hours through emails, telephone calls, personal visits, etc. 
+
+* **Amendments**
+
+Greynium retains unconditional right to modify or amend this Policy without any recourse to you or any requirement of notice of the same to you.
