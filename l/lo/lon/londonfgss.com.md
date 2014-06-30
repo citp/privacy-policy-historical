@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the londonfgss.com privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123202757id_/http%3A//www.lfgss.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the londonfgss.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630052126id_/https%3A//www.lfgss.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - London Fixed-gear and Single-speed
 
 Last modified: May 18, 2008
 
-At London Fixed-gear and Single-speed we recognize that privacy is important. This Policy applies to all of the products, services and websites offered by [Büro 9 Limited](http://www.buro9.com/). or its subsidiaries or affiliated companies (collectively, London Fixed-gear and Single-speed's "services"). In addition, where more detailed information is needed to explain our privacy practices, we may post separate privacy notices to describe how particular services process personal information.
+At London Fixed-gear and Single-speed we recognize that privacy is important. This Policy applies to all of the products, services and websites offered by LFGSS Cycling Club or its subsidiaries or affiliated companies (collectively, London Fixed-gear and Single-speed's "services"). In addition, where more detailed information is needed to explain our privacy practices, we may post separate privacy notices to describe how particular services process personal information.
 
 If you have any questions about this Policy, please feel free to [contact us](https://web.archive.org/sendmessage.php) through our website.
 
