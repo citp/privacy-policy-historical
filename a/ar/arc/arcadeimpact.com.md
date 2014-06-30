@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arcadeimpact.com privacy policy that was archived on 2013-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130723063018id_/http%3A//www.arcadeimpact.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcadeimpact.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630105339id_/http%3A//www.arcadeimpact.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - ArcadeImpact.com
 
