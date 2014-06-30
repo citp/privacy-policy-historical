@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the outboundengine.com privacy policy that was archived on 2013-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131103062308id_/http%3A//www.outboundengine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outboundengine.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630050907id_/http%3A//www.outboundengine.com/privacy-policy) for the most accurate reproduction.*
 
-# OutboundEngine Privacy Policy - OutboundEngine
+# OutboundEngine Privacy Policy
 
 ## What This Privacy Policy Covers
 
