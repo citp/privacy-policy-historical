@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the garyjwolff.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807160420id_/http%3A//www.garyjwolff.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the garyjwolff.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630074548id_/http%3A//www.garyjwolff.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy for garyjwolff.com
 
@@ -13,8 +13,7 @@ Having been spammed virtually millions of times since I started doing email in 1
 
 This document outlines the types of personal information collected when you use this site, as well as some of the steps taken to safeguard that information. I hope this will help you make an informed decision about sharing personal information. 
 
-I give you my [Scout's honor](http://garywolff.com/eagle.html) to maintain the highest standards of decency, fairness, and integrity on this website. Likewise, I am committed to protecting   
-customers', consumers' and online visitors' privacy to the greatest extent possible.
+I give you my [Scout's honor](http://garywolff.com/eagle.html) to maintain the highest standards of decency, fairness, and integrity on this website. Likewise, I am committed to protecting customers', consumers' and online visitors' privacy to the greatest extent possible.
 
 ### Personal Information
 
@@ -28,10 +27,9 @@ Once information is reviewed, it is either discarded or stored in my files, for 
 ### Use of Cookies
 
   
-Cookies may be used to help personalize your online experience. Cookies are identifiers that are routinely transferred by virtually every website these days to your computer's hard drive through your Web browser to enable website systems to recognize your browser. 
+Cookies may be used to help personalize your online experience. Cookies are identifiers that are routinely transferred by virtually every website these days to your computer's hard drive through your Web browser to enable website systems to recognize your browser. 
 
-The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize the site's pages, or register with any of the site's services, a cookie simply enables a website to recall your specific  
-information on subsequent visits.
+The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize the site's pages, or register with any of the site's services, a cookie simply enables a website to recall your specific information on subsequent visits.
 
 You have the ability to accept or decline cookies by modifying your Web browser; however, if you choose to decline cookies, you may not be able to fully experience the full, interactive features of the site.
 
@@ -42,8 +40,7 @@ A web beacon is a transparent image file used to monitor your journey around a s
 
 It is possible I may choose in the future to use third-party advertisements that use cookies and web beacons in the course of ads being served on this web site to ascertain how many times you've seen an advertisement. No personally identifiable information you give is provided to them for cookie or web beacon use, so they cannot personally identify you with that information on this web site.
 
-Some third-party advertisements may be provided by Google, which uses cookies to serve ads on this site. Google uses the DART cookie, which enables it to serve ads to our users based on their visits to this site and other sites on the Web. You  
-may opt out of the use of the DART cookie by visiting the  
+Some third-party advertisements may be provided by Google, which uses cookies to serve ads on this site. Google uses the DART cookie, which enables it to serve ads to our users based on their visits to this site and other sites on the Web. You may opt out of the use of the DART cookie by visiting the  
 [Google advertising and privacy policy](http://www.google.com/privacy_ads.html).
 
 Browsers can be set to accept or reject cookies or notify you when a cookie is being sent. Privacy software can be used to override web beacons. Taking either of these actions shouldn't cause a problem with this site, should you so choose.
@@ -51,8 +48,7 @@ Browsers can be set to accept or reject cookies or notify you when a cookie is b
 ### Children's Online Privacy Protection Act
 
   
-This website is directed to adults; it is not directed to children under the age of 13. This site is operated in compliance with the Children's Online Privacy Protection  
-Act, and I will not knowingly collect or use personal information from anyone under 13 years of age.
+This website is directed to adults; it is not directed to children under the age of 13. This site is operated in compliance with the Children's Online Privacy Protection Act, and I will not knowingly collect or use personal information from anyone under 13 years of age.
 
 ### Release of Information
 
