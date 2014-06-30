@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the printcountry.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231005133id_/http%3A//www.printcountry.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printcountry.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630220302id_/http%3A//www.printcountry.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - Printer Ink Cartridges from PrintCountry
 
@@ -36,3 +36,7 @@ If you provide us permission to do so, we may provide your personal identifying 
 Additionally, with your approval, your personal, order and payment information may be shared with other companies.
 
 Finally, we may disclose information to fulfill certain legal and regulatory requirements or if we believe, in good faith, that such disclosure is legally required or necessary to protect others' rights or to prevent harm.
+
+**Analytics**
+
+We use 3rd party statistics apps such as Google Analytics to analyze site traffic. This report includes but not limited to most visited pages, visitor behaviour and demographics. This data is anonymous, and visitors are not indentifiable in any way. If you choose not be included in these statistical data, we recommend [Google Analytics' opt-outs for the web (browser plugin)](https://tools.google.com/dlpage/gaoptout/) for the duration of your visit.
