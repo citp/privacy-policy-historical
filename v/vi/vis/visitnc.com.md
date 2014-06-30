@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visitnc.com privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106010250id_/http%3A//www.visitnc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitnc.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630133321id_/http%3A//www.visitnc.com/privacy) for the most accurate reproduction.*
 
 # Explore North Carolina
 
@@ -62,7 +62,7 @@ The VisitNC.com website contains links to other sites and we attempt to only lin
 
 ###  Copyright
 
-© 2013 North Carolina Department of Commerce, Division of Tourism, Film and Sports Development.
+© 2014 North Carolina Department of Commerce, Division of Tourism, Film and Sports Development.
 
 ###  Contact Information
 
