@@ -1,55 +1,51 @@
-> *The following text is extracted and transformed from the unitedhealthgroup.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220055840id_/http%3A//www.unitedhealthgroup.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unitedhealthgroup.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630115051id_/http%3A//www.unitedhealthgroup.com/Privacy.aspx) for the most accurate reproduction.*
 
 # UnitedHealth Group - Privacy Policy
 
-### **Social Security Number Protection Policy**
-
-Protecting personal information is important to UnitedHealth Group. It is the policy of UnitedHealth Group and its current and future affiliates to protect the confidentiality of Social Security numbers ("SSNs”) that we receive or collect in the course of business. We secure the confidentiality of SSNs through various means, including physical, electronic, and administrative safeguards that are designed to protect against unauthorized access. It is our policy to limit access to SSNs to that which is lawful, and to prohibit unlawful disclosure of SSNs. 
-
-### **Website Privacy Policy**
+### Website Privacy Policy
 
 **Introduction**
 
-We are very sensitive to privacy issues. The purpose of this Website Privacy Policy is to let you know how we handle the information we receive from you through this website. Portions of this website may describe additional privacy practices applicable to specific types of information or to information provided on specific Web pages. 
+We recognize that the privacy of your personal information is important. The purpose of this policy is to let you know how we handle the information collected through the use of this website. Portions of this website may describe privacy practices applicable to specific types of information or to information provided on specific web pages. 
 
-This Website Privacy Policy does not apply to information collected through other means such as by telephone or in person, although that information may be protected by other privacy policies. As used in this Website Privacy Policy, terms such as “we” or “our” and “Company” refer to UnitedHealth Group and its current and future affiliate entities. 
+This policy does not apply to information collected through other means such as by telephone or in person, although that information may be protected by other privacy policies. As used in this policy, terms such as “we” or “our” and “company” refer to UnitedHealth Group and its current and future affiliated entities. 
 
-This site is intended for a United States audience. If you access this site from outside the U.S., you acknowledge, agree, and consent that any information you provide, including any personal information, will be transferred to and processed by a computer server located within the U.S., and subject to U.S. laws and regulations. Further, if you access this site from outside the U.S., you acknowledge and agree that you are responsible for compliance with any applicable local or national laws, rules or regulations applicable to such use.
+This website is intended for a U.S. audience. Any information you provide, including any personal information, will be transferred to and processed by a computer server located within the United States.
 
-**Cookies and non-personal information**
+**Cookies and Tracking**
 
-“Non-personal information” means information that does not permit us to specifically identify you by your full name or similar unique identifying information such as a social security number, member identification number, address or telephone number. The Company uses “cookie” technology and similar technology to gather non-personal information from our website visitors such as which pages are used and how often they are used, and to enable certain features on this website. 
+The company uses various technologies, which may include “cookie” technology, to gather information from our website visitors such as pages visited and how often they are visited, and to enable certain features on this website. “Cookies” are small text files that may be placed on your computer when you visit a website or click on a URL. Cookies may include “single-session cookies” that generally record information during only a single visit to a website and then are erased, and “persistent” cookies that are generally stored on a computer unless or until they are deleted or are set to expire. 
 
-You may disable these cookies and similar items by adjusting your browser preferences on your computer at any time; however, this may limit your ability to take advantage of all the features on this website. Keep in mind that cookies are not used to collect any personal information and do not tell us who you are. Some examples of the way we use cookies include: 
+You may disable cookies and similar items by adjusting your browser preferences at any time; however, this may limit your ability to take advantage of all the features on this website. You may also manage the use of “flash” technologies, with the [Flash management tools](http://www.adobe.com/devnet/security.html) available at Adobe's website. Note that we do not currently respond to web browser “Do Not Track” signals that provide a method to opt out of the collection of information about online activities over time and across third-party websites or online services because, among other reasons, there is no common definition of such signals and no industry-accepted standards for how such signals should be interpreted.
 
-  * Tracking resources and data accessed on the site. 
-  * Recording general site statistics and activity. 
+We may also allow third-party service providers to use cookies and other technologies to collect information and to track browsing activity over time and across third-party websites such as web browsers used to read our websites, which websites are referring traffic or linking to our websites, and to deliver targeted advertisements to you. We do not control these third-party technologies and their use is governed by the privacy policies of third parties using such technologies. For more information about third-party advertising networks and similar entities that use these technologies, see [www.aboutads.info/consumers](http://www.aboutads.info/consumers), and to opt-out of such ad networks’ and services’ advertising practices, go to [www.aboutads.info/choices](http://www.aboutads.info/choices). After you click the link, you may choose to opt-out of such advertising from all participating advertising companies or only advertising provided by specific advertising companies.
+
+We may use analytics companies to gather information and aggregate data from our website visitors such as which pages are visited and how often they are visited, and to enable certain features on our websites. Information is captured using various technologies and may include cookies. 
+
+We may use and disclose your activity information unless restricted by this policy or by law. Some examples of the ways we use your activity information include: 
+
+  * Customizing your experience on the website including managing and recording your preferences. 
+  * Marketing, product development, and research purposes. 
+  * Tracking resources and data accessed on the website. 
+  * Developing reports regarding website usage, activity and statistics. 
   * Assisting users experiencing website problems. 
   * Enabling certain functions and tools on this website. 
-  * Tracking paths of visitors to this site and within this site. 
+  * Tracking paths of visitors to this website and within this website. 
 
 
 
-We may also collect other forms of non-personal information such as what web browsers are used to read our website and what websites are referring traffic or linking to our website. Aggregate and de-identified data regarding website users is also considered non-personal information. 
+**Your Personal Information**
 
-**With whom is non-personal information shared?**
-
-Because non-personal information does not identify who you are, we do not limit the ways we may use or share non-personal information. For example, we may share non-personal information with our affiliates, suppliers, employees and agents, other businesses, and the government. 
-
-**Personal information provided by you**
-
-“Personal information” means information that specifically identifies you as an individual, such as your full name, telephone number, e-mail address, postal address, or certain account numbers. As used in this Website Privacy Policy, personal information does not include information protected under HIPAA, which would be protected as described in the HIPAA Notices of Privacy Practices of your health plans or physicians and other health care professionals. 
-
-This website may include web pages that give you the opportunity to provide us with personal information about yourself. **You do not have to provide us with personal information if you do not want to; however, that may limit your ability to use certain functions of this website or to request certain services or information**. 
-
-We may combine personal information that you provide us through this website with other personal information held by the Company, including with affiliates or our vendors. For example, if you have purchased a product or service from us, we may combine personal information you provide through this website with information regarding your receipt of the product or service.
+This website may include web pages that give you the opportunity to provide us with personal information about yourself. You do not have to provide us with personal information if you do not want to; however, that may limit your ability to use certain functions of this website or to request certain services or information. 
 
 We may use personal information for a number of purposes such as:
 
-  * To respond to an e-mail or particular request from you. 
+  * To respond to an email or particular request from you. 
   * To personalize the website for you. 
   * To process an application as requested by you. 
+  * To administer surveys and promotions. 
   * To provide you with information that we believe may be useful to you, such as information about health products or services provided by us or other businesses. 
+  * To perform analytics and to improve our products, websites, and advertising. 
   * To comply with applicable laws, regulations, and legal process. 
   * To protect someone's health, safety, or welfare. 
   * To protect our rights, the rights of affiliates or related third parties, or take appropriate legal action, such as to enforce our Terms of Use. 
@@ -58,54 +54,49 @@ We may use personal information for a number of purposes such as:
 
 
 
-You understand and specifically agree that we may use personal information to contact you through any contact information you provide through this website, including any email address, telephone number, cell phone number, text message number, or fax number. 
+We may use personal information to contact you through any contact information you provide through this website, including any email address, telephone number, cell phone number, text message number, or fax number. Please see the section below titled “Our Online Communications Practices.” 
 
-**With whom is personal information shared?**
+We may also share personal information within the company, and we may combine personal information that you provide us through this website with other information we have received from you, whether online or offline, or from other sources such as from our vendors. For example, if you have purchased a product or service from us, we may combine personal information you provide through this website with information regarding your receipt of the product or service. 
 
-We will only share your personal information with third parties as outlined in this Website Privacy Policy (in its current or future form) and as otherwise permitted by law.
+**Sharing Personal Information**
 
-We share and give access to personal information to our employees and agents in the course of operating our businesses. For example, if you sent us an e-mail asking a question, we would provide your e-mail address to one of our employees or agents, along with your question, in order for that person to reply to your e-mail. We may share personal information with other affiliates or business units within the Company.
+We will only share your personal information with third parties as outlined in this policy and as otherwise permitted by law. 
 
-We may share and give access to personal information with other companies that we hire to perform services on our behalf or collaborate with. For example, we may hire an outside company to help us send and manage e-mail, and in that case we might provide the outside company with your e-mail address and certain other information in order for them to send you an e-mail message on our behalf. Similarly, we may hire outside companies to host or operate some of our websites and related computers and software applications. 
+We may share personal information if all or part of the company is sold, merged, dissolved, acquired, or in a similar transaction. 
 
-However, if we share or give access to personal information to outside companies we require them to use the personal information only for limited purposes, such as for sending you the e-mail in the example above. If you believe we or any company associated with the Company has misused any of your information please contact us immediately and report such misuse. 
-
-We may share personal information if all or part of the Company is sold, merged, dissolved, acquired, or in a similar transaction. 
-
-We may share personal information in response to a court order, subpoena, search warrant, law or regulation. We may cooperate with law enforcement authorities in investigating and prosecuting website visitors who violate our rules, or engage in behavior that is harmful to other visitors, or is illegal. 
+We may share personal information in response to a court order, subpoena, search warrant, law or regulation. We may cooperate with law enforcement authorities in investigating and prosecuting activities that are illegal, violate our rules, or may be harmful to other visitors. 
 
 If you submit information or a posting to a chat room, bulletin board, or similar “chat” related portion of this website, the information you submit along with your screen name will be visible to all visitors, and such visitors may share with others. Therefore, please be thoughtful in what you write and understand that this information may become public.
 
-**Reviewing my information**
+We may also share personal information with other third-party companies that we collaborate with or hire to perform services on our behalf. For example, we may hire a company to help us send and manage email, and we might provide the company with your email address and certain other information in order for them to send you an email message on our behalf. Similarly, we may hire companies to host or operate some of our websites and related computers and software applications. 
 
-This website may permit you to view your visitor profile and related personal information. If this function is available, we will include a link on this website with a heading such as “My Profile” or similar words. Clicking on the link will take you to a page through which you may review your visitor profile and related personal information. 
+This website may permit you to view your visitor profile and related personal information and to request changes to such information. If this function is available, we will include a link on this website with a heading such as “My Profile” or similar words. Clicking on the link will take you to a page through which you may review your visitor profile and related personal information. 
 
-**Website and information security**
+**Website and Information Security**
 
-We use a number of physical security (such as locks and alarm systems), electronic security (such as passwords and encryption methods), and procedural security methods (such as rules regarding the handling and use of information), designed to protect the security and integrity of information submitted through this website. Due to the nature of the Internet and online communications, however, we cannot guarantee that any information transmitted online will remain absolutely confidential, and we are not liable for the illegal acts of third parties such as criminal hackers.
+We maintain reasonable administrative, technical and physical safeguards designed to protect the information that you provide on this website. However, no security system is impenetrable and we cannot guarantee the security of our website, nor can we guarantee that the information you supply will not be intercepted while being transmitted to us over the Internet, and we are not liable for the illegal acts of third parties such as criminal hackers. 
 
-**Our online communication practices**
+**Our Online Communication Practices**
 
-_General e-mail communications_
+We may send electronic newsletters, notification of account status, and other communications, such as marketing communications, on a periodic basis to various individuals and organizations. We may also send email communications regarding topics such as general health benefits, website updates, health conditions, and general health topics. We offer you appropriate consent mechanisms, such as opt-out, for marketing and certain other communications. As examples, you may opt-out as provided for in a specific email communication or contact us as described below in the section “Contact Us.” Please be aware that opt-outs may not apply to certain types of communications, such as account status, website updates, or other communications. 
 
-Most e-mail, including any e-mail functionality on our site, does not provide a completely secure and confidential means of communication. It is possible that your e-mail communication may be accessed or viewed inappropriately by another Internet user while in transit to us. If you wish to keep your information completely private, you should not use e-mail. We may send e-mail communications to you regarding topics such as general health benefits, website updates, health conditions, and general health topics. 
+**Information for Children Under 13**
 
-_Other online communications_
+We will not intentionally collect any personal information from children under the age of 13 through this website without receiving parental consent. If you think that we have collected personal information from a child under the age of 13 through this website, please contact us. 
 
-The Company sends electronic newsletters, notification of account status, and other communications such as information marketing other products or services offered by us, on a periodic basis to various individuals and organizations. To opt-out of any specific electronic communication you're receiving, click on the opt-out button associated with the specific communication. 
+**Contact Us**
 
-**Information for children under 13**
+To contact us regarding this policy and our related privacy practices, please visit the [Contact Us page](https://web.archive.org/ContactUs.aspx). If you believe we or any company associated with us has misused any of your information please contact us immediately and report such misuse. 
 
-We will not intentionally collect any personal information from children under the age of 13 through this website without receiving verifiable parental consent. If you think that we have collected personal information from a child under the age of 13 through this website, please contact us. 
+**Effective Date**
 
-**Contact us  
-**  
-To contact us regarding this Website Privacy Policy and our related privacy practices, [visit the Contact Us page](http://www.unitedhealthgroup.com/main/ContactUs.aspx).
-
-**Effective date**
-
-The Effective Date of this Privacy Policy is July 14, 2011. 
+The effective date of this policy is January 1, 2014. 
 
 **Changes to this Website Privacy Policy**
 
-We may change this Website Privacy Policy. If we do so such change will appear on this page of our website or in another location as indicated by us. It is your responsibility to review the Website Privacy Policy each time you use this website. By continuing to use this website, you consent to any changes to our Website Privacy Policy.
+We may change this policy. If we do so, such change will appear on this page of our website. We will also provide appropriate notice and choices to you, on this website and in other appropriate locations, based on the scope and extent of changes. You may always visit this policy to learn of any updates.    
+ 
+
+### Social Security Number Protection Policy
+
+Protecting personal information is important to UnitedHealth Group. It is our policy to protect the confidentiality of Social Security numbers ("SSNs”) that we receive or collect in the course of business. We secure the confidentiality of SSNs through various means, including physical, technical, and administrative safeguards that are designed to protect against unauthorized access. It is our policy to limit access to SSNs to that which is lawful, and to prohibit unlawful disclosure of SSNs.
