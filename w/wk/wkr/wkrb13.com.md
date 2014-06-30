@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wkrb13.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225132252id_/http%3A//www.wkrb13.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wkrb13.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630205400id_/http%3A//www.wkrb13.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
