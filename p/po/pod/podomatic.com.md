@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the podomatic.com privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014073916id_/http%3A//www.podomatic.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the podomatic.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630122011id_/http%3A//www.podomatic.com/about/privacy) for the most accurate reproduction.*
 
 # PodOmatic | Best Free Podcasts
 
@@ -25,7 +25,7 @@ PodOmatic is not designed for children under age 13. We recommend that children 
 **Your Ability to Edit and Delete Your Account Information and Preferences**
 
   * You can edit your [PodOmatic User Information](https://web.archive.org/user)
-  * Although we do our best only to send you e-mail you want, we reserve the right to send you certain communications relating to the PodOmatic service, such as service announcements, administrative messages and the PodOmatic Newsletter or podMail, that are considered part of your PodOmatic account, without offering you the opportunity to opt-out of receiving them. 
+  * Although we do our best only to send you e-mail you want, we reserve the right to send you certain communications relating to the PodOmatic service, such as service announcements, administrative messages and the PodOmatic Newsletter, that are considered part of your PodOmatic account, without offering you the opportunity to opt-out of receiving them. 
   * You can delete your PodOmatic account by visiting our [Account Deletion](https://web.archive.org/user/delete) page. 
 
 
