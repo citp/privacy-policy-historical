@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usabilityhub.com privacy policy that was archived on 2013-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130814042731id_/https%3A//usabilityhub.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usabilityhub.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630040634id_/https%3A//usabilityhub.com/privacy) for the most accurate reproduction.*
 
 # UsabilityHub
 
@@ -25,7 +25,7 @@ If you visit our site to read or download information on our pages, we collect a
 
 If you identify yourself by sending us an e-mail containing personal information, then the information collected will be solely used to respond to your message.
 
-The information collected is for statistical purposes and the for the purposes of providing demographics to test owners. UsabilityHub Pty Ltd may use software programs to create summary statistics, which are used for such purposes as assessing the number of visitors to the different sections of our site, what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas.
+The information collected is for statistical purposes and the for the purposes of providing demographics to test owners. UsabilityHub Pty Ltd may use software programs to create summary statistics, which are used for such purposes as assessing the number of visitors to the different sections of our site, what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas. Company logos and names may be used for promotional purposes.
 
 For site security purposes and to ensure that this service remains available to all users, UsabilityHub Pty Ltd uses software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.
 
