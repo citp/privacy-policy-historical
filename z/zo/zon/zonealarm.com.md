@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zonealarm.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126223520id_/http%3A//www.zonealarm.com/security/en-us/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zonealarm.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630021226id_/http%3A//www.zonealarm.com/security/en-us/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy by ZoneAlarm, a division of Checkpoint Software
 
@@ -6,9 +6,9 @@ ZoneAlarm Website Statement of Privacy
 
 This document was last updated March 28, 2013.
 
-[ ](http://www.truste.org/ivalidate.php?url=www.zonealarm.com&sealid=101)
+[](https://privacy.truste.com/privacy-seal/Zone-Labs,-LLC/validation?rid=63bd73f6-a9dd-4e06-bad7-e77e6a422883 "TRUSTe European Safe Harbor certification")
 
-[Zone Labs, L.L.C. ("ZoneAlarm") is committed to protecting your privacy. This Privacy Policy explains our privacy practices for our website, ](http://www.truste.org/ivalidate.php?url=www.zonealarm.com&sealid=101)[www.zonealarm.com](https://web.archive.org/web/20131126223520id_/http%3A//www.zonealarm.com/security/en-us/home.htm) on the World Wide Web (the "Site"), as well as for ZoneAlarm Internet-delivered services that may be accessed through the normal use of our products (the "Services"). You can travel through most of our Site without giving us any information about yourself. But sometimes we do need information to provide services that you request. The following statement explains our information-gathering and dissemination practices. Please read the complete ZoneAlarm Privacy Policy. 
+Zone Labs, L.L.C. ("ZoneAlarm") is committed to protecting your privacy. This Privacy Policy explains our privacy practices for our website, [www.zonealarm.com](https://web.archive.org/web/20140630021226id_/http%3A//www.zonealarm.com/security/en-us/home.htm) on the World Wide Web (the "Site"), as well as for ZoneAlarm Internet-delivered services that may be accessed through the normal use of our products (the "Services"). You can travel through most of our Site without giving us any information about yourself. But sometimes we do need information to provide services that you request. The following statement explains our information-gathering and dissemination practices. Please read the complete ZoneAlarm Privacy Policy. 
 
 General Information | What Information We Gather/Track | If You Opt to Receive Communications, How We Will Contact You | Site Functionality | Security of Your Information | ZoneAlarm Services | Correcting/Updating Personally Identifiable Information | Updating/Unsubscribing Your Email Address
 
@@ -24,7 +24,7 @@ ZoneAlarm complies with the U.S.-E.U. Safe Harbor Framework as set forth by the 
 
 By using this Site or any products or services provided through the Site, you expressly consent to the use and disclosure of information as described in this Privacy Policy. IF YOU DO NOT AGREE WITH ANY OF THE TERMS BELOW, YOU SHOULD NOT USE THIS SITE OR THE PRODUCTS OR SERVICES OFFERED BY ZONEALARM AT THIS SITE. 
 
-Please note that the [ZoneAlarm User Forum](https://web.archive.org/web/20131126223520id_/http%3A//www.zonealarm.com/security/en-us/community/user-forum-agreement.htm) is covered by its own [privacy policy](https://web.archive.org/web/20131126223520id_/http%3A//www.zonealarm.com/security/en-us/community/user-forum-privacy.htm), which is available for review at any time.   
+Please note that the [ZoneAlarm User Forum](https://web.archive.org/web/20140630021226id_/http%3A//www.zonealarm.com/security/en-us/community/user-forum-agreement.htm) is covered by its own [privacy policy](https://web.archive.org/web/20140630021226id_/http%3A//www.zonealarm.com/security/en-us/community/user-forum-privacy.htm), which is available for review at any time.   
 
 
 What Information We Gather/Track
@@ -115,7 +115,7 @@ You are free to update or delete inaccuracies within your information at any tim
 
 To change your information, or request that your information be changed, please use one of the following options:
 
-  * Log in at [http://www.zonealarm.com/myaccount](https://web.archive.org/web/20131126223520id_/http%3A//www.zonealarm.com/security/en-us/login.htm)
+  * Log in at [http://www.zonealarm.com/myaccount](https://web.archive.org/web/20140630021226id_/http%3A//www.zonealarm.com/security/en-us/login.htm)
   * Send email to us at [privacy@zonealarm.com](mailto:privacy@zonealarm.com)   
 Please note that this email address will reject messages with attachments of any kind.
   * By Postal Mail:  
