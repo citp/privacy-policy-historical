@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bid4keywords.com privacy policy that was archived on 2013-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130625234041id_/http%3A//www.admedia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bid4keywords.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630035138id_/http%3A//www.admedia.com/privacy) for the most accurate reproduction.*
 
-# AdMedia Online Ad Network | Affiliate Advertising Solutions
+# AdMedia Online Ad Network | Advertiser Solutions
 
 THE FOLLOWING PRIVACY POLICY POLICYDETAILS THE ADMEDIA PLEDGE TO KEEPING YOUR INFORMATION PRIVATE.
 
