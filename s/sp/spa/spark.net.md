@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spark.net privacy policy that was archived on 2013-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130929094912id_/http%3A//www.spark.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spark.net privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701010932id_/http%3A//www.spark.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Spark Networks
 
@@ -8,7 +8,7 @@ As you would expect, we monitor visits to our website, principally so that we ca
 
 The information that we collect in this process will not identify you as an individual. We do not seek to identify individual visitors unless they volunteer their contact details through one of the contact features on the site. In some circumstances, our records will identify organizations visiting our site and we may use that information in managing our relationships with those organizations – for example, in considering how to develop the services that we offer them.
 
-We use data collection devices such as “cookies” on certain pages of our website. “Cookies” are small files placed on your hard drive that assist us in providing customized services. We also offer certain features that are only available through the use of a “cookie”. Cookies can also help us provide information which is targeted to your interests. Most cookies are “session cookies,” meaning that they are automatically deleted from your hard drive at the end of a session. You are always free to decline our cookies if your browser permits.
+We use data collection devices such as “cookies” on certain pages of our website. “Cookies” are small files placed on your hard drive that assist us in providing customized services. We also offer certain features that are only available through the use of a “cookie”. Cookies can also help us provide information which is targeted to your interests. Most cookies are “session cookies,” meaning that they are automatically deleted from your hard drive at the end of a session. You are always free to decline our cookies if your browser permits. We may use our own cookie from the domain tagman.christianmingle.com to anonymously track our digital advertising across the Internet. You can delete our cookie by clicking [here](http://tagman.christianmingle.com/christianmingle/tman.cgi?tmpageid=1&levdpoptout=1&tmloc=http://www.spark.net/privacy-policy/ "here").
 
 Various pages on our site invite you to submit your contact details and other information about yourself or your organization, or to send us emails which will, of course, also identify you.
 
