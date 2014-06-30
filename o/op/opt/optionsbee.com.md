@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the optionsbee.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127062147id_/http%3A//www.optionsbee.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optionsbee.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630162215id_/http%3A//www.optionsbee.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
