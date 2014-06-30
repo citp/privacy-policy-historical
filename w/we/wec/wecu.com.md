@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wecu.com privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617002337id_/http%3A//www.wecu.com/documents/repository/7af935b3-192a-f5a9-2b5e-00003975fac4.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wecu.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701003754id_/https%3A//www.wecu.com/documents/repository/7af935b3-192a-f5a9-2b5e-00003975fac4.pdf) for the most accurate reproduction.*
 
 # FACTS
 
