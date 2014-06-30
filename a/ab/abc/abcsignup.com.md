@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the abcsignup.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806055126id_/http%3A//www.abcsignup.com/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abcsignup.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630051252id_/https%3A//www.abcsignup.com/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy With Registration Software | ABC Signup
 
-"ABC Signup provides a fast and easy online registration solution for all-sized groups. Principal Wellness Company has approximately 10 clients that utilize this tool, and having the option of giving each contact administrative rights dramatically cuts down on administrative work, and it puts the client in control of monitoring their registrations... Each group that uses it, continues to use it in the following years and comments how much easier it is than signing people up on paper!"  **Julie, Principal (Financial) Wellness Company**
+"As long as I already have a template, it's five minutes of my time (to post a new event). Printing out sign-in sheets and certificates is easy. The invoicing function is terrific. It's so wonderfully comprehensive and user friendly. It's so approachable. I don't know what I would do without it, honestly.” **Carrie, NWIESC**
 
 [](https://web.archive.org/customers.html)
 
