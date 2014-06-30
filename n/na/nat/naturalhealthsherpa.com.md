@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naturalhealthsherpa.com privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126143049id_/http%3A//www.naturalhealthsherpa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naturalhealthsherpa.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630235004id_/http%3A//www.naturalhealthsherpa.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | NaturalHealthSherpa.com
 
@@ -76,8 +76,7 @@ If you are a California resident and our customer, Cal. Civ. Code 1798.83 permit
 
 #### Incoming search terms:
 
-  * [natural health sherpa credit card charges](http://www.naturalhealthsherpa.com/privacy-policy "natural health sherpa credit card charges") (1)
-  * [PrivacyPolicy|NaturalHealthSherpa com](http://www.naturalhealthsherpa.com/privacy-policy "PrivacyPolicy|NaturalHealthSherpa com") (1)
+  * [www naturalhealthsherpa library reset](http://www.naturalhealthsherpa.com/privacy-policy "www naturalhealthsherpa library reset") (1)
 
 
 
