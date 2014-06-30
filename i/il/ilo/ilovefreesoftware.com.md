@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ilovefreesoftware.com privacy policy that was archived on 2013-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130815025022id_/http%3A//www.ilovefreesoftware.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ilovefreesoftware.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630034058id_/http%3A//www.ilovefreesoftware.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - I Love Free Software || Free Software
 
