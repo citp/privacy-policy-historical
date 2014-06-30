@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the automanager.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424145707id_/http%3A//www.automanager.com/legal/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the automanager.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630113348id_/http%3A//www.automanager.com/legal/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Legal Notices | AutoManager.com: Privacy Policy | AutoManager.com | AutoManager.com
+# Legal Notices | AutoManager.com: Privacy Policy | AutoManager.com
 
 * * *
 
@@ -19,7 +19,7 @@ We will ask you when we need information that personally identifies you (persona
 
 If you no longer want to be contacted by AutoManager for any reason, click on the link below to enter your email address and phone number. Please allow up to 7 business days for us to remove you from our contact database.
 
-  * [Opt out of future communications from AutoManager](https://web.archive.org/web/20130424145707id_/http%3A//www.automanager.com/legal/opt-out.aspx)
+  * [Opt out of future communications from AutoManager](https://web.archive.org/web/20140630113348id_/http%3A//www.automanager.com/legal/opt-out.aspx)
 
   
 
