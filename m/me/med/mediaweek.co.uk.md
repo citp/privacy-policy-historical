@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediaweek.co.uk privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106075325id_/http%3A//www.mediaweek.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediaweek.co.uk privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630062947id_/http%3A//www.mediaweek.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Media Week
 
