@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rocketfuel.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231201951id_/http%3A//rocketfuel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rocketfuel.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630234736id_/http%3A//rocketfuel.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for Web Surfers - Rocket Fuel
 
@@ -42,7 +42,7 @@ If you opt out, you'll still see ads from us online, and we'll still do our best
 
 ##  Industry Memberships
 
-Rocket Fuel is a member of the Network Advertising Initiative (NAI), an organization working to educate people and help them manage their online privacy.
+Rocket Fuel is a member of the Network Advertising Initiative ([NAI](http://www.networkadvertising.org/code-enforcement)), an organization working to educate people and help them manage their online privacy. Rocket Fuel adheres to the NAI's Code of Conduct.
 
 As part of compliance with the DAA's self-regulation program, Rocket Fuel is fully licensed and certified to deploy the Advertising Option icon (Ad Choices).
 
