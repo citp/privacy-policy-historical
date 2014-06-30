@@ -1,1600 +1,644 @@
-<!--The following is the downloaded HTML source of the peta.org privacy policy that was archived on 2013-11-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131101014111id_/http%3A//www.peta.org/about/learn-about-peta/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the peta.org privacy policy that was archived on 2014-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140630040538id_/http%3A//www.peta.org/about-peta/learn-about-peta/website-policies/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><meta name="robots" content="index,follow">
+<!DOCTYPE html><html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns#"><!--<![endif]--><head profile="http://gmpg.org/xfn/11">
+<meta name="apple-itunes-app" content="app-id=421236952 ">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=124139360941459"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwcAWFRXGwAJU1dbAgE="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+<meta name="viewport" content="width=device-width">
+<link rel="shortcut icon" href="http://www.peta.org/favicon.ico">
+<link rel="stylesheet" href="http://www.peta.org/wp-content/themes/peta/style.css" type="text/css" media="screen">
+<link rel="pingback" href="http://www.peta.org/xmlrpc.php">
+<script type="text/javascript" src="http://admin.brightcove.com/js/BrightcoveExperiences.js"></script>
+
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.5.3.3 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="original-source" href="">
 <meta name="description" content="PETA strongly believes in protecting the integrity and privacy of personal information gathered from our members and from visitors to our Web sites.">
 <meta name="keywords" content="About PETA, Privacy Policy, Privacy, Web Site, PETA, people for the ethical treatment of animals">
-<meta name="canonical" content="http://www.peta.org/about/learn-about-peta/privacy.aspx">
-<meta name="GENERATOR" content="Telligent Community (Build: 5.5.133.9594)">
-<link rel="alternate" type="application/rss+xml" title="About PETA (RSS 2.0)" href="http://www.peta.org/about/rss.aspx">
-<link rel="alternate" type="application/rss+xml" title="Ashley-P's Comments (RSS 2.0)" href="/members/Ashley_2D00_P/comments/rss.aspx">
-<link rel="alternate" type="application/rss+xml" title="Ashley-P's Activities (RSS 2.0)" href="/members/Ashley_2D00_P/activities/rss.aspx">
-<link rel="alternate" type="application/rss+xml" title="Activities of People Ashley-P Follows (RSS 2.0)" href="/members/Ashley_2D00_P/activities/followersrss.aspx">
-<link rel="alternate" type="application/rss+xml" title="Ashley-P's Groups Activities (RSS 2.0)" href="/members/Ashley_2D00_P/activities/groupsrss.aspx">
-<link rel="alternate" type="application/rss+xml" title="About PETA (RSS 2.0)" href="http://www.peta.org/about/pages/about/rss.aspx">
-<link rel="alternate" type="application/rss+xml" title="Recent in 'Victories' (RSS 2.0)" href="/about/pages/highlights.aspx?ctypes=cms&amp;groups=14&amp;sort=date+desc">
-<link rel="alternate" type="application/rss+xml" title="Recent in 'TV' (RSS 2.0)" href="/about/pages/highlights.aspx?ctypes=cms&amp;groups=4&amp;sort=date+desc">
-<link rel="alternate" type="application/rss+xml" title=" in 'TV' (RSS 2.0)" href="/about/pages/highlights.aspx?ctypes=cms&amp;groups=4&amp;sort=popularity+desc">
-<link rel="alternate" type="application/rss+xml" title="Related in 'TV' matching tags 'About PETA', 'Privacy', 'Privacy Policy', or 'Web Site' (RSS 2.0)" href="/about/pages/highlights.aspx?search=*%3a*&amp;ctypes=cms&amp;groups=4&amp;sort=date+desc&amp;PETATags=About+PETA,Privacy,Privacy+Policy,Web+Site&amp;PETAOrTags=1">
+<link rel="canonical" href="http://www.peta.org/about-peta/learn-about-peta/website-policies/privacy/">
+<link rel="author" href="https://plus.google.com/u/0/107675462806723731437">
+<link rel="publisher" href="https://plus.google.com/+peta">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Privacy Policy">
+<meta property="og:description" content="PETA strongly believes in protecting the integrity and privacy of personal information gathered from our members and from visitors to our Web sites.">
+<meta property="og:url" content="http://www.peta.org/about-peta/learn-about-peta/website-policies/privacy/">
+<meta property="og:site_name" content="PETA">
+<meta property="article:publisher" content="https://www.facebook.com/officialpeta">
+<meta property="og:image" content="http://www.peta.org/wp-content/uploads/2013/08/198x120-placeholder-image.png">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@petaindia">
+<meta name="twitter:domain" content="PETA">
+<meta name="twitter:creator" content="@petaindia">
+<!-- / Yoast WordPress SEO plugin. -->
 
-            <link rel="stylesheet" href="/themes/generic/css/layout.css" type="text/css" media="screen">
-        
-          <meta http-equiv="X-UA-Compatible" content="IE=8">
-          <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-          <link rel="shortcut icon" type="image/ico" href="/themes/peta/favicon.ico">
-        
-          <link type="text/css" rel="stylesheet" href="/themes/peta/css/fourroads-cms.css" media="screen">
-        
-		      <link type="text/css" rel="stylesheet" href="/themes/peta/css/peta.css" media="screen,print">
-          <link type="text/css" rel="stylesheet" href="/themes/petaindia/css/DynamicStyle.aspx" media="screen,print">
-          <link type="text/css" rel="stylesheet" href="/themes/groups/peta/css/DynamicStyle.aspx?SectionID=50&amp;AppType=ContentManagement" media="screen,print">
-          <link type="text/css" rel="stylesheet" href="/themes/generic/css/jquery.lightbox-0.5.css" media="screen">            
-          <link type="text/css" rel="stylesheet" href="/themes/cms/peta/css/DynamicStyle.aspx?SectionID=50" media="screen,print">
-             <link type="text/css" rel="stylesheet" href="/themes/cms/petaindia/css/DynamicStyle.aspx?SectionID=50" media="screen,print">
-             
-          <!--[if lte IE 7]>
-              <link type="text/css" rel="stylesheet" href="/themes/peta/css/lteie7.css" media="screen" />
-          <![endif]-->
-          <link type="text/css" rel="stylesheet" href="/themes/peta/css/print.css" media="print">
-        
-         		<link type="text/css" rel="stylesheet" href="/themes/peta/css/fourroads-nexus.css" media="screen">
-				<link type="text/css" rel="stylesheet" href="/themes/peta/css/fourroads-nexus-facebook.css" media="screen">
-				<link type="text/css" rel="stylesheet" href="/themes/peta/css/fourroads-nexus-twitter.css" media="screen">
-				<!-- CSS link to popup graphic css -->
-<link rel="stylesheet" href="http://www.peta.org.uk/styles/splashScreenCookified.css" media="screen"> 
-
-<!-- GeoIP Country JS Library -->
-<script language="JavaScript" src="http://j.maxmind.com/app/country.js"></script>
-
-<!-- start Stelter gift illustrator files -->
-<script type="text/javascript" src="http://web.giftillustrator.com/Calculator/Production/scripts/jquery.noConflict.noniframe.js"></script>
-<script type="text/javascript" src="http://web.giftillustrator.com/Calculator/Production/scripts/jquery.fancybox-1.3.4.pack.js"></script>
-<script type="text/javascript" src="http://web.giftillustrator.com/Calculator/Production/scripts/custom.fancybox.noniframe.js"></script>
-<link rel="stylesheet" type="text/css" href="http://web.giftillustrator.com/Calculator/Production/css/jquery.fancybox-1.3.4.css" media="screen">
-<link rel="stylesheet" type="text/css" href="http://web.giftillustrator.com/Calculator/Production/css/custom.fancybox.css" media="screen">
-<!-- end Stelter gift illustrator files --> 
-
-<!--START GOOGLE ANALYTICS-->
-<script language="javascript" type="text/javascript" src="http://www.mediapeta.com/scripts/googleAnalytics/petaUS/peta/gaConstsAndBase1.js"></script>
-<!-- END GOOGLE ANALYTICS -->
-	<meta property="image" content="http://www.peta.org/themes/peta/images/peta/blank.gif">
-	<link rel="image_src" href="http://www.peta.org/themes/peta/images/peta/blank.gif">
-	<meta property="image" content="http://www.peta.org/cfs-file.ashx/__key/CommunityServer-Components-GroupAvatars/00-00-00-00-13/4TJ7QWV5LMJD.png">
-	<link rel="image_src" href="http://www.peta.org/cfs-file.ashx/__key/CommunityServer-Components-GroupAvatars/00-00-00-00-13/4TJ7QWV5LMJD.png">
-	<meta property="fb:app_id" content="124139360941459">
-	<meta property="og:title" content="Privacy Policy">
-	<meta property="og:type" content="article">
-	<meta property="og:url" content="http://www.peta.org/about/learn-about-peta/privacy.aspx">
-	<meta property="og:image" content="http://www.peta.org/cfs-file.ashx/__key/CommunityServer-Components-GroupAvatars/00-00-00-00-13/4TJ7QWV5LMJD.png">
-	<meta property="og:site_name" content="PETA.org">
-
-
-    <meta name="description" content="PETA strongly believes in protecting the integrity and privacy of personal information gathered from our members and from visitors to our Web sites.">
-    <meta name="keywords" content="About PETA, Privacy Policy, Privacy, Web Site, PETA, people for the ethical treatment of animals">
-    <meta name="GENERATOR" content="Four Roads Scribus 2.6 Enterprise Edition (Debug Build: 1309.251)">
-<title>
-	Privacy Policy | PETA.org
-</title></head>
-	<body spellcheck="true" class="about_privacy">
-		<div id="fb-root"></div>
-			<script>
-			  window.fbAsyncInit = function() {
-				FB.init({appId: '124139360941459', status: true, cookie: true,
-						 xfbml: true});
-			  };
-			</script>
-            <script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script><form name="aspnetForm" method="post" action="/about/learn-about-peta/privacy.aspx" id="aspnetForm">
-<div>
-<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
-<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
-<input type="hidden" name="__VIEWSTATEFIELDCOUNT" id="__VIEWSTATEFIELDCOUNT" value="6">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEzODk4MTgwMDMQZGQWAmYPZBYEAgEPZBYCAgEPZBYGAgEPZBYCAgEPFgIeB1Zpc2libGVoZAIDD2QWAgIBDxYCHwBoZAIFD2QWAgIBDxYCHwBoZAIDDxYCHgVjbGFzcwUNYWJvdXRfcHJpdmFjeRYCAgEQZGQWBgIFD2QWCgIED2QWAmYPZBYCZg9kFgJmDxYGHhBBdXRvbWF0ZWRWaXNpYmxlZx4LXyFJdGVtQ291bnQCAx4QX19Cb3VuZEl0ZW1Db3VudAIDFgYCAQ9kFgRmDxUDBWZpcnN0FWh0dHA6Ly9wcmltZS5wZXRhLm9yZwBkAgEPFgIfAmcWAgIBDxYCHwBoZAIDD2QWBGYPFQMAFGh0dHA6Ly93d3cucGV0YTIuY29tAGQCAQ8WAh8CZxYCAgEPFgIfAGhkAgUPZBYEZg8VAwAXaHR0cDovL3d3dy5wZXRha2lkcy5jb20AZAIBDxYCHwJnFgICAQ8WAh8AaGQCBQ9kFgJmD2QWAmYPZBYCZg8WBh8CZx8DAgUfBAIFFgoCAQ9kFgRmDxUDBWZpcnN0Omh0dHA6Ly93d3cucGV0YS5vcmcvYWJvdXQvY29udGFjdC1wZXRhL3JlcG9ydC1jcnVlbHR5LmFzcHgAZAIBDxYCHwJnFgICAQ8WAh8AaGQCAw9kFgRmDxUDAEVodHRwczovL3NlY3VyZS5wZXRhLm9yZy9zaXRlL0RvbmF0aW9uMj9kZl9pZD0zNTQyJjM1NDIuZG9uYXRpb249Zm9ybTEAZAIBDxYCHwJnFgICAQ8WAh8AaGQCBQ9kFgRmDxUDAEVodHRwczovL3NlY3VyZS5wZXRhLm9yZy9zaXRlL0RvbmF0aW9uMj9kZl9pZD0zNTQ1JjM1NDUuZG9uYXRpb249Zm9ybTEAZAIBDxYCHwJnFgICAQ8WAh8AaGQCBw9kFgRmDxUDADZodHRwOi8vd3d3LnBldGEub3JnL2RvbmF0ZS9">
-<input type="hidden" name="__VIEWSTATE1" id="__VIEWSTATE1" value="wbGFubmVkLWdpdmluZy9kZWZhdWx0LmFzcHgAZAIBDxYCHwJnFgICAQ8WAh8AaGQCCQ9kFgRmDxUDAFBodHRwOi8vd3d3Mi5wZXRhLm9yZy9zaXRlL1RSL0V2ZW50cy9QRVRBc09ubGluZUNvbW11bml0eT9wZz10Z3JlZXRpbmcmZnJfaWQ9MTAzMABkAgEPFgIfAmcWAgIBDxYCHwBoZAIGD2QWAmYPZBYEZg8WBB8CaB8AaGQCAg9kFgQCAQ9kFgQCAQ8WAh8CZxYEAgEQDxYCHgtOYXZpZ2F0ZVVybAVKL3VzZXIvQ3JlYXRlVXNlci5hc3B4P1JldHVyblVybD0lMmZhYm91dCUyZmxlYXJuLWFib3V0LXBldGElMmZwcml2YWN5LmFzcHhkZBYCZg9kFgICAQ8WAh8CZ2QCAg8WAh8AaBYCZg8VASolMmZhYm91dCUyZmxlYXJuLWFib3V0LXBldGElMmZwcml2YWN5LmFzcHhkAgIPFgIfAmcWAmYQZGQWBGYPZBYCAgEPFgIfAmdkAgEPFgIfAGhkAgIPFgIfAGhkAgcPZBYCZg9kFgQCBQ8WBB8CaB8AaGQCBw9kFgICAQ9kFgRmDxUBAS9kAgEPFgQfAmgfAGhkAgkPZBYCZg9kFgJmD2QWAmYPZBYCAgEPFgYfAmcfAwIMHwQCDBYaZg9kFgJmDxUDTmN0bDAwX2ZyYWdtZW50XzJkNmI1ZWU1X2U0NDRfNGQ4ZF9iNTA0X2UyNWE4NTFmNmFlYV9fM2Q4MzY0NjcxOWFiX01lbnVJdGVtUm9vdAVyb290IABkAgEPZBYMZg8VAwAAAGQCAQ8VAwEvAABkAgIPFgIfAmcWAgIBDxYCHwBoZAIDDxUDAS8AAGQCBA8WAh8CZxYCAgEPFgIfAGhkAgUPFgIfAGhkAgIPZBYMZg8VAwAAAGQCAQ8VAxYvZmVhdHVyZXMvZGVmYXVsdC5hc3B4AABkAgIPFgIfAmcWAg">
-<input type="hidden" name="__VIEWSTATE2" id="__VIEWSTATE2" value="IBDxYCHwBoZAIDDxUDFi9mZWF0dXJlcy9kZWZhdWx0LmFzcHgAAGQCBA8WAh8CZxYCAgEPFgIfAGhkAgUPFgIfAGhkAgMPZBYMZg8VAwAAAGQCAQ8VAxAvdHYvZGVmYXVsdC5hc3B4AABkAgIPFgIfAmcWAgIBDxYCHwBoZAIDDxUDEC90di9kZWZhdWx0LmFzcHgAAGQCBA8WAh8CZxYCAgEPFgIfAGhkAgUPFgIfAGhkAgQPZBYMZg8VAwAAAGQCAQ8VAxQvYWN0aW9uL2RlZmF1bHQuYXNweAAAZAICDxYCHwJnFgICAQ8WAh8AaGQCAw8VAxQvYWN0aW9uL2RlZmF1bHQuYXNweAAAZAIEDxYCHwJnFgICAQ8WAh8AaGQCBQ8WAh8AaGQCBQ9kFgxmDxUDAAAAZAIBDxUDHC9iL3RoZXBldGFmaWxlcy9kZWZhdWx0LmFzcHgAAGQCAg8WAh8CZxYCAgEPFgIfAGhkAgMPFQMcL2IvdGhlcGV0YWZpbGVzL2RlZmF1bHQuYXNweAAAZAIEDxYCHwJnFgICAQ8WAh8AaGQCBQ8WAh8AaGQCBg9kFgxmDxUDAAAAZAIBDxUDFC9pc3N1ZXMvZGVmYXVsdC5hc3B4AABkAgIPFgIfAmcWAgIBDxYCHwBoZAIDDxUDFC9pc3N1ZXMvZGVmYXVsdC5hc3B4AABkAgQPFgIfAmcWAgIBDxYCHwBoZAIFDxYCHwBoZAIHD2QWDGYPFQMAAABkAgEPFQMUL2xpdmluZy9kZWZhdWx0LmFzcHgAAGQCAg8WAh8CZxYCAgEPFgIfAGhkAgMPFQMUL2xpdmluZy9kZWZhdWx0LmFzcHgAAGQCBA8WAh8CZxYCAgEPFgIfAGhkAgUPFgIfAGhkAggPZBYMZg8VAwAAAGQCAQ8VAxIvc2hvcC9kZWZhdWx0LmFzcHgAAGQCAg8WAh8CZxYCAgEPFgIfAGhkAgMPFQMSL3Nob3AvZGVmYXVsd">
-<input type="hidden" name="__VIEWSTATE3" id="__VIEWSTATE3" value="C5hc3B4AABkAgQPFgIfAmcWAgIBDxYCHwBoZAIFDxYCHwBoZAIJD2QWDGYPFQMAAABkAgEPFQMZL2ludGVyYWN0aXZlL2RlZmF1bHQuYXNweAAAZAICDxYCHwJnFgICAQ8WAh8AaGQCAw8VAxkvaW50ZXJhY3RpdmUvZGVmYXVsdC5hc3B4AABkAgQPFgIfAmcWAgIBDxYCHwBoZAIFDxYCHwBoZAIKD2QWDGYPFQMAAABkAgEPFQMZL21lZGlhY2VudGVyL2RlZmF1bHQuYXNweAAAZAICDxYCHwJnFgICAQ8WAh8AaGQCAw8VAxkvbWVkaWFjZW50ZXIvZGVmYXVsdC5hc3B4AABkAgQPFgIfAmcWAgIBDxYCHwBoZAIFDxYCHwBoZAILD2QWDGYPFQMACSBzZWxlY3RlZABkAgEPFQMTL2Fib3V0L2RlZmF1bHQuYXNweAAAZAICDxYCHwJnFgICAQ8WAh8AaGQCAw8VAxMvYWJvdXQvZGVmYXVsdC5hc3B4AABkAgQPFgIfAmcWAgIBDxYCHwBoZAIFDxYCHwBoZAIMD2QWDGYPFQMRIGhpZ2hsaWdodGVkLWl0ZW0AAGQCAQ8VA3hodHRwczovL3NlY3VyZS5wZXRhLm9yZy9zaXRlL1NQYWdlU2VydmVyP3BhZ2VuYW1lPWRvbmF0ZW5vdyZhbXA7c2V0LmN1c3RvbS5DYW1wYWlnbl9Db2RlPUkxM1hXQVhYWFhHJmFtcDthdXRvbG9naW49dHJ1ZSAAAGQCAg8WAh8CZxYCAgEPFgIfAGhkAgMPFQN4aHR0cHM6Ly9zZWN1cmUucGV0YS5vcmcvc2l0ZS9TUGFnZVNlcnZlcj9wYWdlbmFtZT1kb25hdGVub3cmYW1wO3NldC5jdXN0b20uQ2FtcGFpZ25fQ29kZT1JMTNYV0FYWFhYRyZhbXA7YXV0b2xvZ2luPXRydWUgAABkAgQPFgIfAmcWAgIBDxYCHwBoZAIF">
-<input type="hidden" name="__VIEWSTATE4" id="__VIEWSTATE4" value="DxYCHwBoZAIHD2QWAgIBD2QWDAIID2QWAmYPZBYCZg9kFgQCAQ8WBB8CaB8AaGQCAw9kFgICAQ9kFgZmDxYGHwJnHwMCAh8EAgIWBGYPZBYCAgEPFgIfAmcWBGYPZBYCZg9kFgJmD2QWAmYPFgQeA1VybAVyY3RsMDBfY29udGVudF9jdGwwMF9mcmFnbWVudF8xNTU2NDcwM19jdGwwMV9jdGwwMF9jdGwwMV9jdGwwNV9jdGwwMF9jdGwwMV9jdGwwMF9jdGwwMV9jdGwwMV9zaGFyZUxpbmtfcG9zdFRvRmVlZCgpHwBoFgJmEGRkFgICAQ8WAh8AaGQCAQ8WAh8AaGQCAQ9kFgICAQ8WAh8CZxYEZg9kFgJmD2QWAmYPZBYCZg9kFgJmEGRkFgICAQ8WAh8AaGQCAQ8WAh8AaGQCBBAPFgIfBQUBIxYCHgdvbmNsaWNrBXxUZWxsaWdlbnRfTW9kYWwuT3BlbignL3VzZXIvRW1haWxNb2RhbC5hc3B4P3VybD1hSFIwY0RvdkwySnBkQzVzZVM5dVJXeEdZbFE9JmVtYWlsc3VidHlwZT0xMTY0Jyw1NTAsMzYwLG51bGwpOyByZXR1cm4gZmFsc2U7ZGQCBg9kFgJmDxQrAgRkBUNodHRwJTNhJTJmJTJmd3d3LnBldGEub3JnJTJmYWJvdXQlMmZsZWFybi1hYm91dC1wZXRhJTJmcHJpdmFjeS5hc3B4BQ5Qcml2YWN5K1BvbGljeQUrUGVvcGxlIGZvciB0aGUgRXRoaWNhbCBUcmVhdG1lbnQgb2YgQW5pbWFsc2QCCg9kFgJmD2QWAmYPZBYGZg8WBB4EVGV4dGQfAGdkAgIPZBYCAgIPFgIfAGhkAgQPFgQfCGQfAGdkAhQPZBYCZg8WAh8IZWQCFg9kFgJmD2QWAmYPZBYCZg9kFgQCAQ9kFgICAQ8WAh8CZxYCZg9kFgYCAQ9kFgRmD2QWAmYPFgIeBlJlc3V">
-<input type="hidden" name="__VIEWSTATE5" id="__VIEWSTATE5" value="sdGhkAgEPFgIfAGhkAgMPZBYEAgEPZBYCAgEPFgIfAmcWAgIBDxYCHwBoZAICDxYCHwBoFgICAQ8WAh8CZxYCZg9kFgJmD2QWAmYPZBYEAgMPFgIfAmcWAgIBDxYCHwBoZAIFDxYEHwJoHwBoZAIFD2QWBGYPZBYCZg8WAh8JaGQCAQ8WAh8AaGQCAg8WAh8AaBYGAgEPZBYEZg9kFgJmDxYCHwloZAIBDxYCHwBoZAIDD2QWBAIBD2QWAgIBDxYCHwJnFgICAQ8WAh8AaGQCAg8WAh8AaBYCAgEPFgIfAmcWAmYPZBYCZg9kFgJmD2QWBAIDDxYCHwJnFgICAQ8WAh8AaGQCBQ8WBB8CaB8AaGQCBQ9kFgRmD2QWAmYPFgIfCWhkAgEPFgIfAGhkAhoPFgIfAGhkAhwPZBYCZg9kFgJmD2QWAmYPZBYEZg9kFgQCAQ8WBB4GSGVpZ2h0Zh4FV2lkdGhmZAIDD2QWBGYPZBYGAgMPFgQfAmgfAGhkAgkPFgQfAmgfAGhkAgsPFgQfAmgfAGhkAgEPFgIfAGhkAgEPFgIfAGhkAgkPZBYCAgIPZBYCZg9kFgJmDxYGHwJnHwMCAh8EAgIWBGYPZBYCAgEPFgIfAmcWAgIBDxYCHwBoZAIBD2QWAgIBDxYCHwJnFgICAQ8WAh8AaGQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFgEFZmN0bDAwJGNvbnRlbnQkY3RsMDAkZnJhZ21lbnRfMTU1NjQ3MDckY3RsMDEkY3RsMDAkVmFsdWVTZWxlY3RlZENvbnRlbnQxJGN0bDAyJFRodW1ibmFpbDEkSGlnaGxpZ2hzVGFicw==">
-</div>
-
+<link rel="stylesheet" id="foobox-min-css" href="http://www.peta.org/wp-content/plugins/fooboxV2/css/foobox.min.css?ver=2.3.1.1" type="text/css" media="all">
+<link rel="stylesheet" id="TitleAndDesc-css" href="http://www.peta.org/wp-content/themes/peta/styles/bcPlayerStyles-TitleAndDesc1.css?ver=3.9.1" type="text/css" media="all">
+<link rel="stylesheet" id="bcPlayerStyles-css" href="http://www.peta.org/wp-content/themes/peta/styles/bcPlayerStyles.css?ver=3.9.1" type="text/css" media="all">
+<link rel="stylesheet" id="google-fonts-css" href="//fonts.googleapis.com/css?family=Roboto%3A300%2C400%2C700&amp;text=APETA%2C.abcdefghijklmnopqrstuvwxyz&amp;ver=3.9.1" type="text/css" media="all">
+<link rel="stylesheet" id="google-fonts-pt-css" href="//fonts.googleapis.com/css?family=PT+Serif%3A700italic&amp;ver=3.9.1" type="text/css" media="all">
+<link rel="stylesheet" id="peta-web-font-css" href="http://www.peta.org/wp-content/themes/peta/styles/peta-web-font.css?ver=3.9.1" type="text/css" media="all">
+<link rel="stylesheet" id="foundation-min-css" href="http://www.peta.org/wp-content/themes/peta/styles/foundation.min.css?ver=3.9.1" type="text/css" media="all">
+<link rel="stylesheet" id="foundation-components-css" href="http://www.peta.org/wp-content/themes/peta/styles/foundation-components-styles.css?ver=3.9.1" type="text/css" media="all">
+<!--[if lte IE 9]>
+<link rel='stylesheet' id='ie_css-css'  href='http://www.peta.org/wp-content/themes/peta/styles/ie.css?ver=3.9.1' type='text/css' media='all' />
+<![endif]-->
+<link rel="stylesheet" id="footable-core-min-css" href="http://www.peta.org/wp-content/plugins/footable/css/footable.core.min.css?ver=0.3.1" type="text/css" media="all">
+<script type="text/javascript" src="http://www.peta.org/wp-includes/js/jquery/jquery.js?ver=1.11.0"></script>
+<script type="text/javascript" src="http://www.peta.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
+<script type="text/javascript" src="http://www.peta.org/wp-content/plugins/peta-countdown-timer/js/jquery.countdown.js?ver=3.9.1"></script>
+<script type="text/javascript" src="http://www.mediapeta.com/scripts/googleAnalytics/global/ga_constants.js?ver=3.9.1"></script>
+<script type="text/javascript" src="//use.typekit.net/akq4hkn.js?ver=3.9.1"></script>
+<script type="text/javascript" src="http://www.peta.org/wp-content/themes/peta/js/peta-header.js?ver=3.9.1"></script>
+<script type="text/javascript" src="http://www.peta.org/wp-content/themes/peta/js/jquery.peta-form.js?ver=3.9.1"></script>
+<script type="text/javascript" src="http://www.peta.org/wp-content/plugins/footable/js/footable.min.js?ver=0.3.1"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.peta.org/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.peta.org/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 3.9.1">
+<link rel="shortlink" href="http://peta.vg/yxy">
+<!-- <meta name="NextGEN" version="1.9.20" /> -->
+<!-- Social Media User Detection plugin by Adapt Partners - http://adaptpartners.com/ -->
 <script type="text/javascript">
-//<![CDATA[
-var theForm = document.forms['aspnetForm'];
-function __doPostBack(eventTarget, eventArgument) {
-    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
-        theForm.__EVENTTARGET.value = eventTarget;
-        theForm.__EVENTARGUMENT.value = eventArgument;
-        theForm.submit();
-    }
-}
-//]]>
-</script>
+				function record_login_status(slot, network, status) {
+				if (status) {
+					_gaq.push(["_setCustomVar", slot, network + "_State", "LoggedIn", 1]);
+				} else {
+					_gaq.push(["_setCustomVar", slot, network + "_State", "NotLoggedIn", 1]);
+				}
+				}
+				</script>
+<!-- END Social Media User Detection plugin -->
+	      	<script>
+				jQuery(document).ready(function () {
+    				jQuery('#peta-stelter').foundation('reveal', {
+        				open: function () {
+							jQuery('#peta-stelter-content').html(' <iframe src="http://web.giftillustrator.com:8080/Calculator/Production/home.html?orgId=6087" frameborder="0" allowfullscreen  onload="jQuery(\'#peta-stelter-loading\').hide() "></iframe>')
+							},
+   					});
+				});
+			</script><meta name="peta-type" content="about"><script type="text/javascript">/* FooTable init code */
 
+var $FOOTABLE = $FOOTABLE || {};
+(function( $FOOTABLE, $, undefined ) {
 
+	jQuery.fn.attrAppendWithComma=function(a,b){var c;return this.each(function(){c=$(this),void 0!==c.attr(a)&&""!=c.attr(a)?c.attr(a,c.attr(a)+","+b):c.attr(a,b)})};jQuery.fn.footableAttr=function(a,b){return this.each(function(){var c=$(this);c.data("auto-columns")!==!1&&(c.find("thead th:gt("+a+")").attrAppendWithComma("data-hide","tablet"),c.find("thead th:gt("+b+")").attrAppendWithComma("data-hide","phone"))})},jQuery.fn.footableFilter=function(a){return this.each(function(){var b=$(this);b.data("filter")||b.data("filter")===!1||b.data("filter-text-only","true").before('<div class="footable-filter-container"><input placeholder="'+a+'" style="float:right" type="text" class="footable-filter" /></div>')})},jQuery.fn.footablePager=function(){return this.each(function(){var a=$(this);if(a.data("page")!==!1){var b=$('<tfoot class="hide-if-no-paging"><tr><td><div class="pagination pagination-centered"></div></td></tr></tfoot>');b.find("td").attr("colspan",a.find("thead th").length),a.find("tbody:last").after(b)}})};
 
-<script type="text/javascript">
-//<![CDATA[
-var s_account = 'petanewdev';//]]>
-</script>
+	$FOOTABLE.init = function() {
+		$(".footable")
+			.footable( { breakpoints: { phone: 480, tablet: 580 } });
 
-<script src="/utility/sitecatalyst/s_code.js" type="text/javascript"></script><script type="text/javascript" src="/utility/jquery/jquery-1.3.2.min.js"></script>
-<script type="text/javascript" src="js.axd?path=WebResource.axd%3fd%3dz4mMCUTwkSWKdgvw0czKLIpVukTFzUc0uFZ6NuesZnzi_E2LQ5QHJTUjm_tiZ65vu3gjZP2JInKdFXhD-bbvdeXp3okEIHql6yfJ1jHVzj2a4zIlyEzO3eRrBUv9s6UduBc8Phh9hXrv6hmurJcKDOAnvGUi92wJ6gy3PADSBlGLXqcsOHOZfRR1puv7klUnYTkizcCZ429hAgRP_-xc0k6E_KY1%26amp%3bt%3d635096415810000000,WebResource.axd%3fd%3dE37OCaIhJOsrsCdg3f6cBW-YMtY1hW_awmh18jiXZ3PyCxVGZWA-eHqcHT6uNRfaEjmW8SKiYF7PY4hiHnTLVXRZ0s9ZkHlCA7jYRWkMmnZBH8B6HSVdnxZUGJuQWoFdGq8Nm4XjpAgGIHoqZrz4YYCDjFRmWekXx704td02GavgZ_D9JK_6aHO1l_U66A9uo5xDt8WXES5MHHglgfrAuk7P45w1%26amp%3bt%3d635096415800000000,WebResource.axd%3fd%3dTncTzcliQkuJhBChQ_e5ztV3eJNOfuHJfk126qQYvcgaIWNXcuhwDNMyzycYz7WjJvcdOhnUFcGI-xVTOaCPlDSkuHP9Ovygq_Ab5ezYuLhrNoL2fvjsQKX5Qg6_5yFL1k8VyqvmIQA-kq76063L8vVN67T1-6flc_p5aIvq9mJveVT00%26amp%3bt%3d635096415850000000,WebResource.axd%3fd%3diBMFzxYLPsgK-Xni5_V3x9sQ1R30dGVf1cBdNyCugLlydAYvqPvMQ4NEJuO4Ta__6Cqul5npYW-b-IdzpcARBDNM5vMHZwzhEZEbCzN8bGeR1hwQxLKXJ8amATtVr4NsnvS-UbvC19QwsMAp1R-HdJwSijgr2Iq8UlkYF5urmbzPtkbE0%26amp%3bt%3d635096415850000000,WebResource.axd%3fd%3dqLLNV-7Rl1LrDXJuBESW00DDzc5z3tkOhQ9iqjJtckaELKyfaHsB5ykzc5-Mq86XNOP7W7CoaIu-YRjsEh9-f5hse5WTcHhst-dEJzl6Gbj5DZwjcvBDIFTKYnrXNgtrj1gvINHwJc4pebWL8rBjBY8Wh-7pvI-Pq6XjOKmcEaCFfUhs0%26amp%3bt%3d635096415800000000,WebResource.axd%3fd%3dxGEbb4rkqI-dYPDyssYD0zQ2oYA8G21nKmrn2CYFeFqos7ic_xxo7EQ98yL1b45YEMbm2g3pI2gyvP1V2gFcsQ4e5guTjVHBQzDfs0mGjhLH58R6xFHyXzLQbGOfwp8UOb1Rjl9M-Wf_onk4_8edefgVTpKUJ1GCy40tUOTWaFgfVM_8bjUgvehS9PtDkQx38OAhFg2%26amp%3bt%3d635096415850000000,WebResource.axd%3fd%3d9491Bc2L51ApyGCu5j6E97beby8q4OHaCzl7I6_5DL-3i1XVRkmgnerf3alkAeV6gzxm3NqgztccCtmNpg1U30fujlUh8ybyu2pFk65iWYGcsWFaTPKNvh0r6fwCXN6yxIwtUjuW1kp2j77-8bZze48qrLdFnNntni_XAUR5fJm6Yje_0%26amp%3bt%3d635096415800000000,WebResource.axd%3fd%3dRqY_8mnEWZODAAy5kpZ-j_RVHaEV_NBT7pXH9p3mcTLfOA_sEYGn_q5S8HI9lytqysdv57KE1aiQ-X5l81nMCpLBLaowuYzJqxqn5dcd2RgqkyTbOf8UVYse1bS541h_TBmGQOyIMdMwscQzYSDyf9sWzH8XIyVaE5N8HeVPMJhZF7570%26amp%3bt%3d635096415850000000,WebResource.axd%3fd%3do8xUs7RYG-nVxuRtSQ3_5rsdRPHQF0y2BYc4ekLYSCRe2H8BNPOOXQRZrYmAtrUtZjscNTtaem8dMiJB3oZjWMivILdcNwn6jRlHbnaQQRTVmna9m74EzoYy6h_yyjDO8msqi8jsTJ_JkcobdP1JvpuidVytQFDKseWsxVF8aEWElzSn0%26amp%3bt%3d635096415850000000,"></script>
-
-<script src="/utility/jquery/customJqueryTools.js " type="text/javascript"></script>
-<script src="http://www.peta.org.uk/js/splashScreenCookified.js" type="text/javascript"></script>
-<script src="/utility/jquery/jquery.cookie.js" type="text/javascript"></script>
-<script src="/utility/jquery/gridoverlay.js" type="text/javascript"></script>
-<script src="/utility/jquery/ui-enhancements.js" type="text/javascript"></script>
-<script src="/utility/jquery/coolinput.js" type="text/javascript"></script>
-<script src="/utility/jquery/jquery.lightbox-0.5.min.js" type="text/javascript"></script>
-<script src="/utility/jquery/jquery.cycle.lite.1.0.min.js" type="text/javascript"></script>
-<script src="/utility/JQuery/jquery-ui-1.7.custom.min.js" type="text/javascript"></script>
-<script src="/utility/JQuery/accordion.js" type="text/javascript"></script>
-
-
-
-
-<script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script>
-<script src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=" type="text/javascript"></script>
-<script src="http://static.ak.fbcdn.net/connect.php/js/FB.Share" type="text/javascript"></script>
-
-
-<script type="text/javascript">
-//<![CDATA[
-
-	$.nexus = $.nexus || {};
-	$.nexus.facebook = $.nexus.facebook || {};
-	$.nexus.facebook.loginHandler = $.nexus.facebook.loginHandler || function() {
-		$.nexus.onLogin('/user/Facebook/connectaccount.aspx');
 	};
-//]]>
-</script>
+}( $FOOTABLE, jQuery ));
 
-			
-            
-    
+jQuery(function($) {
+	$FOOTABLE.init();
+});
+</script><style type="text/css">
 
-            
-            <div class="header-fragments-header"></div>
-<div class="header-fragments"><div class="header-wrapper"><div class="header-fragment peta-custom" id="fragment-5c88f792-e199-401e-8f69-e7abf4c1660b">
+</style><title>Privacy Policy | About PETA | PETA</title>
+<script type="text/javascript" src="http://www.mediapeta.com/scripts/googleAnalytics/petaUS/peta/gaBase.js?ver=3.9.1"></script>
+<script type="text/javascript" src="http://www.mediapeta.com/scripts/googleAnalytics/petaUS/peta/gaEvents.js?ver=3.9.1"></script>
+</head>
+<body class="single single-about postid-81196">
 
+	<div id="fb-root"></div>
+	<script>(function(d, s, id) {
+	  var js, fjs = d.getElementsByTagName(s)[0];
+	  if (d.getElementById(id)) return;
+	  js = d.createElement(s); js.id = id;
+	  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=124139360941459";
+	  fjs.parentNode.insertBefore(js, fjs);
+	}(document, 'script', 'facebook-jssdk'));</script>
 
-<!-- This style for the #mobileAd ID needs to be in whichever stylesheet the page is using. -->
-<style type="text/css">
-      #mobileAd
-      {
-            display: block;
-            text-align: center;
-      }
-</style>
-
-<!-- This is the image tag which is defaulted to not show. The width can be changed here. --> 
-<!-- When testing, we had to put the script below the image, so that it would run after the image was loaded into the browser. -->
-<!--  top: 0 -->
-
-<div id="mobileAd" style="height: 147px; display: none;"> 
-    <a id="mobileAppUrl" name="mobileAppUrl" href="#">
-        <img id="mobileImage" name="mobileImage" src="http://www.mediapeta.com/peta/Images/Banners/640x96-mobilebanner.jpg" alt="peta2 mobile" style="width: 980px"> 
-    </a>
-</div>
-
-<!-- CODE TO DETECT MOBILE DEVICE --> 
-<script type="text/javascript">
-var devicesArray = new Array();
-
-// These are the different mobile platforms to be detected. More can be added if needed.
-devicesArray[0] = "iphone";
-devicesArray[1] = "ipod";
-devicesArray[2] = "android";  
-devicesArray[3] = "series60";
-devicesArray[4] = "symbian";  
-devicesArray[5] = "windows ce";
-devicesArray[6] = "blackberry";
-devicesArray[7] = "palm";
-devicesArray[8] = "iemobile";
-devicesArray[9] = "windows phone os 7.0";
-devicesArray[10] = "ipad";
-devicesArray[11] = "windows phone os 7.5";
-
-//Initialize our user agent string to lower case.
-var uagent = navigator.userAgent.toLowerCase();
-
-// Detects if the current device is a mobile device.
-function DetectMobile()
-{     
-    for(var i = 0; i<devicesArray.length; i++)
-    {
-       if (uagent.search(devicesArray[i]) > -1)
-       {
-            return true;
-       }
-   }
-
-    return false;
-}
-function IsMobileApple() {
-    return IsIPhone() || IsIPod();
-}
-function IsIPhone() {
-    return uagent.search(devicesArray[0]) > -1;
-}
-function IsIPod(){
-    return uagent.search(devicesArray[1]) > -1;
-}
-function IsIPad(){
-	return uagent.search(devicesArray[10]) > -1;
-}
-function IsAndroid() {
-    return uagent.search(devicesArray[2]) > -1;
-}
-function IsSeries60() {
-    return uagent.search(devicesArray[3]) > -1;
-}
-function IsSymbian() {
-    return uagent.search(devicesArray[4]) > -1;
-}
-function IsWindowsCE() {
-    return uagent.search(devicesArray[5]) > -1;
-}
-function IsBlackberry() {
-    return uagent.search(devicesArray[6]) > -1;
-}
-function IsPalm() {
-    return uagent.search(devicesArray[7]) > -1;
-}
-function IsMobileWindows7x() {
-    return uagent.search(devicesArray[8]) > -1 || uagent.search(devicesArray[9]) > -1 || uagent.search(devicesArray[11]) > -1;
-}
-function IsMobileWindows() {
-    return IsWindowsCE() || IsMobileWindows7x();
-}
-
-//Confirms whether mobile detection should run based on server location.
-function runOnServer() {
-	var hostname = window.location.hostname;
+			<a class="screen-reader-shortcut" href="#peta-content-start" tabindex="1">Skip to Main Content</a>
 	
-	if (hostname == 'www.peta.org' || hostname == 'www.petatest.org') {
-		return true;
-	} else {
-		return false;
-	}
-}
-
-// If the page is being viewed on a mobile device, change the image's display property. 
-if (DetectMobile() && runOnServer()) {
-	var mobileImg = "http://www.mediapeta.com/peta/images/banners/";	//This is the base location.
-	var mobileImgUrl = "";
-
-    document.getElementById('mobileAd').style.display = 'block';
-
-	//See if the user is from Canada.
-	if (geoip_country_code() == 'CA') {
-		mobileImg += "640x96-petaMobileBanner-CN.jpg";
-		mobileImgUrl = "http://www.peta.org/about/learn-about-peta/subscribe-to-mobile-alerts.aspx";
-	} else if (IsIPhone() || IsIPod()) {
-		mobileImg += "640x96-mobileAlerts-iPhone.jpg";
-		mobileImgUrl = "https://itunes.apple.com/us/app/peta/id421236952?mt=8";
-
-	//} else if (IsIPad()) {
-	//	mobileImg += "640x96-mobileAlerts-iPad.jpg";
-	//	mobileImgUrl = "http://www.petatest.org?IPad";
-	} else if (IsAndroid()) {
-		mobileImg += "640x96-mobileAlerts-DroidPhone.jpg";
-		mobileImgUrl = "https://play.google.com/store/apps/details?id=com.peta.android&feature=search_result%23?t=W251bGwsMSwyLDEsImNvbS5wZXRhLmFuZHJvaWQiXQ";
-	//} else if (IsBlackberry()) {
-	//	mobileImg += "640x96-mobileAlerts-BlackBerry.jpg";
-	//	mobileImgUrl = "http://www.petatest.org?Blackberry";
-	//} else if (IsMobileWindows7x()) {
-	//	mobileImg += "640x96-mobileAlerts-Windows7.jpg";
-	//	mobileImgUrl = "http://www.petatest.org?Windows7x";
-
-	} else {
-		mobileImg += "640x96-mobileAlerts-Default.jpg";
-		//mobileImgUrl = "http://www.petatest.org?DefaultBanner";
-	}
-	
-	//Now, set the correct value for the banner image and url.
-	document.getElementById('mobileImage').src = mobileImg;
-	document.getElementById('mobileAppUrl').href = mobileImgUrl;
-} else {
-	document.getElementById('mobileAd').style.display = 'none';
-}
-</script> 
-<!-- END MOBILE DEVICE CODE -->
-
-<!--START GOOGLE ANALYTICS-->
-<script language="javascript" type="text/javascript" src="http://www.mediapeta.com/scripts/googleAnalytics/petaUS/peta/gaConstsAndBase2.js"></script> 
-<script language="javascript" type="text/javascript" src="http://www.mediapeta.com/scripts/googleAnalytics/petaUS/peta/gaEvents.js"></script>
-<!-- END GOOGLE ANALYTICS --></div><div class="header-fragment site-catalyst" id="fragment-d100819c-0ed4-4232-8cec-34960233f1ff">
-
-<script language="JavaScript" type="text/javascript"><!--
-var gPageName = s.pageName='Privacy Policy | PETA.org';s.pageURL='http://www.peta.org/about/learn-about-peta/privacy.aspx';s.prop11='non member';eVar11='non member';s.channel='About PETA'
-
-/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-var s_code=s.t();if(s_code)document.write(s_code)//--></script>
-<script language="JavaScript" type="text/javascript"><!--
-if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
-//--></script><noscript><a href="http://www.omniture.com" title="Web Analytics"><img
-src='http://peta.112.2o7.net/b/ss/petanewdev/1/H.21--NS/0' 
-height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
-<!-- End SiteCatalyst code version: H.21. -->
-</div><div class="header-fragment top-header-menu" id="fragment-0311e2eb-bcbc-41d9-acb0-da1d68be4f95">
-
-        <div id="HeaderLinks" class="HeaderText">        
-    
-	    <a class="first" href="http://prime.peta.org" title="">PETA Prime</a>
-     | 
-	    <a class="" href="http://www.peta2.com" title="">peta2</a>
-     | 
-	    <a class="" href="http://www.petakids.com" title="">PETA Kids</a>
-    
-        </div>
-    
-</div><div class="header-fragment extra-header-menu" id="fragment-7c3bfe84-f763-4532-96d3-6e8e5987421b">
-
-        <div id="ExtraHeaderLinks" class="ExtraHeaderText">
-    
-	    <a class="first" href="http://www.peta.org/about/contact-peta/report-cruelty.aspx" title="">Report Cruelty to Animals</a>
-     | 
-	    <a class="" href="https://secure.peta.org/site/Donation2?df_id=3542&amp;3542.donation=form1" title="">Become a Member</a>
-     | 
-	    <a class="" href="https://secure.peta.org/site/Donation2?df_id=3545&amp;3545.donation=form1" title="">Make a Monthly Gift</a>
-     | 
-	    <a class="" href="http://www.peta.org/donate/planned-giving/default.aspx" title="">Planned Giving</a>
-     | 
-	    <a class="" href="http://www2.peta.org/site/TR/Events/PETAsOnlineCommunity?pg=tgreeting&amp;fr_id=1030" title="">Make a Memorial Gift</a>
-    
-        </div>
-    
-</div><div class="header-fragment login-logout" id="fragment-691cb8a5-eded-47ef-aebe-b73a6f5bf29d">
-
-
-<div class="login-nav">
-        <div class="navigation-list-header"></div>
-        <ul class="navigation-list">
-            <li class="navigation-item"><a class="internal-link user-registration" href="/user/CreateUser.aspx?ReturnUrl=%2fabout%2flearn-about-peta%2fprivacy.aspx"><span></span>Join</a></li><li class="navigation-item"><a class="internal-link login" href="/login.aspx?ReturnUrl=%2fabout%2flearn-about-peta%2fprivacy.aspx"><span></span>Sign in </a></li>
-        </ul>
-        <div class="navigation-list-footer"></div>
-    </div>
-</div><div class="header-fragment site-banner" id="fragment-3839c2ec-5a22-401e-b557-d32c51784d6c">
-
-
-<div class="site-banner-header"></div>
-<div class="site-banner">
-    
-    
-    
-    
-            <a href="/" class="site-title">
-               
-                <img src="/themes/peta/images/peta/blank.gif" alt="" border="0">
-            </a>
-        
-</div>
-<div class="site-banner-footer"></div></div><div class="header-fragment thunderstone-search" id="fragment-c80ca341-8144-4e17-91ef-8ff6b73f814e">
-
-<div class="search-box">
-    <input name="ctl00$fragment_c80ca341_8144_4e17_91ef_8ff6b73f814e$_2283d71595f2$SearchText" type="text" maxlength="64" size="45" id="ctl00_fragment_c80ca341_8144_4e17_91ef_8ff6b73f814e__2283d71595f2_SearchText" buttonid="SearchButton" class="text blur" onkeydown="return keyHandler(event);" onfocus="if(this.defaultValue==this.value) this.value='';" onblur="if(this.value=='') this.value=this.defaultValue;">
-    <span></span>
-    <input type="submit" value="search" onclick="return doSearch();">
-</div>
-
-<script type="text/javascript">
-    function doSearch() {
-        var searchString = $('#ctl00_fragment_c80ca341_8144_4e17_91ef_8ff6b73f814e__2283d71595f2_SearchText')[0].value;
-
-        if (searchString != '') {
-            var newLocation = 'http://www.peta.org/search/SearchResults.aspx?q=' + searchString;
-            $(location).attr('href', newLocation);
-        }
-        return false;
-    }
-
-    function keyHandler(event) {
-        if (event.keyCode == 13) {
-
-            Page_ValidationActive = false;
-            event.returnValue = false;
-            event.cancel = true;
-
-            return doSearch();
-                    }
-        return true;
-    }
-
-    $(document).ready(function() {
-        $('#ctl00_fragment_c80ca341_8144_4e17_91ef_8ff6b73f814e__2283d71595f2_SearchText').coolinput({ hint: 'SEARCH PETA.ORG' });
-    });
-</script>
-
-
-
-
-
-
-</div></div><div class="header-fragment main-header-menu" id="fragment-2d6b5ee5-e444-4d8d-b504-e25a851f6aea">
-<div id="ctl00_fragment_2d6b5ee5_e444_4d8d_b504_e25a851f6aea__3d83646719ab_menuContainer" class="parent-sub-container">
-    <div class="navigation-list-header">
-    </div>
-    
-            <ul id="listcontainer_ctl00_fragment_2d6b5ee5_e444_4d8d_b504_e25a851f6aea__3d83646719ab_MenuItemRoot" class="navigation-list root  ">
-        
-            <li class="navigation-item entry first">
-                
-                <a href="/" title="" accesskey="" class="internal-link view-group">
-                    Home
-                </a>
-                
-            </li>
-        
-            <li class="navigation-item entry">
-                
-                <a href="/features/default.aspx" title="" accesskey="" class="internal-link view-group">
-                    Features
-                </a>
-                
-            </li>
-        
-            <li class="navigation-item entry">
-                
-                <a href="/tv/default.aspx" title="" accesskey="" class="internal-link view-group">
-                    Video
-                </a>
-                
-            </li>
-        
-            <li class="navigation-item entry">
-                
-                <a href="/action/default.aspx" title="" accesskey="" class="internal-link view-group">
-                    Action
-                </a>
-                
-            </li>
-        
-            <li class="navigation-item entry">
-                
-                <a href="/b/thepetafiles/default.aspx" title="" accesskey="" class="internal-link view-group">
-                    Blog
-                </a>
-                
-            </li>
-        
-            <li class="navigation-item entry">
-                
-                <a href="/issues/default.aspx" title="" accesskey="" class="internal-link view-group">
-                    Issues
-                </a>
-                
-            </li>
-        
-            <li class="navigation-item entry">
-                
-                <a href="/living/default.aspx" title="" accesskey="" class="internal-link view-group">
-                    Living
-                </a>
-                
-            </li>
-        
-            <li class="navigation-item entry">
-                
-                <a href="/shop/default.aspx" title="" accesskey="" class="internal-link view-group">
-                    Shop
-                </a>
-                
-            </li>
-        
-            <li class="navigation-item entry">
-                
-                <a href="/interactive/default.aspx" title="" accesskey="" class="internal-link view-group">
-                    Interactive
-                </a>
-                
-            </li>
-        
-            <li class="navigation-item entry">
-                
-                <a href="/mediacenter/default.aspx" title="" accesskey="" class="internal-link view-group">
-                    Media Center
-                </a>
-                
-            </li>
-        
-            <li class="navigation-item selected entry">
-                
-                <a href="/about/default.aspx" title="" accesskey="" class="internal-link view-group">
-                    About PETA
-                </a>
-                
-            </li>
-        
-            <li class="navigation-item highlighted-item entry">
-                
-                <a href="https://secure.peta.org/site/SPageServer?pagename=donatenow&amp;set.custom.Campaign_Code=I13XWAXXXXG&amp;autologin=true " title="" accesskey="" class="internal-link view-group">
-                    Donate Now
-                </a>
-                
-            </li>
-        
-            </ul>
-        
-    <div class="navigation-list-footer">
-    </div>
-</div>
-</div><div class="header-fragment content-menu" id="fragment-db7a61eb-164a-456c-892a-c3e112a0ed22">
-<div id="ctl00_fragment_db7a61eb_164a_456c_892a_c3e112a0ed22__7a4e1f3fe1a_menuContainer" class="parent-sub-container">
-    <div class="navigation-list-header">
-    </div>
-    
-            <ul id="listcontainer_ctl00_fragment_db7a61eb_164a_456c_892a_c3e112a0ed22__7a4e1f3fe1a_MenuItemRoot" class="navigation-list root  ">
-        
-            <li class="navigation-item first  selected entry">
-                
-                <a href="/about/learn-about-peta/default.aspx" title="" accesskey="" class="internal-link view-group">
-                    Learn About PETA
-                </a>
-                
-            </li>
-        
-            <li class="navigation-item   entry">
-                
-                <a href="/about/faq/default.aspx" title="" accesskey="" class="internal-link view-group">
-                    FAQ
-                </a>
-                
-            </li>
-        
-            <li class="navigation-item   entry">
-                
-                <a href="/about/why-peta/default.aspx" title="" accesskey="" class="internal-link view-group">
-                    Our Views
-                </a>
-                
-            </li>
-        
-            <li class="navigation-item   entry">
-                
-                <a href="/about/victories/default.aspx" title="" accesskey="" class="internal-link view-group">
-                    Victories
-                </a>
-                
-            </li>
-        
-            <li class="navigation-item   entry">
-                
-                <a href="/about/volunteer/default.aspx" title="" accesskey="" class="internal-link view-group">
-                    Volunteer
-                </a>
-                
-            </li>
-        
-            <li class="navigation-item   entry">
-                
-                <a href="/about/work-at-peta/default.aspx" title="" accesskey="" class="internal-link view-group">
-                    Work at PETA
-                </a>
-                
-            </li>
-        
-            <li class="navigation-item   entry">
-                
-                <a href="/about/intern-at-peta/default.aspx" title="" accesskey="" class="internal-link view-group">
-                    Intern at PETA
-                </a>
-                
-            </li>
-        
-            <li class="navigation-item   entry">
-                
-                <a href="/about/contact-peta/default.aspx" title="" accesskey="" class="internal-link view-group">
-                    Contact PETA
-                </a>
-                
-            </li>
-        
-            </ul>
-        
-    <div class="navigation-list-footer">
-    </div>
-</div></div></div>
-<div class="header-fragments-footer"></div>
-            
-			
-    <div class="content-fragment-page cms-page-4616:656081" id="ctl00_content_ctl00_page"><div class="layout">
-<div class="layout-header"></div>
-<div class="layout-content content-left-sidebar-right" id="ctl00_content_ctl00_layout" style="padding-top: 46px;">
-<div class="layout-region right-sidebar" id="ctl00_content_ctl00_right-sidebar">
-<div class="layout-region-inner right-sidebar"><div class="content-fragment page-actions no-wrapper-with-spacing  page-actions" id="fragment-15564703">
-<div class="content-fragment-inner peta-content-fragment-inner"><div class="content-fragment-top peta-content-fragment-top"><div class="r1 peta-r1"></div><div class="r2 peta-r2"></div><div class="r3 peta-r3"></div><div class="r4 peta-r4"></div></div><div class="content-fragment-content">
-
-<ul class="article-actions2">
-    
-    
-		
-				<li class="icons ctl00_content_ctl00_fragment_15564703_ctl01_ctl00_nexus">
-
-<a href="javascript:void()" onclick="ctl00_content_ctl00_fragment_15564703_ctl01_ctl00_ctl01_ctl05_ctl00_ctl01_ctl00_ctl01_ctl01_shareLink_postToFeed()" type="icon"></a>
-<script type="text/javascript"> 
-   function ctl00_content_ctl00_fragment_15564703_ctl01_ctl00_ctl01_ctl05_ctl00_ctl01_ctl00_ctl01_ctl01_shareLink_postToFeed() {
-        var obj = {
-            method: 'feed',
-            link: 'http://www.peta.org/about/learn-about-peta/privacy.aspx'
-        };
-        FB.ui(obj, null);
-    }
-</script>
-
-</li>
-			
-				<li class="icons ctl00_content_ctl00_fragment_15564703_ctl01_ctl00_nexus"><a class="retweet" href="http://twitter.com/intent/tweet?text=Check+Out%3a+Privacy+Policy+http%3a%2f%2fbit.ly%2fnElFbT" target="_blank"><img src="/Themes/peta/images/peta/generic-icon-twitter.gif" alt="" style="border-width:0px;"></a></li>
-			
-		<li class="icons">
-			
-<script type="text/JavaScript">
-document.write('<a target="_blank" title="StumbleUpon"  onclick="');
-document.write('if(_gaq){_gaq.push([\'_trackSocial\',petaGA_SNsource_StumbleUpon,petaGA_GenericAction_Share])};" href="http://www.stumbleupon.com/submit?url=http%3a%2f%2fwww.peta.org%2fabout%2flearn-about-peta%2fprivacy.aspx&title=' + document.title.replace(/ /g, '+') + '">');
-document.write('<img border="0" src="/Utility/images/icons/stumbleupon-logo.png" /></a>');
-</script><a target="_blank" title="StumbleUpon" onclick="if(_gaq){_gaq.push(['_trackSocial',petaGA_SNsource_StumbleUpon,petaGA_GenericAction_Share])};" href="http://www.stumbleupon.com/submit?url=http%3a%2f%2fwww.peta.org%2fabout%2flearn-about-peta%2fprivacy.aspx&amp;title=Privacy+Policy+|+PETA.org"><img border="0" src="/Utility/images/icons/stumbleupon-logo.png"></a>
-
-
-		</li>
-		<li class="icons">
-			
-<script type="text/JavaScript">
-document.write ('<a target="_blank" title="Tumblr"  onclick="');
-document.write('if(_gaq){_gaq.push([\'_trackSocial\',petaGA_SNsource_Tumblr,petaGA_GenericAction_Share])};" href="http://www.tumblr.com/share?v=3&s=&t=' + document.title.replace(/ /g, '+') + '&u=http%3a%2f%2fwww.peta.org%2fabout%2flearn-about-peta%2fprivacy.aspx">');
-document.write ('<img border="0" src="/Utility/images/icons/tumblr-logo.png" /></a>');
-</script><a target="_blank" title="Tumblr" onclick="if(_gaq){_gaq.push(['_trackSocial',petaGA_SNsource_Tumblr,petaGA_GenericAction_Share])};" href="http://www.tumblr.com/share?v=3&amp;s=&amp;t=Privacy+Policy+|+PETA.org&amp;u=http%3a%2f%2fwww.peta.org%2fabout%2flearn-about-peta%2fprivacy.aspx"><img border="0" src="/Utility/images/icons/tumblr-logo.png"></a>
-
-		</li>
-		<li class="icons">
-			
-<g:plusone size="small" count="false" href="http://www.peta.org/about/learn-about-peta/privacy.aspx"></g:plusone>
-
-		</li>
-		<li class="icons">
-        <a id="ctl00_content_ctl00_fragment_15564703_ctl01_ctl00_ctl01_ctl05_EmailPopupLinkCtrl" title="Email" onclick="Telligent_Modal.Open('/user/EmailModal.aspx?url=aHR0cDovL2JpdC5seS9uRWxGYlQ=&amp;emailsubtype=1164',550,360,null); return false;" href="../../../Utility/ContentFragments/PETA/#"><img src="/Themes/peta/images/peta/generic-icon-email.gif" alt="" border="0"></a>
-        </li>
-		<li class="icons">
-			
-<script type="text/JavaScript">
-document.write('<a target="_blank" title="Reddit"  onclick="');
-document.write('if(_gaq){_gaq.push([\'_trackSocial\',petaGA_SNsource_Reddit,petaGA_GenericAction_Share])};" href="http://www.reddit.com/submit?url=http%3a%2f%2fwww.peta.org%2fabout%2flearn-about-peta%2fprivacy.aspx">');
-document.write('<img border="0" src="/Utility/images/icons/reddit-logo.png" /></a>');
-</script><a target="_blank" title="Reddit" onclick="if(_gaq){_gaq.push(['_trackSocial',petaGA_SNsource_Reddit,petaGA_GenericAction_Share])};" href="http://www.reddit.com/submit?url=http%3a%2f%2fwww.peta.org%2fabout%2flearn-about-peta%2fprivacy.aspx"><img border="0" src="/Utility/images/icons/reddit-logo.png"></a>
-		</li>
-        <li class="icons">
-            
-
-<!-- AddThis Button BEGIN -->
-<div class="addthis_toolbox addthis_default_style">
-<a href="http://www.addthis.com/bookmark.php?v=250&amp;pubid=" class="addthis_button_expanded" addthis:url="http%3a%2f%2fwww.peta.org%2fabout%2flearn-about-peta%2fprivacy.aspx" addthis:title="Privacy+Policy" addthis:description="People for the Ethical Treatment of Animals"></a>
-</div>
-<!-- AddThis Button END -->
-
-        </li>
-        <li class="last">
-            
-
-<div id="thisIsFacebook" class="ctl00_content_ctl00_fragment_15564703_ctl01_ctl00_ctl01_ctl05_ctl06">
-    <div id="showMe" class="ctl00_content_ctl00_fragment_15564703_ctl01_ctl00_ctl01_ctl05_ctl06">
-        <iframe src="//www.facebook.com/plugins/like.php?href=http%3a%2f%2fwww.peta.org%2fabout%2flearn-about-peta%2fprivacy.aspx%2F&amp;send=false&amp;layout=standard&amp;width=450&amp;show_faces=false&amp;font=lucida+grande&amp;colorscheme=light&amp;action=like&amp;height=35&amp;appId=e5b64753fccc7b87bfa32464300cf753" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:250px; height:35px;" allowtransparency="true"></iframe>
-    </div>
-</div>
-        </li>
-        <script type="text/javascript">
-            $("li.ctl00_content_ctl00_fragment_15564703_ctl01_ctl00_nexus a[name|=fb_share]").click(function() { if (_gaq) { _gaq.push(['_trackSocial', petaGA_SNsource_Facebook, petaGA_GenericAction_Share]) }; });
-            $("li.ctl00_content_ctl00_fragment_15564703_ctl01_ctl00_nexus a.retweet").click(function() { if (_gaq) { _gaq.push(['_trackSocial', petaGA_SNsource_Twitter, petaGA_GenericAction_Share]) }; });
-        </script>
-    
+	<!-- begin top-links -->
+	<div class="top-links">
+		<nav class="top-bar">
+			<div class="mobile-site-overlay"></div>
+							<a class="logo" href="http://www.peta.org" title="PETA | People for the Ethical Treatment of Animals">
+				</a>
+						<a class="nav-slide" href="#"><span aria-hidden="true" class="icon-vege-burger"></span><span class="button-text">Menu</span></a>
+			<a class="search-slide" href="#"><span aria-hidden="true" class="icon-magnifying-glass"></span></a>
+			<div class="toggle-topbar menu-icon">
+				<a href="#"><span class="button-text">More</span><span aria-hidden="true" class="icon-right-arrow"></span></a>
+			</div>
+			<section class="top-bar-section">
+				<!-- Menu modified by MAJpage Menu Class Extender -->
+<ul id="menu-top-bar-sites" class="top-bar-menu left"><li id="menu-item-598" class="first-menu-item odd-menu-item menu-item menu-item-type-custom menu-item-object-custom menu-item-598"><a accesskey="u" title="PETA Prime" target="_blank" href="http://prime.peta.org">PETA Prime</a></li>
+<li id="menu-item-599" class="even-menu-item menu-item menu-item-type-custom menu-item-object-custom menu-item-599"><a accesskey="v" title="peta2" target="_blank" href="http://www.peta2.com">peta2</a></li>
+<li id="menu-item-600" class="last-menu-item odd-menu-item menu-item menu-item-type-custom menu-item-object-custom menu-item-600"><a accesskey="w" title="PETA Kids" target="_blank" href="http://www.petakids.com">PETA Kids</a></li>
 </ul>
-</div>
-<div class="content-fragment-footer"></div>
-<div class="content-fragment-bottom peta-content-fragment-bottom"><div class="r1 peta-r1"></div><div class="r2 peta-r2"></div><div class="r3 peta-r3"></div><div class="r4 peta-r4"></div></div></div></div>
-<div class="content-fragment content-menu full-border with-header" id="fragment-15564704">
-<div class="content-fragment-inner peta-content-fragment-inner"><div class="content-fragment-top peta-content-fragment-top"><div class="r1 peta-r1"></div><div class="r2 peta-r2"></div><div class="r3 peta-r3"></div><div class="r4 peta-r4"></div></div><div class="content-fragment-header"><div>In This Section</div></div>
-<div class="content-fragment-content">
-
-
-
-<div id="ctl00_content_ctl00_fragment_15564704_ctl01_ctl00_menuContainer" class="parent-sub-container">
-    <div class="navigation-list-header">
-    </div>
-    
-            <ul id="listcontainer_ctl00_content_ctl00_fragment_15564704_ctl01_ctl00_MenuItemRoot" class="navigation-list root accordion ">
-                   
-            <li class="navigation-item first with-children entry">
-                
-                <a class="expander trigger open" title="open/close" style="display: block;"><span>+</span></a>
-                <span>
-                    <a href="/about/learn-about-peta/website-policies.aspx" title="" accesskey="" class="internal-link view-group">
-                        About This Site 
-                    </a>
-                </span>
-                
-            <div class="inner" style="display: block;">
-        
-            <ul id="listcontainer_ctl00_content_ctl00_fragment_15564704_ctl01_ctl00_MenuItemRoot_ctl02_ctl01" class="navigation-list child accordion ">
-                   
-            <li class="navigation-item  entry last-child">
-                
-                <a class="expander"><span>+</span></a>
-                <span>
-                    <a href="/about/learn-about-peta/accessibility.aspx" title="" accesskey="" class="internal-link view-group">
-                        Accessibility Features
-                    </a>
-                </span>
-                
-            </li>
-                   
-            <li class="navigation-item  entry last-child">
-                
-                <a class="expander"><span>+</span></a>
-                <span>
-                    <a href="/about/learn-about-peta/contest-terms-conditions.aspx" title="" accesskey="" class="internal-link view-group">
-                        Contest Rules
-                    </a>
-                </span>
-                
-            </li>
-                   
-            <li class="navigation-item  entry last-child">
-                
-                <a class="expander"><span>+</span></a>
-                <span>
-                    <a href="/about/learn-about-peta/disclaimer.aspx" title="" accesskey="" class="internal-link view-group">
-                        Disclaimer
-                    </a>
-                </span>
-                
-            </li>
-                   
-            <li class="navigation-item  selected entry last-child">
-                
-                <a class="expander"><span>+</span></a>
-                <span>
-                    <a href="/about/learn-about-peta/privacy.aspx" title="" accesskey="" class="internal-link view-group">
-                        Privacy Policy 
-                    </a>
-                </span>
-                
-            </li>
-                   
-            <li class="navigation-item  entry last-child">
-                
-                <a class="expander"><span>+</span></a>
-                <span>
-                    <a href="/about/learn-about-peta/site-map.aspx" title="" accesskey="" class="internal-link view-group">
-                        Site Map
-                    </a>
-                </span>
-                
-            </li>
-                   
-            <li class="navigation-item  entry last-child">
-                
-                <a class="expander"><span>+</span></a>
-                <span>
-                    <a href="/about/learn-about-peta/other.aspx" title="" accesskey="" class="internal-link view-group">
-                        Other PETA Web Sites
-                    </a>
-                </span>
-                
-            </li>
-                   
-            <li class="navigation-item  entry last-child">
-                
-                <a class="expander"><span>+</span></a>
-                <span>
-                    <a href="/about/learn-about-peta/subscribe-to-enews.aspx" title="" accesskey="" class="internal-link view-group">
-                        Subscribe to E-News
-                    </a>
-                </span>
-                
-            </li>
-                   
-            <li class="navigation-item  entry last-child">
-                
-                <a class="expander"><span>+</span></a>
-                <span>
-                    <a href="/about/learn-about-peta/terms-of-submission.aspx" title="" accesskey="" class="internal-link view-group">
-                        Terms of Submission
-                    </a>
-                </span>
-                
-            </li>
-                   
-            <li class="navigation-item  entry last-child">
-                
-                <a class="expander"><span>+</span></a>
-                <span>
-                    <a href="/about/learn-about-peta/texting-terms-and-conditions.aspx" title="" accesskey="" class="internal-link view-group">
-                        Texting Terms and Conditions
-                    </a>
-                </span>
-                
-            </li>
-                   
-            <li class="navigation-item  entry last-child">
-                
-                <a class="expander"><span>+</span></a>
-                <span>
-                    <a href="/about/learn-about-peta/PETA-Online-Community-Terms-of-Use-Agreement.aspx" title="" accesskey="" class="internal-link view-group">
-                        Terms of Use
-                    </a>
-                </span>
-                
-            </li>
-        
-            </ul>
-        
-            </div>
-        
-            </li>
-                   
-            <li class="navigation-item  entry last-child">
-                
-                <a class="expander"><span>+</span></a>
-                <span>
-                    <a href="http://www.peta.org/about/learn-about-peta/subscribe-to-mobile-alerts.aspx" title="Subscribe to PETA's Mobile Alerts" accesskey="" class="internal-link view-group">
-                        Subscribe to PETA's Mobile Alerts
-                    </a>
-                </span>
-                
-            </li>
-                   
-            <li class="navigation-item  entry last-child">
-                
-                <a class="expander"><span>+</span></a>
-                <span>
-                    <a href="/about/learn-about-peta/history.aspx" title="" accesskey="" class="internal-link view-group">
-                        PETA's History: Compassion in Action
-                    </a>
-                </span>
-                
-            </li>
-                   
-            <li class="navigation-item  with-children entry">
-                
-                <a class="expander trigger" title="open/close" style="display: block;"><span>+</span></a>
-                <span>
-                    <a href="/about/learn-about-peta/ingrid-newkirk.aspx" title="" accesskey="" class="internal-link view-group">
-                        A Message From PETA's President
-                    </a>
-                </span>
-                
-            <div class="inner" style="display: none;">
-        
-            <ul id="listcontainer_ctl00_content_ctl00_fragment_15564704_ctl01_ctl00_MenuItemRoot_ctl05_ctl01" class="navigation-list child accordion ">
-                   
-            <li class="navigation-item  entry last-child">
-                
-                <a class="expander"><span>+</span></a>
-                <span>
-                    <a href="/about/learn-about-peta/animal-liberation.aspx" title="" accesskey="" class="internal-link view-group">
-                        What Is Animal Liberation? 
-                    </a>
-                </span>
-                
-            </li>
-        
-            </ul>
-        
-            </div>
-        
-            </li>
-                   
-            <li class="navigation-item  with-children entry">
-                
-                <a class="expander trigger" title="open/close" style="display: block;"><span>+</span></a>
-                <span>
-                    <a href="/about/learn-about-peta/success-stories.aspx" title="" accesskey="" class="internal-link view-group">
-                        Success Stories
-                    </a>
-                </span>
-                
-            <div class="inner" style="display: none;">
-        
-            <ul id="listcontainer_ctl00_content_ctl00_fragment_15564704_ctl01_ctl00_MenuItemRoot_ctl06_ctl01" class="navigation-list child accordion ">
-                   
-            <li class="navigation-item  entry last-child">
-                
-                <a class="expander"><span>+</span></a>
-                <span>
-                    <a href="/about/learn-about-peta/online-marketing.aspx" title="" accesskey="" class="internal-link view-group">
-                        Online Marketing
-                    </a>
-                </span>
-                
-            </li>
-                   
-            <li class="navigation-item  entry last-child">
-                
-                <a class="expander"><span>+</span></a>
-                <span>
-                    <a href="/about/learn-about-peta/peta2.aspx" title="" accesskey="" class="internal-link view-group">
-                        Meet peta2: PETA's Youth Division
-                    </a>
-                </span>
-                
-            </li>
-                   
-            <li class="navigation-item  entry last-child">
-                
-                <a class="expander"><span>+</span></a>
-                <span>
-                    <a href="/about/learn-about-peta/skins-campaign.aspx" title="" accesskey="" class="internal-link view-group">
-                        PETA's Anti-Skins Campaign
-                    </a>
-                </span>
-                
-            </li>
-                   
-            <li class="navigation-item  entry last-child">
-                
-                <a class="expander"><span>+</span></a>
-                <span>
-                    <a href="/about/learn-about-peta/regulatory-testing.aspx" title="" accesskey="" class="internal-link view-group">
-                        Fighting Against Regulatory Testing on Animals
-                    </a>
-                </span>
-                
-            </li>
-                   
-            <li class="navigation-item  entry last-child">
-                
-                <a class="expander"><span>+</span></a>
-                <span>
-                    <a href="/about/learn-about-peta/vegetarian-campaign.aspx" title="" accesskey="" class="internal-link view-group">
-                        PETA's Vegetarian Campaign
-                    </a>
-                </span>
-                
-            </li>
-                   
-            <li class="navigation-item  entry last-child">
-                
-                <a class="expander"><span>+</span></a>
-                <span>
-                    <a href="/about/learn-about-peta/beauty-without-bunnies-campaign.aspx" title="" accesskey="" class="internal-link view-group">
-                        PETA's Beauty Without Bunnies Campaign
-                    </a>
-                </span>
-                
-            </li>
-                   
-            <li class="navigation-item  entry last-child">
-                
-                <a class="expander"><span>+</span></a>
-                <span>
-                    <a href="/about/learn-about-peta/shareholder-resolutions.aspx" title="" accesskey="" class="internal-link view-group">
-                        Investing in Animals: PETA's Shareholder Resolution Campaign 
-                    </a>
-                </span>
-                
-            </li>
-                   
-            <li class="navigation-item  with-children entry">
-                
-                <a class="expander trigger" title="open/close" style="display: block;"><span>+</span></a>
-                <span>
-                    <a href="/about/learn-about-peta/farmed-animal-campaigns.aspx" title="" accesskey="" class="internal-link view-group">
-                        Farmed Animal Campaigns
-                    </a>
-                </span>
-                
-            <div class="inner" style="display: none;">
-        
-            <ul id="listcontainer_ctl00_content_ctl00_fragment_15564704_ctl01_ctl00_MenuItemRoot_ctl06_ctl01_ctl09_ctl01" class="navigation-list child accordion ">
-                   
-            <li class="navigation-item  entry last-child">
-                
-                <a class="expander"><span>+</span></a>
-                <span>
-                    <a href="/about/learn-about-peta/select-news.aspx" title="" accesskey="" class="internal-link view-group">
-                        Select News Coverage About PETA's Farmed Animal Welfare Campaigns
-                    </a>
-                </span>
-                
-            </li>
-                   
-            <li class="navigation-item  entry last-child">
-                
-                <a class="expander"><span>+</span></a>
-                <span>
-                    <a href="/about/learn-about-peta/murderking.aspx" title="" accesskey="" class="internal-link view-group">
-                        Victory: PETA Wins 'Murder King' Campaign!
-                    </a>
-                </span>
-                
-            </li>
-                   
-            <li class="navigation-item  entry last-child">
-                
-                <a class="expander"><span>+</span></a>
-                <span>
-                    <a href="/about/learn-about-peta/shameway.aspx" title="" accesskey="" class="internal-link view-group">
-                        Victory: PETA Wins Shameway Campaign!
-                    </a>
-                </span>
-                
-            </li>
-                   
-            <li class="navigation-item  entry last-child">
-                
-                <a class="expander"><span>+</span></a>
-                <span>
-                    <a href="/about/learn-about-peta/wicked-wendys.aspx" title="" accesskey="" class="internal-link view-group">
-                        Victory: PETA Wins Wicked Wendy's Campaign!
-                    </a>
-                </span>
-                
-            </li>
-        
-            </ul>
-        
-            </div>
-        
-            </li>
-        
-            </ul>
-        
-            </div>
-        
-            </li>
-                   
-            <li class="navigation-item  with-children entry">
-                
-                <a class="expander trigger" title="open/close" style="display: block;"><span>+</span></a>
-                <span>
-                    <a href="/about/learn-about-peta/helping-animals-in-Hampton-Roads.aspx" title="" accesskey="" class="internal-link view-group">
-                        How PETA Helps Animals in Hampton Roads
-                    </a>
-                </span>
-                
-            <div class="inner" style="display: none;">
-        
-            <ul id="listcontainer_ctl00_content_ctl00_fragment_15564704_ctl01_ctl00_MenuItemRoot_ctl07_ctl01" class="navigation-list child accordion ">
-                   
-            <li class="navigation-item  entry last-child">
-                
-                <a class="expander"><span>+</span></a>
-                <span>
-                    <a href="/about/learn-about-peta/community-animal-project.aspx" title="" accesskey="" class="internal-link view-group">
-                        PETA's Work to Help Animals in Our Community 
-                    </a>
-                </span>
-                
-            </li>
-                   
-            <li class="navigation-item  with-children entry">
-                
-                <a class="expander trigger" title="open/close" style="display: block;"><span>+</span></a>
-                <span>
-                    <a href="/about/learn-about-peta/SNIP.aspx" title="" accesskey="" class="internal-link view-group">
-                        PETA's Mobile Clinics Division
-                    </a>
-                </span>
-                
-            <div class="inner" style="display: none;">
-        
-            <ul id="listcontainer_ctl00_content_ctl00_fragment_15564704_ctl01_ctl00_MenuItemRoot_ctl07_ctl01_ctl03_ctl01" class="navigation-list child accordion ">
-                   
-            <li class="navigation-item  entry last-child">
-                
-                <a class="expander"><span>+</span></a>
-                <span>
-                    <a href="http://www.peta.org/about/learn-about-peta/snip-calendar.aspx" title="" accesskey="" class="internal-link view-group">
-                        PETA's Mobile Clinics Division Calendar
-                    </a>
-                </span>
-                
-            </li>
-        
-            </ul>
-        
-            </div>
-        
-            </li>
-                   
-            <li class="navigation-item  entry last-child">
-                
-                <a class="expander"><span>+</span></a>
-                <span>
-                    <a href="/about/learn-about-peta/resources-Hampton-Roads.aspx" title="" accesskey="" class="internal-link view-group">
-                        How You Can Help
-                    </a>
-                </span>
-                
-            </li>
-        
-            </ul>
-        
-            </div>
-        
-            </li>
-                   
-            <li class="navigation-item  entry last-child">
-                
-                <a class="expander"><span>+</span></a>
-                <span>
-                    <a href="/about/learn-about-peta/financial-report.aspx" title="" accesskey="" class="internal-link view-group">
-                        Financial Reports
-                    </a>
-                </span>
-                
-            </li>
-                   
-            <li class="navigation-item  with-children entry">
-                
-                <a class="expander trigger" title="open/close" style="display: block;"><span>+</span></a>
-                <span>
-                    <a href="/about/learn-about-peta/info-businesses.aspx" title="" accesskey="" class="internal-link view-group">
-                        Information for Businesses
-                    </a>
-                </span>
-                
-            <div class="inner" style="display: none;">
-        
-            <ul id="listcontainer_ctl00_content_ctl00_fragment_15564704_ctl01_ctl00_MenuItemRoot_ctl09_ctl01" class="navigation-list child accordion ">
-                   
-            <li class="navigation-item  entry last-child">
-                
-                <a class="expander"><span>+</span></a>
-                <span>
-                    <a href="/about/learn-about-peta/beauty-without-bunnies-program.aspx" title="" accesskey="" class="internal-link view-group">
-                        PETA's Beauty Without Bunnies Program
-                    </a>
-                </span>
-                
-            </li>
-                   
-            <li class="navigation-item  entry last-child">
-                
-                <a class="expander"><span>+</span></a>
-                <span>
-                    <a href="/about/learn-about-peta/info-charities.aspx" title="" accesskey="" class="internal-link view-group">
-                        Information for Charities
-                    </a>
-                </span>
-                
-            </li>
-                   
-            <li class="navigation-item  entry last-child">
-                
-                <a class="expander"><span>+</span></a>
-                <span>
-                    <a href="/about/learn-about-peta/Partner-With-PETA.aspx" title="" accesskey="" class="internal-link view-group">
-                        PETA Partnership Program
-                    </a>
-                </span>
-                
-            </li>
-        
-            </ul>
-        
-            </div>
-        
-            </li>
-        
-            </ul>
-        
-    <div class="navigation-list-footer">
-    </div>
-</div>
-</div>
-<div class="content-fragment-footer"></div>
-<div class="content-fragment-bottom peta-content-fragment-bottom"><div class="r1 peta-r1"></div><div class="r2 peta-r2"></div><div class="r3 peta-r3"></div><div class="r4 peta-r4"></div></div></div></div>
-<div class="content-fragment area-list full-border with-header  area-link-list blue" id="fragment-15564705">
-<div class="content-fragment-inner peta-content-fragment-inner"><div class="content-fragment-top peta-content-fragment-top"><div class="r1 peta-r1"></div><div class="r2 peta-r2"></div><div class="r3 peta-r3"></div><div class="r4 peta-r4"></div></div><div class="content-fragment-header"><div><a class="internal-link view-application weblog" href="/about/victories/Default.aspx"><span></span>Victories</a></div></div>
-<div class="content-fragment-content">
-
-
-
-       
-
-
-
-
-<div querytype="Default">
-        <div class="content-list-header"></div>
-        <ul class="action-list"> 
-    
-        <li>
-            
-                    <a href="http://www.peta.org/about/victories/horrific-peruvian-cat-eating-festival-stopped.aspx">Horrific Peruvian Cat-Eating Festival Stopped!</a>
-                                        
-                  
-                                         
-        </li>            
-    
-        <li>
-            
-                    <a href="http://www.peta.org/about/victories/kittens-saved-from-being-bulldozed.aspx">Kittens Saved From Being Bulldozed!</a>
-                                        
-                  
-                                         
-        </li>            
-    
-        <li>
-            
-                    <a href="http://www.peta.org/about/victories/golf-course-retrofits-fence-to-make-it-wildlife-friendly.aspx">Golf Course Retrofits Fence to Make It Wildlife-Friendly</a>
-                                        
-                  
-                                         
-        </li>            
-    
-        <li>
-            
-                    <a href="http://www.peta.org/about/victories/nebraska-capitol-building-ditches-vile-glue-traps.aspx">Nebraska Capitol Building Ditches Vile Glue Traps!</a>
-                                        
-                  
-                                         
-        </li>            
-    
-        <li class="last">
-            
-                    <a href="http://www.peta.org/about/victories/blue-water-fest-cancels-rides-on-nosey-the-elephant.aspx">Blue Water Fest Cancels Rides on Nosey the Elephant!</a>
-                                        
-                  
-                                         
-        </li>            
-    
-        </ul>
-        <div class="content-list-footer">
-            
-        </div>
-    </div>
-
-
-
-
-        <div class="all-rss">
-    
-    <a id="ctl00_content_ctl00_fragment_15564705_ctl01_ctl00_ctl00_ctl05__ctrl_0_lnkShowMore" href="/about/victories/Default.aspx">See More Victories &gt;&gt;</a>
-    <a class="rss" href="/about/pages/highlights.aspx?ctypes=cms&amp;groups=14&amp;sort=date+desc">
-            SUBSCRIBE TO FEED
-        </a>  
-
-        </div>
-    
-   
-
-
-
-</div>
-<div class="content-fragment-footer"></div>
-<div class="content-fragment-bottom peta-content-fragment-bottom"><div class="r1 peta-r1"></div><div class="r2 peta-r2"></div><div class="r3 peta-r3"></div><div class="r4 peta-r4"></div></div></div></div>
-<div class="content-fragment content-link-list full-border with-header" id="fragment-15564706">
-<div class="content-fragment-inner peta-content-fragment-inner"><div class="content-fragment-top peta-content-fragment-top"><div class="r1 peta-r1"></div><div class="r2 peta-r2"></div><div class="r3 peta-r3"></div><div class="r4 peta-r4"></div></div><div class="content-fragment-header"><div>Featured Frequently Asked Questions</div></div>
-<div class="content-fragment-content">
-
-
-
-<ul class="link-list">
-<li>
-
-   <a href="http://www.peta.org/about/faq/Why-does-PETA-sometimes-use-nudity-in-its-campaigns.aspx">Why does PETA sometimes use nudity in its campaigns?</a>
-
+				<!-- Menu modified by MAJpage Menu Class Extender -->
+<ul id="menu-top-bar-sites-2" class="top-bar-menu right"><li id="menu-item-143350" class="first-menu-item odd-menu-item menu-item menu-item-type-post_type menu-item-object-about menu-item-143350"><a accesskey="9" title="Report Cruelty to Animals" href="http://www.peta.org/about-peta/contact-peta/report-cruelty/">Report Cruelty to Animals</a></li>
+<li id="menu-item-826" class="parent-menu-item even-menu-item menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-dropdown has-dropdown menu-item-826"><a accesskey="y" title="More Ways to Support PETA" href="http://www.peta.org/donate/ways-to-support-peta/">More Ways to Support PETA</a>
+<ul class="sub-menu dropdown">
+	<li id="menu-item-827" class="first-menu-item odd-menu-item menu-item menu-item-type-custom menu-item-object-custom menu-item-827"><a title="Become a Member" href="http://www2.peta.org/site/Donation2?12527.donation=form1&amp;df_id=12527&amp;set.custom.Campaign_Code=I13JWAXXXXH&amp;autologin=true">Become a Member</a></li>
+	<li id="menu-item-828" class="even-menu-item menu-item menu-item-type-custom menu-item-object-custom menu-item-828"><a title="Make a Monthly Gift" href="http://www2.peta.org/site/Donation2?df_id=12525&amp;12525.donation=form1&amp;set.custom.Campaign_Code=I13JWAXXXXL&amp;autologin=true">Make a Monthly Gift</a></li>
+	<li id="menu-item-143349" class="last-menu-item odd-menu-item menu-item menu-item-type-post_type menu-item-object-donate menu-item-143349"><a title="Planned Giving" href="http://www.peta.org/donate/planned-giving/">Planned Giving</a></li>
+</ul>
 </li>
-<li>
-
-   <a href="http://www.peta.org/about/faq/How-do-circuses-train-animals.aspx">How do circuses train animals?</a>
-
-</li>
-<li>
-
-   <a href="http://www.peta.org/about/faq/Where-can-I-find-leather-alternatives.aspx">Where can I find leather alternatives?</a>
-
-</li>
-<li>
-
-   <a href="http://www.peta.org/about/faq/Does-animal-experimentation-save-human-lives.aspx">Does animal experimentation save human lives?</a>
-
-</li>
-<li>
-
-   <a href="http://www.peta.org/about/faq/How-is-a-company-certified-as-cruelty-free.aspx">How is a company certified as cruelty-free?</a>
-
-</li>
-<li>
-
-   <a href="http://www.peta.org/about/faq/Why-does-PETA-use-controversial-tactics.aspx">Why does PETA use controversial tactics?</a>
-
-</li>
-<li>
-
-   <a href="http://www.peta.org/about/faq/Whats-wrong-with-wearing-wool.aspx">What’s wrong with wearing wool?</a>
-
+<li id="menu-item-825" class="last-menu-item parent-menu-item odd-menu-item menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-dropdown has-dropdown menu-item-825"><a accesskey="x" title="Popular Topics" href="http://www.peta.org/misc/topics/">Popular Topics</a>
+<ul class="sub-menu dropdown">
+	<li id="menu-item-569" class="first-menu-item odd-menu-item menu-item menu-item-type-taxonomy menu-item-object-category menu-item-569"><a title="Vegetarianism" href="http://www.peta.org/category/main-issues/vegan/">Vegan</a></li>
+	<li id="menu-item-570" class="even-menu-item menu-item menu-item-type-taxonomy menu-item-object-category menu-item-570"><a href="http://www.peta.org/category/main-issues/animal-experimentation/">Animal Experimentation</a></li>
+	<li id="menu-item-248945" class="odd-menu-item menu-item menu-item-type-custom menu-item-object-custom menu-item-248945"><a href="http://features.peta.org/cruelty-free-company-search/index.aspx">Cruelty-Free Companies</a></li>
+	<li id="menu-item-571" class="even-menu-item menu-item menu-item-type-taxonomy menu-item-object-category menu-item-571"><a title="Investigations" href="http://www.peta.org/category/miscellaneous-parent/investigations/">Investigations</a></li>
+	<li id="menu-item-572" class="odd-menu-item menu-item menu-item-type-taxonomy menu-item-object-category menu-item-572"><a title="Celebrities" href="http://www.peta.org/category/miscellaneous-parent/celebrities/">Celebrities</a></li>
+	<li id="menu-item-573" class="even-menu-item menu-item menu-item-type-taxonomy menu-item-object-category menu-item-573"><a title="Activism" href="http://www.peta.org/category/miscellaneous-parent/activism/">Activism</a></li>
+	<li id="menu-item-589" class="last-menu-item odd-menu-item menu-item menu-item-type-post_type menu-item-object-misc menu-item-589"><a title="More" href="http://www.peta.org/misc/topics/">More</a></li>
+</ul>
 </li>
 </ul>
+			</section>
+		</nav>
+	</div>
+	<!-- end top-links -->
 
+	<!-- begin header -->
+	<div class="header">
+		<div class="wrapper row">
 
-    
-<div class="all-rss"><a href="/about/FAQ/default.aspx">See All Frequently Asked Questions &gt;</a></div>
+			<div class="logo">
+									<a href="http://www.peta.org" title="PETA | People for the Ethical Treatment of Animals">
+						<span class="letters" aria-hidden="true" data-icon="p"></span>
+						<span class="bunny" aria-hidden="true" data-icon="b"></span>
+						<span class="main-logo">PETA</span>
+						<span class="sub-logo">People for the Ethical Treatment of Animals</span>
+					</a>
+							</div>
 
-</div>
-<div class="content-fragment-footer"></div>
-<div class="content-fragment-bottom peta-content-fragment-bottom"><div class="r1 peta-r1"></div><div class="r2 peta-r2"></div><div class="r3 peta-r3"></div><div class="r4 peta-r4"></div></div></div></div>
-<div class="content-fragment highlights full-border with-header  videos" id="fragment-15564707">
-<div class="content-fragment-inner peta-content-fragment-inner"><div class="content-fragment-top peta-content-fragment-top"><div class="r1 peta-r1"></div><div class="r2 peta-r2"></div><div class="r3 peta-r3"></div><div class="r4 peta-r4"></div></div><div class="content-fragment-header"><div><a class="internal-link " href="/tv/default.aspx"><span></span>Videos</a></div></div>
-<div class="content-fragment-content">
+			<div class="blurb">
+				Animals are <strong>not</strong> ours to eat, wear, experiment on, use for entertainment, or abuse in any other way.
+			</div>
 
-            <div id="ctl00_content_ctl00_fragment_15564707_ctl01_ctl00_ValueSelectedContent1_ctl02_Thumbnail1_HighlighsTabs_TabSet"></div><div id="ctl00_content_ctl00_fragment_15564707_ctl01_ctl00_ValueSelectedContent1_ctl02_Thumbnail1_HighlighsTabs"><div><div id="ctl00_content_ctl00_fragment_15564707_ctl01_ctl00_ValueSelectedContent1_ctl02_Thumbnail1_RecentTab">
-            <div querytype="Default">
-                    <div class="content-list-header"></div>
-                    <ul class="video-preview-list">
-                
-                    <li>
-                        <a href="http://www.peta.org/tv/videos/psas-general-animal-rights/2777925790001.aspx">
-                                <img src="http://www.videopeta.com/httpimg/45228690001/201310/805/45228690001_2778011088001_Halloween-PSA-still.jpg?pubId=45228690001" alt="" class="videoThumbnail">
-                                </a><a href="http://www.peta.org/tv/videos/psas-general-animal-rights/2777925790001.aspx">Are You a Flesh-Eater?</a>
-                            
-                    </li>
-                
-                    <li>
-                        <a href="http://www.peta.org/tv/videos/vegetarianism-birds/2748141805001.aspx">
-                                <img src="http://www.videopeta.com/httpimg/45228690001/201310/2050/45228690001_2748232756001_Tastes-Like-Chicken-still.jpg?pubId=45228690001" alt="" class="videoThumbnail">
-                                </a><a href="http://www.peta.org/tv/videos/vegetarianism-birds/2748141805001.aspx">A Short Film: 'Tastes Like Chicken'</a>
-                            
-                    </li>
-                
-                    <li class="last">
-                        <a href="http://www.peta.org/tv/videos/celebrities-companion-animals/2634933231001.aspx">
-                                <img src="http://www.videopeta.com/httpimg/45228690001/45228690001_2634978918001_Mika-Newton-Interview-c2-still.jpg?pubId=45228690001" alt="" class="videoThumbnail">
-                                </a><a href="http://www.peta.org/tv/videos/celebrities-companion-animals/2634933231001.aspx">Pop Star Mika Newton Stands Up for Animals</a>
-                            
-                    </li>
-                
-                    </ul>
-                    <div class="content-list-footer">
-                        
-                    </div>
-                </div>
-            <div class="all-rss">              
-                <a id="ctl00_content_ctl00_fragment_15564707_ctl01_ctl00_ValueSelectedContent1_ctl02_Thumbnail1_recentSeeAllLink" class="all" href="/tv/default.aspx">See All Videos &gt;</a>                       
-                <a class="rss" href="/about/pages/highlights.aspx?ctypes=cms&amp;groups=4&amp;sort=date+desc"><span></span>SUBSCRIBE TO FEED</a>  
-            </div>
-        </div><div id="ctl00_content_ctl00_fragment_15564707_ctl01_ctl00_ValueSelectedContent1_ctl02_Thumbnail1_PopularTab">
-            
-                    <div class="content-list-header"></div>
-                    <ul class="video-preview-list">
-                
-                    <li class="content-item">
-                        <a href="http://www.peta.org/tv/videos/investigations-companion-animals/1684541795001.aspx">
-                                <img src="http://www.videopeta.com/httpimg/45228690001/45228690001_1684583757001_vs-4fd65ee7b08cb0e440880b5f-1592194023001.jpg?pubId=45228690001" alt="" class="videoThumbnail">
-                                </a><a href="http://www.peta.org/tv/videos/investigations-companion-animals/1684541795001.aspx">North Carolina Puppies in the “Kill Box"</a>
-                            
-                    </li>
-                
-                    <li class="content-item">
-                        <a href="http://www.peta.org/tv/videos/peta2-investigations/959537298001.aspx">
-                                <img src="http://www.videopeta.com/httpimg/45228690001/45228690001_959534794001_vs-959535912001.jpg?pubId=45228690001" alt="" class="videoThumbnail">
-                                </a><a href="http://www.peta.org/tv/videos/peta2-investigations/959537298001.aspx">Trent Reznor - China Dog and Cat Fur Farm Investigation</a>
-                            
-                    </li>
-                
-                    <li class="content-item last">
-                        <a href="http://www.peta.org/tv/videos/peta2-investigations/959537301001.aspx">
-                                <img src="http://www.videopeta.com/httpimg/45228690001/45228690001_959534820001_vs-959535925001.jpg?pubId=45228690001" alt="" class="videoThumbnail">
-                                </a><a href="http://www.peta.org/tv/videos/peta2-investigations/959537301001.aspx">KFC Supplier Exposed in New Undercover Video</a>
-                            
-                    </li>
-                
-                    </ul>
-                    <div class="content-list-footer">
-                        
-                    </div>
-                
-            <div class="all-rss">                        
-                <a id="ctl00_content_ctl00_fragment_15564707_ctl01_ctl00_ValueSelectedContent1_ctl02_Thumbnail1_popularSeeAllLink" class="all" href="/tv/default.aspx">See All Videos &gt;</a>
-                <a class="rss" href="/about/pages/highlights.aspx?ctypes=cms&amp;groups=4&amp;sort=popularity+desc">SUBSCRIBE TO FEED</a>    
-            </div>               
-       </div></div></div><input type="hidden" name="ctl00$content$ctl00$fragment_15564707$ctl01$ctl00$ValueSelectedContent1$ctl02$Thumbnail1$HighlighsTabs" id="ctl00_content_ctl00_fragment_15564707_ctl01_ctl00_ValueSelectedContent1_ctl02_Thumbnail1_HighlighsTabs_State" value="disabled:"><script type="text/javascript">
-// <![CDATA[
-window.ctl00_content_ctl00_fragment_15564707_ctl01_ctl00_ValueSelectedContent1_ctl02_Thumbnail1_HighlighsTabs = new Telligent_TabbedPanes('ctl00_content_ctl00_fragment_15564707_ctl01_ctl00_ValueSelectedContent1_ctl02_Thumbnail1_HighlighsTabs','ctl00_content_ctl00_fragment_15564707_ctl01_ctl00_ValueSelectedContent1_ctl02_Thumbnail1_HighlighsTabs','ctl00_content_ctl00_fragment_15564707_ctl01_ctl00_ValueSelectedContent1_ctl02_Thumbnail1_HighlighsTabs_TabSet','ctl00_content_ctl00_fragment_15564707_ctl01_ctl00_ValueSelectedContent1_ctl02_Thumbnail1_HighlighsTabs_State','tab-pane','tab-set with-panes',['tab'],['tab selected'],['tab hover'],null,true,[['ctl00_content_ctl00_fragment_15564707_ctl01_ctl00_ValueSelectedContent1_ctl02_Thumbnail1_ctl00','Recent',null,'ctl00_content_ctl00_fragment_15564707_ctl01_ctl00_ValueSelectedContent1_ctl02_Thumbnail1_RecentTab'],['ctl00_content_ctl00_fragment_15564707_ctl01_ctl00_ValueSelectedContent1_ctl02_Thumbnail1_ctl02','Popular',null,'ctl00_content_ctl00_fragment_15564707_ctl01_ctl00_ValueSelectedContent1_ctl02_Thumbnail1_PopularTab']]);
-// ]]>
-</script>
+			<div class="search-peta">
+				<div class="cushion">
+					<form role="search" method="get" id="searchform" action="http://www.peta.org/">
+					  	<input type="text" placeholder="Search PETA.org" name="s" id="s">
+						<input type="submit" id="searchsubmit" value="g">
+					</form> 
+				</div>
+			</div>
 
-        </div>
-<div class="content-fragment-footer"></div>
-<div class="content-fragment-bottom peta-content-fragment-bottom"><div class="r1 peta-r1"></div><div class="r2 peta-r2"></div><div class="r3 peta-r3"></div><div class="r4 peta-r4"></div></div></div></div>
-</div>
-</div>
-<div class="layout-region content" id="ctl00_content_ctl00_content">
-<div class="layout-region-inner content"><div id="fragment-15564708"></div>
-<div id="fragment-15564709"></div>
-<div id="fragment-15564710"></div>
-<div class="content-fragment page-title no-wrapper-with-spacing  articleTitle" id="fragment-15564711">
-<div class="content-fragment-inner peta-content-fragment-inner"><div class="content-fragment-top peta-content-fragment-top"><div class="r1 peta-r1"></div><div class="r2 peta-r2"></div><div class="r3 peta-r3"></div><div class="r4 peta-r4"></div></div><div class="content-fragment-content">
+		</div>
+	</div>
+	<!-- end header -->
 
+	<div class="nav">
+		<div class="wrapper">
+			<!-- Menu modified by MAJpage Menu Class Extender --><div class="main-nav"><ul id="menu-top-navigation" class="menu"><li id="menu-item-455" class="first-menu-item odd-menu-item nav-home menu-item menu-item-type-post_type menu-item-object-page menu-item-455"><a accesskey="2" title="Home" href="http://www.peta.org/">Home</a></li>
+<li id="menu-item-745" class="even-menu-item nav-features menu-item menu-item-type-post_type_archive menu-item-object-feature menu-item-745"><a accesskey="3" title="Features" href="http://www.peta.org/features/">Features</a></li>
+<li id="menu-item-145476" class="odd-menu-item nav-video menu-item menu-item-type-post_type_archive menu-item-object-video menu-item-145476"><a accesskey="4" title="Videos" href="http://www.peta.org/videos/">Videos</a></li>
+<li id="menu-item-145474" class="even-menu-item nav-action menu-item menu-item-type-post_type_archive menu-item-object-peta-action menu-item-has-children has-dropdown menu-item-145474"><a accesskey="5" title="Action" href="http://www.peta.org/action/">Action</a></li>
+<li id="menu-item-148174" class="odd-menu-item nav-blog menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-has-children has-dropdown menu-item-148174"><a accesskey="6" title="Blog" href="http://www.peta.org/blog/">Blog</a></li>
+<li id="menu-item-748" class="even-menu-item nav-issues menu-item menu-item-type-post_type_archive menu-item-object-issue menu-item-has-children has-dropdown menu-item-748"><a accesskey="7" title="Issues" href="http://www.peta.org/issues/">Issues</a></li>
+<li id="menu-item-145472" class="odd-menu-item nav-living menu-item menu-item-type-post_type_archive menu-item-object-living menu-item-has-children has-dropdown menu-item-145472"><a accesskey="8" title="Living" href="http://www.peta.org/living/">Living</a></li>
+<li id="menu-item-596" class="even-menu-item nav-shop menu-item menu-item-type-post_type menu-item-object-page menu-item-596"><a accesskey="b" title="Shop" href="http://www.peta.org/shop/">Shop</a></li>
+<li id="menu-item-145469" class="odd-menu-item nav-interactive menu-item menu-item-type-post_type_archive menu-item-object-interactive menu-item-has-children has-dropdown menu-item-145469"><a accesskey="c" title="Interactive" href="http://www.peta.org/interactive/">Interactive</a></li>
+<li id="menu-item-145464" class="even-menu-item nav-media menu-item menu-item-type-post_type_archive menu-item-object-media_center menu-item-has-children has-dropdown menu-item-145464"><a accesskey="d" title="Media" href="http://www.peta.org/media/">Media Center</a></li>
+<li id="menu-item-145470" class="odd-menu-item nav-about menu-item menu-item-type-post_type_archive menu-item-object-about menu-item-has-children current-menu-item has-dropdown menu-item-145470 current-menu-item"><a accesskey="e" title="About PETA" href="http://www.peta.org/about-peta/">About PETA</a></li>
+<li id="menu-item-149040" class="last-menu-item even-menu-item nav-donate menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children has-dropdown menu-item-149040"><a accesskey="a" title="Donate Now" href="http://www2.peta.org/site/Donation2?df_id=12528&amp;12528.donation=form1&amp;set.custom.Campaign_Code=I13JWAXXXXG&amp;autologin=true">Donate Now</a></li>
+</ul></div><!-- Menu modified by MAJpage Menu Class Extender --><div class="sub-nav"><ul id="menu-top-navigation-1" class="menu">
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-about current-about-ancestor current-ancestor"><a href="http://www.peta.org/about-peta/learn-about-peta/"><span>Learn About PETA</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-about"><a href="http://www.peta.org/about-peta/faq/"><span>FAQ</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-about"><a href="http://www.peta.org/about-peta/why-peta/"><span>Our Views</span></a></li>
+	<li class="menu-item menu-item-type-post_type_archive menu-item-object-victory"><a title="Victories" href="http://www.peta.org/about-peta/victories/"><span>Victories</span></a></li>
+	<li class="menu-item menu-item-type-post_type_archive menu-item-object-milestone"><a title="Milestones" href="http://www.peta.org/about-peta/milestones/"><span>Milestones</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-about"><a href="http://www.peta.org/about-peta/volunteer/"><span>Volunteer</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-about"><a href="http://www.peta.org/about-peta/work-at-peta/"><span>Work at PETA</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-about"><a href="http://www.peta.org/about-peta/intern-at-peta/"><span>Intern at PETA</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-about"><a href="http://www.peta.org/about-peta/contact-peta/"><span>Contact PETA</span></a></li>
+</ul>
+</ul></div>		</div>
+	</div>
+	<!-- end nav -->
 
-        <h1 class="title">    
-    
+	<!-- more-links (for responsive) -->
+	<div class="more-links">
+	</div>
+	<!-- end more-links -->
 
-        
-                Privacy Policy
-             
-    
-        </h1>           
-    
+	<!-- Begin Content -->
 
+		<div class="content">
+	    <!-- <div class="wrapper"> -->
+		<!-- Begin Header Content Area -->
+		<div id="peta-content-start" class="content-header">
+			<div class="wrapper">
+				<!-- Begin Breadcrumb Nav -->
+				<nav class="breadcrumbs">
+		<span prefix="v: http://rdf.data-vocabulary.org/#">
+			<span typeof="v:Breadcrumb"><a href="http://www.peta.org" rel="v:url" property="v:title">PETA</a></span>
+		</span></nav>				<!-- End Breadcrumb Nav -->
+	
+				<div class="share">	
+		<div class="addthis_toolbox addthis_default_style">
+			<div class="google">
+				<g:plusone size="medium" annotation="bubble" data-href="http://www.peta.org/?p=81196"></g:plusone>
+			</div>
+			<a class="addthis_button_email email" addthis:url="http://www.peta.org/?p=81196" addthis:title="Privacy Policy"><span aria-hidden="true" data-icon="m"></span></a>
+		</div>
+	</div>
 
-</div>
-<div class="content-fragment-footer"></div>
-<div class="content-fragment-bottom peta-content-fragment-bottom"><div class="r1 peta-r1"></div><div class="r2 peta-r2"></div><div class="r3 peta-r3"></div><div class="r4 peta-r4"></div></div></div></div>
-<div class="content-fragment content-part no-wrapper" id="fragment-15564712">
-<div class="content-fragment-inner peta-content-fragment-inner"><div class="content-fragment-top peta-content-fragment-top"><div class="r1 peta-r1"></div><div class="r2 peta-r2"></div><div class="r3 peta-r3"></div><div class="r4 peta-r4"></div></div><div class="content-fragment-content">
-<p class="hidden" style="display: none;">&nbsp;</p>
-<!-- Content Area Start --><div style="clear:both;"></div></div>
-<div class="content-fragment-footer"></div>
-<div class="content-fragment-bottom peta-content-fragment-bottom"><div class="r1 peta-r1"></div><div class="r2 peta-r2"></div><div class="r3 peta-r3"></div><div class="r4 peta-r4"></div></div></div></div>
-<div id="fragment-15564713"></div>
-<div class="content-fragment content-area no-wrapper-with-spacing" id="fragment-15564714">
-<div class="content-fragment-inner peta-content-fragment-inner"><div class="content-fragment-top peta-content-fragment-top"><div class="r1 peta-r1"></div><div class="r2 peta-r2"></div><div class="r3 peta-r3"></div><div class="r4 peta-r4"></div></div><div class="content-fragment-content">
-<p><b>Your Privacy</b></p>
+					</div>
+	</div>
+	<!-- End Header Content Area -->
+
+    <div class="wrapper">
+    	
+        <!-- Begin Main Content Area -->
+		<div class="content-main single">
+
+					<div id="post-81196" class="post-81196 about type-about status-publish hentry">
+
+				<!-- Content Area Start -->
+
+			    <h1>Privacy Policy</h1>
+
+				<div class="share">
+						<div class="addthis_toolbox addthis_default_style"><div class="twitter">
+								<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://peta.vg/yxy" data-text="Privacy Policy" data-counturl="http://www.peta.org/about-peta/learn-about-peta/website-policies/privacy/">Tweet</a>
+							</div><div class="fb-like" data-href="http://peta.vg/yxy" data-width="450" data-layout="button_count" data-show-faces="false" data-share="true"></div><div class="google">
+								<g:plusone size="medium" annotation="bubble" data-href="http://peta.vg/yxy"></g:plusone>
+							</div><a class="addthis_button_compact" addthis:url="http://peta.vg/yxy" addthis:title="Privacy Policy"></a>
+							<a class="addthis_counter addthis_bubble_style"></a>
+							<a class="addthis_button_email" addthis:url="http://peta.vg/yxy" addthis:title="Privacy Policy"></a></div>
+					</div>
+				
+			    <p><b>Your Privacy</b></p>
 <p>People for the Ethical Treatment of Animals (PETA) strongly believes in protecting the integrity and privacy of personal information gathered from our members and from visitors to our websites. Because protecting your privacy is of great importance to us, we have created this privacy policy to communicate our practices regarding the collection and dissemination of personal information that can be linked to a specific individual, such as a name, address, phone number, e-mail address, or any other information provided to us by our members and by visitors to our websites.</p>
-<p>These policies do not extend to external sites linked to our Shopping Mall or other non-PETA.org website content. Please check with these companies and sites for their policies regarding data privacy, including the use of "cookies."</p>
+<p>These policies do not extend to external sites linked to our Shopping Mall or other non-PETA.org website content. Please check with these companies and sites for their policies regarding data privacy, including the use of “cookies.”</p>
 <p><strong>Why does PETA ask for my information?</strong></p>
 <p>In order to participate in some activities, you might be asked to provide some personal information. This could be in connection with any one or combination of the following:</p>
-<ul class="content-unordered-list">
-<li>Shipping items purchased from the PETA Catalog </li>
+<ul>
+<li>Shipping items purchased from the PETA Catalog</li>
 <li>Making or renewing a donation online</li>
 <li>Sending personalized faxes or e-mail messages when participating in action alerts</li>
-<li>Registering for PETA's activist networks</li>
+<li>Registering for PETA’s activist networks</li>
 <li>Participating in contests, surveys, petitions, and giveaways</li>
 <li>Requesting information packs</li>
-<li>Subscribing to PETA e-news lists </li>
+<li>Subscribing to PETA e-news lists</li>
 </ul>
 <p><strong>What information does PETA collect?</strong></p>
 <p>We do not collect personal information from our visitors other than that which is supplied to us on a voluntary basis.</p>
 <p><strong>How does PETA use the information gathered from the above sources?</strong></p>
 <p>We use your information to send you details about our campaigns, events, and activities; local volunteer opportunities and alerts; and membership and renewal appeals.</p>
-<p>PETA also uses information gathered via our websites to improve our Web-based campaigns. PETA performs statistical analyses of aggregate user behavior and characteristics in order to measure interest in and use of various areas on our websites and to use such information to improve our websites' ability to serve you.</p>
-<p><strong>Does PETA use "cookies" on its websites?</strong></p>
-<p>PETA uses "cookies" on some Web pages. A cookie is a small piece of data that is stored on a visitor's hard drive but does not contain any personal information itself. Cookies enhance a visitor's experience by preventing the visitor from having to log in or provide information each time he or she revisits a PETA Web page and by customizing content based on a visitor's interests. Visitors can configure their browsers to refuse cookies or to be alerted when a site is attempting to send a cookie, although some PETA e-commerce pages will not function properly without accepting cookies.&nbsp;Third party vendors, including Google, use cookies to show website visitors ads based on a visitor’s prior visits to the website. Visitors who wish to opt out of Google's use of cookies in this way can do so by visiting the <a href="http://www.google.com/privacy_ads.html" target="_blank">Google advertising opt-out page</a>.</p>
-<p>PETA also uses cookies to administer its websites, track visitor movement, and gather broad demographic information for aggregate use. </p>
+<p>PETA also uses information gathered via our websites to improve our Web-based campaigns. PETA performs statistical analyses of aggregate user behavior and characteristics in order to measure interest in and use of various areas on our websites and to use such information to improve our websites’ ability to serve you.</p>
+<p><strong>Does PETA use “cookies” on its websites?</strong></p>
+<p>PETA uses “cookies” on some webpages. A cookie is a small piece of data that is stored on a visitor’s hard drive but does not contain any personal information itself. Cookies enhance a visitor’s experience by preventing the visitor from having to log in or provide information each time he or she revisits a PETA webpage and by customizing content based on a visitor’s interests. Visitors can configure their browsers to refuse cookies or to be alerted when a site is attempting to send a cookie, although some PETA e-commerce pages will not function properly without accepting cookies. PETA and third-party vendors, including Google, use cookies to show website visitors ads based on a visitor’s prior visits to the website as well as first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) together to report how ad impressions, other uses of ad services and interactions with them correspond to visits to our web site. PETA also makes use of demographic information gathered via Google Analytics Demographics &amp; Interests reports to gain a deeper understanding of the visitors to our website so that we can cater content to them accordingly while also tracking our success at reaching new populations of people.&nbsp;Visitors who want to opt out of Google’s use of cookies in these ways can do so by visiting the <a href="http://www.google.com/privacy_ads.html" target="_blank">Google advertising opt-out page</a>. PETA also uses cookies to administer its websites, track visitor movement, and gather broad demographic information for aggregate use.</p>
 <p><strong>How is information used in PETA <strong><span>e-mails</span></strong>?</strong></p>
-<p>If you provide PETA
-with your e-mail address, you will be signed up to start receiving e-mails from
-PETA. You can unsubscribe from any or all PETA e-mail lists at any time by
-following the instructions included in each e-mail or by e-mailing <a href="mailto:Info@peta.org.">Info@peta.org.</a>&nbsp;The information that we gather from subscribers, including their e-mail addresses, is not shared with non-PETA–affiliated organizations or companies. From time to time, we may send out e-mail messages that might include information about these like-minded organizations and companies, but we do not provide them with access to any personal information that you have provided. If you live outside the U.S. and provide us with your contact details, we may share these with PETA's international affiliates in order to keep you apprised of developments in your part of the world. If you don't want your information to be given to PETA's international affiliates, please e-mail <a href="mailto: Info@peta.org" target="_blank">Info@peta.org</a>. </p>
-<p>In order to provide you with better and more relevant information, we compile information about e-mail response and website usage. This information helps us to understand site usage patterns as well as find what types of content and information may help improve your user experience on PETA's websites.</p>
+<p>If you provide PETA with your e-mail address, you will be signed up to start receiving e-mails from PETA. You can unsubscribe from any or all PETA e-mail lists at any time by following the instructions included in each e-mail or by e-mailing <a href="mailto:Info@peta.org.">Info@peta.org.</a>&nbsp;The information that we gather from subscribers, including their e-mail addresses, is not shared with non-PETA–affiliated organizations or companies. From time to time, we may send out e-mail messages that might include information about these like-minded organizations and companies, but we do not provide them with access to any personal information that you have provided. If you live outside the U.S. and provide us with your contact details, we may share these with PETA’s international affiliates in order to keep you apprised of developments in your part of the world. If you don’t want your information to be given to PETA’s international affiliates, please e-mail <a href="mailto:Info@peta.org" target="_blank">Info@peta.org</a>.</p>
+<p>In order to provide you with better and more relevant information, we compile information about e-mail response and website usage. This information helps us to understand site usage patterns as well as find what types of content and information may help improve your user experience on PETA’s websites.</p>
 <p>All e-mail messages sent to e-mail newsletter subscribers contain a link that allows you to unsubscribe or to modify your profile. You may subscribe or unsubscribe to any e-news or e-mail communication from PETA at any time.</p>
 <p>If you have any questions about PETA e-news, please e-mail <a href="mailto:info@peta.org">Info@peta.org</a>.</p>
 <p><strong>How does PETA protect my information?</strong></p>
 <p>PETA is extremely protective of the information gathered through its membership and websites. Our websites have security measures in place to protect against the loss, misuse, or alteration of the information under our control. Our Web server is located in a locked, secure environment.</p>
-<p>When you contribute to PETA online or make a purchase through the PETA Catalog, we use a secure server and encryption to protect your financial and other personal information during transmission. </p>
+<p>When you contribute to PETA online or make a purchase through the PETA Catalog, we use a secure server and encryption to protect your financial and other personal information during transmission.</p>
 <p><strong>Does PETA rent, sell, or trade my information?</strong></p>
 <p>PETA occasionally makes the names and postal addresses of donors available to reputable advocacy and nonprofit organizations and commercial companies.</p>
-<p>If you are a PETA donor and you don't want to have your information exchanged with other organizations and companies, please e-mail us at <a href="mailto:Donations@peta.org">Donations@peta.org</a> or call us at 757-622-7382 to speak to one of our membership service representatives. Nondonors can e-mail <a href="mailto:Info@peta.org" target="_blank">Info@peta.org</a><a href="mailto:info@peta.org"></a> to manage their e-mail preferences.</p>
-<p>The easiest way to correct or change other information regarding your membership is to visit the <a href="/donate/membership-services/more-information.aspx">members' section</a> of our website. You can also contact our membership services at <a href="mailto:Donations@peta.org">Donations@peta.org</a> or 757-622-7382.</p>
-<p>If you are not a PETA member and you have provided personal contact information on one of our websites through the methods listed above, your information will not be exchanged with organizations that are not affiliated with PETA. If you live outside the U.S., we may share your contact details with PETA's international affiliates as described above. Please e-mail <a href="mailto:info@peta.org">Info@peta.org</a> if you don't want your information to be shared in this manner.<br><br>Please be aware that your personal information may be transferred to U.S.-based third party service providers that we engage to support our activities. We take reasonable measures to ensure that any personal information collected, used, disclosed, or otherwise processed by us or by these service providers on our behalf is protected and not used or disclosed for purposes other than as directed by us, subject to applicable federal legal requirements, such as, for example, lawful requirements to disclose personal information to government authorities.</p>
+<p>If you are a PETA donor and you don’t want to have your information exchanged with other organizations and companies, please e-mail us at <a href="mailto:Donations@peta.org">Donations@peta.org</a> or call us at 757-622-7382 to speak to one of our membership service representatives. Nondonors can e-mail <a href="mailto:Info@peta.org" target="_blank">Info@peta.org</a> to manage their e-mail preferences.</p>
+<p>The easiest way to correct or change other information regarding your membership is to visit the <a href="http://www.peta.org/donate/membership-services/information/">members’ section</a> of our website. You can also contact our membership services at <a href="mailto:Donations@peta.org">Donations@peta.org</a> or 757-622-7382.</p>
+<p>If you are not a PETA member and you have provided personal contact information on one of our websites through the methods listed above, your information will not be exchanged with organizations that are not affiliated with PETA. If you live outside the U.S., we may share your contact details with PETA’s international affiliates as described above. Please e-mail <a href="mailto:info@peta.org">Info@peta.org</a> if you don’t want your information to be shared in this manner.</p>
+<p>Please be aware that your personal information may be transferred to U.S.-based third party service providers that we engage to support our activities. We take reasonable measures to ensure that any personal information collected, used, disclosed, or otherwise processed by us or by these service providers on our behalf is protected and not used or disclosed for purposes other than as directed by us, subject to applicable federal legal requirements, such as, for example, lawful requirements to disclose personal information to government authorities.</p>
 <p><strong>Additional questions?</strong></p>
-<p>If you have any questions about our privacy policy, the information that we have collected from you online, the practices of this site, or your interaction with this website, please e-mail <a href="mailto: Info@peta.org" target="_blank">Info@peta.org</a><a href="mailto:info@peta.org"></a>.</p>
+<p>If you have any questions about our privacy policy, the information that we have collected from you online, the practices of this site, or your interaction with this website, please e-mail <a href="mailto:Info@peta.org" target="_blank">Info@peta.org</a>.</p>
 <p>You can also reach us via postal mail at:</p>
-<p><strong>PETA</strong><b><br></b>501 Front St.<br>Norfolk, VA 23510<b></b></p></div>
-<div class="content-fragment-footer"></div>
-<div class="content-fragment-bottom peta-content-fragment-bottom"><div class="r1 peta-r1"></div><div class="r2 peta-r2"></div><div class="r3 peta-r3"></div><div class="r4 peta-r4"></div></div></div></div>
-<div id="fragment-15564715"></div>
-<div id="fragment-15564716"></div>
-<div id="fragment-15564717"></div>
-<div id="fragment-15564718"></div>
-<div id="fragment-15564719"></div>
-<div id="fragment-15564720"></div>
-<div class="content-fragment content-part no-wrapper" id="fragment-15564721">
-<div class="content-fragment-inner peta-content-fragment-inner"><div class="content-fragment-top peta-content-fragment-top"><div class="r1 peta-r1"></div><div class="r2 peta-r2"></div><div class="r3 peta-r3"></div><div class="r4 peta-r4"></div></div><div class="content-fragment-content">
-<p class="hidden">&nbsp;</p>
-<!-- Content Area End --><div style="clear:both;"></div></div>
-<div class="content-fragment-footer"></div>
-<div class="content-fragment-bottom peta-content-fragment-bottom"><div class="r1 peta-r1"></div><div class="r2 peta-r2"></div><div class="r3 peta-r3"></div><div class="r4 peta-r4"></div></div></div></div>
-</div>
-</div>
-</div>
-<div class="layout-footer"></div>
-</div></div>
+<p><strong>PETA</strong><b><br>
+</b>501 Front St.<br>
+Norfolk, VA 23510<b></b></p>
 
-			
-			<div class="footer-fragments-header"></div>
-<div class="footer-fragments"><div class="footer-fragment content-part" id="fragment-ee53ff1c-967a-4bb5-a215-7c9d62cc3270">
-<div class="footer-content"><p class="intro">Almost all of us grew up eating meat, wearing leather, and going to circuses and zoos. We never considered the impact of these actions on the animals involved. For whatever reason, you are now asking the question: Why should animals have rights? <a class="readMore" href="/about/why-peta/why-animal-rights.aspx">Read more.</a> </p>
-<div class="generalInfo">
-<h4>General Info: </h4>
-<ul class="content-unordered-list">
-<li>©
-<script type="text/javascript">// <![CDATA[
-          var d = new Date();
+			    <!-- Content Area End -->
+			</div>
 
-           var curr_year = d.getFullYear();
+		
+			<div class="share">
+						<div class="addthis_toolbox addthis_default_style"><div class="twitter">
+								<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://peta.vg/yxy" data-text="Privacy Policy" data-counturl="http://www.peta.org/about-peta/learn-about-peta/website-policies/privacy/">Tweet</a>
+							</div><div class="fb-like" data-href="http://peta.vg/yxy" data-width="450" data-layout="button_count" data-show-faces="false" data-share="true"></div><div class="google">
+								<g:plusone size="medium" annotation="bubble" data-href="http://peta.vg/yxy"></g:plusone>
+							</div><a class="addthis_button_compact" addthis:url="http://peta.vg/yxy" addthis:title="Privacy Policy"></a>
+							<a class="addthis_counter addthis_bubble_style"></a>
+							<a class="addthis_button_email" addthis:url="http://peta.vg/yxy" addthis:title="Privacy Policy"></a><a class="donate" href="http://www2.peta.org/site/Donation2?df_id=12530&amp;12530.donation=form1&amp;set.custom.Campaign_Code=I13JWAXXXXK&amp;autologin=true">Donate Now</a></div>
+					</div>
+					</div>
+		<!-- End Content Main Content Area -->
 
-           document.write(curr_year);
-// ]]></script>2020
-PETA | <a href="/about/learn-about-peta/website-policies.aspx" accesskey="k">Read Our Full Policy</a></li>
-<li><span><a href="/about/work-at-peta/default.aspx?utm_campaign=0313%20Career%20Footer%20Link&amp;utm_source=PETA%20Front%20Page&amp;utm_medium=Promo">Careers</a></span></li>
-<li><a href="/about/contact-peta/default.aspx" accesskey="f">Contact</a> </li>
-<li><a href="/about/learn-about-peta/contest-terms-conditions.aspx" accesskey="h">Contest Terms and Conditions</a> </li>
-<li><a href="/about/learn-about-peta/disclaimer.aspx" accesskey="g">Disclaimer</a> </li>
-<li><a href="/about/learn-about-peta/privacy.aspx" accesskey="j">Privacy Policy</a> </li>
-<li><a href="/about/learn-about-peta/texting-terms-and-conditions.aspx" accesskey="i">Texting Terms and Conditions</a> </li>
-<li><a href="/about/learn-about-peta/PETA-Online-Community-Terms-of-Use-Agreement.aspx" accesskey="u">Terms of Use</a> </li>
-<li class="last"><a href="/about/contact-peta/report-website-abuse.aspx" accesskey="v">Report Website Abuse</a> </li>
-</ul>
-</div>
-<div class="siteTools">
-<h4>Site Tools: </h4>
-<ul class="content-unordered-list">
-<li><a href="/about/learn-about-peta/accessibility.aspx" accesskey="0">Accessibility</a> </li>
-<li><a href="/about/learn-about-peta/site-map.aspx" accesskey="1">Site Map</a> </li>
-<li><a href="/about/learn-about-peta/subscribe-to-enews.aspx" accesskey="l">Subscribe to E-News</a> </li>
-<li><a href="/about/learn-about-peta/subscribe-to-mobile-alerts.aspx">Get Mobile Updates</a></li>
-</ul>
-</div>
-<div class="internationalSites">
-<h4>International Sites: </h4>
-<ul class="content-unordered-list">
-<li>
-<ul class="content-unordered-list">
-<li><a href="http://www.petauk.org" target="_blank" title="PETA U.K." accesskey="m"><img src="/resized-image.ashx/__size/550x0/__key/CommunityServer-Components-SiteFiles/Peta-Images-Global/flag_2D00_uk_5F00_new.gif" border="0"></a></li>
-<li><a href="http://www.petafrance.com/" target="_blank" title="PETA France" accesskey="n"><img src="/resized-image.ashx/__size/550x0/__key/CommunityServer-Components-SiteFiles/Peta-Images-Global/flag_2D00_france_5F00_new.gif" border="0"></a></li>
-<li><a href="http://www.peta.de" target="_blank" title="PETA Germany" accesskey="o"><img src="/resized-image.ashx/__size/550x0/__key/CommunityServer-Components-SiteFiles/Peta-Images-Global/flag_2D00_germany_5F00_new.gif" border="0"></a></li>
-<li><a href="http://www.peta.nl" target="_blank" title="PETA Netherlands" accesskey="p"><img src="/resized-image.ashx/__size/550x0/__key/CommunityServer-Components-SiteFiles/Peta-Images-Global/flag_2D00_netherlands_5F00_new.gif" border="0"></a></li>
-<li><a href="http://www.petaindia.com" target="_blank" title="PETA India" accesskey="q"><img src="/resized-image.ashx/__size/550x0/__key/CommunityServer-Components-SiteFiles/Peta-Images-Global/flag_2D00_india_5F00_new.gif" border="0"></a></li>
-<li><a href="http://peta.org.au" target="_blank" title="PETA Australia" accesskey="g"><img src="http://www.mediapeta.com/peta/images/global/flag-australia.png" border="0"></a></li>
+			<!-- Begin Content Sidebar -->
+	<div class="content-side">
+			<div class="connect row widget-first widget peta-updates">
+			<!-- Begin Connect PETA Updates -->
+			<form id="connect-form" name="connectform">
+				<h3>Connect With PETA</h3>
+				
+				<div class="share">
+					<div class="share-facebook">
+						<div class="fb-like" data-href="http://www.facebook.com/officialpeta" data-width="200" data-layout="button_count" data-show-faces="true" data-send="false"></div>
+					</div>
+					<div class="share-other">
+						<div class="twitter">
+							<a href="https://twitter.com/peta" class="twitter-follow-button" data-show-count="true" data-show-screen-name="false">Follow</a>
+						</div>
+					</div>
+					<a title="Subscribe to PETA's Mobile Alerts" href="http://www.peta.org/about-peta/learn-about-peta/subscribe-to-mobile-alerts/" class="mobile">
+						<span aria-hidden="true" class="icon-cell-phone"></span>
+					</a>
+				</div>
+				<div id="dvCMsg"><label>Thanks for signing up!</label></div>
+				<div id="dvCForm">
+					<label>Sign up for PETA Updates</label>
+					<label class="error" for="cemail"></label>
+					<input type="text" id="cemail" name="cemail" class="required" placeholder="E-Mail Address">
+					<input type="hidden" id="formid" name="formid" value="3102">
+					<input type="hidden" id="error" name="error" value="Please complete required fields">                        
+					<a href="javascript:;" id="connect-process" class="button">Submit</a>
+				</div>
+			</form>
+			<!-- End Connect PETA Updates -->
+			</div><div class="row green widget section-nav"><h3>In This Section</h3><!-- Menu modified by MAJpage Menu Class Extender --><div class="widget-content"><ul id="menu-in-this-section-about-peta-learn-about-peta" class="menu"><li id="menu-item-145170" class="first-menu-item odd-menu-item menu-item menu-item-type-post_type menu-item-object-about menu-item-145170"><a href="http://www.peta.org/about-peta/learn-about-peta/history/">PETA’s History: Compassion in Action</a></li>
+<li id="menu-item-145196" class="even-menu-item menu-item menu-item-type-post_type menu-item-object-about menu-item-has-children has-dropdown menu-item-145196"><a href="http://www.peta.org/about-peta/learn-about-peta/ingrid-newkirk/">A Message From PETA’s President</a></li>
+<li id="menu-item-145174" class="odd-menu-item menu-item menu-item-type-post_type menu-item-object-about menu-item-has-children has-dropdown menu-item-145174"><a href="http://www.peta.org/about-peta/learn-about-peta/success-stories/">Success Stories</a></li>
+<li id="menu-item-145191" class="even-menu-item menu-item menu-item-type-post_type menu-item-object-about menu-item-has-children has-dropdown menu-item-145191"><a href="http://www.peta.org/about-peta/learn-about-peta/helping-animals-in-hampton-roads/">How PETA Helps Animals in Hampton Roads</a></li>
+<li id="menu-item-145189" class="odd-menu-item menu-item menu-item-type-post_type menu-item-object-about menu-item-145189"><a href="http://www.peta.org/about-peta/learn-about-peta/financial-report/">Financial Reports</a></li>
+<li id="menu-item-145148" class="even-menu-item menu-item menu-item-type-post_type menu-item-object-about menu-item-has-children has-dropdown menu-item-145148"><a href="http://www.peta.org/about-peta/learn-about-peta/info-businesses/">Information for Businesses</a></li>
+<li id="menu-item-145141" class="last-menu-item parent-menu-item odd-menu-item menu-item menu-item-type-post_type menu-item-object-about current-about-ancestor current-menu-ancestor current-menu-parent current-about-parent menu-item-has-children has-dropdown menu-item-145141 current-ancestor current-ancestor"><a href="http://www.peta.org/about-peta/learn-about-peta/website-policies/">About This Site</a>
+<ul class="sub-menu">
+	<li id="menu-item-145160" class="first-menu-item odd-menu-item menu-item menu-item-type-post_type menu-item-object-about menu-item-145160"><a href="http://www.peta.org/about-peta/learn-about-peta/website-policies/accessibility/">PETA.org Accessibility Features</a></li>
+	<li id="menu-item-145144" class="even-menu-item menu-item menu-item-type-post_type menu-item-object-about menu-item-145144"><a href="http://www.peta.org/about-peta/learn-about-peta/website-policies/contest-terms-conditions/">Contest Rules</a></li>
+	<li id="menu-item-145145" class="odd-menu-item menu-item menu-item-type-post_type menu-item-object-about menu-item-145145"><a href="http://www.peta.org/about-peta/learn-about-peta/website-policies/disclaimer/">Disclaimer</a></li>
+	<li id="menu-item-145158" class="even-menu-item menu-item menu-item-type-post_type menu-item-object-about menu-item-145158"><a href="http://www.peta.org/about-peta/learn-about-peta/website-policies/other/">Other PETA Web Sites</a></li>
+	<li id="menu-item-145161" class="odd-menu-item menu-item menu-item-type-post_type menu-item-object-about current-menu-item menu-item-145161"><a href="http://www.peta.org/about-peta/learn-about-peta/website-policies/privacy/">Privacy Policy</a></li>
+	<li id="menu-item-145162" class="even-menu-item menu-item menu-item-type-post_type menu-item-object-about menu-item-145162"><a href="http://www.peta.org/about-peta/learn-about-peta/website-policies/site-map/">Site Map</a></li>
+	<li id="menu-item-145163" class="odd-menu-item menu-item menu-item-type-post_type menu-item-object-about menu-item-145163"><a href="http://www.peta.org/about-peta/learn-about-peta/website-policies/subscribe-to-enews/">Subscribe to E-News</a></li>
+	<li id="menu-item-145173" class="even-menu-item menu-item menu-item-type-post_type menu-item-object-about menu-item-145173"><a href="http://www.peta.org/about-peta/learn-about-peta/subscribe-to-mobile-alerts/">Subscribe to PETA’s Mobile Alerts</a></li>
+	<li id="menu-item-145165" class="odd-menu-item menu-item menu-item-type-post_type menu-item-object-about menu-item-145165"><a href="http://www.peta.org/about-peta/learn-about-peta/website-policies/terms-of-submission/">Terms of Submission</a></li>
+	<li id="menu-item-145164" class="even-menu-item menu-item menu-item-type-post_type menu-item-object-about menu-item-145164"><a href="http://www.peta.org/about-peta/learn-about-peta/website-policies/texting-terms-and-conditions/">Texting Terms and Conditions</a></li>
+	<li id="menu-item-145192" class="last-menu-item odd-menu-item menu-item menu-item-type-post_type menu-item-object-about menu-item-145192"><a href="http://www.peta.org/about-peta/learn-about-peta/website-policies/peta-online-community-terms-of-use-agreement/">Terms of Use</a></li>
 </ul>
 </li>
-<li><a href="http://www.petaasiapacific.com" target="_blank" accesskey="r">PETA Asia-Pacific</a> </li>
-<li><a href="http://china.petaasiapacific.com" target="_blank" accesskey="r">亚洲善待动物组织</a> </li>
-<li><a href="http://www.petalatino.com/" target="_blank" accesskey="s">PETA Latino</a> </li>
-<li><a href="http://www.animalrahat.com" target="_blank" accesskey="t">Animal Rahat</a> </li>
-</ul>
-</div>
-<div class="navigation">
-<h4>Navigation: </h4>
-<ul class="content-unordered-list">
-<li><a href="/default.aspx" accesskey="2">Home</a></li>
-<li><a href="/features/default.aspx" accesskey="3">Features</a></li>
-<li><a href="/tv/default.aspx" accesskey="4">Video</a></li>
-<li><a href="/action/default.aspx" accesskey="5">Action</a></li>
-<li><a href="/b/thepetafiles/default.aspx" accesskey="6">Blog</a></li>
-<li><a href="/issues/default.aspx" accesskey="7">Issues</a></li>
-</ul>
-<ul class="content-unordered-list">
-<li><a href="/living/default.aspx" accesskey="8">Living</a></li>
-<li><a href="/shop/default.aspx" accesskey="b">Shop</a></li>
-<li><a href="/interactive/default.aspx" accesskey="c">Interactive</a></li>
-<li><a href="/mediacenter/default.aspx" accesskey="d">Media Center</a></li>
-<li><a href="/about/default.aspx" accesskey="e">About PETA</a></li>
-<li><a href="/donate/default.aspx" accesskey="a">Donate</a></li>
-</ul>
-</div>
-<div class="foot-address"><strong>People for the Ethical Treatment of Animals</strong><br>501 Front St., Norfolk, VA 23510 | 757-622-PETA (7382) | 757-622-0457 (fax)<br>PETA is a nonprofit, tax-exempt 501(c)(3) corporation. </div><div style="clear:both;"></div></div>
-</div><div class="footer-fragment light-box-script" id="fragment-39c421b4-7f6e-4f0e-a42a-0a3d9a8675ca">
+</ul></div></div>
+			<div class="this-section row widget search">
 
-<script type="text/javascript">
-    $(function() {
-    $('a.page-lightbox').lightBox({ imageLoading: '/Themes/peta/images/lightbox/lightbox-ico-loading.gif', imageBtnPrev: '/Themes/peta/images/lightbox/lightbox-btn-prev.gif', imageBtnNext: '/Themes/peta/images/lightbox/lightbox-btn-next.gif', imageBtnClose: '/Themes/peta/images/lightbox/lightbox-btn-close.gif', imageBlank: '/Themes/peta/images/lightbox/lightbox-blank.gif' }); // Select all links with lightbox class
-    $('a.photo-lightbox').lightBox({ imageLoading: '/Themes/peta/images/lightbox/lightbox-ico-loading.gif', imageBtnPrev: '/Themes/peta/images/lightbox/lightbox-btn-prev.gif', imageBtnNext: '/Themes/peta/images/lightbox/lightbox-btn-next.gif', imageBtnClose: '/Themes/peta/images/lightbox/lightbox-btn-close.gif', imageBlank: '/Themes/peta/images/lightbox/lightbox-blank.gif' }); // Select all links with lightbox class
-    });
-</script></div></div>
-<div class="footer-fragments-footer"></div>
-		
-<script type="text/javascript">
-// <![CDATA[
-ctl00_content_ctl00 = new ContentFragmentPageCustomCallback('ctl00_content_ctl00',new Function('mode','parameters','callback','errorCallback','context','ctl00_content_ctl00_ctl00._doCallback(mode+\':\'+parameters,callback,context,errorCallback);'));
-// ]]>
-</script>
-<script type="text/javascript">
-//<![CDATA[
-$(function() {$('#ctl00_content_ctl00_fragment_15564704_ctl01_ctl00_menuContainer').accordion({initShow:'.selected .child:first , .selected', next: 'div'});$('.content-menu li.selected').parents('.content-menu li.selected').removeClass('selected');}); //]]>
-</script>
-<script type="text/javascript">
-// <![CDATA[
-Telligent_Modal.Configure('/utility/loading.htm',['modal'],['modal-title','modal-title-2','modal-title-3','modal-title-4'],['modal-close'],['modal-content','modal-content-2'],['modal-footer','modal-footer-2','modal-footer-3'],['modal-resize'],['modal-mask'],10000,false,true,true);
-// ]]>
-</script><script type="text/javascript">
-// <![CDATA[
-window.ctl00_content_ctl00_ctl00 = new Telligent_CallbackManager('ctl00_content_ctl00_ctl00','ctl00$content$ctl00$ctl00','aspnetForm');
-// ]]>
-</script><script type="text/javascript" src="http://apis.google.com/js/plusone.js"></script><script language="javascript" type="text/javascript" src="http://www.mediapeta.com/scripts/googleAnalytics/global/ga_social_tracking.js"></script>
-</form>
+  			<form role="search" class="searchform custom" method="get" id="searchform" action="http://www.peta.org/">
+				<h3>Search FAQs</h3>
+				<select name="category_name">
+					<option value="">Browse by Category</option>
+					<option value="faq vegan">Vegan</option>
+<option value="faq skins">Skins</option>
+<option value="faq animal-experimentation">Animal Experimentation</option>
+<option value="faq beauty-without-bunnies">Beauty Without Bunnies</option>
+<option value="faq animals-in-entertainment">Animals in Entertainment</option>
+<option value="faq companion-animals">Companion Animals</option>
+<option value="faq wildlife">Wildlife</option>
+<option value="faq general-animal-rights">General/Animal Rights</option>
+<option value="faq miscellaneous-parent">Miscellaneous</option>
+				</select>
+
+				<input type="text" name="s" id="s" class="s" placeholder="SEARCH FAQS">
+				<input type="hidden" name="category" value="faq">
+				<input type="hidden" name="post_type" value="about">
+				<input class="button" type="submit" id="searchsubmit" value="Search">
+			</form>
+
+			</div><div class="purple widget tm_latest_cp_widget"><div class="widget recent-victories row">
+	<h3>Recent Victories</h3>	
+	<ul>
+		                
+			<li>
+						
+				<a href="http://www.peta.org/about-peta/victories/illinois-store-stops-poisoning-birds/" class="tm_lcptu_post_title_link item-title"><span>Illinois Store Stops Poisoning Birds!</span></a>
+				
+						</li>
+		                
+			<li>
+						
+				<a href="http://www.peta.org/about-peta/victories/los-angeles-finalizes-bullhook-ban/" class="tm_lcptu_post_title_link item-title"><span>Los Angeles Finalizes Bullhook Ban</span></a>
+				
+						</li>
+		                
+			<li>
+						
+				<a href="http://www.peta.org/about-peta/victories/usda-fines-china-southern-airlines-illegal-monkey-shipments/" class="tm_lcptu_post_title_link item-title"><span>USDA Fines China Southern Airlines for Illegal Mon...</span></a>
+				
+						</li>
+		                
+			<li>
+						
+				<a href="http://www.peta.org/about-peta/victories/county-officials-west-virginia-end-practice-adopting-unaltered-animals/" class="tm_lcptu_post_title_link item-title"><span>County Officials in West Virginia End Practice of ...</span></a>
+				
+						</li>
+		                
+			<li>
+						
+				<a href="http://www.peta.org/about-peta/victories/perry-ellis-bans-angora/" class="tm_lcptu_post_title_link item-title"><span>Perry Ellis Bans Angora!</span></a>
+				
+						</li>
+		   
+	</ul>
+	<a class="more" href="/about-peta/victories/">View All Victories</a></div></div><div class="widget-last orange widget tm_latest_cp_widget"><div class="widget featured-frequently-asked-questions row">
+	<h3>Featured Frequently Asked Questions</h3>	
+	<ul>
+		                
+			<li>
+						
+				<a href="http://www.peta.org/about-peta/faq/does-animal-experimentation-save-human-lives/" class="tm_lcptu_post_title_link item-title"><span>Does animal experimentation save human lives?</span></a>
+				
+						</li>
+		                
+			<li>
+						
+				<a href="http://www.peta.org/about-peta/faq/where-can-i-find-leather-alternatives/" class="tm_lcptu_post_title_link item-title"><span>Where can I find leather alternatives?</span></a>
+				
+						</li>
+		                
+			<li>
+						
+				<a href="http://www.peta.org/about-peta/faq/why-does-peta-sometimes-use-nudity-in-its-campaigns/" class="tm_lcptu_post_title_link item-title"><span>Why does PETA sometimes use nudity in its campaign...</span></a>
+				
+						</li>
+		                
+			<li>
+						
+				<a href="http://www.peta.org/about-peta/faq/how-do-circuses-train-animals/" class="tm_lcptu_post_title_link item-title"><span>How do circuses train animals?</span></a>
+				
+						</li>
+		                
+			<li>
+						
+				<a href="http://www.peta.org/about-peta/how-is-a-company-certified-as-cruelty-free/" class="tm_lcptu_post_title_link item-title"><span>How is a company certified as cruelty-free?</span></a>
+				
+						</li>
+		   
+	</ul>
+	<a class="more" href="/about-peta/faq/">View More</a></div></div>
+</div>
+<!-- End Content Sidebar -->
+    </div>
+</div>
+<!-- End Content -->
 	
+<img style="display:none;" onload="record_login_status(1, 'Google', true)" onerror="record_login_status(1, 'Google', false)" src="https://accounts.google.com/CheckCookie?continue=https://www.google.com/intl/en/images/logos/accounts_logo.png">
+<img style="display:none;" onload="record_login_status(2, 'GooglePlus', true)" onerror="record_login_status(2, 'GooglePlus', false)" src="https://plus.google.com/up/?continue=https://www.google.com/intl/en/images/logos/accounts_logo.png&amp;type=st&amp;gpsrc=ogpy0">
+<img style="display:none;" src="https://twitter.com/login?redirect_after_login=%2Fimages%2Fspinner.gif" onload="record_login_status(3, 'Twitter', true)" onerror="record_login_status(3, 'Twitter', false)">
+<!-- No Facebook App ID is set in the plugin. -->
+<script type="text/javascript" src="http://www.mediapeta.com/scripts/googleAnalytics/global/ga_social_tracking.js?ver=3.9.1"></script>
+<script type="text/javascript" src="http://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201427"></script>
+<script type="text/javascript" src="http://www.peta.org/wp-includes/js/jquery/ui/jquery.ui.core.min.js?ver=1.10.4"></script>
+<script type="text/javascript" src="http://www.peta.org/wp-includes/js/jquery/ui/jquery.ui.datepicker.min.js?ver=1.10.4"></script>
+<script type="text/javascript" src="http://www.peta.org/wp-content/themes/peta/js/peta-footer.js?ver=3.9.1"></script>
+<script type="text/javascript" src="http://www.peta.org/wp-content/themes/peta/js/petaBcHtml5Player-TitleAndDesc.js?ver=3.9.1"></script>
+<script type="text/javascript" src="http://www.peta.org/wp-content/plugins/fooboxV2/js/foobox.min.js?ver=2.3.1.1"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var widget_ajax = {"ajaxurl":"http:\/\/www.peta.org\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.peta.org/wp-content/plugins/peta-content/js/connect-widget.js?ver=jquery"></script>
+<script type="text/javascript">/* Run FooBox (v2.3.1.1) */
+(function( FOOBOX, $, undefined ) {
+  FOOBOX.o = {wordpress: { enabled: true }, deeplinking : { enabled: true, prefix: "foobox" }, fullscreen : { enabled: true }, captions: { onlyShowOnHover:true, overrideTitle:true, titleSource:'image', overrideDesc:true, descSource:'image_alt' }, countMessage:'image %index of %total', excludes:'.fbx-link,.nofoobox,a[href*="pinterest.com/pin/create/button/"]', affiliate : { enabled: false }, error: "Oops, the image couldn\'t load", slideshow: { enabled:true}, social: { enabled: true, excludes: ['iframe','html'], position: 'fbx-top', links: [ { css: 'fbx-facebook', title: 'Facebook', url: 'https://www.facebook.com/dialog/feed?app_id=124139360941459&link={url}&picture={img}&name={title}&description={desc}&redirect_uri=http%3A%2F%2Fwww.peta.org' , titleSource: 'caption', titleCustom: '' }, { css: 'fbx-google-plus', title: 'Google+', url: 'https://plus.google.com/share?url={url-ne}' , titleSource: 'caption', titleCustom: '' }, { css: 'fbx-twitter', title: 'Twitter', url: 'https://twitter.com/share?url={url}&text={title}' , titleSource: 'caption', titleCustom: '' }, { css: 'fbx-pinterest', title: 'Pinterest', url: 'https://pinterest.com/pin/create/bookmarklet/?media={img!}&url={url}&is_video={is_video}&description={title}' , titleSource: 'caption', titleCustom: '' }, { css: 'fbx-email', title: 'Email', url: 'mailto:friend@example.com?subject={title}&body={desc}%20-%20{url}' , titleSource: 'caption', titleCustom: '' }, { css: 'fbx-download', excludes: ['video', 'iframe', 'html'], title: 'Download Original Image', url: '{img-ne}' } ] }, preload:true};
+  FOOBOX.init = function() {
+    $(".fbx-link").removeClass("fbx-link");
+  $("a.thickbox").removeClass("thickbox").unbind("click");
+  $("#TB_overlay, #TB_load, #TB_window").remove();
+    $(".fbx-link").unbind(".prettyphoto").unbind(".fb");
+    $(".ngg-galleryoverview, .ngg-widget").foobox(FOOBOX.o);
+    $(".gallery").foobox(FOOBOX.o);
+    $(".foobox-gallery").foobox(FOOBOX.o);
+    $(".foobox, [target=\"foobox\"]").foobox(FOOBOX.o);
+    $(".wp-caption").foobox(FOOBOX.o);
+    $("a:has(img[class*=wp-image-])").foobox(FOOBOX.o);
 
-</body></html>
+  };
+}( window.FOOBOX = window.FOOBOX || {}, jQuery ));
+
+jQuery(function() {
+  //preload the foobox font
+  jQuery("body").append("<span style=\"font-family:'foobox'; color:transparent; position:absolute; top:-1000em;\">f</span>");
+  FOOBOX.init();
+  jQuery(document).trigger("foobox-after-init");
+
+});
+</script>
+	<script src="http://stats.wordpress.com/e-201427.js" type="text/javascript"></script>
+	<script type="text/javascript">
+	st_go({v:'ext',j:'1:3.0.2',blog:'60675203',post:'81196',tz:'-4'});
+	var load_cmc = function(){linktracker_init(60675203,81196,2);};
+	if ( typeof addLoadEvent != 'undefined' ) addLoadEvent(load_cmc);
+	else load_cmc();
+	</script>			<script type="text/javascript">
+				jQuery.fn.prettyPhoto = function () {
+					return this;
+				};
+				jQuery.fn.fancybox = function () {
+					return this;
+				};
+				jQuery.fn.fancyZoom = function () {
+					return this;
+				};
+				jQuery.fn.colorbox = function () {
+					return this;
+				};
+			</script>
+		
+	<!-- begin footer -->
+	<div class="footer">
+		<div class="wrapper">
+			<div class="cushion row">
+				<p class="intro">
+					Almost all of us grew up eating meat, wearing leather, and going to circuses and zoos. We never considered the impact of these actions on the animals involved. For whatever reason, you are now asking the question: Why should animals have rights? <a class="more" href="http://www.peta.org/about-peta/why-peta/why-animal-rights/">Read more.</a>
+				</p>
+				<div class="general-info large-3 columns">
+					<p class="menu-title">General Info:</p><!-- Menu modified by MAJpage Menu Class Extender --><div class="menu-general-info-container"><ul id="menu-general-info" class="menu"><li id="menu-item-145389" class="first-menu-item odd-menu-item menu-item menu-item-type-post_type menu-item-object-about current-about-ancestor current-about-parent menu-item-145389 current-ancestor"><a accesskey="B" title="© 2014 PETA | Read Our Full Policy" href="http://www.peta.org/about-peta/learn-about-peta/website-policies/">© 2014 PETA | Read Our Full Policy</a></li>
+<li id="menu-item-145322" class="even-menu-item menu-item menu-item-type-post_type menu-item-object-about menu-item-145322"><a accesskey="C" title="Careers" href="http://www.peta.org/about-peta/work-at-peta/">Careers</a></li>
+<li id="menu-item-145390" class="odd-menu-item menu-item menu-item-type-post_type menu-item-object-about menu-item-145390"><a accesskey="f" title="Contact PETA" href="http://www.peta.org/about-peta/contact-peta/">Contact PETA</a></li>
+<li id="menu-item-145329" class="even-menu-item menu-item menu-item-type-post_type menu-item-object-about menu-item-145329"><a accesskey="h" title="Contest Terms and Conditions" href="http://www.peta.org/about-peta/learn-about-peta/website-policies/contest-terms-conditions/">Contest Terms and Conditions</a></li>
+<li id="menu-item-151439" class="odd-menu-item menu-item menu-item-type-post_type menu-item-object-about menu-item-151439"><a href="http://www.peta.org/about-peta/learn-about-peta/website-policies/disclaimer/">Disclaimer</a></li>
+<li id="menu-item-145337" class="even-menu-item menu-item menu-item-type-post_type menu-item-object-about menu-item-145337"><a accesskey="i" title="Texting Terms and Conditions" href="http://www.peta.org/about-peta/learn-about-peta/website-policies/texting-terms-and-conditions/">Texting Terms and Conditions</a></li>
+<li id="menu-item-145335" class="odd-menu-item menu-item menu-item-type-post_type menu-item-object-about current-menu-item menu-item-145335"><a accesskey="j" title="Privacy Policy" href="http://www.peta.org/about-peta/learn-about-peta/website-policies/privacy/">Privacy Policy</a></li>
+<li id="menu-item-145334" class="even-menu-item menu-item menu-item-type-post_type menu-item-object-about menu-item-145334"><a accesskey="D" title="Terms of Use" href="http://www.peta.org/about-peta/learn-about-peta/website-policies/peta-online-community-terms-of-use-agreement/">Terms of Use</a></li>
+<li id="menu-item-145391" class="last-menu-item odd-menu-item menu-item menu-item-type-post_type menu-item-object-about menu-item-145391"><a accesskey="9" title="Report Website Abuse" href="http://www.peta.org/about-peta/contact-peta/report-website-abuse/">Report Website Abuse</a></li>
+</ul></div>				</div>
+				<div class="site-tools large-3 columns">
+					<p class="menu-title">Site Tools:</p><!-- Menu modified by MAJpage Menu Class Extender --><div class="menu-site-tools-container"><ul id="menu-site-tools" class="menu"><li id="menu-item-145392" class="first-menu-item odd-menu-item menu-item menu-item-type-post_type menu-item-object-about menu-item-145392"><a accesskey="0" title="Accessibility" href="http://www.peta.org/about-peta/learn-about-peta/website-policies/accessibility/">Accessibility</a></li>
+<li id="menu-item-145393" class="even-menu-item menu-item menu-item-type-post_type menu-item-object-about menu-item-145393"><a accesskey="1" title="Site Map" href="http://www.peta.org/about-peta/learn-about-peta/website-policies/site-map/">Site Map</a></li>
+<li id="menu-item-145394" class="odd-menu-item menu-item menu-item-type-post_type menu-item-object-about menu-item-145394"><a accesskey="l" title="Subscribe to E-News" href="http://www.peta.org/about-peta/learn-about-peta/website-policies/subscribe-to-enews/">Subscribe to E-News</a></li>
+<li id="menu-item-145395" class="last-menu-item even-menu-item menu-item menu-item-type-post_type menu-item-object-about menu-item-145395"><a accesskey="z" title="Get Mobile Alerts" href="http://www.peta.org/about-peta/learn-about-peta/subscribe-to-mobile-alerts/">Get Mobile Alerts</a></li>
+</ul></div>				</div>
+				<div class="international-sites large-3 columns">
+					<p class="menu-title">International Sites:</p><!-- Menu modified by MAJpage Menu Class Extender --><div class="menu-international-sites-container"><ul id="menu-international-sites" class="menu"><li id="menu-item-441" class="first-menu-item odd-menu-item flag-icon peta-uk menu-item menu-item-type-custom menu-item-object-custom menu-item-441"><a accesskey="m" title="PETA U.K." target="_blank" href="http://www.peta.org.uk">PETA U.K.</a></li>
+<li id="menu-item-442" class="even-menu-item flag-icon peta-france menu-item menu-item-type-custom menu-item-object-custom menu-item-442"><a accesskey="n" title="PETA France" href="http://www.petafrance.com">PETA France</a></li>
+<li id="menu-item-443" class="odd-menu-item flag-icon peta-germany menu-item menu-item-type-custom menu-item-object-custom menu-item-443"><a accesskey="o" title="PETA Germany" target="_blank" href="http://www.peta.de/">PETA Germany</a></li>
+<li id="menu-item-444" class="even-menu-item flag-icon peta-netherlands menu-item menu-item-type-custom menu-item-object-custom menu-item-444"><a accesskey="p" title="PETA Netherlands" target="_blank" href="http://www.peta.nl">PETA Netherlands</a></li>
+<li id="menu-item-445" class="odd-menu-item flag-icon peta-india menu-item menu-item-type-custom menu-item-object-custom menu-item-445"><a accesskey="q" title="PETA India" href="http://www.petaindia.com/">PETA India</a></li>
+<li id="menu-item-446" class="even-menu-item flag-icon peta-australia menu-item menu-item-type-custom menu-item-object-custom menu-item-446"><a accesskey="A" title="PETA Australia" href="http://www.peta.org.au">PETA Australia</a></li>
+<li id="menu-item-447" class="odd-menu-item peta-asia-pacific menu-item menu-item-type-custom menu-item-object-custom menu-item-447"><a accesskey="r" title="PETA Asia-Pacific" href="http://www.petaasiapacific.com">PETA Asia-Pacific</a></li>
+<li id="menu-item-448" class="even-menu-item peta-china menu-item menu-item-type-custom menu-item-object-custom menu-item-448"><a accesskey="r" title="亚洲善待动物组织" href="http://china.petaasiapacific.com/">亚洲善待动物组织</a></li>
+<li id="menu-item-449" class="odd-menu-item peta-latino menu-item menu-item-type-custom menu-item-object-custom menu-item-449"><a accesskey="s" href="http://www.petalatino.com">PETA Latino</a></li>
+<li id="menu-item-450" class="last-menu-item even-menu-item animal-rahat menu-item menu-item-type-custom menu-item-object-custom menu-item-450"><a accesskey="t" title="Animal Rahat" href="http://www.animalrahat.com/">Animal Rahat</a></li>
+</ul></div>				</div>
+				<div class="navigation large-3 columns">
+											
+						<p class="menu-title">Navigation:</p>
+						<ul class="first-col">
+												       <li><a href="http://www.peta.org/">Home</a></li>
+						       						       <li><a href="http://www.peta.org/features/">Features</a></li>
+						       						       <li><a href="http://www.peta.org/videos/">Videos</a></li>
+						       						       <li><a href="http://www.peta.org/action/">Action</a></li>
+						       						       <li><a href="http://www.peta.org/blog/">Blog</a></li>
+						       						       <li><a href="http://www.peta.org/issues/">Issues</a></li>
+						       </ul><ul class="second-col">						       <li><a href="http://www.peta.org/living/">Living</a></li>
+						       						       <li><a href="http://www.peta.org/shop/">Shop</a></li>
+						       						       <li><a href="http://www.peta.org/interactive/">Interactive</a></li>
+						       						       <li><a href="http://www.peta.org/media/">Media Center</a></li>
+						       						       <li><a href="http://www.peta.org/about-peta/">About PETA</a></li>
+						       						       <li><a href="http://www2.peta.org/site/Donation2?df_id=12528&amp;12528.donation=form1&amp;set.custom.Campaign_Code=I13JWAXXXXG&amp;autologin=true">Donate Now</a></li>
+						       						</ul>
+				</div>
+				<div class="contact large-12 columns">
+					<div class="logo">
+						<a href="http://www.peta.org" title="PETA">
+							<span class="main-logo" aria-hidden="true" data-icon="p"></span>
+							<span class="visually-hidden">PETA.org</span>
+						</a>
+					</div>
+					<dl>
+						<dt>People for the Ethical Treatment of Animals</dt>
+						<dd class="street">501 Front St., Norfolk, VA 23510</dd>
+						<dd class="phone">757-622-PETA (7382)</dd>
+						<dd class="fax">757-622-0457 (fax)</dd>
+						<dd class="disclaimer">PETA is a nonprofit, tax-exempt 501(c)(3) corporation (tax ID number 52-1218336).</dd>
+					</dl>
+					<div class="clear"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- end footer -->
+	
+	
+	
+		
+					<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+		<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#async=1"></script>
+		<script type="text/javascript">
+		var addthis_config = {
+		     pubid: "petaimg"
+		}
+		// Call this function once the rest of the document is loaded
+		function loadAddThis() {
+		    addthis.init()
+		}
+		</script>
+		
+				<script>
+		jQuery(document).ready(function() {
+			!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
+			loadAddThis();
+		});
+		</script>
+			
+	<script type="text/javascript" src="http://www.mediapeta.com/scripts/googleAnalytics/global/ga_social_tracking.js"></script>
+	
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-3.newrelic.com","licenseKey":"02dde9c89f","applicationID":"3976950","transactionName":"Z1UHYEpTWkFQAhAIDF4fJFdMW1tcHhINDwRcVQ==","queueTime":0,"applicationTime":1156,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
+<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
