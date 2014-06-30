@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nerdapproved.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230152804id_/http%3A//nerdapproved.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nerdapproved.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630133702id_/http%3A//nerdapproved.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -28,7 +28,6 @@ Nerd Approved currently utilizes the following providers for advertising and aff
   * [ValueClick Media](http://www.valueclickmedia.com/)
   * [Federated Media](http://www.federatedmedia.net/)
   * [IDG TechNetwork](http://idgtechnetwork.com/)
-  * [Blogads](http://web.blogads.com/)
   * [Skimlinks](https://skimlinks.com/)
   * [Shareasale](https://www.shareasale.com/)
   * [RadiumOne/Po.st](http://www.po.st/)
@@ -43,7 +42,7 @@ If you wish to disable cookies, you can do so through your browser options menu.
 
 **Traffic Reports** :
 
-Like all websites, we utilize log files and third-party providers like [Google Analytics](http://www.google.com/analytics/) to collect and analyze traffic statistics using information like IP addresses, browsers,  ISPs, date of access, time spent on the site, pages accessed and links clicked. This information is not shared with anyone and does not contain any data that personally identifies the visitor. The same holds true for [trueAnthem](http://trueanthem.com/), which we use to track social shares. 
+Like all websites, we utilize log files and third-party providers like [Google Analytics](http://www.google.com/analytics/) to collect and analyze traffic statistics using information like IP addresses, browsers,  ISPs, date of access, time spent on the site, pages accessed and links clicked. This information is not shared with anyone and does not contain any data that personally identifies the visitor. 
 
 **Comments:**
 
@@ -55,7 +54,7 @@ We try and actively monitor comments as much as possible, but this is no easy ta
 
 Nerd Approved might request personal information from readers to fulfill requirements for contests. This may include shipping information, email and phone numbers. This information is not shared with anyone except the company sponsoring the contest for the purposes of shipping (please refer to the sponsor’s privacy policy for information on how they handle this information). 
 
-Contests are generally handled through a [Rafflecopter](http://www.rafflecopter.com/) widget. Information is collected to identify participants, but is not used on our end for any reason other than to notify winners. Please refer to the [Rafflecopter Privacy Policy](http://www.rafflecopter.com/rafl/privacy/) for more on how they collect and use personal information. 
+Contests are generally handled through a [Rafflecopter](http://www.rafflecopter.com/) widget. Information is collected to identify participants, but is not used on our end for any reason other than to notify winners. When requested we may share Rafflecopter data with the contest sponsor to verify entries. Please refer to the [Rafflecopter Privacy Policy](http://www.rafflecopter.com/rafl/privacy/) for more on how they collect and use personal information. 
 
 **Links to Other Websites:**
 
