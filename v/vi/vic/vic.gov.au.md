@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vic.gov.au privacy policy that was archived on 2013-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131217211158id_/http%3A//www.vic.gov.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vic.gov.au privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630145608id_/http%3A//www.vic.gov.au/privacy.html) for the most accurate reproduction.*
 
 # Privacy | Victorian Government
 
@@ -77,7 +77,7 @@ www.vic.gov.au currently uses one web measurement service provider. This is Goog
 
 ###  Google Analytics - Use of Cookies
 
-[Google Analytics](http://www.google.com/analytics/) uses a first-party cookie and JavaScript code to collect information about visitors to Victoria Online. Google Analytics anonymously tracks how our visitors interact with this website, including where they came from, what they did on the site, and whether they completed any transactions on the site such as newsletter registration.
+[Google Analytics](http://www.google.com/analytics/) uses a first-party cookie and JavaScript code to collect information about visitors to vic.gov.au. Google Analytics anonymously tracks how our visitors interact with this website, including where they came from, what they did on the site, and whether they completed any transactions on the site such as newsletter registration.
 
 Please also read the [Google Privacy Policy](https://www.google.com/intl/en/policies/privacy/).
 
@@ -103,20 +103,20 @@ If you opt out of using cookies, you will still have access to all information a
 
 While the anonymous statistical data www.vic.gov.au collects may be aggregated and used in broader statistical analysis by the State of Victoria, at no time can we personally identify you as the source of that data.
 
-##  Contacts and Services Directory
+##  Victorian Government Directory
 
-The Contacts & Services Directory aims to assist citizens to find relevant services, websites or contacts within the Victorian Government.
+The Victorian Government Directory aims to assist citizens to find relevant services, websites or contacts within the Victorian Government.
 
-To ensure privacy is being managed effectively and to report any possible breaches there are several feedback loops in place. On the Contacts & Services directory website there is a link to a feedback form for the general public to alert www.vic.gov.au to errors or omissions in data for resolution or referral. The Victorian Government Contact Centre phone number is displayed to allow for verbal feedback.
+To ensure privacy is being managed effectively and to report any possible breaches there are several feedback loops in place. On the Victorian Government directory website there is a link to a feedback form for the general public to alert www.vic.gov.au to errors or omissions in data for resolution or referral. The Victorian Government Contact Centre phone number is displayed to allow for verbal feedback.
 
 ##  Social Media Websites and Applications
 
 In addition to www.vic.gov.au, The Victorian Government uses social media websites to share information and to engage with the public. For example, www.vic.gov.au embeds a Twitter feed listing tweets from various Victorian Government departments and agencies on our home page. Our intention is to provide a seamless visitor experience to enhance our website visitor's ability to access information and communicate with the Victorian Government.
 
-Some social media websites and applications may make personally identifiable information available to the public. www.vic.gov.auy will not collect, maintain, use, or share any personally identifiable information that becomes available through the use of social media websites or applications.
+Some social media websites and applications may make personally identifiable information available to the public. www.vic.gov.au will not collect, maintain, use, or share any personally identifiable information that becomes available through the use of social media websites or applications.
 
-Please be aware that privacy policies provided by social media websites may not be the same as the privacy poilicy described here.
+Please be aware that privacy policies provided by social media websites may not be the same as the privacy policy described here.
 
 Also we advise that personally identifiable information or other information you share via social media or applications may be accessible by non-government third parties.
 
-This page was updated 26 September 2013.
+This page was updated 6 February 2014.
