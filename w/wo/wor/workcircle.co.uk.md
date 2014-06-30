@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the workcircle.co.uk privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102194753id_/http%3A//www.workcircle.co.uk/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workcircle.co.uk privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630062646id_/http%3A//www.workcircle.co.uk/privacypolicy) for the most accurate reproduction.*
 
 # Privacy policy | Workcircle UK
 
