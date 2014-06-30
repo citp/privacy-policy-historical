@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotels.nl privacy policy that was archived on 2013-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131213082227id_/http%3A//www.hotels.nl/service/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotels.nl privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630161724id_/http%3A//www.hotels.nl/service/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -49,11 +49,14 @@ Hotels.nl reserves the right to obey legal regulations and rules with regards to
 Traffic data is obtained by:
 
   *  ~~~~ **Cookies**  
-Hotels.nl may use cookies when offering its online services. These are small files, which are stored on the hard disk of your computer. By using these cookies, our website is able to recognise you when you visit Hotels.nl. This way we can ensure that when visiting our website you won't need to constantly fill in the same information. The information stored in a cookie also depends on your own browser preferences. Should you have switched off the use of cookies or should you wish to do so, then you will still be able to view most parts of the Hotels.nl website. However, you will NOT be able to make a booking. Hotels.nl is not responsible for erroneous bookings resulting from cookies.
-  
+Hotels.nl may use cookies when offering its online services. These are small files, which are stored on the hard disk of your computer. By using these cookies, our website is able to recognise you when you visit Hotels.nl. This way we can ensure that when visiting our website you won't need to constantly fill in the same information. The information stored in a cookie also depends on your own browser preferences. Should you have switched off the use of cookies or should you wish to do so, then you will still be able to view most parts of the Hotels.nl website. However, you will NOT be able to make a booking.   
+Hotels.nl is not responsible for erroneous bookings resulting from cookies.
 
-  *  ~~~~ **Log files**  
-We use log files, as most standard website servers do. In these log files we keep data such as internet protocol (IP) addresses, browser type, internet service provider (ISP), referral/closing pages, platform type, date/time info and the number of clicks for trend analysis, site management, tracing user movements in data collection, tracking problems with our servers and the collection of demographic data for general use. IP addresses and such likes, are not linked to personal data.
+In[this overview](http://media.hotels.nl/conditions/cookies_hotelsnl.pdf) you can see which cookies may be saved while you visit the Hotels.nl website. Which cookies can be placed, partly depends on how you land on our website (for instance, directly through the address bar or through a link from a search engine or a third-party website), and which pages you visit on Hotels.nl (for instance, a search results page or the booking form). 
+
+  * ~~~~
+  * ~~~~**Log files**  
+We use log files, just like most standard website servers. In these log files we store data such as internet protocol (IP) addresses, browser type, internet service provider (ISP), referral/closing pages, platform type, date/time info and the number of clicks for the purpose of trend analysis, site management, tracing user movements in data collection, tracking problems with our servers and the collection of demographic data for general use. IP addresses and the like, are not linked to personal data.
 
 
 
