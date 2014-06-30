@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powerdatarecovery.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230225855id_/http%3A//www.powerdatarecovery.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerdatarecovery.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630194559id_/http%3A//www.powerdatarecovery.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy of MiniTool Solution Ltd.
 
