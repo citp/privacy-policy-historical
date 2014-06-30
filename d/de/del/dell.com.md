@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dell.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231005715id_/http%3A//www.dell.com/learn/us/en/uscorp1/policies-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dell.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630131435id_/http%3A//www.dell.com/learn/us/en/uscorp1/policies-privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Dell
 
@@ -27,6 +27,9 @@ We may collect information about your visits to our websites, including the page
 In order to offer you a more consistent and personalized experience in your interactions with Dell, information collected through one source may be combined with information obtained through other Dell resources. We may also supplement the information we collect with information obtained from other parties.
 
 Some Dell services may be co-branded and offered in conjunction with another company. If you register for or use such services, both Dell and the other company may receive information collected in conjunction with the co-branded services, and may use the information according to each company's privacy statement and other agreements with you.
+
+ ** **EU and Swiss Safe Harbor**  
+** In addition to Dell’s other data protection measures, Dell Cloud Clinical Archive (DCCA) services comply with the U.S. – E.U. Safe Harbor Framework and the U.S. - Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from European Union member countries. For provision of DCCA services to its clients, Dell has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. [TRUSTe](https://feedback-form.truste.com/watchdog/request) provides localized dispute resolution of consumer complaints about online data collection as required for Safe Harbor status. Should you have any questions about DCCA’s Safe Harbor status, please contact us at [privacy@Dell.com](mailto:privacy@Dell.com). If you are not satisfied with our response, you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request). To learn more about the Safe Harbor program, and to view the Dell Clinical Cloud Archive Services certification, please visit [www.export.gov/safeharbor](http://www.export.gov/safeharbor).
 
 #### How We Use Personal Information
 
@@ -78,11 +81,7 @@ You may choose to receive or not receive marketing communications from Dell by i
 
 Please allow up to 10 business days for your email preferences to take effect. Because some promotions, such as direct mail catalogs, are developed in advance, you may sometimes receive solicitations after we receive your preference request.
 
-#### [](https://web.archive.org/web/20131231005715id_/http%3A//www.dell.com/learn/us/en/uscorp1/spredir.ashx/solutions/cat-intro-privacy-statement?catid=policies-privacy)How We Secure Your Personal Information
-
-Dell wants to help you keep your personal information accurate. To view or edit your personal information that has been stored online in your Dell 'My Account,' please visit the My Account/Premier Account sections of the dell.com website. For the security of your account, you will be required to sign in with your login ID and password.
-
-#### [](https://web.archive.org/web/20131231005715id_/http%3A//www.dell.com/learn/us/en/uscorp1/spredir.ashx/solutions/cat-intro-privacy-statement?catid=policies-privacy)Collection and Use of Children's Personal Information
+#### [](https://web.archive.org/web/20140630131435id_/http%3A//www.dell.com/learn/us/en/uscorp1/spredir.ashx/solutions/cat-intro-privacy-statement?catid=policies-privacy)Collection and Use of Children's Personal Information
 
 Dell takes children's privacy seriously. We do not knowingly collect personal information from children under the age of 13 through our websites. If you are under 18 years of age, please do not submit any personal information through our websites without the express consent and participation of a parent or guardian. 
 
@@ -97,7 +96,10 @@ Dell takes children's privacy seriously. We do not knowingly collect personal in
 Similarly, third parties use cookies to deliver advertising for companies other than Dell to you on the internet, whether you are on Dell.com or another website, based on your visits to Dell.com and other websites and to measure the effectiveness of those advertising campaigns. These cookies assist the third parties in identifying the pages you view, the links and ads you click on, other actions you take on those web pages, and the site from which you came before arriving at a web page.  
 [Learn more](https://web.archive.org/spredir.ashx/solutions/ads-and-emails) about targeted advertising and how to opt out.
 
- **Targeted Email Marketing by Dell  
+ **“Do Not Track” Signals  
+** Please note that while you may have the opportunity to opt-out of targeted advertising through the “Learn more” link above and you may be able to control the use of cookies through your web browser as described in the “How We and Our Partners Use Cookies” section above, some web browsers may give you the ability to enable a “do not track” setting that sends a special signal to the websites you encounter while web browsing. This is different from disabling certain forms of tracking by declining cookies in your browser settings, as browsers with the “do not track” setting enabled still have the ability to accept cookies. Dell does not respond to web browser “do not track” signals at this time. If we do so in the future, we will describe how we do so in this Privacy Statement. For more information about do not track, visit [www.allaboutdnt.org](http://www.allaboutdnt.org/). 
+
+**Targeted Email Marketing by Dell  
 ** Some marketing you receive, including email marketing, may also be personalized based on your visits to Dell.com and your browsing and purchase history. In addition, when you click on some links in email marketing you receive, our email service provider may place a cookie on your browser. This cookie would be linked to your email address and used to gather information about the products and services you view and purchase on Dell.com. Information gathered may be used to personalize and customize future email marketing messages you receive. You may opt out of this use by clicking on the unsubscribe link provided in every personalized email marketing message you receive.
 
 You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to sign in or use other interactive features of Dell websites and services that depend on cookies.  
@@ -135,4 +137,4 @@ USA
 
 You may also email us at [privacy@dell.com](mailto:privacy@dell.com).
 
- **Privacy Statement Regarding Customer and Online User Information Effective Date:  June 18, 2012.**
+ **Privacy Statement Regarding Customer and Online User Information Effective Date:  May 16, 2014.**
