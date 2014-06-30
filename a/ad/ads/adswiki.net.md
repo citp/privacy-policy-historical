@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adswiki.net privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129103140id_/http%3A//www.adswiki.net/about/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adswiki.net privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630141629id_/http%3A//www.adswiki.net/about/policy) for the most accurate reproduction.*
 
 # Privacy Policy | AdsWiki - Ad Network Listing, Reviews, Payment Proof & Advertising News.
 
@@ -8,7 +8,7 @@ AdsWiki. (“adswiki.net”) owns and operates this website (the “AdsWiki”).
 
 The privacy of our users is of upmost importance here at AdsWiki. This is the place to find out how we look after your privacy and what non-personally identifiable information we use to target our advertisements.
 
- **AdsWiki Privacy Statement**
+**AdsWiki Privacy Statement**
 
 Internet user privacy is of paramount importance to AdsWiki. The success of our business depends upon our ability to maintain the trust of our users. Below is information regarding Adswiki’s commitment to protect the privacy of users and ensure the integrity of the Internet.
 
