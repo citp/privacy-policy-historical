@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the softchalkcloud.com privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820130710id_/https%3A//www.softchalkcloud.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softchalkcloud.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630101920id_/https%3A//www.softchalkcloud.com/privacy) for the most accurate reproduction.*
 
 # SoftChalk CLOUD
 
