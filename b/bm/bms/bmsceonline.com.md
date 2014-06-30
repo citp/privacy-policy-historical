@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bmsceonline.com privacy policy that was archived on 2013-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130701203509id_/http%3A//www.bmsceonline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bmsceonline.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630062331id_/http%3A//www.bmsceonline.com/privacy) for the most accurate reproduction.*
 
 # Privacy | BM SCE Online
 
