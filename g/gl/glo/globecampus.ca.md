@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globecampus.ca privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231030004id_/http%3A//www.theglobeandmail.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globecampus.ca privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630074905id_/http%3A//www.theglobeandmail.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Globe and Mail
 
@@ -44,7 +44,7 @@ A Person's consent can be express, implied, or given through an authorized repre
 _Note_ : If any Person at any time has any questions or concerns about Globe's privacy practices, the Person can either:
 
   1. write to Customer Service - Privacy, The Globe and Mail, 444 Front St. West, Toronto, ON, M5V 2S9; or
-  2. provide information to Globe [ by sending an email with your inquiry (click here)](mailto:arutherford@globeandmail.com?cc=jsheppard@globeandmail.com&subject=Privacy%20Inquiry).
+  2. provide information to Globe [ by sending an email with your inquiry (click here)](mailto:escalations@globeandmail.com?subject=Privacy%20Inquiry).
 
 
 
@@ -255,7 +255,7 @@ _A Person shall be able to address a challenge concerning compliance with the ab
 10.1 Globe shall maintain procedures for addressing and responding to all inquiries or complaints from Persons about Globe's handling of their Personal Information. If any Person at any time has any questions or concerns about Globe's privacy practices, the Person can either:
 
   1. write to Customer Service - Privacy, The Globe and Mail, 444 Front St. West, Toronto, ON, M5V 2S9; or
-  2. provide information to Globe [ by sending an email with your inquiry (click here)](mailto:arutherford@globeandmail.com?cc=jsheppard@globeandmail.com&subject=Privacy%20Inquiry).
+  2. provide information to Globe [ by sending an email with your inquiry (click here)](mailto:escalations@globeandmail.com?subject=Privacy%20Inquiry).
 
 
 
