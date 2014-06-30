@@ -1,48 +1,40 @@
-> *The following text is extracted and transformed from the travelllll.com privacy policy that was archived on 2013-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130529223956id_/http%3A//travelllll.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelllll.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630155245id_/https%3A//ghost.org/about/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Travelllll.com
+# Ghost.org Privacy Policy
 
-#### We are committed to protecting your privacy.
+As with many websites, we collect the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, and information volunteered by the user. The information we collect is used to improve the content of our web pages and the quality of our service and is never shared with or sold to other organizations for commercial purposes, except to provide products or services you've requested, when we have your permission, or if it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our Terms of Service, or as otherwise required by law.
 
-We promise that we will use your personal information only in ways that are compatible with this Privacy Policy. The following policies are only in effect for the web pages, newsletters, discussion lists, and announcement lists owned and operated by Travelllll.com. The following discloses our Privacy Policy.
+### Information Gathering and Usage
 
-#### What information are you collecting and how are you collecting it?
+  * When you register on Ghost.org we ask for information such as your name, email address, billing address, credit card information. Members who sign up for the free account are not required to enter a credit card.
+  * Ghost Foundation uses collected information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, and research.
 
-Every computer connected to the Internet is given a domain name and IP address – a set of numbers that serve as that computer’s “Internet Protocol”. When a visitor requests a page from Travelllll.com’s website, our Web servers automatically recognize that visitor’s domain name and IP address. The domain name and IP address reveal nothing personal about you other than the IP address from which you have accessed our site. We use this information to examine our traffic in aggregate, but do not collect and evaluate this information for individuals. Our web servers do not record e-mail addresses of the visitors.
 
-#### What are cookies?
 
-Occasionally, Travelllll.com may send a “cookie” to your computer. A cookie is a small piece of data that is sent to your browser from a web server and stored on your computer’s hard drive. A cookie can’t read data off your hard disk or read cookie files created by other sites. Cookies do not damage your system. We use cookies to identify which areas of Travelllll.com’s website you have visited, so the next time you visit, those pages may be readily accessible. We may also use cookies to ascertain how many times you’ve visited a particular page. We may use this information to better personalize the content that you see on our site.
+### Cookies
 
-You have the choice of accepting cookies by changing the settings of your browser. You can reset your browser to refuse all cookies, or allow your browser to show you when a cookie is being sent. If you choose not to accept these cookies, your experience at our site and other Web sites may be diminished and some features may not work as intended.
+  * A cookie is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser from a web site's computers and stored on your computer's hard drive.
+  * Cookies are required to use the Ghost.org service.
+  * We use cookies to record current session information, but do not use permanent cookies. You are required to re-login to your Ghost.org account after a certain period of time has elapsed to protect you against others accidentally accessing your account contents.
 
-#### What other information do you request?
 
-We may ask you to provide your e-mail address or mailing address for the purposes of conducting a survey or to provide additional services (e-mail newsletters, announcement lists or information about new services). Whenever we request the identity of a visitor, we will clearly indicate the purpose of the inquiry before the information is requested. We maintain a strict “No-Spam” policy that means that we do not intend to sell, rent, or otherwise give your e-mail address to a third party.
 
-In addition, Travelllll.com will not send you e-mail that you have not agreed to receive. We may from time to time send e-mails announcing new services offered by Travelllll.com.
+### Data Storage
 
-When you sign up for an Travelllll.com service or newsletter, your name or alias is recorded solely for purposes of maintaining your account within the Travelllll.com client base or as a subscriber to our forthcoming newsletters.
+Ghost Foundation uses third party vendors and hosting partners to provide the necessary hardware, software, networking, storage, and related technology required to run Ghost.org. Although Ghost Foundation owns the code, databases, and all rights to the Ghost.org website, you retain all rights to your data.
 
-#### Will you disclose the information you collect to outside third parties?
+### Disclosure
 
-Travelllll.com will disclose personal information when required by law or in the good-faith belief that such action is necessary to:
+Ghost Foundation may disclose personally identifiable information under special circumstances, such as to comply with subpoenas or when your actions violate the Terms of Service.
 
-**1.** Conform to the edicts of the law or comply with a legal process served on Travelllll.com.  
-**2.** Protect and defend the rights or property of the Travelllll.com network of sites, or visitors to Travelllll.com.  
-**3.** Identify persons who may be violating the law, the legal notice, or the rights of third parties.  
-**4.** Co-operate with the investigations of purported unlawful activities.
+### Data Location
 
-Travelllll.com uses reasonable precautions to keep the information disclosed to us secure. Travelllll.com reserves the right to transfer information in connection with the sale of all or part of Travelllll.com capital stock or assets. Furthermore, we are not responsible for any breach of security or for any actions of any third parties which receive the information.
+If you choose to provide Ghost.org with your information, you consent to the transfer and storage of that information on our servers located in the United Kingdom.
 
-#### What else should I know about my privacy when online?
+### Changes
 
-The Travelllll.com website contains many links to other Web sites. Travelllll.com is not responsible for the privacy practices or the content of such websites. Travelllll.com does not share any of the individual personal information you provide with the sites to which Travelllll.com links. Please refer to those sites for their privacy policy.
+We may periodically update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Ghost.org primary account holder information or by placing a prominent notice on our site.
 
-Please keep in mind that whenever you voluntarily disclose personal information online — for example through e-mail, discussion lists, or elsewhere — that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return.
+### Questions
 
-Ultimately, you are solely responsible for maintaining the secrecy of your personal information. Please be careful and responsible whenever you’re online.
-
-#### Your Consent to This Agreement
-
-By using our website and our services, you consent to the collection and use of information by Travelllll.com as specified above. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it and under what circumstances we disclose it.
+Any questions about this Privacy Policy should be addressed to info [at] ghost.org.
