@@ -1,53 +1,70 @@
-> *The following text is extracted and transformed from the worldgroups.com privacy policy that was archived on 2013-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130322074104id_/http%3A//apps.worldgroups.com/grppage.wsif%3Ft%3DSite%5CGeneral%5CPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldgroups.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630020508id_/http%3A//www.ifriends.net/ifpage.dll%3Ft%3Dsite/general/legal/privacy) for the most accurate reproduction.*
 
-# Privacy Policy : WorldGroups
+# Privacy Statement for iFriends
 
-WorldGroups (hereafter, "GROUPS") is committed to respecting and protecting the privacy of its users. The purpose of this privacy policy is to detail what information we may collect, and how we will use this information. 
+**Overview**  
+---  
+**Effective August 2008**   
+We understand that privacy is an ongoing and important concern for all of our users. For more than 10 years we have maintained a secure online environment for users to express themselves. We respect and safeguard the privacy of every individual who visits or creates Content on or through our website(s). 
 
-**Site Usage Information**
-
-**Groups**
-
-  * GROUPS gathers "site usage" information such as IP address, browser type, access times, and referring URL from all visitors of the GROUPS web site. This data is used in the aggregate to help customize the content and advertising to deliver a better experience to our users. 
-  * GROUPS may store some information on your computer. This information will be in the form of a cookie or similar file and will help us in many ways. For example, cookies allow us to tailor web pages to better match your interests and preferences, and maintain your login session. With most internet browsers, you can erase cookies from your computer hard drive, block all cookies, or receive a warning before a cookie is stored. Please refer to your browser instructions or help screen to learn more about these functions. 
-
-
-
+This Privacy Policy is a formal document which outlines the information that may be collected about you while you use this Service, and how that information may be used. This Policy will also instruct you on what to do if you do not want your personal information collected or shared. This Policy incorporates our [Terms of Service](http://www.ifriends.net/ifpage.dll?t=site/general/legal/tos), and if there is a conflict between this Policy and our Terms of Service, the Terms of Service prevail. If you would like to review a plain-spoken presentation of how we protect your privacy, and the practical ways that our Policy might affect your life, please [click here](http://www.ifriends.net/ifpage.dll?t=site/general/legal/privacyprotection) for our "side bar" article, "How We Protect Your Privacy," or [click here](http://www.ifriends.net/ifpage.dll?t=site/general/legal/privacyfaq) for a list of frequently-asked questions and answers concerning our policies.   
   
-**Individual User Information**
+**Personally-Identifiable Information**   
+We collect Personally-identifiable information about you when you provide it to us voluntarily or authorize our access to it. To obtain a subscription to this Service you must provide us with a screen name, password, email address, age information, and payment method information. 
 
-**Disclosure**
+Your use of this Service may also include the transfer of your Personally-identifiable information, individual information, personal data, and/or sensitive information outside of your country, including without limitation from the European Union to the United States. At all times, you have the right and ability to withhold the transfer of your Personally-identifiable information, individual information, personal data, and/or sensitive information by not establishing an account with this Service. You agree that the transfer of such information is necessary to establish a relationship with this Service, and by establishing an account with this Service you provide express voluntary consent for your Personally-identifiable information, individual information, personal data, and/or sensitive information to be transferred and processed outside of your country, including without limitation from the European Union to the United States. 
 
-  * GROUPS will not generally disclose any personal information to third parties without your consent. The term "personal information" is any information, data, or record that relates to your use of GROUPS and identifies you or your individual account, including without limitation your account information, content, personal data, and/or sensitive information. 
-  * By using GROUPS, you authorize us to disclose your personal information if we have a good faith belief that the access, use, preservation, or disclosure of such information is reasonably necessary to satisfy any applicable law, regulation, legal process, or enforceable governmental request; enforce applicable Terms of Service, including the investigation of potential violations thereof; detect, prevent, or otherwise address fraud, security, or technical issues; or protect against harm to the rights, property, or safety of GROUPS, its users, or the public as required or permitted by law. In your capacity as both the sender and the recipient of electronic communications on or through GROUPS, you expressly authorize us to access your personal information and to disclose your personal information to government agencies pursuant to valid legal procedures; this authorization relates to the personal information that you distribute on or through GROUPS as well as to the personal information that you store on GROUPS. 
-  * We follow generally accepted industry standards to protect personal information submitted to us, both during transmission and once we receive it. 
+We may request Personally-identifiable information on specific pages that allow users to contact us, including the "Contact Us," "Unsubscribe from e-mail," "Cancel my account," "Report Bugs," and "Help" services. In all of the above cases, such information is being collected to assist us in solving a specific issue addressed by a user and/or to allow us to contact a user with an appropriate response. At any point on our websites where Personally-identifiable information is requested, any information that is optional to provide, rather than mandatory, will be clearly marked as such.   
+  
+**Webcam Model Users**   
+We appreciate the trust you put in our Service and want to highlight _additional_ aspects of our policy relating uniquely to you. To become a webcam model you must provide us with your name, address, email address, date of birth, social security number, and other documentation and information which we use to verify your age and identity. The information that you provide or authorize us to collect or access is used to verify your age and identity, as well as to provide you with support services while you are using this Service. A third party service may be used to confidentially validate webcam models' age and identification information. You may receive email communications related to the support services that we provide to you. You may opt-out of such email communications at any time by contacting iFriends and discontinuing use of this Service. You may update or deactivate your information by contacting Webcam Model Support through the [iFriends Contact Form](http://www.ifriends.net/ifpage.dll?t=Site/Tools/Diamond/main.htm&p_V1_Email_Ref=help\[at\]ifriends\[dot\]net) or by contacting us by telephone or postal mail at the contact information listed below. You may also communicate with us about our use of your Content by contacting Webcam Model Support through the [iFriends Contact Form](http://www.ifriends.net/ifpage.dll?t=Site/Tools/Diamond/main.htm&p_V1_Email_Ref=help\[at\]ifriends\[dot\]net).   
+**Use of Personally-Identifiable Information**   
+We may use Personally-identifiable information in the following ways: we may store and process that information to better understand your needs and how we can improve our products and services, we may use that information to contact you about billing issues, technical issues, or as a follow up to your request to receive more information from us about products and services available through this Service, and we may use that information to ensure the protection of our rights. Financial information that is collected is used to check a user's qualifications for registration and to ensure proper payment for products and services. 
 
+When you provide us with Personally-identifiable information or authorize our access to it, such information will be gathered solely by this Service for use by us. In addition, companies who provide support services on our behalf, such as banking services, electronic payment services, email delivery services, age verification services, and other professional services may have limited access to your Personally-identifiable information in order to provide their services. These service providers do not use this information for other purposes beyond providing the service. We do not share, sell, rent, or trade your Personally-identifiable information with any third parties for their promotional purposes. 
 
+We may utilize electronic newsletters to reach all or a subset of all Subscribers, using the email address provided. When users opt-in to receive email notifications sent on behalf of webcam models, we do not, and will not, provide webcam models with access to such user information (in other words, we NEVER disclose user email addresses or other Personally-identifiable information to webcam models). Users may opt-out of such mailing lists at any time by following the instructions found [here](http://www.ifriends.net/ifpage.dll?t=site/general/legal/email_subscription_policy) or by following the instructions that will be sent as part of any such mailings. 
 
-**Your Own Responsibilities**
+By using this Service, you expressly authorize us to disclose your Personally-identifiable information if we have a good faith belief that the access, use, preservation, or disclosure of such information is reasonably necessary to satisfy any applicable law, regulation, legal process, or enforceable governmental request; enforce applicable Terms of Service, including the investigation of potential violations thereof; detect, prevent, or otherwise address fraud, security, or technical issues; or protect against harm to the rights, property, or safety of WebPower, Inc., its users, or the public as required or permitted by law. In your capacity as both the sender and the recipient of electronic communications on or through our Services, you expressly authorize us to access your Personally-identifiable information and to disclose your Personally-identifiable information to government agencies pursuant to valid legal procedures; this authorization relates to the Personally-identifiable information that you distribute on or through our Services as well as to the Personally-identifiable information that you store on our Services.   
+  
+**Changes to Personally-Identifiable Information**   
+If your Personally-identifiable information changes or if you no longer desire to use our Services, you may update or deactivate your information. You may update or deactivate your information by contacting Customer Care via the [iFriends Contact Form](http://www.ifriends.net/ifpage.dll?t=Site/Tools/Diamond/main.htm&p_V1_Email_Ref=help\[at\]ifriends\[dot\]net). If you prefer, you may contact us by telephone or postal mail at the contact information listed below. If you have already submitted Personally-identifiable information to us and would like us to remove it from our records, please contact us via the contact information listed at the bottom of this Policy.   
+**Non-Personally-Identifiable Information Collected Automatically**   
+In some cases, information that is not personally-identifiable may be automatically collected about you through server log files or cookies (examples of this type of information include without limitation your IP address, the type of internet browser you are using, the type of computer operating system you are using, and the domain name of the website from which you linked to our Service). For our Subscribers, at the time of registration, and only at the time of registration, we link this information to your account information, such as your email address; however, for non-registered users, we never link this information to any Personally-identifiable information. To learn how to prevent us from using cookies during your visit to this Service and how to erase cookies from your hard drive, see the [Guide to Managing Cookies](http://www.ifriends.net/ifpage.dll?t=site/general/erasecookies).   
+**Information That May Be Placed Automatically On Your Computer's Hard Drive**   
+When you view one of our websites or email communications, we may store some information on your computer. This information will be in the form of a "cookie" or similar file and will help us in many ways. For example, cookies allow us to tailor web pages and email communications to better match your interests and preferences, and maintain your login session. For our Subscribers, we link this information to your account information such as your email address; however, for non-registered users, we never link this information to any Personally-identifiable information. With most internet browsers, you can erase cookies from your computer hard drive, block all cookies, or receive a warning before a cookie is stored. Please refer to your browser instructions or help screen to learn more about these functions. To learn how to prevent us from using cookies during your visit to this Service and how to erase cookies from your hard drive, see the [Guide to Managing Cookies](http://www.ifriends.net/ifpage.dll?t=site/general/erasecookies).   
+**When You Share Your Information**   
+When you share your Personally-identifiable information with other users, you take a risk that they may use it in ways outside the scope of this Privacy Policy. Please exercise caution if you choose to disclose any of your Personally-identifiable information to other users in chat rooms, forums, or message boards, or in private communications.   
+**Security**   
+The security of your personal information is important to us. When you enter sensitive information (such as credit card number and/or social security number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). 
 
-  * Be cautious about disclosing your personal information to others in public forums in GROUPS communications services. GROUPS makes chatrooms, logs, and other public forums available to its users. Any information that is voluntarily disclosed by you in these areas becomes public information and GROUPS is not responsible for your disclosures or the consequences of those disclosures. **  **
+We follow generally accepted industry standards to protect the personal information, including your email address, submitted to us, both during transmission and once we receive it. No method of transmission over the internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. 
 
+If you have any questions about security on our website, you can contact us through the [iFriends Contact Form](http://www.ifriends.net/ifpage.dll?t=Site/Tools/Diamond/main.htm&p_V1_Email_Ref=security\[at\]ifriends\[dot\]net).   
+  
+**Minors**   
+Because we are an e-commerce-driven web-conferencing platform, our Service is directed to adults who possess validated credit-card information, and is never marketed to individuals under the age of 18\. Our tens of thousands of registered "webcam models" model chatrooms under a potentially infinite number of different categories, ranging from how/to instruction to adult-oriented topics. 
 
+Certain portions of this Service, which may contain content considered offensive to some, are inaccessible to individuals under the age of 18 via a standard "credit card wall," as advocated by the Communications Decency Act. For those portions which may be accessible to individuals under the age of 18, we have no intention of collecting any Personally-identifiable information from individuals under eighteen years of age. Where appropriate, we will specifically instruct minors not to submit such information on our websites or advertisements. If a minor has provided us with Personally-identifiable information, a parent or guardian of that minor should contact us via the contact form provided at the bottom of this Policy and we will use reasonable efforts to remove this information from our existing files.   
+  
+**Changes to Privacy Policy**   
+If we decide to change our Privacy Policy, we will post those changes to this Policy and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
 
-**Your Acceptance of These Terms**
+We reserve the right to modify this Privacy Policy at any time, so please review it frequently. If we make material changes to this Policy or in how we use Personally-identifiable information such as your email address, we will notify you here, by email, or by means of a notice on our home page.   
+  
+**Who to Contact**   
+If you have submitted Personally-identifiable information through this Service and would like that information removed from our records, please contact Customer Care via the [iFriends Contact Form](http://www.ifriends.net/ifpage.dll?t=Site/Tools/Diamond/main.htm&p_V1_Email_Ref=help\[at\]ifriends\[dot\]net) and provide us with your name, your screenname, and any information that you feel is important. We will use reasonable efforts to remove this information from our existing files. 
 
-  * By using this site, you signify your assent to the GROUPS Privacy Policy. If you do not agree to this policy, please do not use our sites. Your continued use of GROUPS following the posting of changes to these terms will mean you accept those changes. If we decide to change our privacy policy, we will post those changes to this privacy policy and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.   
+If you have further questions about this Privacy Policy: 
 
-  * We reserve the right to modify this privacy policy at any time, so please review it frequently. If we make material changes to this policy, we will notify you here or by means of a notice on our home page. If you have questions, please contact via the contact information indicated below. 
-  * Your use of GROUPS may also include the transfer of your personal information, individual information, personal data, and/or sensitive information outside of your country, including without limitation from the European Union to the United States. At all times, you have the right and ability to withhold the transfer of your personal information, individual information, personal data, and/or sensitive information by not establishing an account with GROUPS. You agree that the transfer of such information is necessary to establish a relationship with GROUPS, and by establishing an account with GROUPS you provide express voluntary consent for your personal information, individual information, personal data, and/or sensitive information to be transferred and processed outside of your country, including without limitation from the European Union to the United States. 
+  1. Contact us online through our [iFriends Contact Form](http://www.ifriends.net/ifpage.dll?t=Site/Tools/Diamond/main.htm&p_V1_Email_Ref=help\[at\]ifriends\[dot\]net)
+  2. Contact us at our toll-free telephone number: 1-800-437-4363  
+([Click here](http://www.ifriends.net/ifpage.dll?t=site/general/customerservice/contacts#telephone) for international contact info)
+  3. Contact us at our postal address: 
 
-
-
-**Contact Us**
-
-  * If you have further questions about this privacy policy: 
-    * Contact us at our email address: privacy@rmtinfo.com
-    * Contact us at our postal address: 
-
-Attn: Groups Privacy Dept.   
-3395 S. Jones Blvd., Suite 22   
-Las Vegas, NV 89146 USA 
+Attention: Privacy Department  
+3395 S. Jones Blvd., Suite 22  
+Las Vegas, NV 89146 USA
 
 
 
