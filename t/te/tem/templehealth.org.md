@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the templehealth.org privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231003600id_/http%3A//www.templehealth.org/privacy-hipaa.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the templehealth.org privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630231635id_/http%3A//www.templehealth.org/privacy-hipaa.html) for the most accurate reproduction.*
 
 # TUHS Disclaimer Page
 
 ## Non-Discrimination Notice
 
-Temple University Hospital and Jeanes Hospital do not exclude participation in, and no one is denied the benefits of, the delivery of quality medical care on the basis of race, religious creed, sex, sexual orientation, gender identity, disability, age, ancestry, color, national origin, physical ability, or source of payment. 
+Temple University Hospital, Inc., Jeanes Hospital, and the American Oncologic Hospital, doing business as Fox Chase Cancer Center do not exclude participation in, and no one is denied the benefits of, the delivery of quality medical care on the basis of race, religious creed, sex, sexual orientation, gender identity, disability, age, ancestry, color, national origin, physical ability, or source of payment. 
 
 ## HIPAA
 
