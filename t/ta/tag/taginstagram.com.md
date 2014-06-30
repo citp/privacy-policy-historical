@@ -1,100 +1,195 @@
-> *The following text is extracted and transformed from the taginstagram.com privacy policy that was archived on 2012-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121225102936id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taginstagram.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630105927id_/http%3A//instagram.com/about/legal/privacy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy • Instagram
 
-**Go Daddy Respects Your Privacy**
+## Important Update
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+In September 2012, we announced that Instagram had been acquired by Facebook. We knew that by teaming up with Facebook, we could build a better Instagram for you. Since then, we've been collaborating with Facebook's team on ways to do just that. As part of our new collaboration, we've learned that by being able to share insights and information with each other, we can build better experiences for our users.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+We're updating our Privacy Policy to highlight this new collaboration, but we want to make sure you understand that you still have control over who sees your photos. You still get to choose who can see your Instagram photos, and you still get to choose whether you post your photos on Facebook. So while we're looking forward to working closely with Facebook to build better experiences, we aren't changing the core features of the app that you've come to know and love.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
-
-**Information Collection and Use**
-
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
-
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
-
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
-
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
-
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
-
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
-
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
-
-**Security**
-
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
-
-**Updating Your Information**
-
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
-
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
-
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
-
-      iii.      You may call us at: (480) 505-8800
-
-       iv.      You may fax us at: (480) 505-8844
-
-**Sending Emails**
-
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
-
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
-
-**Compliance with Laws and Law Enforcement**
-
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
-
-**Third Party Service Providers**
-
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
-
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
-
-**Supplementation of Information**
-
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
-
-**Contests/Surveys**
-
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+Our new Privacy Policy is effective on January 19, 2013. To learn about how we treat information collected prior to January 19, 2013, please [click here](https://web.archive.org/about/legal/privacy/before-january-19-2013/).
 
 * * *
 
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+## **Privacy Policy**
+
+Effective date: January 19, 2013
+
+Welcome to Instagram ("Instagram," "we," "us" or "our"). Instagram provides a fast, beautiful and fun way for you to share media through our content-sharing platform. Just snap a photo, choose a filter to transform the look and feel, add comments (if you like) and share!
+
+  * Our Privacy Policy explains how we and some of the companies we work with collect, use, share and protect information in relation to our mobile services, web site, and any software provided on or in connection with Instagram services (collectively, the " **Service** "), and your choices about the collection and use of your information.
+  * By using our Service you understand and agree that we are providing a platform for you to post content, including photos, comments and other materials (" **User Content** "), to the Service and to share User Content publicly. This means that other Users may search for, see, use, or share any of your User Content that you make publicly available through the Service, consistent with the terms and conditions of this Privacy Policy and our Terms of Use (which can be found at <http://instagram.com/legal/terms>).
+  * Our Policy applies to all visitors, users, and others who access the Service (" **Users** ").
+
+
+
+Click on the links below to jump to each section of this Policy:
+
+  1. Information We Collect
+  2. How We Use Your Information
+  3. Sharing of Your Information
+  4. How We Store Your Information
+  5. Your Choices About Your Information
+  6. Children's Privacy
+  7. Other Websites and Services
+  8. How to Contact Us About a Deceased User
+  9. How to Contact Us
+  10. Changes to Our Privacy Policy
+
+
+
+**1\. INFORMATION WE COLLECT**
+
+We collect the following types of information.
+
+**Information you provide us directly:**
+
+  * Your username, password and e-mail address when you register for an Instagram account.
+  * Profile information that you provide for your user profile (e.g., first and last name, picture, phone number). This information allows us to help you or others be "found" on Instagram.
+  * User Content (e.g., photos, comments, and other materials) that you post to the Service.
+  * Communications between you and Instagram. For example, we may send you Service-related emails (e.g., account verification, changes/updates to features of the Service, technical and security notices). Note that you may not opt out of Service-related e-mails.
+
+
+
+**Finding your friends on Instagram:**
+
+  * If you choose, you can use our "Find friends" feature to locate other people with Instagram accounts either through (i) your contacts list, (ii) third-party social media sites or (iii) through a search of names and usernames on Instagram.
+  * If you choose to find your friends through (i) your device's contacts list, then Instagram will access your contacts list to determine whether or not someone associated with your contact is using Instagram.
+  * If you choose to find your friends through a (ii) third-party social media site, then you will be prompted to set up a link to the third-party service and you understand that any information that such service may provide to us will be governed by this Privacy Policy.
+  * If you choose to find your friends (iii) through a search of names or usernames on Instagram then simply type a name to search and we will perform a search on our Service.
+  * **Note about "Invite Friends" feature:** If you choose to invite someone to the Service through our "Invite friends" feature, you may select a person directly from the contacts list on your device and send a text or email from your personal account. You understand and agree that you are responsible for any charges that apply to communications sent from your device, and because this invitation is coming directly from your personal account, Instagram does not have access to or control this communication.
+
+
+
+**Analytics information:**
+
+  * We use third-party analytics tools to help us measure traffic and usage trends for the Service. These tools collect information sent by your device or our Service, including the web pages you visit, add-ons, and other information that assists us in improving the Service. We collect and use this analytics information with analytics information from other Users so that it cannot reasonably be used to identify any particular individual User.
+
+
+
+**Cookies and similar technologies:**
+
+  * When you visit the Service, we may use cookies and similar technologies like pixels, web beacons, and local storage to collect information about how you use Instagram and provide features to you.
+  * We may ask advertisers or other partners to serve ads or services to your devices, which may use cookies or similar technologies placed by us or the third party.
+  * More information is available in our [About Cookies](https://web.archive.org/legal/cookies/) section
+
+
+
+**Log file information:**
+
+  * Log file information is automatically reported by your browser each time you make a request to access (i.e., visit) a web page or app. It can also be provided when the content of the webpage or app is downloaded to your browser or device.
+  * When you use our Service, our servers automatically record certain log file information, including your web request, Internet Protocol ("IP") address, browser type, referring / exit pages and URLs, number of clicks and how you interact with links on the Service, domain names, landing pages, pages viewed, and other such information. We may also collect similar information from emails sent to our Users which then help us track which emails are opened and which links are clicked by recipients. The information allows for more accurate reporting and improvement of the Service.
+
+
+
+**Device identifiers:**
+
+  * When you use a mobile device like a tablet or phone to access our Service, we may access, collect, monitor, store on your device, and/or remotely store one or more "device identifiers." Device identifiers are small data files or similar data structures stored on or associated with your mobile device, which uniquely identify your mobile device. A device identifier may be data stored in connection with the device hardware, data stored in connection with the device's operating system or other software, or data sent to the device by Instagram.
+  * A device identifier may deliver information to us or to a third party partner about how you browse and use the Service and may help us or others provide reports or personalized content and ads. Some features of the Service may not function properly if use or availability of device identifiers is impaired or disabled.
+
+
+
+**Metadata:**
+
+  * Metadata is usually technical data that is associated with User Content. For example, Metadata can describe how, when and by whom a piece of User Content was collected and how that content is formatted.
+  * Users can add or may have Metadata added to their User Content including a hashtag (e.g., to mark keywords when you post a photo), geotag (e.g., to mark your location to a photo), comments or other data. This makes your User Content more searchable by others and more interactive. If you geotag your photo or tag your photo using other's APIs then, your latitude and longitude will be stored with the photo and searchable (e.g., through a location or map feature) if your photo is made public by you in accordance with your privacy settings.
+
+
+
+**2\. HOW WE USE YOUR INFORMATION**
+
+In addition to some of the specific uses of information we describe in this Privacy Policy, we may use information that we receive to:
+
+  * help you efficiently access your information after you sign in
+  * remember information so you will not have to re-enter it during your visit or the next time you visit the Service;
+  * provide personalized content and information to you and others, which could include online ads or other forms of marketing
+  * provide, improve, test, and monitor the effectiveness of our Service
+  * develop and test new products and features
+  * monitor metrics such as total number of visitors, traffic, and demographic patterns
+  * diagnose or fix technology problems
+  * automatically update the Instagram application on your device Instagram or other Users may run contests, special offers or other events or activities ("Events") on the Service. If you do not want to participate in an Event, do not use the particular Metadata (i.e. hashtag or geotag) associated with that Event.
+
+
+
+**3\. SHARING OF YOUR INFORMATION**
+
+We will not rent or sell your information to third parties outside Instagram (or the group of companies of which Instagram is a part) without your consent, except as noted in this Policy.
+
+**Parties with whom we may share your information:**
+
+  * We may share User Content and your information (including but not limited to, information from cookies, log files, device identifiers, location data, and usage data) with businesses that are legally part of the same group of companies that Instagram is part of, or that become part of that group ("Affiliates"). Affiliates may use this information to help provide, understand, and improve the Service (including by providing analytics) and Affiliates' own services (including by providing you with better and more relevant experiences). But these Affiliates will honor the choices you make about who can see your photos.
+  * We also may share your information as well as information from tools like cookies, log files, and device identifiers and location data, with third-party organizations that help us provide the Service to you ("Service Providers"). Our Service Providers will be given access to your information as is reasonably necessary to provide the Service under reasonable confidentiality terms.
+  * We may also share certain information such as cookie data with third-party advertising partners. This information would allow third-party ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you.
+  * We may remove parts of data that can identify you and share anonymized data with other parties. We may also combine your information with other information in a way that it is no longer associated with you and share that aggregated information.
+
+
+
+**Parties with whom you may choose to share your User Content:**
+
+  * Any information or content that you voluntarily disclose for posting to the Service, such as User Content, becomes available to the public, as controlled by any applicable privacy settings that you set. To change your privacy settings on the Service, please change your profile setting. Once you have shared User Content or made it public, that User Content may be re-shared by others.
+  * Subject to your profile and privacy settings, any User Content that you make public is searchable by other Users and subject to use under our Instagram API. The use of the Instagram API is subject to the [API Terms of Use](http://instagram.com/about/legal/terms/api/) which incorporates the terms of this Privacy Policy.
+  * If you remove information that you posted to the Service, copies may remain viewable in cached and archived pages of the Service, or if other Users or third parties using the Instagram API have copied or saved that information.
+
+
+
+**What happens in the event of a change of control:**
+
+  * If we sell or otherwise transfer part or the whole of Instagram or our assets to another organization (e.g., in the course of a transaction like a merger, acquisition, bankruptcy, dissolution, liquidation), your information such as name and email address, User Content and any other information collected through the Service may be among the items sold or transferred. You will continue to own your User Content. The buyer or transferee will have to honor the commitments we have made in this Privacy Policy.
+
+
+
+**Responding to legal requests and preventing harm:**
+
+  * We may access, preserve and share your information in response to a legal request (like a search warrant, court order or subpoena) if we have a good faith belief that the law requires us to do so. This may include responding to legal requests from jurisdictions outside of the United States where we have a good faith belief that the response is required by law in that jurisdiction, affects users in that jurisdiction, and is consistent with internationally recognized standards. We may also access, preserve and share information when we have a good faith belief it is necessary to: detect, prevent and address fraud and other illegal activity; to protect ourselves, you and others, including as part of investigations; and to prevent death or imminent bodily harm. Information we receive about you may be accessed, processed and retained for an extended period of time when it is the subject of a legal request or obligation, governmental investigation, or investigations concerning possible violations of our terms or policies, or otherwise to prevent harm.
+
+
+
+**4\. HOW WE STORE YOUR INFORMATION**
+
+**Storage and Processing:**
+
+  * Your information collected through the Service may be stored and processed in the United States or any other country in which Instagram, its Affiliates or Service Providers maintain facilities.
+  * Instagram, its Affiliates, or Service Providers may transfer information that we collect about you, including personal information across borders and from your country or jurisdiction to other countries or jurisdictions around the world. If you are located in the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that we may transfer information, including personal information, to a country and jurisdiction that does not have the same data protection laws as your jurisdiction.
+  * By registering for and using the Service you consent to the transfer of information to the U.S. or to any other country in which Instagram, its Affiliates or Service Providers maintain facilities and the use and disclosure of information about you as described in this Privacy Policy.
+  * We use commercially reasonable safeguards to help keep the information collected through the Service secure and take reasonable steps (such as requesting a unique password) to verify your identity before granting you access to your account. However, Instagram cannot ensure the security of any information you transmit to Instagram or guarantee that information on the Service may not be accessed, disclosed, altered, or destroyed.
+  * Please do your part to help us. You are responsible for maintaining the secrecy of your unique password and account information, and for controlling access to emails between you and Instagram, at all times. Your privacy settings may also be affected by changes the social media services you connect to Instagram make to their services. We are not responsible for the functionality, privacy, or security measures of any other organization.
+
+
+
+**5\. YOUR CHOICES ABOUT YOUR INFORMATION**
+
+**Your account information and profile/privacy settings:**
+
+  * Update your account at any time by logging in and changing your profile settings.
+  * Unsubscribe from email communications from us by clicking on the "unsubscribe link" provided in such communications. As noted above, you may not opt out of Service-related communications (e.g., account verification, purchase and billing confirmations and reminders, changes/updates to features of the Service, technical and security notices).
+  * [Learn more](http://help.instagram.com/284802804971822/) about reviewing or modifying your account information.
+
+
+
+**How long we keep your User Content:**
+
+  * Following termination or deactivation of your account, Instagram, its Affiliates, or its Service Providers may retain information (including your profile information) and User Content for a commercially reasonable time for backup, archival, and/or audit purposes.
+  * [Learn more](http://help.instagram.com/448136995230186/) about deleting your account.
+
+
+
+**6\. CHILDREN'S PRIVACY**
+
+Instagram does not knowingly collect or solicit any information from anyone under the age of 13 or knowingly allow such persons to register for the Service. The Service and its content are not directed at children under the age of 13. In the event that we learn that we have collected personal information from a child under age 13 without parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please [contact us](http://help.instagram.com/290666591035380/).
+
+**7\. OTHER WEB SITES AND SERVICES**
+
+We are not responsible for the practices employed by any websites or services linked to or from our Service, including the information or content contained within them. Please remember that when you use a link to go from our Service to another website or service, our Privacy Policy does not apply to those third-party websites or services. Your browsing and interaction on any third-party website or service, including those that have a link on our website, are subject to that third party's own rules and policies. In addition, you agree that we are not responsible and do not have control over any third-parties that you authorize to access your User Content. If you are using a third-party website or service and you allow them to access your User Content you do so at your own risk.
+
+**8\. HOW TO CONTACT US ABOUT A DECEASED USER**
+
+In the event of the death of an Instagram User, please [contact us](http://help.instagram.com/264154560391256/). We will usually conduct our communication via email; should we require any other information, we will contact you at the email address you have provided in your request.
+
+**9\. HOW TO CONTACT US**
+
+If you have any questions about this Privacy Policy or the Service, please find the appropriate support channel in the [Instagram Help Center](http://help.instagram.com/) at which to contact us.
+
+**10\. CHANGES TO OUR PRIVACY POLICY**
+
+Instagram may modify or update this Privacy Policy from time to time, so please review it periodically. We may provide you additional forms of notice of modifications or updates as appropriate under the circumstances. Your continued use of Instagram or the Service after any modification to this Privacy Policy will constitute your acceptance of such modification.
