@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gayot.com privacy policy that was archived on 2013-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130921074631id_/http%3A//www.gayot.com/aboutus/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gayot.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630043643id_/http%3A//www.gayot.com/aboutus/privacy.html) for the most accurate reproduction.*
 
 # GAYOT.com Privacy Policy About Us | Gayot
 
