@@ -1,9 +1,11 @@
-> *The following text is extracted and transformed from the altitude-sports.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218031535id_/http%3A//www.altitude-sports.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the altitude-sports.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630055749id_/http%3A//www.altitude-sports.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
   * What information does Altitude-sports.com collect?
   * How is Your Personal Information Used?
+  * Does Altitude-sports.com Share Your Information?
+  * Service Providers
   * Your Consent
   * Aggregate Site Use Information
   * Cookie Use
@@ -20,7 +22,8 @@
 
 
 
-    The following policy is enacted to show Altitude-sports.com’ commitment to your privacy. If you should have any questions or concerns about this policy, please contact our [customer service](http://www.altitude-sports.com/en/contacts/).
+    We will never sell or rent your email address or any other information without your permission. Altitude-sports.com is on your side, especially when it comes to keeping your information safe. Natuarlly, the business world includes relations, and so we convey certain information to do business with you. We need certain information and must share it, such as your postal address if we wish to ship you your order. However, if we ask for certain personal information we will explain specifically for what reason we are collecting it.
+    The following policy is enacted to show Altitude-sports.com’s commitment to your privacy. If you should have any questions or concerns about this policy, please contact our [customer service](http://www.altitude-sports.com/en/contacts/).
 What information does Altitude-sports.com collect?
     At Altitude Sports, we collect two types of information: personal information and non-personal information. The types of information we collect depend on the nature of your interaction with us.
     Personal information
@@ -52,10 +55,21 @@ How is Your Personal Information Used?
   * detect and protect against fraud and error;
   * track and analyze your purchases and preferences to better understand your product and service needs and eligibility;
   * tailor our online content or in-store offerings based on your preferences;
+  * market and advertise products and services;
+  * communicate things like special events, promotions and surveys;
   * if you ask us, to offer and promote additional products and services we offer; and
   * for other purposes as described in this Privacy Policy. 
 
 
+    [ Top of page ]
+Does Altitude-sports.com Share Your Information?
+    Altitude-sports.com does not sell or rent our customers' personal information to any other party. However, in the normal course of business we may share some of your personal information within our corporate family and with third parties acting on our behalf or as permitted or required by law.
+    Some of these operations may result in personal information collected by Altitude-sports.com being stored or processed outside of Canada and, as a result, your personal information may be accessible to law enforcement and regulatory authorities in accordance with the law of these foreign jurisdictions.
+    [ Top of page ]
+Service Providers
+    Altitude-sports.com may use third parties to manage one of more aspects of our business operations, including the processing or handing of personal information. When we do use an outside company, we use contractual or other appropriate means to ensure that your personal information is used in a manner that is consistent with this Privacy Policy.
+    For example, we may share personal information with third parties to perform services on our behalf such as: fulfilling online orders, processing non-cash payments, sending marketing communications, servicing products, conducting research surveys, verifying and validating information that you have provided to us, delivering products, and providing customer support services.
+    Altitude-sports.com has taken precautions to prevent the fraudulent use of your information on our Web Sites. Altitude-sports.com has adopted industry standard authentication procedures to ensure your protection while shopping with us online. This includes, but is not limited to, contacting financial institutions or credit reporting agencies to ensure the authenticity of your credit card and to validate your credit card billing information.
     [ Top of page ]
 Your Consent
     Altitude-sports.com will collect, use, or disclose your personal information only with your knowledge and consent, except where required or permitted by law. When you choose to provide us with your personal information you consent to the use of your personal information as identified in this Privacy Policy and as may be further identified at the time of collection.
@@ -89,7 +103,8 @@ Altitude-sports.com Membership Information
     Membership information previously provided to Altitude-sports.com can be up updated online at www.altitude-sports.com, or by calling our customer service at 1 800 729-0322 (Canada and U.S.) or (514) 495-1111 (Local and International).Membership information previously provided to Altitude-sports.com can be up updated online at www.altitude-sports.com, or by calling our [customer service](http://www.altitude-sports.com/en/contacts/).
     [ Top of page ]
 Newsletter Subscription
-    Newsletters are sent only to users who choose to provide us with their email address. Our newsletter subscriber database is never sold, rented or loaned to any other parties. Subscribers wishing to update their contact information, or opt out of receiving newsletters, can contact our [customer service](http://www.altitude-sports.com/en/contacts/).
+    Our newsletters are sent to people and businesses with whom Altitude-sports.com has established a business relationship. By business relationship we mean all people and businesses who have placed an order on the website of Altitude-sports.com. By accepting the transaction conditions on the Altitude-sports.com website, the person and/or business consents tacitly to receiving the Altitude-sports.com newsletter. If you do not wish to receive our newsletter, click on “Unsubscribe” at the upper left-hand corner of the email, and follow the instructions.
+    Subscribers wishing to update their contact information, or opt out of receiving newsletters, can contact our [customer service](http://www.altitude-sports.com/en/contacts/).
     We collect aggregate information regarding open rates, page views, and generated sales from our HTML email newsletters. Aggregate information does not personally identify individuals. Subscribers concerned about collection of aggregate information may contact our [customer service](http://www.altitude-sports.com/en/contacts/).
     [ Top of page ]
 Opting Out
