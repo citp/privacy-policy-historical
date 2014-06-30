@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the namebright.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331022934id_/https%3A//www.namebright.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the namebright.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701013059id_/https%3A//www.namebright.com/Privacy) for the most accurate reproduction.*
 
 # NameBright - Privacy Policy
 
