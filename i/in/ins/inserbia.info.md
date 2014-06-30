@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the inserbia.info privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208193745id_/http%3A//inserbia.info/news/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inserbia.info privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630154449id_/http%3A//inserbia.info/today/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – InSerbia News
+# Privacy | InSerbia News
 
 This document sets out the privacy policy of InSerbia network of websites (“InSerbia”) and explains how we collect and use your data. Your privacy is important to us.
 
