@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the shopwiki.co.uk privacy policy that was archived on 2013-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130813215808id_/http%3A//www.shopwiki.co.uk/w/Help%253APrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopwiki.co.uk privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630112919id_/http%3A//www.shopwiki.co.uk/w/Help%253APrivacy) for the most accurate reproduction.*
 
 # Privacy
-
-## ShopWiki Privacy Policy
 
 #### Last Updated: May 18, 2012
 
