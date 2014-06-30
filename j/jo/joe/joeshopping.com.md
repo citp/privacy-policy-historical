@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joeshopping.com privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819072833id_/http%3A//www.joeshopping.com/articles/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joeshopping.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630045643id_/http%3A//www.joeshopping.com/articles/Privacy-Policy) for the most accurate reproduction.*
 
 # JoeShopping.com Privacy Policy
 
