@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oshatrain.org privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230101709id_/http%3A//www.oshatrain.org/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oshatrain.org privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630093218id_/http%3A//www.oshatrain.org/pages/privacy.html) for the most accurate reproduction.*
 
 # OSHAcademy | Free Online OSHA Health and Safety Training - 132 Hour OSH Professional Program
 
@@ -32,7 +32,7 @@ Most Web browsers automatically accept cookies, but you can usually modify your 
 
 ## **Enforcement of this Privacy Statement**
 
-If you have questions regarding this statement, contact Geigle Safety Group, Inc. via [email](https://web.archive.org/web/20131230101709id_/http%3A//www.oshatrain.org/pages/444php/contact444.php) or by calling 971.327.4103.
+If you have questions regarding this statement, contact Geigle Safety Group, Inc. via [email](https://web.archive.org/web/20140630093218id_/http%3A//www.oshatrain.org/pages/444php/contact444.php) or by calling 971.327.4103.
 
 ## **Changes to this Statement**
 
