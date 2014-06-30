@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the buyerpricer.com privacy policy that was archived on 2013-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131123074622id_/http%3A//www7.buyerpricer.com/Privacy.aspx%3Fvx%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyerpricer.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630205801id_/http%3A//www8.buyerpricer.com/Privacy.aspx%3Fvx%3D0) for the most accurate reproduction.*
 
-# BuyerPricer.com
+# BuyerPricer.com - BuyerPricer.com
 
 At BuyerPricer.com we appreciate your privacy and hope that you feel comfortable trusting us. BuyerPricer.com provides a comparison shopping service that enables consumers to compare prices, products and stores when they shop online. We believe that you have a right to know what information we collect, how we intend to use that information, whom we intend to share it with, and what measures we take to keep that information secure. 
 
 ## Collecting Your Information
 
-We collect information at several stages during your interaction with . When you first enter our site, we note your IP address and time of your visit. As you browse the site, we record your zipcode via a cookie so we can serve more location specific information on your next visit. We will not collect any personally identifiable information about you. Cookies do not recognise you as a person, just your computer.
+We collect information at several stages during your interaction with BuyerPricer.com. When you first enter our site, we note your IP address and time of your visit. As you browse the site, we record your zipcode via a cookie so we can serve more location specific information on your next visit. We will not collect any personally identifiable information about you. Cookies do not recognise you as a person, just your computer.
 
 You are always free to decline our cookies if your browser permits although in that case you may not be able to use certain features on our site.
 
@@ -28,14 +28,10 @@ The privacy and protection of your personal information is vitally important to 
 
 This Website Privacy Statement is effective as of the date listed below. Even if you read and/or agreed to a prior policy statement, you need to review this updated version. If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, or other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected. If, however, we are going to use users personally identifiable information in a manner different from that stated at the time of collection we will notify users by posting a notice on our Web site for 30 days.
 
-## Google Maps API
-
-BuyerPricer.com uses the Google Maps API and adheres to all privacy requirements thereof. Please view the [Google Privacy Policy](http://www.google.com/policies/privacy/) for more information.
-
 ## Questions?
 
-We welcome any questions or comments you have about our privacy practices. Please feel free to contact us at: [Feedback](https://web.archive.org/web/20131123074622id_/http%3A//www7.buyerpricer.com/contact.aspx).
+We welcome any questions or comments you have about our privacy practices. Please feel free to contact us at: [Feedback](https://web.archive.org/web/20140630205801id_/http%3A//www8.buyerpricer.com/contact.aspx).
 
-**Effective Date: Privacy Notice last modified April 5, 2009.**
+**Effective Date: Privacy Notice last modified February 19, 2014.**
 
-© 2013 BuyerPricer.com 
+© 2014 BuyerPricer.com 
