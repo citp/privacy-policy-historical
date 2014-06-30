@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the parse.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424185308id_/https%3A//parse.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parse.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630205019id_/https%3A//parse.com/about/privacy) for the most accurate reproduction.*
 
 # Policies - Privacy | Parse
 
-Last Updated: 4/25/12
+Last Updated: 8/27/13
 
 ## 1\. Web Site Covered
 
@@ -74,7 +74,7 @@ To facilitate Parse’s global operations, the Company may transfer and access D
 
 ## 8\. Communications Preferences
 
-Parse offers Customers and Visitors who provide contact information a means to choose how the Company uses the information provided. You may manage your receipt of marketing and non-transactional communications by clicking on the “unsubscribe” link located on the bottom of the Company’s marketing emails. Additionally, you may send a request specifying your communications preferences to support@parse.com. Customers cannot opt out of receiving transactional emails related to their account with Parse or the Services.
+Parse offers Customers and Visitors who provide contact information a means to choose how the Company uses the information provided. You may manage your receipt of marketing and non-transactional communications by clicking on the “unsubscribe” link located on the bottom of the Company’s marketing emails. Additionally, you may send a request specifying your communications preferences to community@parse.com. Customers cannot opt out of receiving transactional emails related to their account with Parse or the Services.
 
 ## 9\. Correcting and Updating Your Information
 
@@ -90,10 +90,6 @@ Parse reserves the right to change this Privacy Statement. Parse will provide no
 
 ## 12\. Contacting Us
 
-Questions regarding this Privacy Statement or the information practices of the Company’s Web site should be directed to feedback@parse.com or by mailing Parse, 8 California St., Suite 200, San Francisco, CA 94111.
-
-## 13\. EU Safe Harbor
-
-Parse complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Parse has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Parse’s certification, please visit <http://www.export.gov/safeharbor/>
+If you have questions or complaints regarding our Privacy Statement or practices, please contact us by mail. If you are located in the U.S. or Canada, our mailing address is Facebook Inc., 1601 Willow Road, Menlo Park, CA 94025. If you are located outside the U.S. or Canada, our mailing address is Facebook Ireland Ltd., Hanover Reach, 5-7 Hanover Quay, Dublin 2 Ireland. You may also contact us at community@parse.com.
 
 These policies are inspired by the policies of [Google App Engine](http://developers.google.com/appengine/terms) and [Heroku](http://policy.heroku.com/). The original works have been modified. Parse is not affiliated with or sponsored by Google or Heroku.
