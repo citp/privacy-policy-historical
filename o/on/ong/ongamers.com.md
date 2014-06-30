@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ongamers.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231221753id_/http%3A//legalterms.cbsinteractive.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ongamers.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630214640id_/http%3A//legalterms.cbsinteractive.com/privacy) for the most accurate reproduction.*
 
 # CBSi Privacy Policy
 
@@ -9,7 +9,7 @@ Trust is a cornerstone of our mission at CBS Interactive. We are committed to ga
 |  Scope of Privacy Policy  
 ---  
   
-CBS Interactive owns, operates, or provides access to, several interactive web sites and other interactive features that provide an authorized link to the [CBS Interactive Privacy Policy](https://cbsi.secure.force.com/CBSi/articles/FAQ/Privacy-Policy?template=template_mobilePrivacy&referer=mobilepprivacy.com&data=&cfs=default) (collectively "CBS Interactive Web Sites"). This Privacy Policy, effective November 15, 2013, is guided by a core set of [Privacy Principles](https://cbsi.secure.force.com/CBSi/articles/FAQ/mPrivacy-Principles?template=template_mobilepp&referer=mobilepp.com&data=&cfs=default) and applies only to the [CBS Interactive Web Sites](http://www.cbsinteractive.com/our_brands.php).
+CBS Interactive owns, operates, or provides access to, several interactive web sites and other interactive features that provide an authorized link to the [CBS Interactive Privacy Policy](https://cbsi.secure.force.com/CBSi/articles/FAQ/Privacy-Policy?template=template_mobilePrivacy&referer=mobilepprivacy.com&data=&cfs=default) (collectively "CBS Interactive Web Sites"). This Privacy Policy, effective January 2, 2014, is guided by a core set of [Privacy Principles](https://cbsi.secure.force.com/CBSi/articles/FAQ/mPrivacy-Principles?template=template_mobilepp&referer=mobilepp.com&data=&cfs=default) and applies only to the [CBS Interactive Web Sites](http://www.cbsinteractive.com/our_brands.php).
 
   
   
