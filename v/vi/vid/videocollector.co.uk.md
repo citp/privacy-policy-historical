@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videocollector.co.uk privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817183821id_/http%3A//www.videocollector.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videocollector.co.uk privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630142202id_/http%3A//videocollector.co.uk/privacy.php) for the most accurate reproduction.*
 
 # VideoCollector.co.uk Privacy Policy
 
@@ -38,12 +38,12 @@ You can chose to disable or selectively turn off our cookies or third-party cook
 
 * * *
 
-[](http://videocollector.co.uk/exorcist-the/13075 "Exorcist, The")
+[](http://videocollector.co.uk/youngblood/13614 "Youngblood")
 
-[](http://videocollector.co.uk/formula-the/13450 "Formula, The")
+[](http://videocollector.co.uk/best-of-bon-jovi-the-crossroad/24652 "Best of Bon Jovi, The: Crossroad")
 
-[](http://videocollector.co.uk/commando/14669 "Commando")
+[](http://videocollector.co.uk/barney-live/24403 "Barney: Live")
 
-[](http://videocollector.co.uk/hitcher-the-the-big-picture/15306 "Hitcher, The \(The Big Picture\)")
+[](http://videocollector.co.uk/terminator-2-judgement-day/17629 "Terminator 2: Judgement Day")
 
-[](http://videocollector.co.uk/rocketeer/15123 "Rocketeer")
+[](http://videocollector.co.uk/kingdom-of-the-spiders/13334 "Kingdom of the Spiders")
