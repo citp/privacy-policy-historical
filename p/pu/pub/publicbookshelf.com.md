@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the publicbookshelf.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216054943id_/http%3A//www.publicbookshelf.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publicbookshelf.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630141642id_/http%3A//www.publicbookshelf.com/privacy-policy) for the most accurate reproduction.*
 
 # PublicBookshelf: Privacy
 
