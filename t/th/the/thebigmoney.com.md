@@ -1,65 +1,117 @@
-> *The following text is extracted and transformed from the thebigmoney.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231073956id_/http%3A//www.slate.com/articles/briefing/slate_user_agreement_and_privacy_policy/2012/12/slate_s_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebigmoney.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630143318id_/http%3A//www.slate.com/articles/briefing/slate_user_agreement_and_privacy_policy/2012/12/slate_s_privacy_policy.html) for the most accurate reproduction.*
 
 # Slate's privacy policy.
 
 ## Our data-collection practices.
 
-This Privacy Policy governs Slate's data collection practices. At the same time that Slate is committed to bringing you information tailored to your individual needs, we recognize the importance of protecting the privacy of your personally identifiable information. In adopting this Privacy Policy, our intent is to balance our legitimate business interests in collecting and using personally identifiable information and your reasonable expectations of privacy. Please note: this policy applies only to information collected by Slate, and does not govern or apply to information collected or used by Slate, Graham Holdings Company or its divisions or affiliates through other means.
+Last Updated: February 28, 2014.
 
-**What personally identifiable information do I provide to Slate?**
+The Slate Group LLC (“Slate,” “we,” or “us”) is committed to bringing you information tailored to your individual needs while protecting the privacy of your information.  This Privacy Policy (“Policy”) describes how we collect, use, and disclose information through the websites, mobile applications, and other online services and products that link to or post this Policy (collectively, the “Services”).  Please read the entire Privacy Policy before using our Services.  By using the Services, you consent to the terms of this Privacy Policy.
 
-Slate may ask you to provide various types of personally identifiable information to enhance your experience on our site. For example, Slate may ask for information such as your name or e-mail address. The more information you provide, the better we are able to customize your experience. We may also ask you for other information at other times - such as when you enter a contest or participate in a promotion, when you participate in our message boards, or when you order products from Slate. Whenever you provide personally identifiable information to us, we will make an effort to link to our Privacy Policy. See below about "cookies" and what other information is collected.
+**1.      ** **Information We Collect**
 
-**How does Slate use my personally identifiable information?**
+You generally are not required to provide information about yourself when you visit the Services.  However, we may ask you for some or all of the following types of information when you register with our Services, access various content or features, register for contests or sweepstakes, submit comments and other content, order products, or directly contact us with questions or feedback:
 
-Our primary goal in collecting personally identifiable information is to provide you, the user, with a customized experience on our network of sites. This includes personalization services, interactive communications, online shopping and many other types of services, most of which are completely free to you. Slate uses the personally identifiable information you provide to us in several ways. Some examples follow.
+  * Contact information, such as name, e-mail address, postal address, and telephone number;
+  * User name, display name, and password;
+  * Demographic information, such as age information and gender;
+  * Payment information, such as credit card number and expiration date;
+  * Geolocation information;
+  * Communications preferences;
+  * Search queries;
+  * Stories, comments, photos, and other information posted in our interactive online features;
+  * Correspondence and other information that you send to us; and
+  * Additional information as otherwise described to you at the point of collection or pursuant to your consent.
 
-A user's personally identifiable information may be used by Slate for editorial purposes such as to contact you as part of an online survey. Additionally, we may also use the information provided by you to: 1) contact you with legal notices, 2) to advise you of any changes or additions to our Service or terms and conditions, and 3) account status (including confirmation of registrations).
 
-We may also use information about our users and their activities on our site to send offers and information about Slate, Graham Holdings Company and its affiliates. However, if you do not wish to receive the foregoing, please click the following link (<http://help.slate.com/ics/support/ticketNew.asp?deptID=15081>) to request removal from this list.
 
-Further, if you told us in your account preferences that you would be interested in receiving certain e-mail newsletters from us, we will send you those e-mail subscriptions.  Please note that regardless of those subscription preferences, we may contact you by e-mail as described elsewhere in this privacy policy (e.g., to notify you about changes or additions to our Service, such as new features). However, if you no longer wish to receive any of the foregoing, you may change your preferences for the future at any time by clicking on the following link (<http://help.slate.com/ics/support/ticketNew.asp?deptID=15081>).
+We also may collect certain information automatically when you visit the Services, including:
 
-In order to provide services free of charge, we display advertisements. Slate delivers targeted advertisements on behalf of advertisers. Advertisers give us an advertisement and tell us the type of audience they want to reach (for example, females over 25 years old). We take the advertisement and display it to users meeting those criteria. In this process, the advertiser never has access to your Slate.com account.
+  * Your browser type and operating system;
+  * Your Internet Protocol (IP) address, which is the number automatically assigned to your computer whenever you access the Internet and that can sometimes be used to derive your general geographic area;
+  * Other unique identifiers, including mobile device identification numbers;
+  * Sites you visited before and after visiting the Services;
+  * Pages you view and links you click on within the Services;
+  * Information collected through cookies, web beacons, and other technologies;
+  * Information about your interactions with e-mail messages, such as the links clicked on and whether the messages were opened or forwarded; and
+  * Standard Server Log Information
 
-Slate also does research on our users' demographics, interests and behavior based on the information you provide to us including upon registration, on order forms, during a promotion, as well as from our server log files or from surveys. We do this to better understand and serve our users. This research is compiled and analyzed, and Slate may share aggregated versions of this data with advertisers or other businesses. In addition, under confidentiality agreements, Slate may match user information with third party data.
 
-If Slate changes its use of your personally identifiable information, it will notify you by the email that you provided at registration and /or prominently post such changes in this Privacy Policy.
 
-**Do other companies or people have access to personally identifiable information I provide to Slate?**
+We may use cookies, pixel tags, Local Shared Objects (sometimes referred to as “Flash Cookies”), and similar technologies to automatically collect this information.  Cookies are small bits of information that are stored by your computer’s web browser.  Pixel tags are very small images or small pieces of data embedded in images, also known as "web beacons" or "clear GIFs,” that can recognize cookies, the time and date a page is viewed, a description of the page where the pixel tag is placed, and similar information from your computer or device.  Local Shared Objects (sometimes referred to as “Flash Cookies”) are similar to standard cookies except that they can be larger and are downloaded to a computer or mobile device by the Adobe Flash media player.  By using the Services, you consent to our use of cookies and similar technologies.  You can decide if and how your computer will accept a cookie by configuring your preferences or options in your browser.  However, if you choose to reject cookies, you may not be able to use certain online products, services or features on the Services.
 
-When you are on an area of Slate and are asked for personally identifiable information, you are providing that information to Slate, Graham Holdings Company, its divisions or affiliates, or vendors providing contractual services for Slate (such as hosting vendors and list managers). If personally identifiable information is being provided to and/or maintained by any company other than these, our policy is that we will not transfer that personally identifiable information unless notice is given prior to transfer. If you do not want your information to be shared, you can choose not to allow the transfer by not using that particular service or by expressing this preference, if requested. Additional information about personally identifiable information follows.
+**2.      ** **Use of Information** ****
 
-**Promotions:** Promotions that run on Slate may be sponsored by companies other than Slate or may be co-sponsored by Slate, and another company. Some or all personally identifiable information provided by you during a promotion may be shared with the sponsor. If information will be shared, we will disclose such sharing prior to the transfer. You can decide not to participate in the promotion if you don't want your personally identifiable information to be shared. In certain circumstances, you may not be able to participate in a particular promotion if you chose not to share personally identifiable information. Currently, most Slate promotions are limited to U.S. or North American residents.
+We may use information that we collect through the Services for a variety of purposes, including to:
 
-**Advertisers and Links:** Slate advertisers, or Web sites that have links on our site, may also collect personally identifiable information directly from you. The information practices of companies collecting data on our site or Web sites linked to Slate are not covered by this Privacy Policy.
+  * Provide you with the products, promotions, services, newsletters, and information you request and respond to correspondence that we receive from you;
+  * Customize and personalize your use of the Services;
+  * Provide Slate Plus users with premium content, products, promotions, and information;
+  * Contact you via email and otherwise about products, services, and events that we think might be of interest to you;
+  * Contact you with surveys, legal notices, and other information that may be relevant to your use of the Services;
+  * Maintain or administer the Services, perform business analyses, or for other internal purposes to improve the quality of our business, the Services, and other products and services we offer;
+  * Publish stories, comments, and other information posted in our interactive online features;
+  * Process employment applications and inquiries; and
+  * As otherwise described to you at the point of collection or pursuant to your consent.
 
-We do not control the privacy policies of our advertisers, sponsors or other sites or businesses to which we provide hyperlinks or access. Please visit the sites of these businesses to review their privacy policies.
 
-Slate users should also be aware that, when you voluntarily disclose personal information in chat areas or bulletin boards, that information may be collected by others and may result in unsolicited messages from others.
 
-Except as stated in this Privacy Policy or at the time of collection, a user's personally identifiable information will not be transferred to a party outside Slate, Graham Holdings Company, its divisions or affiliates, or its service vendors unless notice is given at the time of collection or prior to transfer. Slate, Graham Holdings Company or its divisions or affiliates may also disclose account information in special cases when we have reason to believe that disclosing this information may be necessary to identify, contact or bring legal action against someone who may be violating our User Agreement, may be causing injury to or interference with (either intentionally or unintentionally) Slate's rights or property, other Slate users, or anyone else that could be harmed by such activities, pursuant to a request from law enforcement, a subpoena, or a court order, or when otherwise required by law.
+**3.      ** **Sharing of Information** ****
 
-**Data Security:** We have in place physical, electronic and managerial procedures to protect the information we collect online. However, as effective as these measures are, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that the information you supply will not be intercepted while being transmitted to us over the internet.
+We are committed to maintaining your trust, and we want you to understand when and with whom we may share the information we collect.
 
-**What information do web servers collect?**
+  * _Corporate Parents, Affiliates, and Subsidiaries_.  We may share your information with our corporate parents, subsidiaries, and other affiliated entities for a variety of purposes, including business, operational, and marketing purposes.
+  * _Service Providers_.  ** ** We may share your information with service providers that perform certain functions or services on our behalf, such as to host the Services, manage databases, host a store or other e-commerce platform, perform analyses, or send communications for us.
+  * _Select Business Partners_.  We may share your information with select business partners so that they can provide you with special offers, promotional materials, and other materials that may be of interest to you. However, Slate is not responsible for the privacy practices of these business partners, which may use your information for their own purposes.
+  * _Other Parties When Required By Law or as Necessary to Protect the Services_.  We may disclose your information to third parties in order to protect the legal rights, safety, and security of Slate, our corporate parents, affiliates, and subsidiaries, and the users of our Services; enforce our Terms of Use; prevent fraud (or for risk management purposes); and comply with or respond to law enforcement or legal process or a request for cooperation by a government or other entity, whether or not legally required.
+  * _In Connection With a Transfer of Assets.  _If we sell all or part of our business, or make a sale or transfer of assets, or are otherwise involved in a merger or business transfer, or in the event of bankruptcy, we may transfer your information to one or more third parties as part of that transaction.
+  * _Other Parties With Your Consent_. We may share information about you with third parties when you consent to such sharing, including when you post information to a user profile or a public area of the Services, such as a chat room, forum, blog, or other community tool.
+  * _Aggregate Information_.  We may disclose to third parties information that does not describe or identify individual users, such as aggregate website usage data or demographic reports.
 
-Web servers serving Slate automatically collect certain non-personally identifiable information, such as which pages each user visits and the domain name of visitors. This information is used for various purposes including internal review, to tailor information to individual visitors and other users, for traffic audits, and as described elsewhere in this privacy policy. We also provide this information (as well as information from third-party market researchers) about our users on an aggregated, anonymous basis to our advertisers.
 
-**What are cookies and how does Slate use them?**
 
-Slate places a "cookie" on the browser of a Slate user's computer to store and sometimes track information about you. A cookie can be used to tell when your computer has contacted a Web site; we may also use the information for editorial purposes and for other purposes such as measuring certain traffic patterns. For example, cookies are used to ensure that you don't see the same ad too many times in a single session and that you do not have to reenter your login name or password during your visit. We may also use cookies to understand your use of the Service. Advertising service vendors that serve ads into our site may also use their own cookies. You may opt out of those cookies as described below.  You may opt-out of the cookies delivered by Slate by changing the setting on your browser. Please be aware that this will disable all cookies delivered to your browser, not just the ones delivered by Slate.
+We may allow third parties to place and read their own cookies, web beacons, Local Shared Objects, and similar technologies to collect information through the Services.  For example, our third-party service providers may use these technologies to collect information that helps us with traffic measurement, research, and analytics.  Local Shared Objects (sometimes referred to as “Flash Cookies”) are similar to standard cookies except that they can be larger and are downloaded to a computer or mobile device by the Adobe Flash media player.  Please note that you may need to take additional steps beyond changing your browser settings to refuse or disable Local Shared Objects and similar technologies.  For example, Local Shared Objects can be controlled through the instructions on [Adobe’s Setting Manager page](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html).   If you choose to refuse, disable, or delete these technologies, some of the functionality of the Services may no longer be available to you.
 
-**How Can I Opt-Out of Online Advertising Cookies?**
+Slate does not share information that it collects with third parties for the third party’s direct marketing purposes.
 
-Online advertising for the Service is delivered by the vendor DoubleClick.  DoubleClick places cookies on your browser to facilitate serving particular ads – for instance, to help determine  whether you have seen a particular advertisement before and to avoid sending you duplicate advertisements. You can opt out of DoubleClick's use of cookies for these purposes by visiting<http://www.doubleclick.com/privacy/index.aspx>.
+**4.      ** **Data Security**
 
-In some cases, we and advertisers on the Service work with other third-party vendors to help deliver advertisements tailored to your interests.  These vendors include ad networks and audience segment providers, and they place cookies on your browser to collect information about your online activity (e.g., the sites and pages you have visited) in order to help advertisers deliver particular ads that they believe you would find most relevant.  You can learn more about how those vendors collect and use such information, and opt out of those vendors' use of cookies to tailor advertising to you, by visiting[http://www.aboutads.info](http://www.aboutads.info/).
+We maintain reasonable security procedures to help protect against loss, misuse, unauthorized access, disclosure, alteration or destruction of the information you provide to us.  Please note that no data transmission or storage can be guaranteed to be 100% secure.  As a result, while we strive to protect your information and privacy, we cannot guarantee or warrant the security of any information you disclose or transmit to us online and cannot be responsible for the theft, destruction, or inadvertent disclosure of your information.
 
-Often our advertisers contract with a third-party service to host their ads. In this case, an ad serving vendor contacts the advertisers' hosting service for a particular advertisement. In that case, an independent cookie may be used by the third-party service. We do not have a mechanism to allow visitors to opt-out of cookies from vendors with whom we do not have a contractual relationship.
+You are responsible for maintaining the confidentiality of your account password and for any access to or use of the Services using your password, whether or not authorized by you.  Please notify us immediately of any unauthorized use of your password or account or any other breach of security.
 
-**Kids under 13** : Do not send any information about yourself to us - including information like your name, address or e-mail address. In general, we do not knowingly collect personally identifiable information from children under 13. If, in limited circumstances, we do knowingly collect personally identifiable information from a child under the age of 13, we will do so only with verified parental consent prior to collection. In the event that we learn that we have collected any personal information from a child under the age of 13 without verification of parental consent, we will delete that information from our database as quickly as possible.
+**5.      ** **Children’s Privacy**
 
-Technology on the Internet is developing at a rapid pace, and we need to maintain our flexibility in the online arena. If we need to change our policy in the future, we will post these changes as soon as they go into effect.
+The Services do not knowingly collect, use, or disclose personal information from children under the age of 13 without prior parental consent, except as permitted by the Children’s Online Privacy Protection Act (“COPPA”). 
 
-Users of this site who have signed up for the Microsoft Passport Network (the "Passport Service") will also be subject to the [Microsoft Passport Network Privacy Policy](http://accountservices.passport.net/PPPrivacyStatement.srf) for services provided pursuant to the Passport Service.
+**6.      ** **Social Networking Services**
+
+Slate has worked with certain third-party social media providers to offer you their social networking services through our Services.  For example, you can use third-party social networking services, including but not limited to Facebook, Twitter, and others to share information about your experience on our Services with your friends and followers on those social networking services.  These social networking services may be able to collect information about you, including your activity on our Services.  These third-party social networking services also may notify your friends, both on our Services and on the social networking services themselves, that you are a user of our Services or about your use of our Services, in accordance with applicable law and their own privacy policies.  If you choose to access or make use of third-party social networking services, we may receive information about you that you have made available to those social networking services, including information about your contacts on those social networking services.
+
+You also may be able to link an account from a social networking service (e.g., Facebook, Twitter) to an account through our Services.  This may allow you to use your credentials from the other site or service to sign in to certain features on our Services.  If you link your account from a third-party site or service, we may collect information from those third-party accounts, and any information that we collect will be governed by this Privacy Policy.
+
+**7.      ** **Privacy Policy Updates**
+
+We may modify this Privacy Policy at any time by posting revisions to the Services or other appropriate notice.  Your continued use of the Services after any modification to the Privacy Policy will constitute your acceptance of the new terms and conditions.
+
+**8.      ** **Links to Third Party Sites and Services**
+
+The Services may contain links to other websites or online services that are operated and maintained by third parties and that are not under the control of or maintained by Slate.  Such links do not constitute an endorsement by Slate of those other websites, the content displayed therein, or the persons or entities associated therewith.  This Privacy Policy does not apply to this third-party content.  We encourage you to review the privacy policies of these third-party websites or services.
+
+**9.      ** **International Users**
+
+Please note that the Services are directed towards users who reside in the United States. By using the Services, you consent to the collection, storage, processing, and transfer of your information in and to the United States, or other countries and territories, pursuant to the laws of the United States.  While some of these countries may not offer the same level of privacy protection as your own, Slate commits to uphold the privacy protections as explained in this Policy.
+
+**10.   ** **Your California Privacy Rights**
+
+It is our policy not to share your personal information with third parties for their direct marketing purposes. 
+
+Some web browsers may transmit “do-not-track” signals to the websites with which the user communicates.  Because of differences in how web browsers incorporate and activate this feature, it is not always clear whether users intend for these signals to be transmitted, or whether they even are aware of them.  Because there currently is no industry standard concerning what, if anything, websites should do when they receive such signals, Slate currently does not take action in response to these signals.  If and when a final standard is established and accepted, we will reassess how to respond to these signals.
+
+**11.   ** **Communications Preferences**
+
+You may choose to receive promotional emails, newsletters, and similar communications from us.  You may opt out of receiving commercial emails from us by clicking on the opt-out or “unsubscribe” link included in the commercial e-mails you receive.  Please note that opt-out requests may take up to 10 business days to be effective.  Your opt-out request will not apply to messages that you request or that are not commercial in nature.  For example, we may contact you concerning any purchases you have made with us, even if you opt out of receiving unsolicited commercial email messages.
+
+**12.   ** **Contact Us**
+
+If you have any questions about this Privacy Policy, you may contact us at:
