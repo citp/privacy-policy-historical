@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the primowater.com privacy policy that was archived on 2013-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131222153014id_/http%3A//primowater.com/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the primowater.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630051243id_/http%3A//www.primowater.com/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Primo Water - Privacy Policy - Primo Water
 
