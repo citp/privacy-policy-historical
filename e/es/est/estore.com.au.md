@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the estore.com.au privacy policy that was archived on 2013-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130930183527id_/http%3A//www.estore.com.au/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the estore.com.au privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630215248id_/http%3A//www.estore.com.au/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | eStore.com.au
 
