@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the stanstedairport.com privacy policy that was archived on 2013-12-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131213042030id_/http%3A//www.stanstedairport.com/help/policies/privacy-notice) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the stanstedairport.com privacy policy that was archived on 2014-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140630062019id_/http%3A//www.stanstedairport.com/help/policies/privacy-notice) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en"><head><title>
 	Stansted: Privacy notice
@@ -29,10 +29,17 @@
 <link type="text/css" rel="stylesheet" href="/assets/css/shared/forms.css">
 <link type="text/css" rel="stylesheet" href="/assets/css/shared/heavy-txt.css">
 <link type="text/css" rel="stylesheet" href="/assets/css/shared/stansted.old.css">
-<link type="text/css" rel="stylesheet" href="/assets/css/global/jquery-ui.css">
+
+
 <link type="text/css" rel="stylesheet" href="/assets/css/areas/airport-parking.css">
 <link type="text/css" rel="stylesheet" href="/assets/css/areas/vouchers.css">
+<link type="text/css" rel="stylesheet" href="/assets/css/areas/fly-stansted.css">
 <link type="text/css" rel="stylesheet" href="/assets/css/areas/homepage.css">
+<link type="text/css" rel="stylesheet" href="/assets/font-awesome-4.0.3/css/font-awesome.min.css">
+<link type="text/css" rel="stylesheet" href="/assets/css/areas/ui/themes/base/jquery-ui.min.css">
+<link type="text/css" rel="stylesheet" href="/assets/css/areas/ui/themes/base/jquery.ui.theme.min.css">
+<link type="text/css" rel="stylesheet" href="/assets/css/areas/ui/themes/base/jquery.ui.datepicker.min.css">
+<link type="text/css" rel="stylesheet" href="/assets/css/areas/ui/themes/smoothness/jquery-ui-1.9.2.custom.min.css">
 <link type="text/css" rel="stylesheet" href="/assets/css/global/print.css" media="print">
 <!--[if IE 7]>
 <link rel="stylesheet" type="text/css" href="/assets/css/global/ie7.css" />
@@ -44,18 +51,26 @@
 <link rel="stylesheet" type="text/css" href="/assets/css/global/ie9.css" />
 <![endif]-->
 
-<script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/umbraco/plugins/umbracoContour/scripts/jquery-1.5.1.min.js"></script>
-<script type="text/javascript" src="/umbraco/plugins/umbracoContour/scripts/jquery-ui-1.8.11.min.js"></script>
-<script type="text/javascript" src="/umbraco/plugins/umbracoContour/scripts/jquery.validate.min.js"></script>
-<script type="text/javascript" src="/umbraco/plugins/umbracoContour/scripts/jquery.validate.unobtrusive.min.js"></script>
+
+<script type="text/javascript" async="" src="//img.en25.com/i/elqCfg.min.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script type="text/javascript" src="/assets/js/global/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="/assets/js/global/jquery-migrate-1.2.1.min.js"></script>
+<script type="text/javascript" src="/assets/js/global/jquery-ui-1.9.2.custom.min.js"></script>
 <script type="text/javascript" src="/assets/js/global/jquery.cookie.js"></script>
+
 <script type="text/javascript" src="/assets/js/global/moment.min.js"></script>
+<script type="text/javascript" src="/assets/js/global/knockout-3.0.0.js"></script>
 <script type="text/javascript" src="/assets/js/global/gadownloads.js"></script>
 <script type="text/javascript" src="/assets/js/global/URI.js"></script>
 <script type="text/javascript" src="/assets/js/global/web-analytics.js"></script>
+
+<!--[if lt IE 9]>
+<script src="/assets/js/global/html5shiv.min.js"></script>
+<![endif]-->
+
 <!--[if IE 8]>
 <script type="text/javascript" src="/assets/js/global/ie8.js"></script>
 <![endif]-->
+
 <!--[if IE 7]>
 <script type="text/javascript" src="/assets/js/global/ie7.js"></script>
 <![endif]-->    <style type="text/css">
@@ -77,21 +92,6 @@
     }
     -->
     </style>
-
-	<script type="text/javascript">
-
-	  var _gaq = _gaq || [];
-	  _gaq.push(['_setAccount', 'UA-41835400-1']);
-	  _gaq.push(['_setDomainName', 'stanstedairport.com']);
-	  _gaq.push(['_trackPageview']);
-
-	  (function() {
-	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-	  })();
-
-	</script>
 
 <!--AdvertisingHeaderContent-->
 	
@@ -119,27 +119,124 @@
         googletag.enableServices();
     });
 </script>
+    <script type="text/javascript">
+        var _gaq = _gaq || [];
+        var pluginUrl = '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+        _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
+        _gaq.push(['_setAccount', 'UA-41835400-1']);
+        _gaq.push(['_setSiteSpeedSampleRate', 5]);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script');
+            ga.type = 'text/javascript';
+            ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+
+
+    <script type="text/javascript">
+        var _elqQ = _elqQ || [];
+        _elqQ.push(['elqSetSiteId', '1302067104']);
+        _elqQ.push(['elqTrackPageView']);
+        (function () {
+
+            function async_load() {
+                var s = document.createElement('script');
+                s.type = 'text/javascript';
+                s.async = true;
+                s.src = '//img.en25.com/i/elqCfg.min.js';
+                var x = document.getElementsByTagName('script')[0];
+                x.parentNode.insertBefore(s, x);
+            }
+
+            if (window.addEventListener)
+                window.addEventListener('DOMContentLoaded',
+                    async_load, false);
+            else if (window.attachEvent) window.attachEvent('onload', async_load);
+        })();
+    </script>
+
 			<!-- TradeDoubler site verification 2309903 -->
 		</head>
 	    <body id="pageBody" class="access1">
-	        
-<!-- Begin comScore Inline Tag 1.1302.13 --> 
-<script type="text/javascript">
+            
+
+
+
+    <!-- Begin comScore Inline Tag 1.1302.13 -->
+    <script type="text/javascript">
     // <![CDATA[
     function udm_(e) { var t = "comScore=", n = document, r = n.cookie, i = "", s = "indexOf", o = "substring", u = "length", a = 2048, f, l = "&ns_", c = "&", h, p, d, v, m = window, g = m.encodeURIComponent || escape; if (r[s](t) + 1) for (d = 0, p = r.split(";"), v = p[u]; d < v; d++) h = p[d][s](t), h + 1 && (i = c + unescape(p[d][o](h + t[u]))); e += l + "_t=" + +(new Date) + l + "c=" + (n.characterSet || n.defaultCharset || "") + "&c8=" + g(n.title) + i + "&c7=" + g(n.URL) + "&c9=" + g(n.referrer), e[u] > a && e[s](c) > 0 && (f = e[o](0, a - 8).lastIndexOf(c), e = (e[o](0, f) + l + "cut=" + g(e[o](f + 1)))[o](0, a)), n.images ? (h = new Image, m.ns_p || (ns_p = h), h.src = e) : n.write("<", "p", "><", 'img src="', e, '" height="1" width="1" alt="*"', "><", "/p", ">") };
     udm_('http' + (document.location.href.charAt(4) == 's' ? 's://sb' : '://b') + '.scorecardresearch.com/b?c1=2&c2=17462750&ps_ver=1-1302-13&ps_id=stansted&ns_site=stansted');
+
+    function ns_onclick(q, f, u, b, o) { var i = window, l = i.ns_p, m = l && l.src, s = "&ns_", h = document.referrer.replace(/\/$/, ""), f = f || q.href, o = o || "", j = { t: 0, o: 0 }, e = eventURL = c1_match = c2_match = "", c = /\bc1=[^&]+\b/i, g = /\bc2=[^&]+\b/i, p = (i.encodeURIComponent ? encodeURIComponent : escape), n = "3.1312.06"; if (m && (c1_match = l.src.match(c)) && !c.test(u)) { e += "&" + c1_match } if (m && (c2_match = l.src.match(g)) && !g.test(u)) { e += "&" + c2_match } if (m) { var t = l.src, k = t.indexOf("?"); eventURL = t.substr(0, k > -1 ? k : t.length) + "?" } eventURL = [eventURL, u, e, s, "type=", b, s, "action=view", s, "_t=", +new Date, s, "sc_sv=", n, s, "sc_href=", p(f).substr(0, 1000), h ? "&c9=" + p(h) : ""].join(""); var r = q && q.target ? q.target.replace(/^_/, "") : "self", d = new Image(); if (i[r]) { j.t = (function (w, v, a) { return function () { clearTimeout(a.o); d.onload = d.onerror = function () { return }; i[w].location.href = v } })(r, f, j); j.o = setTimeout(j.t, 5000); d.onload = d.onerror = j.t } else { i.open(f, r, o) } d.src = eventURL; return false };
 // ]]>
-</script>
-<noscript><p><img src="http://b.scorecardresearch.com/p?c1=2&c2=17462750&ps_ver=1-1302-13&ps_id=stansted&ns_site=stansted" height="1" width="1" alt="*"></p></noscript> 
-<!-- End comScore Inline Tag -->
+    </script>
+    <noscript><p><img src="http://b.scorecardresearch.com/p?c1=2&c2=17462750&ps_ver=1-1302-13&ps_id=stansted&ns_site=stansted" height="1" width="1" alt="*"></p></noscript>
+    <!-- End comScore Inline Tag -->
     <script type="text/javascript">
         var analytics = new WebAnalytics("[href^='http://www.stanstedairport.com'],[href^='https://www.stanstedairport.com'],[href^='http://parking.stanstedairport.com'],[href^='https://parking.stanstedairport.com']", "stansted");
-        
+
         $(document).ready(function () {
-            analytics.bindToExternalLinks();
+            analytics.bind();
         });
-    </script>    
-        
+    </script>
+
+<!-- Google Code for Remarketing Tag -->
+<!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+<script type="text/javascript">
+    /* <![CDATA[ */
+    var google_conversion_id = 989999763;
+    var google_custom_params = window.google_tag_params;
+    var google_remarketing_only = true;
+    /* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+    <div style="display:inline;">
+        <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/989999763/?value=0&amp;guid=ON&amp;script=0" />
+    </div>
+</noscript>
+
+
+<!--
+Start of DoubleClick Floodlight Tag: Please do not remove
+Activity name of this tag: Stansted Main Remarketing
+URL of the webpage where the tag is expected to be placed: http://www.stanstedairport.com/
+This tag must be placed between the <body> and </body> tags, as close as possible to the opening tag.
+Creation Date: 02/28/2014
+-->
+<iframe src="http://4377560.fls.doubleclick.net/activityi;src=4377560;type=stans067;cat=stans592;ord=6469356697952.009?" width="1" height="1"></iframe><script type="text/javascript" id="DoubleClickFloodlightTag1607554">
+    //<![CDATA[
+    var axel = Math.random() + "";
+    var a = axel * 10000000000000;
+
+    var newIFrame = document.createElement('iframe');
+    newIFrame.src = 'http://4377560.fls.doubleclick.net/activityi;src=4377560;type=stans067;cat=stans592;ord=' + a + '?';
+    newIFrame.width = "1";
+    newIFrame.frameborder = "0";
+    newIFrame.height = "1";
+    var scriptNode = document.getElementById('DoubleClickFloodlightTag1607554');
+    scriptNode.parentNode.insertBefore(newIFrame, scriptNode);
+    //]]>
+</script>
+<noscript>
+    <iframe src="http://4377560.fls.doubleclick.net/activityi;src=4377560;type=stans067;cat=stans592;ord=1?" width="1" height="1" frameborder="0" style="display:none"></iframe>
+</noscript>
+
+<!-- End of DoubleClick Floodlight Tag: Please do not remove -->
+<!-- Code for Action: Stansted_HP -->
+<script type="text/javascript">
+    var ra = window.ord || Math.floor(Math.random() * 10e12); document.write('<img src="http://20545429p.rfihub.com/ca.gif?rb=7875&ca=20545429&ra=' + ra + '" />');
+</script><img src="http://20545429p.rfihub.com/ca.gif?rb=7875&amp;ca=20545429&amp;ra=2443636385794">
+
 	        <div class="page-container">
 	            <!-- HEADER -->
 	            
@@ -155,7 +252,7 @@
         </div>
         <div class="site-search">
             <form name="siteSearchForm" id="siteSearchForm" action="/help/search-this-site">
-                <input accesskey="3" type="text" id="siteSearchField" size="30" watermark="Search site" class="watermark valid">
+                <input accesskey="3" type="text" id="siteSearchField" size="30" watermark="Search site" class="watermark">
                 <input type="submit" value="Search" id="siteSearchBtn" class="btn btn-submit">
             </form>
         </div>
@@ -167,30 +264,29 @@
 	            <div class="header">
     <div class="wrap">
         <div class="g6">
-            <h1 style="text-indent: -10000px;">London Stansted Airport</h1>
-            <a class="logo" href="/"><img alt="" src="/assets/img/global/logo-stansted.png"></a>
+            <a class="logo" href="/">
+                <h1 style="text-indent: -10000px; height: 83px; width:228px; padding:0; background-image: url(/assets/img/global/logo-stansted.png); background-repeat: no-repeat; background-color: transparent">London Stansted Airport</h1>
+            </a>
         </div>
         <div class="g6">
             <div class="header-advert">
                 
             </div>
         </div>
-        <div class="g12">
-            <div class="nav">
+            <nav class="g12">
                 <ul>
-                            <li><a href="/" title="Home"><span>Home</span></a></li>
-                            <li><a href="/flight-information" title="Flight Information"><span>Flight Info</span></a></li>
-                            <li><a href="/car-parking" title="Car Parking"><span>Car Parking</span></a></li>
-                            <li><a href="/transport-and-directions" title="Transport And Directions"><span>To &amp; From Airport</span></a></li>
-                            <li><a href="/stansted-airport-guide" title="Stansted Airport Guide"><span>Airport Guide</span></a></li>
-                            <li><a href="/shopping-and-eating" title="Shopping And Eating"><span>Shop &amp; Eat</span></a></li>
-                            <li><a href="https://www.cartrawler.com/stanstedairport/" title="Car Rental"><span>Car Rental</span></a></li>
-                            <li><a href="http://travel.stanstedairport.com/site/offers/stansted_airport_hotels.html?skin=engb.baa_stansted&amp;source=STN_PAB_Hot" title="Hotels"><span>Hotels</span></a></li>
-                            <li><a href="/plan-and-book-your-trip" title="Plan And Book Your Trip"><span>Plan &amp; Book</span></a></li>
+                        <li><a href="/" title="Home">Home</a></li>
+                        <li><a href="/flight-information" title="Flight Information">Flight Info</a></li>
+                        <li><a href="/car-parking" title="Car Parking">Car Parking</a></li>
+                        <li><a href="/transport-and-directions" title="Transport And Directions">To &amp; From Airport</a></li>
+                        <li><a href="/stansted-airport-guide" title="Stansted Airport Guide">Airport Guide</a></li>
+                        <li><a href="/shopping-and-eating" title="Shopping And Eating">Shop &amp; Eat</a></li>
+                        <li><a href="https://www.cartrawler.com/stanstedairport/" title="Car Rental">Car Rental</a></li>
+                        <li><a href="/hotels" title="Hotels">Hotels</a></li>
+                        <li><a href="/plan-and-book-your-trip" title="Plan And Book Your Trip">Plan &amp; Book</a></li>
                 </ul>
-                <div class="cl"></div>
-            </div>
-        </div>
+            </nav>
+            <div class="cl"></div>
         <div class="cl"></div>
     </div>
     <div class="cl"></div>
@@ -230,18 +326,38 @@
 
     <div class="nav-panel">
     <ul>
-    <li><a href="/help/contact-us" title="Contact Us">Contact Us</a></li>
-    <li><a href="/help/faqs" title="Faqs">Faqs</a></li>
-    <li><a href="/help/search-this-site" title="Search This Site">Search This Site</a></li>
-    <li><a href="/help/stay-up-to-date" title="Stay Up To Date">Stay Up To Date</a></li>
-    <li><a href="/help/accessibility-statement" title="Accessibility Statement">Accessibility Statement</a></li>
-    <li><a href="/help/terms-and-conditions" title="Terms And Conditions">Terms And Conditions</a></li>
-    <li class="active"><a href="/help/policies" title="Policies">Policies</a></li>
+        <li>
+            <a href="/help/contact-us" title="Contact Us" target="_self">Contact Us</a>
+        </li>
+        <li>
+            <a href="/help/faqs" title="FAQs" target="_self">FAQs</a>
+        </li>
+        <li>
+            <a href="/help/search-this-site" title="Search This Site" target="_self">Search This Site</a>
+        </li>
+        <li>
+            <a href="/help/stay-up-to-date" title="Stay Up To Date" target="_self">Stay Up To Date</a>
+        </li>
+        <li>
+            <a href="/help/accessibility-statement" title="Accessibility Statement" target="_self">Accessibility Statement</a>
+        </li>
+        <li>
+            <a href="/help/terms-and-conditions" title="Terms And Conditions" target="_self">Terms And Conditions</a>
+        </li>
+        <li class="active">
+            <a href="/help/policies" title="Policies" target="_self">Policies</a>
+        </li>
     <ul>
-    <li class="active"><a href="/help/policies/privacy-notice" title="Privacy Notice">Privacy Notice</a></li>
-    <li><a href="/help/policies/refunds" title="Refunds">Refunds</a></li>
+        <li class="active">
+            <a href="/help/policies/privacy-notice" title="Privacy Notice" target="_self">Privacy Notice</a>
+        </li>
+        <li>
+            <a href="/help/policies/refunds" title="Refunds" target="_self">Refunds</a>
+        </li>
     </ul>
-    <li><a href="/help/site-map" title="Site Map">Site Map</a></li>
+        <li>
+            <a href="/help/site-map" title="Site Map" target="_self">Site Map</a>
+        </li>
     </ul>
 
     </div>
@@ -273,7 +389,7 @@
                             }
                         }
                     //-->
-                    </script><a href="mailto:?subject=Stansted%3A%20Privacy%20notice&amp;body=Link: &lt;https%3A//web.archive.org/web/20131213042030id_/http%253A//www.stanstedairport.com/help/policies/privacy-notice&gt;" title="Email this page"><span>Email this page</span></a>
+                    </script><a href="mailto:?subject=Stansted%3A%20Privacy%20notice&amp;body=Link: &lt;https%3A//web.archive.org/web/20140630062019id_/http%253A//www.stanstedairport.com/help/policies/privacy-notice&gt;" title="Email this page"><span>Email this page</span></a>
 
                     <noscript>
                         <a href="mailTo:?subject=Page from website&body=We notice that you have javascript disabled. Therefore we cannot automatically load the URL into this email. You will have to copy / paste it from your browser address bar yourself." target="_blank" ><span>Email this page</span></a>
@@ -833,7 +949,7 @@ Essex CM24 1QW</p>
                 <div class="cont">
                     <div class="wrap">
                         <div class="g12 omega">
-	                            <div id="ad2one-leader" style="width: 728px; height: 90px; margin-left: auto; margin-right: auto; ">
+	                            <div id="ad2one-leader" style="width: 728px; height: 90px; margin: 1em auto 1em auto;">
         <script type="text/javascript">
             googletag.cmd.push(function () { googletag.display('ad2one-leader'); });
         </script>
@@ -853,16 +969,24 @@ Essex CM24 1QW</p>
                 <h3 class="footer-title">Useful Links</h3>
             </div>
             <div class="g2">
-                <h3 class="footer-links-title">Stay in touch</h3>
+                <h5 class="footer-links-title">Stay in touch</h5>
                 <ul class="footer-links">
-                        <li class="first"><a href="/help/contact-us" title="Contact Us">Contact Us</a></li>
-    <li class=""><a href="/help/contact-us/feedback" title="Feedback">Feedback</a></li>
-    <li class=""><a href="/help/stay-up-to-date/email-newsletter" title="Email Newsletter">Email Newsletter</a></li>
-    <li class=""><a href="/help/stay-up-to-date/mobile-app" title="Mobile App">Mobile App</a></li>
+                                    <li class="first">
+                    <a href="/help/contact-us" title="Contact Us" target="_self">Contact Us</a>
+                </li>
+                <li class="">
+                    <a href="/help/contact-us/feedback" title="Feedback" target="_self">Feedback</a>
+                </li>
+                <li class="">
+                    <a href="/help/stay-up-to-date/email-newsletter" title="Email Newsletter" target="_self">Email Newsletter</a>
+                </li>
+                <li class="">
+                    <a href="/help/stay-up-to-date/mobile-app" title="Mobile App" target="_self">Mobile App</a>
+                </li>
 
                 </ul>
                 <ul class="footer-social-icons">
-                    <li><a href="/rssfeed/rss/?location=Stansted&amp;category=&amp;year=2011" title="RSS feed">
+                    <li><a href="/about-us/media-centre/press-releases/rss" title="RSS feed">
                         <img src="/assets/img/global/icons/rss-icon_22x22.png" alt="RSS feed" class="ico-22x22"></a></li>
                     <li><a href="https://twitter.com/STN_airport" target="_new" title="Twitter feed">
                         <img src="/assets/img/global/icons/twitter-icon_22x22.png" alt="Twitter feed" class="ico-22x22"></a></li>
@@ -873,34 +997,66 @@ Essex CM24 1QW</p>
             <div class="g2">
                 <h5 class="footer-links-title">About Stansted Airport</h5>
                 <ul class="footer-links">
-                        <li class="first"><a href="/about-us/airport-jobs" title="Airport Jobs">Airport Jobs</a></li>
-    <li class=""><a href="/about-us/stansted-facts-and-figures" title="Facts and figures">Facts and figures</a></li>
-    <li class=""><a href="/about-us/media-centre" title="Media Centre">Media Centre</a></li>
-    <li class=""><a href="/about-us/stansted-facts-and-figures/our-performance/sustainability" title="Sustainability">Sustainability</a></li>
-    <li class=""><a href="/about-us/stansted-facts-and-figures/our-performance" title="Performance">Performance</a></li>
+                                    <li class="first">
+                    <a href="/about-us/airport-jobs" title="Airport Jobs" target="_self">Airport Jobs</a>
+                </li>
+                <li class="">
+                    <a href="/about-us/stansted-facts-and-figures" title="Facts and figures" target="_self">Facts and figures</a>
+                </li>
+                <li class="">
+                    <a href="/about-us/media-centre" title="Media Centre" target="_self">Media Centre</a>
+                </li>
+                <li class="">
+                    <a href="/about-us/stansted-facts-and-figures/our-performance/sustainability" title="Sustainability" target="_self">Sustainability</a>
+                </li>
+                <li class="">
+                    <a href="/about-us/stansted-facts-and-figures/our-performance" title="Performance" target="_self">Performance</a>
+                </li>
 
                 </ul>
             </div>
             <div class="g2">
                 <h5 class="footer-links-title">Popular pages</h5>
                 <ul class="footer-links">
-                        <li class="first"><a href="/stansted-airport-guide/airport-security-and-baggage" title="Baggage and liquids">Baggage and liquids</a></li>
-    <li class=""><a href="/transport-and-directions" title="Transport And Directions">Transport And Directions</a></li>
-    <li class=""><a href="/stansted-airport-guide/airport-maps" title="Airport Maps">Airport Maps</a></li>
-    <li class=""><a href="/shopping-and-eating/shops-a-z" title="Shop at Stansted">Shop at Stansted</a></li>
-    <li class=""><a href="/shopping-and-eating/restaurants-a-z" title="Where to eat">Where to eat</a></li>
+                                    <li class="first">
+                    <a href="/stansted-airport-guide/airport-security-and-baggage" title="Baggage and liquids" target="_self">Baggage and liquids</a>
+                </li>
+                <li class="">
+                    <a href="/transport-and-directions" title="Transport And Directions" target="_self">Transport And Directions</a>
+                </li>
+                <li class="">
+                    <a href="/stansted-airport-guide/airport-maps" title="Airport Maps" target="_self">Airport Maps</a>
+                </li>
+                <li class="">
+                    <a href="/shopping-and-eating/shops-a-z" title="Shop at Stansted" target="_self">Shop at Stansted</a>
+                </li>
+                <li class="">
+                    <a href="/shopping-and-eating/restaurants-a-z" title="Where to eat" target="_self">Where to eat</a>
+                </li>
 
                 </ul>
             </div>
             <div class="g2">
                 <h5 class="footer-links-title">Travel shop</h5>
                 <ul class="footer-links">
-                        <li class="first"><a href="http://travel.stanstedairport.com/site/travel/flights?partnerId=6053&amp;source=STN_HP_Fltlink" title="Book Flights">Book Flights</a></li>
-    <li class=""><a href="http://travel.stanstedairport.com/site/offers/stansted_airport_hotels.html?skin=engb.baa_stansted&amp;source=STN_HP_Airhot" title="Book Hotels">Book Hotels</a></li>
-    <li class=""><a href="/plan-and-book-your-trip/book-your-trip/car-hire" title="Car Hire">Car Hire</a></li>
-    <li class=""><a href="/shopping-and-eating/order-currency" title="Order Currency">Order Currency</a></li>
-    <li class=""><a href="/stansted-airport-guide/services-and-facilities/lounges" title="Airport Lounges">Airport Lounges</a></li>
-    <li class=""><a href="/car-parking" title="Car Parking">Car Parking</a></li>
+                                    <li class="first">
+                    <a href="http://www.airportdirecttravel.co.uk/stansted/flight" title="Book Flights" rel="nofollow" target="_blank">Book Flights</a>
+                </li>
+                <li class="">
+                    <a href="/hotels/london-stansted-hotels" title="Book Hotels" target="_self">Book Hotels</a>
+                </li>
+                <li class="">
+                    <a href="/plan-and-book-your-trip/book-your-trip/car-hire" title="Car Hire" target="_self">Car Hire</a>
+                </li>
+                <li class="">
+                    <a href="/shopping-and-eating/order-currency" title="Order Currency" target="_self">Order Currency</a>
+                </li>
+                <li class="">
+                    <a href="/stansted-airport-guide/services-and-facilities/lounge" title="Airport Lounge" target="_self">Airport Lounge</a>
+                </li>
+                <li class="">
+                    <a href="/car-parking" title="Car Parking" target="_self">Car Parking</a>
+                </li>
 
                 </ul>
             </div>
@@ -909,9 +1065,18 @@ Essex CM24 1QW</p>
                 <p class="footer-item">Enterprise House, Bassingbourn Road, Essex, United Kingdom CM24 1QW</p>
                 <p class="footer-item">Tel: 0844 335 1803</p>
                 <ul class="footer-links">
-                        <li class="first"><a href="/help/terms-and-conditions" title="Terms And Conditions">Terms And Conditions</a></li>
-    <li class=""><a href="/help/policies/privacy-notice" title="Privacy notice">Privacy notice</a></li>
-    <li class=""><a href="/help/accessibility-statement" title="Accessibility Statement">Accessibility Statement</a></li>
+                                    <li class="first">
+                    <a href="/help/terms-and-conditions" title="Terms And Conditions" target="_self">Terms And Conditions</a>
+                </li>
+                <li class="">
+                    <a href="/help/policies/privacy-notice" title="Privacy notice" target="_self">Privacy notice</a>
+                </li>
+                <li class="">
+                    <a href="/help/accessibility-statement" title="Accessibility Statement" target="_self">Accessibility Statement</a>
+                </li>
+                <li class="">
+                    <a href="/car-parking/car-parking-promotions" title="*Car Parking Promotions" target="_self">*Car Parking Promotions</a>
+                </li>
 
                 </ul>
                 <p class="footer-item">
@@ -936,6 +1101,8 @@ Essex CM24 1QW</p>
 <script type="text/javascript" src="/assets/js/shared/accessibility-sizer.js"></script>
 <script type="text/javascript" src="/assets/js/shared/pre-header-toggler.js"></script>
 
+                <script type="text/javascript" src="/assets/js/shared/accessibility-sizer.js"></script>
+                <script type="text/javascript" src="/assets/js/shared/pre-header-toggler.js"></script>
 	            <!-- END FOOTER -->
 	            
 
@@ -958,27 +1125,14 @@ Essex CM24 1QW</p>
 
 
 
-	            <!-- Google Code for Remarketing Tag -->
-<!--------------------------------------------------
-Remarketing tags may not be associated with personally identifiable information 
-or placed on pages related to sensitive categories. See more information and 
-instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
---------------------------------------------------->
-<script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 989999763;
-var google_custom_params = window.google_tag_params;
-var google_remarketing_only = true;
-/* ]]> */
-</script>
-<script type="text/javascript" src="//www.googleadservices.com/pagead/&#10;conversion.js">
-</script>
-	        </div><div id="epd"><div id="cookiesdirective" style="position: fixed; bottom: 0px; left: 0px; width: 100%; height: auto; z-index: 10000000;"><div id="theCogworksCookieDirective_footer"><p></p><div id="theCogworksCookieDirective_buttons"><input style="display:none;" type="checkbox" name="epdagree" id="epdagree" checked=""><input type="submit" name="epdsubmit" id="epdsubmit" value=""></div></div></div></div>        
+	            
+	        </div><div id="epd"><div id="cookiesdirective" style="position: fixed; bottom: -127.466px; left: 0px; width: 100%; height: auto; z-index: 10000000;"><div id="theCogworksCookieDirective_footer"><p></p><div id="theCogworksCookieDirective_buttons"><input style="display:none;" type="checkbox" name="epdagree" id="epdagree" checked=""><input type="submit" name="epdsubmit" id="epdsubmit" value=""></div></div></div></div>        
 	        
 
+            <script src="//config1.veinteractive.com/tags/0D7A3E29/1AAD/44B1/A49B/1E69F2D877D3/tag.js" type="text/javascript" async=""></script>
             <!-- Begin comScore JavaScript File 1.1302.13 -->
             <script type="text/javascript" language="JavaScript1.3" src="http://b.scorecardresearch.com/c2/17462750/cs.js"></script>
-            <!-- End comScore JavaScript File -->
+            <!-- End comScore Inline Tag -->
 	    
 	
 </body></html>
