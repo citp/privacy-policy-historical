@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the khaleejtimes.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231170127id_/http%3A//www.khaleejtimes.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the khaleejtimes.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630142819id_/http%3A//khaleejtimes.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # Khaleej Times - Privacy Policy
 
