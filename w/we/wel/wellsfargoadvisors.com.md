@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wellsfargoadvisors.com privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030171803id_/https%3A//www.wellsfargoadvisors.com/disclosures/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wellsfargoadvisors.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630033029id_/https%3A//www.wellsfargoadvisors.com/disclosures/privacy.htm) for the most accurate reproduction.*
 
 # Wells Fargo Advisors | Privacy
 
-_This policy is effective as of January 1, 2013._
+_This policy is effective as of October 1, 2013._
 
 FACTS | **WHAT DOES WELLS FARGO DO WITH YOUR PERSONAL INFORMATION?**  
 ---|---  
@@ -40,11 +40,11 @@ However, you can contact us at any time to limit our sharing.
 ---|---  
 To limit direct marketing | 
 
-  * To limit our direct marketing to you by mail or telephone, call 1-888-528-8460 - our menu will prompt you through your choices
+  * To limit our direct marketing to you by mail or telephone, call 1-888-528-8460 - our menu will prompt you through your choices.
   * Online banking customers - log on to a secure session at wellsfargo.com and choose "Change Privacy Preferences" under the "Account Services" tab. 
 
 **Please note:**   
-A Do Not Call election is effective for five years (or while you are an active consumer customer, if longer). The Do Not Mail election is effective for three years. You may continue to receive marketing information in regular account mailings and statements, when you visit us online or at an ATM. You may also be contacted to service your account or participate in surveys. If you have an assigned client manager or team, they may continue to contact you to assist you in managing your portfolio or account relationship.
+A Do Not Call election is effective for five years, or while you are an active consumer customer, if longer than five years. The Do Not Mail election is effective for three years. You may continue to receive marketing information in regular account mailings and statements, when you visit us online or at an ATM. You may also be contacted to service your account or participate in surveys. If you have an assigned client manager or team, they may continue to contact you to assist you in managing your portfolio or account relationship.
 
 
   
@@ -109,9 +109,8 @@ Wells Fargo U.S. banks and companies with "Wells Fargo" in their names, includin
 
 This privacy disclosure also describes the privacy practices of First Clearing, LLC ("First Clearing"), which is an affiliated clearing firm of Wells Fargo Advisors, LLC. First Clearing does not market to holders of accounts carried by First Clearing or provide information regarding such accounts or regarding your creditworthiness to other Wells Fargo companies for their own marketing or everyday business purposes, and the choices in this notice do not apply to First Clearing.
 
-**The following legal entities and businesses are not covered by this notice and have separate privacy notices:**
+The following legal entities and businesses are **not** covered by this notice and have separate privacy notices:
 
-  * Any non-bank company with "Wells Fargo Financial" in its name
   * Wells Fargo Financial National Bank
   * the Wells Fargo Advantage Funds
   * Wells Fargo Advisors Financial Network, LLC
