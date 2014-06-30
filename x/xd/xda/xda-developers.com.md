@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the xda-developers.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231032808id_/http%3A//www.xda-developers.com/index.php/xda-developers-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xda-developers.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630063641id_/http%3A//www.xda-developers.com/index.php/xda-developers-privacy-policy) for the most accurate reproduction.*
 
-# XDA-Developers Privacy Policy – xda-developers
+# XDA-Developers Privacy Policy - xda-developers
 
 **What information do we collect?**
 
