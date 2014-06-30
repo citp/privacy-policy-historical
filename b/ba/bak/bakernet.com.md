@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bakernet.com privacy policy that was archived on 2013-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131112192746id_/http%3A//www.bakermckenzie.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bakernet.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630210545id_/http%3A//www.bakermckenzie.com/privacy) for the most accurate reproduction.*
 
 # Baker & McKenzie
 
 ## Effective Date: 1 January 2010
 
-This Privacy Statement describes how Baker & McKenzie LLP (“Baker & McKenzie”) collects, uses, and discloses certain personal information obtained through our public web sites at www.bakermckenzie.com and www.bakerXchange.com (“Web Sites”). This Privacy Statement does not address information collection through other sources such as in-person seminars or an attorney’s personal contacts.
+This Privacy Statement describes how Baker & McKenzie LLP (“Baker & McKenzie”) collects, uses, and discloses certain personal information obtained through our global public web sites at [www.bakermckenzie.com](http://www.bakermckenzie.com/) and bakerxchange.com (“Web Sites”). The website for a local Baker & McKenzie office may have a privacy statement that differs from this Privacy Statement. Please review the website privacy statement for the relevant local office for any information that applies specifically to that local office. This Privacy Statement does not address information collection through other sources such as in-person seminars or an attorney’s personal contacts.
 
 ## Personal Information Collection and Use 
 
