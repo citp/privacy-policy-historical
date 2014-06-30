@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trueknowledge.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209173822id_/http%3A//www.evi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trueknowledge.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630113440id_/http%3A//evi.com/privacy) for the most accurate reproduction.*
 
 # Evi - Privacy Policy
 
@@ -104,4 +104,4 @@ Any changes to our privacy policy in the future will be posted to the site and, 
 
 ### Contact
 
-All comments, queries and requests relating to our use of your information are welcomed and should be addressed to William Tunstall-Pedoe at Evi Technologies Limited, Wellington House, East Road, Cambridge, CB1 1BH, United Kingdom or at [privacy@evi.com](mailto:privacy@evi.com) .
+All comments, queries and requests relating to our use of your information are welcomed and should be addressed to William Tunstall-Pedoe at Evi Technologies Limited, Poseidon House, Castle Park, Cambridge, United Kingdom, CB3 0RD or at [privacy@evi.com](mailto:privacy@evi.com) .
