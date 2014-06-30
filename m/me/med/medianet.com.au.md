@@ -1,92 +1,158 @@
-> *The following text is extracted and transformed from the medianet.com.au privacy policy that was archived on 2013-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131129135445id_/http%3A//www.aapmedianet.com.au/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medianet.com.au privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630092203id_/http%3A//www.medianet.com.au/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Medianet is a division of Australian Associated Press Pty Limited (ABN 88 006 180 801) of 3 Rider Blvd, Rhodes, NSW 2138. We respect the privacy of our clients, business contacts and suppliers. We understand that the privacy of your information is important to you.
+Medianet is a division of Australian Associated Press Pty Limited (ABN 88 006 180 801) of 3 Rider Blvd, Rhodes, NSW 2138.
 
-This privacy policy outlines the types of personal information that we collect and how it is used. It also explains your rights in relation to that information.
+Our privacy policy below tells you how we collect and manage the personal information of Medianet customers (‘customer’ or ‘you’).
 
-Personal information is any information which can be used to identify an individual and includes such personal details as name, address, telephone numbers, job title, email address and IP address. By providing us with personal information, you consent to our collection, use and disclosure of that information in accordance with this policy. It is therefore important that you read and understand this policy. If you have any questions in relation to this policy please contact us at the following email address: [privacy@aap.com.au](mailto:privacy@aap.com.au).
+We respect your rights to privacy under the Privacy Act 1988 (Cth) **(Act)** and we comply with all of the Act’s requirements in respect of the collection, management and disclosure of your personal information.
 
-## 1\. What Kind of Information Is Collected?
+Medianet is a supplier of communications solutions to public relations firms, government departments, corporate communications and not-for-profit organisations. Medianet’s press release distribution service allows customers to build and distribute their own press releases to Medianet’s database of media contacts, outlets and publishers. Medinet also provides subscription access to our media contacts database which includes list building and activity management tools to our customers.
 
-### (a) As a client of Medianet
+For the purposes of this policy, the products and services described in this section will be referred to as **"products and services".**
 
-We will ask you for personal information when you register with us to use a Medianet service. The information may include your name and your contact details, the identity and contact details of your employer and details of the products and services that you are interested in. This information is used to provide you with our service(s), to invoice you for your use of the services and to respond to any queries which you may have in relation to the services. At the time of collecting this personal information, we may also request other information about you to assist AAP in identifying which of our current and future products and services may be of interest to you.
+## What is your personal information?
 
-We may also use this information to improve the range of services available to you, by sending you information on our products and services, and on products and services offered by our affiliates, from time to time. Please see below for instructions on how to opt-out of such communications.
+When used in this privacy policy, the term “personal information” has the meaning given to it in the Act. In general terms, it is any information that can be used to personally identify you. This may include your name, address, telephone number, email address and profession or occupation. If the information we collect personally identifies you, or you are reasonably identifiable from it, the information will be considered personal information.
 
-We also collect personal information about you when you send us an email, in which case we collect your email address and whatever information you choose to include in the contents of the email. We use this information to respond to your email and to provide the services.
+## What personal customer information do we collect and hold?
 
-We may also send site and service announcement updates to clients. You are not able to unsubscribe or opt-out of service announcements. We may also communicate with you in connection with the provision of services and issues relating to your account(s) with us via email, telephone or other methods.
+We may collect the following types of personal information:
 
-We may log your IP address and the use of your username and password. We will use this information to confirm your compliance with the terms of your agreement with us, to monitor your use of the website and for billing purposes. We do not collect user specific information regarding the activity of our users after login; however, we may use aggregated information (such as page hits and page views) for statistical purposes to improve the range of our products and services. Aggregated information is de-identified so that it does not contain any of your personal information.
+\- name;
 
-### (b) As a recipient of Media Releases
+\- mailing or street address;
 
-Our business distributes media releases, on behalf of third parties, to a wide range of media organisations. Through our own investigations, we identify potential recipients of media releases whom we reasonably conclude may be interested in receiving such media releases (Recipient).
+\- email address;
 
-If we have identified you as a potential Recipient we will collect your business contact details. Such details may include your name, job title, employer and business contact details, including a business email address. We use this information to distribute media releases from Australian and overseas sources to you. Whenever you receive a media release as a Recipient you may opt-out of receiving further media releases by following the "opt-out" instructions below.
+\- telephone number;
 
-### (c) General - Cookies
+\- facsimile number;
 
-We may use cookies on the Medianet website. Cookies are pieces of information that a website transfers to your computer's hard disk for record-keeping purposes. Cookies in and of themselves do not personally identify users, although they do identify a user's browser. Most Web browsers are set to accept cookies. However, if you do not wish to receive any cookies you may set your browser to refuse cookies.
+\- profession, occupation or job title; details of the products and services you have purchased from us or which you have enquired about, together with any additional information necessary to deliver those products and services and to respond to your enquiries;
 
-## 2\. Does Medianet give personal information about clients to anyone else?
+\- any additional information relating to you that you provide to us directly through our websites or indirectly through use of our websites or online presence, through our representatives or otherwise; and
 
-We do not, and will not, sell, share or rent personal information relating to our clients to any third party, except that (a) we may share information with our subsidiaries and affiliates for similar uses to the uses outlined above; (b) we may provide information when required in order to respond to subpoenas, court orders or legal process; and (c) in the event of a sale of the Medianet business or of AAP, such information could be part of the business transferred.
+\- information you provide to us through our service centre, customer surveys or visits by our representatives from time to time.
 
-## 3\. Does Medianet give personal information about recipients to anyone else?
+We may also collect some information that is not personal information because it does not identify you or anyone else. For example, we may collect anonymous answers to surveys or aggregated information about how users use our website.
 
-As a Recipient, we may disclose your name to our Medianet clients, affiliates and partners (some of whom are located overseas and include PRNMedia, who may use that information for the purpose of compiling distribution lists for the selection of Recipients of media releases through their use of the Medianet service. If at any time you no longer wish to have your personal information disclosed or used in this manner, please tell us by following the "opt-out" instructions below.
+## How do we collect your personal information?
 
-We may also disclose your personal information when required in order to respond to subpoenas, court orders or legal process, and in the event of a sale of the Medianet business, or of AAP, such information could be part of the business transferred.
+We collect your personal information directly from you unless it is unreasonable or impracticable to do so. When collecting personal information from you, we may collect in ways including:
 
-## 4\. How Secure is Your Personal Information?
+\- through your access and use of our websites;
 
-We take reasonable steps to ensure the security of personal information held by us from such risks as loss or unauthorised access, destruction, use, modification or disclosure. Our IT systems are password protected, protected by firewalls and satisfy other industry standard security measures, and if personal information is held on paper files, it can only be accessed by authorised personnel.
+\- during conversations between you and our representatives;
 
-## 5\. How Can You "Opt-Out" of Communications From Us?
+\- when you complete an application or purchase order;
 
-Where we have given you the option to "opt-out" of receiving certain types of communication from us, or from having your personal information used in certain ways, you can exercise your right to "opt-out" by contacting AAP's Privacy Officer at [privacy@aap.com.au](mailto:privacy@aap.com.au).
+\- when you provide us with unsolicited information such as press releases;
 
-Please note that the only way to unsubscribe from service announcements is to cancel your subscription to the relevant service.
+\- via ‘cookies’ on our website. Cookies are pieces of information that a website transfers to your computer's hard disk for record-keeping purposes. Cookies in and of themselves do not personally identify users, although they do identify a user's browser. If you then register with us we will retain the information we received from your cookie.
 
-## 6\. What Rights do You Have in Relation to Personal Information We Hold About You?
+We may also collect personal information from third parties including
 
-Under the Privacy Act, you have a right to seek access to information we hold about you (although there are some exceptions to this). You also have the right to ask us to correct information about you which is inaccurate, incomplete or out of date.
+\- contact details of potential customers and business contacts through Medianet's own investigations of or via an existing customer or contact;
 
-If you wish to exercise your rights under the Privacy Act to seek access to, or to correct, the personal information we hold about you, please contact AAP's Privacy Officer by e-mail at [privacy@aap.com.au](mailto:privacy@aap.com.au), or by mail to PO Box 3411, Rhodes Waterside, Rhodes NSW 2138. When contacting AAP's Privacy Officer, please provide as much detail as possible to assist us to follow up your request.
+## Cookies
 
-In the first instance, we will generally provide you with a summary of the information we hold about you. We will assume (unless you tell us otherwise) that your request relates to our current records about you. These current records will include personal information about you which is included in our computers, databases and in paper files, and which may be used by us on a day to day basis.
+In some cases we may also collect your personal information through the use of cookies. When you access our website, we may send a “cookie” (which is a small summary file containing a unique ID number) to your computer. This enables us to recognise your computer and greet you each time you visit our website without bothering you with a request to register. It also enables us to keep track of products or services you view so that, if you consent, we can send you news about those products or services.
 
-To provide you with access to this personal information, we will ordinarily provide you with a print-out of the relevant personal information from our databases, or with photocopies of records which are held only on paper files. If personal information about you (for example, your name & address details) is duplicated across different databases, we will generally provide you with one print-out of this information, rather than multiple print-outs. Ordinarily, we will not charge you for the cost of providing this type of access to these records.
+We also use cookies to measure traffic patterns, to determine which areas of our website have been visited and to measure transaction patterns in the aggregate. We use this to research our users’ habits so that we can improve our online products and services. Our cookies do not collect personal information. If you do not wish to receive cookies, you can set your browser so that your computer does not accept them.
 
-For legal and administrative reasons, we may also store records containing personal information in our archives. You may seek access to the records held by us which are not current records, but if you do so, we may charge you for the cost of providing access.
+We may log IP addresses (that is, the electronic addresses of computers connected to the internet) to analyse trends, administer the website, track users movements, and gather broad demographic information. 
 
-Also please be aware that if the relevant personal information was collected before 21 December 2001, we will only provide you with access in accordance with section 16C of the Privacy Act 1988. This states that we only need to give you access to personal information collected before 21 December 2001 if we use and disclose that information after that date, and if providing access would not create an unreasonable administrative burden or unreasonable expense.
+### What happens if we can’t collect your personal information?
 
-If you are of the view that personal information about you is not accurate, complete or up to date, please provide AAP's Privacy Officer with your request for correction. Our policy is to consider any requests for correction in a timely manner.
+If you do not provide us with the personal information described above, some or all of the following may happen:
 
-## 7\. Contacting Medianet and AAP
+\- we may not be able to provide the requested products or services to you, either to the same standard or at all;
 
-If you have any questions or comments about this privacy policy, or if you have a complaint about the handling of your personal information, please contact AAP's Privacy Officer by one of the following means:
+\- we may not be able to provide you with information about products and services that you may want, including information about discounts, sales or special promotions; or
 
-Email: [privacy@aap.com.au](mailto:privacy@aap.com.au)  
-Mail: PO Box 3411  
-Rhodes Waterside  
+\- we may be unable to tailor the content of our websites to your preferences and your experience of our websites may not be as enjoyable or useful.
+
+## For what purposes do we collect, hold, use and disclose your personal information?
+
+We collect personal information about you so that we can perform our business activities and functions and to provide best possible quality of customer service.
+
+We collect, hold, use and disclose your personal information for the following purposes:
+
+\- to provide tailored products and services to you and to send communications requested by you;
+
+\- to answer enquiries and provide information or advice about existing and new products or services;
+
+\- to provide you with access to protected areas of our website;
+
+\- to assess the performance of the website and to improve the operation of the website;
+
+\- to conduct business processing functions including providing personal information to our related bodies corporate, contractors, service providers or other third parties;
+
+\- for the administrative, marketing (including direct marketing), planning, product or service development, quality control and research purposes of Medianet, its related bodies corporate, contractors or service providers;
+
+\- statistical purposes to improve the range of our products and services. However, aggregated (ie de-identified) information will generally be used;
+
+\- to provide your updated personal information to our related bodies corporate, contractors or service providers;
+
+\- to update our records and keep your contact details up to date;
+
+\- to process and respond to any complaint made by you; and
+
+\- to comply with any law, rule, regulation, lawful and binding determination, decision or direction of a regulator, or in co-operation with any governmental authority.
+
+## To whom may we disclose your information?
+
+We may disclose your personal information to:
+
+\- our employees, related bodies corporate, contractors or service providers for the purposes of operation of our website or our business, fulfilling requests by you, and to otherwise provide products and services to you including, without limitation, web hosting providers, IT systems administrators, mailing houses, couriers, payment processors, data entry service providers, electronic network administrators, debt collectors, and professional advisors such as accountants, solicitors, business advisors and consultants;
+
+\- suppliers and other third parties with whom we have commercial relationships, for business, marketing, insurance and related purposes;
+
+\- where required by and due to mandatory requirements of law enforcement agencies, government agencies or courts;
+
+\- any organisation for any authorised purpose with your express consent.
+
+We may combine or share any information that we collect from you with information collected by any of our related bodies corporate (within Australia).
+
+## Direct marketing materials
+
+We may send you direct marketing communications and information about our products and services that we consider may be of interest to you. These communications may be sent in various forms, including mail, SMS, and email, in accordance with applicable marketing laws, such as the Spam Act 2003 (Cth). If you indicate a preference for a method of communication, we will endeavour to use that method whenever practical to do so. In addition, at any time you may opt-out of receiving marketing communications from us by contacting us (see the details below) or by using opt-out facilities provided in the marketing communications and we will then ensure that your name is removed from our mailing list.
+
+## How can you access and correct your personal information?
+
+You may request access to any personal information we hold about you at any time by contacting us (see the details below). Where we hold information that you are entitled to access, we will try to provide you with suitable means of accessing it (for example, by mailing or emailing it to you). We may charge you a reasonable fee to cover our administrative and other reasonable costs in providing the information to you. We will not charge for simply making the request and will not charge for asking any corrections to your personal information.
+
+There may be instances where we cannot grant you access to the personal information we hold. For example, we may need to refuse access if granting access would interfere with the privacy of others or if it would result in a breach of confidentiality. If that happens, we will give you written reasons for any refusal.
+
+If you believe that personal information we hold about you is incorrect, incomplete or inaccurate, then you may request us to amend it. We will consider if the information requires amendment. If we do not agree that there are grounds for amendment then we will make a record noting that you disagree with it.
+
+## What is the process for complaining about a breach of privacy?
+
+If you believe that your privacy has been breached, please contact us using the contact information below and provide details of the incident so that we can investigate it. Medianet's policy is to consider any requests for correction in a timely way.
+
+## Do we disclose your personal information to anyone outside Australia?
+
+We may disclose personal information to our related bodies corporate and third party suppliers and service providers located overseas for some of the purposes listed above.
+
+We take reasonable steps to ensure that the overseas recipients of your personal information do not breach the privacy obligations relating to your personal information.
+
+## Contacting us
+
+If you have any questions about this privacy policy, any concerns or a complaint regarding the treatment of your privacy or a possible breach of your privacy, please use the contact link on our website or contact our Privacy Officer using the details set out below.
+
+We will treat your requests or complaints confidentially. Our representative will contact you within a reasonable time after receipt of your complaint to discuss your concerns and outline options regarding how they may be resolved. We will aim to ensure that your complaint is resolved in timely and appropriate manner.
+
+**Please contact our Privacy Officer at:**  
+Email: [privacy@aap.com.au  
+](mailto://privacy@aap.com.au)Cc: [marketing@aap.com.au  
+](mailto://marketing@aap.com.au)Mail: PO Box 3411   
+Rhodes Waterside   
 Rhodes NSW 2138
 
-## 8\. Changes to this Privacy Statement
+## Changes to our privacy policy
 
-We may change this privacy policy from time to time, by posting changes to this site. We encourage you to visit this site periodically. This policy was last updated on 17 May 2006.
+We may change this privacy policy from time to time. Any updated versions of this privacy policy will be posted on our website.
 
-## 9\. Australian Privacy Commissioner
-
-If you are not satisfied with the way in which we handle your enquiry or complaint, you can contact the Office of the Australian Privacy Commissioner by any of the following methods:
-
-Tel: 1300 363 992 (for the cost of a local call anywhere in Australia);   
-TTY: 1800 620 241 (this number is dedicated for the hearing impaired only, no voice calls);  
-Mail: GPO Box 5218, Sydney NSW 2001;  
-Fax: +61 2 9284 9666;  
-Email: [privacy@privacy.gov.au](mailto:privacy@privacy.gov.au)
+This privacy policy was last updated on 12 March 2014.
