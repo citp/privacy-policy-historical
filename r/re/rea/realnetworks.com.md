@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realnetworks.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216155119id_/http%3A//www.realnetworks.com/privacy-policy/index.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realnetworks.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630021000id_/http%3A//www.realnetworks.com/privacy-policy/index.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | RealNetworks
 
@@ -135,7 +135,7 @@ If you created an account with RealNetworks, you may review and update your acco
 
 We use cookies, web beacons, pixel tags, and similar technologies to provide you with a tailored experience.
 
-**For more information on our use of cookies, please see our[cookie policy](https://web.archive.org/web/20131216155119id_/http%3A//www.realnetworks.com/privacy-policy/cookies.aspx)**
+**For more information on our use of cookies, please see our[cookie policy](https://web.archive.org/web/20140630021000id_/http%3A//www.realnetworks.com/privacy-policy/cookies.aspx)**
 
 ## CHANGES TO OUR PRIVACY POLICY
 
