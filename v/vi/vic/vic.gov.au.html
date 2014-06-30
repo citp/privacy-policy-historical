@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the vic.gov.au privacy policy that was archived on 2013-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131217211158id_/http%3A//www.vic.gov.au/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vic.gov.au privacy policy that was archived on 2014-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140630145608id_/http%3A//www.vic.gov.au/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 		<title>Privacy | Victorian Government</title>
@@ -21,9 +21,8 @@
 <meta name="AGLS.Audience" scheme="agls-audience" content="All">
 <meta name="DC.Date.created" scheme="ISO8601" content="2013-03-07">
 <meta name="VO.Date.catalogued" scheme="ISO8601" content="2013-03-07">
-<meta name="VO.Last.modified" scheme="ISO8601" content="2013-09-26">
-<meta name="VO.Review.date" scheme="ISO8601" content="2014-09-26">
-<meta name="VO.Publish.date" scheme="ISO8601" content="2013-03-07">
+<meta name="VO.Last.modified" scheme="ISO8601" content="2014-04-24">
+<meta name="VO.Review.date" scheme="ISO8601" content="2015-04-24">
 <meta name="VO.Content" content="Web page">
 <meta name="DC.Type.category" content="Document">
 <meta name="DC.Language" scheme="RFC3066" content="en">
@@ -40,7 +39,7 @@
 <link rel="icon" href="http://www.vic.gov.au/themes/v6/images/favicon.ico" type="image/x-icon">
 <link rel="shortcut icon" href="http://www.vic.gov.au/themes/v6/images/favicon.ico" type="image/x-icon">
 
-<link rel="stylesheet" type="text/css" href="http://www.vic.gov.au/themes/v6/inc/style.css?v2013-11-29">
+<link rel="stylesheet" type="text/css" href="http://www.vic.gov.au/themes/v6/inc/style.css?v2014-1-1">
 <link rel="stylesheet" href="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.18/themes/smoothness/jquery-ui.css">
 
 	<script type="text/javascript" src="http://www.vic.gov.au/themes/v6/inc/js/jquery-1.7.2.min.js"></script>
@@ -53,6 +52,14 @@
 <script type="text/javascript" src="http://www.vic.gov.au/themes/v6/inc/js/html5.js"></script>
 <script type="text/javascript" src="http://www.vic.gov.au/themes/v6/inc/js/jquery.accordion.js"></script>
 <script type="text/javascript" src="http://www.vic.gov.au/themes/v6/inc/js/script.js"></script>
+<script type="text/javascript" src="http://www.vic.gov.au/themes/v6/inc/js/form_manager.js"></script>
+
+<script>
+	FormManager.init({
+		url: 'http://www.vic.gov.au/index.php?env=-#TEMPLATE#:m9252-1-1-9-s-',
+		windowManager: new FormManager_WindowManagerColorBox()
+	});
+</script>
 
 
 	<!--[if IE]>
@@ -98,7 +105,7 @@
 				url: '//www.google.com/cse/api/017641786003145708416/cse/rb7nojjhpfk/queries/js',
 				dataType: 'JSONP',
 				success: function (data) {
-					var $search_url = 'http://www.vic.gov.au/search.html?q=#QUERY#';
+					var $search_url = 'http://www.vic.gov.au/search-results.html?q=#QUERY#';
 
 					$list = $('<ul></ul>').addClass('horizontal');
 					$.each(data.popularQueries, function (index, value) {
@@ -131,6 +138,7 @@
 <!-- Start Analytics Include File -->
 <script type="text/javascript" src="http://www.vic.gov.au/themes/v6/inc/analytics/analytics-include.js"></script>
 <!-- End Analytics Include File -->
+
 </head>
 <body class="inner mobile-inner">
 	
@@ -144,7 +152,7 @@
 							<div class="w4">
 								<strong class="logo-print"><a href="http://www.vic.gov.au/"><img src="http://www.vic.gov.au/themes/v6/images/logo-2.gif" alt="#" width="142" height="100"></a></strong>
 								<header id="header" class="g3">
-                                                                                                                <div class="header-holder">    <div class="panel">	<div class="logo-holder">		<div class="holder vcard">			<strong class="logo-small url"><img src="http://www.vic.gov.au/themes/v6/images/logo-small.gif" alt="State Government Victoria"></strong>			<strong class="logo-text">Victorian<br>			Government</strong>		</div>	</div>	<ul class="toolbar">		<li><a class="print" href="javascript:window.print();">Print</a></li>		<li>			<span>Text size</span> <a id="increase" href="#">A</a> <a id="decrease" href="#">A</a>		</li>	</ul></div>    <div class="section-search">        <div class="block">            <div class="block-hold">                <h1 class="logo"><a href="http://www.vic.gov.au/">Vic.gov.au</a></h1>                <div class="holder">                    <form class="form-search" action="http://www.vic.gov.au/search.html" method="get">                        <fieldset>                            <legend class="hide">Keyword Search</legend>                            <div class="row">                                <div class="row-hold">                                    <div class="text"><span>                                    <input name="q" id="search-keywords" type="text" placeholder="" autocomplete="off"></span></div>                                    <div class="submit"><input type="submit" value="Search"></div>                                </div>                            </div>                        </fieldset>                        <script type="text/javascript">                            // Auto-complete                            $(document).ready(function(){                                $('input[name=q]').autocomplete({                                    source: function(request, response) {                                        var $auto_complete_url = '//clients1.google.com/complete/search?templates=search&q=__query__&no_amp=1&hl=en&client=partner&source=gcsc&partnerid=017641786003145708416%3Arb7nojjhpfk&ds=cse';                                        $.ajax({                                            url: $auto_complete_url.replace('__query__', request.term),                                            dataType: 'JSONP',                                            success: function(data) {                                                response($.map(data[1], function(item) {                                                    return item[0];                                                }));                                            }                                        });                                    },                                    select: function(event, ui) {                                        if(!ui.item) return;                                        window.location.href = 'http://www.vic.gov.au/search.html' + '?q=' + ui.item.label;                                    }                                });                            });                        </script>                    </form>                    <form class="search-form" action="http://www.vic.gov.au/search.html" method="get">                        <fieldset>                            <legend class="hide">Keyword Search</legend>                            <div class="row">                                <input type="submit" class="submit" value="Search">                                <div class="text">                                    <span><input id="search-sub-keywords" name="q" type="text" placeholder=""></span>                                </div>                            </div>                        </fieldset>                    </form>                </div>            </div>        </div>    </div></div>                                    								</header>
+                                                                                                                <div class="header-holder">    <div class="panel">	<div class="logo-holder">		<div class="holder vcard">			<strong class="logo-small url"><img src="http://www.vic.gov.au/themes/v6/images/logo-small.gif" alt="State Government Victoria"></strong>			<strong class="logo-text">Victorian<br>			Government</strong>		</div>	</div>	<ul class="toolbar">		<li><a class="print" href="javascript:window.print();">Print</a></li>		<li>			<span>Text size</span> <a id="increase" href="#">A</a> <a id="decrease" href="#">A</a>		</li>	</ul></div>    <div class="section-search">        <div class="block">            <div class="block-hold">                <h1 class="logo"><a href="http://www.vic.gov.au/">Vic.gov.au</a></h1>			    <div class="holder">                    <form class="form-search" action="http://www.vic.gov.au/search-results.html" method="get">                        <fieldset>                            <legend class="hide">Keyword Search</legend>                            <div class="row">                                <div class="row-hold">                                    <div class="text"><span>                                    <input name="q" id="search-keywords" type="text" class="default" placeholder="I'm looking for..." value="" autocomplete="off"></span></div>                                    <div class="submit"><input type="submit" value="Search"></div>                                </div>                            </div>                        </fieldset>                        <script type="text/javascript">                            // Auto-complete                            $(document).ready(function(){                                $('input[name=q]').autocomplete({                                    source: function(request, response) {                                        var $auto_complete_url = '//clients1.google.com/complete/search?templates=search&q=__query__&no_amp=1&hl=en&client=partner&source=gcsc&partnerid=017641786003145708416%3Arb7nojjhpfk&ds=cse';                                        $.ajax({                                            url: $auto_complete_url.replace('__query__', request.term),                                            dataType: 'JSONP',                                            success: function(data) {                                                response($.map(data[1], function(item) {                                                    return item[0];                                                }));                                            }                                        });                                    },                                    select: function(event, ui) {                                        if(!ui.item) return;                                        window.location.href = 'http://www.vic.gov.au/search-results.html' + '?q=' + ui.item.label;                                    }                                });                            });                        </script>                    </form>                    <form class="search-form" action="http://www.vic.gov.au/search-results.html" method="get">                        <fieldset>                            <legend class="hide">Keyword Search</legend>                            <div class="row">                                <input type="submit" class="submit" value="Search">                                <div class="text">                                    <span><input id="search-sub-keywords" name="q" type="text" class="default" placeholder="I'm looking for..." value=""></span>                                </div>                            </div>                        </fieldset>                    </form>                </div>            </div>        </div>    </div></div>                                    								</header>
 							</div>
 						</div>
 					</div>
@@ -193,7 +201,7 @@
 			<li>
 				<a href="#datacollection">Data Collection</a></li>
 			<li>
-				<a href="#contacts">Contacts &amp; Services Directory</a></li>
+				<a href="#contacts">Victorian Government Directory</a></li>
 			<li>
 				<a href="#thirdparty">Social Media Websites and Applications</a></li>
 		</ul>
@@ -313,7 +321,7 @@
 <h3>
 	Google Analytics - Use of Cookies</h3>
 <p>
-	<a href="http://www.google.com/analytics/">Google Analytics</a> uses a first-party cookie and JavaScript code to collect information about visitors to Victoria Online. Google Analytics anonymously tracks how our visitors interact with this website, including where they came from, what they did on the site, and whether they completed any transactions on the site such as newsletter registration.</p>
+	<a href="http://www.google.com/analytics/">Google Analytics</a> uses a first-party cookie and JavaScript code to collect information about visitors to vic.gov.au. Google Analytics anonymously tracks how our visitors interact with this website, including where they came from, what they did on the site, and whether they completed any transactions on the site such as newsletter registration.</p>
 <p>
 	Please also read the <a href="https://www.google.com/intl/en/policies/privacy/">Google Privacy Policy</a>.</p>
 <h3>
@@ -345,28 +353,178 @@
 <p>
 	While the anonymous statistical data www.vic.gov.au collects may be aggregated and used in broader statistical analysis by the State of Victoria, at no time can we personally identify you as the source of that data.</p>
 <h2>
-	<a id="contacts" name="contacts"></a>Contacts and Services Directory</h2>
+	<a id="contacts" name="contacts"></a>Victorian Government Directory</h2>
 <p>
-	The Contacts &amp; Services Directory aims to assist citizens to find relevant services, websites or contacts within the Victorian Government.</p>
+	The Victorian Government Directory aims to assist citizens to find relevant services, websites or contacts within the Victorian Government.</p>
 <p>
-	To ensure privacy is being managed effectively and to report any possible breaches there are several feedback loops in place. On the Contacts &amp; Services directory website there is a link to a feedback form for the general public to alert www.vic.gov.au to errors or omissions in data for resolution or referral. The Victorian Government Contact Centre phone number is displayed to allow for verbal feedback.</p>
+	To ensure privacy is being managed effectively and to report any possible breaches there are several feedback loops in place. On the Victorian Government directory website there is a link to a feedback form for the general public to alert www.vic.gov.au to errors or omissions in data for resolution or referral. The Victorian Government Contact Centre phone number is displayed to allow for verbal feedback.</p>
 <h2>
 	<a id="thirdparty" name="thirdparty"></a>Social Media Websites and Applications</h2>
 <p>
 	In addition to www.vic.gov.au, The Victorian Government uses social media websites to share information and to engage with the public. For example, www.vic.gov.au embeds a Twitter feed listing tweets from various Victorian Government departments and agencies on our home page. Our intention is to provide a seamless visitor experience to enhance our website visitor's ability to access information and communicate with the Victorian Government.</p>
 <p>
-	Some social media websites and applications may make personally identifiable information available to the public. www.vic.gov.auy will not collect, maintain, use, or share any personally identifiable information that becomes available through the use of social media websites or applications.</p>
+	Some social media websites and applications may make personally identifiable information available to the public. www.vic.gov.au will not collect, maintain, use, or share any personally identifiable information that becomes available through the use of social media websites or applications.</p>
 <p>
-	Please be aware that privacy policies provided by social media websites may not be the same as the privacy poilicy described here.</p>
+	Please be aware that privacy policies provided by social media websites may not be the same as the privacy policy described here.</p>
 <p>
 	Also we advise that personally identifiable information or other information you share via social media or applications may be accessible by non-government third parties.</p>
 <div class="button-hold">
 	<a href="#back">Back to top</a></div>
-<p>This page was updated 26 September 2013.</p>
+<p>
+	This page was updated 6 February 2014.</p>
 
 		</article>
-	</section>
+
+					
+			<div class="share-bar-top">
+    <div class="share-bar-left">
+        <h3>Share</h3>
+        <a target="_blank" href="//twitter.com/intent/tweet?url=http%3A%2F%2Fwww.vic.gov.au%2Fprivacy.html&amp;text=Privacy" title="twitter"><i class="icon-twitter"></i></a>
+        <a target="_blank" href="//www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.vic.gov.au%2Fprivacy.html&amp;title=Privacy" title="facebook"><i class="icon-facebook"></i></a>
+        <a target="_blank" href="http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.vic.gov.au%2Fprivacy.html&amp;description=Privacy" title="pinterest"><i class="icon-pinterest-circled"></i></a>
+        <a target="_blank" href="https://plus.google.com/share?url=http%3A%2F%2Fwww.vic.gov.au%2Fprivacy.html" title="gplus"><i class="icon-gplus"></i></a>
+        
+    </div>
+    <div class="share-bar-right">
+        <a target="_blank" href="https://twitter.com/VicGovAu" title="twitter"><i class="icon-twitter"></i></a>
+        <h3>Follow @VicGovAu</h3>
+        <a class="next" href="#"></a>
+    </div>
+</div>			</section>
+
+                    <div style="clear: both"></div>
+                    <div class="page-quality-block">
+                    	<div class="page-quality-block-inner full-page">
+                        	
+<script type="text/javascript">
+	FormManager.resetFields('page-quality');
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="useful-notuseful">
+
+    <form>
+        <h2>This page was:</h2>
+        <button class="rounded grey useful-status" type="submit" data-quality="1">Useful</button>
+        <button class="rounded grey useful-status" type="submit" data-quality="0">Not useful</button>
+    </form>
+    
+    <div class="calendar_event_suggestion" style="margin-top: 20px;display: none">
+        <div class="calendar_event_header">
+            Page feedback
+        </div>
+        <form id="page_quality_form" class="calendar_event_form" action="https://www.vic.gov.au/privacy.html">
+            <fieldset>
+                	<div class="row">
+			<div class="label">
+		<label for="page-quality[0][QualityType]"><span id="page-quality[0][QualityType]_field_cell">
+		This page was		</span></label>
+		<span id="page-quality[0][QualityType]_status_cell"></span>
+	</div>
+		<div class="data">
+								<label for="page-quality[0][QualityType]_1"><input type="radio" tabindex="" style="" checked="" name="page-quality[0][QualityType]" id="page-quality[0][QualityType]_1" value="1">Useful</label>&nbsp;
+	<label for="page-quality[0][QualityType]_0"><input type="radio" tabindex="" style="" name="page-quality[0][QualityType]" id="page-quality[0][QualityType]_0" value="0">Not Useful</label>&nbsp;
+
+					</div>
+	</div>
+	<script type="text/javascript">
+		FormManager.registerField('page-quality', 'QualityType', undefined, 'radio');
+	</script>
+            </fieldset>
+            <div class="form_note">
+                <p>Let us know what you thought of this page and what other information you would like to see.</p>
+            </div>
+            <fieldset>
+                	<div class="row">
+			<div class="label">
+		<label for="page-quality[0][FeedbackMessage]"><span id="page-quality[0][FeedbackMessage]_field_cell">
+		Feedback about this page (optional)		</span></label>
+		<span id="page-quality[0][FeedbackMessage]_status_cell"></span>
+	</div>
+		<div class="data">
+			<textarea tabindex="" name="page-quality[0][FeedbackMessage]" id="page-quality[0][FeedbackMessage]" cols="" rows="" style="width:100%;height:75px; border:1px solid #999"></textarea>
+		</div>
+	</div>
+	<script type="text/javascript">
+		FormManager.registerField('page-quality', 'FeedbackMessage', undefined, 'textarea');
+	</script>
+            </fieldset>
+            <div class="form_note">
+                <p>Please provide your email address if you would like to discuss this further.</p>
+            </div>
+            <fieldset>
+                	<div class="row">
+			<div class="label">
+		<label for="page-quality[0][ContactInformation]"><span id="page-quality[0][ContactInformation]_field_cell">
+		Contact (optional)		</span></label>
+		<span id="page-quality[0][ContactInformation]_status_cell"></span>
+	</div>
+		<div class="data">
+			<input type="text" name="page-quality[0][ContactInformation]" id="page-quality[0][ContactInformation]" style="width:100%; border:1px solid #999" value="" tabindex="">
+					</div>
+	</div>
+	<script type="text/javascript">
+		FormManager.registerField('page-quality', 'ContactInformation', undefined, 'text');
+	</script>
+            </fieldset>
+            <div class="row">
+                <div class="label"></div>
+                <div class="data button_row">
+					<input type="text" name="email" value="">
+					<input type="hidden" name="page_title" value="Privacy">
+					<input type="hidden" name="page-quality[0][PageUrl]" value="http://www.vic.gov.au/privacy.html">
+					<button class="rounded grey submit">Submit feedback</button>
+                </div>
+            </div>
+        </form>
+    </div>
+
+</div>
+
+<script type="text/javascript">
+	$(document).ready(function(){
+		$('.useful-status').click(function($e){
+			$e.preventDefault();
+			$('input[name="page-quality[0][QualityType]"][value="' + $(this).data('quality') + '"]').prop('checked', true);
+			$('.calendar_event_suggestion').show();
+		});
+
+		$('#page_quality_form').submit(function ($e) {
+			$e.preventDefault();
+			FormManager.submitForm('page-quality');
+		});
+
+		FormManager.registerForm({
+			prefix: 'page-quality',
+			immediate_validation: true,
+			id: 0,
+			save_event: 'OnCreateAjax',
+			form_id: 'page_quality_form',
+			before_close: function($data, $add_params) {
+				$('.calendar_event_suggestion').hide();
+				return false;
+			}
+		});
+	});
+</script>                        </div>
+                        <div style="clear: both"></div>
+                    </div>
+
 				</div>
+
 			</div>
 		</div>
 
@@ -383,18 +541,29 @@
 	<li>
 		<a href="http://www.bookshop.vic.gov.au">Bookshop</a></li>
 	<li>
-		<a href="/contactsandservices/directory/">Contacts &amp; Services Directory</a></li>
-	<li>
 		<a href="http://data.vic.gov.au">Data Directory</a></li>
 	<li>
 		<a href="/calendar.html">Events Calendar</a></li>
 	<li>
 		<a href="/grants.html">Grants Victoria</a></li>
-<li><a href="http://www.premier.vic.gov.au/media-centre/media-releases.html">Media releases</a></li>
 	<li>
-		<a href="/newsletter.html">Monthly News</a></li>
-<li><a href="http://www.gazette.vic.gov.au/">Victoria Government Gazette</a></li>
-<li><a href="http://www.legislation.vic.gov.au/">Victorian Legislation</a></li>
+		<a href="/news.html">Latest News</a></li>
+	<li>
+		<a href="http://www.premier.vic.gov.au/media-centre/media-releases.html">Media releases</a></li>
+	<li>
+		<a href="/newsletter.html">Monthly Newsletter</a></li>
+        <li>
+		<a href="/publications.html">Publications</a></li>
+	<li>
+		<a href="/services.html">Services Victoria</a></li>
+	<li>
+		<a href="/social-media/widgets/url-shortener.html">URL Shortener</a></li>
+	<li>
+		<a href="http://www.gazette.vic.gov.au/">Victoria Government Gazette</a></li>
+	<li>
+		<a href="/contactsandservices/directory/">Victorian Government Directory</a></li>
+	<li>
+		<a href="http://www.legislation.vic.gov.au/">Victorian Legislation</a></li>
 </ul>
 
 				</div>
@@ -433,16 +602,35 @@
 					<ul>
 	<li>
 		<a href="/blog">Blog</a></li>
+	<li>
+		<a href="/consultations">Consultations</a></li>
         <li>
-		<a href="/consultations">Consultations</a></li>	
+		<a href="/hotlines.html">Hotlines</a></li>
+
 	<li>
 		<a href="/social-media/mobile-apps.html">Mobile apps</a></li>
-        <li>
+	<li>
 		<a href="/social-media/rss.html">RSS feeds</a></li>
 	<li>
 		<a href="/social-media.html">Social media</a></li>
 	<li>
 		<a href="/social-media/widgets.html">Widgets</a></li>
+</ul>
+
+                    <h3>Alerts</h3>
+                    <ul>
+	<li>
+		<a href="http://traffic.vicroads.vic.gov.au/">Traffic alerts</a></li>
+	<li>
+		<a href="http://www.bom.gov.au/vic/warnings/">Weather warnings</a></li>
+	<li>
+		<a href="http://emergency.vic.gov.au/">VicEmergency</a></li>
+	<li>
+		<a href="http://www.triplezero.gov.au/">000 - Triple Zero</a></li>
+	<li>
+		<a href="http://www.ses.vic.gov.au/">132 500 - SES</a></li>
+	<li>
+		<a href="http://www.cfa.vic.gov.au/contact/bushfire-information-line/">1800 240 667 - Victorian Bushfire Information Line</a></li>
 </ul>
 
 				</div>
@@ -465,7 +653,7 @@
 				<p class="copyright">State Government of Victoria</p>
 				<dl class="updates">
 					<dt>Last updated:</dt>
-					<dd>17 December 2013</dd>
+					<dd>30 June 2014</dd>
 				</dl>
 			</div>
 			<div class="footer-mobile">
@@ -473,10 +661,12 @@
 					<strong class="logo-footer"><a href="http://www.vic.gov.au/">Victorian Government Contact Centre</a></strong>
 				</div>
 				<ul>
-					<li><a href="http://www.vic.gov.au/feedback.html">Feedback</a></li>
+					<li><a href="http://www.vic.gov.au/privacy.html">Privacy</a></li>
+					<li><a href="http://www.vic.gov.au/terms.html">Terms of use</a></li>
+                    <li><a href="http://www.vic.gov.au/feedback.html">Feedback</a></li>
 					
 				</ul>
-				<span class="copy">Copyright State Government of Victoria <br> Last updated: 17 December 2013</span>
+				<span class="copy"><a href="http://www.vic.gov.au/copyright.html">Copyright</a> State Government of Victoria <br> Last updated: 30 June 2014</span>
 			</div>
 		</footer>
 	</div>
