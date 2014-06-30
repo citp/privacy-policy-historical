@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tout.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806133301id_/http%3A//www.tout.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tout.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630052833id_/http%3A//www.tout.com/privacy) for the most accurate reproduction.*
 
-# TOUT | Tout It Out!
+# TOUT | Real-Time Mobile Video Publishing Platform
 
 Our privacy policy explains how personal information is collected, used and disclosed by Tout with respect to your access and use of Tout's site (located at www.Tout.com) and Tout's social networking services (available via Tout's site and Tout's Mobile application). Our privacy policy may be modified from time-to-time. We will alert you that changes have been made by indicating on our privacy policy the date it was last updated.
 
