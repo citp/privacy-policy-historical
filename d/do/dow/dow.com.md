@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dow.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230043844id_/http%3A//www.dow.com/homepage/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dow.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630205330id_/http%3A//www.dow.com/homepage/privacy.htm) for the most accurate reproduction.*
 
 # The Dow Chemical Company Privacy Statement
 
@@ -6,7 +6,7 @@
 
  **Dow Values Privacy**
 
-Your privacy is important to us. The Dow Chemical Company complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the United States Department of Commerce and has certified its adherence to the Safe Harbor Privacy Principles. Together with our [global Data Protection/Privacy Policy](http://www.dow.com/homepage/privacy.htm), this Online Privacy Policy explains how The Dow Chemical Company or its affiliate that displays this policy (“Dow,” “we,” “us,” and “our”) protects your privacy when you visit this website and the websites of Dow affiliates that display this Online Privacy Policy. This policy applies to “Personal Information”, information that identifies you personally, either alone or in combination with other information available to us.
+Your privacy is important to us. Together with our [global Data Protection/Privacy Policy](http://www.dow.com/homepage/privacy.htm), this Online Privacy Policy explains how The Dow Chemical Company or its affiliate that displays this policy (“Dow,” “we,” “us,” and “our”) protects your privacy when you visit this website and the websites of Dow affiliates that display this Online Privacy Policy. This policy applies to “Personal Information”, information that identifies you personally, either alone or in combination with other information available to us.
 
 Please take a few minutes to review this Online Privacy Policy. By accessing or using this Site, you are consenting to the collection, use and disclosure of your Personal Information as set forth in this Online Privacy Policy. Please also take a few minutes to review the [Terms of Use](http://www.dow.com/homepage/term.asp) section of our website. If you do not consent to the collection, use and disclosure of your personal information as set forth in this privacy policy or the Terms of Use, please exit and do not use this website.
 
@@ -62,7 +62,7 @@ If permitted by applicable law, we may share your information as described below
 
 ·         _Within Dow_. We may share your personal information with Dow affiliates for the purposes set forth in this Online Privacy Policy.
 
-·         _Our Service Providers._ We may share your personal information with companies or organizations, including subsidiaries, affiliates, and other entities that perform services on our behalf, such as website support service providers. In each case, such third parties are required to use adequate privacy protections and may use the information only for the purpose of providing services to Dow. 
+·         _Our Service Providers._ We may share your personal information with companies or organizations, including subsidiaries, affiliates, and other entities that perform services on our behalf, such as website support service providers. In each case, such third parties are required to use adequate privacy protections and may use the information only for the purpose of providing services to Dow.
 
 ·         Business Transactions and Transfers. Dow may buy, sell, form, or otherwise reorganize one or more of its businesses or sell stock or assets, for example, as the result of a sale, merger, reorganization or liquidation. A transaction of this type may involve the disclosure of your information to prospective purchasers or partners who have signed a confidentiality agreement with Dow.
 
@@ -171,6 +171,6 @@ Chacara Santo Antonio
 São Paulo  
 Brazil 04717-903  
   
-If you have concerns that someone affiliated with Dow has used your information in a manner that is not consistent with this Online Privacy Policy; would like to seek guidance related to [Dow's Code of Business Conduct](http://www.dow.com/about/aboutdow/code_conduct/ethics_conduct.htm); or report potential unethical business practices or other violations of our Code of Business Conduct, please contact the Dow [EthicsLine.](http://www.dow.com/about/aboutdow/ethics.htm) The Dow EthicsLine can be accessed using a toll-free help line, with multi-lingual capabilities, available 24 hours a day, 7 days a week, worldwide, or the Dow EthicsLine can be accessed using an [online form](http://www.dow.com/about/aboutdow/ethics_contact.htm) that provides the option of submitting a written report. In addition, you always have the option of contacting the [Office of Ethics and Compliance](http://www.dow.com/about/aboutdow/ethics.htm) at 989-636-2544 or via email [Ethics@Dow.com](mailto:Ethics@dow.com).
+If you have concerns that someone affiliated with Dow has used your information in a manner that is not consistent with this Online Privacy Policy; would like to seek guidance related to [Dow's Code of Business Conduct](http://www.dow.com/company/aboutdow/code_conduct/ethics_conduct.htm); or report potential unethical business practices or other violations of our Code of Business Conduct, please contact the Dow [EthicsLine.](http://www.dow.com/company/aboutdow/ethics.htm) The Dow EthicsLine can be accessed using a toll-free help line, with multi-lingual capabilities, available 24 hours a day, 7 days a week, worldwide, or the Dow EthicsLine can be accessed using an [online form](https://secure.ethicspoint.com/domain/media/en/gui/23573/index.html) that provides the option of submitting a written report. In addition, you always have the option of contacting the [Office of Ethics and Compliance](http://www.dow.com/company/aboutdow/ethics.htm) at 989-636-2544 or via email [Ethics@Dow.com](mailto:Ethics@dow.com).
 
-Effective Date: June 7, 2013
+Effective Date: June 11, 2014
