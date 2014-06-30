@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the awardscircuit.com privacy policy that was archived on 2013-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131030051618id_/http%3A//www.awardscircuit.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awardscircuit.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630215347id_/http%3A//www.awardscircuit.com/about-us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Awards Circuit - By Clayton Davis
+# Privacy Policy - The Awards Circuit - By Clayton Davis
 
 This Privacy Policy governs the manner in which The Awards Circuit collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.awardscircuit.com](http://www.awardscircuit.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by The Awards Circuit.
 
@@ -64,11 +64,15 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
 [The Awards Circuit](http://www.awardscircuit.com/)  
 [http://www.awardscircuit.com](http://www.awardscircuit.com/)  
-[ClaytonDavis@AwardsCircuit.com](https://web.archive.org/web/20131030051618id_/http://www.awardscircuit.com/about-us/privacy-policy/claytondavis@awardscircuit.com)
+[ClaytonDavis@AwardsCircuit.com](https://web.archive.org/web/20140630215347id_/http://www.awardscircuit.com/about-us/privacy-policy/claytondavis@awardscircuit.com)
 
 This document was last updated on September 02, 2012
 
-Clayton Davis is the respected and esteemed AwardsCircuit.com editor. Clayton has become a proud member of the Broadcast Film Critics Association where he votes and attends the kick off to awards season show, The Critics Choice Movie Awards. Most recently, Clayton is a now an active member of the International Press Academy, which hosts the popular Satellite Awards as well as the newly integrated Broadcast Television Journalists Association, which hosts the Critics Choice Television Awards.
+The following two tabs change content below.
 
-  
+  * Bio
+  * Latest Posts
 
+
+
+Clayton Davis started to write professionally in his sophomore year of college when Johnny Alba, the editor and owner of the old Oscar prediction site, The Oscar Igloo, had an opening for staff writers. Clayton wrote for The Igloo for nearly four years before being appointed editor and revamping and renaming The Oscar Igloo into the now popular mega-site, The Awards Circuit. Since then, Clayton has become a proud member of the Broadcast Film Critics Association where he votes and attends the kick off to awards season show, The Critics Choice Awards. Most recently, Clayton is a now an active member of the International Press Academy, which hosts the popular Satellite Awards as well as the newly integrated Broadcast Television Journalists Association, which hosts the Critics Choice Television Awards. In June 2014 he became the year's first accepted member to New York Film Critics Online. He has been quoted in various outlets (CNN.com, Bloomberg.com, TheWrap.com, AceShowbiz.com, SlashFilm.com, ScottFeinberg.com) and continues to raise the bar for film-talking enthusiasts around the globe.
