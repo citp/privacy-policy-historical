@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the pv-magazine.com privacy policy that was archived on 2013-11-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131123235554id_/http%3A//www.pv-magazine.com/extras/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pv-magazine.com privacy policy that was archived on 2014-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140630042459id_/http%3A//www.pv-magazine.com/extras/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-EN" lang="en-EN"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xml:lang="en-EN" lang="en-EN" xmlns="http://www.w3.org/1999/xhtml"><head>
 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <!-- 
@@ -9,24 +9,24 @@
 
 	This website is powered by TYPO3 - inspiring people to share!
 	TYPO3 is a free open source Content Management Framework initially created by Kasper Skaarhoj and licensed under GNU/GPL.
-	TYPO3 is copyright 1998-2009 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
-	Information and contribution at http://typo3.com/ and http://typo3.org/
+	TYPO3 is copyright 1998-2013 of Kasper Skaarhoj. Extensions are copyright of their respective owners.
+	Information and contribution at http://typo3.org/
 -->
 
 <base href="http://www.pv-magazine.com/">
 
 <title>Privacy policy: pv-magazine</title>
-<meta name="generator" content="TYPO3 4.3 CMS">
+<meta name="generator" content="TYPO3 4.5 CMS">
 <meta name="robots" content="index, follow">
 <meta name="author" content="Sunbeam GmbH">
 <meta name="publisher" content="Solarpraxis AG">
 <meta name="revisit" content="1">
 
-<link rel="stylesheet" type="text/css" href="typo3temp/stylesheet_1fae473a63.css" media="all">
+<link rel="stylesheet" type="text/css" href="typo3temp/stylesheet_fad97d0aa7.css?1400772724" media="all">
 
 
 
-<script src="typo3temp/javascript_e0b36aecfd.js" type="text/javascript"></script>
+<script src="typo3temp/javascript_e0b36aecfd.js?1339366675" type="text/javascript"></script>
 
 
 <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
@@ -47,111 +47,8 @@
 	
   
    
-<link rel="alternate" type="application/rss+xml" title="PVO News-Feed" href="news/newsfeed.xml"><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+<link rel="alternate" type="application/rss+xml" title="PVO News-Feed" href="news/newsfeed.xml"><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
 <script type="text/javascript" src="typo3conf/ext/sb_config/fileadmin/js/enterout.js"></script>
-
-
-
-<script type="text/javascript">
-jQuery(document).ready(function(){
-
-
-		//-------- RECOM BANNER ------------
-		//Set the banners width in pixels
-		var small_banner_width = 728;
-		var large_banner_width = 920;
-
-		//Set the height of the small banner in pixels
-		var small_banner_height = 90;
-
-		//Set the height of the large banner in pixels
-		var large_banner_height = 396;
-
-
-		//Set whether you want the banner to start expanded or collapsed. set to "0" for expanded or "1" for collapsed (Defaults to collapsed "1" )
-		var initial = 1;
-
-		// Set our panel width to the width of our banner
-		jQuery("div#panel").css({width:small_banner_width+"px"});
-
-		//alert(jQuery("div#toggleArea").height());
-
-		jQuery("div#toggleArea").css("left", (small_banner_width-45) + "px");		
-		jQuery("div#toggleArea").css("top", (small_banner_height - jQuery("div#toggleArea").height()) + "px");
-		jQuery("div#toggleArea").css("cursor","pointer");
-		
-		
-		jQuery("div#linkArea").css("cursor","pointer");
-
-		// Set the advertisement to "expanded" or "collapsed" based on user settings
-		if (initial == 0) {
-			// The banner will start expanded
-			jQuery("div#panel").css({height:large_banner_height+"px"});
-			//Move the background up 35px to display full advertisement
-			jQuery("div#panel").css("background-position", "0px -"+small_banner_height+"px"); 
-			//Set "expand" to be hidden
-			jQuery("#toggle a#open").css("display", "none");
-			
-			jQuery("div#toggleArea").css("top", "0px");
-			jQuery("div#linkArea").css("width",(large_banner_width - 45) + "px");
-			jQuery("div#linkArea").css("height",large_banner_height + "px");
-			
-			
-
-		}else if (initial == 1){
-
-			// The banner will start collapsed
-			jQuery("div#panel").css({height:small_banner_height+"px"});
-			//Reset the background
-			jQuery("div#panel").css("background-position", "0px 0px"); 
-			//Set "expand" to be hidden
-			jQuery("#toggle a#close").css("display", "none");
-			jQuery("div#toggleArea").css("top", (small_banner_height - jQuery("div#toggleArea").height()) + "px");
-			jQuery("div#linkArea").css("width",(small_banner_width - 45) + "px");
-			jQuery("div#linkArea").css("height",small_banner_height + "px");
-		}
-
-
-		jQuery("div#toggleArea").click(function(){
-		// if initial = 0 then expand panel 
-		if (initial==1){
-			jQuery("div#panel").animate({height: large_banner_height+'px'});
-			jQuery("div#panel").animate({width: large_banner_width+'px'});
-			//Move the background up 35px to display full advertisement
-			jQuery("div#panel").css("background-position", "0px -"+small_banner_height+"px");
-			jQuery("div#panel").css("background-image","url(http://www.pv-magazine.com/fileadmin/templates/recom_leaderboard_w_e_920x415.jpg)");
-			jQuery("div#panel").css("background-position", "0px 0px");
-			jQuery("div#toggleArea").css("top", "0px");
-			jQuery("div#toggleArea").css("left", (large_banner_width - 45) +"px");
-			
-			jQuery("div#linkArea").css("height", large_banner_height +"px");
-			jQuery("div#linkArea").css("width", (large_banner_width - 45) +"px");
-			initial =0;
-		}
-		
-		//
-		
-		// if initial = 1 then collapse panel
-		else {
-			jQuery("div#panel").animate({width: small_banner_width+'px',height: small_banner_height+'px'},function() {
-			//After the animation is complete, reset the background to it's original position.
-			jQuery("div#panel").css("background-image","url(http://www.pv-magazine.com/fileadmin/templates/recom_leaderboard_728x90_NEW.jpg)");
-			jQuery("div#panel").css("background-position", "0px 0px");
-			});
-			jQuery("div#toggleArea").css("top", (small_banner_height - jQuery("div#toggleArea").height()) + "px");
-			jQuery("div#toggleArea").css("left", (small_banner_width - 45) + "px");
-			jQuery("div#linkArea").css("width", (small_banner_width - 45) +"px");
-			jQuery("div#linkArea").css("height", small_banner_height +"px");
-			
-			initial = 1;
-		}
-		});
-
-
-});
- 
-</script>
-
 <script type="text/javascript">
 
 jQuery.noConflict();
@@ -196,6 +93,109 @@ var Tynt=Tynt||[];Tynt.push('bDng-kxMar4y1Hacwqm_6r');Tynt.i={"ap":"Read more:",
 <script type="text/javascript" src="http://ads.sunbeam-berlin.de/www/delivery/spcjs.php?id=5&amp;source=seite46_privacy%20policy"></script>   <meta name="y_key" content="a110e059cab6de79">
    <meta name="google-site-verification" content="h3wipXIwFpDF434UW3x4Y3QXS9zmNpqe9eON34Z3jTI"> 
    <meta http-equiv="PICS-Label" content="(PICS-1.1 &quot;http://www.classify.org/safesurf/&quot; L gen true for &quot;http://www.pv-magazine.com/&quot; r (SS~~000 4))">
+<script type="text/javascript">
+jQuery(document).ready(function(){
+
+
+        //-------- RECOM BANNER ------------
+        //Set the banners width in pixels
+        var small_banner_width = 728;
+        var large_banner_width = 920;
+
+        //Set the height of the small banner in pixels
+        var small_banner_height = 90;
+
+        //Set the height of the large banner in pixels
+        var large_banner_height = 414;
+
+
+        //Set whether you want the banner to start expanded or collapsed. set to "0" for expanded or "1" for collapsed (Defaults to collapsed "1" )
+        var initial = 1;
+
+        // Set our panel width to the width of our banner
+        jQuery("div#panel").css({width:small_banner_width+"px"});
+  
+        // Prevent repeat of background image
+        jQuery("div#panel").css("background-repeat","no-repeat");
+
+        //alert($("div#toggleArea").height());
+
+        jQuery("div#toggleArea").css("left", (small_banner_width-45) + "px");        
+        jQuery("div#toggleArea").css("top", (small_banner_height - jQuery("div#toggleArea").height()) + "px");
+        jQuery("div#toggleArea").css("cursor","pointer");
+        
+        
+        jQuery("div#linkArea").css("cursor","pointer");
+
+        // Set the advertisement to "expanded" or "collapsed" based on user settings
+        if (initial == 0) {
+            // The banner will start expanded
+            jQuery("div#panel").css({height:large_banner_height+"px"});
+            //Move the background up 35px to display full advertisement
+            jQuery("div#panel").css("background-position", "0px -"+small_banner_height+"px"); 
+            //Set "expand" to be hidden
+            jQuery("#toggle a#open").css("display", "none");
+            
+            jQuery("div#toggleArea").css("top", "0px");
+            jQuery("div#linkArea").css("width",(large_banner_width - 45) + "px");
+            jQuery("div#linkArea").css("height",large_banner_height + "px");
+            
+            
+
+        }else if (initial == 1){
+
+            // The banner will start collapsed
+            jQuery("div#panel").css({height:small_banner_height+"px"});
+            //Reset the background
+            jQuery("div#panel").css("background-position", "0px 0px"); 
+            //Set "expand" to be hidden
+            jQuery("#toggle a#close").css("display", "none");
+            jQuery("div#toggleArea").css("top", (small_banner_height - jQuery("div#toggleArea").height()) + "px");
+            jQuery("div#linkArea").css("width",(small_banner_width - 45) + "px");
+            jQuery("div#linkArea").css("height",small_banner_height + "px");
+        }
+
+
+        jQuery("div#toggleArea").click(function(){
+        // if initial = 0 then expand panel 
+        if (initial==1){
+            jQuery("div#panel").animate({height: large_banner_height+'px'});
+            jQuery("div#panel").animate({width: large_banner_width+'px'});
+            //Move the background up 35px to display full advertisement
+            jQuery("div#panel").css("background-position", "0px -"+small_banner_height+"px");
+            jQuery("div#panel").css("background-image","url(http://www.pv-magazine.com/fileadmin/templates/recom_leaderboard_w_e_920x415.jpg)");
+            jQuery("div#panel").css("background-position", "0px 0px");
+            jQuery("div#toggleArea").css("top", "0px");
+            jQuery("div#toggleArea").css("left", (large_banner_width - 45) +"px");
+            
+            jQuery("div#linkArea").css("height", large_banner_height +"px");
+            jQuery("div#linkArea").css("width", (large_banner_width - 45) +"px");
+            initial =0;
+        }
+        
+        //
+        
+        // if initial = 1 then collapse panel
+        else {
+            jQuery("div#panel").animate({width: small_banner_width+'px',height: small_banner_height+'px'},function() {
+            //After the animation is complete, reset the background to it's original position.
+            jQuery("div#panel").css("background-image","url(http://www.pv-magazine.com/fileadmin/templates/recom_leaderboard_728x90_NEW.jpg)");
+            jQuery("div#panel").css("background-position", "0px 0px");
+            });
+            jQuery("div#toggleArea").css("top", (small_banner_height - jQuery("div#toggleArea").height()) + "px");
+            jQuery("div#toggleArea").css("left", (small_banner_width - 45) + "px");
+            jQuery("div#linkArea").css("width", (small_banner_width - 45) +"px");
+            jQuery("div#linkArea").css("height", small_banner_height +"px");
+            
+            initial = 1;
+        }
+        });
+
+
+});
+ 
+</script>
+<style>#panel { background-repeat: no-repeat !important; background-color: transparent !important; }</style>
 <meta name="description" content="pv magazine - the magazine for experts. pv magazine, of which pv-magazine.com is its online presence, is a monthly trade journal that was launched for the international photovoltaics (PV) industry in the summer of 2008. With its independent, technology-focused reporting, it concentrates on covering the latest news, as well as topical technological trends and worldwide market developments.">
 <meta name="keywords" content="photovoltaics,photovoltaic,solar energy,renewable energy,renewable energies,thin-film,feed-in tariffs,PV,pv magazine,Intersolar,solar,photovoltaic arrays,monocrystalline silicon,cadmium telluride,megawatts,grid-tied electrical system,net metering,gigawatts,electricity,data protection,privacy policy">
 
@@ -224,6 +224,7 @@ var Tynt=Tynt||[];Tynt.push('bDng-kxMar4y1Hacwqm_6r');Tynt.i={"ap":"Read more:",
             <li class="pvi"><span>pv magazine global</span></li>
             <li class="pvd"><a target="_self" href="http://www.pv-magazine.de/">pv magazine Deutschland</a></li>
             <li class="pvl"><a target="_self" href="http://www.pv-magazine-latam.com/">pv magazine Latinoamérica</a></li>
+            <li class="pvc"><a target="_self" href="http://www.pv-magazine-china.com/">pv magazine China</a></li>
           </ul>
         </div>
       </div>
@@ -245,7 +246,7 @@ var Tynt=Tynt||[];Tynt.push('bDng-kxMar4y1Hacwqm_6r');Tynt.i={"ap":"Read more:",
    if (document.context) document.write ("&context=" + escape(document.context));
    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
    document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://ads.sunbeam-berlin.de/www/delivery/ajs.php?zoneid=107&amp;cb=98218225721&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20131123235554id_/http%3A//www.pv-magazine.com/extras/privacy-policy/"></script><noscript><a href="http://ads.sunbeam-berlin.de/www/delivery/ck.php?n=aa32d945&amp;cb=INSERT_RANDOM_NUMBER_HERE" target="_blank"><img src="http://ads.sunbeam-berlin.de/www/delivery/avw.php?zoneid=107&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=aa32d945" border="0" alt="" /></a></noscript>
+//]]>--></script><script type="text/javascript" src="https://ads.sunbeam-berlin.de/www/delivery/ajs.php?zoneid=107&amp;cb=92349501116&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20140630042459id_/http%253A//www.pv-magazine.com/extras/privacy-policy"></script><noscript><a href="http://ads.sunbeam-berlin.de/www/delivery/ck.php?n=aa32d945&amp;cb=INSERT_RANDOM_NUMBER_HERE" target="_blank"><img src="http://ads.sunbeam-berlin.de/www/delivery/avw.php?zoneid=107&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=aa32d945" border="0" alt="" /></a></noscript>
 </div></div>
 </div>
 <div id="col2">
@@ -288,7 +289,7 @@ OA_show('24');
 		<input type="hidden" name="pid" value="35">
 		<input type="hidden" name="redirect_url" value="">
 		<input type="hidden" name="tx_felogin_pi1[noredirect]" value="0">
-		<script type="text/javascript" src="http://www.pv-magazine.com/typo3/sysext/rsaauth/resources/jsbn/jsbn.js"></script><script type="text/javascript" src="http://www.pv-magazine.com/typo3/sysext/rsaauth/resources/jsbn/prng4.js"></script><script type="text/javascript" src="http://www.pv-magazine.com/typo3/sysext/rsaauth/resources/jsbn/rng.js"></script><script type="text/javascript" src="http://www.pv-magazine.com/typo3/sysext/rsaauth/resources/jsbn/rsa.js"></script><script type="text/javascript" src="http://www.pv-magazine.com/typo3/sysext/rsaauth/resources/jsbn/base64.js"></script><script type="text/javascript" src="http://www.pv-magazine.com/typo3/sysext/rsaauth/resources/rsaauth_min.js"></script><input type="hidden" id="rsa_n" name="n" value="B76940E070B72AA933FDA12AC25C9A176394D039342D369750ACD8998B88CFD12F2E9BD069936DBDC27BD36EE00A0E67430E2DA4F23CB4A39839FA931DA6A837D96B1B0EAD5F28F055A599E3F710FC5B25C820D527E419F482F33E7A0F7EC6FCC6F21D86E78752943E73B17D694C2AC2F8669A37155D1637E766584558419C53"><input type="hidden" id="rsa_e" name="e" value="10001">
+		<script type="text/javascript" src="http://www.pv-magazine.com/typo3/sysext/rsaauth/resources/jsbn/jsbn.js"></script><script type="text/javascript" src="http://www.pv-magazine.com/typo3/sysext/rsaauth/resources/jsbn/prng4.js"></script><script type="text/javascript" src="http://www.pv-magazine.com/typo3/sysext/rsaauth/resources/jsbn/rng.js"></script><script type="text/javascript" src="http://www.pv-magazine.com/typo3/sysext/rsaauth/resources/jsbn/rsa.js"></script><script type="text/javascript" src="http://www.pv-magazine.com/typo3/sysext/rsaauth/resources/jsbn/base64.js"></script><script type="text/javascript" src="http://www.pv-magazine.com/typo3/sysext/rsaauth/resources/rsaauth_min.js"></script><input type="hidden" id="rsa_n" name="n" value="BBEDC7AA3599A5A9E2EF14E9217131C799D6BBA9A755E1D9519FA3C7AF104014728707D2C72147CDB6A4EA87563C5C00B1F911A4DE2ED043FB319367B5B0496D4B6D19C0C2E0FB52453F678EBBB69B372215639204B02FB17D77FCE46E4B52EF9295F76180A7AF301941688394E7EE5538C731E5D00E6C12364887B58E9427A5"><input type="hidden" id="rsa_e" name="e" value="10001">
 	</div>
 	
 </form>
@@ -301,7 +302,7 @@ OA_show('24');
 	</div></div><ul><li class="first"><a href="extras/contact-us/" target="_self">Contact us</a></li><li><a href="about/advertise/" target="_self">Advertise</a></li><li><a href="newsletter/newsletter-registration/" target="_self">Newsletter</a></li><li class="last"><a href="https://www.solarpraxis.de/shop/shop-pvi/section/products_listing/pv-magazine/" target="_blank">Subscriptions</a></li></ul></div><!-- Header STOP -->
   
   
-  <div id="hauptnavi"><ul id="menu"><li class="level1"><a href="features/features/">Features</a><ul class="megamenu"><li class="column"><a href="features/features/">Features</a></li><li class="column"><a href="features/archive/">Archive</a></li></ul></li><li class="level1"><a href="news/">News</a><ul class="megamenu"><li class="column"><a href="news/applications-installations/">Applications &amp; installations</a></li><li class="column"><a href="news/global-pv-markets/">Global PV markets</a></li><li class="column"><a href="news/industry-suppliers/">Industry &amp; suppliers</a></li><li class="column"><a href="news/investors/">Investors</a></li><li class="column"><a href="news/markets-trends/">Markets &amp; trends</a></li><li class="column"><a href="news/products/">Products</a></li><li class="column"><a href="news/research-development/">Research &amp; development</a></li><li class="column"><a href="news/storage-smart-grids/">Storage &amp; smart grids</a></li><li class="column"><a href="news/trade-cases/">Trade cases</a></li></ul></li><li class="level1"><a href="events/">Events</a><ul class="megamenu"><li class="column"><a href="events/event-partners/">Event partners</a></li><li class="column"><a href="events/seminars/">Seminars</a></li><li class="column"><a href="events/symposiums/">Symposiums</a></li><li class="column"><a href="events/conferences/">Conferences </a></li><li class="column"><a href="events/trade-shows/">Trade Shows</a></li></ul></li><li class="level1"><a href="opinion-analysis/">Opinion &amp; analysis</a><ul class="megamenu"><li class="column"><a href="opinion-analysis/publishers-comment/">Publisher's comment</a></li></ul></li><li class="level1"><a href="services/press-releases/">Services</a><ul class="megamenu"><li class="column"><a href="services/jobs/">Jobs</a></li><li class="column"><a href="newsletter/newsletter-registration/">Newsletter</a></li><li class="column"><a href="services/partnerships/">Partnerships</a></li><li class="column"><a href="services/photovoltaic-feed-in-tariffs/">Photovoltaic feed-in tariffs</a></li><li class="column"><a href="services/press-releases/">Press releases</a></li><li class="column"><a href="services/product-overviews/">Product overviews</a></li><li class="column"><a href="pv-test/">PV+Test</a></li></ul></li><li class="level1"><a href="directory/">Directory</a></li><li class="level1"><a href="about/concept/">About</a><ul class="megamenu"><li class="column"><a href="about/advertise/">Advertise</a></li><li class="column"><a href="about/concept/">Concept</a></li><li class="column"><a href="about/correspondents/">Correspondents</a></li><li class="column"><a href="about/media-data/">Media data</a></li><li class="column"><a href="about/testimonials/">Testimonials</a></li><li class="column"><a href="about/the-team/">The team</a></li></ul></li><li class="level1"><a href="archive/2013/">Archive</a><ul class="megamenu"><li class="column"><a href="archive/2013/">2013</a></li><li class="column"><a href="archive/2012/">2012</a></li><li class="column"><a href="archive/2011/">2011</a></li><li class="column"><a href="archive/2010/">2010</a></li></ul></li><li class="level1"><a href="video/">Video</a></li><li class="level1"><a href="investors/">Investors</a><ul class="megamenu"><li class="column"><a href="investors/module-price-index/">Module price index</a></li><li class="column"><a href="investors/pv-system-prices/">PV system prices</a></li></ul></li></ul><div id="search">
+  <div id="hauptnavi"><ul id="menu"><li class="level1"><a href="features/features/">Features</a><ul class="megamenu"><li class="column"><a href="features/features/">Features</a></li><li class="column"><a href="features/intersolar-europe-2014/">Intersolar Europe 2014</a></li><li class="column"><a href="features/archive/">Archive</a></li></ul></li><li class="level1"><a href="news/">News</a><ul class="megamenu"><li class="column"><a href="news/applications-installations/">Applications &amp; installations</a></li><li class="column"><a href="news/global-pv-markets/">Global PV markets</a></li><li class="column"><a href="news/industry-suppliers/">Industry &amp; suppliers</a></li><li class="column"><a href="news/investors/">Investors</a></li><li class="column"><a href="news/markets-trends/">Markets &amp; trends</a></li><li class="column"><a href="news/products/">Products</a></li><li class="column"><a href="news/research-development/">Research &amp; development</a></li><li class="column"><a href="news/storage-smart-grids/">Storage &amp; smart grids</a></li><li class="column"><a href="news/trade-cases/">Trade cases</a></li></ul></li><li class="level1"><a href="events/">Events</a><ul class="megamenu"><li class="column"><a href="events/event-partners/">Event partners</a></li><li class="column"><a href="events/seminars/">Seminars</a></li><li class="column"><a href="events/symposiums/">Symposiums</a></li><li class="column"><a href="events/conferences/">Conferences </a></li><li class="column"><a href="events/trade-shows/">Trade Shows</a></li></ul></li><li class="level1"><a href="opinion-analysis/">Opinion &amp; analysis</a><ul class="megamenu"><li class="column"><a href="opinion-analysis/publishers-comment/">Publisher's comment</a></li></ul></li><li class="level1"><a href="services/press-releases/">Services</a><ul class="megamenu"><li class="column"><a href="services/jobs/">Jobs</a></li><li class="column"><a href="newsletter/newsletter-registration/">Newsletter</a></li><li class="column"><a href="services/partnerships/">Partnerships</a></li><li class="column"><a href="services/photovoltaic-feed-in-tariffs/">Photovoltaic feed-in tariffs</a></li><li class="column"><a href="services/press-releases/">Press releases</a></li><li class="column"><a href="services/product-overviews/">Product overviews</a></li><li class="column"><a href="services/pv-test/">PV+Test</a></li></ul></li><li class="level1"><a href="directory/">Directory</a></li><li class="level1"><a href="about/concept/">About</a><ul class="megamenu"><li class="column"><a href="about/advertise/">Advertise</a></li><li class="column"><a href="about/concept/">Concept</a></li><li class="column"><a href="about/correspondents/">Correspondents</a></li><li class="column"><a href="about/media-data/">Media data</a></li><li class="column"><a href="about/testimonials/">Testimonials</a></li><li class="column"><a href="about/the-team/">The team</a></li></ul></li><li class="level1"><a href="archive/2014/">Archive</a><ul class="megamenu"><li class="column"><a href="archive/2014/">2014</a></li><li class="column"><a href="archive/2013/">2013</a></li><li class="column"><a href="archive/2012/">2012</a></li><li class="column"><a href="archive/2011/">2011</a></li><li class="column"><a href="archive/2010/">2010</a></li></ul></li><li class="level1"><a href="video/">Video</a></li><li class="level1"><a href="investors/">Investors</a><ul class="megamenu"><li class="column"><a href="investors/module-price-index/">Module price index</a></li><li class="column"><a href="investors/grid-parity-monitor/">Grid parity monitor</a></li></ul></li></ul><div id="search">
     <form action="hilfsseiten/search/" method="post" id="suche">
       <label class="hidden" for="searchsite">Search:</label>
       <input type="text" name="tx_indexedsearch[sword]" id="searchsite" value="Keyword(s)" onblur="if(this.value=='')this.value='Keyword(s)';" onfocus="if(this.value=='Keyword(s)')this.value='';">
@@ -327,7 +328,7 @@ OA_show('24');
    if (document.context) document.write ("&context=" + escape(document.context));
    if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
    document.write ("'><\/scr"+"ipt>");
-//]]>--></script><script type="text/javascript" src="https://ads.sunbeam-berlin.de/www/delivery/ajs.php?zoneid=88&amp;cb=95657406808&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20131123235554id_/http%3A//www.pv-magazine.com/extras/privacy-policy/"></script><noscript><a href="http://ads.sunbeam-berlin.de/www/delivery/ck.php?n=a41db8f7&amp;cb=INSERT_RANDOM_NUMBER_HERE" target="_blank"><img src="http://ads.sunbeam-berlin.de/www/delivery/avw.php?zoneid=88&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a41db8f7" border="0" alt="" /></a></noscript>
+//]]>--></script><script type="text/javascript" src="https://ads.sunbeam-berlin.de/www/delivery/ajs.php?zoneid=88&amp;cb=45697883214&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20140630042459id_/http%253A//www.pv-magazine.com/extras/privacy-policy"></script><noscript><a href="http://ads.sunbeam-berlin.de/www/delivery/ck.php?n=a41db8f7&amp;cb=INSERT_RANDOM_NUMBER_HERE" target="_blank"><img src="http://ads.sunbeam-berlin.de/www/delivery/avw.php?zoneid=88&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a41db8f7" border="0" alt="" /></a></noscript>
 </div>
 
  <div id="breadcrumb"><ol><li><a href="" title="Zur Startseite">Home</a>&nbsp;»</li><li><strong>Privacy policy</strong></li></ol></div>
@@ -338,7 +339,15 @@ OA_show('24');
       
     </div><!--###left### end -->
   
-    <div id="text"><!-- TYPO3SEARCH_begin --><div id="c20" class="csc-default"><h2>Data protection declaration </h2><p><span style="font-weight: bold;">pv magazine</span> takes the protection of your personal data very seriously. We design our data processing systems with the aim of collecting, processing and using only as much personal data as is necessary to enable the rational and economically efficient use of our products and services.
+    <div id="text"><!-- TYPO3SEARCH_begin -->
+<!--  [begin] -->
+	<div id="c20" class="csc-default">
+<!--  [begin] -->
+	<h2>Data protection declaration </h2>
+<!--  [end] -->
+	
+<!--  [begin] -->
+	<p><span style="font-weight: bold;">pv magazine</span> takes the protection of your personal data very seriously. We design our data processing systems with the aim of collecting, processing and using only as much personal data as is necessary to enable the rational and economically efficient use of our products and services.
 </p>
 <p>You can find out below when this data is stored as you use our website and how we use this data. We have implemented technical and organizational measures to ensure that we comply with data protection regulations. More particularly, our products and services are subject to the provisions of the Bundesdatenschutzgesetz (German Federal Data Protection Act, BDSG) and the Teledienstedatenschutzgesetz (Teleservices Data Protection Act, TDDS
 </p>
@@ -370,14 +379,18 @@ OA_show('24');
 <p>In so far as our website contains links to the offerings of other service providers, we cannot guarantee that these third party websites will comply with legal provisions. Nor do we accept any liability for their failure to do so. Please consult providers’ data protection declarations at the respective websites to find out what data protection standards are applicable in each case. 
 </p>
 <h4>Changes </h4>
-<p>This information is subject to the respective legal situation and may therefore need to be modified. </p></div><!--–- TYPO3SEARCH_end –---></div>
+<p>This information is subject to the respective legal situation and may therefore need to be modified. </p>
+<!--  [end] -->
+	</div>
+<!--  [end] -->
+	<!--–- TYPO3SEARCH_end –---></div>
     
     <div id="margi"><div id="socialmedia"><g:plusone size="small" count="false"></g:plusone><a title="pv magazine Facebook page" href="http://www.facebook.com/pvmagazine" target="_blank" class="facebook"><img src="typo3conf/ext/sb_config/fileadmin/img/facebook_small_16x16.jpg" alt=""></a><a title="pv magazine LinkedIn page" href="http://www.linkedin.com/company/pv-magazine" target="_blank" class="linkedin"><img src="typo3conf/ext/sb_config/fileadmin/img/linkedin_small_16x16.jpg" alt=""></a><a href="http://twitter.com/pvmagazine" target="_blank" class="twitter"><img src="typo3conf/ext/sb_config/fileadmin/img/icon_twitter.gif" alt=""></a><a href="news/newsfeed.xml"><img src="typo3conf/ext/sb_config/fileadmin/img/icon_rss.gif" alt=""></a></div></div>
   
   </div><!-- Content STOP -->
 	  
 </div><!-- hauptwrapper STOP -->
-<div id="footer"><!-- TYPO3SEARCH_end --><ul><li id="printpage" class="first"><a href="javascript:window.print();">Print page</a></li><li><a href="extras/sitemap/">Sitemap</a></li><li><a href="extras/legal-notice/">Legal notice</a></li><li><a href="extras/terms-conditions/">Terms &amp; conditions</a></li><li class="last activ">Privacy policy</li><li class="copy">Copyright&nbsp;2013&nbsp;© pv magazine</li></ul><ul id="footermenu"><li class="level1"><a href="features/features/">Features</a><ul class="megamenu"><li class="column"><a href="features/features/">Features</a></li><li class="column"><a href="features/archive/">Archive</a></li></ul></li><li class="level1"><a href="news/">News</a><ul class="megamenu"><li class="column"><a href="news/applications-installations/">Applications &amp; installations</a></li><li class="column"><a href="news/global-pv-markets/">Global PV markets</a></li><li class="column"><a href="news/industry-suppliers/">Industry &amp; suppliers</a></li><li class="column"><a href="news/investors/">Investors</a></li><li class="column"><a href="news/markets-trends/">Markets &amp; trends</a></li><li class="column"><a href="news/products/">Products</a></li><li class="column"><a href="news/research-development/">Research &amp; development</a></li><li class="column"><a href="news/storage-smart-grids/">Storage &amp; smart grids</a></li><li class="column"><a href="news/trade-cases/">Trade cases</a></li></ul></li><li class="level1"><a href="events/">Events</a><ul class="megamenu"><li class="column"><a href="events/event-partners/">Event partners</a></li><li class="column"><a href="events/seminars/">Seminars</a></li><li class="column"><a href="events/symposiums/">Symposiums</a></li><li class="column"><a href="events/conferences/">Conferences </a></li><li class="column"><a href="events/trade-shows/">Trade Shows</a></li></ul></li><li class="level1"><a href="opinion-analysis/">Opinion &amp; analysis</a><ul class="megamenu"><li class="column"><a href="opinion-analysis/publishers-comment/">Publisher's comment</a></li></ul></li><li class="level1"><a href="services/press-releases/">Services</a><ul class="megamenu"><li class="column"><a href="services/jobs/">Jobs</a></li><li class="column"><a href="newsletter/newsletter-registration/">Newsletter</a></li><li class="column"><a href="services/partnerships/">Partnerships</a></li><li class="column"><a href="services/photovoltaic-feed-in-tariffs/">Photovoltaic feed-in tariffs</a></li><li class="column"><a href="services/press-releases/">Press releases</a></li><li class="column"><a href="services/product-overviews/">Product overviews</a></li></ul></li><li class="level1"><a href="directory/">Directory</a></li><li class="level1"><a href="about/concept/">About</a><ul class="megamenu"><li class="column"><a href="about/advertise/">Advertise</a></li><li class="column"><a href="about/concept/">Concept</a></li><li class="column"><a href="about/correspondents/">Correspondents</a></li><li class="column"><a href="about/media-data/">Media data</a></li><li class="column"><a href="about/the-team/">The team</a></li></ul></li><li class="level1"><a href="video/">Video</a></li><li class="level1"><a href="investors/">Investors</a><ul class="megamenu"><li class="column"><a href="investors/module-price-index/">Module price index</a></li><li class="column"><a href="investors/pv-system-prices/">PV system prices</a></li></ul></li></ul><!-- TYPO3SEARCH_begin --></div>
+<div id="footer"><!-- TYPO3SEARCH_end --><ul><li id="printpage" class="first"><a href="javascript:window.print();">Print page</a></li><li><a href="extras/sitemap/">Sitemap</a></li><li><a href="extras/legal-notice/">Legal notice</a></li><li><a href="extras/terms-conditions/">Terms &amp; conditions</a></li><li class="last activ">Privacy policy</li><li class="copy">Copyright&nbsp;2014&nbsp;© pv magazine</li></ul><ul id="footermenu"><li class="level1"><a href="features/features/">Features</a><ul class="megamenu"><li class="column"><a href="features/features/">Features</a></li><li class="column"><a href="features/intersolar-europe-2014/">Intersolar Europe 2014</a></li><li class="column"><a href="features/archive/">Archive</a></li></ul></li><li class="level1"><a href="news/">News</a><ul class="megamenu"><li class="column"><a href="news/applications-installations/">Applications &amp; installations</a></li><li class="column"><a href="news/global-pv-markets/">Global PV markets</a></li><li class="column"><a href="news/industry-suppliers/">Industry &amp; suppliers</a></li><li class="column"><a href="news/investors/">Investors</a></li><li class="column"><a href="news/markets-trends/">Markets &amp; trends</a></li><li class="column"><a href="news/products/">Products</a></li><li class="column"><a href="news/research-development/">Research &amp; development</a></li><li class="column"><a href="news/storage-smart-grids/">Storage &amp; smart grids</a></li><li class="column"><a href="news/trade-cases/">Trade cases</a></li></ul></li><li class="level1"><a href="events/">Events</a><ul class="megamenu"><li class="column"><a href="events/event-partners/">Event partners</a></li><li class="column"><a href="events/seminars/">Seminars</a></li><li class="column"><a href="events/symposiums/">Symposiums</a></li><li class="column"><a href="events/conferences/">Conferences </a></li><li class="column"><a href="events/trade-shows/">Trade Shows</a></li></ul></li><li class="level1"><a href="opinion-analysis/">Opinion &amp; analysis</a><ul class="megamenu"><li class="column"><a href="opinion-analysis/publishers-comment/">Publisher's comment</a></li></ul></li><li class="level1"><a href="services/press-releases/">Services</a><ul class="megamenu"><li class="column"><a href="services/jobs/">Jobs</a></li><li class="column"><a href="newsletter/newsletter-registration/">Newsletter</a></li><li class="column"><a href="services/partnerships/">Partnerships</a></li><li class="column"><a href="services/photovoltaic-feed-in-tariffs/">Photovoltaic feed-in tariffs</a></li><li class="column"><a href="services/press-releases/">Press releases</a></li><li class="column"><a href="services/product-overviews/">Product overviews</a></li></ul></li><li class="level1"><a href="directory/">Directory</a></li><li class="level1"><a href="about/concept/">About</a><ul class="megamenu"><li class="column"><a href="about/advertise/">Advertise</a></li><li class="column"><a href="about/concept/">Concept</a></li><li class="column"><a href="about/correspondents/">Correspondents</a></li><li class="column"><a href="about/media-data/">Media data</a></li><li class="column"><a href="about/the-team/">The team</a></li></ul></li><li class="level1"><a href="video/">Video</a></li><li class="level1"><a href="investors/">Investors</a><ul class="megamenu"><li class="column"><a href="investors/module-price-index/">Module price index</a></li><li class="column"><a href="investors/grid-parity-monitor/">Grid parity monitor</a></li></ul></li></ul><!-- TYPO3SEARCH_begin --></div>
 </div>
 <div id="col3">
   <div id="sidebanner"><script type="text/javascript">
