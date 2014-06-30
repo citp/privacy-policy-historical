@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icheme.org privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230101330id_/http%3A//www.icheme.org/footer/privacy%2520policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icheme.org privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630233318id_/http%3A//www.icheme.org/footer/privacy%2520policy.aspx) for the most accurate reproduction.*
 
 # IChemE | Privacy policy
 
