@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the makemusic.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231000038id_/http%3A//www.makemusic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makemusic.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630192710id_/http%3A//www.makemusic.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement for MakeMusic
 
