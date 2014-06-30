@@ -1,21 +1,10 @@
-> *The following text is extracted and transformed from the givemesport.com privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014153042id_/http%3A//www.givemesport.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the givemesport.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630211627id_/http%3A//www.givemesport.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy
+# Privacy Statement
 
-1\. Introduction  
-2\. Collection of Your Personal Information  
-3\. Use of Your Personal Information  
-4\. General Disclosure of Personal Information  
-5\. Sponsored Questionnaires and Co-branded sites  
-6\. Managing Your Personal Information  
-7\. Deregistration and un-subscribing from emails  
-8\. Security and Storage of Your Personal Information  
-9\. Use of Cookies  
-10\. Changes to This Privacy Statement  
-11\. Contact Information  
-**Last Updated: 12:01pm BST 16/12/2008**
+Last Updated: 12:01pm BST 08/04/2013
 
-## Introduction
+### **Introduction**
 
 This privacy statement covers the site [www.givemesport.com](http://www.givemesport.com/). Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance.
 
@@ -29,7 +18,7 @@ GMF Media Ltd is registered under the Data Protection Act 1998 under registratio
 
 back to top
 
-## Collection of your personal information
+### **Collection of your personal information**
 
 In order to use this Web site, you must first complete the registration form and choose a password. During registration you are required to give contact information (such as name and email address). We use this information to contact you about the services on our site in which you have expressed interest.
 
@@ -47,7 +36,7 @@ This information is used to assist GMF Media Ltd and third parties in sending yo
 
 back to top
 
-## Use of your personal information
+### **Use of your personal information**
 
 GMF Media Ltd will not use or share your personal information in a manner that differs from what is described within this Privacy Statement and within the registration opt-in statement without your prior consent. The following statement is prominently displayed before you can join GMF Media Ltd
 
@@ -59,7 +48,7 @@ Your data together with that of other subscribers to GMF Media Ltd may be aggreg
 
 back to top
 
-## General disclosure of personal information
+### **General disclosure of personal information**
 
 Aggregate Information (non-personally identifiable)
 
@@ -75,7 +64,7 @@ The data that you provide to GMF Media Ltd, is held by both GMF Media Ltd and th
 
 back to top
 
-## Sponsored Questionnaires and Co-branded sites
+### **Sponsored Questionnaires and Co-branded sites**
 
 Every user must agree and opt-in to the following statement before completing their GMF Media Ltd registration:
 
@@ -95,7 +84,7 @@ Except as provided above, GMF Media Ltd will not provide your personal informati
 
 back to top
 
-## Managing your personal information
+### **Managing your personal information**
 
 The data you provide to GMF Media Ltd will be held as you have provided it. You may at any time amend or update your data by visiting GMF Media Ltd at [www.givemesport.com/my-account](http://www.givemesport.com/my-account), log in and click on "My Account". There you will find the Personal Info panel where you can amend or update your details.
 
@@ -105,9 +94,9 @@ We are entitled by law to charge a maximum fee of £10 to meet our costs in prov
 
 back to top
 
-## Deregistration and un-subscribing from emails
+### **Deregistration and un-subscribing from emails**
 
-You may at any time deregister from GMF Media Ltd by visiting [www.givemesport.com/my-account](http://www.givemesport.com/my-account) ,and selecting the deregister button located within My Account. The consequences of deregistration are that your account details will be placed in a suppression file and you will not receive any further email communications from GMF Media Ltd.
+You may at any time deregister from GMF Media Ltd by visiting [www.givemefootball.com/my-account](http://www.givemesport.com/my-account), and selecting the deregister button located within My Account. The consequences of deregistration are that your account details will be placed in a suppression file and you will not receive any further email communications from GMF Media Ltd.
 
 There is information on how you can un-subscribe at the bottom of every email that GMF Media Ltd send out ether on behalf of GMF Media Ltd or its clients and sponsors.
 
@@ -115,7 +104,7 @@ You will be notified when your personal information is collected by any third pa
 
 back to top
 
-## Security and storage of your personal information
+### **Security and storage of your personal information**
 
 The Internet is not a 100% secure medium for communication and, accordingly, GMF Media Ltd cannot guarantee the security of any information you send to GMF Media Ltd via the Internet. GMF Media Ltd is not responsible for any loss or damage you or others may suffer as a result of the loss of confidentiality of such information.
 
@@ -127,7 +116,7 @@ Personal information collected by GMF Media Ltd may be stored and processed outs
 
 back to top
 
-## Use of Cookies
+### **Use of Cookies**
 
 A cookie is a very small text file that a Web site saves to your computer's hard disk to store information that you provide about yourself or to store your preferences.
 
@@ -153,7 +142,7 @@ This privacy statement covers the use of cookies by [www.givemesport.com](http:/
 
 back to top
 
-## Changes to this Privacy Statement
+### **Changes to this Privacy Statement**
 
 GMF Media Ltd will occasionally update this Privacy Statement. When we do, we will also revise the "last updated" date at the top and bottom of the Privacy Statement. GMF Media Ltd will obtain your opt-in consent for any updates to this Privacy Statement that materially expand the sharing or use of your personal information in ways not disclosed in this Privacy Statement at the time of collection.
 
@@ -163,24 +152,4 @@ Your friend may [contact us](https://web.archive.org/contact-us) to request that
 
 back to top
 
-## Contact information
-
-If you have questions regarding this Privacy Statement, please contact GMF Media Ltd at
-
-**By email:** [click here](https://web.archive.org/contact-us)
-
-**By post:**  
-GMF Media Ltd  
-4th Floor, Stanford House;  
-27a Floral Street;  
-Covent Garden;  
-London;  
-WC23 9EZ 
-
-[Map](https://maps.google.com/maps?q=16-18+beak+street&hl=en&ll=51.5115,-0.137104&spn=0.005976,0.016512&sll=51.512108,-0.124031&sspn=0.002988,0.008256&hnear=18+Beak+St,+City+of+Westminster,+London,+United+Kingdom&t=m&z=17)
-
-Phone: +44 (0)207 575 3011
-
-Fax: TBC
-
-back to top
+### **[Contact information](https://web.archive.org/contact-us)**
