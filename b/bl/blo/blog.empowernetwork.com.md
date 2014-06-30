@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blog.empowernetwork.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231220603id_/http%3A//www.empowernetwork.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blog.empowernetwork.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630203226id_/http%3A//www.empowernetwork.com/privacy) for the most accurate reproduction.*
 
 # Empower Network: Privacy Policy
 
@@ -40,4 +40,4 @@ St. Petersburg, Florida 33701
 Suite 201  
 Effective Date: November 7, 2011 
 
-[Continue to signup page](https://web.archive.org/join?id=admin)
+[Continue to signup page](https://web.archive.org/join?id=davidwood)
