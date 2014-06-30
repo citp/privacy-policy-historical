@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the 2ksports.com privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216201826id_/http%3A//www.2ksports.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2ksports.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630182558id_/http%3A//www.take2games.com/privacy) for the most accurate reproduction.*
 
-# 2K Sports - Privacy Policy
+# TAKE-TWO INTERACTIVE SOFTWARE PRIVACY POLICY
 
-[EN](http://www.2ksports.com/info/privacy) | [DE](http://www.2ksports.com/privacyintl/privacy_de.html) | [ES](http://www.2ksports.com/privacyintl/privacy_es.html) | [FR](http://www.2ksports.com/privacyintl/privacy_fr.html) | [IT](http://www.2ksports.com/privacyintl/privacy_it.html)
+[EN](https://web.archive.org/web/20140630182558id_/http://www.take2games.com/privacy/index.html) | [DE](https://web.archive.org/web/20140630182558id_/http://www.take2games.com/privacy/DE.html) | [ES](https://web.archive.org/web/20140630182558id_/http://www.take2games.com/privacy/ES.html) | [FR](https://web.archive.org/web/20140630182558id_/http://www.take2games.com/privacy/FR.html) | [IT](https://web.archive.org/web/20140630182558id_/http://www.take2games.com/privacy/IT.html) | [BR](https://web.archive.org/web/20140630182558id_/http://www.take2games.com/privacy/br.html) | [MX](https://web.archive.org/web/20140630182558id_/http://www.take2games.com/privacy/mx.html) | [KR](https://web.archive.org/web/20140630182558id_/http://www.take2games.com/privacy/kr.html) | [CN](https://web.archive.org/web/20140630182558id_/http://www.take2games.com/privacy/cn.html) | [JP](https://web.archive.org/web/20140630182558id_/http://www.take2games.com/privacy/jp.html) | [PL](https://web.archive.org/web/20140630182558id_/http://www.take2games.com/privacy/pl.html) | [RU](https://web.archive.org/web/20140630182558id_/http://www.take2games.com/privacy/ru.html)
 
 [](http://privacy.truste.com/privacy-seal/Take-Two-Interactive-Software,-Inc-/validation?rid=18bc1bb8-086d-44d2-b894-b5c08d0d905a "TRUSTe Children privacy certification")
 
 [](http://privacy.truste.com/privacy-seal/Take-Two-Interactive-Software,-Inc-/validation?rid=18bc1bb8-086d-44d2-b894-b5c08d0d905a "TRUSTe European Safe Harbor certification")
-
-## TAKE-TWO INTERACTIVE SOFTWARE PRIVACY POLICY
 
 Last Updated September 27, 2013
 
@@ -37,13 +35,15 @@ This Privacy Policy will explain:
   * Where information is stored
   * What other Company terms apply
   * What other third-party terms apply
-  * How to ask questions or file a complaint 
+  * How to askquestions or file a complaint 
 
 
 
 **WHO THIS PRIVACY POLICY APPLIES TO**
 
- **This Privacy Policy applies to all Online Servicesusers and, except as noted, all Online Services are being offered in the United States by the Company.   For Online Services offered by Rockstar Games used by residents of the European Union, the company **Take-Two Interactive Software Europe Limited **,** ICO Registration No. Z1336431 **, is the data controller responsible for your personal information.**
+ ****
+
+**This Privacy Policy applies to all Online Servicesusers and, except as noted, all Online Services are being offered in the United States by the Company.   For Online Services offered by Rockstar Games used by residents of the European Union, the company **Take-Two Interactive Software Europe Limited **,** ICO Registration No. Z1336431 **, is the data controller responsible for your personal information.**
 
 back to top
 
@@ -67,7 +67,9 @@ back to top
 
 **WHAT PERSONAL AND OTHER INFORMATION DOES THE COMPANY COLLECT?** ****
 
- ******Perso** nal information is information that identifies you and that may be used to contact you online or offline. The Company collects personal information from you on a voluntary basis. When you submit personal information to the Company, it will usually take the form of: 
+ ****
+
+******Perso** nal information is information that identifies you and that may be used to contact you online or offline. The Company collects personal information from you on a voluntary basis. When you submit personal information to the Company, it will usually take the form of: 
 
 Registration for Online Services, websites, jobs, products, contests, and special events; 
 
@@ -107,7 +109,9 @@ back to top
 
 **SPECIAL NOTES ABOUT CERTAIN INFORMATION** ****
 
- **** Member Names & IDs/Gaming Consoles/Social Network Services/Other Third-Party Services: Certain Online Services offered by the Company, including multiplayer gaming and specialized websites, use third-party services to (i) provide authentication for Online Services; or (ii) associate a Company service account with a third-party account such as a Gaming Console ID, Gaming Network Service account, or Social Network Service account. When you use a third-party authentication service or link your Company account with a third-party account, you will be asked to provide account information associated with that third-party account. Certain membership information may be transferred automatically to the Company when you register to join an Online Service from a third-party gaming network system or link your Online Service membership with a third-party service, such as your friend’s list on that gaming network or social network service.
+ ****
+
+**** Member Names & IDs/Gaming Consoles/Social Network Services/Other Third-Party Services: Certain Online Services offered by the Company, including multiplayer gaming and specialized websites, use third-party services to (i) provide authentication for Online Services; or (ii) associate a Company service account with a third-party account such as a Gaming Console ID, Gaming Network Service account, or Social Network Service account. When you use a third-party authentication service or link your Company account with a third-party account, you will be asked to provide account information associated with that third-party account. Certain membership information may be transferred automatically to the Company when you register to join an Online Service from a third-party gaming network system or link your Online Service membership with a third-party service, such as your friend’s list on that gaming network or social network service.
 
 Public Information Including Message Boards, User Generated Content, Forums, News Blogs, Comments, User Profiles and Chat Rooms: Whenever you give out personal information in public areas such as on a message board, chat room, comment field, or profile page, that information can be collected and used by other people. Information that you disclose in any of these forums is public information, and there is no expectation of privacy or confidentiality there. You should be aware that any personal information you submit in the course of these public activities can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages or identify you. If you post a video, image, photo, or other content through an Online Service for public view, you should be aware that these may be viewed, collected, copied, and/or used by other users without your consent. If your screen name or an ID contains your real name, then that name will be made publicly available on leaderboards and elsewhere. Therefore, you are strongly encouraged not to disclose personal information while using our services or use personal information to identify yourself while using our services. We are not responsible for any public information or content you post using our Online Services. 
 
