@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the compassionuk.org privacy policy that was archived on 2013-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131228012632id_/http%3A//www.compassionuk.org/cookies-and-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compassionuk.org privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630050817id_/http%3A//www.compassionuk.org/cookies-and-privacy) for the most accurate reproduction.*
 
 # Compassion UK | Christian Child Sponsorship
 
@@ -18,7 +18,7 @@ We will not sell, distribute or lease your personal information to third parties
 
 Cookies are small text files that are placed on your computer by websites that you visit.
 
-To learn more about cookies, you can visit [www.aboutcookies.org](https://web.archive.org/web/20131228012632id_/http%3A//www.compassionuk.org/www.aboutcookies.org). You will also find details on how to block and delete cookies from your computer as well as more general information about cookies. For information on how to do this on the browser of your mobile phone you will need to refer to your handset manual.
+To learn more about cookies, you can visit [www.aboutcookies.org](https://web.archive.org/web/20140630050817id_/http%3A//www.compassionuk.org/www.aboutcookies.org). You will also find details on how to block and delete cookies from your computer as well as more general information about cookies. For information on how to do this on the browser of your mobile phone you will need to refer to your handset manual.
 
 ### The Cookies We Use:
 
