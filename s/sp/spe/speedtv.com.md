@@ -1,13 +1,14 @@
-> *The following text is extracted and transformed from the speedtv.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231034619id_/http%3A//msn.foxsports.com/other/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speedtv.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630155629id_/http%3A//msn.foxsports.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - FOX Sports on MSN
+# Privacy Policy | FOX Sports on MSN
 
 **FOX Sports Digital Privacy Policy**
 
 Effective Date: November 15, 2013
 
-Table of Contents:  
-**1.INTRODUCTION  
+Table of Contents:
+
+1\. INTRODUCTION  
 2\. COLLECTION OF INFORMATION  
 3\. NOTICE AND CHOICE  
 4\. USE AND DISCLOSURE  
@@ -16,7 +17,7 @@ Table of Contents:
 7\. DATA RETENTION  
 8\. SENSITIVE INFORMATION  
 9\. CONTACT US  
-**
+
 
 **1.INTRODUCTION**
 
