@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creditkarma.com privacy policy that was archived on 2013-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130511214920id_/http%3A//www.creditkarma.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditkarma.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630140529id_/https%3A//www.creditkarma.com/about/privacy) for the most accurate reproduction.*
 
 # Credit Karma Privacy Policy | Credit Karma
 
@@ -179,7 +179,7 @@ The Services are operated in the United States and intended for users located in
 
 **_9\. What Should Parents Know About Children?_**
 
-Credit Karma services are not intended for anyone under the age of 18. Thus, we do not knowingly collect any Personal Information from children younger than the age of thirteen (13). We will delete any Personal Information collected that we later determine to be from a user younger than the age of thirteen (13). If you are a parent or guardian of a child under the age of thirteen (13) and believe he or she has disclosed Personal Information to us, please contact us at privacy@creditkarma.com via email or write to us at: Credit Karma, Inc. Attention: Privacy Department, 115 Sansome Street, Suite 400, San Francisco, CA 94104. 
+Credit Karma services are not intended for anyone under the age of 18. Thus, we do not knowingly collect any Personal Information from children younger than the age of thirteen (13). We will delete any Personal Information collected that we later determine to be from a user younger than the age of thirteen (13). If you are a parent or guardian of a child under the age of thirteen (13) and believe he or she has disclosed Personal Information to us, please contact us at privacy@creditkarma.com via email or write to us at: Credit Karma, Inc. Attention: Privacy Department, P.O. Box 520, San Francisco, CA 94104-0520. 
 
 **_10\. What Happens If I Terminate My Account?_**
 
@@ -215,4 +215,6 @@ Our Web site includes Social Media Features, such as the Facebook Like button an
 
 **_15\. How Do I Find Out More?_**
 
-For additional information, or if you have questions regarding this policy or privacy practices at Credit Karma, please submit your questions or comments directly to [privacy@creditkarma.com](mailto:privacy@creditkarma.com) via email or write to us at: Credit Karma, Inc. Attention: Privacy Department, 115 Sansome Street, Suite 400, San Francisco, CA 94104. 
+For additional information, or if you have questions regarding this policy or privacy practices at Credit Karma, please submit your questions or comments directly to [privacy@creditkarma.com](mailto:privacy@creditkarma.com) via email or write to us at: Credit Karma, Inc. Attention: Privacy Department, P.O. Box 520, San Francisco, CA 94104-0520. 
+
+▲ Back To Top
