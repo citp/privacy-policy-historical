@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upickem.net privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230155312id_/http%3A//secondstreet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upickem.net privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630173203id_/http%3A//secondstreet.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy and Website User Information | Second Street Online Promotions Platform
 
