@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the bazaarvoice.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229164940id_/http%3A//www.bazaarvoice.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bazaarvoice.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630092325id_/http%3A//www.bazaarvoice.com/privacy-policy) for the most accurate reproduction.*
 
 # None
 
-### [](http://privacy.truste.com/privacy-seal/Bazaarvoice,-Inc/validation?rid=a23688e3-e2ea-437e-8a77-0fe4932172e7)     [](https://safeharbor.export.gov/list.aspx)     [](http://www.networkadvertising.org/)
-
-Effective Date: 1/23/2013; Last Updated 09/24/2013
+Effective Date: 1/23/2013; Last Updated 01/22/2014
 
 #### **Overview of Our Services**
 
@@ -270,6 +268,8 @@ Finally, any information in our possession or control will be disclosed in conne
 
 We retain all personal information collected by or provided to us through the Bazaarvoice Network, the Website and the BizApps until the information is no longer necessary to: provide you with services; respond to your requests; authenticate your identity across the Bazaarvoice Network (e.g. for use with social authentication); monitor for fraudulent activity; and, comply with our legal obligations, resolve disputes, and enforce our agreements.
 
+Consumer Data is not stored in our cookies, and is retained on our servers in its original form for up to eighteen months before it is aggregated or deleted.
+
 #### **Data Security**  
 
 We use security measures, including Secure Socket Layer encryption (SSL), that are reasonably designed to protect the information we collect from unauthorized access, disclosure, alteration, or destruction. Please be aware, however, that no data security measures can be guaranteed to be completely effective. Consequently, we cannot ensure or warrant the security of any information.
@@ -280,4 +280,4 @@ The Website includes links to other websites whose privacy practices may differ 
 
 #### **NAI**  
 
-Bazaarvoice is a member of the Network Advertising Initiative ("NAI") which is part of the Digitial Advertising Alliance ("DAA") which allows for the central deletion of its members' cookies from a single opt-out page. To find out more and/or opt-out of NAI or DAA member cookies, visit [www.networkadvertising.org](http://www.networkadvertising.org/managing/opt_out.asp) or [http://www.aboutads.info/choices/](http://www.aboutads.info/choices/).
+Bazaarvoice is a member of the Network Advertising Initiative ("NAI") which is part of the Digitial Advertising Alliance ("DAA") which allows for the central deletion of its members' cookies from a single opt-out page. Additionally, Bazaarvoice adheres to the NAI Code of Conduct. To find out more and/or opt-out of NAI or DAA member cookies, visit [www.networkadvertising.org](http://www.networkadvertising.org/managing/opt_out.asp) or [http://www.aboutads.info/choices/](http://www.aboutads.info/choices/).
