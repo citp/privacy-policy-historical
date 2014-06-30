@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cafemom.com privacy policy that was archived on 2013-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130620092100id_/http%3A//www.cafemom.com/about/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cafemom.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630180520id_/http%3A//www.cafemom.com/about/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - CafeMom
 
@@ -8,7 +8,7 @@ This Privacy Policy explains how CMI Marketing, Inc. (d/b/a CafeMom, "CafeMom" o
 
 ## I. ABOUT CAFEMOM 
 
-CafeMom.com is an online service for moms that allows our mom members to set up unique personal profiles and through those profiles to create an online network of other moms and join in conversation. Site members ("Members") can view each other's profiles, communicate with old friends and make new friends on the Site, share photos and videos, play games, create and post in groups, comment on blog posts, and more. To enrich our Members' experience, we request and display some personal information to other Members and visitors, which allows our users to identify each other and expand their network of friends. Site members can change their profile information at any time manage who can see certain personal information and can control how other Members and CafeMom communicates with them. 
+CafeMom.com is an online service for moms that allows our mom members to set up unique personal profiles and through those profiles to create an online network of other moms and join in conversation. Site members ("Members") can view each other's profiles, communicate with old friends and make new friends on the Site, share photos and videos, play games, create and post in groups, comment on blog posts, and more. To enrich our Members' experience, we request and display some personal information to other Members and visitors, which allows our users to identify each other and expand their network of friends. Site members can change their profile information at any time to manage who can see certain personal information and can control how other Members and CafeMom communicates with them. 
 
 ## II. INFORMATION WE COLLECT
 
@@ -36,7 +36,7 @@ In addition to the foregoing, the Site provides search functionality and we coll
 
 For purposes of this Privacy Policy, the information we collect that is associated with a single user or Member, or combined in the aggregate is known as "Data." We keep Data no longer than necessary for legitimate business purposes or as required by law. 
 
-**General Use of Site.** We use the Date we collect, including both personally identifiable information ("PII") and non-PII in both aggregated and individual forms, to provide the Site, advertising and Site support. We may process and use this Data for purposes consistent with this Privacy Policy including, but not limited to: 
+**General Use of Site.** We use the Data we collect, including both personally identifiable information ("PII") and non-PII in both aggregated and individual forms, to provide the Site, advertising and Site support. We may process and use this Data for purposes consistent with this Privacy Policy including, but not limited to: 
 
   * Customize, measure, and improve the Site design and optimization, and the content and advertising provided through it, which include research and development; 
   * Enforce our Terms of Service and detect fraud and other illegal activities; 
@@ -79,7 +79,7 @@ _Contextual Advertising_
 
 We, or our advertising partners, automatically deliver ads to all users of the Site, whether they are registered or not, based on non-personal information including: (i) the IP address associated with your computer or location data from your mobile phone for purposes of determining your approximate geographic location; (ii) the type of web page that is being displayed, such as a news or games page, for example; (iii) the content on the page that is shown, such as a news article about a certain movie; (iv) the browser you are using; (v) the operating system and/or computer brand you are using; and (vi) for mobile users, the cellular network you are using. This advertising activity automatically applies to all users and it is purely contextual. 
 
-_Interested-Based Advertising_
+_Interest-Based Advertising_
 
 For information on how CafeMom uses various technologies to features ads relevant to your interests, [**click here**](http://www.cafemom.com/about/interest_based_ads.php). 
 
@@ -127,4 +127,4 @@ CafeMom
 417 Fifth Avenue, 7th Floor   
 New York, NY 10016 
 
-© 2012 CMI Marketing, Inc. All rights reserved. 
+© 2013 CMI Marketing, Inc. All rights reserved. 
