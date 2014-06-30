@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the droidgamers.com privacy policy that was archived on 2013-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130809173850id_/http%3A//droidgamers.com/index.php/component/content/article/189) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the droidgamers.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630074639id_/http%3A//droidgamers.com/index.php/component/content/article/189) for the most accurate reproduction.*
 
 # DroidGamers
 
@@ -6,6 +6,7 @@
 
 Details
      Published on Tuesday, 23 March 2010 10:28 
+     Written by ExtremeT 
 
 Our privacy policy is pretty simple. All the information we collect on this website whether at time of registering or any other time for any other reason is kept private and is not shared, traded, transferred or sold to any 3rd party companies, websites, advertising agencies, email lists or any other entity. Your information is used for registration purposes only on this site unless otherwise notified by the administrator of this site which will only be in the event of contest winning, product shipping or any other method of relaying a product you've signed up for or purchased through this site.
 
@@ -31,6 +32,4 @@ This privacy policy can be changed at any time and changes will be posted and da
 
 For any questions regarding this policy, please feel free to contact us via email at 702records [at] gmail [dot] com
 
-[blog comments powered by ](http://disqus.com/)
-
-### More posts by this author
+[blog comments powered by Disqus](http://disqus.com/)
