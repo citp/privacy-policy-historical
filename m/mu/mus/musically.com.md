@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musically.com privacy policy that was archived on 2013-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131227222202id_/http%3A//musically.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musically.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630175339id_/http%3A//musically.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Music Ally
 
