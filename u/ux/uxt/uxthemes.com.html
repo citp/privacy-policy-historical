@@ -1,0 +1,1168 @@
+<!--The following is the downloaded HTML source of the uxthemes.com privacy policy that was archived on 2014-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140630105518id_/http%3A//themeforest.net/legal/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html class="no-js fixed-layout" lang="en"><!--<![endif]--><head>
+    <meta charset="utf-8">
+<link rel="dns-prefetch" href="//d2mdw063ttlqtq.cloudfront.net">
+<link rel="dns-prefetch" href="//statse.webtrendslive.com">
+<link rel="dns-prefetch" href="//jwpsrv.com">
+
+<meta http-equiv="X-UA-Compatible" content="chrome=1">
+<script async="" src="//dmypbau5frl9g.cloudfront.net/assets/shared/vendor_webtrends-b4fcbcc02524cc097ffbc457710190aa.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-5.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"fcf8d519de","applicationID":"13909,2324476,716468","transactionName":"NTU0DRQNDwshOmIcFBE7NlYWEAoRJSs0","queueTime":4,"applicationTime":54,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-411.min.js"}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQcGQldQAQMJ"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+
+<title>Privacy Policy | ThemeForest </title>
+
+<meta content="The #1 marketplace for premium website templates, including themes for WordPress, Magento, Drupal, Joomla, and more.  Create a website, fast." name="description">
+
+
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="/icons/themeforest.net/apple-touch-icon-144x144-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/icons/themeforest.net/apple-touch-icon-114x114-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/icons/themeforest.net/apple-touch-icon-72x72-precomposed.png">
+<link rel="apple-touch-icon-precomposed" href="/icons/themeforest.net/apple-touch-icon-precomposed.png">
+
+<!--[if (gt IE 8)]><!-->
+  <link href="//dmypbau5frl9g.cloudfront.net/assets/application/themeforest/application-7c8057631628174a7dd9a7131ab008ab.css" media="all" rel="stylesheet" type="text/css">
+<!--<![endif]-->
+
+<!--[if (lte IE 8)]>
+  <link href="//dmypbau5frl9g.cloudfront.net/assets/application/themeforest/application-ie8-734f0740fc8476ef38ac7ef79e1c737e.css" media="all" rel="stylesheet" type="text/css" />
+<![endif]-->
+
+<link rel="canonical" href="http://themeforest.net/legal/privacy">
+
+      <meta content="Privacy Policy | ThemeForest " property="og:title">
+  <meta content="website" property="og:type">
+  <meta content="http://themeforest.net/legal/privacy" property="og:url">
+  <meta content="//dmypbau5frl9g.cloudfront.net/assets/images/logos/marketplaces/200px/ThemeForest.png?not_precompiled" property="og:image">
+  <meta content="The #1 marketplace for premium website templates, including themes for WordPress, Magento, Drupal, Joomla, and more.  Create a website, fast." property="og:description">
+  <meta content="ThemeForest" property="og:site_name">
+  <meta content="580836304" property="fb:admins">
+
+
+<link href="/feeds/new-themeforest-items.atom" rel="alternate" type="application/atom+xml" title="ThemeForest new items feed"><link href="/feeds/new-site-templates-items.atom" rel="alternate" type="application/atom+xml" title="ThemeForest new Site Templates items feed"><link href="/feeds/new-wordpress-items.atom" rel="alternate" type="application/atom+xml" title="ThemeForest new WordPress items feed"><link href="/feeds/new-cms-themes-items.atom" rel="alternate" type="application/atom+xml" title="ThemeForest new CMS Themes items feed"><link href="/feeds/new-ecommerce-items.atom" rel="alternate" type="application/atom+xml" title="ThemeForest new eCommerce items feed"><link href="/feeds/new-blogging-items.atom" rel="alternate" type="application/atom+xml" title="ThemeForest new Blogging items feed"><link href="/feeds/new-marketing-items.atom" rel="alternate" type="application/atom+xml" title="ThemeForest new Marketing items feed"><link href="/feeds/new-forums-items.atom" rel="alternate" type="application/atom+xml" title="ThemeForest new Forums items feed"><link href="/feeds/new-psd-templates-items.atom" rel="alternate" type="application/atom+xml" title="ThemeForest new PSD Templates items feed"><link href="/feeds/new-muse-templates-items.atom" rel="alternate" type="application/atom+xml" title="ThemeForest new Muse Templates items feed"><link href="/feeds/new-typeengine-themes-items.atom" rel="alternate" type="application/atom+xml" title="ThemeForest new TypeEngine Themes items feed">
+
+<meta content="authenticity_token" name="csrf-param">
+<meta content="s6IvxiazknlQEFkM4fN7ILsMJdG3Xp6SBwyGiFT/+F8=" name="csrf-token">
+    <meta content="ThemeForest" name="WT.site">
+    <meta content="lpi_off;dts3_off;soi_quality_scores_off;sc_off;ft_off;sb_on" name="WT.flip">
+
+    <meta content="" name="WT.si_n">
+    <meta content="" name="WT.si_x">
+    <meta content="" name="WT.si_cs">
+
+
+  <meta content="hover" name="WT.vh_hover">
+
+
+
+    <script src="//dmypbau5frl9g.cloudfront.net/assets/application/head-7489bcd5a64a1b070b4c8032c4f95ac8.js" type="text/javascript"></script>
+    
+  </head>
+  <body id="" class="" data-view="app" data-responsive="false" data-user-signed-in="false" data-has-deferred-content="false" data-feature-video-previews="true">
+    
+    <!--[if lte IE 7]>
+  <div style="color:#fff;background:#f00;padding:20px;text-align:center;">
+    ThemeForest no longer actively supports this version of Internet Explorer. We suggest that you <a href="http://windows.microsoft.com/en-us/internet-explorer/download-ie" style="color:#fff;text-decoration:underline;">upgrade to a newer version</a> or <a href="http://browsehappy.com/" style="color:#fff;text-decoration:underline;">try a different browser</a>.
+  </div>
+<![endif]-->
+
+    <div class="page">
+
+      <div class="page__canvas">
+        <div class="canvas">
+          <div class="canvas__header">
+            
+
+
+            
+
+            <header class="site-header">
+
+              <div class="site-header__logo-and-account ">
+                <div class="header-logo-account">
+  <div class="container">
+    <div class="header-logo-account__container">
+
+
+        <a class="header-logo-account__logo" href="http://envatomarketplaces.com/">
+          <span>Envato Marketplaces</span>
+        </a>
+
+      <nav class="header-logo-account__right">
+          <ul class="header-logo-account__sundry">
+              <li class="header-logo-account__sundry-item">
+                  <a href="/make_money/become_an_author" class="header-logo-account__sundry-main-link--empty">Make Money</a>
+              </li>
+              <li class="header-logo-account__sundry-item">
+                  <a href="/forums" class="header-logo-account__sundry-main-link">Forums</a>
+
+                  <div class="header-logo-account__sundry-dropdown">
+                    <ul class="hub-header-dropdown">
+                        <li>
+                          <a href="/forums/topic/themeforest/25" class="header-logo-account__sundry-sub-link">ThemeForest</a>
+                        </li>
+                        <li>
+                          <a href="/forums/topic/item-discussion/26" class="header-logo-account__sundry-sub-link">Item Discussion</a>
+                        </li>
+                        <li>
+                          <a href="/forums/topic/site-feedback/30" class="header-logo-account__sundry-sub-link">Site Feedback</a>
+                        </li>
+                        <li>
+                          <a href="/forums/topic/tf-off-topic/31" class="header-logo-account__sundry-sub-link">TF Off Topic</a>
+                        </li>
+                        <li>
+                          <a href="/forums/topic/item-requests/51" class="header-logo-account__sundry-sub-link">Item Requests</a>
+                        </li>
+                        <li>
+                          <a href="/forums/topic/all-marketplaces/47" class="header-logo-account__sundry-sub-link">All Marketplaces</a>
+                        </li>
+                        <li>
+                          <a href="/forums/topic/notices/49" class="header-logo-account__sundry-sub-link">Notices</a>
+                        </li>
+                        <li>
+                          <a href="/forums/topic/global-off-topic/84" class="header-logo-account__sundry-sub-link">Global Off Topic</a>
+                        </li>
+                        <li>
+                          <a href="/community/community_guidelines" class="header-logo-account__sundry-sub-link">Community Guidelines</a>
+                        </li>
+                    </ul>
+                  </div>
+              </li>
+              <li class="header-logo-account__sundry-item">
+                  <a href="/page/file_updates" class="header-logo-account__sundry-main-link">Community</a>
+
+                  <div class="header-logo-account__sundry-dropdown">
+                    <ul class="hub-header-dropdown">
+                        <li>
+                          <a href="/page/file_updates" class="header-logo-account__sundry-sub-link">Social Media / RSS Feeds</a>
+                        </li>
+                        <li>
+                          <a href="/community/marketplaces" class="header-logo-account__sundry-sub-link">The Envato Marketplaces</a>
+                        </li>
+                        <li>
+                          <a href="/community/badges" class="header-logo-account__sundry-sub-link">Community Badges</a>
+                        </li>
+                        <li>
+                          <a href="http://notes.envato.com/" class="header-logo-account__sundry-sub-link">Envato Notes</a>
+                        </li>
+                        <li>
+                          <a href="/collections" class="header-logo-account__sundry-sub-link">Public Collections</a>
+                        </li>
+                        <li>
+                          <a href="/feature" class="header-logo-account__sundry-sub-link">Featured Files</a>
+                        </li>
+                        <li>
+                          <a href="/page/top_sellers" class="header-logo-account__sundry-sub-link">Popular Files</a>
+                        </li>
+                        <li>
+                          <a href="/author/top_authors" class="header-logo-account__sundry-sub-link">Top Authors</a>
+                        </li>
+                        <li>
+                          <a href="/page/top_new_sellers" class="header-logo-account__sundry-sub-link">Top New Authors</a>
+                        </li>
+                    </ul>
+                  </div>
+              </li>
+              <li class="header-logo-account__sundry-item">
+                  <a href="/make_money/affiliate_program" class="header-logo-account__sundry-main-link--empty">Affiliates</a>
+              </li>
+              <li class="header-logo-account__sundry-item">
+                  <a href="http://support.envato.com" class="header-logo-account__sundry-main-link">Help</a>
+
+                  <div class="header-logo-account__sundry-dropdown">
+                    <ul class="hub-header-dropdown">
+                        <li>
+                          <a href="/help/getting_started" class="header-logo-account__sundry-sub-link">Getting Started</a>
+                        </li>
+                        <li>
+                          <a href="http://support.envato.com" class="header-logo-account__sundry-sub-link">Support Center</a>
+                        </li>
+                        <li>
+                          <a href="/licenses" class="header-logo-account__sundry-sub-link">Licenses</a>
+                        </li>
+                        <li>
+                          <a href="/legal/marketplace" class="header-logo-account__sundry-sub-link">Legal Agreements</a>
+                        </li>
+                        <li>
+                          <a href="/help/api" class="header-logo-account__sundry-sub-link">API</a>
+                        </li>
+                        <li>
+                          <a href="/get_hosting" class="header-logo-account__sundry-sub-link">Get Hosting</a>
+                        </li>
+                        <li>
+                          <a href="/category" class="header-logo-account__sundry-sub-link">Sitemap</a>
+                        </li>
+                    </ul>
+                  </div>
+              </li>
+          </ul>
+
+          <div class="header-logo-account__user-nav">
+              <div class="header-logo-account__user-nav-item">
+  <strong>
+    <a href="/sign_up" class="header-logo-account__user-nav-main-link--alpha"><span>Create an Envato Account</span></a>
+  </strong>
+</div>
+
+
+
+<div class="header-logo-account__user-nav-item">
+  <a href="/sign_in" class="header-logo-account__user-nav-main-link--omega" rel="nofollow">Sign In</a>
+</div>
+
+          </div>
+      </nav>
+    </div>
+  </div>
+</div>
+
+              </div>
+
+              <div class="site-header__sites ">
+                <div class="header-sites">
+  <div class="container">
+    <nav class="header-sites__container">
+          <a href="http://themeforest.net/?osr=tn" class="header-sites__site--themeforest is-active" title="Website Templates">ThemeForest</a>
+          <a href="http://codecanyon.net/?osr=tn" class="header-sites__site--codecanyon" title="Code, Plugins and Mobile">CodeCanyon</a>
+          <a href="http://videohive.net/?osr=tn" class="header-sites__site--videohive" title="Motion Graphics">VideoHive</a>
+          <a href="http://audiojungle.net/?osr=tn" class="header-sites__site--audiojungle" title="Stock Music and Audio">AudioJungle</a>
+          <a href="http://graphicriver.net/?osr=tn" class="header-sites__site--graphicriver" title="Graphics, Vectors and Print">GraphicRiver</a>
+          <a href="http://photodune.net/?osr=tn" class="header-sites__site--photodune" title="Stock Photography">PhotoDune</a>
+          <a href="http://3docean.net/?osr=tn" class="header-sites__site--3docean" title="3D Models and Materials">3DOcean</a>
+          <a href="http://activeden.net/?osr=tn" class="header-sites__site--activeden" title="Flash and Unity 3D">ActiveDen</a>
+    </nav>
+  </div>
+</div>
+
+              </div>
+
+              <div class="site-header__categories ">
+                <div class="header-categories">
+  <div class="container">
+    <ul class="header-categories__links">
+  <li class="header-categories__links-item">
+    <a href="/category/all" class="header-categories__main-link">All Items</a>
+
+    <div class="header-categories__links-dropdown">
+      <ul class="hub-header-dropdown">
+          <li>
+            <a href="/page/top_sellers">Popular Files</a>
+          </li>
+          <li>
+            <a href="/feature">Featured Files</a>
+          </li>
+          <li>
+            <a href="/author/top_authors">Top Authors</a>
+          </li>
+          <li>
+            <a href="/page/top_new_sellers">Top New Authors</a>
+          </li>
+          <li>
+            <a href="/category">View All Categories</a>
+          </li>
+      </ul>
+    </div>
+  </li>
+
+    <li class="header-categories__links-item">
+        <a href="/category/wordpress" class="header-categories__main-link">WordPress</a>
+        <div class="header-categories__links-dropdown">
+          <ul class="hub-header-dropdown">
+              <li>
+                <a href="/popular_item/by_category?category=wordpress" class="hub-header-dropdown__top">Popular Items</a>
+              </li>
+
+              <li>
+                <a href="/category/wordpress/blog-magazine">Blog / Magazine</a>
+              </li>
+              <li>
+                <a href="/category/wordpress/creative">Creative</a>
+              </li>
+              <li>
+                <a href="/category/wordpress/corporate">Corporate</a>
+              </li>
+              <li>
+                <a href="/category/wordpress/retail">Retail</a>
+              </li>
+              <li>
+                <a href="/category/wordpress/technology">Technology</a>
+              </li>
+              <li>
+                <a href="/category/wordpress/nonprofit">Nonprofit</a>
+              </li>
+              <li>
+                <a href="/category/wordpress/entertainment">Entertainment</a>
+              </li>
+              <li>
+                <a href="/category/wordpress/wedding">Wedding</a>
+              </li>
+              <li>
+                <a href="/category/wordpress/miscellaneous">Miscellaneous</a>
+              </li>
+              <li>
+                <a href="/category/wordpress/mobile">Mobile</a>
+              </li>
+              <li>
+                <a href="/category/wordpress/buddypress">BuddyPress</a>
+              </li>
+              <li>
+                <a href="/category/wordpress/ecommerce">eCommerce</a>
+              </li>
+              <li>
+                <a href="/category/wordpress/real-estate">Real Estate</a>
+              </li>
+              <li>
+                <a href="/category/wordpress/education">Education</a>
+              </li>
+              <li>
+                <a href="/category/wordpress/corporate/directory-listings">Directory &amp; Listings</a>
+              </li>
+
+              <li>
+                <a href="http://codecanyon.net/category/wordpress" class="hub-header-dropdown__bottom">WordPress Plugins <span class="is-visually-hidden">on CodeCanyon</span></a>
+              </li>
+          </ul>
+        </div>
+    </li>
+    <li class="header-categories__links-item">
+        <a href="/category/site-templates" class="header-categories__main-link">HTML</a>
+        <div class="header-categories__links-dropdown">
+          <ul class="hub-header-dropdown">
+              <li>
+                <a href="/popular_item/by_category?category=site-templates" class="hub-header-dropdown__top">Popular Items</a>
+              </li>
+
+              <li>
+                <a href="/category/site-templates/creative">Creative</a>
+              </li>
+              <li>
+                <a href="/category/site-templates/corporate">Corporate</a>
+              </li>
+              <li>
+                <a href="/category/site-templates/retail">Retail</a>
+              </li>
+              <li>
+                <a href="/category/site-templates/technology">Technology</a>
+              </li>
+              <li>
+                <a href="/category/site-templates/nonprofit">Nonprofit</a>
+              </li>
+              <li>
+                <a href="/category/site-templates/entertainment">Entertainment</a>
+              </li>
+              <li>
+                <a href="/category/site-templates/personal">Personal</a>
+              </li>
+              <li>
+                <a href="/category/site-templates/specialty-pages">Specialty Pages</a>
+              </li>
+              <li>
+                <a href="/category/site-templates/admin-templates">Admin Templates</a>
+              </li>
+              <li>
+                <a href="/category/site-templates/miscellaneous">Miscellaneous</a>
+              </li>
+              <li>
+                <a href="/category/site-templates/mobile">Mobile</a>
+              </li>
+              <li>
+                <a href="/category/site-templates/wedding">Wedding</a>
+              </li>
+
+          </ul>
+        </div>
+    </li>
+    <li class="header-categories__links-item">
+        <a href="/category/marketing" class="header-categories__main-link">Marketing</a>
+        <div class="header-categories__links-dropdown">
+          <ul class="hub-header-dropdown">
+              <li>
+                <a href="/popular_item/by_category?category=marketing" class="hub-header-dropdown__top">Popular Items</a>
+              </li>
+
+              <li>
+                <a href="/category/marketing/email-templates">Email Templates</a>
+              </li>
+              <li>
+                <a href="/category/marketing/landing-pages">Landing Pages</a>
+              </li>
+              <li>
+                <a href="/category/marketing/unbounce-landing-pages">Unbounce Landing Pages</a>
+              </li>
+
+          </ul>
+        </div>
+    </li>
+    <li class="header-categories__links-item">
+        <a href="/category/cms-themes" class="header-categories__main-link">CMS</a>
+        <div class="header-categories__links-dropdown">
+          <ul class="hub-header-dropdown">
+              <li>
+                <a href="/popular_item/by_category?category=cms-themes" class="hub-header-dropdown__top">Popular Items</a>
+              </li>
+
+              <li>
+                <a href="/category/cms-themes/joomla">Joomla</a>
+              </li>
+              <li>
+                <a href="/category/cms-themes/drupal">Drupal</a>
+              </li>
+              <li>
+                <a href="/category/cms-themes/concrete5">Concrete5</a>
+              </li>
+              <li>
+                <a href="/category/cms-themes/expressionengine">ExpressionEngine</a>
+              </li>
+              <li>
+                <a href="/category/cms-themes/modx-themes">MODX Themes</a>
+              </li>
+              <li>
+                <a href="/category/cms-themes/miscellaneous">Miscellaneous</a>
+              </li>
+
+          </ul>
+        </div>
+    </li>
+    <li class="header-categories__links-item">
+        <a href="/category/ecommerce" class="header-categories__main-link">eCommerce</a>
+        <div class="header-categories__links-dropdown">
+          <ul class="hub-header-dropdown">
+              <li>
+                <a href="/popular_item/by_category?category=ecommerce" class="hub-header-dropdown__top">Popular Items</a>
+              </li>
+
+              <li>
+                <a href="/category/ecommerce/magento">Magento</a>
+              </li>
+              <li>
+                <a href="/category/ecommerce/cs-cart">CS-Cart</a>
+              </li>
+              <li>
+                <a href="/category/ecommerce/shopify">Shopify</a>
+              </li>
+              <li>
+                <a href="/category/ecommerce/opencart">OpenCart</a>
+              </li>
+              <li>
+                <a href="/category/ecommerce/oscommerce">osCommerce</a>
+              </li>
+              <li>
+                <a href="/category/ecommerce/prestashop">PrestaShop</a>
+              </li>
+              <li>
+                <a href="/category/ecommerce/zen-cart">Zen Cart</a>
+              </li>
+              <li>
+                <a href="/category/ecommerce/miscellaneous">Miscellaneous</a>
+              </li>
+              <li>
+                <a href="/search?utf8=%E2%9C%93&amp;amp;term=virtuemart">VirtueMart</a>
+              </li>
+              <li>
+                <a href="/category/wordpress/ecommerce/wp-e-commerce">WP e-Commerce</a>
+              </li>
+              <li>
+                <a href="/category/wordpress/ecommerce/woocommerce">WooCommerce</a>
+              </li>
+              <li>
+                <a href="/category/wordpress/ecommerce/jigoshop">Jigoshop</a>
+              </li>
+              <li>
+                <a href="/category/wordpress/ecommerce/cart66">Cart66</a>
+              </li>
+              <li>
+                <a href="/attributes/compatible-with/Ubercart?order_by=date">Ubercart</a>
+              </li>
+              <li>
+                <a href="/attributes/compatible-with/Drupal Commerce?order_by=date">Drupal Commerce</a>
+              </li>
+
+          </ul>
+        </div>
+    </li>
+    <li class="header-categories__links-item">
+        <a href="/category/psd-templates" class="header-categories__main-link">PSD</a>
+        <div class="header-categories__links-dropdown">
+          <ul class="hub-header-dropdown">
+              <li>
+                <a href="/popular_item/by_category?category=psd-templates" class="hub-header-dropdown__top">Popular Items</a>
+              </li>
+
+              <li>
+                <a href="/category/psd-templates/creative">Creative</a>
+              </li>
+              <li>
+                <a href="/category/psd-templates/corporate">Corporate</a>
+              </li>
+              <li>
+                <a href="/category/psd-templates/retail">Retail</a>
+              </li>
+              <li>
+                <a href="/category/psd-templates/technology">Technology</a>
+              </li>
+              <li>
+                <a href="/category/psd-templates/nonprofit">Nonprofit</a>
+              </li>
+              <li>
+                <a href="/category/psd-templates/entertainment">Entertainment</a>
+              </li>
+              <li>
+                <a href="/category/psd-templates/personal">Personal</a>
+              </li>
+              <li>
+                <a href="/category/psd-templates/miscellaneous">Miscellaneous</a>
+              </li>
+
+          </ul>
+        </div>
+    </li>
+    <li class="header-categories__links-item">
+        <a href="/category/blogging/tumblr" class="header-categories__main-link">Tumblr</a>
+        <div class="header-categories__links-dropdown">
+          <ul class="hub-header-dropdown">
+
+              <li>
+                <a href="/category/blogging/tumblr/blog">Blog</a>
+              </li>
+              <li>
+                <a href="/category/blogging/tumblr/portfolio">Portfolio</a>
+              </li>
+              <li>
+                <a href="/category/blogging/tumblr/business">Business</a>
+              </li>
+              <li>
+                <a href="/category/blogging/tumblr/miscellaneous">Miscellaneous</a>
+              </li>
+
+          </ul>
+        </div>
+    </li>
+    <li class="header-categories__links-item">
+        <a href="/category/blogging/ghost-themes" class="header-categories__main-link--empty">Ghost</a>
+    </li>
+    <li class="header-categories__links-item">
+        <a href="/category/muse-templates" class="header-categories__main-link">Muse</a>
+        <div class="header-categories__links-dropdown">
+          <ul class="hub-header-dropdown">
+              <li>
+                <a href="/popular_item/by_category?category=muse-templates" class="hub-header-dropdown__top">Popular Items</a>
+              </li>
+
+              <li>
+                <a href="/category/muse-templates/creative">Creative</a>
+              </li>
+              <li>
+                <a href="/category/muse-templates/corporate">Corporate</a>
+              </li>
+              <li>
+                <a href="/category/muse-templates/ecommerce">eCommerce</a>
+              </li>
+              <li>
+                <a href="/category/muse-templates/landing">Landing</a>
+              </li>
+              <li>
+                <a href="/category/muse-templates/personal">Personal</a>
+              </li>
+              <li>
+                <a href="/category/muse-templates/miscellaneous">Miscellaneous</a>
+              </li>
+
+          </ul>
+        </div>
+    </li>
+    <li class="header-categories__links-item">
+        <a href="http://codecanyon.net/category/wordpress" class="header-categories__main-link--empty">Plugins</a>
+    </li>
+
+    <li class="header-categories__links-item">
+      <a href="/category" class="header-categories__main-link">More</a>
+
+      <div class="header-categories__links-dropdown">
+        <ul class="hub-header-dropdown">
+            <li><a href="/category/blogging">Blogging</a></li>
+            <li><a href="/category/forums">Forums</a></li>
+            <li><a href="/category/typeengine-themes">TypeEngine Themes</a></li>
+            <li><a href="/attributes/compatible-with/Facebook">Facebook Templates</a></li>
+        </ul>
+      </div>
+    </li>
+</ul>
+    <div class="header-categories__search">
+  <form accept-charset="UTF-8" action="/search" id="search" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"></div>
+    <div class="search-field">
+      <input id="term" name="term" placeholder="Search" type="text">
+      <button type="submit">
+        <span class="glyph__alt">Search</span>
+      </button>
+    </div>
+</form></div>
+
+  </div>
+</div>
+
+              </div>
+            </header>
+          </div>
+
+          <div class="canvas__body">
+                  <div class="page-info">
+    <div class="container">
+      <div class="breadcrumbs">
+  <a href="/">Home</a>
+
+    <a href="/legal/marketplace">Legal</a>
+
+</div>
+      
+      <div class="page-info__page-title">
+        <h1 class="page-title">  Privacy Policy
+</h1>
+
+<div class="page-title__result-count">
+  
+</div>
+
+
+
+      </div>
+      
+      <div class="page-info__page-tabs">
+        
+
+      </div>
+      
+    </div> 
+  </div>
+
+
+            
+
+            <div class="content-main" id="content">
+              <div class="container">
+                  
+                
+<div class="sidebar-l">
+  <ul class="side-tabs">
+    <li>
+    <a href="/legal/marketplace" class="">
+      <i class="glyph--document"></i>
+      Marketplaces Terms
+    </a>
+    </li>
+    <li>
+    <a href="/legal/author" class="">
+      <i class="glyph--document"></i>
+      Author Terms
+    </a>
+    </li>
+    <li>
+    <a href="/legal/affiliate" class="">
+      <i class="glyph--document"></i>
+      Affiliate Program Terms
+    </a>
+    </li>
+    <li>
+    <a href="/legal/privacy" class=" active">
+      <i class="glyph--preview"></i>
+      Privacy Policy
+    </a>
+    </li>
+    <li>
+    <a href="/legal/api" class="">
+      <i class="glyph--bolt"></i>
+      Envato API Service Terms and Conditions
+    </a>
+    </li>
+  </ul>
+</div>
+
+<div class="content-s document">
+  <p>Envato Pty Ltd (<strong>Envato</strong>) has developed this Privacy Policy (“Policy”) to inform you about how we deal with privacy issues in relation to our website. Your privacy is very important to us and you must agree to the terms of this Policy before becoming an Envato Marketplace member and/or using the Envato Marketplace web sites (<strong>Sites</strong>), included but not limited to</p>
+  <table class="table-general table-general--striped">
+  <thead>
+    <tr>
+      <td>Site Name:</td>
+      <td>Accessible at:</td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>ActiveDen</td>
+      <td><a href="http://www.activeden.net/">www.activeden.net</a></td>
+    </tr>
+    <tr>
+      <td>AudioJungle</td>
+      <td><a href="http://www.audiojungle.net/">www.audiojungle.net</a></td>
+    </tr>
+    <tr>
+      <td>CodeCanyon</td>
+      <td><a href="http://www.codecanyon.net/">www.codecanyon.net</a></td>
+    </tr>
+    <tr>
+      <td>GraphicRiver</td>
+      <td><a href="http://www.graphicriver.net/">www.graphicriver.net</a></td>
+    </tr>
+    <tr>
+      <td>ThemeForest</td>
+      <td><a href="http://www.themeforest.net/">www.themeforest.net</a></td>
+    </tr>
+    <tr>
+      <td>VideoHive</td>
+      <td><a href="http://www.videohive.net/">www.videohive.net</a></td>
+    </tr>
+    <tr>
+      <td>3DOcean</td>
+      <td><a href="http://www.3docean.net/">www.3docean.net</a></td>
+    </tr>
+    <tr>
+      <td>PhotoDune</td>
+      <td><a class="switch" href="http://photodune.net">www.photodune.net</a></td>
+    </tr>
+  </tbody>
+</table>
+
+  <p>
+    This Policy governs the information we collect about you and your use of
+    information we provide to you. By accepting this Policy and the Marketplace
+    Terms Agreement, you expressly consent to our use and disclosure of your
+    personal information in a manner prescribed in this Policy. You acknowledge
+    this by using the Site.
+  </p>
+  <h2 id="information-about-children">Information About Children</h2>
+  <p>Children (persons under the age of 18 years) are not eligible to use our services unsupervised and we ask that children not submit any personal information to us. If you are under the age of 18 years, you can browse the Site only in conjunction with and under the supervision of your parents or guardians. If you are under 18 years of age you cannot use the Membership Section of the Site.</p>
+  <p>It is the responsibility of parents to monitor their children’s use of our Site.</p>
+  <h2 id="information-collection">Information Collection</h2>
+  <h3 id="the-public-generally">PART A – The Public Generally</h3>
+  <p>Our primary purpose in collecting personal information is to provide you with a safer trading experience and encourage commerce between buyers and sellers using the Site as a venue. We only collect personal information about you that we consider necessary for this purpose and to achieve this goal.</p>
+  <p>You are under no obligation to provide us with this information and can access many aspects of the Site without providing us any personal information.</p>
+  <p>When you visit this website, we can record certain information in relation to your visit such as:</p>
+  <ul class="text-list">
+    <li>Your IP or proxy server IP;</li>
+    <li>Basic domain information;</li>
+    <li>Your Internet service provider is sometimes captured depending on the configuration of your ISP connection;</li>
+    <li>The date and time of your visit to the website;</li>
+    <li>The length of your session;</li>
+    <li>The pages which you have accessed;</li>
+    <li>The number of times you access our site within any month;</li>
+    <li>The size of file you look at;</li>
+    <li>The website which referred you to our website; and</li>
+    <li>The operating system which your computer uses.</li>
+  </ul>
+  <p>This information is only used for statistical and website development purposes.</p>
+  <p>Various pages on this Site invite you to provide us your name and contact details, for example, to go onto our mailing list for our newsletter, enter competitions, or to enable us to provide you with web site related services such as notifications.</p>
+  <p>If you use our Site’s feedback and support forms, you are asked to provide your name, organisation, title, address, email address and telephone number. Envato will not otherwise collect information from you through this Site unless you knowingly provide it to us.</p>
+  <p>By voluntarily providing information to us when using the Site, you are consenting to the collection and use of your personal information by us.</p>
+  <p>The Site uses session cookies, which are used only during a browsing session, and expire when you quit your browser. Upon closing your browser, the session cookie set by this Site is destroyed and no personal information is maintained which might identify you should you visit our Site at a later date.</p>
+  <p>If you choose to buy or sell on our Site, we collect information about your buying and selling behaviour. This information is only used for statistical and website development purposes.</p>
+  <p>Please note that when you voluntarily disclose information on the bulletin boards or in the forums or in the chat areas of the Site or in member profile pages, your personal and other information disclosed in your communication shall become public information and can be collected and used by other parties. We cannot control what third parties in the bulletin board, forums, chat room or member profile pages do with your personal information.</p>
+  <h3 id="members">PART B – Members</h3>
+  <p>We collect information from people who use the Membership Section of our Site (“Members”). This information may be used:</p>
+  <ol class="text-list">
+    <li>to send news, information about our activities and general promotional material which we believe may be useful to you or us;</li>
+    <li>to monitor who is accessing the membership section of the Site or using services offered on the Site; and</li>
+    <li>to profile the type of people accessing the Site.</li>
+  </ol>
+  <p>If you choose to buy or sell on our Site we collect information about your buying and selling behaviour.</p>
+  <p>If you use a payment facilitator on the Site, we collect additional necessary information, including but not limited to billing address, credit card number and credit card expiry date.</p>
+  <h4 id="use-of-information-and-disclosure">USE OF INFORMATION AND DISCLOSURE</h4>
+  <p>Envato will only use the information it collects through the Site for the following purposes:</p>
+  <ul class="text-list">
+    <li>Forwarding important information relating to Envato activities and other requested information;</li>
+    <li>Contacting you in response to your feedback or query to discuss our services;</li>
+    <li>Monitoring Site performance;</li>
+    <li>Improving our Site and services to you;</li>
+    <li>Internal administration; and</li>
+    <li>Other purposes that are in accordance with your instructions.</li>
+  </ul>
+  <p>Envato will not give, sell, trade or otherwise disclose any personal information about you to a third party unless:</p>
+  <ul class="text-list">
+    <li>You have provided us with your consent; or</li>
+    <li>We are required to do so by law.</li>
+  </ul>
+  <h4 id="cookies-and-advertising">COOKIES AND ADVERTISING</h4>
+  <p>Occasionally, we may use third party advertising companies to serve ads based on prior visits to the Site. These advertising companies use cookies to anonymously collect data.</p>
+  <p>No personally identifiable information is collected by these cookies. The anonymous data they collect is kept separate from the personal information in your Member account.</p>
+  <p>You can opt out of third party advertising cookies at any time by visiting this page: <a href="http://www.networkadvertising.org/managing/opt_out.asp">http://www.networkadvertising.org/managing/opt_out.asp</a></p>
+  <p>We (and authors who sell items on our marketplaces) use third party analytics services that use cookies to record general site usage information - like page visits and the way users move between pages on the Site. This general site analytics information is not matched to your user account.</p>
+  <p>Other cookies are used to enhance your use of the Site, such as remembering that you are logged in. You are able to minimise or block cookies using the privacy settings in your internet browser, but this may restrict your use of the Site. For general information on cookies, see <a href="http://www.allaboutcookies.org/">http://www.allaboutcookies.org/</a>.</p>
+  <h4>ACCESS AND / OR CORRECTION OF YOUR DETAILS</h4>
+  <p>You may request access to your personal information and can ask us to correct your personal information.</p>
+  <p>You can do this by emailing <a href="mailto:legal@envato.com">legal@envato.com</a></p>
+  <h4 id="disclaimer">DISCLAIMER</h4>
+  <p>This Site contains links to other sites. Envato is not responsible for the privacy practices of linked sites. Underlined words and phrases are click-through links or hyperlinks to pages and websites. Envato strongly recommends that you read the Privacy Policy of the linked websites as they may contain further terms and conditions which apply to you</p>
+  <h4 id="security">SECURITY</h4>
+  <p>This Site has security measures in place to protect the loss or misuse of, or alteration or unauthorised access to, information under our control. However, if you send information from this Site, it will not be encrypted unless we expressly tell you it is.</p>
+  <h4 id="amendments-to-the-privacy-policy">AMENDMENTS TO THE PRIVACY POLICY</h4>
+  <p>We may change this Policy. Such changes will be effective when a notice of the change is made available on the Site. We will provide you with thirty (30) days notice to allow you the opportunity to notify Envato if you do not agree to such changes.</p>
+  <h4 id="out-provision">OPT – OUT PROVISION</h4>
+  <p>To protect you from unwanted email communications, Envato adopts an opt-out facility for marketing communication. If you decide you no longer would like to receive marketing communications from us, please advise us by <a href="http://support.envato.com">contacting support</a> or follow the instructions in the “Opt-Out” section of the email you have received.</p>
+  <p>If you request us not to use personal information in a particular manner or at all, we will adopt all reasonable measures to observe your request but we may still use or disclose that information if:</p>
+  <ol class="text-list">
+    <li>we subsequently notify you of the intended use or disclosure and you do not object to that use or disclosure;</li>
+    <li>we believe that the use or disclosure is reasonably necessary to assist a law enforcement agency or an agency responsible for governmental or public security in the performance of their functions; or</li>
+    <li>we are required by law to disclose the information.</li>
+  </ol>
+  <h4 id="international-transfer-of-information">INTERNATIONAL TRANSFER OF INFORMATION</h4>
+  <p>Our servers and information processing equipment are located in a number of countries around the world, thus the information collected from you will be stored in these countries. By voluntarily providing information to us when using the Site, you are consenting to the collection and use of your personal information by us, including the transfer to another jurisdiction other than Australia.</p>
+  <h4>FURTHER INFORMATION</h4>
+  <p>For further information about Envato’s privacy policy, please <a href="http://support.envato.com">contact support</a>.</p>
+</div>
+
+              </div>
+            </div>
+
+            
+
+            <footer class="site-footer">
+  <div class="site-footer__primary">
+    <div class="footer-primary">
+  <div class="container">
+
+    <div class="footer-primary__group--first">
+      <div class="footer-box">
+        <h4 class="footer-box__header is-hidden-desktop js-footer-expand-toggle" data-target="#footer-brands">Marketplaces</h4>
+        <div id="footer-brands" class="footer-box__content">
+          <div class="marketplace-brands">
+    <a href="http://activeden.net/?osr=fn&amp;sso" class="marketplace-brands__link--activeden" title="Flash and Unity 3D">
+      <span>ActiveDen</span>
+</a>    <a href="http://audiojungle.net/?osr=fn&amp;sso" class="marketplace-brands__link--audiojungle" title="Stock Music and Audio">
+      <span>AudioJungle</span>
+</a>    <a href="http://themeforest.net/?osr=fn" class="marketplace-brands__link--themeforest" title="Website Templates">
+      <span>ThemeForest</span>
+</a>    <a href="http://videohive.net/?osr=fn&amp;sso" class="marketplace-brands__link--videohive" title="Motion Graphics">
+      <span>VideoHive</span>
+</a>    <a href="http://graphicriver.net/?osr=fn&amp;sso" class="marketplace-brands__link--graphicriver" title="Graphics, Vectors and Print">
+      <span>GraphicRiver</span>
+</a>    <a href="http://3docean.net/?osr=fn&amp;sso" class="marketplace-brands__link--three_d_ocean" title="3D Models and Materials">
+      <span>3DOcean</span>
+</a>    <a href="http://codecanyon.net/?osr=fn&amp;sso" class="marketplace-brands__link--codecanyon" title="Code, Plugins and Mobile">
+      <span>CodeCanyon</span>
+</a>    <a href="http://photodune.net/?osr=fn&amp;sso" class="marketplace-brands__link--photodune" title="Stock Photography">
+      <span>PhotoDune</span>
+</a></div>
+        </div>
+      </div>
+    </div>
+
+    <div class="footer-primary__group--second">
+      <div class="footer-box">
+        <h4 class="footer-box__header js-footer-expand-toggle" data-target="#footer-social">Follow us</h4>
+        <div id="footer-social" class="footer-box__content">
+          <ul class="footer-box__list">
+  <li><a href="http://notes.envato.com/" rel="nofollow"><b class="social-icon--blog is-hidden-tablet-and-below"></b>Subscribe to Blog</a></li>
+  <li><a href="http://twitter.com/envato" rel="nofollow"><b class="social-icon--twitter is-hidden-tablet-and-below"></b>Follow us on Twitter</a></li>
+  <li><a href="http://www.facebook.com/themeforest" rel="nofollow"><b class="social-icon--facebook is-hidden-tablet-and-below"></b>Be a fan on Facebook</a></li>
+    <li><a href="http://plus.google.com/+themeforest" rel="publisher"><b class="social-icon--google-plus is-hidden-tablet-and-below"></b>Circle us on Google+</a></li>
+  <li><a href="/page/file_updates/#rss" rel="nofollow"><b class="social-icon--rss is-hidden-tablet-and-below"></b>RSS Feed</a></li>
+</ul>
+        </div>
+      </div>
+
+      <div class="footer-box">
+        <h4 class="footer-box__header js-footer-expand-toggle" data-target="#footer-subscribe"><span class="is-hidden-tablet-and-below">Email</span> Newsletters</h4>
+        <div id="footer-subscribe" class="footer-box__content">
+          <p class="is-hidden-desktop">Subscribe for monthly updates</p>
+<p class="is-hidden-tablet-and-below">
+    Inspiration, ideas, news and your feedback.
+</p>
+<form action="http://Envato.us1.list-manage.com/subscribe/post?u=01a7104df9f31fd41e34ccbed&amp;id=6f890803c2" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate footer-subscribe" target="_blank">
+  <input type="text" placeholder="Email Address" name="EMAIL" class="footer-subscribe__input" id="mce-EMAIL">
+  <button type="submit" name="subscribe" id="mc-embedded-subscribe" class="footer-subscribe__submit btn-icon btn--color-green submit">Subscribe</button>
+</form>
+<a href="/legal/privacy" class="footer-box__external-link is-hidden-tablet-and-below">Privacy Policy</a>
+
+        </div>
+      </div>
+    </div>
+
+    <div class="footer-primary__group--third">
+      <div class="footer-box">
+        <h4 class="footer-box__header js-footer-expand-toggle" data-target="#footer-help">Help and Support</h4>
+        <div id="footer-help" class="footer-box__content">
+          <ul class="footer-box__list">
+  <li><a href="http://support.envato.com/index.php?/Knowledgebase/List">Knowledgebase</a></li>
+  <li><a href="http://support.envato.com/">Contact Support</a></li>
+  <li><a href="http://envato.com">About Envato</a></li>
+  <li><a href="http://envato.com/careers">Careers</a></li>
+</ul>
+
+        </div>
+      </div>
+
+      <div class="footer-box is-hidden-tablet-and-below">
+        <div class="footer-box__content">
+          <p>Marketplace Members</p>
+<span class="footer-box__count">
+  4,033,333
+</span>
+
+<p>Total Marketplace Items</p>
+<span class="footer-box__count">
+  5,670,839
+</span>
+        </div>
+      </div>
+    </div>
+
+    <div class="footer-primary__group--fourth">
+      <div class="footer-box">
+        <a href="http://studio.envato.com/?utm_source=marketplacefooter&amp;utm_medium=banner&amp;utm_content=logodesign1&amp;utm_campaign=mplacefooter" target="_blank" class="footer-box__header--envato-studio is-hidden-desktop">
+          <span class="envato-studio-logo">Envato Studio</span>
+        </a>
+
+        <div class="footer-box__content is-hidden-tablet-and-below">
+          <a href="http://studio.envato.com/?utm_source=marketplacefooter&amp;utm_medium=banner&amp;utm_content=logodesign1&amp;utm_campaign=mplacefooter" target="_blank" class="envato-studio-logo">Envato Studio</a>
+
+<p>Microlancer is now Envato Studio!</p>
+
+<p>Custom digital services like logo design, WordPress installation, video production and more.</p>
+
+<a href="http://studio.envato.com/?utm_source=marketplacefooter&amp;utm_medium=banner&amp;utm_content=logodesign1&amp;utm_campaign=mplacefooter" class="footer-box__image-link" target="_blank">
+  <img alt="Open. New services!" height="112px" src="//dmypbau5frl9g.cloudfront.net/assets/header-footer/envato-studio/open-new-services-83718ed093b4977f4fd3886adadddea5.png" width="140px">
+</a>
+<a href="http://studio.envato.com/?utm_source=marketplacefooter&amp;utm_medium=banner&amp;utm_content=logodesign1&amp;utm_campaign=mplacefooter" target="_blank" class="footer-box__external-link">Check out Envato Studio</a>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</div>
+  </div>
+
+  <div class="site-footer__secondary">
+    <div class="footer-secondary">
+  <div class="container">
+
+    <div class="footer-secondary__branding">
+      <div class="footer-branding">
+        <a class="footer-branding__logo" href="http://envato.com" target="_blank">Envato</a>
+        <span class="footer-branding__copyright">
+          © 2014
+        </span>
+        <a href="/legal/marketplace" class="footer-branding__terms" rel="nofollow">Terms of Use</a>
+      </div>
+    </div>
+
+    <ul class="footer-secondary__copyright">
+      <li>Copyright © 2014 <a href="http://envato.com" target="_blank">Envato</a></li>
+      <li><a href="/legal/marketplace" rel="nofollow">Terms of Use</a></li>
+      <li><a href="http://support.envato.com/" target="_blank">Support/Help</a></li>
+    </ul>
+
+    <div class="footer-secondary__trademarks">
+      Adobe®, Flash®, Flex®, Fireworks®, Photoshop®, Illustrator®, InDesign® and After Effects® are registered trademarks of Adobe Systems Incorporated.
+    </div>
+
+  </div>
+</div>
+
+  </div>
+</footer>
+          </div>
+
+          <div id="tooltip-magnifier" class="magnifier">
+  <strong></strong>
+  <div class="info">
+    <div class="author-category">
+      by <span class="author"></span>
+      <span class="category"></span>
+    </div>
+    <div class="price">
+      <span class="cost"></span>
+    </div>
+  </div>
+</div>
+          <div id="landscape-image-magnifier" class="magnifier">
+    <div class="size-limiter">
+    </div>
+  <strong></strong>
+  <div class="info">
+    <div class="author-category">
+      by <span class="author"></span>
+      <span class="category"></span>
+    </div>
+    <div class="price">
+      <span class="cost"></span>
+    </div>
+  </div>
+</div>
+          <div id="portrait-image-magnifier" class="magnifier">
+    <div class="size-limiter">
+    </div>
+  <strong></strong>
+  <div class="info">
+    <div class="author-category">
+      by <span class="author"></span>
+      <span class="category"></span>
+    </div>
+    <div class="price">
+      <span class="cost"></span>
+    </div>
+  </div>
+</div>
+          <div id="square-image-magnifier" class="magnifier">
+    <div class="size-limiter">
+    </div>
+  <strong></strong>
+  <div class="info">
+    <div class="author-category">
+      by <span class="author"></span>
+      <span class="category"></span>
+    </div>
+    <div class="price">
+      <span class="cost"></span>
+    </div>
+  </div>
+</div>
+          <div id="smart-image-magnifier" class="magnifier">
+    <div class="size-limiter">
+    </div>
+  <strong></strong>
+  <div class="info">
+    <div class="author-category">
+      by <span class="author"></span>
+      <span class="category"></span>
+    </div>
+    <div class="price">
+      <span class="cost"></span>
+    </div>
+  </div>
+</div>
+          <div id="video-magnifier" class="magnifier">
+    <div class="size-limiter">
+    </div>
+  <strong></strong>
+  <div class="info">
+    <div class="author-category">
+      by <span class="author"></span>
+      <span class="category"></span>
+    </div>
+    <div class="price">
+      <span class="cost"></span>
+    </div>
+  </div>
+</div>
+        </div>
+
+
+        <div class="page__overlay" data-view="offCanvasNavToggle" data-off-canvas="close"></div>
+      </div>
+    </div>
+
+    
+
+    <!--[if (gt IE 8)]><!-->
+      <script src="//dmypbau5frl9g.cloudfront.net/assets/application/vendor_jquery2-024171b93b68ff47e4a50240a569cef3.js" type="text/javascript"></script>
+    <!--<![endif]-->
+    <!--[if (lte IE 8)]>
+      <script src="//dmypbau5frl9g.cloudfront.net/assets/application/vendor_jquery1-da1620cbcfd8554b66164a762c99ccd4.js" type="text/javascript"></script>
+    <![endif]-->
+
+    <script src="//dmypbau5frl9g.cloudfront.net/assets/application/main-f38706d17fa128834928402a1b3222a4.js" type="text/javascript"></script>
+
+    <script>$(function(){ marketplace.init.app(); });</script>
+
+
+
+      <script>
+  (function (sitePropertyId, currentDomain, allDomains, flashAnalyticsUrl) {
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga("create", sitePropertyId, "auto", {
+      allowLinker: true
+    });
+
+    ga("create", "UA-11834194-36", {
+      name: "b"
+    });
+
+    ga("b.require", "linker");
+    ga("b.linker:autoLink", allDomains);
+
+    ga('require', 'displayfeatures');
+    ga('b.require', 'displayfeatures');
+
+
+    if (flashAnalyticsUrl) {
+      ga("send", {
+        hitType: "pageview",
+        page: flashAnalyticsUrl
+      });
+      ga("b.send", {
+        hitType: "pageview",
+        page: flashAnalyticsUrl
+      });
+    } else {
+      ga("send", "pageview");
+      ga("b.send", "pageview");
+    }
+
+  }("UA-11834194-7",
+    "themeforest.net",
+    ["activeden.net","audiojungle.net","themeforest.net","videohive.net","graphicriver.net","3docean.net","codecanyon.net","photodune.net"],
+    ""));
+
+  
+</script>
+
+  <!-- START OF SmartSource Data Collector TAG v10.4.12 -->
+<!-- Copyright (c) 2012 Webtrends Inc.  All rights reserved. -->
+<script>
+window.webtrendsAsyncInit=function(){
+    window.dcs=new Webtrends.dcs().init({
+        dcsid:"dcsbkb9azvz5bdcyrezh0wose_5r8l"
+        ,domain:"statse.webtrendslive.com"
+        ,timezone:10
+        ,offsite:true
+        ,download:true
+        ,downloadtypes:"xls,doc,pdf,txt,csv,zip,docx,xlsx,rar,gzip"
+        ,onsitedoms:"themeforest.net"
+        ,plugins:{
+            hm:{src:"//s.webtrends.com/js/webtrends.hm.min.js"}
+        }
+        }).track();
+
+};
+(function(){
+    var s=document.createElement("script"); s.async=true; s.src="//dmypbau5frl9g.cloudfront.net/assets/shared/vendor_webtrends-b4fcbcc02524cc097ffbc457710190aa.js";
+    var s2=document.getElementsByTagName("script")[0]; s2.parentNode.insertBefore(s,s2);
+}());
+</script>
+<noscript>
+  <img alt="dcsimg" id="dcsimg" width="1" height="1"
+       src="//statse.webtrendslive.com/dcsbkb9azvz5bdcyrezh0wose_5r8l/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=10.2.0&amp;dcssip=themeforest.net"/>
+</noscript>
+<!-- END OF SmartSource Data Collector TAG v10.4.12 -->
+
+  <script type="text/javascript">
+  var $mcGoal = {'settings':{'uuid':'01a7104df9f31fd41e34ccbed','dc':'us1'}};
+  (function() {
+    var sp = ('https:' == document.location.protocol ? 'https://s3.amazonaws.com/downloads.mailchimp.com' : 'http://downloads.mailchimp.com') + '/js/goal.min.js';
+    marketplace.nonCriticalScripts.push( sp );
+  })(); 
+</script>
+
+  
+    <script type="text/javascript">
+      /* <![CDATA[ */
+      var google_conversion_id = 1065398951;
+      var google_conversion_label = "u-J6CI3SqQMQp-WC_AM";
+      var google_custom_params = window.google_tag_params;
+      var google_remarketing_only = true;
+      /* ]]> */
+    </script>
+    <script src="//www.googleadservices.com/pagead/conversion.js"></script>
+    <noscript>
+      <div style="display:inline;">
+        <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1065398951/?value=0&amp;amp;label=u-J6CI3SqQMQp-WC_AM&amp;amp;guid=ON&amp;amp;script=0" />
+      </div>
+    </noscript>
+
+
+  
+
+<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
