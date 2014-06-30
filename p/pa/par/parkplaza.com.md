@@ -1,9 +1,11 @@
-> *The following text is extracted and transformed from the parkplaza.com privacy policy that was archived on 2013-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131226075356id_/http%3A//www.parkplaza.com/section/privacy.home/privacy.sidemenus) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parkplaza.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630134843id_/http%3A//www.parkplaza.com/section/privacy.home/privacy.sidemenus) for the most accurate reproduction.*
 
 # Guest Privacy Policy
 
-[](http://privacy.truste.com/privacy-seal/Carlson-Companies,-Inc-/validation?rid=235415cb-d2d2-407b-b923-3ea9f987af1b) Carlson Hotels Guest Privacy Policy - Effective October 28, 2007  
-Last updated October 9, 2013
+[](http://privacy.truste.com/privacy-seal/Carlson-Companies,-Inc-/validation?rid=235415cb-d2d2-407b-b923-3ea9f987af1b "TRUSTe European Safe Harbor certification")
+
+Carlson Hotels Guest Privacy Policy - Effective October 28, 2007  
+Last updated April 2, 2014
 
  **Carlson Hotels  Privacy Promises.** Carlson Hotels together with its subsidiaries (collectively, "Carlson Hotels") take your privacy seriously. These are our ten promises to you: 
 
@@ -26,7 +28,7 @@ To access your information, ask questions about our privacy practices, change yo
 > 11340 Blondo St.  
 > Omaha, NE 68164
 > 
-> In the U.S. & Canada call toll free at +1 (888) 201-1804.
+> In the U.S. & Canada call toll free at +1 (800) 846-0324.
 > 
 > Email - privacy@parkplaza.com.
 
