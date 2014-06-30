@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bhinsights.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231005732id_/http%3A//www.bhphotovideo.com/find/HelpCenter/PrivacySecurity.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bhinsights.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630170047id_/http%3A//www.bhphotovideo.com/find/HelpCenter/PrivacySecurity.jsp) for the most accurate reproduction.*
 
 # Privacy and Security | B&H Photo Video
 
 Security:
 
-Note: The following only applies to B&H's main website ([www.bhphotovideo.com](http://www.bhphotovideo.com/)) but not to our blogs "B&H inDepth" ([www.bhphotovideo.com/indepth](http://www.bhphotovideo.com/indepth)) and "B&H Insights" ([www.bhphotovideo.com/insights](http://www.bhphotovideo.com/insights)): The security of your personal information is very important to us. In an effort to protect your personal information, we use Secure Sockets Layer (SSL) technology with 128 bit encryption. If your browser supports SSL (most current browsers do), it will automatically encrypt the information you provide to us on the secure pages on our site, before sending it over the Internet.
+Note: The following only applies to B&H's main website ([www.bhphotovideo.com](http://www.bhphotovideo.com/)) but not to our blog "B&H Explora" ([www.bhphotovideo.com/explora](http://www.bhphotovideo.com/explora)): The security of your personal information is very important to us. In an effort to protect your personal information, we use Secure Sockets Layer (SSL) technology with 128 bit encryption. If your browser supports SSL (most current browsers do), it will automatically encrypt the information you provide to us on the secure pages on our site, before sending it over the Internet.
 
 B&H has obtained a digital certificate from Cybertrust, a leading provider of Internet trust services. B&H's website is also tested and certified daily by ScanAlert to receive its Hacker Safe Certification which ensures that the website passes the FBI/SANS Internet Security Test.
 
