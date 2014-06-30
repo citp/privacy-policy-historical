@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rev.com privacy policy that was archived on 2013-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131225051609id_/http%3A//www.rev.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rev.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630035412id_/http%3A//www.rev.com/about/privacy) for the most accurate reproduction.*
 
 # Rev - Privacy Policy
 
@@ -71,7 +71,7 @@ To keep your Personal Data accurate, current, and complete, please contact us as
 
 You may contact us as follows: 
 
-  * mailing us at Rev.com 461 Bush St FL 4 San Francisco, CA 94108
+  * mailing us at Rev.com 251 KEARNY ST FL 8 SAN FRANCISCO, CA 94108-4541
   * calling us at 888-369-0701
   * emailing us at support@rev.com
 
