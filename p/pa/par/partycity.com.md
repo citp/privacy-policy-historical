@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the partycity.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806234154id_/http%3A//www.partycity.com/category/customer%2Bservice/privacy%2B%2526%2Bsecurity.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partycity.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630152650id_/http%3A//www.partycity.com/category/customer%2Bservice/privacy%2B%2526%2Bsecurity.do) for the most accurate reproduction.*
 
 # Privacy & Security - Customer Service - Party City
+
+Privacy and Security
+
+  
+
 
 Nobody wants to have his or her personal information sold or misused. 
 
