@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fundoodata.com privacy policy that was archived on 2013-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130921091233id_/http%3A//www.fundoodata.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fundoodata.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630163909id_/http%3A//www.fundoodata.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Directory of companies in India, Delhi, Noida, Gurgaon (NCR), Mumbai, Hyderabad, Chennai, Bangalore, Pune and NCR companies, IT companies delhi, BPO Companies in India, Call center India, gurgaon, Bangalore IT companies, India Business Directory, Directory of BPO, ITES, Call Center Companies
+# Fundoodata.com | Privacy Policy
 
 SUNRISE CONSULTANCY SERVICES, is serious about protecting your privacy -- whether you are a subscriber or a visitor. We use information collected about you only to process and bill orders and to make FundooData's Online a more useful and valuable service. SUNRISE CONSULTANCY SERVICES's strives to respect the privacy of those who visit or become subscribers of the FundooData's Online Web site.
 
