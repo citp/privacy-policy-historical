@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fivebelow.com privacy policy that was archived on 2013-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130524043328id_/http%3A//www.fivebelow.com/privacy-policy-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fivebelow.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630145946id_/http%3A//www.fivebelow.com/privacy-policy-terms) for the most accurate reproduction.*
 
 # Privacy Policy & Terms | Five Below
 
@@ -19,7 +19,7 @@ Five Below has created this Privacy Policy in order to demonstrate our firm comm
 
 ###### What information is collected, for what purpose is the information collected and how is it used?
 
-  * **Five Below Email List** – Five Below maintains a customer list to which we send marketing emails. These promotions contain various information including: new products, grand openings, contests, and in-store promotional events. At this time, we are not selling merchandise on the web. To join the Five Below email list, we ask for your first name, last name, email address, and age. If a user is a child who is under 13, we also ask for his or her parent's/guardian's first name, last name and email address. We then seek the consent of the parent or guardian prior to adding the child's information to our e-mail list.
+  * **Five Below Email List** – Five Below maintains a customer list to which we send marketing emails. These promotions contain various information including: new products, grand openings, contests, research surveys and in-store promotional events. At this time, we are not selling merchandise on the web. To join the Five Below email list, we ask for your first name, last name, email address, and age. If a user is a child who is under 13, we also ask for his or her parent's/guardian's first name, last name and email address. We then seek the consent of the parent or guardian prior to adding the child's information to our e-mail list.
   * **Five Below Tell-A-Friend** – Five Below offers an online feature where a customer can enter the email address of one or more of his/her friends to tell them what a cool store they found in Five Below. For the “Tell-A-Friend” feature, Five Below will automatically send your friend an invitation to the website and our stores and to confirm their first name, last name, email address, and age. As a part of every email that Five Below sends out in the “Tell-A-Friend” program, the recipient has the option to remove himself or herself from our mailing list. If the friend is a child who is under 13, we will also ask for his or her parent's/guardian's first name, last name and email address. We then seek the consent of the parent or guardian prior to adding the child's information to our e-mail list.
 
 
