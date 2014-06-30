@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moolala.com privacy policy that was archived on 2013-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131013070724id_/http%3A//www.moolala.com/Docs/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moolala.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630223806id_/http%3A//www.moolala.com/Docs/Privacy) for the most accurate reproduction.*
 
 # Moolala - Privacy Policy
 
@@ -105,11 +105,14 @@ We may change the Privacy Policy at any time. If we make any significant changes
 If you have any questions or comments about this Privacy Policy, please email us at privacy@Moolala.com or contact us at: 
     
     
-                        Moolala, Inc
-                        Attn: Privacy Policy Issues
-                        8303 N. Mopac Expressway
-                        Suite C-405
-                        Austin, TX 78759
+    						Moolala, Inc.  
+    
+    						Attn: Privacy Policy Issues  
+    
+    						3303 Northland Drive, Suite 205  
+    
+    						Austin, Texas 78731  
+    
                         
 
 10\. Others Terms; Use of this Site.
