@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hipmunk.com privacy policy that was archived on 2013-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131019035730id_/http%3A//www.hipmunk.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hipmunk.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630211610id_/http%3A//www.hipmunk.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Hipmunk
 
@@ -47,7 +47,7 @@ Hipmunk may disclose your personal information if required to do so by law or in
 
 If there is a change in ownership of Hipmunk, including through a merger with, acquisition by, or sale of assets to another entity, we may sell or otherwise transfer all information you provide to us, including personally identifiable information, to that entity. 
 
-Hipmunk may disclose aggregated or other types of non-personally identifiable information, including "automatically collected" and "cookies" information that is non-personally identifiable, to third parties for various purposes. For example, Hipmunk may disclose non-personally identifiable information to our travel partners or other interested third parties to assist them in understanding the usage, viewing, and demographic patterns and activity on the Service, to assist them in serving your travel needs, or to enhance your ability to conduct efficient and accurate searches. 
+Hipmunk may disclose aggregated, anonymized, or other types of non-personally identifiable information, including "automatically collected" and "cookies" information that is non-personally identifiable, to third parties for various purposes. For example, Hipmunk may disclose non-personally identifiable information to our travel partners or other interested third parties to assist them in understanding the usage, viewing, and demographic patterns and activity on the Service, to assist them in serving your travel needs, to select the advertisements shown to you on our Service or on other websites and services, or to enhance your ability to conduct efficient and accurate searches. 
 
 ## Choice
 
@@ -55,9 +55,13 @@ You may, of course, decline to share certain information with Hipmunk, in which 
 
 ## Third-Party Advertisers and Advertising Technology Providers
 
-Our advertising technology partners may use technology to send, directly to your browser, the advertisements that appear on the Service. Our advertising technology partners automatically receive your IP address and other log file information when this happens. Our advertising technology partners, as well as certain of our other travel partners, may also use cookies or other technology to serve advertisements or other information about travel booking options to you both on our Service and on other websites and services, based on your interaction with promotional e-mails from us or from other services, your visits to and use of the Service, and your visits to third-party sites and services on the Internet, including certain travel partners' sites and services (collectively, "Usage Information"). These advertising technology and other travel partners may transmit your Usage Information to Hipmunk, and Hipmunk may use that Usage Information consistent with this Privacy Policy. Our advertising technology partners also may, in accordance with their privacy policies, permit third parties to target advertisements that are displayed to you, both on and off the Service, based on your Usage Information. 
+Our advertising technology partners may use technology to send, directly to your browser, the advertisements that appear on the Service. Our advertising technology partners automatically receive your IP address and other log file information when this happens. Our advertising technology partners, as well as certain of our other travel partners, may also use cookies, pixel tags, or other technology to assist them in understanding the usage, viewing, and demographic patterns and activity on the Service or to serve advertisements or other information about travel booking options to you both on our Service and on other websites and services, based on your interaction with promotional e-mails from us or from other services, your visits to and use of the Service, and your visits to third-party sites and services on the Internet, including certain travel partners' sites and services (collectively, "Usage Information") and/or on anonymized user information. We may use Facebook custom audiences. You may opt-out of this technology at <https://www.facebook.com/ads/website_custom_audiences/> These advertising technology and other travel partners may transmit your Usage Information to Hipmunk, and Hipmunk may use that Usage Information consistent with this Privacy Policy. Our advertising technology partners also may, in accordance with their privacy policies, permit third parties to target advertisements that are displayed to you, both on and off the Service, based on your Usage Information or anonymized user information. These partners have promised that they will not combine or associate your Usage Information or anonymized user information provided to them by Hipmunk with information you have independently provided to those partners. 
 
 Aside from what is described above, we do not provide personal information to our advertising technology partners without your consent. To learn more about our advertising technology partners, send us an e-mail at [contact@hipmunk.com](mailto:contact@hipmunk.com). To learn more about online advertising generally and manage your online advertising preferences, you may visit the Network Advertising Initiative's website [here](http://www.networkadvertising.org/choices/). 
+
+## Do Not Track
+
+Our website does not currently respond to a Do Not Track ("DNT") or similar signal as it awaits the results of efforts by the policy and legal community to determine the meaning of DNT and the proper way to respond. 
 
 ## Links to Third-Party Services
 
@@ -75,4 +79,4 @@ Our servers and data centers are located in the United States. If you choose to 
 
 We may occasionally update this Privacy Policy. When we do, we will also revise the "last updated" date at the bottom of the Privacy Policy. If we substantially revise the policy (and we will use our discretion to determine if the revision is substantial) we may send e-mails to our registered users containing a link to the updated policy. We encourage you to review this Privacy Policy from time to time to stay informed about how we are protecting the personally identifiable information we collect. If you continue to use our Service after we post an update to this Privacy Policy, this will indicate your acceptance of the update. 
 
-**Updated August 9, 2013**
+**Updated December 27, 2013**
