@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crosswordnexus.com privacy policy that was archived on 2013-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131202034414id_/http%3A//crosswordnexus.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crosswordnexus.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630021733id_/http%3A//www.crosswordnexus.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Crossword Nexus
 
