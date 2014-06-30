@@ -1,101 +1,178 @@
-> *The following text is extracted and transformed from the teoma.com privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820042750id_/http%3A//sp.teoma.com/en/docs/about/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teoma.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630073352id_/http%3A//about.ask.com/privacy-policy) for the most accurate reproduction.*
 
-# About Teoma.com Privacy
+# Privacy Policy | Ask.com
 
-| 
+_(Effective December 18, 2013)_
 
-Untitled Document
+**Privacy Policy**
 
-## Privacy Policy for Teoma.com
+**Last Updated On: December 18, 2013  
+**  
+At Ask.com, we respect your privacy, and we understand the importance of the information you entrust to us. This Privacy Policy describes our practices concerning the information collected by the Ask family of companies consisting of IAC Search & Media, Inc., APN, LLC and Mindspark Interactive Network, Inc.  (“Ask”, “we”, “us”, “our”) through the use of (i) our websites (the “Website”), (ii) our Ask mobile applications and (iii) “Search Applications,”  a search box on an application or site from which you can access our search services, specifically provided by APN, LLC and/or Mindspark Interactive Network, Inc.(collectively the “Services”).
 
-_Effective date: March 16, 2010_
+Below we describe what information we collect when you use our Services, how we protect that information, how long we retain it, with whom we share it, and what your privacy options are.  By using the Services, you consent to our collection and use of your information as described in this Privacy Policy.
 
-Teoma.com is owned and operated by IAC Search & Media, a wholly owned business of IAC, which operates several dozen brands such as Chemistry.com, Citysearch, CollegeHumor, Dictionary.com, Evite, GarageGames, Gifts.com, Match.com, Pronto, ServiceMagic, Shoebuy, and Vimeo. For a list of all of IAC's businesses, please visit [www.iac.com](http://www.iac.com/).
+We will continue to evaluate this Privacy Policy against new technologies, business practices, and our users’ needs, and may make changes to the Privacy Policy accordingly.  Please check this page periodically for updates.  If we make any material changes to this Privacy Policy, we will post the updated Privacy Policy here, along with its effective date, and notify you by email or by means of a notice on our Website.  Your continued use of the Services after our posting of changes to this Privacy Policy means that you agree to be bound by such changes.
 
-We respect the privacy of our users and the importance of the information they entrust to us. We provide this Privacy Policy so that our users (“ **you** ”) will know what information is being collected about you and your activities on Teoma.com, (the “ **Site** ”) how that information is being used, and with whom it is being shared. This Privacy Policy describes the online privacy practices applicable to the web ( the “ **Site** ”) and the various services (“ **Services** ”) we provide on or through the Site. 
+**1.          What information do we collect about you? **
 
-By using the Site and Services, you are agreeing to the collection and use of certain information about you in the manner described in this Privacy Policy. 
+We explain below the main ways that we collect and process information about you.
 
-We update this Privacy Policy from time to time. If we make any material changes in the ways we may collect, use, or share information, we will notify you by posting notice of the changes on the Site. We encourage you to periodically review our Privacy Policy to become and remain familiar with it. The Privacy Policy includes at the top of the first page the date of the most recent change. 
+**Information You Provide To Us** **:**
 
-This Privacy Policy addresses the following issues: 
+Your use of the Services may require registration, in which case we will ask you to provide certain personal information, including an email address, username, and password.  You may also decide to provide us with some optional demographic information to enhance your profile, such as your country of residence, home address, education, interests, and communications preferences.
 
-What types of information do we collect?
+You may also provide personal information to us, if you choose to:
 
-How may we use the information we collect?
-
-How are cookies used on the Site?
-
-What information may we share with third parties?
-
-What happens when you leave the Site to go to other Internet sites?
-
-What is our policy regarding personally identifiable information from children under 13?
-
-Do we take security precautions to protect your information?
-
-Are there special considerations if you are visiting the Site from outside of the United States?
-
-Whom can you ask if you have privacy-related questions?
-
-### What types of information do we collect?
-
-Each time you visit the Site, we collect the limited information that your browser makes available whenever you visit any website. This information includes: (a) your Internet Protocol (IP) address; (b) the address of the last URL you visited before clicking through to the Site; (c) your browser and platform type (e.g., a Netscape browser on a Macintosh platform); (d) your browser language; and (e) the data in any undeleted "cookies" that your browser previously accepted from us (see "How are cookies used on the Site?" below). Additionally, when you enter a search query using the Site or Services, we will receive the query text and process it, together with the above data, to return a search results page to you. If you have modified your browser settings so that address-bar search queries and erroneous domain name system (DNS) requests are submitted to us, we may also receive any search query or misspelled URL that you enter into your browser's address bar. 
-
-Beginning with search queries received on or before July 1, 2009, we disassociate your query text data from your IP address and your unique cookie ID (see "How are cookies used on the Sites?" below) after a period of 18 months, except in limited circumstances, such as requests to retain the information by law enforcement.
-
-The Site and Services usually do not require registration or submission of an account name or email address in order to use them. However, you would provide to us your email address if you submitted a help request to us via email. The amount of information that you choose to disclose to us is completely up to you.
-
-### How may we use the information we collect?
-
-We use the information that we collect to improve the overall quality of your experience with the Site and Services, and to facilitate evaluation, improvement, and development of the Services. We aggregate query information for internal reporting purposes and optimization of advertising revenue. We count, track, and aggregate our visitors' activities in our analysis of general traffic flows at the Site (e.g., tracking where users come from, what pages they select within the Site, how they interact with search results, etc.). 
-
-Information about the search queries you submit to the Sites and how you interact with search results may also be used to personalize the content and advertisements that we present to you. We may, based on the search queries you submit and the search results you select (including paid search results), draw inferences about your interests and display advertisements matched to such interests. You may receive such customized ads on the Site and on third-party sites (see also "What information do we share with third parties?" below). If you would like to terminate our access to your search history you may remove our cookies from your computer (see "How are cookies used on the Sites?" below and consult your browser's "help" menu to learn how to delete cookies).
-
-If you choose to submit your name, email address, or other information, we may use such information to contact you to respond to a request from you, or in connection with legal proceedings, or if there has been a violation of our Terms of Service or this Privacy Policy. We do not associate your search queries or selected search results in any manner with your name, email address, or other information, unless required to do so by legal process.
-
-### How are cookies used on the Sites?
-
-Our use of cookies on the Sites. We use cookies and other technology such pixel tags to track traffic flow and patterns of travel within and among the Site. Cookies are a standard Internet technology that allows us to store and retrieve information on a user's system. Our web server automatically asks a new user's browser whether it will accept our cookie file. If the user's browser accepts our cookie, our web server will record the cookie's unique ID for our use in internal reporting and for customized advertising (see "How do we use the information that we collect?" above). All of your search queries and interactions with search results on the Sites are associated with your unique cookie ID. When you use the Site we may use your cookie data to customize the Services and advertisements delivered to you (see "What information do we share with third parties?" below). 
-
-Our cookies expire after two years, and all information from expired cookies is automatically deleted from our servers. If you would like to remove our cookies from your computer, you can delete them using your browser (consult your browser's "help" menu to learn how to delete cookies). If you choose to decline or remove cookies, please note that this may affect the quality of the Services.
-
-We do not use cookies to track your use of the Internet in any other way, or associate your name, email address, or personal information with your cookie data. We do not disclose cookie information to third parties, except as otherwise described in this Privacy Policy (see "What information do we share with third parties?" below). 
-
-  
+  * sign up to receive our “Question of the Day” or any similar service or request to receive certain other communications from us;
+  * submit a help request, a customer services inquiry or other inquiry to us, or fill in any other forms for the purposes of receiving our Services;
+  * participate in some of the features accessible via the Services (for example, message boards, chat groups, social networking, games, surveys, polls, promotions, contests, or sweepstakes);
+  * contact us about employment opportunities posted to the Services; or
+  * otherwise use the Services in a manner that you have requested.
 
 
-_Use of cookies on our Site by third parties_. We use third-party companies to serve advertisements when you visit the Site. These companies may use information about your visits to the Site in order to present advertisements about goods and services that may be of interest to you. In the course of serving advertisements on the Site, these companies may place or recognize a unique cookie on your computer or use other technologies such as pixel tags in connection with the Sites. Our Privacy Policy does not cover any use of information that a third-party ad-serving company might collect from you. These companies have their own recordkeeping and data-retention policies. If you would like to consider your options for limiting use of such information by advertising companies, or would like to learn more about this practice, please click here: <http://www.networkadvertising.org/>. We also use third party vendors to help us better understand our user demographics. These vendors may place or recognize a unique cookie on your computer or use other technologies such as pixel tags in connection with the Site to provide their services to us. 
 
-### What information may we share with third parties?
+Depending on which of these or any other Services you use, the personal information you provide may include your name, email address, user name, home address, telephone number, information posted by you on sites accessed via the Services.   Also, if you choose to login to a product or feature accessed through a Search Application via a social networking site, you are granting us permission to access and use information about you provided by the social network.  For example, if you use a social network feature to login to a product accessed through a Search Application, per such social network’s policies, they may provide us access to you and your friends names, pictures, genders, user Ids, connections and any content shared using an “Everyone” or similar privacy setting. Please be aware, that by posting information to message boards, chat groups or social networking facilities available via the Services, you will be making this information available to other users of these Services to the public.  You should be careful about revealing any sensitive details about yourself.  **__**
 
-We do not share your name name, or email address or any other personal information with third parties for the purpose of enabling them to send you information about their products or services (or for any other purpose, except to respond to legal process as described below). 
+**Information We Collect When You Use The Services** **:**
 
-  
+When you use the Services, we automatically collect and store certain information about your computer or device and your activities, including:
+
+(1)       IP address of your computer
+
+(2)        Unique mobile device identifier
+
+(3)        Technical information about your computer or mobile device such as type of device, mobile device ID number, web browser (Internet Explorer 8, etc.), other browser information (e.g. size, connection speed and connection type), and operating system or platform (Mac, Windows XP, etc.)
+
+(4)        Your preferences and settings (time zone, language, etc.)
+
+(5)        Internet provider or mobile carrier name
+
+(6)        The URL of the last webpage you visited before visiting the Website
+
+(7)        Information about your activity on the Services (e.g., your search queries, mis-formatted DNS entries, search results selected, clicks, pages viewed, search history, comments);
+
+(8)    If you are using a mobile device, your mobile device’s geographic location (specific geographic location if you’ve enabled collection of that information, or general geographic location automatically).  Please see the section “Mobile Device Location Information” below for further information.
+
+(9)    If you installed a Search Application, we may also collect information about that Search Application (e.g. the specific release date and distribution source of your Search Application, a unique Search Application ID, Search Application partner ID, the ads you click on, and information contained in error log files or cookies, aggregate query or click data and erroneous domain name system requests).
+
+**2.          How do we use the information we collect?**
+
+We use the information we collect from and about you for a variety of purposes, including to:
+
+  * verify your eligibility for our Services;
+  * respond to your queries with the best possible answers and search results;
+  * understand our users (their demographics, what they do on our Services, what features they like, how they use them etc.) and improve our Services, such as by personalizing content to your interests and process and complete your transactions;
+  * administer our Services, diagnose technical problems and otherwise manage our business;
+  * distinguish your Search Application for purposes of compensating third parties who distributed the Search Application on our behalf and to analyze retention and usage per distribution partner or channel;
+  * send you communications that you have requested or that may be of interest to you in accordance with your preferences.  Please see the section “Reviewing, changing or deleting information” for further information about how you can control these communications;
+  * send you questions from other users that you may be able to answer if you have registered with our Services;
+  * deliver prizes in connection with contests and sweepstakes or otherwise facilitate the use of our Services;
+  * provide you with customer support;
+  * enable us to show you ads that are more relevant to you; and
+  * perform functions as otherwise described at the time of collection.
 
 
-_Third-party service providers_. Some elements or features of the Sites, such as the sponsored results advertising on our search-results pages, are supplied to us by third parties under contract. We may supply some of the information we collect from you to those third parties so that they can provide those elements or features for display on the Site. We may share the following information with third parties: (a) your Internet Protocol (IP) address; (b) the address of the last URL you visited before clicking through to the Site; (c) your browser and platform type (e.g., a Netscape browser on a Macintosh platform); (d) your browser language; (e) the data in any undeleted cookies that your browser previously accepted from us; and (f) the search queries you submit. For example, when you submit a query, we transmit it (and some of the related information described above) to our paid-listing providers in order to generate relevant advertising to display in response to your query and to optimize the number and quality of sponsored results that will be provided to you on the Site. We may merge information about you into group data, which may then be shared on an aggregated basis with our advertisers. If you provide us with answers to voluntary survey questions, we may furnish this information to our advertisers and partners in the form of group statistics compiled from our users' answers to such questions.
 
-_Law enforcement/legal requirements_. We may disclose any information you voluntarily submit to us, as well as any other information we have about you (such as your IP address, the search queries you have submitted, and the search results you have selected) in order to comply with court orders, subpoenas, or regulatory obligations, or when otherwise required to do so by law. We also may disclose such information in compliance with a law-enforcement or other governmental request, or where we believe disclosure is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, or violations of our [Terms of Service](https://web.archive.org/en/docs/about/terms_of_service.shtml).
+We may also generate, use and disclose aggregated and/or anonymized information and statistics about your use of the Services to third parties for marketing, analytical and strategic purposes. However, no user of our Services will be individually identifiable from the aggregated and/or anonymized information and statistics.
 
-_Corporate restructuringi_. We also may transfer your information to a third party if we or any of our affiliates are involved in a corporate restructuring (e.g., a sale, merger, or other transfer of assets).
+**3.          How do we share the information we collect?**
 
-### What happens when you leave the Site to go to other Internet sites?
+We will not share the personal information we collect about you with any third party for their own marketing purposes without your consent.  We will share your information in the following ways:
 
-We do not control the information collection and dissemination policies of third-party companies. When you are on the Site, you may be directed to other site that are beyond our control. For example, if you click on a search result, the click may take you to a third-party website. These other site may independently collect data from or about you, solicit information from you, or place their own cookies on your computer. We are not responsible for any use of the information such third-party site may collect. 
+  * **_Our suppliers, subcontractors and business partners (“service providers”):_** We may share your data with our services providers who process your personal information to provide services to us or on our behalf.  We have contracts with our service providers that prohibit them from sharing the information about you that they collect or that we provide to them with anyone else, or using it for other purposes.
+  * **_Companies within the IAC Group of Companies:_** __ We may share your information with our affiliates, which are entities under common ownership or control of our ultimate parent company, IAC Corp.  _ _
+  * **_Our Search Application partners:_** __ If you have installed a Search Application, our Search Application partners may collect / receive information about you including the queries you submit via the Services, the Search Application functionality and / or website, the version of your Search Application or your browser settings, the search results and ads you click on, and the address of the web pages you previously visited. **  **
+  * **_Fraud prevention:_** We may disclose the personal information we collect about our users when we believe disclosure is necessary to investigate, prevent, or respond to suspected illegal or fraudulent activity or to protect the safety, rights, or property of us, our users, or others.
+  * **_Law enforcement purposes:_** If requested or required by government authorities, such as law enforcement authorities, courts, or regulators, or otherwise to comply with the law, we may disclose any information we have about our users. We also may disclose information collected about you in order to exercise or protect legal rights or defend against legal claims.
+  * **_Sale or merger of our business:_** __ We may transfer your personal information to a third party if we or any of our affiliates are involved in a corporate restructuring (e.g., a sale, merger, or other transfer of assets).
+  * **_Advertisers and advertising networks:_**  Advertisers and advertising networks place ads (including sponsored links in search results) on our site and in our mobile applications. These companies may collect information, such as your computer’s IP address, browser information, mobile device ID, and search queries, as you use our Website and Services.  They also may use cookies and other technologies to collect this information when you visit our site as described below.
 
-### What is our policy regarding personally identifiable information from children under 13?
 
-In accordance with the Federal Children's Online Privacy Protection Act of 1998 ("COPPA"), we do not knowingly collect personally identifiable information from anyone under the age of 13. Registration on the Site and for the Services is not available to anyone under the age of 13. 
 
-### Do we take security precautions to protect your information?
+**4.          Cookies and Online Advertising:**
 
-We have security measures in place that are designed to safeguard and help prevent unauthorized access to information we collect online. We also seek to limit access to our users’ information to employees who we believe reasonably need access to that information to provide products or services to you or in order to perform their jobs. These employees have been informed of the need to maintain the security and confidentiality of such information. Unfortunately, no security system can be 100% secure; accordingly, we cannot guarantee the security of the information that we collect online.
+**Cookies.**   We use cookies, pixel tags, web beacons and other such similar technologies to collect and store the information we automatically collect about your computer, device and Service usage. A cookie is a small text file that is stored on your computer and a pixel tag (also called a web beacon or clear GIF) is a tiny graphic with a unique identifier, embedded invisibly on a webpage (or an online ad or email). We use the term “cookies” in this policy to refer to cookies and all such similar technologies.
 
-### Are there special considerations if you are visiting the Site from outside of the United States?
+There are two broad categories of cookies: (1) first party cookies, served directly by us to your computer or mobile device, and (2) third party cookies, which are served by a third party on our behalf.  Cookies have a lot of jobs.  For example, our cookies enable us to recognize you (e.g. as a registered user) when you visit our website and to store your preferences and settings.  We use third party cookies for functionality, performance / analytics, advertising and social media purposes.  Cookies from advertising companies, for example, help to ensure that the advertisements you see online are more relevant to you and your interests.  To understand more about cookies and pixel tags, click [here.](http://www.allaboutcookies.org/)
 
-If you are visiting the Site from outside of the United States, your information will be transferred to, stored, and processed in the United States, where our servers are located and our central database is operated. The data-protection and other laws in the United States and other countries might not be as comprehensive as those in your own country. Please be assured, however, that we seek to take reasonable steps to protect your privacy. By using our services, you consent to the transfer of your information to our facilities and those third parties with whom we may share it as described in this Privacy Policy.
+**How To Control Or Delete Cookies** **:  
+_____________________________________________________________________________  
+****NOTICE REGARDING ASK ERASER**
 
-### Whom can you ask if you have privacy-related questions?
+Please note that Ask will discontinue its AskEraser feature on January 15, 2014.  AskEraser is a privacy feature from Ask that when enabled, deletes your search activity from Ask’s servers in most circumstances.  However, even without Ask Eraser, you can use your browser’s support or help settings to disable Ask cookies from collecting this information in the first place. Detailed information about how to disable Ask.com cookies can be found below.
 
-Questions regarding this Privacy Policy should be directed [here](https://web.archive.org/en/docs/about/index.shtml). 
+**_____________________________________________________________________________**
+
+Most browsers allow you to change your cookie settings. Users can usually set their browsers to block all third-party cookies (which are those set by third-party companies collecting information on websites operated by other companies), block all cookies (including first-party cookies such as the ones Ask uses to collect search activity information about its users), or block specific cookies.  These settings will typically be found in the “options” or “preferences” menu of your browser. In order to understand these settings, the following links may be helpful, otherwise you should use the “Help” option in your browser for more details.
+
+  * [Cookie settings in Internet Explorer](http://support.microsoft.com/kb/196955)
+  * [Cookie settings in Firefox](http://support.mozilla.com/en-US/kb/Cookies)
+  * [Cookie settings in Chrome](http://www.google.com/support/chrome/bin/answer.py?hl=en&answer=95647)
+  * [Cookie settings in Safari web](http://support.apple.com/kb/PH5042) and [iOS](http://support.apple.com/kb/HT1677).
+
+
+
+Please note that if you choose to block cookies, this may interfere with certain functionality on our website.  Also, if you have disabled one or more cookies, we may still use information collected from cookies prior to your disabled preference being set; however, we will stop using the disabled cookie to collect any further information.
+
+Third parties whose products or services are accessible or advertised through the Services, including social networking services, may also use cookies or similar tools, and we advise you to check their privacy policies for information about their cookies and other practices.  We do not control the practices of such partners and their privacy policies govern their interactions with you.  We encourage you to read their privacy policies.
+
+**Online Behavioral Advertising and Mobile.**   Advertisers and advertising networks place ads (including sponsored links in search results) on our website and in our mobile applications. These companies, as well as data analytics companies who service them, may use cookies, pixel tags, mobile device IDs and other similar technologies to collect data about you when you visit our site.  They use the data to enable them to track your activity across various sites where they display ads and record your activities, so they can show ads that they consider relevant to you.  You may opt-out of receiving targeted online advertising from advertising networks that is delivered on Ask.com and other websites by visiting the following websites:
+
+  * Network Advertising Initiative (<http://www.networkadvertising.org/>)
+  * Digital Advertising Alliance (<http://www.aboutads.info/consumers>)
+
+
+
+Please bear in mind that there are many more companies listed on these sites than those that drop cookies on our website.
+
+If you are using an Ask mobile application, we use your unique mobile device ID number to recognize you when you use the application and to store your preferences and settings. Advertising companies may also use and store your mobile device ID to show ads that they consider relevant to you in various mobile services that you use.
+
+If you are using an iOS device and you do not want to receive tailored in-application ads that relate to your interests, you may opt-out by accessing the following link on your device:  [http://oo.apple.com](http://oo.apple.com/).  If you are using an iOS6 device, you also may limit the delivery of tailored ads by: Open Settings and tap “General” then tap “About”; Scroll to the bottom of About and tap “Advertising”; Flip “Limit Ad Tracking” to ON.  If you are using an Android device and you do not wish to receive tailored in-application ads, you can visit Google’s [Ads Preferences](http://www.google.com/ads/preferences/) page from a browser on your device and make your choices there.  We do not control how the applicable platform operator allows you to control receiving tailored in-application ads; thus, you should contact the platform provider if the above options are no longer available.
+
+**Mobile Device Location Information.**   When you use one of our location-enabled services (for example, when you access Services from a mobile device), we may need to collect and process information about your actual GPS location (including the latitude, longitude or altitude of your mobile device) and the time the location information was recorded.  Some of these services require your personal data for the feature to work and we may associate location data with your device ID and other information we hold about you.  We keep this data for no longer than is reasonably necessary for providing our services.  If you wish to use the particular feature, you will be asked to consent to your data being used for this purpose. You can withdraw your consent at any time by disabling the relevant feature.  If you do not want your location information collected when you use the Services from a mobile device, please follow these instructions:
+
+  * If you are using an Apple device, click on “General,” then “Reset,” then “Reset Location and Privacy.” This will turn off location functionality for all of your apps so that the next time you download or use an app, you will be asked again to provide your consent for us and others to access your location information.
+  * If you are using an Android device, visit device settings, click “Location,” and then click the boxes for the particular applications for which you would like to disable location services.
+  * If your device changes the above methods of disabling the collection of mobile device location, please contact your device manufacturer or platform provider to determine how to disable the collection of this information.
+
+
+
+**5.          Reviewing, changing or deleting information**
+
+If you would like to review, change or delete personal information we have collected from you, please contact the Ask Privacy Officer:
+
+Ask.com  
+Attn: Privacy Officer  
+555 12th Street, 11th Floor  
+Oakland, CA 94607
+
+If you would like to permanently delete your Ask.com account, please access the “Your Account” tab on the Settings page, and follow the instructions there.
+
+**Do Not Track.**   Do Not Track (“DNT”) is a privacy preference that users can set in certain web browsers. DNT is a way for users to inform websites and services that they do not want certain information about their webpage visits collected over time and across websites or online services.
+
+We are committed to providing you with meaningful choices about the information collected on our website for third party purposes, and that is why we provide the Network Advertising Initiative and the Digital Advertising Alliance opt-out links above. However, we do not recognize or respond to browser-initiated DNT signals, as the Internet industry is currently still working toward defining exactly what DNT means, what it means to comply with DNT, and a common approach to responding to DNT.
+
+**6.          How do we keep the information we collect secure? **
+
+We take the security of your personal information seriously and use appropriate technical and organizational measures to protect your personal information against unauthorized or unlawful processing and against accidental loss, destruction or damage.  We also limit access to personal information about you to employees who reasonably need access to it to provide products or services to you, or in order to do their jobs.  However, because no security system can be 100% effective, we cannot completely guarantee the security of any information we may have collected from or about you.
+
+**7.          How long do we keep the information we collect?**
+
+We retain the information we collect about and from you for as long as necessary to fulfill a business purpose or comply with a legal request.  We may also choose to anonymize certain of the information you provide to us so that it can no longer be attributed to you if we would like to retain it for longer periods of time.
+
+**8.          Children under 13**
+
+ ****The Services are not intended for users under the age of 13.   We do not knowingly collect any personal information from children under 13.  If we become aware that a person submitting information is under 13, we will attempt to delete the information as soon as possible.  You hereby represent that you are at least 13.
+
+**9.          Consent to Transfer of Information **
+
+If you are visiting the Services from outside the United States, your data will be transferred to and stored in our servers in the U.S.  By using the Services, you consent to our collection and use of your data as described in this Privacy Policy.
+
+**10.        U.S.-EU Safe Harbor Notice**
+
+The Ask.com Website and mobile applications are certified under the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from EU member countries and Switzerland.
+
+Ask.com has further committed to refer unresolved privacy complaints regarding the Website or mobile applications under the U.S.-EU and U.S.-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by us, please visit the BBB EU SAFE HARBOR web site at www.bbb.org/us/safe-harbor-complaints for more information and to file a complaint.
+
+To learn more about the Safe Harbor program, and to view Ask.com’s certification for the Website and mobile applications, please visit <http://www.export.gov/safeharbor/>.
