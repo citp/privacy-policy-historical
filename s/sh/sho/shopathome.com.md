@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the shopathome.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231225846id_/http%3A//www.shopathome.com/sahpages/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopathome.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630095901id_/http%3A//www.shopathome.com/sahpages/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - ShopAtHome.com
 
 ShopAtHome.com
 
-Last Updated: September 24, 2013
+Last Updated: February 11, 2014
 
 This Privacy Policy applies to our sites and apps. 
 
-This Policy describes how we treat personal information. This includes on the websites and apps where it is located. It also applies to our information collection and tracking practices for our toolbar browser app ("[Shopping Toolbar](http://www.shopathome.com/terms-and-conditions.aspx?#ShoppingToolbar)"). Any capitalized terms we don’t define in this policy are defined in our [Terms and Conditions](http://www.shopathome.com/terms-and-conditions.aspx). 
+This Policy describes how we treat personal information. This includes on the websites and apps where it is located. It also applies to our information collection and tracking practices for our Savings Browser App ("[Browser App](http://www.shopathome.com/terms-and-conditions.aspx?#4)"). Any capitalized terms we don’t define in this policy are defined in our [Terms and Conditions](http://www.shopathome.com/terms-and-conditions.aspx). 
 
 ### We collect information from and about you.
 
@@ -22,25 +22,29 @@ Purchases You Make with Others. If you participate in our programs, we get infor
 
 Demographic Information. We may collect information like your gender and age. We may also collect your zip code. We might collect this when you contact us or enter a promotion.
 
-Other Information. If you use our sites, we may collect information about the browser you’re using. We might look at what site you came from, or what site you visit when you leave us. If you use the toolbar, we may also collect information about your search history. We may also look at clickstream data. We may combine this information with other information we collect from you. This includes anything we collect from third parties. If you use our mobile app or mobile website, we may collect your GPS location and your unique device identifier. We might look at how often you use the app, where you use it, and where you downloaded it.
+Other Information. If you use our sites, we may collect information about the browser you’re using. We might look at what site you came from, or what site you visit when you leave us. If you use the Browser App, we may also collect information about your search history. We may also look at clickstream data. We may combine this information with other information we collect from you. This includes anything we collect from third parties. If you use our mobile app or mobile website, we may collect your GPS location and your unique device identifier. We might look at how often you use the app, where you use it, and where you downloaded it.
 
 ### We collect information in different ways.
 
-We collect information directly from you. For example, if you sign up for our emails or when you use our Shopping Toolbar, we collect information. We also collect information if you contact us. We collect information about you through our websites, mobile apps and our Shopping Toolbar.
+We collect information directly from you. For example, if you sign up for our emails or when you use our Browser App, we collect information. We also collect information if you contact us. We collect information about you through our websites, mobile apps and our Browser App. Please note that if you wish to stop all tracking by the Browser App, you must uninstall it. If you only disable the Browser App, it will continue to track your activity.
 
-We collect information from you passively. On our platforms, which include our sites and toolbars, we collect information passively. We might also collect information passively in our emails or through our apps. We may also collect information passively in connection with third parties. For example, to get purchase information from Affiliates we may gather information passively on their platforms. Tools we use include browser cookies and web beacons. Learn more about what we collect and how you can control it [here](http://www.shopathome.com/ad-tracking-policy).
+We collect information from you passively. On our platforms, which include our sites, browser app and mobile apps, we collect information passively. We might also collect information passively in our emails or through our apps. We may also collect information passively in connection with third parties. For example, to get purchase information from Affiliates we may gather information passively on their platforms. Tools we use include browser cookies and web beacons. Learn more about what we collect and how you can control it [here](http://www.shopathome.com/ad-tracking-policy).
 
 We get information about you from third parties. For example, social media platforms may also give us information about you. This might include getting information from social media plugins. Affiliates or other business partners may also give us information. This might include information they gathered passively.
+
+Notwithstanding any other provision, we may also engage a data provider who may collect web log data from you (including IP address and information about your browser or operating system), or place or recognize a unique cookie on your browser to enable you to receive customized ads or content. These cookies contain no personally identifiable information. The cookies may reflect de-identified demographic or other data linked to data you voluntarily have submitted to us, e.g., your email address, that we may share with a data provider solely in hashed, non-human readable form. To opt-out of these data provider cookies, please go to <http://www.aboutads.info/choices>
 
 ### We use information as disclosed and described here.
 
 We use information to respond to your requests or questions. For example, we might use your information to respond to your customer feedback. Or, we might use your information to process Cash Back Rewards if you participate in that program. We may use your information to notify you if you complete a [Qualified Transaction](http://www.shopathome.com/terms-and-conditions.aspx?#Qualified).
 
-We use information to improve our products and services. We may use your information to make our Sites and Shopping Toolbar better. We might use your information to customize your experience with us or understand your preferences. We may combine information we get from you with information about you we get from third parties. This includes using your information as described [here](http://www.shopathome.com/ad-tracking-policy).
+We use information to improve our products and services. We may use your information to make our Sites and Browser App better. We might use your information to customize your experience with us or understand your preferences. We may combine information we get from you with information about you we get from third parties. This includes using your information as described [here](http://www.shopathome.com/ad-tracking-policy).
 
 We use information for security purposes. We may use information to protect our company, our customers, and our websites.
 
 We use information for marketing purposes. For example, when you register with our sites we might send you information about special offers. We might tell you about new features or updates. These might be third party offers or products we think you might find interesting. If you register with us, we’ll enroll you to receive our emails. We may send this information by email or text. We may also send through push notifications in apps or notifications by regular mail. To manage this, read the choices section below. We also use information to customize offers you receive. This includes using your shopping history on Affiliates or other third-party platforms. To learn more about what we do and your choices, click here.
+
+If you use our Browser App, we may use features on the Browser App alert you to special offers from merchants whose sites you are browsing or we think you may be interested in. The frequency of these alerts will depend on how actively you shop.
 
 We use information to communicate with you about your account or our relationship. We may contact you about your account or feedback. We might also contact you about this Policy or our website Terms.
 
@@ -64,7 +68,7 @@ We may share information for other reasons we may describe to you.
 
 You can opt out of receiving our marketing emails. To stop receiving our promotional emails, log into your Account and update your "Account Preferences." You can also follow the instructions in any promotional message you get from us. Even if you opt out of getting marketing messages, we will still send you transactional messages. These include responses to your questions. If you receive promotional emails from a third party, you will need to separately opt-out with them.
 
-You can control cookies and tracking tools. To learn how to manage how we – and our vendors – use cookies and other tracking tools, please [click here](http://www.shopathome.com/ad-tracking-policy). If you disable cookies, we may not be able to offer Cash Back to you. If you no longer want the Shopping Toolbar to track you as described in this Policy, you can uninstall it. Follow the directions [here](http://www.shopathome.com/toolbar-info#uninstall) to uninstall the Shopping Toolbar.
+You can control cookies and tracking tools. To learn how to manage how we – and our vendors – use cookies and other tracking tools, please [click here](http://www.shopathome.com/ad-tracking-policy). If you disable cookies, we may not be able to offer Cash Back to you. If you no longer want the Browser App to track you as described in this Policy, you can uninstall it. Follow the directions [here](http://www.shopathome.com/toolbar-info#uninstall) to uninstall the Browser App.
 
 You can control tools on your mobile devices.  For example, you can turn off the GPS locator or push notifications on your phone. You can also control these settings in our apps.
 
@@ -74,7 +78,7 @@ If you reside in California, you have the right to ask us one time each year if 
 
 ### These Sites and children.
 
-Our sites, apps and Shopping Toolbar are meant for adults. We do not knowingly collect personally identifiable information from children under 13 without permission from a parent or guardian. If you are a parent or legal guardian and think your child under 13 has given us information, you can [email](mailto:privacy@shopathome.com) us . You can also write to us at the address listed at the end of this policy. Please mark your inquiries “COPPA Information Request.” Parents, you can learn more about how to protect children's privacy on-line [here](http://www.business.ftc.gov/privacy-and-security/childrens-privacy).
+Our sites, apps and Browser App are meant for people at least 18 years old. We do not knowingly collect personally identifiable information from children under 13 without permission from a parent or guardian. If you are a parent or legal guardian and think your child under 13 has given us information, you can [email](mailto:privacy@shopathome.com) us. You can also write to us at the address listed at the end of this policy. Please mark your inquiries “COPPA Information Request.” Parents, you can learn more about how to protect children's privacy on-line [here](http://www.business.ftc.gov/privacy-and-security/childrens-privacy).
 
 ### We store information in the United States.
 
@@ -82,7 +86,7 @@ Information we maintain is stored within the United States. If you live outside 
 
 ### We use standard security measures.
 
-The Internet is not 100% secure. We cannot promise that your use of our sites will be completely safe. We encourage you to use caution when using the Internet. This includes not sharing your passwords.
+We use reasonable measures to protect the information you share with us. This includes physical measures. It also includes technical and administrative measures. We use firewall encryption where appropriate. We may also use Secure Socket Layer encryption. Please remember that no data security measures are 100% secure all of the time.
 
 We keep personal information as long as it is necessary or relevant for the practices described in this Policy. We also keep information as otherwise required by law.
 
@@ -102,8 +106,9 @@ ShopAtHome.com
 Attn: Privacy  
 5575 DTC Parkway, Suite 300  
 Greenwood Village, CO 80111  
-Email: privacy@shopathome.com 
+Email: privacy@shopathome.com  
+Or via our Customer Service link at <http://www.shopathome.com/contact.aspx>
 
 ### We may update this Policy.
 
-From time to time we may change our privacy policies. We will notify you of any material changes to our Policy as required by law. We will also post an updated copy on our website. Please check our site periodically for updates.
+From time to time we may change our privacy policies. We will notify you of any material changes to our Policy as required by law, but in any event of material change, we will send an e-mail notifying you of the material change. We will also post an updated copy on our website. Please check our site periodically for updates.
