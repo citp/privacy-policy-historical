@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gilderlehrman.org privacy policy that was archived on 2013-10-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131020230107id_/https%3A//www.gilderlehrman.org/about/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gilderlehrman.org privacy policy that was archived on 2014-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140630070711id_/http%3A//www.gilderlehrman.org/about/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="no-js useUnivers"><!--<![endif]--><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -14,20 +14,20 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 	
 	<link href="http://fast.fonts.com/cssapi/c73b8ee5-f4dc-4641-8c74-f64ce65d643c.css" rel="stylesheet" type="text/css">
-    <link rel="stylesheet" media="all" href="http://www.gilderlehrman.org/sites/default/files/css/css_88e41b31acf4ce5c96c7563b60ffda9e.css">
-<link rel="stylesheet" media="print" href="http://www.gilderlehrman.org/sites/default/files/css/css_6da060758d8c200fd24a7ad53fcefb1f.css">
+    <link rel="stylesheet" media="all" href="https://www.gilderlehrman.org/sites/default/files/css/css_8b02af640092afbc4c888a737a1fb8b7.css">
+<link rel="stylesheet" media="print" href="https://www.gilderlehrman.org/sites/default/files/css/css_fce93db206e98b97851b7ad24eca3023.css">
 <!--[if IE]>
-<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/gli/css/ie.css?w" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/gli/css/ie.css?0" />
 <![endif]-->
 <!--[if lt IE 7]>
-<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/gli/css/ie6.css?w" />
-<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/gli/_css/ie6.css?w" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/gli/css/ie6.css?0" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/gli/_css/ie6.css?0" />
 <![endif]-->
 <!--[if IE 7]>
-<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/gli/_css/ie7.css?w" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/gli/_css/ie7.css?0" />
 <![endif]-->
 <!--[if IE 8]>
-<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/gli/_css/ie8.css?w" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/gli/_css/ie8.css?0" />
 <![endif]-->
     	
 	<style type="text/css">
@@ -38,15 +38,75 @@
     	
 
 	<script async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=nightkitchen"></script>
-<script type="text/javascript" src="http://www.gilderlehrman.org/sites/default/files/js/js_0db2921f4d4e596210343d992fef863d.jsmin.js"></script>
+<script type="text/javascript" src="https://www.gilderlehrman.org/sites/default/files/js/js_af816a242e48c9ebc2b6ea00614401be.jsmin.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
 jQuery.extend(Drupal.settings, {"basePath":"\/","gli_mweb":{"mxs_base":"http:\/\/collection.gilderlehrman.org\/mwebcgi\/mwebxml.exe","image_base":"http:\/\/gilderlehrman.pastperfect-online.com\/33267images\/"},"nkbase":{"base_url":"http:\/\/www.gilderlehrman.org"},"nkbase_header_image":{"include_playpause":1,"timeout":10},"gli_theme":{"path_to_theme":"\/sites\/all\/themes\/gli"}});
 //--><!]]>
 </script>
-	<script type="text/javascript" src="/sites/all/themes/gli/_js/skinnytip.js">
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery(function() { Authcache.init(); });
+//--><!]]>
+</script>
+	<script type="text/javascript" src="/sites/all/themes/gli/_js/skinnytip.js"></script>
 
-	</script>
+
+<!-- Adding this for the stayInformed side tasssb -->
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.8.24/jquery-ui.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js"></script>
+
+<script type="text/javascript">
+
+$(document).ready(function(){
+  $('#stay_informed_flag').click(function(){
+
+			//alert( $(this).parent('div').css('width') );
+			if ($(this).parent('div').css('width')=='132px') {
+
+				//$('#stay_informed_flag .toggle_arrow').css('background','url(/sites/all/themes/gli/_images/stayInformedWhiteArrow-right.png)');
+
+				$(this).parent('div').animate({
+					width: '621'
+			  	},1000, 'easeOutCirc', function() {
+				// Animation complete.
+			  	});
+
+			} else if ($(this).parent('div').css('width')=='621px') {
+
+				//$('#stay_informed_flag .toggle_arrow').css('background','url(/sites/all/themes/gli/_images/stayInformedWhiteArrow.png)');
+
+				$(this).parent('div').animate({
+					width: '132px'
+			  	},1000, 'easeOutCirc', function() {
+				// Animation complete.
+			  	});
+			}
+
+			if ($(this).parent('div').css('width')=='48px') {
+
+				//$('#stay_informed_flag .toggle_arrow').css('background','url(/sites/all/themes/gli/_images/stayInformedWhiteArrow-right.png)');
+
+				$(this).parent('div').animate({
+					width: '400'
+			  	},1000, 'easeOutCirc', function() {
+				// Animation complete.
+			  	});
+
+			} else if ($(this).parent('div').css('width')=='400px') {
+
+				//$('#stay_informed_flag .toggle_arrow').css('background','url(/sites/all/themes/gli/_images/stayInformedWhiteArrow.png)');
+
+				$(this).parent('div').animate({
+					width: '48px'
+			  	},1000, 'easeOutCirc', function() {
+				// Animation complete.
+			  	});
+			}
+			//return false;
+	});
+});
+</script>
 
 </head>
 
@@ -60,11 +120,10 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","gli_mweb":{"mxs_base":"http:\/\
 	
 			<div id="top-bar" class="clearfix">
 				<nav id="secondary" class="horizontal">
-				<ul id="secondary-menu" class="clearfix"><li class="menu-1884 first programs-exhibitions"><a href="/programs-exhibitions/affiliate-school-program">Affiliate School Program</a></li>
-<li class="menu-1885 programs-exhibitions"><a href="/programs-exhibitions/for-educators">Educators</a></li>
+				<ul id="secondary-menu" class="clearfix"><li class="menu-1885 first programs-exhibitions"><a href="/programs-exhibitions/for-educators">Educators</a></li>
 <li class="menu-1886 programs-exhibitions"><a href="/programs-exhibitions/for-students">Students</a></li>
 <li class="menu-10150 about"><a href="/about/donate" title="Donate">Donate</a></li>
-<li class="menu-1888 last http:"><a href="http://www.gilderlehrmanstore.org/" title="">Shop</a></li>
+<li class="menu-1888 last https:"><a href="https://www.gilderlehrman.org/store">Shop</a></li>
 </ul>				</nav>
 				
 				<div id="login-status">
@@ -86,27 +145,26 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","gli_mweb":{"mxs_base":"http:\/\
 <div class="form-item" id="edit-which-search-gli-collection-search-wrapper">
  <label class="option" for="edit-which-search-gli-collection-search"><input type="radio" id="edit-which-search-gli-collection-search" name="which_search" value="gli_collection_search" class="form-radio"> Primary Sources</label>
 </div>
-</div><input type="hidden" name="form_build_id" id="form-82dc3f30e2f7f5e0b7702d4029bedffc" value="form-82dc3f30e2f7f5e0b7702d4029bedffc">
-<input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form">
+</div><input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form">
 </div>
 
 </div></form>
 </div>
 						
 			<nav id="primary" class="horizontal replace">
-			<ul id="main-menu" class="clearfix"><li class="menu-1425 first history-by-era"><a href="/history-by-era" title=""><span>History by Era</span></a></li>
+			<ul id="main-menu" class="clearfix"><li class="menu-1425 first history-by-era"><a href="/history-by-era"><span>History by Era</span></a></li>
 <li class="menu-8851 programs-exhibitions"><a href="/programs-exhibitions"><span>Programs &amp; Exhibitions</span></a></li>
 <li class="menu-1368 collections"><a href="/collections" title=""><span>Primary Sources</span></a></li>
-<li class="menu-22871 history-now"><a href="/history-now/2013-09/gettysburg-insights-and-perspectives"><span>History Now</span></a></li>
-<li class="menu-1362 community"><a href="/community" title=""><span>Online Community</span></a></li>
-<li class="menu-1369 multimedia"><a href="/multimedia" title=""><span>Multimedia</span></a></li>
+<li class="menu-22871 history-now"><a href="/history-now/2014-04/american-poets-american-history"><span>History Now</span></a></li>
+<li class="menu-1369 multimedia"><a href="/multimedia"><span>Videos</span></a></li>
+<li class="menu-1362 community"><a href="/community"><span>Online Community</span></a></li>
 <li class="menu-8407 last about active"><a href="/about"><span>About</span></a></li>
 </ul>			</nav>
 	
 		</div>
 	</header>
 
-
+	
     <div id="content-wrap">
     <section id="content" class="inner960 clearfix">
 			  
@@ -116,6 +174,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","gli_mweb":{"mxs_base":"http:\/\
         		
         		
                 		
+                <div class="tabs"><span id="authcache-tabs"></span></div>
         		
         
         
@@ -133,15 +192,16 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","gli_mweb":{"mxs_base":"http:\/\
   
   <div class="pane-content">
     <nav class="section-menu">
-<ul class="menu"><li class="expanded first last active-trail single-line"><a href="/about" title=""><span>About Us</span></a><ul class="menu"><li class="leaf first multi-line"><a href="/about/awards-and-honors" title="Awards and Honors"><span>Awards and Honors</span></a></li>
-<li class="leaf single-line"><a href="/about/history" title="History"><span>History</span></a></li>
-<li class="leaf multi-line"><a href="/about/annual-reports" title="Annual Reports"><span>Annual Reports</span></a></li>
-<li class="leaf multi-line"><a href="/about/board-trustees-and-officers" title="Board of Trustees and Advisors"><span>Board of Trustees and Officers</span></a></li>
-<li class="collapsed multi-line"><a href="/about/departments-and-staff" title="Staff"><span>Departments and Staff</span></a></li>
-<li class="collapsed single-line"><a href="/about/press-room" title="Press Room"><span>Press Room</span></a></li>
+<ul class="menu"><li class="expanded first last active-trail single-line"><a href="/about"><span>About Us</span></a><ul class="menu"><li class="leaf first single-line"><a href="/about/history" title="History"><span>History</span></a></li>
+<li class="collapsed multi-line"><a href="/about/board-trustees-and-officers" title="Board of Trustees and Advisors"><span>Board of Trustees and Officers</span></a></li>
+<li class="leaf multi-line"><a href="/about/awards-and-honors" title="Awards and Honors"><span>Awards and Honors</span></a></li>
+<li class="leaf multi-line"><a href="/about/highlights-from-2014-gilder-lehrman-gala" title="Highlights from the 2014 Gilder Lehrman Gala"><span>Gilder Lehrman Gala</span></a></li>
 <li class="leaf single-line"><a href="/about/partners" title="Partners"><span>Partners</span></a></li>
-<li class="leaf active-trail multi-line"><a href="/about/privacy-policy" title="Privacy Policy" class="active"><span>Privacy Policy</span></a></li>
-<li class="collapsed last single-line"><a href="/about/donate" title="Donate"><span>Donate</span></a></li>
+<li class="leaf multi-line"><a href="/about/annual-reports" title="Annual Reports"><span>Annual Reports</span></a></li>
+<li class="collapsed single-line"><a href="/about/donate" title="Donate"><span>Donate</span></a></li>
+<li class="collapsed single-line"><a href="/about/press-room" title="Press Room"><span>Press Room</span></a></li>
+<li class="collapsed multi-line"><a href="/about/departments-and-staff" title="Staff"><span>Departments and Staff</span></a></li>
+<li class="leaf last active-trail multi-line"><a href="/about/privacy-policy" title="Privacy Policy" class="active"><span>Privacy Policy</span></a></li>
 </ul></li>
 </ul>
 </nav>  </div>
@@ -161,10 +221,10 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","gli_mweb":{"mxs_base":"http:\/\
 <h3 class="title">Recently Viewed Pages</h3>
 <ol class="recently-viewed">
 <li><a href="/about/board-trustees-and-officers">Board of Trustees and Officers</a></li>
-<li><a href="/programs-exhibitions/created-equal-americas-civil-rights-struggle">Created Equal: America's Civil Rights Struggle</a></li>
+<li><a href="/about/press-room">Press Room</a></li>
 <li><a href="/multimedia">Multimedia</a></li>
-<li><a href="/history-by-era/new-nation-1783-1815">The New Nation, 1783-1815</a></li>
-<li><a href="/programs-exhibitions/calendar">Events Calendar</a></li>
+<li><a href="/about/history">History</a></li>
+<li><a href="/about/donate">Donate</a></li>
 </ol>
 </div>  </div>
 
@@ -180,7 +240,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","gli_mweb":{"mxs_base":"http:\/\
             <div class="inner clearfix">
 				<div id="tiplayer" style="position:absolute; visibility:hidden; z-index:10000;"></div><div id="sm-icons">
 <a href="/community/user/login?destination=about%2Fprivacy-policy%3Ffavorite%3Dtrue" class="replace sprite btn-favorite btn-favorite-login" onmouseover="return&nbsp;tooltip(Add&nbsp;to&nbsp;Favorites,'','width:,fontface:Georgia')" onmouseout="return hideTip();"><span>Log in to favorite pages</span></a>
-<a href="#" class="addthis_button_compact replace sprite share" addthis:url="http://www.gilderlehrman.org/about/privacy-policy" addthis:title="Privacy Policy" onmouseover="return tooltip('Share this Page','','width:105,fontface:Georgia');" onmouseout="return hideTip();"><span>Share page</span></a>
+<a href="#" class="addthis_button_compact replace sprite share" addthis:url="https://www.gilderlehrman.org/about/privacy-policy" addthis:title="Privacy Policy" onmouseover="return tooltip('Share this Page','','width:105,fontface:Georgia');" onmouseout="return hideTip();"><span>Share page</span></a>
 <a href="#" class="replace sprite print" onmouseover="return tooltip('Print this Page','','width:100,fontface:Georgia');" onmouseout="return hideTip();"><span>Print page</span></a>
 </div>
 <div style="clear:both;"></div>                <div class="panels_pane panel-pane pane-page-title">
@@ -257,7 +317,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","gli_mweb":{"mxs_base":"http:\/\
 <p><strong>Changes to our Privacy Policy</strong></p>
 <p>If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.</p>
 <p><strong>Contact Us</strong></p>
-<p>If there are any questions regarding this privacy policy, you may contact us using the information below.&nbsp;<br><br>The Gilder Lehrman Institute of American History<br>19 West 44th Street<br>New York, New York 10036<br>United States<br>Email: <a href="mailto:info@gilderlehrman.org">info@gilderlehrman.org</a><br>Phone: 646-366-9666</p>
+<p>If there are any questions regarding this privacy policy, you may contact us using the information below.&nbsp;<br><br>The Gilder Lehrman Institute of American History<br>19 West 44th Street<br>New York, New York 10036<br>United States<br>Email: info@gilderlehrman.org<br>Phone: 646-366-9666</p>
 	</div>
 
 	
@@ -300,7 +360,7 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","gli_mweb":{"mxs_base":"http:\/\
 				<span class="first">The Gilder Lehrman Institute of American History</span>
 				<span>49 W. 45th Street, 6th Floor · NYC, NY 10036</span>
 				<span>(646) 366-9666</span>
-								<span>© 2009–2013</span>
+								<span>© 2009–2014</span>
 				<span class="last">All Rights Reserved</span>
 			</div>
 			
@@ -321,14 +381,13 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","gli_mweb":{"mxs_base":"http:\/\
 </ul></div>
 <div class="mega-nav-col"><ul><li><a href="/programs-exhibitions" title="Programs &amp; Exhibitions"><span>Programs &amp; Exhibitions</span></a><ul><li><a href="/programs-exhibitions/affiliate-school-program" title="Affiliate School Program"><span>Affiliate School Program</span></a></li>
 <li><a href="/programs-exhibitions/teacher-seminars" title="Teacher Seminars"><span>Teacher Seminars</span></a></li>
-<li><a href="/programs-exhibitions/professional-development" title="Professional Development "><span>Professional Development</span></a></li>
-<li><a href="/programs-exhibitions/teaching-literacy-through-history" title="Teaching Literacy Through History "><span>Teaching Literacy Through History</span></a></li>
+<li><a href="/programs-exhibitions/teaching-literacy-through-history" title="Teaching Literacy through History "><span>Teaching Literacy through History</span></a></li>
 <li><a href="/programs-exhibitions/online-courses" title="Online Courses"><span>Online Courses</span></a></li>
 <li><a href="/programs-exhibitions/national-history-teacher-year" title="National History Teacher of the Year"><span>National History Teacher of the Year</span></a></li>
 <li><a href="/programs-exhibitions/saturday-academies" title="Saturday Academies"><span>Saturday Academies</span></a></li>
-<li><a href="/programs-exhibitions/history-scholar-award" title="Undergraduate History Scholars Program"><span>History Scholar Award</span></a></li>
+<li><a href="/programs-exhibitions/history-scholar-award" title="Undergraduate History Scholar Award"><span>History Scholar Award</span></a></li>
 <li><a href="/programs-exhibitions/fellowships" title="Fellowships"><span>Fellowships</span></a></li>
-<li><a href="/programs-exhibitions/internships" title="Internships"><span>Internships</span></a></li>
+<li><a href="/programs-exhibitions/internships-0" title="Internships"><span>Internships</span></a></li>
 <li><a href="/programs-exhibitions/traveling-exhibitions" title="Traveling Exhibitions"><span>Traveling Exhibitions</span></a></li>
 <li><a href="/programs-exhibitions/online-exhibitions" title="Online Exhibitions"><span>Online Exhibitions</span></a></li>
 <li><a href="/programs-exhibitions/created-equal-americas-civil-rights-struggle" title="Created Equal: America's Civil Rights Struggle"><span>Created Equal: America's Civil Rights Struggle</span></a></li>
@@ -337,37 +396,40 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","gli_mweb":{"mxs_base":"http:\/\
 <li><a href="/programs-exhibitions/national-book-prizes" title="National Book Prizes"><span>National Book Prizes</span></a></li>
 <li><a href="/programs-exhibitions/calendar"><span>Events Calendar</span></a></li>
 <li><a href="/programs-exhibitions/for-educators" title="For Educators"><span>For Educators</span></a></li>
-<li><a href="/programs-exhibitions/for-schools" title="For Schools"><span>For Schools</span></a></li>
 <li><a href="/programs-exhibitions/for-students" title="For Students"><span>For Students</span></a></li>
 <li><a href="/programs-exhibitions/for-historians" title="For Historians"><span>For Historians</span></a></li>
+<li><a href="/programs-exhibitions/new-website" title="New on the Website"><span>New on the Website</span></a></li>
 </ul></li>
 </ul></div>
-<div class="mega-nav-col"><ul><li><a href="/collections" title=""><span>Primary Sources</span></a><ul><li><a href="/collections" title=""><span>About the Collection</span></a></li>
-<li><a href="/collections/access-collection" title="Access to the Collection"><span>Access to the Collection</span></a></li>
+<div class="mega-nav-col"><ul><li><a href="/collections" title=""><span>Primary Sources</span></a><ul><li><a href="/collections/reference-guides" title="Reference Guides"><span>Reference Guides</span></a></li>
 <li><a href="/mweb/search" title="Search the Collection"><span>Search the Collection</span></a></li>
 <li><a href="/collections/rights-and-reproductions" title="Rights and Reproductions"><span>Rights and Reproductions</span></a></li>
-<li><a href="/collections/treasures-from-the-collection" title="The Collection Blog"><span>Treasures from the Collection</span></a></li>
+<li><a href="/collections/access-collection" title="Access to the Collection"><span>Access to the Collection</span></a></li>
+<li><a href="/collections/discoveries-from-the-vault" title="The Collection Blog"><span>Discoveries from the Vault</span></a></li>
+<li><a href="/programs-exhibitions/museum-exhibitions"><span>Museum Exhibitions</span></a></li>
+<li><a href="/collections/featured-primary-sources" title="Featured Primary Sources"><span>Featured Primary Sources</span></a></li>
 </ul></li>
 </ul></div>
-<div class="mega-nav-col"><ul><li><a href="/history-now/2012-01/revolutionary-age"><span>History Now</span></a><ul><li><a href="/history-now/2013-09/gettysburg-insights-and-perspectives"><span>Current Issue</span></a></li>
+<div class="mega-nav-col"><ul><li><a href="/history-now/2012-01/revolutionary-age"><span>History Now</span></a><ul><li><a href="/history-now/2014-01/joining-rails-transcontinental-railroad"><span>Current Issue</span></a></li>
 <li><a href="/history-now/past-issues" title="Past Issues"><span>Past Issues</span></a></li>
 </ul></li>
+</ul></div>
+<div class="mega-nav-col"><ul><li><a href="/multimedia" title=""><span>Multimedia</span></a></li>
 </ul></div>
 <div class="mega-nav-col"><ul><li><a href="/community" title=""><span>Online Community</span></a><ul><li><a href="/community/members" title=""><span>Community Members</span></a></li>
 <li><a href="/community/members/Anonymous"><span>My Favorited Resources</span></a></li>
 </ul></li>
 </ul></div>
-<div class="mega-nav-col"><ul><li><a href="/multimedia" title=""><span>Multimedia</span></a></li>
-</ul></div>
-<div class="mega-nav-col"><ul><li><a href="/about" title=""><span>About Us</span></a><ul><li><a href="/about/awards-and-honors" title="Awards and Honors"><span>Awards and Honors</span></a></li>
-<li><a href="/about/history" title="History"><span>History</span></a></li>
-<li><a href="/about/annual-reports" title="Annual Reports"><span>Annual Reports</span></a></li>
+<div class="mega-nav-col"><ul><li><a href="/about"><span>About Us</span></a><ul><li><a href="/about/history" title="History"><span>History</span></a></li>
 <li><a href="/about/board-trustees-and-officers" title="Board of Trustees and Advisors"><span>Board of Trustees and Officers</span></a></li>
-<li><a href="/about/departments-and-staff" title="Staff"><span>Departments and Staff</span></a></li>
-<li><a href="/about/press-room" title="Press Room"><span>Press Room</span></a></li>
+<li><a href="/about/awards-and-honors" title="Awards and Honors"><span>Awards and Honors</span></a></li>
+<li><a href="/about/highlights-from-2014-gilder-lehrman-gala" title="Highlights from the 2014 Gilder Lehrman Gala"><span>Gilder Lehrman Gala</span></a></li>
 <li><a href="/about/partners" title="Partners"><span>Partners</span></a></li>
-<li><a href="/about/privacy-policy" title="Privacy Policy"><span>Privacy Policy</span></a></li>
+<li><a href="/about/annual-reports" title="Annual Reports"><span>Annual Reports</span></a></li>
 <li><a href="/about/donate" title="Donate"><span>Donate</span></a></li>
+<li><a href="/about/press-room" title="Press Room"><span>Press Room</span></a></li>
+<li><a href="/about/departments-and-staff" title="Staff"><span>Departments and Staff</span></a></li>
+<li><a href="/about/privacy-policy" title="Privacy Policy"><span>Privacy Policy</span></a></li>
 </ul></li>
 </ul></div>			</div>
 						
@@ -377,7 +439,9 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","gli_mweb":{"mxs_base":"http:\/\
 						<span class="title">Stay Connected</span>
 						<a class="facebook replace first" rel="external" href="http://www.facebook.com/gilderlehrman"><span>Facebook</span></a>
 						                        <a class="vimeo replace" rel="external" href="http://vimeo.com/gilderlehrman"><span>Vimeo</span></a>
-						<a class="twitter replace last" rel="external" href="http://twitter.com/Gilder_Lehrman"><span>Twitter</span></a>
+						<a class="twitter replace" rel="external" href="http://twitter.com/Gilder_Lehrman"><span>Twitter</span></a>
+						<a class="pinterest replace" rel="external" href="http://www.pinterest.com/gilderlehrman/"><span>Pinterest</span></a>
+						<a class="youtube replace last" rel="external" href="http://youtube.com/gilderlehrman"><span>YouTube</span></a>
 					</div>
 					<nav id="footer-nav">
 						<ul class="menu"><li class="leaf first single-line"><a href="/" title=""><span>Home</span></a></li>
@@ -432,6 +496,11 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","gli_mweb":{"mxs_base":"http:\/\
 	
 </script>
 
+
+<!-- Authcache Footer JSON -->
+<script type="text/javascript">
+var authcacheFooter = {"info":{"page_render":1175.67,"page_queries":"901 queries @ 400.18 ms (34%)","cache_render":"-1","cache_uid":"0","cache_inc":"memcache.inc","cache_time":1404112032,"node_author":"srpereira"},"ajax":{"q":"node\/9072"}};
+</script>
 
 
 </body></html>
