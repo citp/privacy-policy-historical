@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the debtsteps.com privacy policy that was archived on 2013-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130816012031id_/http%3A//www.debtsteps.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the debtsteps.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630145848id_/http%3A//www.debtsteps.com/privacy.html) for the most accurate reproduction.*
 
 # DebtSteps.com Privacy Policy
 
@@ -14,11 +14,11 @@ Like most Web sites, DebtSteps.com also collects information automatically and t
 
 As we adopt additional technology, we may also gather information through other means. In certain cases, you can choose not to provide us with information, for example by setting your browser to refuse to accept cookies, but if you do, you may be unable to access certain portions of the site or may be asked to re-enter your user name and password, and we may not be able to customize the site's features according to your preferences.
 
-While on our site, our advertisers, promotional partners or other third parties may use cookies, web beacons or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies and web beacons that enable the advertiser to determine whether you have seen a particular advertisement before. Other features available on our site may offer services operated by third parties and may use cookies or other technology to gather information. DebtSteps.com does not control the use of this technology by third parties or the resulting information, and is not responsible for any actions or policies of such third parties.
+While on our site, our advertisers, promotional partners or other third parties may use cookies, web beacons or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies and web beacons that enable the advertiser to determine whether you have seen a particular advertisement before. Other features available on our site may offer services operated by third parties and may use cookies or other technology to gather information. DebtSteps.com does not control the use of this technology by third parties or the resulting information, and is not responsible for any actions or policies of such third parties.  If you would like to opt-out of the tracking done by third-parties, you can visit [aboutads.info](http://www.aboutads.info/) to do so.
 
 A web beacon is a transparent image file used to monitor your journey around a single website or collection of sites. They are also referred to as web bugs and are commonly used by sites that hire third-party services to monitor traffic. They may be used in association with cookies to understand how visitors interact with the pages and content on the pages of a web site.
 
-Some third-party advertisements may be provided by Google, which uses cookies to serve ads on this site. Google uses the DART cookie, which enables it to serve ads to our users based on their visits to this site and other sites on the Web. You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+Some third-party advertisements may be provided by Google, which uses cookies to serve ads on this site. Google uses the Doubleclick cookie, which enables it to serve ads to our users based on their visits to this site and other sites on the Web. You may opt out of the use of the Doubleclick cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
 ### What we do with the information we collect:
 
@@ -78,3 +78,6 @@ DebtSteps.com 
 28 Bud Hollow Drive
 
 Palm Coast, FL 32137
+
+  
+
