@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acninc.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230010132id_/http%3A//acninc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acninc.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630114549id_/http%3A//acninc.com/privacy-policy) for the most accurate reproduction.*
 
 # ACN Opportunity, LLC | Privacy Policy | ACN Opportunity, LLC | Privacy Policy
 
@@ -6,7 +6,7 @@
 
 ### Overview
 
-ACN Opportunity, LLC and ACN Communications Services, Inc. (collectively "ACN") are committed to protecting the privacy of our customer information. This document will provide information about ACN's policy relating to the collection, use and disclosure of personal information and of our customer's right to limit such collection, use or disclosure. All personal information relating to our customers is maintained in strict confidence by ACN and is not sold to third parties. For your protection, we utilize a Secure Socket Layer (SSL) on all pages that require you to complete personal information. 
+LKN Communications, Inc. (dba ACN, Inc.), ACN Opportunity, LLC and ACN Communications Services, Inc. (collectively "ACN") are committed to protecting the privacy of our customer information. This document will provide information about ACN's policy relating to the collection, use and disclosure of personal information and of our customer's right to limit such collection, use or disclosure. All personal information relating to our customers is maintained in strict confidence by ACN and is not sold to third parties. For your protection, we utilize a Secure Socket Layer (SSL) on all pages that require you to complete personal information. 
 
 Our privacy policies and procedures are subject to change.
 
@@ -74,7 +74,7 @@ Upon written request to ACN, ACN will provide EU and Swiss individuals with reas
 
 ### Enforcement
 
-ACN uses the self-assessment approach to maintain compliance with its Privacy Policy.  ACN periodically verifies that its policy is accurate, comprehensive for the information covered, displayed appropriately, implemented and in conformity with Safe Harbor Principles.  ACN also encourages individuals covered by this Statement to raise any concerns about our processing of their personal information by contacting the ACN Privacy Officer at the address below or the ACN Legal Department.  ACN will seek to resolve any concerns.  In the event a dispute arises that the parties cannot resolve, the parties may resolve it through arbitration with the American Arbitration Association program developed to assist in the compliance with Safe Harbor.  The arbitration shall be held in Concord, North Carolina before a panel of three arbitrators, each side choosing one and then the two choosing the third.  All claims hereunder must be brought within two years of the date of which the facts or circumstances giving rise to the claim are alleged to have happened.  Laws of the state of New York will apply to the resolution of the dispute unless otherwise agreed in writing.
+ACN uses the self-assessment approach to maintain compliance with its Privacy Policy. ACN periodically verifies that its policy is accurate, comprehensive for the information covered, displayed appropriately, implemented and in conformity with Safe Harbor Principles. ACN also encourages individuals covered by this Statement to raise any concerns about our processing of their personal information by contacting the ACN Privacy Officer at the address below or the ACN Legal Department. ACN will seek to resolve any concerns. In the event a dispute arises that the parties cannot resolve, the parties may resolve it through arbitration with the International Centre for Dispute Resolution, the international division of the American Arbitration Association program developed to assist in the compliance with Safe Harbor. The arbitration shall be held before a panel of three arbitrators, each side choosing one and then the two choosing the third. All claims hereunder must be brought within two years of the date of which the facts or circumstances giving rise to the claim are alleged to have happened. Laws of the state of New York will apply to the resolution of the dispute unless otherwise agreed in writing.
 
 ### Limitations
 
