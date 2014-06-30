@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edweek.org privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230030602id_/http%3A//www.edweek.org/info/about/privacy-policy.html%3Fintc%3Dthed) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edweek.org privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630072504id_/http%3A//www.edweek.org/info/about/privacy-policy.html%3Fintc%3Dthed) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -61,4 +61,4 @@ Re: Privacy Policy
 
 ## CHANGES TO THIS PRIVACY STATEMENT
 
-The Web is an evolving medium. If we need to change our privacy statement at some point in the future, we'll post the changes to this Privacy Statement on this Website and update the reference to the effective date to reflect the date of the amendment. By visiting Edweek.org, you agree that your visit, and any dispute over privacy, is governed by this Privacy Statement and our [User Agreement](https://web.archive.org/web/20131230030602id_/http%3A//www.edweek.org/info/about/terms-of-use.html).
+The Web is an evolving medium. If we need to change our privacy statement at some point in the future, we'll post the changes to this Privacy Statement on this Website and update the reference to the effective date to reflect the date of the amendment. By visiting Edweek.org, you agree that your visit, and any dispute over privacy, is governed by this Privacy Statement and our [User Agreement](https://web.archive.org/web/20140630072504id_/http%3A//www.edweek.org/info/about/terms-of-use.html).
