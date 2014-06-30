@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youngentrepreneur.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231013126id_/http%3A//www.entrepreneur.com/privacypolicy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youngentrepreneur.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630175833id_/http%3A//www.entrepreneur.com/privacypolicy/index.html) for the most accurate reproduction.*
 
 # Entrepreneur.com Online Privacy Statement
 
