@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greatscores.com privacy policy that was archived on 2013-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131206081547id_/http%3A//www.greatscores.com/tag/help_privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatscores.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630151555id_/http%3A//www.greatscores.com/tag/help_privacy/index.html) for the most accurate reproduction.*
 
 # Privacy Policy for Great Scores Sheet Music
 
