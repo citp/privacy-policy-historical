@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theinternetpatrol.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207083332id_/http%3A//www.theinternetpatrol.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theinternetpatrol.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630225735id_/http%3A//www.theinternetpatrol.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - The Internet Patrol
+# Privacy Policy - The Internet Patrol - The Internet Patrol
 
 ### The Internet Patrol’s No-Nonsense Straight-Forward Plain English Privacy Policy
 
