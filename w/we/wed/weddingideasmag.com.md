@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the weddingideasmag.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328100524id_/http%3A//www.weddingideasmag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weddingideasmag.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701005145id_/http%3A//www.weddingideasmag.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy for online services
+# Privacy Policy for online services • Wedding Ideas magazine
 
 We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information.
 
@@ -53,6 +53,8 @@ We may use your personal information to:
 Where you submit personal information for publication on our website, we will publish and otherwise use that information in accordance with the licence you grant to us.
 
 We will not without your express consent provide your personal information to any third parties for the purpose of direct marketing.
+
+Our website contains affiliate marketing links, which means we may be paid commission on sales of those products or services we write about. Our editorial content is not influenced by advertisers or affiliate partnerships.
 
 ### 4\. Disclosures
 
