@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the quickquid.co.uk privacy policy that was archived on 2013-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131018084247id_/https%3A//www.quickquid.co.uk/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickquid.co.uk privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630220012id_/https%3A//www.quickquid.co.uk/privacy_policy.html) for the most accurate reproduction.*
 
 # QuickQuid Payday Lender Privacy - Payday Loans and Cash Advances
 
 ## CashEuroNetUK, LLC Privacy Policy
 
-QuickQuid is a trading name of CashEuroNetUK, LLC, Consumer Credit Licence: 603395; Information Commissioner’s Office Data Protection registration number: Z9919587. This Privacy Policy describes the privacy practices of CashEuroNetUK, LLC and its affiliated companies with respect to individually identifiable information relating to you ("Personal Data") that you or third parties provide to Quick Quid, including Personal Data collected or provided on the CashEuroNetUK websites at [www.quickquid.co.uk](http://www.quickquid.co.uk/) ("Website"). "You" or "Your" means you as a participant in, or as a user of, the Website or a customer of CashEuroNetUK. "We" or "our" or "us" means CashEuroNetUK and its affiliates.
+QuickQuid is the trading name of CashEuroNetUK, LLC. CashEuroNetUK, LLC is authorised and regulated by the Financial Conduct Authority, firm registration number 603395.  Information Commissioner’s Office Data Protection registration number: Z9919587. This Privacy Policy describes the privacy practices of CashEuroNetUK, LLC and its affiliated companies with respect to individually identifiable information relating to you ("Personal Data") that you or third parties provide to Quick Quid, including Personal Data collected or provided on the CashEuroNetUK websites at [www.quickquid.co.uk](http://www.quickquid.co.uk/) ("Website"). "You" or "Your" means you as a participant in, or as a user of, the Website or a customer of CashEuroNetUK. "We" or "our" or "us" means CashEuroNetUK and its affiliates.
 
 For the purposes of the Data Protection Act 1998, the data controller is CashEuroNetUK, LLC 
 
@@ -255,4 +255,4 @@ N13 4BS
 
 We reserve the right to change this Privacy Policy at any time by notifying you of the existence and location of the new or revised privacy policy or by posting the changes online at our Website.
 
-Privacy Policy last amended 16 November 2012
+Privacy Policy last amended 1 April 2014
