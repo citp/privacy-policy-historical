@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taser.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230171407id_/http%3A//www.taser.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taser.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630182525id_/http%3A//www.taser.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -25,13 +25,30 @@ Many companies offer programs that help you to visit web sites anonymously. Whil
 **(C) E-Mail Communications:**  
 TASER may receive a confirmation when you open an e-mail from TASER if your computer supports this type of program, in order to help us make e-mails more interesting and helpful. TASER may also send out emails with information regarding TASER including promotions and events. Customers may opt out of receiving such emails by selecting the “unsubscribe” link in the TASER email or by visiting TASER’s unsubscribe webpage.
 
-Information from Other Sources: For purposes such as improving personalization of the TASER International websites, TASER may receive information about you from other sources and add it to our account information.
+**Information from Other Sources:** For purposes such as improving personalization of the TASER International websites, TASER may receive information about you from other sources and add it to our account information.
 
-What about Cookies: Cookies are alphanumeric identifiers that TASER transfers to your computer's hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our site are visited and by how many people. TASER employs cookies in order for its server to recognize a return visitor as a unique user. The cookies placed by the TASER server are readable only by TASER, and cookies cannot access, read or modify any other data on a computer.
+**What about Cookies:** Cookies are alphanumeric identifiers that TASER transfers to your computer's hard drive through your Web browser to enable our systems to recognize your browser and tell us how and when pages in our site are visited and by how many people. TASER employs cookies in order for its server to recognize a return visitor as a unique user. Cookies are used to personalize the content you view on our websites. The cookies placed by the TASER server are readable only by TASER, and cookies cannot access, read or modify any other data on a computer.
 
-The "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. TASER strongly recommends that you leave the cookies activated because cookies enable you to take advantage of some of TASER’s most attractive features.
+The "help" portion of the toolbar on the majority of browsers will direct you on how to prevent your browser from accepting new cookies, how to command the browser to tell you when you receive a new cookie, or how to fully disable cookies. TASER strongly recommends that you leave the cookies activated because cookies enable you to take advantage of some of TASER’s most attractive features. To view more information regarding cookie settings please visit:
 
-Information Sharing: Information about TASER customers is an integral part of our business. TASER neither rents nor sells your personal information to anyone except as described in this Statement. We share your personal information only with entities that are controlled or controlled by or under common control of TASER, and as described below:
+  * For Microsoft Internet Explorer: <http://www.microsoft.com/info/cookies.mspx>
+  * For Google Chrome: <http://www.google.com/support/chrome/bin/answer.py?answer=95647>
+  * For Mozilla Firefox: <http://support.mozilla.com/en-US/kb/Enabling%20and%20disabling%20cookies>
+  * For Apple Safari 6: <http://support.apple.com/kb/PH11913>
+
+
+
+**Google Analytics Demographic and Interest Reporting:** TASER receives Demographic and Interest Reports from Google, which include aggregated, non-personally identifiable information about our website traffic regarding visitors’ age, gender, and interests. The reports let TASER see how many of our users visit over a date range, who those users are, and how their behavior varies by attribute (e.g., male vs. female). Information regarding these reports is derived by Google from the DoubleClick third-party cookies. This information will not be used for any purpose other than those set out in this Statement.
+
+**Google Adwords Remarketing:** TASER has implemented Remarketing with Google Analytics to help personalize its advertising efforts online. Such analytics allow third party vendors, including Google, to show personalized ads on sites across the internet. TASER and third party vendors, including Google, use first and third party cookies together to inform, optimize, and serve ads based on a visitor’s past visits on any TASER International website. In other words, AdWords remarketing will display relevant ads tailored to you based on what parts of the TASER International websites you have viewed, by placing a cookie on your machine. This cookie does not in any way identify you or give access to your computer. Google AdWords Remarketing allows us to tailor our marketing to better suit your needs and deliver a more personalized experience by only displaying ads that are relevant to your specific interests.
+
+**Access to and Accuracy of Personal Information Collected by Google Analytics:** Google Analytics gathers information based on an individual user’s activities on Google websites and other websites within their network. Google then determines the age, gender, and interests of the user. In order to review and edit this personal information please visit: <https://www.google.com/settings/ads>.
+
+**Google Analytics Opt-Out Browser Add-On:** In order to prevent data collected by Google Analytics, users can install the Google Analytics opt-out browser add-on. Please visit: [https://support.google.com/analytics/answer/181881?hl=en&ref_topic=2919631](https://support.google.com/analytics/answer/181881?hl=en&ref_topic=2919631) to disable Google Analytics. It is important to remember that that many of Google’s services may not function properly if your cookies are disabled.
+
+**DoubleClick Third Party Cookie and Adwords Remarketing Opt-Out:** DoubleClick uses cookies to improve advertising. Some common applications are to target advertising based on what’s relevant to a user, to improve reporting on campaign performance, and to avoid showing ads the user has already seen. DoubleClick sends a cookie to the browser after any impression, click, or other activity that results in a call to the DoubleClick server. If the browser accepts the cookie, the cookie is stored on the browser. In order to opt out of these DoubleClick interest-based ads and Google Adwords on either Google and/or across the web please visit: <https://www.google.com/settings/ads>.
+
+**Information Sharing:** Information about TASER customers is an integral part of our business. TASER neither rents nor sells your personal information to anyone except as described in this Statement. We share your personal information only with entities that are controlled or controlled by or under common control of TASER, and as described below:
 
 **(A) Affiliated Businesses TASER Does Not Control:**  
 TASER is affiliated or partnered with a variety of businesses and work closely with them. In certain situations, these businesses operate within the TASER International websites. In other situations, TASER markets or sells products or services jointly with affiliated businesses. If TASER intends to disclose information externally, TASER will give you the opportunity to decline to supply customer information or to opt out of such sharing.
@@ -40,7 +57,7 @@ TASER is affiliated or partnered with a variety of businesses and work closely w
 TASER employs other companies and people to perform tasks on our behalf and may need to share your information with them to provide products or services to you. Examples may include removing repetitive information from customer lists, analyzing data, providing marketing assistance, processing credit card payments, and providing customer service. TASER may also provide your personal information to agents who will use it to verify aggregate usage data that we provide to our partners. In all cases where we share your information with such agents, we explicitly require the agent to acknowledge and adhere to TASER's Privacy Policy requirements. Additionally, when TASER wishes to transfer this information to a third party acting as an agent, it will only do so if the third party agent enters into a written Non-Disclosure Agreement. 
 
 **(C) Promotional Offers:**  
-TASER may send offers to certain customers on behalf of other businesses with whom TASER has a partnership. However, when TASER does so, TASER does not give the other business your name and address. If you are a user of the TASER International websites and do not wish to receive these offers, please request to unsubscribe by visiting: http://info.taser.com/UnsubscribePage.html.
+TASER may send offers to certain customers on behalf of other businesses with whom TASER has a partnership. However, when TASER does so, TASER does not give the other business your name and address. If you are a user of the TASER International websites and do not wish to receive these offers, please request to unsubscribe by visiting: <http://info.taser.com/UnsubscribePage.html>.
 
 **(D) With Your Consent:**  
 Except as set forth above, you will be notified when your personal information may be shared with third parties. 
@@ -65,7 +82,9 @@ TASER may also provide social media features that enable you to share informatio
 
 **Conditions of Use:** If you decide to visit TASER International websites, your visit and any possible dispute over privacy is subject to this Privacy Policy, arbitration of disputes, and Arizona law. 
 
-TASER commits to resolve complaints about your privacy and our collection or use of your personal information. If you have any questions or concerns regarding your personal information or would like to contact our offices to report a complaint please contact us at: [contact us](http://www.taser.com/support/contact-us) **Policy Changes:** TASER reserves the right to amend the Privacy Policy Statement at any time with or without notice. Please check back frequently in the event of changes. 
+TASER commits to resolve complaints about your privacy and our collection or use of your personal information. If you have any questions or concerns regarding your personal information or would like to contact our offices to report a complaint please contact us at: [contact us](http://www.taser.com/support/contact-us)
+
+**Policy Changes:** TASER reserves the right to amend the Privacy Policy Statement at any time with or without notice. Please check back frequently in the event of changes. 
 
 Your use of any of the TASER International websites constitutes your agreement to this Privacy Policy. 
 
@@ -73,4 +92,4 @@ Your use of any of the TASER International websites constitutes your agreement t
 
 TASER® and © are registered trademarks of TASER International, Inc. © 2012 TASER International, Inc. All rights reserved.
 
-Revised Dec 2, 2013
+Revised Jan 16, 2014
