@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crocodoc.com privacy policy that was archived on 2013-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130822143615id_/https%3A//crocodoc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crocodoc.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630064240id_/https%3A//crocodoc.com/privacy-policy) for the most accurate reproduction.*
 
 # HTML5 Document Embedding | Crocodoc
 
