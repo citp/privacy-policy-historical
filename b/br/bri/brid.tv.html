@@ -1,0 +1,424 @@
+<!--The following is the downloaded HTML source of the brid.tv privacy policy that was archived on 2014-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140630064509id_/http%3A//cms.brid.tv/pages/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">	<title>Brid Video Platform | Privacy</title>
+	<script type="text/javascript" async="" src="https://apis.google.com/js/platform.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_GB/all.js#xfbml=1&amp;appId=191438587733315"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>
+document.debugHost = 1; var Partner = {}, partners = {}, currentPartnerId = 0, loggedIn = false, homeUrl = 'http://cms.brid.tv', currentUrl = '/pages/privacy', controller = 'pages', action = 'display', config = {}, DEBUGMODE = 0, param = '';
+	config.Player = {"DefaultPlayerId":"1","DefaultPartnerId":"264","DefaultVideoId":"2","defaultNotFoundId":"409","Plugins":["brid.ga.min.js","brid.yt.min.js"]};
+</script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-48904432-2', 'brid.tv');
+  ga('send', 'pageview');
+</script>
+<link href="/favicon.ico" type="image/x-icon" rel="icon"><link href="/favicon.ico" type="image/x-icon" rel="shortcut icon"><meta name="description" content="A free cloud-based video platform featuring an HTML 5 player with Flash fallback and a content management solution. Powerful Google-pow- ered analytics and monetization options compatible with desktop and tablets."><meta name="keywords" content="video, online video, HTML 5, player, cloud, SEO, flash, VAST, social, VEEPS"><link rel="stylesheet" type="text/css" href="/css/terms.css"><link rel="stylesheet" type="text/css" href="/min/?f=/css/ui/1.9.2/themes/smoothness/jquery-ui-1.9.2.custom.css,/css/prettify.min.css,/css/layout.min.css,/css/chosen.css,/css/jquery.thumbnailScroller.css,/css/fancybox/source/jquery.fancybox.css,/css/jquery.datepick.css"><link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Fjalla+One|Noticia+Text"><script type="text/javascript" src="http://cms.brid.tv/player/build/brid.min.js"></script><script type="text/javascript" src="/min/?f=/js/jquery/1.9.1/jquery.min.js,/js/jquery.plugins.js,/js/brid/dev/brid.top.js,/js/brid/dev/brid.script.js,/js/brid/dev/brid.ajax.js,/js/brid/dev/brid.save.js,/js/brid/dev/brid.uploader.js"></script><script type="text/javascript" src="/js/tinymce/js/tinymce/tinymce.min.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.1/jquery-ui.min.js"></script></head>
+<body>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1&appId=191438587733315";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<div id="dialog" title="dialog"></div>
+<!-- START - Ajax Top Message Box -->
+<div id="ajaxFlashMessageW" style="position:absolute;">
+	<div id="ajaxFlashMessage"></div>
+	</div>
+<!-- END - Ajax Top Message Box -->
+
+<img src="/img/indicator.gif" id="busy-indicator" style="z-index:9999;widt:111px;height:74px;" alt="">
+<div id="mainWrapper">
+<div id="main">
+
+	<div id="header">
+		<div id="header_wrapper">
+							<a href="Array" title="Brid Video Platform"><div id="logo"></div></a>
+			<div id="topHeadMenu">
+						</div>
+		</div>
+	</div> 
+	<!-- End Header div -->
+	
+	
+	<!-- Start Menu -->
+	<div id="topMenuW" style="height: 38px">
+		<div id="topMenu">
+			<div class="mainWrapper">
+				<div id="mainMenu">
+	
+		   
+		        <div id="menutoolbar">
+			       <div id="menutoolbar-content">	
+		    					       </div>
+		    	
+					
+		        </div>
+	    	
+	
+	
+</div>
+<div id="back-top"></div>
+
+
+<script>
+$('#back-top').click(function () {													//Back to top link
+	return $Brid.Html.Effect.scrollUp();
+});
+
+var mainElements = $('#mainMenu #menutoolbar .main-menu-wrapper');					// Set width of cells in top menu if there are more than 5 cells
+if (mainElements.length>5) {
+	mainElements.css('width', 100/mainElements.length + '%');
+	}
+
+if ($('#menu-more').length) {														// Positioning main menu dropdown
+	$('#mainMenu .main-menu .gdrop_down').css('left', $('#menu-more').width() - $('#mainMenu .main-menu .gdrop_down').width());
+	}
+
+$('.moreOptions').click($Brid.Html.GoogleCheckbox.toggleGMenu);
+
+var last = null;
+/*
+if(!$('#menu-'+controller+'-'+action).hasClass('submenu')){
+	
+	$('#menu-'+controller+'-'+action).addClass('topMenuActive');
+}else{
+	$('#menu-more').addClass('topMenuActive');
+}*/
+
+var menuSelected = false;
+//alert('menu-'+controller+'-'+action);
+$('.main-menu').each(function(k,v){
+
+		var $this = $(this);
+
+	if(!$this.hasClass('submenu')){
+			
+			if($this.attr('id').indexOf('menu-'+controller+'-'+action)!=-1)
+			{
+				$this.addClass('topMenuActive');
+				menuSelected = true;
+			}
+		}
+});
+$('.main-menu, .submenu').each(function(k,v){
+
+		var $this = $(this);
+		
+		if(!$this.hasClass('submenu')){
+
+			
+			//$this.attr('class')
+			if($this.attr('id').indexOf('menu-'+controller)!=-1 && menuSelected==false)
+			{
+				$this.addClass('topMenuActive');
+				menuSelected = true;
+			}
+			
+		}
+		
+		//Hide My Sites link
+		if($this.html(),$this.html().indexOf('My Sites') == 0){
+			
+	        $('#mySitesLink').hide();
+	    }
+    
+		if($this.attr('data-fancybox-type') == undefined)
+		{
+			//$(this).button().click(clickUrl);
+			if($this.attr('data-href-type') == undefined){
+					//Nisam siguran jel ovo neophodno?
+					var dataHref = $this.attr('data-href');
+					if(dataHref!=undefined && dataHref.indexOf(controller)!=-1)
+					{
+						if($this.hasClass('submenu')){
+								$this.parent().parent().addClass('topMenuActive');
+								debug.log('SELECTUJ', dataHref, controller, $this.attr('class'));
+						}
+						
+					}
+					$this.on('click touchstart',function(e){
+						
+						//Load page url
+						$Brid.Ajax.loadAjaxUrl($this.attr('data-href'), $this);
+
+							
+
+						
+					});	//All other pages load content only
+
+					
+			}else{ 
+				$this.click($Brid.Util.clickUrl); //Analytics load page
+			}
+			
+		}
+	
+});
+//Select submenu if nothig from main menu is not selected
+if(!menuSelected){
+	$('#menu-more').addClass('topMenuActive');
+}
+</script>
+			</div>
+		</div>	
+	</div>
+	<!-- End Menu -->
+	<!-- Start Content div -->
+	<div id="container">
+		<div id="content">
+			
+			<div id="termsAndConditions" class="mainWrapper">
+<h2>Privacy Policy</h2>
+ 
+<div class="privacyFirstRow">LAST UPDATED: Dec. 17, 2013</div>
+<div style="margin-top:15px;">BRID TV, LLC. ("BRID") wants you to be familiar with how we collect, use and disclose Personal Information and Non-Personal Information (each as defined below). This Privacy Policy describes our practices in connection with information that we collect through our website located at 
+<a href="http://www.brid.tv">www.brid.tv</a>, other BRID websites where this Privacy Policy is provided and through BRID's online video platform known as the  “BRID Service” (<a href="http://www.brid.tv">www.brid.tv</a>, BRID's other websites and the BRID Service are referred to in this Privacy Policy collectively as the <span class="sp">“Site“</span>). This Privacy Policy does not address the collection, use or disclosure of information by any third parties.</div>
+<br>
+<div>By using the Site, you agree to the terms and conditions of this Privacy Policy. If you do not agree to the terms and conditions of this Privacy Policy, please do not use the Site. We reserve the right to change this Privacy Policy without prior notice. You can find out when this Privacy Policy was last revised by referring to the “Last Updated” legend at the top of this page. Any changes to our Privacy Policy will become effective upon our posting of the revised Privacy Policy on the Site. Use of the Site following such changes constitutes your acceptance of the revised Privacy Policy then in effect.</div>
+<ol class="mainList">
+<li><h3>What Types of Information Do We Collect from You?</h3> 
+<div class="listContent">
+<span class="sp">Personal Information</span> is information that identifies an individual. In order for you to take advantage of particular opportunities provided through the Site (for example, to receive white 
+papers, participate in certain forums on the Site or sign-up for the BRID Service), we may require that you furnish Personal Information. We collect Personal Information from you, such as your name, postal address, 
+telephone number and email address, only when you voluntarily provide it to us. We may also combine Personal Information you provide to us with publicly available information, such as your organization's name, 
+in the event you provide us with an email address from your organization.<span class="sp">Non-Personal Information</span> is aggregated information, demographic information and any other information that does 
+not reveal an individual's specific identity.
+	<ul class="circleList">
+		<li><h4>Environmental Variables.</h4> We may collect certain environmental variables, such as your MAC address, computer type, screen resolution, OS version and browser type and version. These environmental variables are collected by most websites and can be used to optimize your experience on the Site.</li>
+		<li><h4>Cookies.</h4> We and service providers acting on our behalf may set and access cookies on your computer. A cookie is a small text file containing a unique identification number that is transferred from a website to the hard drive of your computer so that the website administrator may identify your computer and passively track its activities on the website. This unique number identifies your web browser to our computer system. Cookies allow us to automatically remember your web browser when you use the Site. The use of cookies is an industry standard, and they are currently used on most major websites. It is possible to adjust your web browser preferences to alert you when a cookie is sent to your hard drive, or to refuse cookies altogether. While we do not require you to use cookies, certain parts of the Site will not function properly if you set your browser to refuse all cookies. To learn more about cookies, please visit <a href="http://www.allaboutcookies.org/">http://www.allaboutcookies.org/</a>.</li>
+		<li><h4>Web Beacons.</h4> Web beacons, also known as clear GIFs or single-pixel GIFs, are small image files that we, or service providers acting on our behalf, may place in our Web pages, in our advertisements and in our emails. Working in conjunction with cookies, web beacons allow us to accurately count the number of unique users who have visited a specific Site page or section, clicked on one of our advertisements, or opened or acted upon an email. They also tell us the number of times advertisements or pages are displayed. This allows us to measure the performance of our Site, our advertising and our email campaigns.</li>
+		<li><h4>Information That You Provide.</h4> We may also collect Non-Personal Information, such as your interests, geographic location and website address, when you provide it to us. Unless combined with Personal Information, this information does not personally identify you. In addition, we may aggregate Personal Information in a manner such that the end product does not identify you or any other Site user. Such aggregate information is considered Non-Personal Information for purposes of this Privacy Policy.</li>
+	</ul>
+</div>
+</li>
+<li><h3>IP Addresses.</h3>
+<div class="listContent"> 
+Your Internet Protocol (IP) address is a number that is automatically assigned to the computer you are using by your Internet Service Provider (ISP), and in many cases, IP addresses are shared by multiple people. 
+This number is identified and logged automatically in our server log files whenever you visit the Site, along with the time(s) of your visit(s) and the page(s) you visited. 
+Collecting IP addresses is standard practice on the Internet and is done automatically by many websites.
+</div>
+</li>
+<li><h3>How Does BRID Use Information Collected From Me?</h3> 
+<div class="listContent">
+<span class="sp">Personal Information.</span> We may use Personal Information:
+	<ul class="circleList">
+	<li>to fulfill your requests, such as to create a BRID Service account, send a requested white paper, send online video updates or complete your purchases;</li>
+	<li>to operate the BRID Service, to send you important information regarding the Site and issues specifically affecting the BRID Service and your use of the BRID Service, including changes to Site terms, conditions and policies. Because this information may be important, you may not opt out of receiving it;</li>
+	<li>to inform you of products, programs, services and promotions from us and/or our marketing partners that we believe may be of interest to you;</li>
+	<li>for our internal business purposes, such as data analysis, audits, developing new products, enhancing our Site, improving our services, identifying usage trends and determining the effectiveness of our promotional campaigns.</li>
+	</ul>
+</div>
+</li>
+<li><h3>Non-Personal Information.</h3>
+<div class="listContent">
+ Because Non-Personal Information does not personally identify you, we may use such information for any purpose, at our sole discretion, unless otherwise noted in this Privacy Policy. In addition, we reserve the right to share Non-Personal Information with affiliates and other third parties, for any purpose. In some instances, we may combine Non-Personal Information with Personal Information (such as combining your name with your geographical location). If we do combine any Non-Personal Information with Personal Information, we will treat the combined information as Personal Information as long as it is combined.
+	<ul class="circleList">
+	<li><h4>Delivery of Online Advertising.</h4> We may use third party ad serving technology to help us deliver ads on the Site or to educate users on ad serving technology. This technology may use information (not including your name, address, email address or telephone number) about your visit to the Site in order to identify and display advertisements that may be of interest to you. In the course of serving these advertisements, a unique cookie may be placed and/or recognized on your browser. If you would like more information about this practice and to know your options about not having this information used to serve ads to you, please click here.</li>
+	<li><h4>Third Party Advertisements.</h4> Third parties may display advertisements on the Site or offer you products and services in connection with the Site. Any such party's use of cookies and other technologies is subject to such party's own privacy policy. Third parties that are not our service providers do not have access to our cookies.</li>
+	</ul>
+</div>
+</li>
+<li><h3>IP Addresses. </h3>
+<div class="listContent">
+We use IP addresses for purposes such as calculating Site usage levels, helping diagnose server problems and administering the Site. We may also use and disclose IP Addresses for all the purposes for 
+which we use and disclose Personal Information. Please note that we treat IP Addresses, server log files and related information as Non-Personal Information, except where we are required to do otherwise under 
+applicable law.
+</div>
+</li>
+<li><h3>How Does BRID Disclose Personal Information?</h3> 
+<div class="listContent">
+We may disclose Personal Information:
+	<ul class="circleList">
+		<li>to our affiliates and any future corporate subsidiaries or affiliates, so that they may use such Personal Information for the purposes described in this policy. BRID TV, LLC. is the party responsible for the management of the jointly-used Personal Information;</li>
+		<li>to our third party service providers who need the information to provide us with components of the BRID Service and/or such services as website hosting, data analysis, payment processing, order fulfillment, infrastructure provision, IT services, customer service and email delivery services;</li>
+		<li>to third parties where you have requested to use a third party service (including applications) in connection with the BRID Service and have requested that we provide information to them;</li>
+		<li>to third parties who sponsor events with BRID (such as Personal Information of attendees of sponsored webinars) to allow them to contact you regarding products, programs, services and promotions that they believe may be of interest to you;</li>
+		<li>to an affiliate or other third party in the event of any reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including, without limitation, in connection with any bankruptcy or similar proceedings); and</li>
+		<li>as we believe appropriate: (a) under applicable law, including laws outside your country of residence; (b) to comply with legal process; (c) to respond to requests from public and government authorities, including public and government authorities outside your country of residence; (d) to enforce our terms and conditions; (e) to protect our operations or those of any of our affiliates; (f) to protect our rights, privacy, safety or property, and/or that of our affiliates, you or others; and (g) to permit us to pursue available remedies or limit the damages that we may sustain.</li>
+	</ul>
+	</div>
+</li>
+<li><h3>Use of the BRID Service</h3> 
+<div class="listContent">
+The BRID Service, which is accessible through the Site, enables customers of BRID to upload, manage and publish videos to a customer's own website or to third party websites. Please note that any information you
+disclose through videos uploaded via the BRID Service may become public information and may be available to visitors to the website where they are posted and to the general public. We urge you to exercise 
+discretion and caution when deciding to disclose Personal Information, or any other sensitive information, via the BRID Service. We are not responsible for the use of any Personal Information you disclose 
+through your use of the BRID Service.
+</div>
+ </li>
+<li><h3>Other Important Notices Regarding Our Privacy Practices</h3>  
+<div class="listContent">
+Forums and Profiles. We may make other services available through the Site (for example, message boards, forums, chat functionality,
+ “profile pages” and blogs) to which you are able to post information and materials (collectively referred to as the “Forums”). Please note that any information you disclose through the 
+ Forums may be available to visitors to the Site and to the general public. We urge you to exercise discretion and caution when deciding to disclose Personal Information, or any other information, via the Forums.
+ <span class="sp">We are not responsible for the use of any Personal Information you disclose through the Forums. Third Party Sites and Services.</span> We provide links on this Site as a convenience for our users.
+ We may also inform customers of the BRID Service about third party services or applications that can be used in connection with the BRID Service, including services from companies associated with BRID's 
+ Alliance program (as further described at www.brid.tv). In addition, customers of the BRID Service generally use the BRID Service to publish videos on their own, or third party, websites. 
+ This Privacy Policy does not address, and we are not responsible for, the privacy, information or other practices of any third parties, or of other websites or services operated by third parties. 
+ Your activities, including your provision of Personal Information, with any such third parties or such third partie's websites or services will be governed by the privacy policy of such third parties. 
+ The inclusion of a link on the Site does not imply endorsement of the linked website by us or by our affiliates. <span class="sp">We are not responsible for the use of any Personal Information you disclose to 
+ third party sites or services.Security.</span> We use reasonable organizational, technical and administrative measures to protect Personal Information under our control. Unfortunately, no data transmission over
+ the Internet or data storage system can be guaranteed to be 100% secure. Please do not send us sensitive information through email. If you have reason to believe that your 
+interaction with us is no longer secure (for example, if you feel that the security of any account you might have with us has been compromised), you must immediately notify us of the problem by 
+contacting us in accordance with the "Contacting Us" section below (note that if you choose to notify us via physical mail, this will delay the time it takes for us to respond to the problem).
+<br>
+<span class="sp">Changing or Suppressing Personal Information.</span> 
+If you would like to request to review, correct, update, suppress or otherwise limit our use of your Personal Information that has been previously provided to us, you may contact us by 
+email at contact (at) brid.tv. We will respond to your request in accordance with applicable law. For your protection, we will only implement requests with respect to the Personal Information associated 
+with the particular email address that you use to send us your request, and we may need to verify your identity before implementing your request. You also may review, correct and update certain 
+information that you provided by logging into your BRID Service account and editing your profile information.?In each event, you must clearly indicate the information that you wish to have changed or suppressed. 
+We will endeavor to comply with your request as soon as reasonably practicable and in compliance with applicable law. We may need to retain certain information for record-keeping purposes, and there may
+also be residual information that will remain within our databases and other records, which will not be removed. Finally, we are not responsible for removing or suppressing information from the databases 
+of third parties with whom we have already shared your Personal Information, or limiting their use of your Personal Information. If you wish to change or suppress information provided to an affiliate or
+third party, please contact them directly.<br>
+<span class="sp">Retention Period.</span> We will retain your Personal Information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer
+retention period is permitted or required by law.<br>
+<span class="sp">Note Regarding the Use of the Site by Children:</span> The Site is not directed to children under the age of thirteen (13), and we request that children not 
+provide Personal Information through the Site. If you become aware that your child has provided us with Personal Information, please contact us in accordance with the "Contacting Us" section below.<br>
+<span class="sp">Jurisdiction and Cross-Border Issues.</span>We do not represent or warrant that the Site, or any part thereof, is appropriate or available for use in any particular jurisdiction. Those who choose to access 
+the Site do so on their own initiative and at their own risk, and are responsible for complying with all local laws, rules and regulations. We may limit the Site's availability, in whole or in part, 
+to any person, geographic area or jurisdiction we choose, at any time and in our sole discretion. By using the Site and submitting any Personal Information, you consent to the transfer of Personal Information 
+to other countries, such as Serbia, which may provide a level of data security different from your country of residence.
+   </div>
+   <div class="contact listContent">
+   <span class="sp">Contacting Us.</span> If you have any questions regarding this Privacy Policy, please contact   us by email at <a href="mailto:contact@brid.tv">brid.tv</a>, or please write to the following address:<br>
+   <br>Customer Service/Privacy <br>
+   Policy or General Counsel:<br>
+   BRID TV, LLC.c/o General Counsel BRID TV,<br> LLC
+   244 5th Avenue,Suite C51,New York, N.Y. 10001<br> <br> 
+   By Phone: +1 323 744 6652<br>
+   <span style="margin-left:58px;">+1 646 535-0047</span>
+   </div>
+   </li>
+
+</ol></div>		</div>
+	</div>
+	<!-- End Content div -->
+</div>
+</div>
+<div id="footer">
+	<div class="mainWrapper">
+	<div id="footer_wrapper">
+		<div id="footerLeft">
+			<table id="footerTable">
+				<tbody><tr>
+					<td style="width:193px;">
+						<span class="footerTableFirstRow">Product</span>
+						<table class="footerTableInner">
+							<tbody><tr>
+								<td><a href="http://www.brid.tv/#what">What is brid?</a><span class="footerLinkBorder">|</span></td>
+								<td><a href="http://www.brid.tv/#news">News</a></td>
+							</tr>
+						</tbody></table>
+					</td>
+					<td style="width:216px;">
+						<span class="footerTableFirstRow">Support</span>
+						<table class="footerTableInner">
+							<tbody><tr>
+								<td><a href="https://brid.zendesk.com/hc/en-us/requests/new" target="_blank">Contact</a><span class="footerLinkBorder">|</span></td>
+								<td><a href="https://brid.zendesk.com/hc/en-us" target="_blank">Documentation</a></td>
+							</tr>
+						</tbody></table>
+					</td>
+					<td style="width:236px;">
+						<span class="footerTableFirstRow">Company</span>
+						<table class="footerTableInner">
+							<tbody><tr>
+							<td><a href="http://www.brid.tv/#about">About us</a><span class="footerLinkBorder">|</span></td>
+							<td><a href="http://www.brid.tv/#contact">Contact us</a><span class="footerLinkBorder">|</span></td>
+							<td><a href="http://www.brid.tv/#jobs">Jobs</a></td>
+							</tr>
+						</tbody></table>
+					</td>
+					<td>
+						<table id="footerRightTable">
+								<!--  <tr><td>Follow @brid.tv for the latest news.</td></tr>
+								
+								<tr>
+									<td>
+									<form action="/pages/privacy" id="SubscribeDisplayForm" method="post" accept-charset="utf-8"><div style="display:none;"><input type="hidden" name="_method" value="POST"/></div>									<div style="position:relative; height: 38px">
+										<div class="input text"><input name="data[Subscribe][Subscribe]" default-value="e mail" class="subscribeInput" type="text" id="SubscribeSubscribe"/></div>										<img src="/img/subscribe_submit.png" title="Subscribe" class="subscribeSubmit" width="60" alt="" />									</div>
+									</form>									</td>
+								</tr>-->
+								<tbody><tr>
+									<td>
+									<!--  <div class="weAreSocial">We're Social Say Hello !</div>
+									<div class="fb-like" data-href="https://developers.facebook.com/bridtv" data-layout="button" data-action="like" data-show-faces="false" data-share="false"></div>
+									<div class="subscribeIcon SocialGp"></div>-->
+									  <table>
+										<tbody><tr><td colspan="3"><div class="weAreSocial">We're Social Say Hello !</div></td></tr>
+										<tr>
+											<td style="padding-top:5px;">
+											
+												<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fbridtv&amp;width&amp;layout=button&amp;action=like&amp;show_faces=false&amp;share=false&amp;height=35" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:35px; width:50px" allowtransparency="true"></iframe>
+											
+											</td>
+											<td style="padding-top:5px;padding-left:5px;padding-right:5px;">
+
+												<a href="https://twitter.com/share" class="twitter-share-button" data-via="Bridtv" data-hashtags="bridtv" data-url="http://www.brid.tv" data-count="none">Tweet</a>
+												<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+											</td>
+											<td style="padding-top:5px;">
+												<!-- Place this tag where you want the +1 button to render. -->
+												<div class="g-plusone" data-size="medium" data-annotation="none" data-href="http://www.brid.tv"></div>
+												
+												<!-- Place this tag after the last +1 button tag. -->
+												<script type="text/javascript">
+												  (function() {
+												    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+												    po.src = 'https://apis.google.com/js/platform.js';
+												    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+												  })();
+												</script>
+											</td>
+										</tr>
+									</tbody></table>
+									</td>
+								</tr>
+							</tbody></table>
+					</td>
+				</tr>
+			</tbody></table>
+		</div>
+	
+		<div id="footerBottom">
+			<div id="privacy">
+				<a href="/pages/terms-conditions">Terms &amp; Conditions</a> | 
+<a href="/pages/privacy">Privacy Policy</a> | 
+Copyright © 2014® - Brid.tv are registered trademarks.			</div>
+		</div>
+	</div>
+</div></div>
+<!-- Default values JS -->
+		<script>
+		
+				$(document).ready(function(){
+					try{
+						debug.log('Manual call metods callback methods.pages_display()');
+						//Try to call callback on manual page reload
+						methods.pages_display();
+					}catch(e){
+		
+						debug.warn('Error calling callback:', e);
+						
+						initMainFunctions();
+						
+					}
+					if(save==undefined){
+						debug.log('Manual call saveObj.init()');
+						var save = null;
+						save = saveObj.init();
+						debug.log('saveObj', save);
+					}
+				});
+				
+		</script>
+		
+		
+</body></html>
