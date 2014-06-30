@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nationjob.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230004322id_/http%3A//www.nationjob.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationjob.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630035118id_/http%3A//nationjob.com/privacy) for the most accurate reproduction.*
 
 # NationJob, Employment Job Search Engine & Careers - Privacy
 
