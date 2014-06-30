@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thirteen.org privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229052236id_/http%3A//www.thirteen.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thirteen.org privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630175750id_/http%3A//www.thirteen.org/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | THIRTEEN - New York Public Media
 
@@ -20,7 +20,7 @@ WNET occasionally posts surveys on its sites. These surveys, which are completel
 
   3. ### Information Collected Automatically
 
-Our server tracks how you and other visitors use our sites, identifying the source of visitors to the WNET Sites and what pages they use on our site. By looking at this “traffic” we can better understand our community, which allows us to improve our web site and to provide you with an optimal experience and better service. 
+Our server tracks how you and other visitors use our sites, identifying the source of visitors to the WNET Sites and what pages they use on our site. By looking at this “traffic” we can better understand our community, which allows us to improve our web site and to provide you with an optimal experience and better service.
 
 In order to provide this optimal service and convenience we use “cookies.” A cookie is a temporary code placed in your computer by our server that facilitates communication and saves you time when you browse our web site. Cookies are completely anonymous and help us serve you. When you make a pledge, this information keeps track of items you add to your pledge basket so you can continue to browse our web site until you are ready to check out. At no time does the cookie reveal your name, address, or telephone number (even if you have entered these in other areas of WNET Sites). You always have the ability to disengage the cookie software on your browser without limiting your ability to make a pledge securely.
 
