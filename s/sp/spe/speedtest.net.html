@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the speedtest.net privacy policy that was archived on 2013-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131231215656id_/http%3A//www.speedtest.net/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the speedtest.net privacy policy that was archived on 2014-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140630023708id_/http%3A//www.speedtest.net/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -10,96 +10,31 @@
 	<title>Speedtest.net by Ookla - Privacy Policy</title>
 	<link rel="stylesheet" type="text/css" href="http://c.speedtest.net/css/reset.css" media="screen">
 	<link rel="stylesheet" type="text/css" href="http://c.speedtest.net/css/tipTip.css" media="screen">
-	<link rel="stylesheet" type="text/css" href="http://c.speedtest.net/css/layout.css?v=20131029" media="screen">
-	<link rel="stylesheet" type="text/css" href="http://c.speedtest.net/css/global.css?v=20131217" media="screen">
+	<link rel="stylesheet" type="text/css" href="http://c.speedtest.net/css/layout.css?v=20140425" media="screen">
+	<link rel="stylesheet" type="text/css" href="http://c.speedtest.net/css/global.css?v=20140430" media="screen">
 	<link rel="canonical" href="http://www.speedtest.net/privacy.php">
-	<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://c.speedtest.net/javascript/jquery-1.8.1.min.js"></script>
+	<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MX6CBT"></script><script src="//cdn.optimizely.com/js/1344760251.js"></script>
+	<script type="text/javascript" src="http://c.speedtest.net/javascript/jquery-1.8.1.min.js"></script>
 	<script type="text/javascript" src="http://c.speedtest.net/javascript/jquery.tipTip.js"></script>
 	<script type="text/javascript" src="http://c.speedtest.net/javascript/jquery.placeholder.min.js"></script>
-	<script type="text/javascript" src="http://c.speedtest.net/javascript/functions.js?v=20131025"></script>
+	<script type="text/javascript" src="http://c.speedtest.net/javascript/functions.js?v=20140403"></script>
 	<!--[if lte IE 6]>
         <link rel="stylesheet" type="text/css" href="css/ie6.css?v=2012-11-23" media="screen" />
 	<![endif]-->
 	
+		
 	
-  <script type="text/javascript">
-
-  function load_image(src) {
-  	var ts = new Date().getTime();
-	var img = document.createElement("img");
-	img.src = src + "&ts=" + ts;
-	img.width = 1;
-	img.height = 1;
-	document.body.appendChild(img);
-  }
-
-  var pageLoaded = new Date().getTime();
-  var testStart = 0;
-  function gaTracker(params) {
-	if(params.length >= 3 && params[2] == "test_loaded") {
-		var testLoaded = new Date().getTime();
-		_gaq.push(['_trackTiming', 'speedtest', 'testloaded', testLoaded - pageLoaded]);
-	}
-
-	if(params.length >= 3 && params[2] == "test_started") {
-		testStart = new Date().getTime();
-	}
-
-	if(params.length >= 4 && params[2] == "test_complete") {
-		if(testStart > 0) {
-			var testComplete = new Date().getTime();
-			_gaq.push(['_trackTiming', 'speedtest', 'testlength', testComplete - testStart]);
-			testStart = 0;
-		}
-
-		_gaq.push(['_setCustomVar',2,'test_taken',params[3], 2]); // slot=2, test_taken=count, visit
-	}
-
-	// click tracking
-	if(params.length >= 3 && params[1] == "advertising") {
-
-		// parse param 3
-		var lp_params = params[2].split(";");
-
-		if (lp_params.length == 3) {
-			// banner position
-			var bp = lp_params[0];	// banner position L = leaderboard, S = skyscraper, F = flash
-			var id = lp_params[1];	// impression depth
-			var et = lp_params[2];	// vital event type
-
-			var img_src = "/vital/"+ et + ".png?x=" + bp + ";" + id;
-
-			load_image(img_src);
-
-			// reset param 2 so google analytics tracks properly
-			if (bp == 'L') {
-				params[2] = 'leaderboard_click';
-			} else if (bp == 'S') {
-				params[2] = 'skyscraper_click';
-			} else if (bp == 'F') {
-				params[2] = 'endtest_click';
-			}
-		}
-	}
-
-    _gaq.push(params);
-  }
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-389482-3']);
-  _gaq.push(['_setDomainName', 'speedtest.net']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-  	var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-  	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-  	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-</script>
-	
-
 </head>
 <body id="generic" class="">
+  <!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MX6CBT"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MX6CBT');</script>
+<!-- End Google Tag Manager -->
 
 <div id="container">
 
@@ -111,7 +46,8 @@
 
 <div id="nav">
 <ul>
-	<li class="nav-results"><a href="/results.php">My Results</a></li>
+	<li class="nav-pingtest"><a href="http://www.pingtest.net/">Pingtest</a></li>
+<li class="nav-results"><a href="/results.php">My Results</a></li>
 <li class="nav-support"><a href="/support.php">Support</a></li>
 <li class="nav-settings"><a href="/user-settings.php">Settings</a></li>
 <li class="nav-login last"><a class="login-title" href="/user-login.php">Login</a></li>
@@ -206,7 +142,7 @@
 <ul>
 	<li class="footer-title" id="footer-company">Company</li>
 	<li><a href="/about.php">About</a></li>
-	<li><a href="/advertise">Advertise</a></li>
+	<li><a href="http://advertise.speedtest.net/">Advertise</a></li>
 	<li><a href="/support.php">Support</a></li>
 	<li><a href="/host.php">Become A Host</a></li>
 	<li><a href="/isp-performance">ISP Performance</a></li>
@@ -251,38 +187,13 @@
 </div>
 
 <span id="copyright"><strong>Accurate, free and powered by <a href="http://ookla.com/">Ookla</a> — the global standard in network testing.</strong><br>
-© Copyright 2013 <a href="http://ookla.com/">Ookla</a> | <a href="/privacy.php">Privacy Policy</a></span>
+© Copyright 2014 <a href="http://ookla.com/">Ookla</a> | <a href="/privacy.php">Privacy Policy</a></span>
 
 <iframe id="iframedl" name="iframedl" frameborder="0"></iframe>
 
 </div><!--/footer-->
 
-
-
-<!-- Quantcast Tag -->
-<script type="text/javascript">
-var _qevents = _qevents || [];
-
-(function() {
-var elem = document.createElement('script');
-elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
-elem.async = true;
-elem.type = "text/javascript";
-var scpt = document.getElementsByTagName('script')[0];
-scpt.parentNode.insertBefore(elem, scpt);
-})();
-
-_qevents.push({
-qacct:"p-8cnxEy2n0W4mf"
-});
-</script>
-
-<noscript>
-<div style="display:none;">
-<img src="//pixel.quantserve.com/pixel/p-8cnxEy2n0W4mf.gif" border="0" height="1" width="1" alt="Quantcast"/>
-</div>
-</noscript>
-<!-- End Quantcast tag -->
+	
 
 
 
