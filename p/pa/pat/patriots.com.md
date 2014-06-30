@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the patriots.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231130123id_/http%3A//www.patriots.com/footer/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patriots.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630031846id_/http%3A//www.patriots.com/footer/privacy-policy.html) for the most accurate reproduction.*
 
 # Official Website of the New England Patriots | Privacy Policy
 
@@ -83,7 +83,8 @@ As with many Websites, our Website uses a technology called "cookies." A cookie 
 
 If you would like to manage the cookies set or accessed on your computer by third parties, including our business partners (e.g., advertisers) you must visit their respective website(s).  In addition to those business partners whose cookies we cannot access or control, the Site permits the following entity to place cookies on the Site:     
 Reach Local [www.reachlocal.com](http://www.reachlocal.com/)  
-ShopSocially [www.shopsocially.com](http://www.shopsocially.com/)
+ShopSocially [www.shopsocially.com](http://www.shopsocially.com/)  
+DataPoint Media <http://dpmsrv.com/opt-out>
 
 ###### _Clear Gifs (Web Beacons/Web Bugs)_
 
@@ -209,4 +210,4 @@ If you have any questions about this privacy policy or the privacy practices of 
 
 [](http://privacy-policy.truste.com/click-with-confidence/eusafe/en/www.patriots.com/seal_m "TRUSTe European Safe Harbor certification")
 
-_Last Updated on September 17, 2013_
+_Last Updated on March 14, 2014_
