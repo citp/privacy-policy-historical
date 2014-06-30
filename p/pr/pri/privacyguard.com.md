@@ -1,169 +1,51 @@
-> *The following text is extracted and transformed from the privacyguard.com privacy policy that was archived on 2013-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130809172542id_/http%3A//www.privacyguard.com/content/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the privacyguard.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630205559id_/http%3A//www.privacyguard.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | PrivacyGuard
 
-**TRY IT NOW**
+The following discloses our information collection, use and dissemination practices for PrivacyGuard.com, a Website of Trilegiant Corporation. Effective Date: This Privacy Policy was last updated on January 1, 2014 and is subject to change at any time.
 
-**_Get your first 14 days  
-for just $1_**
+**Choice With Respect To Receiving Marketing Emails**  
+Any information that you enter on an enrollment or other form on our Web Site may be collected and retained by Trilegiant Corporation even if you decide not to enroll, may be used by Trilegiant to send you future promotional information, and will be subject to the terms and conditions of this Privacy Policy. If you do not want to receive future promotional information from PrivacyGuard in the future, you may let us know by going to [https://www.PrivacyGuard.com/optout](https://www.privacyguard.com/optout) and entering your email address. Please allow up to 10 days for your email to be removed. For offline unsubscribe assistance, please contact us at 1-800-374-8273.
 
-**[Online Privacy Policy](https://web.archive.org/BCA/PG_NEW2/images/privacypolicy/PPolicyPGNEWGeneric.pdf)**
+**Maintaining the Security of Your Information**  
+We attempt to provide for the secure transmission of your information from your computer to our servers by utilizing encryption software. However, due to the inherent open nature of the Internet, we cannot guarantee that communications between you and Trilegiant, and Trilegiant and you, will be free from unauthorized access by third parties, such as hackers.
 
-[**Privacy Policy FAQ's**](https://web.archive.org/content/privacy-policy-faq.html)
+PrivacyGuard.com utilizes Standard SSL encryption on pages where secure information is transmitted over the Internet. We also use VeriSign as our Certificate of Authority. If you would like more information on the PrivacyGuard VeriSign Certificate, go to PrivacyGuard.com.
 
-The following discloses our information collection, use and dissemination practices for https://www.privacyguard.com, a Web site of Trilegiant Corporation. Effective Date: This Privacy Policy was last updated on November 12, 2010 and is subject to change at any time.  
----  
-  
-FACTS
+ 
 
-| WHAT DOES TRILEGIANT CORPORATION DO WITH YOUR PERSONAL INFORMATION?  
-  
-**WHY?**
+In addition to employing these high-security measures, we have undergone a rigorous certification process for Cybertrust Corporation's Web Certification program. This process examined in great detail every aspect of our security precautions, and included an on-site inspection of our facility for physical security and policy, plus a remote assessment of our potential vulnerabilities to web-based attacks. Cybertrust's certification is a continuous process, repeated and renewed annually.
 
-| 
+**Your California Privacy Rights**  
+Under California law, California residents have the right to request in writing from businesses with whom they have an established business relationship, (1) a list of the categories of personal information, such as name, address, email address, and the type of services provided to the customer, that a business has disclosed to third parties (including affiliates that are separate legal entities) during the immediately preceding calendar year for the third parties' direct marketing purposes, and (2) the names and addresses of all such third parties. To request the above information, please email us at [CARequests@trilegiant.com](mailto:CARequests@trilegiant.com) or write us at: Attn: Dept. SB-27, Trilegiant Corporation, P.O. Box 41249, Nashville, TN 37204-1249, with a reference to California Disclosure Information.
 
-Financial companies choose how they share your personal information. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand what we do.   
-  
-**WHAT?**
+We will respond to such written requests within 30 days following receipt at the email or mailing address stated above. If we receive your request at a different email or mailing address, we will respond within a reasonable period of time, but not to exceed 150 days from the date received. Please note that we are only required to respond to each customer once per calendar year.
 
-| 
+**Cookies**  
+"Cookies" are pieces of information that may be placed on your computer by a Website for the purpose of facilitating and enhancing your communication and interaction with that Website. Almost all Websites use cookies for these purposes. 
 
-The types of personal information we collect and share depend on the product or service you have with us. This information can include:  
-\- Social Security number and income   
-\- Your name, address, and telephone number   
-\- Your birthdate and service usage   
-  
-HOW?
+We may use cookies (a) to customize your visit to the PrivacyGuard Website, (b) to deliver content consistent with your stated interests and the manner in which you browse and/or buy on our site, (c) to save your password (if you have registered with us) so you don't have to re-enter it each time you visit our site, and (d) for other purposes to make your visit more convenient.
 
-| 
+At times, some of our advertisers or their ad serving and tracking providers may set cookies when you select their ad banner and some of our content providers or partners may also set cookies when you visit those portions of our site over which they have control. We reserve the right to supplement the cookie data which we collect from you with information collected by cookies set by third parties in order to understand how you use the Internet and what products are of interest to you.
 
-All financial companies need to share customers' personal information to run their everyday business. In the section below, we list the reasons financial companies can share their customers' personal information; the reasons Trilegiant Corporation chooses to share; and whether you can limit this sharing.   
-  
-  
-Reasons we can share your personal information | 
+You may stop or restrict the placement of cookies on your computer or flush them from your browser by adjusting your Web browser preferences, in which case you may still use our site, but it may interfere with some of its functionality. We do not use cookies to retrieve information from your computer for purposes other than as set forth in this Privacy Policy.
 
-Does Trilegiant Corporation share?
+Our systems do not respond to "do not track" signals. Further, other parties may collect certain personally identifiable information about your online activities over time and across different websites when you use the PrivacyGuard Website or service.
 
-| 
+**Internet Protocol (IP) Address**  
+We may use your IP address to help diagnose problems with our server and to administer our Website. Your IP address may also be used to help identify you and to gather demographic information. In addition, your IP address may be linked to your personally identifiable information while you are in the process of making a purchase and be retained by us with other information we collect and retain about you in connection with your PrivacyGuard membership.
 
-Can you limit this sharing?  
-  
----|---|---  
-**For our everyday business purposes** — such as to process your transactions, maintain your account(s), respond to court orders and legal investigations, or report to credit bureaus | 
+**Clickstream**  
+As you use the Internet, a trail of electronic information is left at each Website you visit. This information, which is sometimes referred to as "clickstream data," can be collected and stored by a Website's server. Clickstream data can tell us the type of computer and browsing software you use, the address of the Website from which you linked to the PrivacyGuard Website, and, in some instances, your email address. We may use clickstream data to determine how much time visitors spend on each page of our site, how visitors navigate throughout the site and how we may tailor our Web pages to better meet the needs of visitors. This information will only be used to improve the Trilegiant Websites. Any collection or use of clickstream data will be anonymous and aggregate, and will not contain any personal information.
 
-YES
+**Consent to Processing**  
+By providing any information to the PrivacyGuard Website, you fully understand and unambiguously consent to the collection and processing of such information in the United States.
 
-| 
+**Links to Other Sites**  
+The Trilegiant Websites may contain links to other sites. Other sites may also reference or link to the Trilegiant Websites. Trilegiant is not responsible for the privacy practices or the content of such other sites.
 
-NO  
-  
-**For our marketing purposes** — to offer our products and services to you | 
+**Treatment of Information of Former Members and Customers**  
+We will continue to follow our Privacy Policy for your personally identifiable information even when you are no longer a member or other customer of our business.
 
-YES
-
-| 
-
-NO  
-  
-For joint marketing with other financial companies | 
-
-YES
-
-| 
-
-NO  
-  
-**For our affiliates’ everyday business purposes** — information about your transactions and experiences | 
-
-YES
-
-| 
-
-NO  
-  
-**For our affiliates’ everyday business purposes** — information about your creditworthiness | 
-
-NO
-
-| 
-
-WE DO NOT SHARE   
-  
-For our affiliates to market to you | 
-
-NO
-
-| 
-
-WE DO NOT SHARE  
-  
-For nonaffiliates to market to you | 
-
-YES
-
-| 
-
-YES  
-  
-  
-**To limit our sharing** | • E-mail us at GLBPolicy@Trilegiant.com  
-• Write us at Trilegiant Corporation, P.O. Box 40383, Nashville, TN 37204 or  
-• Mail the form below  
-**Please note:**  
-If you are a _new_ customer, we can begin sharing your information 30 days from the date we sent this notice. When you are _no longer_ our customer, we continue to share your information as described in this notice.  
-However, you can contact us at any time to limit our sharing.  
----|---  
-  
-**Questions?** | Write us at: Trilegiant Corporation, P.O. Box 40383, Nashville, TN 37204 or e-mail us at GLBPolicy@Trilegiant.com.  
----|---  
-  
-Who we are   
----  
-**Who is providing  
-this notice?** | Trilegiant Corporation  
-What we do  
-**How does Trilegiant  
-Corporation protect my  
-personal information?** | To protect your personal information from unauthorized access and use, we use security measures  
-that comply with federal law. These measures include computer safeguards and secured files  
-and buildings.  
-**How does Trilegiant  
-Corporation collect my  
-personal information?** | We collect your personal information, for example, when you:  
-• Enroll in a service  
-• Use a service in which you are enrolled  
-We also collect your personal information from others, such as affiliates or other companies.  
-**Why can’t I limit  
-all sharing?** | Federal law gives you the right to limit only  
-• sharing for affiliates’ everyday business purposes— information about your creditworthiness  
-• affiliates from using your information to market to you  
-• sharing for nonaffiliates to market to you  
-State laws and individual companies may give you additional rights to limit sharing. **See below for more on your rights under state law.**  
-**What happens when I limit  
-sharing for an account I hold jointly with someone else?** | Your choices will apply to everyone who uses the services you are enrolled in.  
-Definitions  
-**Affiliates** | Companies related by common ownership or control. They can be financial and nonfinancial companies.  
-• Our affiliates may include insurance companies, service providers, marketing partners, data processors and advertisers.  
-**Nonaffiliates** | Companies not related by common ownership or control. They can be financial and nonfinancial companies.  
-• Nonaffiliates with which we share may include insurance companies, service providers, marketing partners, data processors and advertisers.  
-**Joint marketing** | A formal agreement between nonaffiliated financial companies that together market financial products or services to you.  
-• Our joint marketing partners include companies such as banks and insurance companies.  
-Other important information  
-**California Residents:** We will not share your personal information with nonaffiliated third parties that are not financial institutions except as required or permitted by California or federal law. In addition, you may request that we not share your personal information with nonaffiliated financial institutions with which we have joint marketing agreements, except as required or permitted by California or federal law.  
-**Vermont Residents:** We do not share your personal information with nonaffiliates, except as permitted by Vermont or federal law. We may share your name, contact information, and information about your transactions with us and our experience with you with nonaffiliated financial institutions with which we have joint marketing agreements. We may also share your personal information with your consent.  
-  
-**Mail-in Form Mail to:     Trilegiant Corporation, P.O. Box 40383, Nashville, TN 37204-03483**  
----  
-**Mark any/all you want to limit:**  
-❏ Do not share my personal information with nonaffiliates to market their products and services to me except as permitted by law.  
-❏ California Residents: Please don't share my personal information with nonaffiliated financial institutions with which you have joint marketing agreements, except as permitted by California or federal law.  
-Name  
-Address  
-City, State, Zip   
-Membership #   
-  
-**Give us a call**  
-1-800-374-8273 
-
-**Email:**  
-service@privacyguard.com 
+**Your Acceptance of this Policy**  
+By using this site, you signify your assent to our Privacy Policy. If you do not agree with the terms of this Privacy Policy, please do not use the PrivacyGuard Website. This Privacy Policy supersedes all privacy policies and other similar standards previously issues by us. This Privacy Policy is subject to updates and other changes from time to time. In the event of such changes, we will notify all of our members and customers of such changes in the manner and to the extent required by law. Your continued use of this site following the posting of changes to this Privacy Policy means you accept such changes.
