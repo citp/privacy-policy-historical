@@ -1,67 +1,76 @@
-> *The following text is extracted and transformed from the sciencemadesimple.com privacy policy that was archived on 2013-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131023012834id_/http%3A//www.sciencemadesimple.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sciencemadesimple.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630033326id_/http%3A//www.sciencemadesimple.com/privacy.html) for the most accurate reproduction.*
 
-# Science Made Simple Privacy Policy
+# Privacy Policy - Science Made Simple
 
-  
-1) **TO CONTACT US:**
+## Privacy Policy for Science Made Simple
 
-Our address is 
+This site is owned and operated by Science Made Simple, Inc. Your personal privacy and security are very importance to us, and we want to make sure you understand what kinds of information we collect and how we use it.
 
-    Science Made Simple, Inc. 
-    PO Box 503 
-    Voorhees, NJ 08043 
-    USA 
+### COPPA Compliance - Collecting Information from Children
 
-We can be reached via e-mail at [questions@sciencemadesimple.com](mailto:questions@sciencemadesimple.com)
+Consistent with the Federal Children's Online Privacy Protection Act of 1998 (COPPA), Science Made Simple, Inc. will never knowingly request or collect personally identifiable information from anyone under the age of 13 without requesting parental consent. 
 
-2) **INFORMATION WE COLLECT**
+### Information We Collect
 
-We collect only the following information from visitors to our web site: 
+We may collect personally identifiable information from you when you place an order, subscribe to our newsletter, fill out a contact form or contact us by e-mail. You may, however, visit our site anonymously without providing personal information.
 
-  * the domain name (but not the e-mail address) of each visitor, 
-  * the e-mail addresses of those who communicate with us via e-mail, and 
-  * aggregate information on what pages visitors view. 
+When placing an order, you will be asked to enter your name, e-mail address, mailing address, phone number and credit card information via a secure server. 
 
+### How We Use Your Information
 
+Information we collect from you may be used to process your order, e-mail your purchased subscription or articles to you, send you our free opt-in newsletter, improve our website and customer service, and personalize your experience.
 
-The information we collect from visitors or subscribers may be used: 
+Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
-  * to improve the content of our web pages, 
-  * to notify consumers about updates to our Web site, or 
-  * only by us to contact consumers for marketing purposes. 
+The e-mail address you provide for order processing may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
 
+The e-mail address you provide when requesting information or contacting us for any other reason, may be used to send you information regarding your request, in addition to receiving occasional company news, updates, related product or service information, etc.
 
+We will honor all e-mail unsubscribe requests. Detailed unsubscribe instructions can be found at the bottom of each e-mail, or use our [online contact form](http://www.sciencemadesimple.com/contactus.html) for removal requests. 
 
-The information we collect from subscribers or visitors to our web site is NOT shared with other organizations for any purpose whatsoever. 
+### Protecting Your Information
 
-We do not set any cookies. 
+We implement a variety of security measures to maintain the safety of your personal information when you place an order, or enter or submit your personal information. 
 
-3) **RECEIVING INFORMATION FROM US**
+We use a secure server to process your credit card order. All sensitive financial and credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our payment gateway provider's database. Access to this data is restricted, and the data is kept confidential. Your financial information is not stored on our servers. 
 
-If you do not want to receive e-mail from us in the future, please let us know by either sending an e-mail to questions@sciencemadesimple.com or writing to us at the above address. 
+### Use of Cookies
 
-If you supply us with your postal address you will only receive the information for which you provided us your address. 
+Cookies are small files that a site or its service provider transfers to your computer's hard drive through your web browser that enable the sites or service providers systems to recognize your browser and capture and remember certain information.
 
-When customers supply us with their telephone numbers on order forms, they will only receive telephone contact from us regarding any problems with orders they have placed. 
+We use cookies to help us remember and process the items in your shopping cart and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service providers to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business.
 
-4) **ADVERTISEMENTS**
+### Disclosing Information to Outside Parties
 
-To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of: Amazon.com, Commission Junction (cj.com), Valueclick (valueclick.com) and Verio (verio.com). 
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-5) **NEW USES OF INFORMATION**
+### Third Party Links and Advertisements
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically. 
+To provide you with information and offers that may be of interest to you, we have relationships with other companies that place advertisements or links on our web pages. As a result of your visit to our site, these companies may collect information such as your domain type, your IP address and clickstream information. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites. For further information, please consult the privacy policies of: Google.com, Amazon.com and Verio.com. 
 
-Customers may prevent their information from being used for purposes other than those for which it was originally collected by either sending an e-mail to questions@sciencemadesimple.com or writing to us at the above address. 
+Google, as a third party vendor, uses DART cookies to serve ads on our site, which enables Google to serve ads to you based on your visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google Ad and Content Network privacy policy page.
 
-6) **YOUR RIGHT TO INFORMATION**
+### Terms and Conditions
 
-Upon request we will provide customers and site visitors with copies of all information that we maintain about them, including transaction information (e.g., dates on which customers made purchases, amounts and types of purchases), communications that the consumer/visitor has directed to our site (e.g., e-mails, customer inquiries), and contact information (e.g., name, address, phone number). 
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.sciencemadesimple.com/termsofservice.html>
 
-Consumers can review this information, or have it corrected, by writing to us at the above address. 
+### Your Consent
 
-7) **SECURITY**
+By using our site, you consent to our online privacy policy as described on this page.
 
-We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. 
+### Changes to our Privacy Policy
 
-8) If you feel that this site is not following its stated information policy, please contact us at the above addresses. 
+If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. 
+
+This policy was last modified on 10/24/13.
+
+### Contacting Us
+
+If you have any questions regarding this privacy policy, or any other questions, you may contact us using the methods below:
+
+Online using our [contact form](http://www.sciencemadesimple.com/contactus.html)
+
+Or by mail at   
+Science Made Simple, Inc.   
+PO Box 503   
+Voorhees, NJ 08043
