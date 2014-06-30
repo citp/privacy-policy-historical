@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the koa.com privacy policy that was archived on 2013-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131106082757id_/http%3A//koa.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the koa.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630042114id_/http%3A//koa.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | KOA Campgrounds
 
@@ -15,7 +15,7 @@ Kampgrounds of America, Inc. (“we” or “us”) respects the importance of t
 
 
 
-By using, browsing, or accessing the Site, you agree to the terms of this Privacy Policy. Your visit to the Site and any dispute over privacy are subject to the [Terms of Use](https://web.archive.org/web/20131106082757id_/http://koa.com/privacy/terms-of-use), including limitations on damages and application of the law of the State of Montana, U.S.A. Use of this Site is strictly voluntary. **If you do not agree to the Privacy Policy and Terms of Use for the Site, you must immediately log off the Site and may not use it.**
+By using, browsing, or accessing the Site, you agree to the terms of this Privacy Policy. Your visit to the Site and any dispute over privacy are subject to the [Terms of Use](https://web.archive.org/web/20140630042114id_/http://koa.com/privacy/terms-of-use), including limitations on damages and application of the law of the State of Montana, U.S.A. Use of this Site is strictly voluntary. **If you do not agree to the Privacy Policy and Terms of Use for the Site, you must immediately log off the Site and may not use it.**
 
 #### Territories
 
@@ -98,4 +98,4 @@ _Individual Access._ Upon your request, we will disclose to you whether we have 
 
 _Amendments to Our Privacy Policy._ We may revise this Privacy Policy from time to time as set forth under the heading “Changes to Privacy Policy.” Complaints. If you have a complaint concerning our collection or use of your Personal Information, please contact the Kampgrounds of America, Inc., Attn: Chief Privacy Officer, TWIII Building, 4th Floor, Billings, MT 59101 U.S.A., or by e-mail at [questions@koa.net](mailto:questions@koa.net). We will attempt to respond to and resolve those complaints to your satisfaction.
 
-[Digital Millennium Copyright Act (DMCA) / Copyright Policy](https://web.archive.org/web/20131106082757id_/http://koa.com/privacy/digital-copyright)
+[Digital Millennium Copyright Act (DMCA) / Copyright Policy](https://web.archive.org/web/20140630042114id_/http://koa.com/privacy/digital-copyright)
