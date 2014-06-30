@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the businessweek.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231224411id_/http%3A//www.businessweek.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessweek.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630134048id_/http%3A//www.businessweek.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Businessweek
 
-**Last Updated:** November 18, 2013 
+**Last Updated:** May 13, 2014 
 
 Bloomberg L.P. ("BLP") respects the privacy rights of our users and is strongly committed to protecting your privacy. This Privacy Policy applies to this Web site, any newsletters subscribed to via this Web site, information collected and provided to BLP when you subscribe to the digital edition of Bloomberg Businessweek at third-party websites and applications, and information collected offline when you subscribe to the print edition of Bloomberg Businessweek, but does not apply to any other products or services or to information collected in any other way (whether offline or online) by BLP, its general and limited partners, and its subsidiaries, and their respective general partners and affiliates (collectively "Bloomberg"), unless expressly indicated by Bloomberg (such as by including a link to this Privacy Policy on other Bloomberg websites or on Bloomberg mobile applications).
 
@@ -25,6 +25,23 @@ Most browsers are set to accept cookies by default. If you prefer, you can usual
 BLP, its designated service providers, or third-party advertisers or their advertising servers may also place or recognize unique cookies on your computer or use other electronic tools in order to help display advertisements that you see on this Web site or on other websites. Information about your visits to, and activity on, this Web site and other websites, an IP address, the number of times you have viewed an advertisement, and other such usage information is used, alone or in combination with other information, to display on your device screen advertisements that may be of particular interest to you. We may use Web beacons, provided by third-party advertising companies, to help manage and optimize our online advertising and product performance. Web beacons enable us to recognize a browser's cookie when a browser visits this Web site, and to learn which banner ads bring users to this Web site. The use and collection of your information by these third-party service providers, and third-party advertisers and their advertising servers is not covered by this Privacy Policy. For information about online behavioral advertising networks and how to "opt out" of advertising cookies placed by the Network Advertising Initiative's ("NAI") member networks, please click [here](http://www.networkadvertising.org/managing/opt_out.asp). Note that even if you opt out of cookies placed by the NAI member networks, you will still receive online advertising.
 
 BLP's designated service providers assist BLP with advertisement display functions and related analytics for this Web site. For a list of these designated service providers and more information about their anonymous information collection and use practices, please click [here](https://login.bloomberg.com/ad_sp).
+
+“Sponsor Content” consists of: (i) all paid-for content created by the Bloomberg L.P. (“Bloomberg”) custom content team (“Bloomberg Custom Content”) in collaboration with advertisers, and served by or appears in any Bloomberg medium and (ii) paid-for content supplied by advertisers that is served by or appears in any Bloomberg medium. The foregoing categories include any paid-for content purchased under the AAAA/IAB Standard Terms and Conditions.
+
+## Standards and Procedures for Sponsor Content
+
+In addition to the general advertising guidelines established by Bloomberg, the standards listed below apply to Sponsor Content. 
+
+  * All Sponsor Content must be approved in advance and in writing by a Bloomberg Custom Content editor before it appears on any Bloomberg medium. 
+  * Sponsor Content is neither produced by nor contributed to by any editorial team member of any Bloomberg medium, nor does it necessarily reflect the views of the editors of any Bloomberg medium. A disclaimer similar to the following will be included with all Sponsor Content: “A sponsor paid for the creation and placement of the content on this page. No editorial member of any Bloomberg medium contributed to any part of its creation, and it does not necessarily reflect the editorial views of Bloomberg L.P. or any of its affiliated entities.” 
+  * Bloomberg may, in its sole discretion, include a more detailed disclaimer with certain Sponsor Content.
+  * The form, function and placement of Sponsor Content will be consistent with the look, feel, and general layout of the Bloomberg medium in which it appears. 
+  * All Sponsor Content will be appropriately labeled and distinguished from editorial content. 
+  * Bloomberg may, in its sole discretion, allow the use of a Bloomberg Custom Content logo to be used in Sponsor Content. The design and placement of such logo will be at the discretion of Bloomberg, and any and all such uses shall be subject to Bloomberg’s prior written approval. 
+  * Where Sponsor Content allows user participation, the moderation and functionality of this element will be determined and implemented solely by Bloomberg and will be subject to the general Terms of Service for the applicable Bloomberg medium. 
+  * Bloomberg reserves the right to refuse or remove any Sponsor Content that in any way: (i) disparages, defames or discredits Bloomberg or its products or services or otherwise reflects adversely on Bloomberg’s brand or (ii) is false, misleading, deceptive or illegal.
+
+
 
 ## Disclosure of Personal Information and Other Information
 
