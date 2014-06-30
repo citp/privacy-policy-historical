@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esf.edu.hk privacy policy that was archived on 2013-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131215113228id_/http%3A//www.esf.edu.hk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esf.edu.hk privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630132715id_/http%3A//www.esf.edu.hk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | English Schools Foundation
 
