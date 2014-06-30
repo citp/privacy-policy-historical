@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogger-hints-and-tips.blogspot.com privacy policy that was archived on 2013-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131028214147id_/http%3A//blogger-hints-and-tips.blogspot.com/2009/12/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogger-hints-and-tips.blogspot.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630112655id_/http%3A//blogger-hints-and-tips.blogspot.com/2009/12/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Blogger-Hints-and-Tips
 
