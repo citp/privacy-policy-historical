@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asapmarkets.com privacy policy that was archived on 2013-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131021065623id_/http%3A//www.asapmarkets.com/privacy/lang-en) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asapmarkets.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630220220id_/http%3A//www.asapmarkets.com/privacy/lang-en) for the most accurate reproduction.*
 
 # Asap Markets
 
@@ -54,6 +54,8 @@ Asapmarkets assures you that we will use your e-mail address with your express c
 When there are changes to the Data Protection Guidelines, we Asapmarkets may apply them without notice. In case of this Policy usage by the Asapmarkets User, the accepted version of this Policy during the registration shall be considered legally appliable. 
 
 
+
+### GUARANTEE PAYMENTS
 
 ### HOW DOES 7TH HEAVEN FUNCTION
 
