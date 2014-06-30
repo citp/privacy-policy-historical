@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the studentdoctor.net privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230103411id_/http%3A//studentdoctor.net/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studentdoctor.net privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630163947id_/http%3A//www.studentdoctor.net/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
-[](http://www.truste.org/ivalidate.php?url=www.studentdoctor.net&sealid=101)
+[](https://privacy.truste.com/privacy-seal/Coastal-Research-Group/validation?rid=8c36aa89-d7af-400a-8984-7fcf618d7e97 "TRUSTe online privacy certification")
 
 **Privacy Statement**
 
-**Last Updated 01/11/2011**
+**Last Updated 10 February 2014**
 
-Coastal Research Group has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information.  The TRUSTe program does not cover information that may be collected through downloadable software.   TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact the SDN Executive Director, Lee Burnett at <http://studentdoctor.net/contact-us/>.  If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+Coastal Research Group (“The Student Doctor Network” or “SDN”) has been awarded TRUSTe’s Privacy Seal signifying that this privacy statement and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personally identifiable information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site, http://www.studentdoctor.net. TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy statement or practices, please contact the SDN Director, Lee Burnett at <http://studentdoctor.net/contact-us/>. If you are not satisfied with our response you can [contact TRUSTe here](http://privacy.truste.com/privacy-seal/Coastal-Research-Group/validation?rid=8c36aa89-d7af-400a-8984-7fcf618d7e97).
 
-The Coastal Research Group is the sole owner of the information collected on The Student Doctor Network. The Student Doctor Network collects personally identifiable information from our users at several different points on our Web site.
+The Coastal Research Group is the sole owner of the information collected on The Student Doctor Network. This privacy statement describes how Coastal Research Group collects and uses the personally identifiable information you provide on our web site: http://www.studentdoctor.net. The Student Doctor Network collects personally identifiable information from our users at several different points on our Web site.
 
 **Registration**
 
@@ -22,9 +22,13 @@ Protecting the privacy of young children is important to us. We do not knowingly
 
 **SDN Bookstore**
 
-When you choose to purchase products or view our SDN Bookstore, you will be taken to www.amazon.com. We are a member of their affiliate program. All information collected on this site is governed by Amazon.com’s privacy statement:
-
+When you choose to purchase products or view our SDN Bookstore, you will be taken to www.amazon.com. We are a member of their affiliate program. All information collected on this site is governed by Amazon.com’s privacy statement:  
 <http://www.amazon.com/gp/help/customer/display.html?nodeId=468496>
+
+**SDN Career Center**
+
+When you choose to visit or search for positions on the SDN Career Center, you will be taken to www.careerbuilder.com. We are a member of their affiliate program. All information collected on this site is governed by CareerBuilder.com’s privacy statement:  
+<http://www.careerbuilder.com/JobSeeker/Info/Privacy.aspx>
 
 **Tell-A-Friend**
 
@@ -32,7 +36,7 @@ If you choose to use our referral service to tell a friend about our site, we wi
 
 **Uses of Information**
 
-We use the personal information you supply us, including your registration data, to enhance our services; fulfill your requests for products, programs, or services; and personalize your experience. We also use other information obtained from user site traffic patterns to better provide you with a personalized experience.
+We use the personally identifiable information you supply us, including your registration data, to enhance our services; fulfill your requests for products, programs, or services; and personalize your experience. We also use other information obtained from user site traffic patterns to better provide you with a personalized experience.
 
 The Student Doctor Network uses the information described above to do, among other things, the following:
 
@@ -41,7 +45,7 @@ The Student Doctor Network uses the information described above to do, among oth
 
 
 
-Information that you provide while using products such as SDN Forums and SDN Chat is available for all to see. Discretion should be used in entering Personally Identifiable Information within such forums, as it may be collected by third parties. The Coastal Research Group does not actively associate the message content entered by our users in SDN Forums, or SDN Chat with those users’ registration information. Our server computers will retain this information. It is available for distribution to law-enforcement agencies acting under subpoena power. See “Legal Disclaimer” below.
+Information that you provide while using products such as SDN Forums and SDN Chat is available for all to see. Discretion should be used in entering Personally Identifiable Information within such forums, as it may be collected by third parties. The Coastal Research Group does not actively associate the message content entered by our users in SDN Forums with those users’ registration information. Our server computers will retain this information. It is available for distribution to law-enforcement agencies acting under subpoena power. See “Legal Disclaimer” below.
 
 **Communications from the Site**
 
@@ -52,7 +56,7 @@ We will occasionally send you email messages from the SDN Forums. We only send i
 **Choice/Opt-Out**
 
 You may indicate when you register whether or not you would like to receive messages from our Web Administrator as described above.  
-To opt-out of SDN Forum messages, please edit your messaging and notification options at: <http://forums.studentdoctor.net/profile.php?do=editoptions>  
+To opt-out of SDN Forum messages, please edit your messaging and notification options at: <http://forums.studentdoctor.net/account/contact-details>  
 Contact us at <http://studentdoctor.net/contact-us/> should you have any trouble administering your account.
 
 **Service-related Announcements**
@@ -77,7 +81,7 @@ We share aggregated demographic information about our user base with our adverti
 
 **Sharing of Information with SDN Partners or Affiliates**
 
-You have the option to opt-in to receive email from SDN partners or affiliates.  If you choose this option, we may share your email address with those organizations.  We will put in place reasonable restrictions to maintain proper use of your personal information by such providers.
+You have the option to opt-in to receive email from SDN partners or affiliates. If you choose this option, we may share your email address with those organizations. We will put in place reasonable restrictions to maintain proper use of your personally identifiable information by such providers.
 
 **Personally identifiable information**
 
@@ -101,7 +105,7 @@ We do link this automatically-collected data to personally identifiable informat
 
 **Cookies**
 
-A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We do link the information we store in cookies to personally identifiable information you submit while on our site. We do this to allow you to remain logged-in while using the SDN Forums, Wiki, Classifieds and My SDN Space.
+A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We do link the information we store in cookies to personally identifiable information you submit while on our site. We do this to allow you to remain logged-in while using the SDN Forums and other areas of the SDN site.
 
 We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s “help” file.
 
@@ -119,14 +123,15 @@ To learn more about Google’s use of clear gifs, please go to [www.google.com](
 
 **Third Party Advertisers**
 
-Some of the ads appearing on this Web site are delivered to users by Google, our advertising partner.  Google may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
+Some of the ads appearing on this Web site are delivered to users by Google, our advertising partner. Google may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://preferences-mgr.truste.com/) or you may also [opt-out by clicking here](http://preferences-mgr.truste.com/).
 
-**L** **inks to Other Sites**
+**Links to Other Sites**
 
-This Web site contains links to other sites that are not owned or controlled by The Coastal Research Group such as Amazon.com and PayPal.com. Please be aware that we, The Coastal Research Group, are not responsible for the privacy practices of such other sites.  
+This Web site contains links to other sites that are not owned or controlled by The Coastal Research Group such as Amazon.com and PayPal.com. Please be aware that we, The Coastal Research Group, are not responsible for the privacy practices of such other sites.
+
 We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information.
 
-Links from this site are monetized through [VigLink.com](http://www.viglink.com/policies/ftc).  VigLink may receive and store certain personally non-identifiable information such as IP addresses, browser types, domain names, and other anonymous statistical data involving your use of the Site, the Software and/or the Services.  To opt-out, go to: <http://www.viglink.com/support/optout>
+Links from this site are monetized through [skimlinks.com](http://skimlinks.com/). Skimlinks may receive and store certain personally non-identifiable information such as IP addresses, browser types, domain names, and other anonymous statistical data involving your use of the Site, the Software and/or the Services. To opt-out, go to: <http://skimlinks.com/privacy-policy>
 
 This privacy statement applies only to information collected by this Web site.
 
@@ -138,30 +143,38 @@ If you use the SDN Forums or SDN chat room on this site, you should be aware tha
 
 If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by making the change on our member information page or by contacting us through our contact form.
 
+**Data Retention**
+
+We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+**Social Media Widgets**
+
+Our Web site includes Social Media Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy statement of the company providing it.
+
 **Security**
 
-The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+The security of your personally identifiable information is important to us. We follow generally accepted industry standards to protect the personally identifiable information submitted to us. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personally identifiable information, we cannot guarantee its absolute security.
 
-If you have any questions about security on our Web site, you can contact us through our contact form.
+If you have any questions about security on our Web site, you can contact us through our [contact form](https://help.studentdoctor.net/).
 
 **Business Transitions**
 
-In the event The Coastal Research Group goes through a business transition, such as a merger, acquisition by another organization, or distribution of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. You will be notified via prominent notice on our Web site for 30 days of any such change in ownership or control of your personal information.
+In the event The Coastal Research Group goes through a business transition, such as a merger, acquisition by another organization, or distribution of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. You will be notified via prominent notice on our Web site for 30 days of any such change in ownership or control of your personally identifiable information.
 
 **Changes in this Privacy Statement**
 
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+If we decide to change our privacy statement, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
-We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
+We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this statement, we will notify you here, by email, or by means of a notice on our home page prior to the change becoming effective.
 
 **Contact Us**
 
-If you have any questions or suggestions regarding our privacy policy, please contact us at:
+If you have any questions or suggestions regarding our privacy statement, please contact us at:
 
 Student Doctor Network  
-26 Pinecrest Plaza #262  
-Southern Pines, NC 28387
+PO Box 2355  
+Granite Bay, CA 95746
 
-Or use our contact form at: [](http://studentdoctor.net/contact-us/)
+Or use our contact form at:
 
-<http://studentdoctor.net/contact-us/>
+<https://help.studentdoctor.net/contact-us/>
