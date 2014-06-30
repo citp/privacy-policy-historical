@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the steamgames.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231040258id_/http%3A//store.steampowered.com/privacy_agreement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steamgames.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630163906id_/http%3A//store.steampowered.com/privacy_agreement) for the most accurate reproduction.*
 
-# Gizlilik Politikası Antlaşması
+# Угода політики конфіденційності
 
 Valve® Corporation and Valve S.A.R.L (collectively, “Valve”) respect the privacy of its online visitors and users of its products and services. Valve recognizes the importance of protecting information collected from users and has adopted this privacy policy to inform users about how Valve gathers, stores, and uses information derived from their use of Valve products, services and online sites. 
 
