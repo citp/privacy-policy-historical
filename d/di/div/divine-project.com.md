@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the divine-project.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806194933id_/http%3A//www.divine-project.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the divine-project.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630134046id_/http%3A//www.divine-project.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Divine Elemente - PSD to WordPress Theme Software
 
 www.divine-project.com has created this privacy policy to demonstrate our commitment to the privacy of the users of our websites. Please read the following to learn more about our privacy policy, and how we treat personally identifiable information collected from our visitors and users.
 
