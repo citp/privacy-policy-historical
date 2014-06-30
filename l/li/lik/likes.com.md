@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the likes.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231215631id_/https%3A//likes.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the likes.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630210021id_/https%3A//likes.com/content/privacy) for the most accurate reproduction.*
 
 # Likes.com
 
@@ -12,7 +12,7 @@ This privacy policy applies to www.likes.com (“Likes”) owned and operated by
 
 MyLikes, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's [program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through this website, [www.likes.com](http://likes.com/).
 
-TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [help@likes.com](mailto:help@likes.com). If you are not satisfied with our response you can contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request).
+TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please [contact us](https://likes.com/content/contact_form). If you are not satisfied with our response you can contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request).
 
 #### INFORMATION AND COLLECTION OF USE
 
@@ -56,15 +56,15 @@ This Policy only applies to the Likes website and services. We do not exercise c
 
 #### DATA INTEGRITY
 
-We processes personal information only for the purposes for which it was collected and in accordance with this policy. We review our data collection, storage and processing practices to ensure that we only collect, store and process the personal information needed to provide or improve our services. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary. Users can update, correct or delete their personal information through the profile page of their account or by emailing us at [help@likes.com](mailto:help@likes.com).
+We processes personal information only for the purposes for which it was collected and in accordance with this policy. We review our data collection, storage and processing practices to ensure that we only collect, store and process the personal information needed to provide or improve our services. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary. Users can update, correct or delete their personal information through the profile page of their account or by [contacting us](https://likes.com/content/contact_form).
 
 We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-We send out promotional or marketing email to you. Out of respect for your privacy, you may choose to stop receiving these emails by following the unsubscribe instructions included in these emails, accessing the email preferences in your account settings page or you can contact us at [help@likes.com](mailto:help@likes.com).
+We send out promotional or marketing email to you. Out of respect for your privacy, you may choose to stop receiving these emails by following the unsubscribe instructions included in these emails, accessing the email preferences in your account settings page or you can [contact us](https://likes.com/content/contact_form).
 
 #### BLOG / FORUM
 
-Our website offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [help@likes.com](mailto:help@likes.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+Our website offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, [contact us](https://likes.com/content/contact_form). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 #### SOCIAL MEDIA WIDGETS
 
@@ -87,4 +87,4 @@ My Likes, Inc.
 San Francisco, CA  
 94103
 
-Email us: help@likes.com
+[Email us](https://likes.com/content/contact_form)
