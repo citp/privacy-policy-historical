@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the fosshub.com privacy policy that was archived on 2013-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131102230341id_/http%3A//www.fosshub.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fosshub.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630223813id_/http%3A//www.fosshub.com/privacy.html) for the most accurate reproduction.*
 
 # FossHub
+
+  1. [Home](https://web.archive.org/)
+  2. Privacy Policy
+
+
 
 Dear visitor, please read our Privacy Policy
 
