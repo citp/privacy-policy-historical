@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the babycenter.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231221527id_/http%3A//www.babycenter.com/help-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babycenter.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630213549id_/http%3A//www.babycenter.com/help-privacy) for the most accurate reproduction.*
 
-# About Us - Privacy Policy - Main | BabyCenter
+# BabyCenter Privacy Policy | BabyCenter
 
 [About BabyCenter](https://web.archive.org/help-about-company) | [Advisory Board](https://web.archive.org/prkit-advisoryboard) | [Awards](https://web.archive.org/prkit-awards) | [Contact Us](https://web.archive.org/help-contactus) | [In the News](https://web.archive.org/in-the-news) | [Jobs  
 ](https://web.archive.org/help-aboutus-jobs)[Management Team](https://web.archive.org/management-team) | [Mission Statement](https://web.archive.org/babycenter-mission-statement) | [Press Releases](https://web.archive.org/prkit-pressreleases) | [Privacy Policy](https://web.archive.org/help-privacy)  
 [Terms of Use](https://web.archive.org/help-aboutus-terms) | [Terms of Use - Supplemental](https://web.archive.org/babycenter-classes-terms-of-use)
 
-_Last Updated on June 28, 2012_
+_Last updated on May 9, 2014_
 
 #### Introduction and Scope
 
@@ -21,6 +21,8 @@ The Sites are not intended for children under the age of 13. We do not knowingly
 You actively send information to us when you sign up with us a member on a Site, participate in surveys or promotions, post opinions on our bulletin boards, respond to us or otherwise contact us. Depending on your choices, you may send us personally identifiable information such as your email address, name, mailing address, phone number, birthday, and gender; password; baby due date/birthday, name and gender. But, you can also use certain features of our Sites without telling us your name and if you do not tell us who you are, we do not try to find out.
 
 We also track information about how you use our Site through cookies, Internet tags or web beacons, and [navigational data collection](https://web.archive.org/help-privacy-1) (log files, server logs, clickstream). For example, your Internet browser automatically transmits to us information such as the URL of the website you just came from and the Internet Protocol (IP) address and the browser version your computer is currently using.
+
+Web browser Do Not Track (DNT) settings are not enabled on BabyCenter. By default, you will receive a personalized experience while browsing our website.
 
 To accomplish some of the foregoing data processing, we utilize independent contractors. [Read about examples](https://web.archive.org/help-privacy-3) of some of our contractors and how we work with them.
 
@@ -69,7 +71,7 @@ You may [modify your communication preferences and/or opt-out](http://www.babyce
 
 #### Changes to This Privacy Policy
 
-This Privacy Policy was last updated on June 28, 2012. We reserve the right to amend it from time to time and if we change it materially, we will post a revised version on the Sites. Please check back periodically, and especially before you provide any personally identifiable information to us.
+This Privacy Policy was last updated on May 9, 2014. We reserve the right to amend it from time to time and if we change it materially, we will post a revised version on the Sites. Please check back periodically, and especially before you provide any personally identifiable information to us.
 
 #### Terms of Use
 
