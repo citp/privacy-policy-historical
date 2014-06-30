@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the peakpotentials.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207163733id_/http%3A//www.peakpotentials.com/terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peakpotentials.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630051144id_/http%3A//www.peakpotentials.com/terms/privacy-policy) for the most accurate reproduction.*
 
-# Peak Potentials
+# Peak Potentials – Privacy Policy
 
 Your privacy is very important to us. We want to make your experience on the Internet as enjoyable and rewarding as possible, and we want you to use the Internet’s vast array of information, tools, and opportunities with complete confidence.
 
