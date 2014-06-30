@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the mlbtraderumors.com privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125121307id_/http%3A//www.mlbtraderumors.com/2007/08/mlbtraderumorsc.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlbtraderumors.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630023352id_/http%3A//www.mlbtraderumors.com/2007/08/mlbtraderumorsc.html) for the most accurate reproduction.*
 
-# MLBTradeRumors.com Privacy Policy: MLB Rumors - MLBTradeRumors.com
-
-[« Livan Hernandez Hopes To Pitch With El Duque](http://www.mlbtraderumors.com/2007/08/livan-hernandez.html) | [Main](http://www.mlbtraderumors.com/) | [Odds and Ends »](http://www.mlbtraderumors.com/2007/09/odds-and-ends-3.html)
+# MLBTradeRumors.com Privacy Policy – MLB Trade Rumors
 
 This is a **Dierkes Information Services, Inc.**  website.
 
@@ -10,7 +8,7 @@ Our postal address is
 **P.O. Box 396  
 Glen Ellyn, IL 60138**
 
-We can be reached via e-mail [via the site's contact form](http://www.mlbtraderumors.com/contact.html) or at mlbtrhelp@gmail.com.
+We can be reached via e-mail [via the site's contact form](https://web.archive.org/contact.html) or at mlbtrhelp@gmail.com.
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
 
@@ -27,10 +25,3 @@ With respect to Ad Servers: To try and bring you offers that are of interest to 
 <http://www.exponential.com/who-we-are/privacy-policy.jsp>
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses.
-
-* * *
-
-TrackBack URL for this entry:  
-http://www.typepad.com/services/trackback/6a00d834515b9a69e200e5514be5d38834
-
-Listed below are links to weblogs that reference [MLBTradeRumors.com Privacy Policy](http://www.mlbtraderumors.com/2007/08/mlbtraderumorsc.html):
