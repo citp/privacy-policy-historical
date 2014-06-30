@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ymbproperties.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231021911id_/http%3A//ymbproperties.com/privacy-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ymbproperties.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630205345id_/http%3A//ymbproperties.com/privacy) for the most accurate reproduction.*
 
-# YMB PROPERTIES » Privacy and Cookie Policy
+# privacy — YMB PROPERTIES
 
   1. **Introduction**
 
@@ -34,7 +34,7 @@ It does not apply to information collected by:
 
   1. By which you may be personally identified.
   2. Regarding user preferences, internet connection, operating system, browser, equipment you use to access the Site, etc.
-  3. Financial account information (such as your PayPal and credit card information), as needed to process payments.
+  3. Financial account information (such as your PayPal and credit card information), as needed to process payments.
 
 
 
@@ -93,21 +93,27 @@ We may also disclose your personal information:
   3. If we believe disclosure is necessary or appropriate to protect the rights, property, or safety of the Site, our customers or others.
 
 
+  1. **This website uses Google AdWords**
+
+This website uses the Google AdWords remarketing service to advertise on third party websites (including Google) to previous visitors to our site. It could mean that we advertise to previous visitors who haven’t completed a task on our site, for example using the contact form to make an enquiry. This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network. Third-party vendors, including Google, use cookies to serve ads based on someone’s past visits to the website. Of course, any data collected will be used in accordance with our own privacy policy and Google’s privacy policy. You can set preferences for how Google advertises to you using the [Google Ad Preferences page](http://www.google.com/settings/ads/onweb/), and if you want to you can [opt out of interest-based advertising entirely by cookie settings](http://www.google.com/settings/ads/onweb/) or [permanently using a browser plugin](http://www.google.com/ads/preferences/html/intl/en/plugin/). 
+
+
+
   1. **Accessing and Correcting Your Information**
 
 
 
-You may send us an e-mail at sales@ymbproperties.com to request access to, correct or delete any personal information that you have provided to us. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect.
+You may send us an e-mail at sales@ymbproperties.com to request access to, correct or delete any personal information that you have provided to us. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect. 
 
-  1. **Cookie Policy  **
+  1. **Cookie Policy**
 
 
   1. Cookies are small text files which a website may put on your computer or mobile device when you first visit a site or page. The cookie will help our Site, or another website, to recognise your device the next time you visit. For example, cookies can help us to remember your username and preferences, analyse how well our website is performing, or even allow us to recommend content we believe will be most relevant to you.
   2. We may use cookies for the following reasons and purposes: 
-    1. _To provide the service you have asked for_. Some cookies are essential so you can navigate through the website and use its features. Without these cookies, we would not be able to provide the services you’ve requested. For example, some cookies allow us to identify subscribers and ensure they can access the subscription only pages. If a subscriber opts to disable these cookies, the user will not be able to access all of the content that a subscription entitles them to. These cookies don’t gather information about you that could be used for marketing or remembering where you’ve been on the internet. Essential cookies keep you logged in during your visit, ensure that when you add something to the online shopping basket, it’s still there when you get to the checkout and make it possible to navigate through the website smoothly (session cookies).
+    1. _To provide the service you have asked for_. Some cookies are essential so you can navigate through the website and use its features. Without these cookies, we would not be able to provide the services you’ve requested. For example, some cookies allow us to identify subscribers and ensure they can access the subscription only pages. If a subscriber opts to disable these cookies, the user will not be able to access all of the content that a subscription entitles them to. These cookies don’t gather information about you that could be used for marketing or remembering where you’ve been on the internet. Essential cookies keep you logged in during your visit, ensure that when you add something to the online shopping basket, it’s still there when you get to the checkout and make it possible to navigate through the website smoothly (session cookies).
     2. _To improve your browsing experience_. These cookies allow the website to remember choices you make, such as your language or region and they provide improved features. These cookies will help remembering your preferences and settings, including marketing preferences, remembering if you’ve filled in certain forms, so you’re not asked to do it again, remembering if you’ve been to the site before and restricting the number of times you’re shown a particular advertisement. We might also use these cookies to highlight site services that we think will be of interest to you based on your usage of the website.
     3. _Analytics_. To improve your experience on our Site, we like to keep track of what pages and links are popular and which ones don’t get used so much to help us keep our sites relevant and up to date. It’s also very useful to be able to identify trends of how people navigate (find their way through) our sites and if they get error messages from web pages. This group of cookies, often called “analytics cookies” are used to gather this information. These cookies don’t collect information that identifies you. The information collected is anonymous and is grouped with the information from everyone else’s cookies. We can then see the overall patterns of usage rather than any one person’s activity. Analytics cookies only record activity on the site you are on and they are only used to improve how a website works.
-    4. _To show advertising that is relevant to your interests_. We sell space on our Site to advertisers. The resulting adverts often contain cookies. These cookies are used to deliver adverts more relevant to you and your interests. They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign. They are usually placed by advertising networks with our permission. They remember that you have visited a website and this information is shared with other organisations such as advertisers. Quite often targeting or advertising cookies will be linked to site functionality provided by the other organisation. _Our emails may contain a single, campaign-unique “web beacon pixel”_ to tell us whether our emails are opened and verify any clicks through to links or advertisements within the email. We may use this information for purposes including determining which of our emails are more interesting to users, to query whether users who do not open our emails wish to continue receiving them and to inform our advertisers in aggregate how many users have clicked on their advertisements. The pixel will be deleted when you delete the email. If you do not wish the pixel to be downloaded to your device, you should select to receive emails from us in plain text rather than HTML.
+    4. _To show advertising that is relevant to your interests_. We sell space on our Site to advertisers. The resulting adverts often contain cookies. These cookies are used to deliver adverts more relevant to you and your interests. They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign. They are usually placed by advertising networks with our permission. They remember that you have visited a website and this information is shared with other organisations such as advertisers. Quite often targeting or advertising cookies will be linked to site functionality provided by the other organisation.  _Our emails may contain a single, campaign-unique “web beacon pixel”_  to tell us whether our emails are opened and verify any clicks through to links or advertisements within the email. We may use this information for purposes including determining which of our emails are more interesting to users, to query whether users who do not open our emails wish to continue receiving them and to inform our advertisers in aggregate how many users have clicked on their advertisements. The pixel will be deleted when you delete the email. If you do not wish the pixel to be downloaded to your device, you should select to receive emails from us in plain text rather than HTML.
   3. Most browsers allow you to turn off cookies. To do this look at the “help” menu on your browser. Switching off cookies may restrict your use of the website and/or delay or affect the way in which it operates.
 
 
@@ -122,7 +128,7 @@ You may send us an e-mail at sales@ymbproperties.com to request access to, corre
 
 
 
-It is our policy to post any changes we make to our Privacy and Cookie Policy on this page. You are responsible for periodically visiting our Site and this Privacy and Cookie Policy to check for any changes.
+It is our policy to post any changes we make to our Privacy and Cookie Policy on this page. You are responsible for periodically visiting our Site and this Privacy and Cookie Policy to check for any changes. 
 
   1. **Contact Information**
 
@@ -130,4 +136,4 @@ It is our policy to post any changes we make to our Privacy and Cookie Policy on
 
 To ask questions or comment about this Privacy and Cookie Policy and our privacy practices, contact us at:
 
-sales@ymbproperties.com
+support@ymbproperties.com
