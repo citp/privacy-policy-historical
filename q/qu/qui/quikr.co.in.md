@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quikr.co.in privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501150404id_/http%3A//www.quikr.com/html/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quikr.co.in privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630152922id_/http%3A//www.quikr.com/html/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy Quikr
 
@@ -26,7 +26,10 @@ This privacy policy describes how we handle your personal information. We collec
 • We may also share personal information with:  
     \- Corporate affiliates who help detect or prevent potentially illegal acts and provide joint services (Our corporate affiliates will market  
      only to users who ask them to).  
-    \- Service providers who help with our business operations.
+    \- Service providers who help with our business operations.  
+• Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to the website.   
+• Google's use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.   
+• Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/). 
 
 **Using Information from Quikr.** You may use personal information gathered from Quikr only to follow up with another user about a specific posting, not to send spam/ phising or collect personal information from someone who hasn't agreed to that.
 
