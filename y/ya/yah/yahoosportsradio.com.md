@@ -1,73 +1,120 @@
-> *The following text is extracted and transformed from the yahoosportsradio.com privacy policy that was archived on 2013-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131122011748id_/http%3A//www.yahoosportsradio.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yahoosportsradio.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630224856id_/http%3A//info.yahoo.com/privacy/us/yahoo) for the most accurate reproduction.*
 
-# Privacy Policy | Yahoo Sports Radio
+# Yahoo Privacy Policy
 
-This is the Privacy Policy for the United States of America which applies to you if you live outside the European Union or Canada.
+## WHAT THIS PRIVACY POLICY COVERS
 
-Thank you for visiting YahooSportsRadio.com, a Gow Broadcasting site.
+### Yahoo takes your privacy seriously. Please read the following to learn more about our privacy policy.
 
-Your privacy is important to us. To better protect your privacy, we provide this notice explaining our information practices and the choices you can make about the way your information is collected and used by Gow Broadcasting.
+The federal government and technology industry have developed [practical tips](http://onguardonline.gov/) to help you guard against Internet fraud, secure your computer and protect your personal information. 
 
-**The Information We Collect**
+### How Yahoo Uses Your Personal Information
 
-Through Gow Broadcasting websites, and other media, you may be able to order products, enter contests, vote in polls or otherwise express an opinion, subscribe to one of our existing or future audio or text services such as our online newsletters, or participate in one of our online forums or communities.
+This policy covers how Yahoo treats personal information that Yahoo collects and receives, including information related to your past use of Yahoo products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available.
 
-You are able to access much of our text and audio content without providing any personally identifiable information. Sometimes, however, we do need your personally identifiable information to provide you with the products and services that you may request.
+### This privacy policy only applies to Yahoo
 
-The types of personally identifiable information that may be collected at these pages and elsewhere include, but are not limited to: name, address, e-mail address, telephone number, fax number, credit card information, and information about your interests in and use of various products, programs, and services.
+This policy does not apply to the practices of companies that Yahoo does not own or control, or to people that Yahoo does not employ or manage. In addition, some companies that Yahoo has acquired have their own, preexisting privacy policies which may be viewed on our [acquired companies page](https://info.yahoo.com/privacy/us/yahoo/acquiredcompanies/).
 
-At some Gow Broadcasting sites and through certain promotions, you can submit information about other people. For example, you might submit a person’s name and e-mail address to send an electronic greeting card and, if you order a gift online or offline and want it sent directly to the recipient, you might submit the recipient’s name and address. The types of personally identifiable information that may be collected about  
-other people at these pages include: recipient’s name, address, e-mail address, and telephone number.
+### Yahoo's participation in the Safe Harbor program
 
-For certain promotions, only persons who provide us with the requested personally identifiable information will be able to order products, programs, and services or otherwise participate in the promotion’s activities and offerings.
+Yahoo participates in the Safe Harbor program developed by the U.S. Department of Commerce and the European Union. To view our certification, visit the U.S. Department of Commerce's [Safe Harbor Web site](http://www.export.gov/safeharbor/). For more information about Yahoo's participation in the Safe Harbor program, please visit our [Safe Harbor](https://info.yahoo.com/privacy/us/yahoo/safeharbor/) details page.
 
-We also may collect certain non-personally identifiable information when you visit many of our web pages such as the type of browser you are using, the type of operating system you are using, and the domain name of your Internet service provider.
+Return to top
 
-**How We Use the Information**
+## INFORMATION COLLECTION AND USE
 
-We may use the information you provide about yourself to fulfill your requests for our products, programs, and services, to respond to your inquiries about offerings, and to offer you other products, programs or services that we believe may be of interest to you.
+### General
 
-We sometimes use this information to communicate with you, such as to notify you when you have won one of our contests or when we make changes to subscriber agreements, to fulfill a request by you for an online newsletter, or to contact you about your account with us.
+Yahoo collects personal information when you register with Yahoo, when you use [Yahoo products or services](https://info.yahoo.com/privacy/us/all/), when you visit Yahoo pages or the pages of certain Yahoo partners, and when you enter [promotions or sweepstakes](https://info.yahoo.com/privacy/us/yahoo/promotions/). Yahoo may combine information about you that we have with information we obtain from business partners or other companies. 
 
-We use the information that you provide about others to enable us to send them your gifts or cards. From time to time, we also may use this information to offer our products, programs, or services to them.
+When you register we ask for information such as your name, email address, birth date, gender, ZIP code, occupation, industry, and personal interests. For some financial products and services we might also ask for your address, Social Security number, and information about your assets. When you register with Yahoo and sign in to our services, you are not anonymous to us. 
 
-If you choose to submit content for publication (e.g., a “letter to our editors” or a post on a blog to one of our radio network hosts), we may publish your name, screen name, and other information you have provided to us.
+Yahoo collects information about your transactions with us and with some of our business partners, including information about your use of financial products and services that we offer.
 
-The information we collect in connection with our online forums and communities is used to provide an interactive experience. We use this information to facilitate participation in these online forums and communities and, from time to time, to offer you products, programs, or services.
+Yahoo automatically receives and records information from your computer and browser, including your [IP address](https://info.yahoo.com/privacy/us/yahoo/ip/), Yahoo [cookie](https://info.yahoo.com/privacy/us/yahoo/cookies/) information, software and hardware attributes, and the page you request.
 
-We sometimes use the non-personally identifiable information that we collect to improve the design and content of our publications and websites and to enable us to personalize your Internet experience.
+Yahoo uses information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients. 
 
-We also may use this information in the aggregate to analyze site usage, as well as to offer you products, programs, or services.
+Return to top
 
-We will disclose information we maintain when required to do so by law, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency’s request.
+## CHILDREN
 
-Agents and contractors of Gow Broadcasting who have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Notice by, for example, not using the information for any purpose other than to carry out the services they are performing for Gow Broadcasting.
+When Yahoo has knowledge that a child under age 13 is attempting to register with Yahoo, we ask the child to have a parent or guardian create a [Yahoo Family Account](https://info.yahoo.com/privacy/us/yahoo/family/details.html) to obtain parental permission. Visit [Children's Privacy & Family Accounts](https://info.yahoo.com/privacy/us/yahoo/family/details.html) to learn more about children’s privacy on Yahoo.
 
-We may transfer your personally identifiable information to other Gow Broadcasting offices for internal management and administrative purposes. Your personal data will be transferred to other Gow Broadcasting offices where necessary for the performance or conclusion of our contractual obligations to you or for your benefit.
+Return to top
 
-Transfers of personally identifiable information may also be made where necessary for the establishment, exercise, or defense of legal claims.
+## INFORMATION SHARING AND DISCLOSURE
 
-Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Notice. Inadvertent disclosures may result, for example, when third parties misrepresent their identities in asking the site for access to personally identifiable information about themselves for purposes of correcting possible factual errors in the data.
+Yahoo does not rent, sell, or share personal information about you with other people or non-affiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances:
 
-**Privacy Options**
+  * We provide the information to trusted partners who work on behalf of or with Yahoo under confidentiality agreements. These companies may use your personal information to help Yahoo communicate with you about offers from Yahoo and our marketing partners. However, these companies do not have any independent right to share this information. 
+  * We have a parent's permission to share the information if the user is a child under age 13. See [ Children's Privacy & Family Accounts ](https://info.yahoo.com/privacy/us/yahoo/family/details.html) for more information about our privacy practices for children under 13 . 
+  * We respond to subpoenas, court orders, or legal process (such as [law enforcement requests](https://info.yahoo.com/transparency-report/us/law-enforcement-guidelines/)), or to establish or exercise our legal rights or defend against legal claims.
+  * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Yahoo's terms of use, or as otherwise required by law. 
+  * We transfer information about you if Yahoo is acquired by or merged with another company. In this event, Yahoo will notify you before information about you is transferred and becomes subject to a different privacy policy. 
 
-If a Gow Broadcasting site discloses personally identifiable information to companies not owned by Gow Broadcasting which want to market products or services to you, it will provide you with an opportunity to opt out or block such uses.
 
-Gow Broadcasting may on occasion combine information we receive online with outside records to enhance our ability to market to you those products or services that may be of interest to you.
 
-**Collection of Information by Third-Party Sites and Sponsors**
+Yahoo displays targeted advertisements based on personal information. Advertisers (including ad serving companies) may assume that people who interact with, view, or click targeted ads meet the targeting criteria—for example, women ages 18-24 from a particular geographic area. 
 
-Some of our sites contain links to other sites whose information practices may be different than ours. You should consult the other sites’ privacy notices, as we have no control over information that is submitted to, or collected by, these third parties.
+  * Yahoo does not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad. 
+  * Yahoo advertisers include financial service providers (such as banks, insurance agents, stock brokers and mortgage lenders) and non-financial companies (such as stores, airlines, and software companies). 
 
-Gow Broadcasting sites sometimes may offer contests, sweepstakes, promotions, editorial features, or other activities or offerings that are sponsored or co-sponsored by or presented with identified third parties. By virtue of your participation in such activities or offerings, the personally identifiable information that you voluntarily submit may be provided to both the Gow Broadcasting site and the third parties.
 
-Gow Broadcasting has no control over the third parties’ use of this information.
 
-Gow Broadcasting sites may use reputable third parties to present or serve the advertisements that you may see at its web pages and to conduct research about the advertisements. This privacy notice does not cover any use of information that such third parties may have collected from you or the methods used by the third-parties to collect that information (e.g., cookies, web beacons and clear gifs).
+Yahoo works with vendors, partners, advertisers, and other service providers in different industries and categories of business. For more information regarding providers of products or services that you've requested please read our detailed [reference links](https://info.yahoo.com/privacy/us/yahoo/thirdparties/). 
 
-**Cookies**  
-To enhance your online experience we use “cookies.” Cookies are text files we place in your computer’s browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering at one of our sites.
+Return to top
 
-However, once you choose to furnish the site with personally identifiable information, this information may be linked to the data stored in the cookie.
+## COOKIES
 
-We use cookies to understand Internet usage and to improve our content, offerings, and advertisements. For example, we may use cookies to personalize your experience at our web pages (e.g. to recognize you by name when you return to our site), save your password in password-protected areas, and enable you to use shopping carts on our sites. We also may use cookies to offer you products, programs, or services. Similarly, as part of an arrangement with our business partners (including, those who present or serve the advertisements that you see on our web pages) we may also access cookies placed by others and allow others to access certain cookies placed by us.
+Yahoo may set and access Yahoo [cookies](https://info.yahoo.com/privacy/us/yahoo/cookies/) on your computer.
+
+Yahoo lets [other companies](https://info.yahoo.com/privacy/us/yahoo/thirdparties/) that show advertisements on some of our pages set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to Yahoo's cookies.
+
+Yahoo uses [web beacons](https://info.yahoo.com/privacy/us/yahoo/webbeacons/) to access Yahoo cookies inside and outside our network of web sites and in connection with Yahoo products and services.
+
+Return to top
+
+## Your Ability to Edit and Delete Your Account Information and Preferences
+
+You can edit your [Yahoo Account Information](http://edit.yahoo.com/config/eval_profile), including your [marketing preferences](http://subscribe.yahoo.com/showaccount), at any time. 
+
+New categories of marketing communications might be added to the Marketing Preferences page from time to time. Users who visit this page can opt out of receiving future marketing communications from these new categories or they can unsubscribe by following instructions contained in the messages they receive. 
+
+We reserve the right to send you certain communications relating to the Yahoo service, such as service announcements, administrative messages and the Yahoo Newsletter, that are considered part of your Yahoo account, without offering you the opportunity to opt out of receiving them. 
+
+You can delete your Yahoo account by visiting our [Account Deletion](https://edit.yahoo.com/config/delete_user) page. Please [click here](https://info.yahoo.com/privacy/us/yahoo/datastorage/) to read about information that might possibly remain in our archived records after your account has been deleted. 
+
+Return to top
+
+## CONFIDENTIALITY AND SECURITY
+
+We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. 
+
+We have physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you. 
+
+To learn more about security, including the security steps we have taken and security steps you can take, please read [Security at Yahoo](https://info.yahoo.com/privacy/us/yahoo/security/).
+
+### CHANGES TO THIS PRIVACY POLICY
+
+Yahoo may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Yahoo account or by placing a prominent notice on our site. 
+
+Return to top
+
+## QUESTIONS AND SUGGESTIONS
+
+If you have questions, suggestions, or wish to make a complaint, please complete a [feedback form](https://io.help.yahoo.com/contact/index?y=PROD_ACCT&token=w5FCchB1dWFBK0e02%252BwEylJn1ziDqePb2Dq22Z0PBKmuG9cZpE4MM9vS6l0r8gi9F6k%252FK8nik5MH8JQjZy5NlWIyygEGVpVViU3MHqVQ8eD98XMp4RclW%252Bpxa6fxY1YdCiDU9ZoUvcE%253D&locale=en_US&page=contactform&selectedChannel=email-icon) or you can contact us at:
+
+Yahoo! Inc.  
+Customer Care - Privacy Policy Issues  
+701 First Avenue  
+Sunnyvale, CA 94089  
+(408) 349-5070
+
+If you feel that your inquiry has not been satisfactorily addressed, please click [here](https://info.yahoo.com/privacy/us/yahoo/consumeragencies/) for information on consumer agencies that may be able to provide you with additional assistance.
+
+Last Updated: January 7, 2013
+
+Return to top
