@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evaninsurance.co.uk privacy policy that was archived on 2013-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131015034118id_/http%3A//www.evaninsurance.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evaninsurance.co.uk privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630212511id_/http%3A//www.evaninsurance.co.uk/privacy.php) for the most accurate reproduction.*
 
 # eVan - Privacy and Security
 
@@ -73,7 +73,7 @@ You can write to us at any time to obtain details of the information we hold abo
       BS35 4BL
       
 
-Please quote your name, postal address and email address along with the details of your requirement. We will take reasonable steps to confirm your identity before providing you with details of any personal information we may hold about you. Therefore we would be grateful if you could provide two forms of identification such as a copy of a passport or driving licence and a copy of a utility bill to confirm address. In accordance with the Data Protection Act, 1998 we are entitled to charge £10 to cover the administration costs involved with this process. Please make cheques payable to “E Insurance Services Limited”.
+Please quote your name, postal address and email address along with the details of your requirement. We will take reasonable steps to confirm your identity before providing you with details of any personal information we may hold about you. Therefore we would be grateful if you could provide two forms of identification such as a copy of a passport or driving licence and a copy of a utility bill to confirm address. In accordance with the Data Protection Act, 1998 we are entitled to charge £10 to cover the administration costs involved with this process. Please make cheques payable to “Brightside Insurance Services Limited”.
 
 back to top
 
