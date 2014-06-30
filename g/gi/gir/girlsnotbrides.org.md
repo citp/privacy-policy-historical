@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the girlsnotbrides.org privacy policy that was archived on 2013-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131114034420id_/http%3A//www.girlsnotbrides.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlsnotbrides.org privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630144619id_/http%3A//www.girlsnotbrides.org/privacy-policy) for the most accurate reproduction.*
 
-# Girls Not Brides
+# Privacy Policy - Girls Not Brides
 
 Preservation of your privacy is important to Girls Not Brides and we are committed to letting you know how we use your personal information and using it responsibly. This privacy policy (“the Privacy Policy”) should be read in conjunction with the [www.girlsnotbrides.org](http://www.girlsnotbrides.org/ "Girls not Brides") Website Terms and Conditions.
 
