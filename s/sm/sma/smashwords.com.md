@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smashwords.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210092828id_/http%3A//www.smashwords.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smashwords.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630040655id_/http%3A//www.smashwords.com/about/privacy) for the most accurate reproduction.*
 
 # Smashwords – About Smashwords &#8212; Privacy Policy
 
@@ -18,12 +18,9 @@ Smashwords allows member authors to publish their works under assumed “pen nam
 Authors who wish to sell their works on Smashwords are required to provide more detailed registration information, such as real name, a postal mailing address, a phone number, and possibly tax ID information to comply with State and local tax codes. Smashwords will only use this contact information to fulfill our obligations to you, and will not sell or rent your information to third parties.
 
  **Smashwords Email Policy:**  
-Registered members will receive occasional emails from Smashwords summarizing site news and feature updates. Smashwords authors/publishers will receive email alerts when they sell a book, or when their book is reviewed, or when Smashwords sends out exclusive Author/Publisher alerts.  After you purchase a book, we may send you an email reminder to review it. We may add additional event triggers in the future. Members may opt-out of these updates, or subscribe to other updates, at any time by adjusting their communications preferences at <https://www.smashwords.com/account/comm>. Smashwords does not allow third parties to send emails to its members unless the member explicity provides their permission (see "Sharing Email Address with Authors..., below). Member email addresses are never revealed on the web site. Smashwords prohibits its author members from engaging in spam email to promote their books. See the Smashwords [Terms of Service](https://web.archive.org/web/20131210092828id_/http%3A//www.smashwords.com/about/tos) for more information.
+Registered members will receive occasional emails from Smashwords summarizing site news and feature updates. Smashwords authors/publishers will receive email alerts when they sell a book, or when their book is reviewed, or when Smashwords sends out exclusive Author/Publisher alerts.  After you purchase a book, we may send you an email reminder to review it. We may add additional event triggers in the future. Members may opt-out of these updates, or subscribe to other updates, at any time by adjusting their communications preferences at [https://www.smashwords.com/account/comm](https://web.archive.org/web/20140630040655id_/http%3A//www.smashwords.com/account/comm). Smashwords does not allow third parties to send emails to its members unless the member explicity provides their permission (see "Sharing Email Address with Authors..., below). Member email addresses are never revealed on the web site. Smashwords prohibits its author members from engaging in spam email to promote their books. See the Smashwords [Terms of Service](https://web.archive.org/web/20140630040655id_/http%3A//www.smashwords.com/about/tos) for more information.
 
-**Sharing Email Address with Authors/Publishers In Exchange for Free Books or Discounts** **** **:**  
-Some Smashwords authors may offer special discounts, or even free ebooks to customers in exchange for the customer agreeing to provide their email address to the author. In cases where such incentives are offered, Smashwords will clearly notify the customer in advance, and give the customer the option to accept the incentive, or reject the incentive and proceed with a purchase at the regular price. Under no circumstances will the customer's email address be shared with the author or publisher unless the customer clearly confirms their acceptance of the offer by clicking an "I AGREE" button.
-
- **Advertising on the Smashwords Site:**  
+**Advertising on the Smashwords Site:**  
 Although Smashwords does not currently run advertising, we may run ads in the future. If we run ads, we will do our best to make them unobtrusive, and when possible, informative and targeted to your specific interests. We will never use pop-up or pop-under ads because we think they’re annoying
 
  **Children's Guidelines**  
@@ -32,22 +29,22 @@ Smashwords is not marketed to children. Like any ordinary bookstore, Smashwords 
 Children, should they wish to join, are allowed to become members. The above online information we collect from children is the same we collect from all members, and will only be used to respond directly to the child's request and will not be used by Smashwords for any other purposes without prior parental consent. If Smashwords learns that a child has posted information that would allow others to personally contact the child, Smashwords will immediately remove the information. 
 
 **Choice/Opt-Out**  
-Smashwords provides users the opportunity to opt-in and opt-out of receiving email communications from Smashwords. For members who have specifically requested to receive communications from Smashwords, they can cancel the communications at any time by clicking on the links contained in the email or by adjusting communications preferences at [http://smashwords.com/account/comm](https://www.smashwords.com/account/comm)
+Smashwords provides users the opportunity to opt-in and opt-out of receiving email communications from Smashwords. For members who have specifically requested to receive communications from Smashwords, they can cancel the communications at any time by clicking on the links contained in the email or by adjusting communications preferences at [http://smashwords.com/account/comm](https://web.archive.org/web/20140630040655id_/http%3A//www.smashwords.com/account/comm)
 
-This site gives users the option to remove their information from our database and to not receive future communications or receive our service. Members who wish to cancel their membership can close their account by sending an email to support at smashwords dot com.
+This site gives users the option to remove their information from our database and to not receive future communications or receive our service. Members who wish to close their Smashwords account can do so by clicking the "support" link at the bottom of any Smashwords page.
 
  **Change/Modify**  
 This site gives users the option to change and modify information previously provided by going to the member profile page.
 
   
 **Cancelling Your Membership**  
-To have your account deleted, click on the customer support link at the top of every Smashwords web page.  
+To have your account closed, click on the customer support "?" link at the top of every Smashwords web page, or the "support" link at the bottom of any page.  Be sure to log into your account before making this request so we can authenticate the request.  
  **  
 ** **  
-Contacting Smashwords  
+Contacting Smashwords by Postal Mail  
 **
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
+We don't recommend contacting us by postal mail.  If your matter is urgent, or if you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact our support team by clicking the "support" link at the bottom of any Smashwords web page.  For postal deliveries, our mailing address is listed below.  Please do not use postal mail to send us paper books, query letters, customer support inquiries or books on disks.  All written correspondence should include an email address, otherwise we cannot respond.
 
   
 Customer Support  
@@ -56,10 +53,10 @@ Smashwords, Inc.
 Los Gatos, CA 95032  
 www.smashwords.com
 
-Or, email Mark Coker, Smashwords founder, at first initial second initial at you know where dot com.
-
   
 Dates of most recent updates:
+
+March 3, 2014 (added clarification regarding postal communications to encourage communications through our online channels)
 
 October 26, 2012 (added mention of Google Analytics, fraud detection systems)
 
