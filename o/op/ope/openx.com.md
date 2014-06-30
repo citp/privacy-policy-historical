@@ -1,44 +1,61 @@
-> *The following text is extracted and transformed from the openx.com privacy policy that was archived on 2013-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131025153011id_/http%3A//www.openx.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openx.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630054720id_/http%3A//openx.com/legal/openx-website-privacy-principles) for the most accurate reproduction.*
 
-# Privacy Policy | OpenX
+# Website Privacy Principles | OpenX
 
-##  OpenX Privacy Overview
+Your privacy is important to us and we have prepared this Privacy Policy to explain how we collect, use and protect Personal Information (defined below) and Non-Personal Information (defined below) when you use the OpenX Website and your choices for managing your information preferences. This Privacy Policy covers online privacy and data protection practices of the [OpenX Website](http://www.openx.com/).
 
-OpenX takes your privacy seriously. And, in fact, privacy is a key component of our core principles of openness, transparency and freedom, all part of our open source heritage. The following privacy policies explain how we use the information we collect as you use our website, products, and services. In addition, we explain your choices for managing your information preferences.
+By using the OpenX Website, you signify your consent to this Privacy Policy and the [Terms and Conditions](https://web.archive.org/legal/terms-and-conditions/ "Terms and Conditions") of Use posted on the OpenX Website. This Privacy Policy applies to all users of the OpenX Website; if you are a website publisher that uses the OpenX Software or a participant in the OpenX Ad Exchange, or an end user of such publishers’ websites, and want to learn more about the privacy principles regarding our advertising technologies, please click on the following links:
 
-It is important to remember that all publishers and other suppliers of inventory (whether using an OpenX service or other companies’ advertising services) should take into account that third parties such as advertisers may gather non-personally identifiable information about the users of your websites through cookies and other technologies that send such data directly to those third parties. OpenX does not control any third party's use of such data. If you place inventory on or through any OpenX service, your privacy policy should be consistent with and appropriately disclose this to your users.
+[Read more](https://web.archive.org/legal/openx-software-privacy-principles/ "Openx Software Privacy Principles") about our OpenX Software Privacy Principles.
 
-###  OpenX Website Privacy Policy
+[Read more ](https://web.archive.org/legal/openx-market-privacy-principles/ "OpenX Ad Exchange Privacy Principles")about our OpenX Ad Exchange Privacy Principles.
 
-To read more about how we use the information we collect about you as you browse through our site, [click here](https://web.archive.org/web/20131025153011id_/http%3A//www.openx.com/about/openx-website-privacy-principles).
+1\. Managing Your Information Preferences.
 
-###  OpenX Software Privacy Principles
+You may review, correct, update, or change your Personal Information, or remove your Personal Information from our direct marketing efforts, at any time by changing the relevant setting in your OpenX community profile or by contacting us via our [online contact form](https://web.archive.org/contact-us/ "Contact Us") or by emailing us at [privacy@openx.org](mailto:privacy@openx.org). If you have questions or concerns regarding this Privacy Policy, please contact us the same way.
 
-These principles, [explained here](https://web.archive.org/web/20131025153011id_/http%3A//www.openx.com/about/openx-software-privacy-principles), describe how our ad serving software and hosted service collect and use user and publisher information.
+2\. Information We Collect.
 
-###  OpenX Market Privacy Principles
+(a) Personal Information. We collect information that personally identifies you, such as your name, username, email address, credit card details, and such other information as we may from time to time request (“Personal Information”) only if you choose to share such information with us. For example, you may be asked to provide us with certain Personal Information when you register with the OpenX Website, when you download and register OpenX Software and at other times. The decision to provide this information is optional; however, if you elect not to register or provide such information, you may not be able to access certain content, features, or services available on or through the OpenX Website.
 
-To read more about how the OpenX Market uses information collected from our member websites, [click here](https://web.archive.org/web/20131025153011id_/http%3A//www.openx.com/about/openx-market-privacy-principles).
+(b) Non-Personal Information. We automatically collect anonymous usage information that does not identify an individual user (“Non-Personal Information”) to help us understand how users use the OpenX Website. For example, each time you use the OpenX Website we automatically collect the type of Web browser you use, your operating system, your Internet Service Provider, your IP address, the pages you view, and the time and duration of your visits to the OpenX Website.
 
-###  OpenX Market Opt-Out cookie
+(c) Cookies and Web Beacons. We use cookies (a small file containing a string of characters that uniquely identifies your Web browser) and Web beacons (an electronic file placed within a Web site that monitors usage). We use cookies and Web beacons to improve the quality of the OpenX Website. Most Web browsers are initially set up to accept cookies, but you can reset your Web browser to refuse all cookies or to indicate when a cookie is being sent. However, certain features of the OpenX Website may not work if you delete or disable cookies. Some of our Service Providers (described below) may use cookies and Web beacons in connection with the services they perform on our behalf. The OpenX Website also serves advertising from the OpenX Ad Exchange; please read the OpenX Ad Exchange Privacy Principles to learn more about the OpenX Ad Exchange and the OpenX ad serving cookie.
 
-The OpenX Market uses cookies to uniquely identify a browser, which gives Market advertisers the ability to show targeted ads that are relevant to you. If you would prefer us not to store a unique cookie in your browser, you may opt out below. Note that by opting out, you still will receive advertising from the OpenX Market when you visit member websites - it just will not be targeted to you. For more information, please review the OpenX Market Privacy Principles.
+3\. How We Use Personal And Non-Personal Information We Collect.
 
-  
-[Opt out](https://web.archive.org/about/privacy-policy?action=opt-out). When this cookie is set, OpenX will not set a unique cookie in your browser.  
-[Delete](https://web.archive.org/about/privacy-policy?action=clear). This will delete an OpenX cookie, but a new one may be set on a OpenX Market enabled site.
+(a) General. We use Non-Personal Information and Personal Information for internal purposes only, such as to notify you of new products or services, to send service notifications, to customize the advertising and content you see, to fulfill your requests for products and services, to improve the OpenX Website, to conduct research, to solicit your feedback and input about the OpenX Website, and to provide more relevant products, services, and advertisements on or through the OpenX Website. Non-Personal Information and Personal Information may be combined with data collected from other sources so that we may further improve the relevance of products, services, and advertisements offered on or through the OpenX Website. We will not sell, share or rent Personal Information to third parties, and we will not otherwise disclose Personal Information to third parties, without your express permission or as expressly disclosed in this Privacy Policy.
 
-###  OpenX and the US-EU Safe Harbor for Privacy
+(b) Service Providers. From time to time, we might establish a business relationship with other persons or entities whom we believe trustworthy and whom we have asked to confirm that their privacy practices are consistent with ours (“Service Providers”). For example, we may contract with Service Providers to provide certain services, such as credit card processing, advertising, analytics tools, widget providers, DNS providers, data management services, Web hosting, and Web development. We provide our Service Providers with only the information necessary for them to perform these services. Each Service Provider must agree to implement and maintain reasonable security procedures and practices appropriate to the nature of the information involved in order to protect your information from unauthorized access, destruction, use, modification or disclosure. Service Providers are prohibited from using Personal Information for purposes other than as specified by OpenX.
 
-OpenX complies with the US-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. OpenX has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, please visit [www.export.gov/safeharbor](http://www.export.gov/safeharbor).
+(c) Standard Analytics Information. We may use, and disclose to third parties, certain Non-Personal Information regarding the OpenX Website (e.g., number of visits, page views, number of registered members who reside in a particular geographic location, etc.). However, such information does not identify you individually.
 
-**Privacy Complaints by European Union Citizens**
+(d) Affiliates; Change of Control. We may share Non-Personal Information and Personal Information with entities controlling, controlled by, or under common control with OpenX. In the event that OpenX is merged, sold, or in the event of a transfer of some or all of our assets, we may disclose or transfer Non-Personal Information and Personal Information in connection with such transaction.
 
-In compliance with the US-EU and US-Swiss Safe Harbor Principles, OpenX commits to resolve complaints about your privacy and our collection or use of your personal information. European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact OpenX at:
+(e) Other. In certain instances we may disclose Non-Personal Information or Personal Information when we believe it is necessary to identify, contact or bring legal action against persons or entities in order to protect OpenX or our users or when we believe that the law or legal process requires such disclosure.
 
-OpenX  
-888 E. Walnut Street, 2nd Floor  
-Pasadena, CA 91101  
-USA
+4\. Third Party Links.
 
-OpenX has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by OpenX, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
+The OpenX Website may contain links to websites or content operated and maintained by third parties, over which we have no control. You access such third-party websites or content at your own risk. You should always read the privacy policy of a third-party website before disclosing any information to the website.
+
+5\. Public Forums.
+
+Please be advised that, whenever you voluntarily post information to any OpenX community page or any other public forums, such information can and may be accessed by the public. This means that any person or entity with access to such information can potentially use it for any purpose, including sending unsolicited communications.
+
+6\. Security.
+
+Information that we collect is stored on servers that OpenX solely manages, using standard security procedures and practices appropriate to the nature of the information in an effort to protect information from unauthorized access, destruction, use, modification, or disclosure. However, No data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect information transmitted on or through the OpenX Website, we cannot and do not guarantee or warrant the security of any information you transmit on or through the OpenX Website, and you do so at your own risk.
+
+7\. Children’s Privacy Statement.
+
+We do not knowingly collect Personal Information from children under the age of 13. If we become aware that we have inadvertently received Personal Information from a child under the age of 13, we will delete such information from our records.
+
+8\. Processing in the United States.
+
+Please be aware that Personal Information may be transferred to and maintained on, servers or databases located outside your state, province, country, or other jurisdiction where the privacy laws may not be as protective as those in your location. If you are located outside of the United States, please be advised that we process and store all information in the United States and your consent to this Privacy Policy represents your agreement and understanding to this processing.
+
+9\. Privacy Policy Changes.
+
+From time to time, we may change this Privacy Policy. If we decide to change this Privacy Policy, in whole or in part, we will inform you by posting the revised Privacy Policy on the OpenX Website. Those changes will go into effect on the Effective Date disclosed at the end of the revised Privacy Policy. Your continued use of the OpenX Website constitutes your agreement to abide by the Privacy Policy as revised. If you object to any such revisions, your sole recourse shall be to stop using the OpenX Website.
+
+Effective Date: October 29, 2008
