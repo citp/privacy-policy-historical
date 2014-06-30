@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cumbang.com privacy policy that was archived on 2013-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130423233410id_/http%3A//www.cumbang.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cumbang.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630090758id_/http%3A//www.cumbang.com/privacy.php) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
@@ -30,6 +30,7 @@ This additionally applies to:
 [Dogfart Behind The Scenes](http://www.dogfartbehindthescenes.com/)  
 [Zebra Girls](http://www.zebragirls.com/)  
 [Black Meat White Feet](http://www.blackmeatwhitefeet.com/)  
+[We Fuck Black Girls](http://www.wefuckblackgirls.com/)  
 
 
 Your privacy is very important to Dogfart® Prodcutions Inc. The following Privacy Policy explains how we collect, use and safeguard the information you provide to us through the Cum Bang™ web site and its related features and functions. 
@@ -38,9 +39,9 @@ Dogfart® Prodcutions Inc. ("Company" or "we"), the owner and operator of Cum Ba
 
 THIS DOCUMENT CONTAINS FIFTEEN (15) NUMBERED PARAGRAPHS. BEFORE YOU BEGIN OR CONTINUE TO USE THE SITE , OR ANY SERVICES OR FUNCTIONALITY PROVIDED BY OR THROUGH THE SITE, PLEASE CAREFULLY READ THIS PRIVACY POLICY. THIS PRIVACY POLICY CONTAINS IMPORTANT INFORMATION. IT IS ALSO VERY IMPORTANT THAT YOU FULLY UNDERSTAND OUR POLICY BECAUSE BY YOUR USE OR CONTINUED USE OF THIS SITE OR ANY OF ITS RELATED SERVICES YOU WILL BE EXPRESSLY SIGNIFYING THAT YOU AGREE TO THIS POLICY IN ITS ENTIRETY AND THAT YOU AGREE TO THE COLLECTION AND USE OF INFORMATION THAT YOU SUPPLY OR THAT IS COLLECTED ABOUT YOU, INCLUDING PERSONAL INFORMATION, AS DETAILED IN THIS POLICY STATEMENT. 
 
-ONLY ADULTS ARE AUTHORIZED TO USE THIS SITE. AUTHORIZED ACCESS AND USE OF THE SITE, ITS DATABASES AND FUNCTIONALITY IS LIMITED TO PERSONS OVER THE AGE OF EIGHTEEN YEARS, AND SUCH ACCESS AND USE IS LIMITED BY OUR [TERMS AND CONDITIONS](https://web.archive.org/web/20130423233410id_/http%3A//www.cumbang.com/terms.php). THE COMPANY DOES NOT KNOWINGLY SEEK OR COLLECT ANY PERSONAL INFORMATION OR OTHER DATA FROM ANY PERSONS UNDER THE AGE OF EIGHTEEN YEARS. 
+ONLY ADULTS ARE AUTHORIZED TO USE THIS SITE. AUTHORIZED ACCESS AND USE OF THE SITE, ITS DATABASES AND FUNCTIONALITY IS LIMITED TO PERSONS OVER THE AGE OF EIGHTEEN YEARS, AND SUCH ACCESS AND USE IS LIMITED BY OUR [TERMS AND CONDITIONS](https://web.archive.org/web/20140630090758id_/http%3A//www.cumbang.com/terms.php). THE COMPANY DOES NOT KNOWINGLY SEEK OR COLLECT ANY PERSONAL INFORMATION OR OTHER DATA FROM ANY PERSONS UNDER THE AGE OF EIGHTEEN YEARS. 
 
-IF YOU DO NOT UNDERSTAND OR DO NOT EXPRESSLY AGREE WITH ALL OF THE TERMS OF THIS PRIVACY POLICY AND OUR [TERMS AND CONDITIONS](https://web.archive.org/web/20130423233410id_/http%3A//www.cumbang.com/terms.php) YOU SHOULD NOT USE THIS SITE OR THE SERVICES OFFERED OR OTHERWISE PROVIDED BY OR THROUGH THIS SITE. 
+IF YOU DO NOT UNDERSTAND OR DO NOT EXPRESSLY AGREE WITH ALL OF THE TERMS OF THIS PRIVACY POLICY AND OUR [TERMS AND CONDITIONS](https://web.archive.org/web/20140630090758id_/http%3A//www.cumbang.com/terms.php) YOU SHOULD NOT USE THIS SITE OR THE SERVICES OFFERED OR OTHERWISE PROVIDED BY OR THROUGH THIS SITE. 
 
 1\. Information Security  
 The Company is dedicated to the protection of Site usersÕ information. To prevent unauthorized access to information provided to us, the Company uses a number of generally accepted industry standard procedures designed to effectively safeguard the confidentiality of your personal information. These procedures include secure server location, controlled access to data and equipment, robust redundant firewall software, network monitoring, adaptive analysis of network traffic to track and prevent attempted network intrusions and other network abuse and appropriate employee training in the area of data security. We shall continue to take reasonable steps to provide effective data protection at all times, however, because no security technology can provide invulnerability to information compromise, the Company cannot, and does not, guarantee the security of any information that you transmit to us or to any third party affiliated with the Site. 
@@ -126,7 +127,7 @@ We may send you offers on behalf of Third Party Program Participants. Acceptance
 
 The Company shares aggregated demographic and Site navigation information, Data, Optional Information and other information with Third Party Program Participants, advertisers, analysts and others. We may also sell access to our mailing lists, including email lists, and other information to brokers and third party advertisers and we may transfer your information to such third parties. We may transfer some or all of your information to a purchaser of all or part of our Company or any successor in interest in the Company or the Site. We may also hire contractors or other third parties to perform any Company, Site or Site service function with or without notice to you. The Company and its agents may also aggregate demographic and other information about you and other Site users in databases and disclose, license or sell such information to Third Party Program Participants and other parties. 
 
-By your use or continued use of the Site or acceptance of any Offer associated with the Site, you expressly agree that this Privacy Policy, all Data, Optional Information and other information collected by the Company, its agents, affiliates, Third Party Program Participants and all other third parties associated with the Company or the Site, all contractual rights and all rights arising under the [TERMS AND CONDITIONS](https://web.archive.org/web/20130423233410id_/http%3A//www.cumbang.com/terms.php) may be freely and unconditionally transferred, assigned, sold, leased or licensed to any person or entity and that all Offers are subject to change and may be terminated by the Company or any third party initiating the Offer, with or without notice. 
+By your use or continued use of the Site or acceptance of any Offer associated with the Site, you expressly agree that this Privacy Policy, all Data, Optional Information and other information collected by the Company, its agents, affiliates, Third Party Program Participants and all other third parties associated with the Company or the Site, all contractual rights and all rights arising under the [TERMS AND CONDITIONS](https://web.archive.org/web/20140630090758id_/http%3A//www.cumbang.com/terms.php) may be freely and unconditionally transferred, assigned, sold, leased or licensed to any person or entity and that all Offers are subject to change and may be terminated by the Company or any third party initiating the Offer, with or without notice. 
 
 10\. Disclosure  
 The Company will not disclose or use any of your personally identifiable information except to the extent set forth in this Privacy Policy, or under special circumstances, such as when we believe in good faith that the law requires it, or when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating the SiteÕs Terms and Conditions, defrauding the Company or any third party, including any Third Party Program Participant. 
@@ -145,8 +146,3 @@ If you would like to review personal information we have retained about you in o
 
 14\. Revisions to this Privacy Policy  
 The Company reserves the right, in its sole and absolute discretion, to revise, amend, modify or revoke this Privacy Policy at any time and in any manner. Changes to this Policy will be effective by posting revisions on the Site. In some circumstances you might be required to actively "accept" or "agree" to a new Privacy Policy or to new or modified provisions in the Privacy Policy in order to continue using the Site or services provided by the Company or Third Party Program Participants. Such assent or agreement to revisions to this Privacy Policy may be effectuated via an Opt-In or Opt-Out procedure (as those procedures are discussed above). 
-
-[http://www.cumbang.com™](http://www.cumbang.com/)
-
-Confidential and proprietary.  
-Copyright 1998-2007 Robert A. Sarno and Gregory A. Piccionelli. All Rights Reserved. 
