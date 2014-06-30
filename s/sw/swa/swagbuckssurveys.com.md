@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swagbuckssurveys.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231012145id_/http%3A//swagbucks.com/%3Fcmd%3Dsb-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swagbuckssurveys.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630054918id_/http%3A//swagbucks.com/%3Fcmd%3Dsb-privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Swagbucks
 
