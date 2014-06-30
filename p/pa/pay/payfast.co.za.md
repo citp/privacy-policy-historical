@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the payfast.co.za privacy policy that was archived on 2013-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131011141136id_/https%3A//www.payfast.co.za/c/std/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payfast.co.za privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630131320id_/https%3A//www.payfast.co.za/c/std/privacy-policy) for the most accurate reproduction.*
 
 # PayFast - Privacy Policy
 
