@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superfreebingo.com privacy policy that was archived on 2012-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121012135125id_/http%3A//www.superfreebingo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superfreebingo.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630103409id_/http%3A//www.superfreebingo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy at Super Free Bingo
 
@@ -38,6 +38,20 @@ Cookies allow web applications to respond to you as an individual. The web appli
 We use traffic log cookies to identify which pages are being used. This helps us analyse data about webpage traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
 
 Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. To find out more or to change how cookies interact with your computer, [click here](http://www.superfreebingo.com/privacy-and-cookies/).
+
+#### Google Analytics
+
+We use Google Analytics on this website and use Remarketing with Google Analytics to advertise online.
+
+Therefore, third-party vendors, including Google, may show our ads on sites across the Internet.
+
+The Google Analytics features that have been implemented are used for Display Advertising (including Remarketing, Google Display Network Impression Reporting, the DoubleClick Campaign Manager integration, or Google Analytics Demographics and Interest Reporting).
+
+We and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimise, and serve ads based on past customer visits to our website. We also use these cookies to report how our ad impressions and other ad services, and interactions with these, relate to visits to our site.
+
+We use Google Analytics Demographics and Interest Reporting in order to target users who have a higher probability of being interested in our products. We also may use 3rd-party audience data (such as age, gender, and interests) to help guide our website offering to better meet consumer needs, an ultimately improve the user experience.
+
+Using the  _Ads Settings_ , you can opt-out of Google Analytics for Display Advertising and customise Google Display Network ads. Read more here: [Opt Out Information](https://tools.google.com/dlpage/gaoptout/).
 
 #### Links to other websites:
 
