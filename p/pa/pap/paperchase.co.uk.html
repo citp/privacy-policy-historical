@@ -1,989 +1,2191 @@
-<!--The following is the downloaded HTML source of the paperchase.co.uk privacy policy that was archived on 2012-05-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20120501084351id_/http%3A//www.paperchase.co.uk/customer-service/security%2Bprivacy/page/securitypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the paperchase.co.uk privacy policy that was archived on 2014-06-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140630183809id_/http%3A//www.paperchase.co.uk/privacy-and-cookies) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en"><head>
-<title>security &amp; your data at Paperchase</title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" class="no-js gt-ie8"><!--<![endif]--><head>
 
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TDRHMN"></script><script type="text/javascript" src="https://t.trackedlink.net/_dmpt.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UAAEWFRACwUIVldaDw=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+<title>Privacy &amp; Cookies at Paperchase</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<meta name="description" content="Shop online at Paperchase, a leader in innovative, design-led stationery, cards and gift-wrap.">
 <meta name="keywords" content="Paperchase, Diaries, Stationery, Notebooks, Bags, Luggage, Gift Boxes, Gift Bags, Gift Wrap, Greetings Cards, Stores, Gifts, Organisers, Filofax, Moleskine, Lamy, Art Supplies, Craft Supplies, Stationary, Wedding Gifts, Wedding Cards, Wedding Albums, Wrapping Paper">
-
-<meta name="description" content="Shop online at Paperchase, the UKs undisputed leader in innovative, design-led stationery, cards and gift-wrap.">
-
-<meta name="google-site-verification" content="_OucXC3eaUAm3hH5dnr7zy6_JF69vgHzQydU-NgftBM">
-
-<link rel="alternate" type="application/rss+xml" title="Paperchase RSS feed" href="http://frompaperchase.blogspot.com/feeds/posts/default?alt=rss">
-
-<!-- ESP global code START -->
-
-<!-- ESP live -->
-<script type="text/javascript" src="http://esp.locayta.com/zones/d6ced816-5c1b-4d59-be9e-bd5e4d0a0741.js"></script>
-<script type="text/javascript" src="http://esp.locayta.com/venda.js"></script>
-<script type="text/javascript" src="http://esp.locayta.com/data/d6ced816-5c1b-4d59-be9e-bd5e4d0a0741/support/support.js"></script>
-
-
-
-<!-- Emarsys tracking START -->
-<script language="JavaScript" type="text/javascript" src="/content/ebiz/paperchase/resources/js/emstrack.js">
-</script>
-<script type="text/javascript" language="JavaScript">
-                emsSetEnv('login'); 
-                emsTracking("128176382", "paperchase.co.uk");
-</script>
-<!-- Emarsys tracking END -->
-
-
-
-
-
-
-
-
-
-<link rel="canonical" href="http://www.paperchase.co.uk/customer-service/security+your-data/page/securitypolicy/">
-
-
-
-
-
-
-
-<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-<link rel="stylesheet" href="http://www.paperchase.co.uk/content/ebiz/paperchase/resources/css/base.css" type="text/css" media="all">
-<link rel="stylesheet" href="http://www.paperchase.co.uk/content/ebiz/paperchase/resources/css/content.css" type="text/css" media="all">
-<!--[if IE 6]><link rel="stylesheet" href="http://www.paperchase.co.uk/content/ebiz/paperchase/resources/css/ie6.css" type="text/css" media="screen"><![endif]-->
-<!--[if IE 7]><link rel="stylesheet" href="http://www.paperchase.co.uk/content/ebiz/paperchase/resources/css/ie7.css" type="text/css" media="all"><![endif]-->
-<!--[if IE 8]><link rel="stylesheet" href="http://www.paperchase.co.uk/content/ebiz/paperchase/resources/css/ie8.css" type="text/css" media="all"><![endif]-->
-
-<!--[if IE 6]><link rel="stylesheet" href="http://www.paperchase.co.uk/content/ebiz/paperchase/resources/css/ie6-print.css" type="text/css" media="print"><![endif]-->
-
-
-
-
-
-
-
-
-<script src="http://www.paperchase.co.uk/content/ebiz/paperchase/resources/js/minified/c69637d808df8507a92782ed8435c2ca.js?1334864805"></script>
-
-<!--[if lt IE 7.]>
-		<script defer type="text/javascript" src="/venda-support/js/pngfix.js"></script>
-		<script type="text/javascript" src="http://www.paperchase.co.uk/content/ebiz/paperchase/resources/js/iepngfix_tilebg.js"></script>
+<meta name="robots" content="INDEX,FOLLOW">
+<link rel="icon" href="http://www.paperchase.co.uk/media/favicon/default/favicon_1.ico" type="image/x-icon">
+<link rel="shortcut icon" href="http://www.paperchase.co.uk/media/favicon/default/favicon_1.ico" type="image/x-icon">
+<link rel="apple-touch-icon-precomposed" href="http://www.paperchase.co.uk/skin/frontend/paperchase/default/touch_icon.png">
+<link rel="apple-touch-icon" sizes="72x72" href="http://www.paperchase.co.uk/skin/frontend/paperchase/default/touch_icon_ipad.png">
+<link rel="apple-touch-icon" sizes="114x114" href="http://www.paperchase.co.uk/skin/frontend/paperchase/default/touch_icon_iphone_retina.png">
+<link rel="apple-touch-icon" sizes="144x144" href="http://www.paperchase.co.uk/skin/frontend/paperchase/default/touch_icon_ipad_retina.png">
+<link rel="stylesheet" type="text/css" href="http://www.paperchase.co.uk/skin/frontend/enterprise/default/css/widgets.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.paperchase.co.uk/skin/frontend/paperchase/default/css/normalize.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.paperchase.co.uk/skin/frontend/paperchase/default/css/global.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.paperchase.co.uk/skin/frontend/paperchase/default/css/main.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.paperchase.co.uk/skin/frontend/paperchase/default/css/jquery.mmenu.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.paperchase.co.uk/skin/frontend/paperchase/default/css/grid.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.paperchase.co.uk/skin/frontend/paperchase/default/css/layout.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.paperchase.co.uk/skin/frontend/paperchase/default/css/browsers.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://www.paperchase.co.uk/skin/frontend/responsive/default/css/print.css" media="print">
+<script type="text/javascript" src="http://www.paperchase.co.uk/js/prototype/prototype.js"></script>
+<script type="text/javascript" src="http://www.paperchase.co.uk/js/lib/ccard.js"></script>
+<script type="text/javascript" src="http://www.paperchase.co.uk/js/prototype/validation.js"></script>
+<script type="text/javascript" src="http://www.paperchase.co.uk/js/scriptaculous/builder.js"></script>
+<script type="text/javascript" src="http://www.paperchase.co.uk/js/scriptaculous/effects.js"></script>
+<script type="text/javascript" src="http://www.paperchase.co.uk/js/scriptaculous/dragdrop.js"></script>
+<script type="text/javascript" src="http://www.paperchase.co.uk/js/scriptaculous/controls.js"></script>
+<script type="text/javascript" src="http://www.paperchase.co.uk/js/scriptaculous/slider.js"></script>
+<script type="text/javascript" src="http://www.paperchase.co.uk/js/varien/js.js"></script>
+<script type="text/javascript" src="http://www.paperchase.co.uk/js/varien/form.js"></script>
+<script type="text/javascript" src="http://www.paperchase.co.uk/js/mage/translate.js"></script>
+<script type="text/javascript" src="http://www.paperchase.co.uk/js/mage/cookies.js"></script>
+<script type="text/javascript" src="http://www.paperchase.co.uk/js/redbox/shopfinder/additional.js"></script>
+<script type="text/javascript" src="http://www.paperchase.co.uk/js/jquery/jquery-1.8.3.min.js"></script>
+<script type="text/javascript" src="http://www.paperchase.co.uk/js/jquery/jquery-noconflict.js"></script>
+<script type="text/javascript" src="http://www.paperchase.co.uk/skin/frontend/enterprise/default/js/scripts.js"></script>
+<script type="text/javascript" src="http://www.paperchase.co.uk/skin/frontend/enterprise/default/js/enterprise/catalogevent.js"></script>
+<script type="text/javascript" src="http://www.paperchase.co.uk/skin/frontend/enterprise/default/js/enterprise/wishlist.js"></script>
+<script type="text/javascript" src="http://www.paperchase.co.uk/skin/frontend/paperchase/default/js/jquery.easing.min.js"></script>
+<script type="text/javascript" src="http://www.paperchase.co.uk/skin/frontend/paperchase/default/js/plugins.js"></script>
+<script type="text/javascript" src="http://www.paperchase.co.uk/skin/frontend/paperchase/default/js/functions.js"></script>
+<script type="text/javascript" src="http://www.paperchase.co.uk/skin/frontend/paperchase/default/js/sticky-header.js"></script>
+<script type="text/javascript" src="http://www.paperchase.co.uk/skin/frontend/paperchase/default/js/fastclick.js"></script>
+<link rel="alternate" hreflang="en_US" href="http://www.paperchase-usa.com/privacy-and-cookies ">
+<link rel="alternate" hreflang="en_GB" href="http://www.paperchase.co.uk/privacy-and-cookies ">
+<!--[if lt IE 8]>
+<link rel="stylesheet" type="text/css" href="http://www.paperchase.co.uk/skin/frontend/responsive/default/css/styles-ie.css" media="all" />
+<![endif]-->
+<!--[if lt IE 7]>
+<script type="text/javascript" src="http://www.paperchase.co.uk/js/lib/ds-sleight.js"></script>
+<script type="text/javascript" src="http://www.paperchase.co.uk/skin/frontend/enterprise/default/js/iehover-fix.js"></script>
+<![endif]-->
+<!--[if lte IE 8]>
+<link rel="stylesheet" type="text/css" href="http://www.paperchase.co.uk/skin/frontend/paperchase/default/css/styles_ie8.css" media="all" />
 <![endif]-->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</head>
-<body id="mainlayout-static">
-
-
-
-
-<noscript><p id="noscript">This website requires JavaScript to be enabled if you wish to place an order online. Please enable JavaScript or upgrade your browser. <a href="http://www.paperchase.co.uk/page/noscript/">More information.</a></p></noscript>
-
-
-<p class="re-waiHide"><a href="#content">Skip to content</a></p>
-
-<div id="wrapper">
-	<div id="header"><div class="Lcat_header"><div class="Lcat_headertop"><div class="Lcat_headerleft"><div class="Lmainlogo mainlogo"><a href="http://www.paperchase.co.uk/page/home/"><img src="http://www.paperchase.co.uk/content/ebiz/paperchase/element/mainlogo/purplelogo.png" name="logo" alt="Paperchase"></a></div>
-	
-	<div class="Linternalimage printlogo"><img src="http://www.paperchase.co.uk/content/ebiz/paperchase/element/printlogo/logo_print.gif" border="0" name="image" alt="Paperchase"></div>
-
-
-</div><div class="Lcat_headerright"><p class="Ltext minicartheader">your basket</p>
-<ul class="items_empty">
-	<li class="items"><a href="http://www.paperchase.co.uk/bin/venda?ex=co_wizr-shopcart&amp;bsref=paperchase&amp;log=22" id="minicart_items"><span id="updateItems"><span id="updatemdItems">0</span> items</span></a></li>
-	<li class="total"><a href="http://www.paperchase.co.uk/bin/venda?ex=co_wizr-shopcart&amp;bsref=paperchase&amp;log=22" id="minicart_total"><span id="updateTotal">£0.00</span></a></li>
-</ul>
-
-	
-	<div class="Linternalimage checkout"><a href="http://www.paperchase.co.uk/bin/venda?ex=co_wizr-shopcart&amp;bsref=paperchase&amp;log=22" title="checkout">checkout</a></div>
-
-
-<h2><a href="http://www.paperchase.co.uk/bin/venda?ex=co_wizr-shopcart&amp;bsref=paperchase&amp;log=22" id="showminicart">view</a></h2><ul class="Lustypelinks loginlogoutlinks" id="ustypelinks">
-	
-	
-	<li class="login"><a href="https://www.paperchase.co.uk/bin/venda?ex=co_wizr-register&amp;bsref=paperchase" id="Lustype_loginlink">log in / register</a></li>
-	
-</ul>
-
-</div></div><div class="Lcat_headercenter">
-
-
-
-
-<div id="cartwrapper">
-<div class="Lminicart_detail" id="minicart_element">
-
-
-
-
-
-<p>Your shopping basket is empty.</p>
-
-
-
-
-<ul id="minicart_links">
-<li class="viewbasket"><a href="http://www.paperchase.co.uk/bin/venda?ex=co_wizr-shopcart&amp;bsref=paperchase&amp;log=22">view basket &amp; checkout</a></li>
-<li class="checkout">
-
-
-<a href="http://www.paperchase.co.uk/bin/venda?ex=co_wizr-shopcart&amp;bsref=paperchase&amp;log=22"></a>
-
-</li>
-</ul>
-
-
-
-
-</div>
-</div>
-<style type="text/css">#cartwrapper {position:absolute;left:0px;top:-5000px;width:1px;overflow:hidden;}</style>
-
-
-<div id="tag-elxtdraggable" style="display:none;"></div>
-<div id="tag-elxtfade" style="display:none;">1</div>
-<div id="tag-elxtscroll" style="display:none;">1</div>
-<div id="tag-elxtheader" style="display:none;"></div>
-<div id="tag-elxtnopopupadded" style="display:none;"></div>
-<div id="tag-elxthighlight" style="display:none;">1</div>
-<div id="tag-elxtwidth" style="display:none;">209</div>
-<div id="tag-elxtmouseover" style="display:none;"></div>
-<div id="tag-elxtautoclose" style="display:none;">3000</div>
-<div id="tag-elxtnoreload" style="display:none;">1</div>
-<div id="tag-elxtscrolledheight" style="display:none;"></div>
-
-<div id="tag-elxtclose" style="display:none;"></div>
-<div id="tag-elxtheadertext" style="display:none;"><span></span></div>
-<div id="tag-elxtloadingmessage" style="display:none;">Please wait while your shopping basket loads.</div>
-<div id="tag-elxthighlightbgrstart" style="display:none;">#F0F0F0</div>
-<div id="tag-elxthighlightbgrend" style="display:none;">#C0C0C0</div>
-<div id="tag-elxthighlightduration" style="display:none;">2</div>
-<div id="tag-elxteffectsduration" style="display:none;">0.5</div>
-<div id="tag-addedmsg" style="display:none;"></div>
-<div id="tag-bsref" style="display:none;">paperchase</div>
-<div id="tag-codehttp" style="display:none;">http://www.paperchase.co.uk/bin/venda</div>
-<div id="tag-elxtitemspricestart" style="display:none;"></div>
-<div id="tag-elxtitemspriceend" style="display:none;"></div>
-<div id="tag-elxtitemspricebgrstart" style="display:none;"></div>
-<div id="tag-elxtitemspricebgrend" style="display:none;"></div>
-<div id="tag-elxtitemspriceduration" style="display:none;">2</div>
-<div id="tag-elxtscrolledheightpad" style="display:none;">0</div>
 <script type="text/javascript">
-
-	if (typeof Venda.Widget.MinicartPopup != "undefined" || Venda.Widget.MinicartPopup) {
-	Venda.Widget.MinicartPopup.create(['minicart-close', 'showminicart'],
- 	{
-		draggable:		document.getElementById('tag-elxtdraggable').innerHTML,
-		fade:			document.getElementById('tag-elxtfade').innerHTML,
-		scroll:			document.getElementById('tag-elxtscroll').innerHTML,
-		nopopupadded:	document.getElementById('tag-elxtnopopupadded').innerHTML,
-		header:			document.getElementById('tag-elxtheader').innerHTML,
-		highlight:		document.getElementById('tag-elxthighlight').innerHTML,
-		width:			document.getElementById('tag-elxtwidth').innerHTML,
-		mouseover:		document.getElementById('tag-elxtmouseover').innerHTML,
-		mouseover:		document.getElementById('tag-elxtmouseover').innerHTML,
-		milliseconds:	document.getElementById('tag-elxtautoclose').innerHTML,
-		noreload:		document.getElementById('tag-elxtnoreload').innerHTML,
-		relativeHeight:	document.getElementById('tag-elxtscrolledheight').innerHTML
-		}, 
-	{
-		effectsduration:	document.getElementById('tag-elxteffectsduration').innerHTML,
-		close:				document.getElementById('tag-elxtclose').innerHTML,
-		headertext: 		document.getElementById('tag-elxtheadertext').innerHTML,
-		loadingmessage: 	document.getElementById('tag-elxtloadingmessage').innerHTML,
-		highlightbgrstart:	document.getElementById('tag-elxthighlightbgrstart').innerHTML,
-		highlightbgrend:	document.getElementById('tag-elxthighlightbgrend').innerHTML,
-		highlightduration:	document.getElementById('tag-elxthighlightduration').innerHTML,
-		addedsku:			document.getElementById('tag-addedmsg').innerHTML,
-		bsref:				document.getElementById('tag-bsref').innerHTML,
-		formaction:			document.getElementById('tag-codehttp').innerHTML,
-		fromcolor:			document.getElementById('tag-elxtitemspricestart').innerHTML,
-		tocolor:			document.getElementById('tag-elxtitemspriceend').innerHTML,
-		frombgrcolor:		document.getElementById('tag-elxtitemspricebgrstart').innerHTML,
-		tobgrcolor:			document.getElementById('tag-elxtitemspricebgrend').innerHTML,
-		fromtoduration:		document.getElementById('tag-elxtitemspriceduration').innerHTML,
-		relativeHeightPad:	document.getElementById('tag-elxtscrolledheightpad').innerHTML
-	});
-};
+//<![CDATA[
+Mage.Cookies.path     = '/';
+Mage.Cookies.domain   = '.www.paperchase.co.uk';
+//]]>
 </script>
-<div id="minicart_detail"></div>
-</div><div class="Lcat_headerbtm"><div class="Ltopnavcats topnavmenu"><style type="text/css">
-/* column width */
-.Ltopnavcats .cat1col {width:215px;}
-.Ltopnavcats .cat2col {width:400px;}
-.Ltopnavcats .cat3col {width:565px;}
-.Ltopnavcats .cat4col {width:751px;}
-.Ltopnavcats .cat5col {width:960px;}
-/* tab width */
-.Ltopnavcats .t1 {width:169px;}
-.Ltopnavcats .t1 .submenu {background-color:#E3001A;}
-.Ltopnavcats .t1 .submenuset {border-left:1px solid #F1808D;}
-.Ltopnavcats .t2 {width:114px;}
-.Ltopnavcats .t2 .submenu {background-color:#000;}
-.Ltopnavcats .t2 .submenuset {border-left:1px solid #606060;}
-.Ltopnavcats .t3 {width:67px;}
-.Ltopnavcats .t3 .submenu {background-color:#F2A0C2;}
-.Ltopnavcats .t3 .submenuset {border-left:1px solid #FCE8F0;}
-.Ltopnavcats .t4 {width:137px;}
-.Ltopnavcats .t4 .submenu {background-color:#009DE0;}
-.Ltopnavcats .t5 {width:75px;}
-.Ltopnavcats .t5 .submenu {background-color:#FC0;}
-.Ltopnavcats .t5 .submenuset {border-left:1px solid #7F6600;}
-.Ltopnavcats .t5 a,
-.Ltopnavcats .t5 a:hover {color:#666;}
-.Ltopnavcats .t6 {width:142px;}
-.Ltopnavcats .t6 .submenu {background-color:#8888D5;}
-.Ltopnavcats .t6 .submenuset {border-left:1px solid #C4C4EA;}
-.Ltopnavcats .t7 {width:135px;}
-.Ltopnavcats .t7 .submenu {background-color:#07aa9d;}
-.Ltopnavcats .t7 .submenuset {border-left:1px solid #FCE8F0;}
-.Ltopnavcats .t8 {width:121px;}
-.Ltopnavcats .t8 .submenu {background-color:#E32F86;}
-.Ltopnavcats .t8 .submenuset {border-left:1px solid #F197C3;}
-/*offset*/
-.Ltopnavcats ul li.t1:hover .submenu, .Ltopnavcats ul li.t1 a:hover .submenu, .Ltopnavcats ul li.t1 a:hover iframe {left:0px;}
-.Ltopnavcats ul li.t2:hover .submenu, .Ltopnavcats ul li.t2 a:hover .submenu, .Ltopnavcats ul li.t2 a:hover iframe {left:-70px;}
-.Ltopnavcats ul li.t3:hover .submenu, .Ltopnavcats ul li.t3 a:hover .submenu, .Ltopnavcats ul li.t3 a:hover iframe {left:-188px;}
-.Ltopnavcats ul li.t4:hover .submenu, .Ltopnavcats ul li.t4 a:hover .submenu, .Ltopnavcats ul li.t4 a:hover iframe {left:-40px;}
-.Ltopnavcats ul li.t5:hover .submenu, .Ltopnavcats ul li.t5 a:hover .submenu, .Ltopnavcats ul li.t5 a:hover iframe {left:auto; right:-215px;}
-.Ltopnavcats ul li.t6:hover .submenu, .Ltopnavcats ul li.t6 a:hover .submenu, .Ltopnavcats ul li.t6 a:hover iframe {left:auto; right:-215px;}
-.Ltopnavcats ul li.t7:hover .submenu, .Ltopnavcats ul li.t7 a:hover .submenu, .Ltopnavcats ul li.t7 a:hover iframe {left:auto; right:-76px;}
-.Ltopnavcats ul li.t8:hover .submenu, .Ltopnavcats ul li.t8 a:hover .submenu, .Ltopnavcats ul li.t8 a:hover iframe {left:auto; right:0;}
-</style>
-
-<ul class="topnav">
-
-<!-- Start main menu -->
-<!-- Start tab1 -->
-
-<li class="topnavlist t1"><a class="topnavlink" href="http://www.paperchase.co.uk/shop/new-for-spring/icat/oennewforspring/">new for spring<!--[if gt IE 
-
-6]><!--></a><!--<![endif]--><!--[if lte IE 6]><table><tr><td><iframe class="cat3col one" src="/page/blankfortopmenu" style="-moz-opacity: 
-
-.10;filter: alpha(opacity=1);"></iframe><![endif]-->
-<div class="submenu">
-	<div class="cat3col">
-
-<div class="submenuset first">
-			<ul>
-<li><a href="http://www.paperchase.co.uk/collections/wedding/icat/oewedding/"><font style="color: #FFFFFF; font-weight:bold">wedding</font></a></li>
-<li><a href="http://www.paperchase.co.uk/stationery/wedding-stationery/icat/sweddingstationery/">wedding stationery</a></li>
-<li><a href="http://www.paperchase.co.uk/stationery/invitations-+amp-place-cards/icat/sinvitationsandnotecards/">invitations &amp; place cards</a></li>
-<li><a href="http://www.paperchase.co.uk/gifts/engagement+wedding-ideas/icat/oeengagement/">engagement &amp; wedding gift ideas</a></li>
-<li><a href="http://www.paperchase.co.uk/collections/wedding/icat/oewedding/">wedding ideas</a></li>
-
-</ul></div>
-		<div class="submenuset">
-			<ul>
-<li><a href="http://www.paperchase.co.uk/stationery/stationery-essentials/icat/sessentials/"><font style="color: #FFFFFF; font-weight:bold">stationery essentials</font></a></li>
-<li><a href="http://www.paperchase.co.uk/stationery/diaries/icat/sdiaries/">mid year diaries</a></li>
-<li><a href="http://www.paperchase.co.uk/stationery/organisers-+amp-filofax/icat/sorganisersandfilofax/">organisers &amp; filofax</a></li>
-<li><a href="http://www.paperchase.co.uk/stationery/notebooks/icat/snotebooks/">notebooks</a></li>
-<li><a href="http://www.paperchase.co.uk/stationery/filing-+amp-storage/icat/sfilingandstorage/">filing &amp; storage </a></li>
-<li><a href="http://www.paperchase.co.uk/stationery/pens-+amp-pencils/icat/spensandpencils/">pens &amp; pencils  </a></li>
-
-
-
-			</ul>
-		</div>
-
-
-
-			
-	
-		<div class="submenuset">
-			<ul>
-<li><a href="http://www.paperchase.co.uk/shop/sale+offers/icat/occasionsandevents/"><font style="color: #FFFFFF; font-weight:bold">offers</font></a></li>
-<li><a href="http://www.paperchase.co.uk/home-+amp-travel/20-off-bags/icat/20bags/">20% off bags</a></li>
-<li><a href="http://www.paperchase.co.uk/home-+amp-travel/20-off-frames/icat/20frames/">20% off frames</a></li>
-<li><a href="http://www.paperchase.co.uk/greeting-cards/20-off-notecards/icat/20notecards/">20% off notecards</a></li>
-
-
-
-
-			</ul>
-		</div>
-
-
-		
-
 
-
-		
-		
-	</div>
-</div><!--[if lte IE 6]></td></tr></table></a><![endif]-->
-</li>
-
-<!-- End Tab1 -->
-<!-- Start tab2 -->
-
-<li class="topnavlist t2"><a class="topnavlink" href="http://www.paperchase.co.uk/shop/stationery/icat/stationery/">stationery<!--[if gt IE 
-
-6]><!--></a><!--<![endif]-->  <!--[if lte IE 6]><table><tr><td><iframe class="cat4col two" src="/page/blankfortopmenu" style="-moz-opacity: 
-
-.10;filter: alpha(opacity=1);"></iframe><![endif]-->
-<div class="submenu">
-	<div class="cat4col">
-		<div class="submenuset first">
-			<ul>
-<li><a href="http://www.paperchase.co.uk/stationery/stationery-essentials/icat/sessentials/">stationery essentials</a></li>
-<li><a href="http://www.paperchase.co.uk/stationery/diaries/icat/sdiaries/">mid year diaries</a></li>
-<li><a href="http://www.paperchase.co.uk/stationery/notebooks/icat/snotebooks/">notebooks</a></li>
-<li><a href="http://www.paperchase.co.uk/stationery/bookmarks/icat/sbookmaks/">bookmarks</a></li>
-
-<li><a href="http://www.paperchase.co.uk/stationery/desk-accessories/icat/sdeskaccessories/">desk accessories</a></li>
-<li><a href="http://www.paperchase.co.uk/stationery/filing-+amp-storage/icat/sfilingandstorage/">filing &amp; storage</a></li>
-			</ul>
-		</div>
-		<div class="submenuset">
-			<ul>
-
-<li><a href="http://www.paperchase.co.uk/stationery/invitations-+amp-place-cards/icat/sinvitationsandnotecards/">invitations &amp; place cards</a></li>
-<li><a href="http://www.paperchase.co.uk/stationery/organisers-+amp-filofax/icat/sorganisersandfilofax/">organisers &amp; filofax</a></li>
-<li><a href="http://www.paperchase.co.uk/stationery/paper-+amp-envelopes/icat/spaper/">paper &amp; envelopes</a></li>
-<li><a href="http://www.paperchase.co.uk/stationery/pencil-cases/icat/spencilcases/">pencil cases</a></li>
-<li><a href="http://www.paperchase.co.uk/stationery/pens-+amp-pencils/icat/spensandpencils/">pens &amp; pencils</a></li>
-<li><a href="http://www.paperchase.co.uk/stationery/recipe-+amp-social-books/icat/ssocialbooksandjournals/">recipe &amp; social books</a></li>
-			</ul>
-		</div>
-		<div class="submenuset">
-			<ul>
-
-
-<li><a href="http://www.paperchase.co.uk/stationery/stickers/icat/acstickers/">stickers</a></li>
-<li><a href="http://www.paperchase.co.uk/stationery/wedding-stationery/icat/sweddingstationery/">wedding stationery</a></li>
-<li><a href="http://www.paperchase.co.uk/stationery/adhesives-+amp-tape/icat/sadhesives/">adhesives &amp; tape</a></li>
-<li><a href="http://www.paperchase.co.uk/sale+offers/stationery-sale/icat/summersalestationery/"><font style="color: #FFFFFF; font-weight:bold">sale</font></a></li>
-			</ul>
-		</div>
-<div class="submenuset">
-			<ul>
-<li><a href="http://www.paperchase.co.uk/collections/brands/icat/brands/"><font style="color: #FFFFFF; font-weight:bold">brands</font></a></li>
-<li><a href="http://www.paperchase.co.uk/brands/filofax/icat/bfilofax/">filofax</a></li>
-<li><a href="http://www.paperchase.co.uk/brands/moleskine/icat/bmoleskine/">moleskine</a></li>
-<li><a href="http://www.paperchase.co.uk/brands/pilot-pens/icat/bpilot/">pilot pens</a></li>
-<li><a href="http://www.paperchase.co.uk/brands/remarkable/icat/cecostationery/">remarkable</a></li>
-<li><a href="http://www.paperchase.co.uk/stationery/rhodia/icat/brhodia/">rhodia</a></li>
-<!--<li><a href="http://www.paperchase.co.uk/stationery/whitelines/icat/bwhitelines/">whitelines</a></li>-->
-
-			</ul>
-		</div>
-		
-	</div>
-</div><!--[if lte IE 6]></td></tr></table></a><![endif]-->
-</li>
-
-<!-- End Tab2 -->
-<!-- Start tab3 -->
-
-<li class="topnavlist t3"><a class="topnavlink" href="http://www.paperchase.co.uk/shop/gifts/icat/gifts/">gifts<!--[if gt IE 6]><!--></a><!--<![endif]--><!--[if 
-
-lte IE 6]><table><tr><td><iframe class="cat4col three" src="/page/blankfortopmenu" style="-moz-opacity: .10;filter: 
-
-alpha(opacity=1);"></iframe><![endif]-->
-<div class="submenu">
-	<div class="cat4col">
-		<div class="submenuset first">
-			<ul>
-<li><a href="http://www.paperchase.co.uk/gifts/gifts-for-her/icat/ggiftsforher/">gifts for her</a></li>
-<li><a href="http://www.paperchase.co.uk/gifts/gifts-for-him/icat/ggiftsforhim/">gifts for him</a></li>
-<li><a href="http://www.paperchase.co.uk/gifts/kids-gifts/icat/gkidsgifts/">kid's gifts</a></li>
-<li><a href="http://www.paperchase.co.uk/gifts/boutique-gifts/icat/gluxury/">boutique gifts</a></li>
-<li><a href="http://www.paperchase.co.uk/gifts/christening-+amp-new-baby-ideas/icat/oechristening/">christening &amp; new baby</a></li>
-<li><a href="http://www.paperchase.co.uk/gifts/engagement+wedding-ideas/icat/oeengagement/">engagement &amp; wedding</a></li>
-<li><a href="http://www.paperchase.co.uk/gifts/party-ideas/icat/oeparty/">party ideas</a></li>
-
-
-		</ul></div>
-<div class="submenuset">
-<ul>
-<li><a href="http://www.paperchase.co.uk/shop/sale+offers/icat/occasionsandevents/"><font style="color: #FFFFFF; font-weight:bold">offers</font></a></li>
-<li><a href="http://www.paperchase.co.uk/home-+amp-travel/20-off-bags/icat/20bags/">20% off bags</a></li>
-<li><a href="http://www.paperchase.co.uk/home-+amp-travel/20-off-frames/icat/20frames/">20% off frames</a></li>
-<li><a href="http://www.paperchase.co.uk/sale+offers/gift-sale/icat/summersalegifts/"><font style="color: #FFFFFF; font-weight:bold">sale</font></a></li>
-
-			</ul>
-
-		</div>
-
-
-
-
-<div class="submenuset">
-<ul><li><font style="color: #FFFFFF; font-weight:bold">gifts for...</font></li>
-<li><a href="http://www.paperchase.co.uk/gifts/for-artists/icat/gforartists/">artists</a></li>
-<li><a href="http://www.paperchase.co.uk/gifts/for-chefs/icat/gforchefs/">chefs</a></li>
-<li><a href="http://www.paperchase.co.uk/gifts/for-gadget-lovers/icat/gforgadgetlovers/">gadget lovers</a></li>
-<li><a href="http://www.paperchase.co.uk/gifts/for-jet-setters/icat/gforjetsetters/">jet setters</a></li>
-
-
-			</ul>
-
-		</div>
-<div class="submenuset">
-
-<ul>
-<li><a href="http://www.paperchase.co.uk/collections/brands/icat/brands/"><font style="color: #FFFFFF; font-weight:bold">brands</font></a></li>
-<li><a href="http://www.paperchase.co.uk/brands/the-cambridge-satchel-company/icat/bcambridge/">the cambridge satchel company</a></li>
-<li><a href="http://www.paperchase.co.uk/brands/jellycat/icat/bjellycat/">jellycat</a></li>
-<li><a href="http://www.paperchase.co.uk/brands/nava-bags/icat/bnava/">nava bags</a></li>
-<li><a href="http://www.paperchase.co.uk/brands/lexon/icat/blexon/">lexon</a></li>
-<li><a href="http://www.paperchase.co.uk/brands/zatchels/icat/bzatchel/">zatchels</a></li>
-
-			</ul>
-
-		</div> 
-
-	</div>
-</div><!--[if lte IE 6]></td></tr></table></a><![endif]-->
-</li>
-
-<!-- End Tab3 -->
-<!-- Start tab4 -->
-
-<li class="topnavlist t4"><a class="topnavlink" href="http://www.paperchase.co.uk/shop/gift-wrapping/icat/giftpackaging/">gift wrapping<!--[if gt IE 6]><!--></a>  
-
-<!--<![endif]--><!--[if lte IE 6]><table><tr><td><iframe class="cat1col four" src="/page/blankfortopmenu" style="-moz-opacity: .10;filter: 
-
-alpha(opacity=1);"></iframe><![endif]-->
-<div class="submenu">
-	<div class="cat1col">
-		<div class="submenuset first">
-			<ul>
-<li><a href="http://www.paperchase.co.uk/gift-wrapping/roll-wrap/icat/gprollwrap/">roll wrap</a></li>
-<li><a href="http://www.paperchase.co.uk/gift-wrapping/gift-boxes-+amp-bags/icat/gpgiftboxesandbags/">gift boxes &amp; bags</a></li>
-<li><a href="http://www.paperchase.co.uk/gift-wrapping/accessories-+amp-tissue/icat/gpaccessoriesandtissue/">accessories &amp; tissue</a></li>
-<li><a href="http://www.paperchase.co.uk/gift-wrapping/wrap-sale/icat/wrapsale/"><font style="font-weight:bold">sale</font></a></li>
-
-
-
-			</ul>
-		</div>
-	</div>
-</div><!--[if lte IE 6]></td></tr></table></a><![endif]-->
-</li>
-
-<!-- End Tab4 -->
-<!-- Start tab5 -->
-
-<li class="topnavlist t5"><a class="topnavlink" href="http://www.paperchase.co.uk/shop/greeting-cards/icat/greetingcards/">cards<!--[if gt IE 6]><!--></a>  
-
-<!--<![endif]--> <!--[if lte IE 6]><table><tr><td><iframe class="cat3col five" src="/page/blankfortopmenu" style="-moz-opacity: .10;filter: 
-
-alpha(opacity=1);"></iframe><![endif]-->
-<div class="submenu">
-	<div class="cat3col">
-		<div class="submenuset first">
-			<ul>
-<li><a href="http://www.paperchase.co.uk/greeting-cards/anniversary-cards/icat/gcanniversary/">anniversary</a></li>
-<li><a href="http://www.paperchase.co.uk/greeting-cards/age-birthday-cards/icat/agecards/">age birthday</a></li>
-<li><a href="http://www.paperchase.co.uk/greeting-cards/birthday-cards/icat/gcbirthday/">birthday</a></li>
-<li><a href="http://www.paperchase.co.uk/greeting-cards/blank-cards/icat/gcblank/">blank</a></li>
-<!--<li><a href="http://www.paperchase.co.uk/greeting-cards/xx-chinese-new-year-cards/icat/gcchinese/">chinese new year</a></li>-->
-<li><a href="http://www.paperchase.co.uk/greeting-cards/congratulations-+amp-good-luck-cards/icat/gccongratulations/">congratulations &amp; good luck</a></li>
-
-			</ul>
-		</div>
-		<div class="submenuset">
-			<ul>
-<li><a href="http://www.paperchase.co.uk/greeting-cards/engagement-+amp-wedding-cards/icat/gcengagement/">engagement &amp; wedding</a></li>
-<li><a href="http://www.paperchase.co.uk/greeting-cards/fathers-day/icat/gcfathers/">father's day</a></li>
-<li><a href="http://www.paperchase.co.uk/greeting-cards/get-well-cards/icat/gcgetwell/">get well</a></li>
-<li><a href="http://www.paperchase.co.uk/stationery/invitations-+amp-place-cards/icat/sinvitationsandnotecards/">invitations &amp; place cards</a></li>
-
-<li><a href="http://www.paperchase.co.uk/greeting-cards/international-mothers-day-cards/icat/oemothersday/">international mother's day</a></li>
-
-
-
-
-			</ul>
-		</div>
-<div class="submenuset">
-			<ul>
-
-<li><a href="http://www.paperchase.co.uk/greeting-cards/new-baby-+amp-christening-cards/icat/gcnewbaby/">new baby &amp; christening</a></li>
-<li><a href="http://www.paperchase.co.uk/greeting-cards/notecards-/icat/gcnotecards/">notecards</a></li>
-<li><a href="http://www.paperchase.co.uk/greeting-cards/sympathy-cards/icat/gcsympathy/">sympathy</a></li>
-<li><a href="http://www.paperchase.co.uk/greeting-cards/thank-you-cards/icat/gcthankyou/">thank you</a></li>
-<li><a href="http://www.paperchase.co.uk/greeting-cards/20-off-notecards/icat/20notecards/">20% off notecards</a></li>
-<li><a href="http://www.paperchase.co.uk/greeting-cards/card-sale/icat/cardsale/"><font style="font-weight:bold">sale</font></a></li>
-			</ul>
-		</div>
-		
-	</div>
-</div><!--[if lte IE 6]></td></tr></table></a><![endif]-->
-</li>
-
-<!-- End Tab5 -->
-<!-- Start tab6 -->
-
-<li class="topnavlist t6"><a class="topnavlink" href="http://www.paperchase.co.uk/shop/home-+amp-travel/icat/homeandtravel/">home &amp; travel<!--[if gt IE 6]><!--></a>  
-
-<!--<![endif]--> <!--[if lte IE 6]><table><tr><td><iframe class="cat3col six" src="/page/blankfortopmenu" style="-moz-opacity: .10;filter: 
-
-alpha(opacity=1);"></iframe><![endif]-->
-<div class="submenu">
-	<div class="cat3col">
-		<div class="submenuset first">
-			<ul>
-<li><a href="http://www.paperchase.co.uk/home-+amp-travel/bags+luggage/icat/htbagsandluggage/">bags &amp; luggage</a></li>
-<li><a href="http://www.paperchase.co.uk/stationery/bookmarks/icat/sbookmaks/">bookmarks</a></li>
-<li><a href="http://www.paperchase.co.uk/home-+amp-travel/health-+amp-beauty/icat/hthealthandbeauty/">health &amp; beauty</a></li>
-<li><a href="http://www.paperchase.co.uk/home-+amp-travel/home-accessories/icat/hthomeaccessories/">home accessories</a></li>
-<li><a href="http://www.paperchase.co.uk/home-+amp-travel/kitchen/icat/htkitchen/">kitchen</a></li>
-<li><a href="http://www.paperchase.co.uk/home-+amp-travel/laptop+phone-accessories/icat/htmediaaccessories/">laptop &amp; phone accessories</a></li>
-
-
-						</ul>
+<script type="text/javascript">
+//<![CDATA[
+optionalZipCountries = ["HK","IE","MO","PA"];
+//]]>
+</script>
+<!-- BEGIN GOOGLE ANALYTICS CODEs -->
+<script type="text/javascript">
+//<![CDATA[
+    var _gaq = _gaq || [];
+    
+_gaq.push(['_setAccount', 'UA-9755057-5']);
+
+_gaq.push(['_trackPageview']);
+    
+    (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+//]]>
+</script>
+<!-- END GOOGLE ANALYTICS CODE -->
+    <script type="text/javascript">
+        (function(){
+            var connector = document.createElement('script');
+            connector.type = 'text/javascript';
+            connector.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 't.trackedlink.net/_dmpt.js';
+            var s = document.getElementsByTagName('script')[0];
+            s.parentNode.insertBefore(connector, s);
+        })();
+    </script>
+
+<script type="text/javascript">
+//<![CDATA[
+    var Base64 = {
+        // private property
+        _keyStr: "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=",
+        // public method for encoding
+        encode: function(input) {
+            var output = "";
+            var chr1, chr2, chr3, enc1, enc2, enc3, enc4;
+            var i = 0;
+
+            input = Base64._utf8_encode(input);
+
+            while (i < input.length) {
+
+                chr1 = input.charCodeAt(i++);
+                chr2 = input.charCodeAt(i++);
+                chr3 = input.charCodeAt(i++);
+
+                enc1 = chr1 >> 2;
+                enc2 = ((chr1 & 3) << 4) | (chr2 >> 4);
+                enc3 = ((chr2 & 15) << 2) | (chr3 >> 6);
+                enc4 = chr3 & 63;
+
+                if (isNaN(chr2)) {
+                    enc3 = enc4 = 64;
+                } else if (isNaN(chr3)) {
+                    enc4 = 64;
+                }
+
+                output = output +
+                        this._keyStr.charAt(enc1) + this._keyStr.charAt(enc2) +
+                        this._keyStr.charAt(enc3) + this._keyStr.charAt(enc4);
+
+            }
+
+            return output;
+        },
+        // private method for UTF-8 encoding
+        _utf8_encode: function(string) {
+            string = string.replace(/\r\n/g, "\n");
+            var utftext = "";
+
+            for (var n = 0; n < string.length; n++) {
+
+                var c = string.charCodeAt(n);
+
+                if (c < 128) {
+                    utftext += String.fromCharCode(c);
+                }
+                else if ((c > 127) && (c < 2048)) {
+                    utftext += String.fromCharCode((c >> 6) | 192);
+                    utftext += String.fromCharCode((c & 63) | 128);
+                }
+                else {
+                    utftext += String.fromCharCode((c >> 12) | 224);
+                    utftext += String.fromCharCode(((c >> 6) & 63) | 128);
+                    utftext += String.fromCharCode((c & 63) | 128);
+                }
+
+            }
+
+            return utftext;
+        },
+    }
+
+        function setCurLngLag(formId, useCurLocElmId) {
+        var form = $(formId);
+        event.preventDefault();
+        if (navigator.geolocation)
+        {
+            navigator.geolocation.getCurrentPosition(
+                    function(position) {
+                        var loc = position.coords.latitude + '|' + position.coords.longitude;
+                        form['loc'].setValue(Base64.encode(loc));
+                        form['loc'].disabled = false;
+                        form.submit();
+                    },
+                    function() {
+                        $(useCurLocElmId).checked = false;
+                    }
+            );
+        }
+        else {
+            alert("Geolocation is not supported by this browser.");
+        }
+    }
+//]]>
+</script><script type="text/javascript">//<![CDATA[
+        var Translator = new Translate([]);
+        //]]></script></head>
+<body class=" cms-page-view cms-privacy-and-cookies">
+<!-- Google Tag Manager -->
+<script>dataLayer = [{"visitorLoginState":"Logged out","visitorType":"NOT LOGGED IN","visitorLifetimeValue":0,"visitorExistingCustomer":"No"}];</script>
+
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-TDRHMN"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TDRHMN');</script>
+<!-- End Google Tag Manager -->
+<div id="root-wrapper">
+<div class="wrapper  websiteId_1">
+        <noscript>
+        <div class="global-site-notice noscript">
+            <div class="notice-inner">
+                <p>
+                    <strong>JavaScript seems to be disabled in your browser.</strong><br />
+                    You must have JavaScript enabled in your browser to utilize the functionality of this website.                </p>
+            </div>
+        </div>
+    </noscript>
+    <div class="page">
+        
+<div class="header-container" id="top">
+<div class="header-container2">
+<div class="header-container3">
+
+    <div class="header-top-container">
+        <div class="header-top header container clearer">
+                <div class="header-main grid-full">
+                    <div class="menu-wrapper grid12-2"><a id="nav-trigger" href="#menu-left">[=]</a></div>   
+
+                    <div class="logo-wrapper grid12-6">
+                                                    <a href="http://www.paperchase.co.uk/" title="Paperchase" class="logo"><strong>Paperchase</strong><img src="http://www.paperchase.co.uk/skin/frontend/paperchase/default/images/logo.png" alt="Paperchase" onerror="this.onerror=null; this.src='http://www.paperchase.co.uk/skin/frontend/paperchase/default/images/logo.png'"></a>
+                                            </div>
+                    
+                    <div class="search-wrapper grid12-2">
+                    <div id="search-trigger-wrapper">
+                        <a id="search-trigger" href="#menu-right">[Search]</a>
+                    </div>
+                    </div>
+                    
+                    <div class="mini-cart grid12-2">
+                        <div id="mini-cart-mob" class="dropdown-toggle cover">
+            <div class="empty">
+            <div class="label">Bag</div>
+            <span class="subtotal"><span class="price">£0.00</span></span>
+            <span class="amount"><em>0</em></span>
+        </div>
+    </div> <!-- end: dropdown-toggle -->                        <div class="after-mini-cart"></div>
+                    </div>
+                    
+                    
+                </div>         </div> <!-- end: header-top -->
+        <div class="search-reveal">
+        <form id="search_mini_form_mob" action="http://www.paperchase.co.uk/catalogsearch/result/" method="get">
+<div class="form-search">
+    <label for="search_mob">Search site:</label><input id="search_mob" type="text" name="q" value="" class="input-text" maxlength="128"><button type="submit" title="Go" class="button"><span><span>Go</span></span></button>
+    	<span id="clear_search">x</span>
+    <script type="text/javascript">
+    //<![CDATA[
+        var searchForm = new Varien.searchForm('search_mini_form_mob', 'search_mob', 'Find what you’re looking for...');
+    //]]>
+    </script>
 </div>
-		<div class="submenuset">
-				<ul>
-
-<li><a href="http://www.paperchase.co.uk/home-+amp-travel/lunchtime-accessories/icat/htlunchandpicnic/">lunchtime</a></li>
-<li><a href="http://www.paperchase.co.uk/home-+amp-travel/photo-albums-+amp-scrapbooks/icat/htphotoalbums/">photo albums &amp; scrapbooks</a></li>
-<li><a href="http://www.paperchase.co.uk/home-+amp-travel/photo-frames/icat/htframes/">photo frames</a></li>
-<li><a href="http://www.paperchase.co.uk/home-+amp-travel/storage/icat/htstorage/">storage</a></li>
-<li><a href="http://www.paperchase.co.uk/home-+amp-travel/travel-accessories/icat/httravel/">travel accessories</a></li>
-<li><a href="http://www.paperchase.co.uk/collections/wedding/icat/oewedding/">wedding</a></li>
-
-		</ul></div>
-
-<div class="submenuset">
-				<ul>
-
-<li><a href="http://www.paperchase.co.uk/home-+amp-travel/20-off-bags/icat/20bags/">20% off bags</a></li>
-<li><a href="http://www.paperchase.co.uk/home-+amp-travel/20-off-frames/icat/20frames/">20% off frames</a></li>
-<li><a href="http://www.paperchase.co.uk/sale+offers/gift-sale/icat/summersalegifts/"><font style="color: #FFFFFF; font-weight:bold">sale</font></a></li>
-
-		</ul></div>
-
-	</div>
-</div><!--[if lte IE 6]></td></tr></table></a><![endif]-->
-</li>
-
-<!-- End Tab6 -->
-<!-- Start tab7 -->
-
-<li class="topnavlist t7"><a class="topnavlink" href="http://www.paperchase.co.uk/shop/art-materials/icat/artandcraft/">art &amp; craft<!--[if gt IE 6]><!--></a>  
-
-<!--<![endif]--><!--[if lte IE 6]><table><tr><td><iframe class="cat3col seven" src="/page/blankfortopmenu" style="-moz-opacity: .10;filter: 
-
-alpha(opacity=1);"></iframe><![endif]-->
-<div class="submenu">
-	<div class="cat3col">
-		<div class="submenuset first">
-			<ul>
-<li><font style="color: #FFFFFF; font-weight:bold">art</font></li>
-<li><a href="http://www.paperchase.co.uk/art-materials/sketch-books/icat/acsketchbooks/">sketch books</a></li>
-<li><a href="http://www.paperchase.co.uk/art-materials/paper-+amp-card/icat/acpapers/">paper &amp; card</a></li>
-<li><a href="http://www.paperchase.co.uk/art-materials/paints-and-adhesives/icat/acpaintsadhesives/">paints &amp; adhesives</a></li>
-<li><a href="http://www.paperchase.co.uk/art-materials/art-pens-+amp-pencils/icat/acartpensandpencils/">art pens &amp; pencils</a></li>
-<li><a href="http://www.paperchase.co.uk/art-materials/tools/icat/atools/">tools</a></li>
-
-
-			</ul>
-		</div>
-<div class="submenuset">
-			<ul>
-<li><font style="color: #FFFFFF; font-weight:bold">&nbsp;</font></li>
-<li><a href="http://www.paperchase.co.uk/art-materials/presentation/icat/acportfolios/">presentation</a></li>
-<li><a href="http://www.paperchase.co.uk/art-materials/canvas/icat/acanvas/">canvas</a></li>
-
-
-<li><a href="http://www.paperchase.co.uk/art-materials/art-sale/icat/summersaleart/"><font style="color: #FFFFFF; font-weight:bold">sale</font></a></li>
-
-
-
-			</ul>
-		</div>
-		<div class="submenuset">
-			<ul>
-<li><font style="color: #FFFFFF; font-weight:bold">craft</font></li>
-<li><a href="http://www.paperchase.co.uk/art-materials/craft-products/icat/accraftproducts/">craft products</a></li>
-<li><a href="http://www.paperchase.co.uk/art-materials/scrapbooks/icat/acscrapbooks/">scrapbooks</a></li>
-<li><font style="color: #FFFFFF; font-weight:bold">&nbsp;</font></li>
-
-
-
-
-
-			</ul>
-		</div>
-	</div>
-</div><!--[if lte IE 6]></td></tr></table></a><![endif]-->
-</li>
-
-<!-- End Tab7 -->
-<!-- Start tab8 -->
-
-<li class="topnavlist t8"><a class="topnavlink" href="http://www.paperchase.co.uk/shop/collections/icat/collections/">collections<!--[if gt IE 
-
-6]><!--></a><!--<![endif]--> <!--[if lte IE 6]><table><tr><td><iframe class="cat4col eight" src="/page/blankfortopmenu" 
-
-style="-moz-opacity: .10;filter: alpha(opacity=1);"></iframe><![endif]-->
-<div class="submenu">
-	<div class="cat4col">
-		<div class="submenuset first">
-			<ul>
-<li><a href="http://www.paperchase.co.uk/collections/brands/icat/brands/"><font style="color: #FFFFFF; font-weight:bold">brands</font></a></li>
-<li><a href="http://www.paperchase.co.uk/brands/the-cambridge-satchel-company/icat/bcambridge/">cambridge satchel</a></li>
-<li><a href="http://www.paperchase.co.uk/brands/filofax/icat/bfilofax/">filofax</a></li>
-<li><a href="http://www.paperchase.co.uk/brands/jellycat/icat/bjellycat/">jellycat</a></li>
-<li><a href="http://www.paperchase.co.uk/brands/lexon/icat/blexon/">lexon</a></li>
-<li><a href="http://www.paperchase.co.uk/brands/moleskine/icat/bmoleskine/">moleskine</a></li>
-<li><a href="http://www.paperchase.co.uk/brands/zatchels/icat/bzatchel/">zatchel</a></li>
-			</ul>
-		</div>
-		<div class="submenuset">
-			<ul>
-<li><font style="color: #FFFFFF; font-weight:bold">collections</font></li>
-<li><a href="http://www.paperchase.co.uk/collections/babushka/icat/cbabushka/">babushka</a></li>
-<li><a href="http://www.paperchase.co.uk/collections/bubble-and-sweet/icat/cbubbleandsweet/">bubble &amp; sweet</a></li>
-<li><a href="http://www.paperchase.co.uk/collections/checkerboard/icat/ccheckerboard/">checkerboard</a></li>
-<li><a href="http://www.paperchase.co.uk/collections/fantasia/icat/cfantasia/">fantasia</a></li>
-<li><a href="http://www.paperchase.co.uk/collections/head-chef/icat/cheadchef/">head chef</a></li>
-<li><a href="http://www.paperchase.co.uk/collections/kista/icat/ckista/">kista</a></li>
-
-
-			</ul>
-		</div>
-		<div class="submenuset">
-			<ul>
-<li><font style="color: #FFFFFF; font-weight:bold">&nbsp;</font></li>
-<li><a href="http://www.paperchase.co.uk/collections/kraft/icat/ckraft/">kraft</a></li>
-<li><a href="http://www.paperchase.co.uk/collections/london/icat/clondon/">london</a></li>
-<li><a href="http://www.paperchase.co.uk/collections/monkey-biz/icat/cmonkeybiz/">monkey biz</a></li>
-<li><a href="http://www.paperchase.co.uk/collections/teatime/icat/cteatime/">teatime</a></li>
-<li><a href="http://www.paperchase.co.uk/collections/tulipa/icat/ctulipa/">tulipa</a></li>
-<li><a href="http://www.paperchase.co.uk/collections/wedding/icat/oewedding/">wedding</a></li>
-		</ul></div>
-
-<div class="submenuset">
-			<ul>
-<li><font style="color: #FFFFFF; font-weight:bold">new collections</font></li>
-<li><a href="http://www.paperchase.co.uk/collections/ava/icat/cava/">ava</a></li>
-<li><a href="http://www.paperchase.co.uk/collections/gb-trippers/icat/cgbtrippers/">GB trippers</a></li>
-<li><a href="http://www.paperchase.co.uk/collections/high-tea/icat/chightea/">high tea</a></li>
-<li><a href="http://www.paperchase.co.uk/collections/heads-up/icat/cheadsup/">heads up</a></li>
-<li><a href="http://www.paperchase.co.uk/collections/prairie-rose/icat/cprairierose/">prairie rose</a></li>
-<li><a href="http://www.paperchase.co.uk/collections/tearaways/icat/ctearaways/">tearaways</a></li>
-
-
-			</ul>
-		</div>
-
-
-		
-	</div>
-</div><!--[if lte IE 6]></td></tr></table></a><![endif]-->
-</li>
-<!-- End Tab8 -->
-</ul></div></div><div class="Lcat_headerbtm2"><div class="Lcattree categorytree"><p><a href="/" class="treehome">Home</a>&nbsp;&gt;&nbsp;&nbsp;&gt;&nbsp;<a href="http://www.paperchase.co.uk/customer-service/pcat/customerservice/" class="menuFontNonSelected">customer service</a>&nbsp;&gt;&nbsp;security &amp; your data</p></div>
-
-
-	
-	<div class="Linternalimage freedelivery"><a href="http://www.paperchase.co.uk/page/deliverycharges" title="free delivery on all UK orders over £30"><img src="http://www.paperchase.co.uk/content/ebiz/paperchase/element/freedelivery/FREE_DELIVERY_0312.jpg" border="0" name="image" alt="free delivery on all UK orders over £30"></a></div>
-
-
-<div class="Lsearch locaytasearch">
-<h2><span></span>Search</h2>
-<form name="formlocaytasearch" id="formlocaytasearch" method="get" action="http://www.paperchase.co.uk/bin/venda" onsubmit="checkFieldGN('formlocaytasearch','q','enter keyword or product code'); checkFormGN(); return(false);">
-			<input type="hidden" name="ex" id="ex" value="co_wizr-locayta">
-			<fieldset>
-			<legend>Search Criteria</legend>
-						<label for="q">Keyword:</label>
-						<input type="hidden" name="typekeywordsearch" id="typekeywordsearch" value="keyword">
-						<input type="text" name="q" id="q" size="20" value="enter keyword or product code" onclick="if (this.value=='enter keyword or product code'){this.value='';}">
-			</fieldset>
-			<input type="image" name="searchsubmit" id="searchsubmit" src="http://www.paperchase.co.uk/content/ebiz/paperchase/resources/images/bt_go_search.gif" alt="search" onclick="if (q.value=='enter keyword or product code'){q.value='';}">
 </form>
-</div></div></div></div>
-	<div id="content-static">
-		<a name="content" id="content"></a>
-		<div id="static"><h1><span>security &amp; your data</span></h1>
-
-<div class="text">
-<p>At Paperchase, we take care to protect your privacy and secure your information. </p>
-
-<p>To provide credit card security and keep your personal information safe, we use Secure Sockets Layer (SSL) technology, the most widely used data encryption coding system for secure eCommerce transactions. If your browser doesn't accept the SSL technology, your purchase will not be permitted. All of your information is encrypted (scrambled) prior to being sent over the Internet to our system. To protect your information once we receive it, we place it on Tier 1 PCI DSS certified systems designed to keep information safe and inaccessible to other Internet users. </p>
+    </div>
+    </div> <!-- end: header-top-container -->
 
 
-<p>The <a title="PCI Tier 1 100% Security and Data Protection - opens in a new window" target="_blank" rel="popup console 590 660" href="http://www.venda.com/pci-compliance-certificate?referer=http://www.paperchase.co.uk">Payment Card Industry Data Security Standard (PCI DSS)</a> is a security standard and our Tier 1 Certification and compliance ensures unbeatable security and protection of sensitive customer information including credit cards. Paperchase.co.uk has gone through a rigorous independent audit and significant investment to attain Tier 1 PCI DSS certification. The purpose is to ensure that your data is as safe as possible when you purchase products online at Paperchase.co.uk.</p>
 
+    <div class="header-primary-container">
+        <div class="header-primary header container">
+            <div class="grid-full">
 
-<p>For return visits to the site, we can securely store your credit card information in our system using that same technology if you opt in for us to save your credit card information. Shopping at Paperchase.co.uk is safe, convenient and secure.</p>
+                    <div class="user-menu clearer">
+                        <div class="top-level-header">
+                            
+                            <div class="top-links show-separators clearer">
+                                                                    <div class="site-switcher">
+
+<div class="site-switcher">
+    <div class="storeSwitcherDD">
+        <span class="currency">
+            <em>GBP</em>
+            £        </span>
+        <span class="language en_GB-GBP">
+            <img class="en_GB-GBP" src="http://www.paperchase.co.uk/skin/frontend/paperchase/default/images/flags/en_GB-GBP.png" alt="en_GB-GBP">
+        </span>
+    </div>
+
+            <div class="storeSwitcherOptions">
+            <div class="switch switcher-language">
+                <label class="visuallyhidden">Select language:</label>
+                <ul class="languageSelect">
+                                                                                            <li>
+                            <a class="en_US-USD" href="http://www.paperchase-usa.com/">
+                                <span><img class="en_US-USD" src="http://www.paperchase.co.uk/skin/frontend/paperchase/default/images/flags/en_US-USD.png" alt="en_US-USD">
+                                    USD                                    <em>
+                                        $                                    </em>
+                                </span>
+                            </a>
+                        </li>
+                                                                    <li>
+                            <a class="en_GB-GBP" href="http://www.paperchase.co.uk/">
+                                <span><img class="en_GB-GBP" src="http://www.paperchase.co.uk/skin/frontend/paperchase/default/images/flags/en_GB-GBP.png" alt="en_GB-GBP">
+                                    GBP                                    <em>
+                                        £                                    </em>
+                                </span>
+                            </a>
+                        </li>
+                                                                                            <li>
+                            <a class="en_GB-EUR" href="http://www.paperchase.eu/">
+                                <span><img class="en_GB-EUR" src="http://www.paperchase.co.uk/skin/frontend/paperchase/default/images/flags/en_GB-EUR.png" alt="en_GB-EUR">
+                                    EUR                                    <em>
+                                        €                                    </em>
+                                </span>
+                            </a>
+                        </li>
+                                                                                    </ul>
+            </div>
+        </div>
+    </div></div>
+                                
+                                <ul class="links">
+                        <li class="first" id="link-sign-in"><a href="https://www.paperchase.co.uk/customer/account/login/" title="Sign In">Sign In</a></li>
+                                <li id="link-order-status"><a href="https://www.paperchase.co.uk/sales/order/history/" title="Order Status">Order Status</a></li>
+                                <li id="link-our-stores"><a href="http://www.paperchase.co.uk/our-stores/" title="Our Stores">Our Stores</a></li>
+                                <li class=" last" id="link-faq"><a href="http://www.paperchase.co.uk/faqs/" title="FAQs">FAQ</a></li>
+            </ul>
+
+                                <ul class="welcome-msg"><li></li></ul>
+                            </div>   
+
+                        </div>
+                    </div> 
+                    <div class="header-main nested-container clearer">
+
+                        <div class="logo-wrapper grid12-6">
+                                                            <a href="http://www.paperchase.co.uk/" title="Paperchase" class="logo"><strong>Paperchase</strong><img src="http://www.paperchase.co.uk/skin/frontend/paperchase/default/images/logo.png" alt="Paperchase"></a>
+                                                    </div>
+
+                        <div class="top-search-wrapper grid12-4">
+                            <form id="search_mini_form" action="http://www.paperchase.co.uk/catalogsearch/result/" method="get">
+<div class="form-search">
+    <label for="search">Search site:</label><input id="search" type="text" name="q" value="" class="input-text" maxlength="128"><button type="submit" title="Go" class="button"><span><span>Go</span></span></button>
+    <div id="search_autocomplete" class="search-autocomplete"></div>
+    <script type="text/javascript">
+    //<![CDATA[
+        var searchForm = new Varien.searchForm('search_mini_form', 'search', 'Find what you’re looking for...');
+        searchForm.initAutocomplete('http://www.paperchase.co.uk/catalogsearch/ajax/suggest/', 'search_autocomplete');
+    //]]>
+    </script>
 </div>
+</form>
+                        </div>
 
-<h3>what information do we collect?</h3>
-<div class="text">
-<p>We collect various types of information depending upon how you use our site. We will not disclose your personal details to third parties.</p>
+                        <div class="mini-cart grid12-2">
+                            
+<div class="top-cart">
+<div class="dropdown-toggle cover">
+                    <div class="empty">
+                <span class="label">Bag</span>
+                <span class="subtotal"><span class="price">£0.00</span></span>
+                <span class="amount"><em>0</em></span>
+            </div>
+            </div> <!-- end: dropdown-toggle -->
 
+    <div id="topCartContent" class="block-content" style="display:none">
+        <div class="inner-wrapper">                <div class="dropdown-menu left-hand">
+                                <p class="cart-empty empty">
+                        You have no items in your shopping bag.                    </p>
+                                
+            
+        </div> <!-- end: dropdown-menu -->
+
+
+        </div>
+    </div>
+<script type="text/javascript">
+    Enterprise.TopCart.initialize('topCartContent');
+    // Below can be used to show minicart after item added
+    // Enterprise.TopCart.showCart(7);
+</script>
+</div>
+                            <div class="after-mini-cart"></div>
+                        </div>
+
+                    </div>                                 </div>         </div>     </div>
+
+    <div class="nav-container hide-below-768">
+        <div class="nav container clearer show-bg">
+            
+    
+        <ul id="nav" class="grid-full wide">
+        
+                        
+                                    
+                                        <li class="level0 nav-1 level-top first parent">
+<a href="http://www.paperchase.co.uk/outlet" class="level-top">
+<span>Sale</span>
+</a>
+<div class="level0-wrapper dropdown-6col">
+<div class="nav-block nav-block-top grid-full std"><div class="grid12-3">
+<h2>Sale</h2>
 <ul>
-<li>When you order from us, we collect some personal information from you including your name, billing address, delivery address, email address, phone number(s) and credit card number (with expiration date) or gift voucher number. We also store information on the person who will receive any gift you send (e.g., that person's name and address) and we will retain a record of your purchases. In addition, if you are a registered user and have signed in when you enter this information, it will automatically be saved in your “my account” area for ease of reference. We also provide you with the option requiring us not to save your credit card information with us if you so choose.</li>
-
-<li>When you become a Paperchase.co.uk registered user, we collect information from you including your name, mailing address, email address and password. This information is gathered to make your shopping experience as a registered user as quick and easy as possible. Additionally, we collect certain personal information if you choose to opt-in to our email newsletters or SMS alerts.</li>
-
-<li>Our primary goal in collecting personal information - including your first name, last name, purchase history, phone number(s), valid email and residential address and credit card data - is to provide you with a smooth, efficient, customised shopping experience and to let you know about offers that may be of interest to you.</li>
-
-<li>Data collected from this website will also help us work towards improving our website content and for internal marketing analysis and promotional purposes. We will not disclose your personal details to third parties.</li>
-
-<li>Information collected from you relating to career opportunities within Paperchase will be used as part of our internal recruitment process only and will not be shared with other parties.</li>
+<li><a href="http://www.paperchase.co.uk/outlet/stationery-sale">Stationery</a></li>
+<li><a href="http://www.paperchase.co.uk/outlet/gifts-sale">Gifts</a></li>
+<li><a href="http://www.paperchase.co.uk/outlet/cards-sale">Cards</a></li>
+<li><a href="http://www.paperchase.co.uk/outlet/wrap-sale">Wrap</a></li>
+<li><a href="http://www.paperchase.co.uk/outlet/art-sale">Art</a></li>
+<!--<li><a href="http://www.paperchase.co.uk/outlet/cambridge-satchel-sale">The Cambridge Satchel Company Sale</a></li>-->
 </ul>
 
-<p>This website is operated by Paperchase Products Ltd, and this security policy applies to this website only.</p>
+</div>
+<div class="grid12-3">
+<h2>Under...</h2>
+<ul>
+<li><a href="http://www.paperchase.co.uk/outlet/under-5">£5</a></li>
+<li><a href="http://www.paperchase.co.uk/outlet/under-10">£10</a></li>
+<li><a href="http://www.paperchase.co.uk/outlet/under-20">£20</a></li>
+</ul>
 
-<p>If you have any questions or comments about our security or privacy policy, please <a href="http://www.paperchase.co.uk/help/contact-us/page/contact/">contact us</a>.</p>
-
-<p>Read more about <a href="/page/cookies">privacy &amp; cookies</a>.</p>
-
+</div></div><div class="nav-block nav-block-center grid12-12 itemgrid itemgrid-6col">
+<ul class="level0">
+<li class="level1 nav-1-1 first item">
+<a href="http://www.paperchase.co.uk/outlet/stationery-sale">
+<span>Stationery Sale</span>
+</a>
+</li><li class="level1 nav-1-2 item">
+<a href="http://www.paperchase.co.uk/outlet/cards-sale">
+<span>Cards Sale</span>
+</a>
+</li><li class="level1 nav-1-3 item">
+<a href="http://www.paperchase.co.uk/outlet/wrap-sale">
+<span>Wrap Sale</span>
+</a>
+</li><li class="level1 nav-1-4 item">
+<a href="http://www.paperchase.co.uk/outlet/gifts-sale">
+<span>Gifts Sale</span>
+</a>
+</li><li class="level1 nav-1-5 item">
+<a href="http://www.paperchase.co.uk/outlet/art-sale">
+<span>Art Sale</span>
+</a>
+</li><li class="level1 nav-1-6 item">
+<a href="http://www.paperchase.co.uk/outlet/cambridge-satchel-sale">
+<span>Cambridge Satchel Sale</span>
+</a>
+</li><li class="level1 nav-1-7 item">
+<a href="http://www.paperchase.co.uk/outlet/under-5">
+<span>£5 &amp; Under</span>
+</a>
+</li><li class="level1 nav-1-8 item">
+<a href="http://www.paperchase.co.uk/outlet/under-10">
+<span>£10 &amp; Under</span>
+</a>
+</li><li class="level1 nav-1-9 last item">
+<a href="http://www.paperchase.co.uk/outlet/under-20">
+<span>£20 &amp; Under</span>
+</a>
+</li>
+</ul>
 </div>
 </div>
-		<div class="clear-all"></div>
-		<div id="footer"><div class="Lcat_footer"><div class="Lcat_footer1">
-	
-	<div class="Linternalimage giftcertificatelink"><a href="http://www.paperchase.co.uk/bin/venda?ex=co_wizr-giftcertificates&amp;bsref=paperchase" title="buy gift vouchers"><img src="http://www.paperchase.co.uk/content/ebiz/paperchase/element/giftcertificatelink/giftvoucher.png" border="0" name="image" alt="buy gift vouchers"></a></div>
-
-
-
-	
-	<div class="Linternalimage giftfinder"><a href="http://www.paperchase.co.uk/page/giftfinder" title="gift finder"><img src="http://www.paperchase.co.uk/content/ebiz/paperchase/element/giftfinder/giftfinder.png" border="0" name="image" alt="gift finder"></a></div>
-
-
-
-	
-	<div class="Linternalimage personalcalendar"><a href="http://www.paperchase.co.uk/page/myaccount" title="personal calendar"><img src="http://www.paperchase.co.uk/content/ebiz/paperchase/element/personalcalendar/personal.png" border="0" name="image" alt="personal calendar"></a></div>
-
-
-
-	
-	<div class="Linternalimage news"><a href="http://www.paperchase.co.uk/page/news" title="news"><img src="http://www.paperchase.co.uk/content/ebiz/paperchase/element/news/news.png" border="0" name="image" alt="news"></a></div>
-
-
-</div><div class="Lcat_footer2"><style>
-#store h1 {display:none;}
-</style>
-
-<div class="Lstorelocator storefinder">
-<h2><span></span>store finder</h2>
-<form id="storefinder" name="storefinder" method="post" onsubmit="return checkPostcode('storefinder','zipc','enter UK postcode')" action="http://www.paperchase.co.uk/bin/venda">
-	<input type="hidden" name="ex" value="co_wizr-postcodedistance">
-	<input type="hidden" name="threshold" value="1">
-	<input type="hidden" name="bsref" value="paperchase">
-	<input type="hidden" name="itemsperpage" value="4">
-	<input type="hidden" name="zipc2list" value="ab116gy,wa141sf,rg217eb,ba11dg,bt14ge,bt14qg,hu179aj,b24ls,b54bp,da99se,bh12aa,bn11hq,bs13bd,bs107tt,bs81re,bs13xd,br11ez,ip333aa,gu153pg,cb23nr,ct12je,cf102eq,cf101tt,cm11dh,gl501hp,ch11ha,po191lb,po191qf,co11wf,cv11dx,cr01ty,dl37qe,de12nq,dd11uh,dh13uj,eh23ee,ex43ln,g23ew,gu14te,hg11rf,hp112bz,hu13jz,ip13as,kt11tp,cv324dn,cv324da,ls16al,ls14dt,le14fs,le16dp,ln57dr,l13dl,l16da,nw43fb,e145ny,ec2v6dn,w45ta,sw111sa,wc2e8hd,nw12du,ec3m3be,n10ps,n1c4al,sw35ew,sw1x7xl,ec4a3bf,sw1y6ww,sw151sr,nw12ql,wc2r0qu,e152tf,w1t7ps,sw1v1ju,sw1e6qx,sw184tf,w25ru,w127ge,sw198ye,sw197nl,me141qp,m31bd,m11px,m178da,ts15ad,mk93ba,mk92ga,ne611ns,rg141ee,ne17jb,ne119yj,ne119ye,ne289nd,nr21pb,nr21sh,ng12gr,ng17dl,ng13hf,ox11er,ph15uh,pe11nt,pl11ea,pl11rj,po13tz,rg12ap,rg12ah,rg12as,tw91ha,tw92na,tn12ss,sp12aa,s91er,s12fb,sy11st,b913gz,so151qd,al13hl,sn11ld,ub81la,kt121gh,wa11qp,so238ah,sl41du,yo19na,">
-	                                                                                        
-	
-	<fieldset>
-		<legend></legend>
-		<label for="formzipc" class="re-waiHide">Enter UK postcode</label><input type="text" name="zipc" id="formzipc" value="enter UK postcode" onfocus="this.value='';">
-		
-		<label for="formbytown" class="re-waiHide">Find a store by town</label><select name="bytown" id="formbytown" onchange="postcode=this.value;this.form.zipc.value=postcode;this.form.submit();" class="town">
-		<option selected="selected">search all stores</option>
-		
-		</select>
-	</fieldset>
-	
-	<input type="image" name="pcsubmit" id="pcsubmit" src="http://www.paperchase.co.uk/content/ebiz/paperchase/resources/images/bt_go.gif" alt="find">
-	
-	</form>
-</div>
-	
-	<div class="Linternalimage searchallstores"><a href="http://www.paperchase.co.uk/page/storefinder/" title="or search all stores">or search all stores</a></div>
-
-
-<div class="Lemailsignup emailsignup">
-<h2><span></span>newsletter sign up</h2>
-<form name="emailsonly1" action="http://www.paperchase.co.uk/bin/venda" method="get" onsubmit="validateEmail(document.emailsonly1,'Please enter a valid email address'); return false;">
-<input type="hidden" name="ex" value="co_disp-view">
-<input type="hidden" name="bsref" value="paperchase">
-<input type="hidden" name="page" value="signupforemails">
-	
-	<fieldset>
-	<legend>Sign up for Newsletter</legend>
-			<label for="emailsignup"></label>
-			<input type="text" name="email" id="emailsignup" size="16" value="enter email address here" onfocus="if (this.value=='enter email address here') {this.value=''};">
-			<input type="image" value="submit" src="http://www.paperchase.co.uk/content/ebiz/paperchase/resources/images/bt_submit.gif" alt="send" id="newslettersubmit">
-			
-	</fieldset>
-	
-</form>
-</div></div><div class="Lcat_footer3"><div id="listpagestatic">
-<div class="customerservice">
-<p class="headerlist">customer service</p>
-<p class="listcontent"><a href="http://www.paperchase.co.uk/customer-service/order-tracking/page/ordertracking/">order tracking</a></p>
-<p class="listcontent"><a href="http://www.paperchase.co.uk/customer-service/delivery-details/page/deliverycharges/">delivery details</a></p>
-<p class="listcontent"><a href="http://www.paperchase.co.uk/customer-service/returns-policy/page/refundsandreturns/">returns policy</a></p>
-<p class="listcontent"><a href="http://www.paperchase.co.uk/customer-service/terms+conditions/page/terms/">terms &amp; conditions</a></p>
-<p class="listcontent"><a href="http://www.paperchase.co.uk/customer-service/security+your-data/page/securitypolicy/">security &amp; your data</a></p>
-<p class="listcontent"><a href="http://www.paperchase.co.uk/customer-service/privacy+cookies/page/cookies/">privacy &amp; cookies</a></p>
+</li><li class="level0 nav-2 level-top parent">
+<a href="http://www.paperchase.co.uk/stationery" class="level-top">
+<span>Stationery</span>
+</a>
+<div class="level0-wrapper dropdown-6col">
+<div class="nav-block nav-block-top grid-full std"><div class="grid12-3 dark">
+<h2>Most Popular</h2>
+<ul>
+<li><a href="http://www.paperchase.co.uk/stationery/diaries-organisers/diaries"><b>Mid Year Diaries</b></a></li>
+<li><a href="http://www.paperchase.co.uk/stationery/notebooks"><b>Notebooks</b></a></li>
+<li><a href="http://www.paperchase.co.uk/stationery/diaries-organisers/organisers"><b>Organisers</b></a></li>
+<li><a href="http://www.paperchase.co.uk/stationery/essentials/pencil-cases"><b>Pencil Cases &amp; Pen Pots</b></a></li>
+<li><a href="http://www.paperchase.co.uk/stationery/photo-albums-scrapbooks/photo-albums"><b>Photo Albums</b></a></li>
+<li><a href="http://www.paperchase.co.uk/stationery/photo-albums-scrapbooks/scrapbooks"><b>Scrapbooks</b></a></li>
+<li><a href="http://www.paperchase.co.uk/stationery/stationery-essentials"><b>Stationery Essentials</b></a></li>
+<li><a href="http://www.paperchase.co.uk/stationery/essentials/stickers"><b>Stickers</b></a></li>
+<li><a href="http://www.paperchase.co.uk/wedding"><b>Wedding Shop</b></a></li></ul>
 </div>
 
-<div class="onlineservices">
-<p class="headerlist">online services</p>
-<p class="listcontent"><a href="http://www.paperchase.co.uk/bin/venda?ex=co_wizr-giftcertificates&amp;bsref=paperchase">gift vouchers</a></p>
-<p class="listcontent"><a href="http://www.paperchase.co.uk/page/myaccount/">personal calendar</a></p>
-<p class="listcontent"><a href="http://www.paperchase.co.uk/gift-finder/page/giftfinder/">gift finder</a></p>
-<!--<p class="listcontent"><a href="http://www.paperchase.co.uk/online-services/business-to-business/page/business_to_business/">business to business</a></p>-->
-<p class="listcontent"><a href="http://www.paperchase.co.uk/online-services/quickshop/page/quickshop/">quickshop</a></p>
-<!--<p class="listcontent"><a href="http://www.paperchase.co.uk/online-services/our-christmas/page/christmas/">our christmas</a></p>-->
-<p class="listcontent"><a href="http://www.paperchase.co.uk/online-services/holidays+religious-festivals/page/holidaysandfestivals/">holidays &amp; festivals</a></p>
+<div class="grid12-3">
+<h2>Writing</h2>
+<ul>
+<li><a href="http://www.paperchase.co.uk/stationery/notebooks">Notebooks</a></li>
+<li><a href="http://www.paperchase.co.uk/stationery/writing/pens-and-pencils">Pens &amp; Pencils</a></li>
+<li><a href="http://www.paperchase.co.uk/stationery/writing/premium-pens">Premium Pens</a></li>
+<li><a href="http://www.paperchase.co.uk/stationery/writing/writing-sets">Writing Sets</a></li>
+<li><a href="http://www.paperchase.co.uk/stationery/writing/paper">Paper &amp; Envelopes</a></li>
+<li><a href="http://www.paperchase.co.uk/stationery/writing/address-books">Address Books</a></li>
+<li><a href="http://www.paperchase.co.uk/stationery/writing/list-pads">List Pads</a></li>
+<li><a href="http://www.paperchase.co.uk/stationery/writing/noto">Noto</a></li>
+<li><a href="http://www.paperchase.co.uk/stationery/writing/agenzio">Agenzio</a></li>
+<li><a href="http://www.paperchase.co.uk/stationery/writing/paperworks">Paperworks</a></li>
+</ul>
+
+<h2>Wedding Shop</h2>
+<ul>
+<li><a href="http://www.paperchase.co.uk/wedding"><b>View All</b></a></li></ul>
 </div>
 
-<div class="aboutus">
-<p class="headerlist">about us</p>
-<p class="listcontent"><a href="http://www.paperchase.co.uk/about-us/company-information/page/companyinformation/">company information</a></p>
-<p class="listcontent"><a href="http://www.paperchase.co.uk/about-us/our-stores/page/ourstores/">our stores</a></p>
-<p class="listcontent"><a href="http://www.paperchase.co.uk/about-us/the-environment/page/environment/">environment</a></p>
-<p class="listcontent"><a href="http://www.paperchase.co.uk/about-us/latest-news/page/news/">latest news</a></p>
-<p class="listcontent"><a href="http://www.paperchase.co.uk/about-us/newsletter/page/newsletter/">newsletter</a></p>
-<p class="listcontent"><a href="http://www.paperchase.co.uk/about-us/careers/page/careers/">careers</a></p>
+<div class="grid12-3">
+<h2>Photo Albums &amp; Scrapbooks</h2>
+<ul>
+<li><a href="http://www.paperchase.co.uk/stationery/photo-albums-scrapbooks/photo-albums">Photo Albums</a></li>
+<li><a href="http://www.paperchase.co.uk/stationery/photo-albums-scrapbooks/scrapbooks">Scrapbooks</a></li>
+</ul>
+
+<h2>Diaries &amp; Organisers</h2>
+<ul>
+<li><a href="http://www.paperchase.co.uk/stationery/diaries-organisers/diaries">Mid Year Diaries</a></li>
+<li><a href="http://www.paperchase.co.uk/stationery/diaries-organisers/organisers">Organisers</a></li>
+<li><a href="http://www.paperchase.co.uk/stationery/diaries-organisers/filofax">Filofax</a></li>
+</ul>
+
+<h2>Desk Accessories</h2>
+<ul>
+<li><a href="http://www.paperchase.co.uk/stationery/essentials/desk-storage">Desk Storage</a></li>
+<li><a href="http://www.paperchase.co.uk/stationery/essentials/pencil-cases">Pencil Cases &amp; Pen Pots</a></li>
+<li><a href="http://www.paperchase.co.uk/stationery/essentials/sticky-notes">Sticky Notes &amp; Memo Blocks</a></li>
+<li><a href="http://www.paperchase.co.uk/stationery/essentials/stickers">Stickers</a></li>
+<li><a href="http://www.paperchase.co.uk/stationery/essentials/desk-accessories"><b>View All</b></a></li>
+</ul>
 </div>
 
-<div class="help">
-<p class="headerlist">help</p>
-<p class="listcontent"><a href="http://www.paperchase.co.uk/help/faq/page/faqs/">faq</a></p>
-<p class="listcontent"><a href="http://www.paperchase.co.uk/help/contact-us/page/contact/">contact us</a></p>
-<p class="listcontent"><a href="http://www.paperchase.co.uk/help/site-map/page/sitemap/">site map</a></p>
+
+<div class="grid12-3">
+<h2>Filing &amp; Storage</h2>
+<ul>
+<li><a href="http://www.paperchase.co.uk/stationery/filing-storage/document-wallets">Document Wallets</a></li>
+<li><a href="http://www.paperchase.co.uk/stationery/filing-storage/filing-accessories">Filing Accessories</a></li>
+<li><a href="http://www.paperchase.co.uk/stationery/filing-storage/lever-arch-files">Lever Arch Files &amp; Ring Binders</a></li>
+<li><a href="http://www.paperchase.co.uk/stationery/filing-storage/magazine-files">Magazine Files</a></li>
+<li><a href="http://www.paperchase.co.uk/stationery/filing-storage/storage-boxes">Storage Boxes</a></li>
+<li><a href="http://www.paperchase.co.uk/stationery/filing-storage/all-filing-storage"><b>View All</b></a></li>
+</ul>
+
+<h2>Sale</h2>
+<ul>
+<li><a href="http://www.paperchase.co.uk/outlet/stationery-sale">Stationery</a></li>
+</ul>
+</div></div><div class="nav-block nav-block-center grid12-12 itemgrid itemgrid-6col">
+<ul class="level0">
+<li class="level1 nav-2-1 first item">
+<a href="http://www.paperchase.co.uk/stationery/notebooks">
+<span>Notebooks</span>
+</a>
+</li><li class="level1 nav-2-2 item">
+<a href="http://www.paperchase.co.uk/stationery/stationery-essentials">
+<span>Stationery Essentials</span>
+</a>
+</li><li class="level1 nav-2-3 parent item">
+<a href="http://www.paperchase.co.uk/stationery/writing">
+<span>Writing</span>
+</a>
+
+<ul class="level1">
+<li class="level2 nav-2-3-1 first">
+<a href="http://www.paperchase.co.uk/stationery/writing/pens-and-pencils">
+<span>Pens &amp; Pencils</span>
+</a>
+</li><li class="level2 nav-2-3-2">
+<a href="http://www.paperchase.co.uk/stationery/writing/premium-pens">
+<span>Premium Pens</span>
+</a>
+</li><li class="level2 nav-2-3-3">
+<a href="http://www.paperchase.co.uk/stationery/writing/writing-sets">
+<span>Writing Sets</span>
+</a>
+</li><li class="level2 nav-2-3-4">
+<a href="http://www.paperchase.co.uk/stationery/writing/address-books">
+<span>Address Books</span>
+</a>
+</li><li class="level2 nav-2-3-5">
+<a href="http://www.paperchase.co.uk/stationery/writing/paper">
+<span>Paper &amp; Envelopes</span>
+</a>
+</li><li class="level2 nav-2-3-6">
+<a href="http://www.paperchase.co.uk/stationery/writing/list-pads">
+<span>List pads</span>
+</a>
+</li><li class="level2 nav-2-3-7">
+<a href="http://www.paperchase.co.uk/stationery/writing/noto">
+<span>Noto</span>
+</a>
+</li><li class="level2 nav-2-3-8">
+<a href="http://www.paperchase.co.uk/stationery/writing/agenzio">
+<span>Agenzio</span>
+</a>
+</li><li class="level2 nav-2-3-9">
+<a href="http://www.paperchase.co.uk/stationery/writing/paperworks">
+<span>Paperworks</span>
+</a>
+</li><li class="level2 nav-2-3-10 last">
+<a href="http://www.paperchase.co.uk/stationery/writing/lamy">
+<span>Lamy</span>
+</a>
+</li>
+</ul>
+
+</li><li class="level1 nav-2-4 parent item">
+<a href="http://www.paperchase.co.uk/stationery/diaries-organisers">
+<span>Diaries &amp; Organisers</span>
+</a>
+
+<ul class="level1">
+<li class="level2 nav-2-4-11 first">
+<a href="http://www.paperchase.co.uk/stationery/diaries-organisers/diaries">
+<span>Diaries </span>
+</a>
+</li><li class="level2 nav-2-4-12">
+<a href="http://www.paperchase.co.uk/stationery/diaries-organisers/organisers">
+<span>Organisers</span>
+</a>
+</li><li class="level2 nav-2-4-13 last">
+<a href="http://www.paperchase.co.uk/stationery/diaries-organisers/filofax">
+<span>Filofax</span>
+</a>
+</li>
+</ul>
+
+</li><li class="level1 nav-2-5 parent item">
+<a href="http://www.paperchase.co.uk/stationery/photo-albums-scrapbooks">
+<span>Albums &amp; Scrapbooks</span>
+</a>
+
+<ul class="level1">
+<li class="level2 nav-2-5-14 first">
+<a href="http://www.paperchase.co.uk/stationery/photo-albums-scrapbooks/scrapbooks">
+<span>Scrapbooks</span>
+</a>
+</li><li class="level2 nav-2-5-15 last">
+<a href="http://www.paperchase.co.uk/stationery/photo-albums-scrapbooks/photo-albums">
+<span>Photo Albums</span>
+</a>
+</li>
+</ul>
+
+</li><li class="level1 nav-2-6 parent item">
+<a href="http://www.paperchase.co.uk/stationery/essentials">
+<span>Desk Accessories</span>
+</a>
+
+<ul class="level1">
+<li class="level2 nav-2-6-16 first">
+<a href="http://www.paperchase.co.uk/stationery/essentials/desk-accessories">
+<span>All Desk  Accessories</span>
+</a>
+</li><li class="level2 nav-2-6-17">
+<a href="http://www.paperchase.co.uk/stationery/essentials/bookmarks">
+<span>Bookmarks</span>
+</a>
+</li><li class="level2 nav-2-6-18">
+<a href="http://www.paperchase.co.uk/stationery/essentials/cellotape-adhesives">
+<span>Cellotape &amp; Adhesives</span>
+</a>
+</li><li class="level2 nav-2-6-19">
+<a href="http://www.paperchase.co.uk/stationery/essentials/desk-storage">
+<span>Desk Storage</span>
+</a>
+</li><li class="level2 nav-2-6-20">
+<a href="http://www.paperchase.co.uk/stationery/essentials/erasers-sharpeners">
+<span>Erasers &amp; Sharpeners</span>
+</a>
+</li><li class="level2 nav-2-6-21">
+<a href="http://www.paperchase.co.uk/stationery/essentials/highlighters-and-markers">
+<span>Highlighters &amp; Markers</span>
+</a>
+</li><li class="level2 nav-2-6-22">
+<a href="http://www.paperchase.co.uk/stationery/essentials/pencil-cases">
+<span>Pencil cases &amp; Pen pots</span>
+</a>
+</li><li class="level2 nav-2-6-23">
+<a href="http://www.paperchase.co.uk/stationery/essentials/push-pins-paperclips">
+<span>Push Pins &amp; Paperclips</span>
+</a>
+</li><li class="level2 nav-2-6-24">
+<a href="http://www.paperchase.co.uk/stationery/essentials/staplers-hole-punches">
+<span>Staplers &amp; Hole Punches</span>
+</a>
+</li><li class="level2 nav-2-6-25">
+<a href="http://www.paperchase.co.uk/stationery/essentials/sticky-notes">
+<span>Sticky notes &amp; Memo blocks</span>
+</a>
+</li><li class="level2 nav-2-6-26 last">
+<a href="http://www.paperchase.co.uk/stationery/essentials/stickers">
+<span>Stickers</span>
+</a>
+</li>
+</ul>
+
+</li><li class="level1 nav-2-7 parent item">
+<a href="http://www.paperchase.co.uk/stationery/filing-storage">
+<span>Filing &amp; Storage</span>
+</a>
+
+<ul class="level1">
+<li class="level2 nav-2-7-27 first">
+<a href="http://www.paperchase.co.uk/stationery/filing-storage/all-filing-storage">
+<span>All Filing &amp; Storage</span>
+</a>
+</li><li class="level2 nav-2-7-28">
+<a href="http://www.paperchase.co.uk/stationery/filing-storage/lever-arch-files">
+<span>Lever Arch &amp; Ring Binders </span>
+</a>
+</li><li class="level2 nav-2-7-29">
+<a href="http://www.paperchase.co.uk/stationery/filing-storage/document-wallets">
+<span>Document Wallets</span>
+</a>
+</li><li class="level2 nav-2-7-30">
+<a href="http://www.paperchase.co.uk/stationery/filing-storage/magazine-files">
+<span>Magazine Files</span>
+</a>
+</li><li class="level2 nav-2-7-31">
+<a href="http://www.paperchase.co.uk/stationery/filing-storage/filing-accessories">
+<span>Filing Accessories</span>
+</a>
+</li><li class="level2 nav-2-7-32 last">
+<a href="http://www.paperchase.co.uk/stationery/filing-storage/storage-boxes">
+<span>Storage Boxes</span>
+</a>
+</li>
+</ul>
+
+</li><li class="level1 nav-2-8 last parent item">
+<a href="http://www.paperchase.co.uk/stationery/wedding">
+<span>Wedding </span>
+</a>
+
+<ul class="level1">
+<li class="level2 nav-2-8-33 first">
+<a href="http://www.paperchase.co.uk/stationery/wedding/wedding-invitations">
+<span>Wedding Invitations</span>
+</a>
+</li><li class="level2 nav-2-8-34">
+<a href="http://www.paperchase.co.uk/stationery/wedding/place-cards">
+<span>Place cards</span>
+</a>
+</li><li class="level2 nav-2-8-35">
+<a href="http://www.paperchase.co.uk/stationery/wedding/thank-you-cards">
+<span>Thank you cards</span>
+</a>
+</li><li class="level2 nav-2-8-36">
+<a href="http://www.paperchase.co.uk/stationery/wedding/photo-albums">
+<span>Photo albums</span>
+</a>
+</li><li class="level2 nav-2-8-37 last">
+<a href="http://www.paperchase.co.uk/stationery/wedding/wedding-guest-books">
+<span>Wedding guest books</span>
+</a>
+</li>
+</ul>
+
+</li>
+</ul>
+</div>
+</div>
+</li><li class="level0 nav-3 level-top parent">
+<a href="http://www.paperchase.co.uk/cards" class="level-top">
+<span>Cards &amp; Wrap</span>
+</a>
+<div class="level0-wrapper dropdown-6col">
+<div class="nav-block nav-block-top grid-full std"><div class="grid12-3">
+<h2>Birthday Cards</h2>
+<ul>
+<li><a href="http://www.paperchase.co.uk/cards/birthday-cards/for-her">For Her</a></li>
+<li><a href="http://www.paperchase.co.uk/cards/birthday-cards/for-him">For Him</a></li>
+<li><a href="http://www.paperchase.co.uk/cards/birthday-cards/childrens-birthday-cards">Children's</a></li>
+<li><a href="http://www.paperchase.co.uk/cards/birthday-cards/family">Family</a></li>
+<li><a href="http://www.paperchase.co.uk/cards/birthday-cards/age-birthday-cards">Age</a></li>
+<li><a href="http://www.paperchase.co.uk/cards/birthday-cards/fun">Fun</a></li>
+<li><a href="http://www.paperchase.co.uk/cards/birthday-cards/humour">Humour</a></li>
+<li><a href="http://www.paperchase.co.uk/cards/birthday-cards/photographic">Photographic</a></li>
+<li><a href="http://www.paperchase.co.uk/cards/birthday-cards/art-illustration">Art &amp; Illustration</a></li>
+<li><a href="http://www.paperchase.co.uk/cards/birthday-cards/just-words">Just Words</a></li>
+<li><a href="http://www.paperchase.co.uk/cards/birthday-cards/all-birthday-cards">All Birthday Cards</a></li>
+</ul>
+</div>
+<div class="grid12-3">
+<h2>Occasion Cards</h2>
+<ul>
+<li><a href="http://www.paperchase.co.uk/cards/occasion-cards/eid-cards">Eid</a></li>
+<li><a href="http://www.paperchase.co.uk/cards/occasion-cards/anniversary-cards">Anniversary</a></li>
+<li><a href="http://www.paperchase.co.uk/cards/occasion-cards/congratulations-and-good-luck-cards">Congratulations &amp; Good Luck</a></li>
+<li><a href="http://www.paperchase.co.uk/cards/occasion-cards/engagement-and-wedding-cards">Engagement &amp; Wedding</a></li>
+<li><a href="http://www.paperchase.co.uk/cards/occasion-cards/new-baby-and-christening-cards">New Baby &amp; Christening</a></li>
+<li><a href="http://www.paperchase.co.uk/cards/occasion-cards/sympathy-cards">With Sympathy</a></li>
+<li><a href="http://www.paperchase.co.uk/cards/occasion-cards/get-well-soon-cards">Get Well Soon</a></li>
+<li><a href="http://www.paperchase.co.uk/cards/occasion-cards/bar-mitzvah-cards">Bar &amp; Bat Mitzvah</a></li>
+<li><a href="http://www.paperchase.co.uk/cards/occasion-cards/notecards">Notecards</a></li>
+<li><a href="http://www.paperchase.co.uk/cards/occasion-cards/invitations">Invitations</a></li>
+<li><a href="http://www.paperchase.co.uk/cards/occasion-cards/thank-you-cards">Thank You</a></li>
+<li><a href="http://www.paperchase.co.uk/cards/occasion-cards/place-cards">Place Cards</a></li>
+
+
+</ul>
+</div>
+<div class="grid12-3">
+<h2>Wrap</h2>
+<ul>
+<li><a href="http://www.paperchase.co.uk/cards/wrap/roll-wrapping-paper">Wrapping Paper</a></li>
+<li><a href="http://www.paperchase.co.uk/cards/wrap/gift-boxes-bags">Gift Boxes &amp; Bags</a></li>
+<li><a href="http://www.paperchase.co.uk/cards/wrap/ribbon-bows">Ribbons &amp; Bows</a></li>
+<li><a href="http://www.paperchase.co.uk/cards/wrap/tissue">Tissue</a></li>
+<li><a href="http://www.paperchase.co.uk/cards/wrap/gift-tags-and-stickers">Gift Tags &amp; Stickers</a></li>
+<li><a href="http://www.paperchase.co.uk/cards/wrap/tape-and-scissors">Tape &amp; Scissors</a></li>
+<li><a href="http://www.paperchase.co.uk/cards/wrap/washi-tapes">Washi Tapes</a></li>
+</ul>
+
 </div>
 
-</div> </div><div class="Lcat_footer4"><div id="pcilogo">
-<a href="http://www.venda.com/pci-compliance-certificate?referer=http://www.paperchase.co.uk" rel="popup console 590 660" target="_blank" title="PCI Tier 1 100% Security and Data Protection - opens in a new window">
-<img src="/venda-support/images/pcilogo/en_pcilogo_light.png" alt="PCI Tier 1 100% Security and Data Protection"></a>
+
+<div class="grid12-3">
+<h2>Sale</h2>
+<ul>
+<li><a href="http://www.paperchase.co.uk/outlet/cards-sale">Cards</a></li>
+<li><a href="http://www.paperchase.co.uk/outlet/wrap-sale">Wrap</a></li>
+</ul>
+</div></div><div class="nav-block nav-block-center grid12-12 itemgrid itemgrid-6col">
+<ul class="level0">
+<li class="level1 nav-3-1 first parent item">
+<a href="http://www.paperchase.co.uk/cards/birthday-cards">
+<span>Birthday Cards</span>
+</a>
+
+<ul class="level1">
+<li class="level2 nav-3-1-1 first">
+<a href="http://www.paperchase.co.uk/cards/birthday-cards/for-her">
+<span>For Her</span>
+</a>
+</li><li class="level2 nav-3-1-2">
+<a href="http://www.paperchase.co.uk/cards/birthday-cards/for-him">
+<span>For Him</span>
+</a>
+</li><li class="level2 nav-3-1-3">
+<a href="http://www.paperchase.co.uk/cards/birthday-cards/childrens-birthday-cards">
+<span>Children's</span>
+</a>
+</li><li class="level2 nav-3-1-4">
+<a href="http://www.paperchase.co.uk/cards/birthday-cards/age-birthday-cards">
+<span>Age</span>
+</a>
+</li><li class="level2 nav-3-1-5">
+<a href="http://www.paperchase.co.uk/cards/birthday-cards/fun">
+<span>Fun</span>
+</a>
+</li><li class="level2 nav-3-1-6">
+<a href="http://www.paperchase.co.uk/cards/birthday-cards/humour">
+<span>humour</span>
+</a>
+</li><li class="level2 nav-3-1-7">
+<a href="http://www.paperchase.co.uk/cards/birthday-cards/photographic">
+<span>Photographic</span>
+</a>
+</li><li class="level2 nav-3-1-8">
+<a href="http://www.paperchase.co.uk/cards/birthday-cards/art-illustration">
+<span>Art &amp; Illustration</span>
+</a>
+</li><li class="level2 nav-3-1-9">
+<a href="http://www.paperchase.co.uk/cards/birthday-cards/just-words">
+<span>Just Words</span>
+</a>
+</li><li class="level2 nav-3-1-10">
+<a href="http://www.paperchase.co.uk/cards/birthday-cards/family">
+<span>Family</span>
+</a>
+</li><li class="level2 nav-3-1-11 last">
+<a href="http://www.paperchase.co.uk/cards/birthday-cards/all-birthday-cards">
+<span>All Birthday Cards</span>
+</a>
+</li>
+</ul>
+
+</li><li class="level1 nav-3-2 parent item">
+<a href="http://www.paperchase.co.uk/cards/occasion-cards">
+<span>Occasion Cards</span>
+</a>
+
+<ul class="level1">
+<li class="level2 nav-3-2-12 first">
+<a href="http://www.paperchase.co.uk/cards/occasion-cards/anniversary-cards">
+<span>Anniversary</span>
+</a>
+</li><li class="level2 nav-3-2-13">
+<a href="http://www.paperchase.co.uk/cards/occasion-cards/congratulations-and-good-luck-cards">
+<span>Congratulations &amp; Good luck</span>
+</a>
+</li><li class="level2 nav-3-2-14">
+<a href="http://www.paperchase.co.uk/cards/occasion-cards/eid-cards">
+<span>Eid Cards</span>
+</a>
+</li><li class="level2 nav-3-2-15">
+<a href="http://www.paperchase.co.uk/cards/occasion-cards/engagement-and-wedding-cards">
+<span>Engagement &amp; Wedding</span>
+</a>
+</li><li class="level2 nav-3-2-16">
+<a href="http://www.paperchase.co.uk/cards/occasion-cards/new-baby-and-christening-cards">
+<span>New Baby &amp; Christening</span>
+</a>
+</li><li class="level2 nav-3-2-17">
+<a href="http://www.paperchase.co.uk/cards/occasion-cards/sympathy-cards">
+<span>Sympathy</span>
+</a>
+</li><li class="level2 nav-3-2-18">
+<a href="http://www.paperchase.co.uk/cards/occasion-cards/get-well-soon-cards">
+<span>Get Well </span>
+</a>
+</li><li class="level2 nav-3-2-19">
+<a href="http://www.paperchase.co.uk/cards/occasion-cards/bar-mitzvah-cards">
+<span>Bar &amp; Bat Mitzvah</span>
+</a>
+</li><li class="level2 nav-3-2-20">
+<a href="http://www.paperchase.co.uk/cards/occasion-cards/notecards">
+<span>Notecards</span>
+</a>
+</li><li class="level2 nav-3-2-21">
+<a href="http://www.paperchase.co.uk/cards/occasion-cards/invitations">
+<span>Invitations</span>
+</a>
+</li><li class="level2 nav-3-2-22">
+<a href="http://www.paperchase.co.uk/cards/occasion-cards/thank-you-cards">
+<span>Thank You Cards</span>
+</a>
+</li><li class="level2 nav-3-2-23 last">
+<a href="http://www.paperchase.co.uk/cards/occasion-cards/place-cards">
+<span>Place Cards</span>
+</a>
+</li>
+</ul>
+
+</li><li class="level1 nav-3-3 last parent item">
+<a href="http://www.paperchase.co.uk/cards/wrap">
+<span>Wrap</span>
+</a>
+
+<ul class="level1">
+<li class="level2 nav-3-3-24 first">
+<a href="http://www.paperchase.co.uk/cards/wrap/roll-wrapping-paper">
+<span>Roll Wrapping Paper</span>
+</a>
+</li><li class="level2 nav-3-3-25">
+<a href="http://www.paperchase.co.uk/cards/wrap/gift-boxes-bags">
+<span>Gift Boxes &amp; Bags</span>
+</a>
+</li><li class="level2 nav-3-3-26">
+<a href="http://www.paperchase.co.uk/cards/wrap/tissue">
+<span>Tissue</span>
+</a>
+</li><li class="level2 nav-3-3-27">
+<a href="http://www.paperchase.co.uk/cards/wrap/ribbon-bows">
+<span>Ribbon &amp; Bows</span>
+</a>
+</li><li class="level2 nav-3-3-28">
+<a href="http://www.paperchase.co.uk/cards/wrap/gift-tags-and-stickers">
+<span>Tags &amp; Stickers</span>
+</a>
+</li><li class="level2 nav-3-3-29">
+<a href="http://www.paperchase.co.uk/cards/wrap/tape-and-scissors">
+<span>Tape &amp; Scissors</span>
+</a>
+</li><li class="level2 nav-3-3-30 last">
+<a href="http://www.paperchase.co.uk/cards/wrap/washi-tapes">
+<span>Washi Tapes</span>
+</a>
+</li>
+</ul>
+
+</li>
+</ul>
 </div>
-	
-	<div class="Linternalimage creditcard"><img src="http://www.paperchase.co.uk/content/ebiz/paperchase/element/creditcard/payments.jpg" border="0" name="image" alt="We accept Master Card, Maestro, Visa,  Delta, Visa Electron and PayPal"></div>
-
-
-
-	
-	<div class="Linternalimage twiter"><a href="http://twitter.com/FromPaperchase" rel="popup" target="_blank" title="Twitter - opens in a new window"><img src="http://www.paperchase.co.uk/content/ebiz/paperchase/element/twiter/twitter1011.png" border="0" name="image" alt="Twitter"></a></div>
-
-
-
-	
-	<div class="Linternalimage blogspot"><a href="https://foursquare.com/frompaperchase" rel="popup" target="_blank" title="FourSquare - opens in a new window"><img src="http://www.paperchase.co.uk/content/ebiz/paperchase/element/blogspot/foursquare1011.png" border="0" name="image" alt="FourSquare"></a></div>
-
-
-
-	
-	<div class="Linternalimage facebook"><a href="http://www.facebook.com/paperchase" rel="popup" target="_blank" title="Facebook - opens in a new window"><img src="http://www.paperchase.co.uk/content/ebiz/paperchase/element/facebook/facebook1011.png" border="0" name="image" alt="Facebook"></a></div>
-
-
-</div><div class="Lcat_footer5"><div class="Lcopyright  copyright">
-<p>© Copyright 2012 Paperchase Products Ltd. All rights reserved.</p>
 </div>
-<div id="vendalogo"><a href="http://www.venda.com" rel="popup" target="_blank"><img src="/venda-support/images/vendalogo/en_logo_light.png" alt="eCommerce solutions and eCommerce software powered by Venda"></a></div><script type="text/javascript">  if( typeof  Venda.Platform.EqualHeight != "undefined"){ Venda.Platform.EqualHeight.jq(document).ready(function(){
- var classtoset = new Array ('#productlist .prods ul li',  '#searchresults .prods ul li', '#searchresultsfinder .prods ul li', '#iacc ul li',  '#iacc .details',  '#iacc h3',  '#iacc .invtdesc2',  '#iacc .priceDetails',  '#iacc .price',  '#iacc .moreinfo',  '.featprods ul li',  '.featprods .details',  '.featprods h2',  '.featprods .invtdesc2',  '.featprods .priceDetails',  '.featprods .price',  '.featprods .moreinfo',  '.myaccpredictor ul li',  '.myaccpredictor .details',  '.myaccpredictor h3',  '.myaccpredictor .invtdesc2',  '.myaccpredictor .priceDetails',  '.myaccpredictor .price',   '#categorylist ul li h2.icatname', '.Ltopnavcats .submenuset', 'div.signin_2cols fieldset', '.coverukandinter .inner','.storeinfo .storedesc','.styinfo','.prods ul li .details h2','.prods ul li .details','#productlist .image','#searchresults .image','#searchresultsfinder .image','#productlist .priceDetails','#searchresults .priceDetails','#searchresultsfinder .priceDetails','#productlist .multibuy','#searchresults .multibuy','#searchresultsfinder .multibuy', '#categorylist ul li .image', 'ul#acclist li .image'); Venda.Platform.EqualHeight.init(classtoset);}  ); }
+</li><li class="level0 nav-4 level-top parent">
+<a href="http://www.paperchase.co.uk/gifts" class="level-top">
+<span>Gifts</span>
+</a>
+<div class="level0-wrapper dropdown-6col">
+<div class="nav-block nav-block-top grid-full std"><div class="grid12-3">
+<h2>Home &amp; Kitchen</h2>
+<ul>
+<li><a href="http://www.paperchase.co.uk/gifts/home-and-kitchen-gifts/photo-frames">Photo Frames</a></li>
+<li><a href="http://www.paperchase.co.uk/gifts/home-and-kitchen-gifts/photo-albums-scrapbooks">Photo Albums &amp; Scrapbooks</a></li>
+<li><a href="http://www.paperchase.co.uk/gifts/home-and-kitchen-gifts/kitchen">Kitchen</a></li>
+<li><a href="http://www.paperchase.co.uk/gifts/home-and-kitchen-gifts/mugs">Mugs</a></li>
+<li><a href="http://www.paperchase.co.uk/gifts/home-and-kitchen-gifts/recipe-books">Recipe Books</a></li>
+<li><a href="http://www.paperchase.co.uk/gifts/home-and-kitchen-gifts/lunch-boxes-bottles">Lunch Boxes &amp; Bottles</a></li>
+<li><a href="http://www.paperchase.co.uk/gifts/home-and-kitchen-gifts/home-accessories">Home Accessories</a></li>
 
-Cufon.replace('h1', {fontFamily: 'DIN-Regular'});
-Cufon.replace('.signin_2cols fieldset h2', {fontFamily: 'DIN-Regular'});
-Cufon.replace('.signin_2cols .expresscheckout h2', {fontFamily: 'DIN-Regular'});
-Cufon.replace('.checkoutL #relatedbasket h2', {fontFamily: 'DIN-Regular'});
 
-setTimeout(function(){ 
-	Venda.Ebiz.fixBindingRing();
-}, 1000);
-</script></div></div></div>
-	</div>
+<li><a href="http://www.paperchase.co.uk/gifts/home-and-kitchen-gifts/party-ideas">Party Ideas</a></li>
+<li><a href="http://www.paperchase.co.uk/gifts/home-and-kitchen-gifts/wedding-decorations">Wedding Decorations</a></li>
+
+
+</ul>
+</div>
+<div class="grid12-3">
+<h2>Bags &amp; Travel</h2>
+<ul>
+<li><a href="http://www.paperchase.co.uk/gifts/bags-and-travel/all-bags">All Bags</a></li>
+<li><a href="http://www.paperchase.co.uk/gifts/bags-and-travel/backpacks">Back Packs</a></li>
+<li><a href="http://www.paperchase.co.uk/gifts/bags-and-travel/satchels">Satchels</a></li>
+<li><a href="http://www.paperchase.co.uk/gifts/bags-and-travel/folding-tote-bags">Folding &amp; Tote Bags</a></li>
+<li><a href="http://www.paperchase.co.uk/gifts/bags-and-travel/overnight-bags">Overnight Bags</a></li>
+<li><a href="http://www.paperchase.co.uk/gifts/bags-and-travel/laptop-bags">Laptop Bags</a></li>
+<li><a href="http://www.paperchase.co.uk/gifts/bags-and-travel/cambridge-satchels">The Cambridge Satchel Company</a></li>
+<li><a href="http://www.paperchase.co.uk/gifts/bags-and-travel/umbrellas">Umbrellas</a></li>
+<li><a href="http://www.paperchase.co.uk/gifts/bags-and-travel/travel-accessories">Travel Accessories</a></li>
+</ul>
+</div>
+<div class="grid12-3">
+<h2>Little Treats</h2>
+<ul>
+<li><a href="http://www.paperchase.co.uk/gifts/little-treats/key-rings-shopper-coins">Key Rings &amp; Shopper Coins</a></li>
+<li><a href="http://www.paperchase.co.uk/gifts/little-treats/beauty-treats">Beauty Treats</a></li>
+<li><a href="http://www.paperchase.co.uk/gifts/little-treats/plush-toys">Plush Toys</a></li>
+<li><a href="http://www.paperchase.co.uk/gifts/little-treats/iwako">iwako</a></li>
+<li><a href="http://www.paperchase.co.uk/gifts/little-treats/stickers">Stickers</a></li>
+<li><a href="http://www.paperchase.co.uk/gifts/little-treats/all-little-treats"><b>View All</b></a></li>
+</ul>
+<h2>Laptop &amp; Phone</h2>
+<ul>
+<li><a href="http://www.paperchase.co.uk/gifts/phone-laptop/iphone-cases">iPhone Cases</a></li>
+<li><a href="http://www.paperchase.co.uk/gifts/phone-laptop/ipad-and-kindle-cases">iPad &amp; Kindle Cases</a></li>
+<li><a href="http://www.paperchase.co.uk/gifts/phone-laptop/blackberry-cases">Other Phone Cases</a></li>
+<li><a href="http://www.paperchase.co.uk/gifts/bags-and-travel/laptop-bags">Laptop Bags</a></li>
+<li><a href="http://www.paperchase.co.uk/gifts/phone-laptop/phone-laptop-accessories">Phone &amp; Laptop Accessories</a></li>
+</ul>
+</div>
+<div class="grid12-3">
+<h2>Gifts for..</h2>
+<ul>
+<li><a href="http://www.paperchase.co.uk/gifts/gifts-for/gifts-for-her">Her</a></li>
+<li><a href="http://www.paperchase.co.uk/gifts/gifts-for/gifts-for-him">Him</a></li>
+<li><a href="http://www.paperchase.co.uk/gifts/gifts-for/gifts-for-kids-teens">Kids &amp; Teens</a></li>
+</ul>
+
+<h2>Sale</h2>
+<ul>
+<li><a href="http://www.paperchase.co.uk/outlet/gifts-sale">Gifts</a></li>
+</ul>
+
+</div></div><div class="nav-block nav-block-center grid12-12 itemgrid itemgrid-6col">
+<ul class="level0">
+<li class="level1 nav-4-1 first parent item">
+<a href="http://www.paperchase.co.uk/gifts/home-and-kitchen-gifts">
+<span>Home &amp; Kitchen</span>
+</a>
+
+<ul class="level1">
+<li class="level2 nav-4-1-1 first">
+<a href="http://www.paperchase.co.uk/gifts/home-and-kitchen-gifts/photo-frames">
+<span>Photo Frames</span>
+</a>
+</li><li class="level2 nav-4-1-2">
+<a href="http://www.paperchase.co.uk/gifts/home-and-kitchen-gifts/photo-albums-scrapbooks">
+<span>Photo Albums &amp; Scrapbooks</span>
+</a>
+</li><li class="level2 nav-4-1-3">
+<a href="http://www.paperchase.co.uk/gifts/home-and-kitchen-gifts/lunch-boxes-bottles">
+<span>Lunch Boxes &amp; Bottles</span>
+</a>
+</li><li class="level2 nav-4-1-4">
+<a href="http://www.paperchase.co.uk/gifts/home-and-kitchen-gifts/kitchen">
+<span>Kitchen</span>
+</a>
+</li><li class="level2 nav-4-1-5">
+<a href="http://www.paperchase.co.uk/gifts/home-and-kitchen-gifts/recipe-books">
+<span>Recipe books</span>
+</a>
+</li><li class="level2 nav-4-1-6">
+<a href="http://www.paperchase.co.uk/gifts/home-and-kitchen-gifts/mugs">
+<span>Mugs</span>
+</a>
+</li><li class="level2 nav-4-1-7">
+<a href="http://www.paperchase.co.uk/gifts/home-and-kitchen-gifts/home-accessories">
+<span>Home Accessories</span>
+</a>
+</li><li class="level2 nav-4-1-8">
+<a href="http://www.paperchase.co.uk/gifts/home-and-kitchen-gifts/party-ideas">
+<span>Party Ideas</span>
+</a>
+</li><li class="level2 nav-4-1-9 last">
+<a href="http://www.paperchase.co.uk/gifts/home-and-kitchen-gifts/wedding-decorations">
+<span>Wedding decorations</span>
+</a>
+</li>
+</ul>
+
+</li><li class="level1 nav-4-2 parent item">
+<a href="http://www.paperchase.co.uk/gifts/bags-and-travel">
+<span>Bags &amp; Travel</span>
+</a>
+
+<ul class="level1">
+<li class="level2 nav-4-2-10 first">
+<a href="http://www.paperchase.co.uk/gifts/bags-and-travel/all-bags">
+<span>All Bags</span>
+</a>
+</li><li class="level2 nav-4-2-11">
+<a href="http://www.paperchase.co.uk/gifts/bags-and-travel/backpacks">
+<span>Backpacks</span>
+</a>
+</li><li class="level2 nav-4-2-12">
+<a href="http://www.paperchase.co.uk/gifts/bags-and-travel/satchels">
+<span>Satchels</span>
+</a>
+</li><li class="level2 nav-4-2-13">
+<a href="http://www.paperchase.co.uk/gifts/bags-and-travel/folding-tote-bags">
+<span>Folding &amp; Tote Bags</span>
+</a>
+</li><li class="level2 nav-4-2-14">
+<a href="http://www.paperchase.co.uk/gifts/bags-and-travel/overnight-bags">
+<span>Overnight Bags</span>
+</a>
+</li><li class="level2 nav-4-2-15">
+<a href="http://www.paperchase.co.uk/gifts/bags-and-travel/laptop-bags">
+<span>Laptop Bags &amp; Cases</span>
+</a>
+</li><li class="level2 nav-4-2-16">
+<a href="http://www.paperchase.co.uk/gifts/bags-and-travel/cambridge-satchels">
+<span>Cambridge Satchels</span>
+</a>
+</li><li class="level2 nav-4-2-17">
+<a href="http://www.paperchase.co.uk/gifts/bags-and-travel/umbrellas">
+<span>Umbrellas</span>
+</a>
+</li><li class="level2 nav-4-2-18">
+<a href="http://www.paperchase.co.uk/gifts/bags-and-travel/travel-accessories">
+<span>Travel Accessories</span>
+</a>
+</li><li class="level2 nav-4-2-19 last">
+<a href="http://www.paperchase.co.uk/gifts/bags-and-travel/cambridge-satchels-exclusive">
+<span>Cambridge Satchels - Exclusive</span>
+</a>
+</li>
+</ul>
+
+</li><li class="level1 nav-4-3 parent item">
+<a href="http://www.paperchase.co.uk/gifts/phone-laptop">
+<span>Phone &amp; Laptop</span>
+</a>
+
+<ul class="level1">
+<li class="level2 nav-4-3-20 first">
+<a href="http://www.paperchase.co.uk/gifts/phone-laptop/ipad-and-kindle-cases">
+<span>iPad &amp; Kindle Cases</span>
+</a>
+</li><li class="level2 nav-4-3-21">
+<a href="http://www.paperchase.co.uk/gifts/phone-laptop/iphone-cases">
+<span>iPhone Cases</span>
+</a>
+</li><li class="level2 nav-4-3-22">
+<a href="http://www.paperchase.co.uk/gifts/phone-laptop/blackberry-cases">
+<span>Other Phone Cases</span>
+</a>
+</li><li class="level2 nav-4-3-23 last">
+<a href="http://www.paperchase.co.uk/gifts/phone-laptop/phone-laptop-accessories">
+<span>Phone &amp; Laptop Accessories</span>
+</a>
+</li>
+</ul>
+
+</li><li class="level1 nav-4-4 parent item">
+<a href="http://www.paperchase.co.uk/gifts/gifts-for">
+<span>Gifts For</span>
+</a>
+
+<ul class="level1">
+<li class="level2 nav-4-4-24 first">
+<a href="http://www.paperchase.co.uk/gifts/gifts-for/gifts-for-her">
+<span>Gifts For Her</span>
+</a>
+</li><li class="level2 nav-4-4-25">
+<a href="http://www.paperchase.co.uk/gifts/gifts-for/gifts-for-him">
+<span>Gifts for Him</span>
+</a>
+</li><li class="level2 nav-4-4-26 last">
+<a href="http://www.paperchase.co.uk/gifts/gifts-for/gifts-for-kids-teens">
+<span>Gifts for Kids &amp; Teens</span>
+</a>
+</li>
+</ul>
+
+</li><li class="level1 nav-4-5 parent item">
+<a href="http://www.paperchase.co.uk/gifts/little-treats">
+<span>Little Treats</span>
+</a>
+
+<ul class="level1">
+<li class="level2 nav-4-5-27 first">
+<a href="http://www.paperchase.co.uk/gifts/little-treats/all-little-treats">
+<span>All Little Treats</span>
+</a>
+</li><li class="level2 nav-4-5-28">
+<a href="http://www.paperchase.co.uk/gifts/little-treats/key-rings-shopper-coins">
+<span>Key Rings &amp; Shopper Coins</span>
+</a>
+</li><li class="level2 nav-4-5-29">
+<a href="http://www.paperchase.co.uk/gifts/little-treats/beauty-treats">
+<span>Beauty Treats</span>
+</a>
+</li><li class="level2 nav-4-5-30">
+<a href="http://www.paperchase.co.uk/gifts/little-treats/plush-toys">
+<span>Plush Toys</span>
+</a>
+</li><li class="level2 nav-4-5-31">
+<a href="http://www.paperchase.co.uk/gifts/little-treats/iwako">
+<span>Iwako</span>
+</a>
+</li><li class="level2 nav-4-5-32 last">
+<a href="http://www.paperchase.co.uk/gifts/little-treats/stickers">
+<span>Stickers</span>
+</a>
+</li>
+</ul>
+
+</li><li class="level1 nav-4-6 last item">
+<a href="http://www.paperchase.co.uk/gifts/teachers-treats">
+<span>Teachers Treats</span>
+</a>
+</li>
+</ul>
+</div>
+</div>
+</li><li class="level0 nav-5 level-top parent">
+<a href="http://www.paperchase.co.uk/personalised-cards" class="level-top">
+<span>Personalised Cards</span>
+</a>
+<div class="level0-wrapper dropdown-6col">
+<div class="nav-block nav-block-top grid-full std"><div class="grid12-3">
+<h2>Birthdays</h2>
+<ul>
+<li><a href="http://www.paperchase.co.uk/personalised-cards/personalised-birthday-cards/personalised-for-her">For Her</a></li>
+<li><a href="http://www.paperchase.co.uk/personalised-cards/personalised-birthday-cards/personalised-for-him">For Him</a></li>
+<li><a href="http://www.paperchase.co.uk/personalised-cards/personalised-birthday-cards/personalised-age">Age</a></li>
+<li><a href="http://www.paperchase.co.uk/personalised-cards/personalised-birthday-cards/personalised-childrens">Children's</a></li>
+<li><a href="http://www.paperchase.co.uk/personalised-cards/personalised-birthday-cards/personalised-fun">Fun</a></li>
+<li><a href="http://www.paperchase.co.uk/personalised-cards/personalised-birthday-cards/personalised-humour">Humour</a></li>
+<li><a href="http://www.paperchase.co.uk/personalised-cards/personalised-birthday-cards/personalised-photographic">Photographic</a></li>
+<li><a href="http://www.paperchase.co.uk/personalised-cards/personalised-birthday-cards/personalised-art-illustration">Art &amp; Illustration</a></li>
+<li><a href="http://www.paperchase.co.uk/personalised-cards/personalised-birthday-cards/personalised-just-words">Just Words</a></li>
+<li><a href="http://www.paperchase.co.uk/personalised-cards/personalised-birthday-cards/personalised-all-birthday-cards">All Personalised Birthday Cards</a></li>
+</ul>
+</div>
+<div class="grid12-3">
+<h2>Occasion Cards</h2>
+<ul>
+<li><a href="http://www.paperchase.co.uk/personalised-cards/personalised-occasion-cards/personalised-anniversary">Anniversary</a></li>
+<li><a href="http://www.paperchase.co.uk/personalised-cards/personalised-occasion-cards/personalised-engagement-wedding">Engagement &amp; Wedding</a></li>
+<li><a href="http://www.paperchase.co.uk/personalised-cards/personalised-occasion-cards/personalised-thank-you">Thank You</a></li>
+<li><a href="http://www.paperchase.co.uk/personalised-cards/personalised-occasion-cards/personalised-thinking-of-you">Thinking of You</a></li>
+<li><a href="http://www.paperchase.co.uk/personalised-cards/personalised-occasion-cards/personalised-good-luck">Good Luck</a></li>
+<li><a href="http://www.paperchase.co.uk/personalised-cards/personalised-occasion-cards/personalised-congratulations">Congratulations</a></li>
+<li><a href="http://www.paperchase.co.uk/personalised-cards/personalised-occasion-cards/personalised-new-baby">New Baby</a></li>
+<li><a href="http://www.paperchase.co.uk/personalised-cards/personalised-occasion-cards/personalised-with-sympathy">With Sympathy</a></li>
+<li><a href="http://www.paperchase.co.uk/personalised-cards/personalised-occasion-cards/personalised-get-well">Get Well Soon</a></li>
+
+</ul>
+</div></div><div class="nav-block nav-block-center grid12-12 itemgrid itemgrid-6col">
+<ul class="level0">
+<li class="level1 nav-5-1 first parent item">
+<a href="http://www.paperchase.co.uk/personalised-cards/personalised-birthday-cards">
+<span>Personalised Birthday Cards</span>
+</a>
+
+<ul class="level1">
+<li class="level2 nav-5-1-1 first">
+<a href="http://www.paperchase.co.uk/personalised-cards/personalised-birthday-cards/personalised-for-her">
+<span>For Her</span>
+</a>
+</li><li class="level2 nav-5-1-2">
+<a href="http://www.paperchase.co.uk/personalised-cards/personalised-birthday-cards/personalised-for-him">
+<span>For Him</span>
+</a>
+</li><li class="level2 nav-5-1-3">
+<a href="http://www.paperchase.co.uk/personalised-cards/personalised-birthday-cards/personalised-age">
+<span>Age</span>
+</a>
+</li><li class="level2 nav-5-1-4">
+<a href="http://www.paperchase.co.uk/personalised-cards/personalised-birthday-cards/personalised-childrens">
+<span>Children's</span>
+</a>
+</li><li class="level2 nav-5-1-5">
+<a href="http://www.paperchase.co.uk/personalised-cards/personalised-birthday-cards/personalised-fun">
+<span>Fun</span>
+</a>
+</li><li class="level2 nav-5-1-6">
+<a href="http://www.paperchase.co.uk/personalised-cards/personalised-birthday-cards/personalised-humour">
+<span>Humour</span>
+</a>
+</li><li class="level2 nav-5-1-7">
+<a href="http://www.paperchase.co.uk/personalised-cards/personalised-birthday-cards/personalised-photographic">
+<span>Photographic</span>
+</a>
+</li><li class="level2 nav-5-1-8">
+<a href="http://www.paperchase.co.uk/personalised-cards/personalised-birthday-cards/personalised-art-illustration">
+<span>Art &amp; Illustration</span>
+</a>
+</li><li class="level2 nav-5-1-9">
+<a href="http://www.paperchase.co.uk/personalised-cards/personalised-birthday-cards/personalised-just-words">
+<span>Just Words</span>
+</a>
+</li><li class="level2 nav-5-1-10 last">
+<a href="http://www.paperchase.co.uk/personalised-cards/personalised-birthday-cards/personalised-all-birthday-cards">
+<span>All Birthday Cards</span>
+</a>
+</li>
+</ul>
+
+</li><li class="level1 nav-5-2 last parent item">
+<a href="http://www.paperchase.co.uk/personalised-cards/personalised-occasion-cards">
+<span>Personalised Occasion Cards</span>
+</a>
+
+<ul class="level1">
+<li class="level2 nav-5-2-11 first">
+<a href="http://www.paperchase.co.uk/personalised-cards/personalised-occasion-cards/personalised-anniversary">
+<span>Anniversary</span>
+</a>
+</li><li class="level2 nav-5-2-12">
+<a href="http://www.paperchase.co.uk/personalised-cards/personalised-occasion-cards/personalised-engagement-wedding">
+<span>Engagement &amp; Wedding</span>
+</a>
+</li><li class="level2 nav-5-2-13">
+<a href="http://www.paperchase.co.uk/personalised-cards/personalised-occasion-cards/personalised-thank-you">
+<span>Thank You</span>
+</a>
+</li><li class="level2 nav-5-2-14">
+<a href="http://www.paperchase.co.uk/personalised-cards/personalised-occasion-cards/personalised-thinking-of-you">
+<span>Thinking of You</span>
+</a>
+</li><li class="level2 nav-5-2-15">
+<a href="http://www.paperchase.co.uk/personalised-cards/personalised-occasion-cards/personalised-good-luck">
+<span>Good Luck</span>
+</a>
+</li><li class="level2 nav-5-2-16">
+<a href="http://www.paperchase.co.uk/personalised-cards/personalised-occasion-cards/personalised-congratulations">
+<span>Congratulations</span>
+</a>
+</li><li class="level2 nav-5-2-17">
+<a href="http://www.paperchase.co.uk/personalised-cards/personalised-occasion-cards/personalised-new-baby">
+<span>New Baby &amp; Christening</span>
+</a>
+</li><li class="level2 nav-5-2-18">
+<a href="http://www.paperchase.co.uk/personalised-cards/personalised-occasion-cards/personalised-with-sympathy">
+<span>With Sympathy</span>
+</a>
+</li><li class="level2 nav-5-2-19 last">
+<a href="http://www.paperchase.co.uk/personalised-cards/personalised-occasion-cards/personalised-get-well">
+<span>Get Well</span>
+</a>
+</li>
+</ul>
+
+</li>
+</ul>
+</div>
+</div>
+</li><li class="level0 nav-6 level-top last parent">
+<a href="http://www.paperchase.co.uk/art" class="level-top">
+<span>Art</span>
+</a>
+<div class="level0-wrapper dropdown-6col">
+<div class="nav-block nav-block-top grid-full std"><div class="grid12-3">
+<h2>Art</h2>
+<ul>
+<li><a href="http://www.paperchase.co.uk/art/sketch-books">Sketch Books</a></li>
+<li><a href="http://www.paperchase.co.uk/art/art-card">Paper &amp; Card</a></li>
+<li><a href="http://www.paperchase.co.uk/art/paints">Paints &amp; Adhesives</a></li>
+<li><a href="http://www.paperchase.co.uk/art/art-pens-and-pencils">Pens &amp; Pencils</a></li>
+<li><a href="http://www.paperchase.co.uk/art/art-tools-and-accessories">Tools &amp; Accessories</a></li>
+<li><a href="http://www.paperchase.co.uk/art/art-folders">Presentation</a></li>
+<li><a href="http://www.paperchase.co.uk/art/canvas">Canvas</a></li>
+</ul>
+</div>
+<div class="grid12-3">
+<h2>Craft</h2>
+<ul>
+<li><a href="http://www.paperchase.co.uk/stationery/photo-albums-scrapbooks/scrapbooks/">Scrapbooks</a></li>
+<li><a href="http://www.paperchase.co.uk/art/craft-supplies/stamps">Stamps</a></li>
+<li><a href="http://www.paperchase.co.uk/art/craft-supplies/embellishments">Embellishments</a></li>
+<li><a href="http://www.paperchase.co.uk/art/craft-supplies/kid-s-crafting">Kid's Crafting</a></li>
+<li><a href="http://www.paperchase.co.uk/art/craft-supplies/scrapbooking">Scrapbooking</a></li>
+</ul>
 </div>
 
-<!-- Use this template to add custom site wide tracking tags for a site -->
+<div class="grid12-3">
+<h2>Sale</h2>
+<ul>
+<li><a href="http://www.paperchase.co.uk/outlet/art-sale">Art</a></li>
+</ul>
+</div></div><div class="nav-block nav-block-center grid12-12 itemgrid itemgrid-6col">
+<ul class="level0">
+<li class="level1 nav-6-1 first item">
+<a href="http://www.paperchase.co.uk/art/sketch-books">
+<span>Sketchbooks</span>
+</a>
+</li><li class="level1 nav-6-2 item">
+<a href="http://www.paperchase.co.uk/art/art-card">
+<span>Paper &amp; Card</span>
+</a>
+</li><li class="level1 nav-6-3 item">
+<a href="http://www.paperchase.co.uk/art/paints">
+<span>Paints &amp; Adhesives</span>
+</a>
+</li><li class="level1 nav-6-4 item">
+<a href="http://www.paperchase.co.uk/art/art-pens-and-pencils">
+<span>Art pens &amp; pencils</span>
+</a>
+</li><li class="level1 nav-6-5 item">
+<a href="http://www.paperchase.co.uk/art/art-tools-and-accessories">
+<span>Art tools &amp; accessories</span>
+</a>
+</li><li class="level1 nav-6-6 item">
+<a href="http://www.paperchase.co.uk/art/art-folders">
+<span>Presentation</span>
+</a>
+</li><li class="level1 nav-6-7 item">
+<a href="http://www.paperchase.co.uk/art/canvas">
+<span>Canvas</span>
+</a>
+</li><li class="level1 nav-6-8 last parent item">
+<a href="http://www.paperchase.co.uk/art/craft-supplies">
+<span>Craft</span>
+</a>
 
+<ul class="level1">
+<li class="level2 nav-6-8-1 first">
+<a href="http://www.paperchase.co.uk/art/craft-supplies/art-prints">
+<span>Art Prints</span>
+</a>
+</li><li class="level2 nav-6-8-2">
+<a href="http://www.paperchase.co.uk/art/craft-supplies/stamps">
+<span>Stamps</span>
+</a>
+</li><li class="level2 nav-6-8-3">
+<a href="http://www.paperchase.co.uk/art/craft-supplies/embellishments">
+<span>Embellishments</span>
+</a>
+</li><li class="level2 nav-6-8-4">
+<a href="http://www.paperchase.co.uk/art/craft-supplies/kid-s-crafting">
+<span>Kid's Crafting</span>
+</a>
+</li><li class="level2 nav-6-8-5 last">
+<a href="http://www.paperchase.co.uk/art/craft-supplies/scrapbooking">
+<span>Scrapbooking</span>
+</a>
+</li>
+</ul>
 
+</li>
+</ul>
+</div>
+</div>
+</li>                    
+                                    
+                                    
+        </ul>
+
+        </div> <!-- end: nav -->
+    </div> <!-- end: nav-container -->
+    <div class="top-list">
+        <div class="container">
+            <ul>
+<li><a href="http://www.paperchase.co.uk/delivery">Free UK Delivery Over £25</a></li>
+<li><a href="http://www.paperchase.co.uk/click-and-collect/">Click &amp; Collect</a></li>
+<li class="hide-below-480"><a href="http://www.paperchase.co.uk/unidays/">10% Student Discount</a></li>
+<li class="hide-below-960"><a href="http://www.paperchase.co.uk/reminders/index/index/">Reminder Calendar</a></li>
+</ul>        </div>
+    </div>
+
+    <nav id="menu-left">   
+        <div class="nav-container_mob">
+    <ul id="nav_mob">
+        <li><span class="welcome-msg">Welcome!</span></li> 
+        
+<li class="site-switcher mm-nolist">
+    <span class="storeSwitcherDD">
+        <span class="currency">
+            <em>GBP</em>
+            £        </span>
+        <span class="language en_GB-GBP">
+            &nbsp;
+        </span>
+    </span>
+    <ul>
+        <li class="mm-nolist">
+                            <span class="storeSwitcherOptions">
+                    <span class="switch switcher-language">
+                        <label class="visuallyhidden">Select language:</label>
+                        <span class="languageSelect">
+                                                                                                                            <span>
+                                    <a class="en_US-USD" href="http://www.paperchase-usa.com/">
+                                        <span>USD                                            <em>
+                                                $                                            </em>
+                                        </span>
+                                    </a>
+                                </span>
+                                                                                            <span>
+                                    <a class="en_GB-GBP" href="http://www.paperchase.co.uk/">
+                                        <span>GBP                                            <em>
+                                                £                                            </em>
+                                        </span>
+                                    </a>
+                                </span>
+                                                                                                                            <span>
+                                    <a class="en_GB-EUR" href="http://www.paperchase.eu/">
+                                        <span>EUR                                            <em>
+                                                €                                            </em>
+                                        </span>
+                                    </a>
+                                </span>
+                                                                                                                    </span>
+                    </span>
+                </span>
+                    </li>
+    </ul>
+</li> 
+        <li class="level0 nav-1 first level-top parent"><a href="http://www.paperchase.co.uk/outlet" class="level-top"><span>Sale</span></a><ul class="level0"><li class="level1 nav-1-1 first"><a href="http://www.paperchase.co.uk/outlet/stationery-sale"><span>Stationery Sale</span></a></li><li class="level1 nav-1-2"><a href="http://www.paperchase.co.uk/outlet/cards-sale"><span>Cards Sale</span></a></li><li class="level1 nav-1-3"><a href="http://www.paperchase.co.uk/outlet/wrap-sale"><span>Wrap Sale</span></a></li><li class="level1 nav-1-4"><a href="http://www.paperchase.co.uk/outlet/gifts-sale"><span>Gifts Sale</span></a></li><li class="level1 nav-1-5"><a href="http://www.paperchase.co.uk/outlet/art-sale"><span>Art Sale</span></a></li><li class="level1 nav-1-6"><a href="http://www.paperchase.co.uk/outlet/cambridge-satchel-sale"><span>Cambridge Satchel Sale</span></a></li><li class="level1 nav-1-7"><a href="http://www.paperchase.co.uk/outlet/under-5"><span>£5 &amp; Under</span></a></li><li class="level1 nav-1-8"><a href="http://www.paperchase.co.uk/outlet/under-10"><span>£10 &amp; Under</span></a></li><li class="level1 nav-1-9 last"><a href="http://www.paperchase.co.uk/outlet/under-20"><span>£20 &amp; Under</span></a></li></ul></li><li class="level0 nav-2 level-top parent"><a href="http://www.paperchase.co.uk/stationery" class="level-top"><span>Stationery</span></a><ul class="level0"><li class="level1 nav-2-1 first"><a href="http://www.paperchase.co.uk/stationery/notebooks"><span>Notebooks</span></a></li><li class="level1 nav-2-2"><a href="http://www.paperchase.co.uk/stationery/stationery-essentials"><span>Stationery Essentials</span></a></li><li class="level1 nav-2-3 parent"><a href="http://www.paperchase.co.uk/stationery/writing"><span>Writing</span></a><ul class="level1"><li class="level2 nav-2-3-1 first"><a href="http://www.paperchase.co.uk/stationery/writing/pens-and-pencils"><span>Pens &amp; Pencils</span></a></li><li class="level2 nav-2-3-2"><a href="http://www.paperchase.co.uk/stationery/writing/premium-pens"><span>Premium Pens</span></a></li><li class="level2 nav-2-3-3"><a href="http://www.paperchase.co.uk/stationery/writing/writing-sets"><span>Writing Sets</span></a></li><li class="level2 nav-2-3-4"><a href="http://www.paperchase.co.uk/stationery/writing/address-books"><span>Address Books</span></a></li><li class="level2 nav-2-3-5"><a href="http://www.paperchase.co.uk/stationery/writing/paper"><span>Paper &amp; Envelopes</span></a></li><li class="level2 nav-2-3-6"><a href="http://www.paperchase.co.uk/stationery/writing/list-pads"><span>List pads</span></a></li><li class="level2 nav-2-3-7"><a href="http://www.paperchase.co.uk/stationery/writing/noto"><span>Noto</span></a></li><li class="level2 nav-2-3-8"><a href="http://www.paperchase.co.uk/stationery/writing/agenzio"><span>Agenzio</span></a></li><li class="level2 nav-2-3-9"><a href="http://www.paperchase.co.uk/stationery/writing/paperworks"><span>Paperworks</span></a></li><li class="level2 nav-2-3-10 last"><a href="http://www.paperchase.co.uk/stationery/writing/lamy"><span>Lamy</span></a></li></ul></li><li class="level1 nav-2-4 parent"><a href="http://www.paperchase.co.uk/stationery/diaries-organisers"><span>Diaries &amp; Organisers</span></a><ul class="level1"><li class="level2 nav-2-4-1 first"><a href="http://www.paperchase.co.uk/stationery/diaries-organisers/diaries"><span>Diaries </span></a></li><li class="level2 nav-2-4-2"><a href="http://www.paperchase.co.uk/stationery/diaries-organisers/organisers"><span>Organisers</span></a></li><li class="level2 nav-2-4-3 last"><a href="http://www.paperchase.co.uk/stationery/diaries-organisers/filofax"><span>Filofax</span></a></li></ul></li><li class="level1 nav-2-5 parent"><a href="http://www.paperchase.co.uk/stationery/photo-albums-scrapbooks"><span>Albums &amp; Scrapbooks</span></a><ul class="level1"><li class="level2 nav-2-5-1 first"><a href="http://www.paperchase.co.uk/stationery/photo-albums-scrapbooks/scrapbooks"><span>Scrapbooks</span></a></li><li class="level2 nav-2-5-2 last"><a href="http://www.paperchase.co.uk/stationery/photo-albums-scrapbooks/photo-albums"><span>Photo Albums</span></a></li></ul></li><li class="level1 nav-2-6 parent"><a href="http://www.paperchase.co.uk/stationery/essentials"><span>Desk Accessories</span></a><ul class="level1"><li class="level2 nav-2-6-1 first"><a href="http://www.paperchase.co.uk/stationery/essentials/desk-accessories"><span>All Desk  Accessories</span></a></li><li class="level2 nav-2-6-2"><a href="http://www.paperchase.co.uk/stationery/essentials/bookmarks"><span>Bookmarks</span></a></li><li class="level2 nav-2-6-3"><a href="http://www.paperchase.co.uk/stationery/essentials/cellotape-adhesives"><span>Cellotape &amp; Adhesives</span></a></li><li class="level2 nav-2-6-4"><a href="http://www.paperchase.co.uk/stationery/essentials/desk-storage"><span>Desk Storage</span></a></li><li class="level2 nav-2-6-5"><a href="http://www.paperchase.co.uk/stationery/essentials/erasers-sharpeners"><span>Erasers &amp; Sharpeners</span></a></li><li class="level2 nav-2-6-6"><a href="http://www.paperchase.co.uk/stationery/essentials/highlighters-and-markers"><span>Highlighters &amp; Markers</span></a></li><li class="level2 nav-2-6-7"><a href="http://www.paperchase.co.uk/stationery/essentials/pencil-cases"><span>Pencil cases &amp; Pen pots</span></a></li><li class="level2 nav-2-6-8"><a href="http://www.paperchase.co.uk/stationery/essentials/push-pins-paperclips"><span>Push Pins &amp; Paperclips</span></a></li><li class="level2 nav-2-6-9"><a href="http://www.paperchase.co.uk/stationery/essentials/staplers-hole-punches"><span>Staplers &amp; Hole Punches</span></a></li><li class="level2 nav-2-6-10"><a href="http://www.paperchase.co.uk/stationery/essentials/sticky-notes"><span>Sticky notes &amp; Memo blocks</span></a></li><li class="level2 nav-2-6-11 last"><a href="http://www.paperchase.co.uk/stationery/essentials/stickers"><span>Stickers</span></a></li></ul></li><li class="level1 nav-2-7 parent"><a href="http://www.paperchase.co.uk/stationery/filing-storage"><span>Filing &amp; Storage</span></a><ul class="level1"><li class="level2 nav-2-7-1 first"><a href="http://www.paperchase.co.uk/stationery/filing-storage/all-filing-storage"><span>All Filing &amp; Storage</span></a></li><li class="level2 nav-2-7-2"><a href="http://www.paperchase.co.uk/stationery/filing-storage/lever-arch-files"><span>Lever Arch &amp; Ring Binders </span></a></li><li class="level2 nav-2-7-3"><a href="http://www.paperchase.co.uk/stationery/filing-storage/document-wallets"><span>Document Wallets</span></a></li><li class="level2 nav-2-7-4"><a href="http://www.paperchase.co.uk/stationery/filing-storage/magazine-files"><span>Magazine Files</span></a></li><li class="level2 nav-2-7-5"><a href="http://www.paperchase.co.uk/stationery/filing-storage/filing-accessories"><span>Filing Accessories</span></a></li><li class="level2 nav-2-7-6 last"><a href="http://www.paperchase.co.uk/stationery/filing-storage/storage-boxes"><span>Storage Boxes</span></a></li></ul></li><li class="level1 nav-2-8 last parent"><a href="http://www.paperchase.co.uk/stationery/wedding"><span>Wedding </span></a><ul class="level1"><li class="level2 nav-2-8-1 first"><a href="http://www.paperchase.co.uk/stationery/wedding/wedding-invitations"><span>Wedding Invitations</span></a></li><li class="level2 nav-2-8-2"><a href="http://www.paperchase.co.uk/stationery/wedding/place-cards"><span>Place cards</span></a></li><li class="level2 nav-2-8-3"><a href="http://www.paperchase.co.uk/stationery/wedding/thank-you-cards"><span>Thank you cards</span></a></li><li class="level2 nav-2-8-4"><a href="http://www.paperchase.co.uk/stationery/wedding/photo-albums"><span>Photo albums</span></a></li><li class="level2 nav-2-8-5 last"><a href="http://www.paperchase.co.uk/stationery/wedding/wedding-guest-books"><span>Wedding guest books</span></a></li></ul></li></ul></li><li class="level0 nav-3 level-top parent"><a href="http://www.paperchase.co.uk/cards" class="level-top"><span>Cards &amp; Wrap</span></a><ul class="level0"><li class="level1 nav-3-1 first parent"><a href="http://www.paperchase.co.uk/cards/birthday-cards"><span>Birthday Cards</span></a><ul class="level1"><li class="level2 nav-3-1-1 first"><a href="http://www.paperchase.co.uk/cards/birthday-cards/for-her"><span>For Her</span></a></li><li class="level2 nav-3-1-2"><a href="http://www.paperchase.co.uk/cards/birthday-cards/for-him"><span>For Him</span></a></li><li class="level2 nav-3-1-3"><a href="http://www.paperchase.co.uk/cards/birthday-cards/childrens-birthday-cards"><span>Children's</span></a></li><li class="level2 nav-3-1-4"><a href="http://www.paperchase.co.uk/cards/birthday-cards/age-birthday-cards"><span>Age</span></a></li><li class="level2 nav-3-1-5"><a href="http://www.paperchase.co.uk/cards/birthday-cards/fun"><span>Fun</span></a></li><li class="level2 nav-3-1-6"><a href="http://www.paperchase.co.uk/cards/birthday-cards/humour"><span>humour</span></a></li><li class="level2 nav-3-1-7"><a href="http://www.paperchase.co.uk/cards/birthday-cards/photographic"><span>Photographic</span></a></li><li class="level2 nav-3-1-8"><a href="http://www.paperchase.co.uk/cards/birthday-cards/art-illustration"><span>Art &amp; Illustration</span></a></li><li class="level2 nav-3-1-9"><a href="http://www.paperchase.co.uk/cards/birthday-cards/just-words"><span>Just Words</span></a></li><li class="level2 nav-3-1-10"><a href="http://www.paperchase.co.uk/cards/birthday-cards/family"><span>Family</span></a></li><li class="level2 nav-3-1-11 last"><a href="http://www.paperchase.co.uk/cards/birthday-cards/all-birthday-cards"><span>All Birthday Cards</span></a></li></ul></li><li class="level1 nav-3-2 parent"><a href="http://www.paperchase.co.uk/cards/occasion-cards"><span>Occasion Cards</span></a><ul class="level1"><li class="level2 nav-3-2-1 first"><a href="http://www.paperchase.co.uk/cards/occasion-cards/anniversary-cards"><span>Anniversary</span></a></li><li class="level2 nav-3-2-2"><a href="http://www.paperchase.co.uk/cards/occasion-cards/congratulations-and-good-luck-cards"><span>Congratulations &amp; Good luck</span></a></li><li class="level2 nav-3-2-3"><a href="http://www.paperchase.co.uk/cards/occasion-cards/eid-cards"><span>Eid Cards</span></a></li><li class="level2 nav-3-2-4"><a href="http://www.paperchase.co.uk/cards/occasion-cards/engagement-and-wedding-cards"><span>Engagement &amp; Wedding</span></a></li><li class="level2 nav-3-2-5"><a href="http://www.paperchase.co.uk/cards/occasion-cards/new-baby-and-christening-cards"><span>New Baby &amp; Christening</span></a></li><li class="level2 nav-3-2-6"><a href="http://www.paperchase.co.uk/cards/occasion-cards/sympathy-cards"><span>Sympathy</span></a></li><li class="level2 nav-3-2-7"><a href="http://www.paperchase.co.uk/cards/occasion-cards/get-well-soon-cards"><span>Get Well </span></a></li><li class="level2 nav-3-2-8"><a href="http://www.paperchase.co.uk/cards/occasion-cards/bar-mitzvah-cards"><span>Bar &amp; Bat Mitzvah</span></a></li><li class="level2 nav-3-2-9"><a href="http://www.paperchase.co.uk/cards/occasion-cards/notecards"><span>Notecards</span></a></li><li class="level2 nav-3-2-10"><a href="http://www.paperchase.co.uk/cards/occasion-cards/invitations"><span>Invitations</span></a></li><li class="level2 nav-3-2-11"><a href="http://www.paperchase.co.uk/cards/occasion-cards/thank-you-cards"><span>Thank You Cards</span></a></li><li class="level2 nav-3-2-12 last"><a href="http://www.paperchase.co.uk/cards/occasion-cards/place-cards"><span>Place Cards</span></a></li></ul></li><li class="level1 nav-3-3 last parent"><a href="http://www.paperchase.co.uk/cards/wrap"><span>Wrap</span></a><ul class="level1"><li class="level2 nav-3-3-1 first"><a href="http://www.paperchase.co.uk/cards/wrap/roll-wrapping-paper"><span>Roll Wrapping Paper</span></a></li><li class="level2 nav-3-3-2"><a href="http://www.paperchase.co.uk/cards/wrap/gift-boxes-bags"><span>Gift Boxes &amp; Bags</span></a></li><li class="level2 nav-3-3-3"><a href="http://www.paperchase.co.uk/cards/wrap/tissue"><span>Tissue</span></a></li><li class="level2 nav-3-3-4"><a href="http://www.paperchase.co.uk/cards/wrap/ribbon-bows"><span>Ribbon &amp; Bows</span></a></li><li class="level2 nav-3-3-5"><a href="http://www.paperchase.co.uk/cards/wrap/gift-tags-and-stickers"><span>Tags &amp; Stickers</span></a></li><li class="level2 nav-3-3-6"><a href="http://www.paperchase.co.uk/cards/wrap/tape-and-scissors"><span>Tape &amp; Scissors</span></a></li><li class="level2 nav-3-3-7 last"><a href="http://www.paperchase.co.uk/cards/wrap/washi-tapes"><span>Washi Tapes</span></a></li></ul></li></ul></li><li class="level0 nav-4 level-top parent"><a href="http://www.paperchase.co.uk/gifts" class="level-top"><span>Gifts</span></a><ul class="level0"><li class="level1 nav-4-1 first parent"><a href="http://www.paperchase.co.uk/gifts/home-and-kitchen-gifts"><span>Home &amp; Kitchen</span></a><ul class="level1"><li class="level2 nav-4-1-1 first"><a href="http://www.paperchase.co.uk/gifts/home-and-kitchen-gifts/photo-frames"><span>Photo Frames</span></a></li><li class="level2 nav-4-1-2"><a href="http://www.paperchase.co.uk/gifts/home-and-kitchen-gifts/photo-albums-scrapbooks"><span>Photo Albums &amp; Scrapbooks</span></a></li><li class="level2 nav-4-1-3"><a href="http://www.paperchase.co.uk/gifts/home-and-kitchen-gifts/lunch-boxes-bottles"><span>Lunch Boxes &amp; Bottles</span></a></li><li class="level2 nav-4-1-4"><a href="http://www.paperchase.co.uk/gifts/home-and-kitchen-gifts/kitchen"><span>Kitchen</span></a></li><li class="level2 nav-4-1-5"><a href="http://www.paperchase.co.uk/gifts/home-and-kitchen-gifts/recipe-books"><span>Recipe books</span></a></li><li class="level2 nav-4-1-6"><a href="http://www.paperchase.co.uk/gifts/home-and-kitchen-gifts/mugs"><span>Mugs</span></a></li><li class="level2 nav-4-1-7"><a href="http://www.paperchase.co.uk/gifts/home-and-kitchen-gifts/home-accessories"><span>Home Accessories</span></a></li><li class="level2 nav-4-1-8"><a href="http://www.paperchase.co.uk/gifts/home-and-kitchen-gifts/party-ideas"><span>Party Ideas</span></a></li><li class="level2 nav-4-1-9 last"><a href="http://www.paperchase.co.uk/gifts/home-and-kitchen-gifts/wedding-decorations"><span>Wedding decorations</span></a></li></ul></li><li class="level1 nav-4-2 parent"><a href="http://www.paperchase.co.uk/gifts/bags-and-travel"><span>Bags &amp; Travel</span></a><ul class="level1"><li class="level2 nav-4-2-1 first"><a href="http://www.paperchase.co.uk/gifts/bags-and-travel/all-bags"><span>All Bags</span></a></li><li class="level2 nav-4-2-2"><a href="http://www.paperchase.co.uk/gifts/bags-and-travel/backpacks"><span>Backpacks</span></a></li><li class="level2 nav-4-2-3"><a href="http://www.paperchase.co.uk/gifts/bags-and-travel/satchels"><span>Satchels</span></a></li><li class="level2 nav-4-2-4"><a href="http://www.paperchase.co.uk/gifts/bags-and-travel/folding-tote-bags"><span>Folding &amp; Tote Bags</span></a></li><li class="level2 nav-4-2-5"><a href="http://www.paperchase.co.uk/gifts/bags-and-travel/overnight-bags"><span>Overnight Bags</span></a></li><li class="level2 nav-4-2-6"><a href="http://www.paperchase.co.uk/gifts/bags-and-travel/laptop-bags"><span>Laptop Bags &amp; Cases</span></a></li><li class="level2 nav-4-2-7"><a href="http://www.paperchase.co.uk/gifts/bags-and-travel/cambridge-satchels"><span>Cambridge Satchels</span></a></li><li class="level2 nav-4-2-8"><a href="http://www.paperchase.co.uk/gifts/bags-and-travel/umbrellas"><span>Umbrellas</span></a></li><li class="level2 nav-4-2-9"><a href="http://www.paperchase.co.uk/gifts/bags-and-travel/travel-accessories"><span>Travel Accessories</span></a></li><li class="level2 nav-4-2-10 last"><a href="http://www.paperchase.co.uk/gifts/bags-and-travel/cambridge-satchels-exclusive"><span>Cambridge Satchels - Exclusive</span></a></li></ul></li><li class="level1 nav-4-3 parent"><a href="http://www.paperchase.co.uk/gifts/phone-laptop"><span>Phone &amp; Laptop</span></a><ul class="level1"><li class="level2 nav-4-3-1 first"><a href="http://www.paperchase.co.uk/gifts/phone-laptop/ipad-and-kindle-cases"><span>iPad &amp; Kindle Cases</span></a></li><li class="level2 nav-4-3-2"><a href="http://www.paperchase.co.uk/gifts/phone-laptop/iphone-cases"><span>iPhone Cases</span></a></li><li class="level2 nav-4-3-3"><a href="http://www.paperchase.co.uk/gifts/phone-laptop/blackberry-cases"><span>Other Phone Cases</span></a></li><li class="level2 nav-4-3-4 last"><a href="http://www.paperchase.co.uk/gifts/phone-laptop/phone-laptop-accessories"><span>Phone &amp; Laptop Accessories</span></a></li></ul></li><li class="level1 nav-4-4 parent"><a href="http://www.paperchase.co.uk/gifts/gifts-for"><span>Gifts For</span></a><ul class="level1"><li class="level2 nav-4-4-1 first"><a href="http://www.paperchase.co.uk/gifts/gifts-for/gifts-for-her"><span>Gifts For Her</span></a></li><li class="level2 nav-4-4-2"><a href="http://www.paperchase.co.uk/gifts/gifts-for/gifts-for-him"><span>Gifts for Him</span></a></li><li class="level2 nav-4-4-3 last"><a href="http://www.paperchase.co.uk/gifts/gifts-for/gifts-for-kids-teens"><span>Gifts for Kids &amp; Teens</span></a></li></ul></li><li class="level1 nav-4-5 parent"><a href="http://www.paperchase.co.uk/gifts/little-treats"><span>Little Treats</span></a><ul class="level1"><li class="level2 nav-4-5-1 first"><a href="http://www.paperchase.co.uk/gifts/little-treats/all-little-treats"><span>All Little Treats</span></a></li><li class="level2 nav-4-5-2"><a href="http://www.paperchase.co.uk/gifts/little-treats/key-rings-shopper-coins"><span>Key Rings &amp; Shopper Coins</span></a></li><li class="level2 nav-4-5-3"><a href="http://www.paperchase.co.uk/gifts/little-treats/beauty-treats"><span>Beauty Treats</span></a></li><li class="level2 nav-4-5-4"><a href="http://www.paperchase.co.uk/gifts/little-treats/plush-toys"><span>Plush Toys</span></a></li><li class="level2 nav-4-5-5"><a href="http://www.paperchase.co.uk/gifts/little-treats/iwako"><span>Iwako</span></a></li><li class="level2 nav-4-5-6 last"><a href="http://www.paperchase.co.uk/gifts/little-treats/stickers"><span>Stickers</span></a></li></ul></li><li class="level1 nav-4-6 last"><a href="http://www.paperchase.co.uk/gifts/teachers-treats"><span>Teachers Treats</span></a></li></ul></li><li class="level0 nav-5 level-top parent"><a href="http://www.paperchase.co.uk/personalised-cards" class="level-top"><span>Personalised Cards</span></a><ul class="level0"><li class="level1 nav-5-1 first parent"><a href="http://www.paperchase.co.uk/personalised-cards/personalised-birthday-cards"><span>Personalised Birthday Cards</span></a><ul class="level1"><li class="level2 nav-5-1-1 first"><a href="http://www.paperchase.co.uk/personalised-cards/personalised-birthday-cards/personalised-for-her"><span>For Her</span></a></li><li class="level2 nav-5-1-2"><a href="http://www.paperchase.co.uk/personalised-cards/personalised-birthday-cards/personalised-for-him"><span>For Him</span></a></li><li class="level2 nav-5-1-3"><a href="http://www.paperchase.co.uk/personalised-cards/personalised-birthday-cards/personalised-age"><span>Age</span></a></li><li class="level2 nav-5-1-4"><a href="http://www.paperchase.co.uk/personalised-cards/personalised-birthday-cards/personalised-childrens"><span>Children's</span></a></li><li class="level2 nav-5-1-5"><a href="http://www.paperchase.co.uk/personalised-cards/personalised-birthday-cards/personalised-fun"><span>Fun</span></a></li><li class="level2 nav-5-1-6"><a href="http://www.paperchase.co.uk/personalised-cards/personalised-birthday-cards/personalised-humour"><span>Humour</span></a></li><li class="level2 nav-5-1-7"><a href="http://www.paperchase.co.uk/personalised-cards/personalised-birthday-cards/personalised-photographic"><span>Photographic</span></a></li><li class="level2 nav-5-1-8"><a href="http://www.paperchase.co.uk/personalised-cards/personalised-birthday-cards/personalised-art-illustration"><span>Art &amp; Illustration</span></a></li><li class="level2 nav-5-1-9"><a href="http://www.paperchase.co.uk/personalised-cards/personalised-birthday-cards/personalised-just-words"><span>Just Words</span></a></li><li class="level2 nav-5-1-10 last"><a href="http://www.paperchase.co.uk/personalised-cards/personalised-birthday-cards/personalised-all-birthday-cards"><span>All Birthday Cards</span></a></li></ul></li><li class="level1 nav-5-2 last parent"><a href="http://www.paperchase.co.uk/personalised-cards/personalised-occasion-cards"><span>Personalised Occasion Cards</span></a><ul class="level1"><li class="level2 nav-5-2-1 first"><a href="http://www.paperchase.co.uk/personalised-cards/personalised-occasion-cards/personalised-anniversary"><span>Anniversary</span></a></li><li class="level2 nav-5-2-2"><a href="http://www.paperchase.co.uk/personalised-cards/personalised-occasion-cards/personalised-engagement-wedding"><span>Engagement &amp; Wedding</span></a></li><li class="level2 nav-5-2-3"><a href="http://www.paperchase.co.uk/personalised-cards/personalised-occasion-cards/personalised-thank-you"><span>Thank You</span></a></li><li class="level2 nav-5-2-4"><a href="http://www.paperchase.co.uk/personalised-cards/personalised-occasion-cards/personalised-thinking-of-you"><span>Thinking of You</span></a></li><li class="level2 nav-5-2-5"><a href="http://www.paperchase.co.uk/personalised-cards/personalised-occasion-cards/personalised-good-luck"><span>Good Luck</span></a></li><li class="level2 nav-5-2-6"><a href="http://www.paperchase.co.uk/personalised-cards/personalised-occasion-cards/personalised-congratulations"><span>Congratulations</span></a></li><li class="level2 nav-5-2-7"><a href="http://www.paperchase.co.uk/personalised-cards/personalised-occasion-cards/personalised-new-baby"><span>New Baby &amp; Christening</span></a></li><li class="level2 nav-5-2-8"><a href="http://www.paperchase.co.uk/personalised-cards/personalised-occasion-cards/personalised-with-sympathy"><span>With Sympathy</span></a></li><li class="level2 nav-5-2-9 last"><a href="http://www.paperchase.co.uk/personalised-cards/personalised-occasion-cards/personalised-get-well"><span>Get Well</span></a></li></ul></li></ul></li><li class="level0 nav-6 last level-top parent"><a href="http://www.paperchase.co.uk/art" class="level-top"><span>Art</span></a><ul class="level0"><li class="level1 nav-6-1 first"><a href="http://www.paperchase.co.uk/art/sketch-books"><span>Sketchbooks</span></a></li><li class="level1 nav-6-2"><a href="http://www.paperchase.co.uk/art/art-card"><span>Paper &amp; Card</span></a></li><li class="level1 nav-6-3"><a href="http://www.paperchase.co.uk/art/paints"><span>Paints &amp; Adhesives</span></a></li><li class="level1 nav-6-4"><a href="http://www.paperchase.co.uk/art/art-pens-and-pencils"><span>Art pens &amp; pencils</span></a></li><li class="level1 nav-6-5"><a href="http://www.paperchase.co.uk/art/art-tools-and-accessories"><span>Art tools &amp; accessories</span></a></li><li class="level1 nav-6-6"><a href="http://www.paperchase.co.uk/art/art-folders"><span>Presentation</span></a></li><li class="level1 nav-6-7"><a href="http://www.paperchase.co.uk/art/canvas"><span>Canvas</span></a></li><li class="level1 nav-6-8 last parent"><a href="http://www.paperchase.co.uk/art/craft-supplies"><span>Craft</span></a><ul class="level1"><li class="level2 nav-6-8-1 first"><a href="http://www.paperchase.co.uk/art/craft-supplies/art-prints"><span>Art Prints</span></a></li><li class="level2 nav-6-8-2"><a href="http://www.paperchase.co.uk/art/craft-supplies/stamps"><span>Stamps</span></a></li><li class="level2 nav-6-8-3"><a href="http://www.paperchase.co.uk/art/craft-supplies/embellishments"><span>Embellishments</span></a></li><li class="level2 nav-6-8-4"><a href="http://www.paperchase.co.uk/art/craft-supplies/kid-s-crafting"><span>Kid's Crafting</span></a></li><li class="level2 nav-6-8-5 last"><a href="http://www.paperchase.co.uk/art/craft-supplies/scrapbooking"><span>Scrapbooking</span></a></li></ul></li></ul></li>        <li class="account_links">
+    <span class="first"><a href="http://www.paperchase.co.uk/customer/account/" title="My Account">My Account</a></span>
+    <span><a href="http://www.paperchase.co.uk/sales/order/history/" title="Order Status">Order Status</a></span>
+    <span><a href="http://www.paperchase.co.uk/our-stores/" title="Our Stores">Our Stores</a></span>		
+    <span class="last"><a href="http://www.paperchase.co.uk/faqs/" title="Help">FAQ</a></span>
+</li>    </ul>
+</div>
  
+    </nav>
 
+</div> <!-- end: header-container3 -->
+</div> <!-- end: header-container2 -->
+</div> <!-- end: header-container -->
+        <div class="main-container col1-layout">
+            <div class="main container">
+                <div class="grid-full breadcrumbs">
+    <ul>
+                    <li class="home">
+                            <a href="http://www.paperchase.co.uk/" title="Go to Home Page">Home</a>
+                                        <span>/ </span>
+                        </li>
+                    <li class="cms_page">
+                            <strong>Privacy &amp; Cookies at Paperchase</strong>
+                                    </li>
+            </ul>
+</div>
+                <div class="preface grid-full in-col1"></div>
+                <div class="col-main grid-full in-col1">
+                                            <div class="page-title">
+        <h1>PRIVACY &amp; COOKIES</h1>
+    </div>
+<div class="std"><p>At Paperchase we use cookies to look at how groups, rather than individuals, use our website. In our physical stores, we can observe which aisles and departments are most heavily trafficked and determine what displays or products are the most successful. We can then identify ways to improve the customer experience. On the web, cookies help us develop a similar understanding so that we can continue to improve the arrangement, product offerings, and merchandise placement you see at Paperchase.co.uk.</p>
 
+<p>We also use cookies to keep track of products that you as an individual user have recently viewed and if you’ve arrived on our site from an affiliate website, which affiliate you arrived from.</p>
 
+<p>Please note that Paperchase are not responsible for the content of external websites.</p>
 
+<p>
+    This privacy policy sets out how Paperchase uses and protects any information
+    that you give Paperchase when you use this website.
+    Paperchase is committed to ensuring that your privacy is protected.
+    Should we ask you to provide certain information by which you can be identified when using this website,
+    then you can be assured that it will only be used in accordance with this privacy statement.
+    Paperchase may change this policy from time to time by updating this page.
+    You should check this page from time to time to ensure that you are happy with any changes.
+</p>
 
+<hr>
 
+<h2>WHAT INFORMATION WE COLLECT</h2>
+<p>We may collect the following information:</p>
+<ul>
+    <li>name</li>
+    <li>contact information including email address</li>
+    <li>demographic information such as postcode, preferences and interests</li>
+    <li>other information relevant to customer surveys and/or offers</li>
+</ul>
 
+<p><a href="#top"><b>Back to top</b></a></p><hr>
 
+<h2>WHAT WE DO WITH THE INFORMATION</h2>
+<p>
+    We require this information to understand your needs and provide you with a better service,
+    and in particular for the following reasons:
+</p>
+<ul>
+    <li>Internal record keeping.</li>
+    <li>We may use the information to improve our products and services.</li>
+    <li>
+        We may periodically send promotional emails about new products, special offers or other information which we
+        think you may find interesting using the email address which you have provided.
+    </li>
+    <li>
+        From time to time, we may also use your information to contact you for market research purposes.
+        We may contact you by email, phone, fax or mail. We may use the information to customise the website
+        according to your interests.
+    </li>
+</ul>
 
+<p><a href="#top"><b>Back to top</b></a></p><hr>
 
+<h2>SECURITY</h2>
+<p>
+    We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure,
+    we have put in place suitable physical, electronic and managerial procedures to safeguard and secure
+    the information we collect online.
+</p>
 
+<p><a href="#top"><b>Back to top</b></a></p><hr>
+
+<h2>HOW WE USE COOKIES</h2>
+<p>
+    A cookie is a small file which asks permission to be placed on your computer's hard drive.
+    Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit
+    a particular site. Cookies allow web applications to respond to you as an individual. The web application
+    can tailor its operations to your needs, likes and dislikes by gathering and remembering information about
+    your preferences.
+</p>
+<p>
+    We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic
+    and improve our website in order to tailor it to customer needs. We only use this information for statistical
+    analysis purposes and then the data is removed from the system.
+</p>
+<p>
+    Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful
+    and which you do not. A cookie in no way gives us access to your computer or any information about you,
+    other than the data you choose to share with us. You can choose to accept or decline cookies.
+    Most web browsers automatically accept cookies, but you can usually modify your browser setting
+    to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+</p>
+
+<p><a href="#top"><b>Back to top</b></a></p><hr>
+
+<h2>LINKS TO OTHER WEBSITES</h2>
+<p>
+    Our website may contain links to other websites of interest. However, once you have used these links
+    to leave our site, you should note that we do not have any control over that other website.
+    Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst
+    visiting such sites and such sites are not governed by this privacy statement.
+    You should exercise caution and look at the privacy statement applicable to the website in question.
+</p>
+
+<p><a href="#top"><b>Back to top</b></a></p><hr>
+
+<h2>CONTROLLING YOUR PERSONAL INFORMATION</h2>
+<p>You may choose to restrict the collection or use of your personal information in the following ways:</p>
+<ul>
+    <li>
+        whenever you are asked to fill in a form on the website, look for the box that you can click to indicate
+        that you do not want the information to be used by anybody for direct marketing purposes
+    </li>
+    <li>
+        if you have previously agreed to us using your personal information for direct marketing purposes,
+        you may change your mind at any time by writing to or emailing us at
+        customerservices@paperchase.co.uk
+    </li>
+</ul>
+<p>
+    We will not sell, distribute or lease your personal information to third parties unless we have your permission
+    or are required by law to do so. We may use your personal information to send you promotional information
+    about third parties which we think you may find interesting if you tell us that you wish this to happen.
+</p>
+<p>
+    You may request details of personal information which we hold about you under the Data Protection Act 1998.
+    A small fee will be payable. If you would like a copy of the information held on you please write to
+    .
+</p>
+<p>
+    If you believe that any information we are holding on you is incorrect or incomplete,
+    please write to or email us as soon as possible, at the above address.
+    We will promptly correct any information found to be incorrect.
+</p>
+
+<p><a href="#top"><b>Back to top</b></a></p><hr>
+
+<h2><a name="list"></a>LIST OF COOKIES WE COLLECT</h2>
+<p>The table below lists the cookies we collect and what information they store.</p>
+<table class="data-table">
+    <thead>
+        <tr>
+            <th>COOKIE NAME</th>
+            <th>COOKIE DESCRIPTION</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>CART</th>
+            <td>The association with your shopping cart.</td>
+        </tr>
+        <tr>
+            <th>CATEGORY_INFO</th>
+            <td>Stores the category info on the page, that allows to display pages more quickly.</td>
+        </tr>
+        <tr>
+            <th>COMPARE</th>
+            <td>The items that you have in the Compare Products list.</td>
+        </tr>
+        <tr>
+            <th>CURRENCY</th>
+            <td>Your preferred currency</td>
+        </tr>
+        <tr>
+            <th>CUSTOMER</th>
+            <td>An encrypted version of your customer id with the store.</td>
+        </tr>
+        <tr>
+            <th>CUSTOMER_AUTH</th>
+            <td>An indicator if you are currently logged into the store.</td>
+        </tr>
+        <tr>
+            <th>CUSTOMER_INFO</th>
+            <td>An encrypted version of the customer group you belong to.</td>
+        </tr>
+        <tr>
+            <th>CUSTOMER_SEGMENT_IDS</th>
+            <td>Stores the Customer Segment ID</td>
+        </tr>
+        <tr>
+            <th>EXTERNAL_NO_CACHE</th>
+            <td>A flag, which indicates whether caching is disabled or not.</td>
+        </tr>
+        <tr>
+            <th>FRONTEND</th>
+            <td>You sesssion ID on the server.</td>
+        </tr>
+        <tr>
+            <th>GUEST-VIEW</th>
+            <td>Allows guests to edit their orders.</td>
+        </tr>
+        <tr>
+            <th>LAST_CATEGORY</th>
+            <td>The last category you visited.</td>
+        </tr>
+        <tr>
+            <th>LAST_PRODUCT</th>
+            <td>The most recent product you have viewed.</td>
+        </tr>
+        <tr>
+            <th>NEWMESSAGE</th>
+            <td>Indicates whether a new message has been received.</td>
+        </tr>
+        <tr>
+            <th>NO_CACHE</th>
+            <td>Indicates whether it is allowed to use cache.</td>
+        </tr>
+        <tr>
+            <th>PERSISTENT_SHOPPING_CART</th>
+            <td>A link to information about your cart and viewing history if you have asked the site.</td>
+        </tr>
+        <tr>
+            <th>POLL</th>
+            <td>The ID of any polls you have recently voted in.</td>
+        </tr>
+        <tr>
+            <th>POLLN</th>
+            <td>Information on what polls you have voted on.</td>
+        </tr>
+        <tr>
+            <th>RECENTLYCOMPARED</th>
+            <td>The items that you have recently compared.            </td>
+        </tr>
+        <tr>
+            <th>STF</th>
+            <td>Information on products you have emailed to friends.</td>
+        </tr>
+        <tr>
+            <th>STORE</th>
+            <td>The store view or language you have selected.</td>
+        </tr>
+        <tr>
+            <th>USER_ALLOWED_SAVE_COOKIE</th>
+            <td>Indicates whether a customer allowed to use cookies.</td>
+        </tr>
+        <tr>
+            <th>VIEWED_PRODUCT_IDS</th>
+            <td>The products that you have recently viewed.</td>
+        </tr>
+        <tr>
+            <th>WISHLIST</th>
+            <td>An encrypted list of products added to your Wishlist.</td>
+        </tr>
+        <tr>
+            <th>WISHLIST_CNT</th>
+            <td>The number of items in your Wishlist.</td>
+        </tr>
+        <tr>
+            <th>_UTMA</th>
+            <td>Records the time of your first visit, previous visit, and current visit. </td>
+        </tr>
+        <tr>
+            <th>_UTMB &amp; _UTMC</th>
+            <td>Indicates when your visit starts and approximately ends.</td>
+        </tr>
+        <tr>
+            <th>_UTMZ</th>
+            <td>Indicates how you entered the site.</td>
+        </tr>
+    </tbody>
+</table>
+
+<p>As we continue to develop our website and take advantage of technologies to improve the services we offer, this privacy policy may change. We therefore encourage you to refer to this policy on an ongoing basis so that you understand our current privacy policy.</p>
+
+<p>This website is operated by Paperchase Products Ltd, and this privacy policy applies to this website only.</p>
+
+<p>If you have any questions or comments about our security or privacy policy, please <a href="http://www.paperchase.co.uk/#/">contact us</a>.</p>
+
+<p>Read more about <a href="http://www.paperchase.co.uk/security/">security &amp; your data</a></p>
+
+<p><a href="#top"><b>Back to top</b></a></p></div>                </div>
+                <div class="postscript grid-full in-col1"></div>
+            </div>
+        </div>
+        
+<div class="footer-container">
+<div class="footer-container2">
+
+    <div class="footer-top-container section-container">
+        <div class="footer-top footer container stretched">                  
+                            <div class="item item-left newsletter-wrapper clearer grid-full">
+                    <img class="footer-logo" src="/skin/frontend/paperchase/default/images/logo.png" alt="Paperchase" width="90">
+                    
+<div id="subscribe-form" class="subscribe-form clearer">
+    <form action="https://www.paperchase.co.uk/newsletter/subscriber/new/" method="post" id="newsletter-validate-detail">
+        <div> 
+            <label for="newsletter">Newsletter Sign Up</label>
+            <div class="input-box">
+                <input type="text" name="email" id="newsletter" title="Sign up for our newsletter" class="input-text required-entry validate-email">
+                <button type="submit" title="Subscribe" class="sprite arrow-right-blue-big">
+                    &nbsp;
+                </button>
+            </div>
+        </div>
+    </form>
+</div>
 <script type="text/javascript">
-	var _gaq = _gaq || [];
-	_gaq.push(['_setAccount', 'UA-9755057-5']);
-	if(typeof Venda.Widget.Tracking != 'undefined'){
-		if((typeof Venda.Widget.Tracking.workflowStep != 'undefined')&&(Venda.Widget.Tracking.workflowStep != "")&&(Venda.Widget.Tracking.workflowStep!="locayta: ")){
-			_gaq.push(['_trackPageview', Venda.Widget.Tracking.workflowStep]); 
-		}
-		else{
-			_gaq.push(['_trackPageview']);
-		}
-		if(typeof Venda.Widget.Tracking.orderNum != 'undefined'){
-			_gaq.push(['_addTrans',Venda.Widget.Tracking.orderNum,Venda.Widget.Tracking.storeName,Venda.Widget.Tracking.orderTotal,Venda.Widget.Tracking.orderTax,Venda.Widget.Tracking.orderShip,Venda.Widget.Tracking.userCity,Venda.Widget.Tracking.userState,Venda.Widget.Tracking.userCountry]);
-			for (var i=0; i < Venda.Widget.Tracking.sku.length; i++){			_gaq.push(['_addItem',Venda.Widget.Tracking.orderNum,Venda.Widget.Tracking.sku[i],Venda.Widget.Tracking.oiname[i],Venda.Widget.Tracking.ptype[i],Venda.Widget.Tracking.price[i],Venda.Widget.Tracking.qty[i]]);
-			}
-			_gaq.push(['_trackTrans']);
-		}
-	}
-	else{
-		_gaq.push(['_trackPageview']);
-	}
-// Event tracking for links/buttons in initial page HTML. 
-    jQuery('input.add').click(function() { 
-        _gaq.push(['_trackPageview', 'event:addtobasket']); 
-    }); 
-    jQuery('input.btUpdateBasket').click(function() { 
-        _gaq.push(['_trackPageview', 'event:update-qty-basket']); 
-    }); 
-    jQuery('td.remove a').click(function() { 
-        _gaq.push(['_trackPageview', 'event:remove-item-basket']); 
-    }); 
-    jQuery('span#postcodelookup a').click(function() { 
-        _gaq.push(['_trackPageview', 'event:find-address']); 
-    }); 
-	_gaq.push(['_trackPageLoadTime']);
-	(function() {
-		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-	})();
+//<![CDATA[
+    var newsletterSubscriberFormDetail = new VarienForm('newsletter-validate-detail');
+    new Varien.searchForm('newsletter-validate-detail', 'newsletter', 'enter email here');
+//]]>
+</script>
+                </div>
+                        <!-- end: footer-top section -->
+            <div class="footer-social"><ul class="social-links">
+<li><a title="Visit our Facebook page" target="blank" href="https://www.facebook.com/paperchase"><img src="http://www.paperchase.co.uk/media/wysiwyg/Social-Icons/fb.png" alt="Facebook"></a></li>
+<li><a title="Follow us on Twitter" target="blank" href="https://twitter.com/FromPaperchase"><img src="http://www.paperchase.co.uk/media/wysiwyg/Social-Icons/twitter.png" alt="Twitter"></a></li>
+<li><a title="Follow us on Instagram" target="blank" href="http://instagram.com/frompaperchase"><img src="http://www.paperchase.co.uk/media/wysiwyg/Social-Icons/insta.png" alt="Instagram"></a></li>
+<li><a title="Follow us on Pinterest" target="blank" href="http://www.pinterest.com/paperchaseuk/"><img src="http://www.paperchase.co.uk/media/wysiwyg/Social-Icons/pinterest.png" alt="Pinterest"></a></li>
+</ul></div>
+        </div> <!-- end: footer-top -->
+    </div>
+    
+        
+    <div class="footer-primary-container section-container">
+        <div class="footer-primary footer container show-bg">
+                                
+                                <div class="footer-primary-bottom grid-full">
+                    <div class="clearer">
+                    
+                                                
+                                                                        
+                    </div> 
+                </div> <!-- end: footer-primary-bottom -->
+                        </div> <!-- end: footer-primary -->
+    </div>
+    
+    
+    <div class="footer-secondary-container section-container">
+        <div class="footer-secondary footer container">
+            <div class="grid-full">
+            
+                <div class="section clearer">                    
+                    
+                     <div class="mobile-grid grid12-3 alpha footer-block">
+                          <div class="section-space">
+                               <div class="collapsible mobile-collapsible">
+                                    <span class="opener"> </span>
+                                    <h6 class="block-title heading">
+    DELIVERY &amp; RETURNS
+</h6>
+<div class="block-content">
+    <ul>
+        <li><a href="http://www.paperchase.co.uk/delivery/">Delivery</a></li>
+        <li><a href="http://www.paperchase.co.uk/returns/">Returns</a></li>
+    </ul>
+</div>
+
+
+                               </div>
+                          </div>
+                    </div>
+                    <div class="mobile-grid grid12-3 footer-block">
+                          <div class="section-space">
+                               <div class="collapsible mobile-collapsible">
+                                    <span class="opener"> </span>
+                                    <h6 class="block-title heading">
+    SHOPPING WITH US
+</h6>
+<div class="block-content">
+    <ul>
+        <li><a href="http://www.paperchase.co.uk/our-stores/">Our Stores</a></li>
+        <li><a href="http://www.paperchase.co.uk/privacy-and-cookies/">Privacy &amp; Cookies</a></li>
+        <li><a href="http://www.paperchase.co.uk/security/">Security &amp; Your Data</a></li>
+        <li><a href="http://www.paperchase.co.uk/terms/">Terms &amp; Conditions</a></li>
+        <li><a href="http://www.paperchase.co.uk/egift-vouchers.html/">eGift Vouchers</a></li>
+    </ul>
+</div>                               </div>
+                          </div>
+                    </div>
+                    <div class="mobile-grid grid12-3 footer-block">
+                          <div class="section-space">
+                               <div class="collapsible mobile-collapsible">
+                                    <span class="opener"> </span>
+                                    <h6 class="block-title heading">
+    WHO WE ARE
+</h6>
+<div class="block-content">
+    <ul>
+        <li><a href="http://www.paperchase.co.uk/about-us/">Introducing Us</a></li>
+        <li><a href="http://www.paperchase.co.uk/our-careers/">Careers</a></li>
+        <li><a href="http://www.paperchase.co.uk/press-hub/">Press Hub</a></li>
+        <li><a href="http://www.paperchase.co.uk/affiliates/">Affiliates</a></li>
+        <li><a href="http://www.paperchase.co.uk/franchise/">Franchising</a></li>
+        <li><a href="http://www.paperchase.co.uk/environment/">The Environment</a></li>
+    </ul>
+</div>
+                               </div>
+                          </div>
+                    </div>
+                    <div class="mobile-grid grid12-3 footer-block">
+                          <div class="section-space">
+                               <div class="collapsible mobile-collapsible">
+                                    <span class="opener"> </span>
+                                    <h6 class="block-title heading">
+    HERE TO HELP
+</h6>
+<div class="block-content">
+    <ul>
+        <li><a href="http://www.paperchase.co.uk/faqs/">FAQ</a></li>
+        <li><a href="http://www.paperchase.co.uk/personalised-cards-faqs/">Personalised Cards</a></li>
+        <li><a href="http://www.paperchase.co.uk/click-and-collect-faqs/">Click &amp; Collect</a></li>
+        <li><a href="http://www.paperchase.co.uk/bulk-orders/">Bulk Orders</a></li>
+        <li><a href="http://www.paperchase.co.uk/contact/">Get In Touch</a></li>
+    </ul>
+</div>
+
+                               </div>
+                          </div>
+                    </div>                    
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <div class="footer-bottom-container section-container">
+        <div class="footer-bottom footer container">
+            <div class="grid-full">
+                <div class="section clearer">
+                    <div class="footer-social hide-above-768"><ul class="social-links">
+<li><a title="Visit our Facebook page" target="blank" href="https://www.facebook.com/paperchase"><img src="http://www.paperchase.co.uk/media/wysiwyg/Social-Icons/fb.png" alt="Facebook"></a></li>
+<li><a title="Follow us on Twitter" target="blank" href="https://twitter.com/FromPaperchase"><img src="http://www.paperchase.co.uk/media/wysiwyg/Social-Icons/twitter.png" alt="Twitter"></a></li>
+<li><a title="Follow us on Instagram" target="blank" href="http://instagram.com/frompaperchase"><img src="http://www.paperchase.co.uk/media/wysiwyg/Social-Icons/insta.png" alt="Instagram"></a></li>
+<li><a title="Follow us on Pinterest" target="blank" href="http://www.pinterest.com/paperchaseuk/"><img src="http://www.paperchase.co.uk/media/wysiwyg/Social-Icons/pinterest.png" alt="Pinterest"></a></li>
+</ul></div>
+                    <div class="item item-left">
+                        <p class="footer-copyright">© 2014 Paperchase Products Ltd. All rights reserved.</p>
+                    </div>
+                </div> <!-- end: footer-bottom section -->
+
+            </div> <!-- end: grid-full -->
+        </div> <!-- end: footer-bottom -->
+    </div>
+
+</div> <!-- end: footer-container2 -->
+</div> <!-- end: footer-container -->
+
+<div class="modal-overlay" id="ssm" style="display: none">
+	<div class="outer"><div class="inner">
+		<div class="modal-block w400">
+			<div class="outer"><div class="inner">
+				<div id="switchStoresMessage">
+					<h4>Please note</h4>
+					<p>If you change the store language / currency, your shopping basket will be cleared.</p>
+					<p class="a-center">Would you like to continue?</p>
+					<div class="button-set"><span class="btn" id="ss-no">No</span> <span class="btn" id="ss-yes">Yes</span></div>
+					<div class="clearfix"></div>
+				</div>
+			</div></div>
+		</div>
+	</div></div>
+</div>        
+<script type="text/javascript">
+    //<![CDATA[
+
+            var gridItemsEqualHeightApplied = false;
+    function setGridItemsEqualHeight($)
+    {
+        var $list = $('.category-products-grid');
+        var $listItems = $list.children();
+
+        var centered = $list.hasClass('centered');
+        var gridItemMaxHeight = 0;
+        $listItems.each(function() {
+            
+            $(this).css("height", "auto");             var $object = $(this).find('.actions');
+
+                       
+            gridItemMaxHeight = Math.max(gridItemMaxHeight, $(this).height());
+        });
+
+        //Apply max height
+        $listItems.css("height", gridItemMaxHeight + "px");
+        gridItemsEqualHeightApplied = true;
+
+    }
+    
+
+    jQuery(function($) {
+
+                $('.collapsible').each(function(index) {
+            $(this).prepend('<span class="opener">&nbsp;</span>');
+            if ($(this).hasClass('active'))
+            {
+                $(this).children('.block-content').css('display', 'block');
+            }
+            else
+            {
+                $(this).children('.block-content').css('display', 'none');
+            }           
+        });
+                $('.collapsible .opener').click(function() {
+            
+            var parent = $(this).parent();
+            if (parent.hasClass('active'))
+            {
+                $(this).siblings('.block-content').stop(true).slideUp(300, "easeOutCubic");
+                parent.removeClass('active');
+            }
+            else
+            {
+                $(this).siblings('.block-content').stop(true).slideDown(300, "easeOutCubic");
+                parent.addClass('active');
+            }
+            
+        });
+        
+        
+                var ddOpenTimeout;
+        var dMenuPosTimeout;
+        var DD_DELAY_IN = 200;
+        var DD_DELAY_OUT = 0;
+        var DD_ANIMATION_IN = 0;
+        var DD_ANIMATION_OUT = 0;
+        $(".clickable-dropdown > .dropdown-toggle").click(function() {
+            $(this).parent().addClass('open');
+            $(this).parent().trigger('mouseenter');
+        });
+        $(".dropdown").hover(function() {
+            
+            
+            var ddToggle = $(this).children('.dropdown-toggle');
+            var ddMenu = $(this).children('.dropdown-menu');
+            var ddWrapper = ddMenu.parent();             
+                        ddMenu.css("left", "");
+            ddMenu.css("right", "");
+            
+                        if ($(this).hasClass('clickable-dropdown'))
+            {
+                                if ($(this).hasClass('open'))
+                {
+                    $(this).children('.dropdown-menu').stop(true, true).delay(DD_DELAY_IN).fadeIn(DD_ANIMATION_IN, "easeOutCubic");
+                }
+            }
+            else
+            {
+                                clearTimeout(ddOpenTimeout);
+                ddOpenTimeout = setTimeout(function() {
+                    
+                    ddWrapper.addClass('open');
+                    
+                }, DD_DELAY_IN);
+                
+                //$(this).addClass('open');
+                $(this).children('.dropdown-menu').stop(true, true).delay(DD_DELAY_IN).fadeIn(DD_ANIMATION_IN, "easeOutCubic");
+            }
+            
+                        clearTimeout(dMenuPosTimeout);
+            dMenuPosTimeout = setTimeout(function() {
+                if (ddMenu.length) {
+                    if (ddMenu.offset().left < 0)
+                    {
+                        var space = ddWrapper.offset().left;                         ddMenu.css("left", (-1)*space);
+                        ddMenu.css("right", "auto");
+                    }
+                }
+            }, DD_DELAY_IN);
+            
+        }, function() {
+            var ddMenu = $(this).children('.dropdown-menu');
+            clearTimeout(ddOpenTimeout);             ddMenu.stop(true, true).delay(DD_DELAY_OUT).fadeOut(DD_ANIMATION_OUT, "easeInCubic");
+            if (ddMenu.is(":hidden"))
+            {
+                ddMenu.hide();
+            }
+            $(this).removeClass('open');
+        });
+        
+
+
+                $('.products-grid, .products-list').on('mouseenter', '.item', function() {
+            $(this).find(".alt-img").fadeIn(400, "easeOutCubic");
+        }).on('mouseleave', '.item', function() {
+            $(this).find(".alt-img").stop(true).fadeOut(400, "easeOutCubic");
+        });
+
+
+                        var winWidth = $(window).width();
+        var winHeight = $(window).height();
+        $(window).resize(
+            $.debounce(50, onEventResize)
+        ); //end: resize
+
+                function onEventResize() {
+
+                        var winNewWidth = $(window).width();
+            var winNewHeight = $(window).height();
+            if (winWidth != winNewWidth || winHeight != winNewHeight)
+            {
+                afterResize();             }
+            //Update window size variables
+            winWidth = winNewWidth;
+            winHeight = winNewHeight;
+
+        } //end: onEventResize
+
+                function afterResize() {
+
+                        $(document).trigger("themeResize");
+
+                                        setGridItemsEqualHeight($);
+                                    
+                        $('.itemslider').each(function(index) {
+                var flex = $(this).data('flexslider');
+                if (flex != null)
+                {
+                    flex.flexAnimate(0);
+                    flex.resize();
+                }
+            });
+                            
+                        var slideshow = $('.the-slideshow').data('flexslider');
+            if (slideshow != null)
+            {
+                slideshow.resize();
+            }
+
+        } //end: afterResize
+
+
+
+    }); /* end: jQuery(){...} */
+    
+    jQuery(window).load(function(){
+        
+                            setGridItemsEqualHeight(jQuery);
+        
+    }); /* end: jQuery(window).load(){...} */
+
+    //]]>
 </script>
 
 
+<script type="text/javascript">
+//<![CDATA[
 
-<!-- this is not tracking, it is javascript that needs to be at the bottom of every page -->
+jQuery(function($) {
 
+var islider={config:{elements:".itemslider-responsive",columnCount:5,maxBreakpoint:960,breakpoints:[[1680,3],[1440,2],[1360,1],[1280,1],[960,0],[768,-1],[640,-2],[480,-3],[320,-5]]},init:function(a){$.extend(islider.config,a)},onResize_recalculateAllSliders:function(){return islider.recalculateAllSliders(),!1},recalculateAllSliders:function(){$(islider.config.elements).each(function(){null!=$(this).data("flexslider")&&islider.recalcElement($(this))})},recalcElement:function(a){var b,c=a.data("breakpoints");if(c)b=islider.getMaxItems_CustomBreakpoints(c);else{var d=a.data("showItems");void 0===d&&(d=islider.config.columnCount),b=islider.getMaxItems(d)}a.data("flexslider").setOpts({minItems:b,maxItems:b})},getMaxItems_CustomBreakpoints:function(a){if(infortisTheme.viewportW)var b=infortisTheme.viewportW;else var b=$(window).width();var c=islider.config.maxBreakpoint;"undefined"!=typeof infortisTheme&&infortisTheme.maxBreak&&(c=infortisTheme.maxBreak);for(var d,e=0;a.length>e;e++){var f=parseInt(a[e][0],10),g=parseInt(a[e][1],10);if(d=g,c>=f&&b>=f)return d}return d},getMaxItems:function(a){var b=islider.config.breakpoints;if(infortisTheme.viewportW)var c=infortisTheme.viewportW;else var c=$(window).width();var d=islider.config.maxBreakpoint;"undefined"!=typeof infortisTheme&&infortisTheme.maxBreak&&(d=infortisTheme.maxBreak);for(var e,f=0;b.length>f;f++){var g=parseInt(b[f][0],10),h=parseInt(b[f][1],10);if(e=a+h,0>=e&&(e=1),d>=g&&c>=g)return e}return e}};
+	
+	if (typeof infortisTheme !== 'undefined' && infortisTheme.responsive)
+	{
+		islider.init( {elements: '.itemslider-responsive'} );
+		islider.recalculateAllSliders();
+		$(document).on("themeResize", islider.onResize_recalculateAllSliders );
+	}
 
+});
 
+//]]>
+</script>    </div>
+</div>
+</div> <!-- end: root-wrapper -->
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-1.newrelic.com","licenseKey":"339d0e6737","applicationID":"3682688","transactionName":"NVUGYkZVXxcHUUJbDgwfMURdG1gKAldOHBEKQA==","queueTime":0,"applicationTime":36,"ttGuid":"","agentToken":"","atts":"GRIFFA5PTBk=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
 
-
-
-
-
-
-
-
-
-</body></html>
+<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
