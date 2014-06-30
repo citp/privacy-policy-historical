@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boxtv.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208015948id_/http%3A//www.boxtv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boxtv.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630041435id_/http%3A//www.boxtv.com/privacy-policy) for the most accurate reproduction.*
 
 # BoxTV - Privacy Policy
 
@@ -49,6 +49,8 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 
 We do not provide any personally identifiable information to third party websites / advertisers / ad-servers without your consent.
 
+Privacy Policy is subject to Google Analytics Policy requirements for Display Advertising <https://support.google.com/analytics/answer/2700409>
+
  **INFORMATION SHARING**
 
 THE ENTITY shares the sensitive personal information with any third party without obtaining the prior consent of the User in the following limited circumstances:
@@ -74,16 +76,7 @@ The internet is an ever evolving medium. We may alter our privacy policy from ti
 
  **QUESTIONS / GRIEVANCE**
 
-Any complaints or concerns with regards to content and or comment or breach of these terms shall be taken up with the designated Grievance Officer as mentioned below via in writing or through email signed with the electronic signature to [support@boxtv.com](mailto:support@boxtv.com) or Mr. Bijou Fernandes (Grievance Officer)
-
- **Bijou Fernandes**  
- **Grievance Officer**   
-**www.boxtv.com**  
-Times BoxTV Media Pte Ltd.   
-Times Tower, 7th Floor,   
-Trade Gardens, Kamala Mills Compound,    
-Lower Parel, Mumbai 400013    
-India
+Any complaints or concerns with regards to content and or comment or breach of these terms shall be taken up with the designated Grievance Officer as mentioned below via in writing or through email signed with the electronic signature to 
 
 We request you to please provide the following information in your complaint:-
 
