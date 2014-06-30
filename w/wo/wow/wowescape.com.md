@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the wowescape.com privacy policy that was archived on 2013-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130815190243id_/http%3A//wowescape.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wowescape.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630024556id_/http%3A//www.wowescape.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Games2Rule.com
+# wowescape-our privacy and policy of this website
 
-##  Privacy Policy of games2rule.com 
+##  Privacy Policy of wowescape.com 
 
-#### We recognize that protecting your privacy is very important to us. So, we have prepared this privacy policy so as to keep your personal information entirely confidential. Please read this privacy policy before using the site or submitting any personal information.
+We recognize that protecting your privacy is very important to us. So, we have prepared this privacy policy so as to keep your personal information entirely confidential. Please read this privacy policy before using the site or submitting any personal information.
 
 _Personal Information:_  
 The personal information, which we collect from you, is mainly put to use for business enhancement and to deliver the best of services. We do needful things to protect your personal information on the website controlled by us, but we are not responsible for any unlawful disclosures of your personal and confidential information made by third parties who are not subject to our control. 
@@ -19,7 +19,7 @@ _Third Party Advertising:_
 We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit networkadvertising.org.
 
 _Other site links:_  
-As games2rule.com contains links to other sites, games2rule.com is not liable for the privacy practices or the content of such Web sites. 
+As wowescape.com contains links to other sites, wowescape.com is not liable for the privacy practices or the content of such Web sites. 
 
 _Data Protection:_  
 To ensure the data protection, we may supervise your personal information at any time by filtering data messages to identify, limit or prevent the flow of spam, viruses and/or unlawful content. 
