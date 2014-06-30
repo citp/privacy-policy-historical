@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the attackwatch.com privacy policy that was archived on 2013-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131229153619id_/http%3A//www.barackobama.com/privacy-policy%3Fsource%3Dfooter-nav) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the attackwatch.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630043235id_/http%3A//www.barackobama.com/privacy-policy/%3Fsource%3Dfooter-nav) for the most accurate reproduction.*
 
 # Web Site Privacy Policy
 
@@ -51,7 +51,7 @@ It is our policy not to share the personal information we collect from you throu
   * when you give us your consent to do so, including if we notify you on the Sites, that the information you provide will be shared in a particular manner and you provide such information;
   * when we believe in good faith that we are lawfully authorized or required to do so or that doing so is reasonably necessary or appropriate to comply with the law or legal processes or respond to lawful requests, claims or legal authorities, including responding to lawful subpoenas, warrants, or court orders;
   * when we believe in good faith that doing so is reasonably necessary or appropriate to respond to claims or to protect the rights, property, or safety of Organizing for Action, our users, our employees, our volunteers, copyright owners, third parties or the public, including without limitation to protect such parties from fraudulent, abusive, inappropriate, or unlawful activity or use of our Site;
-  * to enforce or apply this Policy, our [Terms of Service](https://web.archive.org/web/20131229153619id_/http%3A//www.barackobama.com/%7Bsite_url%7D/terms-of-service), or our other policies or agreements; and 
+  * to enforce or apply this Policy, our [Terms of Service](https://web.archive.org/web/20140630043235id_/http%3A//www.barackobama.com/privacy-policy/%7Bsite_url%7D/terms-of-service), or our other policies or agreements; and 
   * in connection with, or during negotiations of, any merger, reorganization, acquisition, asset sale, financing or lending transaction or in any other situation where personal information may be disclosed or transferred as one of the assets of Organizing for Action.
 
 
