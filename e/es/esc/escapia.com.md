@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the escapia.com privacy policy that was archived on 2013-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131110115132id_/http%3A//www.homeaway.com/info/about-us/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the escapia.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630133710id_/http%3A//www.homeaway.com/info/about-us/legal/privacy-policy) for the most accurate reproduction.*
 
 # HomeAway Vacation Rentals: Privacy Policies
 
@@ -23,6 +23,8 @@ HomeAway complies with the US Department of Commerce’s Safe Harbor scheme to c
 Your personal data (also referred to as personal information) - that is, data that identifies you, or from which you are identifiable - will be collected, processed, stored and used by us, and passed to and processed by companies in the HomeAway group and other data processors acting under our instructions. HomeAway is a global business.  As a result, personal data contributed by or collected from users may be stored and processed in the United States or any other country in which we, members of the HomeAway group or our agents maintain facilities.  By using our Site, you acknowledge and agree that you may be transferring your personal data outside of the country in which you have contributed it (“your country”), and that you consent to any transfer of information outside of your country. These countries may not have similar data protection laws to those that apply in your country. However, if we transfer your personal data outside of your country in this way, we will take steps to try to ensure that your privacy rights are protected in compliance with applicable data protection law, this Privacy Policy, and the terms of our Safe Harbor self-certification.
 
 We do not knowingly collect or process data from anyone under the age of eighteen (18) years old.
+
+HomeAway Group sites may also use Google Analytics to gather statistics on site usage.  This may involve the use of cookies.  There are more details in our Cookie Notice and in Google’s own privacy policy.  Google may aggregate data they collect from their various services including Google Analytics, Google Translate, Google Maps and YouTube.  You acknowledge and accept that HomeAway Group have no control over Google’s data collection.  We strongly advise you to look at Google’s privacy policy for details of their data collection practices, or you may want to opt out from Google Analytics please check here <https://tools.google.com/dlpage/gaoptout>.
 
 **The information we gather**
 
