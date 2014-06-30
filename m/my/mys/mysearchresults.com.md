@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mysearchresults.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231031614id_/http%3A//www.mysearchresults.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysearchresults.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630050640id_/http%3A//www.mysearchresults.com/privacy-policy) for the most accurate reproduction.*
 
 # Search Results — Privacy Policy
 
@@ -64,7 +64,7 @@ When sensitive personal information such as a credit card number is transmitted 
 
 ### Third Party Web Sites
 
-The Search Results web sites may contain links to third-party web sites over which we have no control or responsibility regarding content, privacy policies, or practices. We suggest that you review the privacy policy applicable to any third party site that you visit. This privacy policy applies only to our own web site at www.mysearchresults.com. Please note that all on-line and telephone credit card orders for Search Results products may be processed by a third party.
+The Search Results web sites may contain links to third-party web sites over which we have no control or responsibility regarding content, privacy policies, or practices. By accessing the Website and downloading the Search Bar, you hereby grant Us permission to display promotional information, advertisements, and offers for third-party products, offers or services (collectively “Advertisements”) from Our advertising partners (collectively “Partners”). The Advertisements may include, without limitation, content, offers for products or services, data, links, articles, graphic or video messages, text, software, music, sound, graphics or other materials or services. The timing, frequency, placement and extent of the Advertisements changes are determined in Our sole discretion. We suggest that you review the privacy policy applicable to any third party site that you visit. This privacy policy applies only to our own web site at www.mysearchresults.com. Please note that all on-line and telephone credit card orders for Search Results products may be processed by a third party.
 
 ### Web Site Security
 
@@ -83,7 +83,7 @@ If you have any questions or concerns about this Privacy Policy, please feel fre
 **2751 Hennepin Ave S, Suite 252**  
 **Minneapolis, MN 55408**
 
-Last updated: April 2011
+Last updated: January 2014
 
 This Search Bar Privacy Policy (Policy) describes how we treat personally identifiable information when you download and use the Default Tab search bar (Search Bar) created by Search Results for the website and/or a client publisher (Publisher) working with Search Results. Search Results will notify you if we materially change this Policy, at which time you will have the opportunity to discontinue using the Search Bar and Portal. This Policy is also subject to our general privacy policy statement for the Search Results website, located at www.Search Results.com/privacy. If you have questions or concerns regarding this Policy, please contact us at by email at info@mysearchresults.com.
 
@@ -145,7 +145,7 @@ When sensitive personal information such as a credit card number is transmitted 
 
 ### Third Party Web Sites
 
-The Search Results web sites may contain links to third-party web sites over which we have no control or responsibility regarding content, privacy policies, or practices. We suggest that you review the privacy policy applicable to any third party site that you visit. This privacy policy applies only to our own web site at www.mysearchresults.com. Please note that all on-line and telephone credit card orders for Search Results products may be processed by a third party.
+The Search Results web sites may contain links to third-party web sites over which we have no control or responsibility regarding content, privacy policies, or practices. By accessing the Website and downloading the Search Bar, you hereby grant Us permission to display promotional information, advertisements, and offers for third-party products, offers or services (collectively “Advertisements”) from Our advertising partners (collectively “Partners”). The Advertisements may include, without limitation, content, offers for products or services, data, links, articles, graphic or video messages, text, software, music, sound, graphics or other materials or services. The timing, frequency, placement and extent of the Advertisements changes are determined in Our sole discretion. We suggest that you review the privacy policy applicable to any third party site that you visit. This privacy policy applies only to our own web site at www.mysearchresults.com. Please note that all on-line and telephone credit card orders for Search Results products may be processed by a third party.
 
 ### Web Site Security
 
@@ -164,4 +164,4 @@ If you have any questions or concerns about this Privacy Policy, please feel fre
 **2751 Hennepin Ave S, Suite 252**  
 **Minneapolis, MN 55408**
 
-Last updated: April 2011
+Last updated: January 2014
