@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the houseplans.com privacy policy that was archived on 2013-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130816015452id_/http%3A//www.houseplans.com/legal-and-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the houseplans.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630214330id_/http%3A//www.houseplans.com/legal-and-privacy) for the most accurate reproduction.*
 
 # Legal & Privacy : Houseplans.com
 
@@ -6,9 +6,9 @@
 
 All house plans listed on this site are protected by U.S. copyright laws. Unauthorized reproduction, sale, or transfer of plan images contained on this site or any other work produced herein is a violation of these laws. These laws allow the copyright holder to recover damages of up to $100,000 per offense. 
 
-Reproducible vellum sets are available for customers who choose to have a local professional customize house plans they have chosen to build. This does not allow the purchaser to build more than one house from a 
+Reproducible vellum sets are available for customers who choose to have a local professional customize house plans they have chosen to build. This does not allow the purchaser to build more than one house from a design plan however. 
 
-All content, graphics, and other data stored on this website not expressly stated as being from another source is copyrighted ‚Ñ¢2007 by Kransco Houseplans LLC. ("the owner"). 
+All content, graphics, and other data stored on this website not expressly stated as being from another source is copyrighted ™2007 by Kransco Houseplans LLC. ("the owner"). 
 
 All content, graphics, and other data stored on this website expressly stated as being from another source are hereby designated original material, and is the intellectual property of the owner. This material may not be reused in any form, or for any purpose, without the consent of the owner. 
 
