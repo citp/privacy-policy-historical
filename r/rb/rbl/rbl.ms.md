@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rbl.ms privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218020440id_/https%3A//www.rebelmouse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rbl.ms privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630082919id_/http%3A//blog.rebelmouse.com/privacy-policy) for the most accurate reproduction.*
 
-# RebelMouse Privacy Policy: Last Updated October 28, 2013
+# RebelMouse Privacy Policy
 
 We take your privacy seriously. We are providing this privacy policy (the “Policy”) to inform you of the types of information we may collect from you or that you may provide when you use the services we provide on our website ([www.RebelMouse.com](https://www.rebelmouse.com/), the “Site”) or mobile applications (collectively, the “Service”), as well our practices for collecting, using, maintaining, protecting and disclosing such information. 
 
@@ -83,7 +83,7 @@ We use cookies for two purposes. First, we utilize “persistent” cookies to s
 
   * **Email Communications; Opt-Out Policy.** If you decide at any time that you no longer wish to receive certain types of email communications from us, please follow the unsubscribe instructions provided in any of the communications or update your user preferences in your account settings by checking or unchecking the relevant boxes.
 
-  * **Cookies.** If you decide at any time that you no longer wish to accept persistent or session ID cookies from our Service for any of the purposes described in Section 2, above, then you can instruct your browser, by changing its settings, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. To learn how you can manage your Flash cookie settings, visit the Flash player settings page on Adobe's [_website_](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). If you disable or refuse to accept cookies, however, you may not be able to use some or all portions of the Service. If you have any questions about how to disable or modify cookies, please let us know (see “How to Contact Us”, below).
+  * **Cookies.** If you decide at any time that you no longer wish to accept persistent or session ID cookies from our Service for any of the purposes described in Section 2, above, then you can instruct your browser, by changing its settings, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. To learn how you can manage your Flash cookie settings, visit the Flash player settings page on Adobe's [_website_](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). If you disable or refuse to accept cookies, however, you may not be able to use some or all portions of the Service. If you have any questions about how to disable or modify cookies, please let us know (see “How to Contact Us”, below). Here is a list of the most common domains for the cookies on the Service - www.rebelmouse.com, www.rbl.ms, www.twitter.com, www.facebook.com, www.google.com, www.youtube.com, plus.google.com, s3.amazon.com, www.soundcloud.com.
 
   * **De-Linking SNS.** If you decide at any time that you no longer wish to have your SNS account (e.g., Facebook or Twitter) linked to your RebelMouse account, then you may de-link the SNS account in the “content and feeds” section of your account settings.
 
@@ -105,7 +105,7 @@ We use cookies for two purposes. First, we utilize “persistent” cookies to s
 
   * **Our Policy Towards Children's Information:** This Service is not directed to or intended for children under 13. We do not knowingly collect Personal Information from children under 13. If you are under 13, do not provide Personal Information to us. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should [email us](mailto:early@rebelmouse.com). If we become aware that a child under 13 has provided us with Personal Information, we will delete such information from our files.
 
-  * **How To Contact Us:** If you have any questions about this Policy or any of the practices described herein, please contact us at 560 Broadway, Ste. 308, New York, NY, 10012, call us at 646-237-4837, or [email us](mailto:early@rebelmouse.com).
+  * **How To Contact Us:** If you have any questions about this Policy or any of the practices described herein, please contact us at 560 Broadway, Ste. 308, New York, NY, 10012, call us at (917) 780-2264, or [email us](mailto:early@rebelmouse.com).
 
   * **Your California Privacy Rights:** Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of personal customer information that we share with our affiliates or third parties for marketing purposes, and providing contact information for such affiliates or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to the following address: 560 Broadway, Ste. 308, New York, NY 10012, Att: RebelMouse.
 
