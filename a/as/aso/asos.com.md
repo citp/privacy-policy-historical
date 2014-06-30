@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asos.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231034816id_/http%3A//www.asos.com/infopages/pgeprivacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asos.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630192322id_/http%3A//www.asos.com/infopages/pgeprivacy.aspx) for the most accurate reproduction.*
 
 # Your privacy | Privacy information for ASOS customers | ASOS
 
