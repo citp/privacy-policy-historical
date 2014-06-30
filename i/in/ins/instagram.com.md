@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instagram.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231020007id_/http%3A//instagram.com/about/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instagram.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630105927id_/http%3A//instagram.com/about/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy • Instagram
 
