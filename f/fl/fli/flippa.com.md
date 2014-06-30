@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flippa.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220204053id_/https%3A//flippa.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flippa.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630213444id_/https%3A//flippa.com/privacypolicy) for the most accurate reproduction.*
 
 # Flippa: Privacy Policy
 
