@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mequoda.com privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031152608id_/http%3A//www.mequoda.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mequoda.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630150731id_/http%3A//www.mequoda.com/privacy-policy) for the most accurate reproduction.*
 
-# Mequoda Privacy Policy
+# Mequoda Privacy Policy - Mequoda Daily
 
 Mequoda Group, LLC is committed to protecting and maintaining your privacy. We understand that it is a privilege for us to be trusted with your personal information. To get full access to our services, we ask you to give us information that we understand is very important to you. Therefore, we want you to know exactly what information is collected, why we collect it, how we protect it, and how you can access or change it.
 
