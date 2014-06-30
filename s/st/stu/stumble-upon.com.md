@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stumble-upon.com privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626101049id_/http%3A//www.stumbleupon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stumble-upon.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630083925id_/http%3A//www.stumbleupon.com/privacy) for the most accurate reproduction.*
 
 # StumbleUpon Privacy Policy | StumbleUpon.com
 
