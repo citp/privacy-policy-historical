@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the androidauthority.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207025617id_/http%3A//www.androidauthority.com/privacy%2520Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the androidauthority.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630073648id_/http%3A//www.androidauthority.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Android Authority
+# Privacy Policy | Android Authority
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
