@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the egscans.org privacy policy that was archived on 2013-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130626131055id_/http%3A//egscans.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the egscans.org privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630234416id_/http%3A//egscans.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy :: EGScans
 
-This Privacy Policy governs the manner in which Easy Going Scans collects, uses, maintains and discloses information collected from users (each, a "User") of the egscans.org website and all sub-domains ("Egscans.com"). This privacy policy applies to the Site and all products and services offered by Easy Going Scans.
+This Privacy Policy governs the manner in which Easy Going Scans collects, uses, maintains and discloses information collected from users (each, a "User") of the egscans.com website and all sub-domains ("Egscans.com"). This privacy policy applies to the Site and all products and services offered by Easy Going Scans.
 
 ### Personally Identifiable Information (PII)
 
