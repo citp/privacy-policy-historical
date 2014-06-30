@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instagr.am privacy policy that was archived on 2013-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130630230143id_/http%3A//instagram.com/about/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instagr.am privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630105927id_/http%3A//instagram.com/about/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy • Instagram
 
@@ -163,20 +163,20 @@ We will not rent or sell your information to third parties outside Instagram (or
 
   * Update your account at any time by logging in and changing your profile settings.
   * Unsubscribe from email communications from us by clicking on the "unsubscribe link" provided in such communications. As noted above, you may not opt out of Service-related communications (e.g., account verification, purchase and billing confirmations and reminders, changes/updates to features of the Service, technical and security notices).
-  * If you have any questions about reviewing or modifying your account information, please contact us directly at [support@instagram.com](mailto:support@instagram.com).
+  * [Learn more](http://help.instagram.com/284802804971822/) about reviewing or modifying your account information.
 
 
 
 **How long we keep your User Content:**
 
   * Following termination or deactivation of your account, Instagram, its Affiliates, or its Service Providers may retain information (including your profile information) and User Content for a commercially reasonable time for backup, archival, and/or audit purposes.
-  * If you have any questions about termination or deactivation of your account, please contact us directly at [support@instagram.com](mailto:support@instagram.com).
+  * [Learn more](http://help.instagram.com/448136995230186/) about deleting your account.
 
 
 
 **6\. CHILDREN'S PRIVACY**
 
-Instagram does not knowingly collect or solicit any information from anyone under the age of 13 or knowingly allow such persons to register for the Service. The Service and its content are not directed at children under the age of 13. In the event that we learn that we have collected personal information from a child under age 13 without parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at [support@instagram.com](mailto:support@instagram.com).
+Instagram does not knowingly collect or solicit any information from anyone under the age of 13 or knowingly allow such persons to register for the Service. The Service and its content are not directed at children under the age of 13. In the event that we learn that we have collected personal information from a child under age 13 without parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please [contact us](http://help.instagram.com/290666591035380/).
 
 **7\. OTHER WEB SITES AND SERVICES**
 
@@ -184,11 +184,11 @@ We are not responsible for the practices employed by any websites or services li
 
 **8\. HOW TO CONTACT US ABOUT A DECEASED USER**
 
-In the event of the death of an Instagram User, please send us an email to the following email address: [support@instagram.com](mailto:support@instagram.com). We will usually conduct our communication via email; should we require any other information, we will contact you at the email address you have provided in your request.
+In the event of the death of an Instagram User, please [contact us](http://help.instagram.com/264154560391256/). We will usually conduct our communication via email; should we require any other information, we will contact you at the email address you have provided in your request.
 
 **9\. HOW TO CONTACT US**
 
-If you have any questions about this Privacy Policy or the Service, please contact us at [support@instagram.com](mailto:support@instagram.com).
+If you have any questions about this Privacy Policy or the Service, please find the appropriate support channel in the [Instagram Help Center](http://help.instagram.com/) at which to contact us.
 
 **10\. CHANGES TO OUR PRIVACY POLICY**
 
