@@ -1,27 +1,24 @@
-> *The following text is extracted and transformed from the suicidepreventionlifeline.org privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513092114id_/http%3A//www.suicidepreventionlifeline.org/About/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suicidepreventionlifeline.org privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630055615id_/http%3A//www.suicidepreventionlifeline.org/About/Privacy) for the most accurate reproduction.*
 
 # Privacy
 
 ### Web Site Privacy Policy
 
-Thank you for visiting our Web site and reviewing our privacy policy. Our privacy policy is clear: We will not collect any personal information about you when you visit our Web site unless you choose to provide that information to us.
+Thank you for visiting our Web site and reviewing our privacy policy. We use web measurement and customization technologies, such as cookies, to help our website function better for visitors and to better understand how the public is using our website.  
+  
+
 
 ### Here is how we handle information about your visit to our Web site:
 
-Information Collected and Stored Automatically: If you do nothing during your visit but browse through the Web site, do searches, read pages, or download information, we will automatically gather and store certain information about your visit. This information does not identify you personally. No information about users/visitors will be sold, shared, or utilized in any commercial way. We automatically collect and store only the following information about your visit:
+We use session cookies to gather data for technical purposes, such as enabling better navigation through our website and generating aggregated statistics about how the website is used.
 
-  1. The Internet domain (for example, “company.com” if you use a private Internet access account, or “yourschool.edu” if you connect from a university’s domain) and IP address (an IP address is a number that is automatically assigned to your computer whenever you are surfing the Web) from which you access our Web site;
-  2. The type of browser and operating system used to access our site;
-  3. The date and time you access our site;
-  4. The searches you make;
-  5. The pages you visit; and
-  6. If you linked to this site from another Web site, the address of that Web site.
+Session cookies are temporary text files that expire when you leave our website. When cookies expire, they are automatically deleted from your computer. We do not use session cookies to collect PII, and we do not share data collected from session cookies.
 
+Our use of session cookies is defined as "Tier 1" usage in accordance with the OMB Memorandum (M)-10-22 Guidance for Online Use of Web Measurement and Customization Technologies.
 
+We use multi-session cookies, a.k.a. persistent cookies, to customize our website for frequent visitors and to test variations of website design and content. Multi-session cookies are cookies that are stored over more than a single session on your computer. We do not use multi-session cookies to collect PII, and we do not share data collected from multi-session cookies. Our multi-session cookies are set to expire two years after your last visit to our website. After two years, they are automatically deleted from your computer. Our use of multi-session cookies is defined as "Tier 2" usage in accordance with the OMB Memorandum (M)-10-22 Guidance for Online Use of Web Measurement and Customization Technologies.
 
-We use this information to help us make our site more useful to visitors—to learn about the number of visitors to our site, what part of the site they are interested in, how long they use the site, and the types of technology our visitors use. WE DO NOT TRACK OR RECORD INFORMATION ABOUT THE IDENTITY OF INDIVIDUALS AND THEIR VISITS.
-
-Sometimes we write a small file on the user’s computer called a “session cookie.” Session cookies automatically expire when users leave a Web site; session cookies retain information only during the session or for the purpose of completing a particular online transaction, without any capacity to track users over time and across different Web sites. Other than a session cookie, and the six items described above, we do not obtain any information from the user or the user's computer. We do not use “persistent cookies,” and we fully comply with the HHS IRM Policy for Usage of Persistent Cookies, HHS-IRM-2000-0009; this policy prohibits the use of persistent cookies and permits the use of session cookies.
+You can take actions to block cookies. Blocking these cookies from your computer will not affect your access to the content and tools on our website. Instructions to opt out are available on USA.gov.
 
 ### If You Send Us Personal Information
 
@@ -56,10 +53,10 @@ For site security purposes and to ensure that this service remains available to 
 
 ### Questions About Our Privacy Policy
 
-If you have any questions about the National Suicide Prevention Lifeline privacy policy, please feel free to visit our [contact form](https://web.archive.org/web/20130513092114id_/http%3A//www.suicidepreventionlifeline.org/About/Contact).
+If you have any questions about the National Suicide Prevention Lifeline privacy policy, please feel free to visit our [contact form](https://web.archive.org/Contact).
 
 The Information Center provides information about mental health for users of mental health services and their families, policymakers, providers, the media, and the public. Our staff members are skilled at listening and responding to questions from the public and professionals. They quickly direct callers to Federal, State, and local organizations dedicated to treating and preventing mental illness. The Information Center also has information on Federal grants, conferences, and other events.
 
 ### Use of Our Material/Information
 
-All text materials on this Web site are in the public domain. The National Suicide Prevention Lifeline encourages copying or any other utilization of the text. Some of the graphic materials on this site are in the public domain and other graphics may be used with permission, but that permission does not necessarily extend to all. If you have any permission questions, please visit our [contact form](https://web.archive.org/web/20130513092114id_/http%3A//www.suicidepreventionlifeline.org/About/Contact).
+All text materials on this Web site are in the public domain. The National Suicide Prevention Lifeline encourages copying or any other utilization of the text. Some of the graphic materials on this site are in the public domain and other graphics may be used with permission, but that permission does not necessarily extend to all. If you have any permission questions, please visit our [contact form](https://web.archive.org/Contact).
