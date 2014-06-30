@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the purestorage.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207012050id_/http%3A//www.purestorage.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purestorage.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630185733id_/http%3A//www.purestorage.com/privacy) for the most accurate reproduction.*
 
 # Pure Storage | Privacy Policy
 
@@ -64,7 +64,7 @@ Pure Storage, Inc. (" **Company** ") is committed to protecting your privacy. We
 Pure Storage, Inc.   
 Attn: Web Support   
 650 Castro Street   
-Suite #400   
+Suite #260   
 Mountain View, CA 94041-2055   
 800-379-7873 
 
