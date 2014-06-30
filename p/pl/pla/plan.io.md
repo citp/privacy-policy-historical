@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the plan.io privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807040342id_/https%3A//plan.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plan.io privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630225035id_/https%3A//plan.io/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy - Online Project Management and Redmine Hosting | Planio
+# Privacy policy | Planio
 
 Planio is very concerned with protecting the user’s privacy. Reasonable measures are undertaken to prevent unauthorized access to any personal information.
 
