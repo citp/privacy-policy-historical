@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the storyful.com privacy policy that was archived on 2013-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131207201933id_/http%3A//storyful.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storyful.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630210218id_/http%3A//storyful.com/privacy-policy) for the most accurate reproduction.*
 
 # Storyful | Privacy Policy
-
-[Sign In](https://web.archive.org/prosignin) [Blog](http://blog.storyful.com/)
 
 ## Privacy Policy
 
