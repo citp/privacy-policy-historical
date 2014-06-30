@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nydailynews.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231025214id_/http%3A//www.nydailynews.com/services/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nydailynews.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630155228id_/http%3A//www.nydailynews.com/services/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - NY Daily News
 
@@ -50,6 +50,8 @@ _Statistical Analysis._ We may use collected information to create aggregate sta
 
 _Yahoo!_ Yahoo! is an ad networks partner of ours. To improve your ad experience on the Daily News Services and elsewhere on the Internet, we may send anonymous information to Yahoo! based on your browser's activities, such as the type of pages viewed and categories of interests, so that the advertising you see is relevant to you. Yahoo! also may use information regarding its own users to select which ads to display. Click [here](http://info.yahoo.com/privacy/us/yahoo/opt_out/targeting/details.html) to learn more about Yahoo!'s ad practices, including how to opt out.
 
+_Lijit_ Lijit Networks, Inc. (“Lijit”) is an ad networks partner of ours. To improve your ad experience on the Daily News Services and elsewhere on the Internet, we may send anonymous information to Lijit based on your browser's activities, such as the type of pages viewed and categories of interests, so that the advertising you see is relevant to you. Lijit also may use information regarding its own users to select which ads to display. Click [here](http://www.lijit.com/company/privacy-policy) to learn more about Lijit’s ad practices, including how to opt out.
+
 #### Disclosures Required by Law.
 
 As described above, certain uses of collected information may involve disclosure to third parties. In addition, we may disclose collected information in the good faith belief that we are required to do so by law, or when doing so is reasonably necessary to: (1) comply with the law or legal process; (2) respond to any claims; (3) protect and defend the rights, property or personal safety of Daily News, L.P. and its subsidiaries and affiliates, as well as our customers, users or the public; or (4) protect against misuse or unauthorized use of the Daily News Services. In addition, collected information may be disclosed as part of any bankruptcy, merger, sale, transfer of company assets or acquisition. 
@@ -75,4 +77,4 @@ Daily News, L.P.
 4 New York Plaza  
 New York, NY 10004
 
-**Last Updated on May 2, 2012**
+**Last Updated on March 25, 2014**
