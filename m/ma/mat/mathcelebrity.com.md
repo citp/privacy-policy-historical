@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mathcelebrity.com privacy policy that was archived on 2013-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131125040611id_/http%3A//mathcelebrity.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mathcelebrity.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630234827id_/http%3A//www.mathcelebrity.com/privacy.php) for the most accurate reproduction.*
 
-# 
+# Math Celebrity Privacy Policy
 
 **What information do we collect?**  
 We collect information from you when you register on our site or place an order. 
