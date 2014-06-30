@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the printed.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806045258id_/http%3A//www.printed.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printed.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630160627id_/http%3A//www.printed.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy of printed.com
 
@@ -82,6 +82,8 @@ The data that we collect from you may be transferred to, and stored at, a destin
 6.2 We may pass your personal data to a third party partner organisation for the purposes of analysing customer demographic information. This third party is subject to contractual arrangements and will not pass your personal data to any other party.
 
 6.3 You have the right to ask us not to process your personal data for marketing purposes You can also exercise the right at any time by contacting us at [theteam@printed.com.](mailto:theteam@printed.com)
+
+6.4 For our refer a friend programme, we may notify the referrer when you place an order. We will not tell them what you have ordered, or pass on any of your personal information.
 
 **7\. Links to other sites**
 
