@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taboola.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231232354id_/http%3A//www.taboola.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taboola.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630225107id_/http%3A//www.taboola.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Taboola - Content you may like
 
@@ -112,14 +112,4 @@ Our website and associated services are hosted in the United States.  If you ar
 
 Our Privacy Policy may change from time to time. We will post any privacy policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of privacy policy changes).
 
-** 
-
-### You have successfully opted-out
-
-Taboola will no longer collect personal information about you.
-
-### You have successfully opted-in
-
-Taboola will serve you personalized recommendation based on your history.
-
-**
+You are currently:  Opt in You have **Opted in** to tracking, Taboola will serve you personalized recommendation based on your history. You have **Opted out** of tracking, Taboola will no longer collect personal information about you.
