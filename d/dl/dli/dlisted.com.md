@@ -1,0 +1,16 @@
+> *The following text is extracted and transformed from the dlisted.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630191719id_/http%3A//dlisted.com/privacy) for the most accurate reproduction.*
+
+# Dlisted | Privacy
+
+Dlisted.com has adopted this Privacy Statement in order to inform you of its policies with respect to information collected from this website. By visiting Dlisted.com, you acknowledge this Privacy Statement and consent to the practices it describes.  
+When you visit Dlisted.com, certain anonymous information about your visit is automatically logged, such as the type of browser you use, the server name and IP address through which you access the website, the date and time you access the site, the pages you visit, and the internet address of the website, if any, from which you linked directly Dlisted.com. This information is not personally identifiable. Dlisted.com uses the anonymous browsing information collected automatically by its servers primarily to help it administer and improve its website. We may also use aggregated anonymous information to provide information about the website to advertisers.
+
+To register as a user of Dlisted.com’s website, you must complete a registration form that requires certain personally identifiable information that may include your name, email address and a unique individual password. You may also choose to communicate with Dlisted.com through email, via our website, or through other means. We collect the information in these communications, and such information may be personally identifiable. Dlisted.com will not collect any personally identifiable information about you unless you provide it by these methods. Therefore, if you do not want Dlisted.com to obtain any personally identifiable information about you, do not submit it. 
+
+Dlisted.com website’s server, or the servers of companies that are used to operate this site, may place a “cookie” on your computer in order to allow us to personalize your experience and improve the functionality of the website. Most web browsers have features that allow you to prevent cookies from being sent. If you disable cookies you may not be able to use certain personalized functions of this website. 
+
+The advertisers that appear on this website may also use cookies or third party web beacons that help track and target the interests of users of this website in order to present “personalized” advertisements. We may collect and share log data with these companies. To opt-out of this type of advertising, please visit: http://networkadvertising.org.  
+Dlisted.com may embed code on this website from third parties such as Facebook, Twitter, Google, and others. These third parties may collect information about you in ways Dlisted.com does not control. Please consult the privacy statements of these third parties.
+
+Dlisted.com does not knowingly collect information from anyone under the age of 13 or knowingly allow such persons to register as users. The content on Dlisted.com is not directed at children.  
+Changes to this policy may be made at any time by updating the link on this website. Please contact michaelk@dlisted.com with any questions about this policy. 
