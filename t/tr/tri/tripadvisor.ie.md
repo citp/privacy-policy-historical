@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tripadvisor.ie privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231045738id_/http%3A//www.tripadvisor.ie/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripadvisor.ie privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630225839id_/http%3A//www.tripadvisor.ie/pages/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy - TripAdvisor
 
@@ -160,7 +160,7 @@ TripAdvisor may update this Privacy Policy in the future. We will notify our mem
 
 If you have questions about this Privacy Policy, please contact us at: 
 
-©2013 TripAdvisor LLC. All rights reserved.  
+©2014 TripAdvisor LLC. All rights reserved.  
 
 
 This Privacy Policy is effective as of July 1, 2011 
