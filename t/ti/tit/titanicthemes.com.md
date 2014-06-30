@@ -1,10 +1,21 @@
-> *The following text is extracted and transformed from the titanicthemes.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231024622id_/http%3A//themeforest.net/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the titanicthemes.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630105518id_/http%3A//themeforest.net/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | ThemeForest
 
 Envato Pty Ltd ( **Envato** ) has developed this Privacy Policy (“Policy”) to inform you about how we deal with privacy issues in relation to our website. Your privacy is very important to us and you must agree to the terms of this Policy before becoming an Envato Marketplace member and/or using the Envato Marketplace web sites ( **Sites** ), included but not limited to
 
-This Policy governs the information we collect about you and your use of information we provide to you. By accepting this Policy and the User Terms & Conditions Agreement, you expressly consent to our use and disclosure of your personal information in a manner prescribed in this Policy. You acknowledge this by using the Site.
+Site Name: | Accessible at:  
+---|---  
+ActiveDen | [www.activeden.net](http://www.activeden.net/)  
+AudioJungle | [www.audiojungle.net](http://www.audiojungle.net/)  
+CodeCanyon | [www.codecanyon.net](http://www.codecanyon.net/)  
+GraphicRiver | [www.graphicriver.net](http://www.graphicriver.net/)  
+ThemeForest | [www.themeforest.net](http://www.themeforest.net/)  
+VideoHive | [www.videohive.net](http://www.videohive.net/)  
+3DOcean | [www.3docean.net](http://www.3docean.net/)  
+PhotoDune | [www.photodune.net](http://photodune.net/)  
+  
+This Policy governs the information we collect about you and your use of information we provide to you. By accepting this Policy and the Marketplace Terms Agreement, you expressly consent to our use and disclosure of your personal information in a manner prescribed in this Policy. You acknowledge this by using the Site. 
 
 ## Information About Children
 
