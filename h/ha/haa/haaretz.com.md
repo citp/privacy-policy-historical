@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the haaretz.com privacy policy that was archived on 2012-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121231052727id_/http%3A//www.haaretz.com/misc/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the haaretz.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630094240id_/http%3A//www.haaretz.com/misc/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy-Israel News | Haaretz Daily Newspaper
 
@@ -64,7 +64,7 @@ The Company’s websites shall not transfer your personal details and the inform
 
 • The Company’s websites may transfer your details and the information collected in consequence of your use of the websites to other related companies, provided that they use this information in accordance with this privacy policy. 
 
-• In the event that the activity of any of the Company’s websites is integrated with or transferred to another corporation, including because of an internal re-organization in the __________ group or because of a merger with another corporation – it will of course be possible to transfer to the relevant new corporation a copy of the information that has been stored about you on the site or any other statistical information in the Company’s possession, provided that such corporation acts in accordance with the principles of this privacy policy. 
+• In the event that the activity of any of the Company’s websites is integrated with or transferred to another corporation, including because of an internal re-organization in Haaretz group or because of a merger with another corporation – it will of course be possible to transfer to the relevant new corporation a copy of the information that has been stored about you on the site or any other statistical information in the Company’s possession, provided that such corporation acts in accordance with the principles of this privacy policy. 
 
 • The Company’s websites are expected to enable you to use various applications on the Company’s websites, as well as on other websites (such as the social network Facebook), which might inform third parties, including other browsers of the various social network websites, that you have been exposed to or read certain content that was published on any of the Company’s websites. It is expressed that by approving the relevant application, you are confirming that you have been informed thereof and that you shall not have any plea against the Company in such regard. 
 
