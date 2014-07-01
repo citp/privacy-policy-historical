@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dxengineering.com privacy policy that was archived on 2013-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130814062717id_/http%3A//www.dxengineering.com/faq/detail/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dxengineering.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701101851id_/http%3A//www.dxengineering.com/faq/detail/privacy-and-security) for the most accurate reproduction.*
 
 # Privacy and Security - Free Shipping on Orders Over $99 at DX Engineering
 
