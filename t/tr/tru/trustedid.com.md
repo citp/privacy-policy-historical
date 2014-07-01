@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the trustedid.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330183742id_/https%3A//www.trustedid.com/serviceterms.php%3Fserviceterms%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trustedid.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701132506id_/https%3A//www.trustedid.com/serviceterms.php%3Fserviceterms%3Dprivacy_policy) for the most accurate reproduction.*
 
 # TrustedID Privacy Policy
 
-**Effective Date: October 30, 2013**
+**Effective Date: May 20, 2014**
 
-Protecting your personal information is important to TrustedID®. Please review the following information regarding our privacy policies and practices. 
+Protecting your personal information is important to TrustedID®, an Equifax® Company. Please review the following information regarding our privacy policies and practices. 
 
-TrustedID has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at help@trustedid.com If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). 
+TrustedID has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at help@trustedid.com if you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint). 
 
 **This document includes information about:**
 
@@ -18,13 +18,13 @@ TrustedID has been awarded TRUSTe's Privacy Seal signifying that this privacy po
 
 
 
-**Special Note for Parents:** The TrusteID website is a general audience website and is not designed or intended to attract children younger than 13. We donot collect personal information from any person we actually know is younger than 13. 
+**Special Note for Parents:** The TrustedID website is a general audience website and is not designed or intended to attract children younger than 13. We do not collect personal information from any person we actually know is younger than 13. 
 
 **1\. Security of Your Information**
 
 We adopt the following general steps that we take to protect your personal information:
 
-Any sensitive personally identifiable information entered into our website, such as your social security number or credit card number, is transferred in an encrypted format using Secure Sockets Layer (SSL) or another equivalent technology. (To learn more about SSL, follow [this link](http://www.webopedia.com/TERM/S/SSL.html)). TrustedID employees with access to your personal information undergo thorough background checks. We provide multiple layers of protection against network or physical intrusion. We monitor our servers and physical location for unauthorized access. You will notice when you are on our website that some familiar indicators appear in your browser to confirm the entire page is secure. These indicators include the small "lock" icon and the "s" in the Web address bar (for example, "https"). 
+We adopt the following general steps that we take to protect your personal information: Any sensitive personally identifiable information entered into our website, such as your social security number or credit card number, is transferred in an encrypted format using Secure Sockets Layer (SSL) or another equivalent technology. (To learn more about SSL, follow [this link](http://www.webopedia.com/TERM/S/SSL.html)). TrustedID employees with access to your personal information undergo thorough background checks. We provide multiple layers of protection against network or physical intrusion. We monitor our servers and physical location for unauthorized access. You will notice when you are on our website that some familiar indicators appear in your browser to confirm the entire page is secure. These indicators include the small "lock" icon and the "s" in the Web address bar (for example, "https"). 
 
 **2\. Collecting information**
 
@@ -50,15 +50,11 @@ We use clear gifs in our HTML-based emails to let us know which emails have been
 
 **Log Files:** TrustedID may choose to automatically receive and record information on our server logs from your browser including your IP address, computer MAC address, TrustedID cookie information, and the page you requested. Our servers may automatically collect usage information, such as the numbers and frequency of visitors to our website and its components, similar to TV ratings that indicate how many people watched a particular show. TrustedID uses this data in aggregate form, that is, as a statistical measure, and not in a manner that would identify you personally. This type of aggregate data enables us to figure out how often customers use parts of the website so that we can make the website appealing to as many customers as possible, and improve those features. 
 
-**E-mail Communications:** TrustedID does not send any solicitations to you via email, without your express consent. We do not ask you to email us personal information. We may receive a confirmation when you open an e-mail from TrustedID if your computer supports this type of program. TrustedID may use this confirmation to help ensure the timeliness and effectiveness of correspondence. 
+**E-mail Communications:** TrustedID does not send any solicitations to you via email, without your express consent. We do not ask you to email us personal information. We may receive a confirmation when you open an e-mail from TrustedID if your computer supports this type of program. TrustedID may use this confirmation to help ensure the timeliness and effectiveness of correspondence. We will send you product-related announcements periodically. For instance, if our website is temporarily suspended for maintenance, we may send you an email. Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account. 
 
-We will send you product-related announcements periodically. For instance, if our website is temporarily suspended for maintenance, we may send you an email. Generally, you may not opt-out of these communications, which are not promotional in nature. If you do not wish to receive them, you have the option to deactivate your account. 
+**Registration:** In order to access some portions of this website, you must first complete the registration form submitting your email address and creating a password. During registration you are required to provide your personal information including: name, mailing address, Date of Birth, Phone numbers, gender, Social Security Number and email address. We use this information to verify your identity as well as uniquely identify your information with credit bureaus and other data stores. You will receive email during the registration process detailing steps you will need to follow for completion as well as important information you will want to retain for your records 
 
-**Registration:** In order to access some portions of this website, you must first complete the registration form submitting your email address and creating a password. During registration you are required to provide your personal information including: name, mailing address, Date of Birth, Phone numbers, gender, Social Security Number and email address. We use this information to verify your identity as well as uniquely identify your information with credit bureaus and other data stores. 
-
-You will receive email during the registration process detailing steps you will need to follow for completion as well as important information you will want to retain for your records. 
-
-**Public Forums:** Our website offers publicly accessible blogs. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at help@trustedid.com In some cases, we may not be able to remove your personal information, in which case, we will let you know that we are unable to do so and why. 
+**Public Forums:** Our website offers publicly accessible blogs. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at help@trustedid.com. In some cases, we may not be able to remove your personal information, in which case, we will let you know that we are unable to do so and why. 
 
 **Orders:** If you purchase a product from us on our website order form, we request certain personal information from you on our order form. You must provide contact information (such as name, email, and shipping address) and financial information (such as credit card number, expiration date).  
 
@@ -73,11 +69,11 @@ We use this information for billing purposes and to fill your orders. If we have
 
 We neither rent nor sell your personal information to anyone without your express consent. We share personal information only with our business partners, affiliates and agents as described in this Privacy Policy. 
 
-Business Partners: We work closely with a variety of business partners and affiliates. In certain situations, these businesses may operate at the TrustedID website or offer products to you through TrustedID's website. In other situations, TrustedID offers products jointly with business partners. You will be able to recognize when a business partner is associated with your transaction when their logo appears or is shown with the TrustedID logo. We may share information that is related to such transactions with that business partner, such as information regarding whether your registration is completed, or whether you are an active user of product. In the event you are the user of a product purchased for you by a third party, (e.g, your employer), TrustedID may share information with the third party, such as your name, address, date of registration and type of membership. 
+Business Partners: We work closely with a variety of business partners and affiliates. In certain situations, these businesses may operate at the TrustedID website or offer products to you through TrustedID's website. In other situations, TrustedID offers products jointly with business partners. You will be able to recognize when a business partner is associated with your transaction when their logo appears or is shown with the TrustedID logo. We may share information that is related to such transactions with that business partner, such as information regarding whether your registration is completed, or whether you are an active user of product. In the event you are the user of a product purchased for you by a third party, (e.g., your employer), TrustedID may share information with the third party, such as your name, address, date of registration and type of membership. 
 
-Agents: We may employ other companies and people to perform tasks on our behalf such as an email provider to send specific types of email, or payment processor to process your credit card and need to share information (Name, Address, Phone Number) with them to provide products to you. Unless we tell you differently, TrustedID's agents do not have any right to use Personal Information we share with them beyond what is necessary to assist us. You hereby consent to our sharing of Personal Information for the above purposes. 
+Agents: We may employ other companies and people to perform tasks on our behalf such as an email provider to send specific types of email, or payment processor to process your credit card and need to share information (Name, Address, Phone Number) with them to provide products to you. Unless we tell you differently, TrustedID 's agents do not have any right to use Personal Information we share with them beyond what is necessary to assist us. You hereby consent to our sharing of Personal Information for the above purposes. 
 
-Promotional Offers: We will not send promoitonal offers to you without your express consent. 
+Promotional Offers: We will not send offers to you without your express consent. 
 
 Business Transfers: In some cases, we may choose to buy or sell assets. In these types of transactions, your information is typically one of the business assets that is transferred. Moreover, if TrustedID, or substantially all of its assets were acquired, your information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of TrustedID may continue to use your Personal Information as set forth in this Privacy Policy. You will be notified via a prominent notice on our website of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information. 
 
@@ -121,11 +117,4 @@ Our website includes Social Media Features, such as the Facebook Like button and
 
 TrustedID may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is collected. If we make material changes in the way we use Personal Information, we will notify you by posting an announcement on our Website prior to the changes taking effect. 
 
-**Questions or concerns**
-
-If you have any questions or concerns, please contact us at 1.888.548.7878. 
-
-TrustedID, Inc.  
-101 University Avenue  
-Suite 400  
-Palo Alto, CA 94301 
+If you have questions or comments about this Privacy Policy, please e-mail us at privacy@Equifax.com or write to Chief Privacy Officer, Equifax Informationc., 1550 Peachtree Street, NW, Atlanta, GA 30309. 
