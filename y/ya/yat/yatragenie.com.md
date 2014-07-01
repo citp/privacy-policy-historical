@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yatragenie.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330231815id_/https%3A//www.yatragenie.com/privacyPolicy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yatragenie.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701135445id_/https%3A//www.yatragenie.com/privacyPolicy.jsp) for the most accurate reproduction.*
 
-# Privacy And Policy
+# Online bus booking, online ticket booking made easy at yatragenie.com | Privacy Policy
 
 ### To Our Individual Clients:
 
