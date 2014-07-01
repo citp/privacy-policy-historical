@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rachaelray.com privacy policy that was archived on 2014-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140403140854id_/http%3A//www.rachaelray.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rachaelray.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701090649id_/http%3A//www.rachaelray.com/privacy.php) for the most accurate reproduction.*
 
 # Rachael Ray's Official Website - Privacy Policy
 
@@ -71,7 +71,7 @@ This Privacy Policy was last updated on 9/27/07 and is effective immediately.
 
 Contact Us
 
-If you have any questions concerning this Privacy Policy other than with respect to California Privacy rights, please send us an email [**here**](mailto:privacy@rachaelray.com)
+If you have any questions concerning this Privacy Policy other than with respect to California Privacy rights, please send us an email [**here.**](mailto:privacy@rachaelray.com)
 
 Governing Law
 
