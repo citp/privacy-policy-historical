@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalguideline.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327094132id_/http%3A//www.globalguideline.com/privacy_guideline.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalguideline.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701163938id_/http%3A//www.globalguideline.com/privacy_guideline.php) for the most accurate reproduction.*
 
 # Privacy Policy - Global Guideline
 
@@ -13,7 +13,7 @@ The e-mail addresses of those who communicate with us via e-mail, comments, news
 
 We use third-party advertising companies to serve ads when you visit our web tutorials, interview questions and answers or articles. These advertising companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
 
-The information we collect is used to improve the content of our informative material, disclosed when legally required to do so, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our site and applicable laws or to protect against misuse or unauthorized use of our website and Aggregate visitor data is used when to describe user statistics for http://www.globalguideline.com (page views, unique visitors, etc).  We also provide our statistical data on our website just for knowledge you can view [our statistical users data here](https://web.archive.org/web/20140327094132id_/http%3A//www.globalguideline.com/statistics.php).
+The information we collect is used to improve the content of our informative material, disclosed when legally required to do so, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our site and applicable laws or to protect against misuse or unauthorized use of our website and Aggregate visitor data is used when to describe user statistics for http://www.globalguideline.com (page views, unique visitors, etc).  We also provide our statistical data on our website just for knowledge you can view [our statistical users data here](https://web.archive.org/web/20140701163938id_/http%3A//www.globalguideline.com/statistics.php).
 
 ## Usage of Cookies at Global Guideline:
 
