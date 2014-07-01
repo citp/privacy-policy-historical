@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the betphoenix.com privacy policy that was archived on 2013-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130715191608id_/http%3A//www.betphoenix.ag/rules/house-rules/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betphoenix.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702011744id_/http%3A//www.betphoenix.ag/rules/house-rules/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Betphoenix
 
@@ -55,7 +55,7 @@ Most Web browsers allow use of an SSL connection. If your browser does not suppo
 BetPhoenix Sportsbook does not share or sell any information for purposes of economic gain; however there will be times in which we will have to disclose your personal information to a third party such as:
 
   1. In the event that we receive a valid court order.
-  2. In order to enforce or apply our Terms and Conditions and other agreements, or to protect our property, this includes but its not limited to exchanging information with other companies and organizations for the purpose of verification, fraud protection and credit risk reduction.
+  2. In order to enforce or apply our Terms and Conditions and other agreements, or to protect our property, this includes but it's not limited to exchanging information with other companies and organizations for the purpose of verification, fraud protection and credit risk reduction.
   3. In the event that we employ the services of a third party to help us provide our online services, or send promotional items to you.
 
 
