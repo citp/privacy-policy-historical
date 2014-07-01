@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keywordorganizer.org privacy policy that was archived on 2014-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140309055724id_/https%3A//clevergizmos.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keywordorganizer.org privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701060139id_/https%3A//clevergizmos.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy and EULA
 
