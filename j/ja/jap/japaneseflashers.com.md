@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the japaneseflashers.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330181106id_/http%3A//www.supportidols.com/support_faq/japaneseflashers-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the japaneseflashers.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701143741id_/http%3A//www.supportidols.com/support_faq/japaneseflashers-privacy.html) for the most accurate reproduction.*
 
 # JapaneseFlashers.com - Privacy Statement
 
