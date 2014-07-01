@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inspiredopinions.com privacy policy that was archived on 2013-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130810161444id_/https%3A//inspiredopinions.com%3Fr%3Dsite/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inspiredopinions.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701114111id_/https%3A//www.inspiredopinions.com%3Fr%3Dsite/privacy) for the most accurate reproduction.*
 
 # Schlesinger Associates - Privacy
 
@@ -63,6 +63,10 @@ Use of this Site is governed by the provisions contained in the [Terms and Condi
 Contact:
 
 For questions or concerns relating to privacy, you may contact us by email at [helpdesk@inspiredopinions.com](mailto:helpdesk@inspiredopinions.com), or by mail at InspiredOpinions, Privacy Inquiries, 101 Wood Avenue South, Suite 501, Iselin, NJ 08830.
+
+Phone number: +1 (855) 244-0886
+
+If you wish to unsubscribe please click [this link.](https://div.inspiredopinions.com/scripts/dubinterviewer.dll/Frames?Quest=36)
 
 United States of America: Our Site is maintained in the United States of America. By using the Site, you authorize the export of Personal Information to the USA and its storage and use as specified in this policy. If you are not a U.S. citizen, you expressly consent to the processing of your personal information in accordance with this Privacy Policy, even if the laws in your country may be more stringent with respect to the processing of personally identifiable 
 
