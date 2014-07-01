@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vkistudios.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210040728id_/http%3A//www.cardinalpath.com/privacy-copyright-policies%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vkistudios.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701173758id_/http%3A//www.cardinalpath.com/privacy-copyright-policies%23privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Cardinal Path
 
