@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weissinc.com privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820162145id_/http%3A//www.weissinc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weissinc.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701051327id_/http%3A//www.weissinc.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Weiss Research, Inc.
 
