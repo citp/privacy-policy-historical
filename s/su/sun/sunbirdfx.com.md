@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunbirdfx.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209204825id_/http%3A//www.sunbirdfx.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunbirdfx.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701214238id_/http%3A//www.sunbirdfx.com/privacy-statement) for the most accurate reproduction.*
 
 # 
 
