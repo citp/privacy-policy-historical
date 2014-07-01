@@ -1,20 +1,30 @@
-<!--The following is the downloaded HTML source of the freeconferencecall.com privacy policy that was archived on 2014-03-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140330183450id_/https%3A//www.freeconferencecall.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the freeconferencecall.com privacy policy that was archived on 2014-07-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140701182635id_/https%3A//www.freeconferencecall.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-2.newrelic.com","errorBeacon":"jserror.newrelic.com","licenseKey":"b6255a7b65","applicationID":"2961625","transactionName":"JwkIEUFZDl0DSktaBQoCDwtUGRJDD04FVR07FgkJWlUb","queueTime":0,"applicationTime":17,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-361.min.js"}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UQIAU1RTGwEJUlBUBQQ="};window.NREUM||(NREUM={}),__nr_require=function a(b,c,d){function e(f){if(!c[f]){var g=c[f]={exports:{}};b[f][0].call(g.exports,function(a){var c=b[f][1][a];return e(c?c:a)},g,g.exports,a,b,c,d)}return c[f].exports}for(var f=0;f<d.length;f++)e(d[f]);return e}({1:[function(a,b){function c(a,b,c){c||(c={});for(var d=f[a],e=d&&d.length||0,h=c[g]||(c[g]={}),i=0;e>i;i++)d[i].apply(h,b);return h}function d(a,b){var c=f[a]||(f[a]=[]);c.push(b)}function e(a){return delete a[g]}var f={},g="nr@context";b.exports={on:d,emit:c,clear:e}},{}],2:[function(a){function b(a,b,e,g,i){return h?h-=1:c("err",[i||new UncaughtException(a,b,e)]),"function"==typeof f?f.apply(this,d(arguments)):!1}function UncaughtException(a,b,c){this.message=a||"Uncaught error with no additional information",this.sourceURL=b,this.line=c}var c=a("handle"),d=a("lodash._slice"),e=a("../../../contextual-ee"),f=window.onerror,g=!1,h=0;a("loader").features.push("err"),window.onerror=b;try{throw new Error}catch(i){"stack"in i&&(a("../../wrap-timer"),a("../../wrap-raf"),"addEventListener"in window&&a("../../wrap-events"),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&a("../../wrap-xhr"),g=!0)}e.on("fn-start",function(){g&&(h+=1)}),e.on("fn-err",function(a,b,d){g&&(this.thrown=!0,c("err",[d,(new Date).getTime()]))}),e.on("fn-end",function(){g&&!this.thrown&&h>0&&(h-=1)})},{"../../../contextual-ee":1,"../../wrap-events":3,"../../wrap-raf":4,"../../wrap-timer":5,"../../wrap-xhr":6,handle:"4O2Y62",loader:"YLUGVp","lodash._slice":14}],3:[function(a){function b(a){d.inPlace(a,["addEventListener","removeEventListener"],"-",c)}function c(a){return a[1]}var d=a("../wrap-function"),e=(a("lodash._slice"),a("../contextual-ee"));if(b(window),"getPrototypeOf"in Object){for(var f=document;f&&!f.hasOwnProperty("addEventListener");)f=Object.getPrototypeOf(f);f&&b(f);for(var g=XMLHttpRequest.prototype;g&&!g.hasOwnProperty("addEventListener");)g=Object.getPrototypeOf(g);g&&b(g)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&b(XMLHttpRequest.prototype);e.on("addEventListener-start",function(a){if(a[1]){var b=a[1];"function"==typeof b?this.wrapped=b["nr@wrapped"]?a[1]=b["nr@wrapped"]:b["nr@wrapped"]=a[1]=d(b,"fn-"):"function"==typeof b.handleEvent&&d.inPlace(b,["handleEvent"],"fn-")}}),e.on("removeEventListener-start",function(a){var b=this.wrapped;b&&(a[1]=b)})},{"../contextual-ee":1,"../wrap-function":15,"lodash._slice":14}],4:[function(a){var b=(a("lodash._slice"),a("../wrap-function")),c=a("../contextual-ee");b.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),c.on("raf-start",function(a){a[0]=b(a[0],"fn-")})},{"../contextual-ee":1,"../wrap-function":15,"lodash._slice":14}],5:[function(a){function b(a){var b=a[0];"string"==typeof b&&(b=new Function(b)),a[0]=c(b,"fn-")}var c=(a("lodash._slice"),a("../wrap-function")),d=a("../contextual-ee");c.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),d.on("setTimer-start",b)},{"../contextual-ee":1,"../wrap-function":15,"lodash._slice":14}],6:[function(a){function b(){c.inPlace(this,f,"fn-")}var c=a("../wrap-function"),d=a("../contextual-ee"),e=window.XMLHttpRequest,f=["onload","onerror","onabort","onloadstart","onloadend","onprogress","onreadystatechange","ontimeout"];window.XMLHttpRequest=function(a){var f=new e(a);return d.emit("new-xhr",[],f),c.inPlace(f,["addEventListener","removeEventListener"],"-",function(a,b){return b}),f.addEventListener("readystatechange",b,!1),f},window.XMLHttpRequest.prototype=e.prototype},{"../contextual-ee":1,"../wrap-function":15}],7:[function(a){function b(a){if("string"==typeof a&&a.length)return a.length;if("object"!=typeof a)return void 0;if("undefined"!=typeof ArrayBuffer&&a instanceof ArrayBuffer&&a.byteLength)return a.byteLength;if("undefined"!=typeof Blob&&a instanceof Blob&&a.size)return a.size;if("undefined"!=typeof FormData&&a instanceof FormData)return void 0;try{return JSON.stringify(a).length}catch(b){return void 0}}function c(a){var c=this.params,d=this.metrics;if(!this.ended){this.ended=!0;for(var e=0;k>e;e++)a.removeEventListener(j[e],this.listener,!1);if(!c.aborted){if(d.duration=(new Date).getTime()-this.startTime,4===a.readyState){c.status=a.status;var g=a.responseType,h="arraybuffer"===g||"blob"===g||"json"===g?a.response:a.responseText,i=b(h);if(i&&(d.rxSize=i),this.sameOrigin){var l=a.getResponseHeader("X-NewRelic-App-Data");l&&(c.cat=l.split(", ").pop())}}else c.status=0;d.cbTime=this.cbTime,f("xhr",[c,d])}}}function d(a,b){var c=g(b),d=a.params;d.host=c.hostname+":"+c.port,d.pathname=c.pathname,a.sameOrigin=c.sameOrigin}function e(a,b){return b}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){a("loader").features.push("xhr");var f=a("handle"),g=a("./parse-url.js"),h=a("../../../wrap-function"),i=a("../../../contextual-ee"),j=["load","error","abort","timeout"],k=j.length,l=a("../../../loader/id");a("../../wrap-events"),a("../../wrap-xhr"),i.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=c,this.ended=!1,this.xhrGuids={}}),h.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",e),i.on("open-xhr-start",function(a){this.params={method:a[0]},d(this,a[1]),this.metrics={}}),i.on("open-xhr-end",function(a,b){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&b.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),i.on("send-xhr-start",function(a,c){var d=this.metrics,e=a[0],f=this;if(d&&e){var g=b(e);g&&(d.txSize=g)}this.startTime=(new Date).getTime(),this.listener=function(a){try{"abort"===a.type&&(f.params.aborted=!0),("load"!==a.type||f.called===f.totalCbs&&(f.onloadCalled||"function"!=typeof c.onload))&&f.end(c)}catch(b){}};for(var h=0;k>h;h++)c.addEventListener(j[h],this.listener,!1)}),i.on("xhr-cb-time",function(a,b,c){this.cbTime+=a,b?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof c.onload||this.end(c)}),i.on("xhr-load-added",function(a,b){var c=""+l(a)+!!b;this.xhrGuids&&!this.xhrGuids[c]&&(this.xhrGuids[c]=!0,this.totalCbs+=1)}),i.on("xhr-load-removed",function(a,b){var c=""+l(a)+!!b;this.xhrGuids&&this.xhrGuids[c]&&(delete this.xhrGuids[c],this.totalCbs-=1)}),i.on("addEventListener-end",function(a,b){b instanceof XMLHttpRequest&&"load"===a[0]&&i.emit("xhr-load-added",[a[1],a[2]],b)}),i.on("removeEventListener-end",function(a,b){b instanceof XMLHttpRequest&&"load"===a[0]&&i.emit("xhr-load-removed",[a[1],a[2]],b)}),i.on("fn-start",function(a,b,c){b instanceof XMLHttpRequest&&("onload"===c&&(this.onload=!0),("load"===(a[0]&&a[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),i.on("fn-end",function(a,b){this.xhrCbStart&&i.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,b],b)})}},{"../../../contextual-ee":1,"../../../loader/id":11,"../../../wrap-function":15,"../../wrap-events":3,"../../wrap-xhr":6,"./parse-url.js":8,handle:"4O2Y62",loader:"YLUGVp"}],8:[function(a,b){b.exports=function(a){var b=document.createElement("a"),c=window.location,d={};b.href=a,d.port=b.port;var e=b.href.split("://");return!d.port&&e[1]&&(d.port=e[1].split("/")[0].split(":")[1]),d.port&&"0"!==d.port||(d.port="https"===e[0]?"443":"80"),d.hostname=b.hostname||c.hostname,d.pathname=b.pathname,"/"!==d.pathname.charAt(0)&&(d.pathname="/"+d.pathname),d.sameOrigin=!b.hostname||b.hostname===document.domain&&b.port===c.port&&b.protocol===c.protocol,d}},{}],handle:[function(a,b){b.exports=a("4O2Y62")},{}],"4O2Y62":[function(a,b){function c(a,b){var c=d[a];return c?c.apply(this,b):(e[a]||(e[a]=[]),void e[a].push(b))}var d={},e={};b.exports=c,c.queues=e,c.handlers=d},{}],11:[function(a,b){function c(a){if(!a||"object"!=typeof a&&"function"!=typeof a)return-1;if(a===window)return 0;if(e.call(a,"__nr"))return a.__nr;try{return Object.defineProperty(a,"__nr",{value:d,writable:!0,enumerable:!1}),d}catch(b){return a.__nr=d,d}finally{d+=1}}var d=1,e=Object.prototype.hasOwnProperty;b.exports=c},{}],loader:[function(a,b){b.exports=a("YLUGVp")},{}],YLUGVp:[function(a,b){function c(){var a=m.info=NREUM.info;if(a&&a.agent&&a.licenseKey&&a.applicationID){m.proto="https"===l.split(":")[0]||a.sslForHttp?"https://":"http://",g("mark",["onload",f()]);var b=i.createElement("script");b.src=m.proto+a.agent,i.body.appendChild(b)}}function d(){"complete"===i.readyState&&e()}function e(){g("mark",["domContent",f()])}function f(){return(new Date).getTime()}var g=a("handle"),h=window,i=h.document,j="addEventListener",k="attachEvent",l=(""+location).split("?")[0],m=b.exports={offset:f(),origin:l,features:[]};i[j]?(i[j]("DOMContentLoaded",e,!1),h[j]("load",c,!1)):(i[k]("onreadystatechange",d),h[k]("onload",c)),g("mark",["firstbyte",f()])},{handle:"4O2Y62"}],14:[function(a,b){function c(a,b,c){b||(b=0),"undefined"==typeof c&&(c=a?a.length:0);for(var d=-1,e=c-b||0,f=Array(0>e?0:e);++d<e;)f[d]=a[b+d];return f}b.exports=c},{}],15:[function(a,b){function c(a,b,c,d){function nrWrapper(){var g,h=f(arguments),i=this,j=c&&c(h,i)||{};try{e.emit(b+"start",[h,i,d],j)}catch(k){}try{return g=a.apply(i,h)}catch(l){throw e.emit(b+"err",[h,i,l],j),l}finally{try{e.emit(b+"end",[h,i,g],j)}catch(k){}}}return a&&"function"==typeof a&&a.apply&&!a._wrapped?(b||(b=""),nrWrapper._wrapped=!0,nrWrapper):a}function d(a,b,d,e){d||(d="");var f,g,h,i="-"===d.charAt(0);for(h=0;h<b.length;h++)g=b[h],f=a[g],f&&"function"==typeof f&&f.apply&&!f._wrapped&&(a[g]=c(f,i?g+d:d,e,g,a))}var e=a("../contextual-ee"),f=a("lodash._slice");b.exports=c,c.inPlace=d},{"../contextual-ee":1,"lodash._slice":14}]},{},["YLUGVp",7,2]);</script>
 <title>
 Free Conference Call Privacy Policy | freeconferencecall.com
 </title>
-<meta content="Privacy policy for freeconferencecall.com. For additional information, visit freeconferencecall.com or call 877-482-5838." name="description">
+<meta content="Privacy policy for freeconferencecall.com. For additional information, visit freeconferencecall.com or call 877.216.7555." name="description">
 <meta content="freeconferencecall.com" name="Author">
 <meta content="text/html; charset=iso-8859-1" http-equiv="Content-Type">
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-5.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"77ee1923d5","applicationID":"3387760","transactionName":"d1xYQBMMCQ1VFk5YBFpXX1oGTBUTWRIAVxxrQ1lYCAAc","queueTime":0,"applicationTime":14,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-411.min.js"}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgYFUldRGwADXFZVAQE="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
 
-<link href="/assets/application-88fbc38d9878985161e066d9b401ccf6.css" media="all" rel="stylesheet">
+<link debug="false" href="/assets/vendor-2648a4e81417ef13b4956710859a31f4.css" media="all" rel="stylesheet">
+<link debug="false" href="/assets/application-d72e18d7cdafdd4d492276dad2a88cab.css" media="all" rel="stylesheet">
+<link debug="false" href="/assets/common-60e133d2bb0bf8966f1e6319ea5202b4.css" media="all" rel="stylesheet">
+<script>
+if(!window.LauncherConfig) { LauncherConfig = {}; }
+LauncherConfig.AppUrl = "";
+LauncherConfig.PluginVersion = "0.0.0";
+LauncherConfig.PluginUrl = null;
+LauncherConfig.ServerEnvironment = "production";
+</script>
+
 
 <meta content="authenticity_token" name="csrf-param">
-<meta content="er8+GzycsLZ43f+8dTZrYFhPJhLmrBSPTmSmrHTN1TI=" name="csrf-token">
+<meta content="8BcmCNikteKi0w9D941r6Ir6+GuALWKSO5LMTJXujzA=" name="csrf-token">
 <!-- ios6 apple touch icons -->
 <link href="/images/apple_icons/ios6/Icon.png" rel="apple-touch-precomposed" sizes="57x57">
 <link href="/images/apple_icons/ios6/Icon-72.png" rel="apple-touch-icon-precomposed" sizes="72x72">
@@ -41,28 +51,16 @@ Free Conference Call Privacy Policy | freeconferencecall.com
 <link href='/css/ie9.css' rel='stylesheet' type='text/css'>
 <![endif]-->
 <script src="//cdn.optimizely.com/js/234829055.js"></script>
-<!-- Start Google Analytics -->
-<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-208565-1']);
-  _gaq.push(['_setCampNameKey', 'ga_campaign']);    // name
-  _gaq.push(['_setCampMediumKey', 'ga_medium']);    // medium
-  _gaq.push(['_setCampSourceKey', 'ga_source']);    // source
-  _gaq.push(['_setCampTermKey', 'ga_term']);        // term/keyword
-  _gaq.push(['_setCampContentKey', 'ga_content']);  // content
-  _gaq.push(['_setCampNOKey', 'ga_nooverride']);    // don't override
-  _gaq.push(['_trackPageview']);
-
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  
+  ga('create', 'UA-208565-1', 'freeconferencecall.com');
+  ga('set', 'dimension1', 'no');
+  ga('send', 'pageview');
 </script>
-<!-- End Google Analytics -->
 
 </head>
 <body onload="">
@@ -77,330 +75,45 @@ Free Conference Call Privacy Policy | freeconferencecall.com
 </a>
 <p>
 24/7 Professional Customer Service
-<span class="cstel">Toll Free 877.482.5838</span>
+<span class="cstel">Toll Free 877.216.7555</span>
 </p>
 <div id="headerribbon">
 <a href="/stevie_award" title="Stevie Awards Gold Winner"></a>
 </div>
 </div>
 <div class="loginpanel">
-<div class="ie">
-<div class="mainloginbtn loginbtn">
-<a href="/login" title="Log In">Log In</a>
-</div>
+<div class="ie"></div>
+<a class="btn-green floatright" href="/login" title="Log In">Log In</a>
 <div class="menu_class">
 <span class="country_pad">Select your country</span>
 <div class="fl_usa"></div>
 </div>
-<ul class="the_menu" style="display:none;">
-<ul id="ctl00_countrylIst_pnlColumn1">
-<li>
-<a href="/free-international-conference-call/default.aspx?lang=ar">
-<div class="fl_argentina float_left"></div>
-<span>Argentina</span>
-</a>
-</li>
-<li>
-<a href="/free-international-conference-call/default.aspx?lang=au">
-<div class="fl_australia float_left"></div>
-<span>Australia</span>
-</a>
-</li>
-<li>
-<a href="/free-international-conference-call/default.aspx?lang=de-at">
-<div class="fl_austria float_left"></div>
-<span>Austria</span>
-</a>
-</li>
-<li>
-<a href="/free-international-conference-call/default.aspx?lang=be">
-<div class="fl_belgium float_left"></div>
-<span>Belgium</span>
-</a>
-</li>
-<li>
-<a href="/free-international-conference-call/default.aspx?lang=br">
-<div class="fl_brazil float_left"></div>
-<span>Brazil</span>
-</a>
-</li>
-<li>
-<a href="/free-international-conference-call/default.aspx?lang=bg">
-<div class="fl_bulgaria float_left"></div>
-<span>Bulgaria</span>
-</a>
-</li>
-<li>
-<a href="/free-international-conference-call/default.aspx?lang=ca">
-<div class="fl_canada float_left"></div>
-<span>Canada</span>
-</a>
-</li>
-<li>
-<a href="/free-international-conference-call/default.aspx?lang=cl">
-<div class="fl_chile float_left"></div>
-<span>Chile</span>
-</a>
-</li>
-<li>
-<a href="/free-international-conference-call/default.aspx?lang=cr">
-<div class="fl_costa_rica float_left"></div>
-<span>Costa Rica</span>
-</a>
-</li>
-<li>
-<a href="/free-international-conference-call/default.aspx?lang=hr">
-<div class="fl_croatia float_left"></div>
-<span>Croatia</span>
-</a>
-</li>
-<li>
-<a href="/free-international-conference-call/default.aspx?lang=cy">
-<div class="fl_cyprus float_left"></div>
-<span>Cyprus</span>
-</a>
-</li>
-<li>
-<a href="/free-international-conference-call/default.aspx?lang=cs-cz">
-<div class="fl_czech float_left"></div>
-<span>Czech</span>
-</a>
-</li>
-<li>
-<a href="/free-international-conference-call/default.aspx?lang=dk">
-<div class="fl_denmark float_left"></div>
-<span>Denmark</span>
-</a>
-</li>
-<li>
-<a href="/free-international-conference-call/default.aspx?lang=fi">
-<div class="fl_finland float_left"></div>
-<span>Finland</span>
-</a>
-</li>
-<li>
-<a href="/free-international-conference-call/default.aspx?lang=fr">
-<div class="fl_france float_left"></div>
-<span>France</span>
-</a>
-</li>
-<li>
-<a href="/free-international-conference-call/default.aspx?lang=gcc">
-<div class="fl_gcc float_left"></div>
-<span>GCC/Arabian Peninsula</span>
-</a>
-</li>
-<li>
-<a href="/free-international-conference-call/default.aspx?lang=ge">
-<div class="fl_georgia float_left"></div>
-<span>Georgia</span>
-</a>
-</li>
-</ul>
-<ul id="ctl00_countrylIst_pnlColumn2">
-<li>
-<a href="/free-international-conference-call/default.aspx?lang=de-de">
-<div class="fl_germany float_left"></div>
-<span>Germany</span>
-</a>
-</li>
-<li>
-<a href="/free-international-conference-call/default.aspx?lang=hn">
-<div class="fl_honduras float_left"></div>
-<span>Honduras</span>
-</a>
-</li>
-<li>
-<a href="/free-international-conference-call/default.aspx?lang=hu">
-<div class="fl_hungary float_left"></div>
-<span>Hungary</span>
-</a>
-</li>
-<li>
-<a href="/free-international-conference-call/default.aspx?lang=id">
-<div class="fl_indonesia float_left"></div>
-<span>Indonesia</span>
-</a>
-</li>
-<li>
-<a href="/free-international-conference-call/default.aspx?lang=ie">
-<div class="fl_ireland float_left"></div>
-<span>Ireland</span>
-</a>
-</li>
-<li>
-<a href="/free-international-conference-call/default.aspx?lang=il">
-<div class="fl_israel float_left"></div>
-<span>Israel</span>
-</a>
-</li>
-<li>
-<a href="/free-international-conference-call/default.aspx?lang=it">
-<div class="fl_italy float_left"></div>
-<span>Italy</span>
-</a>
-</li>
-<li>
-<a href="/free-international-conference-call/default.aspx?lang=jp">
-<div class="fl_japan float_left"></div>
-<span>Japan</span>
-</a>
-</li>
-<li>
-<a href="/free-international-conference-call/default.aspx?lang=ke">
-<div class="fl_kenya float_left"></div>
-<span>Kenya</span>
-</a>
-</li>
-<li>
-<a href="/free-international-conference-call/default.aspx?lang=lu">
-<div class="fl_luxembourg float_left"></div>
-<span>Luxembourg</span>
-</a>
-</li>
-<li>
-<a href="/free-international-conference-call/default.aspx?lang=my">
-<div class="fl_malaysia float_left"></div>
-<span>Malaysia</span>
-</a>
-</li>
-<li>
-<a href="/free-international-conference-call/default.aspx?lang=mx">
-<div class="fl_mexico float_left"></div>
-<span>Mexico</span>
-</a>
-</li>
-<li>
-<a href="/free-international-conference-call/default.aspx?lang=nl">
-<div class="fl_netherlands float_left"></div>
-<span>Netherlands</span>
-</a>
-</li>
-<li>
-<a href="/free-international-conference-call/default.aspx?lang=ng">
-<div class="fl_nigeria float_left"></div>
-<span>Nigeria</span>
-</a>
-</li>
-<li>
-<a href="/free-international-conference-call/default.aspx?lang=no">
-<div class="fl_norway float_left"></div>
-<span>Norway</span>
-</a>
-</li>
-<li>
-<a href="/free-international-conference-call/default.aspx?lang=pk">
-<div class="fl_pakistan float_left"></div>
-<span>Pakistan</span>
-</a>
-</li>
-<li>
-<a href="/free-international-conference-call/default.aspx?lang=pa">
-<div class="fl_panama float_left"></div>
-<span>Panama</span>
-</a>
-</li>
-</ul>
-<ul id="ctl00_countrylIst_pnlColumn3">
-<li>
-<a href="/free-international-conference-call/default.aspx?lang=pl">
-<div class="fl_poland float_left"></div>
-<span>Poland</span>
-</a>
-</li>
-<li>
-<a href="/free-international-conference-call/default.aspx?lang=pt">
-<div class="fl_portugal float_left"></div>
-<span>Portugal</span>
-</a>
-</li>
-<li>
-<a href="/free-international-conference-call/default.aspx?lang=ro">
-<div class="fl_romania float_left"></div>
-<span>Romania</span>
-</a>
-</li>
-<li>
-<a href="/free-international-conference-call/default.aspx?lang=sk">
-<div class="fl_slovakia float_left"></div>
-<span>Slovakia</span>
-</a>
-</li>
-<li>
-<a href="/free-international-conference-call/default.aspx?lang=si">
-<div class="fl_slovenia float_left"></div>
-<span>Slovenia</span>
-</a>
-</li>
-<li>
-<a href="/free-international-conference-call/default.aspx?lang=za">
-<div class="fl_southafrica float_left"></div>
-<span>South Africa</span>
-</a>
-</li>
-<li>
-<a href="/free-international-conference-call/default.aspx?lang=kr">
-<div class="fl_south_korea float_left"></div>
-<span>South Korea</span>
-</a>
-</li>
-<li>
-<a href="/free-international-conference-call/default.aspx?lang=es">
-<div class="fl_spain float_left"></div>
-<span>Spain</span>
-</a>
-</li>
-<li>
-<a href="/free-international-conference-call/default.aspx?lang=se">
-<div class="fl_sweden float_left"></div>
-<span>Sweden</span>
-</a>
-</li>
-<li>
-<a href="/free-international-conference-call/default.aspx?lang=de-ch">
-<div class="fl_switzerland float_left"></div>
-<span>Switzerland</span>
-</a>
-</li>
-<li>
-<a href="/free-international-conference-call/default.aspx?lang=tr">
-<div class="fl_turkey float_left"></div>
-<span>Turkey</span>
-</a>
-</li>
-<li>
-<a href="/free-international-conference-call/default.aspx?lang=ua">
-<div class="fl_ukraine float_left"></div>
-<span>Ukraine</span>
-</a>
-</li>
-<li>
-<a href="/free-international-conference-call/default.aspx?lang=gb">
-<div class="fl_uk float_left"></div>
-<span>United Kingdom</span>
-</a>
-</li>
-<li>
-<a href="/free-international-conference-call/default.aspx?lang=en">
-<div class="fl_usa float_left"></div>
-<span>United States</span>
-</a>
-</li>
-<li>
-<a href="/free-international-conference-call/default.aspx?lang=vn">
-<div class="fl_vietnam float_left"></div>
-<span>Vietnam</span>
-</a>
-</li>
-</ul>
-</ul>
 </div>
+<div class="clear"></div>
+<div class="navbar navbar-default" role="navigation">
+<div class="container-fluid">
+<div class="navbar-header">
+<button class="navbar-toggle" data-target=".navbar-collapse" data-toggle="collapse" type="button"></button>
 </div>
-<div id="navcontainer">
-<ul id="navlist">
+<div class="navbar-collapse collapse">
+<ul class="nav navbar-nav">
 <li>
-<a href="/" title="Home">Home</a>
+<a href="/" title="Home">
+<span class="glyphicons grey home"></span>
+</a>
 </li>
+<li>
+<a href="/services" title="Services">Services</a>
+</li>
+<li>
+<a href="/faq" title="FAQs">FAQ's</a>
+</li>
+<li class="dropdown">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">
+More
+<span class="glyphicons grey show_lines"></span>
+</a>
+<ul class="dropdown-menu">
 <li>
 <a href="/aboutus" title="About Us">About Us</a>
 </li>
@@ -408,21 +121,118 @@ Free Conference Call Privacy Policy | freeconferencecall.com
 <a href="/contactus" title="Contact Us">Contact Us</a>
 </li>
 <li>
-<a href="/services" title="Services">Services</a>
-</li>
-<li>
-<a href="/faq" title="FAQs">FAQs</a>
-</li>
-<li>
 <a href="http://blog.freeconferencecall.com/" title="Blog">Blog</a>
 </li>
-<li class="last-child">
-<a class="last-child" href="/partner_program" title="Partner Program">Partner Program</a>
+<li>
+<a href="/partner_program" title="Partner Program">Partner Program</a>
+</li>
+</ul>
+</li>
+</ul>
+<ul class="nav navbar-nav navbar-right">
+<li class="dropdown">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">
+Online Meetings
+<span class="glyphicons white show_lines"></span>
+</a>
+<ul class="dropdown-menu">
+<li>
+<a href="#" id="hostmeeting" onclick="Launcher.showHostPopup()">
+<span class="glyphicons grey user"></span>
+Host Meeting
+</a>
+</li>
+<li>
+<a href="#" id="joinmeeting" onclick="Launcher.showJoinPopup()">
+<span class="glyphicons grey log_in"></span>
+Join Meeting
+</a>
+</li>
+<li class="divider"></li>
+<li>
+<a href="#" onclick="ErrorDialog.whatIsThisHome('', '', 'FCC_HO_5_C', '', '')">
+<span class="glyphicons grey circle_info"></span>
+What's This?
+</a>
+</li>
+</ul>
 </li>
 </ul>
 </div>
+<!-- /.nav-collapse -->
+</div>
+<!-- /.container-fluid -->
+</div>
 </div>
 </form>
+<div class="join_popup">
+<div class="row form-group">
+<div class="col-xs-12">
+<div class="join_group input-group sm-float-container">
+<input class="online_meeting_meeting_id" name="meeting_id" no-old-placeholder="true" placeholder="Enter Meeting ID" type="text">
+<div class="input-group-btn">
+<button class="btn btn-default dropdown-toggle" data-toggle="dropdown" tabindex="-1" type="button">
+<span class="caret"></span>
+<span class="sr-only">Toggle Dropdown</span>
+</button>
+<ul class="dropdown-menu pull-right" role="menu"></ul>
+</div>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="col-xs-12 col-centered">
+<a class="btn-green" onclick="Launcher.showJoinPopupValidation()">
+Submit
+</a>
+</div>
+</div>
+</div>
+<div class="host_popup">
+<div class="row form-group">
+<div class="col-xs-12">
+<input id="online_meeting_email" name="email" no-old-placeholder="true" placeholder="Enter your email" type="text">
+</div>
+</div>
+<div class="row form-group">
+<div class="col-xs-12">
+<input id="online_meeting_password" name="password" placeholder="Enter your password" type="password">
+</div>
+</div>
+<div class="row form-group">
+<div class="col-xs-6">
+<label class="remember left">
+<input name="rememberme" type="checkbox" value="">
+Stay Logged In
+</label>
+</div>
+<div class="col-xs-6">
+<a href="#" onclick="Launcher.showForgotPasswordPopup();">Forgot password?</a>
+</div>
+</div>
+<div class="row">
+<div class="col-xs-12 col-centered">
+<a class="btn-green" onclick="Launcher.host()">
+Submit
+</a>
+</div>
+</div>
+</div>
+<div class="forgot_password_popup">
+<div class="row form-group">
+<div class="col-xs-12">
+<input id="online_meeting_email_forgotten" name="email" no-old-placeholder="true" placeholder="Enter your email" type="text">
+</div>
+</div>
+<div class="row">
+<div class="col-xs-12 col-centered">
+<a class="btn-green" onclick="Launcher.forgotpassword()">
+Submit
+</a>
+</div>
+</div>
+</div>
+
 
 <div class="fccbodywrapper">
 <div class="fccbody">
@@ -493,7 +303,7 @@ Long Beach, CA 90804
 <li>
 For any additional information or to contact Free Conferencing Corporation you can email
 <a href="mailto:info@freeconferencecall.com">info@freeconferencecall.com</a>
-or call 877-482-5838.
+or call 877.216.7555.
 </li>
 </ol>
 </li>
@@ -501,6 +311,8 @@ or call 877-482-5838.
 </td>
 </tr>
 </tbody></table>
+</div>
+</div>
 <div class="footercontainer">
 <div class="footernav">
 <ul>
@@ -509,6 +321,9 @@ or call 877-482-5838.
 </li>
 <li>
 <a href="/free-teleconferencing-service">Free Conference Call</a>
+</li>
+<li>
+<a href="//www.startmeeting.com/">StartMeeting</a>
 </li>
 <li>
 <a href="/free-international-conference-call/">International Conferencing</a>
@@ -523,13 +338,16 @@ or call 877-482-5838.
 <a href="/faq">FAQ's</a>
 </li>
 <li>
+<a href="javascript://" onclick="Launcher.download(); return false;">Get Desktop App</a>
+</li>
+<li>
 <a href="http://blog.freeconferencecall.com">Blog</a>
 </li>
 <li>
 <a href="/resources">Press Releases</a>
 </li>
 <li>
-<a href="/testimonial.aspx">Testimonials</a>
+<a href="/testimonial">Testimonials</a>
 </li>
 <li>
 <a href="/privacy-policy">Privacy Policy</a>
@@ -547,7 +365,6 @@ or call 877-482-5838.
 <a addthis:url="http://www.freeconferencecall.com/blog/" class="addthis_button_rss_follow"></a>
 <a addthis:userid="FreeConferenceCallFanPage" class="addthis_button_facebook_follow"></a>
 <a addthis:userid="FreeConfCall" class="addthis_button_twitter_follow"></a>
-<a addthis:userid="freeconfcall/" class="addthis_button_pinterest_follow"></a>
 <a addthis:userid="110782017880063276023/posts" class="addthis_button_google_follow"></a>
 <a addthis:userid="freeconferencecall.com" addthis:usertype="company" class="addthis_button_linkedin_follow"></a>
 </div>
@@ -557,10 +374,8 @@ or call 877-482-5838.
 <!-- <script type="text/javascript">var addthis_config = {"data_track_addressbar":true};</script> -->
 <script defer="" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-506327bb73b175dc#async=1" type="text/javascript"></script>
 
-<script src="/assets/application-96b8dbb2f78d46c8c303c5d6d85b05e4.js"></script>
+<script src="/assets/application-16da201d8b2dc091ad8317cb4eee23a2.js"></script>
 
-</div>
-</div>
 
 <div class="intlfooterdate">
 <p>
@@ -588,18 +403,191 @@ or call 877-482-5838.
 </div>
 </noscript>
 
-<div id="spinnerDialog" title="Please Wait">
-<div class="content">
-<img src="/images/new-spinner.gif">
+<!-- #errordialog{title: "The following errors occurred: "} -->
+<!-- .content -->
+<div class="fcc-modal errror-dialog">
+<div class="modal-outer-container">
+<div class="modal-middle-container">
+<div class="modal-inner-container">
+<div class="close-ctn">
+<div class="close-btn glyphicons circle_remove"></div>
+</div>
+<div class="inner-cnt">
+<!-- here your content -->
+<div class="foo"></div>
 </div>
 </div>
-
-<div id="errordialog" title="The following errors occurred: ">
-<div class="content"></div>
 </div>
+</div>
+</div>
+<div class="fcc-modal-mask errror-dialog"></div>
 
-<!-- HOTFIX. No conditionals, because I use js function to call placeholders -->
-<script src="/js/jquery.placeholder.js" type="text/javascript"></script>
+<script>
+    
+  function checkValue(value, objectname){
+      var retValue=true;
+  
+      if(objectname=="email"){
+        if(value=="" || value=="Email")
+        {
+          retValue=false;
+          $("#email").val("Email required");
+          $("#email").css("color", "#C48A8A");
+        }
+        else
+        {
+          var pattern = new RegExp(/^((([a-z]|\d|[!#\$%&'\*\+\-\/=\?\^_`{\|}~]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])+(\.([a-z]|\d|[!#\$%&'\*\+\-\/=\?\^_`{\|}~]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])+)*)|((\x22)((((\x20|\x09)*(\x0d\x0a))?(\x20|\x09)+)?(([\x01-\x08\x0b\x0c\x0e-\x1f\x7f]|\x21|[\x23-\x5b]|[\x5d-\x7e]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])|(\\([\x01-\x09\x0b\x0c\x0d-\x7f]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]))))*(((\x20|\x09)*(\x0d\x0a))?(\x20|\x09)+)?(\x22)))@((([a-z]|\d|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])|(([a-z]|\d|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])([a-z]|\d|-|\.|_|~|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])*([a-z]|\d|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])))\.)+(([a-z]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])|(([a-z]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])([a-z]|\d|-|\.|_|~|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])*([a-z]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])))\.?$/i);
+          retValue= pattern.test(value);
+          
+          if(retValue==false)
+          {
+            retValue=false;
+            $("#email").val("Email invalid");
+            $("#email").css("color", "#C48A8A");
+          }
+        }
+      }
+      return (retValue);
+  }
+  
+  function checkEmailValue(value, divname){
+      var retValue=true;
+  
+        if(value=="" || value=="Email")
+        {
+          retValue=false;
+          $("#" + divname).val("Email required");
+          $("#" + divname).css("color", "#C48A8A");
+        }
+        else
+        {
+          var pattern = new RegExp(/^((([a-z]|\d|[!#\$%&'\*\+\-\/=\?\^_`{\|}~]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])+(\.([a-z]|\d|[!#\$%&'\*\+\-\/=\?\^_`{\|}~]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])+)*)|((\x22)((((\x20|\x09)*(\x0d\x0a))?(\x20|\x09)+)?(([\x01-\x08\x0b\x0c\x0e-\x1f\x7f]|\x21|[\x23-\x5b]|[\x5d-\x7e]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])|(\\([\x01-\x09\x0b\x0c\x0d-\x7f]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF]))))*(((\x20|\x09)*(\x0d\x0a))?(\x20|\x09)+)?(\x22)))@((([a-z]|\d|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])|(([a-z]|\d|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])([a-z]|\d|-|\.|_|~|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])*([a-z]|\d|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])))\.)+(([a-z]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])|(([a-z]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])([a-z]|\d|-|\.|_|~|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])*([a-z]|[\u00A0-\uD7FF\uF900-\uFDCF\uFDF0-\uFFEF])))\.?$/i);
+          retValue= pattern.test(value);
+          
+          if(retValue==false)
+          {
+            retValue=false;
+            $("#" + divname).val("Email invalid");
+            $("#" + divname).css("color", "#C48A8A");
+          }
+        }
+     
+      return (retValue);
+  }
+  
+  
+  $(document).ready(function(){
+  
+    $("#email").click(clearEmail);
+    $("#email").focus(clearEmail);
+  
+    function clearEmail() {
+      if ($("#email").val().toLowerCase() == "email required" || $("#email").val().toLowerCase() == "email invalid") {
+        $("#email").val('');
+      }
+  
+      $("#email").css("color", "#4d4d4d");
+    }
+  
+    $("#termsofservice_link").click(function() {
+      $("#termsofservice").load("/tos", function() {
+        ErrorDialog.termsOfService($("#termsofservice").html(), "Terms of Service");
+      }).hide();
+      //.dialog({ width:600, maxHeight:390, resizable:false, modal:true});
+      
+    });
+  
+  });
+  
+  function onSubmitregister() {
+    var isValid=true;
+    var email=$("#email").val();
+    
+    if(checkValue(email, "email")==false){
+      isValid= false;
+    }
+  
+  
+    if (isValid ){
+      var data = $("#frm").serializeHash();
+      var fail = function(err) {
+  
+      };
+  
+      ErrorDialog.spinner();
+      
+      createSubscription(data, fail);
+  
+      // $('.loginprogressbarloader').show();
+    } else {
+      return false;
+    }
+  }
+  
+  $("#email").keydown(function(event){
+    if(event.keyCode == 13){
+      event.preventDefault();
+      onSubmitregister();
+    }
+  });
+  
+  
+  function onSubmitregisterFromPopup() {
+    var isValid=true;
+    var email=$("#emailpop").val();
+    
+    if(checkEmailValue(email, "emailpop")==false){
+      isValid= false;
+    }
+  
+  
+    if (isValid ){
+      ErrorDialog.hide();
+      var data = $("#frmpop").serializeHash();
+  
+      var fail = function(err) {
+        ErrorDialog.show('There is a problem creating your account');
+      };
+  
+      ErrorDialog.spinner();
+      
+      createSubscription(data, fail);
+  
+      // $('.loginprogressbarloader').show();
+    } else {
+      return false;
+    }
+  }
+  
+  $("#form input").keydown(function(event){
+    if(event.keyCode == 13){
+      event.preventDefault();
+      onSubmitregister();
+    }
+  });
+  
+  function clearRegistrationEmailPop() {
+      if ($("#emailpop").val().toLowerCase() == "email required" || $("#emailpop").val().toLowerCase() == "email invalid") {
+        $("#emailpop").val('');
+      }
+  
+      $("#emailpop").css("color", "#4d4d4d");
+    }
+</script>
+
+<!--[if lt IE 8]>
+<script>
+  $(function() {
+    ErrorDialog.iewarning();
+  });
+</script>
+<![endif]-->
+
+<script>
+  $( document ).ready(function() {
+    $('.intlfooterdate').show();
+  });
+</script>
 
 
-<script src="https://js-agent.newrelic.com/nr-361.min.js"></script></body></html>
+<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
