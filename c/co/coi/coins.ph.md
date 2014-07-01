@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coins.ph privacy policy that was archived on 2014-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140517160417id_/https%3A//coins.ph/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coins.ph privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701043310id_/https%3A//coins.ph/privacy) for the most accurate reproduction.*
 
 # Buy Bitcoins in the Philippines, The safest and easiest bitcoin exchange portal in the Philippines
 
