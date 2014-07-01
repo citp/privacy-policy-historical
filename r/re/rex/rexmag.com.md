@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rexmag.com privacy policy that was archived on 2014-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140310131121id_/http%3A//www.rexmag.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rexmag.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701031502id_/http%3A//www.rexmag.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy :: RexMag.com
 
