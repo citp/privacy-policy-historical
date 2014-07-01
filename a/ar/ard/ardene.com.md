@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ardene.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231000648id_/http%3A//www.ardene.com/en/privacy-policy1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ardene.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701114748id_/http%3A//www.ardene.com/en/privacy-policy1) for the most accurate reproduction.*
 
-# Privacy Policy - EN
+# Privacy Policy - EN | Ardene Official Online Store
 
 **What information do we collect?**
 
