@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mirrorstack.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626163246id_/http%3A//mirrorstack.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mirrorstack.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701194508id_/http%3A//mirrorstack.com/privacy.html) for the most accurate reproduction.*
 
 # MirrorStack - Privacy Policy
 
