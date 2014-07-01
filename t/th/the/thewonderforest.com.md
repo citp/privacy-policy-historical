@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thewonderforest.com privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617103119id_/http%3A//www.thewonderforest.com/p/disclaimer.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewonderforest.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701224918id_/http%3A//www.thewonderforest.com/p/disclaimer.html) for the most accurate reproduction.*
 
 # Disclaimer / Privacy Policy Wonder Forest: Design Your Life.
 
