@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the artscow.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330224222id_/http%3A//www.artscow.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artscow.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701182048id_/http%3A//www.artscow.com/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy - ArtsCow l Photo Gifts, Personalized Easter Gifts
+# Privacy Policy - ArtsCow l Photo Gifts, Personalized Gifts for Summer
 
 Insert coupon code 35OFFSITE during checkout to get 35% off all items (excluding prints)
 
