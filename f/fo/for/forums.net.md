@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forums.net privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629054728id_/https%3A//forums.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forums.net privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701061627id_/https%3A//www.forums.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Forums.net
 
