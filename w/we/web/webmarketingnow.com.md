@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the webmarketingnow.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328234551id_/http%3A//www.webmarketingnow.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webmarketingnow.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701080156id_/http%3A//www.webmarketingnow.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy of Web Marketing Now
 
-[Home](https://web.archive.org/web/20140328234551id_/http%3A//www.webmarketingnow.com/index.html) > Privacy Policy
+[Home](https://web.archive.org/web/20140701080156id_/http%3A//www.webmarketingnow.com/index.html) > Privacy Policy
 
 **Web Marketing Now  
 Privacy Policy**  
