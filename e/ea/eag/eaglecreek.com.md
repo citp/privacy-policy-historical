@@ -1,13 +1,6 @@
-> *The following text is extracted and transformed from the eaglecreek.com privacy policy that was archived on 2014-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140312080935id_/http%3A//shop.eaglecreek.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eaglecreek.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701195600id_/http%3A//shop.eaglecreek.com/privacy.html) for the most accurate reproduction.*
 
 # Eagle Creek Official Site
-
-Welcome to our FAQ page. We've listened to your feedback and made it easy to find the information you're looking for. 
-
-  Our FAQ is broken down below into four categories: Ordering, Shipping, Returns and Miscellaneous. First listed are the top questions asked: 
-
-  
-
 
 Onestop Internet, Inc. ("Onestop") operates this Web Site, pursuant to contractual agreements with Eagle Creek, Inc. ("eagle creek"), the designer and manufacturer of products sold on this Web Site. Onestop and Company are not affiliates of one another and have no relationship with one another other than through these agreements. Both Onestop and Company ("we" or "us") recognize that you care how information about you is used and shared. We have created this Privacy Policy to inform you of our information collection, use and sharing practices for this Web Site. Please also review our [Terms & Conditions](https://web.archive.org/terms.html) which also govern your use of this Web Site. Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our [Terms & Conditions.](https://web.archive.org/terms.html)
 
