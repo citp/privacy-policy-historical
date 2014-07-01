@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sosinventory.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625084211id_/http%3A//www.sosinventory.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sosinventory.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701024112id_/http%3A//www.sosinventory.com/privacy.aspx) for the most accurate reproduction.*
 
 # SOS Inventory: Privacy Policy
 
