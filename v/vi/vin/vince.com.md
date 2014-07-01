@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the vince.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425040311id_/http%3A//www.vince.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vince.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701031344id_/http%3A//www.vince.com/privacy-policy/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Vince
 
-## KELLWOOD COMPANY (“Kellwood”) PRIVACY POLICY 
+#### KELLWOOD COMPANY (“Kellwood”) PRIVACY POLICY 
 
 Kellwood respects your privacy. Accordingly, it has adopted the following privacy policy. This policy notifies you of: 
 
@@ -18,11 +18,11 @@ Kellwood respects your privacy. Accordingly, it has adopted the following privac
 
 If you have questions or concerns regarding this statement, you should contact us by sending an email to customerservice@vince.com or by calling 800-960-2231.
 
-## SCOPE OF POLICY
+#### SCOPE OF POLICY
 
 This policy applies to Kellwood's treatment of personally identifiable information that Kellwood collects through Kellwood's website and when you use Kellwood's services. The policy does not apply to practices of companies whose websites may be linked to Kellwood. For access to the privacy policies of such linked websites, please refer to the information provided by such websites at their home pages. Also see the paragraph below under the heading "Hypertext Links".
 
-## INFORMATION COLLECTION AND USE
+#### INFORMATION COLLECTION AND USE
 
 Kellwood collects personally identifiable information when you request information from Kellwood. On such occasions, Kellwood may ask for your name, email address, zip code and personal information concerning your interests, occupation, gender and other demographic information. Kellwood also receives and records information from server logs from your browser including cookie information relating to pages requested. 
 
@@ -38,15 +38,15 @@ Kellwood uses the information you provide to us to customize advertising and con
 
 
 
-## USE OF COOKIES
+#### USE OF COOKIES
 
 Kellwood uses cookies to enhance the interactive nature of your Internet experience and to provide a convenient feature to save you time. Cookies enable Kellwood to quickly retrieve specific information from previous visits and to recall features that you may have customized on your browser. 
 
-## MANAGING YOUR INFORMATION 
+#### MANAGING YOUR INFORMATION 
 
 You are entitled to request access to and correction of all your personal data collected by us via Kellwood’s website, as well as to require us to delete your data if you no longer want us to process it. You can make such a request or a related inquiry by sending an email to customerservice@vince.com or by calling 800-960-2231. Please note that there may be a small charge for making an access request or it may be free, depending on the circumstances. You can find out more details by emailing or calling us as provided above. We will keep your data as long as it is reasonably necessary for the purposes described in this privacy policy. You may choose not to receive unsolicited marketing material from Kellwood and you have the right to request deletion of your Kellwood account information, subject to Kellwood's need to keep appropriate archives of its business operations. 
 
-## SECURITY
+#### SECURITY
 
 Kellwood employs reasonable measures to maintain all personally identifiable information provided by you on computer servers in a controlled and secured environment in an effort to hinder unauthorized access, loss, alteration, use or disclosure of such information. Kellwood utilizes secure socket layer encryption technology and firewall network protection to protect personally identifiable information that is transmitted to Kellwood’s e-commerce websites. Unfortunately, the nature of the Internet is such that information may be transmitted over networks without appropriate security measures and may be accessed, deleted, altered, used or disclosed by unauthorized persons. 
 
@@ -54,17 +54,17 @@ Because of the international nature of the services and products provided by Kel
 
 To protect Kellwood’s customers from fraudulent transactions on Kellwood’s e-commerce websites, all orders are subject to review and verification. As part of the verification process, an order may be temporarily placed on hold in order to verify credit card billing information, which may include contacting the credit card holder.
 
-## MODIFICATIONS TO THIS POLICY
+#### MODIFICATIONS TO THIS POLICY
 
 Kellwood may make modifications or amendments to this policy from time to time. In the event that such changes alter how Kellwood gathers, processes, uses or discloses your personally identifiable information, Kellwood will post such changes on our website. 
 
-## INTELLECTUAL PROPERTY 
+#### INTELLECTUAL PROPERTY 
 
 Kellwood, its suppliers, licensors, or the original creators of all materials on Kellwood’s website own all copyrightable subject matter on Kellwood’s website and all trademarks, patents, proprietary information, technologies, products, processes or other proprietary rights of Kellwood and/or such other parties. No license to or right in any such copyrights, trademarks, patents, proprietary information, technologies, products, processes and other proprietary rights of Kellwood and/or other parties is granted to or conferred upon you. In addition, direct linking, deep linking, framing, page-jacking, metatagging, and using a robot, spider, or automated device of any kind to monitor or copy Kellwood’s website is strictly prohibited. 
 
 Notwithstanding the foregoing, Kellwood hereby authorizes you only to copy the content herein solely for your personal and private use in learning about, evaluating, or acquiring Kellwood products. Except where expressly noted, no other permission is granted to print, copy, reproduce, distribute, transmit, upload, download, store, display in public, alter, or modify the content contained on this website. Any unauthorized use of any material contained on this website may violate copyright laws, trademark laws, the laws of privacy and publicity, and communications regulations and statutes. Any other use of materials on this website, including reproduction for purposes other than those expressly permitted herein, modification, distribution, or republication, without prior written permission of Kellwood is strictly prohibited. Any copy made by you as permitted herein must retain all copyright and trademark notices, including any other proprietary notices, contained in the materials. The use of such materials on any other website or in any environment of networked computers is prohibited. 
 
-## HYPERTEXT LINKS 
+#### HYPERTEXT LINKS 
 
 In the event this website contains hypertext links to websites that are not created or maintained by Kellwood, this privacy policy applies only to Kellwood’s website and not to any of these third party websites. Kellwood is not responsible for the accuracy, relevance, timeliness, or completeness of those third party websites. The inclusion of any link to such websites does not imply endorsement, sponsorship, or recommendation by Kellwood of the third party websites. Kellwood disclaims any liability for links (1) from another website to this website, and (2) to another website from this website. Kellwood cannot guarantee the standards of any website to which links are provided on Kellwood’s website, nor shall Kellwood be held responsible for the contents of those websites, or any subsequent links. For this reason, Kellwood does not represent or warrant that the contents of any third party website is accurate, compliant with state or federal law, or compliant with copyright or other intellectual property laws. Kellwood does not endorse the contents of these third party websites in any way. Also, Kellwood is not responsible for web casting or any other form of transmission received from any linked website. Any reliance on the contents of a third party website is done at your own risk, and you assume all responsibilities and consequences resulting from such reliance.
 
