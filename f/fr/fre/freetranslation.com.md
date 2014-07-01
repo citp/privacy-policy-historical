@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freetranslation.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209031830id_/http%3A//www.freetranslation.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freetranslation.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701225812id_/http%3A//www.freetranslation.com/en/privacy) for the most accurate reproduction.*
 
 # Free Translation and Professional Translation Services from SDL
 
@@ -17,7 +17,9 @@ Information SDL collects when you use Freetranslation.com.
 
 
   * PersonalAnonymous Information:
-    * Anonymous information does not personally identify you. It may be voluntarily provided or automatically collected, including log information, browser and device information, information gathered by cookies, general statistical information, etc.
+    * Google Analytics is a web analysis service provided by Google. Google utilizes the data collected to track and examine the use of www.freetranslation.com, to prepare reports on its activities and share them with other Google services.  
+Google may use the data collected to contextualize and personalize the ads of its own advertising network.
+    * Using the Ads Settings (<https://www.google.com/settings/ads>), users can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads.
 
 
   * PersonalOrder content:
@@ -45,7 +47,7 @@ How SDL plc may use the information.
   * For developing, operating and improving SDL’s products and services.
 
 
-  * If you wish to opt out of providing SDL with information, please send your opt out request to freetranslation_support@sdl.com. However, please remember that some information is required to participate in the available activities or benefit from the offered services.
+  * If you wish to opt out of providing SDL with information, please send your opt out request to freetranslation@sdl.com. However, please remember that some information is required to participate in the available activities or benefit from the offered services.
 
 
 
