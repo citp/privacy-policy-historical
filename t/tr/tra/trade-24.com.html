@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the trade-24.com privacy policy that was archived on 2014-05-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140502092324id_/http%3A//www.trade-24.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the trade-24.com privacy policy that was archived on 2014-07-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140701222144id_/http%3A//www.trade-24.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head><meta charset="utf-8"><title>
 	
@@ -109,7 +109,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div style="visibility:hidden;position:absolute;left:-9999px;top:-9999px;">
 	<!--<div id="ciaNx1" style="z-index:100;position:absolute"></div>-->
 	<div id="scaNx1" style="display:inline"></div>
-	<div id="sdaNx1" style="display:none"><script type="text/javascript" src="https://image.providesupport.com/js/trade24/safe-textlink.js?ps_h=aNx1&amp;ps_t=1582526706033&amp;online-link-html=Live%20Chat%20Online&amp;offline-link-html=Live%20Chat%20Offline"></script></div>
+	<div id="sdaNx1" style="display:none"><script type="text/javascript" src="https://image.providesupport.com/js/trade24/safe-textlink.js?ps_h=aNx1&amp;ps_t=1582526698580&amp;online-link-html=Live%20Chat%20Online&amp;offline-link-html=Live%20Chat%20Offline"></script></div>
 	<script type="text/javascript">
 		var seaNx1 = document.createElement("script"); seaNx1.type = "text/javascript"; var seaNx1s = (location.protocol.indexOf("https") == 0 ? "https" : "http") + "://image.providesupport.com/js/trade24/safe-textlink.js?ps_h=aNx1&ps_t=" + new Date().getTime() + "&online-link-html=Live%20Chat%20Online&offline-link-html=Live%20Chat%20Offline"; setTimeout("seaNx1.src=seaNx1s;document.getElementById('sdaNx1').appendChild(seaNx1)", 1)    
 	</script>
@@ -178,7 +178,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                             <div class="captcha-image">
                                 <img id="Img1" src="/Account/Captcha" alt="CAPTCHA"></div>
                             <div class="input">
-                                <input id="CaptchaText" name="CaptchaText" type="text" value=""></div>
+                                <input id="CaptchaTextContactPanel" name="CaptchaTextContactPanel" type="text" value=""></div>
                         </div>
                         <span class="error">
                             </span>
@@ -210,7 +210,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <li class="active"><a href="/SKUtils/SwitchLanguage?idl=en-US&amp;url=http%3A%2F%2Fwww.trade-24.com%2Fprivacy-policy"><img src="/SKImageHandler/GetLanguageImage/cfa9ac68-a546-4aa0-a20c-34fb40e40818" alt="English" title="English"><span>English</span></a></li>
 <li><a href="/SKUtils/SwitchLanguage?idl=pt-BR&amp;url=http%3A%2F%2Fwww.trade-24.com%2Fprivacy-policy"><img src="/SKImageHandler/GetLanguageImage/2ec729fa-249a-4170-b7b3-755d936228ce" alt="Portuguese" title="Portuguese"><span>Portuguese</span></a></li>
 <li><a href="/SKUtils/SwitchLanguage?idl=ar-SA&amp;url=http%3A%2F%2Fwww.trade-24.com%2Fprivacy-policy"><img src="/SKImageHandler/GetLanguageImage/0dd24df4-8792-4332-9d4e-02afbd59f2a9" alt="Arabic" title="Arabic"><span>Arabic</span></a></li>
+<li><a href="/SKUtils/SwitchLanguage?idl=es-ES&amp;url=http%3A%2F%2Fwww.trade-24.com%2Fprivacy-policy"><img src="/SKImageHandler/GetLanguageImage/51f8ed59-8011-4e49-b9c9-9c2d7777a679" alt="Spanish" title="Spanish"><span>Spanish</span></a></li>
 <li><a href="/SKUtils/SwitchLanguage?idl=ru-RU&amp;url=http%3A%2F%2Fwww.trade-24.com%2Fprivacy-policy"><img src="/SKImageHandler/GetLanguageImage/c6f9e84f-bf7d-4170-9539-a04c64b55f6e" alt="Russian" title="Russian"><span>Russian</span></a></li>
+<li><a><img src="/SKImageHandler/GetLanguageImage/5e0d92ff-6218-4196-aeaf-c165304c0be1" alt="French"><span>French</span></a></li>
+<li><a><img src="/SKImageHandler/GetLanguageImage/1dd797ed-8746-48d5-bf67-fdaacd5898e0" alt="Italian"><span>Italian</span></a></li>
 </ul>
 
                 </div>
@@ -232,8 +235,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         var phoneCode = $('#PhoneCode').val();
         var phoneNumber = $('#PhoneNumber').val();
         var email = $('#Email').val();
-        var capture = $('#CaptchaText').val();
-        if (phoneCode != '' && phoneNumber != '' && email != '' && capture != '') {
+        var capture = $('#CaptchaTextContactPanel').val();
+        if (phoneCode != '' && phoneNumber != '' && email != '' && capture != '' && checkContactPanelCaptcha()) {
             $.post('/Home/FreeCall', $('#freeCallForm').serialize(), function (data) {
                 if (data == 'True') {
                     $('.call-nav .drop').hide();
@@ -243,13 +246,36 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     $('#PhoneCode').val('');
                     $('#PhoneNumber').val('');
                     $('#Email').val('');
-                    $('#CaptchaText').val('');
+                    $('#CaptchaTextContactPanel').val('');
                 } else {
                     $('#errorCall').show();
                 }
             });
         }
     });
+
+    function checkContactPanelCaptcha() {
+        var captchaText = $('#CaptchaTextContactPanel').val();
+        //alert(captchaText);
+        if (captchaText != '') {
+            var isValid = false;
+            $.ajax({
+                type: "POST",
+                url: '/Account/IsValidCaptcha',
+                dataType: "json",
+                data: '&captcha=' + $('#CaptchaTextContactPanel').val(),
+                async: false,
+                success: function (response) {
+                    isValid = response;
+                }
+            });
+
+            return isValid;
+        }
+        else {
+            return true;
+        }
+    }
 </script>
  
 
@@ -282,11 +308,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			</div>
 			<div class="nav-holder">
 				<nav id="nav">
-					<ul class="nav" id="nav"><li class="first-child"><div class="drop-hold"><a class="link-home" href="/"><span>Home</span></a></div></li><li><div class="drop-hold"><a href="/getting-started-with-trade-24"><span>Getting Started</span></a><div class="drop"><ul><li><a href="/real">Open Real ACC</a></li><li><a href="/demo">Open Practice ACC</a></li><li><a href="/account-types">Accounts Types</a></li><li><a href="/how-to-deposit">How to Deposit</a></li><li><a href="/how-to-withdraw">How to Withdraw</a></li><li><a href="/video-tutorials">Video Tutorials</a><div class="drop"><ul><li><a href="/beginner-course">Beginner Course</a></li><li><a href="/trading-strategies">Trading Strategies</a></li><li><a href="/metatrader-tutorial">Metatrader Tutorial</a></li><li><a href="/advanced-trading-tools">Advanced Trading Tools</a></li></ul></div></li><li><a href="/e-book">E-Book</a></li><li><a href="/dealing-room">Dealing Room</a></li><li><a href="/technical-analysis">Technical Analysis</a></li><li><a href="/fundemental-analysis">Fundemental Analysis</a></li><li><a href="/trading-tips">Trading Tips</a></li><li><a href="/glossary">Glossary</a></li><li><a href="/risk-disclosure-statement">Risk Disclosure Statement</a></li></ul></div></div></li><li><div class="drop-hold"><a href="/promotions"><span>Promotions</span></a><div class="drop"><ul><li><a href="/promotions">Current Promotions</a></li><li><a href="/become-a-partner">Become a Partner</a></li></ul></div></div></li><li><div class="drop-hold"><a href="/news"><span>News</span></a><div class="drop"><ul><li><a href="/economic-calendar">Economic Calendar</a></li><li><a href="/market-news">Market News</a></li><li><a href="/daily-review">Daily Review</a></li><li><a href="/WeeklyReviews">Weekly Review</a></li></ul></div></div></li><li><div class="drop-hold"><a href="/platforms"><span>Platforms</span></a><div class="drop"><ul><li><a href="/mt4">MetaTrader 4</a></li><li><a href="/webtrade24">WebTrade24</a></li><li><a href="/mobile-trader">Mobile Trader</a></li></ul></div></div></li><li><div class="drop-hold"><a href="/products"><span>Products</span></a><div class="drop"><ul><li><a href="/forex">Forex</a></li><li><a href="/cfds">CFD's</a></li><li><a href="/stocks">Stocks</a></li><li><a href="/commodities">Commodities</a></li></ul></div></div></li><li><div class="drop-hold"><a href="/about-us"><span>About Us</span></a><div class="drop"><ul><li><a href="/why-trade-24">Why Trade 24?</a></li><li><a href="/events"> Events</a></li><li><a href="/careers-at-trade-24">Careers at Trade 24</a></li></ul></div></div></li><li><div class="drop-hold"><a href="/contact-us"><span>Support</span></a><div class="drop"><ul><li><a href="/contact-us">Contact Us</a></li><li><a class="chat-link" href="/chat">Chat</a></li><li><a href="/faqs">FAQ's</a></li><li><a href="/website-terms-and-conditions">Website Terms &amp; Conditions</a></li><li><a href="/privacy-policy">Privacy Policy</a></li></ul></div></div></li></ul>
+					<ul class="nav" id="nav"><li class="first-child"><div class="drop-hold"><a class="link-home" href="/"><span>Home</span></a></div></li><li><div class="drop-hold"><a href="/getting-started-with-trade-24"><span>Getting Started</span></a><div class="drop"><ul><li><a href="/real">Open Real ACC</a></li><li><a href="/demo">Open Practice ACC</a></li><li><a href="/account-types">Accounts Types</a></li><li><a href="/how-to-deposit">How to Deposit</a></li><li><a href="/how-to-withdraw">How to Withdraw</a></li><li><a href="/video-tutorials">Video Tutorials</a><div class="drop"><ul><li><a href="/beginner-course">Beginner Course</a></li><li><a href="/trading-strategies">Trading Strategies</a></li><li><a href="/metatrader-tutorial">Metatrader Tutorial</a></li><li><a href="/advanced-trading-tools">Advanced Trading Tools</a></li></ul></div></li><li><a href="/e-book">E-Book</a></li><li><a href="/dealing-room">Dealing Room</a></li><li><a href="/technical-analysis">Technical Analysis</a></li><li><a href="/fundemental-analysis">Fundamental Analysis</a></li><li><a href="/trading-tips">Trading Tips</a></li><li><a href="/glossary">Glossary</a></li><li><a href="/risk-disclosure-statement">Risk Disclosure Statement</a></li><li><a href="/Guardian-Angel">Guardian Angel</a></li></ul></div></div></li><li><div class="drop-hold"><a href="/promotions"><span>Promotions</span></a><div class="drop"><ul><li><a href="/promotions">Current Promotions</a></li><li><a href="/become-a-partner">Become a Partner</a></li></ul></div></div></li><li><div class="drop-hold"><a href="/news"><span>News</span></a><div class="drop"><ul><li><a href="/economic-calendar">Economic Calendar</a></li><li><a href="/market-news">Market News</a></li><li><a href="/daily-review">Daily Review</a></li><li><a href="/WeeklyReviews">Weekly Review</a></li></ul></div></div></li><li><div class="drop-hold"><a href="/platforms"><span>Platforms</span></a><div class="drop"><ul><li><a href="/mt4">MetaTrader 4</a></li><li><a href="/webtrade24">WebTrade24</a></li><li><a href="/mobile-trader">Mobile Trader</a></li></ul></div></div></li><li><div class="drop-hold"><a href="/products"><span>Products</span></a><div class="drop"><ul><li><a href="/forex">Forex</a></li><li><a href="/cfds">CFD's</a></li><li><a href="/stocks">Stocks</a></li><li><a href="/commodities">Commodities</a></li></ul></div></div></li><li><div class="drop-hold"><a href="/about-us"><span>About Us</span></a><div class="drop"><ul><li><a href="/why-trade-24">Why Trade 24?</a></li><li><a href="/events"> Events</a></li><li><a href="/careers">Careers at Trade 24</a></li></ul></div></div></li><li><div class="drop-hold"><a href="/contact-us"><span>Support</span></a><div class="drop"><ul><li><a href="/contact-us">Contact Us</a></li><li><a class="chat-link" href="/chat">Chat</a></li><li><a href="/faqs">FAQ's</a></li><li><a href="/website-terms-and-conditions">Website Terms &amp; Conditions</a></li><li><a href="/privacy-policy">Privacy Policy</a></li></ul></div></div></li></ul>
 				</nav>
 			</div>
 		</header>
 		<main>
+         
 			<div id="content">	
                 <div class="box content-box">
 					<div class="box-inner box-inner">
