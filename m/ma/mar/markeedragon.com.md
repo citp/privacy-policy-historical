@@ -1,93 +1,55 @@
-> *The following text is extracted and transformed from the markeedragon.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806082110id_/http%3A//www.markeedragon.com/page.php%3Fid%3D20) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the markeedragon.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701074123id_/http%3A//www.markeedragon.com/privacypolicy) for the most accurate reproduction.*
 
-# Markee Dragon Game Codes
+# Privacy Policy | Markee Dragon
 
-Protecting your private information is our priority. This Statement of Privacy applies to the[ www.markeedragon.com](https://web.archive.org/web/) and Markee Dragon Game Codes and governs data collection and usage. 
-
-For the purposes of this Privacy Policy, unless otherwise noted, all references to Markee Dragon Game Codes include 
-
-[www.markeedragon.com](https://web.archive.org/web/), MDGC and [www.markeedragon.net](http://www.markeedragon.net/).
-
-The MDGC website is a ecommerce site owned and operated by Dragon Media Entertainment LLC.. By using the MDGC website, you consent to the data practices described in this statement.
+Protecting your private information is our priority. This Statement of Privacy applies to all the the Markee Dragon sites including the forums, our store and governs data collection and usage. The MDN website is a News ,Forums and information site. By using the MDN website, you consent to the data practices described in this statement.
 
 **Collection of your Personal Information**
 
-MDGC may collect personally identifiable information, such as your name. If you purchase MDGC's products and services, we collect billing and credit card information. This information is used to complete the purchase transaction. MDGC may also collect anonymous demographic information, which is not unique to you, such as your age and gender. We may gather additional personal or non-personal information in the future.
+We collect information from you when you register on our site. When registering on our site you will be asked to enter your e-mail address. You may, however, visit our site anonymously.
 
-Information about your computer hardware and software may be automatically collected by MDGC. This information can include: your IP address, browser type, domain names, access times and referring website addresses. This information is used for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the MDGC website.
+Information about your computer hardware and software may be automatically collected by MDN. This information can include: your IP address, browser type, domain names, access times and referring website addresses. This information is used for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the MDN website, administer contests, promotions, and surveys.
 
-MDGC encourages you to review the privacy statements of websites you choose to link to from MDGC so that you can understand how those websites collect, use and share your information. MDGC is not responsible for the privacy statements or other content on websites outside of the MDGC website.  
-**  
-Use of your Personal Information**
+Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through MDN’s public message boards, this information may be collected and used by others.
 
-MDGC collects and uses your personal information to operate its website(s) and deliver the services you have requested.
+MDN encourages you to review the privacy statements of websites you choose to link to from MDN so that you can understand how those websites collect, use and share your information.MDN is not responsible for the privacy statements or other content on websites outside of the MDN website.
 
-MDGC may also use your personally identifiable information to inform you of other products or services available from MDGC and its affiliates. MDGC may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
+**Use of Cookies**
 
- _MDGC does not sell, rent or lease its customer lists to third parties._
+The MDN website may use “cookies” to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
 
-MDGC may share data with trusted partners to help perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to MDGC, and they are required to maintain the confidentiality of your information.
+One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize MDN pages, or register with MDN site or services, a cookie helps MDN to recall your specific information on subsequent visits.
 
-MDGC may keep track of the websites and pages our users visit within MDGC, in order to determine what MDGC services are the most popular. This data is used to deliver customized content and advertising within MDGC to customers whose behavior indicates that they are interested in a particular subject area.
+When you return to the same MDN website, the information you previously provided can be retrieved, so you can easily use the MDN features that you customized.
 
-MDGC will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on MDGC or the site; (b) protect and defend the rights or property of MDGC; and, (c) act under exigent circumstances to protect the personal safety of users of MDGC, or the public.  
-**  
-Use of Cookies**
+You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the MDN services or websites you visit.
 
-The MDGC website may use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
+**Third Parties**
 
-One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize MDGC pages, or register with MDGC site or services, a cookie helps MDGC to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on.
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect our or others’ rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-  
-When you return to the same MDGC website, the information you previously provided can be retrieved, so you can easily use the MDGC features that you customized.
+**Third Party Links**
 
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the MDGC services or websites you visit.
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-**Children Under Thirteen**
+**Security of your Personal Information**
 
-MDGC does not knowingly collect personally identifiable information from children under the age of thirteen. If you are under the age of thirteen, you must ask your parent or guardian for permission to use this website.
+MDN secures your personal information from unauthorized access, use or disclosure.
 
-**Disconnecting your MDGC Account from Third Party Websites**
+**California Online Privacy Protection Act Compliance**
 
-You will be able to connect your MDGC account to third party accounts. BY CONNECTING YOUR MDGC  ACCOUNT TO YOUR THIRD PARTY ACCOUNT, YOU ACKNOWLEDGE AND AGREE THAT YOU ARE CONSENTING TO THE CONTINUOUS RELEASE OF INFORMATION ABOUT YOU TO OTHERS (IN ACCORDANCE WITH YOUR PRIVACY SETTINGS ON THOSE THIRD PARTY SITES). IF YOU DO NOT WANT INFORMATION ABOUT YOU, INCLUDING PERSONALLY IDENTIFYING INFORMATION, TO BE SHARED IN THIS MANNER, DO NOT USE THE THIS FEATURE. 
+Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
 
-You may disconnect your account from a third party account at any time. Users may learn how to disconnect their accounts from third-party websites by visiting their "My Account" page. Users may also contact us via email or telephone..
+As part of the California Online Privacy Protection Act, all users of our site may make any changes to their information at anytime on this page. <http://community.markeedragon.com/account>
 
-**Opt-Out & Unsubscribe**
+**Children’s Online Privacy Protection Act Compliance**
 
-We respect your privacy and give you an opportunity to opt-out of receiving announcements of certain information. Users may opt-out of receiving any or all communications from MDGC by contacting us here:
-
-  
-\- Web page: [www.markeedragon.com](https://web.archive.org/web/)  
-\- E- Mail : [support@markeedragon.com](mailto:support@markeedragon.com?subject=Unsubscribe)
-
-  
-\- Phone: 
-
-(512) 666-7740  
-(512) MMO-RPG0  
-Austin, TX
+We are in compliance with the requirements of COPPA (Children’s Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
 **Changes to this Statement**
 
-MDGC will occasionally update this Statement of Privacy to reflect company and customer feedback. MDGC encourages you to periodically review this Statement to be informed of how MDGC is protecting your information.
+MDN will occasionally update this Statement of Privacy to reflect company and customer feedback. MDN encourages you to periodically review this Statement to be informed of how MDN is protecting your information. If we decide to change our privacy policy, we will post those changes on this page, and update the Privacy Policy modification date below.
 
-**Contact Information**
+This policy was last modified on December 04, 2013
 
-MDGC welcomes your questions or comments regarding this Statement of Privacy. If you believe that MDGC has not adhered to this Statement, please contact MDGC at:
-
- _ **Markee Dragon Game Codes**_
-
-Hereford, Arizona, USA 85615
-
-Email Address: [support@markeedragon.com](mailto:support@markeedragon.com)
-
-Telephone number:  
-
-
-(512) 666-7740  
-(512) MMO-RPG0  
-Austin, TX
-
-  
-Effective as of March 15, 2012
+* * *
