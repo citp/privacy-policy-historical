@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dresshop.com.au privacy policy that was archived on 2013-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130907152128id_/http%3A//www.dresshop.com.au/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dresshop.com.au privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701133128id_/http%3A//www.dresshop.com.au/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Dresshop.com.au
 
