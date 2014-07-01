@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studentvip.com.au privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209182808id_/https%3A//studentvip.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studentvip.com.au privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701053826id_/https%3A//studentvip.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – StudentVIP
 
@@ -8,7 +8,7 @@ Purpose Personal information is collected to create and fund relevant and useful
 
 Our aim is to have all collection of your personal information be transparent and controlled by you.
 
-Australian legislation StudentVIP complies with the Privacy Act (1988), The National Privacy Principles and the Spam Act (2003). Your information will not be held outside Australia. 
+Australian legislation StudentVIP complies with the Privacy Act (1988), The 13 Australian Privacy Principles and the Spam Act (2003). Your information will not be held outside Australia. 
 
 Not collected information We do not collect any personal information about: racial or ethnic origins, political opinions or memberships, religious beliefs or sexual preferences, union membership or health or genetic information. 
 
