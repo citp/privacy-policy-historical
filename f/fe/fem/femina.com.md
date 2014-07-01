@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the femina.com privacy policy that was archived on 2013-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131017015814id_/http%3A//www.femina.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the femina.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702000540id_/http%3A//femina.com/privacy.html) for the most accurate reproduction.*
 
 # FeMiNa
 
