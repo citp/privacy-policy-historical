@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mixturecloud.com privacy policy that was archived on 2014-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140212124639id_/http%3A//www.mixturecloud.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mixturecloud.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701063720id_/https%3A//www.mixturecloud.com/privacy) for the most accurate reproduction.*
 
 # Privacy - MixtureCloud
 
@@ -127,4 +127,4 @@ We can amend this privacy policy from time to time. We will provide you with not
 
 If you have any question regarding this privacy policy, you can contact us at privacy@mixturecloud.com
 
-Last modification : march, 28 2012
+Last modification : march, 28 2013
