@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1000freeads.com privacy policy that was archived on 2014-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140212223132id_/http%3A//www.1000freeads.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1000freeads.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701111057id_/http%3A//www.1000freeads.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -18,4 +18,4 @@ We don’t share your information with third parties for marketing purposes. We 
 
 We sometimes collect your email address, for purposes such as sending self-publishing and confirmation emails and providing subscription email services etc. We may collect personal information if you provide it in feedback or comments, post it on our classifieds or interactive forums, or if you contact us directly. Please do not post any personal information on 1000FreeAds.com that you expect to keep private. Our web logs collect standard web log entries for each page served, including your IP address, page URL, and timestamp. Web logs help us to diagnose problems with our server, to administrator the 1000FreeAds.com site, and to otherwise provide our service to you.
 
-Copyright © 2013 1000FreeAds.com. Free Classified Ads. Free Ads Online.
+Copyright © 2014 1000FreeAds.com. Free Classified Ads. Free Ads Online.
