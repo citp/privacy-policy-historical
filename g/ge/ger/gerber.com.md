@@ -1,171 +1,255 @@
-> *The following text is extracted and transformed from the gerber.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208050454id_/http%3A//www.gerber.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gerber.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701203638id_/https%3A//www.gerber.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-California Residents: Click here for Your California Privacy Rights
+## Gerber Products Company Consumer Privacy Notice
 
-Thank you for visiting Gerber.com and for your interest in the Start Healthy, Stay Healthy Resource Center. The Gerber.com Website (also, “our Website” or “our Site”) and the Start Healthy, Stay Healthy Resource Center (also, “SHSH Resource Center”) are owned and operated by the Gerber Products Company/Nestlé Infant Nutrition (collectively, “Gerber,” “we,” or “our”). The following is a description of the kinds of information Gerber may collect online through the Gerber.com Website or in connection with the SHSH Resource Center, how we use and share that information, the steps we take to protect it, and the choices you may have to control the use or disclosure of your information (collectively, “Privacy Policy” or “Policy”).
+**Effective:** April 17, 2014  
+**Last Updated On:** April 17, 2014
 
-We encourage you to read this Privacy Policy before you provide Gerber any of your personal information. If you have any questions or concerns regarding this Privacy Policy, please contact us by clicking here or by calling 1-800-4GERBER.
+Gerber Products Company respects your right with regards to data privacy and data protection when you communicate (online or offline) with us through our various consumer-directed websites, mobile applications, offline programs and events. We have therefore developed this Privacy Notice to inform you how Gerber Products Company / Nestle Infant Nutrition (“Gerber,” “we,” or “our”) collects, stores, uses, shares, processes, and protects information about our consumers (“you”).  It also tells you how you can access and update your personal information and make certain choices about how your information is used.
 
-**  
-1.   What does this Privacy Policy apply to?**
+By using our websites, applications or by otherwise giving us your information, you are accepting the practices described in this Privacy Notice.  If you do not agree to this Privacy Notice, you must not use our websites or applications or give us any of your information.  We reserve the right to make changes to this Privacy Notice at any time.  Any changes will be posted in this Privacy Notice and material changes will be prominently notified on the respective website or application this Privacy Notice applies to or will be otherwise communicated to you prior to the change becoming effective.  We encourage you to regularly review this Privacy Notice to make sure you are aware of any changes and how your information may be used.
 
-Subject to the exceptions listed below, this Privacy Policy applies to any information collected from you online through Gerber.com or in connection with the SHSH Resource Center. In addition, any Gerber-owned and/or controlled domains or URLs that point to Gerber.com or a subpage under Gerber.com (such as www.starthealthystayhealthy.com) are also subject to this Policy.
+If you have any requests concerning your information or any questions with regard to this Privacy Notice please [Contact Us](https://web.archive.org/contact-us). 
 
-This Policy does not generally apply to information collected from you by Gerber offline (such as through a customer support phone call or fax order), unless we either: (i) combine such information with data collected from you online; or, (ii) specifically reference this Policy on the relevant offline form or at the time your information is collected offline.
+For a detailed description of our privacy practices, please click on any of the questions below.
 
-In addition, this Privacy Policy does not apply to any of the following sites (even if we link to such sites from our Website): 
-
-**i.**  Sites operated by Gerber’s international affiliates (e.g., Gerber Canada, Gerber Mexico, Gerber Europe/Russia, Gerber Asia, and Gerber South America)  
-**ii.  **Sites operated by other subsidiaries of the Gerber Products Company (e.g., Gerber Life) or Nestlé SA (e.g., Nestlé USA);  
-**iii.**  Sites operated by independent retailers that sell Gerber products;  
-**iv.**  Sites operated by third party licensees of Gerber (e.g., Gerber Childrenswear LLC); and,  
-**v.**  Any other site not operated and/or controlled by Gerber, even if such site is accessible from our Site or links back to our Site.
-
-The sites listed above may maintain and post their own privacy policies. We encourage you to read the privacy policy of any other site you visit before you submit any personal information to that site. Gerber is not responsible, and disclaims any and all liability, for the independent practices or content of any third party site.
-
-**Special Note to Former Members of the VeryBestBaby Resource Center**  
-Personal Information collected from registrants of the former VeryBestBaby Resource Center or its corresponding website, www.verybestbaby.com, (formerly operated and controlled by Nestlé USA) will, as of the Effective Date above, be handled in accordance with the practices set forth in this Privacy Policy, but only if such practices are identical or similar to those of Nestlé USA’s Online Privacy Policy (posted at www.nestleusa.com/Public/Privacy.aspx and effective as of 10/25/2006). If we wish to handle your information in ways that we think are materially different than what was previously set forth under the Nestlé USA Online Privacy Policy referenced above, we will first notify you about such changes and give you some choice prior to their implementation (e.g., opt-out, opt-in). Please note, however, that any former VeryBestBaby members who separately register or provide their personal information on Gerber.com or for the SHSH Resource Center, or who otherwise update their former VeryBestBaby account information or preferences through Gerber.com, will be subject to this Privacy Policy. Special Note to Non-U.S. Visitors The Gerber.com Website and SHSH Resource Center are intended for residents of the United States only, and we may take certain measures (such as IP Address blocking) to limit access to these resources by only such users. For this reason, this Privacy Policy is only intended to meet the laws and requirements of the United States, which may not necessarily be consistent with the laws and regulations of your home country. Any information you provide us through Gerber.com or for purposes of the SHSH Resource Center will be treated in accordance with this Privacy Policy.
-
-**Your Acceptance / Changes to this Privacy Policy**  
-By using the Gerber.com Website and/or registering for the SHSH Resource Center, you agree to accept the practices described in this Privacy Policy. If you do not agree with these practices, please do not use these services. We reserve the right to make changes to this Policy at any time. If we do make changes, the changes will be posted on this page and we will indicate at the top of this Policy when the changes went into effect. If we want to materially change how we use your previously collected personal information, we will notify you by email or other forms of communication (e.g., postal mail, phone), and may give you a choice to consent to or opt-out from the desired changes. Your inaction or continued use of or receipt of benefits from the Gerber.com Website or SHSH Resource Center after any such notices, or your explicit consent to any changes for which we require your prior approval, will signify your agreement with these changes. We encourage you to come back to our Site and review this Privacy Policy frequently so that you are constantly aware of our most current privacy practices.
-
-**  
-2.   What types of information do we ask you to provide?**
-
-To simply browse our Website or learn more about Gerber products, we do not ask you to provide any information. However, if you wish to participate in many of the services our Site and the SHSH Resource Center have to offer, we may ask you to provide certain personal and/or demographic information, as well as establish certain login information. Personal information (as used in this Policy) refers to any information that can be used to personally identify you or contact you online or offline. This may include, for example, your name and children’s names, postal address, email address, and phone number. Demographic information (as used in this Policy) includes any non-identifiable information about you or your children, such as your gender and children’s genders, birthdates or expected due dates, and information about your baby food buying habits, product and brand preferences, feeding styles, work status or professional credentials, and other related information. Login information (as used in this Policy) refers to information you create or set up when registering for an account through our Site (such as a unique username, password, and/or security question and answer). Login information allows you to access and update your online account information and preferences through Gerber.com.
-
-Personal, demographic, and/or login information is only collected from you with your knowledge (i.e., if you voluntarily provide it to us) and, usually, in connection with the following activities:
-
-  * Signing up yourself for the SHSH Resource Center (“general account”);
-  * Enrolling your friend for the SHSH Resource Center;
-  * Entering into a sweepstakes, contest, or other promotion; Participating in a consumer survey or poll (for example, as part of our Consumer Panel);
-  * Registering for and using one of our interactive or social-type features, such as online message boards;
-  * Sending an e-card or other webpage or message to a friend through our Site;
-  * Contacting us with feedback, questions, or comments (such as through one of our Contact forms, or real-time Click-to-Talk feature); or,
-  * Registering for or using any other service on Gerber.com or in connection with the SHSH Resource Center that requires the submission of personal information.
+  1. **What does this Privacy Notice apply to?**
+  2. **What information do we collect?**
+  3. **How do we use your information?**
+  4. **How do we protect your information?**
+  5. **What happens if you refuse to provide your personal information?**
+  6. **Who do we disclose your information to and why?**
+  7. **How can you access, modify, or make other choices regarding the use of your information?**
+  8. **Tracking Technology – How and why do we use them?**
+  9. **Do we collect personal information from children?**
+  10. **Do we link to other third party sites?**
+  11. **Other important information**
+  12. **How can you contact us?**
 
 
+
+1. **  What does this Privacy Notice apply to?**  
+This Privacy Notice applies to information that Gerber collects from or about our consumers on any consumer-directed websites or pages owned or controlled by Gerber, including sites or pages that we operate either under our own domains/URLs – like gerber.com and babynes.com – or that we run on third-party platforms or social networks such as Facebook (e.g., Facebook fan page) (collectively, our “Websites”), online or mobile applications like the MyGerber mobile app, or other pages or platforms operated or controlled by Gerber (our “Applications”), in each case when the Website or Application links to or references this Notice (collectively, our “Sites”).
+
+This Notice also applies to information that we may collect from consumers through our call centers, for example if you call us with a question or comment or to sign up for marketing communications over the phone, and to information we may obtain about you from other sources. For example, we may hire a third party data aggregator to provide us additional information about our existing consumers (this is known as “data appending”). We may also receive information from third party co-sponsors who we may occasionally partner with to run special contests or other promotions. We may also receive information about consumers when we acquire other companies.
+
+This Notice does NOT apply to information collected by Gerber’s international affiliates (e.g., Gerber Canada, Gerber Mexico, Gerber Europe/Russia, Gerber Asia, and Gerber South America), sites operated by other subsidiaries of the Gerber Products Company (e.g., Gerber Life) or Nestlé SA (e.g., Nestlé USA); sites operated by third party licensees of Gerber, sites operated by independent retailers that sell Gerber products, or sites that do not reference this privacy notice, including for example sites operated by Gerber that are not directed to consumers.
+
+Please note we may combine information that we collect via one method (e.g., a website) with information that we collect via another method (e.g., an offline event). We do this to get a more complete view of our consumers, which, in turn, allows us to serve you better and with more customization.
+
+2\.   **What information do we collect?**  
+Depending on how you interact with Gerber (online, offline, over the phone, etc.), we may collect various types of information (personal and aggregate) from you, as described in this section. 
+
+“Personal Information” (as used in this Privacy Notice) refers to such types of information that can be used to personally identify you, whereas aggregate or anonymous information does not allow for such identification.
+
+In some instances (and unless we say otherwise below), we may combine/link one type of information with another type of information (e.g., personal contact information with account login and/or demographic information), and store them together in our records.  We strive to limit the amount of information we collect and store to that which is reasonably necessary to provide you the relevant services. We generally store your information for as long as your account is active with us or as needed to provide you the relevant services. We may store your information for a longer period of time to comply with legal or regulatory obligations, resolve disputes, enforce our agreements, or for records management purposes.  
+
+
+#### 
+
+Personal contact information  
+This includes information that would allow us to personally contact you, such as your name or your child’s name, home or mailing address, phone number (home, cell, etc.), or email address. In some cases, this could include personal information that you give us about someone else (for example, if you provide a friend’s email address for a tell-a-friend program).  We typically collect personal contact information in connection with a variety of activities, including general website registration, newsletter sign-up, website community features, online purchases, customer service inquiries, contests and other promotions, and consumer surveys. If you create an account with us, your personal contact information may be stored under your account profile.
+
+#### 
+
+Account login information   
+This refers to information you create or set up when registering for an account through our Sites (such as a unique username, password, and/or security question and answer).  Examples may include your login ID/email address, screen name, password, and/or security question and answer.  We only collect unique login information for those activities that require an account, such as general website registration, newsletter sign-up, and website community features.  Your login information, especially your password, should be kept confidential and never shared with anyone else. To change your login email address or password, log in to the relevant edit account section of our Sites (if available) or contact us [here](https://web.archive.org/contact-us).
+
+#### 
+
+Demographic information  
+This includes information that describes the demographic or psychographic characteristics of you or your children, such as your gender and children’s genders, birthdates or expected due dates, data you provide through various tools like the pregnancy weight tracker, and information about your baby food buying habits, product and brand preferences, feeding styles, work status or professional credentials, and other related information.  We typically collect demographic information in connection with a variety of activities, including general website registration, newsletter sign-up, contests and other promotions, and consumer surveys.  If you create an account with us, you may be allowed to modify certain demographic information stored under your account.  To do so, log in to the relevant edit account section of our site (if available) or contact us here.  For more on how we use your information, please refer to Question 3 below. 
+
+#### 
+
+Technical computer information  
+This includes information about the computer system or other technological device that you may be using to access one of our websites or applications.  We typically collect this information through automated technologies such as cookies, pixels, or web beacons.  Examples of technical computer information may include your computer’s IP address, operating system type, and web browser type.  If you access a Gerber Site via a mobile device such as a smartphone, the collected information may also include your phone’s unique device ID or other similar mobile device data. 
+
+#### 
+
+Site Usage   
+This includes information about how you use and navigate our Sites, including which links you click on, which pages or content you view and for how long, and other similar information and statistics about your interactions with a Gerber Site (e.g., date and time of visit, which site you came from, favorite recipes and site activities, high game scores, etc.).  This information is captured using automated tracking technologies such as browser cookies, flash cookies, and web beacons, and may also be collected through the use of third party tracking services (such as Google Analytics and Provenir) that collect data in aggregate (such as number of visits to a particular page, or the amount of time spent on a web site).  Please see Question 8 (“Tracking technologies – How and why do we use them?”).
+
+Online Tracking  
+We may collect personal information about users over time and across different websites when you use our Sites.  We may also have third parties that collect personal information this way.  We may use tracking tools to serve you with interest-based advertising and to better understand your behaviors and browsing activities.  We might permit third parties to gather information passively on our Sites, including for behavioral advertising purposes.  You can control tracking tools.  In particular, your browser gives you the ability to delete or reject browser cookies.  If you block cookies, certain features on our Sites may not work.  Some browsers have a “Do Not Track” feature that lets you tell websites that you do not want to have your online activities tracked.  These features are not yet uniform, so note that our systems may not recognize Do Not Track headers or signals from some or all browsers.  If you block or delete cookies, not all of the tracking that we have described in this Privacy Notice will stop.  
+
+
+Consumer feedback  
+This includes information that you voluntarily share with us about your experience in using our products and services, including our Sites.&nbsp; Examples may include unsolicited comments and suggestions, testimonials, or other questions or feedback related to our products.&nbsp; We typically collect this information in the form of consumer surveys, consumer panels, contact forms, “Ask the Expert” forms, and email correspondence.  
+
+
+#### 
+
+Consumer-generated content  
+This refers to content that you create and then share with us (and perhaps others) by uploading it to one of our Sites, including one of our Facebook sites. Examples may include photos, videos, personal stories, or other similar media or content.  We may collect and publish consumer-generated content in connection with a variety of activities, including contests and other promotions, website community features, and third party social networking.
+
+#### 
+
+Social network information  
+This refers to information that is part of your profile or account on a third party social network (such as Facebook, Pinterest, and Google+) and that you allow the third party social network to share with us. Examples include your basic account information (e.g., name, email address, gender, birthday, current city, profile picture, user ID, list of friends, pages you like, etc.) and any other additional information or activities that you permit the third party social network to share with third party application developers. For example, we may receive your social network profile information (or parts of it) every time you download or interact with a Gerber Application on a social network such as Facebook or every time you use a social networking feature that is integrated within our Sites (such as Facebook Connect).  To learn more about how your information from a third party social network may be obtained by Gerber (or other third party application developers), please visit the website of the relevant social network.  You further acknowledge that we may use your personal information to match information with a social network for advertising purposes (see “Marketing Communications” under Question 3 of this Privacy Notice for more information).
+
+#### 
+
+Payment information  
+This includes information that you use to make a purchase, such as your credit card details (cardholder name, card number, expiration date, etc.) or other forms of payment (if such are made available).  This also includes the billing name and address associated with your form of payment. If you create an account with us when making a purchase, your payment information may be stored under your account profile.  To review or edit this information, log in to the relevant edit account section of our Sites (if one is available) or contact the customer service department listed at the relevant store website.
+
+3\.   **How do we use your information?**  
+The following paragraphs describe the various purposes and features for which we might collect and use your information, and the different types of information that might be collected from you through the different methods described in Question 1 above.  Please note that not all of the uses below will be relevant to every consumer.
+
+#### 
+
+Account maintenance  
+We may use your information to maintain your accounts with us, including administering any consumer loyalty or rewards programs that are associated with your account. This typically involves the use of information that was originally collected to set up your account (e.g., personal contact information, payment information, account login information, demographic information, etc.).
+
+#### 
+
+Contact Forms   
+If you contact us through one of our online contact forms (e.g., Contact Us, or Click-to-Talk feature), your information is used to respond to your specific questions or requests, and in some instances, to post the answers to your questions in anonymous form on our Sites for reference by other consumers.  The information you provide through one of our contact forms will not be used for any other purpose, unless you specifically authorize us to do so.
+
+#### 
+
+Contests and Sweepstakes  
+To enter a Gerber contest or sweepstakes, you may be required to first register for a general account. In addition to using your information for the purposes set forth above, your entry information (including your personal information) may be used to notify you if you are a winner, verify your eligibility, and/or deliver you a prize, or as otherwise described in connection with the promotion or in its Official Rules. If you are selected a winner, we may post on our Websites limited information about you (such as your name or part of your name and city and state of residence).  We may also post additional information collected from you (such as your social media profile picture or your consumer-generated content).  Please see Question 6 below for information about contests and sweepstakes that may involve third party companies.
+
+#### 
+
+Marketing communications  
+We may collect and use your information to send you marketing communications, such as email communications and postal mailings. We may also send you samples and offers, if they become available. We or third parties may also show you marketing communications on other websites, including on social media sites where you are a member, by matching activities or information collected through our Sites with those collected on third-party sites (“Targeted Advertising”). These marketing communications will keep you up-to-date on the latest news, special offers, and promotions from Gerber. On occasion, these communications may also introduce you to other Gerber affiliated brands and partners and inform you about offers and promotions from other third party companies.  Sending you marketing communications mostly requires the collection and use of certain personal contact information and demographic information. In some instances (such as for mobile apps), this could involve the use of your precise geo-location, which may allow us to send you location-based offers and promotions.
+
+You can opt-out from receiving marketing-related email communications by following the unsubscribe instructions provided in each such communication.  If you have an account with us, you may be given the option to change your communication preferences under the relevant edit-account section of our site (if available) or by contacting us [here](https://web.archive.org/contact-us). You may also visit social media sites where you are a member to explore opt out options they may provide for Targeted Advertising.  Please note that even if you opt out from receiving marketing communications from us, you may still receive administrative communications from us, such as order confirmations, notifications about your account activities (e.g., account confirmations, password changes, etc.), and other important announcements. Likewise, if you opt out of Targeted Advertising, you will also still see generic ads on other websites, including on social media sites where you are a member.
+
+Also, please note that if you participated in a promotion that involved a third party company, and, as part of that promotion, you agreed to receive future marketing communications directly from that third party, you will need to contact the third party (not Gerber) to opt-out from such communications. This process may be outlined in the third party’s privacy policy.
+
+Third party social networking  
+We may collect and use your information when you interact with third party social networking features such as “Facebook Connect” or “Facebook Like”. These features may be integrated in our sites or applications for the purposes of running contests, allowing you to share content with friends, or other stated purposes. If you use these features, we may have the ability to obtain certain information about you from your social networking profile (see “Social network information” under Question 2 of this Privacy Notice). You can learn more about how these features work, and the profile data we may obtain about you, by visiting the website of the relevant third party social network.
+
+#### 
+
+Site improvement and personalization  
+We may collect and use your information to improve and personalize your experience on our Sites.  This is typically done through automated tracking technologies (such as cookies, see Question 8) that collect and remember certain account login information, technical information, and/or previous site usage information.  For example, we might remember your login ID/email address or screen name so you can quickly login the next time you visit our Sites or so you can easily retrieve the items you previously placed in your shopping cart.  Based on this type of information, we may also show you specific Gerber content or promotions that are tailored to your interests.
+
+#### 
+
+Community features  
+We may collect and use your information to give you access to community features of the Sites including features that may allow you to upload and share recipes, pictures, videos, artwork, or other messages or content.  This typically involves the collection, use, and (in some instances) public display of certain personal contact information, account login information, demographic information, and/or consumer-generated content. Because these features are “communal” in nature, information or content that you post in these areas may be visible to others.  Although we may take certain precautions to protect those who use these areas of our Sites, we encourage you to be wary of giving out any personal information in public forums.  The information you post can be collected and used by people you don't know.  We cannot guarantee the privacy and safety of these areas, and are therefore not responsible for any information you choose to post.  Your use of these features is fully at your own risk.
+
+#### 
+
+Viral features (e.g., E-cards and Tell-a-Friend)  
+For tell-a-friend or other viral features administered by third party social networks (such as Facebook’s “Share” and “Like” features), please refer to the website of the relevant social network for additional information.
+
+We may request and use your information so you can use website viral features, such as our tell-a-friend features. These features allow you to easily share certain Gerber news, product information, promotions, or other content with family members and friends.  These features typically require the collection and use of personal contact information (such as names and email addresses) so that the selected one-time message or content can be delivered to the proper recipients. In most cases, we do not retain the information provided. In some cases (for example, as part of a refer-a-friend program), we may store the information so we can track and reward consumers for their successful referrals.  For tell-a-friend or other viral features administered by third party social networks (such as Facebook’s “Share” and “Like” features), please refer to the website of the relevant social network for additional information.
+
+#### 
+
+Order fulfillment  
+We may collect and use your information to process and ship your online orders, and to inform you about the status of your orders.  This could involve the collection and use of certain personal contact information, payment information, account login information, and/or other information related to your purchase (such as products ordered).  This could also involve the ongoing storage of your payment information to allow for easier checkout on future purchases.
+
+Please note that there are many independent e-commerce sites that sell Gerber products but that are not controlled or operated by Gerber. Because these sites may have different practices than we do, we recommend that you read their privacy policies before making any purchases on those sites.
+
+#### 
+
+Third Party Offers and Information from Gerber  
+From time to time, we are approached by reputable third party companies and organizations that provide products or services that we believe may be of interest to you.  To extend these products or services to you, we may use your personal information to mail or email you materials on their behalf.  This particular service is provided to you as part of your agreement to receive communications, promotions, and savings directly from Gerber, and is separate from your choice to have Gerber share your information with third parties for their independent use as described in Question 6 below.  As a result, these third party materials may be delivered to you by Gerber together with some of our own materials.  We see this as a value-added service helping you find special offers on products and services that may be of interest to you.  Please remember that the materials we send you in connection with this particular service come directly from Gerber and, therefore, do not require us to share your personal information with third party companies. If you would prefer not to receive these third party materials from Gerber, you must request to opt-out from receiving communications from Gerber.
+
+Other general purposes (e.g., website security, internal research)  
+We may collect and use your information for other general business purposes, such as to maintain the day-to-day operation and security of our websites and applications and to conduct internal marketing and demographic studies. These activities mostly require the collection and use of certain demographic information, technical computer information, website usage information, and consumer feedback.
+
+4\.   **How do we protect your information?**  
+We use a variety of standard methods (described below) to help keep consumer information confidential and secure.  Please note, however, that these protections do not apply to information you choose to share in public areas such as our community features or other social areas. 
+
+Protected operating environments  
+We store your information in operating environments that are protected from the public (e.g., behind industry standard firewalls) and that we only allow authorized Gerber employees and agents/contractors to access on a need-to-know basis.  We use a variety of methods to protect personal information; however, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, we cannot guarantee its absolute security.
+
+Encryption for payment information  
+We use industry-standard encryption to provide greater protection for sensitive financial information, such as credit card information, sent to us over the web.  We do not collect credit card information, we only store an ID number that allows us to retrieve your information.  For example, encryption is used when you make payments through our online stores. Please note, however, that there are many independent e-commerce sites that sell Gerber products but that are not controlled or operated by Gerber. These sites may have different practices than we do, we recommend that you read their privacy policies before making any purchases. 
+
+Prior authentication for account access  
+We require our registered consumers to verify their identity (e.g., login ID/email address, password) before they can access or make changes to their account information.  This helps prevent unauthorized access to your account.
+
+Measures we expect you to take  
+It is important for you to also play a role in keeping your information safe and secure. When signing up for an online account, please be sure to choose an account password that is hard for others to guess and never reveal your password to anyone else. If you use a shared or public computer, never choose to have your login ID/email address or password remembered and make sure to log out of your account every time you leave the computer. You should also make use of any privacy settings or controls we may provide you in our website community areas.
+
+5\.   **What happens if you refuse to provide your personal information?** If you choose not to submit any personal information when requested, you may not be able to participate in certain activities and personalized features and may limit the services and special offers we can provide you. For example, if you refuse to share your email address, you will not be able to receive any of our newsletters or otherwise register on our Websites or use our Applications.  If you refuse to provide your credit card number, you will not be able to purchase products.  However, to simply browse our Websites and learn more about our products, you do not need to give us any personal information. 
+
+6\.   **Who do we disclose your information to and why?**  
+Gerber will not share your personal information with any third party that intends to use it for direct marketing purposes unless you have given us permission to do so or we have given you the opportunity to opt out of sharing at the point of collection.
+
+We may share your personal information with our subsidiary companies (companies wholly owned by Gerber Products Company) and may also share with third parties in the following circumstances: 
+
+Service Providers, Agents and Contractors  
+We may use Gerber affiliates or outside companies, agents, or contractors (“vendors”) to provide support for the internal operations of our Sites or to assist us with administering our Sites or Applications. In the course of doing so, these affiliates or vendors may be allowed to collect information (including personal information) from you or to process your information on our behalf.  These affiliates and vendors are given access to the information they need in order to perform the specific tasks they’ve been hired to do, and are restricted from using your personal information for any other purpose. 
+
+Affiliates and Third-Party Partners  
+We may share your personal and demographic information with Gerber affiliate companies and third-party partners based on your account settings within your communications tab.  If you allow Gerber to share your information with these parties, certain personal information about you (which may include your name, address, and email address) will be shared with Gerber’s affiliated companies (companies that Gerber’s ultimate parent company, Nestlé S.A. has control through either direct or indirect ownership) and/or a variety of carefully selected third party companies (either directly or through a list broker) who offer products and services that we believe may be of interest to you. This allows our affiliates and partners to contact you directly with information and special offers regarding their own products and services.
+
+In addition, also based on your communications tab settings regarding sharing with affiliates and third party partners, we may share certain personal and demographic information about our registered users (including name, address, phone number, date of birth, and number of children) with data aggregators and/or list brokers for the purpose of enhancing their records (which they may resell to other companies) and/or to help Gerber (in return) acquire additional information about our own consumers. This could result in your receiving additional communications and materials from other companies who are not affiliates or third party partners of Gerber.
+
+If you do not want your information to be shared with a company other than Gerber, please opt-out of our partnership program at the time your information is collected or on the communications tab of your profile. Please note that you are not required to allow Gerber to share your information in order to register for MyGerber.  Also, the communications tab controls future sharing of information; if your information has previously been provided to affiliate or third-party companies, you may need to opt out of receiving further communications directly with those companies, not with Gerber.
+
+Joint Promotions  
+From time to time, we may run a joint or co-sponsored program or promotion on our website or application with another company, organization, or other reputable third party; and, as part of this event, collect and process personal information. If your personal information is being collected by (or is shared with) a company other than Gerber as part of such promotion, we will let you know this at the time your personal information is collected. Periodically, we may run a promotion on our website or application that features the products or services of another company and will give you the opportunity to opt in to receive information directly from that third party company. When doing any promotion involving another company, we may provide a separate link to that company's privacy policy and we encourage you to read it before you share any personal information, as we cannot guarantee they adhere to the same privacy practices. If you do not want your information to be collected by or shared with a company other than ours, you can always choose not to opt in or participate in these events at the time the personal information is collected/requested.
+
+**YOUR CALIFORNIA PRIVACY RIGHTS**  
+If you are a California resident, you may have the right to request and receive certain information about our disclosure of your personal information to third parties for their own marketing use, and your choices with respect to such disclosures. Because we do not share your personal information with third parties for their own marketing use unless you are first given the opportunity to opt-in or out (as set forth above), we are exempt from having to meet this requirement. If you still wish to learn more about our compliance with this requirement, you may contact [Consumer Services](https://web.archive.org/contact-us).
+
+Legal and  Business transfers  
+We may disclose your personal information if we are required to do so by law, or if in our good faith judgment, such action is reasonably necessary to comply with legal processes, to respond to any claims, or to protect the safety or rights of Gerber, its customers, or the public. Sharing your information for these reasons is not a regular event, but could arise from time to time. We strive to limit the types and amount of information we share for legal-related purposes to that which is reasonably necessary.
+
+In the event of a merger or acquisition of all or part of Gerber or our parent company by another company, or in the event Gerber or our parent company were to sell or dispose of all or a part of the Gerber business, the acquirer may have access to the information previously maintained by Gerber, which could include your personal information. Similarly, any information in our possession, including your personal information, may be transferred to a third party entity as part of a corporate reorganization, insolvency proceeding, or other similar event.
+
+Aggregate Information  
+From time to time, we may share information or other information in anonymous and aggregate form with third party companies for the purpose of assessing overall trends about our consumers and conducting demographic and research studies.  This information does not contain any of your personal information and is only shared in a bundled format. The information shared for these purposes may include non-identifiable information captured through the use of cookies or other similar tracking technologies, as explained in Question 8 below. 
+
+7\.   **How can you access, modify or make other choices regarding the use of your information?**  
+The following outlines the choices you may have with respect to opting-out from Gerber communications, or accessing and updating the information we've stored about you:  
+**   · **You always have the option not to give us any of your personal information. However, if you choose this option, you will be limited in the services and programs we can provide you, as mentioned in Question 5 above.  
+**   ·** If you do not want to receive newsletters, announcements, or other communications and/or services from a Nestlé USA website or brand, please do not opt-in for those communications or services at the time of registration. If you have opted-in and, at a later time, wish to opt-out, please visit the appropriate "your account" or “your profile” section(s) on our website or application and amend your preferences.  
+**   · **In e-mail marketing messages sent to you, we provide you the opportunity to discontinue receiving future marketing message (i.e., unsubscribe). Simply follow the unsubscribe process or directions provided in the email. Please read our Marketing communications section for limitations on certain administrative communications, order confirmations, and account notifications.  
+**   · **You can review or update any personal information that we may have collected about you for our general website and application registration. To do this, please visit the appropriate "your account" or “your profile” section(s) on our website or application (if available).  
+**   ·** In addition,  if you participated in a promotion or program that involved a third party and, as part of that promotion, you agreed to receive future communications directly from that third party, you will need to contact the third party directly to opt-out from such communications. This process may be outlined in the third party’s privacy policy.
+
+If any of the mechanisms set forth above is not available or you wish to make a different request, please [Contact Us](https://web.archive.org/contact-us).
+
+Please note that regardless of your opt-out selections, we may continue sending you administrative or operational communications, such as important email confirmations (e.g., in response to an online registration or offline order) or to inform you about important product announcements (e.g., recalls) or updates to our Site (e.g., updates to our legal terms or privacy notice, site maintenance, etc.).
 
   
-The specific types and amount of information collected for each of the items listed above will vary greatly depending on the specific feature or service you are requesting. For example, some features may require that you first create a general account by registering for the SHSH Resource Center, while others may simply require that you provide a limited amount of personal, demographic, and/or login information, without having to register for a general account. If you choose not to provide any information when requested, you may be limited in the features and services you can enjoy.
+8\.   **Tracking Technology - How and why do we use them?**  
+Gerber uses tracking technologies (“Cookies,” “Log Files,” “Web Beacons,” etc.) to gather certain information such as browser type and operating system, referring page, path through site, domain of ISP etc. for the purpose of improving the use and functionality of our websites and other purposes described below. Tracking technologies help us tailor our websites to your personal needs. 
 
-Please note that if demographic or login information is collected for an activity that also requires personal information, we may combine and store your demographic and login information together with your personal information. We may also enhance and update the information we’ve collected about you with information we acquire from you through other means and/or from third party sources. Combining your data in this manner allows us to personalize your experience on our Website, customize the materials we send you and display on our Site based on your interests and preferences, and otherwise improve Gerber products and services to better meet your needs. For more on how we use your information, please refer to Section 3 below.
+Cookies  
+“Cookies" are small text files or record-keeping devices that websites often store on a user's computer, and that generally come in two forms: session cookies and persistent cookies. We may use both session and persistent cookies on our Site. A session cookie (which expires at the end of your visit) may be used to gather basic information about your visit to our Site, such as the date and time of your visit, the length of your visit, and the pages/images you viewed during your visit. This information allows us to assess (in aggregate form) how our Site is being used and, in turn, improve its contents and functionality. A persistent cookie (which remains on your computer for a longer period of time) may be used to remember the content you previously viewed on our Site and/or certain personal information you provided when registering during an earlier visit to our Site (e.g., your name, email address, child’s name, child’s expected or actual date of birth, etc.). This allows us to (among other things) personalize the Site for you and to display content and information that is tailored to the progress of your pregnancy, child’s growth, or other interests. In addition, a session cookie will save you the time of having to re-register or re-enter information every time you come back to our Site or try to login to access member-only areas.
 
-**Sections of Gerber.com that are NOT controlled by Gerber**
+You can always disable cookies or set your browser to alert you when cookies are being sent to your computer; however, if you do so, you may not be able to register online for MyGerber or use other features on our Sites or Applications.
 
-Certain sections or links on the Gerber.com Website may direct you to a site or data collection form that is not owned or controlled by Gerber, but may be framed under the Gerber.com header or footer or otherwise appear to be affiliated with Gerber.com. Examples of this may include (but are not limited to) the Careers link in the footer of our Site (which may take you to a site controlled by our affiliate or parent company) and the online quote request form served on our Site by Gerber Life Insurance. These areas of our Site are not governed by this Privacy Policy. One way you might be able to tell whether you are on the Gerber.com Website versus a website other than Gerber.com is to look at the URL string that appears at the top of your Internet browser. If “Gerber.com” appears within the URL string, then you are likely on Gerber.com and therefore subject to this Privacy Policy.  
-**
+Please note that “flash” cookies are different from "browser” cookies because of the way in which flash cookies capture and store data.  Your browser’s cookie management tools will not remove flash cookies.  To learn how to manage privacy and storage settings for flash cookies click [here](http://www.nestle.com/info/yourdata#7417FD4E44634C1BB4A38AB73F69B218).
 
-3.  How do we use the information you give us?
+IP Addresses  
+We may keep track of Internet Protocol (IP) addresses to (among other things): (i) troubleshoot technical concerns, (ii) maintain website safety and security, (iii) restrict access to our websites to certain users, and, (iv) better understand how our websites are utilized. An IP address is a number that is used by computers on the network to identify your computer every time you log on to the Internet.
 
-**
+Log Files  
+We (or a third party on our behalf) may collect information in the form of log files that record website activity and gather statistics about web users' browsing habits. These entries are generated anonymously, and help us gather (among other things) (i) a user’s browser type and operating system, (ii) information about a user’s session (such as the URL they came from, the date and time they visited our website, and which pages they've viewed on our website and for how long), and, (iii) other similar navigational or click-stream data. We also use information captured in log file for our internal marketing and demographic studies, so we can constantly improve and customize the online services we provide you. Log files are used internally only, and are not associated with any particular user.
 
-Generally, all information collected from you is used and stored for the purposes for which the information was originally provided or as otherwise stated at the point of collection or in this Privacy Policy. For example, if you register for the SHSH Resource Center, the information you provide us is used to deliver you the benefits and privileges that come with being a registered member of that program. This may include, for example, receiving valuable information, promotions, special offers and savings (via email and/or postal mail) from Gerber, our affiliate brands and companies, and/or carefully selected third party partners (see Section 5 below for more information about third party partners), as well as an opportunity to be a part of our Consumer Panel survey program. If you register for the SHSH Resource Center through Gerber.com, your membership may also give you access to exclusive content or activities on our Site, such as online message boards, contests and sweepstakes, and downloadable coupons.
-
-Under certain circumstances, the information you give us may be handled in a manner slightly different than what is described above. Listed below are some examples of when this may occur and a brief description for each: 
-
-  * **Contact Forms –** If you contact us through one of our online contact forms (e.g., Contact Us, or Click-to-Talk feature), your information is used to respond to your specific questions or requests, and in some instances, to post the answers to your questions in anonymous form on our Website for reference by other consumers. The information you provide through one of our Contact forms will not be used for any other purpose, unless you specifically authorize us to do so.
-  * **Contests and Sweepstakes** – To enter a Gerber contest or sweepstakes, you may be required to first register for a general account. In addition to using your information for the purposes set forth above, your entry information (including your personal information) may be used to notify you if you are a winner, verify your eligibility, and/or deliver you a prize. If you are selected a winner, and only with your permission, we may post on our Website limited information about you (such as your name or part of your name and city and state of residence). We may also request additional information from you (such as a photograph) that can be posted together with your name and location. Please see Section 5 below for information about contests and sweepstakes that may involve third party companies.
-  * **E-cards and Tell-a-Friend** – To use these features on Gerber.com, you may be asked to provide your name and email address, your friend’s name and email address, and a personalized note to send along with your message. This information is used solely to facilitate the forwarding of your message through our Website and is not collected or stored by Gerber.
-  * **Enroll-a-Friend** – We may allow you to enroll your friend in certain Gerber programs, such as the SHSH Resource Center. If you choose to sign-up your friend for these services, you may be asked to provide your friend’s first and last name, full mailing address, and certain information about their children (expected or actual date of birth, how many children they have, etc.). This information is then used to send your friend valuable information and special offers (including SHSH Resource Center booklets) from Gerber via postal mail only. By providing us your friend’s personal information, you warrant that your friend is interested in receiving materials from Gerber and that you have your friend’s permission to provide us their personal information. Your friend will always have the opportunity to unsubscribe from receiving materials from Gerber, as explained in Section 7 below. The information you provide on a friend enrollment form is not subject to the Gerber partnership program described in Section 5 below, and will therefore not be shared with Gerber’s third party partners.
-  * **Community Features** – If we offer a message board or other interactive or social-type feature on our Site, please be aware that these areas may allow you to publicly post, and share with other users, certain messages, content, or other information (e.g., stories, pictures, ingredients, tips, etc.). Although we may take certain precautions to protect those who use these areas of our Site, we encourage you to be wary of giving out any personal information in public forums. The information you post can be collected and used by people you don't know. We cannot guarantee the privacy and safety of these areas, and are therefore not responsible for any information you choose to post. Your use of these features is fully at your own risk.
-  * **Healthcare and Nutritional Tools** – Our Site may provide certain contact forms or other tools that are intended for use by healthcare professionals, in addition to parents. As a result, these features may request certain additional information about a healthcare professional such as their title, medical credentials, and hospital or facility name. This information is used to send the healthcare professional the materials they request from Gerber. Additionally, some tools on our Site, such as our Track Your Weight tool, may allow an expecting mother to provide certain information about their pregnancy or upcoming childbirth (weight, doctor recommendations, etc.). These tools are usually made available for your online reference and display only, and, unless noted otherwise, do not send any information back to Gerber. 
-
-
+Web Beacons  
+We may also use web beacons (or clear GIFs) on our Website or include them in an email message we send you. Web beacons (also known as “web bugs”) are small strings of code that provide a method of delivering a graphic image on a web page or in an email message for the purpose of transferring data back to us. The information collected via web beacons may include some of the information described in the Log Files section above, as well as information about how a user responds to an email campaign from Gerber (e.g., the time the email is opened, where does the user link to from the email, etc.). We use web beacon information for a variety of purposes, including but not limited to, site traffic reporting, unique visitor counts, advertising and email auditing and reporting, and personalization.
 
   
-**Third Party Offers and Information from Gerber**
+9\.   **Do we collect personal information from children?**  
+Gerber does not knowingly solicit or collect personal information from children under the age of 13 through our Sites. Our Sites are intended for parents and other caretakers of babies and children. If we learn at any time that we have inadvertently collected personal information from a child under 13, we will promptly delete the information from our records. We may collect personal information about children under the age of 13 from the parent or legal guardian directly.
 
-From time to time, we are approached by reputable third party companies and organizations that provide products or services that we believe may be of interest to you. To extend these products or services to you, we may use your personal information to mail or email you materials on their behalf. This particular service is provided to you as part of your agreement to receive communications, promotions, and savings directly from Gerber or the SHSH Resource Center, and is entirely separate from the Gerber partnership program described in Section 5 below. As a result, these third party materials may be delivered to you together with some of our own materials, for example, as inserts that come with your SHSH Resource Center booklets. We see this as a value-added service helping you find special offers on products and services that may be of interest to you. Please remember that the materials we send you in connection with this particular service come directly from Gerber and, therefore, do not require us to share your personal information with third party companies. If you would prefer not to receive these third party materials from Gerber, you must request to opt-out from receiving communications from Gerber or the SHSH Resource Center.  
-**
+10\.   **Do we link to other third party sites?**  
+Our Sites may provide links to, or features from, other third party sites (such as independent e-commerce sites and third party social networks). If you link to or use such third party sites or features, you do so at your own risk. We do not control and are not responsible for the content or practices of any third party site, application, or feature.
 
-4\. Do we use cookies or other automated technologies to collect information?
+11\. **Other important information**  
+This section provides additional information that is important for you to know about this Privacy Notice or our practices.
 
-**
+Special Note to Non-U.S. Visitors  
+Our Sites are intended for residents of the United States only, and we may take certain measures (such as IP Address blocking) to limit access to these resources by only such users. For this reason, this Privacy Notice is only intended to meet the laws and requirements of the United States, which may not necessarily be consistent with the laws and regulations of your home country. Any information you provide us through our Sites will be treated in accordance with this Privacy Notice.
 
-Like many other sites on the Internet, our Website may use a variety of standard web technologies to automatically collect certain information about your visit to our Site and, in return, provide you a more pleasant, convenient, and personalized experience during future visits to our Site. Examples of the types of technologies we use and how we use them are provided below.
+This Privacy Notice applies to consumers only  
+This Privacy Notice applies only to our collection and use of information from consumers, using the methods described under Section 1 of this Notice. It does not apply to our business customers (e.g., retailers, distributors, etc.). It also does not apply to information we might collect and use for employment-related purposes (e.g., resumes, job applications, etc.) or business-to-business related purposes (e.g., media inquiries, investor relations, etc.).
 
-**Cookies**
-
-“Cookies" are small text files or record-keeping devices that websites often store on a user's computer, and that generally come in two forms: session cookies and persistent cookies. We may use both session and persistent cookies on our Site. A session cookie (which expires at the end of your visit) may be used to gather basic information about your visit to our Site, such as the date and time of your visit, the length of your visit, and the pages/images you viewed during your visit. This information allows us to assess (in aggregate form) how our Site is being used and, in turn, improve its contents and functionality. A persistent cookie (which remains on your computer for a longer period of time) may be used to remember the content you previously viewed on our Site and/or certain personal information you provided when registering during an earlier visit to our Site (e.g., your name, email address, child’s name, child’s expected or actual date of birth, etc.). This allows us to (among other things) personally greet you by your name when you come back to our Site and to display content and information that is tailored to the progress of your pregnancy, child’s growth, or other interests. In addition, a session cookie will save you the time of having to re-register or re-enter information every time you come back to our Site or try to login to access member-only areas. We do not use cookies to collect personal information; however, as explained above, we may use cookies to store – in encrypted form – certain personal information you provided during an earlier visit to our Site.
-
-You can always disable cookies or set your browser to alert you when cookies are being sent to your computer; however, if you do so, you may not be able to register online for the SHSH Resource Center or use other features on our Site.
-
-**Log Files**
-
-We may also collect and store information in the form of web logs – i.e., files that record general activity on our Website and gather non-identifiable statistics about your browsing patterns on our Site. The information we collect and store in log files may include (among other things): (i) the type of browser and operating system you use; (ii) your computer’s IP Address; and, (iii) other information about your online visit (e.g., URL you came from to get to our Site, date and time of your visit, and which pages you viewed and for how long). Some of this information may be captured by log files in conjunction with the use of cookies. In addition to using log file information to better understand how our Site is used and to improve its functionality, we may use certain log file information (such as your computer’s IP address) together with personal information (if necessary) to troubleshoot technical problems, help ensure the security of our Website, or prohibit or restrict certain users from accessing our Site or certain features on our Site.
-
-**Web Beacons**
-
-We may also use web beacons (or clear GIFs) on our Website or include them in an email message we send you. Web beacons (also known as “web bugs”) are small strings of code that provide a method of delivering a graphic image on a web page or in an email message for the purpose of transferring data back to us. The information collected via web beacons may include some of the information described in the Log Files section above, as well as information about how a user responds to an email campaign from Gerber (e.g., the time the email is opened, where does the user link to from the email, etc.). We use web beacon information for a variety of purposes, including but not limited to, site traffic reporting, unique visitor counts, advertising and email auditing and reporting, and personalization.  
-**
-
-5.  Do we share your personal information?
-
-**
-
-Gerber may share the information you provide us, including your personal and/or demographic information, in the following situations:
-
-**Agents and Contractors**
-
-We may use outside companies, agents, or contractors (“vendors”) to provide support for the internal operations of our Website and to assist us with administering the SHSH Resource Center or various other Gerber.com programs or services. In the course of doing so, these vendors may be allowed to collect information (including personal information) from you or to process your information on our behalf. These vendors are only given access to the information they need in order to perform the specific tasks they’ve been hired to do, and are prohibited from using your personal information for any other purpose.
-
-**Affiliate Companies**
-
-When you register for the SHSH Resource Center or otherwise provide us your personal information, we may share your information with certain affiliates of the Gerber Products Company, such as the Gerber Life Insurance Company. Doing this allows us to introduce you to products and services offered by our affiliate companies. It also enables us and our affiliates to gain a better understanding of who our consumers are across the company, so we can improve and target our products accordingly. You may be given the option to opt-out of this type of data sharing at the time of registration or when your information is collected.
-
-**Gerber Partnership Program**
-
-As part of the SHSH Resource Center and (in some instances) in connection with a special event such as a contest or sweepstakes, Gerber may partner (either directly or through a list broker) with a variety of reputable and carefully selected third party companies who offer products and services that we believe may be of interest to you. If you choose to register for these programs, certain personal information about you (including your name, address, and email address) will be shared with these third party partners unless you explicitly opt-out at the time of registration. This allows our partners to contact you directly with information and special offers regarding their own products and services.In addition, and as part of this same partnership program, we may share certain personal and demographic information about our registered users (including name, address, phone number, date of birth, and number of children) with data aggregators and/or list brokers for the purpose of enhancing their records (which they may resell to other companies) and/or to help Gerber (in return) acquire additional information about our own consumers. This could result in your receiving additional communications and materials from other companies who are not affiliates or third party partners of Gerber.If you do not want your information to be shared with a company other than Gerber, please opt-out of our partnership program at the time your information is collected or do not register for the SHSH Resource Center. Please note that you are not required to participate in our partnership program in order to register for the SHSH Resource Center.The Gerber partnership program does not apply to personal information that you provide us about a friend on a friend-enrollment form. Consequently, your friend’s information will not be shared with our third party partners or with data aggregators/list brokers (see Section 3 above for more information about friend enrollments).
-
-**California Residents : Your California Privacy Rights**
-
-If you are a California resident, you may have the right to request and receive certain information about our disclosure of your personal information to third parties for their direct marketing purposes, and your choices with respect to such disclosures. However, because it is our policy not to share your personal information with third parties unless you are first given the opportunity to opt-out from such sharing (and this policy is clearly disclosed above), we are exempt from having to meet this requirement. If you still wish to learn more about your California privacy rights, please contact us using the contact information provided at the top of this Policy.
-
-**Legal and Business Transfers**
-
-We may disclose your personal information if we are required to do so by law, or if in our good faith judgment, such action is reasonably necessary to comply with legal processes, respond to any claims, or protect the safety or rights of Gerber, our consumers, or the public.In the event of a merger or acquisition of all or part of Gerber or our parent company by another company, or in the event Gerber or our parent company were to sell or dispose of all or a part of the Gerber business, the acquirer may have access to the information previously maintained by Gerber, which could include your personal information. Similarly, any information in our possession, including your personal information, may be transferred to a third party entity as part of a corporate reorganization, insolvency proceeding, or other similar event.
-
-**Aggregate Information**
-
-From time to time, we may share your demographic information in anonymous and aggregate form with third party companies for the purpose of assessing overall trends about our consumers and conducting demographic and research studies. This information does not contain any of your personal information and is only shared in a bundled format. The information shared for these purposes may include non-identifiable information captured through the use of cookies or other similar web technologies, as described in Section 4 above.  
-**
-
-6.  What measures do we take to protect your personal information?
-
-**
-
-Gerber takes a variety of measures to protect the confidentiality and security of your personal information. These measures include, but are not necessarily limited to, the following:
-
-  * We store your personal information in secure operating environments that are not available to the public (e.g., behind industry standard firewalls);
-  * With respect to Gerber employees and vendors, your personal information is only accessible to authorized individuals on a strict need-to-know basis only;
-  * We verify the identity of all registered users before they can access the personal information we maintain about them; and,
-  * We do not collect financial information such as credit card numbers through our Website.
-
-
-
-**
-
- 7\.  How can you opt-out from Gerber communications or access and update your information?
-
-**  
-The following outlines the choices you may have with respect to opting-out from Gerber communications, or accessing and updating the information we’ve stored about you:  
-
-
-  * You always have the option not to give us any of your personal information. However, if you choose this option, you will be limited in the services and programs we can provide you, as already mentioned above.
-  * If you do not want to receive communications or materials from Gerber, our affiliates, and/or our third party partners, please opt-out from the relevant communications or materials at the time of registration or when the information is collected. If you did not opt-out at the time of registration or information collection, but, at a later time, wish to opt-out, please visit the appropriate "Edit profile" section(s) on our Website and update your preferences. If this option is not available to you (for example, because you registered for the SHSH Resource Center offline), please contact us using the information provided at the top of this Policy. Please note that after making an opt-out request, you may continue to receive residual communications from Gerber for up to an extra 10 days in the case of email and up to an extra 30 days in the case of postal mail, from the date of your request. **Special Note about Communications from Third Parties:** Any opt-out requests that you make after the time of registration may only take effect on communications or materials that Gerber or the SHSH Resource Center subsequently sends out. This includes any third party information or offers that we include in our materials (See Section 3 above). However, if, at the time of registration, you also agreed to receive information directly from one of our affiliates, or directly from our third party partners as part of our partnership program, you may need to contact these other companies separately to opt-out from their communications.
-  * Along with every communication, newsletter, or booklet that Gerber sends you, we provide you a mechanism to discontinue receiving future communications (i.e., unsubscribe). Simply follow the unsubscribe process or directions provided in the relevant email or booklet. Please see Section 7b above for important information about residual communications.
-  * If you registered for the SHSH Resource Center or other Gerber program online, and wish to view, update, or correct your personal, demographic, and/or login information, please visit the appropriate "Edit Profile" section(s) on our Website and login to your account.
-
-
-
-  
-If any of the mechanisms set forth above is not available to you or you wish to make a different request, please contact us using the information provided at the top of this Policy.
-
-Please note that regardless of your opt-out selections, we reserve the right to continue sending you administrative or operational communications, such as important email confirmations (e.g., in response to an online registration or offline order) or to inform you about important product announcements (e.g., recalls) or updates to our Site (e.g., updates to our legal terms or privacy policy, site maintenance, etc.).
-
-**8.  Do we collect information from children under 13?   
-**  
-Gerber does not knowingly solicit or collect personal or other information from children under the age of 13 through Gerber.com or the SHSH Resource Center. Our Site and the SHSH Resource Center are intended for mothers, parents, and other caretakers of babies and children. If we learn at any time that we have inadvertently collected personal information from a child, we will promptly delete the information from our records.
+12\.   **Contact information  
+**If you have any questions or concerns regarding this Privacy Notice, please contact us by clicking here or by calling 1-800-4GERBER.
