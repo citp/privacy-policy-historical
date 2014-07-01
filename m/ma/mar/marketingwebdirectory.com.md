@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketingwebdirectory.com privacy policy that was archived on 2014-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140607180426id_/http%3A//www.marketingwebdirectory.com/marketingwebdirectoryprivacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingwebdirectory.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701070741id_/http%3A//www.marketingwebdirectory.com/marketingwebdirectoryprivacypolicy.html) for the most accurate reproduction.*
 
 # Website submission Marketing Directory - marketingwebdirectoryprivacypolicy
 
