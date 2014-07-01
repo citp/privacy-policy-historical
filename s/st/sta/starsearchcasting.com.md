@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the starsearchcasting.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330172455id_/http%3A//www.starsearchcasting.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starsearchcasting.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701123536id_/http%3A//www.starsearchcasting.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Acting for Kids & Teens. Find Casting Notices, Movie Auditions, Casting Directors
+# Become a Child Actor | Child Acting Agencies & Disney Auditions
 
 |  |  [Member Success Stories](https://web.archive.org/testimonials.php) [](https://web.archive.org/testimonials.rss.php) |   
 ---|---|---  
