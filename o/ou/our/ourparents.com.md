@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ourparents.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327061308id_/https%3A//www.ourparents.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ourparents.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701082827id_/https%3A//www.ourparents.com/privacy) for the most accurate reproduction.*
 
 # OurParents - Nursing Homes, Senior Care Providers & Assisted Living
 
