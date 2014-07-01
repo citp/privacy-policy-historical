@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tweib.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625051449id_/http%3A//www.tweib.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tweib.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701023031id_/http%3A//www.tweib.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Tweib.com - Free FaceBook Likes, Get Free FaceBook Photo Likes, Linkedin Shares, YouTube Subscribers Views and Comments, Get Free YouTube Likes, Google Plus, Twitter Followers and Retweets, Website Traffic, Do Likes Earn Money, Paid to Like, FB Photo Likes Exchanger, Tweib.com is the top Social Exchange Site.
 
