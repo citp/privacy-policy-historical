@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jcpportraits.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330185224id_/http%3A//www.jcpportraits.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jcpportraits.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701105704id_/http%3A//www.jcpportraits.com/privacy-policy) for the most accurate reproduction.*
 
-# privacy policy | jcpenney portrait studios
+# privacy policy | JCPenney Portraits
 
 Welcome to jcpportraits.com.  This website is owned and operated by Lifetouch Portrait Studios Inc. (“Lifetouch”) in partnership with J. C. Penney Company, Inc.  This Online Privacy Policy explains Lifetouch’s online information practices pertaining to this website and the choices you, as a visitor to this site, can make about the collection and use of your information.
 
@@ -35,7 +35,7 @@ A "cookie" is a small data file stored by your web browser on your computer's ha
 
 Our goal is to inform you about our products and services, including special promotions and coupons. We may contact you by mail or e-mail or telephone to inform you of offers. However, if you are contacted and do not wish to receive further information , you may contact us at the phone number listed below or for email: select the unsubscribe at the bottom of the email.
 
-  * jcp portraits 1-800-597-6453
+  * JCPenney Portraits 1-800-597-6453
 
 
 
@@ -43,7 +43,7 @@ We will act promptly to honor your request. Please allow 7-10 business days for 
 
 ### **Email Communications**
 
-You will receive promotional Email communications from us only if you have agreed to receive such material. You may unsubscribe to this service at any time..
+You will receive promotional email communications from us only if you have agreed to receive such material. You may unsubscribe to this service at any time..
 
 ### **Children**
 
