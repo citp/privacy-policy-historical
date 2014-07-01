@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the airfix.com privacy policy that was archived on 2013-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130531075130id_/http%3A//www.airfix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airfix.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701060258id_/http%3A//www.airfix.com/privacy-policy) for the most accurate reproduction.*
 
-# Scale Plastic Model Kits by Airfix
+# Privacy Policy Airfix
 
 Hornby Hobbies Limited is committed to protecting your privacy and to do its upmost to ensure that all personal and transactional information is protected to the highest standards.
 
-### Data Protection
+## Data Protection
 
 We are registered data user under the Data Protection Act.
 
@@ -44,34 +44,56 @@ Cookies are files stored in your browser and are used by most websites to help p
 
 This cookie is set with the assumption that you consent with the use of cookies on this website and will be used to hide this message following your initial visit.
 
- **Cookies used** : CookieLawCompliance
+**Cookies used:**  CookieLawCompliance
 
-### Analytics cookies
+### Analytics cookies
 
 These cookies allow us to count page visits and traffic sources so we can measure and improve the performance of our site, using a service provided by Google Analytics.
 
-**Cookies used:** __utma, __utmb, __utmc, __utmz
+**Cookies used:**  __utma, __utmb, __utmc, __utmz
 
 ### Third party cookies
 
 We use a number of social media tools to enhance visitor interaction on our site. If you already use these platforms their cookies may be set through our website. Data may then be collected by these companies that enables them to serve up adverts on other sites that they think are relevent to your interests. If you do not use such platforms then our site will not place these cookies on your device.
 
-**Twitter cookies:** __utma, __utmb, __utmc, __utmv, __utmz, _sm_au_d, _twitter_sess, _twitter_sess, ab_sess_activity_ddg_126, ab_sess_activity_up_top_98, ab_sess_promoted_arrows_and_pills_78, ab_sess_Relevance_V1-49, ab_sess_search_relevance_ranked_hits_189, ab_sess_search_relevance_social_167, ab_sess_t1_actions_156, ab_sess_wtf_user_to_user_rec_155, auth_token, auth_token_session, dnt, external_referer, guest_id, k, lang, original_referer, pid, secure_session, t1, twid, twll
+**Twitter cookies:**  __utma, __utmb, __utmc, __utmv, __utmz, _sm_au_d, _twitter_sess, _twitter_sess, ab_sess_activity_ddg_126, ab_sess_activity_up_top_98, ab_sess_promoted_arrows_and_pills_78, ab_sess_Relevance_V1-49, ab_sess_search_relevance_ranked_hits_189, ab_sess_search_relevance_social_167, ab_sess_t1_actions_156, ab_sess_wtf_user_to_user_rec_155, auth_token, auth_token_session, dnt, external_referer, guest_id, k, lang, original_referer, pid, secure_session, t1, twid, twll
 
-**Facebook cookies:** _e_0ITr_10, _e_bWDI_21, _e_bWDI_22, _e_bWDI_23, _e_bWDI_24, _e_CTMK_0, _e_CTMK_1, _e_CTMK_2, _e_e6Yv_0, _e_e6Yv_1, _e_e6Yv_2, _sm_au_d, act, c_user, c_user, datr, e, L, L, lu, presence, reg_ext_ref, reg_ext_ref, reg_fb_gate, reg_fb_gate, reg_fb_ref, reg_fb_ref, sct, sct, wd, x-referer, xs, xs
+**Facebook cookies:**  _e_0ITr_10, _e_bWDI_21, _e_bWDI_22, _e_bWDI_23, _e_bWDI_24, _e_CTMK_0, _e_CTMK_1, _e_CTMK_2, _e_e6Yv_0, _e_e6Yv_1, _e_e6Yv_2, _sm_au_d, act, c_user, c_user, datr, e, L, L, lu, presence, reg_ext_ref, reg_ext_ref, reg_fb_gate, reg_fb_gate, reg_fb_ref, reg_fb_ref, sct, sct, wd, x-referer, xs, xs
 
-**Google cookies:** _e_0ITr_10, _e_bWDI_21, _e_bWDI_22, _e_bWDI_23, _e_bWDI_24, _e_CTMK_0, _e_CTMK_1, _e_CTMK_2, _e_e6Yv_0, _e_e6Yv_1, _e_e6Yv_2, _sm_au_d, act, c_user, c_user, datr, e, L, L, lu, presence, reg_ext_ref, reg_ext_ref, reg_fb_gate, reg_fb_gate, reg_fb_ref, reg_fb_ref, sct, sct, wd, x-referer, xs, xs
+**Google cookies:**  _e_0ITr_10, _e_bWDI_21, _e_bWDI_22, _e_bWDI_23, _e_bWDI_24, _e_CTMK_0, _e_CTMK_1, _e_CTMK_2, _e_e6Yv_0, _e_e6Yv_1, _e_e6Yv_2, _sm_au_d, act, c_user, c_user, datr, e, L, L, lu, presence, reg_ext_ref, reg_ext_ref, reg_fb_gate, reg_fb_gate, reg_fb_ref, reg_fb_ref, sct, sct, wd, x-referer, xs, xs
 
-**Microsoft cookies:** MC1, WT_FPC
+**Microsoft cookies:**  MC1, WT_FPC
 
-### Functional cookies
+**Magento cookies:**
 
-These cookies are used to enable core site functionality. They do not contain any personal information and are automatically deleted when you close your browser.
-
-**Cookies used:** ASP.NET_SessionId
-
+COOKIE name| COOKIE Description  
+---|---  
+CART | The association with your shopping cart.  
+CATEGORY_INFO | Stores the category info on the page, that allows to display pages more quickly.  
+COMPARE | The items that you have in the Compare Products list.  
+CURRENCY | Your preferred currency  
+CUSTOMER | An encrypted version of your customer id with the store.  
+CUSTOMER_AUTH | An indicator if you are currently logged into the store.  
+CUSTOMER_INFO | An encrypted version of the customer group you belong to.  
+CUSTOMER_SEGMENT_IDS | Stores the Customer Segment ID  
+EXTERNAL_NO_CACHE | A flag, which indicates whether caching is disabled or not.  
+FRONTEND | You sesssion ID on the server.  
+GUEST-VIEW | Allows guests to edit their orders.  
+LAST_CATEGORY | The last category you visited.  
+LAST_PRODUCT | The most recent product you have viewed.  
+NEWMESSAGE | Indicates whether a new message has been received.  
+NO_CACHE | Indicates whether it is allowed to use cache.  
+PERSISTENT_SHOPPING_CART | A link to information about your cart and viewing history if you have asked the site.  
+POLL | The ID of any polls you have recently voted in.  
+POLLN | Information on what polls you have voted on.  
+RECENTLYCOMPARED | The items that you have recently compared.  
+STF | Information on products you have emailed to friends.  
+STORE | The store view or language you have selected.  
+USER_ALLOWED_SAVE_COOKIE | Indicates whether a customer allowed to use cookies.  
+VIEWED_PRODUCT_IDS | The products that you have recently viewed.  
+WISHLIST | An encrypted list of products added to your Wishlist.  
+WISHLIST_CNT | The number of items in your Wishlist.  
+  
 ## How to contact us
 
-  
-If you have any questions about our online privacy policies or procedures, please contact us. We are prepared to address any concerns you may have about the privacy, safety and appropriateness of any material you see on our website.  
-
+If you have any questions about our online privacy policies or procedures, please [contact us](https://web.archive.org/contact). We are prepared to address any concerns you may have about the privacy, safety and appropriateness of any material you see on our website.
