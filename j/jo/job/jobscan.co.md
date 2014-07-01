@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jobscan.co privacy policy that was archived on 2014-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140212204222id_/http%3A//www.jobscan.co/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobscan.co privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701124454id_/http%3A//www.jobscan.co/privacy) for the most accurate reproduction.*
 
-# Optimize Your Resume | Jobscan
+# Privacy Policy | Jobscan
 
 ## Privacy Policy
 
