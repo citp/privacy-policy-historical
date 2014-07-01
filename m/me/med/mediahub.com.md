@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediahub.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327103807id_/http%3A//www.mediahub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediahub.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702001237id_/http%3A//www.mediahub.com/privacy-policy) for the most accurate reproduction.*
 
 # mediahub.com - Privacy Policy
 
