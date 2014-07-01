@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the writing-skills.com privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616011232id_/http%3A//www.writing-skills.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the writing-skills.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701173317id_/http%3A//www.writing-skills.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Emphasis
 
@@ -115,4 +115,4 @@ You can usually switch cookies off by adjusting your browser settings to stop it
 
 Please be aware though that turning off cookies will impair the performance of many websites.
 
-Cookie policy and audit created with the help of Attacat Internet Marketing http://www.attacat.co.uk/. If you would like more information, please [contact us](https://web.archive.org/web/20140616011232id_/http://www.writing-skills.com/contact/).
+Cookie policy and audit created with the help of Attacat Internet Marketing http://www.attacat.co.uk/. If you would like more information, please [contact us](https://web.archive.org/web/20140701173317id_/http://www.writing-skills.com/contact/).
