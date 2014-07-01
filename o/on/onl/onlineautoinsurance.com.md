@@ -1,14 +1,16 @@
-> *The following text is extracted and transformed from the onlineautoinsurance.com privacy policy that was archived on 2013-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130815215105id_/http%3A//www.onlineautoinsurance.com/Privacy_Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlineautoinsurance.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701054957id_/http%3A//www.onlineautoinsurance.com/Privacy_Policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Online Auto Insurance
 
-[](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.onlineautoinsurance.com&sealid=101)TZ Insurance Solutions, LLC  
+[ ](https://privacy.truste.com/privacy-seal/TZ-Insurance-Solutions,-LLC/validation?rid=446be482-5973-4886-8633-80a99d582bb2 "TRUSTe online privacy certification")
+
+TZ Insurance Solutions, LLC  
 8667 Haven Ave Ste 100  
 Rancho Cucamonga, Ca 91730  
 service@onlineautoinsurance.com  
-Privacy Statement (Last Update 02/13/2013)
+Privacy Statement (Last Update 10/01/2013)
 
-TZ Insurance Solutions, LLC has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) requirements including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site, www.onlineautoinsurance.com.
+TZ Insurance Solutions, LLC has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) requirements including transparency, accountability and choice regarding the collection and use of your personally identifiable information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site, www.onlineautoinsurance.com.
 
   1. What personally identifiable information TZ Insurance Solutioins, LLC collects.
   2. What personally identifiable information third parties collect through the Web site.
@@ -60,7 +62,7 @@ _Log Files and Cookies_
 
 The use of cookies by our service providers is not covered by our privacy statement. We do not have access or control over these cookies. Our service providers may use session ID cookies to make it easier for you to navigate their site. Please see their privacy statement for details on the use of cookies. 
 
-Our third party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site. We do [not] tie the information gathered to our Customers’ or Users’ personally identifiable information.
+Our third party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site. We do not tie the information gathered to our Customers’ or Users’ personally identifiable information.
 
  _Cookies_
 
@@ -97,4 +99,13 @@ f you use a bulletin board, blog, or Article, on this Web site, you should be aw
 
  _Changes to this Privacy Statement_
 
-If we decide to change our privacy policy, we will post those changes here and other places we deem appropriate so that you are aware. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here or by means of posting a prominent notice on our homepage. 
+If we decide to change our privacy policy, we will post those changes here and other places we deem appropriate so that you are aware. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here or by means of posting a prominent notice on our homepage prior to the change becoming effective. 
+
+**How to Contact Us**
+
+If you have any questions of concerns related to this Privacy Statement please contact us as follows:
+
+TZ Insurance Solutions,LLC  
+8667 Haven Ave Ste 100  
+Rancho Cucamonga, CA 91730  
+service@onlineautoinsurance.com
