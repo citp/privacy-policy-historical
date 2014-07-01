@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wildflowercases.com privacy policy that was archived on 2014-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140223013028id_/http%3A//www.wildflowercases.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wildflowercases.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701104122id_/http%3A//www.wildflowercases.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Wildflower cases
 
@@ -14,7 +14,9 @@ Information about your computer hardware and software may be automatically colle
 
 Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through Wildflower's public message boards, this information may be collected and used by others. 
 
-Wildflower encourages you to review the privacy statements of websites you choose to link to from Wildflower so that you can understand how those websites collect, use and share your information. Wildflower is not responsible for the privacy statements or other content on websites outside of the Wildflower website. 
+As you browse wildflowercases.com, advertising cookies will be placed on your computer so that we can understand what you are interested in. Our display advertising partner, AdRoll, then enables us to present you with retargeting advertising on other sites based on your previous interaction with wildflowercases.com. The techniques our partners employ do not collect personal information such as your name, email address, postal address or telephone number. You can visit this page (http://www.networkadvertising.org/choices/) to opt out of AdRoll and their partners’ targeted advertising.
+
+Wildflower encourages you to review the privacy statements of websites you choose to link to from Wildflower so that you can understand how those websites collect, use and share your information. Wildflower is not responsible for the privacy statements or other content on websites outside of the Wildflower website.
 
 **Use of your Personal Information**  
 
