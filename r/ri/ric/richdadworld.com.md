@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the richdadworld.com privacy policy that was archived on 2013-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130510214708id_/https%3A//www.richdadworld.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the richdadworld.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701134929id_/https%3A//www.richdadworld.com/privacy.html) for the most accurate reproduction.*
 
 # Rich Dad World PowerPack Privacy Statement | Rich Dad World PowerPack
-
-## Please review our privacy policy below
 
 The following discloses our information gathering and dissemination practices for www.richdadworld.com. The statement does not apply to our practices on other Web sites or offline. 
 
@@ -14,8 +12,8 @@ If we send you an e-mail, it will contain an opt-out link which you can click to
 
 Rich Dad Coaching  
 Attn: Quality Department  
-4255 Lake Park Boulevard   
-Salt Lake City, UT 84120   
+9020 South Sandy Parkway   
+Sandy, UT, 84070   
 Call us toll-free at: 1-877-524-8854
 
 ### Security
@@ -32,7 +30,7 @@ We use your IP address and other standard log file information to help diagnose 
 
 ### Cookies and Click Trail Information
 
-Our site uses cookies for a number of reasons, such as (a) to keep track of your shopping cart, (b) to recognize you when you return to our site and (c) to recognize whether a customer came to our site as a result of a promotion on one of our partners’ sites. Some of these cookies may be placed by our third party service providers to recognize when a user visits this site. The information collected and shared through this technology is non-personally identifiable. We also collect anonymous visitor information about how you utilize our site, such as IP addresses, browser types (such as Internet Explorer or Netscape), referring pages and pages visited. We use this information (a) to perform anonymous statistical analysis of Web page traffic patterns, (b) to administer our Web site and servers, and (c) to improve our services.
+Our site uses cookies for a number of reasons, such as (a) to keep track of your shopping cart, (b) to recognize you when you return to our site and (c) to recognize whether a customer came to our site as a result of a promotion on one of our partners’ sites. Some of these cookies may be placed by our third party service providers to recognize when a user visits this site. The information collected and shared through this technology is non-personally identifiable. We also collect anonymous visitor information about how you utilize our site, such as IP addresses, browser types (such as Chrome or Firefox), referring pages and pages visited. We use this information (a) to perform anonymous statistical analysis of Web page traffic patterns, (b) to administer our Web site and servers, and (c) to improve our services.
 
 ### Registration Form
 
@@ -59,5 +57,3 @@ This site contains links to other sites. www.richdadworld.com is not responsible
 Our business changes constantly. This privacy statement will change also, and use of information that we gather now is subject to the privacy and security statement in effect at the time of collection. You should check our Web site frequently to see recent changes. If, however, we are going to use users’ personally identifiable information in a manner different from that stated at the time of collection, we will notify users by posting a notice on our Web site for 30 days.
 
 If you have any questions about this privacy and security statement, the practices of this site, or your dealings with this Web site, please contact us using one of the methods above.
-
- 
