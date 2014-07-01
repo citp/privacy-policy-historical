@@ -1,125 +1,145 @@
-> *The following text is extracted and transformed from the earndit.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625044054id_/http%3A//earndit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earndit.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701065447id_/https%3A//higi.com/privacy) for the most accurate reproduction.*
 
-# Earndit Privacy Policy
+# Privacy Policy | higi
 
-Last updated on March 17, 2010   
+Effective Date: March 8th, 2013
 
+This Privacy Policy is incorporated by reference into higi’s [Terms of Use](https://web.archive.org/terms). The term “ **higi** ,” “ **we** ,” and “ **us** ” includes higi llc and our affiliates and subsidiaries. The Privacy Policy explains how higi may:
 
-ACKNOWLEDGMENT AND ACCEPTANCE OF TERMS   
+  * collect,
+  * use, and
+  * disclose
 
 
-Earndit, Inc. (“Earndit” or “we”) is committed to protecting your privacy as well as protecting personally identifiable information (“PII”). This Privacy Policy sets forth our current privacy practices with regard to the information we collect through the Earndit Rewards Program (the “Rewards Program”), or any time that you interact with our website.   
 
+information we obtain through the “higi Service.”
 
-By agreeing to participate in the Rewards Program or accessing [www.earndit.com](http://www.earndit.com/) ("Site"), you acknowledge and fully understand this Privacy Statement ("Statement"), agree to be bound by the terms contained in this Statement, and freely consent to the information collection and use practices described in this Statement.   
+The “ **higi Service** ” means any websites, mobile applications, and other services under the control of higi llc, whether partial or otherwise, in connection with providing an online or digital platform for higi’s services, including www.higi.com and higi kiosks. The higi Service provides a platform that gives you the ability to store and track your own personal information, including certain health-related information.
 
+“ **Personal Information** ” means information that alone or when in combination with other information may be used to readily identify, contact, or locate you, such as: name, address, email address, or phone number. We do not consider Personal Information to include information that has been anonymized so that it does not allow a third party to easily identify a specific individual.
 
-Each of the individual programs has specific terms and conditions. By agreeing to participate in any of our Programs, you acknowledge and fully understand the terms and conditions specific to that program, agree to be bound by the terms of that program and freely consent to the use practices as set forth in those terms and conditions. The terms and conditions for each of the Programs can be found at [www.earndit.com](http://www.earndit.com/). Please review the specific terms and conditions that apply to the program for which you have chosen to participate.   
+“ **Body Measurements** ” means statistics, such as weight, Body Mass Index (BMI), blood pressure and pulse measurements, and other similar information, that we collect about you when you use the higi Service. We do not consider Body Measurements to be Personal Information unless the data is combined with Personal Information.
 
+THE HIGI SERVICE COLLECTS YOUR INFORMATION
 
-If you do not agree with the terms in this Statement or the terms and conditions specific to the program of your choice, please cease participation in the Programs and do not access or use the Site.   
+We collect Personal Information when you: 
 
+  * register to use the higi Service; 
+  * connect your social media account;
+  * use the higi Service; and
+  * communicate with us. 
 
-INFORMATION COLLECTED   
 
 
-Earndit uses both personal and non-personal information to provide you with a superior user experience and, as necessary, to administer our business. For example, we collect information that allows us to:   
+We and third parties that provide functionality on the higi Service collect information, such as anonymous usage statistics, by using cookies, server logs, and other similar technology as you use the higi Service. This information may be used to improve the quality of the higi Service and provide relevant advertisements.
 
+**Personal Information Collection.** You must register to use the higi Service. To register, you may need to provide Personal Information, such as your name, email address, zip code, gender, and birthday. You may also provide other optional profile information such as your profile photo, your postal address.
 
-* reward participants in the Rewards Program for certain activities including exercising;
+**Social Media Connection.** We collect Personal Information from social media websites, such as Facebook or Twitter, when you connect to your higi account using your social media account. For example, when you log in with your Facebook credentials, we may collect Personal Information from Facebook, such as your email address, profile picture, and friend list.
 
-* provide a more personalized experience;
+**Using the higi Service.** We collect information from you as you use the higi Service. For example, we collect the Body Measurements generated from your use of a higi kiosk and the location of that higi kiosk. You may also be able to post photographs to your activity feed.
 
-* authenticate a user’s identity;
+**Customer Support.** We may collect Personal Information through your communications with our customer-support team. 
 
-* promote partners and vendors who support the Earndit Programs;
+**Location Information from Your Mobile Device.** We may collect and store your location information if you enable your mobile device to send it to us. Collection of this information may improve the provision of the higi Service. For example, we can help you find the nearest higi kiosk.
 
-* conduct research and perform analysis in order to measure, maintain, protect, develop, and improve services;
+**Cookies, Automatic Data Collection, and Related Technologies.** When you visit the higi Service, we and third parties that provide certain functionality on the higi Service, such as Facebook, Twitter, Google, and ad networks may engage, receive and record information from higi kiosks and server logs from your browser, including your IP address, and from cookies and similar technology. This information is used to improve the quality of the higi Service, such as to store your preferences, customize the higi Service, and provide more relevant advertising. higi will not share individualized Body Measurements for use in advertising and personalization outside of the higi Service without your permission. 
 
-* administer sweepstakes, contests, promotions, or surveys;
+Cookies are small text files placed in visitors’ computer browsers to store their preferences. Most browsers allow you to block and delete cookies. However, if you do that, the higi Service may not work properly.
 
-* communicate with you about special offers, events, or new products or services;
+By using the higi Service, you are authorizing us to gather, parse, and retain data related to the provision of the higi Service.
 
-* customize and enhance our Site and advertising.   
+HOW HIGI USES YOUR INFORMATION
 
+We use Personal Information to 
 
-In order to participate in any of our Programs, you agree that Earndit may record certain information about you. From time to time participants will be asked for PII such as demographics (age, income, etc), psychographics (what you like to purchase, etc) and interests. Submission of this information is entirely voluntary and may qualify you for additional rewards Points earning opportunities. In addition, Earndit records content, such as text, images, pictures, and profile information, which you submit or upload to the Site. User images and screen names that you upload to the Site or select will be displayed in order to identify you, both to yourself and to other participants.   
+  * facilitate and improve our services; and
+  * communicate with you.
 
 
-Before you begin participation in any of our Programs, you will need to activate your account.    
 
+We may use information for marketing purposes, but we will not rent, sell, or share Personal Information for third parties to directly market to you, and we will not share Body Measurements for off-site marketing purposes unless we obtain your consent.
 
-Earndit does not rent or sell members’ PII or program activity with anyone without a member’s expressed consent.   
+We may use anonymous and aggregate information for any purpose, including for marketing purposes.
 
+**Internal and Service-Related Usage.** We use information, including Personal Information, for internal and service-related purposes only and may provide it to third parties to allow us to facilitate the higi Service. We may use and retain any data we collect to provide and improve our services.
 
-We reserve the right to report to law enforcement agencies any activities that we, in good faith, believe to be unlawful.   
+**Photos Posted to the higi Service.** You may post photos to the higi Service to document your lifestyle and for higi to provide information about the content you post. For example, you may post a photo of a meal you ate, the physical activities you performed, and the friends you were around. When you post photos, our employees and service providers may review them to categorize and add information about them. Photos will be publicly available, so do not post any photos that you want to keep private.
 
+**Communications.** We may send email to the email address you provide to us to verify your account and for informational and operational purposes, such as account management, customer service, or system maintenance.
 
-When you visit our Site, we track information to administer the Site and analyze its usage. Examples of information we may track include, but are not limited to:   
+**Marketing.** We do not rent, sell, or share Personal Information about you with other people or nonaffiliated companies for their direct marketing purposes, unless we have your permission. We also do not provide any Personal Information to any third-party ad networks. We also may use your Personal Information and other information to communicate with you by email or text message to provide you with information we think may be of interest to you. We will send you text messages only with your consent, and you may opt out of emails by using the opt-out link in an email. 
 
+To support the higi Service, which we provide at no cost to you, we may use Body Measurements and data collected through cookies and similar technology to deliver higi and third-party interest-based advertising to you on and off the higi Service. We will obtain your permission before we provide individualized Body Measurement data to third-party ad networks to deliver third-party interest-based advertising outside of the higi Service. Please note, and you agree, that higi may personalize your experience, including by showing you advertising, on the higi Service using Body Measurements and any other data we learn about you. You may change your preferences related to the use of information for advertising purposes on other websites and services by visiting our [Privacy Preferences web page].
 
-* Your Internet protocol address;
+**Aggregate Data.** We may anonymize and aggregate data collected through the higi Service and use it for any purpose. Such information does not identify you individually.
 
-* The kind of browser or computer you use;
+HIGI MAY DISCLOSE YOUR INFORMATION
 
-* Number of links you click within the site;
+We may share your information:
 
-* State or country from which you access the site;
+  * with our third-party service providers;
+  * with other users or to social networks, at your direction;
+  * to comply with legal obligations;
+  * to protect and defend our rights and property; and
+  * with your permission.
 
-* Date and time of your visit;
 
-* Name of your Internet service provider;
 
-* Web pages from which you link to our site;
+We do not rent, sell, or share Personal Information about you with other people or nonaffiliated companies for their direct marketing purposes, unless we have your permission. We may share anonymous Body Measurements and other information with third parties for marketing purposes.
 
-* Web pages you go to from our site; and
+**We Use Vendors and Service Providers.** We may share any information we receive with vendors and service providers retained in connection with the provision of the higi Service.
 
-* Pages you view on our site.   
+**Displaying to Other Users.** The content you post to the higi Service may be displayed on the higi Service to other users. Other users of the higi Service also may be able to see some information about you that you have included in your profile, such as your first name, the first initial of your last name, city, state, and profile photo. When you choose to share Body Measurement information this information may be accessible to other users. We are not responsible for privacy practices of the other users who will view and use the posted information. 
 
+**Social Networking and Other Website Services.** The higi Service may allow you to share information, including Personal Information, with third-party services and social networking websites, such as Facebook and Twitter. We do not share your Personal Information with them unless you direct the higi Service to share it. Their use of the information will be governed by their privacy policies, and you may be able to modify your privacy settings on their websites.
 
-We use cookies to personalize or enhance your user experience and to facilitate the tracking of session and cross session activities. A cookie is a small text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.   
+**As Required By Law and Similar Disclosures.** We may access, preserve, and disclose your Personal Information, other account information, and content if we believe doing so is required or appropriate to: comply with law enforcement requests and legal process, such as a court order or subpoena; respond to your requests; or protect yours’, ours’ or others’ rights, property, or safety.
 
+**Merger, Sale, or Other Asset Transfers.** If we are involved in a merger, acquisition, financing due diligence, reorganization, bankruptcy, receivership, sale of company assets, or transition of service to another provider, your information may be sold or transferred as part of such a transaction as permitted by law and/or contract. We cannot control how such entities may use or disclose such information.
 
-One of the primary purposes of cookies is to provide a convenience feature to save you time. For example, if you personalize a web page, or navigate within a site, a cookie helps the site to recall your specific information on subsequent visits. Hence, this simplifies the process of delivering relevant content and eases site navigation by providing and saving your preferences and login information as well as providing personalized functionality.   
+We may also disclose your Personal Information with your permission.
 
+SECURITY OF YOUR INFORMATION
 
-The type of information that may be stored in a cookie includes non-PII about you. Some examples may include a randomly assigned user or session identification number, the country where you are located, and your first name to welcome you back to the site.   
+We take steps to ensure that your information is treated securely and in accordance with this Privacy Policy. Unfortunately, the Internet cannot be guaranteed to be 100% secure, and we cannot ensure or warrant the security of any information you provide to us. We do not accept liability for unintentional disclosure.
 
+By using the higi Service or providing Personal Information to us, you agree that we may communicate with you electronically regarding security, privacy, and administrative issues relating to your use of the higi Service. If we learn of a security system’s breach, we may attempt to notify you electronically by posting a notice on the higi Service or sending an email to you. You may have a legal right to receive this notice in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice), please notify us at support@higi.com.
 
-We reserve the right to share aggregated site statistics with third parties, but will not allow other companies to place cookies on our website unless there is a temporary, overriding customer value (such as merging into our Site another site that relies on third-party cookies).   
+CHILDREN’S PRIVACY
 
+We do not knowingly collect information from children under 13 and we do not want it. We will take steps to delete it if we learn we have collected it.
 
-You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you reject cookies by changing your browser settings then be aware that this may affect the functionality of our Site.   
+We do not knowingly collect, maintain, or use Personal Information from children under 13 years of age, and no part of the higi Service is directed to children under the age of 13. If you learn that your child has provided us with Personal Information without your consent, you may alert us at support@higi.com. If we learn that we have collected any Personal Information from children under 13, we will promptly take steps to delete such information and terminate the child’s account.
 
+INTERNATIONAL USERS
 
-HOW INFORMATION IS USED   
+By using the higi Service, you will transfer data to the United States.
 
+By choosing to visit the higi Service or otherwise provide information to us, you agree that any dispute over privacy or the terms contained in this Privacy Policy will be governed by the law of the state of Illinois and the adjudication of any disputes arising in connection with Company or the higi Service will be in accordance with the [Terms of Use](https://web.archive.org/terms).
 
-Earndit may use data collected about you to send relevant offers and information that may be of interest to specific Earndit participants, to alert you when you earn Points, and, generally, to administer the Site and the Earndit Rewards Program.   
+**If you are visiting from the European Union or other regions with laws governing data collection and use, please note that you are agreeing to the transfer of your information to the United States and processing globally. By providing your information you consent to any transfer and processing in accordance with this Policy.**
 
+UPDATE YOUR INFORMATION OR POSE A QUESTION OR SUGGESTION
 
-The Site and emails we send you may contain links to other websites. We are not responsible for the content or privacy practices of those websites, including the use of PII about Earndit members collected by those websites.   
+If you have any questions or concerns about this Privacy Policy or the use of your information, or to modify or update any information we have received, please contact privacy@higi.com.
 
+**Data Retention.** We will retain your information for as long as your account is active or as needed to provide you the higi Service. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-SALE OF EARNDIT OR ITS ASSETS   
+**Account Deactivation and Deletion.** If you no longer desire to use the higi Service, you may deactivate or delete your account by sending us an email to support@higi.com. Deactivating your account puts your account on hold and is the same as you telling us not to delete any information because you might want to reactivate your account at some point in the future. When you delete an account, you are requesting that your account and the information stored therein be permanently deleted from the higi Service. It typically takes about one month to delete an account and all associated information, but some information may remain in backup copies and logs for up to 90 days. You should only delete your account if you are sure you never want to reactivate it. We wait 90 days before permanently deleting your account information in order to help avoid accidental or malicious removal of your information. Please note, certain data you have provided may continue to exist in aggregate form that cannot be used to identify you.
 
+CHANGES TO OUR PRIVACY POLICY AND PRACTICES
 
-If Earndit or all or substantially all of its assets are sold to a third party or parties, we may transfer Earndit member’s data to those parties as part of the transaction. In the event of such a transaction, we will make sure that the acquiring entities are bound by the terms of this Privacy Policy.   
+We may revise this Privacy Policy, so review it periodically.
 
+**Posting of Revised Privacy Policy.** We may update this privacy policy to reflect changes to our information practices. If we make any change in how we use Personal Information we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on the higi Service prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
-WEBSITE SECURITY   
+**New Uses of Personal Information.** From time to time, we may desire to use Personal Information for uses not previously disclosed in our Privacy Policy. If our practices change regarding previously collected Personal Information in a way that would be materially less restrictive than stated in the version of this Privacy Policy in effect at the time we collected the information, we will make reasonable efforts to provide notice and obtain consent to any such uses as may be required by law.
 
+**Contact Information**
 
-The security of the PII that we collect is of the utmost importance to us. We take all commercially reasonable steps to secure your PII. Reasonable physical, electronic, and managerial procedures to safeguard the information we collect has been implemented and is updated periodically as we deem necessary. With this in mind, we limit access to PII to only those employees and contractors who need access in order to perform their duties.   
+higi llc  
+350 N. Orleans St.  
+Chicago, IL 60654
 
-
-CHANGES TO THIS PRIVACY POLICY   
-
-
-We have the discretion to update this Privacy Policy at any time. When we do, we will also revise the “updated” date at the top of this Privacy page. We encourage you to periodically review this Privacy Policy to stay informed about how we are helping to protect the PII we collect. You acknowledge and agree that it is your responsibility to review this Privacy Policy periodically and become aware of modifications. Your continued use of this site or participation in any of the Programs constitutes your agreement to this Privacy Policy and any updates.   
-
-
-CONTACT US   
-
-
-If you have any questions about this Privacy Policy or our Site, please email us at thecrew@earndit.com.
+support@higi.com 
