@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homehousedesign.com privacy policy that was archived on 2014-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140217011650id_/http%3A//www.homehousedesign.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homehousedesign.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701163830id_/http%3A//www.homehousedesign.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - HomeHouseDesign.Com
 
