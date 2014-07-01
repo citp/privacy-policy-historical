@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myhermes.co.uk privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209163248id_/https%3A//www.myhermes.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myhermes.co.uk privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701052336id_/https%3A//www.myhermes.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
 # myHermes - Privacy policy
 
@@ -29,6 +29,8 @@ Here is a list of the cookies we use, and what they are used for:
   * **Session Identifier** (JSESSIONID) - this session cookie is essential. It ensures that message exchanges with the server can be related. It is removed when the browser is closed.
   * **Cookie Consent** (showCookieMessage) - This cookie remembers whether the banner explaining our use of cookies has already been shown.
   * Returning User (returningUser) - This helps us identify if the customer has been to our site before and is shown login options rather than sign up options.
+  * Last Visited (lastVisited) - This helps us to identify when the customer last visited the site so we can tell them about new features released since their last visit.
+  * Show New Changes (showChangesAlert) - this lets us know that the customer has seen the new changes and has opted to not be shown the same change message again.
 
 
 
