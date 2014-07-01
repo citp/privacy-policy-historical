@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the allied.com privacy policy that was archived on 2014-02-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140222191320id_/http%3A//allied.com/privacy-policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the allied.com privacy policy that was archived on 2014-07-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140701111429id_/http%3A//www.allied.com/privacy-policy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><title>
 	Privacy Policy
 </title><meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <!-- WiderFunnel Landing Page Script -- NAV002-FE2-->
-    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//www.gstatic.com/wcm/loader.js"></script><script type="text/javascript" async="" src="https://c1894.ic-live.com/pixel-js/c1894-pixel.js"></script><script src="//cdn.optimizely.com/js/189934511.js"></script>
+    <script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="//www.gstatic.com/wcm/loader.js"></script><script type="text/javascript" async="" src="https://c1894.ic-live.com/pixel-js/c1894-pixel.js"></script><script src="//cdn.optimizely.com/js/189934511.js"></script>
     <!-- /NAV002-FE2-->
    
     <!-- All CSS Links -->
@@ -60,12 +60,22 @@
     <script type="text/javascript">
         window.onload = function () {
             var isppc = "False";
-            if (isppc == "True") {
+            _googWcmGet('number', '1-800-444-6787');
+            var num = document.getElementById('number');
 
+            if (isppc == "True" && num.innerHTML == '1-800-444-6787') {
+
+                num.innerHTML = document.getElementById('hidPhone').innerHTML;
                 var ahref = document.getElementById('phone-link');
-                var num = "18004446787";
-                var phone = "tel:+" + num;
-                ahref.href = phone;
+                ahref.href = "tel:+" + "18004446787";
+            }
+            else if (isppc == "True") {
+		var ahref = document.getElementById('phone-link');
+		ahref.href = "tel:+" + num.innerHTML;
+		}
+            if (document.URL.indexOf("walgreens") >= 0) {
+                var phonediv = document.getElementById('phone-div');
+                phonediv.innerHTML = "Call 1-866-864-5971 <span>to start your free quote!</span>";
             }
         };
 
@@ -110,7 +120,7 @@ if (isppc == "True" && testvar != "" && testvar != '*')
     })();
 </script>
 
-<script type="text/javascript">(function(b,f,d,h,a,k,c,l){b[d]=b[d]||function(){(b[d].q=b[d].q||[]).push(arguments)};a=f.createElement(h);a.async=1;a.src="//www.gstatic.com/wcm/loader.js";c=f.getElementsByTagName(h)[0];c.parentNode.insertBefore(a,c);b._googWcmGet=function(e,a,g){k=function(){if(e)if("function"==typeof e)e(a);else if(c=f.getElementById(e))c.innerHTML="",c.appendChild(f.createTextNode(a))};l=b.setTimeout(k,g&&g.timeout?g.timeout:5E3);b[d](1,e,{ak:"998552662",cl:"100",cv:"200"},a,l,new Date,g)}})(window,document,"_googWcmImpl","script");</script>
+<script type="text/javascript">(function(a,e,c,f,g,b,d){var h={ak:"990562957",cl:"100",cv:"200"};a[c]=a[c]||function(){(a[c].q=a[c].q||[]).push(arguments)};a[f]||(a[f]=h.ak);b=e.createElement(g);b.async=1;b.src="//www.gstatic.com/wcm/loader.js";d=e.getElementsByTagName(g)[0];d.parentNode.insertBefore(b,d);a._googWcmGet=function(b,d,e){a[c](2,b,h,d,null,new Date,e)}})(window,document,"_googWcmImpl","_googWcmAk","script");</script>
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -123,43 +133,40 @@ if (isppc == "True" && testvar != "" && testvar != '*')
 
 </script>
 
-<!-- Google Code for Mobile Calls on Website Conversion Page In your html page, add the snippet and call goog_report_conversion when someone clicks on the phone number link or button. --> <script type="text/javascript">
-   /* <![CDATA[ */
-   goog_snippet_vars = function() {
-     var w = window;
-     w.google_conversion_id = 990562957;
-     w.google_conversion_label = "yW3vCPOQwAcQjZWr2AM";
-     w.google_conversion_value = 5;
-     w.google_remarketing_only = false;
-   }
-   // DO NOT CHANGE THE CODE BELOW.
-   goog_report_conversion = function(url) {
-     goog_snippet_vars();
-     window.google_conversion_format = "3";
-     window.google_is_call = true;
-     var opt = new Object();
-     opt.onload_callback = function() {
-     if (typeof(url) != 'undefined') {
-       window.location = url;
-     }
-   }
-   var conv_handler = window['google_trackConversion'];
-   if (typeof(conv_handler) == 'function') {
-     conv_handler(opt);
-   }
-}
-/* ]]> */
-</script>
-<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion_async.js">
-</script>
 
 
-<meta name="Generator" content="Sitefinity 5.2.3700.0 PU"><link href="/Telerik.Web.UI.WebResource.axd?compress=0&amp;_TSM_CombinedScripts_=%3b%3bTelerik.Web.UI%2c+Version%3d2012.2.607.40%2c+Culture%3dneutral%2c+PublicKeyToken%3d121fae78165ba3d4%3aen%3a767fb6c3-728b-40e9-af4d-abc498bcae6e%3a580b2269%3bTelerik.Web.UI.Skins%2c+Version%3d2012.2.607.40%2c+Culture%3dneutral%2c+PublicKeyToken%3d121fae78165ba3d4%3aen%3a4b54c6d7-e7a5-482b-9e15-94b493c9591a%3a6c8ef648" type="text/css" rel="stylesheet"></head>
+<script src="//cdn.optimizely.com/js/793123362.js"></script>
+
+<meta name="Generator" content="Sitefinity 5.2.3700.0 PU"><link href="/Telerik.Web.UI.WebResource.axd?compress=0&amp;_TSM_CombinedScripts_=%3b%3bTelerik.Web.UI%2c+Version%3d2012.2.607.40%2c+Culture%3dneutral%2c+PublicKeyToken%3d121fae78165ba3d4%3aen%3a767fb6c3-728b-40e9-af4d-abc498bcae6e%3a580b2269%3bTelerik.Web.UI.Skins%2c+Version%3d2012.2.607.40%2c+Culture%3dneutral%2c+PublicKeyToken%3d121fae78165ba3d4%3aen%3a4b54c6d7-e7a5-482b-9e15-94b493c9591a%3a6c8ef648" type="text/css" rel="stylesheet"><meta name="description" content="View Our Privacy Policy"></head>
 <body>
     <form method="post" action="privacy-policy.aspx" id="form1">
+<div class="aspNetHidden">
 <input type="hidden" name="ctl15_TSM" id="ctl15_TSM" value="">
+<input type="hidden" name="__LASTFOCUS" id="__LASTFOCUS" value="">
 <input type="hidden" name="ctl16_TSSM" id="ctl16_TSSM" value="">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUIMTgyNDI4OTBkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYCBTRjdGwwMCRicmVhZGNydW1iJFRGMjc0Qzk5MzAxMyRjdGwwMCRjdGwwMCRCcmVhZGNydW1iBTZjdGwwMCRyZXZpZXdzX21vZCRURjI3NEM5OTMwMTckQ29udGludWVxdW90ZTEkb3B0TG93ZXMkRp5ztTKj1GO/kD4D9EWYaU6nQX3ZowFTTer33UMGww==">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUIMTgyNDI4OTBkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYCBTRjdGwwMCRicmVhZGNydW1iJFRGMjc0Qzk5MzAxMyRjdGwwMCRjdGwwMCRCcmVhZGNydW1iBTZjdGwwMCRyZXZpZXdzX21vZCRURjI3NEM5OTMwMTckQ29udGludWVxdW90ZTEkb3B0TG93ZXOvPLLEYx9X6Xg5AYsSVfl/IpKGOhbPSZ9B5d7vAQTutQ==">
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=ocKaabuxq9edq5JKmShosHm6DIK407w_yGdFTrXaczge_FSSnAMk0OL51RK1ScjH4w_9hGY1-bhpEVbRJqvQpUPK9JQmSrwQyiPycKtye781&amp;t=634773866700000000" type="text/javascript"></script>
 
 
 <script type="text/javascript">
@@ -167,16 +174,25 @@ if (isppc == "True" && testvar != "" && testvar != '*')
 var __cultureInfo = {"name":"en","numberFormat":{"CurrencyDecimalDigits":2,"CurrencyDecimalSeparator":".","IsReadOnly":true,"CurrencyGroupSizes":[3],"NumberGroupSizes":[3],"PercentGroupSizes":[3],"CurrencyGroupSeparator":",","CurrencySymbol":"$","NaNSymbol":"NaN","CurrencyNegativePattern":0,"NumberNegativePattern":1,"PercentPositivePattern":0,"PercentNegativePattern":0,"NegativeInfinitySymbol":"-Infinity","NegativeSign":"-","NumberDecimalDigits":2,"NumberDecimalSeparator":".","NumberGroupSeparator":",","CurrencyPositivePattern":0,"PositiveInfinitySymbol":"Infinity","PositiveSign":"+","PercentDecimalDigits":2,"PercentDecimalSeparator":".","PercentGroupSeparator":",","PercentSymbol":"%","PerMilleSymbol":"‰","NativeDigits":["0","1","2","3","4","5","6","7","8","9"],"DigitSubstitution":1},"dateTimeFormat":{"AMDesignator":"AM","Calendar":{"MinSupportedDateTime":"\/Date(-62135575200000)\/","MaxSupportedDateTime":"\/Date(253402300799999)\/","AlgorithmType":1,"CalendarType":1,"Eras":[1],"TwoDigitYearMax":2029,"IsReadOnly":true},"DateSeparator":"/","FirstDayOfWeek":0,"CalendarWeekRule":0,"FullDateTimePattern":"dddd, MMMM dd, yyyy h:mm:ss tt","LongDatePattern":"dddd, MMMM dd, yyyy","LongTimePattern":"h:mm:ss tt","MonthDayPattern":"MMMM dd","PMDesignator":"PM","RFC1123Pattern":"ddd, dd MMM yyyy HH\u0027:\u0027mm\u0027:\u0027ss \u0027GMT\u0027","ShortDatePattern":"M/d/yyyy","ShortTimePattern":"h:mm tt","SortableDateTimePattern":"yyyy\u0027-\u0027MM\u0027-\u0027dd\u0027T\u0027HH\u0027:\u0027mm\u0027:\u0027ss","TimeSeparator":":","UniversalSortableDateTimePattern":"yyyy\u0027-\u0027MM\u0027-\u0027dd HH\u0027:\u0027mm\u0027:\u0027ss\u0027Z\u0027","YearMonthPattern":"MMMM, yyyy","AbbreviatedDayNames":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"ShortestDayNames":["Su","Mo","Tu","We","Th","Fr","Sa"],"DayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"AbbreviatedMonthNames":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec",""],"MonthNames":["January","February","March","April","May","June","July","August","September","October","November","December",""],"IsReadOnly":true,"NativeCalendarName":"Gregorian Calendar","AbbreviatedMonthGenitiveNames":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec",""],"MonthGenitiveNames":["January","February","March","April","May","June","July","August","September","October","November","December",""]},"eras":[1,"A.D.",null,0]};//]]>
 </script>
 
-<script src="/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=ctl15_TSM&amp;compress=0&amp;_TSM_CombinedScripts_=%3b%3bSystem.Web.Extensions%2c+Version%3d4.0.0.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d31bf3856ad364e35%3aen%3a1f68db6e-ab92-4c56-8744-13e09bf43565%3aea597d4b" type="text/javascript"></script>
+<script src="/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=ctl15_TSM&amp;compress=0&amp;_TSM_CombinedScripts_=%3b%3bSystem.Web.Extensions%2c+Version%3d4.0.0.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d31bf3856ad364e35%3aen%3ac9cbdec3-c810-4e87-846c-fb25a7c08002%3aea597d4b%3ab25378d2" type="text/javascript"></script>
 <script type="text/javascript">
 //<![CDATA[
 if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax client-side framework failed to load.');
 //]]>
 </script>
 
-<script src="/ScriptResource.axd?d=QP34tiScxyma2gFu3hmjxhoK5gYkRJc85wRUwh9fxKTsUCz8WcHeHU1HqrR0GSL1bRR2cFwAwYS_3uMv_c7tOgbP7b3Mo5QrpuScQ9EWatN4Sxb836i0xuqn3nWWpAOnnyvMpEC88stkw758b4Yucr2tDnsIu0MgRuBHiVL57SBTjp5-28UmNGC20cWaqlGj0&amp;t=ffffffff98a2a589" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=qMWy64G_PRFqY4DgvIZreSxlf0QYI4JyqV71HW-X1fOvKExZbdS_iLxOqOg2x-GCrAk2sWliRQw1SV_X-JdfmoEcgj1OK_1uR33jdKDt3j0pvZZAgSibJLzDiGqNQMvmE3jhoCznNiBOi8C5V9BEYphuKRUq7oRS75nHpVuKmohAn433In3bxbC2J6vilNFt0&amp;t=ffffffffc9396405" type="text/javascript"></script>
 <script src="/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=ctl15_TSM&amp;compress=0&amp;_TSM_CombinedScripts_=%3b%3bTelerik.Web.UI%2c+Version%3d2012.2.607.40%2c+Culture%3dneutral%2c+PublicKeyToken%3d121fae78165ba3d4%3aen%3a767fb6c3-728b-40e9-af4d-abc498bcae6e%3aa1a4383a" type="text/javascript"></script>
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWUwLSzPTTAgKszs6DBwLa95LJDwLr0KjDBgL3n435BQK0vsD4BQLj+I2OBQLniYGmDQLO3oKmDQKh5/ynDQKUoNgmAous5aAGAtzNz/IDAt/Gz/IDApb47o0GApCToc8KAtDjnqoLAo+MpNoHAo+MoNoHAo+MnNsHAo+M/NoHAo2MuNoHAo2MsNoHAo2MxNoHAoyMiNoHAoyMgNoHAoqMpNoHAomMuNoHAriM2NoHAreMhNoHAreMpNoHAreMrNoHAreMuNoHArWMwNoHArWMmNsHArSMuNoHArOMiNoHArOMhNoHArOMuNoHArOM2NoHArOMrNoHArOMwNoHArOMsNoHArOMxNoHArKMiNoHArKMzNoHArKM1NoHArKM3NoHArKMqNoHArKMmNsHArKMgNoHArKMhNoHArGM1NoHArGMoNoHArGM/NoHAqCMuNoHAr6M2NoHAr2MgNoHAr2MhNoHAryMrNoHAryMlNsHAruMxNoHArqMxNoHArqMuNoHArmMuNoHArmMzNoHArmM2NoHArmMmNsHAqu2m9gNAtqfiKANAuyBk5wNAt+RkPkJAsPetcMKAoD/+MIKAte5tbQKAtPIuZwCAvqfupwCApWmxJ0CAqDh4JwPAr/t3ZoJAuiM98gMAuuH98gMAuLD6rELuTJAPR70oQfYZFc1v5iOl4lV3CtXYQrrLn1dy2lIwms="><input type="hidden" name="ctl00$ctl15" id="ctl15">
+<script src="/WebResource.axd?d=yGa36dMECtjLOJDEaU6z4VIvX7Lm5wqjfDiUNh7HoWOTALaEUrwR574-GLWLyVxXQYtvkqj2kLoN1cddXNIY2CVF0LsOmS0vCf_qsAWHzL81&amp;t=634773866700000000" type="text/javascript"></script>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAFObhLI+ZFSjsBP5k2QZODB2Z+gPxDYtPoHE1jwh8jfeQmbnuqoDJ+sUs+16wssI5m1Up5wqc+gqEtBEoiraij+BLE1Ww4Xw5tvMqliP6TOYTGbfalvCYjyIL3D+hcdyZfxkG6so7zpQravYYdQRhNWgV4lsQWnlryxl3A7njPEf+UgTId/zGhKGbz+D5xXyqEe+TAhso3ggZytTWqmjM3vopEsgXwzelezbxtaTGuCMkb7j5Wvbg/ldUk8CSP9YxTziNTM41ZmT20iu9XexY6Vy6IB5WjoLy8zaxcJsPYP1jENDqBlpMHHweoOICrM0EcmIyL3jktB0VWH9xACyW+JkOuW/vOhvPRER9DNvny0jMS44ZKhP77gLMLd30xQsftpWJBzDNhQfof+tD3KIB9fXYqe+x/LdN/EV4h1g71FwQ9k112FvJ28j+ZmjB3r3KvWj471JNmp3xi7e1ysnxZzsVoEsmSqKFYJkTm1BlGuc524Q7OmipswS6vQzA29YQbTxX79kquS5DbkjjuEp6Rb5tu2Lj7ROL6GgJMioqKt9tcT5Bo1GEJaEJZnfnyBDSDOR79RAjQ86lsY0QZIP1W0VCbEa0cmIt6Kpg9zRo1XLe4uXeWtsTwJeVW02mhOJo+3Fq8HQaxTQfecUbm2gPw+M/r6k7e+c4n1gx/c894gWKLce84u9Re7x7bgjW4x3KQvZ7smtnRUxCaZ8HulsEmTpGan/aTzZcOfJ/x9I6MRN2c+xDB0uXATNRJZv0T1a6tlid2Zq3v71P0GHcBpdfUxAzpXf8SwBrgRak2pTCoCqcc14DOrIAmmJRB9it2hx+8RNmb5L3n4LZFGZlvC/qoNKCOwQgju6h4tOiPArsrjlDjppGb/dvmkt/o/lXRiHofoXmiMJf7PhZxzKeDUJgzc08i+tpDXGljZo1kBhYAmVK88Icptdz7UGLOXT0pkQvopcHWJrbNvgNXtDyzMx5GZcBDzt/BjzprH5y417Vrm3lhkRkkOZDH/i2zGTNpLlQ5O3dKeL9nLQ4J0s0IUbzZo35PJwyKSjxt9bpuh0o158YzRAQLz+BpTE+JCaaUEUevzPs4Tc2Rq9tMwNC0ap0AJmikdL8G5iKBVQBYdxATrpGFZhklYK1nZIrzdap+jKbc4Z4FEQp/UtpZE5nOpNZVYibQnmiPgPlxZ0x2cawt1r/8+Yieomk76uhNGaqJG7bWuRGhbnzOogfIsVO10HyJcWYrE94epgCqJqCyewAUDJmt3PvrXoxo2ppzV+gdlORJ7q7lRfW/As75baQ72TaOOKUVuIkTY3JGODBsb4hGoPuEVXqgHPT/eroY/mFS9KCDBu1dvyuJlJDCpGWivyrzB2tUbzB7Aj1UIwu0kfx9I85YlmX3LQYWmK8sY5u4GqmPWe7GGImTxOmU2aiyo2iXY/PGofQJ+d/Pks4rS5oRUJ6FipIcCZnBBnH0KKdT4hb6i1wUbZtryKeY/W5dstJUj+UFq6XGfbCc9v6nk/rYD32JZ0WZkn1gX9U25eZ6EAitrUgjfOwRb+7S4XVucVb0KAwXsi2I39JK7dbxXCLB98Agf3Sb05VlDqkcNzpfBo81mpAcPtYJLyAiog8sCoI8HHQj9T3dDDrMgZcYr4HyoPhkPskjHgUhG9QuWOmO80B+FPJwxQEXD0xBnp5wAnHR2hyjyf+Jsq0haZH/MpwDSiIOyVY33HB8TNkx8ExQjNtbfdEuTuihE14aBoYK8tyim6yT2Vh6rboTOrZ8FX6idGaAmzqav7H5zLjnm1Cxmt/P/WFgaJUWj0zvMlJ+tcudUT">
+</div><script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$ctl15', 'form1', [], [], [], 90, 'ctl00');
+//]]>
+</script>
+<input type="hidden" name="ctl00$ctl15" id="ctl15">
 <script type="text/javascript">
 //<![CDATA[
 Sys.Application.setServerId("ctl15", "ctl00$ctl15");
@@ -279,7 +295,7 @@ Sys.Application._enableHistoryInScriptManager();
     <span id="breadcrumb_TF274C993013_ctl00_ctl00_BreadcrumbLabel" class="sfBreadcrumbLabel" style="display:none;"></span>
     <div id="ctl00_breadcrumb_TF274C993013_ctl00_ctl00_Breadcrumb" class="RadSiteMap RadSiteMap_Sitefinity">
 		<!-- 2012.2.607.40 --><ul class="rsmFlow rsmLevel rsmOneLevel">
-			<li class="rsmItem sfNoBreadcrumbNavigation"><a class="rsmLink" href="javascript: void(0)">Privacy Policy</a></li>
+			<li class="rsmItem sfNoBreadcrumbNavigation"><a class="rsmLink" href="javascript: void(0)" title="View Our Privacy Policy">Privacy Policy</a></li>
 		</ul><input id="ctl00_breadcrumb_TF274C993013_ctl00_ctl00_Breadcrumb_ClientState" name="ctl00_breadcrumb_TF274C993013_ctl00_ctl00_Breadcrumb_ClientState" type="hidden">
 	</div>
 </div>
@@ -360,14 +376,14 @@ Sys.Application._enableHistoryInScriptManager();
 
     }
 </script>
+
 <div class="quick-contact">
     <div class="mob-hid">
-        Call <a href="tel:+18004446787" class="tel">1‑800‑444‑6787</a> <span>to get a free
-            moving quote!</span>
+        Call <a href="tel:+18004446787" class="tel">1‑800‑444‑6787</a> <span>to start your free quote!</span>
     </div>
-    <div class="blue-gradient call-us">
+    <div id="phone-div" class="blue-gradient call-us">
         Call 1‑800‑444‑6787
-        <span>to get a free moving quote!</span>
+        <span>to start your free quote!</span>
     </div>
     <div class="call-us-or">
         or fill out the form below...</div>
@@ -420,8 +436,8 @@ Sys.Application._enableHistoryInScriptManager();
 	<div class="center">
         
 <div class="sfContentBlock">
-	<div id="page"> <h2>
-Allied Van Lines Privacy Policy</h2> <p> <strong>Allied applies the Global Privacy Policy of the parent company, SIRVA, Inc.
+	<div id="page"> <h1 class="newh1">
+Allied Van Lines Privacy Policy</h1> <p> <strong>Allied applies the Global Privacy Policy of the parent company, SIRVA, Inc.
 SIRVA respects your privacy. We have developed this Privacy Policy to inform you
 of how we protect your information.</strong></p> <h3>
 One Policy</h3> <p>
@@ -581,16 +597,16 @@ The AAA can be reached by telephone at (312) 616-6560 or by facsimile at (312) 8
 <h5 itemprop="itemreviewed" style="display: none">
         Moving Company Review</h5>
 <p itemprop="description" class="reviewsHTML5">
-    The whole process and the communication with Allied. The delivery teamstayed extra time to help unpack the boxes, it was very helpful.</p>
+    This was the best move out of a dozen moves that I have ever had. Allied Van Lines did an outstanding job.</p>
     <div style="display: none">
         <a id="reviewstart" href="/contact_review" class="contact-modal" style="color: White;
             text-decoration: underline; font-family: 'DIN';">Read more testimonials</a></div>
 <a href="/CustomerReviews" style="color: White; text-decoration: underline;
     font-family: 'DIN';" onclick="inputreview();return false;" ;="">Read more testimonials</a> <span itemprop="reviewer">
-        Connie V 
+        Arthur F 
         of
-        Vacaville,
-        CA</span>
+        Lake Mary,
+        FL</span>
 	<span itemprop="rating" style="display: none">5</span> </div>  
 
 			
@@ -818,7 +834,7 @@ The AAA can be reached by telephone at (312) 616-6560 or by facsimile at (312) 8
         <div class="close-button orange-gradient">
             X</div>
         <div id="findzipcode" class="findzipcode" style="display: block; width: auto; padding: 10px;">
-            <input id="searchpage" type="hidden" value="/privacy-policy.aspx">
+            <input id="searchpage" type="hidden" value="/">
             <input name="ctl00$reviews_mod$TF274C993017$ZipcodeSearch1$sentwindow" type="hidden" id="reviews_mod_TF274C993017_ZipcodeSearch1_sentwindow">
             <h2 class="h1emu">
                 Find Your Zipcode</h2>
@@ -828,14 +844,14 @@ The AAA can be reached by telephone at (312) 616-6560 or by facsimile at (312) 8
                         <td width="88" style="font-size: small;" height="25px">
                             <label style="display: block;">
                                 Enter City:</label>
-                            <input name="ctl00$reviews_mod$TF274C993017$ZipcodeSearch1$City" type="text" id="reviews_mod_TF274C993017_ZipcodeSearch1_City" class="city_txt_css1">
+                            <input name="ctl00$reviews_mod$TF274C993017$ZipcodeSearch1$City" id="reviews_mod_TF274C993017_ZipcodeSearch1_City" type="text" class="city_txt_css1">
                         </td>
                     </tr>
                     <tr>
                         <td height="25px" style="font-size: small; padding-top: 10px;">
                             <label style="display: block;">
                                 Select State:</label>
-                            <select name="ctl00$reviews_mod$TF274C993017$ZipcodeSearch1$State" id="reviews_mod_TF274C993017_ZipcodeSearch1_State" class="state_ddl_css1">
+                            <select name="ctl00$reviews_mod$TF274C993017$ZipcodeSearch1$State" id="reviews_mod_TF274C993017_ZipcodeSearch1_State" class="state_ddl_css1" style="font-size:Small;">
 	<option value="">Select</option>
 	<option value="AL">Alabama</option>
 	<option value="AK">Alaska</option>
@@ -1366,122 +1382,122 @@ The AAA can be reached by telephone at (312) 616-6560 or by facsimile at (312) 8
         <a style="margin-top: 20px; margin-right: 20px;" href="" class="modal-close"></a>
         <div class="reviewcon">
             
-                    Allied was wonderful. The two different crews were terrific, polite and they did whatever I asked them to do.
+                    The teams were great and very careful. The head driver Mike was excellent and I would absolutely request the driver if I should have to move again.
                     <br>
                     <span style="font-size: 14px; font-family: 'DIN'; font-style: normal; float: right;
                         display: block; padding: 1px; margin-bottom: -1px; padding-right: 15px;">
-                        Elaine
-                        G
-                        &nbsp;of&nbsp; <a style="color: #008ed4;" class="review-link" href="/moving-companies/connecticut/ridgefield.aspx">
-                            Ridgefield,
-                            CT</a></span>
+                        Rick
+                        S
+                        &nbsp;of&nbsp; <a style="color: #008ed4;" class="review-link" href="/moving-companies/north-dakota/bismarck.aspx">
+                            Bismarck,
+                            ND</a></span>
                     <br>
                     <hr style="margin-top: 25px; border: none; border-top: 1px solid #D16200; height: 1;">
                 
-                    I felt the driver was thoroughly efficient. I was in correspondence from the time my items were picked-up at my mother's through the time the driver was on the road and the day of the delivery.
+                    The entire move was handled very well. My boxes were labeled correctly. Myitems were reassembled. Everything was done on time. I was very satisfied with the move. 0
                     <br>
                     <span style="font-size: 14px; font-family: 'DIN'; font-style: normal; float: right;
                         display: block; padding: 1px; margin-bottom: -1px; padding-right: 15px;">
-                        Susan
-                        L
+                        Nick
+                        D
                         &nbsp;of&nbsp; <a style="color: #008ed4;" class="review-link" href="#">
-                            Mc Kinney,
-                            TX</a></span>
+                            N Huntingdon,
+                            PA</a></span>
                     <br>
                     <hr style="margin-top: 25px; border: none; border-top: 1px solid #D16200; height: 1;">
                 
-                    The team was on time and everything was in good shape. The crew did some assembling of my things and I really appreciated that.
+                    Allied kept their promised. An excellent job was done during the pick up and delivery. The people were courteous.
                     <br>
                     <span style="font-size: 14px; font-family: 'DIN'; font-style: normal; float: right;
                         display: block; padding: 1px; margin-bottom: -1px; padding-right: 15px;">
-                        John
+                        Omar
                         A
-                        &nbsp;of&nbsp; <a style="color: #008ed4;" class="review-link" href="/moving-companies/arizona/phoenix.aspx">
-                            Phoenix,
-                            AZ</a></span>
-                    <br>
-                    <hr style="margin-top: 25px; border: none; border-top: 1px solid #D16200; height: 1;">
-                
-                    The price and the way everything about the move went. The fact that the furniture was loaded on one trailer and the funiture wasn't moved.
-                    <br>
-                    <span style="font-size: 14px; font-family: 'DIN'; font-style: normal; float: right;
-                        display: block; padding: 1px; margin-bottom: -1px; padding-right: 15px;">
-                        Gregory
-                        H
-                        &nbsp;of&nbsp; <a style="color: #008ed4;" class="review-link" href="/moving-companies/california/modesto.aspx">
-                            Modesto,
-                            CA</a></span>
-                    <br>
-                    <hr style="margin-top: 25px; border: none; border-top: 1px solid #D16200; height: 1;">
-                
-                    I knew the local agent or Allied representative personally. The representative handled the entire move on my behalf and everything went according to plan.
-                    <br>
-                    <span style="font-size: 14px; font-family: 'DIN'; font-style: normal; float: right;
-                        display: block; padding: 1px; margin-bottom: -1px; padding-right: 15px;">
-                        Kevin
-                        B
-                        &nbsp;of&nbsp; <a style="color: #008ed4;" class="review-link" href="/moving-companies/new-jersey/marlton.aspx">
-                            Marlton,
+                        &nbsp;of&nbsp; <a style="color: #008ed4;" class="review-link" href="/moving-companies/new-jersey/livingston.aspx">
+                            Livingston,
                             NJ</a></span>
                     <br>
                     <hr style="margin-top: 25px; border: none; border-top: 1px solid #D16200; height: 1;">
                 
-                    The driver, coordinator and sales person were nice, kind, courteous and accurate. The coordinator also kept in touch with me. The driver called me to get notice of everything being okay.
+                    The overall service has been very good. I was referred by other ppl and they were extremely satisfied.
                     <br>
                     <span style="font-size: 14px; font-family: 'DIN'; font-style: normal; float: right;
                         display: block; padding: 1px; margin-bottom: -1px; padding-right: 15px;">
-                        Sickle Kathy
-                        V
-                        &nbsp;of&nbsp; <a style="color: #008ed4;" class="review-link" href="/moving-companies/florida/apollo-beach.aspx">
-                            Apollo Beach,
-                            FL</a></span>
-                    <br>
-                    <hr style="margin-top: 25px; border: none; border-top: 1px solid #D16200; height: 1;">
-                
-                    Overall, everything went smoothly. The team explained everything about the loading, and unloading process.
-                    <br>
-                    <span style="font-size: 14px; font-family: 'DIN'; font-style: normal; float: right;
-                        display: block; padding: 1px; margin-bottom: -1px; padding-right: 15px;">
-                        Gerald
+                        Sruti
                         D
-                        &nbsp;of&nbsp; <a style="color: #008ed4;" class="review-link" href="/moving-companies/nebraska/west-point.aspx">
-                            West Point,
-                            NE</a></span>
+                        &nbsp;of&nbsp; <a style="color: #008ed4;" class="review-link" href="/moving-companies/texas/houston.aspx">
+                            Houston,
+                            TX</a></span>
                     <br>
                     <hr style="margin-top: 25px; border: none; border-top: 1px solid #D16200; height: 1;">
                 
-                    The courtesy and the professionalism. We had a problem with getting up the drive way. The delivery team solved the problem.
+                    Everything was on time.The crew was friendly and took their time with our items. We were very pleased with the service.
                     <br>
                     <span style="font-size: 14px; font-family: 'DIN'; font-style: normal; float: right;
                         display: block; padding: 1px; margin-bottom: -1px; padding-right: 15px;">
-                        Gary
-                        S
-                        &nbsp;of&nbsp; <a style="color: #008ed4;" class="review-link" href="/moving-companies/nebraska/union.aspx">
-                            Union,
-                            NE</a></span>
+                        Brett
+                        W
+                        &nbsp;of&nbsp; <a style="color: #008ed4;" class="review-link" href="/moving-companies/louisiana/lake-charles.aspx">
+                            Lake Charles,
+                            LA</a></span>
                     <br>
                     <hr style="margin-top: 25px; border: none; border-top: 1px solid #D16200; height: 1;">
                 
-                    The packers were great and they were very experienced. The driver had a very good attitude and also was well experienced.
+                    Allied arrived when they said they would. Allied did a good job of packing my items before they made my move.
                     <br>
                     <span style="font-size: 14px; font-family: 'DIN'; font-style: normal; float: right;
                         display: block; padding: 1px; margin-bottom: -1px; padding-right: 15px;">
-                        Brad
-                        T
+                        Jay
+                        H
+                        &nbsp;of&nbsp; <a style="color: #008ed4;" class="review-link" href="/moving-companies/michigan/grand-blanc.aspx">
+                            Grand Blanc,
+                            MI</a></span>
+                    <br>
+                    <hr style="margin-top: 25px; border: none; border-top: 1px solid #D16200; height: 1;">
+                
+                    The communication of the driver was great. I was happy with the overall move process. The driver was detailed on unloading and packing of my boxes.
+                    <br>
+                    <span style="font-size: 14px; font-family: 'DIN'; font-style: normal; float: right;
+                        display: block; padding: 1px; margin-bottom: -1px; padding-right: 15px;">
+                        Bill
+                        K
+                        &nbsp;of&nbsp; <a style="color: #008ed4;" class="review-link" href="/moving-companies/missouri/fulton.aspx">
+                            Fulton,
+                            MO</a></span>
+                    <br>
+                    <hr style="margin-top: 25px; border: none; border-top: 1px solid #D16200; height: 1;">
+                
+                    The driver and crew members were very friendly and polite. My items were well packed. There was good communication. I am extremely happy.
+                    <br>
+                    <span style="font-size: 14px; font-family: 'DIN'; font-style: normal; float: right;
+                        display: block; padding: 1px; margin-bottom: -1px; padding-right: 15px;">
+                        Lynn
+                        E
                         &nbsp;of&nbsp; <a style="color: #008ed4;" class="review-link" href="#">
-                            West Melbourn,
-                            FL</a></span>
+                            Copley,
+                            OH</a></span>
                     <br>
                     <hr style="margin-top: 25px; border: none; border-top: 1px solid #D16200; height: 1;">
                 
-                    The whole process was very professional. The owner came out and did anestimate. The driver was very personable. The whole crew did a fantastic job and it was an enjoyable experience.
+                    They were very careful and tried to make the del date. They were very useful and good in every aspect.
                     <br>
                     <span style="font-size: 14px; font-family: 'DIN'; font-style: normal; float: right;
                         display: block; padding: 1px; margin-bottom: -1px; padding-right: 15px;">
-                        David
-                        N
-                        &nbsp;of&nbsp; <a style="color: #008ed4;" class="review-link" href="/moving-companies/colorado/denver.aspx">
-                            Denver,
+                        Cynthia
+                        S
+                        &nbsp;of&nbsp; <a style="color: #008ed4;" class="review-link" href="/moving-companies/georgia/blakely.aspx">
+                            Blakely,
+                            GA</a></span>
+                    <br>
+                    <hr style="margin-top: 25px; border: none; border-top: 1px solid #D16200; height: 1;">
+                
+                    Throughout the whole move they were in communication with us. They were there when they said and did what they said.
+                    <br>
+                    <span style="font-size: 14px; font-family: 'DIN'; font-style: normal; float: right;
+                        display: block; padding: 1px; margin-bottom: -1px; padding-right: 15px;">
+                        Alan
+                        C
+                        &nbsp;of&nbsp; <a style="color: #008ed4;" class="review-link" href="/moving-companies/colorado/grand-junction.aspx">
+                            Grand Junction,
                             CO</a></span>
                     <br>
                     <hr style="margin-top: 25px; border: none; border-top: 1px solid #D16200; height: 1;">
@@ -1520,19 +1536,51 @@ The AAA can be reached by telephone at (312) 616-6560 or by facsimile at (312) 8
     <script type="text/javascript" src="/App_Themes/Allied/js/script.js"></script>
     <script src="/App_Themes/Allied/js/thickbox.js" type="text/javascript"></script>
 
-
+<!-- Google Code for Remarketing Tag -->
 <script type="text/javascript">
- 
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-519609-14']);
-  _gaq.push(['_trackPageview']);
- 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
- 
+/* <![CDATA[ */
+var google_conversion_id = 990562957;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/990562957/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+<!-- Google Code for Mobile Calls on Website Conversion Page In your html page, add the snippet and call goog_report_conversion when someone clicks on the phone number link or button. --> <script type="text/javascript">
+   /* <![CDATA[ */
+   goog_snippet_vars = function() {
+     var w = window;
+     w.google_conversion_id = 990562957;
+     w.google_conversion_label = "yW3vCPOQwAcQjZWr2AM";
+     w.google_conversion_value = 5;
+     w.google_remarketing_only = false;
+   }
+   // DO NOT CHANGE THE CODE BELOW.
+   goog_report_conversion = function(url) {
+     goog_snippet_vars();
+     window.google_conversion_format = "3";
+     window.google_is_call = true;
+     var opt = new Object();
+     opt.onload_callback = function() {
+     if (typeof(url) != 'undefined') {
+       window.location = url;
+     }
+   }
+   var conv_handler = window['google_trackConversion'];
+   if (typeof(conv_handler) == 'function') {
+     conv_handler(opt);
+   }
+}
+/* ]]> */
+</script>
+
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion_async.js">
 </script>
 
     
@@ -1547,7 +1595,7 @@ The AAA can be reached by telephone at (312) 616-6560 or by facsimile at (312) 8
                             Sys.Application.remove_load(loadHandler);
                         };
                         Sys.Application.add_load(loadHandler);
-                    })();Sys.Application.add_init(function() {
+                    })();WebForm_AutoFocus('reviews_mod_TF274C993017_Continuequote1_continueto');Sys.Application.add_init(function() {
     $create(Telerik.Web.UI.RadSiteMap, null, null, null, $get("ctl00_breadcrumb_TF274C993013_ctl00_ctl00_Breadcrumb"));
 });
 //]]>
