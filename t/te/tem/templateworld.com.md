@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the templateworld.com privacy policy that was archived on 2014-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140321065105id_/http%3A//www.templateworld.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the templateworld.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701075513id_/http%3A//www.templateworld.com/privacy.html) for the most accurate reproduction.*
 
 # TemplateWorld / Privacy Policy
 
