@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nwtc.edu privacy policy that was archived on 2013-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130816120754id_/http%3A//www.nwtc.edu/Pages/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nwtc.edu privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702000128id_/http%3A//www.nwtc.edu/Pages/Privacy.aspx) for the most accurate reproduction.*
 
 # Northeast Wisconsin Technical College
 
@@ -18,7 +18,8 @@ This site has security measures in place to protect the loss, misuse and alterat
 
 ### Google Analytics web site reporting Service 
 
-NWTC uses Google Analytics to gather statistics about our visitors and to monitor usage of individual web pages. Google Analytics is firmly committed to the privacy of visitors to our web site. You may view their Privacy Policy at <http://www.google.com/analytics/tos.html>. 
+NWTC uses  Google Analytics remarketing codes to log when users view specific pages or take specific actions on a website. This allows us to provide targeted advertising in the future. If you do not wish to receive this type of advertising from us in the future you can opt out using the [DoubleClick opt-out page](https://www.google.com/settings/ads/onweb#display_optout).  
+
 
 ### Contacting the Web Site team 
 
@@ -81,3 +82,5 @@ Directory Information  Public record released to any inquiry (for non-commercia
   * Photographs 
 
 
+
+​
