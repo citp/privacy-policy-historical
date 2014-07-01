@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vacationoutlet.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209044032id_/http%3A//www.vacationoutlet.com/privacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vacationoutlet.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701190723id_/http%3A//www.vacationoutlet.com/privacy.do) for the most accurate reproduction.*
 
 # Privacy Policy
 
