@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swoop.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327213425id_/http%3A//www.swoop.com/categories/3-legal/pages/9-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swoop.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701030852id_/http%3A//www.swoop.com/categories/3-legal/pages/9-privacy-policy) for the most accurate reproduction.*
 
 # Swoop | Advertising Platform
 
