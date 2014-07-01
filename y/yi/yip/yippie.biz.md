@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yippie.biz privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213162145id_/http%3A//privacy.yippie.biz) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yippie.biz privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702012250id_/http%3A//privacy.yippie.biz) for the most accurate reproduction.*
 
 # Privacy Policy - YiPpIe!
 
@@ -49,7 +49,7 @@ Deleting cookies does not mean you are permanently opted out of any advertising 
 
 [Submit Listing](http://submit.yippie.biz/) | [Reverse Lookup](http://reverse.yippie.biz/) | [HTTP Referers](http://referers.yippie.biz/) | [Privacy Policy](http://privacy.yippie.biz/)
 
-[YiPpIe!](http://www.yippie.biz/) » [Privacy Policy](http://privacy.yippie.biz/)
+[Privacy Policy](http://privacy.yippie.biz/)
 
 | 
 
