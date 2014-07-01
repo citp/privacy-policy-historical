@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the streaming-porn.org privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326201608id_/http%3A//streaming-porn.org/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streaming-porn.org privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701071606id_/http%3A//www.streaming-porn.org/static/privacy) for the most accurate reproduction.*
 
 # Streaming-Porn.org - Free Streaming Porn Videos, Sex Movies, Adult Clips
 
