@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flybuys.co.nz privacy policy that was archived on 2013-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130819191711id_/https%3A//www.flybuys.co.nz/Pages/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flybuys.co.nz privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701221923id_/https%3A//www.flybuys.co.nz/Pages/site/privacy) for the most accurate reproduction.*
 
 # Fly Buys
 
@@ -47,3 +47,9 @@ Please note that Fly Buys will never send you an email asking you to disclose yo
 A legitimate email from Fly Buys will always contain some of your personal details such as your first name, your Member Number or your points balance.
 
 If you are ever in any doubt about the authenticity of any communications that are or seem to be from Fly Buys please immediately email us at [contact@flybuys.co.nz](mailto:contact@flybuys.co.nz) and include a copy of the email in question.
+
+####  Cookies Policy
+
+Fly Buys uses cookies on its website in order to improve your user experience. Cookies are small data files that your browser stores on your computer when you visit certain websites. The cookies on the Fly Buys website allow us to collect information which we use to help us remember the information you enter. This means that as you use our website we can relay any information you entered earlier back to you at a later time. It is possible to disable the acceptance of such cookies from your web browser. However, doing so may restrict your ability to use some of the pages on the Fly Buys website.
+
+Fly Buys also promotes its products and services using third party vendors, such as Google Remarketing, as a method of targeting our advertising based on how you interact with our website. Both Fly Buys and these vendors may use cookies to help offer you online ads that are more specifically tailored to you when you visit other websites. These cookies contain no personally identifiable information, they cannot damage files, nor can they read information from the hard drive of a computer. You do not need to accept these cookies, however, and can find more information about opting out by visiting the Google cookies opt out page, found [_**here**_](https://www.google.co.nz/intl/en/policies/technologies/ads/)
