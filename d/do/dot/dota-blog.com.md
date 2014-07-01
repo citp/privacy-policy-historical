@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dota-blog.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213044837id_/http%3A//www.dota-blog.com/2008/03/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dota-blog.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701104427id_/http%3A//www.dota-blog.com/2008/03/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - DotA-Blog
+# Privacy Policy | DotA-Blog
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at alief_5103100007[at]yahoo.com.
 
