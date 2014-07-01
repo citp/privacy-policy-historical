@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the squattypotty.com privacy policy that was archived on 2014-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140226123454id_/http%3A//www.squattypotty.com/terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the squattypotty.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701071259id_/http%3A//www.squattypotty.com/terms_privacy.asp) for the most accurate reproduction.*
 
 # Terms: Privacy
 
