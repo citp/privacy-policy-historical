@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the northwesternmutual.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213204648id_/http%3A//www.northwesternmutual.com/security-privacy/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northwesternmutual.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702004647id_/http%3A//www.northwesternmutual.com/security-privacy/default.aspx) for the most accurate reproduction.*
 
 # Security and Privacy | Northwestern Mutual
 
@@ -92,8 +92,8 @@ Consider the following best practices to keep your mobile devices secure:
   * Use a PIN or password on your mobile device to lock your screen when not in use.
   * Never leave your mobile device unattended in the open.
   * Lock your mobile device in a drawer, closet, or hotel safe while you are traveling.
-  * Lock your laptop in the trunk of a car when transporting it in a vehicle.  
-Consider purchasing and using a cable lock to securely lock your laptop to immobile objects.
+  * Lock your laptop in the trunk of a car when transporting it in a vehicle.
+  * Consider purchasing and using a cable lock to securely lock your laptop to immobile objects.
 
 
 
