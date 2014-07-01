@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the racialxxx.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330220114id_/http%3A//www.racialxxx.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the racialxxx.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701153016id_/http%3A//www.racialxxx.com/privacy.html) for the most accurate reproduction.*
 
 # Free Porno Movies, HD Sex Tube, Online Interracial Vids, Streaming XXX Clips and Free Ebony Videos
 
