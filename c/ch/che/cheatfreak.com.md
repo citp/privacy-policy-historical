@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheatfreak.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213004410id_/http%3A//cheatfreak.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheatfreak.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701145504id_/http%3A//cheatfreak.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Cheat Freak - Privacy Policy
 
@@ -19,7 +19,7 @@
 
 
 
-GameFly, Inc. and GameFly Digital, Inc. (collectively, “GameFly,” “we” or “us”) respect the privacy rights of our online visitors and mobile application users. The GameFly Online Privacy Policy (this “Privacy Policy”) provides information about how we collect, store, disclose and use information. Please also review our online [Terms of Use](https://web.archive.org/tou), which are linked at the bottom of our web pages and which govern the commercial-transaction, user-generated content and social-networking features of our websites ([gamefly.com](http://www.gamefly.com/), [gamefly.co.uk](http://www.gamefly.co.uk/), [shacknews.com](http://www.shacknews.com/), [cheatfreak.com](http://www.cheatfreak.com/) and [mobygames.com](http://www.mobygames.com/)) and services. 
+GameFly, Inc. and GameFly Digital, Inc. (collectively, “GameFly,” “we” or “us”) respect the privacy rights of our online visitors and mobile application users. The GameFly Online Privacy Policy (this “Privacy Policy”) provides information about how we collect, store, disclose and use information. Please also review our online [Terms of Use](https://web.archive.org/tou), which are linked at the bottom of our web pages and which govern the commercial-transaction, user-generated content and social-networking features of our websites ([gamefly.com](http://www.gamefly.com/), [gamefly.co.uk](http://www.gamefly.co.uk/), [cheatfreak.com](http://www.cheatfreak.com/) and and services. 
 
 By reading this Privacy Policy, you can expect to be informed about the following: 
 
@@ -36,7 +36,7 @@ By reading this Privacy Policy, you can expect to be informed about the followin
 
 ## What does this Privacy Policy apply to?
 
-This Privacy Policy applies to all of the online and mobile websites and interactive and mobile applications operated by GameFly (unless a different policy is provided on a particular site or application, in which case such different policy shall control) (collectively, the “Services”), including, but not limited to, the gamefly.com, gamefly.co.uk, shacknews.com, mobygames.com, and cheatfreak.com websites, including all subpages and successor pages thereto (each, a “Website” and collectively, the “Websites”) and the GameFly mobile application and associated services (the “GameFly App,” “Application,” or “App”). Unless expressly provided for, this Privacy Policy does not extend to any websites, applications or services of any third party companies or organizations to which we link or which link to us. GameFly does not operate or control those websites, applications or services. 
+This Privacy Policy applies to all of the online and mobile websites and interactive and mobile applications operated by GameFly (unless a different policy is provided on a particular site or application, in which case such different policy shall control) (collectively, the “Services”), including, but not limited to, the gamefly.com, gamefly.co.uk, and cheatfreak.com websites, including all subpages and successor pages thereto (each, a “Website” and collectively, the “Websites”) and the GameFly mobile application and associated services (the “GameFly App,” “Application,” or “App”). Unless expressly provided for, this Privacy Policy does not extend to any websites, applications or services of any third party companies or organizations to which we link or which link to us. GameFly does not operate or control those websites, applications or services. 
 
 Review the privacy policy of any third party website, application or service linked to or accessible from our site before you submit any personal information to such parties. 
 
@@ -52,7 +52,7 @@ By using or accessing the Website and/or the Services, you signify your assent t
 
 Typically, we ask you to submit personal, financial and/or demographic information if you decide to: 
 
-  * Register for and use a Shacknews and/or GameFly Account (e.g., to rent or buy games, sign-up for newsletters or participate in social activity and sharing) 
+  * Register for and use a GameFly Account (e.g., to rent or buy games, sign-up for newsletters or participate in social activity and sharing) 
   * Register for and use GameFly Applications
   * Use our GameFly Referrals feature
   * Use our GameFly Mobile Alerts feature
@@ -63,24 +63,24 @@ Typically, we ask you to submit personal, financial and/or demographic informati
 
 To simply browse our Website or applications, you are not required to provide any personal information. However, if you choose not to submit personal information when requested to do so, you may not be able to access some or all of the services that we provide. 
 
-###  Shacknews and GameFly Account Registration 
+###  GameFly Account Registration 
 
-To create a Shacknews and/or GameFly account, we ask you for certain personally identifiable information, which may include your full name, e-mail address, postal address, telephone number, and billing information (such as a credit card number). We may also ask you to create a password and to provide other information such as your gender, game and platform preferences (e.g., about the games and hardware you own), hobbies and interests, and other information (including “demographic information”) as part of your user profile - we may link this demographic information to your personal information. 
+To create a GameFly account, we ask you for certain personally identifiable information, which may include your full name, e-mail address, postal address, telephone number, and billing information (such as a credit card number). We may also ask you to create a password and to provide other information such as your gender, game and platform preferences (e.g., about the games and hardware you own), hobbies and interests, and other information (including “demographic information”) as part of your user profile - we may link this demographic information to your personal information. 
 
 When you download and use our Services, we automatically collect information on the type of device you use, operating system version, and device identifier (or “UDID”). 
 
 Once collected, we use the information above to:
 
-  1. create, confirm and give you access to your Shacknews and/or GameFly account
+  1. create, confirm and give you access to your GameFly account
   2. process and ship your GameFly orders
   3. communicate with you (via e-mail, SMS, MMS, or voice) about the status of your orders or to provide Buy Alerts and SMS/MMS messages you request
   4. answer any requests that you may have
-  5. send you Shacknews and/or GameFly newsletters that you have chosen to receive
+  5. send you GameFly newsletters that you have chosen to receive
   6. serve advertisements to your Web browser that we believe may be of interest to you ( _see“Online Advertising Practices” below for more information_)
 
 
 
-We may also use your Shacknews and/or GameFly account e-mail address to send you service-related announcements that tell you about updates to our Privacy Policy or Terms of Use, new areas or features on the Services, changes to our online service or technical support policies, and other related changes. We may also use your personal and demographic information aggregated with other members’ information for our internal marketing and demographic studies, so we can improve the online products and services we provide you and to better meet your needs. 
+We may also use your GameFly account e-mail address to send you service-related announcements that tell you about updates to our Privacy Policy or Terms of Use, new areas or features on the Services, changes to our online service or technical support policies, and other related changes. We may also use your personal and demographic information aggregated with other members’ information for our internal marketing and demographic studies, so we can improve the online products and services we provide you and to better meet your needs. 
 
 If you want to be excluded from receiving promotional email communications, you may unsubscribe via the opt-out link embedded in the communication or by logging in to [Settings](https://web.archive.org/settings) and updating your E-mail Subscription preferences. 
 
@@ -186,7 +186,7 @@ Our Website offers publicly accessible user-generated content. You should be awa
 
 We may run or co-sponsor contests, special offers, or other events or activities (“Events”) on the Services. Information collected for these Events may include personally identifiable information (e.g., name, mailing address, etc.) and may be collected by or shared with a third party sponsor, co-sponsor, or other third party (e.g., promotional partner, retailer, or game or magazine publisher). If you provide information to participate in such Events, we cannot control the third parties’ use of your information. If you do not want your information to be collected by or shared with a third party, do not participate in these optional Events. 
 
-From time to time, we are approached by third party companies and organizations that provide game-related special offers or other offers that we believe may be of interest to you. To extend these offers to you, we may use your Shacknews and/or GameFly account information to send out promotional mailings to you on their behalf. If you select to sign up for the third party offer, we will share your Shacknews and/or GameFly account information with the third party offer provider. We see this as a value-added service helping you find useful products or services. We will not share your information with the third party offer provider unless you chose to take advantage of the third party offer. If you wish to opt-out from third party sharing you may do so by contacting us at [support@gamefly.com](mailto:support@gamefly.com). 
+From time to time, we are approached by third party companies and organizations that provide game-related special offers or other offers that we believe may be of interest to you. To extend these offers to you, we may use your GameFly account information to send out promotional mailings to you on their behalf. If you select to sign up for the third party offer, we will share your GameFly account information with the third party offer provider. We see this as a value-added service helping you find useful products or services. We will not share your information with the third party offer provider unless you chose to take advantage of the third party offer. If you wish to opt-out from third party sharing you may do so by contacting us at [support@gamefly.com](mailto:support@gamefly.com). 
 
 In some instances, we may have an arrangement with a promotional partner or retailer, whereby they share with us customer information collected on their website. In the event that we receive such data and combine it with our customer records, the combined information will be treated in accordance with this Privacy Policy. Otherwise, all such information is subject to the privacy policy under which it was collected. 
 
@@ -196,11 +196,11 @@ We may disclose any or all personal or non-personal information related to you t
 
 ##  Can I choose how my personal information is used? 
 
-If you wish to view or update the personal information set forth in your account, such as your name, e-mail address, password, billing address, credit card number, e-mail subscription preferences, or other account information, log in to [Settings](https://web.archive.org/settings). There is a link to [Settings](https://web.archive.org/settings) on most pages of the Shacknews Website. Please note that you must log in with your username/e-mail address and password before you can update any account information. If you believe that your account information contains errors, and you cannot correct those errors from the [Settings](https://web.archive.org/settings) page, please contact Customer Service. Our normal response time to your account questions is within 4 business days. Please be sure to include an email or phone number where you can be reached so we can promptly assist you. 
+If you wish to view or update the personal information set forth in your account, such as your name, e-mail address, password, billing address, credit card number, e-mail subscription preferences, or other account information, log in to [Settings](https://web.archive.org/settings). Please note that you must log in with your username/e-mail address and password before you can update any account information. If you believe that your account information contains errors, and you cannot correct those errors from the [Settings](https://web.archive.org/settings) page, please contact Customer Service. Our normal response time to your account questions is within 4 business days. Please be sure to include an email or phone number where you can be reached so we can promptly assist you. 
 
 We will retain your information (including geo-location data) for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [support@gamefly.com](mailto:support@gamefly.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
-If you wish to opt out of receiving the Shacknews newsletter, special offers, and/or promotional information, log in to [Settings](https://web.archive.org/settings) and change your E-mail Subscriptions; or, contact [support@gamefly.com](mailto:support@gamefly.com). In addition, at the bottom of every Shacknews communication sent to you, we provide you an unsubscribe or opt-out link to discontinue receiving future communications (i.e., unsubscribe). 
+If you wish to opt out of receiving special offers, and/or promotional information, log in to [Settings](https://web.archive.org/settings) and change your E-mail Subscriptions; or, contact [support@gamefly.com](mailto:support@gamefly.com). In addition, at the bottom of every communication sent to you, we provide you an unsubscribe or opt-out link to discontinue receiving future communications (i.e., unsubscribe). 
 
 If you wish to not disclose information to other Services users, log in to the Services to manage your Privacy settings and turn displays to “Off.” 
 
@@ -226,8 +226,8 @@ If you have any questions, complaints, or comments regarding this Privacy Policy
 
 Attn: Vice President, Customer Service  
 GameFly, Inc.  
-P.O. Box 200533  
-Austin, Texas 78720  
+P.O. Box 80924  
+Austin, TX 78708  
 1-888-986-6400 - M - F, 12 p.m. - 4 p.m. CST  
 [support@gamefly.com](mailto:support@gamefly.com) \- 7 days a week  
 
