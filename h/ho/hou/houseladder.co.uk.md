@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the houseladder.co.uk privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624203520id_/http%3A//houseladder.co.uk/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the houseladder.co.uk privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701191618id_/http%3A//www.houseladder.co.uk/Privacy.aspx) for the most accurate reproduction.*
 
 # Houseladder - Privacy Policy
 
