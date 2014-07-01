@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leftronic.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213082718id_/https%3A//www.leftronic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leftronic.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701102450id_/https%3A//www.leftronic.com/privacy) for the most accurate reproduction.*
 
 # Privacy » Leftronic Leftronic
 
