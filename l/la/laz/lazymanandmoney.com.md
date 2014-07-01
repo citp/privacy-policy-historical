@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the lazymanandmoney.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210031251id_/http%3A//www.lazymanandmoney.com/terms-and-conditions) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lazymanandmoney.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701073713id_/http%3A//www.lazymanandmoney.com/terms-and-conditions) for the most accurate reproduction.*
 
 # Terms and Conditions » Lazy Man and Money
+
+Written by 
 
 ### Quick Non-Legalese Version
 
@@ -8,7 +10,7 @@ The stuff in the full legalese version below is standard boilerplate stuff. Some
 
   * I have to tell you that I'm not a financial professional to protect myself legally. I could go out and get a bunch of licenses to give financial advice and I've thought about doing so, but then what I can write about would be legally restricted as well.
   * While I do give myself the ability to edit user comments, I've rarely used it... probably in less than 1 in a thousand cases. Typically it only happens when someone has a pretty good comment, but then ends with something like: "Here's my [link to a get rich quick scheme]." I openly allow for any number of dissenting opinions (see [the comments on my MonaVie article](http://www.lazymanandmoney.com/monavie-scam/)), but in the end, I have to include this clause.
-  * The advertising that I use, Google AdSense, and a number of other advertisers that I use are used by millions of sites. These advertisers require that I disclose that cookies can be used by these advertising systems. I do not get access to any of this information and can't see any of your personal preferences, things you like, or sites you previously visited. I can get the general location of my visitors such as which county they live in, but with over 4 million visitors, chances are that every county is covered by now. You are essentially anonymous to me.
+  * The advertising that I use, Google AdSense, and a number of other advertisers that I use are used by millions of sites. These advertisers require that I disclose that cookies can be used by these advertising systems. I do not get access to any of this information and can't see any of your personal preferences, things you like, or sites you previously visited. I can get the general location of my visitors such as which country they live in, but with over 4 million visitors, chances are that every country is covered by now. You are essentially anonymous to me.
   * I will never ask for, and you should never tell me any a password of any kind.
   * If you leave a comment or subscribe to receive emails, I will never sell it. I hate spam as much as you do. In fact if you leave a comment with your email address as part of the text that another user can see, I edit your comment to take out the email address so nefarious spam bots scouring my site won't pick up your email address.
 
@@ -52,3 +54,10 @@ This site contains information about third party products and services, such as 
 **Other information collected by third-parties**
 
 We may allow third-party companies that use tracking technologies, such as cookies or pixels, to record IP information about users who visit or interact with our website. Our website does not provide any personal information to these third parties. This information allows them to deliver targeted advertisements and gauge their effectiveness. Some of these third-party advertising companies may be advertising networks that are members of the Network Advertising Initiative which offers a single location to opt out of ad targeting from member companies.
+
+Last updated on April 3, 2014. 
+
+This post deals with: ... and focuses on: 
+
+Previous: [Monthly Necessary Expenses Chart](http://www.lazymanandmoney.com/monthly-necessary-expenses-chart/)  
+Next: [Zecco](http://www.lazymanandmoney.com/zecco/)
