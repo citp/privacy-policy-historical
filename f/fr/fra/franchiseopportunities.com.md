@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the franchiseopportunities.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210052518id_/http%3A//www.franchiseopportunities.com/infopolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the franchiseopportunities.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701090436id_/http%3A//www.franchiseopportunities.com/infopolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy, Disclaimer and Website Usage Policy
 
@@ -23,6 +23,10 @@ FO is a lead generation and advertising service. Business brokers, agents, busin
 We also collect and use your IP address to help diagnose problems with our website server, and to administer our website. We use cookies on this site. A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. 
 
 We use a third-party tracking service that uses cookies to track non-personally identifiable information about visitors to our site in the aggregate to capture usage and volume statistics to improve our Web site. By submitting information to us and asking us to disclose your information to third-parties, you expressly agree to receive telephone calls and/or e-mails even if you are registered with any state Do Not Call Registry, and/or the National Do Not Call List. 
+
+**Mobile Apps and Location information**
+
+When you download or use our mobile apps, you may give permission to share your device's real-time location (from cell towers or GPS). This information is used to provide services like localized search results. You can disable location-sharing at any time in your device settings. We also use an encrypted version of your device's unique device ID to track app usage, and to send any mobile alerts that you ask to receive.
 
 **Copyrights and Intellectual Property Rights**
 
@@ -71,7 +75,7 @@ Atlanta, GA 30350
 
 
 
-Policy effective 9/4/07, updated 04/22/13.
+Policy effective 9/4/07, updated 03/20/14.
 
 Thank you for visiting our site. 
 
