@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the best-metatrader-indicators.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327140618id_/http%3A//www.best-metatrader-indicators.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the best-metatrader-indicators.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701180941id_/http%3A//www.best-metatrader-indicators.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Best-MetaTrader-Indicators.com
 
