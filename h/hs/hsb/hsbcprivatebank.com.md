@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hsbcprivatebank.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625123907id_/https%3A//www.hsbcprivatebank.com/utilities/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hsbcprivatebank.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701080010id_/http%3A//www.hsbcprivatebank.com/utilities/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Policy | HSBC Private Bank
 
