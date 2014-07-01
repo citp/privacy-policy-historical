@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spybubble.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214161704id_/http%3A//www.spybubble.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spybubble.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701194948id_/http%3A//www.spybubble.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | SpyBubble
 
@@ -25,7 +25,7 @@ It does not apply to information collected by:
 
 **2\. Disclaimer**
 
-**It is the sole responsibility of the user of SpyBubble software to ascertain and obey all applicable laws in their jurisdiction in regard to the use of SpyBubble software.** If you are in doubt, consult your local attorney before using the software. By downloading and installing SpyBubble software, you represent that it will be used only in a lawful manner. Logging other people's SMS messages & other phone activity or installing SpyBubble on another person's phone without their knowledge can be considered as an illegal activity in your jurisdiction. SpyBubble assumes no liability and is not responsible for any misuse or damage caused by us. [Click here](https://web.archive.org/web/20140214161704id_/http%3A//www.spybubble.com/disclaimer.php) to read Full Legal Disclaimer. 
+**It is the sole responsibility of the user of SpyBubble software to ascertain and obey all applicable laws in their jurisdiction in regard to the use of SpyBubble software.** If you are in doubt, consult your local attorney before using the software. By downloading and installing SpyBubble software, you represent that it will be used only in a lawful manner. Logging other people's SMS messages & other phone activity or installing SpyBubble on another person's phone without their knowledge can be considered as an illegal activity in your jurisdiction. SpyBubble assumes no liability and is not responsible for any misuse or damage caused by us. [Click here](https://web.archive.org/web/20140701194948id_/http%3A//www.spybubble.com/disclaimer.php) to read Full Legal Disclaimer. 
 
 **3\. Information We Collect About You and How We Collect It**
 
