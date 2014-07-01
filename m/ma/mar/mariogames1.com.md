@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mariogames1.com privacy policy that was archived on 2014-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140302011824id_/http%3A//www.mariogames1.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mariogames1.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701054149id_/http%3A//www.mariogames1.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
