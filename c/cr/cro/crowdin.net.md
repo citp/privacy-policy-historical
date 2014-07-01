@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crowdin.net privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628093337id_/https%3A//crowdin.net/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crowdin.net privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701115232id_/https%3A//crowdin.net/page/privacy-policy) for the most accurate reproduction.*
 
 # Your privacy matters - Crowdin
 
