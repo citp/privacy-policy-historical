@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the escortgps.xxx privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210084036id_/http%3A//www.escortgps.xxx/information/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the escortgps.xxx privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701090932id_/http%3A//www.escortgps.xxx/information/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement - Escort GPS Your free Escort Global Directory Search Engine! | Escort GPS Your free Escort Global Directory Search Engine!
+# Privacy Statement - Escort GPS Your free Escort Global Directory Search Engine!
 
 Escort GPS is owned and operated by EGPSXXX LTD., a United Kingdom company committed to respecting your privacy and complying with all applicable data protection and privacy laws. This privacy statement explains the data collection and use practices of the Escort  GPS website.
 
