@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the site2sms.org privacy policy that was archived on 2014-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140430150228id_/http%3A//site2sms.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the site2sms.org privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701093757id_/http%3A//site2sms.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy Site2SMS - India's Largest Messaging Service
 
