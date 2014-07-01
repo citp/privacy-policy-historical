@@ -1,26 +1,32 @@
-<!--The following is the downloaded HTML source of the onnit.com privacy policy that was archived on 2014-02-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140210032901id_/https%3A//www.onnit.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the onnit.com privacy policy that was archived on 2014-07-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140701203404id_/https%3A//www.onnit.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en-US" class="desktop  not-tablet js hsla multiplebgs backgroundsize boxshadow textshadow opacity cssanimations csscolumns cssgradients csstransforms csstransforms3d csstransitions fontface svg csscalc" style=""><head>
+<!DOCTYPE html><html lang="en-US" class="desktop  not-tablet"><head>
 
-<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8"><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.googlecommerce.com/trustedstores/gtmp_compiled.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=375219769219003"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-67NT"></script><script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.0/webfont.js" type="text/javascript" async=""></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UQcCUFFWGwEHU1dXAAc="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
 <meta property="fb:app_id" content="375219769219003">
 <meta name="google-site-verification" content="q6nilC-KjIpefksCyxW_1ScAHxEEKDhBt0s-Hhn9oPk">
+<meta name="p:domain_verify" content="7c14c4867c79c4d6a81834810af790da">
 
 	<meta name="viewport" content="width=1180">
 
 
 
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://www.googlecommerce.com/trustedstores/gtmp_compiled.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=375219769219003"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-67NT"></script><script src="https://ajax.googleapis.com/ajax/libs/webfont/1.5.0/webfont.js" type="text/javascript" async=""></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script><title>Privacy Policy | Onnit</title>
+<title>Privacy Policy | Onnit</title>
+
+<link rel="stylesheet" type="text/css" media="all" href="https://onnit.global.ssl.fastly.net/onnit/styles/less/?p=noparse&amp;f=:/onnit/styles/icomoon.css&amp;~">
 
 
 
-<link rel="stylesheet" type="text/css" media="all" href="/onnit/styles/less/lib,onnit,:/onnit/style.css,:/onnit/script/magnific/magnific-popup.css,:/onnit/script/slider.css?v=1.96">
+
+<link rel="stylesheet" type="text/css" media="all" href="https://onnit.global.ssl.fastly.net/onnit/styles/less/?f=lib,onnit,:/onnit/style.css,:/onnit/script/magnific/magnific-popup.css,:/onnit/script/slider.css&amp;~">
 
 <meta property="og:title" content="Onnit Labs - Total Human Optimization">
 <meta property="og:description" content="Providing the best in natural supplements and fitness equipment.  Home of our flagship nootropic, Alpha BRAIN.">
 <meta property="og:image" content="https://www.onnit.com/files/logos/onnit-hex-icon.png">
 
+
+<!-- WEB FONTS -->
 
 <script>
 WebFontConfig = {
@@ -41,7 +47,7 @@ WebFontConfig = {
 
 
 <link rel="pingback" href="https://www.onnit.com/xmlrpc.php">
-<script type="text/javascript" src="/onnit/script/modernizr.js"></script>
+<script type="text/javascript" src="https://onnit.global.ssl.fastly.net/onnit/script/modernizr.js?~"></script>
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
 <script type="text/javascript">
 if (typeof jQuery == 'undefined') {
@@ -51,12 +57,11 @@ if (typeof jQuery == 'undefined') {
 
 
 
-
 <!--[if IE 7]>
-<link type="text/css" rel="stylesheet" media="all" href="/onnit/ie7s-father-smells-of-elderberries.css" />
+<link type="text/css" rel="stylesheet" media="all" href="https://onnit.global.ssl.fastly.net/onnit/ie7s-father-smells-of-elderberries.css" />
 <![endif]-->
 <!--[if IE 8]>
-<link type="text/css" rel="stylesheet" media="all" href="/onnit/ie8s-mother-was-a-hamster.css" />
+<link type="text/css" rel="stylesheet" media="all" href="https://onnit.global.ssl.fastly.net/onnit/ie8s-mother-was-a-hamster.css" />
 <![endif]-->
 
 <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head><body class="page page-id-2959 page-template-default page-privacy-policy"><a href="https://plus.google.com/+Onnitofficial/" rel="publisher"></a>
@@ -91,7 +96,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 
-<div class="mfp-hide generic-popup" id="satisfaction-guarantee"><img src="/onnit/images/interface/magnificPopup-mbg.png" alt="Money Back Guarantee"><p>We offer an unequivocal full refund on the purchase price of any of our exclusive formulas (minus shipping) any time within 3 months of your purchase. We do not require the return of unused product for a refund on the first 30 capsules of any formula purchased. However, for fraud protection, we require the return of product for any refunds beyond the initial 30 capsules. This guarantee only valid for Onnit™ formulas (not 3rd party products or foods, with the exception of Hemp FORCE). To process a refund or for more info visit our <a href="/help/">help page</a>.  Hemp FORCE is required to be returned to qualify for a refund.  Fitness Equipment, gear, DVDs, and Digital Downloads are not eligible.
+<div class="mfp-hide generic-popup" id="satisfaction-guarantee"><img src="https://onnit.global.ssl.fastly.net/onnit/images/interface/magnificPopup-mbg.png" alt="Money Back Guarantee"><p>We offer an unequivocal full refund on the purchase price of any of our exclusive formulas (minus shipping) any time within 3 months of your purchase. We do not require the return of unused product for a refund on the first 30 capsules of any formula purchased. However, for fraud protection, we require the return of product for any refunds beyond the initial 30 capsules. This guarantee only valid for Onnit™ formulas (not 3rd party products or foods, with the exception of Hemp FORCE). To process a refund or for more info visit our <a href="/help/">help page</a>.  Hemp FORCE is required to be returned to qualify for a refund.  Fitness Equipment, gear, DVDs, and Digital Downloads are not eligible.
 <a class="cboxClose" href="javascript:$.colorbox.close()"></a></p></div>
 <div class="mfp-hide generic-popup" id="privacy-priority"><p><span class="cboxClose"></span></p></div>
 
@@ -112,7 +117,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 					<p>In thanks to our military service men and women, we're extending a <b>12% discount</b> on all products purchased at Onnit.com.</p>
 					<p>Anyone shipping their order to an APO/FPO/DPO address will have a 12% discount automatically applied to their order.</p>
 					<p>Are you an active duty military serviceperson who doesn't live at an APO/DPO/FPO address? Please call us at 855-ONNIT-99 and one of our customer service representatives will validate and approve your order at the discounted rate.</p>
-				</div>
+					<p class="ko">* US Military members, please choose <b>United States</b> as your destination country when creating your customer profile — this will ensure that your package ships via USPS and that you are not given international shipping rates.</p>
+											<p class="ko" style="text-align:center;">Learn how you could win a custom Onnit Harley Davidson Motorcycle.<br><a class="motorcycle-btn" href="/motorcycle-giveaway/">Onnit Motorcycle Giveaway</a></p>
+									</div>
 			</li>
 						<li><a class="magnific mfp-iframe" href="//www.youtube.com/watch?v=2X7dpad0XTc"><i data-icon=""></i> What is Onnit?</a></li>
 			<li><a href="/cart/order-tracking.php" title="Track your order">Track order</a></li>
@@ -123,7 +130,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 					<ul></ul>
 					<span class="cart-x-more-items"><p></p></span>
 					<span class="nav-cart-total"><p></p></span>
-					<span class="cart-message"><p></p></span>
+					<span class="cart-message" style="display: block;"><p>Your cart is empty</p></span>
 					<a class="nav-flyout-button view-cart" href="/cart/shopping_cart.php">View Cart</a>
 					<a class="nav-flyout-button checkout" href="/cart/checkout_shipping.php">Checkout</a>
 				</div>
@@ -164,7 +171,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			<ul class="row2">
 				<li><a class="stron-bone" href="/stron-bone/"><span>Stron BONE™ &amp; Joint</span></a></li>
 				<li><a class="digestech" href="/digestech/"><span>DigesTech™</span></a></li>
-				<li><a class="vitamin-c-lysine" href="/vitamin-c-lysine/"><span>Vitamin C &amp; L-Lysine</span></a></li>
+				<li><a class="virutech" href="/virutech/"><span>ViruTech™</span></a></li>
+				<!-- <li><a class="vitamin-c-lysine" href="/vitamin-c-lysine/"><span>Vitamin C &amp; L-Lysine</span></a></li> -->
 				<li><a class="melatonin" href="/melatonin/"><span>Melatonin</span></a></li>
 				<li><a class="sc" href="/spirulina-chlorella/"><span>Spirulina &amp; Chlorella</span></a></li>
 				<li><a class="krill-oil" href="/krill-oil/"><span>Krill Oil</span></a></li>
@@ -182,10 +190,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 				<li><a class="mcc-trilogy-butter" href="/mcc-trilogy-butter/"><span>Macadamia Cacao Cherry</span></a></li>
 			</ul>
 			<ul class="row2">
-				<li><a class="tanka-bar" href="/tanka/"><span>Tanka Bar</span></a></li>
+				<li><a class="warrior-bar" href="/warrior-bar/"><span>Warrior Bar</span></a></li>
 				<li><a class="coconut-oil" href="/coconut-oil/"><span>Onnit Organic Coconut Oil</span></a></li>
 				<li><a class="bulletproof-coffee" href="/bulletproof-coffee/"><span>Bulletproof Coffee</span></a></li>
-				<li><a class="mct" href="/bulletproof-mct-oil/"><span>Upgraded MCT Oil</span></a></li>
 				<li><a class="stevia" href="/organic-stevia/"><span>Organic Stevia</span></a></li>
 				<li><a class="salt" href="/himalayan-salt/"><span>Himalayan Salt</span></a></li>
 				<li><a class="metabolate" href="/metabolate/"><span>ChocoFree Metabolate</span></a></li>
@@ -207,7 +214,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			<ul class="row2">
 				<li><a class="jumprope" href="/onnit-jump-ropes/"><span>Jump Ropes</span></a></li>
 				<li><a class="pullup" href="/onnit-pull-up-bar/"><span>Pull-Up Bar</span></a></li>
-				<li><a class="steelbell" href="/hyperwear-steelbell/"><span>Hyperwear Steelbell</span></a></li>
+				<li><a class="primal-steelbell" href="/primal-steelbells/"><span>Primal SteelBell®</span></a></li>
 				<li><a class="wallball" href="/troy-vtx-wall-ball/"><span>Troy VTX Wall Ball</span></a></li>
 				<li><a class="defense-soap" href="/defense-soap/"><span>Defense Soap</span></a></li>
 				<li><a class="dvds" href="/dvds/"><span>Fitness DVDs</span></a></li>
@@ -228,12 +235,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 				<li><a class="skills" href="/skills/"><span>Skills</span></a></li>
 				<li><a class="press" href="/press/"><span>Press</span></a></li>
 				<li><a class="the-word" href="/the-word/"><span>The Word</span></a></li>
-				<li><a class="blog" href="/blog/"><span>Blog</span></a></li>
 				<li><a class="about" href="/about/"><span>About Onnit</span></a></li>
 				<li><a class="as-seen-in" href="/as-seen-in/"><span>As Seen In</span></a></li>
 			</ul>
 		</li>
-		<li class="help"><a href="/help/" title="Help">Help</a></li>
+		<li class="academy"><a href="/academy/" title="Academy">Academy</a></li>
 	</ul>
 </div></div>
 
@@ -328,7 +334,7 @@ info@onnit.com<br>
 			<h2>The Onnit Pro Team</h2>
 			<div class="pros">
 				<a href="/honor-roll/joe-rogan/" class="joe-rogan"><b>Joe Rogan</b></a>
-				<!-- <a href="/honor-roll/bode-miller/" class="bode-miller"><b>Bode Miller</b></a> -->
+				<a href="/honor-roll/bode-miller/" class="bode-miller"><b>Bode Miller</b></a>
 				<a href="/honor-roll/aj-hawk/" class="aj-hawk no-margin"><b>AJ Hawk</b></a>
 			</div>
 			<div class="filters">
@@ -396,12 +402,17 @@ info@onnit.com<br>
 		<div class="connect">
 			<h3>Connect with Onnit</h3>
 			<div class="social-icons">
-				<a href="http://www.facebook.com/OnnitLabs" class="facebook" rel="external" target="_blank">facebook</a>
-				<a href="http://twitter.com/onnit" class="twitter" rel="external" target="_blank">twitter</a>
-				<a href="http://www.youtube.com/onnitlabs" class="youtube" rel="external" target="_blank">youtube</a>
-				<a href="http://instagram.com/onnit" class="instagram" rel="external" target="_blank">instagram</a>
-				<a href="https://plus.google.com/+Onnitofficial/" class="google-plus" rel="external" target="_blank">google+</a>
+				<a href="http://www.facebook.com/OnnitLabs" class="facebook" rel="external">facebook</a>
+				<a href="http://twitter.com/onnit" class="twitter" rel="external">twitter</a>
+				<a href="http://instagram.com/onnit" class="instagram" rel="external">instagram</a>
+				<a href="http://www.pinterest.com/onnit/" class="pinterest" rel="external">pinterest</a>
+				<a href="https://plus.google.com/+Onnitofficial/" class="google-plus" rel="external">google+</a>
+				<a href="http://www.youtube.com/onnitlabs" class="youtube" rel="external">youtube</a>
 				<a href="/help/" class="email">email</a>
+			</div>
+			<div class="help">
+				<a href="/help/"><i data-icon=""></i> Get Help</a>
+				<a href="/sponsorship-application/">Sponsorship Application</a>
 			</div>
 			<div class="newsletter">
 				<h4>Join the newsletter for big savings</h4>
@@ -419,31 +430,45 @@ info@onnit.com<br>
 						<span itemprop="addressLocality">Austin</span>, <span itemprop="addressRegion">TX</span> <span itemprop="postalCode">78744</span>
 						<span itemprop="addressCountry">USA</span>
 					</div>
+					<a id="local-pickup-link" href="#local-pickup">Save With Local Pickup</a>
+					<div class="mfp-hide" id="local-pickup-popup">
+						<h3>Save With Local Pickup</h3>
+						<p>Do you live in the Austin, Texas, area? Save on shipping costs by completing your purchase in person at Onnit Headquarters.
+						</p>
+						<p><b>Our business hours are:</b><br>
+							Monday – Friday, 9am – 5pm CST
+						</p>
+						<p><b>We are located at:</b><br>
+							<a class="google-maps" title="Open this address in Google Maps" href="https://www.google.com/maps?q=4401+Freidrich+Lane+%23302,+Austin,+TX&amp;hl=en&amp;sll=30.207858,-97.750918&amp;sspn=0.016745,0.022252&amp;oq=4401+Fre&amp;hnear=4401+Freidrich+Ln,+Austin,+Texas+78744&amp;t=m&amp;z=17" rel="external"><i data-icon=""></i> 4401 Freidrich Ln Suite 302, Austin, TX 78744</a>
+						</p>
+						<p>Or try our <b><a href="/store-locator/">Store Locator</a></b></p>
+						<p class="close-wrap"><a class="close" href="javascript:;" onclick="$('#local-pickup-popup .mfp-close').click();">Close</a></p>
+					</div>
 				</div>
 			</div>
 			<div class="store-locator">
-				<a href="/store-locator/">Find a store near you</a>
+				<a href="/store-locator/"><i data-icon=""></i> Store Locator</a>
 			</div>
 			<div class="hr"></div>
 			<div class="search">
 		        <form id="footersearchform" method="get" action="/search/">
-		            <input maxlength="150" value="Search" class="search-input" id="q" name="q">
+		            <input maxlength="150" value="Search" class="search-input generic-input" id="q" name="q">
 		        </form>
 			</div>
 			<div class="hr less-space"></div>
 			<div class="as-seen-in">
 				<h3>As Seen In...</h3>
-				<a href="/as-seen-in/"><img src="/onnit/images/interface/footer/as-seen-in-logos.png"></a>
+				<a href="/as-seen-in/"><img src="https://onnit.global.ssl.fastly.net/onnit/images/interface/footer/as-seen-in-logos.png"></a>
 			</div>
 			<div class="hr less-space"></div>
 			<div class="secure">
 				<h3>Secure Shopping</h3>
-				<img src="/onnit/images/interface/footer/secure-thawte.png" alt="Thawte">
-				<img src="/onnit/images/interface/footer/secure-ssl.png" alt="256-Bit SSL Encryption">
-				<img src="/onnit/images/interface/footer/secure-hacker-safe.png" alt="Hacker Safe">
+				<img src="https://onnit.global.ssl.fastly.net/onnit/images/interface/footer/secure-thawte.png" alt="Thawte">
+				<img src="https://onnit.global.ssl.fastly.net/onnit/images/interface/footer/secure-ssl.png" alt="256-Bit SSL Encryption">
+				<img src="https://onnit.global.ssl.fastly.net/onnit/images/interface/footer/secure-hacker-safe.png" alt="Hacker Safe">
 			</div>
 			<div class="payment">
-				<img alt="" src="/onnit/images/interface/cc-logos.png">
+				<img alt="" src="https://onnit.global.ssl.fastly.net/onnit/images/interface/cc-logos.png">
 			</div>
 			<div class="center" style="text-align: center;">
 				<a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=www.onnit.com"><img width="115" height="32" border="0" src="//images.scanalert.com/meter/www.onnit.com/61.gif" alt="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee SECURE is a Trademark of McAfee, Inc.'); return false;"></a>
@@ -485,13 +510,15 @@ info@onnit.com<br>
 
 
 <script>
-$(function(){
-	$('#fdad .mobile-site').click(function(e){
-		e.preventDefault();
-		setCookie('fullsite', '1', 0);
-		location.reload();
+(function ($) {
+	$(function(){
+		$('#fdad .mobile-site').click(function(e){
+			e.preventDefault();
+			setCookie('fullsite', '1', 0);
+			location.reload();
+		});
 	});
-});
+})(jQuery);
 </script>
 
 
@@ -510,6 +537,17 @@ PostAffTracker.track();
 
 
 
+<script>
+(function ($) { $(function () {
+
+	$.getJSON('/cart/cart-contents.php', ONNIT.flyout_cart_callback);
+
+}); })(jQuery);
+</script>
+
+
+
+
 <div id="honor-roll-disclaimer" class="mfp-hide generic-popup">
 		Onnit™ prides itself on the verity of our endorsements.  All members of the honor roll sampled product prior to any financial considerations, and actively continue to use the product(s) mentioned.  Many members of the honor roll have subsequently been compensated for their promotional efforts on our behalf, however we have done everything in our power to ensure this has no bearing on the integrity of their testimonials.  The following honor roll members have received some form of financial compensation:  Joe Rogan, AJ Hawk, Bode Miller, Mehcad Brooks, Whitney Miller, Sorel Mizzi, Max Eberle, Roger Huerta, Heath Herring, David Rickels, Derek Brunson, Ben Saunders, Matt Every, Donald Schultz, Matt Vengrin, Steven Chidwick, Kevin Budreau, Tom Taylor, Bernhard Wallner, Dr. Martin Lazar, Nick Plott, Dustin Garza.</div>
 
@@ -517,9 +555,9 @@ PostAffTracker.track();
 <a id="mbg" href="javascript:;" class="mbg">Onnit Money Back Guarantee</a>
 
 
-<script type="text/javascript" src="/onnit/script/magnific/magnific-popup.min.js"></script>
+<script type="text/javascript" src="https://onnit.global.ssl.fastly.net/onnit/script/magnific/magnific-popup.min.js?~"></script>
 <script type="text/javascript" src="/onnit/script/onnit.js?c"></script>
-<script type="text/javascript" src="/onnit/script/slider.js"></script>
+<script type="text/javascript" src="https://onnit.global.ssl.fastly.net/onnit/script/slider.js?~"></script>
 
 
 
@@ -572,20 +610,19 @@ window.onload = function(){
 </script>
 
 
-<script type="text/javascript">
-	var _gaq = _gaq || [];
-	_gaq.push(['_setAccount', 'UA-20229952-1']);
-	_gaq.push(['_trackPageview']);
-	(function() {
-		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-	})();
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-20229952-1', 'onnit.com');
+  ga('send', 'pageview');
+
 </script>
 
 
 
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-2.newrelic.com","licenseKey":"917546aee4","applicationID":"2776576","transactionName":"M1UEbEdTX0cHUUNbWQofJ1tBW15aSUJWVVM=","queueTime":0,"applicationTime":369,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
 
-<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:")+"//"+"js-agent.newrelic.com/nr-100.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-2.newrelic.com","917546aee4","2383419","M1UEbEdTX0cHUUNbWQofJ1tBW15aSUJWVVM=",0,209,new Date().getTime(),"","","","",""]);</script>
-
-<script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
+<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
