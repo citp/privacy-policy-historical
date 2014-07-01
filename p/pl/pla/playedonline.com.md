@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playedonline.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330155739id_/http%3A//www.playedonline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playedonline.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701170246id_/http%3A//playedonline.com/privacy) for the most accurate reproduction.*
 
 # PlayedOnline's Privacy Policy
 
