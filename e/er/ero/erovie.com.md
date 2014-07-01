@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the erovie.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209222034id_/http%3A//www.erovie.com/info/data-protection.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the erovie.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701142518id_/http%3A//www.erovie.com/info/data-protection.html) for the most accurate reproduction.*
 
 # Privacy Policy | erovie
 
