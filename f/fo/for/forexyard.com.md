@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forexyard.com privacy policy that was archived on 2014-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140420054316id_/http%3A//www.forexyard.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forexyard.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701061124id_/http%3A//www.forexyard.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Forex Privacy Statement of FOREXYARD
 
