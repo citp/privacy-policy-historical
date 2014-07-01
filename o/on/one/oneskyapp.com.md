@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the oneskyapp.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330190727id_/http%3A//www.oneskyapp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oneskyapp.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702000522id_/http%3A//www.oneskyapp.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | OneSky
 
-Last Updated: September 18, 2013
+Last Updated: May 2, 2014
 
 Your privacy is important to us. Please review the privacy policy below for OneSky’s commitment to safeguarding your privacy online.
 
@@ -53,6 +53,10 @@ OneSky reserve the right to modify this privacy policy at any time to reflect ch
 ## Notice
 
 Children under the age of 13 are not eligible to use our service and must not attempt to register with us and/ or submit any personal information to us. Young people between 13 and 17 should not send any information about themselves to anyone over the Internet (including to us) without asking their parents/legal guardians for permission beforehand.
+
+## Transfer of Information
+
+If OneSky elects, in its reasonable discretion, to transfer ownership or control of the Site or Services to a third party, whether or not in the context of an acquisition, merger, or reorganization, you consent to the transfer of your personally identifiable information and non-personally identifiable information by OneSky to that third party, provided that all use of your information by that third party remains subject to the terms of this Policy and any applicable requirements of the Safe Harbor Principles.
 
 ## Contact Us
 
