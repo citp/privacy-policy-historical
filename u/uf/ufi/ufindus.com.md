@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ufindus.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330053859id_/http%3A//www.ufindus.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ufindus.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701134132id_/http%3A//www.ufindus.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Ufindus Privacy Policy
 
