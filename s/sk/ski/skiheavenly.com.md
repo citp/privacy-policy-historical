@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the skiheavenly.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326181914id_/http%3A//www.skiheavenly.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skiheavenly.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701222520id_/http%3A//www.skiheavenly.com/privacy.aspx) for the most accurate reproduction.*
 
 # Vail Resorts Online Privacy Policy | SkiHeavenly.com
 
 **Vail Resorts Online Privacy Policy  
-**   
-Vail Resorts Management Company and other members of the Vail Resorts family of businesses (together, “Vail Resorts,”) know that you care how information about you is collected and used. We take great pride in the relationships we have developed with our guests and we are committed to treating personal information we obtain from you with care and respect. This Online Privacy Policy (the “Privacy Policy” or “Policy”) is designed to inform you about our privacy policies and practices. This Policy is part of the Terms of Use published on our Sites. Click here to review the  [Terms of Use](http://www.snow.com/termsandconditions.aspx) .
+**  
+Vail Resorts Management Company and other members of the Vail Resorts family of businesses (together, “Vail Resorts,”) know that you care how information about you is collected and used. We take great pride in the relationships we have developed with our guests and we are committed to treating personal information we obtain from you with care and respect. This Online Privacy Policy (the “Privacy Policy” or “Policy”) is designed to inform you about our privacy policies and practices. This Policy is part of the Terms of Use published on our Sites. Click here to review the [Terms of Use](http://www.snow.com/termsandconditions.aspx).
 
 **Scope of the Policy**
 
@@ -30,13 +30,13 @@ We may combine information you have provided to us on our Sites with information
 **_Information Provided by Others._**  
 From time to time, we may supplement the information you give us with information from third parties. For example, we may supplement your profile with demographic and preference data or we may correct mailing addresses by using public sources. By supplementing your profile, we are better able to provide product recommendations and special offers that will be of genuine interest to you. We may also use this information to further personalize our Sites and improve your experience while you are on our Sites.
 
-**_Information Sent to Us by Your Web Browser.  
-_ **We collect information that is automatically sent to us by your web browser. This information typically includes your IP address; the name and version of your operating system; the name and version of your browser; the page you were visiting before you accessed our Site; and the date and time of your visit. The information we receive depends on the settings of your browser. Please check your browser if you want to learn what information your browser sends or how to change your settings. Generally, we use this information to create statistics that help us improve our Sites and make them more compatible with the technology used by our visitors. This information is also used for marketing purposes and to improve your experience on the Sites.
+ ** _Information Sent to Us by Your Web Browser.  
+_**We collect information that is automatically sent to us by your web browser. This information typically includes your IP address; the name and version of your operating system; the name and version of your browser; the page you were visiting before you accessed our Site; and the date and time of your visit. The information we receive depends on the settings of your browser. Please check your browser if you want to learn what information your browser sends or how to change your settings. Generally, we use this information to create statistics that help us improve our Sites and make them more compatible with the technology used by our visitors. This information is also used for marketing purposes and to improve your experience on the Sites.
 
 We may collect IP addresses for purposes of system administration, to report traffic data to our corporate partners, and to audit the use of our Sites. Although the information provided by your browser does not identify you personally, this data can be combined with other data to personally identify you. 
 
 **_Cookies.  
-_ **We also use "cookies" as a method to gain dependable and consistent traffic data. A "cookie" is a small piece of data that is sent to your browser from a web server and stored on your computer's hard drive. We use cookies to help us provide customizable services and to allow you to sign-in to our Sites. Cookies may also be used by Vail corporate partners on co-branded Web pages. You can choose whether to accept cookies by changing the settings of your browser. If you choose not to accept these cookies, your experience at our Sites and other Web sites may be diminished and some features will not work as intended. 
+_**We also use "cookies" as a method to gain dependable and consistent traffic data. A "cookie" is a small piece of data that is sent to your browser from a web server and stored on your computer's hard drive. We use cookies to help us provide customizable services and to allow you to sign-in to our Sites. Cookies may also be used by Vail corporate partners on co-branded Web pages. You can choose whether to accept cookies by changing the settings of your browser. If you choose not to accept these cookies, your experience at our Sites and other Web sites may be diminished and some features will not work as intended. 
 
 **_Advertising Servers._**  
 We may hire other companies to place our banner ads on other websites. Those companies may perform tracking and reporting activities on the ads they serve for us, as well as user reaction. They would not collect any information other than IP addresses and behaviors associated with those IP addresses on our behalf, and we will not give any personal information to them. Third-party advertising servers are subject to their own privacy policies. Our service providers are bound by contract to keep your personal information confidential and use it only to perform services on our behalf. 
@@ -72,13 +72,13 @@ From time to time, we may use technology that provides us with information about
 
 For more information about Epic Mix and and customer privacy, visit 
 
-[these FAQs](http://www.snow.com/epicmix/faq/home.aspx) .
+[these FAQs](http://www.snow.com/epicmix/faq/home.aspx).
 
 **Children’s Privacy**
 
 We will not knowingly collect personal information on our Sites from children under the age of 13 without the prior consent of the child’s parent or guardian. If you believe that a child under the age of 13 may have provided personal information to us without consent of the child’s parent or guardian, please contact us at 
 
-[ comments@vailresorts.com  ](mailto:comments@vailresorts.com)
+[comments@vailresorts.com ](mailto:comments@vailresorts.com)
 
 **_Children and Epic Mix  
 _**Children under age 13 may not open their own Epic Mix account. We do, however, allow the parent of a child under the age of 13 to create an Epic Mix account for their child. Parents who create Epic Mix accounts for their child agree to allow their child to use Epic Mix and understand that we will maintain the child’s information and combine it with information collected off line, such as the child’s chair lift rides. Children’s Epic Mix accounts have restricted privacy features. Children under age 13 will not be able to link to third party sites, such as Facebook and Twitter, and Epic Mix information in that child’s account is only viewable by the child and his or her family.
