@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moschino.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330173348id_/http%3A//www.moschino.com/cms/legal/privacypolicy.asp%3Ftskay%3DBD67EC2D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moschino.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701101126id_/http%3A//www.moschino.com/cms/legal/privacypolicy.asp%3Ftskay%3DBD67EC2D) for the most accurate reproduction.*
 
 # Moschino Online Store - Legal Area
 
