@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the reebonz.com.sg privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209142117id_/http%3A//www.reebonz.com.sg/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reebonz.com.sg privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701155354id_/http%3A//www.reebonz.com.sg/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Reebonz - Unveil The Surprise
 
 ### Privacy Policy
 
-Reebonz is committed to protecting the privacy of visitors to this site (the "Site"). This Privacy Policy applies to the Site. This Privacy Policy does not apply to other web sites to which we link. You agree that your use of the Site signifies your assent to this Privacy Policy. If you do not agree with this Privacy Policy, please do not use the Site.
+Reebonz is committed to protecting the privacy policy of visitors to this site (the "Site"). This Privacy Policy applies to the Site. This Privacy Policy does not apply to other web sites to which we link. You agree that your use of the Site signifies your assent to this Privacy Policy. If you do not agree with this Privacy Policy, please do not use the Site.
 
 ##### Information Collected
 
@@ -48,22 +48,16 @@ The Site encrypts your credit card number and other personal information using s
 
 If you are a registered user, you may access and update your registration information and your preferences to receive email or other communications from us by sending an email to [ concierge@reebonz.com](mailto:concierge@reebonz.com)
 
-Please note that your friends and contacts may still choose to send email invitations to you. Any user who receives an email invitation to join the Site may choose not to receive such invitations in the future by following the instructions in the email invitations and, in addition, if you are a member, you may also choose not to receive such invitations by changing your preferences as indicated above. In addition, you may update or change your personal information or preferences by sending email to [ concierge@reebonz.com](mailto:concierge@reebonz.com).
+Please note that your friends and contacts may still choose to send email invitations to you. Any user who receives an email invitation to join the Site may choose not to receive such invitations in the future by following the instructions in the email invitations and, in addition, if you are a member, you may also choose not to receive such invitations by changing your preferences as indicated above. In addition, you may update or change your personal information or preferences by sending email to [concierge@reebonz.com](mailto:concierge@reebonz.com).
 
 We will take commercially reasonable steps to implement your opt-out requests promptly, but you may still receive communications from us for up to ten business days as we process your request.
 
 While we make efforts to accommodate requests to restrict our use of your information, we reserve the right to delete all or any portion of customer information if we are not able to reasonably accommodate a requested restriction.
 
-##### Children's Privacy and Parental Controls
+##### Children's Privacy Policy and Parental Controls
 
 We do not solicit any personal information from children. If you are not 18 or older, you are not authorized to use the Site. Parents should be aware that there are parental control tools available online that you can use to prevent your children from submitting information online without parental permission or from accessing material that is harmful to minors.
 
 ##### Privacy Policy Changes
 
 If we decide to change our Privacy Policy for the Site, we will post the revised Privacy Policy here so that you will always know what information we gather, how we might use that information and whether we may disclose it to anyone. Your continued use of the Site indicates your assent to the Privacy Policy as posted.
-
-If you have any questions about this Privacy Policy, please contact us at:
-
- **Reebonz  **24 Raffles Place #07-07 Clifford Centre, Singapore 048621. Tel: 65-6517-4920 [ concierge@reebonz.com](mailto:concierge@reebonz.com)
-
-Last Updated: February 1, 2009
