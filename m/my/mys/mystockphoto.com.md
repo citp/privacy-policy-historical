@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mystockphoto.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626053523id_/http%3A//www.mystockphoto.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mystockphoto.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701080627id_/http%3A//www.mystockphoto.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - MyStockPhoto.com
 
