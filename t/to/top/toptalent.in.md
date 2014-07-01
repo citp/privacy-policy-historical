@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toptalent.in privacy policy that was archived on 2014-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140303113749id_/http%3A//www.toptalent.in/privacy.php%3Fid%3D47) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toptalent.in privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701194615id_/https%3A//www.toptalent.in/privacy.php%3Fid%3D47) for the most accurate reproduction.*
 
 # TopTalent.in - Exclusive Jobs for Students and Alumni of Top Engineering and MBA Colleges of India.
 
