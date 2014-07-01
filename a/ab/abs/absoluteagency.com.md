@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the absoluteagency.com privacy policy that was archived on 2013-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130820075324id_/http%3A//absoluteagency.com/home/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the absoluteagency.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701122207id_/http%3A//absoluteagency.com/home/privacy_policy.php) for the most accurate reproduction.*
 
 # ABsoluteAgency Dating Service
 
@@ -8,7 +8,7 @@
 
 1\. Subject of regulation
 
-DKD respects the right of members to confidentiality and will do everything possible to facilitate its non-disclosure. This Agreement determines the conditions and purposes of gathering, storing, protecting, processing and distributing information about the DKD website. 
+DKD respects the right of members to confidentiality and will do everything possible to facilitate its non-disclosure. This Agreement determines the conditions and purposes of gathering, storing, protecting, processing and distributing information about the DKD website.
 
 2\. Information, covered by the Agreement
 
