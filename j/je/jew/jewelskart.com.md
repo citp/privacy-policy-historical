@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jewelskart.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210062300id_/http%3A//www.jewelskart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jewelskart.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701170406id_/http%3A//www.jewelskart.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Jewelskart
 
