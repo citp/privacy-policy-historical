@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agentsbids.com privacy policy that was archived on 2014-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140212202051id_/http%3A//www.agentsbids.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agentsbids.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701155114id_/http%3A//www.agentsbids.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - AgentsBids
 
