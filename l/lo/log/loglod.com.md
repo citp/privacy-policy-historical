@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the loglod.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210021858id_/http%3A//www.loglod.org/page/1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loglod.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701100342id_/https%3A//www.loglod.org/page/1.html) for the most accurate reproduction.*
 
 # Privacy Policy page at loglod
 
-**Your Privacy at LogLod.Com**
+**Your Privacy at LogLod.org**
 
 We collect no personal information about you when you visit our website, However, we collect and store certain information automatically. Here is list what we colect and store automatically. 
 
@@ -22,4 +22,4 @@ If you do nothing during your visit but browse through the website, read pages, 
 Our website has links to other sites. When you go to another site, you are no longer on our site and are subject to the privacy policy of the new site.
 
 **Members**  
-If you are mamber of "LogLod.Com" your profile information will be available to anyone who chooses to view it. Do not put sensitive personal information in your profile. We will not share your e-mail address with anyone. It will be used to send you site news and newsletters. You may opt-out of these at any time once you've logged into the site.
+If you are mamber of "LogLod.org" your profile information will be available to anyone who chooses to view it. Do not put sensitive personal information in your profile. We will not share your e-mail address with anyone. It will be used to send you site news and newsletters. You may opt-out of these at any time once you've logged into the site.
