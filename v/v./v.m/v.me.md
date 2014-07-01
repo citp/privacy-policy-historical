@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the v.me privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327104124id_/https%3A//www.v.me/pages/privacy%3Fcountry%3DUS%26locale%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the v.me privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701080610id_/https%3A//www.v.me/pages/privacy%3Fcountry%3DUS%26locale%3Den) for the most accurate reproduction.*
 
 # Privacy Policy - (United States) - V.me by Visa
 
