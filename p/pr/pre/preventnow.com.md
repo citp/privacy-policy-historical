@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the preventnow.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330233205id_/https%3A//preventnow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the preventnow.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702002500id_/https%3A//preventnow.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Prevent
 
-Omada Health, Inc. (the  **“Company”** ) knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy policy. By visiting the PreventNow.com website and domain name, and any other linked pages, features, content, or application services offered from time to time by the Company in connection therewith (collectively, the  **“Sites,”**  as further defined in our Terms), or using any of our Services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy. Capitalized terms not defined in this Privacy Policy shall have the meanings set forth in our Terms of Use, available at http://localhost:8888/prevent_wp/terms ( **“Terms”** ).
+Omada Health, Inc. (the  **“Company”** ) knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy policy. By visiting the PreventNow.com website and domain name, and any other linked pages, features, content, or application services offered from time to time by the Company in connection therewith (collectively, the  **“Sites,”**  as further defined in our Terms), or using any of our Services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy. Capitalized terms not defined in this Privacy Policy shall have the meanings set forth in our Terms of Use, available at <https://preventnow.com/terms> ( **“Terms”** ).
 
 **“Company”**  or the terms  **“we”**  or  **“us”**  or similar terms refer to Omada Health, Inc.  **“You”**  or  **“your”**  or similar terms refer to you as a user of our Services.
 
-By accepting our Privacy Policy during registration, or by visiting and/or using the Sites or any of our Services, you (a) expressly consent to our collection, use, and disclosure of your Personal Information (as defined below) in accordance with this Privacy Policy, and (b) expressly acknowledge that you have read and understood our Notice of Privacy Practices, which provides important information to you about how we may use and disclose health information about you. Our Notice of Privacy Practices is available at http://localhost:8888/prevent_wp/npp
+By accepting our Privacy Policy during registration, or by visiting and/or using the Sites or any of our Services, you (a) expressly consent to our collection, use, and disclosure of your Personal Information (as defined below) in accordance with this Privacy Policy, and (b) expressly acknowledge that you have read and understood our Notice of Privacy Practices, which provides important information to you about how we may use and disclose health information about you. Our Notice of Privacy Practices is available at <https://preventnow.com/npp>
 
 As used in this Privacy Policy, the terms  **“using”**  and  **“processing”**  information include using cookies on a computer, subjecting the information to statistical or other analysis, and using or handling information in any way, including, without limitation, collecting, storing, evaluating, modifying, deleting, using, combining, disclosing, and transferring information within our organization or among our affiliates within the United States or internationally.
 
@@ -18,7 +18,7 @@ This Privacy Policy covers how we use and disclose personally identifiable infor
 
 **Medical Personal Information.**
 
-We are dedicated to maintaining the privacy and integrity of your protected health information ( **“PHI”** ). PHI is Personal Information about you that relates to (a) your past, present, or future physical or mental health or condition, (b) the provision of health care to you, or (c) your past, present, or future payment for the provision of health care. This Privacy Policy describes how we protect your privacy as a general user of our Sites and Services. You have additional rights under federal and state law with respect to the access to, use and disclosure of Personal Information that constitutes PHI. For a more complete description of your rights with respect to PHI, please refer to our Notice of Privacy Practices, which provides important information to you about how we may use and disclose your PHI. Our Notice of Privacy Practices is available here: http://localhost:8888/prevent_wp/npp
+We are dedicated to maintaining the privacy and integrity of your protected health information ( **“PHI”** ). PHI is Personal Information about you that relates to (a) your past, present, or future physical or mental health or condition, (b) the provision of health care to you, or (c) your past, present, or future payment for the provision of health care. This Privacy Policy describes how we protect your privacy as a general user of our Sites and Services. You have additional rights under federal and state law with respect to the access to, use and disclosure of Personal Information that constitutes PHI. For a more complete description of your rights with respect to PHI, please refer to our Notice of Privacy Practices, which provides important information to you about how we may use and disclose your PHI. Our Notice of Privacy Practices is available here: <https://preventnow.com/npp>
 
 ## 2\. WHAT PERSONAL INFORMATION DO WE COLLECT?
 
@@ -121,7 +121,7 @@ By using the Services, you agree to the current Privacy Policy and our Terms, in
 If you have any questions or concerns regarding privacy on our Sites, please send us a detailed message at privacy@preventnow.com or at the address below. We will make every effort to resolve your concerns.
 
 Omada Health, Inc  
-455 Market St. Ste 1670  
-San Francisco, CA 94105
+500 Sansome St. Ste 200  
+San Francisco, CA 94111
 
 Effective Date: April 3, 2012
