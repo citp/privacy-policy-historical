@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alfredforum.com privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215044019id_/http%3A//www.alfredforum.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alfredforum.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701150018id_/http%3A//www.alfredforum.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Alfred App Community Forum
 
