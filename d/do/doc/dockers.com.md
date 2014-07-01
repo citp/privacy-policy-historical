@@ -1,231 +1,137 @@
-> *The following text is extracted and transformed from the dockers.com privacy policy that was archived on 2011-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110613000623id_/http%3A//privacy.levistrauss.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dockers.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701090256id_/http%3A//privacy.levistrauss.com/privacy) for the most accurate reproduction.*
 
-# Levi Strauss & Co.'s Privacy Policy | Levi Strauss & Co.
+# Privacy Policy | Levi Strauss
 
-This online Privacy Policy was last updated on **April 1, 2011**.
+This online Privacy Policy was last updated on  **January 29, 2014**.
 
-(Please also review our online **Terms & Conditions**, which are linked at the bottom of our web pages and which govern many the user-generated content and related features, as explained therein.)
+Levi Strauss & Co. (LS&CO) is deeply committed to the relationship of trust we have with you — our consumers. For more than 155 years we have been creating authentic products by leading with our values. As we continue to innovate in how we bring our products to life online, we’ll match cutting-edge technology with your privacy interests.
 
-Levi Strauss & Co. ("LS&CO.," "we," "us," "our") is deeply committed to maintaining the privacy of all online visitors to its family of websites, including: [_www.levistrauss.com_](http://www.levistrauss.com/) | [_www.signaturelevistrauss.com_](http://www.signaturelevistrauss.com/) | [_www.levi.com_](http://www.levi.com/) | [_www.dockers.com_](http://www.dockers.com/) | [_www.denizen.com_](http://www.denizen.com/)
+**OUR PILLARS OF PRIVACY**
 
-We are interested in hearing your ideas on how we can improve the way we collect and use your information. Email your suggestions [here](http://us.levi.com/helpdesk/index.jsp?display=store&subdisplay=contact&stillHaveQuestion=yes). We want to make your experience on Levi Strauss & Co.'s websites as satisfying and safe as reasonably possible.
+**Transparency**
 
-1\. Our Commitment  
-2\. What Information We Collect and How We Collect It  
-3\. How We Use Information  
-4\. Your Choices Regarding Your Information  
-5\. Links To Other Websites  
-6\. We Do Not Collect Children's Information  
-7\. Safeguarding Your Information  
-8\. Contact Us Regarding Your Information  
-9\. Online Updates to the Privacy Policy  
-10\. Your Consent
+We want you to know what and how information is collected when you interact with our websites.
 
-**1\. Our Commitment**
+**Choice**
 
-Transparency
+We will offer you choices about how your information can be used by us and our trusted business partners.
 
-| 
+**Data Integrity**
 
-We tell you in advance what information we collect from you, what information may be collected about you by third parties on our site, how we intend to use any information we collect, and how long we keep it.  
-  
----|---  
-  
-Choice
+We will take reasonable precautions to protect information we collect about you on our websites through the use of secure technologies.
 
-| 
+**_What Information Do We Collect?_**
 
-We will give you control over how we use the data you give us. We will not share your Personally Identifiable Information you give us with third parties unless we first obtain your consent. We also will give you the opportunity of opting out of other uses that we make of any of the information you provide to us. If we change our Privacy Policy in any material way we will obtain your consent before changing the way we use your Personally Identifiable Information.  
-  
-Security
+**Personally Identifiable Information (“PII”)**
 
-| 
+****Any information that can be used to identify you is considered personally identifiable information or PII. This includes your name, physical address, e-mail, phone number, fax number, and credit card information.
 
-We will implement reasonable security measures, including Secure Socket Layer (SSL) encryption technology and other tools to protect all the information we collect about you on our websites. We will retain your Personally Identifiable Information only for the time necessary to achieve the disclosed purposes.  
-  
-**2\. What Information We Collect and How We Collect It**
+**Browsing Information**
 
-**What Information Do We Collect?**
+Information we collect about your activities on our websites through the use of technology such ascookies and web beacons is referred to as browsing information. This browsing information is linked to an anonymous IP identifier and not to you personally. If for any reason your browsing information is linked to information that can personally identify you, we’ll treat it as PII.
 
-Three types of information are collected on our websites:
+**Information You Post**
 
-Personally Identifiable Information ("PII")
+****All information that you share about yourself, whether PII or not, in a public open forum – on a social network, in user-generated content elements of our websites, etc. — will be considered public information for the purposes of this policy. If you don’t want it to be public, don’t post it.
 
-| 
+**_Who Collects Information?_**
 
-Any information collected from you by us that can be used to identify you, including, your name, physical address, e-mail, phone number, fax number, and credit card information. PII also includes your browsing history if that has been linked to other personally identifiable information.  
-  
----|---  
-  
-Anonymous Information
+We collect information from you when you interact with our websites. We may also collect information about you from third parties. Our trusted business partners also collect information from you on our behalf in the course of helping us operate our websites and provide services of interest to you. Any reference to “we” or “us” may also refer to our trusted business partners. We also permitthird-party advertising companies to collect your browsing information as well to provide ads on our behalf that are tailored to your interests. [Click here](http://privacy.levistrauss.com/privacy/#3browseInfo) for more information on interest based ads and your choices regarding your information.
 
-| 
+When you interact with our websites information may be collected in several different ways. It may be collected in obvious, active ways, such as when you provide your name and address or other information when making a purchase in a store or online, when using the customer service chat feature, when you enter a contest or sweepstakes or if you upload a photo or product review to our site. It may also be collected passively or automatically when you visit and move around on our websites through the use of cookies and web beacons that capture your browsing information to enable us and third-party advertising companies to better tailor content and advertising to you.[Click here](http://privacy.levistrauss.com/privacy/#6defCookies) for more information about how cookies and web beacons work.
 
-We collect browsing history and other non-identifiable information through the use of technology, as described further below, which is not linked to any information which would personally identify you. This information is anonymous, non-PII data.  
-  
-Public Information
+In general, collection of your PII, browsing information and information you post or provide may vary across our stores and websites depending on their purpose, functionality or unique aspects.
 
-| 
+**_Use and Sharing of Collected Information_**
 
-All information that you share about yourself in an open format (e.g., on a social network, on a third party social network application on our website, in user-generated content elements of our websites, etc.), will be considered Public Information. This includes information which might otherwise be considered PII if we had collected it from you.  
-  
-We collect PII, Anonymous Information or Public Information depending on the purpose and functionality of each website. There may be parts of our websites where third parties collect and share information about you. Such areas will be clearly marked so that you will know if you are submitting your information to a third party (e.g. to a social network, as in the case of the Facebook Friends Store discussed below).
+We use information collected on our websites for four primary purposes.
 
-**How Do We Collect Information?**
+  * First, we use information collected to facilitate your online shopping and to offer you information and promotional material about the products and services you see on our websites.
+  * Second, we use your browsing information to help us analyze our websites, services and offerings. We consider such information analytics data.
+  * Third, your browsing and shopping information is used to provide you with interest-based advertising. .
+  * Fourth, we may use information you post in public areas to provide you with an interactive social media experience that brings aspects of your social networking community to our websites.
 
-We collect Personally Identifiable Information when you register for promotional emails, set up a shopping account, purchase goods, contact customer service, or engage in other interactive features with our sites (e.g., consumer opinion surveys). Please also review our online Terms & Conditions, which are linked at the bottom of our web pages and which govern many of the user-generated content and related features, as explained therein.
 
-We collect Public Information through various means, including by collecting information you publicly post on any user-generated content sites, and we may obtain public information from third party applications operating on our websites. We collect Anonymous Information through the use of "cookies" and "web beacons." Cookies and web beacons work together to collect and process information regarding how your computer interacts with our Levi's® (www.levi.com) and Dockers® (www.dockers.com) websites. This information is used by our business partners, including OMD Worldwide Holdings LLC (OMD) and GSI Commerce, to improve our websites and enhance our product offerings and promotions. Cookies also allow our business partners to serve advertisements for our products to you when you visit other sites.
 
-Information collected by third parties on specially marked areas of our websites is not within our control.
+We may share your PII within our family of companies under common ownership; we do not share your PII with third parties for marketing purposes or other than as described in this privacy statement. Any trusted business partner receiving PII is contractually prohibited from discussing, disclosing or making any use of such PII except as directly necessary to provide us with the services for which we have contracted. We will get your consent first if at any time we would like to share your PII with other third parties for marketing purposes.
 
-**_What is a cookie?_**
+**Cookies**
 
-A "cookie" is a computer file that acts as an identification card for your computer. When you visit our Levi's® or Dockers® sites, unique cookies are placed on your browser by our business partners, including ad serving partners along with Networks of Publishers, as well as GSI Commerce. The purpose of the cookie is to distinguish your browser from all other browsers that visit our sites. By recognizing your browser, we can serve you better. For example, the cookies allow us to hold the selections in your shopping cart when you navigate away from the order page and then return to complete the order; because of the cookie, you don't have to start over with your shopping. We can also keep track of what pages of our website your browser visited and whether you purchased a product. That way we can measure such things as how effective our advertising campaigns have been. Working with our partner OMD (and its partners) we also use cookies to track your interests and then provide you with customized banner ads that we think will be more useful than randomly-generated ads because they are based on your past purchases and page visits to our Levi's® and Dockers® sites. See below for more information about how our business partners use cookies to direct customized ads to you. 
+A “cookie” is a computer file that acts as an identification card for your computer. When you visit our sites, unique cookies are placed on your browser. The purpose of the cookie is to distinguish your browser from all other browsers that visit our sites. However, by recognizing your browser, we can serve you better. For example, the cookies allow us to hold the selections in your shopping cart when you navigate away from the order page and then return to complete the order; because of the cookie, you don’t have to start over with your shopping. We can also keep track of what pages of our website your browser visited and whether you purchased a product. That way we can measure such things as how effective our advertising campaigns have been. Working with third-party advertising companies, the use of cookies also enables us to provide you with customized banner ads that we think will be more useful than randomly-generated ads because they are based on your past purchases and page visits to our sites.
 
-**_What is a web beacon?_**
+**Web Beacons**
 
-When you visit our Levi's® or Dockers® sites, web beacons, which are managed by our business partner, OMD, will recognize specific cookies that have been placed on your browser by us and by Networks of Publishers ("Publishers" are content sites that sell advertising space on their sites) that are partnered with OMD. Web beacons can convey that a browser with a recognized cookie has accessed a page or a certain part of a page on our website, depending on where the web beacon is located on the Levi's® or Dockers® website. For example, a web beacon located on our purchase confirmation page will record that a browser with a recognized cookie accessed that page which means that we can conclude that the browser was used to purchase a product. The web beacon does not, however, tell us that you specifically (by reference to PII) have purchased a product because the cookie is only the browser's identification card; it is not your personal identification card. (In other words, none of the information obtained by the web beacon is connected to any Personally Identifiable Information).
+When you visit our ecommerce sites, web beacons will recognize specific cookies that have been placed on your browser. Web beacons can convey information that a browser with a recognized cookie has accessed a page or a certain part of a page on our website, depending on where the web beacon is located on the website. For example, a web beacon located on our purchase confirmation page will record that a browser with a recognized cookie accessed that page which means that we can conclude that the browser was used to purchase a product. The web beacon does not, however, tell us that you specifically (by reference to PII) have purchased a product because the cookie is only the browser’s identification card; it is not your personal identification card.
 
-We use web beacons to measure the effectiveness of our advertising campaigns and to improve our websites by seeing what pages are visited and whether those visits result in purchases. Web beacons also allow our partner OMD to select and serve banner advertisements to your browser that you would be most likely to be interested in, as discussed in section below titled "How Our Business Partners Use Information."
+We use web beacons to measure the effectiveness of our advertising campaigns and to improve our websites by recognizing which pages are visited and whether those visits result in purchases. Web beacons also allow third-party advertising companies we work with to select and serve banner advertisements to your browser that you would be most likely to be interested in.
 
-**3\. How We Use Information**
+**Trusted Business Partners**
 
-**Purposes for Information Collection**
+We work with industry-leading business partners who help us operate our websites and provide important services to our customers and visitors. Our business partners may change over time but we are committed to building relationships with third parties who are dedicated to providing you a safe and satisfying experience on our websites. Our trusted business partners are contractually obligated to collect and use any information collected from you on an LS&CO site or on behalf of LS&CO in a manner that is consistent with this privacy policy.
 
-There are three important reasons why we (working with our trusted business partners) collect information on our websites.
+**Third-Party Advertising Companies**
 
-  * First, we collect Personally Identifiable Information to open your online shopping account, to complete online purchases, to answer your customer service questions and occasionally, to send to you information and email promotions about our products. We also collect information that you submit on any of our user-generated forums and sharing portions of our sites and webpages.
-  * Second, we collect Anonymous Information such as browsing history or web pages your browser has visited to help us keep track of information for the purposes of improving our website, improving our services and advertising, increase the effectiveness of our advertising campaigns and to provide you with tailored advertising at both our sites and other sites that we believe you will be much more interested in than randomly-generated advertisements.
-  * Third, we may utilize Public Information from third parties to provide our users an interactive social media experience that brings aspects of your social networking community to the LS&CO. websites (see below for more information).
+We allow certain companies to collect information from browsers of our websites to use to serve interest-based ads. These companies are usually third party ad servers, ad agencies, technology vendors or providers of sponsored content. Using cookies and web beacons, these companies collect data from a particular browser about web viewing behaviors over time and across unrelated websites and use such data to predict user preferences and to deliver advertisements to that browser which are calculated to target that browser’s predicted preferences.
 
+**Analytics Data**
 
+Information collected through cookies and web beacons to keep track of what products you viewed and purchased and what areas or pages you viewed on our websites is called “analytics data”. We use analytics data to improve the design and content of our websites, to help us learn things like what pages are most attractive to all of our visitors and what promotions visitors like to see, and to gauge the success of our advertising campaigns.
 
-**Disclosure and Sharing of PII**
+**Interest-Based Advertising**
 
-We will not sell, trade, or otherwise transfer any Personally Identifiable Information (PII) we collect about you to outside parties without providing you with advance notice and an opportunity to consent. "Outside parties" do not include companies wholly-owned by Levi Strauss & Co. or trusted business partners, such as GSI Commerce, who help operate and provide services on our websites.
+Interest-based advertising has become commonplace across the Web. It is the term we use for the activity that enables us to tailor ads to your interests and activities. Either LS&CO or third-party advertising companies we work with may look at your browsing activity, such as the types of content you access, ads you click on, and searches you conduct. We can then infer certain interests you have and place ads and offer you deals that meet your needs. Our goal for interest-based advertising is to show ads to people likely to be interested in the products we offer at LS&CO. [Click Here](http://privacy.levistrauss.com/privacy/#3) to learn more about our practices with regard to interest-based ads.
 
-We treat PII about you and collected by us as confidential, and we require, by contract, each of our business partners who may have access to any PII collected by us to treat as confidential any such PII. Our business partners, in turn, may share information with their own service providers pursuant to similar confidentiality restrictions.
+******Friend’s Store**
 
-We reserve the right to disclose any PII to the extent we reasonably believe that disclosure is required by law, to enforce our website policies, or to protect your or others' rights, property or safety.
+The Friend’s Store is a section on our levi.com website, offered in partnership with Facebook, that allows you to share the products you like with your friends and find out what they “like”. If you interact with our Friends Store or click on the Like button on our levi.com website, you will essentially be using our website and Facebook at the same time but your “Friends” experience will be governed by the privacy and other policies of Facebook.
 
-**How Our Business Partners Use Information**
+We keep your PII confidential, and we require, by contract, that each of our trusted business partners who may have access to any such PII information keep it confidential as well. Our trusted business partners, in turn, may share information with their own service providers pursuant to similar confidentiality restrictions.
 
-We work with industry-leading business partners who help us operate our websites and provide important services to our customers and visitors.
+We will not sell, trade, or otherwise transfer any of your PII to any other outside parties without getting your consent first. “Outside parties” do not include companies owned by LS&CO or our trusted business partners who help operate and provide services on our websites.
 
-**OMD**
+Of course, to the extent we reasonably believe that a disclosure is required by law, to enforce our website policies, or to protect your or others’ rights, property or safety, we reserve the right to do so.
 
-| 
+**Safeguarding Your PII**
 
-OMD provides to us three important services.
+When you register at our sites, we ask you to set up a password that you can use to access your information at our sites. If you want to cancel your password or change it, or something happens to your password, click on the “Contact Us” link found in the Help/Customer Service sections of our websites.
 
-  * First, it develops online advertising campaigns including purchasing of ad space on "Publishers," which are content sites, like NFL.com that offer space on their web pages for advertising. Publishers can also be organized into Networks of Publishers; OMD engages one or more Networks for various online advertising campaigns.
-  * Second, OMD uses cookies and web beacons (through technology partners, and Networks of Publishers engaged by OMD) to provide us limited online tailored advertising, which currently consists of serving particular Levi's® and Dockers® banner ads to the browsers of recognized cookies. OMD may serve those ads both on our sites and on other sites where it recognizes your browser's cookie.
-  * Third, OMD provides regular reports to us that show how successful a given online advertising campaign has been based on the web traffic and sales.
+We use Secure Socket Layer (SSL) technology to encrypt transmissions of sensitive information from your computer to our servers. However, when you communicate with customer service via email or chat on our websites, these communications are handled via unsecured transmissions. Please be aware that information provided (such as email address, payment information, etc.) may be accessible to others. For that reason we ask that you protect yourself and not share sensitive information via these communication channels.
 
+**Contact Us Regarding Your Information**
 
+If you have any questions or concerns about Levi Strauss & Co.’s Online Privacy Policy, please send an email to MBXLSAprivacy@levi.com; call us Toll-Free at 1-866-290-6064; or write to us at:
 
-OMD and its partners do not collect any Personally Identifiable Information (PII) or any other information that could readily be used to identify any particular individual. The use of cookies and web beacons on our sites results only in the collection of Anonymous Information. Specifically, OMD (through an ad serving partner) arranges for a banner ad to be served on a Publisher's page when it recognizes a cookie on a browser has previously been to either the Levi's® or Dockers® site. The browser is identified solely by an anonymous cookie, not by any PII. The banner ads invite web traffic by providing a "click-through" link to the Levi's® or Dockers® website.
+Levi Strauss & Co.  
+General Counsel  
+1155 Battery Street  
+San Francisco, CA 94111
 
-We require OMD, by contract, to protect the confidentiality and anonymity of all information obtained from cookies and web beacons on our Levi's® and Dockers® sites. OMD has represented that it requires, by contract, that the technologies and Network of Publishers that it does business with protect consumer privacy rights.
+******Online Updates to the Privacy Policy**
 
-_Read Section 2, above ("How Do We Collect Information") for more on cookies / web beacons._  
-  
----|---  
-  
-**GSI Commerce**
+If we modify this Privacy Policy, we will post the revised Privacy Policy on this website. We also may post a notice on this website or send an email describing the changes if the policy changes in any material way. You should check this website regularly to see if any recent changes to this Privacy Policy have occurred.
 
-| 
+**Your PII**
 
-GSI Commerce uses cookies and web beacons (through its technology platform, Omniture) to keep track of what products were viewed and purchased at our Levi's® and Dockers® e-commerce sites and what areas or pages on our Levi's® and Dockers® sites are accessed. We use this information (called "analytics data") to improve the design and content of our websites, to help us learn things like what pages are most attractive to our visitors and what promotions our visitors like to see, and to gauge the success of our advertising campaigns.
+With your PII — like the information you give us to fulfill an order or sign up for an online offer or contest – we will always give you the right to change or correct your information and the choice of not hearing from us again. There are several ways you can control our use of any submitted PII in connection with promotional communications.
 
-The "analytics data" collected by GSI does not contain any Personally Identifiable Information (PII). Nor does GSI share any of the particular Anonymous Information it collects at the Levi's® and Dockers® sites with any other of its clients. GSI may collect and aggregate website guest and customer information from multiple clients and share this Anonymous Information with existing and prospective business partners, clients and advertisers. None of the aggregated information will contain any PII or information that identifies you or any PII.
+When you set up an account, or either click on “My Account” from any page or “Manage Your Account” from within the Help Desk area of one of our websites, you can access, correct or update your choices/settings.
 
-GSI also provides all of the administrative and e-commerce services on the Levi's® and Dockers® sites. These services include web hosting, payment processing and authorization, order fulfillment and shipping, order tracking, returns processing, customer service, call and email center operation, fraud protection and credit risk reduction. GSI is thus exposed to PII. However, GSI is not authorized to discuss, disclose or make any use of any PII except as directly necessary to provide us with these services.
+If you receive email communications from us on behalf of any of our brands and want to opt out of receiving such communications in the future from that brand, you can opt out by clicking the “Unsubscribe” link at the bottom of the promotional email or by clicking on the “Unsubscribe” button at the bottom of any of that brand’s websites.
 
-_Read Section 2, above ("How Do We Collect Information") for more on cookies / web beacons._  
-  
-**Social Commerce and Other Third Parties**
+If you have any difficulty managing your communication preferences, please email [MBXLSAprivacy@levi.com](mailto:MBXLSAprivacy@levi.com).
 
-| 
+**Your Browsing Information**
 
-We also may collect and store information about you that we receive from other sources, to enable us to update and correct the information contained in our database and to provide product recommendations and special offers that we think will interest you.
+We work with third-party advertising companies that may collect your browsing and shopping information in order to provide LS&CO and other advertisements of interest to you. We refer to this practice as interest-based advertising. We believe these interest-based ads are more useful to you than randomly-generated ads because they are tailored to your shopping and product interests as indicated by your browsing habits.
 
-From time to time, we partner with trusted third parties to design and operate contests or promotional events for our valued customers and visitors. Some of these contests and events may be online at one or more Levi's® sites. All Personally Identifiable Information (PII) and Public Information obtained through your participation in our promotional events will be subject to this Privacy Policy, as well as the privacy policies and practices of our promotional event partner. We will require, by contract, that our partners treat any PII and Public Information that may be obtained through a contest or promotional event in a manner consistent with this Privacy Policy.
+If you would like to learn more about interest-based advertising and see what choices you may have about how companies use your information, please go to <http://aboutads.info/choices/> or <http://www.networkadvertising.org/choices/>. We do not operate or control these sites, and are not responsible for the opt-out choices available there. The only way to fully opt-out of online tracking is to adjust your browser settings to reject cookies or to notify you when a cookie is set. Please remember, even if you opt-out of interest-based advertising on or through [http://aboutads.info](http://aboutads.info/) you may still receive ads from LS&CO, as interest-based ads are only one form of advertising.
 
-We partner with trusted third parties, including social network sites such as Facebook, and we engage with trusted business partners such as Social Amp, a software application developer who specializes in social commerce, to connect to your social networks. We provide this type of access to our site by third parties and business partners to generate interest in our products among the members of your social networks and also to enable you to share product interests with your network of friends.
+Finally, it is important to note that in most cases opting out drops an “opt-out cookie” on your browser. As a result, if you delete, block or otherwise restrict cookies or use a different computer or Internet browser, you’ll need to renew your opt-out choice.
 
-The use of any features made available to you on our websites by a third party may result in information being collected or shared about you by us or by the third party. Information collected or shared through any such third party features is considered Public Information under this privacy policy because the third party sites made it publicly available. If you do not want us to be able to access information about you from third party sites you must instruct third party sites not to share the information. We cannot control how your data is collected, stored, used or shared by third-party sites or to whom it is disclosed. Please be sure to review the privacy policies and settings on your social networking sites to make sure you understand the information they are sharing LS&CO. is not liable for how these third parties may use information collected from or about you. However, we do identify any areas on our websites where third parties share information about you.
+**Controlling Cookies**
 
-We also may collect and store information about you that we receive from other sources, to enable us to update and correct the information contained in our database and to provide product recommendations and special offers that we think will interest you. From time to time, we partner with trusted third parties to design and operate contests or promotional events for our valued customers and visitors. Some of these contests and events may be online at one or more Levi's® sites. All Personally Identifiable Information (PII) and Public Information obtained through your participation in our promotional events will be subject to this Privacy Policy, as well as the privacy policies and practices of our promotional event partner. We will require, by contract, that our partners treat any PII and Public Information that may be obtained through a contest or promotional event in a manner consistent with this Privacy Policy. We partner with trusted third parties, including social network sites such as Facebook, and we engage with trusted business partners such as Social Amp, a software application developer who specializes in social commerce, to connect to your social networks. We provide this type of access to our site by third parties and business partners to generate interest in our products among the members of your social networks and also to enable you to share product interests with your network of friends. The use of any features made available to you on our websites by a third party may result in information being collected or shared about you by us or by the third party. Information collected or shared through any such third party features is considered Public Information under this privacy policy because the third party sites made it publicly available. If you do not want us to be able to access information about you from third party sites you must instruct third party sites not to share the information. We cannot control how your data is collected, stored, used or shared by third-party sites or to whom it is disclosed. Please be sure to review the privacy policies and settings on your social networking sites to make sure you understand the information they are sharing LS&CO. is not liable for how these third parties may use information collected from or about you. However, we do identify any areas on our websites where third parties share information about you. For example, we have agreed to permit Facebook's "Like" feature to run alongside many images of our product offerings. This feature allows you to "like" one of our products and to see how many other Facebook users "like" each of our products. Our trusted business partner Social Amp maintains the Friends Store section on our website to showcase products "liked" by Facebook users. Once you "connect" with Facebook (using Facebook Connect or other connecting application) to the Friends Store on the website, you can browse to discover which products are "liked" by your Facebook friends and by the larger Facebook community. If you are a Facebook user and you indicate that you "like" a product on our website or that you "like" LS&CO. on Facebook, Social Amp may then request that Facebook serve to the Friends Store your name, Facebook profile photo and other profile information available to the public under the terms of Facebook's privacy policy. This information may be displayed alongside the product in the Friends Store on our website indicating that you "like" the product. The actual information that may be displayed in the Friends Store will depend on what information is made publicly available on Facebook.com. Please see the Facebook privacy policy if you have any questions about how Facebook collects, stores, or shares your information. Additional information from your Facebook profile may be displayed only to you and only while you are viewing the Friends Store, such as the upcoming birthdays of a selection of your Facebook friends to remind you to purchase birthday gifts if you wish to do so. Social Amp will collect and keep the user's Facebook profile identification for only so long as necessary to operate the Friends Store. Social Amp may collect and keep for up to 24 hours the upcoming birthdays of a selection of your Facebook friends. You should know that Facebook may collect or register the fact that you "like" a product and may post that information to your "News Feed" on Facebook and to your Facebook profile's "Wall" and "Info" pages. Therefore, the fact that you "like" one or more of our products may be made known to members of your Facebook network. Similarly, if a member in your Facebook network "likes" a product of ours, it will likewise post to his or her News Feed, Wall or Info pages. Finally, by "liking" one of our products, you consent to allow us to display that information, along with any public profile information Facebook may serve to our website in response to a request from Social Amp. If you do not wish this to happen, do not click that you "like" a product. We are in no way obligated to display a Facebook user's name, profile photo and other "public" Facebook profile information on our website even if that Facebook user "likes" one of our products. We reserve the right to remove the information of any user which we deem to be inconsistent with our ideals or otherwise inappropriate for public association with our brand. We may remove from our website, in our sole discretion, any product offering or any photo or product description relating thereto.   
-  
-**4\. Your Choices Regarding Your Information**
+Because cookies and web beacons are the technology generally driving collection of browsing information, you can also block cookies to control data collection related to interest-based advertising. You can typically do so through your Internet browser. For instructions, check your browser’s technical information. Preventing your browser from accepting cookies prevents the collection of your browsing information for purposes of delivering interest-based ads. However, it may also disable or interfere with shopping features on our sites and other sites that you may visit. For example, cookies allow us to hold your shopping cart selections when you navigate away and then return to the order page. Cookies also allow us to recognize you as an account holder when you return to our sites. Most browsers accept cookies automatically. We recommend that you leave cookies “turned on” so we can offer you a better shopping experience on our sites.
 
-**Use of PII: Promotional Communications**
+**Interacting with Social Media on our Websites**
 
-There are several ways in which you can control our use of any submitted PII in connection with promotional communications. When you set up an account, or click on "Manage Your Account" within the Help Desk area of one of our e-commerce websites ([ _www.levi.com_](http://www.levi.com/) or [_www.dockers.com_](http://www.dockers.com/)), you will have an opportunity to access, correct or update your choices/settings in this regard. You can also click the "unsubscribe" link at the bottom of any promotional emails we send to you. If you have any difficulty managing your communication preferences, please [CLICK HERE](http://us.levi.com/helpdesk/index.jsp?display=store&subdisplay=contact&stillHaveQuestion=yes) to contact our Customer Service Department or email [customerservice@levisstore.com](mailto:customerservice@levisstore.com).
-
-**Use of Public Information: Online Shopping Services, Social Commerce, and Targeted Online Advertisements**
-
-Online Shopping Services
-
-As noted above in this Policy, a cookie is a unique computer file placed in your browser that distinguishes your browser from all other browsers. By recognizing your browser, our e-commerce partner, GSI Commerce (and its technology platform, Omniture) can provide you better online services. For example, cookies allow us to hold your shopping-cart selections when you navigate away and then return to the order page. Cookies also allow us to recognize you as an account holder when you return to our Levi's® or Dockers® sites. Most browsers accept cookies automatically. We recommend that you leave cookies "turned on" so we can offer you a better shopping experience on our sites.
-
-However, if you wish to prevent cookies from being accepted, most internet browsers allow you to do so- e.g., in Internet Explorer, click "Tools," then "Internet Options" and adjust your cookie settings on the "Privacy" tab (e.g.; the "Block All Cookies" setting blocks all future cookies and renders all existing cookies unreadable by websites). For more information, please check your browser's technical information and/or visit [_http://www.aboutcookies.org_](http://www.aboutcookies.org/), which is a helpful informational site on cookies. **Preventing your browser from accepting cookies prevents Levi Strauss (or any company) from tracking your browser for purposes of targeted ads. However, it may also disable or interfere with shopping features on our sites or other sites that you may visit. Please read below to find out how you can opt out of targeted online ads, without disabling cookies.**
-
-Social Commerce
-
-As mentioned above, if you chose to interact with LS&CO. through a social media application such as by "liking" a product on LS&CO.'s website or by "liking" LS&CO on Facebook, we may obtain information made publicly available by third parties such as Facebook for use on our website, and we may permit third parties like social networks to utilize portions of our website for social commerce purposes. If you do not want a social media site to share information about you, you must contact that site and determine whether it gives you the opportunity to opt out of sharing such information. If you do not want LS&CO to share information about you with a social media site or application, you should not access the social media site or the social media application from a LS&CO site. For example, you should not click a "like" button on the Friends Store.
-
-Targeted Online Advertisements
-
-As noted above, our advertising partner, OMD partners with ad serving technologies and Networks of Publisher sites to place cookies on your browser to keep track of your interactions with our sites and other sites for purposes of serving you targeted banner ads. We believe these tailored ads are more useful to you than randomly-generated ads because they are tailored to your shopping and product interests.
-
-However, to **OPT-OUT** of receiving targeted ads and from being tracked for targeted ad purposes through cookies issued from our sites (including cookies issued by Networks of Publishers), please follow these **OPT-OUT STEPS:**
-
-**STEP 1:** Go to the National Advertising Initiative ("NAI") site: [_http://www.networkadvertising.org_](http://www.networkadvertising.org/)
-
-**STEP 2:** Select the "Consumer Opt-Out" tool, which is prominently featured on the NAI homepage
-
-**STEP 3:** Under the "Opt-Out Status" section, choose "Select All" and then "Submit"
-
-**STEP 4:** Under the "Opt Out of NAI Member Ad Networks" section on the following page, ensure that ALL of the NAI networks have been selected for opt-out, and then hit "Click here to continue" at the bottom of that page
-
-**STEP 5:** Under the "Opt-Out Status" section on the following page, confirm that you have received an "Opt-Out Cookie" from each of the NAI networks
-
-Because we contractually require OMD to work only with Networks of Publishers that are NAI members (including OMD's ad serving partners), the OPT-OUT STEPS will stop all targeted banner ads from Levi Strauss and will stop the Networks from tracking your browser through cookies issued from our sites. **Please note that the OPT-OUT STEPS cannot prevent all online advertising (e.g. you will still get randomly generated ads). Please also note that the OPT-OUT STEPS actually result in "opt-out cookies" being placed on your browser, which inform NAI members not to track or serve targeted ads to your browser. Thus, if you subsequently delete all your cookies, the NAI opt-out cookies will also be deleted. Please be careful in managing your cookies and browser settings.** If you have any difficulty or questions about the OPT-OUT STEPS, please contact us at the email, telephone number and/or postal address provided below.
-
-**5\. Links to Other Websites**
-
-Levi Strauss & Co. websites may contain "links" to other websites. We recommend that you check the specific privacy policy of any site before providing any PII or allowing anonymous or Public Information to be collected or before using any feature of a social networking site that is available on a LS&CO site. .
-
-**6\. We Do Not Collect Children's Information**
-
-Levi Strauss & Co.'s websites are not intended to be directed towards individuals under 13 years of age ("Children"). We do not knowingly collect any PII from Children. If any Children contacts us and provides PII, we will take reasonable measures to alert a parent or legal guardian and also to delete such information. If you believe a child has improperly accessed a LS&CO site, please email us at [customerservice@levisstore.com](mailto:customerservice@levisstore.com).
-
-**7\. Safeguarding Your Information**
-
-Information you provide to us is protected from public access by a password that you provide upon registration on one of our brand-focused websites. In order to help protect your personal information further, you should be careful about providing your password to others. If you wish to cancel your password, or if you become aware of any loss, theft or unauthorized use of your password, please click here to contact our Customer Service Department. We use Secure Socket Layer (SSL) technology to encrypt transmissions of sensitive information from your computer to our servers.
-
-We require our trusted business partners, by contract, to protect information obtained from our websites. Our business partners, in turn, require their partners to contractually agree to similar restrictions.
-
-**8\. Contact Us Regarding Your Information**
-
-If you have any questions or concerns about Levi Strauss & Co.'s Online Privacy Policy, please send an email to [customerservice@levisstore.com](mailto:customerservice@levisstore.com); call us Toll-Free at 1-866-290-6064; or write to us at:
-
-        Levi Strauss & Co.  
-        Associate General Counsel  
-        1155 Battery Street  
-        San Francisco, CA 94111
-
-Please be assured that any Personally Identifiable Information that you provide in communications to the above email, telephone number and postal address will not be used to send you promotional materials.
-
-**9\. Online Updates to the Privacy Policy**
-
-If we modify this Privacy Policy, we will post the revised Privacy Policy on this website. We also may post a notice on this website or send an email describing the changes. You should check this website regularly to see if any recent changes to this Privacy Policy have occurred.
-
-We will not make any change to this Privacy Policy that will change our collection and use of any PII without first obtaining your consent.
-
-**10\. Your Consent**
-
-By providing personal information to us through our website or through our customer service department in connection with our website, you're agreeing to let us collect and use your personal information as we describe in this Privacy Policy.
+Social Media provides tools that many of our customers use and enjoy, and we include links to various social media platforms on our websites. If you interact with these social media tools through our websites, your experience on those social media sites will be governed by the privacy and other policies of those sites. So, the privacy settings you have chosen on those sites will determine the degree to which your information is made public. We encourage you to choose your privacy settings on those sites accordingly.
