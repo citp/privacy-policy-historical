@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the receipt-bank.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214022505id_/https%3A//www.receipt-bank.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the receipt-bank.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701145503id_/http%3A//www.receipt-bank.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Receipt Bank
 
