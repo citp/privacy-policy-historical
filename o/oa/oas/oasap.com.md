@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the oasap.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209210714id_/http%3A//www.oasap.com/content/23-serviceprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oasap.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701220524id_/http%3A//www.oasap.com/content/23-serviceprivacypolicy) for the most accurate reproduction.*
 
-# Privacy and Policy - Oasap High Street Fashion
+# Privacy Policy - Oasap High Street Fashion
 
-Location: Customer Service >Privacy and Policy
+Your browser does not support Javascript temporarily, this will cause some function can't be used normally. In order to obtain a better experience, suggest you open the browser Javascript support.
 
 **PRIVACY POLICY**  
 We've instituted policies intended to ensure that your personal information is handled safely and responsibly. We have posted this privacy policy to let you know what kind of information we collect, how it is handled, what choices you have regarding our use of your information and how you may access some of the data you provide to us.
