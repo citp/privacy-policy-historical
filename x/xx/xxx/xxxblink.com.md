@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xxxblink.com privacy policy that was archived on 2013-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130505235551id_/http%3A//www.xxxblink.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xxxblink.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701092546id_/http%3A//www.xxxblink.com/privacy.html) for the most accurate reproduction.*
 
 # Free XXX Pictures, HQ Porno Tube, Online Sex Images and Free Porn Pictures
 
