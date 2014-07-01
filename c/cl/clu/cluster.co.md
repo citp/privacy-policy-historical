@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cluster.co privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209221754id_/https%3A//cluster.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cluster.co privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701061629id_/https%3A//cluster.co/privacy) for the most accurate reproduction.*
 
 # Cluster | Privacy Policy
 
