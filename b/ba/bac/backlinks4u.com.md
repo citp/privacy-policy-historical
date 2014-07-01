@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the backlinks4u.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327062753id_/http%3A//www.backlinks4u.com%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backlinks4u.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701134341id_/http%3A//www.backlinks4u.com%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # Text Link Ads - Buy Links - Sell Links - Backlinks
 
