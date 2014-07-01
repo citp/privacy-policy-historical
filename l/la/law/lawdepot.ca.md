@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lawdepot.ca privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330234245id_/http%3A//www.lawdepot.ca/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawdepot.ca privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701232313id_/http%3A//www.lawdepot.ca/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy from LawDepot.ca
 
@@ -36,7 +36,7 @@ LawDepot™ only saves such personal information that is necessary for you to ac
 
 ### Document Preparation and Privacy of Information
 
-The information you provide when you prepare a document on our website is held strictly confidential. For this reason it is essential that you provide a valid email account that will not block email from LawDepot™. If we need to contact you to provide a password, we can only contact you through the email address associated with your original purchase. Protecting your confidential information is important to us. It is our strict policy that we do not give out passwords over the phone no matter the circumstance.
+The information you provide when you prepare a document on our website is held strictly confidential. For your protection provide a valid email address that will not block email from LawDepot™. To change your password, you must use the email address associated with your account. We do not give out passwords over the phone.
 
   
 
