@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wordery.com privacy policy that was archived on 2014-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140316220623id_/https%3A//wordery.com/cs/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordery.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701090507id_/https%3A//wordery.com/cs/privacy) for the most accurate reproduction.*
 
 # Privacy policy: wordery.com
 
