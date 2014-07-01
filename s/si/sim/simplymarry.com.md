@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplymarry.com privacy policy that was archived on 2014-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140514170531id_/http%3A//www.simplymarry.com/matrimonial/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplymarry.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701190100id_/http%3A//www.simplymarry.com/matrimonial/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Indian Matrimony - Simplymarry Matrimonial
 
