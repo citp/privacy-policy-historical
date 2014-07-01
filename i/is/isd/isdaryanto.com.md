@@ -1,14 +1,8 @@
-> *The following text is extracted and transformed from the isdaryanto.com privacy policy that was archived on 2011-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111218212718id_/http%3A//www.isdaryanto.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isdaryanto.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701203651id_/http%3A//www.isdaryanto.com/privacy-policy) for the most accurate reproduction.*
 
 # DISCLAIMER >> Privacy Policy | Isdaryanto.Com Page
 
-## [Disclaimer](http://www.isdaryanto.com/privacy-policy "Disclaimer")
-
-  
- A d v e r t i s e m e n t   
-
-
-## Privacy Policy
+PRIVACY POLICY
 
 **Our Commitment to Your Privacy**  
 To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
@@ -27,7 +21,3 @@ We have included links on this site for your reference. We are not responsible f
 
 **Alterations to this Privacy Statement**  
 The content of this statement may be altered at any time.
-
-  
-  
-
