@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeconferencecall.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330183450id_/https%3A//www.freeconferencecall.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeconferencecall.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701182635id_/https%3A//www.freeconferencecall.com/privacy-policy) for the most accurate reproduction.*
 
 # Free Conference Call Privacy Policy | freeconferencecall.com
 
@@ -37,6 +37,6 @@ Long Beach, CA 90804
 
   8. ## CONTACT AND QUESTIONS
 
-    1. For any additional information or to contact Free Conferencing Corporation you can email [info@freeconferencecall.com](mailto:info@freeconferencecall.com) or call 877-482-5838. 
+    1. For any additional information or to contact Free Conferencing Corporation you can email [info@freeconferencecall.com](mailto:info@freeconferencecall.com) or call 877.216.7555. 
 
 
