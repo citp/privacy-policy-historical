@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the incrediblecharts.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209133439id_/http%3A//www.incrediblecharts.com/legal_vizhon/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the incrediblecharts.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701200926id_/http%3A//www.incrediblecharts.com/legal_vizhon/privacy_policy.php) for the most accurate reproduction.*
 
 # Incredible Charts: Privacy Policy
 
@@ -8,7 +8,7 @@ We do not allow pop-up (or pop-under) advertising.
 
 We do not sell or rent our mailing lists.
 
-We do not run opt-in mailing lists or send third-party emails.
+We do not provide emails or your personal details to advertisers.
 
 We are committed to maintain the privacy of personal information that you provide when using our services.
 
@@ -35,7 +35,8 @@ We use information collected in the following ways:
   * For the purposes for which you specifically provided the information including, for example, to enable us to process, validate and verify membership applications or subscriptions.
   * To identify you and assist you to register, subscribe and login to our services.
   * To conduct appropriate checks for credit-worthiness or fraud.
-  * To send e-mail notifications about our new or existing products and services, newsletters or special offers, or to otherwise contact you. Before we send such e-mail notifications to you, we will request your permission via an opt-in/out mechanism, normally located on the registration page.
+  * To send e-mail notifications about our new or existing products and services, newsletters or special offers, or to otherwise contact you.
+  * To send no more than one direct e-mail from third-party advertisers to newsletter mailing list subscribers per calendar month. No email addresses and personal details are provided to advertisers.
   * To enhance existing features or develop new features, products and services.
   * To provide advertisers and other third parties with aggregate information about our user base and usage patterns.
   * To personalize content and advertising that you and others see based on personal characteristics or preferences.
@@ -65,7 +66,9 @@ We may employ cookie technology to help visitors, members and subscribers get be
 
 We make content or services from other web sites available to you from links on our website. These other web sites are not subject to our Privacy Policy and we recommend that you review the privacy policy at each such web site.
 
-We may use third party network advertisers to deliver ads to you on our behalf. We may also use third-party service providers to contact you on our behalf, or facilitate some aspects of our services or fulfill your purchase requests. These network advertisers and service providers may be supplied with or have access to your personally identifiable information solely for the purpose of providing these services to us or on our behalf. 
+## Service Providers
+
+We may use third-party service providers to facilitate some aspects of our services or fulfill your purchase requests. These service providers may have access to your personally identifiable information solely for the purpose of providing these services. 
 
 ## Children
 
@@ -75,11 +78,11 @@ If you have any questions regarding privacy, please [contact us](https://web.arc
 
 ## Policy Modifications
 
-We may change this Privacy Policy from time to time. We will post any changes here, so be sure to check back periodically. However, please be assured that if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent. This policy was last updated on July 15, 2009. 
+We may change this Privacy Policy from time to time. We will post any changes here, so be sure to check back periodically. However, please be assured that if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent. This policy was last updated on March 27th 2014.
 
 | 
 
-Perfect Your Market Timing  
-Learn how to manage your market risk.  
+How Good Is Your Market Analysis?  
+Compare our market views.  
   
 ---|---
