@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cyberessays.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209174905id_/http%3A//www.cyberessays.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberessays.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701225908id_/http%3A//www.cyberessays.com/privacy.php) for the most accurate reproduction.*
 
 # CyberEssays.com Privacy Policy
 
@@ -89,7 +89,7 @@ If you are a California resident, in addition to the rights set forth above, you
 
 
 
-You are entitled to receive a copy of this information in a standardized format and the information will not be specific to you individually. Our designated email address for such requests is privacyCyber Essayscyberessays.com.
+You are entitled to receive a copy of this information in a standardized format and the information will not be specific to you individually. Our designated email address for such requests is privacy@cyberessays.com.
 
 * ### Changes
 
