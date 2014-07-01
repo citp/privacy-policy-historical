@@ -1,36 +1,18 @@
-> *The following text is extracted and transformed from the medmutual.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330180158id_/https%3A//www.medmutual.com/About-Medical-Mutual/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medmutual.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701141126id_/https%3A//www.medmutual.com/About-Medical-Mutual/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # Privacy & Confidentiality | Medical Mutual
 
-## Health and Life Insurance for Individuals, Families and Groups
-
-  * [ About Medical Mutual ](https://web.archive.org/About-Medical-Mutual.aspx "About Medical Mutual")
-  * [ Community Events ](https://web.archive.org/About-Medical-Mutual/Community-Events.aspx "Community Events")
-  * [ Contact Us ](https://web.archive.org/About-Medical-Mutual/Contact-Medical-Mutual.aspx "Contact Us")
-  * [Log In](https://web.archive.org/)
-    * Manage your health benefits
-
-Username: Password:
-
-[Forgot Username](https://member.medmutual.com/user/forgot-username.aspx "Forgot Your Username") or [Password?](https://member.medmutual.com/user/forgot-password.aspx "Password?")
-
-### Not Registered?
-
-[Register Now](https://member.medmutual.com/user/register.aspx "Register Now") or [Preview My Health Plan](https://member.medmutual.com/user/jane-doe.aspx "Preview My Health Plan")
-
-    * [Employer Accounts](https://web.archive.org/For-Employers/Employer-Resources/Tools-and-Administration/Employer-Tools.aspx)
-    * [Broker Accounts](https://web.archive.org/For-Brokers/Broker-Tools/Broker-Accounts.aspx)
-    * [Providers Accounts](https://provider.medmutual.com/ "Providers Accounts")
-
-
-
-  * [For Individuals & Families](https://web.archive.org/For-Individuals-and-Families.aspx "For Individuals & Families")
-  * [For Employers](https://web.archive.org/For-Employers.aspx "For Employers")
-  * [For Brokers](https://web.archive.org/For-Brokers.aspx "For Brokers")
-  * [For Providers](https://web.archive.org/For-Providers.aspx "For Providers")
-  * [Healthcare Reform](https://web.archive.org/Healthcare-Reform.aspx "Healthcare Reform")
+[](https://web.archive.org/ "Medical Mutual")
 
 Search the Site Enter a keyword
+
+  * [Individuals & Families](https://web.archive.org/For-Individuals-and-Families.aspx "Individuals & Families")
+  * [Healthcare Reform](https://web.archive.org/Healthcare-Reform.aspx "Healthcare Reform")
+  * [Employers](https://web.archive.org/For-Employers.aspx "Employers")
+  * [Brokers](https://web.archive.org/For-Brokers.aspx "Brokers")
+  * [Providers](https://web.archive.org/For-Providers.aspx "Providers")
+
+
 
   * [Corporate Profile](https://web.archive.org/About-Medical-Mutual/Corporate-Profile.aspx "Corporate Profile")
     * [Our Values](https://web.archive.org/About-Medical-Mutual/Corporate-Profile/Our-Values.aspx "Our Values")
@@ -64,6 +46,7 @@ Search the Site Enter a keyword
 
 
 
+
 ### Effective Date: March 1, 2014
 
 ## HIPAA Notice of Privacy Practices
@@ -90,7 +73,7 @@ We do not collect personal information (such as names, addresses, phone numbers,
 
 
 
-Medical Mutual requires that the actual user input such information and that such information be the most recent available. In addition, you may request that we modify or delete your registered account information by sending an email to Medical Mutual of Ohio at [customerservice@medmutual.com](mailto:customerservice@medmutual.com) with the words “UPDATE USER INFORMATION” in the subject line.
+Medical Mutual requires that the actual user input such information and that such information be the most recent available. In addition, you may request that we modify or delete your registered account information by sending an email to Medical Mutual of Ohio at [MedicalMutualCustomerCare@MedMutual.com](mailto:MedicalMutualCustomerCare@MedMutual.com) with the words “UPDATE USER INFORMATION” in the subject line.
 
 Whenever you register for one or more of our services, we may send an email to you with an authentication link to ensure the accuracy of the email address that you have supplied or to notify you that an application or quotation was requested. Your response to the authentication link may be necessary to complete your registration, which may be required to use our services.
 
@@ -181,4 +164,4 @@ Cleveland, Ohio 44115-1355
 
 By Phone: 800.382.5729
 
-By Email: [customerservice@medmutual.com](mailto:customerservice@medmutual.com)
+By Email: [MedicalMutualCustomerCare@MedMutual.com](mailto:MedicalMutualCustomerCare@MedMutual.com@MedMutual.com)
