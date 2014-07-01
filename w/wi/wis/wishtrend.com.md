@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wishtrend.com privacy policy that was archived on 2014-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140423055743id_/http%3A//www.wishtrend.com/content/112-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wishtrend.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701095546id_/http%3A//www.wishtrend.com/content/112-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Wishtrend
 
