@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wiggle.com.au privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331183648id_/http%3A//www.wiggle.com.au/h/option/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wiggle.com.au privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702002909id_/http%3A//www.wiggle.com.au/h/option/PrivacyPolicy) for the most accurate reproduction.*
 
 # Wiggle Customer Services
 
@@ -14,9 +14,9 @@ Hampshire
 PO6 3TU  
 United Kingdom
 
-Email: [info@wiggle.com.au](mailto:info@wiggle.com.au)
+Email: [Contact Us](http://www.wiggle.com.au/ContactUsForm)
 
-Executive Directors: Stefan Barden and Martin Richard Talbot
+Executive Directors: Stefan Barden
 
 **Information:**
 
@@ -68,8 +68,9 @@ Please read our  **full** [Cookie Policy](http://www.wiggle.com.au/h/option/Coo
 
 **Analytic Tools**
 
-  * Google Analytics is a system used by many website to record information about who visits a website. Google set five different cookies with expiry dates ranging from 1 day to 2 years. These cookies are used mainly to differentiate between first time visitors to a website and repeat visitors. They do not contain any personally identifiable information. You can find out more about how Google use cookies at http://www.google.co.uk/policies/privacy/ (English only)
-  * Wiggle may from time to time share your details with third party analytical resources for the purposes of better understanding customer behaviour and performance, website performance and any other analytical process to give Wiggle a better understanding of how to develop its offering to its customers.  These third parties will be employed solely for the purpose of the aforementioned analytical purposes, and as such Wiggle will ensure that the third party is contractually obliged to use the data only for the analytical purposes set out in the agreement between Wiggle and the third party, and Wiggle will also ensure that the third party is contractually required to maintain a level of security around the shared data, at least as safe as Wiggle itself employs.  Failure on the part of the third party to meet its contractual obligations will result in Wiggle recovering the data, and taking all reasonable actions to ensure the third party no longer has access to the shared data.
+  * Google Analytics is a system used by many website to record information about visits to their website. Google set six different cookies with expiry dates ranging from 30 minutes to 2 years. These cookies are used mainly to differentiate between first time visitors to a website and repeat visitors. They also allow us to ensure our website performs as well as possible for our users. The cookies are able to collect an anonymous customer number when a user is logged into the website, allowing our backend systems to ensure accuracy of Google Analytics data and help us ensure your website experience remains relevant across devices. They do not contain any personally identifiable information. You can find out more about how Google use cookies at http://www.google.co.uk/policies/privacy/ (English only)
+  * Please read our  **full** [Cookie Policy](http://www.wiggle.com.au/h/option/Cookies) for further information.
+  * Wiggle may from time to time share your details with third party analytical resources for the purposes of better understanding customer behaviour and performance, website performance, improved ad relevance and any other analytical process to give Wiggle a better understanding of how to develop its offering to its customers. These third parties will be employed solely for the purpose of the aforementioned analytical purposes, and as such Wiggle will ensure that the third party is contractually obliged to use the data only for the analytical purposes set out in the agreement between Wiggle and the third party, and Wiggle will also ensure that the third party is contractually required to maintain a level of security around the shared data, at least as safe as Wiggle itself employs. Failure on the part of the third party to meet its contractual obligations will result in Wiggle recovering the data, and taking all reasonable actions to ensure the third party no longer has access to the shared data. Any third party cookies used on Wiggle will adhere to the same standards as first party cookies and not collect any personally identifiable information.
 
 
 
