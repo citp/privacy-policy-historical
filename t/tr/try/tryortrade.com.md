@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tryortrade.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330004454id_/http%3A//www.tryortrade.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tryortrade.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701191108id_/http%3A//tryortrade.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy- This Privacy Policy governs the manner in which Re
+# Privacy Policy
 
 This Privacy Policy governs the manner in which RedKart Ecommerce Private Limited collects, uses, maintains and discloses information collected from users (each, a "User") of the [www.tryortrade.com](http://www.generateprivacypolicy.com/account/policies/edit/www.tryortrade.com) website ("Site"). This privacy policy applies to the Site and all products and services offered by RedKart Ecommerce Private Limited.
 
@@ -62,6 +62,7 @@ To send Users information they agreed to receive about topics we think will be o
 
 We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, they may do so by contacting us via our Site.
 
+  *  
   *  
 
 
