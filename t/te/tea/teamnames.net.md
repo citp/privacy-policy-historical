@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teamnames.net privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209233744id_/http%3A//www.teamnames.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamnames.net privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701045148id_/http%3A//www.teamnames.net/privacy-policy) for the most accurate reproduction.*
 
 # TeamNames.net Privacy & Cookie Policy
 
@@ -60,7 +60,11 @@ Cookie Name | Purpose
 ---|---  
 __utma, __utmb, __utmc, __utmz |  These cookies enable the function of Google Analytics. This software helps us take and analyze visitor information such as browser usage, new visitor numbers, and visitor locations. This information helps us to improve the website and your user experience, and to make our marketing efforts relevant.
 
-The data stored by these cookies can be seen only by the relevant teams at TeamNames.net and Google, and never shows any confidential information.   
+The data stored by these cookies can be seen only by the relevant teams at TeamNames.net and Google, and never shows any confidential information.
+
+The Google Analytics implementation on this website has been enabled to support and record data for the purpose of Google Analyics Demographic and Interest Reporting. Visitors are able to opt-out of Google Analytics for Display Advertising by using the [Ads Settings](https://www.google.com/settings/ads). Visitors may also visit Google Analyics' [currently available opt-outs](https://tools.google.com/dlpage/gaoptout/).
+
+The data from Google's Interest-based advertising, or 3rd-party audience data (such as age, gender, and interests), is used for the purpose of understanding the type of user that interacts with the website. This allows us to understand the user demographics much better, allowing us to cater for the user better, with the aim of improving the end user experience.   
   
 ### YouTube Cookies
 
