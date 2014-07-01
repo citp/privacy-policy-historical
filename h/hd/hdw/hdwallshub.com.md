@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hdwallshub.com privacy policy that was archived on 2014-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140329142631id_/http%3A//www.hdwallshub.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdwallshub.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701184203id_/http%3A//www.hdwallshub.com/privacy.html) for the most accurate reproduction.*
 
 # PrivacyPolicy
 
