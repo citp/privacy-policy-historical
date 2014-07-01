@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harristeeter.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210024213id_/http%3A//www.harristeeter.com/other/privacy_policy/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harristeeter.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701090041id_/http%3A//www.harristeeter.com/other/privacy_policy/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Harris Teeter - Privacy Policy
 
@@ -27,7 +27,7 @@ Harris Teeter’s Web site provides links to third-party Web sites, so that we c
 Harris Teeter will disclose personally identifiable information when we believe the law requires us to do so. Harris Teeter also reserves the right to disclose personally identifiable information when we believe disclosure is necessary to respond to claims against us, to protect our customers, to ensure the integrity and operation of our business, or to protect the rights, property, and best interests of Harris Teeter, its affiliates, or others.
 
 **Pharmacy Records**  
-Harris Teeter takes special precautions with your pharmacy records. We follow the federal guidelines set by the Health Insurance Portability and Accountability Act (HIPAA). [Additional information on Harris Teeter’s privacy policy for pharmacy records](http://www.harristeeter.com/in_our_stores/departments/pharmacy/hipaa_privacy_policies/hipaa_privacy_policies.aspx).
+Harris Teeter takes special precautions with your pharmacy records. We follow the federal guidelines set by the Health Insurance Portability and Accountability Act (HIPAA). [Additional information on Harris Teeter’s privacy policy for pharmacy records](http://www.harristeeter.com/in_our_stores/departments/pharmacy/hipaa_privacy_policy/hipaa_privacy_policies.aspx).
 
 **Children’s Privacy**  
 Harris Teeter takes special precautions with children’s privacy. We follow the federal guidelines set by the Children's Online Privacy Protection Act. We do not actively seek personal information about children under the age of 13 without the permission of their parent or legal guardian. We do not provide personal information about children to any third-party, other than in accordance with other sections of this privacy policy. If you are a parent or guardian of a child under the age of 13 and believe that child has disclosed personally identifiable information to us, you may contact us to review and request deletion of the information and prohibit its use, using the contact information below.
