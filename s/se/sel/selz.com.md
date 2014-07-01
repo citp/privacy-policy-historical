@@ -1,14 +1,10 @@
-> *The following text is extracted and transformed from the selz.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327055617id_/https%3A//selz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the selz.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701075123id_/https%3A//selz.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Selz - Seriously simple selling.
 
-Hey, you're using an old browser we don't support. Please [upgrade your browser](http://browsehappy.com/) to improve your experience.
-
-To improve your experience using Selz, please enable JavaScript.
-
 ## Introduction
 
-This site available at Selz.com (“this site”) is operated and administered by Community Engine Pty Ltd (ACN 129 405 018) trading as Selz.com (“Selz”,“we”, “us”, “our”). We care about your privacy.
+This site available at Selz.com (“this site”) is operated and administered by Selz.com Pty Ltd (ABN 29 163 769 837) (“Selz”,“we”, “us”, “our”). We care about your privacy.
 
 This policy sets out in detail how we manage the personal information you provide to us. Your use of this site will be governed by this Privacy Policy, amongst other things. 
 
@@ -86,5 +82,3 @@ This Privacy Policy applies solely to information collected by this site. This s
 ## What should I do if I have any privacy-related complaints or enquiries?
 
 If you have any questions about our Privacy Policy, or any complaint regarding treatment of your privacy by us, please email: [support@selz.com](mailto:support@selz.com).
-
-Last revised 19/4/2013
