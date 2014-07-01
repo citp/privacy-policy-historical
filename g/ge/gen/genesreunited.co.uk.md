@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the genesreunited.co.uk privacy policy that was archived on 2014-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140531150027id_/http%3A//www.genesreunited.co.uk/contents/legalprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genesreunited.co.uk privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701115531id_/http%3A//www.genesreunited.co.uk/contents/legalprivacypolicy) for the most accurate reproduction.*
 
 # Genes Reunited
 
