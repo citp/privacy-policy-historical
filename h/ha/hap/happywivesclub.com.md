@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the happywivesclub.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213225418id_/http%3A//www.happywivesclub.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the happywivesclub.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701144828id_/http%3A//www.happywivesclub.com/privacypolicy) for the most accurate reproduction.*
 
 # The Happy Wives Club | One Woman’s Worldwide Search for the Secrets of a Great Marriage
 
