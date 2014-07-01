@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the audible.com.au privacy policy that was archived on 2014-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140508151535id_/http%3A//www.audible.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audible.com.au privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701065754id_/http%3A//www.audible.com.au/privacy-policy/ref%3Dmn_anon-h_f6_pn) for the most accurate reproduction.*
 
 # Audible.com.au Privacy Notice | Audible.com.au
 
