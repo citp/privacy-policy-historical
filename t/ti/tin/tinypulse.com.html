@@ -1,7 +1,9 @@
-<!--The following is the downloaded HTML source of the tinypulse.com privacy policy that was archived on 2014-02-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140211002838id_/https%3A//www.tinypulse.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tinypulse.com privacy policy that was archived on 2014-07-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140701185116id_/https%3A//www.tinypulse.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="signed-out hide-navbar static_pages-privacy_policy"><!--<![endif]--><head><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
+<!DOCTYPE html><html class="signed-out hide-navbar static_pages-privacy_policy"><!--<![endif]--><head>
+<script type="text/javascript" async="" src="https://apis.google.com/js/platform.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-6.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"d3e7d49094","applicationID":"739578","transactionName":"e14IEUcKW1sBRBYQEVlFDwZqFVZQAUUWSwpMWQMXHA==","queueTime":524,"applicationTime":90,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-411.min.js"}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQMOU15WGwQDXVRVDw=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
 <link rel="shortcut icon" href="/favicon.ico">
 <!-- Standard iPhone --> 
 <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-114.png">
@@ -11,9 +13,10 @@
 <link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-144.png">
 <!-- Retina iPad --> 
 <link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144.png"><meta content="width=device-width, initial-scale=1.0" name="viewport">
-<title>Privacy Policy - TINYpulse: Engaging Employees for Happier Companies</title>
-<script src="https://d1i5ulwvtra6uh.cloudfront.net/assets/application-4c88810b70b8c7f5e5c5ac2d50c24cc6.js" type="text/javascript"></script><link href="https://d1i5ulwvtra6uh.cloudfront.net/assets/application-93654cf810f87aa33d8f21e5141cf604.css" media="all" rel="stylesheet" type="text/css"><meta content="authenticity_token" name="csrf-param">
-<meta content="OGn7HvklWfvGFMs0/ygYQ0IetMlD6X/QoX/Z5ks0CUE=" name="csrf-token"><script type="text/javascript">
+<meta content="yes" name="mobile-web-app-capable">
+<title>Privacy Policy | TINYpulse</title>
+<script src="https://d1i5ulwvtra6uh.cloudfront.net/assets/application-e4c3d6a7ce776839184b02e035bd9dd0.js" type="text/javascript"></script><link href="https://d1i5ulwvtra6uh.cloudfront.net/assets/application-9d39319cafec6efdca75c965540d79d6.css" media="all" rel="stylesheet" type="text/css"><meta content="authenticity_token" name="csrf-param">
+<meta content="oORe/0IrfhogJlw3IJmhPjdI9vAq6sPEfmTJlI3PvkI=" name="csrf-token"><script type="text/javascript">
     var _gaq = _gaq || [];
     _gaq.push(['_setAccount', 'UA-34717216-1']);
     _gaq.push(['_setDomainName', 'tinypulse.com']);
@@ -36,166 +39,203 @@
   <div class="hRule-gray"></div></div>
 <div class="container">
 <div class="row">
-<div class="span12"><div class="main-content">
-  <h1>Privacy Policy</h1>
+<div class="span12"><div class="main-content"><h1>Privacy Policy</h1>
+<div class="well" id="privacy-policy">
+<p><strong>Last updated: March 17, 2014</strong></p>
 
-  <div class="well">
-    <p><strong>Last updated: September 10, 2012</strong></p>
+<p><strong>This privacy policy explains how TINYhr handles your personal information and data. We value your trust, so we’ve strived to present this policy in clear, plain language instead of complex lawyer speak. The policy is structured so you can quickly find answers to the questions which interest you the most.</strong></p>
 
-    <p><strong>This privacy policy explains how TINYhr handles your personal information and data. We value your trust, so we’ve strived to present this policy in clear, plain language instead of complex lawyer speak. The policy is structured so you can quickly find answers to the questions which interest you the most.</strong></p>
+<p>This privacy policy applies to all the products, services and websites offered by Delight Labs LLC and any affiliated entity or d/b/a (collectively "TINYhr") except where otherwise noted. We refer to those products, services and websites collectively as the “services” in this policy. Some services have supplementary privacy statements that explain in more detail our specific privacy practices in relation to them. Unless otherwise noted, our services are provided by Delight Labs LLC inside of the United States.</p>
 
-    <p>This privacy policy applies to all the products, services and websites offered by Delight Labs LLC and any affiliated entity or d/b/a (collectively “TINYhr”) except where otherwise noted. We refer to those products, services and websites collectively as the “services” in this policy. Some services have supplementary privacy statements that explain in more detail our specific privacy practices in relation to them. Unless otherwise noted, our services are provided by Delight Labs LLC inside of the United States.</p>
+<p><strong>Questions?</strong> For questions regarding our privacy policy or practices, contact TINYhr emailing <a href="mailto:support@TINYhr.com">support@TINYhr.com</a>.</p>
 
-    <p><strong>Questions?</strong> For questions regarding our privacy policy or practices, contact TINYhr emailing <a href="mailto:support@TINYhr.com">support@TINYhr.com</a>.</p>
- 
-    <h2>IF YOU OR SOMEONE YOU INVITED ANSWER SURVEYS:</h2>
-    <ul>
-      <li><strong>Surveys are administered by TINYhr.</strong> We host the surveys on our websites and collect the responses submitted. If you have any questions about a survey you are taking, please contact <a href="mailto:support@TINYhr.com">support@TINYhr.com</a> or your organization’s manager who signed you up for this service.</li>
-      <li><strong>Are your responses anonymous?</strong> By default, yes. TINYhr does not reveal which responses were associated with which email or IP address. From time to time, if the response rate is low, the survey administrator may be able to determine the identity of the individual(s) who responded. Moreover, some responses may proactively disclose their identity. Since TINYhr does not change or edit the responses, in such instance, the survey administrator will find out who submitted that particular response.</li>
-      <li>If you think a survey violates our Terms of Use or may be engaging in illegal activity, please email <a href="mailto:support@TINYhr.com">support@TINYhr.com</a>.</li>
-    </ul>
+<h2>IF YOU OR SOMEONE YOU INVITED ANSWERS SURVEYS:</h2>
 
-    <p><strong>Changes to this privacy policy.</strong> We may modify this privacy policy at any time, but if we do so, we will notify you by publishing the changes on this website. If we determine the changes are material, we will provide you with additional, prominent notice as is appropriate under the circumstances, such as via email.</p>
+<ul>
+<li><strong>Surveys are administered by TINYhr.</strong> We host the surveys on our websites and collect the responses submitted. If you have any questions about a survey you are taking, please contact <a href="mailto:support@TINYhr.com">support@TINYhr.com</a> or your organization’s manager who signed you up for this service.</li>
+<li><strong>Are your responses anonymous?</strong> By default, yes. TINYhr does not reveal which responses were associated with which email or IP address. From time to time, if the response rate is low, the survey administrator may be able to determine the identity of the individual(s) who responded. Moreover, some responses may proactively disclose their identity. Since TINYhr does not change or edit the responses, in such instance, the survey administrator will find out who submitted that particular response.</li>
+<li>If you think a survey violates our Terms of Use or may be engaging in illegal activity, please email <a href="mailto:support@TINYhr.com">support@TINYhr.com</a>.</li>
+</ul>
 
-    <p>TINYhr is used by <strong>manager(s)</strong> (people who are able to access the results of surveys) and <strong>survey respondents</strong> (people who answer those surveys). Our treatment of information as it pertains to each category is described below:
- 
-    </p><h2>Managers</h2>
-    <ol>
-      <li>
-        <strong>What information does TINYhr collect?</strong>
-        <p>When you use TINYhr, we collect information relating to you and your use of our services from a variety of sources. These are listed below. The sections afterward describe what we do with this information.</p>
-      </li>
-      <li>
-        <strong>Information we collect directly from you</strong>
-        <ul>
-          <li><strong>Registration information.</strong> You need a TINYhr account before you can create surveys on TINYhr. When you register for an account, we collect and store all registration information.</li>
-          <li><strong>Billing information.</strong> If you make a payment to TINYhr, we require you to provide your billing details, such as a name, address, email address and financial information corresponding to your selected method of payment (e.g. a credit card number and expiration date or a bank account number). If you provide a billing address, we will regard that as the location of the account holder.</li>
-          <li><strong>Account settings.</strong> You can set various preferences and personal details on our Settings page.</li>
-          <li><strong>Survey data.</strong> We store your survey data (questions and responses) for you.</li>
-          <li><strong>Other data you intentionally share.</strong> We may collect your personal information or data if you submit it to us in other contexts. For example, if you provide us with a testimonial, participate in a TINYhr contest, or send us an email with comments or suggestions.</li>
-        </ul>
-      </li>
-      <li><strong>We safeguard your respondents' email addresses.</strong> Rest assured, TINYhr definitely does not sell those email addresses to any third parties.</li>
-      <li>
-        <strong>How does TINYhr use the information we collect?</strong> We may disclose aggregated, anonymous, or anonymized data to third parties for market research, academic research, benchmarking, or any other purpose. In all such instances, we will not disclose any identifiable information about you, your respondents, or your company. TINYhr may also analyze your usage patterns and the usage patterns and respondents to improve or optimize our services.
-        <ul>
-          <li>
-            <strong>To manage our services.</strong> We internally use your information, including certain survey data, for the following limited purposes:
-            <ul>
-              <li><strong>To monitor and improve our services and features.</strong> We internally perform statistical and other analysis on information we collect (including usage data, device data, referral data, and information from page tags) to analyze and measure user behavior and trends, to understand how people use our services, and to monitor, troubleshoot and improve our services. However, we do not use the non-public content of surveys (i.e. the content of questions and responses that you have not publicly shared) for these purposes.</li>
-              <li><strong>To assist the enforcement of our Terms of Use.</strong></li>
-              <li><strong>To prevent potentially illegal activities.</strong></li>
-              <li><strong>To screen for undesirable or abusive activity.</strong> For example, we have automated systems that screen content for phishing activities, spam, and fraud.</li>
-            </ul>
-          </li>
-          <li><strong>To create new services, features or content (public data and metadata only).</strong> We may use public survey data and anonymized survey metadata (that is, data about the characteristics of a survey but not its non-public content), to create and provide new services, features or content. For example, we may look at statistics like response rates, question and answer word counts, and the average number of questions in a survey and publish interesting observations about these for informational or marketing purposes.</li>
-          <li><strong>To contact you about your service or account.</strong> We occasionally send you communications of a transactional nature (e.g. service-related announcements, billing-related matters, changes to our services or policies, a welcome email when you first register). You cannot opt out of these communications since they are required to provide our services to you.</li>
-          <li><strong>To respond to legal requests and prevent harm.</strong> If we receive a subpoena or other legal request, we may need to inspect the data we hold to determine how to respond.</li>
-        </ul>
-      </li>
-      <li><strong>With whom do we share or disclose your information?</strong></li>
-      <li><strong>We don't sell your survey data.</strong></li>
-      <li>
-        <strong>When might we disclose your survey data to third parties?</strong> Only for a limited number of reasons. Mostly commonly, we share your information with our service providers who help us to provide our services to you. We contractually bind these service providers to keep your information confidential and to use it only for the purpose of providing their services to us. For example, we use payment processors who help us to process credit card transactions. By using our services, you authorize TINYhr to sub-contract in this manner on your behalf.
-        <p>Rarer circumstances include when we need to share information if required by law, or in a corporate restructuring or acquisition context (see below for more details).</p>
-      </li>
-      <li><strong>Sharing your surveys for research and related purposes.</strong> We may provide aggregated, “blind” data to third parties or researchers to conduct research. We may also provide such information to third parties for overall forecasting, trend research, or other purposes.</li>
-      <li>
-        We may disclose:
-        <ul>
-          <li><strong>Your information to our service providers.</strong> We use service providers who help us to provide you with our services. We give relevant persons working for some of these providers access to your information, but only to the extent necessary for them to perform their services for us. We also implement reasonable contractual and technical protections to ensure the confidentiality of your personal information and data is maintained, used only for the provision of their services to us, and handled in accordance with this privacy policy. Examples of service providers include payment processors, email service providers, and web traffic analytics tools.</li>
-          <li><strong>Your account details to your billing contact.</strong> If your details (as the account holder) are different to the billing contact listed for your account, we may disclose your identity and account details to the billing contact upon their request (we also will usually attempt to notify you of such requests). By using our services and agreeing to this privacy policy, you consent to this disclosure.</li>
-          <li><strong>Aggregated information to third parties to improve or promote our services.</strong> No individuals can be identified or linked to any part of the information we share with third parties to improve or promote our services.</li>
-          <li><strong>The presence of a cookie to advertise our services.</strong> We may ask advertisers to display ads promoting our services on other websites. We may ask them to deliver those ads based on the presence of a cookie but in doing so will not share any other information with the advertiser.</li>
-          <li><strong>Your information if required or permitted by law.</strong> We may disclose your information as required or permitted by law, or when we believe that disclosure is necessary to protect our rights, and/or to comply with a judicial proceeding, court order, subpoena, or other legal process served on us.</li>
-          <li><strong>Your information if there's a change in business ownership or structure. </strong>If ownership of all or substantially all of our business changes, or we undertake a corporate reorganization (including a merger or consolidation) or any other action or transfer between TINYhr entities, you expressly consent to TINYhr transferring your information to the new owner or successor entity so that we can continue providing our services. If required, TINYhr will notify the applicable data protection agency in each jurisdiction of such a transfer in accordance with the notification procedures under applicable data protection laws.</li>
-          <li><strong>Information you expressly consent to be shared.</strong> For example, we may expressly request your permission to provide your contact details to third parties for various purposes, including to allow those third parties to contact you for marketing purposes. (You may later revoke your permission, but if you wish to stop receiving communications from a third party to which we provided your information with your permission, you will need to contact that third party directly.)</li>
-        </ul>
-      </li>
-      <li>
-        <strong>What are your rights to your information? You can:</strong>
-        <ul>
-          <li><strong>Update your account details.</strong> You can update your registration and other account information on your Settings page.</li>
-          <li><strong>Capture your survey data.</strong> You can take screenshots of your data and survey responses. We may in our discretion provide tools to export the data and survey responses.</li>
-          <li><strong>Cancel your account.</strong> Deleting your account will not cause all the survey data in the account to be permanently deleted, and will disable your access to any other services that require a TINYhr account. We will respond to any such request, and any appropriate request to access, correct, update or delete your personal information within the time period specified by law (if applicable) or without excessive delay. We will promptly fulfill requests to delete personal data unless the request is not technically feasible or such data is required to be retained by law (in which case we will block access to such data, if required by law).</li>
-        </ul>
-      </li>
-      <li><strong>For how long do we retain your data?</strong> We generally retain your data permanently. However, we reserve the right to delete or purge such data.</li>
-    </ol>
+<p><strong>Changes to this privacy policy.</strong> We may modify this privacy policy at any time, but if we do so, we will notify you by publishing the changes on this website. If we determine the changes are material, we will provide you with additional, prominent notice as is appropriate under the circumstances, such as via email.</p>
 
-    <h2>Survey Respondents</h2>
-    <ol>
-      <li>
-        <strong>What information does TINYhr collect?</strong>
-        <p>When you respond to surveys hosted by TINYhr, we collect, on behalf and upon instructions (including the ones provided in this privacy policy) of survey creators, information relating to you and your use of our services from a variety of sources. These are listed below. The sections afterward describe what we do with this information.</p>
-      </li>
-      <li>
-        <strong>Information we collect directly from you</strong>
-        <ul>
-          <li><strong>Survey responses.</strong> We collect and store the survey responses that you submit If you have any questions about a survey you are taking, please contact your organization’s manager who signed up for the service.</li>
-        </ul>
-      </li>
-      <li><strong>Are your survey responses anonymous?</strong> Yes. If you respond to a survey, your email address is not automatically associated with the response; nor is it transmitted by TINYhr to the manager. However, there are rare circumstances whereby the manager may be able to associate responses with a person. For example, if one or a very small amount of people respond to a survey, the manager may be able intuit who provided to what responses. Or if you decide to include information that identifies you in your response – TINYhr does not modify or edit responses.</li>
-      <li><strong>How does TINYhr use the information we collect?</strong> Your survey responses are managed by your manager who signed up for TINYhr services. Please contact your manager directly to understand how they will use your survey responses. We also use the information we collect from you (including usage data, device data, referral data and information from page tags) to manage and improve our services. Furthermore, we may aggregate your responses as described in this policy.</li>
-      <li>
-        <strong>With whom do we share or disclose your information?</strong> TINYhr does not sell your survey responses, but we may make aggregate, anonymized, or anonymous data available to third parties for research or other purposes. We disclose:
-        <ul>
-          <li><strong>Your survey responses to the manager.</strong> Anything you expressly disclose in your survey responses will, naturally, be provided to them. Please contact the manager directly to understand how they might share your survey responses</li>
-          <li><strong>Security, cookies and other important information</strong></li>
-          <li>
-            <strong>Cookies.</strong> We use cookies on our websites. Cookies are small bits of data we store on the device you use to access our services so we can recognize repeat users. Each cookie expires after a certain period of time, depending on what we use it for. We use cookies for several reasons:
-            <ul>
-              <li><strong>To make our site easier to use.</strong> If you use the "Remember me" feature when you sign into your account, we may store your username in a cookie to make it quicker for you to sign in whenever you return to TINYhr.
-    For security reasons. We use cookies to authenticate your identity, such as confirming whether you are currently logged into TINYhr.</li>
-              <li><strong>To provide you with personalized content.</strong> We may store user preferences, such as your default language, in cookies to personalize the content you see. We also use cookies to ensure that users can’t retake certain surveys that they have already completed.</li>
-              <li><strong>To improve our services.</strong> We use cookies to measure your usage of our websites and track referral data, as well as to occasionally display different versions of content to you. This information helps us to develop and improve our services and optimize the content we display to users.</li>
-            </ul>
-          </li>
-          <li><strong>Blogs and Forums.</strong> Our website offers publicly accessible blogs and may offer community forums in the future. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. We’re not responsible for any personal information you choose to submit in these areas of our site.</li>
-          <li><strong>Safety of Minors and COPPA.</strong> Our services are not intended for and may not be used by minors. "Minors" are individuals under the age of majority in their place of residence (or under 13 in the United States). TINYhr does not knowingly collect personal data from minors or allow them to register. If it comes to our attention that we have collected personal data from a minor, we may delete this information without notice. If you have reason to believe that this has occurred, please contact us at <a href="mailto:support@TINYhr.com">support@TINYhr.com</a>.</li>
-        </ul>
-      </li>
-    </ol>
+<p>TINYhr is used by <strong>manager(s)</strong> (people who are able to access the results of surveys) and <strong>survey respondents</strong> (people who answer those surveys). Our treatment of information as it pertains to each category is described below:</p>
 
-    <h2>Disclosure of Information Pursuant to Subpoena or to Protect TINYhr or Third Parties</h2>
- 
-    <p>Notwithstanding anything to the contrary in this Privacy Policy, TINYhr may disclose information regarding Users (including personal information) pursuant to a valid subpoena or legal process. We will undertake good faith efforts to provide you with notice of any such subpoena or process, but this is not always possible, and you acknowledge that we do not have a legal obligation to do so. Additionally, TINYhr may disclose information regarding Users (including personal information) in order to protect the property of TINYhr or prevent any imminent damage to third party property or where there is a threat of personal injury.</p>
-  </div>
+<h2>Managers</h2>
+
+<ol>
+<li><strong>What information does TINYhr collect?</strong>When you use TINYhr, we collect information relating to you and your use of our services from a variety of sources. These are listed below. The sections afterward describe what we do with this information.</li>
+<li><strong>Information we collect directly from you</strong>
+
+<ul>
+<li><strong>Registration information.</strong> You need a TINYhr account before you can create surveys on TINYhr. When you register for an account, we collect and store all registration information.</li>
+<li><strong>Billing information.</strong> If you make a payment to TINYhr, we require you to provide your billing details, such as a name, address, email address and financial information corresponding to your selected method of payment (e.g. a credit card number and expiration date or a bank account number). If you provide a billing address, we will regard that as the location of the account holder.</li>
+<li><strong>Account settings.</strong> You can set various preferences and personal details on our Settings page.</li>
+<li><strong>Survey data.</strong> We store your survey data (questions and responses) for you.</li>
+<li><strong>Other data you intentionally share.</strong> We may collect your personal information or data if you submit it to us in other contexts. For example, if you provide us with a testimonial, participate in a TINYhr contest, or send us an email with comments or suggestions.</li>
+</ul></li>
+<li><strong>We safeguard your respondents' email addresses.</strong> Rest assured, TINYhr definitely does not sell those email addresses to any third parties.</li>
+<li><strong>How does TINYhr use the information we collect?</strong> We may disclose aggregated, anonymous, or anonymized data to third parties for market research, academic research, benchmarking, or any other purpose. In all such instances, we will not disclose any identifiable information about you, your respondents, or your company. TINYhr may also analyze your usage patterns and the usage patterns and respondents to improve or optimize our services.
+
+<ul>
+<li><strong>To manage our services.</strong> We internally use your information, including certain survey data, for the following limited purposes:
+
+<ul>
+<li><strong>To monitor and improve our services and features.</strong> We internally perform statistical and other analysis on information we collect (including usage data, device data, referral data, and information from page tags) to analyze and measure user behavior and trends, to understand how people use our services, and to monitor, troubleshoot and improve our services. However, we do not use the non-public content of surveys (i.e. the content of questions and responses that you have not publicly shared) for these purposes.</li>
+<li><strong>To assist the enforcement of our Terms of Use.</strong></li>
+<li><strong>To prevent potentially illegal activities.</strong></li>
+<li><strong>To screen for undesirable or abusive activity.</strong> For example, we have automated systems that screen content for phishing activities, spam, and fraud.</li>
+</ul></li>
+<li><strong>To create new services, features or content (public data and metadata only).</strong> We may use public survey data and anonymized survey metadata (that is, data about the characteristics of a survey but not its non-public content), to create and provide new services, features or content. For example, we may look at statistics like response rates, question and answer word counts, and the average number of questions in a survey and publish interesting observations about these for informational or marketing purposes.</li>
+<li><strong>To contact you about your service or account.</strong> We occasionally send you communications of a transactional nature (e.g. service-related announcements, billing-related matters, changes to our services or policies, a welcome email when you first register). You cannot opt out of these communications since they are required to provide our services to you.</li>
+<li><strong>To respond to legal requests and prevent harm.</strong> If we receive a subpoena or other legal request, we may need to inspect the data we hold to determine how to respond.</li>
+</ul></li>
+<li>**With whom do we share or disclose your information? **TINYhr does not sell your survey responses, but we may make aggregate, anonymized, or anonymous data available to third parties for research or other purposes. We disclose:
+
+<ul>
+<li><strong>Security, cookies and other important information</strong></li>
+<li><strong>Cookies.</strong> We use cookies on our websites. Cookies are small bits of data we store on the device you use to access our services so we can recognize repeat users. Each cookie expires after a certain period of time, depending on what we use it for. We use cookies for several reasons:
+
+<ul>
+<li><strong>To make our site easier to use.</strong> If you use the "Remember me" feature when you sign into your account, we may store your username in a cookie to make it quicker for you to sign in whenever you return to TINYhr. For security reasons. We use cookies to authenticate your identity, such as confirming whether you are currently logged into TINYhr.</li>
+<li><strong>To provide you with personalized content.</strong> We may store user preferences, such as your default language, in cookies to personalize the content you see. We also use cookies to ensure that users can’t retake certain surveys that they have already completed.</li>
+<li><strong>To improve our services.</strong> We use cookies to measure your usage of our websites and track referral data, as well as to occasionally display different versions of content to you. This information helps us to develop and improve our services and optimize the content we display to users.</li>
+</ul></li>
+<li><strong>Blogs and Forums.</strong> Our website offers publicly accessible blogs and may offer community forums in the future. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. We’re not responsible for any personal information you choose to submit in these areas of our site.</li>
+<li><strong>Safety of Minors and COPPA.</strong> Our services are not intended for and may not be used by minors. "Minors" are individuals under the age of majority in their place of residence (or under 13 in the United States). TINYhr does not knowingly collect personal data from minors or allow them to register. If it comes to our attention that we have collected personal data from a minor, we may delete this information without notice. If you have reason to believe that this has occurred, please contact us <a href="mailto:atsupport@TINYhr.com">atsupport@TINYhr.com</a>.</li>
+</ul></li>
+<li>**We don't sell your survey data.  **</li>
+<li><strong>When might we disclose your **</strong>data**** to third parties?** Only for a limited number of reasons. Mostly commonly, we share your information with our service providers who help us to provide our services to you. We contractually bind these service providers to keep your information confidential and to use it only for the purpose of providing their services to us. For example, we use payment processors who help us to process credit card transactions. By using our services, you authorize TINYhr to sub-contract in this manner on your behalf.                      Rarer circumstances include when we need to share information if required by law, or in a corporate restructuring or acquisition context (see below for more details).</li>
+<li><strong>Sharing your surveys for research and related purposes.</strong> We may provide aggregated, "blind" data to third parties or researchers to conduct research. We may also provide such information to third parties for overall forecasting, trend research, or other purposes.</li>
+<li><strong>We may disclose:</strong>
+
+<ul>
+<li><strong>Your information to our service providers.</strong> We use service providers who help us to provide you with our services. We give relevant persons working for some of these providers access to your information, but only to the extent necessary for them to perform their services for us. We also implement reasonable contractual and technical protections to ensure the confidentiality of your personal information and data is maintained, used only for the provision of their services to us, and handled in accordance with this privacy policy. Examples of service providers include payment processors, email service providers, and web traffic analytics tools.</li>
+<li><strong>Your account details to your billing contact.</strong> If your details (as the account holder) are different to the billing contact listed for your account, we may disclose your identity and account details to the billing contact upon their request (we also will usually attempt to notify you of such requests). By using our services and agreeing to this privacy policy, you consent to this disclosure.</li>
+<li><strong>Aggregated information to third parties to improve or promote our services.</strong> No individuals can be identified or linked to any part of the information we share with third parties to improve or promote our services.</li>
+<li><strong>The presence of a cookie to advertise our services.</strong> We may ask advertisers to display ads promoting our services on other websites. We may ask them to deliver those ads based on the presence of a cookie but in doing so will not share any other information with the advertiser.</li>
+<li><strong>Your information if required or permitted by law.</strong> We may disclose your information as required or permitted by law, or when we believe that disclosure is necessary to protect our rights, and/or to comply with a judicial proceeding, court order, subpoena, or other legal process served on us.</li>
+<li>**Your information if there's a change in business ownership or structure. **If ownership of all or substantially all of our business changes, or we undertake a corporate reorganization (including a merger or consolidation) or any other action or transfer between TINYhr entities, you expressly consent to TINYhr transferring your information to the new owner or successor entity so that we can continue providing our services. If required, TINYhr will notify the applicable data protection agency in each jurisdiction of such a transfer in accordance with the notification procedures under applicable data protection laws.</li>
+<li><strong>Information you expressly consent to be shared.</strong> For example, we may expressly request your permission to provide your contact details to third parties for various purposes, including to allow those third parties to contact you for marketing purposes. (You may later revoke your permission, but if you wish to stop receiving communications from a third party to which we provided your information with your permission, you will need to contact that third party directly.)</li>
+</ul></li>
+<li><strong>What are your rights to your information? You can:</strong>
+
+<ul>
+<li><strong>Update your account details.</strong> You can update your registration and other account information on your Settings page.</li>
+<li><strong>Capture your survey data.</strong> You can take screenshots of your data and survey responses. We may in our discretion provide tools to export the data and survey responses.</li>
+<li><strong>Cancel your account.</strong> Deleting your account will not cause all the survey data in the account to be permanently deleted, and will disable your access to any other services that require a TINYhr account. We will respond to any such request, and any appropriate request to access, correct, update or delete your personal information within the time period specified by law (if applicable) or without excessive delay. We will promptly fulfill requests to delete personal data unless the request is not technically feasible or such data is required to be retained by law (in which case we will block access to such data, if required by law).</li>
+</ul></li>
+<li><strong>For how long do we retain your data?</strong> We generally retain your data permanently. However, we reserve the right to delete or purge such data.</li>
+</ol>
+
+<h2>Survey Respondents</h2>
+
+<ol>
+<li><strong>What information does TINYhr collect?</strong></li>
+<li>When you respond to surveys hosted by TINYhr, we collect, on behalf and upon instructions (including the ones provided in this privacy policy) of survey creators, information relating to you and your use of our services from a variety of sources. These are listed below. The sections afterward describe what we do with this information.</li>
+<li><strong>Information we collect directly from you</strong>
+
+<ul>
+<li><strong>Survey responses.</strong> We collect and store the survey responses that you submit If you have any questions about a survey you are taking, please contact your organization’s manager who signed up for the service.</li>
+</ul></li>
+<li><strong>Are your survey responses anonymous?</strong> Yes. If you respond to a survey, your email address is not automatically associated with the response; nor is it transmitted by TINYhr to the manager. However, there are rare circumstances whereby the manager may be able to associate responses with a person. For example, if one or a very small amount of people respond to a survey, the manager may be able intuit who provided to what responses. Or if you decide to include information that identifies you in your response – TINYhr does not modify or edit responses.</li>
+<li><strong>How does TINYhr use the information we collect?</strong> Your survey responses are managed by your manager who signed up for TINYhr services. Please contact your manager directly to understand how they will use your survey responses. We also use the information we collect from you (including usage data, device data, referral data and information from page tags) to manage and improve our services. Furthermore, we may aggregate your responses as described in this policy.</li>
+<li><strong>With whom do we share or disclose your information?</strong> TINYhr does not sell your survey responses, but we may make aggregate, anonymized, or anonymous data available to third parties for research or other purposes. We disclose:
+
+<ul>
+<li><strong>Your survey responses to the manager.</strong> Anything you expressly disclose in your survey responses will, naturally, be provided to them. Please contact the manager directly to understand how they might share your survey responses</li>
+<li><strong>Security, cookies and other important information</strong></li>
+<li><strong>Cookies.</strong> We use cookies on our websites. Cookies are small bits of data we store on the device you use to access our services so we can recognize repeat users. Each cookie expires after a certain period of time, depending on what we use it for. We use cookies for several reasons:
+
+<ul>
+<li><strong>To make our site easier to use.</strong> If you use the "Remember me" feature when you sign into your account, we may store your username in a cookie to make it quicker for you to sign in whenever you return to TINYhr. For security reasons. We use cookies to authenticate your identity, such as confirming whether you are currently logged into TINYhr.</li>
+<li><strong>To provide you with personalized content.</strong> We may store user preferences, such as your default language, in cookies to personalize the content you see. We also use cookies to ensure that users can’t retake certain surveys that they have already completed.</li>
+<li><strong>To improve our services.</strong> We use cookies to measure your usage of our websites and track referral data, as well as to occasionally display different versions of content to you. This information helps us to develop and improve our services and optimize the content we display to users.</li>
+</ul></li>
+<li><strong>Blogs and Forums.</strong> Our website offers publicly accessible blogs and may offer community forums in the future. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. We’re not responsible for any personal information you choose to submit in these areas of our site.</li>
+<li><strong>Safety of Minors and COPPA.</strong> Our services are not intended for and may not be used by minors. "Minors" are individuals under the age of majority in their place of residence (or under 13 in the United States). TINYhr does not knowingly collect personal data from minors or allow them to register. If it comes to our attention that we have collected personal data from a minor, we may delete this information without notice. If you have reason to believe that this has occurred, please contact us <a href="mailto:atsupport@TINYhr.com">atsupport@TINYhr.com</a>.</li>
+</ul></li>
+</ol>
+
+<h2>Disclosure of Information Pursuant to Subpoena or to Protect TINYhr or Third Parties</h2>
+
+<p>Notwithstanding anything to the contrary in this Privacy Policy, TINYhr may disclose information regarding Users (including personal information) pursuant to a valid subpoena or legal process. We will undertake good faith efforts to provide you with notice of any such subpoena or process, but this is not always possible, and you acknowledge that we do not have a legal obligation to do so. Additionally, TINYhr may disclose information regarding Users (including personal information) in order to protect the property of TINYhr or prevent any imminent damage to third party property or where there is a threat of personal injury.</p>
+
+</div>
 </div></div></div>
 </div>
 <div class="footer" id="footer">
 <div class="container">
-  <div class="row">
-    <div class="span4 footer1">
-      <ul>
-        <li><a href="/">Home</a></li>
-        <li><a href="/pricing">Pricing</a></li>
-        <li><a href="/testimonials">Testimonials</a></li>
-        <li><a href="http://www.tinyhr.com/">Blog</a></li>
-        <li><a href="/about">About</a></li>
-        <li><a href="/contact">Contact</a></li>
-          <li><a href="/signup">Free Trial - Sign up</a></li>
-      </ul>
-      <ul style="clear: left">
-        <li><a href="/top-companies">Top Companies</a></li>
-        <li><a href="/anonymity">Commitment to Anonymity</a></li>
-        <li><a href="/terms-of-use">Terms of Use</a></li>
-        <li><a href="/privacy-policy">Privacy Policy</a></li>
-      </ul>
-    </div>
-    <div class="span4 footer2">
-      <p class="center"><a href="/responses/check" class="btn">Check if you responded / Give more Cheers</a></p>
-    </div>
-    <div class="span4 footer3">
-      <p>Copyright © 2014 TINYpulse™</p>
-      <div>
-        <a href="https://twitter.com/TINYpulse">Follow @TINYpulse <img alt="Little-twitter-icon" src="https://d1i5ulwvtra6uh.cloudfront.net/assets/little-twitter-icon-16b5037d95b7621c234d6982a9261394.png"></a>
-        <br>
-        <a href="https://www.facebook.com/TINYpulse">Like us on Facebook <img alt="Little-facebook-icon" src="https://d1i5ulwvtra6uh.cloudfront.net/assets/little-facebook-icon-71a17436b1b49fa65d8c5da132bc247b.png"> </a>
-      </div>
-    </div>
-  </div>
-</div></div>
+<div class="row">
+<div class="span2">
+<h4>Product</h4>
+<ul>
+<li><a href="/">Home</a></li>
+<li><a href="/testimonials">Testimonials</a></li>
+<li><a href="/pricing">Pricing</a></li>
+<li><a href="/signup">Free Trial - Sign up</a></li>
+</ul>
+</div>
+<div class="span2">
+<h4>Resources</h4>
+<ul>
+<li><a href="/careercation">Careercation</a></li>
+<li><a href="/resources/employee-engagement-survey-2013">Employee Engagement Survey</a></li>
+<li><a href="/top-companies">Top Companies</a></li>
+<li><a href="http://www.tinyhr.com/">Blog</a></li>
+</ul>
+</div>
+<div class="span4 check-button">
+<a href="/responses/check" class="btn">Check if you responded
+<br>
+Give more Cheers and Suggestions
+</a><div class="hrwins hidden-phone">
+<a href="http://digitaljournal.com/pr/1784903"><img alt="Hrwins-2014" src="https://d1i5ulwvtra6uh.cloudfront.net/assets/hrwins-2014-9d6edccedfc26f59ad10398ae5a6b1c2.png">
+</a></div>
+</div>
+<div class="span2">
+<h4>Company</h4>
+<ul>
+<li><a href="/about">About</a></li>
+<li><a href="/contact">Contact</a></li>
+<li><a href="/anonymity">Commitment to Anonymity</a></li>
+<li><a href="/terms-of-use">Terms of Use</a></li>
+<li><a href="/privacy-policy">Privacy Policy</a></li>
+</ul>
+</div>
+<div class="span2">
+<h4>Social</h4>
+<ul>
+<li>
+<a href="https://twitter.com/TINYpulse" title="Follow @TINYpulse on Twitter">Follow @TINYpulse
+<img alt="Little-twitter-icon" src="https://d1i5ulwvtra6uh.cloudfront.net/assets/little-twitter-icon-16b5037d95b7621c234d6982a9261394.png">
+</a></li>
+<li>
+<a href="https://www.facebook.com/TINYpulse" title="Like us on Facebook">Like us on Facebook
+<img alt="Little-facebook-icon" src="https://d1i5ulwvtra6uh.cloudfront.net/assets/little-facebook-icon-71a17436b1b49fa65d8c5da132bc247b.png">
+</a></li>
+<li style="padding-top: 3px;">
+<div class="g-follow" data-annotation="bubble" data-height="20" data-href="//plus.google.com/u/0/103231385972360369684" data-rel="publisher"></div>
+</li>
+</ul>
+</div>
+</div>
+<div class="row">
+<div class="span12 footer-family">
+<p class="center">
+TINYpulse and <a href="https://www.clientpulse.com/" title="CLIENTpulse automates the tedious task of collecting ongoing feedback from your clients">CLIENTpulse</a> are part of the <a href="http://www.tinyhr.com/">TINYhr</a> family.
+</p>
+<p>Copyright © 2014 TINYpulse™</p>
+</div>
+</div>
+</div>
+<script>
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/platform.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script></div>
 <!-- Google Code for Remarketing tag -->
   <!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
   <script type="text/javascript">
@@ -211,37 +251,27 @@
   var google_remarketing_only = true;
   /* ]]> */
   </script>
-  <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-  </script>
+  <div style="display: none;">
+    <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+  </div>
   <noscript>
   <div style="display:inline;">
   <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/991234592/?value=0&amp;label=F0ZlCLi35QQQoJTU2AM&amp;guid=ON&amp;script=0"/>
   </div>
   </noscript><script type="text/javascript">
-adroll_adv_id = "ZZEVR6LJWFDQPLSC7RWRMC";
-adroll_pix_id = "ST7REGJ3P5CS3CHB6KY5K5";
-(function () {
-var oldonload = window.onload;
-window.onload = function(){
-   __adroll_loaded=true;
-   var scr = document.createElement("script");
-   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
-   scr.setAttribute('async', 'true');
-   scr.type = "text/javascript";
-   scr.src = host + "/j/roundtrip.js";
-   ((document.getElementsByTagName('head') || [null])[0] ||
-    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
-   if(oldonload){oldonload()}};
-}());
-</script><script type="text/javascript">if (!NREUMQ.f) { NREUMQ.f=function() {
-NREUMQ.push(["load",new Date().getTime()]);
-var e=document.createElement("script");
-e.type="text/javascript";
-e.src=(("http:"===document.location.protocol)?"http:":"https:") + "//" +
-  "js-agent.newrelic.com/nr-100.js";
-document.body.appendChild(e);
-if(NREUMQ.a)NREUMQ.a();
-};
-NREUMQ.a=window.onload;window.onload=NREUMQ.f;
-};
-NREUMQ.push(["nrfj","beacon-6.newrelic.com","d3e7d49094","739578","e14IEUcKW1sBRBYQEVlFDwZqFVZQAUUWSwpMWQMXHA==",25,20,new Date().getTime(),"","","","",""]);</script><script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
+  adroll_adv_id = "ZZEVR6LJWFDQPLSC7RWRMC";
+  adroll_pix_id = "ST7REGJ3P5CS3CHB6KY5K5";
+  (function () {
+  var oldonload = window.onload;
+  window.onload = function(){
+     __adroll_loaded=true;
+     var scr = document.createElement("script");
+     var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+     scr.setAttribute('async', 'true');
+     scr.type = "text/javascript";
+     scr.src = host + "/j/roundtrip.js";
+     ((document.getElementsByTagName('head') || [null])[0] ||
+      document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+     if(oldonload){oldonload()}};
+  }());
+  </script><script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
