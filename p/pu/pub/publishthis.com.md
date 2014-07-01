@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the publishthis.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210041504id_/http%3A//www.publishthis.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publishthis.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701125026id_/http%3A//www.publishthis.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | PublishThis | Real-Time Content Platform
 
@@ -107,6 +107,6 @@ We reserve the right to change this Privacy Policy from time to time, and such c
 
 **Contact Us**
 
-If you have any questions or comments regarding our privacy practices, you may [contact us](https://web.archive.org/web/20140210041504id_/http://www.publishthis.com/about/contact-us/ "Contact Us").
+If you have any questions or comments regarding our privacy practices, you may [contact us](https://web.archive.org/web/20140701125026id_/http://www.publishthis.com/about/contact-us/ "Contact Us").
 
 **Effective Date: January 15th, 2014**
