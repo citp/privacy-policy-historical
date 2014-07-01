@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bravelets.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331023539id_/https%3A//www.bravelets.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bravelets.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701170505id_/https%3A//bravelets.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy and Policy
 
