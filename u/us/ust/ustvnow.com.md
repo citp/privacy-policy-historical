@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ustvnow.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330051744id_/https%3A//support.ustvnow.com/entries/22004208-USTVNOW-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ustvnow.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701183424id_/https%3A//support.ustvnow.com/entries/22004208-USTVNOW-Privacy-Policy) for the most accurate reproduction.*
 
 # USTVNOW Privacy Policy : USTVnow Support
 
