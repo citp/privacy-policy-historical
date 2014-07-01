@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kicker.com privacy policy that was archived on 2014-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140329041326id_/http%3A//www.kicker.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kicker.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701082705id_/http%3A//www.kicker.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | KICKER
 
