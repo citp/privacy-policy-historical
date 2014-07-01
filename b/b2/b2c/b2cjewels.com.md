@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the b2cjewels.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214012111id_/http%3A//www.b2cjewels.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the b2cjewels.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701221149id_/http%3A//www.b2cjewels.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # B2C Jewels - Privacy Policy
 
-B2C Jewels will occasionally update its privacy statement to reflect company and customer feedback. When B2C Jewels posts changes to this statement, you will see the word "Updated" next to the Privacy Policy link on the B2C Jewels home page. B2C Jewels encourages you to periodically review this page to be informed of how we are protecting your information. If you have questions or concerns about policy changes, you should first contact the B2C Jewels customer service department at [info@B2CJewels.com](mailto:info@B2CJewels.com) or 1 - 866 - 835 - 9854 . 
+B2C Jewels will occasionally update its privacy statement to reflect company and customer feedback. When B2C Jewels posts changes to this statement, you will see the word "Updated" next to the Privacy Policy link on the B2C Jewels home page. B2C Jewels encourages you to periodically review this page to be informed of how we are protecting your information. If you have questions or concerns about policy changes, you should first contact the B2C Jewels customer service department at [info@B2CJewels.com](mailto:info@B2CJewels.com) or 1 - 866 - 522 - 2539 . 
 
 **How We Use The Information We Gather**
 
@@ -42,7 +42,7 @@ B2C Jewels occasionally requests information from our users and customers via su
 To opt out of receiving communications from B2C Jewels, just send a blank email to[ info@B2CJewels.com](mailto:info@B2CJewels.com) with the word "unsubscribe" in the subject line. 
 
 **Updating Personal Information**  
-If the personal information B2C Jewels has gathered from you changes or you no longer desire our service, we will gladly correct, update, or remove any personal data you have previously provided to us. To request a change or removal of your personal information, send an e-mail to [info@B2CJewels.com](mailto:info@B2CJewels.com) or contact one of our diamond and jewelry consultants at 1 - 866 - 835 - 9854. 
+If the personal information B2C Jewels has gathered from you changes or you no longer desire our service, we will gladly correct, update, or remove any personal data you have previously provided to us. To request a change or removal of your personal information, send an e-mail to [info@B2CJewels.com](mailto:info@B2CJewels.com) or contact one of our diamond and jewelry consultants at 1 - 866 - 522 - 2539. 
 
 **Security**  
 B2C Jewels is committed to protecting the privacy of your personal information. To protect the information you send from your computer to B2C Jewels e-commerce system, this information — including your credit card number, name, and address — is encrypted using Secure Sockets Layer (SSL) software. Internally, we use encryption and Web security technologies to protect the privacy of your personal data. Only parties responsible for processing your order have access to your credit card and bank information. 
@@ -72,6 +72,6 @@ If a third party obtains your personal information from a purchase made with B2C
 **Legal Disclaimer**  
 The only time B2C Jewels will disclose personal information is when required to by law or with the good-faith belief that such action is necessary in order to conform to the law. 
 
-If you have questions about this privacy statement, please contact the B2C Jewels customer service department at [ info@B2CJewels.com](mailto:info@B2CJewels.com) 1 - 866 - 835 - 9854 
+If you have questions about this privacy statement, please contact the B2C Jewels customer service department at [ info@B2CJewels.com](mailto:info@B2CJewels.com) 1 - 866 - 522 - 2539 
 
 * B2C Jewels will cover this liability if the unauthorized use resulted through no fault of yours from purchases made on B2C Jewels secure server. In the event of unauthorized use of your credit card, you must notify your credit card company in accordance with its reporting rules and procedures.
