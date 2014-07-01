@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vidangel.com privacy policy that was archived on 2014-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140212233022id_/http%3A//www.vidangel.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vidangel.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701172927id_/https%3A//www.vidangel.com/legal/privacy) for the most accurate reproduction.*
 
-# Privacy | VidAngel
+# Privacy | VidAngel Parental Controls
 
 Effective Date: October 12, 2013
 
@@ -8,7 +8,7 @@ In this Privacy Policy (“Policy”), we describe the information that we colle
 
 **What Information Do We Collect About You and Why?**
 
-The information we collect from you enables us to fulfill your request for our Products – namely, to send you bad breath and oral care supplies that you order and receive through our Site – to send you information or content in which you may be interested, and keep you abreast of any updates related to our Site.  We also use this information to personalize and continually improve our Site and Products.  Here are the types of information we gather:
+The information we collect from you enables us to fulfill your request for our Products – namely, to provide parental controls that enable you to filter swearing, sex, and violence from streaming video – to send you information or content in which you may be interested, and keep you abreast of any updates related to our Site.  We also use this information to personalize and continually improve our Site and Products.  Here are the types of information we gather:
 
 Information We Collect Directly From You.  You may browse our Site without registering.  If you would like to place an order or request information from us, then we require you to register with us and become a member on our Site so that we can fulfill your request.  To register with us, we request your name and email address.  As a part of the registration process, we may ask you to select a password.  In certain circumstances, such as when making a purchase, we will request that you provide your credit or debit card information and your billing and shipping address.
 
@@ -112,7 +112,7 @@ Our Site is not designed for children under 13.  We do not knowingly collect in
 
 **Special Information for California Consumers**
 
-California residents may request a list of certain third parties to which we have disclosed personally identifiable information about you for direct marketing purposes.  You may make one request per calendar year.  In your request, please attest to the fact that you are a California resident and provide a current California address for your response.  You may request this information in writing by contacting us at: Attn: VidAngel Privacy Policy 1154 Holly Circle Provo, UT 84604.  Please allow up to thirty (30) days for a response.
+California residents may request a list of certain third parties to which we have disclosed personally identifiable information about you for direct marketing purposes.  You may make one request per calendar year.  In your request, please attest to the fact that you are a California resident and provide a current California address for your response.  You may request this information in writing by contacting us at: Attn: VidAngel Privacy Policy 276 Everett Ave. Palo Alto, CA 94301.  Please allow up to thirty (30) days for a response.
 
 **Terms of Service**
 
@@ -124,11 +124,9 @@ If you have questions about the privacy aspects of our Site or would like to mak
 
 Attn: VidAngel Privacy Policy
 
-VidAngel
-
-1154 Holly Circle
-
-Provo, UT 84604
+VidAngel  
+276 Everett Ave.  
+Palo Alto, CA 94301
 
 **Changes to this Policy**
 
