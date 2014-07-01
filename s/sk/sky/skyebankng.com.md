@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skyebankng.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214133151id_/https%3A//www.skyebankng.com/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyebankng.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701094921id_/https%3A//www.skyebankng.com/index.php/privacy-policy) for the most accurate reproduction.*
 
 # Skye Bank Plc - Privacy Policy
 
