@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poppeeper.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208071805id_/http%3A//www.poppeeper.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poppeeper.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701064751id_/http%3A//www.poppeeper.com/privacy.php) for the most accurate reproduction.*
 
 # POP Peeper - Privacy Policy
 
