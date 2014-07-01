@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 10khits.com privacy policy that was archived on 2014-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140524031626id_/http%3A//www.10khits.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 10khits.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702000119id_/http%3A//www.10khits.com/privacy.php) for the most accurate reproduction.*
 
 # AutoSurf Traffic Exchange: Privacy Policy | 10K Hits
 
