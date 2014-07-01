@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onebip.com privacy policy that was archived on 2014-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140603062123id_/http%3A//corporate.onebip.com/wp-content/uploads/2014/03/ONEBIP-Privacy-Policy-English-version-10.03.2014.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onebip.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701143949id_/http%3A//corporate.onebip.com/wp-content/uploads/2014/03/ONEBIP-Privacy-Policy-English-version-10.03.2014.pdf) for the most accurate reproduction.*
 
 # ONEBIP SERVICE
 
