@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themeflood.com privacy policy that was archived on 2014-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140207235437id_/http%3A//themeflood.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themeflood.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701105135id_/http%3A//themeflood.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -43,7 +43,7 @@ ThemeFlood has the discretion to update this privacy policy at any time. When we
 By using this Site, you signify your acceptance of this policy and terms of service. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
  **Contacting us**  
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, [please contact us](https://web.archive.org/web/20140207235437id_/http%3A//themeflood.com/support/ "Support").
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, [please contact us](https://web.archive.org/web/20140701105135id_/http%3A//themeflood.com/support/ "Support").
 
 This document was last updated on January 03, 2011
 
