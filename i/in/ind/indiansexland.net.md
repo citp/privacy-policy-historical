@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiansexland.net privacy policy that was archived on 2013-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131008004721id_/http%3A//www.indiansexland.net/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiansexland.net privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701165454id_/http%3A//www.indiansexland.net/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # IndianSexLand.net - Live indian webcam sex chat
 
@@ -58,6 +58,6 @@ Visitors who wish to access or change the information they provided to our web s
 
 Visitors who have any questions about this Privacy Policy, the practices of this site, or their interactions with this web site, should visit the Support section of this site and contact us via Email. 
 
-© Copyright 2005-2013 indiansexland.net, All Rights Reserved.
+© Copyright 2005-2014 indiansexland.net, All Rights Reserved.
 
-[Click Here to contact Customer Support](https://web.archive.org/web/20131008004721id_/http%3A//www.indiansexland.net/index.php?action=MailSupport)
+[Click Here to contact Customer Support](https://web.archive.org/web/20140701165454id_/http%3A//www.indiansexland.net/index.php?action=MailSupport)
