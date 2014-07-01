@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twinstarcu.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213213241id_/https%3A//www.twinstarcu.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twinstarcu.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701165812id_/https%3A//www.twinstarcu.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TwinStar Credit Union
 
@@ -16,9 +16,8 @@ The types of personal information we collect and share depend on the product or 
   * account balances and payment history
   * credit history and credit scores
 
+  
 
-
-When you are _no longer_ our member, we continue to share your information as described in this notice.
 
 ### How?
 
@@ -31,9 +30,24 @@ For our marketing purposes— to offer our products and services to you | Yes | 
 For joint marketing with other financial companies | Yes | No  
 For our affiliates’ everyday business purposes— information about your transactions and experiences | Yes | No  
 For our affiliates’ everyday business purposes— information about your creditworthiness | No | We don’t share  
-For nonaffiliates to market to you | No | We don’t share  
+For nonaffiliates to market to you | Yes | Yes  
   
-**Questions?** Contact us by calling 360.357.9917 or at 1.800.258.3115, send us an email at privacy@twinstarcu.com, or write to us at TwinStar Credit Union, PO Box 718, Olympia, WA 98507-0718.
+**To limit our sharing:**
+
+  * Call 800.258.3115 – our menu will prompt you through your choice(s) or
+  * Visit us online: https//www.twinstarcu.com/privacy-policy
+
+
+
+**Please note:**
+
+  * If you are a new member, we can begin sharing your information 30 days from the date we sent this notice. 
+  * When you are no longer our member, we continue to share your information as described in this notice.
+  * However, you can contact us at any time to limit our sharing.
+
+
+
+**Questions?** Contact us by calling 800.258.3115, send us an email at privacy@twinstarcu.com, or write to us at TwinStar Credit Union, PO Box 718, Olympia, WA 98507-0718.
 
 ###  Who we are
 
@@ -75,13 +89,15 @@ State laws and individual companies may give you additional rights to limit shar
 
 Companies related by common ownership or control. They can be financial and nonfinancial companies.
 
-Our affiliates include companies providing data processing, auditing, compliance and financial services.
+  * _Our affiliates include companies providing data processing, auditing, compliance and financial services._
+
+
 
 #### Nonaffiliates 
 
 Companies not related by common ownership or control. They can be financial and nonfinancial companies.
 
-  * _TwinStar Credit Union does not share with nonaffiliates so they can market to you._
+  * _Non-affiliates may receive private information about you if the information is necessary to perform a service on your account. You cannot opt out of sharing for that information._
 
 
 
@@ -89,16 +105,16 @@ Companies not related by common ownership or control. They can be financial and 
 
 A formal agreement between nonaffiliated financial companies that together market financial products or services to you.
 
-  * _TwinStar Credit Union does not jointly market._
+  * _We jointly market credit insurance products providing payment protection for loan accounts you have at TwinStar Credit Union._
 
 
 
 ### Other important information
 
-Privacy Policy Inquiries: TwinStar Credit Union is owned by its members and governed by a Board of Directors that you elect. You can be confident that your financial privacy is a top priority of your credit union. We are required by law to provide you with this privacy notice to explain how we collect, use, and safeguard your personal financial information. If you have any questions about our privacy practices, contact us by calling 1.800.258.3115, send us an email at privacy@twinstarcu.com, or write to us at TwinStar Credit Union, PO Box 718, Olympia, WA 98507-0718.
+Privacy Policy Inquiries: TwinStar Credit Union is owned by its members and governed by a Board of Directors that you elect. You can be confident that your financial privacy is a top priority of your credit union. We are required by law to provide you with this privacy notice to explain how we collect, use, and safeguard your personal financial information. If you have any questions about our privacy practices, contact us by calling 800.258.3115, send us an email at privacy@twinstarcu.com, or write to us at TwinStar Credit Union, PO Box 718, Olympia, WA 98507-0718.
 
-Rev. 11/2012
+Rev. 06/2014
 
 Attachment| Size  
 ---|---  
-[055-TwinStarPrivacyNotice 112012.pdf](https://www.twinstarcu.com/sites/default/files/055-TwinStarPrivacyNotice%20112012.pdf)| 376.46 KB
+[055-TwinStarPrivacyNotice-062014.pdf](https://www.twinstarcu.com/sites/default/files/055-TwinStarPrivacyNotice-062014.pdf)| 416.21 KB
