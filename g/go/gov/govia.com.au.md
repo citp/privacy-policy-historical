@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the govia.com.au privacy policy that was archived on 2014-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140126121443id_/https%3A//www.govia.com.au/via/home/Customer%2Bsupport/Privacy%2BStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the govia.com.au privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701095830id_/https%3A//www.govia.com.au/via/home/Customer%2Bsupport/Privacy%2BStatement) for the most accurate reproduction.*
 
 # go via - Privacy Statement
 
