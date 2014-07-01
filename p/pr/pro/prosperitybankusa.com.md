@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prosperitybankusa.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330091828id_/https%3A//www.prosperitybankusa.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prosperitybankusa.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701233305id_/https%3A//www.prosperitybankusa.com/privacy.aspx) for the most accurate reproduction.*
 
 # Prosperity Bank - Privacy Notice
 
@@ -6,7 +6,7 @@ This notice applies to individuals (and their legal representatives) who obtain 
 
 ## PRIVACY POLICY
 
-Click [here](https://web.archive.org/web/20140330091828id_/https%3A//www.prosperitybankusa.com/ContentDocumentHandler.ashx?documentId=23873 "here") for the Prosperity Bank Privacy Notice.
+Click [here](https://web.archive.org/web/20140701233305id_/https%3A//www.prosperitybankusa.com/ContentDocumentHandler.ashx?documentId=23873 "here") for the Prosperity Bank Privacy Notice.
 
 ## INTERNET PRIVACY POLICY
 
