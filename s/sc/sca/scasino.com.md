@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scasino.com privacy policy that was archived on 2014-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140329002415id_/http%3A//www.scasino.com/en/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scasino.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701200804id_/http%3A//www.scasino.com/en/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | SCasino
 
