@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edutopia.org privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327184752id_/http%3A//www.edutopia.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edutopia.org privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701192635id_/http%3A//www.edutopia.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Edutopia
 
@@ -6,7 +6,7 @@ Last Updated: December 20, 2012
 
 The George Lucas Educational Foundation (GLEF) values your privacy and we want to ensure your experience with GLEF and its affiliates, subsidiaries, and related corporate entities (collectively, "GLEF," "we," or "us") and our websites and mobile applications are as satisfying and safe as possible. We have established this Privacy Policy (this "Policy") to explain how we collect, use and share information. By accepting this Privacy Policy, you expressly consent to the information handling practices described in this Policy.
 
-## Quick Reference
+### Quick Reference
 
   1. Information We Collect
   2. How We Use Information
@@ -27,7 +27,7 @@ The George Lucas Educational Foundation (GLEF) values your privacy and we want t
   
 
 
-## 1\. Information We Collect
+### 1\. Information We Collect
 
 In describing our collection, use, and sharing of information in this Policy, we refer to our collection and use of "Personal Information." "Personal Information," as used in this Policy, is personally identifiable information, which is information that directly identifies an individual, such as first and last name, mailing address, email address or other online contact information, or telephone number. We collect Personal Information, as well as non-personally identifiable information on GLEF websites and mobile applications.
 
@@ -54,7 +54,7 @@ The third party analytics companies who collect information on our websites, mob
   
 
 
-## 2\. How We Use Information
+### 2\. How We Use Information
 
 Generally, we use Personal Information to establish and enhance our relationship with our users through four main channels: (1) Communication; (2) Optimization; (3) Advertising; and (4) Sharing Features. Below, we provide some specific examples of how we use the Personal Information and other information we collect.
 
@@ -71,7 +71,7 @@ We also may allow you to share links to content with users of various third part
   
 
 
-## 3\. When We Disclose Personal Information
+### 3\. When We Disclose Personal Information
 
 We do not share Personal Information with third parties except in the limited circumstances described in this Policy.
 
@@ -88,19 +88,19 @@ We do not share Personal Information with third parties except in the limited ci
   
 
 
-## 4\. Children Under 13
+### 4\. Children Under 13
 
 We do not knowingly seek or collect Personal Information from users under the age of 13. If we determine we have inadvertently gathered Personal Information from a user under the age of 13, we will promptly delete any and all such Personal Information from our records.
 
   
 
 
-## 5\. Third Party Advertisers
+### 5\. Third Party Advertisers
 
 We may allow other companies, called third party ad servers or ad networks to serve advertisements within Networks on GLEF’s websites and mobile applications. These third party ad servers or ad networks may use technology to send, directly to your browser, the advertisements that appear within a GLEF website or mobile application and they automatically receive your IP Address and other log file information when this happens. Such third party companies may also use other technologies (such as cookies, JavaScript, or web beacons) to measure the effectiveness of their advertisements and to personalize their advertising content. Certain third party companies may also use these cookies to serve ads to you based on your visit to these Networks and other sites on the Internet. We do not provide your Personal Information to these third party ad servers or ad networks without your consent. However, please note that if an advertiser asks us to show an advertisement to a certain audience or audience segment and you respond to that advertisement, the advertiser or ad server may conclude that you fit the description of the audience that they were trying to reach. GLEF’s ads are served by Google’s DFP Small Business Service; you may opt-out of these advertisements by opting out of Google’s use of the DART cookie by visiting the Google ad and content network privacy policy located [here](http://www.google.com/policies/privacy/ads/). In addition, you may click [here](http://www.networkadvertising.org/choices/) to visit the Network Advertising Initiative’s opt-out page, where you can learn more about its member companies’ practices and to opt out from the collection and use of information by its member companies. We reserve the right to add or remove third party ad networks and ad servers in our discretion. We may not at all times list such updated ad network or ad server partners in this Privacy Policy.   
 
 
-## 6\. Your Choices
+### 6\. Your Choices
 
 **Submitting Personal Information.** If you do not want to submit Personal Information that is necessary to provide or use a service or to fulfill your request, you will not be able to access and/or participate in certain GLEF services. For example, you will not be able to register for an account with us or participate in certain contests or promotions, or access and/or use the Edutopia e-newsletter. In addition, your refusal to submit Personal Information may limit our ability to respond to your customer support inquiry in a timely fashion.
 
@@ -113,7 +113,7 @@ We may allow other companies, called third party ad servers or ad networks to se
   
 
 
-## 7\. Security
+### 7\. Security
 
 We take reasonable measures, including the implementation and maintenance of physical, electronic, and managerial procedures, in an effort to assure the security, integrity, and accuracy of all Personal Information that we collect. Our efforts include procedures designed to avoid unauthorized access, alteration, misuse or disclosure of Personal Information.
 
@@ -122,21 +122,21 @@ If we learn of a security systems breach, we may attempt to notify you electroni
   
 
 
-## 8\. Data Integrity and Data Retention
+### 8\. Data Integrity and Data Retention
 
 We collect and use Personal Information in accordance with this Policy and only for the purposes stated in this Policy and/or at the time we request such Personal Information from our users, or for such purposes to which a user may otherwise consent. We do not use or share our users' Personal Information in a way that is incompatible with the purposes for which such Personal Information was requested and authorized for use by us. We retain Personal Information for no longer than is commercially useful to carry out our business purposes, or as we believe may be legally required. When Personal Information is deleted or updated by you, it may take up to 30 days from accessible systems, and up to 90 days from backup systems, for us to delete such Personal Information.
 
   
 
 
-## 9\. Access to Personal Information
+### 9\. Access to Personal Information
 
 You may view, correct, or delete the Personal Information GLEF stores about you. Most of your Personal Information may be accessed and corrected by simply logging into your account and accessing your profile.
 
   
 
 
-## 10\. Third Party Login Functionality and Sharing
+### 10\. Third Party Login Functionality and Sharing
 
 We may permit users with accounts on certain third party services including but not limited to social networking, search, sharing, and other services delivered by third-parties, to bypass the standard registration process. If you connect through an authorized third party service, you will be able to use your third party login information to log in to your GLEF account or access GLEF content and products. We are not responsible for the sharing, posting, commenting, or other content and information gathering practices of any third party services that may be triggered by using these third party login services. Please review their terms of service and privacy policies carefully before using third party login functionality to access any GLEF content or products.
 
@@ -145,7 +145,7 @@ By using any third party services to log in to your GLEF account or access GLEF 
   
 
 
-## 11\. Third Party Services and Links
+### 11\. Third Party Services and Links
 
 GLEF’s content, including services, media, newsletters and communications that we send to our users, may contain links to content provided by third-parties. For example, our communications may contain links to third party merchants from whom you may purchase products. To purchase products from these third party merchants, you may be required to provide Personal Information, including your credit card or other payment information.
 
@@ -154,25 +154,30 @@ In connection with some of our products and services we may use or offer service
   
 
 
-## 12\. International Users
+### 12\. International Users
 
 GLEF products and services are hosted in the United States. If you use GLEF products and services from the European Union, or any other region with laws governing data collection and use that may differ from U.S. law, please note that you are transferring your personal data outside of those jurisdictions to the United States. The United States does not have the same data protection laws as the European Union and other regions. By providing Personal Information under this Policy, you consent to the use of your Personal Information in accordance with this Policy and the transfer of your Personal Information to the United States.
 
   
 
 
-## 13\. California Privacy Rights
+### 13\. California Privacy Rights
 
 In addition to the rights set forth in this Privacy Policy, California Civil Code Section 1798.83 permits California residents who are individual consumers or users of GLEF products or services to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please contact us via mail or email at the address identified in the "Contacting Us" section.
 
   
 
 
-## 14\. Changes and Updates to This Policy
+### 14\. Changes and Updates to This Policy
 
 We may update this Policy from time to time. If we do, we will update the "effective date" at the top of the Policy. If we make material changes to how we use Personal Information, we will attempt to notify you of the change and to give you the opportunity to exercise choice as to how your Personal Information is used. We will post the updated Policy on the affected sites, products and services, and if we have your email address, we will send notice of the update to that email address.
 
 We encourage you to review this Policy periodically to stay informed about our collection, use and disclosure of Personal Information. Your continued use of any content, products or other services covered by this Policy constitutes your agreement to this Policy and any updates.
+
+  
+
+
+### 15\. Contacting Us
 
 If you have questions about this Policy, you may contact us at [info@edutopia.org](mailto:info@edutopia.org)
 
