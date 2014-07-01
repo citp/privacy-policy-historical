@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seowebanalyst.com privacy policy that was archived on 2014-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140311112535id_/http%3A//www.seowebanalyst.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seowebanalyst.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701214428id_/http%3A//www.seowebanalyst.com/privacy.html) for the most accurate reproduction.*
 
 # SEO Web Analyst®™ Privacy Policy
 
