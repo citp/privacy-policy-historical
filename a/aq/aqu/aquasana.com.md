@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aquasana.com privacy policy that was archived on 2013-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130809031609id_/http%3A//www.aquasana.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aquasana.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701144700id_/http%3A//www.aquasana.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Aquasana Water Filters - Privacy Policy
+# Privacy Policy | Aquasana
 
 Aquasana® Privacy Policy  
 (last revised August 31, 2011) 
