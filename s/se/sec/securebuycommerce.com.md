@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the securebuycommerce.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627133017id_/http%3A//www.securebuycommerce.com/securebuy-privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the securebuycommerce.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701120504id_/http%3A//www.securebuycommerce.com/securebuy-privacy-statement.html) for the most accurate reproduction.*
 
 # SecureBuy - SecureBuy Privacy Statement
 
@@ -70,6 +70,6 @@ The SecureBuy family of services and companies we hire to help us market our web
 If we change or update this privacy policy to allow SecureBuy to use or share your previously collected personal information in a materially different way, then the links to the policy on our websites and online services (which are generally found in the footer of the website or online service) will indicate that the policy has been changed or updated before the change or update become effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
 Who can I contact with questions or concerns?  
-If you have a privacy question or complaint, please [Click Here](https://www.securebuycommerce.com/contact-us.html) to contact us.
+If you have a privacy question or complaint, please [Click Here](https://securebuycommerce.com/contact-us.html) to contact us.
 
 Effective January 1, 2013
