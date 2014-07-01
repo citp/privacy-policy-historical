@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the vacancy-filler.co.uk privacy policy that was archived on 2014-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140105190757id_/https%3A//www.vacancy-filler.co.uk/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vacancy-filler.co.uk privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701063119id_/https%3A//www.vacancy-filler.co.uk/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Vacancy Filler
+
+Last revised 11 February 2014
 
 ### Introduction
 
@@ -21,7 +23,7 @@ Please read this policy carefully to understand our policies and practices regar
 
 This Website contains links to other sites. We are not responsible for the privacy practices of other sites. Accordingly, we encourage users to read the privacy statements of each and every website that collects your information. 
 
-We are a participant in the US-EU Safe Harbor program developed by the US Department of Commerce and the European Union (EU). We have certified that we adhere to the Safe Harbor Privacy Principles (the " **Principles** ") agreed upon by the US and EU. For more information about the Safe Harbor and to view our certification, visit the US Department of Commerce's Safe Harbor website.
+We agree to process any personal data provided to the Company by you and shall comply with all aspects of all application data protection legislation (including without limitation the Data Protection Act 1998) as a Data Controller as set out in section 1(1) of the Data Protection Act 1998 (the **“Principles”** ). This includes an assurance that your data will not be held or processed outside the European Economic Area.
 
 ### Information We Collect About You and How We Collect It
 
@@ -82,7 +84,7 @@ We may disclose personal information that we collect or you provide as described
 
   * To our subsidiaries, affiliates, or their or our successors or assigns.
   * To contractors, service providers, and other third parties we use to support our business or third parties with products, services or positions that may be of interest to you, provided such parties provide at least the same level of privacy protection as is required of the Company.
-  * To fulfill the purpose for which you provide it. 
+  * To fulfil the purpose for which you provide it. 
   * For any other purpose disclosed by us when you provide the information.
   * With your consent.
 
@@ -109,13 +111,13 @@ We strive to provide you with choices regarding the personal information you pro
 
 You can review and change your personal information by logging into the Website and visiting your account profile page where applicable or otherwise by contacting us at [accounts@vacancy-filler.co.uk](mailto:accounts@vacancy-filler.co.uk;)
 
-If you delete your User Contributions from the Website, copies of your User Contributions may remain viewable in cached and archived pages, or might have been copied or stored by other Website users. Proper access and use of information provided on the Website, including 
+If you delete your User Contributions from the Website, copies of your User Contributions may remain viewable in cached and archived pages, or might have been copied or stored by other Website users. Proper access and use of information provided on the Website, including User Contributions, is governed by our Terms of Use.
 
 In accordance to the Principles, Vacancy Filler Ltd has named the European Data Protection Authorities as the independent recourse mechanism for investigation of individual’s complaints and disputes. 
 
 ### Transmission of Your Information
 
-By submitting your information to the Company, you acknowledge and agree that the technical processing and transmission of your information, may involve, (a) transmissions over various networks, including the transfer of this information to the United States and/or other countries for storage, processing and use by the Company, its affiliates, and their agents; and (b) changes to conform and adapt to technical requirements of connecting networks or devices. Accordingly, you agree to permit such parties to make such transmissions and changes. 
+By submitting your information to the Company, you acknowledge and agree that the technical processing and transmission of your information, may involve, (a) transmissions over various networks, including the transfer of this information to other countries in the European Economic Area for storage, processing and use by the Company, its affiliates, and their agents; and (b) changes to conform and adapt to technical requirements of connecting networks or devices. Accordingly, you agree to permit such parties to make such transmissions and changes. 
 
 ### Security
 
