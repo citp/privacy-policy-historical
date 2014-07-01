@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the druva.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331031218id_/http%3A//www.druva.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the druva.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701082146id_/http%3A//www.druva.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Druva, Inc.
 
-Last Updated: September 05, 2013
+ Last Updated: June 12, 2014
 
 Your privacy is important to Druva Inc. (Druva). This privacy policy (“Policy”) applies to the Druva Site, www.druva.com and services owned and operated by Druva. This Policy tells you how personal information is collected, used, disclosed, and protected by Druva. If you use the Druva site and services as part of an entity or organization that has a corporate account with Druva (like your employer or a university), the individual terms of that organization’s contract for the corporate account may restrict our collection or use of your personal information more than what is described in this Policy. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged Druva. This Policy includes Druva’s European Union and Swiss Safe Harbor Privacy Statements and the Site Privacy Statements.
 
-Druva has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html "TRUSTe's program requirements") and [TRUSTed Cloud Program Requirements](http://www.truste.com/privacy-program-requirements/TRUSTed-cloud/ "TRUSTed Cloud Program Requirements")  including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software.  The TRUSTe program covers only information that is collected through this Site, platform service inSync, www.druva.com and mobile application.
+Druva has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html "TRUSTe's program requirements") and [TRUSTed Cloud Program Requirements](http://www.truste.com/privacy-program-requirements/TRUSTed-cloud/ "TRUSTed Cloud Program Requirements")  including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software.  The TRUSTe program covers only information that is collected through this Site, platform service inSync, www.druva.com and mobile application.
+
+Druva inSync Client for OSX version 5.4 is certified as a Trusted Download Program by TRUSTe signifying that the Druva inSync Client for OSX application has been tested by TRUSTe for compliance with TRUSTe's TDP program requirements including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trust mark and innovative trust solutions. If you have questions or complaints regarding the Druva inSync Client for OSX application, please contact us at Druva Inc. 150 Mathilda Place, Suite 450, Sunnyvale, CA 94086, or by email at [support@druva.com](mailto:support@druva.com) or by phone at +1 888-248-4976. If you are not satisfied with our response you can contact TRUSTe [here](http://clicktoverify.truste.com/pvr.php?page=validate&softwareProgramId=531&sealid=112). The TRUSTe Trusted Download program covers only Druva inSync Client for OSX and does not cover other applications such as mobile versions.
 
 TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [support@druva.com](mailto:support@druva.com "support@druva.com"). If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint "TRUSTe here").
 
@@ -71,7 +73,7 @@ Druva may store and process personal information in the United States and other 
 
 Druva reserves the right to share aggregated demographic information about our customers, sales, and traffic to our partners and advertisers. We will not give, sell, rent, share, or trade any of your personal information or any data that you store using our services to any third party except as outlined in this Policy or with your consent. We may disclose information to a third party to  
 (a) comply with to protect Druva, agents, customers, and others including to enforce our agreements, policies and terms of use or   
-  (b) in the good faith belief that disclosure is needed to respond to an emergency, or protect the personal safety of any person  
+(b) in the good faith belief that disclosure is needed to respond to an emergency, or protect the personal safety of any person  
 (c) as required by law, such as to comply with a subpoena, or similar legal process,   
 (d) to companies that provide services to help us with our business activities such as processing your payment or offering live customer support chat. These companies are authorized to use your personal information only as necessary to provide these services to us.
 
@@ -124,5 +126,5 @@ If you have any questions about this Policy, you should first contact us at [sup
 Any questions about this Policy should be addressed to [support@druva.com](mailto:support@druva.com "support@druva.com") or through the contact information below.
 
 Druva Inc.   
-150 Mathilda Place, Suite 300   
+150 Mathilda Place, Suite 450   
 Sunnyvale, CA 94086
