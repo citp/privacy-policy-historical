@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the allied.com privacy policy that was archived on 2014-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140222191320id_/http%3A//allied.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allied.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701111429id_/http%3A//www.allied.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
-
-##  Allied Van Lines Privacy Policy
 
 **Allied applies the Global Privacy Policy of the parent company, SIRVA, Inc. SIRVA respects your privacy. We have developed this Privacy Policy to inform you of how we protect your information.**
 
