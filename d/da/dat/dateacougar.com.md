@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dateacougar.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330180040id_/http%3A//www.dateacougar.com/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dateacougar.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701071214id_/http%3A//www.dateacougar.com/privacyPolicy) for the most accurate reproduction.*
 
 # .: Privacy Policy
 
@@ -66,6 +66,10 @@ IF YOU DO NOT EXPRESSLY AGREE WITH ALL OF THE TERMS OF THIS PRIVACY POLICY STATE
 > 
 > All subscribers should consider any information provided to or collected by the Site as non-confidential, and consequently the Site assumes no liability or responsibility if any information relating to any subscriber is intercepted and/or used by an unintended recipient. 
 
+**Use of Demographical Data**
+
+> From time to time, the Site may use data obtained from Google Analytics Demographics and Interest Reporting to make decisions about the types of content you see on the Site, including possible advertisements you may see. The techniques employed do not collect any personal information such as your name, email address, postal address or telephone number. If you wish to opt out of making your data available to the Site, please visit [THIS](https://tools.google.com/dlpage/gaoptout/) page. 
+
 **"OPT-IN" and "OPT-OUT" Provisions.**
 
 > There may be occasions when a subscriber will be presented with special offers either from the operators of the Site or from third-party service or content providers, which may include consent to receive e-mail solicitations, communications, newsletters, commercial advertising, or other promotional or special event materials (collectively referred to as "Offers"). 
@@ -76,7 +80,7 @@ IF YOU DO NOT EXPRESSLY AGREE WITH ALL OF THE TERMS OF THIS PRIVACY POLICY STATE
 
 **"OPT-OUT" Revocation Procedure.**
 
-> The Site also offers all subscribers a procedure for "Opting-Out" if the subscriber subsequently chooses to revoke any consent to receive Offers by [clicking here](https://web.archive.org/web/20140330180040id_/http%3A//www.dateacougar.com/settings/2) and deselecting "I want to be informed of promotional offers". 
+> The Site also offers all subscribers a procedure for "Opting-Out" if the subscriber subsequently chooses to revoke any consent to receive Offers by [clicking here](https://web.archive.org/web/20140701071214id_/http%3A//www.dateacougar.com/settings/2) and deselecting "I want to be informed of promotional offers". 
 
 **Terms and Conditions of Membership.**
 
