@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the whackit.co privacy policy that was archived on 2013-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130826091416id_/http%3A//www.whackit.co/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whackit.co privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701181348id_/http%3A//www.whackit.co/privacy-policy.html) for the most accurate reproduction.*
 
-# Kill Your Boss Ways: Privacy Policy
+# Whack It Games: Privacy Policy
 
-## We respect your privacy
+##  We respect your privacy
 
-We know that you care how information about you is used and shared and we appreciate your trust in us to do that carefully and sensibly. This notice describes the privacy policy of our website. By visiting WhackIt.co, you are accepting and consenting to the practices described in this Privacy Notice. 
+We know that you care how information about you is used and shared and we appreciate your trust in us to do that carefully and sensibly. This notice describes the privacy policy of our website. By visiting whackit.co, you are accepting and consenting to the practices described in this Privacy Notice. 
 
 **Controllers of Personal Information**
 
@@ -14,11 +14,11 @@ We do not collect or store any of your personal information when you visit this 
 
 We do not share any information with third parties.
 
-WhackIt.co does not use any cookies.
+whackit.co does not use any cookies.
 
 **Conditions of Use, Notices and Revisions**
 
-If you choose to visit WhackIt.co, your visit and any dispute over privacy is subject to this Privacy Notice and our Conditions of Use, including limitations on damages and application of internation laws.
+If you choose to visit whackit.co, your visit and any dispute over privacy is subject to this Privacy Notice and our Conditions of Use, including limitations on damages and application of internation laws.
 
 **Automatic Information**
 
