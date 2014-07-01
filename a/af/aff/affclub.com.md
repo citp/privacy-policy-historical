@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the affclub.com privacy policy that was archived on 2014-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140212185831id_/https%3A//www.affclub.com/policy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affclub.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701141906id_/https%3A//www.affclub.com/policy.do) for the most accurate reproduction.*
 
-# PartyPartners Limited Privacy Policy
+# bwin.party partners Limited Privacy Policy
 
 **1\. PRIVACY**
 
 We are committed to protecting your personal information. We have created this Privacy Policy to let you know what information We collect when you participate in the Affiliate Network at [the  AffClub Website](http://www.affclub.com/) (collectively, the ' **Affiliate Network** '), why We collect this information and how We use the collected information.
 
-Please note that this Privacy Policy will be agreed between you and PartyPartners Limited and the bwin.party Group, being bwin.party digital entertainment plc together with its Group companies as defined in the [Standard Affiliate Agreement](https://web.archive.org/web/20140212185831id_/https%3A//www.affclub.com/legal.do) (' **PartyPartners** ', ' **We** ', ' **Us** ' or ' **Our** ', as appropriate).
+Please note that this Privacy Policy will be agreed between you and bwin.party partners Limited and the bwin.party Group, being bwin.party digital entertainment plc together with its Group companies as defined in the [Standard Affiliate Agreement](https://web.archive.org/web/20140701141906id_/https%3A//www.affclub.com/legal.do) (' **bwin.party partners** ', ' **We** ', ' **Us** ' or ' **Our** ', as appropriate).
 
 We may periodically make changes to this Privacy Policy and will notify you of these changes by posting the modified terms on the [AffClub Website](http://www.affclub.com/). We recommend that you revisit this Privacy Policy regularly.
 
@@ -28,7 +28,7 @@ We may disclose your Personal Information if required to do so by law, or if We 
 
 **6\. ACCESS**
 
-You may 'opt out' of receiving any promotional communications either by choosing to opt out where such option is made available on Our sites or the Affiliate Network or in an email you receive from Us, or at any time by sending an email, or by writing to Us at Customer Affiliate Network, PartyPartners Limited, Suite 711, Block 7, Europort, Gibraltar. In addition, you may contact Us at this address if you: 1) want to confirm the accuracy of the Personal Information We have collected about you; 2) would like to update your Personal Information or delete your Personal Information; and/or 3) have any complaint regarding Our use of your Personal Information. If requested, We will change any information you have provided to Us or mark any information to prohibit future use, provided that you provide evidence as We may reasonably require for such changes.
+You may 'opt out' of receiving any promotional communications either by choosing to opt out where such option is made available on Our sites or the Affiliate Network or in an email you receive from Us, or at any time by sending an email, or by writing to Us at Customer Affiliate Network, bwin.party partners Limited, Suite 711, Block 7, Europort, Gibraltar. In addition, you may contact Us at this address if you: 1) want to confirm the accuracy of the Personal Information We have collected about you; 2) would like to update your Personal Information or delete your Personal Information; and/or 3) have any complaint regarding Our use of your Personal Information. If requested, We will change any information you have provided to Us or mark any information to prohibit future use, provided that you provide evidence as We may reasonably require for such changes.
 
 **7\. COOKIES**
 
