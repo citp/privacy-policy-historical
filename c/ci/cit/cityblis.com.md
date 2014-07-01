@@ -1,6 +1,24 @@
-> *The following text is extracted and transformed from the cityblis.com privacy policy that was archived on 2013-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131220163416id_/https%3A//www.cityblis.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cityblis.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702012749id_/https%3A//www.cityblis.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cityblis
+
+### You have no item history
+
+#### We will save the latest products you viewed here for you
+
+### Loading...
+
+
+
+
+### You have no "blised" items
+
+#### We will save everything you have "Liked" here for you
+
+### Loading...
+
+
+
 
 ## By invitation only
 
