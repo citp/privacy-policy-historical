@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realcombiz.com privacy policy that was archived on 2014-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140406113856id_/http%3A//www.realcombiz.com/p/privacy-policy_614.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realcombiz.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702011319id_/http%3A//www.realcombiz.com/p/privacy-policy_614.html) for the most accurate reproduction.*
 
 # Privacy policy | RealcomBiz
 
