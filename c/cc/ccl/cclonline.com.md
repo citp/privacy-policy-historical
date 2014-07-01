@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cclonline.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330191933id_/http%3A//www.cclonline.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cclonline.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701171339id_/http%3A//www.cclonline.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - CCL Computers
 
