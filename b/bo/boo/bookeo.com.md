@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookeo.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327015417id_/http%3A//www.bookeo.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookeo.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701204321id_/http%3A//www.bookeo.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | appointments | Bookeo.com
 
