@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dawsonera.com privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606021817id_/https%3A//www.bertrams.com/BertWeb/index.jsp%3Fs%3D361) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dawsonera.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701120306id_/https%3A//www.bertrams.com/BertWeb/index.jsp%3Fs%3D361) for the most accurate reproduction.*
 
 # Bertram Books - Connect Group PLC Privacy & Legal Policy
 
