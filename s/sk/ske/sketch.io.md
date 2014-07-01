@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sketch.io privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326211703id_/https%3A//sketch.io/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sketch.io privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701191652id_/https%3A//sketch.io/privacy-policy.html) for the most accurate reproduction.*
 
 # Building (HTML5) Computer-Aided Design Tools for Mankind
 
