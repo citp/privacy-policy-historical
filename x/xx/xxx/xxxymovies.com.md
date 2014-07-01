@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xxxymovies.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330235342id_/http%3A//www.xxxymovies.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xxxymovies.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701135625id_/http%3A//www.xxxymovies.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for XXXYMovies.com
 
@@ -48,4 +48,4 @@ XXXYMovies.com is the home of free porn. With thousands of full length dvd's the
 
 Questions/Comments/Suggestions are important to us. 
 
-Friendly sites:   [Hentai Porn](http://hentaistream.com/)   |   [Porn Movies](http://www.3movs.com/)   |   [XXX Tube8 Movies](http://www.tube8.com/search.html?q=xxx)  
+Friendly sites:   [Fucking Videos](http://www.fucknvideos.com/)   |   [Porn Movies](http://www.3movs.com/)   |   [Free Sex Videos](http://www.sex.com/videos/)  
