@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the j2ski.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331023141id_/http%3A//www.j2ski.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the j2ski.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701200223id_/https%3A//www.j2ski.com/privacy.html) for the most accurate reproduction.*
 
 # J2Ski.Com - Cookie Use and Privacy Policy
 
