@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the begamer.com privacy policy that was archived on 2014-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140408144905id_/http%3A//begamer.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the begamer.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701151605id_/http%3A//www.begamer.com/privacy.html) for the most accurate reproduction.*
 
 # None
 
