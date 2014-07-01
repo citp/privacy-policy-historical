@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visitorboost.com privacy policy that was archived on 2014-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140212234324id_/http%3A//www.visitorboost.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitorboost.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701144124id_/https%3A//www.visitorboost.com/privacy.php) for the most accurate reproduction.*
 
 # Visitor Boost - Privacy Policy
 
