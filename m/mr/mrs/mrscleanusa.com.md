@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the mrscleanusa.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331035950id_/http%3A//www.mrscleanusa.com/en/cleaning-services/mrs-clean/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrscleanusa.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701083412id_/http%3A//www.mrscleanusa.com/cleaning-services/mrs-clean/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Mrs Clean House Cleaning & Maid Service
+# Privacy Policy | House Cleaning & Maid Service | Mrs Clean
 
-Your privacy is protected with us. We will not sell, rent, release, or otherwise disseminate your personal information without your permission.
+Your privacy is protected with Mrs Clean House Cleaning.
+
+We will not sell, rent, release, or otherwise disseminate your personal information without your permission.
 
 You may visit [Mrs. Clean](http://www.mrscleanusa.com/ "Mrs. Clean housecleaning and maid service") without revealing any personal information about yourself.
 
-[Mrs. Clean](http://www.mrscleanusa.com/en/cleaning-services/mrs-clean/about-us.html "About Mrs. clean") uses statistical tracking software to provide metrics of site visitors and page views. The software may use cookies to track user navigation of the site for summary reporting only.
+[Mrs. Clean](http://www.mrscleanusa.com/cleaning-services/mrs-clean/about-us.html "About Mrs. clean") uses statistical tracking software to provide metrics of site visitors and page views. The software may use cookies to track user navigation of the site for summary reporting only.
 
-[Mrs. Clean's Privacy Policy in XML](http://www.mrscleanusa.com/w3c/p3p.xml)
+## Contact Mrs Clean House Cleaning
 
-## Contact Information
-
-## Phone:
+## Call Mrs Clean:
 
 Redmond: (425) 285-4494 & (425) 881-8411  
 Lynnwood: (425) 787-9252   
@@ -20,12 +20,12 @@ Mill Creek: (425) 357-3432
 Seattle: (888) 253-2607  
 Toll Free: (888) Clean-07
 
-## Fax:
+## Fax Mrs Clean:
 
 Main: (425) 787-9283  
 Administration: (425) 337-7286
 
-## Corporate Mailing Address:
+## Mail the Corporate Mailing Address:
 
 [Mrs. Clean, Inc.](http://www.mrscleanusa.com/)
 
@@ -67,23 +67,23 @@ Toll Free: +1 (888) 253-2607
 ## Contact Mrs. Clean House Cleaning and Maid Service:
 
 Email: [info@mrscleanusa.com](mailto:info@mrscleanusa.com)   
-[+Mrs Clean](https://plus.google.com/103067227984852734313/ "Mrs. Clean") [+Mrs Clean House Cleaning ](https://plus.google.com/106886167332270128195/about "Mrs Clean House Cleaning")
+[+Mrs Clean](https://plus.google.com/+MrsClean1/posts "Mrs. Clean") [+Mrs Clean House Cleaning ](https://plus.google.com/+MrsCleanHouseCleaningRedmond/about "Mrs Clean House Cleaning")
 
-[Mrs. Clean's House Cleaning and Maid Service](http://www.mrscleanusa.com/), [Cleaning Blog](http://mrscleanusa.blogspot.com/), [Cleaning Tips on Facebook](https://www.facebook.com/cleaningtips), [Mrs Clean on Twitter](https://twitter.com/mrscleanusa), [Mrs Clean on Linkedin](http://www.linkedin.com/in/corinaw).
+[Mrs. Clean's House Cleaning and Maid Service](http://www.mrscleanusa.com/), [Cleaning Blog](http://mrscleanusa.blogspot.com/), [Cleaning Tips on Facebook](https://www.facebook.com/cleaningtips), [Mrs Clean on Twitter](https://twitter.com/mrscleanusa), [Mrs Clean on Linkedin](https://www.linkedin.com/in/corinaw).
 
-## Dispute Resolution
+## Resolving Disputes
 
 Disputes will be handled by our customer service representative. Our customer service department will promptly correct any errors.
 
 ## Data Collection
 
-Personal information (name, address, email, phone, home specs) is required if you request an [online house cleaning estimate](http://www.mrscleanusa.com/en/cleaning-services/maid-service/house-cleaning-estimate.html "Free cleaning estimate"). Other than using this information to verify your service area and review your home specs to provide an accurate cleaning estimate, this data is discarded and not used by us further in any way.
+Personal information (name, address, email, phone, home specs) are required if you request an [online house cleaning estimate](http://www.mrscleanusa.com/cleaning-services/maid-service/house-cleaning-estimate.html "Free cleaning estimate"). Other than using this information to verify your service area and review your home specs to provide an accurate cleaning estimate, this data is discarded and not used by us further in any way.
 
 Persons who supply their phone number on-line to request a cleaning quote will only receive telephone or email contact from us regarding clarification for house cleaning or scheduling of services they have placed on-line.
 
 Personal information is required to post information (name, email) in the house cleaning forum.
 
-Mrs. Clean uses statistical tracking software for analysis of site volume. This software may use cookies to track user navigation for summary reporting only. We use cookies to store visitors preferences, record session information, such as automatic forum logon.
+Mrs. Clean uses statistical tracking software for analysis of site volume. This software may use cookies to track user navigation for summary reporting only. We use cookies to store visitors preferences, record session information, such as automatic forum log on.
 
 We collect, (but do not use further) the e-mail addresses of those who post messages to our bulletin board, aggregate information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations, name and address, telephone number, payment information (e.g., credit card number and billing address).
 
@@ -114,9 +114,9 @@ With respect to Ad Servers: To try and bring you offers that are of interest to 
 
 
 
-## Security
+## Data Security
 
-With respect to security: When we transfer and receive certain types of sensitive information such as financial information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site, We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
+We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
 Upon request we provide site visitors with access to all information [including proprietary information] that we maintain about them. Consumers can access this information by e-mail, calling or mailing us at the above addresses.
 
@@ -124,8 +124,4 @@ Consumers can have this information corrected by sending us e-mail at the above 
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, The DMA's Committee on Ethical Business Practices at [mgoldberger@the-dma.org](mailto:mgoldberger@the-dma.org), state or local chapters of the Better Business Bureau, state or local consumer protection office.
 
-[Office Cleaning](http://www.mrscleanusa.com/en/cleaning-services/maid-service/office-cleaning.html) Trusted Office and Commercial Cleaning You focus on your business, we'll handle the office cleaning. Mrs. Clean has been... [ More detail](http://www.mrscleanusa.com/en/cleaning-services/maid-service/office-cleaning.html)
-
-[Deep Cleaning](http://www.mrscleanusa.com/en/cleaning-services/maid-service/deep-cleaning.html) Deep House Cleaning Mrs. Clean specializes in detailed deep cleaning maid services of your home, condo or office. Deep... [ More detail](http://www.mrscleanusa.com/en/cleaning-services/maid-service/deep-cleaning.html)
-
-[Housekeeping Service](http://www.mrscleanusa.com/en/cleaning-services/maid-service/housekeeping-service.html) Mrs. Clean's Housekeeping Services Mrs. Clean is the housekeeping service you can trust. Our cleaning services are customized... [ More detail](http://www.mrscleanusa.com/en/cleaning-services/maid-service/housekeeping-service.html)
+Machine Readable [Privacy Policy in XML](http://www.mrscleanusa.com/w3c/p3p.xml)
