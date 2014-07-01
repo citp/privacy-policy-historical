@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the faadooengineers.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326222516id_/http%3A//www.faadooengineers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faadooengineers.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701184145id_/http%3A//www.faadooengineers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - FaaDoOEngineers.com
 
@@ -42,11 +42,9 @@ However the internet is an ever evolving medium. We may change our privacy polic
 
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. In the event you have any grievance relating to the processing of information provided by you, you may contact our Grievance Officer, at [copyright.infringement@faadooengineers.com](mailto:copyright.infringement@faadooengineers.com) or write at the following address:   
 FaaDoOEngineers.com   
-W-23, Sector-11   
-Noida, UP 201301   
-India   
-Ph: +91-9716005045   
-
+No.1497,  
+Wazir Nagar Kotla Mubarakpur, Delhi, 110003  
+India 
 
 We request you to please provide the following information in your complaint:- 
 
