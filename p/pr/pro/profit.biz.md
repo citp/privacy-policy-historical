@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the profit.biz privacy policy that was archived on 2014-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140223030550id_/http%3A//www.profit.biz/Static/PP.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the profit.biz privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701094304id_/http%3A//www.profit.biz/Static/PP.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Profit.biz
 
