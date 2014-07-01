@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jlabaudio.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331034805id_/http%3A//www.jlabaudio.com/index/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jlabaudio.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701154647id_/http%3A//www.jlabaudio.com/index/privacy) for the most accurate reproduction.*
 
 # JLab Audio - Headphones, Earphones, Earbuds, USB Laptop Speakers, Cases & Accessories
 
@@ -18,6 +18,6 @@ Thank you for taking the time to read our privacy policy. Our staff wishes you a
 
 [ ](http://www.jlabaudio.com/Products/Headphones/Intro/889)
 
-[ ](http://www.jlabaudio.com/Products/Bluetooth/Bouncer/718)
+[ ](http://www.jlabaudio.com/Products/Earbuds-with-Mic/Epic/896)
 
-[ ](http://www.jlabaudio.com/Products/Earbuds-with-Mic/Neon/883)
+[ ](http://www.jlabaudio.com/Products/Bluetooth/Bouncer/718)
