@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the raymond.cc privacy policy that was archived on 2014-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140302193315id_/http%3A//www.raymond.cc/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raymond.cc privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701214855id_/https%3A//www.raymond.cc/blog/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy • Raymond.CC
 
@@ -10,7 +10,7 @@ Newsletter subscription uses Google Feedburner which comes under Google’s own 
 
 “Raymond.cc” is a publicly accessible blog. You should be aware that any information you willingly enter and display in the comment area may be read, collected, and used by any other parties that can access this website. Please use your common sense and discretion when participating in discussions.
 
-If for any reason you are concerned about your email address being stored, please [contact us](http://www.raymond.cc/blog/contact/).
+If for any reason you are concerned about your email address being stored, please [contact us](https://www.raymond.cc/blog/contact/).
 
  _ **Third Party Advertising**_
 
@@ -20,11 +20,11 @@ Google’s use of the DART cookie enables it to serve ads to “Raymond.cc” u
 
  _ **Collection of Information**_
 
-When you visit “Raymond.cc”, third party services we use such as Google Analytics automatically collects certain information during your visit. This information can include the internet protocol (IP) address, type of browser, used operating system, date and time you access our site, the pages you visit and time spent on them, which links or buttons you click on, tracking a user’s movement around the site, and gathering demographic information. This information does not identify you personally and cannot be linked back to you. It is strictly for use by us on how you interact while you are visiting this website and serves only as a basis to analyze and help improve ”Raymond.cc”. This information will not be released, sold, or rented to any entities or individuals outside of “Raymond.cc” or “RAYMONDCC TECH”.
+When you visit “Raymond.cc”, third party services we use such as Google Analytics automatically collects certain information during your visit. This information can include the internet protocol (IP) address, type of browser, used operating system, date and time you access our site, the pages you visit and time spent on them, which links or buttons you click on, tracking a user’s movement around the site, and gathering demographic information. This information does not identify you personally and cannot be linked back to you. It is strictly for use by us on how you interact while you are visiting this website and serves only as a basis to analyze and help improve “Raymond.cc”. This information will not be released, sold, or rented to any entities or individuals outside of “Raymond.cc” or “RAYMONDCC TECH”.
 
 Because we link directly to other websites, they will have their own privacy policies which will likely differ from ours. You are advised to read the relevant information on those sites before disclosing any personal information. “Raymond.cc” or “RAYMONDCC TECH” is not responsible for the content or personal information requests of external websites.
 
-A “cookie” is a small data text file that is placed in your browser and allows ”Raymond.cc” to recognize you each time you visit this site. Cookies themselves do not contain any personal information, and ”Raymond.cc” or “RAYMONDCC TECH” does not use cookies to collect personal information.
+A “cookie” is a small data text file that is placed in your browser and allows “Raymond.cc” to recognize you each time you visit this site. Cookies themselves do not contain any personal information, and “Raymond.cc” or “RAYMONDCC TECH” does not use cookies to collect personal information.
 
  _ **Notification of Privacy Statement Changes**_
 
