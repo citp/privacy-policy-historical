@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rothira.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209032228id_/http%3A//www.rothira.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rothira.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701164125id_/http%3A//www.rothira.com/privacy-policy) for the most accurate reproduction.*
 
 # RothIRA
 
