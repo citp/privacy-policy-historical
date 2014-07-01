@@ -1,35 +1,81 @@
-> *The following text is extracted and transformed from the tesa.com privacy policy that was archived on 2007-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070309200353id_/http%3A//www.tesa.com/meta/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tesa.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701084219id_/http%3A//www.tesa.com/meta/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Privacy - tesa SE
 
-tesa is aware that the protection of personal data and its confidential handling is of great concern to our users. We would therefore like to illustrate below what information we collect and how we handle it. 
+**1\. Name of the body responsible:**  
+tesa SE
 
-## Updating of this privacy policy
+ **2\. Board members:**  
+Thomas Schlegel (Chief Executive Officer), Jan Christoph Teetz (Chief Financial Officer), Dr. Robert Gereke (Executive Vice President, tesa Industry)
 
-Due to constant technical and legal innovations, we must amend or update the existing declaration from time to time. Please check each time before you use our website when the last version of the conditions was posted on the website. The most recent post was in August 2001. 
+Manager in charge of data processing:   
+Dr. Uwe Ellermann (Datenschutzbeauftragter@Beiersdorf.com)
 
-## Information collected
+ **3\. Address of the body responsible:**  
+tesa SE  
+Quickbornstr. 24  
+20253 Hamburg  
+Germany
 
-We gather collective data, i.e. data on the number of visitors to our website and the pages which they visit. The name of the file, the date and time of the call, the volume of data transferred and a message regarding whether the call was successful is saved for each call. This information gives us information on the general interests and preferences of our visitors. 
+ **4\. Purpose of data collection, processing, or use:**   
+The object of the company is the development, production, and sale of chemical and technical products, particularly adhesives and self-adhesive products. Data are collected, processed, and used only for the fulfillment of the abovementioned purposes.
 
-The data is not person-related, but only of a general, statistical nature. We are therefore unable to determine which users have called up what data. In addition, we automatically gather and save information which is transferred by your browser, in particular your IP address and the version of browser software. This data is a foundation stone of the Internet\'s fundamental technology and is used solely for system administration purposes and to ensure that our pages are transmitted correctly. 
+ **5\. Description of the groups of persons concerned and the data or categories relating to such persons:**  
+Customer data, employee data, and data of suppliers insofar as such are necessary for the fulfillment of the purposes mentioned under Item 4 above.
 
-When you send e-mails to us by clicking on [contact](https://web.archive.org/contact) or request information material from us at other locations, we ask for your name, address, e-mail address, profession and age. This data is retained. Please note that it is not compulsory to provide all of this information; you can to a large extent determine for yourself what information you wish to entrust us with. 
+ **6\. Recipients or categories of recipients to whom the data may be disclosed:**  
+Public agencies, in the event that there are provisions of law that take precedence; external contractors, in accordance with Sec. 11 of the BDSG; and external bodies and internal departments, for fulfillment of the purposes mentioned under Item 4 above.   
+**  
+7\. Time limits for the deletion of data:**  
+The legislature has enacted a number of obligations as to storage of data and time limits for such storage. After these time limits expire, the corresponding data are deleted on a routine basis. If data are not affected by these provisions, they will be deleted if the purposes mentioned under Item 4 above cease to apply. 
 
-The compulsory data is required so that we can complete the service which you have requested from us. Naturally, you may also remain anonymous or use a pseudonym. All the data is stored or processed separately and at no time is it brought together. Tesa does not create user profiles. 
+**8\. Data transmission to nations outside of the European Union (“third-party countries”):**  
+No transmission of personal data of German citizens or citizens of other EU countries to third-party countries is planned. When inquiries are directed to us from abroad, we plan to refer them to our foreign representatives for processing/responses on our behalf.
 
-## Length of storage and deletion
+ **9\. Google Analytics**  
+This website uses Google Analytics, a web analysis service provided by Google Inc. ("Google"). Google Analytics uses so-called “cookies”, text files that are saved on your computer and enable analysis of your use of the website.
 
-Personal data is stored for 36 months or at the time the services that you requested are provided. Naturally you have the right to request at any time that your data be wholly or partly deleted. We will carry out such a request without delay. 
+The information about your use of this website generated by the cookie (including your IP address) is transferred to a Google server in the United States and is saved there. Google will use this information in order to analyze your use of the website, compile reports on website activity for the website operators and provide further services related to website usage and internet usage.
 
-## Cookies
+Google will also, where applicable, transfer this information to third parties where this is a legal requirement, or insofar as third parties process this data on Google's behalf. Google will not link your IP address to other data saved by Google under any circumstances. You can prevent the installation of cookies by appropriately setting your browser software; however, we would like to point out that this may result in not being able to use all functions of this website to the full extent.
 
-Cookies are small text files which may be stored on the hard drive of a visitor to a website. The information contained in the cookies facilitates the navigation of the website and enables you to have personal settings on the website. For these reasons, we currently use cookies on our site. They have a time limit. 
+You can at any time and with effect for the future object the collection and use of your IP address with Google Analytics. For more information, see <http://tools.google.com/dlpage/gaoptout> .
 
-Naturally, you can prevent the cookies being saved on your hard drive by changing your browser settings. You can find out how to do this for your browser in the user instructions of your browser manufacturer. 
+Please note that the Google Analytics code "gat._anonymizeIp ();" is used on this website. This means that IP addresses are anonymized by removing the last octet of the visitor's IP address prior to its use and storage. 
 
-## Passing on information to third parties
+Please do not hesitate to contact our data protection representative directly Dr. Uwe Ellermann (Datenschutzbeauftragter@Beiersdorf.com) with any questions you may have regarding the processing of your personal data.
 
-tesa does not pass on the collected data to third parties; specifically, it is not sold, leased out or exchanged. Only when we must use subcontractors or agents to perform the services which you have requested from us, do we supply the necessary data to these parties. In such cases, our partners are required to handle the data confidentially in accordance with statutory provisions and to delete it immediately that it is no longer required. 
+**10\. Utilization of cookies**  
+So-called “cookies” are used on our website. Cookies are text files that contain information, which is used to identify repeat visitors to our website in an anonymous manner for the duration of their visit. Cookies are saved to the hard drive of your computer and do not cause any kind of damage. Cookies enable us to align the content of our website with your requirements to the greatest degree possible.
 
-Therefore, please understand that as we are unable to comprehensively check that this obligation is complied with, we bear no liability for any possible infringements. 
+We currently use Google Analytics cookies to analyze the preferences of our website visitors and make our website more user-friendly. For example, we use cookies to record the following information: number of visitors accessing our website and the sub-pages, the visit duration, the order in which the pages are opened, the search terms that are used to reach our website, the type of Internet browser and also the region in which you are located when accessing the website. During a visit we also record information that is of relevance for the visit, such as files in the press area that are added to the “wish list”, in order to enable multiple files to be bundled together before being downloaded. We do not record any personal information on the visitors to our website. The cookies used on our website only record the anonymised IP address of your computer, they do not contain any personal details, which means the information cannot be used to identify a person.
+
+In addition to Google Analytics cookies e also use Flash cookies and load-time optimization cookies. These so-called first-party cookies contain information on the visit duration and visit frequency. We do not record any personal information on the visitors to our website. The cookies are only used to optimize our website.
+
+Cookies save you from having to enter certain information repeatedly (e.g. details for logging in to the extranet), facilitate the transmission of specific content and help us to identify particularly popular areas of our online platform. They thus enable us to align the content of our website with your specific requirements.
+
+You can deactivate cookies at any time via the settings of your browser or delete the cookies stored on your hard drive. Please use the help function of your browser to find out to change these settings, or use the information provided via the following links:
+
+Google Chrome: [http://www.google.com/support/chrome/bin/answer.py?hl=en&answer=95647](http://www.google.com/support/chrome/bin/answer.py?hl=en&answer=95647)   
+Internet Explorer: <http://support.microsoft.com/gp/cookies/en>   
+Mozilla Firefox: <http://support.mozilla.com/en-US/kb/Cookies>   
+Safari: <http://support.apple.com/kb/PH5042>   
+Opera: <http://www.opera.com/browser/tutorials/security/privacy/>   
+Adobe (plug-in for flash cookies): <http://www.adobe.com/security/flashplayer/articles/lso/>
+
+During your first visit to our website, a popup will appear at the upper edge of the screen asking you to confirm whether you agree to the utilization of cookies. The link provided can be used to agree. If you change your mind later on, simply delete all of the cookies stored by your browser.
+
+The following table lists the third-party cookies used by tesa:
+
+Cookie| Name| Validity| Objective  
+---|---|---|---  
+Google Analytics| _utma  
+_utmb  
+_utmc  
+_utmz| 2 years  
+30 min.  
+End of visit  
+2 years| These cookies are used to collect information on the utilization of our website. We use this information to create reports and improve our website. The cookies collect information in anonymized form, including the number of visitors to our website, the region in which the visitors are located and the specific pages that they use.  
+Pingdom| PRUM_EPISODES| End of visit| This cookie is only used to optimize the performance of the website. This cookie records the amount of time that it takes to load the website.  
+  
+We also use social plugins on our website, such as for Facebook. These must however be activated by the user first of all. If this is done, additional cookies will be stored on your computer by third-party providers. Please also see our notes “Social Plugins.“
