@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the kmfusa.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210025122id_/https%3A//www.kmfusa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kmfusa.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701100841id_/https%3A//www.kmfusa.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-## Kia Motor Finance (KMF) Privacy Notice Highlights
+## Kia Motors Finance (KMF) Privacy Notice Highlights
 
-Privacy and consumer trust is very important to us at Kia Motors Finance. This Privacy Statement ("Statement") applies to the Kia Motors Finance website (the "Site"), which is owned or controlled by Kia Motors Finance (the trade name of Hyundai Capital America, a California corporation), although software, hosting and other functions and content may be provided by third parties. Throughout the Site, the terms "we," "us" and "our" refer to Kia Motors Finance. This Statement describes the types of information that Kia Motors Finance collects from visitors to the Site, what we do with this information, with whom we share this information, and how visitors can update the information they provide on the Site. This Statement also applies to any other web sites or information provided to the Kia Motor Finance by any other means (such as email or offline activities). 
+Privacy and consumer trust is very important to us at Kia Motors Finance. This Privacy Statement ("Statement") applies to the Kia Motors Finance website (the "Site"), which is owned or controlled by Kia Motors Finance (the trade name of Hyundai Capital America, a California corporation), although software, hosting and other functions and content may be provided by third parties. Throughout the Site, the terms "we," "us" and "our" refer to Kia Motors Finance. This Statement describes the types of information that Kia Motors Finance collects from visitors to the Site, what we do with this information, with whom we share this information, and how visitors can update the information they provide on the Site. This Statement also applies to any other web sites or information provided to the Kia Motors Finance by any other means (such as email or offline activities). 
 
 While information is critical to providing quality service, we recognize that one of our most important assets is our customers' trust. Our goal is to protect your information. 
 
@@ -33,7 +33,7 @@ We use your information to inform you of other products or services offered by u
 
 We do not sell, rent, or lease our customer lists to third parties. In order to help provide our services to you, we occasionally provide information to other companies that work on our behalf. 
 
-Kia Motor Finance Full Privacy Policy  ****
+Kia Motors Finance Full Privacy Policy  ****
 
 [ Kia Motors Finance Customer Privacy Notice](https://www.kmfusa.com/Data/Teamsite/HCA/KMF/img/content-block/Privacy_Notice_KMF.pdf)
 
