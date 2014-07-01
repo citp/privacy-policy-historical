@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketingtechblog.com privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215170834id_/http%3A//www.marketingtechblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingtechblog.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701114058id_/http%3A//www.marketingtechblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Marketing Technology Blog
 
