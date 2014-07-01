@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jizzbo.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628172357id_/http%3A//www.jizzbo.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jizzbo.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701225202id_/http%3A//www.jizzbo.com/privacy.php) for the most accurate reproduction.*
 
 # The YouJizz Privacy Page
 
