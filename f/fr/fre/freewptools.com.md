@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freewptools.com privacy policy that was archived on 2014-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140222193029id_/http%3A//www.freewptools.com/p/this-privacy-policy-governs-manner-in.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freewptools.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701204617id_/http%3A//www.freewptools.com/p/this-privacy-policy-governs-manner-in.html) for the most accurate reproduction.*
 
 # Privacy Policy - Free Download Premium Nulled Wordpress Themes : Plugins | FreeWPTools
 
