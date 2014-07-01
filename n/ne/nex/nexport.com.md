@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nexport.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209020507id_/https%3A//secure.odovo.com/home/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nexport.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701062829id_/https%3A//secure.odovo.com/home/privacypolicy) for the most accurate reproduction.*
 
 # 
 
@@ -47,7 +47,7 @@ c) “Content” means text, images, photos, audio, video, and all other forms o
 
 Privacy Officer  
 Owen Media Partners Inc.  
-2085 Hurontario Street, Suite 201  
-Mississauga, L5A4G1  
+1599 Hurontario Street, Suite 301  
+Mississauga, L5A 4G1  
 ON, CANADA  
 privacy@owen-media.com
