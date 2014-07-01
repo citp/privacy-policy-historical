@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the todaysmeet.com privacy policy that was archived on 2014-03-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140329072018id_/https%3A//todaysmeet.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the todaysmeet.com privacy policy that was archived on 2014-07-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140701231345id_/https%3A//todaysmeet.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
   <meta http-equiv="Content-type" content="text/html; charset=utf-8">
@@ -10,6 +10,7 @@
     var _gaq = _gaq || [];
     _gaq.push(['_setAccount', 'UA-28698251-1']);
     _gaq.push(['_setDomainName', 'todaysmeet.com']);
+    _gaq.push(['_setCustomVar', 1, 'User Type', 'Anonymous', 2]);
     _gaq.push(['_trackPageview']);
 
     (function() {
@@ -18,8 +19,11 @@
       var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
     })();
   </script>
+  <!--[if lt IE 9]>
+    <script src="/static/js/html5shiv.min.js"></script>
+  <![endif]-->
   </head>
-<body class="" data-static-url="/static/">
+<body class="" data-static-url="/static/" data-check-auth="false" data-user-type="anonymous">
   <div id="todaysmeet">
     <header>
               <a href="/">
@@ -168,9 +172,23 @@
           © 2008–2014 TodaysMeet LLC</p>
           </footer>
 
-      </div>
+    <div id="site-messages">
+      <ul>
+      </ul>
+      <ul id="load-messages">
+              </ul>
+    </div>
 
+    <div id="prompt-outer">
+      <div class="prompt template">
+        <div class="message-text"></div>
+        <div class="actions"></div>
+      </div>
+    </div>
+
+  </div>
   
       <script src="/static/js/jquery-1.8.2.min.js"></script>
-    
+    <script src="/static/js/global.js"></script>
+  
 </body></html>
