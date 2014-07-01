@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readersdigest.ca privacy policy that was archived on 2014-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140212123921id_/http%3A//www.readersdigest.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readersdigest.ca privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701205944id_/http%3A//www.readersdigest.ca/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Reader's Digest
 
@@ -8,7 +8,7 @@ We do not knowingly use information collected from online guests 17 years of age
 
 Note to parents: If your child has submitted his or her name through one of our web sites, and you wish to communicate with us, please do so via one of the channels mentioned below.
 
-**Personal Information**
+ **Personal Information**
 
 The information that may be gathered through our web sites is submitted to us voluntarily and knowingly by site users.  When you browse our sites, personal information is not collected.
 
@@ -20,13 +20,13 @@ The information that may be gathered through our web sites is submitted to us vo
 
 * We use credit card numbers submitted to us through our web sites for payment purposes only, and not for marketing purposes. We utilize industry standard secure encryption technology to ensure the privacy and security of the credit card numbers of anyone who places online orders with us.
 
-**Receiving E-mail and Postal Correspondence**
+ **Receiving E-mail and Postal Correspondence**
 
 By submitting a form on our web sites you will be entitled to receive e-mail correspondence from us. Both our e-mail and postal correspondence may include subscriber-only special offers, including discounts, free gifts, opportunities to win cash and prizes, as well as opportunities to enter the Reader’s Digest sweepstakes. Our purpose is to provide users with useful information and offers that will interest them. Please note Reader's Digest will not share e-mail addresses we collect through our web sites with any unaffiliated third parties unless we specify at the point of collection. Every e-mail we send out will include an explanation on how to opt out from receiving future e-mail correspondence. You may also opt out of being included in our postal mailing list at any time, by following the instructions below.
 
-**Your Privacy Choices**
+ **Your Privacy Choices**
 
-Receiving e-mail messages from us is optional. If, at any time, you prefer not to receive e-mail marketing information from us, simply follow the unsubscribe options at the bottom of each e-mail. For more information on how to unsubscribe from e-mail marketing, [click here](http://www2.readersdigest.ca/comm_prefs.html).
+Receiving e-mail messages from us is optional. If, at any time, you prefer not to receive e-mail marketing information from us, simply follow the unsubscribe options at the bottom of each e-mail. For more information on how to unsubscribe from e-mail marketing, [click here](https://web.archive.org/prefcentre).
 
 If, at any time, you prefer not to receive offers and/or other correspondence by mail or telephone originated by Reader’s Digest and its third party affiliates, you may choose to opt-out by calling 1-866-659-2887 or writing to us at the address below.
 
@@ -36,21 +36,21 @@ P.O. Box 974, Stn. Main
 Markham, Ontario L3P 0K6.
 
 To view and edit your existing personal information, or for more information on how to view and edit your personal  
-information, [click here](http://www2.readersdigest.ca/comm_prefs.html).
+information, [click here](https://web.archive.org/prefcentre).
 
-For general customer-service questions not related to privacy issues, please [click here](http://www.readersdigest.ca/customer-care) to visit our online Customer Care Centre. For customer-service purposes, we maintain a record of e-mail messages and addresses sent to us, as well as any replies we may have sent in return.
+For general customer-service questions not related to privacy issues, please [click here](http://www.readersdigest.ca/customer-care) to visit our online Customer Care Centre. For customer-service purposes, we maintain a record of e-mail messages and addresses sent to us, as well as any replies we may have sent in return.
 
-**Hyperlinks to Other Web Sites**
+ **Hyperlinks to Other Web Sites**
 
 Our web sites may include links to web sites of other companies unaffiliated with us. Please note that we are unable to review all such sites and take no responsibility for the content of any unaffiliated web site.
 
-**Cookies and Server Logs**
+ **Cookies and Server Logs**
 
 Reader's Digest, Best Health and Our Canada as well as related web-hosting providers and advertisers sometimes utilize "cookie" technology. Cookies are bits of data stored on your local hard drive which help enhance your web-browsing experience.  Not all web browsers accept cookies, and those that do usually provide a preference or setting which allow you to refuse cookies. If your browser does not accept cookies, you may not be able to fully participate in all our web sites' features, including registration and entry into contests, prize draws and sweepstakes.
 
 Server logs capture certain non-personally identifying data, such as the time and date of a web visit, the browser and operating system being used, the IP address or domain name of the user's ISP, and the web URL a user linked from.  This information is used in aggregate form to help us plan system enhancements when necessary and to provide content which is compatible with our visitors' web browsing systems.
 
-**Acceptance of Privacy Policy Terms and Conditions**
+ **Acceptance of Privacy Policy Terms and Conditions**
 
 By using this site, you signify your agreement to the terms and conditions of the Privacy Policy. If you do not agree with  
 this policy, please do not use this site. We reserve the right, at our discretion, to change, modify, add, or remove portions of this policy at anytime. Please check this page periodically for any changes. Your continued use of our web sites following the posting of any changes to these terms shall mean that you have accepted those changes.
