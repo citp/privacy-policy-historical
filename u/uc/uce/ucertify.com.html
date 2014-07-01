@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ucertify.com privacy policy that was archived on 2014-03-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140331074323id_/http%3A//www.ucertify.com/about/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ucertify.com privacy policy that was archived on 2014-07-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140701171233id_/http%3A//www.ucertify.com/about/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <meta charset="utf-8">
@@ -28,7 +28,7 @@
 	    <link href="http://www.ucertify.com/layout/themes/bootstrap3/foundation/css/bootstrap.min.css" rel="stylesheet" type="text/css">
 	    <link href="http://www.ucertify.com/layout/themes/bootstrap3/style.min.css" rel="stylesheet">
 	    <link href="http://www.ucertify.com/layout/themes/bootstrap3/style-content.min.css" rel="stylesheet">
-		<link href="http://www.ucertify.com/layout/themes/bootstrap3/foundation/css/jquery-ui-1.9.1.custom.min.css" rel="stylesheet" type="text/css">
+		<link href="http://www.ucertify.com/layout/themes/bootstrap3/foundation/css/jquery-ui-1.10.3.custom.min.css" rel="stylesheet" type="text/css">
 				<!--[if lt IE 9]>
 			<script src="http://www.ucertify.com/layout/themes/bootstrap3/foundation/js/html5shiv.min.js"></script>
 			<script src="http://www.ucertify.com/layout/themes/bootstrap3/foundation/js/respond.min.js"></script>
@@ -51,9 +51,10 @@
 	</script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 	</head><body topmargin="0" leftmargin="0">
 	<!-- File Name: 'error.tpl' -->
-<center>
-	<div id="errmsg" class="alert-message h"></div>
-</center>			<!-- File Name: 'prepengine-header-top.tpl' -->
+<div id="errmsg" class="alert alert-warning nm pt-md pb-md h">
+	<button type="button" class="close" onclick="javascript:showmsg('','',1);">×</button>
+	<span class="msg"></span>
+</div>			<!-- File Name: 'prepengine-header-top.tpl' -->
 <div id="mainbar">
 	<div id="top">
 		<div class="container np" id="toptitlebar">
@@ -61,34 +62,94 @@
 				<div class="pull-left h-logo">
 					<nobr>
 										<a href="http://www.ucertify.com/" target="_parent"><img class="logo-v" src="http://www.ucertify.com/layout/themes/bootstrap3/images/logo/logo.gif" title="Privacy Policy"></a>
-										</nobr>
+															<span class="label label-success" title="Current branch is "></span>					</nobr>
 				</div>
 					    
 																			<div class="pull-right">
 													<!-- File Name: 'pe-menubar-top-link.tpl' -->
-<ul class="nav nav-pills mt mb">
-  <li class="dropdown">
-    <a class="dropdown-toggle" data-toggle="dropdown" href="javascript:;">Students <b class="caret"></b></a>
-    <ul class="dropdown-menu">
-    	<li><a href="http://www.ucertify.com/features/pass_your_test.html">Pass Your Test</a></li>
-	    <li><a href="http://www.ucertify.com/features/interactive_ebook.html">E-Book</a></li>
-	    <li><a href="http://www.ucertify.com/features/assessment.html">Assessment</a></li>
-    	<li><a href="http://www.ucertify.com/features/world_class_analytics.html">Analytics</a></li>    	
-    </ul>
-  </li>
-  <li><a href="http://www.ucertify.com/features/for_educators.html">Educators</a></li>
-  <li><a href="http://www.ucertify.com/features/for_authors.html">Authors</a></li>
-  <li><a href="http://www.ucertify.com/features/for_publishers_and_partners.html">Publishers</a></li>
-    <li class="dropdown pull-right">
-    <a class="dropdown-toggle" data-toggle="dropdown" href="javascript:;">About <b class="caret"></b></a>
-    <ul class="dropdown-menu">
-      <li><a href="http://www.ucertify.com/about/about.html">About us</a></li>
-	  <li><a href="http://www.ucertify.com/about/contactus.html">Contact us</a></li>
-	  <li><a href="http://www.ucertify.com/about/privacy.html">Privacy</a></li>
-	  <li><a href="http://www.ucertify.com/blog/">Blog</a></li>
-    </ul>
-  </li>
-  </ul>											</div>
+<style>
+#toplinks{margin-bottom:0;font-size:18px;}
+#toplinks a{color:#666;}
+#toplinks.nav > li > a {padding:8px 14px;}
+.arrow-right {position:absolute;right:15px;}
+</style>
+
+<ul id="toplinks" class="nav nav-pills mt mb"> 	  
+	<li>
+		<a href="http://www.ucertify.com/courses/">
+			<i class="icomoon-home-9 mr-sm"></i><span class="visible-lg">Courses</span>
+		</a>
+	</li>
+	<li>
+		<a href="http://www.ucertify.com/products/learn">
+			<i class="icomoon-book mr-sm"></i><span class="visible-lg">Learn</span>
+		</a>
+	</li>
+	<li>
+		<a href="http://www.ucertify.com/products/labs">
+			<i class="icomoon-atom-2 mr-sm"></i><span class="visible-lg">Labs</span>
+		</a>
+	</li>
+	<li>
+		<a href="http://www.ucertify.com/products/prep">
+			<i class="icomoon-checkbox mr-sm"></i><span class="visible-lg">Prep</span>
+		</a>
+	</li>
+	<li>
+		<a href="http://www.ucertify.com/products/test">
+			<i class="icomoon-shield mr-sm"></i><span class="visible-lg">Test</span>
+		</a>
+	</li>
+	<li class="dropdown pull-right">
+	  	<a class="dropdown-toggle" data-toggle="dropdown" href="javascript:;"><i class="icomoon-puzzle-4 mr-sm"></i><span class="visible-lg">Solutions</span> <b class="caret"></b></a>
+		<ul class="dropdown-menu">
+			<li class="left_hover">
+			    <a tabindex="-1" href="#">Students<span class="pull-right arrow-right"><img src="http://www.ucertify.com/layout/themes/bootstrap3/images/arrow.png"></span></a>
+			    <ul class="next_left_hover dropdown-menu h">
+			    	<li><a href="http://www.ucertify.com/features/pass_your_test.html">Pass Your Test</a></li>
+				    <li><a href="http://www.ucertify.com/features/interactive_ebook.html">E-Book</a></li>
+				    <li><a href="http://www.ucertify.com/features/assessment.html">Assessment</a></li>
+			    	<li><a href="http://www.ucertify.com/features/world_class_analytics.html">Analytics</a></li>    	
+				</ul>
+			</li>
+			<li><a href="http://www.ucertify.com/features/for_educators.html">Educators</a></li>
+			<li><a href="http://www.ucertify.com/features/for_authors.html">Authors</a></li>
+			<li><a href="http://www.ucertify.com/features/for_publishers_and_partners.html">Publishers</a></li>
+						<li class="left_hover">
+			    <a tabindex="-1" href="#">About<span class="pull-right arrow-right"><img src="http://www.ucertify.com/layout/themes/bootstrap3/images/arrow.png"></span></a>
+			    <ul class="next_left_hover dropdown-menu h">
+			    	<li><a href="http://www.ucertify.com/about/about.html">About us</a></li>
+					<li><a href="http://www.ucertify.com/about/contactus.html">Contact us</a></li>
+					<li><a href="http://www.ucertify.com/about/privacy.html">Privacy</a></li>
+					<li><a href="http://www.ucertify.com/blog/">Blog</a></li>
+				</ul>
+			</li>
+		</ul>
+	</li>
+
+  </ul>
+<style>
+.next_left_hover
+{
+	position:absolute;
+}
+</style>
+<script>
+	$('.left_hover').on("mouseenter",function()
+	{
+		$(this).find('.next_left_hover').show();
+		var dropdown_y=$(this).offset().top;
+		var dropdownwidth=$(this).width();
+		$(this).find('.next_left_hover').css({
+		    'left': '-'+dropdownwidth + 'px',
+		    'top': dropdown_y-55 + 'px'
+		});
+	});
+	$('.left_hover').on("mouseleave",function()
+	{
+		$('.next_left_hover').hide();
+	});
+</script>											</div>
 												</div>
 		</div>
 		<header class="navbar navbar-default navbar-fixed-top fixed-top nmb" role="banner" id="titlebar" data-spy="affix" data-offset-top="80">
@@ -158,11 +219,6 @@
 									</ul>
 			</li>
 			<li class="nav_hover pt-sm pb-sm">
-																	<a href="http://www.ucertify.com/vendors/GIAC.html" class="nh pl-md pr-md">GIAC</a>
-				<ul class="nav_shop-subhead list-unstyled h pl-xl pt nm" id="shop_giac">
-									</ul>
-			</li>
-			<li class="nav_hover pt-sm pb-sm">
 																	<a href="http://www.ucertify.com/vendors/ISACA.html" class="nh pl-md pr-md">ISACA</a>
 				<ul class="nav_shop-subhead list-unstyled h pl-xl pt nm" id="shop_isaca">
 									</ul>
@@ -173,9 +229,9 @@
 									</ul>
 			</li>
 			<li class="nav_hover pt-sm pb-sm">
-																	<a href="http://www.ucertify.com/vendors/IIBA.html" class="nh pl-md pr-md">IIBA</a>
+																	<a href="http://www.ucertify.com/vendors/IIBA.html" class="nh pl-md pr-md">IIBA<sup>©</sup></a>
 				<ul class="nav_shop-subhead list-unstyled h pl-xl pt nm" id="shop_iiba">
-									</ul>
+									</ul>	
 			</li>
 			<li class="nav_hover pt-sm pb-sm">
 																	<a href="http://www.ucertify.com/vendors/CWNP.html" class="nh pl-md pr-md">CWNP</a>
@@ -220,7 +276,7 @@ $(document).ready(function(){
 	{
 		$('#container').addClass('max-width');
 		$('.container').css("width","1500px");
-		$('.Exam-menu').addClass('open');
+		//$('.Exam-menu').addClass('open');
 	}
 });
 function load_menu_data(source, destination)
@@ -257,7 +313,7 @@ $(window).resize(function(){
 	{
 		$('#container').addClass('max-width');
 		$('.container').css("width","1500px");
-		$('.Exam-menu').addClass('open');
+		
 	}
 	else
 	{
@@ -289,8 +345,9 @@ $(window).resize(function(){
 			</li>
 				</ul>
 			<ul class="nav navbar-nav navbar-right nm">
+		<input type="hidden" id="class_key_input_hidden">
 			
-	  		<!-- File Name: 'pe-menubar-cart_menu.tpl' -->
+		  			<!-- File Name: 'pe-menubar-cart_menu.tpl' -->
 <li class="dropdown">
 	<a href="#" class="dropdown-toggle cart-menu" data-toggle="dropdown"><span class="icomoon-cart-2 s4 m"></span><span class="text-large" id="total_cart_item">0</span> <b class="caret"></b></a>
 	<ul class="dropdown-menu nm search-bar-menu span3" id="cart-container">
@@ -300,16 +357,16 @@ $(window).resize(function(){
 		  </div>
 	  </li>
 	</ul>
-</li>	  	  		<li class="dropdown hidden-sm">
-		    <a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="text-small">TestPrep</span><span class="text-large">Advisor</span> <b class="caret"></b></a>
-		    <!-- File Name: 'pe-menubar-courses.tpl' -->
+</li>		  		  			<li class="dropdown hidden-sm">
+			    <a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="text-small">TestPrep</span><span class="text-large">Advisor</span> <b class="caret"></b></a>
+			    <!-- File Name: 'pe-menubar-courses.tpl' -->
 <ul class="dropdown-menu nm">
 	<li><a href="http://www.ucertify.com/courses/" id="course">Course Advisor</a></li>
 	<li><a href="http://www.ucertify.com/courses/updated.html" id="course">Updated Courses</a></li>
 	<li><a href="http://www.ucertify.com/courses/new.html">New Courses </a></li>
 	<li><a href="http://www.ucertify.com/features/">Features</a></li>
-</ul>		</li>
-	  	  					<li class="show_login_modal" id="show_login_modal" accesskey="L"><a href="javascript:;"><span class="text-small">Hello Guest</span><span class="text-large">Login or Signup</span></a>				
+</ul>			</li>
+		  									<li class="show_login_modal" id="show_login_modal" accesskey="L"><a href="javascript:;"><span class="text-small">Hello Guest</span><span class="text-large">Login or Signup</span></a>				
 					<!-- File Name: 'get-modalbox-ajax.tpl' -->
 <script>
 $(document).ready(function(){
