@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the myprepaidcenter.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213063701id_/https%3A//www.myprepaidcenter.com/site/login/standard/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myprepaidcenter.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701162421id_/https%3A//www.myprepaidcenter.com/site/login/standard/privacy) for the most accurate reproduction.*
 
 # Privacy | Login
 
-**InteliSpend Prepaid Solutions TM**
-
 **Privacy Statement**
 
-Protecting your privacy is important to us. The following statement is intended to help you understand how InteliSpend Prepaid Solutions, LLC and InteliSpend Prepaid Solutions, ULC ("InteliSpend", "we", "us"), collects, uses, and safeguards confidential information as well as any personally identifiable information ("PII") you provide to us on our websites and web-based applications ("Our Websites") and the ways that you can access and correct your PII.
+Protecting your privacy is important to us. The following statement is intended to help you understand how InteliSpend Prepaid Solutions, a Blackhawk Network Business ("InteliSpend", "we", "us"), collects, uses, and safeguards confidential information as well as any personally identifiable information ("PII") you provide to us on our websites and web-based applications ("Our Websites") and the ways that you can access and correct your PII.
 
 Please note that Our Privacy Statement does not address the privacy or information practices of any third parties. InteliSpend cannot, and does not, assume responsibility for the policies, practices and actions of any third parties. Third party vendors under contract with InteliSpend to provide certain support services are required to safeguard PII.
 
@@ -87,7 +85,11 @@ Although we intend to only send you notice of carefully designed opportunities, 
 
 When you browse Our Websites and have not signed in for any online service from InteliSpend, PII, such as your name, address, phone number, and e-mail address, is not collected. However, we track how Our Websites are used by anonymous visitors as well as registered customers and cardholders. InteliSpend uses WebTrends On-Demand service to collect and analyze our web traffic data.Click here to read the WebTrends Privacy Policy.
 
-Cookies – A cookie is a piece of information stored on your computer's hard drive by your web browser, which will allow Our Websites to recognize your computer's browser as a previous visitor and to access NII relating to your last visit. In addition, Our Websites may also set a "session cookie" which helps us administer Our Websites. The session cookie expires when you close your browser and does not retain any information about you after it expires. Most browsers accept cookies automatically, but if you do not want information collected through the use of cookies, you can usually change your browser settings to prevent automatic acceptance. If you choose not to accept cookies, you may still use most of the features of Our Websites, however you may not be able to use certain services (e.g., those applications that require you to log-in to access).
+Cookies - A cookie is a piece of information stored on your computer's hard drive by your web browser, which will allow Our Websites to recognize your computer's browser as a previous visitor and to access NII relating to your last visit. In addition, Our Websites may also set a "session cookie" which helps us administer Our Websites. The session cookie expires when you close your browser and does not retain any information about you after it expires. Most browsers accept cookies automatically, but if you do not want information collected through the use of cookies, you can usually change your browser settings to prevent automatic acceptance. If you choose not to accept cookies, you may still use most of the features of Our Websites, however you may not be able to use certain services (e.g., those applications that require you to log-in to access).
+
+**"Do Not Track" Preferences**
+
+Many browsers provide you an option to request that a web application disable either its tracking and/or cross-site user tracking of an individual user. We do not track your online activities across different Sites, and we only track your activity within a Site to the extent you log into your account, in order to enhance our services. We do not use information we obtain regarding your activity on our Sites to target advertisements to you or to provide information to third parties. Our third-party service providers do not obtain PII from your use of our Sites. Therefore, our practices remain the same whether or not you enable the "Do Not Track" feature.
 
 **Security**
 
@@ -141,4 +143,200 @@ Your concern will be investigated and you will be notified within 30 days of the
 
 Please note, this Privacy Statement applies solely to our online information gathering and disclosure practices in connection with Our Websites, and does not apply to any offline operations. 
 
-This Privacy Statement, as amended from time to time, has been adopted by InteliSpend as of May 17, 2010.
+This Privacy Statement, as amended from time to time, has been adopted by InteliSpend as of January 1, 2014.
+
+© 2014 Blackhawk Network Inc.
+
+  
+
+
+* * *
+
+For Visa and Mastercard Cardholders in the U.S.
+
+Rev. September 23, 2013
+
+  
+|  | 
+
+Financial companies choose how they share your personal information. Federal law gives consumers the right to limit some but not all sharing. Federal law also requires us to tell you how we collect, share, and protect your personal information. Please read this notice carefully to understand what we do.  
+  
+---|---  
+  
+| 
+
+The types of personal information we collect and share depend on the product or service you have with us. This information can include:
+
+  * Social Security number and account balances,
+  * Payment history and account transactions and
+  * Transaction history
+
+
+
+When you are _no longer_ our customer, we continue to share your information as described in this notice.  
+  
+---|---  
+  
+| 
+
+All financial companies need to share customers' personal information to run their everyday business. In the section below, we list the reasons financial companies can share their customers' personal information; the reasons MetaBank chooses to share; and whether you can limit this sharing.  
+  
+---|---  
+  
+|  |   
+---|---|---  
+  
+For our everyday business purposes - such as to process your transactions, maintain your account(s), respond to court orders and legal investigations, or report to credit bureaus
+
+| 
+
+Yes
+
+| 
+
+No  
+  
+For our marketing purposes - to offer our products and services to you
+
+| 
+
+Yes
+
+| 
+
+No  
+  
+For joint marketing with other financial companies
+
+| 
+
+Yes
+
+| 
+
+No  
+  
+For our affiliates' everyday business purposes- Information about your transactions and experiences
+
+| 
+
+No
+
+| 
+
+We do not share  
+  
+For our affiliates' everyday business purposes- Information about your creditworthiness
+
+| 
+
+No
+
+| 
+
+We do not share  
+  
+For affiliates to market to you
+
+| 
+
+No
+
+| 
+
+We do not share  
+  
+For nonaffiliates to market to you
+
+| 
+
+No
+
+| 
+
+We do not share  
+  
+  
+  
+---  
+  
+Who is providing this notice?
+
+| 
+
+This privacy policy is provided by MetaBank and applies to MetaBank card products, and related products and services.  
+  
+  
+  
+---  
+  
+How does MetaBank protect my personal information?
+
+| 
+
+To protect your personal information from unauthorized access and use, we use security measures that comply with federal law. These measures include computer safeguards and secured files and buildings.  
+  
+How does MetaBank collect my personal information?
+
+| 
+
+We collect your personal information, for example when you
+
+  * Register your card or pay a bill
+  * Make a purchase or other transaction
+  * Provide us your name or other information
+
+  
+  
+Why can't I limit all sharing?
+
+| 
+
+Federal law gives you the right to limit only
+
+  * Sharing for affiliates' everyday business purposes - information about your creditworthiness
+  * Affiliates from using your information to market to you
+  * Sharing for nonaffiliates to market to you
+
+
+
+State law and individual companies may give you additional rights to limit sharing. See below for more on your rights under state law.  
+  
+  
+  
+---  
+  
+Affiliates
+
+| 
+
+Companies related by common ownership or control. They can be financial and nonfinancial companies.
+
+  * _MetaBank has no affiliates with which it shares your personal information._
+
+  
+  
+Nonaffiliates
+
+| 
+
+Companies not related by common ownership or control. They can be financial and nonfinancial companies.
+
+  * _MetaBank does not share your personal information with nonaffiliates so they can market to you._
+
+  
+  
+Joint Marketing
+
+| 
+
+A formal agreement between nonaffiliated financial companies that together market financial products or services to you.
+
+  * _We may partner with nonaffiliated financial companies to jointly market financial products or services to you._
+
+  
+  
+  
+---  
+  
+If you are a resident of California or Vermont, we will not share with nonaffiliates except for our own marketing purposes, our everyday business purposes, or with your consent. Nevada residents: We are providing this notice pursuant to Nevada law.
