@@ -1,12 +1,15 @@
-<!--The following is the downloaded HTML source of the dineout.co.in privacy policy that was archived on 2014-02-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140209180715id_/http%3A//www.dineout.co.in/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dineout.co.in privacy policy that was archived on 2014-07-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140701121210id_/http%3A//www.dineout.co.in/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# dineout_india: http://ogp.me/ns/fb/dineout_india#">
  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <!--<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />-->
 <title>Dineout</title>
 <meta name="description" content="">
-<meta name="google-site-verification" content="4KvcP5-5WyBt-BjlSBNBzN00EibO6kFLh8PeHYuAXQQ">
+
+<meta name="google-site-verification" content="x0LlLKqeZqocv5Fcjcqxb8KtpDYb6y3ThSTtFETPUAU">
+
+
 
 <meta name="keywords" content="">
 
@@ -41,11 +44,11 @@
 
 <link rel="stylesheet" type="text/css" media="screen" href="http://www.dineout.co.in/css/datePicker.css">
 <link rel="icon" href="http://www.dineout.co.in/images//favicon.ico" type="image/x-icon">
-<link rel="stylesheet" type="text/css" media="screen" href="http://www.dineout.co.in/css/style.css?v=138666666">
+<link rel="stylesheet" type="text/css" media="screen" href="http://www.dineout.co.in/css/style.css?v=1381236134">
 
 <!--Css loading for ipad and iphone Starts-->
 
-<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">
+<script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">
 if((navigator.userAgent.match(/iPad/i))) {
 document.write("<link type=\"text\/css\" rel=\"stylesheet\" media=\"all\" href=\"http://www.dineout.co.in/css/ipad.css\" charset=\"utf-8\" \/>");
 document.write("<meta name=\"viewport\" content=width=1024px, minimum-scale=1.0, maximum-scale=1.0 \/>");
@@ -56,18 +59,18 @@ document.write("<meta name=\"viewport\" content=width=768px, minimum-scale=1.0, 
 }
 else
 {
-document.write("<link type=\"text\/css\" rel=\"stylesheet\" href=\"http://www.dineout.co.in/css/style.css?v=138666666\" \/>");
+document.write("<link type=\"text\/css\" rel=\"stylesheet\" href=\"http://www.dineout.co.in/css/style.css?v=1381236134\" \/>");
 }
 
 
 
-</script><link type="text/css" rel="stylesheet" href="http://www.dineout.co.in/css/style.css?v=138666666">
+</script><link type="text/css" rel="stylesheet" href="http://www.dineout.co.in/css/style.css?v=1381236134">
 
 <!--Css loading for ipad and iphone Ends-->
 
 <!-- My sticky Navigation and top scroll code please dont delete this -->
 	<script type="text/javascript" src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.7.1.min.js"></script>
-  <!-- <script src="http://www.dineout.co.in/js/prototype.js" type="text/javascript"></script>   -->
+  <!-- <script src="http://www.dineout.co.in/js/prototype.js" type="text/javascript"></script>  -->
  <!-- My sticky Navigation and top scroll code please dont delete this -->
  
  
@@ -75,7 +78,10 @@ document.write("<link type=\"text\/css\" rel=\"stylesheet\" href=\"http://www.di
 <script src="http://www.dineout.co.in/js/evaluator.js" type="text/javascript"></script>
  
 <script src="http://www.dineout.co.in/js/auto_fill.js"></script>
+
 <script src="http://www.dineout.co.in/js/jquery.min.js"></script>
+
+
 <script src="http://www.dineout.co.in/js/jquery.cookie.js"></script>
 <script>jQuery.noConflict();</script>
 <script src="http://www.dineout.co.in/js/menu.js"></script>
@@ -190,121 +196,6 @@ jQuery(document).ready(function(){
    <!--Code for login  in old site ends --> 
 
 
-
-<script>
-function registerValidate()
-{
- var err1='<ul>';
- var err2='</ul>';
- var err = ""
- var doc=document.frmregister;
-
-
- if(isEmpty(doc.fname.value))
- {
-  err = err + "<li>Please enter your firstname</li>";
- }
- 
- if(isEmpty(doc.lname.value))
- {
-  err = err + "<li>Please enter your lastname</li>";
- }
- 
- if(isEmpty(doc.phone.value))
- {
-  err = err + "<li>Please enter your mobile</li>";
- }
-  if(isNaN(doc.phone.value))
- {
-  err = err + "<li>Please enter numeric value</li>";
- }
- 
- if(isEmpty(doc.email.value))
- {
-  err = err + "<li>Please enter your email</li>";
- }
-
- if(!isEmpty(doc.email.value))
- {
-  
-  if(/^\w+([\.-]?\w+)*@\w+([\.-]?\w+)*(\.\w{2,3})+$/.test(doc.email.value)){
-  //return true;
-  }
-  else
-  { 
-   err = err + "<li>Please enter a valid email address</li>";
-  }
- }
- 
- if(isEmpty(doc.password.value))
- {
- err = err + "<li>Please enter your password</li>";
- }
- 
- if(isEmpty(doc.cpassword.value))
- {
-  err = err + "<li>Please enter your confirmpassword</li>";
- }
- 
-  if(doc.password.value!=doc.cpassword.value)
- {
-  err = err + "<li>Passwords entered do not match</li>";
- }
- 
-
-	if(err!="")
-	{
-	  err = err1 + err + err2;
-	  //alert(err);
-	  document.getElementById('error_box').innerHTML = err;
-	  return false;
-	 }
-	else
-	{
-	 
-	}
-}
-	  
-	  
-function checkEmail()
- { 
-		
-		email = document.frmregister.email.value
-
-		// alert('sss');
-
-		var parametersList = "email="+email;
-		var requestUrl     = "http://www.dineout.co.in/email_validation.php";
-		//alert(parametersList);
-		new Ajax.Request(requestUrl,
-			{
-				method:'get',
-				asynchronous: true,
-				parameters: parametersList,
-				onComplete: function(transport){
-				var response = transport.responseText;			
-				//alert("Success! \n\n" + response);
-				var data = transport.responseText.evalJSON();
-			
-					if(data=='1')
-					{
-					 alert('Email already exit');
-					 document.frmregister.email.value='';
-					 document.frmregister.email.focus();
-					}
-					
-				
-				},	
-				onFailure: function(){ alert('Something went wrong...') }
-			});
-		
-
- }
- 
- 
-
-</script>
-
 <!--New Site Code Starts-->
 
 <!-- Slider -->
@@ -415,6 +306,22 @@ var _gaq = _gaq || [];
   
   </script>
 
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "6036484" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=6036484&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+
+
 
 
 
@@ -441,120 +348,84 @@ var _gaq = _gaq || [];
 
 <div class="header">
 
-<div class="header_left">
-	<a href="http://www.dineout.co.in/"><img src="http://www.dineout.co.in/images/logo.png" alt="Find Best Restaurants in Delhi" title="dineout"></a>
-</div>
-
-
-<div class="city" style="margin:15px 0 0 6px;">
- 	<div class="city_name " style="padding-left:5px;" onclick="city_sel(0);">
-        <img class="qutub" src="http://www.dineout.co.in/images/qutub-minar-new-delhi.png">
-    	<div class="city_name_text"><a href="http://www.dineout.co.in/delhi" style="border:none; padding:0; color:#ffffff;">Delhi</a></div>
-	</div> 
+	<div class="header_left" style="width:auto;">
+		<div class="dine_logo"><a href="http://www.dineout.co.in/"><img src="http://www.dineout.co.in/images/logo.png" alt="Find Best Restaurants in Delhi" title="dineout"></a></div>
+        <div class="logo_text">is now a part of</div>
+        <div class="dine_logo"><a href="http://timescity.com/" target="_blank"><img src="http://www.dineout.co.in/images/logo_tc.jpg" alt="Find Best Restaurants in Delhi" title="Times City"></a></div>
+	</div>
     
-    <div class="city_name " style="padding-left:5px;" onclick="city_sel(1);">
-        <img class="gateway" src="http://www.dineout.co.in/images/gateway.png">
-   		<div class="city_name_text"><a href="http://www.dineout.co.in/mumbai" style="border:none; padding:0; color:#ffffff;">Mumbai</a></div>
-	</div> 
-    
-    <div class="city_name city_active" onclick="city_sel(2);" style="display:none;">
-        <img class="gateway" src="http://www.dineout.co.in/images/gateway.png">
-   		<div class="city_name_text"><a href="http://www.dineout.co.in/bangalore" style="border:none; padding:0; color:#ffffff;">Bangalore</a></div>
-	</div> 
  
-</div> 	
 
-
-<!--Showing the Deal logo if not bajaj user-->
-<div class="city" style="margin:15px 0 0 6px;">
-
-	<!--<a href="http://www.dineout.co.in/dineout-deals/new-year"><img src="http://www.dineout.co.in/images/new_yr_img.gif" alt="dineout-deals" /></a>-->
-
-</div>
-
-
-<div class="header_right">
-    <div class="customer_panel">
-		<script>
-        function open_fbwindow(){
-        
-        var  url='http://www.dineout.co.in/api/fb/login';
-        window.open (url, "text","location=1,status=1,scrollbars=1, width=500,height=300,top=100,left=400");
-        
-        }
-                                                //Added By Karan 'sHaCo' Tuteja
-        //Set session for city												
-        function city_sel(city_name)
-        {
-            //var city_name=jQuery('#city_select').val();
-            //alert(city_name);
-            if(city_name==1)
-                {
-                    //alert(city_name);
-                    //jQuery("#city").val(1);
-                    jQuery.cookie('city','1', { expires: 180 , path: '/' });
-                    jQuery.cookie('city','1', { expires: 180 , path: '/' });
-                    jQuery.cookie('city','1', { expires: 180 , path: '/' });
-                    window.location.href="http://www.dineout.co.in/mumbai";
-                }
-            //if(city_name=='Delhi')
-            else if(city_name==0)
-                {
-                    //alert(city_name);
-                    //jQuery("#city").val(0);
-                    jQuery.cookie('city', '0', { expires: 180, path: '/' });
-                    jQuery.cookie('city', '0', { expires: 180, path: '/' });
-                    jQuery.cookie('city', '0', { expires: 180, path: '/' });
-                    window.location.href="http://www.dineout.co.in/delhi";
-                }
-                else
-                {
-                    jQuery.cookie('city', '2', { expires: 180, path: '/' });
-                    jQuery.cookie('city', '2', { expires: 180, path: '/' });
-                    jQuery.cookie('city', '2', { expires: 180, path: '/' });
-                    window.location.href="http://www.dineout.co.in/bangalore";
-                }
-                
-                //jQuery("#city_select").submit();
-                
-        }
+	<div class="header_right">
+    	<div class="customer_panel">
+			<script>
+            function open_fbwindow(){
+            
+            var  url='http://www.dineout.co.in/api/fb/login';
+            window.open (url, "text","location=1,status=1,scrollbars=1, width=500,height=300,top=100,left=400");
+            
+            }
+                                                    //Added By Karan 'sHaCo' Tuteja
+            //Set session for city												
+            function city_sel(city_name)
+            {
+                //var city_name=jQuery('#city_select').val();
+                //alert(city_name);
+                if(city_name==1)
+                    {
+                        //alert(city_name);
+                        //jQuery("#city").val(1);
+                        jQuery.cookie('city','1', { expires: 180 , path: '/' });
+                        jQuery.cookie('city','1', { expires: 180 , path: '/' });
+                        jQuery.cookie('city','1', { expires: 180 , path: '/' });
+                        window.location.href="http://www.dineout.co.in/mumbai";
+                    }
+                //if(city_name=='Delhi')
+                else if(city_name==0)
+                    {
+                        //alert(city_name);
+                        //jQuery("#city").val(0);
+                        jQuery.cookie('city', '0', { expires: 180, path: '/' });
+                        jQuery.cookie('city', '0', { expires: 180, path: '/' });
+                        jQuery.cookie('city', '0', { expires: 180, path: '/' });
+                        window.location.href="http://www.dineout.co.in/delhi";
+                    }
+                    else
+                    {
+                        jQuery.cookie('city', '2', { expires: 180, path: '/' });
+                        jQuery.cookie('city', '2', { expires: 180, path: '/' });
+                        jQuery.cookie('city', '2', { expires: 180, path: '/' });
+                        window.location.href="http://www.dineout.co.in/bangalore";
+                    }
+                    
+                    //jQuery("#city_select").submit();
+                    
+            }
+            
+            
+            </script>
+    	</div>
+    	
+    	        
         
         
-        </script>
-    </div>
-
-	<div class="header_nav">  
-         <!--<a href="http://www.dineout.co.in/christmas/newyr_events.php"><img src="http://www.dineout.co.in/images/button_vday.png" align="absmiddle" width="150" height="35"/></a>-->
-        <!--<a href="http://www.dineout.co.in/mum/coming_soon.php">Mumbai</a>-->
+        <div class="head_btn">
+        	<div class="city_btn">
+        	<div class="name_city">Delhi</div>                
+                          	
+            	
+                <div class="city_drop_img"><img src="http://www.dineout.co.in/images/down_drop.png" width="10" height="7"></div>
+                <div class="dropdown_list">
+                    <div class="drop_arrow"><img src="http://www.dineout.co.in/images/drop_arrow.png" width="20" height="10"></div>
+                    <ul>
+                        <li onclick=" window.location.href='http://www.dineout.co.in/delhi';" style="border-bottom:1px solid #CCC;"><a href="http://www.dineout.co.in/delhi">Delhi</a></li>
+                        <li onclick=" window.location.href='http://www.dineout.co.in/mumbai';"><a href="http://www.dineout.co.in/mumbai">Mumbai</a></li>
+                    </ul>
+                </div>
+        	</div>
+        </div>
         
-            <!--<div class="drop" onClick="jQuery('#popup_main').toggle()" style="display:block;">
-        <div class="dropdown"><!--<img class="qutub" src="http://www.dineout.co.in/images/gateway.png"/> Bangalore</div>
-        </div>-->
-
-        <!--<div id="popup_main" class="popup_main">
-          <div class="up_arrow"></div>
-             <ul class="popup_window">
-               <li class="popup_radio">
-               <span class="qutub_1">
-               <img class="qutub" src="http://www.dineout.co.in/images/qutub-minar-new-delhi.png"/>
-               </span>
-               <a href="http://www.dineout.co.in/delhi">Delhi</a></li>
-               <li class="line"></li>
-               <li class="popup_radio">
-               <span class="gateway_1">
-               <img class="gateway" src="http://www.dineout.co.in/images/gateway.png"/></span>
-               <a href="http://www.dineout.co.in/mumbai">Mumbai</a></li>
-            </ul>
-         </div> -->
- 
-  
-
-   <a href="http://www.dineout.co.in/howitworks/howitworks.php">How it Works</a>  
-   <a href="http://www.dineout.co.in/events">Upcoming Events</a> 
-   <a href="http://www.dineout.co.in/hot-offers">Hot Offers</a>
-   
-   
-   
+        
 
  <script>
 
@@ -1012,6 +883,44 @@ if(email!='')
 		  var parametersList = "email="+email;
 		  var requestUrl     = "http://www.dineout.co.in/email_validation.php";
 		  //alert(parametersList);
+
+ 		 jQuery.ajax({
+
+				url:requestUrl,
+				data: parametersList,
+				type:"GET",
+				//type: "json",
+				success:function(data)
+				{
+
+					if(data == "1")
+					  {
+						  jQuery('#error_msg').fadeIn(3000);
+                        jQuery('#error_msg').text('email already exist'); 
+                        jQuery('#email').focus();
+                         jQuery('#error_msg').fadeOut(4000);
+					   
+					   //document.register.email.value='';
+					  // document.register.email.focus();
+					  }
+				},	
+
+				failure:function(){
+
+
+					 jQuery('#error_msg').fadeIn(3000);
+	                  jQuery('#error_msg').text('something went wrong...'); 
+	                  jQuery('#email').focus();
+	                  jQuery('#error_msg').fadeOut(4000);
+
+
+	                  },
+
+			  });
+		  
+
+
+/*
 		  new Ajax.Request(requestUrl,
 			  {
 				  method:'get',
@@ -1045,7 +954,10 @@ if(email!='')
 				  }
 			  });
 		  
-  
+  */
+
+
+
    }
    
  
@@ -1228,7 +1140,8 @@ var sUrl='http://www.dineout.co.in/forgot_password.php';
 
 }
 
- </script><style>
+ </script>
+<style>
 
 @font-face	
 	  {
@@ -1324,7 +1237,8 @@ window.open (url, "text","location=1,status=1,scrollbars=1, width=500,height=300
 <br>
 <div id="log_form_in">
 <div class="form_style">
-<input type="email" name="email" id="email_register" placeholder="Email" class="email" onblur="return checkEmail()" required="required">
+ <!--  <input type="email"  name="email" id="email_register" placeholder="Email"   class="email" required="required"/>  -->
+<input type="email" name="email" id="email_register" placeholder="Email" onblur="return checkEmail();" class="email" required="required">
 </div>
 </div>
 <br>
@@ -1400,20 +1314,23 @@ window.open (url, "text","location=1,status=1,scrollbars=1, width=500,height=300
 
 		<div id="fade" class="black_overlay"></div>
           
-   
-       <a href="javascript:void(0);" onclick="open_login();" style="border:none;">Sign In</a>
-
-</div>
-
-<!--Showing the bajaj logo if the user comes from domain bajaj_finserv-->
-
-<!--<div class="header_nav">
-   <a href="#">How it Works</a>  <a href="#">Change or Cancel a Booking</a>   <a href="#">Add Review</a>   <a href="#">My Accoount</a>  <span class="name">Sahil</span> 
-
-
-</div>-->
+	
+	
+        <div class="head_btn">
+        	<div class="sign_btn" onclick="open_login();">
+            	<div class="sign_name">Sign In</div>
+            </div>
+		</div>
+	
 </div>
 		
+<div class="header_center">
+    	<div class="call_head">
+        	<div class="call_head_img"><img src="http://www.dineout.co.in/images/new_images/head_call.png" alt="Call Us @" title="Call Us @"></div>
+            <div class="call_head_nmbr">+91-9212340202</div>
+        </div>    
+    </div>
+
 
 </div>
 
@@ -1502,7 +1419,7 @@ document.getElementById(hd_field).value = '2';
        <div class="main_control_wrap">
     <div class="list1">
                 <h2>dineout</h2>
-               <span onclick="window.location='http://www.dineout.co.in/party-packages'" ;="" style="cursor:pointer">Group Booking</span>
+               <span onclick="window.location='http://www.dineout.co.in/party-bookings'" ;="" style="cursor:pointer">Group Booking</span>
                
                  <span onclick="window.location='http://www.dineout.co.in/events'" ;="" style="cursor:pointer">Upcoming Events</span>
                 <!-- <span onclick="window.location='http://www.dineout.co.in/food-miles'"; style="cursor:pointer">Spend Food Miles</span>-->
@@ -1589,7 +1506,7 @@ We take security seriously and we take precautions to keep your personal informa
 			<div class="banner-col">
        	    	
                 <!--Long Banner Starts-->
-               <a href="http://www.dineout.co.in/dineout-deals"><img src="http://www.dineout.co.in/images/side_banner.jpg" alt="dineout-deals"></a>
+               <a href="http://www.dineout.co.in/dineout-deals" target="_blank"><img src="http://www.dineout.co.in/images/side_banner.jpg" alt="dineout-tie"></a>
                <!-- <img src="http://www.dineout.co.in/banner_image/" width="185" height="599" alt="" />-->
             	<!--Long Banner Ends-->
                 
@@ -1665,63 +1582,90 @@ We take security seriously and we take precautions to keep your personal informa
 	
 	 
      <div class="sub_footer" id="sub_footer">
-     <ul class="footer-col footer-col-area left">
-     <li class="footer-row footer-col-header bold uppercase">Areas</li>
-          <li class="footer-row "><span class="link"><a href="http://www.dineout.co.in/bangalore/central-bangalore/15">Central Bangalore</a></span></li>
-          <li class="footer-row "><span class="link"><a href="http://www.dineout.co.in/bangalore/south-bangalore/16">South Bangalore</a></span></li>
-          <li class="footer-row "><span class="link"><a href="http://www.dineout.co.in/bangalore/east-bangalore/17">East Bangalore</a></span></li>
-          <li class="footer-row "><span class="link"><a href="http://www.dineout.co.in/bangalore/west-bangalore/19">West Bangalore</a></span></li>
-         <!-- <li class="footer-row"><span class="link"><a href="http://www.dineout.co.in/delhi/central-delhi/5">Central Delhi</a></span></li>
-     <li class="footer-row"><span class="link"><a href="http://www.dineout.co.in/delhi/west-delhi/4">West Delhi</a></span></li>
-      <li class="footer-row"><span class="link"><a href="http://www.dineout.co.in/delhi/gurgaon/7">Gurgaon</a></span></li>
-     <li class="footer-row"><span class="link"><a href="http://www.dineout.co.in/delhi/noida/8">Noida</a></span></li>
-     <li class="footer-row"><span class="link"><a href="http://www.dineout.co.in/delhi/ghaziabad/6">Ghazibad</a></span></li>
-     <li class="footer-row"><span class="link"><a href="http://www.dineout.co.in/delhi/faridabad/9">Faridabad</a></span></li>-->
      
-     </ul>
-     <ul class="footer-col footer-col-restaurant left">
-     <li class="footer-row footer-col-header bold uppercase">Cuisines</li>
-          <li class="footer-row "><span class="link"><a href="http://www.dineout.co.in/bangalore/area/locality/north-indian/1">North Indian</a></span></li>
-          <li class="footer-row "><span class="link"><a href="http://www.dineout.co.in/bangalore/area/locality/italian/2">Italian</a></span></li>
-          <li class="footer-row "><span class="link"><a href="http://www.dineout.co.in/bangalore/area/locality/chinese/8">Chinese</a></span></li>
-          <li class="footer-row "><span class="link"><a href="http://www.dineout.co.in/bangalore/area/locality/continental/13">Continental</a></span></li>
-          <li class="footer-row "><span class="link"><a href="http://www.dineout.co.in/bangalore/area/locality/south-indian/14">South Indian</a></span></li>
-          <li class="footer-row "><span class="link"><a href="http://www.dineout.co.in/bangalore/area/locality/thai/18">Thai</a></span></li>
-          <li class="footer-row "><span class="link"><a href="http://www.dineout.co.in/bangalore/area/locality/mexican/20">Mexican</a></span></li>
-         <!-- <li class="footer-row"><span class="link"><a href="http://www.dineout.co.in/delhi/south-delhi/mehrauli/cheri-one-qutub-293">Cheri One Qutub</a></span></li>
-     <li class="footer-row"><span class="link"><a href="http://www.dineout.co.in/delhi/south-delhi/mehrauli/smoke-house-bbq-285">Smoke House BBQ</a></span></li>
-     <li class="footer-row"><span class="link"><a href="http://www.dineout.co.in/delhi/south-delhi/hauz-khas-village/amour--162">Amour</a></span></li>
-     <li class="footer-row"><span class="link"><a href="http://www.dineout.co.in/delhi/south-delhi/vasant-kunj/kylin-premier-153">Kylin Premier</a></span></li>
-     <li class="footer-row"><span class="link"><a href="http://www.dineout.co.in/delhi/south-delhi/vasant-kunj/kainoosh-141">Kainoosh</a></span></li>
-     <li class="footer-row"><span class="link"><a href="http://www.dineout.co.in/delhi/south-delhi/said-ul-ajaib/fio--143">Fio</a></span></li>
+     <div class="footer_ul">
+     	<ul class="footer-col footer-col-area left">
+             <li class="footer-row footer-col-header bold uppercase">Areas</li>
+                          <li class="footer-row "><span class="link"><a href="http://www.dineout.co.in/delhi/south-delhi/1">South Delhi</a></span></li>
+                          <li class="footer-row "><span class="link"><a href="http://www.dineout.co.in/delhi/east-delhi/2">East Delhi</a></span></li>
+                          <li class="footer-row "><span class="link"><a href="http://www.dineout.co.in/delhi/north-delhi/3">North Delhi</a></span></li>
+                          <li class="footer-row "><span class="link"><a href="http://www.dineout.co.in/delhi/west-delhi/4">West Delhi</a></span></li>
+                          <li class="footer-row "><span class="link"><a href="http://www.dineout.co.in/delhi/central-delhi/5">Central Delhi</a></span></li>
+                          <li class="footer-row "><span class="link"><a href="http://www.dineout.co.in/delhi/ghaziabad/6">Ghaziabad</a></span></li>
+                          <li class="footer-row "><span class="link"><a href="http://www.dineout.co.in/delhi/gurgaon/7">Gurgaon</a></span></li>
+                          <li class="footer-row "><span class="link"><a href="http://www.dineout.co.in/delhi/noida/8">Noida</a></span></li>
+                          <li class="footer-row "><span class="link"><a href="http://www.dineout.co.in/delhi/faridabad/9">Faridabad</a></span></li>
+                         <!-- <li class="footer-row"><span class="link"><a href="http://www.dineout.co.in/delhi/central-delhi/5">Central Delhi</a></span></li>
+             <li class="footer-row"><span class="link"><a href="http://www.dineout.co.in/delhi/west-delhi/4">West Delhi</a></span></li>
+              <li class="footer-row"><span class="link"><a href="http://www.dineout.co.in/delhi/gurgaon/7">Gurgaon</a></span></li>
+             <li class="footer-row"><span class="link"><a href="http://www.dineout.co.in/delhi/noida/8">Noida</a></span></li>
+             <li class="footer-row"><span class="link"><a href="http://www.dineout.co.in/delhi/ghaziabad/6">Ghazibad</a></span></li>
+             <li class="footer-row"><span class="link"><a href="http://www.dineout.co.in/delhi/faridabad/9">Faridabad</a></span></li>-->    
+     	</ul>
+     </div>
+     
+     
+     <div class="footer_ul">
+     	<ul class="footer-col footer-col-restaurant left">
+             <li class="footer-row footer-col-header bold uppercase">Cuisines</li>
+                          <li class="footer-row "><span class="link"><a href="http://www.dineout.co.in/delhi/area/locality/north-indian/1">North Indian</a></span></li>
+                          <li class="footer-row "><span class="link"><a href="http://www.dineout.co.in/delhi/area/locality/italian/2">Italian</a></span></li>
+                          <li class="footer-row "><span class="link"><a href="http://www.dineout.co.in/delhi/area/locality/chinese/8">Chinese</a></span></li>
+                          <li class="footer-row "><span class="link"><a href="http://www.dineout.co.in/delhi/area/locality/continental/13">Continental</a></span></li>
+                          <li class="footer-row "><span class="link"><a href="http://www.dineout.co.in/delhi/area/locality/south-indian/14">South Indian</a></span></li>
+                          <li class="footer-row "><span class="link"><a href="http://www.dineout.co.in/delhi/area/locality/thai/18">Thai</a></span></li>
+                          <li class="footer-row "><span class="link"><a href="http://www.dineout.co.in/delhi/area/locality/mexican/20">Mexican</a></span></li>
+                         <!-- <li class="footer-row"><span class="link"><a href="http://www.dineout.co.in/delhi/south-delhi/mehrauli/cheri-one-qutub-293">Cheri One Qutub</a></span></li>
+             <li class="footer-row"><span class="link"><a href="http://www.dineout.co.in/delhi/south-delhi/mehrauli/smoke-house-bbq-285">Smoke House BBQ</a></span></li>
+             <li class="footer-row"><span class="link"><a href="http://www.dineout.co.in/delhi/south-delhi/hauz-khas-village/amour--162">Amour</a></span></li>
+             <li class="footer-row"><span class="link"><a href="http://www.dineout.co.in/delhi/south-delhi/vasant-kunj/kylin-premier-153">Kylin Premier</a></span></li>
+             <li class="footer-row"><span class="link"><a href="http://www.dineout.co.in/delhi/south-delhi/vasant-kunj/kainoosh-141">Kainoosh</a></span></li>
+             <li class="footer-row"><span class="link"><a href="http://www.dineout.co.in/delhi/south-delhi/said-ul-ajaib/fio--143">Fio</a></span></li>
 -->
-     </ul>
+    	</ul>
+        
+   	</div>
+     
+     <div class="footer_ul">
      <ul class="footer-col footer-col-mobile left">
-     <li class="footer-row footer-col-header bold uppercase">On Mobile</li>
-     <li class="footer-row "><img src="http://www.dineout.co.in/include/images/apple.png" width="15px" height="15px" class="facebook"><span class="link"><a href="https://itunes.apple.com/in/app/dineout/id779442711?ls=1&amp;mt=8">iPhone</a></span></li>
-     <li class="footer-row"><img src="http://www.dineout.co.in/include/images/android.png" width="15px" height="15px" class="facebook"><span class="link"><a href="https://play.google.com/store/apps/details?id=com.dineout.book&amp;hl=en">Android</a></span></li>
-     <li class="footer-row"><img src="http://www.dineout.co.in/include/images/blackberry.png" width="15px" height="15px" class="facebook"><span class="link">Blackberry:2A037C2D</span></li>
+         <li class="footer-row footer-col-header bold uppercase">Dineout On Mobile</li>
+         <li class="footer-row "><img src="http://www.dineout.co.in/include/images/apple.png" width="15px" height="15px" class="facebook"><span class="link"><a href="https://itunes.apple.com/in/app/dineout/id779442711?ls=1&amp;mt=8">iPhone</a></span></li>
+         <li class="footer-row"><img src="http://www.dineout.co.in/include/images/android.png" width="15px" height="15px" class="facebook"><span class="link"><a href="https://play.google.com/store/apps/details?id=com.dineout.book&amp;hl=en">Android</a></span></li>
+         <li class="footer-row"><img src="http://www.dineout.co.in/include/images/blackberry.png" width="15px" height="15px" class="facebook"><span class="link">Blackberry:7E2EF0B2</span></li>
+	 </ul>
+     <ul class="footer-col footer-col-mobile left">
+         <li class="footer-row footer-col-header bold uppercase">TimesCity Mobile</li>
+         <li class="footer-row "><img src="http://www.dineout.co.in/include/images/apple.png" width="15px" height="15px" class="facebook"><span class="link"><a href="https://itunes.apple.com/in/app/timescity/id636515332?mt=8">iPhone</a></span></li>
+         <li class="footer-row"><img src="http://www.dineout.co.in/include/images/android.png" width="15px" height="15px" class="facebook"><span class="link"><a href="https://play.google.com/store/apps/details?id=com.phdmobi.timescity">Android</a></span></li>
+         <li class="footer-row"><img src="http://www.dineout.co.in/include/images/windows.png" width="15px" height="15px" class="facebook"><span class="link"><a href="http://www.windowsphone.com/en-in/store/app/timescity/94656279-c5e6-43a4-bfac-63d69f10e7f1">Windows</a></span></li>
      </ul>
-     <ul class="footer-col footer-col-follow left">
-     <li class="footer-row footer-col-header bold uppercase">Follow Dineout</li>
-     <li class="footer-row"><img src="http://www.dineout.co.in/include/images/facebook.png" width="15px" height="15px" class="facebook"><span class="link"><a href="https://www.facebook.com/dineout.co.in">Facebook</a></span></li>
-     <li class="footer-row"><img src="http://www.dineout.co.in/include/images/twitter.png" width="15px" height="15px" class="facebook"><span class="link"><a href="https://twitter.com/dineout_india">Twitter</a></span></li>
-     <li class="footer-row"><img src="http://www.dineout.co.in/include/images/linkedin.png" width="15px" height="15px" class="facebook"><span class="link"><a href="http://www.linkedin.com/company/2513789">Linkedin</a></span></li>
-     <li class="footer-row"><img src="http://www.dineout.co.in/include/images/googleplus.png" width="15px" height="15px" class="facebook"><span class="link"><a href="https://plus.google.com/116810274670702117044?prsrc=3">Google+</a></span></li>
-     <li class="footer-row"><img src="http://www.dineout.co.in/include/images/pinterest.png" width="15px" height="15px" class="facebook"><span class="link"><a href="https://pinterest.com/dineoutindia/">Pinterest</a></span></li>
-     </ul>
-      <ul class="footer-col footer-col-restaurant left">
-     <li class="footer-row footer-col-header bold uppercase">Popular links</li>
-     <li class="footer-row "><span class="link"><a href="http://www.dineout.co.in/dineout-deals">Dineout Deals</a></span></li>
-     <li class="footer-row "><span class="link"><a href="http://www.dineout.co.in/recently_added">Recently Added</a></span></li>
-     <li class="footer-row "><span class="link"><a href="http://www.dineout.co.in/hot-offers">Hot Offers</a></span></li>
-     <li class="footer-row"><span class="link"><a href="http://www.dineout.co.in/events">Upcoming Events</a></span></li>
-     <li class="footer-row"><span class="link"><a href="http://www.dineout.co.in/buffet">Brunches</a></span></li>
-     <li class="footer-row"><span class="link"><a href="http://www.dineout.co.in/mostbooked">Most Booked</a></span></li>
-     <li class="footer-row"><span class="link"><a href="http://www.dineout.co.in/most_reviewed">Most Reviewed</a></span></li>
-   
-
-     </ul>
+     </div>
+     
+     <div class="footer_ul">
+     	<ul class="footer-col footer-col-follow left">
+             <li class="footer-row footer-col-header bold uppercase">Follow Dineout</li>
+             <li class="footer-row"><img src="http://www.dineout.co.in/include/images/facebook.png" width="15px" height="15px" class="facebook"><span class="link"><a href="https://www.facebook.com/dineout.co.in">Facebook</a></span></li>
+             <li class="footer-row"><img src="http://www.dineout.co.in/include/images/twitter.png" width="15px" height="15px" class="facebook"><span class="link"><a href="https://twitter.com/dineout_india">Twitter</a></span></li>
+             <li class="footer-row"><img src="http://www.dineout.co.in/include/images/linkedin.png" width="15px" height="15px" class="facebook"><span class="link"><a href="http://www.linkedin.com/company/2513789">Linkedin</a></span></li>
+             <li class="footer-row"><img src="http://www.dineout.co.in/include/images/googleplus.png" width="15px" height="15px" class="facebook"><span class="link"><a href="https://plus.google.com/116810274670702117044?prsrc=3">Google+</a></span></li>
+             <li class="footer-row"><img src="http://www.dineout.co.in/include/images/pinterest.png" width="15px" height="15px" class="facebook"><span class="link"><a href="https://pinterest.com/dineoutindia/">Pinterest</a></span></li>
+     	</ul>
+    </div>
+     	
+   	<div class="footer_ul">     
+         <ul class="footer-col footer-col-restaurant left">
+             <li class="footer-row footer-col-header bold uppercase">Popular links</li>
+             <li class="footer-row "><span class="link"><a href="http://www.dineout.co.in/dineout-deals">Dineout Deals</a></span></li>
+             <li class="footer-row "><span class="link"><a href="http://www.dineout.co.in/recently_added">Recently Added</a></span></li>
+             <li class="footer-row "><span class="link"><a href="http://www.dineout.co.in/hot-offers">Hot Offers</a></span></li>
+             <li class="footer-row"><span class="link"><a href="http://www.dineout.co.in/events">Upcoming Events</a></span></li>
+             <li class="footer-row"><span class="link"><a href="http://www.dineout.co.in/buffet">Brunches</a></span></li>
+             <li class="footer-row"><span class="link"><a href="http://www.dineout.co.in/mostbooked">Most Booked</a></span></li>
+             <li class="footer-row"><span class="link"><a href="http://www.dineout.co.in/most_reviewed">Most Reviewed</a></span></li>
+     	</ul>
+     </div>   
+     
+     
      </div>
      
      
@@ -1809,29 +1753,58 @@ window.onload = function(){
  <!-- AdRoll SmartPixel Code ends! -->
        
    
-   
-   
-   
 
-         
-        <!-- Perfect Audience tag! -->
-   <!--   
-         <script type="text/javascript">
-  (function() {
-    window._pa = window._pa || {};
-    // _pa.orderId = "myUser@email.com"; // OPTIONAL: include your user's email address or order ID
-    // _pa.revenue = "19.99"; // OPTIONAL: include dynamic purchase value for the conversion
-    // _pa.onLoadEvent = "sign_up"; // OPTIONAL: name of segment/conversion to be fired on script load
-    var pa = document.createElement('script'); pa.type = 'text/javascript'; pa.async = true;
-    pa.src = ('https:' == document.location.protocol ? 'https:' : 'http:') + "//tag.perfectaudience.com/serve/50c40699941fb90002000266.js";
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(pa, s);
-  })();
+
+   
+<!-- Google Code for Remarketing Tag -->
+<!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 964022250;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
 </script>
--->
-<!-- Perfect Audience tag! ends-->
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/964022250/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
 
-  
+<!-- Google Code for Remarketing Tag ends-->
+
+
+
+   
+
+<!--FAcebook code Starts-->
+  <script>(function() {
+  var _fbq = window._fbq || (window._fbq = []);
+  if (!_fbq.loaded) {
+    var fbds = document.createElement('script');
+    fbds.async = true;
+    fbds.src = '//connect.facebook.net/en_US/fbds.js';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(fbds, s);
+    _fbq.loaded = true;
+  }
+  _fbq.push(['addPixelId', '231786857011362']);
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(['track', 'PixelInitialized', {}]);
+</script>
+<noscript><img height="1" width="1" border="0" alt="" style="display:none" src="https://www.facebook.com/tr?id=231786857011362&amp;ev=NoScript" /></noscript>
+ 
+ <!--FAcebook code Ends-->
+
+
+
         
+
 
 
 </body></html>
