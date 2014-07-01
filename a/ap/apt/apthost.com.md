@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apthost.com privacy policy that was archived on 2014-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140301062144id_/http%3A//www.apthost.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apthost.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701053927id_/http%3A//www.apthost.com/privacy.shtml) for the most accurate reproduction.*
 
 # AptHost - Privacy Policy
 
@@ -47,7 +47,7 @@ We may also use this information for research purposes regarding the effectivene
 
 AptHost may also disclose aggregate, anonymous, data based on information collected from Users to investors and potential partners. In such cases, statistical information only will be disclosed and personally identifiable data will be kept strictly confidential. In case AptHost is sold, the information collected from users may be transferred to the new owners.
 
-AptHost may from time to time engage third parties, including its own subsidiaries and affiliated companies, to preserve, analyze or otherwise store or manipulate data received by AptHost from its customers. In all such cases, such third party service providers will be required to treat all such data with the same degree of care as AptHost and they will be prohibited from disclosing such data to any other person or party, except as otherwise provided for in this Privacy Policy.
+AptHost may from time to time engage third parties, including but not limited to, its own subsidiaries, affiliate companies, business partners, agents and contractors, to preserve, analyze, store or manipulate information collected from Users on behalf of AptHost in connection with delivering AptHost services. In all such cases, such third party service providers or business partners will be required to treat all such information collected from Users, including Users personally identifiable data, with the same degree of care as AptHost and they will be prohibited from disclosing such data to any other person or party, except as otherwise provided for in this Privacy Policy.
 
 **7\. Special Offers and Updates**
 
