@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ventrian.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213075612id_/http%3A//www.ventrian.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ventrian.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701193748id_/http%3A//www.ventrian.com/privacy) for the most accurate reproduction.*
 
 # DotNetNuke Modules & Extensions
 
