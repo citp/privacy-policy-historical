@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the footballmanagerblog.org privacy policy that was archived on 2014-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140228105928id_/http%3A//www.footballmanagerblog.org/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the footballmanagerblog.org privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701115029id_/http%3A//www.footballmanagerblog.org/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Football Manager 2014 Blog
 
