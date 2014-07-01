@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the momontimeout.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209214351id_/http%3A//www.momontimeout.com/about/disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momontimeout.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701105859id_/http%3A//www.momontimeout.com/about/disclosure) for the most accurate reproduction.*
 
 # Disclosure/Privacy Policy - Mom On Timeout
+
+[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.momontimeout.com%2Fabout%2Fdisclosure%2F&media=)
 
 **Disclosure Policy  
 **  
@@ -79,3 +81,5 @@ Mom On Timeout
 trish@momontimeout.com
 
 This document was last updated on January 31, 2013
+
+[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.momontimeout.com%2Fabout%2Fdisclosure%2F&media=)
