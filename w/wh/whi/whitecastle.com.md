@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whitecastle.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330231327id_/http%3A//www.whitecastle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whitecastle.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701101952id_/http%3A//whitecastle.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Notice | White Castle
 
