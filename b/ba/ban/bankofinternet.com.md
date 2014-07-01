@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bankofinternet.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331031538id_/https%3A//www.bankofinternet.com/customer-support/disclosures/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankofinternet.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701100501id_/https%3A//www.bankofinternet.com/customer-support/disclosures/privacy-and-security) for the most accurate reproduction.*
 
 # Privacy and Security | Bank of Internet USA
 
@@ -147,13 +147,15 @@ Spyware, which includes keystroke loggers, screen and mouse recorders, and other
 
 
 
-#### Passwords
-
 ##### Mobile Device Security
 
 Configure your mobile device to require a passcode to gain access and with auto lock features
 
 Avoid storing sensitive information. Mobile devices have a high likelihood of being lost or stolen so you should avoid using them to store sensitive information such as passwords, and bank account numbers. If sensitive data is stored then encryption should be used to secure it.
+
+To prevent unauthorized access to your mobile device configure your settings to have the device automatically wiped after 10 failed passcode attempts.
+
+Install security software to prevent malware from infecting your mobile device. There are a number of vendors who provide this service through apps found in your vendor's app store.
 
 #### Social Engineering
 
@@ -384,6 +386,7 @@ Further, you can be assured that it's not our practice to:
   * Send e-mail threatening to close your account if you do not take the immediate action of providing personal information 
   * Send e-mail asking you to reply by sending personal information 
   * Share your name with any contacts outside our firm in a manner inconsistent with our Privacy Policy 
+  * Our bank, other financial institutions and regulatory agencies (i.e. FDIC, OCC, etc.) will never request sensitive information via SMS.
 
 
 
