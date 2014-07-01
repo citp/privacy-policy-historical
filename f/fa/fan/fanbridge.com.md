@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fanbridge.com privacy policy that was archived on 2014-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140522233312id_/http%3A//www.fanbridge.com/policies/privacy.php%3Fref%3Dpublic_site_footer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fanbridge.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701080044id_/https%3A//www.fanbridge.com/policies/privacy.php%3Fref%3Dpublic_site_footer) for the most accurate reproduction.*
 
 # Privacy Policy - FanBridge
 
