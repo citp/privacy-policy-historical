@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inktechnologies.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327185046id_/http%3A//www.inktechnologies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inktechnologies.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701233949id_/http%3A//www.inktechnologies.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ink Technologies
 
@@ -27,10 +27,6 @@ You are welcome to visit InkTechnologies.com anonymously. We do not directly lin
 Like most commercial web sites, InkTechnologies.com uses cookies so we can better serve you with tailored information. Cookies are small text identifiers sent to your computer to facilitate optimal customer experience and subsequent visits. Most browsers let you define preferences to notify you when you are sent cookies and let you decide whether to accept or reject them. Virtually all browsers let you remove cookies from your computer.
 
 Cookies cannot retrieve information from your computer, spread viruses, or capture your email address. Ink Technologies uses cookies responsibly; our cookies are never spyware; nor are they used in any malicious manner. We, specifically, use them to assist in our Google remarketing ad campaign to display relevant ads across the Internet and when you return to InkTechnologies.com - when you create an account and log-in, to maintain a shopping session.
-
-As of October, 2012, InkTechnologies is using the ClickTale web analytics service. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as text you type in this website. InkTechnologies does not use ClickTale to collect any personally identifiable information entered on our website. ClickTale does not track your browsing habits across web sites that do not use ClickTale services. For more information see [Privacy Policy for Information Collected by the ClickTale Web Analytics Service](http://www.clicktale.com/privacy_service.aspx). We are using the information collected by ClickTale service to improve our customer experience and better understand how our customers interact with our services.
-
-You can choose to disable the Service at <http://www.clicktale.net/disable.html>.
 
 ## Advertising
 
