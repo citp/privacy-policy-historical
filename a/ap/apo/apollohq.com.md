@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apollohq.com privacy policy that was archived on 2014-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140212152938id_/http%3A//www.apollohq.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apollohq.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701140339id_/http%3A//www.apollohq.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -13,7 +13,7 @@ We collect the email addresses of those who communicate with us via email, aggre
 
   * When you register for Apollo we ask for information such as your name, company name, email address, billing address, credit card information.
   * Members who sign up for the free account are not required to enter a credit card.
-  * We use collected information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, and research.
+  * We use collected information for the following general purposes: products and services provision, billing, identification and authentication, newsletter about product updates, services improvement, contact, and research.
 
 
 
