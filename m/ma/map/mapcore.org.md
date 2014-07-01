@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mapcore.org privacy policy that was archived on 2014-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140421104035id_/http%3A//www.mapcore.org/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mapcore.org privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701074334id_/http%3A//www.mapcore.org/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - MapCore
 
