@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldmarktheclub.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209082947id_/https%3A//www.worldmarktheclub.com/legal/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldmarktheclub.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701102659id_/https%3A//www.worldmarktheclub.com/legal/privacy-policy.shtml) for the most accurate reproduction.*
 
 # WorldMark, The Club | Privacy Policy
 
@@ -18,6 +18,7 @@ Online Reference Library
 Publications & Newsletters  
 Owner to Owner Communication  
 Become an Owner  
+Board of Directors  
 Contact Us  
   
 [](/mondaymadness/index.shtml)
