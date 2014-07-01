@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the zscaler.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209210415id_/http%3A//www.zscaler.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zscaler.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701095510id_/http%3A//www.zscaler.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Zscaler Privacy Statement | Zscaler
 
-##### Effective May 20, 2011
+##### EFFECTIVE MARCH 1, 2014
 
 ## Overview
 
@@ -20,8 +20,8 @@
 
 **Privacy Matters**  
 c/o Zscaler, Inc.  
-392 Potrero Ave.   
-Sunnyvale, CA 94085, USA
+San Jose, CA 94085, USA  
+Phone: 866-902-7811 or 408-826-8250
 
 ## Website Privacy
 
