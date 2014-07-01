@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostzil.la privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625091651id_/http%3A//www.hostzilla.com/v1/company/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostzil.la privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701120551id_/http%3A//www.hostzilla.com/v1/company/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | HostZilla.com
 
