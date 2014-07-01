@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tinkercad.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625090105id_/https%3A//www.tinkercad.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tinkercad.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701085818id_/https%3A//tinkercad.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy • Tinkercad
 
