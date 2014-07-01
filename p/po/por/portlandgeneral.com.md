@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the portlandgeneral.com privacy policy that was archived on 2014-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140515204535id_/http%3A//www.portlandgeneral.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the portlandgeneral.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701174007id_/http%3A//www.portlandgeneral.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Portland General Electric: Privacy Policy and Security | PGE
 
@@ -94,7 +94,7 @@ As an added security measure, we encourage you to sign out of the interactive po
 Back to top
 
 Contact information?  
-We welcome your questions and comments on this policy. [email Customer Service](mailto:customer.service@pgn.com "email Customer Service") or call 800-542-8818. The address for PGE headquarters is 121 SW Salmon St., Portland, OR 97204.
+We welcome your questions and comments on this policy. [Email Customer Service](mailto:customer.service@pgn.com "Email Customer Service") or call 800-542-8818. The address for PGE headquarters is 121 SW Salmon St., Portland, OR 97204.
 
 Back to top
 
