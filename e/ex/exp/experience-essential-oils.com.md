@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the experience-essential-oils.com privacy policy that was archived on 2014-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140212192204id_/http%3A//www.experience-essential-oils.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the experience-essential-oils.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701084437id_/http%3A//www.experience-essential-oils.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy for Experience-Essential-Oils.com
 
