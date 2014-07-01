@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stwnewspress.com privacy policy that was archived on 2014-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140223161432id_/http%3A//www.stwnewspress.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stwnewspress.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702012652id_/http%3A//www.stwnewspress.com/privacy) for the most accurate reproduction.*
 
 # Inside index
 
