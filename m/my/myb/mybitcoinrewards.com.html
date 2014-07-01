@@ -1,0 +1,350 @@
+<!--The following is the downloaded HTML source of the mybitcoinrewards.com privacy policy that was archived on 2014-07-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140702012845id_/https%3A//bitbillions.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en"><!--<![endif]--><!-- BEGIN HEAD --><head>
+<meta charset="utf-8"><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UAACVV9VGwAFXFFXDgU="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+<title>Privacy Policy</title>
+<meta content="width=device-width, initial-scale=1.0" name="viewport">
+<meta content="author" name="GBBG|ware &amp; DAvid Ruebush">
+<!-- BEGIN GLOBAL MANDATORY STYLES -->
+<link href="/wp-content/themes/bitbillions/front/assets/plugins/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+<link href="/wp-content/themes/bitbillions/front/assets/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+<!-- END GLOBAL MANDATORY STYLES -->
+<!-- BEGIN PAGE LEVEL PLUGIN STYLES -->
+<link href="/wp-content/themes/bitbillions/front/assets/plugins/fancybox/source/jquery.fancybox.css" rel="stylesheet">
+<link rel="stylesheet" href="/wp-content/themes/bitbillions/front/assets/plugins/revolution_slider/css/rs-style.css" media="screen">
+<link rel="stylesheet" href="/wp-content/themes/bitbillions/front/assets/plugins/revolution_slider/rs-plugin/css/settings.css" media="screen">
+<link href="/wp-content/themes/bitbillions/front/assets/plugins/bxslider/jquery.bxslider.css" rel="stylesheet">
+<!-- END PAGE LEVEL PLUGIN STYLES -->
+<!-- BEGIN THEME STYLES -->
+<link href="/wp-content/themes/bitbillions/front/assets/css/style-metronic.css" rel="stylesheet" type="text/css">
+<link href="/wp-content/themes/bitbillions/front/assets/css/style.css" rel="stylesheet" type="text/css">
+<link href="/wp-content/themes/bitbillions/front/assets/css/themes/orange.css" rel="stylesheet" type="text/css" id="style_color">
+<link href="/wp-content/themes/bitbillions/front/assets/css/style-responsive.css" rel="stylesheet" type="text/css">
+<link href="/wp-content/themes/bitbillions/front/assets/css/custom.css" rel="stylesheet" type="text/css">
+<!-- END THEME STYLES -->
+<link rel="shortcut icon" href="/wp-content/themes/bitbillions/favicon.ico">
+<meta name="google-translate-customization" content="6244cd45d394121f-e1e013f1b1a44983-gca78855700b844d1-f">
+</head>
+<!-- END HEAD -->
+
+    <!-- BEGIN HEADER -->
+    <body style=""><div class="header navbar navbar-default navbar-static-top">
+		<div class="container">
+			<div class="navbar-header">
+				<!-- BEGIN RESPONSIVE MENU TOGGLER -->
+				<button class="navbar-toggle btn navbar-btn" data-toggle="collapse" data-target=".navbar-collapse">
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+				<!-- END RESPONSIVE MENU TOGGLER -->
+				<!-- BEGIN LOGO -->
+				<a class="navbar-brand logo-v1" href="https://bitbillions.com/" style="margin-top:10px;">
+				GBBG|<span style="color:#ff8503;">bitbillions</span>
+				</a>
+				<!-- END LOGO -->
+			</div>
+		
+			<!-- BEGIN TOP NAVIGATION MENU -->
+			<div class="navbar-collapse collapse">
+				<ul class="nav navbar-nav">
+					<li><a href="https://bitbillions.com/">Home</a></li>
+					<li><a href="https://bitbillions.com/blog/">GBBG News</a></li>
+					<li><a href="http://alertinform.com/bitbillionsforum/" target="_blank">Forum</a></li>
+					<li><a href="http://www.coindesk.com" target="_blank">Bitcoin News</a></li>
+										<li class="dropdown hidden-sm hidden-xs">
+                			        <a class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown" data-delay="0" data-close-others="false" href="#">
+		                        	My GBBG <i class="fa fa-angle-down"></i>
+                			        </a>
+                			        <ul class="dropdown-menu">
+                        				<li><a href="https://bitbillions.com/sign-in/"><i class="fa fa-sign-in"></i> Sign In</a></li>
+                        				<li><a href="https://bitbillions.com/join-now/?refid=1aavisvidxznksa9dp1nlgzpupnhrfkkgh"><i class="fa fa-plus"></i> Join Now</a></li>
+                        			</ul>
+					</li>
+					<li class="menu-search hidden-xs"><span class="sep"></span></li>
+					<li class="hidden-md hidden-lg"><a href="https://bitbillions.com/sign-in/"><i class="fa fa-sign-in"></i> Sign In</a></li>
+                   			<li class="hidden-md hidden-lg"><a href="https://bitbillions.com/join-now/?refid=1aavisvidxznksa9dp1nlgzpupnhrfkkgh">Join Now</a></li>
+									</ul>                           
+			</div>
+			<!-- BEGIN TOP NAVIGATION MENU -->
+		</div>
+    </div>
+    <!-- END HEADER -->
+<!-- BEGIN BODY -->
+
+
+<!-- BEGIN PAGE CONTAINER -->
+<div class="page-container">
+<div class="container margin-bottom-40">
+<div class="page-container">
+<div class="row breadcrumbs margin-bottom-40">
+<div class="container">
+<div class="col-md-4 col-sm-4">
+<h1>Privacy Policy</h1>
+</div>
+<div class="col-md-8 col-sm-8">
+<ul class="pull-right breadcrumb">
+<li><a href="https://bitbillions.com/">Home</a></li>
+<li class="active">Privacy Policy</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="container min-hight">
+<div class="row margin-bottom-30">
+<p>Effective April 1, 2013</p>
+<p>
+Global Bitbillions Group Incorporated and its affiliates and subsidiaries (“Global Bitbillions Group Incorporated”) are committed to respecting your privacy. We’ve structured our web site so that, in general, you can visit Global Bitbillions Group Incorporated on the web without identifying yourself or revealing any personal information. Once you choose to provide us personally identifiable information (any information by which you can be identified), you can be assured that it will only be used to support your customer relationship with Global Bitbillions Group Incorporated.
+</p>
+<p>
+This statement regarding the privacy of the personally identifiable information you provide online covers five main areas: Awareness, Choice, Accuracy, Access, Security, and Third Party Links.
+</p>
+<h2>AWARENESS</h2>
+<p>
+Global Bitbillions Group Incorporated provides this Online Privacy Statement to make you aware of our privacy policy and practices and of the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and from the bottom of every page on our web site.
+</p>
+<h4>What we collect</h4>
+<p>
+In common with other web sites, log files are stored on the web server saving details such as the visitor’s IP address, browser type, referring page and time of visit.
+</p>
+<p>
+Cookies may be used to remember visitor preferences when interacting with the web site.
+</p>
+<p>
+Where registration is required, the visitor’s email and a username will be stored on the server.
+</p>
+<p>
+Upon logging onto our web server, our web server automatically recognizes your user name and your email address. We will collect the domain name from which you log on, aggregate information on what pages you access or visit, user-specific information on what pages you access or visit and information volunteered by you (such as survey information and/or site registrations).
+</p>
+<p>
+We do not collect your email address unless you contact us by email or volunteer your email address and other personal information.
+</p>
+<p>
+Global Bitbillions Group Incorporated web sites use “cookies” to enable you to sign in to our services and to help personalize your online experience. As you browse, we may install cookies (tiny text files stored on your hard disk by a web page server) in your browser. Cookies cannot harm your computer and they do not contain any personally identifiable information. One of the primary purposes of cookies is to store your preferences and other information on your computer in order to save you time by eliminating the need to repeatedly enter the same information and to display your personalized content on your later visits to web sites. Cookies also help us to improve our site and to deliver a better and more personalized service. Among other things, they enable us:
+</p>
+<ul>
+<li>To estimate our audience size and usage pattern</li>
+<li>To store information about your preferences, and so allow us to customize our site according to your individual interests</li>
+<li>To speed up your searches</li>
+<li>To recognize you when you return to our site</li>
+</ul>
+<p>
+On some Global Bitbillions Group Incorporated web sites, you can order products or services, make requests and register to receive materials. The types of personal information that may be collected on these pages are name, customer number, contact and billing information, transaction and credit card information.
+</p>
+<p>
+In order to tailor our subsequent communications to you and continuously improve our products and services, we may also ask you to voluntarily provide us with information regarding your personal or professional interests, demographics, experience with our products and contact preferences.
+</p>
+<h4>How We Use Your Information</h4>
+<p>
+Global Bitbillions Group Incorporated uses your information to better understand your needs and provide you with better service. Specifically, we use your information to help you complete a transaction, to communicate back to you, to update you on services and benefits, and to personalize our web sites for you. Credit card and bank account numbers are used only for payment processing and are not retained for other purposes.
+</p>
+<p>
+From time to time, we may also use your information to contact you for market research or to provide you with marketing information we think would be of particular interest. At a minimum, we will always give you the opportunity to opt out of receiving such direct marketing or market research contact. We will also follow local requirements, such as allowing you to opt in before receiving unsolicited contact, where applicable. Data collected online may also be combined with information you provide when you enroll with Global Bitbillions Group Incorporated.
+</p>
+<h4>Whom We Share Your Information With</h4>
+<p>
+Global Bitbillions Group Incorporated will not sell, rent or lease your personally identifiable information to others unless we have your permission or are required by law. We will only share the personal data you provide online with other Global Bitbillions Group Incorporated entities and/or business partners who are acting on our behalf for the uses described above. Such Global Bitbillions Group Incorporated entities and/or business partners, including those in the United States and/or any other countries, are governed by our privacy policies with respect to the use of this data and are bound by the appropriate confidentiality agreements.
+</p>
+<h2>CHOICE</h2>
+<p>
+Global Bitbillions Group Incorporated will not use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without first letting you know and offering you a choice. As previously stated, we will also provide you the opportunity to let us know if you do not wish to receive unsolicited direct marketing materials from us and we will do everything we can to honor such requests. Your permission is always secured first, should we ever share your information with third parties that are not acting on our behalf and governed by our privacy policy.
+</p>
+<h2>ACCURACY &amp; ACCESS</h2>
+<p>
+Global Bitbillions Group Incorporated strives to keep your personally identifiable information accurate and secure. We do not provide access to your information online. In order to update or correct your information with Global Bitbillions Group Incorporated it will be necessary for you to contact Global Bitbillions Group Incorporated directly through the methods listed below. To protect your privacy and security, upon contacting us we will also take reasonable steps to verify your identity before granting you access or enabling you to make corrections.
+</p>
+<h2>SECURITY</h2>
+<p>
+Global Bitbillions Group Incorporated is committed to ensuring the security of your information. To prevent unauthorized access or disclosure, maintain data accuracy, and ensure the appropriate use of information, we have put in place appropriate physical, electronic and managerial procedures to safeguard and secure the information we collect online. We use the latest in encryption technology when collecting or transferring sensitive data, such as credit card and bank account information.
+</p>
+<h2>International Use</h2>
+<p>
+Information that is submitted to Global Bitbillions Group Incorporated’s web Sites will be collected, processed, stored, disclosed, and disposed of in accordance with applicable law in the United States of America. If you are a non-USA user, you agree and acknowledge that we may collect and use your personal data and disclose it outside your resident jurisdiction, as discussed in “Whom We Share Your Information With” above. In addition, such information may be stored on servers located outside your resident jurisdiction. United States of America law may not provide the degree of protection for information that is available in other countries. By providing us with your information, you acknowledge that you have read this policy, understand it, agree to its terms and consent to the transfer of such information outside your resident jurisdiction. If you do not agree to this policy, please do not use Global Bitbillions Group Incorporated web sites.
+</p>
+<h4>Future Developments</h4>
+<p>
+From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future, we will post the policy changes to our web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our web site periodically. We will only use data collected after a policy has changed for the new purposes.
+</p>
+<h2>THIRD PARTY LINKS</h2>
+<p>
+Global Bitbillions Group Incorporated may at times provide links to other web sites. These sites are not controlled by Global Bitbillions Group Incorporated and we are not responsible for any content contained on any such web site. While we try to link only to sites that share our high standards and respect for privacy, Global Bitbillions Group Incorporated is not responsible for the privacy practices employed by other sites. We recommend that you review the privacy and security policies of each web site you visit.
+</p>
+<h2>Contact Us</h2>
+<p>If you have comments or questions about our privacy policy, please contact us at bitbillions@gmail.com</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- END PAGE CONTAINER -->
+
+<span class="hidden-xs">
+<div class="row breadcrumbs" style="padding:20px;">
+<center><p><a href="https://pow.bitbillions.com/"><img src="/wp-content/themes/bitbillions/ad-images/footer/pow-1.gif" class="img-responsive"></a><br><a href="https://bitbillions.com/advertise-here/"><small>advertise here</small></a></p></center>
+</div>
+</span>
+<!-- BEGIN FOOTER -->
+<div class="footer">
+<div class="container">
+<div class="row">
+<div class="col-md-4 col-sm-4 space-mobile">
+<!-- BEGIN ABOUT -->
+<h2>About</h2>
+<p class="margin-bottom-30">BitBillions is a part of the Global Blockchain Believers Group (GBBG). Our network aims to provide a long-term Bitcoin income opportunity for anyone who wishes to earn bitcoins. We generate revenue through various blockchain goods and services.</p>
+<div class="clearfix"></div>
+<!-- END ABOUT -->
+<h2>Affiliations &amp; Other</h2>
+<!-- BEGIN BLOG PHOTOS STREAM -->
+<div class="blog-photo-stream margin-bottom-30">
+<ul class="list-unstyled">
+<li><a href="https://coinbase.com/?r=5138f262d443681995000051" target="_blank"><img class="tooltips" data-placement="right" data-original-title="Coinbase Bitcoin Merchant" src="/wp-content/themes/bitbillions/front/assets/img/coinbase.png" alt="Coinbase"></a></li>
+<li><a href="https://members.bitcoinfoundation.org/current" target="_blank"><img class="tooltips" data-placement="right" data-original-title="Bitcoin Foundation Silver Member" src="/wp-content/themes/bitbillions/front/assets/img/bitcoinfoundation.png" alt="Bitcoin Foundation Silver Member" title=""></a></li>
+<li><a href="https://members.bitpay.com" target="_blank"><img class="tooltips" data-placement="right" data-original-title="BitPay Bitcoin Merchant" src="/wp-content/themes/bitbillions/front/assets/img/bitpay.png" alt="BitPay"></a></li>
+<li><a href="http://www.bitcoin.org" target="_blank"><img class="tooltips" data-placement="right" data-original-title="Bitcoin.org" src="/wp-content/themes/bitbillions/front/assets/img/bitcoinorg.png" alt="Bitcoin.org"></a></li>
+</ul>
+</div>
+<!-- END BLOG PHOTOS STREAM -->
+</div>
+<div class="col-md-4 col-sm-4 space-mobile">
+<!-- BEGIN CONTACTS -->
+<h2>Contact Us</h2>
+<address class="margin-bottom-40">
+GBBG|bitbillions<br>
+Austin, Texas USA<br>
+Customer Service: <a href="mailto:support@bitbillions.com">support@bitbillions.com</a><br>
+Tech Support: <a href="mailto:bitbillions@gmail.com">bitbillions@gmail.com</a>
+</address>
+<!-- END CONTACTS -->
+<!-- BEGIN SUBSCRIBE -->
+<h2>Statistics</h2>
+<h3><span class="caption lft slide_subtitle"><i class="fa fa-btc"></i> <span class="tooltips" data-placement="top" data-original-title="$ 70,562.54 USD">120.14121184</span> Paid Out</span></h3>
+<p>That is $ 70,562.54 in BTC paid out so far!</p>
+<h3><span class="caption lft slide_subtitle">120,165 bitcoin earners</span></h3>
+<p>Our network of bitcoin earners is growing every day!</p>
+<!-- END SUBSCRIBE -->
+</div>
+<div class="col-md-4 col-sm-4">
+<!-- BEGIN TWITTER BLOCK -->
+<h2>Important Links</h2>
+<dl class="dl-horizontal f-twitter">
+<dt><i class="fa fa-crosshairs"></i></dt>
+<dd>
+<a href="https://bitbillions.com/advertise-here/">Advertise Here</a><br>
+Hit your target audience and achieve great results<br>
+<a href="https://bitbillions.com/advertise-here/"><span>learn more...</span></a>
+</dd>
+</dl>
+<dl class="dl-horizontal f-twitter">
+<dt><i class="fa fa-film"></i></dt>
+<dd>
+<a href="https://bitbillions.com/our-story/">Our Story</a><br>
+The GBBG journey began years ago as a club<br>
+<a href="https://bitbillions.com/our-story/"><span>learn more...</span></a>
+</dd>
+</dl>
+<dl class="dl-horizontal f-twitter">
+<dt><i class="fa fa-btc"></i></dt>
+<dd>
+<a href="http://www.bitcoin.org" target="_blank">About Bitcoin</a><br>
+Bitcoin is a new kind of decentralized money<br>
+<a href="http://www.bitcoin.org" target="_blank"><span>learn more...</span></a>
+</dd>
+</dl>
+<dl class="dl-horizontal f-twitter">
+<dt><i class="fa fa-legal"></i></dt>
+<dd>
+<a href="https://bitbillions.com/marketing-executive-agreement/">Marketing Executive Agreement</a><br>
+As a marketing executive, you agree to our terms<br>
+<a href="https://bitbillions.com/marketing-executive-agreement/"><span>learn more...</span></a>
+</dd>
+</dl>
+<dl class="dl-horizontal f-twitter">
+<dt><i class="fa fa-globe"></i></dt>
+<dd>
+<a href="#">Translate</a><br>
+<div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, gaTrack: true, gaId: 'UA-38837407-1'}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+</dd>
+</dl>
+<!-- END TWITTER BLOCK -->
+</div>
+</div>
+</div>
+</div>
+<!-- END FOOTER -->
+    <!-- BEGIN COPYRIGHT -->
+    <div class="copyright">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8 col-sm-8">
+                    <p>
+                        <span class="margin-right-10">© 2013 - 2014. Global Bitbillions Group Incorporated. ALL Rights Reserved.</span> 
+                        <i class="fa fa-shield"></i> <a href="https://bitbillions.com/privacy-policy/"> Privacy Policy</a> | <i class="fa fa-legal"></i> <a href="https://bitbillions.com/terms-of-service/"> Terms of Service</a>
+                    </p>
+                </div>
+                <div class="col-md-4 col-sm-4">
+                    <ul class="social-footer">
+                        <li><a href="https://www.facebook.com/groups/153412941483564/" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                        <li><a href="https://twitter.com/GBBG_Support" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                        <li><a href="https://www.youtube.com/channel/UCrB23zs9kov1UuUo56dUb4w" target="_blank"><i class="fa fa-youtube"></i></a></li>
+                    </ul>                
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- END COPYRIGHT -->
+    <!-- Load javascripts at bottom, this will reduce page load time -->
+    <!-- BEGIN CORE PLUGINS(REQUIRED FOR ALL PAGES) -->
+    <!--[if lt IE 9]>
+    <script src="/wp-content/themes/bitbillions/front/assets/plugins/respond.min.js"></script>  
+    <![endif]-->  
+    <script src="/wp-content/themes/bitbillions/front/assets/plugins/jquery-1.10.2.min.js" type="text/javascript"></script>
+    <script src="/wp-content/themes/bitbillions/front/assets/plugins/jquery-migrate-1.2.1.min.js" type="text/javascript"></script>
+    <script src="/wp-content/themes/bitbillions/front/assets/plugins/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>      
+    <script type="text/javascript" src="/wp-content/themes/bitbillions/front/assets/plugins/back-to-top.js"></script>    
+    <!-- END CORE PLUGINS -->
+
+    <!-- BEGIN PAGE LEVEL JAVASCRIPTS(REQUIRED ONLY FOR CURRENT PAGE) -->
+    <script type="text/javascript" src="/wp-content/themes/bitbillions/front/assets/plugins/fancybox/source/jquery.fancybox.pack.js"></script>  
+    <script type="text/javascript" src="/wp-content/themes/bitbillions/front/assets/plugins/revolution_slider/rs-plugin/js/jquery.themepunch.plugins.min.js"></script>
+    <script type="text/javascript" src="/wp-content/themes/bitbillions/front/assets/plugins/revolution_slider/rs-plugin/js/jquery.themepunch.revolution.min.js"></script> 
+    <script type="text/javascript" src="/wp-content/themes/bitbillions/front/assets/plugins/bxslider/jquery.bxslider.min.js"></script>
+    <script src="/wp-content/themes/bitbillions/front/assets/scripts/app.js"></script>
+    <script src="/wp-content/themes/bitbillions/front/assets/scripts/index.js"></script>    
+    <script type="text/javascript">
+        jQuery(document).ready(function() {
+            App.init();    
+            App.initBxSlider();
+            Index.initRevolutionSlider();                    
+        });
+    </script>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-38837407-1', 'bitbillions.com');
+  ga('send', 'pageview');
+
+</script>
+<!-- Start Alexa Certify Javascript -->
+<script type="text/javascript">
+_atrk_opts = { atrk_acct:"xFZqj1aAkN00Wk", domain:"bitbillions.com",dynamic: true};
+(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=xFZqj1aAkN00Wk" style="display:none" height="1" width="1" alt="" /></noscript>
+<!-- End Alexa Certify Javascript -->  
+    <!-- END PAGE LEVEL JAVASCRIPTS -->
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-2.newrelic.com","licenseKey":"c8e31235dd","applicationID":"3580594","transactionName":"b1cEY0MAX0oEVURbDlYdM0VYTlhXAVNIHBFQQg==","queueTime":0,"applicationTime":28,"ttGuid":"","agentToken":"","atts":"QxAHFQsaTEQ=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
+<!-- END BODY -->
+
+<!-- Performance optimized by W3 Total Cache. Learn more: http://www.w3-edge.com/wordpress-plugins/
+
+Page Caching using disk: enhanced
+
+ Served from: bitbillions.com @ 2014-06-24 11:45:59 by W3 Total Cache --><div id="topcontrol" title="Scroll Back to Top" style="position: fixed; bottom: 10px; right: 10px; opacity: 0; cursor: pointer;"><img src="/wp-content/themes/bitbillions/front/assets/img/up.png" style="width:40px; height:40px"></div><script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
