@@ -1,10 +1,7 @@
-> *The following text is extracted and transformed from the homegain.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213021826id_/http%3A//www.homegain.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homegain.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701124014id_/http%3A//www.homegain.com/privacy) for the most accurate reproduction.*
 
 # HomeGain -- Find a real estate agent - Realtor - Real Estate - Homes for sale - Home Buying - Home Selling - Home - HomeGain
 
-|  [](https://privacy.truste.com/privacy-seal/HomeGain/validation?rid=3c28f47f-8424-4d08-a8fa-91e827ba4c3e "TRUSTe online privacy certification")  
----|---  
-  
 **Effective July 17, 2013**
 
 HomeGain is committed to protecting the privacy of its users. When you register for HomeGain's online services, the information you provide to us is used to provide the services you have registered for, to deliver email notifications to you, and from time to time, to validate your identity. Our data collection policies with regard to current and future services allow you to choose how much information you provide to us, and to control how we use that information. Read below to find out more. 
@@ -38,8 +35,6 @@ As a service to our users we provide links to various unrelated third party web 
 When you register for HomeGain online services, the information you provide to us is used to provide the service for which you have registered. Depending on the services you have chosen to use, some or all of your Personally Identifiable Information may be used by HomeGain to provide such services. Personally Identifiable Information may also be provided to intermediaries and third parties who assist HomeGain in providing you with the service you request. For example, if you register to use our Find a REALTOR® service and agree to its terms, some of your information may be shown to real estate agents (e.g., characteristics of the home you wish to sell), but not all of your information if you are a seller (e.g., your email, since this service protects your anonymity). As another example, when you request assistance in estimating the value of your home, we may provide some of your Personally Identifiable Information and general information regarding your home to one of our partners who may in turn share your information with a local real estate agent familiar with your market to assist you. Once you have been contacted by a real estate agent, we recommend that you contact them directly for information about their specific privacy policies. When registering for HomeGain services, you provide HomeGain with your email address. We will use your email address to deliver these HomeGain services, such as notifying you of new agent proposals if you registered for our Find a REALTOR® service. We and our partners may also send you information about other services if you have opted in to receiving such notifications. 
 
 Agents: We use a credit card processing company to bill you for goods and services. This company does not retain, share, store or use personally identifiable information for any other purposes. 
-
-Service Providers: We use third party real estate agents to provide assistance in estimating the value of your home. When you sign up for our services, we will share all of your personally identifiable information so that the real estate agent can provide that service. In addition, we use a third party service. Careerbuilder.com, which hosts an online job application process for us. Careerbuilder.com may collect personal information that you provide and forward it on to us as a part of a job application. As such, any information provided to Careerbuilder.com will be covered by its privacy policy as opposed to this one. 
 
 If you post to a blog on this web site, you should be aware that any personally identifiable information you submit here can be read, collected or used by other users of this site, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit to this site. We obtain prior consent to display a user’s personally identifiable information when they submit a testimonial for display on our web site. 
 
@@ -91,12 +86,6 @@ We provide users' on the Site the capacity to share information from the Site us
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other pages we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
 
 We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email or by means of a notice on our home page. 
-
-**TRUSTe Program**
-
-HomeGain has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site www.homegain.com.
-
-TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at privacy@homegain.com If you are not satisfied with our response you can contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint).
 
 **Privacy questions**
 
