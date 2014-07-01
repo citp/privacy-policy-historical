@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the crackingcore.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210031902id_/http%3A//www.crackingcore.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crackingcore.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701140910id_/http%3A//www.crackingcore.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy - CrackingCore - Cracking Downloads, Cracking Tutorials, Free Premium Accounts
+# Privacy Policy - CrackingCore - Cracking Forums, Cracking Tutorials, Free Premium Accounts
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available in our footer and at every point where personally identifiable information may be requested.
 
