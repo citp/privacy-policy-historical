@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ragic.com privacy policy that was archived on 2014-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140222025853id_/https%3A//www.ragic.com/sims/reg/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ragic.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701175629id_/http%3A//www.ragic.com/sims/reg/privacy.html) for the most accurate reproduction.*
 
 # Ragic - Privacy Policy
 
-At Ragic Corporation, we respect your privacy and protect the privacy of your information in an appropriate manner. This policy covers how Ragic collect, use, disclose, transfer, and store your information.
+At Ragic Corporation, we respect your privacy and protect the privacy of your information in an appropriate manner. This policy covers the ways that Ragic Inc. (referred to as â€œRagicâ€, â€œweâ€, â€œusâ€, â€œourâ€) and the services offered on the Ragic.com website (referred to as â€œServicesâ€, â€œServiceâ€) collect, use, disclose, transfer, and store your information.
 
 **Information Collection and Use**
 
@@ -44,4 +44,4 @@ Ragic reserves the right to change this Privacy Policy. We will post any Privacy
 
 If you have any questions or concerns regarding this Privacy Policy Statement, please contact us at [privacy@ragic.com](mailto:privacy@ragic.com). We shall respond to all inquiries within 30 days of receipt upon ascertaining your identity.
 
-Last Updated: October 15, 2010
+Last Updated: October 15, 2013
