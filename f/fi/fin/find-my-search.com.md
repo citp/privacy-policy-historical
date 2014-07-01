@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the find-my-search.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330234156id_/http%3A//find-my-search.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the find-my-search.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701175605id_/http%3A//find-my-search.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
