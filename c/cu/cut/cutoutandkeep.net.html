@@ -1,24 +1,25 @@
-<!--The following is the downloaded HTML source of the cutoutandkeep.net privacy policy that was archived on 2014-03-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140317071352id_/http%3A//www.cutoutandkeep.net/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cutoutandkeep.net privacy policy that was archived on 2014-07-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140701053041id_/http%3A//www.cutoutandkeep.net/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
-<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-39PV"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-6.newrelic.com","errorBeacon":"jserror.newrelic.com","licenseKey":"b793746b3e","applicationID":"1142802","transactionName":"dVtWTEcMWw9dERhCUlFRSxdGC1gU","queueTime":0,"applicationTime":44,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-356.min.js"}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UQMGWEVSCQcCXFFQ"};window.NREUM||(NREUM={}),__nr_require=function a(b,c,d){function e(f){if(!c[f]){var g=c[f]={exports:{}};b[f][0].call(g.exports,function(a){var c=b[f][1][a];return e(c?c:a)},g,g.exports,a,b,c,d)}return c[f].exports}for(var f=0;f<d.length;f++)e(d[f]);return e}({1:[function(a,b){function c(a,b,c){c||(c={});for(var d=f[a],e=d&&d.length||0,h=c[g]||(c[g]={}),i=0;e>i;i++)d[i].apply(h,b);return h}function d(a,b){var c=f[a]||(f[a]=[]);c.push(b)}function e(a){return delete a[g]}var f={},g="nr@context";b.exports={on:d,emit:c,clear:e}},{}],2:[function(a){function b(a,b,e,g,i){return h?h-=1:c("err",[i||new UncaughtException(a,b,e)]),"function"==typeof f?f.apply(this,d(arguments)):!1}function UncaughtException(a,b,c){this.message=a||"Uncaught error with no additional information",this.sourceURL=b,this.line=c}var c=a("handle"),d=a("lodash._slice"),e=a("../../../contextual-ee"),f=window.onerror,g=!1,h=0;a("loader").features.push("err"),window.onerror=b;try{throw new Error}catch(i){"stack"in i&&(a("../../wrap-timer"),a("../../wrap-raf"),"addEventListener"in window&&a("../../wrap-events"),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&a("../../wrap-xhr"),g=!0)}e.on("fn-start",function(){g&&(h+=1)}),e.on("fn-err",function(a,b,d){g&&(this.thrown=!0,c("err",[d,(new Date).getTime()]))}),e.on("fn-end",function(){g&&!this.thrown&&h>0&&(h-=1)})},{"../../../contextual-ee":1,"../../wrap-events":3,"../../wrap-raf":4,"../../wrap-timer":5,"../../wrap-xhr":6,handle:"4O2Y62",loader:"YLUGVp","lodash._slice":14}],3:[function(a){function b(a){d.inPlace(a,["addEventListener","removeEventListener"],"-",c)}function c(a){return a[1]}var d=a("../wrap-function"),e=(a("lodash._slice"),a("../contextual-ee"));if(b(window),"getPrototypeOf"in Object){for(var f=document;f&&!f.hasOwnProperty("addEventListener");)f=Object.getPrototypeOf(f);f&&b(f);for(var g=XMLHttpRequest.prototype;g&&!g.hasOwnProperty("addEventListener");)g=Object.getPrototypeOf(g);g&&b(g)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&b(XMLHttpRequest.prototype);e.on("addEventListener-start",function(a){if(a[1]){var b=a[1];"function"==typeof b?this.wrapped=b["nr@wrapped"]?a[1]=b["nr@wrapped"]:b["nr@wrapped"]=a[1]=d(b,"fn-"):"function"==typeof b.handleEvent&&d.inPlace(b,["handleEvent"],"fn-")}}),e.on("removeEventListener-start",function(a){var b=this.wrapped;b&&(a[1]=b)})},{"../contextual-ee":1,"../wrap-function":15,"lodash._slice":14}],4:[function(a){var b=(a("lodash._slice"),a("../wrap-function")),c=a("../contextual-ee");b.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),c.on("raf-start",function(a){a[0]=b(a[0],"fn-")})},{"../contextual-ee":1,"../wrap-function":15,"lodash._slice":14}],5:[function(a){function b(a){var b=a[0];"string"==typeof b&&(b=new Function(b)),a[0]=c(b,"fn-")}var c=(a("lodash._slice"),a("../wrap-function")),d=a("../contextual-ee");c.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),d.on("setTimer-start",b)},{"../contextual-ee":1,"../wrap-function":15,"lodash._slice":14}],6:[function(a){function b(){c.inPlace(this,f,"fn-")}var c=a("../wrap-function"),d=a("../contextual-ee"),e=window.XMLHttpRequest,f=["onload","onerror","onabort","onloadstart","onloadend","onprogress","onreadystatechange","ontimeout"];window.XMLHttpRequest=function(a){var f=new e(a);return d.emit("new-xhr",[],f),c.inPlace(f,["addEventListener","removeEventListener"],"-",function(a,b){return b}),f.addEventListener("readystatechange",b,!1),f},window.XMLHttpRequest.prototype=e.prototype},{"../contextual-ee":1,"../wrap-function":15}],7:[function(a){function b(a){var b=this.params,c=this.metrics;if(!this.ended){this.ended=!0;for(var d=0;j>d;d++)a.removeEventListener(i[d],this.listener,!1);if(!b.aborted){if(c.duration=(new Date).getTime()-this.startTime,4===a.readyState){if(b.status=a.status,a.responseText&&a.responseText.length&&(c.rxSize=a.responseText.length),this.sameOrigin){var f=a.getResponseHeader("X-NewRelic-App-Data");f&&(b.cat=f.split(", ").pop())}}else b.status=0;c.cbTime=this.cbTime,e("xhr",[b,c])}}}function c(a,b){var c=f(b),d=a.params;d.host=c.hostname+":"+c.port,d.pathname=c.pathname,a.sameOrigin=c.sameOrigin}function d(a,b){return b}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){a("loader").features.push("xhr");var e=a("handle"),f=a("./parse-url.js"),g=a("../../../wrap-function"),h=a("../../../contextual-ee"),i=["load","error","abort","timeout"],j=i.length,k=a("../../../loader/id");a("../../wrap-events"),a("../../wrap-xhr"),h.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=b,this.ended=!1,this.xhrGuids={}}),g.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",d),h.on("open-xhr-start",function(a){this.params={method:a[0]},c(this,a[1]),this.metrics={}}),h.on("open-xhr-end",function(a,b){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&b.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),h.on("send-xhr-start",function(a,b){var c=this.metrics,d=a[0],e=this;c&&d&&d.length&&(c.txSize=d.length),this.startTime=(new Date).getTime(),this.listener=function(a){"abort"===a.type&&(e.params.aborted=!0),("load"!==a.type||e.called===e.totalCbs&&(e.onloadCalled||"function"!=typeof b.onload))&&e.end(b)};for(var f=0;j>f;f++)b.addEventListener(i[f],this.listener,!1)}),h.on("xhr-cb-time",function(a,b,c){this.cbTime+=a,b?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof c.onload||this.end(c)}),h.on("xhr-load-added",function(a,b){var c=""+k(a)+!!b;this.xhrGuids&&!this.xhrGuids[c]&&(this.xhrGuids[c]=!0,this.totalCbs+=1)}),h.on("xhr-load-removed",function(a,b){var c=""+k(a)+!!b;this.xhrGuids&&this.xhrGuids[c]&&(delete this.xhrGuids[c],this.totalCbs-=1)}),h.on("addEventListener-end",function(a,b){b instanceof XMLHttpRequest&&"load"===a[0]&&h.emit("xhr-load-added",[a[1],a[2]],b)}),h.on("removeEventListener-end",function(a,b){b instanceof XMLHttpRequest&&"load"===a[0]&&h.emit("xhr-load-removed",[a[1],a[2]],b)}),h.on("fn-start",function(a,b,c){b instanceof XMLHttpRequest&&("onload"===c&&(this.onload=!0),("load"===(a[0]&&a[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),h.on("fn-end",function(a,b){this.xhrCbStart&&h.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,b],b)})}},{"../../../contextual-ee":1,"../../../loader/id":11,"../../../wrap-function":15,"../../wrap-events":3,"../../wrap-xhr":6,"./parse-url.js":8,handle:"4O2Y62",loader:"YLUGVp"}],8:[function(a,b){b.exports=function(a){var b=document.createElement("a"),c=window.location,d={};b.href=a,d.port=b.port;var e=b.href.split("://");return!d.port&&e[1]&&(d.port=e[1].split("/")[0].split(":")[1]),d.port&&"0"!==d.port||(d.port="https"===e[0]?"443":"80"),d.hostname=b.hostname||c.hostname,d.pathname=b.pathname,"/"!==d.pathname.charAt(0)&&(d.pathname="/"+d.pathname),d.sameOrigin=!b.hostname||b.hostname===document.domain&&b.port===c.port&&b.protocol===c.protocol,d}},{}],handle:[function(a,b){b.exports=a("4O2Y62")},{}],"4O2Y62":[function(a,b){function c(a,b){var c=d[a];return c?c.apply(this,b):(e[a]||(e[a]=[]),void e[a].push(b))}var d={},e={};b.exports=c,c.queues=e,c.handlers=d},{}],11:[function(a,b){function c(a){if(!a||"object"!=typeof a&&"function"!=typeof a)return-1;if(a===window)return 0;if(e.call(a,"__nr"))return a.__nr;try{return Object.defineProperty(a,"__nr",{value:d,writable:!0,enumerable:!1}),d}catch(b){return a.__nr=d,d}finally{d+=1}}var d=1,e=Object.prototype.hasOwnProperty;b.exports=c},{}],loader:[function(a,b){b.exports=a("YLUGVp")},{}],YLUGVp:[function(a,b){function c(){var a=m.info=NREUM.info;if(a&&a.agent&&a.licenseKey&&a.applicationID){m.proto="https"===l.split(":")[0]||a.sslForHttp?"https://":"http://",g("mark",["onload",f()]);var b=i.createElement("script");b.src=m.proto+a.agent,i.body.appendChild(b)}}function d(){"complete"===i.readyState&&e()}function e(){g("mark",["domContent",f()])}function f(){return(new Date).getTime()}var g=a("handle"),h=window,i=h.document,j="addEventListener",k="attachEvent",l=(""+location).split("?")[0],m=b.exports={offset:f(),origin:l,features:[]};i[j]?(i[j]("DOMContentLoaded",e,!1),h[j]("load",c,!1)):(i[k]("onreadystatechange",d),h[k]("onload",c)),g("mark",["firstbyte",f()])},{handle:"4O2Y62"}],14:[function(a,b){function c(a,b,c){b||(b=0),"undefined"==typeof c&&(c=a?a.length:0);for(var d=-1,e=c-b||0,f=Array(0>e?0:e);++d<e;)f[d]=a[b+d];return f}b.exports=c},{}],15:[function(a,b){function c(a,b,c,d){function nrWrapper(){var g,h=f(arguments),i=this,j=c&&c(h,i)||{};try{e.emit(b+"start",[h,i,d],j)}catch(k){}try{return g=a.apply(i,h)}catch(l){throw e.emit(b+"err",[h,i,l],j),l}finally{try{e.emit(b+"end",[h,i,g],j)}catch(k){}}}return a&&"function"==typeof a&&a.apply&&!a._wrapped?(b||(b=""),nrWrapper._wrapped=!0,nrWrapper):a}function d(a,b,d,e){d||(d="");var f,g,h,i="-"===d.charAt(0);for(h=0;h<b.length;h++)g=b[h],f=a[g],f&&"function"==typeof f&&f.apply&&!f._wrapped&&(a[g]=c(f,i?g+d:d,e,g,a))}var e=a("../contextual-ee"),f=a("lodash._slice");b.exports=c,c.inPlace=d},{"../contextual-ee":1,"lodash._slice":14}]},{},["YLUGVp",2,7]);</script>
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;appId=5825164839&amp;version=v2.0"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-39PV"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-6.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"b793746b3e","applicationID":"1142802","transactionName":"dVtWTEcMWw9dERhCUlFRSxdGC1gU","queueTime":0,"applicationTime":25,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-411.min.js"}</script>
+<script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o?o:n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({D5DuLP:[function(t,n){function e(t,n){var e=r[t];return e?e.apply(this,n):(o[t]||(o[t]=[]),void o[t].push(n))}var r={},o={};n.exports=e,e.queues=o,e.handlers=r},{}],handle:[function(t,n){n.exports=t("D5DuLP")},{}],G9z0Bl:[function(t,n){function e(){var t=l.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&p&&p.body){l.proto="https"===f.split(":")[0]||t.sslForHttp?"https://":"http://",i("mark",["onload",a()]);var n=p.createElement("script");n.src=l.proto+t.agent,p.body.appendChild(n)}}function r(){"complete"===p.readyState&&o()}function o(){i("mark",["domContent",a()])}function a(){return(new Date).getTime()}var i=t("handle"),u=window,p=u.document,s="addEventListener",c="attachEvent",f=(""+location).split("?")[0],l=n.exports={offset:a(),origin:f,features:[]};p[s]?(p[s]("DOMContentLoaded",o,!1),u[s]("load",e,!1)):(p[c]("onreadystatechange",r),u[c]("onload",e)),i("mark",["firstbyte",a()])},{handle:"D5DuLP"}],loader:[function(t,n){n.exports=t("G9z0Bl")},{}]},{},["G9z0Bl"]);</script>
 <title>Privacy Policy · About · Cut Out + Keep</title>
 <!--
 ALL CONTENT (C) 2014 CUTOUTANDKEEP.NET & CONTRIBUTORS
 No part of this website may be reproduced without prior written consent
 Happy Crafting!
-2014-03-16 23:04:45 +0000
+2014-07-01 05:30:41 +0000
 -->
 <meta content="width = 1034" name="viewport">
-<meta content="Copyright (c) 2004-2013, Cut Out + Keep" name="Copyright">
+<meta content="Copyright (c) 2004-2014, Cut Out + Keep" name="Copyright">
 <meta content="all" name="robots">
-<meta content=" craft, crafty, diy, social network, tutorial, step by step, crafterella, project" name="keywords">
-<link href="http://assets2.cdn.beta.coplusk.net/assets/app_icons/57x57-db10c6ddc21ffca2b7d65a1707245670.png" rel="apple-touch-icon-precomposed" sizes="57x57">
-<link href="http://assets2.cdn.beta.coplusk.net/assets/app_icons/72x72-d25fb789d9be00ffbe7bf38a7dc2d8fe.png" rel="apple-touch-icon-precomposed" sizes="72x72">
-<link href="http://assets1.cdn.beta.coplusk.net/assets/app_icons/114x114-3338752f942371f2aa5aa8991da279bb.png" rel="apple-touch-icon-precomposed" sizes="114x114">
-<link href="http://assets0.cdn.beta.coplusk.net/assets/app_icons/144x144-85abe2aa50d8c6e08fe360e394a3437c.png" rel="apple-touch-icon-precomposed" sizes="144x144">
+<meta content="how-to, craft, crafts, diy, social network, tutorial, step by step, crafterella, project" name="keywords">
+<link href="http://www.cutoutandkeep.net/opensearch.xml" rel="search" title="Search Projects" type="application/opensearchdescription+xml">
+<link href="http://assets3.cdn.coplusk.net/assets/app_icons/57x57-842236ca262b1263f48e5ab65261f333.png" rel="apple-touch-icon-precomposed" sizes="57x57">
+<link href="http://assets1.cdn.coplusk.net/assets/app_icons/72x72-165caa7433e96506aee1749195f65d99.png" rel="apple-touch-icon-precomposed" sizes="72x72">
+<link href="http://assets3.cdn.coplusk.net/assets/app_icons/114x114-697506e48174841d2221500f4180b0c2.png" rel="apple-touch-icon-precomposed" sizes="114x114">
+<link href="http://assets0.cdn.coplusk.net/assets/app_icons/144x144-09a76013a8b320a3f5843119a60e76fd.png" rel="apple-touch-icon-precomposed" sizes="144x144">
 <meta content="Cut Out + Keep" property="og:site_name">
 <meta content="@cutoutandkeep" name="twitter:site">
 <meta content="cutoutandkeep.net" name="twitter:domain">
@@ -26,31 +27,23 @@ Happy Crafting!
 <meta content="en_US" property="og:locale">
 
 <meta content="Cut Out + Keep" name="application-name">
-<meta content="#DFAC7E" name="msapplication-TileColor">
-<meta content="http://assets0.cdn.beta.coplusk.net/assets/app_icons/144x144-85abe2aa50d8c6e08fe360e394a3437c.png" name="msapplication-TileImage">
-<meta content="#CF4242" name="msapplication-navbutton-color">
 <link href="http://plus.google.com/111798804084880857069" rel="publisher">
-<link href="http://www.cutoutandkeep.net/blog.atom" rel="alternate" title="Latest Blogs" type="application/atom+xml">
-<link href="http://www.cutoutandkeep.net/projects.atom" rel="alternate" title="Latest Projects" type="application/atom+xml">
-<link href="http://assets3.cdn.beta.coplusk.net/assets/favicon-fb2accc14d7f6168af75244b35f58aa2.ico" rel="shortcut icon" type="image/x-icon">
-<link href="http://assets0.cdn.beta.coplusk.net/assets/application-752a6aec98c9df862389ad0ff6370c97.css" media="screen" rel="stylesheet" type="text/css">
-<link href="http://assets2.cdn.beta.coplusk.net/assets/bootstrap_and_overrides-f05b4d3908b94a643f039392886db72d.css" media="screen" rel="stylesheet" type="text/css">
+<link href="http://assets1.cdn.coplusk.net/assets/favicon-b7110f3198b2c0ab78bf93f96c4b5711.ico" rel="shortcut icon" type="image/x-icon">
+<link href="http://assets2.cdn.coplusk.net/assets/application-5e3a2f3249b91f74bc88ce5914a9619d.css" media="screen" rel="stylesheet">
+<link href="http://assets3.cdn.coplusk.net/assets/bootstrap_and_overrides-45d73cc2ffb148b4ee94590243cbd0f4.css" media="screen" rel="stylesheet">
 
 
 <!--[if lt IE 9]>
-<script src="http://assets2.cdn.beta.coplusk.net/assets/util/html5-a1d2147c0378917f0671e1176bce1d22.js" type="text/javascript"></script>
+<script src="http://assets2.cdn.coplusk.net/assets/util/html5-297787f8ad54134b643c44e3bcb83109.js"></script>
 <![endif]-->
 
 
-<script>
-dataLayer = [{}]
-</script>
-        <script>var require = {"baseUrl":"/assets","paths":{"onload":"http://assets2.cdn.beta.coplusk.net/assets/onload-c40f449f20297eaabc1bdc3a0c5023b5","backbone":"http://assets0.cdn.beta.coplusk.net/assets/backbone-c545d6d969540164e8d438546fca4b5a","cutoutandkeep":"http://assets3.cdn.beta.coplusk.net/assets/cutoutandkeep-fa5eaf2dc555b0b5017872b567e83f58","views/board/topic_indicator":"http://assets1.cdn.beta.coplusk.net/assets/views/board/topic_indicator-928641e1335edd23d9583b6b5ae0d04a","views/comments/comments":"http://assets2.cdn.beta.coplusk.net/assets/views/comments/comments-47399b9cd8d12ba548d0eb0c3a7a78c2","bootstrap/modal":"http://assets0.cdn.beta.coplusk.net/assets/bootstrap/modal-f3f64e371684cac00c57b04b3f284411","views/flags/flag":"http://assets0.cdn.beta.coplusk.net/assets/views/flags/flag-94315122a0c990186dfc4a275cdea26c","underscore":"http://assets2.cdn.beta.coplusk.net/assets/underscore-1a67a5d6d91e92681f38b1b9fbe7bd54","projects":"http://assets2.cdn.beta.coplusk.net/assets/projects-8ba8e99d2ec41f5d42587c12078684da","bootstrap/datepicker":"http://assets0.cdn.beta.coplusk.net/assets/bootstrap/datepicker-ed1e6f7cdb8cec34150ce5643ba9958e","when":"http://assets0.cdn.beta.coplusk.net/assets/when-3456cf0062c98da18c330c7ea431ce22","wysihtml5":"http://assets2.cdn.beta.coplusk.net/assets/wysihtml5-c8638ee1340dd65a0009c00be4bf1202","booklet":"http://assets1.cdn.beta.coplusk.net/assets/booklet-6dbb0e4592aef4c35e1133cd6bc057f9","imagemapster":"http://assets2.cdn.beta.coplusk.net/assets/imagemapster-9d415dcb684c53727e00b2e754827dd9","views/projects/browser":"http://assets2.cdn.beta.coplusk.net/assets/views/projects/browser-b17f7539e950298b7e0aef3b7c1b6efd","jquery":"http://assets0.cdn.beta.coplusk.net/assets/jquery-f571dbffce6739f30ec48c95edc00cdc","models/topic":"http://assets2.cdn.beta.coplusk.net/assets/models/topic-ca4f4f8859502ee3539b4f60669628be","cat":"http://assets0.cdn.beta.coplusk.net/assets/cat-4edb58d86fe4ad48b8afd892f3b5abfb","apps/editor":"http://assets1.cdn.beta.coplusk.net/assets/apps/editor-5139e1247f51aa9c39e6bc18a21aae1d","models/project":"http://assets0.cdn.beta.coplusk.net/assets/models/project-0ecaf2f8e2aab50c08ecd66321bc0ef8","util/typeahead":"http://assets2.cdn.beta.coplusk.net/assets/util/typeahead-74545382816285e3bc715f363254cb5f","jquery-ui":"http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min","facebook":"http://connect.facebook.net/en_US/all","twitter":"http://platform.twitter.com/widgets","stumbleupon":"http://platform.stumbleupon.com/1/widgets","gplus":"http://apis.google.com/js/plusone.js?publisherid=111798804084880857069","lkrm":"http://api.lookatmyroom.com/js/embed"},"shim":{"facebook":{"exports":"FB"},"twitter":{"exports":"twttr"},"stumbleupon":{"exports":"STMBLPN"},"lkrm":{"exports":"LKRM"},"jquery":{"exports":"$"},"jquery_ujs":["jquery"],"jquery-ui":["jquery"],"jquery-plugins/infinite-scroll":["jquery"],"fancybox":["jquery"],"util/typeahead":{"deps":["jquery"],"exports":"$.fn.typeahead"},"bootstrap/modal":["jquery"],"masonry":["jquery"],"underscore":{"exports":"_","deps":["jquery"]},"backbone":{"deps":["underscore","jquery"],"exports":"Backbone"},"marionette":{"deps":["backbone"]},"wysihtml5":{"exports":"$.fn.wysihtml5","deps":["jquery","bootstrap/modal"]}},"waitSeconds":30};</script>
-      <script src="http://assets0.cdn.beta.coplusk.net/assets/require-85d6731966967b32d6d26f0d7111f63f.js"></script>
+        <script>var require = {"baseUrl":"/assets","paths":{"onload":"http://assets3.cdn.coplusk.net/assets/onload-36462532cd2a2e533143c28f038da06d","backbone":"http://assets1.cdn.coplusk.net/assets/backbone-604fd32d4121ec2ef3b5dd1770fd00ed","cutoutandkeep":"http://assets0.cdn.coplusk.net/assets/cutoutandkeep-c6e7b226fc58001d3a1e6894491fd391","views/board/topic_indicator":"http://assets2.cdn.coplusk.net/assets/views/board/topic_indicator-8f9b2a7b0909a3dd6c13ca3e89ee1a2d","views/comments/comments":"http://assets0.cdn.coplusk.net/assets/views/comments/comments-d8b972ded9708df9ed58cbf8d660ac83","bootstrap/modal":"http://assets1.cdn.coplusk.net/assets/bootstrap/modal-5b0367a3a1fd46956b968f55ddaf4e13","views/flags/flag":"http://assets0.cdn.coplusk.net/assets/views/flags/flag-979d2526d639e03227088fd4073ec1cc","underscore":"http://assets3.cdn.coplusk.net/assets/underscore-02a81c41825e762d0a59b35345a51dac","projects":"http://assets2.cdn.coplusk.net/assets/projects-6369b03606042d222daff29951fb8370","bootstrap/datepicker":"http://assets1.cdn.coplusk.net/assets/bootstrap/datepicker-c19481cd234291b55010043d979159c6","when":"http://assets0.cdn.coplusk.net/assets/when-a27a1c982382656fe0653e68e9dbfd57","wysihtml5":"http://assets3.cdn.coplusk.net/assets/wysihtml5-ecb4159dd70155ef4b6accf329f3d849","booklet":"http://assets2.cdn.coplusk.net/assets/booklet-65884f31b8adce175850e006a8b0718f","imagemapster":"http://assets1.cdn.coplusk.net/assets/imagemapster-dc819224c391dc99fa6256e4c496fcf9","views/projects/browser":"http://assets0.cdn.coplusk.net/assets/views/projects/browser-5ce23544166d0676d14b7b0e4696d3f5","jquery":"http://assets3.cdn.coplusk.net/assets/jquery-5deaf538f3dc95698081a15e27ca2390","models/topic":"http://assets1.cdn.coplusk.net/assets/models/topic-10dfb0da10ff241534cc265e3e7f3414","cat":"http://assets2.cdn.coplusk.net/assets/cat-1d1c33139aeb4726eb180a56cdd6cebf","apps/editor":"http://assets3.cdn.coplusk.net/assets/apps/editor-a5229f21d6e3434a036c3c611f8b2772","models/project":"http://assets0.cdn.coplusk.net/assets/models/project-84a7b9d2a8d67d454abb69f62c37b504","util/typeahead":"http://assets2.cdn.coplusk.net/assets/util/typeahead-497ec07090b94316ffd66baa7d644e99","jquery-ui":"http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min","twitter":"http://platform.twitter.com/widgets","stumbleupon":"http://platform.stumbleupon.com/1/widgets","gplus":"http://apis.google.com/js/plusone.js?publisherid=111798804084880857069","lkrm":"http://api.lookatmyroom.com/js/embed"},"shim":{"twitter":{"exports":"twttr"},"stumbleupon":{"exports":"STMBLPN"},"lkrm":{"exports":"LKRM"},"jquery":{"exports":"$"},"jquery_ujs":["jquery"],"jquery-ui":["jquery"],"jquery-plugins/infinite-scroll":["jquery"],"fancybox":["jquery"],"util/typeahead":{"deps":["jquery"],"exports":"$.fn.typeahead"},"bootstrap/modal":["jquery"],"masonry":["jquery"],"underscore":{"exports":"_","deps":["jquery"]},"backbone":{"deps":["underscore","jquery"],"exports":"Backbone"},"marionette":{"deps":["backbone"]},"wysihtml5":{"exports":"$.fn.wysihtml5","deps":["jquery","bootstrap/modal"]}},"waitSeconds":30};</script>
+      <script src="http://assets2.cdn.coplusk.net/assets/require-bc1c98048d42a759da9c644c3d120452.js"></script>
 
 </head>
 
-<body class="unknown-state  ">
+<body class="unknown-state ">
 <!-- Google Tag Manager -->
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-39PV"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -61,6 +54,16 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-39PV');</script>
 <!-- End Google Tag Manager -->
 
+<div id="fb-root"></div>
+<script>
+  (function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=5825164839&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));
+</script>
 <div class="wrapper" itemscope="">
 <div id="userbar">
 <!-- google_ad_section_start(weight=ignore) -->
@@ -69,7 +72,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <a href="/crafterella" style="color:#FFF"><strong>Crafterella</strong>'s new page, comic and Instax contest!</a>
 
 <div class="fb-like" data-colorscheme="light" data-href="http://facebook.com/cutoutandkeep" data-layout="button_count" data-send="false" data-show-faces="false" style="position:absolute; right:250px; top:0px;"></div>
-<form action="/projects/search" class="form-search" id="searchbox">
+<form action="/projects" class="form-search" id="searchbox">
 <div>
 <input type="search" class="st-search-input input-medium search-query" id="search" name="q" size="55" placeholder="Find a project...">
 <input type="submit" name="sa" value="Search" class="btn btn-small  btn-success">
@@ -92,15 +95,15 @@ Sign Up
 </div>
 <div class="section">
 <h5>Log in to an existing account</h5>
-<form accept-charset="UTF-8" action="/session/create" class="new_user_session" id="new_user_session" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"></div><div class="control-group" id="user_session_email_control_group"><label class="control-label" for="user_session_email">Email</label><div class="controls"><span class="input"><input id="user_session_email" name="user_session[email]" size="30" type="email"></span></div></div>
-<div class="control-group" id="user_session_password_control_group"><label class="control-label" for="user_session_password">Password</label><div class="controls"><span class="input"><input id="user_session_password" name="user_session[password]" size="30" type="password"></span></div></div>
+<form accept-charset="UTF-8" action="/session/create" class="new_user_session" id="new_user_session" method="post"><div style="display:none"><input name="utf8" type="hidden" value="✓"></div><div class="control-group" id="user_session_email_control_group"><label class="control-label" for="user_session_email">Email</label><div class="controls"><span class="input"><input id="user_session_email" name="user_session[email]" type="email"></span></div></div>
+<div class="control-group" id="user_session_password_control_group"><label class="control-label" for="user_session_password">Password</label><div class="controls"><span class="input"><input id="user_session_password" name="user_session[password]" type="password"></span></div></div>
 <button class="btn btn-block" name="button" type="submit">Log in</button>
 </form>
 
 </div>
 <div class="section new-account">
 <h5>Need a new account?</h5>
-<a href="/signup" class="btn btn-success btn-block">Sign Up »</a>
+<a class="btn btn-success btn-block" href="/signup">Sign Up »</a>
 </div>
 </div>
 </div>
@@ -108,54 +111,53 @@ Sign Up
 </div>
 <!-- google_ad_section_end -->
 </div>
-<header class="container site-header" itemscope="" itemtype="http://schema.org/WPHeader">
+<div class="container">
+<header class="site-header" itemscope="" itemtype="http://schema.org/WPHeader">
 <div id="menu_top"></div>
 <a href="http://www.cutoutandkeep.net/crafterella" id="crafterella">
 <img alt="Crafterella" height="128" src="http://images.coplusk.net/uploads/header_crafterella.png" width="177">
 </a>
 <hgroup id="logo" itemprop="publisher" itemscope="true" itemtype="http://schema.org/Organization">
 <h1 class="logo-header">
-<a href="http://www.cutoutandkeep.net" itemprop="url"><img alt="Cut Out + Keep" class="logo-img" height="47" itemprop="logo" src="http://assets1.cdn.beta.coplusk.net/assets/cut_out_and_keep-67d3d02a140dab149051ed00d5bec365.png" width="372"></a>
+<a href="http://www.cutoutandkeep.net" itemprop="url"><img alt="Cut Out + Keep" class="logo-img" height="47" itemprop="logo" src="http://assets1.cdn.coplusk.net/assets/cut_out_and_keep-88a22923f97f7ff5314e46ac3abf302a.png" width="372"></a>
 </h1>
-<h4 class="logo-tagline" itemprop="description">
-Make and Share Craft Tutorials
-</h4>
+<h4 class="logo-tagline" itemprop="description">Make and Share Craft Tutorials</h4>
 </hgroup>
 </header>
-<div class="container">
+
 <div class="banner">
 <div class="banner-content">
 <nav class="inner" id="menu">
-<ul>
-<li id="home">
+<ul id="banner-menu">
+<li class="banner-menu-item" id="home">
 <a href="/"></a>
 </li>
-<li>
-<a href="/projects" class="banner-link">Projects</a>
+<li class="banner-menu-item">
+<a class="banner-link" href="/projects">Projects</a>
 </li>
-<li>
-<a href="/contests" class="banner-link">Contests</a>
+<li class="banner-menu-item">
+<a class="banner-link" href="/contests">Contests</a>
 </li>
-<li>
-<a href="/superstars" class="banner-link">Superstars</a>
+<li class="banner-menu-item">
+<a class="banner-link" href="/superstars">Superstars</a>
 </li>
-<li>
-<a href="/books" class="banner-link">Books</a>
+<li class="banner-menu-item">
+<a class="banner-link" href="/books">Books</a>
 </li>
-<li>
-<a href="/blog" class="banner-link">Blog</a>
+<li class="banner-menu-item">
+<a class="banner-link" href="/blog">Blog</a>
 </li>
-<li>
-<a href="/snippets" class="banner-link">Snippets</a>
+<li class="banner-menu-item">
+<a class="banner-link" href="/snippets">Snippets</a>
 </li>
-<li>
-<a href="/board" class="banner-link">Board</a>
+<li class="banner-menu-item">
+<a class="banner-link" href="/board">Board</a>
 </li>
-<li>
-<a href="/users" class="banner-link">Members</a>
+<li class="banner-menu-item">
+<a class="banner-link" href="/users">Members</a>
 </li>
-<li class="active">
-<a href="/about" class="banner-link">About</a>
+<li class="active banner-menu-item">
+<a class="banner-link" href="/about">About</a>
 </li>
 </ul>
 </nav>
@@ -165,48 +167,49 @@ Make and Share Craft Tutorials
 <nav class="submenu">
 <div id="popular_crafts">
 <div class="craft-dropdown">
-<a href="/art" class="craft-dropdown-toggle"><i style="background-position-x:-144px"></i>
+<a class="craft-dropdown-toggle" href="/art"><i style="background-position-x:-144px"></i>
 Art
 </a></div>
 <div class="craft-dropdown">
-<a href="/beauty" class="craft-dropdown-toggle"><i style="background-position-x:-36px"></i>
+<a class="craft-dropdown-toggle" href="/beauty"><i style="background-position-x:-36px"></i>
 Beauty
 </a></div>
 <div class="craft-dropdown">
-<a href="/cooking" class="craft-dropdown-toggle"><i style="background-position-x:-72px"></i>
+<a class="craft-dropdown-toggle" href="/cooking"><i style="background-position-x:-72px"></i>
 Cooking
 </a></div>
 <div class="craft-dropdown">
-<a href="/diy" class="craft-dropdown-toggle"><i style="background-position-x:-108px"></i>
+<a class="craft-dropdown-toggle" href="/diy"><i style="background-position-x:-108px"></i>
 Home + DIY
 </a></div>
 <div class="craft-dropdown">
-<a href="/jewelry" class="craft-dropdown-toggle"><i style="background-position-x:-90px"></i>
+<a class="craft-dropdown-toggle" href="/jewelry"><i style="background-position-x:-90px"></i>
 Jewelry
 </a></div>
 <div class="craft-dropdown">
-<a href="/needlework" class="craft-dropdown-toggle"><i style="background-position-x:-18px"></i>
+<a class="craft-dropdown-toggle" href="/needlework"><i style="background-position-x:-18px"></i>
 Needlework
 </a></div>
 <div class="craft-dropdown">
-<a href="/papercraft" class="craft-dropdown-toggle"><i style="background-position-x:-180px"></i>
+<a class="craft-dropdown-toggle" href="/papercraft"><i style="background-position-x:-180px"></i>
 Papercraft
 </a></div>
 <div class="craft-dropdown">
-<a href="/sewing" class="craft-dropdown-toggle"><i style="background-position-x:-54px"></i>
+<a class="craft-dropdown-toggle" href="/sewing"><i style="background-position-x:-54px"></i>
 Sewing
 </a></div>
 <div class="craft-dropdown">
-<a href="/yarncraft" class="craft-dropdown-toggle"><i style="background-position-x:-0px"></i>
+<a class="craft-dropdown-toggle" href="/yarncraft"><i style="background-position-x:-0px"></i>
 Yarncraft
 </a></div>
 <div class="craft-dropdown">
-<a href="/other" class="craft-dropdown-toggle"><i style="background-position-x:-198px"></i>
+<a class="craft-dropdown-toggle" href="/other"><i style="background-position-x:-198px"></i>
 Other
 </a></div>
 </div>
 </nav>
 </div>
+
 </div>
 
 <div class="container" id="content" itemprop="mainContentOfPage" itemscope="">
@@ -276,16 +279,16 @@ About
 <div class="container promos">
 <div class="row">
 <div class="span3">
-<a href="/contests/suncatcher-craft-eyes" class="taped promo db" title=""><img alt="Suncatcher Craft Eyes" height="172" src="http://images.coplusk.net/contests/102/tab/promo_suncatcher.jpg" width="230">
+<a class="taped promo db" href="/superstars/the-cookie-writer" title=""><img alt="The Cookie Writer" height="172" src="http://images.coplusk.net/superstars/428/tab/promo_thecookiewriter.jpg" width="230">
 </a></div>
 <div class="span3">
-<a href="/contests/allstarco-contest" class="taped promo db" title=""><img alt="Allstarco Contest" height="172" src="http://images.coplusk.net/contests/101/tab/promo_allstarco.jpg" width="230">
+<a class="taped promo db" href="/superstars/claireabellemakes" title=""><img alt="Claireabellemakes" height="172" src="http://images.coplusk.net/superstars/405/tab/promo_claireabellemakes.jpg" width="230">
 </a></div>
 <div class="span3">
-<a href="/superstars/little-things-blogged" class="taped promo db" title=""><img alt="Little Things Blogged" height="172" src="http://images.coplusk.net/superstars/332/tab/promo_littlethingsblogged.jpg" width="230">
+<a class="taped promo db" href="/contests/petitspixels" title=""><img alt="Petits Pixels" height="172" src="http://images.coplusk.net/contests/111/tab/promo_petitspixels.jpg" width="230">
 </a></div>
 <div class="span3">
-<a href="/superstars/pearl-scissors" class="taped promo db" title=""><img alt="Pearl &amp; Scissors" height="172" src="http://images.coplusk.net/superstars/374/tab/promo_pearlandscissors.jpg" width="230">
+<a class="taped promo db" href="/contests/airportag-contest" title=""><img alt="Airportag Contest" height="172" src="http://images.coplusk.net/contests/109/tab/promo_airporttag.jpg" width="230">
 </a></div>
 </div>
 </div>
@@ -298,7 +301,7 @@ About
 </a><a href="http://www.google.com/+cutoutandkeep" title="Cut Out + Keep on Google+"><i class="social-icon social-icon-gplus"></i>
 </a><a href="http://www.cutoutandkeep.net/projects.atom" title="Cut Out + Keep RSS Feed"><i class="social-icon social-icon-rss"></i>
 </a><div class="pull-right">
-<form action="/projects/search" class="form-search">
+<form action="/projects" class="form-search">
 <div>
 <input type="search" class="st-search-input input-large search-query" id="search" name="q" size="80" placeholder="Find a project...">
 <input type="submit" name="sa" value="Search" class="btn btn-success">
@@ -333,7 +336,7 @@ About
 ·
 <a href="/snippets">Snippets Zine</a>
 ·
-<a href="mailto:%69%6e%66%6f@%63%75%74%6f%75%74%61%6e%64%6b%65%65%70.%6e%65%74" rel="nofollow">Email Us</a>
+<a encode="hex" href="mailto:info@cutoutandkeep.net" rel="nofollow">Email Us</a>
 </div>
 <div id="copyright">
 ©
@@ -348,7 +351,7 @@ Crafted by
 <a class="muted" href="http://www.catmorley.com">Cat Morley</a>
 ,
 <a class="muted" href="http://tom.waddington.me">Tom Waddington</a>
-and 11,764 Contributors
+and 11,961 Contributors
 <div class="pull-right">
 <a href="/signup">Sign Up</a>
 ·
@@ -360,10 +363,9 @@ and 11,764 Contributors
 </div>
 
 </footer>
-<div id="fb-root"></div>
 
-<script src="http://assets2.cdn.beta.coplusk.net/assets/onload-c40f449f20297eaabc1bdc3a0c5023b5.js" type="text/javascript"></script>
-
+<script src="http://assets3.cdn.coplusk.net/assets/onload-36462532cd2a2e533143c28f038da06d.js"></script>
 
 
-<script src="https://js-agent.newrelic.com/nr-356.min.js"></script></body></html>
+
+<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
