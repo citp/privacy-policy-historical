@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lawrencetam.net privacy policy that was archived on 2014-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140413233839id_/http%3A//www.lawrencetam.net/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawrencetam.net privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701130252id_/http%3A//www.lawrencetam.net/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
