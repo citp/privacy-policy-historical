@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swayy.co privacy policy that was archived on 2014-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140329075849id_/http%3A//app.swayy.co/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swayy.co privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701074707id_/http%3A//app.swayy.co/legal/privacy) for the most accurate reproduction.*
 
 # Swayy | Privacy Policy
 
