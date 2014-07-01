@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ukcampsite.co.uk privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330214005id_/http%3A//www.ukcampsite.co.uk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukcampsite.co.uk privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702003924id_/http%3A//www.ukcampsite.co.uk/privacy.asp) for the most accurate reproduction.*
 
 # UKCampsite.co.uk Privacy and Cookie Policy
 
@@ -85,7 +85,7 @@
 > 
 > We reserve the right, at any time, to modify, alter, or update these policies. All links correct at time of publication. 
 
-**6209 Visitors online !**
+**4366 Visitors online !**
 
 [Free UKCampsite.co.uk Window Sticker](http://www.ukcampsite.co.uk/membershop/sticker.asp)  -  [Recommend to Friend](http://www.ukcampsite.co.uk/recommend.asp)  -  [Pensions Auto-enrolment](http://www.rreb.co.uk/)
 
