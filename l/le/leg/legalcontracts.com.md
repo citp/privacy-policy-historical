@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the legalcontracts.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330220522id_/http%3A//www.legalcontracts.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legalcontracts.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702013449id_/http%3A//www.legalcontracts.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy from LegalContracts.com
 
@@ -34,7 +34,7 @@ LegalContracts only saves such personal information that is necessary for you to
 
 ### Document Preparation and Privacy of Information
 
-The information you provide when you prepare a document on our website is held strictly confidential. For this reason it is essential that you provide a valid email account that will not block email from LegalContracts. If we need to contact you to provide a password, we can only contact you through the email address associated with your original purchase. Protecting your confidential information is important to us. It is our strict policy that we do not give out passwords over the phone no matter the circumstance.
+The information you provide when you prepare a document on our website is held strictly confidential. For your protection provide a valid email address that will not block email from LegalContracts. To change your password, you must use the email address associated with your account. We do not give out passwords over the phone.
 
   
 
