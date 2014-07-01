@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mytoshiba.com.au privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331035203id_/http%3A//www.mytoshiba.com.au/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytoshiba.com.au privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701214354id_/http%3A//www.mytoshiba.com.au/about/privacy) for the most accurate reproduction.*
 
 # Privacy :: About Toshiba :: Toshiba :: Computers, Laptops/Notebooks, Tablets, Televisions, DVD and Blu-Ray Players, Camcorders, Storage, Accessories, and more
 
@@ -72,21 +72,21 @@ In first instance you should contact TOSHIBA's privacy officer whose details are
 
 If you are not satisfied with the outcome of your complaint to TOSHIBA, you may lodge a complaint with the Office of the Australian Information Commissioner whose contact details are below:
 
-Office of the Australian Information Commissioner,   
-Level 3, 175 Pitt Street,   
-Sydney NSW 2000   
-Post: GPO Box 5218 Sydney NSW 2001   
-Tel: [1300-363-992](tel:1300-363-992)   
-Email: [enquiries@oaic.gov.au](mailto:enquiries@oaic.gov.au)   
+Office of the Australian Information Commissioner,  
+Level 3, 175 Pitt Street,  
+Sydney NSW 2000  
+Post: GPO Box 5218 Sydney NSW 2001  
+Tel: [1300-363-992](tel:1300-363-992)  
+Email: [enquiries@oaic.gov.au](mailto:enquiries@oaic.gov.au)  
 Website: [http://www.oaic.gov.au](http://www.oaic.gov.au/)
 
 ### Contact details for TOSHIBA's privacy officer
 
-The Compliance Manager,   
-Legal and General Affairs   
-Toshiba (Australia) Pty Limited   
-Postal Address: PO Box 350 North Ryde 1670   
-Email address: [privacyofficer@toshiba-tap.com](mailto:privacyofficer@toshiba-tap.com)   
+The Compliance Manager,  
+Legal and General Affairs  
+Toshiba (Australia) Pty Limited  
+Postal Address: PO Box 350 North Ryde 1670  
+Email address: [privacyofficer@toshiba-tap.com](mailto:privacyofficer@toshiba-tap.com)  
 Telephone number: [+61-2-9887-6000](tel:+61-2-9887-6000)
 
 ### Changes to this Privacy Policy
