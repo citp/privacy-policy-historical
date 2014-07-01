@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hitwebdirectory.com privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215000510id_/http%3A//www.hitwebdirectory.com/privacy_policy_hitwebdirectory.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitwebdirectory.com privacy policy that was archived on 2014-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140701063954id_/http%3A//www.hitwebdirectory.com/privacy_policy_hitwebdirectory.html) for the most accurate reproduction.*
 
 # SEO Free Web directory for free website submission. Web Hosting Search Engine Optimization websites. PR internet directory, Business directory and yellow pages.- hitwebdirectory privacy policy statement
 
