@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bitnamihosting.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328110706id_/https%3A//bitnami.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitnamihosting.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702150914id_/https%3A//bitnami.com/privacy) for the most accurate reproduction.*
 
 # Bitnami Privacy Policy
 
-BitRock, Incorporated (“BitRock”) understands the importance of protecting the privacy of all information that we collect by users of our websites, subscribers to our newsletters and other information services and customers of our products and services. This Privacy Policy outlines our use and disclosure of the personal information collected by or submitted to BitRock on all BitRock-owned websites, including: [bitrock.com](http://bitrock.com/), [installbuilder.bitrock.com](http://installbuilder.bitrock.com/), [bitnami.com](http://bitnami.com/), [bitnamistudio.com](http://bitnamistudio.com/), [bitnamihosting.com](http://bitnamihosting.com/). 
+BitRock, Incorporated (“BitRock”) understands the importance of protecting the privacy of all information that we collect by users of our websites, subscribers to our newsletters and other information services and customers of our products and services. This Privacy Policy outlines our use and disclosure of the personal information collected by or submitted to BitRock on all BitRock-owned websites, including: [bitrock.com](http://bitrock.com/), [installbuilder.bitrock.com](http://installbuilder.bitrock.com/), [bitnami.com](https://bitnami.com/), [bitnamistudio.com](http://bitnamistudio.com/), [bitnamihosting.com](https://bitnamihosting.com/). 
 
 ### What information do we collect?
 
@@ -38,7 +38,7 @@ We are in compliance with the requirements of COPPA (Children’s Online Privacy
 
 ### Terms and Conditions
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [bitnami.com/legal](http://bitnami.com/legal). 
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [bitnami.com/legal](https://bitnami.com/legal). 
 
 ### Your Consent
 
