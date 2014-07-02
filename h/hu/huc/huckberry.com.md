@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the huckberry.com privacy policy that was archived on 2013-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130903062428id_/https%3A//secure.huckberry.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the huckberry.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702114129id_/https%3A//huckberry.com/privacy-policy) for the most accurate reproduction.*
 
-# Huckberry
+# Privacy Policy | Huckberry
 
 Huckberry.com has developed this privacy policy to let you know how we collect and use the personal information you provide to us while visiting our web site (the "Site"). By visiting the Site, you accept the practices described in this Privacy Policy.
 
@@ -60,9 +60,10 @@ California Civil Code Section 1798.83 permits our Members who are California res
 
 If you have any questions about this Privacy Policy, please contact us at:
 
-Huckberry   
-2230 Taylor St.   
-San Francisco, CA 9413   
-(415) 504-3400   
-support@Huckberry.com   
-Last Updated: February 15, 2011. ©2011 Huckberry LLC. All rights reserved. 
+Huckberry  
+2230 Taylor St.  
+San Francisco, CA 9413  
+(415) 504-3400  
+support@Huckberry.com
+
+Last Updated: February 15, 2011. ©2014 Huckberry LLC. All rights reserved.
