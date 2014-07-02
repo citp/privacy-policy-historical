@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the credly.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214114752id_/https%3A//credly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the credly.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702195038id_/https%3A//credly.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
