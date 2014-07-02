@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the cheapesttextbooks.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213055720id_/http%3A//www.cheapesttextbooks.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheapesttextbooks.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702020206id_/http%3A//www.cheapesttextbooks.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement - CheapestTextbooks.com
-
-## Privacy Statement
 
 Information Collection and Use  
 When you send us an email asking us a question, we only use your email address for answering your question. We do not sell email addresses and we do not collect email addresses for any purpose.
