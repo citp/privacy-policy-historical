@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youtern.com privacy policy that was archived on 2014-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140223103529id_/http%3A//www.youtern.com/cm/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youtern.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702200833id_/http%3A//www.youtern.com/cm/privacy) for the most accurate reproduction.*
 
 # Privacy Policy: Internships and high-impact career advice... from YouTern!
 
