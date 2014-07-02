@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grownupgeek.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208013045id_/http%3A//www.grownupgeek.com/node/584) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grownupgeek.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702074127id_/http%3A//www.grownupgeek.com/node/584) for the most accurate reproduction.*
 
 # GrownUpGeek.com Privacy/Content Policies and Terms of Service | Help For Beginners
 
@@ -23,7 +23,7 @@ We use the information you provide about yourself when registering for membershi
 
 **Anti-Spam Data Collection For Anonymous And Non-Validated Users:**
 
-Our website uses the "[Akismet](http://akismet.com/)" Anti-Spam system.  By posting a message, you accept that your message and other details such as your IP address may be analyzed and stored for anti-spam and quality monitoring purposes, in accordance with [Akismet's privacy policy](http://automattic.com/privacy/).   For special information for scrapers and bots please see this page [Information on IP collection](http://grownupgeek.com/private/orthodoxheadless.php) to be led directly to our honeypot.
+Our website uses the "[Akismet](http://akismet.com/)" Anti-Spam system.  By posting a message, you accept that your message and other details such as your IP address may be analyzed and stored for anti-spam and quality monitoring purposes, in accordance with [Akismet's privacy policy](http://automattic.com/privacy/).   For special information for scrapers and bots please see this page [Information on IP collection](http://www.grownupgeek.com/private/orthodoxheadless.php) to be led directly to our honeypot.
 
 **eMail Address In Forum and Comment Posts:**
 
@@ -159,7 +159,7 @@ Re-distributing (i.e.; copy & pasting) content from GrownUpGeek.com to other we
 
 * * *
 
-Members that violate these policies or any other rules may be asked not to return and may be permanently banned from our website. For more information on warnings and reporting posts that violate our content polices, please [read how our negative feedback system](https://web.archive.org/how-to-complain) works and [THIS PAGE](http://grownupgeek.com/how-to-lose-your-bling "What will get you banned from TheGuG") on what can get you banned from GrownUpGeek.com.  GrownUpGeek.com also reserves the right to cancel any account at any time at it's sole discretion.
+Members that violate these policies or any other rules may be asked not to return and may be permanently banned from our website. For more information on warnings and reporting posts that violate our content polices, please [read how our negative feedback system](https://web.archive.org/how-to-complain) works and [THIS PAGE](http://www.grownupgeek.com/how-to-lose-your-bling "What will get you banned from TheGuG") on what can get you banned from GrownUpGeek.com.  GrownUpGeek.com also reserves the right to cancel any account at any time at it's sole discretion.
 
 **How To Contact Us**
 
