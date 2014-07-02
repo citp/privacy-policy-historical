@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jugnoo.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210045627id_/http%3A//www.jugnoo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jugnoo.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702112929id_/http%3A//www.jugnoo.com/privacy) for the most accurate reproduction.*
 
 # Jugnoo - Manage Your Social Media Presence
 
