@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surveybag.com privacy policy that was archived on 2014-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140423215830id_/http%3A//www.surveybag.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveybag.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702191532id_/http%3A//www.surveybag.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -27,6 +27,6 @@ How helpful is this article:
 
 
 
-Rating: 3.7/5 (7 vote casts)
+Rating: 3.4/5 (9 vote casts)
 
 Feedback recorded. Thanks! 
