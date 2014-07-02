@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gratispoints.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328112440id_/https%3A//www.gratispoints.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gratispoints.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702204120id_/https%3A//www.gratispoints.com/privacy_policy.php) for the most accurate reproduction.*
 
 # GratisPoints
 
