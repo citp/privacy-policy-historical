@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the urdogs.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624151409id_/http%3A//www.urdogs.com/%3Fpage_id%3D119) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urdogs.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702233243id_/http%3A//www.urdogs.com/%3Fpage_id%3D119) for the most accurate reproduction.*
 
 # Privacy Policy « Your dogs
 
