@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jessops.com privacy policy that was archived on 2014-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140604192856id_/http%3A//www.jessops.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jessops.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702183834id_/http%3A//www.jessops.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Jessops
 
@@ -18,7 +18,7 @@ This privacy statement covers the site www.jessops.com. As this Web sites wants 
 
 If users have questions or concerns regarding this statement, they should contact the Jessops Web Site Department by email - webmaster@jessops.com.
 
-If they do not receive acknowledgment of their inquiry or their inquiry is not satisfactorily addressed, they should then contact us at: [cs@jessops.com](mailto:cs@jessops.com) or call 0844 800 4444.
+If they do not receive acknowledgment of their inquiry or their inquiry is not satisfactorily addressed, they should then contact us at: [cs@jessops.com](mailto:cs@jessops.com) or call 0344 800 4444.
 
 **Information Collection and Use**
 
