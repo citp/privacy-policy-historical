@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twitonomy.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626051314id_/https%3A//www.twitonomy.com/content/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twitonomy.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702150238id_/http%3A//www.twitonomy.com/content/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy // Twitonomy
 
