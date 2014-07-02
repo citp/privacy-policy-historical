@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the ezcater.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331024242id_/https%3A//www.ezcater.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezcater.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702173545id_/https%3A//www.ezcater.com/privacy_policy) for the most accurate reproduction.*
 
 # Catering Services | Caterer Reviews | ezCater
-
-[](https://privacy.truste.com/privacy-seal/ezCater,-Inc/validation?rid=1180da02-ae1b-49ab-9cad-af815c2df2e3 "TRUSTe online privacy certification")
-
-###  Privacy Policy 
 
 Effective Date: December 15, 2012
 
@@ -16,7 +12,7 @@ ezCater, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privac
 
 TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [support@ezcater.com](mailto:support@ezcater.com). If you are not satisfied with our response you can contact [TRUSTe’s Feedback and Resolution System](https://feedback-form.truste.com/watchdog/request). 
 
-#####  What information do we collect and how do we use it? 
+####  What information do we collect and how do we use it? 
 
 So we can serve you, you give us information such as your contact or billing information, or details about orders or client needs. In addition, we log interactions such as visits to our website, orders placed, and communications among you, us, and third parties such as food providers, delivery companies, and delivery locations. 
 
@@ -28,19 +24,19 @@ If you place orders with us, you may receive communications regarding status upd
 
 If you are the recipient of food ordered through ezCater, your delivery-related information and dietary needs may be communicated to food providers, delivery companies, or other parties as needed so they can serve you. If you choose to designate an alternate contact person, we will ask you for their name. We will send the alternate contact information to the caterer. ezCater stores this information and it is only used for the sole purpose of handling your food order. 
 
-#####  How do we protect your information? 
+####  How do we protect your information? 
 
 We use state-of-the-art protection. All password and billing information you provide on our website is transmitted via a secure connection called "Secure Sockets Layer (SSL) with 128-bit encryption," and then stored in a secure environment. 
 
 We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, we cannot guarantee its absolute security. Please contact us if you have any questions about security on our web site. 
 
-#####  What tracking technologies do we use? 
+####  What tracking technologies do we use? 
 
 We use "cookies" (small text files stored on your computer), solely to allow you to order more quickly. You can always delete ezCater cookies by following the instructions in your browser's help section. 
 
 The use of cookies by our partners, affiliates, tracking utility company, service providers is not covered by our privacy policy. We do not have access or control over these cookies. Our partners, affiliates, tracking utility company, service providers use session ID cookies to make it easier for you to navigate our site. 
 
-#####  You control your information 
+####  You control your information 
 
 You can always edit your information in your Profile page. On that page, you can also opt in or out of our sharing of your personal information with third parties. Or, email us at [support@ezcater.com](mailto:support@ezcater.com) to delete, update, amend and change how we use your information. 
 
@@ -50,7 +46,7 @@ We may disclose your personal information as required by law, such as to comply 
 
 We will retain your information for as long as your account is active or as needed to provide you services. Please contact us if you wish to cancel your account or request that we no longer use your information to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
 
-#####  Other 
+####  Other 
 
 We are not responsible in any way for websites linked to or from ours. When you link to another website, our policies are no longer in effect. We recommend that you understand the policies of the website you have reached before proceeding. 
 
@@ -62,10 +58,11 @@ Our web site offers publicly accessible comments through a third party provider.
 
 We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email or by means of a notice on this site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. 
 
-#####  Contact us 
+###  Contact us 
 
 Please never hesitate to email us at [support@ezcater.com](mailto:support@ezcater.com) or call us at 1-800-488-1803.
 
 ezCater, Inc.  
-45 Bromfield Street  
-Boston, MA 02108 
+101 Arch Street  
+Suite 410  
+Boston, MA 02110 
