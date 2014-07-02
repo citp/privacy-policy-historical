@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the webhelpdesk.com privacy policy that was archived on 2014-02-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140209093256id_/http%3A//www.webhelpdesk.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the webhelpdesk.com privacy policy that was archived on 2014-07-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140702121642id_/http%3A//www.webhelpdesk.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html itemscope="itemscope" itemtype="http://schema.org/Article" class="cufon-active cufon-ready"><head id="head"><title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html itemscope="itemscope" itemtype="http://schema.org/Article" class="cufon-active cufon-ready"><head id="head"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"beacon-6.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"b1ea36decc","applicationID":"937551","transactionName":"Y1ZabEdTVhFWUUFdX1oceWtlHVsPREJUU1VHHEhXR0ZZDkNXWERcVUddFlRBSBo=","queueTime":0,"applicationTime":235,"ttGuid":"FA6D4654C70B05B","agent":"js-agent.newrelic.com/nr-411.min.js"}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgYHVlNAAQAHUVRT"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script><title>
 	Privacy - Help Desk Software by Web Help Desk
 </title><meta http-equiv="content-type" content="text/html; charset=UTF-8"> 
 <meta http-equiv="pragma" content="no-cache"> 
@@ -20,7 +20,7 @@
 <!-- This makes the comment box appear where the ‘reply to this comment’ link is -->
 
 <!-- Modules w/ Javascript -->
-<!-- IE --><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="/webhelpdesk/scripts/cufon-yui.js"></script><style type="text/css">cufon{text-indent:0!important;}@media screen,projection{cufon{display:inline!important;display:inline-block!important;position:relative!important;vertical-align:middle!important;font-size:1px!important;line-height:1px!important;}cufon cufontext{display:-moz-inline-box!important;display:inline-block!important;width:0!important;height:0!important;overflow:hidden!important;text-indent:-10000in!important;}cufon canvas{position:relative!important;}}@media print{cufon{padding:0!important;}cufon canvas{display:none!important;}}</style>	
+<!-- IE --><script type="text/javascript" src="/webhelpdesk/scripts/cufon-yui.js"></script><style type="text/css">cufon{text-indent:0!important;}@media screen,projection{cufon{display:inline!important;display:inline-block!important;position:relative!important;vertical-align:middle!important;font-size:1px!important;line-height:1px!important;}cufon cufontext{display:-moz-inline-box!important;display:inline-block!important;width:0!important;height:0!important;overflow:hidden!important;text-indent:-10000in!important;}cufon canvas{position:relative!important;}}@media print{cufon{padding:0!important;}cufon canvas{display:none!important;}}</style>	
 			<script type="text/javascript" src="/webhelpdesk/scripts/mp-header.font.js"></script>
 		<script type="text/javascript">
 	/* <![CDATA[ */
@@ -49,6 +49,8 @@
 <script type="text/javascript" src="/webhelpdesk/scripts/jquery.maskedinput-1.3.1.min.js"></script>
 <script type="text/javascript" src="/webhelpdesk/scripts/gravityforms.js"></script>
 
+<script type="text/javascript" src="/Stampsite/js/jquery.fancybox-1.3.4/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
+<link rel="stylesheet" href="/Stampsite/js/jquery.fancybox-1.3.4/fancybox/jquery.fancybox-1.3.4.css" type="text/css" media="screen">
 <!-- Google Analytics Tracking -->
 <script type="text/javascript">
 var _gaq = _gaq || [];
@@ -62,7 +64,6 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 </script>
 <!-- / Google Analytics Tracking -->
 
-<meta name="google-site-verification" content="vUFYqqBANwY-yQHk7wa5UsAkR0-N8dHrbQRjRY8C680">
 
 <!-- Portfolio Slideshow-->
 <noscript>
@@ -96,8 +97,8 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
             if ($j(this).html() == "2") { $j(this).html('<span class="nav_thumb" style="background: transparent url(/webhelpdesk/media/images/ipod-touch-thumb.jpg) no-repeat 0 0;"><span class="nav_overlay">&nbsp;</span></span>'); }
             if ($j(this).html() == "3") { $j(this).html('<span class="nav_thumb" style="background: transparent url(/webhelpdesk/media/images/free_button2.jpg) no-repeat 0 0;"><span class="nav_overlay">&nbsp;</span></span>'); }
             if ($j(this).html() == "4") { $j(this).html('<span class="nav_thumb" style="background: transparent url(/webhelpdesk/media/images/got_help_button.jpg) no-repeat 0 0;"><span class="nav_overlay">&nbsp;</span></span>'); }
+            if ($j(this).html() == "5") { $j(this).html('<span class="nav_thumb" style="background: transparent url(/webhelpdesk/media/images/WN_ReadersChoice_Winner_50x30.jpg) no-repeat 0 0;"><span class="nav_overlay">&nbsp;</span></span>'); }
         });
-
 
         // Play Pause
         $j('.playpause').click(function () {
@@ -182,16 +183,92 @@ var SiteCatalyst = (function() {
 <script type="text/javascript" src="/webhelpdesk/scripts/ProdInline.js"></script>
 
 <!-- DTM Script Reference -->
-<script src="//s3.amazonaws.com/searchdiscovery-satellite-production/f621f149f278de13c57fa7bfeaddccafd7f1bda7/satelliteLib-f09405d25a68f7002f880734a2f1ecac40c9f55c.js" type="text/javascript"></script><script type="text/javascript" src="/webhelpdesk/scripts/toggle-one.js"></script> 
+<script src="//s3.amazonaws.com/searchdiscovery-satellite-production/f621f149f278de13c57fa7bfeaddccafd7f1bda7/satelliteLib-f09405d25a68f7002f880734a2f1ecac40c9f55c.js" type="text/javascript"></script>
+<script type="text/javascript">
+$(document).ready(function() {
+      $("object[type='application/x-shockwave-flash']").append('<param name="wMode" value="transparent" />');
+        
+		$(".FancyBoxImage").click(function() {
+			$.fancybox({
+			'padding'		: 0,
+			'autoScale'		: true,
+			'transitionIn'	        : 'none',
+			'transitionOut'	        : 'none',
+			'titleShow'		: true,
+			'title'			: this.title,
+			'href'			: this.href,
+			'type'			: 'image'
+		});
+
+	return false;
+		});			
+
+                $(".FancyBoxBrightcove").click(function() {
+       			$.fancybox({
+			'padding'		: 10,
+			'scrolling'		: 'no',
+			'autoScale'		: false,
+			'transitionIn'	        : 'none',
+			'transitionOut'	        : 'none',
+			'titleShow'		: true,
+			'title'			: this.title,
+			'width'			: 650,
+			'height'		: 483,
+			'href'			: this.href,
+                        'type'			: 'iframe',
+                        'onComplete' : function() {
+                       
+                        fixFlash();
+                        
+                        }
+                      
+		});
+
+	return false;
+		});			
+
+	$(".FancyBoxYoutube").click(function() {
+			$.fancybox({
+			'padding'		: 0,
+			'autoScale'		: false,
+			'transitionIn'	        : 'none',
+			'transitionOut'	        : 'none',
+			'title'			: this.title,
+			'width'		        : 680,
+			'height'		: 495,
+			'href'			: this.href.replace(new RegExp("watch\\?v=", "i"), 'v/'),
+			'type'			: 'swf',
+			'swf'			: {
+			   	 'wmode'		: 'transparent',
+				'allowfullscreen'	: 'true'
+			}
+		});
+
+	return false;
+		});			
+
+	});
+        
+        function fixFlash() {
+                $('object').each(function () {
+                 
+                 if ($(this).find('param[name=wmode]').attr('value') != 'transparent') {
+                     $(this).append('<param name="wmode" value="transparent" />');
+                 }
+                
+             });
+         }
+</script>
+<script type="text/javascript" src="/webhelpdesk/scripts/toggle-one.js"></script> 
 <link rel="canonical" href="http://www.webhelpdesk.com/privacy/"> 
-   <script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()])</script></head>
+   </head>
 <body class="LTR ENUS ContentBody">
     <form method="post" action="/privacy.aspx" id="form">
 <div class="aspNetHidden">
 <input type="hidden" name="manScript_HiddenField" id="manScript_HiddenField" value="">
 <input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
 <input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNDI1MDE2NDgzD2QWAgIBEGRkFgICAw9kFgJmD2QWAmYPZBYEAgMPZBYCAgEPZBYCZg9kFgJmD2QWCAIBDw8WAh4EVGV4dAULU2VhcmNoIGZvcjpkZAIDDw8WBB8AZR4KU2lnbmF0dXJlcxcAZGQCBQ8PFgIfAAUCR29kZAIHD2QWAgIDDxBkZBYAZAIFD2QWAgIBDw8WAh4HVmlzaWJsZWhkFgJmDw8WAh8CaGQWBAIBDw8WAh8ABRVTZWFyY2ggUmVzdWx0cyBGb3IgIiJkZAIFDw8WDh4IUGFnZVNpemUCBB4JR3JvdXBTaXplAgoeDlF1ZXJ5U3RyaW5nS2V5BQRwYWdlHh1EaXNwbGF5Rmlyc3RMYXN0QXV0b21hdGljYWxseWgeIERpc3BsYXlQcmV2aW91c05leHRBdXRvbWF0aWNhbGx5aB4JUGFnZXJNb2RlCylvQ01TLkNvbnRyb2xzLlVuaVBhZ2VyTW9kZSwgQ01TLkNvbnRyb2xzLCBWZXJzaW9uPTYuMC40NTk3LjYyNiwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj04MzRiMTJhMjU4ZjIxM2Y5AB4ITWF4UGFnZXMCyAFkZGREm8GvtMyZCKKDOzVXO5qQeLDBL42mIrixhP31XV7Ldw==">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNDI1MDE2NDgzD2QWAgIBEGRkFgICAw9kFgJmD2QWAmYPZBYGAgMPZBYCAgEPZBYCZg9kFgJmD2QWCAIBDw8WAh4EVGV4dAULU2VhcmNoIGZvcjpkZAIDDw8WBB8AZR4KU2lnbmF0dXJlcxcAZGQCBQ8PFgIfAAUCR29kZAIHD2QWAgIDDxBkZBYAZAIFD2QWAgIBDw8WAh4HVmlzaWJsZWhkFgJmDw8WAh8CaGQWBAIBDw8WAh8ABRVTZWFyY2ggUmVzdWx0cyBGb3IgIiJkZAIFDw8WDh4IUGFnZVNpemUCBB4JR3JvdXBTaXplAgoeDlF1ZXJ5U3RyaW5nS2V5BQRwYWdlHh1EaXNwbGF5Rmlyc3RMYXN0QXV0b21hdGljYWxseWgeIERpc3BsYXlQcmV2aW91c05leHRBdXRvbWF0aWNhbGx5aB4JUGFnZXJNb2RlCylvQ01TLkNvbnRyb2xzLlVuaVBhZ2VyTW9kZSwgQ01TLkNvbnRyb2xzLCBWZXJzaW9uPTYuMC40NTk3LjYyNiwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj04MzRiMTJhMjU4ZjIxM2Y5AB4ITWF4UGFnZXMCyAFkZAIHD2QWAgICD2QWAgICD2QWAmYPZBYCZg9kFgJmDxUBBlJFRkRPTWRkdJIxukd3/uF2LyUyNzph7hoQQ6M=">
 </div>
 
 <script type="text/javascript">
@@ -211,16 +288,44 @@ function __doPostBack(eventTarget, eventArgument) {
 </script>
 
 
-<script src="/WebResource.axd?d=-tmMR3P-l-eohiwAxg-8BkPvmLQ5stplW0GG5IyjbAWbgZS66xsbXhep1GsKkAxg2K_PeM2Yi9NAVVa23Xm_U8g6p3wg3MMpCtoCZKVXA9U1&amp;t=634989851222532167" type="text/javascript"></script>
+<script src="/WebResource.axd?d=rX0tib_NID9e_C6jUw7VTtmvTih9fgclyYP24coTeQTo0Lscuaz2R72W7OWEwBEsbx3fqTY0hC6qQ-45PYJUeVRaQvg1&amp;t=634988049762622813" type="text/javascript"></script>
 
 <input type="hidden" name="lng" id="lng" value="en-US">
+
+<!-- BEGIN SITECATALYST CODE -->
+<!-- SiteCatalyst code version: H.17.
+Copyright 1997-2008 Omniture, Inc. More info available at http://www.omniture.com -->
+<script language="JavaScript" type="text/javascript">
+s.channel="Privacy";
+s.prop1="";
+s.prop2="";
+s.prop3="";
+s.prop4="";
+s.prop5="";
+s.pageName="WHD:Privacy";
+// Conversion Variables
+s.events="";
+s.eVar1="";
+s.eVar2="";
+s.eVar3="";
+s.eVar4="";
+s.eVar5="";
+s.eVar41="";
+s.eVar42="";
+// ************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************
+var s_code=s.t();if (s_code) document.write(s_code);
+//<-->></-->></script>
+<script language="JavaScript" type="text/javascript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><noscript><a href="http://www.omniture.com" title="Web Analytics"><img src="http://solarwinds.122.2o7.net/b/ss/solarwindsdev/1/H.17--NS/0" height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.17. -->
 <script type="text/javascript">
 //<![CDATA[
-var pageName = 'WHD:Privacy';var prop1 = '';var prop2 = '';var channel = 'Privacy';//]]>
+var $ = jQuery.noConflict();//]]>
 </script>
-
-<script src="/ScriptResource.axd?d=Z59yBepaU1FX8pVmQ_hjmYxnLPTsgaC-kqnJE_SM53qouycdVTewq4aejmNTrY9ZMJ5a2ZMz6ZWSrXFrrpKzAcFTsF3OurXzyE-p0nP7o5M9P43BXQbjiBILlVmWmFxU0&amp;t=34d147fd" type="text/javascript"></script>
-<script src="/ScriptResource.axd?d=zyPNSuG-USl0wRespan32MZeHoFzsq-98-3pCtvfY50dIH-M_b7XV977spPOxMCzGfNzp6RwKFujVO4F2EuqoCZtAHm4iZJ2TduCEiStS2RkxUmtrMGVIxU9Migg0G3Gw95lTOjkGdQTV7YKGRz1QA2&amp;t=34d147fd" type="text/javascript"></script>
+<script src="http://www.solarwinds.com/cdncontent/web/js/CrossDomainSync.min.js" type="text/javascript"></script><script src="../content/js/marketo/CrossDomainSync.js" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=aypBZhj1_OUxW27w4KQKJd-5SbxYVxd9u49Kix31egJX0TtnT0najqTSb8BrvgsFYebxQYVzyAvTorEc2pVoIpzSsvud8_YmjRjeZLYDthpeiS8j0&amp;t=34d147fd" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=OUuteYoBC693DeK3UgEj6rWmBAxPtYCJ4R0sb-6Vg_3z7bLceBYggco1noYZGRihKSSWfvIZJR21mu7Hj_ml5ZWI5-wOav4F3tF_YbmO0f_Arsx0cGfeye9c9OafpRhDmAodtA2&amp;t=34d147fd" type="text/javascript"></script>
 <div class="aspNetHidden">
 
 	<input type="hidden" name="__SCROLLPOSITIONX" id="__SCROLLPOSITIONX" value="0">
@@ -236,9 +341,11 @@ Sys.WebForms.PageRequestManager._initialize('manScript', 'form', [], [], [], 90,
 </div>
      
 <div class="fix" id="page">
-<div class="fix" id="wrapper">
+<div class="fix" id="wrapper" itemscope="itemscope" itemtype="http://schema.org/SoftwareApplication">
+    <meta itemprop="screenshot" content="http://web.swcdn.net/creative/v8.7/images/screenshots/products/WDH/Lg/EN/0001_WHD_X_Ticketing-Dashboard_Lg_EN.jpg">
+    <meta itemprop="applicationCategory" content="IT Help Desk Software"> <meta itemprop="name" content="Web Help Desk by SolarWinds">
     <div class="fix" id="header">
-    <a class="header-logo" href="/" name="&amp;lid=HDR-Logo"><img alt="Help Desk Software by Web Help Desk" class="headerimage" src="/webhelpdesk/media/images/SW_WHD_logo.jpeg"> </a>
+    <a class="header-logo" href="/" name="&amp;lid=HDR-Logo"><img itemprop="image" alt="Help Desk Software by Web Help Desk" class="headerimage" src="/webhelpdesk/media/images/SW_WHD_logo.jpeg"> </a>
 <div class="pricing">
 	<ul>
 		<li>
@@ -545,7 +652,7 @@ var VisitorCountry = {"ip":"66.175.197.130","code":"US","name":"United States"};
         var hostName = window.location.host;
 
         jQuery(anchor).click(function () {
-            if (hostName.indexOf("webhelpdesk.com") != -1) {
+            
                 if (!s.prop9) {
                     var name = jQuery(anchor).attr("name");
                     var lid = name.replace("&amp;", "");
@@ -555,7 +662,7 @@ var VisitorCountry = {"ip":"66.175.197.130","code":"US","name":"United States"};
                     s.prop9 = lid;
                     s.tl(this, 'o', lid);
                 }
-            }
+            
         });
 
         var url = GetPageServiceURL() + "/GetLidValue";
@@ -593,7 +700,8 @@ var VisitorCountry = {"ip":"66.175.197.130","code":"US","name":"United States"};
     }
 </script>
 
-    
+REFDOM
+  
     </div>
 </div>
 </div>
@@ -615,4 +723,4 @@ theForm.onsubmit = WebForm_SaveScrollPositionOnSubmit;
 </form>
 
 
-<script type="text/javascript">if (!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.async=true;e.src="https://js-agent.newrelic.com/nr-100.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrf2","beacon-6.newrelic.com","b1ea36decc",937551,"Y1ZabEdTVhFWUUFdX1oceWtlHVsPREJUU1VHHEhXR0ZZDkNXWERcVUddFlRBSBo=",0,140,new Date().getTime()])</script><script type="text/javascript" async="" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
+<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
