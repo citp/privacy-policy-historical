@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mybusinesscourse.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330222020id_/https%3A//mybusinesscourse.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mybusinesscourse.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702164020id_/https%3A//mybusinesscourse.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MyBusinessCourse
 
