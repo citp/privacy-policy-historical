@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the centralreach.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214233933id_/http%3A//www.centralreach.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centralreach.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702055807id_/http%3A//www.centralreach.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CentralReach
 
