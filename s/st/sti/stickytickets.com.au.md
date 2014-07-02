@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the stickytickets.com.au privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424125657id_/http%3A//www.stickytickets.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stickytickets.com.au privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702151738id_/https%3A//www.stickytickets.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - Sticky Tickets
 
 ### Collection of Personal Information
 
-Sticky Tickets Australia Pty Ltd (“Sticky Tickets”) is the sole owner of all information collected on [www.stickytickets.com.au](http://www.stickytickets.com.au/).
+Sticky Tickets Australia Pty Ltd (“Sticky Tickets”) is the sole owner of all information collected on [www.stickytickets.com.au](https://www.stickytickets.com.au/).
 
 Sticky Tickets collects certain personally identifiable information from our coordinators, contributors and other parties via the website for the purpose of providing our service.
 
@@ -45,11 +45,11 @@ Individuals at all times retain the right to access their personally identifiabl
 
 ### General Information
 
-Sticky Tickets has a commitment to protecting the privacy of its customers. We employ practices and safeguards to ensure the accuracy and security of personal information. If you have any concerns about privacy related to [www.stickytickets.com.au](http://www.stickytickets.com.au/) or the services therein, please contact Sticky Tickets at [privacy@stickytickets.com.au](mailto:privacy@stickytickets.com.au). 
+Sticky Tickets has a commitment to protecting the privacy of its customers. We employ practices and safeguards to ensure the accuracy and security of personal information. If you have any concerns about privacy related to [www.stickytickets.com.au](https://www.stickytickets.com.au/) or the services therein, please contact Sticky Tickets at [privacy@stickytickets.com.au](mailto:privacy@stickytickets.com.au). 
 
-[www.stickytickets.com.au](http://www.stickytickets.com.au/) may contain links to other sites that are not owned or controlled by Sticky Tickets. Sticky Tickets takes no responsibility for and cannot ensure the privacy practices of such other . 
+[www.stickytickets.com.au](https://www.stickytickets.com.au/) may contain links to other sites that are not owned or controlled by Sticky Tickets. Sticky Tickets takes no responsibility for and cannot ensure the privacy practices of such other . 
 
-This privacy statement applies only to information collected by [www.stickytickets.com.au](http://www.stickytickets.com.au/) and associated sites owned and controlled by Sticky Tickets.
+This privacy statement applies only to information collected by [www.stickytickets.com.au](https://www.stickytickets.com.au/) and associated sites owned and controlled by Sticky Tickets.
 
 Sticky Tickets reserves the right to modify this privacy statement at any time. Sellers and Users will be advised of material changes by notification on the home page of www.stickytickets.com.au.
 
