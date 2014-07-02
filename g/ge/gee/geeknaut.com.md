@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the geeknaut.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214082006id_/http%3A//www.geeknaut.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geeknaut.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702105713id_/http%3A//www.geeknaut.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy PolicyGeeknaut
+# Privacy Policy
 
 Your privacy is critically important to us. At Geeknaut we have a few fundamental principles:
 
