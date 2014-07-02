@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the microdirect.co.uk privacy policy that was archived on 2014-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140527223248id_/http%3A//www.microdirect.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the microdirect.co.uk privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702162433id_/http%3A//www.microdirect.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
