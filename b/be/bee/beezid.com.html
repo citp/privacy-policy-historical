@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the beezid.com privacy policy that was archived on 2014-02-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140209104758id_/http%3A//www.beezid.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the beezid.com privacy policy that was archived on 2014-07-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140702235006id_/http%3A//www.beezid.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb"><head>
     <base href="http://www.beezid.com/">
@@ -13,10 +13,12 @@
 
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
-	<link rel="stylesheet" type="text/css" href="/css/common.css?v250">
-<link rel="stylesheet" type="text/css" href="/ccss/us_en_us_beezid_250.css">
+	<link rel="stylesheet" type="text/css" href="/css/common.css?v284">
+<link rel="stylesheet" type="text/css" href="/ccss/us_en_us_beezid_284.css">
 	<link rel="stylesheet" type="text/css" href="/css/external.css?v4">
-<link rel="stylesheet" type="text/css" href="/themed/strike_leaderboard_2014/css/strike_leaderboard_2014.css"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KJ3CRW"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/prototype/1.7.1.0/prototype.js"></script>
+
+	<link rel="stylesheet" type="text/css" href="/css/promo_banner.css?v3">
+<link rel="stylesheet" type="text/css" href="/themed/egg_hunt_2014/egg_hunt_2014.css?v8"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KJ3CRW"></script><script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/prototype/1.7.1.0/prototype.js"></script>
 <script type="text/javascript">
 			if(!(window.Prototype)) {
 				document.write('<script type="text/javascript" src="/app/webroot/js/ext-cached/ajax.googleapis.com/ajax/libs/prototype/1.7.1.0/prototype.js"><\/script>');
@@ -36,7 +38,7 @@
 		</script><script type="text/javascript" src="/app/webroot/js/ext-cached/ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js"></script>
 
 	<script type="text/javascript" src="/js/prototip/prototip.js?v1"></script>
-<script type="text/javascript" src="/cjs/us_en_us_beezid_346.js"></script>
+<script type="text/javascript" src="/cjs/us_en_us_beezid_389.js"></script>
 <script type="text/javascript">
 //<![CDATA[
 
@@ -44,6 +46,7 @@
 	var BADSNIPER = 11;
 	var BADSNIPER_LOW = 23;
 	var NOBIDS = 10;
+	var INCOMPLETE_REG = 31;
 	var AUTOBID_ALREADY_SET = 12;
 	var SNIPER_ALREADY_SET = 13;
 	var AUTOBID_INACTIVE_AUCTION = 9;
@@ -60,15 +63,10 @@
 	var AUTOBID_RESERVED_BIDS = 8;
 	var PRE_BID_WARNING = 29;
 	var buyBidsURL = '/my_account/buy_bids';
+	var completeRegURL = '/my_account/buy_bids';
 	var buyBidsLink = '<a href="/my_account/buy_bids">here</a>';
-	Beezid.info = new BzdInfo({"beezidVersion":"3.1416","userId":0,"username":null,"firstName":null,"lastName":null,"idleTimeout":900,"bidLock":false});
-//]]>
-</script><script type="text/javascript">
-//<![CDATA[
-
-	Beezid.storeCache = [];
+	Beezid.info = new BzdInfo({"beezidVersion":"3.1416","userId":0,"username":"","firstName":"","lastName":"","idleTimeout":900,"bidLock":false});
 	initFuncs.push(function () {
-		Beezid.storeManager = new StoreManager();
 		Beezid.watchlistManager = new WatchlistManager();
 	Beezid.autobidManager = new AutobidManager();});
 //]]>
@@ -77,7 +75,7 @@
 
 		refer();
 		var siteTimeDiff = 0;
-		var timeZone = "EST";
+		var timeZone = "EDT";
 		var timeFormat = "m-d-Y H:i:s";
 	
 //]]>
@@ -125,9 +123,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   <div id="div_cache"></div>	<button class="gotop btn" id="gotop"><i class="icon icon-gotop"></i></button>
 
 	<div class="common_main_header">
+	<div id="header_top_banner"></div>
 <div class="common_tp_1">
 	<div class="common_logo">
-	<a href="http://www.beezid.com"><img src="/img/pages/common/common_beezid_logo.png?v1" alt="discounted items for sale &amp; auctions" border="0"></a>	</div>
+	<a href="http://www.beezid.com"><img src="/img/pages/common/common_beezid_logo.png?v1" alt="discounted items for sale &amp; auctions" title="Penny auction - Beezid" border="0"></a>	</div>
 	<div class="common_lb_holder">
 	<script type="text/javascript">
 //<![CDATA[
@@ -155,8 +154,8 @@ initFuncs.push(function() {
 		<div id="uCheckRegister" class="hdr_log_box" style="display: none">
 		<!-- LOGIN BOX -->
 		<div class="common_login_box">
-            <!-- LOGIN FORM -->
-            <form id="login_box_form" method="post" action="https://www.beezid.com/users/login">
+			<!-- LOGIN FORM -->
+			<form id="login_box_form" method="post" action="https://www.beezid.com/users/login">
 				<input name="data[User][username]" id="UserUsername" type="text" maxlength="45" value="Username/Email">
 				<input type="text" name="data[User][password]" id="UserPassword" value="Password">
 				<a href="/forgotten-password" class="fgt_pass">Forgot Password?</a>				<input type="submit" value="LOGIN" class="btn btn-primary common_login_btn" id="common_login_btn">
@@ -199,30 +198,33 @@ initFuncs.push(function() {
 						}
 					});
 				</script>
-            </form>
+			</form>
             <!-- LOGIN FORM -->
 		</div>
 	</div>
-    <div class="clear"></div>
+	<div class="clear"></div>
 		<div id="uCheckLogged" class="hdr_log_box" style="display:none">
 		<!-- LOGIN BOX -->
 		<div class="common_login_box">
-            <!-- USER INFO -->
-            <p class="common_login_box_login_name">Hi <strong id="userFName">&nbsp;</strong> Welcome Back!</p>
+			<!-- USER INFO -->
+			<p class="common_login_box_login_name">Welcome <span id="userFName">&nbsp;</span>!</p>
 
-			<a href="/my_account/invite_friend" class="btn_login_box_invite_friend_normal">Invite your friends. Get Paid in Bids.</a>
-            <div class="common_login_box_exit">
-			<a href="https://www.beezid.com/logout">LOG OUT</a>            </div>
-            <div class="clear"></div>
-            <!-- /USER INFO -->
+			<div class="btn_login_box_invite_friend_normal">
+				<img src="/img/pages/my_account/invite_friend/share_icon.png">
+				<a href="https://www.beezid.com/my_account/invite_friend"><span>$</span>HARE &amp; EARN</a>			</div>
+
+			<div class="common_login_box_exit">
+				<a href="https://www.beezid.com/logout">LOG OUT</a>			</div>
+			<div class="clear"></div>
+			<!-- /USER INFO -->
 		</div>
 	</div>
-    <div class="clear"></div>
-		<div id="joinUsNow" class="btn btn-cta btn_joinnow go_register">JOIN NOW!</div>      <div class="social_share">
+	<div class="clear"></div>
+		<div id="joinUsNow" class="btn btn-cta btn_joinnow go_register">JOIN NOW!</div>		<div class="social_share">
 
 				<div id="fb_like" class="fb_like">&nbsp;</div>
 		
-          
+
       </div>
 	</div>
 	<div class="clear"></div>
@@ -242,10 +244,10 @@ initFuncs.push(function() {
 		<div class="mega_content_switch">
 			<div class="btn-group">
 				<div class="btn active auction_count_btn">
-					<i class="icon icon-gavel"></i>Auction Items					(<b>30</b>)
+					<i class="icon icon-gavel"></i>Auction Items					(<b>28</b>)
 				</div>
 				<div class="btn  store_count_btn">
-					<i class="icon icon-shopping-cart"></i>Store Items					(<b>42</b>)
+					<i class="icon icon-shopping-cart"></i>Store Items					(<b>62</b>)
 				</div>
 			</div>
 		</div>
@@ -257,7 +259,7 @@ initFuncs.push(function() {
 						(12)
 						</b>
 						<b class="_num_store" style="display:none">
-						(14)
+						(16)
 						</b>
 					</a>
 				</p>
@@ -269,7 +271,7 @@ initFuncs.push(function() {
 						(7)
 						</b>
 						<b class="_num_store" style="display:none">
-						(5)
+						(14)
 						</b>
 					</a>
 				</p>
@@ -278,10 +280,10 @@ initFuncs.push(function() {
 				<a href="/cameras-camcorders/camcorders?sect=auctions"><img src="/img/pages/common/categories/camcorders.jpg" alt="Camcorders" rel="nofollow"></a>				<p>
 										<a href="/cameras-camcorders/camcorders?sect=auctions">
 						Camcorders						<b class="_num_auction">
-						(11)
+						(9)
 						</b>
 						<b class="_num_store" style="display:none">
-						(23)
+						(32)
 						</b>
 					</a>
 				</p>
@@ -296,10 +298,10 @@ initFuncs.push(function() {
 		<div class="mega_content_switch">
 			<div class="btn-group">
 				<div class="btn active auction_count_btn">
-					<i class="icon icon-gavel"></i>Auction Items					(<b>16</b>)
+					<i class="icon icon-gavel"></i>Auction Items					(<b>17</b>)
 				</div>
 				<div class="btn  store_count_btn">
-					<i class="icon icon-shopping-cart"></i>Store Items					(<b>8</b>)
+					<i class="icon icon-shopping-cart"></i>Store Items					(<b>9</b>)
 				</div>
 			</div>
 		</div>
@@ -308,10 +310,10 @@ initFuncs.push(function() {
 				<a href="/cars/gps-systems-accessories?sect=auctions"><img src="/img/pages/common/categories/gps-systems-accessories.jpg" alt="GPS Systems &amp; Accessories" rel="nofollow"></a>				<p>
 										<a href="/cars/gps-systems-accessories?sect=auctions">
 						GPS Systems &amp; Accessories						<b class="_num_auction">
-						(7)
+						(8)
 						</b>
 						<b class="_num_store" style="display:none">
-						(5)
+						(7)
 						</b>
 					</a>
 				</p>
@@ -323,7 +325,7 @@ initFuncs.push(function() {
 						(4)
 						</b>
 						<b class="_num_store" style="display:none">
-						(3)
+						(2)
 						</b>
 					</a>
 				</p>
@@ -350,10 +352,10 @@ initFuncs.push(function() {
 		<div class="mega_content_switch">
 			<div class="btn-group">
 				<div class="btn active auction_count_btn">
-					<i class="icon icon-gavel"></i>Auction Items					(<b>109</b>)
+					<i class="icon icon-gavel"></i>Auction Items					(<b>95</b>)
 				</div>
 				<div class="btn  store_count_btn">
-					<i class="icon icon-shopping-cart"></i>Store Items					(<b>90</b>)
+					<i class="icon icon-shopping-cart"></i>Store Items					(<b>110</b>)
 				</div>
 			</div>
 		</div>
@@ -362,10 +364,10 @@ initFuncs.push(function() {
 				<a href="/computers/laptops?sect=auctions"><img src="/img/pages/common/categories/laptops.jpg" alt="Laptops &amp; Notebooks" rel="nofollow"></a>				<p>
 										<a href="/computers/laptops?sect=auctions">
 						Laptops &amp; Notebooks						<b class="_num_auction">
-						(14)
+						(7)
 						</b>
 						<b class="_num_store" style="display:none">
-						(19)
+						(16)
 						</b>
 					</a>
 				</p>
@@ -374,7 +376,7 @@ initFuncs.push(function() {
 				<a href="/computers/ipad-tablets?sect=auctions"><img src="/img/pages/common/categories/ipad-tablets.jpg" alt="iPad &amp; Tablets" rel="nofollow"></a>				<p>
 										<a href="/computers/ipad-tablets?sect=auctions">
 						iPad &amp; Tablets						<b class="_num_auction">
-						(63)
+						(51)
 						</b>
 						<b class="_num_store" style="display:none">
 						(15)
@@ -389,7 +391,7 @@ initFuncs.push(function() {
 						(6)
 						</b>
 						<b class="_num_store" style="display:none">
-						(0)
+						(3)
 						</b>
 					</a>
 				</p>
@@ -401,7 +403,7 @@ initFuncs.push(function() {
 						(9)
 						</b>
 						<b class="_num_store" style="display:none">
-						(21)
+						(26)
 						</b>
 					</a>
 				</p>
@@ -410,10 +412,10 @@ initFuncs.push(function() {
 				<a href="/computers/all-in-one-desktop-pc?sect=auctions"><img src="/img/pages/common/categories/all-in-one-desktop-pc.jpg" alt="All-In-One Desktops &amp; PCs" rel="nofollow"></a>				<p>
 										<a href="/computers/all-in-one-desktop-pc?sect=auctions">
 						All-In-One Desktops &amp; PCs						<b class="_num_auction">
-						(4)
+						(5)
 						</b>
 						<b class="_num_store" style="display:none">
-						(6)
+						(5)
 						</b>
 					</a>
 				</p>
@@ -422,10 +424,10 @@ initFuncs.push(function() {
 				<a href="/computers/accessories-pc?sect=auctions"><img src="/img/pages/common/categories/accessories-pc.jpg" alt="Accessories" rel="nofollow"></a>				<p>
 										<a href="/computers/accessories-pc?sect=auctions">
 						Accessories						<b class="_num_auction">
-						(13)
+						(17)
 						</b>
 						<b class="_num_store" style="display:none">
-						(29)
+						(45)
 						</b>
 					</a>
 				</p>
@@ -440,10 +442,10 @@ initFuncs.push(function() {
 		<div class="mega_content_switch">
 			<div class="btn-group">
 				<div class="btn active auction_count_btn">
-					<i class="icon icon-gavel"></i>Auction Items					(<b>68</b>)
+					<i class="icon icon-gavel"></i>Auction Items					(<b>69</b>)
 				</div>
 				<div class="btn  store_count_btn">
-					<i class="icon icon-shopping-cart"></i>Store Items					(<b>140</b>)
+					<i class="icon icon-shopping-cart"></i>Store Items					(<b>205</b>)
 				</div>
 			</div>
 		</div>
@@ -455,7 +457,7 @@ initFuncs.push(function() {
 						(2)
 						</b>
 						<b class="_num_store" style="display:none">
-						(9)
+						(8)
 						</b>
 					</a>
 				</p>
@@ -464,10 +466,10 @@ initFuncs.push(function() {
 				<a href="/movies-music/headphones?sect=auctions"><img src="/img/pages/common/categories/headphones.jpg" alt="Headphones" rel="nofollow"></a>				<p>
 										<a href="/movies-music/headphones?sect=auctions">
 						Headphones						<b class="_num_auction">
-						(15)
+						(16)
 						</b>
 						<b class="_num_store" style="display:none">
-						(35)
+						(38)
 						</b>
 					</a>
 				</p>
@@ -476,10 +478,10 @@ initFuncs.push(function() {
 				<a href="/movies-music/ipod-mp3-players?sect=auctions"><img src="/img/pages/common/categories/ipod-mp3-players.jpg" alt="iPod &amp; MP3 Players" rel="nofollow"></a>				<p>
 										<a href="/movies-music/ipod-mp3-players?sect=auctions">
 						iPod &amp; MP3 Players						<b class="_num_auction">
-						(23)
+						(22)
 						</b>
 						<b class="_num_store" style="display:none">
-						(63)
+						(95)
 						</b>
 					</a>
 				</p>
@@ -488,10 +490,10 @@ initFuncs.push(function() {
 				<a href="/tv-video/system-home-theatre?sect=auctions"><img src="/img/pages/common/categories/system-home-theatre.jpg" alt="Home Theatre" rel="nofollow"></a>				<p>
 										<a href="/tv-video/system-home-theatre?sect=auctions">
 						Home Theatre						<b class="_num_auction">
-						(10)
+						(9)
 						</b>
 						<b class="_num_store" style="display:none">
-						(19)
+						(45)
 						</b>
 					</a>
 				</p>
@@ -500,10 +502,10 @@ initFuncs.push(function() {
 				<a href="/movies-music/instruments?sect=auctions"><img src="/img/pages/common/categories/instruments.jpg" alt="Instruments" rel="nofollow"></a>				<p>
 										<a href="/movies-music/instruments?sect=auctions">
 						Instruments						<b class="_num_auction">
-						(7)
+						(8)
 						</b>
 						<b class="_num_store" style="display:none">
-						(6)
+						(10)
 						</b>
 					</a>
 				</p>
@@ -512,10 +514,10 @@ initFuncs.push(function() {
 				<a href="/cars/gps-systems-accessories?sect=auctions"><img src="/img/pages/common/categories/gps-systems-accessories.jpg" alt="GPS Systems &amp; Accessories" rel="nofollow"></a>				<p>
 										<a href="/cars/gps-systems-accessories?sect=auctions">
 						GPS Systems &amp; Accessories						<b class="_num_auction">
-						(7)
+						(8)
 						</b>
 						<b class="_num_store" style="display:none">
-						(5)
+						(7)
 						</b>
 					</a>
 				</p>
@@ -527,7 +529,7 @@ initFuncs.push(function() {
 						(4)
 						</b>
 						<b class="_num_store" style="display:none">
-						(3)
+						(2)
 						</b>
 					</a>
 				</p>
@@ -542,10 +544,10 @@ initFuncs.push(function() {
 		<div class="mega_content_switch">
 			<div class="btn-group">
 				<div class="btn active auction_count_btn">
-					<i class="icon icon-gavel"></i>Auction Items					(<b>53</b>)
+					<i class="icon icon-gavel"></i>Auction Items					(<b>82</b>)
 				</div>
 				<div class="btn  store_count_btn">
-					<i class="icon icon-shopping-cart"></i>Store Items					(<b>124</b>)
+					<i class="icon icon-shopping-cart"></i>Store Items					(<b>245</b>)
 				</div>
 			</div>
 		</div>
@@ -554,10 +556,10 @@ initFuncs.push(function() {
 				<a href="/fun-games/toys?sect=auctions"><img src="/img/pages/common/categories/toys.jpg" alt="Toys" rel="nofollow"></a>				<p>
 										<a href="/fun-games/toys?sect=auctions">
 						Toys						<b class="_num_auction">
-						(16)
+						(26)
 						</b>
 						<b class="_num_store" style="display:none">
-						(20)
+						(56)
 						</b>
 					</a>
 				</p>
@@ -566,10 +568,10 @@ initFuncs.push(function() {
 				<a href="/fun-games/sporting-goods?sect=auctions"><img src="/img/pages/common/categories/sporting-goods.jpg" alt="Sporting Goods" rel="nofollow"></a>				<p>
 										<a href="/fun-games/sporting-goods?sect=auctions">
 						Sporting Goods						<b class="_num_auction">
-						(2)
+						(8)
 						</b>
 						<b class="_num_store" style="display:none">
-						(10)
+						(31)
 						</b>
 					</a>
 				</p>
@@ -578,10 +580,10 @@ initFuncs.push(function() {
 				<a href="/fun-games/cool-stuff?sect=auctions"><img src="/img/pages/common/categories/cool-stuff.jpg" alt="Cool Stuff" rel="nofollow"></a>				<p>
 										<a href="/fun-games/cool-stuff?sect=auctions">
 						Cool Stuff						<b class="_num_auction">
-						(35)
+						(48)
 						</b>
 						<b class="_num_store" style="display:none">
-						(94)
+						(158)
 						</b>
 					</a>
 				</p>
@@ -596,10 +598,10 @@ initFuncs.push(function() {
 		<div class="mega_content_switch">
 			<div class="btn-group">
 				<div class="btn active auction_count_btn">
-					<i class="icon icon-gavel"></i>Auction Items					(<b>129</b>)
+					<i class="icon icon-gavel"></i>Auction Items					(<b>146</b>)
 				</div>
 				<div class="btn  store_count_btn">
-					<i class="icon icon-shopping-cart"></i>Store Items					(<b>293</b>)
+					<i class="icon icon-shopping-cart"></i>Store Items					(<b>557</b>)
 				</div>
 			</div>
 		</div>
@@ -608,10 +610,10 @@ initFuncs.push(function() {
 				<a href="/home-garden/kitchen-appliances?sect=auctions"><img src="/img/pages/common/categories/kitchen-appliances.jpg" alt="Kitchen &amp; Appliances" rel="nofollow"></a>				<p>
 										<a href="/home-garden/kitchen-appliances?sect=auctions">
 						Kitchen &amp; Appliances						<b class="_num_auction">
-						(46)
+						(47)
 						</b>
 						<b class="_num_store" style="display:none">
-						(94)
+						(181)
 						</b>
 					</a>
 				</p>
@@ -620,10 +622,10 @@ initFuncs.push(function() {
 				<a href="/home-garden/backyard-stuff?sect=auctions"><img src="/img/pages/common/categories/backyard-stuff.jpg" alt="Outdoor &amp; Backyard Stuff" rel="nofollow"></a>				<p>
 										<a href="/home-garden/backyard-stuff?sect=auctions">
 						Outdoor &amp; Backyard Stuff						<b class="_num_auction">
-						(30)
+						(58)
 						</b>
 						<b class="_num_store" style="display:none">
-						(79)
+						(235)
 						</b>
 					</a>
 				</p>
@@ -632,10 +634,10 @@ initFuncs.push(function() {
 				<a href="/home-garden/vacuums-home-care?sect=auctions"><img src="/img/pages/common/categories/vacuums-home-care.jpg" alt="Vacuums &amp; Home Care" rel="nofollow"></a>				<p>
 										<a href="/home-garden/vacuums-home-care?sect=auctions">
 						Vacuums &amp; Home Care						<b class="_num_auction">
-						(24)
+						(22)
 						</b>
 						<b class="_num_store" style="display:none">
-						(40)
+						(42)
 						</b>
 					</a>
 				</p>
@@ -644,10 +646,10 @@ initFuncs.push(function() {
 				<a href="/home-garden/tools-hardware?sect=auctions"><img src="/img/pages/common/categories/tools-hardware.jpg" alt="Tools &amp; Hardware" rel="nofollow"></a>				<p>
 										<a href="/home-garden/tools-hardware?sect=auctions">
 						Tools &amp; Hardware						<b class="_num_auction">
-						(29)
+						(19)
 						</b>
 						<b class="_num_store" style="display:none">
-						(80)
+						(99)
 						</b>
 					</a>
 				</p>
@@ -662,10 +664,10 @@ initFuncs.push(function() {
 		<div class="mega_content_switch">
 			<div class="btn-group">
 				<div class="btn active auction_count_btn">
-					<i class="icon icon-gavel"></i>Auction Items					(<b>49</b>)
+					<i class="icon icon-gavel"></i>Auction Items					(<b>41</b>)
 				</div>
 				<div class="btn  store_count_btn">
-					<i class="icon icon-shopping-cart"></i>Store Items					(<b>194</b>)
+					<i class="icon icon-shopping-cart"></i>Store Items					(<b>292</b>)
 				</div>
 			</div>
 		</div>
@@ -674,10 +676,10 @@ initFuncs.push(function() {
 				<a href="/lifestyle-fashion/self-grooming?sect=auctions"><img src="/img/pages/common/categories/self-grooming.jpg" alt="Health &amp; Self Grooming" rel="nofollow"></a>				<p>
 										<a href="/lifestyle-fashion/self-grooming?sect=auctions">
 						Health &amp; Self Grooming						<b class="_num_auction">
-						(19)
+						(17)
 						</b>
 						<b class="_num_store" style="display:none">
-						(85)
+						(104)
 						</b>
 					</a>
 				</p>
@@ -686,10 +688,10 @@ initFuncs.push(function() {
 				<a href="/lifestyle-fashion/jewelry?sect=auctions"><img src="/img/pages/common/categories/jewelry.jpg" alt="Jewelry" rel="nofollow"></a>				<p>
 										<a href="/lifestyle-fashion/jewelry?sect=auctions">
 						Jewelry						<b class="_num_auction">
-						(26)
+						(17)
 						</b>
 						<b class="_num_store" style="display:none">
-						(90)
+						(141)
 						</b>
 					</a>
 				</p>
@@ -698,10 +700,10 @@ initFuncs.push(function() {
 				<a href="/lifestyle-fashion/fashion-accessories?sect=auctions"><img src="/img/pages/common/categories/fashion-accessories.jpg" alt="Fashion Accessories" rel="nofollow"></a>				<p>
 										<a href="/lifestyle-fashion/fashion-accessories?sect=auctions">
 						Fashion Accessories						<b class="_num_auction">
-						(4)
+						(7)
 						</b>
 						<b class="_num_store" style="display:none">
-						(19)
+						(47)
 						</b>
 					</a>
 				</p>
@@ -716,10 +718,10 @@ initFuncs.push(function() {
 		<div class="mega_content_switch">
 			<div class="btn-group">
 				<div class="btn active auction_count_btn">
-					<i class="icon icon-gavel"></i>Auction Items					(<b>70</b>)
+					<i class="icon icon-gavel"></i>Auction Items					(<b>65</b>)
 				</div>
 				<div class="btn  store_count_btn">
-					<i class="icon icon-shopping-cart"></i>Store Items					(<b>33</b>)
+					<i class="icon icon-shopping-cart"></i>Store Items					(<b>56</b>)
 				</div>
 			</div>
 		</div>
@@ -728,7 +730,7 @@ initFuncs.push(function() {
 				<a href="/mobiles/phones?sect=auctions"><img src="/img/pages/common/categories/phones.jpg" alt="Phones" rel="nofollow"></a>				<p>
 										<a href="/mobiles/phones?sect=auctions">
 						Phones						<b class="_num_auction">
-						(6)
+						(8)
 						</b>
 						<b class="_num_store" style="display:none">
 						(0)
@@ -740,10 +742,10 @@ initFuncs.push(function() {
 				<a href="/mobiles/accessories-phone?sect=auctions"><img src="/img/pages/common/categories/accessories-phone.jpg" alt="Phone Accessories" rel="nofollow"></a>				<p>
 										<a href="/mobiles/accessories-phone?sect=auctions">
 						Phone Accessories						<b class="_num_auction">
-						(1)
+						(6)
 						</b>
 						<b class="_num_store" style="display:none">
-						(18)
+						(41)
 						</b>
 					</a>
 				</p>
@@ -752,7 +754,7 @@ initFuncs.push(function() {
 				<a href="/computers/ipad-tablets?sect=auctions"><img src="/img/pages/common/categories/ipad-tablets.jpg" alt="iPad &amp; Tablets" rel="nofollow"></a>				<p>
 										<a href="/computers/ipad-tablets?sect=auctions">
 						iPad &amp; Tablets						<b class="_num_auction">
-						(63)
+						(51)
 						</b>
 						<b class="_num_store" style="display:none">
 						(15)
@@ -770,10 +772,10 @@ initFuncs.push(function() {
 		<div class="mega_content_switch">
 			<div class="btn-group">
 				<div class="btn active auction_count_btn">
-					<i class="icon icon-gavel"></i>Auction Items					(<b>75</b>)
+					<i class="icon icon-gavel"></i>Auction Items					(<b>76</b>)
 				</div>
 				<div class="btn  store_count_btn">
-					<i class="icon icon-shopping-cart"></i>Store Items					(<b>133</b>)
+					<i class="icon icon-shopping-cart"></i>Store Items					(<b>174</b>)
 				</div>
 			</div>
 		</div>
@@ -782,10 +784,10 @@ initFuncs.push(function() {
 				<a href="/movies-music/headphones?sect=auctions"><img src="/img/pages/common/categories/headphones.jpg" alt="Headphones" rel="nofollow"></a>				<p>
 										<a href="/movies-music/headphones?sect=auctions">
 						Headphones						<b class="_num_auction">
-						(15)
+						(16)
 						</b>
 						<b class="_num_store" style="display:none">
-						(35)
+						(38)
 						</b>
 					</a>
 				</p>
@@ -794,10 +796,10 @@ initFuncs.push(function() {
 				<a href="/movies-music/ipod-mp3-players?sect=auctions"><img src="/img/pages/common/categories/ipod-mp3-players.jpg" alt="iPod &amp; MP3 Players" rel="nofollow"></a>				<p>
 										<a href="/movies-music/ipod-mp3-players?sect=auctions">
 						iPod &amp; MP3 Players						<b class="_num_auction">
-						(23)
+						(22)
 						</b>
 						<b class="_num_store" style="display:none">
-						(63)
+						(95)
 						</b>
 					</a>
 				</p>
@@ -806,10 +808,10 @@ initFuncs.push(function() {
 				<a href="/movies-music/instruments?sect=auctions"><img src="/img/pages/common/categories/instruments.jpg" alt="Instruments" rel="nofollow"></a>				<p>
 										<a href="/movies-music/instruments?sect=auctions">
 						Instruments						<b class="_num_auction">
-						(7)
+						(8)
 						</b>
 						<b class="_num_store" style="display:none">
-						(6)
+						(10)
 						</b>
 					</a>
 				</p>
@@ -821,7 +823,7 @@ initFuncs.push(function() {
 						(30)
 						</b>
 						<b class="_num_store" style="display:none">
-						(29)
+						(31)
 						</b>
 					</a>
 				</p>
@@ -836,10 +838,10 @@ initFuncs.push(function() {
 		<div class="mega_content_switch">
 			<div class="btn-group">
 				<div class="btn active auction_count_btn">
-					<i class="icon icon-gavel"></i>Auction Items					(<b>62</b>)
+					<i class="icon icon-gavel"></i>Auction Items					(<b>56</b>)
 				</div>
 				<div class="btn  store_count_btn">
-					<i class="icon icon-shopping-cart"></i>Store Items					(<b>95</b>)
+					<i class="icon icon-shopping-cart"></i>Store Items					(<b>125</b>)
 				</div>
 			</div>
 		</div>
@@ -848,10 +850,10 @@ initFuncs.push(function() {
 				<a href="/tv-video/tvs?sect=auctions"><img src="/img/pages/common/categories/tvs.jpg" alt="TVs" rel="nofollow"></a>				<p>
 										<a href="/tv-video/tvs?sect=auctions">
 						TVs						<b class="_num_auction">
-						(12)
+						(10)
 						</b>
 						<b class="_num_store" style="display:none">
-						(23)
+						(21)
 						</b>
 					</a>
 				</p>
@@ -863,7 +865,7 @@ initFuncs.push(function() {
 						(2)
 						</b>
 						<b class="_num_store" style="display:none">
-						(9)
+						(8)
 						</b>
 					</a>
 				</p>
@@ -872,10 +874,10 @@ initFuncs.push(function() {
 				<a href="/tv-video/accessories-video?sect=auctions"><img src="/img/pages/common/categories/accessories-video.jpg" alt="TV &amp; Video Accessories" rel="nofollow"></a>				<p>
 										<a href="/tv-video/accessories-video?sect=auctions">
 						TV &amp; Video Accessories						<b class="_num_auction">
-						(8)
+						(5)
 						</b>
 						<b class="_num_store" style="display:none">
-						(15)
+						(20)
 						</b>
 					</a>
 				</p>
@@ -884,10 +886,10 @@ initFuncs.push(function() {
 				<a href="/tv-video/system-home-theatre?sect=auctions"><img src="/img/pages/common/categories/system-home-theatre.jpg" alt="Home Theatre" rel="nofollow"></a>				<p>
 										<a href="/tv-video/system-home-theatre?sect=auctions">
 						Home Theatre						<b class="_num_auction">
-						(10)
+						(9)
 						</b>
 						<b class="_num_store" style="display:none">
-						(19)
+						(45)
 						</b>
 					</a>
 				</p>
@@ -899,7 +901,7 @@ initFuncs.push(function() {
 						(30)
 						</b>
 						<b class="_num_store" style="display:none">
-						(29)
+						(31)
 						</b>
 					</a>
 				</p>
@@ -914,10 +916,10 @@ initFuncs.push(function() {
 		<div class="mega_content_switch">
 			<div class="btn-group">
 				<div class="btn active auction_count_btn">
-					<i class="icon icon-gavel"></i>Auction Items					(<b>51</b>)
+					<i class="icon icon-gavel"></i>Auction Items					(<b>40</b>)
 				</div>
 				<div class="btn  store_count_btn">
-					<i class="icon icon-shopping-cart"></i>Store Items					(<b>56</b>)
+					<i class="icon icon-shopping-cart"></i>Store Items					(<b>60</b>)
 				</div>
 			</div>
 		</div>
@@ -926,7 +928,7 @@ initFuncs.push(function() {
 				<a href="/video-games/consoles?sect=auctions"><img src="/img/pages/common/categories/consoles.jpg" alt="Consoles" rel="nofollow"></a>				<p>
 										<a href="/video-games/consoles?sect=auctions">
 						Consoles						<b class="_num_auction">
-						(17)
+						(14)
 						</b>
 						<b class="_num_store" style="display:none">
 						(7)
@@ -938,10 +940,10 @@ initFuncs.push(function() {
 				<a href="/video-games/games?sect=auctions"><img src="/img/pages/common/categories/games.jpg" alt="Games" rel="nofollow"></a>				<p>
 										<a href="/video-games/games?sect=auctions">
 						Games						<b class="_num_auction">
-						(27)
+						(24)
 						</b>
 						<b class="_num_store" style="display:none">
-						(39)
+						(41)
 						</b>
 					</a>
 				</p>
@@ -950,10 +952,10 @@ initFuncs.push(function() {
 				<a href="/video-games/accessories?sect=auctions"><img src="/img/pages/common/categories/accessories.jpg" alt="Controllers &amp; Accessories" rel="nofollow"></a>				<p>
 										<a href="/video-games/accessories?sect=auctions">
 						Controllers &amp; Accessories						<b class="_num_auction">
-						(7)
+						(2)
 						</b>
 						<b class="_num_store" style="display:none">
-						(10)
+						(12)
 						</b>
 					</a>
 				</p>
@@ -968,7 +970,7 @@ initFuncs.push(function() {
 		<div class="mega_content_switch">
 			<div class="btn-group">
 				<div class="btn active auction_count_btn">
-					<i class="icon icon-gavel"></i>Auction Items					(<b>120</b>)
+					<i class="icon icon-gavel"></i>Auction Items					(<b>129</b>)
 				</div>
 				<div class="btn  store_count_btn">
 					<i class="icon icon-shopping-cart"></i>Store Items					(<b>0</b>)
@@ -980,7 +982,7 @@ initFuncs.push(function() {
 				<a href="/vouchers/bid-packs?sect=auctions"><img src="/img/pages/common/categories/bid-packs.jpg" alt="Bid Packs" rel="nofollow"></a>				<p>
 										<a href="/vouchers/bid-packs?sect=auctions">
 						Bid Packs						<b class="_num_auction">
-						(34)
+						(46)
 						</b>
 						<b class="_num_store" style="display:none">
 						(0)
@@ -992,7 +994,7 @@ initFuncs.push(function() {
 				<a href="/vouchers/gift-cards?sect=auctions"><img src="/img/pages/common/categories/gift-cards.jpg" alt="Gift Cards" rel="nofollow"></a>				<p>
 										<a href="/vouchers/gift-cards?sect=auctions">
 						Gift Cards						<b class="_num_auction">
-						(80)
+						(76)
 						</b>
 						<b class="_num_store" style="display:none">
 						(0)
@@ -1004,7 +1006,7 @@ initFuncs.push(function() {
 				<a href="/vouchers/shopping-sprees?sect=auctions"><img src="/img/pages/common/categories/shopping-sprees.jpg" alt="Shopping Sprees" rel="nofollow"></a>				<p>
 										<a href="/vouchers/shopping-sprees?sect=auctions">
 						Shopping Sprees						<b class="_num_auction">
-						(6)
+						(7)
 						</b>
 						<b class="_num_store" style="display:none">
 						(0)
@@ -1023,32 +1025,36 @@ initFuncs.push(function() {
 	<div class="mega_content" id="mega_content-auctions-by-type">
 		<ul class="mega_auction">
 						<li>
-				<a href="/auctions/guaranteed-win"><img src="/img/pages/common/header/auctions/icn_gw.jpg" rel="nofollow" alt="Guaranteed Win Auctions"></a>				<a href="/auctions/guaranteed-win">Guaranteed Win Auctions <b>(41)</b></a>				<p>
+				<a href="/auctions/guaranteed-win"><img src="/img/pages/common/header/auctions/icn_gw.jpg" rel="nofollow" alt="Guaranteed Win Auctions"></a>				<a href="/auctions/guaranteed-win">Guaranteed Win Auctions <b>(53)</b></a>				<p>
 					These auctions guarantee you WIN with your 1st Bid Pack purchase!				</p>
 			</li>
 						<li>
-				<a href="/auctions/promo"><img src="/img/pages/common/header/auctions/promo.jpg" rel="nofollow" alt="Promo Auctions"></a>				<a href="/auctions/promo">Promo Auctions <b>(162)</b></a>				<p>
+				<a href="/auctions/promo"><img src="/img/pages/common/header/auctions/promo.jpg" rel="nofollow" alt="Promo Auctions"></a>				<a href="/auctions/promo">Promo Auctions <b>(26)</b></a>				<p>
 					These auctions have special features identified by their unique icons, like Price Freeze, etc.				</p>
 			</li>
 			<li>
-				<a href="/auctions/buy-it-now"><img src="/img/pages/common/header/auctions/icn_bin.jpg" rel="nofollow" alt="Buy It Now (BIN) Auctions"></a>				<a href="/auctions/buy-it-now">Buy It Now Auctions <b>(224)</b></a>				<p>
+				<a href="/auctions/buy-it-now"><img src="/img/pages/common/header/auctions/icn_bin.jpg" rel="nofollow" alt="Buy It Now (BIN) Auctions"></a>				<a href="/auctions/buy-it-now">Buy It Now Auctions <b>(259)</b></a>				<p>
 				Buy the item and get back ALL the bids you placed in that auction.				</p>
 			</li>
 			<li>
-				<a href="/auctions/cherry"><img src="/img/pages/common/header/auctions/icn_cherry.jpg" rel="nofollow" alt="Cherry Auctions"></a>				<a href="/auctions/cherry">Cherry Auctions <b>(44)</b></a>				<p>
+				<a href="/auctions/cherry"><img src="/img/pages/common/header/auctions/icn_cherry.jpg" rel="nofollow" alt="Cherry Auctions"></a>				<a href="/auctions/cherry">Cherry Auctions <b>(88)</b></a>				<p>
 				Easier to win! Bid with other members of the same level in these "Newbee" friendly auctions.				</p>
 			</li>
 			<hr>
 			<li>
-				<a href="/auctions/live"><img src="/img/pages/common/header/icn_myma.png" rel="nofollow" alt="All Live Auctions"></a>				<a href="/auctions/live">All Live Auctions <b>(191)</b></a>				<p>
+				<a href="/auctions/newly-added"><img src="/img/pages/common/header/icn_new.png?v1" rel="nofollow" alt="Hot New Items!"></a>				<a href="/auctions/newly-added">Hot New Items! <b>(48)</b></a>				<p>
+					Check out all the sizzling new items we've just put up for auction today!				</p>
+			</li>
+			<li>
+				<a href="/auctions/live"><img src="/img/pages/common/header/icn_myma.png" rel="nofollow" alt="All Live Auctions"></a>				<a href="/auctions/live">All Live Auctions <b>(232)</b></a>				<p>
 					Find what you're looking for with this complete list of currently active auctions.				</p>
 			</li>
 			<li>
-				<a href="/auctions/future"><img src="/img/pages/common/header/icn_future.png" rel="nofollow" alt="Future Auctions"></a>				<a href="/auctions/future">Future Auctions <b>(486)</b></a>				<p>
+				<a href="/auctions/future"><img src="/img/pages/common/header/icn_future.png" rel="nofollow" alt="Future Auctions"></a>				<a href="/auctions/future">Future Auctions <b>(479)</b></a>				<p>
 					Take a look at what's coming up for auction and set your Reminders.				</p>
 			</li>
 			<li>
-				<a href="/auctions/closed"><img src="/img/pages/common/header/icn_closed.png" rel="nofollow" alt="Closed Auctions"></a>				<a href="/auctions/closed">Closed Auctions <b>(6362)</b></a>				<p>
+				<a href="/auctions/closed"><img src="/img/pages/common/header/icn_closed.png" rel="nofollow" alt="Closed Auctions"></a>				<a href="/auctions/closed">Closed Auctions <b>(7214)</b></a>				<p>
 					Consult the closed auctions to see the amazing deals recently won by fellow Beezidders.				</p>
 			</li>
 		</ul>
@@ -1058,11 +1064,11 @@ initFuncs.push(function() {
 <a href="/auctions/newbeez">Only For Newbeez</a>	<div class="mega_content newbeez" id="mega_content-newbiz">
 		<ul class="mega_auction">
 			<a href="/auctions/newbeez" class="btn btn-see" id="ma_back-newbeez"><i class="icon icon-eye-open"></i> SEE ALL AUCTIONS</a>			<li>
-				<a href="/auctions/guaranteed-win"><img src="/img/pages/common/header/auctions/icn_gw.jpg" rel="nofollow" alt="Guaranteed Win Auctions"></a>				<a href="/auctions/guaranteed-win">Guaranteed Win Auctions <b>(41)</b></a>				<p>
+				<a href="/auctions/guaranteed-win"><img src="/img/pages/common/header/auctions/icn_gw.jpg" rel="nofollow" alt="Guaranteed Win Auctions"></a>				<a href="/auctions/guaranteed-win">Guaranteed Win Auctions <b>(53)</b></a>				<p>
 				These auctions guarantee you WIN with your 1st Bid Pack purchase!				</p>
 			</li>
 						<li>
-				<a href="/auctions/cherry"><img src="/img/pages/common/header/auctions/icn_cherry.jpg" rel="nofollow" alt="Cherry Auctions"></a>				<a href="/auctions/cherry">Cherry Auctions <b>(44)</b></a>				<p>
+				<a href="/auctions/cherry"><img src="/img/pages/common/header/auctions/icn_cherry.jpg" rel="nofollow" alt="Cherry Auctions"></a>				<a href="/auctions/cherry">Cherry Auctions <b>(88)</b></a>				<p>
 				Easier to win! Bid with other members of the same level in these "Newbee" friendly auctions.				</p>
 			</li>
 		</ul>
@@ -1530,6 +1536,22 @@ function storeDisplayTip(id, message, type) {
    <div class="block_module_bottom_title_big">&nbsp;</div>
    <div class="clear_float"></div>
    </div><br><script type="text/javascript">
+initFuncs.push(function() {
+	if (readCookie('bidcactus') == 1) {
+		$('header_top_banner').update("<div id=\"bidc_banner\" class=\"bidc_bg\">	<div class=\"bidc_cntn\">		<img src=\"/img/bid_cactus/cactus_logo.png\" alt=\"BidCactus\" />		<p><span>BidCactus</span> member? Upgrade your account to Beezid in seconds!</p>		<div id=\"bidc_close\" class=\"btn\"><i class=\"icon icon-remove\"></i></div>		<a class=\"btn btn-cta\" href=\"/bidcactus\"><i class=\"icon icon-white icon-random\"></i>Transfer My Account!</a>	</div></div>");
+		new Button({
+			elem: $('bidc_close'),
+			action: function() {
+				$('bidc_banner').hide();
+				updateCookie('bidcactus', 2);
+			}
+		});
+	} else if (readCookie('partner_uid') != null && readCookie('partner_uid') != 'done') {
+		$('header_top_banner').update("<div id=\"bidc_banner\" class=\"bidc_bg raf_ban_bg\">	<div class=\"raf_pattbg\">		<div class=\"bidc_cntn\">			<img src=\"/img/pages/my_account/invite_friend/banner/icn_gift.png\" alt=\"Gift\" />			<p>We\'ve been expecting you! Come get your <b>25 free bids!<b></p>			<a class=\"btn btn-cta\" href=\"/register\">CLAIM YOUR GIFT!</a>		</div>	</div>		</div>");
+	}
+});
+</script>
+<script type="text/javascript">
 //<![CDATA[
 coreInit()
 //]]>
@@ -1565,7 +1587,7 @@ coreInit()
 
             <div class="footer_links_holder">
               <h3>About Beezid™</h3>
-			  <a href="https://www.beezid.com/register" class="go_register">Register</a>              <a href="http://www.beezid.com/my_account">My Account</a>              <a href="http://www.beezid.com/media">Media</a>              <a href="http://www.beezid.com/contactus" rel="nofollow">Contact Us</a>              <a href="http://www.beezid.com/contests">Contests &amp; Giveaways</a>              <a href="http://www.beezid.com/blog">Official Beezid Blog</a>            </div>
+			  <a href="https://www.beezid.com/lp/lpbf/1" class="go_register">Register</a>              <a href="http://www.beezid.com/my_account">My Account</a>              <a href="http://www.beezid.com/media">Media</a>              <a href="http://www.beezid.com/contactus" rel="nofollow">Contact Us</a>              <a href="http://www.beezid.com/contests">Contests &amp; Giveaways</a>              <a href="http://www.beezid.com/blog">Official Beezid Blog</a>            </div>
 
             <div class="footer_links_holder">
               <h3>Help</h3>
@@ -1638,7 +1660,7 @@ DD_belatedPNG.fix('img, a');
 <![endif]-->
     </div>
         <div id="ajaxy" style="float: left"></div>
-<!-- node9 -->
+<!-- node4 -->
 <script type="text/javascript">
 	var _gaq = _gaq || [];
 
@@ -1682,7 +1704,7 @@ var google_conversion_value = 0;
 <img height="1" width="1" style="border-style:none;" alt="" src="https://www.googleadservices.com/pagead/conversion/1027379541/?label=YqkyCKPhxwIQ1aLy6QM&amp;guid=ON&amp;script=0"/>
 </div>
 </noscript>
-<script type="text/javascript" src="https://px.steelhousemedia.com/st?aid=9721&amp;cb=82418159378814030&amp;shcv=&amp;shcq=1&amp;shcp=&amp;shpn=&amp;shpc=&amp;shpp=&amp;shpb=&amp;shpi=&amp;shps=&amp;tdr=&amp;plh=https%3A%2F%2Fweb.archive.org%2Fweb%2F20140209104758id_%2Fhttp%253A%2F%2Fwww.beezid.com%2Fprivacy&amp;loggedIn=0&amp;uid=0&amp;extra=0"></script><script type="text/javascript">
+<script type="text/javascript" src="https://px.steelhousemedia.com/st?aid=9721&amp;cb=79259858741837580&amp;shcv=&amp;shcq=1&amp;shcp=&amp;shpn=&amp;shpc=&amp;shpp=&amp;shpb=&amp;shpi=&amp;shps=&amp;tdr=&amp;plh=https%3A%2F%2Fweb.archive.org%2Fweb%2F20140702235006id_%2Fhttp%253A%2F%2Fwww.beezid.com%2Fprivacy&amp;loggedIn=0&amp;uid=0&amp;extra=0"></script><script type="text/javascript">
 //<![CDATA[
 
 	var shver = '2.8.6';
