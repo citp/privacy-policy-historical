@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the absolutemusic.co.uk privacy policy that was archived on 2014-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140417092801id_/http%3A//www.absolutemusic.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the absolutemusic.co.uk privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702174536id_/https%3A//www.absolutemusic.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # privacy polcy | Absolute Music
 
-**OUR COMMITMENT TO PRIVACY**
+  *     * The product Epiphone Les Paul Standard Electric Guitar, Ebony has been added to comparison list.
+
+
+
+ **OUR COMMITMENT TO PRIVACY**
 
 Thank you for visiting the Absolute Music website. Protecting consumer privacy is very important to us. Our Online Privacy Statement is available to inform you about our collection and use of personal information so that you can make informed choices about how your own information is collected and used. This Online Privacy Statement reflects the Absolute Music policies covering personal information collected at this website on or after the effective date shown above. We believe that information used responsibly benefits consumers and the economy, whether it is information we house on behalf of consumers conducting transactions or information we collect on behalf of our business clients. For example, we use consumer information every day to ensure fast and accurate processing of hundreds of thousands of money transfers. In addition, Absolute Music strives to better serve our customers by offering goods and services that we believe fit their needs and interests. When identifying an opportunity, Absolute Music may use consumer information it has collected in an effort to identify consumers who may be interested in that opportunity. For more than few years, consumers and businesses have relied on Absolute Music for safe and reliable service. The relationships we have developed through the years have been established based on mutual trust. Each day we and employees and agents strive to reinforce our commitment to our clients and consumers. Central to that commitment is ensuring that we abide by a set of privacy policies, which are outlined below. These policies guide us in the collection and use of information as well as employee responsibilities in protecting your privacy. We use personal information about consumers only in a manner consistent with these policies. 
 
