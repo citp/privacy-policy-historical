@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mytscstore.com privacy policy that was archived on 2014-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140311031834id_/http%3A//www.tractorsupply.com/content_customer-solutions_tsc-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytscstore.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702233317id_/http%3A//www.tractorsupply.com/content_customer-solutions_tsc-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Tractor Supply Co.
 
