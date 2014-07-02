@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paytrace.com privacy policy that was archived on 2014-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140207235604id_/http%3A//paytrace.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paytrace.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702053540id_/http%3A//www.paytrace.com/privacy.html) for the most accurate reproduction.*
 
 # PayTrace.com | Privacy Policy
 
@@ -36,7 +36,7 @@ PayTrace is located in the United States. Any information that you provide to Pa
 
 ### Changes to this Privacy Policy
 
-PayTrace reserves the right to modify or amend this Privacy Policy at any time and for any reason. If there are material changes to this statement or in how PayTrace will use personally identifiable information, PayTrace will post notice on the PayTrace homepage at [https://PayTrace.com](https://web.archive.org/web/20140207235604id_/http%3A//paytrace.com/default.pay) prior to implementing the change. If you have additional questions about this Policy, please contact us at [support@PayTrace.com](mailto:support@PayTrace.com). 
+PayTrace reserves the right to modify or amend this Privacy Policy at any time and for any reason. If there are material changes to this statement or in how PayTrace will use personally identifiable information, PayTrace will post notice on the PayTrace homepage at [https://PayTrace.com](https://web.archive.org/web/20140702053540id_/http%3A//www.paytrace.com/default.pay) prior to implementing the change. If you have additional questions about this Policy, please contact us at [support@PayTrace.com](mailto:support@PayTrace.com). 
 
 * * *
 
