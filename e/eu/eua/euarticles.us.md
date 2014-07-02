@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the euarticles.us privacy policy that was archived on 2014-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140313110948id_/http%3A//www.euarticles.us/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the euarticles.us privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702023834id_/http%3A//www.euarticles.us/privacy-policy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy | Articles Directory - EuArticles
 
