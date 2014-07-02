@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bsnonline.net privacy policy that was archived on 2014-03-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140330092831id_/http%3A//www.bsnonline.net/policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bsnonline.net privacy policy that was archived on 2014-07-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140702121245id_/http%3A//www.bsnonline.net/policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/templates/bsn.dwt" codeOutsideHTMLIsLocked="false" --><head><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script type="text/javascript" src="/includes/js/jquery.js?t=1354117243"></script>
 
@@ -395,7 +395,7 @@ $(document).ready(function(){
                 <a href="http://www.bsnonline.net/policy_shipping.html">Shipping Policy</a><br>
                 <!--a href="http://cart.bsnonline.net/order.html">Order Tracking</a><br /-->
                 <a href="http://www.bsnonline.net/policy_returns.html">Return Policy</a><br>
-                <a href="http://gobsn.com/marketing">Distributor &amp; Retailer Portal</a>           
+                <a href="http://gobsn.co/marketing">Distributor &amp; Retailer Portal</a>           
             </div>
             <div class="policies">
                 <div class="title">Policies</div>
@@ -453,42 +453,17 @@ $(document).ready(function(){
 			$("#helpMove").animate({marginRight: "-260px"}, 500 );
 		}
 	}); 
-	
+
 ////////////////////////// BLITZ SIGNUP
-	$('#blitzText').click( function(){ 
-		if ($('#popupdiv').is(":hidden")) { 
-			$("#loadinfo").html('<img src="/templates/default/en/images/blitz_logo.png"/><p><img src="/templates/default/en/images/red_line.png"/></p><div id="blitzForm"><form name="newsletter" id="newsletter" method="post" action="http://www.bsnonline.net/_newsletter.html"> Please enter your email address below to<br />recieve the BSN&reg; Blitz Newsletter<br />				<input name="url" value="" type="hidden">					<input name="method" value="" type="hidden"><input name="BlitzEmail" id="BlitzEmail" class="header" value="Enter Your Email" onblur="clickRecall(this,\'Enter Your Email\')" onclick="clickClear(this, \'Enter Your Email\')" onClick="this.value=\'\'"  type="text">					<input name="go" id="BlitzSend" value="SEND" type="button"></form><br /><div id="errormsg" class="errormsg"></div><img src="/templates/default/en/images/red_line.png"/></div>');
-			$('#fadebg').stop().fadeIn("fast"); 
-			$("#popupdiv").stop().fadeIn("fast");//.css('display','block'); 
-		} 
+        $('#blitzText').click( function(){
+                if ($('#popupdiv').is(":hidden")) {
+                        $("#loadinfo").html('<img src="/templates/default/en/images/blitz_logo.png"/><p><img src="/templates/default/en/images/red_line.png"/></p><div id="blitzForm"><form id="newsletter" action="http://newsletter.bsnonline.net/t/y/s/aljtyi/" method="post">    <p>        <input id="fieldName" name="cm-name" type="text" class="header" value="Enter Your Name" onblur="clickRecall(this,\'Enter Your Name\')" onclick="clickClear(this, \'Enter Your Name\')" onClick="this.value=\'\'" style="width: 150px;background-color: rgb(51, 51, 51);border: 1px solid rgb(72, 72, 72);color: rgb(102, 102, 102);font-size: 12px;text-align: center;" />    </p>    <p>        <input id="fieldEmail" name="cm-aljtyi-aljtyi" type="email" required class="header" value="Enter Your Email" onblur="clickRecall(this,\'Enter Your Email\')" onclick="clickClear(this, \'Enter Your Email\')" onClick="this.value=\'\'" style="width: 150px;background-color: rgb(51, 51, 51);border: 1px solid rgb(72, 72, 72);color: rgb(102, 102, 102);font-size: 12px;text-align: center;" />    </p>    <p>        <button id="BlitzSend" type="submit">SEND</button>    </p></form><br /><div id="errormsg" class="errormsg"></div><img src="/templates/default/en/images/red_line.png"/></div>');
 
-	    $("#BlitzSend").click(function() {
-	  		var a = $('#BlitzEmail').val();
-			if (!a || isValidEmail(a)==false){
-				$('#errormsg').html('Please enter a valid email address');
-			 	return false;
-			 }
+                        $('#fadebg').stop().fadeIn("fast");
+                        $("#popupdiv").stop().fadeIn("fast");//.css('display','block');
+                }
 
-			var dataStr = $("#newsletter").serialize(); 
-			//alert(dataStr); 
-			$.ajax({ 
-						type: "POST", 
-						url: "http://www.bsnonline.net/_newsletter.html", 
-						data: dataStr, 
-						success: function(del){ 
-						var reg = new RegExp("Thank you!");
-						if (reg.test(del))
-						{	
-							$('#newsletter').hide(); 
-						}
-						$('#errormsg').html(del); 
-				} 
-			}); 
-			return false; 
-	}); 
-
-
-	}); 
+        });
 
 	
 ////////////////////////// POPUP Close
