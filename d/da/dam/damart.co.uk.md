@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the damart.co.uk privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331032101id_/http%3A//www.damart.co.uk/UKDAM_cgv_privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the damart.co.uk privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702154721id_/http%3A//www.damart.co.uk/UKDAM_cgv_privacy_policy.php) for the most accurate reproduction.*
 
 # None
 
