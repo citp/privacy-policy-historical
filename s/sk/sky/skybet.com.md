@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skybet.com privacy policy that was archived on 2014-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140605111048id_/http%3A//support.skybet.com/app/answers/detail/a_id/143) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skybet.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702174945id_/http%3A//support.skybet.com/app/answers/detail/a_id/143) for the most accurate reproduction.*
 
 # Privacy and Cookies Notice – Help - Sky Bet
 
