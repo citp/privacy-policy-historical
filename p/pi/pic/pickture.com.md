@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pickture.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214221737id_/http%3A//www.pickture.com/help/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pickture.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702181131id_/http%3A//www.pickture.com/help/policy) for the most accurate reproduction.*
 
 # Pickture - Privacy
 
