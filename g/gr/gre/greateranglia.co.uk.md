@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the greateranglia.co.uk privacy policy that was archived on 2014-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140126234454id_/http%3A//www.greateranglia.co.uk/home/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greateranglia.co.uk privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702105247id_/http%3A//www.abelliogreateranglia.co.uk/home/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy • Greater Anglia
+# Privacy Policy • Abellio Greater Anglia
 
 Abellio Greater Anglia Ltd. is sensitive to privacy issues on the Internet. We believe that it is important you know how we treat the information about you we receive on the Internet.
 
