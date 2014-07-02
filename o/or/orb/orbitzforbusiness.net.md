@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the orbitzforbusiness.net privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325234854id_/https%3A//www.orbitzforbusiness.net/pagedef/content/legal/privacy05.jsp%3FpopupsDisabled%3Dfalse) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orbitzforbusiness.net privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702033836id_/https%3A//www.orbitzforbusiness.net/pagedef/content/legal/privacy05.jsp%3FpopupsDisabled%3Dfalse) for the most accurate reproduction.*
 
 # Orbitz for Business: Privacy Policy
 
