@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wpoven.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214184940id_/https%3A//wpoven.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpoven.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702184705id_/https%3A//wpoven.com/privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Managed Wordpress Server Hosting by WPOven
+# Privacy Policy | Managed Wordpress VPS Hosting by WPOven
 
 #### Website Visitors
 
