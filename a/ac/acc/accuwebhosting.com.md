@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accuwebhosting.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626213445id_/http%3A//www.accuwebhosting.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accuwebhosting.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702195953id_/http%3A//www.accuwebhosting.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy notes from AccuWebHosting.Com
 
