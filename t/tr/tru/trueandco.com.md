@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the trueandco.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213180852id_/https%3A//trueandco.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trueandco.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702114949id_/https%3A//trueandco.com/privacy_policy) for the most accurate reproduction.*
 
-# True&Co: Your personal bra shop online
+# True&Co: Your custom bra shop online
 
 True&Co operates the website located at www.true&co.com. This Privacy Policy describes the information that is collected via our website and how that information is used. If you have any questions about our Privacy Policy, please contact us at hello@true&co.com. This Privacy Policy also applies to services and products offered by True&Co, as well as any other applications, content or features that we may from time to time offer on our website.
 
