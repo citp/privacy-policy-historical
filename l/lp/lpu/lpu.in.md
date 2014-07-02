@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the lpu.in privacy policy that was archived on 2011-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111110223643id_/http%3A//www.lpu.in/about_lpu/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lpu.in privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703015903id_/http%3A//www.lpu.in/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy
+# Lovely Professional University
 
-You may visit our website without revealing any personal information wherever permissible. Certain transactions may require submission of personal information like profile updates and certain databases. We will not sell, swap or rent, or otherwise disclose to any third party any personal information for commercial purpose and such information will be utilized only for the purpose stated. To accomplish such purpose we may disclose the information to our employees, consultants and other concerned having a genuine need to know the information.  
-  
+You may visit our website without revealing any personal information wherever permissible. Certain transactions may require submission of personal information like profile updates and certain databases. We will not sell, swap or rent, or otherwise disclose to any third party any personal information for commercial purpose and such information will be utilized only for the purpose stated. To accomplish such purpose we may disclose the information to our employees, consultants and other concerned having a genuine need to know the information.
+
 Our web server may record the numerical Internet Protocol (IP) address of the computer you are using, Information about your browser and operating system, date and time of access and page which linked you to our website. This information may be used to administer and improve our website and to generate aggregate statistical reports and such like purposes.
 
 We may use cookies and pixels or transparent GIF files to track session information and/or to deliver customizable and personalized services and information and/or for other purposes of website such information is anonymous and not personally identifiable.  
