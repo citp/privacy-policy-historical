@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the patelco.org privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214174830id_/https%3A//www.patelco.org/Privacy-Security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patelco.org privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702222733id_/https%3A//www.patelco.org/Privacy-Security) for the most accurate reproduction.*
 
 # Patelco – Security Center
 
 At Patelco, your personal and financial information   
-is secure. We have various security measures  
+is secure. We have several security measures  
 to help prevent unauthorized access to your account(s). 
 
 Explore the tabs below to learn more about our   
@@ -12,6 +12,24 @@ report and prevent any fraudulent activity.
 
 |  Current Security Alerts & Notifications   
 ---  
+  
+**New! Expanded Online Banking Security - Multi-Factor Authentication (MFA)**   
+The expansion of our MFA process provides an additional layer of security. [Read more >](https://www.patelco.org/Privacy-Security/Security-Alerts/Expanded-MFA/)  
+  
+**Important Online Security Reminders**   
+Keep your personal information current with Patelco, and other important security reminders. [Read more >](https://www.patelco.org/Privacy-Security/Security-Alerts/Security-Reminders/)  
+  
+**Account Activation Text Scam**   
+Fraudulent text messages are being sent to consumers in an effort to steal personal information. [Read more >](https://www.patelco.org/Privacy-Security/Security-Alerts/CO-OP-Text-Scam-Alert)  
+  
+**Patelco ATM Security**   
+Patelco ATMs are being upgraded with new software. [Read more >](https://www.patelco.org/Privacy-Security/Security-Alerts/ATM-Security/)  
+  
+**Microsoft IE Web Browser Security Bug**   
+Microsoft issued a security advisory warning users of a serious vulnerability in its IE web browser. [Read more >](https://www.patelco.org/Privacy-Security/Security-Alerts/Microsoft-IE-BUg/)  
+  
+**OpenSSL "Heartbleed Bug" In The Media**   
+A security vulnerability that can affect some secure Internet websites was recently disclosed. [Read more >](https://www.patelco.org/Privacy-Security/Security-Alerts/Heartbleed-Bug/)  
   
 **NCUA (National Credit Union Administration) Telephone Scam**   
 The NCUA recently issued an alert warning about a new telephone fraud scam. [Read more >](https://www.patelco.org/Privacy-Security/Security-Alerts/NCUA-Vishing-Scam/)  
@@ -58,8 +76,8 @@ At Patelco, your personal and financial information is secure and we are committ
 | Privacy Notices:  
 ---  
   
-  * **Federal Privacy Notice** – The security of your personal and financial information is our highest priority. Read our [Federal Privacy Notice Form (PDF)](https://www.patelco.org/assets/files/privacy_notice_2012.pdf) to learn how we use and protect your information. 
-  * **California Privacy Notice** – In the state of California you have the right to restrict the sharing of your personal information by organizations. You can learn more by reading the [California Privacy Notice Form (PDF)](https://www.patelco.org/assets/files/CA_privacy_notice_2012.pdf).
+  * **Federal Privacy Notice** – The security of your personal and financial information is our highest priority. Read our [Federal Privacy Notice Form (PDF)](https://www.patelco.org/assets/files/privacy_notice_2013.pdf) to learn how we use and protect your information. 
+  * **California Privacy Notice** – In the state of California you have the right to restrict the sharing of your personal information by organizations. You can learn more by reading the [California Privacy Notice Form (PDF)](https://www.patelco.org/assets/files/CA_privacy_notice_2013.pdf).
 
 
 
@@ -263,6 +281,10 @@ Enter the code in the appropriate box, and then click "Log in to Online Banking.
 
 No, you will only need it if we are unable to authenticate you. MFA is triggered whenever login activity is considered a high risk compared to usual account activity and you will be prompted to request an access code with MFA. Once you receive your access code and log in to Online Banking, your identity will be remembered until the next time something changes. 
 
+A cookie is a piece of information sent to a browser by a web server. The browser then returns that information to the web server. This is how some web pages "remember" your previous visits. For example, an e-commerce site might use a cookie to remember which items you've placed in your shopping cart. Cookies are used for authenticating, tracking, and maintaining specific information about users. They do not collect information from the user's computer but rather store information in the form of a session identification that does not personally identify the user. Private Browsing enables you to surf the web without leaving a trail on your browser. This helps prevent anyone else who might be using your computer from seeing what sites you visited and what you looked at on the web, but also disables/clears your cookies when you browse the internet. 
+
+If cookies are disabled/deleted and you use Private Browsing, you can still access Online Banking, however you will be asked for an access code (in addition to your User ID and Password) each time you log in to Online Banking. If you choose not to be asked for an access code each time you log in to Online Banking, make sure to enable cookies and turn off Private Browsing in your browser.
+
 You can elect to have your access code sent to you via email, text, or an automated phone call. Patelco must have your current email address or phone numbers on file. You can verify or update your email address and phone numbers in Online Banking in the My Profile tab. 
 
 Once in the tab, then select either Change Address/Phone or Change Email from the sub-menu. If you do not receive your access code even after updating your information, please give us a call at **800.358.8228**. 
@@ -390,7 +412,7 @@ If you discover unauthorized purchases on your account, remember that you are no
   2. Contact the three major credit bureaus to place a fraud alert on your credit file and request a credit report. The fraud alert lets creditors know that they should contact you before opening any new accounts in your name. When you make a request of one of the three bureaus, the other two bureaus will be notified automatically and all three credit reports will be sent to you free of charge. 
     * [Equifax](http://www.equifax.com/home/en_us): 800.525.6285
     * [Experian](http://www.experian.com/): 888.397.3742
-    * [Trans Union](https://www.patelco.org/Privacy-Security/www.transunion.com/): 800.680.7289
+    * [Trans Union](https://www.transunion.com/): 800.680.7289
   3. File a police report and submit a copy to your creditors
   4. File a complaint with the [Federal Trade Commission (FTC)](http://www.ftc.gov/). The FTC maintains a database of identity theft cases used by law enforcement agencies for identity theft investigations.
 
