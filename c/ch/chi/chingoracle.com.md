@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chingoracle.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213032505id_/http%3A//www.chingoracle.com/ching-oracle/ching/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chingoracle.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702181357id_/http%3A//www.chingoracle.com/ching-oracle/ching/privacy.html) for the most accurate reproduction.*
 
 # Privacy | Chingoracle.com
 
@@ -22,6 +22,8 @@ For the purposes of better safeguarding privacy, users’ surname is not request
 
 If you are merely visiting public areas of the Website, the Data Controller does not collect any personal data about users. However, the Data Controller may automatically collect information about users’ visits, such as browsing patterns. Information collected in this way does not reveal users’ contact details or any type of personal data. This anonymised information is only used in aggregate form to analyse, manage and develop the Website and is not linked to any individual.
 
+Personal data will be processed by the Data Controller and stored on servers situated in Europe or outside the European Economic Area. By users submitting their personal data, they agree to the storing and processing of their personal data as outlined in this statement.
+
 ## PURPOSES OF PERSONAL DATA
 
 The personal data provided by users are processed for the following purposes:
@@ -30,11 +32,11 @@ The personal data provided by users are processed for the following purposes:
 
 2\. to fulfil the request sent by the user to the Website and/or to subscribe to the Website and to receive the Services. In particular, the processing of personal data allows: (i) the users to actively participate to the on-line community of Chingoracle to manage a public profile and interact with other users by means of the meeting and/or entertainment services offered; (ii) the Data Controller to perform the requests and/or respond to queries made by the user and/or to periodically send to the user information and communications (such as communications relating to horoscopes, biorhythms or others subscribed services) depending on the selected Service; (iii) manage the user’s profile in order to personalise the Services; (iv) customise the content and information the user receives and the Data Controller’s communications with the user; 
 
-3\. for profiling purposes and to periodically send to the users, via e-mail, communications for direct marketing purposes relating to products or services rendered by the Data Controller and/or other companies of the Data Controller, operating in several industries, or invitations to participate in market and research surveys regarding the Services rendered by the Data Controller or other services rendered by other companies.
+3\. for profiling purposes and to periodically send to the users, via e-mail, communications for direct marketing purposes relating to products or services rendered by the Data Controller and/or other companies, operating in several industries, or invitations to participate in market and research surveys regarding the Services rendered by the Data Controller or other services rendered by other companies.
 
 ## DISCLOSURE OF PERSONAL DATA TO THIRD PARTIES
 
-The Data Controller may have the need to access and disclose personal data to third parties pertaining to one of the following categories: authorities or surveillance bodies including lawful requests from government authorities or requests by the police investigating suspected illegal activities; to operate the systems of the Data Controller properly or to protect the Data Controller or other Website users; entities which provides insurance services; companies pertaining to the Data Controller’s group; subjects, companies and firms who provide IT and maintenance services; subjects, companies and firms providing assistance to the Data Controller.
+The Data Controller may have the need to access and disclose your personal data to third parties pertaining to one of the following categories: authorities or surveillance bodies including lawful requests from government authorities or requests by the police investigating suspected illegal activities; to third parties regarding the operation, maintenance, development and improvement of the Website and the IT systems of the Data Controller (including analytics and search engine providers); to companies in the Data Controller’s Group; to selected third parties including business partners, suppliers and sub-contractors for the performance of the Services as well as companies that provide insurance services; to comply with any legal obligation; to protect the Data Controller or other Website users; to third parties if a complaint arises concerning use of the Website by a user and that use is deemed by the Data Controller to be inconsistent with its terms and conditions; in order to enforce or apply the Website’s terms and conditions.
 
 The above mentioned entities will act, as the case may be, as data processors or persons in charge of the processing or as separate data controllers. In respect of the latter, the data will be communicated only with the express consent of the user, save for cases in which the communication is compulsory or necessary by the applicable law, or for purposes for which the applicable law does not require the user’s consent. 
 
