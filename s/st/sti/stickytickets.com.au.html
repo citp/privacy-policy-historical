@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the stickytickets.com.au privacy policy that was archived on 2013-04-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20130424125657id_/http%3A//www.stickytickets.com.au/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the stickytickets.com.au privacy policy that was archived on 2014-07-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140702151738id_/https%3A//www.stickytickets.com.au/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en" xmlns:fb="http://ogp.me/ns/fb#"><!--<![endif]--><head>
     <meta charset="utf-8">
@@ -22,11 +22,10 @@
     <link href="/static/favicon2.ico" rel="shortcut icon" type="image/x-icon">
     <link rel="apple-touch-icon" href="/static/favicon2.ico">
 
-    <link rel="stylesheet" href="/static/css2/layout_h52d68c9e7b.css">
-
+    <link rel="stylesheet" href="/static/css2/layout_h2b61b61aec.css">
     
 
-    <script src="//www.google-analytics.com/ga.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+    <script src="//www.google-analytics.com/ga.js"></script><script src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
     <script>window.jQuery || document.write('<script src="/static/js/vendor/jquery.fallback.js"><\/script>')</script><script src="/static/js/vendor/jquery.fallback.js"></script>
     <!--[if (gte IE 6)&(lte IE 8)]>
         <script src="/static/js/vendor/selectivizr-min.js"></script>
@@ -34,20 +33,41 @@
     <!--[if lt IE 9]>
         <script src="/static/js/vendor/html5-3.6-respond-1.1.0.min.js"></script>
     <![endif]-->
-    
+
 <script>
     var _gaq = [['_setAccount', 'UA-29651804-1'], ['_trackPageview']];
     (function (d, t) { var g = d.createElement(t), s = d.getElementsByTagName(t)[0]; g.src = '//www.google-analytics.com/ga.js'; s.parentNode.insertBefore(g, s); }(document, 'script'));
-    function recordOutboundLink(link, category, action) {
-        try {
-            _gaq.push(['_trackEvent', category, action]);
-            setTimeout('document.location = "' + link.href + '"', 100);
-            return false;
-        } catch (err) { }
-    }
-</script>
+    $(function() {
+        $('a[data-ga-track-click]').click(function () {
+            try {
+                var link = $(this);
+                //_trackEvent(category, action, opt_label, opt_value, opt_noninteraction)
+                var category = link.data('ga-category') || 'link_click';
+                var action = link.data('ga-action') || 'click';
+                var opt_label = link.data('ga-label') || link.attr('href');
+                var opt_value= link.data('ga-value') || 1;
 
-<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script><script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="main" src="/static/js-bin/main_hashe02d0abc19.js"></script></head>
+                _gaq.push(['_trackEvent', category, action, opt_label, opt_value]);
+
+                setTimeout('document.location = "' + link.attr('href') + '"', 100);
+                return false;
+            } catch (er) {}
+        });
+
+        $('[data-ga-track-impression]').each(function () {
+
+            var el = $(this);
+            //_trackEvent(category, action, opt_label, opt_value, opt_noninteraction)
+            var category = el.data('ga-category') || 'impression';
+            var action = el.data('ga-action') || 'impression';
+            var opt_label = el.data('ga-label') || el.attr('href');
+            var opt_value = el.data('ga-value') || 1;
+
+            _gaq.push(['_trackEvent', category, action, opt_label, opt_value]);
+        });
+    });
+</script>
+<script type="text/javascript" charset="utf-8" async="" data-requirecontext="_" data-requiremodule="main" src="/static/js-bin/main_h6521e6f093.js"></script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 <body class="respond">
     <!--[if lt IE 8]>
         <p class="alert-info" style="margin: 0; font-size: 14px;">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
@@ -59,8 +79,6 @@
 
 
 
-
-    
 
 
 
@@ -74,157 +92,224 @@
                 <li><a href="/search">Find Tickets</a></li>
                 <li><a href="/sell-tickets">Sell Tickets</a></li>
                 <li><a href="/faqs">FAQs</a></li>
-                    <li class="last"><a href="/login">Log In</a> / <a href="/presignup">Register</a></li> 
+                    <li class="last"><a href="/login">Log In</a> / <a href="/presignup">Register</a></li>
             </ul>
         </nav>
     </div>
 </header>
 
 
-    <div class="satusbar clearfix">
-        <div class="container">
+<div class="satusbar clearfix">
+    <div class="container">
+            <nav>
+                <ul>
+                    <li><a href="/organiser/selectaccount">My Events</a></li>
+                    <li><a href="/member/tickets">My Tickets</a></li>
+                </ul>
+            </nav>
 
-        </div>
+
     </div>
+</div>
 
-
-
-    <section>
-    <div class="inner">
-        <div class="container">
-            <div class="row">
-                <div class="span12">
-
-                    <h1>Privacy Statement</h1>
-                    <h3>Collection of Personal Information</h3>
-                    <p>Sticky Tickets Australia Pty Ltd (“Sticky Tickets”) is the sole owner of all information collected on <a href="http://www.stickytickets.com.au">www.stickytickets.com.au</a>.</p>
-                    <p>Sticky Tickets collects certain personally identifiable information from our coordinators, contributors and other parties via the website for the purpose of providing our service.</p>
-                    <p>
-                        In order to provide our service and receive payment for that service, we may request certain personally identifiable information from you. You must provide accurate contact information (such as name, email,
+    <div id="contentBody">
+        <section>
+            <div id="layoutContainer" class="container">
+                <div id="layoutSectionInner">
+                    
+<h1>Privacy Statement</h1>
+<h3>Collection of Personal Information</h3>
+<p>Sticky Tickets Australia Pty Ltd (“Sticky Tickets”) is the sole owner of all information collected on <a href="https://www.stickytickets.com.au">www.stickytickets.com.au</a>.</p>
+<p>Sticky Tickets collects certain personally identifiable information from our coordinators, contributors and other parties via the website for the purpose of providing our service.</p>
+<p>
+    In order to provide our service and receive payment for that service, we may request certain personally identifiable information from you. You must provide accurate contact information (such as name, email,
 	and residential address) and financial information (such as credit card number, expiration date) to receive services from Sticky Tickets.
-                    </p>
-                    <p>We use this information to execute your request for a service/product. If we have trouble processing an order, we may use this information to contact you.</p>
-                    <p>Providing incorrect information will inhibit our ability to provide a service and may lead to non-provision of services.</p>
-                    <p>Sellers and Users may receive emails relating to their sales and purchases, or relating to further offers on the site.</p>
-                    <p>Sticky Tickets will collect information generated by its web servers for the purpose of assessing the technical performance of its systems and to improve service levels.</p>
-                    <p>We will not collect sensitive information about you from anyone else without your consent.</p>
-                    <h3>Use and Disclosure of Information</h3>
-                    <p>
-                        We will use personal information you provide to us for the purpose of providing you with the service or product that you have requested.
+</p>
+<p>We use this information to execute your request for a service/product. If we have trouble processing an order, we may use this information to contact you.</p>
+<p>Providing incorrect information will inhibit our ability to provide a service and may lead to non-provision of services.</p>
+<p>Sellers and Users may receive emails relating to their sales and purchases, or relating to further offers on the site.</p>
+<p>Sticky Tickets will collect information generated by its web servers for the purpose of assessing the technical performance of its systems and to improve service levels.</p>
+<p>We will not collect sensitive information about you from anyone else without your consent.</p>
+<h3>Use and Disclosure of Information</h3>
+<p>
+    We will use personal information you provide to us for the purpose of providing you with the service or product that you have requested.
                     </p><p>We will not disclose any of your personal information to a third party, unless:</p>
-                    <ul>
-                        <li>you have authorised the disclosure;</li>
-                        <li>it is necessary to provide you with services you have requested, as ascertained by Sticky Tickets;</li>
-                        <li>we are required to do so by a Court of competent jurisdiction or government regulation;</li>
-                        <li>our terms and conditions state that we will;</li>
-                        <li>disclosure is necessary to prevent or lessen a serious threat to the health or safety of an individual or the public, as ascertained by Sticky Tickets; or</li>
-                        <li>it is necessary for Sticky Tickets to disclose information for the purposes of investigating or reporting to relevant authorities a reasonably suspected unlawful activity that has been, is being, or may
+<ul>
+    <li>you have authorised the disclosure;</li>
+    <li>it is necessary to provide you with services you have requested, as ascertained by Sticky Tickets;</li>
+    <li>we are required to do so by a Court of competent jurisdiction or government regulation;</li>
+    <li>our terms and conditions state that we will;</li>
+    <li>disclosure is necessary to prevent or lessen a serious threat to the health or safety of an individual or the public, as ascertained by Sticky Tickets; or</li>
+    <li>it is necessary for Sticky Tickets to disclose information for the purposes of investigating or reporting to relevant authorities a reasonably suspected unlawful activity that has been, is being, or may
 		be committed.</li>
-                    </ul>
-                    <p>Sticky Tickets may provide aggregate information about the services and customers of Sticky Tickets to third parties, but these statistics will not contain any personally identifiable information.</p>
-                    <p>Credit Card facilities are offered via a secure site and such information is not used for any purpose other than payment for our services.</p>
-                    <h3>Access to Personally Identifiable Information</h3>
-                    <p>
-                        Individuals at all times retain the right to access their personally identifiable information to ensure its accuracy. If you wish to ensure the accuracy of such information, wish to change the details
+</ul>
+<p>Sticky Tickets may provide aggregate information about the services and customers of Sticky Tickets to third parties, but these statistics will not contain any personally identifiable information.</p>
+<p>Credit Card facilities are offered via a secure site and such information is not used for any purpose other than payment for our services.</p>
+<h3>Access to Personally Identifiable Information</h3>
+<p>
+    Individuals at all times retain the right to access their personally identifiable information to ensure its accuracy. If you wish to ensure the accuracy of such information, wish to change the details
 	given, or wish Sticky Tickets Australia Pty Ltd to delete information, you may contact Sticky Tickets at <a href="mailto:privacy@stickytickets.com.au">privacy@stickytickets.com.au</a>.
-                    </p>
-                    <h3>General Information</h3>
-                    <p>
-                        Sticky Tickets has a commitment to protecting the privacy of its customers. We employ practices and safeguards to ensure the accuracy and security of personal information. If you have any concerns about
-	privacy related to <a href="http://www.stickytickets.com.au">www.stickytickets.com.au</a> or the services therein, please contact Sticky Tickets at <a href="mailto:privacy@stickytickets.com.au">privacy@stickytickets.com.au</a>.
-                    </p>
-                    <p>
-                        <a href="http://www.stickytickets.com.au">www.stickytickets.com.au</a> may contain links to other sites that are not owned or controlled by Sticky Tickets. Sticky Tickets takes no responsibility for and cannot ensure the privacy practices of such
+</p>
+<h3>General Information</h3>
+<p>
+    Sticky Tickets has a commitment to protecting the privacy of its customers. We employ practices and safeguards to ensure the accuracy and security of personal information. If you have any concerns about
+	privacy related to <a href="https://www.stickytickets.com.au">www.stickytickets.com.au</a> or the services therein, please contact Sticky Tickets at <a href="mailto:privacy@stickytickets.com.au">privacy@stickytickets.com.au</a>.
+</p>
+<p>
+    <a href="https://www.stickytickets.com.au">www.stickytickets.com.au</a> may contain links to other sites that are not owned or controlled by Sticky Tickets. Sticky Tickets takes no responsibility for and cannot ensure the privacy practices of such
 	other .
-                    </p>
-                    <p>This privacy statement applies only to information collected by <a href="http://www.stickytickets.com.au">www.stickytickets.com.au</a> and associated sites owned and controlled by Sticky Tickets.</p>
-                    <p>Sticky Tickets reserves the right to modify this privacy statement at any time. Sellers and Users will be advised of material changes by notification on the home page of www.stickytickets.com.au.</p>
-                    <p>
-                        If Sticky Tickets enters into a business agreement such as a sale of all or part of the company or merger with another firm, personally identifiable information may be transferred to another organisation.
+</p>
+<p>This privacy statement applies only to information collected by <a href="https://www.stickytickets.com.au">www.stickytickets.com.au</a> and associated sites owned and controlled by Sticky Tickets.</p>
+<p>Sticky Tickets reserves the right to modify this privacy statement at any time. Sellers and Users will be advised of material changes by notification on the home page of www.stickytickets.com.au.</p>
+<p>
+    If Sticky Tickets enters into a business agreement such as a sale of all or part of the company or merger with another firm, personally identifiable information may be transferred to another organisation.
 	Sellers and Users will be notified of such transfer by notification on the home page of www.stickytickets.com.au .
-                    </p>
-                    <p>If you have any questions or comments about this privacy statement, please contact Sticky Tickets at <a href="mailto:privacy@stickytickets.com.au">privacy@stickytickets.com.au</a>.</p>
+</p>
+<p>If you have any questions or comments about this privacy statement, please contact Sticky Tickets at <a href="mailto:privacy@stickytickets.com.au">privacy@stickytickets.com.au</a>.</p>
+
                 </div>
             </div>
-        </div>
-    </div>
-</section>
-
-
-<script type="text/javascript">var require = { baseUrl: "/static/js-bin", paths: { 'organiser-area/event-editor/Event': 'organiser-area/event-editor/Event_hash521b0f28b0',
-  'organiser-area/organiser-page': 'organiser-area/organiser-page_hashea791608e0',
-  'event-editor/editor': 'event-editor/editor_hash4a141f75ee',
-  'vendor/jquery.fallback': 'vendor/jquery.fallback_hashfa59d3aad7',
-  'organiser-area/event-editor/controls': 'organiser-area/event-editor/controls_hash22f825c46b',
-  'organiser-area/event-editor/tickets': 'organiser-area/event-editor/tickets_hash6d1e7d7376',
-  'vendor/jquery-cookie': 'vendor/jquery-cookie_hash8364c95c40',
-  'event-map-display': 'event-map-display_hash4f08183f67',
-  'organiser-area/event-editor/description': 'organiser-area/event-editor/description_hash780ff294ae',
-  'event-editor/controls': 'event-editor/controls_hash22f825c46b',
-  'vendor/chosen.jquery': 'vendor/chosen.jquery_hashb703a654f2',
-  'orders/PurchaserDetailsStep': 'orders/PurchaserDetailsStep_hash9d397517bd',
-  'vendor/require': 'vendor/require_hash4222341fd0',
-  'event-editor/location': 'event-editor/location_hashfe11072571',
-  'event-editor/jquery.tools-expose': 'event-editor/jquery.tools-expose_hash483ff0f36f',
-  'organiser-area/event-editor/location': 'organiser-area/event-editor/location_hashfe11072571',
-  'event-search': 'event-search_hashec12f343bf',
-  'orders/ReserveTicketsStep': 'orders/ReserveTicketsStep_hashc590a223e1',
-  'vendor/require.t8Nw14juzWvgQ8sT1sf0mw3D3D': 'vendor/require.t8Nw14juzWvgQ8sT1sf0mw3D3D_hashdeecef4ee5',
-  'vendor/jquery-ui': 'vendor/jquery-ui_hash0be8146713',
-  'organiser-area/event-editor/config': 'organiser-area/event-editor/config_hashc3ed56555e',
-  'organiser-area/event-editor/jquery-mvc': 'organiser-area/event-editor/jquery-mvc_hash4aac849459',
-  'vendor/jquery.history': 'vendor/jquery.history_hash4e522876aa',
-  'vendor/redactor': 'vendor/redactor_hash393d4fee8b',
-  less: 'less_hashec4415ba5a',
-  'vendor/jquery.validate.unobtrusive': 'vendor/jquery.validate.unobtrusive_hashe3f7e32488',
-  'vendor/selectivizr-min': 'vendor/selectivizr-min_hash244c0fbadd',
-  'vendor/additional-methods': 'vendor/additional-methods_hashcb8df4cea0',
-  'event-editor/promocodes': 'event-editor/promocodes_hash826fdc5363',
-  'hbs/i18nprecompile': 'hbs/i18nprecompile_hashd870285f29',
-  'event-editor/Event': 'event-editor/Event_hash521b0f28b0',
-  'event-editor/privacy': 'event-editor/privacy_hash76c0f46f0c',
-  'hbs/json2': 'hbs/json2_hash2e6f7b5ae2',
-  'hbs/underscore': 'hbs/underscore_hash5f4b275aa9',
-  main: 'main_hashe02d0abc19',
-  'vendor/jquery.scrollto': 'vendor/jquery.scrollto_hash88b135027b',
-  'vendor/backbone': 'vendor/backbone_hash15bb643214',
-  'event-editor/description': 'event-editor/description_hash780ff294ae',
-  'event-editor/main': 'event-editor/main_hash95158e6f63',
-  'vendor/text': 'vendor/text_hash2b19df1bb8',
-  'orders/Backbone.Helpers': 'orders/Backbone.Helpers_hashdab6878863',
-  'event-editor/config': 'event-editor/config_hashc3ed56555e',
-  'orders/order-model': 'orders/order-model_hashcf2de5f34a',
-  'organiser-area/event-editor/main': 'organiser-area/event-editor/main_hash2de555eee6',
-  'vendor/jquery': 'vendor/jquery_hash456d42f62f',
-  'orders/TicketHolderInfoStep': 'orders/TicketHolderInfoStep_hash1e4571fc99',
-  'event-editor/when': 'event-editor/when_hashe61dcc46fa',
-  'event-editor/jquery-location-search': 'event-editor/jquery-location-search_hashf8c48e38af',
-  'organiser-area/event-editor/jquery-location-search': 'organiser-area/event-editor/jquery-location-search_hashf8c48e38af',
-  'vendor/html5-3.6-respond-1.1.0.min': 'vendor/html5-3.6-respond-1.1.0.min_hashdaf60a1cf3',
-  'event-editor/jquery-mvc': 'event-editor/jquery-mvc_hash4aac849459',
-  'organiser-area/event-editor/editor': 'organiser-area/event-editor/editor_hash4a141f75ee',
-  'event-editor/tickets': 'event-editor/tickets_hash6d1e7d7376',
-  'orders/WizardView': 'orders/WizardView_hash5d153bb270',
-  'jquery-1.7.2.min': 'jquery-1.7.2.min_hashb53128d94e',
-  faqs: 'faqs_hash038bef6ad0',
-  'orders/IdentificationStep': 'orders/IdentificationStep_hashf9aa3bb90d',
-  'fee-calculator': 'fee-calculator_hashd7ef6cd733',
-  'sell-tickets': 'sell-tickets_hashf767dc07dd',
-  'orders/PaymentStep': 'orders/PaymentStep_hash8735716509',
-  'orders/main': 'orders/main_hasha21bd169ee',
-  'organiser-area/event-editor/promocodes': 'organiser-area/event-editor/promocodes_hash826fdc5363',
-  'organiser-area/event-editor/privacy': 'organiser-area/event-editor/privacy_hash76c0f46f0c',
-  'vendor/jquery.validate': 'vendor/jquery.validate_hash26a6475202',
-  'organiser-area/event-editor/when': 'organiser-area/event-editor/when_hashe61dcc46fa',
-  'organiser-area/event-editor/jquery.tools-expose': 'organiser-area/event-editor/jquery.tools-expose_hash483ff0f36f',
-  'vendor/selectivizr': 'vendor/selectivizr_hashaee98a4cb5',
-  handlebars: 'handlebars_hash0d848179ce',
-  'vendor/fileuploader': 'vendor/fileuploader_hash39c9c8731a',
-  hbs: 'hbs_hash1daee03efc' } }; 
+        </section>
+<script type="text/javascript">var require = { baseUrl: "/static/js-bin", paths: { 'vendor/selectivizr': 'vendor/selectivizr_h99d3c6dd95',
+  'formbuilder/DropDownList/controller': 'formbuilder/DropDownList/controller_h9ef00bbf60',
+  'vendor/fileuploader': 'vendor/fileuploader_h71a563163c',
+  'vendor/jquery.fallback': 'vendor/jquery.fallback_hdd118950a6',
+  'formbuilder/_design/main': 'formbuilder/_design/main_hf86d4d3b90',
+  'member-area/tickets/TicketView': 'member-area/tickets/TicketView_hbacd6e1b86',
+  'event-editor/privacy': 'event-editor/privacy_h76c0f46f0c',
+  'sell-tickets': 'sell-tickets_head1e3525c',
+  'formbuilder/Textbox/controller': 'formbuilder/Textbox/controller_hd3043dde78',
+  'event-search': 'event-search_h8b49fdeb39',
+  'organiser-area/custom-design/PreviewView': 'organiser-area/custom-design/PreviewView_h2cd95cb5d4',
+  'organiser-area/custom-design/main': 'organiser-area/custom-design/main_h283e3c1c31',
+  'orders/PaymentStep': 'orders/PaymentStep_ha668b9baec',
+  'vendor/chosen.jquery': 'vendor/chosen.jquery_h0072e2f831',
+  'organiser-area/event-editor/controls': 'organiser-area/event-editor/controls_h22f825c46b',
+  'event-editor/jquery.tools-expose': 'event-editor/jquery.tools-expose_h274a685dac',
+  less: 'less_h8b93c7901e',
+  'organiser-area/custom-design/MainView': 'organiser-area/custom-design/MainView_h7061fccced',
+  'event-editor/location': 'event-editor/location_hfe11072571',
+  'orders/WizardView': 'orders/WizardView_h0467a9b04d',
+  'vendor/require': 'vendor/require_ha29963a7e6',
+  'organiser-area/event-editor/editor': 'organiser-area/event-editor/editor_h4a141f75ee',
+  'orders/TicketHolderInfoStep': 'orders/TicketHolderInfoStep_h24a89b145d',
+  'organiser-area/access-control/checkin/SearchView': 'organiser-area/access-control/checkin/SearchView_ha59587989a',
+  'organiser-area/access-control/checkin/personOrdersCollection': 'organiser-area/access-control/checkin/personOrdersCollection_hada2c39ec5',
+  'vendor/jquery.history': 'vendor/jquery.history_h4e522876aa',
+  'organiser-area/custom-design/HeaderEditView': 'organiser-area/custom-design/HeaderEditView_h96e29a7ae3',
+  'hbs/i18nprecompile': 'hbs/i18nprecompile_hb959ced0c5',
+  'member-area/tickets/main': 'member-area/tickets/main_h72baaa4142',
+  'organiser-area/event-editor/config': 'organiser-area/event-editor/config_hc3ed56555e',
+  'vendor/jquery.validate.unobtrusive': 'vendor/jquery.validate.unobtrusive_h5006fd1a10',
+  'formbuilder/DownloadLink/controller': 'formbuilder/DownloadLink/controller_h97f7b091cb',
+  'vendor/html5-3.6-respond-1.1.0.min': 'vendor/html5-3.6-respond-1.1.0.min_h1c2f76232f',
+  'organiser-area/access-control/checkin/router': 'organiser-area/access-control/checkin/router_hefcca190b2',
+  'event-editor/when': 'event-editor/when_he61dcc46fa',
+  'organiser-area/access-control/summary/main': 'organiser-area/access-control/summary/main_h97de6f1eb2',
+  'access-control/checkin/stateMachine': 'access-control/checkin/stateMachine_h954c8b5f85',
+  'organiser-area/event-editor/tickets': 'organiser-area/event-editor/tickets_h7ec6297775',
+  'access-control/checkin/OrderView': 'access-control/checkin/OrderView_hf02d71ab38',
+  'vendor/backbone': 'vendor/backbone_h859b57f8da',
+  'organiser-area/access-control/checkin/main': 'organiser-area/access-control/checkin/main_h1a5cab5641',
+  'organiser-area/spectrum': 'organiser-area/spectrum_h1bb1a68c3a',
+  'member-area/tickets/resendOrderView': 'member-area/tickets/resendOrderView_h104de8b112',
+  'access-control/checkin/ResultsView': 'access-control/checkin/ResultsView_h62e10ed779',
+  'orders/OrderForm': 'orders/OrderForm_hefbe623bad',
+  'organiser-area/access-control/checkin/OrderView': 'organiser-area/access-control/checkin/OrderView_hf02d71ab38',
+  'hbs/json2': 'hbs/json2_h2e6f7b5ae2',
+  'organiser-area/event-editor/jquery-mvc': 'organiser-area/event-editor/jquery-mvc_h4aac849459',
+  'organiser-area/access-control/checkin/TicketView': 'organiser-area/access-control/checkin/TicketView_hfd6e3c3034',
+  'organiser-area/access-control/checkin/ordersCollection': 'organiser-area/access-control/checkin/ordersCollection_h9fb87b53aa',
+  'formbuilder/DynamicModule/controller': 'formbuilder/DynamicModule/controller_h2c991bcb43',
+  'vendor/bootstrap': 'vendor/bootstrap_h4679473193',
+  'orders/Backbone.Helpers': 'orders/Backbone.Helpers_h076259c8c5',
+  'access-control/checkin/main': 'access-control/checkin/main_h9344a8db32',
+  'vendor/Chart': 'vendor/Chart_h0e7d0a64fb',
+  'event-editor/Event': 'event-editor/Event_h521b0f28b0',
+  'vendor/selectivizr-min': 'vendor/selectivizr-min_h9c35c05768',
+  'access-control/checkin/SearchView': 'access-control/checkin/SearchView_ha59587989a',
+  'organiser-area/custom-design/CustomDesignModel': 'organiser-area/custom-design/CustomDesignModel_h459206c8f8',
+  'vendor/require.t8Nw14juzWvgQ8sT1sf0mw3D3D': 'vendor/require.t8Nw14juzWvgQ8sT1sf0mw3D3D_h5ab748e152',
+  'organiser-area/event-editor/when': 'organiser-area/event-editor/when_he61dcc46fa',
+  'vendor/redactor-ltie9': 'vendor/redactor-ltie9_h2c4e8c0d4e',
+  'vendor/jquery-cookie': 'vendor/jquery-cookie_h184db23a9b',
+  'organiser-area/event-editor/location': 'organiser-area/event-editor/location_hfe11072571',
+  'formbuilder/TicketsList/controller': 'formbuilder/TicketsList/controller_he1e011371c',
+  'formbuilder/_design/deleteView': 'formbuilder/_design/deleteView_hf5802d2774',
+  'formbuilder/OrderItems/controller': 'formbuilder/OrderItems/controller_h50b49f2063',
+  'organiser-area/access-control/checkin/stateMachine': 'organiser-area/access-control/checkin/stateMachine_h954c8b5f85',
+  'event-editor/config': 'event-editor/config_hc3ed56555e',
+  'organiser-area/event-editor/jquery.tools-expose': 'organiser-area/event-editor/jquery.tools-expose_h274a685dac',
+  'hbs/underscore': 'hbs/underscore_h9eec4ed193',
+  'organiser-area/custom-design/CustomDesignSettingsView': 'organiser-area/custom-design/CustomDesignSettingsView_h8b0890aa7e',
+  'orders/PurchaserDetailsStep': 'orders/PurchaserDetailsStep_h914966c93c',
+  'vendor/jquery.timeago': 'vendor/jquery.timeago_h633f94f6db',
+  'orders/IdentificationStep': 'orders/IdentificationStep_h698b3afdce',
+  'jquery-1.7.2.min': 'jquery-1.7.2.min_haae23e430e',
+  'organiser-area/shorturls/shortUrlsSelector': 'organiser-area/shorturls/shortUrlsSelector_hc197da6c9c',
+  'formbuilder/TicketingForm/controller': 'formbuilder/TicketingForm/controller_h37d998cbd1',
+  'access-control/checkin/PagingView': 'access-control/checkin/PagingView_h0cc834a8e0',
+  'event-editor/controls': 'event-editor/controls_h22f825c46b',
+  'organiser-area/event-editor/main': 'organiser-area/event-editor/main_h2de555eee6',
+  hbs: 'hbs_hf34f1d971c',
+  'event-editor/main': 'event-editor/main_h3a2ac3ef4d',
+  'organiser-area/custom-design/BoxedItemEditView': 'organiser-area/custom-design/BoxedItemEditView_hfe3e777f37',
+  'formbuilder/formbuilder': 'formbuilder/formbuilder_h4853b805ea',
+  'organiser-area/event-editor/promocodes': 'organiser-area/event-editor/promocodes_h826fdc5363',
+  'vendor/jquery': 'vendor/jquery_h456d42f62f',
+  'access-control/checkin/router': 'access-control/checkin/router_hefcca190b2',
+  handlebars: 'handlebars_h3d5c415775',
+  'event-editor/editor': 'event-editor/editor_h4a141f75ee',
+  'event-editor/promocodes': 'event-editor/promocodes_h826fdc5363',
+  'formbuilder/Container/controller': 'formbuilder/Container/controller_hf8838acbe0',
+  'organiser-area/custom-design/ContentEditView': 'organiser-area/custom-design/ContentEditView_h7a8892d363',
+  'vendor/jquery-ui': 'vendor/jquery-ui_hf336836f4d',
+  'formbuilder/formbuilder-handlerbars': 'formbuilder/formbuilder-handlerbars_hf0d95d3a90',
+  'event-editor/description': 'event-editor/description_he36f285d69',
+  'event-editor/jquery-location-search': 'event-editor/jquery-location-search_h041297bbd2',
+  main: 'main_h6521e6f093',
+  'formbuilder/Hidden/controller': 'formbuilder/Hidden/controller_h94411c1372',
+  'vendor/additional-methods': 'vendor/additional-methods_hb4c5778a24',
+  'access-control/checkin/personOrdersCollection': 'access-control/checkin/personOrdersCollection_hada2c39ec5',
+  'access-control/summary/main': 'access-control/summary/main_ha9cb98c71f',
+  'event-editor/tickets': 'event-editor/tickets_h7ec6297775',
+  'access-control/operators': 'access-control/operators_hb7853d3a7a',
+  'organiser-area/event-editor/privacy': 'organiser-area/event-editor/privacy_h76c0f46f0c',
+  'fee-calculator': 'fee-calculator_h435583ec62',
+  'formbuilder/Checkbox/controller': 'formbuilder/Checkbox/controller_he62f92e001',
+  'vendor/jquery.scrollto': 'vendor/jquery.scrollto_h6e18e96268',
+  'event-editor/jquery-mvc': 'event-editor/jquery-mvc_h4aac849459',
+  faqs: 'faqs_h038bef6ad0',
+  'formbuilder/PurchaserForm/controller': 'formbuilder/PurchaserForm/controller_h530260fc76',
+  'organiser-area/custom-design/BackgroundEditView': 'organiser-area/custom-design/BackgroundEditView_hbc3d690e1d',
+  'organiser-area/event-editor/Event': 'organiser-area/event-editor/Event_h521b0f28b0',
+  'organiser-area/access-control/operators': 'organiser-area/access-control/operators_hb7853d3a7a',
+  'organiser-area/event-editor/jquery-location-search': 'organiser-area/event-editor/jquery-location-search_h041297bbd2',
+  'access-control/checkin/TicketView': 'access-control/checkin/TicketView_hfd6e3c3034',
+  'organiser-area/access-control/checkin/ResultsView': 'organiser-area/access-control/checkin/ResultsView_h62e10ed779',
+  'vendor/ate': 'vendor/ate_h2713c0578e',
+  'orders/main': 'orders/main_h120c99a953',
+  logger: 'logger_h6c3b9c0baa',
+  'organiser-area/custom-design/Backbone.Helpers': 'organiser-area/custom-design/Backbone.Helpers_h86fa4e59dd',
+  'event-map-display': 'event-map-display_h4f08183f67',
+  'orders/order-model': 'orders/order-model_h10acf4e9b7',
+  'formbuilder/SimpleForm/controller': 'formbuilder/SimpleForm/controller_h3b6ca5b7ac',
+  'formbuilder/_design/editView': 'formbuilder/_design/editView_hd8b2e6d8b3',
+  'vendor/redactor': 'vendor/redactor_h9658e94427',
+  'vendor/jquery.validate': 'vendor/jquery.validate_h4833725e83',
+  'formbuilder/List/controller': 'formbuilder/List/controller_hc38f349b87',
+  'organiser-area/organiser-page': 'organiser-area/organiser-page_h338de9e7aa',
+  'formbuilder/TicketForm/controller': 'formbuilder/TicketForm/controller_hea342a7c2b',
+  'organiser-area/access-control/checkin/PagingView': 'organiser-area/access-control/checkin/PagingView_h0cc834a8e0',
+  'organiser-area/event-editor/description': 'organiser-area/event-editor/description_he36f285d69',
+  'orders/ReserveTicketsStep': 'orders/ReserveTicketsStep_hf646de13de',
+  'formbuilder/_design/createView': 'formbuilder/_design/createView_hb13c6c7300',
+  'access-control/checkin/ordersCollection': 'access-control/checkin/ordersCollection_h9fb87b53aa',
+  'vendor/text': 'vendor/text_he888053fc2' } }; 
 </script>
-        <script data-main="main" src="/static/js/vendor/require.t8Nw14juzWvgQ8sT1sf0mw3D3D.js"></script>
+            <script data-main="main" src="/static/js/vendor/require.t8Nw14juzWvgQ8sT1sf0mw3D3D.js"></script>
 
-    
+        
 
 <footer>
 
@@ -250,20 +335,20 @@
                         <li><a href="/contact-us">Contact Us</a></li>
                     </ul>
                 </div>
-                <p class="copyright">Copyright © 2013  Sticky Tickets Australia Pty Ltd <br> Australian owned and operated</p>
+                <p class="copyright">Copyright © 2014  Sticky Tickets Australia Pty Ltd <br> Australian owned and operated</p>
             </div>
             <div class="span8">
                 <div id="promote">
                     <div class="inner">
                         <div id="examples">
                             <div class="row">
-                                    <span class="item0">Movie Nights</span>
+                                    <span class="item0">Live Music</span>
 
-                                    <span class="item1">Training</span>
+                                    <span class="item1">Business Events</span>
 
-                                    <span class="item2">Shows</span>
+                                    <span class="item2">Parties</span>
 
-                                    <span class="item3">Book Launches</span>
+                                    <span class="item3">School reunions</span>
 
                             </div>
                         </div>
@@ -285,21 +370,6 @@
 </footer>
 
 
-<script type="text/javascript">
-        /* <![CDATA[ */
-        var google_conversion_id = 995608567;
-        var google_conversion_label = "uG_NCPnGnwQQ94_f2gM";
-        var google_custom_params = window.google_tag_params;
-        var google_remarketing_only = true;
-        /* ]]> */
-    </script>
-    <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-    </script>
-    <noscript>
-        <div style="display: inline;">
-            <img height="1" width="1" style="border-style: none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/995608567/?value=0&amp;label=uG_NCPnGnwQQ94_f2gM&amp;guid=ON&amp;script=0" />
-        </div>
-    </noscript>
     <script type="text/javascript">
         adroll_adv_id = "ZD77EEV5FJF7XL2SQ2BFPB";
         adroll_pix_id = "VTYBNCU2JBHG3BR5Y4RGBT";
@@ -322,6 +392,7 @@
 
 
 
+    </div>
 
 
 </body></html>
