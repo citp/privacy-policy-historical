@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the franchisehelp.com privacy policy that was archived on 2014-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140107231558id_/http%3A//www.franchisehelp.com/terms-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the franchisehelp.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702151303id_/https%3A//www.franchisehelp.com/terms-privacy) for the most accurate reproduction.*
 
 # Terms of Service & Privacy Policy for Franchise Help
 
-**Privacy Policy** ****
+**Privacy Policy**
 
-**Effective Date:   03/22/2012**
+**Effective Date:   06/27/2014**
 
-[](https://privacy.truste.com/privacy-seal/FranchiseHelp-Holdings,-LLC/validation?rid=ab530e2e-8f79-4a7b-8887-8809d39fb495 "TRUSTe online privacy certification")
+[](https://privacy.truste.com/privacy-seal/FranchiseHelp-Holdings,-LLC/validation?rid=ab530e2e-8f79-4a7b-8887-8809d39fb495)
 
-This privacy policy applies to [www.franchisehelp.com](http://www.franchisehelp.com/) owned and operated by FranchiseHelp Holdings, LLC (Henceforward “Franchise Help” “We” “Us”). This privacy policy describes how Franchise Help collects and uses the personal information you provide on our web site.    It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+This privacy policy applies to [www.franchisehelp.com](https://www.franchisehelp.com/) owned and operated by FranchiseHelp Holdings, LLC (Henceforward “Franchise Help” “We” “Us”). This privacy policy describes how Franchise Help collects and uses the personal information you provide on our web site.    It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
-FranchiseHelp Holdings, LLC has been awarded TRUSTe’s Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe’s program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information.  The TRUSTe program covers only information that is collected through this Web site, [www.franchisehelp.com](http://www.franchisehelp.com/).
+FranchiseHelp Holdings, LLC has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information.  The TRUSTe program covers only information that is collected through this Web site, [www.franchisehelp.com](https://www.franchisehelp.com/).
 
-TRUSTe’s mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions _. If you have questions or complaints regarding our privacy policy or practices, please contact us at_[ _support@franchisehelp.com_](mailto:support@franchisehelp.com) _.   _If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint)
+TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions _. If you have questions or complaints regarding our privacy policy or practices, please contact us at_[ _support@franchisehelp.com_](mailto:support@franchisehelp.com) _.   _If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint)
 
 **1.   ****  Information Collection and Use**
 
-We collect the following personal information from you: ****
+We collect the following personal information from you:
 
   * Contact Information such as name, email address, mailing address, phone number
   * Billing Information such as credit card number, and billing address
@@ -43,17 +43,17 @@ We use this information to:
 
 We obtain address information about you from third party sources, such _as LeadQC, to verify your contact information to prevent fraud._
 
-__**2.   ****Information Sharing**
+**2.   ****Information Sharing**
 
 We will share your personal information with third parties only in the ways that are described in this privacy policy.  We do not sell your personal information to third parties.
 
-Based on your expressed interest in the franchise opportunities we provide, when you request additional information about a particular opportunity we share your personal information with those companies so they can contact you directly.  In cases where we do not have direct relationships with a franchise owner, we may share your contact information with franchise consults.   If you do not want us to share your personal information with these companies, contact us at [support@franchisehelp.com](mailto:support@franchisehelp.com) __
+Based on your expressed interest in the franchise opportunities we provide, when you request additional information about a particular opportunity we share your personal information with those companies so they can contact you directly.  In cases where we do not have direct relationships with a franchise owner, we may share your contact information with franchise consults.   If you do not want us to share your personal information with these companies, contact us at [support@franchisehelp.com](mailto:support@franchisehelp.com)
 
   * _Service Providers_
 
 
 
-We may provide your personal information to companies that provide services to help us with our business activities such as processing payments or offering customer service. These companies are authorized to use your personal information _only as necessary to provide_ these services to us. __
+We may provide your personal information to companies that provide services to help us with our business activities such as processing payments or offering customer service. These companies are authorized to use your personal information _only as necessary to provide_ these services to us.
 
   * _Legal Disclaimer_
 
@@ -104,7 +104,7 @@ As is true of most web sites, we gather certain information automatically and st
 
 We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole.  We do not link this automatically-collected data to personally identifiable information.
 
-  * _3 rd Party Tracking_
+  * _3rd Party Tracking_
 
 
 
@@ -128,7 +128,7 @@ We follow generally accepted standards to protect the personal information submi
 
 **6.   ****  Additional Information**
 
-  * _Links to 3 rd Party Sites_
+  * _Links to 3rd Party Sites_
 
 
 
@@ -138,7 +138,7 @@ Our Site includes links to other Web sites whose privacy practices may differ fr
 
 
 
-Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. _To request removal of your personal information from our blog or community forum, contact us at_[support@franchisehelp.com](mailto:support@franchisehelp.com).  In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. __
+Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. _To request removal of your personal information from our blog or community forum, contact us at_[support@franchisehelp.com](mailto:support@franchisehelp.com).  In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
   * _Social Media Widgets_
 
