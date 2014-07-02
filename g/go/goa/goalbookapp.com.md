@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goalbookapp.com privacy policy that was archived on 2014-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140420134252id_/https%3A//goalbookapp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goalbookapp.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702123259id_/https%3A//goalbookapp.com/privacy) for the most accurate reproduction.*
 
 # Goalbook | Privacy
 
@@ -75,5 +75,5 @@ Please revisit this page periodically to stay aware of any changes to this Priva
 Please contact us with any questions or comments about this Privacy Policy, your personally identifiable information, our use and disclosure practices, or your consent choices by e-mail at privacy@goalbookapp.com.
 
 Enome, Inc. dba Goalbook  
-395 Page Mill Rd., 3rd Floor  
-Palo Alto, CA 94306 
+4 W 4th Ave, Suite 305  
+San Mateo, CA 94402 
