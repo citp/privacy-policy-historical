@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unblockmyspace.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213053228id_/http%3A//www.proxykey.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unblockmyspace.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702064450id_/https%3A//www.proxykey.com/privacy) for the most accurate reproduction.*
 
 # Proxy Key : Privacy Policy
 
