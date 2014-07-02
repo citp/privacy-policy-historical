@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apples4theteacher.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327022531id_/http%3A//www.apples4theteacher.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apples4theteacher.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702202438id_/http%3A//www.apples4theteacher.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Apples4theteacher.com Privacy Polcy
 
@@ -72,7 +72,7 @@ Site Analytics Privacy Policies:
 **4\. Advertisers**  
 Apples4theteacher.com has offered free teaching resources since 1999. We have been able to offer our resources for free because ad networks pay us for advertising space on resource pages. While viewing our website, a third party advertiser may place a cookie in your browser. You may view the privacy policy of each ad network that Apples4theteacher.com works with below:
 
-  * [Burst Media](http://www.burstmedia.com/privacy.html)
+  * [Burst Media](http://www.burstmedia.com/index.php/company/coppa)
   * [Chitika](http://www.chitika.com/privacy)
   * [Google Adsense](http://www.google.com/privacy.html)
   * [Hooked Media](http://www.hookedmediagroup.com/Global/Privacy.aspx)
