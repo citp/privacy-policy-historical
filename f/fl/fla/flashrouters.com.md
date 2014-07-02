@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flashrouters.com privacy policy that was archived on 2014-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140226205835id_/http%3A//www.flashrouters.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flashrouters.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702034057id_/http%3A//www.flashrouters.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
