@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jackpot.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330185435id_/http%3A//www.jackpot.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jackpot.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702045319id_/http%3A//www.jackpot.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # Jackpot.com Privacy Policy
 
