@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the paxforex.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326214519id_/http%3A//www.paxforex.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paxforex.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702020843id_/http%3A//www.paxforex.com/privacy_policy) for the most accurate reproduction.*
 
-# USDCHF Falling Wedge - PaxForex
+# PrivacyRefundPolicy - PaxForex
 
 PAXFOREX respects each individual's right to privacy. We value our relationship with you, and we take pride in maintaining loyalty and respect with each individual client by providing you with security. The provisions of this notice apply to former clients as well as our current clients. We kindly ask that you read the following information.
 
