@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intmath.com privacy policy that was archived on 2014-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140322173514id_/http%3A//www.intmath.com/help/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intmath.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702020613id_/http%3A//www.intmath.com/help/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -74,7 +74,7 @@ IntMath is hosted on WiredTree servers in Chicago, USA. We strictly abide by the
 
 ## Questions or Concerns
 
-Please use the [Comments](https://web.archive.org/web/20140322173514id_/http%3A//www.intmath.com/help/comments.php) facility to raise any concerns you may have about your privacy on Interactive Mathematics.
+Please use the [Comments](https://web.archive.org/web/20140702020613id_/http%3A//www.intmath.com/help/comments.php) facility to raise any concerns you may have about your privacy on Interactive Mathematics.
 
 Didn't find what you are looking for on this page? Try **search** :
 
@@ -95,12 +95,6 @@ Play a [math game](http://www.intmath.com/games/games.php?a=3).
 Sign up for the free **IntMath Newsletter**. Get math study tips, information, news and updates each fortnight. Join thousands of satisfied students, teachers and parents!
 
 ### Share IntMath!
-
-### Short URL for this Page
-
-Save typing! You can use this URL to reach this page:
-
-> [intmath.com/privacy](http://intmath.com/privacy)
 
 ### Math Lessons on DVD
 
