@@ -1,33 +1,51 @@
-> *The following text is extracted and transformed from the dinartrade.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213205717id_/https%3A//www.dinartrade.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dinartrade.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702154520id_/https%3A//www.dinartrade.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | DinarTrade.com
+# Privacy Policy | Xchange of America
 
-### Note: Updated privacy notice as of February, 2014
+**What Personal Information Does Xchange of America Gather About Me?**
 
-This privacy notice discloses the privacy practices for www.dinartrade.com. This privacy notice applies solely to information collected by this web site. It will notify you of the following: 
+The information we learn about our consumers helps us improve our products and services and make your experience a better one.  Here are the types of information we might gather.
 
-1\. What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared.   
-2\. What choices are available to you regarding the use of your data.   
-3\. The security procedures in place to protect the misuse of your information.   
-4\. How you can correct any inaccuracies in the information. 
+We receive and store any information you enter on xchangeofamerica.com or give us in any other way. You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for purposes as responding to our customers requests, specializing features, improving online experience and physical stores, and communicating with you. We receive and store certain types of information whenever you interact with us. To help us make e-mails more useful and interesting, we often receive a confirmation when you open an e-mail.
 
-**Information Collection, Use, and Sharing**   
-* We are the sole owners of the information collected on this site. We only have access to/collect information that you voluntarily give us via email or other direct contact from you. We will not sell or rent this information to anyone.   
-* We will use your information to respond to you, regarding the reason you contacted us. We will not share your information with any third party outside of our organization, other than as necessary to fulfill your request, e.g. to ship an order.   
-* Unless you ask us not to, we may occasionally provide your name, telephone, and or email contact to companies offering products or services likely to be of interest to our customers.   
-* Unless you ask us not to, we may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy. 
+**Cookies**
 
-**Your Access to and Control Over Information**
+Cookies are unique identifiers that we transfer to your device to enable our systems to recognize your device and to provide features.
 
-You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via the email address or phone number given on our website: 
+The Help feature on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. 
 
-* See what data we have about you, if any.   
-* Change/correct any data we have about you.   
-* Have us delete any data we have about you.   
-* Express any concern you have about our use of your data. 
+**Does Xchange of America share information it gathers?**
 
-**Security**
+Information about our customers is an important part of our business, and will not sell it to others. We share customer information only within the Xchange of America family.  Because we are a licensed financial institution customer information is highly protected.
 
-We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline.   
-* Wherever we collect sensitive information (such as credit card data), that information is encrypted and transmitted to us in a secure way. You can verify this by looking for a closed lock icon at the bottom of your web browser, or looking for "https" at the beginning of the address of the web page.   
-* While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment. 
+**Protection of Xchange of America and Release of Personal Data**
+
+We release account and other personal information when we believe release is appropriate to comply with the law.
+
+**How Secure is My Info?**
+
+We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input. We reveal only the last four digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing.
+
+It is important for you to protect against unauthorized access to your password and to your computer. 
+
+**Conditions**
+
+If you choose to visit xchangeofamerica.com, your visit and any dispute over privacy is subject to this Notice including limitations on damages, resolution of disputes, and application of the law of the state of Florida. If you have any concern about privacy at XchangeofAmerica.com, please email us with a thorough description, and we will try to resolve it. Our business changes constantly and our Privacy Notice will change also. Please view our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account.
+
+**Information You Give Us**
+
+You provide information when you search, buy, post, participate in a contest or questionnaire, or communicate with customer service.
+
+**Record Retention**
+
+We only keep your records to the extent of this Privacy Policy or in some cases which is required by law as a financial institution.
+
+**Third Party Websites**
+
+We have links to third party websites and it’s your responsibility to read their Privacy Policy as the Xchange of America policy does not apply.
+
+**Protecting Your Personal Information**
+
+Here at Xchange of America protecting your personal information is of the highest priority.  Background checks of all employees are administered and confidentiality agreements are signed prior to being hired.
+
+We constantly review our procedures to improve your online and store experience.
