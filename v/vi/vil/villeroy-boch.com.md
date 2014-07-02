@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the villeroy-boch.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209114555id_/http%3A//www.villeroy-boch.com/privacy-and-cookie-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the villeroy-boch.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702061937id_/http%3A//www.villeroy-boch.com/privacy-and-cookie-policy.html) for the most accurate reproduction.*
 
-# Privacy and Cookie Policy: Villeroy & Boch
+# Privacy and Cookie Policy
 
 We appreciate your interest in our website and protecting your privacy is very important to us. In the following we inform you about collecting and using of your data. 
 
