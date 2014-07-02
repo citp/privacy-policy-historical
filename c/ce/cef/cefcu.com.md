@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cefcu.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330223727id_/https%3A//www.cefcu.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cefcu.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702143208id_/https%3A//www.cefcu.com/privacy-policy.php) for the most accurate reproduction.*
 
 # CEFCU - Privacy Policy
 
-Citizens Equity First Credit Union ("CEFCU") and its wholly-owned subsidiary, CEFCU Financial Services, Inc., are committed to keeping personal financial information about you, your accounts, and your transactions confidential as required by federal and state laws. This joint notice explains our privacy policies and practices regarding the information we collect from or about you, how we protect that information, the sharing of that information to better serve your financial needs, and your choices about our sharing that information. This joint notice applies to members (including non-member joint account owners), former members, and customers. 
+Citizens Equity First Credit Union ("CEFCU") and its wholly-owned subsidiary, CEFCU Financial Services®, Inc., are committed to keeping personal financial information about you, your accounts, and your transactions confidential as required by federal and state laws. This joint notice explains our privacy policies and practices regarding the information we collect from or about you, how we protect that information, the sharing of that information to better serve your financial needs, and your choices about our sharing that information. This joint notice applies to members (including non-member joint account owners), former members, and customers. 
 
 **Our Affiliated Companies**
 
