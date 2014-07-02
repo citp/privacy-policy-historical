@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the oroton.com.au privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513133828id_/http%3A//www.oroton.com/www/597/1001127/displayarticle/1001273.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oroton.com.au privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702131539id_/http%3A//www.oroton.com.au/privacy/w1/i1001273) for the most accurate reproduction.*
 
-# privacy | Oroton Luxury Accessories
+# privacy | Oroton International Site - Founded 1938
 
-This website is owned by, and content is published OrotonGroup (Australia) Pty Limited A.C.N. 000 704 129 trading as Oroton ("Publisher"). You must not access, browse or use this website unless you agree to be bound by the terms and conditions set out below. If you do not agree to these terms and conditions, you must not use this website. For an explanation of the practices and policies of Publisher relating to the collection, use, and storage of information of users of this website, users should refer to the Privacy Policy and Disclosure Statement of Publisher on this website. 
+This website is owned by, and content is published OrotonGroup (Australia) Pty Limited A.C.N. 000 704 129 trading as Oroton ("Publisher"). You must not access, browse or use this website unless you agree to be bound by the terms and conditions set out below. If you do not agree to these terms and conditions, you must not use this website. For an explanation of the practices and policies of Publisher relating to the collection, use, and storage of information of users of this website, users should refer to the Privacy Policy and Disclosure Statement of Publisher on this website.
 
 The information contained on this website is intended for general information only and should not be considered to be complete or definitive. Information on this website may contain technical inaccuracies or typographical errors. Publisher accepts no responsibility regarding the accuracy of information that is provided by Publisher on this website and use of such information is at your own risk. Publisher reserves the right to make changes at any time, without notice, to any element of the website. All content and functionality on this website is provided "as is" and without warranties of any kind by Publisher, express or implied. This website contains links to sites maintained by other organisations, and Publisher does not take any responsibility for the content or functionality of those sites. You should take appropriate action to ensure that your access to, and use of this website and other sites is protected against, and free from viruses (including macro viruses), worms, trojan horses and other harmful and destructive material.
 
@@ -19,7 +19,7 @@ Except to the extent that liability may not lawfully be excluded, Publisher will
 
 > (i) to monitor or improve the quality and standard of service provided to you or other consumers by Publisher and any entitles related to Publisher, (collectively called "Authorised Disclosees");  
 > (ii) to provide marketing information to you about products and services of any one or more of the Authorised Disclosees; and  
-> (iii) arrange for delivery of goods of any one or more Authorised Disclosees to you. 
+> (iii) arrange for delivery of goods of any one or more Authorised Disclosees to you.
 
 Publisher may at any time revise these terms and conditions by updating this website. By using this website you agree to be bound by all revisions and you should therefore periodically visit this page to determine the then current terms which govern your relationship with Publisher.
 
@@ -30,7 +30,7 @@ This agreement is governed by and construed in accordance with the laws of New S
 privacy policy & disclosure statement
 
 Application  
-OrotonGroup (Australia) Limited A.C.N. 000 704 129 trading as Oroton (collectively referred to as "Publisher", "we", "our", or "us") is subject to the National Privacy Principles in the Privacy Act 1988. This Privacy Policy and Disclosure Statement explains how Publisher collects and protects the privacy of personal information about you collected by the Publisher or provided by you to Publisher via our website or from other sources. 
+OrotonGroup (Australia) Limited A.C.N. 000 704 129 trading as Oroton (collectively referred to as "Publisher", "we", "our", or "us") is subject to the National Privacy Principles in the Privacy Act 1988. This Privacy Policy and Disclosure Statement explains how Publisher collects and protects the privacy of personal information about you collected by the Publisher or provided by you to Publisher via our website or from other sources.
 
 This Privacy Policy and Disclosure Statement does not apply in relation to acts and practices of Publisher which relate directly to the employee records of present and former employees of Publisher.
 
@@ -48,7 +48,7 @@ Publisher collects personal information for some or all of the following purpose
 
 > (i) to monitor or improve the quality and standard of service provided to you or other consumers by Publisher and any entities related to Publisher, (collectively called "Authorised Disclosees");  
 > (ii) to provide marketing information to you about products and services of any one or more of the Authorised Disclosees; and  
-> (iii) arrange for delivery of products of any one or more Authorised Disclosee to you. 
+> (iii) arrange for delivery of products of any one or more Authorised Disclosee to you.
 
 If you do not provide any information requested, Publisher or one or more of the Authorised Disclosees may not be able to either provide you with information about Oroton products or to fulfil one or more other purposes of collection of your personal information.  
 Publisher may collect personal information about you from a third party source. Publisher will take reasonable steps to contact you and make you aware of the purposes for which Publisher has collected your personal information which has been obtained from a third party source.
@@ -56,9 +56,9 @@ Publisher may collect personal information about you from a third party source. 
 Use Or Disclosure Of Your Personal Information  
 You agree and consent that we may use personal information to manage our relationship with you and business clients and properly conduct our business. Specifically, you agree and consent that we may use your personal information in order to:
 
-  * communicate information on our products or services and to notify our customers about existing or new OrotonGroup product offerings, sales or special promotions from time to time; 
-  * help you decide which of our products would best suit your requirements; 
-  * Conduct market research by collating and analysing information in order to develop product ranges and identify opportunities to provide our customers with further service and benefits. 
+  * communicate information on our products or services and to notify our customers about existing or new OrotonGroup product offerings, sales or special promotions from time to time;
+  * help you decide which of our products would best suit your requirements;
+  * Conduct market research by collating and analysing information in order to develop product ranges and identify opportunities to provide our customers with further service and benefits.
 
 
 
@@ -71,39 +71,39 @@ OrotonGroup does not sell, rent, trade, give or share personal information to or
 Otherwise, OrotonGroup only uses or discloses personal information as authorised or required by law. 
 
 Personal Information About Other People  
-You must not provide personal information to Publisher about another person, unless that person has authorised Publisher, through you, to collect, use and disclose personal information about that person for the purposes described in this Privacy Policy and Disclosure Statement. 
+You must not provide personal information to Publisher about another person, unless that person has authorised Publisher, through you, to collect, use and disclose personal information about that person for the purposes described in this Privacy Policy and Disclosure Statement.
 
 Sharing Information  
-Publisher may disclose personal information to Authorised Disclosees upon the basis that any Authorised Disclosee may only collect, use or disclose the information for the purpose for which that information was originally collected by Publisher. 
+Publisher may disclose personal information to Authorised Disclosees upon the basis that any Authorised Disclosee may only collect, use or disclose the information for the purpose for which that information was originally collected by Publisher.
 
 Access To Personal Information  
 Publisher will, on request, provide you with access to personal information held by Publisher about you, subject to any limitations or exceptions in the Privacy Act.  
 Publisher will deal with requests for access within a reasonable time. You must pay Publisher for reasonable costs incurred by Publisher in providing you with access.
 
-If Publisher refuses to provide you with access to personal information about you, Publisher will provide you with reasons for the refusal, in accordance with the requirements of the Privacy Act. 
+If Publisher refuses to provide you with access to personal information about you, Publisher will provide you with reasons for the refusal, in accordance with the requirements of the Privacy Act.
 
 Consent  
-We understand that when you visit our website you may not wish to become a member. We respect that and have provided you the option to not sign up as a member and to drop out at any time you no longer wish to be a member of the website. 
+We understand that when you visit our website you may not wish to become a member. We respect that and have provided you the option to not sign up as a member and to drop out at any time you no longer wish to be a member of the website.
 
 Up-to-Date Information  
-Publisher will take reasonable steps to ensure that your personal information is up-to-date when collected or used by Publisher. If any personal information held by Publisher about you is incorrect, you should contact Publisher immediately, so that Publisher can take reasonable steps to correct incorrect information about you. 
+Publisher will take reasonable steps to ensure that your personal information is up-to-date when collected or used by Publisher. If any personal information held by Publisher about you is incorrect, you should contact Publisher immediately, so that Publisher can take reasonable steps to correct incorrect information about you.
 
 Security of Personal Information  
 Publisher protects your personal information from misuse and unauthorised disclosure.  
 Personal information about you may be stored in hard copy or electronically in data information storage systems of Publisher.  
-Publisher maintains physical security, as well as network and computer security over paper and electronic data information storage systems. 
+Publisher maintains physical security, as well as network and computer security over paper and electronic data information storage systems.
 
 Children and young people  
 The website is accessible to people of all ages. However, we are mindful that some customers who register as members may be under the age of 18. In the interests of their personal safety, we urge children to check with their parents before entering personal information on any website and ask parents to discuss these issues with their children.
 
-The Publisher will also ensure that appropriate disclosures are made at the time of collection of other information from minors, and will only collect this information where it is appropriate to do so. Information collected will only be used for appropriate purposes. 
+The Publisher will also ensure that appropriate disclosures are made at the time of collection of other information from minors, and will only collect this information where it is appropriate to do so. Information collected will only be used for appropriate purposes.
 
 Foreign Countries  
-Publisher will not transfer your personal information to foreign countries without your express or implied consent. 
+Publisher will not transfer your personal information to foreign countries without your express or implied consent.
 
 Contacts  
-You may gain access to your personal information, make a complaint about breach of your privacy rights, or make enquiries about collection or use of your personal information by contacting the Publisher Privacy Officer: 
+You may gain access to your personal information, make a complaint about breach of your privacy rights, or make enquiries about collection or use of your personal information by contacting the Publisher Privacy Officer:
 
 Publisher will respond to your query or complaint in a reasonable time.
 
-© OrotonGroup (Australia) Limited A.C.N. 000 704 129. All rights reserved. No part of this site may be reproduced in any manner without express written permission of Publisher. 
+© OrotonGroup (Australia) Limited A.C.N. 000 704 129. All rights reserved. No part of this site may be reproduced in any manner without express written permission of Publisher.
