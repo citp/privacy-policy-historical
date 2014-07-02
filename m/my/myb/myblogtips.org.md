@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the myblogtips.org privacy policy that was archived on 2014-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140216060712id_/http%3A//www.myblogtips.org/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myblogtips.org privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702204433id_/http%3A//www.myblogtips.org/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Blogger Tips and Tricks- Myblogtips.org
+# Privacy Policy | Blogger Tips and Tricks
 
 Myblogtips is a blogging community where all bloggers submit their latest blog articles, video tutorials  for increasing backlinks and traffic.
 
