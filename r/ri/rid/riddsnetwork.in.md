@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the riddsnetwork.in privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210054026id_/http%3A//www.riddsnetwork.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the riddsnetwork.in privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702020107id_/http%3A//riddsnetwork.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
