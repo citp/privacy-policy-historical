@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the atlantatrails.com privacy policy that was archived on 2014-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140203033320id_/http%3A//www.atlantatrails.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlantatrails.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702141544id_/http%3A//www.atlantatrails.com/privacy_policy.html) for the most accurate reproduction.*
 
-# Terms of Use
+# Atlanta Trails - Privacy Policy
 
 Atlanta Trails takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this privacy policy primer to learn more about privacy policies in general.
 
