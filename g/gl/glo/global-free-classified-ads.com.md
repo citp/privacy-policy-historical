@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the global-free-classified-ads.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209061042id_/http%3A//www.global-free-classified-ads.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the global-free-classified-ads.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702193108id_/http%3A//www.global-free-classified-ads.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy. Free classifieds. Buy and sell today!
 
@@ -18,7 +18,7 @@ Because [global-free-classified-ads.com](http://www.global-free-classified-ads.c
 
 
 
-If you feel that global-free-classified-ads.com is not abiding by its posted privacy policy, you wish to modify information previously given, or have any questions regarding the privacy policy, please contact us on page [Contact Us](http://www.global-free-classified-ads.com/contact.htm "Contact Us"). 
+If you feel that global-free-classified-ads.com is not abiding by its posted privacy policy, you wish to modify information previously given, or have any questions regarding the privacy policy, please contact us on page [Contact Us](http://www.global-free-classified-ads.com/help/ "Contact Us"). 
 
 ### MINORS
 
