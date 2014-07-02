@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fafsa-application.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213035526id_/http%3A//www.fafsa-application.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fafsa-application.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702181854id_/http%3A//www.fafsa-application.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Fafsa Application Online - Privacy Policy
+# FAFSA Preparer - Online Assistance - Privacy
 
 [](https://www.mcafeesecure.com/RatingVerify?ref=www.fafsa-application.com)
 
@@ -47,7 +47,7 @@ To process your order, we need to present data to several entities. For example,
 
 ## OPT-OUT
 
-We allows users to opt-out of receiving future communications and/or to have information removed from our database. Simply submit your request via e-mail to [CustomerCare@FAFSA-Application.com](mailto:CustomerCare@FAFSA-Application.com). You may also submit your request by mail to Student Aid Application Services, LLC, 4741 Central St, Ste.142, Kansas City, MO 64112. 
+We allows users to opt-out of receiving future communications and/or to have information removed from our website. Simply submit your request via e-mail to [CustomerCare@FAFSA-Application.com](mailto:CustomerCare@FAFSA-Application.com). You may also submit your request by mail to Student Aid Application Services, LLC, 4741 Central St, Ste.142, Kansas City, MO 64112. 
 
   
 
