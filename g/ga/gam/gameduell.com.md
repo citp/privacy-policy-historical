@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gameduell.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213112249id_/http%3A//www.gameduell.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameduell.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702051410id_/http%3A//www.gameduell.com/help/privacy.html) for the most accurate reproduction.*
 
 # Privacy Protection at GameDuell
 
@@ -112,8 +112,8 @@ Data management requests are administered in an orderly manner to the extent fea
 If You do not want Us to share Your Personal Information with Our Partners for marketing purposes, or if You do not want to receive certain communications and offers from Us You can "opt out" of such sharing, communications and offers by calling Us at +49 (0)30 288 768 246 or email Us at [privacypolicy@gameduell.com](mailto:privacypolicy@gameduell.com), or write Us at:
 
 GameDuell INC  
-703 Market St., Ste. 350  
-San Francisco CA 94110
+207 Powell St., Ste. 200  
+San Francisco CA 94102
 
 ### 9\. Changes to this privacy policy
 
@@ -126,7 +126,7 @@ Customer Service at [service@gameduell.com](mailto:service@gameduell.com)
 
 Or write to:  
 GameDuell INC  
-703 Market St., Ste. 350  
-San Francisco CA 94110
+207 Powell St., Ste. 200  
+San Francisco CA 94102
 
 **Date Last Modified: July 04, 2013.**
