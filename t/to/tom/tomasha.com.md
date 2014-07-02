@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tomasha.com privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215013538id_/http%3A//www.tomasha.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tomasha.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702132615id_/http%3A//www.tomasha.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy of Tomasha
 
