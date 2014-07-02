@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buttinsider.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214095147id_/http%3A//www.buttinsider.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buttinsider.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702114809id_/http%3A//www.buttinsider.com/privacy.html) for the most accurate reproduction.*
 
 # HD Anal Movies, Free Butt Sex Tube, Online Porno Vids, Streaming Porn Clips and Free XXX Videos
 
