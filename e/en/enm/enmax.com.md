@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the enmax.com privacy policy that was archived on 2014-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140429173402id_/http%3A//www.enmax.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enmax.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702044438id_/https%3A//www.enmax.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
