@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the pdaphonehome.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424170823id_/http%3A//www.smartphoneforums.com/content/121-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdaphonehome.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702040510id_/http%3A//www.smartphoneforums.com/content/121-privacy-policy.html) for the most accurate reproduction.*
 
 # SmartPhoneForums - Privacy Policy
 
 This policy applies to the **PDAPhoneHome** web site and only webpages that contain the [http://www.smartphoneforums.com](http://www.smartphoneforums.com/) url. You may find inportant information about safe web surfing at the [**Federal Trade Commission Website** ](http://www.ftc.gov/bcp/conline/pubs/online/sitesee.htm).
 
-If you feel that this site is not following its stated information policy, you may contact us at [webmaster@pdaphonehome.com](mailto:webmaster@pdaphonehome.com).
+If you feel that this site is not following its stated information policy, you may contact us at <a href="mailto:webmaster@pdaphonehome.com">webmaster@pdaphonehome.com</a>.
 
 **Information Collection and Use**
 
