@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 12manage.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213090253id_/http%3A//12manage.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 12manage.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702174646id_/http%3A//12manage.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # 12manage - Privacy Policy
 
