@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ishafoundation.org privacy policy that was archived on 2014-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140126102237id_/https%3A//www.ishafoundation.org/us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ishafoundation.org privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702231514id_/https%3A//www.ishafoundation.org/us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
