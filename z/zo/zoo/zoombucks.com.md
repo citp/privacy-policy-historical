@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zoombucks.com privacy policy that was archived on 2014-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140222192031id_/http%3A//www.zoombucks.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoombucks.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702174033id_/http%3A//www.zoombucks.com/privacy.php) for the most accurate reproduction.*
 
 # privacy - ZoomBucks.com
 
@@ -10,7 +10,7 @@ Customer credit card information is never shared with any third party. If you ha
 
 **Anonymous & Personal Information:**
 
-ZoomBucks collects anonymous information for statistical purposes. The information we collect is as follows:
+ZoomBucks collects anonymous information for statistical purposes. The information we collect is as follows: 
 
   * IP Address
   * Browser
@@ -46,6 +46,10 @@ You may be retargeted based on previous website visits. ZoomBucks does not store
 **Transfer, Merger, or Sale**
 
 If ZoomBucks is involved in a merger, or acquired by another company, the users personal information may also be part transferred.
+
+**Email**
+
+By joining the ZoomBucks.com program, you agreed to receive emails. To unsubscribe from specific emails, please visit [your profile page](https://web.archive.org/profile.php). You must be logged in to access this. If for some reason, you are unable to access your account, you can use our simplified unsubscribe form [here](https://web.archive.org/unsubscribe.php).
 
 **Sharing Information with 3rd Parties**
 
