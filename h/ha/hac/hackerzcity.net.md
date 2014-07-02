@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hackerzcity.net privacy policy that was archived on 2014-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140503075246id_/http%3A//www.hackerzcity.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hackerzcity.net privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702080236id_/http%3A//www.hackerzcity.net/privacy) for the most accurate reproduction.*
 
 # Privacy
 
