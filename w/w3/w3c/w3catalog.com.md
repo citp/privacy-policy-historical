@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the w3catalog.com privacy policy that was archived on 2013-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130815202224id_/http%3A//www.w3catalog.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the w3catalog.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702052530id_/http%3A//www.w3catalog.com/privacy.html) for the most accurate reproduction.*
 
 # W3 Catalog Web Directory - Privacy Policy
 
