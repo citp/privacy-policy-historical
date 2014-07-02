@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the floridarealtors.org privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209155847id_/http%3A//www.floridarealtors.org/Privacy-Policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the floridarealtors.org privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702110242id_/http%3A//www.floridarealtors.org/Privacy-Policy.cfm) for the most accurate reproduction.*
 
 # FAR - Privacy Policy
 
