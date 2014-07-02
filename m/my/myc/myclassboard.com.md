@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the myclassboard.com privacy policy that was archived on 2014-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140216175441id_/http%3A//www.myclassboard.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myclassboard.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702163842id_/http%3A//www.myclassboard.com/privacy_policy.html) for the most accurate reproduction.*
 
-# Student Information System, MIS System, MyClassboard.com
+# Privacy policy - School Management Software, MyClassboard erp
 
 MyClassboard Educational Solutions pvt ltd ("MyClassboard") respects the privacy of people who use the [www.myclassboard.com](http://www.myclassboard.com/) website or other MyClassboard services. This privacy statement ("policy") reflects the current information practices of MyClassboard. Should there be any future changes to our privacy policy, we will continue to post them on this page.
 
