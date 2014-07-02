@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ijser.org privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330221009id_/http%3A//www.ijser.org/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ijser.org privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702073045id_/http%3A//www.ijser.org/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - International Journal of Scientific and Engineering Research
 
