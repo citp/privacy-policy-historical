@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the personalcapital.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331000536id_/https%3A//www.personalcapital.com/static/content/docs/Personal_Capital_Privacy_Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the personalcapital.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702093302id_/https%3A//www.personalcapital.com/static/content/docs/Personal_Capital_Privacy_Policy.pdf) for the most accurate reproduction.*
 
 # 
 
