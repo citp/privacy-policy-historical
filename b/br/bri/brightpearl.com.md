@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brightpearl.com privacy policy that was archived on 2014-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140309074531id_/http%3A//www.brightpearl.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brightpearl.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702192355id_/https%3A//www.brightpearl.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Brightpearl
 
@@ -10,13 +10,13 @@ Please read the policy carefully. By accessing or using this web site you are de
 
 Note that if you follow a link from this site to another site, this policy will no longer apply. We are not responsible for other sites’ information handling practices. Use of your information by the owner of the linked site will normally be governed by that site’s privacy policy, which we encourage you to read.
 
-Further information about privacy and data protection issues including the online Register of Data Controllers can be found on the Information Commissioner’s website at [http://www.informationcommissioner.gov.uk](http://www.informationcommissioner.gov.uk/).
+Further information about privacy and data protection issues including the online Register of Data Controllers can be found on the Information Commissioner’s website at [http://www.informationcommissioner.gov.uk.](http://www.informationcommissioner.gov.uk./)
 
 **2\. Who we are**
 
 We are Brightpearl Limited, a company registered in England and Wales with company registration number 04325696. Our registered office is at 57 Prince St, Bristol BS1 4QH. Please see our contact section for more information. If you have any queries about the information we hold on you, please contact our Data Protection Compliance Officer, who you may write to at the address above, or email [info@thisispearl.com](mailto:info@thisispearl.com) or telephone on 0845 003 8935.
 
-**3\. How we collect information from you**
+3\. How we collect information from you
 
 3.1. By the use of “cookies”
 
