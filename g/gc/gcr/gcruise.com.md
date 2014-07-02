@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gcruise.com privacy policy that was archived on 2014-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140216113058id_/http%3A//www.gcruise.com/main/privacy_policy%3Flink_id%3D30) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gcruise.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703004918id_/http%3A//www.gcruise.com/main/privacy_policy%3Flink_id%3D30) for the most accurate reproduction.*
 
 # Gay Hookups | Hot Gays | Meet Local Gay Men | Sex GCruise
 
@@ -53,7 +53,7 @@ Members of the Website can directly communicate with you through messaging servi
 
 If you choose to use our external referral service to tell a friend about the Website, we will ask you for your friend's contact information. The Website will automatically send your friend an e-mail inviting them to visit the Website. The Website maintains this information for the sole purpose of sending this email and tracking the success of the referral.
 
-#### 6). Your Use of Other Users' Information. 
+#### 6) Your Use of Other Users' Information. 
 
 You may not use other Users' information for commercial purposes, to send SPAM or SPIM, to harass, to make unlawful threats, or for any other illegal purpose. GCruise.com reserves the right to terminate the Service to those who misuse other Users' information.
 
