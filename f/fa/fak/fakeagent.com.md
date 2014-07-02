@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fakeagent.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214084840id_/http%3A//www.fakeagent.com/tour/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fakeagent.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702201336id_/http%3A//www.fakeagent.com/tour/privacy.html) for the most accurate reproduction.*
 
 # FakeAgent.com
 
