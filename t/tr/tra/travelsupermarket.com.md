@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the travelsupermarket.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626102432id_/http%3A//www.moneysupermarket.com/legal/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelsupermarket.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702075242id_/http%3A//www.moneysupermarket.com/privacy-policy/%3FSource%3DTS) for the most accurate reproduction.*
 
-# moneysupermarket.com - Legal Services
+# TravelSupermarket.com moneysupermarket.com - Legal Services
 
 **Privacy Policy of the moneysupermarket.com TM website**
 
@@ -97,4 +97,4 @@ You must check and ensure that all information, content, material or data you pr
 
 We may also need to collect information from you about other individuals, e.g. additional named drivers if you request a car insurance quotation. As explained in our Terms of Use, by submitting another person's details you are confirming to us that you have their permission to do so and that they understand how their details will be used.
 
-[](https://web.archive.org/web/20140626102432id_/http%3A//www.moneysupermarket.com/)
+[](https://web.archive.org/web/20140710005649id_/http://www.moneysupermarket.com/)
