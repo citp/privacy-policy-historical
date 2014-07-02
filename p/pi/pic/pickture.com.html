@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the pickture.com privacy policy that was archived on 2014-02-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140214221737id_/http%3A//www.pickture.com/help/policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pickture.com privacy policy that was archived on 2014-07-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140702181131id_/http%3A//www.pickture.com/help/policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" data-page="p-help"><head>
         
@@ -16,11 +16,16 @@
 <![endif]-->
 <link rel="icon" type="image/png" href="/static/img/templates/icon/favicon-16x16.png" sizes="16x16">
 
-<meta name="Description" content="Pickture privacy policy: information on the data we collect, how we use it, and your privacy options.">        <link rel="stylesheet" href="http://static1.pickture.com/static/css/templates/header.css" type="text/css">
-        <link rel="stylesheet" href="http://static1.pickture.com/static/css/templates/style_sidebar.css" type="text/css">
-        <link rel="stylesheet" href="http://static1.pickture.com/static/css/templates/style_popup_login.css" type="text/css">
+<meta name="Description" content="Pickture privacy policy: information on the data we collect, how we use it, and your privacy options."><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="//use.typekit.net/qey0nmq.js"></script>
+<script type="text/javascript">try{ Typekit.load(); }catch(e){}</script>
+        <link rel="stylesheet" href="http://static1.pickture.com/static/css/templates/header.css?v=e020878" type="text/css">
+        <link rel="stylesheet" href="http://static1.pickture.com/static/css/templates/style_sidebar.css?v=e020878" type="text/css">
+        <link rel="stylesheet" href="http://static1.pickture.com/static/css/templates/jquery.mCustomScrollbar.css?v=e020878" type="text/css">
+        <link rel="stylesheet" href="http://static1.pickture.com/static/css/templates/lbRegisterProcess.css?v=e020878" type="text/css">
+        <link rel="stylesheet" href="http://static1.pickture.com/static/css/templates/lbSite.css?v=e020878" type="text/css">
+        <link rel="stylesheet" href="http://static1.pickture.com/static/css/templates/hopscotch.css?v=e020878" type="text/css">
     
-        <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+        <script type="text/javascript">
     var _gaq = _gaq || [];
       _gaq.push(['_setAccount', 'UA-33511483-1']);
       _gaq.push(['_setDomainName', 'pickture.com']);
@@ -38,179 +43,96 @@
             <div class="textContainer"></div>
         </div>
 
+        <div id="bottomContent">
+
+            <div class="bottomButtonContainer">
+                                <div class="topButton"></div>
+            </div>
+
+
+
+                    </div>
+
         <!-- popup container -->
+        <div style="display:none;" class="connexion_overlay"><div class="connexion_overlaySub"></div></div>
+        <div style="display:none;" class="popup_overlay"><div class="popup_overlaySub"></div></div>
+
         <div id="popupContainer">
             <div class="popup_container">
-                <!-- popup suppression pick -->
-                <div class="popupBox popup_list" id="confirm" style="display: none;">
-                    <div>
-                        <span></span>
-                        <span class="pickText">Do you really want to delete this pick?</span>
-                        <span class="listText">Are you sure that you want to delete this list ?</span>
-                        <span class="commentText">Are you sure that you want to delete this comment?</span>
-                        <span class="changeRoleText"></span>
-                        <span class="deleteManagerText">Are you sure that you want to remove this manager / moderator ?</span>
-                        <span class="addManagerText"></span>
-                        <span class="createBusinesspage">Once your Page has been created you cannot modify it's URL address. <br>Do you want to validate?</span><br>
-
-                        <a href="#" class="cancel">Cancel</a>
-                        <a href="#" class="confirm">Confirm</a>
-                    </div>
-                </div>
-                <!-- popup add imagelist pick -->
-                <div class="popupBox popup_list" id="successlistpicture" style="display: none;">
-                    <a href="javascript:void(0);" class="close"></a>
-                    <div>
-                        <span></span>
-                        Your pick has been added as list picture
-                    </div>
-                </div>
-                <!-- popup add imageprofile pick -->
-                <div class="popupBox popup_list" id="successprofilepicture" style="display: none;">
-                    <a href="javascript:void(0);" class="close"></a>
-                    <div>
-                        <span></span>
-                        Your pick has been added as your profile picture
-                    </div>
-                </div>
-                <!-- Popup edit list -->
-                <div class="popupBox popup_list" id="update_list" style="display: none;">
-                    <h5>Modify my list</h5>
-                    <form method="post" action="#">
-                        <label>Title : </label><input type="text" name="list_name" id="listtitle" autocomplete="off">
-                        <span class="error" style="display:none;">Please enter a title for your list</span>
-                        <label>Visibility : </label>
-                        <div class="outer-select">
-                            <div class="select" data-selected="0"><span class="label">Public</span><span class="arrow"></span></div>
-                            <div class="select-inner">
-                                <ul>
-                                    <li data-value="0"><a href="#">Public</a></li>
-                                    <li data-value="1"><a href="#">Friends</a></li>
-                                    <!-- <li data-value="2"><a href="#">Some people</a></li> -->
-                                    <li data-value="3"><a href="#">Private</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                        <a href="javascript:void(0);" class="delete">Delete your list</a>
-                        <input type="button" name="envoyer" value="Modify my list">
-                        <a href="javascript:void(0);" class="cancel">Cancel</a>
-                    </form>
-                </div>
-                <!-- Popup edit pick -->
-                <div class="popupBox popup_list" id="update_pick" style="display: none;">
-                    <h5>Modify my pick</h5>
-                    <form method="post" action="#">
-                        <label>Title : </label><input type="text" name="pick_name" id="picktitle" autocomplete="off">
-                        <span class="error" style="display:none;">Please enter a title for your pick</span>
-                        <label>List : </label>
-                        <div class="outer-select">
-                            <div class="select" data-selected="0"><span class="label">Public</span><span class="arrow"></span></div>
-                            <div class="select-inner">
-                                <ul></ul>
-                            </div>
-                        </div>
-                        <a href="javascript:void(0);" class="delete">Delete your pick</a>
-                        <input type="button" name="envoyer" value="Modify my pick">
-                        <a href="javascript:void(0);" class="cancel">Cancel</a>
-                    </form>
-                </div>
-                <!-- Popup create list -->
-                <div class="popupBox popup_list" id="create_list" style="display: none;">
-                    <h5>Create a new list</h5>
-                    <form method="post" action="#">
-                        <label>Title : </label><input type="text" name="list_name" id="newlisttitle" autocomplete="off">
-                        <span class="error" style="display:none">Please enter a title for your list</span>
-                        <label>Visibility : </label>
-                        <div class="outer-select">
-                            <div class="select" data-selected="0"><span class="label">Public</span><span class="arrow"></span></div>
-                            <div class="select-inner">
-                                <ul>
-                                    <li data-value="0"><a href="#">Public</a></li>
-                                    <li data-value="1"><a href="#">Friends</a></li>
-                                    <!-- <li data-value="2"><a href="#">Some people</a></li> -->
-                                    <li data-value="3"><a href="#">Private</a></li>
-                                </ul>
-                            </div>
-                        </div>
-                        <input type="button" name="envoyer" value="Create my list">
-                        <a href="javascript:void(0);" class="cancel">Cancel</a>
-                    </form>
-                </div>
-                <!-- Popup deal connected followed -->
+                                <!-- Popup deal connected followed -->
                 <div class="popupBox popup_list" id="deal_popup" data-deal-id="0" data-deal-entity-id="0" data-deal-entity-type="0" style="display: none"></div>
                                 <div class="popupBox popup_list" id="share_list" style="display: none;"></div>
                 <div class="popupBox popup_login" id="login_popup" style="display: none;"></div>
             </div>
             <div class="background"></div>
         </div>
-        <div id="header">
-            <div id="left_header">
-                <div id="logo"><a style="width: 100%; height: 100%; display: block;" href="/timelines"></a></div>
-                <ul id="menu">
-                    <li class="first">
-                        <a href="/timelines" onclick="_gaq.push(['_trackEvent', 'Website', 'Timelins', 'Click on timelines', 1]);"><span>News</span></a></li>
-                    <li id="menu2">
-                        <a href="/categories" onclick="_gaq.push(['_trackEvent', 'Website', 'Category', 'Click on category', 2]);"><span>Categories</span></a>
-                                                    <div class="subCategs">
-                                <span class="fleche"></span>
-                                <ul>
-                                                                                                                    <li><a href="http://www.pickture.com/p/women" title="Women's fashion">Women's fashion</a></li>
 
-                                                                                                                    <li><a href="http://www.pickture.com/p/men" title="Men's fashion">Men's fashion</a></li>
-
-                                                                                                                    <li><a href="http://www.pickture.com/p/children" title="Children">Children</a></li>
-
-                                                                                                                    <li><a href="http://www.pickture.com/p/technology" title="High-tech">High-tech</a></li>
-
-                                                                                                                    <li><a href="http://www.pickture.com/p/home" title="Home">Home</a></li>
-
-                                                                                                                    <li><a href="http://www.pickture.com/p/gastronomy" title="Gastronomy">Gastronomy</a></li>
-
-                                                                                                                    <li><a href="http://www.pickture.com/p/beauty-health" title="Beauty &amp; Health">Beauty &amp; Health</a></li>
-
-                                                                                                                    <li><a href="http://www.pickture.com/p/sports-fun" title="Sports &amp; Leisure">Sports &amp; Leisure</a></li>
-
-                                                                                                                    <li><a href="http://www.pickture.com/p/vehicles" title="Vehicles">Vehicles</a></li>
-
-                                                                                                                    <li><a href="http://www.pickture.com/p/DIY" title="Creative arts">Creative arts</a></li>
-
-                                                                                                                    <li><a href="http://www.pickture.com/p/pets" title="Pets">Pets</a></li>
-
-                                                                                                                    <li><a href="http://www.pickture.com/p/arts-culture" title="Arts &amp; Culture">Arts &amp; Culture</a></li>
-
-                                                                                                                    <li><a href="http://www.pickture.com/p/office" title="Office">Office</a></li>
-
-                                                                                                                    <li><a href="http://www.pickture.com/p/travel" title="Travel">Travel</a></li>
-
-                                                                    </ul>
-                            </div>
-                                            </li>
-                    <li class="last" id="menu3">
-                        <a href="/brands" onclick="_gaq.push(['_trackEvent', 'Website', 'Community', 'Click on community', 2]);"><span>Community</span></a>
-                        <!-- <div class="subCategs">
-                            <span class="fleche"></span>
-                            <ul>
-                                <li><a href="/brands#top-100">Top brands</a></li>
-                                <li><a href="#">Top shops</a></li>
-                                <li><a href="#">Top trendsetters</a></li>
-                            </ul>
-                        </div> -->
-                    </li>
-                </ul>
-                <form action="/search" method="get" id="formsearch">
-                    <input type="text" name="search" id="search" placeholder="Search..." autocomplete="off">
-                    <div id="live_search"></div>
-                </form>
-            </div>
-            <div id="right_header">
-                            <div id="account" class="loggedOut">
-                                        <a class="signup" href="#"><font></font>Register</a>
-                                        <a class="login" href="#">Sign in</a>
-                </div>
+        <div class="header">
+            <div class="header-content">
+                <div class="header-container">
+                    <div class="header_left">
+                        <div class="logo">
+                            <a href="/"></a>
                         </div>
+                        <div class="navigation">
+                            <ul class="menu_header">
+                                <li><a href="/categories" onclick="">Picks</a></li><!--
+                             --><li><a onclick="" href="/community">Community</a></li><!--
+                             --><li><a href="/deals/all?utm_source=dealsHeader&amp;utm_medium=PicktureSite&amp;utm_content=buttonHeaderDeals&amp;utm_campaign=dealsfollow#all" onclick="">Deals</a></li><!--
+
+                             --><!-- <li><a href="#" onclick="">Trending</a></li>-->
+                            </ul>
+                        </div>
+                    </div><!--
+                --><div class="header_right"><!--
+                     --><form class="header_form" action="/search" method="get">
+                            <input type="text" class="header_sb" placeholder="Search" autocomplete="off" name="search">
+                            <div id="live_search"></div>
+                        </form><!--
+                        -->                        <div class="profil loggedOut">
+                                                        <div class="blk_signup">
+                                <div class="lnk_signup stack_elem_landing">
+                                    <a class="signup" href="#"><font></font>Register</a>
+                                </div>
+                            </div>
+                             
+                             <div class="blk_login">
+                                <div class="lnk_login stack_elem_landing">
+                                    <a href="#" class="login">Log in</a>
+                                </div>
+                            </div>  
+                        </div>
+                                        </div>
+                </div>
+            </div>
+
+
+                <div class="second_menu">
+                    <ul class="second_menu_container">
+                        <li><a class="communityIndex" href="/community/">Best of community</a></li><!--
+                     --><li><a class="communityBrands" href="/community/brands">Brands</a></li><!--
+                     --><li><a class="communityTrendsetters" href="/community/trendsetters">Trendsetters</a></li><!--
+                     --><!--<li><a href="#">Mon réseau</a>-->
+                    </ul>
+                </div>
+
+                <div class="second_menu">
+                    <ul class="second_menu_container">
+                        <li><a class="dealsUnmissable" href="/deals/unmissable">My favourite deals</a></li><!--
+                     --><li><a class="dealsAll" href="/deals/all">All deals</a></li>
+                    </ul>
+
+                    <div class="slogan_container">
+                        <a href="/extension/download" class="first_slogan">Now great <span>deals</span> can follow you everywhere ! </a>
+                    </div>
+                </div>
+
         </div>
+
         <div id="popup_concours"></div>
-                <div class="content">
+        
+        <div class="content">
+
 <div id="sidebarBorder">
     <ul id="sidebar">
         <li class="first "><a href="/help/about">About<span></span></a></li>
@@ -221,9 +143,9 @@
         <li><a href="/help/partner">Partnership<span></span></a></li>
         <li class="selected"><a href="/help/policy">Privacy<span></span></a></li>
         <li><a href="/help/terms">Terms of Use<span></span></a></li>
+        <li><a href="/help/impressum">Legal notices<span></span></a></li>
         <li><a href="/help/cookies">Cookie Policy<span></span></a></li>
-        <!-- <li ><a href="/help/competition">Competition Rules<span></span></a></li> -->
-        <li class="last">&nbsp; <span></span></li>
+                <li class="last">&nbsp; <span></span></li>
     </ul>
 </div><div class="sidebarContentBorder" id="privacy">
     <div id="sidebarContent">
@@ -279,23 +201,27 @@
         <p>We hold the right to modify this privacy policy, and this case, we will publish all changes on this page. If you continue to use Pickture once the changes are effective, you agree to accept the modifications. If the changes are important, we will provide a more prominent notice or obtain your consent required by law.</p>
     </div>
 </div>
-<div class="c_both"></div>    </div> 
+<div class="c_both"></div>        </div> 
 
-    <div id="fb-root"></div>
-    <script>var fbPublicAppKey = '475632199144551';</script>
-                    <script type="text/javascript" src="http://static2.pickture.com/static/js/vendors/jquery/jquery-1.9.1.min.js"></script>
-                <script type="text/javascript" src="http://static2.pickture.com/static/js/vendors/jquery/jquery.customSelect.min.js"></script>
-                <script type="text/javascript" src="http://static2.pickture.com/static/js/vendors/jquery/jquery.lazyload.min.js"></script>
-                <script type="text/javascript" src="http://static2.pickture.com/static/js/vendors/jquery/jquery.icheck.min.js"></script>
-                <script type="text/javascript" src="http://static2.pickture.com/static/js/vendors/jquery/jquery.mCustomScrollbar.concat.min.js"></script>
-                <script type="text/javascript" src="http://static2.pickture.com/static/js/vendors/underscore/underscore-min.js"></script>
-                <script type="text/javascript" src="http://static2.pickture.com/static/js/commons/namespaces/AjaxManager.js"></script>
-                <script type="text/javascript" src="http://static2.pickture.com/static/js/commons/namespaces/Pickture.js"></script>
-                <script type="text/javascript" src="http://static2.pickture.com/static/js/commons/components/popupManager.js"></script>
-                <script type="text/javascript" src="http://static2.pickture.com/static/js/main.js"></script>
-                <script type="text/javascript" src="http://static2.pickture.com/static/js/templates/help.js"></script>
-                <script type="text/javascript" src="http://static2.pickture.com/static/js/pages/header.js"></script>
-                <script type="text/javascript" src="/static/js/feedback.js"></script>
+        <div id="fb-root"></div>
+        <script>var fbPublicAppKey = '475632199144551';</script>
+                                <script type="text/javascript" src="http://static2.pickture.com/static/js/vendors/jquery/jquery-1.9.1.min.js?v=e020878"></script>
+                        <script type="text/javascript" src="http://static2.pickture.com/static/js/vendors/jquery/jquery.customSelect.min.js?v=e020878"></script>
+                        <script type="text/javascript" src="http://static2.pickture.com/static/js/vendors/jquery/jquery.lazyload.min.js?v=e020878"></script>
+                        <script type="text/javascript" src="http://static2.pickture.com/static/js/vendors/jquery/jquery.icheck.min.js?v=e020878"></script>
+                        <script type="text/javascript" src="http://static2.pickture.com/static/js/vendors/jquery/jquery.mCustomScrollbar.concat.min.js?v=e020878"></script>
+                        <script type="text/javascript" src="http://static2.pickture.com/static/js/vendors/underscore/underscore-min.js?v=e020878"></script>
+                        <script type="text/javascript" src="http://static2.pickture.com/static/js/commons/namespaces/AjaxManager.js?v=e020878"></script>
+                        <script type="text/javascript" src="http://static2.pickture.com/static/js/commons/namespaces/BaseObject.js?v=e020878"></script>
+                        <script type="text/javascript" src="http://static2.pickture.com/static/js/commons/namespaces/Pickture.js?v=e020878"></script>
+                        <script type="text/javascript" src="http://static2.pickture.com/static/js/commons/components/customSelect.js?v=e020878"></script>
+                        <script type="text/javascript" src="http://static2.pickture.com/static/js/main.js?v=e020878"></script>
+                        <script type="text/javascript" src="http://static2.pickture.com/static/js/commons/components/popupManager.js?v=e020878"></script>
+                        <script type="text/javascript" src="http://static2.pickture.com/static/js/templates/help.js?v=e020878"></script>
+                        <script type="text/javascript" src="http://static2.pickture.com/static/js/commons/components/customCheckbox.js?v=e020878"></script>
+                        <script type="text/javascript" src="http://static2.pickture.com/static/js/pages/register/lbProcess.js?v=e020878"></script>
+                        <script type="text/javascript" src="http://static2.pickture.com/static/js/pages/header.js?v=e020878"></script>
+                            <script type="text/javascript" src="/static/js/feedback.js"></script>
     
 
 </body></html>
