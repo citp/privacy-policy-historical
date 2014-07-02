@@ -1,0 +1,255 @@
+<!--The following is the downloaded HTML source of the valuepotion.com privacy policy that was archived on 2014-07-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140702224514id_/https%3A//www.valuepotion.com/legal/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en" ng-app="valuepotion"><head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-6.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"74567b2ce7","applicationID":"4231938","transactionName":"cFpeQhFXWVgEQkxaWF5QH0YRUUNVAkk=","queueTime":0,"applicationTime":5,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-411.min.js"}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgMAUFJSGwcCV1BbBAk="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+<link rel="shortcut icon" href="/assets/favicon-009fe46fbf8a26d3856d1daed92a73da.ico">
+<title>Privacy | Valuepotion</title>
+<!--[if lt IE 9]>
+<script src="/assets/jquery-1.11.0.min-505b5ebe49a5649c12d80206651ebbe9.js"></script>
+<![endif]-->
+<link href="/assets/vp-home-2d82d81d1c37d3a41b598ddedf0d10b6.css" media="all" rel="stylesheet">
+<script src="/assets/application-f44224f16033094f92f8cc128f86dc1b.js"></script>
+<meta content="authenticity_token" name="csrf-param">
+<meta content="NUUz5PxTkt8rgI+HcX+9dkVrJ98AhmFSo2m4FRs+AW0=" name="csrf-token">
+</head>
+<body ng-controller="HomeTermCtrl" ng-cloak="">
+<div id="daumIndex"> <!-- 웹접근성용 바로가기 링크 모음 -->
+  <a href="#daumBody">본문 바로가기</a>
+  <a href="#daumGnb">메뉴 바로가기</a>
+</div>
+<div id="daumPromotion" class="prm_value">
+  <div id="daumHead" class="head_valueevt {{useThinBar ? 'thin' : ''}}">
+    <div class="inner_header">
+      <h1 class="tit_logo">
+        <a href="/" id="daumServiceLogo" class="link_logo"><span class="ir_wa">ValuePotion</span></a>
+      </h1>
+      <h2 class="screen_out">ValuePotion menu</h2>
+      <div id="daumGnb" class="" role="navigation">
+        <ul class="gnb_value">
+          <li><a href="/home/analytics" class="link_gnb">Analytics</a></li><!-- on클래스 추가로 메뉴 활성화 -->
+          <li><a href="/home/marketing" class="link_gnb">Marketing</a></li>
+          <li><a href="/home/monetize" class="link_gnb">Monetization</a></li>
+          <li><a href="/home/price" class="link_gnb">Pricing</a></li>
+        </ul>
+      </div>
+      <ul class="list_utility">
+        <!-- <li><a href="/users/sign_up" class="link_menu">sign up</a></li> -->
+        <li class="lst"><a href="/users/sign_in" class="link_menu">login</a></li>
+      </ul>
+    </div>
+  </div>
+  <hr class="hide">
+  <!-- 서브 컨텐츠 시작 -->
+  <!-- 2014-06-02 privacypolicy page 시작 -->
+  <div id="daumContent" class="cont_privacy" role="main">
+    <h2 id="daumBody" class="screen_out">Privacy Policy contents</h2>
+    <div class="intro_value">
+      <h3 class="tit_main">Privacy Policy</h3>
+    </div>
+    <div class="info_type1">
+      <div class="detail_cont">
+        <h4 class="tit_intro">Valuepotion Privacy Policy</h4>
+        <p class="txt_intro">Daum only acquires, uses and shares the user information that you expressly consent to for our collection, use and sharing. We understand the importance of protecting your information and that is why we actively guarantee your right to freely determine and manage your own user information.<br><br>“Valuepotion Privacy Policy” means the guidelines that we must comply with in protecting the valuable personal information of users so that such users may safely use Valuepotion. We follow and abide by the Korean Act on the Protection of Personal Information and its guidelines.<br><br>In principle, this Privacy Policy applies to the services provided and operated by “Valuepotion”. Our Privacy Policy is governed by and interpreted in accordance with the laws of the Republic of Korea.</p>
+
+        <div class="wrap_detail">
+          <strong class="tit_value">1. Daum acquires the following items of information from our users.</strong>
+          <p class="desc_value">We collect information from you solely to the extent necessary to provide our services.</p>
+          <ul class="list_value">
+            <li>1) Required Information<br>- name, company name, e-mail address, password</li>
+            <li>2) Optional Information for the use of paid services<br>
+            - Information that may be necessary for transacting payments such as bank account information(bank name, account number, bank account holder name),  payment records
+            </li>
+            <li>3) In addition, the following information may be automatically generated and collected during your use of the services.<br>
+            - IP address, cookies, date and time of log-in, records about your use of the services and any improper usage of services</li>
+          </ul>
+          <br>
+          <p class="desc_value">However, the collection of such information is limited to the information existing at the time you provide your consent. In any case where we are required to acquire additional information, we will notify you of such requirement and obtain your prior consent.<br><br>We may acquire your user information during your use of the services, by fax and telephone, email and written document.</p>
+          <strong class="tit_value">2. For what purposes does Daum use your information?</strong>
+          <p class="desc_value">We only use the information that you share with us for the following purposes. If we make any changes, we will obtain your prior consent.</p>
+          <ul class="list_value">
+            <li>1) Your information is used to identify and confirm your membership registration your age and to prevent the unlawful use of our services by delinquent members.</li>
+            <li>2) Your information is used to provide you with various services offered by Daum, to handle your inquiries or complaints during your use of the services and to inform you of announcements and notices.</li>
+            <li>3) Your information is used to provide the services promised to our members and to settle any payments in the case of the purchase and use of our paid services.</li>
+            <li>4) Your information is used for marketing and advertising purposes such as providing notices about opportunities to participate in the development of new services or events and offer customized services.</li>
+            <li>5) Your information is used for obtaining statistical information on your usage patterns, analysis of frequency of log-ins and use of our services for future reference in providing customized services and developing new services.</li>
+          </ul>
+          <strong class="tit_value">3. For how long will Daum use your information?</strong>
+          <p class="desc_value">We will use and maintain your information for a limited period of time starting from the time when you provide us with your information upon membership registration and throughout your use of our services. If you request for de-registration as a member or withdraw your consent to the receipt and use of your information, or the purpose of acquiring and using your information is achieved or the period of storing and using your information expires, we will immediately delete your information.<br><br>However, your name, company name, e-mail address will be safely retained for a period of six (6) months to prevent any problems in the use of our services or prevent any unlawful use of our services.<br><br>
+          In addition, we will retain your information for the period of time stipulated under applicable laws and regulations which include the following:</p>
+          <div class="wrap_channel">
+            <ul class="list_value">
+              <li>1) Log-in records relating to the use of the services<br>- Basis of retention: ACT ON THE PROTECTION OF COMMUNICATIONS SECRETS<br>- Period of retention: Three (3) months</li>
+              <li>2)  Records concerning consumer complaints and handling of disputes<br>
+              - Basis of retention: : ACT ON CONSUMER PROTECTION IN ELECTRONIC COMMERCE TRANSACTIONS,ETC<br>
+              - Period of retention: Three (3) years
+              </li>
+              <li>3) Records concerning Indication/ Advertisement<br>
+              - Basis of retention: : ACT ON CONSUMER PROTECTION IN ELECTRONIC COMMERCE TRANSACTIONS,ETC<br>
+              - Period of retention: Six (6) months
+              </li>
+              <li>4) Records concerning contract and withdrawal, etc<br>
+              - Basis of retention: : ACT ON CONSUMER PROTECTION IN ELECTRONIC COMMERCE TRANSACTIONS,ETC<br>
+              - Period of retention: Five (5) years
+              </li>
+              <li>5) Records concerning Payment and the supply of goods<br>
+              - Basis of retention: : ACT ON CONSUMER PROTECTION IN ELECTRONIC COMMERCE TRANSACTIONS,ETC<br>
+              - Period of retention: Five (5) years
+              </li>
+              <li>6) Records concerning Electronic Financial Transactions<br>
+              - Basis of retention: Electronic Financial Transactions Act<br>
+              - Period of retention: Five (5) years
+              </li>
+            </ul>
+          </div>
+          <strong class="tit_value">4. Daum does not delegate the task of handling user information to third parties</strong>
+          <p class="desc_value">“Delegation of the task of handling user information” means the delegation of a portion of our tasks in handling your user information that are absolutely necessary to provide you with various services.<br><br>We do not delegate any tasks of handling user information and share any user information with third parties for such purposes. Should we require the delegation of certain tasks of handling your user information to third parties for the purpose of smoothly conducting such tasks such as handling user complaints, we will ensure to obtain your prior consent.</p>
+          <strong class="tit_value">5. In principle, Daum does not share your user information with third parties.</strong>
+          <p class="desc_value">“Sharing information with third parties” means we share your information with third parties to provide a more wide range of services to you and increase our service quality, which may or may not be necessary in providing our services.<br><br>In principle, we do not share your user information with others. However, if we are required to share your information, we will obtain your prior consent in accordance with the applicable laws and regulations, except in the following cases.<br><br></p>
+          <ul class="list_value">
+            <li>1) When you have already agreed on sharing your information to third parties</li>
+            <li>2) Where we are required by courts or other governmental entities to disclose your information pursuant to applicable laws and regulations.</li>
+          </ul>
+          <strong class="tit_value">6. When and how does Daum destroy information acquired from users?</strong>
+          <p class="desc_value">We promise to delete, without any delay, your information after the purposes for acquiring and using such information have been achieved.<br><br>However, your information will be destroyed after we retain it for a period of six (6) months after the time you de-register as a member of Valuepotion in a storage space that is separate from the existing storage space and for any additional period of time that may be required by our internal policies and/or applicable laws and regulations. Except as required by law, your information will not be used for any purposes other than those set out in this Privacy Policy. After the expiration of the retention period, the electronically stored personal information will be deleted by using technical methods that render the information irretrievable, and any user information retained in written form will be destroyed by shredding or incineration.
+          </p>
+          <strong class="tit_value">7. Daum protects the rights of its users.</strong>
+          <p class="desc_value">We protect the rights of our users as follows.</p>
+          <ul class="list_value">
+            <li>1) You may review and change their own registered personal information at any time. (To review or change your personal information, click on “Users” to review or change your personal information after completing the identity authentication process.)</li>
+            <li>2) You may request to withdraw their consent on the provision of personal information or de-register as a member at any time. (To de-register as a member, click on “De-registration” and then complete the identity authentication process to de-register as a member.)</li>
+            <li>3) Your information of users is not used or disclosed until necessary changes have been made for the accurate use and provision of personal information. In addition, if such inaccurate personal information has already been provided to a third party, we will notify, without any delay, such third party thereof and ensure to accurately change the relevant personal information.</li>
+          </ul>
+          <strong class="tit_value">8. We set and use cookies that may be rejected.</strong>
+          <ul class="list_value">
+            <li>1) What are cookies?<br>A cookie is a very small text file that is sent to your browser by the server used to operate a website and is stored on your computer.</li>
+            <li>2) Why do we use cookies?<br>
+We store your preferences by using cookies to provide you with a faster web environment and to improve services for a more convenient user experience. By using cookies, we enable you to easily and conveniently use our services.<br>We analyze the frequency of your log-ins, log-in time, level of participation in events, frequency of visits for different services to determine your preferences and interests. Based on such analysis, we also provide customized services such as advertisements.
+            </li>
+            <li>3) How do I reject cookies?<br>
+You have the choice of accepting or rejecting cookies. You may accept all cookies, be notified when a cookie is set or reject all cookies by configuring the relevant option on your web browser. However, if you reject all cookies, you may not be able to use our services properly and may experience difficulty in the use of services that require you to log-in.
+            </li>
+          </ul>
+          <strong class="txt_value">Option Setting Example</strong>
+          <div class="wrap_channel">
+            <strong class="tit_value">For Internet Explorer:</strong>
+            <p class="desc_value">Click on the "Tools" menu and select "Options".<br>Click “Internet Options” on the “Tools” menu on top of the IE web browser. Then, click the “Privacy” tab and then “Settings”</p>
+            <strong class="tit_value">For Chrome:</strong>
+            <p class="desc_value lst">Open Internet explorer window<br>
+            Select “Settings” on the right-side of the Chrome web browser. Click on “Show advanced settings”. In the “Privacy” section, click the “Content settings” button. Change the “Cookies” settings.</p>
+          </div>
+          <strong class="tit_value">9. We make great efforts to protect your valuable user information</strong>
+          <p class="desc_value">We regard your information to be your most valuable asset and therefore make great efforts to safely handle and protect your information.</p>
+          <ul class="list_value">
+            <li>1) We encrypt your information.<br>
+We transmit your information by using an encrypted transmission link and store important information such as your password in an encrypted form.</li>
+            <li>2) We strive to protect your information from hacking attempts and computer viruses.<br>
+In order to prevent the unauthorized disclosure or damage to your information caused by illegal hacking or computer viruses, etc., we have set up our systems in a secured and controlled area. We have installed a 24-hour surveillance system that detects and blocks any attempts of intrusion such as computer hacking. We implement security measures by installing vaccine programs to prevent our systems from being infected by computer viruses, malicious codes, etc. In addition, we continuously research new anti hacking and system security technologies to apply such technology to our services.
+            </li>
+            <li>3) We minimize access to your information.<br>
+We minimize the number of employees that handle your information and also restrict internet access on workplace computers to minimize any risks of unauthorized disclosure of your information. We implement systematic guidelines for the creation and changing of passwords for database systems and processing systems that respectively store and process your information and the granting of access authorization to such systems and continuously conduct compliance audits.
+            </li>
+            <li>4) We conduct employee training regarding information protection on a regular basis.<br>
+We conduct regularly-held training and awareness campaigns regarding our obligations to protect your information and security guidelines to all of our officers and employees that handle your information.
+            </li>
+            <li>5) We offer you with various security measures.<br>
+We offer you various security measures such as blocking log-ins from overseas IP addresses and specific IP addresses. We also provide services such as Daum Cleaner for reviewing log-in records and the security of your computer.
+            </li>
+          </ul>
+          <strong class="tit_value">10. Retention of Information and Overseas Transfer</strong>
+          <p class="desc_value">We do not transfer your information overseas without your consent. In case an overseas transfer is required, we will ensure to notify you of such requirement and obtain your prior consent in accordance with applicable laws and regulations. We will comply with all security measures required by law and international agreements and cooperate with relevant regulatory authorities including the local data protection authorities.</p>
+          <strong class="tit_value">11. International Users</strong>
+          <p class="desc_value">This Policy and the privacy practices of Valuepotion will be subject exclusively to the laws of the Republic of Korea. Valuepotion makes no representation that this Policy and our practices comply with the laws of any other country or jurisdiction. You who use the Services and reside outside the Republic of Korea do so on their own initiative and are responsible for compliance with your local laws, if and to the extent local laws are applicable. If you reside outside of Republic of Korea, by using the Services, you consent to the transfer, processing and use of your personal information outside your country.</p>
+          <strong class="tit_value">12. We operate a special team dedicated to protecting your information.</strong>
+          <p class="desc_value">We designate and operate a team dedicated to protecting your information and respond to your inquiries and suggestions. If you have any questions or suggestions, please contact the person in charge below at any time and we will make sure to provide you with a satisfactory response.</p>
+          <div class="wrap_personal">
+            <strong class="txt_value">Personal Information Management, Person in Charge and Department</strong>
+            <div class="info_personal">
+              <div class="cont_personal fst">
+                <span class="desc_personal">Person in Charge: Myeong-Joo Heo</span>
+                <span class="desc_personal">Department: Personal Information Protection Team</span>
+              </div>
+              <div class="cont_personal">
+                <span class="desc_personal">Telephone: 82) 1577-3321</span>
+                <span class="desc_personal">Inquiry: support@valuepotion.com</span>
+              </div>
+            </div>
+            <br>
+            <p class="desc_value">If you believe your information has been compromised and wish to report such incident or seek advice, please contact the institutions below for assistance.</p>
+            <div class="info_center info_left">
+              <div class="inner_center">
+                <strong class="tit_center">Personal Information Violation Reporting Center</strong>
+                <span class="txt_center">(without the area code)118</span>
+                <a href="#none" target="_blank" class="link_txt">http://privacy.kisa.or.kr</a>
+              </div>
+            </div>
+            <div class="info_center">
+              <div class="inner_center">
+                <strong class="tit_center">Privacy Mark Certification Association</strong>
+                <span class="txt_center">02-550-9531~2</span>
+                <a href="#none" target="_blank" class="link_txt">http://www.eprivacy.or.kr</a>
+              </div>
+            </div>
+            <div class="info_center info_left">
+              <div class="inner_center">
+                <strong class="tit_center">Cybercrime Investigation Department, Supreme Public Prosecutors’ Office</strong>
+                <span class="txt_center">02-3480-3571</span>
+                <a href="#none" target="_blank" class="link_txt">cybercid@spo.go.kr</a>
+              </div>
+            </div>
+            <div class="info_center">
+              <div class="inner_center">
+                <strong class="tit_center">Cyber Terror Response Center, National Police Agency</strong>
+                <span class="txt_center">(without the area code)182</span>
+                <a href="#none" target="_blank" class="link_txt">http://www.ctrc.go.kr</a>
+              </div>
+            </div>
+          </div>
+          <strong class="tit_value">13. Miscellaneous/Additional Policies</strong>
+          <p class="desc_value">We may update this Privacy Policy from time to time. We will notify you of such changes through our website at least seven (7) days prior to the effective date of such changes. However, in the case of any significant changes that may affect your rights or obligations, you will be notified at least thirty (30) days prior to the effective date of such changes.</p>
+          <ul class="list_value2">
+            <li>- Privacy Policy Version 1.0</li>
+            <li>- Effective Date of Privacy Policy: June 11, 2014</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- //2014-06-02 privacypolicy page 종료 -->
+
+  <hr class="hide">
+  <div id="daumFoot" class="foot_value" role="contentinfo">
+    <div class="inner_foot">
+      <strong class="screen_out">Service Link</strong>
+      <div class="menu_service">
+        <a href="/legal/privacy" class="link_service" style="font-weight:bold">Privacy Policy</a>
+        <span class="txt_bar">|</span>
+        <a href="/legal/terms" class="link_service">Terms of Service</a>
+        <span class="txt_bar">|</span>
+        <!-- <a href="#none" target="_blank" class="link_service">Support</a>
+        <span class="txt_bar">|</span> -->
+        <a href="mailto:support@valuepotion.com" class="link_service">Contact Us</a>
+      </div>
+      <div class="wrap_btn">
+        <!-- <button type="button" class="btn_img btn_down">SDK Download</button> -->
+      </div>
+      <address class="txt_copyright">© 2013 valuepotion. All rights reserved.</address>
+    </div>
+  </div>
+</div>
+<script type="text/javascript">
+App.controller('HomeTermCtrl', ['$scope', function($scope) {
+  $(document).scroll(function() {
+    setTimeout(function() {
+      $scope.useThinBar = $(document).scrollTop() > 50;
+      $scope.$apply();
+    }, 0);
+  });
+}]);
+</script>
+
+
+<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
