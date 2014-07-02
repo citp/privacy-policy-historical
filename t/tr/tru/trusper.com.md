@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trusper.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327024351id_/http%3A//www.trusper.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trusper.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702154857id_/http%3A//www.trusper.com/privacy) for the most accurate reproduction.*
 
 # Trusper
 
@@ -60,4 +60,4 @@ We are not responsible for the practices employed by websites linked to or from 
 
 If we change our privacy policies and procedures, we will post those changes on this page to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. Changes to this Privacy Policy are effective when they are posted on this page.
 
-If you have any questions about this Privacy Policy, please contact us at info@trusper.com.
+If you have any questions about this Privacy Policy, please contact us at [info@trusper.com](mailto:info@trusper.com).
