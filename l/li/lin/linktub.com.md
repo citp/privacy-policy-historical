@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linktub.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213231333id_/https%3A//www.linktub.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linktub.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702190333id_/https%3A//www.linktub.com/privacy) for the most accurate reproduction.*
 
 # LinkTub
 
