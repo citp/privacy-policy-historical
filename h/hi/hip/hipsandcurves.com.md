@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hipsandcurves.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331045645id_/http%3A//www.hipsandcurves.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hipsandcurves.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702235921id_/http%3A//www.hipsandcurves.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Hips & Curves
 
