@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boxofads.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214104839id_/https%3A//www.boxofads.com/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boxofads.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702213232id_/https%3A//www.boxofads.com/privacy_policy.php) for the most accurate reproduction.*
 
 # BoxofAds - Privacy Policy
 
@@ -11,7 +11,7 @@ Thank you for visiting BoxOfAds.com and, if applicable, choosing to access our S
 Throughout this document, we may use certain words or phrases, and it is important that you understand the meaning of them. The following is a non-exhaustive list of definitions of words and phrases found in this document: 
 
 "Agreement" means these Terms of Service;  
-"BoxOfAds" refers to our company (Trade Direct), our Site, or our Service, depending on the context of the usage;  
+"BoxOfAds" refers to our company, our Site, or our Service, depending on the context of the usage;  
 "Service" refers to the services that we provide through our Site;  
 "Site" refers to our website, [www.BoxOfAds.com](http://www.boxofads.com/);  
 "User" refers to you, those who use our Services, and general visitors to our Site;  
@@ -26,7 +26,7 @@ We collect certain personal information from you when you sign up to our Service
 
 Information Collected by Payment Processors 
 
-When paying us through our third party payment processor, 2Checkout.com, they may require that you submit certain information such as your name, e-mail address, address, other contact information, credit card information, or such other information as they deem appropriate. This information is not held by BoxOfAds and you should consult the third party payment processor's legal agreements to determine your privacy rights with them. You agree any disputes regarding their use of your information will be brought without naming us as a defendant. 
+When paying us through third party payment processor, he may require that you submit certain information such as your name, e-mail address, address, other contact information, credit card information, or such other information as they deem appropriate. This information is not held by BoxOfAds and you should consult the third party payment processor's legal agreements to determine your privacy rights with them. You agree any disputes regarding their use of your information will be brought without naming us as a defendant. 
 
 Non-Identifying Information 
 
