@@ -1,58 +1,63 @@
-> *The following text is extracted and transformed from the pamlawhorne.com privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217031510id_/http%3A//pamlawhorne.com/terms-conditions) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pamlawhorne.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702160812id_/http%3A//pamlawhorne.com/privacy-policy) for the most accurate reproduction.*
 
-# Terms and Conditions | Pam Lawhorne
+# Privacy Policy
 
-#### What Information Do You Collect And How Do You Collect It?
+   
+This privacy policy sets out how **Empower U Inc** uses and protects any information that you give **Pam Lawhorne dba Empower U Inc** when you use this website.
 
-Pam Lawhorne/Empower U Inc only contacts individuals who specifically request that we do so or in the event that they have signed up to receive our free newsletters or have purchased one of our products. Pam Lawhorne/Empower U Inc collects personally identifying information from our users during online registration and online purchasing. Generally, this information includes name and e-mail address for registration to receive our free newsletters and name, postal address, and credit card information when purchasing our products. All of this information is provided to us by you.
+**Empower U Inc** is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-#### How Do We Use This Information?
+Empower U Inc may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from October 1st, 2012.
 
-This information is used for internal marketing purposes only. Pam Lawhorne/Empower U Inc does not sell, exchange, or release your personal information  (name, e-mail address, mailing address, credit data, etc.) Your information is not shared with any other third party or company outside of billing and shipping purposes.
+**What We Collect:**
 
-#### What Are Cookies And How Do We Use Them?
+We may collect the following information:
 
-Cookies help track a person’s “session” while online. By showing how and when our visitors use this Site, this information can help us to continue to improve our Site. We will only use cookies to view information on your hard drive that was put there by a cookie from this Site. The use of cookies is an industry standard and many web sites use them. Cookies are stored on your computer and not on this Site. If you do not wish to receive cookies, or want to be notified of when they are placed, you may set your web browser to do so, if your browser so permits.
-
-#### How Do We Store Your Information?
-
-Your information is stored at the list server that delivers Pam Lawhorne/Empower U’s newsletters. Your information can only be accessed by those who help manage those lists in order to deliver e-mail to those who would like to receive Pam Lawhorne/Empower U’s newsletters. All of the newsletters that are sent to you by Pam Lawhorne/Empower U Inc include an unsubscribe link in them. You can remove yourself at any time from our newsletters by clicking on the unsubscribe link.
-
-#### Return Policy & Customer Remedy
-
-Our company’s entire liability, and the purchaser’s exclusive remedy, shall be a refund of the price paid or replacement of our products, at our option. We limit replacement to thirty days. All remedies are limited to the United States. For digital products, see below.
-
-Some states do not allow the exclusion or limitation of liability, so the above limitations may not apply to you.
-
-#### Return Policy For Digital Content
-
-Unless otherwise stipulated on sales page, digital content purchased and/or downloaded from Pam Lawhorne/Empower U Inc is not returnable. If you experience technical problems accessing a download, we are happy to help you troubleshoot the problem. It is the customer’s responsibility to verify compatibility before purchase.
-
-#### Legal Disclaimer
-
-Every effort has been made to accurately represent our product and its potential. Any claims made of actual earnings or examples of actual results can be verified upon request. The testimonials and examples used are exceptional results, don’t apply to the average purchaser, and are not intended to represent or guarantee that anyone will achieve the same or similar results. Each individual’s success depends on his or her background, dedication, desire, motivation and effort.
-
-#### Be Aware Of Potential Risk
-
-As with any business endeavor, there is an inherent risk of loss of capital and there is no guarantee that you will earn any money or reach any goals you do not individually strive for. Do not buy this if you think it will automatically make you happy and successful just because you bought it. You must take action to succeed. As they say: “results not typical.” It really is up to you, I give you the tools and inspiration, your results will be proportional to the amount of effort and attention you give them.
-
-#### Right To Update
-
-This policy may be changed at any time at Pam Lawhorne/Empower U Inc’s' discretion. If we should update this policy, we will post the updates to this page on our Website. This policy was revised December 02, 2012. The information and inspiration from this website, any and all live and recorded events and products is intended for inspirational and informational purposes only.
-
-#### Copyrights & Licenses
-
-This web site and information contains copyrighted material, trademarks, and other proprietary information. You may not modify, publish, transmit, participate in the transfer or sale of, create derivative works of, on in any way exploit, in whole or in part, any Proprietary or other Material.
-
-None of the images, text, contents, products and scripts are licensed and never sold, unless otherwise stated and reproduction is strictly prohibited. You may not use, copy, emulate, clone, rent, lease, sell, modify, disassemble, otherwise reverse engineer, transfer the licensed program or product, or any subset of the licensed program or product, except as provided for in this agreement or expressly in writing. Any such unauthorized use shall result in immediate and automatic termination of this authorization or issuance or license and may result in criminal and/or civil prosecution.
-
-#### Seek Help When Necessary
-
-Always consult your own Doctor, Certified Mental Health professional or counselor before starting or modifying any treatment.  
- 
-
-Our company reserves all rights not expressly granted here.  
+  * name and job title
+  * contact information including email address
+  * demographic information such as postcode, preferences and interests
+  * other information relevant to customer surveys and/or offers
 
 
-**For Technical Support, please email us at[support@PamLawhorne.com](mailto:support@PamLawhorne.com)  
-or call us at 866.590.6511.** 
+
+**What We Do With The Information We Gather:**
+
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
+
+  * Internal record keeping.
+  * We may use the information to improve our products and services.
+  * We may periodically send promotional emails **** about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customize the website according to your interests.
+
+
+
+**Your Security:**
+
+We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure, **** we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+
+**How We Use Cookies:**
+
+A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+
+We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
+
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+
+**Links To Other[Websites](http://pamlawhorne.com/hostgator "HostGator"):**
+
+Our website may contain links to other [websites](http://pamlawhorne.com/hostgator "HostGator") of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+
+**Controlling Your Personal Information:**
+
+You may choose to restrict the collection or use of your personal information in the following ways:
+
+  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct [marketing](http://pamlawhorne.com/aweber "AWeber") purposes
+  * if you have previously agreed to us using your personal information for direct [marketing](http://pamlawhorne.com/aweber "AWeber") purposes, you may change your mind at any time by writing to or [emailing](http://pamlawhorne.com/aweber "AWeber") us at **[support@pamlawhorne.com](mailto:support@pamlawhorne.com "Contact Us")**
+
+
+
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
