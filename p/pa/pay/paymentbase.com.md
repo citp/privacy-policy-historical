@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paymentbase.com privacy policy that was archived on 2014-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140212154037id_/https%3A//www.paymentbase.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paymentbase.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702120249id_/https%3A//www.paymentbase.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Payment Base
 
@@ -22,15 +22,15 @@ Log out every time you have completed all orders and are about to exit the Payme
 
   * __Positive
 
-Anonymous, February 12, 2014
+Keng, July 01, 2014
 
   * __Positive
 
-Adang, February 11, 2014
+Mohammed, July 01, 2014
 
   * __Positive
 
-Anonymous, February 11, 2014
+Anonymous, July 01, 2014
 
 
 
