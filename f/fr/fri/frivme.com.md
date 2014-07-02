@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frivme.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330093958id_/http%3A//www.frivme.com/privacy-policy-for-www-frivme-com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frivme.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702060533id_/http%3A//www.frivme.com/privacy-policy-for-www-frivme-com) for the most accurate reproduction.*
 
 # Privacy Policy for www.FrivMe.com | Friv Games Online
 
