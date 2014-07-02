@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestporntube.me privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331035908id_/http%3A//www.bestporntube.me/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestporntube.me privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702094208id_/http%3A//www.bestporntube.me/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - bestporntube.me
 
