@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the holidayhypermarket.co.uk privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210013641id_/http%3A//www.holidayhypermarket.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holidayhypermarket.co.uk privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702090632id_/http%3A//www.holidayhypermarket.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Holiday Hypermarket Privacy Policy
 
