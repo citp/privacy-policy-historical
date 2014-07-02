@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the habitat.co.uk privacy policy that was archived on 2014-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140414224233id_/http%3A//www.habitat.co.uk/privacy/content/fcp-content) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the habitat.co.uk privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702103840id_/http%3A//www.habitat.co.uk/privacy/content/fcp-content) for the most accurate reproduction.*
 
 # Habitat - Privacy
 
@@ -97,7 +97,7 @@ For full details about our cookie policy, please see our [Cookie Policy](http:/
 For further information about shopping on habitat.co.uk, please read our [Terms and Conditions](http://www.habitat.co.uk/terms-and-conditions/content/fcp-content "Terms and conditions") and [Delivery and Return ](http://www.habitat.co.uk/delivery/content/fcp-content)information.
 
 **Contact Us  
-**21\. If you have any comments or queries in connection with our privacy policy, please email _[customerservices@habitat.co.uk](mailto:customerservices@habitat.co.uk)_ or call 0844 4994686 or write to the Data Protection Compliance Manager at Home Retail Group plc, 489-499 Avebury Boulevard, Milton Keynes, Buckinghamshire, MK92NW.
+**21\. If you have any comments or queries in connection with our privacy policy, please email _[customerservices@habitat.co.uk](mailto:customerservices@habitat.co.uk)_ or call 0344 499 4686 or write to the Data Protection Compliance Manager at Home Retail Group plc, 489-499 Avebury Boulevard, Milton Keynes, Buckinghamshire, MK92NW.
 
 **Changes to Policy  
 **22\. We may amend and update this policy from time to time. Any changes in the future will be posted on this page. The date of the latest update to this privacy policy is set out at the top of this policy. 
