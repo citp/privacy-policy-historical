@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the pmob.co.uk privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626185638id_/http%3A//www.pmob.co.uk/pob/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pmob.co.uk privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702204426id_/http%3A//www.pmob.co.uk/pob/privacy.htm) for the most accurate reproduction.*
 
 # CSS examples - Contact
 
   * ::You are here:
-  * [Home](https://web.archive.org/web/20140626185638id_/http%3A//www.pmob.co.uk/index.htm)
+  * [Home](https://web.archive.org/web/20140702204426id_/http%3A//www.pmob.co.uk/index.htm)
   * >Privacy Policy
 
 
