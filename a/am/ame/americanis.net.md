@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americanis.net privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209081547id_/http%3A//www.americanis.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americanis.net privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702220207id_/http%3A//www.americanis.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - AIS
 
