@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the awesem.co.uk privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210014942id_/http%3A//www.awesem.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awesem.co.uk privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702073740id_/http%3A//www.awesem.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy & Cookies Policy
+# Privacy Policy - AWESEM
 
-AWESEM Limited, registered in England and Wales. Company No. 0559177, (“We”) commit ourselves to protecting and respecting your privacy when visiting our website. This privacy policy sets out how we will process and use any personal data that you provide to us, or that we may collect as a result of visiting www.awesem.co.uk. Please read the following information to understand our practices with regards to your personal data and how we will treat it. For the purposes of the Data Protection Act 1998, the identity of our data controller shall be available upon enquiry by email.
+AWESEM Limited, registered in England and Wales. Company No. 0559177, (“We”) commit ourselves to protecting and respecting your privacy when visiting our website. This privacy policy sets out how we will process and use any personal data that you provide to us, or that we may collect as a result of visiting AWESEM.co.uk. Please read the following information to understand our practices with regards to your personal data and how we will treat it. For the purposes of the Data Protection Act 1998, the identity of our data controller shall be available upon enquiry by email.
 
 ## INFORMATION WE MAY COLLECT FROM YOU
 
@@ -50,6 +50,10 @@ _utmc | Holds timestamp of the exact moment in time when a visitor leaves the si
 _utmb | Holds timestamp of the exact moment in time when a visitor first visits the site  
 _utma | This cookie keeps track of the number of times a visitor has been to the site, when their first visit was, and when their last visit occurred.  
   
+### Google Adwords and Remarketing
+
+We use [Google Adwords](https://adwords.google.co.uk/%E2%80%8E) to advertise our services using keywords and website placements. We also use [Google Remarketing](http://www.google.co.uk/ads/innovations/remarketing.html) to advertise online and display adverts to our audience via the [Google Display Network](http://www.google.co.uk/ads/displaynetwork/). This means that our ads might be shown to you when you visit third-party sites, including Google and cookies are used to serve these ads based on past site visits. You can opt out of this by visiting [Google’s Ads Settings](https://support.google.com/ads/answer/2662922?hl=en-GB).
+
 ## USES MADE OF THE INFORMATION
 
 We use the information held about you in the following ways:
