@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yellowassistance.com privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215002907id_/http%3A//www.yellowassistance.com/frmPrivacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yellowassistance.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702092851id_/http%3A//www.yellowassistance.com/frmPrivacy.aspx) for the most accurate reproduction.*
 
 # YellowAssistance.com - Privacy Policy
 
