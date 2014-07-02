@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cassart.co.uk privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213091554id_/http%3A//www.cassart.co.uk/customer/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cassart.co.uk privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702170237id_/http%3A//www.cassart.co.uk/customer/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Cass Art
 
