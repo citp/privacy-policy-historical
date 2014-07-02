@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the localphone.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331022309id_/http%3A//www.localphone.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localphone.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702103226id_/http%3A//www.localphone.com/privacy) for the most accurate reproduction.*
 
 # Our Privacy Policy | Localphone
 
