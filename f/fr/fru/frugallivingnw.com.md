@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the frugallivingnw.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331031000id_/http%3A//www.frugallivingnw.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frugallivingnw.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702100943id_/http%3A//www.frugallivingnw.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Frugal Living NW
 
 **Your Privacy**
 
