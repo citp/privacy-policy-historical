@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the appointmentquest.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214052859id_/http%3A//www.appointmentquest.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appointmentquest.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702133634id_/http%3A//www.appointmentquest.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - AppointmentQuest Online Scheduling Software
 
 #### AppointmentQuest Privacy Statement
 
- | |  | [](http://www.truste.org/ivalidate.php?url=www.appointmentquest.com&sealid=101)AppointmentQuest is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, nonprofit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because AppointmentQuest wants to demonstrate our commitment to your privacy, we have agreed to disclose our information privacy practices for compliance review by TRUSTe.
+ | |  | AppointmentQuest is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, nonprofit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because AppointmentQuest wants to demonstrate our commitment to your privacy, we have agreed to disclose our information privacy practices for compliance review by TRUSTe.
 
 The TRUSTe trustmark reflects our promise to tell you what personal information we collect; the types of companies we may share your information with; the choices available to you regarding the collection, use, and distribution of the information; the security procedures in place to protect the loss or misuse of information under our control; and how you can correct inaccuracies in the information.
 
