@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the landregistry.gov.uk privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331032310id_/http%3A//www.landregistry.gov.uk/public/information/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landregistry.gov.uk privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702093938id_/http%3A//www.landregistry.gov.uk/public/information/privacy) for the most accurate reproduction.*
 
 # Privacy statement - Land Registry for England and Wales
 
@@ -42,7 +42,7 @@ Our terms and conditions set out what we may use your information for. You shoul
 
 Customers using our Find a property e–service will make payment in advance for services by credit/debit card. In relation to credit and debit cards, we comply with the Payment Card Industry Data Security Standards where applicable. When you pay for the services it will be via RBS Worldpay. Card holder information is held by the third party and not Land Registry. Your attention is drawn to the [privacy policy](http://www.rbsworldpay.com/about_us/index.php?page=terms&c=UK)  of RBS Worldpay.
 
-Customers using our free Property Alert service will be able to see day list information for up to three different title numbers at any given time. They will receive a message sent by email when an application or search is lodged against a title number they have selected. We will disclose details of anyone using the service if a request is made to identify individuals who are searching specific title numbers. 
+Customers using our free Property Alert service will be able to see day list information for up to ten different title numbers at any given time. They will receive a message sent by email when an application or search is lodged against a title number they have selected. We will disclose details of anyone using the service if a request is made to identify individuals who are searching specific title numbers. 
 
 ### People who use our business e-services
 
@@ -127,7 +127,7 @@ If we do hold information about you, you can ask us to correct any mistakes by, 
 
 ### Your choices 
 
-Land Registry seeks to ensure that your information and prefernces are accurate and complete. If you wish to view, change your information or opt out of receiving information from us, please let us know by sending your name, full address, email address and company name (if applicable) either:
+Land Registry seeks to ensure that your information and preferences are accurate and complete. If you wish to view, change your information or opt out of receiving information from us, please let us know by sending your name, full address, email address and company name (if applicable) either:
 
   * by email to [privacy@landregistry.gsi.gov.uk](mailto:privacy@landregistry.gsi.gov.uk)
   * or write to us at FREEPOST RSZE - TEZA - JCTH, Land Registry, CRM Team, Land Registry Croydon Office, Trafalgar House, 1 Bedford Park, Croydon, CR0 2AQ.  
