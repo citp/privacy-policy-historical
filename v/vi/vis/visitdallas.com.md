@@ -1,8 +1,25 @@
-> *The following text is extracted and transformed from the visitdallas.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213183908id_/http%3A//www.visitdallas.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visitdallas.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702125623id_/http%3A//www.visitdallas.com/privacy) for the most accurate reproduction.*
 
-# Dallas, Texas | Dallas Convention & Visitors Bureau
+# Privacy Policy | Dallas, Texas
 
-**Use of Information**  
+VISITDALLAS.COM PRIVACY POLICY
+
+Date of Last Revision: 05-30-14
+
+The Dallas Convention and Visitors Bureau, a Texas nonprofit corporation ( “DCVB”), has created this Privacy Policy (“Policy”) in order to demonstrate our firm commitment to the privacy of your personal information. The following discloses our information gathering and dissemination practices for this website located at VisitDallas.com and DCVB.com (the “Site”).
+
+This Policy tells you, among other things, what information we gather from you through our Site, how we may use or disclose that information, and our efforts to protect it.  
+
+ **Collection of Personal Information**  
+User information is collected primarily to provide a more efficient DCVB online experience, as well as new, updates and information to help the DCVB meet your needs.
+
+We may request that you voluntarily supply us with personal information such as your home zip/postal code and other such information. By voluntarily providing personal information, you are consenting to the collection and use of your personal information in accordance with the terms of this Policy.
+
+You may choose not to use any service that requires the use of your personal information in a manner not described in this Policy. Your use of the Site, or any other DCVB online services, will be considered to be your consent to the use of your personal information in the way described in this Policy.  
+ **  
+**
+
+ **Use of Information**  
 The information we collect via the registration process on the Site is used to better serve your online needs. It is the policy of DCVB not to sell, share, transfer, or rent to third parties any information you provide to DCVB, through the use of the Site, without your written consent except as required by operation of the law or in compliance with legal authorities; provided, however DCVB may share your personal information with certain third parties ("Target Third Parties") without your written consent in order to further the purpose for which you voluntarily provide the DCVB with the information or as expressly provided below. For example, DCVB engages third party information management service providers to help maintain efficient operations. Because such information management service providers may access our systems, such information management service providers may have access to your information. The DCVB does not transfer or relinquish ownership of information maintained about you within DCVB systems and databases to such information management service providers but requires these information management service providers to sign confidentiality agreements to keep all confidential information and other proprietary information found in our systems confidential.
 
 If you choose to create a DCVB profile or receive information, or to otherwise give us personal information, we may store some or all of that information and use it for marketing research and marketing purposes. The information is not collected for sale to third party marketers and we do not sell or distribute the information collected from the site for commercial marketing purposes.  DCVB is the owner of the information collected on this Site.    
@@ -27,6 +44,9 @@ You can refuse cookies by turning them off in your browser. You do not need to h
  **Collection and Use of IP Addresses**  
 We may use IP addresses to analyze trends, administer the Site, track user’s movement, and gather broad demographic information for aggregate use.  IP addresses are not linked to personally identifiable information.   Please see  Collection of Personal Information and Use of Information  for more information.
 
+ **Google Analytics**  
+On this website, we collect demographic data from Google's Interest-based advertising with Google Analytics. Visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the Ads Settings. Google Analytics' opt-out browser add-on is available at <https://tools.google.com/dlpage/gaoptout/>.  
+
  **Privacy on Public Forums**  
 This Site may make chat rooms, forums, and message boards available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information  Such information may be disseminated or used by DCVB or its affiliates for any purpose whatsoever, including, but not limited to, marketing related to attracting conventions and visitors to the Dallas area. 
 
@@ -49,7 +69,7 @@ Please note that after DCVB processes a change or deletes your personal informat
 
  **  
 E-Mail Communication From DCVB**  
-You will only receive e-mail from the DCVB if you have registered for one of our mailing lists or otherwise provided your email address to us. If you are currently on our list and do not wish to receive further information from us, [click here](mailto:ngreer@dallascvb.com?subject=Remove%20From%20E-List). To sign up for news, updates and information from the DCVB via e-mail, [click here](http://www.visitdallas.com/visitors/enews).
+You will only receive e-mail from the DCVB if you have registered for one of our mailing lists or otherwise provided your email address to us. If you are currently on our list and do not wish to receive further information from us, [click here](mailto:ndukowitz@dallascvb.com?subject=Remove%20From%20E-List). To sign up for news, updates and information from the DCVB via e-mail, [click here](http://www.visitdallas.com/visitors/enews).
 
  **  
 Electronic Newsletters**  
