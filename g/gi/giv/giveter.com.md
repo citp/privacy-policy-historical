@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the giveter.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209023303id_/http%3A//www.giveter.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giveter.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702102150id_/http%3A//www.giveter.com/privacy) for the most accurate reproduction.*
 
 # 
 
