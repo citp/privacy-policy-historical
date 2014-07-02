@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aicr.org privacy policy that was archived on 2014-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140225091309id_/http%3A//www.aicr.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aicr.org privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702142437id_/http%3A//www.aicr.org/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | American Institute for Cancer Research (AICR)
 
