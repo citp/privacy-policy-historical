@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mediahint.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330184327id_/https%3A//mediahint.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediahint.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702062820id_/https%3A//mediahint.com/privacy) for the most accurate reproduction.*
 
-# Media Hint » Privacy Policy
+# Media Hint
 
-MediaHint.com is a provider of free of charge proxy server services that are accessible via MediaHint browser extensions (“Our Software”) and are marketed on our website www.MediaHint.com (“Our Site”), together either separately called “Our Services”.
+MediaHint.com is a provider of proxy server services that are accessible via MediaHint browser extensions (“Our Software”) and are marketed on our website www.MediaHint.com (“Our Site”), together either separately called “Our Services”.
 
 Our Terms of Use and Privacy Policy apply to everybody who visits Our Site (“Visitors of Our Site”) and to everybody who downloads or uses Our Software (“Users of Our Software”), together either separately called “Users of Our Services”.
 
