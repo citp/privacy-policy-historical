@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bizchair.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330225924id_/http%3A//www.bizchair.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizchair.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702100846id_/http%3A//www.bizchair.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy | BizChair.com
 
@@ -14,5 +14,3 @@ _**1\. Disclosure to Third Parties:** We will not disclose any personal informat
 If you are uncomfortable ordering online, please click [here](http://lib.store.yahoo.net/lib/bizchair1/mail.pdf) to download a "mail order" form. Adobe Acrobat is required to view the document. To get it click the icon below.
 
 [ ](http://www.adobe.com/products/acrobat/readstep2.html)
-
-     
