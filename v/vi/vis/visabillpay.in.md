@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visabillpay.in privacy policy that was archived on 2014-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140510225618id_/https%3A//www.visabillpay.in/jsp/privacypolicy_vbp.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visabillpay.in privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702233147id_/https%3A//visabillpay.in/jsp/privacypolicy_vbp.htm) for the most accurate reproduction.*
 
 # Credit Cards | Offers | Convenience | Security | Visa Bill Pay India
 
