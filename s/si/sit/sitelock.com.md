@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sitelock.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331060750id_/https%3A//www.sitelock.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitelock.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702071715id_/https%3A//www.sitelock.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Website Security | Trust Seals | Protect Your Site with SiteLock | Privacy Policy
 
@@ -8,7 +8,8 @@
 
 Best Website  
 Security  Best Places  
-to Work 
+to Work    
+Online Trust Honor Roll 
 
 * * *
 
@@ -32,7 +33,7 @@ SiteLock, LLC complies with the U.S. – E.U. Safe Harbor framework and the U.S.
 
 2\. **Registration.** Customers are asked to provide certain personal information when they sign up for our Services including name, address, telephone number, billing information (such as a credit card number), and the type of personal computer being used to access the Services. Visitors inquiring about the Services may be asked to submit business information, such as company name and phone number. The personal information collected from Customers during the registration process is used to manage each Customer's account (such as for billing purposes). This information is not shared with third parties. The Company may also generate non-identifying and aggregate profiles from personal information Customers provide during registration (such as the total number, but not the names, of Customers). As explained in more detail below, we may use this aggregated and non-identifying information to sell advertisements that appear on the Services.
 
-3\. **The Company’s Partners and Sponsors.** Some of the Company products and services are offered to Visitors and Customers in conjunction with a non-affiliated partner. To provide Visitors and Customers some of these products and services, the partner may need to collect and maintain personal information. In these instances, we will provide such data collected or transferred to our Partners and Sponsors (e.g., domain registration). Additionally, many of the Company Customers have co-branded pages that are co-sponsored by non-affiliated partners. The Company will share non-identifying and aggregate information (except as described above), but not personal information, with such partners in order to administer the co-branded products or services offered. We may provide your personal information to companies that provide services to help us with our business activities such as providing additional security or compliance services. These companies are authorized to use your personal information only as necessary to provide these services to us. 
+3\. **The Company’s Partners and Sponsors.** Some of the Company products and services are offered to Visitors and Customers in conjunction with a non-affiliated partner. To provide Visitors and Customers some of these products and services, the partner may need to collect and maintain personal information. In these instances, we will provide such data collected or transferred to our Partners and Sponsors (e.g., domain registration). Additionally, many of the Company Customers have co-branded pages that are co-sponsored by non-affiliated partners. The Company will share non-identifying and aggregate information (except as described above), but not personal information, with such partners in order to administer the co-branded products or services offered. We may provide your personal information to companies that provide services to help us with our business activities limited to security, fraud detection and / or compliance services. These companies are authorized to use your personal information only as necessary to provide these services to us. 
 
 4\. **Responses to Email Inquiries.** When Visitors or Customers send email inquiries to the Company, the return email address is used to answer the email inquiry we receive. The Company does not use the return email address for any other purpose and does not share the return email address with any third party. 
 
