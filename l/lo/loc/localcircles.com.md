@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the localcircles.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214082102id_/https%3A//www.localcircles.com/a/index/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the localcircles.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702182035id_/https%3A//www.localcircles.com/a/index/privacypolicy) for the most accurate reproduction.*
 
-# LocalCircles - When trusted locals come together, Daily life becomes easy
+# LocalCircles - Social Media for Communities, Governance and Urban Daily Life
 
 Welcome to LocalCircles. By signing up at LocalCircles.com, you agree to this Privacy Policy, which is part of your Membership Agreement at LocalCircles. If you have any questions or concerns about this Privacy Policy, you can contact us at [support@localcircles.com](mailto:support@LocalCircles.com).
 
