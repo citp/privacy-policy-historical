@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beau-coup.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330173854id_/http%3A//www.beau-coup.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beau-coup.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702084734id_/http%3A//www.beau-coup.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Beau-coup Wedding Favors Security & Privacy Policy
 
