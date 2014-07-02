@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mailerlite.com privacy policy that was archived on 2013-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130305150925id_/https%3A//www.mailerlite.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mailerlite.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702144827id_/https%3A//www.mailerlite.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | MailerLite
 
@@ -41,7 +41,3 @@ United Kingdom
 **Telephone:** +44 20 3286 4547
 
 **Email:** [info@mailerlite.com](mailto:info@mailerlite.com)
-
-### Join our newsletter
-
-Once per month we send MailerLite news, updates and more cool stuff about email marketing.
