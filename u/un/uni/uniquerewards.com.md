@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uniquerewards.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330231951id_/http%3A//www.uniquerewards.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uniquerewards.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702090331id_/http%3A//www.uniquerewards.com/privacy.html) for the most accurate reproduction.*
 
 # UniqueRewards
 
@@ -93,16 +93,17 @@ By registering to use the UniqueRewards service, you agree to accept this privac
 
 |  | 
 
+[](https://web.archive.org/cgi-bin/click.cgi?mid=18352)
+
+**GoDaddy**
+
+Go Daddy offers everything you need to make a name for yourself on the Web! Place an order.  
+Earn a cashout instantly!
+
 [](https://web.archive.org/cgi-bin/click.cgi?mid=3914)
 
 **UniqueRewards Profile Survey**
 
 UniqueRewards Profile Survey!
-
-[](https://web.archive.org/cgi-bin/click.cgi?mid=16304)
-
-**VIP Voice**
-
-Think of VIP Voice as an influential team that helps your favorite companies make decisions about the products you see in stores. When you join us (it's free!), you become part of this powerful group!
 
 | 
