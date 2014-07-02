@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barnonedrinks.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330231058id_/http%3A//www.barnonedrinks.com/info/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barnonedrinks.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702165841id_/http%3A//www.barnonedrinks.com/info/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
