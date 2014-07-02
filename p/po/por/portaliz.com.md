@@ -1,9 +1,15 @@
-> *The following text is extracted and transformed from the portaliz.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213232931id_/http%3A//www.portaliz.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the portaliz.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702135631id_/http%3A//www.portaliz.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Portaliz
 
 **Welcome to Portaliz**  
 Register now to gain access to all of our features. Once registered and logged in, you will be able to create topics, post replies to existing threads, give reputation to your fellow members, get your own private messenger, post status updates, manage your profile and so much more. If you already have an account, [login here](http://www.portaliz.com/index.php?app=core&module=global&section=login) \- otherwise [create an account](http://www.portaliz.com/index.php?app=core&module=global&section=register) for free today! 
+
+**Cookies & 3rd Party Advertisements**
+
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/managing/opt_out.asp>.
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available in our footer and at every point where personally identifiable information may be requested.
 
@@ -13,7 +19,7 @@ Log files are maintained and analysed of all requests for files on this website'
 Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
 
 **Cookies**  
-This website does not store any information that would, on its own, allow us to identify individual users of this service without their permission. Any cookies that may be used by this website are used either solely on a per session basis or to maintain user preferences. Cookies are not shared with any third parties. 
+This website does not store any information that would, on its own, allow us to identify individual users of this service without their permission. Any cookies that may be used by this website are used either solely on a per session basis or to maintain user preferences. Cookies are not shared with any third parties.
 
   1.  
 
