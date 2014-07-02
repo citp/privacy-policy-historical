@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the curiosity.com privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215041539id_/https%3A//curiosity.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the curiosity.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702134626id_/https%3A//curiosity.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
