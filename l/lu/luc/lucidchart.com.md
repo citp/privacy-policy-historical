@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lucidchart.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213175421id_/https%3A//www.lucidchart.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lucidchart.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702213139id_/https%3A//www.lucidchart.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Lucidchart
 
