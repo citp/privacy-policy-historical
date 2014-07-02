@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rumble.com privacy policy that was archived on 2014-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140401033929id_/http%3A//rumble.com/s/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rumble.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702074242id_/https%3A//rumble.com/s/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Rumble
 
