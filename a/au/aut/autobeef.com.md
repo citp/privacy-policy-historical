@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autobeef.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209144225id_/http%3A//www.carcomplaints.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autobeef.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702034212id_/http%3A//www.carcomplaints.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy | CarComplaints.com
 
