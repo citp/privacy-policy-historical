@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the deliaonline.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214040953id_/http%3A//www.deliaonline.com/home/our-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deliaonline.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702224018id_/http%3A//www.deliaonline.com/home/our-privacy-policy.html) for the most accurate reproduction.*
 
 # Our Privacy and Cookie Policy - from Delia Online
 
-[ Return to listing](https://web.archive.org/recipes/type-of-dish/entertaining/)
+[ Return to listing](https://web.archive.org/home/)
 
 At Delia Online we are committed to protecting your privacy. Any personal information we request from you will be safeguarded under the Data Protection Act 1998. This Act regulates the processing of information relating to individuals, including the holding, use or disclosure of such information. Our data is stored in a secure database protected by a number of access controls. 
 
@@ -74,4 +74,4 @@ Last updated: 23 May 2012
 
 [Return to Homepage](https://web.archive.org/home "/home")   
 [ Visit the Delia Online Cookery School with Waitrose](https://web.archive.org/ "Visit the Delia Online Cookery School with Waitrose")   
-[ Click here to go to Waitrose.com](http://www.waitrose.com/ "Click here to go to Waitrose.com")
+[ Click here to go to Waitrose.com](http://bit.ly/deliaonlinewaitrose "Click here to go to Waitrose.com")
