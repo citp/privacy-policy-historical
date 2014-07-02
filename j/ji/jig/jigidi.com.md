@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jigidi.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209062057id_/http%3A//www.jigidi.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jigidi.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702080947id_/http%3A//www.jigidi.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,11 +6,11 @@
 
 We collect information from you when you create a profile or upgrade your profile. 
 
-Google, as a third party vendor, uses cookies to serve ads on your site. 
+Google, as a third party vendor, uses cookies to serve ads on this site. 
 
-Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. 
+Google's use of the DART cookie enables it to serve ads to you based on your visit to this site and other sites on the Internet. 
 
-Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
 
 ## What do we use your information for?
 
