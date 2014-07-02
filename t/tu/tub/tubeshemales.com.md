@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tubeshemales.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331015536id_/http%3A//www.tubeshemales.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tubeshemales.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702043238id_/http%3A//www.tubeshemales.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
