@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the s-dri.com privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806030539id_/http%3A//www.decipherinc.com/n/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the s-dri.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702085729id_/https%3A//www.decipherinc.com/n/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Decipher
+# Privacy Policy
 
 ###  1\. Introduction
 
@@ -48,9 +48,9 @@ As a result of the Company’s business within the European Union (“EU”), th
 
 (c) Dispute Resolution. If you have any complaint concerning how the Company has handled your personal information, please contact the Company immediately and the Company will make every reasonable effort to address and resolve your concerns.  In the event that the Company is unable to resolve your concerns, the Company has further committed to refer unresolved privacy complaints under the US-EU Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by the Company, please visit the BBB EU SAFE HARBOR web site at www.bbb.org/us/safe-harbor-complaints for more information and to file a complaint.
 
-[We self-certify compliance with](http://web.ita.doc.gov/safeharbor/shlist.nsf/webPages/safe+harbor+list)
+[We self-certify compliance with](http://safeharbor.export.gov/list.aspx)
 
-[](http://web.ita.doc.gov/safeharbor/shlist.nsf/webPages/safe+harbor+list)
+[](http://export.gov/safeharbor/)
 
 ###  6\. Enforcement
 
