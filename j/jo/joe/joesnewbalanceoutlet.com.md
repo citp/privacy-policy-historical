@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joesnewbalanceoutlet.com privacy policy that was archived on 2014-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140212175039id_/http%3A//www.joesnewbalanceoutlet.com/customer_serv/privacy_security_base.htm%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joesnewbalanceoutlet.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702074852id_/http%3A//www.joesnewbalanceoutlet.com/customer_serv/privacy_security_base.htm%23privacy) for the most accurate reproduction.*
 
 # Joe's New Balance Outlet - Privacy and Security
 
@@ -50,7 +50,7 @@ This Privacy Policy does not apply to any Personal Information collected by Joe'
 **How do I know my Personal Information is secure?**  
 We have a variety of security measures to protect against the loss, misuse or alteration of your Personal Information that we have collected from you from the Service. To ensure the information you provide online is secure during transmission, we use leading edge encryption technology and Secure Socket Layers (SSL) while processing any Personal Information you supply.
 
-These controls are certified by VeriSign®, a leading Internet security company. You can review our security certificate using your browser by clicking on the closed lock or solid key image at the bottom of your browser on any of the secure pages on our site. This will display our Service security information.
+These controls are certified by DigiCert. You can review our security certificate using your browser by clicking on the closed lock or solid key image at the bottom of your browser on any of the secure pages on our site. This will display our Service security information.
 
 For security purposes, your full credit card number is not permanently stored within our system. On occasion, we may temporarily store the entire encrypted credit card number when it is necessary to manually contact a credit card company for verification.
 
