@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinpayments.com privacy policy that was archived on 2014-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140304080521id_/https%3A//pin.net.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinpayments.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702120351id_/https%3A//pin.net.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Pin Payments
 
