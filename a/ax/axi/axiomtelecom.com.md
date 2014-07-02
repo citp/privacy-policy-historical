@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the axiomtelecom.com privacy policy that was archived on 2014-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140614195145id_/http%3A//www.axiomtelecom.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axiomtelecom.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702222918id_/http%3A//www.axiomtelecom.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Axiom Telecom UAE
 
