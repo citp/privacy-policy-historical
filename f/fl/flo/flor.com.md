@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flor.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625093037id_/https%3A//www.flor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flor.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702231711id_/http%3A//www.flor.com/privacy-policy) for the most accurate reproduction.*
 
 # FLOR's privacy policy
 
