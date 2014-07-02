@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkzb.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328063039id_/http%3A//www.linkzb.com/country/eng/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkzb.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702213250id_/http%3A//www.linkzb.com/country/eng/privacy.html) for the most accurate reproduction.*
 
 # Privacy and Terms
 
