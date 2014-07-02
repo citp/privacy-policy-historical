@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the selectbutton.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425232850id_/http%3A//www.selectbutton.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the selectbutton.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702153901id_/http%3A//www.selectbutton.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SelectButton
 
 If you continue to browse and use this website, you are agreeing to comply with and be bound by the following terms and conditions of use, which together with our privacy policy govern SelectButton’s relationship with you in relation to this website. If you disagree with any part of these terms and conditions, please do not use our website.
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [support@selectbutton.com](mailto:support@selectbutton.com).
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [press@selectbutton.com](mailto:press@selectbutton.com).
+
+If you are a publisher or developer that is interested in having your product featured on SelectButton. Please send an email to [press@selectbutton.com](mailto:press@selectbutton.com) or send snail mail to: SelectButton 1083 Carll Drive, Bay Shore NY 11706.
 
 At SelectButton, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by [www.selectbutton.com](http://www.selectbutton.com/) and how it is used.
 
@@ -48,6 +50,4 @@ Changes to Our Privacy Policy
 
 We reserve the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our Website following the posting of changes to these terms will constitute acceptance of those changes. Information collected prior to the time any change is posted will be used according to the rules and law that applied at the time the information was collected.
 
-If you have any questions about this Privacy Policy, the practices of this Website, or your dealings with this Website, please contact us at [support@selectbutton.com](mailto:support@selectbutton.com).
-
-Rating: 0.0/ **10** (0 votes cast)
+If you have any questions about this Privacy Policy, the practices of this Website, or your dealings with this Website, please contact us at [press@selectbutton.com](mailto:press@selectbutton.com).
