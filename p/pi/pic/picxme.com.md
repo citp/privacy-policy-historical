@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the picxme.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209050153id_/http%3A//www.picxme.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picxme.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702072116id_/http%3A//www.picxme.com/privacy.html) for the most accurate reproduction.*
 
 # HD Porno Pics, Free Sex Tube, Online XXX Images, Streaming Porn and Free XXX Pictures
 
