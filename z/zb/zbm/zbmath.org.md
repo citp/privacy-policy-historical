@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zbmath.org privacy policy that was archived on 2014-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140518122119id_/http%3A//www.fiz-karlsruhe.de/fiz_privacy_policy.html%3F%26L%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zbmath.org privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702085310id_/http%3A//www.fiz-karlsruhe.de/fiz_privacy_policy.html%3F%26L%3D1) for the most accurate reproduction.*
 
 # FIZ Karlsruhe: Privacy Policy
 
@@ -37,7 +37,7 @@ We do not identify our customers or monitor their individual actions. Data analy
 
 When using cookies, only those data of the communicating computer (user PC) are stored which are indispensable for the convenient use of our services. If the communicating computer does not accept cookies, some of the selected system functions will not be available. 
 
-Alternatively, you can let us know [here](https://web.archive.org/web/20140518122119id_/http%3A//www.fiz-karlsruhe.de/fiz_piwik_opt_out.html?&L=1) that you do not want your sessions to be logged.
+Alternatively, you can let us know [here](https://web.archive.org/web/20140702085310id_/http%3A//www.fiz-karlsruhe.de/fiz_piwik_opt_out.html?&L=1.) that you do not want your sessions to be logged.
 
 **4\. Third-Party Sites**
 
