@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the travelbelles.com privacy policy that was archived on 2014-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140322211112id_/http%3A//www.travelbelles.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelbelles.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702161736id_/http%3A//www.travelbelles.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Travel Belles
 
 This privacy policy was last modified on May 22, 2012.
 
