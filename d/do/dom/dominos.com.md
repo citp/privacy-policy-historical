@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dominos.com privacy policy that was archived on 2014-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140313072016id_/http%3A//order.dominos.com/en/pages/content/content.jsp%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dominos.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702045529id_/http%3A//order.dominos.com/en/pages/content/content.jsp%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Legal Privacy Policy - Domino's Pizza, Order Pizza Online for Delivery - Dominos.com
 
@@ -116,52 +116,5 @@ For terms of use and privacy policy information on Gift Cards, please click [her
 ## Revision Date
 
 This policy was last updated February 8, 2013.
-
-***** New Password:
-
-**Note:** Use at least 8 characters.
-
-***** Confirm Password:
-
-**Heads Up!** Use at least 8 characters.
-
-***** Yes. I would like to receive e-mail offers from Domino's Pizza 
-
-***** Yes. I agree to the [Terms of Use](https://web.archive.org/en/pages/content/content.jsp?page=terms) and I am 13 or older 
-
-***** Confirm Password:
-
-**Heads Up!** Use at least 8 characters.
-
-Keep Me signed in 
-
-Legal Notice Get faster access to your profile features such as recent orders and saved addresses. 
-
-You will have the opportunity to select "Keep me signed in" checkbox when you create a Pizza Profile or sign in to your existing Pizza Profile for a quicker ordering experience. By checking this box, you allow Domino's to provide you with a more personalized experience in which you will be greeted by your first name and presented with (i) your Easy Order™, (ii) a list of your recent orders and (iii) information about your local store. When you select "Keep me signed in", you will remain signed in to your Pizza Profile on that particular computer or device for up to six months or until you select the "sign out" link or clear your computer's or device's cookies. Although you are signed in to your Pizza Profile account, you will be prompted for your password if you attempt to perform a sensitive action such as modifying the personal information in your Pizza Profile account or completing an order using a stored credit card. If you change your mind about remaining signed in, simply select the "sign out" link to deactivate this feature.  
-NOTE: To prevent others from accessing your Pizza Profile account, Domino's does not recommend the use of this feature on any public or shared computer or device.
-
-House Apartment Business Campus/Base Hotel Dormitory Other
-
-Save this address to my Pizza Profile 
-
-***** Address Nickname:
-
-**Example:** My home, my studio, school, etc.
-
-***** Delivery Instructions:
-
-**Example:** Gate code, ring the door bell, etc.
-
-Make this address my primary address 
-
-Visa Mastercard AMEX Discover JCB Diner's Enroute
-
-Save my credit card for faster future ordering 
-
-***** Credit Card Nickname:
-
-**Example:** My Visa, Corporate Card, etc.
-
-Make this card my primary card 
 
 Congratulations $[firstName]! Your Pizza Profile has been created.
