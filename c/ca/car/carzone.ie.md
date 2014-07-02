@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carzone.ie privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327024031id_/http%3A//www.carzone.ie/index.cfm%3Ffuseaction%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carzone.ie privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702090445id_/http%3A//www.carzone.ie/index.cfm%3Ffuseaction%3Dprivacypolicy) for the most accurate reproduction.*
 
 # Find Used Car For Sale, Buy Used Car, Sell Used & Second Hand Cars - Carzone
 
