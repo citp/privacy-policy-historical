@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mycomeup.com privacy policy that was archived on 2014-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140223092820id_/http%3A//www.mycomeup.com/tandc.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycomeup.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702083817id_/http%3A//www.mycomeup.com/tandc.php) for the most accurate reproduction.*
 
 # MCU : Terms And Condition
 
