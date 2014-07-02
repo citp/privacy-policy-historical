@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the estorebuilder.com privacy policy that was archived on 2014-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140301022906id_/http%3A//www.estorebuilder.com/legal-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the estorebuilder.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702091500id_/https%3A//www.estorebuilder.com/legal-privacy) for the most accurate reproduction.*
 
 # eStoreBuilder
 
