@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ads-securities.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331034850id_/http%3A//www.ads-securities.com/sites/default/files/ADS-Securities-Privacy-Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ads-securities.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702075355id_/http%3A//www.ads-securities.com/sites/default/files/ADS-Securities-Privacy-Policy.pdf) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
