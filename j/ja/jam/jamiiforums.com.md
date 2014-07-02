@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jamiiforums.com privacy policy that was archived on 2014-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140329203530id_/http%3A//www.jamiiforums.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamiiforums.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702164211id_/http%3A//www.jamiiforums.com/policy.php) for the most accurate reproduction.*
 
 # JamiiForums Privacy Policy
 
