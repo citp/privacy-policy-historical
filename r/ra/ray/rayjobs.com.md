@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rayjobs.com privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501161233id_/http%3A//www.raytheon.com/rtnwcm/groups/corporate/documents/content/rtn_privacy_policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rayjobs.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702195928id_/http%3A//www.raytheon.com/rtnwcm/groups/corporate/documents/content/rtn_privacy_policy.pdf) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
