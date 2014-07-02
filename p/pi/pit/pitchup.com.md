@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pitchup.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325203356id_/http%3A//www.pitchup.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pitchup.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702151213id_/https%3A//www.pitchup.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Pitchup.com
 
@@ -6,7 +6,7 @@
 
 This privacy policy sets out how we will process and use any Personal Information that you provide to us, or that we may collect as a result of visiting Pitchup.com. Please read the following information to understand our practices with regards to your personal data and how we will treat it.
 
-For the purposes of the Data Protection Act 1998, the identity of our data controller shall be available upon enquiry by email to [managers@pitchup.com](mailto:managers@pitchup.com).
+For the purposes of the Data Protection Act 1998, the identity of our data controller shall be available upon enquiry by email to [enquiries@pitchup.com](mailto:enquiries@pitchup.com).
 
 Any changes to the Pitchup.com privacy policy will be made to this page. Your continued use of the Website will constitute your agreement to the changed Terms.
 
@@ -98,6 +98,6 @@ We will where appropriate notify you by email of any changes made to our privacy
 
 #### **Contact**
 
-We welcome any questions, comments and requests regarding this privacy policy and should be emailed to [managers@pitchup.com](mailto:managers@pitchup.com).
+We welcome any questions, comments and requests regarding this privacy policy and should be emailed to [enquiries@pitchup.com](mailto:enquiries@pitchup.com).
 
 Thank you for taking the time to read our privacy policy. Our privacy policy is based on a privacy policy provided by [Privacy Policy Template](http://www.privacypolicytemplate.co.uk/) who provides a range of free website documents. Promoting responsible website publishing.
