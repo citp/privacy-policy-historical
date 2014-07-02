@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allotment.org.uk privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216231152id_/http%3A//www.allotment-garden.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allotment.org.uk privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702164754id_/http%3A//www.allotment-garden.org/privacy.php) for the most accurate reproduction.*
 
 # Your Privacy
 
