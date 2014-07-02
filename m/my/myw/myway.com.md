@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myway.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213221729id_/http%3A//info.myway.com/index/id/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myway.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702181312id_/http%3A//info.myway.com/index/id/privacy.html) for the most accurate reproduction.*
 
 # My Way - Privacy Policy
 
