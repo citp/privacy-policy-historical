@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the exvo.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331104642id_/http%3A//www.exvo.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exvo.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702055114id_/http%3A//www.exvo.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Exvo - Privacy Policy
 
-[Privacy Policy](https://web.archive.org/web/20140331104642id_/http%3A//www.exvo.com/privacy-policy.html) [Disclaimer](https://web.archive.org/web/20140331104642id_/http%3A//www.exvo.com/disclaimer.html) [Terms & Conditions](https://web.archive.org/web/20140331104642id_/http%3A//www.exvo.com/terms.html)
+[Privacy Policy](https://web.archive.org/web/20140702055114id_/http%3A//www.exvo.com/privacy-policy.html) [Disclaimer](https://web.archive.org/web/20140702055114id_/http%3A//www.exvo.com/disclaimer.html) [Terms & Conditions](https://web.archive.org/web/20140702055114id_/http%3A//www.exvo.com/terms.html)
 
   1. **Introduction**
 
