@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the briskoda.net privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327021508id_/http%3A//www.briskoda.net/forums/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the briskoda.net privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702142200id_/http%3A//www.briskoda.net/forums/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - BRISKODA.net - The Skoda Forum and Community
 
@@ -50,7 +50,7 @@ The following services may or do set cookies, they are initially only for guest 
 Personal information submitted to us via this website will be used for the purposes specified in this privacy policy or in relevant parts of the website.  
 We may use your personal information to:  
 (a) administer the website;  
-( improve your browsing experience by personalising the website;  
+(  improve your browsing experience by personalising the website;  
 © enable your use of the services available on the website;  
 (d) send to you goods purchased via the website, and supply to you services purchased via the website;  
 (e) send statements and invoices to you, and collect payments from you;  
@@ -66,7 +66,7 @@ All our website financial transactions are handled through our payment services 
 **Disclosures**  
 We may disclose information about you to any of our employees, officers, agents, suppliers or subcontractors insofar as reasonably necessary for the purposes as set out in this privacy policy. In addition, we may disclose your personal information:  
 (a) to the extent that we are required to do so by law;  
-( in connection with any legal proceedings or prospective legal proceedings;  
+(  in connection with any legal proceedings or prospective legal proceedings;  
 © in order to establish, exercise or defend our legal rights (including providing information to others for the purposes of fraud prevention and reducing credit risk);  
 (d) to the purchaser (or prospective purchaser) of any business or asset which we are (or are contemplating) selling; and]  
 (e) to any person who we reasonably believe may apply to a court or other competent authority for disclosure of that personal information where, in our reasonable opinion, such court or authority would be reasonably likely to order disclosure of that personal information.
