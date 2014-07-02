@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inboundio.com privacy policy that was archived on 2014-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140226055732id_/http%3A//www.inboundio.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inboundio.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702143842id_/http%3A//www.inboundio.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | inBoundio
 
@@ -17,5 +17,3 @@ Your privacy is very important to us. Accordingly, we have developed this Policy
 
 
 We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. 
-
-tl;dr - NO, we will not screw you. 
