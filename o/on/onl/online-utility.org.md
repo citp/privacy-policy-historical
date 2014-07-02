@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the online-utility.org privacy policy that was archived on 2014-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140416061755id_/http%3A//www.online-utility.org/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the online-utility.org privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702080306id_/http%3A//www.online-utility.org/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -38,8 +38,6 @@ _Utilities for Online Operating System_ |
   * [Other](https://web.archive.org/other.jsp)
     * [Image Converter](https://web.archive.org/image_converter.jsp)
     * [Webmaster Tools](https://web.archive.org/webmaster/index.jsp)
-    * [Travel Utilities](https://web.archive.org/travel/index.jsp)
-    * [Picture Galleries - Free Photos](https://web.archive.org/image/)
     * [Special Search Engines](https://web.archive.org/search/index.jsp)
     * [Measurement Convertors](https://web.archive.org/measures/index.jsp)
     * [Cost of Living](http://www.numbeo.com/cost-of-living/)
