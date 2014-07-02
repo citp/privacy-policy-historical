@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestday.com privacy policy that was archived on 2014-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140319050833id_/http%3A//www.bestday.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestday.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702074927id_/http%3A//www.bestday.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
