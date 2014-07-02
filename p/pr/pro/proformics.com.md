@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proformics.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331001209id_/http%3A//www.proformics.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proformics.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702073037id_/http%3A//www.proformics.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Proformics
 
