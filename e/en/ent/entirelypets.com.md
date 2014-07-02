@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the entirelypets.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326180738id_/http%3A//www.entirelypets.com/privacypolicy2.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entirelypets.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702073246id_/http%3A//www.entirelypets.com/privacypolicy2.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
@@ -50,7 +50,7 @@ If you have any questions about this privacy statement, the practices of this si
 
 ## Shipping
 
-We offer the [best shipping rates](https://web.archive.org/web/20140326180738id_/http%3A//www.entirelypets.com/shco.html).
+We offer the [best shipping rates](https://web.archive.org/web/20140702073246id_/http%3A//www.entirelypets.com/shco.html).
 
 ## Privacy Policy
 
