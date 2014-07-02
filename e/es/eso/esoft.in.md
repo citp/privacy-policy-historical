@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the esoft.in privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331024210id_/http%3A//www.esoft.in/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esoft.in privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702213001id_/http%3A//www.esoft.me/privacy_policy.html) for the most accurate reproduction.*
 
-# eSoft Downloads Privacy Policy » Free Download - eSoft Downloads
+# eSoft Downloads Privacy Policy » eSoft Downloads
 
 **eSoft Downloads** and associated companies and affiliated companies hereinafter to be collectively reffered to as **eSoft Downloads** through its websites hereinafter to be collectively called "the Site" is committed to providing a secure experience and safeguarding your personal information. This Privacy Statement was created to explain why we collect particular information and how we will protect your personal privacy within our Web site. We reserve the right to change this policy at any time, and will post any new privacy policy here. By using or navigating around the Site or utilizing any of the services we provide here, you acknowledge that you have read and understand and agree to be bound by this Privacy Statement. If you do not agree to be so bound, do not remain on the Site. 
 
