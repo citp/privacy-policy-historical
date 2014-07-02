@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myidentifiers.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210035407id_/https%3A//www.myidentifiers.com/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myidentifiers.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702134209id_/https%3A//www.myidentifiers.com/legal/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bowker | Identifier Services
 
@@ -47,6 +47,18 @@ Upon request we can provide visitors and subscribers with access to a descriptio
 ## Data Security
 
 We always use industry-standard encryption technologies when transferring and receiving data exchanged with our site. We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
+
+## Google Analytics and Remarketing
+
+We use a service provided by Google called Google Analytics (GA). GA permits us to reach people who have previously visited our site, and show them relevant advertisements when they visit other sites across the Internet in the Google Display Network. This is often called ‘remarketing’.
+
+Cookies can be used to track your session on our website, to serve customized ads from Google and other third party vendors. When you visit this website, you may view advertisements posted on the site by Google or other third parties. Through first-party and third party cookies, these third parties may collect information about you while you are visiting this website and other websites. They may use this data to show you advertisements on this website and across the Internet based on your prior visits to this website and elsewhere on the Internet. We do not collect this information or control the content of the advertisements that you will see.
+
+## Opting Out Of Google Analytics
+
+You may be able to opt out of customized Google Display Network ads by visiting the Ads Preferences Manager (<http://www.google.com/ads/preferences/>), and the Google Analytics Opt-out Browser Add-on (<http://www.google.ca/ads/preferences/plugin/>).
+
+Your use of this website without opting out means that you understand and agree to data collection to provide you with remarketing ads using GA and cookies from other third party vendors based on your prior visits to this website and elsewhere on the Internet.
 
 ## Contact Us
 
