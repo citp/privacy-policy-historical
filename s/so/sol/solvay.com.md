@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the solvay.com privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105165245id_/http%3A//www.solvay.com/en/information/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solvay.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702041224id_/http%3A//www.solvay.com/en/information/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy & Application Statement Solvay | Solvay
 
@@ -92,13 +92,3 @@ Registering my personal data by creating a profile does not constitute an applic
 1.    Employment Eligibility Questionnaires older than 180 days will not be considered;   
 2.    All information submitted in the Profile and Employment Eligibility Questionnaire indicates the individual possesses the minimal qualifications for the specific job opening; and   
 3.    The individual has at no point in the company's selection process, prior to receiving an offer of employment from the company, removed himself or herself from further consideration, or otherwise indicated that he or she is no longer interested in the specific job opening. 
-
-## Additional fields :
-
-Title : Privacy & Application Statement Solvay 
-
-Short description :
-
-Date : 2013-08-26T10:44:32 
-
-Tags : Corporate Legal 
