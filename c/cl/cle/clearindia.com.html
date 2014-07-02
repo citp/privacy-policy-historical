@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the clearindia.com privacy policy that was archived on 2014-06-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140608073549id_/http%3A//www.clearindia.com/page/privacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the clearindia.com privacy policy that was archived on 2014-07-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140702165405id_/http%3A//www.clearindia.com/page/privacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US"><head>
         <meta charset="utf-8">
@@ -241,7 +241,7 @@
             <div class="log-content">
                 <form id="cl_authentication">
                     <input type="hidden" id="dealkeyword" value="">
-                    <input type="hidden" id="dealcity" value="Rajkot">
+                    <input type="hidden" id="dealcity" value="Kolkata">
                     <label class="frmlbl" for="name">Your name</label>
                     <input type="text" name="name" id="name" placeholder="Your Name">
                     <label class="frmlbl" for="usermobile">Mobile Number/Email.</label>
@@ -272,7 +272,7 @@
                         <ul>
                             <li><a href="http://merchants.clearindia.com/" target="_blank">Advertise</a></li>
                             <li>|</li>
-                            <li><a href="http://merchants.clearindia.com/index/CI" target="_blank">List Business</a></li>
+                            <li><a href="http://merchants.clearindia.com/" target="_blank">List Business</a></li>
                         </ul>
 
                     </div>
@@ -283,14 +283,13 @@
 <form id="search-form" action="search" method="get">
 
     <div class="search">
- 
-                <div id="search_bar">
+        <div id="search_bar">
             <div id="city-div">
-                <input type="hidden" id="preselectedcity" name="preselectedcity" value="Rajkot">
-                <div id="input-city-div">Rajkot</div>
+                <input type="hidden" id="preselectedcity" name="preselectedcity" value="Kolkata">
+                <div id="input-city-div">Kolkata</div>
                 <div id="city-helper" class="br5">
                     <div class="ctxt1">Please Type your City:    <p class="fr">Listed Cities:1470</p></div>
-                    <input type="text" id="city" value="Rajkot" style="z-index: 2;" class="sinp simpcity w330">
+                    <input type="text" id="city" value="Kolkata" style="z-index: 2;" class="sinp simpcity w330">
                     <input type="text" id="city-x" disabled="disabled" style="z-index: 1;" class="sinp w330">
                     <ul id="city-preview">
                         <p class="popcity">Popular Cities</p>
@@ -306,7 +305,7 @@
                                                                                                                 <li><a href="javascript: void(0);">Chandigarh</a></li>
                                                                                                                 <li><a href="javascript: void(0);">Indore</a></li>
                                                                                                                 <li><a href="javascript: void(0);">Ludhiana</a></li>
-                                                                                                                <li><a href="javascript: void(0);">Kolkata</a></li>
+                                                                                                                <li><a class="selected" href="javascript: void(0);">Kolkata</a></li>
                                                                                                                 <li><a href="javascript: void(0);">Goa</a></li>
                                                                                                                 <li><a href="javascript: void(0);">Visakhapatnam</a></li>
                                                                         </ul>
@@ -520,7 +519,6 @@
             </div>
             <div class="footer-social">
                 <a class="fsol pinterest" href="http://www.pinterest.com/clearindialocal/" target="_blank">Pinterest</a>
-                <!--                <a href="javascript:void(0);" class="fsol rssf">Rss</a>-->
                 <a href="http://www.linkedin.com/company/clearindia-pvt-ltd-" target="_blank" class="fsol linkf">Linkedin</a>
                 <a href="https://plus.google.com/+Clearindialocal" target="_blank" class="fsol googleplusf">Google Plus</a>
                 <a href="https://twitter.com/ClearIndiaLocal" target="_blank" class="fsol twitterf">Twitter</a>
@@ -557,7 +555,7 @@
                     <form id="form-feedback">
                         <div class="feedback-form">
                             <p><label><strong>Name*</strong></label> <input name="FEEDBACK_NAME" id="FEEDBACK_NAME" type="text" class="w230 trbl2 required"></p>
-                            <p><label><strong>Mobile</strong></label> <input name="FEEDBACK_MOBILE" id="FEEDBACK_MOBILE" type="text" class="w230 trbl2 required number" maxlength="10"></p>
+                            <p><label><strong>Mobile*</strong></label> <input name="FEEDBACK_MOBILE" id="FEEDBACK_MOBILE" type="text" class="w230 trbl2 required number" maxlength="10"></p>
                             <p><label><strong>Email</strong></label> <input name="FEEDBACK_EMAIL" id="FEEDBACK_EMAIL" type="text" class="w230 trbl2"></p>
                             <p><label><strong>Category</strong></label> <select name="Category" id="Category" class="w230 trbl2 required">
                                     <option value="Suggestion">Suggestion</option>
@@ -713,15 +711,39 @@
                 }
             });
         }
+    });
+    $('#form-incorrectlisting').validate({
+        rules: {
+            comment: {required: true},
+            phone: {required: true},
+            business: {required: true},
+        },
+        errorPlacement: function(error, placement) {
+            var text = error.text();
+            var label = error.attr('for');
+        },
+        submitHandler: function(form) {
+            var data = $('#form-incorrectlisting').serialize();
+            $.post(SITE_ROOT + 'index/comment', {
+                data: data,
+            }, function(data) {
+                if (data == 1) {
+// alert("Thank you for subscribing");
+                    $.colorbox.close();
+                } else {
+// alert(' Email sent  failed the business email address!');
+                }
+            });
+        }
     });</script>
 
 <!-- in page js codes -->
 <script type="text/javascript">
     var click_count = 0;
     function count_to_show_popup() {
-        if (click_count++ == 2) {
-            $('#popup_opener').trigger('click');
-        }
+
+        $('#popup_opener').trigger('click');
+
     }
     $(document).ready(function() {
 
@@ -789,9 +811,6 @@
             messages: {
                 FEEDBACK_NAME: {
                     required: "Name ",
-                },
-                FEEDBACK_EMAIL: {
-                    required: "email ",
                 },
                 FEEDBACK_MESSAGE: {
                     required: "MESSAGE ",
