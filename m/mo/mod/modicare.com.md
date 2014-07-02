@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the modicare.com privacy policy that was archived on 2013-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131015013320id_/http%3A//www.modicare.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modicare.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702070635id_/https%3A//www.modicare.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # :: Modicare ::
 
