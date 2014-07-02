@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the near-death.com privacy policy that was archived on 2014-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140216151226id_/http%3A//www.near-death.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the near-death.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702171655id_/http%3A//www.near-death.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Near-Death.com
 
