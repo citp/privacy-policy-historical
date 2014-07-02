@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the storyjumper.com privacy policy that was archived on 2014-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140523132351id_/http%3A//www.storyjumper.com/main/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the storyjumper.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702152555id_/http%3A//www.storyjumper.com/main/privacy) for the most accurate reproduction.*
 
 # StoryJumper: Publish and read children's story books
 
@@ -76,9 +76,9 @@ privacycontrol@storyjumper.com
 
 Privacy Manager - StoryJumper
 
-850 E Greenwich Pl
+2625 Middlefield Road, #256
 
-Palo Alto, CA 94303
+Palo Alto, CA 94306-2516
 
 **Effective Date, Updates and Acceptance**
 
