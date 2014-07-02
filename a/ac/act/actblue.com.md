@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the actblue.com privacy policy that was archived on 2014-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140406072334id_/https%3A//secure.actblue.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the actblue.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702085014id_/https%3A//secure.actblue.com/privacy) for the most accurate reproduction.*
 
 # ActBlue — privacy
 
