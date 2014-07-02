@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the midas.com privacy policy that was archived on 2014-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140303174728id_/http%3A//www.midas.com/AboutMidas/privacypolicy/tabid/168/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midas.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702164916id_/http%3A//www.midas.com/AboutMidas/privacypolicy/tabid/168/Default.aspx) for the most accurate reproduction.*
 
 # Midas.com: Your Privacy Right
 
@@ -157,5 +157,5 @@ Midas Canada Inc.
 Attn: Privacy Officer  
 4300 TBC Way  
 Palm Beach Gardens, Florida 33410  
-Phone: 1-800-261-8545  
+Phone: 1-800-621-8545  
 Email: [consumerrelationsmidas@tbccorp.com](mailto:consumerrelationsmidas@tbccorp.com)
