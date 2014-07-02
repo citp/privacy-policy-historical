@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the finalsite.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326092828id_/http%3A//www.finalsite.com/page.cfm%3Fp%3D514) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finalsite.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702113042id_/http%3A//www.finalsite.com/page.cfm%3Fp%3D514) for the most accurate reproduction.*
 
 # Finalsite: web software and services for schools - Private School Websites, Independent School Websites, School Content Management System, Education Content Management System, School Website Design, Private School Software, CMS: Website Privacy Policy
 
