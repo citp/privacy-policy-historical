@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashu.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214043244id_/https%3A//www.cashu.com/site/en/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashu.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702035601id_/https%3A//www.cashu.com/site/en/privacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
