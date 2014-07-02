@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the runscope.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327175716id_/https%3A//www.runscope.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runscope.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703005942id_/https%3A//www.runscope.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy · Runscope
 
