@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the modestmart.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209103836id_/http%3A//www.modestmart.com/content/6-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modestmart.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702100352id_/http%3A//modestmart.com/content/6-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ModestMart
 
-This Privacy Policy governs the manner in which ModestMart Pvt. Ltd. collects, uses, maintains and discloses information collected from users (each, a "User") of the www.ModestMart.com website ("Site"). This privacy policy applies to the Site and all products and services offered by ModestMart Pvt. Ltd..
+This Privacy Policy governs the manner in which ModestMart collects, uses, maintains and discloses information collected from users (each, a "User") of the www.ModestMart.com website ("Site"). This privacy policy applies to the Site and all products and services offered by ModestMart.
 
 ###  **Personal identification information**
 
@@ -18,7 +18,7 @@ Our Site may use "cookies" to enhance User experience. User's web browser places
 
  **How we use collected information**
 
-ModestMart Pvt. Ltd. collects and uses Users personal information for the following purposes:
+ModestMart collects and uses Users personal information for the following purposes:
 
   *  _To improve customer service_  
 Your information helps us to more effectively respond to your customer service requests and support needs.
@@ -59,7 +59,7 @@ Protecting the privacy of the very young is especially important. For that reaso
 
  **Changes to this privacy policy**
 
-ModestMart Pvt. Ltd. has the discretion to update this privacy policy at any time without any notice or personal notification. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+ModestMart has the discretion to update this privacy policy at any time without any notice or personal notification. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
  **Your acceptance of these terms**
 
@@ -69,12 +69,8 @@ By using this Site, you signify your acceptance of this policy and terms of ser
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
-ModestMart Pvt. Ltd.
-
-www.ModestMart.com
-
-ModestMart A-9, Panchvati app., Sanotshi Nagar, Near Maruti Chowk, L.H.Road, Surat - 395006, Gujarat (INDIA)
-
-Tel 93 7 54 78910
-
+ModestMart   
+www.ModestMart.com  
+ModestMart A-9, Panchvati app., Sanotshi Nagar, Near Maruti Chowk, L.H.Road, Surat - 395006, Gujarat (INDIA)   
+Tel +91 9377777854   
 info@modestmart.com
