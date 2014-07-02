@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the marineengine.com privacy policy that was archived on 2014-03-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140327053839id_/http%3A//www.marineengine.com/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the marineengine.com privacy policy that was archived on 2014-07-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140702215109id_/http%3A//www.marineengine.com/privacy_policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 <title>MarineEngine.com Privacy Policy</title>
@@ -13,9 +13,10 @@
 
 <body bgcolor="white" text="#000000" link="#000099" vlink="#660066" alink="#0000FF">
 
+<!--sphider_noindex-->
 <!-- Masthead -->
 
-<table width="750" cellpadding="0" cellspacing="0" border="0" align="center" style="background: #fff;" bgcolor="#ffffff">
+<table width="960" cellpadding="0" cellspacing="0" border="0" align="center" style="background: #fff;" bgcolor="#ffffff">
 	<tbody><tr>
 		<td>
 
@@ -33,22 +34,20 @@
 
             			<!-- Phone Help -->
 						<!-- Begin phone help -->
-<table width="370" border="0" cellpadding="3" cellspacing="0">
+<table align="center" border="0" cellpadding="3" cellspacing="0">
 	<tbody><tr>
-		<td>
-          <strong>(800) 209-9624</strong>
-          <div style="font-size: 10px;">Monday - Friday<br>
-      9:00 AM - 5:00 PM EST</div></td>
-		<!-- <td><img src="/assets/pods/phone.png" width="37" height="53" border="0" alt="Need help with your boat parts order? Call 800-209-9624 Monday - Friday 8:30 AM - 5:30 PM EST" /></td> -->
-	    <td><div align="center"><strong>Online Checkout</strong> <br>
-	      <script type="text/javascript" src="https://seal.thawte.com/getthawteseal?host_name=www.marineengine.com&amp;size=M&amp;lang=en"></script></div></td>
-
-	    <td align="center"><a class="iframe" title="Shipping Info" href="http://www.marineengine.com/orders_shipping_body.html#shipping"><img src="/inc/i/flat_rate.gif" alt="Special $9.95 Flat Rate Shipping" width="100" height="100" border="0"></a></td>
+    	<td><strong>PHONE ORDERS</strong>
+        <div style="font-size: 10px;">
+        	Monday - Friday<br>
+      		9:00 AM - 5:00 PM EST<br>
+      		Click for <a href="/order-by-phone.php" style="font-weight: bold">TOLL-FREE</a> Number
+      	</div>
+    </td>
+	<td><div align="center"><strong>Online Checkout</strong><br><script type="text/javascript" src="https://seal.thawte.com/getthawteseal?host_name=www.marineengine.com&amp;size=M&amp;lang=en"></script></div></td>
+	<td align="center"><a class="iframe" title="Shipping Info" href="http://www.marineengine.com/orders_shipping_body.html#shipping"><img src="/inc/i/flat_rate.gif" alt="Special $9.95 Flat Rate Shipping" width="100" height="100" border="0" style="margin-bottom: 0.5em"></a></td>
 	</tr>
 </tbody></table>
 <!-- End phone help -->
-
-
 
 			        </td>
 		        </tr>
@@ -81,6 +80,10 @@
 												<!-- Contact, Shipping/Returns, Cart -->
 			<table cellpadding="0" cellspacing="2" border="0">
 				<tbody><tr>
+					<!-- Phone -->
+					<td><span class="small" style="font-weight: bold; color: #333;">(800) 209-9624</span></td>
+					<td width="6" align="center"> | </td>
+
 					<td><a href="http://www.marineengine.com" title="Return to the MarineEngine.com home page." class="small">Home</a></td>
 					<td width="6" align="center"> | </td>
 
@@ -168,7 +171,7 @@
 						<!-- Manuals + Accessories Search Form -->
 							<!-- Manuals and Accessories Search -->
 
-		<form action="/isearch2/index.php" method="get">
+		<form action="/site-search/index.php" method="get">
 
 			<!-- Begin rounded rectangle -->
 
@@ -187,11 +190,12 @@
 						<table border="0" cellpadding="0" cellspacing="2" bgcolor="#ffffff">
 							<tbody><tr>
 				  				<td class="black-box-pad">
-				  					<input type="text" name="s" onkeyup="showResult(this.value)" style="width: 125px">
-									<!-- <div id="livesearch"></div> -->
-									<input type="hidden" name="action" value="search">
+				  					<input type="text" name="query_t" id="query_t" size="40" value="" style="width: 125px">
 								</td>
-								<td valign="top"><input type="image" src="/assets/home/go.jpg" alt="Search by part description" style="margin-top: 3px"></td>
+								<td valign="top">
+									 <input type="image" src="/assets/home/go.jpg" name="submit" class="sbmt" id="t_search" value="Search" style="margin-top: 3px">
+									 <input type="hidden" name="search" value="1">
+								</td>
 							</tr>
 							<tr>
 								<td colspan="2" class="small">Shop by description, item number</td>
@@ -216,7 +220,6 @@
 			<!-- End rounded rectangle -->
 
 		</form>
-<!-- <a class="iframe" href="http://www.marineengine.com/assets/screencast/engine/swf/player.swf?url=http://www.marineengine.com/assets/screencast/data/video/tour.flv&amp;volume=100">Watch the 90 Second Video Tour</a> -->
 
 					</td>
 				</tr>
@@ -262,36 +265,36 @@
 
 			<ul id="qm0" class="qmmc">
 
-				<li><a class="qmparent" style="margin-left: 48px; font-size: 12px; text-transform: uppercase;" href="http://www.marineengine.com/parts/parts.html">Boat Engine Parts</a>
+				<li><a class="qmparent" style="margin-left: 48px; font-size: 12px; text-transform: uppercase;" href="/parts/parts.html">Boat Engine Parts</a>
 
 					<ul>
-					<li><a class="qmparent" href="http://www.marineengine.com/parts/parts.html">Outboard Motor Parts</a>
+					<li><a class="qmparent" href="/parts/parts.html">Outboard Motor Parts</a>
 
 						<ul>
-						<li><a href="http://www.marineengine.com/parts/parts.php">Evinrude outboard parts</a></li>
-						<li><a href="http://www.marineengine.com/parts/parts.php">Johnson outboard parts</a></li>
-						<li><a href="http://www.marineengine.com/parts/mercury-outboard/index.php">Mercury outboard parts</a></li>
-						<li><a href="http://www.marineengine.com/parts/mariner-outboard/index.php">Mariner outboard parts</a></li>
-						<li><a href="http://www.marineengine.com/parts/force-outboard/index.php">Force outboard parts</a></li>
-						<li><a href="http://www.marineengine.com/parts/chrysler-outboard/">Chrysler outboard parts</a></li>
-						<li><a href="http://www.marineengine.com/parts/sierra-marine/yamaha.html">Yamaha outboard parts</a></li>
-						<li><a href="http://www.marineengine.com/parts/sierra-marine/honda.html">Honda outboard parts</a></li>
-						<li><a href="http://www.marineengine.com/parts/sierra-marine/suzuki.html">Suzuki outboard parts</a></li>
-						<li><a href="http://www.marineengine.com/parts/sierra-marine/nissan-tohatsu.html">Nissan outboard parts</a></li>
-						<li><a href="http://www.marineengine.com/parts/sierra-marine/nissan-tohatsu.html">Tohatsu outboard parts</a></li>
+						<li><a href="/parts/parts.php">Evinrude outboard parts</a></li>
+						<li><a href="/parts/parts.php">Johnson outboard parts</a></li>
+						<li><a href="/parts/mercury-outboard/index.php">Mercury outboard parts</a></li>
+						<li><a href="/parts/mariner-outboard/index.php">Mariner outboard parts</a></li>
+						<li><a href="/parts/force-outboard/index.php">Force outboard parts</a></li>
+						<li><a href="/parts/chrysler-outboard/">Chrysler outboard parts</a></li>
+						<li><a href="/parts/yamaha-outboard/">Yamaha outboard parts</a></li>
+						<li><a href="/parts/sierra-marine/honda.html">Honda outboard parts</a></li>
+						<li><a href="/parts/sierra-marine/suzuki.html">Suzuki outboard parts</a></li>
+						<li><a href="/parts/sierra-marine/nissan-tohatsu.html">Nissan outboard parts</a></li>
+						<li><a href="/parts/sierra-marine/nissan-tohatsu.html">Tohatsu outboard parts</a></li>
 						</ul></li>
 
-					<li><a class="qmparent" href="http://www.marineengine.com/parts/parts.html">Inboard &amp; Sterndrive Engine Parts</a>
+					<li><a class="qmparent" href="/parts/parts.html">Inboard &amp; Sterndrive Engine Parts</a>
 
 						<ul>
-						<li><a href="http://www.marineengine.com/parts/mercruiser-stern-drive/index.php">Mercruiser sterndrive parts</a></li>
-						<li><a href="http://www.marineengine.com/parts/omc-parts/index.php">OMC sterndrive parts</a></li>
-						<li><a href="http://www.marineengine.com/parts/volvo-penta/index.php">Volvo Penta marine parts</a></li>
-						<li><a href="http://www.marineengine.com/parts/sierra-marine/crusader.html">Crusader Marine parts</a></li>
-						<li><a href="http://www.marineengine.com/parts/sierra-marine/pcm-pleasurecraft.html">Pleasurecraft Marine parts</a></li>
-						<li><a href="http://www.marineengine.com/parts/sierra-marine/chrysler-inboard.html">Chrysler Marine inboard parts</a></li>
-						<li><a href="http://www.marineengine.com/parts/sierra-marine/chris-craft.html">Chris Craft inboard parts</a></li>
-						<li><a href="http://www.marineengine.com/parts/parts.html">More boat engine parts</a></li>
+						<li><a href="/parts/mercruiser-stern-drive/index.php">Mercruiser sterndrive parts</a></li>
+						<li><a href="/parts/omc-parts/index.php">OMC sterndrive parts</a></li>
+						<li><a href="/parts/volvo-penta/index.php">Volvo Penta marine parts</a></li>
+						<li><a href="/parts/sierra-marine/crusader.html">Crusader Marine parts</a></li>
+						<li><a href="/parts/sierra-marine/pcm-pleasurecraft.html">Pleasurecraft Marine parts</a></li>
+						<li><a href="/parts/sierra-marine/chrysler-inboard.html">Chrysler Marine inboard parts</a></li>
+						<li><a href="/parts/sierra-marine/chris-craft.html">Chris Craft inboard parts</a></li>
+						<li><a href="/parts/parts.html">More boat engine parts</a></li>
 						</ul></li>
 
 					</ul></li>
@@ -312,40 +315,40 @@
 
 			<ul id="qm1" class="qmmc">
 
-				<li><a class="qmparent" style="margin-left: 48px; font-size: 12px; text-transform: uppercase;" href="http://www.marineengine.com/manuals/index.html">Boat Motor Manuals</a>
+				<li><a class="qmparent" style="margin-left: 48px; font-size: 12px; text-transform: uppercase;" href="/manuals/index.html">Boat Motor Manuals</a>
 
 					<ul>
-					<li><a class="qmparent" href="http://www.marineengine.com/manuals/index.html">Outboard Motor Repair Manuals</a>
+					<li><a class="qmparent" href="/manuals/index.html">Outboard Motor Repair Manuals</a>
 
 						<ul>
-						<li><a href="http://www.marineengine.com/parts/parts.php#manuals">Evinrude outboard manuals</a></li>
-						<li><a href="http://www.marineengine.com/parts/parts.php#manuals">Johnson outboard manuals</a></li>
-						<li><a href="http://www.marineengine.com/manuals/seloc/mercury.html">Mercury outboard manuals</a></li>
-						<li><a href="http://www.marineengine.com/manuals/seloc/mariner.html">Mariner outboard manuals</a></li>
-						<li><a href="http://www.marineengine.com/manuals/seloc/force.html">Force outboard manuals</a></li>
-						<li><a href="http://www.marineengine.com/manuals/seloc/chrysler_outboard.html">Chrysler outboard manuals</a></li>
-						<li><a href="http://www.marineengine.com/manuals/seloc/yamaha.html">Yamaha outboard manuals</a></li>
-						<li><a href="http://www.marineengine.com/manuals/seloc/honda.html">Honda outboard manuals</a></li>
-						<li><a href="http://www.marineengine.com/manuals/seloc/suzuki.html">Suzuki outboard manuals</a></li>
-						<li><a href="http://www.marineengine.com/manuals/seloc/nissan_tohatsu_outboard.html">Nissan outboard manuals</a></li>
-						<li><a href="http://www.marineengine.com/manuals/seloc/nissan_tohatsu_outboard.html">Tohatsu outboard manuals</a></li>
+						<li><a href="/parts/parts.php#manuals">Evinrude outboard manuals</a></li>
+						<li><a href="/parts/parts.php#manuals">Johnson outboard manuals</a></li>
+						<li><a href="/manuals/seloc/mercury.html">Mercury outboard manuals</a></li>
+						<li><a href="/manuals/seloc/mariner.html">Mariner outboard manuals</a></li>
+						<li><a href="/manuals/seloc/force.html">Force outboard manuals</a></li>
+						<li><a href="/manuals/seloc/chrysler_outboard.html">Chrysler outboard manuals</a></li>
+						<li><a href="/manuals/seloc/yamaha.html">Yamaha outboard manuals</a></li>
+						<li><a href="/manuals/seloc/honda.html">Honda outboard manuals</a></li>
+						<li><a href="/manuals/seloc/suzuki.html">Suzuki outboard manuals</a></li>
+						<li><a href="/manuals/seloc/nissan_tohatsu_outboard.html">Nissan outboard manuals</a></li>
+						<li><a href="/manuals/seloc/nissan_tohatsu_outboard.html">Tohatsu outboard manuals</a></li>
 						</ul></li>
 
-					<li><a class="qmparent" href="http://www.marineengine.com/manuals/index.html">Inboard &amp; Sterndrive Engine Manuals</a>
+					<li><a class="qmparent" href="/manuals/index.html">Inboard &amp; Sterndrive Engine Manuals</a>
 
 						<ul>
-						<li><a href="http://www.marineengine.com/manuals/seloc/mercruiser.html">Mercruiser sterndrive manuals</a></li>
-						<li><a href="http://www.marineengine.com/manuals/omc_sterndrive/index.html">OMC sterndrive manuals</a></li>
-						<li><a href="http://www.marineengine.com/manuals/volvo/index.html">Volvo Penta marine engine manuals</a></li>
-						<li><a href="http://www.marineengine.com/manuals/crusader/index.html">Crusader Marine engine manuals</a></li>
-						<li><a href="http://www.marineengine.com/manuals/pleasurecraft/index.html">Pleasurecraft Marine engine manuals</a></li>
-						<li><a href="http://www.marineengine.com/manuals/chrysler/index.html">Chrysler Marine engine manuals</a></li>
-						<li><a href="http://www.marineengine.com/manuals/detroitdiesel/index.html">Detroit Diesel marine engine manuals</a></li>
-						<li><a href="http://www.marineengine.com/manuals/perkins/index.html">Perkins engine manuals</a></li>
-						<li><a href="http://www.marineengine.com/manuals/bukh/index.html">Bukh marine engine manuals</a></li>
-						<li><a href="http://www.marineengine.com/manuals/chriscraft/index.html">Chris Craft engine manuals</a></li>
-						<li><a href="http://www.marineengine.com/manuals/fordlehman/index.html">Ford Lehman/Sabre Lehman engine manuals</a></li>
-						<li><a href="http://www.marineengine.com/manuals/index.html">More inboard engine manuals</a></li>
+						<li><a href="/manuals/seloc/mercruiser.html">Mercruiser sterndrive manuals</a></li>
+						<li><a href="/manuals/omc_sterndrive/index.html">OMC sterndrive manuals</a></li>
+						<li><a href="/manuals/volvo/index.html">Volvo Penta marine engine manuals</a></li>
+						<li><a href="/manuals/crusader/index.html">Crusader Marine engine manuals</a></li>
+						<li><a href="/manuals/pleasurecraft/index.html">Pleasurecraft Marine engine manuals</a></li>
+						<li><a href="/manuals/chrysler/index.html">Chrysler Marine engine manuals</a></li>
+						<li><a href="/manuals/detroitdiesel/index.html">Detroit Diesel marine engine manuals</a></li>
+						<li><a href="/manuals/perkins/index.html">Perkins engine manuals</a></li>
+						<li><a href="/manuals/bukh/index.html">Bukh marine engine manuals</a></li>
+						<li><a href="/manuals/chriscraft/index.html">Chris Craft engine manuals</a></li>
+						<li><a href="/manuals/fordlehman/index.html">Ford Lehman/Sabre Lehman engine manuals</a></li>
+						<li><a href="/manuals/index.html">More inboard engine manuals</a></li>
 						</ul></li>
 
 					</ul></li>
@@ -366,7 +369,7 @@
 
 			<ul id="qm2" class="qmmc">
 
-				<li><a class="qmparent" style="margin-left: 48px; font-size: 12px; text-transform: uppercase;" href="http://www.marineengine.com/products/index.html">Boat Accessories</a>
+				<li><a class="qmparent" style="margin-left: 48px; font-size: 12px; text-transform: uppercase;" href="/products/index.html">Boat Accessories</a>
 
 					<ul>
 						<li><a class="qmparent" href="/products/boat-anchoring.php">Anchoring</a></li>
@@ -411,19 +414,26 @@
 	<!-- Begin: Main Content Container -->
 
 	<tr>
-		<td colspan="2">
+		<td colspan="2" style="padding: 1em 2em">
 
-			<table cellpadding="0" cellspacing="0" border="0" align="center"><tbody><tr><td>
+			<table cellpadding="0" cellspacing="0" border="0" align="center" width="100%"><tbody><tr><td>
 
-			<!-- Add to favorites / bookmarks -->
 			<!-- Add to favorites / bookmarks -->
 <script type="text/javascript" src="/bookmark/add_bookmark.jquery.js"></script>
 
 
-<div align="left" style="margin: 1em 0 0 1.5em; padding: 0; width: 248px; height: 21 px;">
+<div align="left" style="margin: 1em 0 0 1em; padding: 0; width: 248px; height: 21px; display: inline;">
 	<span id="imageBookmark"></span>
 </div>
 
+<script type="text/javascript" src="/print-this-page/print_this_page.js"></script>
+
+
+<div id="print_this_container" style="margin: 1em 0 0 1.5em; padding: 0; width: 248px; height: 21px; display: inline;">
+	<span id="print_this_tools"></span>
+</div>
+
+<!--/sphider_noindex-->
 <table border="0" align="center" width="95%"><tbody><tr><td><div style="font-family: arial;">
     <p><strong><font size="2" face="Arial, Helvetica, sans-serif"> <font size="3">MarineEngine.com Privacy Policy</font></font></strong></p>
     <p> </p><div align="left"><strong><font size="2" face="Arial, Helvetica, sans-serif">What information do we collect?</font></strong> <font size="2" face="Arial, Helvetica, sans-serif"><br>
@@ -584,7 +594,7 @@
 	</tr>
 
     <!-- End: Main Content Container -->
-
+	<!--sphider_noindex-->
     <!-- Footer -->
       <tr>
 		<td colspan="2">
@@ -595,8 +605,9 @@
 					<td width="33%"><div align="right"><img src="/assets/home/marine_engine_newsletter.jpg" alt="Subscribe to the MarineEngine.com Newsletter" width="104" height="65"></div></td>
 					<td width="67%">
 						<span class="validate">
-							<font color="#000000" size="3"><strong>Subscribe to the MarineEngine.com Newsletter <br></strong>
-							<font size="2">Periodically we'll send you Tech Tips, How-To's and Special Offers.<br>
+							<font color="#000000" size="3"><strong>Subscribe to the MarineEngine.com Newsletter <br>
+							</strong>
+							<font size="2">Periodically we'll send you Tech Tips, How-To's and Boating Information.<br>
 							Just enter your e-mail address and click Subscribe!<br></font></font>
 						</span>
 						<form action="http://marineengine.us2.list-manage.com/subscribe/post?u=4790c10fa142ce1e3523ee56f&amp;id=33e29cf73c" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
@@ -714,6 +725,15 @@
     </tr>
 </tbody></table><br>
 
+<!-- BEGIN: Get search term(s) -->
+<script type="text/javascript" language="JavaScript">
+<!--
+	var s=document.getElementById('query');
+	s.focus();
+//-->
+</script>
+<!-- END: Get search term(s) -->
+
 <!-- Begin progress indicator JavaScript code 11/17/10 james removed include of /progress_indicator_foot.inc.php-->
 <!-- End progress indicator JavaScript code -->
 
@@ -736,7 +756,7 @@ var google_conversion_value = 0;
 </div>
 </noscript>
 <!-- End Google Code for Site Visitors Remarketing List -->
-
+<!--/sphider_noindex-->
 
 
 
