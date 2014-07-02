@@ -1,38 +1,36 @@
-> *The following text is extracted and transformed from the byliner.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326032343id_/https%3A//www.byliner.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the byliner.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702044945id_/https%3A//www.byliner.com/about/privacy) for the most accurate reproduction.*
 
-# Byliner.com
+# Byliner
 
-**Byliner Privacy Policy**
+  1. Byliner Inc. (“Byliner,” “we,” or “us”) knows that you care how information about you is used and shared. This Privacy Policy explains what information of yours will be collected by Byliner when you use Byliner.com or our mobile applications (such as our iPhone app) and related services (together, the “Service”), how the information will be used, and how you can control the collection, correction and/or deletion of information. We will not use or share your information with anyone except as described in this Privacy Policy.
 
-Byliner Inc. (“Byliner,” “we,” or “us”) knows that you care how information about you is used and shared. This Privacy Policy explains what information of yours will be collected by Byliner when you use Byliner.com or our mobile applications (such as our iPhone app) and related services (together, the “Service”), how the information will be used, and how you can control the collection, correction and/or deletion of information. We will not use or share your information with anyone except as described in this Privacy Policy.
-
-**Information We Collect**
+### Information We Collect
 
 You provide us information about yourself, such as your name and email address, when you register with the Service. If you correspond with us by email, we may retain the content of your email messages, your email address and our responses. In addition, you may choose to add information about yourself to your profile that you can then share with others.. You can modify or delete your profile setting for this information any time in the “Settings” section of the site after you have signed in using your personal password.
 
-**Cookies Information**
+### Cookies Information
 
 When you visit Byliner.com, we may send one or more cookies – a small text file containing a string of alphanumeric characters – to your computer that uniquely identifies your browser and lets Byliner help you log in faster and enhance your navigation through the site. A cookie does not collect personal information about you. Byliner uses both session cookies and persistent cookies. A persistent cookie remains on your hard drive after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser’s directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Service may not function properly if the ability to accept cookies is disabled.
 
 In addition, we may send one or more cookies when you open any emails sent by or on behalf of Byliner. Cookies may be used to later target advertising to you – including advertising serviced on third party networks. For example, if you open an email sent by us, then we may later serve you a Byliner advertisement while you are on Facebook.
 
-**Information Collected From Other Websites and Do Not Track Policy**
+### Information Collected From Other Websites and Do Not Track Policy
 
 Through cookies we place on your browser or device, we may collect information about your online activity after you leave our Services. Just like any other usage information we collect, this information allows us to improve the Services and customize your online experience, and otherwise as described in this Privacy Policy. Your browser may offer you a “Do Not Track” option, which allows you to signal to operators of websites and web applications and services (including behavioral advertising services) that you do not wish such operators to track certain of your online activities over time and/or across different websites. Our Services do not support Do Not Track requests at this time, which means that we collect information about your online activity both while you are using the Services and after you leave our Services.
 
-**Google Analytics Notice**
+### Google Analytics Notice
 
 We also use Google Analytics, a web analytics service provided by Google, Inc. (“Google”), including the features for demographics and interests reporting. You can find out more about this service at http://www.google.com/analytics. Google Analytics uses "cookies", which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address, which we do not link to any personally identifiable information) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for us and providing other services to us relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google’s behalf. Google will not associate your IP address with any other data held by Google. You can configure your browser software to disable the use of cookies but this may prevent you from making full use of our website. You can also stop being tracked by Google Analytics across all websites by going to Google’s site at: http://tools.google.com/dlpage/gaoptout.
 
-**Log File Information**
+### Log File Information
 
 Log file information is automatically reported by your browser each time you access a web page. When you register with or view our site, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol (“IP”) address, browser type, referring/exit pages and URLs, number of clicks, domain names, landing pages, pages viewed, and other such information.
 
-**Clear Gifs Information**
+### Clear Gifs Information
 
 When you use the Service, we may employ clear gifs (a.k.a. Web Beacons), which are used to track the online usage patterns of our users anonymously. No personally identifiable information from your Byliner account is collected using these clear gifs. In addition, we may also use clear gifs in HTML-based emails sent to our users to track which emails are opened by recipients. The information is used to enable more accurate reporting, improve the effectiveness of our marketing, and make Byliner better for our users.
 
-**How We Use Your Information**
+### How We Use Your Information
 
 We use the personal information you submit to operate, maintain, and provide to you the features and functionality of the Service. Byliner never discloses your personal information to any third party unless you have instructed us to do so.
 
@@ -52,7 +50,7 @@ Byliner reserves the right, but has no obligation, to monitor the User Content y
 
 We use cookies, clear gifs, and log file information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the site; (b) provide custom, personalized content and information; (c) target and re-target advertising on the Byliner service as well as third party services; (d) monitor the effectiveness of our service; (e) monitor aggregate metrics such as total number of visitors and traffic; (f) diagnose or fix technology problems reported by our users or engineers that are associated with the IP addresses controlled by a specific web company or ISP; and (g) help you efficiently access your information after you sign in.
 
-**How We Share Your Information**
+### How We Share Your Information
 
 Byliner will not rent or sell your personally identifiable information to others. Byliner may share your personally identifiable information with third parties solely for the purpose of providing services to you. If we do this, such third parties’ use of your information will be bound by this Privacy Policy. We may store personal information in locations outside the direct control of Byliner (for instance, on servers or databases co-located with hosting providers).
 
@@ -68,33 +66,33 @@ Byliner does not provide any personally identifiable information to these third-
 
 You should consult the respective privacy policies of these third-party ad servers or ad networks. The Byliner privacy policy does not apply to, and we cannot control the activities of, such advertisers.
 
-**How We Protect Your Information**
+### How We Protect Your Information
 
 Byliner uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to Byliner and you do so at your own risk. Once we receive your transmission of information, Byliner makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
 
 To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you access to your account. You are responsible for maintaining the secrecy of your unique password and account information, and for controlling access to your email communications from Byliner, at all times.
 
-**Compromise of Personal Information**
+### Compromise of Personal Information
 
 In the event that personal information is compromised as a result of a breach of security, Byliner will promptly notify those persons whose personal information has been compromised, in accordance with the notification procedures set forth in this Privacy Policy, or as otherwise required by applicable law.
 
-**Your Choices About Your Information**
+### Your Choices About Your Information
 
 You may access or change your information and preferences at any time in your Settings area once you have signed in with your personal password. You may, of course, decline to submit personally identifiable information through Byliner, in which case Byliner may not be able to provide certain services to you.
 
-**Children’s Privacy**
+### Children’s Privacy
 
 Protecting the privacy of young children is especially important. For that reason, Byliner does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, please do not send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 is allowed to provide any personal information to or on Byliner. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us.
 
-**Links to Other Web Sites**
+### Links to Other Web Sites
 
 We are not responsible for the practices employed by Web sites linked to or from our Web site nor the information or content contained therein. Please remember that when you use a link to go from our Web site to another Web site, our Privacy Policy is no longer in effect. Your browsing and interaction on any other Web site, including those that have a link on our Web site, is subject to that Web site’s own rules and policies. Please read over those rules and policies before proceeding.
 
-**Notification Procedures**
+### Notification Procedures
 
 It is our policy to provide notifications, whether such notifications are required by law or are for marketing or other business related purposes, to you via email notice, written or hard copy notice, or through conspicuous posting of such notice on our Website page, as determined by Byliner in its sole discretion. We reserve the right to determine the form and means of providing notifications to you, provided that you may opt out of certain means of notification as described in this Privacy Policy.
 
-**Changes to Our Privacy Policy**
+### Changes to Our Privacy Policy
 
 If we change our privacy policies and procedures, we will post those changes on our website to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. Changes to this Privacy Policy are effective when they are posted on this page.
 
@@ -106,3 +104,6 @@ Customer Care
 Byliner Inc.  
 594 Howard Street, Suite 400  
 San Francisco, CA 94105
+
+
+
