@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vouchercloud.com privacy policy that was archived on 2014-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140430001207id_/http%3A//www.vouchercloud.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vouchercloud.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703000113id_/http%3A//www.vouchercloud.com/privacy) for the most accurate reproduction.*
 
 # Voucher Codes and Discount Vouchers from vouchercloud
 
@@ -50,13 +50,17 @@ Unless we are legally required to do so, your data will not be disclosed to thir
 
 Where applicable, we may disclose your personal information to any member of our group. This includes, where applicable, our affiliates, our subsidiaries, our holding company and / or other companies within our group.
 
+##### Emails
+
+Once you become a vouchercloud member we’ll send you email newsletters letting you know about our offers and deals. We may also send you other offers from our partners that we think you might be interested in. We’ll never share your details with a third party, and you can manage all your email subscriptions by login into your vouchercloud account and editing your email preferences, or unsubscribing via the link at the bottom of the email.
+
 ##### Unsubscribe
 
 Users who do not wish to receive our promotional e-mail messages may click the ‘unsubscribe’ link which will be found at the bottom of each e-mail from vouchercloud. You will be sent to an ‘update your preferences’ page in your account where you can opt out of different types of promotional e-mails, or click unsubscribe from all. 
 
-##### Emails
+##### Push notifications
 
-Once you become a vouchercloud member we’ll send you email newsletters letting you know about our offers and deals. We may also send you other offers from our partners that we think you might be interested in. We’ll never share your details with a third party, and you can manage all your email subscriptions by login into your vouchercloud account and editing your email preferences, or unsubscribing via the link at the bottom of the email.
+By downloading the vouchercloud app you are opting into receive push notifications to your device via the application. These will be general notifications about our latest offers and location based messages when you are near a venue or shop with an offer. Both types of notification can be controlled in the settings section of the app.
 
 ### Use of Cookies
 
