@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the southmovie99.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326101030id_/http%3A//www.southmovie99.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southmovie99.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702174115id_/http%3A//www.southmovie99.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Southmovie99
 
@@ -17,4 +17,4 @@
 
 
 
-If any matter in this website uses your privacy without your permission please contact us at southmoviemedia@gmail.com .Then,we have a chance to take action on it.
+If any matter in this website uses your privacy without your permission please contact us at cinegalleri99@gmail.com .Then,we have a chance to take action on it.
