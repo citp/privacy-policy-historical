@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lostpassword.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628124230id_/http%3A//www.lostpassword.com/company/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lostpassword.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702152456id_/http%3A//www.lostpassword.com/company/privacy-policy.htm) for the most accurate reproduction.*
 
 # Passware – Privacy Policy
 
