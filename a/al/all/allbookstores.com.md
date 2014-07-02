@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allbookstores.com privacy policy that was archived on 2014-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140219082901id_/http%3A//www.allbookstores.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allbookstores.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702163214id_/http%3A//www.allbookstores.com/privacy) for the most accurate reproduction.*
 
 # AllBookstores.com Privacy Policy
 
@@ -41,4 +41,4 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at support@allbookstores.com. 
 
-© 1999-2014, AllBookstores.com | Portions of this page Copyright 1948-2014 Muze Inc. For personal non-commercial use only. All rights reserved. | [Sitemap](http://www.allbookstores.com/sitemap)
+© 1999-2014, AllBookstores.com | Portions of this page Copyright 1948-2014 Muze Inc. For personal non-commercial use only. All rights reserved.
