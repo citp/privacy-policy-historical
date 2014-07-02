@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oakleysi.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214091423id_/https%3A//www.oakleysi.com/Page.cfm%3Fid%3D7) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oakleysi.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702042953id_/https%3A//www.oakleysi.com/Page.cfm%3Fid%3D7) for the most accurate reproduction.*
 
 # Oakley Military & Government Sales - Privacy Policy
 
