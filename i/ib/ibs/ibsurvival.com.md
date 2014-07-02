@@ -1,13 +1,6 @@
-> *The following text is extracted and transformed from the ibsurvival.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331063819id_/http%3A//www.ibsurvival.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibsurvival.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702072452id_/http%3A//www.ibsurvival.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - IB Survival
-
-### Important Announcement!
-
-All May 2014 candidates... [IBSurvival Free Revision Sessions](https://www.facebook.com/IBSurvivalFreeRevision) is now officially up and running for this exam session! Head over to Facebook and like the page, share it with your school friends and we will do our best to coach you from the beginning of your revision right up until the end 
-
-  
-
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available in our footer and at every point where personally identifiable information may be requested.
 
