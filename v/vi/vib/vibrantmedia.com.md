@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vibrantmedia.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629194952id_/http%3A//www.vibrantmedia.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vibrantmedia.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702083425id_/http%3A//www.vibrantmedia.com/privacy.asp) for the most accurate reproduction.*
 
 # Vibrant Media — The Global Leader of In–Content Contextual Technology
 
