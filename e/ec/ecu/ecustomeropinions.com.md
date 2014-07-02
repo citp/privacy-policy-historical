@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ecustomeropinions.com privacy policy that was archived on 2014-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140530093738id_/http%3A//public.edigitalresearch.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecustomeropinions.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702024636id_/http%3A//www.edigitalresearch.com/privacy) for the most accurate reproduction.*
 
-# eDigitalResearch public resources : Privacy policy
+# eDigitalResearch : Privacy policy
 
 ## Overview
 
@@ -41,7 +41,7 @@ eDigitalResearch plc are committed to maintaining the security of the data we co
 
 eDigitalResearch plc acknowledges and firmly supports the following laws and codes: 
 
-  * Data Protection Act 1998 - Registration Number: Z9076856
+  * Data Protection Act 1998 - Registration Number: Z6581797
   * Market Research Society's (MRS) Code of Conduct
   * ICC/ESOMAR (European Society for Opinion and Marketing Research) International Code of Marketing and Social Research Practice
   * BS 7911 - Specifications for Organisations Conducting Market Research
