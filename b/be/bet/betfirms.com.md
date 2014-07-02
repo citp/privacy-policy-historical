@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the betfirms.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213230948id_/http%3A//www.betfirm.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betfirms.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702205900id_/http%3A//www.betfirm.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy: Information Security is Important to Us » BetFirm
 
@@ -16,4 +16,4 @@ All personal information you provide to BetFirms is confidential. This includes 
 
 All payments are submitted through a third party processor. We do not retain your credit/debit card number, or any other payment-related information. While BetFirms only uses the most respected payment processors, we cannot be held responsible for the privacy of their websites. We encourage you to examine their privacy policy if you have any questions about the information they retain.
 
-[](http://record.tbaffiliate.com/_Eg4yvmL2GO-uqxJ1W5ErsdE8G0tbnEQB/1)
+[](http://record.marketmediacenter.com/_vh0R6NhDUKJLcRLGwHoTKWNd7ZgqdRLk/1/)
