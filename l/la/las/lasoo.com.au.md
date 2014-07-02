@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lasoo.com.au privacy policy that was archived on 2014-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140607174031id_/http%3A//www.lasoo.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lasoo.com.au privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703003015id_/http%3A//www.lasoo.com.au/privacy.html) for the most accurate reproduction.*
 
 # 
 
