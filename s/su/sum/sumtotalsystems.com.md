@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sumtotalsystems.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331111022id_/http%3A//www.sumtotalsystems.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sumtotalsystems.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702223846id_/http%3A//www.sumtotalsystems.com/privacy) for the most accurate reproduction.*
 
 # SumTotal Systems | Privacy | LMS Solutions
 
