@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icewarp.com privacy policy that was archived on 2014-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140521120959id_/http%3A//www.icewarp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icewarp.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703000826id_/https%3A//www.icewarp.com/privacy) for the most accurate reproduction.*
 
 # IceWarp Messaging Server
 
