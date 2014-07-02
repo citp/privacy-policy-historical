@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the babynamesdirect.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331024811id_/http%3A//www.babynamesdirect.com/about-us/%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babynamesdirect.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702115005id_/http%3A//www.babynamesdirect.com/about-us/%23privacy) for the most accurate reproduction.*
 
 # About Us » www.babynamesdirect.com
 
