@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the builtlean.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331023954id_/http%3A//www.builtlean.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the builtlean.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702184609id_/http%3A//www.builtlean.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - BuiltLean
 
@@ -72,6 +72,4 @@ If you believe that any information we are holding on you is incorrect or incomp
 Click the links below, which verifies the identity of BuiltLean.com, demonstrates that our website is scanned for malware daily, and has been Accredited by the Better Business Bureau (BBB): 
 
 | [](http://www.bbb.org/new-york-city/business-reviews/personal-trainers/builtlean-in-new-york-ny-128703/#bbbonlineclick "Built Lean BBB Business Review")  
----|---  
-  
-_Last modified: July 24, 2013_
+---|---
