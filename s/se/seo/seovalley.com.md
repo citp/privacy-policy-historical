@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seovalley.com privacy policy that was archived on 2014-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140521074343id_/http%3A//www.seovalley.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seovalley.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702172129id_/http%3A//www.seovalley.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Affordable Search Engine Optimization Services, Website Promotion - Privacy Policy
 
