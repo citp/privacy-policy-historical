@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the feedmyinbox.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330235247id_/https%3A//www.feedmyinbox.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feedmyinbox.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702163146id_/https%3A//www.feedmyinbox.com/privacy-policy) for the most accurate reproduction.*
 
 # RSS and Twitter feed to your inbox. Free real-time email updates for favorite blogs, feeds, and news delivered to your inbox
 
