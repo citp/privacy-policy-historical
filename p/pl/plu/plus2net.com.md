@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plus2net.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330221827id_/http%3A//www.plus2net.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plus2net.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702092043id_/http%3A//www.plus2net.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy of plus2net.com
 
