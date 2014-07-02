@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the checkout.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326141757id_/https%3A//www.checkout.com/policies.php%23privacyAnc) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the checkout.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702023209id_/https%3A//www.checkout.com/policies.php%23privacyAnc) for the most accurate reproduction.*
 
 # Checkout - Online Payments
 
@@ -124,3 +124,6 @@ Every effort is made to keep the website up and running smoothly. However, Check
 Goods and services offered by Checkout.com Merchants are not provided by a person or entity, run by WebMoney Transfer System. Checkout.com hereby acts as an independent entity providing services and making independent decisions on pricing and offers. Checkout.com Merchants, running WebMoney Transfer System do not receive any commission, interest fees or any other award or refund for the provided goods or services and are not liable for Checkout.com activities.
 
 Verification, performed by WebMoney Transfer System only confirms the accuracy of Checkout.com Contact Details and proves Checkout.com identity. Verification is performed by Checkout.com own free will and doesn't mean or show Checkout.com connection to the commercial activity of WebMoney Transfer System Operators.
+
+© Checkout Ltd 2013.  
+Authorised and regulated as a Payment Institution by the UK Financial Conduct Authority (FCA) with reference [584615](http://www.fsa.gov.uk/register/psdFirmRefSearch.do?firmRef=584615).
