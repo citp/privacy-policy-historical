@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myitreturn.com privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817030401id_/https%3A//myitreturn.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myitreturn.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702191544id_/https%3A//myitreturn.com/privacy.php) for the most accurate reproduction.*
 
 # Skorydov myITreturn | Online Income Tax Return Filing Solution for Individuals | Income Tax India | Income Tax Refunds | Tax Preparation | Efiling of Tax Returns
 
@@ -54,5 +54,8 @@ If you choose to visit one of these Web sites, you are agreeing to let **Skorydo
  **Disclosures Required By Law**  
 Please be aware that in certain circumstances, it is possible that personal information may be subject to disclosure pursuant to judicial or other government orders.
 
- _ **Links to non-Skorydov myITreturn  Web sites **  
+ **Data Security and Backup**  
+We store your data on online servers ensuring best possible protection from our end. We intend to protect it in encrypted format and also take back-up at defined intervals to ensure there is minimum data loss in case of any unfortunate server crash. To enhance your browsing experience, the data servers may be located at various places including places outside India. 
+
+_**Links to non-Skorydov myITreturn  Web sites **  
 **Skorydov myITreturn  **Web sites may contain links to other Web sites. **Skorydov myITreturn   **is not responsible for the privacy practices or the content of those other Web sites._
