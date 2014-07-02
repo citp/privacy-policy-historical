@@ -1,14 +1,8 @@
-> *The following text is extracted and transformed from the taxcloudindia.com privacy policy that was archived on 2014-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140322013524id_/http%3A//taxcloudindia.com/Meta/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxcloudindia.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702032308id_/https%3A//taxcloudindia.com/Meta/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy: ClearTax.in
 
-  * [Sign up](https://web.archive.org/Account/Register)
-  * [Log In](https://web.archive.org/Account/LogOn)
-
-  
-
-
-  TDS FVU 4.1 w/ 27A barcode has been released | For Other Queries - email at taxcloud@cleartax.in or call on +91 813-0935-803 
+  e-Filing ITR-1, ITR-2, ITR-3 & ITR-4S for AY 2014-15 is now active on TaxCloud ---- For other queries email: taxcloud@cleartax.in / 08130935803 
 
   
 
