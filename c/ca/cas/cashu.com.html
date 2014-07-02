@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cashu.com privacy policy that was archived on 2014-02-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140214043244id_/https%3A//www.cashu.com/site/en/privacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cashu.com privacy policy that was archived on 2014-07-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140702035601id_/https%3A//www.cashu.com/site/en/privacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" class=""><!--<![endif]--><head>
 	<style>
@@ -40,15 +40,13 @@
 	
 	<script>
 		var global_alerts = {"error1":"Required field cannot be left blank","error2":"Maximum of 40 characters in length","error4":"Minimum of 6 characters in length","error6":"Minimum of 3 characters in length","error5":"Minimum of 8 characters in length","error3":"Sorry, only letters (Aa-Zz), numbers (0-9), dash (-), and underscore (_) are allowed"} ;
-		var activities = 'Activities' ;
-		var leaderboard = 'Leaderboard' ;
 	</script>
 	<script src="https://d4n2lybtj245w.cloudfront.net/images/global/externalJavascript/commonCheck.js"></script>
 	<script src="https://d4n2lybtj245w.cloudfront.net/images/global/externalJavascript/loginSlider.js"></script>
 
-		<script src="https://d4n2lybtj245w.cloudfront.net/images/global/externalJavascript/logo-move.js"></script>
-		<script src="https://d4n2lybtj245w.cloudfront.net/images/global/externalJavascript/jquery.flexisel.js"></script>
-	
+			<script src="https://d4n2lybtj245w.cloudfront.net/images/global/externalJavascript/logo-move.js"></script>
+			<script src="https://d4n2lybtj245w.cloudfront.net/images/global/externalJavascript/jquery.flexisel.js"></script>
+		
 <script type="text/javascript">
       var _gaq = _gaq || [];
       _gaq.push(['_setAccount', 'UA-1353058-1']);
@@ -66,159 +64,31 @@
 	</head>
 	<body>
 <div class="all-count">
-<div id="toppanel">
-    <div id="panel">
-      <div class="content clearfix">
-        <div id="opntp-div3" class="container hide vender-load">
-          <div class="row-fluid">
-            <div class="span5">
-              <div class="toplogin">
-                <h2> <i class="icon-lock icon-white"></i> Login</h2>
-                <form id="vendor-form" name="vendor-form" method="POST" action="https://www.cashu.com/resellers/en/login/login">
-                  <div class="boxlogin">
-                    <div>
-                      <input type="text" id="sliderResellerID" name="username" placeholder="Vendor ID" class="full-w">
-                    </div>
-                    <div>
-                      <input type="password" id="sliderResellerPassword" name="password" placeholder="Password" class="full-w">
-                    </div>
-                    <div>
-                      <button type="button" class="btn btn-warning wides" onclick="ResellerCheckSubmit();">Login</button>
-                     
-                    </div>
-                    <div class="remPss"><span> <a href="https://www.cashu.com/resellers/en/forgetPassword">Forgot password?</a> </span> <span>New Vendor? <a href="https://www.cashu.com/resellers/en/register">Sign up</a> </span> </div>
-                  </div>
-                </form>
-              </div>
-            </div>
-            
-            <div class="span7 tps">
-               <h3> <i class="icon-user icon-white"></i> I′m a Vendor</h3>
-              <p>Join our network of vendors and open your doors to millions of cashU users! If you can help us accept payments, we′ll – together - help e-commerce to grow in your country, which will generate an amazing revenue stream for your business in return.</p>
-            <button class="btn btn-warning" type="button" onclick="navigateTo('https://www.cashu.com/site/en/vendors');">Learn more ..</button>
-              
-            
-            </div>
-             
-            
-          </div>
-        </div>
-        <div id="opntp-div2" class="container hide merchant-load">
-          <div class="row-fluid">
-            <div class="span5">
-              <div class="toplogin">
-                <h2> <i class="icon-lock icon-white"></i> Login</h2>
-                <form id="merchant-form" name="merchant-form" method="POST" action="https://www.cashu.com/Merchants/en/login/login">
-				<input type="hidden" value="" id="SliderMerchantLoginHdn">
-                  <div class="boxlogin">
-                    <div>
-                      <input type="text" id="slider_merchant_id" name="merchant_id" placeholder="Merchant ID" class="full-w">
-                    </div>
-					<div class="SlidertoggleUserName hide">
-						<div>
-						  <input type="text" id="sliderSuperMerchId" name="MerchantUsernameHdn" placeholder="User Name" class="full-w">
-						</div>
-					</div>
-                    <div>
-                      <input type="password" id="sliderMerchantPass" name="password" placeholder="Password" class="full-w">
-                    </div>
-					<div><a id="SliderChangeLoginType" href="javascript:doUserLoginToggle();">User Login</a> </div>
-                    <div>
-                      <button type="button" class="btn wides btn-danger" onclick="MerchantCheckSubmit();">Login</button>
-                    </div>
-                    <div class="remPss"> <span> <a href="https://www.cashu.com/Merchants/en/forgetPassword">Forgot password?</a> </span> <span> New Merchant? <a href="https://www.cashu.com/Merchants/en/register"> Sign up</a> </span> </div>
-                  </div>
-                </form>
-              </div>
-            </div>
-            
-			<script>
-				function doUserLoginToggle(){
-					if($('#SliderChangeLoginType').text() == 'User Login'){
-						$('.merchantIdLabel').text('Merchant ID');
-						$('.SlidertoggleUserName').show();
-						$('#SliderChangeLoginType').text('Merchant Login');
-					}else{
-						$('.SlidertoggleUserName').hide();
-						$('.merchantIdLabel').text('User Name');
-						$('#SliderChangeLoginType').text('User Login');
-					}
-				}
-			</script>
-			
-            <div class="span7 tps">
-              <h3> <i class="icon-user icon-white"></i>  I′m a Merchant</h3>
-              <p>Access millions of potential young online buyers in MENA that have limited access to credit cards and think buying online is unreliable.</p>
-		   <button class="btn btn-danger" type="button" onclick="navigateTo('https://www.cashu.com/site/en/merchants');">Learn more ..</button>
+			<div id="toppanel">
 
-              
-            
-            </div>
-             
-            
-          </div>
-        </div>
-        <div id="opntp-div1" class="container hide consumer-load">
-         <div class="row-fluid">
-            <div class="span5">
-              <div class="toplogin">
-                <h2> <i class="icon-lock icon-white"></i> Login</h2>
-                <form id="paymentForm" name="paymentForm" method="POST" action="https://www.cashu.com/CLogin/loginNext">
-				<input type="hidden" value="en" name="lang">
-				<input type="hidden" value="" name="refID">
-                  <div class="boxlogin">
-                    
-                    <div>
-                      <input type="text" placeholder="User Name / Email" id="userNickName" name="userNickName" class="full-w">
-                    </div>
-                    <div>
-                      <input type="password" placeholder="Password" id="userPassword" name="userPassword" class="full-w">
-                    </div>
-                    <div>
-                      <button type="button" class="btn  btn-primary wides" onclick="PaymentCheckSubmit();">Login</button>
-                    
-                    </div>
-                    <div class="remPss"> <span> <a href="https://www.cashu.com/CLogin/forgetPassword?lang=en">Forgot password?</a> </span> <span> New User? <a href="https://www.cashu.com/CLogin/registersForm?lang=en"> Sign up</a> </span> </div>
-                  </div>
-                </form>
-              </div>
-            </div>
-            
-            <div class="span7 tps">
-              <h3> <i class="icon-user icon-white"></i> I′m a User</h3>
-              <p> There are thousands of merchants using cashU’s payment gateway ,Learn about Merchants &amp; online stores accepting CASHU and start buying online today through a secure way.</p>
-			  <button class="btn btn-primary" type="button" onclick="navigateTo('https://www.cashu.com/site/en/consumers');">Learn more ..</button>
-            </div>
-             
-            </div>
-          </div>
-      </div>
-    </div>
-    <!-- /login --> 
-	
-    <!-- The tab_up on top -->
-    <div class="tab_up">
-      <div class="container">
-        <ul id="opntps" class="login">
-          <li class="left">&nbsp;</li>
-          <li class="tgpanl"> <a class="" href="https://www.cashu.com/site/en/consumers" id="opntp-1">Consumer</a></li>
-          <li class="sep">|</li>
-          <li class="tgpanl"> <a class="" href="https://www.cashu.com/site/en/merchants" id="opntp-2">Merchant</a></li>
-          <li class="sep">|</li>
-          <li class="tgpanl"> <a class="" href="https://www.cashu.com/site/en/vendors" id="opntp-3">Vendor</a></li>
-          <li style="display: none;" id="close_taptop"><a class="closea">Close</a></li>
-          <li class="right">&nbsp;</li>
-        </ul>
-      </div>
-    </div>
-    <!-- / top --> 
+				<!-- The tab_up on top -->
+				<div class="tab_up ler">
+				  <div class="container">
+					<ul id="opntps" class="login">
+					  <li class="left">&nbsp;</li>
+					  <li> <a class="" href="https://www.cashu.com/site/en/consumers" id="opntp-1">Consumer</a></li>
+					  <li class="sep">|</li>
+					  <li> <a class="" href="https://www.cashu.com/site/en/merchants" id="opntp-2">Merchant</a></li>
+					  <li class="sep">|</li>
+					  <li> <a class="" href="https://www.cashu.com/site/en/vendors" id="opntp-3">Vendor</a></li>
+					  <li class="right">&nbsp;</li>
+					</ul>
+				  </div>
+				</div>
+				<!-- / top --> 
     
   </div>
 <!-- Header , menu , login , up tap -->
 		<div class="header">
 		<div class="container">
 		<div class="mBLog">
-</div>
+
+		</div>
 		<div class="logo"><a href="https://www.cashu.com/site/en/home?home=1"><img src="https://d4n2lybtj245w.cloudfront.net/images/global/externalImages/en/big-logo.png" alt="CASHU-Logo" title="CASHU"></a></div>
 		<div class="menu-ico-serh">
 			<div class="scoial-cashU">
@@ -233,6 +103,7 @@
 
 			</ul>
 			</div>
+			
 			<div class="navbar">
 			<div class="navbar-inner">
 				<div class=" "> <a class="btn btn-navbar collapsed" data-toggle="collapse" data-target=".navbar-responsive-collapse"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </a>
@@ -253,6 +124,7 @@
 			</div>
 			<!-- /navbar-inner --> 
 			</div>
+		
 		</div>
 		</div>
 	</div>
@@ -445,6 +317,9 @@
 })(jQuery);
 jQuery(document).ready(function(){
 		jQuery('#box').drags();
+		 jQuery('#showmenu').click(function() {
+            jQuery('.togbox').slideToggle('fast');
+     });
 	});
 
 
@@ -468,19 +343,26 @@ window.BadgevilleAsynchInit = function() {
 	//Change multi-tab widget's main title and tabs title
 	Badgeville.Lang[ 'widget_builder_activitiesFeed_324658' ] = 'Activities';
 	Badgeville.Lang[ 'widget_builder_multiLeaderboard_343828' ] = 'Leaderboard';
-	Badgeville.Lang.multiTabTitle = 'cashU Rewards';
+	Badgeville.Lang.multiTabTitle = 'CASHU Rewards';
 	Badgeville.Lang.joinNow  = '<a href="https://www.cashu.com/CLogin/registersForm?lang=en">Join Now!</a>';
 	Badgeville.Lang.signUp  = '<a href="https://www.cashu.com/CLogin/registersForm?lang=en">Sign Up</a>';
 	Badgeville.Lang.signIn  = '<a href="https://www.cashu.com/CLogin/login?lang=en">Sign In</a>';
-	
 	Badgeville.Lang.join   = 'Do you have what it takes?';
+
 };
 </script>
 
   <div id="box" class="box">
-<div class="bmov"></div>  
-<div class="bv_multiTab" style="width:300px;height:247px;padding-bottom:45px;direction:ltr;" bv_options="{&quot;initTab&quot;:&quot;widget_builder_activitiesFeed_324658&quot;,&quot;tabs&quot;:[{&quot;api&quot;:&quot;activitiesFeed&quot;,&quot;label&quot;:&quot;widget_builder_activitiesFeed_324658&quot;,&quot;data&quot;:{&quot;feedInterval&quot;:2}},{&quot;api&quot;:&quot;multiLeaderboard&quot;,&quot;label&quot;:&quot;widget_builder_multiLeaderboard_343828&quot;,&quot;data&quot;:{&quot;initTab&quot;:&quot;allTime&quot;,&quot;tabs&quot;:[{&quot;label&quot;:&quot;daily&quot;,&quot;api&quot;:&quot;leaderboard&quot;,&quot;data&quot;:{&quot;name&quot;:&quot;day&quot;}},{&quot;label&quot;:&quot;weekly&quot;,&quot;api&quot;:&quot;leaderboard&quot;},{&quot;label&quot;:&quot;monthly&quot;,&quot;api&quot;:&quot;leaderboard&quot;,&quot;data&quot;:{&quot;name&quot;:&quot;month&quot;}},{&quot;label&quot;:&quot;allTime&quot;,&quot;api&quot;:&quot;leaderboard&quot;,&quot;data&quot;:{&quot;name&quot;:&quot;all&quot;}}]}}]}"></div>
-<br></div>
+	<div class="bmov2 hidden-desktop" id="showmenu"></div> 
+	<div class="togbox" style="display:block;">
+	<div class="bmov"></div> 
+	
+		<div class="bv_multiTab" style="width:300px;height:247px;padding-bottom:45px;direction:ltr;" bv_options="{&quot;initTab&quot;:&quot;widget_builder_activitiesFeed_324658&quot;,&quot;tabs&quot;:[{&quot;api&quot;:&quot;activitiesFeed&quot;,&quot;label&quot;:&quot;widget_builder_activitiesFeed_324658&quot;,&quot;data&quot;:{&quot;feedInterval&quot;:2}},{&quot;api&quot;:&quot;multiLeaderboard&quot;,&quot;label&quot;:&quot;widget_builder_multiLeaderboard_343828&quot;,&quot;data&quot;:{&quot;initTab&quot;:&quot;allTime&quot;,&quot;tabs&quot;:[{&quot;label&quot;:&quot;daily&quot;,&quot;api&quot;:&quot;leaderboard&quot;,&quot;data&quot;:{&quot;name&quot;:&quot;day&quot;}},{&quot;label&quot;:&quot;weekly&quot;,&quot;api&quot;:&quot;leaderboard&quot;},{&quot;label&quot;:&quot;monthly&quot;,&quot;api&quot;:&quot;leaderboard&quot;,&quot;data&quot;:{&quot;name&quot;:&quot;month&quot;}},{&quot;label&quot;:&quot;allTime&quot;,&quot;api&quot;:&quot;leaderboard&quot;,&quot;data&quot;:{&quot;name&quot;:&quot;all&quot;}}]}}]}">
+		</div>
+		<br>
+		
+	</div> 
+</div>
 
 
 <div class="footer">
@@ -493,7 +375,7 @@ window.BadgevilleAsynchInit = function() {
 
                 <li>
                 <i class="icon-globe"></i> 
-                <a href="https://www.cashu.com/site/en/support"> Customer Support</a>
+                <a href="https://www.cashu.com/site/en/supportpage"> Support Page</a>
                 </li>
 
 
