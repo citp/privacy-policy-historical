@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the contentreserve.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209054858id_/http%3A//www.overdrive.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contentreserve.com privacy policy that was archived on 2014-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140702051154id_/http%3A//company.overdrive.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | OverDrive - Global distributor of digital eBooks, audiobooks, music & video for library, school & retail
 
-[Home](http://www.overdrive.com/) » Privacy Policy
+[Home](http://company.overdrive.com/) » Privacy Policy
 
 OverDrive, Inc. and its affiliates (“OverDrive”, “we”, “us” or “our”) provides digital content, software applications, technology services and hosted websites for third parties. This Privacy Policy applies to all OverDrive-hosted websites, applications, technologies and services (collectively referred to as “Services”).
 
@@ -16,7 +16,7 @@ We will continue to evaluate this Privacy Policy against new technologies, busin
 
 ### Why does OverDrive collect information?
 
-OverDrive collects Personal Information and other information to improve the manner by which OverDrive operates and offers its products and Services and to improve how OverDrive communicates with you about those products and Services. To see OverDrive’s policy regarding the collection of information from children who are under 13 years old, [please click here to read OverDrive’s Privacy Policy for Children](http://10.10.11.43/education/k-12-schools/privacy-policy-for-children/ "Privacy Policy for Children").
+OverDrive collects Personal Information and other information to improve the manner by which OverDrive operates and offers its products and Services and to improve how OverDrive communicates with you about those products and Services. To see OverDrive’s policy regarding the collection of information from children who are under 13 years old, [please click here to read OverDrive’s Privacy Policy for Children](https://web.archive.org/education/k-12-schools/privacy-policy-for-children/ "Privacy Policy for Children").
 
 ### How does OverDrive protect your Personal Information?
 
@@ -48,7 +48,7 @@ Some examples of how we use cookies include:
 
 
 
-OverDrive may also use cookies on our websites that are supplied by third parties providing services for OverDrive. For more information on third party cookies, please [click here](https://web.archive.org/web/20140209054858id_/http://www.overdrive.com/privacy-policy/third-party-cookies). If you do not wish to receive cookies, please configure your Internet browser to erase all cookies from your computer’s hard drive, block all cookies or to receive a warning before a cookie is stored. If you choose to remove cookies or reject cookies, this could affect your ability to use or access some of our Services.
+OverDrive may also use cookies on our websites that are supplied by third parties providing services for OverDrive. For more information on third party cookies, please [click here](https://web.archive.org/web/20140702051154id_/http://company.overdrive.com/privacy-policy/third-party-cookies). If you do not wish to receive cookies, please configure your Internet browser to erase all cookies from your computer’s hard drive, block all cookies or to receive a warning before a cookie is stored. If you choose to remove cookies or reject cookies, this could affect your ability to use or access some of our Services.
 
 ### Does OverDrive use tracking technology?
 
