@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websitetemplatereviews.com privacy policy that was archived on 2014-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140407221623id_/http%3A//www.websitetemplatereviews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitetemplatereviews.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703224554id_/http%3A//www.websitetemplatereviews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Website Template Reviews
 
