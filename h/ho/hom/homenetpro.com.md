@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homenetpro.com privacy policy that was archived on 2014-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140530122322id_/http%3A//www.homenetpro.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homenetpro.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703052615id_/http%3A//www.homenetpro.com/privacy.html) for the most accurate reproduction.*
 
 # HomeNetPro.coms Privacy Policy Statement
 
