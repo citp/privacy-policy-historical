@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the puzzlepirates.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209134553id_/http%3A//www.puzzlepirates.com/Privacy.xhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the puzzlepirates.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703020417id_/http%3A//www.puzzlepirates.com/Privacy.xhtml) for the most accurate reproduction.*
 
 # Puzzle Pirates: Three Rings Privacy Policy
 
