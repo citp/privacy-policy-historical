@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the massivead.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331143057id_/https%3A//massivead.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the massivead.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703173513id_/https%3A//www.massivead.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Massive Ad
 
