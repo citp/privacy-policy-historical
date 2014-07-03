@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cigar.com privacy policy that was archived on 2013-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130219213110id_/http%3A//www.cigar.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cigar.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703072912id_/http%3A//www.cigar.com/privacy.asp) for the most accurate reproduction.*
 
 # Cigar.com - Privacy Statement
 
@@ -29,7 +29,7 @@ Cigar.com does not sell products for purchase by anyone under the age of twenty-
 Although we will use reasonable efforts to safeguard the privacy of your information, transmissions on the Internet cannot be made absolutely secure. Accordingly, we assume no responsibility or liability for disclosure of any of your information due to errors in transmission, unauthorized third-party access or other causes beyond our reasonable control. 
 
   
-Cigar.com partners with companies that offer products and services we believe may be of interest to our customers. If you purchase a product from us, there is a chance we may exchange your name with another company whose products and services might interest you. If you do not want to have your name exchanged, contact [service@cigar.com](mailto:service@cigar.com) at any time. 
+Cigar.com partners with companies that offer products and services we believe may be of interest to our customers. If you purchase a product from us, there is a chance we may exchange your name with another company whose products and services might interest you. If you do not want to have your name exchanged or would like to unsubscribe from receiving any communications from Cigar.com, contact [service@cigar.com](mailto:service@cigar.com) at any time. 
 
   
 As our company grows, there is a possibility that we could be sold to another company. In the event that we are acquired by another company or a significant portion of our assets is sold to another company, all of the customer information including both financial records and consumer information that we have collected may be transferred to the new company. 
