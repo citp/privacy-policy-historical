@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anniescatalog.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330225306id_/http%3A//www.anniescatalog.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anniescatalog.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703043444id_/https%3A//www.anniescatalog.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
