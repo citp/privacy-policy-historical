@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the netprospex.com privacy policy that was archived on 2014-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140329175820id_/http%3A//www.netprospex.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netprospex.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703064505id_/http%3A//www.netprospex.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # NetProspex > Privacy Policy
 
 **Effective as of April 16, 2013**
 
-NetProspex Inc. is serious about protecting the privacy of your personal information, whether you are a subscriber to or user of any of the NetProspex on-line services, or a visitor to or user of the NetProspex website. We have put strict policies into place to ensure that the privacy of your personal information is protected while still enabling you to make use of the website or the on-line services provided by NetProspex. We use information collected about you through the use of our on-line services or on the website solely for the purposes set out in this policy. The terms of this privacy policy may be updated from time to time, so please check our website or this page occasionally for updates. The terms of this policy are also incorporated into the NetProspex Terms of Use, found at [http://www.netprospex.com/termsofuse](https://web.archive.org/termsofuse). 
+NetProspex Inc. is serious about protecting the privacy of your personal information, whether you are a subscriber to or user of any of the NetProspex on-line services, or a visitor to or user of the NetProspex website. We have put strict policies into place to ensure that the privacy of your personal information is protected while still enabling you to make use of the website or the on-line services provided by NetProspex. We use information collected about you through the use of our on-line services or on the website solely for the purposes set out in this policy. The terms of this privacy policy may be updated from time to time, so please check our website or this page occasionally for updates. The terms of this policy are also incorporated into the NetProspex Terms of Use, found at [/termsofuse](https://web.archive.org/termsofuse). 
 
 **Collection of Information and its use**
 
@@ -14,7 +14,7 @@ By completing any of our on-line registration processes, you are specifically ag
 
 In addition to the personal information added by users in this registration process, other information collected will include (and is not limited to) IP address, browser type, time and date of use, and any activity performed while on our website or using our service. By using our website and/or by registering with NetProspex for informational, subscription service purposes or any other on-line purposes, you consent to the collection and use of the information described herein by NetProspex.
 
-PLEASE NOTE: Your registration information and/or any information collected by NetProspex when you visit the NetProspex website, is neither added to the NetProspex Content (as defined in the Terms of Use) within the Services, nor is it included in the NetProspex Business Contact Database (see the description of such database below) and such information cannot be accessed by users of a NetProspex service. If you wish to share contact information with other users of the NetProspex services you may use the separate user content contribution service, terms for which are found at [http://www.netprospex.com/termsofusecontent](https://web.archive.org/termsofusecontent) for adding contact information to the NetProspex database.
+PLEASE NOTE: Your registration information and/or any information collected by NetProspex when you visit the NetProspex website, is neither added to the NetProspex Content (as defined in the Terms of Use) within the Services, nor is it included in the NetProspex Business Contact Database (see the description of such database below) and such information cannot be accessed by users of a NetProspex service. If you wish to share contact information with other users of the NetProspex services you may use the separate user content contribution service, terms for which are found at [/termsofusecontent](https://web.archive.org/termsofusecontent) for adding contact information to the NetProspex database.
 
 **Personal Information and its use**
 
@@ -65,7 +65,7 @@ Customer Support hours: between 8am and 6pm Eastern Standard Time.
 
 **Feedback**
 
-We welcome your comments on this Privacy Policy on our Contact Us page. For more information about NetProspex see our website <https://www.netprospex.com/>.
+We welcome your comments on this Privacy Policy on our Contact Us page. For more information about NetProspex see our website [/](https://web.archive.org/).
 
 **Modification of this policy**
 
