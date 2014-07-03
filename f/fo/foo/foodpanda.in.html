@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the foodpanda.in privacy policy that was archived on 2014-03-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140325003752id_/http%3A//www.foodpanda.in/contents/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the foodpanda.in privacy policy that was archived on 2014-07-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140703212933id_/http%3A//www.foodpanda.in/contents/privacy.htm) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><!--<![endif]--><script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0020/2576.js?438996" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://avazudsp.net/ret/dspPros.js"></script><script type="text/javascript" async="" src="https://cdn.optimizely.com/js/566322169.js"></script><head><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XQUBUFZAAQMHV1NT"};window.NREUM||(NREUM={}),__nr_require=function a(b,c,d){function e(f){if(!c[f]){var g=c[f]={exports:{}};b[f][0].call(g.exports,function(a){var c=b[f][1][a];return e(c?c:a)},g,g.exports,a,b,c,d)}return c[f].exports}for(var f=0;f<d.length;f++)e(d[f]);return e}({1:[function(a,b){function c(a,b,c){c||(c={});for(var d=f[a],e=d&&d.length||0,h=c[g]||(c[g]={}),i=0;e>i;i++)d[i].apply(h,b);return h}function d(a,b){var c=f[a]||(f[a]=[]);c.push(b)}function e(a){return delete a[g]}var f={},g="nr@context";b.exports={on:d,emit:c,clear:e}},{}],2:[function(a){function b(a,b,e,g,i){return h?h-=1:c("err",[i||new UncaughtException(a,b,e)]),"function"==typeof f?f.apply(this,d(arguments)):!1}function UncaughtException(a,b,c){this.message=a||"Uncaught error with no additional information",this.sourceURL=b,this.line=c}var c=a("handle"),d=a("lodash._slice"),e=a("../../../contextual-ee"),f=window.onerror,g=!1,h=0;a("loader").features.push("err"),window.onerror=b;try{throw new Error}catch(i){"stack"in i&&(a("../../wrap-timer"),a("../../wrap-raf"),"addEventListener"in window&&a("../../wrap-events"),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&a("../../wrap-xhr"),g=!0)}e.on("fn-start",function(){g&&(h+=1)}),e.on("fn-err",function(a,b,d){g&&(this.thrown=!0,c("err",[d,(new Date).getTime()]))}),e.on("fn-end",function(){g&&!this.thrown&&h>0&&(h-=1)})},{"../../../contextual-ee":1,"../../wrap-events":3,"../../wrap-raf":4,"../../wrap-timer":5,"../../wrap-xhr":6,handle:"4O2Y62",loader:"YLUGVp","lodash._slice":14}],3:[function(a){function b(a){d.inPlace(a,["addEventListener","removeEventListener"],"-",c)}function c(a){return a[1]}var d=a("../wrap-function"),e=(a("lodash._slice"),a("../contextual-ee"));if(b(window),"getPrototypeOf"in Object){for(var f=document;f&&!f.hasOwnProperty("addEventListener");)f=Object.getPrototypeOf(f);f&&b(f);for(var g=XMLHttpRequest.prototype;g&&!g.hasOwnProperty("addEventListener");)g=Object.getPrototypeOf(g);g&&b(g)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&b(XMLHttpRequest.prototype);e.on("addEventListener-start",function(a){if(a[1]){var b=a[1];"function"==typeof b?this.wrapped=b["nr@wrapped"]?a[1]=b["nr@wrapped"]:b["nr@wrapped"]=a[1]=d(b,"fn-"):"function"==typeof b.handleEvent&&d.inPlace(b,["handleEvent"],"fn-")}}),e.on("removeEventListener-start",function(a){var b=this.wrapped;b&&(a[1]=b)})},{"../contextual-ee":1,"../wrap-function":15,"lodash._slice":14}],4:[function(a){var b=(a("lodash._slice"),a("../wrap-function")),c=a("../contextual-ee");b.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),c.on("raf-start",function(a){a[0]=b(a[0],"fn-")})},{"../contextual-ee":1,"../wrap-function":15,"lodash._slice":14}],5:[function(a){function b(a){var b=a[0];"string"==typeof b&&(b=new Function(b)),a[0]=c(b,"fn-")}var c=(a("lodash._slice"),a("../wrap-function")),d=a("../contextual-ee");c.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),d.on("setTimer-start",b)},{"../contextual-ee":1,"../wrap-function":15,"lodash._slice":14}],6:[function(a){function b(){c.inPlace(this,f,"fn-")}var c=a("../wrap-function"),d=a("../contextual-ee"),e=window.XMLHttpRequest,f=["onload","onerror","onabort","onloadstart","onloadend","onprogress","onreadystatechange","ontimeout"];window.XMLHttpRequest=function(a){var f=new e(a);return d.emit("new-xhr",[],f),c.inPlace(f,["addEventListener","removeEventListener"],"-",function(a,b){return b}),f.addEventListener("readystatechange",b,!1),f},window.XMLHttpRequest.prototype=e.prototype},{"../contextual-ee":1,"../wrap-function":15}],7:[function(a){function b(a){if("string"==typeof a&&a.length)return a.length;if("object"!=typeof a)return void 0;if("undefined"!=typeof ArrayBuffer&&a instanceof ArrayBuffer&&a.byteLength)return a.byteLength;if("undefined"!=typeof Blob&&a instanceof Blob&&a.size)return a.size;if("undefined"!=typeof FormData&&a instanceof FormData)return void 0;try{return JSON.stringify(a).length}catch(b){return void 0}}function c(a){var c=this.params,d=this.metrics;if(!this.ended){this.ended=!0;for(var e=0;k>e;e++)a.removeEventListener(j[e],this.listener,!1);if(!c.aborted){if(d.duration=(new Date).getTime()-this.startTime,4===a.readyState){c.status=a.status;var g=a.responseType,h="arraybuffer"===g||"blob"===g||"json"===g?a.response:a.responseText,i=b(h);if(i&&(d.rxSize=i),this.sameOrigin){var l=a.getResponseHeader("X-NewRelic-App-Data");l&&(c.cat=l.split(", ").pop())}}else c.status=0;d.cbTime=this.cbTime,f("xhr",[c,d])}}}function d(a,b){var c=g(b),d=a.params;d.host=c.hostname+":"+c.port,d.pathname=c.pathname,a.sameOrigin=c.sameOrigin}function e(a,b){return b}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){a("loader").features.push("xhr");var f=a("handle"),g=a("./parse-url.js"),h=a("../../../wrap-function"),i=a("../../../contextual-ee"),j=["load","error","abort","timeout"],k=j.length,l=a("../../../loader/id");a("../../wrap-events"),a("../../wrap-xhr"),i.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=c,this.ended=!1,this.xhrGuids={}}),h.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",e),i.on("open-xhr-start",function(a){this.params={method:a[0]},d(this,a[1]),this.metrics={}}),i.on("open-xhr-end",function(a,b){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&b.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),i.on("send-xhr-start",function(a,c){var d=this.metrics,e=a[0],f=this;if(d&&e){var g=b(e);g&&(d.txSize=g)}this.startTime=(new Date).getTime(),this.listener=function(a){try{"abort"===a.type&&(f.params.aborted=!0),("load"!==a.type||f.called===f.totalCbs&&(f.onloadCalled||"function"!=typeof c.onload))&&f.end(c)}catch(b){}};for(var h=0;k>h;h++)c.addEventListener(j[h],this.listener,!1)}),i.on("xhr-cb-time",function(a,b,c){this.cbTime+=a,b?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof c.onload||this.end(c)}),i.on("xhr-load-added",function(a,b){var c=""+l(a)+!!b;this.xhrGuids&&!this.xhrGuids[c]&&(this.xhrGuids[c]=!0,this.totalCbs+=1)}),i.on("xhr-load-removed",function(a,b){var c=""+l(a)+!!b;this.xhrGuids&&this.xhrGuids[c]&&(delete this.xhrGuids[c],this.totalCbs-=1)}),i.on("addEventListener-end",function(a,b){b instanceof XMLHttpRequest&&"load"===a[0]&&i.emit("xhr-load-added",[a[1],a[2]],b)}),i.on("removeEventListener-end",function(a,b){b instanceof XMLHttpRequest&&"load"===a[0]&&i.emit("xhr-load-removed",[a[1],a[2]],b)}),i.on("fn-start",function(a,b,c){b instanceof XMLHttpRequest&&("onload"===c&&(this.onload=!0),("load"===(a[0]&&a[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),i.on("fn-end",function(a,b){this.xhrCbStart&&i.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,b],b)})}},{"../../../contextual-ee":1,"../../../loader/id":11,"../../../wrap-function":15,"../../wrap-events":3,"../../wrap-xhr":6,"./parse-url.js":8,handle:"4O2Y62",loader:"YLUGVp"}],8:[function(a,b){b.exports=function(a){var b=document.createElement("a"),c=window.location,d={};b.href=a,d.port=b.port;var e=b.href.split("://");return!d.port&&e[1]&&(d.port=e[1].split("/")[0].split(":")[1]),d.port&&"0"!==d.port||(d.port="https"===e[0]?"443":"80"),d.hostname=b.hostname||c.hostname,d.pathname=b.pathname,"/"!==d.pathname.charAt(0)&&(d.pathname="/"+d.pathname),d.sameOrigin=!b.hostname||b.hostname===document.domain&&b.port===c.port&&b.protocol===c.protocol,d}},{}],handle:[function(a,b){b.exports=a("4O2Y62")},{}],"4O2Y62":[function(a,b){function c(a,b){var c=d[a];return c?c.apply(this,b):(e[a]||(e[a]=[]),void e[a].push(b))}var d={},e={};b.exports=c,c.queues=e,c.handlers=d},{}],11:[function(a,b){function c(a){if(!a||"object"!=typeof a&&"function"!=typeof a)return-1;if(a===window)return 0;if(e.call(a,"__nr"))return a.__nr;try{return Object.defineProperty(a,"__nr",{value:d,writable:!0,enumerable:!1}),d}catch(b){return a.__nr=d,d}finally{d+=1}}var d=1,e=Object.prototype.hasOwnProperty;b.exports=c},{}],loader:[function(a,b){b.exports=a("YLUGVp")},{}],YLUGVp:[function(a,b){function c(){var a=m.info=NREUM.info;if(a&&a.agent&&a.licenseKey&&a.applicationID){m.proto="https"===l.split(":")[0]||a.sslForHttp?"https://":"http://",g("mark",["onload",f()]);var b=i.createElement("script");b.src=m.proto+a.agent,i.body.appendChild(b)}}function d(){"complete"===i.readyState&&e()}function e(){g("mark",["domContent",f()])}function f(){return(new Date).getTime()}var g=a("handle"),h=window,i=h.document,j="addEventListener",k="attachEvent",l=(""+location).split("?")[0],m=b.exports={offset:f(),origin:l,features:[]};i[j]?(i[j]("DOMContentLoaded",e,!1),h[j]("load",c,!1)):(i[k]("onreadystatechange",d),h[k]("onload",c)),g("mark",["firstbyte",f()])},{handle:"4O2Y62"}],14:[function(a,b){function c(a,b,c){b||(b=0),"undefined"==typeof c&&(c=a?a.length:0);for(var d=-1,e=c-b||0,f=Array(0>e?0:e);++d<e;)f[d]=a[b+d];return f}b.exports=c},{}],15:[function(a,b){function c(a,b,c,d){function nrWrapper(){var g,h=f(arguments),i=this,j=c&&c(h,i)||{};try{e.emit(b+"start",[h,i,d],j)}catch(k){}try{return g=a.apply(i,h)}catch(l){throw e.emit(b+"err",[h,i,l],j),l}finally{try{e.emit(b+"end",[h,i,g],j)}catch(k){}}}return a&&"function"==typeof a&&a.apply&&!a._wrapped?(b||(b=""),nrWrapper._wrapped=!0,nrWrapper):a}function d(a,b,d,e){d||(d="");var f,g,h,i="-"===d.charAt(0);for(h=0;h<b.length;h++)g=b[h],f=a[g],f&&"function"==typeof f&&f.apply&&!f._wrapped&&(a[g]=c(f,i?g+d:d,e,g,a))}var e=a("../contextual-ee"),f=a("lodash._slice");b.exports=c,c.inPlace=d},{"../contextual-ee":1,"lodash._slice":14}]},{},["YLUGVp",7,2]);</script>
+<!DOCTYPE html><html><!--<![endif]--><script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0020/2576.js?438996" async="" type="text/javascript"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-K2HK7K"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" async="" src="https://cdn.optimizely.com/js/566322169.js"></script><head><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XQUBUFZAAQMHV1NT"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
     <title>Privacy Policy at Foodpanda</title><meta name="keywords" content="">
 <meta name="description" content="Static Page">
 <meta name="robots" content="noindex,follow">
@@ -13,30 +13,48 @@
 <meta name="apple-itunes-app" content="app-id=758103884, app-argument=/AdXadvert?adID=web2529725fb567a4">
 <meta name="google-play-app" content="app-id=com.global.foodpanda.android, app-argument=/AdXadvert?adID=web2529725fb4fb55">
 <meta property="og:url" content="http://www.foodpanda.in/contents/privacy.htm">
-<meta property="og:site_name" content="Foodpanda">
-<link rel="icon" type="image/x-icon" href="http://static.foodpanda.in/layout/themes/margherita/images/en/favicon.ico?v=20140321160637">
-<link sizes="144x144" rel="apple-touch-icon-precomposed" href="/themes/margherita/images/IN/apple_touch_icon_144x144_precomposed.png">
-<link sizes="114x114" rel="apple-touch-icon-precomposed" href="/themes/margherita/images/IN/apple_touch_icon_114x114_precomposed.png">
-<link sizes="72x72" rel="apple-touch-icon-precomposed" href="/themes/margherita/images/IN/apple_touch_icon_72x72_precomposed.png">
-<link rel="apple-touch-icon-precomposed" href="/themes/margherita/images/IN/apple_touch_icon_57x57_precomposed.png">
-<link rel="apple-touch-icon" href="/themes/margherita/images/IN/apple_touch_icon_57x57_precomposed.png">
-<link rel="stylesheet" type="text/css" href="http://static.foodpanda.in/themes/margherita/css/main.min.css?9cdfda00d96cad49ea39c5ad1c067aae">
-<script type="text/javascript" src="http://static.foodpanda.in/themes/margherita/js/head.js?f49fe4d3434574afa0b9125e20b5bef3"></script>
+<meta property="og:site_name" content="foodpanda">
+<link rel="icon" type="image/x-icon" href="http://assets.foodpanda.in/layout/themes/margherita/images/en/favicon.ico?v=20140512150235">
+<link sizes="144x144" rel="apple-touch-icon-precomposed" href="http://static.foodpanda.in/themes/margherita/images/apple_touch_icon_144x144_precomposed.png">
+<link sizes="114x114" rel="apple-touch-icon-precomposed" href="http://static.foodpanda.in/themes/margherita/images/apple_touch_icon_114x114_precomposed.png">
+<link sizes="72x72" rel="apple-touch-icon-precomposed" href="http://static.foodpanda.in/themes/margherita/images/apple_touch_icon_72x72_precomposed.png">
+<link rel="apple-touch-icon-precomposed" href="http://static.foodpanda.in/themes/margherita/images/apple_touch_icon_57x57_precomposed.png">
+<link rel="apple-touch-icon" href="http://static.foodpanda.in/themes/margherita/images/apple_touch_icon_57x57_precomposed.png">
+<link rel="stylesheet" type="text/css" href="http://static.foodpanda.in/themes/margherita/css/main.min.css?61e3439b8fa485c57e49951da2a5b83b">
+<script type="text/javascript" src="http://static.foodpanda.in/themes/margherita/js/head.js?139180c3434574aff893bc72acd4fa6f"></script>
 <script type="text/javascript">
 /*<![CDATA[*/
 
-                window.foodpandaLazyLoadFunctions = [];
+                window.lazyLoadFunctions = [];
                 window.logJsErrors = true;
             
-loadSiteJs(["http:\/\/static.foodpanda.in\/themes\/margherita\/js\/main.js?f49fe4d3434574afa0b9125e20b5bef3"]);
+loadSiteJs(["http:\/\/static.foodpanda.in\/themes\/margherita\/js\/main.js?139180c3434574aff893bc72acd4fa6f"]);
 /*]]>*/
 </script>
 
-    <script type="text/javascript">
+        <script type="text/javascript">
+(function() {
+  var projectId = 566322169;
+  var protocol = ('https:' == document.location.protocol ? 'https://' : 'http://');
+  var scriptTag = document.createElement('script');
+  scriptTag.type = 'text/javascript';
+  scriptTag.async = true;
+  scriptTag.src = protocol + 'cdn.optimizely.com/js/' + projectId + '.js';
+  var head = document.getElementsByTagName('head')[0];
+  head.parentNode.insertBefore(scriptTag, head);
+})();
+function optimizelyTimeout() {
+  window.optimizely = window.optimizely || [];
+  if(!window.optimizely.data) {
+    window.optimizely.push("timeout");
+  }
+}
+setTimeout(optimizelyTimeout, 1000);
 var _gaq = _gaq || [];
    _gaq.push(['_setAccount', 'UA-31290576-1']);
    _gaq.push(['_setDomainName', 'foodpanda.in']);
    _gaq.push(['_setCustomVar',2,'Coordinates','NA_NA',2]);
+   _gaq.push(['_setCustomVar',8,'AB Group','b',2]);
    _gaq.push(['_trackEvent', 'Area', 'Get Area', 'NA_NA', 1, true]);
    _gaq.push(['_trackPageview']);
 
@@ -62,49 +80,115 @@ var trackingFunction = function () {
     }
  });
 }
-if (typeof foodpandaLazyLoadFunctions === 'undefined') {
+if (typeof lazyLoadFunctions === 'undefined') {
  trackingFunction();
 } else {
- foodpandaLazyLoadFunctions.push(trackingFunction);
+ lazyLoadFunctions.push(trackingFunction);
 }
-(function() {
-  var projectId = 566322169;
-  var protocol = ('https:' == document.location.protocol ? 'https://' : 'http://');
-  var scriptTag = document.createElement('script');
-  scriptTag.type = 'text/javascript';
-  scriptTag.async = true;
-  scriptTag.src = protocol + 'cdn.optimizely.com/js/' + projectId + '.js';
-  var head = document.getElementsByTagName('head')[0];
-  head.parentNode.insertBefore(scriptTag, head);
-})();
-function optimizelyTimeout() {
-  window.optimizely = window.optimizely || [];
-  if(!window.optimizely.data) {
-    window.optimizely.push("timeout");
-  }
-}
-setTimeout(optimizelyTimeout, 1000);
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-</script><script src="https://bounceexchange.com/bounce/i.js?client_id=701" async=""></script><script type="text/javascript" async="" src="//cdn.mouseflow.com/projects/d0732469-ac4e-4c29-a9c8-b60b6433d56e.js"></script><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+ga('create', 'UA-51354317-1', 'foodpanda.in');
+
+ga('require', 'linkid', 'linkid.js');
+
+var dimensionValue = 'Area';
+ga('set', 'dimension1', 'NA_NA');
+
+var dimensionValue = 'AB Group';
+ga('set', 'dimension2', 'b');
+
+var dimensionValue = 'Country';
+ga('set', 'dimension3', 'IN');
+
+var dimensionValue = 'Coordinate';
+ga('set', 'dimension4', 'NA_NA+NA');
+
+ga('send', 'event', 'Area', 'Get Area', 'NA_NA', 1, {'nonInteraction': 1});
+
+ga('send', 'event', 'Coordinate', 'Get Coordinate', 'NA_NA+NA', 1, {'nonInteraction': 1});
+
+ga('send', 'pageview');
+
+/*\
+|*|  :: cookies.js ::
+|*|  A complete cookies reader/writer framework with full unicode support.
+|*|  https://developer.mozilla.org/en-US/docs/DOM/document.cookie
+\*/
+var docCookies={getItem:function(sKey){return unescape(document.cookie.replace(new RegExp('(?:(?:^|.*;)\s*'+escape(sKey).replace(/[\-\.\+\*]/g,'\$&')+'\s*\=\s*([^;]*).*$)|^.*$'),'$1'))||null},setItem:function(sKey,sValue,vEnd,sPath,sDomain,bSecure){if(!sKey||/^(?:expires|max\-age|path|domain|secure)$/i.test(sKey)){return false}var sExpires='';if(vEnd){switch(vEnd.constructor){case Number:sExpires=vEnd===Infinity?'; expires=Fri, 31 Dec 9999 23:59:59 GMT':'; max-age='+vEnd;break;case String:sExpires='; expires='+vEnd;break;case Date:sExpires='; expires='+vEnd.toGMTString();break}}document.cookie=escape(sKey)+'='+escape(sValue)+sExpires+(sDomain?'; domain='+sDomain:'')+(sPath?'; path='+sPath:'')+(bSecure?'; secure':'');return true},removeItem:function(sKey,sPath){if(!sKey||!this.hasItem(sKey)){return false}document.cookie=escape(sKey)+'=; expires=Thu, 01 Jan 1970 00:00:00 GMT'+(sPath?'; path='+sPath:'');return true},hasItem:function(sKey){return(new RegExp('(?:^|;\s*)'+escape(sKey).replace(/[\-\.\+\*]/g,'\$&')+'\s*\=')).test(document.cookie)},keys:function(){var aKeys=document.cookie.replace(/((?:^|\s*;)[^\=]+)(?=;|$)|^\s*|\s*(?:\=[^;]*)?(?:|$)/g,'').split(/\s*(?:\=[^;]*)?;\s*/);for(var nIdx=0;nIdx<aKeys.length;nIdx++){aKeys[nIdx]=unescape(aKeys[nIdx])}return aKeys}};
+
+// The following lines will set up a timer to track order conversion, utilising session cookie.
+var trackingFunction = function () {
+ $(document).ready(function() {
+    if (!docCookies.hasItem('orderInit')) {
+        var t1 = $.now();
+        docCookies.setItem('orderInit', t1);
+    }
+ });
+}
+if (typeof lazyLoadFunctions === 'undefined') {
+ trackingFunction();
+} else {
+ lazyLoadFunctions.push(trackingFunction);
+}
+
+</script><script type="text/javascript">
+var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    (function() {
+      var gads = document.createElement("script");
+      gads.async = true;
+      gads.type = "text/javascript";
+      var useSSL = "https:" == document.location.protocol;
+      gads.src = (useSSL ? "https:" : "http:") + "//www.googletagservices.com/tag/js/gpt.js";
+      var node =document.getElementsByTagName("script")[0];
+      node.parentNode.insertBefore(gads, node);
+     })();
+</script>
+
+<script type="text/javascript">
+googletag.cmd.push(function() {
+googletag.defineSlot('/57835327/tile1', [319, 160], 'div-gpt-ad-1390554524263-0').addService(googletag.pubads());
+googletag.defineSlot('/57835327/tile2', [319, 160], 'div-gpt-ad-1390554693819-0').addService(googletag.pubads());
+googletag.defineSlot('/57835327/tile3', [319, 160], 'div-gpt-ad-1390555015755-0').addService(googletag.pubads());
+googletag.defineSlot('/57835327/tile4', [319, 160], 'div-gpt-ad-1390555078720-0').addService(googletag.pubads());
+googletag.defineSlot('/57835327/tile5', [319, 160], 'div-gpt-ad-1390555182195-0').addService(googletag.pubads());
+googletag.defineSlot('/57835327/tile6', [319, 160], 'div-gpt-ad-1390555083687-0').addService(googletag.pubads());
+googletag.defineSlot('/57835327/strip_banner', [1100, 110], 'div-gpt-ad-1396715464789-0').addService(googletag.pubads());
+
+googletag.enableServices();
+});
+
+</script><script src="https://bounceexchange.com/bounce/i.js?client_id=701" async=""></script></head>
 <body class="site site-static IN IN_en ">
-        
+        <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-K2HK7K" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    <script>
+        dataLayer = [{"lat":"NA","lng":"NA","city_name":"NA","city_id":"NA","area_name":"NA","area_id":"NA","landing_page":"%2Fcontents%2Fprivacy.htm","customer_logged":"0","customer_code":"NA","customer_status":"NA","lang":"IN_en","visitor_id":"afn0pbigg5us68n3g7j8hocqf4","language":"IN_en","platform":"pc","country_id":"IN","conversion_duration":2,"ab_group":"b"}];
+        (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-K2HK7K');
+    </script>
+    
     
     <div id="toTop"></div>
     <div class="sticky-footer-page-wrapper">
         <header class="gradient-red">
     <div id="header" class="container">
                     <a href="/" id="top-logo">
-                                <img src="http://static.foodpanda.in/layout/themes/margherita/images/en/top_logo.png?v=20140321160637" alt="Logo">            </a>
+                <img src="http://assets.foodpanda.in/layout/themes/margherita/images/en/top_logo.png?v=20140512150235" alt="Logo">            </a>
+        
         
         <ul id="header-links" class="list-unstyled list-inline clearfix">
-            <li id="hotline">
-                <a href="/contents/contact.htm">
-                    <i class="icon-hotline img"></i>
-                    <span class="teaser">Questions? Call us Toll-free!</span>
-                    <span class="number">1800-3000-3034 (11AM to 11PM)</span>
-                </a>
-            </li>
-                            <li id="account-btn" class="btn-group">
+            
+            
+                            <li id="hotline">
+                    <a href="/contents/contact.htm">
+                        <i class="icon-hotline img"></i>
+                        <span class="teaser">Questions? Call us now! Toll-Free!</span>
+                        <span class="number">1800-3000-3034 (11AM to 11PM)</span>
+                    </a>
+                </li>
+                                        <li id="account-btn" class="btn-group invisible">
                                             <a id="auth-modal-button" class="btn btn-default" data-toggle="modal" data-target="#auth-modal">
                             <span class="btn-account img"></span>
                             <span class="label">Log in / Register</span>
@@ -117,11 +201,9 @@ setTimeout(optimizelyTimeout, 1000);
         <div class="container">
             <ul class="list-unstyled list-inline">
                     
-    
     <li>
                     <a href="/">Home</a>
             </li>
-    
             <li><i class="divider img"></i></li>
     
     <li>
@@ -144,12 +226,13 @@ setTimeout(optimizelyTimeout, 1000);
         </div>
     </div>
 
+        
         <div id="content-wrapper">
             <div id="content" class="container">
                 <h1>Privacy Policy</h1>
 <div id="static-page-content" class="">
     <p>
-	This policy explains how we, Foodpanda, a brand of <strong>http://www.foodpanda.in</strong>, use your personal information which you provide to us when using our service, including but not limited to our website and mobile applications (apps).<br>
+	This policy explains how we, foodpanda, a brand of <strong>http://www.foodpanda.in</strong>, use your personal information which you provide to us when using our service, including but not limited to our website and mobile applications (apps).<br>
 	<br>
 	<strong>What information we collect about you?</strong><br>
 	<br>
@@ -187,9 +270,10 @@ setTimeout(optimizelyTimeout, 1000);
 	<br>
 	Our website may have links to other websites. This privacy policy only applies to this website. You should therefore read the privacy policies of the other websites when you are using those sites.</p></div>
     <div id="static-page-image">
-        <img src="http://static.foodpanda.in/images/static/privacy.htm.jpg?v=20130208034549" alt="">    </div>
+        <img src="http://assets.foodpanda.in/images/static/privacy.htm.jpg?v=20140421162929" alt="">    </div>
             </div>
-        </div>
+
+                    </div>
         <div class="sticky-footer-pseudo-element"></div>
     </div>
 
@@ -199,10 +283,49 @@ setTimeout(optimizelyTimeout, 1000);
         <div id="newsletter" class="container">
             <div id="newsletter-form" class="control-group col-md-6">
                 <div class="h4">Subscribe to our newsletter:</div>
+                <input id="newsletter-type" type="hidden" value="1">
                 <div class="row">
-                    <input id="newsletter-type" type="hidden" value="1">
-
                     <div class="col-xs-12 col-sm-8">
+                        <div class="form-group">
+                            <select id="newsletter-city-id" name="city_id" class="form-control">
+                                <option value="">Please select your city</option>
+                                                                                                            <option value="126">Agra</option>
+                                                                            <option value="16">Ahmedabad-Gandhinagar</option>
+                                                                            <option value="130">Ambala</option>
+                                                                            <option value="11">Bangalore</option>
+                                                                            <option value="138">Bhatinda</option>
+                                                                            <option value="12">Chennai</option>
+                                                                            <option value="148">Dehradun</option>
+                                                                            <option value="1">Delhi</option>
+                                                                            <option value="5">Faridabad</option>
+                                                                            <option value="6">Greater Noida</option>
+                                                                            <option value="2">Gurgaon</option>
+                                                                            <option value="159">Howrah</option>
+                                                                            <option value="17">Hyderabad</option>
+                                                                            <option value="4">Indirapuram-Ghaziabad</option>
+                                                                            <option value="30">Jaipur</option>
+                                                                            <option value="164">Jalandhar</option>
+                                                                            <option value="170">Karnal</option>
+                                                                            <option value="18">Kolkata</option>
+                                                                            <option value="178">Lucknow</option>
+                                                                            <option value="179">Ludhiana</option>
+                                                                            <option value="27">Mumbai</option>
+                                                                            <option value="28">Mumbai - Navi Mumbai</option>
+                                                                            <option value="29">Mumbai - Thane</option>
+                                                                            <option value="185">Nagpur</option>
+                                                                            <option value="3">Noida</option>
+                                                                            <option value="8">Panchkula-Chandigarh-Mohali</option>
+                                                                            <option value="190">Patiala</option>
+                                                                            <option value="10">Pune</option>
+                                                                            <option value="25">Rajkot</option>
+                                                                            <option value="19">Surat</option>
+                                                                            <option value="21">Vadodara</option>
+                                                                            <option value="26">Vapi</option>
+                                                                            <option value="218">Varanasi</option>
+                                                                                                </select>
+                            <span id="city-id-error" class="help-inline hide">
+                                Please select your city                            </span>
+                        </div>
                         <div class="form-group">
                             <input id="newsletter-email" value="" type="email" class="form-control" name="email" autocomplete="off" placeholder="Enter your e-mail">
                             <span id="email-error" class="help-inline hide">
@@ -239,66 +362,70 @@ setTimeout(optimizelyTimeout, 1000);
                 <div class="col-xs-12 col-sm-6 col-md-3">
                     <div class="h4">Popular cities</div>
                     <ul class="unstyled">
-	<li>
-		<a href="/restaurants/index/city/delhi">Delhi</a></li>
-	<li>
-		<a href="/restaurants/index/city/gurgaon">Gurgaon</a></li>
-	<li>
-		<a href="/restaurants/index/city/mumbai">Mumbai</a></li>
-	<li>
-		<a href="/restaurants/index/city/panchkula-chandigarh-mohali">Panchkula/Chandigarh/Mohali</a></li>
-	<li>
-		<a href="/restaurants/index/city/pune">Pune</a></li>
-	<li>
-		<a href="/restaurants/index/city/bangalore">Bangalore</a></li>
-	<li>
-		<a href="/restaurants/index/city/ahmedabad-gandhinagar">Ahmedabad/Gandhinagar</a></li>
-	<li>
-		<a href="/restaurants/index/city/noida">Noida</a></li>
-	<li>
-		<a href="/restaurants/index/city/greater-noida">Greater Noida</a></li>
-	<li>
-		<a href="/restaurants/index/city/indirapuram-ghaziabad">Indirapuram Ghaziabad</a></li>
-	<li>
-		<a href="/restaurants/index/city/Faridabad">Faridabad</a></li>
-	<li>
-		<a href="/restaurants/index/city/hyderabad">Hyderabad</a></li>
-	<li>
-		<a href="/restaurants/index/city/kolkata">Kolkata</a></li>
-	<li>
-		<a href="/restaurants/index/city/jaipur">Jaipur</a></li>
-	<li>
-		<a href="/restaurants/index/city/chennai">Chennai</a></li>
+<li><a href="/restaurants/index/city/bangalore">Bangalore</a></li>
+<li><a href="/restaurants/index/city/pune">Pune</a></li>
+<li><a href="/restaurants/index/city/delhi">Delhi</a></li>
+<li><a href="/restaurants/index/city/mumbai">Mumbai</a></li>
+<li><a href="/restaurants/index/city/gurgaon">Gurgaon</a></li>
+<li><a href="/restaurants/index/city/noida">Noida</a></li>
+<li><a href="/restaurants/index/city/hyderabad">Hyderabad</a></li>
+<li><a href="/restaurants/index/city/kolkata">Kolkata</a></li>
+<li><a href="/restaurants/index/city/indirapuram-ghaziabad">Indirapuram-Ghaziabad</a></li>
+<li><a href="/restaurants/index/city/chennai">Chennai</a></li>
+<li><a href="/restaurants/index/city/panchkula-chandigarh-mohali">Panchkula-Chandigarh-Mohali</a></li>
+<li><a href="/restaurants/index/city/mumbai-thane">Mumbai - Thane</a></li>
+<li><a href="/restaurants/index/city/ahmedabad-gandhinagar">Ahmedabad-Gandhinagar</a></li>
+<li><a href="/restaurants/index/city/greater-noida">Greater Noida</a></li>
+<li><a href="/restaurants/index/city/faridabad">Faridabad</a></li>
+<li><a href="/restaurants/index/city/mumbai-navi-mumbai">Mumbai - Navi Mumbai</a></li>
+<li><a href="/restaurants/index/city/jaipur">Jaipur</a></li>
+<li><a href="/restaurants/index/city/vadodara">Vadodara</a></li>
+<li><a href="/restaurants/index/city/surat">Surat</a></li>
+<li><a href="/restaurants/index/city/rajkot">Rajkot</a></li>
 </ul>                </div>
                 <div class="col-xs-12 col-sm-6 col-md-3">
                     <div class="h4">Popular cuisines</div>
                     <ul class="unstyled">
 	<li>
-		<a href="/restaurants/index/cuisines/fast-food-cuisine">Fast Food</a></li>
-	<li>
-		<a href="/restaurants/index/cuisines/pizza">Pizza</a></li>
+		<a href="/restaurants/index/cuisines/bengali">Bengali</a></li>
 	<li>
 		<a href="/restaurants/index/cuisines/biryani-cuisine">Biryani</a></li>
 	<li>
-		<a href="/restaurants/index/cuisines/japanese">Japanese</a></li>
-	<li>
-		<a href="/restaurants/index/cuisines/punjabi-cuisine">Punjabi</a></li>
-	<li>
-		<a href="/restaurants/index/cuisines/bengali">Bengali</a></li>
-	<li>
-		<a href="/restaurants/index/cuisines/pasta-cuisine">Pasta</a></li>
-	<li>
-		<a href="/restaurants/index/cuisines/south-indian">South Indian</a></li>
+		<a href="/restaurants/index/cuisines/cakes-bakery">Cakes-Bakery</a></li>
 	<li>
 		<a href="/restaurants/index/cuisines/chinese">Chinese</a></li>
 	<li>
-		<a href="/restaurants/index/cuisines/french">French</a></li>
-        <li>
 		<a href="/restaurants/index/cuisines/continental-cuisine">Continental</a></li>
-        <li>
-		<a href="/restaurants/index/cuisines/gujrati">Gujarati</a></li>
-        <li>
-		<a href="/restaurants/index/cuisines/salads">Salads</a></li>
+	<li>
+		<a href="/restaurants/index/cuisines/fast-food-cuisine">Fast Food (Wraps, Burgers &amp; more)</a></li>
+	<li>
+		<a href="/restaurants/index/cuisines/hyderabadi">Hyderabadi</a></li>
+	<li>
+		<a href="/restaurants/index/cuisines/ice-creams-cuisine">Ice creams</a></li>
+	<li>
+		<a href="/restaurants/index/cuisines/italian-cuisine">Italian</a></li>
+	<li>
+		<a href="/restaurants/index/cuisines/japanese">Japanese</a></li>
+	<li>
+		<a href="/restaurants/index/cuisines/mexican-cuisine">Mexican</a></li>
+	<li>
+		<a href="/restaurants/index/cuisines/middle-eastern">Middle Eastern</a></li>
+	<li>
+		<a href="/restaurants/index/cuisines/multi-cuisine">Multi-cuisine</a></li>
+	<li>
+		<a href="/restaurants/index/cuisines/north-indian">North Indian - Mughlai</a></li>
+	<li>
+		<a href="/restaurants/index/cuisines/south-east-asian">Pan-Asian</a></li>
+	<li>
+		<a href="/restaurants/index/cuisines/pizza">Pizza</a></li>
+	<li>
+		<a href="/restaurants/index/cuisines/indian">Regional</a></li>
+	<li>
+		<a href="/restaurants/index/cuisines/salads">Salads &amp; Sandwiches</a></li>
+	<li>
+		<a href="/restaurants/index/cuisines/sea-food">Seafood</a></li>
+	<li>
+		<a href="/restaurants/index/cuisines/south-indian">South Indian</a></li>
 </ul>                </div>
                 <div class="col-xs-12 col-sm-6 col-md-3">
                     <div class="h4">Popular restaurants</div>
@@ -307,6 +434,14 @@ setTimeout(optimizelyTimeout, 1000);
 		<a href="http://pizzahut.foodpanda.in">Pizza Hut</a></li>
         <li>
                 <a href="http://subway.foodpanda.in">Subway</a></li>
+        <li>
+                <a href="http://mastkalandar.foodpanda.in">Mast Kalandar</a></li>
+        <li>
+                <a href="http://baskin-robbins.foodpanda.in">Baskin Robbins</a></li>
+        <li>
+                <a href="http://yo-china.foodpanda.in/">Yo China</a></li>
+        <li>
+                <a href="http://pind-balluchi.foodpanda.in">Pind Balluchi</a></li>
 	<li>
 		<a href="/restaurant/n5fa">Dana Choga</a></li>
 	<li>
@@ -324,7 +459,7 @@ setTimeout(optimizelyTimeout, 1000);
 	<li>
 		<a href="/restaurant/n4jq">Monginis Mumbai</a></li>
 	<li>
-		<a href="/restaurant/n7ej">Bikanervala</a></li>
+		<a href="http://bikanervala.foodpanda.in/">Bikanervala</a></li>
 	<li>
 		<a href="/restaurant/n4jo">Viva Hyderabad</a></li>
 	<li>
@@ -334,26 +469,27 @@ setTimeout(optimizelyTimeout, 1000);
                     <div class="h4">Get in touch</div>
                     <div id="social-network-links">
                                                                                                                                                     <span>
-                                                                                    <a href="https://www.facebook.com/foodpanda.in" target="_blank"><img alt="Facebook" src="http://static.foodpanda.in/images/static/icons/facebook.png"></a>
+                                                                                    <a href="https://www.facebook.com/foodpanda.in" target="_blank"><img alt="Facebook" src="http://assets.foodpanda.in/images/static/icons/facebook.png"></a>
                                                                                                                             <a href="https://www.facebook.com/foodpanda.in" target="_blank">Facebook</a>
                                                                             </span>
                                                                     <span>
-                                                                                    <a href="https://twitter.com/FoodpandaIndia" target="_blank"><img alt="Twitter" src="http://static.foodpanda.in/images/static/icons/twitter.png"></a>
+                                                                                    <a href="https://twitter.com/FoodpandaIndia" target="_blank"><img alt="Twitter" src="http://assets.foodpanda.in/images/static/icons/twitter.png"></a>
                                                                                                                             <a href="https://twitter.com/FoodpandaIndia" target="_blank">Twitter</a>
                                                                             </span>
                                                                     <span>
-                                                                                    <a href="http://blog.foodpanda.in/" target="_blank"><img alt="Blog" src="http://static.foodpanda.in/images/static/icons/blog.png"></a>
+                                                                                    <a href="http://blog.foodpanda.in/" target="_blank"><img alt="Blog" src="http://assets.foodpanda.in/images/static/icons/blog.png"></a>
                                                                                                                             <a href="http://blog.foodpanda.in/" target="_blank">Blog</a>
                                                                             </span>
                                                                                                         </div>
-                    <div class="h4" id="static-pages-headline">Foodpanda</div>
+                    <div class="h4" id="static-pages-headline">foodpanda</div>
                     <div id="link-collection">
                                                                                 <ul class="list-unstyled">
                                                                     <li><a href="/contents/about.htm">About us</a></li>
-                                                                    <li><a href="/contents/press.htm">Foodpanda.in press</a></li>
+                                                                    <li><a href="/contents/press.htm">foodpanda.in press</a></li>
                                                                     <li><a href="/contents/contact.htm">Contact</a></li>
                                                                     <li><a href="/contents/terms-and-conditions.htm">Terms and Conditions</a></li>
                                                                     <li><a href="/contents/privacy.htm">Privacy Policy</a></li>
+                                                                    <li><a href="/contents/apps">foodpanda India Android and iPhone Apps</a></li>
                                                                     <li><a href="/contents/careers.htm">Careers</a></li>
                                                             </ul>
                                             </div>
@@ -396,7 +532,7 @@ setTimeout(optimizelyTimeout, 1000);
     </div>
 
     
-    <script>var config = {"Auth":{"isLoggedIn":false},"SiteOverride":{"enabled":false,"isSiteOverrideOnlyForIframe":false,"isIframed":null,"isIframeAssumed":true,"cookieName":"site_framed"},"Helper":{"controller":"site","action":"static","isLoggedIn":0,"hasLocation":false,"locationGroupType":"AREAS","showPopupOnRestaurantMenuPage":"0","isOpen":true},"AreaSelection":{"lat":null,"lng":null,"street":null,"cityId":null,"locationGroupType":"AREAS","locationType":"AREA","locationCountry":"IN","locationGroupDefault":"AREAS","separatedStreetNumber":false,"separatedStreetNumberRequired":false,"gmapLanguage":"en"}};</script>
+    <script>var config = {"Helper":{"controller":"site","action":"static","isLoggedIn":0,"hasLocation":false,"locationGroupType":"AREAS","showPopupOnRestaurantMenuPage":"0","isOpen":true,"isMobile":false},"Auth":{"isLoggedIn":false},"SiteOverride":{"enabled":false,"isSiteOverrideOnlyForIframe":false,"isIframed":null,"isIframeAssumed":true,"cookieName":"site_framed"},"EventTracking":{"isEnabled":true,"locationLabel":"NA_NA"},"AreaSelection":{"lat":null,"lng":null,"street":null,"cityId":null,"locationGroupType":"AREAS","locationType":"AREA","locationCountry":"IN","locationGroupDefault":"AREAS","separatedStreetNumber":false,"separatedStreetNumberRequired":false,"gmapLanguage":"en"}};</script>
     <div style="display: none;" id="google_conversion">
 <script type="text/javascript">
 	/* <![CDATA[ */
@@ -413,58 +549,6 @@ setTimeout(optimizelyTimeout, 1000);
 </div>
 </noscript>
 </div>
-<!-- Google Code for Remarketing tag -->
-<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
-<script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 996528864;
-var google_conversion_label = "B3MwCODQ2AQQ4KWX2wM";
-var google_custom_params = window.google_tag_params;
-var google_remarketing_only = true;
-/* ]]> */
-</script>
-<script type="text/javascript" src="https://www.googleadservices.com/pagead/conversion.js">
-</script>
-<noscript>
-<div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/996528864/?value=0&amp;label=B3MwCODQ2AQQ4KWX2wM&amp;guid=ON&amp;script=0"/>
-</div>
-</noscript>
-<!-- Google Code for Order Conversion Page --> 
-<script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 995332802;
-var google_conversion_language = "en";
-var google_conversion_format = "3";
-var google_conversion_color = "ffffff";
-var google_conversion_label = "Dpq3CN6opQgQwqXO2gM"; var google_conversion_value = 0; var google_remarketing_only = false;
-/* ]]> */
-</script>
-<script type="text/javascript" src="https://www.googleadservices.com/pagead/conversion.js">
-</script>
-<noscript>
-<div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt=""  
-src="//www.googleadservices.com/pagead/conversion/995332802/?value=0&amp;label=Dpq3CN6opQgQwqXO2gM&amp;guid=ON&amp;script=0"/>
-</div>
-</noscript>
-<script type="text/javascript">
-adroll_adv_id = "ID5FBEPKT5EXDOQESLMVSM";
-adroll_pix_id = "EAFRHZC3MBF7THWZXYV2DJ";
-(function () {
-var oldonload = window.onload;
-window.onload = function(){
-   __adroll_loaded=true;
-   var scr = document.createElement("script");
-   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
-   scr.setAttribute('async', 'true');
-   scr.type = "text/javascript";
-   scr.src = host + "/j/roundtrip.js";
-   ((document.getElementsByTagName('head') || [null])[0] ||
-    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
-   if(oldonload){oldonload()}};
-}());
-</script>
 <!-- MouseflowExcludeStart -->
 <!-- Start BounceX tag. Deploy at the beginning of document head. -->
 <script>
@@ -477,65 +561,12 @@ window.onload = function(){
 </script>
 <!-- End BounceX tag -->
 <!-- MouseflowExcludeEnd -->
-<script type="text/javascript" charset="UTF-8">
-var _AvazuRunid = "MTExNmllcl9mZys0";
-var _AvazuRadvid = "Mjg0OG1lX3QrNGlr";
-var _AvazuArticle = new Object();
-_AvazuArticle.other = "[CUSTOM_PARAMETERS]";
-(function() {
-var avazu = document.createElement('script'); avazu.type = 'text/javascript'; avazu.async = true;
-avazu.src = "https://avazudsp.net/ret/dspPros.js";
-var avazujs = document.getElementsByTagName('script')[0]; avazujs.parentNode.insertBefore(avazu, avazujs);
-})();
-</script>
-<script type="text/javascript">
-        var mouseflowHtmlDelay = 1000;
-        var _mfq = _mfq || [];
-        (function () {
-        var mf = document.createElement("script"); mf.type = "text/javascript"; mf.async = true;
-        mf.src = "//cdn.mouseflow.com/projects/d0732469-ac4e-4c29-a9c8-b60b6433d56e.js";
-        document.getElementsByTagName("head")[0].appendChild(mf);
-      })();
-</script>
 <script type="text/javascript">
 setTimeout(function(){var a=document.createElement("script");
 var b=document.getElementsByTagName("script")[0];
 a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0020/2576.js?"+Math.floor(new Date().getTime()/3600000);
 a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 </script>
-<!-- Google Code for Remarketing tag -->
-<script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 993310753;
-var google_custom_params = window.google_tag_params;
-var google_remarketing_only = true;
-/* ]]> */
-</script>
-<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-</script>
-<noscript>
-<div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/993310753/?value=0&amp;guid=ON&amp;script=0"/>
-</div>
-</noscript>
-<!-- Google Code for Remarketing Tag -->
-<script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 996091439;
-var google_custom_params = window.google_tag_params;
-var google_remarketing_only = true;
-/* ]]> */
-</script>
-<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-</script>
-<noscript>
-<div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/996091439/?value=0&amp;guid=ON&amp;script=0"/>
-</div>
-</noscript>
-<!-- Yahoo_RETARGETING_PIXEL -->
-<img src="http://ad.yieldmanager.com/pixel?id=1969525&amp;t=2" width="1" height="1">
-<!-- End of segment tag -->
     <script type="text/javascript">
         var __lc = {
             license: 2018601,
@@ -549,7 +580,7 @@ var google_remarketing_only = true;
                 }
             ]
         };
-        foodpandaLazyLoadFunctions.push(function() {
+        lazyLoadFunctions.push(function() {
             $(document).ready(function() {
                 var lc = document.createElement('script'); lc.type = 'text/javascript'; lc.async = true;
                 lc.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn.livechatinc.com/tracking.js';
@@ -557,11 +588,11 @@ var google_remarketing_only = true;
             });
         });
     </script>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-3.newrelic.com","licenseKey":"f77b1abc66","applicationID":"907321","transactionName":"bldXNUJYXhAABxBZDVcddAJEUF8NTjcNRAd6XVsVQlZcDwQWS0MWWEZcAg==","queueTime":0,"applicationTime":29,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"jserror.newrelic.com","agent":"js-agent.newrelic.com\/nr-361.min.js"}</script><script type="text/javascript">
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-3.newrelic.com","licenseKey":"f77b1abc66","applicationID":"907321","transactionName":"bldXNUJYXhAABxBZDVcddAJEUF8NTjcNRAd6XVsVQlZcDwQWS0MWWEZcAg==","queueTime":0,"applicationTime":29,"ttGuid":"","agentToken":"","atts":"QhBUQwpCTR4=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script><script type="text/javascript">
 /* <![CDATA[ */
 (function(){try{var s,a,i,j,r,c,l=document.getElementsByTagName("a"),t=document.createElement("textarea");for(i=0;l.length-i;i++){try{a=l[i].getAttribute("href");if(a&&"www.cloudflare.com/email-protection"==a.substr(7 ,35)){s='';j=43;r=parseInt(a.substr(j,2),16);for(j+=2;a.length-j&&a.substr(j,1)!='X';j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}j+=1;s+=a.substr(j,a.length-j);t.innerHTML=s.replace(/</g,"&lt;").replace(/>/g,"&gt;");l[i].setAttribute("href","mailto:"+t.value);}}catch(e){}}}catch(e){}})();
 /* ]]> */
 </script>
 
 
-<script src="https://js-agent.newrelic.com/nr-361.min.js"></script></body></html>
+<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
