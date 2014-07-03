@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the projectfoodie.com privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215064834id_/http%3A//www.projectfoodie.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the projectfoodie.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703201241id_/http%3A//www.projectfoodie.com/privacy.html) for the most accurate reproduction.*
 
 # Project Foodie - Privacy Policy
 
