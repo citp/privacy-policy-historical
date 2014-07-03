@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apnacomplex.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209195839id_/https%3A//www.apnacomplex.com/common_public/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apnacomplex.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703072201id_/https%3A//www.apnacomplex.com/common_public/privacy_policy) for the most accurate reproduction.*
 
 # ApnaComplex- Housing Society and Apartment Owners Association Management Software - India
 
