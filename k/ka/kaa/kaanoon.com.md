@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kaanoon.com privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215050829id_/https%3A//www.kaanoon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kaanoon.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703021221id_/https%3A//www.kaanoon.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -30,6 +30,4 @@ To operate the service, we also may make identifiable and anonymous information 
 
 If you have any questions or concerns about our privacy policies, please [contact us](https://web.archive.org/contact) or send an email to support@kaanoon.com.
 
-This privacy policy was last updated on September 1, 2013. Our privacy policy may change from time to time. If we make any material changes to our policies, we will place a prominent notice on our website or application. If the change materially affects registered users, we will send a notice to you by email.
-
-© 2013 Kaanoon Corporation. All Rights Reserved.
+This privacy policy was last updated on November 1, 2013. Our privacy policy may change from time to time. If we make any material changes to our policies, we will place a prominent notice on our website or application. If the change materially affects registered users, we will send a notice to you by email.
