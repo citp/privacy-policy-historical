@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grandvelas.com privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215025150id_/http%3A//www.grandvelas.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grandvelas.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703143856id_/http%3A//www.grandvelas.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Velas Resorts- Mexico Luxury Resorts & Hotels
 
@@ -104,3 +104,11 @@ The button "Help" located in the toolbar of the browsers will tell you how to av
 ##  10\. CHANGES TO THE PRIVACY NOTICE.
 
 Velas Resorts may update this Privacy Statement at any time. These changes will be communicated through the page: http://www.velasresorts.com en Privacy Policy and Notice.
+
+## Milestone Internet Marketing Privacy Policy - 
+
+This website can be used without submitting any privacy information, but users may engage in interactive features where consumer information is voluntary supplied. Our voluntary collection procedure does not intentionally target minors. Please find detailed information below. 
+
+## Information Collection - 
+
+This website may collect voluntarily submitted information including a user's email address, phone number and first and last name upon completing an RFP (request for proposal) page. In addition, this site may collect information about travel dates and travel party sizes. We do not collect credit card information on this hotel site. There won't be a difference in site experience or data collection practices when the user chooses to turn on the "Do Not Track" option, as this site does not collect any involuntary information. 
