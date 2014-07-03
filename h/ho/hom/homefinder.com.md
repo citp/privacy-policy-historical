@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homefinder.com privacy policy that was archived on 2014-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140227235925id_/http%3A//aboutus.homefinder.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homefinder.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703045614id_/http%3A//aboutus.homefinder.com/privacypolicy) for the most accurate reproduction.*
 
 # HomeFinder.com Privacy Policy | About Us | HomeFinder.com
 
@@ -74,10 +74,9 @@ If you are a California resident and would like to make such a request, please s
 
 HomeFinder.com, LLC  
 Attn.: California Privacy Rights Requests  
-c/o: Chief Legal Officer  
-Classified Ventures, LLC  
-175 West Jackson, Suite 800  
-Chicago, Illinois 60604
+c/o: General Counsel  
+20 N. Wacker Drive, Ste. 1800   
+Chicago, Illinois 60606
 
 **International users.** If you are an international user, by using the Site, you agree that HomeFinder.com may collect, use and transfer your personal information as described in this Policy, including transfers outside the country where you live. If you reside in a country in the European Union or other jurisdiction that provides access rights under law, you may access your personal information or have it corrected or updated by using the interface available at [http://www.HomeFinder.com/realestate/sell](http://www.homefinder.com/realestate/sell) (in the case of an SLP account) or by contacting us at the email address set forth below. In some jurisdictions, you may be charged a reasonable fee for access to information.
 
@@ -85,4 +84,4 @@ If you have any questions about this Privacy Policy, please [contact us](http://
 
 © 2013 HomeFinder.com | 20 North Wacker Drive | Chicago, IL 60606
 
-Last updated on November 9, 2009
+Last updated on June 6, 2014
