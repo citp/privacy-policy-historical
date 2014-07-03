@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teamweek.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214081718id_/https%3A//teamweek.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamweek.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703073313id_/https%3A//teamweek.com/privacy) for the most accurate reproduction.*
 
 # Teamweek - Online Gantt Charts & Project Planning Software
 
