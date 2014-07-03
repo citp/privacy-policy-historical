@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the inbusiness.com privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215004905id_/http%3A//www.inbusiness.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inbusiness.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703235953id_/http%3A//www.inbusiness.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | InBusiness.com
 
-##### Updated 10/15/12
+##### Updated 3/20/14
 
 This privacy policy explains what information is collected when you use our Web site (the "Site"), applications, content and services of InBusiness.com and its affiliated properties ("InBusiness"), why this information is collected, and how we use it. When you use our Site, you consent to our collection, use and disclosure of your information as disclosed in this Privacy Policy. 
 
@@ -28,7 +28,7 @@ The contents of your online communications, as well as other information about y
 
 In the event that our ownership may change as a result of a merger or acquisition by another company, your InBusiness information may be transferred in connection with such merger or acquisition. 
 
-You may request that we modify or delete information in your business profile by contacting [support@inbusiness.com](mailto:support@inbusiness.com). We do not guarantee that such changes will be made or when such changes will be made. 
+You may modify or delete information in your business profile directly once a claim has occurred. Browse to the [Contact Us Page](http://www.inbusiness.com/ContactUs) for more information. 
 
 ## Cookies, Advertising Networks
 
