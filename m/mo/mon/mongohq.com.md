@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mongohq.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620223039id_/https%3A//docs.mongohq.com/policies/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mongohq.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703063651id_/https%3A//docs.mongohq.com/policies/privacy.html) for the most accurate reproduction.*
 
 # Privacy | Hosted MongoDB
 
