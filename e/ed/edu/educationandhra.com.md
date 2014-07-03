@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the educationandhra.com privacy policy that was archived on 2013-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131021083233id_/http%3A//www.educationandhra.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the educationandhra.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703140933id_/http%3A//www.educationandhra.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Education Andhra - One Stop Portal for Andhra Education
 
