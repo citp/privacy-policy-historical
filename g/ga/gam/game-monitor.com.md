@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the game-monitor.com privacy policy that was archived on 2013-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130601012915id_/http%3A//www.game-monitor.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the game-monitor.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703121649id_/http%3A//www.game-monitor.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Game-Monitor.com :: Server Search, Monitoring, Stats and more
 
