@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the verisk.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214075320id_/http%3A//www.verisk.com/Privacy-Trademarks-Use/Privacy-Trademarks-Use/Verisk-Analytics-Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verisk.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703075145id_/http%3A//www.verisk.com/Privacy-Trademarks-Use/Privacy-Trademarks-Use/Verisk-Analytics-Privacy-Policy.html) for the most accurate reproduction.*
 
 # Verisk Online Privacy Notice
 
-**Last updated:** **1** **3 September 2013**
+**Last updated:** **15** **April 2014**
 
 Verisk Analytics, Inc. (“Verisk”) respects your concerns about privacy. This Online Privacy Notice applies to personal information we collect on [www.verisk.com](http://www.verisk.com/) (the “Site”). The Online Privacy Notice describes the types of personal information we obtain, how we use the information, with whom we share it, and the choices you can make about our use of the information. We also describe the measures we take to protect the security of the information and how you can contact us about our privacy practices.
 
@@ -11,18 +11,22 @@ Visitors to the Site are subject to important limitations. Please review our [Co
 **Follow one of the links below to jump to the listed section:**
 
   * [Information We Obtain and How We Use It ](http://www.verisk.com/Privacy-Trademarks-Use/Privacy-Trademarks-Use/Verisk-Analytics-Privacy-Policy.html#InformationWeObtainandHowWeUseIt)
+  * ["Do Not Track" Signals](http://www.verisk.com/Privacy-Trademarks-Use/Privacy-Trademarks-Use/Verisk-Analytics-Privacy-Policy.html#DoNotTrackSignals)  
+
   * [Information We Share ](http://www.verisk.com/Privacy-Trademarks-Use/Privacy-Trademarks-Use/Verisk-Analytics-Privacy-Policy.html#InformationWeShare)
   * [Your Rights and Choices ](http://www.verisk.com/Privacy-Trademarks-Use/Privacy-Trademarks-Use/Verisk-Analytics-Privacy-Policy.html#YourRightsandChoices)
   * [How We Protect Personal Information ](http://www.verisk.com/Privacy-Trademarks-Use/Privacy-Trademarks-Use/Verisk-Analytics-Privacy-Policy.html#HowWeProtectPersonalInformation)
+  * [Other Verisk Websites](http://www.verisk.com/Privacy-Trademarks-Use/Privacy-Trademarks-Use/Verisk-Analytics-Privacy-Policy.html#OtherVeriskWebsites)  
+
   * [Links to Other Websites ](http://www.verisk.com/Privacy-Trademarks-Use/Privacy-Trademarks-Use/Verisk-Analytics-Privacy-Policy.html#LinkstoOtherWebsites)
   * [Updates to Our Online Privacy Notice ](http://www.verisk.com/Privacy-Trademarks-Use/Privacy-Trademarks-Use/Verisk-Analytics-Privacy-Policy.html#UpdatestoOurOnlinePrivacyNotice)
   * [How to Contact Us](http://www.verisk.com/Privacy-Trademarks-Use/Privacy-Trademarks-Use/Verisk-Analytics-Privacy-Policy.html#HowtoContactUs)
 
 
 
-****Information We Obtain and How We Use It****
+ **Information We Obtain and How We Use It**
 
-You may choose to provide personal information (such as your name and contact details) through the Site. Here are ways you may provide the information and the types of information you may submit. We also describe how we may use the information you provide to us. 
+You may choose to provide personal information — including, but not limited to, your first and last name, physical address, e-mail address, or telephone number — through the Site. Here are ways you may provide the information and the types of information you may submit. We also describe how we may use the information you provide to us. 
 
 **_Information We Obtain_**
 
@@ -49,13 +53,13 @@ To learn how to opt out of Eloqua web analytics, visit: <http://www.eloqua.com/a
 
 We use information collected online through cookies, web beacons, and other automated means **** for purposes such as **** customizing and enhancing our visitors’ visits to the Site, facilitating use of the Site, collecting statistics about your visit to the Site, and understanding the manner in which our visitors browse the Site. We also use the information to help diagnose technical and service problems, administer the Site, and identify visitors to the Site. We use clickstream data to determine how much time visitors spend on web pages of the Site, how visitors navigate through the Site, and how we may tailor the Site to meet the needs of our visitors. 
 
-**
+**“Do Not Track” Signals**
 
-**Information We Share** ****
+Your browser settings may allow you to transmit a “Do Not Track” signal to websites and online services you visit. Like many other websites and online services, we do not currently process or respond to “Do Not Track” signals from your browser or to other mechanisms that enable choice. Please note that, while we do not process or respond to “Do Not Track” signals, we do not permit third parties to collect your personally identifiable information (PII) and track your activity over time and across third-party websites or online services.
 
-**
+**Information We Share**
 
-****We do not sell or otherwise disclose personal information we collect on our Site, except as described here. We may share personal information we collect on this Site with affiliates and service providers that perform services on our behalf. We do not authorize those service providers to use or disclose the information except as necessary to perform services on our behalf or comply with legal requirements. We may share personal information we collect on this Site with our affiliates and with other reputable companies, which may use the information for marketing purposes.
+We do not sell or otherwise disclose personal information we collect on our Site, except as described here. We may share personal information we collect on this Site with affiliates and service providers that perform services on our behalf. We do not authorize those service providers to use or disclose the information except as necessary to perform services on our behalf or comply with legal requirements. We may share personal information we collect on this Site with our affiliates and with other reputable companies, which may use the information for marketing purposes.
 
 In addition, we may disclose personal information about you (i) if we are required to do so by law or legal process (such as court order or subpoena), (ii) to law enforcement authorities or other government officials, (iii) when we believe disclosure is necessary or appropriate to prevent physical harm or financial loss, or (iv) in connection with an investigation of suspected or actual fraudulent or illegal activity. We reserve the right to transfer personal information we have about you in the event we sell or transfer all or a portion of our business or assets (including in the event of a reorganization, dissolution, or liquidation). Should such a sale or transfer occur, we will use reasonable efforts to direct the transferee to use personal information you have provided to us in a manner consistent with our Online Privacy Notice. 
 
@@ -65,7 +69,7 @@ In addition, we may disclose personal information about you (i) if we are requir
 
 **
 
-****We offer you certain choices about how we communicate with you and what information we obtain from you. As required by applicable law, you may withdraw consent you previously provided to us. We will apply your preferences going forward. You may exercise these choices by[advising us of your preference by e-mail](mailto:privacy@verisk.com), or contacting us as specified in the “How to Contact Us” section below. You may also, at any time, object **—** on legitimate grounds and free of charge **—** to the processing of your personal information. 
+We offer you certain choices about how we communicate with you and what information we obtain from you. As required by applicable law, you may withdraw consent you previously provided to us. We will apply your preferences going forward. You may exercise these choices by[advising us of your preference by e-mail](mailto:privacy@verisk.com), or contacting us as specified in the “How to Contact Us” section below. You may also, at any time, object — on legitimate grounds and free of charge — to the processing of your personal information.
 
 Subject to applicable law, you may have the right to request access to and receive information about the personal information we maintain about you, update and correct inaccuracies in your personal data, and have the information blocked or deleted, as appropriate. The right to access personal information may be limited in some circumstances by local law requirements. 
 
@@ -77,21 +81,25 @@ You may contact us [by e-mail](mailto:privacy@verisk.com) or as described in the
 
 **
 
-****We maintain administrative, technical, and physical safeguards designed to protect the personal information you provide against accidental, unlawful, or unauthorized destruction, loss, alteration, access, disclosure, or use. **** ****
+ ****We maintain administrative, technical, and physical safeguards designed to protect the personal information you provide against accidental, unlawful, or unauthorized destruction, loss, alteration, access, disclosure, or use.
 
-****Links to Other Websites****
+**Other Verisk Websites**
 
- ****This Site may provide links to other sites. Companies other than Verisk may operate those websites. Linked websites may have their own privacy policies, which we strongly suggest you review if you visit any linked websites. We are not responsible for the content of any websites we do not operate, any use of those websites, or the privacy practices of those websites. ************
+Through this Site, you may link to other websites operated by Verisk and its affiliates (together, “Verisk Sites”). Not all of the Verisk Sites use this Online Privacy Notice. Individual Verisk Sites may have different Online Privacy Notices that describe their own use and collection practices. To the extent that the Online Privacy Notice of an affiliate is different from the Online Privacy Notice for this Site, the provisions in the affiliate’s Online Privacy Notice control the practices identified for that Verisk Site.
 
-****Updates to Our Online Privacy Notice****
+**Links to Other Websites**
 
- ****We may update our Online Privacy Notice periodically and without prior notice to you to reflect changes in our personal information practices or relevant laws. We will post the updated version on this page and indicate at the top of the notice when it was most recently updated. **** ****
+This Site may provide links to other sites. Companies other than Verisk may operate those websites. Linked websites may have their own privacy policies, which we strongly suggest you review if you visit any linked websites. We are not responsible for the content of any websites we do not operate, any use of those websites, or the privacy practices of those websites.
 
-****How to Contact Us****
+**Updates to Our Online Privacy Notice**
 
- ****If you have any questions or comments about this Online Privacy Notice or to any issue relating to how we collect, use, or disclose personal information, or if you would like us to update information we have about you or your preferences, please contact us as indicated below.
+We may update our Online Privacy Notice periodically and without prior notice to you to reflect changes in our personal information practices or relevant laws. We will post the updated version on this page and indicate at the top of the notice when it was most recently updated.
 
-  * E-mail us at: [privacy@verisk.com](mailto:privacy@verisk.com)
+**How to Contact Us**
+
+If you have any questions or comments about this Online Privacy Notice or to any issue relating to how we collect, use, or disclose personal information, or if you would like us to update information we have about you or your preferences, please contact us as indicated below.
+
+  * E-mail us at: [privacy@verisk.com](mailto:privacy@verisk.com?subject=Privacy%20inquiry%20from%20verisk.com)
   * Write to us at:   
 Verisk Analytics  
 Attention: Chief Privacy Officer  
