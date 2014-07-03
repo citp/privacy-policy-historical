@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recovermyfiles.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330143401id_/http%3A//www.getdata.com/about/getdata-privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recovermyfiles.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703155948id_/http%3A//www.getdata.com/about/getdata-privacy-policy.php) for the most accurate reproduction.*
 
 # GetData privacy policy: We value our customers privacy
 
