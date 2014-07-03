@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bharatplaza.in privacy policy that was archived on 2014-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140604051207id_/http%3A//www.bharatplaza.in/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bharatplaza.in privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703172358id_/http%3A//www.bharatplaza.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy – Secure Information, Safe Payment Server, Customer Privacy
 
