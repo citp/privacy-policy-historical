@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostdzire.com privacy policy that was archived on 2014-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140501142714id_/http%3A//www.hostdzire.com/Privacy%2520Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostdzire.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703143029id_/https%3A//hostdzire.com/Privacy%2520Policy.html) for the most accurate reproduction.*
 
 # Host DZire - Dedicated servers, Web Hosting, Windows Rdp, Netherlands, Germany, Romania, France & USA
 
