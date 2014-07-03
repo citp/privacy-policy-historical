@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the fundera.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327103612id_/https%3A//www.fundera.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fundera.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703173439id_/https%3A//www.fundera.com/privacy) for the most accurate reproduction.*
 
 # Fundera | Privacy Policy
 
 **Fundera PRIVACY POLICY**
+
+Last Revised: April 11, 2014
 
 This Privacy Policy describes the information Fundera, Inc. (" ** _Fundera_** ," "we," "us" or "our") collects about you, how we use and share that information, and the privacy choices we offer.  This policy applies to information we collect when you register for Fundera's funding matching service, access or use our website, mobile applications, products, and services (collectively, the " ** _Services_** "), or when you otherwise interact with us.  As used in this Privacy Policy, the term " ** _Site_** " includes: all websites and all devices or applications operated by Fundera that collect personal information from you and that link to this Privacy Policy; pages within each such website, device, or application, any equivalent, mirror, replacement, substitute, or backup website, device, or application; and pages that are associated with each such website, device, or application.  The use of the word "including" in this Agreement to refer to specific examples will be construed to mean "including, without limitation" or "including but not limited to" and will not be construed to mean that the examples given are an exclusive list of the topics covered. 
 
@@ -29,6 +31,8 @@ By accessing the Site and by using the Service, you agree to, and are bound by, 
 *      _Registration Information_ : When you register for the Service, you will be asked for basic registration information, such as a username and password.
 
 *      _Identification Information_ : You may also be asked to provide identification information to confirm your identity, including your first and last name and certain financial information.
+
+*      _Application Information_ : You may also be asked to provide additional information that will be provided to third-party sources of funding in connection with your applications for funding from those third-party sources, including certain financial information and other documents required by the third-party source of funding to complete an application.
 
 *      _Third-Party Credentials_ : You may also enter in certain passwords, usernames, account numbers, and other account information for third-party sites and Internet services (" ** _Third-Party Sites_** ").
 
