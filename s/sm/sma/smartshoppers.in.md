@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartshoppers.in privacy policy that was archived on 2014-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140613021802id_/http%3A//www.smartshoppers.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartshoppers.in privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703045941id_/http%3A//www.smartshoppers.in/privacy-policy) for the most accurate reproduction.*
 
 # Smartshoppers Privacy Policy Best Online Shopping
 
