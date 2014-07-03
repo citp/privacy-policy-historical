@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheapsslsecurity.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327013604id_/https%3A//cheapsslsecurity.com/support/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheapsslsecurity.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703072524id_/https%3A//cheapsslsecurity.com/support/privacypolicy.html) for the most accurate reproduction.*
 
 # CheapSSLSecurity Privacy Policy
 
