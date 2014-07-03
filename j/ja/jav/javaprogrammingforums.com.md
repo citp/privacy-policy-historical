@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the javaprogrammingforums.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331075550id_/http%3A//www.javaprogrammingforums.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the javaprogrammingforums.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703095044id_/http%3A//www.javaprogrammingforums.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
