@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tinyhomebuilders.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214115138id_/http%3A//www.tinyhomebuilders.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tinyhomebuilders.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703150740id_/http%3A//www.tinyhomebuilders.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Tiny Home Builders
+# Privacy Policy - Tiny Home Builders
 
 **The bottom line is that we won't ever share or sell your information, or use it in a way that we wouldn't want our own information to be used.**
 
@@ -64,4 +64,4 @@ This policy was last modified on February 21, 2013
 
 ### Contacting Us
 
-If there are any questions regarding this privacy policy you may contact us by visiting <http://www.tinyhomebuilders.com/contact>
+If there are any questions regarding this privacy policy you may [contact us](https://web.archive.org/contact).
