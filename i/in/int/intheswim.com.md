@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intheswim.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214104210id_/http%3A//www.intheswim.com/help/Help.aspx%237) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intheswim.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703031258id_/http%3A//www.intheswim.com/help/Help.aspx%237) for the most accurate reproduction.*
 
 # Help - Get Help With Your In the Swim Order or Product
 
@@ -55,7 +55,7 @@ Return to Ordering Help
 
 Yes. If you would like to use your catalog as a reference when placing your order, [Order by Item Number](https://web.archive.org/shopping/RapidOrder.aspx) to quickly add items to your shopping cart without having to browse the site for them.
 
-There is a bigger selection of products on the website than there is in the printed catalog. The website features our full line of products year-round, as well as a [Clearance](https://web.archive.org/landing/clearance_main.aspx) section with discontinued and “scratched & dented” merchandise. [](https://web.archive.org/web/20140214104210id_/http%3A//www.intheswim.com/help/%22/shopping/store.aspx?storeid=133%22)
+There is a bigger selection of products on the website than there is in the printed catalog. The website features our full line of products year-round, as well as a [Clearance](https://web.archive.org/landing/clearance_main.aspx) section with discontinued and “scratched & dented” merchandise. [](https://web.archive.org/shopping/store.aspx?storeid=133)
 
 Return to Ordering Help
 
@@ -77,7 +77,7 @@ Mail orders to: In The Swim, 320 Industrial Drive, West Chicago, IL 60185 Attn: 
 
 Return to Ordering Help
 
-To receive a FREE catalog [Click Here](https://web.archive.org/web/20140214104210id_/http%3A//www.intheswim.com/help/signUp/catalog.aspx) to provided your mailing information.
+To receive a FREE catalog [Click Here](https://web.archive.org/web/20140703031258id_/http%3A//www.intheswim.com/help/signUp/catalog.aspx) to provided your mailing information.
 
 Return to Ordering Help
 
@@ -143,7 +143,7 @@ Yes! We have a warehouse outlet located in West Chicago, Illinois (located in th
 
 **Location:** 320 Industrial Drive, West Chicago IL 60185   
 **Directions:** Route 59 to Route 38 West to Kress North to Downs East to Industrial North to 320. Plenty of free parking!   
-**Hours:** We are now open Monday thru Friday - 8:30am - 5:00pm, Saturday & Sunday - Closed. 
+**Hours:** We are now open Monday thru Friday - 9:00am - 7:00pm, Saturday & Sunday - 9:00am - 4:00pm. 
 
 Please call our store at (630)-876-0040 to check stock, or for a fast & friendly answer to any of your pool or spa needs! 
 
@@ -195,7 +195,7 @@ When inquiring about your order, please have your order information on hand:
 You can call customer service to resolve any problems or concerns with your order:  
 1-800-374-1500
 
-You also can contact us anytime via our e-mail address: [customerservice@intheswim.com](https://web.archive.org/web/20140214104210id_/http%3A//www.intheswim.com/help/%22mailto:customerservice@intheswim.com%22) If you are not satisfied with your order, please return it in new condition within 30 days of purchase. Please see our Returns & Exchanges section for guidelines. 
+You also can contact us anytime via our e-mail address: [customerservice@intheswim.com](mailto:customerservice@intheswim.com) If you are not satisfied with your order, please return it in new condition within 30 days of purchase. Please see our Returns & Exchanges section for guidelines. 
 
 Return to Information About Your Order
 
@@ -279,7 +279,7 @@ Return to Returns & Exchanges
 
 Return to Help Index
 
-Click on [Clearance](https://web.archive.org/web/20140214104210id_/http%3A//www.intheswim.com/help/%22/Clearance/Clearance/%22) (found on the side navigation bar and on the home page) for permanently reduced prices on discontinued items, overstock items, returned merchandise and “scratch & dented” merchandise.
+Click on [Clearance](https://web.archive.org/Clearance/Clearance/) (found on the side navigation bar and on the home page) for permanently reduced prices on discontinued items, overstock items, returned merchandise and “scratch & dented” merchandise.
 
 Return to Search Tips
 
@@ -287,7 +287,7 @@ If you know the item number of the product, you can find it two ways: Enter the 
 
 Return to Search Tips
 
-If you are not sure what you are looking for, you may browse the product categories by clicking on a “store” on the side navigation bar. All related items are grouped together in “departments” within the store. Also, for a comprehensive overview of all product categories offered on the site, you may click on the [Product Directory](https://web.archive.org/web/20140214104210id_/http%3A//www.intheswim.com/help/%22/directory/SiteMap.aspx%22) link located on the side navigation bar.
+If you are not sure what you are looking for, you may browse the product categories by clicking on a “store” on the side navigation bar. All related items are grouped together in “departments” within the store. Also, for a comprehensive overview of all product categories offered on the site, you may click on the [Product Directory](https://web.archive.org/directory/SiteMap.aspx) link located on the side navigation bar.
 
 Return to Search Tips
 
@@ -312,7 +312,7 @@ Yes, shopping at www.intheswim.com is safe. You can access our Website home page
 
 Our website does not enable our visitors to communicate with other visitors or to post information to be accessed by others. Because of the dynamic nature of our website and the internet, cookies are used to enable visitors to place orders on our website. A cookie is a small file stored on your computer that identifies you to our website. No personal information, credit card data or marketing data is stored in the cookie. We collect the personal data that you volunteer when using our services. We use this data for marketing and customer service administration. We do not collect information about our visitors from other sources, such as public records or bodies, or private organizations.
 
-We have implemented security policies, rules and technical measures to protect the personal data that we have under our control from unauthorized access, improper use or disclosure, unauthorized modification and accidental loss. All of our employees and data processors who have access to and are associated with the processing of personal data are obliged to respect the confidentiality of our visitors' personal data. We ensure that your personal data will not be disclosed to State institutions and authorities except if required by law or other regulation. If you have any further privacy concerns regarding the use of our website, please contact us at [webmaster@intheswim.com](https://web.archive.org/web/20140214104210id_/http%3A//www.intheswim.com/help/%22mailto:webmaster@intheswim.com%22).
+We have implemented security policies, rules and technical measures to protect the personal data that we have under our control from unauthorized access, improper use or disclosure, unauthorized modification and accidental loss. All of our employees and data processors who have access to and are associated with the processing of personal data are obliged to respect the confidentiality of our visitors' personal data. We ensure that your personal data will not be disclosed to State institutions and authorities except if required by law or other regulation. If you have any further privacy concerns regarding the use of our website, please contact us at [webmaster@intheswim.com](mailto:webmaster@intheswim.com).
 
 Return to Security & Privacy
 
@@ -347,7 +347,7 @@ While we use encryption to protect sensitive information transmitted online, we 
 
 **If you feel that we are not abiding by this Privacy Policy, you should contact us immediately via telephone at 1-800-374-1500 or via email at [customerservice@intheswim.com](mailto:customerservice@intheswim.com)**
 
-In The Swim may use a browser feature known as a "cookie." Cookies are small files placed on your hard drive that assist In The Swim in providing you with a customized browsing experience. In The Swim uses cookies to provide you with the convenience of not having to reenter information, such as user IDs and passwords, multiple times during your visits to the In The Swim websites. Cookies can also be utilized to help In The Swim provide you with information targeted to your interests, based upon your prior browsing on In The Swim websites. You may Opt-Out of this advertising service by [Clicking Here](https://web.archive.org/web/20140214104210id_/http%3A//www.intheswim.com/help/%22http://www.networkadvertising.org/managing/opt_out.asp%22). The "help" section of the toolbar on most browsers will inform you on how to prevent your browser from accepting new cookies, how to have the browser notify you upon the receipt of a new cookie, or how to disable the use of cookies completely. As the In The Swim websites have been designed to take advantage of the use of cookies, should you configure your browser to decline their use, certain features of the In The Swim websites may not function correctly and you may be required to reenter any user IDs and passwords more frequently.
+In The Swim may use a browser feature known as a "cookie." Cookies are small files placed on your hard drive that assist In The Swim in providing you with a customized browsing experience. In The Swim uses cookies to provide you with the convenience of not having to reenter information, such as user IDs and passwords, multiple times during your visits to the In The Swim websites. Cookies can also be utilized to help In The Swim provide you with information targeted to your interests, based upon your prior browsing on In The Swim websites. You may Opt-Out of this advertising service by [Clicking Here](http://www.networkadvertising.org/managing/opt_out.asp). The "help" section of the toolbar on most browsers will inform you on how to prevent your browser from accepting new cookies, how to have the browser notify you upon the receipt of a new cookie, or how to disable the use of cookies completely. As the In The Swim websites have been designed to take advantage of the use of cookies, should you configure your browser to decline their use, certain features of the In The Swim websites may not function correctly and you may be required to reenter any user IDs and passwords more frequently.
 
 Return to Security & Privacy
 
@@ -376,11 +376,11 @@ Shipping is FREE for all orders in the 48 contiguous states, except for a handli
 **Orders $25.01 - $100.00** |  | **$9.99**  
 **Orders over $100.00** |  | **$10.99**  
   
-**Note:** Alaska, Hawaii & Puerto Rico residents, & military personnel shipping to an APO address, please call 1-800-288-7946 or email us at [customerservice@intheswim.com](https://web.archive.org/web/20140214104210id_/http%3A//www.intheswim.com/help/%22mailto:customerservice@intheswim.com%22) with a list of the items you wish to purchase. Dr. Pool will contact you within 24 hours with the additional shipping charge. Some chemicals may not be available outside the 48 contiguous states and In The Swim cannot ship items exceeding 150 lbs. outside of the 48 contiguous states.
+**Note:** Alaska, Hawaii & Puerto Rico residents, & military personnel shipping to an APO address, please call 1-800-288-7946 or email us at [customerservice@intheswim.com](mailto:customerservice@intheswim.com) with a list of the items you wish to purchase. Dr. Pool will contact you within 24 hours with the additional shipping charge. Some chemicals may not be available outside the 48 contiguous states and In The Swim cannot ship items exceeding 150 lbs. outside of the 48 contiguous states.
 
 Return to Shipping & Tax Information
 
-If an order is to be shipped outside of the 48 contiguous United States, the customer is responsible for all shipping charges and all tariffs and/or import taxes imposed by the country to which the items are being shipped. In The Swim cannot ship chemicals or items exceeding 150 lbs. outside of the continental U.S.A. For international shipping charges, please call 1-800-288-7946 or email us at [customerservice@intheswim.com](https://web.archive.org/web/20140214104210id_/http%3A//www.intheswim.com/help/%22mailto:customerservice@intheswim.com%22) with a list of the items you wish to purchase. Dr. Pool will contact you within 24 hours with the additional shipping charge.
+If an order is to be shipped outside of the 48 contiguous United States, the customer is responsible for all shipping charges and all tariffs and/or import taxes imposed by the country to which the items are being shipped. In The Swim cannot ship chemicals or items exceeding 150 lbs. outside of the continental U.S.A. For international shipping charges, please call 1-800-288-7946 or email us at [customerservice@intheswim.com](mailto:customerservice@intheswim.com) with a list of the items you wish to purchase. Dr. Pool will contact you within 24 hours with the additional shipping charge.
 
 Return to Shipping & Tax Information
 
@@ -404,13 +404,22 @@ Some products on our website are noted as “Special Delivery.” These are prod
 
 Return to Shipping & Tax Information
 
+  
+
+
 Please call 1-800-288-7946.
 
 Return to Shipping & Tax Information
 
+  
+
+
 Please call 1-800-288-7946.
 
 Return to Shipping & Tax Information
+
+  
+
 
 Yes. When checking out you may specify another address to ship your products too.
 
@@ -431,4 +440,6 @@ Return to Shipping & Tax Information
   
 Return to Shipping & Tax Information
 
-Discounts cannot be applied toward the purchase of select products by Aqua Creek, AquaCal, AquaPro, AquaProducts' Dreammaker, Eco Blu, Game, Global Lift Corp, Hayward, Inforesight, King Technology, Loop Loc, Ocean Blue, Pentair, Pleatco, Pool Boy, S.R. Smith, SmartPool, Trojan Leisure Products, and Zodiac.
+Discounts cannot be applied toward the purchase of select products by Aqua Creek, AquaCal, AquaPro, AquaProducts, Eco Blu, GAME, Global Lift Corp, Hayward, Inforesight, King Technology, Loop Loc, Main Access, Ocean Blue, Pentair, Pleatco, Pool Boy, Pool Patch LLC, SmartPool, Solaxx, Spa World Corp., STRONG, Strong Spas, Trojan Leisure Products, and Zodiac.
+
+Site offers cannot be used in conjunction with any other offer and are not available on all products and are subject to restrictions and limitations. Prices and discounts are exclusive of applicable shipping charges and taxes. Offer not valid on previous orders. All prices on this web site are subject to change without notice. Discount does not apply on Inground Pool Kits. Discounts cannot be applied toward the purchase of select products.
