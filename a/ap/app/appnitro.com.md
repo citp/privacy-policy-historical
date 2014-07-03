@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appnitro.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214011357id_/http%3A//www.appnitro.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appnitro.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703055424id_/http%3A//www.appnitro.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « MachForm – PHP HTML Form Builder
 
