@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mysmartmove.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325025240id_/https%3A//www.mysmartmove.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysmartmove.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703233608id_/https%3A//www.mysmartmove.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | TransUnion SmartMove
 
@@ -44,7 +44,7 @@ Chester, PA 19022
 ## The Collection of Anonymous Data
 
 In order to enhance the usefulness of our Web site and our products and services, TURSS will collect data about our customers' use of our Web site, in a manner that does not include any personally identifiable information. While you browse the SmartMove Web site, we note which pages of our site you visit and note the IP address of your computer (as all Web sites do automatically), but we do not link that address information to your personal information. The general information we gather enables us to serve our customers better by continually enhancing our site based on up-to-date use patterns.   
-We are provided anonymous information collected from other websites on which we display advertisements that enables us to understand how visitors to our site, who were exposed to ads we have placed on those other websites, interact with our site. We may use this information to enhance or modify our campaigns that are designed to bring web visitors to our site. You may opt-out of this anonymous data collection and sharing activity by visiting the Google Analytics Privacy Overview web page and following the procedures noted under the Browser Opt-Out and Privacy Center information sections (search for these sites through [www.google.com](https://web.archive.org/web/20140325025240id_/https%3A//www.mysmartmove.com/www.google.com)). 
+We are provided anonymous information collected from other websites on which we display advertisements that enables us to understand how visitors to our site, who were exposed to ads we have placed on those other websites, interact with our site. We may use this information to enhance or modify our campaigns that are designed to bring web visitors to our site. You may opt-out of this anonymous data collection and sharing activity by visiting the Google Analytics Privacy Overview web page and following the procedures noted under the Browser Opt-Out and Privacy Center information sections (search for these sites through [www.google.com](https://web.archive.org/web/20140703233608id_/https%3A//www.mysmartmove.com/www.google.com)). 
 
 ## Updating Your Personal Information and Email Preferences 
 
