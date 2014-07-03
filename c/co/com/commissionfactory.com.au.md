@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the commissionfactory.com.au privacy policy that was archived on 2014-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140323030617id_/http%3A//www.commissionfactory.com.au/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commissionfactory.com.au privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703121606id_/http%3A//www.commissionfactory.com.au/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Commission Factory - Australia's Newest Affiliate Network
 
