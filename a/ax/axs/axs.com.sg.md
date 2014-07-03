@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the axs.com.sg privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625091757id_/http%3A//www.axs.com.sg/privacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axs.com.sg privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703130016id_/http%3A//axs.com.sg/privacyPolicy.php) for the most accurate reproduction.*
 
 # AXS Consumer
 
@@ -65,7 +65,7 @@ If you have any queries, please contact our Privacy Officer at dpo@axs.com.sg.
 
 3.1 Our Privacy Officer is responsible for ensuring that requests for access to information and amendment of information are properly dealt with in accordance with the procedures described here. 
 
-3.2 All requests for information or requests for the amendment of information held by AXS shall be made by completing AXS's standard Request for Information form (PDF available [here](https://web.archive.org/web/20140625091757id_/http%3A//www.axs.com.sg/documents/AXS_ReleaseForm.pdf)), and sending a copy of the duly completed form to AXS via email at: dpo@axs.com.sg, or post or fax at: 
+3.2 All requests for information or requests for the amendment of information held by AXS shall be made by completing AXS's standard Request for Information form (PDF available [here](https://web.archive.org/web/20140703130016id_/http%3A//axs.com.sg/documents/AXS_ReleaseForm.pdf)), and sending a copy of the duly completed form to AXS via email at: dpo@axs.com.sg, or post or fax at: 
 
 AXS Pte Ltd   
 61 Mohamed Sultan Road  
