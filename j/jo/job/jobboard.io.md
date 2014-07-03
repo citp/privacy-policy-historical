@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobboard.io privacy policy that was archived on 2013-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130920124634id_/http%3A//www.jobboard.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobboard.io privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703212108id_/https%3A//www.jobboard.io/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | JobBoard.io
 
@@ -85,7 +85,8 @@ This policy was last modified on 10/13/2012
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
 http://www.jobboard.io  
-228 Park Ave South #23830  
-New York, NY 10003  
+976 Houston Northcutt Blvd  
+Ste C PMB 143  
+Mt. Pleasant, SC 29464   
 United States  
 info@jobboard.io
