@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the virtualpbx.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325024727id_/http%3A//www.virtualpbx.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtualpbx.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703142806id_/http%3A//www.virtualpbx.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[](https://web.archive.org/products/office-plans/)
+[SIGN UP](https://web.archive.org/products/office-plans/ "Sign-Up")
 
 VirtualPBX.com, Inc.® respects the privacy of visitors to our site. Please read this Online Privacy Policy carefully so that you understand our privacy practices relating to information we gather through this Web site.
 
@@ -12,7 +12,7 @@ The information gathered by VirtualPBX.com generally falls into two categories: 
 
 The information you provide us during a visit to VirtualPBX.com helps us to improve the quality and utility of our site. The more information you share with us, the better we can serve your needs.
 
-When you purchase Virtual PBX® services, we request the following types of information on our order form:
+When you purchase VirtualPBX® services, we request the following types of information on our order form:
 
   * Name
   * Shipping and/or billing address
