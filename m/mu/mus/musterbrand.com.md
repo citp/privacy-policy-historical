@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musterbrand.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214015319id_/https%3A//www.musterbrand.com/custom/index/sCustom/45) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musterbrand.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703081121id_/https%3A//www.musterbrand.com/custom/index/sCustom/45) for the most accurate reproduction.*
 
 # Privacy policy | Musterbrand Store
 
