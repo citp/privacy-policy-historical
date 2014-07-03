@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freemmorpglist.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331062740id_/http%3A//www.mmognet.com/privacy.php%3Fdomini%3DRlJFRU1NT1JQR0xpc3QuQ29t) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freemmorpglist.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703131408id_/http%3A//www.mmognet.com/privacy.php%3Fdomini%3DRlJFRU1NT1JQR0xpc3QuQ29t) for the most accurate reproduction.*
 
 # Privacy.
 
