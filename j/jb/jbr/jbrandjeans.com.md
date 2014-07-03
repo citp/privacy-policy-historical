@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jbrandjeans.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210053631id_/http%3A//www.jbrandjeans.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jbrandjeans.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703112035id_/http%3A//www.jbrandjeans.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - J Brand
 
