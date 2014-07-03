@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the geeki.in privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209014423id_/http%3A//geeki.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geeki.in privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703120756id_/http%3A//bandyoweb.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Geeki.in
+# Privacy Policy - BandyoWeb.com
 
-We, the members of [geeki.in](http://geeki.in/) consider the privacy of our users with higher importance. Please take a look at the privacy documents before leaving the site.
+We, the members of [bandyoweb.com](http://bandyoweb.com/) consider the privacy of our users with higher importance. Please take a look at the privacy documents before leaving the site.
 
  **Log Files**
 
