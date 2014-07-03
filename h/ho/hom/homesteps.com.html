@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the homesteps.com privacy policy that was archived on 2014-02-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140210222750id_/http%3A//www.homesteps.com/homesteps/terms/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the homesteps.com privacy policy that was archived on 2014-07-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140703071146id_/http%3A//www.homesteps.com/homesteps/terms/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html itemscope="" itemtype="http://schema.org/Organization" lang="en" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#"><head><meta charset="utf-8"><meta itemprop="name" content="Homesteps Real Estate">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -9,17 +9,16 @@
 <link rel="apple-touch-icon" href="//homesteps-activedt.netdna-ssl.com/css/cobrands/homesteps/img/apple-touch-icon-iphone.png">
 <link rel="apple-touch-icon" sizes="72x72" href="//homesteps-activedt.netdna-ssl.com/css/cobrands/homesteps/img/apple-touch-icon-ipad.png">
 <link rel="apple-touch-icon" sizes="114x114" href="//homesteps-activedt.netdna-ssl.com/css/cobrands/homesteps/img/apple-touch-icon-iphone4.png">
-<meta http-equiv="X-UA-Compatible" content="IE=7">
 <title>
 HomeSteps Terms and Conditions: Privacy Policy
 </title>
-<link rel="stylesheet" href="//homesteps-activedt.netdna-ssl.com/css/cobrands/homesteps.css?v=2014-01-24-15-14">
+<link rel="stylesheet" href="//homesteps-activedt.netdna-ssl.com/css/cobrands/homesteps.css?v=2014-06-16-17-07">
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="//homesteps-activedt.netdna-ssl.com/css/footernav.js"></script>
-<link rel="stylesheet" type="text/css" media="screen,print" href="//homesteps-activedt.netdna-ssl.com/css/cobrands/homesteps/styles.css?v=2014-01-24-15-14">
+<link rel="stylesheet" type="text/css" media="screen,print" href="//homesteps-activedt.netdna-ssl.com/css/cobrands/homesteps/styles.css?v=2014-06-16-17-07">
 <!--[if IE]><link rel="stylesheet" href="//homesteps-activedt.netdna-ssl.com/css/cobrands/homesteps/ie.css?v=081312" type="text/css" media="screen,print" charset="utf-8"><![endif]-->
-<script type="text/javascript" src="//homesteps-activedt.netdna-ssl.com/lib/jquery-1_4_2/jquery-1.4.2.min.js"></script>
-<script>$j = jQuery.noConflict();</script>
-<script src="//homesteps-activedt.netdna-ssl.com/css/cobrands/homesteps/homesteps_v1.js" type="text/javascript" charset="utf-8"></script>
+<script type="text/javascript" src="//homesteps-activedt.netdna-ssl.com/lib/jquery-1_7_1/jquery-1.7.1.min.js"></script>
+<script type="text/javascript">$j = jQuery.noConflict();</script>
+<script src="//homesteps-activedt.netdna-ssl.com/css/cobrands/homesteps/homesteps_v1.js?v=050514" type="text/javascript" charset="utf-8"></script>
 <script>
 $j(document).ready(function(){
 $j(".btnMessageSave").click(function(){
@@ -119,6 +118,23 @@ curDate = new Date();
 });
 });
 </script>
+<script>
+$j(document).ready(function() {
+var $jrotator = $j(".rotator");
+$jrotator.find("img:gt(0)").hide();
+setTimeout(Rotate, 1000);
+function Rotate() {
+var $jcurrent = $jrotator.find("img:visible");
+var $jset = $jrotator.find("img");
+var $jnext = $jset.eq(($jset.index($jcurrent)+1) % $jset.length);
+//console.log($jnext);
+if ($jnext.length == 0) $jnext = $jrotator.find("img:eq(0)");
+$jcurrent.hide();
+$jnext.show();
+setTimeout(Rotate, 3500);
+}
+});
+</script>
 </head>
 <body class="extra-no-act">
 <p id="skipper"><a href="#content-display">Skip to Page Content</a> | <a href="#nav-main">Skip to Site Navigation</a> | <a href="#toc-nav">Skip to Section Navigation</a></p>
@@ -132,7 +148,7 @@ curDate = new Date();
 <li><a lang="en" href="/hs/agentlogin.html" style="border:none;">Agent Login</a></li>
 </ul>
 <div id="status">
-<a href="https://homebase.homesteps.com"><img src="//homesteps-activedt.netdna-ssl.com/css/cobrands/homesteps/img/button_homebase_login.gif" alt="HomeBase Login" target="_blank"></a>
+<a href="/hs/login.html" style="border:none;"><img src="//homesteps-activedt.netdna-ssl.com/css/cobrands/homesteps/img/button_login.gif" alt="Login" target="_blank"></a>
 <a href="https://photosite.homesteps.com"><img src="//homesteps-activedt.netdna-ssl.com/css/cobrands/homesteps/img/button_supplier_login.gif" alt="Supplier Community Login" target="_blank"></a>
 </div>
 </div>
@@ -143,7 +159,7 @@ curDate = new Date();
 </div>
 <div id="nav-main"></div>
 <div style="clear: both;"> </div>
-<div id="content" class="clearfix">
+<div id="content" class="clearfix ">
 <div id="content-toc">
 <div id="toc-nav">
 <ul>
@@ -242,7 +258,7 @@ curDate = new Date();
 <script src="//homesteps-activedt.netdna-ssl.com/lib/boxover-2_1/boxover.js" type="text/javascript"></script>
 <div style="clear:left;float:left;margin-top:13px; margin-left: -4px; _margin-left: 0px;"><span title="cssbody=[hp_tipbdy] cssheader=[hp_tiphdr] header=[Equal Housing Opportunity] body=[All real estate advertised herein is subject to the federal Fair Housing Act, which makes it illegal to advertise any preference, limitation, or discrimination because of race, color, religion, sex, handicap, familial status, or national origin, or intention to make such preference, limitation or discrimination.<br/><br/> Anyone who feels he or she has been discriminated against should send a complaint to: U.S. Department of Housing and Urban Development, Assistant Secretary for Fair Housing and Equal Opportunity, Washington, D.C. 20410] delay=[0] fadespeed=[0.4] fade=[on]"><img src="//homesteps-activedt.netdna-ssl.com/css/cobrands/homepath/equal_housing.gif" style="vertical-align: bottom;"></span></div>
 <div id="fdc_powerd_by" style="font-size: 10px; float: left; white-space: nowrap; margin: 20px 0px 0px 72px;">
-Search powered by <a style="cursor: text; text-decoration:none; color: #666666;" target="_blank" href="http://www.foreclosure.com">foreclosure.com</a>
+<a style="cursor: text; text-decoration:none; color: #666666;" target="_blank" href="http://www.foreclosure.com"><img src="//homesteps-activedt.netdna-ssl.com/css/cobrands/homesteps/img/searchpoweredby.png"></a>
 </div>
 <div style="clear:both;"> </div>
 </div>
