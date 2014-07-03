@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spn.sr privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214234709id_/https%3A//revenue.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spn.sr privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703103911id_/https%3A//revenue.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Revenue.com
 
