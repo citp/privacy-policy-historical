@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the raygun.io privacy policy that was archived on 2014-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140420062837id_/http%3A//raygun.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raygun.io privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703072254id_/https%3A//raygun.io/privacy) for the most accurate reproduction.*
 
 # Privacy - raygun.io
 
