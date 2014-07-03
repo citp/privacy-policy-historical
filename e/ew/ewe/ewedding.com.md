@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ewedding.com privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215110442id_/http%3A//www.ewedding.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ewedding.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703214712id_/http%3A//www.ewedding.com/privacy.php) for the most accurate reproduction.*
 
 # eWedding.com | Privacy Policy
 
@@ -14,7 +14,7 @@ Box 158
 Wyoming, ON  
 N0N1T0  
 CA  
-519-913-1219  
+518-282-4808  
 support@ewedding.com
 
 ### Registration and Setup Forms
@@ -57,12 +57,10 @@ You may opt out of any eWedding.com e-mails containing newly added features, new
 
 If you have any questions, comments or concerns with the privacy of your information collected by Swing Industries, Inc., please contact us with the info at the top of this page.
 
-> My fiance & I along with our guest totally love our website. We started to create our website to share the news of our engagement to our family and friends and to add on more information as we furthered our planning for our wedding especially since we work in Alaska but are orginally from California. 
+> eWedding.com is AWESOME! We were able to communicate our wedding plans with our family and friends by creating a centralized website with loads of information. I am definitely ordering a keepsake cd after the wedding to keep as a souvenir! 
 > 
-> Just months into our engagement, our website was a big hit and recieved many positive compliments from family and friends. Plus having our own domain name and being able to put it on all our wedding related supplies such as invitation was something that showed we were up to date with technology.
-> 
-> Kathleen and Adrian  
-> AK, USA
+> Mina and Robert  
+> NJ, USA
 
   
 [Start your free wedding website](https://web.archive.org/setup/signup.php)
