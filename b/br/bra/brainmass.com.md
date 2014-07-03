@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the brainmass.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208053135id_/http%3A//brainmass.com/content/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brainmass.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704004951id_/https%3A//brainmass.com/content/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Homework Help from BrainMass
+# Privacy Policy - BrainMass
 
 **BrainMass Privacy Policy**
 
 Welcome to BrainMass.com (the " **Site** " hereafter). This document explains the policies that BrainMass (" **BM** ", " **we** ", " **us** ", or " **our** " hereafter) has instituted for the collection, use and disclosure of personal information (the "Privacy Policy" hereafter).
 
-This Privacy Policy forms part of, and should be read in conjunction with, our Legal Terms and Conditions, found at <http://www.brainmass.com/content/terms_conditions.php>. 
+This Privacy Policy forms part of, and should be read in conjunction with, our Legal Terms and Conditions, found at [http://brainmass.com/content/terms-conditions](https://web.archive.org/content/terms-conditions). 
 
 BM believes that privacy is crucial for the ongoing success of Internet commerce. Our status as an Online Solution Service provider requires us to have a stringent policy regarding all of the information that we collect.
 
@@ -38,8 +38,8 @@ Except for the above parties, and for use by BM's consultants and professional a
 
 BM may display targeted advertisements of interest or benefit to you based on nonpublic personal information. If you respond to these advertisements and then give the advertiser personal information about yourself, you may reveal to the advertiser or ad server that you possess the characteristics used to select the audience for the advertisement.
 
-  * BM does not share any personally identifiable information about you with any third parties when you click on these ads.
-  * BM advertisers may include financial service providers (such as mortgage bankers, securities broker-dealers, and insurance agents) and non-financial companies (such as retailers, airlines, and publishers).
+  * BM does not share any personally identifiable information about you with any third parties when you click on these ads. 
+  * BM advertisers may include financial service providers (such as mortgage bankers, securities broker-dealers, and insurance agents) and non-financial companies (such as retailers, airlines, and publishers). 
 
 
 
@@ -49,8 +49,8 @@ Except for the above parties, and for use by BM's consultants and professional a
 
 BM may display targeted advertisements of interest or benefit to you based on nonpublic personal information. If you respond to these advertisements and then give the advertiser personal information about yourself, you may reveal to the advertiser or ad server that you possess the characteristics used to select the audience for the advertisement.
 
-  * BM does not share any personally identifiable information about you with any third parties when you click on these ads.
-  * BM advertisers may include financial service providers (such as mortgage bankers, securities broker-dealers, and insurance agents) and non-financial companies (such as retailers, airlines, and publishers).
+  * BM does not share any personally identifiable information about you with any third parties when you click on these ads. 
+  * BM advertisers may include financial service providers (such as mortgage bankers, securities broker-dealers, and insurance agents) and non-financial companies (such as retailers, airlines, and publishers). 
 
 
 
