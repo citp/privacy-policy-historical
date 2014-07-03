@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fgl.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626044626id_/https%3A//www.fgl.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fgl.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703120031id_/https%3A//www.fgl.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy - FGL
 
