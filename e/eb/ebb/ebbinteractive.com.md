@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ebbinteractive.com privacy policy that was archived on 2014-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140329074248id_/http%3A//www.ebbwebdesign.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebbinteractive.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703024203id_/http%3A//www.ebbwebdesign.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | EBB Web Design
+# Privacy Policy - EBB Web Design
 
 ##  Privacy Policy 
 
-Last Updated January 12, 2013
+Last Updated January 12, 2014
 
 Thank you for visiting Empowered Brand Builders, Inc. / DBA: E.B.B. Interactive / DBA: EBB Web Design – MyBrandBuilderPro (“EBB/MBBP”): website design, web development, PPC services, video production, SEO services, software development, online micro-franchises, digital marketing training, and e-commerce Internet website (“Site”) located at the URLs www.empoweredbrandbuilders.com, www.ebbwebdesign.com and www.mybrandbuilderpro.com. This Privacy Policy details certain policies implemented throughout EBB/MBBP governing EBB/MBBP’s use of Personally Identifiable Information provided to EBB/MBBP Classroom via this Site. 
 
@@ -70,7 +70,7 @@ We may employ procedural and technological measures, consistent with industry pr
 
 EBB/MBBP provides you with the ability to review, correct and delete any of the Personally Identifiable Information that you have provided to us. This process is done in the My Profiles section of the Site. You may access your account and review, correct and delete your Personally Identifiable Information at any time. 
 
-You may also contact us by email at: admin@empoweredbrandbuilders.com if you have any questions regarding this Privacy Policy or how to delete your Personally Identifiable Information. 
+You may also contact us by email at: admin@ebbwebdesign.com if you have any questions regarding this Privacy Policy or how to delete your Personally Identifiable Information. 
 
 Copyright 2013 Empowered Brand Builders, Inc. – DBA: E.B.B. Interactive & EBB Web Design | www.EBBwebdesign.com | www.ebbwebdesign.com  
 Unauthorized duplication or publication of any materials from this Site is expressly prohibited. 
