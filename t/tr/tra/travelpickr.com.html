@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the travelpickr.com privacy policy that was archived on 2014-03-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140317230450id_/http%3A//www.travelpickr.com/pages/company/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the travelpickr.com privacy policy that was archived on 2014-07-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140703022515id_/http%3A//www.travelpickr.com/pages/company/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
         <title>Travelpickr</title>
@@ -29,6 +29,7 @@
         <!--[if lte IE 9]>
         	<script src="http://www.travelpickr.com/js/html5shiv.js"></script>
             <script src="http://www.travelpickr.com/js/respond.min.js"></script>
+            <script src="http://www.travelpickr.com/js/css3-mediaqueries.js"></script>
             <link rel="stylesheet" href="http://www.travelpickr.com/css/ie.css">
         <![endif]-->
         <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="http://www.travelpickr.com/js/main.js"></script>
@@ -99,7 +100,7 @@
           ga('send', 'pageview');
         </script>      
         <!-- Google Analytics UA -->
-        <!-- Google Analytics -->        
+        <!-- Google Analytics --> 
     </head>
     <body>
                         <div id="selLoading" class="loading" style="display:none;">
@@ -109,6 +110,7 @@
                 <p><strong>Loading...</strong></p>
             </div>
         </div>
+        <div id="sel_Feed" class="loading feedback-loading" style="display:none;"></div>
         <header class="header-bar">
             <div class="container">
             	<div class="row-fluid">
@@ -165,7 +167,7 @@
                                    </ul>
     </div>
 <div id="topSignupContain" class="pop-login" style="display:none;">
-<form method="POST" action="http://www.travelpickr.com/users/login" accept-charset="UTF-8" class="form-horizontal" id="loginForm" name="loginForm"><input name="_token" type="hidden" value="WmoiFO7HgpRdaYLNLs6A6KoKP5g7W0hbsK1LBx9l"><input name="_token" type="hidden" value="WmoiFO7HgpRdaYLNLs6A6KoKP5g7W0hbsK1LBx9l"><fieldset class="radius4">
+<form method="POST" action="http://www.travelpickr.com/users/login" accept-charset="UTF-8" class="form-horizontal" id="loginForm" name="loginForm"><input name="_token" type="hidden" value="PcwUw5ILwmM0vsgwkgechurDqwqhO7Fd4JHkBZTU"><input name="_token" type="hidden" value="PcwUw5ILwmM0vsgwkgechurDqwqhO7Fd4JHkBZTU"><fieldset class="radius4">
 	<em>&nbsp;</em>
     <div class="control-group">
         <div class="controls">
@@ -295,6 +297,7 @@ function Mobdrp() {
                 </div>
             </div>
         </header>
+        
         <section class="container">
         	           <ul class="breadcrumb">
                                     <li><a href="http://www.travelpickr.com">Home</a></li>
@@ -382,6 +385,33 @@ function Mobdrp() {
             </section>
         </div>
     </div>
+            
+                            <div class="static-userfeedback">
+	<p id="selShowBlk" class="feedback-block"><img src="http://www.travelpickr.com/images/general/feedback.png" alt="feedback"></p>
+    <!-- Feedback form start -->
+    <form name="submitFeedbackFrm" id="submitFeedbackFrm" method="post">    
+    	<input type="hidden" name="feedback_act" id="feedback_act">
+        <input type="hidden" name="source_page" id="source_page" value=" privacy-policy ">
+        <div class="usersubmit-feedbck radius5" id="selRespBlk" style=" display:none  ">
+                            <p>Was this information helpful to you?</p>              
+                <div class="text-center">
+                    <label class="radio inline">
+                        <input type="radio" name="feedback_type" id="feedback_type_Satisfied" value="Satisfied"><span>Yes</span>
+                    </label>
+                    <label class="radio inline no-radiolabel">
+                        <input type="radio" name="feedback_type" id="feedback_type_Unsatisfied" value="Unsatisfied"><span>No</span>
+                    </label>       
+                    <label class="error" for="feedback_type" generated="true"></label>
+                </div> 
+                <div id="selComBlk" class="mt25 clearfix" style="display:none">                
+                    <div class="mb20"><textarea id="comments" class="feedback-txtarea" maxlength="2000" placeholder="Tell us more!" name="comments" cols="50" rows="10"></textarea></div>
+                    <button type="submit" name="submit_feedback" value="Go" class="btn btn-green">Submit</button>
+                </div>
+             
+        </div>
+    </form>
+    <!-- Feedback form ends -->
+</div>                        
            	       </section>       
         <footer class="footer-bar">
         	<div class="footer-container">
@@ -528,36 +558,23 @@ function Mobdrp() {
 </div>
 
 <script type="text/javascript">
-   function footerSlideMenu() {
-	 $(".mobile-menu li h4").click(function (event) {
-		if ($(this).parent().hasClass('active')) {
-			$(".mainmenu-sub").slideUp(500);
-			$(".active").removeClass("active");
-		} 
-		else {
-			$(".mainmenu-sub").slideUp(500); 
-			$(".active").removeClass("active");		 
-				if ($(this).next(".mainmenu-child").length) {
-					$(this).parent().addClass("active");
-					$(this).next(".mainmenu-child").children().slideDown(500);
-				}
-		    }
+	if ( $(window).width() <= 820 ) {
+		$(".mobile-menu li h4").click(function (event) {
+			if ($(this).parent().hasClass('active')) {
+				$(".mainmenu-sub").slideUp(500);
+				$(".active").removeClass("active");
+			} 
+			else {
+				$(".mainmenu-sub").slideUp(500); 
+				$(".active").removeClass("active");		 
+					if ($(this).next(".mainmenu-child").length) {
+						$(this).parent().addClass("active");
+						$(this).next(".mainmenu-child").children().slideDown(500);
+					}
+			}
 		event.stopPropagation();
-	 });
-   }
-   
-   $(window).resize(function() {
-		if ( $(window).width() <= 820 ) {
-			footerSlideMenu();
-		}
-	});
-	
-	 $(window).load(function() { 
-       if ( $(window).width() <= 820 ) {
-			footerSlideMenu();
-		}
-    });
-	
+		});
+	}
 </script>
 
 <script language="javascript" type="text/javascript">	
@@ -588,13 +605,56 @@ function Mobdrp() {
                 addLoginPopupFancybox('.fn_signuppop');
             }
 
-							$("#frmNewsletterSubscription").validate({
+			 			 
+				$("#frmNewsletterSubscription").validate({
 					rules: {
 						subscriber_email:{	required: true, email: true }
 					},messages: {
 						subscriber_email: {	required: mes_required	}
 					},submitHandler: function(form) {
 						subscriberNewsletter();
+					}
+				});
+				$("#feedback_type_Satisfied").click(function(){		
+					$("#sel_Feed").hide();	
+					displayLoadingImage(true);		
+					$("#selComBlk").hide();
+					$("#feedback_act").val("submit_feedback");
+					$("#submitFeedbackFrm").submit();
+				})
+								
+				$("#feedback_type_Unsatisfied").click(function(){
+					$("#selComBlk").show();
+				})
+				
+				$("#selShowBlk").click(function(){																	
+					if($('#selRespBlk').css('display') == 'none')
+						$("#sel_Feed").show();					
+					else
+						$("#sel_Feed").hide();							
+					$("#selRespBlk").toggle({right: "0px" });		
+				})		
+								
+				$("#submitFeedbackFrm").validate({
+					rules: {
+						feedback_type:{
+							required: true
+						},
+						comments : {							
+							required: {
+								depends: function(element) {
+									return $('#feedback_type_Unsatisfied').is(':checked') ? true : false;
+								}
+							}
+						}
+					},
+					messages: {
+						feedback_type: {
+							required: mes_required
+						},						
+						comments : {
+							required: mes_required
+						}
 					}
 				});
 			        })
