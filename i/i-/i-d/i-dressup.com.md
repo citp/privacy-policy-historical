@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the i-dressup.com privacy policy that was archived on 2014-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140220044939id_/http%3A//www.i-dressup.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the i-dressup.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703104910id_/http%3A//www.i-dressup.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy policy - i-Dressup Dress up Games
 
