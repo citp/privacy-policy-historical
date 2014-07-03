@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grabmore.in privacy policy that was archived on 2013-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131126194939id_/http%3A//www.grabmore.in/pages/Privacy%2520Notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grabmore.in privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704013217id_/http%3A//www.grabmore.in/pages/Privacy%2520Notice.html) for the most accurate reproduction.*
 
 # Privacy Notice
 
