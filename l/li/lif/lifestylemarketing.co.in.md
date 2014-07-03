@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifestylemarketing.co.in privacy policy that was archived on 2014-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140422032706id_/https%3A//www.lifestylemarketing.co.in/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifestylemarketing.co.in privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703104027id_/https%3A//www.lifestylemarketing.co.in/privacy-policy.aspx) for the most accurate reproduction.*
 
 # :: Mi Lifestyle Marketing Private Limited ::
 
