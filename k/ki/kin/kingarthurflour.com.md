@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kingarthurflour.com privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215121027id_/http%3A//www.kingarthurflour.com/customerservice/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kingarthurflour.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703221821id_/http%3A//www.kingarthurflour.com/customerservice/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy | King Arthur Flour
 
@@ -16,13 +16,13 @@ We record the address of the website you came from before visiting us, and any t
 
 If you join The Baking Circle or participate in any online survey we may offer, we record your e-mail address and the information you provide us on the questionnaire. We use your e-mail address to contact you with special offers, recipes, and news about King Arthur Flour that may be of interest to you. We use summaries of the data collected from the questionnaire to help us improve the service we offer you. 
 
-If you place a catalogue request, order online, or contact us via e-mail, we record your e-mail and postal address so we're able to respond to you in the quickest, most effective way possible. You may receive periodic contacts from us via mail or e-mail with information on new products, services, or upcoming events. We also sometimes rent or exchange our list of postal addresses with other marketers with whom we share similar customers, and whose products and offer we feel could benefit you. If you'd prefer we didn't share your name and postal address, please let us know by contacting us via e-mail at [customercare@kingarthurflour.com](mailto:customercare@kingarthurflour.com); by postal mail, or by calling us at 1 800 827 6836. 
+If you place a catalogue request, order online, or contact us via e-mail, we record your e-mail and postal address so we're able to respond to you in the quickest, most effective way possible. You may receive periodic contacts from us via mail or e-mail with information on new products, services, or upcoming events. We also sometimes rent or exchange our list of postal addresses with other marketers with whom we share similar customers, and whose products and offer we feel could benefit you. If you'd prefer we didn't share your name and postal address, please let us know by [contacting us](https://web.archive.org/contact/). 
 
 ##### Your email address
 
 Each e-mail promotion, recipe, or update you receive from us will include instructions on how you can remove your e-mail address from our list. We sometimes provide your email address – although not your name, physical address, or other personal information – to companies that advise us on broad customer trends. We will also disclose your email address when/if required to do so under applicable law. 
 
-We have the opportunity to use your e-mail address to help our environment by reducing the number of catalogues that we and others put in the mail. If you’d like to reduce the quantity of catalogues you receive from us, please let us know by contacting us via e-mail at [ customercare@kingarthurflour.com](mailto:customercare@kingarthurflour.com), by postal mail, or by calling us at 1 800 827 6836. 
+We have the opportunity to use your e-mail address to help our environment by reducing the number of catalogues that we and others put in the mail. If you’d like to reduce the quantity of catalogues you receive from us, please let us know by [contacting us](https://web.archive.org/contact/). 
 
 #####  Integrity of your personal information 
 
@@ -34,4 +34,4 @@ Certain features and services we offer on our website may require we place a “
 
 #####  Privacy questions 
 
-If you have any questions, concerns, or comments about this privacy policy, please contact us at [info@kingarthurflour.com](mailto:info@kingarthurflour.com). 
+If you have any questions, concerns, or comments about this privacy policy, please [contact us](https://web.archive.org/contact/). 
