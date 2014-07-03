@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gac.edu privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209065154id_/https%3A//gustavus.edu/policy/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gac.edu privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703035623id_/https%3A//gustavus.edu/policy/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy Statement | Policies
 
@@ -23,8 +23,11 @@ We are committed to protecting your privacy. When you visit the Gustavus Adolphu
     * Browser and version
   * The general location of your internet provider
   * Statistics related to your visit (aggregated using [Google Analytics](http://www.google.com/intl/en/privacy/))
+  * Demographic information including age, gender, and interests (from Google's interest-based advertising and third party audience data)
 
 
+
+**Please note:** You may update your [ad settings](https://www.google.com/settings/ads) or [opt out of Google Analytics for Display Advertising](https://www.google.com/settings/ads) at any time (limiting our ability to use your demographic information). You may also completely opt out of Google Analytics by [installing this browser add-on](https://tools.google.com/dlpage/gaoptout/).
 
 ### Information You Provide
 
