@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theukhighstreet.com privacy policy that was archived on 2013-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130924094328id_/http%3A//www.theukhighstreet.com/p/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theukhighstreet.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704000728id_/http%3A//www.theukhighstreet.com/p/privacy) for the most accurate reproduction.*
 
 # The UK High Street: Privacy and Cookies Statement
 
@@ -61,6 +61,8 @@ We have introduced the ability to register on our site so that the site can be t
 This site contains links to other sites. **TheUKHighStreet.com** is not responsible for the privacy practices or the content of such Web sites. 
 
 In some cases, TheUKHighStreet.com has special relationships with other sites. No personal information divulged on our site will be shared with these sites. 
+
+## GOOGLE
 
 ## PUBLIC FORUMS
 
