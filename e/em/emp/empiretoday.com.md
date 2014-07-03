@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the empiretoday.com privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215011332id_/http%3A//www.empiretoday.com/About-Empire/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the empiretoday.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703193100id_/http%3A//www.empiretoday.com/About-Empire/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Empire Today
 
@@ -145,7 +145,7 @@ We may use Tracking Technologies for a variety of purposes, including:
 
 **_Performance-Related_**.  We may use cookies or other Tracking Technologies that are useful in order to assess the performance of the Site, including as part of our analytic practices or otherwise to improve the content, products or services offered through the Site.
 
-**_Functionality-Related_**.  We may use cookies or other Tracking Technologies that are required to offer you enhanced functionality when accessing the Site, including identifying you when you sign-in to our Site or keeping track of our specified preferences, including in terms of the presentation of content on our Site e.
+**_Functionality-Related_**.  We may use cookies or other Tracking Technologies that are required to offer you enhanced functionality when accessing the Site, including identifying you when you sign-in to our Site or keeping track of our specified preferences, including in terms of the presentation of content on our Site.
 
 **_Targeting-Related_**.  We may use Tracking Technologies to deliver content relevant to your interests on our Site and third-party sites based on how you interact with our advertisements or content.  This includes using Tracking Technologies to understand the usefulness to you of the content that has been delivered to you. 
 
