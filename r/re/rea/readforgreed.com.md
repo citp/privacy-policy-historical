@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readforgreed.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331073608id_/http%3A//www.readforgreed.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readforgreed.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703050808id_/http%3A//www.readforgreed.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Read for Greed!
 
