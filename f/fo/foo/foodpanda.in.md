@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the foodpanda.in privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325003752id_/http%3A//www.foodpanda.in/contents/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodpanda.in privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703212933id_/http%3A//www.foodpanda.in/contents/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy at Foodpanda
 
-This policy explains how we, Foodpanda, a brand of **http://www.foodpanda.in** , use your personal information which you provide to us when using our service, including but not limited to our website and mobile applications (apps).
+This policy explains how we, foodpanda, a brand of **http://www.foodpanda.in** , use your personal information which you provide to us when using our service, including but not limited to our website and mobile applications (apps).
 
 **What information we collect about you?**
 
