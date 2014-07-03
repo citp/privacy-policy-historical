@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beautycounter.com privacy policy that was archived on 2014-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140601030056id_/http%3A//www.beautycounter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beautycounter.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703035206id_/http%3A//www.beautycounter.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | THE OFFICIAL BEAUTYCOUNTER SITE
 
