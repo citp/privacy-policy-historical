@@ -1,12 +1,14 @@
-<!--The following is the downloaded HTML source of the boatsales.com.au privacy policy that was archived on 2014-03-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140328232850id_/http%3A//www.boatsales.com.au/info/privacy-policy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the boatsales.com.au privacy policy that was archived on 2014-07-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140703195818id_/http%3A//www.boatsales.com.au/info/privacy-policy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head id="htmlHead"><script type="text/javascript" async="" src="https://cdn.krxd.net/controltag?confid=ITO4ydRU"></script><script type="text/javascript">var wtPageStartTime = new Date().getTime()</script><link href="http://css.csnstatic.com/design/desktoplayouts/retailsites/layout.css" rel="stylesheet" type="text/css"><title>
 	Boatsales Privacy Policy - boatsales.com.au
-</title><meta name="description" content="Please view the Boatsales privacy policy for any information regarding the use of this website, or the carsales network. Boatsales.com.au is Australia's Marine Marketplace."><meta name="keywords" content="boats, boats for sale, used boats, new boats, boatsales, boat sales, boatsales.com.au"><meta http-equiv="imagetoolbar" content="no"><meta http-equiv="Content-Type" content="text/html; charset=windows-1252"><link href="http://css.csnstatic.com/design/themes/boatsalesnew/navigation.css" rel="stylesheet" type="text/css"><link href="http://css.csnstatic.com/design/themes/boatsalesnew/boatsales.css" rel="stylesheet" type="text/css"><link href="/Design/Themes/BoatsalesNew/boatsales.ico" rel="shortcut icon" type="image/x-icon"><link href="http://css.csnstatic.com/design/commonthemes/csnnav3.css" rel="stylesheet" type="text/css"><meta name="WT.z_rfr" content="ladbrooke.industrysales.com.au"><meta name="WT.z_branded" content="0"><meta name="WT.seg_2" content="Other;Network Site"><meta name="WT.z_crefs" content="0;0"></head>
+</title><meta name="description" content="Please view the Boatsales privacy policy for any information regarding the use of this website, or the carsales network. Boatsales.com.au is Australia's Marine Marketplace."><meta name="keywords" content="boats, boats for sale, used boats, new boats, boatsales, boat sales, boatsales.com.au"><meta http-equiv="imagetoolbar" content="no"><meta http-equiv="Content-Type" content="text/html; charset=windows-1252"><link href="http://css.csnstatic.com/design/themes/boatsalesnew/navigation.css" rel="stylesheet" type="text/css"><link href="http://css.csnstatic.com/design/themes/boatsalesnew/boatsales.css" rel="stylesheet" type="text/css"><link href="/Design/Themes/BoatsalesNew/boatsales.ico" rel="shortcut icon" type="image/x-icon"><link href="http://css.csnstatic.com/design/commonthemes/csnnav3.css" rel="stylesheet" type="text/css"><meta name="WT.z_rfr" content="www.bikesales.com.au"><meta name="WT.z_branded" content="0"><meta name="WT.z_nrfr" content="www.bikesales.com.au"><meta name="WT.seg_2" content="Network Site;Direct Traffic"><meta name="WT.z_crefs" content="0;1"></head>
 	<body id="body" style="margin:0px;">	
 		<form name="PostbackSeoForm" method="post" action="/info/privacy-policy.aspx" id="PostbackSeoForm" style="margin:0px">
+<div>
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMjEwMTMzNTYwMA8WAh4LVXJsUmVmZXJyZXIFHGh0dHA6Ly93d3cuYm9hdHNhbGVzLmNvbS5hdS8WAgIDD2QWAgIBD2QWAgIBD2QWAmYPZBYIAgIPFgIeB1Zpc2libGVnZAIDDxYCHwFoZAIED2QWBgIBDw8WAh8BaGRkAgUPZBYCZg88KwAFAQAPFgIfAWhkZAIJDw8WAh8BaGRkAgUPZBYCAgEPZBYCZg9kFgICAQ9kFgICAg9kFgICAg8WAh4FY2xhc3MFEHItY29sIHItY29sLWxhc3RkGAEFF2N0bDA4JGYkbXVsdGl2aWV3Rm9vdGVyDw9kZmSnnwqCxeplPpUuD1MEy5dQkK7QMw==">
+</div>
 
 
 <script src="http://js.csnstatic.com/lib/utils.js" type="text/javascript"></script>
@@ -183,6 +185,10 @@
                             
                     </li>
             
+                    <li id="jobs"><a href="/jobs/">Jobs <i class="icon-caret">&nbsp;</i></a>
+                        
+                    </li>
+            
                     <li id="help"><a href="http://helpcentre.carsales.com.au/" target="_blank">Help <i class="icon-caret">&nbsp;</i></a>
                         
                                 <div class="menu-panel">
@@ -293,10 +299,12 @@
             clearTimeout(timer);
         };
 
+        var liMatchQuery = "li:has(.menu-panel)";
+
         if (!navigator.userAgent.match(/iPad/i)) {
-            topLevelMenu.children("li").hover(function () { timer = setTimeout(timeoutHandler, MENU_TIMEOUT); }, function () { clearTimeout(timer); topLevelMenu.removeClass("menu-active"); });
+            topLevelMenu.children(liMatchQuery).hover(function () { timer = setTimeout(timeoutHandler, MENU_TIMEOUT); }, function () { clearTimeout(timer); topLevelMenu.removeClass("menu-active"); });
         } else {
-            topLevelMenu.children("li").each(function (i) {
+            topLevelMenu.children(liMatchQuery).each(function (i) {
                 var item = $(this);
                 if (i > 0) {
                     item.children("a").on("click", function (event) {
@@ -314,7 +322,7 @@
                     item.on("touchstart", function (event) { event.stopPropagation(); });
                 }
             });
-            topLevelMenu.children("li").find("li a").on("touchstart", function (ev) {
+            topLevelMenu.children(liMatchQuery).find("li a").on("touchstart", function (ev) {
                 ev.preventDefault();
                 ev.stopPropagation();
                 location.href = this.href;
@@ -367,7 +375,7 @@
 	        <div id="banner">
 	            <div id="Tile1">
 	<noscript>
-		<a href="http://crtl.aimatch.com/carsales/adclick/SITE=bs.help/AREA=homepage/sect=homepage/sec=/tile=1/SIZE=728x90/RANDOM=7304328211/VIEWID=7302297026?"><img alt="" src="http://crtl.aimatch.com/carsales/iserver/SITE=bs.help/AREA=homepage/sect=homepage/sec=/tile=1/SIZE=728x90/RANDOM=7304328211/VIEWID=7302297026?" width="728" height="90" style="border:none" /></a>
+		<a href="http://crtl.aimatch.com/carsales/adclick/SITE=bs.help/AREA=homepage/sect=homepage/certified=/sec=/tile=1/SIZE=728x90/RANDOM=2986163922/VIEWID=2984759671?"><img alt="" src="http://crtl.aimatch.com/carsales/iserver/SITE=bs.help/AREA=homepage/sect=homepage/certified=/sec=/tile=1/SIZE=728x90/RANDOM=2986163922/VIEWID=2984759671?" width="728" height="90" style="border:none" /></a>
 	</noscript>
 </div>
 	        </div>
@@ -958,12 +966,23 @@ background: url("/carcontent/carsales/lazy-social.png") no-repeat scroll -83px -
 margin-top: 4px !important;
 }
 
+#r-footer h3 a {
+    color: #666666;
+    font-size: 11px;
+    font-weight: bold;
+    line-height: 14px;
+    text-decoration: none;
+}
+
+#r-footer h3 a:hover {
+    text-decoration: underline;
+}
 
 </style>
 <div class="upper-footer">
     <div class="footer-panel footer-panel-first">
         <h3>Boats for Sale</h3>
-        <ul class="left">
+        <ul class="left" style="margin-bottom: 20px;">
             <li>
                 <a href="/new/" title="New power boats for sale">New</a>
             </li>
@@ -972,6 +991,15 @@ margin-top: 4px !important;
             </li>
             <li>
                 <a href="/boats-for-sale/location.aspx">Location</a>
+            </li>
+        </ul>
+        <h3><a href="http://www.boatsales.com.au/jobs">Industry Jobs</a></h3>
+        <ul class="left">
+            <li>
+                <a href="http://www.boatsales.com.au/jobs" title="Jobs in marine industry">Marine jobs</a>
+            </li>
+            <li>
+                <a href="http://www.boatsales.com.au/jobs " title="Training courses">Training courses</a>
             </li>
         </ul>
     </div>
@@ -1047,7 +1075,7 @@ margin-top: 4px !important;
                 <a href="http://www.quicksales.com.au/" title="Shopping &amp; Auctions. Over 1 million items listed. Buy and sell almost anything...clothing, jewellery, bicycles, appliances, DVDS's and much more" target="_blank">Shopping &amp; Auctions</a>
             </li>
             <li>
-                <a href="http://www.homesales.com.au/" title="Buy and sell property privately on homesales.com.au" target="_blank">Homes</a>
+                <a href="http://www.homesales.com.au/" title="Find investment property Australia-wide. Search real estate for sale and for rent on homesales.com.au" target="_blank">Homesales</a>
             </li>
             <li>
                 <a href="/carsales-network/directory.html" title="The Carsales Network comprises the No.1 consumer websites in automotive classifieds, marine classifieds and industry machinery and equipment classifieds">More</a>
@@ -1183,7 +1211,7 @@ $("div.menu-content ul li:nth-child(2)").html('<a target="_blank" href="http://b
 </div>
 
 <!-- BEGIN: WebMetrics -->
-<script type="text/javascript">var biTrackingImg0 = new Image(); biTrackingImg0.src = 'http://tracking.carsales.com.au/fav.ico?SessionId=207.241.226.38.635316849587264908&ServerName=W-01&EventType=P&UserId=';</script>
+<script type="text/javascript">var biTrackingImg0 = new Image(); biTrackingImg0.src = 'http://tracking.carsales.com.au/fav.ico?SessionId=207.241.237.220.635399171313179448&ServerName=C-16&EventType=P&UserId=';</script>
 <!-- END: WebMetrics -->
 
 <!-- BEGIN: WebMetrics -->
@@ -1205,7 +1233,7 @@ $("div.menu-content ul li:nth-child(2)").html('<a target="_blank" href="http://b
     <!-- END Krux Controltag -->
 
 		
-<!-- Server: W-15, CurrentTime: 29/03/2014 10:28:50 AM -->
+<!-- Server: C-14, CurrentTime: 4/07/2014 5:58:18 AM -->
 <script type="text/javascript">
 //<![CDATA[
 $('#new-boat-showroom .menu-content').html('<div class="category first"><p class="menu-title"><a href="/showroom/power/">Power</a></p><ul><li class="first"><a href="/showroom/power/Fiberglass/">Fiberglass</a></li><li><a href="/showroom/power/Aluminium/">Aluminium</a></li><li><a href="/showroom/power/ski-boat/">Ski/Wake Boat</a></li><li><a href="/showroom/power/Inflatables/">Inflatables</a></li><li><a href="/showroom/power/Polyethylene/">Polyethylene</a></li></ul></div><div class="category"><p class="menu-title"><a href="/showroom/sail/">Sail</a></p><ul><li class="first"><a href="/showroom/sail/Cruising/">Cruising</a></li><li ><a href="/showroom/sail/Racing/">Racing</a></li><li><a href="/showroom/sail/Family/">Family</a></li><li ><a href="/showroom/sail/Dinghy/">Dinghy</a></li><li  ><a href="/showroom/sail/Cruiser-Race/">Cruiser/Race</a></li></ul></div><div class="category"><p class="menu-title"><a href="/showroom/cruiser/">Cruiser</a></p><ul><li class="first"><a href="/showroom/cruiser/Sports/">Sports</a></li><li><a href="/showroom/cruiser/Flybridge/">Flybridge</a></li><li><a href="/showroom/cruiser/Super-Yacht/">Super Yacht</a></li></ul></div><div class="category"><p class="menu-title"><a href="/showroom/engine/">Outboard</a></p><ul><li class="first"><a href="/showroom/engine/2-stroke-efi-dfi/">2 Stroke (EFI & DFI)</a></li><li><a href="/showroom/engine/2-stroke-carb/">2 Stroke (carb)</a></li><li><a href="/showroom/engine/4-stroke/">4 Stroke</a></li></ul></div><div class="category"><p class="menu-title"><a href="/showroom/pwc/">PWC</a></p><ul><li class="first"><a href="/showroom/pwc/Stand-Up/">Stand Up</a></li><li><a href="/showroom/pwc/Sit-Down/">Sit Down</a></li></ul></div>');
@@ -1213,14 +1241,7 @@ $('#new-boat-showroom .menu-content').html('<div class="category first"><p class
 </script>
 <script type="text/javascript" src="http://js.csnstatic.com/lib/tracking/webtrends.js"></script><script type="text/javascript">function isBrandRel(ref)
                 {
-                   if (!ref) {
-                        ref = docRef;
-                   }
-                   var dr = ref.toLowerCase(),
-                       bre = /=(?:www\.)*boat(?:%20|\+)*sales(?:\.com\.au)*(?:&|$)/i,
-                       pqre = /pq=(?:www\.)*boat(?:%20|\+)*sales(?:\.com\.au)*(?:&|$)/i;
-   
-                   return ( bre.test(dr) && !pqre.test(dr) );
+                   return false;
                 };</script><script type="text/javascript" src="http://js.csnstatic.com/lib/tracking/track-referrals.js"></script><script type="text/javascript" src="http://js.csnstatic.com/lib/tracking/trafficsourcereferrer.js"></script><script type="text/javascript" src="http://js.csnstatic.com/lib/tracking/webm.crossdomain.js"></script><script type="text/javascript" src="http://js.csnstatic.com/lib/tracking/webm.clicktrack.js"></script>
 <script type="text/javascript">
 //<![CDATA[
@@ -1264,7 +1285,7 @@ jQuery.ready();//]]>
 </script>
 <div id="tempTile1" style="display:none">
 <!-- Begin Delay Load -->
-<script type="text/javascript" src="http://crtl.aimatch.com/carsales/jserver/SITE=bs.help/AREA=homepage/sect=homepage/sec=/tile=1/SIZE=728x90/RANDOM=7304328211/VIEWID=7302297026?"></script>
+<script type="text/javascript" src="http://crtl.aimatch.com/carsales/jserver/SITE=bs.help/AREA=homepage/sect=homepage/certified=/sec=/tile=1/SIZE=728x90/RANDOM=2986163922/VIEWID=2984759671?"></script>
 <!-- End Delay Load -->
 </div>
 <script type="text/javascript">
