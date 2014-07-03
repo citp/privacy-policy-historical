@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edaboard.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209062738id_/http%3A//www.edaboard.com/misc.php%3Fdo%3Dvsarules) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edaboard.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703084854id_/http%3A//www.edaboard.com/misc.php%3Fdo%3Dvsarules) for the most accurate reproduction.*
 
 # Forum for Electronics - Forum Rules
 
@@ -34,7 +34,7 @@ Duplicates or cross posting are not allowed, avoid creating multiple threads wit
 There are specific sections for education, jobs and business promotion so use them correctly and don’t post content that belongs in these sections to any other categories.
 
  **Use descriptive titles**  
-Use proper descriptive titles related to the content of your post. Give a short summary of your problem IN THE SUBJECT . Titles like the following are considered completely useless and will result in the deletion of the thread and an infraction:
+Use proper descriptive titles related to the content of your post without adding useless prefix like "urgent" or "help me" or excessive punctuation like "...." or "!!!!" etc. Give a short summary of your problem IN THE SUBJECT . Titles like the following are considered completely useless and will result in the deletion of the thread and an infraction:
 
   * Help me
   * You must know the answer
