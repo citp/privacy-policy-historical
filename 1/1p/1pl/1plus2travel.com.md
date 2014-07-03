@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1plus2travel.com privacy policy that was archived on 2014-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140430171812id_/http%3A//www.1plus2travel.com/_privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1plus2travel.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703205145id_/http%3A//1plus2travel.com/_privacy-policy) for the most accurate reproduction.*
 
 # 1 Plus 2 -Privacy Policy
 
