@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the edgetechcorp.com privacy policy that was archived on 2012-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121009123500id_/http%3A//www.edgetechcorp.com/help/%3Fp%3Dpriva-pol) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edgetechcorp.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703045927id_/http%3A//www.edgetechcorp.com/privacy) for the most accurate reproduction.*
 
-# Help - Edge Tech Corp
+# 
 
 Please read the following information carefully. By accessing Edge Tech Corporation's website, you furnish your acceptance and agreement with these terms. If you do not accept and agree with these terms in full, please do not access this website.
 
@@ -10,6 +10,5 @@ Edge Tech Corp uses traffic analysis software to help us design and better marke
 
 Edge Tech Corp uses the latest industry standard technologies to ensure your shopping transactions are securely placed. Online transactions are secured using Secure Sockets Layer (SSL) software, which encrypts the personal data on your order.
 
-Edge Tech Corp does not allow any purchases from customers under the age of 13. If you are under the age of 13, please shop online with the aid of a parent or guardian.
-
+Edge Tech Corp does not allow any purchases from customers under the age of 13. If you are under the age of 13, please shop online with the aid of a parent or guardian.  
 By visiting [http://www.edgetechcorp.com](http://www.edgetechcorp.com/), you are accepting the practices described in this Privacy Policy.
