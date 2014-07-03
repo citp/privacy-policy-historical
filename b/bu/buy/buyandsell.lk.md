@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buyandsell.lk privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209163050id_/http%3A//www.buyandsell.lk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyandsell.lk privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703034109id_/http%3A//www.buyandsell.lk/privacy-policy.html) for the most accurate reproduction.*
 
 # Online Solutions (Pvt) Ltd – Privacy Policy
 
