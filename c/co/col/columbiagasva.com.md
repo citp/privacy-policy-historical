@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the columbiagasva.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214065012id_/https%3A//www.columbiagasva.com/terms-of-use/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the columbiagasva.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703024603id_/https%3A//www.columbiagasva.com/terms-of-use/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement – Columbia Gas of Virginia
 
