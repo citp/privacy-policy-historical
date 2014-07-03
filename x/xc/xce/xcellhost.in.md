@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the xcellhost.in privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209030047id_/http%3A//xcellhost.in/AboutUs/LegalInfo/Policies.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xcellhost.in privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703190817id_/https%3A//www.xcellhost.in/AboutUs/LegalInfo/Policies/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# XcellHost Cloud Services Pvt. Ltd. > About Us > Legal Info > Policies
+# XcellHost Cloud Services Pvt. Ltd. > About Us > Legal Info > Policies > Privacy Policy
 
 ### I. What information does XcellHost Cloud Services Pvt. Ltd. collect and how is it used?
 
