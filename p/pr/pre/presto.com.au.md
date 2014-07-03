@@ -1,42 +1,37 @@
-> *The following text is extracted and transformed from the presto.com.au privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629081130id_/https%3A//www.foxtel.com.au/about-foxtel/privacy/default.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the presto.com.au privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703200002id_/https%3A//www.presto.com.au/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - About Foxtel - Foxtel
+# Privacy Notice | Presto
 
-**  
-**This is our Privacy Policy which sets out what personal information Foxtel* collects about you.
+## Foxtel Privacy Notice
 
-It sets out how we collect it, how we hold it, how we use it and who we disclose this information to. It explains what information we may collect from you when you use a Foxtel website or a Foxtel Service. It also sets out how you may access and seek correction of your personal information or complain about a breach of your privacy. This Privacy Policy may be amended from time to time if our practices change.
+  * [Privacy Notice](https://www.presto.com.au/privacy)
+  * [Presto Terms of Use](https://www.presto.com.au/PrestoTerms)
+  * [Website Terms & Conditions](https://www.presto.com.au/PrestoWebsiteTerms)
+  * [Community Terms of Service](https://community.presto.com.au/t5/Welcome/Presto-Community-Terms-of-Service/m-p/1117#U1117)
 
-On our websites, you may find links to other websites not operated by us, including our partners’ websites. This Privacy Policy doesn’t apply to them – always check the Privacy Policy of any other website you enter.
 
-You can navigate separate sections of this Privacy Policy through the links below.
 
-### 1\. What kinds of personal information do we collect and how?  + 
+Q. What kinds of personal information do we collect and how?  
+We collect certain personal information about you and authorised representatives on your account when you subscribe to a Foxtel Service . We may also collect personal information, such as information about the programs you watch, and other information when you use a Foxtel Service and when you otherwise interact with us including on our websites or through social media.  We may also on occasion receive personal information about you from third parties where you have agreed with them that your information may be disclosed. If we do not collect some or all of this information, it may limit our ability to provide you with the best service we can.
 
-### 2\. What information do we collect when you use a Foxtel website or a Foxtel Service?  + 
+**Q. Why do we collect the information?**  
+We collect this information to connect you to, and provide and administer, your Foxtel Service, including providing you with recommendations about use of your Foxtel Service based on your preferences and interests, billing you, contacting you about the Foxtel Service, and resolving any disputes. We also collect this information to promote and market products and services of ours and our partners; to develop and enhance our products and services; to conduct research; and to plan and develop our product strategies. Information we may collect about your use of a Foxtel Service or website may be used to deliver marketing and content from Foxtel and third parties on those services, and Foxtel advertising on third party sites, relating in each case to your interests or preferences.
 
-### 3\. Do you have to identify yourself when you use a Foxtel website?  + 
+**Q. Who do we disclose this information to?**  
+We may disclose your personal information to:
 
-### 4\. Why do we collect the information and how do we use or disclose it?  + 
+  * authorised representatives on your account;
+  * entities who assist us in providing, administering, improving, promoting and marketing products and services;
+  * our Foxtel Partners , who will use and disclose it for similar purposes as us and subject to their privacy policies; and
+  * other parties where required by law, or parties responsible for investigating and resolving disputes concerning your Foxtel Service.
 
-### 5\. How can you request not to receive direct marketing?  + 
 
-### 6\. Who do we disclose your personal information to?  + 
 
-### 7\. Do we disclose your personal information overseas?  + 
+**Q. How can you request not to receive direct marketing?**  
+If you do not wish to receive marketing communications from us or for us to provide your personal information to our Foxtel Partners3 please contact us at [support@presto.com.au](http://www.presto.com.au/contact) and/or GPO Box 99 Sydney NSW 2001. You can also update your preferences at any time by logging into your Presto account at [presto.com.au](http://www.presto.com.au/).
 
-### 8\. How do we handle credit information?  + 
+**Q.   What happens if I don’t allow you access to my personal information for direct marketing purposes?**  
+We will always use any personal information we have on you with the strictest level of confidence and as such will use it to ensure that we can talk to you about ways to enhance your Foxtel Service, how to find the content you like, tell you about new services and applications and give you access to offers that we think will make you get the most out of your service. We will also use the information to provide you access to exclusive experiences that are linked to your preferences.
 
-### 9\. How do we hold your personal information and keep it secure?  + 
-
-### 10\. How can you seek access to, and correction of, your personal information?  + 
-
-### 11\. How can you access further information or complain about a breach of your privacy?  + 
-
-_* Foxtel means Foxtel Management Pty Limited and all its subsidiaries, and any company or entity that is wholly owned (directly or indirectly) by the Foxtel Partnership **** including those companies which provide the Foxtel owned channels and Foxtel products and services._
-
-_** Foxtel Service means the product/s and/or service/s supplied by Foxtel which you purchase, subscribe to, or use._
-
-_***Foxtel Partners means News Australia Pty Limited and Telstra Media Pty Limited and any of their related companies or affiliates._
-
-_****Foxtel Partnership means the partnership between Sky Cable Pty Limited and Telstra Media Pty Limited_
+**Q. How can you access further information or complain about a breach of your privacy?**  
+The Foxtel Privacy Policy contains further information including information about how you may request access to, and correction of, personal information we hold about you, how you may complain about a privacy breach, and how we will deal with a privacy complaint. The Foxtel Privacy Policy is available at presto.com.au/privacy or otherwise by contacting us at [support@presto.com.au](http://www.presto.com.au/contact) and/or GPO Box 99 Sydney NSW 2001.
