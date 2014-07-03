@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keen.io privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330060644id_/https%3A//keen.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keen.io privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703121020id_/https%3A//keen.io/privacy-policy) for the most accurate reproduction.*
 
 # Keen IO - Analytics for Developers
 
@@ -62,6 +62,6 @@ If we make any substantial changes in the way we use your Personal Data, we will
 
 If you have any questions or feedback regarding this Privacy Policy, please let us know. Please contact us at [privacy@keen.io](mailto:privacy@keen.io).
 
-#### So, what are you waiting for? It only takes a few minutes and a few lines of code to start collecting the events that _really_ matter to you.
+So, what are you waiting for? It only takes a few minutes and a few lines of code to start collecting the events that _really_ matter to you. 
 
-[Sign Up for Free](https://web.archive.org/signup)
+[Sign Up Free](https://keen.io/signup)
