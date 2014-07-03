@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doximity.com privacy policy that was archived on 2014-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140421172902id_/https%3A//www.doximity.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doximity.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703133555id_/https%3A//www.doximity.com/privacy) for the most accurate reproduction.*
 
 # Doximity Privacy Policy
 
@@ -425,7 +425,7 @@ As a condition to access Doximity, you agree to this User Agreement and to stric
 
 
 
-Upload, post, email, DocMail, DocMail, fax, transmit or otherwise make available or initiate any content that:
+Upload, post, email, DocMail, fax, transmit or otherwise make available or initiate any content that:
 
   1. Falsely states, impersonates or otherwise misrepresents your identity, including but not limited to misrepresenting your current or previous positions and qualifications, or your affiliations with a person or entity, past or present;
   2. Is unlawful, libelous, abusive, obscene, discriminatory or otherwise objectionable;
