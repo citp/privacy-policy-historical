@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alt-codes.net privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215060738id_/http%3A//www.alt-codes.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alt-codes.net privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703071136id_/http%3A//www.alt-codes.net/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy for Alt Codes
 
