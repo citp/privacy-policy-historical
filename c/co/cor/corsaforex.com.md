@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the corsaforex.com privacy policy that was archived on 2014-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140329041048id_/https%3A//www.corsaforex.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the corsaforex.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703161237id_/https%3A//www.corsaforex.com/privacy) for the most accurate reproduction.*
 
 # Corsa Capital
 
@@ -47,156 +47,156 @@ Tortola, British Virgin Islands
 
 FOREX quotes
 
-EURUSD 1.3751 0.09%  
+EURUSD 1.3604 -0.36%  
   
 ---  
   
-GBPUSD 1.6639 0.20%  
+GBPUSD 1.7147 -0.07%  
   
-USDJPY 102.79 0.64%  
+USDJPY 102.17 0.34%  
   
-USDCHF 0.8867 0.03%  
+USDCHF 0.8935 0.50%  
   
-USDCAD 1.1059 0.27%  
+USDCAD 1.0631 -0.33%  
   
-EURJPY 141.37 0.72%  
+EURJPY 139.00 0.00%  
   
-EURCHF 1.2193 0.12%  
+EURCHF 1.2157 0.14%  
   
-GBPJPY 171.06 0.84%  
+GBPJPY 175.20 0.27%  
   
-GBPCHF 1.4754 0.23%  
+GBPCHF 1.5321 0.41%  
   
-GOLD 1294.59 0.12%  
+GOLD 1319.36 -0.46%  
   
-#AA 12.46 -0.96%  
+#AA 14.98 1.07%  
   
-#AAPL 536.51 -0.11%  
+#AAPL 93.42 0.25%  
   
-#ADBE 64.87 0.54%  
+#ADBE 73.61 1.18%  
   
-#AIG 49.85 0.94%  
+#AIG 55.59 0.67%  
   
-#AMD 3.87 -1.03%  
+#AMD 4.18 -3.34%  
   
-#AMZN 338.33 -0.01%  
+#AMZN 337.69 1.45%  
   
-#AXP 90.42 0.49%  
+#AXP 95.79 0.66%  
   
-#BA 124.39 0.94%  
+#BA 128.54 0.74%  
   
-#BAC 16.96 -0.18%  
+#BAC 16.01 1.06%  
   
-#BK 35.07 0.26%  
+#BK 37.88 0.79%  
   
-#C 47.23 -0.44%  
+#C 48.19 0.39%  
   
-#CAT 99.35 0.92%  
+#CAT 110.85 1.19%  
   
-#CL 101.59 0.23%  
+#CL 103.74 -0.46%  
   
-#CSCO 22.31 1.35%  
+#CSCO 25.16 0.56%  
   
-#DD 66.60 0.03%  
+#DD 65.89 0.83%  
   
-#DIS 78.96 0.63%  
+#DIS 86.81 0.44%  
   
-#EBAY 55.17 0.02%  
+#EBAY 50.99 0.88%  
   
-#F 15.43 1.30%  
+#F 17.31 0.64%  
   
-#GE 25.85 0.23%  
+#GE 26.82 0.82%  
   
-#GOOG 1119.51 0.47%  
+#GOOG 583.82 0.33%  
   
-#HD 78.69 0.01%  
+#HD 82.08 0.16%  
   
-#HON 90.85 0.63%  
+#HON 94.91 0.67%  
   
-#HPQ 32.02 0.31%  
+#HPQ 33.99 0.41%  
   
-#IBM 190.38 0.30%  
+#IBM 188.58 0.12%  
   
-#INTC 25.60 1.21%  
+#INTC 31.05 0.26%  
   
-#IP 45.78 0.44%  
+#IP 50.04 0.82%  
   
-#JNJ 97.42 0.16%  
+#JNJ 105.50 -0.30%  
   
-#JPM 60.00 0.13%  
+#JPM 57.25 0.52%  
   
-#KO 38.93 0.31%  
+#KO 42.16 -0.24%  
   
-#KRFT 55.67 0.27%  
+#KRFT 60.55 0.23%  
   
-#MCD 97.22 1.09%  
+#MCD 100.94 0.46%  
   
-#MDLZ 34.39 0.52%  
+#MDLZ 37.95 0.16%  
   
-#MMM 134.15 0.98%  
+#MMM 145.62 0.31%  
   
-#MO 37.10 -0.32%  
+#MO 42.48 1.46%  
   
-#MRK 55.95 0.43%  
+#MRK 59.18 0.27%  
   
-#MSFT 40.28 2.28%  
+#MSFT 41.78 -0.24%  
   
-#NG 4.482 -1.21%  
+#NG 4.359 -0.07%  
   
-#NOK 7.32 0.96%  
+#NOK 7.75 2.06%  
   
-#ORAN 14.58 2.19%  
+#ORAN 15.71 1.34%  
   
-#PFE 31.86 -0.69%  
+#PFE 30.42 0.20%  
   
-#PG 79.73 0.13%  
+#PG 79.91 0.49%  
   
-#QQQ 87.05 0.22%  
+#QQQ 95.58 0.52%  
   
-#S 9.27 0.32%  
+#S 8.54 0.94%  
   
-#SNE 18.63 1.99%  
+#SNE 16.81 -0.59%  
   
-#SPY 185.45 0.44%  
+#SPY 198.19 0.50%  
   
-#T 35.04 0.26%  
+#T 35.80 0.42%  
   
-#UL 42.60 2.37%  
+#UL 45.96 0.61%  
   
-#UTX 114.77 0.87%  
+#UTX 115.88 0.67%  
   
-#VZ 47.41 -0.55%  
+#VZ 49.55 -0.14%  
   
-#WMT 75.97 -0.18%  
+#WMT 75.80 0.29%  
   
-#XOM 97.69 1.49%  
+#XOM 102.42 0.84%  
   
-AUDCAD 1.0224 0.04%  
+AUDCAD 0.9945 -1.14%  
   
-AUDCHF 0.8197 -0.18%  
+AUDCHF 0.8358 -0.32%  
   
-AUDJPY 95.05 0.43%  
+AUDJPY 95.58 -0.47%  
   
-AUDUSD 0.9247 -0.21%  
+AUDUSD 0.9357 -0.81%  
   
-CADCHF 0.8013 -0.23%  
+CADCHF 0.8400 0.82%  
   
-CADJPY 92.92 0.38%  
+CADJPY 96.07 0.67%  
   
-CHFJPY 115.86 0.62%  
+CHFJPY 114.25 -0.15%  
   
-CRSIDX 9997.4 -0.10%  
+CRSIDX 9844.4 0.40%  
   
-EURAUD 1.4873 0.29%  
+EURAUD 1.4543 0.46%  
   
-EURGBP 0.8262 -0.13%  
+EURGBP 0.7933 -0.26%  
   
-NZDCAD 0.9575 0.21%  
+NZDCAD 0.9309 -0.38%  
   
-NZDCHF 0.7676 -0.02%  
+NZDCHF 0.7823 0.44%  
   
-NZDJPY 89.02 0.61%  
+NZDJPY 89.47 0.29%  
   
-SILVER 19.79 0.43%  
+SILVER 21.10 -0.12%  
   
 Powered by CorsaCapital
