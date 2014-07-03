@@ -1,599 +1,215 @@
-<!--The following is the downloaded HTML source of the edgetechcorp.com privacy policy that was archived on 2012-10-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20121009123500id_/http%3A//www.edgetechcorp.com/help/%3Fp%3Dpriva-pol) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the edgetechcorp.com privacy policy that was archived on 2014-07-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140703045927id_/http%3A//www.edgetechcorp.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head> 
-<title>Help - Edge Tech Corp</title> 
-<meta name="description" content="Edge Tech Corp is a leading supplier of DRAM memory upgrades, digital media cards, portable drives, digital music players, and other experience-enhancing technology solutions.">
-<meta name="keywords" content="ETC, Tech, Corp, Corporation, computer, memory, upgrades, flash, ISO, certification, company, information"> 
-<meta name="ROBOTS" content="INDEX,FOLLOW">
-<meta name="content-type" content="text/html; charset=iso-8859-1"> 
-
-<link rel="stylesheet" href="/assets/css/style.css?v=2">
-<link rel="stylesheet" href="/assets/css/960.css?v=2">
-<script type="text/javascript" src="/assets/js/jquery-1.4.2.js?v=2"></script>
-
-<!--[if IE 6]>
-	<link rel="stylesheet" type="text/css" href="/assets/css/style-ie6.css?v=2" />
+<!DOCTYPE html><html><head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<link href="/bootstrap/latest/css/bootstrap.min.css" rel="stylesheet">
+<link href="/shared/css/application.css" rel="stylesheet">
+<!--[if lt IE 9]>
+	<script src="/js/html5shiv.js"></script>
+	<script src="/js/respond.min.js"></script>
 <![endif]-->
+<link href="/shared/img/favicon.ico" rel="shortcut icon">
+<link href="http://www.edgetechcorp.com/page/index.cfm?cid=568" rel="canonical">
 
-<!--[if IE 7]>
-	<link rel="stylesheet" type="text/css" href="/assets/css/style-ie7.css?v=2" />
-<![endif]-->
-<script type="text/javascript">
-var cartPath = "/cart/AddToCart.ashx?";
-var myKeystrokes = new Array();
-var konami = [38,38,40,40,37,39,37,39,66,65];
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>
+		var _gaq = _gaq || [];
+		var pluginUrl = '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+		_gaq.push(['_require', 'inpage_linkid', pluginUrl]);
+		_gaq.push(['_setAccount', 'UA-92272-1']);
+		_gaq.push(['_trackPageview']);
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
 
-$(document).ready(function() {
-    $(document).keydown(function(e) {
-        if ((e.keyCode >= 37 && e.keyCode <= 40) || (e.keyCode >= 65 && e.keyCode <= 66)) {
-            myKeystrokes[myKeystrokes.length] = e.keyCode;
-            if (myKeystrokes.length > 0 && myKeystrokes.length <= konami.length && myKeystrokes[myKeystrokes.length - 1] === konami[myKeystrokes.length - 1]) {
-                if (myKeystrokes.length == konami.length) {
-                    $("body").append("<scr" + "ipt src='/assets/js/contra.js?v=2c'></scr" + "ipt>");
-                    myKeystrokes = new Array();
-                }
-            } else {
-                myKeystrokes = new Array();
-                if (e.keyCode == 38) {
-                    myKeystrokes[0] = 38;
-                }
-            }
-        }
-    });
-});
 
-function openPopUp() {
-    var str = new String(this.className);
-    var url = this.href;
-    var width = 400;
-    var height = 300;
-    if (str.match(/.*largePopUp/)) {
-        width = 740;
-        height = 520;
-    }
-    var page = window.open(url, 'Help', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=1,width=' + width + ',height=' + height);
-    page.focus();
-    return false;
-}
-$(document).ready(function() {
-
-	//Default Action
-	$(".tab_content").hide(); //Hide all content
-	$("ul.tabs li:first").addClass("active").show(); //Activate first tab
-	$(".tab_content:first").show(); //Show first tab content
-	
-	//On Click Event
-	$("ul.tabs li").live("click", function(e) {
-		if (!$(this).hasClass("active")) {
-			$("ul.tabs li").removeClass("active"); //Remove any "active" class
-			$(this).addClass("active"); //Add "active" class to selected tab
-			$(".tab_content").hide(); //Hide all tab content
-			var activeTab = $(this).find("a").attr("href"); //Find the rel attribute value to identify the active tab + content
-			$(activeTab).fadeIn(); //Fade in the active content
-			$(activeTab).find(".helpPopUp").each(function(i) {
-				this.onclick = openPopUp;
-			});
-		}
-		e.stopPropagation();
-		e.preventDefault();
-		return false;
-	});
-
-});
-
-var productPrices = new Array();
-
-$(document).ready(function() {
-
-    var products = "";
-    $(".getPrice*").each(function() {
-        if (products != "")
-            products += ",";
-        products += $(this)[0].className.replace("getPrice ", "");
-    });
-    $.getJSON("/handlers/JSONPrices.ashx", { ids: products }, function(myProducts) {
-        for (var key in myProducts) {
-            productPrices[key] = myProducts[key];
-            $(".getPrice." + key).html("$ " + myProducts[key]);
-        }
-    });
-
-    $(".getPrice").next("a.addToCart").each(function() {
-        var previous = $(this).prev();
-        if (previous.length > 0) {
-            var id = previous[0].className.replace("getPrice ", "");
-            $(this).attr("href", cartPath + "product_id=" + escape(id.replace(" ", "") + "|1"));
-        }
-    });
-
-    $(".helpPopUp").each(function(i) {
-        this.onclick = openPopUp;
-    });
-
-    $(".pageHeader .grid_4").load("/assets/ads/overstock.html");
-});
-
-$(document).ready(function() {
-$('#btn-dropdown-ani').animate(
-	{top:"0px"},1000, function() {});
-});
-</script>
-
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
-<script type="text/javascript">
-_uacct = "UA-92272-1";
-urchinTracker();
-</script>
-</head>
-
+			<title></title>
+			<meta name="description" content="">
+			<meta name="keywords" content="">
+		</head>
 <body>
-<div class="container_12">
 
+<div id="site-wrap" class="container">
 	
-
-<div class="pageHeader">
-    <div class="logo grid_3" style="width: 180px;"><a class="logo" href="http://www.edgetechcorp.com/" style="background: none; text-decoration: none;"><img src="/ASSETS/Images/home/etc-transition-logo.gif" alt="ETC Memory and More" width="180" height="110"></a></div>
-    <div class="grid_4" style="width: 380px;"><a href="/usb-flash-drives/classics.aspx?product_id=21988&amp;pre=64GB"><img src="/assets/images/banners/64gb-flash-drive.jpg" alt="64GB Flash Drive for $39.99" width="340" height="110"></a></div>
-    <div class="grid_5" style="width: 340px;">
-    	
-
-        <div class="nav info"><a href="http://www.edgetechcorp.com/cart/ShoppingCart.aspx">View Cart</a> |
-            <a href="https://www.edgetechcorp.com/cart/UserSignIn.aspx?ReturnUrl=/help/Default.asp?p=priva-pol" id="ctl00_LoginLink"> Sign In</a>
-            | <a href="http://www.edgetechcorp.com/help">Help</a>
-        </div>
-
-        
-
-    <script type="text/javascript">$(document).ready(function(){$("#searchForm :input").keypress(function(a){if(a.which==13){$("#searchForm").submit();a.preventDefault();a.stopPropagation()}});$("#searchForm #q").focus(function(a){if($(this).val()=="Search"){$(this).val("")}});$("#searchForm #q").blur(function(a){if($(this).val()==""){$(this).val("Search")}})});</script>
-<div id="ctl00_SearchControl1_SearchPanel" class="grid_3 search">
-	
-    <form id="searchForm" action="/search.asp" method="get">
-        <input type="hidden" id="p" name="p" value="header">
-        <input type="hidden" id="cx" name="cx" value="003505234548745887545:vm-zjiyviuq">
-        <input type="hidden" id="cof" name="cof" value="FORID:11">
-        <input type="text" id="q" name="q" value="Search">
-        <input type="submit" id="sa" name="sa" value="" class="btn">
-    </form>
-
-</div>
-
-
-<a id="FreeShippingLink" rel="nofollow" href="http://www.edgetechcorp.com/help/?p=shipping-rates"><img src="/assets/images/free-shipping.png" width="148" height="56" alt="Free Shipping" border="0"></a>
-
-    </div>
-</div>
-
-
-
-<div class="menuWrapper">
-    <div class="menu">
-
-        
-
-<ul id="topnavHolder" class="grid_9">
-    <li>
-        <a id="ctl00_TopNavigationControl1_MemoryLink" class="memory main" href="/memory/">Memory</a>
-    </li>
-
-    <li>
-        <a id="ctl00_TopNavigationControl1_SSDLink" class="ssd main" href="/ssd/">SSD</a>
-    </li>
-
-    <li>
-    	<a id="ctl00_TopNavigationControl1_FlashDriveLink" class="flashdrives main" href="/usb-flash-drives/">Flash Drives</a>
-    </li>
-
-    <li>
-        <a id="ctl00_TopNavigationControl1_HardDriveLink" class="harddrives main" href="/storage/">Hard Drives</a>
-    </li>
-    
-</ul>
-
-
-    </div>    
-</div>
-
-</div>
-<div class="container_12 mainPage">
-
-  
-    <div class="grid_12 postfold subpage">
-        
-    	<div class="grid_2 leftnav">
-    	
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div id="ctl00_help" class="container">
-    <h2>Shipping &amp; Delivery</h2>
-    <ul>
-        <li><a href="http://www.edgetechcorp.com/help/?p=shipping-rates">Shipping Rates (US)</a></li>
-        <li><a href="http://www.edgetechcorp.com/help/?p=shipping-rates-can">Shipping Rates (Canada)</a></li>
-        <li><a href="http://www.edgetechcorp.com/help/?p=shipping-restrictions">Shipping Restrictions</a></li>
-        <li><a href="http://www.edgetechcorp.com/help/?p=delivery-estimates">Delivery Estimates</a></li>
-        <li><a href="http://www.edgetechcorp.com/help/?p=tracking-package">Tracking Your Package</a></li>
-    </ul>
-    <h2>Ordering Online</h2>
-    <ul>
-        <li><a href="http://www.edgetechcorp.com/help/?p=place-1order">Placing Your First Order</a></li>
-        <li><a href="http://www.edgetechcorp.com/help/?p=pay-met">Payment Methods</a></li>
-        <li><a href="http://www.edgetechcorp.com/help/?p=pro-ava">Product Availability</a></li>
-        <li><a href="http://www.edgetechcorp.com/help/?p=email">Order Email Notifications</a></li>
-    </ul>
-    <h2>Customer Service</h2>
-    <ul>
-        <li><a href="http://www.edgetechcorp.com/help/?p=ord-sta">Check Order Status</a></li>
-        <li><a href="http://www.edgetechcorp.com/help/?p=cancel-ord">Changing &amp; Canceling Order</a></li>
-        <li><a href="http://www.edgetechcorp.com/help/?p=ret-pol">Returns</a></li>
-        <li><a href="http://www.edgetechcorp.com/support/rebates.asp">Rebates</a></li>
-        <li><a href="http://www.edgetechcorp.com/support/support-request.asp">Submit Support Request</a></li>
-    </ul>
-    <h2>Technical Support</h2>
-    <ul>
-        <li><a href="http://www.edgetechcorp.com/support/default.asp?p=manuals" target="SUPPORT" onclick="var win = window.open(this.href, 'SUPPORT'); win.focus();return false;">User Manuals</a></li>
-        <li><a href="http://www.edgetechcorp.com/support/default.asp?p=faqs" target="SUPPORT" onclick="var win = window.open(this.href, 'SUPPORT'); win.focus();return false;">Knowledgebase</a></li>
-        <li><a href="http://www.edgetechcorp.com/support/default.asp?p=troubleshooter" target="SUPPORT" onclick="var win = window.open(this.href, 'SUPPORT'); win.focus();return false;">Product Troubleshooter</a></li>
-        <li><a href="http://www.edgetechcorp.com/support/warranty-registration.asp">Warranty</a></li>
-        <li><a href="http://www.edgetechcorp.com/support/support-request.asp">Submit Support Request</a></li>
-    </ul>
-    <h2>Privacy and Security</h2>
-    <ul>
-        <li><a href="http://www.edgetechcorp.com/help/?p=email-not">Email Notifications</a></li>
-        <li><a href="http://www.edgetechcorp.com/help/?p=priva-pol">Privacy Policy</a></li>
-        <li><a href="http://www.edgetechcorp.com/help/?p=cc-sec">Credit Card Security</a></li>
-    </ul>
-    <h2>About ETC</h2>
-    <ul>
-        <li><a href="http://www.edgetechcorp.com/help/?p=com-sto">Company Story</a></li>
-        <li><a href="http://www.edgetechcorp.com/help/?p=cont-info">Contact Us</a></li>
-        <li><a href="http://www.edgetechcorp.com/company/press-release/">Latest News</a></li>
-        <li><a href="http://www.edgetechcorp.com/help/?p=wherebuy">Where To Buy EDGE Products</a></li>
-    </ul>
-</div>
-
-
-
-
-
-
-
-
-        </div>
-
-        <div class="grid_8">
-		<!-- START BODY -->
-		<br>
-
-		<div>
+	<div id="header">
+		
+		<div class="row">
 			
-
-			<div class="helpBody">
-				
-				<h1 class="pageTitle">Privacy Policy</h1>
-
-<p>Please read the following information carefully. By accessing Edge Tech Corporation's website, you furnish your acceptance and agreement with these terms. If you do not accept and agree with these terms in full, please do not access this website.</p>
-
-<p>Edge Tech Corp does not rent, sell, or share personal information about you with other people or nonaffiliated companies. When we have your permission, we may occasionally send you promotional information and product specials from Edge Tech Corp. We respect your rights to privacy and always provide a way to be removed from our mailing list.</p>
-
-<p>Edge Tech Corp uses traffic analysis software to help us design and better market our site and products to our customers. This traffic analysis is done at an aggregate level and does not enable us to capture any personally identifying information. Examples of information we collect and analyze include Internet protocol address (IP), referral information, purchase history, email address, entry and exit points, and others.</p>
-
-<p>Edge Tech Corp uses the latest industry standard technologies to ensure your shopping transactions are securely placed. Online transactions are secured using Secure Sockets Layer (SSL) software, which encrypts the personal data on your order.</p>
-
-<p>Edge Tech Corp does not allow any purchases from customers under the age of 13. If you are under the age of 13, please shop online with the aid of a parent or guardian.</p>
-
-<p>By visiting <a href="http://www.edgetechcorp.com">http://www.edgetechcorp.com</a>, you are accepting the practices described in this Privacy Policy.</p>
-
-
-
-			
-				
-
-				
-						
+			<div class="col-md-4">
+				<a href="http://www.edgetechcorp.com/" title="Computer Memory Specialists - Edge Tech Corp"><img src="/shared/img/logo.png" alt="Computer Memory Specialists - Edge Tech Corp" border="0"></a>
 			</div>
-
+			
+			<div class="col-md-4">
+				<form action="http://www.edgetechcorp.com/view/search.cfm" method="get">
+					<div class="form-group">
+						<div class="input-group">
+							<span class="input-group-addon"><span class="glyphicon glyphicon-search"></span></span><input type="text" name="criteria" class="form-control" placeholder="Search..."><span class="input-group-btn"><button type="submit" class="btn btn-primary">Go</button></span>
+						</div>
+					</div>
+				</form>
+			</div>
+			
+			<div class="col-md-4 align-center">
+				<p>
+					<span class="glyphicon glyphicon-shopping-cart"></span> <a href="http://www.edgetechcorp.com/cart/">Cart (0)</a> &nbsp; 
+					<span class="glyphicon glyphicon-cog"></span> <a href="https://www.edgetechcorp.com/account/">Account</a> &nbsp; 
+					<span class="glyphicon glyphicon-check"></span> <a href="http://www.edgetechcorp.com/newsletter/">Newsletter</a> &nbsp; 
+					<span class="glyphicon glyphicon-question-sign"></span> <a href="http://www.edgetechcorp.com/contact-us/">Contact</a>
+				</p>
+				<p><strong>800-259-6565</strong> &nbsp; <script src="http://support.edgetechcorp.com/JavaScript.ashx?fileMask=Optional/ChatScripting"></script><script src="http://support.edgetechcorp.com/ChatScript.ashx?config=19&amp;id=ControlID"></script> - <a href="http://www.edgetechcorp.com/shipping/">Shipping</a> - <a href="http://www.edgetechcorp.com/returns/">Returns</a></p>
+			</div>
+			
 		</div>
-		<!-- END BODY -->
-
-
-       	</div>
-            
-        <div class="grid_2 omega ie6-rightmenu">
-            <div id="RightNav">
-            <!-- RIGHT SIDE STUFF HERE -->
-		    <table class="featureBox3" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr>
-	<td class="TopLeft"></td>
-	<td class="Top"></td>
-	<td class="TopRight"></td>
-</tr>
-<tr>
-	<td class="MiddleLeft"></td>
-	<td class="Middle">
-
-        <div id="LivePersonWrapper">
-        
-<!-- BEGIN FUSION TAG CODE - DO NOT EDIT! --><div><div id="proactivechatcontainer8z4ehyxc2w"></div><table border="0" cellspacing="2" cellpadding="2"><tbody><tr><td align="center" id="swifttagcontainer8z4ehyxc2w"><div style="display: inline;" id="swifttagdatacontainer8z4ehyxc2w"></div><script type="text/javascript" src="http://edge.helpserve.com/visitor/index.php?/Default/LiveChat/HTML/HTMLButton/cHJvbXB0dHlwZT1jaGF0JnVuaXF1ZWlkPTh6NGVoeXhjMncmdmVyc2lvbj00LjAxLjE3OSZwcm9kdWN0PUZ1c2lvbiZjdXN0b21vbmxpbmU9aHR0cCUzQSUyRiUyRnd3dy5lZGdldGVjaGNvcnAuY29tJTJGYXNzZXRzJTJGaW1hZ2VzJTJGY2hhdC5wbmcmY3VzdG9tb2ZmbGluZT1odHRwJTNBJTJGJTJGd3d3LmVkZ2V0ZWNoY29ycC5jb20lMkZhc3NldHMlMkZpbWFnZXMlMkZjaGF0LnBuZyZjdXN0b21hd2F5PWh0dHAlM0ElMkYlMkZ3d3cuZWRnZXRlY2hjb3JwLmNvbSUyRmFzc2V0cyUyRmltYWdlcyUyRmNoYXQucG5nJmN1c3RvbWJhY2tzaG9ydGx5PWh0dHAlM0ElMkYlMkZ3d3cuZWRnZXRlY2hjb3JwLmNvbSUyRmFzc2V0cyUyRmltYWdlcyUyRmNoYXQucG5nCjM1NDQwZDAyOTgzOWEwMTgyMzQyMDYzMzU3MGEzMGEyYzJhNTZkZDc="></script></td></tr></tbody></table></div><script type="text/javascript">var swiftscriptelem8z4ehyxc2w=document.createElement("script");swiftscriptelem8z4ehyxc2w.type="text/javascript";var swiftrandom = Math.floor(Math.random()*1001); var swiftuniqueid = "8z4ehyxc2w"; var swifttagurl8z4ehyxc2w="http://edge.helpserve.com/visitor/index.php?/Default/LiveChat/HTML/HTMLButton/cHJvbXB0dHlwZT1jaGF0JnVuaXF1ZWlkPTh6NGVoeXhjMncmdmVyc2lvbj00LjAxLjE3OSZwcm9kdWN0PUZ1c2lvbiZjdXN0b21vbmxpbmU9aHR0cCUzQSUyRiUyRnd3dy5lZGdldGVjaGNvcnAuY29tJTJGYXNzZXRzJTJGaW1hZ2VzJTJGY2hhdC5wbmcmY3VzdG9tb2ZmbGluZT1odHRwJTNBJTJGJTJGd3d3LmVkZ2V0ZWNoY29ycC5jb20lMkZhc3NldHMlMkZpbWFnZXMlMkZjaGF0LnBuZyZjdXN0b21hd2F5PWh0dHAlM0ElMkYlMkZ3d3cuZWRnZXRlY2hjb3JwLmNvbSUyRmFzc2V0cyUyRmltYWdlcyUyRmNoYXQucG5nJmN1c3RvbWJhY2tzaG9ydGx5PWh0dHAlM0ElMkYlMkZ3d3cuZWRnZXRlY2hjb3JwLmNvbSUyRmFzc2V0cyUyRmltYWdlcyUyRmNoYXQucG5nCjM1NDQwZDAyOTgzOWEwMTgyMzQyMDYzMzU3MGEzMGEyYzJhNTZkZDc=";setTimeout("swiftscriptelem8z4ehyxc2w.src=swifttagurl8z4ehyxc2w;document.getElementById('swifttagcontainer8z4ehyxc2w').appendChild(swiftscriptelem8z4ehyxc2w);",1);</script><!-- END FUSION TAG CODE - DO NOT EDIT! -->
-
-        </div>
-
-		<div class="navRightText" style="margin-top:50px;">
-			<b>Technical Support:</b>
-			<hr class="rightNav">
-			Online: <a href="/support/support-request.asp">Submit Request </a><br>
-			Phone: 800-259-6565<br>
-			Fax: 580-310-6517<br>
-            <br><br>
-			<b>Support Hours:</b>
-			<hr class="rightNav">
-            8am - 5pm (CDT/CST)<br>
-            Monday - Friday<br>
-            <br><br>
-			<b>Rebate Support:</b>
-			<hr class="rightNav">
-            Common Questions: <a href="/support/rebates-help.asp">Learn More</a><br>
-            Online: <a href="/support/rebate-request.asp">Submit Question</a><br>
-            <br><br>
-			<b>How are we doing?</b>
-			<hr class="rightNav">
-            Please take a moment to fill out this <a href="/support/support/all/cs_survey.asp">short survey.</a>
-		</div>
-	</td>
-	<td class="MiddleRight"></td>
-</tr>
-<tr>
-	<td class="BottomLeft"></td>
-	<td class="Bottom"></td>
-	<td class="BottomRight"></td>
-</tr>
-</tbody></table> 
-		    </div>
-        </div>
+		
 	</div>
-
-</div>
-
-<script type="text/javascript" src="/assets/js/hoverMenu.plugin.js?e"></script>
-<script type="text/javascript" language="javascript">
-    $(document).ready(function() {
-        $("ul#topnavHolder").replaceWith($("ul#topnav"));
-        $("ul#topnav:first li").show().not(":has(a.flashdrives,a.accessories)").hoverMenu();
-        $("ul#topnav:first li:has(a.flashdrives,a.accessories)").hoverMenu(300);
-    });
-</script>
-<div style="display: none;">
-
-<ul id="topnav" class="grid_9">
-    <li class="memoryListItem">
-        <a id="ctl00_myTopNavigationControl_MemoryLink" class="memory main" href="http://www.edgetechcorp.com/memory/">Memory</a>
-    	<div class="sub">
-        	<ul>
-                    	<li><h2><a href="http://www.edgetechcorp.com/memory/popular-manufacturer-memory.aspx">Shop By System</a></h2><div class="line">&nbsp;</div></li>
-                        
-                <li><a href="http://www.edgetechcorp.com/acer.memory">Acer Memory</a></li>
-                <li><a href="http://www.edgetechcorp.com/apple.memory">Apple Memory</a></li>
-                <li><a href="http://www.edgetechcorp.com/compaq.memory">Compaq Memory</a></li>
-                <li><a href="http://www.edgetechcorp.com/dell.memory">Dell Memory</a></li>
-                <li><a href="http://www.edgetechcorp.com/gateway.memory">Gateway Memory</a></li>
-                <li><a href="http://www.edgetechcorp.com/hp.memory">HP Memory</a></li>
-                <li><a href="http://www.edgetechcorp.com/ibm.memory">IBM Memory</a></li>
-                <li><a href="http://www.edgetechcorp.com/lenovo.memory">Lenovo Memory</a></li>
-                <li><a href="http://www.edgetechcorp.com/sony-vaio.memory">Sony VAIO Memory</a></li>
-                <li><a href="http://www.edgetechcorp.com/toshiba.memory">Toshiba Memory</a></li>
-                <li><a href="http://www.edgetechcorp.com/memory/popular-manufacturer-memory.aspx"><span>More...</span></a></li>
-                        
-                    </ul>
-                    <ul>
-                    	<li><h2><a rel="nofollow" href="javascript:void(0);">Shop By Use</a></h2><div class="line">&nbsp;</div></li>
-                        
-                <li><a href="http://www.edgetechcorp.com/memory/notebook-memory.aspx">Laptop Memory</a></li>
-                <li><a href="http://www.edgetechcorp.com/memory/desktop-memory.aspx">Desktop Memory</a></li>
-                <li><a href="http://www.edgetechcorp.com/memory/server-memory.aspx">Server Memory</a></li>
-                <li><a href="http://www.edgetechcorp.com/memory/printer-memory.aspx">Printer Memory</a></li>
-                <li><a href="http://www.edgetechcorp.com/memory/netbook-memory.aspx">Netbook Memory</a></li>
-                        
-                    </ul>
-                    <ul>
-                    	<li><h2><a rel="nofollow" href="javascript:void(0);">Shop By Type</a></h2><div class="line">&nbsp;</div></li>
-                        
-                        <li><h3><a href="http://www.edgetechcorp.com/memory/ddr3">DDR3</a></h3></li>
-
-                <li><a href="http://www.edgetechcorp.com/memory/PC3-10600.aspx">PC3-10600</a></li>
-                <li><a href="http://www.edgetechcorp.com/memory/PC3-8500.aspx">PC3-8500</a></li>
-
-                        <li><h3><a href="http://www.edgetechcorp.com/memory/ddr2">DDR2</a></h3></li>
-
-                <li><a href="http://www.edgetechcorp.com/memory/PC2-6400.aspx">PC2-6400</a></li>
-                <li><a href="http://www.edgetechcorp.com/memory/PC2-5300.aspx">PC2-5300</a></li>
-                <li><a href="http://www.edgetechcorp.com/memory/PC2-4200.aspx">PC2-4200</a></li>
-                <li><a href="http://www.edgetechcorp.com/memory/PC2-3200.aspx">PC2-3200</a></li>
-
-                <li><h3><a href="http://www.edgetechcorp.com/memory/ddr">DDR</a></h3></li>
-
-                <li><a href="http://www.edgetechcorp.com/memory/PC-2100.aspx">PC2100</a></li>
-                <li><a href="http://www.edgetechcorp.com/memory/PC-2700.aspx">PC2700</a></li>
-                <li><a href="http://www.edgetechcorp.com/memory/PC-3200.aspx">PC3200</a></li>
-                    </ul>
-                    <ul>
-                    	<li><h2>&nbsp;</h2><div>&nbsp;</div></li>
-                        <li></li>
-                        <li></li>
-
-                <li><h3><a href="http://www.edgetechcorp.com/memory/rambus">RAMBUS</a></h3></li>
-                <li><a href="http://www.edgetechcorp.com/memory/PC-800-RAMBUS.aspx">PC800</a></li>
-
-                        <li><h3><a href="http://www.edgetechcorp.com/memory/sdram">SDRAM</a></h3></li>
-
-                <li><a href="http://www.edgetechcorp.com/standard-dimms-pc133-sdram.memory">PC133</a></li>
-                <li><a href="http://www.edgetechcorp.com/standard-dimms-pc100-sdram.memory">PC100</a></li>
-                <li><a href="http://www.edgetechcorp.com/standard-dimms-pc66-sdram.memory">PC66</a></li>
-
-                        <li><h3><a href="http://www.edgetechcorp.com/memory/simm">SIMM</a></h3></li>
-
-                <li><a href="http://www.edgetechcorp.com/standard-dimms-pc66-sdram.memory">EDO</a></li>
-                <li><a href="http://www.edgetechcorp.com/standard-simms-desktops-fast-page-mode.memory">FPM</a></li>
-                    </ul>
-                </div>
-    </li>
 	
-        <!--BEGIN SSD-->
-    <li class="ssdListItem">
-        <a id="ctl00_myTopNavigationControl_SSDLink" class="ssd main" href="http://www.edgetechcorp.com/ssd/">SSD</a>
-        <div class="sub">
-        	<ul>
-        	    <li><h2><a href="http://www.edgetechcorp.com/ssd/">Solid State Drives</a></h2><div class="line">&nbsp;</div></li>
-                <li><a href="http://www.edgetechcorp.com/ssd/zoom-solid-state-drive.aspx">Zoom SSD</a></li>
-                <li><a href="http://www.edgetechcorp.com/ssd/blaze-solid-state-drive.aspx">Blaze SSD</a></li>
-                <li><a href="http://www.edgetechcorp.com/ssd/blaze-pro-solid-state-drive.aspx">Blaze Pro SSD</a></li>
-                <li><a href="http://www.edgetechcorp.com/ssd/blaze-micro-solid-state-drive.aspx">Blaze Micro SSD</a></li>
+	
+		
+		<div class="navbar">
+			
+			<div class="navbar-inner">
+					
+				<div class="navbar-header">
+					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+						<span class="icon-bar"></span>
+					</button>
+				</div>
+			
+				<div class="collapse navbar-collapse navbar-ex1-collapse">
+					<ul class="nav navbar-nav">
+						<li><a href="http://www.edgetechcorp.com/configure-memory/" title="Memory">Memory</a></li>
+						<li><a href="http://www.edgetechcorp.com/view/ssd/" title="SSD">SSD</a></li>
+						<li><a href="http://www.edgetechcorp.com/view/flash-drives/" title="Flash Drives">Flash Drives</a></li>
+						<li><a href="http://www.edgetechcorp.com/view/hard-drives/" title="Hard Drives">Hard Drives</a></li>
+					</ul>
+				</div>
+				
+			</div>
+			
+		</div>
+		
+	
+	
+	<div id="content">
+		
 
-            </ul>
-            <ul>
-        	    <li><h2><a href="#" onclick="return false;">Accessories</a></h2><div class="line">&nbsp;</div></li>
-                <li><a href="http://www.edgetechcorp.com/ssd/blaze-notebook-upgrade-kit.aspx">Notebook Upgrade Kit</a></li>
-                <li><a href="http://www.edgetechcorp.com/ssd/blaze-desktop-upgrade-kit.aspx">Desktop Upgrade Kit</a></li>
-                <li><a href="http://www.edgetechcorp.com/ssd/blaze-server-upgrade-kit.aspx">Server Upgrade Kit</a></li>
-            </ul>
-			<ul>
-            	<li><h2><a href="javascript:void(0);">Overstock Sale</a></h2><div class="line">&nbsp;</div></li>
-                <li><a href="http://www.edgetechcorp.com/storage/overstocked-items.aspx">External Drives</a></li>
-            </ul>
-        </div>
-    </li>
-    <!--END SSD-->
-    
-    
-    <li class="flashDriveListItem">
-    	<a id="ctl00_myTopNavigationControl_FlashDriveLink" class="flashdrives main" href="http://www.edgetechcorp.com/usb-flash-drives/">Flash Drives</a>
-        <div class="sub">
-        	<ul>
-            	<li><h2><a href="javascript:void(0)">Shop By Type</a></h2><div class="line">&nbsp;</div></li>
-                <li><a href="http://www.edgetechcorp.com/usb-flash-drives/mini-flash-drive-black.aspx">Mini</a></li>
-                <li><a href="http://www.edgetechcorp.com/usb-flash-drives/classics.aspx">Classic</a></li>
-                <li><a href="http://www.edgetechcorp.com/usb-flash-drives/secure-flash-drives.aspx">Secure</a></li>
-                <li><a href="http://www.edgetechcorp.com/usb-flash-drives/usb-3-flash-drives.aspx">USB 3.0</a></li>
-            </ul>
-            
-        </div>
-    </li>
-
-    <li class="hardDriveListItem">
-        <a id="ctl00_myTopNavigationControl_HardDriveLink" class="harddrives main" href="http://www.edgetechcorp.com/storage/">Hard Drives</a>
-        <div class="sub">
-    
-        	<ul>
-            	<li><h2><a href="javascript:void(0);">Shop By Type</a></h2><div class="line">&nbsp;</div></li>
-                <li><a href="http://www.edgetechcorp.com/storage/external-hard-drives.aspx">External</a></li>
-                <li><a href="http://www.edgetechcorp.com/storage/portable-hard-drives.aspx">Portable</a></li>
-                <li><a href="http://www.edgetechcorp.com/storage/backup-hard-drives.aspx">Backup</a></li>
-                <li><a href="http://www.edgetechcorp.com/ssd/">Blaze SSD</a></li>
-            </ul>
-
-            <ul>
-            	<li><h2><a href="javascript:void(0);">Shop By Connectivity</a></h2><div class="line">&nbsp;</div></li>
-                <li><a href="http://www.edgetechcorp.com/storage/usb-3-hard-drive.aspx">USB 3.0</a></li>
-                <li><a href="http://www.edgetechcorp.com/storage/usb-hard-drives.aspx">USB 2.0/1.1</a></li>
-                <li><a href="http://www.edgetechcorp.com/storage/quad-hard-drive.aspx">Firewire 400/800</a></li>
-                <li><a href="http://www.edgetechcorp.com/ssd/blaze-solid-state-drive.aspx">SATA</a></li>
-            </ul>
-    
-            <ul>
-            	<li><h2><a rel="nofollow" href="javascript:void(0);">Overstock Sale</a></h2><div class="line">&nbsp;</div></li>
-                <li><a href="http://www.edgetechcorp.com/storage/overstocked-items.aspx">Portable / External Drives</a></li>
-            </ul>
-
-        </div>
-    </li>
-
+	
+	<div class="row">
+		
+		<div class="col-md-3">
+			
+			<ul class="nav nav-tabs nav-stacked">
+	<li class="nav-header">Shop By System</li>
+        <li><a href="/configure-memory/acer/">Acer Memory</a></li>
+	<li><a href="/configure-memory/apple/">Apple Memory</a></li>
+	<li><a href="/configure-memory/compaq-hp/">Compaq Memory</a></li>
+	<li><a href="/configure-memory/dell/">Dell Memory</a></li>
+	<li><a href="/configure-memory/gateway/">Gateway Memory</a></li>
+	<li><a href="/configure-memory/compaq-hp/">HP Memory</a></li>
+	<li><a href="/configure-memory/ibm/">IBM Memory</a></li>
+	<li><a href="/configure-memory/lenovo/">Lenovo Memory</a></li>
+        <li><a href="/configure-memory/sony/">Sony Memory</a></li>
+        <li><a href="/configure-memory/toshiba/">Toshiba Memory</a></li>
+        <li><a href="/configure-memory/">More...</a></li>
 </ul>
+<ul class="nav nav-tabs nav-stacked">
+	<li class="nav-header">Shop By Type</li>
+        <li><a href="/view/ddr3/">DDR3</a></li>
+	<li><a href="/view/ddr2/">DDR2</a></li>
+	<li><a href="/view/ddr/">DDR</a></li>
+	<li><a href="/view/rdram/">RDRAM</a></li>
+	<li><a href="/view/sdram/">SDRAM</a></li>
+	<li><a href="/view/edo/">EDO</a></li>
+	<li><a href="/view/fpm/">FPM</a></li>
+</ul>
+
+			
+		</div>
+		
+		<div class="col-md-9">
+			
+			<h1>Privacy Policy</h1>
+			
+			<p>
+	Please read the following information carefully. By accessing Edge Tech Corporation's website, you furnish your acceptance and agreement with these terms. If you do not accept and agree with these terms in full, please do not access this website.</p>
+<p>
+	Edge Tech Corp does not rent, sell, or share personal information about you with other people or nonaffiliated companies. When we have your permission, we may occasionally send you promotional information and product specials from Edge Tech Corp. We respect your rights to privacy and always provide a way to be removed from our mailing list.</p>
+<p>
+	Edge Tech Corp uses traffic analysis software to help us design and better market our site and products to our customers. This traffic analysis is done at an aggregate level and does not enable us to capture any personally identifying information. Examples of information we collect and analyze include Internet protocol address (IP), referral information, purchase history, email address, entry and exit points, and others.</p>
+<p>
+	Edge Tech Corp uses the latest industry standard technologies to ensure your shopping transactions are securely placed. Online transactions are secured using Secure Sockets Layer (SSL) software, which encrypts the personal data on your order.</p>
+<p>
+	Edge Tech Corp does not allow any purchases from customers under the age of 13. If you are under the age of 13, please shop online with the aid of a parent or guardian.<br>
+	By visiting <a href="http://www.edgetechcorp.com">http://www.edgetechcorp.com</a>, you are accepting the practices described in this Privacy Policy.</p>
+
+			
+		</div>
+		
+	</div>
+	
+
+	
+	</div>
+	
+	<div id="footer">
+		
+		<div id="footer-row1">
+			<div class="row">
+				<div class="col-md-12 align-center">
+					<a href="http://www.edgetechcorp.com/" title="Legal">Home</a> | 
+					<a href="http://www.edgetechcorp.com/about-us/" title="About">About</a> | 
+					<a href="http://www.edgetechcorp.com/help/" title="Security">Help</a> | 
+					<a href="http://www.edgetechcorp.com/faq/" title="Terms">FAQs</a> | 
+					<a href="http://www.edgetechcorp.com/contact-us/" title="Contact">Contact</a> | 
+					<a href="http://www.edgetechcorp.com/terms/" title="Terms">Terms</a> | 
+					<a href="http://www.edgetechcorp.com/privacy/" title="Privacy">Privacy</a> | 
+					<a href="http://www.edgetechcorp.com/sitemap/" title="Sitemap">Sitemap</a> | 
+					<a href="https://www.edgetechcorp.com/account/tracking.cfm" title="Track Your Order">Track Your Order</a>
+				</div>
+			</div>
+		</div>
+		
+		<div id="footer-row2">
+			<div class="row">
+				<div class="col-md-12 align-center">
+					<p>Copyright © 2014, Edge Tech Corp, All rights reserved.</p>
+				</div>
+			</div>
+		</div>
+		
+	</div>
+	
 </div>
-<div id="ctl00_FooterWrapper" class="footer">
-<div class="insideWrapper">
-	<h2>About ETC</h2>
-        <img class="jeff" width="97" height="104" src="/assets/images/ftr-jeff.jpg" alt="ETC Founder and CEO Jeff Thompson" align="left">
-        <p>Edge Tech Corp, an ISO 9001:2008-certified company founded in 1986, is a leading supplier of computer memory upgrades, portable computing products, storage devices, and other experience-enhancing technology solutions.</p>
-        <p>At the age of 14, ETC’s president and CEO, Jeff Thompson, began the company with $2,500 he had saved from a newspaper route in Ada, Oklahoma. With a fascination for the technology market, he began buying and selling computer parts in the Dallas Morning News. Today, ETC is one of the largest and most respected companies in its industry...	<a href="/company/">(read more)</a></p>
-        
-    <div class="footer-links">
-        <h3><a href="/site-map.asp">Products</a></h3>
-            <ul>
-                <li>Memory for Popular Systems</li>
-                <li>All Memory</li>
-                <li>Non-Memory Products</li>
-                <li>SSD</li>
-                <li>Flash Drives</li>
-                <li>Hard Drives</li>
-                <li>Standard Memory Configuration Guide</li>
-            </ul>
-        <h3><a href="/services/affiliates.asp">Affiliates</a></h3>
-            <ul>
-				<li>Memory Finder Widget</li>
-                <li>Join Program</li>
-                <li>ETC Coupon Codes</li>
-            </ul>
-    </div>
-    
-    <div class="footer-links">
-        <h3><a href="/company/">Company</a></h3>
-            <ul>
-                <li>About Us</li>
-                <li>Blog</li>
-                <li>Contact Us</li>
-                <li>Press</li>
-                <li>Careers</li>
-                <li>ISO 9001:2008</li>
-                <li>Recycle Memory</li>
-            </ul>
-        <h3><a href="/help/">Help Center</a></h3>
-            <ul>
-                <li>Shipping Rates</li>
-                <li>Delivery Estimates</li>
-                <li>Return Policy</li>
-            </ul>
-    </div>
-        
-    <div class="footer-links">
-        <h3><a href="/support/" target="SUPPORT" onclick="var win = window.open(this.href, 'SUPPORT'); win.focus();return false;">Support</a></h3>
-            <ul>
-                <li>Downloads</li>
-                <li>FAQs</li>
-                <li>Troubleshooting</li>
-                <li>Support Request</li>
-                <li><a href="/support/rebates-download.asp">Rebates</a></li>
-                <li><a href="/support/warranty-registration.asp">Warranty Info</a></li>
-                <li><a href="/help/">Help</a></li>
-            </ul>
-    </div> 
-
-    <div id="boilerplate">
-        <p>Copyright © 2012 Edge Tech Corp. All Rights Reserved.
-        14901 Quorum Drive, Suite 125 Dallas, TX 75254  |  212 N Broadway Ada, OK 74820</p>
-        <p align="center"><a href="/help/?p=priva-pol">Privacy Policy  |</a><a href="/help/?p=terms">  Terms &amp; Conditions  |</a><a href="/site-map.asp">  Site Map</a></p>
-    </div>
-
-</div>
-   
-</div>
- 
 
 
 
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script src="/bootstrap/latest/js/bootstrap.min.js"></script>
+<script src="/shared/js/application.js"></script>
 
-</body></html>
+
+	
+	
+	<script>
+		/* <![CDATA[ */
+		var google_conversion_id = 1070609546;
+		var google_conversion_label = "OQLgCIylvQEQiunA_gM";
+		var google_custom_params = window.google_tag_params;
+		var google_remarketing_only = true;
+		/* ]]> */
+	</script>
+	<script src="//www.googleadservices.com/pagead/conversion.js"></script>
+	<noscript>
+		<img src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1070609546/?value=0&amp;label=OQLgCIylvQEQiunA_gM&amp;guid=ON&amp;script=0">
+	</noscript>
+	
+
+
+
+ </body></html>
