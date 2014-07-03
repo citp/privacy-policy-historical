@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the englishgrammar.org privacy policy that was archived on 2014-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140530232240id_/http%3A//www.englishgrammar.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the englishgrammar.org privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704013900id_/http%3A//www.englishgrammar.org/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
