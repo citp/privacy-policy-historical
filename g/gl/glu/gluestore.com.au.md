@@ -1,90 +1,57 @@
-> *The following text is extracted and transformed from the gluestore.com.au privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214170712id_/http%3A//www.gluestore.com.au/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gluestore.com.au privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703101831id_/http%3A//www.gluestore.com.au/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Glue Store Privacy Policy Online | About Us | Glue Store - Glue Store
 
-**Last Updated: 28/02/13**
+**Last Updated: 22/05/13**
 
-## 1\. Glue Store's Commitment To Privacy
+## 1\. Our Commitment To Privacy
 
-1.1. In this policy, “We”, “Us”, “Our”, “Glue Store” or “gluestore.com.au” means Next Athleisure Pty Limited trading as Glue Store (ABN 47 083 404 424), its subsidiaries and associates (unless otherwise stated).
+Next Athleisure and Austradia respect your privacy and as a Company we are committed to ensuring we handle all personal information you provide to us in accordance with the National Privacy Principles and the Privacy Act 1988 (Cth).
 
-1.2. Your privacy is important to us, and we take your privacy seriously. This Privacy Policy will cover how we manage personal information across our business. It applies to Glue Store, and to each wholly owned subsidiary of Next Athleisure Pty Limited, and to the practices of the agents and contractors enaged by us. It also applies to your use of any Glue Store-owned website and your dealings with us as a customer or subscriber.
+## 2\. Purpose
 
-1.3. We may update our policies and this Privacy Policy from time to time. We will always publish a link to our current T&Cs from the website homepage at gluestore.com.au. You may also request a copy by [contacting us](https://web.archive.org/contacts/ "Contact Us").
+The Privacy Policy explains how we manage personal information we collect about you, what information we may collect and how we use your personal information.
 
-## 2\. Types of personal information we collect
+### 3\. What Information We Collect, And How We Use It
 
-2.1. The types of personal information we collect will vary depending on your dealings with us, and the products, services and benefits we provide to you. This information may include any or all of the following:
+We collect personal information from you so we can provide you with our services, making it easier and more rewarding for you to use our website and services. We may collect personal information from you such as your name, address, phone number, e-mail address, date of birth and transaction information (including credit card and details). Any personal information you provide to us is always used for a specific purpose. For example, when applying for jobs, lay-bys, purchasing items on-line, entering store and online competitions or when signing up for our membership. We will not use your personal information for other purposes without first obtaining your consent.
 
-  * \- Name, adress(es), phone number(s) and other contact details
-  * \- Email addresses
-  * \- Date of birth
-  * \- Gender
-  * \- Transaction details relating to your use of our products or services
-  * \- Any preferences you tell us about
+If you receive marketing materials from the Company and you no longer which to receive this, you have the opportunity to opt-out.
 
+How much of your personal information you choose to disclose to us is up to you. However if you choose to withhold requested and required information, we may be unable to provide you with the services you require.
 
+When you visit our website, we may also collect anonymous information from you through the use of cookies and tracking technology. We collect information such as the date and time people visit our website, what pages you are viewing, the length of time spent on the website, your IP address, and the internet browser used. Anonymous information is collected purely for statistical purposes and in order for us to improve the website or services we provide to you. Cookies can be turned off on your web browser; however this may affect the useability of the website.
 
-2.2. Information is also generated whenever a page is accessed on our website that records specific information, such as the time, date and specific page. We collect such information for statistical and maintenance purposes so that we can evaluate and improve our website performance, and service to you.
+## 4\. Disclosure
 
-2.3. Some parts of our website use "cookies". A cookie is a small text file that is placed on your computer's hard-drive by a web page server. Cookies store information about your use of our website, and enable us to identify new or previous visitors, and provide additional benefits to you, such as retaining products that were added to the cart last time you visited. Most web browsers are set to accept cookies, but this function can be disabled if you wish, however please be aware that if you choose to do this, some functionality of our website will not be available to you.
+There are times when it is necessary for us to disclose your personal information to our service providers who provide services in connection with our product and services. However we do not share personal information for any other purpose other than that which it was disclosed. We do not provide or sell personal information to other organisations unless you have authorised us to do so.
 
-## 3\. Why we collect personal information
+## 5\. Keeping Personal Information Secure
 
-3.1. In broad terms, we collect information about customers to provide a range of products, services and benefits. We also collect personal information to assist in identifying ways we can serve you better, and in a more effective and relevant manner. Personal information at times may also assist our internal administration and operations, including accounting, risk management, record keeping, archiving, systems development and testing, and staff training.
+The Company takes all reasonable steps to ensure the security of any personal information which you have provided, including using secure data networks and data encryption. Access to personal information is limited to authorised Team Members to prevent misuse and unlawful disclosure of the information.
 
-3.2. Some of the information we collect is for the purpose of improving our interaction with customers, and their involvement with us.
+## 6\. Keeping Information Accurate
 
-## 4\. How we collect personal information
+We will take reasonable steps to ensure that the information we hold about you is accurate, complete and up to date. You can contact us at any time and ask for your information to be updated if you are concerned it might be in accurate.
 
-4.1. In broad terms, we collect personal information from you, such as when you create an online account, subscribe to our e-newsletter, transact with us, or partake in a service, in the course of providing you that service, or when you have other dealings with us.
+## 7\. Gaining Access To Personal Information
 
-4.2. We may collect and update personal information over the phone, over the internet, in person (at a Glue Store or Super Glue Store, for example), when you write to us, or if you participate in our marketing campaigns.
+You may gain access to your personal information at any time (except in the limited circumstances recognised by Privacy Law). Before we provide you with access, we will require you to provide us with proof of identity to ensure that personal information is provided only to the correct individual and that the privacy of others is not undermined. If you require access to your personal information, please contact our Privacy Officer.
 
-## 5\. Storage and protection of personal information
+## 8\. Complaints About Privacy
 
-5.1. We store personal information in a combination of secure computer facilities and paper-based files and other records. In so doing, we have taken steps to protect your personal information from misuse, loss and unauthorised access, modification or disclosure
+If you have any issues relating to privacy that you would like to discuss with us, you are welcome to contact our Privacy Officer via letter, e-mail or telephone. The Privacy Officer will do their best to resolve your issue within a timely manner.
 
-5.2. We use a RapidSSL CA SSL certificate from GEO Trust Inc for extra security. This is a high-grade Encryption key (Camellia-256, 256 bit encryption key) that ensures your payment and personal info remains secure during your payment. When you’re shopping online we give you the option of saving your credit card details, to make things quicker next time you shop with us. Your details are securely stored at Eway (our payment partner), which is PCI DSS compliant
+## 9\. Contacting Us
 
-5.3. Additionally, we take reasonable steps to destroy or permenantly de-identify personal information when we no longer need it. We impose strict requirements of security and confidentiality on all third parties as to how they store, handle and deal with your personal information.
+You can contact our Privacy Officer at:
 
-## 6\. How we use personal information
+Address: Level 3, 80 George Street, The Rocks NSW 2000
 
-6.1. We may use and disclose your personal information for a variety of purposes in connection with servicing you as a customer or subscriber, and in relation to our business operations. This could include:
+Telephone: 02 8256 8400
 
-  * \- Processing and administrating your transactions or dealings with us as a customer
-  * \- Providing you with the products and services you have requested from us
-  * \- Developing processes, products, services and benefits to better meet your needs
-  * \- Disclosing your information for use by relevant parties in connection to your transaction or service
-  * \- Conducting market research, and marketing our products and services to you more generally
+Email: privacy@nextathleisure.com.au
 
+## 10\. Changes To Our Privacy Policy
 
-
-6.2. We may also use your personal information to offer or provide you with loyalty benefits, discounts or other such activities that may be operated by us or third parties. This could include:
-
-  * \- Providing your personal information to companies within Next Athleisure Pty Limited
-  * \- Obtaining details about how you acquire and use our products, services and benefits
-  * \- Rewarding customers for utilising our products and services through mechanisms such as discounts, special pricing offers and prices
-  * \- Disclosing your information for use by relevant parties in connection to your transaction or service
-  * \- Targeting appropriate marketing of products and services to you
-
-
-
-## 7\. Access to personal information
-
-7.1. We will take reasonable steps to make sure that the personal information we collect, use or disclose is accurate, complete and up-to-date. If your personal details change, such as your address or phone number, please [contact us](https://web.archive.org/contacts/ "Contact Us") to update your details.
-
-7.2. Following a request, we will provide you with a copy of any personal information which we hold about you in accordance with our obligations under the Privacy Act. We may charge a fee for retrieving this information, in which case we will inform you of the fee in advance of providing the information.
-
-7.3. We will promptly acknowledge and investigate any complaint about the way we manage personal information.
-
-## 8\. Contacting us
-
-8.1. If you have any questions about this privacy statement, if you wish to update information we hold about you or if you wish to make a complaint, please write to:
-
-The Privacy Officer
-
-  
-Level 3, 80 George St   
-The Rocks NSW 2000
+The Company reserves the right to amend or update this Policy at any time. When this occurs, we will post the new Privacy Policy on our website.
