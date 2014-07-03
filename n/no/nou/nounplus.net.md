@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nounplus.net privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210172532id_/http%3A//www.nounplus.net/Privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nounplus.net privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703081604id_/https%3A//www.nounplus.net/Privacy_policy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
