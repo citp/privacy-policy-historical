@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toggon.com privacy policy that was archived on 2014-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140418010538id_/http%3A//www.toggon.com/general/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toggon.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703220719id_/http%3A//www.toggon.com/general/privacy-policy) for the most accurate reproduction.*
 
 # Toggon.com - Needs sharing social platform - Post free ads on needs related to jobs, services, products and customers
 
