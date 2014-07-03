@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the walksofitaly.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213091140id_/http%3A//www.walksofitaly.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the walksofitaly.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703173742id_/http%3A//www.walksofitaly.com/privacy_policy) for the most accurate reproduction.*
 
 # Walks of Italy | Privacy Policy when Booking a Walking Tour
 
@@ -95,5 +95,4 @@ http://www.walksofitaly.com
 105 Bent Tree Trail  
 Lafayette, LA 70508  
 USA  
-webmaster@walksofitaly.com  
-12026846916
+webmaster@walksofitaly.com
