@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the seekingmillionaire.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214121322id_/https%3A//www.seekingmillionaire.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seekingmillionaire.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703211116id_/https%3A//www.seekingmillionaire.com/privacy.php) for the most accurate reproduction.*
 
-# Rich Dating | Privacy Policy | SeekingMillionaire.com
+# Millionaire Dating Sites | Rich Dating | SeekingMillionaire.com
 
 ## Privacy Policy
 
