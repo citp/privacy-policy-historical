@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sendhub.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331034718id_/https%3A//www.sendhub.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sendhub.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703044419id_/https%3A//www.sendhub.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - SendHub
 
@@ -16,7 +16,7 @@ We will only retain personal information as long as necessary for the fulfillmen
 
 We will collect personal information by lawful means and, where appropriate, with your knowledge or consent.
 
-We do not track or honor “Do Not Track” signals sent from any web browser or any other device, mechanism, or software used to access the Website. 
+We do not track or honor “Do Not Track” signals sent from any web browser or any other device, mechanism, or software used to access the Website.
 
 Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date.
 
@@ -39,7 +39,7 @@ If you post Personal Information about your contacts, we will not communicate wi
 It is possible that we may need to disclose Personal Information, profile information and/or information about your activities as an InfoReach user when required by subpoena or other legal process, or if InfoReach has a good faith belief that disclosure is necessary:
 
   1. to investigate, prevent or take action regarding suspected or actual illegal activities or to assist government enforcement agencies;
-  2. to enforce the TOU, to investigate and defend InfoReach against any third-party claims or allegations, or to protect the security or integrity of our Site; and/or 
+  2. to enforce the TOU, to investigate and defend InfoReach against any third-party claims or allegations, or to protect the security or integrity of our Site; and/or
   3. to exercise or protect the rights, property or personal safety of InfoReach, our users, employees or others.
 
 
