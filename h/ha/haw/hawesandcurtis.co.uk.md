@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hawesandcurtis.co.uk privacy policy that was archived on 2013-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131007104416id_/http%3A//www.hawesandcurtis.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hawesandcurtis.co.uk privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703031802id_/http%3A//www.hawesandcurtis.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Hawes and Curtis. Men's and Ladies Shirts, Ties, Cufflinks. Jermyn Street. Established 1913
+# Privacy Policy | Hawes and Curtis
 
 We at Hawes & Curtis are committed to protecting and respecting your privacy and fully complying with the Data Protection Act 1998 (“the Act”). We are publishing this guide (which may be amended from time to time to as circumstances require) to help our customers understand why and in what manner we collect information from you and about you, to whom this information may be disclosed and what your rights as our customer are.
 
