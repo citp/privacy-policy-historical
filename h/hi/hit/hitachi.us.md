@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the hitachi.us privacy policy that was archived on 2014-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140308170024id_/http%3A//www.hitachi.us/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hitachi.us privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703033412id_/http%3A//www.hitachi.us/privacy/index.html) for the most accurate reproduction.*
 
 # Privacy Policy & Summary : Hitachi in the U.S.A.
 
 Enacted on April 1, 2005  
-Revised on April 1, 2010   
-Hiroaki Nakanishi  
-Representative Executive Officer and President  
+Revised on April 1, 2010  
+Toshiaki Higashihara  
+President & COO  
 Hitachi, Ltd.
 
 ## 1\. Background of Personal Information Protection Policy of Hitachi, Ltd.
@@ -35,19 +35,19 @@ When a person makes a request to disclose, correct or delete his or her own pers
 
  This document, "About Personal Information Protection", establishes the handling of all personal information by Hitachi in the company activities.
 
-  * [Scope](https://web.archive.org/web/20140308170741id_/http://www.hitachi.us/privacy/personal-information-protection/index.html)
+  * [Scope](https://web.archive.org/web/20140720122226id_/http://www.hitachi.us/privacy/personal-information-protection/index.html)
 
 
 
 ## 4\. Personal Information
 
- Hitachi protects and manages the personal information with the greatest care and the best effort based on the "Hitachi Privacy Policy". In this document, ["Personal information"](https://web.archive.org/web/20140308170741id_/http://www.hitachi.us/privacy/personal-information-protection/index.html) is the information below that can be used to identify specific persons.
+ Hitachi protects and manages the personal information with the greatest care and the best effort based on the "Hitachi Privacy Policy". In this document, ["Personal information"](https://web.archive.org/web/20140720122226id_/http://www.hitachi.us/privacy/personal-information-protection/index.html) is the information below that can be used to identify specific persons.
 
 Information provided by person to Hitachi by entering in "Inquiry form" or other forms. 
 
 Information provided by person to Hitachi through any method other than the above. 
 
-  * [Personal information](https://web.archive.org/web/20140308170741id_/http://www.hitachi.us/privacy/personal-information-protection/index.html)
+  * [Personal information](https://web.archive.org/web/20140720122226id_/http://www.hitachi.us/privacy/personal-information-protection/index.html)
 
 
 
@@ -59,7 +59,7 @@ Hitachi will not provide personal information to a third party without first obt
 
 When required to do so for business activities in which Hitachi is co-operating with Hitachi group companies, Hitachi may provide such group companies with personal information such as names, workplace or home addresses, telephone numbers, fax numbers, e-mail addresses, etc. 
 
-  * [Details](https://web.archive.org/web/20140308170741id_/http://www.hitachi.us/privacy/personal-information-protection/index.html)
+  * [Details](https://web.archive.org/web/20140720122226id_/http://www.hitachi.us/privacy/personal-information-protection/index.html)
 
 
 
@@ -67,27 +67,27 @@ When required to do so for business activities in which Hitachi is co-operating 
 
  When a person wants to request to disclose, correct, add, delete, stop usage, stop provision to a third party, or notify the purpose of usage of his/her personal information (hereinafter referred to as "disclose and so on") held by Hitachi, or wants to raise complaints, the person is requested to follow the predefined procedures to make such request.
 
-  * [Details](https://web.archive.org/web/20140308170741id_/http://www.hitachi.us/privacy/personal-information-protection/index.html)
+  * [Details](https://web.archive.org/web/20140720122226id_/http://www.hitachi.us/privacy/personal-information-protection/index.html)
 
 
 
 ## 7\. Other Important Matters
 
-1\. [Request to person](https://web.archive.org/web/20140308170741id_/http://www.hitachi.us/privacy/personal-information-protection/index.html) about provision of personal information, acquisition of prior consent, and personal information protection 
+1\. [Request to person](https://web.archive.org/web/20140720122226id_/http://www.hitachi.us/privacy/personal-information-protection/index.html) about provision of personal information, acquisition of prior consent, and personal information protection 
 
-2\. [Notification on handling of "About Personal Information Protection"](https://web.archive.org/web/20140308170741id_/http://www.hitachi.us/privacy/personal-information-protection/index.html)
+2\. [Notification on handling of "About Personal Information Protection"](https://web.archive.org/web/20140720122226id_/http://www.hitachi.us/privacy/personal-information-protection/index.html)
 
-3\. Notes about usage of [cookies and Web beacons](https://web.archive.org/web/20140308170741id_/http://www.hitachi.us/privacy/personal-information-protection/index.html) on website 
+3\. Notes about usage of [cookies and Web beacons](https://web.archive.org/web/20140720122226id_/http://www.hitachi.us/privacy/personal-information-protection/index.html) on website 
 
 4\. When a person contacts Hitachi by telephone, the conversation may be recorded to aid accurate replies. 
 
-  * [Request to person](https://web.archive.org/web/20140308170741id_/http://www.hitachi.us/privacy/personal-information-protection/index.html)
+  * [Request to person](https://web.archive.org/web/20140720122226id_/http://www.hitachi.us/privacy/personal-information-protection/index.html)
 
 
-  * [Notification on handling of "About Personal Information Protection"](https://web.archive.org/web/20140308170741id_/http://www.hitachi.us/privacy/personal-information-protection/index.html)
+  * [Notification on handling of "About Personal Information Protection"](https://web.archive.org/web/20140720122226id_/http://www.hitachi.us/privacy/personal-information-protection/index.html)
 
 
-  * [About usage of cookies and Web beacons](https://web.archive.org/web/20140308170741id_/http://www.hitachi.us/privacy/personal-information-protection/index.html)
+  * [About usage of cookies and Web beacons](https://web.archive.org/web/20140720122226id_/http://www.hitachi.us/privacy/personal-information-protection/index.html)
 
 
 
@@ -95,7 +95,7 @@ When required to do so for business activities in which Hitachi is co-operating 
 
  For inquiries about this document except the request to disclose and so on of personal information and the raising complaints, please contact us in the following way.
 
-  * [Details](https://web.archive.org/web/20140308170741id_/http://www.hitachi.us/privacy/personal-information-protection/index.html)
+  * [Details](https://web.archive.org/web/20140720122226id_/http://www.hitachi.us/privacy/personal-information-protection/index.html)
 
 
   * [Contact through Inquiry form](https://www8.hitachi.co.jp/inquiry/privacy/en/form.jsp)
