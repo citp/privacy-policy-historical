@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drupalcommerce.org privacy policy that was archived on 2014-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140227134926id_/http%3A//commerceguys.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drupalcommerce.org privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703033102id_/http%3A//commerceguys.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Commerce Guys
 
@@ -8,7 +8,7 @@ We value your privacy and we are committed to safeguarding and preserving the pr
 
 “Commerce Guys” means Commerce Guys SAS, a French company located at 38, rue du Sentier , Paris, 75002 France, and Commerce Guys, LLC, a Michigan limited liability company located at 950 Victors Way, Suite 10, Ann Arbor, Michigan 48108, and, and may include its affiliates, subsidiaries, directors, officers, employees, agents, partners, contractors, and/or licensors (together, referred to throughout this Privacy Policy as “Commerce Guys” or “us” or “we”).
 
-Our Privacy Policy applies to all of the services offered by Commerce Guys, including services offered on our other sites, but excludes services that have separate privacy policies that do not incorporate this Privacy Policy.
+Our Privacy Policy applies to all of the services offered by Commerce Guys, including services offered on any of our websites (CommerceGuys.com, DrupalCommerce.org, Marketplace.CommerceGuys.com), but excludes services that have separate privacy policies that do not incorporate this Privacy Policy.
 
 We update this Privacy Policy from time to time, so please review it regularly. Your continued use of our sites and services will be subject to the terms of the then-current Privacy Policy.
 
@@ -26,7 +26,7 @@ We may use cookies to gather information about your general internet use. When u
 
 ##  Using Your Information
 
-We use the information we collect from you to provide, maintain, protect and improve our sites and services, and to develop new ones.
+We use the information we collect from you to provide, maintain, protect and improve our sites and services, and to develop new ones. 
 
 In addition, we may use the information for one or more of the following purposes:
 
