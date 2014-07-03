@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easyacc.com privacy policy that was archived on 2014-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140414024228id_/http%3A//www.easyacc.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyacc.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703022502id_/http%3A//www.easyacc.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -116,4 +116,4 @@ By using our site, you consent to our web site privacy policy.
 
 **Contacting  Us**
 
-If you have any questions or concerns about our privacy policy, please contact us: Support@easyacceu.com
+If you have any questions or concerns about our privacy policy, please contact us: Support@easyacc.com
