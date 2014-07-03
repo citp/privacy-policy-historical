@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findashemalelover.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330221806id_/http%3A//www.findashemalelover.com/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findashemalelover.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703085629id_/http%3A//www.findashemalelover.com/privacyPolicy) for the most accurate reproduction.*
 
 # .: Privacy Policy
 
@@ -10,20 +10,15 @@ Joining only takes a minute. Joining our community will allow us to better match
 
 #### Find a member
 
-Search by nickname
+Search by username
 
-findashemalelover.com (the "Site") is licensed to **Hundies LTD**
-
-Our international postal address is   
-Hundies LTD  
-Amory Building, Suite #4757, Victoria Road  
-Basseterre, SAINT KITTS AND NEVIS 
+findashemalelover.com (the "Site") is licensed to **Elite Marketing Solutions Inc.**
 
 Our USA postal address is   
-Hundies LTD  
-5722 S. Flamingo Rd. #246  
-Cooper City, FL 33330  
-1-888-228-7436 
+312 West Fourth Street  
+Carson City, NV 89703  
+USA  
+1-888-837-1572 
 
 [Contact us](https://web.archive.org/contact)
 
@@ -71,6 +66,10 @@ IF YOU DO NOT EXPRESSLY AGREE WITH ALL OF THE TERMS OF THIS PRIVACY POLICY STATE
 > 
 > All subscribers should consider any information provided to or collected by the Site as non-confidential, and consequently the Site assumes no liability or responsibility if any information relating to any subscriber is intercepted and/or used by an unintended recipient. 
 
+**Use of Demographical Data**
+
+> From time to time, the Site may use data obtained from Google Analytics Demographics and Interest Reporting to make decisions about the types of content you see on the Site, including possible advertisements you may see. The techniques employed do not collect any personal information such as your name, email address, postal address or telephone number. If you wish to opt out of making your data available to the Site, please visit [THIS](https://tools.google.com/dlpage/gaoptout/) page. 
+
 **"OPT-IN" and "OPT-OUT" Provisions.**
 
 > There may be occasions when a subscriber will be presented with special offers either from the operators of the Site or from third-party service or content providers, which may include consent to receive e-mail solicitations, communications, newsletters, commercial advertising, or other promotional or special event materials (collectively referred to as "Offers"). 
@@ -81,7 +80,7 @@ IF YOU DO NOT EXPRESSLY AGREE WITH ALL OF THE TERMS OF THIS PRIVACY POLICY STATE
 
 **"OPT-OUT" Revocation Procedure.**
 
-> The Site also offers all subscribers a procedure for "Opting-Out" if the subscriber subsequently chooses to revoke any consent to receive Offers by [clicking here](https://web.archive.org/web/20140330221806id_/http%3A//www.findashemalelover.com/settings/2) and deselecting "I want to be informed of promotional offers". 
+> The Site also offers all subscribers a procedure for "Opting-Out" if the subscriber subsequently chooses to revoke any consent to receive Offers by [clicking here](https://web.archive.org/web/20140703085629id_/http%3A//www.findashemalelover.com/settings/2) and deselecting "I want to be informed of promotional offers". 
 
 **Terms and Conditions of Membership.**
 
