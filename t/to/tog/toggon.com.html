@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the toggon.com privacy policy that was archived on 2014-04-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140418010538id_/http%3A//www.toggon.com/general/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the toggon.com privacy policy that was archived on 2014-07-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140703220719id_/http%3A//www.toggon.com/general/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	<meta http-equiv="Content-type" content="text/html; charset=utf-8">
@@ -77,6 +77,7 @@
 			$('a[rel*=newsModal]').leanModal({  closeButton: ".news_close",top:"40" });
 			$("a[rel*=newsfeedpop]").leanModal({  closeButton: ".newsfeed_close",top:"40" });
 			$("a[rel*=loginpopup]").leanModal({  closeButton: ".login_close",top:"40" });
+			$("a[rel*=messageboxpopup]").leanModal({  closeButton: ".msg_cancel",top:"40" });
 			
 		});
 		$(".closeall").live("click", function(){
@@ -134,25 +135,74 @@
 				}
 			});
 		});
+		
+		$(".loginredirect").live("click", function(){				
+			var rel = this.rel;
+			var urldata = "rel="+rel;
+			var obj = $(this);
+			$.ajax({
+				url: site_url+"user/redirectlogin",
+				type: 'post',
+				dataType: 'html',
+				data: urldata,
+				success: function(data) {
+				}
+			});
+		});
+		
+		$(".messagepopupopen").live("click", function(){				
+			if(!is_login){
+				$('#loginpoplink').trigger('click');
+				return false;
+			}
+			var rel = this.rel;
+			var urldata = "user_id="+rel;
+			var obj = $(this);
+			$.ajax({
+				url: site_url+"user/messagedetails",
+				type: 'post',
+				dataType: 'html',
+				data: urldata,
+				success: function(data) {
+//					console.log(data);
+					var data_new = data.split("$***$");
+					$('#reciever_name').html(data_new[0]);
+					$('#reciever_image').attr("src",data_new[1]);
+					$('#reciever_image').show();
+					$( "#to_sender_id" ).val(rel);
+					$( "#alert_msg" ).html("");
+					$( "#message_body_pop" ).val("");
+					$( "#messageboxpopuplink" ).trigger( "click" );
+					$( "#message_body_pop" ).focus();
+					return false;
+				}
+			});
+		});
+		
 
 	</script>
     <link rel="icon" type="image/x-icon" href="http://www.toggon.com/favicon.ico">
 </head>
 <body>
 <a href="#loginpopup" rel="loginpopup" id="loginpoplink" style="display:none;">Login</a>
+<a href="#messageboxpopup" rel="messageboxpopup" id="messageboxpopuplink" style="display:none;">Message</a>
+
 	<header>
 
    		<div class="wrap_center">
 		    <div class="headlogo">
 
           		<div class="sub_logo">
-                <div class="image_logo"><a href="http://www.toggon.com/adpost/listing"><img src="http://www.toggon.com/images/logohome.png"></a>
-				</div>
+                <div class="image_logo">
+                                <a href="http://www.toggon.com/adpost/listing"><img src="http://www.toggon.com/images/logohome.png"></a>
+                				</div>
 					
                 </div>
 				<div class="header_tabs_container">
-					<a href="http://www.toggon.com/adpost/listing"><div class="header_tab">Advertisements</div></a>
-					<a href="http://www.toggon.com/business/listing"><div class="header_tab">Businesses</div></a>
+					<a href="http://www.toggon.com/adpost"><div class="header_tab">+ Post requirement</div></a>
+					<a href="http://www.toggon.com/adpost/listing"><div class="header_tab">[View all]</div></a>
+					<a href="http://www.toggon.com/business/add"><div class="header_tab">+ Create business page</div></a>
+					<a href="http://www.toggon.com/business/listing"><div class="header_tab">[View all]</div></a>
 					<a href="http://www.toggon.com/socialfeed"><div class="header_tab">Social feed</div></a>
 					<a href="http://www.toggon.com/members"><div class="header_tab">People</div></a>
 				</div>	
@@ -437,6 +487,30 @@ $(function() {
 			data: $('#rebuseform').serialize(),
 			success: function(data) {
 				$( ".modal_close" ).trigger( "click" );
+			}
+		});
+		return false;						 
+	});
+	
+	$("#messageform").submit(function(){
+		if($('#message_body_pop').val()==""){
+			$('#alert_msg').html('Message is blank, write your message');
+			return false;
+		}
+		$.ajax({
+			url: site_url+"user/send_message",
+			type: 'post',
+			dataType: 'html',
+			data: $('#messageform').serialize(),
+			success: function(data) {
+//				console.log(data);
+				$('#alert_msg').html('Your message is sent to '+$('#reciever_name').html());
+				setTimeout(function() {
+					$( ".msg_cancel" ).trigger( "click" );
+					$('#reciever_name').html("");
+					$('#reciever_image').hide();
+				}, 1000);
+				
 			}
 		});
 		return false;						 
@@ -1174,7 +1248,52 @@ $('#tgn-share-link-top-topic').live("keypress",function(event) {
 	</div>
 		
 </div>
+<div class="wrap_center wrap_main" style="display:none;" id="messageboxpopup">
 
+	<div class="msg_container">
+	<div class="msg_wrapper">
+		<div class="msg_title_wrapper">
+			<div class="msg_title">
+			New message to
+			</div>
+		</div>
+        <form action="" method="post" id="messageform">
+		<div class="msg_header">
+			<div class="msg_image_wrapper">
+				<div class="reciever_image">
+				<img src="http://www.teamonwork.com/images/fb_pic.jpg" id="reciever_image" style="display:none;">
+				</div>
+			</div>
+			
+			<div class="reciever_detail">
+				<div class="reciever_name" id="reciever_name">
+				</div>
+			</div>
+		</div>
+		
+		<div class="msg_body">
+			<div class="msg_area">
+			<textarea placeholder="Write your message......" name="messages" id="message_body_pop"></textarea>
+			</div>
+		</div>
+		
+		<div class="msg_submission">
+			<div class="msg_cancel">
+			Cancel
+			</div>
+			<div>
+			<input type="submit" id="submessage" name="submessage" class="msg_send" value="Send message">
+			</div>
+			
+		</div>
+        <input type="hidden" value="" name="message_to" id="to_sender_id">
+        <input type="hidden" value="" name="from" id="to_from_id">
+        </form>
+		<div class="alert_msg" id="alert_msg">
+		</div>
+		
+	</div>
+</div>	
  
 <script type="text/javascript">
   var _gaq = _gaq || [];
@@ -1191,4 +1310,4 @@ $('#tgn-share-link-top-topic').live("keypress",function(event) {
 
 
 	
-</body></html>
+</div></body></html>
