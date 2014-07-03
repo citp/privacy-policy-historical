@@ -1,8 +1,11 @@
-<!--The following is the downloaded HTML source of the stacksocial.com privacy policy that was archived on 2014-02-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140211003441id_/https%3A//stacksocial.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the stacksocial.com privacy policy that was archived on 2014-07-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140703223936id_/https%3A//stacksocial.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
+<!DOCTYPE html><html><head>
+<script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0021/8576.js?439483" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-2.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"4a7ea7f0ae","applicationID":"2572105","transactionName":"cQxZR0VYX15QF0lGCEYGGENFXkVTVhw=","queueTime":19,"applicationTime":20,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-411.min.js"}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"Vw4EUVJQGwEFU1NTBwQ="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
     <meta charset="utf-8">
+
 <title>
   Privacy | StackSocial
 </title>
@@ -14,28 +17,31 @@
 <meta property="og:image" content="https://stacksocial-production-stacksocial.netdna-ssl.com/assets/favicon-96bc468175dc03d53417a2bf07bfd49a.ico">
 <meta property="og:site_name" content="StackSocial">
 <meta property="og:url" content="https://stacksocial.com/privacy">
-<meta name="viewport" content="width=1020">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
   <meta name="apple-itunes-app" content="app-id=772315173">
 <link href="https://assets-stacksocial.netdna-ssl.com/publishers/1/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon">
 <link rel="apple-touch-icon" href="https://stacksocial-production-stacksocial.netdna-ssl.com/assets/favicon-96bc468175dc03d53417a2bf07bfd49a.ico">
 <link rel="apple-touch-icon-precomposed" href="https://stacksocial-production-stacksocial.netdna-ssl.com/assets/favicon-96bc468175dc03d53417a2bf07bfd49a.ico">
-<link href="https://stacksocial-production-stacksocial.netdna-ssl.com/assets/application-193ea5ffe5191b8eb2903d16579ec0c1.css" media="all" rel="stylesheet" type="text/css">
-  <link href="https://stacksocial-production-stacksocial.netdna-ssl.com/assets/publishers/www-1b13569e9620782f423d4cd3ce931750.css" media="all" rel="stylesheet" type="text/css">
-<!-- [if lte IE 9]>
-  <style type="text/css">.l-newsletter-signup__submit { padding-bottom: 2px; }</style>
-<![endif] -->
-
+<link href="https://stacksocial-production-stacksocial.netdna-ssl.com/assets/application-3949d9a6fca24dedb30a045cb82d48d2.css" media="all" rel="stylesheet" type="text/css">
+<link href="https://stacksocial-production-stacksocial.netdna-ssl.com/publishers/stylesheet/www-20140703153059.css" media="all" rel="stylesheet" type="text/css">
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.9.2/jquery-ui.min.js"></script>
-<!--[if lt IE 9]>
+<script>
+  window['optimizely'] = window['optimizely'] || [];
+  window['optimizely'].push(["customTag", "LoggedIn", false]);
+</script>
+<script src="//cdn.optimizely.com/js/74647825.js"></script>
+<!--[if lte IE 9]>
   <script src="https://stacksocial-production-stacksocial.netdna-ssl.com/assets/jquery.html5-placeholder-shim-54afaa7f21290abc6dafe85b496050c8.js" type="text/javascript"></script>
+  <script>
+    $.placeholder.shim();
+  </script>
 <![endif]-->
 
 
 <meta content="authenticity_token" name="csrf-param">
-<meta content="bXNwRvDUY4dxlXlMLwLObfGJAmf9EWn2XeJKMUiAg3w=" name="csrf-token">
-
+<meta content="O2dZH6TQrNtgiBM39v3wACzQNoCe+Mjmh9cQj5viHIs=" name="csrf-token">
 
 
 <!-- For iPad with high-resolution Retina display running iOS ≥ 7: -->
@@ -45,192 +51,11 @@
 <!-- For the iPad mini and the first- and second-generation iPad on iOS ≥ 7: -->
 <link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://stacksocial-production-stacksocial.netdna-ssl.com/assets/apple-touch-icon-76x76-precomposed-c6ba3bd22d08b7ef58d6ee7005bfe5bb.png">
 
-  </head>
-  <body id="stacksocial-wrapper" class="l-body--site-info">
-    <div class="l-site-info-wrapper">
-      <div class="fine-print-banner l-welcome-banner--site_info tab-content--active" id="top">
-  <div class="l-header--fixed navbarjs-fixed"></div>
-<div class="header--site_info l-header--site_info">
-  <div class="l-header__container">
-    <div class="l-header__option">
-      <a href="/"><span class="header__logo l-header__logo--site-info"><i class="icon-stack-icon color--blue l-icon-stack-icon icon-stack--header"></i><i class="icon-stack-logo-name icon-stack-logo-name--header"></i></span></a>
-    </div>
-    <div class="l-header__option l-header__option__right">
-      <span class="header--site_info__menu_items l-header--site_info__menu_items js-header--site_info__menu_items">
-        <a href="/about">ABOUT</a>
-        <a href="http://blog.stacksocial.com">BLOG</a>
-        <a href="/careers">CAREERS</a>
-        <a href="/press">PRESS</a>
-        <a href="/contact">CONTACT</a>
-        <a href="/business">BUSINESS</a>
-      </span>
-      <img alt="Header-menu-button" class="icon-menu-icon l-icon-menu-icon js-icon-menu-icon" src="https://stacksocial-production-stacksocial.netdna-ssl.com/assets/header-menu-button-2adda826e4abbbb9e7c4293cea34e72f.png">
-    </div>
-  </div>
-</div>
-<div class="banner-title--fine-print l-banner-title--fine-print">
-  The Fine Print
-</div>
-</div>
-
-      
-
-<div class="grid--nested fine-print--container">
-  <div class="flush-col-4 fine-print__side-bar l-fine-print__side-bar">
-    <a href="/terms" class="fine-print__side-bar__link"><p>Terms of Service</p></a>
-    <a href="/privacy" class="fine-print__side-bar__active-link">Privacy Policy</a>
-  </div>
-  <div class="flush-col-8 fine-print__content">
-    <div class="l-fine-print__content">
-        <p class="fine-print__header">1. Introduction</p>
-        <p>Your ("You" or "Your") privacy concerns are important to StackSocial ("Us", "We" or "Our"), as well as the third party vendors ("Participants") participating in our Sale promotion ("Sale"). Protecting Your privacy and safeguarding Your information is one of Our highest goals.</p>
-
-        <p>You need to know what information is being collected about You through the Sale and how Your information may be used. To that end, this Privacy Policy explains what information We may collect about You.</p>
-
-        <p class="fine-print__header">2. Collection of Information</p>
-        <p>In connection with Your purchase of the Sale, You will provide the majority of the information We collect about You. Items required may include, but are not limited to, Your name, mailing address, e-mail addresses and other personally identifiable information.</p>
-
-        <p>Other information collected by Us may be provided automatically when You access the Service, such as observing Your use of the Service, through the use of cookies (described below), and may be obtained from other sources such as Our business partners. Simply visiting the Sale web page will not require you to submit any personal information.</p>
-
-        <p>The information you provide during Your purchase of the Sale will also be shared with the participant vendors, which enables them to better support you in the use of their product or service.</p>
-
-        <p class="fine-print__header">3. No Collection of Children's Personal Information</p>
-        <p>Our Sale is intended for general audiences and commercial use. We do not knowingly collect any personal information from children under the age of 13. We reserve the right to delete any information We believe to be in violation of this Privacy Policy.</p>
-
-        <p class="fine-print__header">4. Use of Information</p>
-        <p>We automatically collect and temporarily store information about Your visit. The information We collect enables Us to refine and offer better service to You. We may share the information We collect about You with Our business partners.</p>
-
-        <p>The types of information we collect include, but are not limited to:</p>
-        <ul>
-        <li>the date and time of Your visit</li>
-        <li>IP address(es)</li>
-        <li>browser type, operating system, screen size, and language</li>
-        <li>the pages you visited</li>
-        <li>the address of the Web site from which You came</li>
-        </ul>
-
-        <p>The StackSocial web site may contain links to third-party websites, products, and services. Information collected by third parties is governed by their privacy practices. We encourage you to learn about the privacy practices of those third parties.</p>
-
-        <p class="fine-print__header">5. Cookies</p>
-        <p>When You visit the Sale promotional web page, We may place a text file called a "cookie" on Your computer's hard drive. A cookie is a small piece of information that a web-service can store on Your web browser and later retrieve. A cookie enables Us to recognize You as a prior user, provides Us with information regarding Your prior use and assists Us in determining what portions of the Service are most appropriate for You.</p>
-
-        <p>Your Web browser may provide You with the ability to not accept cookies.</p>
-
-        <p class="fine-print__header">6. Disclosure</p>
-        <p>We do not sell, license, lease or otherwise disclose Your information to any other parties; except that We may disclose Your information when We believe, in good faith, that disclosure is reasonably necessary to comply with laws, law enforcement or court orders, or to protect the rights, property or safety of another person, including Our own property or rights.</p>
-
-        <p class="fine-print__header">7. No Liability</p>
-        <p>We have made every effort to use industry standards in regards to information security. However, We do not guarantee that any such information will not be misused or disclosed to third parties. We will not have any liability to You for any such misuse or disclosure. If You choose to purchase a product or service offered by another company, any information You share with that company will not be controlled by this Privacy Policy, You do so at Your own risk, and We have no liability to You.</p>
-
-        <p class="fine-print__header">8. Consent</p>
-        <p>By purchasing the Sale, You consent to the collection and use of Your information as set forth in this Privacy Policy. If We decide to change this Privacy Policy, which We may do at any time without notice to You, We will post those changes on this page.</p>
-
-        <p class="fine-print__header">9. Miscellaneous</p>
-        <p>We welcome Your questions, comments and requests for additional information regarding privacy of the Service.</p>
-
-        <p>You accept and agree to be bound by this Privacy Policy and the Terms and Conditions of Use.</p>
-    </div>
-  </div>
-</div>
-
-
-      <div class="newsletter-signup l-newsletter-signup">
-        <div class="newsletter-signup__call-to-action l-newsletter-signup__call-to-action">
-          Don't forget to sign up for our newsletter!
-          <form class="newsletter-signup__form l-newsletter-signup__form">
-            <input type="text" class="newsletter-signup__input newsletter-signup__input--bordered l-newsletter-signup__input" name="email_address" placeholder="Email Address">
-            <input type="submit" class="newsletter-signup__submit l-newsletter-signup__submit" value="subscribe">
-          </form>
-        </div>
-      </div>
-
-      <div class="l-bottom-of-page">
-  <div class="in-association-with-unit l-in-association-with-unit">
-    <img alt="In-association-with" src="https://stacksocial-production-stacksocial.netdna-ssl.com/assets/in-association-with-9682627673251145a94e479ea77ac25e.png">
-  </div>
-  <div class="footer l-footer">
-    <img alt="Badge-guarantee" class="footer__badge" src="https://stacksocial-production-stacksocial.netdna-ssl.com/assets/badge-guarantee-3040a351f8efbe2877f20b370939ae73.png">
-    <div class="l-footer__content">
-      <div class="l-footer__section">
-        <span class="footer__title"><a href="/">stacksocial</a></span>
-        <ul class="footer__list l-footer__list">
-          <li class="footer__list-item l-footer__list-item"><a href="/about">About</a></li>
-          <li class="footer__list-item l-footer__list-item"><a href="/careers">Careers</a></li>
-          <li class="footer__list-item l-footer__list-item"><a href="http://blog.stacksocial.com">Blog</a></li>
-          <li class="footer__list-item l-footer__list-item"><a href="/mobile">Mobile</a></li>
-        </ul>
-      </div>
-      <div class="l-footer__section">
-        <span class="footer__title"><a href="/business">business</a> </span>
-        <ul class="footer__list l-footer__list">
-          <li class="footer__list-item l-footer__list-item"><a href="/business/vendors">Vendors</a></li>
-          <li class="footer__list-item l-footer__list-item"><a href="/business/publishers">Publishers</a></li>
-          <li class="footer__list-item l-footer__list-item"><a href="/business/affiliates">Affiliates</a></li>
-          <li class="footer__list-item l-footer__list-item"><a href="/press">Press</a></li>
-        </ul>
-      </div>
-      <div class="l-footer__section">
-        <span class="footer__title">support</span>
-        <ul class="footer__list l-footer__list">
-          <li class="footer__list-item l-footer__list-item"><a href="/support">FAQs</a></li>
-          <li class="footer__list-item l-footer__list-item"><a href="/terms">Terms</a></li>
-          <li class="footer__list-item l-footer__list-item"><a href="/privacy">Privacy</a></li>
-          <li class="footer__list-item l-footer__list-item"><a href="/contact">Contact</a></li>
-        </ul>
-      </div>
-      <div class="l-footer__section">
-        <img alt="Discover-your-inner-geek" src="https://stacksocial-production-stacksocial.netdna-ssl.com/assets/discover-your-inner-geek-9307b96a7f54ebdfd71833857c7f37b6.png">
-        <ul class="footer__list l-footer__list--smaller">
-          <li class="footer__list-item--inverted l-footer__list-item--inverted">
-            <a href="http://facebook.com/stacksocial"><div class="circle"><i class="icon-facebook l-icon"></i></div></a>
-            <a href="http://twitter.com/stacksocial"><div class="circle"><i class="icon-twitter l-icon"></i></div></a>
-            <a href="http://plus.google.com/115474343055011363262"><div class="circle"><i class="icon-google-plus l-icon"></i></div></a>
-            <a href="http://pinterest.com/stacksocial"><div class="circle"><i class="icon-pinterest l-icon"></i></div></a>
-          </li>
-          <a href="/mobile_stores/itunes?type=App+Store+Link+%5BFooter%5D">
-            <img alt="Available_on_app_store" src="https://stacksocial-production-stacksocial.netdna-ssl.com/assets/available_on_app_store-57b11308faf23599e3c71f2a2f5c7ea8.png" style="width: 123px">
-</a>        </ul>
-      </div>
-    </div>
-  </div>
-  <div class="copyright l-copyright">© Copyright StackSocial. All rights reserved. Hand made in Los Angeles</div>
-</div>
-    </div>
-    <script src="https://stacksocial-production-stacksocial.netdna-ssl.com/assets/application-de9e8a569b492d5a0696b8749cf2bbc8.js" type="text/javascript"></script>
-
-
-<script type="text/javascript" src="https://apis.google.com/js/plusone.js">
-  {"parsetags": "explicit"}
-</script>
-
-<script type="text/javascript">
-
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-21555618-1']);
-
-
-  _gaq.push(["_setCustomVar", 2, "RedesignActivated", "true"]);
-  _gaq.push(['_trackPageview']);
-
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
-
-<script src="//cdn.optimizely.com/js/74647825.js"></script>
-
-
   <!-- Quantcast Tag, part 1 -->
   <script type="text/javascript">
     var _qevents = _qevents || [];
-
     (function() {
      var elem = document.createElement('script');
-
      elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
      elem.async = true;
      elem.type = "text/javascript";
@@ -238,19 +63,359 @@
      scpt.parentNode.insertBefore(elem, scpt);
     })();
   </script>
-  <!-- Facebook Tag -->
 
-  <script type="text/javascript">if (typeof NREUMQ !== "undefined") { if (!NREUMQ.f) { NREUMQ.f=function() {
-NREUMQ.push(["load",new Date().getTime()]);
-var e=document.createElement("script");
-e.type="text/javascript";
-e.src=(("http:"===document.location.protocol)?"http:":"https:") + "//" +
-  "js-agent.newrelic.com/nr-100.js";
-document.body.appendChild(e);
-if(NREUMQ.a)NREUMQ.a();
-};
-NREUMQ.a=window.onload;window.onload=NREUMQ.f;
-};
-NREUMQ.push(["nrfj","beacon-2.newrelic.com","4a7ea7f0ae","2572105","cQxZR0VYX15QF0lGCEYGGENFXkVTVhw=",31,24,new Date().getTime(),"","","","",""]);}</script>
+  <script>
+    (function() {
+      var _fbq = window._fbq || (window._fbq = []);
+      if (!_fbq.loaded) {
+        var fbds = document.createElement('script');
+        fbds.async = true;
+        fbds.src = '//connect.facebook.net/en_US/fbds.js';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(fbds, s);
+        _fbq.loaded = true;
+      }
+      _fbq.push(['addPixelId', '1426112910984284']);
+    })();
+    window._fbq = window._fbq || [];
+    window._fbq.push(['track', 'PixelInitialized', {}]);
+  </script>
+  <noscript>
+    <img height="1" width="1" border="0" alt="" style="display:none" src="https://www.facebook.com/tr?id=1426112910984284&amp;ev=NoScript" />
+  </noscript>
 
-<script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
+
+
+
+<script type="text/javascript">
+var Analytical = {
+  track: function(page) {
+
+  },
+  event: function(name, data) {
+    if (typeof data === 'undefined') { data = {}; }
+
+  }
+};
+</script>
+
+
+  <script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
+  <body id="stacksocial-wrapper" class="bg-16">
+    <div class="fixed top left right navbarjs-fixed" role="navigation"></div>
+    <nav id="navbar-header" class="navbar bg-2 fade-s absolute top left full-width zm">
+  <div class="navbar-header">
+    <button type="button" class="navbar-toggle c-13 c-16-hover fsxl mbn mtxxs paxxs relative" style="padding-bottom: 3px;" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+      <i class="icon-stack-icon"></i>
+      <span class="sr-only">Toggle navigation</span>
+    </button>
+    <a href="/" class="navbar-brand full-height">
+      <table class="full-height"><tbody><tr><td class="ptxxxxs"><i class="icon-stack-icon c-blue fsxl"></i></td><td><i class="icon-stack-logo-name c-16 fsm plxxs"></i></td></tr></tbody></table>
+</a>  </div>
+  <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+    <ul class="nav navbar-nav navbar-right">
+      <li class="bwan">
+        <a href="/about" class="c-11 c-16-hover bg-n-hover pvm">About</a>
+      </li>
+      <li class="bwan">
+        <a href="http://blog.stacksocial.com" class="c-11 c-16-hover bg-n-hover pvm">Blog</a>
+      </li>
+      <li class="bwan">
+        <a href="/careers" class="c-11 c-16-hover bg-n-hover pvm">Careers</a>
+      </li>
+      <li class="bwan">
+        <a href="/press" class="c-11 c-16-hover bg-n-hover pvm">Press</a>
+      </li>
+      <li class="bwan">
+        <a href="/contact" class="c-11 c-16-hover bg-n-hover pvm">Contact</a>
+      </li>
+      <li class="bwan">
+        <a href="/business" class="c-11 c-16-hover bg-n-hover pvm">Business</a>
+      </li>
+    </ul>
+  </div>
+</nav>
+  <div class="site-banner bg-center bg-cover relative zs" style="background-image: url(https://stacksocial-production-stacksocial.netdna-ssl.com/assets/banner-main-large-76c6042ce6ab2b21bef94cb38fc51563.jpg)">
+    <div class="absolute fill mtxxxl">
+      <table class="full">
+        <tbody><tr>
+          <td class="c-16 fsxxxl fwxl text-center">
+            <div class="pas">
+              <div class="row nmhxs">
+                <div class="col-md-6 col-md-offset-3 phxs">
+                  The Fine Print
+                </div>
+              </div>
+            </div>
+          </td>
+        </tr>
+      </tbody></table>
+    </div>
+  </div>
+
+      
+
+
+<div class="row nhs">
+  <div class="col-md-4 phs">
+    <div class="ptm phl">
+	    <div class="c-7 fss fwxl mts"><a href="/terms" class="c-5-hover">Terms of Service</a></div>
+	    <div class="c-5 fss fwxl mts"><a href="/privacy">Privacy Policy</a></div>
+	  </div>
+  </div>
+  <div class="col-md-7 phs bss bwls bc-12">
+    <div class="pam">
+      <div class="c-5 fss fwxl mts">1. Introduction</div>
+      <div class="c-5 fsxs mts">Your ("You" or "Your") privacy concerns are important to StackSocial ("Us", "We" or "Our"), as well as the third party vendors ("Participants") participating in our Sale promotion ("Sale"). Protecting Your privacy and safeguarding Your information is one of Our highest goals.</div>
+      <div class="c-5 fsxs mts">You need to know what information is being collected about You through the Sale and how Your information may be used. To that end, this Privacy Policy explains what information We may collect about You.</div>
+
+      <div class="c-5 fss fwxl mts">2. Collection of Information</div>
+      <div class="c-5 fsxs mts">In connection with Your purchase of the Sale, You will provide the majority of the information We collect about You. Items required may include, but are not limited to, Your name, mailing address, e-mail addresses and other personally identifiable information.</div>
+      <div class="c-5 fsxs mts">Other information collected by Us may be provided automatically when You access the Service, such as observing Your use of the Service, through the use of cookies (described below), and may be obtained from other sources such as Our business partners. Simply visiting the Sale web page will not require you to submit any personal information.</div>
+      <div class="c-5 fsxs mts">The information you provide during Your purchase of the Sale will also be shared with the participant vendors, which enables them to better support you in the use of their product or service.</div>
+
+      <div class="c-5 fss fwxl mts">3. No Collection of Children's Personal Information</div>
+      <div class="c-5 fsxs mts">Our Sale is intended for general audiences and commercial use. We do not knowingly collect any personal information from children under the age of 13. We reserve the right to delete any information We believe to be in violation of this Privacy Policy.</div>
+
+      <div class="c-5 fss fwxl mts">4. Use of Information</div>
+      <div class="c-5 fsxs mts">We automatically collect and temporarily store information about Your visit. The information We collect enables Us to refine and offer better service to You. We may share the information We collect about You with Our business partners.</div>
+
+      <div class="c-5 fsxs mts">The types of information we collect include, but are not limited to:
+	      <ul>
+		      <li>the date and time of Your visit</li>
+		      <li>IP address(es)</li>
+		      <li>browser type, operating system, screen size, and language</li>
+		      <li>the pages you visited</li>
+		      <li>the address of the Web site from which You came</li>
+	      </ul>
+      </div>
+
+      <div class="c-5 fsxs mts">The StackSocial web site may contain links to third-party websites, products, and services. Information collected by third parties is governed by their privacy practices. We encourage you to learn about the privacy practices of those third parties.</div>
+
+      <div class="c-5 fss fwxl mts">5. Cookies</div>
+      <div class="c-5 fsxs mts">When You visit the Sale promotional web page, We may place a text file called a "cookie" on Your computer's hard drive. A cookie is a small piece of information that a web-service can store on Your web browser and later retrieve. A cookie enables Us to recognize You as a prior user, provides Us with information regarding Your prior use and assists Us in determining what portions of the Service are most appropriate for You.</div>
+
+      <div class="c-5 fsxs mts">Your Web browser may provide You with the ability to not accept cookies.</div>
+
+      <div class="c-5 fss fwxl mts">6. Disclosure</div>
+      <div class="c-5 fsxs mts">We do not sell, license, lease or otherwise disclose Your information to any other parties; except that We may disclose Your information when We believe, in good faith, that disclosure is reasonably necessary to comply with laws, law enforcement or court orders, or to protect the rights, property or safety of another person, including Our own property or rights.</div>
+
+      <div class="c-5 fss fwxl mts">7. No Liability</div>
+      <div class="c-5 fsxs mts">We have made every effort to use industry standards in regards to information security. However, We do not guarantee that any such information will not be misused or disclosed to third parties. We will not have any liability to You for any such misuse or disclosure. If You choose to purchase a product or service offered by another company, any information You share with that company will not be controlled by this Privacy Policy, You do so at Your own risk, and We have no liability to You.</div>
+
+      <div class="c-5 fss fwxl mts">8. Consent</div>
+      <div class="c-5 fsxs mts">By purchasing the Sale, You consent to the collection and use of Your information as set forth in this Privacy Policy. If We decide to change this Privacy Policy, which We may do at any time without notice to You, We will post those changes on this page.</div>
+
+      <div class="c-5 fss fwxl mts">9. Miscellaneous</div>
+      <div class="c-5 fsxs mts">We welcome Your questions, comments and requests for additional information regarding privacy of the Service.</div>
+
+      <div class="c-5 fsxs mts mbs">You accept and agree to be bound by this Privacy Policy and the Terms and Conditions of Use.</div>
+    </div>
+  </div>
+  <div class="col-md-1 phs">
+  </div>
+</div>
+
+    <div class="ptxl pbm bg-12">
+      <div class="container phx">
+        <table class="full-width">
+          <tbody><tr>
+            <td class="fsm hidden-xs">
+              <div class="mbs">
+                Don't forget to sign up for our newsletter!
+              </div>
+            </td>
+            <td class="phn">
+              <div class="phs">
+                <div class="fsm text-center visible-xs mbs">Don't forget to sign up for our newsletter!</div>
+                <form action="/subscribe">
+                  <div class="row mhn">
+                    <div class="col-sm-8 phn">
+                      <input type="text" name="email_address" placeholder="Email Address">
+                    </div>
+                    <div class="col-sm-4 phn">
+                      <input type="submit" class="btn btn-primary full-width mbs" value="subscribe">
+                    </div>
+                  </div>
+                </form>
+              </div>
+            </td>
+          </tr>
+        </tbody></table>
+      </div>
+    </div>
+    <div id="footer" class="footer relative zs">
+  <div class="bg-blue pvl text-center">
+    <div class="container phn">
+      <div class="phs">
+        <img alt="In-association-with" class="img-responsive maa" src="https://stacksocial-production-stacksocial.netdna-ssl.com/assets/in-association-with-9682627673251145a94e479ea77ac25e.png">
+      </div>
+    </div>
+  </div>
+  <div class="bg-5 pvl">
+    <div class="container phn">
+      <div class="phs relative">
+        <div class="row nmhxs">
+          <div class="col-sm-10 col-sm-offset-1 phxs">
+            <img alt="Badge-guarantee" class="footer-badge" src="https://stacksocial-production-stacksocial.netdna-ssl.com/assets/badge-guarantee-3040a351f8efbe2877f20b370939ae73.png">
+            <div class="row">
+              <div class="col-md-6">
+                <div class="row">
+                  <div class="col-xs-6 mtm">
+                    <div class="fsxs c-11 fwm">STACKSOCIAL</div>
+                    <div class="mts fsxs fws">
+                      <div class="c-8 c-13-hover">
+                        <a href="/about" class="c-8 c-13-hover">About</a>
+                      </div>
+                      <div class="mtxxs">
+                        <a href="/careers" class="c-8 c-13-hover">Careers</a>
+                      </div>
+                      <div class="mtxxs">
+                        <a href="http://blog.stacksocial.com" class="c-8 c-13-hover">Blog</a>
+                      </div>
+                      <div class="mtxxs">
+                        <a href="/mobile" class="c-8 c-13-hover">Mobile</a>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-xs-6 mtm">
+                    <div class="fsxs c-11 fwm">BUSINESS</div>
+                    <div class="mts fsxs fws">
+                      <div class="mtxxs">
+                        <a href="/business/vendors" class="c-8 c-13-hover">Vendors</a>
+                      </div>
+                      <div class="mtxxs">
+                        <a href="/business/publishers" class="c-8 c-13-hover">Publishers</a>
+                      </div>
+                      <div class="mtxxs">
+                        <a href="/business/affiliates" class="c-8 c-13-hover">Affiliates</a>
+                      </div>
+                      <div class="mtxxs">
+                        <a href="/press" class="c-8 c-13-hover">Press</a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-6">
+                <div class="row">
+                  <div class="col-xs-6 mtm">
+                    <div class="fsxs c-11 fwm">SUPPORT</div>
+                    <div class="mts fsxs fws">
+                      <div class="mtxxs">
+                        <a href="/support" class="c-8 c-13-hover">FAQs</a>
+                      </div>
+                      <div class="mtxxs">
+                        <a href="/terms" class="c-8 c-13-hover">Terms</a>
+                      </div>
+                      <div class="mtxxs">
+                        <a href="/privacy" class="c-8 c-13-hover">Privacy</a>
+                      </div>
+                      <div class="mtxxs">
+                        <a href="/contact" class="c-8 c-13-hover">Contact</a>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-xs-6 mtm">
+                    <img alt="Discover-your-inner-geek" class="img-responsive" src="https://stacksocial-production-stacksocial.netdna-ssl.com/assets/discover-your-inner-geek-9307b96a7f54ebdfd71833857c7f37b6.png">
+                    <div class="mvm row nmhxs fsxs c-5">
+                      <a href="http://facebook.com/stacksocial" class="col-xs-3 phxs">
+                        <div class="circle das bg-7 bg-8-hover text-center">
+                          <i class="icon-facebook lhs"></i>
+                        </div>
+</a>                      <a href="http://twitter.com/stacksocial" class="col-xs-3 phxs">
+                        <div class="circle das bg-7 bg-8-hover text-center">
+                          <i class="icon-twitter lhs"></i>
+                        </div>
+</a>                      <a href="http://plus.google.com/115474343055011363262" class="col-xs-3 phxs">
+                        <div class="circle das bg-7 bg-8-hover text-center">
+                          <i class="icon-google-plus lhs"></i>
+                        </div>
+</a>                      <a href="http://pinterest.com/stacksocial" class="col-xs-3 phxs">
+                        <div class="circle das bg-7 bg-8-hover text-center">
+                          <i class="icon-pinterest lhs"></i>
+                        </div>
+</a>                    </div>
+                    <div class="row nmhxs">
+                      <div class="col-sm-8 phxs">
+                        <a href="/mobile_stores/itunes?type=App+Store+Link+%5BFooter%5D">
+                          <img alt="Available_on_app_store" class="img-responsive" src="https://stacksocial-production-stacksocial.netdna-ssl.com/assets/available_on_app_store-34b717189c347474e43b6f1c533ef119.png">
+</a>                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="fsxs fws c-8 bg-4 text-center pvs">© Copyright StackSocial. All rights reserved. Hand made in Los Angeles</div>
+  <div id="footer-bottom-spacer" class="site privacy"></div>
+</div>
+
+    <script src="https://stacksocial-production-stacksocial.netdna-ssl.com/assets/application-ed2c9d0e7266a0565c1a0a8533b428f5.js" type="text/javascript"></script>
+    <script>
+</script>
+
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js">
+  {"parsetags": "explicit"}
+</script>
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-21555618-1']);
+
+
+  _gaq.push(['_trackPageview']);
+
+    _gaq.push(['_setCustomVar', 2, 'status', 'logged_out', 2]);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+  <!-- Quantcast Tag, part 2 -->
+  <script type="text/javascript">
+    _qevents.push( { qacct:"p-443uI8zl5eTMM" } );
+  </script>
+  <noscript>
+    <div style="display:none;">
+      <img src="//pixel.quantserve.com/pixel/p-443uI8zl5eTMM.gif" border="0" height="1" width="1" alt="Quantcast"/>
+    </div>
+  </noscript>
+<!-- End Quantcast tag -->
+
+<script type="text/javascript">
+  adroll_adv_id = "SRXPRQELBJDXBNMJXRWFXM";
+  adroll_pix_id = "FYFXEYJTCZCRZOX7J2EXDZ";
+
+  (function () {
+    var oldonload = window.onload;
+
+    window.onload = function(){
+      __adroll_loaded=true;
+      var scr = document.createElement("script");
+      var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+      scr.setAttribute('async', 'true');
+      scr.type = "text/javascript";
+      scr.src = host + "/j/roundtrip.js";
+      ((document.getElementsByTagName('head') || [null])[0] || document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+      if(oldonload){oldonload()}
+    };
+  }());
+</script>
+<script type="text/javascript">
+  setTimeout(function(){var a=document.createElement("script");
+  var b=document.getElementsByTagName("script")[0];
+  a.src=document.location.protocol+"//dnn506yrbagrg.cloudfront.net/pages/scripts/0021/8576.js?"+Math.floor(new Date().getTime()/3600000);
+  a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
+</script>
+    
+  
+
+<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
