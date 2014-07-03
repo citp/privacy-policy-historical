@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the herroundbrownass.com privacy policy that was archived on 2013-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130604191100id_/http%3A//www.herroundbrownass.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herroundbrownass.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703224557id_/http%3A//www.herroundbrownass.com/privacy) for the most accurate reproduction.*
 
 # Her Round Brown Ass
 
