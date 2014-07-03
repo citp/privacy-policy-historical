@@ -1,13 +1,14 @@
-> *The following text is extracted and transformed from the dealsofamerica.com privacy policy that was archived on 2014-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140216215722id_/http%3A//www.dealsofamerica.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealsofamerica.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703114004id_/http%3A//www.dealsofamerica.com/privacy.php) for the most accurate reproduction.*
 
 # DealsOfAmerica.com - Privacy Policy
 
-  
+[Deals of America Logo](http://www.dealsofamerica.com/)
+
 DealsOfAmerica.com takes your privacy very seriously. Our privacy statement reflects various measures, we take to protect your privacy. Our web server collects visitors IP address and browsers version.
 
 If you have elected to receive our free newsletter, your email-id is collected. This information is only used to provide you newsletter and important DealsOfAmerica.com communication. We do not share any information with any other party.
 
-User may "unsubscribe" to newsletter by click on unsubscribe link in the newsletter. 
+User may "unsubscribe" to newsletter by click on unsubscribe link in the newsletter.
 
 Apart from this, we do not collect any other information about visitors. The information we collect, if any, is not shared with other organizations for commercial purposes.
 
