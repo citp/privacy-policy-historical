@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpromote.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209112559id_/http%3A//www.wpromote.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpromote.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703144616id_/http%3A//www.wpromote.com/privacy) for the most accurate reproduction.*
 
 # Wpromote's Privacy Policy | Wpromote
 
@@ -116,7 +116,7 @@ We have been helping businesses succeed online since
 In 2004 Wpromote had 3 employees, all named Mike.  
 All three are still here and act as CEO, COO & CRO.
 
-What truly sets us apart are the 85+ passionate, creative   
+What truly sets us apart are the 100+ passionate, creative   
 and driven people that make up the Wpromote team.
 
 Work hard, play hard and shatter our client’s  
