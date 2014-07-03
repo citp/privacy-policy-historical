@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the roguefcu.org privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214103333id_/https%3A//www.roguefcu.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roguefcu.org privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703051246id_/https%3A//www.roguecu.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Rogue Federal Credit Union
+# Privacy Policy | Rogue Credit Union
 
 **FACTS**
 
@@ -199,6 +199,6 @@ A formal agreement between _Rogue Credit Union_ and a __ non-affiliated financia
 
 [](http://www.facebook.com/RogueCreditUnion)
 
-[](https://www.roguefcu.org/credit-union-difference/insured-funds)
+[](https://www.roguecu.org/credit-union-difference/insured-funds)
 
 **541.858.7328   -  800.856.7328**
