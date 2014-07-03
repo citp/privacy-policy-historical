@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the squirrly.co privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209063828id_/http%3A//www.squirrly.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the squirrly.co privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703215518id_/http%3A//www.squirrly.co/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Squirrly SEO for Wordpress
+# Privacy
 
 This policy covers how we use your personal information. 
 
