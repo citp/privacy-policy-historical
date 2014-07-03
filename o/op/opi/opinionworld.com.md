@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the opinionworld.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326222706id_/https%3A//www.opinionworld.com/en/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opinionworld.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703200013id_/https%3A//www.opinionworld.com/en/policies/privacy) for the most accurate reproduction.*
 
 # 
 
 **Effective: August 15th, 2013**
 
-**Last Updated:  August 15th, 2013**
+**Last Updated:  May 14th, 2014**
 
   1. 1\. Information You Submit
   2. 2\. Information Collected Through Automated Means
@@ -47,7 +47,7 @@ SSI uses third parties to provide services and certain functionality to SSI, inc
 
 _SSI’s Online Ad Effectiveness Program._
 
-In connection with SSI’s online ad effectiveness program, you can participate in surveys regarding specific ads and promotions that SSI is testing for its clients. To facilitate the completion of these surveys, SSI’s clients may write, set, or read cookies, locally shared/stored objects, flash cookies and/or any other related technology (each a **“Third Party Technology”** and collectively the **“Third Party Technologies”** ). The Third Party Technologies may be written, set or read in various locations, including, without limitation, SSI’s servers or systems. If you participate, your UID will be stored in the Third Party Technology to allow you to be re-contacted about the online ad or promotion and SSI’s client will use the Third Party Technology to determine whether you have seen, clicked on, or otherwise interacted with the online ad or promotion. If you have interacted with the online ad or promotion, SSI’s client will send your UID and the specific survey to SSI and SSI will provide you with the opportunity to complete the survey.
+In connection with SSI’s online ad effectiveness program, you can participate in surveys regarding specific ads and promotions that SSI is testing for its clients. To facilitate the completion of these surveys, SSI’s clients may write, set, or read cookies, locally shared/stored objects, flash cookies and/or any other related technology (each a “ **Third Party Technology** ” and collectively the “ **Third Party Technologies** ”). The Third Party Technologies may be written, set or read in various locations, including, without limitation, SSI’s servers or systems. If you participate, your UID will be stored in or associated with the Third Party Technology to allow you to be re-contacted about the online ad or promotion and SSI’s client will use the Third Party Technology to determine whether you have seen, clicked on, or otherwise interacted with the online ad or promotion. If you have interacted with the online ad or promotion, SSI’s client will send your UID and the specific survey to SSI and SSI will provide you with the opportunity to complete the survey. Additionally, if you participate, SSI may share your UID and data previously collected by SSI, including, without limitation, age, gender, income, number of people in your household, education/education level, and employment status, (“ **Audience Measurement Data** ”), to third parties, including, without limitation, SSI’s subcontractors, partners, and/or clients for the purpose of audience measurement reporting on the advertisements, campaigns, and websites that you visit, view, and/or click on. The Audience Measurement Data will be used to assist in the creation, development, and implementation of websites, online advertisements, and other Internet and digital media features, functionality, and campaigns. Audience Measurement Data may be shared in a single summary form (i.e. individual respondent level) or aggregate summary form (i.e. group of respondents).
 
 **If you live outside of the EU and you have not previously agreed to participate in the Online Ad Effectiveness Program, as of the Effective Date of this Privacy Policy, you hereby consent to participate.  If you wish to opt-out, please follow the opt-out process and procedures here.**
 
@@ -301,17 +301,13 @@ Ad Targeting
 
 [go to site](http://www.google.com/settings/ads/onweb/)  
   
-MSI ACI
-
-| 
-
-Online Ad Effectiveness Program
-
-| 
-
-<http://www.msi-aci.com/tagging.html>
-
-|   
+ MSI ACI |  Online Ad Effectiveness Program |  <http://www.msi-aci.com/tagging.html>  
+ InsightExpress |  Online Ad Effectiveness Program  
+|  <http://ad.insightexpressai.com/adserver/optout.aspx?redir=http://www.opinion-central.com/optedout.asp>  
+  
+ Turn |  Online Ad Effectiveness Program  
+|  <http://www.turn.com/privacy/customer-opt-out>  
+  
   
 ** C **.   Analytics and Customization - Data Collection****
 
@@ -342,6 +338,15 @@ Log Files.  SSI’s Services may automatically gather and store certain informa
 Digital Fingerprinting. Generally, digital fingerprinting assigns a unique identifier to your device or computer based upon the device’s or computer’s technical settings, characteristics and IP Address. SSI uses digital fingerprinting technology for quality control and validation purposes and fraud detection and/or prevention, including, without limitation, identifying duplicate or fraudulent respondents. SSI may implement and use digital fingerprinting directly or through a third party vendor.
 
 Watermarking.  Generally, watermarking involves placing a technology or file on your device or computer to identify that it has previously been used to register with or access SSI’s Services.  Watermarking is used for quality control and validation purposes and fraud detection and/or prevention purposes. SSI may engage in watermarking activities directly or through a third party vendor.
+
+SSI’s Do Not Track Notice.
+
+Do Not Track (“ **DNT** ”) is a preference in your browser that you can set to notify websites that you visit that you do not want the websites to collect certain information about you. SSI does not track individuals over time and across third party websites to provide targeted advertising and therefore SSI does not respond to DNT signals. If you object to SSI’s practice with regards to DNT signals, you may opt-out from participation or use of SSI’s services as described below.
+
+In connection with SSI’s online ad effectiveness program, SSI permits SSI’s subcontractors, partners and/or clients to drop, set, and/or write Third Party Technologies for the purpose of facilitating audience measurement and ad recall survey activities; however, SSI’s online ad effectiveness program does not include, and does not facilitate, the targeting of advertisements to individuals. SSI is not responsible for any third party’s compliance with or response to DNT signals. To learn more about SSI’s online ad effectiveness program, please review the Cookies section of this Privacy Policy.  
+
+  
+
 
 ## 3. Information collected from Third Parties ****
 
@@ -394,8 +399,6 @@ SSI will disclose PII and other information collected through SSI’s Services t
 Additionally, UIDs and information collected by automated means are provided to third parties, including, without limitation, clients, partners, agents and/or vendor for several purposes including, without limitation, identifying respondents for re-contact surveys or communications, fraud detection and/or prevention, database matching, data validation, data append, coding, data segmentation, and reward, incentive, sweepstakes or promotion related services and/or developing aggregated data insights regarding our survey respondents and providing a client(s) with access to and use of the aggregated data insights.
 
 With respect to information collected through SSI’s Services, SSI will provide survey data and responses to SSI clients with no PII disclosed by SSI, other than UID. If you voluntarily disclose PII in connection with your survey responses, and SSI collects the survey responses, SSI will transfer the survey responses, UID and the voluntarily disclosed PII to SSI’s client.  In addition, SSI may share geographic and/or demographic data SSI collects from you during enrollment or through certain profile questions SSI may ask you. Such data may be shared with third parties in single summary form (i.e. individual respondent level) or aggregate summary form (i.e. a group of respondents).
-
-SSI’s clients may engage SSI to supply or provide demographic information of or about individuals who have viewed an advertisement or visited a website for the purpose of measuring internet and digital media audiences. The demographic information may be provided or supplied to SSI’s clients. The demographic information and analysis performed by or on behalf of SSI’s clients assist with the creation, development and implementation of websites, online advertisements and other Internet and digital media features, functionality and campaigns.
 
 Generally, disclosures of PII by SSI to a third party, except for disclosures of UIDs, are made pursuant to a written agreement between SSI and the third party, which, among other things, limits use of the PII.   SSI may allow a client to collect PII directly from respondents. The disclosure is voluntary and, prior to collection, the client is required to enter into a written agreement with SSI, which, among other things, limits use of the PII.
 
