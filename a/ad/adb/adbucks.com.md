@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adbucks.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214051735id_/http%3A//www.adbucks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adbucks.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703123821id_/http%3A//www.adbucks.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -36,4 +36,4 @@ We may change this privacy policy at any time. You agree that we are under no du
 
 The Site is a growing online service. As such, we may have the occasion to buy or sell assets, including, but not limited to, in connection with a merger, dissolution, and transfer of ownership. Depending upon the nature of the transaction, we may share any and all data provided by you to us (including Account Data and Use Information) with third parties, as necessary to initiate, investigate or complete any such transaction(s).
 
-Last updated: Thursday, 27-Sep-12 09:04:01 PDT
+Last updated: Wednesday, 02-Jul-14 17:14:05 PDT
