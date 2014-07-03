@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the assuranthealth.com privacy policy that was archived on 2013-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130901200908id_/http%3A//www.assuranthealth.com/corp/ah/aboutassuranthealth/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the assuranthealth.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703091603id_/http%3A//www.assuranthealth.com/corp/ah/aboutassuranthealth/privacypolicy) for the most accurate reproduction.*
 
 # Assurant Health Privacy Policy
 
 [  
-HIPAA Privacy Notice](http://www.assuranthealth.com/corp/ah/HIPAA/HIPAAPrivacyNotice.htm)  **Online Privacy Policy** If You are an individual consumer located in California or other applicable state (if any), this notice is given to You pursuant to state law. It addresses personally identifiable information collected by Us about You when You visit or use this Site.
+HIPAA Privacy Notice](http://www.assuranthealth.com/corp/ah/HIPAA/HIPAAPrivacyNotice.htm)  **Online Privacy Policy** This notice is given to You pursuant to state law. It addresses personally identifiable information collected by Us about You when You visit or use this Site.
 
 Assurant Health and its affiliated companies are committed to protecting the personal information entrusted to us by consumers who visit our website. The trust you place in us when you share personal information and/or the personal information of another person or entity is a responsibility we take very seriously and is the cornerstone of how we conduct our business.
 
@@ -33,6 +33,8 @@ We may gather generic data automatically from your web browser, such as: the Int
 
 If we do combine non-personal information with personal information, the combined information will be treated as personal information as long as it remains combined.
 
+This site uses the ClickTale customer experience analytics service. The ClickTale service helps us analyze how visitors use our Website. We do not collect through the ClickTale service or transfer to ClickTale any personal identifiable information. We only use the ClickTale service to record, on a completely anonymous basis, information such as mouse clicks, mouse movements, scrolling activity as well as non-Personally Identifiable Information text you type in this website. ClickTale does not create a user profile for the purpose of tracking a user across unrelated web sites and will only use such information pursuant to its Privacy Policy (located at <http://www.clicktale.com/privacy_service.aspx>). You can choose to disable the ClickTale service at <http://www.clicktale.net/disable.html>.
+
  **V. Email communication  
 **  
 To protect your privacy, please do not use email to communicate information to us that you consider confidential. Email is not a secure method of communication and is not encrypted. Accordingly, an email message potentially could be accessed and viewed by others without your knowledge and/or permission, while in transit to us.
@@ -41,31 +43,37 @@ To protect your privacy, please do not use email to communicate information to u
 
 Persistent cookies may be used on this website. These are pieces of information or data sent to your browser from a web server and stored on your computer's hard drive for record-keeping purposes. We use this information to analyze traffic patterns and improve our website. If you prefer not to accept cookies, the help portion of the toolbar on most web browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. However, disabling cookies may result in certain parts of the website not operating correctly or prevent you from taking full advantage of some of the features of our website.
 
- **VII. Process for reviewing or requesting changes to personal information  
+ **VII. Do Not Track Signals  
+**  
+We do not respond to a web browser's "do not track" signal or other mechanisms that signal a request that our site not track the consumer's online activities over time and across websites.  Other parties may collect personally identifiable information about consumer's online activities over time and across different websites when a consumer user our website or service.
+
+ **VIII. Process for reviewing or requesting changes to personal information  
 **  
 If you think that any personal information we have collected about you is inaccurate, you may send a written request for review to us at the address provided in Section XII. We will investigate your request and make appropriate changes if warranted.
 
- **VIII. Changes to this policy  
+ **IX. Changes to this policy  
 **  
 We may change this Policy from time to time without notice. The most current Policy will be posted on this website. You should therefore review this online Privacy Policy regularly.
 
- **IX. Effective date**
+ **X. Effective date**
 
-Effective Date: June 2, 2010
+Effective Date: June 2, 2010  
+Revision Date : September 9, 2013
 
- **X. Links to other Websites  
+ **XI. Links to other Websites  
 **  
 This website may contain links to other websites that may have online information practices different from ours. We are not responsible for the privacy and security practices of those websites, and we encourage our visitors to learn about the privacy and security practices of those websites.
 
- **XI. Children**
+ **XII. Children**
 
 This website is not intended for children under the age of 18.
 
 We do not knowingly collect personal information from anyone under the age of 13. For more information about protecting your child's privacy online, visit the Federal Trade Commission.
 
- **XII. Privacy contact information  
+ **XIII. Privacy contact information  
 **  
 We welcome your questions or comments regarding this online Privacy Policy. Please write to The Assurant Health Privacy Office, 501 W. Michigan Avenue, Milwaukee WI 53203 or e-mail us your question at [ahprivacyoffice@assurant.com  
 ](mailto:ahprivacyoffice@assurant.com?subject=Privacy%20Policy)
 
-| 
+|   
+---|---
