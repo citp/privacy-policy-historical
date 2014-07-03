@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the apartmentlist.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331063000id_/http%3A//www.apartmentlist.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apartmentlist.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703182317id_/https%3A//www.apartmentlist.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy Apartment List
 
-Last Updated: 8/26/2013
+Last Updated: 4/22/2014
 
 Welcome to this website (“Site”), as operated by Vertical Brands Media, Inc. (“Company” or “we”). Company operates the Site and other associated services and offerings, including, without limitation, mobile and tablet applications, that allow individuals to list or locate apartments, houses or other real estate for rent or sale or to locate roommates (collectively, the "Service"), and makes it available to you subject to the [Terms of Service](https://web.archive.org/about/terms) (the "Terms"). This Privacy Policy is incorporated into and is subject to the Terms of Service. Capitalized terms used but not defined in this Privacy Policy have the meaning given to them in the Terms of Service.
 
@@ -28,7 +28,7 @@ This statement governs information you provide to us or that we learn from you a
 
 Company uses information that we collect through the Service for a variety of purposes, including those described below:
 
-**Providing and Supporting the Service.** Company uses the information that we collect to provide to you all of the features and services found on the Service. We will use your email address, without further consent, for non-marketing or administrative purposes such as notifying you of major Service updates, responding to your requests, and sending you other types of notices.
+**Providing and Supporting the Service.** Company uses the information that we collect to provide to you all of the features and services found on the Service. We will use your email address, without further consent, for non-marketing or administrative purposes such as notifying you of major Service updates, responding to your requests, and sending you other types of notices. We may review the content of communications you make through the Service so that we can provide better services. For example, monitoring user communications may help us identify and remove users who are attempting to scam other users or perform other illegal activity.
 
 **Improving the Service.** Company may use all of the information that we collect from our Users to understand usage trends and preferences, to improve the way the Service works and looks, to improve our marketing and promotional efforts, and to create new features and functionality.
 
