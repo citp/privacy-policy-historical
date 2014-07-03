@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buyonlinenow.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214081757id_/http%3A//www.buyonlinenow.com/privacy-security.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyonlinenow.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703085730id_/http%3A//www.buyonlinenow.com/privacy-security.asp) for the most accurate reproduction.*
 
 # Privacy & Security | BuyOnlineNow
 
@@ -10,11 +10,15 @@ BuyOnlineNow.com respects and protects your privacy. We will never provide your 
 
 This privacy policy applies to our web site and to our use and storage of customer data.
 
-## 2\. What information does BuyOnlineNow.com collect and how is it used? 
+## 2\. What information does BuyOnlineNow.com collect and how is it used?
 
 We use cookies to improve the ease of your shopping experience with us. This cookie file (placed on your computer by your browser) allows you to easily access your customer information each and every visit. We do not and cannot use this cookie to collect information about you or your computer. We collect only information knowingly provided by you. We collect your name, email address, billing address, shipping address, telephone number and company name during registration. We also collect your credit card number when you complete an order. To further protect your security, we do not store your credit card number on our servers, therefore you are required to reenter it each time you purchase from us. During order checkout, we also record your PC's IP address (it's digital Internet Protocol address). 
 
 We do provide the details required to complete your order to the company contracted by BuyOnlineNow.com to provide inventory and order fulfillment. Your credit card transactions are processed on our web site by CyberSource and information required to complete payments & credits is provided to CyberSource during processing. This information is provided only as necessary to deliver your orders and is not used by the fulfillment company for any other purpose. We do monitor our website's traffic and usage patterns. This non-personal information, containing no individual identifiers, may be provided to 3rd parties for BuyOnlineNow.com's business or marketing purposes. 
+
+BuyOnlineNow uses Google Display Advertising to help increase user web experience by using 3rd-party audience data (such as age, gender, and interests). BuyOnlineNow and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) together to report how your ad impressions, other uses of ad services, and interactions with these ad impressions and ad services are related to visits to your site. 
+
+BuyOnlineNow also uses Google Remarketing to advertise online. BuyOnlineNow and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on someone's past visits to your website. Third-party vendors, including Google, may show BuyOnlineNow ads on sites across the Internet. 
 
 ## 3\. What are cookies and how are they used?
 
