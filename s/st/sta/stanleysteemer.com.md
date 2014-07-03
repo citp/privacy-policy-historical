@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stanleysteemer.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325035526id_/https%3A//www.stanleysteemer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stanleysteemer.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704003523id_/https%3A//www.stanleysteemer.com/privacy) for the most accurate reproduction.*
 
 # Stanley Steemer's Privacy Policy
 
