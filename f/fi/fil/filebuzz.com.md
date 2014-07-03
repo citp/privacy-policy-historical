@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filebuzz.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214015718id_/http%3A//www.filebuzz.com/privacyinfo.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filebuzz.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703083500id_/http%3A//www.filebuzz.com/privacyinfo.html) for the most accurate reproduction.*
 
 # FileBuzz - Find Software Fast - Privacy Statement
 
