@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the totalrl.com privacy policy that was archived on 2014-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140525234309id_/http%3A//www.totalrl.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totalrl.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703074941id_/http%3A//www.totalrl.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Rugby League news and Super League scores | Total Rugby League
 
