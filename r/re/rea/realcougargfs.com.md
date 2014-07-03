@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realcougargfs.com privacy policy that was archived on 2014-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140205054549id_/http%3A//join.realcougargfs.com/information/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realcougargfs.com privacy policy that was archived on 2014-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140703151244id_/http%3A//join.realcougargfs.com/information/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
