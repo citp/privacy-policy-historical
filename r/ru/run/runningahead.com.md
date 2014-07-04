@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the runningahead.com privacy policy that was archived on 2014-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140127075646id_/http%3A//www.runningahead.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runningahead.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704083952id_/http%3A//www.runningahead.com/legal/privacy) for the most accurate reproduction.*
 
 # RunningAHEAD
 
@@ -6,19 +6,19 @@ Last Updated May 9, 2011
 
 This Privacy Policy is incorporated into and subject to the RunningAHEAD, LLC Terms of Service and serves to notify you of the following:
 
-  * [What information about me is collected? ]()
-  * [Where and when is information collected (including through the use of cookies and action tags)?]()
-  * [Is information that i submit to the public areas of the Service private?]()
-  * [Does RunningAHEAD collect information from children under 13 years of age? ]()
-  * [What does RunningAHEAD do with the information it collects? ]()
-  * [When does RunningAHEAD disclose information to third parties? ]()
-  * [Does this privacy policy apply when I link to other web sites? ]()
-  * [Is the information collected through the Service secure? ]()
-  * [Could my information be transferred to other countries?]()
-  * [What choices do I have regarding the collection, disclosure and distribution of personally identifiable information? ]()
-  * [Can I update or correct my personally identifiable information? ]()
-  * [How will I know if there are any changes to this privacy policy? ]()
-  * [Whom do I contact if I have any privacy questions?]()
+  * What information about me is collected? 
+  * Where and when is information collected (including through the use of cookies and action tags)?
+  * Is information that i submit to the public areas of the Service private?
+  * Does RunningAHEAD collect information from children under 13 years of age? 
+  * What does RunningAHEAD do with the information it collects? 
+  * When does RunningAHEAD disclose information to third parties? 
+  * Does this privacy policy apply when I link to other web sites? 
+  * Is the information collected through the Service secure? 
+  * Could my information be transferred to other countries?
+  * What choices do I have regarding the collection, disclosure and distribution of personally identifiable information? 
+  * Can I update or correct my personally identifiable information? 
+  * How will I know if there are any changes to this privacy policy? 
+  * Whom do I contact if I have any privacy questions?
 
 
 
@@ -26,11 +26,11 @@ This Privacy Policy is incorporated into and subject to the RunningAHEAD, LLC Te
 
 Depending on your use of the websites, applications (including mobile apps) and/or other services we, RunningAHEAD, LLC ("RunningAHEAD" "we" or "us" or "our") may make available from time to time (collectively, and together with associated and successor websites, applications and services, the "Service"), we may collect two types of information: personally identifiable information and non-personally identifiable information.
 
-## Personally Identifiable Information 
+### Personally Identifiable Information 
 
 Personally identifiable information is information that identifies you or can be used to identify or contact you. Such information may include your name, address, email address, telephone number, and billing and credit card information. 
 
-## Non-Personally Identifiable Information
+### Non-Personally Identifiable Information
 
 Non-personally identifiable information is information that any single of item of which, by itself, cannot be used to identify or contact you, such as demographic information (like age, profession, gender, current location, zip code, birth date, or year of birth). Non-personally identifiable information may also include user IP addresses, browser types, domain names, purchasing or usage history and trends, and other anonymous statistical data involving the use of the Service. 
 
@@ -38,11 +38,11 @@ Non-personally identifiable information is information that any single of item o
 
 We will collect personally identifiable information from you only if you voluntarily submit the information to us. We may also receive personally identifiable information about you from third parties providing credit and debit card authorization and fraud screening services as part of your use of the Service. 
 
-## Registering to Use the Service and in the Course of Using the Service.
+### Registering to Use the Service and in the Course of Using the Service.
 
 You may be required to establish an account in order to take advantage of certain features of the Service. If so, if you wish to establish an account you will be required to provide us with information (including personally identifiable information and non-personally identifiable information) such as name, postal address, email address, birth date and credit card and billing information. We may also receive personally identifiable information about you from third parties providing credit and debit card authorization and fraud screening services as part of the registration process. In addition, we may obtain your personally identifiable information from you if you identify yourself to us by sending us an email with questions or comments.
 
-## Cookies and Action Tags.
+### Cookies and Action Tags.
 
 We collect non-personally identifiable information passively using "cookies" and "action tags."
 
@@ -58,11 +58,11 @@ By using cookies and action tags together, we are able to gain valuable informat
 
 Finally, you should be aware that advertisers and other third parties may also use their own cookies or action tags when you click on their advertisement or link to their websites or services on or from the Service. This Privacy Policy does not govern the use by such third-party websites or services or providers of third-party advertising.
 
-## Log Files.
+### Log Files.
 
 We also collect non-personally identifiable information through our Internet log files, which record data such as user IP addresses, browser types, domain names, and other anonymous statistical data involving the use of the Service. This information may be used to analyze trends, to administer the Service, to monitor the use of the Service, and to gather general demographic information. We may link this information to personally identifiable information for these and other purposes such as personalizing your experience on the Service and evaluating the Service in general.
 
-## Analytics Services.
+### Analytics Services.
 
 We may utilize third party service providers and services to analyze and provide statistics about the use of the Service, such as Google Analytics. may involve us "page tags" or other tracking code to track visitor data and send it the third parties' data collection servers for processing on our behalf. 
 
@@ -86,27 +86,27 @@ We may also use the information gathered to perform statistical analysis of user
 
 Except as set forth in this Privacy Policy or as specifically authorized by you, we will not disclose any information we gather from you through the Service.
 
-## Laws and Legal Rights.
+### Laws and Legal Rights.
 
 We may disclose your information (including personally identifiable information) if we believe in good faith that we are required to do so in order to comply with an applicable statute, regulation, rule or law, a subpoena, a search warrant, a court or regulatory order, or other valid legal process. We may disclose personally identifiable information in special circumstances when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating the Terms of Service for our Service, to detect fraud, for assistance with delinquent accounts, or to protect the safety and/or security of our users, the Service or the general public.
 
-## Third Parties Generally.
+### Third Parties Generally.
 
 We may provide to third parties non-personally identifiable information, including where such information is combined with similar information of other users of the Service. For example, we might inform third parties regarding the number of unique users who use the Service, the demographic breakdown of our users of the Service, or the products and/or services purchased using the Service and the vendors of such products and services. We may also provide to third parties personally identifiable information. For example, we might share our users' responses to questionnaires and e-mail addresses with third parties in order for third parties to contact users about products and services that may be of interest. The third parties to which we may provide personally identifiable and non-personally identifiable information may include potential or actual advertisers, providers of advertising products or services (including vendors and website tracking services), merchants, affiliates and other actual or potential commercial partners, sponsors, licensees, researchers and other similar parties.
 
-## Outside Contractors.
+### Outside Contractors.
 
 We may employ independent contractors, vendors and suppliers (collectively, "Outside Contractors") to provide specific services and products related to the Service, such as hosting and maintaining the Service, providing credit card processing and fraud screening, and developing applications for the Service and e-mail services. In the course of providing products or services to us, these Outside Contractors may sometimes have limited access to information collected on the Service, including your personally identifiable information. We require that these contractors (1) protect the privacy of your personally identifiable information consistent with this Privacy Policy, and (2) not use or disclose your personally identifiable information for any purpose other than providing us with the products or services for which we contracted.
 
-## Third Party Sellers.
+### Third Party Sellers.
 
 In addition, through the Service, you may be given the opportunity to purchase (or to obtain more information regarding) certain content, products or services that are sold by parties other than us (collectively, "Merchants"). As noted above, in some circumstances, we may share personally identifiable and non-personally identifiable information with third parties, including Merchants, so that they can contact you about products and services that may be of interest. Merchants may request that you submit certain information to them in order to purchase their products or services or to obtain additional information from them. By submitting the requested information, you affirmatively consent to have that information shared with the Merchant. This information is used by the Merchant and may be subject to a different privacy policy. We are not responsible for the privacy practices of Merchants. We encourage you to be aware when the Service links to Merchants' websites and to read the privacy policies or statements of each and every Merchant website. This Privacy Policy applies solely to information collected through the Service. 
 
-## Sale of Business.
+### Sale of Business.
 
 We reserve the right to transfer information to a third party in the event of a sale, merger or other transfer of all or substantially all of the assets of RunningAHEAD, or that portion of RunningAHEAD to which the Service relates, provided that the third party agrees to adhere to the terms of this Privacy Policy.
 
-## Affiliates.
+### Affiliates.
 
 We may disclose information (including personally identifiable information) about you to our Corporate Affiliates. For purposes of this Privacy Policy, "Corporate Affiliate" means any person or entity which directly or indirectly controls, is controlled by or is under common control with RunningAHEAD, whether by ownership or otherwise. Any information relating to you that we provide to our Corporate Affiliates will be treated by those Corporate Affiliates in accordance with the terms of this Privacy Policy.
 
