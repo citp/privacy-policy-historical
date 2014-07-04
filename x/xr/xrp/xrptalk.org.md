@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xrptalk.org privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623055343id_/https%3A//xrptalk.org/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xrptalk.org privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704040851id_/https%3A//xrptalk.org/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - XRPtalk
 
