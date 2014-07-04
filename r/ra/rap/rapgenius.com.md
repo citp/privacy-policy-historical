@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rapgenius.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627220337id_/http%3A//rapgenius.com/static/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapgenius.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704221523id_/http%3A//rapgenius.com/static/privacy_policy) for the most accurate reproduction.*
 
-# Rap Genius | Discover the Meaning of Rap Lyrics
+# Rap Genius | Discover the meaning of rap lyrics
 
 Rap Genius ("Rap Genius," "we" or "us") is committed to protecting your privacy. This Privacy Policy explains how information about you or associated with you ("personal information") is collected, used and disclosed by Genius Media Group, Inc. and its affiliates, which own and operate Rap Genius services ("Rap Genius," "we" or "us"). This Policy applies to the online services offered by Rap Genius at [rapgenius.com](https://web.archive.org/) (the "Website" or "Our Service"). For more information about our service, please visit our [About Rap Genius](https://web.archive.org/static/about) page.
 
