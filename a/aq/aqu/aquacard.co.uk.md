@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aquacard.co.uk privacy policy that was archived on 2014-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140524022201id_/http%3A//www.aquacard.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aquacard.co.uk privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704150808id_/http%3A//www.aquacard.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - aqua
 
