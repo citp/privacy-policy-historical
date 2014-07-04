@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bearnaked.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331150420id_/http%3A//www.bearnaked.com/en_US/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bearnaked.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704165905id_/http%3A//www.bearnaked.com/en_US/privacy.html) for the most accurate reproduction.*
 
 # Bear Naked | All Natural Whole Grain Granola
 
