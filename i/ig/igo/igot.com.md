@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the igot.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331152644id_/https%3A//www.igot.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igot.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704024031id_/https%3A//www.igot.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# ($481.79) Buy, Sell, Send, and Receive Bitcoin easily. Store Bitcoin in Your Hosted Wallet!
+# (664.61 USD) Buy, Sell, Send, and Receive Bitcoin easily. Store Bitcoin in Your Hosted Wallet!
 
 Effective Date: March 20th, 2014. Last updated: March 20th, 2014.
 
