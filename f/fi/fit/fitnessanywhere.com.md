@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fitnessanywhere.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326180409id_/https%3A//www.trxtraining.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitnessanywhere.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704021056id_/https%3A//www.trxtraining.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
