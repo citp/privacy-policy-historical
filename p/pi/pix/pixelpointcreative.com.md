@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pixelpointcreative.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625154432id_/http%3A//pixelpointcreative.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixelpointcreative.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704041436id_/http%3A//pixelpointcreative.com/privacy.html) for the most accurate reproduction.*
 
 # Pixel Point Creative - Privacy Policy
 
