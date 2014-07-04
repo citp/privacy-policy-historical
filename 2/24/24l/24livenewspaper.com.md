@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 24livenewspaper.com privacy policy that was archived on 2014-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140226151732id_/http%3A//madadsmedia.com/help/privacy-policy-example.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 24livenewspaper.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704133547id_/http%3A//madadsmedia.com/help/privacy-policy-example.html) for the most accurate reproduction.*
 
-# Example Privacy Policy
+# 
 
 **Cookies & 3rd Party Advertisements**
 
