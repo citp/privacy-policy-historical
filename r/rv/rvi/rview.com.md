@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the rview.com privacy policy that was archived on 2012-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120401200327id_/https%3A//www.rview.com/Service/PersonalPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rview.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704101955id_/https%3A//www.rview.com/Service/PersonalPolicy) for the most accurate reproduction.*
 
-# RemoteView
+# RemoteView - Remote Access, Control your PC from a mobile and another PC,
 
-  * [使用条款](https://web.archive.org/Service/UsingPolicy)
-  * [个人信息保护政策](https://web.archive.org/Service/PersonalPolicy)
+  * [Legal Info](https://web.archive.org/Service/UsingPolicy)
+  * [Privacy Policy](https://web.archive.org/Service/PersonalPolicy)
 
 
 
-个人信息保护政策
+Privacy Policy
 
 We believe your business is no one else's. Your privacy is important to you and to us. So we'll protect the information you share with us. To protect your privacy, RSUPPORT follows different principles in accordance with worldwide practices for customer privacy and data protection.
 
@@ -98,4 +98,4 @@ New York, NY 10018, USA
 (888) 348-6330  
 COPYRIGHT © 2003-2012 RSUPPORT, INC. ALL RIGHTS RESERVED. 
 
-网站地图
+Site map
