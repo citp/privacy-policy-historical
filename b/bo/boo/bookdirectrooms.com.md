@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookdirectrooms.com privacy policy that was archived on 2012-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121015112917id_/http%3A//www.bookdirectrooms.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookdirectrooms.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704190654id_/http%3A//www.bookdirectrooms.com/Privacy) for the most accurate reproduction.*
 
 # Privacy And Security - BookDirectRooms.com
 
@@ -93,12 +93,11 @@ If you are dissatisfied with the outcome of your complaint, you may choose to es
   
 
 
-### eviivo Limited
+### Eviivo Limited
 
-Level 4, Horatio House  
-77 Fulham Palace Road Hammersmith, W6 8JA
+ **Registered Office:** The Grimaldi Building, 154 Pentonville Road, London, N1 9JE
 
  **E-mail:** info@eviivo.com
 
- **Telephone:** +44 (0)20 8576 5600  
- **Fax:** +44 (0)20 8576 5601
+ **Telephone:** +44 (0)844 880 3000  
+ **Fax:** +44 (0)844 880 3000
