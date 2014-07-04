@@ -1,98 +1,106 @@
-> *The following text is extracted and transformed from the womentowomen.com privacy policy that was archived on 2013-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131014141356id_/http%3A//www.womentowomen.com/legal.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the womentowomen.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704121848id_/https%3A//www.womentowomen.com/store/privacy-disclosures) for the most accurate reproduction.*
 
-# Legal/Privacy
+# Privacy Disclosures | Women To Women - Store
 
-Privacy policy
+**Last Updated: May 1, 2013**
 
-Women to Women was founded in 1984 to provide healthcare services to women of all ages through three venues: medical care from its clinic in Yarmouth, Maine (the “Healthcare Center”); health information and education through the Healthcare Center and this website; and a personalized, at-home program designed to support a foundation of health for all women (the “Personal Program”).
+This Privacy Policy describes the information that _Pick Enterprises_ collects, how that information can be used, with whom the information can be shared, and to whom the information can be disclosed, and provides you with choices about such uses and disclosures.  We encourage you to read this Privacy Policy carefully before using our website, purchasing our products or services, or when otherwise transacting business with us.  Please be aware that by using our website, you are accepting the terms, conditions, and practices described in this Privacy Policy.
 
-The Healthcare Center and the Personal Program are separate organizations that share the http://www.womentowomen.com website (the “Website”). As a medical practice, the Healthcare Center conforms to the strict regulations of U.S. federal law, as detailed below. Services provided by the Healthcare Center and advertised through the Website, including phone consultations, are governed by Healthcare Center’s privacy policy, which can be accessed [here](https://web.archive.org/clinic/legal.aspx).
+If you have any questions about our privacy practices, please refer to the end of this Privacy Policy for information on how to contact us.
 
-We honor and protect your privacy. If you visit the Website or participate in the Personal Program, we will protect your privacy to the fullest extent of the law. We will not disclose any such information to any third party — not even your name and address — for any purpose other than the fulfillment of orders you have placed for our products and services; this means we never sell, rent, or otherwise disclose your personal information to third-party marketers. We will restrict our employees’ access to such information on a need-to-know basis, and require that each of them sign a firm, written confidentiality agreement.
+## INFORMATION COLLECTION & USE
 
-This document explains in detail our policies governing the information you submit to our Website or provide us by other methods. We also suggest that you review our [Terms of Use](https://web.archive.org/web/20131014141356id_/http%3A//www.womentowomen.com/termsofuse.aspx), which include guidelines and limitations that may affect your use of the Website.
+We collect information that can identify you, such as your name and email address (“personal information”), as well as other information that does not identify you.  When you provide personal information through our website, the information can be sent to servers that are located in the United States and other countries around the world.  
+Information you provide.  We can collect and store personal information you enter on our website or provide to us in some other manner.  This includes information that identifies you, such as your name, mailing address, email address, and telephone number, and, if you transact business with us, financial information such as your payment method (valid credit card number, type, expiration date, or other financial information).  We also might request information about your interests and activities, your gender and age, and other demographic information, such as your hometown or your username, and we will collect that information as well.
 
-**1\. The type of information we collect**
+**Information you provide about others.**   We can collect and store personal information about other individuals that you might provide to us, such as their name, mailing address, and email address.  If you use our website to send other people (such as friends, relatives, colleagues, etc.) a product as a gift, we can store your personal information, as well as the personal information of each such recipient, in order to process those requests or facilitate future activities.
 
-We collect two types of information from users of our Website: (1) personal information that users provide to us and (2) non-personal information collected via technology, such as information about traffic patterns on our Website.
+**Use of cookies and other technologies to collect information.**  We use various technologies to collect information from your computer and about your activities on our website.
 
-As explained in this policy, we may collect personal data that you provide us when you:
-
-  * purchase, order, return, or request certain information about our products and services,
-  * contact our Customer Service numbers;
-  * take health profiles, assessments, or other surveys; or
-  * provide us with comments, suggestions, or testimonials.
+  * **Information collected automatically.**  We automatically collect information from your browser when you visit our website.  This information includes your IP address, your browser type and language, access times, the content of any undeleted “cookies” that your browser previously accepted from us, and the referring website address.
+  * **Cookies and Use of Cookie Data.**   When you visit our website, we may assign your computer one or more “cookies” to facilitate access to our website and to personalize your online experience.  Through the use of a cookie, we also can automatically collect information about your online activity on our website, such as the webpages you visit, the time and date of your visits, the links you click, and the searches you conduct on our site. During your visits to other websites where we might advertise, we (or other third parties) might use certain data collected on our website to show you the type of _Pick Enterprises_ advertisements likely to be of greater interest to you.  Although you cannot opt out of receiving online advertisements generally, you can control the collection of data on our website used for targeted _Pick Enterprises_ advertising during your visits to other websites.  To opt-out of _Pick Enterprises_ data collection for targeted advertising on other websites, click here: [Opt Out Now](http://media.match.com/optout.html "Opt Out Now").  Almost all browsers automatically accept cookies, although you can usually modify your browser setting to decline cookies.  But if you choose to decline cookies, please note that you may not be able to sign in or use some of the interactive features offered on our website.
 
 
 
-_Purchasing from Women to Women’s Personal Program:_ When you purchase products and services from us, we collect your name, mailing and billing addresses, phone number, and email address (“Personal Data”), and we endeavor to associate all of your future purchases with the Personal Data.
+**Other Technologies.**   We can use standard Internet technology, such as web beacons and other similar technologies, to track your use of our website.  We also can include web beacons in advertisements or email messages to determine whether these messages are being opened and acted upon by the recipient.  The information we obtain in this manner enables us to customize the services we offer our website visitors, to deliver targeted advertisements, and to measure the overall effectiveness of our online advertising, content, programming, or other activities.
 
-We also collect your credit or debit card information and keep a history of your purchases with us, regardless of your method of payment. This helps facilitate our processing of your orders and allows us to better assist you when you call us or use our on-line account management tool, called “MyPersonalProgram.” In addition, we may send you e-mails (1) confirming your orders, (2) confirming the shipment of your order, and (3) providing instructions or recommendations to help you get the most out of your purchases. We always give you the opportunity to opt out of receiving such materials by unsubscribing at the bottom of each e-mail or by using the e-mail preferences tool located in "MyPersonalProgram."
+**Information collected by third-parties.**  We might allow third parties, including our authorized service providers, advertising companies, and ad networks, to display advertisements on our website.  These companies might also use tracking technologies, such as cookies, to collect information about the users who view or interact with their advertisements.  Our website does not provide any personal information to these third parties.  The non-personal information only allows them to deliver targeted advertisements and to gauge their effectiveness.  Some of these third-party advertising companies might be advertising networks that are members of the Network Advertising Initiative, which offers a single location to opt out of ad targeting from member companies ([www.networkadvertising.org](http://www.networkadvertising.org/)).
 
-Further, when you return previously purchased merchandise or request a refund, you may be asked to give your name, address, and phone number. We collect this information to help prevent fraud and to ensure your account is properly credited.
+## How we use the information we collect
 
-_Contacting our Support Desk:_ When you call our Support Desk about a product, delivery, billing question, or for customer service, you may be asked for Personal Data that identifies you along with additional information we need to help you. Because this information helps us personalize our services to meet your needs, we may retain the information you give us during this call to better assist you in the future.
+We can use the information that we collect about you to enable us to do one or more of the following tasks:
 
-_Taking Health Assessments, Profiles and Other Surveys:_ We collect information from you when you voluntarily choose to use the various services we provide on our site, such as our Hormonal Health Profile, Bone Health Profile, etc. For instance, we may ask for information about the symptoms you have or the demands you are making on your body. When you voluntarily provide us with this type of information, we may use it to update you on products, services, or benefits or to provide information or newsletters that we think may be of interest to you. We also use this information to personalize our website for you, and we may also contact you for market research. You may opt out of such communications with us by sending an email to [ personalprogram@womentowomen.com](mailto:personalprogram@womentowomen.com) with the subject: Attn. Privacy Officer, and include the email you used to receive your recommendations in the text area. Without an accurate email address, we cannot opt you out. 
-
-_Providing Comments, Feedback, or Testimonials:_ If you provide us with feedback, comments or testimonials via e-mail or phone, we will collect your name and email address in order to send you a reply. Further, as required by U.S. federal law, we collect information that you voluntarily provide us concerning any adverse reactions you experienced that may have been caused by or related to the use of our nutritional supplements.
-
-_Non-Personal Information Collected via Technology:_ In some cases, we may collect non-personal information on an aggregated basis to make the Website more useful to you and to do such things as operate and enhance the Website. For example, we may collect information concerning:
-
-  1. The URL, or address, of the site you just came from;
-  2. The type of internet browser you are using;
-  3. Your Internet Protocol, or IP, address. An IP address is the string of numbers that identifies each sender or receiver of information that is sent across the internet.
-  4. Cookies, namely, small pieces of information that a website sends to your computer’s hard drive while you are viewing a website. We use both session cookies (which expire when you close your browser) and persistent cookies (which stay on your computer until you delete them) to provide you with a more personal and interactive experience on the Website. You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can disable this function by changing the cookie profile on your computer’s Web browser. If you disable or delete your cookies, however, you will not have access to certain features of our site, such as “Remember My Password” or interactive quizzes you have taken. We do not store any Personal Data in cookies on your computer other than the cookie itself.
-  5. Clear GIFs, which are tiny graphics with a unique identifier, similar to cookies, and are used to track the online movements of Internet users. We use clear GIFs in HTML-based e-mails to let us know which e-mails have been opened and acted upon by recipients. This information helps us assess the effectiveness of certain communications and the Website, and it helps us constantly improve their relevance.
-
+  * Deliver the products and services that you have requested.
+  * Manage your account and provide you with customer support.
+  * Perform research and analysis about your use of, or interest in, our products, services, or content, or the products, services or content offered by third parties.
+  * Communicate with you by email, U.S. postal mail, telephone, and/or mobile devices about products or services that we think might be of interest to you either from us or other third parties.
+  * Develop and display content and advertising that is tailored to your interests on our website and other websites.
+  * Verify your eligibility and deliver prizes in connection with contests or sweepstakes.
+  * Enforce or exercise any rights in our Terms and Conditions of Use.
+  * Manage our business.
+  * Provide _Pick Enterprises_ advertisements to you when you visit other websites.
+  * Perform functions as otherwise described to you at the time of collection.
 
 
-**2\. Disclosure of Your Data**
 
-We do not sell, trade or rent your Personal Data to third parties except to share your Personal Data with third parties to fulfill the services that you have asked us to provide to you, including (but not limited to) the processing and authorization of your credit card and shipping the products you ordered. These third parties are forbidden to use your Personal Data other than to provide the services requested by you through the Personal Program. You expressly consent to the sharing of your Personal Data with our contractors and third-party service providers for the sole purpose of providing services to you.
+**Financial information.**   We can use financial information or method of payment process for purchases that you make on our website, to enroll you in the discount, rebate, and other programs in which you elect to participate, to protect against or identify possible fraudulent transactions, and otherwise as needed to manage our business.
 
-We collect, use, and disclose your Personal Data with your consent, except as permitted or required by law. For instance, we may be required or permitted under statute or regulation to collect, use, or disclose Personal Data without your consent, for example to comply with a court order or subpoena, to comply with local, federal, or foreign regulations or a legally permitted inquiry by a government agency, or to collect a debt owed to us. In addition, we may be required to disclose information, such as health-related information, to the U.S. Food and Drug Administration (FDA) concerning any adverse events potentially caused by our nutritional supplements. In these instances, we only disclose the Personal Data that is required by the FDA.
+## Who we might share your information with
 
-**3\. Control of Your Personal Data**
+We do not share your personal information with anyone else except as indicated below, or when we ask you first and give you an opportunity to opt out of having your personal information shared.  We can share your personal information with:
 
-We offer you choices regarding the collection, use, and sharing of your Personal Data. You may update, remove, or otherwise change any of your account information (including customer, billing, and shipping addresses), payment settings (including credit card information and billing address), and your e-mail preferences (including e-mail address and opt-in information) by visiting “[MyPersonalProgram](https://web.archive.org/community/default.aspx).” You may also do so by calling our Customer Service line at 1-800-915-6811. Note that we may retain changed or deleted information in our archives in order to serve you better or comply with legal or regulatory requests.
+  * Service providers:  We may share your personal information, which can include your name and contact information (including email address), with third parties who perform certain services on our behalf.  These services can include fulfilling orders, providing customer service and marketing assistance, performing business and sales analysis, customer screenings, supporting our website functionality, and supporting contests, sweepstakes, surveys, and other features offered through our website.  We can also share your name, contact information, and credit card information with our authorized service providers who process your credit card payments.  These service providers can have access to your personal information needed to perform their functions but they are not permitted to share or use such information for any other purposes.  
+Business partners:  When you register or make purchases on our website or click-through our advertisements that are offered on third-party websites, we can share personal information with the businesses with whom we partner to offer you the applicable products, services, or advertisements.  When you elect to engage in a particular merchant’s offer or program, you authorize us to provide your email address and other information to that merchant.  To opt-out of cookies that might be set by third-party data or advertising partners, please go to [http://www.aboutads.info/choices/](https://www.womentowomen.com/store/privacy-disclosures/).
+  * **Other Situations.**  We can also disclose your information, including your personal information:  
+In response to a subpoena or similar investigative demand, a court order, or a request for cooperation from a law enforcement or other government agency; to establish or exercise our legal rights; to defend against legal claims; or as otherwise required by law.  In such cases, we can raise or waive any legal objection or right available to us.
+  * When we believe disclosure is appropriate in connection with efforts to investigate, prevent, or take other action regarding illegal activity, suspected fraud or other wrongdoing; to protect and defend the rights, property or safety of our company, our users, our employees, or others; to comply with applicable law or cooperate with law enforcement; or to enforce our website terms and conditions or other agreements or policies.
+  * In connection with a substantial corporate transaction, such as the sale of our business, a divestiture, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy.
 
-_How to Unsubscribe:_ You may unsubscribe from our newsletters or program support e-mails at any time either by opting out via the links at the bottom of each e-mail you receive, by visiting the e-mail preferences section in “MyPersonalProgram,” or by calling our Customer Service line toll-free at 800-915-6811.
 
-Despite your indicated e-mail preferences, we may send you notices of any updates to our “Terms of Use” or “Privacy Statement.”
 
-_Security of Your Personal Data:_ We are committed to protecting the security of your Personal Data. We use a variety of industry-standard security technologies and procedures to help protect your Personal Data from unauthorized access, use, or disclosure. 
+We can share non-personal information we collect under any of the above circumstances. We can share it with third parties to develop and deliver targeted advertising on our website and on websites of third parties, and to analyze and report on advertising you see.  We can combine non-personal information we collect with additional non-personal information collected from other sources.  We also can share aggregated, non-personal information, or personal information in hashed, non-human readable form, with third parties, including advisors, advertisers, and investors, for the purpose of conducting general business analysis or other business purposes.
 
-We use Secure Sockets Layer (SSL) technology. SSL can be engaged by choosing to switch to SSL during any interaction in which you enter Personal Data when collecting your credit card information for online purchases. To verify that you have a secure server connection, look for the locked padlock symbol or **https** at the beginning of the web address in the browser navigator.
+## Third-party websites
 
-We also have implemented other industry-standard electronic means of protecting your Personal Data. We store Personal Data behind a computer firewall, a barrier designed to prevent outsiders from accessing our servers. We require you to enter a password to access your account information. In addition, we protect your Personal Data from unauthorized physical access by storing your Personal Data in a controlled facility. Except as provided elsewhere in this Privacy Policy, we limit access to Personal Data in electronic databases to those persons (including employees and contractors) in Women to Women organizations who have a business need for such access.
+There are a number of places on our website where you may click on a link to access other websites that do not operate under this Privacy Policy.  For example, if you click on an advertisement on our website, you might be taken to a website that we do not control.  These third-party websites might independently solicit and collect information, including personal information, from you and, in some instances, provide us with information about your activities on those websites.  We recommend that you consult the privacy policies of all third-party websites that you visit.
 
-Even though we take significant steps to ensure that your Personal Data is not intercepted, accessed, used or disclosed by unauthorized persons, you should know that we cannot eliminate all security risks associated with Personal Data.
+## How you can access your information
 
-_Your Password and Account Login:_
+If you have an online account with us, you have the ability to review and update your personal information online by logging into your account and clicking on your account settings.  More information about how to contact us is provided below.  If you have an online account with us, you also can close your account at any time by visiting the “Account Settings” page for your account.  After you close your account, you will not be able to sign in to our website or access any of your personal information.  However, you can open a new, separate account at any time or reactivate your previous account by following instructions we will give you at the time you close your account.  If you close your account, we can still retain certain information associated with your account for analytical purposes and recordkeeping integrity, as well as to prevent fraud, collect any fees owed, enforce our Terms and Conditions of Use, take actions we deem necessary to protect the integrity of our website or our users, or take any other action otherwise permitted by law.  In addition, if certain information has already been provided to third parties as described in this Privacy Policy, retention of that information will be subject to those third parties’ policies.
 
-You may be asked to create an account login and password in order to access some of the services on the Website. You are solely responsibility for maintaining the confidentiality of your account and password, and you agree to accept responsible for all activities that occur under your account or password.
+## Your choices about collection and use of your information
 
-**4\. Changes to the Website Privacy Policy**
+  * You can choose not to provide us with certain information, but that might result in you being unable to use certain features of our website because such information can be required in order for you to sign in, purchase products or services, participate in a survey, ask a question, or initiate other transactions while on our website.
 
-From time to time, we may use customer information for new, unanticipated uses, not previously disclosed in our Privacy Policy. If our Policy changes, we will post those changes to our Website as notification to you. If the Policy change is significant, we will notify you by e-mail in advance and provide you with the ability to opt out of these new uses. Please check this Policy frequently.
 
-**5\. Links**
 
-The Website may contain links to other websites. Please recognize that we do not control these third-party websites, and our Privacy Policy will not apply to those websites. You should consult each applicable privacy policy before using another linked website.
+At any time you can choose to no longer receive commercial or promotional emails from us by visiting the “Account Settings” page associated with your account.  When you register on our website, you will consent, or be given a choice as to whether you don’t consent, to receive email messages from us about special offers.  You can modify this consent later by visiting the “Account Settings” page associated with your account.  You also will be given the opportunity, in any commercial email that we send you, to opt out of receiving such messages in the future.  It may take up to 10 days for us to process an opt-out request.  We might send you other types of transactional and relationship email communications, such as service announcements, administrative notices, and surveys, without offering you the opportunity to opt out of receiving them.  Please note that changing information in your account, or otherwise opting out of receipt of promotional email communications will only affect future activities or communications from us.  If we have already provided your information to a third party (such as a service provider) before you change your preferences or update your information, you might have to change your preferences directly with that third party.
 
-**6\. For California Users**
+  * You can tell us to not share your personal information with third parties for direct marketing purposes by visiting the “Account Settings” page associated with your account after you have registered.
+  * You can also control information collected by cookies. See the information below for information about declining or deleting cookies.
 
-The California Civil Code requires a business with whom a California resident has an established business relationship to disclose to such residents, upon their request: (1) the types of personal information the business shares with third parties for the third party’s marketing purposes, and (2) the identities of the third parties with whom the business has shared this information during the immediately preceding calendar year.
 
-As noted above, we do not rent, sell, or otherwise disclose your personal information to third parties except in the normal course of fulfilling your orders and providing service. But if you are a California resident and would like to make such a request, please submit your request via email to:
 
-Privacy Officer, Concordia Partners  
-personalprogram@womentowomen.com
+## How we protect your personal information
 
-This notice was published and becomes effective on January 14, 2009.
+We take appropriate security measures (including physical, electronic, and procedural measures) to help safeguard your personal information from unauthorized access and disclosure.   **We want you to feel confident using our website to transact business.**  However, no system can be completely secure.  Therefore, although we take steps to secure your information, we do not promise, and you should not expect, that your personal information, searches, or other communications will always remain secure.  Users should also take care with how they handle and disclose their personal information and should avoid sending personal information through insecure email.  Please refer to the U.S. Federal Trade Commission’s website at <http://www.ftc.gov/bcp/menus/consumer/data.shtml> for information about how to protect yourself against identity theft.
 
-_Original Publication Date:_ 04/14/2003
+## Information you provide about yourself while using our service
 
-_Last Modified:_ 09/25/2013   
+We provide areas on our websites where you can post information about yourself and others and communicate with others or upload content.  Such postings are governed by our Terms and Conditions of Use.  In addition, such postings might appear on other websites or when searches are executed on the subject of your posting.  Also, whenever you voluntarily disclose personal information on publicly-viewable webpages, that information will be publicly available and can be collected and used by others.  For example, if you post your email address, then you might receive unsolicited messages. We cannot control who reads your postings or what other users might do with the information you voluntarily post, so we encourage you to exercise discretion and caution with respect to your personal information.
 
+## Visiting our websites from outside the United States
+
+If you are visiting our website from outside the United States, please be aware that your information can be transferred to, stored, and processed in the United States where our servers are located and our central database is operated.  By using our services, you understand that your information can be transferred to our facilities and those third parties with whom we share it as described in this Privacy Policy.
+
+## No Rights of Third Parties
+
+This Privacy Policy does not create rights enforceable by third parties or require disclosure of any personal information relating to users of the website.
+
+## Changes to this Privacy Policy
+
+_Pick Enterprises_ can update this Privacy Policy.  When we do post changes to this Privacy Policy we will revise the “last updated” date at the top of this Privacy Policy.  We recommend that you check our website from time to time to inform yourself of any changes in this Privacy Policy or any of our other policies.
+
+## How to Contact Us
+
+If you have any questions about this Privacy Policy or our information-handling practices, or if you would like to request information about our disclosure of personal information to third parties, please contact us by email as follows: [info@womentowomen.com](mailto:info@womentowomen.com)
