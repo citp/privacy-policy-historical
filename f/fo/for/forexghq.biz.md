@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forexghq.biz privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326071539id_/https%3A//forexghq.biz/%3Fa%3Dcust%26page%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forexghq.biz privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704093948id_/https%3A//forexghq.biz/%3Fa%3Dcust%26page%3Dprivacy_policy) for the most accurate reproduction.*
 
 # ForexGHQ - Your Best Practice
 
