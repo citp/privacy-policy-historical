@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cloudbet.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209160921id_/https%3A//www.cloudbet.com/en/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloudbet.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704120129id_/https%3A//www.cloudbet.com/en/privacy_policy) for the most accurate reproduction.*
 
-# Cloudbet- Privacy policy
+# Cloudbet | Bet on sports with bitcoin, live sportsbook, live dealer casino, blackjack, slots, roulette
 
 This Privacy Policy describes the way in which Cloudbet (otherwise referred to herein as "we" or "us") deal with the information and data you provide to us to enable us to manage your relationship with Cloudbet.
 
