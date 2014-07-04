@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the silvercar.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209081036id_/https%3A//www.silvercar.com/agreements/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silvercar.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704143411id_/https%3A//www.silvercar.com/agreements/privacy_policy) for the most accurate reproduction.*
 
 # 
 
@@ -8,47 +8,89 @@ We at Silvercar recognize the importance of protecting your personally identifia
 
 By submitting your personally identifiable information to us, you consent to Silvercar's use and disclosure of your personally identifiable information as set forth in this Privacy Notice. Your use and/or continued use of Silvercar products, services and websites signifies your consent that your information may be transferred to or stored on servers and processed outside the country of your residence. Provided the data protection laws of these other countries differ from those in the United States, please be assured that we take reasonable steps to ensure that your privacy is protected. If you do not agree with the terms of this Privacy Notice, please do not submit any information to Silvercar either offline or through our Apps or Websites.
 
+**Purpose of this Privacy Notice**
+
 We recognize the importance of protecting your personally identifiable information (which includes your name, address, telephone number, date of birth, e-mail address, credit or debit card information, drivers license number, and other contact information,) that you provide to Silvercar (collectively, "PII"). The purpose of this Privacy Notice is to tell you how Silvercar strives to better serve you by keeping you informed of promotions, products and services, while, at the same time, safeguarding your PII. This Privacy Notice sets forth our policies regarding the collection, use and disclosure of your PII both through our online and offline operations. This Privacy Notice also explains how you can correct or change the PII we hold about you, or opt-out of receiving certain marketing materials.
+
+**Who is Covered under this Privacy Notice**
 
 This Privacy Notice is applicable to PII that you provide to Silvercar. This Privacy Notice applies to all of the products, services, Apps and Websites offered by Silvercar or its subsidiaries or affiliated companies.
 
+**What Personally Identifiable Information Silvercar Collects**
+
 You generally are not required to provide us with PII when visiting our Websites. However, when you create an account, make a reservation, rent a vehicle, and/or join one of our programs, we need to collect certain information about you to provide or improve our services. The service that you choose will determine what information we collect from you. Here are some examples of information we collect from you:
+
+·       Name
+
+·       Email Address
+
+·       Home and/or Business Address
+
+·       Telephone Numbers at which we can contact you
+
+·       Date of Birth
+
+·       Payment Information (i.e. debit or credit card and expiration date)
+
+·       Information from your Driver's License or other Government issued identification (e.g., Passport)
 
 When you rent a vehicle, we will also record non-personally identifiable information about your rental (e.g. where you rented the vehicle, where and when you returned the vehicle, payment arrangements, insurance preferences, gas consumption, mileage and other information related to the vehicle). This information is necessary in order to administer your rental reservation and/or process your transaction.
 
 We may also need certain information from you when you request any of the following services or equipment: Special Needs/Optional Equipment; Special Offers/Discounts; Partner Member Numbers; use of a corporate or other discount number and other vehicle preferences. For example, if you wish to use a discount that Silvercar provides to members of an association/affiliate to which you belong, we may collect information about your membership to verify and provide you with the correct discount for our services.
 
+**How Silvercar Collects Personally Identifiable Information**
+
 The PII we collect from you will be with your express or implied consent. How we collect this information will depend on how you use our services. We may collect this information directly from you by telephone, fax, postal mail, email, at the customer suite, upon completion of an application or enrollment form, or through your use of our Websites, mobile applications (“Apps”) or the Internet. To the extent you use our Websites or Apps, we may also collect information about your use of our Websites and Apps, transactional and account information, e-mail and other information related to communications to our Websites or through our Apps. We may also collect information about you indirectly through a travel agent, an account program in which you or your employer participates or through one of our partner programs when you deal with us through those means. Additionally, our affiliates and third parties may provide us with information about you.
 
 You may choose not to provide some of your PII to us, but this may prevent us from providing our services to you, or limit our ability to provide you with the level of service that you would otherwise expect from us.
 
-Silvercar vehicles may be equipped with a device that allows Silvercar to use a global positioning satellite to track, locate and/or disable the vehicle and to provide such information and capability to law enforcement agencies at any time and especially if you fail to return the vehicle when and where required under your rental agreement with Silvercar or otherwise violate any provision of the rental agreement.
+Silvercar vehicles may be equipped with a device that allows Silvercar to use a global positioning satellite or other technology to track, locate and/or disable the vehicle and to provide such information and capability to law enforcement agencies at any time and especially if you fail to return the vehicle when and where required under your rental agreement with Silvercar or otherwise violate any provision of the rental agreement.
+
+**How Personally Identifiable Information is Used and Disclosed by Silvercar**
+
+_Usage_
 
 We strive to ensure that we give you a stress-free rental experience and are dedicated to building a rewarding and lasting relationship with every customer. To provide the level of service we believe you expect from us, we may use your PII for the following purposes:
+
+·       Provide and administer the services that you request, and communicate with you regarding such services and offerings;
+
+·       Research, develop, manage, protect and improve our Websites and services;
+
+·       Maintain and develop our service-oriented software and other business systems; and
+
+·       Analyze data, or to have a third party do so on our behalf.
 
 We may also use your information - both PII and non-personally identifiable information - for other purposes. For example, PII may be needed to process and track your transactions or to send you information about our affiliates' and business partners' products and services and other information and materials that may be of interest to you. If you use our Websites, we may also use your information to evaluate what portions of our Websites are visited more often than others, determine where visitors came from, where they go, and how long they stay on a particular page, or on our Websites in general.
 
 From time to time, we also may combine your PII with information obtained from other sources, including third parties, in order to provide you with more customized services and product offerings. To do this, it is often necessary to share your information with trusted vendors and business partners, such as companies that manage accounts, offer affinity, frequent-user, and reward programs, and companies that perform marketing services and other business operations for us. For more information, see below under "Disclosing."
 
-Disclosing _
+_Disclosing_
 
 We may disclose your PII to affiliated and non-affiliated organizations including, for example:
 
-  1. To your company or organization if you use our services under a corporate or other commercial account;
-  2. To one of our program partners (e.g. if you are a member of an affiliate program, such as a relocation company or frequent traveler program and you have asked us to send details of your rental agreement with us to obtain your benefits from that program);
-  3. To entities that provide services on our behalf;
-  4. To any intermediary you use, such as a travel agent, broker or booking engine, in relation to any aspect of your rental;
-  5. To independent licensees for use in providing the services and offerings which you have requested and to communicate with you regarding such services and offerings;
-  6. To your credit card issuer;
-  7. To credit reporting and fraud checking agencies;
-  8. To debt collection agencies, if you fail to pay monies owed to us;
-  9. To government or private organizations responsible for the processing or handling of traffic or parking related violations;
-  10. To driver licensing authorities, directly or through intermediary organizations, when needed to verify compliance with Silvercar's safe driver criteria for qualified drivers and/or to verify license information; and
-  11. To government, regulatory and law enforcement agencies where the disclosure is required or authorized by law, and otherwise as we believe is necessary or appropriate to satisfy any law, regulation or other governmental request, to operate our Websites and Apps properly, or to protect or defend our rights or the rights or well-being of our employees, users or others or if you are involved (or are suspected by governmental authorities or our security functions to be involved) in any illegal activity, even without a subpoena, warrant or court order.
+·       To your company or organization if you use our services under a corporate or other commercial account;
 
+·       To one of our program partners (e.g. if you are a member of an affiliate program, such as a relocation company or frequent traveler program and you have asked us to send details of your rental agreement with us to obtain your benefits from that program);
 
+·       To entities that provide services on our behalf;
 
-We may disclose your PII to our affiliates and non-affiliated business partners for their use both on our behalf and for their own business purposes. For example, our affiliates and business partners may use such PII to send you information about their products and services and other information and materials that may be of interest to you. You may [opt-out](https://web.archive.org/) of us disclosing your PII for these purposes through one of the methods described in this Privacy Notice.
+·       To any intermediary you use, such as a travel agent, broker or booking engine, in relation to any aspect of your rental;
+
+·       To independent licensees for use in providing the services and offerings which you have requested and to communicate with you regarding such services and offerings;
+
+·       To your credit card issuer;
+
+·       To credit reporting and fraud checking agencies;
+
+·       To debt collection agencies, if you fail to pay monies owed to us;
+
+·       To government or private organizations responsible for the processing or handling of traffic or parking related violations;
+
+·       To driver licensing authorities, directly or through intermediary organizations, when needed to verify compliance with Silvercar's safe driver criteria for qualified drivers and/or to verify license information; and
+
+·       To government, regulatory and law enforcement agencies where the disclosure is required or authorized by law, and otherwise as we believe is necessary or appropriate to satisfy any law, regulation or other governmental request, to operate our Websites and Apps properly, or to protect or defend our rights or the rights or well-being of our employees, users or others or if you are involved (or are suspected by governmental authorities or our security functions to be involved) in any illegal activity, even without a subpoena, warrant or court order.
+
+We may disclose your PII to our affiliates and non-affiliated business partners for their use both on our behalf and for their own business purposes. For example, our affiliates and business partners may use such PII to send you information about their products and services and other information and materials that may be of interest to you. You may [opt-out](http://www.silvercar.com/) of us disclosing your PII for these purposes through one of the methods described in this Privacy Notice.
 
 We may share your PII with other non-affiliated third parties, such as entities that provide services for our Websites or for our business (e.g., advertisers, ad servers, content providers, services providers, credit card processors, data processors, website development and support, fulfillment services providers, e-mail list hosting companies and distribution companies) that use such PII on our behalf consistent with this Privacy Notice. These types of third parties are not permitted to use your PII for any secondary purposes.
 
@@ -56,11 +98,11 @@ We may also transfer or assign your PII to third parties as a result of or in co
 
 We may need to send your PII overseas as part of our normal business operations. Provided the data protection laws of these other countries differ from those in the United States, please be assured that we take reasonable steps to ensure that your privacy is protected.
 
-### Website and Internet Privacy
+**Website and Internet Privacy**
 
 If you use our Apps or Websites or otherwise interact with us via the Internet, the following privacy-related policies also apply:
 
-### Website Tracking and the Use of Cookies and Other Technologies
+**Website Tracking and the Use of Cookies and Other Technologies**
 
 If you use our Websites, certain information may be collected from your computer in the course of your use of our Websites. As with many websites, we may use both session based and persistent "cookies" and/or other technology (e.g., web bugs, e-mail bugs, clear GIFs, web beacons, tracker GIFs and "clickstream" data logs) in our Websites or in our electronic communications with you to enhance the functionality of our Websites and services. These technologies also make your transactions and other activities more convenient and efficient.
 
@@ -78,47 +120,57 @@ An IP address is a unique number that is automatically assigned to your computer
 
 Silvercar collects IP addresses for the purposes of: helping us diagnose problems with our main computers, for system administration, to report aggregated information to our business partners, and to audit the use of our Website. When users request Web pages from our Web Site, our Web servers log the User's IP address. We do not normally link IP addresses to anything personally identifiable, which means that a user's session will be logged, but the user will remain anonymous to us. For example, we collect and/or track the home server domain name, the type of computer, and the type of Web browser used by you to access this Web Site. Such collection and tracking information is gathered by us as you navigate through our Websites, and will be used by us for our business purposes only.
 
-In select instances, we may use IP addresses to help us identify you when we feel it is necessary to enforce compliance with our Website [Terms of Use](https://web.archive.org/agreements/terms_and_conditions) or to protect our service, site, users or others.
+In select instances, we may use IP addresses to help us identify you when we feel it is necessary to enforce compliance with our Website [Terms of Use](http://www.silvercar.com/) or to protect our service, site, users or others.
 
 _Third Party Use of Technology_
 
 Third parties (including, but not limited to, software vendors, advertisers, ad servers, content providers, and services providers) may also use similar technologies by or through our Apps or Websites or through their own websites. In connection therewith, such entities may collect information about you and your usage activity on this and other websites. Silvercar does not control these third parties and is not responsible for the actions of our third party business partners. We encourage you to check their terms of use and privacy policies for such information.
 
-We may use third-party servicing technology and service providers to serve ads on our behalf across the Internet and sometimes on our Apps or Websites. They may collect non-personally identifiable information about your visits to our Websites, and your interaction with our products and services. They may also use non-personally identifiable information about your visits to send you targeted advertisements for goods and services. This information is collected through the use of a pixel tag, or similar technology which is industry standard technology used by most major websites. If you would like more information about this practice and to know your choices about not having this non-personally identifiable information used, please visit <http://www.networkadvertising.org/managing/opt_out.asp>.
+We may use third-party servicing technology and service providers to serve ads on our behalf across the Internet and sometimes on our Apps or Websites. They may collect non-personally identifiable information about your visits to our Websites, and your interaction with our products and services. They may also use non-personally identifiable information about your visits to send you targeted advertisements for goods and services. This information is collected through the use of a pixel tag, or similar technology which is industry standard technology used by most major websites. If you would like more information about this practice and to know your choices about not having this non-personally identifiable information used, please visit [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp).
 
 We may also share Website usage information about visitors to our Websites with selected third parties for the purpose of targeting our Internet banner advertisements on our Websites and other websites. To do this, we use web beacons and cookies provided by our third-party ad server on our Site. In connection therewith, such third parties may have access to and use non-personalized information about your online usage activity. The use of advertising cookies and web beacons sent by such third-party Web servers is standard for commercial activity in the Internet industry.
 
 _Web Beacons_
 
-Web pages may contain an electronic file called a web beacon that allows a website to count users who have visited that page or to access certain cookies.
+Web pages may contain an electronic file called a web beacon that allows a website to count users who have visited that page or to access certain cookies. 
 
-### Visiting Third-Party Websites
+**Visiting Third-Party Websites**
 
 Our Websites may contain links or references to third party websites. These websites are outside of our control, and the privacy policies of these sites may differ from our own. Please be aware that we have no control over these third-party websites and our Privacy Notice does not apply to such websites. We encourage you to check the terms of use and privacy policies of such sites before disclosing any PII via such sites.
 
 Occasionally when linking to a third-party website from our Websites, you may still see Silvercar affiliate logo or a Silvercar affiliate website frame. This is to provide you with a seamless experience when visiting our Websites. In these cases, you are no longer on our Websites but the third-party website, and therefore the information collection practices of the third party's website may differ from Silvercar's. The privacy notice of the third party site will govern how information collected from you is used by the owner of the website. You can always know what website you are on by checking the Uniform Resource Locator (URL) in the location bar within your browser.
 
-### Linking your Silvercar Accounts to Your Social Profiles
+**Linking your Silvercar Accounts to Your Social Profiles**
 
 _Social Authentication_
 
-In order to provide you with more personalized services, we may give you the option of linking your social profiles with your Silvercar accounts on our Apps or Websites. Some of our Websites may allow you to link social profiles from Facebook, Twitter, LinkedIn, Google and Windows Live. We may add or remove the availability of any or all platforms at any time in our sole discretion. This functionality is entirely optional for all users and you may link or unlink your account(s) at any time.
+In order to provide you with more personalized services, we may give you the option of linking your social profiles with your Silvercar accounts on our Apps or Websites.  Some of our Websites may allow you to link social profiles from Facebook, Twitter, LinkedIn, Google and Windows Live. We may add or remove the availability of any or all platforms at any time in our sole discretion. This functionality is entirely optional for all users and you may link or unlink your account(s) at any time.
 
 _What Information is Collected from Your Social Profiles and What It's Used for_
 
 If you exercise the option to link your social profile to any of our Apps or Websites, we may collect PII and additional information from your social profiles, which will be used by Silvercar and agents acting on our behalf to customize your Silvercar customer experience. Some examples of the type of information we may collect from these social profiles include:
 
-  1. Profile picture, gender, marital status, birthday, list of friends (but not the information on your friends' social profiles unless they have also linked their profiles)
-  2. Professional Information such as prior and current work history
-  3. Personal Likes, Activities and Interest Information
-  4. The information we collect may be used to:
-  5. Serve you customized offers and deals on our Websites
-  6. Send you email offers with special deals and discounts
-  7. Send you offers by mobile phone text messages
-  8. Update your profile information on our Websites
-  9. Publish check-in and check-out information to your linked social media accounts
-  10. Share your upcoming trips with friends
-  11. View your friends' that have linked their profiles upcoming trips
+·       Profile picture, gender, marital status, birthday, list of friends (but not the information on your friends' social profiles unless they have also linked their profiles)
+
+·       Professional Information such as prior and current work history
+
+·       Personal Likes, Activities and Interest Information
+
+·       The information we collect may be used to:
+
+·       Serve you customized offers and deals on our Websites
+
+·       Send you email offers with special deals and discounts
+
+·       Send you offers by mobile phone text messages
+
+·       Update your profile information on our Websites
+
+·       Publish check-in and check-out information to your linked social media accounts
+
+·       Share your upcoming trips with friends
+
+·       View your friends' that have linked their profiles upcoming trips
 
 _Unlinking Your Accounts_
 
@@ -130,9 +182,9 @@ In an effort to provide our customers with new ways of sharing content, we may e
 
 Please note, when you share (with or without adding your own comments) any of our content on your social media profile, that action is governed by the privacy notice of that social media platform, and not Silvercar's Privacy Notice. We do not track or store a record of those comments or actions.
 
-If you choose to participate in posting or sharing activities, you are electing to share and display such public activities via our Apps or Websites. Due to the public nature of your posting or sharing your posts may be included in RSS feeds, APIs and made available to other websites via other formats. As a result, your public activities may appear on third-party websites, blogs or feeds. **WE ARE NOT RESPONSIBLE FOR ANY PII YOU CHOOSE MAKE PUBLIC VIA YOUR SHARED POSTS**.
+If you choose to participate in posting or sharing activities, you are electing to share and display such public activities via our Apps or Websites. Due to the public nature of your posting or sharing your posts may be included in RSS feeds, APIs and made available to other websites via other formats. As a result, your public activities may appear on third-party websites, blogs or feeds. **WE ARE NOT RESPONSIBLE FOR ANY PII YOU CHOOSE MAKE PUBLIC VIA YOUR SHARED POSTS.**
 
-### How We Protect the Security of Personally Identifiable Information
+**How We Protect the Security of Personally Identifiable Information**
 
 The security of your PII is important to us. We exercise reasonable care in implementing generally accepted standards of security to protect your PII from loss, misuse and unauthorized access, disclosure, alteration or destruction, such as firewalls and Secure Socket Layer (SSL) encryption for some of your more sensitive PII. It is our policy to retain PII for as long as we believe appropriate for the purposes for which the PII was collected or as required by applicable law.
 
@@ -140,37 +192,37 @@ Unfortunately, "perfect security" does not exist on the Internet, and no data tr
 
 You are responsible for maintaining the strict confidentiality of your account passcode, membership numbers and pin numbers, and you will be responsible for any access to or use of our Websites by you or any person or entity using a passcode provided to you, whether or not such access or use has been authorized by or on behalf of you, and whether or not such person or entity is your employee, relative or agent. In the event of the unauthorized use of your passcode, account, or membership number, or any other breach of security involving your information as it pertains to Silvercar, you agree to immediately notify us. It is your sole responsibility to ensure that you exit from your account at the end of each session, control the dissemination and use of your passcode, control access to and use of your account and membership number, and notify us when you desire to cancel your account on our Websites. We will not be responsible or liable for any loss or damage arising from your failure to comply with this provision.
 
-In addition, some PII will be stored on your mobile device if you choose to use our App. In this case, you are solely responsible for protecting the security and integrity of all such PII, and we are not responsible for any disclosure of PII or for any use of your account that someone may make using the App on your mobile device, even if such use is not authorized by you.
+In addition, some PII will be stored on your mobile device if you choose to use our App.  In this case, you are solely responsible for protecting the security and integrity of all such PII, and we are not responsible for any disclosure of PII or for any use of your account that someone may make using the App on your mobile device, even if such use is not authorized by you.
 
 It is our policy that we will never request your sensitive PII, such as your credit card number, passcode, membership number or pin number, in an e-mail, text or on a website that is not located at the domain name used by Silvercar or an affiliate. If you receive an e-mail or other correspondence requesting that you provide any such information via e-mail or to a website that is not on such domain name, please do not provide such information, and report such request to our privacy officer at [privacy@silvercar.com](mailto:privacy@silvercar.com).
 
 In the unlikely event that we believe that the security of your PII in our possession or control may have been compromised, we may seek to notify you of that development. If a notification is appropriate, we will endeavor to do so as promptly as possible under the circumstances, and, to the extent we have your current e-mail address, we may notify you by e-mail.
 
-### How to Correct or Update Personally Identifiable Information that Silvercar Maintain
+**How to Correct or Update Personally Identifiable Information that Silvercar Maintain**
 
 If you have provided your PII to us, you can update the PII we hold about you. You play an active role in assisting Silvercar maintain the accuracy of your PII. Your prompt notification to us of any changes to your PII will assist us greatly in keeping your information accurate and up-to-date. If we don't agree to make the changes, you may challenge our decision.
 
-If you wish to contact us to access or correct your PII we have, or to inquire or provide feedback about our privacy practices, you can email us directly at [privacy@silvercar.com](mailto:privacy@silvercar.com).
+If you wish to contact us to access or correct your PII we have, or to inquire or provide feedback about our privacy practices, you can email us directly at privacy@silvercar.com _._
 
 We will respond to any access requests within 30 days of our receipt of the request.
 
-For customer service issues, please email us at [support@silvercar.com](mailto:support@silvercar.com).
+For customer service issues, please email us at support@silvercar.com.
 
-### How to Opt-Out of Receiving Marketing Materials from Silvercar
+**How to Opt-Out of Receiving Marketing Materials from Silvercar**
 
 You can opt-out of our use and disclosure of your PII for marketing purposes and customer satisfaction surveys, and/or withdraw your prior consent for same, by the methods provided below. Upon requesting an opt out, your consent will be withdrawn, however, please note that it often takes some time to process these requests. Therefore, it is possible that you may receive promotions scheduled prior to our receipt of your withdrawal of consent.
 
-To opt-out of Email Campaigns: You may reply to a promotional or marketing e-mail that you have received from us with the word "Unsubscribe" in the subject line or you can email us directly at [unsubscribe@silvercar.com](mailto:unsubscribe@silvercar.com). (If you use more than one e-mail address, then send your opt-out e-mail from each of your e-mail addresses.)
+To opt-out of Email Campaigns: You may reply to a promotional or marketing e-mail that you have received from us with the word "Unsubscribe" in the subject line or you can email us directly at unsubscribe@silvercar.com. (If you use more than one e-mail address, then send your opt-out e-mail from each of your e-mail addresses.)
 
-To opt-out of any other promotional mailings from Silvercar and our partners: you may notify us at [support@silvercar.com](mailto:support@silvercar.com).
+To opt-out of any other promotional mailings from Silvercar and our partners: you may notify us at support@silvercar.com.
 
-For customer service issues, please email us at [support@silvercar.com](mailto:support@silvercar.com).
+For customer service issues, please email us at support@silvercar.com.
 
 We may also provide additional methods for you to opt-out of having your PII used or disclosed for promotional and marketing purposes, such as by clicking on a checkbox located on the page of our Websites on which your PII is collected, or otherwise made available when you make reservations.
 
 Please note that your option not to receive promotional and marketing material: (a) will not preclude us from corresponding with you, by e-mail or otherwise, regarding your preexisting business relationship with us (e.g., your account status and activity or our responses to questions or inquiries you pose to us, or confirmations for existing reservations); (b) will not preclude us, including our employees, contractors, agents and other representatives, from accessing and viewing your PII for our internal business purposes; and (c) will not preclude us from disclosing your PII as described in this Privacy Notice for purposes other than sending you promotional and marketing materials.
 
-### Children's Privacy
+**Children's Privacy**
 
 Our Websites are not directed to children under the age of 18. If you are under the age of 18, then please stop using our Websites or our products and services and do not provide us with PII of any kind whatsoever.
 
@@ -180,16 +232,12 @@ We encourage parents and guardians to take an active role in monitoring their ch
 
 Some links on our Websites may possibly lead to the websites of third-parties that are directed to children. Silvercar does not control these third parties and is not responsible for the actions of our third party business partners. We encourage you to check their terms of use and privacy policies for such information that address children's privacy.
 
-### Applicable Law and Jurisdiction
+**Applicable Law and Jurisdiction**
 
 This Privacy Notice will be governed by the laws of the State of Texas, without regard to its conflict of law principals. By providing any PII to us, you fully understand and unambiguously consent to the transfer of such PII to, and the collection and processing of such PII in, the United States and other countries or territories. You agree that any cause of action that may arise under this Privacy Notice will be commenced and be heard in the appropriate court in Travis County in the State of Texas. You agree to submit to the personal and exclusive jurisdiction and exclusive venue of the courts located within Travis County in the State of Texas or the United States District Court for the Western District of Texas.
 
-### Changes to this Privacy Notice
+**Changes to this Privacy Notice**
 
 This Privacy Notice applies to all information we collect or receive, on or after the effective date of this Privacy Notice, from individuals who provide us with such information for the purpose of obtaining products and services from Silvercar or using our Apps or Websites.
 
-We reserve the right, at our discretion, to change, modify, add, or remove portions from this Privacy Notice. **If we materially change the way your personal information will be used, we notify you by way of either prominent posting on our Website(s), e-mail and/or mail. We encourage you to periodically review this Privacy Notice in order to keep apprised of any changes**.
-
-© 2014 Silvercar. All rights Reserved
-
-_
+We reserve the right, at our discretion, to change, modify, add, or remove portions from this Privacy Notice. **If we materially change the way your personal information will be used, we notify you by way of either prominent posting on our Website(s), e-mail and/or mail. We encourage you to periodically review this Privacy Notice in order to keep apprised of any changes.**
