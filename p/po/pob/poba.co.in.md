@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poba.co.in privacy policy that was archived on 2014-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140608132644id_/http%3A//www.poba.co.in/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poba.co.in privacy policy that was archived on 2014-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140705002804id_/http%3A//www.poba.co.in/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Poba! India Free Classifieds
 
