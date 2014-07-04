@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ip-address.org privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213213350id_/http%3A//www.ip-address.org/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ip-address.org privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704075245id_/http%3A//www.ip-address.org/privacy-policy.php) for the most accurate reproduction.*
 
 # IP Address - Disclaimer Privacy Policy
 
