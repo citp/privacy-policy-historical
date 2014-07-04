@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expotv.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626150637id_/http%3A//www.expotv.com/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expotv.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704085421id_/http%3A//www.expotv.com/legal/privacy_policy) for the most accurate reproduction.*
 
 # Expo TV Privacy Policy | Expo | Consumer Product Reviews in Video
 
