@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the astrill.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214190827id_/https%3A//www.astrill.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astrill.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704142623id_/https%3A//www.astrill.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Astrill VPN » Privacy Policy
 
@@ -35,6 +35,16 @@
 7 Security Policy
 
 7.1. When purchasing from Astrill, you can make a payment by Credit Card/Debit Card (via [2CheckOut](http://www.2checkout.com/)), [PayPal](https://www.paypal.com/), [Liberty Reserve](https://www.libertyreserve.com/), and [CashU](http://www.cashu.com/). Your financial details are passed through a secure server using the latest 128-bit SSL (secure sockets layer) encryption technology.128- bit SSL encryption is the current industry standard. If you have any questions regarding our security policy, please contact our customer support centre [support@astrill.com.](mailto:support@astrill.com)
+
+8 FaceBook and Twitter applications
+
+8.1. Some features may require FaceBook or Twitter authorization, e. g. trial account registration. Our application will ask for reading and posting rights, both have to be granted in order to activate the desired feature.
+
+8.2. When you grant permissions to our application, Astrill only keeps records of your social site personal ID. No other profile details are accessed
+
+8.3. Astrill posts on user's behalf only one time, that is when the permission is granted originally.
+
+8.4. Astrill does not share any social profile related information, with anybody. Ever.
 
 Last Updated: January 2011
 
