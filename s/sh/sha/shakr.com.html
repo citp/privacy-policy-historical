@@ -1,22 +1,22 @@
-<!--The following is the downloaded HTML source of the shakr.com privacy policy that was archived on 2014-03-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140325082150id_/https%3A//www.shakr.com/pages/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the shakr.com privacy policy that was archived on 2014-07-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140704044609id_/https%3A//www.shakr.com/pages/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head profile="http://www.w3.org/2005/10/profile" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# website: http://ogp.me/ns/website#">
 		<meta charset="utf-8">
 		
 		<title>Privacy Policy - Shakr</title>
 		<meta name="author" content="Shakr">
-		<meta name="description" content="Share your story with great video. It's free to create, and it takes just minutes to produce your own personalized video. Pay only for HD upgrades.">
+		<meta name="description" content="Share your story with great video. It's free to create, and it takes just minutes to produce your own personalized video. Pay only for upgrades.">
 		<meta name="referrer" content="always">
-				<meta http-equiv="X-UA-Compatible" content="IE=Edge">
+				<meta http-equiv="X-UA-Compatible" content="IE=Edge"><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o?o:n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({D5DuLP:[function(t,n){function e(t,n){var e=r[t];return e?e.apply(this,n):(o[t]||(o[t]=[]),void o[t].push(n))}var r={},o={};n.exports=e,e.queues=o,e.handlers=r},{}],handle:[function(t,n){n.exports=t("D5DuLP")},{}],G9z0Bl:[function(t,n){function e(){var t=l.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&p&&p.body){l.proto="https"===f.split(":")[0]||t.sslForHttp?"https://":"http://",i("mark",["onload",a()]);var n=p.createElement("script");n.src=l.proto+t.agent,p.body.appendChild(n)}}function r(){"complete"===p.readyState&&o()}function o(){i("mark",["domContent",a()])}function a(){return(new Date).getTime()}var i=t("handle"),u=window,p=u.document,s="addEventListener",c="attachEvent",f=(""+location).split("?")[0],l=n.exports={offset:a(),origin:f,features:[]};p[s]?(p[s]("DOMContentLoaded",o,!1),u[s]("load",e,!1)):(p[c]("onreadystatechange",r),u[c]("onload",e)),i("mark",["firstbyte",a()])},{handle:"D5DuLP"}],loader:[function(t,n){n.exports=t("G9z0Bl")},{}]},{},["G9z0Bl"]);</script>
 		<link rel="icon" type="image/png" href="/public/images/favicon.png">
 
 		
-		<link rel="stylesheet" href="/public/c/webfonts.1.2r35263be0.css">
-		<link rel="stylesheet" href="/public/c/core.1.2r35263be0.css">
-		<link rel="stylesheet" href="/public/c/website_old.1.2r35263be0.css">
+		<link rel="stylesheet" href="/public/c/webfonts.1.2rd163ef0d.css">
+		<link rel="stylesheet" href="/public/c/core.1.2rd163ef0d.css">
+		<link rel="stylesheet" href="/public/c/website_old.1.2rd163ef0d.css">
 			
-		<!--[if lte IE 9]><script src="/public/c/iefix.1.2r35263be0.js"></script><![endif]-->
+		<!--[if lte IE 9]><script src="/public/c/iefix.1.2rd163ef0d.js"></script><![endif]-->
 	
 		    
       		<script type="text/javascript" src="//use.typekit.net/qcb7egk.js"></script>
@@ -134,13 +134,14 @@ Seoul, Korea  137-070</p>
 	<div id="fb-root"></div>
 
 	
-	<script src="/public/c/webfonts.1.2r35263be0.en_US.js"></script>
-	<script src="/public/c/core.1.2r35263be0.en_US.js"></script>
-	<script src="/public/c/website.1.2r35263be0.en_US.js"></script>
+	<script src="/public/c/webfonts.1.2rd163ef0d.en_US.js"></script>
+	<script src="/public/c/core.1.2rd163ef0d.en_US.js"></script>
+	<script src="/public/c/website.1.2rd163ef0d.en_US.js"></script>
 	
 	<script>
 		var defaults = $.extend(window.defaults || {}, {
-				
+
+				environment: 'production',
 				debug: false,
 				root: 'https://www.shakr.com/',
 				container: '#content',
@@ -159,41 +160,31 @@ Seoul, Korea  137-070</p>
 				
 				/* Shakr */
 				token: '',
+				accountId: '0',
 				language: 'en_US'
 			}),
 
 			shakr,
 			branch = 1,
-			branchServer = 'www.shakr.com',
-			loader=0,loaded,
-			check = setTimeout(function(){
-				location.reload(true);
-			}, 60000),
+			branchServer = 'www.shakr.com';
+		
+		$(document).ready(function(){
+			loaded=true;
+			window.shakr = new Shakr(defaults);
+		});
 
-			ready = function() {
-				loader++;
-
-				if(loader>=2 && !loaded){
-					clearTimeout(check);
-					loaded=true;
-					window.shakr = new Shakr(defaults);
-				}
-			};
-
-		window.fbAsyncInit = ready;
-		$(document).ready(ready);
+		window.fbAsyncInit = function(){
+			window.shakr.emit('fbAsyncInit');
+		};
 
 		// Google Analytics
-		var _gaq = _gaq || [];
-		_gaq.push(['_setAccount', 'UA-29552020-1']);
-		_gaq.push(['_setDomainName', 'shakr.com']);
-		_gaq.push(['_trackPageview']);
+		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
-		(function() {
-		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-		})();
+		ga('create', 'UA-29552020-1', 'shakr.com');
+		ga('send', 'pageview');
  
 		// Facebook SDK
 		(function(d, s, id) {
@@ -205,5 +196,5 @@ Seoul, Korea  137-070</p>
 		}(document, 'script', 'facebook-jssdk'));
 	</script>
 
-    
-</body></html>
+    <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-2.newrelic.com","licenseKey":"51b43d031d","applicationID":"3971231","transactionName":"NVIDYBNQCxZTBRVfWQwYIFcVWAoLHTYAUVMRGAhaBVQd","queueTime":0,"applicationTime":35,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
+<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
