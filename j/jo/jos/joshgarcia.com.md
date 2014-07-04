@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joshgarcia.com privacy policy that was archived on 2014-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140323033927id_/http%3A//www.joshgarcia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joshgarcia.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704112338id_/http%3A//www.joshgarcia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | JoshGarcia.com
 
