@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the milaap.org privacy policy that was archived on 2014-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140505051242id_/http%3A//milaap.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the milaap.org privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704192150id_/https%3A//milaap.org/privacy-policy) for the most accurate reproduction.*
 
-# Milaap | Crowdfunding for causes. Loan a little, change a lot.
+# Donate for a Cause on Milaap: Best Crowdfunding Site for Social Impact & Fundraising for Charity | Milaap.org
 
 We value the trust you place in us. That's why we insist upon the highest standards for secure transactions and user information privacy. Please read the following statement to learn about our information gathering and dissemination practices.
 
@@ -68,4 +68,4 @@ Mr Alister D Monte
 Milaap Social Ventures India Private Limited  
 549, 26th Main, 14th Cross, J P Nagar Phase I,   
 Bangalore, Karnataka, India  
-Email: [feedback@milaap.org](https://web.archive.org/web/20140505051242id_/http%3A//milaap.org/feedback@milaap.org)
+Email: [feedback@milaap.org](https://web.archive.org/web/20140704192150id_/https%3A//milaap.org/feedback@milaap.org)
