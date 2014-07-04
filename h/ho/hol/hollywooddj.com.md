@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hollywooddj.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213193221id_/http%3A//www.hollywooddj.com/cucapr.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hollywooddj.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704030845id_/http%3A//www.hollywooddj.com/cucapr.html) for the most accurate reproduction.*
 
-# HOLLYWOOD DJ PRIVACY POLICY
+# DJ RESOURCE CENTER - HOLLYWOOD DJ PRIVACY POLICY
 
 ## Your online privacy is important to Hollywood DJ
 
