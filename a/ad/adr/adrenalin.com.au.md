@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adrenalin.com.au privacy policy that was archived on 2014-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140221042802id_/http%3A//www.adrenalin.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adrenalin.com.au privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704191854id_/http%3A//www.adrenalin.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -53,9 +53,14 @@ Personal information may also be disclosed to our third party service providers 
   * To protect against misuse or unauthorised use of Adrenalin
   * To protect the safety, or property of our members, or the public.
   * We use a third party payment processor to fulfill payment for services procured on the Site.
+  * We may disclose your information to third parties for the purposes of collecting and publishing your feedback about the Adrenalin buying process.
   * In the event of a sale, merger, or acquisition of some, or all of Adrenalin’s assets, your personal information could likely be a part of the transferred assets. In such an event we shall notify you by a notice on the home page of any information and privacy practices that would change as a result.
 
 
+
+Third parties may access and collect information only as required to perform their functions and are not permitted to use the information for their promotional purposes.
+
+These third parties may be located in Australia or overseas, including but not limited to the United States and the United Kingdom.
 
 We request demographic information for our own market research and understanding of our customers. With this information we can provide our users with content we think they might be interested in. Some, but not all, of this information is required to participate in Adrenalin programs, however we believe we will be able to provide users with a better service if demographic information is provided. During the registration process, subscribers may be asked if they would like to have their registration information made available to companies that wish to offer products and services that our subscribers may be interested in. We will never share your information with third parties unless you grant us permission to do so.  
  **  
@@ -78,7 +83,7 @@ E-commerce**
 Our servers are equipped with 128-bit encryption bit technology (designated security keys from authorised certificate-of-trust distributors) for secure purchases and form ordering made within the shopping area. Users’ are notified of encryption processing when a gold padlock appears on the bottom right of the browser. While we take every measure to employ industry accepted security standards, please be aware no security mechanism is 100% secure.
 
 **Unsubscribe**   
-If you no longer wish to receive Adrenalin’s publications, you may remove your details from the subscriptions list by clicking on the ‘unsubscribe’ link at the bottom of the associated email. Alternatively, you can email [seriousfun@adrenalin.com.au](mailto:seriousfun@adrenalin.com.au?subject=Unsubscribe) with the subject heading ‘Unsubscribe’. Please note that by law, Adrenalin has 5 days to action your unsubscribe request.  
+If you no longer wish to receive Adrenalin’s publications, you may remove your details from the subscriptions list by clicking on the ‘unsubscribe’ link at the bottom of the associated email. Alternatively, [please contact us](http://www.adrenalin.com.au/contact/). Please note that by law, Adrenalin has 5 days to action your unsubscribe request.  
  **  
 Reviews  
 ** We provider users’ an opportunity to review their adventures; we post their first name and last initial with their review after obtaining their consent. Please be aware that Adrenalin is not responsible for the personal information a user selects to include within their review.
@@ -87,13 +92,13 @@ Reviews
 Adrenalin reserves the right to modify this privacy policy. For this reason, you should regularly check our policy to ensure that you are up to date on our policy. Should we make material changes in the manner we handle your personal information, we shall notify you by a prominent notice on the home page.  
  **  
 Access and Correction of your personal information**   
-You can ask to obtain access to your personal information that we hold, although under some circumstances permitted by law, we may not provide such information to you. It is important to us that the personal information we hold about you is accurate, complete and up to date. If you would like your personal information corrected or deleted, please email [seriousfun@adrenalin.com.au](mailto:seriousfun@adrenalin.com.au) with your updated information.  
+You can ask to obtain access to your personal information that we hold, although under some circumstances permitted by law, we may not provide such information to you. It is important to us that the personal information we hold about you is accurate, complete and up to date. If you would like your personal information corrected or deleted, [please contact us](http://www.adrenalin.com.au/contact/) with your updated information.  
  **  
 Data Retention**   
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [seriousfun@adrenalin.com.au](mailto:seriousfun@adrenalin.com.au). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.  
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services, [please contact us](http://www.adrenalin.com.au/contact/). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.  
   **  
 Contacting the web site or webmaster**   
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact Adrenalin at [action@adrenalin.com.au](mailto:action@adrenalin.com.au) or call us on 1300 791 793. We will make all reasonable attempts to responds to your enquiry.  
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, [please contact us](http://www.adrenalin.com.au/contact/) or call us on 1300 791 793. We will make all reasonable attempts to respond to your enquiry.  
 By Mail: 20 Burton, Darlinghurst, NSW 2010 Australia.
 
-Effective June 20th 2011.
+Effective May 5th 2014.
