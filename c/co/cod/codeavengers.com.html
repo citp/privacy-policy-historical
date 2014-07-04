@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the codeavengers.com privacy policy that was archived on 2014-06-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140611063739id_/http%3A//www.codeavengers.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the codeavengers.com privacy policy that was archived on 2014-07-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140704040940id_/http%3A//www.codeavengers.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="info-page info-page2"><head>
 <title>Code Avengers, privacy policy</title>
@@ -7,29 +7,32 @@
 <meta name="viewport" content="width=device-width">
 <script async="" src="//www.google-analytics.com/analytics.js"></script><script id="jquery" src="//code.jquery.com/jquery-2.1.0.min.js"></script>
 <script id="jquery-ui" src="//code.jquery.com/ui/1.10.3/jquery-ui.min.js"></script>
-<script src="/jquery/js/plugins.min.js?9.2.0"></script>
+<script src="/jquery/js/plugins.min.js?9.9.0"></script>
  
 <script>
-var CURRENT_VERSION = '9.2';
+var CURRENT_VERSION = '9.9';
 var _MIN_ = '.min';
 var _DEV_MODE_ = !_MIN_;
 </script>
 <script>
 var COURSE_VERSIONS = {
-  web1: '9.2.0',
-  web10: '9.2.0',
-  web2: '9.2.0',
-  web3: '9.2.0',
-  web301: '9.2.0',
-  web302: '9.2.0',
-  web303: '9.2.0',
-  web304: '9.2.0',
-  web7: '9.2.0',
-  web8: '9.2.0',
-  web9: '9.2.0'
+  web1: '9.9.0',
+  web10: '9.9.0',
+  web101: '9.9.0',
+  web102: '9.9.0',
+  web2: '9.9.0',
+  web3: '9.9.0',
+  web301: '9.9.0',
+  web302: '9.9.0',
+  web303: '9.9.0',
+  web304: '9.9.0',
+  web305: '9.9.0',
+  web7: '9.9.0',
+  web8: '9.9.0',
+  web9: '9.9.0'
 };
 </script>
-<script src="/js/main.min.js?9.2.3"></script>
+<script src="/js/main.min.js?9.9.12"></script>
 
 <!-- Google Analytics -->
 <script>
@@ -52,17 +55,22 @@ ga(function(tracker) {
 });
 
 </script>
+
+<script src="//www.google-analytics.com/cx/api.js?experiment=0ohS8l_mRFyDm94JB06w3g"></script>
 <!-- End Google Analytics -->
 <meta name="alexaVerifyID" content="-_ceSLpHAtYKR7PUv9JyzawpCug">
-<script src="js/about.min.js?9.2.0"></script>
+<script src="js/about.min.js?9.9.0"></script>
 
 <link href="http://fonts.googleapis.com/css?family=Quicksand|Open+Sans:400,300,600,700,800" rel="stylesheet" type="text/css">
-<link rel="stylesheet" href="/css/main.min.css?9.2.2">
-<link rel="stylesheet" href="/css/home.min.css?9.2.1">
-<link rel="stylesheet" href="/css/legal.min.css?9.2.0">
+<link rel="stylesheet" href="/css/main.min.css?9.9.4">
+<link rel="stylesheet" href="/css/home.min.css?9.9.2">
+<link rel="stylesheet" href="/css/legal.min.css?9.9.0">
 
 </head>
 <body>
+
+<section class="login-dialog" id="background-dialog">
+</section>
 
 <section class="login-dialog" id="menu-dialog">
   <div class="close">
@@ -82,7 +90,7 @@ ga(function(tracker) {
     </div>
   </nav>
   
-  <nav class="teacherOptions">
+  <nav class="adminOptions" data-role="admin">
     <h2>Teacher Options</h2>
     <div>
       <a href="/teachers">Information</a>
@@ -97,11 +105,19 @@ ga(function(tracker) {
     </div>
   </nav>
   
-  <nav class="parentOptions">
+  <nav class="teacherOptions" data-role="teacher">
+    <h2>Teacher Options</h2>
+    <div>
+      <a href="/teacherRegistration">Registration</a>
+      <a href="/admin">Class progress</a>
+    </div>
+  </nav>
+  
+  <nav class="parentOptions" data-role="parent">
     <h2>Parent Options</h2>
     <div>
-      <a href="/teachers">Information</a>
-      <a href="/admin">Class progress</a>
+      <a href="/parents">Information</a>
+      <a href="/admin">Student progress</a>
     </div>
   </nav>
   
@@ -123,7 +139,7 @@ ga(function(tracker) {
     </div><div>
       <h2>Cloud IDE</h2>
       <nav>
-        <a href="/js/7">JavaScript</a>
+        <a href="/javascript/7">JavaScript</a>
         <a href="/web/7">HTML-CSS-JS</a>
       </nav>
     </div>
@@ -177,8 +193,7 @@ $(function(){
     $('.points .value').text(ai.points.get());
   }
   
-  $('html').toggleClass('teacher', ai.isTeacher());
-  $('html').toggleClass('parent', localStorage.role === 'parent');
+  if (localStorage.role) $('html').addClass('role-' + localStorage.role);
   
   doLogoutButton.onclick = function() {
     if (localStorage.length == 0) {
@@ -202,7 +217,11 @@ document.querySelector('#login-dialog .close .fa').onclick =
   showLoginButton.onclick = function(hide) {
     $('body').removeClass('signup sidepanel');
     
-    if (hide === true || $('body').hasClass('login')) {
+    if (typeof hide != 'boolean') {
+      hide = $('body').hasClass('login');
+    }
+    
+    if (hide) {
       $('body').removeClass('login');
     } else {
       $('body').addClass('sidepanel login');
@@ -257,10 +276,6 @@ document.querySelector('#login-dialog .close .fa').onclick =
   $(document).keydown(function(e) {
 
     if (e.keyCode == 27) {
-      if ($('.side-panel').is(':visible')) {
-        ai.hideSidePanels();
-        return;
-      }
       
       if ($('dialog').is(':visible')) {
         $('dialog:visible')[0].close();
@@ -274,6 +289,11 @@ document.querySelector('#login-dialog .close .fa').onclick =
       }
       
       if ($('.guider').is(':visible')) {
+        return;
+      }
+      
+      if ($('.side-panel').is(':visible')) {
+        ai.hideSidePanels();
         return;
       }
       
@@ -350,9 +370,8 @@ document.querySelector('#login-dialog .close .fa').onclick =
       subscribe : subscribe
     }, function(data, response, xhr) {
       var data = jQuery.parseJSON(xhr.responseText);
-      
-      //Save Signup Event
-      ai.analytics('Signup');
+      localStorage.version = ai.LOCALSTORAGE_VERSION;
+      sessionStorage.newUser = true;
       
       ai.doLogin({
         validation : data.validation,
@@ -362,7 +381,16 @@ document.querySelector('#login-dialog .close .fa').onclick =
         codename : codename,
         persist : persist,
         subscribe : subscribe
-      }, 'NewUser', '/profile', true);
+      }, 'NewUser',  ((location.pathname == '/' || location.pathname == '/home') ? 
+          '/profile' : null), true, function() {
+        //Save Signup Event
+        ai.analytics.demo('Signup', null, false, true);
+      });
+      
+      ai.showLoadingMessage('Signup Complete', function(){
+        location.reload();
+      });
+      
     }).fail(
       function() {
         if (modifiedEmail) {
@@ -435,21 +463,22 @@ document.querySelector('#login-dialog .close .fa').onclick =
   };
 
   function getEmailAddress(inputSelector, dialogSelector) {
-    var eEl = $(inputSelector);
-    var email = eEl.val();
+    var $eEl = $(inputSelector);
+    var eEl = $eEl[0];
+    var email = $eEl.val();
     
     if (email.length == 0) {
-      ai.markInvalid(eEl, ai.m.loginEnterEmail);
+      ai.markInvalid($eEl, ai.m.loginEnterEmail);
       return;
     }
     
     if (email.indexOf(',') > 0) {
-      ai.markInvalid(eEl, ai.m.loginCommaInEmail, dialogSelector);
+      ai.markInvalid($eEl, ai.m.loginCommaInEmail, dialogSelector);
       return;
     }
     
-    if (loginEmail.validity ? !loginEmail.validity.valid : !ai.EMAIL_REGEXP.test(email)) {
-      ai.markInvalid(eEl, ai.m.loginEnterValidEmail, dialogSelector);
+    if (eEl.validity ? !eEl.validity.valid : !ai.EMAIL_REGEXP.test(email)) {
+      ai.markInvalid($eEl, ai.m.loginEnterValidEmail, dialogSelector);
       return;
     }
     
@@ -500,6 +529,10 @@ document.querySelector('#login-dialog .close .fa').onclick =
       <div class="title data">
         <span class="label level-name"></span><br>
         <span class="value lesson-name"></span>
+      </div>
+       
+		  <div id="admin-container" class="view-toolbar toolbar button-container connected">
+        <button class="show-progress option first">Progress View</button><button class="show-summary option last">Summary View</button><button class="csv-report">CSV Report</button><button class="user-guide">User Guide</button> 
       </div>
       
     </div>
