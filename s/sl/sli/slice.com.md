@@ -1,111 +1,126 @@
-> *The following text is extracted and transformed from the slice.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330190254id_/https%3A//www.slice.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slice.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704031419id_/https%3A//www.slice.com/privacy) for the most accurate reproduction.*
 
 # Slice - Privacy Policy
 
-Last updated: February 2014
+**This is our updated Privacy Policy. For current Slice users, this policy goes into effect on August 1, 2014. For new users who register on or after June 24, 2014, this policy is effective immediately upon registration. Current Slice users can view our existing privacy policy[here](https://www.slice.com/privacy_existing).**
 
-This policy covers how Slice® treats Personally Identifiable Information ("PII") and other information that Slice collects in connection with our services, including information collected through All My Purchases® and other third party websites that use Slice's proprietary email receipts parsing and organization technologies. Slice considers PII to be information that can be traced directly back to and identifies a specific individual or household, such as name, address, email address, and/or phone number. We do not consider PII to include information that has been anonymized so that it does not allow a third party to easily identify a specific individual or household.
+Last updated: June 24, 2014
 
-By using this website and accepting the [Terms of Service](https://www.slice.com/tos), you agree to this Privacy Policy. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, DO NOT ACCEPT THE TERMS OF SERVICE AND YOU MAY NOT USE THE WEBSITE OR SERVICES.
+Slice’s services allow you to analyze and organize email receipts and related information in an integrated, actionable environment so you can obtain maximum benefits from your purchasing activities. To provide you with Slice’s services, including All My Purchases® and services that Slice provides to third-party websites, Slice collects some information about you. As described below, Slice is able to offer its services to you for free through the development and marketing of anonymous consumer data. In this privacy policy we describe the information we collect and how we use and share it. By using Slice’s websites, mobile apps, or services that facilitate the provision of such websites and mobiles apps ("Services"), and accepting the [Terms of Service](https://www.slice.com/tos), you agree to this Privacy Policy. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, YOU MAY NOT USE THE SERVICES.
 
 ### I. SCOPE OF PRIVACY POLICY
 
-This Privacy Policy applies to PII and other information collected by Slice through your use of Slice or Slice's services and does not apply to any other information collected by Slice through other means (as described below). When you navigate away from our website to websites controlled by third parties, you leave the Slice website, at which point our Privacy Policy no longer applies. We do not provide a notice warning our users when they are leaving our website. 
+This Privacy Policy applies to information collected by Slice. Our Privacy Policy does not apply when you navigate away from the Services. We included several annotations in boxes to help explain or emphasize key sections. These annotations are for convenience only and have no legal or contractual effect.
 
-We have included several annotations in boxes to help explain the legal jargon and emphasize key sections. These annotations are for convenience only and have no legal or contractual effect.
+Slice considers personal information to be information that can be traced directly back to and identifies a specific individual or household, such as name, address, email address, and/or phone number. We do not consider personal information to include information that alone does not allow a third party to easily identify a specific individual or household.
 
-### II. THE INFORMATION WE COLLECT
+### II. HIGHLIGHTS OF WHAT YOU ARE CONSENTING TO
 
-Slice services include the collection, aggregation, analysis, and organization of email receipts and related information to provide users an integrated, actionable environment to manage and obtain maximum benefits from their purchasing activities. By registering for an account with Slice, you are authorizing us to gather, parse, and retain data and information from emails you receive and have received that are associated with your online and offline purchases and shopping, as necessary to deliver and support our services. As described below, Slice is able to offer its services to users for free through the development and marketing of aggregate and anonymous consumer data. Except as described below, Slice does not, and will not, sell or transfer your PII.
+By using the Services, you are consenting to:
 
-## We collect Personal Information when you:
+## We collect your information when you:
 
-  * register to use the Site;
+  * register to use the Services;
+  * link email and other accounts to the services;
   * log in with social networking credentials;
-  * use the Site; and
+  * use the Services; and
   * communicate with us.
 
 
 
 We also collect information such as anonymous usage statistics, by using cookies, server logs, and other similar technology as you use the Site.
 
-Slice collects PII when you register. In registering with Slice, you may also provide information necessary to use Slice, such as the login credentials for your mail, social networking, or other Internet accounts that you link to Slice. We may also collect PII from you in other ways, such as contacts with our customer-support team.
+  * the collection, use, and processing of information collected from the online accounts you connect to the Service, such as email receipts;
+  * the use of Cookies and Related Technologies;
+  * the sharing of anonymous transaction information with third parties;
+  * the sharing of personal information, including transaction information, with service providers and vendors;
+  * the collection, use, sharing and other processing of your information as otherwise described in this Privacy Policy.
 
-**Social Sign-On.** We collect PII when you use your social media credentials to log into the Site. For example, when you log in with your Facebook credentials, we may collect the PII you have made publicly available in Facebook, such as your name and profile picture.
 
-**Cookies and related technologies.** Slice uses "cookies." Cookies are small text files that we place in visitors' computer browsers to store their preferences. Most browsers allow you to manage cookies including blocking and deleting them. If you block or delete our cookies, Slice may not work as well or at all for you.
 
-**Non-PII Collection and Use.** Whenever you visit Slice, Slice also receives and records information on our server logs from your browser, including your IP address, Slice cookie information, and the pages you request, and relates it to the PII you provide. Slice uses this information to provide our services, to improve our products and services, to contact you, to conduct research, and to develop and maintain anonymous or aggregated data and analytics.
+### III. THE INFORMATION WE COLLECT
 
-In connection with our mobile application, Slice may use tools or third party analytical software to automatically collect certain data that does not directly identify you, such as: (i) device properties, including, but not limited to unique device identifier or other device identifier ("UDID"); (ii) device software platform and firmware; (iii) mobile phone carrier; (iv) geographical data such as country or region; (v) other similar data as reasonably required by Slice to enhance the services and other Slice products and services.
+**Registration and Customer Support.** Slice collects personal information when you register, such as your name and email address. We may also collect personal information from you in other ways, such as through contacts you may make with our customer support team.
 
-Slice may use and disclose to Slice's service providers the collected non-PII for purposes of analyzing usage of the services, advertisement serving, managing and providing the Services, and to further develop the services and other Slice services and products. Occasionally we work with other companies for the purposes of data processing or market research product development purposes.
+**Email and Other Accounts.** You may also provide information necessary to use the Services, such as the login credentials for your email, social networking, or other Internet accounts that you link to the Services. By linking the Services to your email or other Internet accounts, you authorize us to gather, parse, and retain information, including personal information, from past and future emails and other communications you receive that relate to your online and offline shopping and purchasing ("transaction information").
 
-You recognize and agree that the service providers utilized by Slice may combine the information collected with other information they have independently collected from other services or products relating to your activities. These companies collect and use information under their own privacy policies.
+**Social Sign-On.** We receive and retain basic information about you when you use a social media website (such as Facebook) to log into the Services. This information generally includes your name, email, website ID and public profile with the service. We may receive and retain demographic information about you through a social sign-on.
 
-### III. HOW WE USE YOUR PERSONAL INFORMATION
+**From Others.** We may collect information from vendors and suppliers and combine it with information that we have about you.
 
-**Our use of PII.** We use PII for internal and service-related purposes only and we may use vendors and suppliers to allow us to offer and to improve Slice. **Slice does not rent, sell, or share PII with other people or nonaffiliated companies for their direct marketing purposes.** We may allow access to Slice data, under non-disclosure agreements, to develop improvements to our services.
+**Cookies and Related Technologies.** Slice uses "cookies" and similar technologies to collect and store information that is generated automatically as you use the Services, including your preferences and usage statistics. Most browsers allow you to manage cookies including blocking and deleting them. If you block or delete our cookies, the Services may not work as well or at all for you. Slice also records information on our server logs that is collected from your browser, including your IP address, Slice cookie information, and the pages you request, and relates it to the personal information you provide.
 
-## We use PII to:
+**Mobile Device Information.** Slice uses tools, including third party analytical software, to automatically collect certain anonymous data about your device that does not directly identify you, such as: (i) device properties, including, but not limited to unique or other device identifier; (ii) device software platform and firmware; (iii) mobile phone carrier; (iv) geographical data such as country or region; (v) other similar data as reasonably required by Slice to enhance the Services and other Slice products and services.
 
-  * facilitate and improve our services; and
+**Usage Information.** When you use our Services, we will automatically collect information about how you use our Services.
+
+### IV. HOW WE MAY USE YOUR INFORMATION
+
+We will use the information we collect, including your personal information and transaction information: (i) for internal and service-related purposes, such as to provide, improve, and personalize our Services, and to develop new ones; (ii) to communicate with you in order to provide you with information we think may be useful or relevant to you; (iii) to promote the Services; (iv) to analyze information in order to offer anonymized data products to third parties; (v) to facilitate the sharing of anonymized information, including transaction data, as set forth below; (vi) to enforce this Privacy Policy, the Terms of Service, and to protect the rights, property, or safety of Slice or its users; and (vii) as otherwise stated in this Privacy Policy.
+
+## We use your information to:
+
+  * facilitate and improve our services;
+  * build anonymous market research products and services with partners; and 
   * communicate with you.
 
 
 
-We do not rent, sell, or share PII with other people or nonaffiliated companies for their direct marketing purposes.
+We may use anonymous information for any purpose, including for marketing purposes.
 
-We may use aggregate information for any purpose, including for marketing purposes.
+### V. HOW WE SHARE YOUR INFORMATION
 
-**Marketing.** We may use information, including PII, to facilitate transmittal of information we think may be useful or relevant to you.
+**Service Providers.** Slice may disclose your information, including personal information and transaction information, to service providers for the purposes of managing, providing, and improving the Services, analyzing usage of the Services, and for marketing purposes.
 
-**Third Party support and usage.** If you authorize a third party to scan your email receipts using Slice's technologies, the data in your email, including PII accessed during the scan, will be subject to that third party's terms of service and privacy policies, even if you have also directly signed up for a Slice account.
+**Vendors and Suppliers.** We may share information, including personal and transaction information, with vendors and suppliers to collect additional information about you from them, or to help us provide anonymized data to others.
 
-**Anonymous use and sharing.** We may share with third parties anonymized information about Slice users' transactions. Such consumer behavior and information may be of value to third parties in the performance of marketing services, including evaluating market trends and/or under a joint marketing agreement to provide services that will be of particular interest and relevance to you. Again, such information will not include PII.
-
-When you deactivate your Slice account, your PII is permanently disassociated with your purchase data. The anonymized purchase data itself may continue to be incorporated in market analyses.
-
-**Legal sharing for protection of us, you, and others.** We may disclose PII to third parties who are: assisting us in protecting against or preventing actual or potential fraud, unauthorized transactions, claims or other liabilities, or to investigate potential fraudulent or questionable activities. We may disclose PII in response to legal process, for example, in response to a court order or a subpoena. We may disclose PII in response to a law enforcement agency's request, or where we believe it is necessary to investigate, prevent, or take action regarding illegal activities or suspected fraud, violations of our Terms of Service, or as we believe may be otherwise required by law.
+**Anonymous Use and Sharing.** We may share with others anonymized transaction information. Such information will not include personal information, but may include unique identifiers such as device identifiers or "hashes" of email addresses.
 
 ## We may share your information:
 
-  * with our third-party service providers;
+  * with our vendors, suppliers, and service providers;
+  * with others when it is anonymized;
   * to comply with legal obligations;
   * to protect and defend our rights and property.
 
 
 
-**Merger or sale.** If all or substantially all of Slice or its assets are sold or transferred, PII and other information we have collected may be treated as an asset and transferred in accordance with this Policy.
+We do not rent, sell, or share personal information with other people or nonaffiliated companies for their direct marketing purposes.
 
-We reserve the right to send you certain communications relating to Slice, such as service announcements and administrative messages that are considered part of your Slice account.
+**Third Party Support and Usage.** We allow third parties to use the Services as part of their services. If you authorize a third party using our Services to access and scan your email, the third party’s treatment of the data in your email, including any personal information accessed by the third party, will be subject to that third party’s terms of service and privacy policies, even if you have also directly signed up for a Slice account.
 
-We may also disclose your PII with your permission.
+**Legal sharing for protection of us, you, and others.** We may access, preserve, and disclose collected information, if we believe doing so is required or appropriate to: comply with law enforcement requests and legal process, such as a court order or subpoena; respond to your requests; or protect your, our, or others’ rights, property, or safety.
 
-### IV. HOW WE SECURE YOUR PERSONAL INFORMATION
+**Merger or sale.** If all or a portion of Slice or its assets are sold or transferred, personal information and other information we have collected may be treated as an asset and transferred in accordance with this Policy.
 
-Slice limits access to your PII. We have put in place physical, electronic, and managerial procedures in an effort to safeguard and help prevent unauthorized access, maintain data security, and use correctly the PII we collect from you.
+**Your Permission.** We may also disclose your personal information with your permission.
 
-No data transmissions through the Internet or mobile devices, or even the physical transfer of information, can be guaranteed to be completely secure. We cannot eliminate fully all security risks associated with personal information and technical mistakes are possible. We do not ensure or warrant the security of any data or information you transmit to us and you do so at your own risk.
+### VI. HOW WE SECURE YOUR PERSONAL INFORMATION
 
-If Slice learns of a security systems breach, then we may attempt to notify you electronically. You agree that we may communicate with you electronically regarding security, privacy, and administrative issues. We may post a notice on our website if a security breach occurs. If this happens, you will need a web browser enabling you to view and access Slice. We may also send an email to you at the email address you have provided to us. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice), you should notify us at: [support@slice.com](mailto:support@slice.com).
+Slice limits access to your personal information. We have physical, electronic, and administrative procedures in place to protect and help prevent unauthorized access and use of personal information.
 
-### V. INTERNATIONAL VISITORS
+No data transmissions through the Internet or via mobile devices, or even the physical transfer of information, can be guaranteed to be completely secure. We cannot eliminate fully all security risks associated with personal information. We do not ensure or warrant the security of any data or information you transmit to us and you do so at your own risk.
 
-Slice is hosted in and intended for use in the United States by U.S. residents. We may transfer your PII within Slice including to any of our worldwide affiliates acting on our behalf and in accordance with this policy.
+You agree that we may communicate with you electronically regarding security, privacy, and administrative issues, such as security breaches. We may post a notice on our website if a security breach occurs. We may also send an email to you at the email address you have provided to us.
 
-By using the Site, you will transfer data to the United States.
+### VII. INTERNATIONAL VISITORS
 
-**If you are visiting from the European Union or other regions with laws governing data collection and use, please note that you are agreeing to the transfer of your personal information to the United States to Slice. By providing your PII you consent to any transfer and processing in accordance with this Policy.**
+Slice is hosted in and intended for use in the United States by U.S. residents. We may transfer your personal information within Slice and in accordance with this policy. Slice may also subcontract processing to, or share your information with, third parties located in countries other than your home country.
 
-### VI. HOW TO CONTACT US
+By using the Services, you will transfer data to the United States.
+
+If you are visiting from the European Union or other regions with laws governing data collection and use, please note that you are agreeing to the transfer of your personal information to the United States to Slice. By providing your personal information you consent to any transfer and processing in accordance with this Policy.
+
+### VIII. HOW TO CONTACT US
 
 If you have questions or suggestions, please email Slice at [support@slice.com](mailto:support@slice.com) or call (650) 323-9100. Written communication should be sent to Slice Technologies, Inc., Attn: Customer Affairs, 431 Florence Street, Suite 100, Palo Alto, CA 94301.
 
-### VII. TO REVIEW OR CORRECT YOUR PERSONAL INFORMATION
+### IX. HOW TO REVIEW OR CORRECT YOUR PERSONAL INFORMATION, OR CLOSE YOUR ACCOUNT.
 
-Upon request, we will provide an individual with access to PII that we have collected about them (provided that they have given proof of identity). This information can be requested by sending us an email through the email link provided above or writing to us at the above address. This information can be corrected by sending us an email through the email link provided above or writing to us at the above address.
+Upon request, we will provide an individual with access to personal information that we have collected about them (provided that they have given proof of identity). Personal information can be requested and corrected by contacting us using the contact information above.
 
-### VIII. HOW WE MAY UPDATE OUR PRIVACY POLICY
+You may choose to deactivate your Slice account through your account settings. If you do, we will disassociate your personal information from your purchase data.
 
-From time to time, we may use PII for new, unanticipated uses not previously disclosed in our Privacy Policy. If our information practices change, we will immediately post any adjustments to our Policy on this website. The revised version usually will be effective at the time we post it; however, if the revised version includes a change that would be materially less restrictive on our use of your PII, we will provide you with 30 days' prior notice by posting notice of the change on the "Policy Updates" page of our website. If you are concerned about how your information is used, bookmark this page and check back periodically.
+### X. HOW WE MAY UPDATE OUR PRIVACY POLICY
+
+From time to time, we may use personal information for new, unanticipated uses not previously disclosed in our Privacy Policy. If our information practices change, we will immediately post any adjustments to our Privacy Policy on this website. The revised version will be effective at the time we post it, unless the revised version includes a change that would be materially less restrictive on our use of your personal information. In such case, we will provide you with 30 days' prior notice on this website. You may bookmark this page and check it periodically for updates.
