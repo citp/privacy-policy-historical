@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free-online-training-courses.com privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623065458id_/http%3A//www.free-online-training-courses.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-online-training-courses.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704194358id_/http%3A//www.free-online-training-courses.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -29,6 +29,12 @@ We may also use the cookies to gather information about your general internet us
 All computers have the ability to decline cookies. You can easily decline or remove cookies from your computer using the settings within the Internet Options section in your computer control panel.
 
 Our advertisers may also use cookies on their website. We have no control over this and you should review the privacy policy of any advertiser that you visit as a result of an advert or link on this website.
+
+Third party vendors, including Google, use cookies to serve ads based on a user’s prior visits to your website.
+
+Google’s use of the DoubleClick cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
+
+Users may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](http://www.aboutads.info/).
 
 **Use of Your Information**
 
