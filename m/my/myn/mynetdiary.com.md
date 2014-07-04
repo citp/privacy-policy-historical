@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mynetdiary.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325030604id_/http%3A//www.mynetdiary.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mynetdiary.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704020103id_/http%3A//www.mynetdiary.com/privacy.html) for the most accurate reproduction.*
 
 # About MyNetDiary - Online Diet Log and iPhone Calorie Counter | MyNetDiary
 
@@ -19,6 +19,8 @@ MyNetDiary.com collects personal information when you visit MyNetDiary.com web p
 When you register to open an account with MyNetDiary.com, we ask for information such as your name, e-mail address, date of birth, gender, weight and height. To purchase certain products and services from MyNetDiary.com, we also ask you to provide other contact and billing information. MyNetDiary.com shares personally identifiable information only when required to complete your order. We do not otherwise share personally identifiable information with any third parties. 
 
 Depending on the product or service you have selected, we may also collect certain personal information, including personal foods, activities and body measurements. Recognizing the highly personal nature of this information, we take special precautions to protect such information. 
+
+Before and After photos taken on a mobile device are stored on the mobile device unencrypted. 
 
 #### Credit Card Information
 
