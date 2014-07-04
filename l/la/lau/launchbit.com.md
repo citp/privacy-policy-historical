@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the launchbit.com privacy policy that was archived on 2014-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140531110620id_/http%3A//www.launchbit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the launchbit.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704052451id_/https%3A//www.launchbit.com/privacy) for the most accurate reproduction.*
 
-# LaunchBit | Privacy Policy
-
-This LaunchBit Privacy Policy is effective February 1, 2012. 
-
-Last modified: February 27, 2012 
+# Privacy Policy | LaunchBit
 
 Welcome to the LaunchBit web site (the "Website"). The Website is an internet property of LaunchBit, Inc. ("LaunchBit", "we" or "us"). This Privacy Policy describes how we treat the information we collect when you visit our Website. Please read this notice carefully.
 
@@ -28,7 +24,7 @@ In some instances, we may use tracking scripts or "tracers" that recognize a uni
 
 ### IV. SECURITY
 
-We do not treat your general interaction with LaunchBit (e.g., submission of suggestions) as confidential. Any information you submit will be treated as non- confidential. Note that most internet browsers also offer security alerts that permit you to determine whether your transmissions are protected.
+We do not treat your general interaction with LaunchBit (e.g., submission of suggestions) as confidential. Any information you submit will be treated as non-confidential. Note that most internet browsers also offer security alerts that permit you to determine whether your transmissions are protected.
 
 ### V. THIRD PARTY ADVERTISING
 
