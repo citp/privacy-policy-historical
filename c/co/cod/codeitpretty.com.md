@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codeitpretty.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214035335id_/http%3A//www.codeitpretty.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codeitpretty.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704052154id_/http%3A//www.codeitpretty.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Code it Pretty: Privacy Policy
 
@@ -13,10 +13,6 @@ All web servers track basic information about their visitors. This information i
 **Cookies and Web Beacons**
 
 This blog uses Google Analytics and Clicky to track pageviews and visits. No personally identifying information is gathered by either service.
-
-Some advertising partners may use cookies and web beacons on our site. The advertising here comes from: Google Adsense, Amazon, Yahoo, and Adproval.
-
-Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. 
 
 **Controlling Your Privacy**
 
