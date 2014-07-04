@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the escentual.com privacy policy that was archived on 2014-02-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140214105111id_/http%3A//www.escentual.com/help-and-advice/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the escentual.com privacy policy that was archived on 2014-07-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140704100932id_/http%3A//www.escentual.com/help-and-advice/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script id="facebook-jssdk" src="//connect.facebook.net/en_GB/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UQACV1ZSGwADXFlSBAU="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
 <title>Privacy Statement - About Escentual - Help &amp; Advice</title>
 <meta name="description" content="Privacy statement We collect information when you register with Escentual and during the buying process. This information includes your name, address, email, credit card information and shopper preferences. This information is stored on secure servers, an">
 <meta name="keywords" content="Help &amp; Advice, About Escentual, Privacy Statement">
@@ -19,9 +19,9 @@
 </script>
 <![endif]-->
 <link rel="stylesheet" type="text/css" href="http://media.escentual.com/css/2d4cd0ea105c7d024631d29e0b356090_1374063422.css">
-<link rel="stylesheet" type="text/css" href="http://media.escentual.com/css/703956a21bd7167e9f3af9767a6542fc_1386936630.css" media="all">
+<link rel="stylesheet" type="text/css" href="http://media.escentual.com/css/703956a21bd7167e9f3af9767a6542fc_1404298570.css" media="all">
 <link rel="stylesheet" type="text/css" href="http://media.escentual.com/css/28b6d631f6628f5bb5d6e18a203870be_1280174950.css" media="print">
-    <script id="facebook-jssdk" src="//connect.facebook.net/en_GB/all.js#xfbml=1"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script type="text/javascript" src="http://js.escentual.com/escentual/modernizr-2.6.2.js"></script>
+    <script type="text/javascript" src="http://js.escentual.com/escentual/modernizr-2.6.2.js"></script>
     <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
     <script>window.jQuery || document.write('<script src="http://js.escentual.com/escentual/jquery-1.10.2.min.js"><\/script>')</script><script src="http://js.escentual.com/escentual/jquery-1.10.2.min.js"></script>
         <script type="text/javascript" src="http://js.escentual.com/escentual/jquery-migrate-1.2.1.min.js"></script>
@@ -32,13 +32,13 @@
     </script>
     <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js"></script>
             <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/i18n/jquery.ui.datepicker-en-GB.min.js"></script>
-    <script type="text/javascript" src="http://media.escentual.com/js/93af75ad8f889e0c3264125d08604f53_1390833026.js"></script>
+    <script type="text/javascript" src="http://media.escentual.com/js/93af75ad8f889e0c3264125d08604f53_1402388267.js"></script>
 <link rel="canonical" href="http://www.escentual.com/help-and-advice/about/privacy/">
 <!--[if lt IE 8]>
 <link rel="stylesheet" type="text/css" href="http://media.escentual.com/css/0ed2d5c53aa6c10d185b20b41fde466e_1284838759.css" media="all" />
 <![endif]-->
 <!--[if lt IE 7]>
-<script type="text/javascript" src="http://media.escentual.com/js/0944be52127aca4f643d685d37658376_1390833019.js"></script>
+<script type="text/javascript" src="http://media.escentual.com/js/0944be52127aca4f643d685d37658376_1402388267.js"></script>
 <![endif]-->
 
 <script type="text/javascript">
@@ -53,15 +53,6 @@ Mage.Cookies.domain   = '.www.escentual.com';
 optionalZipCountries = ["IE"];
 //]]>
 </script>
-<script type="text/javascript">//<![CDATA[
-        var Translator = new Translate([]);
-        //]]></script><meta property="fb:page_id" content="130610943632907">
-<link href="https://plus.google.com/103748438357031568945" rel="publisher">
-<meta name="y_key" content="22f0a997fd2dd427">
-<meta name="msvalidate.01" content="A5A85CD2AD624EDC8AB92F6D520B2C0A">
-<meta name="verify-v1" content="eEyHKyOMy17AHbhJ+Alm0OC0ojQLtDkp7c4h239xKnU=">
-<meta property="twitter:account_id" content="4503599627388156"></head>
-<body class=" catalog-category-view category-document categorypath-help-and-advice-about-privacy category-privacy">
 <!-- BEGIN GOOGLE ANALYTICS CODEs -->
 <script type="text/javascript">
 //<![CDATA[
@@ -70,6 +61,7 @@ optionalZipCountries = ["IE"];
     
     
 _gaq.push(['_setAccount', 'UA-366470-1']);
+
 _gaq.push(['_trackPageview']);
     
     (function() {
@@ -81,6 +73,15 @@ _gaq.push(['_trackPageview']);
 //]]>
 </script>
 <!-- END GOOGLE ANALYTICS CODE -->
+<script type="text/javascript">//<![CDATA[
+        var Translator = new Translate([]);
+        //]]></script><meta property="fb:page_id" content="130610943632907">
+<link href="https://plus.google.com/103748438357031568945" rel="publisher">
+<meta name="y_key" content="22f0a997fd2dd427">
+<meta name="msvalidate.01" content="A5A85CD2AD624EDC8AB92F6D520B2C0A">
+<meta name="verify-v1" content="eEyHKyOMy17AHbhJ+Alm0OC0ojQLtDkp7c4h239xKnU=">
+<meta property="twitter:account_id" content="4503599627388156"></head>
+<body class=" catalog-category-view category-document categorypath-help-and-advice-about-privacy category-privacy">
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
@@ -126,6 +127,7 @@ _gaq.push(['_trackPageview']);
                             <option value="http://www.escentual.com/4711/">4711</option>
                             <option value="http://www.escentual.com/a-derma/">A-Derma</option>
                             <option value="http://www.escentual.com/acqua-di-parma/">Acqua Di Parma</option>
+                            <option value="http://www.escentual.com/agent-provocateur/">Agent Provocateur</option>
                             <option value="http://www.escentual.com/amouage/">Amouage</option>
                             <option value="http://www.escentual.com/angel-schlesser/">Angel Schlesser</option>
                             <option value="http://www.escentual.com/anna-sui/">Anna Sui</option>
@@ -138,8 +140,10 @@ _gaq.push(['_trackPageview']);
                             <option value="http://www.escentual.com/balmain/">Balmain</option>
                             <option value="http://www.escentual.com/banana-republic/">Banana Republic</option>
                             <option value="http://www.escentual.com/bareminerals/">bareMinerals</option>
+                            <option value="http://www.escentual.com/biafine/">Biafine</option>
                             <option value="http://www.escentual.com/binky-london/">Binky London</option>
                             <option value="http://www.escentual.com/bioderma/">Bioderma</option>
+                            <option value="http://www.escentual.com/boiron/">Boiron</option>
                             <option value="http://www.escentual.com/boucheron/">Boucheron</option>
                             <option value="http://www.escentual.com/britney-spears/">Britney Spears</option>
                             <option value="http://www.escentual.com/bumble-and-bumble/">Bumble and bumble</option>
@@ -160,9 +164,11 @@ _gaq.push(['_trackPageview']);
                             <option value="http://www.escentual.com/coach/">Coach</option>
                             <option value="http://www.escentual.com/comme-des-garcons/">Comme Des Garcons</option>
                             <option value="http://www.escentual.com/costume-national/">Costume National</option>
+                            <option value="http://www.escentual.com/covermark/">Covermark</option>
                             <option value="http://www.escentual.com/crabtree-and-evelyn/">Crabtree &amp; Evelyn</option>
                             <option value="http://www.escentual.com/daniel-sandler/">Daniel Sandler</option>
                             <option value="http://www.escentual.com/davidoff/">Davidoff</option>
+                            <option value="http://www.escentual.com/dhc/">DHC</option>
                             <option value="http://www.escentual.com/diane-von-furstenberg/">Diane Von Furstenberg</option>
                             <option value="http://www.escentual.com/diesel/">Diesel</option>
                             <option value="http://www.escentual.com/dior/">DIOR</option>
@@ -177,10 +183,13 @@ _gaq.push(['_trackPageview']);
                             <option value="http://www.escentual.com/elizabeth-arden/">Elizabeth Arden</option>
                             <option value="http://www.escentual.com/elizabeth-taylor/">Elizabeth Taylor</option>
                             <option value="http://www.escentual.com/emanuel-ungaro/">Emanuel Ungaro</option>
+                            <option value="http://www.escentual.com/embryolisse/">Embryolisse</option>
                             <option value="http://www.escentual.com/ermenegildo-zegna/">Ermenegildo Zegna</option>
                             <option value="http://www.escentual.com/escada/">Escada</option>
                             <option value="http://www.escentual.com/etat-libre-dorange/">Etat Libre D'Orange</option>
                             <option value="http://www.escentual.com/etro/">Etro</option>
+                            <option value="http://www.escentual.com/eucerin/">Eucerin</option>
+                            <option value="http://www.escentual.com/evian/">Evian</option>
                             <option value="http://www.escentual.com/evody/">EVODY</option>
                             <option value="http://www.escentual.com/ghost/">Ghost</option>
                             <option value="http://www.escentual.com/giorgio-armani/">Giorgio Armani</option>
@@ -206,6 +215,7 @@ _gaq.push(['_trackPageview']);
                             <option value="http://www.escentual.com/juicy-couture/">Juicy Couture</option>
                             <option value="http://www.escentual.com/juliette-has-a-gun/">Juliette Has A Gun</option>
                             <option value="http://www.escentual.com/justin-bieber/">Justin Bieber</option>
+                            <option value="http://www.escentual.com/karl-lagerfeld/">Karl Lagerfeld</option>
                             <option value="http://www.escentual.com/kenzo/">Kenzo</option>
                             <option value="http://www.escentual.com/kim-kardashian/">Kim Kardashian</option>
                             <option value="http://www.escentual.com/klorane/">Klorane</option>
@@ -216,6 +226,7 @@ _gaq.push(['_trackPageview']);
                             <option value="http://www.escentual.com/lady-gaga/">Lady Gaga</option>
                             <option value="http://www.escentual.com/lalique/">Lalique</option>
                             <option value="http://www.escentual.com/lancaster-monaco/">Lancaster Monaco</option>
+                            <option value="http://www.escentual.com/lancome/">Lancôme</option>
                             <option value="http://www.escentual.com/lanvin/">Lanvin</option>
                             <option value="http://www.escentual.com/le-jardins-decrivains/">Jardins D'Ecrivains</option>
                             <option value="http://www.escentual.com/lee-cooper-originals/">Lee Cooper Originals</option>
@@ -242,6 +253,7 @@ _gaq.push(['_trackPageview']);
                             <option value="http://www.escentual.com/nickel/">Nickel</option>
                             <option value="http://www.escentual.com/nina-ricci/">Nina Ricci</option>
                             <option value="http://www.escentual.com/nuxe/">Nuxe</option>
+                            <option value="http://www.escentual.com/ojon/">Ojon</option>
                             <option value="http://www.escentual.com/olfactive-studio/">Olfactive Studio</option>
                             <option value="http://www.escentual.com/one-direction/">One Direction</option>
                             <option value="http://www.escentual.com/orla-kiely/">Orla Kiely</option>
@@ -283,7 +295,6 @@ _gaq.push(['_trackPageview']);
                             <option value="http://www.escentual.com/thierry-mugler/">Thierry Mugler</option>
                             <option value="http://www.escentual.com/tigi-bed-head/">TIGI Bed Head</option>
                             <option value="http://www.escentual.com/tigi-catwalk/">TIGI Catwalk</option>
-                            <option value="http://www.escentual.com/tigi-rockaholic/">TIGI Rockaholic</option>
                             <option value="http://www.escentual.com/tigi-s-factor/">TIGI S-Factor</option>
                             <option value="http://www.escentual.com/tisserand/">Tisserand</option>
                             <option value="http://www.escentual.com/tommy-hilfiger/">Tommy Hilfiger</option>
@@ -297,7 +308,6 @@ _gaq.push(['_trackPageview']);
                             <option value="http://www.escentual.com/vera-wang/">Vera Wang</option>
                             <option value="http://www.escentual.com/versace/">Versace</option>
                             <option value="http://www.escentual.com/vichy/">Vichy</option>
-                            <option value="http://www.escentual.com/vintage-shaving-company/">Vintage Shaving Company</option>
                             <option value="http://www.escentual.com/vivienne-westwood/">Vivienne Westwood</option>
                             <option value="http://www.escentual.com/yu-be/">Yu-Be</option>
                             <option value="http://www.escentual.com/yves-saint-laurent/">Yves Saint Laurent</option>
@@ -343,12 +353,12 @@ _gaq.push(['_trackPageview']);
 	        	    </div>
 	    <nav class="nav-container">
     <ul id="nav" class="css-nav">
-        <li class="level0 nav-1 first level-top"><a href="http://www.escentual.com/brands/" class="level-top"><span>Brands A - Z</span></a></li><li class="level0 nav-2 level-top parent"><a href="http://www.escentual.com/fragrance/" class="level-top"><span>Fragrance</span></a><ul class="level0"><li class="nav-sub-categories"><div class="nav-sub-heading">Categories</div><ul><li class="level1 nav-2-1 first"><a href="http://www.escentual.com/fragrance/all-fragrance/"><span>All Fragrances</span></a></li><li class="level1 nav-2-2"><a href="http://www.escentual.com/fragrance/for-women/"><span>For Women</span></a></li><li class="level1 nav-2-3"><a href="http://www.escentual.com/fragrance/for-men/"><span>For Men</span></a></li><li class="level1 nav-2-4"><a href="http://www.escentual.com/fragrance/summer-editions/"><span>Summer Editions</span></a></li><li class="level1 nav-2-5"><a href="http://www.escentual.com/fragrance/sport-fragrances/"><span>Sport Fragrances</span></a></li><li class="level1 nav-2-6"><a href="http://www.escentual.com/fragrance/celebrity-fragrances/"><span>Celebrity Fragrances</span></a></li></ul><ul><li class="level1 nav-2-7"><a href="http://www.escentual.com/fragrance/niche-fragrances/"><span>Niche Fragrances</span></a></li><li class="level1 nav-2-8"><a href="http://www.escentual.com/fragrance/gift-sets/"><span>Gift Sets</span></a></li><li class="level1 nav-2-9"><a href="http://www.escentual.com/fragrance/body-products/"><span>Fragrance Body Products</span></a></li><li class="level1 nav-2-10"><a href="http://www.escentual.com/fragrance/shaving/"><span>Shaving</span></a></li><li class="level1 nav-2-11"><a href="http://www.escentual.com/fragrance/oils/"><span>Oils</span></a></li><li class="level1 nav-2-12 last"><a href="http://www.escentual.com/fragrance/for-home/"><span>For Home</span></a></li></ul></li><li class="nav-sub-brands"><div class="nav-sub-heading">Top Brands</div><ul><li><a href="http://www.escentual.com/one-direction/">One Direction</a></li>
-<li><a href="http://www.escentual.com/giorgio-armani/">Giorgio Armani</a></li>
+        <li class="level0 nav-1 first level-top"><a href="http://www.escentual.com/brands/" class="level-top"><span>Brands A - Z</span></a></li><li class="level0 nav-2 level-top parent"><a href="http://www.escentual.com/fragrance/" class="level-top"><span>Fragrance</span></a><ul class="level0"><li class="nav-sub-categories"><div class="nav-sub-heading">Categories</div><ul><li class="level1 nav-2-1 first"><a href="http://www.escentual.com/fragrance/all-fragrance/"><span>All Fragrances</span></a></li><li class="level1 nav-2-2"><a href="http://www.escentual.com/fragrance/for-women/"><span>For Women</span></a></li><li class="level1 nav-2-3"><a href="http://www.escentual.com/fragrance/for-men/"><span>For Men</span></a></li><li class="level1 nav-2-4"><a href="http://www.escentual.com/fragrance/summer-editions/"><span>Summer Editions</span></a></li><li class="level1 nav-2-5"><a href="http://www.escentual.com/fragrance/sport-fragrances/"><span>Sport Fragrances</span></a></li><li class="level1 nav-2-6"><a href="http://www.escentual.com/fragrance/celebrity-fragrances/"><span>Celebrity Fragrances</span></a></li></ul><ul><li class="level1 nav-2-7"><a href="http://www.escentual.com/fragrance/niche-fragrances/"><span>Niche Fragrances</span></a></li><li class="level1 nav-2-8"><a href="http://www.escentual.com/fragrance/gift-sets/"><span>Gift Sets</span></a></li><li class="level1 nav-2-9"><a href="http://www.escentual.com/fragrance/body-products/"><span>Fragrance Body Products</span></a></li><li class="level1 nav-2-10"><a href="http://www.escentual.com/fragrance/shaving/"><span>Shaving</span></a></li><li class="level1 nav-2-11"><a href="http://www.escentual.com/fragrance/oils/"><span>Oils</span></a></li><li class="level1 nav-2-12 last"><a href="http://www.escentual.com/fragrance/for-home/"><span>For Home</span></a></li></ul></li><li class="nav-sub-brands"><div class="nav-sub-heading">Top Brands</div><ul><li><a href="http://www.escentual.com/calvin-klein/">Calvin Klein</a></li>
+<li><a href="http://www.escentual.com/donna-karan/">Donna Karan</a></li>
+<li><a href="http://www.escentual.com/nuxe/">Nuxe</a></li>
+<li><a href="http://www.escentual.com/guerlain/">GUERLAIN</a></li>
 <li><a href="http://www.escentual.com/dolce-and-gabbana/">Dolce &amp; Gabbana</a></li>
-<li><a href="http://www.escentual.com/anna-sui/">Anna Sui</a></li>
-<li><a href="http://www.escentual.com/paco-rabanne/">Paco Rabanne</a></li>
-<li><a href="http://www.escentual.com/thierry-mugler/">Thierry Mugler</a></li>
+<li><a href="http://www.escentual.com/giorgio-armani/">Giorgio Armani</a></li>
 </ul></li><li class="nav-sub-blog"><div class="nav-sub-heading">Shopping Guides</div><ul><ul>
 <li><div class="post-wrapper"><div class="post"><a target="_blank" class="post-title" href="http://www.escentual.com/blog/2013/11/01/gift-set-guide/">Gift Set Guide</a></div></div></li>
 <li><div class="post-wrapper"><div class="post"><a target="_blank" class="post-title" href="http://www.escentual.com/blog/2011/02/15/fragrance-concentration/">Fragrance Concentration</a></div></div></li>
@@ -357,12 +367,24 @@ _gaq.push(['_trackPageview']);
 <li><div class="post-wrapper"><div class="post"><a target="_blank" class="post-title" href="http://www.escentual.com/blog/2011/01/09/fragrance-faq/">Fragrance FAQ</a></div></div></li>
 	<li class="more"><a target="_blank" href="http://www.escentual.com/blog/category/shopping-guides/?cat=24">More...</a></li>
 </ul>
-</ul></li></ul></li><li class="level0 nav-3 level-top parent"><a href="http://www.escentual.com/skincare/" class="level-top"><span>Skincare</span></a><ul class="level0"><li class="nav-sub-categories"><div class="nav-sub-heading">Categories</div><ul><li class="level1 nav-3-1 first"><a href="http://www.escentual.com/skincare/all-skincare/"><span>All Skincare</span></a></li><li class="level1 nav-3-2"><a href="http://www.escentual.com/skincare/face/"><span>Face</span></a></li><li class="level1 nav-3-3"><a href="http://www.escentual.com/skincare/body/"><span>Body</span></a></li><li class="level1 nav-3-4"><a href="http://www.escentual.com/skincare/appliances/"><span>Appliances</span></a></li><li class="level1 nav-3-5 last"><a href="http://www.escentual.com/skincare/french-pharmacy/"><span>French Pharmacy</span></a></li></ul></li><li class="nav-sub-brands"><div class="nav-sub-heading">Top Brands</div><ul><li><a href="http://www.escentual.com/bioderma/">Bioderma</a></li>
-<li><a href="http://www.escentual.com/crabtree-and-evelyn/">Crabtree &amp; Evelyn</a></li>
-<li><a href="http://www.escentual.com/la-roche-posay/">La Roche-Posay</a></li>
-<li><a href="http://www.escentual.com/dior/">DIOR</a></li>
-<li><a href="http://www.escentual.com/clarins/">Clarins</a></li>
-<li><a href="http://www.escentual.com/avene/">Avene</a></li>
+</ul></li></ul></li><li class="level0 nav-3 level-top parent"><a href="http://www.escentual.com/skincare/" class="level-top"><span>Skincare</span></a><ul class="level0"><li class="nav-sub-categories"><div class="nav-sub-heading">Categories</div><ul><li class="level1 nav-3-1 first"><a href="http://www.escentual.com/skincare/all-skincare/"><span>All Skincare</span></a></li><li class="level1 nav-3-2"><a href="http://www.escentual.com/skincare/face/"><span>Face</span></a></li><li class="level1 nav-3-3"><a href="http://www.escentual.com/skincare/body/"><span>Body</span></a></li><li class="level1 nav-3-4"><a href="http://www.escentual.com/skincare/appliances/"><span>Appliances</span></a></li><li class="level1 nav-3-5 last"><a href="http://www.escentual.com/skincare/french-pharmacy/"><span>French Pharmacy</span></a></li></ul></li><li class="nav-sub-brands"><div class="nav-sub-heading">Top Brands</div><ul>
+  <li><span class="widget widget-category-link-inline"><a href="http://www.escentual.com/avene/"><span>Avene</span></a></span>
+</li>
+
+  <li><span class="widget widget-category-link-inline"><a href="http://www.escentual.com/bioderma/"><span>Bioderma</span></a></span>
+</li>
+
+  <li><span class="widget widget-category-link-inline"><a href="http://www.escentual.com/clarins/"><span>Clarins</span></a></span>
+</li>
+
+  <li><span class="widget widget-category-link-inline"><a href="http://www.escentual.com/dior/"><span>DIOR</span></a></span>
+</li>
+
+  <li><span class="widget widget-category-link-inline"><a href="http://www.escentual.com/la-roche-posay/"><span>La Roche-Posay</span></a></span>
+</li>
+
+  <li><span class="widget widget-category-link-inline"><a href="http://www.escentual.com/nuxe/"><span>Nuxe</span></a></span>
+</li>
 </ul></li><li class="nav-sub-blog"><div class="nav-sub-heading">Shopping Guides</div><ul><ul>
 <li><div class="post-wrapper"><div class="post"><a target="_blank" class="post-title" href="http://www.escentual.com/blog/2012/05/22/brand-focus-tanda-light-therapy/">Brand Focus – Tanda</a></div></div></li>
 <li><div class="post-wrapper"><div class="post"><a target="_blank" class="post-title" href="http://www.escentual.com/blog/2011/09/15/national-eczema-week-spotlight-on-a-derma/">Eczema: Spotlight on A-Derma</a></div></div></li>
@@ -371,12 +393,24 @@ _gaq.push(['_trackPageview']);
 <li><div class="post-wrapper"><div class="post"><a target="_blank" class="post-title" href="http://www.escentual.com/blog/2011/01/10/teenage-skin-explained/">Teenage Skin Explained</a></div></div></li>
 	<li class="more"><a target="_blank" href="http://www.escentual.com/blog/category/shopping-guides/?cat=27">More...</a></li>
 </ul>
-</ul></li></ul></li><li class="level0 nav-4 level-top parent"><a href="http://www.escentual.com/hair-care/" class="level-top"><span>Hair Care</span></a><ul class="level0"><li class="nav-sub-categories"><div class="nav-sub-heading">Categories</div><ul><li class="level1 nav-4-1 first"><a href="http://www.escentual.com/hair-care/all-hair-care/"><span>All Hair Care</span></a></li><li class="level1 nav-4-2"><a href="http://www.escentual.com/hair-care/shampoo/"><span>Shampoo</span></a></li><li class="level1 nav-4-3"><a href="http://www.escentual.com/hair-care/conditioner/"><span>Conditioner</span></a></li><li class="level1 nav-4-4"><a href="http://www.escentual.com/hair-care/treatments/"><span>Treatments</span></a></li><li class="level1 nav-4-5"><a href="http://www.escentual.com/hair-care/dry-shampoo/"><span>Dry Shampoo</span></a></li><li class="level1 nav-4-6"><a href="http://www.escentual.com/hair-care/styling/"><span>Styling</span></a></li></ul><ul><li class="level1 nav-4-7"><a href="http://www.escentual.com/hair-care/hairbrushes-combs/"><span>Hairbrushes &amp; Combs</span></a></li><li class="level1 nav-4-8 last"><a href="http://www.escentual.com/hair-care/sets-and-collections/"><span>Sets and Collections</span></a></li></ul></li><li class="nav-sub-brands"><div class="nav-sub-heading">Top Brands</div><ul><li><a href="http://www.escentual.com/klorane/">Klorane</a></li>
-<li><a href="http://www.escentual.com/rene-furterer/">Rene Furterer</a></li>
-<li><a href="http://www.escentual.com/vichy/">Vichy</a></li>
-<li><a href="http://www.escentual.com/mason-pearson-brushes/">Mason Pearson Brushes</a></li>
-<li><a href="http://www.escentual.com/aramis/">Aramis</a></li>
-<li><a href="http://www.escentual.com/clarins/">Clarins</a></li>
+</ul></li></ul></li><li class="level0 nav-4 level-top parent"><a href="http://www.escentual.com/hair-care/" class="level-top"><span>Hair Care</span></a><ul class="level0"><li class="nav-sub-categories"><div class="nav-sub-heading">Categories</div><ul><li class="level1 nav-4-1 first"><a href="http://www.escentual.com/hair-care/all-hair-care/"><span>All Hair Care</span></a></li><li class="level1 nav-4-2"><a href="http://www.escentual.com/hair-care/shampoo/"><span>Shampoo</span></a></li><li class="level1 nav-4-3"><a href="http://www.escentual.com/hair-care/conditioner/"><span>Conditioner</span></a></li><li class="level1 nav-4-4"><a href="http://www.escentual.com/hair-care/treatments/"><span>Treatments</span></a></li><li class="level1 nav-4-5"><a href="http://www.escentual.com/hair-care/dry-shampoo/"><span>Dry Shampoo</span></a></li><li class="level1 nav-4-6"><a href="http://www.escentual.com/hair-care/styling/"><span>Styling</span></a></li></ul><ul><li class="level1 nav-4-7"><a href="http://www.escentual.com/hair-care/hairbrushes-combs/"><span>Hairbrushes &amp; Combs</span></a></li><li class="level1 nav-4-8 last"><a href="http://www.escentual.com/hair-care/sets-and-collections/"><span>Sets and Collections</span></a></li></ul></li><li class="nav-sub-brands"><div class="nav-sub-heading">Top Brands</div><ul>
+  <li><span class="widget widget-category-link-inline"><a href="http://www.escentual.com/bumble-and-bumble/"><span>Bumble and bumble</span></a></span>
+</li>
+
+  <li><span class="widget widget-category-link-inline"><a href="http://www.escentual.com/klorane/"><span>Klorane</span></a></span>
+</li>
+
+  <li><span class="widget widget-category-link-inline"><a href="http://www.escentual.com/mason-pearson-brushes/"><span>Mason Pearson Brushes</span></a></span>
+</li>
+
+  <li><span class="widget widget-category-link-inline"><a href="http://www.escentual.com/philip-kingsley/"><span>Philip Kingsley</span></a></span>
+</li>
+
+  <li><span class="widget widget-category-link-inline"><a href="http://www.escentual.com/rene-furterer/"><span>Rene Furterer</span></a></span>
+</li>
+
+  <li><span class="widget widget-category-link-inline"><a href="http://www.escentual.com/schwarzkopf-professional/"><span>Schwarzkopf Professional</span></a></span>
+</li>
 </ul></li><li class="nav-sub-blog"><div class="nav-sub-heading">Shopping Guides</div><ul><ul>
 <li><div class="post-wrapper"><div class="post"><a target="_blank" class="post-title" href="http://www.escentual.com/blog/2011/01/10/haircare-glossary/">Haircare Glossary</a></div></div></li>
 <li><div class="post-wrapper"><div class="post"><a target="_blank" class="post-title" href="http://www.escentual.com/blog/2011/01/10/scalp-problems/">Scalp Problems</a></div></div></li>
@@ -385,12 +419,24 @@ _gaq.push(['_trackPageview']);
 <li><div class="post-wrapper"><div class="post"><a target="_blank" class="post-title" href="http://www.escentual.com/blog/2011/01/10/caring-for-dry-hair/">Caring for Dry Hair</a></div></div></li>
 	<li class="more"><a target="_blank" href="http://www.escentual.com/blog/category/shopping-guides/?cat=26">More...</a></li>
 </ul>
-</ul></li></ul></li><li class="level0 nav-5 level-top parent"><a href="http://www.escentual.com/make-up/" class="level-top"><span>Makeup</span></a><ul class="level0"><li class="nav-sub-categories"><div class="nav-sub-heading">Categories</div><ul><li class="level1 nav-5-1 first"><a href="http://www.escentual.com/make-up/all-make-up/"><span>All Makeup</span></a></li><li class="level1 nav-5-2"><a href="http://www.escentual.com/make-up/face/"><span>Face</span></a></li><li class="level1 nav-5-3"><a href="http://www.escentual.com/make-up/eyes/"><span>Eyes</span></a></li><li class="level1 nav-5-4"><a href="http://www.escentual.com/make-up/lips/"><span>Lips</span></a></li><li class="level1 nav-5-5"><a href="http://www.escentual.com/make-up/nails/"><span>Nails</span></a></li><li class="level1 nav-5-6"><a href="http://www.escentual.com/make-up/body/"><span>Body</span></a></li></ul><ul><li class="level1 nav-5-7"><a href="http://www.escentual.com/make-up/accessories/"><span>Brushes and Accessories</span></a></li><li class="level1 nav-5-8"><a href="http://www.escentual.com/make-up/primers-and-fixers/"><span>Primers and Fixers</span></a></li><li class="level1 nav-5-9"><a href="http://www.escentual.com/make-up/make-up-removers/"><span>Makeup Removers</span></a></li><li class="level1 nav-5-10 last"><a href="http://www.escentual.com/make-up/gift-sets-and-collections/"><span>Gift Sets and Collections</span></a></li></ul></li><li class="nav-sub-brands"><div class="nav-sub-heading">Top Brands</div><ul><li><a href="http://www.escentual.com/bioderma/">Bioderma</a></li>
-<li><a href="http://www.escentual.com/dior/">DIOR</a></li>
-<li><a href="http://www.escentual.com/clarins/">Clarins</a></li>
-<li><a href="http://www.escentual.com/real-techniques/">Real Techniques</a></li>
-<li><a href="http://www.escentual.com/vichy/">Vichy</a></li>
-<li><a href="http://www.escentual.com/avene/">Avene</a></li>
+</ul></li></ul></li><li class="level0 nav-5 level-top parent"><a href="http://www.escentual.com/make-up/" class="level-top"><span>Makeup</span></a><ul class="level0"><li class="nav-sub-categories"><div class="nav-sub-heading">Categories</div><ul><li class="level1 nav-5-1 first"><a href="http://www.escentual.com/make-up/all-make-up/"><span>All Makeup</span></a></li><li class="level1 nav-5-2"><a href="http://www.escentual.com/make-up/face/"><span>Face</span></a></li><li class="level1 nav-5-3"><a href="http://www.escentual.com/make-up/eyes/"><span>Eyes</span></a></li><li class="level1 nav-5-4"><a href="http://www.escentual.com/make-up/lips/"><span>Lips</span></a></li><li class="level1 nav-5-5"><a href="http://www.escentual.com/make-up/nails/"><span>Nails</span></a></li><li class="level1 nav-5-6"><a href="http://www.escentual.com/make-up/body/"><span>Body</span></a></li></ul><ul><li class="level1 nav-5-7"><a href="http://www.escentual.com/make-up/accessories/"><span>Brushes and Accessories</span></a></li><li class="level1 nav-5-8"><a href="http://www.escentual.com/make-up/primers-and-fixers/"><span>Primers and Fixers</span></a></li><li class="level1 nav-5-9"><a href="http://www.escentual.com/make-up/make-up-removers/"><span>Makeup Removers</span></a></li><li class="level1 nav-5-10 last"><a href="http://www.escentual.com/make-up/gift-sets-and-collections/"><span>Gift Sets and Collections</span></a></li></ul></li><li class="nav-sub-brands"><div class="nav-sub-heading">Top Brands</div><ul>
+  <li><span class="widget widget-category-link-inline"><a href="http://www.escentual.com/bareminerals/"><span>bareMinerals</span></a></span>
+</li>
+
+  <li><span class="widget widget-category-link-inline"><a href="http://www.escentual.com/clarins/"><span>Clarins</span></a></span>
+</li>
+
+  <li><span class="widget widget-category-link-inline"><a href="http://www.escentual.com/daniel-sandler/"><span>Daniel Sandler</span></a></span>
+</li>
+
+  <li><span class="widget widget-category-link-inline"><a href="http://www.escentual.com/dior/"><span>DIOR</span></a></span>
+</li>
+
+  <li><span class="widget widget-category-link-inline"><a href="http://www.escentual.com/guerlain/"><span>GUERLAIN</span></a></span>
+</li>
+
+  <li><span class="widget widget-category-link-inline"><a href="http://www.escentual.com/michael-kors/"><span>Michael Kors</span></a></span>
+</li>
 </ul></li><li class="nav-sub-blog"><div class="nav-sub-heading">Shopping Guides</div><ul><ul>
 <li><div class="post-wrapper"><div class="post"><a target="_blank" class="post-title" href="http://www.escentual.com/blog/2011/01/10/make-up-removal/">Make-up Removal</a></div></div></li>
 <li><div class="post-wrapper"><div class="post"><a target="_blank" class="post-title" href="http://www.escentual.com/blog/2011/01/10/make-up-bag-extras/">Make Up Bag Extras</a></div></div></li>
@@ -399,23 +445,35 @@ _gaq.push(['_trackPageview']);
 <li><div class="post-wrapper"><div class="post"><a target="_blank" class="post-title" href="http://www.escentual.com/blog/2011/01/10/make-up-application/">Make-Up Application</a></div></div></li>
 	<li class="more"><a target="_blank" href="http://www.escentual.com/blog/category/shopping-guides/?cat=28">More...</a></li>
 </ul>
-</ul></li></ul></li><li class="level0 nav-6 level-top parent"><a href="http://www.escentual.com/bath-and-shower/" class="level-top"><span>Bath &amp; Shower</span></a><ul class="level0"><li class="nav-sub-categories"><div class="nav-sub-heading">Categories</div><ul><li class="level1 nav-6-1 first"><a href="http://www.escentual.com/bath-and-shower/all-bath-and-shower/"><span>All Bath &amp; Shower</span></a></li><li class="level1 nav-6-2"><a href="http://www.escentual.com/bath-and-shower/shower-gels/"><span>Shower Gels</span></a></li><li class="level1 nav-6-3"><a href="http://www.escentual.com/bath-and-shower/bathing/"><span>Bathing</span></a></li><li class="level1 nav-6-4"><a href="http://www.escentual.com/bath-and-shower/soaps/"><span>Soaps</span></a></li><li class="level1 nav-6-5"><a href="http://www.escentual.com/bath-and-shower/deodorant/"><span>Deodorant</span></a></li><li class="level1 nav-6-6"><a href="http://www.escentual.com/bath-and-shower/dental-care/"><span>Dental Care</span></a></li></ul><ul><li class="level1 nav-6-7"><a href="http://www.escentual.com/bath-and-shower/talcs/"><span>Talcs and Powders</span></a></li><li class="level1 nav-6-8"><a href="http://www.escentual.com/bath-and-shower/handwash/"><span>Handwash</span></a></li><li class="level1 nav-6-9 last"><a href="http://www.escentual.com/bath-and-shower/gift-sets/"><span>Gift Sets</span></a></li></ul></li><li class="nav-sub-brands"><div class="nav-sub-heading">Top Brands</div><ul><li><a href="http://www.escentual.com/007-fragrances/">007 Fragrances</a></li>
-<li><a href="http://www.escentual.com/donna-karan/">Donna Karan</a></li>
-<li><a href="http://www.escentual.com/clarins/">Clarins</a></li>
-<li><a href="http://www.escentual.com/vichy/">Vichy</a></li>
-<li><a href="http://www.escentual.com/aramis/">Aramis</a></li>
-<li><a href="http://www.escentual.com/crabtree-and-evelyn/">Crabtree &amp; Evelyn</a></li>
+</ul></li></ul></li><li class="level0 nav-6 level-top parent"><a href="http://www.escentual.com/bath-and-shower/" class="level-top"><span>Bath &amp; Shower</span></a><ul class="level0"><li class="nav-sub-categories"><div class="nav-sub-heading">Categories</div><ul><li class="level1 nav-6-1 first"><a href="http://www.escentual.com/bath-and-shower/all-bath-and-shower/"><span>All Bath &amp; Shower</span></a></li><li class="level1 nav-6-2"><a href="http://www.escentual.com/bath-and-shower/shower-gels/"><span>Shower Gels</span></a></li><li class="level1 nav-6-3"><a href="http://www.escentual.com/bath-and-shower/bathing/"><span>Bathing</span></a></li><li class="level1 nav-6-4"><a href="http://www.escentual.com/bath-and-shower/soaps/"><span>Soaps</span></a></li><li class="level1 nav-6-5"><a href="http://www.escentual.com/bath-and-shower/deodorant/"><span>Deodorant</span></a></li><li class="level1 nav-6-6"><a href="http://www.escentual.com/bath-and-shower/dental-care/"><span>Dental Care</span></a></li></ul><ul><li class="level1 nav-6-7"><a href="http://www.escentual.com/bath-and-shower/talcs/"><span>Talcs and Powders</span></a></li><li class="level1 nav-6-8"><a href="http://www.escentual.com/bath-and-shower/handwash/"><span>Handwash</span></a></li><li class="level1 nav-6-9 last"><a href="http://www.escentual.com/bath-and-shower/gift-sets/"><span>Gift Sets</span></a></li></ul></li><li class="nav-sub-brands"><div class="nav-sub-heading">Top Brands</div><ul>
+  <li><span class="widget widget-category-link-inline"><a href="http://www.escentual.com/clarins/"><span>Clarins</span></a></span>
+</li>
+
+  <li><span class="widget widget-category-link-inline"><a href="http://www.escentual.com/crabtree-and-evelyn/"><span>Crabtree &amp; Evelyn</span></a></span>
+</li>
+
+  <li><span class="widget widget-category-link-inline"><a href="http://www.escentual.com/loccitane/"><span>L'Occitane</span></a></span>
+</li>
+
+  <li><span class="widget widget-category-link-inline"><a href="http://www.escentual.com/roger-and-gallet/"><span>Roger &amp; Gallet</span></a></span>
+</li>
+
+  <li><span class="widget widget-category-link-inline"><a href="http://www.escentual.com/tisserand/"><span>Tisserand</span></a></span>
+</li>
+
+  <li><span class="widget widget-category-link-inline"><a href="http://www.escentual.com/vichy/"><span>Vichy</span></a></span>
+</li>
 </ul></li><li class="nav-sub-blog"><div class="nav-sub-heading">Shopping Guides</div><ul><ul>
 <li><div class="post-wrapper"><div class="post"><a target="_blank" class="post-title" href="http://www.escentual.com/blog/2011/01/10/indulgent-bathing/">Indulgent Bathing</a></div></div></li>
 <li><div class="post-wrapper"><div class="post"><a target="_blank" class="post-title" href="http://www.escentual.com/blog/2011/01/09/indulgent-showering/">Indulgent Showering</a></div></div></li>
 	<li class="more"><a target="_blank" href="http://www.escentual.com/blog/category/shopping-guides/?cat=36">More...</a></li>
 </ul>
-</ul></li></ul></li><li class="level0 nav-7 level-top parent"><a href="http://www.escentual.com/sun/" class="level-top"><span>Sun</span></a><ul class="level0"><li class="nav-sub-categories"><div class="nav-sub-heading">Categories</div><ul><li class="level1 nav-7-1 first"><a href="http://www.escentual.com/sun/all-sun/"><span>All Sun</span></a></li><li class="level1 nav-7-2"><a href="http://www.escentual.com/sun/sun-protection/"><span>Sun Protection</span></a></li><li class="level1 nav-7-3"><a href="http://www.escentual.com/sun/after-sun/"><span>After-Sun</span></a></li><li class="level1 nav-7-4"><a href="http://www.escentual.com/sun/self-tan/"><span>Self Tan</span></a></li><li class="level1 nav-7-5"><a href="http://www.escentual.com/sun/preparation/"><span>Tan Preparation</span></a></li><li class="level1 nav-7-6"><a href="http://www.escentual.com/sun/wash-off/"><span>Wash-Off Tan</span></a></li></ul><ul><li class="level1 nav-7-7"><a href="http://www.escentual.com/sun/bronzing/"><span>Bronzing</span></a></li><li class="level1 nav-7-8 last"><a href="http://www.escentual.com/sun/accessories/"><span>Tanning Accessories</span></a></li></ul></li><li class="nav-sub-brands"><div class="nav-sub-heading">Top Brands</div><ul><li><a href="http://www.escentual.com/clarins/">Clarins</a></li>
+</ul></li></ul></li><li class="level0 nav-7 level-top parent"><a href="http://www.escentual.com/sun/" class="level-top"><span>Sun</span></a><ul class="level0"><li class="nav-sub-categories"><div class="nav-sub-heading">Categories</div><ul><li class="level1 nav-7-1 first"><a href="http://www.escentual.com/sun/all-sun/"><span>All Sun</span></a></li><li class="level1 nav-7-2"><a href="http://www.escentual.com/sun/sun-protection/"><span>Sun Protection</span></a></li><li class="level1 nav-7-3"><a href="http://www.escentual.com/sun/after-sun/"><span>After-Sun</span></a></li><li class="level1 nav-7-4"><a href="http://www.escentual.com/sun/self-tan/"><span>Self Tan</span></a></li><li class="level1 nav-7-5"><a href="http://www.escentual.com/sun/preparation/"><span>Tan Preparation</span></a></li><li class="level1 nav-7-6"><a href="http://www.escentual.com/sun/wash-off/"><span>Wash-Off Tan</span></a></li></ul><ul><li class="level1 nav-7-7"><a href="http://www.escentual.com/sun/bronzing/"><span>Bronzing</span></a></li><li class="level1 nav-7-8 last"><a href="http://www.escentual.com/sun/accessories/"><span>Tanning Accessories</span></a></li></ul></li><li class="nav-sub-brands"><div class="nav-sub-heading">Top Brands</div><ul><li><a href="http://www.escentual.com/ultrasun/">Ultrasun</a></li>
 <li><a href="http://www.escentual.com/avene/">Avene</a></li>
+<li><a href="http://www.escentual.com/clarins/">Clarins</a></li>
+<li><a href="http://www.escentual.com/la-roche-posay/">La Roche-Posay</a></li>
 <li><a href="http://www.escentual.com/bioderma/">Bioderma</a></li>
 <li><a href="http://www.escentual.com/caudalie/">Caudalie</a></li>
-<li><a href="http://www.escentual.com/lab-series/">Lab Series</a></li>
-<li><a href="http://www.escentual.com/la-roche-posay/">La Roche-Posay</a></li>
 </ul></li><li class="nav-sub-blog"><div class="nav-sub-heading">Shopping Guides</div><ul><ul>
 <li><div class="post-wrapper"><div class="post"><a target="_blank" class="post-title" href="http://www.escentual.com/blog/2011/01/10/why-wear-sun-protection/">Why Wear Sun Protection?</a></div></div></li>
 <li><div class="post-wrapper"><div class="post"><a target="_blank" class="post-title" href="http://www.escentual.com/blog/2011/01/10/the-sun-care-code/">The Sun Care Code</a></div></div></li>
@@ -424,12 +482,12 @@ _gaq.push(['_trackPageview']);
 <li><div class="post-wrapper"><div class="post"><a target="_blank" class="post-title" href="http://www.escentual.com/blog/2011/01/10/ski-sun-protection/">Ski Sun Protection</a></div></div></li>
 	<li class="more"><a target="_blank" href="http://www.escentual.com/blog/category/shopping-guides/?cat=37">More...</a></li>
 </ul>
-</ul></li></ul></li><li class="level0 nav-8 level-top parent"><a href="http://www.escentual.com/men/" class="level-top"><span>Men</span></a><ul class="level0"><li class="nav-sub-categories"><div class="nav-sub-heading">Categories</div><ul><li class="level1 nav-8-1 first"><a href="http://www.escentual.com/men/all-men/"><span>All Men</span></a></li><li class="level1 nav-8-2"><a href="http://www.escentual.com/men/fragrance/"><span>Fragrance</span></a></li><li class="level1 nav-8-3"><a href="http://www.escentual.com/men/hair-care/"><span>Hair Care</span></a></li><li class="level1 nav-8-4"><a href="http://www.escentual.com/men/skincare/"><span>Skin Care</span></a></li><li class="level1 nav-8-5"><a href="http://www.escentual.com/men/shaving/"><span>Shaving</span></a></li><li class="level1 nav-8-6"><a href="http://www.escentual.com/men/body-and-shower/"><span>Shower</span></a></li></ul><ul><li class="level1 nav-8-7"><a href="http://www.escentual.com/men/deodorants/"><span>Deodorants</span></a></li><li class="level1 nav-8-8"><a href="http://www.escentual.com/men/men-body/"><span>Body</span></a></li><li class="level1 nav-8-9"><a href="http://www.escentual.com/men/cosmetics/"><span>Cosmetics</span></a></li><li class="level1 nav-8-10 last"><a href="http://www.escentual.com/men/gift-sets/"><span>Gift Sets</span></a></li></ul></li><li class="nav-sub-brands"><div class="nav-sub-heading">Top Brands</div><ul><li><a href="http://www.escentual.com/paco-rabanne/">Paco Rabanne</a></li>
+</ul></li></ul></li><li class="level0 nav-8 level-top parent"><a href="http://www.escentual.com/men/" class="level-top"><span>Men</span></a><ul class="level0"><li class="nav-sub-categories"><div class="nav-sub-heading">Categories</div><ul><li class="level1 nav-8-1 first"><a href="http://www.escentual.com/men/all-men/"><span>All Men</span></a></li><li class="level1 nav-8-2"><a href="http://www.escentual.com/men/fragrance/"><span>Fragrance</span></a></li><li class="level1 nav-8-3"><a href="http://www.escentual.com/men/hair-care/"><span>Hair Care</span></a></li><li class="level1 nav-8-4"><a href="http://www.escentual.com/men/skincare/"><span>Skin Care</span></a></li><li class="level1 nav-8-5"><a href="http://www.escentual.com/men/shaving/"><span>Shaving</span></a></li><li class="level1 nav-8-6"><a href="http://www.escentual.com/men/body-and-shower/"><span>Shower</span></a></li></ul><ul><li class="level1 nav-8-7"><a href="http://www.escentual.com/men/deodorants/"><span>Deodorants</span></a></li><li class="level1 nav-8-8"><a href="http://www.escentual.com/men/men-body/"><span>Body</span></a></li><li class="level1 nav-8-9"><a href="http://www.escentual.com/men/cosmetics/"><span>Cosmetics</span></a></li><li class="level1 nav-8-10 last"><a href="http://www.escentual.com/men/gift-sets/"><span>Gift Sets</span></a></li></ul></li><li class="nav-sub-brands"><div class="nav-sub-heading">Top Brands</div><ul><li><a href="http://www.escentual.com/calvin-klein/">Calvin Klein</a></li>
+<li><a href="http://www.escentual.com/vichy/">Vichy</a></li>
 <li><a href="http://www.escentual.com/clarins/">Clarins</a></li>
-<li><a href="http://www.escentual.com/007-fragrances/">007 Fragrances</a></li>
-<li><a href="http://www.escentual.com/dkny/">DKNY</a></li>
-<li><a href="http://www.escentual.com/aramis/">Aramis</a></li>
-<li><a href="http://www.escentual.com/lab-series/">Lab Series</a></li>
+<li><a href="http://www.escentual.com/valentino/">Valentino</a></li>
+<li><a href="http://www.escentual.com/nickel/">Nickel</a></li>
+<li><a href="http://www.escentual.com/jean-paul-gaultier/">Jean Paul Gaultier</a></li>
 </ul></li><li class="nav-sub-blog"><div class="nav-sub-heading">Shopping Guides</div><ul><ul>
 <li><div class="post-wrapper"><div class="post"><a target="_blank" class="post-title" href="http://www.escentual.com/blog/2011/07/27/male-grooming-glossary/">Male Grooming Glossary</a></div></div></li>
 <li><div class="post-wrapper"><div class="post"><a target="_blank" class="post-title" href="http://www.escentual.com/blog/2011/01/10/male-shaving/">Male Shaving</a></div></div></li>
@@ -437,12 +495,12 @@ _gaq.push(['_trackPageview']);
 <li><div class="post-wrapper"><div class="post"><a target="_blank" class="post-title" href="http://www.escentual.com/blog/2011/01/10/male-haircare/">Male Haircare</a></div></div></li>
 	<li class="more"><a target="_blank" href="http://www.escentual.com/blog/category/shopping-guides/?cat=38">More...</a></li>
 </ul>
-</ul></li></ul></li><li class="level0 nav-9 level-top parent"><a href="http://www.escentual.com/gifts/" class="level-top"><span>Gifts</span></a><ul class="level0"><li class="nav-sub-categories"><div class="nav-sub-heading">Categories</div><ul><li class="level1 nav-9-1 first"><a href="http://www.escentual.com/gifts/all-gifts/"><span>All Gifts</span></a></li><li class="level1 nav-9-2"><a href="http://www.escentual.com/gifts/for-her/"><span>For Her</span></a></li><li class="level1 nav-9-3"><a href="http://www.escentual.com/gifts/for-him/"><span>For Him</span></a></li><li class="level1 nav-9-4"><a href="http://www.escentual.com/gifts/for-teens/"><span>For Teens</span></a></li><li class="level1 nav-9-5"><a href="http://www.escentual.com/gifts/for-home/"><span>For Home</span></a></li><li class="level1 nav-9-6"><a href="http://www.escentual.com/gifts/indulgent-gifts/"><span>Indulgent Gifts</span></a></li></ul><ul><li class="level1 nav-9-7"><a href="http://www.escentual.com/gifts/budget-gifts/"><span>Budget Gifts</span></a></li><li class="level1 nav-9-8"><a href="http://www.escentual.com/gifts/fragrance-gift-sets/"><span>Fragrance Gift Sets</span></a></li><li class="level1 nav-9-9"><a href="http://www.escentual.com/gifts/skincare-gift-sets/"><span>Skincare Gift Sets</span></a></li><li class="level1 nav-9-10"><a href="http://www.escentual.com/gifts/makeup-gift-sets/"><span>Makeup Gift Sets</span></a></li><li class="level1 nav-9-11"><a href="http://www.escentual.com/gifts/all-gift-sets/"><span>All Gift Sets</span></a></li><li class="level1 nav-9-12 last"><a href="http://www.escentual.com/gifts/valentines-day/"><span>Valentines Day Picks</span></a></li></ul></li><li class="nav-sub-brands"><div class="nav-sub-heading">Top Brands</div><ul><li><a href="http://www.escentual.com/crabtree-and-evelyn/">Crabtree &amp; Evelyn</a></li>
-<li><a href="http://www.escentual.com/one-direction/">One Direction</a></li>
-<li><a href="http://www.escentual.com/nuxe/">Nuxe</a></li>
+</ul></li></ul></li><li class="level0 nav-9 level-top parent"><a href="http://www.escentual.com/gifts/" class="level-top"><span>Gifts</span></a><ul class="level0"><li class="nav-sub-categories"><div class="nav-sub-heading">Categories</div><ul><li class="level1 nav-9-1 first"><a href="http://www.escentual.com/gifts/all-gifts/"><span>All Gifts</span></a></li><li class="level1 nav-9-2"><a href="http://www.escentual.com/gifts/for-her/"><span>For Her</span></a></li><li class="level1 nav-9-3"><a href="http://www.escentual.com/gifts/for-him/"><span>For Him</span></a></li><li class="level1 nav-9-4"><a href="http://www.escentual.com/gifts/for-teens/"><span>For Teens</span></a></li><li class="level1 nav-9-5"><a href="http://www.escentual.com/gifts/for-home/"><span>For Home</span></a></li><li class="level1 nav-9-6"><a href="http://www.escentual.com/gifts/indulgent-gifts/"><span>Indulgent Gifts</span></a></li></ul><ul><li class="level1 nav-9-7"><a href="http://www.escentual.com/gifts/budget-gifts/"><span>Budget Gifts</span></a></li><li class="level1 nav-9-8"><a href="http://www.escentual.com/gifts/fragrance-gift-sets/"><span>Fragrance Gift Sets</span></a></li><li class="level1 nav-9-9"><a href="http://www.escentual.com/gifts/skincare-gift-sets/"><span>Skincare Gift Sets</span></a></li><li class="level1 nav-9-10"><a href="http://www.escentual.com/gifts/makeup-gift-sets/"><span>Makeup Gift Sets</span></a></li><li class="level1 nav-9-11 last"><a href="http://www.escentual.com/gifts/all-gift-sets/"><span>All Gift Sets</span></a></li></ul></li><li class="nav-sub-brands"><div class="nav-sub-heading">Top Brands</div><ul><li><a href="http://www.escentual.com/nuxe/">Nuxe</a></li>
+<li><a href="http://www.escentual.com/crabtree-and-evelyn/">Crabtree &amp; Evelyn</a></li>
 <li><a href="http://www.escentual.com/real-techniques/">Real Techniques</a></li>
+<li><a href="http://www.escentual.com/clarins/">Clarins</a></li>
 <li><a href="http://www.escentual.com/dolce-and-gabbana/">Dolce &amp; Gabbana</a></li>
-<li><a href="http://www.escentual.com/paco-rabanne/">Paco Rabanne</a></li>
+<li><a href="http://www.escentual.com/too-faced/">Too Faced</a></li>
 </ul></li><li class="nav-sub-blog"><div class="nav-sub-heading">Shopping Guides</div><ul><ul>
 <li><div class="post-wrapper"><div class="post"><a target="_blank" class="post-title" href="http://www.escentual.com/blog/2013/11/01/gift-set-guide/">Gift Set Guide</a></div></div></li>
 <li><div class="post-wrapper"><div class="post"><a target="_blank" class="post-title" href="http://www.escentual.com/blog/2011/07/27/gift-buying-for-men/">Buying for Men</a></div></div></li>
@@ -453,12 +511,6 @@ _gaq.push(['_trackPageview']);
 </nav>
 	    <div class="top-bar">
 	    		    	<div class="cms-header-text default">
-  <a class="a-icon a-icon-left" href="/all-products"><strong>SAVE 25% OFF RRP ON EVERYTHING*</strong> USE CODE: <strong>ESCENTUAL25</strong> ends 17th Feb 11.59pm</a>
-</div>
-
-<div class="cms-header-text">
-  <a class="a-icon a-icon-left" href="/all-products"><strong>SAVE 25% OFF RRP ON EVERYTHING*</strong> USE CODE: <strong>ESCENTUAL25</strong> ends 17th Feb 11.59pm</a>
-</div><!--<div class="cms-header-text default">
   <a class="a-icon a-icon-left" href="/help-and-advice/customer-services/delivery-info/#deliveryuk"><strong>FREE</strong> UK DELIVERY AVAILABLE ON ORDERS OVER <strong>£30!</strong></a>
 </div>
 
@@ -468,7 +520,7 @@ _gaq.push(['_trackPageview']);
 
 <div class="cms-header-text">
   <a class="a-icon a-icon-left" href="/help-and-advice/customer-services/delivery-info/#deliveryeurope"><strong>INTERNATIONAL DELIVERY</strong> NOW ONLY <strong>£4.95!</strong></a>
-</div>-->	    	<script type="text/javascript">
+</div>	    	<script type="text/javascript">
 	    	(function($){
     		    $(document).ready(function(){
     			    var msgPeriod = 8000;
@@ -790,6 +842,11 @@ United Kingdom</p>
         <div class="share-heading"><a target="_blank" href="http://www.twitter.com/escentual">Twitter</a></div>
         <div><a target="_blank" href="http://www.twitter.com/escentual">For all the latest news and offers</a></div>
     </li>
+    <li class="instagram">
+        <a target="_blank" class="image-link" href="http://instagram.com/escentual"></a>
+        <div class="share-heading"><a target="_blank" href="http://instagram.com/escentual">Instagram</a></div>
+        <div><a target="_blank" href="http://instagram.com/escentual">Behind the scenes snaps</a></div>
+    </li>
     <li class="pinterest">
         <a target="_blank" class="image-link" href="http://pinterest.com/escentual/"></a>
         <div class="share-heading"><a target="_blank" href="http://pinterest.com/escentual/">Pinterest</a></div>
@@ -938,12 +995,12 @@ United Kingdom</p>
 <br>Tel: 02920 008844 or 0800 0470163 | Fax: 02920 008899 or 0845 8671790 
 			</div>
 			<div class="card-logos">
-	    		We accept the following credit/debit cards:<br><img src="http://static.escentual.com/frontend/escentual/default//images/accepted-cards.gif" title="Mastercard, Maestro, Visa, Visa Debit, Delta, American Express" alt="Mastercard, Maestro, Visa, Visa Debit, Delta, American Express">
+	    		We accept the following payment methods:<br><img src="http://static.escentual.com/frontend/escentual/default/images/accepted-cards.gif" title="Mastercard, Maestro, Visa, Visa Debit, Delta, American Express" alt="Mastercard, Maestro, Visa, Visa Debit, Delta, American Express"><img style="margin-left: 10px;" src="http://static.escentual.com/frontend/escentual/default/images/paypal-logo.png" title="PayPal" alt="PayPal">
 	    	</div>
 	    </div>
     </footer>
 </div>
-        <div class="admin-switch" style="margin-bottom: 20px; display: none;">
+                <div class="admin-switch" style="margin-bottom: 20px; display: none;">
     <a href="#" class="mobile-switch ">Switch to Mobile Site</a>
 </div>
 
@@ -961,7 +1018,9 @@ United Kingdom</p>
     	});
     });
 })(jQuery);
-</script>    </div>
+</script>
+
+    </div>
 </div>
 <script type="text/javascript">
     document.observe("dom:loaded", function() {
@@ -974,6 +1033,20 @@ United Kingdom</p>
     });
 </script>
 <script src="https://www.dwin1.com/2991.js" type="text/javascript" defer="defer"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1071733724;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1071733724/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-2.newrelic.com","licenseKey":"736409758d","applicationID":"3388034","transactionName":"NVxUY0pUV0dSWxBeWwwWd1RMXFZaHFsFQ1UOVlEYW1RNUVRXFk4bFFBTQA==","queueTime":0,"applicationTime":182,"ttGuid":"","agentToken":"","atts":"GRtXFQJOREk=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
 
-
-</body></html>
+<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
