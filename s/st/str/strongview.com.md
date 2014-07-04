@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the strongview.com privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215060837id_/http%3A//www.strongview.com/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strongview.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704055816id_/http%3A//www.strongview.com/site/privacy-policy) for the most accurate reproduction.*
 
 # Email Marketing & <br> Cross-Channel Company: <br> Privacy Policy | StrongView
 
