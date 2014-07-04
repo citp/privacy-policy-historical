@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the astrologyforu.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625103630id_/http%3A//astrologyforu.com/freehoroscope.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astrologyforu.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704024546id_/http%3A//astrologyforu.com/freehoroscope.htm) for the most accurate reproduction.*
 
 # AstrologyForU.com Privacy Policy
 
