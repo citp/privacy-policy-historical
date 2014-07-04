@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cruisemapper.com privacy policy that was archived on 2013-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130907012200id_/http%3A//www.cruisemapper.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cruisemapper.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704073741id_/http%3A//www.cruisemapper.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Cruise Mapper
 
