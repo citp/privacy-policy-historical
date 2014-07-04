@@ -1,101 +1,103 @@
-> *The following text is extracted and transformed from the zoomin.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330222257id_/http%3A//www.zoomin.com/us/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoomin.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704155437id_/http%3A//www.zoomin.com/us/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-We are committed to the respect of your privacy and maintaining a safe and secure online shopping service. 
+#### We are committed to the respect of your privacy and maintaining a safe and secure online shopping service.
 
-The Publisher’s Privacy Policy is designed to assist you in understanding how the Publisher collects and uses the personal information you provide to the Publisher and to assist you in making informed decisions when using the Site and the Publisher’s products and services.
+The Publisher’s Privacy Policy is designed to assist you in understanding how the Publisher collects and uses the personal information you provide to the Publisher and to assist you in making informed decisions when using the Site and the Publisher’s products and services. 
 
-###  What Information Do We Collect?
+#### What Information Do We Collect?
 
 When you visit the site you may provide the Publisher with two types of information: (a) personal information you knowingly choose to disclose that is collected on an individual basis; and (b) Site use information collected on an aggregate basis as you and other Users browse the Site. 
 
-####  1\. Personal Information You Choose to Provide.
+**Personal Information You Choose to Provide.**
 
-You will provide the Publisher with your name, email address and a password when you register to be a User of the Site. You may also provide additional comments on how you see the Site servicing your needs and interests. If you choose to correspond with the Publisher through email, the Publisher may retain the content of your email messages together with your email address and the Publisher’s responses to you. 
+  * You will provide the Publisher with your name, email address and a password when you register to be a User of the Site. You may also provide additional comments on how you see the Site servicing your needs and interests. If you choose to correspond with the Publisher through email, the Publisher may retain the content of your email messages together with your email address and the Publisher’s responses to you.
+  * When you make a purchase from the Site you will be required to provide the Publisher with your shipping and billing addresses as well as your credit card number and expiration date.
 
-When you make a purchase from the Site you will be required to provide the Publisher with your shipping and billing addresses as well as your credit card number and expiration date. 
 
-####  2\. Web Site Use Information.
 
-Similar to other commercial web sites, the Site utilizes a standard technology called “cookies” (see explanation below, “What Are Cookies?”) and server logs to collect information about how the Site is used. Information gathered through cookies and server logs may include the date and time of visits, the pages viewed, time spent at our Site, and the web sites visited just before and just after the Site. The Publishers, its advertisers, advertisement serving companies and Affiliated Parties may also use small pieces of code called “web beacons” or “clear gifs” to determine which advertisements and promotions Users have seen and how Users responded to them.
+**Web Site Use Information.**
 
-We may also use aggregate data obtained from your photos meta information to provide appropriate access to helpful resources relevant to your camera. 
+  * Similar to other commercial web sites, the Site utilizes a standard technology called "cookies" (see explanation below, "What Are Cookies?") and server logs to collect information about how the Site is used. Information gathered through cookies and server logs may include the date and time of visits, the pages viewed, time spent at our Site, and the web sites visited just before and just after the Site. The Publishers, its advertisers, advertisement serving companies and Affiliated Parties may also use small pieces of code called "web beacons" or "clear gifs" to determine which advertisements and promotions Users have seen and how Users responded to them. 
+  * We may also use aggregate data obtained from your photos meta information to provide appropriate access to helpful resources relevant to your camera.
 
-###  How Do We Use the Information That You Provide to Us?
 
-Broadly speaking, the Publisher uses personal information for purposes of administering and expanding its business activities, providing customer service and making available other products and services to its customers and prospective customers. Occasionally, the Publisher may also use the information it collects to notify you about important changes to the Site and new services and special offers the Publisher thinks you will find valuable. You may notify the Publisher at any time if you do not wish to receive these offers by emailing us at our [ Helpdesk](http://help.zoomin.com/)
 
-The Site is set up so that you can control who can view the Content and Material in your Account. The Publisher is committed to keeping your Content and Material private and secure. The Publisher will never make your Content and Material publicly accessible, except as otherwise noted in this Privacy Policy, by your explicit authorization. Please note that if you choose to post a hyperlink to your Content and Material on your own or other’s websites, or you share your Content and Material with your friends or family members and they post your share invitation on a website or forward it to other individuals, these pictures may be accessible to others who view the email invitation or visit these websites. The Publisher will therefore not be liable for any publication of your Content and Material made otherwise than by a direct disclosure by the Publisher. It is clarified that mere hosting of Content and Material on the Site shall not be construed as a direct disclosure of such Content and Material without a specific reference to such Content and Material made by the Publisher in any communication with any third party.
+#### How Do We Use the Information That You Provide to Us?
 
-In order to provide quality products, the Publisher’s employees and third-party service providers fulfilling your order or providing Customer Support to you may view your Content and Materials.
+Broadly speaking, the Publisher uses personal information for purposes of administering and expanding its business activities, providing customer service and making available other products and services to its customers and prospective customers. Occasionally, the Publisher may also use the information it collects to notify you about important changes to the Site and new services and special offers the Publisher thinks you will find valuable. You may notify the Publisher at any time if you do not wish to receive these offers by emailing us at our [Helpdesk](http://help.zoomin.com/). 
 
-The Publisher permits Users to share their Content and Materials through the Site’s album sharing service. If you wish to share Content and Materials with friends and family, you will be required to provide their email addresses. An invitation with a hyperlink created specifically for your Content and Materials will be sent to them. They may view, save, or purchase products from your Content and Materials. The Publisher will not add their email addresses to a mailing list, or send them further email unless they register as Users and choose to receive such communications from the Publisher per this Privacy Policy.
+The Site is set up so that you can control who can view the Content and Material in your Account. The Publisher is committed to keeping your Content and Material private and secure. The Publisher will never make your Content and Material publicly accessible, except as otherwise noted in this Privacy Policy, by your explicit authorization. Please note that if you choose to post a hyperlink to your Content and Material on your own or other's websites, or you share your Content and Material with your friends or family members and they post your share invitation on a website or forward it to other individuals, these pictures may be accessible to others who view the email invitation or visit these websites. The Publisher will therefore not be liable for any publication of your Content and Material made otherwise than by a direct disclosure by the Publisher. It is clarified that mere hosting of Content and Material on the Site shall not be construed as a direct disclosure of such Content and Material without a specific reference to such Content and Material made by the Publisher in any communication with any third party. 
 
-The Publisher also permits Users to refer friends to the Site. The Publisher will only use their email addresses to send your invitation. The Publisher will not add their email addresses to a mailing list, and will not send them further email unless they register as Users and choose to receive such communications from the Publisher per this Privacy Policy.
+In order to provide quality products, the Publisher's employees and third-party service providers fulfilling your order or providing Customer Support to you may view your Content and Materials. 
 
-Your Account contains an address book where you can store mailing and email addresses for your friends and family. You can use this information to quickly and easily share your Content and Materials and send your friends and family print products from your Account. The Publisher will never use the information in your address book for any secondary purposes.
+The Publisher permits Users to share their Content and Materials through the Site's album sharing service. If you wish to share Content and Materials with friends and family, you will be required to provide their email addresses. An invitation with a hyperlink created specifically for your Content and Materials will be sent to them. They may view, save, or purchase products from your Content and Materials. The Publisher will not add their email addresses to a mailing list, or send them further email unless they register as Users and choose to receive such communications from the Publisher per this Privacy Policy. 
 
-###  What Are Cookies?
+The Publisher also permits Users to refer friends to the Site. The Publisher will only use their email addresses to send your invitation. The Publisher will not add their email addresses to a mailing list, and will not send them further email unless they register as Users and choose to receive such communications from the Publisher per this Privacy Policy. 
 
-A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a web site, that site’s computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each web site can send its own cookie to your browser if your browser’s preferences allow it, but (to protect your privacy) your browser only permits a web site to access the cookies it has already sent to you, not the cookies sent to you by other sites.
+Your Account contains an address book where you can store mailing and email addresses for your friends and family. You can use this information to quickly and easily share your Content and Materials and send your friends and family print products from your Account. The Publisher will never use the information in your address book for any secondary purposes. 
 
-###  How Do We Use Information We Collect from Cookies? 
+#### What Are Cookies?
 
-As you shop on the Site, the Site uses its cookies to differentiate you from other shoppers so your shopping cart is only available to you. In some cases, the Publisher also uses cookies to prevent you from seeing unnecessary advertisements or requiring you to log in more than is necessary for security. Cookies, in conjunction with the Publisher’s server log files, allow it to calculate the aggregate number of people visiting the Site and which parts of the Site are most popular. This helps the Publisher gather feedback in order to constantly improve the Site and better serve customers. Cookies do not allow the Publisher to gather any personal information about you and the Publisher does not generally store any personal information that you provided to it in your cookies.
+A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a web site, that site’s computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each web site can send its own cookie to your browser if your browser's preferences allow it, but (to protect your privacy) your browser only permits a web site to access the cookies it has already sent to you, not the cookies sent to you by other sites. 
 
-###  Sharing Information with Third Parties.
+#### How Do We Use Information We Collect from Cookies? 
 
-The Publisher may enter into alliances, partnerships or other business arrangements with third parties who may be given access to personal information including your name, address, telephone number and email for the purpose of providing you information regarding products and services that the Publisher thinks will be of interest to you. In connection with alliances, partnerships or arrangements, the Publisher may also provide certain information to third parties if it has determined in its sole discretion that the information will be used in a responsible manner by a responsible third party. For example, some of the Publisher’s partners operate stores or provide services on the Site, while others power offerings developed by the Publisher for your use. The Publisher also uses third parties to facilitate its business, including, but not limited to, sending email and processing credit card payments. In connection with these offerings and business operations, the Publisher’s partners and other third parties may have access to your personal information for use in connection with business activities. As the Publisher develops its business, it may buy or sell assets or business offerings. Customer, email, and visitor information is generally one of the transferred business assets in these types of transactions. The Publisher may also transfer such information in the course of corporate divestitures, mergers, or any dissolution.
+As you shop on the Site, the Site uses its cookies to differentiate you from other shoppers so your shopping cart is only available to you. In some cases, the Publisher also uses cookies to prevent you from seeing unnecessary advertisements or requiring you to log in more than is necessary for security. Cookies, in conjunction with the Publisher's server log files, allow it to calculate the aggregate number of people visiting the Site and which parts of the Site are most popular. This helps the Publisher gather feedback in order to constantly improve the Site and better serve customers. Cookies do not allow the Publisher to gather any personal information about you and the Publisher does not generally store any personal information that you provided to it in your cookies. 
 
-###  Notice of New Services and Changes.
+#### Sharing Information with Third Parties.
 
-Occasionally, the Publisher may also use the information collected to notify you about important changes to the Site, new services and special offers the Publisher thinks you will find valuable. As a User, you will be given the opportunity to notify the Publisher of your desire not to receive these offers by sending the Publisher an email request via our [Helpdesk](http://help.zoomin.com/).
+The Publisher may enter into alliances, partnerships or other business arrangements with third parties who may be given access to personal information including your name, address, telephone number and email for the purpose of providing you information regarding products and services that the Publisher thinks will be of interest to you. In connection with alliances, partnerships or arrangements, the Publisher may also provide certain information to third parties if it has determined in its sole discretion that the information will be used in a responsible manner by a responsible third party. For example, some of the Publisher’s partners operate stores or provide services on the Site, while others power offerings developed by the Publisher for your use. The Publisher also uses third parties to facilitate its business, including, but not limited to, sending email and processing credit card payments. In connection with these offerings and business operations, the Publisher’s partners and other third parties may have access to your personal information for use in connection with business activities. As the Publisher develops its business, it may buy or sell assets or business offerings. Customer, email, and visitor information is generally one of the transferred business assets in these types of transactions. The Publisher may also transfer such information in the course of corporate divestitures, mergers, or any dissolution. 
 
-###  How Do We Secure Information Transmissions?
+#### Notice of New Services and Changes.
 
-Email is not recognized as a secure medium of communication. For this reason, you are requested not to send private information to the Publisher by email. Some of the information you may enter on the Site may be transmitted securely via Secure Sockets Layer SSL, 128-bit encryption services, which are enabled by **Thawte DV SSL CA.** Pages utilizing this technology will have URLs that start with HTTPS instead of HTTP. Please visit our [ Helpdesk](http://help.zoomin.com/) if you have any questions or concerns in this regard.
+Occasionally, the Publisher may also use the information collected to notify you about important changes to the Site, new services and special offers the Publisher thinks you will find valuable. As a User, you will be given the opportunity to notify the Publisher of your desire not to receive these offers by sending the Publisher an email request via our [Helpdesk](http://help.zoomin.com/). 
 
-###  How Can You Access and Correct Your Information?
+#### How Do We Secure Information Transmissions?
 
-You can update your Account information and change your password from the ‘My Account’ page. If you have forgotten your password, you can set a new one by clicking on the ‘Forgot Password’ link on the Site’s sign-in page.
+Email is not recognized as a secure medium of communication. For this reason, you are requested not to send private information to the Publisher by email. Some of the information you may enter on the Site may be transmitted securely via Secure Sockets Layer SSL, 128-bit encryption services, which are enabled by **Thawte DV SSL CA.** Pages utilizing this technology will have URLs that start with HTTPS instead of HTTP. Please visit our [Helpdesk](http://help.zoomin.com/) if you have any questions or concerns in this regard. 
 
-###  Certain Disclosures.
+#### How Can You Access and Correct Your Information?
 
-The Publisher may disclosure your personal information if required to do so by law or if the Publisher believes that such action is necessary to (a) conform to the law or comply with legal process served on the Publisher or its Affiliated Parties; (b) protect and defend the Publisher’s rights and property, the Site, the users of the Site, and/or its Affiliated Parties; or (c) act under circumstances to protect the safety of Users of the Site, the Publisher, or third parties.
+You can update your Account information and change your password from the 'My Account' page. If you have forgotten your password, you can set a new one by clicking on the ‘Forgot Password’ link on the Site's sign-in page. 
 
-###  What About Other Web Sites Linked to Our Web Site?
+#### Certain Disclosures.
+
+The Publisher may disclosure your personal information if required to do so by law or if the Publisher believes that such action is necessary to (a) conform to the law or comply with legal process served on the Publisher or its Affiliated Parties; (b) protect and defend the Publisher's rights and property, the Site, the users of the Site, and/or its Affiliated Parties; or (c) act under circumstances to protect the safety of Users of the Site, the Publisher, or third parties. 
+
+#### What About Other Web Sites Linked to Our Web Site?
 
 The Publisher is not responsible for the practices employed by web sites hyperlinked to or from the Site nor the information or content contained therein. Often hyperlinks to other web sites are provided solely as pointers to information on topics that may be useful to the users of the Site. 
 
-Please remember that when you use a link to go from the Site to another web site, this Privacy Policy is no longer in effect. Your browsing and interaction on any other web site, including web sites which have a link on the Site, is subject to that web site’s own rules and policies and the Publisher has no liability whatsoever in that connection. 
+Please remember that when you use a link to go from the Site to another web site, this Privacy Policy is no longer in effect. Your browsing and interaction on any other web site, including web sites which have a link on the Site, is subject to that web site's own rules and policies and the Publisher has no liability whatsoever in that connection. 
 
-###  Your Consent.
+#### Your Consent.
 
-By using the Site you consent to our collection and use of your personal information as described in this Privacy Policy. If the Publisher changes its Privacy Policy and procedures, the Publisher will post those changes on the Site to keep you aware of what information the Publisher collects, how such information is used and under what circumstances the Publisher may disclose it.
+By using the Site you consent to our collection and use of your personal information as described in this Privacy Policy. If the Publisher changes its Privacy Policy and procedures, the Publisher will post those changes on the Site to keep you aware of what information the Publisher collects, how such information is used and under what circumstances the Publisher may disclose it. 
 
-###  Postcards from Zoomin
+#### Postcards from Zoomin
 
-Your privacy matters and is very important to us. We implement strict policies to ensure the privacy and security of personal information that we may collect on Postcards from Zoomin.
+Your privacy matters and is very important to us. We implement strict policies to ensure the privacy and security of personal information that we may collect on Postcards from Zoomin. 
 
-By using Postcards from Zoomin on Facebook, you consent to the collection and use of your information as outlined in this privacy policy. Since this policy may be updated from time to time, please visit this section periodically to review any changes to the Privacy Policy.
+By using Postcards from Zoomin on Facebook, you consent to the collection and use of your information as outlined in this privacy policy. Since this policy may be updated from time to time, please visit this section periodically to review any changes to the Privacy Policy. 
 
-###  Information Collection
+#### Information Collection
 
-When you use Postcards from Zoomin, our servers gain access to information about you from Facebook, including but not limited to your profile, birth-date, name, gender, photos, and friend lists. This data is then analyzed and rendered to you in accordance with the Postcards from Zoomin’s purpose and design.
+When you use Postcards from Zoomin, our servers gain access to information about you from Facebook, including but not limited to your profile, birth-date, name, gender, photos, and friend lists. This data is then analyzed and rendered to you in accordance with the Postcards from Zoomin's purpose and design. 
 
-We do not collect or have access to Facebook usernames and passwords. However, we store your Facebook user id (which is numerical) to associate your Facebook profile with relevant information used to process a postcard.
+We do not collect or have access to Facebook usernames and passwords. However, we store your Facebook user id (which is numerical) to associate your Facebook profile with relevant information used to process a postcard. 
 
-Any images that are selected by you for use by Postcards from Zoomin are uploaded on our servers. These images remain private to you only and are not available publicly until you post them to your Facebook wall/profile/feed.
+Any images that are selected by you for use by Postcards from Zoomin are uploaded on our servers. These images remain private to you only and are not available publicly until you post them to your Facebook wall/profile/feed. 
 
-###  Certain Disclosures
+#### Certain Disclosures
 
-The information we collect may be disclosed if required to do so by law or if we believe that such action is necessary to (a) conform to the law or comply with legal process served on Zoomin or its Affiliated Parties; (b) protect and defend Zoomin’s rights and property, the Site, the users of the Site, and/or its Affiliated Parties; or (c) act under circumstances to protect the safety of Users of the Site, the Publisher, or third parties. We may also have to disclose information to Facebook in case they require anything, because our apps run on the Facebook platform.
+The information we collect may be disclosed if required to do so by law or if we believe that such action is necessary to (a) conform to the law or comply with legal process served on Zoomin or its Affiliated Parties; (b) protect and defend Zoomin’s rights and property, the Site, the users of the Site, and/or its Affiliated Parties; or (c) act under circumstances to protect the safety of Users of the Site, the Publisher, or third parties. We may also have to disclose information to Facebook in case they require anything, because our apps run on the Facebook platform. 
 
-###  Prohibitions
+#### Prohibitions
 
-You may not use any content that includes but is not limited to photos that indicate alcohol content; are hateful, threatening, defamatory, or pornographic; incite violence; or contain nudity or graphic or gratuitous violence. We reserve the right to delete any such images, and deny services to such users. We also reserve the right to report such offenses to the appropriate authorities.
+You may not use any content that includes but is not limited to photos that indicate alcohol content; are hateful, threatening, defamatory, or pornographic; incite violence; or contain nudity or graphic or gratuitous violence. We reserve the right to delete any such images, and deny services to such users. We also reserve the right to report such offenses to the appropriate authorities. 
 
-We reserve the right to change this Privacy Policy and any other guidelines at any time, so please check periodically for changes.
+We reserve the right to change this Privacy Policy and any other guidelines at any time, so please check periodically for changes. 
 
 If you have any questions or concerns regarding this policy, please write to our support desk at [ http://help.zoomin.com](http://help.zoomin.com/). 
