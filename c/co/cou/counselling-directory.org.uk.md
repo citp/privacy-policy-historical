@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the counselling-directory.org.uk privacy policy that was archived on 2013-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130809023726id_/http%3A//www.counselling-directory.org.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the counselling-directory.org.uk privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704022035id_/http%3A//www.counselling-directory.org.uk/privacy.html) for the most accurate reproduction.*
 
-# Counselling Directory Privacy Policy and Cookies
+# Counselling Directory Privacy Policy and Cookies - Counselling Directory
 
 ### How we use your information
 
@@ -8,7 +8,7 @@ This privacy notice tells you what to expect when we (“us”/“we”) collect
 
 The terms of this privacy notice will apply to all information collected about:
 
-  * visitors to our Site, including registered members; and
+  * visitors to our Site, including our members; and
   * people who use our online services, such as those subscribing to our e-shots, newsletters or other periodical publications.
 
 
