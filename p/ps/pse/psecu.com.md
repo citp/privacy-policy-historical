@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psecu.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331071658id_/https%3A//www.psecu.com/privacy/%3FWT.ac%3Dprivacy-footer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psecu.com privacy policy that was archived on 2014-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140705012845id_/https%3A//www.psecu.com/privacy/%3FWT.ac%3Dprivacy-footer) for the most accurate reproduction.*
 
 # PSECU - Privacy Act Policy
 
