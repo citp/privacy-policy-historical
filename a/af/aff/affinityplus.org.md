@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affinityplus.org privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325023711id_/https%3A//www.affinityplus.org/portals/0/documents/AP-Privacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affinityplus.org privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704025136id_/https%3A//www.affinityplus.org/portals/0/documents/AP-Privacy.pdf) for the most accurate reproduction.*
 
 # FACTS
 
