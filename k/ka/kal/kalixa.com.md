@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kalixa.com privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215221733id_/https%3A//www.kalixa.com/Home/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kalixa.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704041456id_/https%3A//www.kalixa.com/Home/PrivacyPolicy) for the most accurate reproduction.*
 
 # Kalixa Privacy Policy
 
@@ -47,7 +47,7 @@ In order to put our policy into practice, we use our best endeavours to follow t
 
 
 
-If you would like a copy of the information we hold about you, please write to: Kalixa Pay Ltd., PO Box 6272, London W1T 4TP, United Kingdom. There will be an administration charge of £12 for this service.
+If you would like a copy of the information we hold about you, please write to: Kalixa Pay Ltd., PO Box 72074, London EC4P 4GB, United Kingdom. There will be an administration charge of £12 for this service.
 
 ### Links to other websites
 
