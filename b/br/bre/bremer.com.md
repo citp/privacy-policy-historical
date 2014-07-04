@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bremer.com privacy policy that was archived on 2013-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130930192009id_/http%3A//www.bremer.com/Home/uploadedFiles/Privacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bremer.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704204009id_/https%3A//www.bremer.com/Home/uploadedFiles/Privacy.pdf) for the most accurate reproduction.*
 
 # 
 
@@ -21,7 +21,7 @@ What?          information can include:
                All financial companies need to share customers’ personal information to run their everyday business. In the
 How?           section below, we list the reasons financial companies can share their customers’ personal information; the
                reasons Bremer chooses to share; and whether you can limit this sharing.
-                                                                                                                Does        Can you
+                                                                                                                Does       Can you
 Reasons we can share your personal information                                                                 Bremer      limit this
                                                                                                                share?      sharing?
 For our everyday business purposes – such as to process your transactions, maintain your                         Yes          No
@@ -48,8 +48,8 @@ with whom we have joint marketing agreements. Examples include credit card compa
 brokerage companies and insurance companies. These companies are contractually obligated to keep
 the information that we provide to them confidential. In addition, the information they receive from us
 may be used only for specific joint marketing purposes.
-To limit our sharing                        Call us toll-free at 800-908-BANK (2265), or go to Bremer.com and click on “Privacy.”
-Questions?                                  800-908-BANK (2265) or Bremer.com
+To limit our sharing, or                    Call us toll-free at 800-908-BANK (2265).
+if you have questions
 
 
 Page 2
