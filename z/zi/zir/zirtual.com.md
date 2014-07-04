@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zirtual.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331233804id_/https%3A//www.zirtual.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zirtual.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704105226id_/https%3A//www.zirtual.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy. Zirtual
 
