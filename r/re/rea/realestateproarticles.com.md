@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realestateproarticles.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214230218id_/http%3A//www.realestateproarticles.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realestateproarticles.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704125539id_/http%3A//www.realestateproarticles.com/privacy.php) for the most accurate reproduction.*
 
 # Real Estate Pro Articles | Privacy Statement
 
