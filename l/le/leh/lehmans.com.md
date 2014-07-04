@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lehmans.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331024505id_/https%3A//www.lehmans.com/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lehmans.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704203956id_/https%3A//www.lehmans.com/t-privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -40,7 +40,7 @@ We may collect information (including name, address, telephone number, email add
 
 We maintain the data that you provide us, along with a record of your purchases, in a secure database. To best serve you, we may combine this information with data that is publicly available and data that we receive from other reputable sources.
 
-We also gather information about how visitors navigate through our Web site by using clickstream data gathered with "cookies" and other online tools such as "pixel tags." See [Cookies and Pixel Tags](https://web.archive.org/web/20140331024505id_/https%3A//www.lehmans.com/cookies) for further information.
+We also gather information about how visitors navigate through our Web site by using clickstream data gathered with "cookies" and other online tools such as "pixel tags." See [Cookies and Pixel Tags](https://web.archive.org/web/20140704203956id_/https%3A//www.lehmans.com/cookies) for further information.
 
 return to top
 
