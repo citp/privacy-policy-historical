@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunno.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326183220id_/http%3A//www.sunno.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunno.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704063519id_/http%3A//www.sunno.com/policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
