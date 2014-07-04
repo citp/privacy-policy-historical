@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smashbox.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208090737id_/http%3A//www.smashbox.com/customer_service/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smashbox.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704122429id_/http%3A//www.smashbox.com/customer_service/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Smashbox Cosmetics
 
@@ -6,7 +6,7 @@
 
 ###  Smashbox Beauty Cosmetics United States Privacy Policy
 
-Effective Date 10/16/2013
+Effective Date 4/15/2014
 
 **Smashbox Beauty Cosmetics (“we, us, or our”)** respects your concerns about privacy and values the relationship we have with you. This Privacy Policy describes the types of personal information we collect about our customers, how we use the information, with whom we share it, and the choices available to our customers regarding our use of the information. We also describe the measures we take to protect the security of the information and how our customers can contact us about our privacy practices.
 
@@ -21,6 +21,7 @@ Click on one of the links below to jump to the listed section:
         * Third Party Web Analytics Services
       * Targeted Advertising
       * How We Use the Information Collected by Automated Means
+      * California Do Not Track Notice
   * Information We Share
   * Your Rights And Choices
   * Data Transfers
@@ -120,6 +121,15 @@ We also may contract with third-party advertising networks that collect IP addre
 
 
 We may use the information collected through automated means on this site for market research, data analytics and system administration purposes, such as to determine whether you’ve visited us before or are new to the site, and for compliance with our legal obligations, policies and procedures, including compliance with relevant industry standards and the enforcement of our [Terms and Conditions](https://web.archive.org/customer_service/terms-conditions). We also may use the information in other ways for which specific notice is provided at the time of collection.
+
+  * ####  California Do Not Track Notice
+
+
+
+
+Under California law, website and online service operators are required to disclose how they respond to web browser “do not track” signals or other similar mechanisms that provide consumers the ability to exercise choice regarding the collection of personal information about a consumer’s online activities over time and across third party websites, to the extent the operator engages in that collection.  At this time, we do not track our customers’ personal information over time and across third-party websites and therefore this requirement does not apply to us.
+
+California law also requires website and online service operators to disclose whether third parties may collect personal information about their users’ online activities over time and across different sites when the users use the operator’s website or service.  Third parties that have content or services on our site such as a social feature, analytics service, or an advertising network partner, may obtain information about your browsing or usage habits but this information does not include personal information.   We do not knowingly permit such third parties to collect any personal information from our site unless you directly provide it to us and we provide it to them with your consent.
 
 ####  Information We Share
 
