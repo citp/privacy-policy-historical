@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the realme.govt.nz privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325025034id_/https%3A//www.realme.govt.nz/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realme.govt.nz privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704112132id_/https%3A//www.realme.govt.nz/privacy) for the most accurate reproduction.*
 
 # Privacy - RealMe
 
 ## **RealMe Privacy Statement**
+
+On 17 July 2014 we are updating the Privacy Statement to let you know that we may communicate with you from time to time, and that certain statistical information is collected when you visit this website. The statistical information collected does not allow us to identify you but will be used to improve the website. The updates are bolded in the statement below.
 
 #### General
 
@@ -16,6 +18,7 @@ This privacy statement addresses the following matters. You can skip to each by 
   * the consequences of not providing the required information
   * our use of the information we collect
   * security
+  * site visit data
   * RealMe’s use of cookies
   * how you can access and correct your personal information.
 
@@ -45,7 +48,7 @@ This privacy statement covers the components of RealMe that provide login and ve
 
 You need to provide certain personal details in order to use RealMe.
 
-When you apply for a login and create your username and password, you will be asked to enter your email address to enable the RealMe Help Desk to provide you with support in your use of RealMe. You may also, but do not have to, provide a contact phone number and a mobile phone number for TXT messages, which we may also use to provide you with support. In addition, to protect your privacy when providing you with support, you will also be asked to select and answer some security questions.
+When you apply for a login and create your username and password, you will be asked to enter your email address to enable the RealMe Help Desk to provide you with support in your use of RealMe, **_and to enable us to communicate with you about the RealMe service._**
 
 If you are already a RealMe user (or were previously an igovt logon service user) and have not provided your mobile phone number, DIA may ask you periodically if you would like to receive support via TXT messages to your mobile phone. If you would like to receive support in this manner, you will need to provide your mobile phone number to DIA when requested.
 
@@ -72,6 +75,7 @@ The information referred to above is collected for the following purposes:
   * for you to create and to enable you to manage a login for the purposes of accessing participating service providers’ online services;
   * to enable the RealMe login service to log you in to a participating service provider's website or service; and
   * to enable the RealMe verified account service to provide your verified details to a participating service provider's online service;
+  * **_to enable us to communicate with you about the RealMe service;_**
   * for statistical purposes in relation to the usage of the RealMe login service and RealMe verified account service.
 
 
@@ -96,6 +100,7 @@ We use the information collected:
 
   * to provide the RealMe login service;
   * to provide the RealMe verified account service;
+  * **_to communicate with you about the RealMe service;_**
   * for statistical purposes;
   * to detect and prevent fraudulent or other unlawful uses of the RealMe service.
 
@@ -119,6 +124,27 @@ If you have or apply for an igovt verified identity through DIA's igovt identity
 #### Security 
 
 We have procedures in place to prevent loss, unlawful access, use, modification, disclosure or other misuse of your information, consistent with good practice and as required by relevant law and policy. Particular care has been taken to ensure that only certain people with specific roles and authorised access levels are able to view your information and only for specific RealMe-related purposes.
+
+#### **Site visit data**
+
+**Collection of statistical information**
+
+**_When you visit this website we may collect statistical information about your visit to help us improve the website. This information is aggregated and non-personally identifying. It includes:_**
+
+  * **_your IP address;_**
+  * **_the search terms you used;_**
+  * **_the pages you accessed on our website and the links you clicked on;_**
+  * **_the date and time you visited the site;_**
+  * **_the referring site or message (if any) through which you clicked through to this website;_**
+  * **_your operating system (e.g., Windows XP, Mac OS X);_**
+  * **_the type of web browser you use (e.g. Internet Explorer, Mozilla Firefox); and_**
+  * **_other incidental matters such as screen resolution and the language setting of your browser._**
+
+
+
+**Use of statistical information**
+
+**_The statistical information referred to above will be viewable by website administrators and certain members of our staff via analytical tools like Google Analytics. It may also be shared with other government agencies._**
 
 #### Use of Cookies
 
