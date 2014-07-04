@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the marketday.com privacy policy that was archived on 2014-03-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140331064638id_/https%3A//www.marketday.com/util/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the marketday.com privacy policy that was archived on 2014-07-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140704160409id_/https%3A//www.marketday.com/util/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
 	Market Day | Privacy
@@ -86,6 +86,8 @@
         <script src="/MDNET/js/md5.js" type="text/javascript" language="javascript"></script>
         
  <script src="/mdnet/js/jquery-1.7.js" type="text/javascript" language="javascript"></script>
+ <link rel="stylesheet" href="../styles/jquery-ui.css">
+ <script src="/mdnet/js/jquery-ui-v1.10.4.js" type="text/javascript"></script>
  <script language="javascript" type="text/javascript">
  <!--
     
@@ -98,7 +100,7 @@
       $("input[id$='ibtnRecipes']").attr("src","/mdnet/images/AllPromotion/recipeTabOff.gif");  
       //3893
       $('.txtZipBox').val('zipcode');
-      $('.txtZipBox').addClass('wmark');
+      //$('.txtZipBox').addClass('wmark');
       $('.txtZipBox').keydown(function(e) {  
        var code = (e.keyCode ? e.keyCode : e.which);
          if(code == 13) { //Enter keycode 
@@ -114,6 +116,16 @@
        else return false;
             
       });
+      
+      // DE 20140612 add this code to eliminate the enter key functionality prior to user input
+      $(document).ready(function() {
+           $("form").bind("keypress", function(e) {
+              if (e.keyCode == 13) {
+                 return false;
+              }
+           });
+        });
+
      
       $('.tdPickUplocator').click(function() { 
         $('.ZipBox').show();$('.txtZipBox').focus();
@@ -188,7 +200,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-K6JCM7');</script>
+})(window,document,'script','dataLayer','GTM-K6JCM7');</script> 
+
 <!-- End Google Tag Manager -->
 
     <div style="display:none;">
@@ -197,17 +210,17 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <img src="/mdnet/images/AllPromotion/nav.save.gif" alt="/mdnet/images/AllPromotion/nav.save.gif">
     </div>
 
-   <script type="text/javascript" src="//libs.coremetrics.com/eluminate.js"></script>
+   <!--<script type="text/javascript" src="//libs.coremetrics.com/eluminate.js"></script> -->
   <!-- below for live -->
-    <script language="JavaScript" type="text/javascript" src="/mdnet/js/cmcustom.js"></script>
+    <!--<script language="JavaScript" type="text/javascript" src="/mdnet/js/cmcustom.js"></script> -->
     <!--below for test-->
    <!-- <script language="JavaScript" type="text/javascript" src="/MDNETPSPLITT/js/cmcustom.js"></script>-->
    
    <!--  <script language="javascript1.2" src="/mdnet/coremetrics/cmdatatagutils.js" type="text/javascript">
     </script>-->
 
-    <script language="javascript1.2" type="text/javascript">
-<!--
+<!--    <script language="javascript1.2" type="text/javascript">
+
 if( "" != "3450160" )
 {
     if( !false == true ) {
@@ -298,8 +311,8 @@ if( "" != "3450160" )
         //cmCreatePageviewTag("Privacy", "cmCategoryID", "", "");
     }
 }
-//-->
-    </script>
+//
+    </script> -->
 
     <!-- END COREMETRICS -->
     <noscript>
@@ -320,13 +333,37 @@ if( "" != "3450160" )
         </table>
         <br />
     </noscript>
-    <form name="aspnetForm" method="post" action="/util/privacy.aspx" id="aspnetForm" class="pForm">
+    <form name="aspnetForm" method="post" action="privacy.aspx" onsubmit="javascript:return WebForm_OnSubmit();" id="aspnetForm" class="pForm">
+<div>
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
 <input type="hidden" name="ctl00_RC_R1_UcQuickRegistration_TabStrip1_ClientState" id="ctl00_RC_R1_UcQuickRegistration_TabStrip1_ClientState" value="{&quot;ActiveTabIndex&quot;:0,&quot;TabState&quot;:[true,true,true]}">
 <input type="hidden" name="ctl00_RC_R1_QuickRegistration1_TabStrip1_ClientState" id="ctl00_RC_R1_QuickRegistration1_TabStrip1_ClientState" value="{&quot;ActiveTabIndex&quot;:0,&quot;TabState&quot;:[true,true,true]}">
 <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNzU1ODQ2NjA1D2QWAmYPZBYCAgEPZBYMAgEPFgIeB1Zpc2libGVoZAICDxYCHgRocmVmBTBodHRwczovL3d3dy5tYXJrZXRkYXkuY29tL2NoZWNrb3V0L2NoZWNrb3V0LmFzcHhkAgMPFgIfAQVAaHR0cHM6Ly93d3cubWFya2V0ZGF5LmNvbS9jdXN0c2VydmljZS9uZXd0b21hcmtldGRheV9zZWFyY2guYXNweGQCBA8WAh8AaGQCBQ9kFgICAQ9kFgoCBA9kFgICAg8WAh8BBTBodHRwczovL3d3dy5tYXJrZXRkYXkuY29tL2NoZWNrb3V0L2NoZWNrb3V0LmFzcHhkAgUPDxYCHwBnZBYGAgMPDxYCHwBnZBYCAgUPDxYCHwBoZGQCBw9kFgQCAQ9kFgICBQ9kFgICAw8QZGQWAWZkAgMPZBYCAgUPZBYCAgMPEGRkFgFmZAITDw8WAh8AaGQWBAIBD2QWAgIDDxBkZBYBAgJkAgMPDxYCHwBnZGQCEA9kFgICAQ9kFgQCAw8WAh8AaBYCAgMPFgIfAGhkAgUPZBYCAgMPDxYCHwBoZGQCEQ9kFgICAQ9kFgICBQ8QZGQWAWZkAhcPZBYCAgUPZBYCAgUPZBYCAgEPZBYCAgEPZBYCZg9kFgQCAQ8WAh4Fc3R5bGUFRHBhZGRpbmctdG9wOjEwcHg7cGFkZGluZy1ib3R0b206NXB4O3RleHQtYWxpZ246Y2VudGVyO2Rpc3BsYXk6YmxvY2s7ZAIDDxYCHwIFH3RleHQtYWxpZ246Y2VudGVyO2Rpc3BsYXk6bm9uZTsWBgIDDw8WAh4EVGV4dAUBMGRkAgcPFgIfAgUNZGlzcGxheTpub25lOxYGAgEPDxYCHwMFBSQwLjAwZGQCAw8PFgIfAwUFJDAuMDBkZAIFDw8WAh8DBQQwLjAwZGQCCQ8WAh8CBTB0ZXh0LWFsaWduOmNlbnRlcjtwYWRkaW5nLXRvcDoyMHB4O2Rpc3BsYXk6bm9uZTtkAgsPZBYCAgEPZBYCAjgPDxYCHwBnZGQYAwUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFhQFGmN0bDAwJFJDJFIxJGlidG5TZWFyY2hGb29kBRdjdGwwMCRSQyRSMSRpYnRuUmVjaXBlcwUYY3RsMDAkUkMkUjEkYnRuS2V5d29yZEdvBRljdGwwMCRSQyRSMSRidG5DYXRlZ29yeUdvBRRjdGwwMCRSQyRSMSRidG5Mb2dpbgUpY3RsMDAkUkMkUjEkVWNRdWlja1JlZ2lzdHJhdGlvbiRUYWJTdHJpcDEFQ2N0bDAwJFJDJFIxJFVjUXVpY2tSZWdpc3RyYXRpb24kVGFiU3RyaXAxJFRhYlBhbmVsMSRpbWdCdG5aaXBDb2RlR28FTGN0bDAwJFJDJFIxJFVjUXVpY2tSZWdpc3RyYXRpb24kVGFiU3RyaXAxJFRhYlBhbmVsMiRpbWdCdG5Pcmdhbml6YXRpb25OYW1lR28FRGN0bDAwJFJDJFIxJFVjUXVpY2tSZWdpc3RyYXRpb24kVGFiU3RyaXAxJFRhYjEkaW1nQnRuQWNjb3VudE51bWJlckdvBTBjdGwwMCRSQyRSMSRVY1F1aWNrUmVnaXN0cmF0aW9uJGJ0blN0YXJ0U2hvcHBpbmcFFWN0bDAwJFJDJFIxJGJ0bkNhbmNlbAUVY3RsMDAkUkMkUjEkYnRuU2lnblVwBSZjdGwwMCRSQyRSMSRMb2dpblVzZXJDb250cm9sMSRidG5Mb2dpbgUoY3RsMDAkUkMkUjEkUXVpY2tSZWdpc3RyYXRpb24xJFRhYlN0cmlwMQVCY3RsMDAkUkMkUjEkUXVpY2tSZWdpc3RyYXRpb24xJFRhYlN0cmlwMSRUYWJQYW5lbDEkaW1nQnRuWmlwQ29kZUdvBUtjdGwwMCRSQyRSMSRRdWlja1JlZ2lzdHJhdGlvbjEkVGFiU3RyaXAxJFRhYlBhbmVsMiRpbWdCdG5Pcmdhbml6YXRpb25OYW1lR28FQ2N0bDAwJFJDJFIxJFF1aWNrUmVnaXN0cmF0aW9uMSRUYWJTdHJpcDEkVGFiMSRpbWdCdG5BY2NvdW50TnVtYmVyR28FL2N0bDAwJFJDJFIxJFF1aWNrUmVnaXN0cmF0aW9uMSRidG5TdGFydFNob3BwaW5nBS1jdGwwMCRSQyRSMSRBZGR0b0NhcnRDb250cm9sJGJ0bkFkZFBsYW50b0NhcnQFKmN0bDAwJFJDJFIxJEFkZHRvQ2FydENvbnRyb2wkYnRuVXBkYXRlQ2FydAUoY3RsMDAkUkMkUjEkUXVpY2tSZWdpc3RyYXRpb24xJFRhYlN0cmlwMQ8PZGZkBSljdGwwMCRSQyRSMSRVY1F1aWNrUmVnaXN0cmF0aW9uJFRhYlN0cmlwMQ8PZGZkJOVa0xLVI9rH9XjwsbKjYcHWR9w=">
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=bWwnW0B7vd9GfT77rrZIktPGZOTVf7MeWdE8_y_AlPI4qUgWqgwL9FtakcffZUzsGkP00ND2POPjZSi_LmEkOowmg9o1&amp;t=635369826763906250" type="text/javascript"></script>
 
 <link rel="stylesheet" type="text/css" href="/WebResource.axd?d=yE--a9gGrO8uvVTDuIiBPjoU8GOZNstmcQqWjKpeoNOQbUBZgI-v3BvyA6mA9GWEj9bxxyxDwq_VnJWRP3ImLz6XdBl4bI-O9FjuMsQy3m6jgXtjXEC2YMOTiEbyobPCfsSihA2&amp;t=634662995015585489">
 <script src="/ScriptResource.axd?d=IkGxSkE9vBL1Tep9ZAUwC24fy6tYCZdpGELBlscpAZjJFW4S9RWTQDOdPSatmRExMlmCOX2HD-SOhmNkSAt-3lLTXNjrnOlf0JuQa5abWBLuNchGaCddMzZGrebFnG-tJxvgEgZhIk_WWAAR8_amm8HbnIg1&amp;t=633619899988290712" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=f2qVUuEAdRcoKhW6o5HEt9FzqLlPqfv6RuYLoFVc5mxYRFrVbK124uKRcGnDUyTsLFQCXd5e58dZsglIHM5DVYgWG5e5zNbYv6dRiDKqMMOoXl1pLlU1kDly39HV2QzlrszXY_rEFeJfwB8trUBdTx71uDRNdKI9kW9rj1m85g__4WOg0&amp;t=633619899988290712" type="text/javascript"></script>
 <script src="/ScriptResource.axd?d=X9SndPu-Hs98PLpAzqvR1_KZhtmSva0IESWUDToZ0V-RG_972IJw_RTa1nuf3Bl5k6CX06NOb-BM-tuqWN_KyPJlS8rI3nTb517lJYVhOm8kw6NIqi10CCsOYbKpRYfh8vW7IdndedKtAv87hfexOIwxFdM1&amp;t=634662995015585489" type="text/javascript"></script>
 <script src="/ScriptResource.axd?d=hye2ZI7utnk2Owe9WiGctXJXDYRUNrF5gWMAS19hSLCRdplI_P57yz5G2X_wNFYiaTpbnGUSFQSIKsbTmRnLfXgIWkTDlnnAE_hwwKR3slJV6Dq2n-JdLYgx6jP4I5zYBzGAGU0OEk70gvJeh7P8EGJdn0U1&amp;t=634662995015585489" type="text/javascript"></script>
 <script src="/ScriptResource.axd?d=1U3IXL5DcSitIjkM74QyjGbCWfdCSHLv6kfw9uVLwOPX4YjrcTa16e-JMTI-n7rVwk88aIeVIUyTFMyF1U7Z6vjYLUnaerDQL0zGV6tRNJo9Tnvyn63Pj-RMPrtgzmemjwkH5wIeMVABuKnuKMNRhJS75Ds1&amp;t=634662995015585489" type="text/javascript"></script>
@@ -339,6 +376,19 @@ if( "" != "3450160" )
 <script src="/ScriptResource.axd?d=Mg4sHxhyB9v2tBJkkrzD3zfJUG01yt3GdezeUhQCfpzwXEENO7KN0dfA9RXW1CQXbDTDEF9N0DXr7ImM82FhffJCgH23yKz8g-sIkv6JV2puwJUPlH6jbgv1ublvJ1IycVdjtbHVI1-1Qx-whRmXwG8bir-AgsDUBRNngKwnficUV4F40&amp;t=634662995015585489" type="text/javascript"></script>
 <script src="/ScriptResource.axd?d=ffv7vdmXcRLn2mXYOaACP-CrAuxC_hnX23YrvQfTNvcW8A4ACERZvaKJ--Cr6KCfW-rI1bez1-9W7xRWY2W3Whz_2gYYQBVjJhDFfBJXR1yPKakroXw3q9RsNF0Rpb45FD_4SdIv_0jnf3CjYxPq-Ng8sF89z6GB6SvGRgUVzZvGGyAZ0&amp;t=634662995015585489" type="text/javascript"></script>
 <script src="/ScriptResource.axd?d=eyljjOjBVvh56ezYCiJXFBELm3JmsROqA-oXKuos9KoHNyAg8CxTfTA4tYsHcBpVxZ8a8_7kzieHe-ROJr131Rp8tYzox2rOGQ6VNVYEga4P38JZ6T4kwA0g4UuTMxCt9kQyq6IUb3sX3RJJHv0yg6pf-SpGJrVX5Hu5EP89WX3KSYWF0&amp;t=634662995015585489" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+function WebForm_OnSubmit() {
+var o = $find('ctl00_RC_R1_TBWE2'); if(o) { o._onSubmit(); };
+return true;
+}
+//]]>
+</script>
+
+<div>
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="02BA9AA6">
+</div>
         <div id="PageLayoutDiv">
             <div id="topNav">
                 
@@ -367,7 +417,7 @@ if( "" != "3450160" )
             <script language="JavaScript" type="text/javascript">;function im_round_corners(tb,ms,isget,inner){var size=window["ulm_round_corner_size_"+ms];var pos=0;var wv="";if(!inner)wv+='<div class="imroundcorner" imrctype="'+tb+'" imrcgroup="'+ms+'">';if(tb=="top"){wv+=im_rcs(size,1," imtopspace");for(var i=size-1;i>=0;i--)wv+=im_rcs(i);}else {for(var i=0;i<size;i++)wv+=im_rcs(i);wv+=im_rcs(size,1,"");}if(!inner)wv+='</div>';if(isget)return wv;else document.write(wv);};function im_rcs(pos,is_cap,topclass){if(is_cap)return '<div class="imrbcolor imrc imbrc'+topclass+'" style="margin-left:'+pos+'px;margin-right:'+pos+'px;"></div>';else return '<div class="imrbcolor imrcolor imrc" style="vertical-align:top;margin-left:'+pos+'px;margin-right:'+pos+'px;"></div>';}</script>
 
             <!--  ****** Infinite Menus Structure & Links ***** -->
-            <div class="imrcmain0 imgl" style="width: 365px; z-index: 000009; position: relative;">
+            <div class="imrcmain0 imgl" style="width: 475px; z-index: 000009; position: relative;">
                 <div class="imcm" id="imouter0">
                     <ul id="imenus0">
                         <li class="imatm" style="width: 55px;" id="ulitem0z0"><a href="https://www.marketday.com/" id="ulaitem0z0">HOME&nbsp;&nbsp;<span class="topNavDivider">:</span>&nbsp;&nbsp;&nbsp;</a></li>
@@ -407,7 +457,10 @@ if( "" != "3450160" )
                                 </div>
                             </div>
                         </li>
-                        <li class="imatm" style="width: 120px;" id="ulitem0z2"><a href="https://www.marketday.com/recipe/eatwelllandinitial.aspx" id="ulaitem0z2">
+                          <li class="imatm" style="width: 120px;" id="ulitem0z2"><a href="https://www.marketday.com/about/marketdaystore.aspx" id="ulaitem0z2">
+                               <span class="imea imeam"><span></span></span>Retail Stores&nbsp;&nbsp;&nbsp;<span class="topNavDivider">:</span>&nbsp;&nbsp;</a>
+                          </li>
+                        <li class="imatm" style="width: 120px;" id="ulitem0z3"><a href="https://www.marketday.com/recipe/eatwelllandinitial.aspx" id="ulaitem0z3">
                             <!--<span class="imea imeam"><span></span></span>-->
                             MEAL PLANNING&nbsp;&nbsp;&nbsp;<span class="topNavDivider">:</span></a>
                             <div class="imsc">
@@ -415,17 +468,17 @@ if( "" != "3450160" )
 
                                     <script language="JavaScript" type="text/javascript">im_round_corners("top","sub");</script><div class="imroundcorner" imrctype="top" imrcgroup="sub"><div class="imrbcolor imrc imbrc imtopspace" style="margin-left:3px;margin-right:3px;"></div><div class="imrbcolor imrcolor imrc" style="vertical-align:top;margin-left:2px;margin-right:2px;"></div><div class="imrbcolor imrcolor imrc" style="vertical-align:top;margin-left:1px;margin-right:1px;"></div><div class="imrbcolor imrcolor imrc" style="vertical-align:top;margin-left:0px;margin-right:0px;"></div></div>
 
-                                    <ul style="" id="x1ub0z2">
-                                        <li class="dvs" id="ulitem0z2z0"><a href="https://www.marketday.com/mealplanning/recipes.aspx" id="ulaitem0z2z0">Recipes</a></li>
-                                        <li class="dvs" id="ulitem0z2z1"><a href="https://www.marketday.com/mealplanning/recipefavorites.aspx" id="ulaitem0z2z1">
+                                    <ul style="" id="x1ub0z3">
+                                        <li class="dvs" id="ulitem0z3z0"><a href="https://www.marketday.com/mealplanning/recipes.aspx" id="ulaitem0z3z0">Recipes</a></li>
+                                        <li class="dvs" id="ulitem0z3z1"><a href="https://www.marketday.com/mealplanning/recipefavorites.aspx" id="ulaitem0z3z1">
                                             My Favorite Recipes</a></li>
-                                        <li class="dvs" id="ulitem0z2z2"><a href="https://www.marketday.com/mealplanning/prepinstructions.aspx" id="ulaitem0z2z2">
+                                        <li class="dvs" id="ulitem0z3z2"><a href="https://www.marketday.com/mealplanning/prepinstructions.aspx" id="ulaitem0z3z2">
                                             Cooking Directions</a></li>
-                                        <li class="dvs" id="ulitem0z2z3"><a href="https://www.marketday.com/mealplanning/healthyeating.aspx" id="ulaitem0z2z3">
+                                        <li class="dvs" id="ulitem0z3z3"><a href="https://www.marketday.com/mealplanning/healthyeating.aspx" id="ulaitem0z3z3">
                                             Tips for Healthy Eating</a></li>
-                                        <li class="dvs" id="ulitem0z2z4"><a href="https://www.marketday.com/mealplanning/healthdiet.aspx" id="ulaitem0z2z4">
+                                        <li class="dvs" id="ulitem0z3z4"><a href="https://www.marketday.com/mealplanning/healthdiet.aspx" id="ulaitem0z3z4">
                                             Health and Diet</a></li>
-                                        <li id="ulitem0z2z5"><a href="https://www.marketday.com/recipe/eatwelllandinitial.aspx" id="ulaitem0z2z5">Eat Well with
+                                        <li id="ulitem0z3z5"><a href="https://www.marketday.com/recipe/eatwelllandinitial.aspx" id="ulaitem0z3z5">Eat Well with
                                             Market Day</a></li>
                                     </ul>
 
@@ -434,7 +487,7 @@ if( "" != "3450160" )
                                 </div>
                             </div>
                         </li>
-                        <li class="imatm" style="width: 40px;" id="ulitem0z3"><a href="https://www.marketday.com/custservice/custservice.aspx" id="ulaitem0z3">
+                        <li class="imatm" style="width: 40px;" id="ulitem0z4"><a href="https://www.marketday.com/custservice/custservice.aspx" id="ulaitem0z4">
                             <!--<span class="imea imeam"><span></span></span>-->
                             HELP&nbsp;&nbsp;&nbsp;<span class="topNavDivider">:</span></a>
                             <div class="imsc">
@@ -442,15 +495,15 @@ if( "" != "3450160" )
 
                                     <script language="JavaScript" type="text/javascript">im_round_corners("top","sub");</script><div class="imroundcorner" imrctype="top" imrcgroup="sub"><div class="imrbcolor imrc imbrc imtopspace" style="margin-left:3px;margin-right:3px;"></div><div class="imrbcolor imrcolor imrc" style="vertical-align:top;margin-left:2px;margin-right:2px;"></div><div class="imrbcolor imrcolor imrc" style="vertical-align:top;margin-left:1px;margin-right:1px;"></div><div class="imrbcolor imrcolor imrc" style="vertical-align:top;margin-left:0px;margin-right:0px;"></div></div>
 
-                                    <ul style="" id="x1ub0z3">
-                                        <li class="dvs" id="ulitem0z3z0"><a href="https://www.marketday.com/custservice/talktoexpert.aspx" id="ulaitem0z3z0">
+                                    <ul style="" id="x1ub0z4">
+                                        <li class="dvs" id="ulitem0z4z0"><a href="https://www.marketday.com/custservice/talktoexpert.aspx" id="ulaitem0z4z0">
                                             E-Mail Customer Service</a></li>
-                                        <li class="dvs" id="ulitem0z3z1"><a href="https://www.marketday.com/custservice/findasale.aspx" id="ulaitem0z3z1">Find
+                                        <li class="dvs" id="ulitem0z4z1"><a href="https://www.marketday.com/custservice/findasale.aspx" id="ulaitem0z4z1">Find
                                             a Sale</a></li>
-                                        <li class="dvs" id="ulitem0z3z2"><a href="https://www.marketday.com/custservice/newtomarketday.aspx" id="ulaitem0z3z2">
+                                        <li class="dvs" id="ulitem0z4z2"><a href="https://www.marketday.com/custservice/newtomarketday.aspx" id="ulaitem0z4z2">
                                             New to Market Day?</a></li>
-                                        <li class="dvs" id="ulitem0z3z3"><a href="https://www.marketday.com/custservice/faq.aspx" id="ulaitem0z3z3">FAQ</a></li>
-                                        <li id="ulitem0z3z4"><a href="https://www.marketday.com/custservice/prodguarantee.aspx" id="ulaitem0z3z4">Product Guarantee</a></li>
+                                        <li class="dvs" id="ulitem0z4z3"><a href="https://www.marketday.com/custservice/faq.aspx" id="ulaitem0z4z3">FAQ</a></li>
+                                        <li id="ulitem0z4z4"><a href="https://www.marketday.com/custservice/prodguarantee.aspx" id="ulaitem0z4z4">Product Guarantee</a></li>
                                     </ul>
 
                                     <script language="JavaScript" type="text/javascript">im_round_corners("bottom","sub");</script><div class="imroundcorner" imrctype="bottom" imrcgroup="sub"><div class="imrbcolor imrcolor imrc" style="vertical-align:top;margin-left:0px;margin-right:0px;"></div><div class="imrbcolor imrcolor imrc" style="vertical-align:top;margin-left:1px;margin-right:1px;"></div><div class="imrbcolor imrcolor imrc" style="vertical-align:top;margin-left:2px;margin-right:2px;"></div><div class="imrbcolor imrc imbrc" style="margin-left:3px;margin-right:3px;"></div></div>
@@ -458,7 +511,7 @@ if( "" != "3450160" )
                                 </div>
                             </div>
                         </li>
-                        <li class="imatm" style="width: 48px;" id="ulitem0z4"><a href="http://www.facebook.com/marketday" target="_blank" id="ulaitem0z4">&nbsp;&nbsp;&nbsp;<img id="facebookLogo" src="/mdnet/images/facebook.jpg" alt="Market Day on Facebook"></a></li>
+                        <li class="imatm" style="width: 48px;" id="ulitem0z5"><a href="http://www.facebook.com/marketday" target="_blank" id="ulaitem0z5">&nbsp;&nbsp;&nbsp;<img id="facebookLogo" src="/mdnet/images/facebook.jpg" alt="Market Day on Facebook"></a></li>
                     </ul>
                     <div class="imclear">
                         &nbsp;</div>
@@ -793,23 +846,29 @@ $(document).ready(function() {
 
 </script>
 
+<script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$RC$R1$ScriptManager1', document.getElementById('aspnetForm'));
+Sys.WebForms.PageRequestManager.getInstance()._updateControls(['fctl00$RC$R1$UcQuickRegistration$TabStrip1$TabPanel1$updatepanelZipCode','fctl00$RC$R1$UcQuickRegistration$TabStrip1$TabPanel2$updatepanelOrganizationName','fctl00$RC$R1$UcQuickRegistration$TabStrip1$Tab1$updatepanelAccountNumber','tctl00$RC$R1$LoginUserControl1$upLoginUserControl','fctl00$RC$R1$QuickRegistration1$TabStrip1$TabPanel1$updatepanelZipCode','fctl00$RC$R1$QuickRegistration1$TabStrip1$TabPanel2$updatepanelOrganizationName','fctl00$RC$R1$QuickRegistration1$TabStrip1$Tab1$updatepanelAccountNumber','tctl00$RC$R1$AddtoCartControl$upAddPlantoCart'], [], [], 90);
+//]]>
+</script>
 
-<div id="ctl00_RC_R1_pnlSearch" nowrap="nowrap" style="padding-left: 1px;">
+<div id="ctl00_RC_R1_pnlSearch" style="white-space:nowrap;padding-left: 1px;">
 	
-    <input type="image" name="ctl00$RC$R1$ibtnSearchFood" id="ctl00_RC_R1_ibtnSearchFood" title="Search food" src="/mdnet/images/AllPromotion/searchFoodTab.gif" border="0"><input type="image" name="ctl00$RC$R1$ibtnRecipes" id="ctl00_RC_R1_ibtnRecipes" title="Recipes" src="/mdnet/images/AllPromotion/recipeTab.gif" border="0">
+    <input type="image" name="ctl00$RC$R1$ibtnSearchFood" id="ctl00_RC_R1_ibtnSearchFood" title="Search food" src="/mdnet/images/AllPromotion/searchFoodTab.gif" style="border-width:0px;"><input type="image" name="ctl00$RC$R1$ibtnRecipes" id="ctl00_RC_R1_ibtnRecipes" title="Recipes" src="/mdnet/images/AllPromotion/recipeTab.gif" style="border-width:0px;">
     <div id="ctl00_RC_R1_pnlSearchFood" class="pnlSearchFood">
 		
         <table id="tblSearchFood" cellpadding="0" cellspacing="0" style="text-align: center;">
             <tbody><tr>
                 <td>
-                    <div id="ctl00_RC_R1_pnl1">
+                    <div id="ctl00_RC_R1_pnl1" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'ctl00_RC_R1_btnKeywordGo')">
 			
-                        <input name="ctl00$RC$R1$txtKeyword" type="text" value="enter keywords" maxlength="35" id="ctl00_RC_R1_txtKeyword" onclick="this.value='';">
+                        <input name="ctl00$RC$R1$txtKeyword" type="text" value="enter keywords" maxlength="35" id="ctl00_RC_R1_txtKeyword" onclick="this.value='';" style="width:125px;">
                     
 		</div>
                 </td>
                 <td align="right">
-                    <input type="image" name="ctl00$RC$R1$btnKeywordGo" id="ctl00_RC_R1_btnKeywordGo" title="Search" onmouseout="this.src='/mdnet/images/btn.go.gif'" onmouseover="this.src='/mdnet/images/btn.go-o.gif'" src="/mdnet/images/btn.go.gif" border="0">
+                    <input type="image" name="ctl00$RC$R1$btnKeywordGo" id="ctl00_RC_R1_btnKeywordGo" title="Search" onmouseout="this.src='/mdnet/images/btn.go.gif'" onmouseover="this.src='/mdnet/images/btn.go-o.gif'" src="/mdnet/images/btn.go.gif" style="border-width:0px;">
                 </td>
             </tr>
             <tr>
@@ -819,9 +878,9 @@ $(document).ready(function() {
             </tr>
             <tr>
                 <td style="width: 147px">
-                    <div id="ctl00_RC_R1_pnl2">
+                    <div id="ctl00_RC_R1_pnl2" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'ctl00_RC_R1_btnCategoryGo')">
 			
-                        <select name="ctl00$RC$R1$ddlCategory" id="ctl00_RC_R1_ddlCategory">
+                        <select name="ctl00$RC$R1$ddlCategory" id="ctl00_RC_R1_ddlCategory" style="width:132px;">
 				<option selected="selected" value="0">Pick a Category</option>
 				<option value="99">All Products</option>
 				<option value="24">New &amp; Returning</option>
@@ -848,7 +907,7 @@ $(document).ready(function() {
 		</div>
                 </td>
                 <td align="right">
-                    <input type="image" name="ctl00$RC$R1$btnCategoryGo" id="ctl00_RC_R1_btnCategoryGo" title="Search by Category" onmouseout="this.src='/mdnet/images/btn.go.gif'" onmouseover="this.src='/mdnet/images/btn.go-o.gif'" src="/mdnet/images/btn.go.gif" border="0">
+                    <input type="image" name="ctl00$RC$R1$btnCategoryGo" id="ctl00_RC_R1_btnCategoryGo" title="Search by Category" onmouseout="this.src='/mdnet/images/btn.go.gif'" onmouseover="this.src='/mdnet/images/btn.go-o.gif'" src="/mdnet/images/btn.go.gif" style="border-width:0px;">
                 </td>
             </tr>
         </tbody></table>
@@ -871,7 +930,7 @@ $(document).ready(function() {
     <div>
         <img src="/mdnet/images/myMD.MD1.gif" width="202" height="24" alt="My Market Day"></div>
     <div class="myMarketMainBorder">
-        <div id="ctl00_RC_R1_pnlMyMDLogin">
+        <div id="ctl00_RC_R1_pnlMyMDLogin" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'ctl00_RC_R1_btnLogin')">
 		
             
             <div class="menu_head" style="margin-top: -1px;">
@@ -881,10 +940,10 @@ $(document).ready(function() {
             <div class="myMarketContent">
                 
                 username<br>
-                <input name="ctl00$RC$R1$txtUN" type="text" maxlength="20" id="ctl00_RC_R1_txtUN" title="UserName"><br>
+                <input name="ctl00$RC$R1$txtUN" type="text" maxlength="20" id="ctl00_RC_R1_txtUN" title="UserName" style="width:146px;"><br>
                 password<br>
-                <input name="ctl00$RC$R1$txtPW" type="password" maxlength="20" id="ctl00_RC_R1_txtPW" title="Password"><br>
-                <input type="image" name="ctl00$RC$R1$btnLogin" id="ctl00_RC_R1_btnLogin" title="Secure Log in" onmouseover="this.src='/mdnet/images/btn.login-o.gif'" onmouseout="this.src='/mdnet/images/btn.login.gif'" src="/mdnet/images/btn.login.gif" border="0">
+                <input name="ctl00$RC$R1$txtPW" type="password" maxlength="20" id="ctl00_RC_R1_txtPW" title="Password" style="width:146px;"><br>
+                <input type="image" name="ctl00$RC$R1$btnLogin" id="ctl00_RC_R1_btnLogin" title="Secure Log in" onmouseover="this.src='/mdnet/images/btn.login-o.gif'" onmouseout="this.src='/mdnet/images/btn.login.gif'" src="/mdnet/images/btn.login.gif" style="border-width:0px;">
                 <br>
                 <div style="margin-top: 4px;">
                 </div>
@@ -1169,7 +1228,7 @@ function IsValidSearchByAccNumber(e){
     color: red" class="CurOrg">
 </div>
 <br>
-<div id="ctl00_RC_R1_UcQuickRegistration_TabStrip1" class="ajax__tab_xp" savestate="True" style="margin-left: 5px; text-align: left;">
+<div id="ctl00_RC_R1_UcQuickRegistration_TabStrip1" class="ajax__tab_xp" savestate="True" style="width:100%;visibility:hidden;margin-left: 5px; text-align: left;">
 			<div id="ctl00_RC_R1_UcQuickRegistration_TabStrip1_header">
 				<span id="__tab_ctl00_RC_R1_UcQuickRegistration_TabStrip1_TabPanel1">
             <div class="ByZipCode">
@@ -1182,12 +1241,12 @@ function IsValidSearchByAccNumber(e){
             </div>
         </span>
 			</div><div id="ctl00_RC_R1_UcQuickRegistration_TabStrip1_body">
-				<div id="ctl00_RC_R1_UcQuickRegistration_TabStrip1_TabPanel1" style="display:none;">
+				<div id="ctl00_RC_R1_UcQuickRegistration_TabStrip1_TabPanel1" style="display:none;visibility:hidden;">
 					
             <div id="ctl00_RC_R1_UcQuickRegistration_TabStrip1_TabPanel1_updatepanelZipCode">
 						
                     <div id="Div2" class="chooseOrgTabs myMarketContent">
-                        <div id="ctl00_RC_R1_UcQuickRegistration_TabStrip1_TabPanel1_Div3">
+                        <div id="ctl00_RC_R1_UcQuickRegistration_TabStrip1_TabPanel1_Div3" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'ctl00_RC_R1_UcQuickRegistration_TabStrip1_TabPanel1_imgBtnZipCodeGo')">
 							
                             Enter your zip code then select from available organization(s)
                             <br>
@@ -1200,7 +1259,7 @@ function IsValidSearchByAccNumber(e){
 								<option value="20">within 20 miles</option>
 								<option value="30">within 25 miles</option>
 							</select>
-                            <input type="image" name="ctl00$RC$R1$UcQuickRegistration$TabStrip1$TabPanel1$imgBtnZipCodeGo" id="ctl00_RC_R1_UcQuickRegistration_TabStrip1_TabPanel1_imgBtnZipCodeGo" onmouseover="this.src='/mdnet/images/btn.search-o.gif'" onmouseout="this.src='/mdnet/images/btn.search.gif'" src="/mdnet/images/btn.search.gif" alt="Search" align="top" onclick="return IsValidSearchByZipCode(this);" border="0">
+                            <input type="image" name="ctl00$RC$R1$UcQuickRegistration$TabStrip1$TabPanel1$imgBtnZipCodeGo" id="ctl00_RC_R1_UcQuickRegistration_TabStrip1_TabPanel1_imgBtnZipCodeGo" onmouseover="this.src='/mdnet/images/btn.search-o.gif'" onmouseout="this.src='/mdnet/images/btn.search.gif'" src="/mdnet/images/btn.search.gif" alt="Search" align="top" onclick="return IsValidSearchByZipCode(this);" style="height:20px;border-width:0px;">
                         
 						</div>
                         <div class="orgSearchBox">
@@ -1210,12 +1269,12 @@ function IsValidSearchByAccNumber(e){
                 
 					</div>
         
-				</div><div id="ctl00_RC_R1_UcQuickRegistration_TabStrip1_TabPanel2" style="display:none;">
+				</div><div id="ctl00_RC_R1_UcQuickRegistration_TabStrip1_TabPanel2" style="display:none;visibility:hidden;">
 					
             <div id="ctl00_RC_R1_UcQuickRegistration_TabStrip1_TabPanel2_updatepanelOrganizationName">
 						
                     <div id="Div4" class="chooseOrgTabs myMarketContent">
-                        <div>
+                        <div onkeypress="javascript:return WebForm_FireDefaultButton(event, 'ctl00_RC_R1_UcQuickRegistration_TabStrip1_TabPanel2_imgBtnOrganizationNameGo')">
 							
                             Enter your organization name and then select from the list below:
                             <br>
@@ -1245,7 +1304,7 @@ function IsValidSearchByAccNumber(e){
 								<option value="WI">Wisconsin</option>
 							</select>
                             
-                            <input type="image" name="ctl00$RC$R1$UcQuickRegistration$TabStrip1$TabPanel2$imgBtnOrganizationNameGo" id="ctl00_RC_R1_UcQuickRegistration_TabStrip1_TabPanel2_imgBtnOrganizationNameGo" onmouseover="this.src='/mdnet/images/btn.search-o.gif'" onmouseout="this.src='/mdnet/images/btn.search.gif'" src="/mdnet/images/btn.search.gif" alt="Search" align="top" onclick="return IsValidSearchByOrganization(this);" border="0">
+                            <input type="image" name="ctl00$RC$R1$UcQuickRegistration$TabStrip1$TabPanel2$imgBtnOrganizationNameGo" id="ctl00_RC_R1_UcQuickRegistration_TabStrip1_TabPanel2_imgBtnOrganizationNameGo" onmouseover="this.src='/mdnet/images/btn.search-o.gif'" onmouseout="this.src='/mdnet/images/btn.search.gif'" src="/mdnet/images/btn.search.gif" alt="Search" align="top" onclick="return IsValidSearchByOrganization(this);" style="height:20px;border-width:0px;">
                         
 						</div>
                         <div class="orgSearchBox">
@@ -1255,17 +1314,17 @@ function IsValidSearchByAccNumber(e){
                 
 					</div>
         
-				</div><div id="ctl00_RC_R1_UcQuickRegistration_TabStrip1_Tab1" style="display:none;">
+				</div><div id="ctl00_RC_R1_UcQuickRegistration_TabStrip1_Tab1" style="display:none;visibility:hidden;">
 					
             <div id="ctl00_RC_R1_UcQuickRegistration_TabStrip1_Tab1_updatepanelAccountNumber">
 						
                     <div id="Div1" class="chooseOrgTabs myMarketContent">
-                        <div id="ctl00_RC_R1_UcQuickRegistration_TabStrip1_Tab1_Panel1">
+                        <div id="ctl00_RC_R1_UcQuickRegistration_TabStrip1_Tab1_Panel1" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'ctl00_RC_R1_UcQuickRegistration_TabStrip1_Tab1_imgBtnAccountNumberGo')">
 							
                             your account number
                             <br>
                             <input name="ctl00$RC$R1$UcQuickRegistration$TabStrip1$Tab1$txtAccountNumber" type="text" maxlength="5" id="ctl00_RC_R1_UcQuickRegistration_TabStrip1_Tab1_txtAccountNumber" class="NoEnterReturn txtAccountNumber">
-                            <input type="image" name="ctl00$RC$R1$UcQuickRegistration$TabStrip1$Tab1$imgBtnAccountNumberGo" id="ctl00_RC_R1_UcQuickRegistration_TabStrip1_Tab1_imgBtnAccountNumberGo" onmouseover="this.src='/mdnet/images/btn.search-o.gif'" onmouseout="this.src='/mdnet/images/btn.search.gif'" src="/mdnet/images/btn.search.gif" alt="Search" align="top" onclick="return IsValidSearchByAccNumber(this);" border="0">
+                            <input type="image" name="ctl00$RC$R1$UcQuickRegistration$TabStrip1$Tab1$imgBtnAccountNumberGo" id="ctl00_RC_R1_UcQuickRegistration_TabStrip1_Tab1_imgBtnAccountNumberGo" onmouseover="this.src='/mdnet/images/btn.search-o.gif'" onmouseout="this.src='/mdnet/images/btn.search.gif'" src="/mdnet/images/btn.search.gif" alt="Search" align="top" onclick="return IsValidSearchByAccNumber(this);" style="height:20px;border-width:0px;">
                         
 						</div>
                         <div class="orgSearchBox">
@@ -1300,10 +1359,10 @@ function IsValidSearchByAccNumber(e){
 <div style="clear: both;">
     <br>
 </div>
-<input type="image" name="ctl00$RC$R1$UcQuickRegistration$btnStartShopping" id="ctl00_RC_R1_UcQuickRegistration_btnStartShopping" title="start shopping" onmouseover="this.src='/mdnet/images/btn.startshopping-o.gif'" onmouseout="this.src='/mdnet/images/btn.startshopping.gif'" src="/mdnet/images/btn.startshopping-disabled.gif" alt="start shopping" onclick="return IsValidQuickRegistrationPopup(this);" border="0">
+<input type="image" name="ctl00$RC$R1$UcQuickRegistration$btnStartShopping" id="ctl00_RC_R1_UcQuickRegistration_btnStartShopping" title="start shopping" onmouseover="this.src='/mdnet/images/btn.startshopping-o.gif'" onmouseout="this.src='/mdnet/images/btn.startshopping.gif'" src="/mdnet/images/btn.startshopping-disabled.gif" alt="start shopping" onclick="return IsValidQuickRegistrationPopup(this);" style="border-width:0px;">
 
 
-                        <input type="image" name="ctl00$RC$R1$btnCancel" id="ctl00_RC_R1_btnCancel" title="cancel" onmouseover="this.src='/mdnet/images/btn.cancel-o.gif'" onmouseout="this.src='/mdnet/images/btn.cancel.gif'" src="/mdnet/images/btn.cancel.gif" alt="by zip" border="0">
+                        <input type="image" name="ctl00$RC$R1$btnCancel" id="ctl00_RC_R1_btnCancel" title="cancel" onmouseover="this.src='/mdnet/images/btn.cancel-o.gif'" onmouseout="this.src='/mdnet/images/btn.cancel.gif'" src="/mdnet/images/btn.cancel.gif" alt="by zip" style="border-width:0px;">
                         <a id="ctl00_RC_R1_lnkDisplayNone" href="javascript:__doPostBack('ctl00$RC$R1$lnkDisplayNone','')" style="display: none"></a>
                     </div>
                 </div>
@@ -1368,7 +1427,7 @@ function IsValidSearchByAccNumber(e){
                         <input name="ctl00$RC$R1$txtQuickEmail" type="text" id="ctl00_RC_R1_txtQuickEmail" style="width: 150px;"><br>
                         
                         <br>
-                        <input type="image" name="ctl00$RC$R1$btnSignUp" id="ctl00_RC_R1_btnSignUp" src="/mdnet/images/btn_signup-o.gif" border="0">
+                        <input type="image" name="ctl00$RC$R1$btnSignUp" id="ctl00_RC_R1_btnSignUp" src="/mdnet/images/btn_signup-o.gif" style="border-width:0px;">
                     </div>
                     <br>
                 </div>
@@ -1427,15 +1486,15 @@ function InitializeLoginUser(){
 <div id="ctl00_RC_R1_LoginUserControl1_pnlMyMD" class="myMarketDayDiv" style="border-left: 1px solid #DCD9C3; border-right: 1px solid #DCD9C3; background-color:#F3F1E4;">
 		
 <div class="myMarketMainBorder" style="width:200px; border:none;">
-<div id="ctl00_RC_R1_LoginUserControl1_pnlMyMDLogin">
+<div id="ctl00_RC_R1_LoginUserControl1_pnlMyMDLogin" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'ctl00_RC_R1_LoginUserControl1_btnLogin')">
 			
 <div class="myMDHeader" style="margin-top: -1px; width:180px;"><h3 style="color:#615C5B; font-size:11px;">log in returning customers</h3></div>
 <div class="myMarketContent" style="color:#615C5B; text-align:left; font-size:11px;">
 username<br>
-<input name="ctl00$RC$R1$LoginUserControl1$txtUN" type="text" maxlength="20" id="ctl00_RC_R1_LoginUserControl1_txtUN" title="UserName"><br>
+<input name="ctl00$RC$R1$LoginUserControl1$txtUN" type="text" maxlength="20" id="ctl00_RC_R1_LoginUserControl1_txtUN" title="UserName" style="width:146px;"><br>
 password<br>
-<input name="ctl00$RC$R1$LoginUserControl1$txtPW" type="password" maxlength="20" id="ctl00_RC_R1_LoginUserControl1_txtPW" title="Password"><br>
-<input type="image" name="ctl00$RC$R1$LoginUserControl1$btnLogin" id="ctl00_RC_R1_LoginUserControl1_btnLogin" title="Secure Log in" onmouseover="this.src='/mdnet/images/btn.login-o.gif'" onmouseout="this.src='/mdnet/images/btn.login.gif'" src="/mdnet/images/btn.login.gif" border="0">
+<input name="ctl00$RC$R1$LoginUserControl1$txtPW" type="password" maxlength="20" id="ctl00_RC_R1_LoginUserControl1_txtPW" title="Password" style="width:146px;"><br>
+<input type="image" name="ctl00$RC$R1$LoginUserControl1$btnLogin" id="ctl00_RC_R1_LoginUserControl1_btnLogin" title="Secure Log in" onmouseover="this.src='/mdnet/images/btn.login-o.gif'" onmouseout="this.src='/mdnet/images/btn.login.gif'" src="/mdnet/images/btn.login.gif" style="border-width:0px;">
 <br>
 </div>
 
@@ -1704,7 +1763,7 @@ function IsValidSearchByAccNumber(e){
     color: red" class="CurOrg">
 </div>
 <br>
-<div id="ctl00_RC_R1_QuickRegistration1_TabStrip1" class="ajax__tab_xp" savestate="True" style="margin-left: 5px; text-align: left;">
+<div id="ctl00_RC_R1_QuickRegistration1_TabStrip1" class="ajax__tab_xp" savestate="True" style="width:100%;visibility:hidden;margin-left: 5px; text-align: left;">
 	<div id="ctl00_RC_R1_QuickRegistration1_TabStrip1_header">
 		<span id="__tab_ctl00_RC_R1_QuickRegistration1_TabStrip1_TabPanel1">
             <div class="ByZipCode">
@@ -1717,12 +1776,12 @@ function IsValidSearchByAccNumber(e){
             </div>
         </span>
 	</div><div id="ctl00_RC_R1_QuickRegistration1_TabStrip1_body">
-		<div id="ctl00_RC_R1_QuickRegistration1_TabStrip1_TabPanel1" style="display:none;">
+		<div id="ctl00_RC_R1_QuickRegistration1_TabStrip1_TabPanel1" style="display:none;visibility:hidden;">
 			
             <div id="ctl00_RC_R1_QuickRegistration1_TabStrip1_TabPanel1_updatepanelZipCode">
 				
                     <div id="Div2" class="chooseOrgTabs myMarketContent">
-                        <div id="ctl00_RC_R1_QuickRegistration1_TabStrip1_TabPanel1_Div3">
+                        <div id="ctl00_RC_R1_QuickRegistration1_TabStrip1_TabPanel1_Div3" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'ctl00_RC_R1_QuickRegistration1_TabStrip1_TabPanel1_imgBtnZipCodeGo')">
 					
                             Enter your zip code then select from available organization(s)
                             <br>
@@ -1735,7 +1794,7 @@ function IsValidSearchByAccNumber(e){
 						<option value="20">within 20 miles</option>
 						<option value="30">within 25 miles</option>
 					</select>
-                            <input type="image" name="ctl00$RC$R1$QuickRegistration1$TabStrip1$TabPanel1$imgBtnZipCodeGo" id="ctl00_RC_R1_QuickRegistration1_TabStrip1_TabPanel1_imgBtnZipCodeGo" onmouseover="this.src='/mdnet/images/btn.search-o.gif'" onmouseout="this.src='/mdnet/images/btn.search.gif'" src="/mdnet/images/btn.search.gif" alt="Search" align="top" onclick="return IsValidSearchByZipCode(this);" border="0">
+                            <input type="image" name="ctl00$RC$R1$QuickRegistration1$TabStrip1$TabPanel1$imgBtnZipCodeGo" id="ctl00_RC_R1_QuickRegistration1_TabStrip1_TabPanel1_imgBtnZipCodeGo" onmouseover="this.src='/mdnet/images/btn.search-o.gif'" onmouseout="this.src='/mdnet/images/btn.search.gif'" src="/mdnet/images/btn.search.gif" alt="Search" align="top" onclick="return IsValidSearchByZipCode(this);" style="height:20px;border-width:0px;">
                         
 				</div>
                         <div class="orgSearchBox">
@@ -1745,12 +1804,12 @@ function IsValidSearchByAccNumber(e){
                 
 			</div>
         
-		</div><div id="ctl00_RC_R1_QuickRegistration1_TabStrip1_TabPanel2" style="display:none;">
+		</div><div id="ctl00_RC_R1_QuickRegistration1_TabStrip1_TabPanel2" style="display:none;visibility:hidden;">
 			
             <div id="ctl00_RC_R1_QuickRegistration1_TabStrip1_TabPanel2_updatepanelOrganizationName">
 				
                     <div id="Div4" class="chooseOrgTabs myMarketContent">
-                        <div>
+                        <div onkeypress="javascript:return WebForm_FireDefaultButton(event, 'ctl00_RC_R1_QuickRegistration1_TabStrip1_TabPanel2_imgBtnOrganizationNameGo')">
 					
                             Enter your organization name and then select from the list below:
                             <br>
@@ -1780,7 +1839,7 @@ function IsValidSearchByAccNumber(e){
 						<option value="WI">Wisconsin</option>
 					</select>
                             
-                            <input type="image" name="ctl00$RC$R1$QuickRegistration1$TabStrip1$TabPanel2$imgBtnOrganizationNameGo" id="ctl00_RC_R1_QuickRegistration1_TabStrip1_TabPanel2_imgBtnOrganizationNameGo" onmouseover="this.src='/mdnet/images/btn.search-o.gif'" onmouseout="this.src='/mdnet/images/btn.search.gif'" src="/mdnet/images/btn.search.gif" alt="Search" align="top" onclick="return IsValidSearchByOrganization(this);" border="0">
+                            <input type="image" name="ctl00$RC$R1$QuickRegistration1$TabStrip1$TabPanel2$imgBtnOrganizationNameGo" id="ctl00_RC_R1_QuickRegistration1_TabStrip1_TabPanel2_imgBtnOrganizationNameGo" onmouseover="this.src='/mdnet/images/btn.search-o.gif'" onmouseout="this.src='/mdnet/images/btn.search.gif'" src="/mdnet/images/btn.search.gif" alt="Search" align="top" onclick="return IsValidSearchByOrganization(this);" style="height:20px;border-width:0px;">
                         
 				</div>
                         <div class="orgSearchBox">
@@ -1790,17 +1849,17 @@ function IsValidSearchByAccNumber(e){
                 
 			</div>
         
-		</div><div id="ctl00_RC_R1_QuickRegistration1_TabStrip1_Tab1" style="display:none;">
+		</div><div id="ctl00_RC_R1_QuickRegistration1_TabStrip1_Tab1" style="display:none;visibility:hidden;">
 			
             <div id="ctl00_RC_R1_QuickRegistration1_TabStrip1_Tab1_updatepanelAccountNumber">
 				
                     <div id="Div1" class="chooseOrgTabs myMarketContent">
-                        <div id="ctl00_RC_R1_QuickRegistration1_TabStrip1_Tab1_Panel1">
+                        <div id="ctl00_RC_R1_QuickRegistration1_TabStrip1_Tab1_Panel1" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'ctl00_RC_R1_QuickRegistration1_TabStrip1_Tab1_imgBtnAccountNumberGo')">
 					
                             your account number
                             <br>
                             <input name="ctl00$RC$R1$QuickRegistration1$TabStrip1$Tab1$txtAccountNumber" type="text" maxlength="5" id="ctl00_RC_R1_QuickRegistration1_TabStrip1_Tab1_txtAccountNumber" class="NoEnterReturn txtAccountNumber">
-                            <input type="image" name="ctl00$RC$R1$QuickRegistration1$TabStrip1$Tab1$imgBtnAccountNumberGo" id="ctl00_RC_R1_QuickRegistration1_TabStrip1_Tab1_imgBtnAccountNumberGo" onmouseover="this.src='/mdnet/images/btn.search-o.gif'" onmouseout="this.src='/mdnet/images/btn.search.gif'" src="/mdnet/images/btn.search.gif" alt="Search" align="top" onclick="return IsValidSearchByAccNumber(this);" border="0">
+                            <input type="image" name="ctl00$RC$R1$QuickRegistration1$TabStrip1$Tab1$imgBtnAccountNumberGo" id="ctl00_RC_R1_QuickRegistration1_TabStrip1_Tab1_imgBtnAccountNumberGo" onmouseover="this.src='/mdnet/images/btn.search-o.gif'" onmouseout="this.src='/mdnet/images/btn.search.gif'" src="/mdnet/images/btn.search.gif" alt="Search" align="top" onclick="return IsValidSearchByAccNumber(this);" style="height:20px;border-width:0px;">
                         
 				</div>
                         <div class="orgSearchBox">
@@ -1835,14 +1894,14 @@ function IsValidSearchByAccNumber(e){
 <div style="clear: both;">
     <br>
 </div>
-<input type="image" name="ctl00$RC$R1$QuickRegistration1$btnStartShopping" id="ctl00_RC_R1_QuickRegistration1_btnStartShopping" title="start shopping" onmouseover="this.src='/mdnet/images/btn.startshopping-o.gif'" onmouseout="this.src='/mdnet/images/btn.startshopping.gif'" src="/mdnet/images/btn.startshopping-disabled.gif" alt="start shopping" onclick="return IsValidQuickRegistrationPopup(this);" border="0">
+<input type="image" name="ctl00$RC$R1$QuickRegistration1$btnStartShopping" id="ctl00_RC_R1_QuickRegistration1_btnStartShopping" title="start shopping" onmouseover="this.src='/mdnet/images/btn.startshopping-o.gif'" onmouseout="this.src='/mdnet/images/btn.startshopping.gif'" src="/mdnet/images/btn.startshopping-disabled.gif" alt="start shopping" onclick="return IsValidQuickRegistrationPopup(this);" style="border-width:0px;">
 
 
                         </div>
                     </div>
                     <div id="dvModalHeaderSection" style="display: block;">
                         <div id="dvModalHeader" style="padding-top: 5px; height: 10px;" class="modalHeader">
-                            <span id="ctl00_RC_R1_lblModalHeader"><font color="#689600">Your Shoping Cart</font></span>
+                            <span id="ctl00_RC_R1_lblModalHeader" style="color:#689600;">Your Shoping Cart</span>
                         </div>
                     </div>
                     <div id="ctl00_RC_R1_dvItemSection" class="modalContent" style="background-color: White;
@@ -1896,7 +1955,7 @@ function IsValidSearchByAccNumber(e){
 		<td style="padding: 5px 0px 7px 0px;font-size:small;"><strong>ORDER TOTAL (Including Tax)</strong></td>
 		<td></td>
 		<td align="right">
-		<b>$<span id="ctl00_RC_R1_AddtoCartControl_lblGrandTotal"><font size="3">0.00</font></span></b>
+		<b>$<span id="ctl00_RC_R1_AddtoCartControl_lblGrandTotal" style="font-size:Small;">0.00</span></b>
 		</td>
 		<td align="left">&nbsp;</td>
 		<td></td>
@@ -1905,16 +1964,16 @@ function IsValidSearchByAccNumber(e){
 	    </div>
         
         <div id="ctl00_RC_R1_AddtoCartControl_dvButton" class="mca_buttonRow" style="text-align:center;padding-top:20px;display:none;">
-         <input type="image" name="ctl00$RC$R1$AddtoCartControl$btnAddPlantoCart" id="ctl00_RC_R1_AddtoCartControl_btnAddPlantoCart" title="Add Plan to Cart" onmouseover="this.src='/mdnet/images/btn.addtocart-o.gif';" onmouseout="this.src='/mdnet/images/btn.addtocart.gif';" src="/mdnet/images/btn.addtocart.gif" onclick="ShowModalContentLoader(true);" border="0">
+         <input type="image" name="ctl00$RC$R1$AddtoCartControl$btnAddPlantoCart" id="ctl00_RC_R1_AddtoCartControl_btnAddPlantoCart" title="Add Plan to Cart" onmouseover="this.src='/mdnet/images/btn.addtocart-o.gif';" onmouseout="this.src='/mdnet/images/btn.addtocart.gif';" src="/mdnet/images/btn.addtocart.gif" onclick="ShowModalContentLoader(true);" style="border-width:0px;">
            
-            <input type="image" name="ctl00$RC$R1$AddtoCartControl$btnUpdateCart" id="ctl00_RC_R1_AddtoCartControl_btnUpdateCart" title="Update Price" src="/mdnet/images/btn_UpdatePrice_A.gif" onclick="ShowModalContentLoader(true);" border="0">			
+            <input type="image" name="ctl00$RC$R1$AddtoCartControl$btnUpdateCart" id="ctl00_RC_R1_AddtoCartControl_btnUpdateCart" title="Update Price" src="/mdnet/images/btn_UpdatePrice_A.gif" onclick="ShowModalContentLoader(true);" style="height:20px;width:80px;border-width:0px;">			
          </div>
          </div>
     
 </div>
 
                         <div>
-                            <span id="ctl00_RC_R1_Label1" style="display:inline-block;"><font color="Red" size="3"></font></span>
+                            <span id="ctl00_RC_R1_Label1" style="display:inline-block;color:Red;font-size:Small;width:328px;"></span>
                         </div>
                     </div>
                 </div>
@@ -2256,8 +2315,8 @@ function IsValidSearchByAccNumber(e){
 
                 </div>
                 <div id="PageSubContent">
-                    <span id="ctl00_UserMessage1_lblMessage"><font color="Red"></font></span>
-<span id="ctl00_UserMessage1_lblErrorMessage"><font color="Red"></font></span>
+                    <span id="ctl00_UserMessage1_lblMessage" style="color:Red;"></span>
+<span id="ctl00_UserMessage1_lblErrorMessage" style="color:Red;"></span>
 <div style="margin-bottom:3px;"></div>
 
 
@@ -2277,7 +2336,7 @@ function IsValidSearchByAccNumber(e){
 <div id="ctl00_LC_L1_pnlKitchenCompanion">
 	
     <p class="sidebarP">
-        <a class="prodTitles" href="https://www.marketday.com/homecompanion/Spring_HomeCompanion_FY14_LowRes.pdf">
+        <a class="prodTitles" href="https://www.marketday.com/homecompanion/Spring_HomeCompanion_FY14.pdf">
             <img src="/mdnet/images/Spring2014_KitchenCompanion_Cover.jpg" width="127" alt="Kitchen Companion"></a>
         <br>
         <img src="/mdnet/images/sidebar.div7.gif" width="125px" alt="">
