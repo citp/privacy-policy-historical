@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uniontelecard.com privacy policy that was archived on 2014-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140216213030id_/http%3A//www.uniontelecard.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uniontelecard.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704062911id_/http%3A//www.uniontelecard.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # UTA - Privacy Policy
 
