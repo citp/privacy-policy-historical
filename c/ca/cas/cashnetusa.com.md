@@ -1,27 +1,22 @@
-> *The following text is extracted and transformed from the cashnetusa.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327134500id_/https%3A//www.cashnetusa.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashnetusa.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704153118id_/https%3A//www.cashnetusa.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Payday Loans | Cash Advance Privacy Policy at CashNetUSA
-
-**PRIVACY POLICY**
+# Online Loans & Online Payday Loans | CashNetUSA.com
 
 **Effective Date: The privacy policy was last updated January 17, 2014.**
 
-**This privacy policy (the “Policy”) replaces any privacy policy previously delivered to you or appearing on our website, any transaction agreement, application, loan document or any other document previously delivered to you. If there are conflicts between this Policy and any other policy we have delivered to you, the terms of this Policy shall control until revised.**
-
-**To print our Privacy Policy, click[here](https://web.archive.org/privacy_policy.html). To print our Terms of Use, click [here](https://web.archive.org/terms_of_use.html) **
+ **This privacy policy (the “Policy”) replaces any privacy policy previously delivered to you or appearing on our website, any transaction agreement, application, loan document or any other document previously delivered to you. If there are conflicts between this Policy and any other policy we have delivered to you, the terms of this Policy shall control until revised.**
 
 This notice of our privacy practices is provided to you on behalf of CNU Online Holdings, LLC (“CashNetUSA”) and its parent company, Cash America International, Inc., and their respective family of companies including CashNetUSA, its parent company, Cash America International, Inc., and all of their respective subsidiaries and affiliates, (hereafter collectively referred to as the “CashNetUSA Related Companies,” “we,” “our,” or “us”). The CashNetUSA Related Companies include, but are not limited to: CashNetUSA, Cash America International, Inc., and all of their respective subsidiaries and affiliates, including those that operate under the trade names CashNetUSA, Cash America Net, Cash America, Cash America Pawn, Cashland, SuperPawn, Cash America Payday Advance, or any company-owned Mr. Payroll locations. “You” or “Your” means you as a participant in or as a user of the products and/or services offered by a CashNetUSA Related Company.
 
 All information transmitted, printed or otherwise submitted to us shall be deemed to be our property and we shall be free to use such information for any lawful purpose described herein, and for other purposes as required or permitted by law.
 
-**Please read this Policy carefully.** This Policy provides important information about the way we collect, share, and protect your information and governs your use of any online service location (e.g., web site or mobile app) that posts a link to this Policy (including, without limitation, both mobile and online versions of our site), and also applies to your use of interactive features, widgets, plug-ins, applications, content, downloads and/or other services that we own and control and make available through a site and that posts a link to this Policy regardless of how you access or use them, whether via personal computers, mobile devices or otherwise regardless of how you access or use the site, whether via personal computers, mobile devices or otherwise. This Policy applies to anyone who applies for or uses our products or services, or visits our websites, including, but not limited to, current and former customers. We must notify you about our sharing practices when you establish a customer relationship and each year while you are a customer. A customer relationship begins when you obtain a financial product or service from us. A customer relationship terminates when you pay off a transaction in full. This Policy does not govern the data practices of third parties that may interact with our site.
+ **Please read this Policy carefully.** This Policy provides important information about the way we collect, share, and protect your information and governs your use of any online service location (e.g., web site or mobile app) that posts a link to this Policy (including, without limitation, both mobile and online versions of our site), and also applies to your use of interactive features, widgets, plug-ins, applications, content, downloads and/or other services that we own and control and make available through a site and that posts a link to this Policy regardless of how you access or use them, whether via personal computers, mobile devices or otherwise regardless of how you access or use the site, whether via personal computers, mobile devices or otherwise. This Policy applies to anyone who applies for or uses our products or services, or visits our websites, including, but not limited to, current and former customers. We must notify you about our sharing practices when you establish a customer relationship and each year while you are a customer. A customer relationship begins when you obtain a financial product or service from us. A customer relationship terminates when you pay off a transaction in full. This Policy does not govern the data practices of third parties that may interact with our site.
 
 To the extent we provide you notice on our site of different or additional privacy policies or practices (e.g., at the point of our collection), those additional terms shall govern such data collection and use. 
 
 In addition, please review the site’s [Terms of Use](https://web.archive.org/terms-of-use.html), which governs your use of the site. _By using our site, you consent to our Policy and Terms of Use and our collection, use and sharing of your information and data, and other activities, as described below._
 
-Information We Collect 
-    
+▶Information We Collect 
 
 We collect personally identifiable information, including, but not limited to, non-public personal information, as well as other types of personally identifiable information from you and from other sources as described herein (collectively, “Your Information”). Our primary goal in collecting Your Information is to provide you with efficient, accurate, and customized financial products and services. Your Information also helps us personalize and improve your customer experience with us. We collect and/or track the following types of information: 
 
@@ -36,8 +31,8 @@ We collect personally identifiable information, including, but not limited to, n
   * Information you provide to us when you communicate with us via email. 
 
 
-How We Use Your Information 
-    
+
+▶How We Use Your Information 
 
 We use Your Information to:
 
@@ -55,8 +50,8 @@ We use Your Information to:
   * Provide our advertisers with editorial or feedback information.
 
 
-Sharing Your Information 
-    
+
+▶Sharing Your Information 
 
 (Customers that reside in California, Connecticut, North Dakota or Vermont should refer to the state-specific notices provided at the end of this Policy)
 
@@ -66,17 +61,15 @@ Affiliated Companies and Non-Affiliated Third Parties may use Your Information f
 
 The CashNetUSA Provider may also disclose Your Information to Affiliated Companies and Non-Affiliated Third Parties that provide services to us or you (collectively, “Service Providers”). We contract with Service Providers to perform certain functions on our behalf. Examples include database providers who assist in identity verification, credit scoring companies, magazine publishers, retailers, and direct marketers. Service Providers’ access is limited only to the personal data needed to perform their functions, and only for the purpose of performing those functions, and they are prohibited from using or disclosing Your Information for other purposes. 
 
-Third-party analytics and other Service Providers such as Google Analytics may set and access their own Tracking Technologies on your personal computer, laptop, tablet, mobile phone or other device and they may otherwise collect or have access to information about you. These Service Providers use the technology described above to help us analyze how users use the website. We are not responsible for those third party technologies or activities arising out of them. However, some third parties may offer you certain choices regarding their practices. For example, to learn about opting out of Google Analytics, please click [here](https://tools.google.com/dlpage/gaoptout). We are not responsible for the effectiveness of or compliance with any third parties’ opt-out options. 
+Third-party analytics and other Service Providers such as Google Analytics may set and access their own Tracking Technologies on your personal computer, laptop, tablet, mobile phone or other device and they may otherwise collect or have access to information about you. These Service Providers use the technology described above to help us analyze how users use the website. We are not responsible for those third party technologies or activities arising out of them. However, some third parties may offer you certain choices regarding their practices. For example, to learn about opting out of Google Analytics, please click [here](https://tools.google.com/dlpage/gaoptout). We are not responsible for the effectiveness of or compliance with any third parties’ opt-out options. 
 
 We also may share Your Information if it becomes necessary for compliance with the law or to protect the rights, property, or safety of our websites, our users, or third parties. We reserve the right to release such personal data to law enforcement or other governmental officials as we, in our sole and absolute discretion, deem necessary to comply with the law. We also reserve the right to disclose and transfer all such information: (i) to a subsequent owner, co-owner or operator of the site or applicable database; or (ii) in connection with a merger, consolidation, restructuring, the sale of substantially all of our interests and/or assets or other corporate change, including, during the course of any due diligence process. In addition, we reserve the right to use and disclose Your Information that is not in individually identifiable form as we deem appropriate, in our sole discretion. 
 
-Notice of Furnishing Negative Information 
-    
+▶Notice of Furnishing Negative Information 
 
 **_WE MAY REPORT INFORMATION ABOUT YOUR ACCOUNT TO CREDIT BUREAUS. LATE PAYMENTS, MISSED PAYMENTS, OR OTHER DEFAULTS ON YOUR ACCOUNT MAY BE REFLECTED IN YOUR CREDIT REPORT._**
 
-Automatic Information and Cookies 
-    
+▶Automatic Information and Cookies 
 
 In addition to any personally identifiable information or other information that you choose to submit to us via our site, we and our Service Providers may use a variety of technologies that automatically (or passively) store or collect certain information whenever you visit or interact with the site ( **“Usage Information”** ). This Usage Information may be stored or accessed using a variety of technologies that may be downloaded to your personal computer, browser, laptop, tablet, mobile phone or other device (a **“Device”** ) whenever you visit or interact with our site. To the extent we associate Usage Information with your personally identifiable information we collect directly from you on the site, we will treat it as personally identifiable information. 
 
@@ -116,15 +109,13 @@ We may use Tracking Technologies for a variety of purposes, including:
 
 There may be other Tracking Technologies now and later devised and used by us in connection with the site. Further, third parties may use Tracking Technologies with our site and this may involve the collection of information about an individual consumer’s online activities over time and across third-party web sites or online services. We may not control those Tracking Technologies and we are not responsible for them. However, you consent to potentially encountering third party Tracking Technologies in connection with use of our site and accept that our statements under this Policy do not apply to the Tracking Technologies or practices of such third parties. Also, various third parties are developing or have developed signals or other mechanisms for the expression of consumer choice regarding the collection of information about an individual consumer’s online activities over time and across third-party web sites or online services (e.g., browser do not track signals). Currently, we do not monitor or take any action with respect to these signals or other mechanisms. If you would like more information on self-regulatory programs that permit you to exercise choice, see the Section entitled “Interest-Based Advertising” below.
 
-Your Right to Limit the Sharing of Your Information 
-    
+▶Your Right to Limit the Sharing of Your Information 
 
 In some circumstances, you have the right to direct the CashNetUSA Provider to not share Your Information with its Affiliated Companies and/or Non-Affiliated Third Parties (i.e., “Opt-Out”). Please note that even if you Opt-Out, the CashNetUSA Provider may still share Your Information with its Affiliated Companies and Non-Affiliated Third Parties as permitted or required by law. Also, the CashNetUSA Provider may share information it collects regarding its transactions and experiences with you with its Affiliated Companies. The CashNetUSA Provider may also share all information it collects about you with Affiliated Companies and Non-Affiliated Third Parties: to facilitate providing our services to you, to administer our business, in order to receive services from those companies, as permitted under joint marketing agreements, and as otherwise permitted or required by law. 
 
 The CashNetUSA Provider is delivering this notice to you on behalf of itself and all other CashNetUSA Related Companies. You may limit how the CashNetUSA Provider’s Affiliated Companies use Your Information the CashNetUSA Provider shares with them. Federal law gives you the right to limit some but not all marketing from the CashNetUSA Provider’s Affiliated Companies. You may limit a CashNetUSA Provider’s Affiliated Companies from marketing their products or services to you based on Your Information that they receive from the CashNetUSA Provider. This information includes your income, your account and payment history, and your credit history, report or score. 
 
-Opt-Out Information and Notice 
-    
+▶Opt-Out Information and Notice 
 
 To limit the CashNetUSA Provider’s sharing of Your Information with Affiliated Companies and Non- Affiliated Third Parties, as described above, contact us: 
 
@@ -137,8 +128,7 @@ Unless we hear from you, we can begin sharing Your Information thirty (30) days 
 
 You are responsible for maintaining the accuracy of the information you submit to us, such as your contact information provided as part of registration. The site may allow you to review, correct or update personally identifiable information you have provided through the site’s registration forms or otherwise, and you may provide registration updates and changes by contacting us [here](https://web.archive.org/contact-us.html). If so, we will make good faith efforts to make requested changes in our then active databases as soon as reasonably practicable (but we may retain prior information as business records). With respect to our mobile and other applications (i.e., when we are the application publisher), you can prospectively stop all collection of information by the application by uninstalling the application. You may use the standard uninstall process as may be available as part of your applicable Device or potentially via the appropriate application or app marketplace. Please note that it is not always possible to completely remove or delete all of your information from our databases and that residual data may remain on backup media or for other reasons. When you edit your personally identifiable information or change your preferences on the site, information that you remove may persist internally for our administrative purposes. You may cancel or modify our email marketing communications you receive from us by following the instructions contained within our promotional emails or in some cases by logging into your site account and changing your communication preferences. This will not affect subsequent subscriptions and if your opt-out is limited to certain types of emails the opt-out will be so limited. Please note that we reserve the right to send you certain communications relating to your account or use of our site, such as administrative and service announcements and these transactional account messages may be unaffected if you choose to opt-out from receiving our marketing communications. 
 
-Interest-Based Advertising 
-    
+▶Interest-Based Advertising 
 
 Data about your activities online is being collected on our website for use in providing advertising tailored to your individual interests. We may use third parties such as network advertisers and ad exchanges to serve advertisements across the Internet and may use third party analytics Service Providers to evaluate and provide us and/or third parties with information about the use of these ads on third party sites and viewing of ads and of our content. Third parties may offer you a choice as to whether or not to have your information collected for that purpose. This section of the Policy provides details and explains how to exercise that choice. 
 
@@ -148,46 +138,38 @@ This collection and ad targeting takes place both on our websites and on third-p
 
 Third-party Tracking Technologies are not controlled by us, even if they use our technology to help store or collect data. Statements regarding our practices do not apply to the methods for collecting information used by these third-party advertisers and others or the use of the information that such third parties collect. We do however work with third parties to make efforts to have you provided with the information on their practices and any available opportunity to exercise choice. The relevant third party’s terms of service, privacy policy, permissions, notices and choices should be reviewed regarding their collection, storage and sharing practices. We make no representations regarding the policies or practices of third-party advertisers or advertising networks or exchanges or related third parties. Further, while we may use a variety of companies to serve advertisements on the website, you may wish to visit http://www.networkadvertising.org/choices, which provides information regarding this practice by Network Advertising Initiative (“NAI”) members, and your choices regarding having this information used by these companies, including the “opt-out” procedures of NAI members. Opting out of one or more NAI members only means that those NAI members no longer will be allowed under their own rules to deliver targeted content and/or ads to you, which will affect this and other sites, but does not mean you will no longer receive any targeted content and/or ads. Also, if your browsers are configured to reject cookies when you visit this opt-out page, or you subsequently erase your cookies, use a different device or change web browsers, your NAI opt-out may not, or may no longer, be effective. Additional information is available on the NAI’s website accessible by the above link. You may also be able to opt-out of receiving third-party behavioral ads by visiting the Digital Advertising Alliance (“DAA”) website at http://www.aboutads.info/choices/#completed. Similar limitations may apply to the DAA opt-out. We are not responsible for effectiveness of or compliance with any third-parties’ opt-out options. 
 
-How We Protect Your Information 
-    
+▶How We Protect Your Information 
 
 We restrict access to Your Information to those employees who need to know that information to provide products or services to you. We maintain commercially reasonable physical, electronic, and procedural safeguards that comply with federal regulations to guard Your Information. However, no data transmission over the Internet, mobile networks, wireless transmission or electronic storage of information can be guaranteed to be 100% secure. Please note that we cannot ensure the security of any information you transmit to us, and you use our site and provide us with your information at your own risk 
 
-Our Right to Contact You 
-    
+▶Our Right to Contact You 
 
 We reserve the right to contact you regarding your account status and changes to subscriber agreements, our Policy, or any other policies or agreements relevant to you. By visiting our websites, you understand and agree that we may contact you at the phone number or email address you provide to us through our websites or on your transaction agreements, applications, loan documents or any other document to assist you with your product or to discuss other products and services that a CashNetUSA Related Company may provide for you. 
 
-We Do Not Collect Data from Children 
-     The information and services provided by us or by our affiliates, sponsors, and advertisers, are not intended to be viewed by children (under 18 years old). No information collected from children is knowingly collected or used for any purpose whatsoever, including marketing and promotional purposes, either inside or outside the CashNetUSA Related Companies. 
-Transfer of Information to the United States 
-    
+▶We Do Not Collect Data from Children 
+
+The information and services provided by us or by our affiliates, sponsors, and advertisers, are not intended to be viewed by children (under 18 years old). No information collected from children is knowingly collected or used for any purpose whatsoever, including marketing and promotional purposes, either inside or outside the CashNetUSA Related Companies. 
+
+▶Transfer of Information to the United States 
 
 Our site is operated in the United States and intended for users located in the United States. If you are located outside of the United States, please be aware that information we collect, including personally identifiable information, will be transferred to, and processed, stored and used in the United States. The data protection laws in the United States may differ from those of the country in which you are located, and your personally identifiable information may be subject to access requests from governments, courts, or law enforcement in the United States according to laws of the United States. By using the site or providing us with any information, you consent to the transfer to, and processing, usage, sharing and storage of your information, including personally identifiable information, in the United States as set forth in this Policy. 
 
-Our Right to Change This Policy 
-    
+▶Our Right to Change This Policy 
 
 We reserve the right to change this Policy at any time by either providing you a revised copy of the Policy, or notifying you of the existence and location of the new or revised privacy policy. Any changes will be effective immediately upon the posting of the revised Policy and your use of our site indicates your consent to the privacy policy posted at the time of use. To the extent any provision of this Policy is found by a competent tribunal to be invalid or unenforceable, such provision shall be severed to the extent necessary for the remainder to be valid and enforceable. 
 
-Notice to California Residents 
-    
+▶Notice to California Residents 
 
 Pursuant to state law, the CashNetUSA Provider may not share information it collects about you with its Affiliated Companies or with Non-Affiliated Third Parties, except in the limited circumstances, as set forth in this Policy, as permitted under state law, or if you give us your permission. 
 
 California Civil Code Section 1798.83, also known as S.B. 27, permits California residents, who have supplied personal information, as defined in the statute, to request certain information regarding our disclosures in the prior calendar year, if any, of personally identifiable information to third parties for their own direct marketing purposes. If this applies, you may obtain the categories of personal information shared and the names and addresses of all third parties that received personal information for their direct marketing purposes during the immediately prior calendar year (e.g. requests made in 2013 will receive information about 2012 sharing activities). To make such a request, please contact us at www.cashnetusa.com or write to us at: Attn: Customer Service, 200 W. Jackson Blvd., 14th Floor, Chicago, Illinois 60606-6941. To make such a request, please provide sufficient information for us to determine if this applies to you, attest to the fact that you are a California resident and provide a current California address for our response. 
 
-Notice to Connecticut Residents 
-    
+▶Notice to Connecticut Residents 
 
 Connecticut law requires any person or entity that collects Social Security numbers from Connecticut residents in the course of business to create a privacy protection policy and to publish or display it publicly. It is our policy to protect the confidentiality of Social Security numbers in our possession from misuse and improper disclosure by maintaining and enforcing policies and physical and electronic safeguards against misuse and improper disclosure. Unlawful disclosure of Social Security numbers is prohibited, and access to them is limited to personnel who need access to such information in order to perform their job functions. 
 
-Notice to North Dakota Residents 
+▶Notice to North Dakota Residents 
+
     
 
 Pursuant to state law, we will only share information with our Service Providers and with third parties as required or permitted by law, or if you give us your permission. 
-
-Notice to Vermont Residents 
-    
-
-The CashNetUSA Provider will not disclose information about you with its Affiliated Companies or with Non-Affiliated Third Parties, other than as required or permitted by law, without your express permission. 
