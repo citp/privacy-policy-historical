@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostzealot.com privacy policy that was archived on 2014-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140409143630id_/http%3A//www.hostzealot.com/private-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostzealot.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704061426id_/http%3A//www.hostzealot.com/private-policy) for the most accurate reproduction.*
 
 # Private policy | HostZealot
 
