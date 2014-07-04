@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinnaclesys.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629225032id_/http%3A//www.corel.com/corel/pages/index.jsp%3Fpgid%3D800337) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinnaclesys.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704103220id_/http%3A//www.corel.com/corel/pages/index.jsp%3Fpgid%3D800337) for the most accurate reproduction.*
 
 # Corel Privacy Policy - Legal Information
 
