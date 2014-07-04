@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keyshot.com privacy policy that was archived on 2014-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140419095720id_/https%3A//www.keyshot.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keyshot.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704173136id_/https%3A//www.keyshot.com/privacy) for the most accurate reproduction.*
 
 # Privacy - KeyShot
 
@@ -64,12 +64,4 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 #### Contacting us
 
-If there are any questions regarding this privacy policy you may contact us using the information below.
-
-Luxion, Inc.  
-18201 Von Karman Avenue, STE 970  
-Irvine, CA 92612  
-USA  
-[info@luxion.com](mailto:info@luxion.com)  
-[+1 (949) 274-8871](tel:949-274-8871)  
-[http://www.keyshot.com](http://www.keyshot.com/)
+If there are any questions regarding this privacy policy, please [contact us](https://www.keyshot.com/contact/ "Contact").
