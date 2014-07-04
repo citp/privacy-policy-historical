@@ -1,224 +1,1424 @@
-<!--The following is the downloaded HTML source of the silvercar.com privacy policy that was archived on 2014-02-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140209081036id_/https%3A//www.silvercar.com/agreements/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the silvercar.com privacy policy that was archived on 2014-07-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140704143411id_/https%3A//www.silvercar.com/agreements/privacy_policy) for the most accurate reproduction.-->
+
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:m="http://schemas.microsoft.com/office/2004/12/omml" xmlns="http://www.w3.org/TR/REC-html40"><head>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-5.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"1e9dd8c43c","applicationID":"1400910","transactionName":"dw5bF0taWghTRxoHUUYEUA5cW0IXGUVHD0BVAkw8SVpaDVVM","queueTime":0,"applicationTime":16,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-411.min.js"}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgYPWFJWGwIEVFFbBgE="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+
+<style>
+<!--
+/* Font Definitions */
+@font-face
+{font-family:Arial;
+    panose-1:2 11 6 4 2 2 2 2 2 4;
+    mso-font-charset:0;
+    mso-generic-font-family:auto;
+    mso-font-pitch:variable;
+    mso-font-signature:-536859905 -1073711037 9 0 511 0;}
+@font-face
+{font-family:"Courier New";
+    panose-1:2 7 3 9 2 2 5 2 4 4;
+    mso-font-charset:0;
+    mso-generic-font-family:auto;
+    mso-font-pitch:variable;
+    mso-font-signature:-536859905 -1073711037 9 0 511 0;}
+@font-face
+{font-family:Wingdings;
+    panose-1:5 0 0 0 0 0 0 0 0 0;
+    mso-font-charset:2;
+    mso-generic-font-family:auto;
+    mso-font-pitch:variable;
+    mso-font-signature:0 268435456 0 0 -2147483648 0;}
+@font-face
+{font-family:"\FF2D\FF33 \660E\671D";
+    mso-font-charset:78;
+    mso-generic-font-family:auto;
+    mso-font-pitch:variable;
+    mso-font-signature:1 134676480 16 0 131072 0;}
+@font-face
+{font-family:"\FF2D\FF33 \660E\671D";
+    mso-font-charset:78;
+    mso-generic-font-family:auto;
+    mso-font-pitch:variable;
+    mso-font-signature:1 134676480 16 0 131072 0;}
+@font-face
+{font-family:Cambria;
+    panose-1:2 4 5 3 5 4 6 3 2 4;
+    mso-font-charset:0;
+    mso-generic-font-family:auto;
+    mso-font-pitch:variable;
+    mso-font-signature:-536870145 1073743103 0 0 415 0;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+{mso-style-unhide:no;
+    mso-style-qformat:yes;
+    mso-style-parent:"";
+    margin:0in;
+    margin-bottom:.0001pt;
+    mso-pagination:widow-orphan;
+    font-size:12.0pt;
+    font-family:Cambria;
+    mso-ascii-font-family:Cambria;
+    mso-ascii-theme-font:minor-latin;
+    mso-fareast-font-family:"\FF2D\FF33 \660E\671D";
+    mso-fareast-theme-font:minor-fareast;
+    mso-hansi-font-family:Cambria;
+    mso-hansi-theme-font:minor-latin;
+    mso-bidi-font-family:"Times New Roman";
+    mso-bidi-theme-font:minor-bidi;}
+a:link, span.MsoHyperlink
+{mso-style-priority:99;
+    color:blue;
+    mso-themecolor:hyperlink;
+    text-decoration:underline;
+    text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+{mso-style-noshow:yes;
+    mso-style-priority:99;
+    color:purple;
+    mso-themecolor:followedhyperlink;
+    text-decoration:underline;
+    text-underline:single;}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+{mso-style-priority:34;
+    mso-style-unhide:no;
+    mso-style-qformat:yes;
+    margin-top:0in;
+    margin-right:0in;
+    margin-bottom:0in;
+    margin-left:.5in;
+    margin-bottom:.0001pt;
+    mso-add-space:auto;
+    mso-pagination:widow-orphan;
+    font-size:12.0pt;
+    font-family:Cambria;
+    mso-ascii-font-family:Cambria;
+    mso-ascii-theme-font:minor-latin;
+    mso-fareast-font-family:"\FF2D\FF33 \660E\671D";
+    mso-fareast-theme-font:minor-fareast;
+    mso-hansi-font-family:Cambria;
+    mso-hansi-theme-font:minor-latin;
+    mso-bidi-font-family:"Times New Roman";
+    mso-bidi-theme-font:minor-bidi;}
+p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParagraphCxSpFirst
+{mso-style-priority:34;
+    mso-style-unhide:no;
+    mso-style-qformat:yes;
+    mso-style-type:export-only;
+    margin-top:0in;
+    margin-right:0in;
+    margin-bottom:0in;
+    margin-left:.5in;
+    margin-bottom:.0001pt;
+    mso-add-space:auto;
+    mso-pagination:widow-orphan;
+    font-size:12.0pt;
+    font-family:Cambria;
+    mso-ascii-font-family:Cambria;
+    mso-ascii-theme-font:minor-latin;
+    mso-fareast-font-family:"\FF2D\FF33 \660E\671D";
+    mso-fareast-theme-font:minor-fareast;
+    mso-hansi-font-family:Cambria;
+    mso-hansi-theme-font:minor-latin;
+    mso-bidi-font-family:"Times New Roman";
+    mso-bidi-theme-font:minor-bidi;}
+p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListParagraphCxSpMiddle
+{mso-style-priority:34;
+    mso-style-unhide:no;
+    mso-style-qformat:yes;
+    mso-style-type:export-only;
+    margin-top:0in;
+    margin-right:0in;
+    margin-bottom:0in;
+    margin-left:.5in;
+    margin-bottom:.0001pt;
+    mso-add-space:auto;
+    mso-pagination:widow-orphan;
+    font-size:12.0pt;
+    font-family:Cambria;
+    mso-ascii-font-family:Cambria;
+    mso-ascii-theme-font:minor-latin;
+    mso-fareast-font-family:"\FF2D\FF33 \660E\671D";
+    mso-fareast-theme-font:minor-fareast;
+    mso-hansi-font-family:Cambria;
+    mso-hansi-theme-font:minor-latin;
+    mso-bidi-font-family:"Times New Roman";
+    mso-bidi-theme-font:minor-bidi;}
+p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxSpLast
+{mso-style-priority:34;
+    mso-style-unhide:no;
+    mso-style-qformat:yes;
+    mso-style-type:export-only;
+    margin-top:0in;
+    margin-right:0in;
+    margin-bottom:0in;
+    margin-left:.5in;
+    margin-bottom:.0001pt;
+    mso-add-space:auto;
+    mso-pagination:widow-orphan;
+    font-size:12.0pt;
+    font-family:Cambria;
+    mso-ascii-font-family:Cambria;
+    mso-ascii-theme-font:minor-latin;
+    mso-fareast-font-family:"\FF2D\FF33 \660E\671D";
+    mso-fareast-theme-font:minor-fareast;
+    mso-hansi-font-family:Cambria;
+    mso-hansi-theme-font:minor-latin;
+    mso-bidi-font-family:"Times New Roman";
+    mso-bidi-theme-font:minor-bidi;}
+.MsoChpDefault
+{mso-style-type:export-only;
+    mso-default-props:yes;
+    font-family:Cambria;
+    mso-ascii-font-family:Cambria;
+    mso-ascii-theme-font:minor-latin;
+    mso-fareast-font-family:"\FF2D\FF33 \660E\671D";
+    mso-fareast-theme-font:minor-fareast;
+    mso-hansi-font-family:Cambria;
+    mso-hansi-theme-font:minor-latin;
+    mso-bidi-font-family:"Times New Roman";
+    mso-bidi-theme-font:minor-bidi;}
+@page WordSection1
+{size:8.5in 11.0in;
+    margin:1.0in 1.25in 1.0in 1.25in;
+    mso-header-margin:.5in;
+    mso-footer-margin:.5in;
+    mso-paper-source:0;}
+div.WordSection1
+{page:WordSection1;}
+/* List Definitions */
+@list l0
+{mso-list-id:471290884;
+    mso-list-type:hybrid;
+    mso-list-template-ids:-1505097472 67698689 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;}
+@list l0:level1
+{mso-level-number-format:bullet;
+    mso-level-text:\F0B7;
+    mso-level-tab-stop:none;
+    mso-level-number-position:left;
+    text-indent:-.25in;
+    font-family:Symbol;}
+@list l0:level2
+{mso-level-number-format:bullet;
+    mso-level-text:o;
+    mso-level-tab-stop:none;
+    mso-level-number-position:left;
+    text-indent:-.25in;
+    font-family:"Courier New";
+    mso-bidi-font-family:"Times New Roman";}
+@list l0:level3
+{mso-level-number-format:bullet;
+    mso-level-text:\F0A7;
+    mso-level-tab-stop:none;
+    mso-level-number-position:left;
+    text-indent:-.25in;
+    font-family:Wingdings;}
+@list l0:level4
+{mso-level-number-format:bullet;
+    mso-level-text:\F0B7;
+    mso-level-tab-stop:none;
+    mso-level-number-position:left;
+    text-indent:-.25in;
+    font-family:Symbol;}
+@list l0:level5
+{mso-level-number-format:bullet;
+    mso-level-text:o;
+    mso-level-tab-stop:none;
+    mso-level-number-position:left;
+    text-indent:-.25in;
+    font-family:"Courier New";
+    mso-bidi-font-family:"Times New Roman";}
+@list l0:level6
+{mso-level-number-format:bullet;
+    mso-level-text:\F0A7;
+    mso-level-tab-stop:none;
+    mso-level-number-position:left;
+    text-indent:-.25in;
+    font-family:Wingdings;}
+@list l0:level7
+{mso-level-number-format:bullet;
+    mso-level-text:\F0B7;
+    mso-level-tab-stop:none;
+    mso-level-number-position:left;
+    text-indent:-.25in;
+    font-family:Symbol;}
+@list l0:level8
+{mso-level-number-format:bullet;
+    mso-level-text:o;
+    mso-level-tab-stop:none;
+    mso-level-number-position:left;
+    text-indent:-.25in;
+    font-family:"Courier New";
+    mso-bidi-font-family:"Times New Roman";}
+@list l0:level9
+{mso-level-number-format:bullet;
+    mso-level-text:\F0A7;
+    mso-level-tab-stop:none;
+    mso-level-number-position:left;
+    text-indent:-.25in;
+    font-family:Wingdings;}
+@list l1
+{mso-list-id:787428951;
+    mso-list-type:hybrid;
+    mso-list-template-ids:-1450539200 67698689 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;}
+@list l1:level1
+{mso-level-number-format:bullet;
+    mso-level-text:\F0B7;
+    mso-level-tab-stop:none;
+    mso-level-number-position:left;
+    text-indent:-.25in;
+    font-family:Symbol;}
+@list l1:level2
+{mso-level-number-format:bullet;
+    mso-level-text:o;
+    mso-level-tab-stop:none;
+    mso-level-number-position:left;
+    text-indent:-.25in;
+    font-family:"Courier New";
+    mso-bidi-font-family:"Times New Roman";}
+@list l1:level3
+{mso-level-number-format:bullet;
+    mso-level-text:\F0A7;
+    mso-level-tab-stop:none;
+    mso-level-number-position:left;
+    text-indent:-.25in;
+    font-family:Wingdings;}
+@list l1:level4
+{mso-level-number-format:bullet;
+    mso-level-text:\F0B7;
+    mso-level-tab-stop:none;
+    mso-level-number-position:left;
+    text-indent:-.25in;
+    font-family:Symbol;}
+@list l1:level5
+{mso-level-number-format:bullet;
+    mso-level-text:o;
+    mso-level-tab-stop:none;
+    mso-level-number-position:left;
+    text-indent:-.25in;
+    font-family:"Courier New";
+    mso-bidi-font-family:"Times New Roman";}
+@list l1:level6
+{mso-level-number-format:bullet;
+    mso-level-text:\F0A7;
+    mso-level-tab-stop:none;
+    mso-level-number-position:left;
+    text-indent:-.25in;
+    font-family:Wingdings;}
+@list l1:level7
+{mso-level-number-format:bullet;
+    mso-level-text:\F0B7;
+    mso-level-tab-stop:none;
+    mso-level-number-position:left;
+    text-indent:-.25in;
+    font-family:Symbol;}
+@list l1:level8
+{mso-level-number-format:bullet;
+    mso-level-text:o;
+    mso-level-tab-stop:none;
+    mso-level-number-position:left;
+    text-indent:-.25in;
+    font-family:"Courier New";
+    mso-bidi-font-family:"Times New Roman";}
+@list l1:level9
+{mso-level-number-format:bullet;
+    mso-level-text:\F0A7;
+    mso-level-tab-stop:none;
+    mso-level-number-position:left;
+    text-indent:-.25in;
+    font-family:Wingdings;}
+@list l2
+{mso-list-id:826481152;
+    mso-list-type:hybrid;
+    mso-list-template-ids:788709380 67698689 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;}
+@list l2:level1
+{mso-level-number-format:bullet;
+    mso-level-text:\F0B7;
+    mso-level-tab-stop:none;
+    mso-level-number-position:left;
+    text-indent:-.25in;
+    font-family:Symbol;}
+@list l2:level2
+{mso-level-number-format:bullet;
+    mso-level-text:o;
+    mso-level-tab-stop:none;
+    mso-level-number-position:left;
+    text-indent:-.25in;
+    font-family:"Courier New";
+    mso-bidi-font-family:"Times New Roman";}
+@list l2:level3
+{mso-level-number-format:bullet;
+    mso-level-text:\F0A7;
+    mso-level-tab-stop:none;
+    mso-level-number-position:left;
+    text-indent:-.25in;
+    font-family:Wingdings;}
+@list l2:level4
+{mso-level-number-format:bullet;
+    mso-level-text:\F0B7;
+    mso-level-tab-stop:none;
+    mso-level-number-position:left;
+    text-indent:-.25in;
+    font-family:Symbol;}
+@list l2:level5
+{mso-level-number-format:bullet;
+    mso-level-text:o;
+    mso-level-tab-stop:none;
+    mso-level-number-position:left;
+    text-indent:-.25in;
+    font-family:"Courier New";
+    mso-bidi-font-family:"Times New Roman";}
+@list l2:level6
+{mso-level-number-format:bullet;
+    mso-level-text:\F0A7;
+    mso-level-tab-stop:none;
+    mso-level-number-position:left;
+    text-indent:-.25in;
+    font-family:Wingdings;}
+@list l2:level7
+{mso-level-number-format:bullet;
+    mso-level-text:\F0B7;
+    mso-level-tab-stop:none;
+    mso-level-number-position:left;
+    text-indent:-.25in;
+    font-family:Symbol;}
+@list l2:level8
+{mso-level-number-format:bullet;
+    mso-level-text:o;
+    mso-level-tab-stop:none;
+    mso-level-number-position:left;
+    text-indent:-.25in;
+    font-family:"Courier New";
+    mso-bidi-font-family:"Times New Roman";}
+@list l2:level9
+{mso-level-number-format:bullet;
+    mso-level-text:\F0A7;
+    mso-level-tab-stop:none;
+    mso-level-number-position:left;
+    text-indent:-.25in;
+    font-family:Wingdings;}
+@list l3
+{mso-list-id:1638145991;
+    mso-list-type:hybrid;
+    mso-list-template-ids:-1193365482 67698689 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;}
+@list l3:level1
+{mso-level-number-format:bullet;
+    mso-level-text:\F0B7;
+    mso-level-tab-stop:none;
+    mso-level-number-position:left;
+    text-indent:-.25in;
+    font-family:Symbol;}
+@list l3:level2
+{mso-level-number-format:bullet;
+    mso-level-text:o;
+    mso-level-tab-stop:none;
+    mso-level-number-position:left;
+    text-indent:-.25in;
+    font-family:"Courier New";
+    mso-bidi-font-family:"Times New Roman";}
+@list l3:level3
+{mso-level-number-format:bullet;
+    mso-level-text:\F0A7;
+    mso-level-tab-stop:none;
+    mso-level-number-position:left;
+    text-indent:-.25in;
+    font-family:Wingdings;}
+@list l3:level4
+{mso-level-number-format:bullet;
+    mso-level-text:\F0B7;
+    mso-level-tab-stop:none;
+    mso-level-number-position:left;
+    text-indent:-.25in;
+    font-family:Symbol;}
+@list l3:level5
+{mso-level-number-format:bullet;
+    mso-level-text:o;
+    mso-level-tab-stop:none;
+    mso-level-number-position:left;
+    text-indent:-.25in;
+    font-family:"Courier New";
+    mso-bidi-font-family:"Times New Roman";}
+@list l3:level6
+{mso-level-number-format:bullet;
+    mso-level-text:\F0A7;
+    mso-level-tab-stop:none;
+    mso-level-number-position:left;
+    text-indent:-.25in;
+    font-family:Wingdings;}
+@list l3:level7
+{mso-level-number-format:bullet;
+    mso-level-text:\F0B7;
+    mso-level-tab-stop:none;
+    mso-level-number-position:left;
+    text-indent:-.25in;
+    font-family:Symbol;}
+@list l3:level8
+{mso-level-number-format:bullet;
+    mso-level-text:o;
+    mso-level-tab-stop:none;
+    mso-level-number-position:left;
+    text-indent:-.25in;
+    font-family:"Courier New";
+    mso-bidi-font-family:"Times New Roman";}
+@list l3:level9
+{mso-level-number-format:bullet;
+    mso-level-text:\F0A7;
+    mso-level-tab-stop:none;
+    mso-level-number-position:left;
+    text-indent:-.25in;
+    font-family:Wingdings;}
+ol
+{margin-bottom:0in;}
+ul
+{margin-bottom:0in;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+    /* Style Definitions */
+    table.MsoNormalTable
+    {mso-style-name:"Table Normal";
+        mso-tstyle-rowband-size:0;
+        mso-tstyle-colband-size:0;
+        mso-style-noshow:yes;
+        mso-style-priority:99;
+        mso-style-parent:"";
+        mso-padding-alt:0in 5.4pt 0in 5.4pt;
+        mso-para-margin:0in;
+        mso-para-margin-bottom:.0001pt;
+        mso-pagination:widow-orphan;
+        font-size:12.0pt;
+        font-family:Cambria;
+        mso-ascii-font-family:Cambria;
+        mso-ascii-theme-font:minor-latin;
+        mso-hansi-font-family:Cambria;
+        mso-hansi-theme-font:minor-latin;}
+</style>
+<![endif]-->
+</head>
+
+<body bgcolor="white" lang="EN-US" link="blue" vlink="purple" style="tab-interval:.5in">
+
+<div class="WordSection1">
+
+<p class="MsoNormal" style="margin-bottom:11.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><span style="font-size:11.0pt;font-family:Arial">This
+is the United States privacy notice ("Privacy Notice") of Silvercar,
+Inc. ("Silvercar," "we," "us," or
+"our").<o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-bottom:11.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><span style="font-size:11.0pt;font-family:Arial">We
+at Silvercar recognize the importance of protecting your personally
+identifiable information. To demonstrate our commitment to maintaining the
+privacy of your personally identifiable information, we have created this
+Privacy Notice to disclose our privacy practices for the personally
+identifiable information that we collect and receive through use of our
+products and services either offline or online. Our online operations include
+all websites(collectively, the "Websites") and applications (defined
+below as “Apps”) of Silvercar.<o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-bottom:11.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><span style="font-size:11.0pt;font-family:Arial">By
+submitting your personally identifiable information to us, you consent to Silvercar's
+use and disclosure of your personally identifiable information as set forth in
+this Privacy Notice. Your use and/or continued use of Silvercar products, services
+and websites signifies your consent that your information may be transferred to
+or stored on servers and processed outside the country of your residence.
+Provided the data protection laws of these other countries differ from those in
+the United States, please be assured that we take reasonable steps to ensure
+that your privacy is protected. If you do not agree with the terms of this
+Privacy Notice, please do not submit any information to Silvercar either
+offline or through our Apps or Websites.<o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-bottom:11.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><b><span style="font-size:11.0pt;font-family:Arial">Purpose
+of this Privacy Notice</span></b><span style="font-size:11.0pt;font-family:
+Arial"><o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-bottom:11.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><span style="font-size:11.0pt;font-family:Arial">We
+recognize the importance of protecting your personally identifiable information
+(which includes your name, address, telephone number, date of birth, e-mail
+address, credit or debit card information, drivers license number, and other
+contact information,) that you provide to Silvercar (collectively,
+"PII"). The purpose of this Privacy Notice is to tell you how Silvercar
+strives to better serve you by keeping you informed of promotions, products and
+services, while, at the same time, safeguarding your PII. This Privacy Notice
+sets forth our policies regarding the collection, use and disclosure of your
+PII both through our online and offline operations. This Privacy Notice also
+explains how you can correct or change the PII we hold about you, or opt-out of
+receiving certain marketing materials.<o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-bottom:11.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><b><span style="font-size:11.0pt;font-family:Arial">Who
+is Covered under this Privacy Notice</span></b><span style="font-size:11.0pt;
+font-family:Arial"><o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-bottom:11.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><span style="font-size:11.0pt;font-family:Arial">This
+Privacy Notice is applicable to PII that you provide to Silvercar. This Privacy
+Notice applies to all of the products, services, Apps and Websites offered by Silvercar
+or its subsidiaries or affiliated companies.<o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-bottom:11.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><b><span style="font-size:11.0pt;font-family:Arial">What
+Personally Identifiable Information Silvercar Collects</span></b><span style="font-size:11.0pt;font-family:Arial"><o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-bottom:11.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><span style="font-size:11.0pt;font-family:Arial">You
+generally are not required to provide us with PII when visiting our Websites.
+However, when you create an account, make a reservation, rent a vehicle, and/or
+join one of our programs, we need to collect certain information about you to
+provide or improve our services. The service that you choose will determine
+what information we collect from you. Here are some examples of information we
+collect from you:<o:p></o:p></span></p>
+
+<p class="MsoListParagraphCxSpFirst" style="margin-bottom:11.0pt;mso-add-space:
+auto;text-indent:-.25in;mso-pagination:none;mso-list:l2 level1 lfo1;mso-layout-grid-align:
+none;text-autospace:none"><!--[if !supportLists]--><span style="font-size:11.0pt;
+font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><!--[endif]--><span style="font-size:11.0pt;font-family:Arial">Name<o:p></o:p></span></p>
+
+<p class="MsoListParagraphCxSpMiddle" style="margin-bottom:11.0pt;mso-add-space:
+auto;text-indent:-.25in;mso-pagination:none;mso-list:l2 level1 lfo1;mso-layout-grid-align:
+none;text-autospace:none"><!--[if !supportLists]--><span style="font-size:11.0pt;
+font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><!--[endif]--><span style="font-size:11.0pt;font-family:Arial">Email
+Address<o:p></o:p></span></p>
+
+<p class="MsoListParagraphCxSpMiddle" style="margin-bottom:11.0pt;mso-add-space:
+auto;text-indent:-.25in;mso-pagination:none;mso-list:l2 level1 lfo1;mso-layout-grid-align:
+none;text-autospace:none"><!--[if !supportLists]--><span style="font-size:11.0pt;
+font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><!--[endif]--><span style="font-size:11.0pt;font-family:Arial">Home
+and/or Business Address<o:p></o:p></span></p>
+
+<p class="MsoListParagraphCxSpMiddle" style="margin-bottom:11.0pt;mso-add-space:
+auto;text-indent:-.25in;mso-pagination:none;mso-list:l2 level1 lfo1;mso-layout-grid-align:
+none;text-autospace:none"><!--[if !supportLists]--><span style="font-size:11.0pt;
+font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><!--[endif]--><span style="font-size:11.0pt;font-family:Arial">Telephone
+Numbers at which we can contact you<o:p></o:p></span></p>
+
+<p class="MsoListParagraphCxSpMiddle" style="margin-bottom:11.0pt;mso-add-space:
+auto;text-indent:-.25in;mso-pagination:none;mso-list:l2 level1 lfo1;mso-layout-grid-align:
+none;text-autospace:none"><!--[if !supportLists]--><span style="font-size:11.0pt;
+font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><!--[endif]--><span style="font-size:11.0pt;font-family:Arial">Date
+of Birth<o:p></o:p></span></p>
+
+<p class="MsoListParagraphCxSpMiddle" style="margin-bottom:11.0pt;mso-add-space:
+auto;text-indent:-.25in;mso-pagination:none;mso-list:l2 level1 lfo1;mso-layout-grid-align:
+none;text-autospace:none"><!--[if !supportLists]--><span style="font-size:11.0pt;
+font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><!--[endif]--><span style="font-size:11.0pt;font-family:Arial">Payment
+Information (i.e. debit or credit card and expiration date)<o:p></o:p></span></p>
+
+<p class="MsoListParagraphCxSpLast" style="margin-bottom:11.0pt;mso-add-space:
+auto;text-indent:-.25in;mso-pagination:none;mso-list:l2 level1 lfo1;mso-layout-grid-align:
+none;text-autospace:none"><!--[if !supportLists]--><span style="font-size:11.0pt;
+font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><!--[endif]--><span style="font-size:11.0pt;font-family:Arial">Information
+from your Driver's License or other Government issued identification (e.g.,
+Passport)<o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-bottom:11.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><span style="font-size:11.0pt;font-family:Arial">When
+you rent a vehicle, we will also record non-personally identifiable information
+about your rental (e.g. where you rented the vehicle, where and when you
+returned the vehicle, payment arrangements, insurance preferences, gas
+consumption, mileage and other information related to the vehicle). This
+information is necessary in order to administer your rental reservation and/or
+process your transaction.<o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-bottom:11.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><span style="font-size:11.0pt;font-family:Arial">We
+may also need certain information from you when you request any of the
+following services or equipment: Special Needs/Optional Equipment; Special
+Offers/Discounts; Partner Member Numbers; use of a corporate or other discount
+number and other vehicle preferences. For example, if you wish to use a
+discount that Silvercar provides to members of an association/affiliate to
+which you belong, we may collect information about your membership to verify
+and provide you with the correct discount for our services.<o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-bottom:11.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><b><span style="font-size:11.0pt;font-family:Arial">How
+Silvercar Collects Personally Identifiable Information </span></b><span style="font-size:11.0pt;font-family:Arial"><o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-bottom:11.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><span style="font-size:11.0pt;font-family:Arial">The
+PII we collect from you will be with your express or implied consent. How we
+collect this information will depend on how you use our services. We may
+collect this information directly from you by telephone, fax, postal mail,
+email, at the customer suite, upon completion of an application or enrollment
+form, or through your use of our Websites, mobile applications (“Apps”) or the
+Internet. To the extent you use our Websites or Apps, we may also collect
+information about your use of our Websites and Apps, transactional and account
+information, e-mail and other information related to communications to our
+Websites or through our Apps. We may also collect information about you
+indirectly through a travel agent, an account program in which you or your employer
+participates or through one of our partner programs when you deal with us
+through those means. Additionally, our affiliates and third parties may provide
+us with information about you.<o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-bottom:11.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><span style="font-size:11.0pt;font-family:Arial">You
+may choose not to provide some of your PII to us, but this may prevent us from
+providing our services to you, or limit our ability to provide you with the
+level of service that you would otherwise expect from us.<o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-bottom:11.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><span style="font-size:11.0pt;font-family:Arial">Silvercar
+vehicles may be equipped with a device that allows Silvercar to use a global
+positioning satellite or other technology to track, locate and/or disable the
+vehicle and to provide such information and capability to law enforcement
+agencies at any time and especially if you fail to return the vehicle when and
+where required under your rental agreement with Silvercar or otherwise violate
+any provision of the rental agreement.<o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-bottom:11.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><b><span style="font-size:11.0pt;font-family:Arial">How
+Personally Identifiable Information is Used and Disclosed by Silvercar</span></b><span style="font-size:11.0pt;font-family:Arial"><o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-bottom:11.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><i><span style="font-size:11.0pt;font-family:Arial">Usage</span></i><span style="font-size:11.0pt;font-family:Arial"><o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-bottom:11.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><span style="font-size:11.0pt;font-family:Arial">We
+strive to ensure that we give you a stress-free rental experience and are
+dedicated to building a rewarding and lasting relationship with every customer.
+To provide the level of service we believe you expect from us, we may use your
+PII for the following purposes:<o:p></o:p></span></p>
+
+<p class="MsoListParagraphCxSpFirst" style="margin-bottom:11.0pt;mso-add-space:
+auto;text-indent:-.25in;mso-pagination:none;mso-list:l1 level1 lfo2;mso-layout-grid-align:
+none;text-autospace:none"><!--[if !supportLists]--><span style="font-size:11.0pt;
+font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><!--[endif]--><span style="font-size:11.0pt;font-family:Arial">Provide
+and administer the services that you request, and communicate with you
+regarding such services and offerings;<o:p></o:p></span></p>
+
+<p class="MsoListParagraphCxSpMiddle" style="margin-bottom:11.0pt;mso-add-space:
+auto;text-indent:-.25in;mso-pagination:none;mso-list:l1 level1 lfo2;mso-layout-grid-align:
+none;text-autospace:none"><!--[if !supportLists]--><span style="font-size:11.0pt;
+font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><!--[endif]--><span style="font-size:11.0pt;font-family:Arial">Research,
+develop, manage, protect and improve our Websites and services;<o:p></o:p></span></p>
+
+<p class="MsoListParagraphCxSpMiddle" style="margin-bottom:11.0pt;mso-add-space:
+auto;text-indent:-.25in;mso-pagination:none;mso-list:l1 level1 lfo2;mso-layout-grid-align:
+none;text-autospace:none"><!--[if !supportLists]--><span style="font-size:11.0pt;
+font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><!--[endif]--><span style="font-size:11.0pt;font-family:Arial">Maintain
+and develop our service-oriented software and other business systems; and<o:p></o:p></span></p>
+
+<p class="MsoListParagraphCxSpLast" style="margin-bottom:11.0pt;mso-add-space:
+auto;text-indent:-.25in;mso-pagination:none;mso-list:l1 level1 lfo2;mso-layout-grid-align:
+none;text-autospace:none"><!--[if !supportLists]--><span style="font-size:11.0pt;
+font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><!--[endif]--><span style="font-size:11.0pt;font-family:Arial">Analyze
+data, or to have a third party do so on our behalf.<o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-bottom:11.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><span style="font-size:11.0pt;font-family:Arial">We
+may also use your information - both PII and non-personally identifiable
+information - for other purposes. For example, PII may be needed to process and
+track your transactions or to send you information about our affiliates' and
+business partners' products and services and other information and materials
+that may be of interest to you. If you use our Websites, we may also use your
+information to evaluate what portions of our Websites are visited more often
+than others, determine where visitors came from, where they go, and how long
+they stay on a particular page, or on our Websites in general.<o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-bottom:11.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><span style="font-size:11.0pt;font-family:Arial">From
+time to time, we also may combine your PII with information obtained from other
+sources, including third parties, in order to provide you with more customized
+services and product offerings. To do this, it is often necessary to share your
+information with trusted vendors and business partners, such as companies that
+manage accounts, offer affinity, frequent-user, and reward programs, and
+companies that perform marketing services and other business operations for us.
+For more information, see below under "Disclosing."<o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-bottom:11.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><i><span style="font-size:11.0pt;font-family:Arial">Disclosing</span></i><span style="font-size:11.0pt;font-family:Arial"><o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-bottom:11.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><span style="font-size:11.0pt;font-family:Arial">We
+may disclose your PII to affiliated and non-affiliated organizations including,
+for example:<o:p></o:p></span></p>
+
+<p class="MsoListParagraphCxSpFirst" style="margin-bottom:11.0pt;mso-add-space:
+auto;text-indent:-.25in;mso-pagination:none;mso-list:l0 level1 lfo3;mso-layout-grid-align:
+none;text-autospace:none"><!--[if !supportLists]--><span style="font-size:11.0pt;
+font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><!--[endif]--><span style="font-size:11.0pt;font-family:Arial">To
+your company or organization if you use our services under a corporate or other
+commercial account;<o:p></o:p></span></p>
+
+<p class="MsoListParagraphCxSpMiddle" style="margin-bottom:11.0pt;mso-add-space:
+auto;text-indent:-.25in;mso-pagination:none;mso-list:l0 level1 lfo3;mso-layout-grid-align:
+none;text-autospace:none"><!--[if !supportLists]--><span style="font-size:11.0pt;
+font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><!--[endif]--><span style="font-size:11.0pt;font-family:Arial">To
+one of our program partners (e.g. if you are a member of an affiliate program,
+such as a relocation company or frequent traveler program and you have asked us
+to send details of your rental agreement with us to obtain your benefits from
+that program);<o:p></o:p></span></p>
+
+<p class="MsoListParagraphCxSpMiddle" style="margin-bottom:11.0pt;mso-add-space:
+auto;text-indent:-.25in;mso-pagination:none;mso-list:l0 level1 lfo3;mso-layout-grid-align:
+none;text-autospace:none"><!--[if !supportLists]--><span style="font-size:11.0pt;
+font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><!--[endif]--><span style="font-size:11.0pt;font-family:Arial">To
+entities that provide services on our behalf;<o:p></o:p></span></p>
+
+<p class="MsoListParagraphCxSpMiddle" style="margin-bottom:11.0pt;mso-add-space:
+auto;text-indent:-.25in;mso-pagination:none;mso-list:l0 level1 lfo3;mso-layout-grid-align:
+none;text-autospace:none"><!--[if !supportLists]--><span style="font-size:11.0pt;
+font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><!--[endif]--><span style="font-size:11.0pt;font-family:Arial">To
+any intermediary you use, such as a travel agent, broker or booking engine, in
+relation to any aspect of your rental;<o:p></o:p></span></p>
+
+<p class="MsoListParagraphCxSpMiddle" style="margin-bottom:11.0pt;mso-add-space:
+auto;text-indent:-.25in;mso-pagination:none;mso-list:l0 level1 lfo3;mso-layout-grid-align:
+none;text-autospace:none"><!--[if !supportLists]--><span style="font-size:11.0pt;
+font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><!--[endif]--><span style="font-size:11.0pt;font-family:Arial">To
+independent licensees for use in providing the services and offerings which you
+have requested and to communicate with you regarding such services and
+offerings;<o:p></o:p></span></p>
+
+<p class="MsoListParagraphCxSpMiddle" style="margin-bottom:11.0pt;mso-add-space:
+auto;text-indent:-.25in;mso-pagination:none;mso-list:l0 level1 lfo3;mso-layout-grid-align:
+none;text-autospace:none"><!--[if !supportLists]--><span style="font-size:11.0pt;
+font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><!--[endif]--><span style="font-size:11.0pt;font-family:Arial">To
+your credit card issuer;<o:p></o:p></span></p>
+
+<p class="MsoListParagraphCxSpMiddle" style="margin-bottom:11.0pt;mso-add-space:
+auto;text-indent:-.25in;mso-pagination:none;mso-list:l0 level1 lfo3;mso-layout-grid-align:
+none;text-autospace:none"><!--[if !supportLists]--><span style="font-size:11.0pt;
+font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><!--[endif]--><span style="font-size:11.0pt;font-family:Arial">To
+credit reporting and fraud checking agencies;<o:p></o:p></span></p>
+
+<p class="MsoListParagraphCxSpMiddle" style="margin-bottom:11.0pt;mso-add-space:
+auto;text-indent:-.25in;mso-pagination:none;mso-list:l0 level1 lfo3;mso-layout-grid-align:
+none;text-autospace:none"><!--[if !supportLists]--><span style="font-size:11.0pt;
+font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><!--[endif]--><span style="font-size:11.0pt;font-family:Arial">To
+debt collection agencies, if you fail to pay monies owed to us;<o:p></o:p></span></p>
+
+<p class="MsoListParagraphCxSpMiddle" style="margin-bottom:11.0pt;mso-add-space:
+auto;text-indent:-.25in;mso-pagination:none;mso-list:l0 level1 lfo3;mso-layout-grid-align:
+none;text-autospace:none"><!--[if !supportLists]--><span style="font-size:11.0pt;
+font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><!--[endif]--><span style="font-size:11.0pt;font-family:Arial">To
+government or private organizations responsible for the processing or handling
+of traffic or parking related violations;<o:p></o:p></span></p>
+
+<p class="MsoListParagraphCxSpMiddle" style="margin-bottom:11.0pt;mso-add-space:
+auto;text-indent:-.25in;mso-pagination:none;mso-list:l0 level1 lfo3;mso-layout-grid-align:
+none;text-autospace:none"><!--[if !supportLists]--><span style="font-size:11.0pt;
+font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><!--[endif]--><span style="font-size:11.0pt;font-family:Arial">To
+driver licensing authorities, directly or through intermediary organizations,
+when needed to verify compliance with Silvercar's safe driver criteria for
+qualified drivers and/or to verify license information; and<o:p></o:p></span></p>
+
+<p class="MsoListParagraphCxSpLast" style="margin-bottom:11.0pt;mso-add-space:
+auto;text-indent:-.25in;mso-pagination:none;mso-list:l0 level1 lfo3;mso-layout-grid-align:
+none;text-autospace:none"><!--[if !supportLists]--><span style="font-size:11.0pt;
+font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><!--[endif]--><span style="font-size:11.0pt;font-family:Arial">To
+government, regulatory and law enforcement agencies where the disclosure is
+required or authorized by law, and otherwise as we believe is necessary or
+appropriate to satisfy any law, regulation or other governmental request, to
+operate our Websites and Apps properly, or to protect or defend our rights or
+the rights or well-being of our employees, users or others or if you are
+involved (or are suspected by governmental authorities or our security
+functions to be involved) in any illegal activity, even without a subpoena,
+warrant or court order.<o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-bottom:11.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><span style="font-size:11.0pt;font-family:Arial">We
+may disclose your PII to our affiliates and non-affiliated business partners
+for their use both on our behalf and for their own business purposes. For
+example, our affiliates and business partners may use such PII to send you
+information about their products and services and other information and
+materials that may be of interest to you. You may </span><a href="http://www.silvercar.com"><span style="font-size:11.0pt;font-family:Arial">opt-out</span></a><span style="font-size:11.0pt;font-family:Arial"> of us disclosing your PII for these
+purposes through one of the methods described in this Privacy Notice.<o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-bottom:11.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><span style="font-size:11.0pt;font-family:Arial">We
+may share your PII with other non-affiliated third parties, such as entities
+that provide services for our Websites or for our business (e.g., advertisers,
+ad servers, content providers, services providers, credit card processors, data
+processors, website development and support, fulfillment services providers,
+e-mail list hosting companies and distribution companies) that use such PII on
+our behalf consistent with this Privacy Notice. These types of third parties
+are not permitted to use your PII for any secondary purposes.<o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-bottom:11.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><span style="font-size:11.0pt;font-family:Arial">We
+may also transfer or assign your PII to third parties as a result of or in
+connection with a sale, merger, consolidation, change in control, transfer of
+assets, reorganization, or liquidation.<o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-bottom:11.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><span style="font-size:11.0pt;font-family:Arial">We
+may need to send your PII overseas as part of our normal business operations.
+Provided the data protection laws of these other countries differ from those in
+the United States, please be assured that we take reasonable steps to ensure
+that your privacy is protected.<o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-bottom:11.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><b><span style="font-size:11.0pt;font-family:Arial">Website
+and Internet Privacy</span></b><span style="font-size:11.0pt;font-family:Arial"><o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-bottom:11.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><span style="font-size:11.0pt;font-family:Arial">If
+you use our Apps or Websites or otherwise interact with us via the Internet,
+the following privacy-related policies also apply:<o:p></o:p></span></p>
+
+<p class="MsoNormal" style="mso-pagination:none;mso-layout-grid-align:none;
+text-autospace:none"><b><span style="font-size:11.0pt;font-family:Arial"><o:p>&nbsp;</o:p></span></b></p>
+
+<p class="MsoNormal" style="margin-bottom:11.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><b><span style="font-size:11.0pt;font-family:Arial">Website
+Tracking and the Use of Cookies and Other Technologies</span></b><span style="font-size:11.0pt;font-family:Arial"><o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-bottom:11.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><span style="font-size:11.0pt;font-family:Arial">If
+you use our Websites, certain information may be collected from your computer
+in the course of your use of our Websites. As with many websites, we may use
+both session based and persistent "cookies" and/or other technology
+(e.g., web bugs, e-mail bugs, clear GIFs, web beacons, tracker GIFs and
+"clickstream" data logs) in our Websites or in our electronic
+communications with you to enhance the functionality of our Websites and
+services. These technologies also make your transactions and other activities
+more convenient and efficient.<o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-bottom:11.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><i><span style="font-size:11.0pt;font-family:Arial">Cookies</span></i><span style="font-size:11.0pt;font-family:Arial"><o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-bottom:11.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><span style="font-size:11.0pt;font-family:Arial">"Cookies"
+are small amounts of data that a website can send to your web browser and store
+on your computer. It is our policy not to save sensitive data, such as
+passwords or credit card information in cookies.<o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-bottom:11.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><span style="font-size:11.0pt;font-family:Arial">Most
+web browsers are initially set up to accept cookies. You have the option of
+disabling or refusing cookies at any time in your browser preferences. However,
+note that some parts of our Websites will not function properly or may be
+considerably slower if you refuse cookies. For example, without cookies, you
+will not be able to set personalized preferences, and/or may have difficulty
+completing transactions.<o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-bottom:11.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><span style="font-size:11.0pt;font-family:Arial">The
+use of cookies is an industry standard, and as such, you will find that most
+major websites use them. Silvercar and Silvercar's affiliates have two (2)
+primary uses for cookies. First, we use them to specify a user's preferences.
+For example, we use cookies to store information about your travel preferences
+or rental history so you don't have to tell us repeatedly your preferences.
+Second, we use cookies to track Website usage trends and patterns. This helps
+us understand our users' needs better and improve areas of our Websites.<o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-bottom:11.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><i><span style="font-size:11.0pt;font-family:Arial">IP
+Addresses</span></i><span style="font-size:11.0pt;font-family:Arial"><o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-bottom:11.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><span style="font-size:11.0pt;font-family:Arial">An
+IP address is a unique number that is automatically assigned to your computer
+whenever you are surfing the Internet so that your computer can be identified on
+the Internet. This allows us to gather useful information and data about our
+customers' use of the site.<o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-bottom:11.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><span style="font-size:11.0pt;font-family:Arial">Silvercar
+collects IP addresses for the purposes of: helping us diagnose problems with
+our main computers, for system administration, to report aggregated information
+to our business partners, and to audit the use of our Website. When users
+request Web pages from our Web Site, our Web servers log the User's IP address.
+We do not normally link IP addresses to anything personally identifiable, which
+means that a user's session will be logged, but the user will remain anonymous
+to us. For example, we collect and/or track the home server domain name, the
+type of computer, and the type of Web browser used by you to access this Web
+Site. Such collection and tracking information is gathered by us as you
+navigate through our Websites, and will be used by us for our business purposes
+only.<o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-bottom:11.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><span style="font-size:11.0pt;font-family:Arial">In
+select instances, we may use IP addresses to help us identify you when we feel
+it is necessary to enforce compliance with our Website </span><a href="http://www.silvercar.com"><span style="font-size:11.0pt;font-family:Arial;
+color:windowtext">Terms of Use</span></a><span style="font-size:11.0pt;
+font-family:Arial"> or to protect our service, site, users or others.<o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-bottom:11.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><i><span style="font-size:11.0pt;font-family:Arial">Third
+Party Use of Technology</span></i><span style="font-size:11.0pt;font-family:
+Arial"><o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-bottom:11.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><span style="font-size:11.0pt;font-family:Arial">Third
+parties (including, but not limited to, software vendors, advertisers, ad
+servers, content providers, and services providers) may also use similar
+technologies by or through our Apps or Websites or through their own websites.
+In connection therewith, such entities may collect information about you and
+your usage activity on this and other websites. Silvercar does not control
+these third parties and is not responsible for the actions of our third party
+business partners. We encourage you to check their terms of use and privacy
+policies for such information.<o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-bottom:11.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><span style="font-size:11.0pt;font-family:Arial">We
+may use third-party servicing technology and service providers to serve ads on
+our behalf across the Internet and sometimes on our Apps or Websites. They may
+collect non-personally identifiable information about your visits to our
+Websites, and your interaction with our products and services. They may also
+use non-personally identifiable information about your visits to send you
+targeted advertisements for goods and services. This information is collected
+through the use of a pixel tag, or similar technology which is industry
+standard technology used by most major websites. If you would like more
+information about this practice and to know your choices about not having this
+non-personally identifiable information used, please visit </span><a href="http://www.networkadvertising.org/managing/opt_out.asp"><span style="font-size:11.0pt;font-family:Arial;color:windowtext">http://www.networkadvertising.org/managing/opt_out.asp</span></a><span style="font-size:11.0pt;font-family:Arial">.<o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-bottom:11.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><span style="font-size:11.0pt;font-family:Arial">We
+may also share Website usage information about visitors to our Websites with
+selected third parties for the purpose of targeting our Internet banner
+advertisements on our Websites and other websites. To do this, we use web
+beacons and cookies provided by our third-party ad server on our Site. In
+connection therewith, such third parties may have access to and use
+non-personalized information about your online usage activity. The use of advertising
+cookies and web beacons sent by such third-party Web servers is standard for
+commercial activity in the Internet industry.<o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-bottom:11.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><i><span style="font-size:11.0pt;font-family:Arial">Web
+Beacons</span></i><span style="font-size:11.0pt;font-family:Arial"><o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-bottom:11.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><span style="font-size:11.0pt;font-family:Arial">Web
+pages may contain an electronic file called a web beacon that allows a website
+to count users who have visited that page or to access certain cookies. <o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-bottom:11.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><b><span style="font-size:11.0pt;font-family:Arial">Visiting
+Third-Party Websites</span></b><span style="font-size:11.0pt;font-family:Arial"><o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-bottom:11.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><span style="font-size:11.0pt;font-family:Arial">Our
+Websites may contain links or references to third party websites. These
+websites are outside of our control, and the privacy policies of these sites
+may differ from our own. Please be aware that we have no control over these
+third-party websites and our Privacy Notice does not apply to such websites. We
+encourage you to check the terms of use and privacy policies of such sites
+before disclosing any PII via such sites.<o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-bottom:11.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><span style="font-size:11.0pt;font-family:Arial">Occasionally
+when linking to a third-party website from our Websites, you may still see Silvercar
+affiliate logo or a Silvercar affiliate website frame. This is to provide you
+with a seamless experience when visiting our Websites. In these cases, you are
+no longer on our Websites but the third-party website, and therefore the
+information collection practices of the third party's website may differ from Silvercar's.
+The privacy notice of the third party site will govern how information
+collected from you is used by the owner of the website. You can always know
+what website you are on by checking the Uniform Resource Locator (URL) in the
+location bar within your browser.<o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-bottom:11.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><b><span style="font-size:11.0pt;font-family:Arial">Linking
+your Silvercar Accounts to Your Social Profiles</span></b><span style="font-size:11.0pt;font-family:Arial"><o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-bottom:11.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><i><span style="font-size:11.0pt;font-family:Arial">Social
+Authentication</span></i><span style="font-size:11.0pt;font-family:Arial"><o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-bottom:11.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><span style="font-size:11.0pt;font-family:Arial">In
+order to provide you with more personalized services, we may give you the
+option of linking your social profiles with your Silvercar accounts on our Apps
+or Websites.<span style="mso-spacerun:yes">&nbsp; </span>Some of our Websites may
+allow you to link social profiles from Facebook, Twitter, LinkedIn, Google and
+Windows Live. We may add or remove the availability of any or all platforms at
+any time in our sole discretion. This functionality is entirely optional for
+all users and you may link or unlink your account(s) at any time.<o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-bottom:11.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><i><span style="font-size:11.0pt;font-family:Arial">What
+Information is Collected from Your Social Profiles and What It's Used for</span></i><span style="font-size:11.0pt;font-family:Arial"><o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-bottom:11.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><span style="font-size:11.0pt;font-family:Arial">If
+you exercise the option to link your social profile to any of our Apps or Websites,
+we may collect PII and additional information from your social profiles, which
+will be used by Silvercar and agents acting on our behalf to customize your Silvercar
+customer experience. Some examples of the type of information we may collect
+from these social profiles include:<o:p></o:p></span></p>
+
+<p class="MsoListParagraphCxSpFirst" style="margin-bottom:11.0pt;mso-add-space:
+auto;text-indent:-.25in;mso-pagination:none;mso-list:l3 level1 lfo4;mso-layout-grid-align:
+none;text-autospace:none"><!--[if !supportLists]--><span style="font-size:11.0pt;
+font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><!--[endif]--><span style="font-size:11.0pt;font-family:Arial">Profile
+picture, gender, marital status, birthday, list of friends (but not the
+information on your friends' social profiles unless they have also linked their
+profiles)<o:p></o:p></span></p>
+
+<p class="MsoListParagraphCxSpMiddle" style="margin-bottom:11.0pt;mso-add-space:
+auto;text-indent:-.25in;mso-pagination:none;mso-list:l3 level1 lfo4;mso-layout-grid-align:
+none;text-autospace:none"><!--[if !supportLists]--><span style="font-size:11.0pt;
+font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><!--[endif]--><span style="font-size:11.0pt;font-family:Arial">Professional
+Information such as prior and current work history<o:p></o:p></span></p>
+
+<p class="MsoListParagraphCxSpMiddle" style="margin-bottom:11.0pt;mso-add-space:
+auto;text-indent:-.25in;mso-pagination:none;mso-list:l3 level1 lfo4;mso-layout-grid-align:
+none;text-autospace:none"><!--[if !supportLists]--><span style="font-size:11.0pt;
+font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><!--[endif]--><span style="font-size:11.0pt;font-family:Arial">Personal
+Likes, Activities and Interest Information<o:p></o:p></span></p>
+
+<p class="MsoListParagraphCxSpMiddle" style="margin-bottom:11.0pt;mso-add-space:
+auto;text-indent:-.25in;mso-pagination:none;mso-list:l3 level1 lfo4;mso-layout-grid-align:
+none;text-autospace:none"><!--[if !supportLists]--><span style="font-size:11.0pt;
+font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><!--[endif]--><span style="font-size:11.0pt;font-family:Arial">The
+information we collect may be used to:<o:p></o:p></span></p>
+
+<p class="MsoListParagraphCxSpMiddle" style="margin-bottom:11.0pt;mso-add-space:
+auto;text-indent:-.25in;mso-pagination:none;mso-list:l3 level1 lfo4;mso-layout-grid-align:
+none;text-autospace:none"><!--[if !supportLists]--><span style="font-size:11.0pt;
+font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><!--[endif]--><span style="font-size:11.0pt;font-family:Arial">Serve
+you customized offers and deals on our Websites<o:p></o:p></span></p>
+
+<p class="MsoListParagraphCxSpMiddle" style="margin-bottom:11.0pt;mso-add-space:
+auto;text-indent:-.25in;mso-pagination:none;mso-list:l3 level1 lfo4;mso-layout-grid-align:
+none;text-autospace:none"><!--[if !supportLists]--><span style="font-size:11.0pt;
+font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><!--[endif]--><span style="font-size:11.0pt;font-family:Arial">Send
+you email offers with special deals and discounts<o:p></o:p></span></p>
+
+<p class="MsoListParagraphCxSpMiddle" style="margin-bottom:11.0pt;mso-add-space:
+auto;text-indent:-.25in;mso-pagination:none;mso-list:l3 level1 lfo4;mso-layout-grid-align:
+none;text-autospace:none"><!--[if !supportLists]--><span style="font-size:11.0pt;
+font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><!--[endif]--><span style="font-size:11.0pt;font-family:Arial">Send
+you offers by mobile phone text messages<o:p></o:p></span></p>
+
+<p class="MsoListParagraphCxSpMiddle" style="margin-bottom:11.0pt;mso-add-space:
+auto;text-indent:-.25in;mso-pagination:none;mso-list:l3 level1 lfo4;mso-layout-grid-align:
+none;text-autospace:none"><!--[if !supportLists]--><span style="font-size:11.0pt;
+font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><!--[endif]--><span style="font-size:11.0pt;font-family:Arial">Update
+your profile information on our Websites<o:p></o:p></span></p>
+
+<p class="MsoListParagraphCxSpMiddle" style="margin-bottom:11.0pt;mso-add-space:
+auto;text-indent:-.25in;mso-pagination:none;mso-list:l3 level1 lfo4;mso-layout-grid-align:
+none;text-autospace:none"><!--[if !supportLists]--><span style="font-size:11.0pt;
+font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><!--[endif]--><span style="font-size:11.0pt;font-family:Arial">Publish
+check-in and check-out information to your linked social media accounts<o:p></o:p></span></p>
+
+<p class="MsoListParagraphCxSpMiddle" style="margin-bottom:11.0pt;mso-add-space:
+auto;text-indent:-.25in;mso-pagination:none;mso-list:l3 level1 lfo4;mso-layout-grid-align:
+none;text-autospace:none"><!--[if !supportLists]--><span style="font-size:11.0pt;
+font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><!--[endif]--><span style="font-size:11.0pt;font-family:Arial">Share
+your upcoming trips with friends<o:p></o:p></span></p>
+
+<p class="MsoListParagraphCxSpLast" style="margin-bottom:11.0pt;mso-add-space:
+auto;text-indent:-.25in;mso-pagination:none;mso-list:l3 level1 lfo4;mso-layout-grid-align:
+none;text-autospace:none"><!--[if !supportLists]--><span style="font-size:11.0pt;
+font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol"><span style="mso-list:Ignore">·<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><!--[endif]--><span style="font-size:11.0pt;font-family:Arial">View
+your friends' that have linked their profiles upcoming trips<o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-bottom:11.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><i><span style="font-size:11.0pt;font-family:Arial">Unlinking
+Your Accounts</span></i><span style="font-size:11.0pt;font-family:Arial"><o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-bottom:11.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><span style="font-size:11.0pt;font-family:Arial">You
+may unlink your social profiles at any time. In order to unlink your profiles,
+you must log into each Silvercar account that has been linked and then select
+"Unlink" next to the social media channel you wish to unlink.<o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-bottom:11.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><i><span style="font-size:11.0pt;font-family:Arial">Social
+Sharing</span></i><span style="font-size:11.0pt;font-family:Arial"><o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-bottom:11.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><span style="font-size:11.0pt;font-family:Arial">In
+an effort to provide our customers with new ways of sharing content, we may enable
+some of our online content to be shared on social websites through hosted
+sharing links and icons. Users who share content and links through their social
+media profiles should be aware that all activities of this nature are public.<o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-bottom:11.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><span style="font-size:11.0pt;font-family:Arial">Please
+note, when you share (with or without adding your own comments) any of our
+content on your social media profile, that action is governed by the privacy
+notice of that social media platform, and not Silvercar's Privacy Notice. We do
+not track or store a record of those comments or actions.<o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-bottom:11.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><span style="font-size:11.0pt;font-family:Arial">If
+you choose to participate in posting or sharing activities, you are electing to
+share and display such public activities via our Apps or Websites. Due to the
+public nature of your posting or sharing your posts may be included in RSS
+feeds, APIs and made available to other websites via other formats. As a
+result, your public activities may appear on third-party websites, blogs or
+feeds. <b>WE ARE NOT RESPONSIBLE FOR ANY PII YOU CHOOSE MAKE PUBLIC VIA YOUR
+        SHARED POSTS.</b><o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-bottom:11.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><b><span style="font-size:11.0pt;font-family:Arial">How
+We Protect the Security of Personally Identifiable Information</span></b><span style="font-size:11.0pt;font-family:Arial"><o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-bottom:11.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><span style="font-size:11.0pt;font-family:Arial">The
+security of your PII is important to us. We exercise reasonable care in
+implementing generally accepted standards of security to protect your PII from
+loss, misuse and unauthorized access, disclosure, alteration or destruction,
+such as firewalls and Secure Socket Layer (SSL) encryption for some of your
+more sensitive PII. It is our policy to retain PII for as long as we believe
+appropriate for the purposes for which the PII was collected or as required by
+applicable law.<o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-bottom:11.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><span style="font-size:11.0pt;font-family:Arial">Unfortunately,
+"perfect security" does not exist on the Internet, and no data
+transmission over the Internet can be guaranteed to be 100% secure. As a
+result, while we strive to protect your PII, we cannot guarantee that PII
+stored on our servers, or transmitted to or from a user, will be free from
+unauthorized access. By using our Apps or Websites and corresponding with us,
+you acknowledge that you understand and agree to assume these risks.<o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-bottom:11.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><span style="font-size:11.0pt;font-family:Arial">You
+are responsible for maintaining the strict confidentiality of your account
+passcode, membership numbers and pin numbers, and you will be responsible for
+any access to or use of our Websites by you or any person or entity using a passcode
+provided to you, whether or not such access or use has been authorized by or on
+behalf of you, and whether or not such person or entity is your employee,
+relative or agent. In the event of the unauthorized use of your passcode,
+account, or membership number, or any other breach of security involving your
+information as it pertains to Silvercar, you agree to immediately notify us. It
+is your sole responsibility to ensure that you exit from your account at the
+end of each session, control the dissemination and use of your passcode,
+control access to and use of your account and membership number, and notify us
+when you desire to cancel your account on our Websites. We will not be
+responsible or liable for any loss or damage arising from your failure to comply
+with this provision.<o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-bottom:11.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><span style="font-size:11.0pt;font-family:Arial">In
+addition, some PII will be stored on your mobile device if you choose to use
+our App.<span style="mso-spacerun:yes">&nbsp; </span>In this case, you are
+solely responsible for protecting the security and integrity of all such PII,
+and we are not responsible for any disclosure of PII or for any use of your
+account that someone may make using the App on your mobile device, even if such
+use is not authorized by you.<o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-bottom:11.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><span style="font-size:11.0pt;font-family:Arial">It
+is our policy that we will never request your sensitive PII, such as your
+credit card number, passcode, membership number or pin number, in an e-mail,
+text or on a website that is not located at the domain name used by Silvercar
+or an affiliate. If you receive an e-mail or other correspondence requesting
+that you provide any such information via e-mail or to a website that is not on
+such domain name, please do not provide such information, and report such
+request to our privacy officer at </span><a href="mailto:privacy@silvercar.com"><span style="font-size:11.0pt;font-family:Arial">privacy@silvercar.com</span></a><span style="font-size:11.0pt;font-family:Arial">.<o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-bottom:11.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><span style="font-size:11.0pt;font-family:Arial">In
+the unlikely event that we believe that the security of your PII in our
+possession or control may have been compromised, we may seek to notify you of
+that development. If a notification is appropriate, we will endeavor to do so
+as promptly as possible under the circumstances, and, to the extent we have
+your current e-mail address, we may notify you by e-mail.<o:p></o:p></span></p>
+
+<p class="MsoNormal" style="mso-pagination:none;mso-layout-grid-align:none;
+text-autospace:none"><b><span style="font-size:11.0pt;font-family:Arial"><o:p>&nbsp;</o:p></span></b></p>
+
+<p class="MsoNormal" style="margin-bottom:11.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><b><span style="font-size:11.0pt;font-family:Arial">How
+to Correct or Update Personally Identifiable Information that Silvercar
+Maintain</span></b><span style="font-size:11.0pt;font-family:Arial"><o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-bottom:11.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><span style="font-size:11.0pt;font-family:Arial">If
+you have provided your PII to us, you can update the PII we hold about you. You
+play an active role in assisting Silvercar maintain the accuracy of your PII.
+Your prompt notification to us of any changes to your PII will assist us
+greatly in keeping your information accurate and up-to-date. If we don't agree
+to make the changes, you may challenge our decision.<o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-bottom:11.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><span style="font-size:11.0pt;font-family:Arial">If
+you wish to contact us to access or correct your PII we have, or to inquire or
+provide feedback about our privacy practices, you can email us directly at privacy@silvercar.com<u style="text-underline:#0000E9">.</u><o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-bottom:11.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><span style="font-size:11.0pt;font-family:Arial">We
+will respond to any access requests within 30 days of our receipt of the request.<o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-bottom:11.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><span style="font-size:11.0pt;font-family:Arial">For
+customer service issues, please email us at support@silvercar.com.<o:p></o:p></span></p>
+
+<p class="MsoNormal" style="mso-pagination:none;mso-layout-grid-align:none;
+text-autospace:none"><b><span style="font-size:11.0pt;font-family:Arial"><o:p>&nbsp;</o:p></span></b></p>
+
+<p class="MsoNormal" style="margin-bottom:11.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><b><span style="font-size:11.0pt;font-family:Arial">How
+to Opt-Out of Receiving Marketing Materials from Silvercar</span></b><span style="font-size:11.0pt;font-family:Arial"><o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-bottom:11.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><span style="font-size:11.0pt;font-family:Arial">You
+can opt-out of our use and disclosure of your PII for marketing purposes and
+customer satisfaction surveys, and/or withdraw your prior consent for same, by
+the methods provided below. Upon requesting an opt out, your consent will be
+withdrawn, however, please note that it often takes some time to process these
+requests. Therefore, it is possible that you may receive promotions scheduled
+prior to our receipt of your withdrawal of consent.<o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-bottom:11.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><span style="font-size:11.0pt;font-family:Arial">To
+opt-out of Email Campaigns: You may reply to a promotional or marketing e-mail
+that you have received from us with the word "Unsubscribe" in the
+subject line or you can email us directly at unsubscribe@silvercar.com. (If you
+use more than one e-mail address, then send your opt-out e-mail from each of
+your e-mail addresses.)<o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-bottom:11.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><span style="font-size:11.0pt;font-family:Arial">To
+opt-out of any other promotional mailings from Silvercar and our partners: you
+may notify us at support@silvercar.com.<o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-bottom:11.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><span style="font-size:11.0pt;font-family:Arial">For
+customer service issues, please email us at support@silvercar.com.<o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-bottom:11.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><span style="font-size:11.0pt;font-family:Arial">We
+may also provide additional methods for you to opt-out of having your PII used
+or disclosed for promotional and marketing purposes, such as by clicking on a
+checkbox located on the page of our Websites on which your PII is collected, or
+otherwise made available when you make reservations.<o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-bottom:11.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><span style="font-size:11.0pt;font-family:Arial">Please
+note that your option not to receive promotional and marketing material: (a)
+will not preclude us from corresponding with you, by e-mail or otherwise,
+regarding your preexisting business relationship with us (e.g., your account
+status and activity or our responses to questions or inquiries you pose to us,
+or confirmations for existing reservations); (b) will not preclude us,
+including our employees, contractors, agents and other representatives, from
+accessing and viewing your PII for our internal business purposes; and (c) will
+not preclude us from disclosing your PII as described in this Privacy Notice
+for purposes other than sending you promotional and marketing materials.<o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-bottom:11.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><b><span style="font-size:11.0pt;font-family:Arial">Children's
+Privacy</span></b><span style="font-size:11.0pt;font-family:Arial"><o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-bottom:11.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><span style="font-size:11.0pt;font-family:Arial">Our
+Websites are not directed to children under the age of 18. If you are under the
+age of 18, then please stop using our Websites or our products and services and
+do not provide us with PII of any kind whatsoever.<o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-bottom:11.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><span style="font-size:11.0pt;font-family:Arial">It
+is our policy not to knowingly solicit children under the age of 18 for PII or
+otherwise contact children for any purpose. Further, it is Silvercar's policy
+to not knowingly allow children under the age of 18 to use our Websites or our
+products and services. It is our policy to not knowingly exchange with any
+third party the PII of children under the age of 18.<o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-bottom:11.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><span style="font-size:11.0pt;font-family:Arial">We
+encourage parents and guardians to take an active role in monitoring their
+children's use of the Internet. It is possible that by fraud or deception, we
+may receive the PII of children under the age of 18. If we are notified or
+otherwise become aware of this, we will immediately delete the PII from our
+servers. If you want to notify us of our receipt of PII by children under the
+age of 18, please contact our privacy officer at privacy@silvercar.com.<o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-bottom:11.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><span style="font-size:11.0pt;font-family:Arial">Some
+links on our Websites may possibly lead to the websites of third-parties that
+are directed to children. Silvercar does not control these third parties and is
+not responsible for the actions of our third party business partners. We
+encourage you to check their terms of use and privacy policies for such
+information that address children's privacy.<o:p></o:p></span></p>
+
+<p class="MsoNormal" style="mso-pagination:none;mso-layout-grid-align:none;
+text-autospace:none"><b><span style="font-size:11.0pt;font-family:Arial"><o:p>&nbsp;</o:p></span></b></p>
+
+<p class="MsoNormal" style="margin-bottom:11.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><b><span style="font-size:11.0pt;font-family:Arial">Applicable
+Law and Jurisdiction</span></b><span style="font-size:11.0pt;font-family:Arial"><o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-bottom:11.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><span style="font-size:11.0pt;font-family:Arial">This
+Privacy Notice will be governed by the laws of the State of Texas, without
+regard to its conflict of law principals. By providing any PII to us, you fully
+understand and unambiguously consent to the transfer of such PII to, and the
+collection and processing of such PII in, the United States and other countries
+or territories. You agree that any cause of action that may arise under this
+Privacy Notice will be commenced and be heard in the appropriate court in Travis
+County in the State of Texas. You agree to submit to the personal and exclusive
+jurisdiction and exclusive venue of the courts located within Travis County in
+the State of Texas or the United States District Court for the Western District
+of Texas.<o:p></o:p></span></p>
+
+<p class="MsoNormal" style="mso-pagination:none;mso-layout-grid-align:none;
+text-autospace:none"><b><span style="font-size:11.0pt;font-family:Arial"><o:p>&nbsp;</o:p></span></b></p>
+
+<p class="MsoNormal" style="margin-bottom:11.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><b><span style="font-size:11.0pt;font-family:Arial">Changes
+to this Privacy Notice</span></b><span style="font-size:11.0pt;font-family:
+Arial"><o:p></o:p></span></p>
+
+<p class="MsoNormal" style="margin-bottom:11.0pt;mso-pagination:none;mso-layout-grid-align:
+none;text-autospace:none"><span style="font-size:11.0pt;font-family:Arial">This
+Privacy Notice applies to all information we collect or receive, on or after the
+effective date of this Privacy Notice, from individuals who provide us with
+such information for the purpose of obtaining products and services from Silvercar
+or using our Apps or Websites.<o:p></o:p></span></p>
+
+<p class="MsoNormal"><span style="font-size:11.0pt;font-family:Arial">We reserve
+the right, at our discretion, to change, modify, add, or remove portions from
+this Privacy Notice. <b>If we materially change the way your personal
+        information will be used, we notify you by way of either prominent posting on
+        our Website(s), e-mail and/or mail. We encourage you to periodically review
+        this Privacy Notice in order to keep apprised of any changes.</b></span></p>
+
+</div>
 
-<html><head></head><body><p xmlns="http://www.w3.org/1999/html">This is the United States privacy notice ("Privacy Notice") of Silvercar, Inc. ("Silvercar," "we," "us," or "our").</p>
 
-<p>We at Silvercar recognize the importance of protecting your personally identifiable information. To demonstrate our commitment to maintaining the privacy of your personally identifiable information, we have created this Privacy Notice to disclose our privacy practices for the personally identifiable information that we collect and receive through use of our products and services either offline or online. Our online operations include all websites(collectively, the "Websites") and applications (defined below as “Apps”) of Silvercar.</p>
 
-<p>By submitting your personally identifiable information to us, you consent to Silvercar's use and disclosure of your personally identifiable information as set forth in this Privacy Notice. Your use and/or continued use of Silvercar products, services and websites signifies your consent that your information may be transferred to or stored on servers and processed outside the country of your residence. Provided the data protection laws of these other countries differ from those in the United States, please be assured that we take reasonable steps to ensure that your privacy is protected. If you do not agree with the terms of this Privacy Notice, please do not submit any information to Silvercar either offline or through our Apps or Websites.</p>
 
-<h3>Purpose of this Privacy Notice</h3>
 
-<p>We recognize the importance of protecting your personally identifiable information (which includes your name, address, telephone number, date of birth, e-mail address, credit or debit card information, drivers license number, and other contact information,) that you provide to Silvercar (collectively, "PII"). The purpose of this Privacy Notice is to tell you how Silvercar strives to better serve you by keeping you informed of promotions, products and services, while, at the same time, safeguarding your PII. This Privacy Notice sets forth our policies regarding the collection, use and disclosure of your PII both through our online and offline operations. This Privacy Notice also explains how you can correct or change the PII we hold about you, or opt-out of receiving certain marketing materials.</p>
 
-<h3>Who is Covered under this Privacy Notice</h3>
-
-<p>This Privacy Notice is applicable to PII that you provide to Silvercar. This Privacy Notice applies to all of the products, services, Apps and Websites offered by Silvercar or its subsidiaries or affiliated companies.</p>
-
-<h3>What Personally Identifiable Information Silvercar Collects</h3>
-
-<p>You generally are not required to provide us with PII when visiting our Websites. However, when you create an account, make a reservation, rent a vehicle, and/or join one of our programs, we need to collect certain information about you to provide or improve our services. The service that you choose will determine what information we collect from you. Here are some examples of information we collect from you:</p>
-<ol>
-    <li>Name</li>
-    <li>Email Address</li>
-    <li>Home and/or Business Address</li>
-    <li>Telephone Numbers at which we can contact you</li>
-    <li>Date of Birth</li>
-    <li>Payment Information (i.e. debit or credit card and expiration date)</li>
-    <li>Information from your Driver's License or other Government issued identification (e.g., Passport)</li>
-</ol>
-
-<p>When you rent a vehicle, we will also record non-personally identifiable information about your rental (e.g. where you rented the vehicle, where and when you returned the vehicle, payment arrangements, insurance preferences, gas consumption, mileage and other information related to the vehicle). This information is necessary in order to administer your rental reservation and/or process your transaction.</p>
-
-<p>We may also need certain information from you when you request any of the following services or equipment: Special Needs/Optional Equipment; Special Offers/Discounts; Partner Member Numbers; use of a corporate or other discount number and other vehicle preferences. For example, if you wish to use a discount that Silvercar provides to members of an association/affiliate to which you belong, we may collect information about your membership to verify and provide you with the correct discount for our services.</p>
-
-<h3>How Silvercar Collects Personally Identifiable Information</h3>
-
-<p>The PII we collect from you will be with your express or implied consent. How we collect this information will depend on how you use our services. We may collect this information directly from you by telephone, fax, postal mail, email, at the customer suite, upon completion of an application or enrollment form, or through your use of our Websites, mobile applications (“Apps”) or the Internet. To the extent you use our Websites or Apps, we may also collect information about your use of our Websites and Apps, transactional and account information, e-mail and other information related to communications to our Websites or through our Apps. We may also collect information about you indirectly through a travel agent, an account program in which you or your employer participates or through one of our partner programs when you deal with us through those means. Additionally, our affiliates and third parties may provide us with information about you.</p>
-
-<p>You may choose not to provide some of your PII to us, but this may prevent us from providing our services to you, or limit our ability to provide you with the level of service that you would otherwise expect from us.</p>
-
-<p>Silvercar vehicles may be equipped with a device that allows Silvercar to use a global positioning satellite to track, locate and/or disable the vehicle and to provide such information and capability to law enforcement agencies at any time and especially if you fail to return the vehicle when and where required under your rental agreement with Silvercar or otherwise violate any provision of the rental agreement.</p>
-
-<h3>How Personally Identifiable Information is Used and Disclosed by Silvercar</h3>
-
-<i>Usage</i>
-
-<p>We strive to ensure that we give you a stress-free rental experience and are dedicated to building a rewarding and lasting relationship with every customer. To provide the level of service we believe you expect from us, we may use your PII for the following purposes:</p>
-<ol>
-    <li>Provide and administer the services that you request, and communicate with you regarding such services and offerings;</li>
-    <li>Research, develop, manage, protect and improve our Websites and services;</li>
-    <li>Maintain and develop our service-oriented software and other business systems; and</li>
-    <li>Analyze data, or to have a third party do so on our behalf.</li>
-</ol>
-
-<p>We may also use your information - both PII and non-personally identifiable information - for other purposes. For example, PII may be needed to process and track your transactions or to send you information about our affiliates' and business partners' products and services and other information and materials that may be of interest to you. If you use our Websites, we may also use your information to evaluate what portions of our Websites are visited more often than others, determine where visitors came from, where they go, and how long they stay on a particular page, or on our Websites in general.</p>
-
-<p>From time to time, we also may combine your PII with information obtained from other sources, including third parties, in order to provide you with more customized services and product offerings. To do this, it is often necessary to share your information with trusted vendors and business partners, such as companies that manage accounts, offer affinity, frequent-user, and reward programs, and companies that perform marketing services and other business operations for us. For more information, see below under "Disclosing."</p>
-
-<i>Disclosing<i>
-
-<p>We may disclose your PII to affiliated and non-affiliated organizations including, for example:</p>
-<ol>
-   <li> To your company or organization if you use our services under a corporate or other commercial account;</li>
-    <li>To one of our program partners (e.g. if you are a member of an affiliate program, such as a relocation company or frequent traveler program and you have asked us to send details of your rental agreement with us to obtain your benefits from that program);</li>
-    <li>To entities that provide services on our behalf;</li>
-    <li>To any intermediary you use, such as a travel agent, broker or booking engine, in relation to any aspect of your rental;</li>
-    <li>To independent licensees for use in providing the services and offerings which you have requested and to communicate with you regarding such services and offerings;</li>
-    <li>To your credit card issuer;</li>
-    <li>To credit reporting and fraud checking agencies;</li>
-    <li>To debt collection agencies, if you fail to pay monies owed to us;</li>
-    <li>To government or private organizations responsible for the processing or handling of traffic or parking related violations;</li>
-    <li>To driver licensing authorities, directly or through intermediary organizations, when needed to verify compliance with Silvercar's safe driver criteria for qualified drivers and/or to verify license information; and</li>
-    <li>To government, regulatory and law enforcement agencies where the disclosure is required or authorized by law, and otherwise as we believe is necessary or appropriate to satisfy any law, regulation or other governmental request, to operate our Websites and Apps properly, or to protect or defend our rights or the rights or well-being of our employees, users or others or if you are involved (or are suspected by governmental authorities or our security functions to be involved) in any illegal activity, even without a subpoena, warrant or court order.</li>
-</ol>
-
-<p>We may disclose your PII to our affiliates and non-affiliated business partners for their use both on our behalf and for their own business purposes. For example, our affiliates and business partners may use such PII to send you information about their products and services and other information and materials that may be of interest to you. You may <a href="/">opt-out</a> of us disclosing your PII for these purposes through one of the methods described in this Privacy Notice.</p>
-
-<p>We may share your PII with other non-affiliated third parties, such as entities that provide services for our Websites or for our business (e.g., advertisers, ad servers, content providers, services providers, credit card processors, data processors, website development and support, fulfillment services providers, e-mail list hosting companies and distribution companies) that use such PII on our behalf consistent with this Privacy Notice. These types of third parties are not permitted to use your PII for any secondary purposes.</p>
-
-<p>We may also transfer or assign your PII to third parties as a result of or in connection with a sale, merger, consolidation, change in control, transfer of assets, reorganization, or liquidation.</p>
-
-<p>We may need to send your PII overseas as part of our normal business operations. Provided the data protection laws of these other countries differ from those in the United States, please be assured that we take reasonable steps to ensure that your privacy is protected.</p>
-
-<h3>Website and Internet Privacy</h3>
-
-<p>If you use our Apps or Websites or otherwise interact with us via the Internet, the following privacy-related policies also apply:</p>
-
-<h3>Website Tracking and the Use of Cookies and Other Technologies</h3>
-
-<p>If you use our Websites, certain information may be collected from your computer in the course of your use of our Websites. As with many websites, we may use both session based and persistent "cookies" and/or other technology (e.g., web bugs, e-mail bugs, clear GIFs, web beacons, tracker GIFs and "clickstream" data logs) in our Websites or in our electronic communications with you to enhance the functionality of our Websites and services. These technologies also make your transactions and other activities more convenient and efficient.</p>
-
-<i>Cookies</i>
-
-<p>"Cookies" are small amounts of data that a website can send to your web browser and store on your computer. It is our policy not to save sensitive data, such as passwords or credit card information in cookies.</p>
-
- <p>Most web browsers are initially set up to accept cookies. You have the option of disabling or refusing cookies at any time in your browser preferences. However, note that some parts of our Websites will not function properly or may be considerably slower if you refuse cookies. For example, without cookies, you will not be able to set personalized preferences, and/or may have difficulty completing transactions.</p>
-
-<p>The use of cookies is an industry standard, and as such, you will find that most major websites use them. Silvercar and Silvercar's affiliates have two (2) primary uses for cookies. First, we use them to specify a user's preferences. For example, we use cookies to store information about your travel preferences or rental history so you don't have to tell us repeatedly your preferences. Second, we use cookies to track Website usage trends and patterns. This helps us understand our users' needs better and improve areas of our Websites.</p>
-
-<i>IP Addresses</i>
-
-<p>An IP address is a unique number that is automatically assigned to your computer whenever you are surfing the Internet so that your computer can be identified on the Internet. This allows us to gather useful information and data about our customers' use of the site.</p>
-
-<p>Silvercar collects IP addresses for the purposes of: helping us diagnose problems with our main computers, for system administration, to report aggregated information to our business partners, and to audit the use of our Website. When users request Web pages from our Web Site, our Web servers log the User's IP address. We do not normally link IP addresses to anything personally identifiable, which means that a user's session will be logged, but the user will remain anonymous to us. For example, we collect and/or track the home server domain name, the type of computer, and the type of Web browser used by you to access this Web Site. Such collection and tracking information is gathered by us as you navigate through our Websites, and will be used by us for our business purposes only.</p>
-
-<p>In select instances, we may use IP addresses to help us identify you when we feel it is necessary to enforce compliance with our Website <a href="/agreements/terms_and_conditions">Terms of Use</a> or to protect our service, site, users or others.</p>
-
-<i>Third Party Use of Technology</i>
-
-<p>Third parties (including, but not limited to, software vendors, advertisers, ad servers, content providers, and services providers) may also use similar technologies by or through our Apps or Websites or through their own websites. In connection therewith, such entities may collect information about you and your usage activity on this and other websites. Silvercar does not control these third parties and is not responsible for the actions of our third party business partners. We encourage you to check their terms of use and privacy policies for such information.</p>
-
-<p>We may use third-party servicing technology and service providers to serve ads on our behalf across the Internet and sometimes on our Apps or Websites. They may collect non-personally identifiable information about your visits to our Websites, and your interaction with our products and services. They may also use non-personally identifiable information about your visits to send you targeted advertisements for goods and services. This information is collected through the use of a pixel tag, or similar technology which is industry standard technology used by most major websites. If you would like more information about this practice and to know your choices about not having this non-personally identifiable information used, please visit <a href="http://www.networkadvertising.org/managing/opt_out.asp">http://www.networkadvertising.org/managing/opt_out.asp</a>.</p>
-
-<p>We may also share Website usage information about visitors to our Websites with selected third parties for the purpose of targeting our Internet banner advertisements on our Websites and other websites. To do this, we use web beacons and cookies provided by our third-party ad server on our Site. In connection therewith, such third parties may have access to and use non-personalized information about your online usage activity. The use of advertising cookies and web beacons sent by such third-party Web servers is standard for commercial activity in the Internet industry.</p>
-
-<i>Web Beacons</i>
-
-<p>Web pages may contain an electronic file called a web beacon that allows a website to count users who have visited that page or to access certain cookies.</p>
-
-<h3>Visiting Third-Party Websites</h3>
-
-<p>Our Websites may contain links or references to third party websites. These websites are outside of our control, and the privacy policies of these sites may differ from our own. Please be aware that we have no control over these third-party websites and our Privacy Notice does not apply to such websites. We encourage you to check the terms of use and privacy policies of such sites before disclosing any PII via such sites.</p>
-
-<p>Occasionally when linking to a third-party website from our Websites, you may still see Silvercar affiliate logo or a Silvercar affiliate website frame. This is to provide you with a seamless experience when visiting our Websites. In these cases, you are no longer on our Websites but the third-party website, and therefore the information collection practices of the third party's website may differ from Silvercar's. The privacy notice of the third party site will govern how information collected from you is used by the owner of the website. You can always know what website you are on by checking the Uniform Resource Locator (URL) in the location bar within your browser.</p>
-
-<h3>Linking your Silvercar Accounts to Your Social Profiles</h3>
-
-<i>Social Authentication</i>
-
-<p>In order to provide you with more personalized services, we may give you the option of linking your social profiles with your Silvercar accounts on our Apps or Websites.  Some of our Websites may allow you to link social profiles from Facebook, Twitter, LinkedIn, Google and Windows Live. We may add or remove the availability of any or all platforms at any time in our sole discretion. This functionality is entirely optional for all users and you may link or unlink your account(s) at any time.</p>
-
-<i>What Information is Collected from Your Social Profiles and What It's Used for</i>
-
-<p>If you exercise the option to link your social profile to any of our Apps or Websites, we may collect PII and additional information from your social profiles, which will be used by Silvercar and agents acting on our behalf to customize your Silvercar customer experience. Some examples of the type of information we may collect from these social profiles include:</p>
-<ol>
-    <li>Profile picture, gender, marital status, birthday, list of friends (but not the information on your friends' social profiles unless they have also linked their profiles)</li>
-    <li>Professional Information such as prior and current work history</li>
-    <li>Personal Likes, Activities and Interest Information</li>
-    <li>The information we collect may be used to:</li>
-    <li>Serve you customized offers and deals on our Websites</li>
-    <li>Send you email offers with special deals and discounts</li>
-    <li>Send you offers by mobile phone text messages</li>
-    <li>Update your profile information on our Websites</li>
-    <li>Publish check-in and check-out information to your linked social media accounts</li>
-    <li>Share your upcoming trips with friends</li>
-    <li>View your friends' that have linked their profiles upcoming trips</li>
-</ol>
-
-<i>Unlinking Your Accounts</i>
-
-<p>You may unlink your social profiles at any time. In order to unlink your profiles, you must log into each Silvercar account that has been linked and then select "Unlink" next to the social media channel you wish to unlink.</p>
-
-<i>Social Sharing</i>
-
-<p>In an effort to provide our customers with new ways of sharing content, we may enable some of our online content to be shared on social websites through hosted sharing links and icons. Users who share content and links through their social media profiles should be aware that all activities of this nature are public.</p>
-
-<p>Please note, when you share (with or without adding your own comments) any of our content on your social media profile, that action is governed by the privacy notice of that social media platform, and not Silvercar's Privacy Notice. We do not track or store a record of those comments or actions.</p>
-
-<p>If you choose to participate in posting or sharing activities, you are electing to share and display such public activities via our Apps or Websites. Due to the public nature of your posting or sharing your posts may be included in RSS feeds, APIs and made available to other websites via other formats. As a result, your public activities may appear on third-party websites, blogs or feeds. <b>WE ARE NOT RESPONSIBLE FOR ANY PII YOU CHOOSE MAKE PUBLIC VIA YOUR SHARED POSTS</b>.</p>
-
-<h3>How We Protect the Security of Personally Identifiable Information</h3>
-
-<p>The security of your PII is important to us. We exercise reasonable care in implementing generally accepted standards of security to protect your PII from loss, misuse and unauthorized access, disclosure, alteration or destruction, such as firewalls and Secure Socket Layer (SSL) encryption for some of your more sensitive PII. It is our policy to retain PII for as long as we believe appropriate for the purposes for which the PII was collected or as required by applicable law.</p>
-
-<p>Unfortunately, "perfect security" does not exist on the Internet, and no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your PII, we cannot guarantee that PII stored on our servers, or transmitted to or from a user, will be free from unauthorized access. By using our Apps or Websites and corresponding with us, you acknowledge that you understand and agree to assume these risks.</p>
-
-<p>You are responsible for maintaining the strict confidentiality of your account passcode, membership numbers and pin numbers, and you will be responsible for any access to or use of our Websites by you or any person or entity using a passcode provided to you, whether or not such access or use has been authorized by or on behalf of you, and whether or not such person or entity is your employee, relative or agent. In the event of the unauthorized use of your passcode, account, or membership number, or any other breach of security involving your information as it pertains to Silvercar, you agree to immediately notify us. It is your sole responsibility to ensure that you exit from your account at the end of each session, control the dissemination and use of your passcode, control access to and use of your account and membership number, and notify us when you desire to cancel your account on our Websites. We will not be responsible or liable for any loss or damage arising from your failure to comply with this provision.</p>
-
-<p>In addition, some PII will be stored on your mobile device if you choose to use our App.  In this case, you are solely responsible for protecting the security and integrity of all such PII, and we are not responsible for any disclosure of PII or for any use of your account that someone may make using the App on your mobile device, even if such use is not authorized by you.</p>
-
-<p>It is our policy that we will never request your sensitive PII, such as your credit card number, passcode, membership number or pin number, in an e-mail, text or on a website that is not located at the domain name used by Silvercar or an affiliate. If you receive an e-mail or other correspondence requesting that you provide any such information via e-mail or to a website that is not on such domain name, please do not provide such information, and report such request to our privacy officer at <a href="mailto:privacy@silvercar.com">privacy@silvercar.com</a>.</p>
-
-<p>In the unlikely event that we believe that the security of your PII in our possession or control may have been compromised, we may seek to notify you of that development. If a notification is appropriate, we will endeavor to do so as promptly as possible under the circumstances, and, to the extent we have your current e-mail address, we may notify you by e-mail.</p>
-
-<h3>How to Correct or Update Personally Identifiable Information that Silvercar Maintain</h3>
-
-<p>If you have provided your PII to us, you can update the PII we hold about you. You play an active role in assisting Silvercar maintain the accuracy of your PII. Your prompt notification to us of any changes to your PII will assist us greatly in keeping your information accurate and up-to-date. If we don't agree to make the changes, you may challenge our decision.</p>
-
-<p>If you wish to contact us to access or correct your PII we have, or to inquire or provide feedback about our privacy practices, you can email us directly at <a href="mailto:privacy@silvercar.com">privacy@silvercar.com</a>.</p>
-
-<p>We will respond to any access requests within 30 days of our receipt of the request.</p>
-
-<p>For customer service issues, please email us at <a href="mailto:support@silvercar.com">support@silvercar.com</a>.</p>
-
-<h3>How to Opt-Out of Receiving Marketing Materials from Silvercar</h3>
-
-<p>You can opt-out of our use and disclosure of your PII for marketing purposes and customer satisfaction surveys, and/or withdraw your prior consent for same, by the methods provided below. Upon requesting an opt out, your consent will be withdrawn, however, please note that it often takes some time to process these requests. Therefore, it is possible that you may receive promotions scheduled prior to our receipt of your withdrawal of consent.</p>
-
-<p>To opt-out of Email Campaigns: You may reply to a promotional or marketing e-mail that you have received from us with the word "Unsubscribe" in the subject line or you can email us directly at <a href="mailto:unsubscribe@silvercar.com">unsubscribe@silvercar.com</a>. (If you use more than one e-mail address, then send your opt-out e-mail from each of your e-mail addresses.)</p>
-
-<p>To opt-out of any other promotional mailings from Silvercar and our partners: you may notify us at <a href="mailto:support@silvercar.com">support@silvercar.com</a>.</p>
-
-<p>For customer service issues, please email us at <a href="mailto:support@silvercar.com">support@silvercar.com</a>.</p>
-
-<p>We may also provide additional methods for you to opt-out of having your PII used or disclosed for promotional and marketing purposes, such as by clicking on a checkbox located on the page of our Websites on which your PII is collected, or otherwise made available when you make reservations.</p>
-
-<p>Please note that your option not to receive promotional and marketing material: (a) will not preclude us from corresponding with you, by e-mail or otherwise, regarding your preexisting business relationship with us (e.g., your account status and activity or our responses to questions or inquiries you pose to us, or confirmations for existing reservations); (b) will not preclude us, including our employees, contractors, agents and other representatives, from accessing and viewing your PII for our internal business purposes; and (c) will not preclude us from disclosing your PII as described in this Privacy Notice for purposes other than sending you promotional and marketing materials.</p>
-
-<h3>Children's Privacy</h3>
-
-<p>Our Websites are not directed to children under the age of 18. If you are under the age of 18, then please stop using our Websites or our products and services and do not provide us with PII of any kind whatsoever.</p>
-
-<p>It is our policy not to knowingly solicit children under the age of 18 for PII or otherwise contact children for any purpose. Further, it is Silvercar's policy to not knowingly allow children under the age of 18 to use our Websites or our products and services. It is our policy to not knowingly exchange with any third party the PII of children under the age of 18.</p>
-
-<p>We encourage parents and guardians to take an active role in monitoring their children's use of the Internet. It is possible that by fraud or deception, we may receive the PII of children under the age of 18. If we are notified or otherwise become aware of this, we will immediately delete the PII from our servers. If you want to notify us of our receipt of PII by children under the age of 18, please contact our privacy officer at <a her="mailto:privacy@silvercar.com">privacy@silvercar.com</a>.</p>
-
-<p>Some links on our Websites may possibly lead to the websites of third-parties that are directed to children. Silvercar does not control these third parties and is not responsible for the actions of our third party business partners. We encourage you to check their terms of use and privacy policies for such information that address children's privacy.</p>
-
-<h3>Applicable Law and Jurisdiction</h3>
-
-<p>This Privacy Notice will be governed by the laws of the State of Texas, without regard to its conflict of law principals. By providing any PII to us, you fully understand and unambiguously consent to the transfer of such PII to, and the collection and processing of such PII in, the United States and other countries or territories. You agree that any cause of action that may arise under this Privacy Notice will be commenced and be heard in the appropriate court in Travis County in the State of Texas. You agree to submit to the personal and exclusive jurisdiction and exclusive venue of the courts located within Travis County in the State of Texas or the United States District Court for the Western District of Texas.</p>
-
-<h3>Changes to this Privacy Notice</h3>
-
-<p>This Privacy Notice applies to all information we collect or receive, on or after the effective date of this Privacy Notice, from individuals who provide us with such information for the purpose of obtaining products and services from Silvercar or using our Apps or Websites.</p>
-
-<p>We reserve the right, at our discretion, to change, modify, add, or remove portions from this Privacy Notice. <b>If we materially change the way your personal information will be used, we notify you by way of either prominent posting on our Website(s), e-mail and/or mail. We encourage you to periodically review this Privacy Notice in order to keep apprised of any changes</b>.</p>
 
 
 <div class="copyright_notice">
     <div class="copyright">
         <center>© 2014 Silvercar. All rights Reserved</center>
     </div>
-</div></i></i></body></html>
+</div><script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
