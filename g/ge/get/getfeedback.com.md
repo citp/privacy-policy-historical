@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the getfeedback.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214165539id_/https%3A//www.getfeedback.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getfeedback.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704035240id_/https%3A//www.getfeedback.com/privacy) for the most accurate reproduction.*
 
-# GetFeedback - Online Surveys, Like Never Before.
+# GetFeedback - Online Survey Software, Re-Imagined.
 
 ## Privacy Policy
 
