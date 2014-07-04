@@ -1,11 +1,23 @@
-> *The following text is extracted and transformed from the umpquabank.com privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529201301id_/http%3A//umpquabank.com/pages/aPrivacy_policy.aspx%3FprodCAT%3DaPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the umpquabank.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704140037id_/https%3A//www.umpquabank.com/ask-us/privacy-policy) for the most accurate reproduction.*
 
-# Umpqua LIFE - Ask Me - Privacy Policy
+# Umpqua Bank -- your privacy policy
 
-Your personal information is your personal information. That means you have the right to choose how we share and use certain personal information about you. 
+Your privacy always comes first. Learn about how we use and protect your information. 
 
-Click on the link below to learn more about our Privacy Policy. 
+Your personal information is your personal information. That means you have the right to choose how we share and use certain personal information about you.
 
-[ ](https://web.archive.org/web/20140401203735id_/http://www.umpquabank.com/1.0/docs/Privacy%20Policy%20201309%20FINAL.pdf)
+Click on the link below to learn more about our Privacy Policy.
 
-[ ](https://web.archive.org/web/20140401203735id_/http://www.umpquabank.com/1.0/docs/Privacy%20Policy%20201309%20FINAL.pdf)
+##  not sure it's legit? 
+
+Double check the authenticity of an email you've received from us. Call 1-866-4UMPQUA. 
+
+## Log in to online banking
+
+(Both Umpqua and former   
+Sterling/Argent customers:   
+Find your account below) 
+
+Select Account
+
+Company ID Login ID
