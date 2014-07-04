@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bsnlteleservices.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214090540id_/http%3A//www.bsnlteleservices.com/p/blog-page_6.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bsnlteleservices.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704151153id_/http%3A//www.bsnlteleservices.com/p/blog-page_6.html) for the most accurate reproduction.*
 
-# Privacy Policy | BSNL TeleServices
+# Privacy Policy | BSNL TeleServices | New Broadband Plans | Mobile Plans | Telecom Courses
 
   
 
