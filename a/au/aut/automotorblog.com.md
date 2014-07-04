@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the automotorblog.com privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215145838id_/http%3A//www.automotorblog.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the automotorblog.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704203618id_/http%3A//www.automotorblog.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Automotorblog.com
 
@@ -19,8 +19,7 @@ www.automotorblog.com does use cookies to store information about visitors prefe
 
 
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ...  
-Google Adsense   
-Infolinks
+Google Adsense
 
 These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.automotorblog.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
