@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the redbrickhealth.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331192154id_/https%3A//home.redbrickhealth.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redbrickhealth.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704174346id_/https%3A//home.redbrickhealth.com/privacy) for the most accurate reproduction.*
 
 # RedBrick Health – Privacy Policy
 
 Privacy Policy
 
-##### Last updated: 19 February 2014
+##### Last updated: 21 May 2014
+
+[](https://privacy.truste.com/privacy-seal/RedBrick-Health-Corporation/validation?rid=42782b6c-e245-4860-affe-7eb6ac294d3e "TRUSTe European Safe Harbor certification")
 
 This is RedBrick Health Corporation’s Privacy Policy. It applies to anyone who uses our Services either online (via www.redbrickhealth.com), in person, over the phone or via hard copy documents. Please read this Privacy Policy, which among other things, describes how RedBrick Health Corporation (“we,” “our” or “us”) collects, uses, protects and under what circumstances discloses your information. 
 
@@ -142,7 +144,11 @@ You can see an up-to-date list of all of our Sync Partners on our web portal. Up
 
 Our Sync Partners are not provided any data held by RedBrick. Redbrick also has no control over the agreement you sign when you sign up for their services. Each of these Sync Partners has their own Privacy Policies and their own Terms of Service. You need to review their documents for how they handle your information. 
 
-**5\. Do We Share Information We Have About You?**
+**5\. Where will we keep your data?**
+
+Your data will be kept in the United States in one of our data centers.
+
+**6\. Do We Share Information We Have About You?**
 
 Yes. We will disclose information we have about you in order to provide you with our Services. We will share your personal information with third parties only in the ways that are described in this privacy policy. Disclosures will only be made to entities that are legally entitled to the data and are contractually committed to protect the data in accordance with all regulatory and contractual requirements. 
 
@@ -174,23 +180,23 @@ Sharing of information in any of these above cases will only be done when in ful
 
 Treatment means the provision, coordination or management of health care and related services, consultation between providers relating to an individual or the referral of an individual to another provider for health care. Payment means activities undertaken to obtain or provide reimbursement for health care, including determinations of eligibility of coverage, billing, collection activities, medical necessity determinations and utilization review. Health Care Operations include functions such as quality assessment and improvement activities, conducting or arranging for medical review, legal services and auditing functions, general business and administrative activities. 
 
-**6\. Do I Have Choices Related To My Personal Data?**
+**7\. Do I Have Choices Related To My Personal Data?**
 
 You have the ability to “Opt Out” of communications from us or our partners if you wish, by changing your communication preferences under your “Profile,” but this will limit our ability to support you when or if you have questions. It will also limit our ability to provide you with important updates from us, and potentially your Sponsor, about changes or deadlines in your programs. 
 
 You may also tell us you do not want your data shared with us or our partners, and we will honor any such request, but if you choose this option we will not be able to provide you with any of our Services. 
 
-**7\. Can I Correct Errors With My Personal Data?**
+**8\. Can I Correct Errors With My Personal Data?**
 
 You always have the ability to access and have us correct or delete any errors with your personal data. We strongly encourage you to contact us if you find any errors so that we can correct them for you. Please contact us using the support method set up between us and your Sponsor. If you are having difficulties or are not sure what method to use, you can always contact us via email at [legal@redbrickhealth.com](mailto:legal@redbrickhealth.com) and we will get someone to help you. We will respond to your request to access within 30 days or less. 
 
-We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. Under most circumstances, your data will be retained for seven years after your Sponsor has terminated their contract with us. 
+We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. Under most circumstances, your data will be retained for seven years after your Sponsor has terminated their contract with us. _Disposal of physical and electronic personal health information is performed in compliance with HIPAA Privacy and Security Rules_. 
 
 We want to keep your personal data accurate. For participants located in the U.S. you may contact us at (866) 322-1255 regarding requesting a change to the Personal Information you have provided. 
 
 Anyone worldwide can contact us at [legal@redbrickhealth.com](mailto:legal@redbrickhealth.com)
 
-**8\. Do We Comply With Regulatory Requirements?**
+**9\. Do We Comply With Regulatory Requirements?**
 
 Yes. We are in compliance with each of the following. 
 
@@ -202,15 +208,15 @@ _U.S. Department of Commerce Safe Harbor Program_
 
 We adhere to all seven of the U.S.-EU Safe Harbor Privacy Principles. These principles include Notice; Choice; Onward Transfer; Access; Security; Data Integrity and Enforcement. We have also self-certified with the U.S. Department of Commerce and we are listed in the U.S. EU Safe Harbor List. 
 
-**9\. Links To Other Websites**
+**10\. Links To Other Websites**
 
 We may include links to other websites on our site. We do not endorse and are not responsible for the information practices or privacy policies of these websites operated by others that may be linked to or from our site. If you decide to access a third party’s website that may be linked to or from our site, you should consult that website’s Privacy Policy and Terms of Use documents. 
 
-**10\. Blogs**
+**11\. Blogs**
 
 Our website offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog, contact us at [legal@redbrickhealth.com](mailto:legal@redbrickhealth.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. 
 
-**11\. Data Security**
+**12\. Data Security**
 
 Data security is implemented through physical, administrative and technical safeguards we have put in place and the operational procedures we adhere to in order to protect your information. We have a security program based on the ISO27002 security framework and incorporate ITIL and NIST provided recommendations for specific implementation items. Our entire program is audited at least annual by independent auditors as part of a SSAE16 SOC2 Type 2 audit. 
 
@@ -230,11 +236,11 @@ The framework, implementation recommendations from and leading and recognized so
 
 Recognized from leading independent audits, we protect your transactions involving Personal Information over the Internet using Secure Socket Layer (SSL) technology. We restrict access to your Personal Information in our database to our authorized employees, our agents and certain of our authorized partners. 
 
-**12\. Children’s Privacy**
+**13\. Children’s Privacy**
 
 The site is not intended for use by children under the age of 13. We will not knowingly collect any personal information from persons under the age of 13. If you think that we have collected personal information from a person under the age of 13, please contact us. 
 
-**13\. Contact Us**
+**14\. Contact Us**
 
 If you have any questions, comments or complaints about our Privacy Policy or our Services please contact us so we can help. You can reach by using the methods identified below. 
 
@@ -255,6 +261,6 @@ ATTN: Compliance
 
 Thomas C. Funk  
 Privacy Officer  
-920 Second Avenue South  
+510 Marquette Avenue South  
 Minneapolis, MN 55402  
 [legal@redbrickhealth.com](mailto:legal@redbrickhealth.com)
