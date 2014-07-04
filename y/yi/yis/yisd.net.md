@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yisd.net privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331143508id_/http%3A//www.yisd.net/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yisd.net privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704195900id_/http%3A//www.yisd.net/privacy.aspx) for the most accurate reproduction.*
 
 # Ysleta Independent School District > Home
 
@@ -44,4 +44,4 @@ Ysleta Independent School District will occasionally update this Statement of Pr
 
 Contact Information
 
-Ysleta Independent School District welcomes your comments regarding this Statement of Privacy. If you believe that Ysleta Independent School District has not adhered to this Statement, please contact Ysleta Independent School District at [info@gamwelltech.com](mailto:info@gamwelltech.com). We will use commercially reasonable efforts to promptly determine and remedy the problem.
+Ysleta Independent School District welcomes your comments regarding this Statement of Privacy. If you believe that Ysleta Independent School District has not adhered to this Statement, please contact Ysleta Independent School District at [yisd@gamwelltech.com](mailto:yisd@gamwelltech.com). We will use commercially reasonable efforts to promptly determine and remedy the problem.
