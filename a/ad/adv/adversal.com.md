@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adversal.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331034858id_/https%3A//adversal.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adversal.com privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704044250id_/https%3A//www.adversal.com/privacy.html) for the most accurate reproduction.*
 
 # Adversal.com Ad Network
 
@@ -15,7 +15,7 @@ We do not sell, trade, release, or otherwise transfer information partially or i
 **California Online Privacy Protection Act Compliance**  
 Your personal information will not be distributed to outside parties without your consent. As part of the California Online Privacy Protection Act, all registered users of our site may make any changes to their information at anytime by logging into their account and editing their profile.  
 **Terms and Conditions**  
-You may view our Terms and Conditions which establish the use, disclaimers, and limitations of liability governing the use of our website [here](https://web.archive.org/web/20140331034858id_/https%3A//adversal.com/terms.html).  
+You may view our Terms and Conditions which establish the use, disclaimers, and limitations of liability governing the use of our website [here](https://web.archive.org/web/20140704044250id_/https%3A//www.adversal.com/terms.html).  
 **Consent**  
 By using our site, you consent and are in agreeance with our privacy policy.  
 **Changes**  
