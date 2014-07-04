@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vector.sl privacy policy that was archived on 2014-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140222115139id_/http%3A//vector.sl/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vector.sl privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704184618id_/http%3A//www.vector.sl/privacy) for the most accurate reproduction.*
 
 # Success-Line
 
