@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the equifax.co.uk privacy policy that was archived on 2014-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140604172734id_/http%3A//www.equifax.co.uk/About-us/Privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the equifax.co.uk privacy policy that was archived on 2014-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140704162936id_/http%3A//www.equifax.co.uk/About-us/Privacy_policy.html) for the most accurate reproduction.*
 
 # Equifax Online Privacy and Cookie Policy | Equifax UK
 
