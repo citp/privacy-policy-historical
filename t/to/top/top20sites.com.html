@@ -1,21 +1,21 @@
-<!--The following is the downloaded HTML source of the top20sites.com privacy policy that was archived on 2014-02-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140209052407id_/http%3A//www.top20sites.com/help/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the top20sites.com privacy policy that was archived on 2014-07-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140704022244id_/http%3A//www.top20sites.com/help/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" style="overflow-y:scroll"><head><title>
-	Privacy Policy
+	Privacy Policy - Top20Sites.com
 </title><meta property="og:site_name" content="Top20Sites.com">
-<meta property="og:title" content="Privacy Policy">
+<meta property="og:title" content="Privacy Policy - Top20Sites.com">
 <meta property="og:description" content="">
 <meta property="og:url" content="http://www.top20sites.com/help/privacy.aspx">
 <meta property="og:type" content="website">
-<meta property="og:image" content="http://www.top20sites.com/images/logos/100x100.png?v=1">
+<meta property="og:image" content="http://www.top20sites.com/images/logos/100x100.png?v=4">
 <link rel="shortcut icon" href="/favicon.ico">
-<link rel="stylesheet" type="text/css" href="/styles/site.css?v=1">
+<link rel="stylesheet" type="text/css" href="/styles/site.css?v=4">
 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
-<script type="text/javascript" src="/scripts/core.js?v=1"></script>
+<script type="text/javascript" src="/scripts/core.js?v=4"></script>
 
 		<style type="text/css">
-			.footer,.footer a {color:#FFFFFF}
+			.footer,.footer a { color:#FFFFFF }
 		</style>
 		
 			<script type="text/javascript">
@@ -31,77 +31,62 @@
 			</script>
 		
 		<script type="text/javascript">
-			function search(){
-				var txtKeyword = $("#txtKeyword");
-				var strKeyword = $.trim(txtKeyword.val());
-				
-				if(strKeyword.length > 1)
-					go("http://www.top20sites.com/sites/search.aspx?k=" + encodeURIComponent(strKeyword));
+			function Master(){
+				var _this = this;
+				var _wait = $("#wait").data("obj");
+				var _txtKeyword = $("#txtKeyword");
+				var _imgSearch = $("#imgSearch");
+
+				initialize();
+
+				function initialize(){
+					_txtKeyword.keydown(function(event){
+						if(event.which == 13){ //enter
+							_imgSearch.click();
+							event.preventDefault();
+						}
+					});
+
+					_imgSearch.click(function(){
+						var strKeyword = $.trim(_txtKeyword.val());
+
+						if(strKeyword.length > 1)
+							go("http://www.top20sites.com/items/search.aspx?keyword=" + encodeURIComponent(strKeyword));
+					});
+				}
+
+				this.Wait = _wait;
 			}
 		</script>
 	</head>
-	<body style="margin:0px; background-color:#A6A6E6">
-		<form method="post" action="/help/privacy.aspx" id="ctl01" style="margin:0px">
+	<body style="background-color:#A6A6E6">
+		<form method="post" action="/help/privacy.aspx" id="ctl01">
 <div class="aspNetHidden">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="B8TLN//j5GFiCqYlejW2ZD7oYM21NQcmGWjPlCcfEl8LBS1ETgIoosUqKmXhLpTlX3cNwu/7jigt6zl+ICaAgG6frj4=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="eJ0PmKcr/+a5QGM3eymcrDzIgKx/UsNEwyJjiX2b5F+WHdqjhN300PheP5qmrMH6eToIj1SFso2vrJrFRLB7f4mvO3k=">
 </div>
 
+<style type="text/css">
+.wait { width:16px; height:16px; display:none; position:absolute; float:left; z-index:9999 }
+.wait img { display:block }
+</style>
+
+<script src="/WebResource.axd?d=Z6wuNerFHJcykyc643xSRYrheur5I5jDuYQyp4-lKEWnq13cniqq3SOZWNJiuC24r1kIVE2wi0jYJFx5duNrNREBUyGNqiMpqEhbVfS7D5LBeLYz0&amp;t=635363490160051190" type="text/javascript"></script>
+			<div data-white="/WebResource.axd?d=nXmbhJbK6GCMb4D-Lt6RIAv4lajSs9uL-_KPYb4KnhAdGbce-bSiq6YSJVMwxEXMl4-UVtxV1ymmzasZ8H11ZLMbNflOkpvuZU7L9F7Hda1H-1WZ0&amp;t=635363490160051190" data-blue="/WebResource.axd?d=g2VLULzkBX0dh41lP8LnDgfaMC1wRewwbWUPOwLjR55-ix6NDlXw8NzNXidh4utqdzDS7zJ2WYidI-sLqZNABoxZQO6MbU5Ze_qTewsTDc8gJdYA0&amp;t=635363490160051190" id="wait" class="wait">
+	<img src="/WebResource.axd?d=nXmbhJbK6GCMb4D-Lt6RIAv4lajSs9uL-_KPYb4KnhAdGbce-bSiq6YSJVMwxEXMl4-UVtxV1ymmzasZ8H11ZLMbNflOkpvuZU7L9F7Hda1H-1WZ0&amp;t=635363490160051190" title="Please wait...">
+</div><script type="text/javascript">(function(){$('#wait').data('obj', new Wait($('#wait')));})();</script>
 			
-<script type="text/javascript">
-	function WaitMessage(){
-		var _this = this;
-		var _imgWait = $("#ctl04_imgWait");
-		var _ctlHide;
-		var _ctlCenter;
-
-		this.show = function(ctlHide, ctlCenter){
-			_ctlHide = ctlHide;
-			_ctlCenter = (ctlCenter ? ctlCenter : ctlHide);
-
-			window.setTimeout(function(){
-				_ctlHide.css("visibility", "hidden");
-				
-				//
-				if($.browser.msie)
-					_imgWait.attr("src", _imgWait.attr("src"));
-				
-				_imgWait.css("top", (_ctlCenter.offset().top + (_ctlCenter.height() / 2) - 8)); //
-				_imgWait.css("left", (_ctlCenter.offset().left + (_ctlCenter.width() / 2) - 8)); //
-				_imgWait.show();
-			}, 0);
-		};
-
-		this.showOnSubmit = function(ctlHide, ctlCenter){
-			ctlHide.closest("form").submit(function(){
-				_this.show(ctlHide, ctlCenter);
-			});
-		}
-		
-		this.hide = function(){
-			_imgWait.hide();
-
-			//
-			if(_ctlHide)
-				_ctlHide.css("visibility", "visible");
-		};
-	}
-</script>
-<img src="/controls/waitmessage/wait.gif?v=1" id="ctl04_imgWait" style="display:none; position:absolute; z-index:9999; float:left">
-<script type="text/javascript">
-	var _wmWait = new WaitMessage();
-</script>
 			<div style="background-color:#000066">
 				<div style="width:993px; height:80px; margin-left:auto; margin-right:auto; position:relative; background-color:#000066">
-					<table cellpadding="0" cellspacing="0" style="width:100%; height:100%; table-layout:fixed">
+					<table style="width:100%; height:100%; table-layout:fixed">
 						<tbody><tr>
-							<td style="width:300px"><a href="http://www.top20sites.com/" id="aLogo"><img src="/images/pages/master/logo.png?v=1" id="imgLogo" style="display:block; margin-top:1px"></a></td>
+							<td style="width:300px"><a href="http://www.top20sites.com/" id="aLogo"><img src="/images/pages/master/logo.png?v=4" id="imgLogo" style="display:block"></a></td>
 							<td></td>
-							<td style="width:500px">
-								<div id="divHeaderLinks" style="height:30px; text-align:right; font-size:12px; margin-top:10px"><a href="https://www.top20sites.com/users/login.aspx" id="aAuth" rel="nofollow" class="white" style="padding-right:8px;border-right:#000000 1px solid;">Log In</a><a href="https://www.top20sites.com/users/join.aspx?returnpath=/help/privacy.aspx" id="aJoin" rel="nofollow" class="white" style="padding-left:8px;">Join</a></div>
-								<table cellpadding="0" cellspacing="0" style="width:100%; height:40px; table-layout:fixed">
+							<td style="width:500px; vertical-align:top">
+								<div id="divHeaderLinks" style="height:36px; text-align:right; font-size:12px; margin-top:10px"><a href="https://www.top20sites.com/users/login.aspx?returnpath=%2fhelp%2fprivacy.aspx" id="aLogIn" rel="nofollow" style="color:#FFFFFF;padding-right:8px;border-right:#A6A6E6 1px solid;">Log In</a><a href="http://www.top20sites.com/my/summary.aspx" id="aJoin" rel="nofollow" style="color:#FFFFFF;padding-left:8px;padding-right:8px;border-right:#A6A6E6 1px solid;">Join</a><a href="http://www.top20sites.com/my/summary.aspx" id="aMyAccount" rel="nofollow" style="color:#FFFFFF;padding-left:8px;">My Account</a></div>
+								<table style="width:100%; table-layout:fixed">
 									<tbody><tr>
-										<td><input name="ctl00$txtKeyword" type="text" id="txtKeyword" maxlength="100" style="width:300px; font-weight:bold; display:block; margin-left:auto" onkeydown="if(event.keyCode == 13){search(); return false;}"></td>
-										<td style="width:27px"><img src="/images/pages/master/search.png?v=1" id="imgSearch" style="display:block; margin-left:auto; cursor:pointer" title="Search" onclick="search()"></td>
+										<td><input name="ctl00$txtKeyword" type="text" id="txtKeyword" maxlength="100" style="width:300px; border:none; font-weight:bold; display:block; margin-left:auto"></td>
+										<td style="width:27px"><img src="/images/pages/master/search.png?v=4" id="imgSearch" style="display:block; margin-left:auto; cursor:pointer" title="Search"></td>
 									</tr>
 								</tbody></table>
 							</td>
@@ -112,47 +97,42 @@
 			<div style="padding-top:5px">
 				<div style="width:993px; margin-left:auto; margin-right:auto; position:relative">
 					<div style="position:static">
-						<div class="cr0" style="background-color:#FFFFFF">
+						<div style="background-color:#FFFFFF; padding:10px; border-radius:5px">
 							<div style="min-height:400px">
 								
 	<div style="margin-top:5px">
 		
 <style type="text/css">
-	h2
-	{
-		margin-top: 20px;
-		margin-bottom: 5px;
-		font-size: 17px;
-	}
+	.privacy h2 { margin-top:15px; margin-bottom:3px }
 </style>
-<table cellpadding="0" cellspacing="0" style="margin-bottom:10px; width:100%; table-layout:fixed">
-	<tbody><tr>
-		<td><h1>Privacy Policy</h1></td>
-		<td style="text-align:right">July 17, 2013</td>
-	</tr>
-</tbody></table>
-<div class="cr1">
-	Top20Sites.com respects your privacy. This notice describes Top20Sites.com's privacy policy with regard to the Top20Sites.com website (the "Website"). From time to time, we may revise this Privacy Policy, so please be sure to periodically check the date of the last revision, which will be noted at the top of this page.  <b>By visiting the Website, you are acknowledging and accepting this Privacy Policy. Your continued use of the Website after changes have been posted to the Privacy Policy will constitute your acceptance of any such changes.</b><br>
-	<br>
-	We may sell some or all or our assets in the future. In such transactions, customer information is normally one of the transferred business assets. In the event of a sale of our assets including our database, customer information will of course be one of the transferred assets.<br>
-	<br>
-	All registered Top20Sites.com users clicking the "I AGREE" checkbox on any user registration page agree to the Top20Sites.com Privacy Policy and <a href="http://www.top20sites.com/help/terms.aspx">Terms of Service</a>.<br>
-	<h2>Information Collection and Use</h2>
-	We may ask for and collect from you personally identifiable information throughout the Website. Depending on the information and/or services you request, you may be asked to provide your name, email address, and other information.<br>
-	<br>
-	In addition to the information you knowingly provide, Top20Sites.com automatically receives and records information from your computer and browser when you visit the Website, including referring links and your IP address, as well as statistics (e.g., the type of web browser and operating systems used by you). We collect this information to operate Top20Sites.com more efficiently, to administer the Website and to market our services.<br>
-	<br>
-	We may use information we collect from you to: 1) provide you with personalized  web-content; 2)  process and respond to inquiries; 3) improve the content on the Website; 4) improve the navigability on the Website; 5) to enforce our Terms of Service agreement; and 6) for reason that you  provided the information to us.<br>
-	<h2>Personal Information</h2>
-	You can contribute to Top20Sites.com in a number of different ways, including, but not limited to, uploading photos, entering website/webpage information, and voting on other websites/webpages. We may store these contributions (your "Public Content"), display them to other users, and use them for promotional purposes. Note that if you include personally identifiable information in your Public Content, it can be used and viewed by others. We are not responsible for the information you choose to include in your Public Content.<br>
-	<h2>Security</h2>
-	Top20Sites.com attempts to protect your personal information against loss, alteration, and misuse.  Our servers are protected by reasonable physical and electronic security measures.<br>
-	<h2>Third-Party Advertising</h2>
-	We may use third-party advertising companies to provide advertisements when you visit Top20Sites.com.  These companies may collect and use information (not personally identifying) about your visits to Top20Sites.com to provide advertisements about goods and services that may be of interest to you.<br>
-	<h2>Links to Other Websites</h2>
-	Top20Sites.com contains links to other websites and is not responsible for the privacy practices of such websites.  Top20Sites.com encourages its members to read the privacy policies of all websites. This privacy policy applies solely to information collected by Top20Sites.com.<br>
-	<h2>Children</h2>
-	Top20Sites.com is not directed toward children under age 13 and we do not knowingly collect information from children under age 13. If you are under 13, please do not submit any personally identifiable information to Top20Sites.com.<br>
+<div class="privacy">
+	<table style="margin-bottom:10px; width:100%; table-layout:fixed">
+		<tbody><tr>
+			<td><h1>Privacy Policy</h1></td>
+			<td style="text-align:right">July 27, 2013</td>
+		</tr>
+	</tbody></table>
+	<div class="region-gray1 rounded" style="line-height:15px">
+		Top20Sites.com respects your privacy. This notice describes Top20Sites.com's privacy policy with regard to the Top20Sites.com website (the "Website"). From time to time, we may revise this Privacy Policy, so please be sure to periodically check the date of the last revision, which will be noted at the top of this page. By visiting the Website, you are acknowledging and accepting this Privacy Policy. Your continued use of the Website after changes have been posted to the Privacy Policy will constitute your acceptance of any such changes.<br>
+		<br>
+		We may sell some or all or our assets in the future. In such transactions, customer information is normally one of the transferred business assets. In the event of a sale of our assets including our database, customer information will of course be one of the transferred assets.<br>
+		<h2>Information Collection and Use</h2>
+		We may ask for and collect from you personally identifiable information throughout the Website. Depending on the information and/or services you request, you may be asked to provide your name, email address, and other information.<br>
+		<br>
+		In addition to the information you knowingly provide, Top20Sites.com automatically receives and records information from your computer and browser when you visit the Website, including referring links and your IP address, as well as statistics (e.g., the type of web browser and operating systems used by you). We collect this information to operate Top20Sites.com more efficiently, to administer the Website and to market our services.<br>
+		<br>
+		We may use information we collect from you to: 1) provide you with personalized web-content; 2) process and respond to inquiries; 3) improve the content on the Website; 4) improve the navigability on the Website; 5) to enforce our Terms of Service agreement; and 6) for any reason that you provided the information to us.<br>
+		<h2>Personal Information</h2>
+		You can contribute to Top20Sites.com in a number of different ways, including, but not limited to, uploading photos, entering website/webpage information, and voting on other websites/webpages. We may store these contributions (your "Public Content"), display them to other users, and use them for promotional purposes. Note that if you include personally identifiable information in your Public Content, it can be used and viewed by others. We are not responsible for the information you choose to include in your Public Content.<br>
+		<h2>Security</h2>
+		Top20Sites.com attempts to protect your personal information against loss, alteration, and misuse. Our servers are protected by reasonable physical and electronic security measures.<br>
+		<h2>Third-Party Advertising</h2>
+		We may use third-party advertising companies to provide advertisements when you visit Top20Sites.com. These companies may collect and use information (not personally identifying) about your visits to Top20Sites.com to provide advertisements about goods and services that may be of interest to you.<br>
+		<h2>Links to Other Websites</h2>
+		Top20Sites.com contains links to other websites and is not responsible for the privacy practices of such websites. Top20Sites.com encourages its members to read the privacy policies of all websites. This privacy policy applies solely to information collected by Top20Sites.com.<br>
+		<h2>Children</h2>
+		Top20Sites.com is not directed toward children under age 13 and we do not knowingly collect information from children under age 13. If you are under 13, please do not submit any personally identifiable information to Top20Sites.com.
+	</div>
 </div>
 	</div>
 
@@ -167,5 +147,8 @@
 				<div style="margin-top:5px">© 2014 Top20Sites.com.&nbsp;&nbsp;All rights reserved.</div>
 			</div>
 		</form>
+		<script type="text/javascript">
+			var _master = new Master();
+		</script>
 	
 </body></html>
