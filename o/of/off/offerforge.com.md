@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the offerforge.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210004043id_/https%3A//www.offerforge.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offerforge.com privacy policy that was archived on 2014-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140705041359id_/https%3A//offerforge.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | OfferForge.com Performance Marketing
+# Privacy Policy | OfferForge
 
 Welcome to **OfferForge.com** (“the Website”).  All references to “OfferForge”, “we”, “us” shall refer exclusively to OfferForge.com as defined in section 4 hereafter.
 
@@ -37,3 +37,12 @@ OfferForge.com will only share your Information for the limited purposes provide
 **Electronic Communications** When you visit the Website or send e-mails to Us, You are communicating with Us electronically. Your Use of the Website shall be deemed your consent to receive communications from Us electronically which will allow Us to communicate with you via e-mail or by posting notices on the Website. You agree that all agreements, notices, disclosures and other communications that We provide to you electronically, satisfy any and all legal requirement that such communications be in writing.
 
 **About Us**
+
+Be Sociable, Share!
+
+  * [](http://twitter.com/intent/tweet?text=Privacy%20Policy%20-%20https%3A%2F%2Fofferforge.com%2Fprivacy-policy%2F%20 "Twitter")
+  * [](http://www.facebook.com/share.php?u=https%3A%2F%2Fofferforge.com%2Fprivacy-policy%2F&t=Privacy%20Policy "Facebook")
+  * [](http://www.stumbleupon.com/submit?url=https%3A%2F%2Fofferforge.com%2Fprivacy-policy%2F&title=Privacy%20Policy "StumbleUpon")
+  * [](http://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fofferforge.com%2Fprivacy-policy%2F&title=Privacy%20Policy&source=OfferForge+South+Africa%26%23039%3Bs+Leading+Performance+Marketing+Partner+since+2002&summary=Welcome%20to%20OfferForge.com%20%28%E2%80%9Cthe%20Website%E2%80%9D%29.%C2%A0%20All%20references%20to%20%E2%80%9COfferForge%E2%80%9D%2C%20%E2%80%9Cwe%E2%80%9D%2C%20%E2%80%9Cus%E2%80%9D%20shall%20refer%20exclusively%20to%20OfferForge.com%20as%20defined%20in%20section%204%20hereafter.%0AWe%20are%20committed%20to%20protecting%20your%20privacy%20and%20provide%20this%20Privacy%20 "LinkedIn")
+  * 
+
