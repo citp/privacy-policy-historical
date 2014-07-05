@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usednanaimo.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325194159id_/http%3A//www.usednanaimo.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usednanaimo.com privacy policy that was archived on 2014-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140705123031id_/http%3A//www.usednanaimo.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Used stuff in Nanaimo for sale - UsedNanaimo.com - buy and sell free classified ads
 
