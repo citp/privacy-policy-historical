@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blendspace.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325063448id_/https%3A//www.blendspace.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blendspace.com privacy policy that was archived on 2014-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140705080533id_/https%3A//www.blendspace.com/privacy) for the most accurate reproduction.*
 
 # Blendspace - Privacy Policy
 
@@ -52,4 +52,4 @@ This Privacy Policy describes our privacy practices for Blendspace, our presenta
 
 **10\. MODIFICATIONS TO THIS PRIVACY POLICY.** We may modify this Privacy Policy at any time. If you maintain an account for the Service, we will notify you, at the email address you provide to us when you register for an account, of any material modifications to this Privacy Statement. 
 
-**11\. HOW TO CONTACT US.** If you have any questions about our privacy practices, please contact us at [admin@blendspace.com](mailto:admin@blendspace.com) or by telephone at .
+**11\. HOW TO CONTACT US.** If you have any questions about our privacy practices, please contact us at [admin@blendspace.com](mailto:admin@blendspace.com).
