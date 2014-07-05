@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the notefull.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331035101id_/https%3A//www.notefull.com/content.php%3FpgID%3D406) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the notefull.com privacy policy that was archived on 2014-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140705200324id_/https%3A//www.notefull.com/content.php%3FpgID%3D406) for the most accurate reproduction.*
 
 # NOTEFULL
-
-Great news: We've designed a new "How To Choose Your Program Page" to make the process of registering for the right program even easier. _**[Please click here to check it out!](https://www.notefull.com/content.php?pgID=251)**_
-
-### Privacy Policy
 
 You're privacy is very important to us. We want to make sure that you have a great, positive experience at NoteFull. Below you'll find information that is relevant to how we use your information to better help you succeed.
 
@@ -25,8 +21,6 @@ Third party vendors, including Google, may show you ads on other sites on the In
 4) Changes to this Privacy Statement
 
 The contents of this statement may be altered at any time, at our discretion. If you have any questions regarding the privacy policy of this website then you may contact us using the contact form on this website.  
-  
----  
   
 ### COMMENTS
 
