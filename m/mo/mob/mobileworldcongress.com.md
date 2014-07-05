@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobileworldcongress.com privacy policy that was archived on 2014-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140305151116id_/http%3A//www.mobileworldcongress.com/cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobileworldcongress.com privacy policy that was archived on 2014-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140705184915id_/http%3A//www.mobileworldcongress.com/cookie-policy) for the most accurate reproduction.*
 
 # Cookie Policy | Mobile World Congress
 
