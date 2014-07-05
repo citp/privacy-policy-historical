@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teendreams.com privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231013928id_/http%3A//purewebpower.net/dream_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teendreams.com privacy policy that was archived on 2014-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140705064431id_/http%3A//purewebpower.net/dream_privacy.html) for the most accurate reproduction.*
 
 # Terms & Conditions
 
