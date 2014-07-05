@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amateurpornreviews.net privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331145121id_/http%3A//www.amateurpornreviews.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amateurpornreviews.net privacy policy that was archived on 2014-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140705091819id_/http%3A//www.amateurpornreviews.net/privacy.php) for the most accurate reproduction.*
 
 # Privacy Statement
 
