@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chiq.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625001422id_/http%3A//www.chiq.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chiq.com privacy policy that was archived on 2014-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140705170333id_/http%3A//www.chiq.com/privacy-policy) for the most accurate reproduction.*
 
 # CHIQ | PRIVACY POLICY
 
