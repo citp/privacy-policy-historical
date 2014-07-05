@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fosi.org privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213144646id_/http%3A//www.fosi.org/component/content/article/53/253-terms-of-use-and-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fosi.org privacy policy that was archived on 2014-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140705032843id_/http%3A//www.fosi.org/component/content/article/53/253-terms-of-use-and-privacy-policy.html) for the most accurate reproduction.*
 
 # Terms of Use and Privacy Policy
 
@@ -149,4 +149,4 @@ Washington, D.C. 20004
 
 We may amend this Privacy Policy at any time. If we make any material changes in how we collect, use, or share your personal information, we will send you a private message and prominently post a notice of the changes on the websites covered by this Privacy Policy. Any material changes to this Privacy Policy will be effective when posted, and your continued use of any of the websites covered by the Privacy Policy after the posting, will constitute your acceptance of and agreement to be bound by those changes.
 
-[Here is a PDF version of our Privacy Policy](http://www.aplatformforgood.org/page/-/platformforgoodprivacy.pdf) for those who wish to save or print the contents of this page.
+[Here is a PDF version of our Privacy Policy](http://www.fosi.org/files/Family-Online-Safety-Institute-Privacy-Statement.pdf) for those who wish to save or print the contents of this page.
