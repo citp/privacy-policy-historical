@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the families.com privacy policy that was archived on 2014-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140530034343id_/http%3A//www.families.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the families.com privacy policy that was archived on 2014-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140705063329id_/http%3A//www.families.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
