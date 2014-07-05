@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usenext.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214213036id_/http%3A//www.usenext.com/conditions) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usenext.com privacy policy that was archived on 2014-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140705021720id_/http%3A//www.usenext.com/conditions) for the most accurate reproduction.*
 
 # UseNeXT - Privacy policy
 
@@ -57,3 +57,9 @@ You can avoid saving cookies using your browser settings; in any case, we would 
 By using this website, you consent to the processing of your data read by Google as per the above methods and for the abovementioned purposes. 
 
 For further information on Google Analytics, please visit: <http://www.google.com/intl/en_uk/analytics/>
+
+**6\. Google AdWords and Google Display Network**
+
+Our website exploits online Google AdWords and Google Display Network promotion systems. On this topic, Google guarantees its customers and users’ data privacy. Google AdWords enables a cookie on your computer. The cookie only remains valid for 30 days and is not used to identify personal data. If the user visits certain pages in the AdWords customer’s website and the cookie has not yet expired, Google and the customer are able to recognise the user who clicked on the ad and who was sent to this page. This information is used to create statistics that are analysed in anonymous form. We also exploit these Google AdWords functions to address users on this website to third party websites or internet users with profiles of specific interest, based on their internet use. We do not collect any personal information to do this. In fact, any analyses are used to calculate and evaluate promo ads and do not contain your personal information. Users who do not intend to participate in localisation may simply deactivate the Google Conversion-Tracking cookie in the internet browser user settings. These users will not be included in Conversion-Tracking statistics.
+
+Please note that Google has its own guidelines concerning personal data privacy. We may not be held liable in any way for these guidelines and procedures. Please visit Google to learn more about their data privacy terms before using our website. 
