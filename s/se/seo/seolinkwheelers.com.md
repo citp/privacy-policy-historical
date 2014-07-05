@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seolinkwheelers.com privacy policy that was archived on 2014-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140428163243id_/http%3A//seolinkwheelers.com/privacy.txt) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seolinkwheelers.com privacy policy that was archived on 2014-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140705035850id_/http%3A//seolinkwheelers.com/privacy.txt) for the most accurate reproduction.*
 
 # 
 
