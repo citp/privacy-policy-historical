@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the givemeinsurancequotes.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325041046id_/http%3A//www.givemeinsurancequotes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the givemeinsurancequotes.com privacy policy that was archived on 2014-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140705163450id_/http%3A//www.givemeinsurancequotes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
