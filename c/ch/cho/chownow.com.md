@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chownow.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210055645id_/http%3A//www.chownow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chownow.com privacy policy that was archived on 2014-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140705232426id_/https%3A//www.chownow.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ChowNow
 
