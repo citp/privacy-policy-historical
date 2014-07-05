@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the apps-builder.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325232557id_/http%3A//www.apps-builder.com/pag/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apps-builder.com privacy policy that was archived on 2014-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140705143058id_/http%3A//www.apps-builder.com/pag/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - AppsBuilder
 
-AppsBuilder Srl ("AppsBuilder," "we," or "us") knows that you care how information about you is used and shared. This Privacy Policy explains what information of yours will be collected by AppsBuilder when you use Apps-Builder.com and/or related AppsBuilder software and services (the "Service"), how the information will be used, and how you can control the collection, correction and/or deletion of information. We will not use or share your information with anyone except as described in this Privacy Policy. 
-
-Information We Collect
+AppsBuilder Srl ("AppsBuilder," "we," or "us") knows that you care how information about you is used and shared. This Privacy Policy explains what information of yours will be collected by AppsBuilder when you use Apps-Builder.com and/or related AppsBuilder software and services (the "Service"), how the information will be used, and how you can control the collection, correction and/or deletion of information. We will not use or share your information with anyone except as described in this Privacy Policy.Information We Collect
 
 **User-Provided Information:** As part of using the Service, you may be required to provide certain information in order to register and set up an account (including billing and credit card information), or at your option for certain free Services (Registration Data). If you correspond with us by email, we may retain the content of your email messages, your email address and our responses. If you invite a friend to try AppsBuilder, we will use that friend's email address for the sole purpose of sending your invitation.
 
@@ -14,10 +12,7 @@ Information We Collect
 
 **Clear Gifs Information:** When you use the Service, we may employ clear gifs (a.k.a. Web Beacons) which are used to track the online usage patterns of our users anonymously. No personally identifiable information from your AppsBuilder account is collected using these clear gifs. In addition, we may also use clear gifs in HTML-based emails sent to our users to track which emails are opened by recipients. The information is used to enable more accurate reporting, improve the effectiveness of our marketing, and make AppsBuilder better for our users.
 
-  
-
-
-How We Use Your Information
+**How We Use Your Information**
 
 **Automatically Recorded Information:** AppsBuilder does not claim any ownership in any of the content, including any text, data, information, images, photographs, music, sound, video or other material that you upload, transmit, store or otherwise make available in connection with the Service. Such content will remain your private information. AppsBuilder's servers will automatically scan and record certain information regarding your use of the Service, such as basic log information, your email address, and your IP address. Such automatically recorded information shall remain your private information and will not be made available to the public.
 
@@ -25,7 +20,7 @@ How We Use Your Information
 AppsBuilder may use certain information about you without identifying you as an individual to third parties. We do this for purposes such as analyzing how the Service is used, diagnosing service or technical problems, and maintaining security.  
 We use cookies, clear gifs, and log file information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the site; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our service; (d) monitor aggregate metrics such as total number of visitors and traffic; and (e) diagnose or fix technology problems reported by our users or engineers that are associated with the IP addresses controlled by a specific web company or ISP.
 
-How We Share Your Information
+**How We Share Your Information**
 
 **Personally Identifiable Information:** AppsBuilder will not rent or sell your personally identifiable information to others and will not share it with others except as provided herein. AppsBuilder may share your personally identifiable information with third parties solely for the purpose of providing services to you. If we do this, such third parties' use of your information will be bound by this Privacy Policy. We may store personal information in locations outside the direct control of AppsBuilder (for instance, on servers or databases co-located with hosting providers).
 
@@ -35,37 +30,37 @@ Except as otherwise described in this Privacy Policy, AppsBuilder will not discl
 
 **Non-Personally Identifiable Information:** We may share non-personally identifiable information (such as anonymous usage data, referring/exit pages and URLs, platform types, number of clicks, etc.) with interested third parties to help them understand the usage patterns for certain AppsBuilder services.
 
-How We Protect Your Information
+**How We Protect Your Information**
 
-AppsBuilder uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to AppsBuilder and you do so at your own risk. Once we receive your transmission of information, AppsBuilder makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. 
+AppsBuilder uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to AppsBuilder and you do so at your own risk. Once we receive your transmission of information, AppsBuilder makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
 
-Compromise of Personal Information
+**Compromise of Personal Information**
 
-In the event that personal information is compromised as a result of a breach of security, AppsBuilder will promptly notify those persons whose personal information has been compromised, in accordance with the notification procedures set forth in this Privacy Policy, or as otherwise required by applicable law. 
+In the event that personal information is compromised as a result of a breach of security, AppsBuilder will promptly notify those persons whose personal information has been compromised, in accordance with the notification procedures set forth in this Privacy Policy, or as otherwise required by applicable law.
 
-Your Choices About Your Information
+**Your Choices About Your Information**
 
-You may, of course, decline to submit personally identifiable information to AppsBuilder, in which case AppsBuilder will not be able to provide the Service to you. You can review and correct the information about you that AppsBuilder keeps on file by contacting us directly at [privacy@Apps-Builder.com](mailto:privacy@Apps-Builder.com). 
+You may, of course, decline to submit personally identifiable information to AppsBuilder, in which case AppsBuilder will not be able to provide the Service to you. You can review and correct the information about you that AppsBuilder keeps on file by contacting us directly at [privacy@Apps-Builder.com](mailto:privacy@Apps-Builder.com).
 
-Children's Privacy
+**Children's Privacy**
 
-Protecting the privacy of young children is especially important. For that reason, AppsBuilder does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, please do not send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 is allowed to provide any personal information to or on AppsBuilder. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at [privacy@Apps-Builder.com](mailto:privacy@Apps-Builder.com). 
+Protecting the privacy of young children is especially important. For that reason, AppsBuilder does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, please do not send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 is allowed to provide any personal information to or on AppsBuilder. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at [privacy@Apps-Builder.com](mailto:privacy@Apps-Builder.com).
 
-Links to Other Web Sites
+**Links to Other Web Sites**
 
-We are not responsible for the practices employed by Web sites linked to or from our Web site nor the information or content contained therein. Please remember that when you use a link to go from our Web site to another Web site, our Privacy Policy is no longer in effect. Your browsing and interaction on any other Web site, including those that have a link on our Web site, is subject to that Web site's own rules and policies. Please read over those rules and policies before proceeding. 
+We are not responsible for the practices employed by Web sites linked to or from our Web site nor the information or content contained therein. Please remember that when you use a link to go from our Web site to another Web site, our Privacy Policy is no longer in effect. Your browsing and interaction on any other Web site, including those that have a link on our Web site, is subject to that Web site's own rules and policies. Please read over those rules and policies before proceeding.
 
-Notification Procedures
+**Notification Procedures**
 
-It is our policy to provide notifications, whether such notifications are required by law or are for marketing or other business related purposes, to you via email notice or through conspicuous posting of such notice on our Website page, as determined by AppsBuilder in its sole discretion. We reserve the right to determine the form and means of providing notifications to you, provided that you may opt out of certain means of notification as described in this Privacy Policy. 
+It is our policy to provide notifications, whether such notifications are required by law or are for marketing or other business related purposes, to you via email notice or through conspicuous posting of such notice on our Website page, as determined by AppsBuilder in its sole discretion. We reserve the right to determine the form and means of providing notifications to you, provided that you may opt out of certain means of notification as described in this Privacy Policy.
 
-Italian Based Service
+**Italian Based Service**
 
-Our center of operation is in Italy. Your data is held in Italy and transactions are processed in Euros on servers in Italy. As such, all data is held in accordance with Italian laws and procedures which differ from those in other regions of the world. By using this service, you acknowledge that you understand and agree to these data policies. 
+Our center of operation is in Italy. Your data is held in Italy and transactions are processed in Euros on servers in Italy. As such, all data is held in accordance with Italian laws and procedures which differ from those in other regions of the world. By using this service, you acknowledge that you understand and agree to these data policies.
 
-Changes to Our Privacy Policy
+**Changes to Our Privacy Policy**
 
-If we change our privacy policies and procedures, we will post those changes on our website to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. Changes to this Privacy Policy are effective when they are posted on this page. 
+If we change our privacy policies and procedures, we will post those changes on our website to keep you aware of what information we collect, how we use it and under what circumstances we may disclose it. Changes to this Privacy Policy are effective when they are posted on this page.
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this Web site, please contact us at [privacy@Apps-Builder.com](mailto:privacy@Apps-Builder.com), or send mail to:
 
