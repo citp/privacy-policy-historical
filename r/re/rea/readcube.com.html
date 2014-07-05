@@ -1,22 +1,25 @@
-<!--The following is the downloaded HTML source of the readcube.com privacy policy that was archived on 2014-04-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140406004040id_/http%3A//www.readcube.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the readcube.com privacy policy that was archived on 2014-07-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140705053805id_/https%3A//www.readcube.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head><script type="text/javascript" async="" src="https://cdn.mxpnl.com/libs/mixpanel-2.2.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
 <meta charset="utf-8">
 <meta content="//d2qhpykq6n2vid.cloudfront.net/assets/logo-0c483b5ee00a46e1dcf832962e5d5a33.png" name="image">
 <link href="/favicon.ico" rel="shortcut icon">
 <title>ReadCube's Privacy Policy</title><meta content="ReadCube Privacy Policy" name="description"><meta content="readcube, read, cube, academic software, reference manager, free" name="keywords">
-<link href="//d2qhpykq6n2vid.cloudfront.net/assets/homepage-d27f9a2098fcf8bb8af59dfadc01808e.css" media="screen" rel="stylesheet" type="text/css">
+<link href="//d2qhpykq6n2vid.cloudfront.net/assets/homepage-0921ab4c8bab141f7e3d1abebd4bb8ee.css" media="screen" rel="stylesheet" type="text/css">
 <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" media="screen" rel="stylesheet" type="text/css">
 <script>
-  window.user_signed_in = ("false" === "true");
-  window.blank_gif_path = "//d2qhpykq6n2vid.cloudfront.net/assets/homepage/blank-73e9c0327b17eca8ac31aed76222eb48.gif";
+  window.readcube = {
+    user: {},
+    endpoints: {"login":"/session/new","register":"/user/new","logout":"/session/log_out","check_access":"/checkout/check_access","checkout_article":"https://www.readcube.com/checkout/new","checkout_subscription":"https://www.readcube.com/subscription/checkout"},
+    redirect: null,
+    blank_gif_path: "//d2qhpykq6n2vid.cloudfront.net/assets/homepage/blank-73e9c0327b17eca8ac31aed76222eb48.gif"
+  };
 </script>
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js" type="text/javascript"></script>
-<script src="//d2qhpykq6n2vid.cloudfront.net/assets/homepage-3c2531dd691223dbcc16c02ea40d69b8.js" type="text/javascript"></script>
-<script src="//d2qhpykq6n2vid.cloudfront.net/assets/spin-b68bfad55723df86077f396d2aba4175.js" type="text/javascript"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js" type="text/javascript"></script>
+<script src="//d2qhpykq6n2vid.cloudfront.net/assets/homepage-3dfe66d9a2e73f5134fe0c7c54554652.js" type="text/javascript"></script>
 <!--[if lt IE 9]>
-<script src="//d2qhpykq6n2vid.cloudfront.net/assets/html5shiv-894b45e8b35237eb6a2bd4aa806b5875.js" type="text/javascript"></script>
+<script src="//d2qhpykq6n2vid.cloudfront.net/assets/html5shiv-ad2b8c26bd20db74962a73c91ae1b4f7.js" type="text/javascript"></script>
 <script src="//d2qhpykq6n2vid.cloudfront.net/assets/html5element-d22d55e6ac37a10f20d1d41141603f3a.js" type="text/javascript"></script>
 <![endif]-->
 
@@ -51,12 +54,30 @@ mixpanel.init("c940ea0703828ead4745629146c021da", { track_pageview: false, img: 
 
 </head><body class="fullsite-page">
 <div class="wrapper">
-<header class="header">
+<header class="header" id="header">
 <nav class="personal">
-<a href="/download" class="get-r3-link" data-url="http://www.readcube.com/user/new">Get ReadCube</a>
+<a href="#" class="user-menu-link hide"><span class="user-name">Null User</span>
+<span class="caret"></span>
+</a><a href="#" class="login-link ">Login</a>
+<a href="/download" class="get-r3-link require-user register">Get ReadCube</a>
+<div class="popover down hide" id="user-menu">
+<div class="container">
+<!-- .item Recently Read -->
+<!-- .item My Library -->
+<!-- .item Recommendations -->
+<!-- %hr -->
+<a href="/account" class="item">Account</a>
+<a href="/account#purchases-info" class="item">Purchase History</a>
+<a href="/pro" class="item">ReadCube Pro</a>
+<hr>
+<a href="https://www.readcube.com/support" class="item">Help</a>
+<a href="/session/log_out" class="item" rel="nofollow">Log Out</a>
+</div>
+<div class="arrow"></div>
+</div>
 </nav>
 <nav class="header-left">
-<a href="/" class="logo"><img alt="Logo" data-at2x="//d2qhpykq6n2vid.cloudfront.net/assets/homepage/logo@2x-ed0d5e3e498d6da80422f6f7307ae10c.png" src="//d2qhpykq6n2vid.cloudfront.net/assets/homepage/logo-ff523826b2cd80eafa0dcf45576c851e.png">
+<a href="/" class="logo"><img alt="Text-right" data-at2x="//d2qhpykq6n2vid.cloudfront.net/assets/logos/text-right@2x-ed0d5e3e498d6da80422f6f7307ae10c.png" src="//d2qhpykq6n2vid.cloudfront.net/assets/logos/text-right-ff523826b2cd80eafa0dcf45576c851e.png">
 </a></nav>
 <nav class="header-right">
 <ul class="categories">
@@ -345,26 +366,29 @@ available at <a href="/terms">www.readcube.com/terms</a>.
 <div class="footer-column">
 <h2>Products</h2>
 <ul>
-<li><a href="/">ReadCube for Desktop</a></li>
-<!-- %li= link_to t('homepage.footer.products.ipad'), '#' -->
-<li><a href="http://www.readcube.com/bookmarklet">ReadCube Bookmarklet</a></li>
-<!-- %li= link_to t('homepage.footer.products.pro'), readcube_pro_path -->
+<li><a href="/">ReadCube Desktop</a></li>
+<li><a href="https://itunes.apple.com/us/app/readcube/id864042981?ls=1&amp;mt=8">ReadCube for iPad</a></li>
+<li><a href="/pro">ReadCube Pro</a></li>
+<li><a href="https://www.readcube.com/bookmarklet">ReadCube Bookmarklet</a></li>
 </ul>
 </div>
 <div class="footer-column">
 <h2>About</h2>
 <ul>
-<li><a href="http://www.readcube.com/about">The Story</a></li>
-<li><a href="http://www.readcube.com/about">The Team</a></li>
-<li><a href="http://www.readcube.com/jobs">We're Hiring</a></li>
+<li><a href="https://www.readcube.com/about">The Story</a></li>
+<li><a href="https://www.readcube.com/about">The Team</a></li>
+<li><a href="https://www.readcube.com/press">Press</a></li>
 <li><a href="http://ambassadors.readcube.com">Ambassadors</a></li>
+<!-- %li= link_to t('homepage.footer.about.jobs'), jobs_url -->
 </ul>
 </div>
 <div class="footer-column">
 <h2>Community</h2>
 <ul>
-<li><a href="http://www.readcube.com/support">Support Home</a></li>
+<li><a href="https://www.readcube.com/support">Support Home</a></li>
 <li><a href="http://support.readcube.com/forums/136555-requests">Feature Request</a></li>
+<li><a href="/bootcamp">ReadCube Bootcamp</a></li>
+<li><a href="http://go.readcube.com/events/">Upcoming Events</a></li>
 <li><a href="http://blog.readcube.com"><span class="translation_missing" title="translation missing: en.homepage.footer.community.blog">Blog</span></a></li>
 <!-- %li= link_to t('homepage.footer.community.invite'), recommend_path -->
 <!-- %li= link_to t('homepage.footer.community.developers'), '#' -->
@@ -375,6 +399,7 @@ available at <a href="/terms">www.readcube.com/terms</a>.
 <ul>
 <li><a href="/libraries">ReadCube for Libraries</a></li>
 <li><a href="/publishers">ReadCube for Publishers</a></li>
+<li><a href="/companies">ReadCube for Companies</a></li>
 <!-- %li= link_to t('homepage.footer.solutions.labs'), "#" -->
 <!-- %li= link_to t('homepage.footer.solutions.organizations'), "#" -->
 </ul>
@@ -392,16 +417,16 @@ Copyright 2014 Labtiva, Inc. <br> All rights reserved.
 </div>
 <nav class="social">
 <ul>
-<li><a href="https://www.facebook.com/readcube"><img alt="Facebook" data-at2x="//d2qhpykq6n2vid.cloudfront.net/assets/homepage/facebook@2x-6be9b6e90e456a17e3a457dcb24a7447.png" src="//d2qhpykq6n2vid.cloudfront.net/assets/homepage/facebook-7e80a3d9b12361d1845fb677d869f17a.png"></a></li>
-<li><a href="https://twitter.com/readcube"><img alt="Twitter" data-at2x="//d2qhpykq6n2vid.cloudfront.net/assets/homepage/twitter@2x-9335b64fede05252a4a73b97f6cce474.png" src="//d2qhpykq6n2vid.cloudfront.net/assets/homepage/twitter-43fe47a1dcc03dd2922338d5d4f49bc4.png"></a></li>
-<li><a href="https://plus.google.com/111914302999926530270"><img alt="Googleplus" data-at2x="//d2qhpykq6n2vid.cloudfront.net/assets/homepage/googleplus@2x-70b5c22122b2f405863da8e864c69753.png" src="//d2qhpykq6n2vid.cloudfront.net/assets/homepage/googleplus-8c32c165a1a8bd531a3357241c5e7fd6.png"></a></li>
+<li><a href="https://www.facebook.com/readcube"><img alt="Facebook" data-at2x="//d2qhpykq6n2vid.cloudfront.net/assets/homepage/footer/facebook@2x-6be9b6e90e456a17e3a457dcb24a7447.png" src="//d2qhpykq6n2vid.cloudfront.net/assets/homepage/footer/facebook-7e80a3d9b12361d1845fb677d869f17a.png"></a></li>
+<li><a href="https://twitter.com/readcube"><img alt="Twitter" data-at2x="//d2qhpykq6n2vid.cloudfront.net/assets/homepage/footer/twitter@2x-9335b64fede05252a4a73b97f6cce474.png" src="//d2qhpykq6n2vid.cloudfront.net/assets/homepage/footer/twitter-43fe47a1dcc03dd2922338d5d4f49bc4.png"></a></li>
+<li><a href="https://plus.google.com/111914302999926530270"><img alt="Googleplus" data-at2x="//d2qhpykq6n2vid.cloudfront.net/assets/homepage/footer/googleplus@2x-70b5c22122b2f405863da8e864c69753.png" src="//d2qhpykq6n2vid.cloudfront.net/assets/homepage/footer/googleplus-8c32c165a1a8bd531a3357241c5e7fd6.png"></a></li>
 </ul>
 </nav>
 </aside>
 </footer>
 
 </div>
-<script src="//d2qhpykq6n2vid.cloudfront.net/assets/retina-74b856e57f54dfc112d9f0dd47e6dd31.js" type="text/javascript"></script>
+<script src="//d2qhpykq6n2vid.cloudfront.net/assets/retina-269c12d746e5d0c39bcee14163d9fdc0.js" type="text/javascript"></script>
 
 <script type="text/javascript">if (typeof NREUMQ !== "undefined") { if (!NREUMQ.f) { NREUMQ.f=function() {
 NREUMQ.push(["load",new Date().getTime()]);
@@ -414,7 +439,7 @@ if(NREUMQ.a)NREUMQ.a();
 };
 NREUMQ.a=window.onload;window.onload=NREUMQ.f;
 };
-NREUMQ.push(["nrfj","beacon-1.newrelic.com","f606300a21","643547","egpeF0BWWAlRQB8NV1QAQAJVXBtNW0ZYAEoQ",2,14,new Date().getTime(),"","","","",""]);}</script>
+NREUMQ.push(["nrfj","beacon-1.newrelic.com","f606300a21","643547","egpeF0BWWAlRQB8NV1QAQAJVXBtNW0ZYAEoQ",16,42,new Date().getTime(),"","","","",""]);}</script>
 
 
 <script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
