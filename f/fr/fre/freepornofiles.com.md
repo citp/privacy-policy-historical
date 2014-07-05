@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the freepornofiles.com privacy policy that was archived on 2014-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140305024348id_/http%3A//www.devilsfilm.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freepornofiles.com privacy policy that was archived on 2014-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140705191508id_/http%3A//www.devilsfilm.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Devils Film
 
-**This website is owned by **DEVILS FILM****
+### Privacy Policy
 
 **This policy explains what kind of information we may gather from any user and/or members on our sites. This site is an adult site and its purposes should only be used by persons that are 18 or older. All persons under that age are not allowed to view the content of this site and should leave immediately.**
 
 **The Information We Collect**  
-This notice applies to all information collected or submitted on **DEVILS FILM** 's website. On some pages, you can order products/subscriptions, make requests or register to receive materials and on some other pages, we will automatically gather and collect some information from the subscriber. The types of personal information collected at these pages could be, but are not limited too, name, email address, IP address etc.
+This notice applies to all information collected or submitted on **DEVILS FILM** 's website. On some pages, you can order products/subscriptions, make requests or register to receive materials and on some other pages, we will automatically gather and collect some information from the subscriber. The types of personal information collected at these pages could be, but are not limited to, name, email address, IP address etc.
 
 **Email Marketing**  
 The subscriber's e-mail address may be used by the site to communicate special offers and other relevant information such as new services, subscription information, etc. In addition, there may be occasions when a subscriber will be presented with special offers either from the operators of the site or from third-party service or content providers, which may include consent to receive e-mail solicitations, communications, newsletters, commercial advertising, or other promotional or special event materials. The subscriber may opt-out of a mailing list by clicking on the remove link located at the bottom of the email promotions, or by visiting the site <http://www.td3x.com/>
