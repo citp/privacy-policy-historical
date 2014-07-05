@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thefilter.com privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623151540id_/http%3A//www.thefilter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefilter.com privacy policy that was archived on 2014-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140705081419id_/http%3A//thefilter.com/privacy-policy) for the most accurate reproduction.*
 
-# The Filter » Privacy Policy
+# The Filter – Privacy Policy
 
 www.TheFilter.com (the “Site”) is owned and operated by Exabre Limited. By using the Site, you agree to the collection and use of your information by us in accordance with this Privacy Policy. If you do not agree with this Privacy Policy, then do not use the Site.
 
