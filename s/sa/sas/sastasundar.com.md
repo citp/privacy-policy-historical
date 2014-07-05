@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sastasundar.com privacy policy that was archived on 2014-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140505081126id_/http%3A//www.sastasundar.com/index.php/pages/view/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sastasundar.com privacy policy that was archived on 2014-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140705185216id_/http%3A//www.sastasundar.com/index.php/pages/view/privacy_policy) for the most accurate reproduction.*
 
-# Sasta Sundar
+# SastaSundar.com: Online Pharmacy for Generic medicines, Healthcare and Ayurvedic products
 
 ## Privacy Policy
 
