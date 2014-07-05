@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unlocator.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626162931id_/https%3A//unlocator.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unlocator.com privacy policy that was archived on 2014-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140705121943id_/https%3A//unlocator.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Unlocator
 
