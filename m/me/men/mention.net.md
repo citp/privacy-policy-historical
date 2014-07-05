@@ -1,24 +1,24 @@
-> *The following text is extracted and transformed from the mention.net privacy policy that was archived on 2013-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130821205300id_/https%3A//en.mention.net/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mention.net privacy policy that was archived on 2014-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140705101046id_/https%3A//en.mention.com/policy) for the most accurate reproduction.*
 
-# Privacy policy - mention
+# mention | Real-time media monitoring application
 
-Mention Solutions SAS provides the service â€œmentionâ€. At mention we recognize that privacy is important. This Privacy Policy applies to all Services offered by mention. 
+Mention Solutions SAS provides the service “mention”. At mention we recognize that privacy is important. This Privacy Policy applies to all Services offered by mention. 
 
 ## Information we collect and how we use it
 
 In order to provide our full range of Services, we may collect the following types of information: 
 
-**Information you provide** â€“ When you sign up for a mention account, we ask you for personal information (such as your name, email address, an account password), which we maintain in encrypted form on secure servers. 
+**Information you provide** – When you sign up for a mention account, we ask you for personal information (such as your name, email address, an account password), which we maintain in encrypted form on secure servers. 
 
-**Cookies** â€“ When you use the Services, we send one or more cookies â€“ a small file containing a string of characters â€“ to your computer or other device that uniquely identifies your browser. We use cookies to improve the quality of our Services, including storing user preferences, improving search results, and tracking user trends. 
+**Cookies** – When you use the Services, we send one or more cookies – a small file containing a string of characters – to your computer or other device that uniquely identifies your browser. We use cookies to improve the quality of our Services, including storing user preferences, improving search results, and tracking user trends. 
 
-**Log information** â€“ When you access the Services, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser. 
+**Log information** – When you access the Services, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser. 
 
-**User communications** â€“ When you send email or other communications to or through mention, we may retain those communications in order to process your inquiries, respond to your requests and improve our Services. 
+**User communications** – When you send email or other communications to or through mention, we may retain those communications in order to process your inquiries, respond to your requests and improve our Services. 
 
-**Links** â€“ mention may present links in a format that enables us to keep track of whether these links have been followed. We use this information to improve the quality of our search technology and customized content. 
+**Links** – mention may present links in a format that enables us to keep track of whether these links have been followed. We use this information to improve the quality of our search technology and customized content. 
 
-**Other sites** â€“ This Privacy Policy applies to mention Services only. We do not exercise control over the sites displayed as search results or the links from within our Services. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you. 
+**Other sites** – This Privacy Policy applies to mention Services only. We do not exercise control over the sites displayed as search results or the links from within our Services. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you. 
 
 mention only processes personal information for the purposes described in this Privacy Policy. In addition to the above, such purposes include: 
 
