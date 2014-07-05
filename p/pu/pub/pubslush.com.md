@@ -1,72 +1,86 @@
-> *The following text is extracted and transformed from the pubslush.com privacy policy that was archived on 2013-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131212223301id_/http%3A//www.pubslush.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pubslush.com privacy policy that was archived on 2014-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140705060956id_/http%3A//pubslush.com/privacy) for the most accurate reproduction.*
 
-# 
+# Pubslush
+
+Welcome to Pubslush. Pubslush’s Privacy Policy explains how we and some of the companies we work with collect, use, share and protect information in relation to our website and other software provided on or in connection with our services (collectively, “Pubslush”), and how Pubslush decides to collect and use your information. 
+
+By using Pubslush you understand and agree that we, Pubslush, are providing a platform for you to post content (“User Content”) to Pubslush and to share User Content publicly. This means that other users may, in certain circumstances, see, use, search for, or share your Use Content that you make publicly available through Pubslush 
+
+Our Privacy Policy applies to all visitors, users, and others who access Pubslush (collectively, “Users”). 
 
   1. ## Introduction
 
 **Your consent.** When using our Service, you consent to the collection, transfer, manipulation, storage, disclosure and other use of your information as described in this Privacy Policy. 
 
-**Questions.** If you have any questions or concerns about our Privacy Policy, contact our privacy team at [privacy@pubslush.com](mailto:privacy@pubslush.com)
+**Questions.** If you have any questions or concerns about our Privacy Policy, contact our privacy team at [hello@pubslush.com](mailto:hello@pubslush.com). 
 
-**Scope.** This Privacy Policy relates only to Pubslush. It does not, however, apply to entities that Pubslush does not own or control, such as Facebook and Twitter. 
-
-  
+**Privacy.** This Privacy Policy relates only to Pubslush. It does not, however, apply to entities that Pubslush does not own or control, such as Facebook and Twitter. 
 
   2. ## Information We Collect and How We Use It
 
-**Browsing Pubslush.** You can read Submissions and User comments without creating a Pubslush account. 
+**Browsing Pubslush.** You can view Submissions and User comments without creating a Pubslush account. 
 
-**Creating an account and logging in.** For some activities on Pubslush, such as posting a Submission, posting a User comment, or Funding a Submission (see below), you will need to set up an account on Pubslush and log in to our Service. When you sign up for a Pubslush account, you provide us with your email address, password and date of birth (or a certification that you are over the age of 13). We will also ask for your email address if you wish to sign up for our newsletter. 
+**Creating an account and logging in.** For some activities on Pubslush, such as posting a Submission, posting a User comment, or Funding a Submission (see below), you will need to set up an account on Pubslush and log in to our Service. When you sign up for a Pubslush account, you provide us with your name, email, password, date of birth (or a certification that you are over the age of 13), location and gender. Some of this information, for example, your name, is listed publicly on Pubslush. 
 
-**Additional personal information that we collect from Authors.** If you are an [Author](https://web.archive.org/terms#author), and wish to have the ability to post [Submissions](https://web.archive.org/terms#submit), you will be required to provide additional information. That information may include the following: your legal name (although only your first name and first initial of your last name will be viewable to other Users of the site), other biographical information, a personal photograph, your manuscript and other supporting information. Upon completion of a successful Fundraising Campaign, we will contact Authors to request their account information for payment via ACH Wire Transfer. Providing this additional information is optional for Users that are not Authors. 
+**Additional personal information that we collect from Authors.** If you are a Campaigner, and wish to have the ability to post Submissions, you will be required to provide additional information. That information may include the following: your legal name (although only your first name and first initial of your last name will be viewable to other Users of the site), other biographical information, a personal photograph, your manuscript and other supporting information. Upon completion of a successful Fundraising Campaign, we will contact Campaigners to request their account information for payment via ACH Wire Transfer or Check. Providing this additional information is optional for Users that are not Campaigners. 
 
-**Content.** Our Service is primarily designed to enable Authors to find an audience for their works. By enabling Submissions and User comments, we create a forum for the Author to do just that. Any Content posted to the site, including Submissions and User comments are collected and saved by Pubslush. 
+**Content.** Our Service is primarily designed to enable Campaigners to find an audience for their works. By enabling Submissions and User comments, we create a forum for the Campaigner to do just that. Any Content posted to the site, including Submissions and User comments are collected and saved by Pubslush. 
 
-  
+**Communications.** Finally, Pubslush may collect communications between you and Pubslush, such as emails sent from Pubslush regarding account verification, changes and/or updates to features of Pubslush, technical and security notices. Please note that Pubslush allows users the option of opting out of such emails. 
 
   3. ## Information Collected by Authorized Third Parties
 
 **Service providers and other authorized third parties.** Pubslush engages certain trusted third parties to provide services to us, and to help us understand the use of our Service, such as Google Analytics. These services may collect and record information generated by your use of the Service, such as your IP address, browser type, time spent on site, how you linked to the site and what sites you link to after you leave, searches, pages visited, pages commented on, and payments made. 
 
-**When you make a payment.** As a User, you will have the opportunity to "Fund" a Submission. This means, that you can make a payment towards the publication of a Submission. All payments will be processed via [www.authorize.net](http://www.authorize.net/) will store all Funding information, including the amounts that a User funds, the Submissions that a User funds, and a User's payment information. The details of transactions or payments you make on Pubslush will also be stored on Google Analytics. 
+We are not responsible for the practices employed by any websites or services linked to or from our Service, including the information or content contained within them. Please remember that when you use a link to go from our Service to another website or service, our Privacy Policy does not apply to those third-party websites or services. Your browsing and interaction on any third-party website or service, including those that have a link on or to our website, are subject to that third party’s own rules and policies. In addition, you agree that we are not responsible and do not have control over any third-parties that you authorize to access your User Content. If you are using a third-party website or service and allow them to access your User Content you do so at your own risk. 
 
-  
+**When you make a payment.** As a User, you will have the opportunity to "Fund" a Submission. This means, that you can make a payment towards the publication of a Submission. All payments will be processed via [www.stripe.com](http://www.stripe.com/). Pubslush will store all Funding information, including the amounts that a User funds, the Submissions that a User funds, and a User's payment information through our trusted third party processor. The details of transactions you make on Pubslush will also be stored on Google Analytics. 
 
-  4. ## How We Share and Disclose Information
+  4. ## Log Data
 
-**To respond to legal requests and prevent harm.** We may disclose your information if we believe that it is reasonably necessary to comply with a law, regulation or legal request; to protect the safety of any person; to protect the [intellectual property rights of others](https://web.archive.org/terms#rights) to address fraud, security or technical issues; or to protect Pubslush's rights or property. 
+Our servers automatically record information (“Log Data”) created by your use of the Services. Log Data may include information such as your IP address, browser type, operating system, the referring web page, pages visited, location, your mobile carrier, device and application IDs, search terms and cookie information. We receive Log Data when you interact with our Services, interact with out email notifications, use your Pubslush account to authenticate to a third-party website or application, or visit a third-party website that includes a Pubslush button or widget. Pubslush uses Log Data to provide our Services and to measure, customize and improve them. 
 
-**"Shares".** If a User clicks a "Share" link or button, the User will have the opportunity to introduce others to Pubslush. You can "Share" a link to Pubslush via email, Facebook, Twitter, Blogger, MySpace, Digg, AIM, MSN Messenger, and other services. All "Share" links are User generated. 
+  5. ## Cookies
 
-**Statistical Data.** We will be collecting the following User data to share with Authors about their Supporters: (1) how you found our Service (via direct link, search, or click through); (2) your age; (3) your gender; and (4) your location. This information will be collected and used exclusively for the purpose of statistical analysis. 
+Like many websites, we use cookies and similar technologies to collect additional website usage data and to improve our Services. A cookie is a small data file that is transferred to your computer’s hard disk. Pubslush may use both session cookies and persistent cookies to better understand how you interact with our Services, to monitor aggregate usage by our users and web traffic routing on our Services, and to customize and improve our Services. Most Internet browsers automatically accept cookies. You can instruct your browser, by changing its settings, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. However, some Services may not function properly if you disable cookies. 
 
-  
+  6. ## How We Share and Disclose Information
 
-  5. ## How You Can Change or Remove Information
+**Service Providers.** We may share your information as well as information from tools like cookies, log files, and device identifiers and location data, with third-party organizations that help us provide Pubslush to you (“Service Providers”). 
 
-**Editing your profile.** You may change or update your profile information at any time by going to your profile page and clicking ["Edit My Profile."](https://web.archive.org/myaccount) Information will be updated immediately. 
+**To respond to legal requests and prevent harm.** We may disclose your information if we believe that it is reasonably necessary to comply with a law, regulation or legal request; to protect the safety of any person; to protect the intellectual property rights of others to address fraud, security or technical issues; or to protect Pubslush's rights or property. We may access, preserve and share your information in response to a legal request (like a search warrant, court order or subpoena) if we have a good faith belief that the law requires us to do so. This may include responding to legal requests from jurisdictions outside of the United States where we have a good faith belief that the response is required by law in the jurisdiction, affects users in that jurisdiction, and is consistent with internationally recognized standards. We may also access, preserve and share information when we have a good faith belief it is necessary to: detect, prevent and address fraud and other illegal activity; to protect ourselves, you and others, including as part of investigations; and to prevent death or imminent bodily harm.Information we receive about you may be accessed, processed and retained for an extended period of time when it is the subject of a legal request or obligation, governmental investigation, or investigations concerning possible violations of our terms or policies, or otherwise to prevent harm. 
 
-**Deleting your account.** If you wish to delete your account, you may contact us at [hello@pubslush.com](mailto:hello@pubslush.com) and we will promptly remove your account from our system. When you delete an account, it is permanently deleted from Pubslush. You should only delete your account if you are certain you never want to reactivate it. If you are an [Author](https://web.archive.org/terms#author), as described in our Terms of Service, you may not delete your account at any time within the period of one hundred and twenty days of posting a [Submission](https://web.archive.org/terms#submit) as described in the Terms of Service. 
+**"Shares"** If a User clicks a "Share" link or button, the User will have the opportunity to introduce others to Pubslush. You can "Share" a link to Pubslush via email, Facebook, Twitter, Blogger, MySpace, Digg, AIM, MSN Messenger, and other services. All "Share" links are User generated. analysis. 
 
-  
+**Statistical Data.** We will be collecting the following User data to share with Campaigners about their Supporters: (1) how you found our Service (via direct link, search, or click through); (2) your age; (3) your gender; and (4) your location. This information will be collected and used exclusively for the purpose of statistical analysis. 
 
-  6. ## How We Protect Information
+  7. ## Information we share with Campaigners 
+
+When a Supporter pledges funds to a Campaigner, Pubslush will share the following personal information of the Supporter with the Campaigner: (1) the Supporter’s name; (2) the Supporter’s email; and (3) the Supporter’s mailing information for rewards. Pubslush will not share any of the Supporter’s payment information or details of that Supporter’s transactions with the Campaigner. 
+
+  8. ## You Can Change or Remove Information 
+
+**Editing your profile.** You may change or update your profile information at any time by going to your profile page and clicking "Edit My Profile." Information will be updated immediately. 
+
+**Deleting your account.** If you wish to delete your account, you may contact us at hello@pubslush.com and we will promptly remove your account from our system. When you delete an account, it is permanently deleted from Pubslush. You should only delete your account if you are certain you never want to reactivate it. If you are a Campaigner, as described in our Terms of Service, you may not delete your account at any time within the period of one hundred and twenty days of posting a Submission as described in the Terms of Service. 
+
+  9. ## How We Protect Information
 
 **Password protected portions of the site.** All password protected sections of the website, the administrative and User accounts, are encrypted with standard security measures. All User profiles and payment screens are password protected. 
 
-  
-
-  7. ## Our Policy Towards Children
+  10. ## Our Policy Towards Children
 
 **No information from children under age 13.** If you are under age 13, please do not attempt to register for a Pubslush account or provide any personal information about yourself to us. If we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that we might have any information from a child under age 13, please contact us at [privacy@pubslush.com.](mailto:privacy@pubslush.com)
 
-  
+  11. ## Change of Control Event
 
-  8. ## Changes to This Policy 
+If we sell or otherwise transfer part or the whole of Pubslush or our assets to another organization (e.g., in the course of a transaction like a merger, acquisition, bankruptcy, dissolution, liquidation), your information such as name and email address, User Content and any other information collected through Pubslush may be among the items sold or transferred. You will continue to own your User Content. The buyer or transferee will have to honor the commitments we have made in this Privacy Policy. 
+
+  12. ## Changes to This Policy 
 
 **Changes.** We may change this Privacy Policy pursuant to the procedures outlined in our [Terms of Service](https://web.archive.org/terms). Unless otherwise noted, our current Privacy Policy applies to all information that we have about you and your account. If we make changes to this Privacy Policy we will notify you by publication here. By continuing to access or use the Service after such changes take effect, you agree to be bound by the revised Privacy Policy. 
 
 
 
 
-Updated July 6, 2012 
+Updated May 9, 2014
