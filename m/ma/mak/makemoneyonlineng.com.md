@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the makemoneyonlineng.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625072314id_/http%3A//makemoneyonlineng.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makemoneyonlineng.com privacy policy that was archived on 2014-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140705065107id_/http%3A//makemoneyonlineng.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Protecting your privacy is important to us. We hope the following information will help you understand how we collect, use and safeguard the personal information you provide to us on our site.
 
    
-Please note: Goods (products and services) purchased are non-refundable after 60 days.
+Please note: Goods ([products](http://makemoneyonlineng.com/shop/ "products") and services) purchased are non-refundable after 60 days.
 
    
 **Personal Information**
@@ -73,3 +73,12 @@ Adesoji Adegbulu
 for MakeMoneyOnlineNg.com
 
 Originally posted 2011-09-01 15:22:09. 
+
+**Help Us Grow by Sharing this Article/Post. Please, use the buttons below. Also, You could Leave a Comment about this article/post further below. Thanks**
+
+  *   * [](http://www.facebook.com/sharer/sharer.php?u=http://makemoneyonlineng.com/privacy-policy/ "Share this article on Facebook")
+  *   * [](https://plus.google.com/share?url=http://makemoneyonlineng.com/privacy-policy/ "Share this article on Google+")
+  *   * [](http://www.linkedin.com/shareArticle?mini=true&ro=true&trk=EasySocialShareButtons&title=Privacy+Policy&url=http://makemoneyonlineng.com/privacy-policy/ "Share this article on LinkedIn")
+  *   * [](http://reddit.com/submit?url=http://makemoneyonlineng.com/privacy-policy/&title=Privacy+Policy "Share this article on Reddit")
+
+
