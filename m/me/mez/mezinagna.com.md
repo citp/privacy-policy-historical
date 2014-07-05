@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mezinagna.com privacy policy that was archived on 2014-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140603202508id_/http%3A//www.mezinagna.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mezinagna.com privacy policy that was archived on 2014-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140705162009id_/http%3A//www.mezinagna.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Mezinagna.com
 
