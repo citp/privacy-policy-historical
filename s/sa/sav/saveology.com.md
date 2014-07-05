@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saveology.com privacy policy that was archived on 2014-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140221041352id_/http%3A//www.saveology.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saveology.com privacy policy that was archived on 2014-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140705164522id_/http%3A//www.saveology.com/privacy-policy) for the most accurate reproduction.*
 
 # Saveology - Privacy Policy
 
