@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ferame.com privacy policy that was archived on 2014-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140403051912id_/http%3A//ferame.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ferame.com privacy policy that was archived on 2014-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140705145417id_/http%3A//ferame.com/en/privacy) for the most accurate reproduction.*
 
 # Ferame - Privacy Policy
 
