@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the nationsphotolab.com privacy policy that was archived on 2014-03-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140331071358id_/http%3A//www.nationsphotolab.com/privacypolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nationsphotolab.com privacy policy that was archived on 2014-07-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140705043037id_/http%3A//www.nationsphotolab.com/privacypolicy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="Head1"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <style type="text/css">
@@ -7,7 +7,7 @@
 </style>
 <title>Terms: Nations Photo Lab</title>
 
-	<script type="text/javascript" async="" src="//s3.amazonaws.com/ki.js/50984/aMX.js"></script><script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0021/0266.js?438996" async="" type="text/javascript"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="//s.swiftypecdn.com/embed.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script src="//cdn.optimizely.com/js/36847504.js"></script>
+	<script type="text/javascript" async="" src="//s3.amazonaws.com/ki.js/50984/aMX.js"></script><script src="https://dnn506yrbagrg.cloudfront.net/pages/scripts/0021/0266.js?438996" async="" type="text/javascript"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://static.sooqr.com/sooqr.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script src="//cdn.optimizely.com/js/36847504.js"></script>
 	<script type="text/javascript">
 		window.optimizely = window.optimizely || [];
 		window.optimizely.push(['trackEvent', 'eventName', {'revenue': valueInCents}]);
@@ -16,6 +16,7 @@
  
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-4588618-1']);
+  _gaq.push(['setDomainName', 'nationsphotolab.com']);
   _gaq.push(['_trackPageview']);
  
   (function() {
@@ -45,6 +46,9 @@
     
 	<script src="https://s3.amazonaws.com/PNCGalleries/static/Scripts/ga_cookie.js" type="text/javascript"></script>
 	<script src="https://s3.amazonaws.com/PNCGalleries/static/Scripts/ga_cookie.js" type="text/javascript"></script>
+    <script src="https://s3.amazonaws.com/PNCGalleries/static/Scripts/jquery.js" type="text/javascript" language="jscript"></script>
+    <script src="https://s3.amazonaws.com/PNCGalleries/static/Scripts/jquery.alerts.js" type="text/javascript" language="jscript"></script>
+            <link href="https://s3.amazonaws.com/PNCGalleries/static/Content/jquery.alerts.css" rel="stylesheet" type="text/css" media="screen">
     
     <script type="text/javascript">
 	var cookievalue='';
@@ -80,6 +84,202 @@
         function DeepLinking(productId, themeurl, module) {
             //alert(themeurl);
             window.location.href = "/Users/DeepLinkingUrl/?MCProductId=" + productId + "&MCThemeUrl=" + themeurl + "&MCModule=" + module + "&random=" + Math.random() + "";
+        }
+        function showSavedProjects() {
+            var random = Math.random();
+            var thumbpath = 'http://s3.amazonaws.com/PNCGalleries/PhotoCreator/UserFiles/mediaclipThumbs/'
+            //alert(thumbpath);
+            var tble = "<div style='margin-top: 65px; margin-right: auto; margin-left: auto; color: rgb(35, 86, 120); text-align: center; font-size: 27px; height: 44px; width: 600px; border-radius: 5px 5px 0px 0px; padding-top: 4px; background: none repeat scroll 0px 0px rgb(241, 241, 241);'>Saved Projects<span style='margin-top: -16px; margin-right: -10px; float: right;'><img onclick='closeSavedProjects()' style='cursor:pointer' alt='close' src='https://s3.amazonaws.com/PNCGalleries/static/Content/Images/close_btn.png' /></span></div>";
+            tble += "<div style='min-height: 100px;max-height:546px; margin: 0px auto; width: 600px; overflow-x: auto;background:none repeat scroll 0 0 #E4E4E4;'>";
+            tble += "<table width='100%' border='0' cellspacing='0' cellpadding='0' class='grid_table'>";
+            tble += "<tr><td width='20%' class='bordre_right bottom_border save_project_header'></td><td width='29%' class='bordre_right bottom_border save_project_header'><span style='color: rgb(35, 86, 120); font-weight: bold; font-size: 13px; text-transform: uppercase; text-align: center;'>Name</span></td><td width='23%' class='bordre_right bottom_border save_project_header'><span style='color: rgb(35, 86, 120); font-weight: bold; font-size: 13px; text-transform: uppercase;'>Module</span></td><td width='27%' class='bottom_border'></td></tr>";
+
+            $.ajax(
+                {
+                    type: "POST",
+                    contentType: "application/json; charset=utf-8",
+                    dataType: "json",
+                    async: false,
+                    url: "/Users/showSavedProjects",
+                    data: "randomnumber=" + random,
+                    success: function (result) {
+
+                        if (parseInt(result.length) > 0) {
+                            for (var i = 0; i < result.length; i++) {
+
+                                var encodename = encodeURIComponent(result[i].DisplayName);
+                                var encodemodname = encodeURIComponent(result[i].Module);
+                                var encodeCatId = encodeURIComponent(result[i].CategoryId);
+                                var arrDisplayName = result[i].DisplayName;
+                                var arrSplit = arrDisplayName.split(' ');
+                                for (var j = 0; j < arrSplit.length; j++) {
+                                    if (arrSplit[j].length > 20) {
+                                        arrDisplayName = arrDisplayName.substr(0, 20) + "...";
+                                        break;
+                                    }
+                                }
+                                if (i % 2 == 0) {
+                                    tble += "<tr class='even'><td class='bordre_right bottom_border'><img class='imgProjThumb' src='" + thumbpath + result[i].OrderId + ".jpg?timestamp=" + new Date().getTime() + "' alt='' width='100' height='72' /></td><td class='bordre_right bottom_border'><a title='" + result[i].DisplayName + "' onclick=Loadsavedproject('" + result[i].OrderId + "','" + encodename + "','" + encodemodname + "','" + encodeCatId + "') style='cursor:pointer;'>" + arrDisplayName + "</a></td><td width='217' class='bordre_right bottom_border'>" + result[i].Module + "</td><td class='bottom_border'><img href='#' onclick=Loadsavedproject('" + result[i].OrderId + "','" + encodename + "','" + encodemodname + "','" + encodeCatId + "') style='cursor:pointer;margin-right:8px;' src='https://s3.amazonaws.com/PNCGalleries/static/Content/Images/loadmcproject.png' alt='Load'/><img href='#' onclick=cancelorder('" + result[i].OrderId + "') style='cursor:pointer;' src='https://s3.amazonaws.com/PNCGalleries/static/Content/Images/deletemcprojectred.png' alt='Delete'/></td></tr>";
+                                }
+                                else {
+                                    tble += "<tr class='odd'><td  class='bordre_right bottom_border'><img class='imgProjThumb' src='" + thumbpath + result[i].OrderId + ".jpg?timestamp=" + new Date().getTime() + "' alt='' width='100' height='72' /></td><td  class='bordre_right bottom_border'><a title='" + result[i].DisplayName + "' onclick=Loadsavedproject('" + result[i].OrderId + "','" + encodename + "','" + encodemodname + "','" + encodeCatId + "') style='cursor:pointer;'>" + arrDisplayName + "</a></td><td width='217' class='bordre_right bottom_border'>" + result[i].Module + "</td><td  class='bottom_border'><img href='#' onclick=Loadsavedproject('" + result[i].OrderId + "','" + encodename + "','" + encodemodname + "','" + encodeCatId + "') style='cursor:pointer;margin-right:8px;' src='https://s3.amazonaws.com/PNCGalleries/static/Content/Images/loadmcproject.png' alt='Load'/><img href='#' onclick=cancelorder('" + result[i].OrderId + "') style='cursor:pointer;' src='https://s3.amazonaws.com/PNCGalleries/static/Content/Images/deletemcprojectred.png' alt='Delete'/></td></tr>";
+                                }
+                            }
+                        } else {
+                            // alert("else");
+                            tble += "<tr><td colspan='4' align='center' class='bordre_right bottom_border'><span style='font-size:16px;font-weight:bold;color:#235678;'>No Projects Saved</span></td></tr>";
+
+                        }
+                        tble += "</table>";
+                        tble += "</div>";
+
+                        $("#savedprojects").show();
+                        $("#savedprojects").html(tble);
+                    },
+                    error: function (req, status, error) {
+                        //alert("error");
+                        //   alert("Sorry! We could not process at this time.");
+                    }
+                });
+            // $("#page-wrap").show();
+
+        }
+        function save() {
+            var dispname = document.getElementById("txtdispname").value;
+            $("#projname").val(dispname);
+            if (dispname == '' || dispname == 'Enter Project Name') {
+                jAlert("Please enter project name");
+                return false;
+            }
+            var objOrderID = document.getElementById("hdnOrderId").value;
+            var random = Math.floor(Math.random());
+
+            $.ajax(
+                    {
+                        type: "POST",
+                        url: "/Users/saveSavedMCProject",
+                        data: "randomnumber=" + random + "&name=" + dispname + "&orderId=" + objOrderID,
+                        async: true,
+                        success: function (result) {
+
+                            if (result == "exists") {
+                                if ($('#contentMedia').hasClass('togglemediaclipscreen')) {
+                                    // alert("hello");
+                                    $("#contentMedia").attr("style", 'z-index: 99999 !important;');
+                                    $("#header").attr("style", 'display: none;');
+                                }
+                                jConfirm('A project by that name already exists. Do you want to overwrite?', 'Confirmation Dialog', function (r) {
+                                    if (r == true) {
+                                        $.ajax(
+                                                {
+                                                    type: "POST",
+                                                    url: "/Users/OverwriteSaveProjectName",
+                                                    data: "randomnumber=" + random + "&name=" + dispname + "&orderId=" + objOrderID,
+                                                    async: true,
+                                                    success: function (result) {
+
+                                                    },
+                                                    error: function (req, status, error) {
+                                                        //$("#imgLoading").hide();
+
+                                                    }
+                                                });
+                                        $(document.getElementById("mediaclip-frame")).show();
+                                        $("#mcSaveDailogBoxmaster").hide();
+                                    }
+                                    else
+                                    { return false; }
+                                });
+                            }
+                            else {
+                                $(document.getElementById("mediaclip-frame")).show();
+                                $("#mcSaveDailogBoxmaster").hide();
+                            }
+                        },
+                        error: function (req, status, error) {
+                            alert(error);
+                        }
+                    });
+
+        }
+        function cancel() {
+            $("#mcSaveDailogBoxmaster").hide();
+            $(document.getElementById("mediaclip-frame")).show();
+
+        }
+        function cancelorder(objOrderID) {
+            // alert("cancel");
+            //var objOrderID = document.getElementById("hdnOrderId").value;
+            jConfirm('Are you sure you want to delete?', 'Confirmation Dialog', function (r) {
+                if (r == true) {
+                    $("#mcSaveDailogBoxmaster").hide();
+                    $("#savedprojects").hide();
+                    //$(document.getElementById("mediaclip-frame")).show();
+                    var random = Math.floor(Math.random());
+                    $.ajax(
+                {
+                    type: "POST",
+                    url: "/Users/DeleteSavedProject",
+                    data: "randomnumber=" + random + "&orderId=" + objOrderID,
+                    async: false,
+                    success: function (result) {
+
+                    },
+                    error: function (req, status, error) {
+                        //$("#imgLoading").hide();
+
+                    }
+                });
+                }
+            })
+        }
+        function Loadsavedproject(objOrderId, disName, module, category) {
+            disName = decodeURIComponent(disName);
+            module = decodeURIComponent(module);
+            category = decodeURIComponent(category);
+            closeSavedProjects();
+            isExistingProject = 1;
+            var swffile = '';
+            var McPath = 'http://www.nationsphotolab.com/Photocreator/Modules/ViewModule.aspx?'
+            var user = '';
+            // alert(user);
+            if (module == "GreetingCard") {
+                swffile = 'GreetingCardModule.swf';
+                McPath = McPath + "swfFile=GreetingCardModule.swf";
+            }
+            else if (module == "Photobook") {
+                swffile = 'PhotobookModule.swf';
+                McPath = McPath + "swfFile=PhotobookModule.swf";
+            }
+            else if (module == "Others") {
+                swffile = 'GiftingModule.swf';
+                McPath = McPath + "swfFile=GiftingModule.swf";
+            }
+            else if (module == "Calendar") {
+                swffile = 'CalendarModule.swf';
+                McPath = McPath + "swfFile=CalendarModule.swf";
+            }
+            else if (module = "Photo Albums") {
+                swffile = 'PhotobookModule.swf';
+                McPath = McPath + "swfFile=PhotobookModule.swf";
+            }
+
+            $("#projname").val(disName);
+
+            McPath = McPath + "&orderId=" + objOrderId + "&user=" + user + "&MCCategoryId=" + category;
+            // alert(McPath);
+
+            window.location.href = "/ShoppingCart/LoadMediaclipFromCart/?orderId=" + objOrderId + "&swffile=" + swffile + "&fromMaster=true";
+        }
+        function closeSavedProjects() {
+            if ($('#contentMedia').hasClass('togglemediaclipscreen')) {
+                //  alert("closehello");
+
+                $("#contentMedia").attr("style", '');
+                $("#header").attr("style", 'display: block;');
+
+            }
+            $("#savedprojects").hide();
         }
         function GetCartCount() {
             var random = Math.floor(Math.random());
@@ -162,7 +362,7 @@
             //var output =base64EncArr(input);
             var output = btoa(input);
             /*window.location.href ="https://my.nationsphotolab.com/index_1.asp?un=" + output;*/
-		this.newWindow = window.open("https://my.nationsphotolab.com/index_1.asp?un=" + output);this.newWindow.focus();this.newWindow.opener=window;return false;
+		this.newWindow = window.open("https://my.nationsphotolab.com/personalinfo.aspx?un=" + output);this.newWindow.focus();this.newWindow.opener=window;return false;
         }
 		
 		
@@ -230,30 +430,97 @@ window._fbq.push(["track", "PixelInitialized", {}]);
 	<style type="text/css">
 		.call p{margin:0px;}
 		#headerNav .mainNav{margin:0px; margin-left:0px;}
+		 #savedprojects
+        {
+            display: none;
+            position: fixed;
+            _position: absolute; /* hack for internet explorer 6*/
+            height: auto;
+            width: auto;
+            background: #313131;
+            border-radius: 15px;
+            z-index: 999999;
+            padding: 12px;
+            font-size: 13px;
+            border: 3px solid #000;
+        }
+         #mcSaveDailogBox, #mcSaveDailogBoxWrapper
+        {
+            position: fixed;
+            _position: absolute; /* hack for internet explorer 6*/
+            height: auto;
+            width: auto;
+            background: #313131;
+            border-radius: 15px;
+            z-index: 999999;
+            padding: 12px;
+            font-size: 13px;
+            border: 3px solid #000;
+            background: #FFF;
+        }
+        #mcSaveDailogBox, #mcSaveDailogBoxWrapper h1
+        {
+            text-align: left;
+            color: #6FA5FD;
+            font-size: 22px;
+            font-weight: 700;
+            padding-bottom: 2px;
+            margin-bottom: 20px;
+        }
 	</style>
+	<link rel="stylesheet" href="https://d345spfe4d65od.cloudfront.net/static/tourmyapp/v1/tourmyapp.css" ;="" type="text/css">
+  <script type="text/javascript" src="https://d345spfe4d65od.cloudfront.net/static/tourmyapp/v1/tourmyapp.js"></script>
+ 
+  <script type="text/javascript">
+  var tour;
+  jQuery(document).ready(function() {
+      tour = new TourMyApp("<put_your_token_here>"); // d7266a92b7d614d1f317f2bd8f641615
+      tour.start();
+  });
+  </script>
+  <!--<script src="//www.yotpo.com/js/yQuery.js"></script>
+<script type="text/javascript">
+    var yotpo_app_key = "4UBdDYH8ppBUboX6TFah1ohWDBrxofB992a6DRxQ";
+</script>-->
 <title>
 
 </title><script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
 <body onload="MM_preloadImages('https://s3.amazonaws.com/PNCGalleries/static/images/newaccountbutton_roll.jpg','https://s3.amazonaws.com/PNCGalleries/static/images/downloadcatalogbutton_roll.jpg','https://s3.amazonaws.com/PNCGalleries/static/images/download_roll_01.jpg','https://s3.amazonaws.com/PNCGalleries/static/images/download_roll_02.jpg')">
+ <div id="savedprojects" style="display: none; height: 100%; width: 100%; margin: 0 auto;">
+    </div>
     <div id="wrapper">
         <div id="yellowcontainer">
             <div id="header">
             <!-- Header Start -->
             <div id="tollFree">
-				  <form>
-                  <input type="text" id="st-search-input" class="st-search-input" value="Search">
+				<form>
+                  <input type="text" id="st-search-input" class="st-search-input" value="Search" style="height:21px !important;">
+				    <input type="image" src="https://s3.amazonaws.com/PNCGalleries/static/images/NPLWebsite_newheader14_mag.jpg" id="search-image">
                 </form>
+                <!-- Start Sooqr.com on-site search and navigation code -->
+<script type="text/javascript">
+    var _wssq = _wssq || [];
+
+    _wssq.push(['_load', { 'suggest' : { 'account' : 'SQ-100444-1', fieldId : 'st-search-input'}}]); // Plaats hier de account code en het id van het zoek veld
+    //_wssq.push(['suggest._setPosition', 'element-relative', 'div.top-container']);
+    _wssq.push(['suggest._setPosition', 'screen-middle', {top:0}]);
+    _wssq.push(['suggest._setLocale', 'nl_NL']);
+    _wssq.push(['suggest._excludePlaceholders', 'Search']); // Plaats hier je placeholder zodat deze Sooqr niet activeert in sommige browsers
+    _wssq.push(['suggest._bindEvent', 'trackQuery', function (event, query, resultCount, queryId, queryIndex) {
+        try {
+            _gaq.push(['_trackEvent', 'Search', 'Search', encodeURIComponent(query)]);
+        } catch (err) {}
+    }]);
+
+    (function() {
+        var ws = document.createElement('script'); ws.type = 'text/javascript'; ws.async = true;
+        ws.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'static.sooqr.com/sooqr.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ws, s);
+    })();
+</script>    
+<!-- End Sooqr.com on-site search and navigation code -->
+
                 <script type="text/javascript">
-                var Swiftype = window.Swiftype || {};
-                  (function() {
-                    Swiftype.key = 'GBBRLV2L8q9q6CTTnH2s';
-                
-                    /** DO NOT EDIT BELOW THIS LINE **/
-                    var script = document.createElement('script'); script.type = 'text/javascript'; script.async = true;
-                    script.src = "//s.swiftypecdn.com/embed.js";
-                    var entry = document.getElementsByTagName('script')[0];
-                    entry.parentNode.insertBefore(script, entry);
-                  }());
 				  	var searchtxt = document.getElementById('st-search-input');
 					searchtxt.onfocus = function(){clearText(this)}
 					function clearText(searchtxt){searchtxt.value = '';}
@@ -274,11 +541,14 @@ window._fbq.push(["track", "PixelInitialized", {}]);
                     </span>-->
                 <ul>
 					
-                    <li><a href="/Account/newaccount"><img src="https://s3.amazonaws.com/PNCGalleries/static/images/NPLWebsite_newheader_signup_resize.jpg" alt=""></a></li>
-                    <li class="login" style="float:right; padding-right:0px;"><a href="/Account/LogOn"><img src="https://s3.amazonaws.com/PNCGalleries/static/images/NPLWebsite_newheader_signin_resize.jpg" alt=""></a></li>
+                    <li><a href="https://my.nationsphotolab.com/login.aspx" target="_blank"><img src="https://s3.amazonaws.com/PNCGalleries/static/images/NPLWebsite_newheader_myaccount_new.jpg" alt="My Account"></a></li>
+                    <li class="spr"></li>
+                    <li><a href="/Account/newaccount"><img src="https://s3.amazonaws.com/PNCGalleries/static/images/NPLWebsite_newheader_signup_new.jpg" alt=""></a></li>
+                    <li class="spr"></li>
+                    <li><a href="/Account/LogOn"><img src="https://s3.amazonaws.com/PNCGalleries/static/images/NPLWebsite_newheader_signin_new.jpg" alt=""></a></li>
                     
                     <div class="livechatcircle">
-                    	<a href="#" onclick="this.newWindow = window.open('http://livechat.boldchat.com/aid/6641829549221709695/bc.chat?cwdid=1480437563673906020&amp;url=' + escape(document.location.href), 'Chat', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=1,width=640,height=480');this.newWindow.focus();this.newWindow.opener=window;return false;"><img src="https://s3.amazonaws.com/PNCGalleries/static/images/NPLWebsite_newheader_livechat.png"></a>
+                    	<a href="#" onclick="this.newWindow = window.open('http://livechat.boldchat.com/aid/6641829549221709695/bc.chat?cwdid=1480437563673906020&amp;url=' + escape(document.location.href), 'Chat', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=1,width=640,height=480');this.newWindow.focus();this.newWindow.opener=window;return false;"><img src="https://s3.amazonaws.com/PNCGalleries/static/images/NPLWebsite_newheader14_livechat.jpg"></a>
                     </div>
                    
                     
@@ -313,8 +583,8 @@ window._fbq.push(["track", "PixelInitialized", {}]);
                         
                         <!--<li><a href="/index.aspx">HOME</a></li>-->
                        
-                       <li style="padding-left:463px;"> 
-                        <a id="productsnav" href="/products.aspx"><img id="shopbutton" src="https://s3.amazonaws.com/PNCGalleries/static/images/NPLWebsite_newheader_peachshop.png" alt="Shop Products"><!--SHOP PRODUCTS--></a>
+                       <li style="padding-left:504px;"> 
+                        <a id="productsnav" href="/products.aspx"><img id="shopbutton" src="https://s3.amazonaws.com/PNCGalleries/static/images/NPLWebsite_newheader14_shopproducts_orange.jpg" alt="Shop Products"><!--SHOP PRODUCTS--></a>
                           	<!--<ul id="productdropdown">
                                 <div class="productsection">
                                     <li><p class="productnavhead">Print Products</p></li>
@@ -387,10 +657,10 @@ window._fbq.push(["track", "PixelInitialized", {}]);
                 			</ul>-->
                         </li>
                         
-                        <li style="padding-left:10px;"><a href="/Users/ViewPhotosList?productid=181"><img src="https://s3.amazonaws.com/PNCGalleries/static/images/order-prints.jpg" alt="Quick Prints"><!--QUICK PRINTS--></a></li>
+                        <li style="padding-left:14px;"><a href="/Users/ViewPhotosList?productid=181"><img src="https://s3.amazonaws.com/PNCGalleries/static/images/NPLWebsite_newheader14_orderprints.jpg" alt="Quick Prints"><!--QUICK PRINTS--></a></li>
                         
-                        <li style="padding-left:10px;"><a href="/current_sales.aspx"><img id="salebutton" src="https://s3.amazonaws.com/PNCGalleries/static/images/NPLWebsite_newheader_graysale.png" alt=""></a></li>
-                        <li style="padding-left:10px;"><a href="/support.aspx"><img src="https://s3.amazonaws.com/PNCGalleries/static/images/NPLWebsite_newheader_support.jpg" alt="Support"></a>
+                        <li style="padding-left:14px;"><a href="/current_sales.aspx"><img id="salebutton" src="https://s3.amazonaws.com/PNCGalleries/static/images/NPLWebsite_newheader14_sale_gray.jpg" alt=""></a></li>
+                        <li style="padding-left:14px;"><a href="/support.aspx"><img src="https://s3.amazonaws.com/PNCGalleries/static/images/NPLWebsite_newheader14_support.jpg" alt="Support"></a>
                             <!--<ul class="supportdropdown" style="z-index:100000; margin-top:-11px;">
                             	<div class="supportsection" style="border:none;">
                                     <li><p class="productnavhead">Support Pages</p></li>
@@ -409,7 +679,7 @@ window._fbq.push(["track", "PixelInitialized", {}]);
                         <!--<li><a href="/current_sales.aspx">SALE</a></li>-->
                         <br>
                     <div id="secondary">
-                        <li><a href="/allprints.aspx" style="cursor:default;"><img src="https://s3.amazonaws.com/PNCGalleries/static/images/NPLWebsite_newheader_prints.jpg" alt="Prints" onmouseover="this.src='https://s3.amazonaws.com/PNCGalleries/static/images/NPLWebsite_newheader_prints_hover.jpg'" onmouseout="this.src='https://s3.amazonaws.com/PNCGalleries/static/images/NPLWebsite_newheader_prints.jpg'"></a>
+                        <li><a href="/allprints.aspx" style="cursor:default;"><img src="https://s3.amazonaws.com/PNCGalleries/static/images/NPLWebsite_newheader14_prints.jpg" alt="Prints" onmouseover="this.src='https://s3.amazonaws.com/PNCGalleries/static/images/NPLWebsite_newheader14_prints_hover.jpg'" onmouseout="this.src='https://s3.amazonaws.com/PNCGalleries/static/images/NPLWebsite_newheader14_prints.jpg'"></a>
                         	<ul class="supportdropdown">
                     			<div class="supportsection" style="border:none;">
                                 <li><a href="/prints.aspx">All Professional Prints</a></li>
@@ -421,12 +691,12 @@ window._fbq.push(["track", "PixelInitialized", {}]);
                                 <li><a href="/packageprinting.aspx">Package Prints</a></li>
                                 <li><a href="/prints_enlargements.aspx">Photo Print Enlargements</a></li>
                                 <li><a href="/proofing.aspx">Proofing Products</a></li>
-                                <li><a href="/volume.aspx">Volume-Priced Prints</a></li>
+                                <li><a href="/volume.aspx">Volume Priced Prints</a></li>
                                 <li><a href="/walletboxes.aspx">Wallet Boxes</a></li>
                                 <li><a href="/walletprints.aspx">Wallet Prints</a></li></div>
                             </ul>
                         </li>
-                        <li><a href="/mounting.aspx" style="cursor:default;"><img src="https://s3.amazonaws.com/PNCGalleries/static/images/NPLWebsite_newheader_mounted.jpg" alt="Prints and Mounting" onmouseover="this.src='https://s3.amazonaws.com/PNCGalleries/static/images/NPLWebsite_newheader_mounted_hover.jpg'" onmouseout="this.src='https://s3.amazonaws.com/PNCGalleries/static/images/NPLWebsite_newheader_mounted.jpg'"></a>
+                        <li><a href="/mounting.aspx" style="cursor:default;"><img src="https://s3.amazonaws.com/PNCGalleries/static/images/NPLWebsite_newheader14_mounted.jpg" alt="Prints and Mounting" onmouseover="this.src='https://s3.amazonaws.com/PNCGalleries/static/images/NPLWebsite_newheader14_mounted_hover.jpg'" onmouseout="this.src='https://s3.amazonaws.com/PNCGalleries/static/images/NPLWebsite_newheader14_mounted.jpg'"></a>
                         	<ul class="supportdropdown">
                             	<div class="supportsection" style="border:none;">
                                 <li><a href="/mounting_bamboo.aspx">Bamboo</a></li>
@@ -438,7 +708,7 @@ window._fbq.push(["track", "PixelInitialized", {}]);
                                 <li><a href="/mounting_styrene.aspx">Styrene</a></li></div>
                         	</ul>
                         </li>
-                        <li><a href="/wall_decor.aspx" style="cursor:default; "><img src="https://s3.amazonaws.com/PNCGalleries/static/images/NPLWebsite_newheader_walldecor.jpg" alt="Wall Décor" onmouseover="this.src='https://s3.amazonaws.com/PNCGalleries/static/images/NPLWebsite_newheader_walldecor_hover.jpg'" onmouseout="this.src='https://s3.amazonaws.com/PNCGalleries/static/images/NPLWebsite_newheader_walldecor.jpg'"></a>
+                        <li><a href="/wall_decor.aspx" style="cursor:default; "><img src="https://s3.amazonaws.com/PNCGalleries/static/images/NPLWebsite_newheader14_walldecor.jpg" alt="Wall Décor" onmouseover="this.src='https://s3.amazonaws.com/PNCGalleries/static/images/NPLWebsite_newheader14_walldecor_hover.jpg'" onmouseout="this.src='https://s3.amazonaws.com/PNCGalleries/static/images/NPLWebsite_newheader14_walldecor.jpg'"></a>
                         	<ul class="supportdropdown2col">
                             	<div class="supportsection">
                                 <li><a href="/gallery_blocks.aspx">Floating Gallery Blocks</a></li>
@@ -460,7 +730,7 @@ window._fbq.push(["track", "PixelInitialized", {}]);
                                 </div>
                             </ul>
                         </li>
-                        <li><a href="/photo_gifts.aspx" style="cursor:default;"><img src="https://s3.amazonaws.com/PNCGalleries/static/images/NPLWebsite_newheader_photogifts.jpg" alt="Photo Gifts" onmouseover="this.src='https://s3.amazonaws.com/PNCGalleries/static/images/NPLWebsite_newheader_photogifts_hover.jpg'" onmouseout="this.src='https://s3.amazonaws.com/PNCGalleries/static/images/NPLWebsite_newheader_photogifts.jpg'"></a>
+                        <li><a href="/photo_gifts.aspx" style="cursor:default;"><img src="https://s3.amazonaws.com/PNCGalleries/static/images/NPLWebsite_newheader14_photogifts.jpg" alt="Photo Gifts" onmouseover="this.src='https://s3.amazonaws.com/PNCGalleries/static/images/NPLWebsite_newheader14_photogifts_hover.jpg'" onmouseout="this.src='https://s3.amazonaws.com/PNCGalleries/static/images/NPLWebsite_newheader14_photogifts.jpg'"></a>
                         	<ul class="supportdropdown2col">
                             	<div class="supportsection">
                                 <li><a href="/flipcalendars.aspx">12 - Month Flip Calendars</a></li>
@@ -468,13 +738,16 @@ window._fbq.push(["track", "PixelInitialized", {}]);
                                 <li><a href="/accordionbooks.aspx">Accordion Books</a></li>
                                 <li><a href="/bookmarks.aspx">Bookmarks</a></li>
                                 <li><a href="/boutiquepackaging.aspx">Boutique Packaging</a></li>
+                                <li><a href="/usbdrives.aspx"><span style="color:#b6e0df !important; display:inline;">*NEW*</span> Custom USB Drives</a></li>
                                 <li><a href="/designermagnets.aspx">Designer Photo Magnets</a></li>
+                                <li><a href="/dogtags.aspx">Dog Tags</a></li>
                                 <li><a href="/dvd.aspx">DVD Cases</a></li>
                                 <li><a href="/imageboxes.aspx">Image Boxes</a></li>
-                                <li><a href="/magazinecovers.aspx">Magazine Covers</a></li>
-                                
+                                <li><a href="/keychains.aspx">Keychains</a></li>
                                 </div>
                                 <div class="supportsection" style="border:none;">
+                                <li><a href="/luggagetags.aspx">Luggage Tags</a></li>
+                                <li><a href="/magazinecovers.aspx">Magazine Covers</a></li>
                                 <li><a href="/metalornaments.aspx">Metal Ornaments</a></li>
                                 <li><a href="/senior.aspx">Memory Mates</a></li>
                                 <li><a href="/notepads.aspx">Notepads</a></li>
@@ -486,20 +759,25 @@ window._fbq.push(["track", "PixelInitialized", {}]);
                                 <li><a href="/tradercards.aspx">Trader Cards</a></li></div>
                             </ul>
                         </li>
-                        <li><a href="/albums.aspx" style="cursor:default;"><img src="https://s3.amazonaws.com/PNCGalleries/static/images/NPLWebsite_newheader_albums.jpg" alt="Albums" onmouseover="this.src='https://s3.amazonaws.com/PNCGalleries/static/images/NPLWebsite_newheader_albums_hover.jpg'" onmouseout="this.src='https://s3.amazonaws.com/PNCGalleries/static/images/NPLWebsite_newheader_albums.jpg'"></a>
+                        <li><a href="/album99.aspx" style="cursor:default;"><img src="https://s3.amazonaws.com/PNCGalleries/static/images/NPLWebsite_newheader14_albums.jpg" alt="Albums" onmouseover="this.src='https://s3.amazonaws.com/PNCGalleries/static/images/NPLWebsite_newheader14_albums_hover.jpg'" onmouseout="this.src='https://s3.amazonaws.com/PNCGalleries/static/images/NPLWebsite_newheader14_albums.jpg'"></a>
                         	<ul class="supportdropdown">
                             	<div class="supportsection" style="border:none;">
-                                <li><a href="/albums_acrylic.aspx">Acrylic Cover</a></li>
-                                <li><a href="/albumdesign.aspx">Album Design Services</a></li>
-                                <li><a href="/album99.aspx">Album 99</a></li>
-                                <li><a href="/albums_cameo.aspx">Cameo Cover</a></li>
-                                <li><a href="/albums_genleather.aspx">Genuine Leather</a></li>
-                                <li><a href="/albums_leatherette.aspx">Leatherette</a></li>
-                                <li><a href="/albums_metallic.aspx">Metallic Cover</a></li>
-                                <li><a href="/albums_photowrap.aspx">Photo Wrap Cover</a></li></div>
+                                <li><a href="/album99.aspx">Album99</a></li>
+                                <li><a href="/albums.aspx">Infinity Albums</a>
+                                		<ul class="supportdropdown2">
+                                        <li><a href="/albums_acrylic.aspx">Acrylic Cover</a></li>
+                                			<li><a href="/albumdesign.aspx">Album Design Services</a></li>
+                                        <li><a href="/albums_cameo.aspx">Cameo Cover</a></li>
+                                        <li><a href="/albums_genleather.aspx">Genuine Leather</a></li>
+                                        <li><a href="/albums_leatherette.aspx">Leatherette</a></li>
+                                        <li><a href="/albums_metallic.aspx">Metallic Cover</a></li>
+                                        <li><a href="/albums_photowrap.aspx">Photo Wrap Cover</a></li>
+                                    </ul>
+                                </li>
+                                </div>
                         	</ul>
                         </li>
-                        <li><a href="/press_cards.aspx" style="cursor:default; "><img src="https://s3.amazonaws.com/PNCGalleries/static/images/NPLWebsite_newheader_cards.jpg" alt="Cards" onmouseover="this.src='https://s3.amazonaws.com/PNCGalleries/static/images/NPLWebsite_newheader_cards_hover.jpg'" onmouseout="this.src='https://s3.amazonaws.com/PNCGalleries/static/images/NPLWebsite_newheader_cards.jpg'"></a>
+                        <li><a href="/press_cards.aspx" style="cursor:default; "><img src="https://s3.amazonaws.com/PNCGalleries/static/images/NPLWebsite_newheader14_cards.jpg" alt="Cards" onmouseover="this.src='https://s3.amazonaws.com/PNCGalleries/static/images/NPLWebsite_newheader14_cards_hover.jpg'" onmouseout="this.src='https://s3.amazonaws.com/PNCGalleries/static/images/NPLWebsite_newheader14_cards.jpg'"></a>
                         	<ul class="supportdropdown">
                             	<div class="supportsection" style="border:none;"><li><a href="/accordion.aspx">Accordion Fold</a></li>
                                 <li><a href="/businesscards.aspx">Business Cards</a></li>
@@ -511,7 +789,7 @@ window._fbq.push(["track", "PixelInitialized", {}]);
                                 <li><a href="/tri_fold.aspx">Tri Fold</a></li></div>
                         	</ul>
                         </li>
-                        <li><a href="/allphotobooks.aspx" style="cursor:default;"><img src="https://s3.amazonaws.com/PNCGalleries/static/images/NPLWebsite_newheader_photobooks.jpg" alt="Photobooks" onmouseover="this.src='https://s3.amazonaws.com/PNCGalleries/static/images/NPLWebsite_newheader_photobooks_hover.jpg'" onmouseout="this.src='https://s3.amazonaws.com/PNCGalleries/static/images/NPLWebsite_newheader_photobooks.jpg'"></a>
+                        <li><a href="/allphotobooks.aspx" style="cursor:default;"><img src="https://s3.amazonaws.com/PNCGalleries/static/images/NPLWebsite_newheader14_photobooks.jpg" alt="Photobooks" onmouseover="this.src='https://s3.amazonaws.com/PNCGalleries/static/images/NPLWebsite_newheader14_photobooks_hover.jpg'" onmouseout="this.src='https://s3.amazonaws.com/PNCGalleries/static/images/NPLWebsite_newheader14_photobooks.jpg'"></a>
                         	<ul class="supportdropdown">
                             	<div class="supportsection" style="border:none;">
                                 	<li><a href="/photobooks.aspx">Photo Books</a></li>
@@ -519,7 +797,16 @@ window._fbq.push(["track", "PixelInitialized", {}]);
                                 </div>
                             </ul>
                         </li>
-                        <li><a href="/packageprinting.aspx"><img src="https://s3.amazonaws.com/PNCGalleries/static/images/NPLWebsite_newheader_schoolprints.jpg" alt="School Prints" onmouseover="this.src='https://s3.amazonaws.com/PNCGalleries/static/images/NPLWebsite_newheader_schoolprints_hover.jpg'" onmouseout="this.src='https://s3.amazonaws.com/PNCGalleries/static/images/NPLWebsite_newheader_schoolprints.jpg'"></a>
+                        <li><a href="/framing.aspx" style="cursor:default;"><img src="https://s3.amazonaws.com/PNCGalleries/static/images/NPLWebsite_newheader14_framing.jpg" alt="Photobooks" onmouseover="this.src='https://s3.amazonaws.com/PNCGalleries/static/images/NPLWebsite_newheader14_framing_hover.jpg'" onmouseout="this.src='https://s3.amazonaws.com/PNCGalleries/static/images/NPLWebsite_newheader14_framing.jpg'"></a>
+                            <ul class="supportdropdown">
+                                <div class="supportsection" style="border:none;">
+                                    <li><a href="/sweetframes.aspx">Sweet Frames</a></li>
+                                   	<li><a href="/ecoframes.aspx">Recycled Eco-Frames</a></li>
+                                    <li><a href="/woodframes.aspx">Wood Frames</a></li>
+                                </div>
+                            </ul>
+                        </li>
+                        <li><a href="http://schoolprints.com" target="_blank"><img src="https://s3.amazonaws.com/PNCGalleries/static/images/NPLWebsite_newheader14_schoolprints.jpg" alt="School Prints" onmouseover="this.src='https://s3.amazonaws.com/PNCGalleries/static/images/NPLWebsite_newheader14_schoolprints_hover.jpg'" onmouseout="this.src='https://s3.amazonaws.com/PNCGalleries/static/images/NPLWebsite_newheader14_schoolprints.jpg'"></a>
                         </li>
                         <!--<li><a href="/framing.aspx" style="cursor:default;"><img src="https://s3.amazonaws.com/PNCGalleries/static/images/NPLWebsite_newheader_framing.jpg" alt="Framing" onmouseover="this.src='https://s3.amazonaws.com/PNCGalleries/static/images/NPLWebsite_newheader_framing_hover.jpg'" onmouseout="this.src='https://s3.amazonaws.com/PNCGalleries/static/images/NPLWebsite_newheader_framing.jpg'"/></a>
                         	<ul class="supportdropdown">
@@ -533,13 +820,14 @@ window._fbq.push(["track", "PixelInitialized", {}]);
                     <script type="text/javascript">
 						var today = new Date();
 						var startsaledate = new Date(2013,10,28);
-						var endsaledate = new Date(2014,3,1);
+						var endsaledate = new Date(2014,6,9);
 					
 					if(today>startsaledate && today<endsaledate){
-						document.getElementById("shopbutton").src="https://s3.amazonaws.com/PNCGalleries/static/images/NPLWebsite_newheader_shopproducts.jpg";	
-						document.getElementById("salebutton").src="https://s3.amazonaws.com/PNCGalleries/static/images/NPLWebsite_newheader_sale.jpg";	
+						document.getElementById("shopbutton").src="https://s3.amazonaws.com/PNCGalleries/static/images/NPLWebsite_newheader14_shopproducts.jpg";	
+						document.getElementById("salebutton").src="https://s3.amazonaws.com/PNCGalleries/static/images/NPLWebsite_newheader14_sale.jpg";	
 						}
 					</script> 
+                        
                 </ul>
                 
                 <!-- Navigation Block End -->
@@ -556,15 +844,17 @@ window._fbq.push(["track", "PixelInitialized", {}]);
                 <!-- Gallery block end-->
             </div>
 			<script type="text/javascript">
-				var today = new Date();
-				var endsaledate = new Date(2013,10,13);
-				var finalday=new Date();
-				finalday.setFullYear(2013,10,10);
-				
-				if(today<endsaledate){
-					document.getElementById("onsaletext").innerHTML="<p>ENDS TONIGHT! Up to 51% off 16x20 Prints.</p>";
-				}
-			</script>
+			    var today = new Date();
+			    var startsaledate = new Date(2013, 10, 27);
+			    var endsaledate = new Date(2014, 3, 9);
+
+			    if (today > startsaledate && today < endsaledate) {
+			        document.getElementById("onsaletext").innerHTML = "<p>On Sale: Pro Prints / Metal / G-Blocks + More! <a href='/current_sales.aspx'>Click Here</a></p>";
+			    }
+			    else {
+			        document.getElementById("onsaletext").innerHTML = '<p style="font-family:Futura, Geneva, sans-serif; color:#44a5bd;">Free Shipping on $50.00+ Orders <a href="/turnaround.aspx" style="color:#44a5bd;"><i>Details.</i></a></p>';
+			    }
+	</script>
 			
             
 
@@ -673,49 +963,34 @@ window._fbq.push(["track", "PixelInitialized", {}]);
 <!-- END PPC Keyword Reporting -->
 
 
-<!-- OneStat Script Code Start -->
-<script type="text/javascript">
-<!--
-    // Account ID : 386496
-    // Website URL: http://www.nationsphotolab.com
-    // Copyright (C) 2002-2007 OneStat.com All Rights Reserved
-    function OneStat_Pageview() {
-        var d = document;
-        var sid = "386496";
-        var CONTENTSECTION = "";
-        var osp_URL = d.URL;
-        var osp_Title = d.title;
-        var t = new Date();
-        var p = "http" + (d.URL.indexOf('https:') == 0 ? 's' : '') + "://stat.onestat.com/stat.aspx?tagver=2&sid=" + sid;
-        p += "&url=" + escape(osp_URL);
-        p += "&ti=" + escape(osp_Title);
-        p += "&section=" + escape(CONTENTSECTION);
-        p += "&rf=" + escape(parent == self ? document.referrer : top.document.referrer);
-        p += "&tz=" + escape(t.getTimezoneOffset());
-        p += "&ch=" + escape(t.getHours());
-        p += "&js=1";
-        p += "&ul=" + escape(navigator.appName == "Netscape" ? navigator.language : navigator.userLanguage);
-        if (osp_URL != d.URL) p += "&ol=" + escape(d.URL);
-        if (typeof (screen) == "object") {
-            p += "&sr=" + screen.width + "x" + screen.height; p += "&cd=" + screen.colorDepth;
-            p += "&jo=" + (navigator.javaEnabled() ? "Yes" : "No");
-        }
-        d.write('<img id="ONESTAT_TAG" border="0" width="1" height="1" src="' + p + '" >');
-    }
-    OneStat_Pageview();
-//-->
-</script><img id="ONESTAT_TAG" border="0" width="1" height="1" src="https://stat.onestat.com/stat.aspx?tagver=2&amp;sid=386496&amp;url=https%3A//web.archive.org/web/20140331071358id_/http%253A//www.nationsphotolab.com/privacypolicy.aspx&amp;ti=Terms%3A%20Nations%20Photo%20Lab&amp;section=&amp;rf=&amp;tz=0&amp;ch=12&amp;js=1&amp;ul=en-US&amp;sr=800x600&amp;cd=24&amp;jo=No">
-<noscript>
-<a href="http://www.onestat.com"><img border="0" width="1" height="1" src="http://stat.onestat.com/stat.aspx?tagver=2&amp;sid=386496&amp;js=No&amp;" ALT="OneStat.com Web Analytics"></a>
-</noscript>
-<!-- OneStat Script Code --> 
+
 
 
 
 
 
 <!-- END TRACKING SCRIPTS --><!-- #EndLibraryItem --><iframe src="http://pixel.fetchback.com/serve/fb/pdc?cat=&amp;name=landing&amp;sid=4089" scrolling="no" width="1" height="1" marginheight="0" marginwidth="0" frameborder="0"></iframe>
-
+<script type="text/javascript">
+var google_tag_params = {
+ecomm_prodid: '',
+ecomm_pagetype: 'other',
+ecomm_totalvalue: '',
+};
+</script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1067606347;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">;
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1067606347/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
 
 			
 			
@@ -751,22 +1026,23 @@ window._fbq.push(["track", "PixelInitialized", {}]);
                     <img src="https://s3.amazonaws.com/PNCGalleries/static/images/bottomfooter.jpg" width="856" height="25">
                 </div>-->
 				<div id="footermainnav">
-					<a href="/index.aspx"><img src="https://s3.amazonaws.com/PNCGalleries/static/images/NPLwebsite_newfooter_logo.jpg" alt="Nations Photo lab" style="padding-bottom:10px;"></a>
-					<a href="/products.aspx"><img src="https://s3.amazonaws.com/PNCGalleries/static/images/NPLwebsite_newfooter_shopproducts_new.jpg" alt="All Products"></a>
-					<a href="/Users/ViewPhotosList?productid=181"><img src="https://s3.amazonaws.com/PNCGalleries/static/images/NPLwebsite_newfooter_quickprints_new.jpg" alt="Quick Prints"></a>
-					<a href="/current_sales.aspx"><img src="https://s3.amazonaws.com/PNCGalleries/static/images/NPLwebsite_newfooter_sale_new.jpg" alt="Sale"></a>
-					<a href="/support.aspx"><img src="https://s3.amazonaws.com/PNCGalleries/static/images/NPLwebsite_newfooter_support_new.jpg" alt="Support"></a>
-					<a href="/careers.aspx"><img src="https://s3.amazonaws.com/PNCGalleries/static/images/NPLwebsite_newfooter_careers_new.jpg" alt="Careers"></a>
+					<a href="/index.aspx"><img src="https://s3.amazonaws.com/PNCGalleries/static/images/NPLwebsite_newfooter_logo.jpg" alt="Nations Photo lab" style="padding-bottom:13px;"></a>
+					<a href="/products.aspx"><img src="https://s3.amazonaws.com/PNCGalleries/static/images/NPLwebsite_newfooter14_shopproducts.jpg" alt="All Products" onmouseover="this.src='https://s3.amazonaws.com/PNCGalleries/static/images/NPLwebsite_newfooter14_shopproducts_on.jpg'" onmouseout="this.src='https://s3.amazonaws.com/PNCGalleries/static/images/NPLwebsite_newfooter14_shopproducts.jpg'"></a>
+					<a href="/Users/ViewPhotosList?productid=181"><img src="https://s3.amazonaws.com/PNCGalleries/static/images/NPLwebsite_newfooter14_quickprints.jpg" alt="Quick Prints" onmouseover="this.src='https://s3.amazonaws.com/PNCGalleries/static/images/NPLwebsite_newfooter14_quickprints_on.jpg'" onmouseout="this.src='https://s3.amazonaws.com/PNCGalleries/static/images/NPLwebsite_newfooter14_quickprints.jpg'"></a>
+					<a href="/current_sales.aspx"><img src="https://s3.amazonaws.com/PNCGalleries/static/images/NPLwebsite_newfooter14_sale.jpg" alt="Sale" onmouseover="this.src='https://s3.amazonaws.com/PNCGalleries/static/images/NPLwebsite_newfooter14_sale_on.jpg'" onmouseout="this.src='https://s3.amazonaws.com/PNCGalleries/static/images/NPLwebsite_newfooter14_sale.jpg'"></a>
+					<a href="/support.aspx"><img src="https://s3.amazonaws.com/PNCGalleries/static/images/NPLwebsite_newfooter14_support.jpg" alt="Support" onmouseover="this.src='https://s3.amazonaws.com/PNCGalleries/static/images/NPLwebsite_newfooter14_support_on.jpg'" onmouseout="this.src='https://s3.amazonaws.com/PNCGalleries/static/images/NPLwebsite_newfooter14_support.jpg'"></a>
+					<a href="/careers.aspx"><img src="https://s3.amazonaws.com/PNCGalleries/static/images/NPLwebsite_newfooter14_careers.jpg" alt="Careers" onmouseover="this.src='https://s3.amazonaws.com/PNCGalleries/static/images/NPLwebsite_newfooter14_careers_on.jpg'" onmouseout="this.src='https://s3.amazonaws.com/PNCGalleries/static/images/NPLwebsite_newfooter14_careers.jpg'"></a>
 				</div>
 				<div id="footersubnav">
-					<a href="/allprints.aspx"><img src="https://s3.amazonaws.com/PNCGalleries/static/images/NPLwebsite_newfooter_prints.jpg" alt="Prints"></a>
-					<a href="/mounting.aspx"><img src="https://s3.amazonaws.com/PNCGalleries/static/images/NPLwebsite_newfooter_printmounting.jpg" alt="Prints + Mounting"></a>
-					<a href="/wall_decor.aspx"><img src="https://s3.amazonaws.com/PNCGalleries/static/images/NPLwebsite_newfooter_walldecor.jpg" alt="Wall Décor"></a>
-					<a href="/photo_gifts.aspx"><img src="https://s3.amazonaws.com/PNCGalleries/static/images/NPLwebsite_newfooter_photogifts.jpg" alt="Photo Gifts"></a>
-					<a href="/albums.aspx"><img src="https://s3.amazonaws.com/PNCGalleries/static/images/NPLwebsite_newfooter_albums.jpg" alt="Albums"></a>
-					<a href="/press_cards.aspx"><img src="https://s3.amazonaws.com/PNCGalleries/static/images/NPLwebsite_newfooter_cards.jpg" alt="Cards"></a>
-					<a href="/photobooks.aspx"><img src="https://s3.amazonaws.com/PNCGalleries/static/images/NPLwebsite_newfooter_photobook.jpg" alt="Photo Books"></a>
-					<a href="/framing.aspx"><img src="https://s3.amazonaws.com/PNCGalleries/static/images/NPLwebsite_newfooter_framing.jpg" alt="Framing"></a>
+					<a href="/allprints.aspx"><img src="https://s3.amazonaws.com/PNCGalleries/static/images/NPLwebsite_newfooter14_prints.jpg" alt="Prints" onmouseover="this.src='https://s3.amazonaws.com/PNCGalleries/static/images/NPLwebsite_newfooter14_prints_on.jpg'" onmouseout="this.src='https://s3.amazonaws.com/PNCGalleries/static/images/NPLwebsite_newfooter14_prints.jpg'"></a>
+					<a href="/mounting.aspx"><img src="https://s3.amazonaws.com/PNCGalleries/static/images/NPLwebsite_newfooter14_printmounting.jpg" alt="Prints + Mounting" onmouseover="this.src='https://s3.amazonaws.com/PNCGalleries/static/images/NPLwebsite_newfooter14_printmounting_on.jpg'" onmouseout="this.src='https://s3.amazonaws.com/PNCGalleries/static/images/NPLwebsite_newfooter14_printmounting.jpg'"></a>
+					<a href="/wall_decor.aspx"><img src="https://s3.amazonaws.com/PNCGalleries/static/images/NPLwebsite_newfooter14_walldecor.jpg" alt="Wall Décor" onmouseover="this.src='https://s3.amazonaws.com/PNCGalleries/static/images/NPLwebsite_newfooter14_walldecor_on.jpg'" onmouseout="this.src='https://s3.amazonaws.com/PNCGalleries/static/images/NPLwebsite_newfooter14_walldecor.jpg'"></a>
+					<a href="/photo_gifts.aspx"><img src="https://s3.amazonaws.com/PNCGalleries/static/images/NPLwebsite_newfooter14_photogifts.jpg" alt="Photo Gifts" onmouseover="this.src='https://s3.amazonaws.com/PNCGalleries/static/images/NPLwebsite_newfooter14_photogifts_on.jpg'" onmouseout="this.src='https://s3.amazonaws.com/PNCGalleries/static/images/NPLwebsite_newfooter14_photogifts.jpg'"></a>
+					<a href="/albums.aspx"><img src="https://s3.amazonaws.com/PNCGalleries/static/images/NPLwebsite_newfooter14_albums.jpg" alt="Albums" onmouseover="this.src='https://s3.amazonaws.com/PNCGalleries/static/images/NPLwebsite_newfooter14_albums_on.jpg'" onmouseout="this.src='https://s3.amazonaws.com/PNCGalleries/static/images/NPLwebsite_newfooter14_albums.jpg'"></a>
+					<a href="/press_cards.aspx"><img src="https://s3.amazonaws.com/PNCGalleries/static/images/NPLwebsite_newfooter14_cards.jpg" alt="Cards" onmouseover="this.src='https://s3.amazonaws.com/PNCGalleries/static/images/NPLwebsite_newfooter14_cards_on.jpg'" onmouseout="this.src='https://s3.amazonaws.com/PNCGalleries/static/images/NPLwebsite_newfooter14_cards.jpg'"></a>
+					<a href="/photobooks.aspx"><img src="https://s3.amazonaws.com/PNCGalleries/static/images/NPLwebsite_newfooter14_photobook.jpg" alt="Photo Books" onmouseover="this.src='https://s3.amazonaws.com/PNCGalleries/static/images/NPLwebsite_newfooter14_photobook_on.jpg'" onmouseout="this.src='https://s3.amazonaws.com/PNCGalleries/static/images/NPLwebsite_newfooter14_photobook.jpg'"></a>
+					<a href="/framing.aspx"><img src="https://s3.amazonaws.com/PNCGalleries/static/images/NPLwebsite_newfooter14_framing.jpg" alt="Framing" onmouseover="this.src='https://s3.amazonaws.com/PNCGalleries/static/images/NPLwebsite_newfooter14_framing_on.jpg'" onmouseout="this.src='https://s3.amazonaws.com/PNCGalleries/static/images/NPLwebsite_newfooter14_framing.jpg'"></a>
+					<a href="http://www.schoolprints.com"><img src="https://s3.amazonaws.com/PNCGalleries/static/images/NPLwebsite_newfooter14_schoolprints.jpg" alt="school prints" onmouseover="this.src='https://s3.amazonaws.com/PNCGalleries/static/images/NPLwebsite_newfooter14_schoolprints_on.jpg'" onmouseout="this.src='https://s3.amazonaws.com/PNCGalleries/static/images/NPLwebsite_newfooter14_schoolprints.jpg'"></a>
 				</div>
 				
 				<div id="socialnetworks">
@@ -775,7 +1051,9 @@ window._fbq.push(["track", "PixelInitialized", {}]);
                     <a href="http://www.twitter.com/natphotolab" target="_blank"><img src="https://s3.amazonaws.com/PNCGalleries/static/images/NPLwebsite_footer_twitternew.jpg" alt="Twitter"></a>
 					<a href="http://www.pinterest.com/nationsphotolab" target="_blank"><img src="https://s3.amazonaws.com/PNCGalleries/static/images/NPLwebsite_footer_pinterestnew.jpg" alt="Pinterest"></a>
 				</div>
-				<div id="phonenumber"><a href="mailto:info@nationsphotolab.com"><img src="https://s3.amazonaws.com/PNCGalleries/static/images/NPLwebsite_newfooter_sayhicallus.jpg" alt="" usemap="#sayhi"></a><div style="background-image:url('https://s3.amazonaws.com/PNCGalleries/static/images/NPLwebsite_newfooter_numbersrim.gif'); background-repeat:no-repeat; height:38px; width:245px; padding:15px; font-size:27px; font-weight:600; text-align:center;" class="productinfotext">1-800-315-0420</div></div>
+				<div id="phonenumber" style="background-image:url('https://s3.amazonaws.com/PNCGalleries/static/images/NPLwebsite_newfooter14_sayhicallus.jpg'); background-position:top right;  background-repeat:no-repeat; padding-top:80px; margin-top:17px; width:296px; text-align:left;">
+					<a href="/reviews.aspx"><img src="https://s3.amazonaws.com/PNCGalleries/static/images/NPLwebsite_newfooter14_reviews.jpg" alt="Reviews" onmouseover="this.src='https://s3.amazonaws.com/PNCGalleries/static/images/NPLwebsite_newfooter14_reviews_on.jpg'" onmouseout="this.src='https://s3.amazonaws.com/PNCGalleries/static/images/NPLwebsite_newfooter14_reviews.jpg'" style="margin-bottom:12px;"></a><br>
+					<a href="/ourstory.aspx" onclick="_gaq.push(['_trackEvent', 'reviews', 'click', 'All']);"><img src="https://s3.amazonaws.com/PNCGalleries/static/images/NPLwebsite_newfooter14_story.jpg" alt="Framing" onmouseover="this.src='https://s3.amazonaws.com/PNCGalleries/static/images/NPLwebsite_newfooter14_story_on.jpg'" onmouseout="this.src='https://s3.amazonaws.com/PNCGalleries/static/images/NPLwebsite_newfooter14_story.jpg'" style="margin-bottom:17px;"></a><div style="background-image:url('https://s3.amazonaws.com/PNCGalleries/static/images/NPLwebsite_newfooter_numbersrim.gif'); background-repeat:no-repeat; height:38px; width:245px; padding: 15px 25px; font-size:27px; font-weight:700; text-align:center;" class="productinfotext">1-800-315-0420</div></div>
 				<div style="clear:both;"></div>
 				<p class="copyright">© 2014 Nations Photo Lab. All Rights Reserved.</p>
 				<div class="sitelinks">
@@ -846,17 +1124,29 @@ window.onload = function(){
    if(oldonload){oldonload()}}; 
 }()); 
 </script>
-
+<script type="text/javascript">
+  /* <![CDATA[ */
+  document.write (
+    '<img src="http://ci59.actonsoftware.com/acton/bn/9910/visitor.gif?ts='+
+    new Date().getTime()+
+    '&ref='+escape(document.referrer) + '">'
+  );
+  var aoAccountId = '9910';
+  var aoCookieMode = 'STANDARD';
+  var aoCookieDomain = 'actonsoftware.com';
+  var aoServerContext = 'http://ci59.actonsoftware.com/acton';
+  /* ]]> */
+</script><img src="http://ci59.actonsoftware.com/acton/bn/9910/visitor.gif?ts=1580388966390&amp;ref=">
 
 <!-- Qualaroo for nationsphotolab.com --> <!-- Paste this code right after the <body> tag on every page of your site. --> <script type="text/javascript"> var _kiq = _kiq || []; (function(){ setTimeout(function(){ var d = document, f = d.getElementsByTagName('script')[0], s = d.createElement('script'); s.type = 'text/javascript'; s.async = true; s.src = '//s3.amazonaws.com/ki.js/50984/aMX.js'; f.parentNode.insertBefore(s, f); }, 1); })(); </script>
 
 <script type="text/javascript">
 		var today = new Date();
 		var startsaledate = new Date(2013,10,27);
-		var endsaledate = new Date(2014,3,1);
+		var endsaledate = new Date(2014,6,9);
 	
 	if(today>startsaledate && today<endsaledate){
-			document.getElementById("onsaletext").innerHTML="<p>Shop 30% Off All Press Products! <a href='/current_sales.aspx'>Click Here</a></p>";
+			document.getElementById("onsaletext").innerHTML="<p>SALE ALERT! Up to 40% Off Popular Prints. <a href='/current_sales.aspx'>Click Here</a></p>";
 		}
 		else{
 			document.getElementById("onsaletext").innerHTML='<p style="font-family:Futura, Geneva, sans-serif; color:#44a5bd;">Free Shipping on $50.00+ Orders <a href="/turnaround.aspx" style="color:#44a5bd;"><i>Details.</i></a></p>';
