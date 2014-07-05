@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usaupload.net privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214234903id_/http%3A//www.usaupload.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usaupload.net privacy policy that was archived on 2014-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140705225204id_/http%3A//www.usaupload.net/privacy.html) for the most accurate reproduction.*
 
 # USAupload.net - Privacy Policy
 
