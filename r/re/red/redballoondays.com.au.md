@@ -1,22 +1,26 @@
-> *The following text is extracted and transformed from the redballoondays.com.au privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213232858id_/http%3A//www.redballoon.com.au/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redballoondays.com.au privacy policy that was archived on 2014-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140705074819id_/https%3A//www.redballoon.com.au/help/privacy) for the most accurate reproduction.*
 
 # RedBalloon | Privacy and Copyright
 
 **RedBalloon Privacy Policy**
 
-Last updated: 14/10/2012
+Last updated: 05/05/2014
 
-RedBalloon Pty Ltd (ABN 13 097 376 442) and RedBalloon NZ Ltd (CO. # 1417960) ( **RedBalloon** ) is sensitive to the concerns our online users may have about the safety and use of the personal information they provide. Please read this Privacy Policy carefully to understand how any personal information collected by RedBalloon is used.
+RedBalloon Pty Ltd (ABN 13 097 376 442) and RedBalloon NZ Ltd (CO. # 1417960) ( **RedBalloon** , we or our) is sensitive to the concerns our online users may have about the safety and use of the personal information they provide. Please read this Privacy Policy carefully to understand how any personal information collected by RedBalloon is used.
 
 This website www.redballoon.com.au/ www.redballoon.co.nz (the **Site** ) is used by RedBalloon to give visitors and customers ( **Users** ) access to various products and services (the **Services** ).
 
-Access to the Site and the provision of the Services is conditional on Users accepting the terms of this Privacy Policy. The Privacy Policy applies to the collection, storage, use and dissemination by RedBalloon of the personal information of the individuals using the Site.
+Access to the Site and the provision of the Services is conditional on Users accepting the terms of this Privacy Policy. The Privacy Policy applies to the collection, storage, use and disclosure by RedBalloon of the personal information of the individuals using the Site.
 
-This Privacy Policy has been developed in accordance with the _Commonwealth Privacy Act 1988_.
+This Privacy Policy has been developed in accordance with the Commonwealth Privacy Act 1988 and the Australian Privacy Principles (APPs).
+
+Although we will comply with this Privacy Policy in respect of information provided to us by persons under the age of 18 years, those persons must obtain the consent of a parent or guardian prior to using the Site and the parent or guardian will be responsible for appropriately supervising the person's use of the Site.
 
 **What we will do with a user’s personal information**
 
-Personal information collected from users is used for the following purposes:
+  * All personal information that RedBalloon or its related bodies corporate collect is reasonably necessary for the purposes relating to providing our services to Users. The purposes include:
+
+
 
 (a) process a booking and/or order (for example but not limited to sending order confirmation and booking confirmation details)
 
@@ -24,17 +28,25 @@ Personal information collected from users is used for the following purposes:
 
 (c) enhance functionality of the Site and Services when a User is logged in, e.g. but not limited to personalised recommendations and submission of customer feedback.
 
+  * If someone other than the individual provides us with personal information about an individual, that we did not ask for and we determine that we could have collected this information from the individual had we asked for it, we will notify the individual as soon as practicable. This notice will be given unless to do so would be in breach of an obligation of confidence. If we could not have collected this information, we will lawfully de identify or destroy that personal information.
+
+
+
 **What personal information we collect from you**
 
   * We request information from Users prior to their making a purchase or booking, for example contact information (like name, phone number, email address and delivery/ billing address). If there is an enquiry or trouble is experienced when processing an order or booking, this contact information is used to contact the User. This information will be saved for future orders and/ or bookings.
   * In order to facilitate purchases we also request financial information (like credit card number, expiration date). No credit card details are retained under any circumstances.
-  * The User will also be given the option to sign up for our email newsletter. Once subscribed a User is given the opportunity to 'opt-out' of receiving emailed information or other correspondence, by simply clicking the unsubscribe button at the bottom of any newsletter email they receive from us.
+  * In order to provide the best possible service to our customers we record all calls handled by our Customer Happiness team for coaching and training purposes. At the beginning of each call you will be given the opportunity to request that your call is not recorded. Call recordings are stored for 48 hours after which time they will be deleted.
+  * We will not generally collect any sensitive information from you, revealing your: race, ethnic origin, political opinions, religious or philosophical beliefs, trade union memberships or details of health or disability which we consider are unnecessary to our function.
+  * The User will also be given the option to sign up for our email newsletter. Once subscribed, RedBalloon may use personal information about the User for the primary purpose of providing User with services from RedBalloon or its partner suppliers, and for other purposes for which you would reasonably expect us to use that information. This includes sending the User information about new 'experiences', products, services and special offers by post, telephone or any form of electronic communication. By subscribing, the User authorises RedBalloon to use any email address or other contact information he/she has provided at any time for this purpose. The User will also be given the opportunity to 'opt-out' of receiving emailed information or other correspondence, by simply clicking the unsubscribe link at the bottom of any newsletter email they receive from us. The User agrees and acknowledges that even if he/she opts out of receiving marketing material, RedBalloon may still send the User essential information that it is legally required to send the User relating to the services they have acquired from us.
 
 
 
 **What we will not do with a user’s personal information**
 
-RedBalloon will keep a user’s personal information confidential and not sell or knowingly divulge user information to advertisers or any other third parties other than our partner suppliers in order to supply their service e.g. Experience Providers and our customer feedback platform. Other than to partners, we will not share a user’s personal information, unless:
+  * RedBalloon will keep a user’s personal information confidential and not sell or knowingly divulge user information to advertisers or any other third parties other than our partner suppliers in order to supply their service e.g. Experience Providers and our customer feedback platform. RedBalloon will take reasonable steps to ensure that these organisations are bound by privacy obligations in relation to the protection of User's personal information. Other than to partners, we will not share a user’s personal information, unless:
+
+
 
 (a) we are required to share your information with a third party in order to comply with the law or to comply with a court order or subpoena;
 
@@ -44,7 +56,7 @@ RedBalloon will keep a user’s personal information confidential and not sell o
 
 (d) to protect the safety and security of our users and our Site.
 
-**How we process a user’s personal information**
+**User's consent to our use of personal information**
 
   * We ask for users’ consent to the use of any personal information we collect from them in accordance with this Privacy Policy at the time of providing that information. If a user does not wish to provide us with their consent, they cannot agree to the Site Terms and Conditions and must not use the Site.
   * Our use of the personal information we collect is necessary in order for us to maintain the Site and facilitate users’ use of the Site. We do not collect any unnecessary personal data from users (for instance, their race or religious beliefs).
@@ -60,6 +72,7 @@ RedBalloon will keep a user’s personal information confidential and not sell o
 **Keeping a user’s personal information accurate**
 
   * The personal information we hold about a user (such as name and email address) is kept so that we may correctly identify that user. Users can update their personal information anytime from within the ‘My Account’ area of the Site.
+  * We take all reasonable steps to ensure that personal information held by us is accurate, up-to-date, complete, relevant and not misleading. If you believe that any of your personal information is not accurate, up-to-date, complete, relevant and not misleading, please contact us (see below) and we will take all reasonable steps to correct it within a reasonable time.
 
 
 
@@ -86,15 +99,15 @@ RedBalloon will keep a user’s personal information confidential and not sell o
 
 
 
-**Transfer of your data**
+**Transfer of your data outside of Australia**
 
-  * Users’ personal information is uploaded to and kept on servers that we maintain or that are maintained by third parties that comply with strict contractual privacy obligations. It is not otherwise transferred internationally except where a copy is sent to the user at their request. Users consent for their personal information to be transferred and stored in this manner at the time of registration.
+  * Users’ personal information is uploaded to and kept on servers that we maintain or that are maintained by third parties that comply with strict contractual privacy obligations. It is not otherwise transferred internationally except where a copy is sent to the user at their request. Users consent for their personal information to be transferred and stored in this manner is obtained at the time of registration.
 
 
 
-**Links**
+**Third Party and Linked Sites**
 
-  * This web site may contain links to other sites. Please be aware that RedBalloon is not responsible for the privacy practices of such other sites. We encourage our users to be aware that when they leave our site to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this web site.
+  * This web site contains links to other sites. Please be aware that RedBalloon is not responsible for the privacy practices of such other sites. We encourage our users to be aware that when they leave our site to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this web site.
 
 
 
@@ -106,7 +119,7 @@ RedBalloon will keep a user’s personal information confidential and not sell o
 
 **How can users access, change or delete their personally identifiable information?**
 
-  * Users have a right to get a copy from us of the personal information we hold about them. If you wish to receive a copy of this information please address your request to the Privacy and Data Protection Officer (contact details below). We will deal with your request promptly and in any case at least within 30 days of the date of receiving it. We will correct or delete inaccurate or incomplete personal information we hold about you at your request.
+  * Users have a right to get a copy from us of the personal information we hold about them. If you wish to receive a copy of this information please address your request to the Privacy and Data Protection Officer (contact details below). We will deal with your request promptly and in any case at least within 30 days of the date of receiving it. We will give access to the information in the manner you request, where reasonable and practicable. This will be subject to any exemptions allowed under the Privacy Act. We will correct or delete inaccurate or incomplete personal information we hold about you at your request.
 
 
 
