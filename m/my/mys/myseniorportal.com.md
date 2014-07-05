@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myseniorportal.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331102956id_/https%3A//www.myseniorportal.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myseniorportal.com privacy policy that was archived on 2014-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140705065704id_/https%3A//www.myseniorportal.com/content/privacy-policy) for the most accurate reproduction.*
 
 # My Senior Portal: Privacy policy
 
