@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the britainexpress.com privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215005122id_/http%3A//www.britainexpress.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the britainexpress.com privacy policy that was archived on 2014-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140705113149id_/http%3A//www.britainexpress.com/Privacy.htm) for the most accurate reproduction.*
 
 # Britain Express Privacy Policy
 
@@ -77,6 +77,19 @@ GL54 2NS
 
 ### Monarch Mayhem
 
+  
+
+
+|  **London Pass**  
+---  
+  
+[](https://web.archive.org/articles/Notebook/London-Pass.htm) [**Free entry to top London attractions**](https://web.archive.org/articles/Notebook/London-Pass.htm)
+
+**Including** Tower of London, St. Paul's Cathedral, Windsor Castle, London Zoo, London Dungeons, theatre, open-top buses... and a lot more!
+
+NOW - Save 5% off All London Pass purchases - just enter Voucher Code londpas05 when you buy your pass
+
+[**The London Pass**](https://web.archive.org/articles/Notebook/London-Pass.htm)  
   
   
 
