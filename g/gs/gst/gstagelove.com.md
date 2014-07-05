@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gstagelove.com privacy policy that was archived on 2013-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130425014748id_/https%3A//www.gstagelove.com/company/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gstagelove.com privacy policy that was archived on 2014-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140705165046id_/https%3A//www.gstagelove.com/company/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy – G-Stage Clothing − G-Stage
 
