@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citysocialising.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214040753id_/https%3A//www.citysocializer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citysocialising.com privacy policy that was archived on 2014-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140705040007id_/https%3A//www.citysocializer.com/privacy) for the most accurate reproduction.*
 
 # citysocializer - Privacy Policy
 
@@ -32,7 +32,9 @@ CitySocialising Ltd. (herein referred to as “citysocializer”) values your pr
 
 ## 3\. Disclosure of Your Information
 
-3.1. Opt-in requirement. WITHOUT YOUR AFFIRMATIVE CONSENT (ON A CASE-BY-CASE BASIS), WE DO NOT SELL, RENT OR OTHERWISE SHARE YOUR PERSONALLY IDENTIFIABLE INFORMATION WITH OTHER THIRD PARTIES, UNLESS OTHERWISE REQUIRED AS DESCRIBED BELOW UNDER "REQUIRED DISCLOSURES". TO THE EXTENT WE SHARE INFORMATION WITH OUR PARTNERS AND ADVERTISERS, WE SHARE ONLY AGGREGATED OR OTHERWISE NON-PERSONALLY IDENTIFIABLE INFORMATION THAT IS NOT LINKED TO YOUR PERSONALLY IDENTIFIABLE INFORMATION. Aggregated information that we may share with our marketing partners includes, but is not limited to, information showing the relative popularity of one citysocializer venue over another, or the popularity of certain citysocializer topics.
+3.1. Opt-in requirement. WITHOUT YOUR AFFIRMATIVE CONSENT (ON A CASE-BY-CASE BASIS), WE DO NOT SELL, RENT OR OTHERWISE SHARE YOUR PERSONALLY IDENTIFIABLE INFORMATION WITH OTHER THIRD PARTIES, UNLESS OTHERWISE REQUIRED AS DESCRIBED BELOW UNDER "REQUIRED DISCLOSURES". TO THE EXTENT WE SHARE INFORMATION WITH OUR PARTNERS AND ADVERTISERS, WE SHARE ONLY AGGREGATED OR OTHERWISE NON-PERSONALLY IDENTIFIABLE INFORMATION THAT IS NOT LINKED TO YOUR PERSONALLY IDENTIFIABLE INFORMATION.
+
+Aggregated information that we may share with our marketing partners includes, but is not limited to, information showing the relative popularity of one citysocializer venue over another, or the popularity of certain citysocializer topics.
 
 3.2. You should understand that information you provide through the registration process or post to the public areas of our website, or through the use of our Platform (including your name (if provided) and location information) may be accessible by and made public through syndication programs and by search engines, metasearch tools, crawlers, metacrawlers and other similar programs.
 
