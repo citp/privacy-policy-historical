@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sbwire.com privacy policy that was archived on 2014-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140605184159id_/http%3A//www.sbwire.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sbwire.com privacy policy that was archived on 2014-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140705031015id_/http%3A//www.sbwire.com/privacy) for the most accurate reproduction.*
 
 # SBWire - The Small Business Newswire | About Us > Our Privacy Policy
 
