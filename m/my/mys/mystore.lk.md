@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mystore.lk privacy policy that was archived on 2014-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140403220355id_/https%3A//www.mystore.lk/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mystore.lk privacy policy that was archived on 2014-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140705071604id_/https%3A//www.mystore.lk/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-At MyWish (Pvt) Ltd (hereinafter referred to as “MyWish”, “us”, “we”, “our”) we are committed to safeguarding and preserving the privacy of our visitors and to comply with any applicable data protection and privacy laws. The Privacy Policy applies to all Customers and Users (collectively referred to as “Users”). In addition this Privacy Policy applies to all products and services provided by www.mystore.lk (hereinafter referred to as “mystore.lk” or the “Site”, “website”).  
+At MyStore.lk (Pvt) Ltd (hereinafter referred to as “MyStore”, “us”, “we”, “our”) we are committed to safeguarding and preserving the privacy of our visitors and to comply with any applicable data protection and privacy laws. The Privacy Policy applies to all Customers and Users (collectively referred to as “Users”). In addition this Privacy Policy applies to all products and services provided by www.mystore.lk (hereinafter referred to as “mystore.lk” or the “Site”, “website”).  
 This Privacy Policy explains what happens to any personal data that you provide to us, or that we collect from you whilst you visit our Site. We do update this Policy from time to time so please do review this Policy regularly.
 
   **Information We Collect**  
