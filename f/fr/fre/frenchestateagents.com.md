@@ -1,20 +1,12 @@
-> *The following text is extracted and transformed from the frenchestateagents.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214234108id_/http%3A//www.frenchestateagents.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frenchestateagents.com privacy policy that was archived on 2014-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140705095325id_/http%3A//www.frenchestateagents.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy
 
-Thank you for visiting our web site. This privacy policy tells you how we use personal information collected at this site. Please read this privacy policy before using the site or submitting any personal information. By using the site, you are accepting the practices described in this privacy policy. These practices may be changed, but any changes will be posted and changes will only apply to activities and information on a going forward, not retroactive basis. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used.
+**Data Protection**  
+Leggett Immobilier acts in accordance with the Data Protection Act of 1998.  
+We respect the privacy of our visitors and do not rent, sell or deal in any personal information with third parties. On occasion your details may be shared with our approved contractors or agents to alert you of relevant products and services that you have asked to be notified of. Any information you provide will be treated in confidence and used only for the purpose for which you provided it. The Leggett Immobilier website uses robust security protocols to ensure that personal data that is collected is done so in a secure way. Calls may be recorded for training purposes. You do not need to provide any personal information to use this site.
 
-Note: the privacy practices set forth in this privacy policy are for this web site only. If you link to other web sites, please review the privacy policies posted at those sites.
-
-Collection of Information - We collect personally identifiable information, like names, postal addresses, email addresses, etc., when voluntarily submitted by our visitors. The information you provide is used to fulfill you specific request. This information is only used to fulfill your specific request, unless you give us permission to use it in another manner, for example to add you to one of our mailing lists.
-
-Cookie/Tracking Technology - The Site may use cookie and tracking technology depending on the features offered. Cookie and tracking technology are useful for gathering information such as browser type and operating system, tracking the number of visitors to the Site, and understanding how visitors use the Site. Cookies can also help customize the Site for visitors. Personal information cannot be collected via cookies and other tracking technology, however, if you previously provided personally identifiable information, cookies may be tied to such information. Aggregate cookie and tracking information may be shared with third parties.
-
-Commitment to Data Security - Your personally identifiable information is kept secure. Only authorized employees, agents and contractors (who have agreed to keep information secure and confidential) have access to this information. 
-
-Privacy Contact Information - If you have any questions, concerns, or comments about our privacy policy you may contact us using the information below: 
-
-* By e-mail: info@leggett-immo.com 
-* By Phone: 00 33 553 608 488 (France)
+**Cookies**  
+A cookie is a small file stored on your computer that retains information about pervious visits to a website. The Leggett Immobilier website will attempt to drop a cookie on your computer when visiting our site. If you are registered, cookies allow us to automatically log you in. They can also speed up form filling by automatically filling in parts of forms with information that you have provided on a previous visit. Leggett Immobilier does not use cookies to collect personal information regarding the use of your PC or internet browsing in any way. We respect the privacy of personal email accounts and will not send you unwanted email messages or junk mail. Your details will not be passed to any organisation without your explicit permission. If you have given us permission, we may email you messages to keep you up to date with news about our current services, as well as anything you express an interest in, either online or through other contact with Leggett Immobilier.
 
 We reserve the right to make changes to this policy. Any changes to this policy will be posted.
