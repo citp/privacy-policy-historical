@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the offerx.co.uk privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325073219id_/http%3A//www.offerx.co.uk/documents/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the offerx.co.uk privacy policy that was archived on 2014-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140705093143id_/http%3A//www.offerx.co.uk/documents/privacy) for the most accurate reproduction.*
 
 # Win free prizes and competitions online | OfferX
 
@@ -14,7 +14,7 @@ OfferX is owned and operated by Marketing Punch. This statement discloses how Ma
 
 ##  Collected Data
 
-Marketing Punch collects, store and uses data about you and answers to specific questions asked by sponsors. Marketing Punch and its clients or sponsors may contact you with offers and information which they feel will be of interest to you through mail, telephone or email. We may also use the personal information you provide for the purposes of: identity verification, credit and risk management, revenue collection, database verification and enhancement. If you would prefer your information not to be used in these ways, please [unsubscribe here](https://web.archive.org/web/20140325073219id_/http%3A//www.offerx.co.uk/email-preferences?l=2).
+Marketing Punch collects, store and uses data about you and answers to specific questions asked by sponsors. Marketing Punch and its clients or sponsors may contact you with offers and information which they feel will be of interest to you through mail, telephone or email. We may also use the personal information you provide for the purposes of: identity verification, credit and risk management, revenue collection, database verification and enhancement. If you would prefer your information not to be used in these ways, please [unsubscribe here](https://web.archive.org/web/20140705093143id_/http%3A//www.offerx.co.uk/email-preferences?l=2).
 
 Sponsors of the OfferX website have their own privacy policies and some have their own opt-in statements, it is strongly recommended that you read and understand this information.
 
@@ -22,67 +22,10 @@ Your data together with that of other subscribers may be aggregated at postcode 
 
 ## Data Collection Notice
 
-Here is our list of valued, third part data partners, who will send you marketing messages
+Click here to see our list of valued, third party data partners, who could send you marketing messages. 
 
-Astrology| Tara  
----|---  
-Charity| Age UK  
-Alzheimer's Society  
-Guide Dogs  
-Shelter  
-Comparison| uSwitch  
-Gogroupie  
-Competition Sites| Free Stuff  
-GetMEATicket  
-Simple Prizes  
-Free Stuff World  
-Prize Reactor  
-Daily Deals| Daily Deals  
-CSMA  
-Data Shares| Adsalsa - Bonotour  
-Fashion| Brand Alley  
-Financial| Learn to trade  
-uBinary  
-Gambling| Casino Action  
-Casino Classic  
-Scratch Mania  
-European Lottery Guild  
-Icelotto  
-Karamba  
-Ladbrokes  
-Scratch Cards  
-Iceland Bingo  
-Bingo Café  
-King Jackpot  
-General| Optical Express  
-Sell My Story  
-Love Honey  
-Insurance| Axa Sunlife Insurance  
-Saving On  
-Pink Legal  
-Personal Injury| Accident Advice Helpline  
-Subscription| Prize Pun  
-Juicy Win  
-Prize Fun  
-Prize Hook  
-Survey| Global Test Market  
-Inbox Pounds  
-Toluna  
-MindMover  
-Take Surveys  
-Telecommunication| Vodafone  
-Travel| Deal Checker  
-WeatherWherever  
-Information Link  
-Utilities| npower  
-Scottish Power  
-General Marekting| TTH Ltd  
-The Trading Floor  
-Magnetise Media  
-Acxiom  
-Mail2Media  
-XL Marketing  
-  
+You should always read their terms and conditions and/or disclosure statement.
+
 ##  Registration Information
 
 When you are registering with the OfferX website, it is not until you click the submit button that your information is transferred to the website. Once you have completed and submitted all your details you have then "completed" the registration confirming you are a valued member of OfferX.
@@ -250,40 +193,32 @@ Tel: 0870 4460031
 
 The next prize will be won in:
 
-####  Win an iPod Nano!
+####  Win £25 iTunes Voucher
 
-[ Enter Competition](https://web.archive.org/web/20140325073219id_/http%3A//www.offerx.co.uk/documents/daily-prize)
+[ Enter Competition](https://web.archive.org/web/20140705093143id_/http%3A//www.offerx.co.uk/documents/daily-prize)
 
 ###  Free Competitions
 
-#### Money Competitions
+#### Home & Lifestyle Competitions
 
-##### Win £3000 cash
+##### Win Tea at The Ritz
 
-What would you do with £3000? 
+Experience one of the greatest English traditions in one of one of the most famous hotels in London – afternoon tea at The Ritz.
 
-[Enter Competition](https://web.archive.org/web/20140325073219id_/http%3A//www.offerx.co.uk/money-competitions/21391-3000-cash)
+[Enter Competition](https://web.archive.org/web/20140705093143id_/http%3A//www.offerx.co.uk/lifestyle-competitions/22961-tea-at-the-ritz)
 
 #### Electronic & Gadgets Competitions
 
-##### Win a Bose Home Cinema System + TV
+##### Win an HTC One (M8)
 
-Recreate that cinematic magic in your own home with the Bose Lifestyle Home Cinema System.
+Beautiful on the outside as well as the inside the HTC One (M8) is not only comfortable to hold, but is packed with incredible features.
 
-[Enter Competition](https://web.archive.org/web/20140325073219id_/http%3A//www.offerx.co.uk/electronic-and-gadgets-competitions/21401-3741-bose-home-cinema-system--tv)
+[Enter Competition](https://web.archive.org/web/20140705093143id_/http%3A//www.offerx.co.uk/electronic-and-gadgets-competitions/23021-htc-one-m8)
 
-#### Home & Lifestyle Competitions
+#### Money Competitions
 
-##### Win Driving Lessons
+##### Win £300 of George Vouchers
 
-If you want to learn to drive, but can’t afford it then we can help!
+Shop for FREE in George; the fabulous clothing range that design clothes specifically for ASDA.
 
-[Enter Competition](https://web.archive.org/web/20140325073219id_/http%3A//www.offerx.co.uk/lifestyle-competitions/22211-driving-lessons)
-
-#### Home & Lifestyle Competitions
-
-##### Win a pair of Button UGG Boots
-
-Win a pair of UGG Boots that will keep your tootsies warm and snug!
-
-[Enter Competition](https://web.archive.org/web/20140325073219id_/http%3A//www.offerx.co.uk/lifestyle-competitions/22821-ugg-boots)
+[Enter Competition](https://web.archive.org/web/20140705093143id_/http%3A//www.offerx.co.uk/money-competitions/27201-300-george-vouchers)
