@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swiftcover.com privacy policy that was archived on 2014-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140216033059id_/http%3A//www.swiftcover.com/security/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swiftcover.com privacy policy that was archived on 2014-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140705201324id_/http%3A//www.swiftcover.com/security/privacy) for the most accurate reproduction.*
 
 # Cheap Car Insurance, Online Car Insurance Quotes UK. Privacy | swiftcover.com
 
@@ -198,14 +198,18 @@ If you have provided your contact information to us and would prefer not to rece
 
 Back to top
 
-##  Dealing with Other People
+##  Dealing with other people
 
-If your spouse or partner contacts us on your behalf, due to data protection, we will be unable to answer their queries. However, if you require your spouse, partner or another third party to be able to discuss your policy, please contact the Swift Help Team and inform us of whom you would like to speak on your behalf. However, this will exclude them from being able to cancel the policy as we require to speak to the policyholder regarding cancellations.  
+Data protection rules mean that we are only allowed to talk to the policyholder about anything to do with their insurance – unless they have named an alternative contact (such as a relative) to speak with us on their behalf. 
 
+How to name an alternative contact
+     If you took out or renewed your insurance after 24 June 2014, you can [ log in to your online account](https://secure.swiftcover.com/privatedomain/) and add an alternative contact to your policy yourself. If your policy was set up before then, please [contact our help team](https://web.archive.org/contact/call-us/) to name an alternative contact.
 
-In some exceptional circumstances we may also deal with other people who contact us on your behalf.
+Once you have told us your alternative contact, this person will be able to discuss all aspects of your policy (including claims) with us and make changes on your behalf except to cancel your policy or decline a renewal.
 
-We will not reveal any credit or debit card numbers to anyone other than the policyholder. 
+In some exceptional circumstances we may also deal with other people who contact us on behalf of the policyholder.
+
+We will not reveal any credit or debit card numbers to anyone other than the policyholder.
 
 Back to top
 
