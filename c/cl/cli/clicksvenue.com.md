@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the clicksvenue.com privacy policy that was archived on 2014-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140228053859id_/https%3A//www.clicksvenue.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clicksvenue.com privacy policy that was archived on 2014-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140705223556id_/https%3A//www.clicksvenue.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy - Clicksvenue
 
-This Privacy Policy governs the manner in which Clicksvenue collects, uses, maintains and discloses information collected from users (each, a "User") of the www.redmanision.net website ("Site"). This privacy policy applies to the Site and all products and services offered by Clicksvenue.
+This Privacy Policy governs the manner in which Clicksvenue collects, uses, maintains and discloses information collected from users (each, a "User") of the www.clicksvenue.com website ("Site"). This privacy policy applies to the Site and all products and services offered by Clicksvenue.
 
 ### Personal identification information
 
