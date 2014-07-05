@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the seedinvest.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327020029id_/https%3A//www.seedinvest.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seedinvest.com privacy policy that was archived on 2014-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140705160950id_/https%3A//www.seedinvest.com/privacy-policy) for the most accurate reproduction.*
 
 # SeedInvest - Startup Investing. Simplified.
 
-This Privacy Policy explains how SeedInvest, LLC and its subsidiaries and affiliates, including SeedInvest Technology, LLC and SeedInvest Financial, LLC (collectively, "SeedInvest," "us" or "we") collect and protect your personal information. If you have any questions that this policy does not address, please contact us at [contactus@seedinvest.com](mailto:contactus@seedinvest.com) or 386 Park Ave South, 10th Floor, New York, NY 10013.
+This Privacy Policy explains how SeedInvest, LLC and its subsidiaries and affiliates, including SeedInvest Technology, LLC and SeedInvest Financial, LLC (collectively, "SeedInvest," "us" or "we") collect and protect your personal information. If you have any questions that this policy does not address, please contact us at [contactus@seedinvest.com](mailto:contactus@seedinvest.com) or 222 Broadway, 19th Floor, New York, NY 10036.
 
 As explained below, we collect information from you in various ways when you interact with our website. By using our website, you consent to our collection and use of information as explained in this Notice and agree to be bound by our Terms of Use. Please note that if you choose to invest in any offering advertised on our website, you may be required to agree to a separate agreement, including, but not limited to, new or additional privacy notices or terms of use.
 
