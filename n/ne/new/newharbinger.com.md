@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the newharbinger.com privacy policy that was archived on 2014-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140202113040id_/http%3A//www.newharbinger.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newharbinger.com privacy policy that was archived on 2014-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140706025826id_/https%3A//www.newharbinger.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | NewHarbinger.com
 
-New Harbinger is committed to observing your right to privacy and the security of your personal information.
+###  New Harbinger is committed to observing your right to privacy and the security of your personal information.
 
 We always welcome your questions and feedback. For privacy-related issues, please contact our [web manager](mailto:webmaster@newharbinger.com).
 
