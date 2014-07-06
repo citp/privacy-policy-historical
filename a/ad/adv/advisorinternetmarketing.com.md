@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the advisorinternetmarketing.com privacy policy that was archived on 2014-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140506151351id_/http%3A//advisorinternetmarketing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advisorinternetmarketing.com privacy policy that was archived on 2014-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140706123521id_/http%3A//www.advisorinternetmarketing.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Advisor Internet Marketing
 
@@ -35,7 +35,7 @@ If you choose to provide personal information, it will be used for the following
 
 **Section 4: Your Opt-Out Rights**
 
-You may opt-out of receiving communications from us and/or our partners by not submitting your information. We also allow you to remove your information from our marketing lists. If you remove your information from our marketing lists it will no longer be used by us to send promotional correspondence to you. You can remove your information from our marketing lists by clicking on the Unsubscribe link at the bottom of the emails we send you, or by sending your request, in writing, via email to: [admin@retirethinktank.com](mailto:admin@retirethinktank.com).
+You may opt-out of receiving communications from us and/or our partners by not submitting your information. We also allow you to remove your information from our marketing lists. If you remove your information from our marketing lists it will no longer be used by us to send promotional correspondence to you. You can remove your information from our marketing lists by clicking on the Unsubscribe link at the bottom of the emails we send you, or by sending your request, in writing, via email to: [retire@retirethinktank.com](mailto:admin@retirethinktank.com).
 
 **Section 5: We Do Not Intend to Collect Data from Children**
 
@@ -51,7 +51,7 @@ We reserve the right to change this policy at any time by notifying you of the e
 
 **Section 8: Our Contact Information**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact us via email sent to: [admin@retirethinktank.com](mailto:admin@retirethinktank.com).
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact us via email sent to: [retire@retirethinktank.com](mailto:admin@retirethinktank.com).
 
 **Section 9:   Anti Spam Policy. Can-Spam Act Compliance**
 
@@ -68,7 +68,7 @@ AdvisorInternetMarketing.com is dedicated to ensuring compliance with the Can-Sp
 
 To ensure compliance with the Can-Spam Act, AdvisorInternetMarketing.com has implemented the following guidelines for email delivery:
 
-  1. All emails sent to you by AdvisorInternetMarketing.com will clearly identify AdvisorInternetMarketing.com as the sender.
+  1. All emails sent to you by AdvisorInternetMarketing.com will clearly identify Advisor Internet Marketing as the sender.
   2. The Subject Line of any email you receive will always accurately describe the subject matter of the email.
   3. Any email from AdvisorInternetMarketing.com will include the ability to unsubscribe from future email messages.
   4. Unsubscribing will ensure the customer is removed from AdvisorInternetMarketing.com’s automated-email list.
@@ -90,4 +90,4 @@ From time to time, AdvisorInternetMarketing.com will enter into an arrangement w
 
 
 
-We hope this information satisfies any questions or concerns you may have regarding the email practices of Annuity123.com. If you have additional questions or wish to discuss this matter further, please contact us at: [admin@retirethinktank.com](mailto:admin@retirethinktank.com).
+We hope this information satisfies any questions or concerns you may have regarding the email practices of Annuity123.com. If you have additional questions or wish to discuss this matter further, please contact us at: [retire@retirethinktank.com](mailto:admin@retirethinktank.com).
