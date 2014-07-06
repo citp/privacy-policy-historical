@@ -1,100 +1,119 @@
-> *The following text is extracted and transformed from the rivaliq.com privacy policy that was archived on 2012-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120314200414id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rivaliq.com privacy policy that was archived on 2014-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140706153434id_/https%3A//www.rivaliq.com/privacy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Competitor Analysis and Marketing Intelligence Software by Rival IQ
 
-**Go Daddy Respects Your Privacy**
+**_Rival IQ Privacy Policy_**
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+Please read this document carefully.  It is the Rival IQ Privacy Policy (the “ **Privacy Policy** ”) and explains how personal information is collected, used and disclosed by Rival IQ with respect to your access and use of this web site (located at www.rivaliq.com) (the “ **Site** ”).
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+Rival IQ Corporation, a Delaware corporation (“Rival IQ,” “we,” “our,” or “us”) reserves the right to change or modify this Privacy Policy from time to time, and we will notify users (“you”) of material changes on the Site before they take effect.  We will occasionally update this Privacy Policy to reflect changes in our practices. If we make any material changes in the way we collect, use, and/or share your personal information, we will notify you by sending an email to the email address you most recently provided us in your account, profile or registration (unless we do not have such an email address), and/or by posting notice of the changes on the Site.  Your use of the Site and any of the information, products or various services, if any (collectively, the “ **Services** ”) provided by us will be subject to the most current version of this Privacy Policy posted on the Site at the time of your use.  We recommend that you check the site from time to time to inform yourself of any changes in this Privacy Policy or any of our other policies.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+ **What Is Personal Information?**
 
-**Information Collection and Use**
+“Personal information” means information that specifically identifies an individual (such as a name, address, telephone number, mobile number or email address) or information about that individual that is directly linked to personally identifiable information. Personal information does not include “aggregate” information, which is data we collect about the use of the Site and the Services. Our Privacy Policy does not restrict or limit our collection and use of aggregate information.
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+ **What Personal Information Do We Collect?**
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+We collect certain information you voluntarily provide to us including, without limitation, the information you enter when you create an account and profile, send us an email, request user support or submit or post any other content to the Site or use the Services. _ _
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+We automatically collect certain information when you use the Site and the Services including, without limitation, your Internet Protocol (IP) address, your operating system, the browser type, the address of a referring site and your activity on the Site.  We also collect information from mobile phone users in a similar manner to optimize the mobile experience.  Beyond mobile phone numbers, we collect mobile screen resolution, device make and manufacturer, as well as the device’s unique identifier (in the iPhone’s case, a UDID), and, with your permission, your location.  We treat this information as personal information if we combine it with or link it to any of the identifying information mentioned above.  Otherwise, it is used in the aggregate only.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+We may also receive personal information from third parties about their users, and may combine this information with other personal information we maintain about you.  If we do so, this Privacy Policy will govern the combined information.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+The Site may now or in the future allow users to send messages to each other.  These messages may be stored for retrieval at later times in order to facilitate user communication.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+The Site allows users to make transactions.  Data will be securely stored when a transaction is made, including the date and type of purchase made, your credit card number, expiration date, billing address and CW or security code number.
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+Even after you remove information from your profile or delete your account, copies of that information may remain viewable elsewhere to the extent it has been shared with others, it was otherwise distributed pursuant to your privacy settings, or it was copied or stored by other users.  If you post any of your information to a public area of the Site or the Services, please be aware that it is no longer “personal information” for purposes of this policy, and we or anyone else may use such information without restriction.  If you provide access to personal or other information, including your email address or name, to other users through the application of any of our privacy controls or other settings, you hereby acknowledge and agree that Rival IQ has no control over how others may collect, use or disclose such information.
 
-**Security**
+ **What Aggregated and Non-Personal Information Do We Collect?**
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+We may use standard Internet technology, such as web beacons and other similar technologies, to track your use of the Site and the Services. We also may include web beacons in promotional email messages or newsletters to determine whether messages have been opened and acted upon. The information we obtain in this manner enables us to customize the services we offer visitors to our Site to deliver targeted advertisements and to measure the overall effectiveness of our online advertising, content, programming or other activities.
 
-**Updating Your Information**
+When you visit the Site, we may assign your computer one or more cookies, to facilitate access to the Site and to personalize your online experience.  Through the use of a cookie, we also may automatically collect information about your online activity on the Site, such as the web pages you visit, the links you click, and the searches you conduct on the Site. Most browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies.  If you choose to decline cookies, please note that you may not be able to sign in or use some of the interactive features offered on the Site.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+ **Children**
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+The Site is not directed at children.  Consistent with the Federal Children’s Online Privacy Protection Act of 1998 (COPPA), Rival IQ will not knowingly request or collect personally identifiable information from any child under age 13 without requiring parental consent.  Any person who provides his or her personal information to use through the Site or the Services represents that he or she is older than 12 years of age.
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+ **How Do We Use the Personal Information We Collect?**
 
-      iii.      You may call us at: (480) 505-8800
+ _In General_. We may use information that we collect about you to:
 
-       iv.      You may fax us at: (480) 505-8844
+·Deliver the products and services that you have requested;
 
-**Sending Emails**
+·Manage your account and provide you with customer support;
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+·Perform research and analysis about your use of, or interest in, our products, services or content, or products, services or content offered by others;
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+·Communicate with you by email, postal mail, telephone and/or mobile devices about products or services that may be of interest to you either from us or other third parties;
 
-**Compliance with Laws and Law Enforcement**
+·Tailor your user experience;
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+·Develop and display third-party content and advertising tailored to your interests on the Site and other sites;
 
-**Third Party Service Providers**
+·Enforce our Terms and Conditions;
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+·Manage our business; and
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+·      Perform functions as otherwise described to you at the time of collection.
 
-**Supplementation of Information**
+ _Financial Information_. We may use financial information or payment method to process payment for any purchases, subscriptions or sales made on the Site or through the Services, to protect against or identify possible fraudulent transactions, and otherwise as needed to manage our business.
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+Please review “Your Choices About Collection and Use of Your Information” below.
 
-**Contests/Surveys**
+ **What Personal Information Do We Share With Third Parties?**
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+We want you to understand when and with whom we may share personal or other information we have collected about you or your activities on the Site or while using the Services.
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+ _Personal Information_. We do not share your personal information with others except as indicated below or when we inform you and give you an opportunity to opt out of having your personal information shared. We may share personal information with:
 
-**Tell-A-Friend**
+·Authorized service providers: We may share your personal information with our authorized service providers that perform certain services on our behalf. These services may include fulfilling orders, processing credit card payments, providing customer service and marketing assistance, performing business analysis, supporting the functionality of the Site and the Services, and supporting surveys and other features offered through the Site. These service providers may have access to personal information needed to perform their functions but are not permitted to share or use such information for any other purposes.
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+·Other Situations. We also may disclose your information:
 
-**What Happens to my Personal Information if I Opt Out?**
+oIn response to a subpoena or similar investigative demand, a court order, or a request for cooperation from a law enforcement or other government agency; to establish or exercise our legal rights; to defend against legal claims; or as otherwise required by law. In such cases, we may raise or waive any legal objection or right available to us, in our sole discretion.
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+oWhen we believe disclosure is appropriate in connection with efforts to investigate, prevent, report or take other action regarding illegal activity, suspected fraud or other wrongdoing; to protect and defend the rights, property or safety of our company, our users, our employees, or others; to comply with applicable law or cooperate with law enforcement; or to enforce our website terms and conditions or other agreements or policies.
 
-**Transfer of Data Abroad**
+oIn connection with a substantial corporate transaction, such as the sale of our business, a divestiture, merger, consolidation, or asset sale, or in the unlikely event of bankruptcy.
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+Any third parties to whom we may disclose personal information may have their own privacy policies which describe how they use and disclose personal information. Those policies will govern use, handling and disclosure of your personal information once we have shared it with those third parties as described in this Privacy Policy. If you want to learn more about their privacy practices, we encourage you to visit the websites of those third parties. These entities or their servers may be located either inside or outside the United States.
 
-**Changes in Our Practices**
+ _Aggregated and Non-Personal Information_. We may share aggregated and non-personal information we collect under any of the above circumstances.  We may also share it with third parties to develop and deliver targeted advertising on the Site, through the Services and on websites of third parties. We may combine non-personal information we collect with additional non-personal information collected from other sources. We also may share aggregated information with third parties, including advisors, advertisers and investors, for the purpose of conducting general business analysis. For example, we may tell our advertisers the number of visitors to our website and the most popular features or services accessed.  This information does not contain any personal information and may be used to develop website content and services that we hope you and other users will find of interest and to target content and advertising.
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+ **Your Control**
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+  * You can choose not to provide us with certain information, but that may result in you being unable to use certain features of the Site and the Services because such information may be required in order for you to register as a member; purchase products or services; participate in a survey; ask a question; or initiate other transactions on the Site or through the Services.
+  * When you register on the Site you may be given a choice as to whether you want to receive email messages and/or newsletters about product updates, improvements, special offers, or containing special distributions of content by us.  At any time you can choose to no longer receive commercial or promotional emails or newsletters from us by using the email address associated with your account to send an email to[contact@rivaliq.com](mailto:contact@rivaliq.com)with the word “Unsubscribe” in the subject line.  You also will be given the opportunity, in any commercial email that we send to you, to opt out of receiving such messages in the future.  It may take up to 10 days for us to process an opt-out request. We may send you other types of transactional and relationship email communications, such as service announcements, administrative notices, and surveys, without offering you the opportunity to opt out of receiving them. Please note that, changing information in your account, or otherwise opting out of receipt of promotional email communications will only affect future activities or communications from us. If we have already provided your information to a third party (such as a credit card processing partner) before you have changed your preferences or updated your information, you may have to change you preferences directly with that third party.
+  * You may tell us not to share your personal information with third parties for direct marketing purposes by using the email address associated with your account to send an email to[contact@rivaliq.com](mailto:contact@rivaliq.com)with the words “Remove from direct marketing” in the subject line.
 
-**Contacting Our Site**
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
 
-* * *
+ **Links to Other Sites**
 
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+The Site and the Services may contain links to other sites. Any personal information you provide on the linked pages is provided directly to that third party and is subject to that third party’s privacy policy. This Privacy Policy does not apply to such linked sites, and we are not responsible for the content or privacy and security practices and policies of these sites or any other sites that are linked to from our Site.
+
+ **What Steps Do We Take To Protect Your Information Online?**
+
+We take reasonable measures to protect your personal information in an effort to prevent loss, misuse and unauthorized access, disclosure, alteration and destruction. Please be aware, however, that despite our efforts, no security measures are perfect or impenetrable and no method of data transmission can be guaranteed against any interception or other type of misuse.  If we become aware of a security systems breach, we may attempt to notify you electronically so that you can take appropriate protective steps. Rival IQ may post a notice through the Services if a security breach occurs. If this happens, you will need a web browser enabling you to access the Services.  We may also send an email to you at the email address you have provided to use in these circumstances.  Depending on where you live, you may have a legal right to receive notice of a security breach in writing.
+
+Users should also be aware of how they handle and disclose their personal information and should avoid sending personal information through insecure email.  Please refer to the Federal Trade Commission’s website at<http://www.ftc.gov/bcp/menus/consumer/data.shm>for information about how to protect yourself against identity theft.
+
+ **International Visitors**
+
+The Site and the Services are hosted in and provided from the United States. If you use the Site or the Services from the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that you are transferring your personal data to the United States. The United States does not have the same data protection laws as the EU and some other regions. By providing your personal information, you consent to the transfer of your personal data to the United States and the use of your personal information, in accordance with this Privacy Policy.
+
+ **Information Retention and Disposal**
+
+We may retain personal information for as long as we have a business need for it or as applicable laws or regulations or government orders require us to retain it. Additionally, the Site and/or the Services may enable you (or other users) to save information including information that you have made public or allowed certain users to access or see.
+
+ **What Choices Do You Have Regarding the Use of Your Information?**
+
+You may “opt out” of receiving marketing or promotional emails from us by following the instructions in those emails or by emailing us at[contact@rivaliq.com](mailto:contact@rivaliq.com). If you opt out, we may still send you non-promotional emails, such as emails about your accounts or our ongoing business relations.
+
+ **Questions?**
+
+If you have any questions about our Privacy Policy, please contact us at[contact@rivaliq.com](mailto:contact@rivaliq.com).
+
+ **Last Updated: January 30, 2013.**
