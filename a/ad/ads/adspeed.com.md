@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adspeed.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625142541id_/https%3A//adspeed.com/Knowledges/1/Content/Privacy_Statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adspeed.com privacy policy that was archived on 2014-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140706031714id_/http%3A//www.adspeed.com/Knowledges/1/Content/Privacy_Statement.html) for the most accurate reproduction.*
 
 # Ad Servers | Ad Server Software | Ad Serving Software – Privacy Statement for AdSpeed.com
 
@@ -44,15 +44,15 @@ If you have any questions about this privacy statement, or the practices of AdSp
 
 ## Testimonials
 
-  * > AdSpeed has been instrumental in our success!
+  * > This is SO EASY that it takes no knowledge on HTML programming or anything. Your options are incredible, not sure how you do it. I just really wanted to say THANK YOU!
 > 
-> _Elizabeth M_  
->  Clasificados Online
+> _John L_  
+>  Trending123
 
-  * > We at Baronelk Productions would like to thank you for this great free service. It allows us to advertise our service providers, and to recognize other web sites that we feel worthy. Thanks once again. 
+  * > I am very happy with your service.
 > 
-> _TheK_  
->  Baronelk Productions
+> _Philipp Schwörbel_  
+>  berlinmedien.net
 
 
 
