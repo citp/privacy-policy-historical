@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the megaphoneapp.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325192525id_/https%3A//www.megaphoneapp.com/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megaphoneapp.com privacy policy that was archived on 2014-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140706051155id_/https%3A//www.megaphoneapp.com/site/privacy-policy) for the most accurate reproduction.*
 
 # Megaphone
 
