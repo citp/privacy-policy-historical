@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the serversub.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331103825id_/https%3A//serversub.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the serversub.com privacy policy that was archived on 2014-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140706114847id_/https%3A//serversub.com/privacy.php) for the most accurate reproduction.*
 
-# Dedicated Servers | Virtual Servers | Reseller Hosting | Cheap SSL Certificates
+# ServerSub | Privacy Policy
 
 ### Privacy Policy
 
