@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crissangel.com privacy policy that was archived on 2014-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140305062036id_/https%3A//crissangel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crissangel.com privacy policy that was archived on 2014-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140706162002id_/https%3A//crissangel.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -36,4 +36,4 @@ You may have the ability to accept or decline cookies using the settings on your
 
 CrissAngel.com may occasionally update this Privacy Policy. When we do, CrissAngel.com will endeavor to provide notice to users in one or more of the following ways: (1) CrissAngel.com will update the “last updated” date at the bottom of the Privacy Policy; (2) CrissAngel.com may post notice of the update as a news post on the CrissAngel.com Site; and (3) CrissAngel.com may email notice of the update to all registered users. CrissAngel.com will obtain your consent to any updates to this Privacy Policy in which there is an expansion of the sharing or use of your personal information.
 
-If you have questions regarding this Privacy Policy, please email [CS@CrissAngel.com](mailto:CS@CrissAngel.com)
+If you have questions regarding this Privacy Policy, please email [support@CrissAngel.com](mailto:support@crissangel.com)
