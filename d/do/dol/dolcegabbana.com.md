@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dolcegabbana.com privacy policy that was archived on 2014-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140502093047id_/http%3A//www.dolcegabbana.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dolcegabbana.com privacy policy that was archived on 2014-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140706161431id_/http%3A//www.dolcegabbana.com/Privacy) for the most accurate reproduction.*
 
 # DG
 
