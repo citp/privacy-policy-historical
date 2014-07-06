@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the millets.co.uk privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209000618id_/http%3A//www.millets.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the millets.co.uk privacy policy that was archived on 2014-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140706221001id_/http%3A//www.millets.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -30,4 +30,6 @@ As part of our marketing programme, we may pool and share aggregated data with t
 
 We always give you the choice of whether or not you wish to continue receiving marketing communications from us. By clicking on the 'unsubscribe' link in a promotional email or by contacting us at [customercare@millets.co.uk](mailto:customercare@millets.co.uk), your details will be removed from our mailing list.
 
-If at any time you want to talk to us about your data, for example if you spot a mistake, or if you want to change how we market to you, please contact our customer services team at [customercare@millets.co.uk](mailto:customercare@millets.co.uk) or on 0844 264 0111, who will be happy to help. Or you can edit your information at any time by clicking [here](https://www.millets.co.uk/members/summary).
+If at any time you want to talk to us about your data, for example if you spot a mistake, or if you want to change how we market to you, please contact our customer services team at [customercare@millets.co.uk](mailto:customercare@millets.co.uk) or on 0161 393 7060, who will be happy to help. Or you can edit your information at any time by clicking [here](https://www.millets.co.uk/members/summary).
+
+**Head Office Information - Millets, Edinburgh House, Hollinsbrook Way, Pilsworth, Bury, BL9 8RR. Telephone - 0161 393 7060.**
