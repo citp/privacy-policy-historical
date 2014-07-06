@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the played.to privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127023303id_/http%3A//played.to/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the played.to privacy policy that was archived on 2014-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140706184005id_/http%3A//played.to/privacy.html) for the most accurate reproduction.*
 
 # PLAYED - Fast, free and reliable video storage
-
-**
 
 ### Privacy Policy
 
@@ -57,5 +55,3 @@ Our Service permits users to share links to materials stored on servers owned by
 Children's Privacy 
 
 We do not knowingly collect Personal Information from children under the age of 13. By using our Services, you promise that you are at least 13 years old. If we become aware that a user is under the age of 13, we will terminate any account that user may have with PLAYED. If we become aware that we have inadvertently received Personal Information from a child under the age of 13, we will delete such information from our records. 
-
-**
