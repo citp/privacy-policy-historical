@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoesforcrews.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326033125id_/https%3A//www.shoesforcrews.com/sfc3/index.cfm%3FchangeWebsite%3DUS_en%26route%3Dinserts.Customer_Service/InternetPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoesforcrews.com privacy policy that was archived on 2014-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140706040431id_/https%3A//www.shoesforcrews.com/sfc3/index.cfm%3FchangeWebsite%3DUS_en%26route%3Dinserts.Customer_Service/InternetPrivacy) for the most accurate reproduction.*
 
 # SHOES FOR CREWS® - The Shoe That Grips® : Slip-Resistant Footwear, Mats and Overshoes
 
@@ -16,4 +16,4 @@ We may transfer or otherwise disclose information collected from and about you t
 
 We will periodically email special offers and updates to our customers that have opted-in to receive such email from us. If you do not wish to receive any email offers or updates via email, please [click here to opt-out](https://web.archive.org/sfc3/index.cfm?changeWebsite=US_en&route=c_customer.unsubscribe).
 
-While shopping our site, please be assured that all of your transactions are protected by SSL encryption software, and every purchase you make at ShoesForCrews.com is [safe and secure](https://web.archive.org/sfc3/index.cfm?changeWebsite=US_en&route=inserts.Customer_Service/SecureShopping)!
+While shopping our site, please be assured that all of your transactions are protected by SSL encryption software, and every purchase you make at ShoesForCrews.com is [safe and secure](https://web.archive.org/sfc3/index.cfm?changeWebsite=US_en&route=inserts.Customer_Service/SecureShopping&differentLayout=nolayout&_cf_nodebug=true)!
