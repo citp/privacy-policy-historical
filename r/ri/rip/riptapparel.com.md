@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the riptapparel.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331144326id_/https%3A//www.riptapparel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the riptapparel.com privacy policy that was archived on 2014-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140706080240id_/https%3A//www.riptapparel.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
