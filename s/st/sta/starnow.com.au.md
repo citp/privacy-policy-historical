@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the starnow.com.au privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209030415id_/http%3A//www.starnow.com.au/help/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starnow.com.au privacy policy that was archived on 2014-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140706211354id_/http%3A//www.starnow.com.au/help/Privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy | StarNow.com.au
+# Privacy Policy | StarNow
 
 ### Privacy of your information
 
