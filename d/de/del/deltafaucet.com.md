@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deltafaucet.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325152028id_/http%3A//www.deltafaucet.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deltafaucet.com privacy policy that was archived on 2014-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140706194727id_/http%3A//www.deltafaucet.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy : Delta Faucet
 
@@ -120,7 +120,7 @@ In some cases, we may provide hosting services for websites operated by third pa
 
 ### Third Party Advertisers
 
-We may use third-party advertising companies to serve advertisements regarding goods and services that may be of interest to you when you access and use the Site and other websites, based on information relating to your access to and use of the Site and other websites. To do so, these companies may place or recognize a unique cookie on your browser (including through use of pixel tags). If you would like more information about this practice and to learn about your choices in connection with these practices, please visit [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp) and [http://www.aboutads.info/](https://web.archive.org/web/20140325152028id_/http%3A//www.deltafaucet.com/www.aboutads.info/).
+We may use third-party advertising companies to serve advertisements regarding goods and services that may be of interest to you when you access and use the Site and other websites, based on information relating to your access to and use of the Site and other websites. To do so, these companies may place or recognize a unique cookie on your browser (including through use of pixel tags). If you would like more information about this practice and to learn about your choices in connection with these practices, please visit [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp) and [http://www.aboutads.info/](https://web.archive.org/web/20140706194727id_/http%3A//www.deltafaucet.com/www.aboutads.info/).
 
 ### Security
 
