@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mtroyal.ca privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625091936id_/http%3A//mtroyal.ca/ssLINK/privacysecurity.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtroyal.ca privacy policy that was archived on 2014-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140706205220id_/http%3A//mtroyal.ca/ssLINK/privacysecurity.htm) for the most accurate reproduction.*
 
 # Mount Royal University - About Mount Royal - Calgary, Alberta, Canada
 
