@@ -1,25 +1,60 @@
-> *The following text is extracted and transformed from the thexyz.info privacy policy that was archived on 2011-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111108010027id_/http%3A//www.thexyz.info/doc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thexyz.info privacy policy that was archived on 2014-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140706192845id_/https%3A//www.thexyz.com/privacy) for the most accurate reproduction.*
 
-# Privacy - Thexyz.info
+# Privacy Policy
 
-This document outlines this service's respect for your personal privacy as a user of the service.
+[PRIVACY OF YOUR PAYMENT DETAILS ](https://web.archive.org/privacy/#payment)  
+[PRIVACY OF YOUR ACCOUNT](https://web.archive.org/privacy/#account)  
+[PRIVACY OF YOUR REGISTRATION DATA](https://web.archive.org/privacy/#data)  
+[COOKIES ](https://web.archive.org/privacy/#cookie)
 
-  * Almost all the text and files that users upload to this site is available under the site license (see the license block at the bottom of this page). Users agree to the license when they register to use the site for the first time. Typically that means that the data can be copied far and wide, for commercial and non-commercial purposes, and in modified or unmodified form. If you're not OK with that, don't use the service.
-  * The following data items are considered _private data_ that won't be shared with other users, business partners, or the public at large: 
-    * your password
-    * your email address
-    * your IM address (AIM, Jabber, or other instant messaging address)
-    * your phone number
-    * your "private messages"
-    * your login credentials (username and password) for other services (Twitter, Facebook, etc.)
-  * Some private data may be published in aggregate, e.g. "30% of our users are registered with Hotmail addresses."
-  * Your notices (including files) can be downloaded and re-used by other services, either one-by-one or in bulk as [RSS](http://en.wikipedia.org/wiki/RSS) files.
-  * Your profile information (including subscriptions and avatars) can be downloaded and re-used by other services, either scraped from the HTML interface or in bulk as [FOAF](http://en.wikipedia.org/wiki/FOAF) files.
-  * Your notices will be forwarded to users who subscribe to them, including users on another microblogging service.
-  * Your profile information will be sent to microblogging services for users who subscribe to you or to whom you subscribe.
-  * Based on your email preferences, you may receive automated email messages for important system events, such as when others subscribe to your notices.
-  * Based on your email preferences, you may receive an email newsletter. You can opt out of the newsletter if you don't want to receive it.
-  * In urgent situations, administrators may send you email directly to your registered email address, even if you've requested no notices or newsletter. _Administrators will use digitally-signed email._
-  * This service will comply with court orders to turn over your private information.
+PRIVACY OF YOUR PAYMENT DETAILS 
 
+We use encrypted SSL connection to process your credit card information and DO NOT store any of your payment details in our system. The payments are carried out in the background by the PayPal payment processing gateway and go through the HSBC bank's terminal. Working with the two leaders in online payment operations, we guarantee fast and secure processing of your payment. Not only do we NOT make a record of your credit card details in our system, but also - for maximum online security - we do NOT share this information with any third party. 
+
+PRIVACY OF YOUR ACCOUNT  
+We consider your registration data and the content of all your messages private and confidential. The header of the messages that you send will contain your name (e-mail address) and Internet Protocol (IP) address. We will not intentionally monitor or disclose any of your e-mail content or registration data unless we are required to do so: by law, to defend ourselves in any legal action, to protect our property. 
+
+Since your password is essential for protecting your privacy, we encourage you to NOT share it with anyone and change it frequently. Additionally, you agree to respect the privacy and confidentiality of others. 
+
+PRIVACY OF YOUR REGISTRATION DATA  
+Thexyz collects certain information during the registration process. The personally identifiable information that Thexyz collects includes first and last name. Thexyz also collects non-personally identifiable information, such as country, age, gender, etc. You may update your Registration Information at any time from your Web Hosting Control Panel - > My Account - Change Login Credentials section. 
+
+We may disclose aggregate registration statistics in connection with our marketing activities.
+
+WHY WE NEED THIS INFORMATION  
+Your registration information is needed in order for us to operate the site, to provide support for your account, for statistical purposes, etc. Thexyz will NOT send you any unsolicited information, including e-mails, except as mentioned hereby.
+
+New customers will receive a Thexyz welcome e-mail containing information about the features provided by the Service, as well as WHCP (Web Hosting Control Panel) and FTP login details. Thexyz may also send system notifications upon need, related to any upgrade, maintenance or other service issues concerning your hosting account. 
+
+Thexyz will keep your personally identifiable information private and will NOT share it with any unauthorized third parties. 
+
+COOKIES  
+We use different cookies on our website to make it as useful to you as possible. Cookies are small text files that we put on your computer or mobile device to tell us what you want to use on our site but they do not tell us who you are.
+
+[Here](http://www.aboutcookies.org/default.aspx) you can learn more about cookies and how to [control](http://www.aboutcookies.org/default.aspx?page=1) or [delete](http://www.aboutcookies.org/default.aspx?page=2) them.
+
+Here are the cookies that we use on our site: 
+
+Essential cookies  
+We use a cookie to remember your login the site login, saving you the trouble of entering your password every time. Also, we set a cookie to help you choose a preferred font size for using the site. These cookies we consider essential for the operation of our website. 
+
+External web services  
+We use an external live chat service by [ Olark](http://www.olark.com/?r=5mdv01uj) (using cookies to remember your session name) to deliver real time support to you should you want to.
+
+While our services are 100% advertisement-free, we do server advertisements within our forums. This helps to ensure our forums are well maintained and kept to decent standard. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include: 
+
+  * [Google Adsense](https://www.google.com/adsense "Adsense")
+  * [advertSAFE limited](http://xyz.am/9244332)
+  * [Viglink](http://xyz.am/viglink)
+
+
+
+Payment processing  
+To process payments online, we require the billing address for the credit card used and our external payment provider, [2Checkout](http://xyz.am/2co)/WorldPay, requires your credit card details.
+
+We assume you are happy with this usage of cookies on this website. If you are not happy, then you should either not use this site, or delete the cookies (you can check out how to do that according to your browser [here](http://www.aboutcookies.org/Default.aspx?page=2)), or browse the site using your browser’s anonymous usage setting (named “Incognito” in Chrome, “InPrivate” for Internet Explorer, "Private Browsing" in Firefox and Safari etc.).
+
+Please remember that if you choose to delete the cookies or use the browser anonymously, you may find that certain sections of this website do not work properly.
+
+  
 
