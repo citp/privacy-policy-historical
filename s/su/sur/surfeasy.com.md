@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surfeasy.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325072515id_/https%3A//www.surfeasy.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surfeasy.com privacy policy that was archived on 2014-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140706234049id_/https%3A//www.surfeasy.com/privacy_policy) for the most accurate reproduction.*
 
 # SurfEasy Privacy Policy | Anymous Web Surfing
 
