@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moviemart.in privacy policy that was archived on 2014-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140420034524id_/http%3A//moviemart.in/pp_sell.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moviemart.in privacy policy that was archived on 2014-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140706215102id_/http%3A//www.moviemart.in/pp_sell.aspx) for the most accurate reproduction.*
 
 # Rent Movies | Buy DVD Movies Online at Lowest Price
 
@@ -6,7 +6,7 @@
 
 |   
 ---  
-|    [Home](http://www.moviemart.in/index.aspx)   [Movies](http://www.moviemart.in/Movies.aspx)   [Perfumes](http://www.moviemart.in/Perfumes.aspx)   [Meditation-Accessories](http://www.moviemart.in/Meditation-Accessories.aspx)   [Todays Deals](http://www.moviemart.in/TodaysDeals.aspx)   Track Order |  | [Cart(9)](http://www.moviemart.in/Shopping_Cart.aspx?Show=cart)  
+|    [Home](http://www.moviemart.in/index.aspx)   [Movies](http://www.moviemart.in/Movies.aspx)   [Perfumes](http://www.moviemart.in/Perfumes.aspx)   [Meditation-Accessories](http://www.moviemart.in/Meditation-Accessories.aspx)   [Todays Deals](http://www.moviemart.in/TodaysDeals.aspx)   Track Order |  | [Cart(0)](http://www.moviemart.in/Shopping_Cart.aspx?Show=cart)  
 |  |  |  | [](http://www.moviemart.in/rent/browsesection.aspx?lan=1) | |   
 ---|---|---  
 |  |  |       |  |   Privacy Policy   
