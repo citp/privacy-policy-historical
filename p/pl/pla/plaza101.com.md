@@ -1,30 +1,30 @@
-> *The following text is extracted and transformed from the plaza101.com privacy policy that was archived on 2012-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121031083633id_/http%3A//www.hookprice.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plaza101.com privacy policy that was archived on 2014-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140706172136id_/http%3A//www.vividplaza.com/privacy.aspx) for the most accurate reproduction.*
 
-# Online Price Comparison Store Product Reviews
+# VividPlaza.com - Privacy Policy
 
 | 
 
-HookPrice.com is strongly committed to protecting the privacy of its user community. 
+VividPlaza.com makes sure to protect the privacy of its user community. 
 
-The intent of this privacy policy is to detail the information HookPrice.com may gather about individuals who visit its Web site, how that information is used, and HookPrice.com's disclosure practices. Please note that this policy applies only to HookPrice.com's Web site and not to the Web sites of other companies or organizations to which we provide links. 
+The objective of this privacy policy is to detail the information Vividplaza.com may gather about individuals who visit its Web site, how that information is used, and VividPlaza.com's disclosure practices. Please note that this policy applies only to VividPlaza.com's Web site and not to the Websites of other companies or entities to which we provide links. 
 
 **Site Usage Information**
 
-HookPrice.com gathers "site usage" information from all visitors to the HookPrice.com Web site. Such data is used in the aggregate, to help determine general usage patterns and fine tune layout in order to ensure that our site is as useful and enjoyable as possible. This "site usage" and statistical information may be made public information at HookPrice.com's discretion.
+Vividplaza.com collects "site usage" information from all those who come to the Vividplaza.com Web site. Such data is used in the aggregate, to help determine general usage patterns and fine tune layout in order to ensure that our site is as valuable and enjoyable as possible. This "site usage" and statistical information may be made public information at VividPlaza.com's discretion. 
 
 **Use of Cookies**
 
-When you view our Web site, we may store some information on your computer. This information will be in the form of a 'Cookie' and will help us in many ways. For example, Cookies allow us to tailor our Web site to better match your interests and preferences and optionally provide automatic member login. With most Internet Browsers, you can erase Cookies from your computer hard drive, block all Cookies, or receive a warning before a Cookie is stored. Please refer to your Browser instructions or help screen to learn more about these functions. 
+When you view our Web site, VividPlaza.com, we may store some information on your computer. This information will be in the form of a 'Cookie' and will help us in many ways. For example, Cookies allow us to tailor our Web site to better match your interests and preferences and optionally provide automatic member login. With most Internet Browsers, you can erase Cookies from your computer hard drive, block all Cookies, or receive a warning before a Cookie is stored. Please refer to your Browser instructions or help screen to learn more about the use of Cookies. 
 
 **Individual User Information**
 
-HookPrice.com will collect personal information if you choose to become a HookPrice.com member. The personal information we collect includes your name, e-mail, and/or work phone, work or home address, company or organization name,. We do not share neither e-mail addresses nor individually identifiable information with any third parties.
+VividPlaza.com will gather personal information if you prefer to become a VividPlaza.com member. The personal information we collect comprises your name, e-mail, and/or work phone, work or home address, company or organization name. We do share neither e-mail addresses nor individually identifiable information with any third parties. 
 
 **Disclosure**
 
-HookPrice.com reserves the right to access and disclose individually identifiable information to comply with applicable laws and lawful government requests, to operate its systems properly or to protect itself or its users. Where practical, HookPrice.com will attempt to obtain the prior consent of the individual prior to disclosing individually identifiable information. As mentioned above, we reserve the right to share aggregated "site usage" information with third parties. 
+VividPlaza.com reserves the right to access and disclose individually identifiable information to comply with applicable laws and lawful government requests, to operate its systems properly or to protect itself or its users. Where convenient, VividPlaza.com will attempt to obtain the prior consent of the individual prior to disclosing individually identifiable information. As mentioned above, we reserve the right to share aggregated "site usage" information with third parties. 
 
-If you have any questions about our privacy policy, or believe that we have not adhered to the guidelines set forth above, please [contact us](https://web.archive.org/contact.aspx). 
+If you have any queries about our privacy policy, or think that we have not stick to the guidelines set forth above, please [contact us](https://web.archive.org/contact.aspx). 
 
 Thank you. 
 
