@@ -1,71 +1,81 @@
-<!--The following is the downloaded HTML source of the beeoptions.com privacy policy that was archived on 2014-04-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140425211619id_/https%3A//www.beeoptions.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the beeoptions.com privacy policy that was archived on 2014-07-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140706152235id_/https%3A//www.beeoptions.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head>
+<!DOCTYPE html><html lang="en-US"><!--<![endif]--><head>
 <meta http-equiv="X-UA-Compatible" content="IE=Edge">
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PJX3K2"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQIEV1BaGwcAUVRTAAE="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
 <meta name="google-site-verification" content="3Nj2JEY2B9p1zkUjp3vpQe5sFu9A8qOEh4XMOSm7Ud8">
 <meta name="keywords" content="binaryoption, FX,gold,oil,option">
 <meta name="robots" content="INDEX, FOLLOW, ARCHIVE">
 <meta name="description" content="Trade Index options, stock options and commodities with the world's leading Binary Options Trading Platform. No Hassle Withdrawals. Guaranteed!">
-
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width">
 
-
-
 <title>Privacy Policy | beeoptions | Binary Options Trading</title>
 
-<link rel="stylesheet" href="http://www.beeoptions.com/wp-content/plugins/sitepress-multilingual-cms/res/css/language-selector.css?v=2.8.2" type="text/css" media="all">
-
-<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PJX3K2"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
-	var tle = document.title.split("|",1);
-	if (tle == "How to trade "){ 
-		window.location="http://www.beeoptions.com/learnmore/"; 
-	}
-</script>
+<link rel="stylesheet" href="https://www.beeoptions.com/wp-content/plugins/sitepress-multilingual-cms/res/css/language-selector.css?v=2.8.2" type="text/css" media="all">
 
 <link rel="profile" href="http://gmpg.org/xfn/11">
-<link rel="pingback" href="http://www.beeoptions.com/xmlrpc.php">
-<link rel="stylesheet" type="text/css" media="all" href="http://www.beeoptions.com/wp-content/themes/spotbase/style.css">
-<link rel="stylesheet" type="text/css" media="all" href="http://www.beeoptions.com/wp-content/themes/spotbase/custom.css">
-<link rel="shortcut icon" href="http://www.beeoptions.com/wp-content/themes/spotbase/favicon.ico">
+<link rel="pingback" href="https://www.beeoptions.com/xmlrpc.php">
+<link rel="stylesheet" type="text/css" media="all" href="https://www.beeoptions.com/wp-content/themes/spotbase/style.css">
+<link rel="stylesheet" type="text/css" media="all" href="https://www.beeoptions.com/wp-content/themes/spotbase/custom.css">
+<link rel="shortcut icon" href="https://www.beeoptions.com/wp-content/themes/spotbase/favicon.ico">
 
+<script type="text/javascript">function loadtopthree(){ window.location.href = "#openModal";}</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-37471665-1', 'beeoptions.com');
+  ga('send', 'pageview');
+
+</script>
+    
 <!--[if lt IE 9]>
-<script src="http://www.beeoptions.com/wp-content/themes/spotbase/js/html5.js" type="text/javascript"></script>
+<script src="https://www.beeoptions.com/wp-content/themes/spotbase/js/html5.js" type="text/javascript"></script>
 <![endif]-->
 
 
 <link rel="alternate" type="application/rss+xml" title="beeoptions | Binary Options Trading » Privacy Policy Comments Feed" href="http://www.beeoptions.com/privacy/feed/">
-<link rel="stylesheet" id="contact-form-7-css" href="http://www.beeoptions.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=3.7.2" type="text/css" media="all">
-<link rel="stylesheet" id="meteor-slides-css" href="http://www.beeoptions.com/wp-content/plugins/meteor-slides/css/meteor-slides.css?ver=1.0" type="text/css" media="all">
-<link rel="stylesheet" id="datepicker-css" href="http://www.beeoptions.com/wp-content/plugins/spotoption-platform/css/jdpicker.css?ver=3.8.1" type="text/css" media="all">
-<link rel="stylesheet" id="chosen-css" href="http://www.beeoptions.com/wp-content/plugins/spotoption-platform/css/chosen.css?ver=3.8.1" type="text/css" media="all">
-<link rel="stylesheet" id="super-rss-reader-css-css" href="http://www.beeoptions.com/wp-content/plugins/super-rss-reader/public/srr-css.css?ver=3.8.1" type="text/css" media="all">
-<script type="text/javascript" src="http://www.beeoptions.com/wp-content/plugins/continuous-rss-scrolling/continuous-rss-scrolling.js?ver=3.8.1"></script>
-<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js?ver=3.8.1"></script>
-<script type="text/javascript" src="http://spotplatform.beeoptions.com/SpotOptionPlugin.js?ver=3.8.1"></script>
-<script type="text/javascript" src="http://www.beeoptions.com/wp-content/plugins/super-rss-reader/public/srr-js.js?ver=3.8.1"></script>
-<script type="text/javascript" src="http://www.beeoptions.com/wp-content/plugins/meteor-slides/js/jquery.cycle.all.js?ver=3.8.1"></script>
-<script type="text/javascript" src="http://www.beeoptions.com/wp-content/plugins/meteor-slides/js/jquery.metadata.v2.js?ver=3.8.1"></script>
-<script type="text/javascript" src="http://www.beeoptions.com/wp-content/plugins/meteor-slides/js/jquery.touchwipe.1.1.1.js?ver=3.8.1"></script>
+<link rel="stylesheet" id="contact-form-7-css" href="https://www.beeoptions.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=3.8.1" type="text/css" media="all">
+<link rel="stylesheet" id="meteor-slides-css" href="https://www.beeoptions.com/wp-content/plugins/meteor-slides/css/meteor-slides.css?ver=1.0" type="text/css" media="all">
+<link rel="stylesheet" id="datepicker-css" href="https://www.beeoptions.com/wp-content/plugins/spotoption-platform/css/jdpicker.css?ver=3.9.1" type="text/css" media="all">
+<link rel="stylesheet" id="chosen-css" href="https://www.beeoptions.com/wp-content/plugins/spotoption-platform/css/chosen.css?ver=3.9.1" type="text/css" media="all">
+<link rel="stylesheet" id="super-rss-reader-css-css" href="https://www.beeoptions.com/wp-content/plugins/super-rss-reader/public/srr-css.css?ver=3.9.1" type="text/css" media="all">
+<script type="text/javascript" src="https://www.beeoptions.com/wp-content/plugins/continuous-rss-scrolling/continuous-rss-scrolling.js?ver=3.9.1"></script>
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js?ver=3.9.1"></script>
+<script type="text/javascript" src="//spotplatform.beeoptions.com/SpotOptionPlugin.js?ver=16257"></script>
+<script type="text/javascript" src="https://www.beeoptions.com/wp-content/plugins/super-rss-reader/public/srr-js.js?ver=3.9.1"></script>
+<script type="text/javascript" src="https://www.beeoptions.com/wp-content/plugins/meteor-slides/js/jquery.cycle.all.js?ver=3.9.1"></script>
+<script type="text/javascript" src="https://www.beeoptions.com/wp-content/plugins/meteor-slides/js/jquery.metadata.v2.js?ver=3.9.1"></script>
+<script type="text/javascript" src="https://www.beeoptions.com/wp-content/plugins/meteor-slides/js/jquery.touchwipe.1.1.1.js?ver=3.9.1"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var meteorslidessettings = {"meteorslideshowspeed":"2000","meteorslideshowduration":"5000","meteorslideshowheight":"342","meteorslideshowwidth":"782","meteorslideshowtransition":"fade"};
+var meteorslidessettings = {"meteorslideshowspeed":"2000","meteorslideshowduration":"9000","meteorslideshowheight":"342","meteorslideshowwidth":"782","meteorslideshowtransition":"fade"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://www.beeoptions.com/wp-content/themes/spotbase/slideshow.js?ver=3.8.1"></script>
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.beeoptions.com/xmlrpc.php?rsd">
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.beeoptions.com/wp-includes/wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 3.8.1">
-<link rel="shortlink" href="http://www.beeoptions.com/?p=211">
+<script type="text/javascript" src="https://www.beeoptions.com/wp-content/themes/spotbase/slideshow.js?ver=3.9.1"></script>
+<script type="text/javascript" src="https://www.beeoptions.com/wp-content/plugins/sitepress-multilingual-cms/res/js/jquery.cookie.js?ver=2.8.2"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var wpml_browser_redirect_params = {"pageLanguage":"en","languageUrls":{"en":"http:\/\/www.beeoptions.com\/privacy\/","fr":"http:\/\/www.beeoptions.com\/privacy\/?lang=fr","de":"http:\/\/www.beeoptions.com\/privacy\/?lang=de","es":"http:\/\/www.beeoptions.com\/privacy\/?lang=es","ru":"http:\/\/www.beeoptions.com\/privacy\/?lang=ru"},"cookie":{"name":"_icl_visitor_lang_js","domain":"www.beeoptions.com","path":"\/","expiration":24}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.beeoptions.com/wp-content/plugins/sitepress-multilingual-cms/res/js/browser-redirect.js?ver=2.8.2"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.beeoptions.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.beeoptions.com/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 3.9.1">
+<link rel="shortlink" href="https://www.beeoptions.com/?p=211">
 <script type="text/javascript">var icl_lang = 'en';var icl_home = 'http://www.beeoptions.com';</script>
-<script type="text/javascript" src="http://www.beeoptions.com/wp-content/plugins/sitepress-multilingual-cms/res/js/sitepress.js"></script>
+<script type="text/javascript" src="https://www.beeoptions.com/wp-content/plugins/sitepress-multilingual-cms/res/js/sitepress.js"></script>
 <meta name="generator" content="WPML ver:2.8.2 stt:1,4,3,47,2;0">
 <link rel="alternate" hreflang="fr_FR" href="http://www.beeoptions.com/privacy/?lang=fr">
+<link rel="alternate" hreflang="de_DE" href="http://www.beeoptions.com/privacy/?lang=de">
 <link rel="alternate" hreflang="es_ES" href="http://www.beeoptions.com/privacy/?lang=es">
-<link rel="alternate" hreflang="de_DE" href="http://www.beeoptions.com/privacy-policy/?lang=de">
-<link rel="alternate" hreflang="ru_RU" href="http://www.beeoptions.com/privacy-policy/?lang=ru">
+<link rel="alternate" hreflang="ru_RU" href="http://www.beeoptions.com/privacy/?lang=ru">
 
 <script type="text/javascript">
     SO.load({
@@ -88,20 +98,7 @@ var meteorslidessettings = {"meteorslideshowspeed":"2000","meteorslideshowdurati
 <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
 <script charset="UTF-8" src="https://lptag.liveperson.net/tag/tag.js?site=29042742"></script></head>
 <body class="page page-id-211 page-template-default en unknown spot_logged_out privacy">
-<script type="text/javascript">
 
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-37471665-1']);
-  _gaq.push(['_setDomainName', 'beeoptions.com']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
-</script>
 <!-- Google Tag Manager -->
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-PJX3K2"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -117,8 +114,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	<div id="headerContainer" class="container">
 		<div id="Header">
                     <div id="logo">
-			
-				<a class="Logo" href="http://www.beeoptions.com/" title="SiteName"><img src="/wp-content/images/header/logo.png"></a>
+				<a class="Logo" href="https://www.beeoptions.com/" title=""><img src="/wp-content/images/header/logo.png"></a>
+				<!-- <a class="Logo" href="https://www.beeoptions.com/" title=""><img src="/wp-content/uploads/2013/12/beeoptions_xmaslogo.png" /></a> -->
 			</div>
 			
 			<div id="headerForm" class="log">
@@ -126,8 +123,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                          
 				<div class="CurrentDate">
 					<div id="LStime">
-                        <div id="calendar_day">25</div>
-						<div id="calendar_month_year">Apr 2014</div>
+                       				 <div id="calendar_day"><script>var d = new Date();document.write(d.getDate());</script>31</div>
+						<div id="calendar_month_year">Jul 2014</div>
 					</div>
 
 					<!--
@@ -136,31 +133,31 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <ul>
         <li><a href="#" class="lang_sel_sel icl-en">
                             
-            <img  class="iclflag" src="http://www.beeoptions.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.png" alt="en"  title="English" />                                
+            <img  class="iclflag" src="https://www.beeoptions.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.png" alt="en"  title="English" />                                
             &nbsp;English</a>                                    
             <ul>
                                                 <li class="icl-fr">          
-                    <a rel="alternate" hreflang="fr" href="http://www.beeoptions.com/privacy/?lang=fr">
+                    <a rel="alternate" hreflang="fr" href="https://www.beeoptions.com/privacy/?lang=fr">
                                     
-                    <img  class="iclflag" src="http://www.beeoptions.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/fr.png" alt="fr" title="Français" />&nbsp;                    
+                    <img  class="iclflag" src="https://www.beeoptions.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/fr.png" alt="fr" title="Français" />&nbsp;                    
                                         Français                    </a>
                 </li>
-                                <li class="icl-es">          
-                    <a rel="alternate" hreflang="es" href="http://www.beeoptions.com/privacy/?lang=es">
-                                    
-                    <img  class="iclflag" src="http://www.beeoptions.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/es.png" alt="es" title="Español" />&nbsp;                    
-                                        Español                    </a>
-                </li>
                                 <li class="icl-de">          
-                    <a rel="alternate" hreflang="de" href="http://www.beeoptions.com/privacy-policy/?lang=de">
+                    <a rel="alternate" hreflang="de" href="https://www.beeoptions.com/privacy/?lang=de">
                                     
-                    <img  class="iclflag" src="http://www.beeoptions.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/de.png" alt="de" title="Deutsch" />&nbsp;                    
+                    <img  class="iclflag" src="https://www.beeoptions.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/de.png" alt="de" title="Deutsch" />&nbsp;                    
                                         Deutsch                    </a>
                 </li>
-                                <li class="icl-ru">          
-                    <a rel="alternate" hreflang="ru" href="http://www.beeoptions.com/privacy-policy/?lang=ru">
+                                <li class="icl-es">          
+                    <a rel="alternate" hreflang="es" href="https://www.beeoptions.com/privacy/?lang=es">
                                     
-                    <img  class="iclflag" src="http://www.beeoptions.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png" alt="ru" title="Русский" />&nbsp;                    
+                    <img  class="iclflag" src="https://www.beeoptions.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/es.png" alt="es" title="Español" />&nbsp;                    
+                                        Español                    </a>
+                </li>
+                                <li class="icl-ru">          
+                    <a rel="alternate" hreflang="ru" href="https://www.beeoptions.com/privacy/?lang=ru">
+                                    
+                    <img  class="iclflag" src="https://www.beeoptions.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png" alt="ru" title="Русский" />&nbsp;                    
                                         Русский                    </a>
                 </li>
                             </ul>            
@@ -173,21 +170,24 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 				</div>
 				
-				<aside id="login_widget-4" class="widget widget_login_widget"><div id="userSection">	<div id="loggedInBox" class="hidden">		<div class="firstLine">			<div class="welcometext">Welcome :</div>			<div class="welcome"></div>			<div class="balanceText">Balance :<span id="currentBalance"></span></div>			<form method="POST" class="logoutForm" action="http://spotplatform.beeoptions.com/Login/logout">				<input type="submit" class="logoutLink" value="Logout">				<input type="hidden" name="extRedir" value="http://www.beeoptions.com/">			</form>		</div>	<div class="serviceLinks allAct"><ul id="menu-header-links" class="logged_in_menu"><li id="menu-item-133" class="depositNav menu-item menu-item-type-post_type menu-item-object-page menu-item-133"><a href="https://www.beeoptions.com/myaccount/deposit/">Deposit</a></li>
-<li id="menu-item-3776" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3776"><a href="https://www.beeoptions.com/myaccount/accounthistory/">History</a></li>
-<li id="menu-item-134" class="myPositionNav menu-item menu-item-type-post_type menu-item-object-page menu-item-134"><a href="https://www.beeoptions.com/myaccount/myportfolio/">My Portfolio</a></li>
-</ul>	</div></div>	<div id="userLoginForm" class="hidden1">		<form method="POST" class="loginForm" action="http://spotplatform.beeoptions.com/login/login">			<input id="loginFormEmail" type="text" name="email" value="Email" class="text" default="Email">								<input id="loginFormPassword" type="password" name="password" class="textField  password" value="">			<input type="submit" name="sendit" class="submit" value="Login">			<a href="/forgotpassword/?lang=en" title="Forgot Password?" class="ForgotPassword">Forgot Password?</a>		</form>	</div></div></aside>			</div>
+				<aside id="custom_login_widget-2" class="widget widget_custom_login_widget"><script type="text/javascript" src="/wp-content/js/hide_password.js"></script><div id="userSection">	<div id="loggedInBox" class="hidden">		<div class="firstLine">			<div class="welcometext">Welcome:&nbsp;</div>			<div class="welcome"></div>			<form method="POST" class="logoutForm" action="http://spotplatform.beeoptions.com/Login/logout">				<input type="submit" class="logoutLink" value="Logout">				<input type="hidden" name="extRedir" value="http://www.beeoptions.com/?lang=en">			</form>			<br><div class="balanceText">Balance:&nbsp;</div>			<div class="balance"></div>		</div>	<div class="serviceLinks allAct"><ul id="menu-header-links" class="logged_in_menu"><li id="menu-item-133" class="depositNav menu-item menu-item-type-post_type menu-item-object-page menu-item-133"><a href="https://www.beeoptions.com/myaccount_en/deposit/">Deposit</a></li>
+<li id="menu-item-3776" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3776"><a href="https://www.beeoptions.com/myaccount_en/accounthistory/">History</a></li>
+<li id="menu-item-134" class="myPositionNav menu-item menu-item-type-post_type menu-item-object-page menu-item-134"><a href="https://www.beeoptions.com/myaccount_en/myportfolio/">My Portfolio</a></li>
+</ul>	</div></div>	<div id="userLoginForm" class="hidden1">		<form method="POST" class="loginForm" action="http://spotplatform.beeoptions.com/login/login">			<div id="login_fields">			<input type="text" name="email" value="Email" class="text" default="Email"><br>			<input id="realPass" class="textField password" name="password" type="password" value="" style="display: none;">			<input title="Password" type="text" value="Password" name="fakePassword" id="myFakePass" style="display: block;">			</div>			<div id="login_buttons">			<input type="submit" name="sendit" class="submit" value="Login"><br>			<a id="forgot_password_link" href="/forgotpassword/?lang=en" title="Forgot Password?" class="ForgotPassword">Forgot Password ?</a>			</div>		</form>	</div></div></aside>			</div>
                    
 		</div>
 		
 		
-<div class="menu-topnav-container"><ul id="menu-topnav" class="nav-menu"><li id="menu-item-5273" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5273"><a href="http://www.beeoptions.com/">Trade Now</a></li>
-<li id="menu-item-5274" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5274"><a href="https://www.beeoptions.com/openaccount/">Open Account</a></li>
-<li id="menu-item-5325" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5325"><a href="https://www.beeoptions.com/myaccount/deposit/">Deposit</a></li>
-<li id="menu-item-5275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5275"><a href="http://www.beeoptions.com/aboutus/">About Us</a></li>
-<li id="menu-item-5279" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5279"><a href="http://www.beeoptions.com/promotions/">Promotions</a></li>
-<li id="menu-item-5280" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5280"><a href="http://www.beeoptions.com/contactus/">Contact Us</a></li>
-</ul><div id="lang_div"><li id="lang_selector" class="menu-item"><div id="lang_sel"><ul><li><a href="#" class="lang_sel_sel icl-en"><img src="http://www.beeoptions.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.png" height="12" alt="en" width="18"></a><ul><li class="icl-de"><a href="http://www.beeoptions.com/privacy-policy/?lang=de"><img class="float_left" src="http://www.beeoptions.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/de.png" height="12" alt="de" width="18"><div class="lng_code">de</div></a></li><li class="icl-es"><a href="http://www.beeoptions.com/privacy/?lang=es"><img class="float_left" src="http://www.beeoptions.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/es.png" height="12" alt="es" width="18"><div class="lng_code">es</div></a></li><li class="icl-fr"><a href="http://www.beeoptions.com/privacy/?lang=fr"><img class="float_left" src="http://www.beeoptions.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/fr.png" height="12" alt="fr" width="18"><div class="lng_code">fr</div></a></li><li class="icl-ru"><a href="http://www.beeoptions.com/privacy-policy/?lang=ru"><img class="float_left" src="http://www.beeoptions.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png" height="12" alt="ru" width="18"><div class="lng_code">ru</div></a></li></ul></li></ul></div></li></div></div>		
+<div class="menu-topnav-container"><ul id="menu-topnav" class="nav-menu"><li id="menu-item-102" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-102"><a href="https://www.beeoptions.com/">Trade Now</a></li>
+<li id="menu-item-6536" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6536"><a href="https://www.beeoptions.com/openaccount/">Open Account</a></li>
+<li id="menu-item-6537" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6537"><a href="https://www.beeoptions.com/myaccount_en/deposit/">Deposit</a></li>
+<li id="menu-item-3832" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3832"><a href="https://www.beeoptions.com/aboutus/">About Us</a></li>
+<li id="menu-item-457" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-457"><a href="https://www.beeoptions.com/assetindex/">Asset Index</a></li>
+<li id="menu-item-3828" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3828"><a href="http://binaryoptionstimes.com/">&nbsp;&nbsp;Blog&nbsp;</a></li>
+<li id="menu-item-3843" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3843"><a href="https://www.beeoptions.com/learnmore/">Guided Tour</a></li>
+<li id="menu-item-3833" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3833"><a href="http://www.beeoptions.com/promotions/">Promotions</a></li>
+<li id="menu-item-3834" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3834"><a href="https://www.beeoptions.com/contactus/">Contact Us</a></li>
+</ul><div id="lang_div"><li id="lang_selector" class="menu-item"><div id="lang_sel"><ul><li><a href="#" class="lang_sel_sel icl-en"><img src="https://www.beeoptions.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.png" height="12" alt="en" width="18"></a><ul><li class="icl-de"><a href="https://www.beeoptions.com/privacy/?lang=de"><img class="float_left" src="https://www.beeoptions.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/de.png" height="12" alt="de" width="18"><div class="lng_code">de</div></a></li><li class="icl-es"><a href="https://www.beeoptions.com/privacy/?lang=es"><img class="float_left" src="https://www.beeoptions.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/es.png" height="12" alt="es" width="18"><div class="lng_code">es</div></a></li><li class="icl-fr"><a href="https://www.beeoptions.com/privacy/?lang=fr"><img class="float_left" src="https://www.beeoptions.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/fr.png" height="12" alt="fr" width="18"><div class="lng_code">fr</div></a></li><li class="icl-ru"><a href="https://www.beeoptions.com/privacy/?lang=ru"><img class="float_left" src="https://www.beeoptions.com/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png" height="12" alt="ru" width="18"><div class="lng_code">ru</div></a></li></ul></li></ul></div></li></div></div>		
 		
 		
 		
@@ -197,7 +197,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <div class="clear"></div><div id="index">
     
     <div id="HeaderNews">
-        <div id="marqueeTopParent"><marquee id="reuters" behavior="scroll" scrollamount="3" direction="left" width="350" onmouseover="this.stop();" onmouseout="this.start();"><span id="put"> AMAZON VS NETFLIX 0.94260 20:00 25.04</span><span id="put"> LINKEDIN VS TWITTER 3.8045 20:00 25.04</span><span id="put"> FACEBOOK VS TWITTER 1.38826 20:00 25.04</span><span id="put"> GOOGLE VS BAIDU 3.17097 20:00 25.04</span><span id="put"> AMAZON VS EBAY 5.6522 20:00 25.04</span><span id="put"> TWITTER 41.6050 20:00 25.04</span><span id="put"> LINKEDIN VS FACEBOOK 2.7405 20:00 25.04</span><span id="put"> S&amp;P 500 F VS NASDAQ F 0.5271 20:00 25.04</span><span id="put"> VIX  14.1800 20:00 25.04</span><span id="put"> APPLE VS AMAZON 1.88419 20:00 25.04</span><span id="put"> CITIGROUP VS AIG 0.92502 20:00 25.04</span><span id="call"> FACEBOOK  57.7100 20:00 25.04</span><span id="put"> CITIGROUP VS JP MORGAN CHASE 0.85710 20:00 25.04</span><span id="put"> APPLE VS GOOGLE 1.10797 20:00 25.04</span><span id="put"> STARBUCKS 71.4450 20:00 25.04</span><span id="call"> MASTERCARD 70.6650 20:00 25.04</span><span id="put"> GENERAL MOTORS 33.7150 20:00 25.04</span><span id="put"> MICROSOFT 39.83 20:00 25.04</span><span id="put"> FAZ-SHORT BANKS 20.6550 20:00 25.04</span><span id="call"> EBAY 53.7150 20:00 25.04</span><span id="call"> WYNN RESORTS 201.4650 20:00 25.04</span><span id="call"> LAS VEGAS SANDS 77.0350 20:00 25.04</span><span id="call"> AUD/JPY 94.676 20:00 25.04</span><span id="put"> McDONALD'S 100.7450 20:00 25.04</span><span id="put"> NETFLIX 322.1000 20:00 25.04</span><span id="put"> AIG 51.6150 20:00 25.04</span><span id="put"> CITIGROUP 47.7450 20:00 25.04</span><span id="call"> CATERPILLAR 104.7000 20:00 25.04</span><span id="put"> PFIZER 30.7550 20:00 25.04</span><span id="call"> PETROBRAS 13.4950 20:00 25.04</span></marquee></div>
+        <div id="marqueeTopParent"><marquee id="reuters" behavior="scroll" scrollamount="3" direction="left" width="350" onmouseover="this.stop();" onmouseout="this.start();"><span id="call"> TEL AVIV 25 1391.890 13:00 06.07</span><span id="call"> TEL AVIV 25 1391.890 13:00 06.07</span><span id="put"> TADAWUL 9757.100 12:20 06.07</span><span id="call"> TEL AVIV 25 1391.580 12:00 06.07</span><span id="call"> TEL AVIV 25 1391.580 12:00 06.07</span><span id="call"> TEL AVIV 25 1392.590 11:00 06.07</span><span id="call"> TEL AVIV 25 1392.590 11:00 06.07</span><span id="call"> TEL AVIV 25 1391.890 10:00 06.07</span><span id="call"> TEL AVIV 25 1391.890 10:00 06.07</span><span id="call"> DUBAI 4593.570 10:00 06.07</span><span id="call"> DUBAI 4593.570 10:00 06.07</span><span id="put"> TADAWUL 9736.640 10:00 06.07</span><span id="call"> DUBAI 4557.330 09:30 06.07</span><span id="call"> DUBAI 4557.330 09:30 06.07</span><span id="call"> TEL AVIV 25 1393.870 09:00 06.07</span><span id="call"> TEL AVIV 25 1393.870 09:00 06.07</span><span id="call"> DUBAI 4535.920 09:00 06.07</span><span id="call"> DUBAI 4535.920 09:00 06.07</span><span id="call"> DUBAI 4500.490 08:30 06.07</span><span id="call"> DUBAI 4500.490 08:30 06.07</span><span id="call"> TEL AVIV 25 1393.410 08:00 06.07</span><span id="call"> TEL AVIV 25 1393.410 08:00 06.07</span><span id="call"> DUBAI 4485.970 08:00 06.07</span><span id="call"> DUBAI 4485.970 08:00 06.07</span><span id="call"> DUBAI 4477.970 07:30 06.07</span><span id="call"> DUBAI 4477.970 07:30 06.07</span><span id="call"> SAUDI REFINERIES 75.6667 12:20 05.07</span><span id="call"> SAUDI REFINERIES 75.6667 12:20 05.07</span><span id="call"> SAUDI REFINERIES 75.6667 10:00 05.07</span><span id="call"> SAUDI REFINERIES 75.6667 10:00 05.07</span></marquee></div>
         <!--
 		<div id="phoneDiv">
             <a id="phoneGif" href="/contact-us">
@@ -211,92 +211,53 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	
         <div class="rightSide">
                 
-<div id="start_trading"><a href="/openaccount/?lang=en">Start Trading</a></div><aside id="lead_widget-2" class="widget widget_lead_widget"><h3 class="widget-title">Start trading now</h3>			<form action="/openaccount/" method="POST" id="needHelp" name="specialNeedHelp">
-            <table class="need_help_table" cellpadding="0" cellspacing="0">
-                <tbody><tr>
-                    <td>
-                      
-                            <input class="medBG first" type="text" name="FirstName" default="First Name" value="First Name">
-                    </td>
-					<td>
-                            <input type="text" class="medBG last" name="LastName" default="Last Name" value="Last Name">
-                       
-                    </td>
-                </tr>
-                <tr>
-                    <td colspan="2">
-						<select class="countrylist selectbox" id="country" name="Country">	
-						           
-						</select>
-                    </td>
-                </tr>                    
-                <tr>
-                    <td colspan="2">
-                        <div class="bigBG">
-                            <input type="text" name="email" default="Email" value="Email">
-                        </div>
-                    </td>
-                </tr>
-                <tr>
-                    <td id="phones" colspan="2">
-                        <input type="text" name="Prefix" class="tny" default="Prefix" value="" maxlength="4">
-                        <input type="text" name="Area" class="tny" default="Area" value="Area" maxlength="4">
-                        <input type="text" name="Phone" class="mid" default="My Phone" value="My Phone" maxlength="20">                        
-                    </td>
-                </tr>
-                <tr class="checkBoxTr">
-					
-                    <td id="checkBx" colspan="2">
-						<div id="headphones"></div>
-                        <input type="checkbox" checked="checked">
-                        <label>I'd like to speak with a trading coach</label>
-                    </td>
-                </tr>
-            </tbody></table>
-            <input type="hidden" id="leadBox" name="leadBox" value="51c4c01921"><input type="hidden" name="_wp_http_referer" value="/privacy/?">			<input type="hidden" name="campaignId" value="">
-			<input type="hidden" name="subCampaign" value="">
+<div id="start_trading"><a href="/openaccount/?lang=en">Start Trading</a></div>	
+	
+<aside id="display_time_widget-3" class="widget widget_display_time_widget"><script type="text/javascript" src="/wp-content/js/running_clock.js"></script><div id="running_clock"><div id="clock_top"><span class="time_label">GMT:</span><div class="Time"><div id="top_LShour" class="time_component"></div><span class="time_point">:</span><div id="top_LSminute" class="time_component"></div><span class="time_point">:</span><div id="top_LSseconds" class="time_component"></div></div></div><div id="clock_bottom"><span class="time_label">Local Time:</span><div class="Time"><div id="bottom_LShour" class="time_component"></div><span class="time_point">:</span><div id="bottom_LSminute" class="time_component"></div><span class="time_point">:</span><div id="bottom_LSseconds" class="time_component"></div></div></div></div></aside><aside id="livechat_widget-5" class="widget widget_livechat_widget"><div id="LP_DIV_1397754271623"></div><div id="livechat_text">Live Chat</div></aside><aside id="custom_promotion_widget-2" class="widget widget_custom_promotion_widget">		
+			<a href="/openaccount?lang=en"><div id="promotion_widget"><img src="/wp-content/uploads/2014/07/sidepromoJuly_en.gif"></div></a>
+		
+		
+		</aside><aside id="super_rss_reader-2" class="widget widget_super_rss_reader"><h3 class="widget-title">BREAKING NEWS</h3>
 
-            <input type="submit" class="submit" value="Open Account">             
-			<input type="hidden" value="1" name="specialNeedHelp">
-            <input type="hidden" value="1" name="registerAsLead">
-			<div class="errors"></div>
-        </form>
+		<!-- Start - Super RSS Reader v2.5-->
+		<div class="super-rss-reader-widget">
+<div class="srr-wrap srr-vticker srr-style-grey" data-visible="10" data-speed="5000"><div>
+
+	<div class="srr-item odd"><div class="srr-title"><a href="http://us.rd.yahoo.com/finance/external/tsmfe/rss/SIG=12jjbcuof/*http://www.thestreet.com/story/12763449/1/the-old-oem-economy-is-fading-fast.html?puc=yahoo&amp;cm_ven=YAHOO" target="_blank" title="Posted on 5 July 2014">The Old OEM Economy Is Fading Fast</a></div><div class="srr-meta"></div><p class="srr-summary srr-clearfix"> </p></div>
+
+	<div class="srr-item even"><div class="srr-title"><a href="http://us.rd.yahoo.com/finance/external/tsmfe/rss/SIG=138d0n44i/*http://www.thestreet.com/story/12763139/1/yahoos-community-revival-means-the-end-of-cancellations.html?puc=yahoo&amp;cm_ven=YAHOO" target="_blank" title="Posted on 5 July 2014">Yahoo!'s 'Community' Revival Means the End of Cancellations</a></div><div class="srr-meta"></div><p class="srr-summary srr-clearfix"> </p></div>
+
+	<div class="srr-item odd"><div class="srr-title"><a href="http://us.rd.yahoo.com/finance/external/pssa/rss/SIG=131ofius3/*http://seekingalpha.com/article/2299795-can-yahoo-be-your-ideal-pick-in-the-online-ads-industry?source=yahoo" target="_blank" title="Posted on 4 July 2014">Can Yahoo Be Your Ideal Pick In The Online Ads Industry?</a></div><div class="srr-meta"></div><p class="srr-summary srr-clearfix">[at Seeking Alpha] - Since Ex-Googler Marissa Mayer took over the reins of a struggling Yahoo ( YHOO ), it has turned into a new products Frankenstein that has been constantly innovating on expanding its product portfolio ... </p></div>
+
+	<div class="srr-item even"><div class="srr-title"><a href="http://us.rd.yahoo.com/finance/external/forbes/rss/SIG=148nfgvgd/*http://www.forbes.com/sites/jeffbercovici/2014/07/03/how-facebook-is-trying-to-fix-its-diversity-problem-and-the-whole-tech-industrys/?partner=yahootix" target="_blank" title="Posted on 3 July 2014">How Facebook Is Trying To Fix Its Diversity Problem (And The Whole Tech Industry's)</a></div><div class="srr-meta"></div><p class="srr-summary srr-clearfix">[at Forbes] - A recent spate of workforce diversity reports from Google, Facebook, Yahoo and LinkedIn revealed what everybody already kind of knew: The makeup of the tech industry is thoroughly out of whack with the demographics of the Bay Area, the nation and its collective user base. So what now? For Facebook, the  </p></div>
+
+	<div class="srr-item odd"><div class="srr-title"><a href="http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/yahoo-releases-massive-flickr-dataset-170609707.html" target="_blank" title="Posted on 3 July 2014">Yahoo releases massive Flickr dataset, and a supercomputer steps up to analyze it</a></div><div class="srr-meta"></div><p class="srr-summary srr-clearfix"> </p></div>
+
+	<div class="srr-item even"><div class="srr-title"><a href="http://us.rd.yahoo.com/finance/external/video/bloomberg/rss/SIG=12t26ihhk/*http://www.bloomberg.com/video/options-update-how-to-play-yahoo-FZwGKPFnSNGJmUmCLMcTHw.html?cmpid=yhoo" target="_blank" title="Posted on 3 July 2014">[video] Options Update: How to Play Yahoo</a></div><div class="srr-meta"></div><p class="srr-summary srr-clearfix">[at Bloomberg] - July 3 (Bloomberg) -- Trading Advantage Senior Market Strategist Scott Bauer discusses his options play for Yahoo on Bloomberg Television's “Market Makers.” (Source: Bloomberg) </p></div>
+
+	<div class="srr-item odd"><div class="srr-title"><a href="http://us.rd.yahoo.com/finance/external/tsmfe/rss/SIG=12sbecbus/*http://www.thestreet.com/story/12764670/1/why-yahoo-yhoo-stock-is-rising-this-morning.html?puc=yahoo&amp;cm_ven=YAHOO" target="_blank" title="Posted on 3 July 2014">Why Yahoo! (YHOO) Stock Is Rising This Morning</a></div><div class="srr-meta"></div><p class="srr-summary srr-clearfix">[at TheStreet] - Yahoo! (YHOO) stock is gaining in pre-market trading after it announced that it will shut down more underperforming products to focus on its more popular ones. </p></div>
+
+	<div class="srr-item even"><div class="srr-title"><a href="http://us.rd.yahoo.com/finance/external/bloomberg/rss/SIG=136rk7qi2/*http://www.bloomberg.com/news/2014-07-03/china-blocked-line-flickr-amid-protests-greatfire-says.html?cmpid=yhoo" target="_blank" title="Posted on 3 July 2014">China Blocked Line, Flickr Amid Protests, Greatfire Says</a></div><div class="srr-meta"></div><p class="srr-summary srr-clearfix">[at Bloomberg] - China blocked Yahoo! Inc. (YHOO)’s Flickr photo-sharing service and Line Corp.’s messaging site as part of a stepped-up web censorship campaign, according to analysis by Greatfire.org, a group opposed to Internet restrictions. Line users in China haven’t been able to access all services since July 1, Line spokeswoman Fumiko Hayashi said in a phone interview. Users attempting to access Flickr’s photo sharing website were told the page couldn’t be opened. Greatfire.org, which uses </p></div>
+
+	<div class="srr-item odd"><div class="srr-title"><a href="http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/last-minute-bearish-bet-yahoo-094751147.html" target="_blank" title="Posted on 3 July 2014">Last-minute bearish bet in Yahoo</a></div><div class="srr-meta"></div><p class="srr-summary srr-clearfix"> </p></div>
+
+	<div class="srr-item even"><div class="srr-title"><a href="http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/swathe-online-services-disrupted-china-094252453.html" target="_blank" title="Posted on 3 July 2014">New swathe of online services disrupted in China; activists see HK protest link</a></div><div class="srr-meta"></div><p class="srr-summary srr-clearfix">[Reuters] - BEIJING (Reuters) - Access to online services such as messaging app Line and photo-sharing site Flickr was disrupted in China this week, a step anti-censorship groups said was carried out by the government ... </p></div>
+
+</div>
+		</div> 
+
+
+</div>
+		<!-- End - Super RSS Reader -->
 		
-		</aside><aside id="display_time_widget-2" class="widget widget_display_time_widget"><script type="text/javascript" src="/wp-content/js/running_clock.js"></script><div id="running_clock"><div id="clock_top"><span class="time_label">GMT:</span><div class="Time"><div id="top_LShour" class="time_component"></div><span class="time_point">:</span><div id="top_LSminute" class="time_component"></div><span class="time_point">:</span><div id="top_LSseconds" class="time_component"></div></div></div><div id="clock_bottom"><span class="time_label">Local Time:</span><div class="Time"><div id="bottom_LShour" class="time_component"></div><span class="time_point">:</span><div id="bottom_LSminute" class="time_component"></div><span class="time_point">:</span><div id="bottom_LSseconds" class="time_component"></div></div></div></div></aside><aside id="livechat_widget-6" class="widget widget_livechat_widget"><div id="LP_DIV_1397754337137"></div><div id="livechat_text">Live Chat</div></aside><aside id="custom_promotion_widget-6" class="widget widget_custom_promotion_widget">		
-			<a href="/OpenAccount?lang=en"><div id="promotion_widget"><img src="/wp-content/uploads/2014/04/weekendspecial_en.jpg"></div></a>
-		
-		
-		</aside><aside id="continuous-rss-scrolling" class="widget crs_widget"><h3 class="widget-title">breaking news</h3>	
-		<div style="padding-top:8px;padding-bottom:8px;">
-			<div style="text-align: left; vertical-align: middle; text-decoration: none; overflow: hidden; position: relative; margin-left: 1px; height: 220px;" id="crs_Holder">
-				<div class="crs_div" style="height:40px;padding:2px 0px 2px 0px;"><a target="_blank" href="http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/facebook-buys-moves-developer-201421206.html">Facebook Buys Moves Developer</a></div><div class="crs_div" style="height:40px;padding:2px 0px 2px 0px;"><a target="_blank" href="http://us.rd.yahoo.com/finance/external/video/tsmfe/rss/SIG=13cv06nnh/*http://www.thestreet.com/_yahoo/story/12683773/1/pinterests-new-guided-search-threatens-google-domain.html?cm_ven=YAHOOV&amp;cm_cat=FREE&amp;cm_ite=NA">[video] Pinterest's New Guided Search Threatens Google Domain</a></div><div class="crs_div" style="height:40px;padding:2px 0px 2px 0px;"><a target="_blank" href="http://us.rd.yahoo.com/finance/external/tsmfe/rss/SIG=13kklmeu5/*http://www.thestreet.com/story/12683713/1/yahoo-waits-as-investors-wonder-if-alibaba-will-go-public-next-week.html?puc=yahoo&amp;cm_ven=YAHOO">Yahoo! Waits as Investors Wonder if Alibaba Will Go Public Next Week</a></div><div class="crs_div" style="height:40px;padding:2px 0px 2px 0px;"><a target="_blank" href="http://us.rd.yahoo.com/finance/external/video/cnbc/rss/SIG=110mfa5qs/*http://video.cnbc.com/gallery/?video=3000270156&amp;__source=yahoo%7cheadline%7cquote%7cvideo%7c&amp;par=yahoo">[video] Jeff Bezos hasn't cared for 20 years: Swisher</a></div><div class="crs_div" style="height:40px;padding:2px 0px 2px 0px;"><a target="_blank" href="http://us.rd.yahoo.com/finance/external/video/cnbc/rss/SIG=110mfa5qs/*http://video.cnbc.com/gallery/?video=3000268743&amp;__source=yahoo%7cheadline%7cquote%7cvideo%7c&amp;par=yahoo">[video] Amazon winning cloud: Pro</a></div><div class="crs_div" style="height:40px;padding:2px 0px 2px 0px;"><a target="_blank" href="http://us.rd.yahoo.com/finance/external/video/cnbc/rss/SIG=110mfa5qs/*http://video.cnbc.com/gallery/?video=3000270249&amp;__source=yahoo%7cheadline%7cquote%7cvideo%7c&amp;par=yahoo">[video] Cramer's Mad Dash: Watch PLUG</a></div><div class="crs_div" style="height:40px;padding:2px 0px 2px 0px;"><a target="_blank" href="http://us.rd.yahoo.com/finance/external/video/cnbc/rss/SIG=110mfa5qs/*http://video.cnbc.com/gallery/?video=3000270056&amp;__source=yahoo%7cheadline%7cquote%7cvideo%7c&amp;par=yahoo">[video] Amazon has something for everybody: Pro</a></div><div class="crs_div" style="height:40px;padding:2px 0px 2px 0px;"><a target="_blank" href="http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/microsoft-ceo-nadella-impresses-wall-030157671.html">New Microsoft CEO Nadella impresses Wall Street, stresses challenges</a></div><div class="crs_div" style="height:40px;padding:2px 0px 2px 0px;"><a target="_blank" href="http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/microsoft-ceo-nadella-impresses-wall-005916198.html">New Microsoft CEO Nadella impresses Wall Street, stresses challenges</a></div><div class="crs_div" style="height:40px;padding:2px 0px 2px 0px;"><a target="_blank" href="http://us.rd.yahoo.com/finance/external/investopedia/rss/SIG=132dpm1pr/*http://www.investopedia.com/articles/markets/042414/dont-believe-hype-about-yahoo-turnaround.asp?partner=YahooSA">Don't Believe The Hype About A Yahoo Turnaround</a></div><div class="crs_div" style="height:40px;padding:2px 0px 2px 0px;"><a target="_blank" href="http://us.rd.yahoo.com/finance/external/mfool/rss/SIG=13anuev4p/*http://www.fool.com/investing/general/2014/04/24/the-most-important-number-from-yahoos-earnings-rep.aspx?source=eogyholnk0000001">The Most Important Number From Yahoo!'s Earnings Report</a></div><div class="crs_div" style="height:40px;padding:2px 0px 2px 0px;"><a target="_blank" href="http://us.rd.yahoo.com/finance/external/pssa/rss/SIG=11vokfgl7/*http://seekingalpha.com/article/2160233-yahoo-is-a-hedge-fund?source=yahoo">Yahoo Is A Hedge Fund</a></div><div class="crs_div" style="height:40px;padding:2px 0px 2px 0px;"><a target="_blank" href="http://us.rd.yahoo.com/finance/external/pssa/rss/SIG=12ft8s6ci/*http://seekingalpha.com/article/2160183-3-terrific-reasons-why-yahoo-is-a-buy?source=yahoo">3 Terrific Reasons Why Yahoo Is A Buy</a></div><div class="crs_div" style="height:40px;padding:2px 0px 2px 0px;"><a target="_blank" href="http://us.rd.yahoo.com/finance/external/cnbc/rss/SIG=112d1l573/*http://www.cnbc.com/id/101607580?__source=yahoo%257cfinance%257cheadline%257cheadline%257cstory&amp;par=yahoo&amp;doc=101607580%257cBig+money+activism:+Helpf">Big money activism: Helpful or harmful?</a></div><div class="crs_div" style="height:40px;padding:2px 0px 2px 0px;"><a target="_blank" href="http://us.rd.yahoo.com/finance/external/video/cnbc/rss/SIG=110mfa5qs/*http://video.cnbc.com/gallery/?video=3000269565&amp;__source=yahoo%7cheadline%7cquote%7cvideo%7c&amp;par=yahoo">[video] Shareholder activism your friend: Cramer</a></div><div class="crs_div" style="height:40px;padding:2px 0px 2px 0px;"><a target="_blank" href="http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/bipartisan-group-slams-u-sec-210000313.html">Bipartisan group slams U.S. SEC for resisting email privacy reform</a></div><div class="crs_div" style="height:40px;padding:2px 0px 2px 0px;"><a target="_blank" href="http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/aol-microsoft-lure-advertisers-tv-195359168.html">AOL, Microsoft lure advertisers with TV-style shows</a></div><div class="crs_div" style="height:40px;padding:2px 0px 2px 0px;"><a target="_blank" href="http://us.rd.yahoo.com/finance/external/investors/rss/SIG=12g6mr0hb/*http://news.investors.com/042314-698098-baidu-spending-may-cut-q1-earnings.htm?ven=yahoocp&amp;src=aurlled&amp;ven=yahoo">Baidu Earnings Seen Falling As Mobile Drive Continues</a></div><div class="crs_div" style="height:40px;padding:2px 0px 2px 0px;"><a target="_blank" href="http://us.rd.yahoo.com/finance/external/video/cnbc/rss/SIG=110mfa5qs/*http://video.cnbc.com/gallery/?video=3000268460&amp;__source=yahoo%7cheadline%7cquote%7cvideo%7c&amp;par=yahoo">[video] Too simple to say it's a bubble: Pro</a></div><div class="crs_div" style="height:40px;padding:2px 0px 2px 0px;"><a target="_blank" href="http://us.rd.yahoo.com/finance/external/forbes/rss/SIG=13ltuunca/*http://www.forbes.com/sites/chrisversace/2014/04/23/where-are-the-jobs-that-are-being-created-and-how-to-find-them/?partner=yahootix">Where Are The Jobs That Are Being Created And How Do You Find Them?</a></div>			</div>
-		</div>
-		<script type="text/javascript">
-		var crs_array	= new Array();
-		var crs_obj	= '';
-		var crs_scrollPos 	= '';
-		var crs_numScrolls	= '';
-		var crs_heightOfElm = '44';
-		var crs_numberOfElm = '5';
-		var crs_scrollOn 	= 'true';
-		function crs_createscroll() 
-		{
-			crs_array[0] = '<div class=\'crs_div\' style=\'height:40px;padding:2px 0px 2px 0px;\'><a target=\'_blank\' href=\'http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/facebook-buys-moves-developer-201421206.html\'>Facebook Buys Moves Developer</a></div>'; crs_array[1] = '<div class=\'crs_div\' style=\'height:40px;padding:2px 0px 2px 0px;\'><a target=\'_blank\' href=\'http://us.rd.yahoo.com/finance/external/video/tsmfe/rss/SIG=13cv06nnh/*http://www.thestreet.com/_yahoo/story/12683773/1/pinterests-new-guided-search-threatens-google-domain.html?cm_ven=YAHOOV&amp;cm_cat=FREE&amp;cm_ite=NA\'>[video] Pinterest&apos;s New Guided Search Threatens Google Domain</a></div>'; crs_array[2] = '<div class=\'crs_div\' style=\'height:40px;padding:2px 0px 2px 0px;\'><a target=\'_blank\' href=\'http://us.rd.yahoo.com/finance/external/tsmfe/rss/SIG=13kklmeu5/*http://www.thestreet.com/story/12683713/1/yahoo-waits-as-investors-wonder-if-alibaba-will-go-public-next-week.html?puc=yahoo&amp;cm_ven=YAHOO\'>Yahoo! Waits as Investors Wonder if Alibaba Will Go Public Next Week</a></div>'; crs_array[3] = '<div class=\'crs_div\' style=\'height:40px;padding:2px 0px 2px 0px;\'><a target=\'_blank\' href=\'http://us.rd.yahoo.com/finance/external/video/cnbc/rss/SIG=110mfa5qs/*http://video.cnbc.com/gallery/?video=3000270156&amp;__source=yahoo%7cheadline%7cquote%7cvideo%7c&amp;par=yahoo\'>[video] Jeff Bezos hasn&apos;t cared for 20 years: Swisher</a></div>'; crs_array[4] = '<div class=\'crs_div\' style=\'height:40px;padding:2px 0px 2px 0px;\'><a target=\'_blank\' href=\'http://us.rd.yahoo.com/finance/external/video/cnbc/rss/SIG=110mfa5qs/*http://video.cnbc.com/gallery/?video=3000268743&amp;__source=yahoo%7cheadline%7cquote%7cvideo%7c&amp;par=yahoo\'>[video] Amazon winning cloud: Pro</a></div>'; crs_array[5] = '<div class=\'crs_div\' style=\'height:40px;padding:2px 0px 2px 0px;\'><a target=\'_blank\' href=\'http://us.rd.yahoo.com/finance/external/video/cnbc/rss/SIG=110mfa5qs/*http://video.cnbc.com/gallery/?video=3000270249&amp;__source=yahoo%7cheadline%7cquote%7cvideo%7c&amp;par=yahoo\'>[video] Cramer&apos;s Mad Dash: Watch PLUG</a></div>'; crs_array[6] = '<div class=\'crs_div\' style=\'height:40px;padding:2px 0px 2px 0px;\'><a target=\'_blank\' href=\'http://us.rd.yahoo.com/finance/external/video/cnbc/rss/SIG=110mfa5qs/*http://video.cnbc.com/gallery/?video=3000270056&amp;__source=yahoo%7cheadline%7cquote%7cvideo%7c&amp;par=yahoo\'>[video] Amazon has something for everybody: Pro</a></div>'; crs_array[7] = '<div class=\'crs_div\' style=\'height:40px;padding:2px 0px 2px 0px;\'><a target=\'_blank\' href=\'http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/microsoft-ceo-nadella-impresses-wall-030157671.html\'>New Microsoft CEO Nadella impresses Wall Street, stresses challenges</a></div>'; crs_array[8] = '<div class=\'crs_div\' style=\'height:40px;padding:2px 0px 2px 0px;\'><a target=\'_blank\' href=\'http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/microsoft-ceo-nadella-impresses-wall-005916198.html\'>New Microsoft CEO Nadella impresses Wall Street, stresses challenges</a></div>'; crs_array[9] = '<div class=\'crs_div\' style=\'height:40px;padding:2px 0px 2px 0px;\'><a target=\'_blank\' href=\'http://us.rd.yahoo.com/finance/external/investopedia/rss/SIG=132dpm1pr/*http://www.investopedia.com/articles/markets/042414/dont-believe-hype-about-yahoo-turnaround.asp?partner=YahooSA\'>Don&apos;t Believe The Hype About A Yahoo Turnaround</a></div>'; crs_array[10] = '<div class=\'crs_div\' style=\'height:40px;padding:2px 0px 2px 0px;\'><a target=\'_blank\' href=\'http://us.rd.yahoo.com/finance/external/mfool/rss/SIG=13anuev4p/*http://www.fool.com/investing/general/2014/04/24/the-most-important-number-from-yahoos-earnings-rep.aspx?source=eogyholnk0000001\'>The Most Important Number From Yahoo!&apos;s Earnings Report</a></div>'; crs_array[11] = '<div class=\'crs_div\' style=\'height:40px;padding:2px 0px 2px 0px;\'><a target=\'_blank\' href=\'http://us.rd.yahoo.com/finance/external/pssa/rss/SIG=11vokfgl7/*http://seekingalpha.com/article/2160233-yahoo-is-a-hedge-fund?source=yahoo\'>Yahoo Is A Hedge Fund</a></div>'; crs_array[12] = '<div class=\'crs_div\' style=\'height:40px;padding:2px 0px 2px 0px;\'><a target=\'_blank\' href=\'http://us.rd.yahoo.com/finance/external/pssa/rss/SIG=12ft8s6ci/*http://seekingalpha.com/article/2160183-3-terrific-reasons-why-yahoo-is-a-buy?source=yahoo\'>3 Terrific Reasons Why Yahoo Is A Buy</a></div>'; crs_array[13] = '<div class=\'crs_div\' style=\'height:40px;padding:2px 0px 2px 0px;\'><a target=\'_blank\' href=\'http://us.rd.yahoo.com/finance/external/cnbc/rss/SIG=112d1l573/*http://www.cnbc.com/id/101607580?__source=yahoo%257cfinance%257cheadline%257cheadline%257cstory&amp;par=yahoo&amp;doc=101607580%257cBig+money+activism:+Helpf\'>Big money activism: Helpful or harmful?</a></div>'; crs_array[14] = '<div class=\'crs_div\' style=\'height:40px;padding:2px 0px 2px 0px;\'><a target=\'_blank\' href=\'http://us.rd.yahoo.com/finance/external/video/cnbc/rss/SIG=110mfa5qs/*http://video.cnbc.com/gallery/?video=3000269565&amp;__source=yahoo%7cheadline%7cquote%7cvideo%7c&amp;par=yahoo\'>[video] Shareholder activism your friend: Cramer</a></div>'; crs_array[15] = '<div class=\'crs_div\' style=\'height:40px;padding:2px 0px 2px 0px;\'><a target=\'_blank\' href=\'http://us.rd.yahoo.com/finance/news/rss/story/*http://finance.yahoo.com/news/bipartisan-group-slams-u-sec-210000313.html\'>Bipartisan group slams U.S. SEC for resisting email privacy reform</a></div>'; crs_array[16] = '<div class=\'crs_div\' style=\'height:40px;padding:2px 0px 2px 0px;\'><a target=\'_blank\' href=\'http://us.rd.yahoo.com/finance/news/rss/story/*http://sg.finance.yahoo.com/news/aol-microsoft-lure-advertisers-tv-195359168.html\'>AOL, Microsoft lure advertisers with TV-style shows</a></div>'; crs_array[17] = '<div class=\'crs_div\' style=\'height:40px;padding:2px 0px 2px 0px;\'><a target=\'_blank\' href=\'http://us.rd.yahoo.com/finance/external/investors/rss/SIG=12g6mr0hb/*http://news.investors.com/042314-698098-baidu-spending-may-cut-q1-earnings.htm?ven=yahoocp&amp;src=aurlled&amp;ven=yahoo\'>Baidu Earnings Seen Falling As Mobile Drive Continues</a></div>'; crs_array[18] = '<div class=\'crs_div\' style=\'height:40px;padding:2px 0px 2px 0px;\'><a target=\'_blank\' href=\'http://us.rd.yahoo.com/finance/external/video/cnbc/rss/SIG=110mfa5qs/*http://video.cnbc.com/gallery/?video=3000268460&amp;__source=yahoo%7cheadline%7cquote%7cvideo%7c&amp;par=yahoo\'>[video] Too simple to say it&apos;s a bubble: Pro</a></div>'; crs_array[19] = '<div class=\'crs_div\' style=\'height:40px;padding:2px 0px 2px 0px;\'><a target=\'_blank\' href=\'http://us.rd.yahoo.com/finance/external/forbes/rss/SIG=13ltuunca/*http://www.forbes.com/sites/chrisversace/2014/04/23/where-are-the-jobs-that-are-being-created-and-how-to-find-them/?partner=yahootix\'>Where Are The Jobs That Are Being Created And How Do You Find Them?</a></div>'; 			crs_obj	= document.getElementById('crs_Holder');
-			crs_obj.style.height = (crs_numberOfElm * crs_heightOfElm) + 'px';
-			crs_content();
-		}
-		</script>
-		<script type="text/javascript">
-		crs_createscroll();
-		</script>
-		</aside>        </div>
+</aside>                </div>
 	
    	<div class="pageContainer">
 	
 	
 			<div class="title_box inner_container">
 		<div id="title_privacy" class="title_img">
-		<div style="display: none;">/wp-content/images/title_icons/title_privacy.png /web/beeoptions.com/web/wp-content/images/title_icons/title_privacy.png</div><img src="/wp-content/images/title_icons/title_default.png">			<h2 style="margin-left:14px;">Privacy Policy</h2>
+		<div style="display: none;">/wp-content/images/title_icons/title_privacy.png /web/beeoptions.com/web/wp-content/images/title_icons/title_privacy.png</div><img src="/wp-content/images/title_icons/title_default.png">			<h2 style="margin-left: 14px;">Privacy Policy</h2>
 		</div>
 	</div>
 	
@@ -304,15 +265,16 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		<div class="post" id="post-211">
 			
 			<div class="inner_container">
-<div class="inner_title">beeoptions Privacy Policy </div>
-<p>beeoptions does its utmost to ensure the privacy, confidentiality and security of its clients are preserved both throughout their interaction with the company and afterwards, to the fullest extent achievable by the company.
-</p><p>1. When clients register with  beeoptions they acknowledge their willingness to share with the company certain private information which we use for the purpose of confirming the client’s identity and ensuring the security of their deposits and trading account. This information is collected in line with our stringent verification procedures which are used to deter international money laundering operations and to ensure the security and safety of our customer’s trading activity throughout.</p>
-<p>2. Our clients undertake to supply us with true, updated and accurate information about their identity. Furthermore&nbsp; they are required to state categorically that they are registering and trading on their own behalf and are not seeking at any time to act any manner which could be considered fraudulent nor are they seeking to impersonate any other individuals for any purposes whatsoever.</p>
-<p>3. beeoptions’s data collection procedures include the collection of client’s freely disclosed information as shared with the company, in addition to the placement of cookies for the purposes of gathering data about the manner in which client’s interact with the  beeoptions website. These tools for gathering client’s information are employed for the purpose of ensuring the customer’s own security and all data collected by the company is shared only with individuals within the company who are involved with the verification of customer account information for the express purpose of ensuring the customer’s confidentiality and security.</p>
-<p>4. beeoptions will never disclose any private or otherwise confidential information in regards to our clients and former clients to third parties without the express, written consent of our clients, except in such specific cases in which disclosure is a requirement under law, or is otherwise necessary in order to perform verification analysis on the client’s identity for the purposes of safeguarding their account and securing their personal information.</p>
-<p>5. By registering with  beeoptions and through the voluntary interaction they undertake with beeoptions’s products and services the clients confirm and agree that they consent to the use of all or part of the information they provide concerning their  beeoptions trading account, the transactions they undertake through it and the interactions which they perform with the company on behalf of the company. All interactions the customer undertakes with the cmpany will be stored by the company for the purposes of record and as such may be employed by the company in such cases that disputes arise between clients and .</p>
-<p>6. beeoptions does its utmost to ensure the confidentiality of its clients personal information including the implementation of data protection procedures designed to ensure client confidentiality.  beeoptions ensures that its data protection policy is regularly updated in order to ensure that client’s confidential information is continually safeguarded.</p>
-<p>7. From time to time  beeoptions may contact clients whether by phone or email for the purpose of offering them further information about  beeoptions binary options trading or financial market trading. In addition the company may, on occasion, seek to contact clients, whether by phone or by email, for the purpose of informing them of unique promotional offerings provided by  beeoptions for the client. Clients consent to the receipt of such contact when they consent to our terms and conditions of use when registering with beeoptions. Any person wishing to opt out of further contact with  beeoptions at anytime whatsoever is entitled to do so, simply by contacting the company whether by phone or email and requesting that no further contact on behalf of the company will be made</p>
+<div class="inner_title">Beeoptions Privacy Policy</div>
+<p dir="LTR">beeoptions does its utmost to ensure that the privacy, confidentiality and security of its clients are preserved throughout their interaction with the company and afterwards, to the fullest extent that is achievable by the company.</p>
+<p dir="LTR">1. When clients register with beeoptions, they acknowledge their willingness to share certain private information with the company, which we use for the purpose of confirming the client’s identity, ensuring the security of their deposits, and protecting their trading account. This information is collected in line with our stringent verification procedures. This process deters international money laundering operations and ensures the security and safety of our customers’ trading activity.</p>
+<p dir="LTR">2. Our clients agree to supply us with true, updated and accurate information about their identity. Furthermore, they are required to state that they areregistering and trading on their own behalf and are not seeking to act in any manner that could be considered fraudulent. This includes asserting that they are not seeking to impersonate any other individuals for any purposes whatsoever.</p>
+<p dir="LTR">3. Clients understand that they their freely disclosed information is shared with the company as part of the beeoptions data collection procedure. In addition, cookies are placed for information gathering and data purposes regarding the manner in which client’s interact with the beeoptions website. These tools for gathering client’s information are employed for the purpose of ensuring customer protections. All data collected by the company is only shared with individuals within the company who are involved with the verification of customer account information for the express purpose of ensuring customer confidentiality and security.</p>
+<p dir="LTR">4. beeoptions will never disclose any private or otherwise confidential information in regards to our clients and former clients to third parties without the written consent of our clients.This excludes specific cases in which disclosure is a requirement under law or is otherwise necessary in order to perform verification analysis on the client’s identity for the purposes of safeguarding their account and securing their personal information.</p>
+<p dir="LTR">5. By registering with beeoptions and through the voluntary interaction clients undertake with beeoptions’s products and services, the clients confirm and agree that they consent to the use of all or part of the information they provide concerning their beeoptions trading account, the transactions they undertake through it, and the interactions which they perform with the company on behalf of the company. All interactions the customer undertakes with the company will be stored by the company for the record keeping purposes ,which may be employed by the company in such cases where disputes arise.</p>
+<p dir="LTR">6. beeoptions does its utmost to ensure the confidentiality of its clients personal information including the implementation of data protection procedures designed to safeguard client confidentiality. beeoptions ensures that its data protection policy is regularly updated in order to guarantee that beeoptions’ clients’ confidential information is continually safeguarded.</p>
+<p dir="LTR">7. From time to time, beeoptions may contact clients by phone or email for the purpose of offering them further information about beeoptions binary options trading or financial market trading. In addition, the company may, on occasion, seek to contact clientsby phone or by email for the purpose of informing them about unique promotional offerings provided by beeoptions. Clients consent to the receipt of such contact when they agree to our terms and conditions for website use when they register with beeoptions. Any person who wishes to opt out of further contact with beeoptions is entitled to do so at any time by simply contacting the company by phone or email with the specific request to cease further contact from company employees.</p>
+<p dir="LTR">&nbsp;</p>
 </div>
 		</div>
                     </div>
@@ -321,21 +283,20 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     
 <div class="clear"></div>
 
-<script type="text/javascript" src="http://www.beeoptions.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.50.0-2014.02.05"></script>
+<script type="text/javascript" src="https://www.beeoptions.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.50.0-2014.02.05"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var _wpcf7 = {"loaderUrl":"http:\/\/www.beeoptions.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ..."};
+var _wpcf7 = {"loaderUrl":"https:\/\/www.beeoptions.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ..."};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://www.beeoptions.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=3.7.2"></script>
+<script type="text/javascript" src="https://www.beeoptions.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=3.8.1"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var SiteSettings = {"Streamer":"spotplug","timeZoneOffset":"0","ajaxCallBack":"spotplatform.beeoptions.com","platformParams":"","openAccountUrl":"\/openaccount","openAccountThankYouUrl":"\/thankyou","depositThankYouUrl":"\/myaccount\/deposit\/depositthankyou","withdrawalThankYouUrl":"\/myaccount\/withdrawal\/withdrawalthankyou","mainSite":"http:\/\/www.beeoptions.com","terms":{"apiLoginOnError":"Communication error","apiLoginOnFail":"Unable to login!: ","openAccountFirstName":"Please enter your firstname","openAccountLastName":"Please enter your lastname","openAccountEmail":"Please enter a valid email address","openAccountPasswordRequired":"Please provide a password","openAccountPasswordMinlength":"Your password must be at least 5 characters long","openAccountRepeatPasswordRequired":"Please provide a password","openAccountRepeatPasswordMinlength":"Your password must be at least 5 characters long","openAccountRepeatPasswordEqualTo":"Passwords must match","openAccountAcceptTerms":"Please accept our Terms","openAccountPhoneArea":"Please enter area code","openAccountPhone":"Please enter phone number","openAccountCaptcha":"Please enter security code","depositAmount":"Enter Deposit Amount Of At Least 250 USD","depositFirstName":"Enter First Name","depositLastName":"Enter Last Name","depositCity":"Enter City","depositAddress":"Enter Address","depositCVV2Required":"Enter a valid CVV CODE","depositCVV2Minlength":"CVV should be at list 3 numbers","depositPostCodeRequired":"Enter a valid POST CODE","depositCardNumMinlength":"Enter credit card number","depositCardNumRequired":"Credit card number should be at list 8 numbers","depositConfirm":"Are you sure you want to delete ?","depositSubmitHandlerError":"an error has occoured, please contact our support","leadBoxFirstName":"Please Input First Name","leadBoxLastName":"Please Input Last Name","leadBoxEmail":"Please Input Valid Email","leadBoxPrefix":"Please Input Valid Prefix","leadBoxArea":"Please Input Valid Area Code","leadBoxPhone":"Please Input Valid Phone","personalinfoPhoneRequired":"You must enter your Phone Number","personalinfoPhoneMinlength":"Your password must be at least 6 characters long","personalinfoEmailRequired":"You must enter email address","personalinfoEmail":"Email address is invalid","personalinfoSubmitHandler":"Your information changed successfully","personalinfoOldPassword":"You must enter your password","personalinfoPasswordRequired":"You must enter a password","personalinfoPasswordMinlength":"Your password must be at least 6 characters long","personalinfoRepeatPasswordRequired":"You must enter a password","personalinfoRepeatPasswordMinlength":"Your password must be at least 6 characters long","personalinfoRepeatPasswordEqualTo":"Passwords does not match"}};
+var SiteSettings = {"Streamer":"spotplug","timeZoneOffset":"0","ajaxCallBack":"spotplatform.beeoptions.com","platformParams":"","openAccountUrl":"\/openaccount","openAccountThankYouUrl":"\/thankyou","depositThankYouUrl":"\/myaccount\/deposit\/depositthankyou","withdrawalThankYouUrl":"\/myaccount\/withdrawal\/withdrawalthankyou","mainSite":"https:\/\/www.beeoptions.com","terms":{"apiLoginOnError":"Communication error","apiLoginOnFail":"Unable to login!: ","openAccountFirstName":"Please enter your firstname","openAccountLastName":"Please enter your lastname","openAccountEmail":"Please enter a valid email address","openAccountPasswordRequired":"Please provide a password","openAccountPasswordMinlength":"Your password must be at least 5 characters long","openAccountRepeatPasswordRequired":"Please provide a password","openAccountRepeatPasswordMinlength":"Your password must be at least 5 characters long","openAccountRepeatPasswordEqualTo":"Passwords must match","openAccountAcceptTerms":"Please accept our Terms","openAccountPhoneArea":"Please enter area code","openAccountPhone":"Please enter phone number","openAccountCaptcha":"Please enter security code","depositAmount":"Enter Deposit Amount Of At Least 250 USD","depositFirstName":"Enter First Name","depositLastName":"Enter Last Name","depositCity":"Enter City","depositAddress":"Enter Address","depositCVV2Required":"Enter a valid CVV CODE","depositCVV2Minlength":"CVV should be at list 3 numbers","depositPostCodeRequired":"Enter a valid POST CODE","depositCardNumMinlength":"Enter credit card number","depositCardNumRequired":"Credit card number should be at list 8 numbers","depositConfirm":"Are you sure you want to delete ?","depositSubmitHandlerError":"an error has occoured, please contact our support","leadBoxFirstName":"Please Input First Name","leadBoxLastName":"Please Input Last Name","leadBoxEmail":"Please Input Valid Email","leadBoxPrefix":"Please Input Valid Prefix","leadBoxArea":"Please Input Valid Area Code","leadBoxPhone":"Please Input Valid Phone","personalinfoPhoneRequired":"You must enter your Phone Number","personalinfoPhoneMinlength":"Your password must be at least 6 characters long","personalinfoEmailRequired":"You must enter email address","personalinfoEmail":"Email address is invalid","personalinfoSubmitHandler":"Your information changed successfully","personalinfoOldPassword":"You must enter your password","personalinfoPasswordRequired":"You must enter a password","personalinfoPasswordMinlength":"Your password must be at least 6 characters long","personalinfoRepeatPasswordRequired":"You must enter a password","personalinfoRepeatPasswordMinlength":"Your password must be at least 6 characters long","personalinfoRepeatPasswordEqualTo":"Passwords does not match"}};
 /* ]]> */
 </script>
-<script type="text/javascript" src="http://www.beeoptions.com/wp-content/plugins/spotoption-platform/js/api.js?ver=3.8.1"></script>
-<script type="text/javascript" src="http://www.beeoptions.com/wp-content/themes/spotbase/js/general.js?ver=3.8.1"></script>
-<script type="text/javascript" src="http://www.beeoptions.com/wp-content/plugins/spotoption-platform/js/leadbox.js?ver=3.8.1"></script>
+<script type="text/javascript" src="https://www.beeoptions.com/wp-content/plugins/spotoption-platform/js/api.js?ver=3.9.1"></script>
+<script type="text/javascript" src="https://www.beeoptions.com/wp-content/themes/spotbase/js/general.js?ver=3.9.1"></script>
 <!-- BEGIN LivePerson Monitor. -->
 <script type="text/javascript">
 window.lpTag=window.lpTag||{};if(typeof window.lpTag._tagCount==='undefined'){window.lpTag={site:'29042742',section:lpTag.section||'',autoStart:lpTag.autoStart===false?false:true,ovr:lpTag.ovr||{},_v:'1.5.1',_tagCount:1,protocol:location.protocol,events:{bind:function(app,ev,fn){lpTag.defer(function(){lpTag.events.bind(app,ev,fn)},0)},trigger:function(app,ev,json){lpTag.defer(function(){lpTag.events.trigger(app,ev,json)},1)}},defer:function(fn,fnType){if(fnType==0){this._defB=this._defB||[];this._defB.push(fn)}else if(fnType==1){this._defT=this._defT||[];this._defT.push(fn)}else{this._defL=this._defL||[];this._defL.push(fn)}},load:function(src,chr,id){var t=this;setTimeout(function(){t._load(src,chr,id)},0)},_load:function(src,chr,id){var url=src;if(!src){url=this.protocol+'//'+((this.ovr&&this.ovr.domain)?this.ovr.domain:'lptag.liveperson.net')+'/tag/tag.js?site='+this.site}var s=document.createElement('script');s.setAttribute('charset',chr?chr:'UTF-8');if(id){s.setAttribute('id',id)}s.setAttribute('src',url);document.getElementsByTagName('head').item(0).appendChild(s)},init:function(){this._timing=this._timing||{};this._timing.start=(new Date()).getTime();var that=this;if(window.attachEvent){window.attachEvent('onload',function(){that._domReady('domReady')})}else{window.addEventListener('DOMContentLoaded',function(){that._domReady('contReady')},false);window.addEventListener('load',function(){that._domReady('domReady')},false)}if(typeof(window._lptStop)=='undefined'){this.load()}},start:function(){this.autoStart=true},_domReady:function(n){if(!this.isDom){this.isDom=true;this.events.trigger('LPT','DOM_READY',{t:n})}this._timing[n]=(new Date()).getTime()},vars:lpTag.vars||[],dbs:lpTag.dbs||[],ctn:lpTag.ctn||[],sdes:lpTag.sdes||[],ev:lpTag.ev||[]};lpTag.init()}else{window.lpTag._tagCount+=1}
@@ -349,38 +310,41 @@ window.lpTag=window.lpTag||{};if(typeof window.lpTag._tagCount==='undefined'){wi
      <div id="home-footerMenu-global" class=" footerMenu-global">
             <div class="listContainer">
                 <h4>beeoptions</h4>
-                <div class="menu-footer1-container"><ul id="menu-footer1" class="footer-links-menu"><li id="menu-item-5381" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5381"><a href="http://www.beeoptions.com/aboutus/">About Us</a></li>
-<li id="menu-item-5382" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5382"><a href="http://www.beeoptions.com/faq/">FAQ</a></li>
-<li id="menu-item-5383" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5383"><a href="http://www.beeoptions.com/binaryoptions/">Binary Options</a></li>
-<li id="menu-item-5384" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5384"><a href="http://www.beeoptions.com/banking/">Banking</a></li>
-<li id="menu-item-5385" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5385"><a href="http://www.beeoptions.com/corporatepledge/">Corporate Pledge</a></li>
+                <div class="menu-footer_1-container"><ul id="menu-footer_1" class="footer-links-menu"><li id="menu-item-168" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-168"><a href="https://www.beeoptions.com/aboutus/">About Us</a></li>
+<li id="menu-item-3698" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3698"><a href="https://www.beeoptions.com/faq/">FAQ</a></li>
+<li id="menu-item-3709" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3709"><a href="https://www.beeoptions.com/premiumaccounts/">Account Types</a></li>
+<li id="menu-item-3699" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3699"><a href="https://www.beeoptions.com/banking/">Banking</a></li>
+<li id="menu-item-3708" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3708"><a href="https://www.beeoptions.com/corporatepledge/">Corporate Pledge</a></li>
 </ul></div>            </div>
             <div class="listContainer">
                 <h4>Education</h4>
-                <div class="menu-footer2-container"><ul id="menu-footer2" class="footer-links-menu"><li id="menu-item-5386" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5386"><a href="http://www.beeoptions.com/binaryoptions/">Binary Options</a></li>
-<li id="menu-item-5387" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5387"><a href="http://www.beeoptions.com/dictionary/">Glossary</a></li>
-<li id="menu-item-5388" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5388"><a href="http://www.beeoptions.com/assetindex/">Asset Index</a></li>
-<li id="menu-item-5389" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5389"><a href="http://www.beeoptions.com/trainingmanuals/">Training Manuals</a></li>
+                <div class="menu-footer_2-container"><ul id="menu-footer_2" class="footer-links-menu"><li id="menu-item-3718" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3718"><a href="https://www.beeoptions.com/binaryoptions/">Binary Options</a></li>
+<li id="menu-item-452" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-452"><a href="https://www.beeoptions.com/dictionary/">Glossary</a></li>
+<li id="menu-item-3720" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3720"><a title="external" href="http://cdn-lp.beeoptions.com/beeoptions-ebook.pdf">Ebook</a></li>
+<li id="menu-item-3960" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3960"><a title="external" href="http://lp.beeoptions.com/TUT-201_250$.pdf">Training Manuals</a></li>
+<li id="menu-item-7261" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7261"><a href="http://www.beeoptions.com/education/">Education</a></li>
 </ul></div>            </div>
          <div class="listContainer">
                 <h4>Market Tools</h4>
-                <div class="menu-footer3-container"><ul id="menu-footer3" class="footer-links-menu"><li id="menu-item-5390" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5390"><a href="http://www.beeoptions.com/howtotrade/binary-options/">Binary Options</a></li>
-<li id="menu-item-5391" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5391"><a href="http://www.beeoptions.com/tradingtools/">Trading Tools</a></li>
-<li id="menu-item-5392" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5392"><a href="http://www.beeoptions.com/expirerates/">Expiry Rates</a></li>
+                <div class="menu-footer_3-container"><ul id="menu-footer_3" class="footer-links-menu"><li id="menu-item-3725" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-3725"><a title="external" href="http://binaryoptionstimes.com/">Binary Options Times</a></li>
+<li id="menu-item-3726" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3726"><a href="http://www.beeoptions.com/tradingtools/">Trading Tools</a></li>
+<li id="menu-item-267" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-267"><a href="http://www.beeoptions.com/expirerates/">Expiry Rates</a></li>
+<li id="menu-item-7379" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-7379"><a href="http://binaryoptionstimes.com/category/market-review-2/daily-market-review/">Market review</a></li>
 </ul></div>            </div>
          <div class="listContainer">
                 <h4>Partners</h4>
-                <div class="menu-footer4-container"><ul id="menu-footer4" class="footer-links-menu"><li id="menu-item-5393" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5393"><a href="http://www.beeoptions.com/referfriend/">Refer a Friend</a></li>
-<li id="menu-item-5394" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-5394"><a href="http://go.beeoptions.com/login/">Affiliates</a></li>
-<li id="menu-item-5395" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5395"><a href="http://www.beeoptions.com/promotions/">Promotions</a></li>
+                <div class="menu-footer_4-container"><ul id="menu-footer_4" class="footer-links-menu"><li id="menu-item-3741" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3741"><a href="http://www.beeoptions.com/referfriend/">Refer a Friend</a></li>
+<li id="menu-item-7225" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7225"><a href="http://www.beeoptions.com/affiliates/">Affiliates</a></li>
+<li id="menu-item-3740" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3740"><a href="http://www.beeoptions.com/promotions/">Promotions</a></li>
+<li id="menu-item-7192" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7192"><a href="http://www.beeoptions.com/press/">Press</a></li>
 </ul></div>            </div>
          <div class="listContainer">
                  <h4>Legal</h4>
-                <div class="menu-footer5-container"><ul id="menu-footer5" class="footer-links-menu"><li id="menu-item-5396" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5396"><a href="http://www.beeoptions.com/disclaimer/">Disclaimer</a></li>
-<li id="menu-item-5397" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5397"><a href="http://www.beeoptions.com/expiryratesrules/">Expiry Rate Rules</a></li>
-<li id="menu-item-5398" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5398"><a href="http://www.beeoptions.com/termsofuse/">Terms &amp; Conditions</a></li>
-<li id="menu-item-5399" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-5399"><a href="http://www.beeoptions.com/bonustermsconditions/">Bonus Terms &amp; Conditions</a></li>
-<li id="menu-item-5400" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-211 current_page_item menu-item-5400"><a href="http://www.beeoptions.com/privacy/">Privacy Policy</a></li>
+                <div class="menu-footer_5-container"><ul id="menu-footer_5" class="footer-links-menu"><li id="menu-item-265" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-265"><a href="http://www.beeoptions.com/disclaimer/">Disclaimer</a></li>
+<li id="menu-item-260" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-260"><a href="http://www.beeoptions.com/expiryratesrules/">Expiry Rate Rules</a></li>
+<li id="menu-item-259" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-259"><a href="http://www.beeoptions.com/termsofuse/">Terms &amp; Conditions</a></li>
+<li id="menu-item-3747" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3747"><a href="http://www.beeoptions.com/bonustermsconditions/">Bonus Terms &amp; Conditions</a></li>
+<li id="menu-item-258" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-211 current_page_item menu-item-258"><a href="https://www.beeoptions.com/privacy/">Privacy Policy</a></li>
 </ul></div>            </div>
             <div class="cb"></div>
      </div>
@@ -394,12 +358,12 @@ window.lpTag=window.lpTag||{};if(typeof window.lpTag._tagCount==='undefined'){wi
 	<div id="spotLogo"></div>
         </a>
     </div>
-	<div id="UKVM"></div>
-    <div class="GEdit disclaimerText">*Disclaimer: Binary Options and forex trading involve risk. Business Model and earnings: Results are contingent on choosing the correct direction of an asset's price, from the given strike price, by the selected expiry period. Once a trade is initiated, traders receive a confirmation screen showing the asset, strike price, the chosen direction (CALL or PUT), and the investment amount. When prompted by this screen, trades will initiate in 3 seconds unless the Trader presses the cancel button. beeoptions offers the fastest option expires available to the public and transactions can be as fast as 15 minutes in regular binary options, and as fast as 60 seconds in the 60 second platform. Although the risk when trading binary options is fixed for each individual trade, the trades are live and it is possible to lose an initial investment, particularly if a trader chooses to place his/her entire investment to a single live trade. It is highly recommended that traders choose a proper money management strategy which limits the total consecutive trades or total outstanding investment.<br><br>     </div>
+    <div id="UKVM"></div>
+     <div class="GEdit disclaimerText">*Disclaimer: Binary Options and forex trading involve risk. Business Model and earnings: Results are contingent on choosing the correct direction of an asset's price, from the given strike price, by the selected expiry period. Once a trade is initiated, traders receive a confirmation screen showing the asset, strike price, the chosen direction (CALL or PUT), and the investment amount. When prompted by this screen, trades will initiate in 3 seconds unless the Trader presses the cancel button. beeoptions offers the fastest option expires available to the public and transactions can be as fast as 15 minutes in regular binary options, and as fast as 60 seconds in the 60 second platform. Although the risk when trading binary options is fixed for each individual trade, the trades are live and it is possible to lose an initial investment, particularly if a trader chooses to place his/her entire investment to a single live trade. It is highly recommended that traders choose a proper money management strategy which limits the total consecutive trades or total outstanding investment.<br><br>     </div>
 </div>
 </div>
 
 
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-1.newrelic.com","licenseKey":"fceb24c603","applicationID":"4055170","transactionName":"ZV1XMRBSXUcDWkdZCVwXdAYWWlxaTUlSVwM=","queueTime":0,"applicationTime":472,"ttGuid":"","agentToken":"","atts":"SRpUR1hITkk=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
 
-
-</body></html>
+<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
