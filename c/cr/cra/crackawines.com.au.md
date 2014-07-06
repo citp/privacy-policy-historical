@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crackawines.com.au privacy policy that was archived on 2014-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140603185420id_/http%3A//www.crackawines.com.au/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crackawines.com.au privacy policy that was archived on 2014-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140706200641id_/https%3A//www.crackawines.com.au/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - CrackaWines.com.au
 
@@ -94,6 +94,8 @@ If you choose not to provide personal information when requested, Cracka Wines m
 When you visit a website or use an application on the Cracka Wines Website, Cracka Wines records anonymous information such as IP address, time, date, referring url, pages accessed and documents downloaded, type of browser and operating system. Cracka Wines also uses “cookies”. A cookie is a small file that stays on your computer until, depending on whether it is a sessional or persistent cookie, you turn your computer off or it expires (typically between 30 and 90 days). Cookies may be used by Cracka Wines to provide you with the full range of services it offers, remember your preferences, remember the sites you visit on the Cracka Wines Website, measure and analyse usage of the Cracka Wines Website and for security. Persistent cookies may be used to identify the sites you visit on the Cracka Wines Website and to personalise the advertising that you see when you make future visits to that site or other sites within the Cracka Wines Website. You may adjust your Internet browser to disable cookies. If cookies are disabled Cracka Wines may not be able to provide you with the full range of Cracka Wines services. 
 
 Cookies may collect and store your personal information. This policy applies to personal information collected via cookies. The Cracka Wines Website may include links to third party web sites, co branded web sites and applications and advertising served to the Cracka Wines Website by third parties (Linked Sites). Companies who operate Linked Sites may collect personal information through the use of cookies and otherwise. Cracka Wines does not control and is not responsible for Linked Sites and recommends you read the privacy policy and terms and conditions of Linked Sites before disclosing your personal information. 
+
+This website uses Google Analytics, a web analytics service provided by Google, Inc. ("Google"). [Learn how Google uses data](http://www.google.com/policies/privacy/partners/ "Learn how Google uses data"). 
 
 ##  What if I have a problem? 
 
