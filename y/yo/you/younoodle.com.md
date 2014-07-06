@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the younoodle.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331153852id_/https%3A//www.younoodle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the younoodle.com privacy policy that was archived on 2014-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140706040929id_/https%3A//www.younoodle.com/privacy) for the most accurate reproduction.*
 
 # YouNoodle | Privacy Policy
 
-YOUNOODLE PRIVACY POLICY
+**YOUNOODLE PRIVACY POLICY**
 
 Effective as of Sep 3rd, 2012
 
@@ -12,7 +12,7 @@ This Privacy Policy is incorporated as part of the YouNoodle [Terms of Service](
 
 We take your privacy seriously. If you have any questions about this policy or about privacy at YouNoodle, please contact us at feedback@younoodle.com.
 
-DATA COLLECTED DURING ACCOUNT CREATION
+**DATA COLLECTED DURING ACCOUNT CREATION**
 
 Users with Social Accounts: In order to become a member of YouNoodle Social and send messages to other users, you must create an account. When you create an account we require a username and password. We store this information on our servers along with any additional information you provide about yourself during the sign up process. If you have a Podium account, you can use the same name and password, or choose an different one. If you use the same name and password, your Podium data and Social data will be associated in our database.
 
@@ -26,7 +26,7 @@ Limited Access Podium Accounts: Some competitions may support features that perm
 
 YouNoodle Cookie Policy: We use cookies, small strings of numbers and letters that are placed on your browser. We use a persistent cookie that contains login information which automatically logs you in when you return to our website. This means that if you are logged into the Social site and visit Podium it will automatically log you in (and vice versa). We also use the Google analytics cookies to help us understand how users use our Site and to improve YouNoodle. If you login from Facebook Connect you also receive their cookie.
 
-ALL DATA PUBLISHED USING YOUNOODLE SOCIAL ACCOUNTS IS PUBLIC
+**ALL DATA PUBLISHED USING YOUNOODLE SOCIAL ACCOUNTS IS PUBLIC**
 
 All Data is Publicly Available on YouNoodle.com: YouNoodle publishes all the data you share when creating a YouNoodle account except your password and your email address. This means that third parties who are not associated with YouNoodle and are not YouNoodle members can view your information on the YouNoodle website and on other websites– for example, in Google or Bing search results, in an iFrame on a Group website not associated with YouNoodle, as associated with a Facebook Like button, and in other places.
 
@@ -34,7 +34,7 @@ All Data is Publicly Available on YouNoodle.com: YouNoodle publishes all the dat
 
 Your Email Address is Only Available to Other Users When You Respond to Their Messages: When you send another user a message using the Social platform you will not see the recipient’s email address until they opt-in to sharing their email address by responding to the message. By responding to a Social message, You agree that YouNoodle will share your email address with the original sender of the message.
 
-DATA COLLECTION AND USE WITH YOUNOODLE PODIUM ACCOUNTS:
+**DATA COLLECTION AND USE WITH YOUNOODLE PODIUM ACCOUNTS:**
 
 ALL Data is Shared With Competition Administrators: Users should assume that all data submitted through the competition is available to the competition administrators and judges unless the terms of the competition state otherwise. Judges can download information off the service so they can judge while they are offline. Judges may be limited in their access to personal information about the competitors, but in some cases they will not.
 
@@ -42,7 +42,7 @@ YouNoodle Has No Liability for Breaches of Your Information by Competition Offic
 
 \- Podium accounts and any data associated with the account CANNOT BE DELETED. This makes sense since we share and permit downloading of all competition data by the competition administrator.
 
-SAFE HARBOR
+**SAFE HARBOR**
 
 YouNoodle complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. YouNoodle has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view YouNoodle’s certification, please visit http://www.export.gov/safeharbor/
 
@@ -50,7 +50,7 @@ In compliance with the US-EU and US-Swiss Safe Harbor Principles, YouNoodle comm
 
 YouNoodle has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by YouNoodle, please visit the BBB EU SAFE HARBOR web site at http://www.bbb.org/us/safe-harbor-complaints for more information and to file a complaint.
 
-GENERAL INFORMATION
+**GENERAL INFORMATION**
 
 We will never share or sell your email or any other private information you share for any purpose except as described in this policy: period!
 
@@ -75,4 +75,4 @@ Upon change in control. YouNoodle may sell, divest, transfer, assign, share or o
 
 Policy Changes: We post updates on our website whenever this policy changes. This Privacy Policy may be revised. If we make material changes to this policy, then we will notify you here in this website, by email, or by means of a notice on the YouNoodle Services home page.
 
-\- In general, we use your personal information in the manner described in the Privacy Policy in effect at the time we received that personal information. However your continued use of the YouNoodle Services after any update is posted constitutes your agreement to any revisions.
+\- In general, we use your personal information in the manner described in the Privacy Policy in effect at the time we received that personal information. However your continued use of the YouNoodle Services after any update is posted constitutes your agreement to any revisions. 
