@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ldproducts.com privacy policy that was archived on 2014-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626061945id_/http%3A//www.ldproducts.com/policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ldproducts.com privacy policy that was archived on 2014-07-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140706044750id_/http%3A//www.ldproducts.com/policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <title>Privacy Policy  - LD Products</title>
@@ -54,6 +54,7 @@ PageInfo.page = "PrivacyPolicy";
 <script type="text/javascript" src="http://www.ldproducts.com/js/gigya/gigya.js"></script>
 <script type="text/javascript" src="http://www.ldproducts.com/js/prototype/window.js"></script>
 <script type="text/javascript" src="http://www.ldproducts.com/js/ldp/LAB.min.js"></script>
+<script type="text/javascript" src="http://www.ldproducts.com/js/ldp/mbox.js"></script>
 <script type="text/javascript" src="http://www.ldproducts.com/skin/frontend/ldp/default/js/scripts.js"></script>
 <script type="text/javascript" src="http://www.ldproducts.com/skin/frontend/ldp/default/js/tabs.js"></script>
 <script type="text/javascript" src="http://www.ldproducts.com/skin/frontend/ldp/ldproducts/js/ldp-scripts.js"></script>
@@ -94,7 +95,29 @@ $LAB.setGlobalDefaults({AlwaysPreserveOrder: true});
             </div>
         </div>
     </noscript>
-    <div class="header_bnr group">
+    <div class="mboxDefault">
+</div>
+<script type="text/javascript">
+if (typeof OrderInfo !== 'undefined') {
+    var _itemskus = ""; 
+    OrderInfo.orderItems.forEach(function(a){_itemskus= _itemskus + a.sku + ",";});
+    // var _mboxstring ="'orderConfirmPage', 'orderId=" + OrderInfo.orderId + "' , 'orderTotal=" + OrderInfo.orderTotal + "', 'productPurchasedId=" + _itemskus.substring(0,_itemskus.length - 1) +"', 'ldDomain=ldproducts'";
+
+    var mboxglob="orderConfirmPage";
+    var mboxOID= "orderId="+OrderInfo.orderId;
+    var mboxOtotal = "orderTotal="+OrderInfo.orderTotal;
+    var mboxPPId = "productPurchasedId=" + _itemskus.substring(0,_itemskus.length - 1);        
+    var mboxldDomain = "ldDomain=ldproducts";
+    mboxCreate(mboxglob,mboxOID,mboxOtotal,mboxPPId,mboxldDomain);
+}else {
+    //var _mboxstring = "'global', 'pageType=" + PageInfo.page + "', 'ldDomain=ldproducts'";
+    var mboxglob="global";
+    var mboxpagetype = "pageType=" + PageInfo.page;
+    var mboxldDomain = "ldDomain=ldproducts";
+    mboxCreate(mboxglob,mboxpagetype,mboxldDomain);
+}
+</script>
+<div class="header_bnr group">
 	<a class="home" href="http://www.ldproducts.com/"><div class="logo replacer">LD Products - Huge Selection of Ink &amp; Toner and Office Supplies</div></a>
 </div>
 <div class="main_nav">
@@ -263,15 +286,15 @@ jQuery(document).ready(function()
 })
 </script>
 <div class="breadcrumbs" id="breadcrumb_bar">
-    <div style="overflow:hidden; position:relative;  width: 1350px;"><div><ul style="width: 5000px;">
-                    <li class="home first">
+    <ul>
+                    <li class="home">
                         	                <a href="http://www.ldproducts.com/" title="Go to Home Page"><img src="/js/jbreadcrumb/Images/IconHome.gif" style="margin-top: 3px;"></a>
                         </li>
-                    <li class="cms_page last">
+                    <li class="cms_page">
                             Privacy Policy                        </li>
-            </ul></div></div>
+            </ul>
 </div>
-		<!--{GLOBAL_MESSAGES_aae3749ba9c2e308ffa9c240ac185959}--><!--/{GLOBAL_MESSAGES_aae3749ba9c2e308ffa9c240ac185959}-->			<h2 class="page_title">Privacy Policy  - LD Products</h2>
+					<h2 class="page_title">Privacy Policy  - LD Products</h2>
 	</div><!-- inline block
 	--><div class="sidebar">
 	<div class="sidebar_options">	
@@ -312,8 +335,7 @@ jQuery(document).ready(function()
 </div>
 	</div>
 </div>	<div class="cms_content">
-		<div class="std"><!--{MESSAGES_3f9737c153d854d9f0c5395ce4cdb394}--><!--/{MESSAGES_3f9737c153d854d9f0c5395ce4cdb394}--><p><a href="http://clicktoverify.truste.com/pvr.php?page=validate&amp;url=www.ldproducts.com&amp;sealid=101"><img style="border: 0; padding: 10px;" src="http://www.ldproducts.com/media/wysiwyg/ldproducts/images/old/seal_wps_en_45.png" alt=""></a></p>
-<h2>Our Commitment To Privacy</h2>
+		<div class="std"><h2>Our Commitment To Privacy</h2>
 <p>
     Your privacy is important to us.  This Privacy Policy (“Policy”) explains how LD Products
     (referred to hereafter as “we,” “us,” “our,” “LD Products” or “LD”) handle your
@@ -321,17 +343,6 @@ jQuery(document).ready(function()
     and services (referred to hereafter collectively as “Website”).  When you use the Website,
     you expressly consent to our collection, storage, use and disclosure of your personal
     information as described in this Policy.
-</p>
-<p>
-    LD Products has received TRUSTe's Privacy Seal signifying that this privacy statement and
-    our practices have been reviewed for compliance with the TRUSTe program viewable on the
-    validation page available by clicking the TRUSTe seal. The TRUSTe program covers only
-    information that is collected through this Web site, http://www.LD Products.
-</p>
-<p>
-    If you have an unresolved privacy or data use concern that we have not addressed
-    satisfactorily, please contact TRUSTe at <a href="https://feedback-form.truste.com/watchdog/request" target="_blank">
-    https://feedback-form.truste.com/watchdog/request</a>
 </p>
 <ol>
 <li>
@@ -459,11 +470,7 @@ jQuery(document).ready(function()
     To the extent any of this information is collected by third parties, you acknowledge and agree that
     such collection and use is governed by those third parties’ privacy policies and that LD Products is
     not responsible for the privacy practices of such third parties.  The Website is not designed to
-    respond to “do not track” signals or mechanisms from your web browser.  If you do not wish to have
-    the your non-personal information used for the purpose of serving you targeted ads, you may opt-out
-    by clicking <a href="http://preferences-mgr.truste.com/" target="_blank">here</a>a&gt;.  Please note
-    that to the extent that ad technology may be integrated in the Website, you may still receive ads
-    even if you opt out of tailored ads.  In that case, ads will just not be tailored to your interests.</p>
+    respond to “do not track” signals or mechanisms from your web browser. </p>
     <p>
         If you are interested in more information about tailored ads and your choices to prevent third
         parties from delivering tailored ads, you may visit the following third party websites: the
@@ -645,7 +652,7 @@ jQuery(document).ready(function()
 	<ul class="footer_badges">
 		<li><a title="Click for the Business Review of LD Products, an Office Supplies in Long Beach CA" href="http://www.bbb.org/los-angeles/business-reviews/office-supplies/ld-products-in-long-beach-ca-13140270#sealclick" target="_blank"><img src="http://www.ldproducts.com/skin/frontend/ldp/ldproducts/images/bbb.jpg" alt="BBB A+"></a></li>
 		<li><a target="_blank" href="http://www.scanalert.com/RatingVerify?ref=www.ldproducts.com"><img src="http://www.ldproducts.com/skin/frontend/ldp/ldproducts/images/mcafee.jpg" alt="McAfee Secure"></a></li>
-		<li><a target="_blank" href="http://clicktoverify.truste.com/pvr.php?page=validate&amp;url=www.ldproducts.com&amp;sealid=101"><img src="http://www.ldproducts.com/skin/frontend/ldp/ldproducts/images/truste.jpg" alt="TRUSTe Certified"></a></li>
+		<li><a href="http://www.ldproducts.com/policy/"><img src="http://www.ldproducts.com/skin/frontend/ldp/ldproducts/images/secure_privacy_footer.jpg" alt="Secure Privacy"></a></li>
 		<li>
             <a class="tf_upfront_badge" href="http://www.thefind.com/store/about-ldproducts" title="TheFind Upfront" style="text-decoration:none;"><img src="http://www.ldproducts.com/skin/frontend/ldp/ldproducts/images/upfront.jpg" alt="LD is UpFront"></a>
             <br>
@@ -685,7 +692,7 @@ jQuery(document).ready(function()
 		var element = Event.element(event);
         element.update("Loading..." );
 
-		new Ajax.Request('http://www.ldproducts.com/servicecode/?url=http%3A%2F%2Fwww.ldproducts.com%2Fpolicy%2F', {
+		new Ajax.Request('http://www.ldproducts.com/servicecode/?url=http%3A%2F%2Fwww.ldproducts.com%2Fpolicy', {
 			method:'get',
 			onSuccess: function(transport){
 				var response = transport.responseText || "error";
@@ -978,14 +985,31 @@ jQuery(document).ready(function()
     });
 
 </script>
-</div>
+
+<!--[if IE 7]>
+<script type='text/javascript'>
+    if (!Mage.Cookies.get('ie7popup')){
+        vex.defaultOptions.className = 'vex-theme-plain'; 
+        vex.dialog.defaultOptions.showCloseButton = true;
+        var todaysDate = new Date();
+        var expireDate = new Date(todaysDate.getTime()+ 24 * 60 * 60 * 1000);
+        Mage.Cookies.set('ie7popup',true ,expireDate);
+        vex.dialog.open({
+            contentClassName: 'newsletter-signup-thanks',
+            message: '<h1>Incompatible Browser</h1><p>We apologize for the inconvenience, but LDProducts.com recognizes Internet Explorer 8 or higher. You received this message because you may be using a different browser. To download the latest version of Internet Explorer, please click <a href="http://windows.microsoft.com/en-us/internet-explorer/download-ie">here</a> to upgrade your browser.</p>',
+            buttons: [jQuery.extend({}, vex.dialog.buttons.YES, {text: 'Okay'})],
+            input: []
+        })
+    }
+</script>
+<![endif]--></div>
 <!-- SiteCatalyst code version: H.1.
 Copyright 1997-2005 Omniture, Inc. More info available at
 http://www.omniture.com -->
 <script type="text/javascript" id="omniprops"><!--/* You may give each page an identifying name, server, and channel on the next lines. */
 s.omniturerptsuid="4inkjets-ldproducts";
-s.prop32="207.241.237.103";
-s.eVar32="207.241.237.103";
+s.prop32="83.149.126.98";
+s.eVar32="83.149.126.98";
 s.server="www.ldproducts.com";
 s.prop2="Privacy Policy";
 s.prop3="";
@@ -999,6 +1023,11 @@ s.pageName="Privacy Policy";
 s.eVar27="no";
 s.channel="Miscellaneous";
 s.events="";
+var RecentlyViewedItem = jQuery.cookie('RecentlyViewedItem');
+jQuery.removeCookie('RecentlyViewedItem');
+if (RecentlyViewedItem) {
+    s.eVar20="RecentlyViewedItem";
+}
 /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
 var s_code=s.t();if(s_code)document.write(s_code)//--></script>
 <!-- End SiteCatalyst code version: H.1. --><!--Pixel here -->
