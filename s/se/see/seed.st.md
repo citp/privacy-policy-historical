@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seed.st privacy policy that was archived on 2014-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140607014310id_/https%3A//seed.st/wiki/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seed.st privacy policy that was archived on 2014-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140706101745id_/https%3A//seed.st/wiki/privacy) for the most accurate reproduction.*
 
 # Seed.ST - High Performance Seedbox and VPN Hosting - Up to 10gbit SSD
 
