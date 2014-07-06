@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coupaw.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331102720id_/https%3A//www.coupaw.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coupaw.com privacy policy that was archived on 2014-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140706130351id_/https%3A//www.coupaw.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy | Coupaw
 
@@ -83,3 +83,8 @@ We reserve the right to modify this privacy statement at any time, so please rev
 If you have concerns about this Privacy Policy or our privacy practices in general, contact us at:
 
 Privacy Administrator Legal Department DICE SOLUTIONS LLC 17 Barstow Road, Suite 305, Great Neck, NY 11021 Email: [Privacy@coupaw.com](mailto:Privacy@coupaw.com) Phone Number: 1-800-398-6081
+
+Daily Deals for Dogs & Cats \- Save on everything from chews, toys, treats, accessories & more at up to 85% off. Subscribe here (it's free!):
+
+  
+
