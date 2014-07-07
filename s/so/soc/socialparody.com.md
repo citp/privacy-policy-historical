@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialparody.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325231950id_/http%3A//www.socialparody.com/pg/expages/read/993548/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialparody.com privacy policy that was archived on 2014-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140707093652id_/http%3A//www.socialparody.com/pg/expages/read/993548/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Social Parody
 
