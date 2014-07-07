@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imagine.co.za privacy policy that was archived on 2014-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140530201923id_/http%3A//imagine.co.za/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imagine.co.za privacy policy that was archived on 2014-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140707023300id_/http%3A//www.imagine.co.za/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Legal
 
