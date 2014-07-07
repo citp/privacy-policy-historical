@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kdanmobile.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213033053id_/http%3A//www.kdanmobile.com/en/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kdanmobile.com privacy policy that was archived on 2014-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140707092232id_/http%3A//www.kdanmobile.com/en/policy.html) for the most accurate reproduction.*
 
 # Kdan Mobile | Digital Creation Tools and Services Across PC, Mac, and Mobile
 
