@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the beepstores.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214063731id_/http%3A//www.beepstores.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beepstores.com privacy policy that was archived on 2014-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140707130958id_/https%3A//www.beepstores.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-[](https://web.archive.org/en/)
 
 ## Privacy Policy
 
