@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techconsumer.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209191500id_/http%3A//www.techconsumer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techconsumer.com privacy policy that was archived on 2014-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140708010728id_/http%3A//www.techconsumer.com//privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TechConsumer
 
