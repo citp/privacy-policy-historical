@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportsmanswarehouse.co.za privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325071517id_/http%3A//www.sportsmanswarehouse.co.za/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsmanswarehouse.co.za privacy policy that was archived on 2014-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140707174949id_/http%3A//www.sportsmanswarehouse.co.za/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
