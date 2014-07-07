@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gotsafelist.com privacy policy that was archived on 2011-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110129030059id_/http%3A//www.gotsafelist.com/privacypolicy_V2.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotsafelist.com privacy policy that was archived on 2014-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140707024620id_/http%3A//www.gotsafelist.com/privacypolicy_V2.php) for the most accurate reproduction.*
 
-# Got Safelist? - Privacy Policy
+# Free Web Traffic, Online Advertising Agency
 
 | 
 
@@ -30,14 +30,17 @@ If you feel that this site is not following its stated information policy, you m
 ---  
    
   
-**[Rent This Text Space!](http://www.gotsafelist.com/GSLAds2.0.11/adclick.php?bannerid=43&zoneid=1&source=&dest=http%3A%2F%2Fgotsafelist.com%2Fmemberrentadspace_V2.php)  
+**[Promote Any Program You Want!](http://www.gotsafelist.com/GSLAds2.0.11/adclick.php?bannerid=473&zoneid=1&source=&dest=http%3A%2F%2Fviralurl.com%2Fgetleads)  
+NEW Training & Tools To Explode Your Current Business. E-mail 6,000 People Every 3 Days That Like From Work For Home! **
+
+**[Rent This Text Space!](http://www.gotsafelist.com/GSLAds2.0.11/adclick.php?bannerid=465&zoneid=1&source=&dest=http%3A%2F%2Fwww.gotsafelist.com%2Fmemberrentadspace_V2.php)  
 Rotate a 30 character title plus an 80 character body right here! This spot is available to all members!**
 
-| » Total Members : | **53,673**  
+| » Total Members : | **79,137**  
 ---|---  
-» Active Safelist Members : | **26,199**  
-» Active Desktop Members : | **7,583**  
-» Ads View by Members: | **15,680,429**  
+» Active Safelist Members : | **41,023**  
+» Active Desktop Members : | **7,386**  
+» Ads View by Members: | **14,845,170**  
   
 "This is by far the most effective safelist around. I started out as a free member and immediately started to receive a few sales to the program I was promoting the same week I sent out my ads on GOT Safelist. I was so impressed with the response rate I decided to upgrade my membership and I have not looked back since. It's so hard to find a good safelist these days I am sticking with this one!"  
 \- **Audrey Fogbrono - Texas**
@@ -61,6 +64,6 @@ Rotate a 30 character title plus an 80 character body right here! This spot is a
   
   
 ---  
-[](https://web.archive.org/web/20110129030059id_/http%3A//www.gotsafelist.com/memberfreeresources_V2.php)  
+[](https://web.archive.org/web/20140707024620id_/http%3A//www.gotsafelist.com/memberfreeresources_V2.php)  
 Added: January 29, 12:00 AM   
 
