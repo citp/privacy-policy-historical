@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hertz247.com privacy policy that was archived on 2013-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130924200823id_/https%3A//www.hertz.com/rentacar/navigation/templates/privacyPolicyView.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hertz247.com privacy policy that was archived on 2014-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140707143150id_/https%3A//www.hertz.com/rentacar/navigation/templates/privacyPolicyView.jsp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@
 
 **Privacy Policy**
 
- **YOUR PRIVACY:**  We respect your privacy and are committed to protecting the personal data we hold about you. This policy explains what data we collect about you, how we collect it, the measures we take to keep your data secure and the uses we make of it.  We also explain the options you have regarding your personal data. When you request services from us, access our websites, utilize our mobile “apps” or otherwise interact with us, for example, but without limitation, through our kiosks, our in-vehicle or in-equipment technology, our official corporate pages on third party social networks (such as Facebook) or the “apps” on those pages, you consent to our collection, retention and use of your personal data in the manner described in this policy and accept the risks outlined in the Security section. You can quickly review the key topics by reading the following overview or you may continue to scroll down to read more about an issue or to read the full policy.
+ **YOUR PRIVACY:**  We respect your privacy and are committed to protecting the personal data we hold about you. This policy explains what data we collect about you, how we collect it, the measures we take to keep your data secure and the uses and disclosures we make of it.  We also explain the options you have regarding your personal data. When you request services from us, access our websites, utilize our mobile “apps” or otherwise interact with us, for example, but without limitation, through our kiosks, our in-vehicle or in-equipment technology, our official corporate pages on third party social networks (such as Facebook) or the “apps” on those pages, you consent to our collection, retention and use of your personal data in the manner described in this policy and accept the risks outlined in the Security section. You can quickly review the key topics by reading the following overview or you may continue to scroll down to read more about an issue or to read the full policy.
 
  **Overview**
 
@@ -26,15 +26,15 @@
 
 [ **Legal Issues:**](https://www.hertz.com/rentacar/navigation/templates/privacyPolicyView.jsp#Legal_Issues)  We aim to comply with the privacy laws applicable to the personal data we collect and use.
 
-[ **Changes:**](https://www.hertz.com/rentacar/navigation/templates/privacyPolicyView.jsp#Changes)  We may change this policy from time to time. The policy was **last updated** on  **1 April**   **2013.** ****
+[ **Changes:**](https://www.hertz.com/rentacar/navigation/templates/privacyPolicyView.jsp#Changes)  We may change this policy from time to time. The policy was **last updated** on 29 **May  ** **2014.**
 
 | 
 
-[ **What We Collect:**](https://www.hertz.com/rentacar/navigation/templates/privacyPolicyView.jsp#What_we_collect)  We collect the personal data we need to provide the services you request from us, for our operational uses (see below) or for such other purposes as you authorize.
+[ **What We Collect:**](https://www.hertz.com/rentacar/navigation/templates/privacyPolicyView.jsp#What_we_collect)  We collect the personal data we need to provide the services you request from us, for our operational uses and disclosures (see below) or for such other purposes as you authorize.
 
 [ **Sources:**](https://www.hertz.com/rentacar/navigation/templates/privacyPolicyView.jsp#Sources)  We mostly collect your data directly from you, through various channels, and from companies involved in our provision of services to you, including our licensees.
 
-[ **Websites:**](https://www.hertz.com/rentacar/navigation/templates/privacyPolicyView.jsp#websites)  Certain technologies are used on our websites, our apps and other ecommerce media including cookies and Pixel Tags, to collect data about your visit to our site and sites upon which we advertise. You may choose to restrict the use of cookies as suggested in this policy.  
+[ **Websites:**](https://www.hertz.com/rentacar/navigation/templates/privacyPolicyView.jsp#websites)  Certain technologies are used on our websites, our apps and other ecommerce media including cookies and Pixel Tags, to collect data about your visit to our site and sites upon which we advertise. You may choose to restrict the use of cookies as suggested in this policy, but we do not respond to a web browser's "do not track" signals, or mechanisms similar to such signals.  
   
  
 
@@ -44,34 +44,34 @@
 
 [ **Security:**](https://www.hertz.com/rentacar/navigation/templates/privacyPolicyView.jsp#security)  We aim to maintain appropriate physical, procedural and electronic safeguards to protect your personal data.
 
-[ **Access:**](https://www.hertz.com/rentacar/navigation/templates/privacyPolicyView.jsp#access)  You may access and review the personal data we retain about you and correct any factual errors.
+[ **Access and Correction:**](https://www.hertz.com/rentacar/navigation/templates/privacyPolicyView.jsp#access)  You may access and review the personal data we retain about you and correct any factual errors.
 
 |  
 
-[**Use**](https://www.hertz.com/rentacar/navigation/templates/privacyPolicyView.jsp#USES "Use") ** **
+_**Uses and Disclosures** ** **_
 
 [ **Operational Uses:**](https://www.hertz.com/rentacar/navigation/templates/privacyPolicyView.jsp#operational_uses)  By providing your personal data to us, you consent to our use and disclosure of your data for the operational purposes listed in this policy.
 
-[ **Marketing Uses:**](https://www.hertz.com/rentacar/navigation/templates/privacyPolicyView.jsp#marketing_uses)    We would like to use your personal data for our marketing purposes. We may also want to share your data with our business partners for their marketing purposes. You can choose to restrict these uses by following the instructions in this policy.  
+[ **Marketing Uses:**](https://www.hertz.com/rentacar/navigation/templates/privacyPolicyView.jsp#marketing_uses)    We would like to use your personal data for our marketing purposes. We may also want to share your data with our business partners for their marketing purposes. You can choose to restrict or "opt out" of these uses by following the instructions in this policy.  
   
- **CONTACT US:**  We hope this policy answers your questions about our collection and use of your personal data.  If it does not, or if you have any questions, please contact us by following the instructions in the Contact Us section below.
+ **CONTACT US:**  We hope this policy answers your questions about our collection, use and disclosure of your personal data.  If it does not, or if you have any questions, please contact us by following the instructions in the Contact Us section below.
 
  **Privacy Policy**
 
  **YOUR PRIVACY**
 
-We respect your privacy and are committed to protecting the personal data we hold about you. This policy explains what data we collect about you, how we collect it, the measures we take in our efforts to keep your data secure and the uses we make of it.  We also explain the options you have in relation to your personal data.
+We respect your privacy and are committed to protecting the personal data we hold about you. This policy explains what data we collect about you, how we collect it, the measures we take in our efforts to keep your data secure and the uses and disclosures we make of it.  We also explain the options you have in relation to your personal data.
 
 When you request services from us, operate a vehicle or equipment with in-vehicle or in-equipment technology, access our websites, utilize our mobile “apps” or otherwise interact with us, for example, but without limitation, through our kiosks, our official corporate pages on third party social networks (such as Facebook) or the “apps” on those pages, you consent to our collection, retention and use of your personal data in the manner described in this policy and accept the risks outlined in the Security section.
 
  **SCOPE**
 
- _This policy covers the personal data we collect about you in connection with our vehicle and equipment rental business which identifies you as an individual.   It does not address data that does not personally identify you as an individual, for example, but without limitation, aggregated anonymous data, IP addresses,_  _computer operating systems,_  _personal preferences, vehicle identification numbers, etc.   We are free to use data that does not identify you as an individual as we wish.  This policy does not apply to data collected by third party social networks (such as Facebook), mobile device manufacturers, third party “mobile apps”, wireless service providers, internet service providers or the operators of any networks through which you may interact with us and we expressly disclaim any responsibility for the data collection, privacy or data security practices of those entities.  With regard to pages on third party social networks, this policy only applies to personal data we collect through our pages (those with a direct link to this policy) and does not apply to any “unofficial” pages or pages of our affiliates or licensees.  Our websites are not directed to individuals under the age of 13, and we do not knowingly obtain personal data from such individuals._
+ _This policy covers the personal data we collect about you in connection with our vehicle and equipment rental business which identifies you as an individual.   It does not apply to data that does not personally identify you as an individual, for example, but without limitation, aggregated anonymous data, IP addresses,_  _computer operating systems,_  _personal preferences, vehicle identification numbers, etc.   We are free to use data that does not identify you as an individual as we wish.  This policy does not apply to data collected by third party social networks (such as Facebook), mobile device manufacturers, third party “mobile apps”, wireless service providers, internet service providers or the operators of any networks through which you may interact with us and we expressly disclaim any responsibility for the data collection, privacy or data security practices of those entities.  With regard to pages on third party social networks, this policy only applies to personal data we collect through our pages (those with a direct link to this policy) and does not apply to any “unofficial” pages or pages of our affiliates or licensees.  Our websites are not directed to individuals under the age of 13, and we do not knowingly obtain personal data from such individuals._
 
  **Who We Are** **   
 ** \--------------------------------------------------------
 
-We are The Hertz Corporation, a U.S. company based in New Jersey, which, together with our subsidiary companies, provides and supports vehicle and equipment rental services worldwide.  All references in this policy to “we”, “us” and “our” are to us and our [subsidiaries](https://www.hertz.com/rentacar/navigation/templates/privacyPolicyView.jsp#subsidiaries "subsidiaries").  Our businesses generally operate under a “Hertz” mark, including Hertz Rent A Car, Hertz Local Edition, Hertz on Demand 24/7 (formerly known as Connect by Hertz), Hertz Claims Management, and Hertz Equipment Rental Corporation.  In addition, our subsidiary Navigation Solutions, LLC, which provides the Hertz NeverLost service, is also covered by this policy.  However, neither our Dollar Rent A Car Thrifty Rent A Car businesses operated by Dollar Thrifty Automotive Group, Inc., a Hertz subsidiary, our Firefly Rent A Car business, nor our Donlen Corporation subsidiary are covered by this policy because each of those entities/operations has its own privacy policy. We also operate equipment rental businesses and, to a lesser extent, vehicle and equipment sales, and claims administration businesses.
+We are The Hertz Corporation, a U.S. company, which, together with our subsidiary companies, provides and supports vehicle and equipment rental services worldwide.  All references in this policy to “we”, “us” and “our” are to us and our [subsidiaries](https://www.hertz.com/rentacar/navigation/templates/privacyPolicyView.jsp#subsidiaries "subsidiaries").  Our businesses generally operate under a “Hertz” mark, including Hertz Rent A Car, Hertz Local Edition, Hertz 24/7 (formerly known as either "Connect by Hertz" or "Hertz on Demand"), Hertz Claims Management, and Hertz Equipment Rental Corporation.  In addition, our subsidiary Navigation Solutions, LLC, which provides the Hertz NeverLost service, is also covered by this policy.  However, neither our Dollar Rent A Car or Thrifty Rent A Car businesses operated by Dollar Thrifty Automotive Group, Inc., a Hertz subsidiary, our Firefly Rent A Car business, nor our Donlen Corporation subsidiary are covered by this policy because each of those entities/operations has its own privacy policy that is applicable to its operations. We also operate equipment rental businesses and, to a lesser extent, vehicle and equipment sales, and claims administration businesses.
 
 We operate a network of licensees in provision of our services worldwide and are affiliated to many other companies through ownership. As our [licensees](https://www.hertz.com/rentacar/navigation/templates/privacyPolicyView.jsp#licensees "licensees") and [affiliates](https://www.hertz.com/rentacar/navigation/templates/privacyPolicyView.jsp#affiliates "affiliates") are independent companies, they are not owned or controlled by us and are not covered by this policy, although they may have their own privacy policies to govern the personal data they collect. We are not responsible for the privacy practices of our licensees and affiliates.
 
@@ -88,7 +88,7 @@ We operate a network of licensees in provision of our services worldwide and are
 
 We do business in many countries and aim to comply with the privacy laws applicable to the personal data we collect and use. 
 
-The Hertz Corporation and those of its subsidiaries operating within the United States of America, comply with the U.S.-E.U. Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, retention and use of personal information from European Union member countries and Switzerland.  We have certified that we adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.
+The Hertz Corporation and those of its subsidiaries operating within the United States of America, comply with the U.S.-E.U. Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, retention and use of personal information from European Union member countries and Switzerland.  We have certified that we adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  You can visit <http://www.export.gov/safeharbor/> to learn more about the U.S.-E.U. and U.S.-Swiss Safe Harbor programs.
 
  **Changes**   **  
 **\--------------------------------------------------------
@@ -104,21 +104,22 @@ If any change makes the policy less protective of your personal data, such chang
  **What We Collect** **  
 **\--------------------------------------------------------
 
-We collect the personal data and the non-personal data we need to provide the services you request from us and for our operational uses in connection with such services, which may include:
+We collect the personal data and the non-personal data we need to process your reservation requests and to provide the services you request from us and for our operational uses in connection with such services, which may include:
 
-  * Name, address and contact details, including telephone and mobile number, and email; 
+  * Name, address and contact details, including telephone and mobile number, and email address; 
   * Date and place of birth, passport number and driver’s license number and, upon our request, a copy of your driver’s license; 
-  * Employer(s) name and address; 
+  * Your gender and photo;
+  * Employer(s) name, address and phone number; 
   * Credit card information; 
   * Frequent flyer and other membership reward or loyalty program information;
-  * Affiliations with companies, associations, colleges or cities;
+  * Affiliations with or sponsorships by companies, associations, colleges or cities;
   * Location data such as geographic location of electronic devices used to contact us or to access our mobile “apps” or of the vehicle or equipment you have rented;
   * Information regarding the vehicle or equipment rented and its operation during your rental;
   * Rental charges you incur and other information relating to your transactions; 
 
 
   * Information transmitted by your computer’s browser software; 
-  * Itinerary information; and
+  * Itinerary information, including airline and/or flight information; and
 
 
   * Information about your credit history or other publicly available information about you from consumer reporting agencies.
@@ -139,7 +140,7 @@ We may collect certain personal data that constitutes [sensitive data](https://
 
 We collect personal data directly **from you** in connection with a reservation (even an abandoned or interrupted reservation), a rental of a vehicle or equipment, or your membership in any of our membership programs, including information you provide:    
 
-  * When you call our reservation, customer contact or member care centers; 
+  * When you call our reservation, customer service, emergency road-side assistance, customer contact or member care centers; 
   * On our websites; 
   * Through our kiosks;
   * On our mobile “apps”;
@@ -155,15 +156,15 @@ We collect personal data directly **from you** in connection with a reservation
   * Through our in-vehicle or in-equipment technology or through other telematic devices; and
 
 
-  * When you join Hertz membership programs, such as Hertz Gold Plus Rewards (formerly Hertz #1 Club Gold), or Hertz on Demand 24/7.
+  * When you join Hertz membership programs, such as Hertz Gold Plus Rewards (formerly Hertz #1 Club Gold), or Hertz 24/7.
 
 
 
-We also gather personal data about you from a variety of **other sources** , including:
+We also gather personal data about you from a variety of **other sources** , which may include:
 
   * Reservations you make with us through licensees, travel agents or brokers; 
   * Transactions you complete with us and our licensees, including options you take, charges you incur and any incidents or accidents that may occur;
-  * CDP Sponsors or sponsors of Hertz on Demand 24/7 Promotion Codes or affiliations (as described below);
+  * CDP Sponsors or sponsors of Hertz 24/7 Promotion Codes or affiliations (as described below), sponsors of promotion codes and sponsors of special discount codes;
   * To the extent you have made such information available, from third party social networks;
   * Consumer reporting agencies; and
   * Other companies that have business relationships with us, such as our licensees, affiliates and business partners, including airlines, hotels and insurance companies.
@@ -226,6 +227,14 @@ Pixel Tags are used to collect typically anonymous data to help identify types o
 
 Further, certain Pixel Tags may be used by other companies for the purpose of tracking visits to their websites, identifying if such internet traffic came from a Hertz website or confirming your eligibility to receive services or benefits from such other companies.
 
+Third party cookies or Pixel Tags may collect information about a user of our site’s online activities over time and across different web sites.
+
+Some of our web sites may use Google Analytics, which uses cookies and other, similar technologies (e.g. Pixel Tags) to collect information about website use anonymously and reports trends, without identifying individual visitors.  To learn more about Google Analytics, including how to opt out of it, visit [https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout).
+
+We use third-party advertising companies to serve advertisements regarding goods and services that may be of interest to you when you access and use our websites and other websites, based on information relating to your access to and use of our websites and other websites.  To do so, these companies may place or recognize a unique cookie on your browser (including through the use of Pixel Tags).  If you would like to learn more about this practice, including your choices with respect to it, please visit [http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp) and [http://www.aboutads.info/](http://www.aboutads.info/).
+
+We do not respond to a web browser’s “do not track” signal, or other mechanism that indicates a request to disable online tracking of individuals who use or visit our websites.
+
 As the internet and other eCommerce channels continue to develop, we may deploy and utilize different types of technologies to collect data regarding your visit or usage.
 
   **Blogs or Message Boards**
@@ -238,22 +247,22 @@ Our websites and e-mail messages may contain links to websites operated by other
 
  **RETENTION**
 
- _We try to ensure that the personal data we retain about you is stored securely and, in light of the information provided to us, is as accurate, current and complete as necessary for the purposes for which we use it._
+ _We try to ensure that the personal data we retain about you is stored securely and, in light of the information provided to us, is as accurate, current,  complete and relevant as necessary for the purposes for which we use and disclose it._
 
  **Storage** **  
 **\--------------------------------------------------------  
-We generally retain personal data about our customers for as long as we believe appropriate for the purposes for which it was collected or as otherwise required by applicable law.
+We generally retain personal data about our customers for as long as we believe appropriate for the purposes for which it was collected or as otherwise required or authorized by applicable law.
 
-Our principal databases for storing the personal data we collect are located in Oklahoma, U.S.A., except for the Hertz on Demand 24/7 database, which is principally located in France and the Navigation Solutions, LLC database, which is principally located in Texas, U.S.A.
+Our principal databases for storing the personal data we collect are located in Oklahoma, U.S.A., except for the Hertz 24/7 database, which is principally located in France and the Navigation Solutions, LLC database, which is principally located in Texas, U.S.A.
 
  **Security** **  
 **\--------------------------------------------------------
 
 As you may be aware, there is no completely secure method of transmitting or storing data. Although their physical characteristics are different, postal mail, telephone calls, text messages, faxes and transmissions over the Internet or wireless networks all present possibilities of loss, misrouting, interception and misuse of the data that is transmitted.
 
-We take reasonable measures to protect against the loss, misuse and unauthorized access or disclosure, alteration and destruction of your personal data by aiming to maintain appropriate physical, procedural and electronic safeguards to protect your personal data, including:
+We take commercially reasonable measures to protect against the loss, misuse and unauthorized access or disclosure, alteration and destruction of your personal data by aiming to maintain appropriate physical, procedural and electronic safeguards to protect your personal data, including:
 
-  * Restricting access to personal data to our employees on a “need to know” basis; 
+  * Restricting access to personal data to our employees or service providers on a “need to know” basis; 
   * Enforcing policies and procedures for our employees in their handling of personal data; and
   * Using technologies designed to safeguard data during its transmission, such as [SSL encryption](https://www.hertz.com/rentacar/navigation/templates/privacyPolicyView.jsp#SSL_encryption "SSL encryption") for the data you provide on our websites. 
 
@@ -264,7 +273,7 @@ If you have reason to believe that any account with us is no longer secure, you 
   
  ** _More about_** ** _ _** ** _SSL encryption…_**
 
- _“SSL” stands for Secure Sockets Layer encryption. We use this protection when you submit personal data to us on our websites.   SSL encryption seeks to ensure that you are actually sending your data to Hertz and that no-one else can read or tamper with it during transmission._
+ _“SSL” stands for Secure Sockets Layer encryption. We use this protection when you submit personal data to us on our websites.   SSL encryption seeks to ensure that you are actually sending your data to us and that no-one else can read or tamper with it during transmission._
 
  _When you are asked to provide your personal data to us on our website, you will see that our “http” website address changes to read "https". The additional “s” denotes that the site is secure for that data transfer. You may also see a closed padlock symbol on your screen, again denoting a secure site._
 
@@ -272,26 +281,26 @@ If you have reason to believe that any account with us is no longer secure, you 
 
 We try to strike a balance between the security of your data and your convenience.  As a result, we may sometimes use a method of communication that is less secure than a less convenient alternative.
 
-For example, but not limitation, we will send you an e-mail or a text message in unencrypted form (i.e. instantly readable) because many of our customers are unable to access encrypted (i.e. coded) e-mail or messages. This means that our message, if misrouted or intercepted, could be read more easily than encrypted messages. For this reason, please do not include confidential information, such as your Hertz Gold Plus Rewards member number or credit card number, in any e-mail or text you send to us or on any posting you make to a public area of a third party social network page, especially since any such posting immediately becomes public.
+For example, but not limitation, we will send you an e-mail or a text message in unencrypted form (i.e. instantly readable) because many of our customers are unable to access encrypted (i.e. coded) e-mail or messages. This means that our message, if misrouted or intercepted, could be read more easily than encrypted messages. For this reason, please do not include confidential information, such as your credit card number or account passwords, in any e-mail or text you send to us or on any posting you make to a public area of a third party social network page, especially since any such posting immediately becomes public.
 
-For a more secure way to communicate with us over the Internet, please click on the “ **Contact Us** ” link on any page of [www.hertz.com](http://www.hertz.com/ "www.hertz.com"), [www.hertzondemand.com](http://www.hertzondemand.com/ "www.hertzondemand.com"), or [www.hertzequip.com](http://www.hertzequip.com/ "www.hertzequip.com"), or initiate a Live Chat session via www.neverlost.com, and follow our instructions.
+For a more secure way to communicate with us over the Internet, please click on the “ **Contact Us** ” link on any page of [www.hertz.com](http://www.hertz.com/), [www.hertz247.com](http://www.hertz247.com/), or [www.hertzequip.com](http://www.hertzequip.com/), or initiate a Live Chat session via www.neverlost.com, and follow our instructions.
 
- **Access**
+ **Access and Correction**
 
 \--------------------------------------------------------
 
 You may access and review your personal data, change it and correct factual errors as follows:
 
-  * If you are a member of a Hertz membership program, such as Hertz Gold Plus Rewards, or similar program, you may update your member profile by logging into the Hertz Gold Plus Rewards section of [www.hertz.com](http://www.hertz.com/ "www.hertz.com").
+  * If you are a member of a Hertz membership program, such as Hertz Gold Plus Rewards, or similar program, you may update your member profile by logging into the Hertz Gold Plus Rewards section of  www.hertz.com.
 
 
-  * If you are a member of Hertz on Demand ~~,~~ 24/7, you may update your member profile in the My Account section of [www.hertzondemand.com](http://www.hertzondemand.com/ "www.hertzondemand.com") or by telephone. Call  (877) 654-4400 in the United States; 00448708454545 in London; 0033800450400 in Paris; 004969380789020 in Berlin; and 0034912757227 in Madrid.
+  * If you are a member of Hertz 24/7, you may update your member profile in the My Account section of    [www.hertz247.com](http://www.hertz247.com/ "www.hertzondemand.com") or by telephone. Call  (877) 654-4400 in the United States; 00448708454545 in London; 0033800450400 in Paris; 004969380789020 in Berlin; and 0034912757227 in Madrid.
 
 
-  * If you have a Hertz NeverLost.com profile, you may update your user profile information in the My Account section of [www.neverlost.com](http://www.neverlost.com/) or by calling NeverLost Customer Service at (800) 823-2547 in the United States.
+  * If you have a Hertz NeverLost.com profile, you may update your user profile information in the My Account section of  [www.neverlost.com](http://www.neverlost.com/) or by calling NeverLost Customer Service at (800) 823-2547 in the United States.
 
 
-  * If you are not a member of a Hertz membership program, or your interest is broader than your membership data, or you wish us to delete certain of your personal data, please contact us by following the instructions at the end of this policy. 
+  * If you are not a member of one of our membership programs, or your interest is broader than your membership data, or you wish us to correct or delete certain of your personal data, please contact us by following the instructions at the end of this policy. 
 
 
 
@@ -299,11 +308,11 @@ To protect your privacy and the security of your personal data, we will take ste
 
 Certain types of personal data may need to be updated with the third party social network through which you may interact with us, rather than directly with us.
 
- **USES**
+ **USES and DISCLOSURES**
 
- _Your personal data will not be used in a way that is incompatible with the purpose for which it was collected or as authorized by you. In that regard, by enrolling in a Hertz membership program or making a reservation with us, you consent to our use and disclosure of your personal data for the operational uses listed below.   We would also like to use your data for marketing purposes.  _ 
+ _Your personal data will not be used in a way that is incompatible with the purpose for which it was collected or as authorized by you. In that regard, by enrolling in one of our  membership programs, making a reservation with us, or renting a vehicle from us, you consent to our use and disclosure of your personal data for the operational uses listed below which may include disclosure of your data outside your country of residence.  We would also like to use and disclose your data for marketing purposes.  _ 
 
- **Operational Uses** **  
+ **Operational Uses and Disclosures** **  
 **\--------------------------------------------------------
 
 The examples provided below are illustrative and not a complete list of our practices:
@@ -314,15 +323,15 @@ We will share your personal data among ourselves, our agents, our licensees and 
 
   * Make your rental reservations; 
   * Process and/or confirm your transactions; 
-  * Provide you with enhanced rental services, such as services provided in connection with Hertz membership programs and similar services; 
+  * Provide you with the services you have requested or, where applicable, enhanced rental services, such as services provided in connection with our membership programs and similar services; 
 
 
-  * Provide you services in connection with your rental; such as navigation assistance or itinerary planning; 
+  * Provide you services in connection with your rental, such as navigation assistance or itinerary planning; 
 
 
-  * Provide you with customer assistance, including , but not limited to, assistance after you have initiated but not completed a reservation;  
+  * Provide you with customer assistance, including, but not limited to, assistance after you have initiated but not completed a reservation;  
   * Bill and collect amounts owed in connection with your rentals and membership(s); and
-  * For customer satisfaction and market research purposes to help us improve our services.
+  * For customer satisfaction and market research purposes and to otherwise help us improve our services.
 
 
 
@@ -331,8 +340,8 @@ We will share your personal data among ourselves, our agents, our licensees and 
 We may use your personal data to communicate with you regarding:
 
   * Any reservation you initiate or rental transaction;
-  * Your membership/status in a Hertz membership program; or
-  * Changes to the terms or features of any Hertz membership program to which you belong.
+  * Your membership/status in one of our membership programs; or
+  * Changes to the terms or features of any of our membership programs to which you belong.
 
 
 
@@ -349,7 +358,7 @@ We will also share your information with companies you use in connection with yo
 
 
 
-You may quote a special discount code, called a “ **CDP number** ”, when you rent with Hertz, entitling you to the special rate or benefits we may have negotiated with your company, association, credit card company or travel club (the “CDP Sponsor”).  By using a CDP number, you consent to our disclosure of your personal data to the CDP Sponsor.
+You may quote a special discount code, called a “ **CDP number** ”, when you rent with Hertz, entitling you to the special rate or benefits we may have negotiated with the sponsoring company, association, credit card company or travel club (the “CDP Sponsor”), if you are eligible to do so.  By using a CDP number, you consent to our disclosure of your personal data to the CDP Sponsor.
 
  ** _More about   CDP Sponsors…_** _ _
 
@@ -365,11 +374,11 @@ You may quote a special discount code, called a “ **CDP number** ”, when you
 
  _If you do not wish us to disclose your personal data to a CDP sponsor for the above purposes, you must not use their CDP number for your rental_ _ _ _ or as part of your profile_ _. This will mean, however, that you will not be able to receive the benefits associated with that CDP number._
 
-Hertz on Demand 24/7 members may enroll for membership under a “Promotional Code” or an “affiliation” with a college, company, association or city. Hertz on Demand 24/7 may use these organizations to help administer the services that it offers. By enrolling under a Promotional Code or affiliation with a college, company, association or city, you consent to our disclosure of your personal data to them for their and our administrative purposes or such other purposes as may be agreed upon between you and such Hertz on Demand 24/7 Promotional Code or affiliation sponsor.
+Hertz 24/7 members may enroll for membership under a “Promotional Code” or an “affiliation” with a college, company, association or city. Hertz 24/7 may use these organizations to help administer the services that it offers. By enrolling under a Promotional Code or affiliation with a college, company, association or city, you consent to our disclosure of your personal data to them for their and our administrative purposes or such other purposes as may be agreed upon between you and such Hertz 24/7 Promotional Code or affiliation sponsor.
 
- ** _More about Hertz on Demand_**   ** _24/7_**   ** _Promotion Codes or affiliation sponsors …_**
+ ** _More about Hertz  _** ** _24/7_**   ** _Promotion Codes or affiliation sponsors …_**
 
- _If you do not wish us to disclose your personal data to a Hertz on Demand_   _24/7  _ _Promotional Code or affiliation sponsor, do not use the Promotional Code or reference the affiliation sponsor when you enroll in Hertz on Demand_   _24/7_   _or follow the instructions above to access your Hertz on Demand_   _24/7  _ _member profile and remove the Promotional Code or affiliation sponsor reference from it._
+ _If you do not wish us to disclose your personal data to a Hertz  _ _24/7  _ _Promotional Code or affiliation sponsor, do not use the Promotional Code or reference the affiliation sponsor when you enroll in Hertz  _ _24/7_   _or follow the instructions above to access your Hertz  _ _24/7  _ _member profile and remove the Promotional Code or affiliation sponsor reference from it._
 
  **Protective and legal uses**
 
@@ -382,6 +391,7 @@ We may use, share and disclose your personal data for legal reasons as we believ
   * to enforce our terms and conditions;
   * to recover our vehicles, equipment or any monies due, such as through debt collection agencies;
   * to protect our operations or those of any of our subsidiaries;
+  * to assess your credit worthiness;
   * to protect our rights, privacy, safety or property, and/or that of our subsidiaries, you or others; and
   * to allow us to pursue available remedies or limit the damages that we may sustain.
 
@@ -395,7 +405,7 @@ We may use other companies as our service providers or agents to act on our beha
 
 We may disclose your personal data to a third party in connection with any contemplated or actual reorganization, merger, sale, joint venture, assignment, transfer or other disposition of all or any portion of our business, assets or stock (including in connection with any bankruptcy or similar proceedings).
 
- **Marketing Uses**
+ **Marketing Uses and Disclosures**
 
 \--------------------------------------------------------
 
@@ -405,76 +415,76 @@ We may aggregate your personal data and use it to develop marketing programs and
 
 We may use your personal data for the above marketing purposes, although you can choose to limit or restrict our mailings and our sharing of your data for these uses by following the instructions at _Marketing Options_ below.  
 
- **EU residents**
+ **EU and Canadian residents**
 
 We will only use your personal data for our marketing purposes with your prior consent, which may be collected from a number of sources.  
 
-If you do not receive marketing messages from us and would like to do so, or if you want to limit or restrict our mailings or sharing of your data for marketing purposes, please follow the instructions at [ _Marketing Options_](https://www.hertz.com/rentacar/navigation/templates/privacyPolicyView.jsp#Marketing_Options "Marketing Options") below.
+If you do not receive marketing messages from us and would like to do so, or if you want to limit or restrict our communications with you or sharing of your data for marketing purposes, please follow the instructions at [ _Marketing Options_](https://www.hertz.com/rentacar/navigation/templates/privacyPolicyView.jsp#Marketing_Options "Marketing Options") below.
 
  **Residents of other countries**
 
-We aim to comply with your local law regarding our use of your personal data for marketing purposes. You can instruct us how we can use your personal data for marketing purposes by following the instructions at [ _Marketing Options_](https://www.hertz.com/rentacar/navigation/templates/privacyPolicyView.jsp#Marketing_Options "Marketing Options") below. 
+We aim to comply with your local law regarding our use of your personal data for marketing purposes. You can instruct us how we can use and disclose your personal data for marketing purposes by following the instructions at [ _Marketing Options_](https://www.hertz.com/rentacar/navigation/templates/privacyPolicyView.jsp#Marketing_Options "Marketing Options") below. 
 
  **Marketing Options**
 
 \--------------------------------------------------------
 
- **Members of Hertz membership programs**
+ **Members of Our  membership programs**
 
-If you are a member of Hertz Gold Plus Rewards, Hertz on Demand 24/7 or a similar membership program, you will have made marketing choices when you enrolled or at such other time(s) as you may have chosen to do so.  These choices are now recorded in your Profile. You can review and amend your selections by accessing your Profile at the Hertz Gold Plus Rewards section on [www.hertz.com](http://www.hertz.com/ "www.hertz.com").  You can review and amend your Hertz on Demand 24/7 selections by accessing your Profile on the Log In section on [www.hertzondemand.com](http://www.hertzondemand.com/ "www.hertzondemand.com"). You can review and amend your Hertz NeverLost selections by accessing your Profile on the My Account section on www.neverlost.com.
+If you are a member of one of our membership programs, such as Hertz Gold Plus Rewards, Hertz 24/7 or a similar membership program, you will have made marketing choices when you enrolled or at such other time(s) as you may have chosen to do so.  These choices are now recorded in your Profile. You can review and amend your selections by accessing your Profile at the Hertz Gold Plus Rewards section on [www.hertz.com](http://www.hertz.com/ "www.hertz.com").  You can review and amend your Hertz 24/7 selections by accessing your Profile on the Log In section on [www.hertz247.com](http://www.hertz247.com/ "www.hertzondemand.com"). You can review and amend your Hertz NeverLost selections by accessing your Profile on the My Account section on www.neverlost.com.
 
-Alternatively, please complete the _My Privacy Choices_ form at the end of this policy and mail it to us, following the instructions at [Contact Us](https://www.hertz.com/rentacar/navigation/templates/privacyPolicyView.jsp#Contact_Us "Contact Us") below.
+Alternatively, please complete the _My Privacy Choices_ form at the end of this policy and mail it to us, following the instructions at  [Contact Us](https://www.hertz.com/rentacar/navigation/templates/privacyPolicyView.jsp#Contact_Us "Contact Us") below.
 
  **Non-members**
 
 We may record your privacy election regarding the receipt of marketing communications at the time you make a reservation or at other times when you interact with us.  If you are not then a member of one of our membership programs, or the email address provided for the specific reservation/interaction is not associated with the profile you have in a membership program, you can follow the “Alternate opportunities to opt-out” instructions below to tell us that you no longer wish to receive marketing communications at that email address if you previously had elected to receive marketing communications.
 
-In addition, if you are not a member of one of our membership programs, you can record your marketing choices by enrolling, free of charge, in Hertz Gold Plus Rewards. Please either ask at the rental counter or visit our Hertz Gold Plus Rewards section  ~~at~~ on [www.hertz.com](http://www.hertz.com/ "www.hertz.com").
+In addition, if you are not a member of one of our membership programs, you can record your marketing choices by enrolling, free of charge, in Hertz Gold Plus Rewards. Please either ask at the rental counter or visit our Hertz Gold Plus Rewards section at  [www.hertz.com](http://www.hertz.com/).
 
 When you enroll, we will provide you with a Hertz Gold Plus Rewards member number and ask you to quote it when you rent a vehicle from Hertz.  We will automatically apply your marketing choices to all Hertz rentals you make quoting this number. Your choices will be recorded in your Hertz Gold Plus Rewards Profile and you will be able to amend your choices at any time by following the instructions for _Members of Hertz membership programs_ above.
 
  **Alternative opportunities to opt-out**
 
-Our marketing emails contain an unsubscribe option.  If you do not want us to continue to send marketing emails to your email address, click on ‘ _unsubscribe_ ’ and we will not send further marketing emails to that address, although you may still receive emails at other addresses for which you have not unsubscribed. If you subsequently wish to override your choice to unsubscribe, you will need to either amend your Profile (see _Members of Hertz membership programs_ ) or, if you are not a member of one of our programs, follow the instructions for _Non-members_ above.
+Our marketing emails contain an unsubscribe option.  If you do not want us to continue to send marketing emails to your email address, click on ‘ _unsubscribe_ ’ and we will not send further marketing emails to that address, although you may still receive emails at other addresses for which you have not unsubscribed. If you subsequently wish to override your choice to unsubscribe, you will need to either amend your Profile (see _Members of Hertz membership programs_ ) or, if you are not a member of one of our programs, follow the instructions for _Non-members_ above, or at Contact Us below.
 
  **Important points to note**
 
 Please note the following points about the marketing choices you make:
 
-  * If you change your marketing choices, we will observe your most recent choice with regard to the contact information associated with your membership number for the relevant membership program.  Marketing choices you make with regard to one membership program will not modify your marketing choices for another membership program.  Although we aim to process your choices promptly, you may still receive marketing communications prepared before we received your request to unsubscribe; 
+  * If you change your marketing choices, we will observe your most recent choice with regard to the contact information associated with your membership number for the relevant membership program.  To the extent allowed by law, marketing choices you make with regard to one membership program will not modify your marketing choices for another membership program.  Although we aim to process your choices promptly, you may still receive marketing communications prepared before we received your request to unsubscribe; 
 
 
-  * If you change your address, we will continue to follow your directions for your most recent address provided from your ‘unsubscribe’ click noted above, your Profile, or the My Privacy Choices form you completed that is associated with you for the implicated Hertz membership program. In order for us to continue to follow your directions at a new address, you will need to update your Profile online or complete another My Privacy Choices form with your updated information and provide it to us with your changed contact information; and 
+  * If you change your address, we will continue to follow your directions for your most recent address provided from your ‘unsubscribe’ click noted above, your Profile, or the My Privacy Choices form you completed that is associated with you for the implicated membership program. In order for us to continue to follow your directions at a new address, you will need to update your Profile online or complete another My Privacy Choices form with your updated information and provide it to us with your changed contact information; and 
 
 
-  * If you choose not to receive marketing messages from us, you may not be able to receive certain benefits connected to your program, such as promotions involving Hertz Gold Plus Rewards points and free rental days (if applicable). You will, however, continue to receive program updates and other membership information; and
+  * If you choose not to receive marketing messages from us, you may not be able to receive certain benefits connected to any program to which you belong, such as promotions involving Hertz Gold Plus Rewards points and free rental days (if applicable). You will, however, to the extent permitted by law, continue to receive applicable program updates and other membership information; and
 
 
-  * If your Profile contains a customer discount program (CDP) number or you enrolled for Hertz on Demand 24/7 with a Promotion Code (PC) or through an affiliation, your CDP, PC or affiliation sponsor may have made marketing choices for users of that CDP, PC or affiliation.  If the sponsor’s choices are more restrictive on our use of your data than your choices, we will observe the choices made by the sponsor in connection with those transactions in which such CDP, PC or affiliation is used.
+  * If your Profile contains a customer discount program (CDP) number or you enrolled for Hertz 24/7 with a Promotion Code (PC) or through an affiliation, your CDP, PC or affiliation sponsor may have made marketing choices for users of that CDP, PC or affiliation.  If the sponsor’s choices are more restrictive on our use of your data than your choices, we will observe the choices made by the sponsor in connection with those transactions in which such CDP, PC or affiliation is used.
 
 
 
  **Contact Us**
 
-We hope this policy answers your questions about our collection and use of your personal data. If you have additional questions or want to contact us for a specific purpose, please select from the following:
+We hope this policy answers your questions about our collection, use and disclosure of your personal data. If you have additional questions or want to contact us for a specific purpose, please select from the following:
 
  ** _Access/Corrections:_** Please send any request to access, amend or delete certain personal data we hold about you to the most convenient contact address below.
 
- ** _General questions:_** You should send any questions you may have about this policy to the most convenient contact address below. If you feel our response is not satisfactory, we will refer you to a neutral and independent dispute resolution organization.
+ ** _Complaints and other  questions:_** You should send any questions you may have about this policy or any complaints you have about how we have handled our personal data to the most convenient contact address below. If you feel our response is not satisfactory, we may refer you to a neutral and independent dispute resolution organization, where available.
 
  ** _Marketing:_** Send a completed _My Privacy Choices_ form (at the end of the policy) to the most convenient contact address below.  We aim to process your choices promptly on receipt, but you should please allow a number of days for your choices to become effective.
 
- ** _Security:_** If you have reason to believe that the personal data we hold about you, such as your Hertz Gold Plus Rewards member number, other program Profile, or Hertz on Demand 24/7 membership information is no longer secure, you must immediately notify us of the problem by either clicking **“Contact Us”**  on any page of [www.hertz.com](http://www.hertz.com/ "www.hertz.com"), [www.hertzondemand.com](http://www.hertzondemand.com/ "www.hertzondemand.com"), [www.hertzequip.com](http://www.hertzequip.com/ "www.hertzequip.com"); initiating a Live Chat session via www.neverlost.com; or calling as follows:
+ ** _Security:_** If you have reason to believe that the personal data we hold about you, such as your Hertz Gold Plus Rewards member number, other program Profile, or Hertz 24/7 membership information is no longer secure, you must immediately notify us of the problem by either clicking **“Contact Us”**  on any page of [www.hertz.com](http://www.hertz.com/), [www.hertz247.com](http://www.hertz247.com/), [www.hertzequip.com](http://www.hertzequip.com/); initiating a Live Chat session via www.neverlost.com; or calling as follows:
 
 ·         Customers in the United States: (800) 654-4173 
 
 ·         Customers outside the United States: 001 (405) 775-3400 
 
-·         For Hertz on Demand ~~,~~ 24/7, you may call (800) 654-4173 in the United States; 00448708454545 in London; 0033800450400 in Paris; 004969380789020 in Berlin; and 0034912757227 in Madrid ~~.~~
+·         For Hertz 24/7, you may call (800) 654-4173 in the United States; 00448708454545 in London; 0033800450400 in Paris; 004969380789020 in Berlin; and 0034912757227 in Madrid ~~.~~
 
 ·         For Hertz NeverLost customers, you may call (800) 823-2547 in the United States
 
- ** _US-EU and US-Swiss Safe Harbor Enforcement:_**  Please raise any concerns regarding our compliance with the US-EU Safe Harbor Principals and US-Swiss Safe Harbor Principles by clicking “Contact Us” on any page of [www.hertz.com](http://www.hertz.com/ "www.hertz.com"), [www.hertzondemand.com](http://www.hertzondemand.com/ "www.hertzondemand.com"), or [www.hertzequip.com](http://www.hertzequip.com/ "www.hertzequip.com"); for Hertz NeverLost customers, by initiating a Live Chat session via [www.neverlost.com](http://www.neverlost.com/); or writing to us at any of the addresses below.  We have committed to refer unresolved privacy complaints under the U.S.-E.U. Safe Harbor Principals and U.S.-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus.  If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by us, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
+ ** _US-EU and US-Swiss Safe Harbor Enforcement:_**  Please raise any concerns regarding our compliance with the US-EU Safe Harbor Principles and US-Swiss Safe Harbor Principles by clicking “Contact Us” on any page of [www.hertz.com](http://www.hertz.com/), [www.hertz247.com](http://www.hertz247.com/), or [www.hertzequip.com](http://www.hertzequip.com/);  for Hertz NeverLost customers, by initiating a Live Chat session via [www.neverlost.com](http://www.neverlost.com/); or writing to us at any of the addresses below.  We have committed to refer unresolved privacy complaints under the U.S.-E.U. Safe Harbor Principals and U.S.-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus.  If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by us, please visit the BBB EU SAFE HARBOR web site at at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
 
  ** _Contact addresses:_**
 
@@ -519,13 +529,13 @@ Email Address: ....................................................
 
 Hertz Gold Plus Rewards Member Number:.....................................................  
   
-Hertz on Demand 24/7  Membership #
+Hertz 24/7  Membership #
 
 ...................................................
 
 |   
   
-A.  Please send me marketing offers and materials from Hertz:
+A.  Please send me marketing offers and materials from or on behalf of Hertz:
 
                                                                   **Yes           No**
 
@@ -540,3 +550,5 @@ B.  Please share my personal data with Hertz’s licensees, affiliates and busi
 
   
                                                                   [  ]          [  ]
+
+Any consent regarding your receiving marketing materials provided above can be withdrawn or other otherwise changed at any time in accordance with the instructions set forth in this Privacy Policy.
