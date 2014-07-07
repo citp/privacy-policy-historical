@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the precisehire.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330220233id_/http%3A//www.precisehire.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the precisehire.com privacy policy that was archived on 2014-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140707044206id_/http%3A//www.precisehire.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy - PreciseHire
 
@@ -27,8 +27,4 @@ We have built our entire system so that neither customers nor employees can acce
 
 
 
-[](http://cta-redirect.hubspot.com/cta/redirect/276151/294ef0de-f519-42ba-9c99-ed7677fe8461)
-
- 
-
-[](http://cta-redirect.hubspot.com/cta/redirect/276151/ed0c004e-297c-47b5-b073-05d1ae6b587d)
+[](https://web.archive.org/web/20140707044206id_/http%3A//www.precisehire.com/info/employment-screening-demo.html)   [](https://web.archive.org/web/20140707044206id_/http%3A//www.precisehire.com/take-tour.html)
