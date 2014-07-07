@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the result24.in privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629063755id_/http%3A//www.result24.in/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the result24.in privacy policy that was archived on 2014-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140708012027id_/http%3A//www.result24.in/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
