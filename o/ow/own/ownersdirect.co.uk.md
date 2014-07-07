@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ownersdirect.co.uk privacy policy that was archived on 2013-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131231150735id_/http%3A//www.ownersdirect.co.uk/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ownersdirect.co.uk privacy policy that was archived on 2014-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140707151317id_/http%3A//www.ownersdirect.co.uk/privacypolicy.htm) for the most accurate reproduction.*
 
 # Owners Direct holiday rentals. Villas, apartments and guesthouses. Self catering
 
