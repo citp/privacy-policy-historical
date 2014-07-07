@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the belong.com.au privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625052758id_/https%3A//www.belong.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the belong.com.au privacy policy that was archived on 2014-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140707052052id_/https%3A//www.belong.com.au/privacy) for the most accurate reproduction.*
 
 # Protecting Your Privacy
 
