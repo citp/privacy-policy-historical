@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the primaryarms.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626192512id_/https%3A//www.primaryarms.com/Terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the primaryarms.com privacy policy that was archived on 2014-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140707225255id_/https%3A//www.primaryarms.com/Terms_privacy.asp) for the most accurate reproduction.*
 
 # Primary Arms Privacy Terms
 
@@ -67,7 +67,7 @@ This online privacy policy applies only to information collected through our web
 
  **Terms and Conditions**
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20140626192512id_/https%3A//www.primaryarms.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20140707225255id_/https%3A//www.primaryarms.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
  **Your consent**
 
