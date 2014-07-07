@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the place77.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325083532id_/http%3A//www.place77.com/user/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the place77.com privacy policy that was archived on 2014-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140708015250id_/http%3A//www.place77.com/user/privacy) for the most accurate reproduction.*
 
 # Privacy Policy for Place77
 
