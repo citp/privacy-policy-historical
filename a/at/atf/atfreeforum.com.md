@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atfreeforum.com privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623225908id_/http%3A//www.atfreeforum.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atfreeforum.com privacy policy that was archived on 2014-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140707060148id_/http%3A//www.atfreeforum.com/privacy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY FREE FORUM HOSTING SINCE 2004
 
