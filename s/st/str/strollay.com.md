@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the strollay.com privacy policy that was archived on 2012-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121011183110id_/http%3A//www.strollay.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strollay.com privacy policy that was archived on 2014-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140707180125id_/http%3A//www.strollay.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
