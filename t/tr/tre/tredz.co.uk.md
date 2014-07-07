@@ -1,56 +1,63 @@
-> *The following text is extracted and transformed from the tredz.co.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625203420id_/http%3A//www.tredz.co.uk/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tredz.co.uk privacy policy that was archived on 2014-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140708004218id_/http%3A//www.tredz.co.uk/pages/cookies) for the most accurate reproduction.*
 
-# Privacy Policy - Tredz.co.uk
+# 
 
-## Privacy & Cookie Policy
+* * *
 
-### In Summary:
+We don’t sell or share your details
 
-Quite simply: we do not share your information with anyone else.
+**When you shop at Tredz, your information is used to process your order and to contact you about it – nothing else.**
 
-The information you provide to us is used to process your order and to be able to contact you regarding your order if necessary.
+During checkout, you will have the option to store your contact details for repeat orders. We do not store your card details.
 
-If you choose this in the checkout, your contact details can be stored to save you having to type these in again for repeat orders. We do not store your credit card details.
+Tredz will send you occasional emails with updates and offers unless you indicate you do not want to receive them. You can also unsubscribe from our emails at any time using a link at the bottom of the email.
 
-Tredz will send you occasional emails with updates or offers, unless you indicate you do not wish to receive these. Every email offers an unsubscribe at the bottom, or you can [drop us a line](mailto:carolineg@tredz.co.uk?subject=Unsubscribe%20from%20newsletter) to take you off the list.
+* * *
 
-## Tredz Privacy Policy
+## Tredz privacy policy
 
-We at Tredz are totally committed to protecting your privacy. We comply with the principles of the Data Protection Act 1998, the Privacy and Electronic Communications (EC Directive) Regulations 2003 and the SafeBuy Code of Practice.
+### Protecting your data
 
-We collect information about you in order to process your order. That information will only be shared with other parties that are involved in the fulfilment of your order. We do not send random marketing emails to personal email addresses (spam).
+**Tredz is committed to protecting your privacy. We comply with the Data Protection Act 1998, the Privacy and Electronic Communications (EC Directive) Regulations 2003 and the SafeBuy Code of Practice.**
 
-The information we hold may include:  
-Your name  
-Address  
-Phone number  
-Email address  
-Credit/debit card details (only until a telephone order is processed)  
-Other information necessary for processing your order
+Information we collect to process your order will only be shared with parties involved in fulfilling your order. We do not send spam.
 
-This data will be held in accordance with our internal security policy. If we propose to send your data outside the European Economic Area (EEA) we will seek your consent first.
+The information we hold may include: 
 
-We will never collect sensitive information about you without your agreement. You have a right to ask for a copy of the information which we are holding on you and we will provide this for a small fee. We will delete information or correct any inaccuracies at no charge as soon as you make the request. 
+  * Name
+  * Address
+  * Phone number
+  * Email address
+  * Credit/debit card details (only until a card order is processed)
+  * Other information necessary for processing your order
 
-We use cookies to track your behaviour on our site to assist us in tailoring your visit. You can disable cookies in your browser but some of our website functions may then be unavailable to you.
 
-Data will only be released to third parties (e.g. the police) on request where there is a legal requirement for us to do so.
 
-## Tredz Cookie Policy
+The data will be held in accordance with our internal security policy. If we propose to send your data outside the European Economic Area (EEA) we will seek your consent first.
 
-##  1\. How to control and delete cookies
+We will never collect sensitive information about you without your agreement. You have a right to ask for a copy of the information we hold about you, which we will provide for a small fee. We will delete information or correct inaccuracies at no charge, as soon as you make the request.
 
-Tredz will not use cookies to collect personally identifiable information about you. However, if you wish to restrict or block the cookies which are set by Tredz websites, or indeed any other website, you can do this through your browser settings. The Help function within your browser should tell you how.
+Data will only be released to third parties (e.g. the police) on request where there is a legal requirement to do so.
 
-Alternatively, you may wish to visit [www.aboutcookies.org](http://www.aboutcookies.org/) which contains comprehensive information on how to do this on a wide variety of browsers. You will also find details on how to delete cookies from your computer as well as more general information about cookies. For information on how to do this on the browser of your mobile phone you will need to refer to your handset manual.
+* * *
 
-Please be aware that restricting cookies may impact on the functionality of the Tredz website.
+## Tredz cookie policy
 
-Tredz also use a number of suppliers who also set cookies on the Tredz.co.uk website on our behalf in order to deliver the services that they are providing. If you would like more information about the cookies used by these suppliers, as well as information on how to opt-out, please see section 4 below.
+### Collecting web data
 
-##  2\. List of the main Tredz cookies
+**Tredz uses cookies to track your behaviour on our site and personalise it to your needs. You can disable cookies in your browser, but then some of our website functions may be unavailable to you.**
 
-This is a list of the main cookies set by the Tredz website, and what each is used for.  
+### How to control and delete cookies
+
+Tredz will not use cookies to collect personally identifiable information about you. However, if you wish to restrict or block cookies set by Tredz’s website, you can do this through your browser settings. The ‘Help’ function in your browser will tell you how.
+
+Alternatively, you can visit [www.aboutcookie.org](http://www.aboutcookies.org/), which has comprehensive information on how to do this on a wide variety of browsers. Here you will also find details on how to delete cookies from your computer, as well as ore general information about cookies.
+
+Please be aware that restricting cookies may impact the functionality of the Tredz website.
+
+Tredz also uses a number of suppliers which set cookies on the Tredz website on our behalf to deliver the services they provide. If you would like more information about the cookies used by these suppliers, as well as information on how to opt out, see ‘Third party cookies used by Tredz’ below.
+
+### List of the main Tredz cookies
 
 **Cookie Name**
 
@@ -64,80 +71,21 @@ ASP.NET_SessionId
 
 | 
 
-This website is built using microsofts technology which uses this cookie to work. This is an essential cookie used for the site to function
+This website is built using Microsoft's technology, which uses this cookie. This cookie is essential for the site to function correctly.
 
-[ http://support.microsoft.com/kb/899918](http://support.microsoft.com/kb/899918)  
+<http://support.microsoft.com/kb/899918>  
   
 BasketID
 
 | 
 
-This cookie keeps your items in your basket for a 30 day period and is then deleted. This is to make sure your items stay in your basket when you return back to the website.  
+This cookie keeps your items in your basket for 30 days and is then deleted. This is to save you having to re-add items to your basket when you return to the website.  
   
-cart_items |  Stores the number of items in your basket. This is required to ensure we can show you the number of items in your basket  
-cart_value |  stores the value in your basket. This is required to ensure we can show you the value in your basket  
-cart_currency |  stores you current currency selection. This is required to ensure we can show you the correct currency you have selected.  
-  
-  
-
-
-##  3\. Tredz Blog & Tredz Guides Section
-
-This is a list of the main cookies set by the Tredz Blog and Guides section, and what each is used for.  
-
-**Cookie Name**
-
-| 
-
-**Purpose**  
-  
----|---  
-  
-pmcwidth
-
-| 
-
-Used by the blog section of the website  
-  
-  
-
-
-##  4\. 3rd Party Cookies Used By Tredz
-
-This is a list of the cookies used by 3rd Parties who provide services to Tredz, and what each is used for.  
-
-**Cookie Name**
-
-| 
-
-**Purpose**  
-  
----|---  
-  
-__utma  
-__utmb  
-__utmc  
-__utmz
-
-| 
-
-Google Analytics is a web analytics service provided by Google, Inc.
-
-Google stores the information collected by the cookie on servers in the United States. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. 
-
-**How to reject or delete this cookie**
-
-[ http://www.google.com/intl/en/privacypolicy.html](http://www.google.com/intl/en/privacypolicy.html)  
-  
-ep_session  
-ep_SID  
-ep_notification  
-ep_group
-
-| 
-
-These cookies are used to serve relevant product recommendations on our product pages
-
-**How to reject or delete these cookies**
-
-Click to Opt Out
+cart_items | Stores the number of items in your basket. This is needed to show you the number of items in your basket.  
+cart_value | Stores the value in your basket. This is needed to show you the value in your basket  
+cart_currency | Stores your current currency selection. This is required to show you the currency you have selected.  
+instantsearchquery | Stores your search keywords for faster search results.  
+recently_viewed | Stores a list of your recently viewed products to allow you quick access.  
+w3tc_referrer | This is a caching cookie that is used to improve the performance and experience of our blog.  
+__atuvc | This cookie is associated with the AddThis social sharing widget which is commonly embedded in websites to let visitors share content with a range of networking and sharing platforms. It stores an updated page share count.  
+__zlcid | This cookie is associated with our live chat facility to help customer relations.
