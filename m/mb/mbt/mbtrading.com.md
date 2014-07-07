@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mbtrading.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625124617id_/http%3A//mbtrading.com/disclaimerPP.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mbtrading.com privacy policy that was archived on 2014-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140707130243id_/http%3A//www.mbtrading.com/disclaimerPP.aspx) for the most accurate reproduction.*
 
 # MB Trading
 
@@ -95,7 +95,7 @@ To opt-out of a sharing arrangement, you can:
 
   1. Contact our Client Services Department at (866) 628-3001;
   2. Login to the secured client area of our website, and send a ticket to our Client Services team to “Opt-Out of Disclosure”;
-  3. Send an e-mail through the secured client area of our website to [optout@mbtrading.com](https://web.archive.org/web/20140625124617id_/http%3A//mbtrading.com/optout@mbtrading.com) with the words "Opt-Out of Disclosure" in the subject line and your MBT account number in the body copy; or
+  3. Send an e-mail through the secured client area of our website to [optout@mbtrading.com](https://web.archive.org/web/20140707130243id_/http%3A//www.mbtrading.com/optout@mbtrading.com) with the words "Opt-Out of Disclosure" in the subject line and your MBT account number in the body copy; or
   4. mail a letter to us indicating your desire to Opt-Out of Disclosure and your MBT account number.
 
 
