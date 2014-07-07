@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the minestatus.net privacy policy that was archived on 2012-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120419013614id_/http%3A//minestatus.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minestatus.net privacy policy that was archived on 2014-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140707043420id_/https%3A//minestatus.net/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Minestatus - Minecraft Server List
+# Minecraft Server List - Minestatus | Privacy Policy
 
 **Date of Last Revision: March 23, 2012**
 
