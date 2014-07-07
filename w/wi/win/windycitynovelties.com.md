@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the windycitynovelties.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209171725id_/http%3A//www.windycitynovelties.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windycitynovelties.com privacy policy that was archived on 2014-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140707181048id_/http%3A//www.windycitynovelties.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Windy City Novelties
 
 The contents of the Windy City Novelties web site are provided as general information only. In no event will Windy City Novelties or the contributors of information to this site be liable to you or anyone else for any action taken by you in reliance on such information or for any consequential, special, or similar damages. The following discloses Windy City Novelties practices for protecting the privacy of visitors to our web site, [www.windycitynovelties.com](http://www.windycitynovelties.com/)
 
@@ -14,7 +14,7 @@ Windy City Novelties Forms are where visitors may voluntarily provide personal i
 Our site contains links to other sites. These links are provided for your convenience and are not intended as an endorsement by Windy City Novelties of the organizations operating these sites nor as a warranty of the information they contain. Windy City Novelties is not responsible for the privacy practices or the content of these other web sites, and urge users to review privacy policies. Again, visitors always can accept or reject any cookies from our web sites by taking advantage of the related settings and tools on their own computers.
 
 **Third Party Services**  
-We use third-party service providers to provide product recommendations and enhance your shopping experience on our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this Web site in order to provide personalized recommendations and advertisements about our goods and services on our Web site as well as when you visit other Web sites.  If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://networkadvertising.org/consumer/opt_out.asp). 
+We use third-party service providers to provide product recommendations and enhance your shopping experience on our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this Web site in order to provide personalized recommendations and advertisements about our goods and services on our Web site as well as when you visit other Web sites.  If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://networkadvertising.org/consumer/opt_out.asp).
 
 **Contacting Windy City Novelties Regarding This Privacy Policy**  
 If you have any questions about this privacy statement, the practices of our site, or your dealings with our web site, please contact:
@@ -23,7 +23,4 @@ Web Site Manager
 Windy City Novelties  
 300 Lakeview Parkway  
 Vernon Hills, IL 60061  
-Telephone: 800.442.9722 
-
-  
-
+Telephone: 800.442.9722
