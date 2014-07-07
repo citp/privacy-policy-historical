@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motime.ca privacy policy that was archived on 2013-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130914052331id_/http%3A//www.motime.ca/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motime.ca privacy policy that was archived on 2014-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140707060555id_/http%3A//www.motime.ca/help/privacy) for the most accurate reproduction.*
 
 # 
 
