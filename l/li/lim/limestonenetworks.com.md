@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the limestonenetworks.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626034844id_/http%3A//www.limestonenetworks.com/info/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the limestonenetworks.com privacy policy that was archived on 2014-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140707081143id_/https%3A//www.limestonenetworks.com/about/privacy-policy.html) for the most accurate reproduction.*
 
-# Cloud Provider and Dedicated Server Hosting in Dallas, TX
+# Privacy Policy
 
 ## Privacy Policy for Limestone Networks, Inc.
 
@@ -14,7 +14,7 @@ This privacy policy includes limestonenetworks.com, lstn.net and all subdomains 
 
 ### Log Files
 
-Like many other Web sites, Limestone Networks, Inc. makes use of log files. The information inside the log files includes internet protocol (IP) addresses, type of browser, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user's movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+Like many other Web sites, Limestone Networks, Inc. makes use of log files. The information inside the log files includes Internet protocol (IP) addresses, type of browser, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user's movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
 ### Google Analytics
 
