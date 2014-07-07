@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the earthfare.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213052559id_/https%3A//www.earthfare.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earthfare.com privacy policy that was archived on 2014-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140707143131id_/https%3A//www.earthfare.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
