@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the herffjones.com privacy policy that was archived on 2013-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131006073226id_/http%3A//www.herffjones.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herffjones.com privacy policy that was archived on 2014-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140707025701id_/http%3A//www.herffjones.com/privacy) for the most accurate reproduction.*
 
 # Herff Jones: Privacy Policy
 
