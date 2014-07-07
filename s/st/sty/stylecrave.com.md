@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stylecrave.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208000809id_/http%3A//stylecrave.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stylecrave.com privacy policy that was archived on 2014-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140707075822id_/http%3A//stylecrave.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,11 +6,11 @@ This privacy statement covers all sites in the ucrave.com network, the list of d
 
 **Information Collection**
 
-ucraveÂ may collect information from our users at several different points on the site. ucrave is the sole owner of the information collected on ucrave.
+ucrave may collect information from our users at several different points on the site. ucrave is the sole owner of the information collected on ucrave.
 
 **Cookies**
 
-ucraveÂ may use cookies. A cookie is a piece of data stored on the userâ€™s computer tied to information about the user. ucrave may use both session cookies and persistent cookies. A session cookie disappears after you close your browser. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to ucrave. Persistent cookies can be removed. Consult your browser settings to remove cookies or prevent their usage.
+ucrave may use cookies. A cookie is a piece of data stored on the user’s computer tied to information about the user. ucrave may use both session cookies and persistent cookies. A session cookie disappears after you close your browser. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to ucrave. Persistent cookies can be removed. Consult your browser settings to remove cookies or prevent their usage.
 
 **Third Party Cookies**
 
@@ -22,15 +22,15 @@ Like most websites, we use log files. These include internet protocol (IP) addre
 
 **Legal Disclaimer**
 
-Though we make every effort to preserve user privacy, ucraveÂ may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process.
+Though we make every effort to preserve user privacy, ucrave may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process.
 
 **Links**
 
-ucrave contains links to other sites. Please be aware thatÂ ucraveÂ is not responsible for the privacy practices or content of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by ucrave.
+ucrave contains links to other sites. Please be aware that ucrave is not responsible for the privacy practices or content of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by ucrave.
 
 **Notification of Changes**
 
-Whenever ucraveÂ changes its privacy policy, we will post those changes to this privacy statement, and other places we deem appropriate.
+Whenever ucrave changes its privacy policy, we will post those changes to this privacy statement, and other places we deem appropriate.
 
 **Contact Information**
 
