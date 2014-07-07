@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the id.net privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325225618id_/https%3A//www.id.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the id.net privacy policy that was archived on 2014-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140707090726id_/https%3A//www.id.net/privacy-policy) for the most accurate reproduction.*
 
 # id.net
 
