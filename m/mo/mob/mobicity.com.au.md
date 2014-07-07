@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobicity.com.au privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330183600id_/http%3A//www.mobicity.com.au/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobicity.com.au privacy policy that was archived on 2014-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140707110917id_/http%3A//www.mobicity.com.au/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy | MobiCity Australia
 
