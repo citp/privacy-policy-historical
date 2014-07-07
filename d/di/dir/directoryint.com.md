@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directoryint.com privacy policy that was archived on 2014-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140508124142id_/http%3A//www.directoryint.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directoryint.com privacy policy that was archived on 2014-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140708003311id_/https%3A//www.directoryint.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Directory INT
 
@@ -34,7 +34,7 @@ This web site contains links to other sites. Please be aware that we are not res
 
 **Security**
 
-DirectoryINT.com secures your account information from unauthorised access, use or disclosure. You must enter your email or username and password each time you want to access your account information and manage your account. Never share your account details with anyone. If you are concerned that your password has been compromised, you can change it any time you like once you are logged on. 
+DirectoryINT.com secures your account with technical and procedural safeguards like secure socket layers (SSL) to protect your personal information against loss or theft, as well as from unauthorized access and disclosure. You must enter your email or username and password each time you want to access your account information and manage your account. Never share your account details with anyone. If you are concerned that your password has been compromised, you can change it any time you like once you are logged on. 
 
 **Notification of Changes**
 
