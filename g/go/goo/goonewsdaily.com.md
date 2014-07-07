@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the goonewsdaily.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210071447id_/http%3A//www.goonewsdaily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goonewsdaily.com privacy policy that was archived on 2014-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140707202648id_/http%3A//www.goonewsdaily.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy « goonewsdaily.com
+# Privacy Policy « Business & Financial News, Breaking US & International News | Goonewsdaily.com
 
 ## [Privacy Policy](http://www.goonewsdaily.com/privacy-policy/)
 
