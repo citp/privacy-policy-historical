@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dinkleboo.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625044313id_/http%3A//www.dinkleboo.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dinkleboo.com privacy policy that was archived on 2014-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140707062934id_/http%3A//www.dinkleboo.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Privacy Policy Personalised Kids Stuff
 
