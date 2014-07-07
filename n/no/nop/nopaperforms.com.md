@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nopaperforms.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214031155id_/https%3A//www.nopaperforms.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nopaperforms.com privacy policy that was archived on 2014-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140707041041id_/https%3A//www.nopaperforms.com/privacy.php) for the most accurate reproduction.*
 
 # NoPaperForms | Online Admissions | Enrollment Management
 
