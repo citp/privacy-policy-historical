@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ganges.com privacy policy that was archived on 2014-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140507083611id_/http%3A//www.ganges.com/help_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ganges.com privacy policy that was archived on 2014-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140707055825id_/http%3A//www.ganges.com/help_privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
