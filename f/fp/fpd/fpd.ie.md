@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fpd.ie privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208080642id_/http%3A//www.fpd.ie/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fpd.ie privacy policy that was archived on 2014-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140707135221id_/https%3A//www.fpd.ie/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Free Competitions | FPD.ie
 
