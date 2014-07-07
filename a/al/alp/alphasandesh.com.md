@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alphasandesh.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208053016id_/http%3A//www.alphasandesh.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alphasandesh.com privacy policy that was archived on 2014-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140707062717id_/http%3A//www.alphasandesh.com/privacy.php) for the most accurate reproduction.*
 
 # Mass email marketing company-Alphasandesh.com
 
