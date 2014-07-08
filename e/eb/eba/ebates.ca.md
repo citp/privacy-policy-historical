@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebates.ca privacy policy that was archived on 2014-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140426120800id_/http%3A//www.ebates.ca/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebates.ca privacy policy that was archived on 2014-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140708043555id_/http%3A//www.ebates.ca/help/privacy-policy) for the most accurate reproduction.*
 
 # Coupons, Promo Codes and Cash Back Savings - Ebates Canada
 
