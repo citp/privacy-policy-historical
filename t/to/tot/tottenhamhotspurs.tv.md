@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tottenhamhotspurs.tv privacy policy that was archived on 2014-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140504232749id_/http%3A//www.tottenhamhotspurs.tv/privacy-policy-1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tottenhamhotspurs.tv privacy policy that was archived on 2014-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140708195710id_/https%3A//www.shelfsidespurs.com/privacy-policy-1) for the most accurate reproduction.*
 
-# Privacy Policy | Tottenham Hotspur News and Supporters Forum
+# Privacy Policy - Tottenham Hotspur News and Supporters Forum
 
 **Privacy Policy for Tottenhamhotspurs.tv**
 
