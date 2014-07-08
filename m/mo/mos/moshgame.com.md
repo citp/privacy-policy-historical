@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moshgame.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331031155id_/https%3A//moshgame.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moshgame.com privacy policy that was archived on 2014-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140708181207id_/https%3A//moshgame.com/privacy-policy) for the most accurate reproduction.*
 
 # MoshGame – Play PC Games Online or through Full Speed Downloads
 
