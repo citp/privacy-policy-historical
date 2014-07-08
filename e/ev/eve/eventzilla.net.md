@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eventzilla.net privacy policy that was archived on 2014-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140417141311id_/http%3A//www.eventzilla.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eventzilla.net privacy policy that was archived on 2014-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140708210116id_/http%3A//www.eventzilla.net/privacy) for the most accurate reproduction.*
 
 # Online Event Registration, Management and Planning Software | Eventzilla
 
