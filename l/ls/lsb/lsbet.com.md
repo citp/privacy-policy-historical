@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lsbet.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328001540id_/http%3A//www.lsbet.com/en-GB/info/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lsbet.com privacy policy that was archived on 2014-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140708182628id_/https%3A//www.lsbet.com/en-GB/info/privacy_policy) for the most accurate reproduction.*
 
 # LSbet.com - Privacy Policy
 
