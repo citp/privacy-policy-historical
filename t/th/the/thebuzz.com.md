@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thebuzz.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331100131id_/http%3A//www.thebuzz.com/cc-common/privacystatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thebuzz.com privacy policy that was archived on 2014-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140708095656id_/http%3A//www.thebuzz.com/cc-common/privacystatement.html) for the most accurate reproduction.*
 
-# Privacy and Cookie Notice
+# Privacy and Cookie Notice | 94.5 The Buzz
 
-[Versión en Español](https://web.archive.org/web/20140213174129id_/http://www.thebuzz.com/articles/legal-477363/poltica-de-privacidad-y-cookies-11584650/)
+[Versión en Español](https://web.archive.org/web/20140725090043id_/http://www.thebuzz.com/articles/legal-477363/poltica-de-privacidad-y-cookies-11584650/)
 
 UPDATED AS OF: January 27, 2014
 
