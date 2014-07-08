@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freesamples.org privacy policy that was archived on 2013-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130521225236id_/http%3A//www.freesamples.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freesamples.org privacy policy that was archived on 2014-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140708175530id_/http%3A//www.freesamples.org/privacy) for the most accurate reproduction.*
 
 # Free Samples: » Privacy Policy
 
