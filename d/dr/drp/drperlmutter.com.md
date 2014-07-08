@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the drperlmutter.com privacy policy that was archived on 2013-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131012054321id_/http%3A//www.drperlmutter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drperlmutter.com privacy policy that was archived on 2014-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140709015931id_/http%3A//www.drperlmutter.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Dr. David Perlmutter MD
+# Privacy Policy | David Perlmutter M.D.
 
 ## General
 
