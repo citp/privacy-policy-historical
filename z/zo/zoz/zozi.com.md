@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zozi.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331073242id_/http%3A//www.zozi.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zozi.com privacy policy that was archived on 2014-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140708210253id_/https%3A//www.zozi.com/privacy_policy) for the most accurate reproduction.*
 
 # ZOZI
 
@@ -114,6 +114,6 @@ _ZOZI Headquarters_
 
 San Francisco, CA 94133
 
-1-888-969-4123
+1-866-267-3273
 
 [help@zozi.com](mailto:help@zozi.com)
