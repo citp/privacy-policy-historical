@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the channelone.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625162624id_/http%3A//www.channelone.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the channelone.com privacy policy that was archived on 2014-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140708034546id_/http%3A//www.channelone.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Channel One News | Non-Fiction, Common-Core Aligned News Video for Kids
 
