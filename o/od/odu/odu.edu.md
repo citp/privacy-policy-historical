@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the odu.edu privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625052723id_/http%3A//odu.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the odu.edu privacy policy that was archived on 2014-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140708132242id_/http%3A//www.odu.edu/privacy) for the most accurate reproduction.*
 
 # Internet Privacy Statement - Old Dominion University
 
