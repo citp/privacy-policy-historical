@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the myinvestorsbank.com privacy policy that was archived on 2013-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130222051130id_/https%3A//www.myinvestorsbank.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myinvestorsbank.com privacy policy that was archived on 2014-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140708102910id_/https%3A//www.myinvestorsbank.com/home/privacy) for the most accurate reproduction.*
 
 # Investors Bank - Privacy
 
 Rev. May, 2012
 
-The Board, management and staff of Investors Bancorp, MHC, and its affiliates and/or subsidiaries, Investors Bank and Investors Bank Mortgage Co., L.L.C. (hereafter referred to as Investors, we, us or our) highly value our customer and consumer relationships and are acutely aware of the trust and responsibilities these relationships entail. We are committed to offering our customers an attractive menu of financial products and services to help them meet their financial goals. In so doing, however, we are mindful of our obligation to ensure that the privacy of the sensitive personal and financial information entrusted to us is not compromised.
+The Board, management and staff of Investors Bancorp, MHC, and its affiliates and/or subsidiaries, Investors Bank and Investors Bank Mortgage Co., LLC (hereafter referred to as Investors, we, us or our) highly value our customer and consumer relationships and are acutely aware of the trust and responsibilities these relationships entail. We are committed to offering our customers an attractive menu of financial products and services to help them meet their financial goals. In so doing, however, we are mindful of our obligation to ensure that the privacy of the sensitive personal and financial information entrusted to us is not compromised.
 
-[Click Here for downloadable Privacy Policy and Opt-Out Form.](https://web.archive.org/home/fiFiles/static/documents/InvPrivNotRev5_2012.pdf)
+[Click Here for downloadable Privacy Policy and Opt-Out Form.](https://web.archive.org/home/fiFiles/static/documents/InvestorsPrivacyNotice_REV05-2013.pdf)
 
   
 
