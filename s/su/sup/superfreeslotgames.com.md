@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superfreeslotgames.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209215725id_/http%3A//www.superfreeslotgames.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superfreeslotgames.com privacy policy that was archived on 2014-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140708132620id_/http%3A//www.superfreeslotgames.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Super Free Slot Games
 
