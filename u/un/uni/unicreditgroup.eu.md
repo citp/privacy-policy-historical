@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unicreditgroup.eu privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326083924id_/https%3A//www.unicreditgroup.eu/en/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unicreditgroup.eu privacy policy that was archived on 2014-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140708180940id_/https%3A//www.unicreditgroup.eu/en/info/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - UniCredit
 
