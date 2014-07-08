@@ -1,0 +1,98 @@
+> *The following text is extracted and transformed from the schlage.com privacy policy that was archived on 2014-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140709012635id_/http%3A//www.schlage.com/en/home/privacy.html) for the most accurate reproduction.*
+
+# Privacy
+
+Allegion plc ("Allegion”) respects individual privacy and values the confidence of its customers, employees, vendors, consumers, business partners and others. Allegion strives to collect, store, process and distribute Personal information in a manner consistent with the laws of the countries in which it does business, and has a tradition of upholding the highest ethical standards in its business practices. Allegion abides by the Safe Harbor Principles developed by the U.S. Department of Commerce and the European Commission and the Frequently Asked Questions (FAQs) issued by the Department of Commerce on July 21, 2000. This Safe Harbor Data Protection and Privacy Policy (the "Policy") sets forth the privacy principles that Allegion follows with respect to transfers of Personal information anywhere in the world, including transfers from the European Economic Area (EEA) (which includes the twenty-seven member states of the European Union (EU) plus Iceland, Liechtenstein and Norway) to the United States.
+
+**I. SAFE HARBOR**
+
+The United States Department of Commerce and the European Commission have agreed on a set of data protection principles and frequently asked questions (the "Safe Harbor Principles") to enable US companies to satisfy the requirement under European Union law that adequate protection be given to Personal information transferred from the EU to the United States. The EEA also has recognized the US Safe Harbor as providing adequate data protection (OJ L 45, 15.2.2001, p.47). The United States Department of Commerce and the Federal Data Protection and Information Commissioner (FDPIC) of Switzerland have agreed on a similar set of principles and frequently asked questions to enable U.S. companies to satisfy the requirement under Swiss law that adequate protection be given to personal information transferred from Switzerland to the United States (U.S.-Swiss Safe Harbor Framework). Consistent with its commitment to protect personal privacy, Allegion adheres to the Safe Harbor Principles set forth in the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework.
+
+Allegion has a Global Data Protection Officer who assists in ensuring compliance with this Policy and data security issues. Allegion educates its employees concerning compliance with this Policy and has self-assessment procedures in place to assure compliance. Allegion's Global Data Protection Officer R.L. Berry and its Corporate Legal Team are available to any of its valued employees, customers, vendors, business partners or others who may have questions concerning this Policy or data security practices.
+
+Relevant contact information is provided herein.
+
+**II. SCOPE**
+
+This Policy applies to all Personal information received by Allegion in any format including electronic, paper or verbal. Allegion collects, stores and processes Personal information concerning current and former employees, as well as applicants for employment through its Internet websites, its intranet site, electronic mail and manually. Allegion is the sole owner of information it collects, stores and processes from current and former employees, applicants for employment, customers, vendors and others. Allegion will not sell or share this information with third parties in ways different than what is disclosed in this Data Protection Policy. On a global basis, Allegion will, and will cause its affiliates to, establish and maintain business procedures that are consistent with this Policy. Notwithstanding the foregoing, Allegion has separate policies governing the processing of employee personal data and external personal data in those countries that are members of the European Union. These policies are consistent with the European Directive 95/46/EC on the protection of personal data.
+
+Personal information collected, stored and processed by Allegion from employees and applicants for employment is maintained at Corporate or at Regional HQ, depending on the level of the position as well as the local office of the employee or applicant. Allegion collects Personal information for employment related purposes and legitimate human resource business reasons such as recruitment and staffing; payroll administration; absence monitoring; training and development; management planning; appraisal and promotion; union negotiation; production and publication of company address books and telephone and e-mail directories; production of employee Identity cards; monitoring the use of company resources; information to contact close relatives in case of emergency; filling employment positions; administration and operations of its benefit and compensation programs; meeting governmental reporting requirements; security, health and safety management; performance management; company network access; and authentication. Allegion does not request or gather information regarding political opinions, religion, philosophy or sexual preference. To the extent Allegion maintains information on trade union membership, medical health, race or ethnicity, Allegion will protect, secure and process that information in a manner consistent with this Policy and applicable law.
+
+Personal information collected by Allegion from prospective customers, consumers, vendors, business partners and others may be maintained at its corporate offices in Swords, Ireland, Carmel, Indiana or at other Allegion facilities, consistent with local legislation. Allegion collects Personal information for, among other things, legitimate business reasons such as customer service; product, warranty and claims administration; meeting governmental reporting and records requirements; maintenance of accurate accounts payable and receivable records; internal marketing research; safety and performance management; financial and sales data; and contact information. All Personal information collected by Allegion will be used for legitimate business purposes consistent with this Policy.
+
+**III. DEFINITIONS**
+
+For purposes of this Policy, the following definitions shall apply:
+
+"Agent" means any third party that processes Personal information provided by Allegion to perform tasks on behalf of or at the instruction of Allegion.
+
+"Allegion" means Allegion plc., Inc., its subsidiaries, divisions and groups, with brands such as Schlage and Steelcraft.
+
+"Personal information" means any information or set of information that identifies or could be used by or on behalf of Allegion to identify an individual. Personal information does not include information that is encoded or anonymized, or publicly available information that has not been combined with non-public Personal information.
+
+"Sensitive Personal information" means Personal information that reveals race, ethnic origin, trade union membership, political opinions, religious or philosophical beliefs or that concerns health or sex life. In addition, Allegion will treat as sensitive Personal information any information received from a third party where that third party treats and identifies the information as sensitive.
+
+**IV. PRIVACY PRINCIPLES**
+
+The privacy principles in this Policy are based on the seven Safe Harbor Principles.
+
+(1) NOTICE: Where Allegion collects Personal information directly from individuals, it will inform them about the purposes for which it collects, stores and processes Personal information about them, the types of non-agent third parties to which Allegion discloses that information, and the choices and means, if any, Allegion offers individuals for limiting the use and disclosure of their Personal information. Notice will be provided in clear and conspicuous language when individuals are first asked to provide Personal information to Allegion, or as soon as practicable thereafter, and in any event before Allegion uses the information for a purpose other than that for which it was originally collected. Allegion may disclose Personal information if required to do so by law or to protect and defend the rights or property of Allegion.
+
+(2) CHOICE: Allegion will offer individuals the opportunity to choose (opt-out) whether their Personal information is (a) to be disclosed to a non-agent third party, or (b) to be used for a purpose other than the purpose for which it was originally collected or subsequently authorized by the individual.
+
+For Sensitive Personal information, Allegion will give individuals the opportunity to affirmatively and explicitly (opt-in) consent to the disclosure of the information to a non-agent third party or the use of the information for a purpose other than the purpose for which it was originally collected or subsequently authorized by the individual.
+
+Allegion will provide individuals with reasonable mechanisms to exercise their choices should requisite circumstances arise.
+
+(3) DATA INTEGRITY: Allegion will use Personal information only in ways that are compatible with the purposes for which it was collected or subsequently authorized by the individual. Allegion will take reasonable steps to ensure that Personal information is relevant to its intended use, accurate, complete and current.
+
+(4) TRANSFERS TO AGENTS: Allegion will obtain assurances from its Agents that they will safeguard Personal information. Examples of appropriate assurances that may be provided by Agents include: a contract obligating the Agent to provide at least the same level of protection as is required by the relevant Safe Harbor Principles, being subject to EU Directive 95/46/EC (the EU Data Protection Directive), Safe Harbor certification by the Agent, or being subject to another European Commission adequacy finding (e.g., companies located in Switzerland). Where Allegion has knowledge that an Agent is using or disclosing Personal information in a manner contrary to this Policy, Allegion will take reasonable steps to prevent or stop the use or disclosure. Allegion holds it Agents accountable for maintaining the trust our employees and customers place in the company.
+
+(5) ACCESS AND CORRECTION: Upon request, Allegion will grant individuals reasonable access to Personal information that it holds about them. In addition, Allegion will take reasonable steps to permit individuals to correct, amend or delete information that is demonstrated to be inaccurate or incomplete. Any employees that desire to review or update their Personal information can do so by contacting their local Human Resources Representative.
+
+(6) SECURITY: Allegion will take reasonable precautions to protect Personal information in its possession from loss, misuse and unauthorized access, disclosure, alteration and destruction. Allegion protects data in many ways. Physical security is designed to prevent unauthorized access to database equipment and hard copies of sensitive Personal information. Electronic security measures continuously monitor access to our servers and provide protection from hacking or other unauthorized access from remote locations. This protection includes the use of firewalls, restricted access and encryption technology. Allegion limits access to Personal information and data to those persons in Allegion's organization, or as agents of Allegion, that have a specific business purpose for maintaining and processing such Personal information and data. Individuals who have been granted access to Personal information are aware of their responsibilities to protect the security, confidentiality and integrity of that information and have been provided training and instruction on how to do so.
+
+(7) ENFORCEMENT: Allegion will conduct compliance audits of its relevant privacy practices to verify adherence to this Policy and the US Department of Commerce Safe Harbor Principles. Any employee that Allegion determines is in violation of this Policy will be subject to disciplinary action up to and including termination of employment.
+
+**V. DISPUTE RESOLUTION**
+
+Any questions or concerns regarding the use or disclosure of Personal information should be directed to the Allegion Data Protection and Privacy Office at the address given below. Allegion will investigate and attempt to resolve complaints and disputes regarding use and disclosure of Personal information in accordance with the principles contained in this Policy. For complaints that cannot be resolved between Allegion and the complainant, Allegion has agreed to participate in the dispute resolution procedures of the panel established by the European Union data protection authorities and to cooperate and comply with the Swiss Federal Data Protection and Information Commissioner to resolve disputes pursuant to the Safe Harbor Principles.
+
+**VI. INTERNET PRIVACY**
+
+Allegion sees the Internet, intranets and the use of other technologies as valuable tools for communicating and interacting with consumers, employees, vendors, business partners and others. Allegion recognizes the importance of maintaining the privacy of Personal information collected through websites that it operates. Allegion's sole purpose for operating its websites is to provide information concerning products and services to the public. In general, visitors can reach Allegion on the Web without revealing any Personal information. Visitors on the Web may elect to voluntarily provide Personal information via Allegion websites but are not required to do so. Allegion collects information from visitors to the websites who voluntarily provide Personal information by filling out and submitting online questionnaires concerning feedback on the website, requesting information on products or services, or seeking employment. The Personal information voluntarily provided by website users is contact information limited to the user's name, home and/or business address, phone numbers and email address. Allegion collects this information so it may answer questions and forward requested information. Allegion does not sell this information.
+
+Allegion may also collect anonymous information concerning website users through the use of "cookies" in order to provide better customer service. "Cookies" are small files that websites place on users' computers to identify the user and enhance the website experience. Company personnel periodically audit Allegion’s commercial websites to determine what cookies are used on each. The cookies used are typically not intrusive and are not typically used to identify visitors personally. Visitors may set their browsers to provide notice before they receive a cookie, giving the opportunity to decide whether to accept the cookie. Visitors can also set their browsers to turn off cookies. Visitors can learn how to control or delete cookies used on Allegion’s websites by visiting [http://www.aboutcookies.org](http://www.aboutcookies.org/) for detailed guidance. If visitors do suppress the website cookies, however, some areas of Allegion websites may not function properly.
+
+The table below describes the cookies used on  _[www.Allegion.com](http://www.allegion.com/)_. To avoid these cookies, visitors can browse the website using their browser’s anonymous usage setting (called “Incognito” in Chrome, “InPrivate” for Internet Explorer, "Private Browsing" in Firefox and Safari.).
+
+**Session Cookies**
+
+We use a session cookie that lasts for the duration of your visit to our site and is used for load balancing.
+
+User data is all anonymous.
+
+**Persistent Cookies for Site Analytics**
+
+**Google Analytics  **– we use this to understand how the site is being used in order to improve the user experience. User data is all anonymous. | You can find out more about Google’s position on privacy as regards its analytics service at [Google](http://www.google.co.uk/intl/en/analytics/privacyoverview.html)  
+---|---  
+**Adobe Site Catalyst  **\- we use this to understand how the site is being used in order to improve the user experience. User data is all anonymous. | You can find out more about Adobe’s position on privacy as regards its analytics service at [Omniture](http://www.omniture.com/en/privacy/product)  
+  
+Few, if any, of Allegion's websites are directed toward children. Nevertheless, Allegion is committed to complying with applicable laws and requirements, such as the United States' Children's Online Privacy Protection Act ("COPPA").
+
+Allegion website users have the option to request that Allegion not use information previously provided, correct information previously provided, or remove information previously provided to Allegion. Those that would like to correct or suppress information they have provided to Allegion should forward such inquiries to:
+
+Allegion Privacy Inquiries 11819 N Pennsylvania Street  
+Carmel, IN, 46032  
+USA  
+
+
+Attention: R.L. Berry, Global Data Protection and Chief Privacy Officer
+
+The inquiries should include the individual's name, address, and other relevant contact information (phone number, email address). Allegion will use all reasonable efforts to honor such requests as quickly as possible.
+
+Allegion websites may contain links to other "non-Allegion" websites. Allegion assumes no responsibility for the content or the privacy policies and practices on those websites. Allegion encourages all users to read the privacy statements of those sites; their privacy practices may differ from those of Allegion.
+
+**VII. CHANGES TO THIS SAFE HARBOR PRIVACY POLICY**
+
+The practices described in this Policy are current Personal data protection policies as of December 1, 2013. Allegion reserves the right to modify or amend this Policy at any time consistent with the requirements of the Safe Harbor Principles. Appropriate notice will be given concerning such amendments.
