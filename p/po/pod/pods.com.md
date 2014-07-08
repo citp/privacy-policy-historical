@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pods.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209224954id_/http%3A//www.pods.com/Privacy_Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pods.com privacy policy that was archived on 2014-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140708182919id_/http%3A//www.pods.com/Privacy_Policy.aspx) for the most accurate reproduction.*
 
 # Online Privacy Policy for Self Storage and Portable Moving | PODS
 
@@ -23,6 +23,8 @@ You may opt-out of receiving any of our marketing or promotional emails at any t
 We do not sell or release your personal information to outside organizations. Third party service and product suppliers, however, may be engaged by PODS to perform a variety of functions, such as fulfilling orders, assisting with promotions, credit card processing, transportation services, conducting contests or services, providing technical services for our Website, etc. We may at times share information about you that is necessary for the outside company to provide the requested service. These outside companies may only use such information about you for the limited purpose of performing their services and may not use such information for any other purpose.
 
 We reserve the right to disclose your personally identifiable information as required by law if we believe that disclosure is necessary to protect our rights, for fraud detection or prevention, and/or to comply with a judicial proceeding, court order or other legal processes (e.g., subpoenas).
+
+By providing your cellular number, you agree to permit PODS to contact you using an automatic telephone dialing system and/or a prerecorded voice regarding matters relevant to your account, including, without limitation, estimated time of arrivals and pickups of container(s), status of your contract, accounts payable and gypsy moth documentation, as applicable, and any other operational or account matters.
 
 **Other Websites.** Many PODS operating areas are owned by franchisees that operate as independent businesses. Some franchisees also operate their own websites. This policy does not cover these other sites. We encourage franchisees to adopt similar privacy policies and practices as our privacy policy. However, please review the privacy policy of the other websites to understand their policies and practices regarding your personal information and how they will treat it.
 
