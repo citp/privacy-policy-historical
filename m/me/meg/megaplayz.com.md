@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the megaplayz.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331021347id_/https%3A//megaplayz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megaplayz.com privacy policy that was archived on 2014-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140708034737id_/https%3A//megaplayz.com/privacy-policy) for the most accurate reproduction.*
 
 # MegaPlayz – Online Full Version PC Game Play with Unlimited Bandwidth
 
