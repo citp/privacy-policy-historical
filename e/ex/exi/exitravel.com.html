@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the exitravel.com privacy policy that was archived on 2014-02-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140213221557id_/http%3A//www.exitnow.ca/about/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the exitravel.com privacy policy that was archived on 2014-07-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140708165628id_/http%3A//www.exitnow.ca/about/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 				<meta name="robots" content="">
@@ -15,11 +15,7 @@
 				<!-- Javascript -->
 				<script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NH93"></script><script>var recordLanguage='EN';</script>
 				<script src="/js/language-EN.js" type="text/javascript"></script>
-				  
-	
-
-										<script type="text/javascript" src="/js/clickandchat.js?domain=www.exitnow.ca"></script>			
-										
+				  				
 		
 				<!--[if lte IE 6]>
 				<style type="text/css" media="screen, tv, projection">@import url( /resources/css/ie6-menus.css );</style>
@@ -856,7 +852,9 @@
 			{
 				var optionList_EN = ["Choose Your Destination", "All Sun", "All Europe", "All USA", "All Canada"];
 				var optionList_FR = ["Choisissez votre destination", "Tout Sud", "Tout Euope", "Tout É.-U", "Tout Canada"];
-
+				var displayedAlready = [];
+				var prefill = "zone~SUN";
+				var selected = '';
 					$.ajax({ 
 						url: "/main/dropdown.php?departure=" + gateway + "&recordLanguage=EN",
 						type: "GET",
@@ -864,38 +862,65 @@
 						success: function(data)
 						{
 							var possibleLocations = $.parseJSON(data);
-							var optionList = "<option value=''>"+optionList_EN[0]+"</option>";
-							
-							if(possibleLocations["regions"]["SUN"]){
-								optionList += "<option  style='background: #e6ecf2;' value='zone~SUN'>"+optionList_EN[1]+"</option>";
-							}
-							if(possibleLocations["regions"]["EUR"]){
-								optionList += "<option  style='background: #e6ecf2;' value='zone~EUR'>"+optionList_EN[2]+"</option>";
-							}
-							if(possibleLocations["regions"]["USA"]){
-								optionList += "<option  style='background: #e6ecf2;' value='zone~USA'>"+optionList_EN[3]+"</option>";
-							}
-							if(possibleLocations["regions"]["CAN"]){
-								optionList += "<option  style='background: #e6ecf2;' value='zone~CAN'>"+optionList_EN[4]+"</option>";
-							}
-							
-					
-							for (var country in possibleLocations){
-								if (country != "regions"){
-									optionList += "<option style='background: Gainsboro' value='country~" + possibleLocations[country]["countryShort"] + "'>" + possibleLocations[country]["countryName"] + "</option>";
-									for (var city in possibleLocations[country]["cities"]){
-										if (typeof possibleLocations[country]["cities"][city] == 'function'){
+							if (typeof possibleLocations.regions === 'undefined'){
+								
+								$('#destination').html("<option value='' selected='selected'>No Options Available</option>");
+							} else {
+							//console.log(prefill);
+								if (prefill == ''){selected = 'selected="selected"';}else {selected = '';}
+								var optionList = "<option value='' "+selected+">"+optionList_EN[0]+"</option>";
+								if (prefill == 'zone~SUN'){selected = 'selected="selected"';}else {selected = '';}
+								if(possibleLocations["regions"]["SUN"]){
+									optionList += "<option "+selected+" style='background: #e6ecf2;' value='zone~SUN'>"+optionList_EN[1]+"</option>";
+								}
+								if (prefill == 'zone~EUR'){selected = 'selected="selected"';}else {selected = '';}
+								if(possibleLocations["regions"]["EUR"]){
+									optionList += "<option "+selected+" style='background: #e6ecf2;' value='zone~EUR'>"+optionList_EN[2]+"</option>";
+								}
+								if (prefill == 'zone~USA'){selected = 'selected="selected"';}else {selected = '';}
+								if(possibleLocations["regions"]["USA"]){
+									optionList += "<option "+selected+" style='background: #e6ecf2;' value='zone~USA'>"+optionList_EN[3]+"</option>";
+								}
+								if (prefill == 'zone~CAN'){selected = 'selected="selected"';}else {selected = '';}
+								if(possibleLocations["regions"]["CAN"]){
+									optionList += "<option "+selected+" style='background: #e6ecf2;' value='zone~CAN'>"+optionList_EN[4]+"</option>";
+								}
+								
+								
+								for (var country in possibleLocations){
+									// Next Line avoids displaying a country as an option twice. (United Kingdom and United States were doing this.)
+									if ($.inArray(possibleLocations[country]["countryShort"], displayedAlready) > -1){continue;}else {displayedAlready.push(possibleLocations[country]["countryShort"]);}
+									if (country != "regions"){
+										thisCountry = "country~" + possibleLocations[country]["countryShort"];
+										if (prefill == thisCountry){selected = 'selected="selected"';}else {selected = '';}
+										if (possibleLocations[country]["countryName"] == null){continue;}
+										
+										if (possibleLocations[country]["countryShort"] == "KY" && 'EN' == 'FR'){possibleLocations[country]["countryName"] = "Îles Caïmans";}
+										
+										optionList += "<option "+selected+" style='background: Gainsboro' value='country~" + possibleLocations[country]["countryShort"] + "'>" + possibleLocations[country]["countryName"] + "</option>";
+										
+										if (possibleLocations[country]["cities"].length > 1){ // Avoid Displaying 1 city with country -- comment this to restore.
+											for (var city in possibleLocations[country]["cities"]){
+												if (typeof possibleLocations[country]["cities"][city] == 'function'){
+												}
+												else{
+													thisCity = "city~" + possibleLocations[country]["cities"][city]["cityID"];
+													if (prefill == thisCity){selected = 'selected="selected"';}else {selected = '';}
+													cityName = $("<div/>").html(possibleLocations[country]["cities"][city]["cityName"]).text();
+													optionList += "<option "+selected+" value='city~" + possibleLocations[country]["cities"][city]["cityID"] + "'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;" + cityName + "</option>";
+												}
+											}
 										}
-										else{
-											cityName = $("<div/>").html(possibleLocations[country]["cities"][city]["cityName"]).text();
-											optionList += "<option value='city~" + possibleLocations[country]["cities"][city]["cityID"] + "'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;" + cityName + "</option>";
-										}
+										
 									}
 								}
+								
+								$('#destination').html(optionList);
 							}
-							
-							$('#destination').html(optionList);
 						},
+						// beforeSend:function(xhr) {
+							// xhr.overrideMimeType('text/html; charset=UTF-8');
+                        // },
 						error: function (XMLHttpRequest, textStatus, errorThrown)
 						{
 							
@@ -904,18 +929,22 @@
 			
 
 		$(document).ready(function(){
-			var gateway = "YVR";
-			
+			var gateway = "YQM";
+			makeEngDate();
 			getDropDown(gateway);
-		
+			
 			$("#gateway").change(function(){
 				getDropDown($("#gateway").val());
 			});
-			
+			destinationMemory("");
 		});
 	</script>
+		
+	
+
+	
  <div id="vacation-finder" style="z-index:9000;" class="new-styles">
-                <div class="top" style="z-index:8990;">
+				                <div class="top" style="z-index:8990;">
                 	<ul id="finder-tabs-EN">
                     	<li id="packages" onclick="displayFinder(&quot;packages&quot;)"><a href="#" id="packageFinderLink" class="selected"><span>Packages</span></a></li>
                         <li id="flights" onclick="displayFinder(&quot;flights&quot;)"><a href="#" id="flightFinderLink" class=""><span>Flights</span></a></li>
@@ -923,107 +952,154 @@
                     <form id="package-form" action="/packages/package.php?action=searchPackage" method="POST" name="packageForm">
 						<input type="hidden" value="true" name="setFromFlightSearch">
                    		<fieldset style="z-index:8980;">
-                        	<ol style="z-index:8970;">
-							<li>
-								<label for="">Leaving from:</label>  
-								<select name="gateway" id="gateway">	
-								<option value="">Choose Your Gateway:</option>				   
-																<option value="YXX">Abbotsford , BC (YXX)</option>
-																<option value="YBG">Bagotville, QC (YBG)</option>
-																<option value="YYC">Calgary, AB (YYC)</option>
-																<option value="YYG">Charlottetown, PE (YYG)</option>
-																<option value="YQQ">Comox Valley, BC (YQQ)</option>
-																<option value="YDF">Deer Lake, NF (YDF)</option>
-																<option value="YEG">Edmonton, AB (YEG)</option>
-																<option value="YMM">Fort McMurray, AB (YMM)</option>
-																<option value="YFC">Fredericton, NB (YFC)</option>
-																<option value="YQX">Gander, NF (YQX)</option>
-																<option value="YHZ">Halifax, NS (YHZ)</option>
-																<option value="YHM">Hamilton, ON (YHM)</option>
-																<option value="YKA">Kamloops, BC (YKA)</option>
-																<option value="YLW">Kelowna, BC (YLW)</option>
-																<option value="YKF">Kitchener, ON (YKF)</option>
-																<option value="YXU">London, ON (YXU)</option>
-																<option value="YQM">Moncton, NB (YQM)</option>
-																<option value="YUL">Montreal, QC (YUL)</option>
-																<option value="YOW">Ottawa, ON (YOW)</option>
-																<option value="YQB">Quebec City, QC (YQB)</option>
-																<option value="YQR">Regina, SK (YQR)</option>
-																<option value="YSJ">Saint John, NB (YSJ)</option>
-																<option value="YYT">Saint Johns, NF (YYT)</option>
-																<option value="YXE">Saskatoon, SK (YXE)</option>
-																<option value="YAM">Sault Ste-Marie, ON (YAM)</option>
-																<option value="YSB">Sudbury, ON (YSB)</option>
-																<option value="YQY">Sydney, NS (YQY)</option>
-																<option value="YQT">Thunder Bay, ON (YQT)</option>
-																<option value="YTS">Timmins, ON (YTS)</option>
-																<option value="YYZ">Toronto, ON (YYZ)</option>
-																<option value="YVR" selected="">Vancouver, BC (YVR)</option>
-																<option value="YYJ">Victoria, BC (YYJ)</option>
-																<option value="YQG">Windsor, ON (YQG)</option>
-																<option value="YWG">Winnipeg, MB (YWG)</option>
+                        	<ol style="z-index:8970;padding-bottom:10px;background:#497eaf;margin-left:-7px;margin-bottom:0px;padding-left:10px;width:204px;">
+							<li id="gatewayPick">
+								<label for="">Leaving from:</label>
+								<select name="gateway" id="gateway">
+								<option value="">Choose Your Gateway:</option>		
+								
+								
+																<option value="YXX">Abbotsford, BC, Canada (YXX)</option>
+																<option value="YBG">Bagotville, QC, Canada (YBG)</option>
+																<option value="BGR">Bangor, Maine, USA (BGR)</option>
+																<option value="BLI">Bellingham, Washington, USA (BLI)</option>
+																<option value="YBR">Brandon, MB, Canada (YBR)</option>
+																<option value="BUF">Buffalo, New York, USA (BUF)</option>
+																<option value="BTV">Burlington, Vermont, USA (BTV)</option>
+																<option value="YYC">Calgary, AB, Canada (YYC)</option>
+																<option value="YYG">Charlottetown, PE, Canada (YYG)</option>
+																<option value="YQQ">Comox, BC, Canada (YQQ)</option>
+																<option value="YXC">Cranbrook, BC, Canada (YXC)</option>
+																<option value="YDF">Deer Lake, NL, Canada (YDF)</option>
+																<option value="DTW">Detroit - Detroit Metropolitan, Michigan, USA (DTW)</option>
+																<option value="YEG">Edmonton, AB, Canada (YEG)</option>
+																<option value="YMM">Fort McMurray, AB, Canada (YMM)</option>
+																<option value="YXJ">Fort St. John BC (YXG), Canada</option>
+																<option value="YFC">Fredericton, NB, Canada (YFC)</option>
+																<option value="YQX">Gander, NL, Canada (YQX)</option>
+																<option value="YQU">Grande Prairie, AB, Canada (YQU)</option>
+																<option value="YHZ">Halifax, NS, Canada (YHZ)</option>
+																<option value="YHM">Hamilton, ON, Canada (YHM)</option>
+																<option value="YKA">Kamloops, BC, Canada (YKA)</option>
+																<option value="YLW">Kelowna, BC, Canada (YLW)</option>
+																<option value="YGK">Kingston, ON, Canada (YGK)</option>
+																<option value="YKF">Waterloo Regional, ON, Canada (YKF)</option>
+																<option value="YQL">Lethbridge, AB, Canada (YQL)</option>
+																<option value="YXU">London, ON, Canada (YXU)</option>
+																<option value="YXH">Medicine Hat, AB, Canada (YXH)</option>
+																<option value="YQM" selected="">Moncton, NB, Canada (YQM)</option>
+																<option value="YUL">Montreal - Trudeau, QC, Canada (YUL)</option>
+																<option value="YCD">Nanaimo BC (YCD), Canada</option>
+																<option value="YYB">North Bay, ON, Canada (YYB)</option>
+																<option value="YOW">Ottawa, ON, Canada (YOW)</option>
+																<option value="YYF">Penticton, BC, Canada (YYF)</option>
+																<option value="YXS">Prince George, BC, Canada (YXS)</option>
+																<option value="YQB">Quebec City, QC, Canada (YQB)</option>
+																<option value="YQR">Regina, SK, Canada (YQR)</option>
+																<option value="YUY">Rouyn-Noranda, QC, Canada (YUY)</option>
+																<option value="YXE">Saskatoon, SK, Canada (YXE)</option>
+																<option value="YAM">Sault Ste. Marie, ON, Canada (YAM)</option>
+																<option value="YZV">Sept-Îles, QC, Canada (YZV)</option>
+																<option value="YSJ">St. John, NB, Canada (YSJ)</option>
+																<option value="YYT">St. Johns, NL, Canada (YYT)</option>
+																<option value="YSB">Sudbury, ON, Canada (YSB)</option>
+																<option value="YQY">Sydney, NS, Canada (YQY)</option>
+																<option value="YXT">Terrace, BC, Canada (YXT)</option>
+																<option value="YQT">Thunder Bay, ON, Canada (YQT)</option>
+																<option value="YTS">Timmins, ON, Canada (YTS)</option>
+																<option value="YYZ">Toronto - Pearson, ON, Canada (YYZ)</option>
+																<option value="YTZ">Toronto - City Centre, ON, Canada (YTZ)</option>
+																<option value="YVO">Val d'Or, QC, Canada (YVO)</option>
+																<option value="YVR">Vancouver, BC, Canada (YVR)</option>
+																<option value="YYJ">Victoria, BC, Canada (YYJ)</option>
+																<option value="YWK">Wabush, NL, Canada (YWK)</option>
+																<option value="YXY">Whitehorse, YT, Canada (YXY)</option>
+																<option value="YQG">Windsor, ON, Canada (YQG)</option>
+																<option value="YWG">Winnipeg, MB, Canada (YWG)</option>
+																<option value="YZF">Yellowknife, NT, Canada (YZF)</option>
 																</select>
 						   </li>
 
 
+
+
 							<li id="destinationPick">
                                     <label for="">Going to:</label>
-                                    <select name="destination" id="destination"><option value="">Choose Your Destination</option><option style="background: #e6ecf2;" value="zone~SUN">All Sun</option><option style="background: #e6ecf2;" value="zone~EUR">All Europe</option><option style="background: #e6ecf2;" value="zone~USA">All USA</option><option style="background: Gainsboro" value="country~AG">Antigua and Barbuda</option><option value="city~1112">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Antigua</option><option style="background: Gainsboro" value="country~AW">Aruba</option><option value="city~1212">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Aruba</option><option style="background: Gainsboro" value="country~BS">Bahamas</option><option value="city~1234">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Exuma</option><option value="city~1233">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Freeport</option><option value="city~1243">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nassau</option><option style="background: Gainsboro" value="country~BB">Barbados</option><option value="city~1278">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Barbados</option><option style="background: Gainsboro" value="country~BM">Bermuda</option><option value="city~1317">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bermuda</option><option style="background: Gainsboro" value="country~KY">Cayman Islands</option><option value="city~1731">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Grand Cayman</option><option style="background: Gainsboro" value="country~CR">Costa Rica</option><option value="city~2237">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Liberia</option><option value="city~2247">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;San Jose</option><option style="background: Gainsboro" value="country~CU">Cuba</option><option value="city~19943">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cayo Coco</option><option value="city~2313">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cayo Santa Maria</option><option value="city~2300">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Havana</option><option value="city~2298">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Holguin</option><option value="city~2316">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Varadero</option><option style="background: Gainsboro" value="country~DO">Dominican Republic</option><option value="city~2363">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;La Romana</option><option value="city~2365">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Puerto Plata</option><option value="city~2362">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Punta Cana</option><option value="city~2367">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Samana</option><option value="city~2369">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Santo Domingo</option><option style="background: Gainsboro" value="country~FR">France</option><option value="city~2663">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Paris</option><option style="background: Gainsboro" value="country~DE">Germany</option><option value="city~2826">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Frankfurt</option><option style="background: Gainsboro" value="country~GD">Grenada</option><option value="city~2973">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Grenada</option><option style="background: Gainsboro" value="country~GP">Guadeloupe</option><option value="city~2978">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Guadeloupe</option><option style="background: Gainsboro" value="country~IE">Ireland</option><option value="city~3485">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dublin</option><option style="background: Gainsboro" value="country~JM">Jamaica</option><option value="city~3581">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kingston</option><option value="city~3583">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Montego Bay</option><option style="background: Gainsboro" value="country~MX">Mexico</option><option value="city~4080">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cancun</option><option value="city~4095">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cozumel</option><option value="city~4104">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Huatulco</option><option value="city~4106">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ixtapa/Zihuatanejo</option><option value="city~4114">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Los Cabos</option><option value="city~19942">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mayan Riviera</option><option value="city~4118">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mazatlan</option><option value="city~4138">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Puerto Vallarta</option><option style="background: Gainsboro" value="country~NL">Netherlands</option><option value="city~4352">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Amsterdam</option><option style="background: Gainsboro" value="country~AN">Netherlands Antilles</option><option value="city~4398">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;St. Maarten</option><option style="background: Gainsboro" value="country~PR">Puerto Rico</option><option value="city~5166">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;San Juan</option><option style="background: Gainsboro" value="country~LC">St Lucia</option><option value="city~5327">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;St Lucia</option><option style="background: Gainsboro" value="country~TC">Turks and Caicos</option><option value="city~5894">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Turks &amp; Caicos</option><option style="background: Gainsboro" value="country~GB">United Kingdom</option><option value="city~9172">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;London</option><option style="background: Gainsboro" value="country~GB">United Kingdom</option><option value="city~9227">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Glasgow</option><option style="background: Gainsboro" value="country~US">United States</option><option value="city~8075">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chicago</option><option value="city~7905">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fort Lauderdale</option><option value="city~7906">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fort Myers</option><option value="city~7989">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Honolulu</option><option value="city~7999">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kauai</option><option value="city~7991">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Kona</option><option value="city~8579">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Las Vegas</option><option value="city~7774">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Los Angeles</option><option value="city~7990">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Maui</option><option value="city~7922">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Miami</option><option value="city~8793">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Myrtle Beach</option><option value="city~7925">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Naples</option><option value="city~8611">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;New York</option><option value="city~7928">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Orlando</option><option value="city~7795">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Palm Springs</option><option value="city~7700">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Phoenix</option><option value="city~7811">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;San Diego</option><option value="city~7813">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;San Francisco</option><option value="city~7939">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;St. Petersburg-Clearwater</option></select>
+                                    <select name="destination" id="destination">
+<option value="">Choose Your Destination</option>
+<!-- <option style="background: #e6ecf2 none repeat scroll 0% 0%; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy:  continuous;" value="allDestinations~0">All Destinations</option> -->
+<option selected="" style="background: #e6ecf2;" value="zone~SUN">All Sun</option>
+<option style="background: #e6ecf2;" value="zone~EUR">All Europe</option>
+<option style="background: #e6ecf2;" value="zone~USA">All USA</option>
+<option style="background: #e6ecf2;" value="zone~CAN">All Canada</option>
+</select>
  </li>
 				
 					<li class="calendar" id="datePick" style="z-index:8960;">
 						<label for="" class="block">Departing On:</label>
-						<input class="date hasDatepicker" name="packDepartDateText" type="text" id="packDepartDateText" onfocus="this.select();" style="width: 44px;" value="mm/dd"><img class="ui-datepicker-trigger" src="/style/images/hotels/calendar.png" alt="..." title="...">                                   
+						<input class="date hasDatepicker" name="packDepartDateText" type="text" id="packDepartDateText" onfocus="this.select();" onchange="makeEngDate();" style="width: 44px;" value="DDMMM"><img class="ui-datepicker-trigger" src="/style/images/hotels/calendar.png" alt="..." title="...">                                   
+						<input type="hidden" name="engDateVal" id="engDateVal" value="DDMMM">
 					</li>
 
-                         <li id="flexPick"><label for="duration">Flexibility:</label>
-	
-                         			
-                                        <select name="flexibility" id="flexibility">
-																				 <option value=""> Choose Your Flexibility</option>
-															     				<option value="0">Exact Date</option>
-                                        <option value="1">+/- 1 day</option>
-                                        <option value="2">+/- 2 days</option>
-                                        <option value="3">+/- 3 days</option>
-                                    </select>
-                                </li><li>
-                                	<label for="duration">Duration:</label>
-                                        <select name="duration" id="duration">
-                             									
-										
-									<option value="2-6">2-6 Days</option>
-									<option value="7-8">7-8 Days</option>
-									<option value="9-13">9-13 Days</option>
-									<option value="14+">14+ Days</option>
-										
-									
-	
-                                    </select>
-                                </li>
+                         <li id="flexPick"><label for="duration">Flexibility:</label>   
+							<select name="flexibility" id="flexibility">
+								<option selected="selected" value="none"> Choose Your Flexibility</option>
+								<option value="0">Exact Date</option>
+								<option value="1">+/- 1 day</option>
+								<option value="2">+/- 2 days</option>
+								<option value="3">+/- 3 days</option>
+							</select>
+						</li>
+						<li style="clear:both;margin:0;padding:0;margin:-20px 0 0 0;"></li>
+						
+						</ol>
+											<ol style="background:#6497c4;margin-left:-10px;padding-left:10px;margin-bottom:0px;padding-bottom:15px;border-top:1px solid #8cb3d5;">
+												
+						<li id="durationPick">
+							<label for="duration">Duration:</label>
+							   <select name="duration" id="duration">
+								<option value="2-6">2-6 days</option>
+								<option selected="selected" value="7-8">7-8 days</option>
+								<option value="9-13">9-13 days</option>
+								<option value="14+">14+ days</option>				
+							</select>
+						</li>
 
-                                <li id="starrating">
-                                	<label for="">Star Rating:</label>
-                                    <select name="starRating" id="starRating">
-                                   <option value="Any">Any star rating</option>
-                                   <option value="3 or more">3 star or higher</option> 
-					<option value="4 or more">4 star or higher</option>
-					<option value="5 or more">5 star or higher</option>  
-                                    </select>
-                                </li>
-
-					<li id="mealplan">
-						<label for="">Meal Plan:</label>
-						<select name="mealPlan" id="mealPlan">
-					   <option value="Any">Any</option>
-					   <option value="Some Meals">Some Meals</option> 
-						<option value="All Inclusive">All Inclusive</option>
-						<option value="No Meals">No Meals</option>  
-										</select>
-									</li>
-									<li class="hr"></li>
-									<li id="adults">
+						<li id="mealplan">
+							<label for="">Meal Plan:</label>
+							<select name="mealPlan" id="mealPlan">
+								<option value="Any">Any</option>
+								<option value="Some Meals">Some Meals</option> 
+								<option selected="selected" value="All Inclusive">All Inclusive</option>
+								<option value="No Meals">No Meals</option>  
+							</select>
+						</li>
+					
+						<li id="starrating">
+							<label for="">Star Rating:</label>
+							<select name="starRating" id="starRating">
+								<option value="Any">Any star rating</option>
+								<option selected="selected" value="3 or more">3 star or higher</option> 
+								<option value="4 or more">4 star or higher</option>
+								<option value="5 or more">5 star or higher</option>  
+							</select>
+						</li>
+						<li id="rooms">
+							<label>Rooms:</label>
+							<select name="numberOfRooms" id="numberOfRooms" onchange="childCheck();">
+								
+								
+								
+								
+								
+								
+							<option value="1">1 </option><option value="2">2 </option></select>
+						</li>
+					
+								
+						<li id="adults" style="margin-bottom:7px;">
 							<label>Adults:</label>
-							<select name="numberOfAdults" id="numberOfAdults" onchange="setFormRooms()">
+							<select name="numberOfAdults" id="numberOfAdults" onchange="adultCheck();">
 								<option>1</option>
 								<option selected="selected">2</option>
 								<option>3</option>
@@ -1047,120 +1123,144 @@
 					 
 						<li id="childAgeLi[1]" style="display:none;border-top:1px solid #4378ab;margin-top:7px;padding-top:5px;" class="special-child">
 							<label>	Child Age:<em> (at time of travel) </em></label>
-							<select name="childAge[1]">		
-															<option value="2">2</option>
-															<option value="3">3</option>
-															<option value="4">4</option>
-															<option value="5">5</option>
-															<option value="6">6</option>
-															<option value="7">7</option>
-															<option value="8">8</option>
-															<option value="9">9</option>
-															<option value="10">10</option>
-															<option value="11">11</option>
-															<option value="12">12</option>
-															<option value="13">13</option>
-															<option value="14">14</option>
-															<option value="15">15</option>
-															<option value="16">16</option>
-															<option value="17">17</option>
+							<select name="childAge[1]" class="childAgeSelect" onchange="childCheck()">	
+								
+																	<option value="" selected="selected"></option>
+										<option value="1">INF</option>
+																		<option value="2">2</option>
+																	<option value="3">3</option>
+																	<option value="4">4</option>
+																	<option value="5">5</option>
+																	<option value="6">6</option>
+																	<option value="7">7</option>
+																	<option value="8">8</option>
+																	<option value="9">9</option>
+																	<option value="10">10</option>
+																	<option value="11">11</option>
+																	<option value="12">12</option>
+																	<option value="13">13</option>
+																	<option value="14">14</option>
+																	<option value="15">15</option>
+																	<option value="16">16</option>
+																	<option value="17">17</option>
 														</select>
-							<a href="#" id="underEleven1" class="childInfoLink" style="font-size:11px;color:#eb580f;">Children 12 and older?</a>
+							<!--
+							<a href="#" id='underEleven1' class='childInfoLink' style="font-size:11px;color:#eb580f;">Children 12 and older?</a>
+							-->
 						</li>
 					 
 						<li id="childAgeLi[2]" style="display:none;" class="special-child">
 							<label>	Child Age:<em> (at time of travel) </em></label>
-							<select name="childAge[2]">		
-															<option value="2">2</option>
-															<option value="3">3</option>
-															<option value="4">4</option>
-															<option value="5">5</option>
-															<option value="6">6</option>
-															<option value="7">7</option>
-															<option value="8">8</option>
-															<option value="9">9</option>
-															<option value="10">10</option>
-															<option value="11">11</option>
-															<option value="12">12</option>
-															<option value="13">13</option>
-															<option value="14">14</option>
-															<option value="15">15</option>
-															<option value="16">16</option>
-															<option value="17">17</option>
+							<select name="childAge[2]" class="childAgeSelect" onchange="childCheck()">	
+								
+																	<option value="" selected="selected"></option>
+										<option value="1">INF</option>
+																		<option value="2">2</option>
+																	<option value="3">3</option>
+																	<option value="4">4</option>
+																	<option value="5">5</option>
+																	<option value="6">6</option>
+																	<option value="7">7</option>
+																	<option value="8">8</option>
+																	<option value="9">9</option>
+																	<option value="10">10</option>
+																	<option value="11">11</option>
+																	<option value="12">12</option>
+																	<option value="13">13</option>
+																	<option value="14">14</option>
+																	<option value="15">15</option>
+																	<option value="16">16</option>
+																	<option value="17">17</option>
 														</select>
-							<a href="#" id="underEleven2" class="childInfoLink" style="font-size:11px;color:#eb580f;">Children 12 and older?</a>
+							<!--
+							<a href="#" id='underEleven2' class='childInfoLink' style="font-size:11px;color:#eb580f;">Children 12 and older?</a>
+							-->
 						</li>
 					 
 						<li id="childAgeLi[3]" style="display:none;" class="special-child">
 							<label>	Child Age:<em> (at time of travel) </em></label>
-							<select name="childAge[3]">		
-															<option value="2">2</option>
-															<option value="3">3</option>
-															<option value="4">4</option>
-															<option value="5">5</option>
-															<option value="6">6</option>
-															<option value="7">7</option>
-															<option value="8">8</option>
-															<option value="9">9</option>
-															<option value="10">10</option>
-															<option value="11">11</option>
-															<option value="12">12</option>
-															<option value="13">13</option>
-															<option value="14">14</option>
-															<option value="15">15</option>
-															<option value="16">16</option>
-															<option value="17">17</option>
+							<select name="childAge[3]" class="childAgeSelect" onchange="childCheck()">	
+								
+																	<option value="" selected="selected"></option>
+										<option value="1">INF</option>
+																		<option value="2">2</option>
+																	<option value="3">3</option>
+																	<option value="4">4</option>
+																	<option value="5">5</option>
+																	<option value="6">6</option>
+																	<option value="7">7</option>
+																	<option value="8">8</option>
+																	<option value="9">9</option>
+																	<option value="10">10</option>
+																	<option value="11">11</option>
+																	<option value="12">12</option>
+																	<option value="13">13</option>
+																	<option value="14">14</option>
+																	<option value="15">15</option>
+																	<option value="16">16</option>
+																	<option value="17">17</option>
 														</select>
-							<a href="#" id="underEleven3" class="childInfoLink" style="font-size:11px;color:#eb580f;">Children 12 and older?</a>
+							<!--
+							<a href="#" id='underEleven3' class='childInfoLink' style="font-size:11px;color:#eb580f;">Children 12 and older?</a>
+							-->
 						</li>
 					 
 						<li id="childAgeLi[4]" style="display:none;" class="special-child">
 							<label>	Child Age:<em> (at time of travel) </em></label>
-							<select name="childAge[4]">		
-															<option value="2">2</option>
-															<option value="3">3</option>
-															<option value="4">4</option>
-															<option value="5">5</option>
-															<option value="6">6</option>
-															<option value="7">7</option>
-															<option value="8">8</option>
-															<option value="9">9</option>
-															<option value="10">10</option>
-															<option value="11">11</option>
-															<option value="12">12</option>
-															<option value="13">13</option>
-															<option value="14">14</option>
-															<option value="15">15</option>
-															<option value="16">16</option>
-															<option value="17">17</option>
+							<select name="childAge[4]" class="childAgeSelect" onchange="childCheck()">	
+								
+																	<option value="" selected="selected"></option>
+										<option value="1">INF</option>
+																		<option value="2">2</option>
+																	<option value="3">3</option>
+																	<option value="4">4</option>
+																	<option value="5">5</option>
+																	<option value="6">6</option>
+																	<option value="7">7</option>
+																	<option value="8">8</option>
+																	<option value="9">9</option>
+																	<option value="10">10</option>
+																	<option value="11">11</option>
+																	<option value="12">12</option>
+																	<option value="13">13</option>
+																	<option value="14">14</option>
+																	<option value="15">15</option>
+																	<option value="16">16</option>
+																	<option value="17">17</option>
 														</select>
-							<a href="#" id="underEleven4" class="childInfoLink" style="font-size:11px;color:#eb580f;">Children 12 and older?</a>
+							<!--
+							<a href="#" id='underEleven4' class='childInfoLink' style="font-size:11px;color:#eb580f;">Children 12 and older?</a>
+							-->
 						</li>
 													<li style="height:1px;display:none;" class="last" id="kidBottomBorder">&nbsp;</li>
-								<li id="infants">
-									<label>Infants:</label>
-								  
-									<select name="numberOfInfants" id="numberOfInfants">
-										<option selected="selected">0</option>
-										<option>1</option>
-										<option>2</option>
-										<option style="display: none;">3</option>
-										<option style="display: none;">4</option>
-									</select>
-								</li>					
-								<li id="rooms">
-									<label>Rooms:</label>
-									<select name="numberOfRooms" id="numberOfRooms">
-										
-										
-										
-										
-										
-										
-									<option value="1">1 </option><option value="2">2 </option></select>
+								
+																<li style="margin-bottom:10px;margin-top:0px;position:relative;height:15px;">
+									<label>Max $ Per Person&nbsp;(Including Tax)</label>
+									<input style="float:left;width: 82px;text-align:right;color: #666666;font-family: &quot;Arial&quot;; font-size: 12px; padding: 3px;" type="text" value="" name="budget">
+									<div class="clear"></div>
 								</li>
+																<li style="margin-bottom:10px;position:relative;height:15px;">
+									<input type="checkbox" name="directFlight" style="float:left;margin-left:0px;" onchange="directFlightCheck()" id="directFlightCB">
+									<label style="">Direct Flights Only</label>
+									<div class="clear"></div>
+								</li>
+								<li style="margin-bottom:10px;position:relative;height:15px;" id="adultsOnlyLi">
+									<input type="checkbox" name="adultsOnly" style="float:left;margin-left:0px;" onchange="adultSearch()" id="adultsOnlyCB">
+									<label style="">Adult Resorts Only</label>
+									<div class="clear"></div>
+								</li>
+																<li class="hr" style="margin-top:-6px;margin-bottom:-5px;"></li>
+								<li class="secondary-message" id="manyChildrenRadio" style="display:none;">
+									
+									<input type="radio" name="manyChildrenSearch" value="fitOnly" checked="">
+									<label>Only show where we fit in one room.</label>
+									<input type="radio" name="manyChildrenSearch" value="highlight">		
+									<label>Show all hotels and highlight where we fit.</label>
+									<div class="clear"></div>
+								</li>
+								
                                 <li class="center">
-                                	<button onclick="validate('package');return false;" type="submit" class="orange-button">Start Searching!</button>
+                                	<button onclick="validate('package');return false;" id="startSearch" class="orange-button">Start Searching!</button>
                                 </li>
                             </ol>
                         </fieldset>
@@ -1171,8 +1271,8 @@
                         	<ol style="z-index:8930;">
                             	<li style="z-index:8920;">
                                 	<label for="">Departing from:</label>
-                                       <input id="departSelector" name="departSelector" class="txt" autocomplete="OFF" onfocus="cityListOnFocus(this,event);" onkeyup="return cityListOnKeyUp(this,event,'up');" onkeydown="return cityListOnKeyUp(this,event,'down');" onblur="cityListOnBlur(this,event);" type="text" value="Vancouver, BC, Canada (YVR)">
-					<input name="gatewayCode" id="gatewayCode" type="hidden" onblur="blurRestrictedCheck()" value="YVR">                        
+                                       <input id="departSelector" name="departSelector" class="txt" autocomplete="OFF" onfocus="cityListOnFocus(this,event);" onkeyup="return cityListOnKeyUp(this,event,'up');" onkeydown="return cityListOnKeyUp(this,event,'down');" onblur="cityListOnBlur(this,event);" type="text" value="Moncton, NB, Canada (YQM)">
+					<input name="gatewayCode" id="gatewayCode" type="hidden" onblur="blurRestrictedCheck()" value="YQM">                        
                         		<div style="display:none;z-index:8910;" class="listbox" id="departAirList"></div> 
                    		 	<div id="departSearchDesc" class="prompt-box" style="display: none;z-index:8900;">
                            			 <h5><a class="float-right" href="#">Close</a>Enter the first 3 characters of:</h5>
@@ -1202,19 +1302,17 @@
 					
                                 	<label for="" class="block">Departure date:</label>
                                     <input class="date hasDatepicker" name="departureDateText" type="text" id="departureDateText" onfocus="this.select();" value="mm/dd"><img class="ui-datepicker-trigger" src="/style/images/hotels/calendar.png" alt="..." title="...">                                   
-					 <!--<em class="calendar" onClick="dateSelector('departure','2014','02');">mm/dd</em>
+					 <!--<em class="calendar" onClick="dateSelector('departure','2014','07');">mm/dd</em>
 					<input name="departureDate" type="hidden" id="departureDate" value=''/>-->
 					<div id="dateTable" class="date-box" style="display:none;z-index:8830;"></div>
                                 </li>				
                                 <li id="datePickFlightArival" class="calendar" style="z-index:8820;">
                                 	<label for="" class="block">Return date:</label>        
                                     <input class="date hasDatepicker" name="arrivalDateText" type="text" id="arrivalDateText" onfocus="this.select();" value="mm/dd"><img class="ui-datepicker-trigger" src="/style/images/hotels/calendar.png" alt="..." title="...">
-                                 	 <!--<em class="calendar" onClick="dateSelector('arrival','2014','02');" >mm/dd</em>
+                                 	 <!--<em class="calendar" onClick="dateSelector('arrival','2014','07');" >mm/dd</em>
  					<input name="ArrivalDate" type="hidden" id="ArrivalDate" value=''/>-->
                 			    <div id="dateArrivalTable" class="date-box" style="display:none;z-index:8810;"></div>
-					</li>                                
-                
-                           
+					</li>                                             
                     <li>
                     	<label># of Adults:</label>
 						<select name="numberOfAdults" id="numberOfAdults">
@@ -1226,7 +1324,7 @@
   							<option>6</option>
                         </select>
                     </li>
-                    <li>
+					                    <li>
                     	<label># of Children: <em>Age 2 to 11 yrs</em></label>
                        
 						<select name="numberOfChildren" id="numberOfChildren" onchange="toggleChildAgeDiv(this.value, &quot;flights&quot;)">
@@ -1236,8 +1334,8 @@
 							<option value="3">3</option>
 							<option value="4">4</option>
                         </select>
-                    </li>
-
+						                    </li>
+					
 					 
 						<li id="childAge[1]" style="display:none">
 							<label>	Child Age:<em> (at time of travel) </em></label>
@@ -1311,12 +1409,13 @@
 							<option>3</option>
 							<option>4</option>
                         </select>
+						<div class="clear"></div>
                     </li>
 	                <li class="center">
 						<button type="submit" onclick="validate('flight');return false;" class="orange-button">Start Searching!</button>
-					</li>           
-                </ol>
-
+					</li>  
+					                </ol>
+			
 			
                         </fieldset>
                     </form>
@@ -1324,13 +1423,11 @@
                 <div class="bottom"><!-- --></div><!--end bottom-->
             </div><!--end vacation-finder-->
 		<script type="text/javaScript">
-			setFormRooms();
-			limitInfantsToAdults($('#numberOfAdults').val());
+
 			function setFormRooms() {
-				var roomText=""; // Room
-				var roomsText="";	// Rooms				
+				var roomText=""; 
+				var roomsText="";		
 			    var rooms = document.packageForm.numberOfRooms; 
-			   // var total = document.packageForm.numberOfAdults.value;
 				var total = $('#numberOfAdults').val();
 				   
 				
@@ -1374,16 +1471,21 @@
 					//alert(roomsNotValid);
 				}
 			}
-			$('#numberOfAdults').change(function(){	
-				limitInfantsToAdults(this.value);
-			});
-			function limitInfantsToAdults(adultCount){
-				$("#numberOfInfants option:gt("+adultCount+")").hide();
-				$("#numberOfInfants option:lt("+adultCount+"), #numberOfInfants option[value="+adultCount+"]").show();
-			}
+			
+			// Changed due to infants merge with children
+			// $('#numberOfAdults').change(function(){	
+				// limitInfantsToAdults(this.value);
+			// });
+			// function limitInfantsToAdults(adultCount){
+				// $("#numberOfInfants option:gt("+adultCount+")").hide();
+				// $("#numberOfInfants option:lt("+adultCount+"), #numberOfInfants option[value="+adultCount+"]").show();
+			// }
 			function toggleChildAgeDiv(numOfChildren, visibleForm){	
+				jQuery('.ageQtip').qtip('destroy');
+				jQuery('.searchQtip').qtip('destroy');
 				if (visibleForm == 'packages'){
-					limitInfantsToAdults();
+					//limitInfantsToAdults();
+					childCheck();
 					var i=0;
 					for (i=0;i<=4;i++){
 						if(document.getElementById('childAgeLi['+i+']')){
@@ -1392,24 +1494,29 @@
 					}
 
 					if(numOfChildren>0){
+						$('#adultsOnlyLi').hide();
 						$('#kidBottomBorder').show();
 						var i=0;
 						for (i=0;i<=numOfChildren;i++){
 							if(document.getElementById('childAgeLi['+i+']')){
 								document.getElementById('childAgeLi['+i+']').style.display='';
 							}
-							if (i == numOfChildren){		
-								$('#underEleven'+i).show();
-								//document.getElementById('childAgeLi['+i+']').className='special-child last';
-							}
-							else {
-								$('#underEleven'+i).hide();
-								//document.getElementById('childAgeLi['+i+']').className='special-child';
-								//$('#childAgeLi['+i+']').removeClass('last');							
-							}
 						}
+						
+						infantSelected = false;	
+						childCounter = 1; 
+						jQuery('.childAgeSelect').each(function(){
+							if (childCounter <= numOfChildren){
+								if(jQuery(this).val() == '1'){infantSelected = true;}
+							}
+							childCounter++;
+						});
+						if (infantSelected == true){jQuery('#infantMsg').show();}else {jQuery('#infantMsg').hide();}
 					}
-					else {$('#kidBottomBorder').hide();}
+					else {
+						$('#kidBottomBorder').hide();//jQuery('#infantMsg').hide();
+						$('#adultsOnlyLi').show();
+					}
 				}
 				if (visibleForm == 'flights'){
 					var i=0;
@@ -1439,19 +1546,171 @@
 					}
 					else {$('#kidBottomBorder').hide();}
 				}
+				toggleMessage()
+			}
+			
+			function childCheck(){
+				var infCount	= 0;
+				var overTwelve 	= 0;
+				var adultTotal	= jQuery('#numberOfAdults').val();
+				var childTotal 	= jQuery('#numberOfChildren').val();
+				var roomCount 	= jQuery('#numberOfRooms').val();
+				
+				usedAges = 1; // Amount of child ages that are currently applicable
+				jQuery('#package-form .childAgeSelect').each(function(){
+					if (usedAges <= childTotal){
+						if (jQuery(this).val() == 1){infCount++;}
+						if (jQuery(this).val() > 12){overTwelve++;}
+						if (jQuery(this).val() != ''){jQuery(this).qtip('destroy');}
+					}	
+					usedAges++;
+				});
+				 if (infCount > 0){
+					jQuery("#infantMsg").show();
+					if (infCount > adultTotal){
+						formError['infCount'] = true;
+						jQuery('#numberOfAdults').qtip({
+							content: "More Infants than Adults not permitted",
+							show: false,
+							hide: false,
+							position: {
+								my: 'top left',  // Position my top left...
+								at: 'bottom right', // at the bottom right of...
+								target: $('#numberOfAdults') // my target
+								
+							},
+							style: {classes: 'ui-tooltip-red ui-tooltip-shadow infantsAdults'}
+						});
+						$('#numberOfAdults').qtip('show'); 
+					} else {
+						$('#numberOfAdults').qtip('hide'); 
+						formError['infCount'] = false;
+					}
+				}else{
+					jQuery("#infantMsg").hide();
+				}
+				 if (overTwelve > 0){jQuery('#childToTwelve').show();}else {jQuery("#childToTwelve").hide();}
+				 if (childTotal > 2 && roomCount > 1){jQuery('#manyChildren').show();}else {jQuery('#manyChildren').hide();}
+				passengers = parseInt(adultTotal) + parseInt(childTotal);
+				if (passengers > 6){
+				 //console.log('    ' + parseInt(adultTotal + childTotal));
+					formError['totalPassengers'] = true;
+					jQuery('#adults').qtip({
+						content: "Maximum 6 people per booking. Divide passengers.",
+						show: false,
+						hide: false,
+						position: {
+							my: 'top left',  // Position my top left...
+							at: 'bottom right', // at the bottom right of...
+							target: $('#numberOfAdults') // my target
+							
+						},
+						style: {classes: 'ui-tooltip-red ui-tooltip-shadow tooMany'}
+					});
+					$('#adults').qtip('show'); 
+				} else {
+					$('#adults').qtip('hide');
+					formError['totalPassengers'] = false;
+				}
+				if (childTotal > 2){jQuery('#manyChildrenRadio').show();}else {jQuery('#manyChildrenRadio').hide();}
+				toggleMessage();
+			}
+			
+			function adultSearch(){
+				if (jQuery('#adultsOnlyCB').is(':checked')){
+					jQuery('.special-child').hide();
+					jQuery('#numberOfChildren').val('0');
+					jQuery('.message p').not('#singleAdultMsg, #directFlightMsg').hide();
+					jQuery('.qtip').hide();
+					jQuery('#children').hide();
+					jQuery('#adultsOnlyOptions').show();
+				} else {			
+
+					jQuery('#children').show();
+					jQuery('#adultsOnlyOptions').hide();
+				}
+				toggleMessage();
+			}
+			
+			function directFlightCheck(){
+				if ($('#directFlightCB').is(':checked')){$('#directFlightMsg').show();}else{$('#directFlightMsg').hide();}
+				toggleMessage();
+			}
+			
+			function adultCheck(){
+				
+				setFormRooms();
+				var adultCount = jQuery('#numberOfAdults').val();
+				var childCount = jQuery('#numberOfChildren').val();
+				if (childCount > 0){childCheck();}
+				if(adultCount == 1){jQuery('#singleAdultMsg').show();}else{jQuery('#singleAdultMsg').hide();}
+				toggleMessage();
+			}
+			
+			function toggleMessage(){
+				visibleMsgs = 0;
+				jQuery('.searchMsg').each(function(){
+					if (jQuery(this).css('display') != 'none'){
+						visibleMsgs++;
+					}
+				});
+				//if (visibleMsgs > 0){jQuery('#theMessages').show();}else{jQuery('#theMessages').hide();}
+			}
+			
+			function destinationMemory(selectedValue){
+				if (selectedValue != ''){
+					jQuery().val(selectedValue);
+				}
+			}
+			
+			
+			function makeEngDate() {
+				dateVal = $('#packDepartDateText').val();
+				if ('EN' == 'FR'){
+					engDate = '';
+					day = dateVal.substring(0,2);
+					if (dateVal.length > 5){
+						frMonth = dateVal.substring(2,6);
+						switch (frMonth){
+							case 'Févr': engMonth = 'Feb'; break;
+							case 'Mars': engMonth = 'Mar'; break;
+							case 'Avri': engMonth = 'Apr'; break;
+							case 'Juin': engMonth = 'Jun'; break;
+							case 'Juil': engMonth = 'Jul'; break;
+							case 'Août': engMonth = 'Aug'; break;
+							case 'Sept': engMonth = 'Sep'; break;
+							case 'Oct.': engMonth = 'Oct'; break;
+							case 'Nov.': engMonth = 'Nov'; break;
+							case 'Déc.': engMonth = 'Dec'; break;
+							case 'Janv': engMonth = 'Jan'; break;	
+							default: 
+								if (frMonth.length == 3){
+									engMonth = frMonth;
+								}
+							break;  // This occurs right after a switch from English to French. (text is still in English unless changed later)
+						}
+						
+					} else {
+						engMonth = 'May';
+					}
+					engDate = day + engMonth;
+					if (engDate.length == 5){$('#engDateVal').val(engDate);}
+				} else {
+					$('#engDateVal').val(dateVal);
+				}
 			}
 			
 			jQuery(document).ready(function() {
+				directFlightCheck();
+				adultCheck();
+				if (false == true){$('#packDepartDateText').val('DDMMM');}
 				toggleChildAgeDiv($('#numberOfChildren').val(), 'packages');
-				$('.childInfoLink').qtip({
-				   content: "Some hotels define children over 11 differently. For children over 11, try as a child with their age, but if not, enter them as an adult.",
-				   show: 'mouseover',
-				   hide: 'mouseout',
-				   style: {
-				   classes: 'underElevenTip'
-				   }
+				
+				$('#flexibility').change(function(){
+					$('#flexPick').qtip('toggle', false);
 				});
-				$( "input#packDepartDateText, input#arrivalDateText, input#departureDateText" ).datepicker({
+				
+				$( "input#arrivalDateText, input#departureDateText" ).datepicker({
 					dateFormat: "mm/dd",
 					altFormat: "DD, d MM, yy",
 					numberOfMonths: 3,
@@ -1464,7 +1723,29 @@
 					closeText: 'Close',
 					showOn: "both"
 				}
+				
 				); 
+				
+				$( "input#packDepartDateText" ).datepicker({
+					dateFormat: "ddM",
+					// altField: "#engDateVal",
+					// altFormat: "ddM",
+					numberOfMonths: 3,
+					stepMonths: 3,
+					minDate:'+1',
+					maxDate:'+330D',
+					buttonImage:"/style/images/hotels/calendar.png",
+					buttonImageOnly: true,
+					showButtonPanel: true,
+					closeText: 'Close',
+					showOn: "both"
+				}
+				); 
+				
+				// $( "input#packDepartDateText").datepicker($.extend({
+						
+					// }
+				// ));
 			});	
 			 $( "#departureDateText" ).change(function(event){
 					
@@ -1513,6 +1794,21 @@
 			style: {classes: 'ui-tooltip-red ui-tooltip-shadow ui-custom2'}
 				
 		});
+			$('#gatewayPick').qtip({content: "Please select a gateway",
+				show: false,
+				hide: false,
+				position: {
+					my: 'middle left',  // Position my top left...
+					at: 'middle right', // at the bottom right of...
+					target: $('#gatewayPick'), // my target
+					adjust: {
+								x: -19,
+								y:10
+							}
+				},
+				style: {classes: 'ui-tooltip-red ui-tooltip-shadow ui-custom1'}
+					
+			});
 				$('#destinationPick').qtip({content: "Please select a destination",
 				show: false,
 				hide: false,
@@ -1574,22 +1870,41 @@
 					style: {classes: 'ui-tooltip-red ui-tooltip-shadow ui-custom1'}
 
 				});
+				$('#numberOfInfants').qtip({content: "More Infants than Adults not permitted",
+					show: false,
+					hide: false,
+					position: {
+						my: 'middle left',  // Position my top left...
+						at: 'middle right', // at the bottom right of...
+						target: $('#numberOfInfants'), // my target
+						adjust: {
+									x: 10,
+									y:10
+								}
+					},
+					style: {classes: 'ui-tooltip-red ui-tooltip-shadow ui-custom1'}
+
+				});
 					
 					
-		var thisMonth='02';
+		var thisMonth='07';
 		var thisYear='2014';
-		var thisDay='13';
+		var thisDay='08';
+		var formError = {};
 		
 function validate(type){
-		var valid = true;		
+	var valid = true;		
 
 		//Tips.hideAll()
 	if(type=='package'){
+		
+		if (formError['totalPassengers'] == true){valid = false;} // User was warned about and has not fixed passenger amount
+		if (formError['infCount'] == true){valid = false;} // User was warned about and has not fixed infant > adults
 		$('#datePickFlightArival').qtip('toggle', false); // Shows the tooltip
 		$('#datePickFlightDeparture').qtip('toggle', false); // Shows the tooltip
 		$('#arivalPick').qtip('toggle', false); // Shows the tooltip		
 		
-		if(document.getElementById('packDepartDateText').value=='' || document.getElementById('packDepartDateText').value=='mm/dd' || document.getElementById('packDepartDateText').value=='mm/jj'){
+		if(document.getElementById('packDepartDateText').value=='' || document.getElementById('packDepartDateText').value=='DDMMM' || document.getElementById('packDepartDateText').value=='mm/jj'){
 		//	$('datePick').prototip.show();
 			$('#datePick').qtip('toggle', true); // Shows the tooltip			
 			valid=false;
@@ -1597,6 +1912,7 @@ function validate(type){
 			$('#datePick').qtip('toggle', false); // Shows the tooltip		
 		}
 		destination=document.getElementById('destination');
+		
 		if(destination.options[destination.selectedIndex].value==''){
 		//	$('destinationPick').prototip.show();
 			$('#destinationPick').qtip('toggle', true); // Shows the tooltip
@@ -1605,9 +1921,39 @@ function validate(type){
 			$('#destinationPick').qtip('toggle', false); // Shows the tooltip
 		}
 		
+		gateway=document.getElementById('gateway');
+		if(gateway.options[gateway.selectedIndex].value==''){
+		//	$('destinationPick').prototip.show();
+			$('#gatewayPick').qtip('toggle', true); // Shows the tooltip
+			valid=false;
+		}else{
+			$('#gatewayPick').qtip('toggle', false); // Shows the tooltip
+		}
 		
+		var childCount = jQuery('#numberOfChildren').val();
+		var currentChild = 1;
+		jQuery('#package-form .childAgeSelect').each(function(){
+			if (currentChild <= childCount){
+				if(jQuery(this).val() == ''){
+					valid = false;
+					jQuery(this).qtip({
+						content: "Child Age Required",
+						show: {ready: true},
+						hide: false,
+						position: {
+							my: 'middle left',  // Position my top left...
+							at: 'middle right', // at the bottom right of...
+							target: $(this) // my target
+						},
+						style: {classes: 'ui-tooltip-red ui-tooltip-shadow ui-custom1 ageQtip'}
+
+					});
+				}
+			}
+			currentChild++;
+		});
 		flex=document.getElementById('flexibility');
-		if(flex.options[flex.selectedIndex].value==''){
+		if(flex.options[flex.selectedIndex].value=='' || flex.options[flex.selectedIndex].value=='none'){
 		//	$('flexPick').prototip.show();
 			$('#flexPick').qtip('toggle', true); // Shows the tooltip
 			valid=false;
@@ -1617,6 +1963,21 @@ function validate(type){
 			
 		if(valid==true){
 			document.getElementById('package-form').submit();
+		} else {
+			// This qtip works, but combined with scroll to top of form functionality can be confusing. (User fixes error / scrolls back down to see this still displayed.)
+			// jQuery('#startSearch').qtip({
+				// content: "Flight information missing",
+				// show: {ready: true},
+				// hide: false,
+				// position: {
+					// my: 'middle left',  // Position my top left...
+					// at: 'middle right', // at the bottom right of...
+					// target: jQuery('#startSearch') // my target
+				// },
+				// style: {classes: 'ui-tooltip-red ui-tooltip-shadow searchQtip'}
+
+			// });
+			location.hash = '#package-form';
 		}
 	}
 	if(type=='flight'){    
@@ -1644,24 +2005,32 @@ function validate(type){
 		}else{
 						$('#arivalPick').qtip('toggle', false); // Shows the tooltip	
 		}
+		if ($('#numberOfInfants').val() > $('#numberOfAdults').val()){
+			$('#numberOfInfants').qtip('toggle',true);
+			valid = false;
+		}
 		if(valid==true){
 			document.getElementById('flight-form').submit();
 		}
 	}
-	
-	
+
 	return false;
 	return valid;
 }		
 function displayFinder(type){
 	$('#datePick').qtip('toggle', false); // Shows the tooltip
 	$('#destinationPick').qtip('toggle', false); // Shows the tooltip
+	$('#gatewayPick').qtip('toggle', false); // Shows the tooltip
 	$('#flexPick').qtip('toggle', false); // Shows the tooltip
-
+	
 	$('#datePickFlightArival').qtip('toggle', false); // Shows the tooltip
 
 	$('#datePickFlightDeparture').qtip('toggle', false); // Shows the tooltip
 	$('#arivalPick').qtip('toggle', false); // Shows the tooltip
+	$('#adults').qtip('hide');
+	$('#numberOfInfants').qtip('hide');
+	$('#numberOfAdults').qtip('hide');
+	
 //	Tips.hideAll()
 	var packageDiv=document.getElementById('package-form');
 	var flightDiv=document.getElementById('flight-form');
@@ -1692,7 +2061,7 @@ function displayFinder(type){
 				<script type="text/javascript">
 				sWOResponse='';
 				if(typeof sWOTrackPage=='function')sWOTrackPage();
-				</script><div id="clickandchat.com" style="position:absolute;visibility:hidden;"><img src="https://server1gateway.clickandchat.com/stat.gif?u=879-1580397397948&amp;d=www.exitnow.ca&amp;p='https%3A//web.archive.org/web/20140213221557id_/http%253A//www.exitnow.ca/about/privacy-policy.php'&amp;r=''" height="1" width="1"></div><script src="https://server1gateway.clickandchat.com/invite.js?domain=www.exitnow.ca"></script>
+				</script>
 
 			
 			<div id="footer">
@@ -1740,7 +2109,7 @@ function displayFinder(type){
 				<script type="text/javascript">
 				sWOResponse='';
 				if(typeof sWOTrackPage=='function')sWOTrackPage();
-				</script><div id="clickandchat.com" style="position:absolute;visibility:hidden;"><img src="https://server1gateway.clickandchat.com/stat.gif?u=879-1580397397948&amp;d=www.exitnow.ca&amp;p='https%3A//web.archive.org/web/20140213221557id_/http%253A//www.exitnow.ca/about/privacy-policy.php'&amp;r=''" height="1" width="1"></div><script src="https://server1gateway.clickandchat.com/invite.js?domain=www.exitnow.ca"></script>
+				</script>
 
 						<script type="text/javascript">
 					if(document.getElementById('arrivalSelector')){document.getElementById('arrivalSelector').disabled=false;}
