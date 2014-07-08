@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codebasehq.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330232028id_/http%3A//www.codebasehq.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codebasehq.com privacy policy that was archived on 2014-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140708091353id_/https%3A//www.codebasehq.com/about/privacy) for the most accurate reproduction.*
 
 # Codebase - Privacy & Cookie Policy - Legal - About us
 
