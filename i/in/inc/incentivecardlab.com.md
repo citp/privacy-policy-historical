@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the incentivecardlab.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626024644id_/http%3A//www.incentivecardlab.com/incentive-card-lab-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the incentivecardlab.com privacy policy that was archived on 2014-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140708123104id_/http%3A//www.incentivecardlab.com/incentive-card-lab-privacy-policy) for the most accurate reproduction.*
 
 # Incentive Card Lab Privacy Policy
 
