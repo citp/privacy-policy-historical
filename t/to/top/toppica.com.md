@@ -1,26 +1,32 @@
-> *The following text is extracted and transformed from the toppica.com privacy policy that was archived on 2008-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081010083444id_/http%3A//www.toppica.com/privacy%2Cpage%2Ccontent_pages) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toppica.com privacy policy that was archived on 2014-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140708044410id_/http%3A//toppica.com/privacy-policy) for the most accurate reproduction.*
 
-# Toppica.Com
+# Privacy Policy | Apartment Design Idea - Toppica.com
 
-We believe your business is no one else's. Your privacy is important to you…and to us. So we'll protect the information you share with us. To protect your privacy, PHP Pro Bid follows different principles in accordance with world-wide practices for customer privacy and data protection. 
-
-  * We won't sell or give away your name, mail address, phone number, email address, credit card number or any other information to anyone. 
-  * We'll use the latest security measures to protect your information from unauthorized users. 
+  1. [Home](http://toppica.com/)
+  2. []()
 
 
 
-NOTICE 
+ **Apartment Design Idea - Toppica.com** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it.
 
-We will ask you when we need information that personally identifies you (personal information) or allows us to contact you. Generally this information is requested when you purchase our software packages. We use your Personal Information for four primary purposes:
+## Routine Information Collection
 
-  * To process and activate your order   
+All web servers track basic information about their visitors. This information includes, but is not limited to, IP addresses, browser details, timestamps and referring pages. None of this information can personally identify specific visitors to this site. The information is tracked for routine administration and maintenance purposes.
 
-  * To identify you 
-  * To help us support you and/or your Business. 
-  * To alert you to product upgrades, special offers, updated information and other new services from PHP Pro Bid. 
+## Cookies and Web Beacons
 
+Where necessary, Apartment Design Idea - Toppica.com uses cookies to store information about a visitor's preferences and history in order to better serve the visitor and/or present the visitor with customized content.
 
+Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. 
 
-ACCESS
+## Controlling Your Privacy
 
-We will provide you with the means to ensure that your personal information is correct and current. You may review and update this information at any time at the client area. There, you can view and edit personal information you have already given us. 
+Note that you can change your browser settings to disable cookies if you have privacy concerns. Disabling cookies for all sites is not recommended as it may interfere with your use of some sites. The best option is to disable or enable cookies on a per-site basis. Consult your browser documentation for instructions on how to block cookies and other tracking mechanisms. This list of [web browser privacy management](http://cybec.com/web-browser-privacy-management/) links may also be useful.
+
+## Special Note About Google Advertising
+
+Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this site and other sites that use Google advertising services. Learn how to [opt out of Google's cookie usage](http://www.google.com/privacy_ads.html). As mentioned above, any tracking done by Google through cookies and other mechanisms is subject to Google's own privacy policies. 
+
+## Contact Information
+
+Concerns or questions about this privacy policy can be directed to info@toppica.com for further clarification.
