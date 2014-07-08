@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the remitly.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214072200id_/https%3A//www.remitly.com/home/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the remitly.com privacy policy that was archived on 2014-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140708141515id_/https%3A//www.remitly.com/home/policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -75,7 +75,7 @@ Our Site includes links to other Web sites whose privacy practices may differ fr
 
 If you have a complaint, contact Remitly Customer Service, [on-line](https://www.remitly.com/home/contact); by phone (877)-526-4216; or by email at [service@remitly.com](mailto:%20service@remitly.com). 
 
-You can [contact us](https://www.remitly.com/home/contact) with any questions or concerns at: Remitly, Inc., 1725 Westlake Ave. N., Suite 105 Seattle, WA 98109 
+You can [contact us](https://www.remitly.com/home/contact) with any questions or concerns at: Remitly, Inc., 1601 2nd Ave, Suite 700, Seattle, WA 98101 
 
 Email: [Customer Service](mailto:%20service@remitly.com)
 
