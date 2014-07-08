@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vagaro.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331183958id_/https%3A//www.vagaro.com/Privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vagaro.com privacy policy that was archived on 2014-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140708021803id_/https%3A//www.vagaro.com/Privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Online Spa Software, Salon Software, Salon POS, Hair Salon Software
 
