@@ -1,13 +1,15 @@
-<!--The following is the downloaded HTML source of the lsbet.com privacy policy that was archived on 2014-03-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140328001540id_/http%3A//www.lsbet.com/en-GB/info/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lsbet.com privacy policy that was archived on 2014-07-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140708182628id_/https%3A//www.lsbet.com/en-GB/info/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en-GB"><!--<![endif]--><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PZ9LRQ"></script><script src="//ssl.google-analytics.com/ga.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-2.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"8786b615e6","applicationID":"1693194","transactionName":"e1kLFRRaX1kBQBdRU0xEBAgKRhxWCUFnQ1dfUxZOFV1cQg==","queueTime":0,"applicationTime":801,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-411.min.js"}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwAHV1JXGwIGXVJTDgU="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
 <title>LSbet.com - Privacy Policy</title>
 
-<link href="/assets/betrails-fc123103d18e2f364c7b7807aad33cc0.css" media="screen" rel="stylesheet" type="text/css"><link href="/assets/application-d15cfc47050a278517eee9a1704d50cd.css" media="all" rel="stylesheet" type="text/css"><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PZ9LRQ"></script><script src="//ssl.google-analytics.com/ga.js"></script><script id="user_bar_logged_in" type="text/template">
+<link href="/assets/betrails-a12baec2604df85f6a722740f5cc3961.css" media="screen" rel="stylesheet" type="text/css"><link href="/assets/application-b61d28af02656bd255535f5f39d987b6.css" media="all" rel="stylesheet" type="text/css"><script id="user_bar_logged_in" type="text/template">
     <section class="logged_in_info" data-hook="logged_in_info">
       <ul class="logged_in_info_items" data-hook="logged_in_info_items" >
         <li id="user_welcome" data-hook >
@@ -45,7 +47,7 @@
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script><script src="/assets/user-988afacdc67a577f00e071c470919267.js" type="text/javascript"></script><!--[if lt IE 9]>
   <script src="//html5shiv.googlecode.com/svn/trunk/html5.js" type="text/javascript"></script>
   <![endif]-->
-<script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script></head>
+</head>
 <body class="sportsbook cms_pages" data-controller="cms_pages" data-action="show">
 
 
@@ -76,10 +78,10 @@
         <ul id="nether_logged_in_or_not" data-hook=""></ul>
 <ul id="logged_out_bar" data-hook="">
   <li id="register_button" data-hook="">
-    <a href="http://www.lsbet.com/en-GB/account/register">Register</a>
+    <a href="https://www.lsbet.com/en-GB/account/register">Register</a>
   </li>
   <li class="login_form" data-hook="login_form">
-    <form accept-charset="UTF-8" action="https://www.lsbet.com/en-GB/account/do_login" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="hzWaMo3o8oqdeIAFvTyat7+DfhrRFnu0PoBl4bGWTVM="></div>
+    <form accept-charset="UTF-8" action="https://www.lsbet.com/en-GB/account/do_login" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="jl/KJcpOBMKcmgeQ7NrhqLw9zGKgfqmgbQT/Yp4L+T8="></div>
       <dl>
         <dd>
           <input id="user_username" name="user[username]" placeholder="Username" size="30" type="text">
@@ -99,111 +101,105 @@
 </ul>
         <div id="regional_options" data-hook="">
           <section class="select_timezone_form time" data-hook="timezone_form">
-  <form accept-charset="UTF-8" action="/en-GB/timezones/switch" id="timezone_form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="hzWaMo3o8oqdeIAFvTyat7+DfhrRFnu0PoBl4bGWTVM="></div>
+  <form accept-charset="UTF-8" action="/en-GB/timezones/switch" id="timezone_form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="✓"><input name="authenticity_token" type="hidden" value="jl/KJcpOBMKcmgeQ7NrhqLw9zGKgfqmgbQT/Yp4L+T8="></div>
     <input id="browser_timezone" name="browser_timezone" type="hidden">
     <input id="timezone" name="timezone" type="hidden">
     <dl>
       <dd class="timezone_select" data-hook="timezone_select">
-        <a href="#" class="opener">00:15 GMT<span class="arrow"></span></a>
+        <a href="#" class="opener">19:26 GMT+1<span class="arrow"></span></a>
         <ul style="display: none" class="time-list">
               <li>
-                  <a href="#" data-name="0" data-offset="-11:00" data-value="International Date Line West">(-11:00) International Date Line West </a>
+                  <a href="#" data-name="3600" data-offset="-11:00" data-value="International Date Line West">(-11:00) International Date Line West </a>
               </li>
               <li>
-                  <a href="#" data-name="0" data-offset="-10:00" data-value="Hawaii">(-10:00) Hawaii </a>
+                  <a href="#" data-name="3600" data-offset="-10:00" data-value="Hawaii">(-10:00) Hawaii </a>
               </li>
               <li>
-                  <a href="#" data-name="0" data-offset="-08:00" data-value="Alaska">(-08:00) Alaska </a>
+                  <a href="#" data-name="3600" data-offset="-08:00" data-value="Alaska">(-08:00) Alaska </a>
               </li>
               <li>
-                  <a href="#" data-name="0" data-offset="-07:00" data-value="Pacific Time (US &amp; Canada)">(-07:00) Pacific Time (US &amp; Canada) </a>
+                  <a href="#" data-name="3600" data-offset="-07:00" data-value="Pacific Time (US &amp; Canada)">(-07:00) Pacific Time (US &amp; Canada) </a>
               </li>
               <li>
-                  <a href="#" data-name="0" data-offset="-06:00" data-value="Central America">(-06:00) Central America </a>
+                  <a href="#" data-name="3600" data-offset="-06:00" data-value="Central America">(-06:00) Central America </a>
               </li>
               <li>
-                  <a href="#" data-name="0" data-offset="-05:00" data-value="Quito">(-05:00) Quito </a>
+                  <a href="#" data-name="3600" data-offset="-05:00" data-value="Quito">(-05:00) Quito </a>
               </li>
               <li>
-                  <a href="#" data-name="0" data-offset="-04:30" data-value="Caracas">(-04:30) Caracas </a>
+                  <a href="#" data-name="3600" data-offset="-04:30" data-value="Caracas">(-04:30) Caracas </a>
               </li>
               <li>
-                  <a href="#" data-name="0" data-offset="-04:00" data-value="Indiana (East)">(-04:00) Indiana (East) </a>
+                  <a href="#" data-name="3600" data-offset="-04:00" data-value="Indiana (East)">(-04:00) Indiana (East) </a>
               </li>
               <li>
-                  <a href="#" data-name="0" data-offset="-03:00" data-value="Greenland">(-03:00) Greenland </a>
+                  <a href="#" data-name="3600" data-offset="-03:00" data-value="Brasilia">(-03:00) Brasilia </a>
               </li>
               <li>
-                  <a href="#" data-name="0" data-offset="-02:30" data-value="Newfoundland">(-02:30) Newfoundland </a>
+                  <a href="#" data-name="3600" data-offset="-02:30" data-value="Newfoundland">(-02:30) Newfoundland </a>
               </li>
               <li>
-                  <a href="#" data-name="0" data-offset="-02:00" data-value="Mid-Atlantic">(-02:00) Mid-Atlantic </a>
+                  <a href="#" data-name="3600" data-offset="-02:00" data-value="Mid-Atlantic">(-02:00) Mid-Atlantic </a>
               </li>
               <li>
-                  <a href="#" data-name="0" data-offset="-01:00" data-value="Cape Verde Is.">(-01:00) Cape Verde Is. </a>
+                  <a href="#" data-name="3600" data-offset="-01:00" data-value="Cape Verde Is.">(-01:00) Cape Verde Is. </a>
               </li>
               <li>
-                  <a href="#" class="selected" data-name="0" data-offset="00:00" data-value="London">(+00:00) London </a>
+                  <a href="#" data-name="3600" data-offset="00:00" data-value="Azores">(+00:00) Azores </a>
               </li>
               <li>
-                  <a href="#" data-name="0" data-offset="01:00" data-value="Berlin">(+01:00) Berlin </a>
+                  <a href="#" class="selected" data-name="3600" data-offset="01:00" data-value="London">(+01:00) London </a>
               </li>
               <li>
-                  <a href="#" data-name="0" data-offset="02:00" data-value="Athens">(+02:00) Athens </a>
+                  <a href="#" data-name="3600" data-offset="02:00" data-value="Berlin">(+02:00) Berlin </a>
               </li>
               <li>
-                  <a href="#" data-name="0" data-offset="03:00" data-value="Jerusalem">(+03:00) Jerusalem </a>
+                  <a href="#" data-name="3600" data-offset="03:00" data-value="Athens">(+03:00) Athens </a>
               </li>
               <li>
-                  <a href="#" data-name="0" data-offset="04:00" data-value="Moscow">(+04:00) Moscow </a>
+                  <a href="#" data-name="3600" data-offset="04:00" data-value="Moscow">(+04:00) Moscow </a>
               </li>
               <li>
-                  <a href="#" data-name="0" data-offset="04:30" data-value="Tehran">(+04:30) Tehran </a>
+                  <a href="#" data-name="3600" data-offset="04:30" data-value="Tehran">(+04:30) Tehran </a>
               </li>
               <li>
-                  <a href="#" data-name="0" data-offset="05:00" data-value="Islamabad">(+05:00) Islamabad </a>
+                  <a href="#" data-name="3600" data-offset="05:00" data-value="Baku">(+05:00) Baku </a>
               </li>
               <li>
-                  <a href="#" data-name="0" data-offset="05:30" data-value="Chennai">(+05:30) Chennai </a>
+                  <a href="#" data-name="3600" data-offset="05:30" data-value="Chennai">(+05:30) Chennai </a>
               </li>
               <li>
-                  <a href="#" data-name="0" data-offset="05:45" data-value="Kathmandu">(+05:45) Kathmandu </a>
+                  <a href="#" data-name="3600" data-offset="05:45" data-value="Kathmandu">(+05:45) Kathmandu </a>
               </li>
               <li>
-                  <a href="#" data-name="0" data-offset="06:00" data-value="Ekaterinburg">(+06:00) Ekaterinburg </a>
+                  <a href="#" data-name="3600" data-offset="06:00" data-value="Ekaterinburg">(+06:00) Ekaterinburg </a>
               </li>
               <li>
-                  <a href="#" data-name="0" data-offset="06:30" data-value="Rangoon">(+06:30) Rangoon </a>
+                  <a href="#" data-name="3600" data-offset="06:30" data-value="Rangoon">(+06:30) Rangoon </a>
               </li>
               <li>
-                  <a href="#" data-name="0" data-offset="07:00" data-value="Bangkok">(+07:00) Bangkok </a>
+                  <a href="#" data-name="3600" data-offset="07:00" data-value="Bangkok">(+07:00) Bangkok </a>
               </li>
               <li>
-                  <a href="#" data-name="0" data-offset="08:00" data-value="Beijing">(+08:00) Beijing </a>
+                  <a href="#" data-name="3600" data-offset="08:00" data-value="Beijing">(+08:00) Beijing </a>
               </li>
               <li>
-                  <a href="#" data-name="0" data-offset="09:00" data-value="Seoul">(+09:00) Seoul </a>
+                  <a href="#" data-name="3600" data-offset="09:00" data-value="Seoul">(+09:00) Seoul </a>
               </li>
               <li>
-                  <a href="#" data-name="0" data-offset="09:30" data-value="Darwin">(+09:30) Darwin </a>
+                  <a href="#" data-name="3600" data-offset="09:30" data-value="Adelaide">(+09:30) Adelaide </a>
               </li>
               <li>
-                  <a href="#" data-name="0" data-offset="10:00" data-value="Brisbane">(+10:00) Brisbane </a>
+                  <a href="#" data-name="3600" data-offset="10:00" data-value="Canberra">(+10:00) Canberra </a>
               </li>
               <li>
-                  <a href="#" data-name="0" data-offset="10:30" data-value="Adelaide">(+10:30) Adelaide </a>
+                  <a href="#" data-name="3600" data-offset="11:00" data-value="New Caledonia">(+11:00) New Caledonia </a>
               </li>
               <li>
-                  <a href="#" data-name="0" data-offset="11:00" data-value="Canberra">(+11:00) Canberra </a>
+                  <a href="#" data-name="3600" data-offset="12:00" data-value="Magadan">(+12:00) Magadan </a>
               </li>
               <li>
-                  <a href="#" data-name="0" data-offset="12:00" data-value="Magadan">(+12:00) Magadan </a>
-              </li>
-              <li>
-                  <a href="#" data-name="0" data-offset="13:00" data-value="Auckland">(+13:00) Auckland </a>
-              </li>
-              <li>
-                  <a href="#" data-name="0" data-offset="14:00" data-value="Samoa">(+14:00) Samoa </a>
+                  <a href="#" data-name="3600" data-offset="13:00" data-value="Samoa">(+13:00) Samoa </a>
               </li>
         </ul>	
       </dd>
@@ -253,22 +249,31 @@
   </section>
 </header>
 
-    <nav id="primary"></nav>
-    <nav id="secondary"></nav>
+    <nav id="primary"></nav><nav id="secondary"></nav><div id="wrapper">
 
-    <div id="wrapper">
-
-    <aside id="menu">
-
-      <section class="left_menu">
-        <a href="/en-GB/in_running_console/0" class="flash_live">LIVE BETTING</a>
+    <aside id="menu"><section class="left_menu"><a href="/en-GB/in_running_console/0" class="flash_live">LIVE BETTING</a>
         <a href="/en-GB/live" class="non_flash_live">Live betting (non flash)</a>
         <a href="/en-GB/coupon/current" class="current_events">Upcoming Games</a>
       </section>
-      <section id="a-z">
-        <h1 id="sportsmenu_header">All Sports</h1>
-        <nav class="multimenu">
-           <ul>
+
+
+  <section class="favourites_menu"><h1 id="sportsmenu_header">
+Favourites Menu
+      <img src="https://s3-eu-west-1.amazonaws.com/cdn.lsbet.com/cms/uploads/default/new_icon_cal.png">
+</h1>
+      <nav>
+          <ul>
+<li><a style="height: 23px; vertical-align: middle; display: inline-block;" href="/en-GB/sportsbook/eventpaths/44803"> <img src="http://s3-eu-west-1.amazonaws.com/cdn.lsbet.com/cms/uploads/default/favoriteworldcup.PNG" style="max-height: 23px; max-width: 23px; margin-top: 0px; margin-left: -5px;"><span style="vertical-align: middle; margin: 5px 3px; display: block; font-size: 15px;">World Cup</span></a></li>
+<li><a style="height: 23px; vertical-align: middle; display: inline-block;" href="/en-GB/sportsbook/eventpaths/27911"> <img src="http://s3-eu-west-1.amazonaws.com/cdn.lsbet.com/cms/uploads/default/4.PNG" style="max-height: 20px; max-width: 20px; margin-left: -4px; margin-top: 2px;"><span style="vertical-align: middle; margin: 5px 3px; display: block; font-size: 15px;">Champions League</span></a></li>
+<li><a style="height: 23px; vertical-align: middle; display: inline-block;" href="/en-GB/sportsbook/eventpaths/42127"> <img src="https://s3-eu-west-1.amazonaws.com/cdn.lsbet.com/cms/uploads/default/el.png" style="max-height: 20px; max-width: 20px; margin-left: -4px; margin-top: 2px;"><span style="vertical-align: middle; margin: 5px 3px; display: block; font-size: 15px;">Europa League</span></a></li>
+<li><a style="height: 23px; vertical-align: middle; display: inline-block;" href="/en-GB/sportsbook/eventpaths/23169"> <img src="http://s3-eu-west-1.amazonaws.com/cdn.lsbet.com/cms/uploads/default/epl.png" style="max-height: 23px; max-width: 23px; margin-top: 0px; margin-left: -5px;"><span style="vertical-align: middle; margin: 5px 3px; display: block; font-size: 15px;">Premier League</span></a></li>
+</ul>
+      </nav></section>
+
+
+      
+      <section id="a-z"><h1 id="sportsmenu_header">All Sports</h1>
+        <nav class="multimenu"> <ul>
       <li class="sport_240">
         <a href="/en-GB/sportsbook/eventpaths/240" data-eventpath-id="240">Football</a>
         <ul>
@@ -278,41 +283,23 @@
                   <li class="sport_27911">
                     <a href="/en-GB/sportsbook/eventpaths/27911" data-id="27911" data-last-children="true">Champions League</a>
                   </li>
-                  <li class="sport_188147">
-                    <a href="/en-GB/sportsbook/eventpaths/188147" data-id="188147" data-last-children="true">Champions League Outrights</a>
-                  </li>
                   <li class="sport_42127">
                     <a href="/en-GB/sportsbook/eventpaths/42127" data-id="42127" data-last-children="true">Europa League</a>
                   </li>
-                  <li class="sport_37808">
-                    <a href="/en-GB/sportsbook/eventpaths/37808" data-id="37808" data-last-children="true">Club Friendly</a>
-                  </li>
-                  <li class="sport_34395">
-                    <a href="/en-GB/sportsbook/eventpaths/34395" data-id="34395" data-last-children="true">Copa Libertadores</a>
-                  </li>
-                  <li class="sport_320182">
-                    <a href="/en-GB/sportsbook/eventpaths/320182" data-id="320182" data-last-children="true">Europa League Outrights</a>
-                  </li>
-                  <li class="sport_320214">
-                    <a href="/en-GB/sportsbook/eventpaths/320214" data-id="320214" data-last-children="true">Euro 2016 Outrights</a>
-                  </li>
                   <li class="sport_44803">
-                    <a href="/en-GB/sportsbook/eventpaths/44803" data-id="44803" data-last-children="true">World Cup</a>
+                    <a href="/en-GB/sportsbook/eventpaths/44803" data-id="44803" data-last-children="true">World Cup Matches</a>
                   </li>
                   <li class="sport_188999">
                     <a href="/en-GB/sportsbook/eventpaths/188999" data-id="188999" data-last-children="true">World Cup 2014 Outrights</a>
                   </li>
-                  <li class="sport_227499">
-                    <a href="/en-GB/sportsbook/eventpaths/227499" data-id="227499" data-last-children="true">U17 World Cup - Women</a>
+                  <li class="sport_37808">
+                    <a href="/en-GB/sportsbook/eventpaths/37808" data-id="37808" data-last-children="true">Club Friendly</a>
                   </li>
-                  <li class="sport_441374">
-                    <a href="/en-GB/sportsbook/eventpaths/441374" data-id="441374" data-last-children="true">World Cup Group Outrights</a>
+                  <li class="sport_320214">
+                    <a href="/en-GB/sportsbook/eventpaths/320214" data-id="320214" data-last-children="true">Euro 2016 Outrights</a>
                   </li>
-                  <li class="sport_441396">
-                    <a href="/en-GB/sportsbook/eventpaths/441396" data-id="441396" data-last-children="true">World Cup Player Outrights</a>
-                  </li>
-                  <li class="sport_441399">
-                    <a href="/en-GB/sportsbook/eventpaths/441399" data-id="441399" data-last-children="true">World Cup Team Outrights</a>
+                  <li class="sport_32760">
+                    <a href="/en-GB/sportsbook/eventpaths/32760" data-id="32760" data-last-children="true">Euro 2016 Qualifiers</a>
                   </li>
               </ul>
             </li>
@@ -325,38 +312,14 @@
                   <li class="sport_37873">
                     <a href="/en-GB/sportsbook/eventpaths/37873" data-id="37873" data-last-children="true">League Championship</a>
                   </li>
-                  <li class="sport_24159">
-                    <a href="/en-GB/sportsbook/eventpaths/24159" data-id="24159" data-last-children="true">FA Cup</a>
-                  </li>
                   <li class="sport_37881">
                     <a href="/en-GB/sportsbook/eventpaths/37881" data-id="37881" data-last-children="true">League One</a>
                   </li>
                   <li class="sport_37890">
                     <a href="/en-GB/sportsbook/eventpaths/37890" data-id="37890" data-last-children="true">League Two</a>
                   </li>
-                  <li class="sport_23659">
-                    <a href="/en-GB/sportsbook/eventpaths/23659" data-id="23659" data-last-children="true">Blue Square Premier</a>
-                  </li>
-                  <li class="sport_59948">
-                    <a href="/en-GB/sportsbook/eventpaths/59948" data-id="59948" data-last-children="true">Blue Square North</a>
-                  </li>
-                  <li class="sport_59949">
-                    <a href="/en-GB/sportsbook/eventpaths/59949" data-id="59949" data-last-children="true">Blue Square South</a>
-                  </li>
-                  <li class="sport_63193">
-                    <a href="/en-GB/sportsbook/eventpaths/63193" data-id="63193" data-last-children="true">Northern Premier League</a>
-                  </li>
-                  <li class="sport_63199">
-                    <a href="/en-GB/sportsbook/eventpaths/63199" data-id="63199" data-last-children="true">Ryman Premier Division</a>
-                  </li>
-                  <li class="sport_63186">
-                    <a href="/en-GB/sportsbook/eventpaths/63186" data-id="63186" data-last-children="true">Southern Premier League</a>
-                  </li>
-                  <li class="sport_67903">
-                    <a href="/en-GB/sportsbook/eventpaths/67903" data-id="67903" data-last-children="true">Johnstones Paint Trophy</a>
-                  </li>
-                  <li class="sport_182991">
-                    <a href="/en-GB/sportsbook/eventpaths/182991" data-id="182991" data-last-children="true">Premier League Outrights</a>
+                  <li class="sport_53131">
+                    <a href="/en-GB/sportsbook/eventpaths/53131" data-id="53131" data-last-children="true">League Cup</a>
                   </li>
               </ul>
             </li>
@@ -365,21 +328,6 @@
               <ul>
                   <li class="sport_23170">
                     <a href="/en-GB/sportsbook/eventpaths/23170" data-id="23170" data-last-children="true">ESP La Liga Primera</a>
-                  </li>
-                  <li class="sport_31934">
-                    <a href="/en-GB/sportsbook/eventpaths/31934" data-id="31934" data-last-children="true">ESP La Liga Segunda</a>
-                  </li>
-                  <li class="sport_63524">
-                    <a href="/en-GB/sportsbook/eventpaths/63524" data-id="63524" data-last-children="true">ESP La Liga Segunda B G1</a>
-                  </li>
-                  <li class="sport_63512">
-                    <a href="/en-GB/sportsbook/eventpaths/63512" data-id="63512" data-last-children="true">ESP La Liga Segunda B G2</a>
-                  </li>
-                  <li class="sport_67954">
-                    <a href="/en-GB/sportsbook/eventpaths/67954" data-id="67954" data-last-children="true">ESP Copa Del Rey</a>
-                  </li>
-                  <li class="sport_63514">
-                    <a href="/en-GB/sportsbook/eventpaths/63514" data-id="63514" data-last-children="true">ESP La Liga Segunda B G4</a>
                   </li>
               </ul>
             </li>
@@ -392,17 +340,8 @@
                   <li class="sport_23795">
                     <a href="/en-GB/sportsbook/eventpaths/23795" data-id="23795" data-last-children="true">GER Bundesliga 2</a>
                   </li>
-                  <li class="sport_24587">
-                    <a href="/en-GB/sportsbook/eventpaths/24587" data-id="24587" data-last-children="true">GER Bundesliga 3</a>
-                  </li>
-                  <li class="sport_54196">
-                    <a href="/en-GB/sportsbook/eventpaths/54196" data-id="54196" data-last-children="true">GER German Cup</a>
-                  </li>
                   <li class="sport_57240">
                     <a href="/en-GB/sportsbook/eventpaths/57240" data-id="57240" data-last-children="true">GER Regional</a>
-                  </li>
-                  <li class="sport_145012">
-                    <a href="/en-GB/sportsbook/eventpaths/145012" data-id="145012" data-last-children="true">GER Oberliga</a>
                   </li>
               </ul>
             </li>
@@ -411,18 +350,6 @@
               <ul>
                   <li class="sport_23192">
                     <a href="/en-GB/sportsbook/eventpaths/23192" data-id="23192" data-last-children="true">Serie A</a>
-                  </li>
-                  <li class="sport_24663">
-                    <a href="/en-GB/sportsbook/eventpaths/24663" data-id="24663" data-last-children="true">Serie B</a>
-                  </li>
-                  <li class="sport_50576">
-                    <a href="/en-GB/sportsbook/eventpaths/50576" data-id="50576" data-last-children="true">Coppa Italia</a>
-                  </li>
-                  <li class="sport_71042">
-                    <a href="/en-GB/sportsbook/eventpaths/71042" data-id="71042" data-last-children="true">Lega Pro Prima B</a>
-                  </li>
-                  <li class="sport_99949">
-                    <a href="/en-GB/sportsbook/eventpaths/99949" data-id="99949" data-last-children="true">Lega Pro Seconda A</a>
                   </li>
               </ul>
             </li>
@@ -435,43 +362,6 @@
                   <li class="sport_52967">
                     <a href="/en-GB/sportsbook/eventpaths/52967" data-id="52967" data-last-children="true">FRA Division 2</a>
                   </li>
-                  <li class="sport_183403">
-                    <a href="/en-GB/sportsbook/eventpaths/183403" data-id="183403" data-last-children="true">FRA Division 1 Outrights</a>
-                  </li>
-                  <li class="sport_57588">
-                    <a href="/en-GB/sportsbook/eventpaths/57588" data-id="57588" data-last-children="true">FRA National</a>
-                  </li>
-              </ul>
-            </li>
-            <li class="sport_23288">
-              <a href="/en-GB/sportsbook/eventpaths/23288" data-id="23288">Argentina</a>
-              <ul>
-                  <li class="sport_31629">
-                    <a href="/en-GB/sportsbook/eventpaths/31629" data-id="31629" data-last-children="true">Nacional B</a>
-                  </li>
-                  <li class="sport_31474">
-                    <a href="/en-GB/sportsbook/eventpaths/31474" data-id="31474" data-last-children="true">Primiera Division</a>
-                  </li>
-              </ul>
-            </li>
-            <li class="sport_24141">
-              <a href="/en-GB/sportsbook/eventpaths/24141" data-id="24141">Australia</a>
-              <ul>
-                  <li class="sport_81150">
-                    <a href="/en-GB/sportsbook/eventpaths/81150" data-id="81150" data-last-children="true">A-League</a>
-                  </li>
-                  <li class="sport_32057">
-                    <a href="/en-GB/sportsbook/eventpaths/32057" data-id="32057" data-last-children="true">Western Premier League</a>
-                  </li>
-                  <li class="sport_32012">
-                    <a href="/en-GB/sportsbook/eventpaths/32012" data-id="32012" data-last-children="true">Victorian Premier League</a>
-                  </li>
-                  <li class="sport_71499">
-                    <a href="/en-GB/sportsbook/eventpaths/71499" data-id="71499" data-last-children="true">Southern Premier League</a>
-                  </li>
-                  <li class="sport_32058">
-                    <a href="/en-GB/sportsbook/eventpaths/32058" data-id="32058" data-last-children="true">NSW Premier League</a>
-                  </li>
               </ul>
             </li>
             <li class="sport_23395">
@@ -483,25 +373,6 @@
                   <li class="sport_33236">
                     <a href="/en-GB/sportsbook/eventpaths/33236" data-id="33236" data-last-children="true">AST Division 1</a>
                   </li>
-                  <li class="sport_69689">
-                    <a href="/en-GB/sportsbook/eventpaths/69689" data-id="69689" data-last-children="true">AST Regionalliga</a>
-                  </li>
-              </ul>
-            </li>
-            <li class="sport_24432">
-              <a href="/en-GB/sportsbook/eventpaths/24432" data-id="24432">Azerbaijan</a>
-              <ul>
-                  <li class="sport_122526">
-                    <a href="/en-GB/sportsbook/eventpaths/122526" data-id="122526" data-last-children="true">Azerbaijan-Premyer Liqasi</a>
-                  </li>
-              </ul>
-            </li>
-            <li class="sport_23430">
-              <a href="/en-GB/sportsbook/eventpaths/23430" data-id="23430">Belarus</a>
-              <ul>
-                  <li class="sport_29629">
-                    <a href="/en-GB/sportsbook/eventpaths/29629" data-id="29629" data-last-children="true">BLR Premiership</a>
-                  </li>
               </ul>
             </li>
             <li class="sport_23403">
@@ -510,48 +381,21 @@
                   <li class="sport_52995">
                     <a href="/en-GB/sportsbook/eventpaths/52995" data-id="52995" data-last-children="true">BEL Jupiler</a>
                   </li>
-                  <li class="sport_61791">
-                    <a href="/en-GB/sportsbook/eventpaths/61791" data-id="61791" data-last-children="true">BEL Division 2</a>
-                  </li>
               </ul>
             </li>
-            <li class="sport_4021">
-              <a href="/en-GB/sportsbook/eventpaths/4021" data-id="4021">Bolivia</a>
+            <li class="sport_31020">
+              <a href="/en-GB/sportsbook/eventpaths/31020" data-id="31020">Brazil</a>
               <ul>
-                  <li class="sport_66534">
-                    <a href="/en-GB/sportsbook/eventpaths/66534" data-id="66534" data-last-children="true">BOL Bolivia Primera</a>
-                  </li>
-              </ul>
-            </li>
-            <li class="sport_23272">
-              <a href="/en-GB/sportsbook/eventpaths/23272" data-id="23272">Bulgaria</a>
-              <ul>
-                  <li class="sport_57102">
-                    <a href="/en-GB/sportsbook/eventpaths/57102" data-id="57102" data-last-children="true">BUL A League</a>
-                  </li>
-              </ul>
-            </li>
-            <li class="sport_25653">
-              <a href="/en-GB/sportsbook/eventpaths/25653" data-id="25653">Chile</a>
-              <ul>
-                  <li class="sport_32795">
-                    <a href="/en-GB/sportsbook/eventpaths/32795" data-id="32795" data-last-children="true">CHI Primera</a>
-                  </li>
-              </ul>
-            </li>
-            <li class="sport_23994">
-              <a href="/en-GB/sportsbook/eventpaths/23994" data-id="23994">China</a>
-              <ul>
-                  <li class="sport_33927">
-                    <a href="/en-GB/sportsbook/eventpaths/33927" data-id="33927" data-last-children="true">CHN CHI Super League</a>
+                  <li class="sport_31157">
+                    <a href="/en-GB/sportsbook/eventpaths/31157" data-id="31157" data-last-children="true">Serie A</a>
                   </li>
               </ul>
             </li>
             <li class="sport_32635">
               <a href="/en-GB/sportsbook/eventpaths/32635" data-id="32635">Columbia</a>
               <ul>
-                  <li class="sport_32638">
-                    <a href="/en-GB/sportsbook/eventpaths/32638" data-id="32638" data-last-children="true">COL Primera A</a>
+                  <li class="sport_33070">
+                    <a href="/en-GB/sportsbook/eventpaths/33070" data-id="33070" data-last-children="true">COL Columbia Cup</a>
                   </li>
               </ul>
             </li>
@@ -561,103 +405,50 @@
                   <li class="sport_48090">
                     <a href="/en-GB/sportsbook/eventpaths/48090" data-id="48090" data-last-children="true">CRO Division 1</a>
                   </li>
-              </ul>
-            </li>
-            <li class="sport_23294">
-              <a href="/en-GB/sportsbook/eventpaths/23294" data-id="23294">Czech Republic</a>
-              <ul>
-                  <li class="sport_31924">
-                    <a href="/en-GB/sportsbook/eventpaths/31924" data-id="31924" data-last-children="true">Div 2</a>
-                  </li>
-                  <li class="sport_49084">
-                    <a href="/en-GB/sportsbook/eventpaths/49084" data-id="49084" data-last-children="true">Gambrinus Liga</a>
+                  <li class="sport_65122">
+                    <a href="/en-GB/sportsbook/eventpaths/65122" data-id="65122" data-last-children="true">CRO Croatian Cup</a>
                   </li>
               </ul>
             </li>
             <li class="sport_23152">
               <a href="/en-GB/sportsbook/eventpaths/23152" data-id="23152">Denmark</a>
               <ul>
-                  <li class="sport_24691">
-                    <a href="/en-GB/sportsbook/eventpaths/24691" data-id="24691" data-last-children="true">DEN Division 1</a>
-                  </li>
                   <li class="sport_23205">
                     <a href="/en-GB/sportsbook/eventpaths/23205" data-id="23205" data-last-children="true">DEN Superligaen</a>
                   </li>
-                  <li class="sport_57519">
-                    <a href="/en-GB/sportsbook/eventpaths/57519" data-id="57519" data-last-children="true">DEN Division 2</a>
-                  </li>
-                  <li class="sport_308905">
-                    <a href="/en-GB/sportsbook/eventpaths/308905" data-id="308905" data-last-children="true">Danmarksserien</a>
-                  </li>
               </ul>
             </li>
-            <li class="sport_23688">
-              <a href="/en-GB/sportsbook/eventpaths/23688" data-id="23688">Ecuador</a>
+            <li class="sport_23302">
+              <a href="/en-GB/sportsbook/eventpaths/23302" data-id="23302">Finland</a>
               <ul>
-                  <li class="sport_33809">
-                    <a href="/en-GB/sportsbook/eventpaths/33809" data-id="33809" data-last-children="true">ECU Primera A.</a>
+                  <li class="sport_27392">
+                    <a href="/en-GB/sportsbook/eventpaths/27392" data-id="27392" data-last-children="true">Veikkausliiga</a>
                   </li>
-              </ul>
-            </li>
-            <li class="sport_23297">
-              <a href="/en-GB/sportsbook/eventpaths/23297" data-id="23297">Estonia</a>
-              <ul>
-                  <li class="sport_30619">
-                    <a href="/en-GB/sportsbook/eventpaths/30619" data-id="30619" data-last-children="true">EST Meistriliiga</a>
-                  </li>
-              </ul>
-            </li>
-            <li class="sport_57894">
-              <a href="/en-GB/sportsbook/eventpaths/57894" data-id="57894">Faroe Islands</a>
-              <ul>
-                  <li class="sport_57896">
-                    <a href="/en-GB/sportsbook/eventpaths/57896" data-id="57896" data-last-children="true">FAR Vodafonedeildin</a>
-                  </li>
-              </ul>
-            </li>
-            <li class="sport_63373">
-              <a href="/en-GB/sportsbook/eventpaths/63373" data-id="63373">Guatemala</a>
-              <ul>
-                  <li class="sport_82558">
-                    <a href="/en-GB/sportsbook/eventpaths/82558" data-id="82558" data-last-children="true">GUA Liga Nacional</a>
-                  </li>
-              </ul>
-            </li>
-            <li class="sport_23314">
-              <a href="/en-GB/sportsbook/eventpaths/23314" data-id="23314">Hungary</a>
-              <ul>
-                  <li class="sport_50259">
-                    <a href="/en-GB/sportsbook/eventpaths/50259" data-id="50259" data-last-children="true">HUN Hungary League</a>
+                  <li class="sport_27400">
+                    <a href="/en-GB/sportsbook/eventpaths/27400" data-id="27400" data-last-children="true">Ykkonen</a>
                   </li>
               </ul>
             </li>
             <li class="sport_23820">
               <a href="/en-GB/sportsbook/eventpaths/23820" data-id="23820">Iceland</a>
               <ul>
-                  <li class="sport_147827">
-                    <a href="/en-GB/sportsbook/eventpaths/147827" data-id="147827" data-last-children="true">ICE League Cup</a>
+                  <li class="sport_32643">
+                    <a href="/en-GB/sportsbook/eventpaths/32643" data-id="32643" data-last-children="true">Division 1</a>
                   </li>
-              </ul>
-            </li>
-            <li class="sport_28053">
-              <a href="/en-GB/sportsbook/eventpaths/28053" data-id="28053">India</a>
-              <ul>
-                  <li class="sport_98753">
-                    <a href="/en-GB/sportsbook/eventpaths/98753" data-id="98753" data-last-children="true">IDN I-League</a>
+                  <li class="sport_33556">
+                    <a href="/en-GB/sportsbook/eventpaths/33556" data-id="33556" data-last-children="true">Division 2</a>
                   </li>
-              </ul>
-            </li>
-            <li class="sport_23922">
-              <a href="/en-GB/sportsbook/eventpaths/23922" data-id="23922">Israel</a>
-              <ul>
-                  <li class="sport_62887">
-                    <a href="/en-GB/sportsbook/eventpaths/62887" data-id="62887" data-last-children="true">Ligat Leumit</a>
+                  <li class="sport_29919">
+                    <a href="/en-GB/sportsbook/eventpaths/29919" data-id="29919" data-last-children="true">ICE Iceland Premier league</a>
                   </li>
-                  <li class="sport_62888">
-                    <a href="/en-GB/sportsbook/eventpaths/62888" data-id="62888" data-last-children="true">Premier League</a>
+                  <li class="sport_33560">
+                    <a href="/en-GB/sportsbook/eventpaths/33560" data-id="33560" data-last-children="true">ICE Womens Premier League</a>
                   </li>
-                  <li class="sport_127428">
-                    <a href="/en-GB/sportsbook/eventpaths/127428" data-id="127428" data-last-children="true">Liga Alef</a>
+                  <li class="sport_178548">
+                    <a href="/en-GB/sportsbook/eventpaths/178548" data-id="178548" data-last-children="true">U19 League</a>
+                  </li>
+                  <li class="sport_310706">
+                    <a href="/en-GB/sportsbook/eventpaths/310706" data-id="310706" data-last-children="true">Division 1 (W)</a>
                   </li>
               </ul>
             </li>
@@ -672,90 +463,11 @@
                   </li>
               </ul>
             </li>
-            <li class="sport_24544">
-              <a href="/en-GB/sportsbook/eventpaths/24544" data-id="24544">Japan</a>
-              <ul>
-                  <li class="sport_31404">
-                    <a href="/en-GB/sportsbook/eventpaths/31404" data-id="31404" data-last-children="true">JAP J-2-league</a>
-                  </li>
-                  <li class="sport_152811">
-                    <a href="/en-GB/sportsbook/eventpaths/152811" data-id="152811" data-last-children="true">JAP Japanese League</a>
-                  </li>
-              </ul>
-            </li>
-            <li class="sport_28731">
-              <a href="/en-GB/sportsbook/eventpaths/28731" data-id="28731">Jordan</a>
-              <ul>
-                  <li class="sport_57639">
-                    <a href="/en-GB/sportsbook/eventpaths/57639" data-id="57639" data-last-children="true">JOR Jordan League</a>
-                  </li>
-              </ul>
-            </li>
-            <li class="sport_23926">
-              <a href="/en-GB/sportsbook/eventpaths/23926" data-id="23926">Kazakhstan</a>
-              <ul>
-                  <li class="sport_33082">
-                    <a href="/en-GB/sportsbook/eventpaths/33082" data-id="33082" data-last-children="true">KAZ Kazakhstan Super League</a>
-                  </li>
-              </ul>
-            </li>
-            <li class="sport_26552">
-              <a href="/en-GB/sportsbook/eventpaths/26552" data-id="26552">Kuwait</a>
-              <ul>
-                  <li class="sport_128783">
-                    <a href="/en-GB/sportsbook/eventpaths/128783" data-id="128783" data-last-children="true">KUW Kuwait League</a>
-                  </li>
-              </ul>
-            </li>
-            <li class="sport_26583">
-              <a href="/en-GB/sportsbook/eventpaths/26583" data-id="26583">Malaysia</a>
-              <ul>
-                  <li class="sport_39518">
-                    <a href="/en-GB/sportsbook/eventpaths/39518" data-id="39518" data-last-children="true">Premier League</a>
-                  </li>
-              </ul>
-            </li>
-            <li class="sport_23997">
-              <a href="/en-GB/sportsbook/eventpaths/23997" data-id="23997">Mexico</a>
-              <ul>
-                  <li class="sport_52362">
-                    <a href="/en-GB/sportsbook/eventpaths/52362" data-id="52362" data-last-children="true">MEX Mexican Primera</a>
-                  </li>
-                  <li class="sport_138199">
-                    <a href="/en-GB/sportsbook/eventpaths/138199" data-id="138199" data-last-children="true">MEX Liga De Ascenso</a>
-                  </li>
-                  <li class="sport_330819">
-                    <a href="/en-GB/sportsbook/eventpaths/330819" data-id="330819" data-last-children="true">U20 Mexico League</a>
-                  </li>
-              </ul>
-            </li>
-            <li class="sport_26556">
-              <a href="/en-GB/sportsbook/eventpaths/26556" data-id="26556">Morocco</a>
-              <ul>
-                  <li class="sport_63218">
-                    <a href="/en-GB/sportsbook/eventpaths/63218" data-id="63218" data-last-children="true">MOR Super League , Morocco</a>
-                  </li>
-              </ul>
-            </li>
-            <li class="sport_57273">
-              <a href="/en-GB/sportsbook/eventpaths/57273" data-id="57273">N Ireland</a>
-              <ul>
-                  <li class="sport_57274">
-                    <a href="/en-GB/sportsbook/eventpaths/57274" data-id="57274" data-last-children="true">NIR Premier</a>
-                  </li>
-              </ul>
-            </li>
             <li class="sport_47281">
               <a href="/en-GB/sportsbook/eventpaths/47281" data-id="47281">Netherlands</a>
               <ul>
                   <li class="sport_47282">
                     <a href="/en-GB/sportsbook/eventpaths/47282" data-id="47282" data-last-children="true">NET Eredivisie</a>
-                  </li>
-                  <li class="sport_57345">
-                    <a href="/en-GB/sportsbook/eventpaths/57345" data-id="57345" data-last-children="true">NET Jupiler League / Eerste Div</a>
-                  </li>
-                  <li class="sport_188697">
-                    <a href="/en-GB/sportsbook/eventpaths/188697" data-id="188697" data-last-children="true">NET Eredivisie Outrights</a>
                   </li>
               </ul>
             </li>
@@ -765,38 +477,16 @@
                   <li class="sport_27295">
                     <a href="/en-GB/sportsbook/eventpaths/27295" data-id="27295" data-last-children="true">NOR Tippeligaen</a>
                   </li>
-                  <li class="sport_159707">
-                    <a href="/en-GB/sportsbook/eventpaths/159707" data-id="159707" data-last-children="true">NOR Division 1</a>
-                  </li>
-              </ul>
-            </li>
-            <li class="sport_28162">
-              <a href="/en-GB/sportsbook/eventpaths/28162" data-id="28162">Paraguay</a>
-              <ul>
-                  <li class="sport_31919">
-                    <a href="/en-GB/sportsbook/eventpaths/31919" data-id="31919" data-last-children="true">PAR Primera Division</a>
-                  </li>
-              </ul>
-            </li>
-            <li class="sport_24006">
-              <a href="/en-GB/sportsbook/eventpaths/24006" data-id="24006">Peru</a>
-              <ul>
-                  <li class="sport_426967">
-                    <a href="/en-GB/sportsbook/eventpaths/426967" data-id="426967" data-last-children="true">PER Copa Inca</a>
-                  </li>
               </ul>
             </li>
             <li class="sport_23335">
               <a href="/en-GB/sportsbook/eventpaths/23335" data-id="23335">Poland</a>
               <ul>
-                  <li class="sport_34061">
-                    <a href="/en-GB/sportsbook/eventpaths/34061" data-id="34061" data-last-children="true">POL 2nd League</a>
-                  </li>
                   <li class="sport_23748">
                     <a href="/en-GB/sportsbook/eventpaths/23748" data-id="23748" data-last-children="true">POL Ekstraklasa</a>
                   </li>
-                  <li class="sport_31914">
-                    <a href="/en-GB/sportsbook/eventpaths/31914" data-id="31914" data-last-children="true">POL I Liga</a>
+                  <li class="sport_200032">
+                    <a href="/en-GB/sportsbook/eventpaths/200032" data-id="200032" data-last-children="true">POL Super Cup</a>
                   </li>
               </ul>
             </li>
@@ -806,49 +496,21 @@
                   <li class="sport_24246">
                     <a href="/en-GB/sportsbook/eventpaths/24246" data-id="24246" data-last-children="true">POR Liga Sagres</a>
                   </li>
-                  <li class="sport_62817">
-                    <a href="/en-GB/sportsbook/eventpaths/62817" data-id="62817" data-last-children="true">POR Liga Vitalis de Honra</a>
-                  </li>
-              </ul>
-            </li>
-            <li class="sport_26548">
-              <a href="/en-GB/sportsbook/eventpaths/26548" data-id="26548">Qatar</a>
-              <ul>
-                  <li class="sport_75908">
-                    <a href="/en-GB/sportsbook/eventpaths/75908" data-id="75908" data-last-children="true">QAT Qatar League</a>
-                  </li>
               </ul>
             </li>
             <li class="sport_23880">
               <a href="/en-GB/sportsbook/eventpaths/23880" data-id="23880">Romania</a>
               <ul>
-                  <li class="sport_52555">
-                    <a href="/en-GB/sportsbook/eventpaths/52555" data-id="52555" data-last-children="true">ROM Divizia A</a>
+                  <li class="sport_51107">
+                    <a href="/en-GB/sportsbook/eventpaths/51107" data-id="51107" data-last-children="true">ROM Super Cup</a>
                   </li>
               </ul>
             </li>
             <li class="sport_31720">
               <a href="/en-GB/sportsbook/eventpaths/31720" data-id="31720">Russian Federation</a>
               <ul>
-                  <li class="sport_33522">
-                    <a href="/en-GB/sportsbook/eventpaths/33522" data-id="33522" data-last-children="true">Reserve League</a>
-                  </li>
                   <li class="sport_31730">
                     <a href="/en-GB/sportsbook/eventpaths/31730" data-id="31730" data-last-children="true">RUS Division 1</a>
-                  </li>
-                  <li class="sport_31721">
-                    <a href="/en-GB/sportsbook/eventpaths/31721" data-id="31721" data-last-children="true">RUS Premier</a>
-                  </li>
-                  <li class="sport_190446">
-                    <a href="/en-GB/sportsbook/eventpaths/190446" data-id="190446" data-last-children="true">RUS Premier Outrights</a>
-                  </li>
-              </ul>
-            </li>
-            <li class="sport_28138">
-              <a href="/en-GB/sportsbook/eventpaths/28138" data-id="28138">Saudi Arabia</a>
-              <ul>
-                  <li class="sport_73094">
-                    <a href="/en-GB/sportsbook/eventpaths/73094" data-id="73094" data-last-children="true">SAU Saudi Premiere</a>
                   </li>
               </ul>
             </li>
@@ -857,31 +519,6 @@
               <ul>
                   <li class="sport_23155">
                     <a href="/en-GB/sportsbook/eventpaths/23155" data-id="23155" data-last-children="true">SCO Premiership</a>
-                  </li>
-                  <li class="sport_56279">
-                    <a href="/en-GB/sportsbook/eventpaths/56279" data-id="56279" data-last-children="true">SCO Championship</a>
-                  </li>
-                  <li class="sport_56382">
-                    <a href="/en-GB/sportsbook/eventpaths/56382" data-id="56382" data-last-children="true">SCO League One</a>
-                  </li>
-                  <li class="sport_56383">
-                    <a href="/en-GB/sportsbook/eventpaths/56383" data-id="56383" data-last-children="true">SCO League Two</a>
-                  </li>
-              </ul>
-            </li>
-            <li class="sport_23366">
-              <a href="/en-GB/sportsbook/eventpaths/23366" data-id="23366">Serbia</a>
-              <ul>
-                  <li class="sport_59926">
-                    <a href="/en-GB/sportsbook/eventpaths/59926" data-id="59926" data-last-children="true">Super Liga</a>
-                  </li>
-              </ul>
-            </li>
-            <li class="sport_23048">
-              <a href="/en-GB/sportsbook/eventpaths/23048" data-id="23048">Singapore</a>
-              <ul>
-                  <li class="sport_23049">
-                    <a href="/en-GB/sportsbook/eventpaths/23049" data-id="23049" data-last-children="true">SIN S League</a>
                   </li>
               </ul>
             </li>
@@ -893,27 +530,11 @@
                   </li>
               </ul>
             </li>
-            <li class="sport_23369">
-              <a href="/en-GB/sportsbook/eventpaths/23369" data-id="23369">Slovenia</a>
-              <ul>
-                  <li class="sport_50291">
-                    <a href="/en-GB/sportsbook/eventpaths/50291" data-id="50291" data-last-children="true">SLN 1 SNL</a>
-                  </li>
-              </ul>
-            </li>
-            <li class="sport_28737">
-              <a href="/en-GB/sportsbook/eventpaths/28737" data-id="28737">South Africa</a>
-              <ul>
-                  <li class="sport_33320">
-                    <a href="/en-GB/sportsbook/eventpaths/33320" data-id="33320" data-last-children="true">SAF South Africa Premier League</a>
-                  </li>
-              </ul>
-            </li>
             <li class="sport_30400">
-              <a href="/en-GB/sportsbook/eventpaths/30400" data-id="30400">Korea</a>
+              <a href="/en-GB/sportsbook/eventpaths/30400" data-id="30400">South Korea</a>
               <ul>
-                  <li class="sport_33595">
-                    <a href="/en-GB/sportsbook/eventpaths/33595" data-id="33595" data-last-children="true">SKR Korean National League</a>
+                  <li class="sport_33844">
+                    <a href="/en-GB/sportsbook/eventpaths/33844" data-id="33844" data-last-children="true">SKR K League</a>
                   </li>
               </ul>
             </li>
@@ -923,20 +544,17 @@
                   <li class="sport_27313">
                     <a href="/en-GB/sportsbook/eventpaths/27313" data-id="27313" data-last-children="true">Allsvenskan</a>
                   </li>
-                  <li class="sport_27360">
-                    <a href="/en-GB/sportsbook/eventpaths/27360" data-id="27360" data-last-children="true">Superettan</a>
+                  <li class="sport_53484">
+                    <a href="/en-GB/sportsbook/eventpaths/53484" data-id="53484" data-last-children="true">Damallsvenskan</a>
                   </li>
-                  <li class="sport_35424">
-                    <a href="/en-GB/sportsbook/eventpaths/35424" data-id="35424" data-last-children="true">Sweden Cup</a>
+                  <li class="sport_46917">
+                    <a href="/en-GB/sportsbook/eventpaths/46917" data-id="46917" data-last-children="true">Division 1</a>
                   </li>
               </ul>
             </li>
             <li class="sport_23306">
               <a href="/en-GB/sportsbook/eventpaths/23306" data-id="23306">Switzerland</a>
               <ul>
-                  <li class="sport_53093">
-                    <a href="/en-GB/sportsbook/eventpaths/53093" data-id="53093" data-last-children="true">SWI Challenge League</a>
-                  </li>
                   <li class="sport_48249">
                     <a href="/en-GB/sportsbook/eventpaths/48249" data-id="48249" data-last-children="true">SWI Super League</a>
                   </li>
@@ -945,84 +563,30 @@
             <li class="sport_4064">
               <a href="/en-GB/sportsbook/eventpaths/4064" data-id="4064">Turkey</a>
               <ul>
-                  <li class="sport_67084">
-                    <a href="/en-GB/sportsbook/eventpaths/67084" data-id="67084" data-last-children="true">TUR 3.Lig</a>
-                  </li>
                   <li class="sport_66493">
                     <a href="/en-GB/sportsbook/eventpaths/66493" data-id="66493" data-last-children="true">TUR Super Lig</a>
-                  </li>
-                  <li class="sport_72290">
-                    <a href="/en-GB/sportsbook/eventpaths/72290" data-id="72290" data-last-children="true">TUR 1.Lig</a>
-                  </li>
-                  <li class="sport_188156">
-                    <a href="/en-GB/sportsbook/eventpaths/188156" data-id="188156" data-last-children="true">TUR Super Lig Outrights</a>
-                  </li>
-              </ul>
-            </li>
-            <li class="sport_23891">
-              <a href="/en-GB/sportsbook/eventpaths/23891" data-id="23891">Ukraine</a>
-              <ul>
-                  <li class="sport_49079">
-                    <a href="/en-GB/sportsbook/eventpaths/49079" data-id="49079" data-last-children="true">UKR Vyscha Liga</a>
                   </li>
               </ul>
             </li>
             <li class="sport_23383">
-              <a href="/en-GB/sportsbook/eventpaths/23383" data-id="23383">USA</a>
+              <a href="/en-GB/sportsbook/eventpaths/23383" data-id="23383">Usa</a>
               <ul>
                   <li class="sport_29606">
                     <a href="/en-GB/sportsbook/eventpaths/29606" data-id="29606" data-last-children="true">USA Major League Soccer</a>
                   </li>
-              </ul>
-            </li>
-            <li class="sport_73833">
-              <a href="/en-GB/sportsbook/eventpaths/73833" data-id="73833">United Arab Emirates</a>
-              <ul>
-                  <li class="sport_94383">
-                    <a href="/en-GB/sportsbook/eventpaths/94383" data-id="94383" data-last-children="true">UAE United Arab Emirates League</a>
+                  <li class="sport_42716">
+                    <a href="/en-GB/sportsbook/eventpaths/42716" data-id="42716" data-last-children="true">USA US Open</a>
                   </li>
-                  <li class="sport_233851">
-                    <a href="/en-GB/sportsbook/eventpaths/233851" data-id="233851" data-last-children="true">Reserve League</a>
+                  <li class="sport_322924">
+                    <a href="/en-GB/sportsbook/eventpaths/322924" data-id="322924" data-last-children="true">Usa - NASL</a>
                   </li>
               </ul>
             </li>
-            <li class="sport_28844">
-              <a href="/en-GB/sportsbook/eventpaths/28844" data-id="28844">Uruguay</a>
+            <li class="sport_23337">
+              <a href="/en-GB/sportsbook/eventpaths/23337" data-id="23337">Russia</a>
               <ul>
-                  <li class="sport_31944">
-                    <a href="/en-GB/sportsbook/eventpaths/31944" data-id="31944" data-last-children="true">URU Primera Division</a>
-                  </li>
-              </ul>
-            </li>
-            <li class="sport_28699">
-              <a href="/en-GB/sportsbook/eventpaths/28699" data-id="28699">Venezuela</a>
-              <ul>
-                  <li class="sport_136743">
-                    <a href="/en-GB/sportsbook/eventpaths/136743" data-id="136743" data-last-children="true">VEN Primera Division</a>
-                  </li>
-              </ul>
-            </li>
-            <li class="sport_30880">
-              <a href="/en-GB/sportsbook/eventpaths/30880" data-id="30880">Yemen</a>
-              <ul>
-                  <li class="sport_54585">
-                    <a href="/en-GB/sportsbook/eventpaths/54585" data-id="54585" data-last-children="true">YEM Yemen Div 1</a>
-                  </li>
-              </ul>
-            </li>
-            <li class="sport_23372">
-              <a href="/en-GB/sportsbook/eventpaths/23372" data-id="23372">Wales</a>
-              <ul>
-                  <li class="sport_59736">
-                    <a href="/en-GB/sportsbook/eventpaths/59736" data-id="59736" data-last-children="true">WAL Premier League</a>
-                  </li>
-              </ul>
-            </li>
-            <li class="sport_32458">
-              <a href="/en-GB/sportsbook/eventpaths/32458" data-id="32458">Vietnam</a>
-              <ul>
-                  <li class="sport_56587">
-                    <a href="/en-GB/sportsbook/eventpaths/56587" data-id="56587" data-last-children="true">VIE V-league</a>
+                  <li class="sport_24212">
+                    <a href="/en-GB/sportsbook/eventpaths/24212" data-id="24212" data-last-children="true">Russia - Premier League</a>
                   </li>
               </ul>
             </li>
@@ -1031,38 +595,57 @@
       <li class="sport_239">
         <a href="/en-GB/sportsbook/eventpaths/239" data-eventpath-id="239">Tennis</a>
         <ul>
-            <li class="sport_183657">
-              <a href="/en-GB/sportsbook/eventpaths/183657" data-id="183657">ATP</a>
+            <li class="sport_467926">
+              <a href="/en-GB/sportsbook/eventpaths/467926" data-id="467926">ATP</a>
               <ul>
-                  <li class="sport_312210">
-                    <a href="/en-GB/sportsbook/eventpaths/312210" data-id="312210" data-last-children="true">Roland Garros, Paris, France</a>
+                  <li class="sport_496795">
+                    <a href="/en-GB/sportsbook/eventpaths/496795" data-id="496795" data-last-children="true">ATP Portoroz Challenger</a>
                   </li>
-                  <li class="sport_320531">
-                    <a href="/en-GB/sportsbook/eventpaths/320531" data-id="320531" data-last-children="true">Wimbledon, London, Great Britain, Outright</a>
+                  <li class="sport_497206">
+                    <a href="/en-GB/sportsbook/eventpaths/497206" data-id="497206" data-last-children="true">Campbell's Hall of Fame Tennis Championships</a>
                   </li>
-                  <li class="sport_439300">
-                    <a href="/en-GB/sportsbook/eventpaths/439300" data-id="439300" data-last-children="true">Miami, USA</a>
+                  <li class="sport_497223">
+                    <a href="/en-GB/sportsbook/eventpaths/497223" data-id="497223" data-last-children="true">Campbell's Hall of Fame Tennis Championships Doubles</a>
                   </li>
+                  <li class="sport_497003">
+                    <a href="/en-GB/sportsbook/eventpaths/497003" data-id="497003" data-last-children="true">Carisap Tennis Cup</a>
+                  </li>
+                  <li class="sport_496869">
+                    <a href="/en-GB/sportsbook/eventpaths/496869" data-id="496869" data-last-children="true">MercedesCup</a>
+                  </li>
+                  <li class="sport_496821">
+                    <a href="/en-GB/sportsbook/eventpaths/496821" data-id="496821" data-last-children="true">MercedesCup Doubles</a>
+                  </li>
+                  <li class="sport_496856">
+                    <a href="/en-GB/sportsbook/eventpaths/496856" data-id="496856" data-last-children="true">SkiStar Swedish Open</a>
+                  </li>
+                  <li class="sport_496881">
+                    <a href="/en-GB/sportsbook/eventpaths/496881" data-id="496881" data-last-children="true">SkiStar Swedish Open Doubles</a>
+                  </li>
+                  <li class="sport_496778">
+                    <a href="/en-GB/sportsbook/eventpaths/496778" data-id="496778" data-last-children="true">The Hague Open</a>
+                  </li>
+              </ul>
+            </li>
+            <li class="sport_467953">
+              <a href="/en-GB/sportsbook/eventpaths/467953" data-id="467953">WTA</a>
+              <ul>
+                  <li class="sport_496749">
+                    <a href="/en-GB/sportsbook/eventpaths/496749" data-id="496749" data-last-children="true">BRD Bucharest Open</a>
+                  </li>
+              </ul>
+            </li>
+            <li class="sport_183657">
+              <a href="/en-GB/sportsbook/eventpaths/183657" data-id="183657">ATP Outrights</a>
+              <ul>
                   <li class="sport_345263">
                     <a href="/en-GB/sportsbook/eventpaths/345263" data-id="345263" data-last-children="true">US Open, New York, USA, Outright</a>
                   </li>
               </ul>
             </li>
             <li class="sport_183670">
-              <a href="/en-GB/sportsbook/eventpaths/183670" data-id="183670">WTA</a>
+              <a href="/en-GB/sportsbook/eventpaths/183670" data-id="183670">WTA Outrights</a>
               <ul>
-                  <li class="sport_312152">
-                    <a href="/en-GB/sportsbook/eventpaths/312152" data-id="312152" data-last-children="true">Roland Garros, Paris, France</a>
-                  </li>
-                  <li class="sport_320597">
-                    <a href="/en-GB/sportsbook/eventpaths/320597" data-id="320597" data-last-children="true">Wimbledon, London, Great Britain, Outright</a>
-                  </li>
-                  <li class="sport_439128">
-                    <a href="/en-GB/sportsbook/eventpaths/439128" data-id="439128" data-last-children="true">Miami, USA</a>
-                  </li>
-                  <li class="sport_440016">
-                    <a href="/en-GB/sportsbook/eventpaths/440016" data-id="440016" data-last-children="true">Miami, USA, Doubles</a>
-                  </li>
                   <li class="sport_345315">
                     <a href="/en-GB/sportsbook/eventpaths/345315" data-id="345315" data-last-children="true">US Open, New York, USA, Outright</a>
                   </li>
@@ -1071,35 +654,31 @@
             <li class="sport_183660">
               <a href="/en-GB/sportsbook/eventpaths/183660" data-id="183660">ITF Men</a>
               <ul>
-                  <li class="sport_442471">
-                    <a href="/en-GB/sportsbook/eventpaths/442471" data-id="442471" data-last-children="true">Japan F3, Singles</a>
+                  <li class="sport_497860">
+                    <a href="/en-GB/sportsbook/eventpaths/497860" data-id="497860" data-last-children="true">Canada F5, Doubles</a>
+                  </li>
+                  <li class="sport_497858">
+                    <a href="/en-GB/sportsbook/eventpaths/497858" data-id="497858" data-last-children="true">Canada F5, Singles</a>
                   </li>
               </ul>
             </li>
             <li class="sport_183665">
               <a href="/en-GB/sportsbook/eventpaths/183665" data-id="183665">ITF Women</a>
               <ul>
-                  <li class="sport_442450">
-                    <a href="/en-GB/sportsbook/eventpaths/442450" data-id="442450" data-last-children="true">Nishi-Tama, Singles W-C10-JPN-02A</a>
+                  <li class="sport_497791">
+                    <a href="/en-GB/sportsbook/eventpaths/497791" data-id="497791" data-last-children="true">Gatineau, Doubles W-C25-CAN-01A</a>
                   </li>
-              </ul>
-            </li>
-            <li class="sport_183676">
-              <a href="/en-GB/sportsbook/eventpaths/183676" data-id="183676">Challenge</a>
-              <ul>
-                  <li class="sport_442320">
-                    <a href="/en-GB/sportsbook/eventpaths/442320" data-id="442320" data-last-children="true">Barranquilla, Colombia</a>
+                  <li class="sport_497790">
+                    <a href="/en-GB/sportsbook/eventpaths/497790" data-id="497790" data-last-children="true">Gatineau, Singles W-C25-CAN-01A</a>
                   </li>
-                  <li class="sport_442298">
-                    <a href="/en-GB/sportsbook/eventpaths/442298" data-id="442298" data-last-children="true">Guadalajara, Mexico</a>
+                  <li class="sport_497826">
+                    <a href="/en-GB/sportsbook/eventpaths/497826" data-id="497826" data-last-children="true">Sacramento, Doubles W-C50-USA-05A</a>
                   </li>
-              </ul>
-            </li>
-            <li class="sport_201020">
-              <a href="/en-GB/sportsbook/eventpaths/201020" data-id="201020">Davis Cup</a>
-              <ul>
-                  <li class="sport_201021">
-                    <a href="/en-GB/sportsbook/eventpaths/201021" data-id="201021" data-last-children="true">World Group</a>
+                  <li class="sport_497827">
+                    <a href="/en-GB/sportsbook/eventpaths/497827" data-id="497827" data-last-children="true">Sacramento, Singles W-C50-USA-05A</a>
+                  </li>
+                  <li class="sport_498333">
+                    <a href="/en-GB/sportsbook/eventpaths/498333" data-id="498333" data-last-children="true">Sharm El Sheikh, Doubles W-C10-EGY-26A</a>
                   </li>
               </ul>
             </li>
@@ -1111,124 +690,54 @@
             <li class="sport_183654">
               <a href="/en-GB/sportsbook/eventpaths/183654" data-id="183654">International</a>
               <ul>
-                  <li class="sport_254975">
-                    <a href="/en-GB/sportsbook/eventpaths/254975" data-id="254975" data-last-children="true">Euroleague, Group E</a>
+                  <li class="sport_481157">
+                    <a href="/en-GB/sportsbook/eventpaths/481157" data-id="481157" data-last-children="true">FIBA World Championship 2014</a>
                   </li>
-                  <li class="sport_254974">
-                    <a href="/en-GB/sportsbook/eventpaths/254974" data-id="254974" data-last-children="true">Euroleague, Group F</a>
-                  </li>
-              </ul>
-            </li>
-            <li class="sport_208211">
-              <a href="/en-GB/sportsbook/eventpaths/208211" data-id="208211">Germany</a>
-              <ul>
-                  <li class="sport_209911">
-                    <a href="/en-GB/sportsbook/eventpaths/209911" data-id="209911" data-last-children="true">BBL</a>
-                  </li>
-                  <li class="sport_263937">
-                    <a href="/en-GB/sportsbook/eventpaths/263937" data-id="263937" data-last-children="true">BBL Pokal</a>
-                  </li>
-              </ul>
-            </li>
-            <li class="sport_208213">
-              <a href="/en-GB/sportsbook/eventpaths/208213" data-id="208213">Spain</a>
-              <ul>
-                  <li class="sport_208214">
-                    <a href="/en-GB/sportsbook/eventpaths/208214" data-id="208214" data-last-children="true">Spagnola ACB</a>
+                  <li class="sport_203121">
+                    <a href="/en-GB/sportsbook/eventpaths/203121" data-id="203121" data-last-children="true">U20 EC Div. A Women, Group F</a>
                   </li>
               </ul>
             </li>
             <li class="sport_183800">
-              <a href="/en-GB/sportsbook/eventpaths/183800" data-id="183800">USA</a>
+              <a href="/en-GB/sportsbook/eventpaths/183800" data-id="183800">Usa</a>
               <ul>
-                  <li class="sport_223517">
-                    <a href="/en-GB/sportsbook/eventpaths/223517" data-id="223517" data-last-children="true">NBA</a>
+                  <li class="sport_325246">
+                    <a href="/en-GB/sportsbook/eventpaths/325246" data-id="325246" data-last-children="true">NBA Summer League</a>
                   </li>
-                  <li class="sport_242715">
-                    <a href="/en-GB/sportsbook/eventpaths/242715" data-id="242715" data-last-children="true">NCAA</a>
-                  </li>
-              </ul>
-            </li>
-            <li class="sport_205065">
-              <a href="/en-GB/sportsbook/eventpaths/205065" data-id="205065">Italy</a>
-              <ul>
-                  <li class="sport_207322">
-                    <a href="/en-GB/sportsbook/eventpaths/207322" data-id="207322" data-last-children="true">A1</a>
-                  </li>
-              </ul>
-            </li>
-            <li class="sport_211210">
-              <a href="/en-GB/sportsbook/eventpaths/211210" data-id="211210">Austria</a>
-              <ul>
-                  <li class="sport_274856">
-                    <a href="/en-GB/sportsbook/eventpaths/274856" data-id="274856" data-last-children="true">ABL Hauptrunde 1</a>
-                  </li>
-                  <li class="sport_274897">
-                    <a href="/en-GB/sportsbook/eventpaths/274897" data-id="274897" data-last-children="true">ABL Hauptrunde 2</a>
-                  </li>
-              </ul>
-            </li>
-            <li class="sport_204516">
-              <a href="/en-GB/sportsbook/eventpaths/204516" data-id="204516">France</a>
-              <ul>
-                  <li class="sport_211344">
-                    <a href="/en-GB/sportsbook/eventpaths/211344" data-id="211344" data-last-children="true">Pro A</a>
-                  </li>
-              </ul>
-            </li>
-            <li class="sport_214295">
-              <a href="/en-GB/sportsbook/eventpaths/214295" data-id="214295">Turkey</a>
-              <ul>
-                  <li class="sport_214296">
-                    <a href="/en-GB/sportsbook/eventpaths/214296" data-id="214296" data-last-children="true">TBL</a>
-                  </li>
-              </ul>
-            </li>
-            <li class="sport_214358">
-              <a href="/en-GB/sportsbook/eventpaths/214358" data-id="214358">Argentina</a>
-              <ul>
-                  <li class="sport_394158">
-                    <a href="/en-GB/sportsbook/eventpaths/394158" data-id="394158" data-last-children="true">LNB, Segunda Fase</a>
+                  <li class="sport_183823">
+                    <a href="/en-GB/sportsbook/eventpaths/183823" data-id="183823" data-last-children="true">WNBA</a>
                   </li>
               </ul>
             </li>
             <li class="sport_191778">
               <a href="/en-GB/sportsbook/eventpaths/191778" data-id="191778">Australia</a>
               <ul>
-                  <li class="sport_442020">
-                    <a href="/en-GB/sportsbook/eventpaths/442020" data-id="442020" data-last-children="true">NBL, Playoffs</a>
+                  <li class="sport_463249">
+                    <a href="/en-GB/sportsbook/eventpaths/463249" data-id="463249" data-last-children="true">SEABL</a>
                   </li>
               </ul>
             </li>
-            <li class="sport_244841">
-              <a href="/en-GB/sportsbook/eventpaths/244841" data-id="244841">China</a>
+            <li class="sport_216871">
+              <a href="/en-GB/sportsbook/eventpaths/216871" data-id="216871">Philippines</a>
               <ul>
-                  <li class="sport_424681">
-                    <a href="/en-GB/sportsbook/eventpaths/424681" data-id="424681" data-last-children="true">CBA, Playoffs</a>
+                  <li class="sport_484867">
+                    <a href="/en-GB/sportsbook/eventpaths/484867" data-id="484867" data-last-children="true">PBA, Governors Cup, Playoffs</a>
                   </li>
               </ul>
             </li>
-            <li class="sport_214361">
-              <a href="/en-GB/sportsbook/eventpaths/214361" data-id="214361">Mexico</a>
+            <li class="sport_219212">
+              <a href="/en-GB/sportsbook/eventpaths/219212" data-id="219212">Uruguay</a>
               <ul>
-                  <li class="sport_425270">
-                    <a href="/en-GB/sportsbook/eventpaths/425270" data-id="425270" data-last-children="true">LNBP, Playoffs</a>
+                  <li class="sport_310797">
+                    <a href="/en-GB/sportsbook/eventpaths/310797" data-id="310797" data-last-children="true">Torneo Metropolitano</a>
                   </li>
               </ul>
             </li>
-            <li class="sport_208212">
-              <a href="/en-GB/sportsbook/eventpaths/208212" data-id="208212">Poland</a>
+            <li class="sport_318387">
+              <a href="/en-GB/sportsbook/eventpaths/318387" data-id="318387">Puerto Rico</a>
               <ul>
-                  <li class="sport_285592">
-                    <a href="/en-GB/sportsbook/eventpaths/285592" data-id="285592" data-last-children="true">PLK, Qualification Round</a>
-                  </li>
-              </ul>
-            </li>
-            <li class="sport_229156">
-              <a href="/en-GB/sportsbook/eventpaths/229156" data-id="229156">South Korea</a>
-              <ul>
-                  <li class="sport_238200">
-                    <a href="/en-GB/sportsbook/eventpaths/238200" data-id="238200" data-last-children="true">Korean League, Women</a>
+                  <li class="sport_473944">
+                    <a href="/en-GB/sportsbook/eventpaths/473944" data-id="473944" data-last-children="true">Puerto Superior Nacional</a>
                   </li>
               </ul>
             </li>
@@ -1245,98 +754,6 @@
                   </li>
               </ul>
             </li>
-            <li class="sport_197521">
-              <a href="/en-GB/sportsbook/eventpaths/197521" data-id="197521">Russia</a>
-              <ul>
-                  <li class="sport_276554">
-                    <a href="/en-GB/sportsbook/eventpaths/276554" data-id="276554" data-last-children="true">KHL Playoffs</a>
-                  </li>
-                  <li class="sport_285716">
-                    <a href="/en-GB/sportsbook/eventpaths/285716" data-id="285716" data-last-children="true">MHL Playoffs</a>
-                  </li>
-              </ul>
-            </li>
-            <li class="sport_200455">
-              <a href="/en-GB/sportsbook/eventpaths/200455" data-id="200455">Czech Republic</a>
-              <ul>
-                  <li class="sport_280619">
-                    <a href="/en-GB/sportsbook/eventpaths/280619" data-id="280619" data-last-children="true">Extraliga Playoffs</a>
-                  </li>
-                  <li class="sport_289007">
-                    <a href="/en-GB/sportsbook/eventpaths/289007" data-id="289007" data-last-children="true">Extraliga Promotion/Relegation Playoffs</a>
-                  </li>
-              </ul>
-            </li>
-            <li class="sport_200444">
-              <a href="/en-GB/sportsbook/eventpaths/200444" data-id="200444">Finland</a>
-              <ul>
-                  <li class="sport_286701">
-                    <a href="/en-GB/sportsbook/eventpaths/286701" data-id="286701" data-last-children="true">SM-Liiga Playoffs</a>
-                  </li>
-              </ul>
-            </li>
-            <li class="sport_200518">
-              <a href="/en-GB/sportsbook/eventpaths/200518" data-id="200518">Switzerland</a>
-              <ul>
-                  <li class="sport_274340">
-                    <a href="/en-GB/sportsbook/eventpaths/274340" data-id="274340" data-last-children="true">NLB Playoffs</a>
-                  </li>
-              </ul>
-            </li>
-            <li class="sport_201183">
-              <a href="/en-GB/sportsbook/eventpaths/201183" data-id="201183">Germany</a>
-              <ul>
-                  <li class="sport_288483">
-                    <a href="/en-GB/sportsbook/eventpaths/288483" data-id="288483" data-last-children="true">2nd Bundesliga Playoffs</a>
-                  </li>
-                  <li class="sport_443127">
-                    <a href="/en-GB/sportsbook/eventpaths/443127" data-id="443127" data-last-children="true">DEL 2, Relegation Round</a>
-                  </li>
-                  <li class="sport_285979">
-                    <a href="/en-GB/sportsbook/eventpaths/285979" data-id="285979" data-last-children="true">DEL Playoffs</a>
-                  </li>
-              </ul>
-            </li>
-            <li class="sport_199905">
-              <a href="/en-GB/sportsbook/eventpaths/199905" data-id="199905">Austria</a>
-              <ul>
-                  <li class="sport_279106">
-                    <a href="/en-GB/sportsbook/eventpaths/279106" data-id="279106" data-last-children="true">EHL Playoffs</a>
-                  </li>
-              </ul>
-            </li>
-            <li class="sport_200787">
-              <a href="/en-GB/sportsbook/eventpaths/200787" data-id="200787">Slovakia</a>
-              <ul>
-                  <li class="sport_282835">
-                    <a href="/en-GB/sportsbook/eventpaths/282835" data-id="282835" data-last-children="true">Extraliga Playoffs</a>
-                  </li>
-              </ul>
-            </li>
-            <li class="sport_198743">
-              <a href="/en-GB/sportsbook/eventpaths/198743" data-id="198743">Poland</a>
-              <ul>
-                  <li class="sport_276878">
-                    <a href="/en-GB/sportsbook/eventpaths/276878" data-id="276878" data-last-children="true">Ekstraliga Playoffs</a>
-                  </li>
-              </ul>
-            </li>
-            <li class="sport_204488">
-              <a href="/en-GB/sportsbook/eventpaths/204488" data-id="204488">Denmark</a>
-              <ul>
-                  <li class="sport_280249">
-                    <a href="/en-GB/sportsbook/eventpaths/280249" data-id="280249" data-last-children="true">Superisligaen Playoffs </a>
-                  </li>
-              </ul>
-            </li>
-            <li class="sport_220990">
-              <a href="/en-GB/sportsbook/eventpaths/220990" data-id="220990">Belarus</a>
-              <ul>
-                  <li class="sport_432164">
-                    <a href="/en-GB/sportsbook/eventpaths/432164" data-id="432164" data-last-children="true">Extraliga, Playoffs</a>
-                  </li>
-              </ul>
-            </li>
         </ul>
       </li>
       <li class="sport_1200">
@@ -1345,14 +762,40 @@
             <li class="sport_183737">
               <a href="/en-GB/sportsbook/eventpaths/183737" data-id="183737">International</a>
               <ul>
-                  <li class="sport_219497">
-                    <a href="/en-GB/sportsbook/eventpaths/219497" data-id="219497" data-last-children="true">CEV Cup</a>
+                  <li class="sport_311297">
+                    <a href="/en-GB/sportsbook/eventpaths/311297" data-id="311297" data-last-children="true">International Friendly Women</a>
+                  </li>
+                  <li class="sport_315598">
+                    <a href="/en-GB/sportsbook/eventpaths/315598" data-id="315598" data-last-children="true">Boris Yeltsin Cup Women, Group A</a>
+                  </li>
+                  <li class="sport_315602">
+                    <a href="/en-GB/sportsbook/eventpaths/315602" data-id="315602" data-last-children="true">Boris Yeltsin Cup Women, Group B</a>
+                  </li>
+                  <li class="sport_309195">
+                    <a href="/en-GB/sportsbook/eventpaths/309195" data-id="309195" data-last-children="true">European League Women, Pool A</a>
+                  </li>
+                  <li class="sport_183919">
+                    <a href="/en-GB/sportsbook/eventpaths/183919" data-id="183919" data-last-children="true">European League Women, Pool B</a>
+                  </li>
+              </ul>
+            </li>
+            <li class="sport_215613">
+              <a href="/en-GB/sportsbook/eventpaths/215613" data-id="215613">Germany</a>
+              <ul>
+                  <li class="sport_215614">
+                    <a href="/en-GB/sportsbook/eventpaths/215614" data-id="215614" data-last-children="true">1. Bundesliga</a>
+                  </li>
+                  <li class="sport_217513">
+                    <a href="/en-GB/sportsbook/eventpaths/217513" data-id="217513" data-last-children="true">1st Bundesliga Women</a>
                   </li>
               </ul>
             </li>
             <li class="sport_211863">
               <a href="/en-GB/sportsbook/eventpaths/211863" data-id="211863">Italy</a>
               <ul>
+                  <li class="sport_211864">
+                    <a href="/en-GB/sportsbook/eventpaths/211864" data-id="211864" data-last-children="true">Serie A1</a>
+                  </li>
                   <li class="sport_218788">
                     <a href="/en-GB/sportsbook/eventpaths/218788" data-id="218788" data-last-children="true">Serie A1 Women</a>
                   </li>
@@ -1364,62 +807,32 @@
                   <li class="sport_213961">
                     <a href="/en-GB/sportsbook/eventpaths/213961" data-id="213961" data-last-children="true">Ligue A</a>
                   </li>
-              </ul>
-            </li>
-            <li class="sport_222485">
-              <a href="/en-GB/sportsbook/eventpaths/222485" data-id="222485">Greece</a>
-              <ul>
-                  <li class="sport_222486">
-                    <a href="/en-GB/sportsbook/eventpaths/222486" data-id="222486" data-last-children="true">A1 </a>
+                  <li class="sport_216745">
+                    <a href="/en-GB/sportsbook/eventpaths/216745" data-id="216745" data-last-children="true">Ligue A, Women</a>
                   </li>
               </ul>
             </li>
             <li class="sport_216759">
               <a href="/en-GB/sportsbook/eventpaths/216759" data-id="216759">Poland</a>
               <ul>
-                  <li class="sport_274739">
-                    <a href="/en-GB/sportsbook/eventpaths/274739" data-id="274739" data-last-children="true">Liga Siatkowki, Playoffs</a>
-                  </li>
-                  <li class="sport_291477">
-                    <a href="/en-GB/sportsbook/eventpaths/291477" data-id="291477" data-last-children="true">Liga Siatkowki, Women, Placement matches</a>
-                  </li>
-                  <li class="sport_433657">
-                    <a href="/en-GB/sportsbook/eventpaths/433657" data-id="433657" data-last-children="true">Liga Siatkowki, Placement matches 9-12</a>
+                  <li class="sport_216821">
+                    <a href="/en-GB/sportsbook/eventpaths/216821" data-id="216821" data-last-children="true">Liga Siatkowki</a>
                   </li>
               </ul>
             </li>
             <li class="sport_217263">
               <a href="/en-GB/sportsbook/eventpaths/217263" data-id="217263">Czech Republic</a>
               <ul>
-                  <li class="sport_288353">
-                    <a href="/en-GB/sportsbook/eventpaths/288353" data-id="288353" data-last-children="true">Extraliga Women, Playoffs</a>
+                  <li class="sport_218004">
+                    <a href="/en-GB/sportsbook/eventpaths/218004" data-id="218004" data-last-children="true">Extraliga</a>
                   </li>
               </ul>
             </li>
-            <li class="sport_226300">
-              <a href="/en-GB/sportsbook/eventpaths/226300" data-id="226300">Serbia</a>
+            <li class="sport_210373">
+              <a href="/en-GB/sportsbook/eventpaths/210373" data-id="210373">Russia</a>
               <ul>
-                  <li class="sport_282197">
-                    <a href="/en-GB/sportsbook/eventpaths/282197" data-id="282197" data-last-children="true">Superliga, Playoffs</a>
-                  </li>
-              </ul>
-            </li>
-            <li class="sport_250257">
-              <a href="/en-GB/sportsbook/eventpaths/250257" data-id="250257">Brazil</a>
-              <ul>
-                  <li class="sport_430433">
-                    <a href="/en-GB/sportsbook/eventpaths/430433" data-id="430433" data-last-children="true">Superliga, Playoffs</a>
-                  </li>
-                  <li class="sport_438231">
-                    <a href="/en-GB/sportsbook/eventpaths/438231" data-id="438231" data-last-children="true">Superliga, Women, Playoffs</a>
-                  </li>
-              </ul>
-            </li>
-            <li class="sport_202729">
-              <a href="/en-GB/sportsbook/eventpaths/202729" data-id="202729">Korea</a>
-              <ul>
-                  <li class="sport_239618">
-                    <a href="/en-GB/sportsbook/eventpaths/239618" data-id="239618" data-last-children="true">V-League Men</a>
+                  <li class="sport_210374">
+                    <a href="/en-GB/sportsbook/eventpaths/210374" data-id="210374" data-last-children="true">Superliga</a>
                   </li>
               </ul>
             </li>
@@ -1431,57 +844,11 @@
             <li class="sport_183900">
               <a href="/en-GB/sportsbook/eventpaths/183900" data-id="183900">International</a>
               <ul>
-                  <li class="sport_280452">
-                    <a href="/en-GB/sportsbook/eventpaths/280452" data-id="280452" data-last-children="true">Champions League</a>
+                  <li class="sport_497414">
+                    <a href="/en-GB/sportsbook/eventpaths/497414" data-id="497414" data-last-children="true">U20 World Championship, Women, Placement 17-24</a>
                   </li>
-              </ul>
-            </li>
-            <li class="sport_192398">
-              <a href="/en-GB/sportsbook/eventpaths/192398" data-id="192398">Germany</a>
-              <ul>
-                  <li class="sport_196501">
-                    <a href="/en-GB/sportsbook/eventpaths/196501" data-id="196501" data-last-children="true">2nd Bundesliga</a>
-                  </li>
-                  <li class="sport_193910">
-                    <a href="/en-GB/sportsbook/eventpaths/193910" data-id="193910" data-last-children="true">Bundesliga</a>
-                  </li>
-              </ul>
-            </li>
-            <li class="sport_199148">
-              <a href="/en-GB/sportsbook/eventpaths/199148" data-id="199148">Spain</a>
-              <ul>
-                  <li class="sport_199150">
-                    <a href="/en-GB/sportsbook/eventpaths/199150" data-id="199150" data-last-children="true">Asobal</a>
-                  </li>
-              </ul>
-            </li>
-            <li class="sport_200994">
-              <a href="/en-GB/sportsbook/eventpaths/200994" data-id="200994">Austria</a>
-              <ul>
-                  <li class="sport_267562">
-                    <a href="/en-GB/sportsbook/eventpaths/267562" data-id="267562" data-last-children="true">HLA Main Round</a>
-                  </li>
-                  <li class="sport_267558">
-                    <a href="/en-GB/sportsbook/eventpaths/267558" data-id="267558" data-last-children="true">HLA Relegation Round</a>
-                  </li>
-              </ul>
-            </li>
-            <li class="sport_197975">
-              <a href="/en-GB/sportsbook/eventpaths/197975" data-id="197975">Denmark</a>
-              <ul>
-                  <li class="sport_289920">
-                    <a href="/en-GB/sportsbook/eventpaths/289920" data-id="289920" data-last-children="true">Handboldligaen Qualification Round, Group 1</a>
-                  </li>
-                  <li class="sport_289919">
-                    <a href="/en-GB/sportsbook/eventpaths/289919" data-id="289919" data-last-children="true">Handboldligaen Qualification Round, Group 2</a>
-                  </li>
-              </ul>
-            </li>
-            <li class="sport_201058">
-              <a href="/en-GB/sportsbook/eventpaths/201058" data-id="201058">Czech Republic</a>
-              <ul>
-                  <li class="sport_289595">
-                    <a href="/en-GB/sportsbook/eventpaths/289595" data-id="289595" data-last-children="true">Extraliga, Group A</a>
+                  <li class="sport_497403">
+                    <a href="/en-GB/sportsbook/eventpaths/497403" data-id="497403" data-last-children="true">U20 World Championship, Women, Playoffs</a>
                   </li>
               </ul>
             </li>
@@ -1500,12 +867,41 @@
       <li class="sport_1">
         <a href="/en-GB/sportsbook/eventpaths/1" data-eventpath-id="1">American Football</a>
         <ul>
-            <li class="sport_193552">
-              <a href="/en-GB/sportsbook/eventpaths/193552" data-id="193552">USA</a>
+            <li class="sport_322410">
+              <a href="/en-GB/sportsbook/eventpaths/322410" data-id="322410">Canada</a>
               <ul>
+                  <li class="sport_490607">
+                    <a href="/en-GB/sportsbook/eventpaths/490607" data-id="490607" data-last-children="true">CFL</a>
+                  </li>
+              </ul>
+            </li>
+            <li class="sport_193552">
+              <a href="/en-GB/sportsbook/eventpaths/193552" data-id="193552">Usa</a>
+              <ul>
+                  <li class="sport_313592">
+                    <a href="/en-GB/sportsbook/eventpaths/313592" data-id="313592" data-last-children="true">NCAA</a>
+                  </li>
                   <li class="sport_193554">
                     <a href="/en-GB/sportsbook/eventpaths/193554" data-id="193554" data-last-children="true">NFL</a>
                   </li>
+              </ul>
+            </li>
+        </ul>
+      </li>
+      <li class="sport_22886">
+        <a href="/en-GB/sportsbook/eventpaths/22886" data-eventpath-id="22886">Darts</a>
+        <ul>
+            <li class="sport_184232">
+              <a href="/en-GB/sportsbook/eventpaths/184232" data-id="184232">International</a>
+              <ul>
+                  <li class="sport_494999">
+                    <a href="/en-GB/sportsbook/eventpaths/494999" data-id="494999" data-last-children="true">World Matchplay</a>
+                  </li>
+              </ul>
+            </li>
+            <li class="sport_185099">
+              <a href="/en-GB/sportsbook/eventpaths/185099" data-id="185099" data-last-children="true">PDC World Championships</a>
+              <ul>
               </ul>
             </li>
         </ul>
@@ -1529,9 +925,6 @@
                   <li class="sport_183915">
                     <a href="/en-GB/sportsbook/eventpaths/183915" data-id="183915" data-last-children="true">Super Rugby</a>
                   </li>
-                  <li class="sport_190897">
-                    <a href="/en-GB/sportsbook/eventpaths/190897" data-id="190897" data-last-children="true">France - Top 14/*BR:TNMNT:1600*/</a>
-                  </li>
               </ul>
             </li>
             <li class="sport_183884">
@@ -1540,8 +933,8 @@
                   <li class="sport_183947">
                     <a href="/en-GB/sportsbook/eventpaths/183947" data-id="183947" data-last-children="true">NRL</a>
                   </li>
-                  <li class="sport_183886">
-                    <a href="/en-GB/sportsbook/eventpaths/183886" data-id="183886" data-last-children="true">Super League</a>
+                  <li class="sport_184392">
+                    <a href="/en-GB/sportsbook/eventpaths/184392" data-id="184392" data-last-children="true">State of Origin</a>
                   </li>
               </ul>
             </li>
@@ -1559,11 +952,11 @@
                   <li class="sport_333514">
                     <a href="/en-GB/sportsbook/eventpaths/333514" data-id="333514" data-last-children="true">British Open 2014</a>
                   </li>
-                  <li class="sport_333502">
-                    <a href="/en-GB/sportsbook/eventpaths/333502" data-id="333502" data-last-children="true">US Masters 2014</a>
-                  </li>
                   <li class="sport_410217">
                     <a href="/en-GB/sportsbook/eventpaths/410217" data-id="410217" data-last-children="true">PGA Championship 2014</a>
+                  </li>
+                  <li class="sport_498542">
+                    <a href="/en-GB/sportsbook/eventpaths/498542" data-id="498542" data-last-children="true">Scottish Open 2014</a>
                   </li>
               </ul>
             </li>
@@ -1575,8 +968,14 @@
             <li class="sport_185424">
               <a href="/en-GB/sportsbook/eventpaths/185424" data-id="185424">Mixed Martial Arts</a>
               <ul>
-                  <li class="sport_306647">
-                    <a href="/en-GB/sportsbook/eventpaths/306647" data-id="306647" data-last-children="true">UFC 172</a>
+                  <li class="sport_494928">
+                    <a href="/en-GB/sportsbook/eventpaths/494928" data-id="494928" data-last-children="true">UFC 178</a>
+                  </li>
+                  <li class="sport_494924">
+                    <a href="/en-GB/sportsbook/eventpaths/494924" data-id="494924" data-last-children="true">UFC Fight Night: Lawler vs Brown</a>
+                  </li>
+                  <li class="sport_494910">
+                    <a href="/en-GB/sportsbook/eventpaths/494910" data-id="494910" data-last-children="true">UFC Fight Night: McGregor vs Brandao</a>
                   </li>
               </ul>
             </li>
@@ -1590,14 +989,46 @@
             </li>
         </ul>
       </li>
+      <li class="sport_1400">
+        <a href="/en-GB/sportsbook/eventpaths/1400" data-eventpath-id="1400">Water Polo</a>
+        <ul>
+            <li class="sport_183906">
+              <a href="/en-GB/sportsbook/eventpaths/183906" data-id="183906">International</a>
+              <ul>
+                  <li class="sport_497921">
+                    <a href="/en-GB/sportsbook/eventpaths/497921" data-id="497921" data-last-children="true">European Championship Men</a>
+                  </li>
+                  <li class="sport_497951">
+                    <a href="/en-GB/sportsbook/eventpaths/497951" data-id="497951" data-last-children="true">European Championship Women</a>
+                  </li>
+              </ul>
+            </li>
+        </ul>
+      </li>
+      <li class="sport_1750">
+        <a href="/en-GB/sportsbook/eventpaths/1750" data-eventpath-id="1750">Chess</a>
+        <ul>
+            <li class="sport_377218">
+              <a href="/en-GB/sportsbook/eventpaths/377218" data-id="377218">International</a>
+              <ul>
+                  <li class="sport_484707">
+                    <a href="/en-GB/sportsbook/eventpaths/484707" data-id="484707" data-last-children="true">Dortmund 2014</a>
+                  </li>
+                  <li class="sport_377223">
+                    <a href="/en-GB/sportsbook/eventpaths/377223" data-id="377223" data-last-children="true">World Championship</a>
+                  </li>
+              </ul>
+            </li>
+        </ul>
+      </li>
       <li class="sport_226">
         <a href="/en-GB/sportsbook/eventpaths/226" data-eventpath-id="226">Baseball</a>
         <ul>
             <li class="sport_183659">
-              <a href="/en-GB/sportsbook/eventpaths/183659" data-id="183659">USA</a>
+              <a href="/en-GB/sportsbook/eventpaths/183659" data-id="183659">Usa</a>
               <ul>
-                  <li class="sport_267222">
-                    <a href="/en-GB/sportsbook/eventpaths/267222" data-id="267222" data-last-children="true">MLB Spring Training</a>
+                  <li class="sport_183661">
+                    <a href="/en-GB/sportsbook/eventpaths/183661" data-id="183661" data-last-children="true">MLB</a>
                   </li>
               </ul>
             </li>
@@ -1616,11 +1047,73 @@
             </li>
         </ul>
       </li>
+      <li class="sport_2700">
+        <a href="/en-GB/sportsbook/eventpaths/2700" data-eventpath-id="2700">Cycling</a>
+        <ul>
+            <li class="sport_468874">
+              <a href="/en-GB/sportsbook/eventpaths/468874" data-id="468874" data-last-children="true">Tour De France</a>
+              <ul>
+              </ul>
+            </li>
+        </ul>
+      </li>
+      <li class="sport_22883">
+        <a href="/en-GB/sportsbook/eventpaths/22883" data-eventpath-id="22883">Enhanced Specials</a>
+        <ul>
+            <li class="sport_497924">
+              <a href="/en-GB/sportsbook/eventpaths/497924" data-id="497924">Football</a>
+              <ul>
+                  <li class="sport_490635">
+                    <a href="/en-GB/sportsbook/eventpaths/490635" data-id="490635">Premier League</a>
+                  </li>
+                  <li class="sport_490641">
+                    <a href="/en-GB/sportsbook/eventpaths/490641" data-id="490641">Bundesliga</a>
+                  </li>
+                  <li class="sport_497926">
+                    <a href="/en-GB/sportsbook/eventpaths/497926" data-id="497926">World Cup</a>
+                  </li>
+              </ul>
+            </li>
+        </ul>
+      </li>
+      <li class="sport_215">
+        <a href="/en-GB/sportsbook/eventpaths/215" data-eventpath-id="215">Cricket</a>
+        <ul>
+            <li class="sport_229117">
+              <a href="/en-GB/sportsbook/eventpaths/229117" data-id="229117">International</a>
+              <ul>
+                  <li class="sport_448551">
+                    <a href="/en-GB/sportsbook/eventpaths/448551" data-id="448551" data-last-children="true">ICC Cricket World Cup 2015</a>
+                  </li>
+                  <li class="sport_314691">
+                    <a href="/en-GB/sportsbook/eventpaths/314691" data-id="314691" data-last-children="true">One Day International</a>
+                  </li>
+                  <li class="sport_229118">
+                    <a href="/en-GB/sportsbook/eventpaths/229118" data-id="229118" data-last-children="true">Test Series</a>
+                  </li>
+                  <li class="sport_251897">
+                    <a href="/en-GB/sportsbook/eventpaths/251897" data-id="251897" data-last-children="true">The Ashes</a>
+                  </li>
+              </ul>
+            </li>
+        </ul>
+      </li>
+      <li class="sport_5000">
+        <a href="/en-GB/sportsbook/eventpaths/5000" data-eventpath-id="5000">Badminton</a>
+        <ul>
+            <li class="sport_498364">
+              <a href="/en-GB/sportsbook/eventpaths/498364" data-id="498364">international</a>
+              <ul>
+                  <li class="sport_498365">
+                    <a href="/en-GB/sportsbook/eventpaths/498365" data-id="498365" data-last-children="true">US Open 2014</a>
+                  </li>
+              </ul>
+            </li>
+        </ul>
+      </li>
 </ul>
 
-        </nav>
-      </section>
-      <section id="left_banners">
+        </nav></section><section id="left_banners">
           <ul>
     <a href="/en-GB/live_casino"><img class="live_casino_left" src="//s3-eu-west-1.amazonaws.com/cdn.lsbet.com/cms/uploads/default/live_casinoe_en.png" alt="" border="0"></a>
     <a href="/en-GB/netent_splash/promotions"><img class="cassino_FDB_left" src="//s3-eu-west-1.amazonaws.com/cdn.lsbet.com/cms/uploads/default/casino_en.png" alt="" border="0"></a>
@@ -1635,11 +1128,7 @@ jQuery(document).ready(function()
 // ]]></script>
   
 </ul>
-      </section>
-
-    </aside>
-    
-    <div id="main">
+      </section></aside><div id="main">
       <div id="loading_target" class="loading" data-hook=""></div>
 
       <div id="error-block" class="visuallyhidden" data-hook="flash_error_container">
@@ -1667,23 +1156,18 @@ jQuery(document).ready(function()
 <h1>Other sites</h1>
 <p>If our site contains any links to outside parties, LSbet.com is not responsible for the privacy practices or content of any subsequent site that doesn't belong to LSbet.com. These sites may collect information from you and use it according to their own privacy policy which can differ from ours.</p>
   </div>
-</section></div>
+</section>
+</div>
     <aside id="right_aside">
 
-
-      <section id="betslip">
-        <header>
-          <h1>Bet Slip</h1>
-        </header>
-        <div class="betslip_top_target"></div>
+      <section id="betslip"><header><h1>Bet Slip</h1>
+        </header><div class="betslip_top_target"></div>
         <div id="betslip_container" data-hook="">
           <span data-betslip-empty="true"></span>
           <p>Bet Slip is Empty</p>
         </div>
         <div class="betslip_bottom_target"></div>
       </section>
-
-
       <section id="right_banners">
           <ul>
     <div>
@@ -1700,7 +1184,7 @@ jQuery(document).ready(function()
     <!-- BEGIN ProvideSupport.com Custom Images Chat Button Code -->
 <div id="ci4h7c" style="z-index: 100; position: absolute;"></div>
 <div id="sc4h7c" style="display: inline;"></div>
-<div id="sd4h7c" style="display: none;"><script type="text/javascript" src="https://image.providesupport.com/js/1x6rsij440c8j1bp5h0xvpw8pc/safe-standard.js?ps_h=4h7c&amp;ps_t=1580522003234&amp;online-image=http%3A//s3-eu-west-1.amazonaws.com/cdn.lsbet.com/cms/uploads/default/live_help_online_en.png&amp;offline-image=http%3A//s3-eu-west-1.amazonaws.com/cdn.lsbet.com/cms/uploads/default/live_help_offline_en.png"></script></div>
+<div id="sd4h7c" style="display: none;"><script type="text/javascript" src="https://image.providesupport.com/js/1x6rsij440c8j1bp5h0xvpw8pc/safe-standard.js?ps_h=4h7c&amp;ps_t=1580521999926&amp;online-image=http%3A//s3-eu-west-1.amazonaws.com/cdn.lsbet.com/cms/uploads/default/live_help_online_en.png&amp;offline-image=http%3A//s3-eu-west-1.amazonaws.com/cdn.lsbet.com/cms/uploads/default/live_help_offline_en.png"></script></div>
 <script type="text/javascript">// <![CDATA[
 var se4h7c=document.createElement("script");se4h7c.type="text/javascript";var se4h7cs=(location.protocol.indexOf("https")==0?"https":"http")+"://image.providesupport.com/js/1x6rsij440c8j1bp5h0xvpw8pc/safe-standard.js?ps_h=4h7c&ps_t="+new Date().getTime()+"&online-image=http%3A//s3-eu-west-1.amazonaws.com/cdn.lsbet.com/cms/uploads/default/live_help_online_en.png&offline-image=http%3A//s3-eu-west-1.amazonaws.com/cdn.lsbet.com/cms/uploads/default/live_help_offline_en.png";setTimeout("se4h7c.src=se4h7cs;document.getElementById('sd4h7c').appendChild(se4h7c)",1)
 // ]]></script>
@@ -1708,7 +1192,70 @@ var se4h7c=document.createElement("script");se4h7c.type="text/javascript";var se
     <a href="/en-GB/info/promotions"><img class="FDB_banner_right" src="//s3-eu-west-1.amazonaws.com/cdn.lsbet.com/cms/uploads/default/first_deposit_en.png" alt="" style="padding-top: 3px;" border="0"></a>
     <a href="/en-GB/info/promotions"><img class="multibet_right" src="//s3-eu-west-1.amazonaws.com/cdn.lsbet.com/cms/uploads/default/multi_bets_en.png" alt="" border="0"></a>
     <a id="this_google_link_payments" href="/en-GB/info/payments"><img class="payments_banner_right" src="//s3-eu-west-1.amazonaws.com/cdn.lsbet.com/cms/uploads/default/payments_en.png" alt="" style="padding-top: 3px;" border="0"></a>
-    <script type="text/javascript">// <![CDATA[
+    <div id="new_homepage_style" style="display: none;"></div>
+<script type="text/javascript">// <![CDATA[
+function getCookie(cname)
+{
+var name = cname + "=";
+var ca = document.cookie.split(';');
+for(var i=0; i<ca.length; i++) 
+  {
+  var c = ca[i].trim();
+  if (c.indexOf(name)==0) return c.substring(name.length,c.length);
+  }
+return "";
+}
+function setCookiena(cname, cvalue, exdays) {
+    var d = new Date();
+    d.setTime(d.getTime() + (exdays*24*60*60*1000));
+    var expires = "expires="+d.toGMTString();
+    document.cookie = cname + "=" + cvalue + "; " + expires;
+} 
+
+
+
+
+function clock_set_ini_a()
+  {  
+
+    var ussehp0207=getCookie("hp0207");
+    if (ussehp0207!="") 
+      {
+      
+      }
+    else
+      {
+        var date = new Date();
+        var minutes = 30*24*30;
+        var time_sett=date.getTime() + (minutes * 60 * 1000);
+        ussehp0207=time_sett;
+            setCookiena("hp0207", ussehp0207, 365);
+       }
+
+var mytestCookieini = getCookie("current_user");
+    if (mytestCookieini != null && mytestCookieini!="") 
+     {
+      mytestd_newini = 'active';
+     }
+    else
+     {
+      var mytestCookie_newini = getCookie("bonus_code");
+      var mytestd_newini = 'no-bonus';
+      if (mytestCookie_newini != null && mytestCookie_newini!="") 
+        {
+         var mytestCookie_new_avarr = mytestCookie_newini.split("_");
+         mytestd_newini=mytestCookie_new_avarr[0];
+        }
+      else
+        {
+         mytestd_newini = 'no-bonus';
+        }
+     }
+      jQuery("#new_homepage_style").load("/script/?p=wcfgrp&lang=en-GB&test=homepage_"+mytestd_newini+"_"+ussehp0207);
+  }
+clock_set_ini_a();
+// ]]></script>
+<script type="text/javascript">// <![CDATA[
 jQuery(document).ready(function(){ 
 
  jQuery(".multimenu").css({"width": "260px", "margin-left": "5px"});
@@ -1747,7 +1294,7 @@ jQuery(document).ready(function(){
 <table style="width: 204px; text-align: center; box-shadow: -1px -1px 0px #000000 inset; border-radius: 25px; background-color: #131313; margin-bottom: 10px; margin-top: 4px;">
 <tbody>
 <tr>
-<td style="width: 40px; padding: 3px; box-shadow: -2px 0px 0px rgba(32, 32, 32, 0.92) inset;"><a href="#1" onclick="window.open('http://images.lsbet.com/calculator/calculate.html', 'newWin', 'Toolbar=0, Location=0, Directories=0, Status=0, Scrollbars=1, Resizable=1, Menubar=0, Copyhistory=1, Width=920, Height=700')" style="margin: 0px; padding: 0px; display: block; height: 29px;"> <img src="//s3-eu-west-1.amazonaws.com/cdn.lsbet.com/cms/uploads/default/Calculator.png" style="height: 30px; margin-left: 4px;"></a></td>
+<td style="width: 40px; padding: 3px; box-shadow: -2px 0px 0px rgba(32, 32, 32, 0.92) inset;"><a href="#1" onclick="window.open('http://images.lsbet.com/calculator/calculate.html', 'newWin', 'Toolbar=0, Location=0, Directories=0, Status=0, Scrollbars=1, Resizable=1, Menubar=0, Copyhistory=1, Width=920, Height=700')" style="margin: 0px; padding: 0px; display: block; height: 29px;"> <img src="https://s3-eu-west-1.amazonaws.com/cdn.lsbet.com/cms/uploads/default/Calculator.png" style="height: 30px; margin-left: 4px;"></a></td>
 <td style="font-size: 13px; font-weight: bold; color: white; vertical-align: middle; box-shadow: 1px 0px 0px black inset; margin-left: 4px;"><a href="#1" onclick="window.open('http://images.lsbet.com/calculator/calculate.html', 'newWin', 'Toolbar=0, Location=0, Directories=0, Status=0, Scrollbars=1, Resizable=1, Menubar=0, Copyhistory=1, Width=920, Height=700')" style="font-size: 12px; font-weight: bold; color: white; text-decoration: none;">System Bets Calculator</a></td>
 </tr>
 </tbody>
@@ -1780,15 +1327,94 @@ function clock_set_testnews_a()
      }
   }
 // ]]></script>
+    <div class="live_casino_banner1" style="padding-top: 15px; position: relative; height: 285px;"><header>
+<h1>Live Casino</h1>
+</header>
+<div class="object_santa_cycle"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" allowscriptaccess="always" height="236" width="203"><param name="allowScriptAccess" value="always"><param name="movie" value="//s3-eu-west-1.amazonaws.com/cdn.lsbet.com/cms/uploads/default/LSbet.com-Meet-The-Dealers.swf?clickTAG=/en-GB/live_casino?utm_source=en-GB%2Ball%2Bpages%26utm_medium=Internal%2BLinks%26utm_campaign=flash%2Blive%2Bcasino"><param name="allowScriptAccess" value="always"><embed allowscriptaccess="always" src="https://s3-eu-west-1.amazonaws.com/cdn.lsbet.com/cms/uploads/default/LSbet.com-Meet-The-Dealers.swf?clickTAG=/en-GB/live_casino?utm_source=en-GB%2Ball%2Bpages%26utm_medium=Internal%2BLinks%26utm_campaign=flash%2Blive%2Bcasino" quality="high" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" height="236" width="203"></object></div>
+</div>
+<script type="text/javascript">// <![CDATA[
+function setCookie(c_name,value)
+    {
+      var exdate=new Date();
+      exdate.setDate(exdate.getDate() + (3*24*60*60*100));
+      var c_value=escape(value) + 
+        ("; expires="+exdate.toUTCString());
+      document.cookie=c_name + "=" + c_value;
+    }
+
+function getCookie(c_name)
+  {
+   var i,x,y,ARRcookies=document.cookie.split(";");
+   for (i=0;i<ARRcookies.length;i++)
+     {
+      x=ARRcookies[i].substr(0,ARRcookies[i].indexOf("="));
+      y=ARRcookies[i].substr(ARRcookies[i].indexOf("=")+1);
+      x=x.replace(/^\s+|\s+$/g,"");
+      if (x==c_name)
+        {
+         return unescape(y);
+        }
+     }
+  }
+
+
+var count_santa=parseInt(getCookie('santa_cyckle'));
+
+
+if(count_santa>3)
+  {
+   count_santa=1;
+  }
+
+if(isNaN(count_santa))
+  {
+   count_santa=Math.floor((Math.random()*2)+1); 
+   setCookie('santa_cyckle',(count_santa+1));
+  }
+else
+  {
+   setCookie('santa_cyckle',(count_santa+1));
+  }
+
+if(count_santa>3)
+  {
+   count_santa=1;
+  }
+
+
+if(count_santa==4)
+  {
+   var html_for_this_cycle='<a href="/en-GB/live_casino/poker3c"><img src="//s3-eu-west-1.amazonaws.com/cdn.lsbet.com/cms/uploads/default/threecardpoker250x240.png" style="width: 205px; height: 200px;"></a>';
+   var title_for_this_cycle='Three Card Poker';
+   jQuery('.live_casino_banner1 .object_santa_cycle').html(html_for_this_cycle);
+   jQuery('.live_casino_banner1 h1').html(title_for_this_cycle);
+   jQuery('.live_casino_banner1').css({"height": "250px",});
+  }
+if(count_santa==2)
+  {
+   var html_for_this_cycle='<a href="/en-GB/t/web/aliens"><img src="http://s3-eu-west-1.amazonaws.com/cdn.lsbet.com/cms/uploads/default/aliens_promo205x200.png" style="width: 205px; height: 200px;"></a>';
+   var title_for_this_cycle='Aliens Slot';
+   jQuery('.live_casino_banner1 .object_santa_cycle').html(html_for_this_cycle);
+   jQuery('.live_casino_banner1 h1').html(title_for_this_cycle);
+   jQuery('.live_casino_banner1').css({"height": "250px",});
+  }
+if(count_santa==3)
+  {
+   var html_for_this_cycle='<a href="/en-GB/web/world-cup"><img src="//s3-eu-west-1.amazonaws.com/cdn.lsbet.com/cms/uploads/default/central250x230.png" style="width: 205px; height: auto;"></a>';
+   var title_for_this_cycle='World Cup';
+   jQuery('.live_casino_banner1 .object_santa_cycle').html(html_for_this_cycle);
+   jQuery('.live_casino_banner1 h1').html(title_for_this_cycle);
+   jQuery('.live_casino_banner1').css({"height": "240px",});
+  }
+jQuery('.live_casino_banner1').insertAfter("#betslip_container");
+// ]]></script>
   
 </ul>
-      </section>
-
-    </aside>
-
-  </div>
+      </section></aside>
+</div>
 
     <!-- Data sources -->
+
 
 
 
@@ -1798,11 +1424,33 @@ function clock_set_testnews_a()
   </div>
 
   <div class="footer_partner_logos">
-    <div style="display: none;">
-<div class="live_casino_banner" style="padding-top: 15px; position: relative; height: 285px;"><header>
-<h1>Live Casino</h1>
-</header><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" allowscriptaccess="always" height="236" width="203"><param name="allowScriptAccess" value="always"><param name="movie" value="//s3-eu-west-1.amazonaws.com/cdn.lsbet.com/cms/uploads/default/LSbet.com-Meet-The-Dealers.swf?clickTAG=/en-GB/live_casino?utm_source=en-GB%2Ball%2Bpages%26utm_medium=Internal%2BLinks%26utm_campaign=flash%2Blive%2Bcasino"><param name="allowScriptAccess" value="always"><embed allowscriptaccess="always" src="https://s3-eu-west-1.amazonaws.com/cdn.lsbet.com/cms/uploads/default/LSbet.com-Meet-The-Dealers.swf?clickTAG=/en-GB/live_casino?utm_source=en-GB%2Ball%2Bpages%26utm_medium=Internal%2BLinks%26utm_campaign=flash%2Blive%2Bcasino" quality="high" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" height="236" width="203"></object></div>
-</div>
+    <ul>
+<li class="calendar_top_entry"><span><a href="/en-GB/web/world-cup" style="position: relative;"> <bb style="position: relative; z-index: 10;">World Cup</bb><img src="https://s3-eu-west-1.amazonaws.com/cdn.lsbet.com/cms/uploads/default/new_icon_cal.png" style="position: absolute; top: -17px; right: -10px;"> </a></span>
+<ul style="display: none;"></ul>
+</li>
+</ul>
+<script type="text/javascript">// <![CDATA[
+jQuery(document).ready(function(){ 
+
+jQuery('.sportsmenu_header img').css('cssText', 'display: none;');
+});
+function popuploader(URL) {
+day = new Date();
+id = day.getTime();
+eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=0,width=715,height=480');");
+}
+jQuery(document).ready(function(){ 
+
+
+          jQuery(".calendar_top_entry").insertBefore("nav#menu .poker");
+          jQuery("section.top_menu").css("cssText", "padding-top: 17px; margin-top: -17px; clear: both;");
+      if(jQuery(".calendar_top_entry.active").length > 0)
+        {
+         jQuery(".calendar_top_entry ul").css("cssText","display:block;");
+        }
+    });
+// ]]></script>
+<div style="display: none;"></div>
 <script type="text/javascript">// <![CDATA[
 jQuery(document).ready(function(){ 
       if (document.getElementById("account") == null)
@@ -2092,11 +1740,14 @@ if (document.getElementById("betslip_container") == null)
    else
      {
 jQuery(document).ready(function(){ 
-        jQuery('#loadingouter2').insertAfter("#betslip_container");
-if (document.getElementById("inrunningconsole") == null)
-     {
-        jQuery('.live_casino_banner').insertAfter("#betslip_container");
-     }   
+      if (jQuery(".live_casino_banner1").length > 0)
+        {
+         jQuery('#loadingouter2').insertAfter(".live_casino_banner1");
+        }
+      else
+        {
+         jQuery('#loadingouter2').insertAfter("#betslip_container");
+        }
     });
       document.getElementById("right_aside").style.overflow="visible";
       document.getElementById("right_aside").style.marginLeft="7px";
@@ -2106,14 +1757,7 @@ jQuery(document).ready(function(){
           jQuery('#loadingouter_arab').appendTo("nav#menu");
     });
 // ]]></script>
-</span><iframe id="inpage_stats_iframe" name="inpage_stats_iframe" src="http://vip.bet-ween.com/world/index.php?page1=inpage_statistics&amp;user_id=p_new_clienta&amp;stats=no_bonus&amp;id=en-GB" style="display: none;" scrolling="no"></iframe>
-<script type="text/javascript">// <![CDATA[
-function load_iframe_stats(value_stats, value_id, value_object)
-  {
-   document.getElementById("inpage_stats_iframe").src="http://vip.bet-ween.com/world/index.php?page1=inpage_statistics&user_id=" + value_object + "&stats=" + value_stats + "&id=" + value_id;
-  }
-clock_set_testnews_a();
-// ]]></script>
+</span>
 <script type="text/javascript" src="https://s3-eu-west-1.amazonaws.com/cdn.lsbet.com/cms/uploads/default/Games_sorting_karel.js"></script>
 <script type="text/javascript">// <![CDATA[
 function add_google_link(id, link)
@@ -2172,11 +1816,11 @@ function add_google_link(id, link)
 <ul class="bottom_menu">
 <li><a href="/en-GB/sportsbook/eventpaths/27911">Champions League</a></li>
 <li><a href="/en-GB/sportsbook/eventpaths/42127">Europa League</a></li>
-<li><a href="/en-GB/sportsbook/eventpaths/53131">Premier League</a></li>
+<li><a href="/en-GB/sportsbook/eventpaths/23169">Premier League</a></li>
 <li><a href="/en-GB/sportsbook/eventpaths/23161">German Bundesliga</a></li>
 <li><a href="/en-GB/sportsbook/eventpaths/23170">Spanish La Liga</a></li>
 <li><a href="/en-GB/sportsbook/eventpaths/23192">Italian Serie A</a></li>
-<li><a href="/en-GB/sportsbook/eventpaths/multi/[48555]">FRA Division 1</a></li>
+<li><a href="/en-GB/sportsbook/eventpaths/48555">FRA Division 1</a></li>
 </ul>
 </div>
 <div class="footer_col" style="width: 147px;">
@@ -2196,7 +1840,7 @@ function add_google_link(id, link)
 <div id="ciBh6a" style="z-index: 999; position: absolute;"></div>
 </div>
 <div id="scBh6a" style="display: inline;"></div>
-<div id="sdBh6a" style="display: none;"><script type="text/javascript" src="https://image.providesupport.com/js/1x6rsij440c8j1bp5h0xvpw8pc/safe-textlink.js?ps_h=Bh6a&amp;ps_t=1580522003335&amp;online-link-html=Live%20Chat%20Online&amp;offline-link-html=Live%20Chat%20Offline"></script></div>
+<div id="sdBh6a" style="display: none;"><script type="text/javascript" src="https://image.providesupport.com/js/1x6rsij440c8j1bp5h0xvpw8pc/safe-textlink.js?ps_h=Bh6a&amp;ps_t=1580522000030&amp;online-link-html=Live%20Chat%20Online&amp;offline-link-html=Live%20Chat%20Offline"></script></div>
 <script type="text/javascript">// <![CDATA[
 var seBh6a=document.createElement("script");seBh6a.type="text/javascript";var seBh6as=(location.protocol.indexOf("https")==0?"https":"http")+"://image.providesupport.com/js/1x6rsij440c8j1bp5h0xvpw8pc/safe-textlink.js?ps_h=Bh6a&ps_t="+new Date().getTime()+"&online-link-html=Live%20Chat%20Online&offline-link-html=Live%20Chat%20Offline";setTimeout("seBh6a.src=seBh6as;document.getElementById('sdBh6a').appendChild(seBh6a)",1)
 // ]]></script>
@@ -2231,7 +1875,7 @@ function readCookie_chat(name) {
 <!-- BEGIN ProvideSupport.com Pass Information Chat Button Code -->
 <div id="ci4HGW" style="z-index: 100; position: absolute;"></div>
 <div id="sc4HGW" style="display: inline;"></div>
-<div id="sd4HGW" style="display: none;"><script type="text/javascript" src="https://image.providesupport.com/js/1x6rsij440c8j1bp5h0xvpw8pc/safe-standard.js?ps_h=4HGW&amp;ps_t=1580522003336&amp;ID=Not Loged in"></script></div>
+<div id="sd4HGW" style="display: none;"><script type="text/javascript" src="https://image.providesupport.com/js/1x6rsij440c8j1bp5h0xvpw8pc/safe-standard.js?ps_h=4HGW&amp;ps_t=1580522000032&amp;ID=Not Loged in"></script></div>
 <script type="text/javascript">// <![CDATA[
 var useeer_chat="Not Loged in";
 var x_for_no_chat="a";
@@ -2324,7 +1968,7 @@ linkDisplay("footer#page_footer");
 // ]]></script>
   </div>
 </footer>
-<script src="/assets/application-9424984718f72bb35bcd481c66f22ed4.js" type="text/javascript"></script>
+<script src="/assets/application-0cf51ea7751015054a597d81b56844cd.js" type="text/javascript"></script>
 
 <script>
   var _gaq = _gaq || [];
@@ -2517,15 +2161,12 @@ Betslip.copy = {
 
 <!-- Betslip messages suspended-->
 <script id="betslip-message-deleted-selection" type="text/template">
-    <p>Suspended</p>
+    <p>Felfüggesztve</p>
 </script>
 
 <script type="text/javascript">
     var user_info_path = "/en-GB/account/get_user_info.json"
 </script>
-
-	<script src="/assets/ec-8224dbfd0af14e399792e667efb0f0d9.js" type="text/javascript"></script>
-<script src="/evercookie/get.js" type="text/javascript"></script>
 
 
     <script id="loading" type="text/template">
@@ -2533,20 +2174,6 @@ Betslip.copy = {
       <img id="page_loading" src="/assets/betrails/icon_loading.gif" />
     </div>
     </script>
+</div>
 
-  </div>
-<script type="text/javascript">if (!NREUMQ.f) { NREUMQ.f=function() {
-NREUMQ.push(["load",new Date().getTime()]);
-var e=document.createElement("script");
-e.type="text/javascript";
-e.src=(("http:"===document.location.protocol)?"http:":"https:") + "//" +
-  "js-agent.newrelic.com/nr-100.js";
-document.body.appendChild(e);
-if(NREUMQ.a)NREUMQ.a();
-};
-NREUMQ.a=window.onload;window.onload=NREUMQ.f;
-};
-NREUMQ.push(["nrfj","beacon-2.newrelic.com","8786b615e6","1693194","e1kLFRRaX1kBQBdRU0xEBAgKRhxWCUFnQ1dfUxZOFV1cQg==",0,951,new Date().getTime(),"","","","",""]);</script>
-
-
-<script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
+<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
