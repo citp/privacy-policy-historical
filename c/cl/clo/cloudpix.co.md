@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cloudpix.co privacy policy that was archived on 2013-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130501005840id_/http%3A//cloudpix.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cloudpix.co privacy policy that was archived on 2014-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140708033144id_/http%3A//cloudpix.co/privacy) for the most accurate reproduction.*
 
 # Terms of service - CloudPix
 
@@ -40,7 +40,7 @@ Finding your friends on CloudPix:
 
 Analytics information:
 
-  1. We use third-party analytics tools to help us measure traffic and usage trends for the Service. These tools collect information sent by your device or our Service, including the web pages you visit, add-ons, and other information that assists us in improving the Service. We collect and use this analytics information with analytics information from other Users so that it cannot reasonably be used to identify any particular individual User.
+  1. We use third-party analytics tools to help us measure traffic and usage trends for the Service. These tools collect information sent by your device or our Service, including the web pages you visit, input-group-addons, and other information that assists us in improving the Service. We collect and use this analytics information with analytics information from other Users so that it cannot reasonably be used to identify any particular individual User.
 
 
 
