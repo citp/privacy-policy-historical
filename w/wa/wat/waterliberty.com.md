@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the waterliberty.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625161709id_/http%3A//waterliberty.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waterliberty.com privacy policy that was archived on 2014-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140708201708id_/http%3A//waterliberty.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privay Policy
 
