@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worx.com privacy policy that was archived on 2014-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140110075452id_/https%3A//www.worx.com/en-US/Privacy-Policy-US.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worx.com privacy policy that was archived on 2014-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140709121120id_/https%3A//www.worx.com/en-US/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # WORX US - Privacy Policy
 
@@ -14,8 +14,7 @@ We take information security seriously and use reasonable physical, electronic a
 
 **INFORMATION WE MAY COLLECT FROM YOU**
 
-We may collect and process the following data about you:  
-
+We may collect and process the following data about you:
 
   * Information that you provide by filling in forms including online product registration on our site www.worx.com ("our site"). This includes information provided at the time of registering to use our site, registering to have your product warranty extended [subscribing to our service, or requesting further services.] We may also ask you for information when you enter competitions or promotion or if you report a problem with our site.
   * If you contact us, we may keep a record of that correspondence.
@@ -45,8 +44,7 @@ Unfortunately, the transmission of information via the Internet is not completel
 
 **USES MADE OF THE INFORMATION**
 
-We use information held about you in the following ways:  
-
+We use information held about you in the following ways:
 
   * To ensure that content from our site is presented in the most effective manner for you and for your computer.
   * To provide you with information, products or services that you request from us, or which we feel may interest you, where you have consented to be contacted for such purposes.
@@ -97,6 +95,3 @@ This Privacy Notice may be changed by RW Direct Inc. The revised Privacy Notice 
 **CONTACT**
 
 Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to worx@positecgroup.com.
-
-  
-
