@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rewardingways.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326174956id_/http%3A//www.rewardingways.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rewardingways.com privacy policy that was archived on 2014-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140709064455id_/http%3A//www.rewardingways.com/privacy) for the most accurate reproduction.*
 
 # Rewarding Ways - Privacy
 
@@ -26,9 +26,9 @@ We recommend that all users enable cookies in their internet browsers in order t
 
 You must be logged in to post messages. 
 
-MEMBERS| 159096  
+MEMBERS| 166457  
 ---|---  
-ONLINE|  45  
-PAYMENTS| $168,578.02  
+ONLINE|  33  
+PAYMENTS| $174,642.84  
   
 [](http://www.rewardingways.com/banner/bannerClick.php?bid=86)
