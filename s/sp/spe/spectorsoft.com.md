@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the spectorsoft.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626103132id_/http%3A//www.spectorsoft.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spectorsoft.com privacy policy that was archived on 2014-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140709132750id_/http%3A//www.spectorsoft.com/privacy.html) for the most accurate reproduction.*
 
 # Online Privacy Policy | SpectorSoft
-
-## Introduction
 
 SpectorSoft Corporation, a Delaware corporation and its majority owned affiliated companies and subsidiaries (we / us) respect your privacy and are committed to protecting it through our compliance with this privacy policy (Privacy Policy). This Privacy Policy describes the type of information that we collect from you through the use of the websites www.spectorsoft.com, www.spectorcne.com, www.spector360.com, and www.eblaster.com, among other sites owned or controlled by SpectorSoft (our Website), how that information may be used or disclosed by us and the safeguards we use to protect it.
 
@@ -163,6 +161,4 @@ Vero Beach, FL 32960
 **Email:** [legal@spectorsoft.com](mailto:legal@spectorsoft.com)   
 **Telephone** : 1.888.598.2788
 
-Last modified: June 3, 2014
-
-Top
+Last Update: June 3, 2014
