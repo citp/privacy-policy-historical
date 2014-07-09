@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pdfchm.com privacy policy that was archived on 2014-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140416075421id_/https%3A//md5file.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdfchm.com privacy policy that was archived on 2014-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140709194558id_/https%3A//md5file.com/privacy) for the most accurate reproduction.*
 
 # MD5 File - Privacy Policy
 
