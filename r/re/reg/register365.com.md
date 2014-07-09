@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the register365.com privacy policy that was archived on 2013-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130818002400id_/http%3A//www.register365.com/company-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the register365.com privacy policy that was archived on 2014-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140709114317id_/http%3A//www.register365.com/info/terms/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Register365
+# Privacy Policy - Privacy Statement | Register365
 
 ### GENERAL
 
@@ -14,7 +14,7 @@ Please note that we are not responsible for any use of your personal information
 
 ### COLLECTION OF PERSONAL INFORMATION
 
-When you use this Website you may be asked for personally identifiable information such as your name, address, date of birth, email address and telephone number. You may also be asked for financial information for billing and payment purposes. By giving us such information you agree to our using it in the manner described in this policy. 
+When you use this Website you may be asked for personally identifiable information such as your name, address, date of birth, email address and telephone number. You may also be asked for financial information for billing and payment purposes. By giving us such information you agree to our using it in the manner described in this policy.
 
 You may withdraw your consent to our use of your personal information for this purpose at any time by emailing us at support@register365.com and we will aim to process this request within 5 days of receipt of your withdrawal of consent.
 
@@ -32,7 +32,7 @@ If you do not wish to continue to receive such information from Register365 and 
 
 ### DISCLOSURE OF PERSONAL INFORMATION
 
-Any disclosure of personal information will be strictly controlled and made fully in accordance with current Irish legislation, in particular the Data Protection Acts 1988 and 2003. 
+Any disclosure of personal information will be strictly controlled and made fully in accordance with current Irish legislation, in particular the Data Protection Acts 1988 and 2003.
 
 We may provide information about you to third parties, our employees and agents in order to administer any accounts and services provided to you by Register365 and its Group Companies. Any access to or use by third parties of personal information provided by you will only be to perform functions on our behalf related to purposes set out in this Privacy Policy and may not be used for any other purpose.
 
@@ -54,7 +54,7 @@ We always endeavour to make sure that the information we hold about you is accur
 
 ### COOKIES AND LOG FILES
 
-We may create and access cookies (a piece of information which is stored on your computer and allows us to identify if you have visited the site before) on your PC. Cookies cannot be executed as code or used to deliver a virus. Other servers cannot read them and personal information cannot be gathered from them. They are simply an identifier shared between you and us to allow us to improve the services we offer to you through our Website. 
+We may create and access cookies (a piece of information which is stored on your computer and allows us to identify if you have visited the site before) on your PC. Cookies cannot be executed as code or used to deliver a virus. Other servers cannot read them and personal information cannot be gathered from them. They are simply an identifier shared between you and us to allow us to improve the services we offer to you through our Website.
 
 If you do not wish cookies to be placed on your PC, then they can be disabled in your web browser. The option to do so is normally found in your browser's "security settings" section. However, please note, permanently disabling cookies in your browser may hinder your use of our Website as well as other websites and interactive services.
 
@@ -72,7 +72,7 @@ If you have any further concerns about security, please email our Customer Servi
 
 ### E-MAIL
 
-Wherever possible, Register365 and its Group Companies sets security standards to prevent any unauthorised access to your personal data. However any information and personal data carried over the Internet and by e-mail is not secure and is liable to interception, loss, redirection and corruption by other people unless it is encrypted by you. 
+Wherever possible, Register365 and its Group Companies sets security standards to prevent any unauthorised access to your personal data. However any information and personal data carried over the Internet and by e-mail is not secure and is liable to interception, loss, redirection and corruption by other people unless it is encrypted by you.
 
 ### OPT – OUT
 
