@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careem.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208042039id_/https%3A//www.careem.com/dubai/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careem.com privacy policy that was archived on 2014-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140710014140id_/https%3A//www.careem.com/dubai/privacy) for the most accurate reproduction.*
 
 # Careem | Privacy policy
 
@@ -94,5 +94,5 @@ We may update this privacy statement to reflect changes to our information pract
 Contact us by postal mail:
 
 Careem Networks FZ LLC  
-#2809, Shatha Tower, Dubai Media City  
+#1404, Shatha Tower, Dubai Media City  
 Dubai, UAE
