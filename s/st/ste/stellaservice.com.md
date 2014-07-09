@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stellaservice.com privacy policy that was archived on 2014-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140603225558id_/http%3A//www.stellaservice.com/business/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stellaservice.com privacy policy that was archived on 2014-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140709083730id_/http%3A//www2.stellaservice.com/business/privacy) for the most accurate reproduction.*
 
 # StellaService for Business – Privacy
 
