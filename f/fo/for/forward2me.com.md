@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the forward2me.com privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503001648id_/https%3A//www.forward2me.com/main-site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forward2me.com privacy policy that was archived on 2014-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140709173806id_/https%3A//www.forward2me.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Main Site - Forward2me
-
-##  Privacy Policy
+# forward2me - Privacy Policy - UK Mailing Address, Mail Forwarding Service, International Package & Parcel Forwarding
 
 **1 General**
 
-1.1 At forward2me we take your privacy seriously. This Privacy Policy (together with our website [Terms of Use](https://www.forward2me.com/terms-of-use) and [Trading Terms](https://www.forward2me.com/terms-of-trade)) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+1.1 At forward2me we take your privacy seriously. This Privacy Policy (together with our website [Terms of Use](https://www.forward2me.com/website-terms-of-use "Terms of Use") and [Trading Terms](https://www.forward2me.com/terms-of-trade "Terms of Trade")) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
 **2 Information about us**
 
-2.1 This site is operated by forward2me Limited (we, our or us). We are registered in England and Wales under company number 07323718. Our registered office is at York House, Green Lane West, Preston, PR3 1PR. Our VAT number is 994 6929 42.
+2.1 This site is operated by forward2me Limited (we, our or us). We are registered in England and Wales under company number 07323718. Our registered office is at York House, Green Lane West, Preston, PR3 1PR. Our VAT number is GB994 6929 42.
 
 **3 Information we may collect from you**
 
