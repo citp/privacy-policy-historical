@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the compare7.co.uk privacy policy that was archived on 2014-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140519043549id_/http%3A//www.compare7.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compare7.co.uk privacy policy that was archived on 2014-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140709020417id_/http%3A//compare7.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -32,6 +32,6 @@ This Website Privacy Statement is effective as of the date listed below. Even if
 
 ### Questions?
 
-We welcome any questions or comments you have about our privacy practices. Please feel free to contact us at: [Feedback](https://web.archive.org/web/20140519043549id_/http%3A//www.compare7.co.uk/contact). 
+We welcome any questions or comments you have about our privacy practices. Please feel free to contact us at: [Feedback](https://web.archive.org/web/20140709020417id_/http%3A//compare7.co.uk/contact). 
 
 _Effective Date: Privacy Notice last modified November 5, 2013._
