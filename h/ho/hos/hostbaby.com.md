@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the hostbaby.com privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215131425id_/http%3A//hostbaby.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostbaby.com privacy policy that was archived on 2014-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140709024755id_/http%3A//hostbaby.com/privacy) for the most accurate reproduction.*
 
 # HostBaby Privacy Policy
+
+We have phased out support for your browser, Internet Explorer 8 or older.  
+Please upgrade to one of these other modern browsers for a better web experience:
+
+[](http://www.firefox.com/) [](http://www.google.com/chrome) [](http://www.microsoft.com/InternetExplorer)
 
 Call us: 1-888-448-6369 
 
