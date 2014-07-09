@@ -1,497 +1,239 @@
-<!--The following is the downloaded HTML source of the realscout.com privacy policy that was archived on 2014-03-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140326113031id_/https%3A//www.realscout.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the realscout.com privacy policy that was archived on 2014-07-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140710011530id_/https%3A//www.realscout.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
-<script src="//d15qhc0lu1ghnk.cloudfront.net/beacon.js" async=""></script><script type="text/javascript" async="" src="https://d2dq2ahtl5zl1z.cloudfront.net/analytics.js/v1/rvosdkgwpu/analytics.min.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-6.newrelic.com","errorBeacon":"jserror.newrelic.com","licenseKey":"4ec493ed29","applicationID":"1405898","transactionName":"c1haTEIMVV4DRRoBX0NoV1deF1xcEhhHB1xUUkZnWBdUXg==","queueTime":1283,"applicationTime":313,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-361.min.js"}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgcCV1VQGwIEVFRaDgk="};window.NREUM||(NREUM={}),__nr_require=function a(b,c,d){function e(f){if(!c[f]){var g=c[f]={exports:{}};b[f][0].call(g.exports,function(a){var c=b[f][1][a];return e(c?c:a)},g,g.exports,a,b,c,d)}return c[f].exports}for(var f=0;f<d.length;f++)e(d[f]);return e}({1:[function(a,b){function c(a,b,c){c||(c={});for(var d=f[a],e=d&&d.length||0,h=c[g]||(c[g]={}),i=0;e>i;i++)d[i].apply(h,b);return h}function d(a,b){var c=f[a]||(f[a]=[]);c.push(b)}function e(a){return delete a[g]}var f={},g="nr@context";b.exports={on:d,emit:c,clear:e}},{}],2:[function(a){function b(a,b,e,g,i){return h?h-=1:c("err",[i||new UncaughtException(a,b,e)]),"function"==typeof f?f.apply(this,d(arguments)):!1}function UncaughtException(a,b,c){this.message=a||"Uncaught error with no additional information",this.sourceURL=b,this.line=c}var c=a("handle"),d=a("lodash._slice"),e=a("../../../contextual-ee"),f=window.onerror,g=!1,h=0;a("loader").features.push("err"),window.onerror=b;try{throw new Error}catch(i){"stack"in i&&(a("../../wrap-timer"),a("../../wrap-raf"),"addEventListener"in window&&a("../../wrap-events"),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&a("../../wrap-xhr"),g=!0)}e.on("fn-start",function(){g&&(h+=1)}),e.on("fn-err",function(a,b,d){g&&(this.thrown=!0,c("err",[d,(new Date).getTime()]))}),e.on("fn-end",function(){g&&!this.thrown&&h>0&&(h-=1)})},{"../../../contextual-ee":1,"../../wrap-events":3,"../../wrap-raf":4,"../../wrap-timer":5,"../../wrap-xhr":6,handle:"4O2Y62",loader:"YLUGVp","lodash._slice":14}],3:[function(a){function b(a){d.inPlace(a,["addEventListener","removeEventListener"],"-",c)}function c(a){return a[1]}var d=a("../wrap-function"),e=(a("lodash._slice"),a("../contextual-ee"));if(b(window),"getPrototypeOf"in Object){for(var f=document;f&&!f.hasOwnProperty("addEventListener");)f=Object.getPrototypeOf(f);f&&b(f);for(var g=XMLHttpRequest.prototype;g&&!g.hasOwnProperty("addEventListener");)g=Object.getPrototypeOf(g);g&&b(g)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&b(XMLHttpRequest.prototype);e.on("addEventListener-start",function(a){if(a[1]){var b=a[1];"function"==typeof b?this.wrapped=b["nr@wrapped"]?a[1]=b["nr@wrapped"]:b["nr@wrapped"]=a[1]=d(b,"fn-"):"function"==typeof b.handleEvent&&d.inPlace(b,["handleEvent"],"fn-")}}),e.on("removeEventListener-start",function(a){var b=this.wrapped;b&&(a[1]=b)})},{"../contextual-ee":1,"../wrap-function":15,"lodash._slice":14}],4:[function(a){var b=(a("lodash._slice"),a("../wrap-function")),c=a("../contextual-ee");b.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),c.on("raf-start",function(a){a[0]=b(a[0],"fn-")})},{"../contextual-ee":1,"../wrap-function":15,"lodash._slice":14}],5:[function(a){function b(a){var b=a[0];"string"==typeof b&&(b=new Function(b)),a[0]=c(b,"fn-")}var c=(a("lodash._slice"),a("../wrap-function")),d=a("../contextual-ee");c.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),d.on("setTimer-start",b)},{"../contextual-ee":1,"../wrap-function":15,"lodash._slice":14}],6:[function(a){function b(){c.inPlace(this,f,"fn-")}var c=a("../wrap-function"),d=a("../contextual-ee"),e=window.XMLHttpRequest,f=["onload","onerror","onabort","onloadstart","onloadend","onprogress","onreadystatechange","ontimeout"];window.XMLHttpRequest=function(a){var f=new e(a);return d.emit("new-xhr",[],f),c.inPlace(f,["addEventListener","removeEventListener"],"-",function(a,b){return b}),f.addEventListener("readystatechange",b,!1),f},window.XMLHttpRequest.prototype=e.prototype},{"../contextual-ee":1,"../wrap-function":15}],7:[function(a){function b(a){if("string"==typeof a&&a.length)return a.length;if("object"!=typeof a)return void 0;if("undefined"!=typeof ArrayBuffer&&a instanceof ArrayBuffer&&a.byteLength)return a.byteLength;if("undefined"!=typeof Blob&&a instanceof Blob&&a.size)return a.size;if("undefined"!=typeof FormData&&a instanceof FormData)return void 0;try{return JSON.stringify(a).length}catch(b){return void 0}}function c(a){var c=this.params,d=this.metrics;if(!this.ended){this.ended=!0;for(var e=0;k>e;e++)a.removeEventListener(j[e],this.listener,!1);if(!c.aborted){if(d.duration=(new Date).getTime()-this.startTime,4===a.readyState){c.status=a.status;var g=a.responseType,h="arraybuffer"===g||"blob"===g||"json"===g?a.response:a.responseText,i=b(h);if(i&&(d.rxSize=i),this.sameOrigin){var l=a.getResponseHeader("X-NewRelic-App-Data");l&&(c.cat=l.split(", ").pop())}}else c.status=0;d.cbTime=this.cbTime,f("xhr",[c,d])}}}function d(a,b){var c=g(b),d=a.params;d.host=c.hostname+":"+c.port,d.pathname=c.pathname,a.sameOrigin=c.sameOrigin}function e(a,b){return b}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){a("loader").features.push("xhr");var f=a("handle"),g=a("./parse-url.js"),h=a("../../../wrap-function"),i=a("../../../contextual-ee"),j=["load","error","abort","timeout"],k=j.length,l=a("../../../loader/id");a("../../wrap-events"),a("../../wrap-xhr"),i.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=c,this.ended=!1,this.xhrGuids={}}),h.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",e),i.on("open-xhr-start",function(a){this.params={method:a[0]},d(this,a[1]),this.metrics={}}),i.on("open-xhr-end",function(a,b){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&b.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),i.on("send-xhr-start",function(a,c){var d=this.metrics,e=a[0],f=this;if(d&&e){var g=b(e);g&&(d.txSize=g)}this.startTime=(new Date).getTime(),this.listener=function(a){try{"abort"===a.type&&(f.params.aborted=!0),("load"!==a.type||f.called===f.totalCbs&&(f.onloadCalled||"function"!=typeof c.onload))&&f.end(c)}catch(b){}};for(var h=0;k>h;h++)c.addEventListener(j[h],this.listener,!1)}),i.on("xhr-cb-time",function(a,b,c){this.cbTime+=a,b?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof c.onload||this.end(c)}),i.on("xhr-load-added",function(a,b){var c=""+l(a)+!!b;this.xhrGuids&&!this.xhrGuids[c]&&(this.xhrGuids[c]=!0,this.totalCbs+=1)}),i.on("xhr-load-removed",function(a,b){var c=""+l(a)+!!b;this.xhrGuids&&this.xhrGuids[c]&&(delete this.xhrGuids[c],this.totalCbs-=1)}),i.on("addEventListener-end",function(a,b){b instanceof XMLHttpRequest&&"load"===a[0]&&i.emit("xhr-load-added",[a[1],a[2]],b)}),i.on("removeEventListener-end",function(a,b){b instanceof XMLHttpRequest&&"load"===a[0]&&i.emit("xhr-load-removed",[a[1],a[2]],b)}),i.on("fn-start",function(a,b,c){b instanceof XMLHttpRequest&&("onload"===c&&(this.onload=!0),("load"===(a[0]&&a[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),i.on("fn-end",function(a,b){this.xhrCbStart&&i.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,b],b)})}},{"../../../contextual-ee":1,"../../../loader/id":11,"../../../wrap-function":15,"../../wrap-events":3,"../../wrap-xhr":6,"./parse-url.js":8,handle:"4O2Y62",loader:"YLUGVp"}],8:[function(a,b){b.exports=function(a){var b=document.createElement("a"),c=window.location,d={};b.href=a,d.port=b.port;var e=b.href.split("://");return!d.port&&e[1]&&(d.port=e[1].split("/")[0].split(":")[1]),d.port&&"0"!==d.port||(d.port="https"===e[0]?"443":"80"),d.hostname=b.hostname||c.hostname,d.pathname=b.pathname,"/"!==d.pathname.charAt(0)&&(d.pathname="/"+d.pathname),d.sameOrigin=!b.hostname||b.hostname===document.domain&&b.port===c.port&&b.protocol===c.protocol,d}},{}],handle:[function(a,b){b.exports=a("4O2Y62")},{}],"4O2Y62":[function(a,b){function c(a,b){var c=d[a];return c?c.apply(this,b):(e[a]||(e[a]=[]),void e[a].push(b))}var d={},e={};b.exports=c,c.queues=e,c.handlers=d},{}],11:[function(a,b){function c(a){if(!a||"object"!=typeof a&&"function"!=typeof a)return-1;if(a===window)return 0;if(e.call(a,"__nr"))return a.__nr;try{return Object.defineProperty(a,"__nr",{value:d,writable:!0,enumerable:!1}),d}catch(b){return a.__nr=d,d}finally{d+=1}}var d=1,e=Object.prototype.hasOwnProperty;b.exports=c},{}],loader:[function(a,b){b.exports=a("YLUGVp")},{}],YLUGVp:[function(a,b){function c(){var a=m.info=NREUM.info;if(a&&a.agent&&a.licenseKey&&a.applicationID){m.proto="https"===l.split(":")[0]||a.sslForHttp?"https://":"http://",g("mark",["onload",f()]);var b=i.createElement("script");b.src=m.proto+a.agent,i.body.appendChild(b)}}function d(){"complete"===i.readyState&&e()}function e(){g("mark",["domContent",f()])}function f(){return(new Date).getTime()}var g=a("handle"),h=window,i=h.document,j="addEventListener",k="attachEvent",l=(""+location).split("?")[0],m=b.exports={offset:f(),origin:l,features:[]};i[j]?(i[j]("DOMContentLoaded",e,!1),h[j]("load",c,!1)):(i[k]("onreadystatechange",d),h[k]("onload",c)),g("mark",["firstbyte",f()])},{handle:"4O2Y62"}],14:[function(a,b){function c(a,b,c){b||(b=0),"undefined"==typeof c&&(c=a?a.length:0);for(var d=-1,e=c-b||0,f=Array(0>e?0:e);++d<e;)f[d]=a[b+d];return f}b.exports=c},{}],15:[function(a,b){function c(a,b,c,d){function nrWrapper(){var g,h=f(arguments),i=this,j=c&&c(h,i)||{};try{e.emit(b+"start",[h,i,d],j)}catch(k){}try{return g=a.apply(i,h)}catch(l){throw e.emit(b+"err",[h,i,l],j),l}finally{try{e.emit(b+"end",[h,i,g],j)}catch(k){}}}return a&&"function"==typeof a&&a.apply&&!a._wrapped?(b||(b=""),nrWrapper._wrapped=!0,nrWrapper):a}function d(a,b,d,e){d||(d="");var f,g,h,i="-"===d.charAt(0);for(h=0;h<b.length;h++)g=b[h],f=a[g],f&&"function"==typeof f&&f.apply&&!f._wrapped&&(a[g]=c(f,i?g+d:d,e,g,a))}var e=a("../contextual-ee"),f=a("lodash._slice");b.exports=c,c.inPlace=d},{"../contextual-ee":1,"lodash._slice":14}]},{},["YLUGVp",7,2]);</script>
-  <title>RealScout - Personalized Home Search with More Data About Local Listings</title>
-      <script type="text/javascript" src="https://maps.google.com/maps/api/js?key=AIzaSyBvI-82mJe3_MtK5qt5ngeBw7pNV5bHFjk&amp;sensor=true"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-6.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"4ec493ed29","applicationID":"1405898","transactionName":"c1haTEIMVV4DRRoSU1dSRxdAEVBEB1RM","queueTime":336,"applicationTime":666,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-411.min.js"}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgcCV1VQGwIEVFRaDgk="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+  <title>RealScout - Personalized Home Search with More Data About Local Listings / RealScout</title>
 
-      <script>
-        var _errs=["50ee4ec554b931b716000008"];(function(a,b){a.onerror=function(){_errs.push(arguments)};
-            var d=function(){var a=b.createElement("script"),c=b.getElementsByTagName("script")[0];
-                a.src="//d15qhc0lu1ghnk.cloudfront.net/beacon.js";a.async=!0;
-                c.parentNode.insertBefore(a,c)};a.addEventListener?a.addEventListener("load",d,!1):
-                    a.attachEvent("onload",d)})(window,document);
-    </script>
+  <!--[if lt IE 9]>
+  <script src="http://html5shim.googlecode.com/svn/trunk/html5.js" type="text/javascript"></script>
+  <![endif]-->
 
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
-<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.10.1/jquery-ui.min.js"></script>
-<!--[if lt IE 9]>
-<script src="https://html5shim.googlecode.com/svn/trunk/html5.js" type="text/javascript"></script>
-<![endif]-->
-
-<script src="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js" type="text/javascript"></script>
-<link href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css" media="screen" rel="stylesheet" type="text/css">
-  <link href="https://d2ygk8gs8v5c6g.cloudfront.net/assets/application-dd73bd1660ddd0c6c3b7618dc29d25f3.css" media="screen" rel="stylesheet" type="text/css">
-  <script src="https://d2ygk8gs8v5c6g.cloudfront.net/assets/application-6d53bb217043a5d4560d6bea2e88b631.js" type="text/javascript"></script>
   <meta content="authenticity_token" name="csrf-param">
-<meta content="DCSnd948jy40SNRu/yTPwdv45oVsFAvuPkiHEAZFF/k=" name="csrf-token">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-  <meta name="description" content="Real estate search direct from the source, school ratings, neighborhood information, and high resolution photos. Fresh listings every 30 minutes.">
-<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,200italic,300italic" rel="stylesheet" type="text/css">
-<script src="https://cdnjs.cloudflare.com/ajax/libs/FitText.js/1.1/jquery.fittext.min.js"></script>
-<!-- html5 forms support pollyfill -->
-<!-- https://github.com/dperini/nwxforms -->
-<script type="text/javascript">window.onload = Function('nwxforms(this)');</script>
-
-<script>
-    $(function(){
-        jQuery('#subheader').sticky({topSpacing:0, getWidthFrom:".subheader"});
-    });
-</script>
-<!--[if lt IE 9]>
-<script>
-    $(function(){
-        $("body").iealert({
-            support: "ie8"
-        });
-    });
-</script>
-<![endif]-->
-
-
-<!-- Google Analytics Start -->
-    <meta name="msvalidate.01" content="9D570274A2B55A30D16529AF4C7AD171">
-
-    <script type="text/javascript">
-
-        var _gaq = _gaq || [];
-        _gaq.push(['_setAccount', 'UA-31716851-1']);
-        _gaq.push(['_setDomainName', 'none']);
-        _gaq.push(['_setAllowLinker', true]);
-        _gaq.push(['_trackPageview']);
-
-        (function() {
-            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-        })();
-
-    </script>
-
-    <script type="text/javascript">
-
-        var _gaq = _gaq || [];
-        var pluginUrl =
-                '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
-        _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
-        _gaq.push(['_setAccount', 'UA-33338750-1']);
-        _gaq.push(['_setDomainName', 'realscout.com']);
-        _gaq.push(['_trackPageview']);
-
-        (function() {
-            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-        })();
-
-    </script>
-<!-- Google Analytics End -->
-
-
-
+<meta content="7t+ceOtPSVs8a56+FT9g1OeP8sQMUGhecj/3QfETNgk=" name="csrf-token">
+  <link href="https://d2ygk8gs8v5c6g.cloudfront.net/assets/pages-c0f665501bbd3eefecabd32f3a3878dd.css" media="screen" rel="stylesheet" type="text/css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
 </head>
-<body class="cms_content render_html">
-    <script type="text/javascript">
-        window.analytics||(window.analytics=[]),window.analytics.methods=["identify","track","trackLink","trackForm","trackClick","trackSubmit","page","pageview","ab","alias","ready","group","on","once","off"],window.analytics.factory=function(t){return function(){var a=Array.prototype.slice.call(arguments);return a.unshift(t),window.analytics.push(a),window.analytics}};for(var i=0;window.analytics.methods.length>i;i++){var method=window.analytics.methods[i];window.analytics[method]=window.analytics.factory(method)}window.analytics.load=function(t){var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src=("https:"===document.location.protocol?"https://":"http://")+"d2dq2ahtl5zl1z.cloudfront.net/analytics.js/v1/"+t+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(a,n)},window.analytics.SNIPPET_VERSION="2.0.8",
-                window.analytics.load("rvosdkgwpu");
-        window.analytics.page();
-    </script>
-    
+<body class="pages" style="background: #252525;">
+<div class="footer-pages-wrapper">
+  <div style="padding:10px;text-align: center">
+    <a href="/"><img alt="Logo" hidpi_src="https://d2ygk8gs8v5c6g.cloudfront.net/assets/general/logo@2x-493c6d3cc3e3257a4e10994cd2e5731a.jpg" src="https://d2ygk8gs8v5c6g.cloudfront.net/assets/general/logo-fae897b51fd4b1210a804d923241fb2d.jpg" style="width:130px;"></a>
 
-<style type="text/css">
-  @media screen and (max-width: 767px) {
-    .explain {
-      display:none;
-    }
-  }
-</style>
-<div id="wrap">
+  </div>
+  <nav class="pages-navigation pages-padding">
+    <ul class="links">
+      <li class="link">
+        <a href="/about">about</a>
+      </li>
+      <li class="link">
+        <a href="/team">team</a>
+      </li>
+      <li class="link">
+        <a href="/careers">careers</a>
+      </li>
+      <li class="link">
+        <a href="/press">press</a>
+      </li>
+      <li class="link">
+        <a href="http://blog.realscout.com/" target="_blank">blog</a>
+      </li>
+      <li class="link">
+        <a href="/terms">terms</a>
+      </li>
+      <li class="link">
+        <a href="/privacy" class=" active">privacy</a>
+      </li>
+    </ul>
+  </nav>
 
-  <div style="margin-bottom: 0px;">
-    <div class="container">
-      <div class="row">
-        <script>
-    $(document).ready(function() {
-        jQuery(".logo_text").fitText(0.9);
-    });
-</script>
-
-<style>
-    @media (max-width: 992px){
-        .container {margin: 0px; max-width: none;}
-    }
-</style>
-<!--NAVBAR FOR DESKTOP-->
-
-<div class="col-md-12 hidden-xs hidden-sm" id="header" style="position:relative;">
-
+  <div class="pages-container">
+  <h2 class="section-title pages-padding">
+    Privacy
+  </h2>
+  <div class="frame-picture careers">
+    <img src="/assets/pages/pages-privacy.jpg" alt="Join now to RealScout">
+  </div>
+  <div class="pages-padding">
+    <div class="readability">
+      <h2>
+        <strong>Overview</strong>
+      </h2>
+      <p>
+        Last Updated: August 27, 2012
+      </p>
+      <p>
+        This privacy policy (this “Policy”) describes the collection of personal information by RealScout, Inc., a Delaware corporation (“RealScout,” “we,” or “us”) from users of our Web site at www.RealScout.com (the “Site”), as well as all related applications, widgets, software, tools, and other services provided by us and on which a link to this Policy is displayed (collectively, together with the Site, our “Services”).&nbsp; This Policy also describes our use and disclosure of such information.&nbsp; By using our Services, you consent to the collection, use, and disclosure of personal information in accordance with this Policy.&nbsp; This Policy is incorporated by reference into the RealScout Terms of Use and subject to the provisions of the Terms of Use.
+      </p>
+      <h2>
+        <strong><br>Personal Information</strong>
+      </h2>
+      <p>
+        “Personal Information,” as used in this Policy, is information that specifically identifies an individual, such as an individual's name, address, telephone number, or e-mail address.&nbsp; Personal Information also includes information about an individual’s activities, such as information about his or her activity on our Services, and demographic information, such as date of birth, gender, geographic area, and preferences, when any of this information is linked to Personal Information that identifies that individual.
+      </p>
+      <p>
+        Personal Information does not include “aggregate” or other non-personally identifiable information.&nbsp; Aggregate information is information that we collect about a group or category of products, services, or users that is not personally identifiable or from which individual identities are removed.&nbsp; We may use and disclose aggregate information, and other non-personally identifiable information, for various purposes.
+      </p>
+      <h2>
+        <strong><br>Collection of Information</strong>
+      </h2>
+      <h5>
+        <strong>Collection of&nbsp;</strong><strong>Voluntarily-Provided Information</strong>
+      </h5>
+      <div>
+        <p>
+          We collect Personal Information that our users provide to us in a variety of ways on our Services.&nbsp;These include the following:<strong>&nbsp;&nbsp;</strong>
+        </p>
+      </div>
+      <ul>
+        <li>
+          <em>E-mail Newsletters</em>.&nbsp; We may offer e-mail newsletters from time to time on our Services.&nbsp; If you sign up to receive a newsletter from us, we collect your e-mail address.
+        </li>
+      </ul>
+      <ul>
+        <li>
+          <em>User Accounts and Profiles</em>.&nbsp; Our Services may give you the ability to register for a RealScout account or to create and update a user profile on the applicable Service.&nbsp; If we offer user account or profile functionality on the Services, we will collect the Personal Information that you provide to us in the course of registering for an account or creating or updating a user profile.&nbsp; This information may include, for example, name, postal address, telephone number, e-mail address, and related demographic information about you.&nbsp; We may indicate that some personal information is required for you to register for the account or to create the profile, while some is optional. &nbsp;
+        </li>
+      </ul>
+      <ul>
+        <li>
+          <em>Interactive Features</em>.&nbsp; Our Services may contain interactive functionality that allows you to post comments to forums, participate in surveys and otherwise to interact with the Services and with other users.&nbsp; If you use any interactive functionality on our Services that request or permit you to provide us with personal information (including, for example, any services that allow you to post comments to forums), we collect the Personal Information that you provide to us in the course of using these interactive features.&nbsp;
+        </li>
+      </ul>
+      <ul>
+        <li>
+          <em>Correspondence</em>.&nbsp; If you contact us by e-mail, using a contact form on the Services, or by mail, fax, or other means, we collect the Personal Information contained within, and associated with, your correspondence.<br><br>
+        </li>
+      </ul>
+      <h5>
+        <strong>Passive Information Collection</strong>
+      </h5>
+      <p>
+        When you visit our Services, some information is collected automatically.&nbsp; For example, when you access our Services, we automatically collect your browser’s Internet Protocol (IP) address, your browser type, the nature of the device from which you are visiting the Services (e.g., a personal computer or a mobile device), the identifier for any handheld or mobile device that you may be using, the Web site that you visited immediately prior to accessing any Web-based Services, the actions you take on our Services, and the content, features, and activities that you access and participate in on our Services.&nbsp; We also may collect information regarding your interaction with e-mail messages, such as whether you opened, clicked on, or forwarded a message.
+      </p>
+      <p>
+        We may collect this information passively using technologies such as standard server logs, cookies, and clear GIFs (also known as “Web beacons”).&nbsp; We use passively-collected information to administer, operate, and improve the Site and our other services and systems, to improve the effectiveness of advertising on our Services, and to provide advertisements and other content that is tailored to you.&nbsp; If we link or associate any information gathered through passive means with Personal Information, or if applicable laws require us to treat any information gathered through passive means as Personal Information, we treat the combined information as Personal Information under this Policy.&nbsp; Otherwise, we use and disclose information collected by passive means in aggregate form or otherwise in a non-personally identifiable form.
+      </p>
+      <p>
+        Also, please be aware that third parties, such as companies displaying advertisements on the Services or sites or services provided by third parties (“Third-Party Sites”) that may be linked to from the Services, may set cookies on your hard drive or use other means of passively collecting information about your use of their services, Third-Party Sites or content.&nbsp; We do not have access to, or control over, these third-party means of passive data collection.&nbsp;<br><br>
+      </p>
+      <h5>
+        <strong>Information from Other Sources</strong>
+      </h5>
+      <p>
+        We may receive information about you, including Personal Information, from third parties, and may combine this information with other Personal Information we maintain about you.&nbsp; If we do so, this Policy governs any combined information that we maintain in personally identifiable format.<br>
+      </p>
+      <h2>
+        <strong><br>Use of Personal Information</strong>
+      </h2>
+      <p>
+        We use Personal Information to provide services and information that you request; to enhance, improve, operate, and maintain our Services, our programs, services, Web sites, and other systems; to prevent fraudulent use of our Services and other systems; to prevent or take action against activities that are, or may be, in violation of our Terms of Use or applicable law; to tailor advertisements, content, and other aspects of your experience on and in connection with the Services; to maintain a record of our dealings with you; for other administrative purposes; and for any other purposes that we may disclose to you at the point at which we request your Personal Information, and pursuant to your consent.
+      </p>
+      <p>
+        We may also use Personal Information you provide to contact you regarding products, services, and offers, both from ourselves and from third parties, that we believe you may find of interest.&nbsp; We allow you to opt-out from receiving marketing communications from us as described in the “Choice” section below.
+      </p>
+      <p>
+        <strong><br></strong>
+      </p>
+      <h2>
+        <strong>Disclosure of Personal Information</strong>
+      </h2>
+      <p>
+        Except as described in this Policy, we will not disclose your Personal Information that we collect on the Services to third parties without your consent.&nbsp; We may disclose information to third parties if you consent to us doing so, as well as in the following circumstances:<br><br>
+      </p>
+      <h5>
+        <strong>Service Providers &nbsp;</strong>
+      </h5>
+      <p>
+        We may disclose Personal Information to third-party service providers (e.g., payment processing and data storage and processing facilities) that assist us in our work.&nbsp; We limit the Personal Information provided to these service providers to that which is reasonably necessary for them to perform their functions, and we require them to agree to maintain the confidentiality of such Personal Information.&nbsp;<br>
+      </p>
+      <p>
+        <strong><br></strong>
+      </p>
+      <h5>
+        <strong>Business Transfers&nbsp;</strong>
+      </h5>
+      <p>
+        Information about our users, including Personal Information, may be disclosed and otherwise transferred to an acquirer, or successor or assignee as part of any merger, acquisition, debt financing, sale of company assets, or similar transaction, as well as in the event of an insolvency, bankruptcy, or receivership in which Personal Information is transferred to one or more third parties as one of our business assets.
+      </p>
+      <p>
+        <strong><br></strong>
+      </p>
+      <h5>
+        <strong>To Protect Our Interests</strong>
+      </h5>
+      <p>
+        We also disclose Personal Information if we believe that doing so is legally required, or is in our interest to protect our property or other legal rights (including, but not limited to, enforcement of our agreements), or the rights or property of others, or otherwise to help protect the safety or security of our Services and other users of the Services.&nbsp;
+      </p>
+      <h2>
+        <strong><br>Choice</strong><strong>&nbsp;</strong>
+      </h2>
+      <p>
+        If you receive commercial e-mail from us, you may unsubscribe at any time by following the instructions contained within the e-mail.&nbsp; You may also opt-out from receiving commercial e-mail from us, and any other promotional communications that we may send to you from time to time (e.g., by postal mail) by sending your request to us by e-mail at&nbsp;<a href="mailto:privacy@RealScout.com">hello@realscout.com</a>&nbsp;or by writing to us at the address given at the end of this policy.&nbsp; Additionally, if we offer user account functionality on the Services, we may allow you to view and modify settings relating to the nature and frequency of promotional communications that you receive from us.
+      </p>
+      <p>
+        Please be aware that if you opt-out of receiving commercial e-mail from us, it may take up to ten business days for us to process your opt-out request, and you may receive commercial e-mail from us during that period.&nbsp; Additionally, even after you opt-out from receiving commercial messages from us, you will continue to receive administrative messages from us regarding our Services.
+      </p>
+      <h2>
+        <strong><br>Access</strong>
+      </h2>
+      <p>
+        If we offer the ability to create user accounts or profiles on our Services, you may have the ability to access and update many categories of personal information that you provide to us by logging in to your account and accessing your account settings.&nbsp; If you wish to access or amend any other personal information we hold about you, you may contact us at&nbsp;<a href="mailto:privacy@RealScout.com">hello@realscout.com</a>. &nbsp;
+      </p>
+      <p>
+        If you request that we delete your account on any of our Services (via a user settings page, by e-mail, or otherwise), we will do so within a reasonable period of time, but we may need to retain some of your Personal Information in order to satisfy our legal obligations, or where we reasonably believe that we have a legitimate reason to do so. &nbsp;
+      </p>
+      <h2>
+        <strong><br>Links</strong>
+      </h2>
+      <p>
+        The Services may contain links to other Web sites, products, or services that we do not own or operate.&nbsp; For example, the Services may contain links to third-party merchants from which users may purchase sound recordings that are streamed through the Services.&nbsp; The Services also may contain links to Third-Party Sites such as social networking services.&nbsp; If you choose to visit or use any Third-Party Sites or products or services available on or through such Third-Party Sites, please be aware that this Policy will not apply to your activities or any information you disclose while using those Third-Party Sites or any products or services available on or through such Third-Party Sites.&nbsp; We are not responsible for the privacy practices of these Third-Party Sites or any products or services on or through them.&nbsp; Additionally, please be aware that the Services may contain links to Web sites and services that we operate but that are governed by different privacy policies.&nbsp; We encourage you to carefully review the privacy policies applicable to any Web site or service you visit other than the Services before providing any Personal Information on them.&nbsp;
+      </p>
+      <h2>
+        <strong><br>Children</strong>
+      </h2>
+      <p>
+        Children’s safety is important to us, and we encourage parents and guardians to take an active interest in the online activities of their children.&nbsp; Our Services are not directed to children under the age of 13, and we do not knowingly collect Personal Information from children under the age of 13 without obtaining parental consent.&nbsp; If we learn that we have collected personal information from a child under the age of 13 on our Services, we will delete that information as quickly as possible.&nbsp; If you believe that we may have collected any such personal information on our Services, please notify us at&nbsp;<a href="mailto:privacy@RealScout.com">hello@realscout.com</a>.
+      </p>
+      <h2>
+        <strong><br>International Visitors</strong>
+      </h2>
+      <p>
+        Our servers and data centers are located in the United States.&nbsp; If you choose to use the Services from outside the U.S., then you should know that you are transferring your Personal Information outside of your region and into the U.S. for storage and processing. By providing your Personal Information to us through your use of the Service, you agree to that transfer, storage, and processing in the U.S.&nbsp; Also, we may transfer your data from the U.S. to other countries or regions in connection with storage and processing of data, fulfilling your requests, and operating the Services.&nbsp; You should know that each region can have its own privacy and data security laws, some of which may be less stringent as compared to those of your own region.
+      </p>
+      <h2>
+        <strong><br>Security</strong>
+      </h2>
+      <p>
+        We use reasonable security measures that are designed to protect personal information from accidental loss, disclosure, misuse, and destruction.&nbsp; Please be aware, however, that no data security measures can be guaranteed to be completely effective.&nbsp; Consequently, we cannot ensure or warrant the security of any information that you provide to us.&nbsp; You transmit information to us at your own risk.&nbsp;
+      </p>
+      <h2>
+        <strong><br>Updates to this Policy</strong>
+      </h2>
+      <p>
+        We may occasionally update this Policy.&nbsp; When we do, we will also revise the “last updated” date at the beginning of the Policy.&nbsp; Your continued use of our Services after such changes will be subject to the then-current policy.&nbsp; If we change this Policy in a manner that is materially less restrictive of our use or disclosure of your Personal Information, we will use reasonable efforts to notify you of the change and to obtain your consent prior to applying the change to any Personal Information that we collected from you prior to the date the change becomes effective.&nbsp; We encourage you to periodically review this Policy to stay informed about how we collect, use, and disclose personal information.
+      </p>
+      <h2>
+        <strong><br>Contacting Us</strong>
+      </h2>
+      <p>
+        If you have any questions or comments about this Policy, please contact us using the following contact information:
+      </p>
+      <p>
+        <span class="Apple-tab-span" style="white-space:pre"></span>
+        RealScout, Inc.&nbsp;<br><span class="Apple-tab-span" style="white-space:pre">  </span>924 Almaden Ave.<br><span class="Apple-tab-span" style="white-space:pre">  </span>Sunnyvale, CA 94085<br><span class="Apple-tab-span" style="white-space:pre">  </span><a href="mailto:privacy@RealScout.com">hello@realscout.com</a>
+      </p>
+    </div>
+  </div>
   <div class="row">
-    <div class="col-md-12">
-          <table style="table-layout: fixed;width:100%">
-            <tbody><tr>
-              <td style="width:130px; vertical-align: top;">
-                <a href="/"><img alt="Logo" hidpi_src="https://d2ygk8gs8v5c6g.cloudfront.net/assets/general/logo@2x-493c6d3cc3e3257a4e10994cd2e5731a.jpg" src="https://d2ygk8gs8v5c6g.cloudfront.net/assets/general/logo-fae897b51fd4b1210a804d923241fb2d.jpg" style="width:130px;margin-top:15px"></a>
-              </td>
-              <td style="vertical-align: top;width:360px;padding-top: 30px">
-                <a href="/search" class="header_link">Map Search</a>
-                <a href="/categories" class="header_link">Feature Search</a>
-                <a href="/favorites" class="header_link">Favorites</a>
-                <a href="/profile/matches" class="header_link header_no_margin">Me</a>
-              </td>
-              <td style="vertical-align: top;width:370px">
-                <div class="realscout_gray">
-                  
-                </div>
-              </td>
-            </tr>
-          </tbody></table>
-
+    <div class="col-xs-12 text-center">
+      <a class="button tertiary" type="button" role="button" href="/about">About RealScout</a>
     </div>
   </div>
 </div>
-
-<!--NAVBAR FOR MOBILE-->
-
-
-
-    <script>
-        $(document).ready(function() {
-            $('#mobileSidebarButton').sidr({
-                name: 'mobileSidebar',
-                side: 'left' // By default
-            });
-            $('#criteriaButton').sidr({
-                name: 'criteriaSidebar',
-                side: 'right' // By default
-            });
-        });
-    </script>
-
-    <style>
-        #mobileSidebarButton {
-            float: left;
-            margin-left: 15px;
-        }
-        @media (max-width: 992px){
-            .navbar-toggle {
-                display: block;
-            }
-        }
-    </style>
-
-    <nav class="visible-xs visible-sm navbar navbar-default" role="navigation" style="margin-bottom: 0px">
-
-
-      <div class="navbar-header">
-            <button id="mobileSidebarButton" class="navbar-toggle">
-              <span class="icon-bar"></span>
-              <span class="icon-bar"></span>
-              <span class="icon-bar"></span>
-            </button>
-      </div>
-
-
-      <div id="mobileSidebar">
-        <!-- Your content -->
-        <ul>
-          <li><a href="/" class="header_link">Homepage</a></li>
-          <li><a href="/search" class="header_link">Map Search</a></li>
-          <li><a href="/categories" class="header_link">Feature Search</a></li>
-          <li><a href="/favorites" class="header_link">Favorites</a></li>
-              <li><a href="/users/sign_in" class="header_link">Sign In</a></li>
-        </ul>
-        <br>
-        <div style="margin-left:10px;">
-          <div id="sidebar_footer">
-            <hr style="margin: 5px 0px">
-            <a href="/about">About</a>&nbsp;&nbsp;
-            <a href="/careers">Careers</a>&nbsp;&nbsp;
-            <a href="/team">Team</a>&nbsp;&nbsp;
-            <a href="/terms" rel="nofollow">Terms</a>&nbsp;&nbsp;
-            <a href="/privacy" rel="nofollow">Privacy</a>
-          </div>
-        </div>
-      </div>
-    </nav>
-
-
-
-
-
-      </div>
-    </div>
-  </div>
-  <div style="position: relative; width:100%">
-    
-  </div>
-
-  <div class="container" style="margin-top: 20px;">
-    <div class="row">
-      <div class="col-md-12">
-        <div style="margin-bottom: 10px">
-          
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <div class="container">
-    <div class="row">
-      <h1>
-  <strong>Privacy</strong>
-</h1>
-<hr>
-<h2>
-  <strong>Overview</strong>
-</h2>
-<p>
-  Last Updated: August 27, 2012
-</p>
-<p>
-  This privacy policy (this “Policy”) describes the collection of personal information by RealScout, Inc., a Delaware corporation (“RealScout,” “we,” or “us”) from users of our Web site at www.RealScout.com (the “Site”), as well as all related applications, widgets, software, tools, and other services provided by us and on which a link to this Policy is displayed (collectively, together with the Site, our “Services”).&nbsp; This Policy also describes our use and disclosure of such information.&nbsp; By using our Services, you consent to the collection, use, and disclosure of personal information in accordance with this Policy.&nbsp; This Policy is incorporated by reference into the RealScout Terms of Use and subject to the provisions of the Terms of Use.
-</p>
-<h2>
-  <strong><br>Personal Information</strong>
-</h2>
-<p>
-  “Personal Information,” as used in this Policy, is information that specifically identifies an individual, such as an individual's name, address, telephone number, or e-mail address.&nbsp; Personal Information also includes information about an individual’s activities, such as information about his or her activity on our Services, and demographic information, such as date of birth, gender, geographic area, and preferences, when any of this information is linked to Personal Information that identifies that individual.
-</p>
-<p>
-  Personal Information does not include “aggregate” or other non-personally identifiable information.&nbsp; Aggregate information is information that we collect about a group or category of products, services, or users that is not personally identifiable or from which individual identities are removed.&nbsp; We may use and disclose aggregate information, and other non-personally identifiable information, for various purposes.
-</p>
-<h2>
-  <strong><br>Collection of Information</strong>
-</h2>
-<h5>
-  <strong>Collection of&nbsp;</strong><strong>Voluntarily-Provided Information</strong>
-</h5>
-<div>
-  <p>
-    We collect Personal Information that our users provide to us in a variety of ways on our Services.&nbsp;These include the following:<strong>&nbsp;&nbsp;</strong>
-  </p>
-</div>
-<ul>
-  <li>
-    <em>E-mail Newsletters</em>.&nbsp; We may offer e-mail newsletters from time to time on our Services.&nbsp; If you sign up to receive a newsletter from us, we collect your e-mail address.
-  </li>
-</ul>
-<ul>
-  <li>
-    <em>User Accounts and Profiles</em>.&nbsp; Our Services may give you the ability to register for a RealScout account or to create and update a user profile on the applicable Service.&nbsp; If we offer user account or profile functionality on the Services, we will collect the Personal Information that you provide to us in the course of registering for an account or creating or updating a user profile.&nbsp; This information may include, for example, name, postal address, telephone number, e-mail address, and related demographic information about you.&nbsp; We may indicate that some personal information is required for you to register for the account or to create the profile, while some is optional. &nbsp;
-  </li>
-</ul>
-<ul>
-  <li>
-    <em>Interactive Features</em>.&nbsp; Our Services may contain interactive functionality that allows you to post comments to forums, participate in surveys and otherwise to interact with the Services and with other users.&nbsp; If you use any interactive functionality on our Services that request or permit you to provide us with personal information (including, for example, any services that allow you to post comments to forums), we collect the Personal Information that you provide to us in the course of using these interactive features.&nbsp;
-  </li>
-</ul>
-<ul>
-  <li>
-    <em>Correspondence</em>.&nbsp; If you contact us by e-mail, using a contact form on the Services, or by mail, fax, or other means, we collect the Personal Information contained within, and associated with, your correspondence.<br><br>
-  </li>
-</ul>
-<h5>
-  <strong>Passive Information Collection</strong>
-</h5>
-<p>
-  When you visit our Services, some information is collected automatically.&nbsp; For example, when you access our Services, we automatically collect your browser’s Internet Protocol (IP) address, your browser type, the nature of the device from which you are visiting the Services (e.g., a personal computer or a mobile device), the identifier for any handheld or mobile device that you may be using, the Web site that you visited immediately prior to accessing any Web-based Services, the actions you take on our Services, and the content, features, and activities that you access and participate in on our Services.&nbsp; We also may collect information regarding your interaction with e-mail messages, such as whether you opened, clicked on, or forwarded a message.
-</p>
-<p>
-  We may collect this information passively using technologies such as standard server logs, cookies, and clear GIFs (also known as “Web beacons”).&nbsp; We use passively-collected information to administer, operate, and improve the Site and our other services and systems, to improve the effectiveness of advertising on our Services, and to provide advertisements and other content that is tailored to you.&nbsp; If we link or associate any information gathered through passive means with Personal Information, or if applicable laws require us to treat any information gathered through passive means as Personal Information, we treat the combined information as Personal Information under this Policy.&nbsp; Otherwise, we use and disclose information collected by passive means in aggregate form or otherwise in a non-personally identifiable form.
-</p>
-<p>
-  Also, please be aware that third parties, such as companies displaying advertisements on the Services or sites or services provided by third parties (“Third-Party Sites”) that may be linked to from the Services, may set cookies on your hard drive or use other means of passively collecting information about your use of their services, Third-Party Sites or content.&nbsp; We do not have access to, or control over, these third-party means of passive data collection.&nbsp;<br><br>
-</p>
-<h5>
-  <strong>Information from Other Sources</strong>
-</h5>
-<p>
-  We may receive information about you, including Personal Information, from third parties, and may combine this information with other Personal Information we maintain about you.&nbsp; If we do so, this Policy governs any combined information that we maintain in personally identifiable format.<br>
-</p>
-<h2>
-  <strong><br>Use of Personal Information</strong>
-</h2>
-<p>
-  We use Personal Information to provide services and information that you request; to enhance, improve, operate, and maintain our Services, our programs, services, Web sites, and other systems; to prevent fraudulent use of our Services and other systems; to prevent or take action against activities that are, or may be, in violation of our Terms of Use or applicable law; to tailor advertisements, content, and other aspects of your experience on and in connection with the Services; to maintain a record of our dealings with you; for other administrative purposes; and for any other purposes that we may disclose to you at the point at which we request your Personal Information, and pursuant to your consent.
-</p>
-<p>
-  We may also use Personal Information you provide to contact you regarding products, services, and offers, both from ourselves and from third parties, that we believe you may find of interest.&nbsp; We allow you to opt-out from receiving marketing communications from us as described in the “Choice” section below.
-</p>
-<p>
-  <strong><br></strong>
-</p>
-<h2>
-  <strong>Disclosure of Personal Information</strong>
-</h2>
-<p>
-  Except as described in this Policy, we will not disclose your Personal Information that we collect on the Services to third parties without your consent.&nbsp; We may disclose information to third parties if you consent to us doing so, as well as in the following circumstances:<br><br>
-</p>
-<h5>
-  <strong>Service Providers &nbsp;</strong>
-</h5>
-<p>
-  We may disclose Personal Information to third-party service providers (e.g., payment processing and data storage and processing facilities) that assist us in our work.&nbsp; We limit the Personal Information provided to these service providers to that which is reasonably necessary for them to perform their functions, and we require them to agree to maintain the confidentiality of such Personal Information.&nbsp;<br>
-</p>
-<p>
-  <strong><br></strong>
-</p>
-<h5>
-  <strong>Business Transfers&nbsp;</strong>
-</h5>
-<p>
-  Information about our users, including Personal Information, may be disclosed and otherwise transferred to an acquirer, or successor or assignee as part of any merger, acquisition, debt financing, sale of company assets, or similar transaction, as well as in the event of an insolvency, bankruptcy, or receivership in which Personal Information is transferred to one or more third parties as one of our business assets.
-</p>
-<p>
-  <strong><br></strong>
-</p>
-<h5>
-  <strong>To Protect Our Interests</strong>
-</h5>
-<p>
-  We also disclose Personal Information if we believe that doing so is legally required, or is in our interest to protect our property or other legal rights (including, but not limited to, enforcement of our agreements), or the rights or property of others, or otherwise to help protect the safety or security of our Services and other users of the Services.&nbsp;
-</p>
-<h2>
-  <strong><br>Choice</strong><strong>&nbsp;</strong>
-</h2>
-<p>
-  If you receive commercial e-mail from us, you may unsubscribe at any time by following the instructions contained within the e-mail.&nbsp; You may also opt-out from receiving commercial e-mail from us, and any other promotional communications that we may send to you from time to time (e.g., by postal mail) by sending your request to us by e-mail at&nbsp;<a href="mailto:privacy@RealScout.com">hello@realscout.com</a>&nbsp;or by writing to us at the address given at the end of this policy.&nbsp; Additionally, if we offer user account functionality on the Services, we may allow you to view and modify settings relating to the nature and frequency of promotional communications that you receive from us.
-</p>
-<p>
-  Please be aware that if you opt-out of receiving commercial e-mail from us, it may take up to ten business days for us to process your opt-out request, and you may receive commercial e-mail from us during that period.&nbsp; Additionally, even after you opt-out from receiving commercial messages from us, you will continue to receive administrative messages from us regarding our Services.
-</p>
-<h2>
-  <strong><br>Access</strong>
-</h2>
-<p>
-  If we offer the ability to create user accounts or profiles on our Services, you may have the ability to access and update many categories of personal information that you provide to us by logging in to your account and accessing your account settings.&nbsp; If you wish to access or amend any other personal information we hold about you, you may contact us at&nbsp;<a href="mailto:privacy@RealScout.com">hello@realscout.com</a>. &nbsp;
-</p>
-<p>
-  If you request that we delete your account on any of our Services (via a user settings page, by e-mail, or otherwise), we will do so within a reasonable period of time, but we may need to retain some of your Personal Information in order to satisfy our legal obligations, or where we reasonably believe that we have a legitimate reason to do so. &nbsp;
-</p>
-<h2>
-  <strong><br>Links</strong>
-</h2>
-<p>
-  The Services may contain links to other Web sites, products, or services that we do not own or operate.&nbsp; For example, the Services may contain links to third-party merchants from which users may purchase sound recordings that are streamed through the Services.&nbsp; The Services also may contain links to Third-Party Sites such as social networking services.&nbsp; If you choose to visit or use any Third-Party Sites or products or services available on or through such Third-Party Sites, please be aware that this Policy will not apply to your activities or any information you disclose while using those Third-Party Sites or any products or services available on or through such Third-Party Sites.&nbsp; We are not responsible for the privacy practices of these Third-Party Sites or any products or services on or through them.&nbsp; Additionally, please be aware that the Services may contain links to Web sites and services that we operate but that are governed by different privacy policies.&nbsp; We encourage you to carefully review the privacy policies applicable to any Web site or service you visit other than the Services before providing any Personal Information on them.&nbsp;
-</p>
-<h2>
-  <strong><br>Children</strong>
-</h2>
-<p>
-  Children’s safety is important to us, and we encourage parents and guardians to take an active interest in the online activities of their children.&nbsp; Our Services are not directed to children under the age of 13, and we do not knowingly collect Personal Information from children under the age of 13 without obtaining parental consent.&nbsp; If we learn that we have collected personal information from a child under the age of 13 on our Services, we will delete that information as quickly as possible.&nbsp; If you believe that we may have collected any such personal information on our Services, please notify us at&nbsp;<a href="mailto:privacy@RealScout.com">hello@realscout.com</a>.
-</p>
-<h2>
-  <strong><br>International Visitors</strong>
-</h2>
-<p>
-  Our servers and data centers are located in the United States.&nbsp; If you choose to use the Services from outside the U.S., then you should know that you are transferring your Personal Information outside of your region and into the U.S. for storage and processing. By providing your Personal Information to us through your use of the Service, you agree to that transfer, storage, and processing in the U.S.&nbsp; Also, we may transfer your data from the U.S. to other countries or regions in connection with storage and processing of data, fulfilling your requests, and operating the Services.&nbsp; You should know that each region can have its own privacy and data security laws, some of which may be less stringent as compared to those of your own region.
-</p>
-<h2>
-  <strong><br>Security</strong>
-</h2>
-<p>
-  We use reasonable security measures that are designed to protect personal information from accidental loss, disclosure, misuse, and destruction.&nbsp; Please be aware, however, that no data security measures can be guaranteed to be completely effective.&nbsp; Consequently, we cannot ensure or warrant the security of any information that you provide to us.&nbsp; You transmit information to us at your own risk.&nbsp;
-</p>
-<h2>
-  <strong><br>Updates to this Policy</strong>
-</h2>
-<p>
-  We may occasionally update this Policy.&nbsp; When we do, we will also revise the “last updated” date at the beginning of the Policy.&nbsp; Your continued use of our Services after such changes will be subject to the then-current policy.&nbsp; If we change this Policy in a manner that is materially less restrictive of our use or disclosure of your Personal Information, we will use reasonable efforts to notify you of the change and to obtain your consent prior to applying the change to any Personal Information that we collected from you prior to the date the change becomes effective.&nbsp; We encourage you to periodically review this Policy to stay informed about how we collect, use, and disclose personal information.
-</p>
-<h2>
-  <strong><br>Contacting Us</strong>
-</h2>
-<p>
-  If you have any questions or comments about this Policy, please contact us using the following contact information:
-</p>
-<p>
-  <span class="Apple-tab-span" style="white-space:pre">  </span>RealScout, Inc.&nbsp;<br><span class="Apple-tab-span" style="white-space:pre">  </span>924 Almaden Ave.<br><span class="Apple-tab-span" style="white-space:pre">  </span>Sunnyvale, CA 94085<br><span class="Apple-tab-span" style="white-space:pre">  </span><a href="mailto:privacy@RealScout.com">hello@realscout.com</a>
-</p>
-    </div>
-  </div>
-
-
-  
-
-</div>
-<div id="footer-container" class="hidden-xs hidden-sm">
-  <div class="container visible-md visible-lg">
-  <ul style="margin-left: 0px">
-    <li style="margin-left: 0px"><a href="http://pro.realscout.com">Pro Login</a></li>
-    <li><a href="/about">About</a></li>
-    <li><a href="/careers">Careers</a></li>
-    <li><a href="http://blog.realscout.com">Blog</a></li>
-    <li><a href="/terms" rel="nofollow">Terms</a></li>
-    <li><a href="/privacy" rel="nofollow">Privacy</a></li>
-    <li class="last">
-          © 2014 RealScout, <a href="http://invis.io/N2D6BXRZ">Inc.</a>  <br>
-    </li>
-  </ul>
-</div>
-
-  <div class="clear"></div>
 </div>
 
 
 
 
-<div class="hey_there_good_looking">
-  <!--
-  |\     /|(  ___  )(  ____ \(  ____ \\__   __/(  ____ \
-  ( \   / )| (   ) || (    \/| (    \/   ) (   | (    \/
-   \ (_) / | (___) || (_____ | (_____    | |   | (__
-    \   /  |  ___  |(_____  )(_____  )   | |   |  __)
-     ) (   | (   ) |      ) |      ) |   | |   | (
-     | |   | )   ( |/\____) |/\____) |___) (___| (____/\
-     \_/   |/     \|\_______)\_______)\_______/(_______/
-  MM7??????????????????????????????7NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNDNNDDDNNNNNNNN8DN8ZOZ????+++?????+????????MMN
-  MM7????????????????????????????+7DNNNNMNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMNNNNDNNNMMNNNNNNDDDN8O8D$?+???+??????????????MMN
-  MM7????????????????????????????7DNNNMMNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMNNMNNDDNNNNNNNNDDNNNND8DNZ?????+++++?????????MMN
-  MM7??????????????????????????+ZDNNNMMNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMN88DNMNNNNDD8DNNDDDDO????++++++?????????MMN
-  MM7???????????????????????+++?DNNMNNMNNNNNNMMNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMNND88DNNNNDDDDDDD888OI????++++++++++++??MMN
-  MM7????????????????????????++?8NNNMMNNNNNNNNNNNNNNNNNNNNNNNNNNNNDDNNNNNNMMNMMND88NND888OOODDDDD888I????++++++++++++++MMN
-  MM7???????????????????????++++NMMMMNNMMNNNNNNNNNNNNNNNNDD888OOO8888DDNNNNNNNNNND88DDDDNDDND8DD88DD7?+++++++++++++++++MMM
-  MM7?????????????????????+?+++7MNMMNNMMMNNNNNNMNNNND888OOZ$$$7$$ZZOOOO88DNNNNNNNN8D888DNNND88DDDDDN$++++++++++++++++++MMM
-  MMI???????????????????????+++$NMMNNMMNNNNNMNNNNDOZ$$77IIIIIIIIII7777777$ZZOO88DN88NNNNDDDNDDDNNDDDZ++++++++++++++++++MMM
-  MMI?????????????????????+++++8NNMMMMMNNNNNNNNND8Z$77IIIIIIIIII?????????III777$ZO8O88DNNNNNDDDDDD88I++++++++++++++++++MMM
-  MMI?????????????????????++++ZMMNNNMMMNNNNNNNMN8O$$7III????????????????????III777ZOO8D88DDNDD8888O8?+=++++++++++++++++MMN
-  MMI?????+???????+++++++++++ZNNNMNNMMMNNNNNNNND8Z$7II???????+++++++++++++++++????I$OOOO8D8OOO88OO8O+===+++++++++++++++MMN
-  MM7??+??++????+?++++++++++8MMMMNNNMMMMNNNMMNNDOZ$7I???????++++++++++++==========+?$ZO888OOO88O8O8O=+===++++++++++++++MMM
-  MM7??+??????++?????++++++?MMNMMMNNMMMNNNNNNNMDO$II??????????+?+++++======~~~~~~~~=+?Z8888D88OO8DDI+=++++====+++++++++MMM
-  MM7??+??????++++???++++++IMMMMMMMMMMMNNNNNNMN8Z7II???????????++++++=====~~~~~:~:~~==$8D88D888DDND$==+++=====+++++++++MMN
-  MM7??+??????+++++++++++++$MMMMMMMMMMMMNMNNMNN$7IIII????II??????++==++==~~~~~~:::::~~IZ8D8ODDNNDDNO+=++++++=++++++++++MMN
-  MM7?????????+?++++++++++?ZNMNMMMMMMMMMMMMMMND7III?II7ZZ7I?????++++=+======~~~::::::~+Z8O8DD8DDDNN7+=++++++++++==+++++MMN
-  MM7?????????????++++++?++8MMMMMMMMOOZ8MMMMNDZIIIZ888DDDDDOZ7I+===========~~~~~::::::~$88ONND8DDD8?=+===+++==+====++++MMN
-  MM7???????????????+?++++OMMMMMMMMDZZ$$DMMMNO7II77III?II$8DDND8Z?=+++++++?I7$OOZI:::::D888NNNNNNNI=+=========+++++++++MMN
-  MM7??+??????????++++++??MMMMMMMMNN$$77DMNNN$7I77I777II77I7$Z8DD7?+++I8DDDDOZ7?=~I?~::N8DDNNNNNN8===+====++=++==++++++MMN
-  MMI??+?++??????+?????+?8MMMNMMMNMN777$OMNN877II7$O8OOZZZ7$77$$Z7?++=?7II??++=~::~~~::DO8NNNNNNNI==++=======++++++++++MMN
-  MMI??+?++?????????+??+7MMMMMMMMNMNZ77ZONNDZ77III$$D8ZNMNZDDOO$7I?+=~~?IIII???+~~~~:~:DDODNNNNNO+===+========+++++++++MMM
-  MM7???????????????+??OMMMMMMMMMNMMN77Z$NNO$77IIIIII$ZZZ7?$O8$$7I?=~:=7O8ZN8MIIO$+~~~~888NMMMN8++============+++++++++MMM
-  MM7?????????????++++IMMMMMMMMMMNMMMO7$ONNZ$7IIIIIIIIII7$$$$$77II?+~~=+$O7IZ$++?+=~~~~888NNMNN=+========++++++++++++++MMM
-  MM7?????????????????OMMMMMMMMMMMMMND7?OND$777IIIIIIIII7777IIIIIII+~~~~=+???+=~~~~::~:DD8NNN8+++===++====+++++++++++++MMM
-  MM7????????????????OMMMMMMMMMMMMMNNN$7ZND$777IIII??IIIIII????????+=~~~~~~~~~~~::::::=8NONNDZ+===========+++++++++++++MMM
-  MM7???????????????IDMMMMMMMMMMMMMMNN$OZN8$777IIIII????II?I????I??+~~:::::~~~~::::::~:$D8MMN$+==========++++++++++++++MMM
-  MM7???????????????7NMMMMMMMMMMMMMMM$DZ788$777IIII????I??IIIIIII??=~~:~~:~~~~~::::::::7DNMMN7+===========+++++++++++++MMM
-  MM7???????????????7NMMMMMMMMMMMMMMNINM88O$$77IIII??????I7777III?+=~:::~~~~~~~:::~::~=7DNMNN7+============+=++++++++++MMM
-  MM7??????????????I$MMMMMMMMMMMMMMNM$NMMNO$$7IIIIII???I7777I?III?+=~~::~~=~~~~~~~::~~=ODNNNN7+==========+++==+++++++++MMM
-  MM7??????????????I$MMMMMMMMNNMMMNMMNDNMNO$77IIIIIIIII777I77777III+=~~~~~===~~~~~~~~~=8NMNND?+==========+++==+++++++++MMM
-  MM7??????????????IZNNMMMMMMMMMMNNNMMMMMN8$7IIIIIIIIII7II??I7$$$$7?+$O+~~===~~~~~:~~:?I8NMN8?++=======+++++==+=+++++++MMM
-  MM7???????????IIII$DDNMMMMMMMMMNNNMMMMMMD$7IIIII77IIIIII77ZOO8O7$Z$=~~~~~~~~~~~~~::=DIONNND7?+=======++++++++++++++++MMM
-  MM7??????????7ZI?I78DNMNMMMMMMMMMMMMMMMNNZ7IIIIII7I7Z8DDNDNDDD8$Z88O$?+~:~~~~~~:~:~?$ZMNMNDO$I?+========+++++++++++++MMN
-  MM7??????????IOOZ$Z8DMMMMMMMMMMMNMMMMMMMMD$7IIIIII78NNDDOZ$77++??77OOOOZ?~~~~~~~::=DNMMMNMNDDNNN7+====+++++++++++++++MMN
-  MM7??????????I7DNDNMMMMMMNNMMMMMMMMMMMMMMN8$7IIIII$88ZOOOOOZZZ$??II+=I8DOI~~~~~::=ONNNMNNMNDDDND8I+====++++++++++++++MMN
-  MM7??????????II$ZDMMMMMNNMMMMMMMMMMMMMMMMMNO$777II7IIIII7$DZ$7I7$$$I7Z8DOO+~~~~:I~NNMMNNNMNND8OZ88??+++=+++++++++++++MMN
-  MM7???????????I8NMNDZODNNMNNMMMMMMMMMMMNNMNNDZ$777II?II??I77IIII?+~~~~~~=+?=~~~:88MMMMMNNNNNND88ZZ7$$7+=+++++++++++++MMN
-  MM7???????????I7$8DDD8DMNDDMMMMMMMMMMMMMMMNNNDOZ77IIIII??II777I??+=~~~::~~~~:~IDNNMNMMNNNNMNNNDDD8Z$$$7$I++++++++++++MMN
-  MM7????????????II77I$ZONNNMMMMMMMMNMMMMMMMNMNNDDO$77III????I77$7I+=~::::~~~~7NNMNMNMMMNMMNNNNND8DD888Z777Z?=+++++++++MMM
-  MM7?????????????III77$ZDMMMMMMMMMMMMMMMMMMMMMNNDD8$77II???++++++=~~::::~~~IDMNNNMMMMMMMMMMMNNNDD8Z$$ZO77777$++?++++++MMM
-  MM7????????????III7I$$Z8MMMMMMMMMMMMMMMMMMMMMMMND888$77II????++=~~~::~~:ZNMMNMMMMMMMMMMMMMMNNNDD8Z$$$77777II$+=?+++++MMM
-  MM7???????????????I7$$O8NMMMMMMMMMMMMMMMMMMMMMMMNDO88Z$777III?+==~~~:~I8MMMMMMMMMMMMMMNMMMNNNNND8O$$777IIIIII7++?++++MMM
-  -->
-</div>
-    
-
-
-<script src="https://js-agent.newrelic.com/nr-361.min.js"></script></body></html>
+<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
