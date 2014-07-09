@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tamilfms.com privacy policy that was archived on 2013-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131019012443id_/http%3A//www.minthirai.com/FMsPrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamilfms.com privacy policy that was archived on 2014-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140709135312id_/http%3A//www.minthirai.com/FMsPrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # TamilFMs Minthirai - Tamil Online Radio, TVs, TV Shows, TV Serials, Movies, MP3s
 
