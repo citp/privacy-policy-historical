@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tolunaquick.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326033754id_/https%3A//www.quicksurveys.com/Content/policies/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tolunaquick.com privacy policy that was archived on 2014-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140709140106id_/https%3A//www.quicksurveys.com/Content/Policies/privacy-policy.aspx) for the most accurate reproduction.*
 
 # TolunaQuick Online Survey Software Privacy Policy
 
