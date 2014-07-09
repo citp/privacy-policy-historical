@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pushwoosh.com privacy policy that was archived on 2014-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140509181241id_/http%3A//www.pushwoosh.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pushwoosh.com privacy policy that was archived on 2014-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140709032718id_/http%3A//www.pushwoosh.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pushwoosh
 
