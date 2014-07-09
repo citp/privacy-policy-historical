@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tweakandtrick.com privacy policy that was archived on 2014-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140603235946id_/http%3A//www.tweakandtrick.com/p/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tweakandtrick.com privacy policy that was archived on 2014-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140709184416id_/http%3A//www.tweakandtrick.com/p/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy and Terms of Use
 
@@ -42,7 +42,7 @@ If you wish to disable cookies, you may do so through your browser options. More
 
 Terms of Use
 
-While every effort has been made to make sure that information provided on this website is accurate, the information is provided on an **AS IS** basis without any liability whatsoever. By using this site, you agree that TweakAndTrick.com or any of its owners will not be held responsible for any losses occurred by your reading or use of information provided on this site. You also agree that you bear the full responsibility of any harm that occurs to you or anyone else because of you by your use of information provided on this site.
+While every effort has been made to make sure that information provided on this website is accurate, the information is provided on an **AS IS** basis without any liability whatsoever. By using this site, you agree that TweakAndTrick.com or any of its owners will not be held responsible for any losses occurred by your reading or use of this site. You also agree that you bear the full responsibility of any harm that occurs to you or anyone else because of you by your use of information or applications provided on this site.
 
 **Your Consent**
 
@@ -52,7 +52,7 @@ By using our site, you consent to our privacy policy and terms of use.
 
 This document is subject to change without prior notice and changes will be effective immediately. In case of any issue, the latest version of this document will be used. If we decide to change our policies, we will post those changes on this page, and/or update the Policy modification date below. 
 
-This policy was last modified on 4 March 2012
+This policy was last modified on 1 July 2014.
 
 **Contacting Us**
 
