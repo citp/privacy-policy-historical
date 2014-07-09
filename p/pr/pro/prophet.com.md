@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the prophet.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331153109id_/http%3A//www.prophet.com/misc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prophet.com privacy policy that was archived on 2014-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140709074625id_/https%3A//www.prophet.com/misc/privacy) for the most accurate reproduction.*
 
-# Privacy | Prophet
+# Privacy Policy | Prophet
 
 Prophet respects the personal privacy of visitors to our Web site. Our privacy policy describes the kinds of information we may collect from you and how it is used. Our privacy policy is subject to change at any time, and we encourage you to periodically review this page for any updates. 
 
