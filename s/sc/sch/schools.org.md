@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the schools.org privacy policy that was archived on 2014-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140329082619id_/https%3A//www.schools.org/pdfs/GO167_1113.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schools.org privacy policy that was archived on 2014-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140709054522id_/https%3A//www.schools.org/pdfs/Privacy_Policy.pdf) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
-                                                                                                                                 Rev. 11/2013
+                                                                                                                                  Rev. 1/2011
  PRIVACY
  POLICY
                                    WHAT DOES SCHOOLS FINANCIAL CREDIT UNION
@@ -43,42 +43,35 @@ For nonaffiliates to market to you                                             N
 Questions? Call 916-569-5400 (Sacramento area) or 800-962-0990 or visit schools.org.
 
 
-                                                                                                                               Page 2
+                                                                                                                Page 2
 What we do
-How does Schools       To protect your personal information from unauthorized access and use, we use security measures that
-Financial Credit Union comply with federal law. These measures include computer safeguards and secured files and buildings.
-protect my personal    We maintain physical, electronic and procedural controls that comply with federal regulations to guard
-information?           your information.
-How does Schools       We collect personal information, for example, when you:
-Financial Credit Union    • Open an account or show us your government-issued ID.
-collect my personal       • Apply for a loan or use your credit or debit card.
-information?              • Make a deposit or withdrawal from your account.
-                       We also collect personal information from others, such as credit bureaus, affiliates, or other companies.
-Why can’t I limit all  Federal law gives you the rights to limit only:
-sharing?                  • Sharing for affiliates’ everyday business purpose — information about your creditworthiness.
-                          • Affiliates from using your information to market to you.
-                          • Sharing nonaffiliates to market to you.
-                       State laws and individual companies may give you additional rights to limit sharing.
+How does Schools Financial Credit Union To protect your personal information from unauthorized access and use,
+protect my personal information?        we use security measures that comply with federal law. These measures
+                                        include computer safeguards and secured files and buildings.
+                                        We maintain physical, electronic and procedural controls that comply with
+                                        federal regulations to guard your information.
+How does Schools Financial Credit Union We collect personal information, for example, when you:
+collect my personal information?           • Open an account or show us your government-issued ID.
+                                           • Apply for a loan or use your credit or debit card.
+                                           • Make a deposit or withdrawal from your account.
+                                        We also collect personal information from others, such as credit bureaus,
+                                        affiliates, or other companies.
+Why can’t I limit all sharing?          Federal law gives you the rights to limit only:
+                                           • Sharing for affiliates’ everyday business purpose — information about
+                                             your creditworthiness.
+                                           • Affiliates from using your information to market to you.
+                                           • Sharing nonaffiliates to market to you.
+                                        State laws and individual companies may give you additional rights to
+                                        limit sharing.
 Definitions
-Affiliates             Companies related by common ownership or control. They can be financial and nonfinancial companies.
-                          • Schools Financial Credit Union does not share with our affiliates.
-Nonaffiliates          Companies not related by common ownership or control. They can be financial and nonfinancial
-                       companies.
-                          • Schools Financial Credit Union does not share with nonaffiliates so they can market to you.
-Joint marketing        A formal agreement between nonaffiliated financial companies that together market financial products
-                       or services to you.
-                          • Schools Financial Credit Union does not jointly market.
-Internet marketing     Our website, schools.org, uses Google Analytics, a web analytics service provided by Google, Inc.
-                       (“Google”). Google Analytics uses “cookies,” or text files, placed on your computer to help analyze how
-                       consumers use schools.org. The information generated by the cookie is transmitted to, stored and
-                       evaluated by Google. Google may also transfer this information to third parties when required to do
-                       so by law, or where third parties process the information for Google. The information generated by
-                       cookies may also be aggregated and accessed by third parties who provide us with services related to
-                       schools.org. By using schools.org, you consent to the processing of such data by Google and other
-                       third parties in the manner and for the purposes set forth above.
-                       Schools also advertises on the Internet. In doing so, we use Google to show our ads on a variety of
-                       websites. Google uses cookies to serve ads based on a user’s prior visits to a website. You may opt out
-                       of Google’s use of cookies by visiting the Google advertising opt-out page. You may also refuse the use
-                       of cookies by selecting the appropriate settings on your browser. However, please note that if you do
-                       so, you may not be able to use the full functionality of the Internet.
-                                                                                                                        GO167 11/2013
+Affiliates                              Companies related by common ownership or control. They can be financial
+                                        and nonfinancial companies.
+                                           • Schools Financial Credit Union does not share with our affiliates.
+Nonaffiliates                           Companies not related by common ownership or control. They can be
+                                        financial and nonfinancial companies.
+                                           • Schools Financial Credit Union does not share with nonaffiliates so
+                                             they can market to you.
+Joint marketing                         A formal agreement between nonaffiliated financial companies that
+                                        together market financial products or services to you.
+                                           • Schools Financial Credit Union does not jointly market.
+                                                                                                        GO167 1/2011
