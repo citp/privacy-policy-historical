@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oklahoman.com privacy policy that was archived on 2014-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140420183226id_/http%3A//oklahoman.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oklahoman.com privacy policy that was archived on 2014-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140709062254id_/http%3A//www.oklahoman.com/privacypolicy) for the most accurate reproduction.*
 
 # The Oklahoman - Privacy Policy
 
