@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneynowusa.com privacy policy that was archived on 2014-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140107021312id_/http%3A//www.moneynowusa.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneynowusa.com privacy policy that was archived on 2014-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140709060729id_/http%3A//www.moneynowusa.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Money Now USA - Personal Loans, Payday Loans, Credit Repair, Bad Credit Loans.
 
