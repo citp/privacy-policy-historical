@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the m-files.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326034447id_/http%3A//www.m-files.com/en/privacy-policy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the m-files.com privacy policy that was archived on 2014-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140709065626id_/http%3A//www.m-files.com/en/privacy-policy-statement) for the most accurate reproduction.*
 
 # Privacy Policy - M-Files
 
@@ -41,6 +41,10 @@ We will make any legally-required disclosures of any breach of the security, con
 ## Links to Other Websites
 
 Our Site contains links to other websites. The fact that we link to a website is not an endorsement, authorization or representation of our affiliation with that third party. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit personally identifiable information from you. Other sites follow different rules regarding the use or disclosure of the personally identifiable information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit.
+
+## Safe Harbor
+
+[M-Files Safe Harbor Privacy Policy](http://www.m-files.com/sites/m-files.com/files/Content/documents/en/res/M-Files_Safe_Harbor_Privacy_Policy.pdf)
 
 ## Contact
 
