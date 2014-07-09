@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the authspot.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208060647id_/http%3A//authspot.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the authspot.com privacy policy that was archived on 2014-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140709062532id_/http%3A//authspot.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Authspot
 
