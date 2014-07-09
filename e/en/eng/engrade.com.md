@@ -1,42 +1,43 @@
-> *The following text is extracted and transformed from the engrade.com privacy policy that was archived on 2013-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130426054802id_/http%3A//wikis.engrade.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the engrade.com privacy policy that was archived on 2014-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140709100437id_/http%3A//wikis.engrade.com/help/privacy) for the most accurate reproduction.*
 
-# Engrade Help - Privacy Policy
+# Engrade Free Gradebook Help - Privacy Policy
 
-At Engrade, we highly value the privacy of our members and we have a strict privacy policy to ensure all of our users' information is private.
+Engrade, Inc. (“Company”) is committed to protecting your privacy. This privacy policy (“Policy”) applies to users of the Company’s service (the “Service”) available through our websites, including www.engrade.com, and www.engradepro.com (collectively, “Sites”). This Policy generally applies to users of our Services who are age 13 or older. For users under age 13, please refer to our Children’s Privacy Policy available at: www.engrade.com. This Policy does not apply to websites, applications or services that do not display or link to this statement or that display or link to different privacy statements.
 
-When we collect personal information from you on our website, we follow the privacy principles of TRUSTe and comply with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from the European Union. These are our promises to you:
+TYPES OF DATA WE COLLECT   
+Information You Provide  
+We collect information about you in various ways when you use our Services. We collect personal information you provide to us. For example, we collect your name, email address, grade level, and any other information you provide when you register for an account on our Services. We may also collect any information you provide us, such as your test answers, grades, and class schedule. We may also obtain information from other sources and combine that with information we collect on our Services. 
 
-**1\. Notice.** Engrade only collects your personal information to provide you with the features you request such as gradebook, calendar, or attendance. When we collect your personal information, we’ll always give you timely and appropriate notice describing what personal information we’re collecting and how we’ll use it.
+We may request that you provide your age information, including your date of birth to customize our Services’ content and other features. If your child identifies himself or herself as under the age of 13, please see our Children’s Privacy Policy here <https://wikis.engrade.com/help/childrenprivacypolic> for a description of how we collect, use and share information we collect from children under the age of 13.
 
-**2\. Grades.** Engrade does not and will never release any student's grades to any third party without the student's (or parents') express permission.
+Information Your School and Teachers Provide  
+Our Services allow schools, school districts, teachers and other educational institutions (collectively “Schools”) to access and interact with their students and their parents. If you invite or accept initiations from your School, or your School otherwise enrolls you in the Service, your School may share your personal information, such as your grades, test scores, attendance levels and other information, with us. We may add all of this information to the information we have already collected from you via the Service, and we may use it as described in this Privacy Policy. We are not responsible for any errors in information your School provides to us. 
 
-**3\. Email, Internal Messaging, and SPAM.** Engrade emails users about matters directly related to their Engrade account such as: sign up confirmation, lost log in information, new message notifications, or upgrade information. Engrade may also send a monthly newsletter, for which you may opt-out at any time. Engrade will never release a user's email address to any third party without the user's express permission. Engrade also provides users with its own internal messaging system. To prevent SPAM associated with other messaging systems, Engrade only allows users to message other users with whom they have a confirmed relationship (such as student-teacher).
+Information Automatically Collected Via Technology  
+When you use our Services, some information is automatically collected. For example, when you use our Services your computer's operating system, Internet Protocol (IP) address, access times, browser type and language, and the website you visited before our site are logged automatically. We also collect information about your usage and activity on our Sites. 
 
-**4\. Choice and Sharing.** We’ll give you choices about the ways we use and share your personal information, and we’ll respect the choices you make. Engrade will never release any of our users' information to third parties without express permission.
+Cookies: We may automatically collect information using "cookies." Cookies are small data files stored on your hard drive by a website. Among other things, cookies help us improve our Services and your experience. We use cookies to store user session data, remember your account settings and determine if your system is compatible with certain technologies, such as Flash and JavaScript. 
 
-**5\. Relevance.** We’ll collect only as much personal information as we need for specific, identified purposes, and we won’t use it for other purposes without obtaining your consent.
+USE OF YOUR DATA  
+We use personal information collected through our Site and Services for purposes described in this Policy or disclosed to you on our Site, or in connection with our services. For example, we may use your information to: (i) operate and improve our Services and Sites; (ii) understand you and your preferences to enhance your experience and enjoyment using our Site and Services; (iii) respond to your comments and questions and provide customer service; (iv) to send you related information, including confirmations, invoices, technical notices, updates, security alerts, and support and administrative messages; (v) communicate with you about new contests, promotions, rewards, upcoming events, and other news about services offered by Company and our selected partners; and (vi) link or combine it with other personal information we get from third parties, to help understand your needs and provide you with better service.   
+We may also create anonymous and/or deidentified data records from your personal information by excluding information (such as your name) that make the data personally identifiable to you. 
 
-**6\. Retention.** We’ll keep your personal information only as long as we need it for the purposes for which we collected it, or as permitted by law. 
+SHARING OF PERSONAL INFORMATION  
+We do not share your personal information with third parties other than as follows: (1) with your consent; (2) with your School or those as directed by your School; (3) with third party vendors, consultants and other service providers who work for us and need access to your information to do that work; (4) to (i) comply with laws or to respond to lawful requests and legal process, (ii) to protect the rights and property of Company our agents, customers, members, and others including to enforce our agreements, policies and terms of use or (iii) in an emergency to protect the personal safety of Company, its customers, or any person; (5) in connection with or during negotiation of any merger, financing, acquisition, or dissolution, transaction or proceeding involving sale, transfer, divestiture, or disclosure of all or a portion of our business or assets to another company; or (6) in the event of insolvency, bankruptcy, or receivership, your information may also be transferred as a business asset.   
+We may also share aggregated or deidentified information in our sole discretion.
 
-**7\. Accuracy.** We’ll take appropriate steps to make sure the personal information in our records is accurate. 
+YOUR CHOICES REGARDING YOUR PERSONAL INFORMATION  
+You may opt out of receiving promotional emails from us by following the instructions in those emails. If you opt out, we may still send you non-promotional emails, such as emails about your accounts or our ongoing business relations. 
 
-**8\. Access.** We’ll provide ways for you to access your personal information, as required by law, so you can correct inaccuracies. 
+SECURITY OF YOUR PERSONAL INFORMATION   
+Company is committed to protecting the security of your personal information. We use a variety of industry-standard security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. While Company uses reasonable efforts to protect your personal information, Company cannot guarantee its absolute security.
 
-**9\. Cookies.** Engrade uses cookies only for usability purposes, we do not store any personal user information on cookies. We currently use cookies in three ways: (1) to store a user's session while they are logged in; (2) to remember a user's account settings; and (3) to determine if the user's system is compatible with certain technologies such as Flash and JavaScript.
+CONTACT INFORMATION  
+If you have any questions or concerns or complaints about our Privacy Policy or our data collection or processing practices, or if you want to report any security violations to us, please contact us at the following email address: privacy@engrade.com.
 
-**10\. Security.** We’ll take appropriate physical, technical, and organizational measures to protect your personal information from loss, misuse, unauthorized access or disclosure, alteration, and destruction. unauthorized access or disclosure, alteration or destruction. Engrade takes extreme precautions to ensure that our system is absolutely secure. Please read our [security help page](http://wikis.engrade.com/help/security) to learn more.
+CHANGES TO THIS PRIVACY POLICY   
+This Privacy Policy is subject to occasional revision, and if we make any material changes in the way we use your personal information, we will notify you by sending you an e-mail to the last e-mail address you provided to us and/or by prominently posting notice of the changes on our Site. Any changes to this Privacy Policy will be effective upon the earlier of thirty (30) calendar days following our dispatch of an e-mail notice to you or thirty (30) calendar days following our posting of notice of the changes on our Site. These changes will be effective immediately for new users of our Services. Please note that at all times you are responsible for updating your personal information to provide us with your most current e-mail address. In the event that the last e-mail address that you have provided us is not valid, or for any reason is not capable of delivering to you the notice described above, our dispatch of the e-mail containing such notice will nonetheless constitute effective notice of the changes described in the notice. In any event, changes to this Privacy Policy may affect our use of personal information that you provided us prior to our notification to you of the changes. If you do not wish to permit changes in our use of your personal information, you must notify us prior to the effective date of the changes. Continued use of our Services, following notice of such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes.
 
-**11\. International Transfer.** If we transfer your personal information to another country, we’ll take appropriate measures to protect your privacy and the personal information we transfer. 
+Last Revised: November 25, 2013
 
-**12\. Enforcement.** We’ll regularly review how we’re meeting these privacy promises, and we’ll provide an independent way to resolve complaints about our privacy practices. 
-
-To access your information, ask questions about our privacy practices, or issue a complaint, contact us at:
-
-Engrade  
-1327 Ocean Ave, Suite I  
-Santa Monica, CA, United States 90401  
-Email: support[@]engrade.com
-
-Engrade is a participant in the TRUSTe Privacy Seal Program. TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world. As this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices monitored for compliance by TRUSTe.
-
-If you have questions or concerns regarding this statement, you should first contact Engrade on the Support page. If your inquiry is not satisfactorily addressed, you may then contact TRUSTe at http://www.truste.org/consumers/watchdog_complaint.php. TRUSTe will serve as a liaison to work toward resolutions of your concerns. Any disputes arising from this Privacy Policy shall be governed by the laws of the State of California, and if you and Engrade cannot resolve such disputes, the matter shall be brought in and decided by the courts of the State of California.
+[Read McGraw-Hill Education Corporate Customer Privacy Policy](http://www.mheducation.com/customer-privacy-policy)
