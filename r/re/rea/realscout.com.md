@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the realscout.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326113031id_/https%3A//www.realscout.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realscout.com privacy policy that was archived on 2014-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140710011530id_/https%3A//www.realscout.com/privacy) for the most accurate reproduction.*
 
-# RealScout - Personalized Home Search with More Data About Local Listings
-
-* * *
+# RealScout - Personalized Home Search with More Data About Local Listings / RealScout
 
 ##  **Overview**
 
