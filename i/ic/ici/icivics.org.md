@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icivics.org privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214235301id_/https%3A//www.icivics.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icivics.org privacy policy that was archived on 2014-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140709211925id_/https%3A//www.icivics.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | iCivics
 
