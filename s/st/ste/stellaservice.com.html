@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the stellaservice.com privacy policy that was archived on 2014-06-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140603225558id_/http%3A//www.stellaservice.com/business/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the stellaservice.com privacy policy that was archived on 2014-07-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140709083730id_/http%3A//www2.stellaservice.com/business/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US"><!--<![endif]--><head>
 <script type="text/javascript" async="" src="//munchkin.marketo.net/142/munchkin.js"></script>
@@ -23,6 +23,7 @@
 <link rel="stylesheet" id="twentyfourteen-lato-css" href="//fonts.googleapis.com/css?family=Lato%3A300%2C400%2C700%2C900%2C300italic%2C400italic%2C700italic" type="text/css" media="all">
 <link rel="stylesheet" id="genericons-css" href="http://www2.stellaservice.com/wp-content/themes/stella/genericons/genericons.css?ver=3.0.2" type="text/css" media="all">
 <link rel="stylesheet" id="twentyfourteen-style-css" href="http://www2.stellaservice.com/wp-content/themes/stella/style.css?ver=3.9.1" type="text/css" media="all">
+<link rel="stylesheet" id="tablepress-default-css" href="http://www2.stellaservice.com/wp-content/plugins/tablepress/css/default.min.css?ver=1.4" type="text/css" media="all">
 <script type="text/javascript" src="http://www2.stellaservice.com/wp-includes/js/jquery/jquery.js?ver=1.11.0"></script>
 <script type="text/javascript" src="http://www2.stellaservice.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
 <script type="text/javascript" src="http://www2.stellaservice.com/wp-content/plugins/wp-video-lightbox/js/jquery.prettyPhoto.js?ver=3.1.5"></script>
@@ -202,11 +203,15 @@ left:60px}
 </script>
 <div class="learnmoretab"><div class="lmtoggle"></div><div class="contact-form">
 <h1>Contact Us</h1>
-
+<style type="text/css">
+#Comments_from_Contact_Us_Form__c{display:block !important}
+</style>
 <script src="//app-sj09.marketo.com/js/forms2/js/forms2.js"></script>
 <form id="mktoForm_1033"></form>
 <script>MktoForms2.loadForm("//app-sj09.marketo.com", "359-NUD-293", 1033, function(form){
 jQuery('.mktoTextField').each(function(i){
+   var defaultValueph = jQuery(this).attr('placeholder');
+jQuery(this).val(defaultValueph);
     var defaultValue = jQuery(this).val();
 
     jQuery(this).focus(function(){
@@ -225,6 +230,8 @@ jQuery('.mktoTextField').each(function(i){
 });
 
 jQuery('.mktoEmailField').each(function(i){
+   var defaultValueph = jQuery(this).attr('placeholder');
+jQuery(this).val(defaultValueph);
     var defaultValue = jQuery(this).val();
 
     jQuery(this).focus(function(){
@@ -241,7 +248,11 @@ jQuery('.mktoEmailField').each(function(i){
         }
     });
 });
-
+jQuery('#Comments_from_Contact_Us_Form__c').each(function(i){
+var defaultValueph = jQuery(this).attr('placeholder');
+jQuery(this).val(defaultValueph);
+    var defaultValue = jQuery(this).val();
+});
 
 
 });</script>
@@ -334,7 +345,9 @@ Security</p>
 <form id="mktoForm_1017"></form>
 <script>MktoForms2.loadForm("//app-sj09.marketo.com", "359-NUD-293", 1017, function(form){
 
-jQuery('.mktoTextField').each(function(i){
+jQuery('#contactpop .mktoTextField').each(function(i){
+ var defaultValueph = jQuery(this).attr('placeholder');
+jQuery(this).val(defaultValueph);
     var defaultValue = jQuery(this).val();
 
     jQuery(this).focus(function(){
@@ -353,7 +366,9 @@ jQuery('.mktoTextField').each(function(i){
 });
 
 
-jQuery('.mktoTelField').each(function(i){
+jQuery('#contactpop .mktoTelField').each(function(i){
+ var defaultValueph = jQuery(this).attr('placeholder');
+jQuery(this).val(defaultValueph);
     var defaultValue = jQuery(this).val();
 
     jQuery(this).focus(function(){
@@ -370,7 +385,9 @@ jQuery('.mktoTelField').each(function(i){
         }
     });
 });
-jQuery('.mktoEmailField').each(function(i){
+jQuery('#contactpop .mktoEmailField').each(function(i){
+ var defaultValueph = jQuery(this).attr('placeholder');
+jQuery(this).val(defaultValueph);
     var defaultValue = jQuery(this).val();
 
     jQuery(this).focus(function(){
@@ -388,7 +405,7 @@ jQuery('.mktoEmailField').each(function(i){
     });
 });
 
-jQuery('.mktoUrlField').each(function(i){
+jQuery('#contactpop .mktoUrlField').each(function(i){
     var defaultValue = jQuery(this).val();
 
     jQuery(this).focus(function(){
@@ -560,7 +577,7 @@ function scrollToTop() { jQuery('html, body').animate({scrollTop:0}, 'slow'); }
 		</div><!-- #main -->
 <style type="text/css">
 .totop{width:53px;height: 53px;background: url("/wp-content/themes/stella/images/to-top.png");position: fixed;bottom:50px;right:50px;z-index: 200;cursor: pointer}
-.footer-menu{width:960px;margin:auto}
+.footer-menu{width:960px;margin:auto;position: relative;z-index: 10}
 .footer-menu h1{font-size: 16px;
 margin-bottom: 15px}
 .footer-menu p{margin-bottom: 0px;
@@ -595,7 +612,7 @@ font-weight: 300;width:240px}
 <td>
 <h1>Locations</h1>
 <p><strong>New York</strong></p>
-<p>75 Broad St, Suite 2900</p>
+<p>75 Broad St, Suite 1010</p>
 <p>New York, NY 10004</p>
 <p>&nbsp;</p>
 <p><strong>California</strong></p>
