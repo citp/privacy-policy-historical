@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashenvoy.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330230102id_/https%3A//www.cashenvoy.com/%3Fcmd%3Dprivacy%26subcmd%3Dnone%26out%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashenvoy.com privacy policy that was archived on 2014-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140709131550id_/https%3A//www.cashenvoy.com/%3Fcmd%3Dprivacy%26subcmd%3Dnone%26out%3D1) for the most accurate reproduction.*
 
 # Privacy - - CashEnvoy
 
