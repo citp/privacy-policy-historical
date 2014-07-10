@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hackett.co.uk privacy policy that was archived on 2014-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140404121712id_/http%3A//www.hackett.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hackett.co.uk privacy policy that was archived on 2014-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140710065829id_/http%3A//www.hackett.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Hackett
 
