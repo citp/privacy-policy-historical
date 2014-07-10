@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hellofax.com privacy policy that was archived on 2014-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140222195223id_/https%3A//www.hellofax.com/info/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hellofax.com privacy policy that was archived on 2014-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140710234653id_/https%3A//www.hellofax.com/info/privacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | HelloFax
 
@@ -38,7 +38,7 @@ This Site uses certain Google advertising features including Google Analytics De
 
 ### Your Consent To This Privacy Policy.
 
-By using this Site, you agree to this Privacy Policy. This is our entire and exclusive Privacy Policy and it supersedes any earlier version. Our Terms and Conditions [Place a link here to the Terms and Conditions] take precedence over any conflicting Privacy Policy provision. We may change this Privacy Policy by posting a new version of this Privacy Policy on this Site which it is your responsibility to review." 
+By using this Site, you agree to this Privacy Policy. This is our entire and exclusive Privacy Policy and it supersedes any earlier version. Our [Terms and Conditions](https://web.archive.org/info/tos) take precedence over any conflicting Privacy Policy provision. We may change this Privacy Policy by posting a new version of this Privacy Policy on this Site which it is your responsibility to review. 
 
 ### Legal Disclaimer.
 
