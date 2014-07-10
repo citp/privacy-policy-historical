@@ -1,43 +1,52 @@
-> *The following text is extracted and transformed from the handshake.com privacy policy that was archived on 2005-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050319072206id_/http%3A//www.handshake.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the handshake.com privacy policy that was archived on 2014-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140710172554id_/https%3A//www.handshake.com/legal/privacy_policy) for the most accurate reproduction.*
 
-# :: welcome to handshake.com ::
+# Privacy Policy | Terms of Service | Security | EULA | Handshake
 
-Handshake provides a variety of online services for real estate professionals, commercial real estate professionals, apartment managers, landlords and owners. Handshake values your privacy and feedback.
+  * [Terms Of Service](https://web.archive.org/legal/terms_of_service "Terms Of Service")
+  * [Privacy Policy](https://web.archive.org/legal/privacy_policy "Privacy Policy")
+  * [Pricing Policy](https://web.archive.org/legal/pricing "Pricing Policy")
+  * [Referral Policy](https://web.archive.org/legal/referral_policy "Referral Policy")
+  * [Hibernation](https://web.archive.org/legal/hibernation "Hibernation")
 
-Any user information we collect is considered private and we do not use it or share it except as permitted herein, without the user's permission. We use this personal information at Handshake to provide the best quality service possible. The following policy statement summarizes Handshake's protection and use of any personal information provided by visitors to the Handshake network.
 
-**Information Collected by Handshake:**
 
-Handshake collects user information from several areas of the Handshake site including the 'Member Registration' area; products; business services; the adding and editing of property listings; the adding and editing of Professional Profiles; email forms. Handshake collects individual user search activity for statistical, archival, and business purposes. Handshake collects financial information (such as billing address, credit card number, expiration date) for billing payment and credit card authorization purposes only.
+#### Last updated: Dec 24, 2011
 
-**Use of Information Collected:**
+We collect the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages you access or visit, and information volunteered by you (such as the content you upload). The information we collect is used to improve the content of our Web pages and the quality of our service, and is not shared with or sold to other organizations or third parties for any purpose, except to provide services you've requested, when we have your permission, or under the following circumstances:
 
-Collected information helps Handshake better understand its users' needs in order to improve its product and service offerings. Email addresses are used to communicate with members through our newsletter. Users may be deleted from Handshake's promotional email and Partner email lists at their request. Personal information may be used to contact users for the purpose of research, product development, marketing, or customer service, if the user has opted to receive such communication. User search activity is collected and analyzed and may be utilized by Handshake in the aggregate or in the abstract for a variety of business purposes. Financial information is used to bill users for products and services purchased. Within Handshake, only accounting managers have access to the credit card account information. This information is not shared with anyone outside of Handshake. 
+It is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Terms of Service, or as otherwise required by law.
 
-**Use of Email Tools:**
+We transfer information about you if Handshake is acquired by or merged with another company. In this event, we will notify you before information about you is transferred and becomes subject to a different privacy policy.
 
-You may NOT use our e-mail services or other email services that we offer to send spam (i.e. unsolicited commercial email) or otherwise send content that would violate Handshake's Terms and Conditions. We may monitor, track or save the use of this feature, but will be under no obligation to monitor, track or save these email messages sent from these tools. If you send and email using the Email This Item to a Friend service to an email address that is not registered in our system, we do not use that email address for any purpose other than to send your email. We also do not rent or sell these email addresses of un-registered users. 
+### Inspection of your data
 
-**Shared information:**
+Only the upper management of Handshake have the ability to view your data, but will never actually do so, except in the following situations:
 
-Though Handshake makes every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have good faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site.
+  * In the process of providing support on your account that you have explicitly requested (for example, if you write to ask for help in setting up your account).
 
-Handshake shares member information in the following areas on the site: Listing Service, Email Alerts and Professional Directory. When a member enters a sale or lease listing in the Listing Service, listing contact information is also entered. During this process, the listing submitter is able to view other members' contact information when he adds another contact beside himself to the listing. In addition, members searching Handshake can view contact information (name, email and phone number) when they view a property listing profile. Handshake allows users to share contact information with one another via its Email Alerts service. With Email Alerts users can save their property search criteria to have information about properties that match the specified criteria emailed to them. When selecting this service, users are given the option of releasing their contact information to other users who have property listings that match their criteria. This contact information is then shared with the users who have property listings that match the buying or leasing criteria. Unless required by law as detailed in this section or a user specifically takes action as discussed in this paragraph, Handshake does not share individual user search activity information and such activity information remains private to the individual user and to Handshake. Professional Profile users agree to share their contact information and allow all Handshake users to view their contact information via the Handshake Directory or via links made available to users on a listing or in an email. Handshake users who do not opt out of the Professional Directory service during registration with Handshake (or anytime thereafter) also agree to share their contact information via the Handshake Professional Directory.
+  * In the process of diagnosing / rectifying a technical issue that affects the stability or performance of the Handshake system.
 
-Handshake shares information with its partners for the purpose of providing related services in which we deem our users have interest. The use that Handshake's partners make of customer information will not exceed Handshake's use of the data. Key billing information (such as credit card number, expiration date and dollar amount) gathered from users making online purchases of products or services is shared with VeriSign, our credit card processing partner, in order to authorize charges to the credit card. Handshake also uses third party providers to perform email and postal mailings on behalf of Handshake, but this information (such as name, address and email) is confidential and is not used by the provider for any other purpose.
 
-Handshake does not sell, rent or lease user information to any third party, except as disclosed here. From time to time, Handshake may obtain information (such as electronic mail addresses) from third party providers. It is our goal to only contact individuals who we believe may have a legitimate business interest in Handshake based on their membership or participation in other organizations or web sites, and who have indicated a willingness to be contacted for this purpose. While Handshake endeavors to work with other sites and companies with a similar respect for user privacy, Handshake cannot be responsible for the privacy practices of other sites.
 
-Please be aware that in the event Handshake merges with a third party or in the event all or substantially all of Handshake's assets are acquired by a third party, customer information, including personally identifiable information, will be shared and/or transferred to such third party. The information may only be used or shared by such third parties for the primary purpose for which the information was originally collected. If such third parties, or if Handshake for its own business needs, desire to use the personally identifiable information for another purpose, you will be notified prior to the information being used for a new purpose, and you will have the opportunity to opt out of such new use of your personally identifiable information.
 
-**Security of personal information:**
+Your data is never stored outside of our secure hosting environment (e.g. on personal workstations or laptops) except on a strictly temporary basis as required in the service of either of the aforementioned situations above.
 
-Handshake's clients and their personal information are considered to be Handshake's greatest asset and thus their privacy is treated with the utmost regard and respect. Handshake takes every reasonable precaution to secure personal information within both its computers and its physical premises.
+### Information Gathering and Usage
 
-**Updating, Opting out, editing, or deleting personal information:**
+When you register for Handshake we ask for information such as your name, company name, and email address. Members who sign up for a paid subscription also provide their billing address and credit card information.
 
-Handshake utilizes email as a vital and primary communication channel with registered users and customers. As a registered user/customer, you hereby acknowledge and grant Handshake the permission to communicate with you via email (as well as other communication channel such as phone and fax) for any purposes Handshake determines to be relevant including, but not limited to, system messages, product updates, service announcements and other marketing messages. Handshake will use best efforts to honor customers request to opt out of marketing messages, but under no circumstances will Handshake have any liability for sending any email to its registered users/customers. Users who do not wish to receive marketing emails, promotional emails, or sponsor emails are requested to contact Handshake Customer Service via email, or select the opt-out option by deselecting the email option from their member profile. We also send our users site and service announcement updates. Members are not able to un-subscribe from service announcements, which contain important information about service notices and responsibilities. Handshake occasionally communicates with its users via email to provide information about requested services and regarding issues related to their account. It is important to note that this communication is not used for marketing or promotional purposes. Requesting the deletion of certain types of user information may prevent users from accessing some web site features. You may correct or update your personally identifiable information by making the change on your member profile page. If you no longer desire our service, you may deactivate your membership by sending an email to cancel@Handshake.com.
+Handshake uses collected information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, and research.
 
-**Changes to this Privacy Statement:**
+### Cookies
 
-If Handshake decides to change its privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. Handshake reserves the right to modify this privacy statement at any time, so please review it frequently. If Handshake makes material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. 
+A cookie is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser from a web site's computers and stored on your computer's hard drive. Cookies are required to use the Handshake website.
+
+We use cookies to record current session information, but do not use permanent cookies. You are required to re-login to the Handshake website after a certain period of time has elapsed to protect you against others accidentally accessing your account contents.
+
+### Disclosure
+
+Handshake may disclose personally identifiable information under special circumstances, such as to comply with subpoenas or when your actions violate the Terms of Service.
+
+### Changes
+
+We may periodically update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the email address on your account holder account and/or by placing a prominent notice on our site.
