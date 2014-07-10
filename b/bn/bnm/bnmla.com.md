@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bnmla.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625090121id_/http%3A//engagebdr.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bnmla.com privacy policy that was archived on 2014-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140710034935id_/http%3A//engagebdr.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | engage:BDR
 
