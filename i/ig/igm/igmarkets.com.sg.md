@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the igmarkets.com.sg privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325184346id_/http%3A//www.ig.com/sg/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igmarkets.com.sg privacy policy that was archived on 2014-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140710104345id_/http%3A//www.ig.com/sg/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -149,3 +149,5 @@ We are constantly striving to improve functionality on our website through techn
 ### Disclaimer
 
 This website may have links to external third party websites. Please note that third party websites are not covered by our Privacy Policy. You are advised to read the privacy statement of each website that you visit, which collects personal data.
+
+Issue date : 3 June 2014
