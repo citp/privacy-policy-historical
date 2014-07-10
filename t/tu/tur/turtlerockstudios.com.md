@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the turtlerockstudios.com privacy policy that was archived on 2014-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140503185552id_/https%3A//www.turtlerockstudios.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turtlerockstudios.com privacy policy that was archived on 2014-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140710122839id_/https%3A//www.turtlerockstudios.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Turtle Rock Studios
 
-_Last_ _updated February 10, 2014_ __
+_Last_ _updated July 8, 2014_ __
 
 **Our Privacy Commitment**
 
@@ -76,7 +76,7 @@ _-   Protection of rights._  We will share personal information if we have a g
 
 _-   Asset transfers.  _If we become involved in a merger, acquisition or other transaction involving the sale of some or all of TRS’s assets or a line of business, user information, including personal information collected from you through your use of the Site and TRS Services, could be included in the transferred assets.  Should such an event occur, TRS will use reasonable means to notify you through a prominent notice on the Site.
 
-_-   Service Providers_. We may share your personal information with third party vendors or service providers that we engage for the purpose of fulfilling product orders or processing information on our and your behalf.  For example, we may partner with other companies to process payments for the Site.  Additionally, we may partner with other companies to process consumer surveys, fulfill prizes, or to process, analyze, and/or store data, including, but not limited to, Analytical Data. While providing services for us, these companies may access your personal information.  To the extent applicable, we require these entities to comply with this Privacy Policy and appropriate confidentiality and security measures.
+_\- Service Providers and Partners._ We may share your personal information with third party vendors or service providers that we engage for the purpose of fulfilling product orders, processing information on our and your behalf or providing services related to the online components of our games. For example, we may partner with other companies to process payments for the Site. Additionally, we may partner with other companies to process consumer surveys, fulfill prizes, or to process, analyze, and/or store data, including, but not limited to, Analytical Data. We may also provide your personal information, such as your email address, to our publishing partner, 2K Games, and its affiliates, in connection with the online components of our games. For example, we may provide 2K Games your email address so that 2K Games may send you an invite to participate in the alpha or beta testing of our games or to access certain parts of our forums which are only available to game testing participants. While providing services for us, these companies may access your personal information. To the extent applicable, we require these entities to comply with this Privacy Policy and appropriate confidentiality and security measures.
 
 _Additional Information You Should Know About Third Parties_
 
