@@ -1,47 +1,36 @@
-<!--The following is the downloaded HTML source of the igmarkets.com.sg privacy policy that was archived on 2014-03-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140325184346id_/http%3A//www.ig.com/sg/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the igmarkets.com.sg privacy policy that was archived on 2014-07-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140710104345id_/http%3A//www.ig.com/sg/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="gtie9 gtie10 nojs" lang="en-SG" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml"><!--<![endif]--><head>
-	<meta charset="utf-8">   
-	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1; requiresActiveX=true">
-    
-    
-    
 
-    <title>Privacy Policy</title>
-	<meta name="keywords" content="">
+        
+
+
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1; requiresActiveX=true">
+
+
+<title>Privacy Policy</title><meta name="keywords" content="">
     <meta name="description" content="Your privacy is important to us. This statement outlines our policy on how we manage the personal information we hold about our customers, shareholders and others.">
     <meta name="locale" id="locale" content="en_SG">
     <meta name="softid" id="softid" content="igcom">
-    <meta name="apple-itunes-app" content="app-id=736705884">
-                <link rel="canonical" href="http://www.ig.com/sg/privacy-policy">
+
+    <meta name="apple-itunes-app" content="app-id=406492428">
+            <link rel="canonical" href="http://www.ig.com/sg/privacy-policy">
 	<meta property="og:site_name" content="IG">
 
     <meta property="og:type" content="website">
-<meta property="og:image" content="http://www.ig.com/etc/designs/onedomain/1395729938000/images/og_image.jpg">
+<meta property="og:image" content="http://www.ig.com/etc/designs/onedomain/1404490277000/images/og_image.jpg">
 <meta property="og:title" content="Privacy notice">
     <meta property="og:url" content="http://www.ig.com/sg/privacy-policy">
 
     <meta property="og:description" content="Your privacy is important to us. This statement outlines our policy on how we manage the personal information we hold about our customers, shareholders and others.">
 
     
-    <meta name="twitter:card" content="summary">
-<meta name="twitter:site" content="@IGcom">
-<meta name="twitter:creator" content="@IG_Singapore">
-<meta name="twitter:domain" content="www.IG.com">
 
-<meta name="twitter:app:name:iphone" content="">
-<meta name="twitter:app:id:iphone" content="">
-<meta name="twitter:app:url:iphone" content="">
 
-<meta name="twitter:app:name:ipad" content="">
-<meta name="twitter:app:url:ipad" content="">
-<meta name="twitter:app:id:ipad" content="">
 
-<meta name="twitter:app:name:googleplay" content="">
-<meta name="twitter:app:url:googleplay" content="">
-<meta name="twitter:app:id:googleplay" content="">
-	
 
 
 
@@ -101,6 +90,7 @@ var d = document;
 
 
 
+    PS.util.jspVars.set('loggedin.openDealerText')(['Open dealer']);
     PS.util.jspVars.set('loggedin.bannerText')(['You are now logged into your TYPE NAME account','Logout']);
     PS.util.jspVars.set('loggedin.popupText')('You have <br/> the dealing platform open in another tab');
     //URL for user details:
@@ -109,13 +99,16 @@ var d = document;
     //URL for remote logoff:
     PS.util.jspVars.set('loggedin.outURL')('https://deal.ig.com/dealing/pd/websiteLogout.htm');
 
+    
     //this enables authentication for this template but not for the iframe or login template
     PS.util.jspVars.set('loggedin.authThisTemplate')(true);
 
     PS.util.jspVars.set('mobilePagePath')({"path":"", "vanity":""});
     PS.util.jspVars.set('shareWithIgmarkets')(true);
-    PS.util.jspVars.set('deprecatedBrowsers')({});
+    PS.util.jspVars.set('user.redirects')([]);
+    PS.util.jspVars.set('deprecatedBrowsers')({"msie":"7"});
     PS.util.jspVars.set('deprecatedBrowsersPopup')({});
+    PS.util.jspVars.set('permanent_sticky')(false);
     PS.util.jspVars.set('analytics.s_account')("adviggroupsglive,adviggrouprollup");
     PS.util.jspVars.set('analytics.page_title')("Privacy notice");
     PS.util.jspVars.set('analytics.cq_page_name')("privacy-policy");
@@ -129,11 +122,41 @@ var d = document;
 
     //this is all used by site cat
 //TODO: update site cat init js to look to jspVars, then all this becomes redundant
+
+//set up namespaces and modules
+window.PS = window.PS || {}; // Public Sites namespace
+PS.util = PS.util || {};     //create module for mini-classes
+
+//only the global vars that we absolutely must have
 var analytics = analytics || {};
-analytics.s_account=PS.util.jspVars.get("analytics.s_account");
-analytics.page_title=PS.util.jspVars.get("analytics.page_title");
-analytics.cq_page_name=PS.util.jspVars.get("analytics.cq_page_name");
-analytics.path=PS.util.jspVars.get("analytics.path");
+
+(function(PS) {
+
+    "use strict";
+
+    /**
+     * Create the analytics object
+     * @constructor
+     */
+    function Analytics(){
+        Analytics.prototype.init();
+    }
+
+    /**
+     * Inits the properties with the needed value
+     *
+     * @param none
+     */
+    Analytics.prototype.init = function(){
+
+        analytics.s_account = PS.util.jspVars.get("analytics.s_account");
+        analytics.page_title = PS.util.jspVars.get("analytics.page_title");
+        analytics.cq_page_name = PS.util.jspVars.get("analytics.cq_page_name");
+        analytics.path = PS.util.jspVars.get("analytics.path");
+    };
+
+    PS.util.Analytics = new Analytics();
+}(PS));
 
     
     
@@ -142,26 +165,48 @@ analytics.path=PS.util.jspVars.get("analytics.path");
 
 
 
-var i18n={};i18n['clientlibs.browsers.deprecated.upgradelink.msie']='http:\/\/windows.microsoft.com\/en-GB\/internet-explorer\/download-ie';i18n['clientlibs.browsers.deprecated.default.browser']='browser';i18n['clientlibs.browsers.deprecated.default.upgradelink']='https:\/\/www.google.com\/chrome';i18n['clientlibs.yes']='Yes';i18n['clientlibs.secondaryNav.more']='More';i18n['clientlibs.browsers.deprecated.upgradelink.mozilla']='http:\/\/www.mozilla.org\/en-GB\/firefox\/update\/';i18n['clientlibs.twitter.reply']='reply';i18n['clientlibs.lightbox.close']='Close';i18n['clientlibs.browsers.deprecated.name.safari']='version of Safari';i18n['clientlibs.mcarousel.next']='next';i18n['clientlibs.browsers.deprecated.name.mozilla']='version of Firefox';i18n['clientlibs.no']='No';i18n['clientlibs.browsers.deprecated.name.msie']='version of Internet Explorer';i18n['clientlibs.yes_no_cr']='Yes (No CR)';i18n['clientlibs.browsers.deprecated.name.chrome']='version of Chrome';
+var i18n={};i18n['clientlibs.browsers.deprecated.upgradelink.msie']='http:\/\/windows.microsoft.com\/en-sg\/internet-explorer\/download-ie';i18n['clientlibs.browsers.deprecated.default.browser']='browser';i18n['clientlibs.browsers.deprecated.default.upgradelink']='http:\/\/windows.microsoft.com\/en-sg\/internet-explorer\/download-ie';i18n['clientlibs.yes']='Yes';i18n['clientlibs.secondaryNav.more']='More';i18n['clientlibs.browsers.deprecated.upgradelink.mozilla']='http:\/\/www.mozilla.org\/en-GB\/firefox\/update\/';i18n['clientlibs.twitter.reply']='reply';i18n['clientlibs.dates.august']='August';i18n['clientlibs.dates.wednesday']='Wednesday';i18n['clientlibs.dates.tuesday']='Tuesday';i18n['clientlibs.lightbox.close']='Close';i18n['clientlibs.browsers.deprecated.name.safari']='version of Safari';i18n['clientlibs.dates.thursday']='Thursday';i18n['clientlibs.mcarousel.next']='next';i18n['clientlibs.browsers.deprecated.name.mozilla']='version of Firefox';i18n['clientlibs.dates.sunday']='Sunday';i18n['clientlibs.no']='No';i18n['clientlibs.dates.april']='April';i18n['clientlibs.browsers.deprecated.name.msie']='version of Internet Explorer';i18n['clientlibs.yes_no_cr']='Yes (No CR)';i18n['clientlibs.browsers.deprecated.name.chrome']='version of Chrome';
 
     
 
-var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)","cookie_name":"","cookie_value":"","element":"iframe","func":"","scope":"page","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4108215"],["TYPE","ex-na872"],["CAT","cooki310"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (DEMO)","cookie_name":"IDD","cookie_value":"A=1","element":"iframe","func":"","scope":"site","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4108215"],["TYPE","clien739"],["CAT","clien523"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (CLIENT)","cookie_name":"ID","cookie_value":"A=1","element":"iframe","func":"","scope":"site","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4108215"],["TYPE","clien739"],["CAT","clien820"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (CLIENT)","cookie_name":"ID","cookie_value":"CS=1","element":"iframe","func":"","scope":"site","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4108215"],["TYPE","clien739"],["CAT","clien127"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (CLIENT)","cookie_name":"ID","cookie_value":"PIT=IN","element":"iframe","func":"","scope":"site","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4108215"],["TYPE","clien514"],["CAT","clien888"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (CLIENT)","cookie_name":"ID","cookie_value":"PTI=OP","element":"iframe","func":"","scope":"site","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4108215"],["TYPE","clien514"],["CAT","clien415"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (CLIENT)","cookie_name":"ID","cookie_value":"PTI=BI","element":"iframe","func":"","scope":"site","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4108215"],["TYPE","clien514"],["CAT","clien438"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (CLIENT)","cookie_name":"ID","cookie_value":"PTI=SH","element":"iframe","func":"","scope":"site","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4108215"],["TYPE","clien514"],["CAT","clien813"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (CLIENT)","cookie_name":"ID","cookie_value":"PTI=IN","element":"iframe","func":"","scope":"site","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4108215"],["TYPE","clien514"],["CAT","clien613"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (CLIENT)","cookie_name":"ID","cookie_value":"PTI=CO","element":"iframe","func":"","scope":"site","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4108215"],["TYPE","clien514"],["CAT","clien399"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (CLIENT)","cookie_name":"ID","cookie_value":"PTI=CU","element":"iframe","func":"","scope":"site","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4108215"],["TYPE","clien514"],["CAT","clien194"]]}],[{"vendor":"Google","description":"Google Remarketing (CLIENT)","cookie_name":"ID","cookie_value":"A=1","element":"complicatedJs","func":"","scope":"site","type":"script","src":"//www.googleadservices.com/pagead/conversion.js","secureSrc":"","post_vars":[],"pre_vars":[["google_conversion_id","1003087974"],["google_conversion_color",""],["google_conversion_label","PFCICNqI-QQQ5tCn3gM"],["google_custom_params","obj_window.google_tag_params"],["google_remarketing_only","true"]],"src_vars":[]},{"vendor":"Google","description":"Google Remarketing (DEMO)","cookie_name":"IDD","cookie_value":"A=1","element":"complicatedJs","func":"","scope":"site","type":"script","src":"//www.googleadservices.com/pagead/conversion.js","secureSrc":"","post_vars":[],"pre_vars":[["google_conversion_id","1003087974"],["google_conversion_color",""],["google_conversion_label","mw5VCMryigUQ5tCn3gM"],["google_custom_params","window.google_tag_params"],["google_remarketing_only","true"]],"src_vars":[]},{"vendor":"Google","description":"Google every page tag","cookie_name":"","cookie_value":"","element":"complicatedJs","func":"","scope":"everypage","type":"script","src":"//www.googleadservices.com/pagead/conversion.js","secureSrc":"","post_vars":[],"pre_vars":[["google_conversion_id","1003087974"],["google_conversion_color",""],["google_conversion_label","aqGuCIrXqwQQ5tCn3gM"],["google_custom_params","obj-window.google_tag_params"],["google_remarketing_only","true"]],"src_vars":[]},{"vendor":"Google","description":"Google every page tag","cookie_name":"","cookie_value":"","element":"complicatedJs","func":"","scope":"everypage","type":"script","src":"//www.googleadservices.com/pagead/conversion.js","secureSrc":"","post_vars":[],"pre_vars":[["google_conversion_id","123523"],["google_conversion_color","123"],["google_conversion_label","456"],["google_custom_params","obj-window.google_tag_params"],["google_remarketing_only","true"]],"src_vars":[]},{"vendor":"Google","description":"Google every page tag","cookie_name":"","cookie_value":"","element":"complicatedJs","func":"","scope":"everypage","type":"script","src":"//www.googleadservices.com/pagead/conversion.js","secureSrc":"","post_vars":[],"pre_vars":[["google_conversion_id","63"],["google_conversion_color","5234"],["google_conversion_label","12"],["google_custom_params","obj-window.google_tag_params"],["google_remarketing_only","true"]],"src_vars":[]},{"vendor":"Google","description":"Google every page tag","cookie_name":"","cookie_value":"","element":"complicatedJs","func":"","scope":"everypage","type":"script","src":"//www.googleadservices.com/pagead/conversion.js","secureSrc":"","post_vars":[],"pre_vars":[["google_conversion_id","456tgb"],["google_conversion_color","tu6"],["google_conversion_label","jgfl"],["google_custom_params","obj-window.google_tag_params"],["google_remarketing_only","true"]],"src_vars":[]},{"vendor":"Google","description":"Google every page tag","cookie_name":"","cookie_value":"","element":"complicatedJs","func":"","scope":"everypage","type":"script","src":"//www.googleadservices.com/pagead/conversion.js","secureSrc":"","post_vars":[],"pre_vars":[["google_conversion_id","null"],["google_conversion_color","123"],["google_conversion_label","534734u856h"],["google_custom_params","obj-window.google_tag_params"],["google_remarketing_only","true"]],"src_vars":[]},{"vendor":"Google","description":"Google every page tag","cookie_name":"","cookie_value":"","element":"complicatedJs","func":"","scope":"everypage","type":"script","src":"//www.googleadservices.com/pagead/conversion.js","secureSrc":"","post_vars":[],"pre_vars":[["google_conversion_id","nullgfjf"],["google_conversion_color","423"],["google_conversion_label","7634745hfg997"],["google_custom_params","obj-window.google_tag_params"],["google_remarketing_only","true"]],"src_vars":[]}]];
+var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)","cookie_name":"","cookie_value":"","element":"iframe","func":"","scope":"page","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4108215"],["TYPE","ex-na872"],["CAT","cooki310"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (DEMO)","cookie_name":"IDD","cookie_value":"A=1","element":"iframe","func":"","scope":"site","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4108215"],["TYPE","clien739"],["CAT","clien523"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (CLIENT)","cookie_name":"ID","cookie_value":"A=1","element":"iframe","func":"","scope":"site","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4108215"],["TYPE","clien739"],["CAT","clien820"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (CLIENT)","cookie_name":"ID","cookie_value":"CS=1","element":"iframe","func":"","scope":"site","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4108215"],["TYPE","clien739"],["CAT","clien127"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (CLIENT)","cookie_name":"ID","cookie_value":"PIT=IN","element":"iframe","func":"","scope":"site","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4108215"],["TYPE","clien514"],["CAT","clien888"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (CLIENT)","cookie_name":"ID","cookie_value":"PTI=OP","element":"iframe","func":"","scope":"site","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4108215"],["TYPE","clien514"],["CAT","clien415"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (CLIENT)","cookie_name":"ID","cookie_value":"PTI=BI","element":"iframe","func":"","scope":"site","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4108215"],["TYPE","clien514"],["CAT","clien438"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (CLIENT)","cookie_name":"ID","cookie_value":"PTI=SH","element":"iframe","func":"","scope":"site","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4108215"],["TYPE","clien514"],["CAT","clien813"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (CLIENT)","cookie_name":"ID","cookie_value":"PTI=IN","element":"iframe","func":"","scope":"site","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4108215"],["TYPE","clien514"],["CAT","clien613"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (CLIENT)","cookie_name":"ID","cookie_value":"PTI=CO","element":"iframe","func":"","scope":"site","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4108215"],["TYPE","clien514"],["CAT","clien399"]]},{"vendor":"DoubleClick","description":"Doubleclick tag (CLIENT)","cookie_name":"ID","cookie_value":"PTI=CU","element":"iframe","func":"","scope":"site","type":"element","src":"//fls.doubleclick.net/activityi;src=__SRC__;type=__TYPE__;cat=__CAT__;ord=1;num=random?","secureSrc":"","post_vars":[],"pre_vars":[],"src_vars":[["SRC","4108215"],["TYPE","clien514"],["CAT","clien194"]]}],[{"vendor":"Facebook","description":"Facebook Ads Pixel","cookie_name":"","cookie_value":"","element":"js","func":"","scope":"site","type":"script","src":"http://connect.facebook.net/en_US/fbds.js","secureSrc":"","post_vars":[],"pre_vars":[["window._fbds.pixelId","645612035505124"]],"src_vars":[]}],[{"vendor":"Google","description":"Google Remarketing (CLIENT)","cookie_name":"ID","cookie_value":"A=1","element":"complicatedJs","func":"","scope":"site","type":"script","src":"//www.googleadservices.com/pagead/conversion.js","secureSrc":"","post_vars":[],"pre_vars":[["google_conversion_id","1003087974"],["google_conversion_color",""],["google_conversion_label","PFCICNqI-QQQ5tCn3gM"],["google_custom_params","obj_window.google_tag_params"],["google_remarketing_only","true"]],"src_vars":[]},{"vendor":"Google","description":"Google Remarketing (DEMO)","cookie_name":"IDD","cookie_value":"A=1","element":"complicatedJs","func":"","scope":"site","type":"script","src":"//www.googleadservices.com/pagead/conversion.js","secureSrc":"","post_vars":[],"pre_vars":[["google_conversion_id","1003087974"],["google_conversion_color",""],["google_conversion_label","mw5VCMryigUQ5tCn3gM"],["google_custom_params","window.google_tag_params"],["google_remarketing_only","true"]],"src_vars":[]},{"vendor":"Google","description":"Google Remarketing (CLIENT)","cookie_name":"ID","cookie_value":"","element":"complicatedJs","func":"","scope":"site","type":"script","src":"//www.googleadservices.com/pagead/conversion.js","secureSrc":"","post_vars":[],"pre_vars":[["google_conversion_id","1048147912"],["google_conversion_color",""],["google_conversion_label",""],["google_custom_params","obj_window.google_tag_params"],["google_remarketing_only","true"]],"src_vars":[]},{"vendor":"Google","description":"Google every page tag","cookie_name":"","cookie_value":"","element":"complicatedJs","func":"","scope":"everypage","type":"script","src":"//www.googleadservices.com/pagead/conversion.js","secureSrc":"","post_vars":[],"pre_vars":[["google_conversion_id","1003087974"],["google_conversion_color",""],["google_conversion_label","aqGuCIrXqwQQ5tCn3gM"],["google_custom_params","obj-window.google_tag_params"],["google_remarketing_only","true"]],"src_vars":[]},{"vendor":"Google","description":"Google Remarketing Everypage nojs","cookie_name":"","cookie_value":"","element":"img","func":"","scope":"everypage","type":"element","src":"http://www.googleadservices.com/pagead/conversion/__GOOGLEID__/?label=__GOOGLELABEL__&amp;guid=ON&amp;script=0","secureSrc":"","post_vars":[],"pre_vars":[],"src_vars":[["GOOGLEID","1037885815"],["GOOGLELABEL","1biwCOvb5QMQ98Lz7gM"]]}]];
 
 </script>
 
 
+
+
+
 <script type="text/javascript">CQURLInfo={"requestPath":"/content/igcom/en_SG/ex-nav/terms-and-agreements/privacy-policy","extension":"html","selectors":[],"systemId":"ea5e59d4-43b0-4a68-b37f-55ac264b0151","runModes":"samplecontent,uk,crx2,publish,crx3mongo,prod"};</script>
-<script type="text/javascript" src="//a.c-dn.net/c/etc/designs/onedomain/1395729938000/clientlibs_head.min.js"></script>
+<script type="text/javascript" src="//a.c-dn.net/c/etc/designs/onedomain/1404490277000/clientlibs_head.min.js"></script>
 
 
-<script type="text/javascript">CQURLInfo={"requestPath":"/content/igcom/en_SG/ex-nav/terms-and-agreements/privacy-policy","extension":"html","selectors":[],"systemId":"ea5e59d4-43b0-4a68-b37f-55ac264b0151","runModes":"samplecontent,uk,crx2,publish,crx3mongo,prod"};</script>
-<link rel="stylesheet" href="//a.c-dn.net/c/etc/designs/onedomain/1395729938000/clientlibs_ps.min.css" type="text/css">
+<link rel="stylesheet" href="//a.c-dn.net/c/etc/designs/onedomain/1404490277000/clientlibs_ps.min.css" type="text/css">
 
 
-    
+
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@IGcom">
+<meta name="twitter:creator" content="@IG_Singapore">
+<meta name="twitter:domain" content="www.IG.com">
+
+<meta name="twitter:app:name:iphone" content="">
+<meta name="twitter:app:id:iphone" content="">
+<meta name="twitter:app:url:iphone" content="">
+
+<meta name="twitter:app:name:ipad" content="">
+<meta name="twitter:app:url:ipad" content="">
+<meta name="twitter:app:id:ipad" content="">
+
+<meta name="twitter:app:name:googleplay" content="">
+<meta name="twitter:app:url:googleplay" content="">
+<meta name="twitter:app:id:googleplay" content="">
+
+
 </head>
 
+    
 
 
 
@@ -169,15 +214,23 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
 
 
 
-    <body class="desktop privacy-policy content-page">
-        
 
-	    
+
+
+<body class="desktop privacy-policy content-page">
+
+
+
 
 
 
 <div class="wrapper">
+
    
+
+
+
+
 
 
 
@@ -204,6 +257,7 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
 
             <div class="language-select">
                 
+
 
 
 
@@ -271,6 +325,10 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
 
 
 
+
+
+
+
     <ul class="header-cta">
         <li>
             <a id="header-login-button" href="/sg/login" class="button-grey button">
@@ -307,6 +365,7 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
 
 
 
+
 	
 	    
             <p class="fluid-width"><span class="tertiary-header">With your IG account you're getting access to world class trading services</span></p>
@@ -315,6 +374,8 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
 
 <!-- DBG: included_as_snippet=true -->
 <div class="igColumns section">
+
+
 
 
 
@@ -342,6 +403,10 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
 
 
 
+
+
+
+
     
     
         <div style="" class=" text-layout-full-left baseline text-no-image">
@@ -349,6 +414,7 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
             <div class="text text-content" style="">
                 
                 
+
 
 
 
@@ -413,6 +479,10 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
 
 
 
+
+
+
+
     
     
         <div style="" class=" text-layout-full-left baseline text-no-image">
@@ -420,6 +490,7 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
             <div class="text text-content" style="">
                 
                 
+
 
 
 
@@ -490,6 +561,10 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
 
 
 
+
+
+
+
     
     
         <div style="" class=" text-layout-full-left baseline text-no-image">
@@ -497,6 +572,7 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
             <div class="text text-content" style="">
                 
                 
+
 
 
 
@@ -535,7 +611,6 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
 	<li><a href="/sg/trading-platform-metatrader">MetaTrader 4</a></li>
 	<li><a href="/sg/apis">Terminals and APIs</a></li>
 	<li><a href="/sg/compare-trading-platforms">Compare features</a></li>
-	<li><a href="/sg/chrome-extension-trading">IG Chrome extension</a></li>
 </ul>
 
                 
@@ -570,6 +645,10 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
 
 
 
+
+
+
+
     
     
         <div style="" class=" text-layout-full-left baseline text-no-image">
@@ -577,6 +656,7 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
             <div class="text text-content" style="">
                 
                 
+
 
 
 
@@ -619,6 +699,9 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
     
 </div>
 <div class="linkList section">
+
+
+
 
 
 
@@ -681,6 +764,7 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
 
 
 
+
 	
 	    
             <p class="fluid-width"><span class="tertiary-header">Access live data for over thousands of markets, plus news, tools and analysis</span></p>
@@ -689,6 +773,8 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
 
 <!-- DBG: included_as_snippet=true -->
 <div class="igColumns section">
+
+
 
 
 
@@ -716,6 +802,10 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
 
 
 
+
+
+
+
     
     
         <div style="" class=" text-layout-full-left baseline text-no-image">
@@ -723,6 +813,7 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
             <div class="text text-content" style="">
                 
                 
+
 
 
 
@@ -782,6 +873,10 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
 
 
 
+
+
+
+
     
     
         <div style="" class=" text-layout-full-left baseline text-no-image">
@@ -789,6 +884,7 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
             <div class="text text-content" style="">
                 
                 
+
 
 
 
@@ -851,6 +947,10 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
 
 
 
+
+
+
+
     
     
         <div style="" class=" text-layout-full-left baseline text-no-image">
@@ -858,6 +958,7 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
             <div class="text text-content" style="">
                 
                 
+
 
 
 
@@ -916,6 +1017,10 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
 
 
 
+
+
+
+
     
     
         <div style="" class=" text-layout-full-left baseline text-no-image">
@@ -923,6 +1028,7 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
             <div class="text text-content" style="">
                 
                 
+
 
 
 
@@ -942,7 +1048,7 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
 <ul>
 	<li><a href="/sg/ig-economic-calendar">Economic calendar</a></li>
 	<li><a href="/sg/ig-diary">Trading diary</a></li>
-	<li><a href="/sg/morning-briefing">Morning briefing</a></li>
+	<li><a href="/sg/trading-central">Trading Central</a></li>
 </ul>
 
                 
@@ -981,6 +1087,7 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
 
 
 
+
 	
 	    
             <p class="fluid-width"><span class="tertiary-header">Skills development for traders of all levels, with practical guides, events and articles</span></p>
@@ -995,9 +1102,15 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
 
 
 
+
+
 <div class="cols col-4444">
     <div class="col col1 parsys">
 <div class="content section rich-content">
+
+
+
+
 
 
 
@@ -1030,6 +1143,7 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
 
 
 
+
     
     
         
@@ -1044,17 +1158,18 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
 	<li><a href="/sg/platform-walkthroughs">Platform video walkthroughs</a></li>
 	<li><a href="/sg/mt4-platform-advanced">MT4 platform — advanced</a></li>
 	<li><a href="/sg/MT4-platform-intro">MT4 Platform — Intro</a></li>
+	<li><a href="/sg/introduction-to-trading-share-CFDs">An introduction to trading share CFDs</a></li>
 	<li><a href="/sg/trading-share-cfds-and-indices">Trading share CFDs and indices with IG</a></li>
 	<li><a href="/sg/Common-Mistakes-Risk-Management">Common mistakes and risk management</a></li>
 	<li><a href="/sg/using-our-trading-platform">Using our trading platform</a></li>
 	<li><a href="/sg/trading-fx-with-ig">Trading FX with IG </a></li>
+	<li><a href="/sg/cka-seminar">Understanding CFDs and the CKA e-learning module</a></li>
 </ul>
 
 <p class="quaternary-header">Workshops</p>
 
 <ul>
 	<li><a href="/sg/technical-analysis-workshop">Generate profit with technical analysis</a></li>
-	<li><a href="/sg/stocks-and-forex-workshop">Stocks and forex workshop</a></li>
 </ul>
 
                 
@@ -1089,6 +1204,10 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
 
 
 
+
+
+
+
     
     
         <div style="" class=" text-layout-full-width baseline text-no-image">
@@ -1096,6 +1215,7 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
             <div class="text text-content" style="">
                 
                 
+
 
 
 
@@ -1155,13 +1275,18 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
 
 
 
+
+
+
+
     
     
-        <div data-background-image="//a.c-dn.net/c/content/igcom/en_SG/market-training/menu/jcr%3Acontent/content-parsys/columns_0/col%20col3/rich_content.webimg.png/1381366682439/IGM_MENU_TradingSkills_4col.png" style="height:234px;" class=" text-layout-full-width crop-right baseline imagesize50">
+        <div data-background-image="//a.c-dn.net/c/content/igcom/en_SG/market-training/menu/jcr%3Acontent/content-parsys/columns_0/col%20col3/rich_content.webimg.png/1381366682439.png" style="height:234px;" class=" text-layout-full-width crop-right baseline imagesize50">
 
             <div class="text text-content" style="">
                 
                 
+
 
 
 
@@ -1224,13 +1349,18 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
 
 
 
+
+
+
+
     
     
-        <div data-background-image="//a.c-dn.net/c/content/igcom/en_SG/market-training/menu/jcr%3Acontent/content-parsys/columns_0/col%20col4/rich_content_4189.webimg.jpg/1384302908184/IGM_MENU_TradingSkills-Promo_4col.jpg" style="height:235px;" class=" text-layout-full-width crop-left baseline imagesize50">
+        <div data-background-image="//a.c-dn.net/c/content/igcom/en_SG/market-training/menu/jcr%3Acontent/content-parsys/columns_0/col%20col4/rich_content_4189.webimg.jpg/1384302908184.jpg" style="height:235px;" class=" text-layout-full-width crop-left baseline imagesize50">
 
             <div class="text text-content" style="">
                 
                 
+
 
 
 
@@ -1289,6 +1419,7 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
 
 
 
+
 	
 	    
             <p class="fluid-width"><span class="tertiary-header">We offer world-class tools and execution for serious traders at all levels</span></p>
@@ -1297,6 +1428,8 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
 
 <!-- DBG: included_as_snippet=true -->
 <div class="igColumns section">
+
+
 
 
 
@@ -1328,6 +1461,10 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
 
 
 
+
+
+
+
     
     
         <div style="" class=" text-layout-full-left baseline text-no-image">
@@ -1335,6 +1472,7 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
             <div class="text text-content" style="">
                 
                 
+
 
 
 
@@ -1392,6 +1530,7 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
 
 
 
+
 <div class="header-bottom" id="secondary-cq-menu">
         <div class="header-secondary-nav">
             <ul class="secondary-nav" id="secondary-nav">
@@ -1423,6 +1562,7 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
 
 
 
+
         <div class="breadcrumb-bar">
             <div class="fluid-width">
                 <div class="breadcrumb">
@@ -1440,10 +1580,14 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
 
 
 
+
 		    </div>
         </div>
 
    
+
+
+
 
 
 
@@ -1472,6 +1616,8 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
 </div>
 
                     </div>
+                    
+                        <div class="loader"></div>
                     
                 </div>
             
@@ -1504,6 +1650,10 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
 
 
 
+
+
+
+
     
     
         <div style="" class=" text-layout-full-left baseline text-no-image">
@@ -1511,6 +1661,7 @@ var tagData = [[{"vendor":"DoubleClick","description":"Doubleclick tag (PUBLIC)"
             <div class="text text-content" style="">
                 
                 
+
 
 
 
@@ -1671,7 +1822,9 @@ To make a request, you will need to complete an application form verifying your 
 
 <h3>Disclaimer</h3>
 
-<p>This website may have links to external third party websites. Please note that third party websites are not covered by our Privacy Policy. You are advised to read the privacy statement of each website that you visit, which collects personal data.</p>
+<p>This website may have links to external third party websites. Please note that third party websites are not covered by our Privacy Policy. You are advised to read the privacy statement of each website that you visit, which collects personal data.<br>
+<br>
+Issue date : 3 June 2014</p>
 
                 
             </div>
@@ -1692,7 +1845,11 @@ To make a request, you will need to complete an application form verifying your 
 
 
 
-<div class="footer">
+
+
+
+
+<div class="footer SG">
     <div class="footer-section-1">
         <div class="fluid-width">
             <div class="footer-padding">
@@ -1718,9 +1875,13 @@ To make a request, you will need to complete an application form verifying your 
 
 
 
+
+
+
+
     
     
-        <div data-background-image="//a.c-dn.net/c/content/igcom/en_SG/jcr%3Acontent/footer-section-1-parsys/rich_content_d9c3.webimg.png/1382624367543/Blank_30.png" style="height:30px;" class="white-opaque text-layout-full-width crop-right baseline imagesize50">
+        <div data-background-image="//a.c-dn.net/c/content/igcom/en_SG/jcr%3Acontent/footer-section-1-parsys/rich_content_d9c3.webimg.png/1382624367543.png" style="height:30px;" class="white-opaque text-layout-full-width crop-right baseline imagesize50">
 
             <div class="text text-content" style="">
                 
@@ -1732,8 +1893,9 @@ To make a request, you will need to complete an application form verifying your 
 
 
 
+
     
-        <h3 class="heading">
+        <h3 class="heading ">
         Any questions?
         </h3>
     
@@ -1761,9 +1923,15 @@ To make a request, you will need to complete an application form verifying your 
 
 
 
+
+
 <div class="cols col-4444">
     <div class="col col1 parsys">
 <div class="content section rich-content">
+
+
+
+
 
 
 
@@ -1796,6 +1964,7 @@ To make a request, you will need to complete an application form verifying your 
 
 
 
+
     
     
         
@@ -1815,12 +1984,13 @@ To make a request, you will need to complete an application form verifying your 
 
 
 
+
     
              
-    <p class="js_img" target="_self" data-src="//a.c-dn.net/c/content/igcom/en_SG/jcr:content/footer-section-1-parsys/columns/col col1/rich_content_5225.webimg.png/1381214845619/IGM_Content_Footer-Account_20pc.png" data-alt="New accounts" data-classnames="crop-right " data-height="51" data-width="49" data-link="">          
+    <p class="js_img" target="_self" data-src="//a.c-dn.net/c/content/igcom/en_SG/jcr:content/footer-section-1-parsys/columns/col col1/rich_content_5225.webimg.png/1381214845619.png" data-alt="New accounts" data-classnames="crop-right " data-height="51" data-width="49" data-link="">          
        <noscript>
          
-         <img title="IGM_Content_Footer-Account_20pc" alt="New accounts" class="cq-dd-image" src="//a.c-dn.net/c/content/igcom/en_SG/_jcr_content/footer-section-1-parsys/columns/col%20col1/rich_content_5225.webimg.png/1381214845619/IGM_Content_Footer-Account_20pc.png">
+         <img title="IGM_Content_Footer-Account_20pc" alt="New accounts" class="cq-dd-image" src="//a.c-dn.net/c/content/igcom/en_SG/_jcr_content/footer-section-1-parsys/columns/col%20col1/rich_content_5225.webimg.png/1381214845619.png">
          
        </noscript>             
      </p>                     
@@ -1858,6 +2028,10 @@ To make a request, you will need to complete an application form verifying your 
 
 
 
+
+
+
+
     
     
         <div style="height:52px;" class=" text-layout-right baseline imagesize20">
@@ -1865,6 +2039,7 @@ To make a request, you will need to complete an application form verifying your 
             <div class="text text-content" style="">
                 
                 
+
 
 
 
@@ -1891,12 +2066,13 @@ To make a request, you will need to complete an application form verifying your 
 
 
 
+
     
              
-    <p class="js_img" target="_self" data-src="//a.c-dn.net/c/content/igcom/en_SG/jcr:content/footer-section-1-parsys/columns/col col2/rich_content_d4dd.webimg.png/1381214750045/IGM_Content_Footer-Helpdesk_20pc.png" data-alt="Helpdesk" data-classnames="crop-right " data-height="52" data-width="50" data-link="">          
+    <p class="js_img" target="_self" data-src="//a.c-dn.net/c/content/igcom/en_SG/jcr:content/footer-section-1-parsys/columns/col col2/rich_content_d4dd.webimg.png/1381214750045.png" data-alt="Helpdesk" data-classnames="crop-right " data-height="52" data-width="50" data-link="">          
        <noscript>
          
-         <img title="IGM_Content_Footer-Helpdesk_20pc" alt="Helpdesk" class="cq-dd-image" src="//a.c-dn.net/c/content/igcom/en_SG/_jcr_content/footer-section-1-parsys/columns/col%20col2/rich_content_d4dd.webimg.png/1381214750045/IGM_Content_Footer-Helpdesk_20pc.png">
+         <img title="IGM_Content_Footer-Helpdesk_20pc" alt="Helpdesk" class="cq-dd-image" src="//a.c-dn.net/c/content/igcom/en_SG/_jcr_content/footer-section-1-parsys/columns/col%20col2/rich_content_d4dd.webimg.png/1381214750045.png">
          
        </noscript>             
      </p>                     
@@ -1936,6 +2112,10 @@ To make a request, you will need to complete an application form verifying your 
 
 
 
+
+
+
+
     
     
         <div style="height:52px;" class=" text-layout-right baseline imagesize20">
@@ -1943,6 +2123,7 @@ To make a request, you will need to complete an application form verifying your 
             <div class="text text-content" style="">
                 
                 
+
 
 
 
@@ -1969,12 +2150,13 @@ To make a request, you will need to complete an application form verifying your 
 
 
 
+
     
              
-    <p class="js_img" target="_self" data-src="//a.c-dn.net/c/content/igcom/en_SG/jcr:content/footer-section-1-parsys/columns/col col3/rich_content_c3cb.webimg.png/1381214895237/IGM_Content_Footer-DeaingDesk_20pc.png" data-alt="Trading desk" data-classnames="crop-right " data-height="52" data-width="45" data-link="">          
+    <p class="js_img" target="_self" data-src="//a.c-dn.net/c/content/igcom/en_SG/jcr:content/footer-section-1-parsys/columns/col col3/rich_content_c3cb.webimg.png/1381214895237.png" data-alt="Trading desk" data-classnames="crop-right " data-height="52" data-width="45" data-link="">          
        <noscript>
          
-         <img title="IGM_Content_Footer-DeaingDesk_20pc" alt="Trading desk" class="cq-dd-image" src="//a.c-dn.net/c/content/igcom/en_SG/_jcr_content/footer-section-1-parsys/columns/col%20col3/rich_content_c3cb.webimg.png/1381214895237/IGM_Content_Footer-DeaingDesk_20pc.png">
+         <img title="IGM_Content_Footer-DeaingDesk_20pc" alt="Trading desk" class="cq-dd-image" src="//a.c-dn.net/c/content/igcom/en_SG/_jcr_content/footer-section-1-parsys/columns/col%20col3/rich_content_c3cb.webimg.png/1381214895237.png">
          
        </noscript>             
      </p>                     
@@ -1994,6 +2176,9 @@ To make a request, you will need to complete an application form verifying your 
 
         <div class="parsys col col4">
 <div class="linkList section">
+
+
+
 
 
 
@@ -2062,6 +2247,9 @@ To make a request, you will need to complete an application form verifying your 
 
 
 
+
+
+
 <div class="linkList-wrapper">
 
 
@@ -2091,9 +2279,14 @@ To make a request, you will need to complete an application form verifying your 
 
 
 
+
+
 <div class="cols col-4444">
     <div class="col col1 parsys">
 <div class="linkList section">
+
+
+
 
 
 
@@ -2145,6 +2338,9 @@ To make a request, you will need to complete an application form verifying your 
 
 
 
+
+
+
 <div class="linkList-wrapper">
 
 
@@ -2180,6 +2376,9 @@ To make a request, you will need to complete an application form verifying your 
 
     <div class="parsys col col2">
 <div class="linkList section">
+
+
+
 
 
 
@@ -2255,6 +2454,9 @@ To make a request, you will need to complete an application form verifying your 
 
 
 
+
+
+
 <div class="linkList-wrapper">
 
 
@@ -2309,6 +2511,9 @@ To make a request, you will need to complete an application form verifying your 
 
 
 
+
+
+
 <div class="linkList-wrapper">
 
 
@@ -2346,6 +2551,9 @@ To make a request, you will need to complete an application form verifying your 
 
 </div></div>
 <div class="linkList section">
+
+
+
 
 
 
@@ -2415,9 +2623,14 @@ To make a request, you will need to complete an application form verifying your 
 
 
 
+
+
 <div class="cols col-4444">
     <div class="col col1 parsys">
 <div class="linkList section">
+
+
+
 
 
 
@@ -2476,6 +2689,9 @@ To make a request, you will need to complete an application form verifying your 
 
     <div class="parsys col col2">
 <div class="linkList section">
+
+
+
 
 
 
@@ -2549,6 +2765,9 @@ To make a request, you will need to complete an application form verifying your 
 
 
 
+
+
+
 <div class="linkList-wrapper">
 
 
@@ -2582,6 +2801,9 @@ To make a request, you will need to complete an application form verifying your 
 
         <div class="parsys col col4">
 <div class="linkList section">
+
+
+
 
 
 
@@ -2642,7 +2864,7 @@ To make a request, you will need to complete an application form verifying your 
                 <div class="footer-logo" itemscope="" itemtype="http://schema.org/Organization">
                     <a itemprop="url" href="/sg">
                         
-                        <img itemprop="logo" src="//www.ig.com/etc/designs/onedomain/1395729938000/images/schema_image.jpg" width="20">
+                        <img itemprop="logo" src="//www.ig.com/etc/designs/onedomain/1404490277000/images/schema_image.jpg" width="20">
                     </a>
                 </div>
                 <div class="parsys iparsys footer-section-3-parsys">
@@ -2655,9 +2877,15 @@ To make a request, you will need to complete an application form verifying your 
 
 
 
+
+
 <div class="cols col-88">
     <div class="col col1 parsys">
 <div class="content section rich-content">
+
+
+
+
 
 
 
@@ -2690,6 +2918,7 @@ To make a request, you will need to complete an application form verifying your 
 
 
 
+
     
     
         
@@ -2713,6 +2942,9 @@ To make a request, you will need to complete an application form verifying your 
 
     <div class="parsys col col2">
 <div class="linkList section">
+
+
+
 
 
 
@@ -2779,7 +3011,10 @@ To make a request, you will need to complete an application form verifying your 
 
             </div>
         </div>
-    </div>    
+    </div>
+
+
+
     <div class="footer-section-4">
         <div class="fluid-width">
             <div class="footer-padding">
@@ -2787,6 +3022,10 @@ To make a request, you will need to complete an application form verifying your 
 <div class="section"><div class="new"></div>
 </div><div class="iparys_inherited"><div class="parsys iparsys footer-section-4-parsys">
 <div class="content section rich-content">
+
+
+
+
 
 
 
@@ -2819,6 +3058,7 @@ To make a request, you will need to complete an application form verifying your 
 
 
 
+
     
     
         
@@ -2828,7 +3068,7 @@ To make a request, you will need to complete an application form verifying your 
 
                 <p><strong>CFDs are leveraged products. CFD trading may not be suitable for everyone and can result in losses that exceed your initial investment, so please ensure that you fully understand the risks and costs involved by reading the <a href="/sg/risk-disclosure-statement">Risk Disclosure Statement</a>.</strong></p>
 
-<p>IG is the trademark of IG Asia Pte Ltd (Co. Reg. No. 200510021K). IG Asia Pte Ltd holds a capital markets services licence from the Monetary Authority of Singapore for dealing in securities and leveraged foreign exchange trading and is an exempt financial adviser. It is also licensed by International Enterprise Singapore to trade CFDs on commodities.<br>
+<p>IG is a registered&nbsp;trademark. IG Asia Pte Ltd (Co. Reg. No. 200510021K) holds a capital markets services licence from the Monetary Authority of Singapore for dealing in securities and leveraged foreign exchange trading and is an exempt financial adviser. It is also licensed by International Enterprise Singapore to trade CFDs on commodities.<br>
 <br>
 * IG is the world's largest retail CFD provider by revenue (excluding FX). Source: Published financial statements. As at August 2013.<br>
 <br>
@@ -2836,15 +3076,7 @@ The information on this site is not directed at residents of the United States a
 <br>
 With tight spreads, transparent trading costs and instant execution on an easy-to-use, reliable trading platform, IG has the largest primary market share amongst FX traders in Singapore, according to *Investment Trends September 2013 CFD and FX Report.<br>
 <br>
-IG offers forex trading and CFDs on all the leading Asian and international shares in local denominations, as well as a range of stock indices, including the Singapore Blue Chip. Exclusive to IG is our selection of SGD-Denominated CFDs, which eliminate currency exposure when trading foreign stock indices. We also offer a range of resources to keep you up-to-date with the latest market news.<br>
-<br>
-Apple, the Apple logo, iPod, iPad, iPhone, iPod touch, and iTunes are trademarks of Apple Inc., registered in the U.S. and other countries. App Store is a service mark of Apple Inc.<br>
-<br>
-Android and Chrome are trademarks of Google Inc.<br>
-<br>
-The trademark BlackBerry® is the property of Research In Motion Limited and is registered and/or used in the US and countries around the world.<br>
-<br>
-Windows is a registered trademark of Microsoft Corporation in the United States and other countries.</p>
+IG offers forex trading and CFDs on all the leading Asian and international shares in local denominations, as well as a range of stock indices, including the Singapore Blue Chip. Exclusive to IG is our selection of SGD-Denominated CFDs, which eliminate currency exposure when trading foreign stock indices. We also offer a range of resources to keep you up-to-date with the latest market news.</p>
 
                 
             </div>
@@ -2873,10 +3105,16 @@ Windows is a registered trademark of Microsoft Corporation in the United States 
 
 
 
+
+
+
+
 	<div class="sticky-footer " id="sticky-footer">
 	    <div class="fluid-width">
 	        <p class="disclaimer-text">CFDs are leveraged products. CFD trading may not be suitable for everyone and can result in losses that exceed your initial investment, so please ensure that you fully understand the risks involved.</p>
-	        <div class="close-icon" id="sticky-footer-close-icon"></div>
+            
+	            <div class="close-icon" id="sticky-footer-close-icon"></div>
+            
 	    </div>
 	</div>
 
@@ -2890,9 +3128,10 @@ Windows is a registered trademark of Microsoft Corporation in the United States 
 
 
 
-<script type="text/javascript" src="//a.c-dn.net/c/etc/designs/onedomain/1395729938000/clientlibs_ps.min.js"></script>
+
+
+<script type="text/javascript" src="//a.c-dn.net/c/etc/designs/onedomain/1404490277000/clientlibs_ps.min.js"></script>
 
 
 
-        
-    </body></html>
+</body></html>
