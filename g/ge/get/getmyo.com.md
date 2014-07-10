@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the getmyo.com privacy policy that was archived on 2013-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131028160648id_/http%3A//www.thalmic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getmyo.com privacy policy that was archived on 2014-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140710081854id_/http%3A//www.thalmic.com/privacy) for the most accurate reproduction.*
 
 # Thalmic Labs Inc. Privacy Policy
 
-### Thalmic Labs Inc. Privacy Policy
+## Privacy Policy
+
+### Thalmic Labs Inc.
 
 Your privacy is important to us. Thalmic Labs Inc. (“Thalmic”) has created the following Privacy Policy to let you know what information we collect when you visit www.thalmic.com (the “Thalmic Site”), why we collect it and how it is used. This Privacy Policy is governed by our Terms of Use. By using the Thalmic Site, you agree to this Privacy Policy. This is our entire and exclusive Privacy Policy and it supersedes any earlier version. We may change this Privacy Policy by posting a new version of this Privacy Policy on this Site which it is your responsibility to review.
 
@@ -41,6 +43,8 @@ Thalmic has established the following practices regarding the maintenance of you
   * You always have the choice of whether you wish to receive information – such as e-mail updates – from Thalmic. If you do choose to opt out of communications respecting products and services provided by Thalmic, you may not obtain all the benefits we could otherwise provide, such as updates or warnings. Thalmic will not have any liability to you for your loss of those benefits or any negative effects respecting your use of Thalmic’s products or services.
   * A situation may arise where you desire to have all of your personal information that is contained in Thalmic’s records deleted or destroyed. If this is what you wish, please contact our Privacy Officer, who will take care of removing your personal information from all of Thalmic’s active records. However, there may be situations where we are obligated to retain one archival copy of your information to allow us to comply with laws or respond to legal processes, and there may be instances where we are unable to remove your specific information from our records for technical reasons. We will inform you of all such situations, and will only use your retained personal information to the limited extent necessary to comply with such laws or respond to legal processes.
 
+
+
 #### Conditions of Use, Notices, and Revisions
 
 If you choose to visit the Thalmic Site, your visit and any dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, resolution of disputes, and application of the law of the province of Ontario. If you have any concern about privacy at the Thalmic Site, please contact us with a thorough description and we will try to resolve it. Descriptive headings are for convenience only and shall not control or affect the meaning or construction of any provision of this Agreement. Our business changes constantly, and our Privacy Policy and Terms of Use will change also. Please check back frequently to see recent changes.
@@ -50,11 +54,8 @@ If you choose to visit the Thalmic Site, your visit and any dispute over privacy
 Thalmic welcomes your comments about this privacy policy, and we would be happy to provide any additional information you require. Please contact our Privacy Officer at: 
 
 Thalmic Labs Inc.   
-151 Charles St W., Suite 100   
-Kitchener, ON N2G 1H6   
+24 Charles St West   
+Kitchener, ON N2G 1H2   
 Canada 
 
 This privacy policy supplements any agreements you already have with Thalmic, such as the Thalmic Site Terms of Use and any applicable product or service agreement. Our privacy policy does not replace the terms of those agreements. By agreeing to those terms and using the Thalmic Site, products, software and services, you are consenting to the collection and use of your personal information by Thalmic in accordance with this privacy policy. This policy was written in accordance with the Canadian Personal Information Protection and Electronic Documents Act (PIPEDA). 
-
-
-
