@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uihealthcare.org privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209044908id_/http%3A//www.uihealthcare.org/WorkArea/linkit.aspx%3FLinkIdentifier%3Did%26ItemID%3D21932%26libID%3D22162) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uihealthcare.org privacy policy that was archived on 2014-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140710155853id_/http%3A//www.uihealthcare.org/WorkArea/linkit.aspx%3FLinkIdentifier%3Did%26ItemID%3D21932%26libID%3D22162) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -25,3 +25,5 @@ If you want to get non-medical information about you that may be in our records:
 ## Following links on our site
 
 This Web site includes links to documents offered by Web sites owned by other various organizations. Once you follow a link or otherwise request information from another Web site, you are subject to the privacy policy of that Web site.
+
+**We welcome your feedback!** Please help us improve your experience on our website by [completing a brief survey](https://web.archive.org/Templates/UIHC/Custom/Feedback/).
