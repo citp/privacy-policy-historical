@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the herrschners.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213213509id_/http%3A//herrschners.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herrschners.com privacy policy that was archived on 2014-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140710220409id_/http%3A//www.herrschners.com/privacy.aspx) for the most accurate reproduction.*
 
 # Herrschners Privacy and Security
 
