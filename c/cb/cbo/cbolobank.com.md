@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbolobank.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326112601id_/https%3A//www.cbolobank.com/uploadedFiles/Central_Bank_of_Lake_of_the_Ozarks/Content/Legal_Compliance/bk011_Privacy_Statement.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbolobank.com privacy policy that was archived on 2014-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140710142600id_/https%3A//www.cbolobank.com/uploadedFiles/Central_Bank_of_Lake_of_the_Ozarks/Content/Legal_Compliance/bk011_Privacy_Statement.pdf) for the most accurate reproduction.*
 
 # FACTS
 
