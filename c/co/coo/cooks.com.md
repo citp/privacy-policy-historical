@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cooks.com privacy policy that was archived on 2013-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130502180731id_/http%3A//www.cooks.com/rec/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cooks.com privacy policy that was archived on 2014-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140710063417id_/http%3A//www.cooks.com/rec/privacy.html) for the most accurate reproduction.*
 
-# Cooks.com - Privacy Statement
+# Privacy Statement - Cooks.com
 
 ### Third Party Advertising
 
