@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intechnic.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330102016id_/http%3A//www.intechnic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intechnic.com privacy policy that was archived on 2014-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140710120022id_/http%3A//www.intechnic.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
