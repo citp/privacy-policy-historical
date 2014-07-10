@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the web-pick.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325072541id_/https%3A//installerex.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the web-pick.com privacy policy that was archived on 2014-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140710060636id_/https%3A//installerex.com/privacy.html) for the most accurate reproduction.*
 
 # InstalleRex
 
