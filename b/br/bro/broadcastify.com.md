@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the broadcastify.com privacy policy that was archived on 2014-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140211204523id_/http%3A//www.broadcastify.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadcastify.com privacy policy that was archived on 2014-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140710073237id_/http%3A//www.broadcastify.com/privacy) for the most accurate reproduction.*
 
 # Broadcastify - Privacy Policy
 
@@ -17,7 +17,7 @@ This policy will NOT change in the near future, any information collected by Bro
 
 ## Cookies
 
-Upon your first login to the Broadcastify, we send a "cookie" to your computer. A cookie is a file that identifies you as a unique user. It can also store personal preferences and user data. A cookie tells us that you previously logged in sucessfully, and therefore gains you access to the site. Once our site knows who is visiting, it will present information custom to you regarding the user forums. 
+Upon your first login to the Broadcastify, we send a "cookie" to your computer. A cookie is a file that identifies you as a unique user. It can also store personal preferences and user data. A cookie tells us that you previously logged in sucessfully, and therefore gains you access to the site. Once our site knows who is visiting, it will present information custom to you depending on your profile settings. 
 
 Broadcastify uses this cookie to identify you with your registration details, to track user trends and patterns. Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or indicate when a cookie is being sent. However, note that some parts of Broadcastify may not function properly if you refuse cookies. 
 
