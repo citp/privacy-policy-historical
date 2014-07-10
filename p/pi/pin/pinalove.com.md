@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinalove.com privacy policy that was archived on 2014-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140519005727id_/http%3A//www.pinalove.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinalove.com privacy policy that was archived on 2014-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140710120349id_/https%3A//www.pinalove.com/privacy.php) for the most accurate reproduction.*
 
 # Filipina dating | Free Philippines dating - PinaLove.com
 
