@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the minianime.com privacy policy that was archived on 2013-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130614084040id_/http%3A//www.minianime.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minianime.com privacy policy that was archived on 2014-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140710195916id_/http%3A//www.minianime.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - MiniAnime.Com
 
