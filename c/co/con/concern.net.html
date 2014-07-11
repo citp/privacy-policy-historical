@@ -1,11 +1,10 @@
-<!--The following is the downloaded HTML source of the concern.net privacy policy that was archived on 2014-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626090621id_/https%3A//www.concern.net/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the concern.net privacy policy that was archived on 2014-07-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140711191623id_/https%3A//www.concern.net/about/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML+RDFa 1.1//EN"><html lang="ie" dir="ltr" version="HTML+RDFa 1.1" xmlns:fb="http://ogp.me/ns/fb#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:schema="http://schema.org/"><head profile="http://www.w3.org/1999/xhtml/vocab">
-  <meta charset="utf-8"><script id="hs-analytics" src="//js.hs-analytics.net/analytics/1580383500000/390229.js"></script><script type="text/javascript" async="" src="https://www.concern.net/sites/default/files/googleanalytics/ga.js?n7q9lg"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UA8AWV5XGwEDV1lSAQE="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
-<script>
-<!--//--><![CDATA[//><!--
-function getCookie(c_name) {
+<!DOCTYPE html><html class="no-js" lang="ie" dir="ltr" prefix=": fb: http://ogp.me/ns/fb# content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema# schema: http://schema.org/"><!--<![endif]--><head>
+  <title>Privacy - Concern Privacy Statement - Concern Worldwide</title>
+  <meta charset="utf-8"><script id="hs-analytics" src="//js.hs-analytics.net/analytics/1580383500000/390229.js"></script><script type="text/javascript" async="" src="https://www.concern.net/sites/default/files/googleanalytics/ga.js?n8jz1w"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UA8AWV5XGwEDV1lSAQE="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+<script>function getCookie(c_name) {
   var c_value = document.cookie;
   var c_start = c_value.indexOf(" " + c_name + "=");
   if (c_start == -1) {
@@ -41,12 +40,8 @@ function getParameterByName(name) {
 
 function isMobile(){
   return (/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|iris|kindle|lge |maemo|midp|mmp|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows (ce|phone)|xda|xiino|android|ipad|playbook|silk/i.test(navigator.userAgent||navigator.vendor||window.opera)||/1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i.test((navigator.userAgent||navigator.vendor||window.opera).substr(0,4)));
-}
-//--><!]]>
-</script>
-<script>
-<!--//--><![CDATA[//><!--
-(function(){
+}</script>
+<script>(function(){
 
   // Helper function get extract url query params.
   function getParameterByName(name) {
@@ -101,9 +96,9 @@ function isMobile(){
 
   // Define path to IP lookup service.
   var lookuphost = location.hostname;
-  if (window.location.host == 'www.concern.net') {
-    lookuphost = 'live-concern.gotpantheon.com';
-  }
+  // if (window.location.host == 'www.concern.net') {
+  //   lookuphost = 'live-concern.gotpantheon.com';
+  // }
   var lookupservice = location.protocol + '//' + lookuphost + '/smartip.php?' + num;
 
   // Allow IP address override via ?ip= query param
@@ -127,7 +122,7 @@ function isMobile(){
     lookupservice += '&country_code=' + country_code;
   }
   // Do smart IP lookup.
-  xmlhttp.open("GET", lookupservice, true);
+  xmlhttp.open("GET", lookupservice, false);
   xmlhttp.onload = function () {
     var response = JSON.parse(this.responseText);
     if(response.redirect == 1) {
@@ -149,80 +144,77 @@ function isMobile(){
   }
   xmlhttp.send();
 })();
-
-//--><!]]>
 </script><style class="smartip-hide" type="text/css">body {display:none !important;}</style>
-<meta property="og:title" content="https://www.concern.net/about/privacy">
-<meta property="og:site_name" content="Concern Worldwide">
-<meta name="copyright" content="© Concern Worldwide 2012">
-<meta property="og:type" content="non_profit">
-<meta content="Privacy statement " about="/about/privacy" property="dc:title">
-<link rel="shortcut icon" href="https://www.concern.net/profiles/concern/themes/custom/concernnet/favicon.ico" type="image/vnd.microsoft.icon">
+<link rel="shortcut icon" href="https://www.concern.net/profiles/concern/themes/custom/concernmobile/favicon.ico" type="image/vnd.microsoft.icon">
+<link rel="profile" href="http://www.w3.org/1999/xhtml/vocab">
 <meta about="/about/privacy" property="sioc:num_replies" content="0" datatype="xsd:integer">
-<meta name="generator" content="Concern Worldwide">
+<meta content="Privacy statement " about="/about/privacy" property="dc:title">
+<meta name="HandheldFriendly" content="true">
 <meta property="og:url" content="https://www.concern.net/about/privacy">
-<link rel="canonical" href="https://www.concern.net/about/privacy">
+<meta http-equiv="cleartype" content="on">
+<link rel="apple-touch-icon-precomposed" href="https://www.concern.net/profiles/concern/themes/contrib/omega4/omega4/apple-touch-icon-precomposed.png">
+<link rel="apple-touch-icon-precomposed" href="https://www.concern.net/profiles/concern/themes/contrib/omega4/omega4/apple-touch-icon-precomposed-144x144.png" sizes="144x144">
+<link rel="apple-touch-icon-precomposed" href="https://www.concern.net/profiles/concern/themes/contrib/omega4/omega4/apple-touch-icon-precomposed-114x114.png" sizes="114x114">
+<link rel="apple-touch-icon-precomposed" href="https://www.concern.net/profiles/concern/themes/contrib/omega4/omega4/apple-touch-icon-precomposed-72x72.png" sizes="72x72">
+<meta property="og:type" content="non_profit">
+<meta name="MobileOptimized" content="width">
+<meta property="og:site_name" content="Concern Worldwide">
+<link rel="stylesheet" media="screen, projection, tty, tv" title="Standard" href="/profiles/concern/modules/contrib/pagestyle/css/style_standard.css" class="ps_standard">
+<meta name="keywords" content="concern, charity, concern worldwide, concern ireland, concern.net, hiv aids, poor country">
 <link rel="alternate stylesheet" type="text/css" media="screen, projection, tty, tv" title="White/Black" href="/profiles/concern/modules/contrib/pagestyle/css/style_white_black.css" class="ps_white_black">
 <link rel="shortlink" href="/node/3201">
 <link rel="canonical" href="/about/privacy">
-<link rel="stylesheet" media="screen, projection, tty, tv" title="Standard" href="/profiles/concern/modules/contrib/pagestyle/css/style_standard.css" class="ps_standard">
-<meta name="keywords" content="concern, charity, concern worldwide, concern ireland, concern.net, hiv aids, poor country">
-<meta property="og:image" content="https://www.concern.net/sites/default/files/default_images/cw-media-default-image.png">
-<link rel="image_src" href="https://www.concern.net/sites/default/files/default_images/cw-media-default-image.png">
 <meta name="description" content="Concern Worldwide (registered number 39647, registered charity number CHY5745, place of registration: Dublin, Ireland) is committed to protecting the privacy">
+<link rel="image_src" href="https://www.concern.net/sites/default/files/default_images/cw-media-default-image.png">
+<meta name="generator" content="Concern Worldwide">
+<meta name="copyright" content="© Concern Worldwide 2012">
 <meta property="og:description" content="Concern Worldwide (registered number 39647, registered charity number CHY5745, place of registration: Dublin, Ireland) is committed to protecting the privacy of our supporters.">
-  <title>Privacy - Concern Privacy Statement - Concern Worldwide</title>
-  <link rel="stylesheet" href="https://www.concern.net/sites/default/files/css/css_pbm0lsQQJ7A7WCCIMgxLho6mI_kBNgznNUWmTWcnfoE.css" media="all">
-<link rel="stylesheet" href="https://www.concern.net/sites/default/files/css/css_hLaeRNHU0i61NhADTzi7RrLl9M_TqZ-uKbhL4zX9TM4.css" media="all">
-<link rel="stylesheet" href="https://www.concern.net/sites/default/files/css/css_GlnZDjBwQuKej186xe8CZdh6QhODX4DuTjruiePDymQ.css" media="all">
-<style media="screen">
-<!--/*--><![CDATA[/*><!--*/
-body.pagestyle_black_white,body.pagestyle_black_white *{font-weight:normal !important;}body.pagestyle_white_black,body.pagestyle_white_black *{font-weight:bold !important;}body.pagestyle_yellow_blue,body.pagestyle_yellow_blue *{font-weight:bold !important;}
+<meta property="og:image" content="https://www.concern.net/sites/default/files/default_images/cw-media-default-image.png">
+<meta property="og:title" content="https://www.concern.net/about/privacy">
+<link rel="canonical" href="https://www.concern.net/about/privacy">
+<meta name="viewport" content="width=device-width">
+  <link rel="stylesheet" href="https://www.concern.net/sites/default/files/css/css_fDiX68t3bekMH0RK7sZCupMyWuirsDu-eSHxjBBm-8Q.css" media="all">
+<link rel="stylesheet" href="https://www.concern.net/sites/default/files/css/css_JGSox5GgJE72nPP8OZjq9HBD6Typ8jYFHSIN1QG_ajc.css" media="all">
+<style media="screen">body.pagestyle_black_white,body.pagestyle_black_white *{font-weight:normal !important;}body.pagestyle_white_black,body.pagestyle_white_black *{font-weight:bold !important;}body.pagestyle_yellow_blue,body.pagestyle_yellow_blue *{font-weight:bold !important;}
 body{font-size:80%;}
-
-/*]]>*/-->
 </style>
 
 <!--[if lte IE 9]>
-<style media="all">
-<!--/*--><!--[CDATA[/*--><!--*/
-body{display:block !important;}
-
-/*]]>*/-->
-
-<!--[endif]---->
-<link rel="stylesheet" href="https://www.concern.net/sites/default/files/css/css_7CpjuYgfJfxt7vbip2WLRo_dhJAVoX4qDPbbO0dVWU8.css" media="all">
-
-<!--[if lte IE 9]>
-<link rel="stylesheet" href="https://www.concern.net/profiles/concern/themes/custom/concernnet/css/ie-lte-9.css?n7q9lg" media="all" />
+<style>body{display:block !important;}
+</style>
 <![endif]-->
-<link rel="stylesheet" href="https://www.concern.net/sites/default/files/css/css_2INA3e73QWD29Sjpp9PLRGhF7KB0ZmQdVbEvdVqrmSE.css" media="all">
-<link rel="stylesheet" href="https://www.concern.net/sites/default/files/css/css_xRmLrLGBUZZHoYJ9B2ea-lv3R9jIhEGpuGDvMUu1Mj4.css" media="all">
-  <script>
-window.google_analytics_uacct = "UA-73097-1";
-</script>
-<script src="https://www.concern.net/sites/default/files/js/js_dy1MBKpaZJPwcZJtj8dgJ5HtPUPWJJ-SRe7kSLOgOno.js"></script>
-<script src="https://www.concern.net/sites/default/files/js/js_zwU0VKnRXJK5J6Troq7BssmxcsV7KlguT0aIcNUpzoA.js"></script>
+<link rel="stylesheet" href="https://www.concern.net/sites/default/files/css/css_xIwwICXvYD8XnxA-Mz4fQ-xXTl9yZRVgZSqyqkYRVow.css" media="all">
+
+<!--[if lte IE 8]>
+<link rel="stylesheet" href="https://www.concern.net/sites/default/files/css/css_Sn4a5auirixesk-VlcxoHoTo9swfQtvcR7eGLM2EbOA.css" media="all" />
+<![endif]-->
+  <script>window.google_analytics_uacct = "UA-73097-1";</script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script>window.jQuery || document.write("<script src='/profiles/concern/modules/contrib/jquery_update/replace/jquery/1.7/jquery.min.js'>\x3C/script>")</script><script src="/profiles/concern/modules/contrib/jquery_update/replace/jquery/1.7/jquery.min.js"></script>
+<script src="https://www.concern.net/sites/default/files/js/js_JKYm8829uZ6OaGzfTRgKk8HAxsiGBQkuWZ4kI21HtPM.js"></script>
+<script src="https://www.concern.net/sites/default/files/js/js_Wan2kVaKqtpIjb7SM_YASzjzu3ooXsE_liocSdbmLug.js"></script>
 <script src="https://www.concern.net/sites/default/files/js/js_cwfwbgxjGHZ9j4nxQ2pRalqTNJQ33iNW7zglcO2lcpo.js"></script>
-<script src="https://www.concern.net/sites/default/files/js/js_1uetbN7YuCFYBpS5d-0de9k7SFtrIvJdIgoKqujvMuU.js"></script>
-<script>
-var _vwo_code=(function(){
+
+<!--[if (gte IE 6)&(lte IE 8)]>
+<script src="https://www.concern.net/sites/default/files/js/js_XC8dNx_jPgRtqQQIyfljU-ISp6itWLN3-BrCnd-o0Ks.js"></script>
+<![endif]-->
+<script src="https://www.concern.net/sites/default/files/js/js_S7YzxfKg7JxyOLsC-Tuw3lV_xT6F_5uXYNrVfzbtRlE.js"></script>
+<script src="https://www.concern.net/sites/default/files/js/js_7-YVbTF7OEsWnaRWTRJwEUab0RV31jCDtsQBtx94rHw.js"></script>
+<script>var _vwo_code=(function(){
 var account_id=38765,
 settings_tolerance=2000,
 library_tolerance=1500,
 use_existing_jquery=true,
-f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
-</script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=38765&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20140626090621id_%2Fhttps%253A%2F%2Fwww.concern.net%2Fabout%2Fprivacy&amp;r=0.7345530037415147" type="text/javascript"></script>
+f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());var a=d.createElement('style'),b='body{opacity:0 !important;filter:alpha(opacity=0) !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();</script><script src="//dev.visualwebsiteoptimizer.com/j.php?a=38765&amp;u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20140711191623id_%2Fhttps%253A%2F%2Fwww.concern.net%2Fabout%2Fprivacy&amp;r=0.29774638182025903" type="text/javascript"></script>
 <script src="https://www.concern.net/sites/default/files/js/js_77yX_8GVqjl51CqCeiK-s25mQEt5GinR24Wf16GEozE.js"></script>
-<script>
-  var pagestyleCookieExpires = 365;
+<script src="https://www.concern.net/profiles/concern/modules/contrib/mobile_navigation/js/mobile_menu.js?n8jz1w"></script>
+<script src="https://www.concern.net/profiles/concern/modules/contrib/mobile_navigation/mobile_navigation.js?n8jz1w"></script>
+<script>  var pagestyleCookieExpires = 365;
   var pagestyleCookieDomain = "/";
   var pagestylePath = "/profiles/concern/modules/contrib/pagestyle";
   var pagestyleJavaScript = 2;
-  var pagestyleCurrent = "standard";
-</script>
-<script>
-  var textsizeAnimate = 0;
+  var pagestyleCurrent = "standard";</script>
+<script>  var textsizeAnimate = 0;
   var textsizeAnimateDuration = 1000;
   var textsizeCookieExpires = "365";
   var textsizeCookieDomain = "/";
@@ -241,46 +233,37 @@ f=false,d=document;return{use_existing_jquery:function(){return use_existing_jqu
   var textsizeJavaScript = 2;
   var textsizeCurrent = 80;
   var textsizeCurrentText = "Current Size";
-  var textsizeReset = 0;
-</script>
+  var textsizeReset = 0;</script>
 <script src="https://www.concern.net/sites/default/files/js/js_lgAAOlplEun7p_8Pb-8dM079wtvnfwLZ0hAK0mH7Dto.js"></script>
-<script>
-var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-73097-1"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = "https://www.concern.net/sites/default/files/googleanalytics/ga.js?n7q9lg";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
-</script>
-<script src="https://www.concern.net/sites/default/files/js/js_HuPcAPNDR1R2o381cCG1yyyUfBSs4FbS8l2uhxtrqw4.js"></script>
-<script src="https://www.concern.net/sites/default/files/js/js_meDomBEy82aWXpUVuohOCqoX7y2SY1EL4mcRvK0f97E.js"></script>
-<script>
-jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"concernnet","theme_token":"hbq1WAAbY5piuBjUzvBYUsqCf3XCgFLk5eGCNblcL2w","js":{"0":1,"profiles\/concern\/modules\/contrib\/clientside_validation\/clientside_validation_html5\/clientside_validation_html5.js":1,"profiles\/concern\/modules\/contrib\/clientside_validation\/clientside_validation.js":1,"1":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/concern\/libraries\/fitvids\/jquery.fitvids.js":1,"misc\/jquery.cookie.js":1,"profiles\/concern\/modules\/contrib\/beautytips\/js\/jquery.bt.min.js":1,"profiles\/concern\/modules\/contrib\/beautytips\/js\/beautytips.min.js":1,"profiles\/concern\/modules\/contrib\/beautytips\/other_libs\/excanvas_r3\/excanvas.compiled.js":1,"profiles\/concern\/modules\/contrib\/comment_notify\/comment_notify.js":1,"profiles\/concern\/modules\/contrib\/pagestyle\/jquery.pagestyle.js":1,"profiles\/concern\/modules\/contrib\/textsize\/jquery.textsize.js":1,"profiles\/concern\/libraries\/colorbox\/jquery.colorbox-min.js":1,"profiles\/concern\/modules\/contrib\/colorbox\/js\/colorbox.js":1,"profiles\/concern\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.js":1,"profiles\/concern\/modules\/contrib\/colorbox\/js\/colorbox_load.js":1,"profiles\/concern\/modules\/contrib\/colorbox\/js\/colorbox_inline.js":1,"profiles\/concern\/modules\/contrib\/panels\/js\/panels.js":1,"profiles\/concern\/modules\/contrib\/views_slideshow\/js\/views_slideshow.js":1,"profiles\/concern\/modules\/contrib\/views_slideshow_ddblock\/js\/formoptions.js":1,"2":1,"profiles\/concern\/modules\/contrib\/clientside_validation\/jquery-validate\/jquery.validate.js":1,"3":1,"4":1,"profiles\/concern\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"5":1,"profiles\/concern\/themes\/custom\/concern_theme_base\/js\/forms.js":1,"profiles\/concern\/themes\/contrib\/omega\/omega\/js\/jquery.formalize.js":1,"profiles\/concern\/themes\/contrib\/omega\/omega\/js\/omega-mediaqueries.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"profiles\/concern\/modules\/contrib\/comment_notify\/comment_notify.css":1,"modules\/comment\/comment.css":1,"profiles\/concern\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/concern\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"profiles\/concern\/modules\/contrib\/mollom\/mollom.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/concern\/modules\/contrib\/views\/css\/views.css":1,"profiles\/concern\/modules\/contrib\/pagestyle\/pagestyle.css":1,"profiles\/concern\/modules\/contrib\/textsize\/textsize.css":1,"profiles\/concern\/modules\/contrib\/colorbox\/styles\/default\/colorbox_style.css":1,"profiles\/concern\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/concern\/modules\/contrib\/follow\/follow.css":1,"profiles\/concern\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/concern\/modules\/contrib\/tagadelic\/tagadelic.css":1,"profiles\/concern\/modules\/contrib\/views_slideshow\/views_slideshow.css":1,"modules\/locale\/locale.css":1,"0":1,"1":1,"2":1,"profiles\/concern\/themes\/contrib\/omega\/alpha\/css\/alpha-reset.css":1,"profiles\/concern\/themes\/contrib\/omega\/alpha\/css\/alpha-mobile.css":1,"profiles\/concern\/themes\/contrib\/omega\/alpha\/css\/alpha-alpha.css":1,"profiles\/concern\/themes\/contrib\/omega\/omega\/css\/formalize.css":1,"profiles\/concern\/themes\/contrib\/omega\/omega\/css\/omega-text.css":1,"profiles\/concern\/themes\/contrib\/omega\/omega\/css\/omega-menu.css":1,"profiles\/concern\/themes\/contrib\/omega\/omega\/css\/omega-forms.css":1,"profiles\/concern\/themes\/contrib\/omega\/omega\/css\/omega-visuals.css":1,"profiles\/concern\/themes\/custom\/concern_theme_base\/css\/eu_cookie_compliance.css":1,"profiles\/concern\/themes\/custom\/concernnet\/css\/ie-lte-9.css":1,"profiles\/concern\/themes\/custom\/concernnet\/css\/global.css":1,"profiles\/concern\/themes\/custom\/concernnet\/css\/text.css":1,"profiles\/concern\/themes\/custom\/concernnet\/css\/menu.css":1,"profiles\/concern\/themes\/custom\/concernnet\/css\/form.css":1,"profiles\/concern\/themes\/custom\/concernnet\/css\/page.css":1,"profiles\/concern\/themes\/custom\/concernnet\/css\/block.css":1,"profiles\/concern\/themes\/contrib\/omega\/alpha\/css\/grid\/alpha_default\/normal\/alpha-default-normal-16.css":1}},"beautytips":{".beautytips":{"fill":"#F7F7F7","padding":8,"strokeStyle":"#B7B7B7","cornerRadius":0,"cssStyles":{"fontFamily":"\u0026quot;lucida grande\u0026quot;,tahoma,verdana,arial,sans-serif","fontSize":"11px"},"cssSelect":".beautytips","list":["fill","padding","strokeStyle","cornerRadius","cssStyles"]}},"colorbox":{"transition":"elastic","speed":350,"opacity":"0.85","slideshow":false,"slideshowAuto":true,"slideshowSpeed":2500,"slideshowStart":"start slideshow","slideshowStop":"stop slideshow","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","overlayClose":true,"maxWidth":"860px","maxHeight":"90%","initialWidth":"90%","initialHeight":"","fixed":true,"scrolling":true,"fastIframe":false},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"omega":{"layouts":{"primary":"normal","order":["narrow","normal","wide"],"queries":{"narrow":"all and (min-width: 740px) and (min-device-width: 740px), (max-device-width: 800px) and (min-width: 740px) and (orientation:landscape)","normal":"all and (min-width: 980px) and (min-device-width: 980px), all and (max-device-width: 1024px) and (min-width: 1024px) and (orientation:landscape)","wide":"all and (min-width: 1220px)"}}},"clientsideValidation":{"forms":{"cw-commerce-concernnet-donate-block-form":{"errorPlacement":"0","errorJquerySelector":"#clientside_validation_errors","general":{"errorClass":"error","wrapper":"li","validateTabs":0,"scrollTo":0,"scrollSpeed":"1000","disableHtml5Validation":"1","validateOnBlur":"1","validateOnBlurAlways":"1","validateOnKeyUp":"0","validateOnSubmit":"1","showMessages":"0","errorElement":"label"},"rules":{"amount":{"number":true,"messages":{"number":"I wish to donate: field accepts only numbers (use a \u0027.\u0027 as decimal point).","min":"I wish to donate: field has to be greater than 1."},"min":1}}},"search-block-form":{"errorPlacement":"0","errorJquerySelector":"#clientside_validation_errors","general":{"errorClass":"error","wrapper":"li","validateTabs":0,"scrollTo":0,"scrollSpeed":"1000","disableHtml5Validation":"1","validateOnBlur":"1","validateOnBlurAlways":"1","validateOnKeyUp":"0","validateOnSubmit":"1","showMessages":"0","errorElement":"label"},"rules":{"amount":{"number":true,"messages":{"number":"I wish to donate: field accepts only numbers (use a \u0027.\u0027 as decimal point).","min":"I wish to donate: field has to be greater than 1."},"min":1}}}},"general":{"usexregxp":0},"groups":{"cw-commerce-concernnet-donate-block-form":{},"search-block-form":{}}}});
-</script>
-  <!--[if lt IE 9]><script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+<script>var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-73097-1"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = "https://www.concern.net/sites/default/files/googleanalytics/ga.js?n8jz1w";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();</script>
+<script src="https://www.concern.net/sites/default/files/js/js_S1u0V2AmzRbWtajYpXbMbiKC6QNE-GLYOdnVGaHU0ig.js"></script>
+<script src="https://www.concern.net/sites/default/files/js/js_x3Ms9XR77sonVgfJKBbkSI8PTn6Jskw_xVvIMl0AUFQ.js"></script>
+<script src="https://www.concern.net/sites/default/files/js/js_BCStJFuDWQAOLIohfxtS8tSL5dsVrbqLFd0RKxUzbMk.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","beautytips":{".beautytips":{"fill":"#F7F7F7","padding":8,"strokeStyle":"#B7B7B7","cornerRadius":0,"cssStyles":{"fontFamily":"\u0026quot;lucida grande\u0026quot;,tahoma,verdana,arial,sans-serif","fontSize":"11px"},"cssSelect":".beautytips","list":["fill","padding","strokeStyle","cornerRadius","cssStyles"]}},"colorbox":{"transition":"elastic","speed":350,"opacity":"0.85","slideshow":false,"slideshowAuto":true,"slideshowSpeed":2500,"slideshowStart":"start slideshow","slideshowStop":"stop slideshow","current":"{current} of {total}","previous":"\u00ab Prev","next":"Next \u00bb","close":"Close","overlayClose":true,"maxWidth":"860px","maxHeight":"90%","initialWidth":"90%","initialHeight":"","fixed":true,"scrolling":true,"fastIframe":false},"breakpoint_panels_breakpoint":{"breakpoints":{"breakpoints.theme.concernmobile.small":{"min-width":0,"max-width":450,"bp":"(min-width: 0px) and (max-width: 450px)","css":"breakpoints-theme-concernmobile-small"},"breakpoints.theme.concernmobile.small-ish":{"min-width":450,"max-width":640,"bp":"(min-width: 450px) and (max-width: 640px)","css":"breakpoints-theme-concernmobile-small-ish"},"breakpoints.theme.concernmobile.small-medium-ish":{"min-width":640,"max-width":760,"bp":"(min-width: 640px) and (max-width: 760px)","css":"breakpoints-theme-concernmobile-small-medium-ish"},"breakpoints.theme.concernmobile.medium-ish":{"min-width":760,"max-width":820,"bp":"(min-width: 760px) and (max-width: 820px)","css":"breakpoints-theme-concernmobile-medium-ish"},"breakpoints.theme.concernmobile.medium-large-ish":{"min-width":820,"max-width":900,"bp":"(min-width: 820px) and (max-width: 900px)","css":"breakpoints-theme-concernmobile-medium-large-ish"},"breakpoints.theme.concernmobile.large-ish":{"min-width":900,"bp":"(min-width: 900px)","css":"breakpoints-theme-concernmobile-large-ish"}},"autoload":false,"adminload":true,"loadhidden":false,"showtypes":"all","isloggedin":false,"hasEnquire":true,"hasMatchMedia":true},"mobile_navigation":{"breakpoint":"(min-width: 47.5em) ","menuSelector":".block--menu-block-1","menuPlugin":"accordion","showEffect":"drawer_left","showItems":"active_trail","tabHandler":0,"menuWidth":"85","specialClasses":0,"mainPageSelector":".l-page","useMask":1},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"omega4":{"mediaQueries":{"breakpoint-small":"(min-width: 0px) and (max-width: 450px)","breakpoint-small-ish":"(min-width: 450px) and (max-width: 640px)","breakpoint-small-medium-ish":"(min-width: 640px) and (max-width: 760px)","breakpoint-medium-ish":"(min-width: 760px) and (max-width: 820px)","breakpoint-medium-large-ish":"(min-width: 820px) and (max-width: 900px)","breakpoint-large-ish":"(min-width: 900px)"}},"clientsideValidation":{"forms":{"cw-commerce-concernnet-donate-block-form":{"errorPlacement":"0","errorJquerySelector":"#clientside_validation_errors","general":{"errorClass":"error","wrapper":"li","validateTabs":0,"scrollTo":0,"scrollSpeed":"1000","disableHtml5Validation":"1","validateOnBlur":"1","validateOnBlurAlways":"1","validateOnKeyUp":"0","validateOnSubmit":"1","showMessages":"0","errorElement":"label"},"rules":{"amount":{"number":true,"messages":{"number":"I wish to donate: field accepts only numbers (use a \u0027.\u0027 as decimal point).","min":"I wish to donate: field has to be greater than 1."},"min":1}}},"search-block-form":{"errorPlacement":"0","errorJquerySelector":"#clientside_validation_errors","general":{"errorClass":"error","wrapper":"li","validateTabs":0,"scrollTo":0,"scrollSpeed":"1000","disableHtml5Validation":"1","validateOnBlur":"1","validateOnBlurAlways":"1","validateOnKeyUp":"0","validateOnSubmit":"1","showMessages":"0","errorElement":"label"},"rules":{"amount":{"number":true,"messages":{"number":"I wish to donate: field accepts only numbers (use a \u0027.\u0027 as decimal point).","min":"I wish to donate: field has to be greater than 1."},"min":1}}}},"general":{"usexregxp":0},"groups":{"cw-commerce-concernnet-donate-block-form":{},"search-block-form":{}}}});</script>
+  
 </head>
-<body class="html not-front not-logged-in page-node page-node- page-node-3201 node-type-cw-page  textsize-80 i18n-ie context-about">
-  <div id="skip-link">
-    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
-  </div>
-    <div class="page clearfix" id="page">
-      <header id="section-header" class="section section-header">
-  <div id="zone-user-wrapper" class="zone-wrapper zone-user-wrapper clearfix">  <div id="zone-user" class="zone zone-user clearfix container-16">
-    <div class="grid-12 region region-user-first" id="region-user-first">
-  <div class="region-inner region-user-first-inner">
-    <div class="block block-textsize block-form block-textsize-form odd block-without-title" id="block-textsize-form">
-  <div class="block-inner clearfix">
-            
-    <div class="content clearfix">
-      <ul class="textsize_inline textsize_current_inline">
+<body class="html not-front not-logged-in page-node page-node- page-node-3201 node-type-cw-page  textsize-80 i18n-ie section-about site-name-concern-worldwide section-about">
+  <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+    <div class="l-page header-fixed">
+  <header class="l-header" role="banner">
+    <div class="inner-container">
+      <div class="inner">
+        <div class="l-user">
+          <div class="inner">
+              <div class="l-region l-region--user-first">
+    <div id="block-textsize-form" class="block block--textsize block--textsize-form block--textsize-form">
+        <div class="block__content block__content">
+    <ul class="textsize_inline textsize_current_inline">
   <li class="ts_increase"><a href="/textsize/increase?destination=node/3201" title="Text Size: Increase +25%" class="ts_increase text_display_hidden ts_rollover" rel="nofollow"><img src="/profiles/concern/modules/contrib/textsize/images/increase_16.gif" width="16px" height="16px" alt="Increase" class="ts_increase text_display_hidden ts_rollover"></a></li>
   <li class="ts_normal"><a href="/textsize/normal?destination=node/3201" title="Text Size: Normal =100%" class="ts_normal text_display_hidden ts_rollover" rel="nofollow"><img src="/profiles/concern/modules/contrib/textsize/images/normal_16.gif" width="16px" height="16px" alt="Normal" class="ts_normal text_display_hidden ts_rollover"></a></li>
 </ul>
 <p class="textsize_current textsize_current_inline display_hidden current_text_display_hidden"><span class="display_hidden">Current Size: </span><span id="textsize_current" title="Current Size: 100%">100%</span></p>
 <div class="ts_clear"></div>
-    </div>
   </div>
 </div>
-<div class="block block-pagestyle block-form block-pagestyle-form even block-without-title" id="block-pagestyle-form">
-  <div class="block-inner clearfix">
-            
-    <div class="content clearfix">
-      <ul class="pagestyle_inline pagestyle_current_inline">
+<div id="block-pagestyle-form" class="block block--pagestyle block--pagestyle-form block--pagestyle-form">
+        <div class="block__content block__content">
+    <ul class="pagestyle_inline pagestyle_current_inline">
       <li class="ps_white_black"><a href="/pagestyle/white_black?destination=node/3201" title="Page Style: White/Black" class="ps_white_black text_display_hidden ps_rollover" rel="nofollow"><img src="/profiles/concern/modules/contrib/pagestyle/images/white_black_16.gif" width="16px" height="16px" alt="White/Black" class="ps_white_black ps_rollover"></a></li>
         <li class="ps_standard"><a href="/pagestyle/standard?destination=node/3201" title="Page Style: Standard" class="ps_standard text_display_hidden ps_rollover" rel="nofollow"><img src="/profiles/concern/modules/contrib/pagestyle/images/standard_16.gif" width="16px" height="16px" alt="Standard" class="ps_standard ps_rollover"></a></li>
   </ul>
@@ -294,169 +277,135 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 
 
 
-    </div>
   </div>
 </div>
-<div class="block block-locale block-language block-locale-language odd block-without-title" id="block-locale-language">
-  <div class="block-inner clearfix">
-            
-    <div class="content clearfix">
-      <ul class="language-switcher-locale-url"><li class="ie first active"><a href="/about/privacy?currency=EUR" class="language-link active" lang="ie" title="Privacy statement ">Ireland &amp; Worldwide</a></li>
+<div id="block-locale-language" role="complementary" class="block block--locale block--locale-language block--locale-language">
+        <div class="block__content block__content">
+    <ul class="language-switcher-locale-url"><li class="ie first active"><a href="/about/privacy?currency=EUR" class="language-link active" lang="ie" title="Privacy statement ">Ireland &amp; Worldwide</a></li>
 <li class="spacer"><span>/</span></li>
 <li class="en last"><a href="/en/privacy?currency=GBP" class="language-link" lang="en" title="Privacy statement ">UK</a></li>
-</ul>    </div>
-  </div>
+</ul>  </div>
 </div>
   </div>
-</div>
-<div class="grid-4 region region-user-second" id="region-user-second">
-  <div class="region-inner region-user-second-inner">
-    <div class="block block-search block-form block-search-form odd block-without-title" id="block-search-form">
-  <div class="block-inner clearfix">
-            
-    <div class="content clearfix">
-      <form action="/about/privacy" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+              <div class="l-region l-region--user-second">
+    <div id="block-search-form" role="search" class="block block--search block--search-form block--search-form">
+        <div class="block__content block__content">
+    <form class="search-block-form" action="/about/privacy" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
       <h2 class="element-invisible">Search form</h2>
     <div class="form-item form-type-searchfield form-item-search-block-form">
   <label class="element-invisible" for="edit-search-block-form--2">Search </label>
  <input title="Enter the terms you wish to search for." placeholder="Search site" type="search" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" class="form-text form-search">
 </div>
-<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit--2" name="op" value="GO!" class="form-submit"></div><input type="hidden" name="form_build_id" value="form-99_iCDF3DwV6iAnXWAMrh3jWpkC9ZnOSncB-2e7plCY">
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit--2" name="op" value="GO!" class="form-submit"></div><input type="hidden" name="form_build_id" value="form-oG1D05wpNUmVMR3DUdaSxkGvLMl5cAxJnDzVQjRM6w8">
 <input type="hidden" name="form_id" value="search_block_form">
 </div>
-</div></form>    </div>
-  </div>
+</div></form>  </div>
 </div>
   </div>
+          </div>
+        </div>
+      
+        <div class="l-branding">
+          <!-- We use context to postion logo
+                    -->
+        
+                  
+            <div class="l-region l-region--branding">
+    <div id="block-delta-blocks-logo" class="block block--delta-blocks block--delta-blocks-logo block--delta-blocks-logo">
+        <div class="block__content block__content">
+    <div class="logo-img"><a href="/" id="logo" title="Return to the Concern Worldwide home page"><img typeof="foaf:Image" src="https://www.concern.net/profiles/concern/themes/custom/concernmobile/logo.png" alt="Concern Worldwide"></a></div>  </div>
+</div>
+<div id="block-delta-blocks-site-slogan" class="block block--delta-blocks block--delta-blocks-site-slogan block--delta-blocks-site-slogan">
+        <div class="block__content block__content">
+    <h6 class="site-slogan">Working with the world's poorest people to transform their lives</h6>  </div>
 </div>
   </div>
-</div><div id="zone-branding-wrapper" class="zone-wrapper zone-branding-wrapper clearfix">  <div id="zone-branding" class="zone zone-branding clearfix container-16">
-    <div class="grid-16 region region-branding" id="region-branding">
-  <div class="region-inner region-branding-inner">
-        <div class="block block-delta-blocks block-logo block-delta-blocks-logo odd block-without-title" id="block-delta-blocks-logo">
-  <div class="block-inner clearfix">
-            
-    <div class="content clearfix">
-      <div class="logo-img"><a href="/" id="logo" title="Return to the Concern Worldwide home page"><img typeof="foaf:Image" src="https://www.concern.net/profiles/concern/themes/custom/concernnet/logo.png?1" alt="Concern Worldwide"></a></div>    </div>
-  </div>
-</div>
-<div class="block block-delta-blocks block-site-slogan block-delta-blocks-site-slogan even block-without-title" id="block-delta-blocks-site-slogan">
-  <div class="block-inner clearfix">
-            
-    <div class="content clearfix">
-      <h6 class="site-slogan">Working with the world's poorest people to transform their lives</h6>    </div>
-  </div>
-</div>
-  </div>
-</div>
-  </div>
-</div><div id="zone-menu-wrapper" class="zone-wrapper zone-menu-wrapper clearfix">  <div id="zone-menu" class="zone zone-menu clearfix container-16">
-    <div class="grid-16 region region-menu" id="region-menu">
-  <div class="region-inner region-menu-inner">
-        <div class="block block-system block-menu block-main-menu block-system-main-menu odd block-without-title" id="block-system-main-menu">
-  <div class="block-inner clearfix">
-            
-    <div class="content clearfix">
-      <ul class="menu"><li class="first leaf"><a href="/" title="Home" name="Home">Home</a></li>
-<li class="collapsed"><a href="/about" title="About Concern" name="About Concern">About Concern</a></li>
-<li class="leaf"><a href="/where-we-work" title="Where we work" name="Where we work">Where we work</a></li>
-<li class="collapsed"><a href="/get-involved" title="Get involved" name="Get involved">Get involved</a></li>
-<li class="collapsed"><a href="/news-blog" title="News" id="menu-news-blog" name="News and blogs">News</a></li>
-<li class="leaf"><a href="/resources" id="resources-top">Resources</a></li>
-<li class="collapsed"><a href="/jobs" title="Jobs" name="Jobs">Jobs</a></li>
-<li class="last collapsed"><a href="/donate" title="Donate" name="Donate" class="m-heavy">Donate</a></li>
-</ul>    </div>
-  </div>
-</div>
-  </div>
-</div>
-  </div>
-</div></header>
+        </div>
+        
+              
+      </div>
+    </div>
+  </header>
   
-      <section id="section-content" class="section section-content">
-  <div id="zone-content-wrapper" class="zone-wrapper zone-content-wrapper clearfix">  <div id="zone-content" class="zone zone-content clearfix container-16">
-            <aside class="grid-4 region region-sidebar-first" id="region-sidebar-first">
-  <div class="region-inner region-sidebar-first-inner">
-    <section class="block block-menu block-menu-about-concern block-menu-menu-about-concern odd b-links b-links b-links-featured" id="block-menu-menu-about-concern">
-  <div class="block-inner clearfix">
-              <h2 class="block-title">About us</h2>
+          <div class="l-region l-region--menu">
+    <nav id="block-menu-block-1" role="navigation" class="block block--menu-block block--menu-block-1 block--menu-block-1">
+        <h2 class="block__title block__title">Main menu</h2>
+    
+  <div class="menu-block-wrapper menu-block-1 menu-name-main-menu parent-mlid-0 menu-level-1">
+  <ul class="menu"><li class="first leaf menu-mlid-31489"><a href="/" title="Home" name="Home">Home</a></li>
+<li class="expanded menu-mlid-31490"><a href="/about" title="About Concern" name="About Concern">About Concern</a><ul class="menu"><li class="first leaf menu-mlid-67073"><a href="/about/concerns-beliefs">Our beliefs</a></li>
+<li class="leaf has-children menu-mlid-31771"><a href="/about/our-programmes">Our work</a></li>
+<li class="leaf menu-mlid-63295"><a href="/about/transparency">Transparency</a></li>
+<li class="leaf has-children menu-mlid-31760"><a href="/about/history">Our history</a></li>
+<li class="leaf has-children menu-mlid-31756"><a href="/about/how-we-raise-money">How we raise money</a></li>
+<li class="leaf menu-mlid-31770"><a href="/about/how-money-spent">How money is spent</a></li>
+<li class="last leaf menu-mlid-67150"><a href="/about/our-programmes">Our programmes</a></li>
+</ul></li>
+<li class="leaf menu-mlid-31528"><a href="/where-we-work" title="Where we work" name="Where we work">Where we work</a></li>
+<li class="expanded menu-mlid-31570"><a href="/get-involved" title="Get involved" name="Get involved">Get involved</a><ul class="menu"><li class="first leaf menu-mlid-31913"><a href="/get-involved/volunteer" title="Volunteer (Ireland)">Volunteer</a></li>
+<li class="leaf has-children menu-mlid-31912"><a href="/get-involved/fundraise-locally" title="Fundraise locally (Ireland)">Fundraise for us</a></li>
+<li class="leaf has-children menu-mlid-31916"><a href="/get-involved/campaign-with-us" title="Campaign with us">Campaign with us</a></li>
+<li class="leaf menu-mlid-67087"><a href="https://yourconcern.concern.net/events">Take part in an event</a></li>
+<li class="leaf menu-mlid-67086"><a href="http://www.concerngifts.org/">Buy a gift</a></li>
+<li class="leaf has-children menu-mlid-31922"><a href="/get-involved/schools" title="Schools (Ireland)">Schools</a></li>
+<li class="last leaf has-children menu-mlid-31908"><a href="/get-involved/involve-your-company">Involve your company</a></li>
+</ul></li>
+<li class="collapsed menu-mlid-31492"><a href="/news-blog" title="News" id="menu-news-blog" name="News and blogs">News</a></li>
+<li class="expanded menu-mlid-31123"><a href="/resources">Resources</a><ul class="menu"><li class="first leaf menu-mlid-67071"><a href="https://www.concern.net/resources?tid=1286&amp;keys=">Annual plans</a></li>
+<li class="last leaf menu-mlid-67072"><a href="https://www.concern.net/category/resource-types/evaluation">Evaluations</a></li>
+</ul></li>
+<li class="expanded menu-mlid-31522"><a href="/jobs" title="Jobs" name="Jobs">Jobs</a><ul class="menu"><li class="first leaf has-children menu-mlid-67080"><a href="https://jobs.concern.net/">International jobs</a></li>
+<li class="leaf menu-mlid-67076"><a href="https://jobs.concern.net/Search_Results.aspx?JobLocation=IRE%7C&amp;">Ireland jobs</a></li>
+<li class="leaf menu-mlid-67077"><a href="https://www.concern.net/jobs/search/948%2B947%2B950%2B949%2B4866/all/">UK jobs</a></li>
+<li class="leaf menu-mlid-67078"><a href="http://www.concernusa.org/work-with-us">US jobs</a></li>
+<li class="last leaf menu-mlid-67079"><a href="https://www.concern.net/jobs/search/all/175">On-street fundraising</a></li>
+</ul></li>
+<li class="last expanded menu-mlid-31493"><a href="/donate" title="Donate" name="Donate" class="m-heavy">Donate</a><ul class="menu"><li class="first leaf menu-mlid-67075"><a href="/donate/charity-fundraising-appeals">Charity fundraising appeals</a></li>
+<li class="leaf menu-mlid-31797"><a href="/donate/recycle-gold-jewellery">Recycling your gold</a></li>
+<li class="leaf has-children menu-mlid-31781"><a href="/donate/leave-a-legacy" title="Leave a legacy (Ireland)">Leave a legacy</a></li>
+<li class="leaf has-children menu-mlid-31782"><a href="/donate/making-major-donation">Donations over €5,000</a></li>
+<li class="leaf has-children menu-mlid-31793"><a href="/donate/making-major-donation/women-of-concern" title="Women of Concern">Women of Concern</a></li>
+<li class="leaf menu-mlid-31788"><a href="/donate/donate-in-memory" title="Remember a loved one (Ireland)">Donate in memory</a></li>
+<li class="leaf menu-mlid-62367"><a href="/donate/children-yeshi">Children like Yeshi</a></li>
+<li class="last leaf has-children menu-mlid-31790"><a href="/donate/your-donation-and-tax-back">Your donation and tax back</a></li>
+</ul></li>
+</ul></div>
+</nav>
+<nav id="block-menu-menu-cw-donate-menu" role="navigation" class="block block--menu block--menu-menu-cw-donate-menu block--menu-menu-cw-donate-menu">
+        <h2 class="block__title block__title">Donate links menu</h2>
+    
+  <ul class="menu"><li class="first leaf"><a href="/donate/appeal/882">Single donation</a></li>
+<li class="last leaf"><a href="/donate/regular/new">Monthly donation</a></li>
+</ul></nav>
+  </div>
+
+      <div class="l-main with-sidebar">
+  
+    <div class="inner clearfix">
+      <div class="l-content" role="main">
+                <!--
+        <h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a></div>        -->
+        <a id="main-content"></a>
         
-    <div class="content clearfix">
-      <ul class="menu"><li class="first leaf"><a href="/about/our-programmes">Our programmes</a></li>
-<li class="leaf"><a href="/about/how-we-raise-money">How we raise money</a></li>
-<li class="leaf"><a href="/about/how-money-spent">How money is spent</a></li>
-<li class="leaf"><a href="/about/history">Our history</a></li>
-<li class="leaf"><a href="https://www.concern.net/about/transparency">How transparent is Concern?</a></li>
-<li class="last leaf"><a href="/about/concerns-beliefs">Our beliefs</a></li>
-</ul>    </div>
-  </div>
-</section>
-<section class="block block-menu block-menu-in-depth block-menu-menu-in-depth even b-links b-links" id="block-menu-menu-in-depth">
-  <div class="block-inner clearfix">
-              <h2 class="block-title">In depth</h2>
+        <!--         
+                  <h1 class="title" id="page-title">Privacy statement </h1>
+                
+                -->
         
-    <div class="content clearfix">
-      <ul class="menu"><li class="first leaf"><a href="/about/annual-reports">Annual reports</a></li>
-<li class="leaf"><a href="/about/How-we-are-governed/about-our-ceo">About our CEO</a></li>
-<li class="leaf"><a href="/about/codes-practices">Codes and policies</a></li>
-<li class="leaf"><a href="/about/concern-europe">Concern in Europe</a></li>
-<li class="collapsed"><a href="/about/how-we-raise-money/institutional-donors">Institutional donors</a></li>
-<li class="leaf"><a href="/about/concern-partners">Partners</a></li>
-<li class="leaf"><a href="/about/supplies">Supply chain</a></li>
-<li class="last leaf"><a href="/about/frequently-asked-questions">Frequently asked questions</a></li>
-</ul>    </div>
-  </div>
-</section>
-<section class="block block-menu block-menu-our-programmes block-menu-menu-our-programmes odd b-links b-links" id="block-menu-menu-our-programmes">
-  <div class="block-inner clearfix">
-              <h2 class="block-title">Our programmes</h2>
-        
-    <div class="content clearfix">
-      <ul class="menu"><li class="first leaf"><a href="/about/our-programmes/education">Education</a></li>
-<li class="leaf"><a href="/about/our-programmes/emergencies">Emergencies</a></li>
-<li class="leaf"><a href="/about/our-programmes/hiv-and-aids">HIV and AIDS</a></li>
-<li class="leaf"><a href="/about/our-programmes/health">Health</a></li>
-<li class="last leaf"><a href="/about/our-programmes/livelihoods">Livelihoods</a></li>
-</ul>    </div>
-  </div>
-</section>
-<section class="block block-menu block-menu-about---related block-menu-menu-about-related even b-links b-links" id="block-menu-menu-about-related">
-  <div class="block-inner clearfix">
-              <h2 class="block-title">Related links</h2>
-        
-    <div class="content clearfix">
-      <ul class="menu"><li class="first collapsed"><a href="/jobs">Work with us</a></li>
-<li class="last leaf"><a href="/about/press-office" title="Press office Ireland">Press office</a></li>
-</ul>    </div>
-  </div>
-</section>
-  </div>
-</aside>
-<div class="grid-8 region region-content" id="region-content">
-  <div class="region-inner region-content-inner">
-    <a id="main-content"></a>
-                        <div class="block block-delta-blocks block-breadcrumb block-delta-blocks-breadcrumb odd block-without-title" id="block-delta-blocks-breadcrumb">
-  <div class="block-inner clearfix">
-            
-    <div class="content clearfix">
-      <h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a></div>    </div>
-  </div>
+                        <div class="element-invisible">          <h1 class="title" id="page-title">Privacy statement </h1>
+        </div>                        
+                                        <div id="block-delta-blocks-breadcrumb" class="block block--delta-blocks block--delta-blocks-breadcrumb block--delta-blocks-breadcrumb">
+        <div class="block__content block__content">
+    <h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a></div>  </div>
 </div>
-<div class="block block-delta-blocks block-page-title block-delta-blocks-page-title even block-without-title" id="block-delta-blocks-page-title">
-  <div class="block-inner clearfix">
-            
-    <div class="content clearfix">
-      <h1 id="page-title" class="title">Privacy statement </h1>    </div>
-  </div>
+<div id="block-delta-blocks-page-title" class="block block--delta-blocks block--delta-blocks-page-title block--delta-blocks-page-title">
+        <div class="block__content block__content">
+    <h1 id="page-title" class="title">Privacy statement </h1>  </div>
 </div>
-<div class="block block-system block-main block-system-main odd block-without-title" id="block-system-main">
-  <div class="block-inner clearfix">
-            
-    <div class="content clearfix">
-      <div class="ds-1col node node-cw-page view-mode-full clearfix">
+<div class="ds-1col node node--cw-page node--full node--cw-page--full view-mode-full node--full node--cw-page--full clearfix">
 
   
-  <div class="field field-name-field-cw-intro field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>Concern Worldwide (registered number 39647, registered charity number CHY5745, place of registration: Dublin, Ireland) is committed to protecting the privacy of our supporters. The following Concern Worldwide Privacy Statement will explain to you how we collect, store and use personal information submitted to us.</p></div></div></div><div class="field field-name-field-cw-media-main-image field-type-image field-label-hidden cw-media-thumbnail-custom"><div class="field-items"></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>We value and respect all individuals and organisations seeking to donate time, money or resources to our work with the poorest of the poor in the developing world. We endeavour to protect our users' information, through compliance with the Data Protection Acts 1988 and 2003 (as amended). When our supporters submit personal and sensitive information, this information is protected by a secure system both online and offline.</p>
+  <div class="field field--name-field-cw-intro field--type-text-long field--label-hidden"><div class="field__items"><div class="field__item even"><p>Concern Worldwide (registered number 39647, registered charity number CHY5745, place of registration: Dublin, Ireland) is committed to protecting the privacy of our supporters. The following Concern Worldwide Privacy Statement will explain to you how we collect, store and use personal information submitted to us.</p></div></div></div><div class="field field--name-field-cw-media-main-image field--type-image field--label-hidden cw-media-thumbnail-custom"><div class="field__items"></div></div><div class="field field--name-body field--type-text-with-summary field--label-hidden"><div class="field__items"><div class="field__item even" property="content:encoded"><p>We value and respect all individuals and organisations seeking to donate time, money or resources to our work with the poorest of the poor in the developing world. We endeavour to protect our users' information, through compliance with the Data Protection Acts 1988 and 2003 (as amended). When our supporters submit personal and sensitive information, this information is protected by a secure system both online and offline.</p>
 <p>When you contact Concern Worldwide regarding an event, activity, campaign, send or receive information or make a donation, you can provide us with your personal information. This data is stored on our secure computerised database to enable us to respond to your requests, keep you updated and informed about our work and how your donation(s) is being used. In the future, we may communicate with you by mail, email or telephone.</p>
 <h2>Personal information</h2>
 <p>Names, addresses, telephone numbers and email addresses are protected by Concern Worldwide on a computerised system to ensure that loss, misuse, unauthorised access or disclosure, alteration or destruction of this information is not probable.</p>
@@ -480,35 +429,28 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 <p>If you have any queries or questions about privacy and/or security of your personal data please contact us at <a href="mailto:info@concern.net">info@concern.net</a>.</p>
 <p>This statement is subject to change and any such changes to our privacy statement will be posted on this page without prior notification.</p>
 <p>Visit <a href="http://www.dataprotection.ie/">www.dataprotection.ie</a> for further information.</p>
-</div></div></div><ul class="links inline"><li class="comment-add first last"></li></ul></div>
+</div></div></div></div>
 
-    </div>
-  </div>
-</div>
-      </div>
-</div>
-<aside class="grid-4 region region-sidebar-second" id="region-sidebar-second">
-  <div class="region-inner region-sidebar-second-inner">
-    <section class="block block-bean block-how-money-is-spent block-bean-how-money-is-spent odd b-links-heavy-alt" id="block-bean-how-money-is-spent">
-  <div class="block-inner clearfix">
-              <h2 class="block-title">How money is spent</h2>
-        
-    <div class="content clearfix">
-      <div class="entity entity-bean bean-cw-core-block clearfix" about="/block/how-money-is-spent" typeof="">
+              </div>
+      
+              
+        <div class="l-region l-region--sidebar">
+            <aside class="l-region l-region--sidebar-second">
+    <div id="block-bean-how-money-is-spent" class="block block--bean block--bean-how-money-is-spent b-links-heavy-alt block--bean-how-money-is-spent b-links-heavy-alt">
+        <h2 class="block__title block__title">How money is spent</h2>
+      <div class="block__content block__content">
+    <div class="entity entity-bean bean-cw-core-block clearfix" about="/block/how-money-is-spent" typeof="">
 
   <div class="content">
-    <div class="field field-name-field-cw-core-block-content field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p><a href="https://www.concern.net/about/how-money-spent"><img height="238" width="169" class="media-element file-full" typeof="foaf:Image" src="https://www.concern.net/sites/default/files/styles/large/public/b-how-money-spent.png?itok=jpHET_du" alt="How money is spent" title=""></a></p>
+    <div class="field field--name-field-cw-core-block-content field--type-text-long field--label-hidden"><div class="field__items"><div class="field__item even"><p><a href="https://www.concern.net/about/how-money-spent"><img height="238" width="169" class="media-element file-full" typeof="foaf:Image" src="https://www.concern.net/sites/default/files/styles/large/public/b-how-money-spent.png?itok=mW6WnLqL" alt="How money is spent" title=""></a></p>
 </div></div></div>  </div>
 </div>
-    </div>
   </div>
-</section>
-<section class="block block-cw-commerce-concernnet block-donate block-cw-commerce-concernnet-donate even b-donate b-donate-alt" id="block-cw-commerce-concernnet-donate">
-  <div class="block-inner clearfix">
-              <h2 class="block-title">Donate</h2>
-        
-    <div class="content clearfix">
-      <p>Your donation will help some of the world's poorest and most vulnerable people.</p><form action="/about/privacy" method="post" id="cw-commerce-concernnet-donate-block-form" accept-charset="UTF-8"><div><div class="form-item form-type-numberfield form-item-amount">
+</div>
+<div id="block-cw-commerce-concernnet-donate" class="block block--cw-commerce-concernnet block--cw-commerce-concernnet-donate b-donate b-donate-alt block--cw-commerce-concernnet-donate b-donate b-donate-alt">
+        <h2 class="block__title block__title">Donate</h2>
+      <div class="block__content block__content">
+    <form class="cw-commerce-concernnet-donate-block-form" action="/about/privacy" method="post" id="cw-commerce-concernnet-donate-block-form" accept-charset="UTF-8"><div><div class="form-item form-type-numberfield form-item-amount">
   <label for="edit-amount">I wish to donate: </label>
  <span class="field-prefix">€</span> <input type="number" id="edit-amount" name="amount" value="" min="1" step="any" class="form-text form-number">
 </div>
@@ -520,17 +462,14 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
  <input type="radio" id="edit-type-single" name="type" value="single" class="form-radio">  <label class="option" for="edit-type-single">Single donation </label>
 
 </div>
-</div><input type="submit" id="edit-submit" name="op" value="Donate now" class="form-submit"><input type="hidden" name="form_build_id" value="form-Rilwq9a4Sw3pos8nfQMNXy3NXVWl4bwMQYcH4I22ti8">
+</div><input type="submit" id="edit-submit" name="op" value="Donate now" class="form-submit"><input type="hidden" name="form_build_id" value="form-Z_hFU35sUSJE91o15nleap_WC6PEYMxNfgScVGflUik">
 <input type="hidden" name="form_id" value="cw_commerce_concernnet_donate_block_form">
-</div></form>    </div>
-  </div>
-</section>
-<section class="block block-views block-c98899c8947515dde8bf82f2e23582c3 block-views-c98899c8947515dde8bf82f2e23582c3 odd b-links b-links-heavy" id="block-views-c98899c8947515dde8bf82f2e23582c3">
-  <div class="block-inner clearfix">
-              <h2 class="block-title">Latest resources</h2>
-        
-    <div class="content clearfix">
-      <div class="view view-cw-resources-view view-id-cw_resources_view view-display-id-latest_resources_short view-dom-id-11d56d3ec0c1151a0a9677256326ed1b">
+</div></form>  </div>
+</div>
+<div id="block-views-c98899c8947515dde8bf82f2e23582c3" class="block block--views block--views-c98899c8947515dde8bf82f2e23582c3 b-links b-links-heavy block--views-c98899c8947515dde8bf82f2e23582c3 b-links b-links-heavy">
+        <h2 class="block__title block__title">Latest resources</h2>
+      <div class="block__content block__content">
+    <div class="view view-cw-resources-view view-id-cw_resources_view view-display-id-latest_resources_short view-dom-id-a2682077367fe60b8b2f22029f2f6862">
         
   
   
@@ -551,185 +490,153 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
   
   
   
-</div>    </div>
-  </div>
-</section>
-  </div>
-</aside>
-  </div>
-</div></section>
-  
-      <footer id="section-footer" class="section section-footer">
-  <div class="section-footer-inside">
-    <div id="zone-footer-wrapper" class="zone-wrapper zone-footer-wrapper clearfix">  <div id="zone-footer" class="zone zone-footer clearfix container-16">
-    <div class="grid-16 region region-footer-first" id="region-footer-first">
-  <div class="region-inner region-footer-first-inner">
-    <div class="block block-panels-mini block-cw-site-concernnet-flinks block-panels-mini-cw-site-concernnet-flinks odd block-without-title" id="block-panels-mini-cw-site-concernnet-flinks">
-  <div class="block-inner clearfix">
+</div>  </div>
+</div>
+  </aside>
+            <aside class="l-region l-region--sidebar-first">
+    <nav id="block-menu-menu-in-depth" role="navigation" class="block block--menu block--menu-menu-in-depth b-links b-links block--menu-menu-in-depth b-links b-links">
+        <h2 class="block__title block__title">In depth</h2>
+    
+  <ul class="menu"><li class="first leaf"><a href="/about/annual-reports">Annual reports</a></li>
+<li class="leaf"><a href="/about/How-we-are-governed/about-our-ceo">About our CEO</a></li>
+<li class="leaf"><a href="/about/codes-practices">Codes and policies</a></li>
+<li class="leaf"><a href="/about/concern-europe">Concern in Europe</a></li>
+<li class="collapsed"><a href="/about/how-we-raise-money/institutional-donors">Institutional donors</a></li>
+<li class="leaf"><a href="/about/concern-partners">Partners</a></li>
+<li class="leaf"><a href="/about/supplies">Supply chain</a></li>
+<li class="last leaf"><a href="/about/frequently-asked-questions">Frequently asked questions</a></li>
+</ul></nav>
+<nav id="block-menu-menu-our-programmes" role="navigation" class="block block--menu block--menu-menu-our-programmes b-links b-links block--menu-menu-our-programmes b-links b-links">
+        <h2 class="block__title block__title">Our programmes</h2>
+    
+  <ul class="menu"><li class="first leaf"><a href="/about/our-programmes/education">Education</a></li>
+<li class="leaf"><a href="/about/our-programmes/emergencies">Emergencies</a></li>
+<li class="leaf"><a href="/about/our-programmes/hiv-and-aids">HIV and AIDS</a></li>
+<li class="leaf"><a href="/about/our-programmes/health">Health</a></li>
+<li class="last leaf"><a href="/about/our-programmes/livelihoods">Livelihoods</a></li>
+</ul></nav>
+<nav id="block-menu-menu-about-related" role="navigation" class="block block--menu block--menu-menu-about-related b-links b-links block--menu-menu-about-related b-links b-links">
+        <h2 class="block__title block__title">Related links</h2>
+    
+  <ul class="menu"><li class="first collapsed"><a href="/jobs">Work with us</a></li>
+<li class="last leaf"><a href="/about/press-office" title="Press office Ireland">Press office</a></li>
+</ul></nav>
+  </aside>
+        </div>
+        
             
-    <div class="content clearfix">
-      <div class="panel-display omega-grid omega-12-sixcol-2-2-2-2-2-2" id="mini-panel-cw_site_concernnet_flinks">
+    </div>
+  </div>
+
+  <footer class="l-footer" role="contentinfo">
+    <div class="inner">
+              <div class="l-region l-region--footer-first">
+    <div id="block-panels-mini-cw-site-concernnet-flinks" class="block block--panels-mini block--panels-mini-cw-site-concernnet-flinks block--panels-mini-cw-site-concernnet-flinks">
+        <div class="block__content block__content">
+    <div class="panel-display omega-grid omega-12-sixcol-2-2-2-2-2-2 clearfix" id="mini-panel-cw_site_concernnet_flinks">
   <div class="panel-panel grid-2">
     <div class="inside"><div class="panel-pane pane-block pane-menu-menu-menu-about-concern">
-  
-        <h2 class="pane-title">About Concern</h2>
-    
-  
-  <div class="pane-content">
-    <ul class="menu"><li class="first leaf"><a href="/about/history">Our History</a></li>
+          <h2 class="pane-title">About Concern</h2>
+        <ul class="menu"><li class="first leaf"><a href="/about/history">Our History</a></li>
 <li class="leaf"><a href="/node/4007">How we raise money</a></li>
 <li class="last leaf"><a href="/about/how-money-spent">How money is spent</a></li>
-</ul>  </div>
-
-  
-  </div>
+</ul>    </div>
 </div>
   </div>
   <div class="panel-panel grid-2">
     <div class="inside"><div class="panel-pane pane-block pane-menu-menu-menu-footer-where-we-work">
-  
-        <h2 class="pane-title">Where we work</h2>
-    
-  
-  <div class="pane-content">
-    <ul class="menu"><li class="first leaf"><a href="/where-we-work/africa">Africa</a></li>
+          <h2 class="pane-title">Where we work</h2>
+        <ul class="menu"><li class="first leaf"><a href="/where-we-work/africa">Africa</a></li>
 <li class="leaf"><a href="/where-we-work/asia">Asia</a></li>
 <li class="leaf"><a href="/where-we-work/caribbean">Caribbean</a></li>
 <li class="last leaf"><a href="/about">Working for Concern</a></li>
-</ul>  </div>
-
-  
-  </div>
+</ul>    </div>
 </div>
   </div>
   <div class="panel-panel grid-2">
     <div class="inside"><div class="panel-pane pane-block pane-menu-menu-menu-footer-get-involved">
-  
-        <h2 class="pane-title">Get involved</h2>
-    
-  
-  <div class="pane-content">
-    <ul class="menu"><li class="first leaf"><a href="https://www.concern.net/yourconcern/events">Take part in an event</a></li>
+          <h2 class="pane-title">Get involved</h2>
+        <ul class="menu"><li class="first leaf"><a href="https://www.concern.net/yourconcern/events">Take part in an event</a></li>
 <li class="leaf"><a href="http://www.concernfast.org/">Register for the Fast</a></li>
 <li class="last leaf"><a href="/node/5906">Work with us</a></li>
-</ul>  </div>
-
-  
-  </div>
+</ul>    </div>
 </div>
   </div>
   <div class="panel-panel grid-2">
     <div class="inside"><div class="panel-pane pane-block pane-menu-menu-menu-footer-news-blogs">
-  
-        <h2 class="pane-title">Resources</h2>
-    
-  
-  <div class="pane-content">
-    <ul class="menu"><li class="first leaf"><a href="https://www.concern.net/resources">View all resources</a></li>
+          <h2 class="pane-title">Resources</h2>
+        <ul class="menu"><li class="first leaf"><a href="https://www.concern.net/resources">View all resources</a></li>
 <li class="leaf"><a href="https://www.concern.net/resources?tid=1286&amp;keys=">Annual plans</a></li>
 <li class="leaf"><a href="https://www.concern.net/category/resource-types/policy">Policies</a></li>
 <li class="leaf"><a href="https://www.concern.net/category/resource-types/press-release">Press releases</a></li>
 <li class="last leaf"><a href="https://www.concern.net/get-involved/schools/resources">School resources</a></li>
-</ul>  </div>
-
-  
-  </div>
+</ul>    </div>
 </div>
   </div>
   <div class="panel-panel grid-2">
     <div class="inside"><div class="panel-pane pane-block pane-menu-menu-menu-footer-jobs">
-  
-        <h2 class="pane-title">Jobs</h2>
-    
-  
-  <div class="pane-content">
-    <ul class="menu"><li class="first leaf"><a href="https://jobs.concern.net/Search_Results.aspx?JobLocation=IRE%7C&amp;amp;">Ireland jobs</a></li>
+          <h2 class="pane-title">Jobs</h2>
+        <ul class="menu"><li class="first leaf"><a href="https://jobs.concern.net/Search_Results.aspx?JobLocation=IRE%7C&amp;amp;">Ireland jobs</a></li>
 <li class="leaf"><a href="https://jobs.concern.net/">International jobs</a></li>
 <li class="last leaf"><a href="https://www.concern.net/en/jobs/search/948%2B947%2B950%2B949/all/">UK jobs</a></li>
-</ul>  </div>
-
-  
-  </div>
+</ul>    </div>
 </div>
   </div>
   <div class="panel-panel grid-2">
     <div class="inside"><div class="panel-pane pane-block pane-menu-menu-menu-footer-donate">
-  
-        <h2 class="pane-title">Donate</h2>
-    
-  
-  <div class="pane-content">
-    <ul class="menu"><li class="first leaf"><a href="/donate/regular/new">Monthly donation</a></li>
+          <h2 class="pane-title">Donate</h2>
+        <ul class="menu"><li class="first leaf"><a href="/donate/regular/new">Monthly donation</a></li>
 <li class="leaf"><a href="https://www.concern.net/donate/appeal/914">Single donation</a></li>
 <li class="last leaf"><a href="http://www.concerngifts.org">Buy a gift</a></li>
-</ul>  </div>
-
-  
-  </div>
+</ul>    </div>
 </div>
-  </div>
-</div>
-    </div>
   </div>
 </div>
   </div>
 </div>
-<div class="grid-16 region region-footer-second" id="region-footer-second">
-  <div class="region-inner region-footer-second-inner">
-    <section class="block block-follow block-site block-follow-site odd" id="block-follow-site">
-  <div class="block-inner clearfix">
-              <h2 class="block-title">Follow Concern Worldwide on:</h2>
-        
-    <div class="content clearfix">
-      <div class="follow-links clearfix"><a href="http://www.youtube.com/user/concernworldwide" class="follow-link follow-link-youtube follow-link-site" title="Follow Concern Worldwide on YouTube">YouTube</a>
-<a href="http://twitter.com/#!/concern" class="follow-link follow-link-twitter follow-link-site" title="Follow Concern Worldwide on Twitter">Twitter</a>
-<a href="http://www.facebook.com/concernworldwide" class="follow-link follow-link-facebook follow-link-site" title="Follow Concern Worldwide on Facebook">Facebook</a>
-</div>    </div>
   </div>
-</section>
-<div class="block block-menu block-menu-cw-site-concernnet-ilinks block-menu-menu-cw-site-concernnet-ilinks even block-without-title" id="block-menu-menu-cw-site-concernnet-ilinks">
-  <div class="block-inner clearfix">
-            
-    <div class="content clearfix">
-      <ul class="menu"><li class="first leaf"><a href="/sitemap">Site map</a></li>
+        <div class="l-region l-region--footer-second">
+    <nav id="block-menu-menu-cw-site-concernnet-ilinks" role="navigation" class="block block--menu block--menu-menu-cw-site-concernnet-ilinks block--menu-menu-cw-site-concernnet-ilinks">
+      
+  <ul class="menu"><li class="first leaf"><a href="/sitemap">Site map</a></li>
 <li class="leaf"><a href="/about/terms-and-conditions">Terms and conditions</a></li>
 <li class="leaf active-trail"><a href="/about/privacy" class="active-trail active">Privacy and cookies</a></li>
 <li class="leaf"><a href="/donate/online-security">Online security</a></li>
 <li class="leaf"><a href="/about/press-office" title="Media information">Media information</a></li>
-<li class="leaf"><a href="/contact-us">Contact us</a></li>
+<li class="leaf"><a href="/contact">Contact us</a></li>
 <li class="last leaf"><a href="http://concern365.net">Web email</a></li>
-</ul>    </div>
-  </div>
+</ul></nav>
+<div id="block-follow-site" class="block block--follow block--follow-site block--follow-site">
+        <h2 class="block__title block__title">Follow Concern Worldwide on:</h2>
+      <div class="block__content block__content">
+    <div class="follow-links clearfix"><a href="http://www.youtube.com/user/concernworldwide" class="follow-link follow-link-youtube follow-link-site" title="Follow Concern Worldwide on YouTube">YouTube</a>
+<a href="http://twitter.com/#!/concern" class="follow-link follow-link-twitter follow-link-site" title="Follow Concern Worldwide on Twitter">Twitter</a>
+<a href="http://www.facebook.com/concernworldwide" class="follow-link follow-link-facebook follow-link-site" title="Follow Concern Worldwide on Facebook">Facebook</a>
+</div>  </div>
 </div>
   </div>
-</div>
-  </div>
-</div>  <div id="zone-credits" class="zone zone-credits clearfix container-16">
-    <div class="grid-16 region region-credits" id="region-credits">
-  <div class="region-inner region-credits-inner">
-    <div class="block block-bean block-company-information block-bean-company-information odd block-without-title" id="block-bean-company-information">
-  <div class="block-inner clearfix">
-            
-    <div class="content clearfix">
-      <div class="entity entity-bean bean-cw-core-block clearfix" about="/block/company-information" typeof="">
+    </div>
+    <div class="concern-badge"></div>
+  </footer>
+  
+  <div class="l-credits">
+      <div class="l-region l-region--credits">
+    <div id="block-bean-company-information" class="block block--bean block--bean-company-information block--bean-company-information">
+        <div class="block__content block__content">
+    <div class="entity entity-bean bean-cw-core-block clearfix" about="/block/company-information" typeof="">
 
   <div class="content">
-    <div class="field field-name-field-cw-core-block-content field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>Concern Worldwide, a company limited by guarantee and exempted from using the word "limited", Reg. No. 39647. Reg. Charity No. CHY 5745,<br>
+    <div class="field field--name-field-cw-core-block-content field--type-text-long field--label-hidden"><div class="field__items"><div class="field__item even"><p>Concern Worldwide, a company limited by guarantee and exempted from using the word "limited", Reg. No. 39647. Reg. Charity No. CHY 5745,<br>
 	Registered in Ireland, Registered address is 52-55 Lower Camden Street, Dublin 2.<br>
 	Phone: ++353 1 417 7700.</p>
 <p><a href="https://trustsealinfo.verisign.com/splash?form_file=fdf/splash.fdf&amp;dn=www.concern.net&amp;lang=en"><img height="49" width="96" class="media-element file-default" typeof="foaf:Image" src="https://www.concern.net/sites/default/files/norton.png" alt="Norton Trusted" title=""></a><a href="http://www.alliance2015.org" style="padding-bottom: 10px;display: inline-block;"><img height="31" width="163" class="media-element file-default" typeof="foaf:Image" src="https://www.concern.net/sites/default/files/alliance-2015-concern.png" alt="Concern is a member of Alliance 2015 European NGO network" title=""></a><a href="https://www.concern.net/about/how-we-raise-money/concern-and-irish-aid"><img height="53" width="137" class="media-element file-default" typeof="foaf:Image" src="https://www.concern.net/sites/default/files/irish-aid-trans.png" alt="Irish Aid" title=""></a></p>
 </div></div></div>  </div>
 </div>
-    </div>
   </div>
 </div>
   </div>
+  </div>
 </div>
-  </div>
-    <div class="concern-badge"></div>
-  </div>
-</footer>
-  </div>
   <!-- Start of Async HubSpot Analytics Code -->
 <script type="text/javascript">
 (function(d,s,i,r) {
@@ -739,8 +646,8 @@ n.id=i;n.src='//js.hs-analytics.net/analytics/'+(Math.ceil(new Date()/r)*r)+'/39
 e.parentNode.insertBefore(n, e);
 })(document,"script","hs-analytics",300000);
 </script>
-<!-- End of Async HubSpot Analytics Code --> <script>
-/* Output by FitVids module */
+<!-- End of Async HubSpot Analytics Code --> <script src="https://www.concern.net/sites/default/files/js/js_h5pUc2x9Uh8Pl1QqK1Xj-8G295EapUWRnbPNEp5xuvA.js"></script>
+<script>/* Output by FitVids module */
 (function ($) {
     Drupal.behaviors.fitvids = {
       attach: function (context, settings) {
@@ -759,9 +666,8 @@ if ($(".media-vimeo-outer-wrapper").length) {
 $(".media-element", context).fitVids();
 }
       };
-    }(jQuery));
-</script>
+    }(jQuery));</script>
 <script src="https://www.concern.net/sites/default/files/js/js_96jXsuA1PRwI0C6kjvLMzsHoAK0hokHNM-ef8uq9NXw.js"></script>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-2.newrelic.com","licenseKey":"7daf8ca877","applicationID":"2338060","transactionName":"NFUDbUJYXBBTVxFfWg0fIFpEUF0NHUQEUVA8XQBXUV5XEW1aClJQPEYIXEdmQgJVUQ==","queueTime":0,"applicationTime":977,"ttGuid":"","agentToken":"","atts":"GBIAGwpCTx4=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-2.newrelic.com","licenseKey":"7daf8ca877","applicationID":"2338060","transactionName":"NFUDbUJYXBBTVxFfWg0fIFpEUF0NHUQEUVA8XQBXUV5XEW1aClJQPEYIXEdmQgJVUQ==","queueTime":0,"applicationTime":1295,"ttGuid":"","agentToken":"","atts":"GBIAGwpCTx4=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-411.min.js"}</script>
 
 <script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
