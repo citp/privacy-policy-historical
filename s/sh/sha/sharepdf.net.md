@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the sharepdf.net privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208071103id_/http%3A//sharepdf.net/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharepdf.net privacy policy that was archived on 2014-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140712005507id_/http%3A//sharepdf.net/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
-sharepdf.net takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this privacy policy primer to learn more about privacy policies in general. 
+sharepdf.org takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this privacy policy primer to learn more about privacy policies in general. 
 
 **Routine Information Collection**  
 All web servers track basic information about their visitors. This information includes, but is not limited to, IP addresses, browser details, timestamps and referring pages. None of this information can personally identify specific visitors to this site. The information is tracked for routine administration and maintenance purposes. 
 
 **Cookies and Web Beacons**  
-Where necessary, sharepdf.net uses cookies to store information about a visitor's preferences and history in order to better serve the visitor and/or present the visitor with customized content. 
+Where necessary, sharepdf.org uses cookies to store information about a visitor's preferences and history in order to better serve the visitor and/or present the visitor with customized content. 
 
 Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. 
 
