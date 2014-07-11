@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the openlogic.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626005306id_/http%3A//www.openlogic.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openlogic.com privacy policy that was archived on 2014-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140711111732id_/http%3A//www.openlogic.com/policy) for the most accurate reproduction.*
 
 # OpenLogic Privacy Policy
 
