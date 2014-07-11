@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tazinga.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625073803id_/http%3A//tazinga.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tazinga.com privacy policy that was archived on 2014-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140711050456id_/http%3A//tazinga.com/privacy) for the most accurate reproduction.*
 
 # None
 
