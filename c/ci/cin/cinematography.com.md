@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cinematography.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213194323id_/http%3A//www.cinematography.com/index.php%3Fs%3Defc983b9d4ca643dd19a2b51c75de980%26app%3Dcore%26module%3Dglobal%26section%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cinematography.com privacy policy that was archived on 2014-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140711084346id_/http%3A//www.cinematography.com/index.php%3Fapp%3Dcore%26module%3Dglobal%26section%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy - Cinematography.com
 
