@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acmetraffic.com privacy policy that was archived on 2014-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140605034034id_/http%3A//acmetraffic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acmetraffic.com privacy policy that was archived on 2014-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140712014145id_/http%3A//acmetraffic.com/privacy) for the most accurate reproduction.*
 
 # Privacy - ACME Traffic
 
