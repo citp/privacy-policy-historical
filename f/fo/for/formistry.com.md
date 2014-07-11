@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the formistry.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625085438id_/http%3A//formistry.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the formistry.com privacy policy that was archived on 2014-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140711123708id_/http%3A//greenclouds.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GreenClouds
 
