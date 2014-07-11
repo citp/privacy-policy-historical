@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celebrity-sunglasses-finder.com privacy policy that was archived on 2013-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130807045624id_/http%3A//www.celebrity-sunglasses-finder.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebrity-sunglasses-finder.com privacy policy that was archived on 2014-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140711042934id_/http%3A//www.celebrity-sunglasses-finder.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Celebrity Sunglasses Finder
 
