@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the nceasyfood.org privacy policy that was archived on 2013-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131211021325id_/http%3A//www.nceasyfood.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nceasyfood.org privacy policy that was archived on 2014-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140711073829id_/http%3A//quickeasyfoods.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Easy Food
-
-**0** Flares Twitter 0 Facebook 0 Google+ 0 StumbleUpon 0 Reddit 0 Filament.io **0** Flares ×
 
 NC Easy Food has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site.
 
@@ -20,5 +18,3 @@ This site contains links to other sites. NC Easy Food is not responsible for th
 
 Contacting the Web Site  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us.
-
-**0** Flares Twitter 0 Facebook 0 Google+ 0 StumbleUpon 0 Reddit 0 Filament.io **0** Flares ×
