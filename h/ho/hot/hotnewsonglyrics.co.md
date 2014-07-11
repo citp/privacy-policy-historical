@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hotnewsonglyrics.co privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326013224id_/http%3A//www.hotnewsonglyrics.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotnewsonglyrics.co privacy policy that was archived on 2014-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140711204337id_/http%3A//www.hotnewsonglyrics.co/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy @ HotNewSongLyrics.co
+# Privacy Policy | Hot New Song Lyrics
 
 Hotnewsonglyrics.co has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: Hotnewsonglyrics.co
 
