@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scholarshipexperts.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213020851id_/http%3A//www.scholarshipexperts.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scholarshipexperts.com privacy policy that was archived on 2014-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140711115621id_/https%3A//www.scholarshipexperts.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ScholarshipExperts.com
 
@@ -17,7 +17,7 @@ This Privacy Policy does not apply to:
 
 
 
-Your use of this Site is subject to this Privacy Policy and the [Terms of Use](https://web.archive.org/about/terms). This Privacy Policy (together any other documents referred to in this Privacy Policy) describes information that we collect from you or that you provide on this Site and how that information may be used and disclosed by us.
+Your use of this Site is subject to this Privacy Policy and the [Terms of Use](https://web.archive.org/terms-of-use). This Privacy Policy (together any other documents referred to in this Privacy Policy) describes information that we collect from you or that you provide on this Site and how that information may be used and disclosed by us.
 
 Please read this Privacy Policy and the Terms of Use carefully to understand our policies and practices regarding your personal information and how we will treat it. 
 
