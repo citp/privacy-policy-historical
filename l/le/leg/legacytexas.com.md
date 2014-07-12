@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the legacytexas.com privacy policy that was archived on 2011-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111226222451id_/http%3A//www.legacytexas.com/general/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legacytexas.com privacy policy that was archived on 2014-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140712110441id_/http%3A//www.legacytexas.com/general/privacy-statement) for the most accurate reproduction.*
 
 # LegacyTexas | Privacy Statement
 
@@ -51,7 +51,7 @@ We restrict access to information about you to those employees who need to know 
 
 #### YOUR INFORMATION AND OUR AFFILIATES
 
-We do not disclose information about you to our affiliates.
+We may disclose information about you to our affiliates.  Examples of affilates include, but are not limited to, LegacyTexas Insurance and LegacyTexas Title.
 
 #### YOUR INFORMATION AND OTHER PARTIES
 
@@ -74,14 +74,6 @@ Information you give us on an application or other forms, such as:
 
 We disclose the information listed above with other financial institutions with whom we have joint marketing agreements. You do not have a right to opt out of the disclosure of this information.
 
-State Limitations
-
-AL, AK, CA, ID, and VT – We will not share this information about customers who reside in Alabama, Alaska, California, Idaho, or Vermont.
-
-MA, MS, and NJ – We will not share any information derived from deposit relationships with us about customers who reside in Massachusetts, Mississippi, or New Jersey.
-
-IL – We will not share this information about our customers who reside in Illinois with other parties.
-
 Types of Businesses
 
 We may disclose information pursuant to joint marketing agreements to the following types of businesses:
@@ -96,6 +88,14 @@ Reasons for Disclosing
 
 We may disclose information about you to other financial institutions with whom we have joint marketing agreements to provide you with information about additional products and services.
 
+#### STATE LIMITATIONS
+
+AL, AK, CA, ID, and VT – We will not share this information about customers who reside in Alabama, Alaska, California, Idaho, or Vermont.
+
+MA, MS, and NJ – We will not share any information derived from deposit relationships with us about customers who reside in Massachusetts, Mississippi, or New Jersey.
+
+IL – We will not share this information about our customers who reside in Illinois with other parties.
+
 #### TEXAS NOTICE
 
 This institution is chartered, licensed, or registered under the laws of the State of Texas and by state law is subject to regulatory oversight by the Texas Department of Banking. Any consumer wishing to file a complaint against this institution should contact the Texas Department of Banking.
@@ -107,7 +107,7 @@ Consumers may file complaints with the Texas Department of Banking by contacting
   * In Person or U.S. Mail: 2601 North Lamar Boulevard, Suite 300, Austin, Texas 78705-4294
   * Telephone No.: 877-276-5554
   * Fax No.: 512-475-1313
-  * E-mail: [consumer.complaints@banking.state.tx.us](mailto:consumer.complaints@banking.state.tx.us)
-  * Website: [http://www.banking.state.tx.us](http://www.banking.state.tx.us/)
+  * E-mail: [consumer.complaints@dob.texas.gov](mailto:consumer.complaints@dob.texas.gov)
+  * Website: [http://www.dob.texas.gov](http://www.dob.texas.gov/)
 
 
