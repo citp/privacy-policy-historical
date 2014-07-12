@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instamojo.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214170518id_/https%3A//www.instamojo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instamojo.com privacy policy that was archived on 2014-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140712220744id_/https%3A//www.instamojo.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
