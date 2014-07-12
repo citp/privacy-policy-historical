@@ -1,22 +1,24 @@
-> *The following text is extracted and transformed from the catalink.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327102511id_/http%3A//www.catalink.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catalink.com privacy policy that was archived on 2014-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140712043147id_/http%3A//www.catalink.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Catalink Privacy Policy
 
-**UNSUBSCRIBING**  
+Catalink is a member of the Lifestyle Media Group Ltd, which is registered under the Data Protection Act and as such is committed to respecting your privacy. By joining Catalink your login and password will work on all sites within Lifestyle Media Group. Details of these sites can be found at [www.lmgltd.co.uk](http://www.lmgltd.co.uk/). Please read the following information which outlines our privacy policy.
+
+UNSUBSCRIBING  
 Simply log into your account and then click the **My Details** link at the top of the page and you will be presented with your subscription options. When you join you are automatically opted in to receive information from LMG such as the Catalink and TravelBrochures monthly newsletters. Please visit your **My Details** page if you wish to change these options. When you request information from one of our clients you are automatically opted in to receive future editions of their literature and any special offers both by mail and email, you can alter this option by going to the **My Details** page.  
 **Please Note:** Due to the logistics involved in managing over 2 million members, unsubscribing from all emails can take approximately 30 days.
 
 You will be deemed to have accepted the following terms in relation to any information about yourself which you choose to submit to an LMG website or send to us by any other method (”personal information”). If you do not agree to these terms do not submit any personal information to us. If you wish to discuss our proposed uses of your personal information, or have any comments or complaints please [click here](http://www.catalink.com/contact_us.php).
 
-**COOKIES  
-** Cookies are pieces of data that are often created when you visit a website and which are stored in the cookie directory of your computer. We use cookies to make our websites work more efficiently, as well as to provide information to the owners of the website. Most web browsers allow some control of most cookies through the browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/).
+COOKIES  
+Cookies are pieces of data that are often created when you visit a website and which are stored in the cookie directory of your computer. We use cookies to make our websites work more efficiently, as well as to provide information to the owners of the website. Most web browsers allow some control of most cookies through the browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
 A number of cookie are created when you visit the Catalink website.
 
 Our cookies store the following information to help us enhance your experience of our website: 
 
-**LOG FILES  
-**Log files allow us to record visitors' use of the site.
+LOG FILES  
+Log files allow us to record visitors' use of the site.
 
 We use this information to optimise performance of our website and the information in it, diagnose any problems with it, identify you and gather demographic information on you.
 
