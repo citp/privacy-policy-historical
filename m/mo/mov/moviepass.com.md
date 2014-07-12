@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the moviepass.com privacy policy that was archived on 2012-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121126184529id_/https%3A//www.moviepass.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moviepass.com privacy policy that was archived on 2014-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140712092824id_/http%3A//www.moviepass.com/content/privacy) for the most accurate reproduction.*
 
-# MoviePass
+# Moviepass
 
 This Privacy Policy explains our policy regarding the collection, use and disclosure of your personal information. As we update and expand our services, this policy may change, so please refer back to it periodically. By accessing our website or otherwise using our service, you consent to our information practices.
 
@@ -64,9 +64,10 @@ As we update and expand our services, we may make changes to this policy. You sh
 
 If you have questions concerning your account, please contact Customer Service. If you have questions concerning this Privacy Policy, including the treatment of the personal information associated with your account, please contact: support@MoviePass.com.
 
-MoviePass® 670 Broadway 4th Floor  
+MoviePass®  
+270 Lafayette Suite 500  
 New York, NY 10012  
 877-646-2892   
 www.moviepass.com
 
-Last updated: October 2, 2012
+Last updated: February 4, 2014
