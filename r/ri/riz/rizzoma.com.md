@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rizzoma.com privacy policy that was archived on 2013-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130507113941id_/http%3A//rizzoma.com/about-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rizzoma.com privacy policy that was archived on 2014-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140712025840id_/http%3A//rizzoma.com/about-privacy.html%3Ffrom%3Deducation%26view%3Dprivacy) for the most accurate reproduction.*
 
 # Rizzoma privacy policy
 
@@ -6,14 +6,14 @@
 
 Last updated: January 18, 2013. 
 
-This Privacy Policy describes Rizzoma’s policies and procedures on the collection, use and disclosure of your information when you use the Rizzoma Service. By accessing or using the Service, you agree to this Privacy Policy. Basic and General terms of the service disclosed on [Terms of Use](https://web.archive.org/web/20130507113941id_/http%3A//rizzoma.com/about-terms.html). 
+This Privacy Policy describes Rizzoma’s policies and procedures on the collection, use and disclosure of your information when you use the Rizzoma service. By accessing or using the Service, you agree to this Privacy Policy. Basic and General terms of the service disclosed on [Terms of Use](https://web.archive.org/web/20140712025840id_/http%3A//rizzoma.com/about-terms.html). 
 
   
 
 
 ### Content
 
-You also provide us information in Content you post to the Service. Your Content and metadata about your Content may be viewed by other users in accordance with your settings on the Service. Unless Content is made viewable in accordance with your settings on the Service, Rizzoma and Rizzoma emloyees will not view your content except as described in this Privacy Policy.
+You also provide us information in Content you post to the Service. Your Content and metadata about your Content may be viewed by other users in accordance with your settings. Unless Content is made viewable in accordance with your settings on the Service, Rizzoma and Rizzoma emloyees will not view your content except as described in this Privacy Policy.
 
   
 
@@ -27,7 +27,7 @@ Rizzoma uses information we collect to operate, maintain and provide you the fea
 
 ### Personal Information
 
-You provide us information about yourself, such as your name and e-mail address, if you register for an account with the Service, including by connecting with the Service via a third-party service, or by “following,” “becoming a fan,” adding the Rizzoma application, etc., on a third party website or network. Your name, email address and other information you choose to provide on the Service will be viewable in accordance with your settings on the Service.
+You provide us information about yourself, such as your name and email address, if you register for an account with the Service, including by connecting with the Service via a third-party service, or by “following,” “becoming a fan,” adding the Rizzoma application, etc., on a third-party website or network. Your name, email address and other information you choose to provide on the Service will be viewable in accordance with your settings on the Service.
 
 We may use your email address to send you Service-related notices. We may also use your contact information to send you marketing messages. If you don’t want to receive these messages, you can opt out by following the instructions in the message. If you correspond with us by email, we may retain the content of your email messages, your email address and our responses.
 
@@ -45,7 +45,7 @@ When you use the Service, we may send one or more “cookies” – a small data
 
 ### Log Files
 
-When you use the Service, our servers automatically record certain information sent by your web browser. These server logs may include information such as your web request, Internet Protocol (“IP”) address, browser type, referring / exit pages and URLs, number of clicks and how you interact with links on the Service, domain names, landing pages, pages viewed, mobile carrier, and other such information.
+When you use the Service, our servers automatically record certain information sent by your web browser. These server logs may include information such as your web request, Internet Protocol (IP) address, browser type, referring / exit pages and URLs, number of clicks and how you interact with links on the Service, domain names, landing pages, pages viewed, mobile carrier, and other such information.
 
   
 
@@ -57,9 +57,9 @@ When you use the Service, we may employ clear gifs (also known as web beacons) w
   
 
 
-### Third Party Tools
+### Third-Party Tools
 
-Rizzoma uses third party analytics tools, such as Google Analytics, to help understand use of the Service. Many of these tools collect the information sent by your browser as part of a web page request, including cookies and your IP address. These analytics tools also receive this information and their use of it is governed by their privacy policy.
+Rizzoma uses third-party analytics tools, such as Google Analytics, to help understand use of the Service. Many of these tools collect the information sent by your browser as part of a web page request, including cookies and your IP address. These analytics tools also receive this information and their use of it is governed by their privacy policy.
 
 Rizzoma may use a remarketing tag to advertise online. This means that Google and other third-party vendors may show our ads to you on sites across the Internet. These third-party vendors, including Google, may use cookies to serve ads to you based upon your past visits to our website.
 
@@ -72,14 +72,14 @@ If you would like to opt out of Google’s use of cookies, you can visit the com
 
 ### Service Providers, Business Partners, and Others
 
-Rizzoma may share your personally identifiable information with other third parties with your permission and only after you confirmation of the access request. If we do this, such third parties’ use of your information will be bound by this Privacy Policy. We may also store personal information in locations outside the direct control of Rizzoma (for instance, on servers or databases co-located with hosting providers).
+Rizzoma may share your personally identifiable information with other third-parties with your permission and only after you confirmation of the access request. If we do this, such third-parties’ use of your information will be bound by this Privacy Policy. We may also store personal information in locations outside the direct control of Rizzoma (for instance, on servers or databases co-located with hosting providers).
 
   
 
 
 ### Business Transfers
 
-Customers, email, and visitor information is generally one of the untransferred business assets. Information is strongly connected with rizzoma service and can't be used separatly of rizzoma service.
+Customers' email, and visitor information is one of the untransferred business assets. Information is strongly connected with Rizzoma service and can't be used separately of Rizzoma service.
 
   
 
@@ -93,4 +93,4 @@ Rizzoma may disclose your personal information if required to do so by law or su
 
 ### Non-Personally Identifiable Information
 
-We may disclose your non-private, aggregated, or otherwise non-personally identifiable information, such as anonymous usage data, platform types, etc., with interested third parties to help them understand the usage patterns for certain Rizzoma Services.
+We may disclose your non-private, aggregated, or otherwise non-personally identifiable information, such as anonymous usage data, platform types, etc., with interested third-parties to help them understand the usage patterns for certain Rizzoma Services.
