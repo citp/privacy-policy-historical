@@ -1,115 +1,69 @@
-> *The following text is extracted and transformed from the soluto.com privacy policy that was archived on 2014-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140406155435id_/https%3A//www.soluto.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soluto.com privacy policy that was archived on 2014-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140712165304id_/https%3A//www.soluto.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Soluto | Privacy Policy
+# Privacy Policy
 
-Soluto is committed to your privacy and the confidentiality of your data. This Privacy Policy was created to explain Soluto’s information practices to you (“ **You** ”) in connection with your use of Soluto’s website (“ **Site** ”), software (" **Software** ") and services (" **Services** "). This Privacy Policy forms an integral part of any applicable Terms of Use and End User License Agreements and should be read in conjunction with them. 
+## GENERAL INFORMATION
 
-## **I. Introduction**
+The Soluto.com Site (the "Site") is a website operated by Asurion, LLC ("Asurion"). Asurion respects the privacy of visitors who use the Site. This Privacy Policy describes how We treat Your use of the Site, Your access to Our Site, Software, services or the Soluto Mobile Application and the handling of Your personal information. Asurion reserves the right to revise or update this Privacy Policy at any time, and You agree to be bound by those revisions or updates. Asurion will notify You of any changes to the Privacy Policy by posting the revised or updated Privacy Policy and its Effective Date on the Site. Your use of the Site thereafter constitutes Your agreement to and acceptance of the Privacy Policy and its revisions or updates. You should periodically read the Privacy Policy to learn of any revisions or updates. If You do not agree to any terms of the Privacy Policy, please do not use the Site. 
 
-For the purpose of this Policy:
+## INFORMATION COLLECTION
 
-  * “ **Personal Information** ” means your name, email address, telephone number, picture, or any other information that may be used to identify You as an individual. 
-  * “ **Anonymous Information** ” means technical information from your computer which does not enable identification of You as an individual user. 
-  * “ **Supporter** ” means someone who uses the Soluto Service to provide PC support to another user.
-  * “ **Supportee** ” means someone who receives PC support from a Supporter through the Soluto Service.
+We collect both personally identifiable information and non-personally identifiable information through Your use of the Site, from Your access and use of the SMA and from Your downloading of Software from the Site. 
 
+## NON-PERSONALLY IDENTIFIABLE INFORMATION:
 
+We gather certain broad, non-personally identifiable information ("Non-PII") about use of the Site, including the number of unique visitors to the Site, the frequency with which they visit the Site and the services preferred by those visitors on the Site. We look at the data regarding use of the Site in summary form, rather than on an individual basis. We gather this Non-PII data so We can learn, for example, which pages of the Site are the most and least viewed by visitors and which third-party websites are referring visitors to the Site. The Non-PII data helps Us determine the extent to which visitors use certain parts of the Site and allows Us to tailor the Site in the future. In connection with these activities, We may use the following standard technologies to collect information: 
 
-## **II. How Soluto Collects and Uses Your Personal Information**
-
-This section is designed to provide You with information on how we collect and store your Personal Information. 
-
-You do not need to provide any Personal Information to Soluto in order to have access to our Site. However, in certain cases, You will be required to create a profile on our Site if You wish to interact with the site, such as in the following ways:
-
-  * Making contributions to the Soluto Wiki;
-  * Posting in Soluto’s support forums; and
-  * Using Soluto’s Service to provide support to another user.
+  * **COOKIES:** A cookie is a small, removable data file that is stored by Your web browser on Your computer. We use cookies to, among other things, identify Your computer during a particular visit to the Site and analyze Your behavior during a particular visit. We do not store personal or sensitive information in cookies. Most Web browsers provide You with the ability to accept or decline cookies, as well as to be warned each time a cookie is being sent. If You choose to decline cookies, however, You may not be able to take advantage of all aspects of the Site. 
+  * **PIXEL TAGS:** Pixel tags, also known as beacons or clear GIFs, help Us better manage content on the Site by informing it of what content is effective. Pixel tags are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, pixel tags are embedded invisibly on Web pages. 
+  * **IP ADDRESSES:** We collect and analyze traffic on the Site by keeping track of the IP addresses of its visitors. An IP address is the unique numeric identifier assigned to each computer browser accessing the Internet. An IP address, by itself, cannot identify You personally. However, when combined with other information provided by Your Internet service provider, Your IP address can be used to identify the computer originating a message. 
 
 
 
-If You create a profile, certain information by default will be viewable by the public (“ **Public Profile Information** ”). Certain other information will only be viewable by users who You support using Soluto’s Service (“ **Limited Profile Information”** ). Certain profile information will only be viewable by You (“ **Private Profile Information** ”). Examples of these three categories of information:
+## Remote Access/Quick Question/Chat
 
-  * Public Profile Information: Your profile nickname, your photo and “about me” information. These portions of your profile will be viewable to the public. Any contributions You make to the Soluto Wiki and any of your posts in Soluto’s support forums will be linked to your public profile so You can receive credit to your contributions.
-  * Limited Profile Information: Your email address and telephone number. This information will be shown to users You support using the Service so they can verify your identity. 
-  * Private Profile Information: Your password. This will only be viewable by You. 
+If You use Software or SMA remote access feature, then We will collect additional technical information such as session logs; connect/disconnect events; and other technical information regarding the remote access sessions. If You use the Quick Question feature, We will collect information about the support request, all correspondence and any screenshots You send. If You use the integrated chat feature of the Soluto service, We will collect technical information regarding the chat, such as events related to the initiation of the chat session and number of messages sent during the session. 
 
+## USE OF INFORMATION
 
+We may share both Your personally identifiable information and non-personally identifiable information with Our affiliates, subsidiaries, partners and other third parties, such as third parties who help operate the Site, the Services, the SMA and related databases. We may also use Your Information for: 
 
-For Supporters: if You invite another user to support through Soluto’s Service, You will need to provide Soluto with the email addresses for any users You wish to support. For Supportees: your Supporter will invite You to the Soluto Service by providing your email address to Soluto. This is necessary for Soluto to send You an invitation to use the service. 
-
-If You sign up for any newsletters, emails, or if You respond to any surveys on the Site, You will need to provide Soluto with your email address so we can respond to You via email.
-
-If You purchase any products or services from Soluto, You will provide Soluto or a designated third party payment processor with your payment details (such as your credit card number, billing address, etc.) in order for Soluto to complete the transaction with You.
-
-Any Personal Information provided to Soluto will be collected, used and stored by Soluto in order to provide our Site, Software and Services to You. 
-
-## III. **How Soluto Collects and Uses Anonymous Information from Your PC**
-
-When You install and run Soluto’s Software on your PC, the Software collects, aggregates and transmits technical information about your PC to Soluto so Soluto can provide its Service to its users. Soluto uses this Anonymous Information:
-
-  * To generate crowdsourced PC support recommendations, based on aggregated support actions performed by other Soluto users;
-  * To create the PC Genome, a publicly editable database of hardware and software information collected from millions of Soluto users (the “ **PC Genome** ”);
-  * To analyze real-world PC performance and compatibility using aggregated statistical PC information; and
-  * To provide information regarding PC health and status to Supporters who are performing PC support actions through the Soluto Service.
+  * helping to establish and verify Your identity; 
+  * activating and maintaining Your account; 
+  * billing and resolving billing disputes; 
+  * maintaining and providing data back-up services to You, if applicable; 
+  * providing You with location based services, including the locations of Your current and/or previous devices; 
+  * providing You with Our services, including providing You with technical support to resolve device issues and answer questions about device usage; 
+  * auditing, research and analysis in order to provide, maintain, protect and improve our services; 
+  * responding to Your questions, inquiries, comments and instructions; 
+  * taking good faith steps to enforce our EULA and Terms of Service; and 
+  * maintaining the security and integrity of Our systems. 
+  * Using certain aggregated technical data with PII removed to improve the Services, Software and SMA and maintain and track usage of the Software, the Site and the SMA. 
 
 
 
-This Anonymous Information may include: technical information regarding the hardware and software installed on your PC; PC performance, health, security and update status; technical data regarding PC crashes and user frustration events; information regarding the type of Internet connection, ISP name, country and city; information relating to the installation or uninstallation of hardware and software on the PC and processes running at boot; browser type and configuration; and information regarding the use of Soluto’s Software. 
+By submitting PII to Us, You give Us permission to receive it, review it, edit it, store it and use it in appropriate ways and settings. We will not keep Your PII for any longer than necessary to perform the services. 
 
-Soluto does not store your IP address or transmit any Personal Information from your computer. Soluto does not collect, transmit or store your browsing history; bookmarks; cookies; emails; or any other information regarding the content You create, view or share on your PC.
+## SHARING OF PII AND NON-PII
 
-Anonymous Information from your PC will be collected by Soluto’s Software and transmitted for storage in the PC Genome. In the aggregate, this information will be available in statistical form for other users to view and edit. Soluto also reserves the right to use, share or provide aggregated or statistical Anonymous Information with third parties. Anonymous information will be shared between the Supporter and Supportee who have an active support relationship using the Soluto Service in order to provide support using the Service. 
+For the purpose of operating Our business, We may transfer PII and Non-PII to service providers who use that information only to provide services to Us. For example, service providers may handle e-mail distribution, market research, information analysis and promotions management on Our behalf. We may also share PII and Non-PII in order to administer the Services, the SMA or the Site. We provide Our service providers with the information they need to perform their services and work with them to protect Your information. In order to better understand Your preferences and better serve You, We may combine information that We receive from You with information that it has or that it receives from other sources, transactions and communications. This may include information from the Site, as well as information from Our contractors, direct mailings, events or other marketing efforts. We also may combine the information that it receives from You with data that is publicly available and data that it receives from other reputable sources. 
 
-## IV. **Handling of Personal Information and Anonymous Information**
+## TRANSFER OF PII AND NON-PII
 
-Soluto implements technical and operational safeguards to maintain the integrity and privacy of your Personal and Anonymous Information. Your information can only be accessed within Soluto by authorized employees who need to have access to the data in order to be able to fulfill their given duties. 
+We may transfer to or share Your PII and any Non-PII with an affiliate or third party as part of a transfer of business assets. Such a transfer would be within the scope of this Privacy Policy so long as the affiliate or third party agrees to continue to maintain use and storage of Your PII in accordance with this Privacy Policy. 
 
-## **V. Miscellaneous**
+## Children Under 13
 
-### Cookies, Advertising and Other Tracking Technologies
+The Services, Software and SMA provided by Us are not directed to persons under 13. We do not knowingly collect Personal Information or Data from children under 13. If You become aware that Your child is accessing our Site or Services and providing Data or Personal Information without Your consent, please contact us at [privacy@asurion.com](mailto:privacy@asurion.com). We will take steps to remove Personal Information and Data from Our Storage Systems and terminate the account should We determine that a child under 13 has accessed our Services, Software or SMA. 
 
-Like most sites on the Internet, some portions of our Site and some of the emails we send utilize third-party “cookies" and other tracking technologies. A "cookie" is a small text file transferred to your device that may be used, for example, to collect information about Site activity and in case of registered profile, to save registration ID and login password for future logins to the Site. In addition, these tracking technologies may track your IP address or usage of our Site or emails.
+## ONLINE ADVERTISEMENTS
 
-Our Services may use a third party to present or serve advertisements that You may see on our Site. These third party ad servers may use cookies, web beacons, clear gifs or similar technologies to help present such advertisements, and to help measure and research the advertisements' effectiveness. The use of these technologies by these third party ad servers is subject to their own privacy policies and is not covered by our Privacy Policy.
+We work with other companies that use tracking technologies to serve ads on its behalf across the Internet. Those companies may collect Non-PII about Your visits to the Site and Your interaction with Us, including advertisements. Our advertising partners may use cookies and pixel tags on the Site and on third party websites on which Our advertisements appear, which allows those partners to track certain information about user behavior, such as "click stream data." Any use of information by an advertising partner would be governed by their privacy policy, so You should become familiar with those policies prior to responding to online advertisements. 
 
-### Instant Messaging and Communications
+## MESSAGES
 
-Soluto may allow You to send messages to other users, either through Soluto’s Site, Software or Services. Soluto does not actively monitor or read the content of these messages, although Soluto may from time to time access these messages in order to improve the quality of our Site, Software and Services.
+We may use email or SMS communications to communicate information about Your usage and Our services. These emails may include: service-related emails; alerts and notifications; tips and tricks for using Our products and services; newsletters and updates. By using Our software or service, You expressly consent to receive these messages from Us. You may unsubscribe from individual emails by clicking on the “unsubscribe” link contained at the bottom of Our emails. 
 
-### Third-Party Providers
+## CONTACT US
 
-Soluto does not rent, sell or share your Personal Information with other people or non-affiliated companies except to provide You with products or services that You have requested. Soluto may use certain third party companies and individuals to help Soluto provide, analyze, and improve its Site, Software and Services (including but not limited to, billing service providers, user authentication, data storage, maintenance services, database management, web analytics, email providers, survey providers, and others). To the extent that Soluto exchanges information with these third parties, the information will be exchanged in accordance with the Terms of Use, Privacy Policies, and APIs of these third parties. In addition, to the extent that Soluto shares your information with the third parties, these third parties will be provided access to your information only for purposes of performing these tasks on Soluto's behalf.
-
-### Removal From Mailing Lists and Modification of Personal Information
-
-You may easily remove yourself from our mailing list. Each email You will receive from us will contain clear instructions on how to remove yourself. In addition, Personal Information You provide under your profile can always be reviewed, updated, corrected or deleted by You and it is your responsibility to maintain such Personal Information accurately and completely at all times.
-
-### Links to Other Sites
-
-Our Services may contain links to other sites. Other sites may also reference or link to our Site. We are not responsible for the privacy practices or the content of such other sites.
-
-### Children's Privacy
-
-Soluto’s Site, Software and Services are not designed or intended for children under the age of 13. In addition, Soluto’s Terms of Use prohibit users under the age of 13. Further, Soluto does not intend to collect Personal Information from anyone we know to be under 13 years of age. 
-
-### Modification of Privacy Policy
-
-Soluto reserves the right to modify this Privacy Policy at any time by providing such revised terms to You or by publishing the revised terms on Soluto’s Site. The revised Privacy Policy shall become effective within ten (10) days of such publishing or provision to You, whichever is the first to occur unless You expressly accept the revised terms earlier. The express acceptance by You, or Your continued use of any of Soluto’s Software or Services after the expiry of the notice period of ten (10) days, shall constitute Your acceptance to be bound by the terms and conditions of the revised Privacy Policy.
-
-### Change of Control or Ownership of the Company
-
-In the event of a change in ownership of the company, acquisition, merger, bankruptcy, liquidation, or sale of assets, Soluto or any successor or third party entity may transfer or assign any Personal or Anonymous Information as part of such transaction. In that event, any such information will be subject to the Privacy Policy of the successor or third party entity.
-
-### Disclosure of Personal Information, When Required by Law
-
-We reserve the right to disclose your information to third parties to the extent required if we have a good faith belief that disclosure of such information is required or reasonably necessary to: i) comply with any applicable law, regulation, legal process or governmental request, ii) enforce our Terms of Use and/or End User License Agreement or any other license agreement of Soluto You have agreed to be bound by, including investigations of potential violations thereof, iii) detect, prevent, or otherwise address fraud, or security issues, or iv) protect against harm to the rights, property or safety of Soluto, its users, yourself or the public. Soluto reserves the right to retain and use your information as necessary to comply with its legal obligations, resolve disputes, and enforce Soluto's agreements.
-
-### Soluto’s Commitment to You
-
-Soluto is committed to protecting your privacy. Protecting your privacy is an evolving area, and Soluto is constantly evolving to meet these demands. Furthermore, no method of Internet transmission or storage is perfect or impenetrable and Soluto cannot guarantee absolute security. 
-
-By using Soluto’s Site, Software or Services, You expressly agree that Soluto will not be liable for any third party action, misuse, abuse or infringement of data and information security. 
-
-If You have any comments or questions regarding our Privacy Policy, please contact us via [privacy@soluto.com](mailto:privacy@soluto.com). While we cannot guarantee privacy perfection, we will address any issue to the best of our abilities as soon as possible.
-
-Last modified: December 13, 2011
+If You have any questions about the Privacy Policy, You may contact Us by e-mail at [privacy@asurion.com](mailto:privacy@asurion.com). 
