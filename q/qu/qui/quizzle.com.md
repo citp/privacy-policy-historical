@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quizzle.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326160452id_/https%3A//www.quizzle.com/security-and-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quizzle.com privacy policy that was archived on 2014-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140712031633id_/https%3A//www.quizzle.com/security-and-privacy) for the most accurate reproduction.*
 
 # Security & Privacy | Quizzle
 
@@ -6,7 +6,7 @@
 
 At Quizzle®, we respect and protect the privacy of those who visit or use our web site. When we collect information from you, we want you to know how it is used. To demonstrate our commitment to fair information practices, we have adopted leading industry privacy guidelines.
 
-Quizzle does not share your personal information outside the Quizzle family of companies for promotional use.
+Quizzle does not share your personal information outside the Quizzle Family of Companies for promotional use.
 
 Because of the financial nature of our business, our web sites are not designed to appeal to children under the age of 13. Therefore, we don’t knowingly attempt to solicit or receive any information from children.
 
@@ -24,11 +24,11 @@ At Quizzle, we want you to be comfortable and confident when using our web site.
 
 ### We Provide You Notice of Our Web Site Information Practices.
 
-To maximize the value of our services, we may request information from you when you visit our web sites. Quizzle does not share your personal information outside the Quizzle family of companies for promotional use.
+To maximize the value of our services, we may request information from you when you visit our web sites. Quizzle does not share your personal information outside the Quizzle Family of Companies for promotional use.
 
 Here is a description of the information we collect and how it is used:
 
-  * **Tools, Applications and Registration:** In order to use our services, we will ask you to register at the site and supply other identifying and supporting information needed to use the site. By registering, you can save information for later review and update. When you register, you will choose a user ID name by which we will know you, a password and provide us an e-mail address. You use the user ID name and password to gain access to your information, financial profile and/or customized loan options. We use your contact information to provide you with alerts and updates regarding our service. Quizzle does not share your information outside the Quizzle family of companies for promotional use.
+  * **Tools, Applications and Registration:** In order to use our services, we will ask you to register at the site and supply other identifying and supporting information needed to use the site. By registering, you can save information for later review and update. When you register, you will choose a user ID name by which we will know you, a password and provide us an e-mail address. You use the user ID name and password to gain access to your information, financial profile and/or customized loan options. We use your contact information to provide you with alerts and updates regarding our service. Quizzle does not share your information outside the Quizzle Family of Companies for promotional use.
 
 
 
@@ -39,13 +39,13 @@ Here is a description of the information we collect and how it is used:
 
   * **Interactive Help (Chat / PC to Phone):** You may be given the opportunity to initiate an online interactive discussion or PC to Phone communication with a Quizzle support professional. We do not ask for any personally identifiable information to use this service; if you volunteer personally identifiable information, it will only be used to respond to your request. We maintain transcripts of chat sessions.
 
-  * **Phone Calls:** We will not telephone you unless you request to be called. Within the Quizzle Web site, we provide you the opportunity to make inquiries as to programs and services offered by Quizzle and partners of Quizzle, and to give Quizzle and partners of Quizzle permission to contact you by telephone or fax, even if your telephone number is on the “Do Not Call” list. If you subsequently wish to opt-out from receiving telephone calls from Quizzle, you may opt-out.
+  * **Phone Calls:** Within the Quizzle Web site, we provide you the opportunity to make inquiries as to programs and services offered by Quizzle and partners of Quizzle, and to give Quizzle and partners of Quizzle permission to contact you by telephone or fax, even if your telephone number is on the “Do Not Call” list. If you subsequently wish to opt-out from receiving telephone calls from Quizzle, you may opt-out.
 
   * **Mandatory and Optional Information:** We identify what information is required to fulfill your request. If you chose not to provide mandatory information, we will not be able to provide you the service you are requesting.
 
   * **E-mail Message Formatting:** When sending you e-mail we may use an image called a single-pixel GIF, that allows us to (1) format messages that best align with your computer’s capabilities, and (2) determine whether you’ve opened an HTML e-mail. When you click on a link within an e-mail message, you will first pass through our server, and then are redirected onto the Internet. We use this data on an aggregate level to evaluate response rates to our e-mail messages and to determine which links are most useful to our customer base.
 
-  * **Within the Quizzle Family:** Within the Quizzle family, which includes Quicken Loans, One Reverse Mortgage, In-House Realty, Title Source, Inc., and [other partners](https://www.quizzle.com/company/partners), we may exchange customer information to fulfill your requests or to provide you with information about other products or services, if you have chosen to receive such communications.
+  * **Within the Quizzle Family:** Within the Quizzle family, which includes Quicken Loans, One Reverse Mortgage, In-House Realty, Title Source, Inc., Rock Connections and [other partners](https://www.quizzle.com/company/partners), we may exchange customer information to fulfill your requests or to provide you with information about other products or services, if you have chosen to receive such communications.
 
   * **Service Providers:** In some cases, we will employ or use service providers such as title companies, appraisers, consultants, temporary workers, third party software developers, to complete a business process or provide a service on our behalf. For example, we may use service providers to enhance our Web site technology, deliver products, or to send e-mails. When we employ service providers, we may need to share your personally identifiable information. Service providers are strictly prohibited from using your personally identifiable information for purposes other than to act on our behalf.
 
@@ -93,7 +93,7 @@ If you simply want to browse, you do not have to accept cookies from our site. S
 
   * **Web Site Usage Data:** Our web site tracks usage data, including, for example, your IP address, your browser type and version, which pages you view, which page, if any, linked you to our site, and which link, if any, you follow off of our site. We use this data in the aggregate and on an individual level to better understand web site activity to improve our site offerings, to reconstruct activity from a session or by a user, for troubleshooting and issue resolution purposes. We may also use this data to provide you a more personalized web site experience, or for assistance with technical support questions.
 
-We do not share your information outside the Quizzle Family of companies for promotional use. We do not track URLs that you type into your browser, nor do we track you across the Internet once you leave our site.
+We do not share your information outside the Quizzle Family of Companies for promotional use. We do not track URLs that you type into your browser, nor do we track you across the Internet once you leave our site.
 
 
 
