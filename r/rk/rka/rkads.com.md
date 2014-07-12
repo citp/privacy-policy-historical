@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rkads.com privacy policy that was archived on 2012-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120430173209id_/http%3A//adigniter.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rkads.com privacy policy that was archived on 2014-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140712211214id_/http%3A//www.adigniter.org/privacy.html) for the most accurate reproduction.*
 
 # Ad Igniter
 
