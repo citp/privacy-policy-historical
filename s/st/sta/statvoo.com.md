@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the statvoo.com privacy policy that was archived on 2013-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131107023311id_/http%3A//www.statvoo.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statvoo.com privacy policy that was archived on 2014-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140712023953id_/https%3A//www.statvoo.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy > Statvoo.com | The Website Traffic Monitor
+# Privacy Policy > Statvoo.com | Advanced Realtime Website Analytics
 
 Your privacy is of paramount importance to Statvoo. This policy applies to all products and services offered by Statvoo.
 
