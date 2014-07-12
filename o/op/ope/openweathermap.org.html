@@ -1,0 +1,726 @@
+<!--The following is the downloaded HTML source of the openweathermap.org privacy policy that was archived on 2014-07-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140712141849id_/http%3A//openweathermap.org/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta charset="utf-8">
+    <!--<meta http-equiv="X-UA-Compatible" content="IE=edge">-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta name="keywords" content="weather, world, Openstreetmap, forecast, Openweather, current">
+    <meta name="description" content="Current weather conditions in cities for world wide">
+    <meta name="author" content="OpenWeatherMap.org">
+    <meta name="domain" content="OpenWeatherMap.org">
+    <meta http-equiv="pragma" content="no-cache">
+    <meta http-equiv="Expires" content="-1">
+
+    <title>Privacy policy</title>
+
+    <!-- Bootstrap core CSS -->
+    <!--<link href="css/bootstrap.css" rel="stylesheet"> -->
+
+    <!-- Custom styles for this template -->
+    <link href="/combine/2d1ec0bff739ea2de57537cf990a5210-1393490950" rel="stylesheet">
+    
+    <link href="/combine/86b8f8664288d19eab1f225948dde6f1-1402933099" rel="stylesheet">
+
+    
+    <!-- Resources -->
+    <link href="http://fonts.googleapis.com/css?family=Oswald:400,700,300" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Roboto:400,700,500,400italic,500italic,700italic" rel="stylesheet" type="text/css">
+
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/combine/27dc07f30b9f9e5b48fabf61e408ef7a-1360337710"></script>
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-31601618-1']);
+  _gaq.push(['_setDomainName', 'openweathermap.org']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<script type="text/javascript">
+function ShowSuccessMess(mess)
+{
+	var html = '<div class="alert alert-success" ><a class="close" data-dismiss="alert" href="#">×</a>'+mess+'</div>';
+	$("#alert_body").html(html);
+}
+
+function ShowInfoMess(mess)
+{
+	var html = '<div class="container"><div class="row"><div class="col-md-12"><div class="panel-body">';
+	html = html + '<div class="alert alert-info" ><a class="close" data-dismiss="alert" href="#">×</a>'+mess+'</div>';
+	html = html + '</div></div></div></div>';
+	$("#notes_block").html(html);
+}
+
+function ShowAlertMess(mess)
+{
+	var html = '<div class="alert alert-error" ><a class="close" data-dismiss="alert" href="#">×</a>'+mess+'</div>';
+	$("#alert_body").html(html);
+}
+
+function  errorHandler(e)
+{
+    console.log(e);
+	ShowAlertMess(e.status +' '+e.statusText);
+}
+
+
+function ParseJson(JSONtext)
+{
+	try{
+		JSONobject = JSON.parse(JSONtext); 
+	}catch(e){
+		ShowAlertMess('Error JSON');
+		return;
+	}
+
+	if(JSONobject.cod != '200') {
+		ShowAlertMess('Error '+ JSONobject.cod + ' ('+ JSONobject.message +')');
+		return;
+	}
+	var mes = JSONobject.cod;
+	if(JSONobject.calctime)
+		mes = mes + ' ' + JSONobject.calctime;
+	if(JSONobject.message)
+		mes = mes + ' ' + JSONobject.message;
+	console.log( mes );
+	return JSONobject;
+}
+function set_cookie(name, value, expires)
+{
+if (!expires)
+{
+expires = new Date();
+}
+document.cookie = name + "=" + escape(value) + "; expires=" + expires.toGMTString() +  "; path=/";
+}
+
+function get_cookie(name) {
+    var matches = document.cookie.match(new RegExp(
+        "(?:^|; )" + name.replace(/([\.$?*|{}\(\)\[\]\\\/\+^])/g, '\\$1') + "=([^;]*)"
+      ))
+  return matches ? decodeURIComponent(matches[1]) : undefined
+}
+function set_lang(lang)
+{
+	expires = new Date();
+	expires.setTime(expires.getTime() + (1000 * 60 * 60 * 24));	
+	set_cookie('lang', lang, expires);
+	window.location.reload();
+}
+
+function set_units()
+{
+  var units = 'metric';
+  if( document.getElementById("units_check").checked ) units = 'imperial';
+  expires = new Date();         
+  expires.setTime(expires.getTime() + (1000 * 60 * 60 * 24)); 
+  set_cookie('units', units, expires);
+  window.location.reload();
+}
+
+</script>
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
+  </head>
+
+  <body class="body-orange">
+
+    <!-- Extra Bar -->
+    <div class="mini-navbar mini-navbar-dark hidden-xs">
+      <div class="container">
+        <div class="col-sm-10">
+          <a href="mailto:info@openweathermap.org" class="first-child"><i class="fa fa-envelope"></i> Email<span class="hidden-sm">: info@openweathermap.org</span></a>
+
+          <a href="/register" class="pull-right" onclick="_gaq.push(['_trackEvent', 'Navbar', 'Main', 'register']);"><i class="fa fa-arrow-circle-down"></i> Sign Up</a>
+          <a href="/signin" class="pull-right" onclick="_gaq.push(['_trackEvent', 'Navbar', 'Main', 'signin']);"><i class="fa fa-sign-in"></i> Sign In</a>
+          
+          <a href="#" class="pull-right" id="nav-search"><i class="fa fa-search" onclick="_gaq.push(['_trackEvent', 'Navbar', 'Main', 'search']);"></i> Weather in your city</a>
+          <a href="#" class="pull-right hidden" id="nav-search-close"><i class="fa fa-times"></i></a>
+          <!-- Search Form -->
+
+          <form class="pull-right hidden" role="search" id="nav-search-form" action="/find" method="get">
+            <div class="input-group">
+              <input type="text" class="form-control" placeholder="Search" id="q" name="q">
+              <span class="input-group-btn">
+                <button type="submit" class="btn btn-default"><i class="fa fa-search"></i></button>
+              </span>
+            </div>
+          </form>
+        </div>
+        <div class="col-sm-2">
+<label class="toggle candy blue" style="width:100px" onclick="">
+    <input id="units_check" type="checkbox">
+    <p onclick="set_units()">
+      <span>&nbsp; °C &nbsp;</span>
+      <span>&nbsp; °F &nbsp;</span>
+    </p>  
+    <a class="slide-button"></a>
+  </label>  
+        </div>
+        
+      </div>
+    </div>
+
+    <div id="undefined-sticky-wrapper" class="sticky-wrapper" style="height: 75px;"><div class="navbar navbar-dark navbar-static-top" role="navigation">
+      <div class="container">
+        <!-- Navbar Header -->
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+        
+          <a class="navbar-brand" href="/">
+          <img src="/themes/demo/assets/vendor/owm/images/OWM_logo32_32.png" style="vertical-align:bottom">
+            OpenWeatherMap<span class="hidden-sm"></span></a>
+        </div> <!-- / Navbar Header -->
+
+        <!-- Navbar Links -->
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav navbar-right">
+            <li><a href="/" class="bg-hover-color" onclick="_gaq.push(['_trackEvent', 'Navbar', 'Main', 'home']);">Home</a></li>
+            <li><a href="/city" class="bg-hover-color" onclick="_gaq.push(['_trackEvent', 'Navbar', 'Main', 'weather']);">Weather</a></li>
+            <li><a href="/maps" class="bg-hover-color" onclick="_gaq.push(['_trackEvent', 'Navbar', 'Main', 'maps']);">Maps</a></li>
+            <li><a href="/api" class="bg-hover-color" onclick="_gaq.push(['_trackEvent', 'Navbar', 'Main', 'api']);">API</a></li>
+            <li><a href="/price" class="bg-hover-color" onclick="_gaq.push(['_trackEvent', 'Navbar', 'Main', 'price']);">Price</a></li>
+            <li><a href="/technology" class="bg-hover-color" onclick="_gaq.push(['_trackEvent', 'Navbar', 'Main', 'technology']);">Technology</a></li>
+            <li><a href="/stations" class="bg-hover-color" onclick="_gaq.push(['_trackEvent', 'Navbar', 'Main', 'station']);">Stations</a></li>
+            <li><a href="/news" class="bg-hover-color" onclick="_gaq.push(['_trackEvent', 'Navbar', 'Main', 'news']);">News</a></li>
+
+            <!--
+            <li><a href="http://openweathermap.org/help/design/" class="bg-hover-color">Partners</a></li>
+            -->
+          </ul>
+
+          <!-- Search Form (xs) -->
+          <form class="navbar-form navbar-left visible-xs" role="search">
+            <div class="form-group">
+              <input type="text" class="form-control" placeholder="Search">
+            </div>
+            <button type="submit" class="btn btn-default">Go!</button>
+          </form> <!-- / Search Form (xs) -->
+
+        </div> <!-- / Navbar Links -->
+      </div> <!-- / container -->
+    </div></div> <!-- / navbar -->
+
+    <div id="notes_block"></div>
+    <!-- Wrapper -->
+    <div class="wrapper">
+      <!-- Topic Header -->
+
+          <div class="topic">
+        <div class="container">
+          <div class="row">
+            <div class="col-sm-4">
+              <h3 class="primary-font">Privacy policy</h3>
+            </div>
+            <div class="col-sm-8">
+              <ol class="breadcrumb pull-right hidden-xs">
+                                                            <li><a href="/">Home</a></li>
+                                                                                <li class="active">Privacy policy</li>
+                                                  
+              </ol>
+            </div>
+          </div>
+        </div>
+      </div>
+    
+    <div class="container">
+<div class="row">
+<div class="col-sm-12">
+    <h2 class="headline first-child text-color">
+        <span class="border-color">Privacy policy</span>
+    </h2>
+
+
+<h3>
+    1. Introduction
+</h3>
+<p>
+    1.1 We are committed to safeguarding the privacy of our website visitors; in this policy we explain how we will treat your personal information.
+</p>
+<p>
+    1.2 We will ask you to consent to our use of cookies in accordance with the terms of this policy when you first visit our website. / By using our website
+    and agreeing to this policy, you consent to our use of cookies in accordance with the terms of this policy.
+</p>
+<h3>
+    2. Collecting personal information
+</h3>
+<p>
+    2.1 We may collect, store and use the following kinds of personal information:
+</p>
+<ul>
+<li>
+    information about your computer and about your visits to and use of this website including your IP address, geographical location, browser type and
+    version, operating system, referral source, length of visit, page views and website navigation paths;
+</li><li>
+    information that you provide to us when registering with our website including your email address;
+</li><li>
+    information that you provide when completing your profile on our website including your name, profile pictures, gender, date of birth, relationship
+    status, interests and hobbies, educational details and employment details;
+</li><li>
+    information that you provide to us for the purpose of subscribing to our email notifications and/or newsletters including your name and email
+    address;
+</li><li>
+    information that you provide to us when using the services on our website, or that is generated in the course of the use of those services including
+    the timing, frequency and pattern of service use;
+</li><li>
+    information relating to any purchases you make of our goods / services / goods and/or services or any other transactions that you enter into through
+    our website including your name, address, telephone number, email address and card details;
+</li><li>
+    information that you post to our website for publication on the internet including your user name, your profile pictures and the content of your
+    posts;
+</li><li>
+    information contained in or relating to any communications that you send to us or send through our website including the communication content and
+    meta data associated with the communication;
+</li><li>
+    any other personal information that you choose to send to us; and
+</li><li>
+    provide details of other personal information collected.
+</li></ul>
+<p></p><p>
+    2.2 Before you disclose to us the personal information of another person, you must obtain that person's consent to both the disclosure and the processing
+    of that personal information in accordance with this policy.
+</p>
+<h3>
+    3. Using your personal information
+</h3>
+<p>
+    3.1 Personal information submitted to us through our website will be used for the purposes specified in this policy or on the relevant pages of the
+    website.
+</p>
+<p>
+    3.2 We may use your personal information to:
+</p>
+<ul><li>
+    administer our website and business;
+</li><li>
+    personalise our website for you;
+</li><li>
+    enable your use of the services available on our website;
+</li><li>
+    send you goods purchased through our website;
+</li><li>
+    supply to you services purchased through our website;
+</li><li>
+    send statements, invoices and payment reminders to you, and collect payments from you;
+</li><li>
+    send you non-marketing commercial communications;
+</li><li>
+    send you email notifications that you have specifically requested;
+</li><li>
+    send you our email newsletter, if you have requested it you can inform us at any time if you no longer require the newsletter;
+</li><li>
+    send you marketing communications relating to our business or the businesses of carefully-selected third parties which we think may be of interest
+    to you, by post or, where you have specifically agreed to this, by email or similar technology you can inform us at any time if you no longer require
+    marketing communications;
+</li><li>
+    provide third parties with statistical information about our users but those third parties will not be able to identify any individual user from that
+    information;
+</li><li>
+    deal with enquiries and complaints made by or about you relating to our website;
+</li><li>
+    keep our website secure and prevent fraud;
+</li><li>
+    verify compliance with the terms and conditions governing the use of our website including monitoring private messages sent through our website
+    private messaging service; and
+</li><li>
+    other uses.
+    </li></ul>
+<p></p>
+<p>
+    3.3 If you submit personal information for publication on our website, we will publish and otherwise use that information in accordance with the licence
+    you grant to us.
+</p>
+<p>
+    3.4 Your privacy settings can be used to limit the publication of your information on our website, and can be adjusted using privacy controls on the
+    website.
+</p>
+<p>
+    3.5 We will not, without your express consent, supply your personal information to any third party for the purpose of their or any other third party's
+    direct marketing.
+</p>
+<p>
+    3.6 All our website financial transactions are handled through our payment services provider, PSP name. You can review the provider's privacy policy at
+    URL. We will share information with our payment services provider only to the extent necessary for the purposes of processing payments you make via our
+    website, refunding such payments and dealing with complaints and queries relating to such payments and refunds.
+</p>
+<h3>
+    4. Disclosing personal information
+</h3>
+<p>
+    4.1 We may disclose your personal information to any of our employees, officers, insurers, professional advisers, agents, suppliers or subcontractors
+    insofar as reasonably necessary for the purposes set out in this policy.
+</p>
+<p>
+    4.2 We may disclose your personal information to any member of our group of companies this means our subsidiaries, our ultimate holding company and all
+    its subsidiaries insofar as reasonably necessary for the purposes set out in this policy.
+</p>
+<p>
+    4.3 We may disclose your personal information:
+</p>
+<ul><li>
+    to the extent that we are required to do so by law;
+</li><li>
+    in connection with any ongoing or prospective legal proceedings;
+</li><li>
+    in order to establish, exercise or defend our legal rights including providing information to others for the purposes of fraud prevention and reducing
+    credit risk;
+</li><li>
+    dto the purchaser or prospective purchaser of any business or asset that we are or are contemplating selling; and
+</li><li>
+    to any person who we reasonably believe may apply to a court or other competent authority for disclosure of that personal information where, in our
+    reasonable opinion, such court or authority would be reasonably likely to order disclosure of that personal information.
+</li></ul><p></p>
+<p>
+    4.4 Except as provided in this policy, we will not provide your personal information to third parties.
+</p>
+<h3>
+    5. International data transfers
+</h3>
+<p>
+    5.1 Information that we collect may be stored and processed in and transferred between any of the countries in which we operate in order to enable us to
+    use the information in accordance with this policy.
+</p>
+<p>
+    5.2 Information that we collect may be transferred to the following countries which do not have data protection laws equivalent to those in force in the
+    European Economic Area: the United States of America, Russia, Japan, China and India.
+</p>
+<p>
+    5.3 Personal information that you publish on our website or submit for publication on our website may be available, via the internet, around the world. We
+    cannot prevent the use or misuse of such information by others.
+</p>
+<p>
+    5.4 You expressly agree to the transfers of personal information described in this Section 6.
+</p>
+<h3>
+    6. Retaining personal information
+</h3>
+<p>
+    6.1 This Section 7 sets out our data retention policies and procedure, which are designed to help ensure that we comply with our legal obligations in
+    relation to the retention and deletion of personal information.
+</p>
+<p>
+    6.2 Personal information that we process for any purpose or purposes shall not be kept for longer than is necessary for that purpose or those purposes.
+</p>
+<p>
+    6.3 Without prejudice to Section 7.2, we will usually delete personal data falling within the categories set out below at the date/time set out below:
+</p>
+<ul><li>
+    personal data type will be deleted date/time; and
+</li><li>
+    repeat as necessary.
+</li></ul><p></p>
+<p>
+    6.4 Notwithstanding the other provisions of this Section 7, we will retain documents including electronic documents containing personal data:
+</p>
+<ul><li>
+    to the extent that we are required to do so by law;
+</li><li>
+    if we believe that the documents may be relevant to any ongoing or prospective legal proceedings; and
+</li><li>
+    in order to establish, exercise or defend our legal rights including providing information to others for the purposes of fraud prevention and reducing
+    credit risk.
+    </li></ul>
+<p></p>
+<h3>
+    7. Security of your personal information
+</h3>
+<p>
+    7.1 We will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information.
+</p>
+<p>
+    7.2 We will store all the personal information you provide on our secure password- and firewall-protected servers.
+</p>
+<p>
+    7.3 All electronic financial transactions entered into through our website will be protected by encryption technology.
+</p>
+<p>
+    7.4 You acknowledge that the transmission of information over the internet is inherently insecure, and we cannot guarantee the security of data sent over
+    the internet.
+</p>
+<p>
+    7.5 You are responsible for keeping the password you use for accessing our website confidential; we will not ask you for your password except when you
+    log in to our website.
+</p>
+<h3>
+    8. Amendments
+</h3>
+<p>
+    8.1 We may update this policy from time to time by publishing a new version on our website.
+</p>
+<p>
+    8.2 You should check this page occasionally to ensure you are happy with any changes to this policy.
+</p>
+<p>
+    8.3 We may notify you of changes to this policy by email or through the private messaging system on our website.
+</p>
+<h3>
+    9. Your rights
+</h3>
+<p>
+    9.1 You may instruct us to provide you with any personal information we hold about you; provision of such information will be subject to:
+</p>
+<ul><li>
+    the payment of a fee; and
+</li><li>
+    the supply of appropriate evidence of your identity for this purpose, we will usually accept a photocopy of your passport certified by a solicitor or
+    bank plus an original copy of a utility bill showing your current address.
+</li></ul>
+<p>
+    9.2 We may withhold personal information that you request to the extent permitted by law.
+</p>
+<p>
+    9.3 You may instruct us at any time not to process your personal information for marketing purposes.
+</p>
+<p>
+    9.4 In practice, you will usually either expressly agree in advance to our use of your personal information for marketing purposes, or we will provide you
+    with an opportunity to opt out of the use of your personal information for marketing purposes.
+</p>
+<h3>
+    10. Third party websites
+</h3>
+<p>
+    10.1 Our website includes hyperlinks to, and details of, third party websites.
+</p>
+<p>
+    10.2 We have no control over, and are not responsible for, the privacy policies and practices of third parties.
+</p>
+<h3>
+    11. Updating information
+</h3>
+<p>
+    11.1 Please let us know if the personal information that we hold about you needs to be corrected or updated.
+</p>
+<h3>
+    12. Cookies
+</h3>
+<p>
+    12.1 Our website uses cookies.
+</p>
+<p>
+    12.2 A cookie is a file containing an identifier a string of letters and numbers that is sent by a web server to a web browser and is stored by the
+    browser. The identifier is then sent back to the server each time the browser requests a page from the server.
+</p>
+<p>
+    12.3 Cookies may be either "persistent" cookies or "session" cookies: a persistent cookie will be stored by a web browser and will remain valid until its
+    set expiry date, unless deleted by the user before the expiry date; a session cookie, on the other hand, will expire at the end of the user session, when
+    the web browser is closed.
+</p>
+<p>
+    12.4 Cookies do not typically contain any information that personally identifies a user, but personal information that we store about you may be linked to
+    the information stored in and obtained from cookies.
+</p>
+<p>
+    12.5 We use only session cookies / only persistent cookies / both session and persistent cookies on our website.
+</p>
+<p>
+    12.6 The names of the cookies that we use on our website, and the purposes for which they are used, are set out below:
+</p>
+<ul><li>
+    we use cookie name on our website to recognise a computer when a user visits the website / track users as they navigate the website / enable the use
+    of a shopping cart on the website / improve the website's usability / analyse the use of the website / administer the website / prevent fraud and improve
+    the security of the website / personalise the website for each user / target advertisements which may be of particular interest to specific users /
+    describe purposes;
+</li><li>
+    repeat as necessary.
+</li></ul>
+<p>
+    12.7 Most browsers allow you to refuse to accept cookies; for example:
+</p>
+<ul><li>
+    in Internet Explorer version 10 you can block cookies using the cookie handling override settings available by clicking "Tools", "Internet Options",
+    "Privacy" and then "Advanced";
+</li><li>
+    in Firefox version 24 you can block all cookies by clicking "Tools", "Options", "Privacy", selecting "Use custom settings for history" from the
+    drop-down menu, and unticking "Accept cookies from sites"; and
+</li><li>
+    in Chrome version 29, you can block all cookies by accessing the "Customise and control" menu, and clicking "Settings", "Show advanced settings" and
+    "Content settings", and then selecting "Block sites from setting any data" under the "Cookies" heading.
+</li></ul>
+<p>
+    12.8 Blocking all cookies will have a negative impact upon the usability of many websites.
+</p>
+<p>
+    12.9 If you block cookies, you will not be able to use all the features on our website.
+</p>
+<p>
+    12.10 You can delete cookies already stored on your computer; for example:
+</p>
+<ul><li>
+    in Internet Explorer version 10, you must manually delete cookie files you can find instructions for doing so at
+    http://support.microsoft.com/kb/278835;
+</li><li>
+    in Firefox version 24, you can delete cookies by clicking "Tools", "Options" and "Privacy", then selecting "Use custom settings for history",
+    clicking "Show Cookies", and then clicking "Remove All Cookies"; and
+</li><li>
+    in Chrome version 29, you can delete all cookies by accessing the "Customise and control" menu, and clicking "Settings", "Show advanced settings" and
+    "Clear browsing data", and then selecting "Delete cookies and other site and plug-in data" before clicking "Clear browsing data".
+</li></ul>
+<p>
+    12.11 Deleting cookies will have a negative impact on the usability of many websites.
+</p>
+
+<h3>
+    13. Our details
+</h3>
+<p>
+    13.1 This website is owned and operated by Extreme Electronics Ltd.
+</p>
+<p>
+    13.2 We are registered in England and Wales under registration number 8247457, and our registered office is at address</p>
+    <p>80-83 Long Lane
+    <br>London
+    <br>United Kingdom
+    <br>EC1A 9ET
+</p>
+<p>
+    13.3 You can contact us by writing to the business address given above or by email to email address <a href="mailto:info@openweathermap.org">info@openweathermap.org</a>
+</p>
+
+</div>
+</div>
+</div>
+<br><br>
+<div class="container">
+    <div class="row">
+        <div class="col-sm-12">
+            <script async="" src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- OWM long bottom -->
+<ins class="adsbygoogle" style="display:inline-block;width:728px;height:90px" data-ad-client="ca-pub-9649553505534207" data-ad-slot="1070308379"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>        </div>
+    </div>
+</div>
+
+    </div> <!-- / .wrapper -->
+
+    <!-- Footer -->
+    <footer class="footer-dark">
+      <div class="container">
+        <div class="row">
+          <!-- API -->
+          <div class="col-sm-4">
+            <h3 class="text-color"><span class="border-color">How to work with API</span></h3>
+            <div class="content">
+     <ul>
+        <li><a href="/API">Weather API for developers</a></li>
+        <li><a href="/current">Current weather</a></li>   
+        <li><a href="/forecast">Forecast</a></li>
+        <li><a href="/current">Historical data</a></li>
+        <li><a href="/api_station">Data from weather stations</a></li>
+        <li><a href="/appid">How to work with API key</a></li>
+        <li><a href="/examples">Examples of API using</a></li>
+        <li><a href="/price">Price of service and support</a></li>
+      </ul>
+
+<div class="alert alert-info">
+Find a bug? Welcome to
+  <a href="http://crm.openweathermap.org/support/open.php" class="alert-link" target="_blank">Bug report
+  </a>
+</div>
+
+            </div>
+          </div>
+          <!-- Map layers -->
+          <div class="col-sm-4">
+            <h3 class="text-color"><span>Map layers</span></h3>
+            <div class="content">
+        <ul>
+        <li><a href="/hugemaps">Examples of OpenWeatherMap map layers</a>
+        </li><li><a href="/tutorial/openlayers"> How to create maps with array of weather data</a></li>
+        <li><a href="/tutorial/maps"> How to create maps with tile server</a></li>
+       </ul>
+            <h3 class="text-color"><span>What technologies we use</span></h3>
+      <ul>
+        <li><a href="/technology">OpenWeatherMap technology</a></li>
+        <li><a href="/models">Meteorological models</a></li>
+        <li><a href="/datasource">Meteorological data sources</a></li>
+      </ul>
+              
+              <div class="clearfix"></div>
+            </div>
+          </div>
+          
+          
+          <!-- Column 3 -->
+          
+
+          
+          
+          
+          <div class="col-sm-4">
+          
+          
+          <h3 class="text-color"><span>Weather station network</span></h3>
+<ul>
+        <li><a href="/stations">How to connect your weather station</a></li>
+        <li><a href="/stationmap">Network of weather stations in real time</a></li>
+        <li><a href="/owmstation">OpenWeatherMap weather station prototype</a></li>
+        <li><a href="/stations#DIY">DIY weather station projects</a></li>
+    </ul>
+    
+          
+          <h3 class="text-color"><span>Go Social</span></h3>
+            <div class="content social">
+              <p>Stay in touch with us:</p>
+              <ul class="list-inline">
+                  <li><a href="https://twitter.com/OpenWeatherMap" target="_blank" class="twitter"><i class="fa fa-twitter"></i></a></li>
+                <li><a href="https://www.facebook.com/groups/270748973021342" target="_blank" class="facebook"><i class="fa fa-facebook"></i></a></li>
+                <li><a href="https://github.com/search?q=openweathermap&amp;ref=cmdform" target="_blank" class="github"><i class="fa fa-github"></i></a></li>
+              </ul>
+              <div class="clearfix"></div>
+            </div>
+            
+ 
+    
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-sm-12">
+            <hr>
+          </div>
+        </div>
+        <!-- Copyrights -->
+        <div class="row">
+          <div class="col-sm-12">
+            <p>© 2012-2014 Extreme Electronics Ltd.  <a href="/about">About company</a> | <a href="/privacy-policy">Privacy Policy</a> | <a href="/terms">Terms of Service</a></p>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+<script src="/combine/ebd62672b226c5b5521f48b1964fcce4-1393649958"></script>
+
+<script src="/combine/743d64658834076459b4da14f583656c-1391751372"></script>
+
+
+    
+<script type="text/javascript">
+jQuery(document).ready(function() {
+
+  var units = 'metric';
+  if( get_cookie('units') ) units = get_cookie('units');
+  if( units == 'metric') {
+      document.getElementById("units_check").checked = true;
+  }else{
+      document.getElementById("units_check").checked = false;
+  }
+});
+</script>
+    
+    
+<div id="topcontrol" title="" style="position: fixed; bottom: 5px; right: 5px; opacity: 0; cursor: pointer;"><i class="fa fa-angle-up backtotop"></i></div></body></html>
