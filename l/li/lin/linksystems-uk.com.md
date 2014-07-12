@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linksystems-uk.com privacy policy that was archived on 2014-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140513004339id_/http%3A//www.linksystems-uk.com/index.php/20-sample-data-articles/179-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linksystems-uk.com privacy policy that was archived on 2014-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140712142622id_/http%3A//www.linksystems-uk.com/index.php/20-sample-data-articles/179-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
