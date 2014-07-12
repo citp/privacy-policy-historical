@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zenya.com privacy policy that was archived on 2014-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140418092257id_/https%3A//www.zenya.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zenya.com privacy policy that was archived on 2014-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140712150511id_/https%3A//www.zenya.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Zenya
 
