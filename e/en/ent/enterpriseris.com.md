@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the enterpriseris.com privacy policy that was archived on 2014-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140502032857id_/http%3A//www.enterpriseris.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enterpriseris.com privacy policy that was archived on 2014-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140712121910id_/http%3A//www.enterpriseris.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Business News & Strategy For enterpriseris.com
 
@@ -14,26 +14,30 @@ At other places in this site, we ask for your feedback, opinion or suggestions, 
 
 One last area in which we ask for your name is on bulletin boards or forums–places on the site where you can participate in a discussion of a particular subject by posting written comments which are then entirely public. We ask for a name simply so that other people reading a string of comments will be able to determine which comments come from the same person. You may, therefore, provide a nickname or alias, if you prefer, so that your identity is not disclosed. You should be aware that if you do voluntarily disclose personal information (e.g. user name, e-mail address) on the bulletin boards or forums, that information can be collected and used by others and may result in unsolicited messages from other posters or parties. If you choose to participate anonymously, you should remember that you are still legally liable for the material you post, including claims of libel, invasion of privacy and copyright infringement.
 
-[ ](http://www.enterpriseris.com/do-the-side-hustle-5-better-ways-to-earn-extra-cash/)
+[ ](http://www.enterpriseris.com/a-smarter-calendar-how-tempo-can-help-you-rule-your-next-meeting/)
 
-### [Do the Side Hustle: 5 Better Ways to Earn Extra Cash](http://www.enterpriseris.com/do-the-side-hustle-5-better-ways-to-earn-extra-cash/)
+### [A Smarter Calendar: How Tempo Can Help You Rule Your Next Meeting](http://www.enterpriseris.com/a-smarter-calendar-how-tempo-can-help-you-rule-your-next-meeting/)
 
-Making it as an entrepreneur is no piece of cake. Whether you’re working a day job you’d love to quit or struggling to get by in the early stages of a startup, staying financially afloat can be a challenge. One solution: find a side hustle. A side hustle is a way to make some... 
+If you’re someone who spends your day in meetings, then keeping up with them all can be a daunting task. One app, Tempo, is trying to make the experience a bit easier, taking a big data approach to your schedule and turning your calendar into a personal assistant. The free calendar... 
 
-[ ](http://www.enterpriseris.com/when-the-going-gets-tough-for-local-economies-utilize-existing-resources/)
+[ ](http://www.enterpriseris.com/how-anytime-fitness-broke-into-the-franchise-500-top-10-2/)
 
-[ ](http://www.enterpriseris.com/5-steps-to-take-control-of-your-personal-finances/)
+### [How Anytime Fitness Broke into the Franchise 500 Top 10](http://www.enterpriseris.com/how-anytime-fitness-broke-into-the-franchise-500-top-10-2/)
 
-### [5 Steps to Take Control of Your Personal Finances](http://www.enterpriseris.com/5-steps-to-take-control-of-your-personal-finances/)
+This is a season of milestones for Anytime Fitness. The 24-hour micro-gym concept not only hit the top 10 of the Franchise 500© for the first time, it also just celebrated its 10th anniversary, recently opened its 2,000th unit and is launching a sister franchise, Waxing the City. So... 
 
-When I started my financial planning career seven years ago, I quickly learned that the people who were financially successful were the ones who dedicated time and energy to regularly budgeting, managing and planning out their finances. In other words, they had the discipline to get... 
+[ ](http://www.enterpriseris.com/judge-says-nsa-phone-surveillance-is-constitutional-2/)
 
-[ ](http://www.enterpriseris.com/how-to-name-a-franchise/)
+### [Judge Says NSA Phone Surveillance Is Constitutional](http://www.enterpriseris.com/judge-says-nsa-phone-surveillance-is-constitutional-2/)
 
-### [How to Name a Franchise](http://www.enterpriseris.com/how-to-name-a-franchise/)
+Sign up and receive the hottest stories of the week. Looking for other emails from Entrepreneur? See all of our newsletters | No thanks Judge Says NSA Phone Surveillance Is Constitutional BY Lauren Covello | December 28, 2013| Post Comment | 15 15 Image credit: associationsnow.com A... 
 
-So you’ve decided to start a franchise? Great! You’ll need to contact a franchise attorney or consultant; get your Franchise Disclosure Document and operations manual in order; and top it all off with loads of research and other preparation. But before any of that, you’ve... 
+### [How to Start Up with Mom and Dad on Your Side](http://www.enterpriseris.com/how-to-start-up-with-mom-and-dad-on-your-side/)
 
-### [How Can I Set My Business Apart From the Competition?](http://www.enterpriseris.com/how-can-i-set-my-business-apart-from-the-competition/)
+The early bonds you form with mom and dad serve as the foundation of how you’ll interact within any other relationship. They're your very first role models, and they'll be the greatest influences on our future endeavors — in business or otherwise. So why not... 
 
-Since the bakery business seems to be growing so fast, I’m concerned about the success of my own bakery. How can I differentiate my bakery and make it profitable? I’d love to know what would make people prefer my cakes, cupcakes and other baked goods over others. Where... 
+[ ](http://www.enterpriseris.com/how-strong-networks-create-strong-companies/)
+
+### [How Strong Networks Create Strong Companies](http://www.enterpriseris.com/how-strong-networks-create-strong-companies/)
+
+For many entrepreneurs, the first stages of founding a company can be a very lonely experience. It often involves countless solitary hours conducting research, outlining a product vision and piecing together ugly proofs of concept. But what I have discovered and rediscovered with... 
