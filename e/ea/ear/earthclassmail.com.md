@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the earthclassmail.com privacy policy that was archived on 2013-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130831053214id_/https%3A//www.earthclassmail.com/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earthclassmail.com privacy policy that was archived on 2014-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140712100628id_/https%3A//www.earthclassmail.com/Privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Earth Class Mail
+# Earth Class Mail
+
+### Privacy Policy
 
 Last Modified: March 17, 2009
 
@@ -56,7 +58,7 @@ You can find more information about how we process personal information by refer
 
 ECM processes personal information on our servers in the United States of America and reserves the right to process personal information in other countries. In some cases, we may process personal information on behalf of and according to the instructions of a third party.
 
-## Choices for personal information
+#### Choices for personal information
 
 When you sign up for a particular service that requires registration, we notify you of our User Agreement and Privacy Policy. We also ask you to provide personal information. If we use this information in a manner different from the purpose for which it was collected, then we will ask for your consent prior to such use. 
 
@@ -64,7 +66,7 @@ If we propose to use personal information for any purposes other than those desc
 
 You can decline to submit personal information to any of our services, in which case ECM may not be able to provide those services to you. 
 
-## Information sharing
+#### Information sharing
 
 ECM does not rent, sell, or share personal information about you with other people or non-affiliated companies except to provide products or services you've requested or under the following circumstances: 
 
@@ -81,7 +83,7 @@ ECM does not rent, sell, or share personal information about you with other peop
 
 Please contact us at the address below for any additional questions about the management or use of personal data. 
 
-## Information security 
+#### Information security 
 
 We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure, or destruction of data. These include internal reviews of our data collection, storage, and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data. 
 
@@ -89,15 +91,15 @@ We restrict access to personal information to ECM employees, contractors, and ag
 
 Earth Class Mail applies rigorous security measures at physical mail facilities, at its data centers, and within the applications that it provides for access to those services.
 
-## Data integrity 
+#### Data integrity 
 
 ECM processes personal information only for the purposes for which it was collected and in accordance with this Policy or any applicable service-specific privacy notice. We review our data collection, storage, and processing practices to ensure that we only collect, store, and process the personal information needed to provide or improve our services. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary. 
 
-## Accessing and updating personal information 
+#### Accessing and updating personal information 
 
 When you use our Hosted Services, we make good-faith efforts to provide you with access to your personal information and either to correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. We ask individual users to identify themselves and the information requested to be accessed, corrected, or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. Some of our services may have different procedures to access, correct, or delete users' personal information. We may provide the details for these procedures in the specific privacy notices or FAQs for these services. 
 
-## Enforcement 
+#### Enforcement 
 
 Enforcement – Customer Service is staffed to assist and support our customers’ activities and accounts, and also to enforce adherence to our User Agreement terms and conditions. Customer Service can suspend and/or terminate service for any account for breach of those terms or operating in a manner inconsistent with the terms of service. Earth Class Mail’s Human Resources department also works closely with department heads to ensure policies are adhered to and when necessary to terminate employment for any employee, permanent or temporary, that breaches the terms of hire, or presents a security risk.
 
@@ -112,7 +114,10 @@ Washington, DC 20036-5624
 [safeharbor @ the-dma.org](mailto:safeharbor@the-dma.org)  
 <http://www.dmaresponsibility.org/SafeHarbor/consumers.shtml>
 
-## Changes to this policy
+  
+
+
+#### Changes to this policy
 
 Please note that this Privacy Policy may change from time to time. We will not reduce your rights under this Policy without your explicit consent, and we expect most such changes will be minor. In any event, we will post any Policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of Policy changes). Each version of this Policy will be identified at the top of the page by its effective date, and we will also keep prior versions of this Privacy Policy in an archive for your review. 
 
