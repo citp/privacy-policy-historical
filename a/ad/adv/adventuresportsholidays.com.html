@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the adventuresportsholidays.com privacy policy that was archived on 2014-03-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140330053322id_/http%3A//www.exploco.com/about/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the adventuresportsholidays.com privacy policy that was archived on 2014-07-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140712031536id_/http%3A//www.exploco.com/about/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
         <meta charset="utf-8">
@@ -308,7 +308,8 @@
                                 <header id="mainHeader" class="clearfix">
                     <div class="navbar">
                         <div class="container-fluid">
-                            <div class="navbar-inner row-fluid newHeadtop">
+                            
+                            							<div class="navbar-inner row-fluid newHeadtop">
                             <div class="span8">
                             	<div class="bread-cumb">
                                 	                                </div>
@@ -335,6 +336,31 @@
                     </div>
                 </header>
                                 <!-- header: ENDS -->
+		
+		
+		<script>
+		    
+		    
+		    
+    function facebookshare_dup(type,id)
+    {
+	var obj = {
+		method: 'feed',
+		redirect_uri: CURRENT_URL,
+		link: CURRENT_URL,
+		picture: '',
+		name: '',
+		caption: '',
+		description: ''
+	};
+	
+      function callbackfb(response) {
+		//document.getElementById('msg').innerHTML = "Post ID: " + response['post_id'];
+	}
+	FB.ui(obj, callbackfb);
+    }
+
+		</script>
                 
 <div>
   <div><table width="1342" border="0" align="center" cellpadding="0" cellspacing="0">
@@ -395,7 +421,7 @@
     
 </div>
 <div class="social-banner row-fluid box-spacing">
-            <img alt="Activity Image" src="http://www.exploco.com/static/uploads/activity_image/footer_images/6-bot.jpg">
+            <img alt="Activity Image" src="http://www.exploco.com/static/uploads/activity_image/footer_images/22-bot.jpg">
         <a href="http://www.facebook.com/explocotribe" target="_blank" class="join-us-fb">
         Join us on Facebook
     </a>
@@ -2533,7 +2559,10 @@ Activity
                 </div>
     
         
-                        <div class="menu-col"><a href="http://www.exploco.com/blog//exploco-interview-pro-wakeboarder-lex-balladon-" class="blog-img"><img src="http://www.exploco.com/blog/wp-content/uploads/2014/02/IMG_1231-683x1024.jpg" alt=""></a>
+                        <div class="menu-col"><a href="http://www.exploco.com/blog//brazils-top-10-surf-breaks-lindo-maravilhoso" class="blog-img"><img src="http://www.exploco.com/blog/wp-content/uploads/2013/05/111.jpg" alt=""></a>
+                    <a href="http://www.exploco.com/blog//brazils-top-10-surf-breaks-lindo-maravilhoso" class="blog-link">Brazil's Top 10 Surf Breaks: Lindo Maravilhoso!</a>
+                </div>
+                            <div class="menu-col"><a href="http://www.exploco.com/blog//exploco-interview-pro-wakeboarder-lex-balladon-" class="blog-img"><img src="http://www.exploco.com/blog/wp-content/uploads/2014/02/IMG_1231-683x1024.jpg" alt=""></a>
                     <a href="http://www.exploco.com/blog//exploco-interview-pro-wakeboarder-lex-balladon-" class="blog-link">Exploco Interview: Pro Wakeboarder Lex Balladon </a>
                 </div>
                             <div class="menu-col"><a href="http://www.exploco.com/blog//world-champ-alex-pastors-bucket-list" class="blog-img"><img src="http://www.exploco.com/blog/wp-content/uploads/2014/01/photo-3-e1391148900991-225x300.jpg" alt=""></a>
@@ -2544,9 +2573,6 @@ Activity
                 </div>
                             <div class="menu-col"><a href="http://www.exploco.com/blog//winter-walking-what-youll-need" class="blog-img"><img src="http://www.exploco.com/blog/wp-content/uploads/2011/12/WW.jpg" alt=""></a>
                     <a href="http://www.exploco.com/blog//winter-walking-what-youll-need" class="blog-link">Winter walking: What you'll need</a>
-                </div>
-                            <div class="menu-col"><a href="http://www.exploco.com/blog//10-best-winter-sports-destinations-2013" class="blog-img"><img src="http://www.exploco.com/blog/wp-content/uploads/2013/10/4149047824_0709cb68f9_z.jpg" alt=""></a>
-                    <a href="http://www.exploco.com/blog//10-best-winter-sports-destinations-2013" class="blog-link">10 Best Winter Sports Destinations 2013</a>
                 </div>
                     
 
@@ -2917,7 +2943,8 @@ Activity
 																//$("#common_video_uploader_block input[name='videos_id[]']").each(function() {
 																	//  $(this).val('');
 																//});
-																window.location.reload();
+																//window.location.reload();
+																window.location.href = "http://www.exploco.com/videos/"+response.insert_id;
 														}
 												}, 'json');
 		
@@ -3067,6 +3094,82 @@ Activity
 						<li><a href="http://www.exploco.com/category/winter-sports">Winter Sports</a></li>
 				</ul>
     </div>
+<div class="modal hide" id="success_company_signup">
+	<div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">x</button>
+        <h3 id="msg_modal_title">Activate Your Account</h3>
+    </div>
+    <div class="modal-body">
+    	<p>Great Stuff! We have just sent you an Email with a verification code. Please type the code below to activate your account now:</p>
+    	
+    	<div class="alert alert-error" id="activation_error" style="display:none;">
+                    <span id="activation_text"></span>
+        </div>
+			
+			
+        <aside class="vc-area">
+        	<input type="text" name="activation_pin" value="" id="activation_pin" maxlength="8">
+            <input type="button" class="yellow-btn" value="Save" id="activate_pin">
+            <input type="button" class="yellow-btn right" value="Skip, Activate Later" data-dismiss="modal" aria-hidden="true">            
+        </aside>
+    </div>
+
+</div>
+<script type="text/javascript"> 
+		
+var reload = false;	
+var reload_page = "";
+
+var base_path = 'http://www.exploco.com/';
+$("document").ready(function(){
+$("#activate_pin").click(function(){
+	
+	if($("#activation_pin").val() != "")
+	{
+		$("#activation_error").hide();
+		$.ajax({
+			
+			url: base_path + 'users/activate_by_pin/',
+			type: 'POST',
+			data: {'pin': $("#activation_pin").val()},
+			success: function(data)
+			{
+				var response = JSON.parse(data);
+				if(response["status"] == "success")
+				{
+					if(reload === true){
+					window.location.href = _base_url + _index_page + 'users';
+					}else{
+						$("#activation_text").text(response["message"]);
+						$("#activation_error").show();
+						if($(".newarea").is(":visible")){
+						$(".redrow1").hide();}
+						
+						if(reload_page != "")
+						//window.location.href = _base_url + _index_page  + reload_page;
+						window.location.reload();
+						//$(".close").click();
+					}
+				}else{
+					
+					$("#activation_text").text(response["message"]);
+					$("#activation_error").show();
+				}
+			}	
+			
+		});
+	}else{
+		
+		$("#activation_text").text("Please enter 6-digit activation pin.");
+		$("#activation_error").show();
+	}
+	
+});	
+	
+});
+
+
+</script>
 <script>
 
 $(function() {
