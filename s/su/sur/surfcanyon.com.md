@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surfcanyon.com privacy policy that was archived on 2014-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140219075408id_/http%3A//surfcanyon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surfcanyon.com privacy policy that was archived on 2014-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140712124143id_/http%3A//surfcanyon.com/privacy) for the most accurate reproduction.*
 
 # Surf Canyon Privacy Policy
 
@@ -24,7 +24,7 @@ Surf Canyon is not directed towards children 13 years of age or under and we do 
 
 ### 1.3 Uses of Information
 
-Surf Canyon uses information for the following general purposes: to customize the search results on selected search engines (currently Surf Canyon, Google, Yahoo!, Bing and Craigslist), to customize sponsored results (which are always clearly labeled as such) on Surf Canyon's search engine, to improve our services, and to provide anonymous, aggregate reporting for internal and external clients.
+Surf Canyon uses information for the following general purposes: to customize the search results on selected search engines (currently Surf Canyon, Google, Yahoo! and Craigslist), to customize sponsored results (which are always clearly labeled as such) on Surf Canyon's search engine, to improve our services, and to provide anonymous, aggregate reporting for internal and external clients.
 
 ### 1.4 Profile
 
@@ -62,7 +62,7 @@ A cookie is a small text file that is stored on a user's computer for record-kee
 
 ### 3.3 Third Party Search Engines
 
-When you execute a query on selected search engines (currently Google, Yahoo, Bing and Craigslist), the Surf Canyon browser extension may make additional network connections to the search engine and execute additional queries. The additional network connections may cause you to exceed a search engine's bandwidth limit more quickly. The additional search engine queries may affect the search engine's own personalization algorithms.
+When you execute a query on selected search engines (currently Google, Yahoo and Craigslist), the Surf Canyon browser extension may make additional network connections to the search engine and execute additional queries. The additional network connections may cause you to exceed a search engine's bandwidth limit more quickly. The additional search engine queries may affect the search engine's own personalization algorithms.
 
 ### 3.4 Third Party Advertisers
 
@@ -70,7 +70,7 @@ The ads that we deliver to users may be provided by our advertising partners. We
 
 ## 4\. Security
 
-The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us using [our contact page](https://web.archive.org/web/20140219075408id_/http%3A//surfcanyon.com/contact.jsp).
+The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us using [our contact page](https://web.archive.org/web/20140712124143id_/http%3A//surfcanyon.com/contact.jsp).
 
 ### 4.1 Business Transitions
 
@@ -86,4 +86,4 @@ Users who download a version of our application offered as part of the MyPersona
 
 ## 5\. Contact Us
 
-If you have any questions or suggestions regarding our privacy policy, please contact us using [our contact page](https://web.archive.org/web/20140219075408id_/http%3A//surfcanyon.com/contact.jsp).
+If you have any questions or suggestions regarding our privacy policy, please contact us using [our contact page](https://web.archive.org/web/20140712124143id_/http%3A//surfcanyon.com/contact.jsp).
