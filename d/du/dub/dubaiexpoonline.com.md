@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dubaiexpoonline.com privacy policy that was archived on 2014-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140413092239id_/http%3A//www.dubaiexpoonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dubaiexpoonline.com privacy policy that was archived on 2014-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140712133232id_/http%3A//dubaiexpoonline.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Overview
 
