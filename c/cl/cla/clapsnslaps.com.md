@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clapsnslaps.com privacy policy that was archived on 2014-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140517191621id_/http%3A//clapsnslaps.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clapsnslaps.com privacy policy that was archived on 2014-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140713003654id_/https%3A//www.clapsnslaps.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy | ClapsnSlaps.com | you are the critic
 
