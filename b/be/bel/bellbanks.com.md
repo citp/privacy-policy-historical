@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bellbanks.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326114147id_/https%3A//www.bellbanks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bellbanks.com privacy policy that was archived on 2014-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140712195153id_/https%3A//www.bellbanks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bell State Bank & Trust
 
