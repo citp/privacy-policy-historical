@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dress-market.com privacy policy that was archived on 2014-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140427060555id_/http%3A//www.dress-market.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dress-market.com privacy policy that was archived on 2014-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140712235145id_/http%3A//www.dress-market.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
