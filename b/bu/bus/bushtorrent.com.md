@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the bushtorrent.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209033747id_/http%3A//www.fulldls.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bushtorrent.com privacy policy that was archived on 2014-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140712212437id_/http%3A//www.fulldls.com/privacy.php) for the most accurate reproduction.*
 
 # Fulldls.com - Privacy policy
-
-  
-
 
   
 
