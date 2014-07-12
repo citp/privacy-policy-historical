@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the smartsound.com privacy policy that was archived on 2014-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140626051025id_/http%3A//smartsound.com/company/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the smartsound.com privacy policy that was archived on 2014-07-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140712072607id_/http%3A//www.smartsound.com/company/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
 
@@ -115,11 +115,32 @@ _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
 
       <div class="cartInfo">
                   <div class="cartIcon">
-            <a href="/royalty-free-music/"><img style="float:right;" src="/img/cartIcon.png" alt="your cart"></a>
+            <a href="/store/"><img style="float:right;" src="/img/cartIcon2013.png" alt="your cart"></a>
           </div>
           <div class="cartDetail">
-            <a href="/royalty-free-music/">Your cart<br>is empty</a>
+            <a href="/store/">9 items<br>$ 3,033.70</a>
           </div>
+          
+            <div class="packInfo"><div class="col80"><div style="float:left;font-weight:bold;padding:5px 5px;">Music packs:</div><div style="float:left;padding-top:4px;line-height:1.2em;">25 Albums Remaining<br>0 Singles Remaining</div></div>
+                
+                <div class="col20" style="padding-top:2px;">
+                  <form action="/store/" id="packFrm" method="post">
+                  <input type="hidden" name="packs-off" value="1">
+                	<b>APPLY</b><br><input class="changePacks" name="packs" type="checkbox" style="margin:0 auto;margin:7px;margin-top:0;text-align:center;" checked="checked">
+                	</form>
+                </div></div><!--END packInfo-->                
+                  <script type="text/javascript">
+                    $(function() {
+                    
+                        $('.changePacks').bind('click', function() {      
+                          $('#packFrm').submit();
+                        });                        
+                              
+                    });
+                    
+                  </script>
+                
+                          
         
       </div><!--END cartInfo-->
     </div><!--END personalBar-->
