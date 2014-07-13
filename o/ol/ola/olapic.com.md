@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the olapic.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209223627id_/https%3A//www.olapic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the olapic.com privacy policy that was archived on 2014-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140713233224id_/https%3A//www.olapic.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Visual Commerce | Olapic
+# Privacy Policy - Visual Commerce - Visual Content Discovery & Integration | Olapic
 
 By accessing the Olapic website: www.olapic.com ("Site") or using the other features, content or applications (including the Olapic Platform: Photorank (“Platform”) offered by Olapic ("Services") you agree and acknowledge to be bound by this Privacy Policy (“Policy”). The use of the Olapic Site or Services and any personal information you provide on the Site or Services, remains subject to the terms of this Privacy Policy and our Terms of Use. 
 
@@ -10,7 +10,7 @@ Olapic, Inc. has received TRUSTe's Privacy Seal signifying that this privacy sta
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>. 
 
-**Olapic complies with the U.S. – E.U. and U.S. – Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from European Union member countries and Switzerland.   Olapic has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Olapic’s certification, please visit <http://www.export.gov/safeharbor>. **
+**Olapic complies with the U.S. – E.U. and U.S. – Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal data from European Union member countries and Switzerland. Olapic has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Olapic’s certification, please visit<http://www.export.gov/safeharbor>. **
 
 We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a prominent notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. 
 
@@ -124,7 +124,7 @@ We will make any legally-required disclosures of any breach of the security, con
 
 ##### Social Media Features
 
-**Our Web site includes Social Media Features, such as the Facebook Like button. These Features may collect your IP address, which page you are visiting on our site, and  may set a cookie to enable the Feature to function properly. Social Media Features are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it. **
+**Our Web site includes Social Media Features, such as the Facebook Like button. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.**
 
 ##### Testimonials
 
