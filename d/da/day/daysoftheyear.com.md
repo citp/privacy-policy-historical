@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daysoftheyear.com privacy policy that was archived on 2014-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140512011507id_/http%3A//www.daysoftheyear.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daysoftheyear.com privacy policy that was archived on 2014-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140713204503id_/https%3A//www.daysoftheyear.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Days Of The Year
 
@@ -38,12 +38,12 @@ We remove personally identifiable information (such as your name, address or pho
 
 Any of the information we collect from you may be used in one of the following ways:
 
-  *  **To personalize your experience** – your information helps us to better respond to your individual needs
-  *  **To improve our website** – we continually strive to improve our website offerings based on the information and feedback we receive from you
-  *  **To improve customer service** – your information helps us to more effectively respond to your customer service requests and support needs
-  *  **To process transactions** – Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the service requested.
-  *  **Promotional purposes** – To administer a contest, promotion, survey or other site feature
-  *  **Email** – The email address you provide for registration or order processing may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc. It may also be used to send you email newsletters and periodical subscriptions which you have opted in to receiving. _Note:_ If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
+  * **To personalize your experience** – your information helps us to better respond to your individual needs
+  * **To improve our website** – we continually strive to improve our website offerings based on the information and feedback we receive from you
+  * **To improve customer service** – your information helps us to more effectively respond to your customer service requests and support needs
+  * **To process transactions** – Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the service requested.
+  * **Promotional purposes** – To administer a contest, promotion, survey or other site feature
+  * **Email** – The email address you provide for registration or order processing may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc. It may also be used to send you email newsletters and periodical subscriptions which you have opted in to receiving. _Note:_ If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
 
 
