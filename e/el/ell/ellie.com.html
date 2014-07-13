@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ellie.com privacy policy that was archived on 2014-03-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140326120602id_/https%3A//www.ellie.com/pages/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ellie.com privacy policy that was archived on 2014-07-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140713094239id_/https%3A//www.ellie.com/pages/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js"><!--<![endif]--><head data-hook="inside_head"><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KPKBJ4"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
     <meta charset="utf-8">
@@ -15,12 +15,12 @@
 <link rel="icon" href="/favicon.ico" type="image/x-icon">
 
 
-<link href="/assets/store/all-302d2ba138204f4147835eacb767b4f0.css" media="screen" rel="stylesheet" type="text/css">
+<link href="/assets/store/all-92c021de993118ed08c446a6b8a5d494.css" media="screen" rel="stylesheet" type="text/css">
 
 <meta content="authenticity_token" name="csrf-param">
-<meta content="fajQgpCgupiRCKXk/EDmwD0r8wWsvxKVR/ZBonX4JGo=" name="csrf-token">
+<meta content="eJjl6EN0CM4p3VQGlCCfWMR3ph2AAEmEjYNSoFatjUI=" name="csrf-token">
 <script src="https://maps.googleapis.com/maps/api/js?libraries=places&amp;sensor=false" type="text/javascript"></script>
-<script src="/assets/store/all-2ca6b0ef3666d110012bf089e309c13c.js" type="text/javascript"></script>
+<script src="/assets/store/all-1408eceac25abb378b5394295c365392.js" type="text/javascript"></script>
 
 
 <!--[if lt IE 9]>
@@ -45,6 +45,10 @@
   <body class="body-content-privacy">
         <script>
     dataLayer = [];
+    var utms = parseAnalyticsCookie();
+    console.log(utms);
+    dataLayer.push({'utm_source': utms['utmcsr'], 'utm_campaign': utms['utmccn'], 'utm_medium': utms['utmcmd'], 'utm_term': utms['utmctr'], 'utm_content': utms['utmcct'], });
+
   </script>
   <!-- Google Tag Manager -->
   <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KPKBJ4"
@@ -74,14 +78,12 @@
           });
 
           FB.Event.subscribe('edge.create', function(targetUrl) {
-            $('#discount-modal').animate({
+            $('#first-time-modal').animate({
               height: '450px',
               width: '550px'
             });
-            $('.modal-body').animate({
-              height: '350px'
-            });
-            ga_track_event('click', 'fb_like');
+            $('#fancybox-content').width(600);
+            dataLayer.push({ "event":"ga-event", "eventCategory":"Facebook", "eventAction":"like-after-email", "eventLabel":"discount 20" });
           });
         };
 
@@ -93,44 +95,41 @@
           fjs.parentNode.insertBefore(js, fjs);
         }(document, 'script', 'facebook-jssdk', /*debug*/ false));
       </script>
-
-
-
-      <!-- ^^ wrappers ^^ -->
-      <div id="outer-wrap">
+      <div id="promo-bar-wrapper">
+        <div class="promo-bar-container"><a href="/collections/bottoms"><img alt="Yogabanner2" class="w100" src="https://s3.amazonaws.com/ellie_production_assets/assets/june2014/yogabanner2.png"></a></div>
+      </div><div id="outer-wrap">
         <div id="inner-wrap">
 
-           
-  <header id="header" role="banner">
+          <header id="header" role="banner">
     <div class="cf mp">
         <h1 class="title">
             <a href="/"><i class="icon-ellie-logo"></i></a>
         </h1>
       <div class="cart-menu">
         <div class="box">
-            <div id="sign-in-out">
+            <div id="sign-in-out" class="hide-mobile">
               <ul>
                   <li><a href="/login">Sign In</a></li>
               </ul>
             </div>
-            <ul>
+            <ul class="hide-mobile">
               <li>
                   <a href="/collections/outfits" class="collections">COLLECTIONS</a>
                   <ul class="collections-menu hide">
                   <li>
-                    <a href="/collections/back-to-basics"><span>NEW!</span><br>Back to Basics</a>
+                    <a href="/collections/miss-independent"><span>NEW!</span><br>Miss Independent</a>
                   </li>
                   <li>
-                    <a href="/collections/best-of-ellie">Best of Ellie</a>
+                    <a href="/collections/summer-soul"><br>Summer Soul</a>
                   </li>
                   <li>
-                    <a href="/collections/gratitude">Gratitude</a>
+                    <a href="/collections/get-up-and-go">Get Up and Go</a>
                   </li>
                   <li>
-                    <a href="/collections/rise-and-shine">Rise and Shine</a>
+                    <a href="/collections/montana-avenue">Montana Ave</a>
                   </li>
                   <li>
-                    <a href="/collections/where-the-heart-is">Where the Heart Is</a>
+                    <a href="/collections/back-to-basics">Back to Basics</a>
                   </li>
                   </ul>
               </li>
@@ -138,7 +137,7 @@
                   <a href="/collections/outfits" class="apparel">SHOP</a>
                   <ul class="apparel-menu hide">
                   <li>
-                    <a href="/collections/back-to-basics">NEW THIS MONTH!</a>
+                    <a href="/collections/miss-independent">NEW THIS MONTH!</a>
                   </li>
                   <li>
                     <a href="/collections/outfits">OUTFITS</a>
@@ -161,10 +160,13 @@
                 </ul>
               </li>
               <li>
-                <a href="/pages/about-us">ABOUT US</a>
+                <a href="/collections/tops">TOPS</a>
               </li>
               <li>
-                <a href="http://support.ellie.com">SUPPORT</a>
+                <a href="/collections/bottoms">BOTTOMS</a>
+              </li>
+              <li>
+                <a href="http://blog.ellie.com">BLOG</a>
               </li>
               <span id="mini-cart-container">
                 <script>
@@ -200,13 +202,99 @@
             </ul>
         </div>
       </div>
+        <div id="mobile_menu">
+          <div id="mobile_menu_button">☰</div>
+          <ul id="menu_items" class="hide">
+            <li>
+              <a href="#" class="collections-mobile">COLLECTIONS</a>
+              <ul class="collections-menu-mobile hide">
+                  <li>
+                    <a href="/collections/miss-independent"><span>NEW!</span><br>Miss Independent</a>
+                  </li>
+                  <li>
+                    <a href="/collections/summer-soul"><br>Summer Soul</a>
+                  </li>
+                  <li>
+                    <a href="/collections/montana-avenue">Montana Ave</a>
+                  </li>
+                  <li>
+                    <a href="/collections/back-to-basics">Back to Basics</a>
+                  </li>
+              </ul>
+            </li>
+            <li>
+              <a href="#" class="apparel-mobile">SHOP</a>
+              <ul class="apparel-menu-mobile hide">
+                <li>
+                  <a href="/collections/miss-independent">NEW THIS MONTH!</a>
+                </li>
+                <li>
+                  <a href="/collections/outfits">OUTFITS</a>
+                </li>
+                <li>
+                  <a href="/collections/tops">TOPS</a>
+                </li>
+                <li>
+                  <a href="/collections/bottoms">BOTTOMS</a>
+                </li>
+                <li>
+                  <a href="/collections/jackets">JACKETS &amp; OUTERWEAR</a>
+                </li>
+                <li>
+                  <a href="/collections/accessories">ACCESSORIES</a>
+                </li>
+                <li>
+                  <a href="/collections/sale">SALE</a>
+                </li>
+              </ul>
+            </li>
+            <li>
+              <a href="/pages/about-us">ABOUT US</a>
+            </li>
+            <li>
+              <a href="https://ellie.desk.com/">SUPPORT</a>
+            </li>
+            <li>
+              <a href="http://blog.ellie.com">BLOG</a>
+            </li>
+            <span id="mini-cart-container">
+              <script>
+  $(document).ready(function(){
+    $(".mini-cart-link a:first").mouseenter(function(){
+    	$('#mini-cart').addClass('show').removeClass('hide');
+    });
+    $(".mini-cart-link").mouseleave(function(){
+    	$('#mini-cart').addClass('hide').removeClass('show');
+    });
+    
+    if ($('form#update-mini-cart').is('*')){
+  		$('form#update-mini-cart a.delete').show().one('click', function(){
+  			$(this).parents('ul').first().find('input.line_item_quantity').val(0);
+  			$(this).parents('form').first().submit();
+  			return false;
+  		});
+  	}
+  });
+</script>
+
+<li class="mini-cart-link">
+  <a href="/cart" class="empty">Cart</a>
+  <div id="mini-cart" class="hide">
+    <div class="wrap">
+
+        <p class="mt-20">There are no items in your cart.</p>
+
+    </div>
+  </div>
+</li>
+            </span>
+              <li><a href="/login">Sign In</a></li>
+          </ul>
+        </div>
     </div>
   </header>
-      <div id="savings-notice">
-        <p>GET AN ADDITIONAL 20% OFF YOUR FIRST OUTFIT!</p>
-      </div>
-
-          
+  
+  
             <div id="main">
 <div id="privacy-policy" class="page_section">
 
@@ -303,75 +391,7 @@
 
  </div>
 </div>
-            <!-- modal :: first time visitor -->
-<div id="first-time-modal" class="hide">
-
-    <div class="mp">
-        
-      <form id="offer-form">
-          <h1>20% OFF</h1>
-          <h2>YOUR FIRST OUTFIT</h2>
-          <div class="mailcheck-email-container">
-            <div class="input-text-wrap">
-              <input type="text" name="email" placeholder="Your e-mail address" class="mailcheck-email">
-            </div>
-            <button type="submit" id="email_submit" class="cta bg-primary" value="GET STARTED">GET STARTED</button>
-
-            <div class="mailcheck-error"></div>
-            <!-- @TODO :: refactor error messaging -->
-            <div class="errors" style="display: none;">
-              Oops! Please check your email address.
-            </div>
-            <div id="sign-up-error" style="display: none;">
-              Oops! A problem occurred.<br>
-              Please try again.
-            </div>
-          </div>
-      </form>
-
-      <div id="sign-up-success">
-        <h1>THANKS!</h1>
-      </div>
-
-    </div>
-
-    <div class="benefits">
-      <ul class="no-style-inline">
-        <li>
-          <div>
-            GET STARTED<br>
-            AND JOIN<br>
-            FOR FREE
-          </div>
-        </li>
-        <li>
-          <div>
-            SHOP<br>
-            EXCLUSIVE<br>
-            COLLECTIONS
-          </div>
-        </li>
-        <li>
-          <div>
-            ACCESS VIP<br>
-            PRICING<br>
-            OFFERS
-          </div>
-        </li>
-      </ul>
-    </div>
-
-</div>
-<!-- call :: modal -->
-<script type="text/javascript">
-  setTimeout(function() {
-    $.fancybox.open($('#first-time-modal'));
-    $('#first-time-modal').removeClass('hide');
-    $(".mailcheck-email").focus();
-    ga_track_event("email", "show");
-  }, 2000);
-</script>
-
+            
 
 
 
@@ -412,9 +432,9 @@
 
       <ul class="footer-links">
         <li class="heading">CUSTOMER SERVICE</li>
-        <li><a href="http://support.ellie.com" title="FAQ">FAQ</a></li>
+        <li><a href="https://ellie.desk.com/" title="FAQ">FAQ</a></li>
         <li><a href="/pages/returns" title="Returns/Exchanges">Returns/Exchanges</a></li>
-        <li><a href="http://support.ellie.com" title="Contact Us">Contact Us</a></li>
+        <li><a href="https://ellie.desk.com/" title="Contact Us">Contact Us</a></li>
       </ul><!-- /.footer-link -->
 
       <ul class="footer-links">
@@ -422,6 +442,13 @@
         <li><a href="http://facebook.com/meetellie" title="Facebook">Facebook</a></li>
         <li><a href="http://twitter.com/meetellie" title="Twitter">Twitter</a></li>
         <li><a href="http://instagram.com/meetellie" title="Instagram">Instagram</a></li>
+      </ul><!-- /.footer-link -->
+
+      <ul class="footer-links">
+        <li class="heading">POPULAR SELLERS</li>
+        <li><a href="https://www.ellie.com/collections/black-yoga-pants" title="Ellie Black Yoga Pants">Black Yoga Pants</a></li>
+        <li><a href="https://www.ellie.com/collections/leggings" title="Ellie Leggings">Leggings</a></li>
+        <li><a href="https://www.ellie.com/collections/power-tanks" title="Ellie Yoga Tanks">Yoga Tanks</a></li>
       </ul><!-- /.footer-link -->
 
   </div>
@@ -442,5 +469,5 @@ if(NREUMQ.a)NREUMQ.a();
 };
 NREUMQ.a=window.onload;window.onload=NREUMQ.f;
 };
-NREUMQ.push(["nrfj","beacon-2.newrelic.com","8265c669f4","3176748","dAsPF0cOCl5UFBdCRkUBBExWDghGVAhMHh5YEAkGR0g=",14,39,new Date().getTime(),"","","","",""]);</script>
+NREUMQ.push(["nrfj","beacon-2.newrelic.com","8265c669f4","3176748","dAsPF0cOCl5UFBdCRkUBBExWDghGVAhMHh5YEAkGR0g=",15,47,new Date().getTime(),"","","","",""]);</script>
 <script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
