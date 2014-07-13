@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the doubletakeoffers.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326075652id_/https%3A//www.doubletakeoffers.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doubletakeoffers.com privacy policy that was archived on 2014-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140713091448id_/https%3A//www.doubletakeoffers.com/privacypolicy) for the most accurate reproduction.*
 
 # 
+
+### Privacy Policy 
 
 **Last Updated: Feburary 13, 2013**
 
@@ -8,30 +10,24 @@ DoubleTakeOffers takes seriously your interest in how your information is collec
 
 This Privacy Policy discloses the privacy practices of this website (DoubleTakeOffers.com, the "Site"). Specifically, it outlines the types of information that we gather about you while you are using the Site, and the ways in which we use and share this information. This Privacy Policy does not apply to any information you may provide to us, or that we may collect, offline and/or through other means (for example, at a live event, via telephone, or through the mail).
 
-Please read this Privacy Policy carefully. By visiting and using the Site, you agree that your use of our Site, and any dispute over our online privacy practices, is governed by this Privacy Policy and our Terms of Service. Because the Web is an evolving medium, we may need to change our Privacy Policy at some point in the future, in which case we'll post the revised Privacy Policy on this website and update the "Last Updated" date to reflect the date of the changes. By continuing to use the Site after we post any such changes, you accept the Privacy Policy as modified.
+Please read this Privacy Policy carefully. By visiting and using the Site, you agree that your use of our Site, and any dispute over our online privacy practices, is governed by this Privacy Policy and our Terms of Service. Because the Web is an evolving medium, we may need to change our Privacy Policy at some point in the future, in which case we''ll post the revised Privacy Policy on this website and update the "Last Updated" date to reflect the date of the changes. By continuing to use the Site after we post any such changes, you accept the Privacy Policy as modified.
 
-  
-
-
-### Your California Privacy Rights
+### Your California Privacy Rights 
 
 California Civil Code Section 1798.83, also known as the "Shine The Light" law, permits our customers who are California residents to request and obtain from us once a year, free of charge, information about the personal information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of personal information that was shared and the names and addresses of all third parties with which we shared information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to:
 
-Kim Jaske   
-Online Privacy Coordinator   
-DoubleTakeOffers.com   
-Gannett Law Department   
-7950 Jones Branch Drive   
+Kim Jaske  
+Online Privacy Coordinator  
+DoubleTakeOffers.com  
+Gannett Law Department  
+7950 Jones Branch Drive  
 McLean, VA 22107
-
-  
-
 
 ### How We Collect and Use Information
 
 We may collect and store information, including personally identifiable information (such as your name, postal address or email address) or other information, that you voluntarily supply to us while on our Site. Some examples of this type of information include information that you electronically submit when you contact us with questions, information that you post on discussion forums or other community posting and social networking areas on our Site, and information that you electronically submit when you complete an online registration form to access and use certain features of our Site. We also may ask for information (including a credit card number and other financial information) from those users who make purchases or have payment transactions on our Site. If you decline to supply or provide us with certain information while using the Site, you may not be able to use or participate in some or all of the features offered through the Site.
 
-We also collect and store non-personally identifiable information that is generated automatically as you navigate through the Site. For example, we may collect information about your computer's connection to the Internet, which allows us, among other things, to improve the delivery of our web pages to you and to measure traffic on the Site. We also may use a standard feature found in browser software called a "cookie" to enhance your experience with the Site. Cookies are small files that your web browser places on your hard drive for record-keeping purposes. By showing how and when visitors use the Site, cookies help us deliver advertisements, identify how many unique users visit us, and track user trends and patterns. They also prevent you from having to re-enter your preferences on certain areas of the Site where you may have entered preference information before. This Site also may use web beacons (single-pixel graphic files also known as "transparent GIFs") to access cookies and to count users who visit the Site or open HTML-formatted email messages.
+We also collect and store non-personally identifiable information that is generated automatically as you navigate through the Site. For example, we may collect information about your computer''s connection to the Internet, which allows us, among other things, to improve the delivery of our web pages to you and to measure traffic on the Site. We also may use a standard feature found in browser software called a "cookie" to enhance your experience with the Site. Cookies are small files that your web browser places on your hard drive for record-keeping purposes. By showing how and when visitors use the Site, cookies help us deliver advertisements, identify how many unique users visit us, and track user trends and patterns. They also prevent you from having to re-enter your preferences on certain areas of the Site where you may have entered preference information before. This Site also may use web beacons (single-pixel graphic files also known as "transparent GIFs") to access cookies and to count users who visit the Site or open HTML-formatted email messages.
 
 If you want to limit the non-personally identifiable information that is automatically collected while you use our Site, most Web browsers allow you to disable cookies. To disable cookies using Internet Explorer, select "Internet Options" under the Tools menu and click on "Privacy." Select "High" or "Block All Cookies." To disable cookies using Mozilla Firefox, select "Options" under the "Tools" menu. If you choose to disable cookies, you may not be able to use or participate in some or all of the features offered through the Site.
 
@@ -55,9 +51,6 @@ Please be aware that we may occasionally release information about our visitors 
 
 Please also note that as our business grows, we may buy or sell various assets. In the unlikely event that we sell some or all of our assets, or our Site is acquired by another company, information about our Site users may be among the transferred assets.
 
-  
-
-
 ### Data Collected in Connection with Ad Serving and Targeting
 
 We may use cookies, web beacons and similar technologies, and/or third-party ad serving software, to collect non-personally identifiable information about site users and site activity, and we may use this information to, among other things, serve targeted advertisements on this site. The information collected allows us to analyze how users use the site and to track user interests, trends and patterns, thus allowing us to deliver more relevant advertisements to users.
@@ -68,15 +61,9 @@ The data collected in connection with the ad serving and ad targeting on our Sit
 
 The use and collection of information by third-party advertising service providers is governed by the relevant third party's privacy policy and is not covered by our privacy policy. If you would like more information about the information collection practices of a particular service provider, or if you would like more information on how to opt out of a service provider's information collection practices, please Click HERE.
 
-  
-
-
 ### Information You Post to Discussion Forums and Other Community Posting or Social Networking Areas of the Site
 
 Please keep in mind that whenever you voluntarily make your personal information or other private information available for viewing by third parties online - for example, posting a comment or review on discussion forums or any community posting or social networking area of our Site - that information can be seen, collected and used by others besides us. We cannot be responsible for any unauthorized third-party use of such information.
-
-  
-
 
 ### Children's Privacy Statement
 
@@ -87,36 +74,26 @@ This children's privacy statement explains our practices with respect to the onl
   * We do NOT knowingly allow children under the age of 13 to publicly post or otherwise distribute personally identifiable contact information through the Site.
   * Because we do not collect any personally identifiable information from children under the age of 13 via the Site, we do NOT condition the participation of a child under 13 in the Site's online activities on providing personally identifiable information.
 
-  
 
 
 ### How To Make Changes to Your Information
 
 If you are a registered member of our Site, you can make changes to your account information by logging in to the Site and using the account tools available via the Site. If you have any questions about modifying your account or preference information, please visit the "Customer Service" pages of our Site.
 
-  
-
-
 ### Storage of Information
 
 All information we gather on our Site is stored within a database to which only we and our hosting services provider are provided access. However, as effective as the reasonable security measures implemented by us may be, no physical or electronic security system is impenetrable. We cannot guarantee the security of our Site's servers or databases, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet.
-
-  
-
 
 ### Questions Regarding Privacy
 
 If you have any questions about this Privacy Policy, our privacy practices, or your dealings with us, you can contact:
 
-Kim Jaske   
-Online Privacy Coordinator   
-DoubleTakeOffers.com   
-Gannett Law Department   
-7950 Jones Branch Drive   
+Kim Jaske  
+Online Privacy Coordinator  
+DoubleTakeOffers.com  
+Gannett Law Department  
+7950 Jones Branch Drive  
 McLean, VA 22107
-
-  
-
 
 ### Effective Date of this Privacy Policy
 
