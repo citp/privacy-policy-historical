@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tvshow7.eu privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625104825id_/http%3A//www.tvshow7.eu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvshow7.eu privacy policy that was archived on 2014-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140713201406id_/http%3A//www.tvshow7.eu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
