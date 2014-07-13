@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the caspio.net privacy policy that was archived on 2012-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120513123437id_/http%3A//www.caspio.com/company/legal/privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caspio.net privacy policy that was archived on 2014-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140713021813id_/http%3A//www.caspio.com/company/legal/privacy-statement.aspx) for the most accurate reproduction.*
 
 # Caspio Privacy Statement
 
-[](http://www.truste.org/ivalidate.php?url=caspio.com&sealid=102)
+[](http://privacy.truste.com/privacy-seal/Caspio,-Inc-/validation?rid=708da14a-6fee-4290-bbed-18a28f11f4b2 "TRUSTe European Safe Harbor certification")
 
 ## For Website Users and Clients
 
-Last modified March 7, 2012.
+Last modified April 15, 2014.
 
 ### OVERVIEW
 
@@ -14,9 +14,7 @@ Caspio, Inc. is committed to respecting your privacy and the privacy of the info
 
 We want you to know that we are not in the business of selling or renting individuals' personal data to other companies for any purpose.
 
-This Privacy Statement contains Caspio's handling of personally identifiable information that is gathered when you are on Caspio's site, and when you use Caspio's services. This Privacy Statement applies exclusively to the sites [www.caspio.com](https://web.archive.org/) and [caspio.net](https://web.archive.org/). This policy does not cover or apply to the practices of organizations that use our services on their websites, that Caspio does not own or control, information collected offline, or to non-Caspio employees.
-
-Caspio, Inc. is a Licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build users' trust in the internet by promoting the use of fair information practices. We have elected to disclose our information practices and have our privacy practices reviewed for compliance by TRUSTe as a testament of our commitment to your privacy. Please direct all your inquiries pertaining to the Site, Service, or this Statement to us by [contacting Caspio](https://web.archive.org/company/contact.aspx). In the event your inquiry isn't acknowledged within a reasonable time expectation, or hasn't been addressed to your satisfaction, please [contact TRUSTe](http://www.truste.com/consumers/watchdog_complaint.php). TRUSTe shall then serve as a liaison with us to resolve your concerns.
+Caspio, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/index.html "TRUSTe Program Requirements") including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover downloadable software and only covers caspio.com websites.  TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. Please direct all your inquiries pertaining to the Site, Service, or this Statement to us by [contacting Caspio](https://web.archive.org/company/contact.aspx). In the event your inquiry isn't acknowledged within a reasonable time expectation, or hasn't been addressed to your satisfaction, please [contact TRUSTe](http://www.truste.com/consumers/watchdog_complaint.php). TRUSTe shall then serve as a liaison with us to resolve your concerns.
 
 Caspio complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  Caspio has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Caspio's certification, please visit <http://www.export.gov/safeharbor/>.
 
@@ -69,11 +67,19 @@ We may encourage our customers and website visitors to email pages of our websit
 
 ### LINKS TO OTHER WEBSITES
 
-Our website contains links to information on other websites. We do not have any control over these other websites, and therefore we cannot be responsible for the protection and privacy of any information that you provide while visiting those sites. Those sites are not governed by this Privacy Statement, and if you have questions about how a site uses your information, consult that site's privacy statement.
+Our website contains links to information on other websites. We do not have any control over these other websites, and therefore we cannot be responsible for the protection and privacy of any information that you provide while visiting those sites. Those sites are not governed by this Privacy Statement, and if you have questions about how a site uses your information, consult that site's privacy statement. Your friend may [contact us](https://web.archive.org/company/contact.aspx "Contact Caspio") to request that we remove this information from our database.
+
+### SOCIAL MEDIA FEATURES AND WIDGETS
+
+Our web site includes social media features, such as the Facebook Like button and widgets, such as the ShareThis button or interactive mini-programs that run on our site. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our web site. Your interactions with these features are governed by the privacy policy of the company providing it.
 
 ### CHANGING OR DELETING YOUR PERSONAL INFORMATION
 
 At any time, Caspio allows you to change or delete inaccuracies in the personally identifiable information you provided when signing up for Caspio service. In order to change or delete inaccuracies in your information, log into your account and select the Account Information option. If the options provided do not fully meet your needs, please [contact us](https://web.archive.org/company/contact.aspx). We will respond to your request to access within 30 days.
+
+### DATA RETENTION
+
+We will retain your information for as long as your account is active or as needed to provide you services.  We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 ### SECURITY
 
@@ -105,13 +111,17 @@ To deactivate your account, [contact Caspio Support](https://web.archive.org/sup
 
 From time to time, we post customer testimonials on the Site that may include their name, logo, graphic, sound or image. We obtain customer consent prior to posting their testimonials on the site. We are not responsible for the personal information a user elects to disclose in their testimonial. When users' elect to register their information to communicate in our forums, please be advised we're not responsible for the personal information users elect to share over this public platform. Please be advised any personal information disclosed can be used to send you unsolicited messages by other members of this forum.
 
+### BLOGS AND FORUMS
+
+Our website offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, please [contact us](https://web.archive.org/company/contact.aspx "Contact Caspio"). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+
 ### LIVE CHAT
 
 We provide real time live chat capabilities on the Site through a third party agent. When offline, the chat services records your inquiry which requires disclosure of your email to facilitate a response to you; this personal information is not used for promotional purposes.
 
 ### MATERIAL CHANGES
 
-We reserve the right to make changes to this statement at our discretion. Should we make material changes to the manner in which your collected personal information is utilized, we shall post a prominent notice on the Site, or notify you by email of the change and your choices.
+We reserve the right to make changes to this statement at our discretion. Should we make material changes to the manner in which your collected personal information is utilized, we shall post a prominent notice on the Site, or notify you by email of the change and your choices prior to the change becoming effective.
 
 ### OUR PRIVACY PRINCIPLES
 
@@ -131,10 +141,4 @@ In providing services to our customers, it is Caspio's policy to use cookies onl
 
 ### COMMENTS AND SUGGESTIONS
 
-To contact us regarding this Privacy Statement, [contact us](https://web.archive.org/company/contact.aspx) on the Caspio.com website or write to Caspio at:
-
-**Address:**  
-Caspio, Inc.  
-Privacy  
-485 N. Whisman Road, Suite 200  
-Mountain View, CA 94043, USA
+To contact us regarding this Privacy Statement, [contact us](https://web.archive.org/company/contact.aspx) on the Caspio.com website.
