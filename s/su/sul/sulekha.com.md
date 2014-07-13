@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sulekha.com privacy policy that was archived on 2013-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131116031404id_/http%3A//www.sulekha.com/collateral/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sulekha.com privacy policy that was archived on 2014-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140713135946id_/http%3A//www.sulekha.com/collateral/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy Sulekha.com: For all your local needs
 
