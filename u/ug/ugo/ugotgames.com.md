@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ugotgames.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209070913id_/http%3A//www.ugotgames.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ugotgames.com privacy policy that was archived on 2014-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140713123529id_/http%3A//www.ugotgames.com/privacy.php) for the most accurate reproduction.*
 
 # UGotGames.com - Free Flash Games & Free Java Games
 
