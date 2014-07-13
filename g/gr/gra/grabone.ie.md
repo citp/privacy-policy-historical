@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grabone.ie privacy policy that was archived on 2013-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131115052308id_/http%3A//www.grabone.ie/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grabone.ie privacy policy that was archived on 2014-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140713073012id_/http%3A//www.grabone.ie/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – GrabOne
 
@@ -58,7 +58,7 @@ You can choose to refuse cookies by turning them off in your browser and/or dele
   6. Security back to top
     1. As no data transmission over the Internet can be guaranteed to be completely secure, we cannot ensure or warrant the security of any information you transmit or receive through the Website. These activities are conducted at your own risk.
   7. Changes to Policy back to top
-    1. We reserve the right to change this policy at any time by notifying users of the existence of a revised policy by updating the "last updated" notice beside the link to this policy. By continuing to use the Website, you agree to be bound by the amended policy. You should check from time to time to see if the policy has changed or not.
+    1. We reserve the right to change this policy at any time by notifying users of the existence of a revised policy by updating the "last updated" date at the bottom of this page. By continuing to use the Website, you agree to be abound by the amended policy. You should check from time to time to see if the policy has changed or not.
   8. Holding, Correcting and Updating back to top
     1. Any personal information that you provide to us will be collected and held by us at GrabOne (Ireland) Ltd.  Under the Data Protection Acts you have rights of access to and correction of personal information that we hold.
     2. Although we take reasonable steps to ensure that all data we use is accurate, we depend on our users to update or correct their personal information whenever necessary. We offer the ability for users to correct or change their personal information online at any time and as often as necessary.
@@ -66,3 +66,5 @@ You can choose to refuse cookies by turning them off in your browser and/or dele
     4. For information about Ireland’s Data Protection Acts 1988 – 2003 and how they protect the personal information of individuals in the Republic of Ireland, [click here](http://dataprotection.ie/).
 
 
+
+**Last updated:** Jul 2, 2014
