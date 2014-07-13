@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autobargainsusa.com privacy policy that was archived on 2014-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140220075012id_/http%3A//www.autobargainsusa.com/Shrd/Docs/Privacy.aspx%3FType%3DAutos) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autobargainsusa.com privacy policy that was archived on 2014-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140713164724id_/http%3A//www.autobargainsusa.com/Shrd/Docs/Privacy.aspx%3FType%3DAutos) for the most accurate reproduction.*
 
 # Your Privacy Rights Summarized
 
