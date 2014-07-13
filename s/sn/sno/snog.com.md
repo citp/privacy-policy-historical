@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snog.com privacy policy that was archived on 2013-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130913054246id_/https%3A//snog.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snog.com privacy policy that was archived on 2014-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140713090047id_/https%3A//snog.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -37,10 +37,6 @@ You can unsubscribe directly by clicking the 'unsubscribe' link in any email not
 You can also request to be unsubscribed by contacting us by email or mail, at:
 
 [contact@snog.com](mailto:contact@snog.com)  
-Unit 201, 1020 Hamilton St  
-Vancouver, BC V6B 2R9  
-Canada  
-Phone: +1 (604) 628-9388  
 
 
 ## Aggregated Statistics
