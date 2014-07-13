@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the staplespromotionalproducts.com privacy policy that was archived on 2013-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130509180924id_/http%3A//www.staplespromotionalproducts.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the staplespromotionalproducts.com privacy policy that was archived on 2014-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140713160618id_/http%3A//www.staplespromotionalproducts.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Staples Promotional Products Privacy Policy
 
-Effective 10/20/2009
+Effective 01/01/2014
 
 At Staples your privacy is as important to us as it is to you. Our Customer Personal Information Privacy Policy defines how Staples protects your privacy. This Privacy Policy describes:
 
@@ -101,7 +101,7 @@ Choices for Personal Information
 
 To further improve your shopping experience, Staples partners with third party vendors to evaluate how the Website is used and to provide continuous improvement for our services. Like most websites, we use "cookies" for a variety of purposes to improve your visits to the Website. Cookies are pieces of information that a website transfers to the hard drive on your computer for record-keeping purposes. For example, we use cookies to understand which web pages are visited, how often they are visited, to remember you when you return to the Website, and to generally make the Website more user-friendly.
 
-Most browsers are initially set up to accept cookies. You may decide to reset your browser to refuse all cookies or to notify you when a cookie is being sent. However, if you do decide to refuse all cookies please be aware that some Website features and Staples services may be unavailable or may not function properly.
+Most browsers are initially set up to accept cookies. You may decide to reset your browser to refuse all cookies or to notify you when a cookie is being sent. However, if you do decide to refuse all cookies, please be aware that some Web site features and Staples services may be unavailable or may not function properly. Browser settings, including do not track signals and other mechanisms, will not affect data collection and not constitute an opt-out of advertising-related cookies, personalized third-party advertising, or promotional messages from Staples; you must use the opt-out choices described herein in order to opt-out from such promotional messages.
 
 To opt out of Staples advertising-related cookies, follow the links for our partners below:
 
