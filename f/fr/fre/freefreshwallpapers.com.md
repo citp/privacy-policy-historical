@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freefreshwallpapers.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625130409id_/http%3A//freefreshwallpapers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freefreshwallpapers.com privacy policy that was archived on 2014-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140713225619id_/http%3A//freefreshwallpapers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Free HD Wallpapers
 
