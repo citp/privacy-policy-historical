@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acuityscheduling.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628232251id_/https%3A//acuityscheduling.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acuityscheduling.com privacy policy that was archived on 2014-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140714004607id_/https%3A//www.acuityscheduling.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Acuity Online Appointment Scheduling Software
 
@@ -10,7 +10,7 @@ Thank you for visiting our web site. This privacy policy tells you how we use pe
 
 ## Collection of Information
 
-We collect personally identifiable information, like names, postal addresses, email addresses, etc., when voluntarily submitted by our visitors. The information you provide is used to fulfill you specific request. This information is only used to fulfill your specific request, unless you give us permission to use it in another manner. Specific information on user accounts or appointments will not sold or given to any individuals or businesses outside of Acuity Scheduling.
+We collect personally identifiable information, like names, postal addresses, email addresses, etc., when voluntarily submitted by our visitors. This information is only used to fulfill your specific request, unless you give us permission to use it in another manner. Specific information on user accounts or appointments will not sold or given to any individuals or businesses outside of Acuity Scheduling.
 
 ## Cookie/Tracking Technology
 
