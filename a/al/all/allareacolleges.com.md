@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allareacolleges.com privacy policy that was archived on 2014-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140207235114id_/http%3A//allareacolleges.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allareacolleges.com privacy policy that was archived on 2014-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140713214626id_/http%3A//allareacolleges.com/privacy.asp) for the most accurate reproduction.*
 
 # AllAreaColleges.com
 
@@ -79,7 +79,7 @@ __5115 Excelsior Boulevard, Suite 217_ _ 
 St Louis Park, MN 55416_   
 
 
-_Tel: 888-940-4666_    
+_Tel: 612-201-5872_    
 
 
 [__info@dualcitymedia.com__](mailto:info@dualcitymedia.com)
