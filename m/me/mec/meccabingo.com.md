@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meccabingo.com privacy policy that was archived on 2013-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131011222418id_/http%3A//www.meccabingo.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meccabingo.com privacy policy that was archived on 2014-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140714010222id_/http%3A//www.meccabingo.com/help/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Help | Mecca Bingo
 
