@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nextgen.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625181439id_/http%3A//www.nextgen.com/Legal/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nextgen.com privacy policy that was archived on 2014-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140714013254id_/https%3A//www.nextgen.com/Legal/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | NextGen Healthcare
 
