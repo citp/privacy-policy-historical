@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funnyandjokes.com privacy policy that was archived on 2014-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140402030535id_/http%3A//www.funnyandjokes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funnyandjokes.com privacy policy that was archived on 2014-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140713174440id_/http%3A//www.funnyandjokes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Funny and Jokes
 
