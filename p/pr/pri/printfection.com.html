@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the printfection.com privacy policy that was archived on 2014-04-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140429155520id_/http%3A//www.printfection.com/help/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the printfection.com privacy policy that was archived on 2014-07-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140714002622id_/http%3A//www.printfection.com/help/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><!--<![endif]--><head>
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -9,7 +9,7 @@
   <meta property="twitter:account_id" content="8235452">
 
   <!-- Stylesheets -->
-    <link charset="utf-8" href="http://www.printfection.com/wp-content/themes/printfection-marketing/css/application.042520140023.css" media="all" rel="Stylesheet" title="Screen Stylesheet" type="text/css">
+    <link charset="utf-8" href="http://www.printfection.com/wp-content/themes/printfection-marketing/css/application.063020140309.css" media="all" rel="Stylesheet" title="Screen Stylesheet" type="text/css">
   <link href="http://fonts.googleapis.com/css?family=Gloria+Hallelujah|Maven+Pro:400,500,700" rel="stylesheet" type="text/css">
 
   <!-- Shortcut Icons -->
@@ -97,79 +97,87 @@
 
         
         <div class="control-group">
-          <label for="full_name" class="control-label">Your Name</label>
+          <label for="full_name" class="control-label">Your Name <span>*</span></label>
           <div class="controls">
             <input type="text" class="span3" name="full_name" value="" placeholder="full name" id="full_name" tabindex="1">
           </div>
         </div>
         <div class="control-group">
-          <label for="email" class="control-label">Work E-Mail</label>
+          <label for="email" class="control-label">Work E-Mail <span>*</span></label>
           <div class="controls">
             <input type="text" class="span3" name="email" value="" placeholder="email@company.com" id="email" tabindex="2">
           </div>
         </div>
         <div class="control-group">
-          <label for="password" class="control-label">Password</label>
+          <label for="password" class="control-label">Password <span>*</span></label>
           <div class="controls">
             <input type="password" name="password" value="" placeholder="password" id="password" tabindex="3">
           </div>
         </div>
         <div class="control-group">
-          <label for="password2" class="control-label">Confirm Password</label>
+          <label for="password2" class="control-label">Confirm Password <span>*</span></label>
           <div class="controls">
             <input type="password" name="password2" value="" placeholder="confirm" id="password2" tabindex="4">
           </div>
         </div>
         <div class="control-group">
-          <label for="title" class="control-label">Job Title</label>
+          <label for="title" class="control-label">Job Title <span>*</span></label>
           <div class="controls">
             <input type="text" class="span3" name="title" value="" placeholder="job title" id="title" tabindex="5">
           </div>
         </div>
         <div class="control-group">
-          <label for="company" class="control-label">Company Name</label>
+          <label class="control-label" for="role">Job Function <span>*</span></label>
           <div class="controls">
-            <input type="text" class="span3" name="company" value="" placeholder="company name" id="company" tabindex="6">
+            <select name="role" id="role" tabindex="6">
+              <option value="">choose your role</option>
+              <option value="Company-Wide Strategy">Overall Company Strategy</option>
+              <option value="Marketing Strategy">Marketing Strategy</option>
+              <option value="Marketing Implementation">Marketing Implementation</option>
+              <option value="Sales / Business Development">Sales / Business Development</option>
+              <option value="Customer Success">Customer Success</option>
+              <option value="Community / Events">Community / Events</option>
+              <option value="other">Other</option>
+            </select>
           </div>
         </div>
         <div class="control-group">
-          <label for="website" class="control-label">Website</label>
+          <label for="company" class="control-label">Company Name <span>*</span></label>
           <div class="controls">
-            <input type="text" class="span3" name="website" value="" placeholder="www.company.com" id="website" tabindex="7">
+            <input type="text" class="span3" name="company" value="" placeholder="company name" id="company" tabindex="7">
           </div>
         </div>
         <div class="control-group">
-          <label for="employees" class="control-label"># of Employees</label>
+          <label for="employees" class="control-label"># of Employees <span>*</span></label>
           <div class="controls">
             <input type="text" name="employees" value="" class="span2" placeholder="# of employees" id="employees" tabindex="8">
           </div>
         </div>
         <div class="control-group">
-          <label class="control-label" for="goal">Goal</label>
-          <div class="controls">
-            <select name="goal" id="goal" tabindex="9">
-              <option value="">Choose a Goal</option>
-              <option value="Events">I want to distribute swag at events</option>
-              <option value="Giveaways">I want to give swag to my customers, employees or fans</option>
-              <option value="Increase Leads">I want to use swag to increase leads</option>
-              <option value="Sell for Profit">I want to sell swag for profit</option>
-            </select>
+          <label class="control-label" for="goal-1">I'm looking to: <span>*</span></label>
+          <div class="controls full goals">
+            <label for="goal-1" class="checkbox"><input class="goal-check" type="checkbox" id="goal-1" value="Giveaways: Reward Customers" name="goal[]" tabindex="9"> Reward customers with thank-you gifts</label>
+            <label for="goal-2" class="checkbox"><input class="goal-check" type="checkbox" id="goal-2" value="Increase Leads" name="goal[]" tabindex="10"> Increase quality leads with a swag incentive</label>
+            <label for="goal-3" class="checkbox"><input class="goal-check" type="checkbox" id="goal-3" value="Giveaways: Employee Swag" name="goal[]" tabindex="11"> Get swag for employees</label>
+            <label for="goal-4" class="checkbox"><input class="goal-check" type="checkbox" id="goal-4" value="Events" name="goal[]" tabindex="12"> Order swag for events</label>
+            <label for="goal-5" class="checkbox"><input class="goal-check" type="checkbox" id="goal-5" value="Giveaways: Run a Contest" name="goal[]" tabindex="13"> Run online swag giveaway contests</label>
+            <label for="goal-6" class="checkbox"><input type="checkbox" id="goal-6" value="Sell for Profit" name="goal[]" tabindex="14"> Sell swag for profit</label>
           </div>
         </div>
-        <div class="control-group budget-input">
-          <label class="control-label" for="budget_yes">Have a swag budget?</label>
-          <div class="controls">
-            <label for="budget_yes" class="radio inline">
-              <input type="radio" id="budget_yes" name="budget" value="True" tabindex="10"> Yes
-            </label>
-            <label for="budget_no" class="radio inline">
-              <input type="radio" id="budget_no" name="budget" value="False" tabindex="11"> No
-            </label>
+        <div class="control-group">
+          <label class="control-label" for="comments">Your biggest challenge?</label>
+          <div class="controls full">
+            <textarea name="comments" class="challenge" id="comments" rows="2" tabindex="15"></textarea>
           </div>
         </div>
 
+        <div style="display:none;">
+          <input type="text" name="country">
+          <input type="text" name="city">
+          <input type="text" name="state">
+        </div>
 
-        <button class="action-button pink" id="submit-signup" tabindex="12">Start Now!</button>
+        <button class="action-button pink" id="submit-signup" tabindex="16">Start Now!</button>
 
         <div class="note">By creating an account you agree to the <a href="http://www.printfection.com/help/terms-of-service/" target="_blank">terms of service</a>.</div>
 
@@ -247,7 +255,7 @@
 
 <div style="display:none;">
 <!-- Scripts -->
-<script src="http://www.printfection.com/wp-content/themes/printfection-marketing/scripts/application.042520140023.js"></script>
+<script src="http://www.printfection.com/wp-content/themes/printfection-marketing/scripts/application.063020142341.js"></script>
 <script src="http://fast.wistia.com/static/popover-v1.js"></script>
 <script src="http://fast.wistia.com/static/iframe-api-v1.js"></script>
 </div>
