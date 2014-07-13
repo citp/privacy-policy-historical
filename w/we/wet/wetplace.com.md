@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wetplace.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630023401id_/http%3A//www.wetplace.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wetplace.com privacy policy that was archived on 2014-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140713182814id_/http%3A//www.wetplace.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy policy
 
