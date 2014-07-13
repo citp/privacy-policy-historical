@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webuyanycar.com privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623182510id_/http%3A//www.webuyanycar.com/PrivacyAndCookiesPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webuyanycar.com privacy policy that was archived on 2014-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140713032135id_/http%3A//www.webuyanycar.com/PrivacyAndCookiesPolicy) for the most accurate reproduction.*
 
 # Sell My Car Online | Privacy and Cookie Policy
 
