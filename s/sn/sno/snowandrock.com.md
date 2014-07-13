@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snowandrock.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325080611id_/http%3A//www.snowandrock.com/cookies-privacy/content/fcp-content) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snowandrock.com privacy policy that was archived on 2014-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140713224321id_/http%3A//www.snowandrock.com/cookies-privacy/content/fcp-content) for the most accurate reproduction.*
 
 # Cookie Policy | Privacy Policy - Snow+Rock
 
