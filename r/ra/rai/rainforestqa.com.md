@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rainforestqa.com privacy policy that was archived on 2014-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140407043305id_/https%3A//www.rainforestqa.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rainforestqa.com privacy policy that was archived on 2014-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140713092132id_/https%3A//www.rainforestqa.com/privacy) for the most accurate reproduction.*
 
 # Rainforest QA
 
