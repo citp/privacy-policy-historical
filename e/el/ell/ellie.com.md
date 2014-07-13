@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ellie.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326120602id_/https%3A//www.ellie.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ellie.com privacy policy that was archived on 2014-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140713094239id_/https%3A//www.ellie.com/pages/privacy) for the most accurate reproduction.*
 
 # Luxury Workout and Activewear for Women | Exercise Apparel | Ellie
 
