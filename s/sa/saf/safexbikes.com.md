@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the safexbikes.com privacy policy that was archived on 2014-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140611074951id_/http%3A//www.safexbikes.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safexbikes.com privacy policy that was archived on 2014-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140714082113id_/http%3A//www.safexbikes.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Safe-x Motorcycle Fairings And Mudguards - Our Privacy Policy
 
