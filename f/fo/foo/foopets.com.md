@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foopets.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326074108id_/https%3A//www.foopets.com/signup/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foopets.com privacy policy that was archived on 2014-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140715014631id_/http%3A//www.foopets.com/signup/privacy) for the most accurate reproduction.*
 
 # FooPets | Real Virtual Pets Online
 
