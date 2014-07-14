@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soundcu.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326113709id_/https%3A//www.soundcu.com/files/Privacy-Policy_Sound.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soundcu.com privacy policy that was archived on 2014-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140715003300id_/https%3A//www.soundcu.com/files/Privacy-Policy_Sound.pdf) for the most accurate reproduction.*
 
 # FACTS
 
