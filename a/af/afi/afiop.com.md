@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the afiop.com privacy policy that was archived on 2013-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131105114150id_/http%3A//www.afiop.com/%3Fpage_id%3D8) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afiop.com privacy policy that was archived on 2014-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140714095528id_/http%3A//www.afiop.com/%3Fpage_id%3D8) for the most accurate reproduction.*
 
 # Privacy Policy | Afiop.com
 
