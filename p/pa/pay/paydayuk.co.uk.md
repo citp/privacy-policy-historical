@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paydayuk.co.uk privacy policy that was archived on 2014-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140429065040id_/https%3A//www.paydayuk.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paydayuk.co.uk privacy policy that was archived on 2014-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140714111606id_/https%3A//www.paydayuk.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # PaydayUK - Privacy policy
 
@@ -183,7 +183,7 @@ Google Analytics cookies, used for page stats
 
 Warning: Late repayment can cause you serious money problems. For help, go to money advice service.org.uk 
 
-## Representative Example: ³£275 borrowed for 28 days. Annual interest rate of 359.40% (fixed). Total amount repayable by one repayment is £357.36. 3361% APR Representative.
+## Representative Example: ³£275 borrowed for 28 days. Annual interest rate of 359.40% (fixed). Total amount repayable by one repayment is £357.36. 5290% APR Representative.
 
 ## Existing customers
 
