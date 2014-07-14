@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the dragonballclub.com privacy policy that was archived on 2014-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140218183758id_/http%3A//www.dragonballclub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dragonballclub.com privacy policy that was archived on 2014-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140714121341id_/http%3A//www.dragonballclub.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | dragonballclub.com
+# Privacy Policy | DragonBallClub.net
 
 Our Commitment To Privacy  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
 The Information We Collect:  
-This notice applies to all information collected or submitted on the www.dragonballclub.com website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are:
+This notice applies to all information collected or submitted on the www.dragonballclub.net website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are:
 
 Name  
 Address  
@@ -51,4 +51,4 @@ You can correct factual errors in your personally identifiable information by se
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
 
 How To Contact Us  
-Should you have other questions or concerns about these privacy policies, please send us an email at admin@dragonballclub.com.
+Should you have other questions or concerns about these privacy policies, please send us an email at admin@dragonballclub.net.
