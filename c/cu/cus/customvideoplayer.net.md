@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the customvideoplayer.net privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208052937id_/https%3A//www.mycvp.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the customvideoplayer.net privacy policy that was archived on 2014-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140714122816id_/http%3A//www.customvideoplayer.net/privacy) for the most accurate reproduction.*
 
-# MyCVP.net
+# Custom Video Player
 
 Your privacy is important to customvideoplayer.net. This privacy statement provides information about the personal information that customvideoplayer.net collects, and the ways in which customvideoplayer.net uses that personal information.
 
@@ -76,8 +76,8 @@ customvideoplayer.net is not responsible for the privacy policies or practices o
 
 ## Contact customvideoplayer.net
 
-If you have any questions about this privacy policy or treatment of your personal information, please write:
+If you have any questions about this privacy policy or [NAME'S] treatment of your personal information, please write:
 
-  * by email from our company website [here](http://www.masterylabs.com/) or post to Mastery Labs LLC, 160 Greentree Drive, Suite 101, Dover DE 19904
+  * by email [here](http://www.masterylabs.com.au/contact) or post to Level 6, 111 Macquarie Street, Hobart, Tasmania 7000, Australia.
 
 
