@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yumgoggle.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626060554id_/http%3A//www.yumgoggle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yumgoggle.com privacy policy that was archived on 2014-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140714042702id_/http%3A//www.yumgoggle.com/privacy-policy) for the most accurate reproduction.*
 
 # privacy policy | YumGoggle
 
