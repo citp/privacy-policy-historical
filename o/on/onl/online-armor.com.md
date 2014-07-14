@@ -1,53 +1,70 @@
-> *The following text is extracted and transformed from the online-armor.com privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418020541id_/http%3A//www.tallemu.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the online-armor.com privacy policy that was archived on 2014-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140714194349id_/http%3A//www.emsisoft.com/en/software/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-### Tall Emu Pty Ltd Privacy Policy
+### Privacy Policy
 
-#### 1 May 2005
+As a company which sells security software, we take your privacy very seriously. This page details the type of information we store about you and how we use it.
 
-What information do we store and Why? 
+#### Information about you
 
-We store as little information as necessary to provide you with the services you receive from us. 
+You can use our software trials without disclosing your name for up to 30 days and our freeware software without a time limit. If you order a full version and register your license key, the license will be associated with the email address you used to register your user account.
 
-#### Billing and Account Management
+We would like to make our position clear at this point and assure you that we will never consciously install a hole in our Anti-Malware series of products in order to allow access for a Government Trojan or similar software. If it ever comes to a legislative or court decision that forces us to do this then we will immediately notify our users of this fact. Especially the behavior analysis module of Emsisoft Anti-Malware does not distinguish between "benign" and "malignant" pests. As a user, you always have the possibility of immediately blocking a suspicious program.
 
-We store your name, telephone number and address and email details for billing and account management purposes. 
+If you subscribe to any of our newsletters, a user account will be created for you if you don't already have one.
 
-#### Piracy protection
+An Emsisoft user account contains the following information:
 
-When you install Online Armor we take a non-identifiable fingerprint of your hardware. This is used soley to ensure you do not install Online Armor on more machines than your licence key permits.
-
-#### Website
-
-Our website and forums may use session cookies to enhance your browsing experience. These are not stored persistently, unless you request that the forum remembers your username and password. Session cookies and forum cookies are in no way linked with any other information we hold.  To prevent idiots from filling our forums full of nonsense, our forum software logs IP addresses.  These also don't identify you and aren't linked with anything outside of the forum system.
-
-#### What do we do with this information?
-
-We use information you provide as described above only. If you opt to allow anonymous information regarding the programs you block or trust to be shared with us, we store the following piece of information:
-
-  * A fingerprint and other technical information about the program 
-  * Whether or not it was trusted 
-  * Version Information about the program 
-
+  * The name that you registered with (nicknames are permitted)
+  * The email address that you registered with
+  * A salted hash of your password (the password is never stored or sent in plain text).
+  * Your preferred language and your country based on your IP address.
+  * Your subsciptions to our newsletter channels.
+  * Optional information on the details of your registered licenses.
+  * Statistics on your use of our software updates.
+  * Optional information about alerts for suspicious files or hosts, if you enable the Anti-Malware Network feature in the software.
+  * Optional information on malware files that you have submitted for analysis.
+  * Information on how you found us (search engine, websites, magazines, etc).
+  * Optional information on whether you used a tagged setup file from our customer referral program.
+  * Your last known IP address.
 
 
-None of this is linked to your account(s) in any way, and we take deliberate steps to ensure this information remains anonymous. It is not possible for Tall Emu or any other party to know what programs are running on your computer, but this information does help us understand which programs are being installed in aggregate by our users and prioritises our followup in testing programs for the trusted program list. 
 
-#### With whom do we share this information?
+#### Anti-Malware Network
 
-The only personal information that is shared with a third party is your payment details. We use Worldpay Inc. (A Royal Bank of Scotland Company) to provide a credit card payment facility. Tall Emu does not store your credit card details on its servers, nor does it ever have access to your credit card details..
+If you choose to participate in the Anti-Malware Network community, our software might send information about detected malware, software behavior, operating system variables and blocked hosts to the Emsisoft servers. The data is processed by our servers to generate statistics and suggestions to help other Anti-Malware Network participants.
 
-#### How do you access your information?
+#### Information on newsletters, how to cancel and recorded data
 
-The only personal information we store about you relates to billing. You can see this information by logging into the user area.  If your email address has been changed, unfortunately we will be unable to help you since we don't have enough other information to positively identify you.
+E-mails containing commercial information about us and our services as well as our products, are sent with your explicit consent only.
 
-#### How do we secure your information?
+Messages sent within the context of our contractual relationship with customers are not part of commercial information and do not require your consent. This includes sending of technical information; information about changes to our services, prices or contractual provisions; billing; further inquiries about your orders and similar messages.
 
-Your name name, telephone number and address and email details are stored in a database located behind our firewall and access is controlled by password. 
+Before receipt of our newsletters, you will receive a confirmation mail requiring you to confirm your subscription. Subscriptions that have not been confirmed within four weeks time will be discarded. You can cancel your subscription at any time via a number of methods, including the unsubscribe link contained within each e-mail.
 
-#### How do we communicate with you?
+As part of your subscription, we record your registration and confirmation as well as your IP address. Furthermore, we record data on the sending and receipt of all newsletters. This information is used exclusively to provide proof that we comply with the legal obligations for sending solicited newsletters.
 
-We will communicate with you via email. It will be for the purpose of service announcements and/or billing reminders only.  We also communicate with our customers in the public forums.
+#### Data circulation to third parties
 
-For more information Please [contact us ](https://web.archive.org/web/20090418020541id_/http%3A//www.tallemu.com/contact_us.html)
+Any information we collect from you is only used by us to serve you better. Your information is never given to a third party.
+
+The posts on our discussion forums are publically accessible. Before submitting a post you should ensure that you did not enter any personal data. Search engines can and do collect information from the discussion forums and can publish it even if the information has been deleted from our servers. Deletion or correction of such postings held in a cache by 3rd parties such as search engines is not always possible.
+
+#### Your right to cancel
+
+If you wish to cancel your account, please contact us and we will remove your account information as soon as possible.
+
+#### Links to other websites
+
+Our website contains links to third-party websites. We have no influence over these websites and can not guarantee their privacy policies. We do not share your information with any of these sites.
+
+#### Google Analytics
+
+This website uses Google Analytics, a web analytics service provided by Google, Inc. ("Google"). Google Analytics uses "cookies", which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address)will be transmitted to and stored by Google on servers in the United States. 
+
+Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google’s behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this website. 
+
+In addition, you can prevent the gathering of data (including your IP address) generated by the cookie and related to your website usage for Google and the processing of this data through Google by downloading and installing the Browser-Plugin available via the following link. In the light of the discussions about the usage of analysis tools with complete IP addresses, we would like to advise you that this website uses Google Analytics with the "_anonymizelp()" extension and thus IP addresses are only processed in shortened form in order to prevent a direct personal reference. Further information can be found under <http://tools.google.com/dlpage/gaoptout?hl=en> or <http://www.google.com/intl/en/analytics/privacyoverview.html> general information on Google Analytics and data privacy). 
+
+By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
