@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the myfunmails.com privacy policy that was archived on 2012-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120607044157id_/http%3A//www.myfunmails.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfunmails.com privacy policy that was archived on 2014-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140714023559id_/http%3A//www.myfunmails.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | My Fun Mails
+# Privacy Policy ~ My Fun Mails
 
 http://www.myfunmails.com has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site.
 
