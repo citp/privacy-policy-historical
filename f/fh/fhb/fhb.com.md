@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fhb.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326032537id_/https%3A//www.fhb.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fhb.com privacy policy that was archived on 2014-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140714043834id_/https%3A//www.fhb.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy - First Hawaiian Bank
 
