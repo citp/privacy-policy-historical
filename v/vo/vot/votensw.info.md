@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the votensw.info privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210091220id_/http%3A//www.votensw.info/footer_navigation/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the votensw.info privacy policy that was archived on 2014-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140714211717id_/http%3A//www.votensw.info/footer_navigation/privacy) for the most accurate reproduction.*
 
 # Privacy - NSW Electoral Commission
 
-**Information collection and privacy protection  
-**  
+## Information collection and privacy protection
+
 The Information Protection Principles of the Privacy and Personal Information Protection Act 1998 are the basis upon which personal information is collected, stored, used and disclosed by this Office.
 
 This Office aims to ensure that personal information gathered via the electoral process or in the carriage of the activities of this Office is secure and protected from unauthorised access and use. Our officers are expected to be diligent in ensuring that personal information is not inadvertently released.
 
 No officer is to disclose personal information unless authorised by legislation or approved by the Electoral Commissioner.
 
-**Your email address  
-**  
+### Your email address
+
 This Office will only record your email address in the event that you send a message by email. Your email address will only be used for the purpose for which you have provided it and will not be added to any mailing lists without your consent. This Office will not use or disclose your email address for any other purpose, without your prior written consent.
 
-**Clickstream data and cookies**
+### Clickstream data and cookies
 
 When visiting this website the site server makes a record of the visit and logs the following information for statistical purposes:
 
@@ -44,11 +44,11 @@ No attempt will be made to identify users or their browsing activities unless le
 
 This site contains links to other sites. This Office is not responsible for the privacy practices or the content of such websites. This Office has no knowledge if cookies or other tracking devices are used on linked websites.
 
-**Security of Information  
-**  
+### Security of Information
+
 We provide a secure environment and a reliable system but you should be aware that there may be inherent risks associated with the transmission of information via the Internet. For those who do not wish to use the Internet, this Office provides alternative ways of obtaining and providing information.
 
-**Need further information?**
+### Need further information?
 
 If you have any privacy concerns, please contact this Office on telephone 1300 135 736.
 
