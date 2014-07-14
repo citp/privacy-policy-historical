@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hidglobal.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209170050id_/http%3A//www.hidglobal.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hidglobal.com privacy policy that was archived on 2014-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140714115258id_/http%3A//www.hidglobal.com/about/privacy) for the most accurate reproduction.*
 
 # HID Global Corporation Privacy Policy
 
