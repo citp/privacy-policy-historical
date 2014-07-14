@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the waroftitans.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210165158id_/http%3A//www.waroftitans.com/index.es%3Faction%3Dinfo%26subAction%3DprivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the waroftitans.com privacy policy that was archived on 2014-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140714152519id_/http%3A//www.waroftitans.com/index.es%3Faction%3Dinfo%26subAction%3DprivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@ This Privacy Policy describes the types of personal and non-personal information
 
 If you access our games from a third party Social Networking Service ("SNS"), you may be required to also read and accept the SNS’s Terms of Service and Privacy Policy.
 
-Table of Contents
+Inhaltsverzeichnis
 
  | COLLECTION OF INFORMATION  
 ---|---  
@@ -37,20 +37,20 @@ When you use a Game provided through an SNS such as Facebook, where our games ar
 
 We enable users to chat and otherwise communicate in games and on our websites. We take measures so that chat users cannot disclose personal information, including filters and live moderation. We strongly encourage you not to disclose personal information of yourself or others in such chats or other public communication in our games our on our websites. Be aware that such information can be read, collected, stored and used by other users. Any such disclosure is at your own discretion and we are not responsible for any information you choose to disclose in such way.
 
-Back to top
+zurück nach oben
 
 You may access any personal information you provide to us, correct or modify any such personal information, or direct us to make no further use of your personal information. To do so, please send an email with your request to stop.en@bigpoint.com
 
-Back to top
+zurück nach oben
 
 We may use the information we collect from and about you for any of the following purposes: (1) to fulfill your requests for products and services; (2) to contact you when necessary; (3) to review Site usage and operations; (4) to address problems with the Site, our business or our products and services; and (5) to protect the security or integrity of the Site and our business. We may also use the information we collect from and about you to contact you with information and promotional materials and offers from our company, as well as from our subsidiaries, affiliates, marketing partners, advertisers and other third parties. We do not share personal information of children under 13 with third parties for their marketing purposes. If you would prefer not to receive such promotional communications, please follow the unsubscribe instructions within the email you received when setting up your account.   
 In addition to Personal Information and Non-Personal Information collected, you may choose to share information about yourself through other content ("Content"), such as in games or forums. Any information shared with other players are considered public and at your own discretion.
 
-Back to top
+zurück nach oben
 
 Bigpoint Inc. may disclose information collected from and about you as follows: (1) to our related companies, business partners and service providers to perform a business, professional or technical support function for us or to fulfill your product or service request; (2) as necessary if we believe that there has been a violation of the Site Terms of Use, or our rights, or the rights of any third party; (3) to respond to judicial process and provide information to law enforcement agencies or in connection with an investigation on matters related to public safety, as permitted by law, or otherwise as required by law; and (4) in the event that our company or substantially all of its assets are acquired, your personal information may be one of the transferred assets. (5) We may also sell, rent or lease your personal information to our marketing partners, advertisers or other third parties. We do not share personal information of children under 13 in this way. You may request that we do not share your personal information with third parties, which may prohibit access to certain features and elements of the Site. To do so, please send an email, with "Disclosure Opt-Out" in the subject line, to stop.en@bigpoint.com. We may provide your information to third party companies to perform services on our behalf, including payment processing, data analysis, email deliver, customer support, and various marketing activities. Any third party service provider is required to maintain the confidentiality of the information disclosed to them and to maintain at least the same level of privacy protection as provided by us. Notwithstanding anything else herein, we may partner with third party advertisers who may (themselves or through their partners) place or recognize a unique cookie on your browser. These cookies enable more customized ads, content or services to be provided to you. To trigger these cookies, we may pass an encrypted or "hashed" (non-human readable) identifier corresponding to your email address to a Web advertising partner, who may place a cookie on your computer. No personally identifiable information is on, or is connected to, these cookies. To opt-out of these cookies, please go to http://www.privacychoice.org/choose ." You expressly acknowledge that Bigpoint has no liability regarding any data collection process engaged by a third party while you are utilizing a Bigpoint service or while on a Bigpoint website. If you play a Game at a third-party SNS, Bigpoint will be able to access and store information about you as described herein. The categories of information you share will depend, in part, on the privacy settings you have established at the SNS where you access the application. The SNS may allow you to control how you share information with a third-party application (for example, a Bigpoint game as an application on the SNS website) through your privacy settings on the SNS. Bigpoint does not control the privacy settings made available through the SNS to the users of the SNS. Bigpoint refers you to the SNS’ privacy policy posted on the SNS’ site to determine what options are available regarding privacy settings on the SNS.
 
-Back to top
+zurück nach oben
 
 To manage the information Bigpoint receives about you from the SNS where you play the Game, you will need to follow the instructions at that SNS for updating and changing you account privacy settings. Once Bigpoint receives your information from an SNS, that information is stored and used in accordance with this Privacy Policy.
 
@@ -61,31 +61,31 @@ If you are a resident of California, you may request that we not share your pers
 
 
 
-Back to top
+zurück nach oben
 
 We have taken certain physical, electronic, contractual, and managerial steps to safeguard and secure the information we collect and store from Site visitors such as keeping the sensitive data behind a firewall, regular monitoring of our security program and computer systems for evidence of unauthorized use or access to personal information as well as physical security measures to guard against unauthorized access to systems where we store the information.
 
-Back to top
+zurück nach oben
 
 Bigpoint may transfer information to or receive information from our Affiliates (which shall mean subsidiaries, parent companies, joint ventures and other corporate entities under common ownership) for our legitimate business purposes. We may store information about site visitors and players on servers and equipment located in the United States and other countries. Personal data collected within Switzerland and the European Union ("EU") may be transferred to, and stored at, a location outside of Switzerland and the EU. The data collected may be processed by employees operating outside of Switzerland and the EU who work for Bigpoint, one of our Affiliates, or one of our vendors. By submitting your personal data, use of the Bigpoint site or playing Bigpoint games, you agree to this transfer, storing or processing.
 
 Bigpoint Inc. complies with the Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of online user data from Switzerland and the EU. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy. If you have reported data privacy concerns to Bigpoint and do not feel that they have been adequately addressed, you may contact legal-us@bigpoint.net.
 
-Back to top
+zurück nach oben
 
 The Site may contain links to third-party websites, which may have privacy policies that differ from our own. We are not responsible for the activities and practices that take place on these sites. Accordingly, we recommend that you review the privacy policy posted on any site that you may access through the Site.
 
-Back to top
+zurück nach oben
 
 We reserve the right to change this privacy policy from time to time. When we do, we will post the change(s) on our website. If we change the policy in a material way, we will provide appropriate online notice to you.
 
-Back to top
+zurück nach oben
 
 If you have questions or concerns about this Privacy Policy, contact us at privacy@bigpoint.net or write us.:  
 Bigpoint Inc.  
 Attention Privacy  
-795 Folsom St. First Floor  
-San Francisco CA 94107  
+580 California Street 12th Floor  
+San Francisco CA 94104  
 USA  
 Please remember to provide your User-ID, e-mail address and, if necessary, the relevant game name(s).
 
@@ -93,7 +93,7 @@ You can also reach us under: +1(415) 821-8112
 
 If you have reported data privacy concerns and do not feel they have been adequately addressed, you may contact legal-us@bigpoint.net 
 
-Back to top
+zurück nach oben
 
 The content of your Bigpoint AdServer cookies can be viewed [here](http://avora.bigpoint.com/ads/cookie?&customerId=2).
 
@@ -103,4 +103,4 @@ Once you've set the blocker, advertising delivered through our technology can no
 
 [OptIn](http://avora.bigpoint.com/ads/privacy?cmd=optin&customerId=2&r=http://www.bigpoint.com/AdServerCookie?status=true) | [OptOut](http://avora.bigpoint.com/ads/privacy?cmd=optout&customerId=2&r=http://www.bigpoint.com/AdServerCookie?status=false)
 
-Back to top
+zurück nach oben
