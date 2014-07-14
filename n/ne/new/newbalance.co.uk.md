@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newbalance.co.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625222828id_/http%3A//www.newbalance.co.uk/Privacy-Notice/privacy-policy%2Cen_GB%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newbalance.co.uk privacy policy that was archived on 2014-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140714122952id_/http%3A//www.newbalance.co.uk/Privacy-Notice/privacy-policy%2Cen_GB%2Cpg.html) for the most accurate reproduction.*
 
 # Privacy & Security Policy
 
@@ -76,7 +76,7 @@ Some examples of how we use cookies are to:
 
 
 
-To learn more about how newbalance.co.uk uses cookies on our site, read our [Cookie Policy](http://www.newbalance.co.uk/Cookie-Policy/Cookie-Policy,en_GB,pg.html). 
+To learn more about how newbalance.co.uk uses cookies on our site, read our [Cookie Policy](https://www.newbalance.co.uk/Cookie-Policy/Cookie-Policy,en_GB,pg.html). 
 
 Pixel tags and Web beacons are tiny graphic images that allow us or preferred service providers to track non-personally identifiable analytic information about your visit to our Service (such as pages viewed or links clicked). Pixel tags and Web beacons also let us know when you have opened an HTML email from us. Using this information we are able to understand how Visitors and Members use our service. This allows us to learn what pages are most attractive to our Visitors, which parts of the Service are the most interesting and what kind of offers our Members like to see.
 
@@ -84,7 +84,7 @@ Pixel tags and Web beacons are tiny graphic images that allow us or preferred se
 
 We do not knowingly ask for Personal Information from anyone under the age of 13 (a "Child"). If a Child submits Personal Information to us and we know that the person providing the information is a Child, we will not use it for any purpose. We will use commercially reasonable efforts to delete the information as soon as we discover it and we will not disclose it to third parties. If you become aware that a Child has provided Personal Information to our site, please contact us or call our Customer Care Center toll-free at 0808 101 2828.
 
-While New Balance's [Terms and Conditions](http://www.newbalance.co.uk/Terms-Conditions-of-Sale/terms,en_GB,pg.html) prohibits children under 18 from registering with the Service, parents should supervise their children's online activities and consider using parental control tools available from online services and software manufacturers that help provide a kid-friendly online environment. These tools can also prevent children from disclosing online their name, address and other Personal Information without parental permission.
+While New Balance's [Terms and Conditions](https://www.newbalance.co.uk/Terms-Conditions-of-Sale/terms,en_GB,pg.html) prohibits children under 18 from registering with the Service, parents should supervise their children's online activities and consider using parental control tools available from online services and software manufacturers that help provide a kid-friendly online environment. These tools can also prevent children from disclosing online their name, address and other Personal Information without parental permission.
 
 **How do links from New Balance to other sites affect me?**
 
@@ -98,7 +98,7 @@ Please note that if you decide to opt-out of all third party transmissions of yo
 
 **How can I access, update or delete "My Account" information?**
 
-Accounts may be created during the ordering process. You can log in to or manage your account by clicking the "My Account" link at the top of any page. After logging in, you will be able to modify your contact information, update your billing and shipping addresses, view past orders, or delete your account completely. For security purposes, credit card information is not saved with your account. Remember that you are responsible for protecting the user name and password for your account and, as set forth in the [Terms and Conditions](http://www.newbalance.co.uk/Terms-Conditions-of-Sale/terms,en_GB,pg.html), you will be responsible for all activity occurring through the use of your user name and password.
+Accounts may be created during the ordering process. You can log in to or manage your account by clicking the "My Account" link at the top of any page. After logging in, you will be able to modify your contact information, update your billing and shipping addresses, view past orders, or delete your account completely. For security purposes, credit card information is not saved with your account. Remember that you are responsible for protecting the user name and password for your account and, as set forth in the [Terms and Conditions](https://www.newbalance.co.uk/Terms-Conditions-of-Sale/terms,en_GB,pg.html), you will be responsible for all activity occurring through the use of your user name and password.
 
 **What if I have more questions about the New Balance Privacy Notice?**
 
