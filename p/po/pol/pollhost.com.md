@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pollhost.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209014035id_/http%3A//www.pollhost.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pollhost.com privacy policy that was archived on 2014-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140715012752id_/http%3A//www.pollhost.com/privacy.html) for the most accurate reproduction.*
 
 # Pollhost.com - Get a free poll for your website.
 
@@ -12,7 +12,7 @@ You may update any of the information you've previously provided us, by logging 
 
 If you do not wish to receive further communications from us, and want to remove your information from our service, please visit our account removal page: [http://pollhost.com/deleteaccount/](http://www.pollhost.com/deleteaccount/)
 
-Information submitted to us is ordinarily not released to third parties, however, we may release contact information to governmental agencies, courts, or other third-parties, if we believe you have or may have commited illegal activites, violated our [Terms of Service](https://web.archive.org/web/20140209014035id_/http%3A//www.pollhost.com/terms.html), the rights of third-parties, impaired in any respect the ability of Boardhost to operate our service properly, or endangered in any respect Boardhost or third-parties, or in the event that the information is subpoenaed or subject to other judicial or administrative process. 
+Information submitted to us is ordinarily not released to third parties, however, we may release contact information to governmental agencies, courts, or other third-parties, if we believe you have or may have commited illegal activites, violated our [Terms of Service](https://web.archive.org/web/20140715012752id_/http%3A//www.pollhost.com/terms.html), the rights of third-parties, impaired in any respect the ability of Boardhost to operate our service properly, or endangered in any respect Boardhost or third-parties, or in the event that the information is subpoenaed or subject to other judicial or administrative process. 
 
 **COOKIES AND ADVERTISING**
 
