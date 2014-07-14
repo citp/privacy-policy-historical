@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arnhem.co privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208003906id_/http%3A//www.arnhem.co/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arnhem.co privacy policy that was archived on 2014-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140714201721id_/http%3A//www.arnhem.co/privacy-security) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -47,7 +47,7 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 **Contacting Us**   
 If there are any questions regarding this privacy policy you may contact us using the information below.   
-Shop 1, corner of Centennial Circuit & Brigantine Street,   
+2/71 centennial crt,   
 Byron Bay, NSW 2481  
 Australia  
-[sales@arnhemthelabel.com ](mailto:sales@arnhemthelabel.com) +612 66857635 
+[sales@arnhemthelabel.com ](mailto:sales@arnhemthelabel.com) +612 66857894 
