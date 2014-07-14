@@ -1,61 +1,51 @@
-> *The following text is extracted and transformed from the onlineprizedraws.com privacy policy that was archived on 2013-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130221062735id_/http%3A//www.onlineprizedraws.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlineprizedraws.com privacy policy that was archived on 2014-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140714111843id_/http%3A//www.onlineprizedraws.com/privacy.html) for the most accurate reproduction.*
 
-# Inner | Also Nice
+# 
 
-### PRIVACY
+**Privacy Policy**
 
-Was last revised on July 1st, 2012  
-AlsoNice.com is a website of OfferService ("we" or "us"). We are committed to protecting and respecting your privacy. This policy (together with our terms and conditions and any other documents referred to) sets out how we process your personal data and your rights in respect of that data.
+This privacy notice applies to us the competition organizer OfferService BV, and our website www.onlineprizedraws.com 
 
-### 1\. WHAT INFORMATION WE COLLECT
+**Personal Information**  
+I agree that the contest organizer may validate my phone number and email address through an electronic process called 'pinging'. The purpose for this process is to ensure that the phone number that is registered is a real phone number for entry into the prize draw and direct marketing purposes.
 
-When you participate in a service on one of our sites including, but not limited to, http://alsonice.com("our site") You will be asked to share information about yourself. This information can be provided by you to fill out a form.  
-This information always includes: name, surname, date of birth, email address, gender. We may ask you to provide us with more information about you, such as: mobile phone, address, marital status, financial information, etc. This additional information is always optional and is not necessary for you at our free service to connect.
+We collect and hold your personal information. This includes the information you choose to provide us when you voluntarily register, such as your name, address, date of birth, and telephone number.
 
-### 2\. IP ADDRESSES AND COOKIES
+This also includes the information you provide when you answer questions on our website to participate in contests, such as information regarding you and your household, your demographic and lifestyle, your buying behaviour, and your preferences and interests in relation to products, communication and media.
 
-We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and for the reports to our advertisers and sponsors.
+We collect information about the pages you view, and the links you click, including advertisements, through common internet technologies such as cookies and web beacons, and your IP-address, which is a number that is automatically assigned to your computer when you use the Internet.
 
-### 3\. HOW WE USE YOUR INFORMATION?
+**Uses  
+**We conduct internal surveys, analyse and compile in reports, in aggregated form, the information that is collected. We use the aggregated information to design the offers of our select partners and competition prize sponsors as effectively as possible.
 
-We use information held about you in the following ways:  
-To ensure that content from our site is presented in the most effective manner for you and for your computer;  
-To provide you with information, products, services or offers by e-mail, SMS, telephone or post, that you request from us or which we feel that connect it to your user profile;  
-We can also use the information that we hold about you to validate through third parties. Such as, but not limited to the validation of your phone number, email address and mailing address;
+The information we collect also enables us to optimize our service to you by:
 
-### 4\. DISTRIBUTION OF YOUR DATA TO THIRD PARTIES
+  * Greeting you personally and providing a more personalized experience when you visit our website.
+  * Displaying content and advertising customized to your preferences and interests. For example, offers for pet owners are displayed solely to users with pets.
+  * From time to time and only with your permission, informing you about the services and products of our selected partners, competition organizers and prize sponsors. When you are registering, you can decide and choose to opt-in if you are interested in receiving this information, or not if you would prefer not to receive such information.
 
-We may provide your information to carefully selected partners and sponsors. These sponsors, advertisers often or marketing agencies, are explicitly mentioned when your personal information with us behind. This can sponsor you for direct marketing purposes approached about various topics related to their own programs, products, services, promotions or offers, as well as to those of third parties (advertisers). They can do this by mail or telephone, and via email, mms, sms or similar electronic means. Additionally, you agree that we may share your personal information to third parties for direct marketing purposes, you have the most diverse subjects by mail or telephone to approach.
 
-### 5\. UNSUBSCRIBE
 
-If you do not want us to contact you for marketing purposes, please send an email to stop@alsonice.com.  
-If you do not want us to use your data to third parties for marketing purposes, please send an email to us at unsubscribe@alsonice.com.
+**Sharing**  
+Except as described in this privacy notice, we keep your personal information confidential. We do not disclose your personal information for identification purposes or convey it to third parties if you have not opted-in upon registration with us.
 
-### 6\. DISCLOSURE AND TRANSFER OF YOUR INFORMATION
+The employees of the competition organizer have access to only the information they require for their work.
 
-We may use your personal information to third parties transmit or disclose:  
-If we are legally obliged to provide information that you have provided to us to disclose if we believe in good faith that it is necessary (a) to abide by the regulations of the law or in the context of legal proceedings against us, and (b) the rights and property of us to protect or defend. ;  
-If we have a merger, acquisition, sale or other transaction undergone our database is acquired by a third party, we may disclose your personal data to our consultants and the third party, both before and after the transaction, exclusively for the partner acids and the establishment of the transaction. If a transaction is completed, you will be informed about the transaction and we will manage the property and transfer your personal information to the third party, subject to all provisions and limitations in this Statement. If the transaction is not completed, we will require the third party that your personal data in any way use or disclose it and fully knew.
+The case of winning represents an exception. If you win, you give us your explicit permission to publish your first name, place of origin and a photograph of you on one of the competition organizer's internet pages.
 
-### 7\. THIRD PARTY WEBSITES
+Please note that due to legal reasons an obligation to release your information can exist. For events that are completely or partially sponsored by third parties, you also provide the third parties with your information, as far as you choose to do so. We are unable to control these third parties' policies and practices for the protection of your privacy.
 
-Our site may, from time to time, contain links to third party websites. If you follow a link to any of these websites, please note that these websites have their own terms and privacy policies and that we have no responsibility or liability for these sites and their terms and policies.
+Please note that we may transfer, sell or assign the collected information to any entity to which we divest all or a portion of our business, or to such of our clients as we deem appropriate.
 
-### 8\. HOW WE SAVE YOUR DATA?
+**Correction and Deletion of personal information**  
+You can request that your personal information be corrected. You can also request that your account be deleted. To do so, please send us an email, at info@onlineprizedraws.com, or write to OfferService BV, 1e van Swindenstraat 381, 1093 GB Amsterdam, The Netherlands.  We reserve the right to store information concerning registered users who have violated user conditions or whose access has been cancelled in order to avoid repeated misuse.
 
-The data that we collect from you is stored and processed in our secure data center; it may be outside the country where you live. We treat your data confidentially and strive to take reasonable measures to protect your personal data. We can, however, the security of the data you provide online not guarantee. You accept the inherent security risks of providing information and transactions over the Internet and you cannot hold us responsible for any breach of security unless this is due to negligence or willful default by us.
+**Security**  
+The security of your personal information is our utmost priority. We store and protect all personal information that you submit to us in accordance with high security standards and to the best of our knowledge.
 
-### 9\. ACCESS TO INFORMATION
+The information is filed in a databank server by storing the user entries. This server meets all current standards corresponding to safety precautions. It is protected not only against digital but also physical attacks.
 
-You have the right to access information held about you is collected to understand and improve. You can e-mail to privacy@offerservice.net to exercise this right to use.
+However, we do not assume responsibility for the publication of the information due to errors during transmission or due to unauthorized access by third parties. You should be aware that information which you voluntarily reveal over the Internet, for example, in discussion forums, via e-mail or in chat rooms can be used by others. We do not monitor the actions of our visitors and registered users. If you reveal personal information, you do so at your own risk and understand that this information can be collected and used by others. Whether you receive unwanted messages or not is up to you because you alone are responsible for the concealment of your e-mail address.
 
-### 10\. CHANGES TO OUR PRIVACY POLICY
-
-This Privacy Policy became effective on the 1st of July 2012. We reserve the right to change this Privacy Policy at any time and for any reason whatsoever to change or adapt. If material changes are made to this statement or in how we process your personal data, we wil publish those changes prominently so that you familiarize yourself with the relevant amendment before the change takes effect.  
-Regardless of later updates, we will abide by the procedures regarding confidential information such as were described in this Privacy Statement at the time you submit your information provided to us.
-
-### 11\. CONTACT
-
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to info@alsonice.com  
-
+**Other information**  
+This complete privacy notice will be available to you at all times. It may be altered from time to time. Should you require further information, or should you have any objections or questions, please e-mail us at info@onlineprizedraws.com, or write to OfferService BV, 1e van Swindenstraat 381, 1093 GB Amsterdam, The Netherlands.
