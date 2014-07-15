@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intelligentelite.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331184654id_/https%3A//www.iqelite.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intelligentelite.com privacy policy that was archived on 2014-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140715152358id_/https%3A//www.iqelite.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy | IQ Elite
 
