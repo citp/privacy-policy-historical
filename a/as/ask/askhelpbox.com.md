@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the askhelpbox.com privacy policy that was archived on 2014-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140528135759id_/http%3A//www.askhelpbox.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askhelpbox.com privacy policy that was archived on 2014-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140715152906id_/http%3A//www.askhelpbox.com/privacy.html) for the most accurate reproduction.*
 
 # Ask Help Box - Privacy Policy
 
-Out visitors privacy is critically important to us. Askhelpbox is guided by some basic ideeas:
+Our visitors privacy is critically important to us. Askhelpbox is guided by some basic ideeas:
 
   * We don't ask you for personal information because we simply don't need it :)
   * We don’t share your personal information with anyone except to comply with the law, develop our products, or protect our rights.
