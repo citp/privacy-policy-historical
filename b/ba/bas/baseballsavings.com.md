@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the baseballsavings.com privacy policy that was archived on 2014-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140603233347id_/http%3A//www.baseballsavings.com/about/privacy-policy.jsp%3FCP%3DFOOTER%3APrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baseballsavings.com privacy policy that was archived on 2014-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140715171757id_/http%3A//www.baseballsavings.com/about/privacy-policy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy - www.baseballsavings.com
 
