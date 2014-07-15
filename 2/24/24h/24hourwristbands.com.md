@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 24hourwristbands.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625133900id_/https%3A//24hourwristbands.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 24hourwristbands.com privacy policy that was archived on 2014-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140715095507id_/http%3A//24hourwristbands.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - 24HourWristbands.Com
 
