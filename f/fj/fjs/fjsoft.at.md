@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fjsoft.at privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326074558id_/http%3A//www.fjsoft.at/en/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fjsoft.at privacy policy that was archived on 2014-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140715063428id_/http%3A//www.fjsoft.at/en/privacy_policy.php) for the most accurate reproduction.*
 
 # FJ Software Development
 
