@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the omoscowonder.com privacy policy that was archived on 2013-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131114010452id_/http%3A//www.omoscowonder.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omoscowonder.com privacy policy that was archived on 2014-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140715153819id_/http%3A//www.omoscowonder.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Make Money Online| Wordpress SEO | Insurance
+# Privacy Policy | Make Money Online
+
+[__  Home](http://www.omoscowonder.com/) / Privacy Policy
+
+[twitter id="omoscowonder" number="5" avatar="true" ]
 
 **Privacy Policy for http://www.omoscowonder.com**
 
