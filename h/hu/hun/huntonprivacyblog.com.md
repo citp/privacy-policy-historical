@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the huntonprivacyblog.com privacy policy that was archived on 2014-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140130182400id_/https%3A//www.huntonprivacyblog.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the huntonprivacyblog.com privacy policy that was archived on 2014-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140715221333id_/https%3A//www.huntonprivacyblog.com/privacy-notice) for the most accurate reproduction.*
 
-# Privacy Notice : : Privacy and Information Security Law Blog
+# Privacy Notice : : Privacy and Information Security Law BlogPrivacy and Information Security Law Blog
 
-Effective Date: June 29, 2010
+Effective Date: January 1, 2013
 
 **Hunton & Williams LLP Website Privacy Notice**  
 We at Hunton & Williams LLP respect your concerns about privacy and value the relationship we have with you. This Privacy Notice applies to Hunton & Williams LLP’s websites listed [here](http://hw-websites.hunton.com/) (the “Sites”). This Notice describes the types of personal information we collect on these Sites, how we may use that information and with whom we may share it. Our Privacy Notice also describes the measures we take to protect the security of the personal information. We also tell you how you can reach us to answer any questions you may have about our privacy practices.
@@ -48,7 +48,7 @@ You may be able to submit comments to Hunton & Williams LLP blogs. You may inclu
   * ****_Careers_  
 At HuntonCareers.com, you may submit your resume and other information to apply for a job with Hunton & Williams. We use the information you submit in connection with your job inquiry.
   * ****Alumni  
-At HuntonAlumni.com, you may choose to submit personal information for various purposes such as: 
+At HuntonAlumni.com, you may choose to submit personal information for various purposes such as: 
     * _Sign In/Email Us_  
 To participate in the Alumni website, we ask you to sign in with your name and password, or you may email us so we can help you log in. We will use the information you provide to give you access to the website and to respond to your inquiries. We also may use the information to communicate with you, such as by sending you our firm newsletter and other firm or program announcements.
     * _Feedback and Suggestions_  
@@ -111,20 +111,7 @@ Hunton & Williams LLP
 Riverfront Plaza, East Tower  
 951 East Byrd Street  
 Richmond, VA 23219  
-Attn.: Gail Hageman
-
-
-
-If you would like to update your Alumni Profile, you can do so from the Alumni Directory page. If you would like your name and personal information flagged in our database to remain private and not be visible from the Alumni website, or to request the removal of your personal information from other areas of the website, please contact us by:
-
-  * emailing us at:  
-[alumni@hunton.com](mailto:alumni@hunton.com)
-  * or writing us at:  
-Hunton & Williams LLP  
-Riverfront Plaza, East Tower  
-951 East Byrd Street  
-Richmond, VA 23219  
-Attn.: alumni@hunton.com
+Attn.: Greg Marrs
 
 
 
