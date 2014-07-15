@@ -1,47 +1,35 @@
-> *The following text is extracted and transformed from the chinatownmart.com privacy policy that was archived on 2013-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130117194947id_/http%3A//www.chinatownmart.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chinatownmart.com privacy policy that was archived on 2014-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140715105359id_/http%3A//chinatownmart.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Privacy Notice : Chinatownmart.com
+# Thubten Lekshey Ling - Online Privacy Policy
 
-We understand that you are very concerned about the usage and sharing of your personal information. And we are very appreciated your belief on our prudence and sensitivity handling this issue. This declaration will specify our policy regarding the protection of your privacy. Our website is under the operation of [Chinatownmart](http://www.chinatownmart.com/) Inc.
+##  Our Privacy Policy 
 
-If you have visited our website, that will be considered to be your acceptance to this privacy policy.
+**What information do we collect?**  
+We do not collect any information about you on our website. You can visit our site anonymously. When you contact us over email or sms or by filling a form at the centre, and request for subscription to one of our mailing lists, we would be storing your name and email address. Additionally, we will be storing your phone number and preferences if provided.
 
-Automatically collected information 
+**What do we use your information for?**  
+Any of the information about you may be used in the following ways:  
+\- To personalize your experience, for example, to send you only the relevant mails matching to your preferences.  
+\- To improve our website and services, based on information and feedback we receive from you.  
+\- If you have opted for subscription to our mailing list, either through sending us a mail, sms, or filling a form while visiting the centre, then we will be using that information for sending you periodic emails about our programs. Typically, you will receive one to two emails per week. You can also opt for subscription only to selected programs and that will reduce the frequency of mails.
 
-Whenever you interact with us, we will receive and deposit the given information.
+**Do we disclose any information to outside parties?**  
+We do not sell, trade, or otherwise transfer or share your personally identifiable information to outside parties. This may not include trusted third parties who assist us in operating our website or servicing you, as long as those parties agree to keep this information confidential and strictly to this purpose. We may release your information if there is a requirement to do so to comply with the law.
 
-For example, like many other sites, we use “cookies”.
+**How do we protect your information?**  
+We implement a variety of security measures to maintain the safety and privacy of your personal information.
 
-When your internet browser visits [www.chinatownmart.com](http://www.chinatownmart.com/), we will collect some information. (please refer to the sample of information collecting process stated at the end of this policy)
+**Do we use cookies?**  
+We do not use cookies.
 
-Many companies provide you with the technology that can help you to visit the website anonymously. Although under this condition we can’t offer you the individualized experience on our website as your ID is unidentified, we still like to remind you of the existence of these technologies.
+**Third party links**  
+We may provide links to third party websites and services in our website. Such third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. However, we provide links to such sites with an intention and understanding that these sites are useful for you. We seek to protect the integrity of our site and welcome feedback about these sites.
 
-**E-mail Correspondence**
+**Your consent**  
+By using our site, you consent to our privacy policy.
 
-To help us making the E-mail more useful and interesting, when you open the email from www.chinatownmart.com, we will often receive a mail confirming you having read the delivered email. (if your computer support this function)We will also make the comparison between our customer list and other companies’in order to avoid the junk messages.
+**Notification of changes**  
+We may occasionally modify our privacy policy, and if and when this happens, we will notify you via an update to this page.
 
-The information from other resources:
-
-We may collect your information for other resources and add it into our customer database (please refer to the sample of information collecting process stated at the end of this policy)
-
-**Cookies**
-
-Cookies can be defined as a kind of discriminating symbols consisting of letters and numbers read-in your computer hard disc by us through your internet browser so that our system will identify your browser during your visit and display the characteristics and quantity of items in your shopping cart. 
-
-The help function of tool bar on your browser will tell you how to prevent the browser from installing new cookies and inform you when the browser installing a new cookie or shut down the cookies totally.
-
-Besides, you can close or cancel the alike data of browser add-ons like Flash cookies by changing its setting or visiting other manufactures’websites.
-
-However, cookies can help you to make most use of the best special services from www.chinatownmart.com, so we recommend you to set up an open status for this program.
-
-The Information from Other Resources
-
-The examples of the information we get from other resources containing the depatching and address information we get from our forwarder or other third party, which can correct our record and make it easy to deliver your next order and contact you..
-
-Account information, purchasing or returning information, searching keywords and results given by our affiliated enterprises’service, page browsing information gotten from our cooperative enterprises, searching result and links, including not-for-free searching list.
-
-The information you can get
-
-The information you can get easily from www.chinatownmart.biz containing the latest order information, identifiable personal information (including name, email address, password, directory inquiries etc.), payment settings (including credit card details) and so on.
-
-[Chinatownmart.com](http://www.chinatownmart.com/) Management.
+**Privacy support**  
+If you have any enquiry or concern about our privacy policy, please contact us at info@lekshey.org
