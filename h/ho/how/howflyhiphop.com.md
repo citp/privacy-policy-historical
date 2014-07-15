@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the howflyhiphop.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327091437id_/http%3A//www.howflyhiphop.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howflyhiphop.com privacy policy that was archived on 2014-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140715205604id_/http%3A//www.howflyhiphop.com/privacy) for the most accurate reproduction.*
 
 # Privacy | HowFlyHipHop
 
-This Privacy Policy governs the manner in which HowFlyHipHop.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.howflyhiphop.com/](https://web.archive.org/web/20140327091437id_/http%3A//) website (“Site”). This privacy policy applies to the Site and all products and services offered by HowFlyHipHop.com.
+This Privacy Policy governs the manner in which HowFlyHipHop.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.howflyhiphop.com/](https://web.archive.org/web/20140715205604id_/http://www.howflyhiphop.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by HowFlyHipHop.com.
 
 **Personal identification information**
 
