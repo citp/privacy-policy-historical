@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heavytruckparts.net privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330174656id_/http%3A//www.heavytruckparts.net/priv_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heavytruckparts.net privacy policy that was archived on 2014-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140715112200id_/https%3A//www.heavytruckparts.net/priv_policy.php) for the most accurate reproduction.*
 
 # HeavyTruckParts.Net Privacy Policy
 
