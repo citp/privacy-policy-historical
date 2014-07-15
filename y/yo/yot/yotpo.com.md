@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the yotpo.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209142043id_/https%3A//www.yotpo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yotpo.com privacy policy that was archived on 2014-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140715124120id_/https%3A//www.yotpo.com/privacy-policy) for the most accurate reproduction.*
 
 # Yotpo | Privacy Policy
 
-Last updated September 27, 2011
+Last updated June 29 2014
 
 ## Our Commitment To Privacy
 
@@ -46,23 +46,23 @@ Our primary purpose in collecting your personal data is to provide you with the 
 
 ## Disclosure of Your Personal Data to Third Parties
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating the Site, conducting our business, or servicing you in connection with the foregoing, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information or the information of the end-users (your customers). This does not include trusted third parties who assist us in operating the Site, conducting our business, or servicing you in connection with the foregoing, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
 ## Process of your personal data
 
-Your personal data (also referred to as personal information) - that is, data that identifies you, or from which you are identifiable - will be collected, processed, stored and used by us, and if/when applicable may be passed to and processed by our subsidiaries and/or affiliated companies. Personal data contributed by or collected from users may be stored and processed in any country in which we or our affiliates, subsidiaries or agents maintain facilities. By using the Site, you acknowledge and agree that you may be transferring your personal data outside of the country in which you have contributed it, and that you consent to any such transfer of information outside of your country.
+Your personal data (also referred to as personal information) – that is, data that identifies you, or from which you are identifiable – will be collected, processed, stored and used by us, and if/when applicable may be passed to and processed by our subsidiaries and/or affiliated companies. Personal data contributed by or collected from users may be stored and processed in any country in which we or our affiliates, subsidiaries or agents maintain facilities. By using the Site, you acknowledge and agree that you may be transferring your personal data outside of the country in which you have contributed it, and that you consent to any such transfer of information outside of your country.
 
 ## Protection of Your Collected Personal Information
 
 We take appropriate technical and organizational measures to guard against unauthorized or unlawful processing of your personal data and against accidental loss or destruction of, or damage to, your personal data.
 
-However, in order to protect your privacy we urge you: (1) to protect against unauthorized access to your use of the Site; (2) to ensure no-one else uses the Site while the user's machine is "logged on" to the Site service; (3) to log off or exit from the Site when not using it; and (4) where relevant, to keep your password or other access information secret. All personal information submitted to us is stored on a secure server. We do not store credit card numbers or related identifying information on any Site server. All such information is stored by our credit card processing partner(s), who are obligated to store such information using secure methods. We also use third parties to help us optimize our Site flow, content and advertising. All of our partners are under contract with us and they are obligated to keep your information confidential.
+However, in order to protect your privacy we urge you: (1) to protect against unauthorized access to your use of the Site; (2) to ensure no-one else uses the Site while the user’s machine is “logged on” to the Site service; (3) to log off or exit from the Site when not using it; and (4) where relevant, to keep your password or other access information secret. All personal information submitted to us is stored on a secure server. We do not store credit card numbers or related identifying information on any Site server. All such information is stored by our credit card processing partner(s), who are obligated to store such information using secure methods. We also use third parties to help us optimize our Site flow, content and advertising. All of our partners are under contract with us and they are obligated to keep your information confidential.
 
 ## Use of Cookies
 
-Some of the pages on our Site may use a feature of your browser called a "cookie" that are small files which a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
+Some of the pages on our Site may use a feature of your browser called a “cookie” that are small files which a site or its service provider transfers to your computer’s hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information.
 
-You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set (Check the "Help" menu of your browser to learn how to change your cookie preferences).
+You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set (Check the “Help” menu of your browser to learn how to change your cookie preferences).
 
 If you reject all cookies, you will not be able to use certain features and offerings of the Site. However, many features of the Site do not require that you accept cookies.
 
@@ -78,6 +78,6 @@ You may opt-out of receiving marketing communications from us by contacting us a
 
 We will retain your personal data only as long as is necessary for the purposes to which you consent under our terms and conditions and this Privacy Policy, or as is required by applicable law, and then we will delete it.
 
-## Our commitment to Children's Privacy
+## Our commitment to Children’s Privacy
 
 Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under that age.
