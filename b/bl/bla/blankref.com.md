@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blankref.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625080831id_/http%3A//blankref.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blankref.com privacy policy that was archived on 2014-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140715132426id_/http%3A//blankref.com/privacy-policy.html) for the most accurate reproduction.*
 
 # BlankRef.com | Blank Referral URL | Hide Where Website Traffic Comes From -- Privacy Policy
 
