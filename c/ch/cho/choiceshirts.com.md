@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the choiceshirts.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628171020id_/http%3A//www.choiceshirts.com/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the choiceshirts.com privacy policy that was archived on 2014-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140715185303id_/http%3A//www.choiceshirts.com/privacy-security) for the most accurate reproduction.*
 
 # Privacy & Security - ChoiceShirts
 
