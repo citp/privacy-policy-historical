@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cosmetologyzone.com privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529201211id_/http%3A//www.cosmetologyzone.com/%3Fpage_id%3D1155) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cosmetologyzone.com privacy policy that was archived on 2014-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140715230556id_/http%3A//www.cosmetologyzone.com/%3Fpage_id%3D1155) for the most accurate reproduction.*
 
 # welcome to www.cosmetologyzone.com » Privacy Policy
 
