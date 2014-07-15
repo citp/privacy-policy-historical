@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the togoparts.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326114232id_/http%3A//www.togoparts.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the togoparts.com privacy policy that was archived on 2014-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140715151638id_/http%3A//www.togoparts.com/privacy.php) for the most accurate reproduction.*
 
-# togoparts.com
+# Togoparts.com - Privacy Statement
 
 Privacy Principles 
 
@@ -16,7 +16,7 @@ Principle 3.
 togoparts.com will not send you any unsolicited information, including e-mail, except as mentioned below. togoparts.com may also send periodic member letters to announce important service changes, new features, updates and news about other products and services. togoparts.com will not send you unsolicited e-mail regarding any third party commercial offers or advertisements. 
 
 Principle 4.   
-If at any time you believe that togoparts.com has not adhered to these principles, please notify us by e-mail at [feedback@togoparts.com](https://web.archive.org/web/20140326114232id_/http%3A//www.togoparts.com/feedback@togoparts.com). If you have questions about this policy, please e-mail us at [feedback@togoparts.com](https://web.archive.org/web/20140326114232id_/http%3A//www.togoparts.com/feedback@togoparts.com)
+If at any time you believe that togoparts.com has not adhered to these principles, please notify us by e-mail at [feedback@togoparts.com](https://web.archive.org/web/20140715151638id_/http%3A//www.togoparts.com/feedback@togoparts.com). If you have questions about this policy, please e-mail us at [feedback@togoparts.com](https://web.archive.org/web/20140715151638id_/http%3A//www.togoparts.com/feedback@togoparts.com)
 
   
 What about Cookies? Cookies are pieces of information that a Web site transfers to your computer's hard disk for record-keeping purposes. Cookies can make the Web more useful by storing information about your preferences on a particular site. The use of cookies is an industry standard, and many major Web sites use them to provide useful features for their customers. Cookies in and of themselves do not personally identify users, although they do identify a user's computer. Most browsers are initially set up to accept cookies. If you'd prefer, you can set yours to refuse cookies. However, you may not be able to take full advantage of a Web site if you do so. 
@@ -24,6 +24,8 @@ What about Cookies? Cookies are pieces of information that a Web site transfers 
 What about the registration information?
 
 togoparts.com site's registation form requires you to give us contact information (like your name and email address) and unique identifiers (like a password). Unique identifiers (such as passwords) are collected to verify your identity in our system. By registering, users can take advantage of personalization (the ability to select content according to a user-supplied profile) as well as to gain access to other parts of the website like the Forums. This is information which does not personally identify you, but which may be helpful for improving the community services. Generally, this information is collected through "traffic data" and may entail the use of "Cookies" "IP addresses" or other numeric codes used to identify a computer.
+
+We partner with Facebook to simplify account registration and login. It is not different from a normal account registration. As our policy above, we respect your privacy and we do not share any of your personal data with 3rd party.
 
 How do I correct or change Registration Information that I have given to togoparts.com? 
 
@@ -49,4 +51,4 @@ Occasionally togoparts.com conducts polls and user surveys to better target our 
 Your consent and changes to the Private Policy  
 By using togoparts.com and the rest of the togoparts.com services, you consent to the collection and use of your information as we have outlined in this policy. togoparts.com may decide to change this Privacy Policy from time to time.
 
-Updated: August 2001
+Updated: June 2014
