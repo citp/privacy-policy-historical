@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the barefootconsultants.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625074454id_/http%3A//www.barefootconsultants.com/public/Privacy_Policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barefootconsultants.com privacy policy that was archived on 2014-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140715021526id_/http%3A//www.barefootconsultants.com/public/Privacy_Policy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
   
-[](https://web.archive.org/web/20140625074454id_/http%3A//www.barefootconsultants.com/public/275print.cfm)
+[](https://web.archive.org/web/20140715021526id_/http%3A//www.barefootconsultants.com/public/275print.cfm)
 
 PRIVACY POLICY Last Updated: April 12, 2010
 
@@ -63,4 +63,4 @@ If it proves impossible to arrive at a mutually satisfactory solution through me
 
 BarefootConsultants.com is controlled, operated and administered entirely within Texas. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.
 
-[](https://web.archive.org/web/20140625074454id_/http%3A//www.barefootconsultants.com/public/275print.cfm)
+[](https://web.archive.org/web/20140715021526id_/http%3A//www.barefootconsultants.com/public/275print.cfm)
