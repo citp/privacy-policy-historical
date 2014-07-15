@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the registertovote.org privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210051551id_/http%3A//registertovote.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the registertovote.org privacy policy that was archived on 2014-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140715042011id_/http%3A//registertovote.org/privacy.html) for the most accurate reproduction.*
 
 # None
 
