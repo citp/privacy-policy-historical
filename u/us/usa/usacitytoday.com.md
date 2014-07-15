@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the usacitytoday.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626111627id_/http%3A//www.usacitytoday.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usacitytoday.com privacy policy that was archived on 2014-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140715190332id_/http%3A//www.usacitytoday.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Usa City Today: Latest World and US News – usacitytoday.com
 
 RIGHT NOW
 
-  * [JPMorgan to pay $5.1B in mortgage settlement](http://www.usacitytoday.com/jpmorgan-to-pay-5-1b-in-mortgage-settlement/)
-  * [On the Verge: Ylvis, from ‘The Fox’ to Foxborough, Mass.](http://www.usacitytoday.com/on-the-verge-ylvis-from-the-fox-to-foxborough-mass/)
-  * [Scrap standardized tests in college admissions? Your Say](http://www.usacitytoday.com/scrap-standardized-tests-in-college-admissions-your-say/)
-  * [NYSE holds ‘successful’ test for Twitter IPO](http://www.usacitytoday.com/nyse-holds-successful-test-for-twitter-ipo/)
-  * [Apple’s holiday forecast raises margin concern](http://www.usacitytoday.com/apples-holiday-forecast-raises-margin-concern/)
+  * [McDonald’s ending relationship with Heinz](http://www.usacitytoday.com/mcdonalds-ending-relationship-with-heinz/)
+  * [Time to get serious about Medicare reform: Your Say](http://www.usacitytoday.com/time-to-get-serious-about-medicare-reform-your-say/)
+  * [HHS issues formal insurance deadline clarification](http://www.usacitytoday.com/hhs-issues-formal-insurance-deadline-clarification/)
+  * [Corporate profit powers ahead again in Q3](http://www.usacitytoday.com/corporate-profit-powers-ahead-again-in-q3/)
+  * [Independent films are finding their audiences on VOD](http://www.usacitytoday.com/independent-films-are-finding-their-audiences-on-vod-2/)
 
 
 
