@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the websitealive.com privacy policy that was archived on 2014-03-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140326075137id_/https%3A//www.websitealive.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the websitealive.com privacy policy that was archived on 2014-07-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140715074530id_/https%3A//www.websitealive.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -17,7 +17,7 @@
 <!--[if IE 8]><link rel="stylesheet" type="text/css" href="css/ie8.css" /><![endif]-->
 
 <!--Login Panel - Alive Panel -->
-<script type="text/javascript" async="" src="/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&amp;ns=2"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="//doug1izaerwt3.cloudfront.net/be40248f3590f26f55c7f0018b4ae1dcf5601dda.1.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script type="text/javascript" src="/js/alivechat.js"></script>
+<script type="text/javascript" async="" src="/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&amp;ns=1"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" async="" src="//doug1izaerwt3.cloudfront.net/be40248f3590f26f55c7f0018b4ae1dcf5601dda.1.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script type="text/javascript" src="/js/alivechat.js"></script>
 <!--END Login Panel - Alive Panel -->
 
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.0/jquery.min.js"></script>
@@ -69,7 +69,7 @@ _kms('//doug1izaerwt3.cloudfront.net/' + _kmk + '.1.js');
 <!-- Start Javascript for Registration -->
 <script type="text/javascript">
 
-	var serverIP = '10.0.1.195';
+	var serverIP = '10.0.1.37';
 
 	var reg_password;
 	var reg_server_url;
@@ -1529,7 +1529,7 @@ Desktop</a></p>
 
 
 
-<div class="panel-button" id="hide-button" style="display:none;  position:absolute; top:347px; right:25px; background:url('../images/loginClose.png') no-repeat; width:137px; height:40px;" onclick="opencloseClientLogin('close');"><a href="javascript://"></a></div>
+<div class="panel-button" id="hide-button" style="display:none;  position:absolute; top:347px; right:0px; background:url('../images/loginClose.png') no-repeat; width:137px; height:40px;" onclick="opencloseClientLogin('close');"><a href="javascript://"></a></div>
 
 
 
@@ -1584,6 +1584,60 @@ document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })(
 </script> 
 <!-- End Adroll Pixel -->
 
+
+<!-- START CTA Buttons JS (Demo/Phone/Chat) -->
+<script type="text/javascript">
+
+function toggleCTA(cta_app){
+	
+	if ($('#span_' + cta_app).is( ':hidden' )){
+		$('#div_' + cta_app).css('padding-right',10);
+		$('#span_' + cta_app).fadeIn();
+	}
+	
+	switch(cta_app){
+		
+		case 'cta_demo':
+	
+			//hide others
+			$('#div_cta_phone').css('padding-right',0);
+			$('#span_cta_phone').hide();
+			$('#div_cta_chat').css('padding-right',0);
+			$('#span_cta_chat').hide();
+		break;
+		
+		
+		case 'cta_phone':
+		
+			//hide others
+			$('#div_cta_demo').css('padding-right',0);
+			$('#span_cta_demo').hide();
+			$('#div_cta_chat').css('padding-right',0);
+			$('#span_cta_chat').hide();
+			
+		break;
+		
+		case 'cta_chat':
+		
+			//hide others
+			$('#div_cta_demo').css('padding-right',0);
+			$('#span_cta_demo').hide();
+			$('#div_cta_phone').css('padding-right',0);
+			$('#span_cta_phone').hide();
+			
+		break;
+		
+		
+	}
+	
+}
+
+</script>
+<!-- END CTA Buttons JS (Demo/Phone/Chat) -->
+
+
+
+
 <div id="headerGray">	
 	<div class="wrapper websiteAliveGray">
     	
@@ -1595,8 +1649,14 @@ document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })(
         
         <div class="headerTitle" style="margin-top:30px;"><h1 style="font-size:30px;">Privacy Policy</h1></div>
         <div class="header-communications-2">
-        <a href="javascript:void(0)" onclick="window.open('https://www.websitealive3.com/9/visitor/window/?code_id=2974&amp;dl='+escape(document.location.href),'wsa_9_740','height=400,width=400')" class="clicktocallInt-home"><div class="icon-clicktocallInt"></div>1-888-696-4513</a>
-        <a onclick="javascript:window.open('https://www.websitealive3.com/9/rRouter.asp?groupid=9&amp;websiteid=10&amp;departmentid=0&amp;dl='+escape(document.location.href),'','width=400,height=400');" class="liveChatInt-home"><div class="icon-liveChatInt"></div>Chat Now</a>
+        	
+<a href="#" class="demoInt-home" onclick="toggleCTA('cta_demo');document.location.href='/demo-scheduling/';"><div class="icon-demoInt" id="div_cta_demo"></div><span id="span_cta_demo" onclick="document.location.href='/demo-scheduling/'">Schedule a Demo</span></a>
+        
+        
+        <a href="#" class="clicktocallInt-home" onclick="toggleCTA('cta_phone');window.open('https://www.websitealive3.com/9/visitor/window/?code_id=2974&amp;dl='+escape(document.location.href),'wsa_9_740','height=400,width=400');"><div class="icon-clicktocallInt" id="div_cta_phone" style="padding-right:0px"></div><span id="span_cta_phone" style="display:none" onclick="window.open('https://www.websitealive3.com/9/visitor/window/?code_id=2974&amp;dl='+escape(document.location.href),'wsa_9_740','height=400,width=400');">We'll Call You!</span></a>
+        
+        <a href="#" class="liveChatInt-home"><div class="icon-liveChatInt" id="div_cta_chat" style="padding-right:0px" onclick="toggleCTA('cta_chat');window.open('https://www.websitealive3.com/9/rRouter.asp?groupid=9&amp;websiteid=10&amp;departmentid=0&amp;dl='+escape(document.location.href),'','width=400,height=400');"></div><span id="span_cta_chat" style="display:none" onclick="window.open('https://www.websitealive3.com/9/rRouter.asp?groupid=9&amp;websiteid=10&amp;departmentid=0&amp;dl='+escape(document.location.href),'','width=400,height=400');">Chat Now</span></a>
+
         </div>
         <div class="clear">
     </div>
@@ -1823,7 +1883,7 @@ We use Google Analytics, a third-party tracking service, which uses cookies to t
         <div class="menuSection">
         	<h6 class="white">Support Links</h6>
             <ul>
-            	<li><a href="/howtos/">Support</a></li>
+            	<li><a href="/howtos/">Support &amp; Apps</a></li>
                 <li><a href="http://buzz.websitealive.com/service-status/">Service Status</a></li>
                 <li><a href="http://buzz.websitealive.com/category/release/">Release Notes</a></li>
                 <li><a href="/contact/">Contact Us</a></li>
@@ -1835,8 +1895,8 @@ We use Google Analytics, a third-party tracking service, which uses cookies to t
         	<h6 class="white">WebsiteAlive</h6>
             <p>2100 West Loop South<br>
             Suite 900<br>
-            Houston, TX 77027 - US<br>
-            1.888.696.4513<br><br>
+            Houston, TX 77027 - US<br><br>
+            <!--1.888.696.4513<br /><br />-->
             <a href="/career-opportunities/">Career Opportunities</a></p>
         </div>
         <div class="menuSection" style="width:250px;">
@@ -1889,7 +1949,7 @@ window.onload = function(){
 //<![CDATA[
 (function() {
 var _analytics_scr = document.createElement('script');
-_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&ns=2';
+_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&ns=1';
 var _analytics_elem = document.getElementsByTagName('script')[0]; _analytics_elem.parentNode.insertBefore(_analytics_scr, _analytics_elem);
 })();
 // ]]>
