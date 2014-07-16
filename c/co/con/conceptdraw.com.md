@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the conceptdraw.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626080355id_/http%3A//www.conceptdraw.com/products/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conceptdraw.com privacy policy that was archived on 2014-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140716032715id_/http%3A//www.conceptdraw.com/products/privacy) for the most accurate reproduction.*
 
 # Privacy | ConceptDraw
 
