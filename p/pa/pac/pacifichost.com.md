@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pacifichost.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626163632id_/http%3A//www.pacifichost.com/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pacifichost.com privacy policy that was archived on 2014-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140716115739id_/http%3A//www.pacifichost.com/privacy-policy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy Information by PacificHost
 
