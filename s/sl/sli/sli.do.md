@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sli.do privacy policy that was archived on 2014-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140615152744id_/http%3A//www.sli.do/terms-policy%23pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sli.do privacy policy that was archived on 2014-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140716114058id_/http%3A//www.sli.do/terms-policy%23pp) for the most accurate reproduction.*
 
 # Terms of Service & Privacy Policy | sli.do - give a voice to your audience
 
