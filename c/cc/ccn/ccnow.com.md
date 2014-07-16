@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ccnow.com privacy policy that was archived on 2014-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140301074228id_/http%3A//www.ccnow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ccnow.com privacy policy that was archived on 2014-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140716021926id_/http%3A//www.ccnow.com/privacy) for the most accurate reproduction.*
 
 # CCNow Privacy Policy
 
@@ -115,7 +115,7 @@ If you accept a session or persistent cookie, you can delete it at any time thro
 Regarding browser plug-ins to manage local shared objects, you can configure your web browser to accept local shared objects, to prevent your browser from accepting local shared objects that last beyond the current session, to have the browser notify you when you receive a new local shared object, or to disable local shared objects altogether.  
 
 
-We and our client partners use third party service providers, which may include but are not limited to Google AdSense, or Omniture, to serve ads on our behalf across the Internet, and sometimes on this website. These ads may collect anonymous information about your visits to the website on which such ad is placed, your interaction with these ads and the products and services offered by us, our partners and our suppliers through the use of a pixel tag or other web technologies. We and our partners may use this anonymous information to provide targeted advertisements to you for goods and services. If you would like more information about this practice and to know your choices about not having this anonymous information used, please visit <http://www.networkadvertising.org/consumer/opt_out.asp>. You may view a list of third party service providers who collect anonymous information, and/or opt-out of such collection of anonymous information about you, by visiting <http://www.networkadvertising.org/managing/opt_out.asp>. If you opt out of having your information collected through cookies, web beacons and other tools, your existing display advertising cookie(s) will be deleted and new cookie will attempt to be placed that instructs service providers not to track your future activities when that cookie is detected (a "no-track" cookie). If your browsers are configured to reject cookies when you visit our opt-out page, a "no-track" cookie cannot be set on your computer. Also, if you subsequently erase "no-track" cookies, use a different computer or change web browsers, you will need to opt-out again.
+We and our client partners use third party service providers, which may include but are not limited to Google AdSense, or Omniture, to serve ads on our behalf across the Internet, and sometimes on this website. These ads may collect anonymous information about your visits to the website on which such ad is placed, your interaction with these ads and the products and services offered by us, our partners and our suppliers through the use of a pixel tag or other web technologies. We and our partners may use this anonymous information to provide targeted advertisements to you for goods and services. If you would like more information about this practice and to know your choices about not having this anonymous information used, please visit <http://www.networkadvertising.org/choices/>. You may view a list of third party service providers who collect anonymous information, and/or opt-out of such collection of anonymous information about you, by visiting <http://www.networkadvertising.org/participating-networks>. If you opt out of having your information collected through cookies, web beacons and other tools, your existing display advertising cookie(s) will be deleted and new cookie will attempt to be placed that instructs service providers not to track your future activities when that cookie is detected (a "no-track" cookie). If your browsers are configured to reject cookies when you visit our opt-out page, a "no-track" cookie cannot be set on your computer. Also, if you subsequently erase "no-track" cookies, use a different computer or change web browsers, you will need to opt-out again.
 
 ### Security of Information
 
@@ -127,7 +127,7 @@ Different countries have different privacy laws and requirements. Please know, h
 
 We strive to maintain the accuracy and integrity of the personal information in our databases and to keep that information up-to-date. We provide ways for you to access your personal information as required by applicable law, so that you can correct inaccuracies or update your personal information.
 
-If you would like to review, correct or challenge your personal information, please contact us by postal mail addressed to us, CCNow ATTN: Privacy Officer, Snorrason Holdings ehf, Postholf 76, Dalvik, Iceland or by email at privacy@ccnow.com. You may write to us in English.
+If you would like to review, correct or challenge your personal information, please contact us by postal mail addressed to us, CCNow ATTN: Privacy Officer, Snorrason Holdings ehf, Postholf 76, 620 Dalvik, Iceland or by email at privacy@ccnow.com. You may write to us in English.
 
 If you contact us we may, for your protection, ask you for additional information to verify your identity. In most cases, we will provide the access you request and correct or delete any inaccurate personal information you discover. We reserve the right, however, to limit or deny your request to the extent permitted by applicable law if the disclosure may lead to a breach of applicable law and regulation, e.g. in case of any legal obligation to retain certain data, or if you have failed to provide sufficient evidence to verify your identity.
 
@@ -137,13 +137,13 @@ This Privacy Statement is only applicable to the use and disclosure of informati
 
 ### Children's Privacy
 
-This website is not directed at nor targeted to children. If you have not reached the age of majority or are not able to enter into legally binding agreements in your country, you may not use this website unless supervised by an adult. Our goal is to comply with applicable laws and regulations relating to collection and use of information from children as such term is defined by applicable laws. If you believe that we have received information from a child or other person protected under such laws, please notify us immediately by postal mail addressed to Privacy Officer, Snorrason Holdings ehf, Postholf 76, Dalvik, Iceland or by email at privacy@ccnow.com, and we will take reasonable steps to remove that information from our databases.
+This website is not directed at nor targeted to children. If you have not reached the age of majority or are not able to enter into legally binding agreements in your country, you may not use this website unless supervised by an adult. Our goal is to comply with applicable laws and regulations relating to collection and use of information from children as such term is defined by applicable laws. If you believe that we have received information from a child or other person protected under such laws, please notify us immediately by postal mail addressed to Privacy Officer, Snorrason Holdings ehf, Postholf 76, 620 Dalvik, Iceland or by email at privacy@ccnow.com, and we will take reasonable steps to remove that information from our databases.
 
 ### How to Contact Us
 
 If you have any questions, comments, or concerns regarding this Privacy Statement or our privacy practices, or have privacy-related questions not answered online, you may contact us by any of the following means:
 
-  * By Mail: You may contact us by postal mail addressed to CCNow ATTN: Privacy Officer, Snorrason Holdings ehf, Postholf 76, Dalvik, Iceland.
+  * By Mail: You may contact us by postal mail addressed to CCNow ATTN: Privacy Officer, Snorrason Holdings ehf, Postholf 76, 620 Dalvik, Iceland.
   * By Email: You may contact us by email at privacy@ccnow.com. Please specify "CCNow Privacy Question" in the subject line to help us to expedite our review of your email.
 
 
@@ -155,7 +155,7 @@ You may write to us in English.
 If you are a resident of California, California Civil Code Section 1798.83 permits you to request information regarding the disclosure of your personal information by Snorrason Holdings ehf. or its operating companies to a third party for the third party's direct marketing purposes. This right granted to California residents applies only to their activities within the State of California. To make such a request, please send an email to privacy@ccnow.com or write us at:  
 
 
-CCNow, ATTN: Privacy Officer, Snorrason Holdings ehf, Postholf 76, Dalvik, Iceland.  
+CCNow, ATTN: Privacy Officer, Snorrason Holdings ehf, Postholf 76, 620 Dalvik, Iceland.  
 
 
 In your request, please specify the Snorrason Holdings company or brand to which your request pertains. If no company is specified, we will treat your request as pertaining to Snorrason Holdings ehf.
@@ -164,7 +164,7 @@ In your request, please specify the Snorrason Holdings company or brand to which
 
 **Countries in the European Economic Area ("EEA")**
 
-CCNow is a service of Snorrason Holdings ehf, Postholf 76, Dalvik, Iceland.
+CCNow is a service of Snorrason Holdings ehf, Postholf 76, 620 Dalvik, Iceland.
 
 CCNow is subject to the requirements of the Icelandic Act on the Protection of Privacy as regards the Processing of Personal Data, No. 77/2000 as amended which complies with the intent of EU Directive 95/46/EC.
 
