@@ -1,38 +1,39 @@
-> *The following text is extracted and transformed from the senderscore.org privacy policy that was archived on 2012-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120527232207id_/http%3A//www.returnpath.net/privacy/privacy_senderscore.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the senderscore.org privacy policy that was archived on 2014-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140716035822id_/http%3A//www.returnpath.net/privacy/privacy_senderscore.php) for the most accurate reproduction.*
 
-# Return Path
+# SenderScore.org Privacy Policy | Return Path
+
+**Effective Date: May 3, 2013**
 
 ## Introduction:
 
-We know that your privacy is important to you. At Return Path, we're committed to helping you understand how we manage and protect it. We take privacy seriously, and have taken many steps to help safeguard the information we collect and manage for you.
+We know that your privacy is important to you. At Return Path, we’re committed to helping you understand how we manage and protect it. We take privacy seriously, and have taken many steps to help safeguard the information we collect and manage for you.
 
-This privacy policy is provided to inform you of our policies and practices and of the choices you can make about the way your information is collected and how that information is used. 
+This privacy policy (“Privacy Policy”) is provided to inform you of our policies and practices and of the choices you can make about the way your information is collected and how that information is used.
 
-If you have questions or concerns regarding this policy, you may contact the Return Path Privacy Office at [privacyoffice@returnpath.net](mailto:privacyoffice@returnpath.net). If you have any Customer Service issues, please contact [support@returnpath.net](mailto:support@returnpath.net).   
-
+If you have questions or concerns regarding this policy, you may contact the Return Path Privacy Office using this [simple online form](https://support.returnpath.net/index.php?/default_import/Tickets/Submit/RenderForm/4). If you have any Customer Service issues, please contact [support@returnpath.com](mailto:support@returnpath.com).
 
 Our privacy policy will tell you about:
 
-  * The Organization Collecting Information at this Website 
-  * The Information we Collect and Use 
-  * Information Sharing and Disclosure 
-  * Communications From the Site 
-  * Choice/Opt-out 
-  * Security and Information Protection 
-  * Privacy Policy for Children 
-  * Changes to this Policy 
+  * The Organization Collecting Information at this Website
+  * The Information we Collect and Use
+  * Retention of Personal Information
+  * Information Sharing and Disclosure
+  * Communications From the Site
+  * Choice/Opt-out
+  * Security and Information Protection
+  * Privacy Policy for Children
+  * Changes to this Policy
 
 
 
 Thank you for using Return Path.
 
 Sincerely,  
-Matt Blumberg, CEO  
-Tom Bartel, CPO
+Matt Blumberg, CEO
 
 ## The Organization Collecting Information at this Website:
 
-[Return Path](http://www.returnpath.com/ "Go to the Return Path Website") ("Company" or "we"), operates the website located at [www.senderscore.org](https://web.archive.org/web/20120527232207id_/http%3A//www.returnpath.net/privacy/www.senderscore.org) (the "Site"). Through the Site, Company operates the Sender Score Reputation Data Lookup Service (the "Service"), by which it allows users who register with us to view reputation data from the Return Path Sender Score Reputation system. 
+[Return Path](http://www.returnpath.com/ "Go to the Return Path Website") (“Company” or “we”), operates the website located at [www.senderscore.org](http://www.senderscore.org/) (the “Site”). Through the Site, Company operates the Sender Score Reputation Data Lookup Service (the “Service”), by which it allows users who register with us to view reputation data from the Return Path Sender Score Reputation system.
 
 ## The Information We Collect and Use:
 
@@ -44,31 +45,35 @@ Registration for the Service is not required to simply view the Site. If you ele
 
 ### Aggregate Information
 
-From time to time, we may collect general, non-personal, statistical information about the use of the Site and the Service, such as how many visitors visit a specific page on the Site, how long they stay on that page, and which hyperlinks, if any, they "click" on. We collect this information through the use of technologies such as "cookies" and "IP addresses", which are discussed in greater detail below. We may also group this information into aggregate visitor data in order to describe the use of the Site and Service to our existing or potential business partners or other third parties, or in response to a government request. However, please be assured that this aggregate data will in no way personally identify you, other list members or any other visitors to the Site.
+From time to time, we may collect general, non-personal, statistical information about the use of the Site and the Service, such as how many visitors visit a specific page on the Site, how long they stay on that page, and which hyperlinks, if any, they “click” on. We collect this information through the use of technologies such as “cookies” and “IP addresses”, which are discussed in greater detail below. We may also group this information into aggregate visitor data in order to describe the use of the Site and Service to our existing or potential business partners or other third parties, or in response to a government request. However, please be assured that this aggregate data will in no way personally identify you, other list members or any other visitors to the Site.
+
+### Retention of Personal Information
+
+We will retain your personal information for the period necessary to fulfill the purposes outlined in this Privacy Policy unless a longer retention period is required or permitted by law. We will make good faith efforts to delete the data if you contact us by following the instructions at the beginning and at the end of this Privacy Policy, provided Return Path is not required to retain it by law or for legitimate business purposes. We may decline to process requests that are unreasonably repetitive, require disproportionate technical effort, jeopardize the privacy of others, are extremely impractical, or for which access is not otherwise required by local law.
 
 ### IP Addresses
 
-An IP address is a number that's automatically assigned to your computer whenever you're surfing the web. Web servers, the computers that "serve" web pages, automatically identify your computer by its IP address. Company collects IP addresses for purposes of system administration, to report aggregate information to third parties and to track the use of the Site. When visitors request pages from the Site or click on a link in a mailing sent through the Service our servers log the visitors' IP addresses. We reserve the right to use IP addresses to identify a visitor or list member when it will enhance the users experience or if we feel it is necessary to enforce compliance with the Site's policies or to protect Company, the Site, its visitors, the Service, our Internet Service Provider partners, the list members or others.
+An IP address is a number that’s automatically assigned to your computer whenever you’re surfing the web. Web servers, the computers that “serve” web pages, automatically identify your computer by its IP address. Company collects IP addresses for purposes of system administration, to report aggregate information to third parties and to track the use of the Site. When visitors request pages from the Site or click on a link in a mailing sent through the Service our servers log the visitors’ IP addresses. We reserve the right to use IP addresses to identify a visitor or list member when it will enhance the users experience or if we feel it is necessary to enforce compliance with the Site’s policies or to protect Company, the Site, its visitors, the Service, our Internet Service Provider partners, the list members or others.
 
 ### Cookies
 
-Cookies are pieces of information that a websites transfers to an individual's hard drive for record-keeping purposes. Cookies make web-surfing easier for you by saving your preferences while you're at the Site. The use of cookies is an industry standard -- you'll find them at most websites. For example, we may use cookies on the Site to verify the subscriber's login status. They are not used to store personal information, or to retain historical or transactional subscriber data. By showing how and when visitors use the Site, cookies help us see which areas are popular and which are not. Information such as the total number of visitors and pages viewed is most easily tracked with cookies. We may use the information from cookies to make improvements and updates to the Site and to tailor our services to our visitors', list members' and survey participants' needs. 
+Cookies are pieces of information that a websites transfers to an individual’s hard drive for record-keeping purposes. Cookies make web-surfing easier for you by saving your preferences while you’re at the Site. The use of cookies is an industry standard — you’ll find them at most websites. For example, we may use cookies on the Site to verify the subscriber’s login status. They are not used to store personal information, or to retain historical or transactional subscriber data. By showing how and when visitors use the Site, cookies help us see which areas are popular and which are not. Information such as the total number of visitors and pages viewed is most easily tracked with cookies. We may use the information from cookies to make improvements and updates to the Site and to tailor our services to our visitors’, list members’ and survey participants’ needs.
 
 You always have the option of disabling cookies using your browser preferences. Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or indicate when a cookie is being sent. However, please be aware that some features of the Site will not function properly or may be slower if you refuse cookies.
 
 ### Clear Gifs (Web Beacons / Web Bugs)
 
-Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly in HTML files and are about the size of the period at the end of this sentence.
+Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly in HTML files and are about the size of the period at the end of this sentence.
 
 We may use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If you no longer wish to receive our newsletter or other promotional communications by email, you may opt-out of receiving them by following the instructions included in each communication.
 
 ### Profile
 
-We may store information that we collect through cookies and clear gifs to create a "profile" of your preferences. We may tie your personal information to information in the profile to provide tailored promotions and marketing offers or to improve the content of the Site for you. We do not share your profile with third parties.
+We may store information that we collect through cookies and clear gifs to create a “profile” of your preferences. We may tie your personal information to information in the profile to provide tailored promotions and marketing offers or to improve the content of the Site for you. We do not share your profile with third parties.
 
 ## Information Sharing and Disclosure:
 
-Except for the limited situations listed here in this Privacy Policy, we will not share your personal information with third parties. 
+Except for the limited situations listed here in this Privacy Policy, we will not share your personal information with third parties. To the extent we are legally permitted to do so, we will take reasonable steps to notify you in the event that we are required to provide your personal information to third parties as part of legal process.
 
 ### Agents and Third Party Service Providers
 
@@ -76,11 +81,11 @@ To provide the Service to you, we may sometimes use other businesses to perform 
 
 ### Change of Control / Asset Transfer
 
-As the Company develops, we may buy other businesses or their assets or sell all or parts of our business assets. Customer information is generally one of the business assets involved in such transactions. Thus, in the event that the assets of the Company in whole or in parts are acquired by a third-party, customer information, including any visitor information collected through the Site or the Service, would be one of the transferred assets. In the event of a corporate change in control or sale of all or parts of our business assets our users will be notified in accordance with the "Changes to this Policy" section of the policy if their personal information is provided to the new corporate entity or asset purchaser.
+As the Company develops, we may buy other businesses or their assets or sell all or parts of our business assets. Customer information is generally one of the business assets involved in such transactions. Thus, in the event that the assets of the Company in whole or in parts are acquired by a third-party, customer information, including any visitor information collected through the Site or the Service, would be one of the transferred assets. In the event of a corporate change in control or sale of all or parts of our business assets our users will be notified in accordance with the “Changes to this Policy” section of the policy if their personal information is provided to the new corporate entity or asset purchaser.
 
 ### Legal Compliance
 
-Company reserves the right to disclose member information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) Company's rights or property, other visitors, list members, or anyone else that could be harmed by such activities. Company also reserves the right to disclose visitor or list member information when we believe in good faith that the law requires it.
+Company reserves the right to disclose member information in special cases when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) Company’s rights or property, other visitors, list members, or anyone else that could be harmed by such activities. Company also reserves the right to disclose visitor or list member information when we believe in good faith that the law requires it.
 
 ## Communications From the Site:
 
@@ -94,7 +99,7 @@ Based upon the information you provide us, we will communicate with you in respo
 
 ### Newsletters and Promotions
 
-We may provide you the opportunity to opt-in to additional newsletters or promotional communications sent by email. If you have opted in or otherwise qualify to receive these forms of communication (e.g. as a registered user of the Site), we will use your name and email address to communicate with you. Out of respect for your privacy, we provide you a way to unsubscribe. Please see the "Choice and Opt-out" section.
+We may provide you the opportunity to opt-in to additional newsletters or promotional communications sent by email. If you have opted in or otherwise qualify to receive these forms of communication (e.g. as a registered user of the Site), we will use your name and email address to communicate with you. Out of respect for your privacy, we provide you a way to unsubscribe. Please see the “Choice and Opt-out” section.
 
 ## Choice/Opt-out:
 
@@ -110,23 +115,23 @@ We follow generally accepted industry standards to protect the information submi
 
 ### Firewalls
 
-Protecting the security of your personal information is very important to us. When we store information that you have provided to us when registering for the Service, that information is protected by security measures that include "firewalls" (a combination of computer hardware and software that helps keep unauthorized visitors from accessing information within our computer network), "intrusion detection systems" (a combination of computer hardware and software that helps detect any unauthorized visitors) and other tools such as data encryption and physical security, where appropriate. Unfortunately, no data transmission over the Internet or data repository can be guaranteed to be 100% secure. As a result, while Company strives to protect your personal information and privacy, we cannot guarantee or warrant the security of any information you disclose or transmit to us online and cannot be responsible for the theft, destruction, or inadvertent disclosure of your personal information.
+Protecting the security of your personal information is very important to us. When we store information that you have provided to us when registering for the Service, that information is protected by security measures that include “firewalls” (a combination of computer hardware and software that helps keep unauthorized visitors from accessing information within our computer network), “intrusion detection systems” (a combination of computer hardware and software that helps detect any unauthorized visitors) and other tools such as data encryption and physical security, where appropriate. Unfortunately, no data transmission over the Internet or data repository can be guaranteed to be 100% secure. As a result, while Company strives to protect your personal information and privacy, we cannot guarantee or warrant the security of any information you disclose or transmit to us online and cannot be responsible for the theft, destruction, or inadvertent disclosure of your personal information.
 
 ### Links to Other Sites
 
-Please be aware that when you are on the Site, or when you receive an email message from us through the Service, you could be directed to other sites that are beyond our control. There may be links to other sites from the Site's pages or from the email message we send to you that take you outside our Site. These other sites may send their own cookies to visitors, collect data, or solicit personal information. The privacy policies of these other sites may be significantly different from this Privacy Policy. We are not responsible for the privacy practices of these other sites and cannot guarantee the security of any of your personal information collected there. Note that when you link to a third party site from the Site, you may see pre-populated data fields with your personal information; however, that information is not available to the third party unless you take certain actions on the third party's site, such as submitting a form.
+Please be aware that when you are on the Site, or when you receive an email message from us through the Service, you could be directed to other sites that are beyond our control. There may be links to other sites from the Site’s pages or from the email message we send to you that take you outside our Site. These other sites may send their own cookies to visitors, collect data, or solicit personal information. The privacy policies of these other sites may be significantly different from this Privacy Policy. We are not responsible for the privacy practices of these other sites and cannot guarantee the security of any of your personal information collected there. Note that when you link to a third party site from the Site, you may see pre-populated data fields with your personal information; however, that information is not available to the third party unless you take certain actions on the third party’s site, such as submitting a form.
 
 ## Privacy Policy for Children:
 
-We do not knowingly collect information from children under the age of 13 on the Site or through the Service. If you are under the age of 13, please do not provide any information to us. If we become aware that we have collected information from a child under the age of 13, we will make commercially reasonable efforts to delete such information from our database. 
+We do not knowingly collect information from children under the age of 13 on the Site or through the Service. If you are under the age of 13, please do not provide any information to us. If we become aware that we have collected information from a child under the age of 13, we will make commercially reasonable efforts to delete such information from our database.
 
 ## Changes to this Policy:
 
-The terms of this Privacy Policy may change from time to time. We will notify you of any material changes to this Privacy Policy by posting a notice on the homepage of the Site for a reasonable period of time after such changes are made, that this Privacy Policy has been updated, and by changing the "Effective" date at the top of this Privacy Policy. We encourage you to check this page periodically for any changes. Your continued use of the Site and participation in following the posting of changes to these terms will mean you accept those changes. 
+The terms of this Privacy Policy may change from time to time. We will notify you of any material changes to this Privacy Policy by posting a notice on the homepage of the Site for a reasonable period of time after such changes are made, that this Privacy Policy has been updated, and by changing the Effective Date at the top of this Privacy Policy. We encourage you to check this page periodically for any changes. Your continued use of the Site and participation in following the posting of changes to these terms will mean you accept those changes.
 
 ## Contacting us:
 
-We value your opinions. If you have comments or questions about our privacy policy, please send them to Return Path Privacy at [privacyoffice@returnpath.net](mailto:privacyoffice@returnpath.net), or contact:
+We value your opinions. If you have comments or questions about our privacy policy, you may contact the Return Path Privacy Office using this [simple online form](https://support.returnpath.net/index.php?/default_import/Tickets/Submit/RenderForm/4), or contact:
 
 Return Path, Inc.  
 304 Park Avenue South, 7th Floor  
@@ -134,6 +139,6 @@ New York, New York 10010
 Phone: 212-905-5500  
 Fax: 212-905-5501
 
-For more information call 866-EMAILRP or email us at [rpinfo@returnpath.net](mailto:rpinfo@returnpath.net).
+For more information call 866-EMAILRP or email us at [support@returnpath.com](mailto:support@returnpath.net).
 
-  ©2008 Return Path, Inc. All Rights Reserved
+©2013 Return Path, Inc. All Rights Reserved
