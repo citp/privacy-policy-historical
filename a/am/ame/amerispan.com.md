@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amerispan.com privacy policy that was archived on 2014-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140407030145id_/http%3A//www.amerispan.com/privacy_statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amerispan.com privacy policy that was archived on 2014-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140716122859id_/http%3A//www.amerispan.com/privacy_statement.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
