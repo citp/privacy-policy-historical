@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the orthopaedicszone.com privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616031209id_/http%3A//www.orthopaedicszone.com/%3Fpage_id%3D976) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orthopaedicszone.com privacy policy that was archived on 2014-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140716192939id_/http%3A//www.orthopaedicszone.com/%3Fpage_id%3D976) for the most accurate reproduction.*
 
 # Privacy Policy | welcome to orthopaedicszone.com
 
