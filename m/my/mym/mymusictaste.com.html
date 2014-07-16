@@ -1,0 +1,646 @@
+<!--The following is the downloaded HTML source of the mymusictaste.com privacy policy that was archived on 2014-07-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140716160606id_/http%3A//www.mymusictaste.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#"><head><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UAcDU1JUGwAAUVBTBQY="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta content="user-scalable=no, initial-scale=1.0, width=device-width" name="viewport">
+	<link rel="icon" href="https://d13gq4crimsfag.cloudfront.net/img/web/favicon.png">
+	<link rel="shortcut icon" href="https://d13gq4crimsfag.cloudfront.net/img/web/favicon.png">
+  	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+   <style>
+  body {
+  width: 100%;
+  min-height: 100%;
+  font-family: 'Montserrat', 'Malgun gothic', sans-serif;
+  margin: 0;
+  padding: 0;
+  background: black;
+}
+#privacy {
+  background: #282828;
+}
+#privacy .top {
+  color: white;
+  text-shadow: 0px 1px 0px #111;
+  font-size: 32px;
+  width: 100%;
+  height: 60px;
+  background: url('https://d13gq4crimsfag.cloudfront.net/img/web/no2_map.jpg');
+  background-size: cover;
+  position: relative;
+}
+#privacy .top > div {
+  width: 950px;
+  margin: 0 auto;
+  padding: 15px;
+}
+#privacy .top > div a {
+  float: right;
+  font-size: 20px;
+  color: white;
+  padding-left: 20px;
+  -webkit-transition: all 200ms linear;
+  -moz-transition: all 200ms linear;
+  -o-transition: all 200ms linear;
+  -ms-transition: all 200ms linear;
+  transition: all 200ms linear;
+}
+#privacy .top > div a:hover {
+  color: #222;
+}
+#privacy .top > div p {
+  position: relative;
+  width: 550px;
+  bottom: 40px;
+  left: -21px;
+  font-weight: 800;
+}
+#privacy .top > div p span.selected {
+  font-weight: 800;
+}
+#privacy .top > div p span {
+  font-family: 'malgun gothic';
+  cursor: pointer;
+  -webkit-transition: all 200ms linear;
+  -moz-transition: all 200ms linear;
+  -o-transition: all 200ms linear;
+  -ms-transition: all 200ms linear;
+  transition: all 200ms linear;
+}
+#privacy .top > div p span:hover {
+  text-decoration: underline;
+}
+#privacy .texts,
+#privacy .kr_texts {
+  font-size: 14px;
+  width: 1024px;
+  margin: 0 auto;
+  color: #aaa;
+}
+#privacy .texts h4,
+#privacy .kr_texts h4 {
+  color: white;
+  font-size: 16px;
+}
+#privacy .texts > div,
+#privacy .kr_texts > div {
+  padding: 15px;
+  line-height: 1.5em;
+}
+#privacy .texts > div b,
+#privacy .kr_texts > div b {
+  font-weight: 800;
+  color: white;
+  font-size: 16px;
+}
+    </style>
+	<script type="text/javascript">
+			function change_div(idMyDiv) {
+				var objDiv = document.getElementById(idMyDiv);
+
+				if (objDiv.style.display == "block") {
+					objDiv.style.display = "none";
+				} else {
+					objDiv.style.display = "block";
+				}
+			}
+
+			function show_div(idMyDiv) {
+				var objDiv = document.getElementById(idMyDiv);
+				objDiv.style.display = "block";
+			}
+
+			function hide_div(idMyDiv) {
+				var objDiv = document.getElementById(idMyDiv);
+				objDiv.style.display = "none";
+			}
+
+			function force_select(idMyDiv) {
+				var objDiv = document.getElementById(idMyDiv);
+				objDiv.className = "selected";
+			}
+
+			function force_unselect(idMyDiv) {
+				var objDiv = document.getElementById(idMyDiv);
+				objDiv.className = "none";
+			}
+
+</script>
+    <title>MyMusicTaste</title>
+  </head>
+
+ <body id="privacy">
+
+<div class="top">
+			<div>
+				<a id="en_link" href="#" onclick="change_div('en_text');change_div('kr_text');change_div('kr_link');change_div('en_link');change_div('en_title');change_div('kr_title')" style="display:none"> English </a>
+				<a id="kr_link" href="#" onclick="change_div('en_text');change_div('kr_text');change_div('kr_link');change_div('en_link');change_div('kr_title');change_div('en_title')" style="display:block">한국어 </a>
+				<p id="en_title" style="display:block">
+					Terms &amp; Privacy
+				</p>
+				<p id="kr_title" style="display:none">
+					<span id="i_title" href="#" class="selected" onclick="force_select('i_title');force_unselect('l_title');show_div('individual_text');hide_div('location_text')">
+						개인정보이용약관</span> 
+					<span class="splitter">|</span> 
+					<span id="l_title" href="#" onclick="force_select('l_title');force_unselect('i_title');hide_div('individual_text');show_div('location_text')">
+						위치정보이용약관</span>
+				</p>
+
+			</div>
+		</div>
+		<div class="kr_texts" id="kr_text" style="display:none">
+			<div id="individual_text" style="display:block">
+				<p>
+					주식회사 제이제이에스미디어(이하 '회사')는 이용자들의 개인정보를 철저히 보호하며 불법적인 정보사용, 정보유출 등으로 인한 인권피해가 발생하지 않도록 노력하고 있습니다. 정보통신서비스제공자가 준수하여야 할 관련 법규상의 개인정보보호 규정 및 정보통신부가 제정한 개인정보보호지침을 준수하고 있습니다. 회사는 개인정보보호정책을 통하여 이용자들이 제공하는 개인정보가 어떠한 용도와 방식으로 이용되고 있으며 개인정보보호를 위해 어떠한 조치가 취해지고 있는지 알려드립니다.
+				</p>
+				<h4>1. 개인정보 수집에 대한 동의</h4>
+				<p>
+					회사는 이용자들이 회사의 개인정보 보호정책 또는 이용약관의 내용에 대하여 이용신청 과정에서 확인할 수 있도록 하며, 이용자가 이용신청에 필요한 개인정보를 입력하고 이용신청 과정을 진행함으로써 개인정보 수집에 대해 동의한 것으로 봅니다.
+				</p>
+
+				<h4>2. 약관의 효력 및 변경</h4>
+				<p>
+					회사는 회사에서 제공하는 서비스의 원활한 제공을 위하여 이용자의 동의 하에 이용자의 개인정보를 수집하고 있습니다. 회사는 위의 목적 이외에는 수집된 개인정보를 사용할 수 없습니다. 다만 추후 개인정보의 사용목적과 용도가 변경될 경우에는 공지합니다. "개인정보"라 함은 생존하는 개인에 관한 정보로서 당해 정보에 포함되어 있는 당해 개인을 식별할 수 있는 정보(당해 정보만으로는 특정 개인을 식별할 수 없더라도 다른 정보와 용이하게 결합하여 식별할 수 있는 것을 포함)를 말합니다.
+				</p>
+
+				<h4>3. 개인정보 수집방법</h4>
+				<p>
+					회사는 이용자에게 서비스를 제공하기 위한 필수적인 정보들을 제공 받고 있습니다. 인권 침해의 우려가 있는 민감한 개인정보(주민등록번호, 인종 및 민족, 사상 및 신조, 출신지 및 본적지, 정치적 성향 및 범죄기록, 건강상태 및 성생활 등)는 수집하지 않으며 부득이하게 수집해야 할 경우 이용자들의 사전 동의를 반드시 구하도록 하고 있습니다. 개인정보 중 e-mail은 서비스 제공, 고지사항 전달, 본인 의사 확인, 불만처리 등 의사소통의 경로 확보, 새로운 서비스나 이벤트 정보 등의 최신정보 안내의 용도로 사용됩니다. 회사는 어떠한 경우라도 이용자의 개인정보를 사전에 밝힌 목적 이외의 다른 목적으로 사용하지 않으며, 해당 정보를 외부로 유출시키지 않습니다. 그러나 회사의 서비스 또는 광고 배너 등으로 링크되어 있는 타 사이트에서 이용자의 동의를 거쳐 개인정보를 수집하는 행위에 대해서는 본 개인정보보호정책이 적용되지 않음을 알려드립니다.
+				</p>
+
+				<h4>4. 개인정보 보유기간 및 이용기간</h4>
+				<p>
+					이용자가 회사에서 제공하는 서비스를 이용하는 동안은 회사는 이용자의 개인정보를 지속적으로 보유하며 편리한 서비스의 제공을 위한 기초 자료로 이용합니다. 다만 이용자 본인이 개인정보를 변경하거나 삭제 요청을 하는 경우는 회사에서 정책에 따라서 삭제하여 추후 열람이나 이용이 불가능한 상태로 처리하고 있습니다.
+				</p>
+
+				<h4>5. 개인정보 제공 및 공유</h4>
+				<p>
+					개인정보는 원칙적으로 서비스와 무관한 제 3자에게 이용자의 동의 없이 제공될 수 없습니다. 회사는 약관에 의거하여 다음과 같은 경우 개인정보를 이용자의 동의 없이 제공, 판매할 수 있습니다
+				</p>
+
+				<ol>
+					<li>
+						특정 개인을 식별할 수 없는 형태로 가공되어 회사와 계약한 개인 또는 고객에게 제공되는 경우
+					</li>
+					<li>
+						통계작성, 학술연구 또는 시장조사를 위하여 필요한 경우로써 특정 개인을 식별할 수 없는 형태로 제공하는 경우
+					</li>
+				</ol>
+				<br>
+				<p>
+					회사는 약관에 의거하여 다음과 같은 경우 개인정보를 이용자의 동의 없이 제 3자에게 제공할 수 있습니다.
+				</p>
+
+				<ol>
+					<li>
+						이용자가 서비스를 이용하여 타인에게 정신적 또는 물질적 피해를 줌으로써 그에 대한 법적인 조치를 취하기 위하여 개인정보를 공개해야 한다고 판단되는 충분한 근거가 있는 경우
+					</li>
+					<li>
+						이용자의 법령 또는 약관의 위반을 포함하여 부정행위 확인 등의 정보보호 업무를 위해 필요한 경우
+					</li>
+					<li>
+						법에 의거하여 적법한 절차에 의한 수사기관이나 기타 정부기관으로부터 정보제공을 요청 받은 경우
+					</li>
+					<li>
+						기타 법률에 의해 요구되는 경우
+					</li>
+				</ol>
+
+				<h4>6. 개인정보 보유기간</h4>
+				<p>
+					개인정보 보유기간은 이용자가 이용계약 종료를 신청하여 회사가 승인하기까지 입니다. 이용자와 회사 간의 이용계약이 종료될 경우에는 이용자의 개인정보를 삭제합니다.
+				</p>
+
+				<h4>7. 개인정보관련 기술적 관리적 대책보안</h4>
+				<p>
+					회사는 해킹이나 컴퓨터 바이러스 등에 의해 이용자의 개인정보가 유출되거나 훼손되는 것을 막기 위해 최선을 다하고 있습니다. 개인정보의 훼손에 대비해서 자료를 수시로 백업하고 있고, 최신 백신프로그램을 이용하여 이용자들의 개인정보나 자료가 누출되거나 손상되지 않도록 방지하고 있으며, 암호화 통신 등을 통하여 네트워크상에서 개인정보를 안전하게 전송할 수 있도록 하고 있습니다. 그리고 침입차단시스템을 이용하여 외부로부터의 무단 접근을 통제하고 있으며, 기타 시스템적으로 보안성을 확보하기 위한 가능한 모든 기술적 장치를 갖추려고 노력하고 있습니다.
+					회사의 개인정보관련 취급 직원은 담당자에 한정시키고 있고 이를 위한 별도의 비밀번호를 부여하여 정기적으로 갱신하고 있으며, 담당자에 대한 수시교육을 통하여 회사의 개인정보보호정책의 준수를 강조하고 있습니다.
+					회사는 이용자 부주의로 인한 개인정보의 유출에 대해서는 책임을 지지 않으므로 이용자 본인의 개인정보보호를 위해 노력을 기울여주시길 바랍니다.
+				</p>
+
+				<h4>8. 쿠키(cookie) 운영에 관한 사항</h4>
+				<p>
+					회사는 양질의 서비스를 제공하기 위해서 쿠키를 사용할 수 있습니다. 쿠키는 웹사이트를 운영하는데 이용되는 서버(HTTP)가 이용자의 컴퓨터 브라우저에게 보내는 소량의 정보이며 이용자들의 PC컴퓨터내의 하드디스크에 저장되기도 합니다.
+					회사가 양질의 서비스를 제공하기 위해서 쿠키를 사용할 때는 이용자들은 쿠키에 대하여 사용여부를 선택할 수 있습니다. 이때 이용자는 웹브라우저의 옵션을 통해서 쿠키가 저장될 때마다 확인을 거치거나 모든 쿠키의 저장을 거부할 수도 있습니다. 또한 회사는 유효한 법적 절차를 통하지 않고서는 쿠키의 정보를 제 3자에게 절대 공개하지 않습니다.
+				</p>
+
+				<h4>9. 개인정보 위탁처리</h4>
+				<p>
+					회사는 서비스 향상을 위해서 이용자들의 개인정보를 외부전문업체에 위탁하여 처리할 수 있습니다. 개인정보의 처리를 위탁하는 경우에는 미리 그 사실을 이용자들에게 공지할 것입니다. 또한 위탁계약 등을 통하여 서비스제공자의 개인정보보호 관련 지시엄수, 개인정보에 관한 비밀유지, 제3자 제공의 금지 및 사고 시의 책임부담 등을 명확히 규정하고 당해 계약내용을 서면 또 전자적으로 보관할 것입니다.
+				</p>
+
+                <h4>10. 탈퇴시 개인정보 관리</h4>
+                <p>
+                    유저탈퇴시, facebook, google+, twitter정보 및 사진, 이메일 정보외의 것들은 삭제되지않습니다.
+                </p>
+
+				<h4>11. 개인정보 관련 의견 수렴 및 불만처리에 관한 사항</h4>
+				<p>
+					회사는 개인정보보호와 관련하여 이용자의 의견을 수렴하고 있으며 불만을 처리하기 위하여 모든 절차와 방법을 마련하고 있습니다. 이용자는 회사의 개인정보 관리 책임자 및 담당자에게 불만사항을 신고할 수 있으며, 회사는 이용자의 신고사항에 대하여 신속하고도 충분한 답변을 해 드릴 것입니다.
+					또 정부에서 설치하여 운영 중인 아래의 기관에 불만을 처리할 수 있습니다.
+				</p>
+
+				<ol>
+					<li>
+						개인정보침해 신고센터 (http://www.cyberprivacy.or.kr 전화:1336)
+					</li>
+					<li>
+						대검찰청 인터넷범죄수사센터 (http://icic.sppo.go.kr 전화:02-3480-3600)
+					</li>
+					<li>
+						경찰청 사이버테러대응센타 (http://www.ctrc.go.kr 전화:02-392-0330)
+					</li>
+				</ol>
+
+				<h4>11. 개인정보 관리 책임자 및 담당자</h4>
+				<p>
+					회사는 이용자의 소중한 정보를 안전하게 관리하도록 최선을 다하고 있습니다. 개인정보를 보호하는데 있어 귀하께 고지한 사항들에 반하는 사고가 발생할 경우 개인정보관리 책임자가 책임을 집니다. 회사는 개인정보에 대한 의견수렴 및 불만처리를 담당하는 개인정보 관리 책임자 및 담당자를 지정하고 있고, 연락처는 아래와 같습니다.
+				</p>
+				<strong>개인정보 관리 책임자 </strong>
+				<br>
+				이름 이재석
+				<br>
+				전자우편 support@mymusictaste.com
+				<br>
+				전화번호 070-4606-6442
+				<br>
+				<br>
+				<strong> 개인정보 관리 담당자</strong>
+				<br>
+				이름 백진욱
+				<br>
+				전자우편 support@mymusictaste.com
+				<br>
+				전화번호 070-4606-6442
+
+				<h4>12. 부칙</h4>
+				<p>
+					법령, 정책 또는 보안기술의 변경에 따라 내용의 추가, 삭제 및 변경이 있을 시에는 변경사항 시행일 7일 전부터 당사 사이트의 공지사항을 통하여 고지합니다.
+					(시행일) 이 개인정보보호정책은 2012년 1월 3일부터 적용됩니다.
+				</p>
+			</div>
+
+		
+			<div id="location_text" style="display:none">
+				<h4>제 1 조 (목적)</h4>
+				<p>
+					본 약관은 회원(MyMusicTaste서비스 약관에 동의한 자를 말합니다. 이하 “회원”이라고 합니다.)이 주식회사 제이제이에스미디어(이하 “회사”라고 합니다.)이 제공하는 MyMusicTaste 서비스(이하 “서비스”라고 합니다)를 이용함에 있어 회사와 회원의 권리·의무 및 책임사항을 규정함을 목적으로 합니다.
+				</p>
+
+				<h4>제 2 조 (이용약관의 효력 및 변경)</h4>
+				<p>
+					①본 약관은 서비스를 신청한 고객 또는 개인위치정보주체가 본 약관에 동의하고 회사가 정한 소정의 절차에 따라 서비스의 이용자로 등록함으로써 효력이 발생합니다.
+					<br>
+					②회원이 온라인에서 본 약관의 "동의하기" 버튼을 클릭하였을 경우 본 약관의 내용을 모두 읽고 이를 충분히 이해하였으며, 그 적용에 동의한 것으로 봅니다.
+					<br>
+					③회사는 위치정보의 보호 및 이용 등에 관한 법률, 콘텐츠산업 진흥법, 전자상거래 등에서의 소비자보호에 관한 법률, 소비자기본법 약관의 규제에 관한 법률 등 관련법령을 위배하지 않는 범위에서 본 약관을 개정할 수 있습니다.
+					<br>
+					④회사가 약관을 개정할 경우에는 기존약관과 개정약관 및 개정약관의 적용일자와 개정사유를 명시하여 현행약관과 함께 그 적용일자 10일 전부터 적용일 이후 상당한 기간 동안 공지만을 하고, 개정 내용이 회원에게 불리한 경우에는 그 적용일자 30일 전부터 적용일 이후 상당한 기간 동안 각각 이를 서비스 홈페이지에 게시하거나 회원에게 전자적 형태(전자우편, SMS 등)로 약관 개정 사실을 발송하여 고지합니다.
+					<br>
+					⑤회사가 전항에 따라 회원에게 통지하면서 공지 또는 공지∙고지일로부터 개정약관 시행일 7일 후까지 거부의사를 표시하지 아니하면 이용약관에 승인한 것으로 봅니다. 회원이 개정약관에 동의하지 않을 경우 회원은 이용계약을 해지할 수 있습니다.
+					<br>
+				</p>
+
+				<h4>제 3 조 (관계법령의 적용)</h4>
+				<p>
+					본 약관은 신의성실의 원칙에 따라 공정하게 적용하며, 본 약관에 명시되지 아니한 사항에 대하여는 관계법령 또는 상관례에 따릅니다.
+				</p>
+
+				<h4>제 4 조 (서비스의 내용)</h4>
+				<p>
+					회사가 제공하는 서비스는 아래와 같습니다.
+					<br>
+
+					서비스 명 - MyMusicTaste
+					<br>
+					서비스 내용 - 음악 컨텐츠 큐레이션
+					<br>
+				</p>
+
+				<h4>제 5 조 (서비스 이용요금)</h4>
+				<p>
+					①회사가 제공하는 서비스는 기본적으로 무료입니다. 단, 별도의 유료 서비스의 경우 해당 서비스에 명시된 요금을 지불하여야 사용 가능합니다.
+					<br>
+					②회사는 유료 서비스 이용요금을 회사와 계약한 전자지불업체에서 정한 방법에 의하거나 회사가 정한 청구서에 합산하여 청구할 수 있습니다.
+					<br>
+					③유료서비스 이용을 통하여 결제된 대금에 대한 취소 및 환불은 회사의 결제 이용약관 등 관계법에 따릅니다.
+					<br>
+					④회원의 개인정보도용 및 결제사기로 인한 환불요청 또는 결제자의 개인정보 요구는 법률이 정한 경우 외에는 거절될 수 있습니다.
+					<br>
+					⑤무선 서비스 이용 시 발생하는 데이터 통신료는 별도이며 가입한 각 이동통신사의 정책에 따릅니다.
+					<br>
+					⑥MMS 등으로 게시물을 등록할 경우 발생하는 요금은 이동통신사의 정책에 따릅니다.
+					<br>
+				</p>
+
+				<h4>제 6 조 (서비스내용변경 통지 등)</h4>
+				<p>
+					①회사가 서비스 내용을 변경하거나 종료하는 경우 회사는 회원의 등록된 전자우편 주소로 이메일을 통하여 서비스 내용의 변경 사항 또는 종료를 통지할 수 있습니다.
+					<br>
+					②①항의 경우 불특정 다수인을 상대로 통지를 함에 있어서는 웹사이트 등 기타 회사의 공지사항을 통하여 회원들에게 통지할 수 있습니다.
+					<br>
+				</p>
+
+				<h4>제 7 조 (서비스이용의 제한 및 중지)</h4>
+				<p>
+					①회사는 아래 각 호의 1에 해당하는 사유가 발생한 경우에는 회원의 서비스 이용을 제한하거나 중지시킬 수 있습니다.
+					<br>
+					1. 회원이 회사 서비스의 운영을 고의 또는 중과실로 방해하는 경우
+					<br>
+
+					2. 서비스용 설비 점검, 보수 또는 공사로 인하여 부득이한 경우
+					<br>
+
+					3. 전기통신사업법에 규정된 기간통신사업자가 전기통신 서비스를 중지했을 경우
+					<br>
+
+					4. 국가비상사태, 서비스 설비의 장애 또는 서비스 이용의 폭주 등으로 서비스 이용에 지장이 있는 때
+					<br>
+
+					5. 기타 중대한 사유로 인하여 회사가 서비스 제공을 지속하는 것이 부적당하다고 인정하는 경우
+					<br>
+
+					②회사는 전항의 규정에 의하여 서비스의 이용을 제한하거나 중지한 때에는 그 사유 및 제한기간 등을 회원에게 알려야 합니다.
+					<br>
+				</p>
+
+				<h4>제 8 조 (개인위치정보의 이용 또는 제공)</h4>
+				<p>
+					①회사는 개인위치정보를 이용하여 서비스를 제공하고자 하는 경우에는 미리 이용약관에 명시한 후 개인위치정보주체의 동의를 얻어야 합니다.
+					<br>
+					②회원 및 법정대리인의 권리와 그 행사방법은 제소 당시의 이용자의 주소에 의하며, 주소가 없는 경우에는 거소를 관할하는 지방법원의 전속관할로 합니다. 다만, 제소 당시 이용자의 주소 또는 거소가 분명하지 않거나 외국 거주자의 경우에는 민사소송법상의 관할법원에 제기합니다.
+					<br>
+					③회사는 타사업자 또는 이용 고객과의 요금정산 및 민원처리를 위해 위치정보 이용·제공․사실 확인자료를 자동 기록·보존하며, 해당 자료는 1년간 보관합니다.
+					<br>
+					④회사는 개인위치정보를 회원이 지정하는 제3자에게 제공하는 경우에는 개인위치정보를 수집한 당해 통신 단말장치로 매회 회원에게 제공받는 자, 제공일시 및 제공목적을 즉시 통보합니다. 단, 아래 각 호의 1에 해당하는 경우에는 회원이 미리 특정하여 지정한 통신 단말장치 또는 전자우편주소로 통보합니다.
+					<br>
+					1. 개인위치정보를 수집한 당해 통신단말장치가 문자, 음성 또는 영상의 수신기능을 갖추지 아니한 경우
+					<br>
+					2. 회원이 온라인 게시 등의 방법으로 통보할 것을 미리 요청한 경우
+					<br>
+				</p>
+
+				<h4>제 9 조 (개인위치정보주체의 권리)</h4>
+				<p>
+					①회원은 회사에 대하여 언제든지 개인위치정보를 이용한 위치기반서비스 제공 및 개인위치정보의 제3자 제공에 대한 동의의 전부 또는 일부를 철회할 수 있습니다. 이 경우 회사는 수집한 개인위치정보 및 위치정보 이용, 제공사실 확인자료를 파기합니다.
+					<br>
+					②회원은 회사에 대하여 언제든지 개인위치정보의 수집, 이용 또는 제공의 일시적인 중지를 요구할 수 있으며, 회사는 이를 거절할 수 없고 이를 위한 기술적 수단을 갖추고 있습니다.
+					<br>
+					③회원은 회사에 대하여 아래 각 호의 자료에 대한 열람 또는 고지를 요구할 수 있고, 당해 자료에 오류가 있는 경우에는 그 정정을 요구할 수 있습니다. 이 경우 회사는 정당한 사유 없이 회원의 요구를 거절할 수 없습니다.
+					<br>
+					1. 본인에 대한 위치정보 수집, 이용, 제공사실 확인자료
+					<br>
+					2. 본인의 개인위치정보가 위치정보의 보호 및 이용 등에 관한 법률 또는 다른 법률 규정에 의하여 제3자에게 제공된 이유 및 내용
+					<br>
+					④회원은 제1호 내지 제3호의 권리행사를 위해 회사의 소정의 절차를 통해 요구할 수 있습니다.
+					<br>
+				</p>
+
+				<h4>제 10 조 (법정대리인의 권리)</h4>
+				<p>
+					①회사는 14세 미만의 회원에 대해서는 개인위치정보를 이용한 위치기반서비스 제공 및 개인위치정보의 제3자 제공에 대한 동의를 당해 회원과 당해 회원의 법정대리인으로부터 동의를 받아야 합니다. 이 경우 법정대리인은 제9조에 의한 회원의 권리를 모두 가집니다.
+					<br>
+					②회사는 14세 미만의 아동의 개인위치정보 또는 위치정보 이용․제공사실 확인자료를 이용약관에 명시 또는 고지한 범위를 넘어 이용하거나 제3자에게 제공하고자 하는 경우에는 14세미만의 아동과 그 법정대리인의 동의를 받아야 합니다. 단, 아래의 경우는 제외합니다.
+					<br>
+					1. 위치정보 및 위치기반서비스 제공에 따른 요금정산을 위하여 위치정보 이용, 제공사실 확인자료가 필요한 경우
+					<br>
+					2. 통계작성, 학술연구 또는 시장조사를 위하여 특정 개인을 알아볼 수 없는 형태로 가공하여 제공하는 경우
+					<br>
+				</p>
+				<h4>제 11 조 (8세 이하의 아동 등의 보호의무자의 권리)</h4>
+				<p>
+					①회사는 아래의 경우에 해당하는 자(이하 “8세 이하의 아동”등이라 한다)의 보호의무자가 8세 이하의 아동 등의 생명 또는 신체보호를 위하여 개인위치정보의 이용 또는 제공에 동의하는 경우에는 본인의 동의가 있는 것으로 봅니다.
+					<br>
+					1. 8세 이하의 아동
+					<br>
+					2. 금치산자
+					<br>
+					3. 장애인복지법제2조제2항제2호의 규정에 의한 정신적 장애를 가진 자로서장애인고용촉진및직업재활법 제2조제2호의 규정에 의한 중증장애인에 해당하는 자(장애인복지법 제29조의 규정에 의하여 장애인등록을 한 자에 한한다)
+					<br>
+					②8세 이하의 아동 등의 생명 또는 신체의 보호를 위하여 개인위치정보의 이용 또는 제공에 동의를 하고자 하는 보호의무자는 서면동의서에 보호의무자임을 증명하는 서면을 첨부하여 회사에 제출하여야 합니다.
+					<br>
+					③보호의무자는 8세 이하의 아동 등의 개인위치정보 이용 또는 제공에 동의하는 경우 개인위치정보주체 권리의 전부를 행사할 수 있습니다.
+					<br>
+				</p>
+				<h4>제 12 조 (위치정보관리책임자의 지정)</h4>
+				<p>
+					①회사는 위치정보를 적절히 관리․보호하고 개인위치정보주체의 불만을 원활히 처리할 수 있도록 실질적인 책임을 질 수 있는 지위에 있는 자를 위치정보관리책임자로 지정해 운영합니다.
+					<br>
+					②위치정보관리책임자는 위치기반서비스를 제공하는 부서의 부서장으로서 구체적인 사항은 본 약관의 부칙에 따릅니다.
+					<br>
+				</p>
+				<h4>제 13 조 (손해배상)</h4>
+				<p>
+					①회사가 위치정보의 보호 및 이용 등에 관한 법률 제15조 내지 제26조의 규정을 위반한 행위로 회원에게 손해가 발생한 경우 회원은 회사에 대하여 손해배상 청구를 할 수 있습니다. 이 경우 회사는 고의, 과실이 없음을 입증하지 못하는 경우 책임을 면할 수 없습니다.
+					<br>
+					②회원이 본 약관의 규정을 위반하여 회사에 손해가 발생한 경우 회사는 회원에 대하여 손해배상을 청구할 수 있습니다. 이 경우 회원은 고의, 과실이 없음을 입증하지 못하는 경우 책임을 면할 수 없습니다.
+					<br>
+				</p>
+				<h4>제 14 조 (면책)</h4>
+				<p>
+					①회사는 다음 각 호의 경우로 서비스를 제공할 수 없는 경우 이로 인하여 회원에게 발생한 손해에 대해서는 책임을 부담하지 않습니다.
+					<br>
+					1. 천재지변 또는 이에 준하는 불가항력의 상태가 있는 경우
+					<br>
+					2. 서비스 제공을 위하여 회사와 서비스 제휴계약을 체결한 제3자의 고의적인 서비스 방해가 있는 경우
+					<br>
+					3. 회원의 귀책사유로 서비스 이용에 장애가 있는 경우
+					<br>
+					4. 제1호 내지 제3호를 제외한 기타 회사의 고의∙과실이 없는 사유로 인한 경우
+					<br>
+					②회사는 서비스 및 서비스에 게재된 정보, 자료, 사실의 신뢰도, 정확성 등에 대해서는 보증을 하지 않으며 이로 인해 발생한 회원의 손해에 대하여는 책임을 부담하지 아니합니다.
+				</p>
+				<h4>제 15 조 (규정의 준용)</h4>
+				<p>
+					①본 약관은 대한민국법령에 의하여 규정되고 이행됩니다.
+					<br>
+
+					②본 약관에 규정되지 않은 사항에 대해서는 관련법령 및 상관습에 의합니다.
+				</p>
+				<h4>제 16 조 (분쟁의 조정 및 기타)</h4>
+				<p>
+					①회사는 위치정보와 관련된 분쟁에 대해 당사자간 협의가 이루어지지 아니하거나 협의를 할 수 없는 경우에는 위치정보의 보호 및 이용등에 관한 법률 제28조의 규정에 의한 방송통신위원회에 재정을 신청할 수 있습니다.
+					<br>
+					②회사 또는 고객은 위치정보와 관련된 분쟁에 대해 당사자간 협의가 이루어지지 아니하거나 협의를 할 수 없는 경우에는 개인정보보호법 제43조의 규정에 의한 개인정보분쟁조정위원회에 조정을 신청할 수 있습니다.
+				</p>
+				<h4>제 17 조 (회사의 연락처) </h4>
+				<p>
+					회사의 상호 및 주소 등은 다음과 같습니다.
+					<br>
+					<br>
+					1. 상 호 : (주)제이제이에스미디어
+					<br>
+					2. 대 표 자 : 이재석
+					<br>
+					3. 주 소 : 서울시 서초구 양재1동 18-7 2층
+					<br>
+					4. 대표전화 : 070-4606-6442
+				</p>
+			</div>
+		</div>
+
+		<div class="texts" id="en_text" style="display:block">
+			<div>
+				<p>
+					Team MyMusicTaste is committed to protecting your privacy. We have prepared this Privacy Policy to describe to you our practices regarding the Personal Data (as defined below) we collect from users of our website, located at www.mymusictaste.com, ("Site") and Services (as defined in the Terms of Use). Capitalized terms not defined in this Privacy Policy have the meanings given in our Terms of Use located at www.mymusictaste.com/privacy.
+					<br>
+					<br>
+					<b>1. USER CONSENT
+					<br>
+					</b>
+					<br>
+					By submitting Personal Data through our Site or Services, you agree to the terms of this Privacy Policy and you expressly consent to the processing of your Personal Data in accordance with this Privacy Policy.
+					<br>
+					<br>
+					<b>2. TYPES OF DATA WE COLLECT
+					<br>
+					</b>
+					<br>
+					"Personal Data" means data that allows someone to identify or contact you, including, for example, your name, address, telephone number, e-mail address, as well as any other non-public information about you that is associated with or linked to any of the foregoing data. "Anonymous Data" means data that is not associated with or linked to your Personal Data; Anonymous Data does not, by itself, permit the identification of individual persons. We collect Personal Data and Anonymous Data, as described below.
+					<br>
+					<br>
+					(a)	Information You Provide to Us.
+					<br>
+					- We retain information on your behalf, such as messages that you store on the Services.
+					<br>
+					- If you provide us feedback or contact us via e-mail, we will collect your name and e-mail address, as well as any other content included in the e-mail, in order to send you a reply.
+					<br>
+					- If you participate in one of our surveys, we may collect additional Personal Data.
+					<br>
+					- We may also collect Personal Data at other points in our Site or Services that state that Personal Data is being collected.
+					<br>
+					- Any Personal Data that you share publicly (as described in Section 5) will be stored on our servers.
+					<br>
+					(b)	Information Collected via Technology.
+					<br>
+					- To make our Site and Services more useful to you, our servers (which may be hosted by a third party service provider) collect information from you, including your browser type, operating system, Internet Protocol (IP) address (a number that is automatically assigned to your computer when you use the Internet, which may vary from session to session), domain name, and/or a date/time sTeamp for your visit.
+					<br>
+					- We use software tools such as JavaScript to collect page interaction information such as clicks, drags, and hover-overs, response times, errors, and length of visits to certain pages
+					<br>
+					- We also use Cookies, and navigational data like Uniform Resource Locators (URL) to gather information regarding the date and time of your visit and the information for which you searched and which you viewed. "Cookies" are small pieces of information that a website sends to your computer's hard drive while you are viewing a web site. We may use both session Cookies (which expire once you close your web browser) and persistent Cookies (which stay on your computer until you delete them) to provide you with a more personal and interactive experience on our Site. Persistent Cookies can be removed by following Internet browser help file directions. If you choose to disable Cookies, some areas or features of our Site or Services may not work properly. Our advertisers and partners may also use their own cookies. We do not control use of these cookies used by advertisers and partners and expressly disclaim responsibility for information collected through them.
+					<br>
+					- We may use clear gifs (otherwise known as web bugs or web beacons) to gather information about your visit to the Site, such as what you click on and pages and information you viewed. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies. In contrast to cookies, which are placed on a user's hard drive, clear gifs are embedded invisibly on web pages. Additionally, be aware that advertisers and partners may also use their own clear gifs and we do not control use of these by advertisers and partners and expressly disclaim responsibility for information collected through them.
+					<br>
+					(c)	Information Collected from You About Others. If you decide to invite a third party to register for the Services, we will collect your and the third party's names and e-mail addresses in order to send an e-mail and follow up with the third party. We may offer the ability to automatically collect third party names and e-mail address from your address books or contact lists on third party services, such Gmail, Facebook, or Twitter. You or the third party may contact us at support@mymusictaste.com to request the removal of this information from our database.
+					<br>
+					(d)	Information Collected from Social Networking Sites. We may receive Personal and/or Anonymous Data about you from social networking sites (such as Facebook and Twitter) that you use in connection with the Services ("Social Networking Sites"), in accordance with the terms of use and privacy policy of each third party provider of a Social Networking Site. For example, Facebook may share your friend list with us, in order to help us find other Service users that you know. Facebook also shares your email address and profile photo with us. We may add this information to the information we have already collected from you via the Service. You expressly consent to our using your profile photo from a Social Networking Site as your profile photo on the Services.
+					<br>
+					(e)	Ad Networks. We use third-party advertising companies to serve ads when you visit our Site. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
+					<br>
+					<br>
+					<b>3. Publicly Shared Data
+					<br>
+					</b>
+					<br>
+					Any information that you include in your public profile will be viewable by other users. When you post messages to the Services, the information contained in your posting will be stored on our servers and other users will be able to see it. Library Items will be viewable by other users; provided that you will be able to control through your Services privacy settings which type of user can view your Library Items. Any of your publicly shared information, content, or activity, such as messages you post through the Services to a Social Networking Site, might be viewable by users of Social Networking Sites, depending on your Services privacy settings. We are not responsible for the Personal Data you choose to post in your public profile, post in messages, send to other users, or otherwise publicly share.
+					<br>
+					<br>
+					<b>4. USE OF YOUR DATA
+					<br>
+					</b>
+					<br>
+					(a)	General Use. In general, Personal Data you submit to us is used either to respond to requests that you make, or to aid us in serving you better. We use your Personal Data in the following ways:
+					<br>
+					- identify you as a user in our system;
+					<br>
+					- to secure your Account on our network;
+					<br>
+					- improve the quality of experience when you interact with our Site and Services;
+					<br>
+					- provide improved administration of our Site and Services;
+					<br>
+					- provide you the Services you request;
+					<br>
+					- send you administrative e-mail notifications, such as security or support and maintenance advisories;
+					<br>
+					- send you a welcome e-mail to verify ownership of the e-mail address provided when you register with the Services;
+					<br>
+					- respond to your inquiries related to employment opportunities or other requests; and
+					<br>
+					- to send newsletters, surveys, offers, and other promotional materials related to our Services and for other marketing purposes of Team MyMusicTaste.
+					<br>
+					(b)	Creation of Anonymous Data. We may create Anonymous Data records from Personal Data by excluding information (such as your name) that make the data personally identifiable to you. We use this Anonymous Data to analyze request and usage patterns so that we may enhance the content of our Services and improve Site navigation. Team MyMusicTaste reserves the right to use Anonymous data for any purpose and disclose Anonymous Data to third parties in its sole discretion.
+					<br>
+					<br>
+					<b>5. DISCLOSURE OF YOUR PERSONAL DATA.
+					<br>
+					</b>
+					<br>
+					Except as otherwise stated in this Privacy Policy, we do not sell, trade, share, or rent the Personal Data collected from our Site or Services to third parties.
+					<br>
+					(a)	Affiliates and Acquisitions. Although we currently do not have a parent company, any subsidiaries, joint ventures, or other companies under a common control (collectively, "Affiliates"), we may in the future. We may share some or all of your Personal Data with these Affiliates, in which case we will require our Affiliates to honor this Privacy Policy. In the event of an acquisition, we may share your Personal Data with any companies that acquire our company or our assets. That company will possess the Personal Data collected by us and will assume the rights and obligations regarding your Personal Data as described in this Privacy Policy.
+					<br>
+					(b)	Other Disclosures. Regardless of any choices you make regarding your Personal Data (as described below), Team MyMusicTaste may disclose Personal Data in connection with any legal investigation and/or if it believes in good faith that such disclosure is necessary to (a) comply with relevant laws or to respond to subpoenas or warrants served on Team MyMusicTaste; (b) protect or defend the rights or property of Team MyMusicTaste or users of the Site or Services; or (c) to investigate any violation or potential violation of the law, this Privacy Policy, or the Terms of Use. You expressly consent to the sharing of your Personal Data as described above.
+					<br>
+					(c)	Third Party Service Providers. We may share your Personal Data with third party service providers to provide you with the Services that we offer you through our Site; to conduct quality assurance testing; to facilitate creation of accounts; to provide technical support; and/or to provide other services to Team MyMusicTaste. These third party service providers are required not to use your Personal Data other than to provide the services requested by Team MyMusicTaste. You expressly consent to the sharing of your Personal Data with our service providers as described above.
+					<br>
+					<br>
+					<b>6. Third Party Websites
+					<br>
+					</b>
+					<br>
+					When you click on a link to any other website or location, you will leave our Site and go to another site and another entity may collect Personal Data or Anonymous Data from you. We have no control over, do not review, and cannot be responsible for, these outside websites or their content. Please be aware that the terms of this Privacy Policy do not apply to these outside websites or content, or to any collection of data after you click on links to such outside websites.
+					<br>
+					<br>
+					<b>7. YOUR CHOICES REGARDING YOUR PERSONAL DATA
+					<br>
+					</b>
+					<br>
+					(a)	Choices. We offer you choices regarding the collection, use, and sharing of your Personal Data. We will periodically send you free newsletters and e-mails that directly promote the use of our Site or our Services. When you receive newsletters or promotional communications from us, you may indicate a preference to stop receiving further communications from us and you will have the opportunity to "opt-out" by following the unsubscribe instructions provided in the e-mail you receive or by contacting us directly (please see contact information below). Despite your indicated e-mail preferences, we may send you service related communication, including notices of any updates to our Terms of Use or Privacy Policy.
+					<br>
+					(b)	Changes to Personal Data. You may change any of your Personal Data in your Services profile by editing your profile on the Site or by sending an e-mail to us at the e-mail address set forth below. You may request deletion of your Personal Data by us, but please note that we may be required to keep this information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements). When we delete any information, it will be deleted from the active database, but may remain in our archives.
+					<br>
+					<br>
+					<b>8. SECURITY OF YOUR PERSONAL DATA
+					<br>
+					</b>
+					<br>
+					We have commercially reasonable security measures in place to help protect against loss, misuse and alteration of your Personal Data in our possession. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while Team MyMusicTaste uses reasonable efforts to protect your Personal Data, Team MyMusicTaste cannot guarantee its absolute security.
+					<br>
+                    When you delete your account, your personal data such as Facebook, Google+, Twitter with photos and email address will only be deleted but no else.
+                    <br>
+					<br>
+					<b>9. CONTACT INFORMATION
+					<br>
+					</b>
+					<br>
+					Team MyMusicTaste welcomes your comments or questions regarding this Privacy Policy. Please e-mail us at support@mymusictaste.com
+					<br>
+					<br>
+					<b>10. A NOTE TO USERS OUTSIDE OF THE UNITED STATES
+					<br>
+					</b>
+					<br>
+					Your Personal Data may be processed in the country in which it was collected and in other countries, including the United States, where laws regarding processing of Personal Data may be less stringent than the laws in your country.
+					<br>
+					<br>
+					<b>11. CHANGES TO THIS PRIVACY POLICY
+					<br>
+					</b>
+					<br>
+					This Privacy Policy is subject to occasional revision, and if we make any material changes to this Privacy Policy, we will notify you by sending you an e-mail to the last e-mail address you provided to us and/or by prominently posting notice of the changes on our Site. Any changes to this Privacy Policy will be effective upon the earlier of thirty (30) calendar days following our dispatch of an e-mail notice to you or thirty (30) calendar days following our posting of notice of the changes on our Site. These changes will be effective immediately for new users of our Service. Please note that at all times you are responsible for updating your Personal Data to provide us with your most current e-mail address. In the event that the last e-mail address that you have provided us is not valid, or for any reason is not capable of delivering to you the notice described above, our dispatch of the e-mail containing such notice will nonetheless constitute effective notice of the changes described in the notice. In any event, changes to this Privacy Policy may affect our use of Personal Data that you provided us prior to our notification to you of the changes. If you do not wish to permit changes in our use of your Personal Data, you must notify us prior to the effective date of the changes that you wish to deactivate your profile with us. Continued use of our Service or Site following notice of such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes.
+				</p>
+			</div>
+		</div>
+    <script>
+        
+    </script>
+ 	<script src="https://d13gq4crimsfag.cloudfront.net/js/less.js" type="text/javascript"></script>
+	<script src="https://d13gq4crimsfag.cloudfront.net/js/jquery-1.9.1.min.js" type="text/javascript"></script>
+     
+	<script type="text/javascript">
+
+	  var _gaq = _gaq || [];
+	  _gaq.push(['_setAccount', 'UA-37473616-1']);
+	  _gaq.push(['_trackPageview']);
+
+	  (function() {
+	    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	  })();
+
+	</script>
+
+  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-4.newrelic.com","queueTime":0,"licenseKey":"752c68572f","agent":"js-agent.newrelic.com/nr-411.min.js","transactionName":"bgADN0BZVxICVhBbXFdKJxZcW00IDFtLX0pUEBIKUUxYEhdQSkVWW0sXCldPSk8BVBdXCUkXCBVTW0A=","applicationID":"3051127","errorBeacon":"bam.nr-data.net","applicationTime":11}</script>
+<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
