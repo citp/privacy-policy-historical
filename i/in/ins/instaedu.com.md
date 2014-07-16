@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the instaedu.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625125059id_/http%3A//instaedu.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instaedu.com privacy policy that was archived on 2014-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140716033737id_/https%3A//instaedu.com/privacy/basic) for the most accurate reproduction.*
 
-# Privacy policy - InstaEDU
+# None
 
 ## Effective 2/28/2014
 
