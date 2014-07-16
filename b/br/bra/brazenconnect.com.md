@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brazenconnect.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213115433id_/https%3A//www.brazenconnect.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brazenconnect.com privacy policy that was archived on 2014-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140716053738id_/https%3A//www.brazenconnect.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Brazen Connect
 
