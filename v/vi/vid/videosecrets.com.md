@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videosecrets.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326073607id_/https%3A//www.videosecrets.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videosecrets.com privacy policy that was archived on 2014-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140716105523id_/https%3A//www.videosecrets.com/privacy.php) for the most accurate reproduction.*
 
 # Video Secrets Privacy Policy
 
@@ -120,6 +120,6 @@ Toll Free: | 1-800-685-9236 (USA only)
 Int'l Phone: | 1-818-880-9021  
 Email: | sales@videosecrets.com  
 Regular Mail: |  VS Media Inc.  
-26500 W. Agoura Rd.  
-Suite 102-734  
-Calabasas, CA 91302 
+4607 Lakeview Canyon Rd.  
+#338  
+Westlake Village, CA 91361 
