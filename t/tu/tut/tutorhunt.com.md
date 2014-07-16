@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tutorhunt.com privacy policy that was archived on 2014-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140614212835id_/http%3A//www.tutorhunt.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tutorhunt.com privacy policy that was archived on 2014-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140716180246id_/http%3A//www.tutorhunt.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # Tutor Hunt Privacy Policy
 
