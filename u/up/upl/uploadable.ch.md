@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uploadable.ch privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326135556id_/http%3A//www.uploadable.ch/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uploadable.ch privacy policy that was archived on 2014-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140716050230id_/http%3A//www.uploadable.ch/privacypolicy.php) for the most accurate reproduction.*
 
 # Uploadable.ch - #1 Easy & Fast File Storage
 
