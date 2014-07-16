@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leethax.net privacy policy that was archived on 2013-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130918210149id_/http%3A//leethax.net/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leethax.net privacy policy that was archived on 2014-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140716144143id_/http%3A//leethax.net/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - leethax.net
 
