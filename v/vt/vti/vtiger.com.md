@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vtiger.com privacy policy that was archived on 2014-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140527115350id_/https%3A//www.vtiger.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vtiger.com privacy policy that was archived on 2014-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140716202735id_/https%3A//www.vtiger.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -99,7 +99,7 @@ We make every effort, including periodic reviews to ensure that Personal Informa
 
 ### Notification of Changes
 
-Any changes to the Privacy Policy Statement will be posted on our website in order to keep you informed of any changes in nature of information collected, manner of collection, use and sharing of information. If at any point we decide to use Personal Information in a manner different from that stated at the time it was collected, we will notify you by email and provide you with the ability to opt out of these new uses unless you have opted out from receiving all email notifications from us. You will not receive email notification of minor changes to the Privacy Policy Statement. If you are concerned about how your Personal Information is used, you should check back to our [privacy policy](https://www.vtiger.com/tco-comparison/) page periodically.
+Any changes to the Privacy Policy Statement will be posted on our website in order to keep you informed of any changes in nature of information collected, manner of collection, use and sharing of information. If at any point we decide to use Personal Information in a manner different from that stated at the time it was collected, we will notify you by email and provide you with the ability to opt out of these new uses unless you have opted out from receiving all email notifications from us. You will not receive email notification of minor changes to the Privacy Policy Statement. If you are concerned about how your personal information is used, you should check this page periodically.
 
 ### Blogs and Forums
 
