@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crazyabouttv.com privacy policy that was archived on 2014-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140414020554id_/http%3A//www.crazyabouttv.com/miscpages/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crazyabouttv.com privacy policy that was archived on 2014-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140716061321id_/http%3A//www.crazyabouttv.com/miscpages/privacypolicy.html) for the most accurate reproduction.*
 
 # CrazyAboutTV.com Privacy Policy
 
