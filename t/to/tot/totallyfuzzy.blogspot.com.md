@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the totallyfuzzy.blogspot.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208000351id_/http%3A//www.totallyfuzzy.net/directory/info_pages.html%3FID%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totallyfuzzy.blogspot.com privacy policy that was archived on 2014-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140716184052id_/http%3A//www.totallyfuzzy.net/directory/info_pages.html%3FID%3Dprivacy) for the most accurate reproduction.*
 
 # InfoDesk @ totallyfuzzy.net
 
