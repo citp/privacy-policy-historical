@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doubletwist.com privacy policy that was archived on 2014-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140615033350id_/http%3A//www.doubletwist.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doubletwist.com privacy policy that was archived on 2014-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140716162125id_/https%3A//www.doubletwist.com/privacy) for the most accurate reproduction.*
 
 # doubleTwist - Privacy
 
@@ -74,7 +74,7 @@ _Website:_ the website located at [www.doubleTwist.com](http://www.doubletwist.c
 
 ### 1\. What is doubleTwist and what services does it offer?
 
-doubleTwist is a company headquartered in San Francisco, California and established under the laws of Cayman Islands. Through the Website, doubleTwist offers You the doubleTwist Software and the doubleTwist Pro Service, which may be extended or changed from time to time.
+doubleTwist is a company headquartered in Austin, Texas and established under the laws of Cayman Islands. Through the Website, doubleTwist offers You the doubleTwist Software and the doubleTwist Pro Service, which may be extended or changed from time to time.
 
 ### 2\. What information does doubleTwist collect?
 
@@ -189,7 +189,7 @@ doubleTwist adheres to the Safe Harbor Principles that were established by the U
 
 #### Mediation
 
-If You are a resident of a country outside of the European Union, You agree that, in the event any dispute or claim arises out of or relating to this Privacy Policy that You and doubleTwist will attempt in good faith to negotiate a written resolution of the matter directly between the parties. You agree that if the matter remains unresolved for forty-five (45) days after notification (via certified mail or personal delivery) that a dispute exists, all parties shall join in mediation services in San Francisco, California with a mutually agreed mediator in an attempt to resolve the dispute. Should You file any arbitration claims, or any administrative or legal actions without first having attempted to resolve the matter by mediation, then You agree that You will not be entitled to recover attorney’s fees, even if You would otherwise be entitled to them.
+If You are a resident of a country outside of the European Union, You agree that, in the event any dispute or claim arises out of or relating to this Privacy Policy that You and doubleTwist will attempt in good faith to negotiate a written resolution of the matter directly between the parties. You agree that if the matter remains unresolved for forty-five (45) days after notification (via certified mail or personal delivery) that a dispute exists, all parties shall join in mediation services in Austin, Texas with a mutually agreed mediator in an attempt to resolve the dispute. Should You file any arbitration claims, or any administrative or legal actions without first having attempted to resolve the matter by mediation, then You agree that You will not be entitled to recover attorney’s fees, even if You would otherwise be entitled to them.
 
 #### Dispute Resolution for Residents of the European Union
 
