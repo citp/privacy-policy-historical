@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fairfx.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628103730id_/http%3A//www.fairfx.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fairfx.com privacy policy that was archived on 2014-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140717192529id_/https%3A//www.fairfx.com/privacy) for the most accurate reproduction.*
 
 # privacy & policy
 
