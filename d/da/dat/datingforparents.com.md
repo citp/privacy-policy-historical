@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the datingforparents.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213183214id_/http%3A//www.datingforparents.com/static.php%3Fhtml%3Dprivacy%26s%3Ds%26lang%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datingforparents.com privacy policy that was archived on 2014-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140717112942id_/http%3A//www.datingforparents.com/static.php%3Fhtml%3Dprivacy%26s%3Ds%26lang%3Den) for the most accurate reproduction.*
 
 # Find local singles on DatingForParents
 
