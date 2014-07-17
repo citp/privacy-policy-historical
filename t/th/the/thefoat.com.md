@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thefoat.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328054955id_/http%3A//www.thefoat.com/fa/company-privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefoat.com privacy policy that was archived on 2014-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140717080238id_/http%3A//www.thefoat.com/fa/company-privacy_policy) for the most accurate reproduction.*
 
 # TheFOAT: Auto Classifieds, Motor Social Network, Photos, Videos
 
