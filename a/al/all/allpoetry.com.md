@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the allpoetry.com privacy policy that was archived on 2011-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110422143131id_/http%3A//allpoetry.com/home/guide/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allpoetry.com privacy policy that was archived on 2014-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140717023337id_/http%3A//allpoetry.com/home/guide/privacy) for the most accurate reproduction.*
 
-# Privacy Policy at All poetry
+# Privacy Policy : All Poetry
+
+Three important documents: [rules ](https://web.archive.org/home/guide/rules)• [legal terms of use ](https://web.archive.org/home/guide/terms)• [privacy policy](https://web.archive.org/home/guide/privacy). Use of this site means you agree. 
 
 ## Information Collection and Use
 
@@ -9,8 +11,6 @@ When you register and use the site, we collect information, including your:
   * email address 
   * subscription history or other purchases 
   * various personalization information 
-
-
 
 The above information is used to customize the content and advertising you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting. 
 
@@ -57,8 +57,8 @@ In addition, your ip address, cookie information, and what pages you request is 
 
 ## Confidentiality and Security
 
-  * We limit access to personal information about you to employees or volunteers who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. This is as few people as possible, and such activity is logged for verification by others. 
-  * Such information includes instant messages sent between users of the site. Only moderators of director level and above can view these, and only with a specific reason. 
+  * We limit access to personal information about you to employees or volunteers who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. This is as few people as reasonably possible, and such activity is logged for verification by others. 
+  * Such information includes instant messages sent between users of the site. Only Annd or Kevin can view these, and only with a specific reason. Viewing is strictly logged and reviewed. 
   * We reserve the right at all times to disclose any information as we deem necessary to satisfy any applicable law, regulation, legal process or governmental request. 
   * Always use caution when giving out any personally identifiable information about yourself or your children in any online communication. 
 
@@ -66,4 +66,4 @@ In addition, your ip address, cookie information, and what pages you request is 
 
 ## We're concerned about your privacy
 
-If you have a question about your privacy, please [contact us](https://web.archive.org/ticket/add?add_referer=1), and we'll try to clarify it for you! 
+If you have a question about your privacy, please [contact us ](https://web.archive.org/ticket/add)and we'll try to clarify it for you! 
