@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snapguide.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625103423id_/https%3A//snapguide.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snapguide.com privacy policy that was archived on 2014-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140717220425id_/https%3A//snapguide.com/about/privacy) for the most accurate reproduction.*
 
 # Snapguide
 
