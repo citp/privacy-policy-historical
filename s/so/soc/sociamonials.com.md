@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sociamonials.com privacy policy that was archived on 2013-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131109160620id_/http%3A//www.sociamonials.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sociamonials.com privacy policy that was archived on 2014-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140717103307id_/http%3A//sociamonials.com/privacy.php) for the most accurate reproduction.*
 
 # Sociamonials - Capture and syndicate your customer's passion
 
