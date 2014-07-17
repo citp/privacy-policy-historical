@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the leidos.com privacy policy that was archived on 2014-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140204073438id_/http%3A//www.leidos.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leidos.com privacy policy that was archived on 2014-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140717144427id_/https%3A//www.leidos.com/privacy) for the most accurate reproduction.*
 
 # Web Privacy Statement | Leidos
+
+##  Leidos issues digital certificates to employees and servers for use in internal and external applications. For more information about this program, please use the Web Site Feedback form.
+
+* * *
 
 Your privacy, and the privacy of all users of www.leidos.com is of the highest priority. This privacy statement explains what information we gather from you, how it may be used by us and how it is protected. 
 
