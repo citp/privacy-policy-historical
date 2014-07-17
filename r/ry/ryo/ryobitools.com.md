@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ryobitools.com privacy policy that was archived on 2014-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140425094624id_/http%3A//www.ryobitools.com/power-tools/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ryobitools.com privacy policy that was archived on 2014-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140718015339id_/https%3A//www.ryobitools.com/power-tools/content/privacy) for the most accurate reproduction.*
 
-# Ryobi Tools
+# RYOBI Tools
 
 #### Effective Date: February 23, 2012
 
@@ -64,7 +64,7 @@ We reserve the right, at any time and without notice, to add to, change, update 
 
 If you have comments or questions about our Privacy Policy, you may contact us as follows:
 
-Customer Service: [Contact Customer Service](http://www.ryobitools.com/support/contact)
+Customer Service: [Contact Customer Service](https://www.ryobitools.com/support/contact)
 
 Address:  
 One World Technologies, Inc.  
