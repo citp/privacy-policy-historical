@@ -1,50 +1,39 @@
-> *The following text is extracted and transformed from the intech-bb.com privacy policy that was archived on 2014-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140517092242id_/http%3A//www.intech-bb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intech-bb.com privacy policy that was archived on 2014-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140717141034id_/http%3A//intech-bb.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Social Media News, Tutorials, and Web Tips
+# Privacy Policy | Intech-BB.com
 
-InTech-BB understands that respect and safety of users is the utmost importance. The statement underneath describes all the necessary collection and dissemination of personal information given by users on the site. This information applies to all the InTech-BB sites within “intech-bb.com” domain.
+**Privacy policy**
 
-### What information our users provide us?
+For users of smartphone seller sites, privacy is really an important deal. During the time of conducting a business online, things become far important regarding privacy. Here are points to express our privacy policy for users of the site.
 
-* * *
+**Collection of personally identifiable information**
 
-Just like every other website, the information we collects includes logs: IP (Internet Protocols), web browser, the ISP (Internet Service Provider) you use, pages visited, and the dates and times of those visits.
+We are permitted for collection of identifiable information. We collect full information of authorized customers such as phone numbers, address and email addresses apart from name. The size and type of business with advertisement inventory is also secured by us.
 
-### What other information do we collect and what do we do with it?
+**Use of personally identifiable information**
 
-* * *
+In order to customize the site, make things suitable according to customers, meeting buy and sell requests and sending mails to customers, we use the personally identifiable information. Also to contact to visitors and customers regarding exclusive records, survey and deal, we can use the same info.
 
-The other information apart from above mentioned includes: your name, e-mail address, website (optional) you only need to provide this information if you would like to comment on our posts. So if you do not want to deliver information of this kind, you can always surf the website, but you will not be able to access the entire service.
+**Third party issues**
 
-### What security does InTech-BB.com give us?
+Apart from collecting information directly, our third party service dealers collection information from visitors and customers and we can’t know that how this information is being used by the third party. Still we can ask those parties to reveal the way they use that information. Also, some of these groups fully act as a connective link and don’t save any kind of information from visitors.
 
-* * *
+**Storage of this kind of information**
 
-The personal information entrusted to the website will not be sold, revealed, or transferred outside the boundaries of InTech-BB.com at any cost. The information with be preserved with maximum care and safety.
+We collect this kind of information about customers by smart phone websites is kept protected. These details are not subjected to be revealed over third party apart for the use mentioned above.
 
-### Google Adsense
+**Sharing information**
 
-* * *
+We can share personally identifiable information of a an authorized customers with another authorized customers who are willing for potential deals with the other customers. The kind of information we share in such case includes the list of our third party dealers, demographics of site visitors and regular clients. You can select the option of ‘opt out’ to get the information in your inbox.
 
-Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at http://www.google.com/privacy_ads.html
+**Use of cookies**
 
-### Changes/Modification:
+Cookies are applied in our sites in order to check out that what products are kept at preference by our customs. In order to keep the identity of authorized customer secured also we use cookies. For instance, the one who leaves the site without using it for 10 minutes and more after logging it, is logged from the site automatically.
 
-* * *
+**Security of personal identifiable details**
 
-Any changes to these terms can by modified any time without prior publication or announcement.
+Our security policy is known well by our technically expert staff and they know well to keep it protected. Only limited numbers of employees in the company who are reliable know your password. Our system is audited very frequently to check out whether the information has been kept secret and safe or not.
 
-### Your acceptance of these terms
+**Google’s DART policy**
 
-* * *
-
-By using this Site, you signify your acceptance of this policy and terms of service. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
-
-### Contact:
-
-* * *
-
-For further issues, questions and inquiries about our privacy policy, contact us at [privacy@intech-bb.com](mailto:privacy@intech-bb.com)
-
-_*Cookie  
-A cookie is a small file that a Web server sends to your browser. It is normally used to assign your computer a unique identification and securely store information: identity of the user, passwords, preferences, online profiles. It is stored on the hard drive of your computer. You can refuse to have cookies delivered by InTech-BB sites by changing the settings of your browser. Cookies installed in your computer can come from many Internet sites. To protect the confidentiality of data, your browser allows Web sites to access cookies they themselves have sent, not to those that others have sent. _
+Google keep cookies saved as a third party vendor from our site; it uses these cookies for displaying ad and promoting services and products.
