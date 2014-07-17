@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the hussysex.com privacy policy that was archived on 2014-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140508213504id_/http%3A//www.hussysex.com/info/i.php%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hussysex.com privacy policy that was archived on 2014-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140717084054id_/http%3A//www.hussysex.com/info/i.php%3Faction%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 for [www.hussysex.com](http://www.hussysex.com/)  
-Effective Date: May 08, 2014  
+Effective Date: July 17, 2014  
 Last Modified: October 4, 2013 
 
 Pursuant to our [Terms of Use](http://www.hussysex.com/info/i.php?action=terms), this document describes how we treat personal information related to your use of this website (the “Website”), including information you provide when using it. 
