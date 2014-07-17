@@ -1,13 +1,13 @@
-<!--The following is the downloaded HTML source of the bitpremier.com privacy policy that was archived on 2014-03-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140326034702id_/https%3A//www.bitpremier.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bitpremier.com privacy policy that was archived on 2014-07-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140718012957id_/https%3A//www.bitpremier.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     
-<meta name="description" content="Privacy Policy">
+<meta name="description" content="BitPremier's privacy policy.">
 
     <link rel="icon" type="image/png" href="/static/images/favicon.png">
-    <title>BitPremier</title>
+    <title>Privacy Policy | BitPremier</title>
 
     
         <!-- style.css -->
@@ -17,6 +17,9 @@
     <!-- flat-ui.css -->
     <link rel="stylesheet" type="text/css" href="/static/flat-ui/css/flat-ui.css">
 
+    <!-- Lightbox 2.6 css -->
+    <link rel="stylesheet" type="text/css" href="/static/lightbox/css/lightbox.css">
+
     <!-- Included CSS Files -->
     
     <!-- End Included CSS Files -->
@@ -24,7 +27,9 @@
     <!-- Fonts -->
     <script type="text/javascript" src="//use.typekit.net/idf1ijl.js"></script>
     <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+    <!--<script src="//ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>-->
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+    <script type="text/javascript" src="/static//js/jquery.validate.min.js"></script>
     <script src="/static/js/underscore.min.js"></script>
     <script type="text/javascript" src="/static/js/bootstrap.min.js"></script>
 </head>
@@ -47,14 +52,14 @@
                 <div class="nav-collapse collapse pull-right">
                     <ul class="nav" style="height: 100px;">
                         <li class="about"><a href="/about"><strong>About</strong></a></li>
-                        <li class="hiw"><a href="/hiw"><strong>How It Works</strong></a></li>
+                        <li class="hiw"><a href="/how-it-works"><strong>How It Works</strong></a></li>
                         <li class="contact"><a href="/contact"><strong>Contact</strong></a></li>
                         
-                        <li class="login"><a href="/boost/login"><strong>Login</strong></a></li>
+                        <li class="login"><a href="/login"><strong>Login</strong></a></li>
                         
 
                         <li id="create-listing" class="create">
-                            <a href="/boost/signup">
+                            <a href="/signup">
                                 
                                 <strong>Seller Signup</strong>
                                 
@@ -345,7 +350,7 @@ jQuery(function ($) {
                 </div>
                 <div class="row" id="hidden-footer" style="display: ">
                     <ul class="span3">
-                        <li><a href="/hiw">How It Works</a></li>
+                        <li><a href="/how-it-works">How It Works</a></li>
                         <li><a href="/about">About Us</a></li>
                         <li><a href="/contact">Contact Us</a></li>
                         <li><a href="//bitpremier.us4.list-manage.com/subscribe?u=0fe140412a1e80ad19d91e297&amp;id=5ba2f26431" target="_blank">Newsletter</a></li>
@@ -394,6 +399,31 @@ jQuery(function ($) {
     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
+
+  /* Track click events */
+  // Contact button submit
+  $('#contact-submit-btn').on('click', function() {
+    _gaq.push(['_trackEvent', 'contact-submit', 'click']);
+    // ga('send', 'event', 'button', 'click', 'contact-submit');
+  });
+
+  // Support email click
+  $('.support-email').on('click', function() {
+    _gaq.push(['_trackEvent', 'support-email-click', 'click']);
+    // ga('send', 'event', 'button', 'click', 'support-email');
+  });
+
+  // Mailing list subscription
+  $('#mailing-list-join-btn').on('click', function() {
+    _gaq.push(['_trackEvent', 'mailing-list-subsciption', 'click']);
+    // ga('send', 'event', 'button', 'click', 'mailing-list');
+  });
+
+  // Anonymous interest subscription
+  $('#submit-anonymous-interest-btn').on('click', function() {
+    _gaq.push(['_trackEvent', 'anonymous-interest-submit', 'click']);
+    // ga('send', 'event', 'button', 'click', 'anonymous-interest');
+  });
 
 </script>
 <!-- Put mixpanel here -->
@@ -453,8 +483,10 @@ jQuery(function ($) {
         }
     });
     </script>
+    <!-- Scripts at bottom so page loads faster. (Lightbox scripts) -->
     <script type="text/javascript" src="/static/js/jquery.scrollTo.js"></script>
+<script src="/static/lightbox/js/lightbox-2.6.min.js"></script>
     
     
-<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:")+"//"+"js-agent.newrelic.com/nr-100.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-2.newrelic.com","d30d166cf0","2835457","b1NbNhADX0ZZBkcIWFYZfxcMAUVcVwscB0VXWE0HDAYfQ1EARBINSERQFAMBSA==",12,14,new Date().getTime(),"","","","",""]);</script>
+<script type="text/javascript">if(!NREUMQ.f){NREUMQ.f=function(){NREUMQ.push(["load",new Date().getTime()]);var e=document.createElement("script");e.type="text/javascript";e.src=(("http:"===document.location.protocol)?"http:":"https:")+"//"+"js-agent.newrelic.com/nr-100.js";document.body.appendChild(e);if(NREUMQ.a)NREUMQ.a();};NREUMQ.a=window.onload;window.onload=NREUMQ.f;};NREUMQ.push(["nrfj","beacon-2.newrelic.com","d30d166cf0","2835457","b1NbNhADX0ZZBkcIWFYZfxcMAUVcVwscB0VXWE0HDAYfQ1EARBINSERQFAMBSA==",15,35,new Date().getTime(),"","","","",""]);</script>
 <script type="text/javascript" src="https://js-agent.newrelic.com/nr-100.js"></script></body></html>
