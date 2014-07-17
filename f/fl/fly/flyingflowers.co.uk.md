@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flyingflowers.co.uk privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331000543id_/http%3A//www.flyingflowers.co.uk/Privacy-Policy-at-Flying-Flowers/Flowers/FF_PrivacyPolicy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flyingflowers.co.uk privacy policy that was archived on 2014-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140717185823id_/http%3A//www.flyingflowers.co.uk/page/privacy) for the most accurate reproduction.*
 
 # Privacy Page
 
