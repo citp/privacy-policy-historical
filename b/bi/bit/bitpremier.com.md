@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bitpremier.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326034702id_/https%3A//www.bitpremier.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitpremier.com privacy policy that was archived on 2014-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140718012957id_/https%3A//www.bitpremier.com/privacy) for the most accurate reproduction.*
 
-# BitPremier
+# Privacy Policy | BitPremier
 
 _**1\. Introduction**_
 
