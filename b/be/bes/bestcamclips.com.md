@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestcamclips.com privacy policy that was archived on 2014-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140131230212id_/http%3A//www.bestcamclips.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestcamclips.com privacy policy that was archived on 2014-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140718135020id_/http%3A//www.bestcamclips.com/privacy.html%3F) for the most accurate reproduction.*
 
 # BestCamClips - Privacy Policy
 
