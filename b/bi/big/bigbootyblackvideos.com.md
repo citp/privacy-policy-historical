@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigbootyblackvideos.com privacy policy that was archived on 2014-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140404122216id_/http%3A//www.bigbootyblackvideos.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigbootyblackvideos.com privacy policy that was archived on 2014-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140718092856id_/http%3A//www.bigbootyblackvideos.com/privacy.html) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
