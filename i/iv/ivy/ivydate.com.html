@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ivydate.com privacy policy that was archived on 2014-03-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140331032140id_/https%3A//www.ivy.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ivydate.com privacy policy that was archived on 2014-07-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140718035137id_/https%3A//www.ivy.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><!--<![endif]--><head>
   <meta charset="utf-8">
@@ -8,15 +8,15 @@
   <!-- <meta http-equiv="X-UA-Compatible" content="IE=7" /> -->
 
   <!-- Set the viewport width to device width for mobile -->
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <meta name="viewport" content="width=device-width, maximum-scale=10.0, user-scalable=1, minimal-ui">
 
   <title>Ivy</title>
 
-  <link href="//cdn-ivyconnect.s3.amazonaws.com/assets/design2/application-5236298960c814d8b9bf70c857c3453a.css" media="screen" rel="stylesheet" type="text/css">
+  <link href="//cdn-ivyconnect.s3.amazonaws.com/assets/design2/application-34638d6d570bdf3528625056983f1715.css" media="screen" rel="stylesheet" type="text/css">
   <script async="" id="cio-tracker" data-site-id="1d4bea2366b5eccf381c" src="https://assets.customer.io/assets/track.js"></script><script type="text/javascript" async="" src="//doug1izaerwt3.cloudfront.net/c5eb57a1f6c572a29bdbf843ad58228fb4e1d5d8.1.js"></script><script type="text/javascript" async="" src="//i.kissmetrics.com/i.js"></script><script id="facebook-jssdk" async="" src="//connect.facebook.net/en_US/all.js"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//cdn-ivyconnect.s3.amazonaws.com/assets/vendor/custom.modernizr-a7d5258f68c42509cd151b5d3ebb9aa9.js" type="text/javascript"></script>
-  <script src="//cdn-ivyconnect.s3.amazonaws.com/assets/design2/application-c50bd9f29cbb156ce9c1d22df3c4da18.js" type="text/javascript"></script>
+  <script src="//cdn-ivyconnect.s3.amazonaws.com/assets/design2/application-f8471b8528e91fa5a51cf51f0d85effb.js" type="text/javascript"></script>
   <meta content="authenticity_token" name="csrf-param">
-<meta content="euAY+UhArEn5Y3FiVDll8R3y0miaT+knBPJ41HSkOGY=" name="csrf-token">
+<meta content="XekZfYg+gw9VMRCNgwHXZ5pE5Ez0Y0DDs57pJ0KSUnQ=" name="csrf-token">
   <script type="text/javascript" src="https://js.stripe.com/v1/"></script>
   <script src="https://api.filepicker.io/v0/filepicker.js"></script>
   <script type="text/javascript" src="https://dme0ih8comzn4.cloudfront.net/js/feather.js"></script>
@@ -54,11 +54,11 @@
 
   <!-- Account Navbar(top-right corner) Dropdown, Inbox, Calendar -->
 
-  
+
     <nav class="member-nav">
       <div class="center-nav row">
         <section>
-          <a href="/"><img alt="App_logo" class="ivyconnect-logo" src="//cdn-ivyconnect.s3.amazonaws.com/assets/v2/app_logo-59d027f92095b15a34c6879da10a80df.png"></a>
+          <a href="/"><img alt="App_logo" class="ivyconnect-logo" src="//cdn-ivyconnect.s3.amazonaws.com/assets/v2/app_logo-666838b0c55a0e463991dacb709459bd.png"></a>
             <ul>
               <a href="/about"><div class="top-button">About Ivy</div></a>
               <a href="#login-register-popup" id="members-login-btn" class="fancybox"><div class="top-button">Request Membership</div></a>
@@ -125,6 +125,10 @@
 
   $(document).ready(function() {
 
+    $(".notifications-link").click(function(e) {
+      getNewNotifications();
+    });
+
     $("#account-dropdown").on("click", function(e) {
       e.preventDefault();
       $(".member-nav").find("#account-dropdown").find("span").toggleClass("active-account-dropdown");
@@ -182,7 +186,72 @@
         }
       });
     });
+
+    $(document).mouseup(function (e) {
+      var container = $("#notifications-dropdown-items");
+      if (!container.is(e.target) && container.has(e.target).length === 0 && !$(e.target).hasClass("member-nav-text")
+        && !$(".fancybox-overlay").is(":visible") && !$(e.target).hasClass("icon-notifications")) {
+        $(container).css("left", "-99999px").removeClass("open");
+        $(".notifications-link").data("get", true);
+      }
+    });
   });
+
+  // new magically responsive dropdown
+  // As width of the window shrinks, more nav items are shifted over
+  // to the magic dropdown
+  var toDropdown = function() {
+    $("#more-link").show();
+    $("ul.left .responsive-link:last").next("li.divider").remove();
+    var appendItem = $("ul.left .responsive-link:last").remove();
+    $("#more-dropdown-items").prepend(appendItem);
+  };
+
+  var toNavbar = function() {
+    if($("#more-dropdown-items li").length < 1) {
+      $("#more-link").hide();
+      return false;
+    }
+    var appendItem = $("#more-dropdown-items li:first").remove();
+    $("ul.left #more-link").before(appendItem);
+    $("ul.left #more-link").before("<li class='divider'></li>")
+  };
+
+  var fixNavbar = function(recurse) {
+    var appendItem = null;
+    var left = $("ul.left").width();
+    var right = $("ul.right").width();
+    var navWidth = left + right + 400;
+    if($(window).width() > 768) {
+      if($(window).width() <= navWidth) {
+        toDropdown();
+        if(recurse) fixNavbar(true);
+      } else if ($(window).width() > navWidth+75) {
+        toNavbar();
+      }
+    }
+  };
+
+  var fixSearchbar= function() {
+    if($(window).width() > 1600) {
+      var windowPadding = parseInt(($(window).width() - 1600) / 2);
+      var rightOrig = 85;
+      $("#searchbar").css("right", rightOrig + windowPadding + "px");
+    }
+  };
+
+    $(window).resize(function() {
+      fixNavbar();
+      fixSearchbar();
+    });
+    $(window).load(function() {
+      fixNavbar(true);
+      fixSearchbar();
+      $("span#moreLinkSpan").click(function() {
+          $("#more-dropdown-x").click();
+        })
+    });
+
 </script>
   <script>
 window.fbAsyncInit = function() {
@@ -283,7 +352,7 @@ window.fbAsyncInit = function() {
 <h2>15. Acceptance of Privacy Policy</h2>
 <p>Your use of our Websites or our Services, including any dispute concerning privacy, is subject to this Privacy Policy and the applicable Terms of Use. BY USING OUR WEBSITE OR SERVICES, YOU ACCEPT THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND THE APPLICABLE TERMS OF USE.</p>
 
-<p>Effective Date: 03/31/2014</p>
+<p>Effective Date: 07/18/2014</p>
 </section>
   </div>
 
@@ -379,7 +448,8 @@ if(NREUMQ.a)NREUMQ.a();
 };
 NREUMQ.a=window.onload;window.onload=NREUMQ.f;
 };
-NREUMQ.push(["nrfj","beacon-2.newrelic.com","f53398c313","2569701","dFpYRRdaXVVTRRdRTk5qVV4LW1RaQmhITVpbXFUeFUdYT1dUQQ==",8,35,new Date().getTime(),"","","","",""]);</script>
+NREUMQ.push(["nrfj","beacon-2.newrelic.com","f53398c313","2569701","dFpYRRdaXVVTRRdRTk5qVV4LW1RaQmhITVpbXFUeFUdYT1dUQQ==",13,27,new Date().getTime(),"","","","",""]);</script>
+  
   <script>
     $(document).foundation();
   </script>
