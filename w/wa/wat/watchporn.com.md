@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watchporn.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214105045id_/http%3A//www.watchporn.com/cimages/legal/privacy.html%3Fsite%3Dwatchporn) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchporn.com privacy policy that was archived on 2014-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140718172620id_/http%3A//www.watchporn.com/cimages/legal/privacy.html%3Fsite%3Dwatchporn) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
