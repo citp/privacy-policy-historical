@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beermenus.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630073249id_/http%3A//www.beermenus.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beermenus.com privacy policy that was archived on 2014-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140718083740id_/http%3A//www.beermenus.com/privacy) for the most accurate reproduction.*
 
 # BeerMenus Privacy Policy
 
