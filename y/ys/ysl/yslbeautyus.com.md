@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yslbeautyus.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331074922id_/http%3A//www.yslbeautyus.com/Privacy-Policy/privacy-policy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yslbeautyus.com privacy policy that was archived on 2014-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140718125253id_/http%3A//www.yslbeautyus.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -80,17 +80,17 @@ If you connect your Facebook account to your YSL Beaute account, we will make av
   * **_Business Transfers_. **We may share your Personal Information with other entities and our affiliates in the family of companies controlled by L’Oreal USA, Inc. for internal reasons, primarily for business and operational purposes. As we continue to develop our business, we may sell or purchase assets. If another entity acquires us or our assets, or assets related to the Sites, Personal Information, Usage Information, and any other information that we have collected about the users of the Sites may be disclosed to such entity as one of the transferred assets. Also, if any bankruptcy or reorganization proceeding is brought by or against us, all such information may be considered an asset of ours and as such may be sold or transferred to third parties. 
   
 
-  * **_Legal Disclosure_. **YSL Beaute may transfer and disclose information, including your Personal Information, Usage Information and Device Identifier, (including IP address), to third parties to comply with a legal obligation; when we believe in good faith that the law requires it; at the request of governmental authorities conducting an investigation; to verify or enforce our [Terms of Use](http://www.yslbeautyus.com/Terms-Conditions-of-Sale/terms,default,pg.html) or other applicable policies; to respond to an emergency; or otherwise to protect the rights, property, safety, or security of third parties, visitors to our Sites or the public. 
+  * **_Legal Disclosure_. **YSL Beaute may transfer and disclose information, including your Personal Information, Usage Information and Device Identifier, (including IP address), to third parties to comply with a legal obligation; when we believe in good faith that the law requires it; at the request of governmental authorities conducting an investigation; to verify or enforce our [Terms of Use](https://www.yslbeautyus.com/terms.html) or other applicable policies; to respond to an emergency; or otherwise to protect the rights, property, safety, or security of third parties, visitors to our Sites or the public. 
 
 
 
 ### YOUR PRIVACY RIGHTS, CHOICE AND ACCESS
 
-You may direct us not to share your Personal Information with third parties, not to use your Personal Information to provide you with information or offers, or not to send you newsletters, e-mails or other communications by: (i) modifying your registered user information on the Sites; (ii) sending us an e-mail by [clicking here](http://www.yslbeautyus.com/on/demandware.store/Sites-ysl_us-Site/default/CustomerService-ContactUsRealDialog); or (iii) following the removal instructions in the communication that you receive.
+You may direct us not to share your Personal Information with third parties, not to use your Personal Information to provide you with information or offers, or not to send you newsletters, e-mails or other communications by: (i) modifying your registered user information on the Sites; (ii) sending us an e-mail by [clicking here](https://www.yslbeautyus.com/contact-us-details.html); or (iii) following the removal instructions in the communication that you receive.
 
 If you wish to modify, verify, correct, delete, or update any of your Personal Information collected through the Sites, you may edit your profile preferences or contact us at the above address or e-mail. In accordance with our routine record keeping, we may delete certain records that contain Personal Information you have submitted through the Sites. We are under no obligation to store such Personal Information indefinitely and disclaim any liability arising out of, or related to, the destruction of such Personal Information. In addition, you should be aware that it is not always possible to completely remove or delete all of your information from our databases without some residual data because of backups and other reasons.
 
-We will retain your information (including geo-location data) for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us [here](http://www.yslbeautyus.com/on/demandware.store/Sites-ysl_us-Site/default/CustomerService-ContactUsRealDialog). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. We do not control certain privacy settings and preferences maintained by our social media partners like Facebook and Twitter. If you wish to make changes to those settings and preferences, you may do so by visiting the settings page of the appropriate social media site.
+We will retain your information (including geo-location data) for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us [here](https://www.yslbeautyus.com/contact-us-details.html). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. We do not control certain privacy settings and preferences maintained by our social media partners like Facebook and Twitter. If you wish to make changes to those settings and preferences, you may do so by visiting the settings page of the appropriate social media site.
 
 ### ADVERTISING/TARGETED ADVERTISING; HOW TO OPT-OUT
 
@@ -130,6 +130,6 @@ Re: Yslbeautyus.com Privacy Policy and Cookie Notice
 
 Telephone:866-975-8181, 7 days a week, 8:00am to 12:00 midnight EST.
 
-Or send us an e-mail with your request[ here.](http://www.yslbeautyus.com/on/demandware.store/Sites-ysl_us-Site/default/%27CustomerService-ContactUsRealDialog)
+Or send us an e-mail with your request[ here.](https://www.yslbeautyus.com/on/demandware.store/Sites-ysl-us-Site/en_US/Page-Show?cid=contact-us)
 
 UPDATED AS OF: October 16, 2013
