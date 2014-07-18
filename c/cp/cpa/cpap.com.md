@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cpap.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626002959id_/http%3A//www.cpap.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpap.com privacy policy that was archived on 2014-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140718163135id_/http%3A//www.cpap.com/privacy.php) for the most accurate reproduction.*
 
 # CPAP.com - Privacy Policy
 
