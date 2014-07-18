@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ohsohandy.com privacy policy that was archived on 2013-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131031232252id_/http%3A//www.ohsohandy.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ohsohandy.com privacy policy that was archived on 2014-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140718072804id_/http%3A//www.ohsohandy.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
