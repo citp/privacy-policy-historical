@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pbskidsplay.org privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326031621id_/https%3A//www.pbskidsplay.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pbskidsplay.org privacy policy that was archived on 2014-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140719005351id_/https%3A//www.pbskidsplay.org/privacy) for the most accurate reproduction.*
 
 # PBS KIDS PLAY! School readiness program - Educational games - Preschool games - Adaptive learning games
 
