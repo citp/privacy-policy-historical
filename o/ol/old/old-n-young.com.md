@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the old-n-young.com privacy policy that was archived on 2014-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140517155642id_/http%3A//old-n-young.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the old-n-young.com privacy policy that was archived on 2014-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140718070138id_/http%3A//old-n-young.com/privacy.html) for the most accurate reproduction.*
 
 # PRIVACY
 
