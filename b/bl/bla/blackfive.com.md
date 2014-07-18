@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blackfive.com privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630045938id_/http%3A//www.blackfive.com/help/privacy-policy-f23) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackfive.com privacy policy that was archived on 2014-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140718133452id_/http%3A//www.blackfive.com/help/privacy-policy-f23) for the most accurate reproduction.*
 
 # Privacy Policy | BlackFive
 
