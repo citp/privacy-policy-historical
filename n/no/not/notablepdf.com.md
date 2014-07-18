@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the notablepdf.com privacy policy that was archived on 2014-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140423111149id_/http%3A//www.notablepdf.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the notablepdf.com privacy policy that was archived on 2014-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140719011552id_/http%3A//www.notablepdf.com/privacypolicy.html) for the most accurate reproduction.*
 
-# None
+# Notable PDF - FAQ
 
 This Privacy Policy was last modified on April 17, 2014.
 
