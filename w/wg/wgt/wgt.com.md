@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wgt.com privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624223112id_/https%3A//www.wgt.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wgt.com privacy policy that was archived on 2014-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140718084714id_/https%3A//www.wgt.com/privacy.aspx) for the most accurate reproduction.*
 
 # World Golf Tour - Free Online Golf Game - Privacy Policy
 
