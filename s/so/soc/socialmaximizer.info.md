@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialmaximizer.info privacy policy that was archived on 2014-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140509214401id_/http%3A//socialmaximizer.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialmaximizer.info privacy policy that was archived on 2014-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140718093119id_/http%3A//socialmaximizer.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SocialMaximizer
 
