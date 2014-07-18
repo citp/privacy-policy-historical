@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bettys.co.uk privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330181246id_/http%3A//www.bettys.co.uk/Ordering_Online/Privacy_Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bettys.co.uk privacy policy that was archived on 2014-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140718220412id_/http%3A//www.bettys.co.uk/Ordering_Online/Privacy_Policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Bettys Online
 
