@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ivy.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331032140id_/https%3A//www.ivy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ivy.com privacy policy that was archived on 2014-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140718035137id_/https%3A//www.ivy.com/privacy) for the most accurate reproduction.*
 
 # Ivy
 
@@ -152,4 +152,4 @@ Your continued use of any portion of our Websites following posting of the updat
 
 Your use of our Websites or our Services, including any dispute concerning privacy, is subject to this Privacy Policy and the applicable Terms of Use. BY USING OUR WEBSITE OR SERVICES, YOU ACCEPT THE TERMS AND CONDITIONS OF THIS PRIVACY POLICY AND THE APPLICABLE TERMS OF USE.
 
-Effective Date: 03/31/2014
+Effective Date: 07/18/2014
