@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2mhost.com privacy policy that was archived on 2013-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130925115306id_/http%3A//2mhost.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2mhost.com privacy policy that was archived on 2014-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140718182520id_/http%3A//www.2mhost.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
