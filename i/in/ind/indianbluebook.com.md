@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indianbluebook.com privacy policy that was archived on 2013-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130503014512id_/http%3A//www.indianbluebook.com/IBB_Privacy_Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indianbluebook.com privacy policy that was archived on 2014-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140718181902id_/http%3A//indianbluebook.com/IBB_Privacy_Policy.pdf) for the most accurate reproduction.*
 
 # Privacy Policy
 
