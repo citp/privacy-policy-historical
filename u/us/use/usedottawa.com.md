@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usedottawa.com privacy policy that was archived on 2014-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140221021022id_/http%3A//www.usedottawa.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usedottawa.com privacy policy that was archived on 2014-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140718063523id_/http%3A//www.usedottawa.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Used stuff in Ottawa for sale - UsedOttawa.com - buy and sell free classified ads
 
