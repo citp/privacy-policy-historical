@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the multcloud.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330182029id_/https%3A//www.multcloud.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the multcloud.com privacy policy that was archived on 2014-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140718220151id_/https%3A//www.multcloud.com/policy) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy Policy
 
 We at MultCloud understand your concern about how we share, secure and use the information you have shared with us when you visit the website [multcloud.com](http://www.multcloud.com/) (our “Website”) and use our services. Our Privacy Policy makes it clear how that information is handled at our end, and our practices for collecting, using, maintaining, protecting and disclosing that information. We adhere to what we say in this Privacy Policy. 
 
