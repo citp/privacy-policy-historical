@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mambo.co.ke privacy policy that was archived on 2014-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140515190415id_/http%3A//www.mambo.co.ke/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mambo.co.ke privacy policy that was archived on 2014-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140718020904id_/https%3A//www.mambo.co.ke/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Our policy regarding your privacy
 
