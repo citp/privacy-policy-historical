@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalworldz.co.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625050531id_/http%3A//www.digitalworldz.co.uk/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalworldz.co.uk privacy policy that was archived on 2014-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140718094554id_/https%3A//www.digitalworldz.co.uk/privacy-policy.php) for the most accurate reproduction.*
 
 # DigitalWorldz Technology Forum - Satellite, Cable TV, IPTV, Console Experts -
 
