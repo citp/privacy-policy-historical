@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kuoni.co.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625070402id_/http%3A//www.kuoni.co.uk/kuoni-for-you/privacy-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kuoni.co.uk privacy policy that was archived on 2014-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140720004641id_/http%3A//www.kuoni.co.uk/kuoni-for-you/privacy-cookie-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Kuoni Travel
 
@@ -47,7 +47,7 @@ Read More
 ### Will Kuoni Travel disclose any of this personal information to third parties?
 
   
-Kuoni Travel will only disclose your name and booking details to our suppliers for operational purposes. We will not pass on your details to other companies for marketing purposes.
+Kuoni Travel will only disclose your name and booking details/holiday proposal to our suppliers for operational purposes. We will not pass on your details to other companies for marketing purposes.
 
 We won't disclose credit/debit card numbers unless we believe in good faith that the law requires it.
 
