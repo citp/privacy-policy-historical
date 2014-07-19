@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the westlaw.co.uk privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622161727id_/http%3A//www.sweetandmaxwell.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westlaw.co.uk privacy policy that was archived on 2014-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140719050529id_/http%3A//www.sweetandmaxwell.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Sweet & Maxwell Privacy Polices
 
@@ -10,6 +10,7 @@
 
   * [OSBORN'S CONCISE LAW DICTIONARY MOBILE APPLICATION ](https://web.archive.org/privacy-policies/osborns.aspx)
   * [THOMSON REUTERS LAWTEL MOBILE APPLICATION PRIVACY STATEMENT ](https://web.archive.org/privacy-policies/lawtel.aspx)
+  * [THOMSON REUTERS WESTLAW UK MOBILE APPLICATION PRIVACY STATEMENT ](https://web.archive.org/privacy-policies/westlaw.aspx)
 
 
 
