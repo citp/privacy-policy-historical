@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firecracker.me privacy policy that was archived on 2014-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140410162647id_/http%3A//med.firecracker.me/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firecracker.me privacy policy that was archived on 2014-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140720012402id_/http%3A//med.firecracker.me/privacy) for the most accurate reproduction.*
 
 # Firecracker | Learn Faster, Remember Everything
 
