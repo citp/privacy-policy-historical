@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bonzuna.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208060312id_/http%3A//bonzuna.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bonzuna.com privacy policy that was archived on 2014-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140719185841id_/http%3A//bonzuna.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Website
 
