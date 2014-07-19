@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forex-fxtrader.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330223056id_/http%3A//www.forex-fxtrader.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forex-fxtrader.com privacy policy that was archived on 2014-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140720011209id_/http%3A//www.forex-fxtrader.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Marc Walton's Forex Site
 
