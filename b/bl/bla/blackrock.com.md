@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blackrock.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625122436id_/http%3A//www.blackrock.com/corporate/en-us/compliance/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackrock.com privacy policy that was archived on 2014-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140719110919id_/http%3A//www.blackrock.com/corporate/en-us/compliance/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
