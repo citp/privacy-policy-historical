@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clearcheckbook.com privacy policy that was archived on 2012-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120605063630id_/https%3A//www.clearcheckbook.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clearcheckbook.com privacy policy that was archived on 2014-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140719061316id_/https%3A//www.clearcheckbook.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy :: ClearCheckbook.com
 
@@ -19,27 +19,29 @@ Finally, we never use or share any information provided to us online in ways unr
 **Our Commitment To Data Security:**  
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
 
+Our site is encrypted with 256-bit encryption. This means that all data sent between your computer/mobile device and our server is encrypted. We also use the latest practices in hashing and securing sensitive information such as passwords in our database.
+
 **How To Contact Us:**  
 Should you have other questions or concerns about these privacy policies, please use the Contact Us link located at the bottom of every page. 
 
-#### ¿Ya tienes una cuenta?
+#### Already have an account?
 
-Ingresa en la página de [Log in](https://web.archive.org/user/login "Log in"). 
+Sign in at the [Log in](https://web.archive.org/user/login "Log in") page. 
 
-#### ¿Aún no eres Miembro? ¡No hay Problema!
+#### Not a Member? Not a Problem!
 
-Si aún no eres un miembro de ClearCheckbook, te motivamos a ver alguno de los videos que muestran las principales características del sitio en nuestra página de [tour](https://web.archive.org/tour "Tour").
+If you're not a member of ClearCheckbook yet, we encourage you to watch some videos that showcase the main features of the site on our [tour](https://web.archive.org/tour "Tour") page.
 
-Después de tomar el tour, puedes ir a nuestra página de [registro](https://web.archive.org/user/register "Registro") y crear una cuenta completamente gratis! 
+After taking the tour, you can go to our [register](https://web.archive.org/user/register "Register") page and create a completely FREE account! 
 
-#### Últimas Noticias ClearCheckbook
+#### Latest ClearCheckbook News
 
-5/11/2012 in ClearCheckbook Updates
+5/5/2014 in ClearCheckbook News
 
-3/28/2012 in ClearCheckbook Updates
+4/9/2014 in ClearCheckbook News
 
-3/15/2012 in ClearCheckbook News
+1/22/2014 in ClearCheckbook Updates
 
-1/6/2012 in ClearCheckbook Updates
+1/3/2014 in ClearCheckbook Updates
 
-1/6/2012 in ClearCheckbook News
+11/27/2013 in ClearCheckbook Updates
