@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mate4all.com privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215135902id_/http%3A//www.mate4all.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mate4all.com privacy policy that was archived on 2014-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140719030300id_/http%3A//www.mate4all.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Mate4all.com
 
