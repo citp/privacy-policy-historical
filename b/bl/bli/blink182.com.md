@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blink182.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208044132id_/http%3A//www.blink-182.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blink182.com privacy policy that was archived on 2014-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140719040551id_/http%3A//blink-182.com/privacy) for the most accurate reproduction.*
 
 # Blink-182 "Untitled", 10th Anniversary Shows
 
