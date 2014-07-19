@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2games.com privacy policy that was archived on 2014-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140519004732id_/http%3A//www.2games.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2games.com privacy policy that was archived on 2014-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140720000901id_/http%3A//www.2games.com/pages/privacy) for the most accurate reproduction.*
 
 # 2Games.com - free online games
 
