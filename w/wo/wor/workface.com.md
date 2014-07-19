@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the workface.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626123457id_/http%3A//workface.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workface.com privacy policy that was archived on 2014-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140719054549id_/http%3A//workface.com/privacy-policy) for the most accurate reproduction.*
 
 # Web Live Chat Software for Social Business | Workface® | Beyond Web Chat
 
