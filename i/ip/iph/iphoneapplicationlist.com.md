@@ -1,40 +1,73 @@
-> *The following text is extracted and transformed from the iphoneapplicationlist.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620200354id_/http%3A//iphoneapplicationlist.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iphoneapplicationlist.com privacy policy that was archived on 2014-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140720004515id_/http%3A//iphoneapplicationlist.com/privacy) for the most accurate reproduction.*
 
-# iPhone, iPod Touch, iPad Application List » Best sites about iPhone, iPad and iPod touch
+# Privacy | Mobiscope
 
-## Privacy Policy
+### SECTION 1 - WHAT DO WE DO WITH YOUR INFORMATION?
 
-##### Last Updated: 11.05.2012
+When you purchase something from our store, as part of the buying and selling process, we collect the personal information you give us such as your name, address and email address. 
 
-**Introduction.**  
-This policy covers iPhone Application List use of personal information that collects when you use www.iphoneapplicationlist.com and related pages.
+When you browse our store, we also automatically receive your computer’s internet protocol (IP) address in order to provide us with information that helps us learn about your browser and operating system. 
 
-From time to time, you will be asked to submit personal information about yourself in order to receive or use services on www.iphoneapplicationlist.com. Such services include receiving newsletters, competitions, registering for events, completing questionnaires, downloading software and submitting questions. By entering your details in the fields requested, you enable iPhone Application List to provide you with the services you select. Whenever you provide such personal information, we will treat that information in accordance with this policy.
+Email marketing (if applicable): With your permission, we may send you emails about our store, new products and other updates. 
 
-**Updates to this Privacy Policy and Notification of Changes**  
-This policy may change without notice from time to time and we will post these chances to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect and how we use it.
+### SECTION 2 - CONSENT
 
-**The information collected**  
-Our primary goal in collecting personal information is to provide you with a friendly, customized, and efficient experience of using our services. We only collect personal information that is relevant to the purpose of our website. We ask for personal information when you subscribe to our updates/news newsletters and when you want to submit a question about our products/services to our customer support staff. The types of personal information that we may collect on these pages are: name, company name, title, e-mail address and model of your mobile device.
+How do you get my consent?
 
-Registering on iPhone Application List sites is optional. If you choose not to register or provide personal information, you can still use the iPhone Application List website. However, you will not be to receive email alerts. Separately, you may choose to sign-up to receive updates/news information from iPhone Application List by selecting the appropriate option.
+When you provide us with personal information to complete a transaction, verify your credit card, place an order, arrange for a delivery or return a purchase, we imply that you consent to our collecting it and using it for that specific reason only.
 
-**How can I delete my information?**  
-iPhone Application List currently does not have a method for completely deleting user information from our database. However, deleting the cookie stored on your computer will cause you to be perceived as a new user with no known user data. You may also change a setting in your browser, instructing it not to accept cookies, but this could prevent you from receiving some iPhone Application List services.
+If we ask for your personal information for a secondary reason, like marketing, we will either ask you directly for your expressed consent, or provide you with an opportunity to say no.
 
-**What we do with the information collected**  
-When you visit this site your IP address is recorded. We use your IP address to help diagnose problems with our server and to create statistical reports about usage. Your IP address is used to help identify you to gather broad demographic identification that will not be tied to your identity.
+How do I withdraw my consent?
 
-This site also uses "cookies", which are certain bits of information that are deposited on the hard drive of your computer when you visit this site and sent back to this site when you visit again. We use cookies to maintain session information (for example to help us remember your device model so you can go back and continue surfing software for your device) and to keep track of the number of users accessing our site and the information they access.
+If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at contact@iphoneapplicationlist.com
 
-iPhone Application List maintains a strict "no-spam" policy. We will not sell, trade, rent or lease your personal information to others without your consent. We use your personal information to provide requested information and to keep you informed of iPhone Application List commercial products and services to help ensure that the information we provide to you is relevant to your specific needs. If you do not wish to continue receiving marketing information, you can always unsubscribe fro our newsletter by clicking on the appropriate link at the bottom of newsletter. If permission is granted, user information may be used to send occasional emails containing offers from our partners. This will only ever be provided to users who have specifically given us permission to use their information in this way. iPhone Application List will never use your data for anything beyond the reason stated and the permissions you grant us.
+### SECTION 3 - DISCLOSURE
 
-We also record information about your questions to us and your purchases so that we and you can keep track of what you've asked about or ordered directly on our site. Additionally, we may need to contact you about your questions.
+We may disclose your personal information if we are required by law to do so or if you violate our Terms of Service.
 
-We use e-mail addresses to send you the alerts, newsletters and software updates/news information you've requested, to answer the e-mail we receive and to communicate with you about our software.
+Payment:
 
-**Feedback**  
-Information collected from feedback is used either internally (if the user is submitting feedback about the site or software). We do not share any personal information with any third parties nor is it used for any other purpose.
+All direct payment gateways adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, MasterCard, American Express and Discover.
 
-**External Links**  
-This site contains links to other sites in news stories and throughout the site. iPhone Application List is not responsible for the privacy practices or the content of external Web sites, even those with whom iPhone Application List has established special relationships.
+PCI-DSS requirements help ensure the secure handling of credit card information by our store and its service providers.
+
+For more insight, you may also want to read iPAL’s Terms of Service here or Privacy Statement here.
+
+### SECTION 4 - THIRD-PARTY SERVICES
+
+In general, the third-party providers used by us will only collect, use and disclose your information to the extent necessary to allow them to perform the services they provide to us.
+
+However, certain third-party service providers, such as payment gateways and other payment transaction processors, have their own privacy policies in respect to the information we are required to provide to them for your purchase-related transactions.
+
+For these providers, we recommend that you read their privacy policies so you can understand the manner in which your personal information will be handled by these providers.
+
+In particular, remember that certain providers may be located in or have facilities that are located a different jurisdiction than either you or us. So if you elect to proceed with a transaction that involves the services of a third-party service provider, then your information may become subject to the laws of the jurisdiction(s) in which that service provider or its facilities are located.
+
+As an example, if you are located in Canada and your transaction is processed by a payment gateway located in the United States, then your personal information used in completing that transaction may be subject to disclosure under United States legislation, including the Patriot Act.
+
+Once you leave our store’s website or are redirected to a third-party website or application, you are no longer governed by this Privacy Policy or our website’s Terms of Service. 
+
+Links
+
+When you click on links on our store, they may direct you away from our site. We are not responsible for the privacy practices of other sites and encourage you to read their privacy statements.
+
+### SECTION 5 - SECURITY
+
+To protect your personal information, we take reasonable precautions and follow industry best practices to make sure it is not inappropriately lost, misused, accessed, disclosed, altered or destroyed.
+
+If you provide us with your credit card information, the information is encrypted using secure socket layer technology (SSL) and stored with a AES-256 encryption. Although no method of transmission over the Internet or electronic storage is 100% secure, we follow all PCI-DSS requirements and implement additional generally accepted industry standards.
+
+### SECTION 6 - AGE OF CONSENT
+
+By using this site, you represent that you are at least the age of majority in your state or province of residence, or that you are the age of majority in your state or province of residence and you have given us your consent to allow any of your minor dependents to use this site.
+
+### SECTION 7 - CHANGES TO THIS PRIVACY POLICY
+
+We reserve the right to modify this privacy policy at any time, so please review it frequently. Changes and clarifications will take effect immediately upon their posting on the website. If we make material changes to this policy, we will notify you here that it has been updated, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we use and/or disclose it.
+
+If our store is acquired or merged with another company, your information may be transferred to the new owners so that we may continue to sell products to you.
+
+### QUESTIONS AND CONTACT INFORMATION
+
+If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at contact@iphoneapplicationlist.com
