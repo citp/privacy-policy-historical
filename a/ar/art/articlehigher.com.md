@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the articlehigher.com privacy policy that was archived on 2012-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120518134637id_/http%3A//articlehigher.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlehigher.com privacy policy that was archived on 2014-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140719022158id_/http%3A//articlehigher.com/privacy) for the most accurate reproduction.*
 
-# Privacy
+# PrivacyArticle Higher
 
-PRIVACY POLICY FOR [Article Directory](http://articlehigher.com/ "Article Directory")
+This privacy policy sets out how “ **Article Higher** ” uses and protects any information that you give “ **Article Higher** ” when you use this website.
 
-This privacy policy sets out how “[Article Directory](http://articlehigher.com/ "Article Directory")” uses and protects any information that you give “[Article Directory](http://articlehigher.com/ "Article Directory")” when you use this website.
+“ **Article Higher** ” is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-“[Article Directory](http://articlehigher.com/ "Article Directory")” is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
-
-“[Article Directory](http://articlehigher.com/ "Article Directory")” may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from NOVEMBER 2010.
+“ **Article Higher** ” may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from NOVEMBER 2013.
 
 WHAT WE COLLECT
 
@@ -59,7 +57,7 @@ YOUR PERSONAL INFORMATION
 
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please send an email to [Contact](http://articlehigher.com/contact/ "contact").
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please send an email to Contact.
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
 
@@ -67,15 +65,15 @@ GOOGLE ADSENSE AND THE DOUBLECLICK DART COOKIE
 
 Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet.
 
-To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url http://www.google.com/privacy_ads.html Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.
+To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url [http://www.google.com/privacy_ads.html ](http://www.google.com/policies/technologies/ads/)Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.
 
-Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, [Article Directory](http://articlehigher.com/ "Article Directory") has no access or control over these cookies that may be used by third party advertisers.
+Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, **Article Higher** has no access or control over these cookies that may be used by third party advertisers.
 
 QUESTIONS, COMMENTS, OR REPORT OF INCIDENTS
 
-You may direct questions, comments or reports to: 
+You may direct questions, comments or reports to:
 
-[Contact](http://articlehigher.com/contact/ "contact")
+Contact
 
 REVISIONS TO THIS PRIVACY POLICY WITHOUT NOTICE
 
@@ -83,4 +81,4 @@ This Privacy Policy is dynamic. It will continually change. You may not assume t
 
 LATEST UPDATE
 
-This Privacy Policy was last updated on: NOVEMBER 2010
+This Privacy Policy was last updated on: NOVEMBER 2013
