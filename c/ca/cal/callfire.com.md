@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the callfire.com privacy policy that was archived on 2014-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140211023430id_/https%3A//www.callfire.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the callfire.com privacy policy that was archived on 2014-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140719174009id_/https%3A//www.callfire.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | CallFire
 
@@ -32,17 +32,22 @@ CallFire uses Web Site Navigational Information to operate and improve the Compa
 
 CallFire uses commonly-used information-gathering tools, such as cookies and Web beacons, to collect information as you navigate the Company's Web sites ("Web Site Navigational Information") . This section describes the types of Web Site Navigational Information the Company may collect and how the Company may use this information.
 
-Cookies
+**Cookies**
 
 CallFire uses cookies to make interactions with the Company's Web sites easy and meaningful. When you visit one of the Company's Web sites, CallFire's servers send a cookie to your computer. Standing alone, cookies do not personally identify you. They merely recognize your Web browser. Unless you choose to identify yourself to CallFire, either by responding to a promotional offer, opening an account, or filling out a Web form (such as a "Contact Me" or a "30 Day Free Trial" Web form), you remain anonymous to the Company.
 
 There are two types of cookies: session-based and persistent-based. Session cookies exist only during one session. They disappear from your computer when you close your browser software or turn off your computer. Persistent cookies remain on your computer after you close your browser or turn off your computer.
 
-If you have chosen to identify yourself to CallFire, the Company uses session cookies containing encrypted information to allow the Company to uniquely identify you. Each time you log into the Service, a session cookie containing an encrypted, unique identifier that is tied to your account is placed your browser. These session cookies allow the Company to uniquely identify you when you are logged into the Service and to process your online transactions and requests. Session cookies are required to use the Service.
+If you have chosen to identify yourself to CallFire, the Company uses session cookies containing encrypted information to allow the Company to uniquely identify you. Each time you log into the Service, a session cookie containing an encrypted, unique identifier that is tied to your account is placed on your browser. These session cookies allow the Company to uniquely identify you when you are logged into the Service and to process your online transactions and requests. Session cookies are required to use the Service  **and the Company does not recognize do-not-track requests with respect to Session cookies**.
 
-CallFire uses persistent cookies that only the Company can read and use to identify browsers that have previously visited the Company's Web sites. When you purchase the Service or provide the Company with personal information, a unique identifier is assigned you. This unique identifier is associated with a persistent cookie that the Company places on your Web browser. The Company is especially careful about the security and confidentiality of the information stored in persistent cookies. For example, the Company does not store account numbers or passwords in persistent cookies. If you disable your Web browser's ability to accept cookies, you will be able to navigate the Company's Web sites, but you will not be able to successfully use the Service.
+CallFire uses persistent cookies that only the Company can read and use to identify browsers that have previously visited the Company's Web sites. ** **  When you purchase the Service or provide the Company with personal information, however, a unique identifier is assigned you. This unique identifier is associated with a persistent cookie that the Company places on your Web browser  **and this cookie does not respond to do-not-track requests**. The Company is especially careful about the security and confidentiality of the information stored in persistent cookies. For example, the Company does not store account numbers or passwords in persistent cookies. 
 
-CallFire may use information from session and persistent cookies in combination with Data About CallFire Customers to provide you with information about the Company and the Service.
+CallFire may use information from session and persistent cookies in combination with data about CallFire Customers to provide you with information about the Company and the Service.  
+ 
+
+**_Third Party Cookies_**
+
+From time-to-time, CallFire engages third parties to track and analyze non-personally identifiable usage and volume statistical information from individuals who visit the Company's Web sites. CallFire may also use other third-party cookies to track the performance of Company advertisements. The information provided to third parties does not include personal information, but this information may be re-associated with personal information after the Company receives it. This Privacy Statement does not cover the use of third party cookies,  **as CallFire does not control the cookies potentially used by third parties.**
 
 Web Beacons
 
@@ -53,10 +58,6 @@ IP Addresses
 When you visit CallFire's Web sites, the Company collects your Internet Protocol ("IP") addresses to track and aggregate non-personally identifiable information. For example, CallFire uses IP addresses to monitor the regions from which Customers and Visitors navigate the Company's Web sites.
 
 CallFire also collects IP addresses from Customers whey they log into the Service as part of the Company's "Identity Confirmation" and "IP Range Restrictions" security features.
-
-Third Party Cookies
-
-From time-to-time, CallFire engages third parties to track and analyze non-personally identifiable usage and volume statistical information from individuals who visit the Company's Web sites. CallFire may also use other third-party cookies to track the performance of Company advertisements. The information provided to third parties does not include personal information, but this information may be re-associated with personal information after the Company receives it. This Privacy Statement does not cover the use of third party cookies.
 
 5\. Public Forums, Refer a Friend, and Customer Testimonials
 
