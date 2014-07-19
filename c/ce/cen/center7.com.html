@@ -1,423 +1,604 @@
-<!--The following is the downloaded HTML source of the center7.com privacy policy that was archived on 2014-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140606085753id_/http%3A//www.c7dc.com/legal/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the center7.com privacy policy that was archived on 2014-07-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140719110104id_/https%3A//www.c7.com/company/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en-US" class="no-js"><!--<![endif]--><head>
-		<meta charset="utf-8">
-		
-		<title>Privacy Policy | C7 Data Centers</title>
-		
-		<!-- Google Chrome Frame for IE -->
-		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-		
-		<!-- mobile meta (hooray!) -->
-		<meta name="HandheldFriendly" content="True">
-		<meta name="MobileOptimized" content="320">
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		
-		<!-- icons & favicons -->
-		<link rel="shortcut icon" href="http://www.c7dc.com/wp-content/themes/C7DC-Beccy/favicon.ico">
+<!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#"><!--<![endif]--><head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1; maximum-scale=1.0; user-scalable=no">
+	<meta name="google-site-verification" content="o-AY85zlvbew_O8j0VezkV-FrchGU1DAczPHBI6B8z4">
+	<!--  <link href='https://fonts.googleapis.com/css?family=Ubuntu:400,300italic,300,400italic,500,500italic,700,700italic' rel='stylesheet' type='text/css'> //-->
+	<link rel="icon" type="image/png" href="https://www.c7.com/wp-content/themes/c7/favicon.png">
+	
+	<title>Privacy Policy</title>
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="https://www.c7.com/xmlrpc.php">
+	<!--[if lt IE 9]>
+	<script src="https://www.c7.com/wp-content/themes/c7/js/html5.js"></script>
+	<![endif]-->
+	
+	<link href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css" rel="stylesheet">
+	<link rel="stylesheet" href="https://www.c7.com/wp-content/themes/c7/style.css" type="text/css">
+	<!-- <link rel="stylesheet" href="https://www.c7.com/wp-content/themes/c7/css/wufoocustoms.css" type="text/css" /> //-->
+	
+	<script async="" src="//www.google-analytics.com/analytics.js"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+	<script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+	<script type="text/javascript" src="https://www.c7.com/wp-content/themes/c7/js/jquery.sticky.js"></script>
+	<script type="text/javascript" src="https://www.c7.com/wp-content/themes/c7/js/parallax.js"></script>
+        <script type="text/javascript" src="https://www.c7.com/wp-content/themes/c7/js/forms.js"></script>
+	<script>
+	    $(window).load(function(){
+	      	$(function() {
+			    $('.navbar').affix({
+			        offset: { top: $('.navbar').offset().top }
+			    });
+			});
+	    });
+	</script>
+    <script type="text/javascript">
+        $(document).ready(function(){
+					//$('div.support-tab ul.support_nav li:first-child  a').attr("onclick", "window.open(this.href, null, 'height=440, width=480, toolbar=0, location=0, status=1, scrollbars=0, resizable=0'); return false");
+					//$('.page-template-page-support-php div.main-content div.container div.contact_details a').attr("onclick", "window.open(this.href, null, 'height=440, width=480, toolbar=0, location=0, status=1, scrollbars=0, resizable=0'); return false");
+					//$('div.request-a-quote a').attr("onclick", "window.open(this.href, null, 'height=440, width=480, toolbar=0, location=0, status=1, scrollbars=0, resizable=0'); return false");
+            $('#help_needed').attr("onchange","this.form.submit()");
+        });
+    </script>
+	
+	<script>
+		addEvent(window, 'load', initForm);
+
+var highlight_array = new Array();
+
+function initForm(){
+	initializeFocus();
+	var activeForm = document.getElementsByTagName('form')[0];
+	addEvent(activeForm, 'submit', disableSubmitButton);
+	ifInstructs();
+	showRangeCounters();
+}
+
+function disableSubmitButton() {
+	document.getElementById('saveForm').disabled = true;
+}
+
+// for radio and checkboxes, they have to be cleared manually, so they are added to the
+// global array highlight_array so we dont have to loop through the dom every time.
+function initializeFocus(){
+	var fields = getElementsByClassName(document, "*", "field");
+	
+	for(i = 0; i < fields.length; i++) {
+		if(fields[i].type == 'radio' || fields[i].type == 'checkbox') {
+			fields[i].onclick = function() {highlight(this, 4);};
+			fields[i].onfocus = function() {highlight(this, 4);};
+		}
+		else if(fields[i].className.match('addr') || fields[i].className.match('other')) {
+			fields[i].onfocus = function(){highlight(this, 3);};
+		}
+		else {
+			fields[i].onfocus = function(){highlight(this, 2); };
+		}
+	}
+}
+
+function highlight(el, depth){
+	if(depth == 2){var fieldContainer = el.parentNode.parentNode;}
+	if(depth == 3){var fieldContainer = el.parentNode.parentNode.parentNode;}
+	if(depth == 4){var fieldContainer = el.parentNode.parentNode.parentNode.parentNode;}
+	
+	addClassName(fieldContainer, 'focused', true);
+	var focusedFields = getElementsByClassName(document, "*", "focused");
+	
+	for(i = 0; i < focusedFields.length; i++) {
+		if(focusedFields[i] != fieldContainer){
+			removeClassName(focusedFields[i], 'focused');
+		}
+	}
+}
+
+function ifInstructs(){
+	var container = document.getElementById('public');
+	if(container){
+		removeClassName(container,'noI');
+		var instructs = getElementsByClassName(document,"*","instruct");
+		if(instructs == ''){
+			addClassName(container,'noI',true);
+		}
+		if(container.offsetWidth <= 450){
+			addClassName(container,'altInstruct',true);
+		}
+	}
+}
+
+function showRangeCounters(){
+	counters = getElementsByClassName(document, "em", "currently");
+	for(i = 0; i < counters.length; i++) {
+		counters[i].style.display = 'inline';
+	}
+}
+
+function validateRange(ColumnId, RangeType) {
+	if(document.getElementById('rangeUsedMsg'+ColumnId)) {
+		var field = document.getElementById('Field'+ColumnId);
+		var msg = document.getElementById('rangeUsedMsg'+ColumnId);
+
+		switch(RangeType) {
+			case 'character':
+				msg.innerHTML = field.value.length;
+				break;
 				
-  		<link rel="pingback" href="http://www.c7dc.com/xmlrpc.php">
-		
-		<!-- wordpress head functions -->
-		<link rel="alternate" type="application/rss+xml" title="C7 Data Centers » Feed" href="http://www.c7dc.com/feed/">
-<link rel="alternate" type="application/rss+xml" title="C7 Data Centers » Comments Feed" href="http://www.c7dc.com/comments/feed/">
-<link rel="stylesheet" id="jquery.prettyphoto-css" href="http://www.c7dc.com/wp-content/plugins/wp-video-lightbox/css/prettyPhoto.css" type="text/css" media="all">
-<link rel="stylesheet" id="video-lightbox-css" href="http://www.c7dc.com/wp-content/plugins/wp-video-lightbox/wp-video-lightbox.css" type="text/css" media="all">
-<link rel="stylesheet" id="contact-form-7-css" href="http://www.c7dc.com/wp-content/plugins/contact-form-7/includes/css/styles.css" type="text/css" media="all">
-<link rel="stylesheet" id="jquery-colorbox.css-css" href="http://www.c7dc.com/wp-content/plugins/m-wp-popup/css/colorbox/colorbox.css" type="text/css" media="all">
-<link rel="stylesheet" id="bones-stylesheet-css" href="http://www.c7dc.com/wp-content/themes/C7DC-Beccy/library/css/style.css" type="text/css" media="all">
-<!--[if lt IE 9]>
-<link rel='stylesheet' id='bones-ie-only-css'  href='http://www.c7dc.com/wp-content/themes/C7DC-Beccy/library/css/ie.css' type='text/css' media='all' />
-<![endif]-->
-        <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
-            var eppathtoscripts = "http://www.c7dc.com/wp-content/plugins/youtube-embed-plus/scripts/";
-            var epresponsiveselector = ["iframe.__youtube_prefs_widget__"];
-        </script>
-        <script type="text/javascript" src="http://www.c7dc.com/wp-includes/js/jquery/jquery.js"></script>
-<script type="text/javascript" src="http://www.c7dc.com/wp-includes/js/jquery/jquery-migrate.min.js"></script>
-<script type="text/javascript" src="http://www.c7dc.com/wp-content/plugins/dropdown-menu-widget/scripts/include.js"></script>
-<script type="text/javascript" src="http://www.c7dc.com/wp-content/plugins/jquery-vertical-accordion-menu/js/jquery.hoverIntent.minified.js"></script>
-<script type="text/javascript" src="http://www.c7dc.com/wp-content/plugins/jquery-vertical-accordion-menu/js/jquery.cookie.js"></script>
-<script type="text/javascript" src="http://www.c7dc.com/wp-content/plugins/jquery-vertical-accordion-menu/js/jquery.dcjqaccordion.2.9.js"></script>
-<script type="text/javascript" src="http://www.c7dc.com/wp-content/plugins/respondjs/js/respond.min.js"></script>
-<script type="text/javascript" src="http://www.c7dc.com/wp-content/plugins/wp-video-lightbox/js/jquery.prettyPhoto.js"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var vlpp_vars = {"prettyPhoto_rel":"wp-video-lightbox","animation_speed":"fast","slideshow":"5000","autoplay_slideshow":"false","opacity":"0.80","show_title":"true","allow_resize":"true","allow_expand":"true","default_width":"640","default_height":"480","counter_separator_label":"\/","theme":"pp_default","horizontal_padding":"20","hideflash":"false","wmode":"opaque","autoplay":"false","modal":"false","deeplinking":"false","overlay_gallery":"true","overlay_gallery_max":"30","keyboard_shortcuts":"true","ie6_fallback":"true"};
-/* ]]> */
-</script>
-<script type="text/javascript" src="http://www.c7dc.com/wp-content/plugins/wp-video-lightbox/js/video-lightbox.js"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var black_studio_touch_dropdown_menu_params = {"selector":"li:has(ul) > a","selector_leaf":"li li li:not(:has(ul)) > a"};
-/* ]]> */
-</script>
-<script type="text/javascript" src="http://www.c7dc.com/wp-content/plugins/black-studio-touch-dropdown-menu/black-studio-touch-dropdown-menu.js"></script>
-<script type="text/javascript" src="http://www.c7dc.com/wp-content/plugins/m-wp-popup/js/wpp-popup-frontend.js"></script>
-<script type="text/javascript" src="http://www.c7dc.com/wp-content/plugins/youtube-embed-plus/scripts/ytprefs.min.js"></script>
-<script type="text/javascript" src="http://www.c7dc.com/wp-content/themes/C7DC-Beccy/library/js/libs/modernizr.custom.min.js"></script>
-<script type="text/javascript" src="http://www.c7dc.com/wp-content/plugins/crossslide-jquery-plugin-for-wordpress/jquery.cross-slide.js"></script>
-<link rel="canonical" href="http://www.c7dc.com/legal/privacy-policy/">
-<link rel="shortlink" href="http://www.c7dc.com/?p=123">
-<meta name="description" content="View C7's Privacy Policy for handling sensitive data and information.">
-
-<!-- Dropdown Menu Widget Styles by shailan (http://shailan.com) v1.9.3 on wp3.9.1 -->
-<link rel="stylesheet" href="http://www.c7dc.com/wp-content/plugins/dropdown-menu-widget/css/shailan-dropdown.min.css" type="text/css">
-<style type="text/css" media="all">
-	ul.dropdown { white-space: nowrap; }	
-	/** Show submenus */
-	ul.dropdown li:hover > ul, ul.dropdown li.hover ul{ display: block; }
-	
-	/** Show current submenu */
-	ul.dropdown li.hover ul, ul.dropdown ul li.hover ul, ul.dropdown ul ul li.hover ul, ul.dropdown ul ul ul li.hover ul, ul.dropdown ul ul ul ul li.hover ul , ul.dropdown li:hover ul, ul.dropdown ul li:hover ul, ul.dropdown ul ul li:hover ul, ul.dropdown ul ul ul li:hover ul, ul.dropdown ul ul ul ul li:hover ul { display: block; } 
+			case 'word':
+				var val = field.value;
+				val = val.replace(/\n/g, " ");
+				var words = val.split(" ");
+				var used = 0;
+				for(i =0; i < words.length; i++) {
+					if(words[i].replace(/\s+$/,"") != "") used++;
+				}
+				msg.innerHTML = used;
+				break;
 				
-			
-</style>
-<!-- /Dropdown Menu Widget Styles -->
+			case 'digit':
+				msg.innerHTML = field.value.length;
+				break;
+		}
+	}
+}
 
- 
-	<link rel="stylesheet" href="http://www.c7dc.com/wp-content/plugins/jquery-vertical-accordion-menu/skin.php?widget_id=2&amp;skin=grey" type="text/css" media="screen"><!-- All in one Favicon 4.3 --><link rel="shortcut icon" href="http://www.c7dc.com/wp-content/uploads/favicon-2.ico">
-		<!-- Meta Manager Start -->
-				<!-- Meta Manager End -->
-				<!-- end of wordpress head -->
-			
-		<!-- drop Google Analytics Here -->
-		<!-- end analytics -->
-		<link rel="stylesheet" id="user editable stylesheet" href="http://www.c7dc.com/wp-content/themes/C7DC-Beccy/style.css" type="text/css" media="all">
+/*--------------------------------------------------------------------------*/
 
-<script type="text/javascript">
+//http://www.robertnyman.com/2005/11/07/the-ultimate-getelementsbyclassname/
+function getElementsByClassName(oElm, strTagName, strClassName){
+	var arrElements = (strTagName == "*" && oElm.all)? oElm.all : oElm.getElementsByTagName(strTagName);
+	var arrReturnElements = new Array();
+	strClassName = strClassName.replace(/\-/g, "\\-");
+	var oRegExp = new RegExp("(^|\\s)" + strClassName + "(\\s|$)");
+	var oElement;
+	for(var i=0; i<arrElements.length; i++){
+		oElement = arrElements[i];		
+		if(oRegExp.test(oElement.className)){
+			arrReturnElements.push(oElement);
+		}	
+	}
+	return (arrReturnElements)
+}
 
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-8849167-1']);
-  _gaq.push(['_trackPageview']);
+//http://www.bigbold.com/snippets/posts/show/2630
+function addClassName(objElement, strClass, blnMayAlreadyExist){
+   if ( objElement.className ){
+      var arrList = objElement.className.split(' ');
+      if ( blnMayAlreadyExist ){
+         var strClassUpper = strClass.toUpperCase();
+         for ( var i = 0; i < arrList.length; i++ ){
+            if ( arrList[i].toUpperCase() == strClassUpper ){
+               arrList.splice(i, 1);
+               i--;
+             }
+           }
+      }
+      arrList[arrList.length] = strClass;
+      objElement.className = arrList.join(' ');
+   }
+   else{  
+      objElement.className = strClass;
+      }
+}
 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
+//http://www.bigbold.com/snippets/posts/show/2630
+function removeClassName(objElement, strClass){
+   if ( objElement.className ){
+      var arrList = objElement.className.split(' ');
+      var strClassUpper = strClass.toUpperCase();
+      for ( var i = 0; i < arrList.length; i++ ){
+         if ( arrList[i].toUpperCase() == strClassUpper ){
+            arrList.splice(i, 1);
+            i--;
+         }
+      }
+      objElement.className = arrList.join(' ');
+   }
+}
 
-</script>
-		
-	</head>
+//http://ejohn.org/projects/flexible-javascript-events/
+function addEvent( obj, type, fn ) {
+  if ( obj.attachEvent ) {
+    obj["e"+type+fn] = fn;
+    obj[type+fn] = function() { obj["e"+type+fn]( window.event ) };
+    obj.attachEvent( "on"+type, obj[type+fn] );
+  } 
+  else{
+    obj.addEventListener( type, fn, false );	
+  }
+}
+	</script>
 	
-	<body class="page page-id-123 page-child parent-pageid-119 page-template page-template-page-quote-php">
 	
-		<div id="container">
-			
-			<header class="header" role="banner">
-			
-				<div id="inner-header" class="wrap clearfix">
-					
-					<!-- to use a image just replace the bloginfo('name') with your img src and remove the surrounding <p> -->
-					<a id="logo" class="images-logo" href="http://www.c7dc.com" rel="nofollow"></a>
-					
-					<!-- if you'd like to use the site description you can un-comment it below -->
-										
-					<div id="upper-contact">Call Support: 800-371-6374   |  <a href="https://portal.c7dc.com/">Customer Portal</a></div>
-					<nav role="navigation">
-											
-						<div id="dropdown-menu-2" class="widget shailan-dropdown-menu-widget">
-<!-- Dropdown Menu Widget by Shailan.com (http://shailan.com)  v1.9.3 on wp3.9.1 -->
-<!-- Menu Type : navmenu_11 -->
-<div class="shailan-dropdown-menu">
-<div id="shailan-dropdown-wrapper-2">
-	<div align="right" class="dropdown-horizontal-container dm-align-right clearfix"><table cellpadding="0" cellspacing="0"><tbody><tr><td><ul id="menu-top-nav" class="dropdown dropdown-horizontal dropdown-align-right"><li id="menu-item-1582" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1582"><a href="http://www.c7dc.com/">Home</a></li>
-<li id="menu-item-1566" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1566"><a href="http://www.c7dc.com/services/">Services</a>
-<ul class="sub-menu">
-	<li id="menu-item-1584" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1584"><a href="http://www.c7dc.com/services/colocation/">Colocation</a></li>
-	<li id="menu-item-1585" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1585"><a href="http://www.c7dc.com/services/disaster-recovery/">Disaster Recovery</a></li>
-	<li id="menu-item-1586" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1586"><a href="http://www.c7dc.com/services/virtualization/">Virtualization</a></li>
-	<li id="menu-item-1588" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1588"><a href="http://www.c7dc.com/services/migration-package/">Migration Package</a></li>
-	<li id="menu-item-1854" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1854"><a href="http://www.c7dc.com/services/c7-backup/">C7 Data Backup</a></li>
-	<li id="menu-item-1589" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1589"><a target="_blank" href="http://www.fuseapp.com/">FuseApp</a></li>
-	<li id="menu-item-1590" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1590"><a href="http://www.c7dc.com/services/customer-quotes/">Customer Quotes</a></li>
-</ul>
-</li>
-<li id="menu-item-1564" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1564"><a href="http://www.c7dc.com/facilities/">Facilities</a>
-<ul class="sub-menu">
-	<li id="menu-item-3429" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3429"><a href="http://www.c7dc.com/facilities/granite-point-2/">Granite Point II</a></li>
-	<li id="menu-item-1623" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1623"><a href="http://www.c7dc.com/facilities/bluffdale-utah/">Granite Point</a></li>
-	<li id="menu-item-1624" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1624"><a href="http://www.c7dc.com/facilities/salt-lake-city-utah/">City Creek</a></li>
-	<li id="menu-item-1625" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1625"><a href="http://www.c7dc.com/facilities/lindon-utah/">Timpanogos</a></li>
-	<li id="menu-item-1618" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1618"><a href="http://www.c7dc.com/facilities/quick-tour/">Quick Tour</a></li>
-	<li id="menu-item-1619" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1619"><a href="http://www.c7dc.com/facilities/utah-colocation-data-centers/">Utah Colocation Centers</a></li>
-	<li id="menu-item-1620" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1620"><a href="http://www.c7dc.com/facilities/cold-aisle-cooling/">Cold Aisle Cooling</a></li>
-	<li id="menu-item-1621" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1621"><a href="http://www.c7dc.com/facilities/power-delivery-systems/">Power Delivery Systems</a></li>
-	<li id="menu-item-1622" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1622"><a href="http://www.c7dc.com/facilities/data-center-connectivity/">Data Center Connectivity</a></li>
-</ul>
-</li>
-<li id="menu-item-1562" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1562"><a href="http://www.c7dc.com/articles/">Articles</a>
-<ul class="sub-menu">
-	<li id="menu-item-1626" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1626"><a href="http://www.c7dc.com/articles/tier-classifications/">C7 Tier Classifications</a></li>
-	<li id="menu-item-1627" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1627"><a href="http://www.c7dc.com/articles/ssae-16-faq/">SSAE 16 FAQ</a></li>
-	<li id="menu-item-1629" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1629"><a href="http://www.c7dc.com/articles/pci-compliance-faq/">PCI Compliance FAQ</a></li>
-	<li id="menu-item-1630" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1630"><a href="http://www.c7dc.com/articles/hipaa-faq/">HIPAA FAQ</a></li>
-	<li id="menu-item-1631" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1631"><a href="http://www.c7dc.com/articles/15-questions-answered/">15 Questions Answered</a></li>
-	<li id="menu-item-1632" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1632"><a href="http://www.c7dc.com/articles/c7-active-noise-control/">Active Noise Control</a></li>
-	<li id="menu-item-1633" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1633"><a href="http://www.c7dc.com/articles/power-considerations/">Power Considerations</a></li>
-</ul>
-</li>
-<li id="menu-item-1563" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1563"><a href="http://www.c7dc.com/company/">Company</a>
-<ul class="sub-menu">
-	<li id="menu-item-1634" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1634"><a href="http://www.c7dc.com/company/company-overview/">Overview</a></li>
-	<li id="menu-item-1979" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1979"><a href="http://www.c7dc.com/company/newsroom/">Newsroom</a></li>
-	<li id="menu-item-1636" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1636"><a href="http://www.c7dc.com/company/investors/">Investors</a></li>
-	<li id="menu-item-1980" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1980"><a href="http://www.c7dc.com/company/community/">Community</a></li>
-	<li id="menu-item-1981" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1981"><a href="http://www.c7dc.com/company/events-calendar/">Events Calendar</a></li>
-	<li id="menu-item-1635" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1635"><a href="http://www.c7dc.com/company/management-team/">Management Team</a></li>
-	<li id="menu-item-1639" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1639"><a href="http://www.c7dc.com/company/careers/">Careers</a></li>
-	<li id="menu-item-1640" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1640"><a href="http://www.c7dc.com/company/partners/">Partners</a></li>
-	<li id="menu-item-1982" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1982"><a href="http://www.c7dc.com/company/our-commitment/">Our Commitment</a></li>
-	<li id="menu-item-1983" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1983"><a href="http://www.c7dc.com/company/our-clients/">Our Clients</a></li>
-</ul>
-</li>
-<li id="menu-item-1568" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1568"><a href="http://www.c7dc.com/contact-us/">Contact</a>
-<ul class="sub-menu">
-	<li id="menu-item-2289" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2289"><a href="/contact-us/">Contact Us</a></li>
-	<li id="menu-item-1637" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1637"><a href="http://www.c7dc.com/contact-us/directions/">Directions</a></li>
-	<li id="menu-item-1591" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1591"><a href="http://www.c7dc.com/contact-us/get-a-quote/">Get a Quote</a></li>
-	<li id="menu-item-1984" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1984"><a href="http://www.c7dc.com/contact-us/contact-support/">Contact Support</a></li>
-</ul>
-</li>
-</ul></td>
-				  </tr></tbody></table> 
-				</div></div> 
+	
+	
+<!-- This site is optimized with the Yoast WordPress SEO plugin v1.5.4.2 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="robots" content="noodp,noydir">
+<meta name="description" content="Review C7's Privacy Policy.">
+<link rel="canonical" href="https://www.c7.com/company/privacy-policy/">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Privacy Policy">
+<meta property="og:description" content="Review C7's Privacy Policy.">
+<meta property="og:url" content="https://www.c7.com/company/privacy-policy/">
+<meta property="og:site_name" content="c7">
+<!-- / Yoast WordPress SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="c7 » Privacy Policy Comments Feed" href="https://www.c7.com/company/privacy-policy/feed/">
+<link rel="stylesheet" id="wpgmaps-style-css" href="https://www.c7.com/wp-content/plugins/wp-google-maps/css/wpgmza_style.css?ver=3.9.1" type="text/css" media="all">
+<script type="text/javascript" src="https://www.c7.com/wp-includes/js/jquery/jquery.js?ver=1.11.0"></script>
+<script type="text/javascript" src="https://www.c7.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.c7.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.c7.com/wp-includes/wlwmanifest.xml"> 
+<link rel="shortlink" href="https://www.c7.com/?p=1080">
+	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+	
+	
+</head>
+	<body class="page page-id-1080 page-child parent-pageid-84 page-template page-template-page-tertiary-php"><div class="request-a-quote" style="position:fixed;bottom:-2px;right:0;z-index:10000000;width:98px;height:97px;">
+		<a href="https://www.c7.com/contact/get-a-quote/" target="_blank" class="sprite_getaquote"></a>
 </div>
+                                     
 
-<!--/ Dropdown Menu Widget -->			
-              </div>        
-										</nav>
-				
-				</div> <!-- end #inner-header -->
+	
+	                                    <div class="header" style="background-image:url('https://www.c7.com/wp-content/uploads/header.png');">
+                			<div class="navbar">
+				<div class="navbar-inner">
+			    	<div class="container">
+						<div class="row">
+							<div class="col-md-1">
+								<div class="logo"><a href="https://www.c7.com"><img src="https://www.c7.com/wp-content/themes/c7/images/nav-logo.png" alt="C7 Data Centers"></a></div>
+							</div>
+
+
+			        		<!-- .btn-navbar is used as the toggle for collapsed navbar content
+			        		<a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+			        			<span class="icon-bar"></span>
+			            		<span class="icon-bar"></span>
+			            		<span class="icon-bar"></span>
+			        		</a> -->
+	              			<!-- Everything you want hidden at 940px or less, place within here -->
+							<div class="col-md-8 col-md-offset-1">
+		            			<div class="nav-collapse">
+									<ul id="menu-menu-1" class="menu"><li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" data-target="#" href="https://www.c7.com/data-center/">Data Center <b class="caret"></b></a>
+<ul class="dropdown-menu">
+	<li class="category-subpage"><a href="https://www.c7.com/data-center/">OVERVIEW</a></li>
+	<li><a href="https://www.c7.com/data-center/colocation/">Colocation</a></li>
+	<li><a href="https://www.c7.com/data-center/network-connectivity/">Connectivity</a></li>
+	<li><a href="https://www.c7.com/data-center/power-delivery/">Power Delivery</a></li>
+	<li><a href="https://www.c7.com/data-center/cooling-technology/">Cooling</a></li>
+	<li><a href="https://www.c7.com/data-center/data-center-solutions/">Solutions</a></li>
+	<li><a href="https://www.c7.com/data-center/locations/">Locations</a></li>
+	<li><a href="https://www.c7.com/data-center/compliance-security/">Compliance &amp; Security</a></li>
+	<li class="getaquotenav"><a href="/contact-us/get-a-quote/">Get A Quote</a></li>
+</ul>
+</li>
+<li class="category-subpage dropdown"><a class="dropdown-toggle" data-toggle="dropdown" data-target="#" href="https://www.c7.com/cloud/">Cloud <b class="caret"></b></a>
+<ul class="dropdown-menu">
+	<li><a href="https://www.c7.com/cloud/">OVERVIEW</a></li>
+	<li><a href="https://www.c7.com/cloud/cloud-servers/">Cloud Servers</a></li>
+	<li><a href="https://www.c7.com/cloud/cloud-solutions/">Cloud Solutions</a></li>
+	<li><a href="https://www.c7.com/cloud/private-cloud-suite/">Private Cloud Suite</a></li>
+	<li class="getaquotenav"><a href="https://www.c7.com/contact/get-a-quote/">Get a Quote</a></li>
+</ul>
+</li>
+<li class="category-subpage dropdown"><a class="dropdown-toggle" data-toggle="dropdown" data-target="#" href="https://www.c7.com/it-services/">IT Services <b class="caret"></b></a>
+<ul class="dropdown-menu">
+	<li><a href="https://www.c7.com/it-services/">OVERVIEW</a></li>
+	<li><a href="https://www.c7.com/it-services/data-backup/">Data Backup</a></li>
+	<li><a href="https://www.c7.com/it-services/disaster-recovery/">Disaster Recovery</a></li>
+	<li><a href="https://www.c7.com/it-services/it-support-services/">IT Support Services</a></li>
+	<li><a href="https://www.c7.com/it-services/engineer-outsourcing/">Engineer Outsourcing</a></li>
+	<li><a href="https://www.c7.com/it-services/consulting-services/">Consulting Services</a></li>
+	<li class="getaquotenav"><a href="https://www.c7.com/contact/get-a-quote/">Get a Quote</a></li>
+</ul>
+</li>
+</ul>                                                                                                                                                <div class="hide menu_links_to_change_color">[{"menu_title":"get a quote","background_color":"#f78e1e","font_color":"#fff","add_class":"menu_orange"}]</div>
+			       				</div> <!-- .nav-collapse -->
+							</div>
+							<div class="col-md-1 support-tab">
+								<a href="#" class="support_nav_link">Support</a>
+                                                                                                                <ul class="support_nav hide">
+                                                               
+                                                                     
+                                                                <li> 
+                                                                                                                                            <p><strong>DATA CENTER</strong><br>
+(800) 371-6374<br>
+<a href="https://portal.c7dc.com/" target="_blank">Customer Portal</a></p>
+                                                                                                                                    </li>
+
+                                                                        
+                                                                <li> 
+                                                                                                                                            <p><strong>CLOUD</strong><br>
+(866) 717-2260</p>
+                                                                                                                                    </li>
+
+                                                                        
+                                                                <li> 
+                                                                                                                                            <p><strong>IT SERVICES</strong><br>
+(866) 717-2260</p>
+<p><a href="https://c7dc.wufoo.com/forms/zs56jrs0i22nus/" target="_Blank">IT Support Chat</a>&nbsp;<a class="sprite_support_chat_bubble" href="https://c7dc.wufoo.com/forms/zs56jrs0i22nus/" target="_Blank">&nbsp;</a></p>
+                                                                                                                                    </li>
+
+                                                                        
+                                                                <li> 
+                                                                                                                                            <a href="/contact-us/contact-support/" class="email_btn">
+                                                                                                                                            <p>EMAIL SUPPORT</p>
+                                                                                                                                            </a>
+                                                                                                                                    </li>
+
+                                                                  
+                                                                <a href="#" class="support_close"><img src="https://www.c7.com/wp-content/themes/c7/images/support_modal_close.png" alt=""></a>
+                                                            </ul> 
+							</div>
+							<div class="col-md-1 nav-dropdown">
+								<a href="#" class="secondary_menu_link "><img src="https://www.c7.com/wp-content/themes/c7/images/nav-icon.png" alt="Nav"></a>
+                                                    <a href="#" class="secondary_menu_link_close hide"><img src="https://www.c7.com/wp-content/themes/c7/images/secondary_menu_close.png" alt="Nav"></a> 
+                                                    
+							</div>
+						</div><!-- .row -->
+					</div> <!-- .container -->
+                                        
+        <div class="container-fluid secondary_menu_wrap hide">
+            <div class="container">
+                <div class="row">
+                    <div class="secondary_menu_wrap_in col-md-8 col-md-offset-2">
+                        <div class="row">
+                     
+                        <div class="col-md-4 ">
+                            <h3><a href="https://www.c7.com/">C7<br><span class="u_line"></span></a></h3>
+                            <ul class="secondary_menu_sub">
+                                                            <li>
+                                    <a href="https://www.c7.com/data-center/">Data Center</a>
+                                </li>
+                                                            <li>
+                                    <a href="https://www.c7.com/cloud/">Cloud</a>
+                                </li>
+                                                            <li>
+                                    <a href="https://www.c7.com/it-services/">IT Services</a>
+                                </li>
+                                                        </ul>
+                        </div>
+                     
+                        <div class="col-md-4 ">
+                            <h3><a href="https://www.c7.com/company/">Company<br><span class="u_line"></span></a></h3>
+                            <ul class="secondary_menu_sub">
+                                                            <li>
+                                    <a href="https://www.c7.com/company/newsroom/">Newsroom</a>
+                                </li>
+                                                            <li>
+                                    <a href="https://www.c7.com/company/management/">Management</a>
+                                </li>
+                                                            <li>
+                                    <a href="https://www.c7.com/company/investors/">Investors</a>
+                                </li>
+                                                            <li>
+                                    <a href="https://www.c7.com/company/partners/">Partners</a>
+                                </li>
+                                                            <li>
+                                    <a href="https://www.c7.com/company/careers/">Careers</a>
+                                </li>
+                                                        </ul>
+                        </div>
+                     
+                        <div class="col-md-4 ">
+                            <h3><a href="https://www.c7.com/contact/contact-us/">Contact<br><span class="u_line"></span></a></h3>
+                            <ul class="secondary_menu_sub">
+                                                            <li>
+                                    <a href="https://www.c7.com/contact/contact-us/">Contact Us</a>
+                                </li>
+                                                            <li>
+                                    <a href="https://www.c7.com/contact/visitor-information/">Visitor Information</a>
+                                </li>
+                                                            <li>
+                                    <a href="https://www.c7.com/contact/get-a-quote/">Get a Quote</a>
+                                </li>
+                                                            <li>
+                                    <a href="https://www.c7.com/contact/contact-support/">Contact Support</a>
+                                </li>
+                                                        </ul>
+                        </div>
+                                             </div>
+                    </div>
+                        
+                            <ul class="nav_social_media">
+                                        
+                                    <li class="col-md-2 ">
+                                        <a href="https://www.facebook.com/pages/C7-Data-Center-Cloud-IT-Services/190650487637107">
+                                            <img src="https://www.c7.com/wp-content/uploads/2014/04/icon-facebook.png" alt="C7 Facebook page">
+                                        </a>
+                                    </li>
+
+                                            
+                                    <li class="col-md-2 ">
+                                        <a href="https://twitter.com/c7datacenters">
+                                            <img src="https://www.c7.com/wp-content/uploads/twitter-28x26.png" alt="C7 Twitter page">
+                                        </a>
+                                    </li>
+
+                                            
+                                    <li class="col-md-2 ">
+                                        <a href="https://www.linkedin.com/company/center7">
+                                            <img src="https://www.c7.com/wp-content/uploads/2014/04/icon-in.png" alt="C7 LinkedIn page">
+                                        </a>
+                                    </li>
+
+                                                                </ul>
+                        
+                    </div>
+            </div>
+
+        </div>
+        
+            
+    
+				</div> <!-- .navbar-inner -->
+			</div> <!-- .navbar -->
+			<div class="container">
+				<div class="row">
+					<div class="col-md-10 col-md-offset-1">
+													<h1>Privacy Policy</h1>
+											</div>
+				</div>
+			</div>
 			
-			</header> <!-- end header --><div class="slideshow clearfix"><div class="twelvecol first"><img width="1140" height="300" src="http://www.c7dc.com/wp-content/uploads/C7-Bluffdale-781.jpg" class="attachment-bones-thumb-1140 wp-post-image" alt="C7-Bluffdale-78"></div></div>
-			<div id="content">
-			
-				<div id="inner-content" class="wrap clearfix">
-				
-									<div id="sidebarnav" class="sidebar twocol first clearfix" role="complementary">
-
-					
-						<div id="text-4" class="widget widget_text"><h4 class="widgettitle">Company</h4>			<div class="textwidget"><ul class="sub-menu">
-	<li id="menu-item-1634" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1634"><a href="/company/company-overview/">Company Overview</a></li>
-	<li id="menu-item-1979" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-103 current_page_item menu-item-1979"><a href="/company/newsroom/">Newsroom</a></li>
-	<li id="menu-item-1636" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1636"><a href="/company/investors/">Investors</a></li>
-	<li id="menu-item-1980" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1980"><a href="/company/community/">Community</a></li>
-	<li id="menu-item-1981" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1981"><a href="/company/events-calendar/">Events Calendar</a></li>
-	<li id="menu-item-1635" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1635"><a href="/company/management-team/">Management Team</a></li>
-	<li id="menu-item-1639" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1639"><a href="/company/careers/">Careers</a></li>
-	<li id="menu-item-1640" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1640"><a href="/company/partners/">Partners</a></li>
-	<li id="menu-item-1982" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1982"><a href="/company/our-commitment/">Our Commitment</a></li>
-	<li id="menu-item-1983" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1983"><a href="/company/our-clients/">Our Clients</a></li>
-</ul></div>
-		</div><div id="sub-page-menu" class="widget widget_subpages"><h4 class="widgettitle"><a href="http://www.c7dc.com/legal/">Legal</a></h4><ul><li class="page_item page-item-121"><a href="http://www.c7dc.com/legal/customer-bill-of-rights/">Customer Bill of Rights</a></li>
-<li class="page_item page-item-123 current_page_item"><a href="http://www.c7dc.com/legal/privacy-policy/">Privacy Policy</a></li>
-<li class="page_item page-item-125"><a href="/wp-content/uploads/2011/10/Acceptable-Use-Policy1.pdf" target="_blank">Acceptable Use Policy (PDF)</a></li>
-</ul></div><div id="randomtext-2" class="widget randomtext"><h4 class="widgettitle">Our Customers Agree…</h4><p>"We are pleased to partner with such a high-caliber and well managed data center provider to offer our customers a state of the art data center facility that delivers high performance, availability, as well as excellent security and reliability."</p><p>Jeff Hunsaker, President UK2 Group U.S. Operations</p></div>
-					
-				</div>			
-				    <div id="main" class="sevencol second clearfix quote-page" role="main">
-
-					    					
-					    <article id="post-123" class="post-123 page type-page status-publish has-post-thumbnail hentry clearfix" role="article">
-					
-						    <section class="entry-content">
-							    <h2><span style="color: #f78e1e;">PRIVACY POLICY</span></h2>
-<div class="pagenoimage">
-<h3>C7 Data Centers takes privacy and data protection issues seriously. C7′s Privacy Policy applies to basic contact information collected from customers who contract with C7 to use our services.</h3>
-<p>As C7′s services change, we may revise this policy. If you have questions about C7′s privacy practices please contact us at <a href="mailto:support@c7dc.com">support@c7dc.com.</a></p>
-<h3>Information Collected</h3>
-<p>C7 collects information from its customers through a Master Service Agreement and a Statement of Work for services. We only obtain information via our website when an individual or company requests a price quotation or has questions about C7 and its services. At that time, we will ask for contact information such as person’s name, phone number or e-mail address.</p>
-<h3>Information Disclosure</h3>
-<p>Protecting customer information is an important part of our business. We may release customer information when we believe release is appropriate to comply with the law or to verify information with other companies for fraud protection and risk reduction.</p>
-<h3>Information Security</h3>
-<p>Information security is critical to our business. We work to protect the security of a customer’s information through the use of security and encryption software. Any information that is gathered is stored on servers located in a secure data center. The number of authorized people with access to these servers is limited. Firewalls and other security technology are used to prevent system servers and computers from being accessed by unauthorized persons. It is the customer’s responsibility to protect against misuse of the customer’s Login Name and Password.</p>
-<h3>System Access</h3>
-<p>C7 gives customers’ authorized personnel the ability to set system access and user permissions on an individual basis, including system view and administrative settings.</p>
-<p>C7 gives customers’ authorized personnel the ability to set system access and user permissions on an individual basis, including system view and administrative settings.</p>
-</div>
-
-<div style="display: block !important; margin:0 !important; padding: 0 !important" id="wpp_popup_post_end_element"></div>						    </section> <!-- end article section -->
 						
-						    <footer class="article-footer">
-			
-							    <p class="clearfix"></p>
-							
-						    </footer> <!-- end article footer -->
-						    
-					
-					    </article> <!-- end article -->
-					
-					    	
-					
-					    			
-				    </div> <!-- end #main -->
-    
-				    				<div id="sidebarquote" class="sidebar threecol last clearfix" role="complementary">
-
-					
-						<div id="text-3" class="widget widget_text"><h4 class="widgettitle">Get a Quote</h4>			<div class="textwidget"><iframe height="617" allowtransparency="true" frameborder="0" scrolling="no" style="width:100%;border:none" src="https://c7dc.wufoo.com/embed/m1i4p4ov1xkalpx/"><a href="https://c7dc.wufoo.com/forms/m1i4p4ov1xkalpx/">Fill out my Wufoo form!</a></iframe></div>
+									
 		</div>
-					
-				</div>				    
-				</div> <!-- end #inner-content -->
-    
-			</div> <!-- end #content -->
-
-					
-
-			<footer class="footer" role="contentinfo">
-			
-				<div id="inner-footer" class="wrap clearfix">
-					
-					<nav role="navigation">
-    					
-
-
-	                		</nav>
-								<div id="sidebar3" class="sidebar twelvecol last clearfix" role="complementary">
-
-					
-						<div id="dc_jqaccordion_widget-2" class="widget ">		
-		<div class="dcjq-accordion" id="dc_jqaccordion_widget-2-item">
 		
-			<ul id="menu-top-nav-1" class="footer-navigation-accordian"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1582"><a href="http://www.c7dc.com/">Home</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1566"><a href="http://www.c7dc.com/services/">Services</a>
-<ul class="sub-menu">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1584"><a href="http://www.c7dc.com/services/colocation/">Colocation</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1585"><a href="http://www.c7dc.com/services/disaster-recovery/">Disaster Recovery</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1586"><a href="http://www.c7dc.com/services/virtualization/">Virtualization</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1588"><a href="http://www.c7dc.com/services/migration-package/">Migration Package</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1854"><a href="http://www.c7dc.com/services/c7-backup/">C7 Data Backup</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1589"><a target="_blank" href="http://www.fuseapp.com/">FuseApp</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1590"><a href="http://www.c7dc.com/services/customer-quotes/">Customer Quotes</a></li>
-</ul>
-</li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1564"><a href="http://www.c7dc.com/facilities/">Facilities</a>
-<ul class="sub-menu">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3429"><a href="http://www.c7dc.com/facilities/granite-point-2/">Granite Point II</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1623"><a href="http://www.c7dc.com/facilities/bluffdale-utah/">Granite Point</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1624"><a href="http://www.c7dc.com/facilities/salt-lake-city-utah/">City Creek</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1625"><a href="http://www.c7dc.com/facilities/lindon-utah/">Timpanogos</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1618"><a href="http://www.c7dc.com/facilities/quick-tour/">Quick Tour</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1619"><a href="http://www.c7dc.com/facilities/utah-colocation-data-centers/">Utah Colocation Centers</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1620"><a href="http://www.c7dc.com/facilities/cold-aisle-cooling/">Cold Aisle Cooling</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1621"><a href="http://www.c7dc.com/facilities/power-delivery-systems/">Power Delivery Systems</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1622"><a href="http://www.c7dc.com/facilities/data-center-connectivity/">Data Center Connectivity</a></li>
-</ul>
-</li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1562"><a href="http://www.c7dc.com/articles/">Articles</a>
-<ul class="sub-menu">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1626"><a href="http://www.c7dc.com/articles/tier-classifications/">C7 Tier Classifications</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1627"><a href="http://www.c7dc.com/articles/ssae-16-faq/">SSAE 16 FAQ</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1629"><a href="http://www.c7dc.com/articles/pci-compliance-faq/">PCI Compliance FAQ</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1630"><a href="http://www.c7dc.com/articles/hipaa-faq/">HIPAA FAQ</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1631"><a href="http://www.c7dc.com/articles/15-questions-answered/">15 Questions Answered</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1632"><a href="http://www.c7dc.com/articles/c7-active-noise-control/">Active Noise Control</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1633"><a href="http://www.c7dc.com/articles/power-considerations/">Power Considerations</a></li>
-</ul>
-</li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1563"><a href="http://www.c7dc.com/company/">Company</a>
-<ul class="sub-menu">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1634"><a href="http://www.c7dc.com/company/company-overview/">Overview</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1979"><a href="http://www.c7dc.com/company/newsroom/">Newsroom</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1636"><a href="http://www.c7dc.com/company/investors/">Investors</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1980"><a href="http://www.c7dc.com/company/community/">Community</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1981"><a href="http://www.c7dc.com/company/events-calendar/">Events Calendar</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1635"><a href="http://www.c7dc.com/company/management-team/">Management Team</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1639"><a href="http://www.c7dc.com/company/careers/">Careers</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1640"><a href="http://www.c7dc.com/company/partners/">Partners</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1982"><a href="http://www.c7dc.com/company/our-commitment/">Our Commitment</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1983"><a href="http://www.c7dc.com/company/our-clients/">Our Clients</a></li>
-</ul>
-</li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1568"><a href="http://www.c7dc.com/contact-us/">Contact</a>
-<ul class="sub-menu">
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2289"><a href="/contact-us/">Contact Us</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1637"><a href="http://www.c7dc.com/contact-us/directions/">Directions</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1591"><a href="http://www.c7dc.com/contact-us/get-a-quote/">Get a Quote</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1984"><a href="http://www.c7dc.com/contact-us/contact-support/">Contact Support</a></li>
-</ul>
-</li>
-</ul>		
+	<div class="main-content">
+	
+	<div class="container">
+		<div class="row">
+			<div class="col-md-10 col-md-offset-1">
+									<p></p>
+<h4>C7 Data Centers takes privacy and data protection issues seriously. Our Privacy Policy applies to basic contact information collected from customers who contract with C7 to use our services. As our services change, we may revise this policy. If you have questions about our privacy practices please <a href="http://www.c7.com/contact-us/" title="Contact Us">contact us</a>.</h4>
+<h4>Information Collected</h4>
+<p>C7 collects information from its customers through a Master Service Agreement and a Statement of Work for services. We only obtain information via our website when an individual or company requests a price quotation or has questions about C7 and its services. At that time, we will ask for contact information such as person’s name, phone number or e-mail address.</p>
+<h4>Information Disclosure</h4>
+<p>Protecting customer information is an important part of our business. We may release customer information when we believe release is appropriate to comply with the law or to verify information with other companies for fraud protection and risk reduction.</p>
+<h4>Information Security</h4>
+<p>Information security is critical to our business. We work to protect the security of a customer’s information through the use of security and encryption software. Any information that is gathered is stored on servers located in a secure data center. The number of authorized people with access to these servers is limited. Firewalls and other security technology are used to prevent system servers and computers from being accessed by unauthorized persons. It is the customer’s responsibility to protect against misuse of the customer’s Login Name and Password.</p>
+<h4>System Access</h4>
+<p>C7 gives customers’ authorized personnel the ability to set system access and user permissions on an individual basis, including system view and administrative settings.</p>
+							</div>
 		</div>
-		</div><div id="text-7" class="widget widget_text">			<div class="textwidget"><div class="bar">
-<a href="/services/colocation/">Colocation</a>
-<a href="/articles/ssae-16-faq/">SSAE 16</a>
-<a href="/articles/pci-compliance-faq/">PCI Compliance</a>
-<a href="/legal/customer-bill-of-rights/">Customer Bill of Rights</a>
-<a href="/legal/privacy-policy/">Privacy Policy</a>
-<a href="/wp-content/uploads/2011/10/Acceptable-Use-Policy1.pdf/" target="_blank">Acceptable Use Policy</a>
-<a href="/contact-us/">Contact</a>
-</div>
-<div class="images-footer-icons"></div>
-<div class="copyright"> © 2012 C7 Data Centers, Inc. A colocation company offering premier colocation solutions. All Rights Reserved.</div></div>
-		</div>
-					
-				</div>				
-				</div> <!-- end #inner-footer -->
-				
-			</footer> <!-- end footer -->
-		
-		</div> <!-- end #container -->
-		
-		<!-- all js scripts are loaded in library/bones.php -->
-					<script type="text/javascript">
-				jQuery(document).ready(function($) {
-					jQuery('#dc_jqaccordion_widget-2-item .footer-navigation-accordian').dcAccordion({
-						eventType: 'hover',
-						hoverDelay: 0,
-						menuClose: false,
-						autoClose: true,
-						saveState: false,
-						autoExpand: false,
-						classExpand: 'current-menu-item',
-						classDisable: '',
-						showCount: false,
-						disableLink: false,
-						cookie: 'dc_jqaccordion_widget-2',
-						speed: 'slow'
-					});
-				});
-			</script>
-		
-			<script type="text/javascript" src="http://www.c7dc.com/wp-includes/js/hoverIntent.min.js"></script>
-<script type="text/javascript" src="http://www.c7dc.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var _wpcf7 = {"loaderUrl":"http:\/\/www.c7dc.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ..."};
-/* ]]> */
-</script>
-<script type="text/javascript" src="http://www.c7dc.com/wp-content/plugins/contact-form-7/includes/js/scripts.js"></script>
-<script type="text/javascript" src="http://www.c7dc.com/wp-content/plugins/youtube-embed-plus/scripts/fitvids.min.js"></script>
-<script type="text/javascript" src="http://www.c7dc.com/wp-content/themes/C7DC-Beccy/library/js/scripts.js"></script>
-<script>var pltNewTabURLs = ["http:\/\/www.fuseapp.com\/","\/wp-content\/uploads\/2011\/10\/Acceptable-Use-Policy1.pdf"];(function(){jQuery(function(e){return e("body").on("click","a",function(t){var n;n=e(this);if(e.inArray(n.attr("href"),pltNewTabURLs)>-1)return n.attr("target","_blank")})})}).call(this);</script>
-
-
-<!-- Google Code for Remarketing tag -->
-<!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
-<script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 1032295200;
-var google_conversion_label = "pA1DCLa2nQQQoKae7AM";
-var google_custom_params = window.google_tag_params;
-var google_remarketing_only = true;
-/* ]]> */
-</script>
-<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-</script>
-<noscript>
-<div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1032295200/?value=0&amp;label=pA1DCLa2nQQQoKae7AM&amp;guid=ON&amp;script=0"/>
-</div>
-</noscript>
-
+	</div>
 
 	
+		
 
-<!--VISISTAT SNIPPET//-->
+		<div class="callout-row">
+							
+										
+							
+										
+		</div>
+	
+ 
+	 
+</div>
+<div class="get-a-quote-band">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-4 footer-list">
+					<h3>Why People Love Us</h3>
+<ol>
+<li>State of the art data centers</li>
+<li>Exceptional customer experience</li>
+<li>Flexible cloud solutions</li>
+<li>Customer focused value pricing</li>
+<li>Experienced IT services and solutions</li>
+</ol>
+<p style="font-size: 12px; line-height: 1.2em;">
+				</p></div>
+				<div class="col-md-7 col-md-offset-1">
+					
+				<div id="container" class="ltr">
+				<div class="row">
+					<header id="header" class="info" style="margin-left:10px;">
+							<h3>GET A QUOTE</h3>
+							<div></div>
+						</header>
+				
+					<!-- Wufoo Get a quote form //-->
+					<iframe height="380" id="getaquoteform" class="iframegetaquoteheightfix" allowtransparency="true" frameborder="0" scrolling="no" style="width:100%;border:none" src="https://c7dc.wufoo.com/embed/mhzmi961f3nkjl/def/&amp;header=hide"><a href="https://c7dc.wufoo.com/forms/mhzmi961f3nkjl/">Fill out my Wufoo form!</a></iframe> 
+				
+					
+					<!-- End Get a quote //-->
+					
+					
+			
+				</div> <!--container-->	
+				
+
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+<div class="orange-band">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-1">
+										
+					<div class="footer-logo sprite_sm_wh_logo">
+						<a href="https://www.c7.com/" title="C7 Data Centers, Cloud &amp; IT Services"></a>
+</div> 
+					
+				</div>
+				<div class="col-md-8 col-md-offset-1 footer_menu_wrap">
+					<ul id="menu-footer-menu" class="menu"><li><a href="https://www.c7.com/contact/visitor-information/">Visitor Information</a></li>
+<li><a href="https://www.c7.com/contact/contact-us/">Contact Us</a></li>
+<li class="active"><a href="https://www.c7.com/company/privacy-policy/">Privacy Policy</a></li>
+<li><a href="https://www.c7.com/company/acceptable-use-policy/">Acceptable Use Policy</a></li>
+<li><a href="https://www.c7.com/contact/contact-support/">Contact Support</a></li>
+</ul>				</div>
+				<div class="col-md-2 pull-right copyright">
+					© 2014 C7
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-4 footer_info">
+					<p><span class="label" style="padding-left: 0em; font-weight: 100;">14870 S. Pony Express RD, Suite 200<br>
+Bluffdale, UT 84065</span><br>
+(801) 822-5300</p>
+				</div>
+				<div class="col-md-4 footer_info">
+					<p style="text-align: center;"><span class="label">Data Center Support:</span> (800) 371-6374<br>
+<span class="label">Cloud &nbsp;&amp; IT Services Support:</span>&nbsp; (866) 717-2260</p>
+				</div>
+				<div class="col-md-3 pull-right footer_info ">
+					<p><span class="label">Data Center Sales:</span>&nbsp;Sales@c7dc.com<br>
+<span class="label">Cloud &amp; IT Sales:</span>&nbsp;CloudITsales@c7dc.com</p>
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+
+		
+
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$("iframe#wufooFormqchn93a0wyhwew").contents().find("input#saveForm").css("border-color", "blue");
+		});
+		// request quote show/hide
+		$(document).scroll(function () {
+		    var y = $(this).scrollTop();
+		    if (y > 300) {
+		        $('.request-a-quote').fadeIn(1000);
+		    } else {
+		        $('.request-a-quote').fadeOut();
+		    }
+		});
+		//request quote add margin bottom on bottom
+		 $(window).scroll(function() {   
+		   if($(window).scrollTop() + $(window).height() == $(document).height()) {
+		       $('.request-a-quote').css("margin-bottom","180px");
+		   }
+		});
+	</script>
+	
+	<!-- Google Analytics //-->
+	<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-51971520-1', 'c7.com');
+  ga('send', 'pageview');
+
+</script>
+	<!--VISISTAT SNIPPET//-->
 <script type="text/javascript">
 //<![CDATA[
 var DID=221647;
@@ -428,6 +609,8 @@ document.writeln('<scr'+'ipt src="'+pcheck+'" type="text\/javascript"><\/scr'+'i
 
 <!--VISISTAT SNIPPET//-->
 
-<script type="text/javascript" src="http://ny79641.com/js/19901.js"></script>
-								
- <!-- end page. what a ride! --></body></html>
+	
+
+
+
+</div></body></html>
