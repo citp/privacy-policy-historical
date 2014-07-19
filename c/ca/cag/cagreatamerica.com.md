@@ -1,72 +1,115 @@
-> *The following text is extracted and transformed from the cagreatamerica.com privacy policy that was archived on 2013-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130407201153id_/http%3A//www.cagreatamerica.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cagreatamerica.com privacy policy that was archived on 2014-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140719211123id_/https%3A//www.cagreatamerica.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Great America, San Francisco CA
 
-**IMPORTANT! PLEASE READ CAREFULLY. THIS IS A CONTRACT. BY USING THIS WEB SITE, YOU ACCEPT ALL TERMS AND CONDITIONS OF THIS AGREEMENT.  
-If you disagree with any of the terms that follow, or do not agree to be bound by all terms, do not use this web site. **
+**Updated July 11, 2013**
 
-### INTRODUCTION
+At Cedar Fair Entertainment Company (the “ _ **Company**_ ”), your privacy is very important to us. The purpose of this privacy policy (this “ _ **Policy**_ ”) is to describe the treatment of information provided or collected on the websites where this Policy is posted (each such website hereinafter referred to as a “Site” and all websites to which this Policy applies are collectively referred to as the “ _ **Sites**_ ”).
 
-This web site ("Web Site") is operated by Cedar Fair Entertainment Company. ("CFEC" or "we" or "us"). This Privacy Policy only covers information collected at our Web Sites, and does not cover any information collected offline by CFEC (unless specifically stated), or affiliated companies. At CFEC, your privacy is important to us. We provide this notice to explain our information collection practices and the choices you have about the way your information is collected and used. [Click here](http://www.cedarfair.com/) for a list of the web sites currently covered by this Privacy Policy. Your use of this Web Site indicates to us that you have read and accept our privacy practices, as outlined in this Privacy Policy. In addition, please review our Terms of Use that governs your use of this Web Site. 
+## Information We Collect
 
-While on our Web Site, you may encounter links to other web sites or online materials. For example, paramountparks.com contains links to web sites that may be published and maintained by affiliates and/or related entities of CFEC. You may also encounter links from sponsors or partners. Those other web sites may set their own cookies, collect data, and/or have their own privacy policies that differ from this privacy policy. This Privacy Policy only covers information collected by CFEC on this Web Site, and we encourage you to review the privacy policy of any other web site you visit. 
+    
 
-This Privacy Policy does not apply to any personally identifiable information ("PII") you may disclose publicly in user forums (such as chat rooms, message boards, or similar web pages). PII is information that could reasonably be used to identify you personally (such as your name, address, or e-mail address). You should be aware that when you voluntarily disclose PII on message boards, chat areas or other user forums, that information can be collected and used by other people to send unsolicited messages and marketing materials. Also, please be aware that certain message boards (and similar user forums) may display IP addresses along with the message poster's name and message. We bear no responsibility for any action or policies of any third parties who collect any information users may disclose in user forums or other public areas of this Web Site. 
+ **-   Creating a Profile and Using the Site**  
+We collect and store information that you voluntarily provide to us as well as data related to your Site visit and usage. Some of the features on the Sites permit you to create a user profile by selecting a username and password and answering a security question (collectively, your “ _ **User Profile Information**_ ”). Your User Profile Information and certain other information associated with your User Profile, including, without limitation, your purchase history (see “ _Making Purchases Online” below_ ), will be stored on our servers. You can request that this information be deleted at any time by contacting us at [countmeout@cedarfair.com](mailto:countmeout@cedarfair.com?subject=Count%20Me%20Out). We may require you to provide certain information to verify that it is you making the request.
 
-### WHAT PERSONAL INFORMATION ABOUT YOU DO WE COLLECT?
+This Policy does not apply to any personally identifiable information you may disclose publicly in user forums (such as chat rooms, message boards and similar web pages). We are not responsible for the actions of any third parties who collect any information users may disclose in user forums or other public areas of the Sites.
 
-Generally, you may browse our Web Site without providing any PII. However, we may ask you to provide PII at various times and places on this Web Site, such as when you register for our services, enter a sweepstakes, subscribe to a newsletter, complete an on-line job application, complete a survey or participate in polls, message groups or chat areas. We may also ask you to provide us with demographic information or information regarding your interests, hobbies or similar information. In some cases, if you chose not to provide us with requested information, you may not be able to access all of this Web Site or participate in all of its features. We may combine the information we collect with information available from other sources, including information received from promotional partners or other third parties. We may also provide you the opportunity to e-mail a friend an article, electronic greeting card or other special feature from our Web Site. Any information collected on the on-line job application will be used for the application process only. 
+     **-  Making Purchases Online**  
+Many of the Sites permit you to make purchases online, such as Day Passes or Season Passes to our parks or Fast Lane Passes. In connection with your purchase, we collect and store certain information. First, in order to identify you, we ask that you provide your name, gender, date of birth, address, email and phone number. We also provide you with an opportunity to opt into receiving our newsletter (described in further detail in the section immediately following this one) or text message updates. When you make a purchase through our online store, we use a third-party credit card processor to process your credit card purchases (see “ _Third-Party Payment Processors_ ” below).
 
-### NOTE TO PARENTS/CHILDREN'S PRIVACY
+Please note that in connection with the purchase of Season Passes, we require that certain personally identifiable information be provided about each individual who will be receiving a Season Pass. 
 
-Protecting children's privacy is important to us. For that reason, we do not collect or maintain information at our Web Site from those we actually know are under 13, and no part of our Web Site is targeted to attract anyone under 13. We request that all visitors under 13 to our Web Site not disclose or provide any PII. Upon notification that a child under 13 has provided us with PII, we will delete the child's PII from our records. 
+_If you are purchasing a Season Pass for a child under the age of 13 you must either be that child’s parent or guardian, or have the permission of that child’s parent or guardian, to supply the required information._
 
-### OTHER INFORMATION WE COLLECT
+  
+     **-   Signing Up For Our Newsletter**  
+Many of our Sites provide you with an opportunity to sign up to receive updates through our newsletter. When you sign up for a newsletter, we will ask for certain personally identifiable information, such as your name, email address, phone number, date of birth, gender and street address. This information is stored by us and used to send you our newsletter. We may also use the information to contact you about other activities, events or products that you we believe you may be interested in. You can opt out of receiving our newsletters at any time by clicking the “unsubscribe” link that is included in every email.
 
-Log Data: When you visit this Web Site, our web servers automatically collect anonymous information that describes how our visitors use and navigate our Web Site, and which includes the number and frequency of visitors to each web page and the length of their stays, as well as the anonymous information automatically sent to us by your web browser, such as browser type, referrer data that identifies the web page visited prior and subsequent to visiting our Web Site, and IP addresses. We also may determine what technology is available through your browser in order to serve you the most appropriate version of a web page. For example, we may determine that you have installed a version of Flash, and we will then send you the appropriate Flash version of the web page rather than an HTML page. 
+  
+     **-   Booking Accommodations**  
+Certain of the Sites allow you to book accommodations at one or our hotels or resorts. To complete your reservation, we require you to provide certain information, including your, name, phone number, email address, street address and Billing Information (your “ _ **Reservation Data**_ ”). If you pay for your accommodations online or use a credit card to pay in person, we use a third-party credit card processor to process the credit card transaction (see “ _Third-Party Payment Processors_ ” below). We store your Reservation Data, along with records of your communications with us and a history of your visits, in encrypted fashion on our servers. In addition, we maintain printed guest folios that include your Reservation Data, stay history and record of correspondence for a period of seven (7) years.
 
-IP Addresses: An IP address is a number that is assigned to your computer or network when you are on the Internet. When visitors request pages from our Web Site, our servers log the visitor's IP address. We may collect IP addresses for a variety of internal purposes, such as system administration, to report aggregate information to our advertisers, and to audit the number of visits to different pages on our Web Site. 
+  
+     **-   Contests and Promotions**  
+From time to time we sponsor promotions that involve two or more of our parks or locations. Information that you provide in connection with a promotion will be shared among the participating parks. Except as described in promotional materials or contest rules, the information you provide in connection with a promotion will be maintained in accordance with this Privacy Policy.
 
-Cookies: Cookies are information files that our Web Site may place on your computer to provide extended functionality. We may use cookies for a number of purposes, such as tracking usage patterns on the Web Site, measuring the effectiveness of advertising, or limiting multiple responses and registrations when we conduct polls and sweepstakes. We do not store any PII in cookies, and we do not link the cookies to any PII we collect. We will not use cookies to retrieve information from your computer that was not originally sent by us to you in a cookie. Advertisers or other third parties that are serving content on some of our pages may set and access their own cookies on your computer. Such third parties' use of cookies is subject to their own privacy policies, which may differ from this one. Such third parties do not have access to our cookies. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit: <http://www.aboutads.info/choices/>
+## How We Use Your Information
 
-You can, of course, disable cookies on your computer by indicating this in the preferences or options menus in your browser. However, it is possible that some parts of our Web Site will not operate correctly if you disable cookies. You should consult with your browser's provider/manufacturer if you have any questions regarding disabling cookies. 
+In addition to the uses described above, we use collected information to make available and to improve our high standard of reliable services. We use such information to:
 
-Web Beacons: While you are on our Web Site, or while you are otherwise viewing our content, you may encounter Web beacons, which may come from CFEC or from third parties, such as advertisers or content providers. A Web beacon, which is sometimes also called a Web bug or "clear gif", is a small graphic image in a Web page, a Web-based document or an e-mail message, which generally allows the party that set the Web beacon to monitor certain information about the viewer of the Web page, Web-based document or e-mail message, and it may allow access to certain cookies. Web beacons are usually invisible to the user, because they are very small (generally 1-by-1 pixel). However, in general, any electronic image viewed as part of a Web page, including an advertisement, can act as a Web beacon. Web beacons typically collect the URL of the page the Web beacon comes from, the type of browser requesting the Web beacon, the IP address of the computer that the Web beacon is sent to and the time the Web beacon was viewed. Web beacons can also be linked to PII, but CFEC does not link information gathered through Web beacons to PII. CFEC may use Web beacons to count visitors to our Web pages and we may include Web beacons in HTML-formatted e-mail newsletters in order to count how many newsletters (or particular articles, links, etc.) we sent were actually opened. We aggregate all information we collect through Web beacons and we do not use Web beacons to track any individuals' use of the Web Site. CFEC does not have control over Web beacons used by third parties and does not have access to whatever information they may collect. 
+  * respond to inquiries or service requests and monitor such responses
+  * provide information about and market our products or services
+  * resolve problems
+  * manage the Sites and assess their usage and usage of the services we provide
 
-### HOW WE USE AND DISCLOSE THE INFORMATION WE COLLECT
 
-We use the PII you provide about yourself to provide the information or content you have requested, to contact you about our programs, products, features or services or for other purposes disclosed at the time of collection. For instance, we may notify you that you have won a sweepstakes, send you an e-mail newsletter or send you information about an upcoming event at the park. If you e-mail someone else a special feature from our Web Site, we will use the information you provide about someone else to send that person the requested e-mail. If you do not wish to receive information about our programs, products, features or services, you may opt out of such use by clicking "Unsubscribe" on any e-mail message sent to you. 
 
-We may send you information from our corporate affiliates. If you do not wish to receive this information, you may opt out of such use by clicking "Unsubscribe" on any e-mail message sent to you. 
+## Disclosure of Information
 
-We use non-identifying information collected on our Web Site in the aggregate to better understand your use of the Web Site and to enhance your enjoyment and experience. For example, we may use the information to improve the design and content of our Web Site or to analyze the programs and services we offer. We may also share non-identifying aggregate information with third parties. For example, we may tell advertisers how many individuals visit certain areas of our Web Site, or how many men or women receive our newsletter. 
+We do not sell or rent personally identifiable information to third parties who are not affiliates of the Company. We share information with companies that provide public relations and marketing services for us and, from time to time, with other companies who provide information about available products or services that you may be interested in. We use non-personal information that does not permit direct association with you, or non-identifiable aggregate information about our users for our business purposes and to provide the services available through the Sites. 
 
-We may share your PII outside parties who sponsor sweepstakes or other promotions on our Web Site. However, we will not share your PII with outside parties unless you specifically agree to a governing set of rules that allow such disclosure or otherwise give us permission to do so. 
+We disclose information that we believe is appropriate to cooperate in investigations of fraud or other illegal or inappropriate activity or in response to a subpoena or other legal process. For example, this means that if we conduct a fraud investigation and conclude that one side has engaged in deceptive practices, we can give that person or entity’s contact information to victims who request it. If a subpoena seeks information about you, we’ll make reasonable business efforts to contact you before providing information to the party that requests it, but we cannot guarantee that we will be able to do so. 
 
-We may employ other companies and individuals to perform functions on our behalf. For instance, we may use third parties to develop software applications and databases or to send communications on our behalf. Our employees, agents and contractors who have access to PII are required to protect the information in a manner that is consistent with this Privacy Policy. 
+We may disclose information to your agent or legal representative (such as the holder of a power of attorney that you grant, or a guardian appointed for you). As with any other business, it is possible that in the future we could merge with or be acquired by another company. If such an acquisition occurs, the successor company would have access to the information maintained by us, including customer account information, but would continue to be bound by this Policy unless and until it is amended.
 
-We may provide access to your PII when legally required to do so, to cooperate with police investigations or other legal proceedings, to protect against misuse or unauthorized use of our Web Site, to limit our legal liability and protect our rights or to protect the rights, property or safety of visitors of this Web Site or the public. In those instances, the information is provided only for that purpose. 
+## Third-Party Payment Processors
 
-CFEC may also sell, transfer or otherwise disclose user information, including PII, in connection with a corporate merger, consolidation, the sale of substantially all assets, or other fundamental corporate change. 
+When you make a purchase through our online store, we use a third-party credit card processor to process your credit card purchases. To make this possible, your name, address, email, phone number and your credit card’s type, number, expiration date and CVC number and your order total (collectively referred to as your “ _ **Billing Information**_ ”) will be shared via secure (encrypted) means with this third-party payment processor for the sole purpose of completing your order. Please note that your Billing Information is transmitted via secure means to our third-party credit card processor and stored by such third-party credit card processor and not the Company. The third-party credit card processor’s privacy policy will apply to the information you provide on the third-party credit card processor’s web site. You hereby acknowledge and agree that the Company is not affiliated in any way with the third-party credit card processor and that we have no responsibility or liability for the services provided by such third-party credit card processor or for the third-party credit card processor’s acts or omissions. Purchasing some items, such as Season Passes, allows you to choose to pay using our “Easy Pay” method. If you choose to pay for your purchases using Easy Pay our third-party credit card processor will be required to store your credit card information for purposes of processing each of the subsequent installment payments. 
 
-We will not share your PII in ways unrelated to those described above without providing you with an opportunity to opt out of such use or otherwise prohibit such unrelated uses. 
+Certain Sites allow you to choose to purchase through your Paypal account, rather than through our servers. If you elect to pay using your Paypal account, the link provided will direct you out of our Site and over to Paypal’s website. Any information you provide to Paypal on its website is governed by Paypal’s [user agreement and privacy policy](https://cms.paypal.com/us/cgi-bin/?cmd=_render-content&content_ID=ua/Legal_Hub_popup).
 
-### DATA SECURITY
+## Choice and Opt-Out
 
-We take physical, electronic and managerial steps to maintain the security and accuracy of PII we collect, including limiting the number of people who have physical access to our database servers, as well as electronic security systems and password protections that guard against unauthorized access. However, no data transmission over the Internet can be guaranteed to be 100% secure. Accordingly, we cannot ensure or warrant the security of any information you transmit to us, and you do so at your own risk. 
+We provide you the opportunity to “opt-out” of having your personally identifiable information used for certain purposes when we ask for this information. For example, if you do not wish to receive marketing material from us, you can indicate your preference in the Site’s options area. 
 
-### CONSENT TO TRANSFER
+If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each communication.
 
-This Web Site is operated in the United States. If you are located in the European Union or elsewhere outside of the United States, please be aware that any information you provide to us will be transferred to the United States. By using our Web Site, participating in any of our services and/or providing us with your information, you consent to this transfer. 
+## Use of Cookies
 
-### ACCEPTANCE
+This Site works with a first party cookie that collects anonymous traffic data at the Site. “Cookies” are simple text files stored on your computer for use by a browser. We may use “cookies” to assist in data collection and to track visitor Site usage and trends to help us better serve you. We use persistent cookies to make it easier for you to navigate a Site. If you reject cookies, you will still be able to view the Sites, but your ability to use some areas of the Sites will be limited. Some of our business partners and publishers (e.g., analytical tracking software providers) use cookies and tracking technologies on the Site. We have no access to or control over these cookies or tracking technologies. This Policy covers the use of cookies on the Sites and by us only and does not cover the use of cookies or tracking technologies by any such business partner.
 
-By using this Web Site, you accept the policies set forth in this Privacy Policy. This Privacy Policy, like the online medium itself, is subject to change, so visitors are encouraged to review this Privacy Policy from time to time. However, we will only use the PII you provide to this Web Site in a manner consistent with this Privacy Policy, unless you give us your consent. 
+## Account Security
 
-### CONTACT US
+The security of the User Profile you create on any Site relies on your protection of your User Profile Information. You are responsible for maintaining the security of your User Profile Information, including your password and for any and all activities that occur under your account. You may not share your password with anyone. We will never ask you to send your password or other sensitive information to us in an email, though we may ask you to enter this type of information on the Site. 
 
-If you have any questions, comments or concerns regarding our Privacy Policy and/or practices, please [contact us](mailto:corp.legal@cedarfair.com). 
+Any email or other communication purporting to be from one of our Sites requesting your password or asking you to provide sensitive account information via email, should be treated as unauthorized and suspicious and should be reported to us immediately by emailing [spamcontrol@cedarfair.com](mailto:spamcontrol@cedarfair.com?subject=Spam%20Control). If you believe someone else has obtained access to your password, please change it immediately by logging in to your account and selecting “My Profile” to change your password and security settings and report it immediately by emailing [spamcontrol@cedarfair.com](mailto:spamcontrol@cedarfair.com?subject=Spam%20Control).
 
-This CFEC Privacy Policy was last updated on January 30, 2008. 
+## Updating Information
 
-© Cedar Fair Entertainment Company. All rights reserved. 
+You may review, correct, update or change your personally identifiable information on your account profile, including your User Profile Information, at any time. If you are unable to edit your personally identifiable information by logging into your account please contact us for assistance.
+
+## Links and Redirection to Third Party Sites
+
+The Sites contain links to third party web sites and may redirect you to third party web sites (“ _ **Third Party Sites**_ ”). These Third Party Sites include, among others, service providers who have a relationship with the Company and social networking sites that enhance the services and products offered on the Sites. Third Party Sites are neither controlled nor endorsed by the Company. Please be aware that when you enter a Third Party Site, any information you provide, including financial information, is subject to the terms of use and privacy policy of that site.
+
+## Children’s Privacy
+
+We recognize the need to provide particular privacy protections with respect to personal information that may be collected from children on our Sites. We do not knowingly collect personal information from children in connection with the features of our Sites without the consent of a parent or guardian. We request that all visitors under 13 to our Sites not disclose or provide any personally identifiable information. Upon notification that a child under 13 has provided us with personally identifiable information, we will delete the child’s personally identifiable information from our records.
+
+## Effective Date; Policy Changes
+
+Each time you use a Site, the current version of the Policy will apply. When you use any Site, you should check the date of this Policy (which appears at the top of the Policy) and review any changes since the last version. Our business changes frequently and this Policy is subject to change from time to time. Unless stated otherwise, our current Policy applies to all information that we have about you. We will not materially change our policies and practices to make them less protective of your privacy without the consent of affected customers.
+
+## Governing Law
+
+This Policy is governed by the laws of the State of Ohio, U.S.A. without giving effect to any principles of conflict of law.
+
+## Notice to California Residents
+
+If you are a California resident, California Civil Code Section 1798.83 permits you to request information regarding the disclosure of your personal information by the Company to third parties for the third parties’ direct marketing purposes. With respect to these entities, this Policy applies only to their activities within the State of California. To make such a request, please send an email to [spamcontrol@cedarfair.com](mailto:spamcontrol@cedarfair.com?subject=Spam%20Control). 
+
+or write us:
+
+Cedar Fair Entertainment Company   
+One Cedar Point Drive   
+Sandusky, Ohio 44870   
+Attn: [Marketing]
+
+## Contact Us
+
+To contact us with your questions or comments regarding this Policy or the information collection and dissemination practices of this Site, please email us at [Marketing@cedarfair.com](mailto:marketing@cedarfair.com?subject=Privacy%20Policy%20Comment%2FQuestion). 
+
+To see the Terms of Use that apply to the Sites, [www.cedarfair.com/termsofuse](http://www.cedarfair.com/termsofuse). 
+
+All trademarks, service marks, and other proprietary materials herein are the property of Cedar Fair, L.P. and their respective owners. All rights reserved.
