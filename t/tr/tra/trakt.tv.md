@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trakt.tv privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625061609id_/http%3A//trakt.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trakt.tv privacy policy that was archived on 2014-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140719092118id_/http%3A//trakt.tv/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - trakt
 
