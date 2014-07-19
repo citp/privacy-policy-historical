@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamechanger.io privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330062943id_/http%3A//www.gamechanger.io/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamechanger.io privacy policy that was archived on 2014-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140719205901id_/https%3A//gc.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | About | GameChanger | GameChanger
 
@@ -20,7 +20,7 @@ GameChanger Media, Inc. has put in place appropriate physical, electronic and ma
 
 ##### What personal information do we collect?
 
-All registered members of the www.GameChanger.io website are requested to provide an email address and password in return for access to the site.
+All registered members of the gc.com website are requested to provide an email address and password in return for access to the site.
 
 In addition, team administrators (coaches, scorekeepers, volunteers) may input a limited amount of optional information about players on their amateur athletic teams. As of the writing of this document the following information is requested (but not required): first name, last name, position and preferred throwing and batting hand (left or right).
 
@@ -46,6 +46,6 @@ GameChanger may disclose personally identifiable information under special circu
 
 GameChanger Media, Inc. reserves the right to modify these regulations from time to time to better address your concerns or to make other additions, deletions or changes that GameChanger Media, Inc. determines to be appropriate.
 
-If you have any questions, comments or concerns regarding the GameChanger Media, Inc. privacy policy, please [contact us](http://gc.io/help).
+If you have any questions, comments or concerns regarding the GameChanger Media, Inc. privacy policy, please [contact us](http://gc.com/help).
 
 This Privacy Policy is effective as of March 24, 2010. **Updated: September 4, 2012**
