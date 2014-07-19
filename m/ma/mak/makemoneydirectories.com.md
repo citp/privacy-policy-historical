@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the makemoneydirectories.com privacy policy that was archived on 2014-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140519075619id_/http%3A//makemoneydirectories.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makemoneydirectories.com privacy policy that was archived on 2014-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140719071519id_/http%3A//makemoneydirectories.com/privacy-policy-2) for the most accurate reproduction.*
 
-# Privacy Policy | Make Money Directories
+# Make Money Directories | Privacy Policy
 
 Make Money Directories takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it.
 
@@ -16,8 +16,6 @@ Advertising partners and other third parties may also use cookies, scripts and/o
 
 Controlling Your Privacy
 
-[](http://www.moneyrobot.com/webexperts4all)
-
 Note that you can change your browser settings to disable cookies if you have privacy concerns. Disabling cookies for all sites is not recommended as it may interfere with your use of some sites. The best option is to disable or enable cookies on a per-site basis. Consult your browser documentation for instructions on how to block cookies and other tracking mechanisms.
 
 Special Note About Google Advertising
@@ -27,5 +25,3 @@ Any advertisements served by Google, Inc., and affiliated companies may be contr
 Contact Information
 
 Concerns or questions about this privacy policy can be directed to admin@makemoneydirectories.com for further clarification.
-
-## \- How To Make Money Online For Free | How To Advertise Online For Free | How To Make Money With A Website For Free
