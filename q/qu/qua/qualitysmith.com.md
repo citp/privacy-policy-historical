@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qualitysmith.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331153806id_/http%3A//www.qualitysmith.com/request/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qualitysmith.com privacy policy that was archived on 2014-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140720003213id_/http%3A//qualitysmith.com/request/privacy-policy) for the most accurate reproduction.*
 
 # 
 
