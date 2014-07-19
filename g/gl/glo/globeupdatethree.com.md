@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globeupdatethree.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625082314id_/http%3A//globeupdatethree.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globeupdatethree.com privacy policy that was archived on 2014-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140720000536id_/http%3A//globeupdatethree.com/privacy.asp) for the most accurate reproduction.*
 
 # Trivia Today
 
