@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realfreesamples.co.uk privacy policy that was archived on 2013-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130813222246id_/http%3A//realfreesamples.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realfreesamples.co.uk privacy policy that was archived on 2014-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140720131709id_/http%3A//realfreesamples.co.uk/privacy.php) for the most accurate reproduction.*
 
 # Real Free Samples
 
