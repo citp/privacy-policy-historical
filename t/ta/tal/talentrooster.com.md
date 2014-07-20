@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the talentrooster.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209103009id_/http%3A//www.talentrooster.com/talentrooster-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talentrooster.com privacy policy that was archived on 2014-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140720185943id_/http%3A//www.talentrooster.com/talentrooster-privacy-policy) for the most accurate reproduction.*
 
 # TalentRooster Privacy Policy | TalentRooster
 
