@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the arcadianhome.com privacy policy that was archived on 2013-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130816025100id_/http%3A//arcadianhome.com/p/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcadianhome.com privacy policy that was archived on 2014-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140720142459id_/http%3A//arcadianhome.com/p/privacypolicy.aspx) for the most accurate reproduction.*
 
 # 
 
 Scroll
+
+[View Terms & Conditions](https://web.archive.org/p/Terms.aspx)
 
 ## Privacy Policy (Effective 3/12/2013)
 
