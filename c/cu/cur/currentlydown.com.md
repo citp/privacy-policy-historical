@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the currentlydown.com privacy policy that was archived on 2014-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140510060950id_/http%3A//www.currentlydown.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the currentlydown.com privacy policy that was archived on 2014-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140720081044id_/http%3A//www.currentlydown.com/policy) for the most accurate reproduction.*
 
 # 
 
