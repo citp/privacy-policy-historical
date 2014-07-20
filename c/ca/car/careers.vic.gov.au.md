@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careers.vic.gov.au privacy policy that was archived on 2014-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140607015415id_/http%3A//careers.vic.gov.au/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careers.vic.gov.au privacy policy that was archived on 2014-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140720120826id_/http%3A//careers.vic.gov.au/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Careers
 
