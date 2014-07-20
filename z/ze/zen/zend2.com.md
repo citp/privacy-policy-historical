@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zend2.com privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215011257id_/https%3A//zend2.com/disclaimer.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zend2.com privacy policy that was archived on 2014-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140720061604id_/https%3A//zend2.com/disclaimer.php) for the most accurate reproduction.*
 
 # Online Anonymous Proxy
 
