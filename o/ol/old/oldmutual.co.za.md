@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oldmutual.co.za privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626063412id_/http%3A//oldmutual.co.za/about-us/governance/customer-privacy-notice.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oldmutual.co.za privacy policy that was archived on 2014-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140720055223id_/https%3A//www.oldmutual.co.za/about-us/governance/customer-privacy-notice.aspx) for the most accurate reproduction.*
 
 # Customer Privacy Notice - Old Mutual's PPI policy
 
