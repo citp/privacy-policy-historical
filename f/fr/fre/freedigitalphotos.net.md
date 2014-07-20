@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freedigitalphotos.net privacy policy that was archived on 2013-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130806174141id_/http%3A//www.freedigitalphotos.net/images/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedigitalphotos.net privacy policy that was archived on 2014-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140720032557id_/http%3A//www.freedigitalphotos.net/images/privacy-policy.php) for the most accurate reproduction.*
 
 # FreeDigitalPhotos.net Privacy Policy
 
