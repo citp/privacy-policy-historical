@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the webeden.net privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209214322id_/http%3A//www.webeden.net/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webeden.net privacy policy that was archived on 2014-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140720082917id_/http%3A//www.webeden.net/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Web Design - Webeden
+# Webeden
 
-At webeden.net we are dedicated to safeguarding and preserving your privacy when visiting our site or communicating electronically with us. 
+At WebEden.co.uk we are dedicated to safeguarding and preserving your privacy when visiting our site or communicating electronically with us. 
 
 This Privacy Policy, together with our terms of use, provides an explanation as to what happens to any personal data that you provide to us, or that we collect from you. 
 
@@ -52,4 +52,4 @@ The Data Protection Act 1998 gives you the right to access the information that 
 
 Contacting Us
 
-We welcome any queries, comments or requests you may have regarding this Privacy Policy. Please do not hesitate to contact us at [info@webeden.org](mailto:info@webeden.org).
+We welcome any queries, comments or requests you may have regarding this Privacy Policy. Please do not hesitate to contact us at [info@webeden.co.uk](mailto:info@webeden.co.uk).
