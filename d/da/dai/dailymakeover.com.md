@@ -1,168 +1,71 @@
-> *The following text is extracted and transformed from the dailymakeover.com privacy policy that was archived on 2013-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130926043933id_/http%3A//www.dailymakeover.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailymakeover.com privacy policy that was archived on 2014-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140720080252id_/http%3A//www.dailymakeover.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Daily Makeover
+# Privacy Policy | Daily Makeover
 
-Makeover Solutions, Inc. (sometimes referred to as “MOS”, “we”, “us”) is committed to ensuring your privacy protection.
+This Privacy Policy was last updated on October 3rd, 2013.
 
-The purpose of this Privacy Policy (the “Policy”) is to help you understand the kinds of information we may gather about you when you visit our Web Site,  
-www.dailymakeover.com (the “Web Site”), or use any of the services offered on the Web Site, how we may use that information, in which manner we will disclose  
-it, and how you can correct and/or update the information. Please note that be using the Web Site (and the services offered on the Web Site), you signify your  
-agreement with this Policy. If you do not agree to the terms of this Policy, please do not use the Web Site or its services.
+**Our Policy :**  
+Welcome to Daily Makeover (the “ **Site** ”) of StyleCaster, Inc.. This Site is operated by StyleCaster and has been created for users to stay on top of celebrity beauty trends, product reviews, and makeup tips. From the latest hairstyle trends to real girl makeovers, Daily Makeover reveals everyday tips and insider secrets to help you uncover your best look. (the **“StyleCaster Services”** ). This Privacy Policy sets forth StyleCaster’s policy with respect to information including personally identifiable data ( **“Personal Data”** ) and other information that is collected from Site visitors.
 
-Please note that the Policy applies only to the Web Site and its services, but not to other websites to which we may link, or to third parties or  
-advertisers on the Web Site. Additionally, your use of the Web Sites and the Web Site’s services is governed by all applicable laws, the Web Site’s Terms of  
-Use, as well as by any other published rules pertaining to either the Web Site or applicable service.
+**Information We Collect :**  
+When you interact with us through the Site, we may collect Personal Data and other information from you, as further described below:
 
-### Personal Information We Collect
+**         Personal Data That You Provide Through the Site:** We collect Personal Data from you when you voluntarily provide such information, such as when you contact us with inquiries, respond to one of our surveys, register for access to the StyleCaster Services, subscribe to our newsletter or use certain StyleCaster Services. Wherever StyleCaster collects Personal Data we make an effort to provide a link to this Privacy Policy.
 
-Personal information is any information that can be used to identify a specific individual such as your name, email address, home address, and phone number.  
-We collect personally identifiable information from you explicitly, and only when you voluntarily provide it to us or in instances in which you must provide  
-such information in order to participate in activities on the Web Site. By way of example only, you will provide personal information to us when you register  
-to use the Web Site, when you fill out a form, consummate transactions, or enter into contests, drawings or surveys.
+**By voluntarily providing us with Personal Data, you are consenting to our use of it in accordance with this Privacy Policy. If you provide Personal Data to this Site, you acknowledge and agree that such Personal Data may be transferred from your current location to the offices and servers of StyleCaster and the authorized third parties referred to herein located in the United States.**
 
-### Non-Personally Identifiable Information We Collect
+****         **** **Other Information:**
 
-When you visit the Web Site and interact with the services and tools that reside here, we and third parties with which we have to provide services to us may  
-collect non-personal information on your actions. This “non-personally identifiable information” that we collect includes information such as how many users  
-log on to the Web Site on a daily basis or view a particular article. This type of information may be automatically collected from you in connection with your  
-use of the Web Site and the services offered on the Web Site, and is generally collected from two sources — from the server log files and the other is from  
-cookies.
+****         ** **         **** _ **Non-Identifiable Data:**_ When you interact with StyleCaster through the Site, we receive and store certain personally non-identifiable information. Such information, which is collected passively using various technologies, cannot presently be used to specifically identify you. StyleCaster may store such information itself or such information may be included in databases owned and maintained by StyleCaster affiliates, agents or service providers. This Site may use such information and pool it with other information to track, for example, the total number of visitors to our Site, the number of visitors to each page of our Site, and the domain names of our visitors’ Internet service providers. It is important to note that no Personal Data is available or used in this process.
 
-### IP Address
+****         ****In operating this Site, we may use a technology called “cookies.” A cookie is a piece of information that the computer that hosts our Site gives to your browser when you access the Site. Our cookies help provide additional functionality to the Site and help us analyze Site usage more accurately. For instance, our Site may set a cookie on your browser that allows you to access the Site without needing to remember and then enter a password more than once during a visit to the Site. In all cases in which we use cookies, we will not collect Personal Data except with your permission. On most web browsers, you will find a “help” section on the toolbar. Please refer to this section for information on how to receive notification when you are receiving a new cookie and how to turn cookies off. We recommend that you leave cookies turned on because they allow you to take advantage of some of the Site’s features.
 
-Your IP address is a number that is assigned by your ISP (Internet Service Provider) to your computer to identify its location. We use your IP address to  
-help diagnose problems with our server and to administer our website.
+**         **In addition, this Site enables the use of the Adobe Flash Player. Adobe’s Flash Player is used by the vast majority of websites that offer video and other interactive content. By default, your use of the Adobe Flash Player generates “flash cookies” (also known as “persistent identification elements” or “local shared objects”). The Adobe Flash Player (and similar applications) use flash cookies to remember user settings, preferences and usage similar to the browser cookies referenced above. You can disable, delete and control the degree to which you accept flash cookies by accessing your Adobe Flash Player management tools directly through the settings manager for Adobe Flash, located [here](http://kb2.adobe.com/cps/526/52697ee8.html). If you do not allow flash cookies to take any disc space on your computer, you may not be able to take advantage of or participate in certain features on this Site.
 
-### Cookies
+**         ** **         ** _ **Aggregated Personal Data:** _In an ongoing effort to better understand and serve the users of the StyleCaster Services, StyleCaster often conducts research on its customer demographics, interests and behavior based on the Personal Data and other information provided to us. This research may be compiled and analyzed on an aggregate basis, and StyleCaster may share this aggregate data with its affiliates, agents and business partners. This aggregate information does not identify you personally. StyleCaster may also disclose aggregated user statistics in order to describe our services to current and prospective business partners, and to other third parties for other lawful purposes.
 
-The Web Site uses a feature of your browser to set a “cookie” on your computer. Cookies are small packets of information that the Web Site’s computer stores  
-on your computer. The information in the cookie is transmitted from your computer to us, our agents, or to one of our third-party authorized service  
-contractors and business partners. The information contained in these cookies makes it possible for us to know if you are presently logged onto the Web Site or  
-whether you have done so in a prior visit. This technology also enables us to instantly determine your access privileges while allowing you to navigate the Web  
-Site or any of the Web Site’s services without your having to repeatedly log in.
+**Our Use of Your Personal Data and Other Information :**  
+StyleCaster uses the Personal Data you provide in a manner that is consistent with this Privacy Policy. If you provide Personal Data for a certain reason, we may use the Personal Data in connection with the reason for which it was provided. For instance, if you contact us by e-mail, we will use the Personal Data you provide to answer your question or resolve your problem. Also, if you provide Personal Data in order to obtain access to the StyleCaster Services, we will use your Personal Data to provide you with access to such services and to monitor your use of such services. StyleCaster and its subsidiaries and affiliates (the “StyleCaster Related Companies”) may also use your Personal Data and other personally non-identifiable information collected through the Site to help us improve the content and functionality of the Site, to better understand our users and to improve the StyleCaster Services. StyleCaster and its affiliates may use this information to contact you in the future to tell you about services we believe will be of interest to you. If we do so, each communication we send you will contain instructions permitting you to “opt-out” of receiving future communications. In addition, if at any time you wish not to receive any future communications or you wish to have your name deleted from our mailing lists, please contact us as indicated below.
 
-Cookies from us and/or one of our authorized service contractors or business partners are also used to collect standard information transmitted from your  
-web browser including, without limitation: your Internet protocol address, browser type, web pages you visited with date and time, purchases you made from us  
-on the Web Site and the type of operating system on your computer. This information is used to help us understand and meet the ever-changing needs and  
-interests of our visitors and members.
+If StyleCaster intends on using any Personal Data in any manner that is not consistent with this Privacy Policy, you will be informed of such anticipated use prior to or at the time at which the Personal Data is collected.
 
-We may also use cookies to track your access to, and use of the bulletin boards on the Web Site, as well as your responses to any of our online surveys. We  
-do not control any cookies you may receive from an advertiser or other third party and these cookies are not subject to this Policy, although the advertiser  
-may have their own policy.
+**Our Disclosure of Your Personal Data and Other Information :**  
+StyleCaster is not in the business of selling your information. We consider this information to be a vital part of our relationship with you. There are, however, certain circumstances in which we may share your Personal Data with certain third parties without further notice to you, as set forth below:
 
-We also use web beacon technology to help track site usage. Web beacons (also called single pixel gifs or action tags) allow us to track page viewing counts  
-and patterns which we use to focus and tailor future content development, measure the effectiveness of our own marketing campaigns and assist with broadband  
-capacity management for the Web Site. We also may employ web beacons within the context of certain e-mails in order to determine the effectiveness and appeal  
-of those mailings. These web beacons ‘sense’ and notify us if and when you open the e-mail, if your e-mail program is capable of displaying HTML messages, and  
-where you may navigate within these HTML messages.
+****         **Business Transfers:** As we develop our business, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, dissolution or similar event, Personal Data may be part of the transferred assets.
 
-You may modify your browser preference to provide you with choices relating to cookies. You have the choice to accept all cookies, to be notified when a  
-cookie is set or to reject all cookies. If you choose to reject cookies you may be unable to use the Web Site’s services that require registration in order to  
-participate or will have to sign in each time you visit the Web Site.
+****         **Related Companies:** We may also share your Personal Data with our Related Companies for purposes consistent with this Privacy Policy.
 
-### How We Use the Information We Collect
+****         **Agents, Consultants and Related Third Parties:** StyleCaster, like many businesses, sometimes hires other companies to perform certain business-related functions. Examples of such functions include mailing information, maintaining databases and processing payments. When we employ another company to perform a function of this nature, we only provide them with the information that they need to perform their specific function.
 
-DailyMakeover.com keeps your personal information private and will not share it with any third parties without your consent. We use the information  
-collected, including personally identifiable information, for a variety of purposes. For example, we use your information to better understand your needs and  
-provide you with better products and services. We may use your information to respond to your inquiries or requests, communicate with you, update you on  
-products, services and benefits, alert you to promotional offers, personalize the Web Site for you, contact you for market research, provide you with marketing  
-information, newsletters or other information we think would be of particular interest.
+****         **Legal Requirements:** StyleCaster may disclose your Personal Data if required to do so by law or in the good faith belief that such action is necessary to (i) comply with a legal obligation, (ii) protect and defend the rights or property of StyleCaster, (iii) act in urgent circumstances to protect the personal safety of users of the Site or the public, or (iv) protect against legal liability.
 
-We may also share your personally identifiable information and/or aggregate information with our affiliates, technical consultants, third party auditors and  
-other third parties who work with us to create or maintain the Web Site, enhance its functionality or provide associated services and/or deal with you in  
-processing your orders and/or delivering content, samples, products, services and gifts and prizes.
+**Your Choices :**  
+You can use the Site without providing any Personal Data. If you choose not to provide any Personal Data, you may not be able to use certain StyleCaster Services.
 
-Our advertising is currently served by third party advertising companies which deliver a cookie to you so the ads you see can be tracked and ensure that you  
-are not shown the same ad too many times. Since the third party advertising company only tags your computer with a number, they know nothing about who you are.  
-We do not provide these third party advertising companies with any personally identifiable information. However, these companies may use non-personally  
-identifiable information about your visits to the Web Site and other sites with which they have arrangements in order to provide advertisements about goods and  
-services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these  
-companies, click [here](http://www.networkadvertising.org/optout_nonppii.asp) and [here](http://www.doubleclick.net/us/corporate/privacy)
+**Exclusions :**  
+This Privacy Policy does not apply to any Personal Data collected by StyleCaster other than Personal Data collected through the Site. This Privacy Policy shall not apply to any unsolicited information you provide to StyleCaster through this Site or through any other means. This includes, but is not limited to, information posted to any public areas of the Site, such as bulletin boards (collectively, “Public Areas”), any ideas for new products or modifications to existing products, and other unsolicited submissions (collectively, “Unsolicited Information”). All Unsolicited Information shall be deemed to be non-confidential and StyleCaster shall be free to reproduce, use, disclose, and distribute such Unsolicited Information to others without limitation or attribution.
 
-Please note that we reserve the right to access and/or disclose personal information and aggregate information we gather, as required by courts or  
-administrative agencies and to the extent required to permit us to investigate suspected fraud, harassment or other violations of any law, rule or regulation,  
-the Web Site’s rules or policies, or the rights of third parties or to investigate any suspected conduct which we deem to be improper.
+**Children :**  
+StyleCaster does not knowingly collect Personal Data from children under the age of 13. If you are under the age of 13, please do not submit any Personal Data through the Site. We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce our Privacy Policy by instructing their children never to provide Personal Data on this Site without their permission. If you have reason to believe that a child under the age of 13 has provided Personal Data to StyleCaster through this Site, please contact us, and we will endeavor to delete that information from our databases.
 
-### Targeted Advertising
+**Links to Other Web Sites :**  
+This Privacy Policy applies only to the Site. This Site may contain links to other web sites not operated or controlled by StyleCaster (the “Third Party Sites”). The policies and procedures we described here do not apply to the Third Party Sites. The links from this Site do not imply that StyleCaster endorses or has reviewed the Third Party Sites. We suggest contacting those sites directly for information on their privacy policies.
 
-We believe that advertising on the Internet is more interesting to the user when it is relevant. Therefore, through the use of your non-personally  
-identifiable information and technologies such as cookies, we and our business partners may deliver advertisements that are targeted towards your particular  
-interests and your behavior on the Internet. This is sometimes called behavioral advertising.
+**Social Media :**  
+Through the Site, you can choose to access certain social media websites and services that are owned and/or controlled by third parties (including, without limitation, Facebook, Twitter, Pinterest and Instagram) (such websites and services, collectively, the “Social Media Services”). When you elect to access and use the Social Media Services, you will be sharing your information (which will include personal information if you elect to share such information) with those Social Media Services. As with other Third Party Sites, the information that you share with the Social Media Services will be governed by the privacy policies and terms of service of the providers of such Social Media Services and not by the policies and procedures we describe here. You may also be able to modify your privacy settings with these Social Media Services to, for example, control what information the Social Media Services disclose to other entities, including StyleCaster. When you choose to log into the Site using your Social Media Services account or to share information through a Social Media Service, we will collect relevant information necessary to enable the Site to access that Social Media Service, however you will provide your login information, like your password, directly to such Social Media Service (and not to StyleCaster). As part of such integration, the Social Media Service will provide StyleCaster with access to certain information that you have provided to such Social Media Service, and we will use, store and disclose such information in accordance with this Privacy Policy and, if and to the extent applicable, the policies of such Social Media Services. However, please remember that the manner in which Social Media Services use, store and disclose your information is governed by the policies of the applicable Social Media Services provider, and, as a result, StyleCaster shall not have any liability or responsibility for the privacy practices or other actions of Social Media Services that may be enabled within and/or otherwise accessible through the Site.
 
-Advertising may be delivered to you based upon the non-personally identifiable information you have provided to us (such as your interests and demographic  
-data) and non-personally identifiable information we collect ourselves from you (such as the pages you have viewed on the Web Site or articles you have  
-accessed). For instance, if you expressed an interest in cosmetics or have been reading material on the Site about cosmetics, we may serve advertisements  
-specifically to you regarding this topic. These targeted advertisements may also appear on the web sites of our business partners which are not owned or  
-controlled by MOS.
+**Security :**  
+StyleCaster takes reasonable steps to protect the Personal Data provided via the Site from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. However, no Internet or e-mail transmission is ever fully secure or error free. In particular, e-mail sent to or from this Site may not be secure. Therefore, you should take special care in deciding what information you send to us via e-mail. Please keep this in mind when disclosing any Personal Data to StyleCaster via the Internet.
 
-If you do not want to receive such targeted advertisements, then follow the instructions in the section titled “Cookies” on modifying your browser settings  
-relating to cookies.
+**Other Terms and Conditions :**  
+Your access to and use of this Site is subject to the Terms of Use
 
-### Message Board and Chats
+**Changes to StyleCaster’s Privacy Policy :**  
+The Site and our business may change from time to time. As a result, at times it may be necessary for StyleCaster to make changes to this Privacy Policy. StyleCaster reserves the right to update or modify this Privacy Policy at any time and from time to time without prior notice. Please review this policy periodically, and especially before you provide any Personal Data. This Privacy Policy was last updated on the date indicated above. Your continued use of the Site after any changes or revisions to this Privacy Policy shall indicate your agreement with the terms of such revised Privacy Policy.
 
-Among the many services we offer on the Web Site, we provide voluntary message boards, chat rooms and other interactive forums. Please be aware that we make  
-no commitment to monitor these forums. Furthermore, any information which you may post to a forum, including your personally identifiable information, will be  
-disclosed and available to all users of that forum, and is therefore no longer private. By using the forums, you agree that we are not responsible for any  
-information that you disclose or communicate online in such forums, and any disclosures you make are at your own risk. We reserve the right to republish your  
-postings (in whole or part), taken from the forums, anywhere on the Web Site or elsewhere on the Web in any format or any other medium, including print and  
-radio, and may include the author’s Web Site member name, without prior notice or your express consent.
+**Access to Information; Contacting StyleCaster:**  
+To keep your Personal Data accurate, current, and complete, please contact us as specified below. We will take reasonable steps to update or correct Personal Data in our possession that you have previously submitted via this Site.  
+Please also feel free to contact us if you have any questions about StyleCaster’s Privacy Policy or the information practices of this Site.
 
-### Children’s Information
-
-Our policy is that we do not knowingly collect personally identifiable information from individuals under thirteen years of age. The Web Site and the  
-services offered on the Web Site are not directed or intended for children under thirteen years of age. If you are under thirteen years of age, you should not  
-register to become an All-Access Member or provide personally identifiable information on the Web Site. If you are the parent or guardian of a child whom you  
-believe has disclosed personally identifiable information to us, please contact us at [privacy@dailymakeover.com](https://web.archive.org/contact/6) so that we may delete  
-and remove such child’s information from our systems.
-
-### Disclosure of Personal Information in the Event of Merger or Sale of Assets
-
-MOS, its parent, subsidiaries or affiliates, could merge with or be acquired by another business entity, or all or substantially all of their respective  
-assets could be acquired, or the assets of this Web Site could be acquired or transferred to another business entity. Should such a combination, acquisition,  
-transaction or transfer occur, we reserve the right to transfer some or all of your personally identifiable information and other information to our successors  
-in business and purchasers (in whole or in part) of this Web Site’s assets.
-
-### Co-branded and Other Affiliated Sites
-
-Certain information or services offered or provided through the Web Site may, from time to time, be provided on or through other websites operated by or in  
-conjunction with third parties (“Partners”). These websites and their features may have the same “look and feel” as the Web Site. We term these websites  
-“co-branded sites”, and often times a Partner’s logo or name may appear, or the Partner’s name may be part of the URL. Although we will retain any personally  
-identifiable information collected about you from one of these co-branded sites, such information may also be shared by us with that Partner. A Partner’s use  
-of any information shared will be subject to the Partner’s own privacy practices and policies.
-
-### Third Party Links
-
-We do not monitor, control or endorse the information collection or privacy practices of any third parties including, without limitation, any Partner,  
-advertiser or other third party that may provide services on the Web Site. On behalf of various sponsors, the Web Site may provide sponsored links to  
-third-party websites or resources (“Linked Sites”). We neither control nor have we reviewed or approved the content that appears on such Linked Sites. Even  
-though certain information collected by such third parties might not identify you personally, we strongly encourage you to become familiar with their privacy  
-practices, and to contact them if you have any questions about their respective privacy policies and practices.
-
-### Security
-
-We place a priority on the security of personally identifiable information, and we undertake reasonable security measures to protect the data that resides  
-on our servers. We also use secure server software (SSL) to process all transactions which occur on the Web Site. SSL encrypts your personal information  
-transmitted over the Internet, including your credit card number, name and address. However, no security system is impenetrable. We cannot warrant or guaranty  
-the security of its servers, nor can we guarantee that information supplied by All-Access Members or other users will not be intercepted while being  
-transmitted over the Internet.
-
-### Correction/Updating Personal Information – Opt-Out
-
-If your personally identifiable information changes (such as your address, zip code), or if you no longer desire to use or access the Web Site or any of its  
-services, we encourage you to correct, update or remove the personal information that you provided. This can be done at the “Manage My Account” page for the  
-Web Site. Keep in mind, however, that even if you delete your account from our records, there will be residual information that will remain within our  
-databases, access logs, and other records, which may or may not contain personally identifiable information. We are not responsible for updating or removing  
-any information contained in third-party lists or databases.
-
-### How to Contact Us
-
-Please send any questions you may have pertaining to our above stated policies to us at [support@dailymakeover.com](https://web.archive.org/contact/6), at 212-239-9010  
-or via mail at 35W 31st Street, 4th Floor, New York, NY, 10001.
-
-### Privacy Policy Changes
-
-This Policy was last changed in March 2008. If we make changes to any of the terms or conditions of the Policy, this document will be revised so that you  
-will always know what information we gather, how we might use that information and to whom we will disclose it. We reserve the right to change, modify, add or  
-remove portions of this Policy at any time and without notice, and any changes will become effective immediately upon being posted unless we advise you  
-otherwise. Your continued use of the Web Site and the services offered on the Web Site after this Policy has been amended shall be deemed to be your continued  
-acceptance of the terms and conditions of the Policy, as amended. We encourage you to bookmark this web page and review this Policy regularly.
+You may contact us as follows: [_privacy@stylecaster.com_](mailto:privacy@stylecaster.com)
