@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the medicinescomplete.com privacy policy that was archived on 2013-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131028091655id_/http%3A//www.medicinescomplete.com/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medicinescomplete.com privacy policy that was archived on 2014-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140720152801id_/https%3A//www.medicinescomplete.com/about/privacy.htm) for the most accurate reproduction.*
 
-# Cookie and Privacy Policy: Welcome
+# Cookie and Privacy Policy: MedicinesComplete
 
-This Website www.medicinescomplete.com (`Website`) is operated by Pharmaceutical Press, the publications division of the **Royal Pharmaceutical Society of Great Britain** (Company Number RC000799) whose registered office is 1 Lambeth High Street, London, SE1 7JN, England (`PhP`).
+This Website www.medicinescomplete.com (`Website`) is operated by Pharmaceutical Press, the publications division of the **Royal Pharmaceutical Society of Great Britain** (Company Number RC000799) whose registered office is 1 Lambeth High Street, London, SE1 7JN, England (`PhP`). 
 
-This Cookie and Privacy Policy covers this Website [www.medicinescomplete.com](http://www.medicinescomplete.com/) (the " **Website** "). PhP respects the privacy of every individual who visits this Website. This Policy sets out how PhP may use or disclose personal information about visitors to this Website and their rights in relation to that information. By entering and using this Website you are deemed to accept all terms and conditions outlined in this Policy.
+This Cookie and Privacy Policy covers this Website [www.medicinescomplete.com](http://www.medicinescomplete.com/) (the " **Website** "). PhP respects the privacy of every individual who visits this Website. This Policy sets out how PhP may use or disclose personal information about visitors to this Website and their rights in relation to that information. By entering and using this Website you are deemed to accept all terms and conditions outlined in this Policy. 
 
 ## 1\. Collection of Personal Information from Website Visitors
 
@@ -28,7 +28,7 @@ Type: Google Analytics
 
 Name: _utma _utmb _utmc _utmz
 
-Reason for use: We collect anonymous information about all website visitors, such as the number of times a page is visited and searches performed using the search function. This information is used in order to understand how the website is being used and this helps us improve your user experience. For more information please visit [www.google.com/analytics/learn/privacy.html](http://www.google.com/analytics/learn/privacy.html).
+Reason for use: We collect anonymous information about all website visitors, such as the number of times a page is visited and searches performed using the search function. This information is used in order to understand how the website is being used and this helps us improve your user experience. For more information please visit [www.google.com/analytics/learn/privacy.html](http://www.google.com/analytics/learn/privacy.html). 
 
 Type: Session Cookie
 
@@ -42,7 +42,7 @@ Name: d0 sdo _uservoice_tz _uservoice_utcd _csuid
 
 Reason for use: These cookies help govern access to the site and are needed for the login process, subscription information and the timeout function. Without these cookies you will not be able to access the site and will be redirected to a page requiring you to turn cookies on. The MedicinesComplete Feedback function also uses persistent cookies if you choose to provide feedback using this method.
 
-You may decline or disable cookies when using the website. However if you disable certain persistent cookies (such as d0) you will not be able to access the site and will be redirected to a page requiring you turn cookies on. By disabling other cookies the site will not recognise you when you return and the payment, feedback and shopping basket functions will not work. As the means by which you can refuse cookies varies from browser to browser, please consult your web browser's help menu for further information on how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Further information on deleting or controlling cookies is available at [www.AboutCookies.org](http://www.aboutcookies.org/).
+You may decline or disable cookies when using the website. However if you disable certain persistent cookies (such as d0) you will not be able to access the site and will be redirected to a page requiring you turn cookies on. By disabling other cookies the site will not recognise you when you return and the payment, feedback and shopping basket functions will not work. As the means by which you can refuse cookies varies from browser to browser, please consult your web browser's help menu for further information on how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Further information on deleting or controlling cookies is available at [www.AboutCookies.org](http://www.aboutcookies.org/). 
 
 ## 2\. Use of Personal Data Collected
 
@@ -55,6 +55,8 @@ Financial information is used for billing purposes and to fulfil customers' orde
 Aggregate data (which does not identify individuals) on home server domain names, operating system, referral URL and type of web browser may be used for internal purposes. Your name, IP address and login details (email address and password) are used to gain access to the Website.
 
 Individually identifying information, such as names, postal and e-mail addresses, phone numbers, and other personal information, which visitors voluntarily provide to PhP, may be added to the PhP databases and used for future calls and mailings regarding Website updates, new products and services, upcoming events and the status of orders placed online. See section 6 for details on opting out.
+
+The personal data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). Please be aware that such countries may not offer the same level of data protection as countries within the EEA. Your personal data may also be processed by staff operating outside the EEA who work for us or for one of our affiliated organisations. By submitting your personal data, you agree to the transfer, storing and processing of your data in this way. We will take all steps reasonably necessary to ensure that your data is treated securely, in accordance with this privacy policy and in accordance with European Standards.
 
 ## 3\. Disclosure of Personal Data to Third Parties
 
@@ -90,4 +92,4 @@ This Policy is effective as of 30 May 2012. PhP reserves the right to change thi
 
 ## 10\. How to Contact Us
 
-See the [contacts](https://web.archive.org/mc/marketing/current/contact.htm) page for details of how to contact us.
+See the [Contact Us](https://web.archive.org/web/20140720152801id_/https%3A//www.medicinescomplete.com/about/contact.htm) page for details of how to contact us. 
