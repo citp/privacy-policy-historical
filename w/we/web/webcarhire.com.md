@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webcarhire.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625100655id_/https%3A//www.webcarhire.com/Content/documents/WebcarhirePrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webcarhire.com privacy policy that was archived on 2014-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140720165834id_/http%3A//www.webcarhire.com/Content/documents/WebcarhirePrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Webcarhire : Privacy Policy
 
