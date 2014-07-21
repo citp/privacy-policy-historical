@@ -1,0 +1,330 @@
+<!--The following is the downloaded HTML source of the moviediscussionclub.com privacy policy that was archived on 2014-07-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140721201336id_/http%3A//moviediscussionclub.com/page/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb"><head>
+        <title>Privacy Policy — Movie Discussion Club</title>
+                    <link href="/css/bootstrap.css" rel="stylesheet">
+                        <link href="/css/default.css" rel="stylesheet">
+                        <link href="/css/template.css" rel="stylesheet">
+                        <link href="/css/touch.gallery.css" rel="stylesheet">
+                        <link href="/css/responsive.css" rel="stylesheet">
+                        <link href="/css/komento.css" rel="stylesheet">
+                        <link href="/css/layout.css" rel="stylesheet">
+                        <link href="/css/superfish.css" rel="stylesheet">
+                        <link href="/css/superfish-navbar.css" rel="stylesheet">
+                        <link href="/css/superfish-vertical.css" rel="stylesheet">
+                        <link href="/css/caroufredsel.css" rel="stylesheet">
+                        <link href="/css/custom.css" rel="stylesheet">
+            
+                            <script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;appId=302991879868539&amp;version=v2.0"></script><script src="/js/jquery.min.js"></script>
+                            <script src="/js/bootstrap.js"></script>
+                            <script src="/js/sftouchscreen.js"></script>
+                            <script src="/js/superfish.js"></script>
+            
+            <link href="//fonts.googleapis.com/css?family=Fjalla+One" rel="stylesheet" type="text/css">
+                <link href="//fonts.googleapis.com/css?family=Roboto+Condensed:400,700" rel="stylesheet" type="text/css">
+                    </head>
+
+                    <body>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=302991879868539&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+<script>
+$(document).ready(function () { 
+    $("#login-link").popover({
+        trigger: 'click',
+        placement: 'bottom',
+        content: '<form class="form-horizontal">    <div><input type="text" name="email" id="email_login" placeholder="Email"></div>    <div><input type="password" name="password" id="password_login" placeholder="Password"></div>    <div class="row-fluid" style="margin-bottom: -30px;">        <div class="span6"><a href="">Forgot password?</a></div>        <div class="span6" style="text-align: right;"><a href="javascript:login_popover();" class="btn-text">Login</a></div>    </div></form>',
+        html: true
+    });
+    
+    $("#signup-link").popover({
+        trigger: 'click',
+        placement: 'bottom',
+        content: '<form class="form-horizontal">    <div><input type="text" id="nickname_signup" name="nickname" placeholder="Nickname"></div>    <div><input type="text" id="email_signup" name="email" placeholder="Email"></div>    <div><input type="password" id="password_signup" name="password" placeholder="Password"></div>    <div><input type="password" id="password_confirm_signup" name="confirm_password" placeholder="Confirm Password"></div>    <div class="row-fluid" style="margin-bottom: -30px;">        <div class="span6"></div>        <div class="span6" style="text-align: right;"><a href="javascript:signup_popover();" class="btn-text">Sign up</a></div>    </div></form>',
+        html: true
+    });
+    
+    $('#logo-pointer').css($('#logo').offset());
+    $('#logo-pointer').click(function () {
+        window.location.href = '/';
+    });
+    
+    $('#search-link').click(function() {$('#search-form').submit();});
+    
+    
+    $(window).scroll(function () {
+		if ($(this).scrollTop() > 100) {
+			$('#back-to-top-container').fadeIn();
+		} else {
+			$('#back-to-top-container').fadeOut();
+		}
+	});
+	$('#back-to-top-container').click(function () {
+		$('body,html').stop(false, false).animate({
+			scrollTop: 0
+		}, 0);
+		return false;
+	});
+});
+
+function login_popover() {
+    var email = $('#email_login').val();
+    var password = $('#password_login').val();
+    
+    $('#email_login').removeClass('error');
+    $('#password_login').removeClass('error');
+    
+    $.ajax({
+        url: '/auth/login',
+        type: 'POST',
+        dataType: 'json',
+        data: {'email': email, 'password': password},
+        success: function (data) {
+            if (data.success) {
+                window.location.reload();
+            } else {
+                $('#email_login').addClass('error');
+                $('#password_login').addClass('error');
+            }
+        }
+    });
+}
+
+function signup_popover() {
+    var nickname = $('#nickname_signup').val();
+    var email = $('#email_signup').val();
+    var password = $('#password_signup').val();
+    var password_confirm = $('#password_confirm_signup').val();
+    
+    $('#nickname_signup').removeClass('error');
+    $('#email_signup').removeClass('error');
+    $('#password_signup').removeClass('error');
+    $('#password_confirm_signup').removeClass('error');
+    
+    $.ajax({
+        url: '/auth/signup',
+        type: 'POST',
+        dataType: 'json',
+        data: {'email': email, 'password': password, 'password_confirm': password_confirm, 'nickname': nickname},
+        success: function (data) {
+            if (data.success) {
+                window.location.reload();
+            } else {
+                $.each(data.error_fields, function (index, value) {
+                    $('#' + value + '_signup').addClass('error');
+                });
+            }
+        }
+    });
+}
+</script>                        
+<div id="logo-pointer"></div>
+<!-- Body -->
+<div id="wrapper">
+    <div class="wrapper-inner">
+
+        <!-- Top -->
+        <div id="top-row">
+            <div class="row-container">
+                <div class="container">
+                    <!-- Logo -->
+                    <div id="logo">
+                        <a href="/"><object type="application/x-shockwave-flash" data="/images/logo.swf" width="230" height="150"><param name="movie" value="/images/logo.swf"><param name="wmode" value="transparent"></object></a>
+                    </div>
+
+                    <ul class="top-menu">
+                                                <li><a id="login-link" data-original-title="Login" rel="popover" href="#">Login</a></li>
+                        <li><a id="signup-link" data-original-title="Signup" rel="popover" href="#">Sign Up</a></li>
+                         
+                        <li><a href="/page/contacts">Contacts</a></li>
+                        <li>
+                            <form action="/search" method="get" class="form-horizontal" id="search-form" style="margin: 0; display: inline-block">
+                                <input name="query" maxlength="20" type="text" size="20" placeholder="Search...">
+                                <a href="#" id="search-link">Search</a>
+                            </form>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+
+            <div id="navigation-row">
+                <div class="row-container">
+                    <div class="container">
+                        <nav>
+                            <div class="moduletable navigation">
+                                <ul class="sf-menu">
+                                    <li><a href="/">home</a></li>
+                                    <li><a href="/reviews">movie reviews</a></li>
+                                    <li>
+                                        <a href="/news">movie news</a>
+                                        <ul>
+                                                                                        <li><a href="/news/best-old-movies">Best old movies</a></li>
+                                                                                        <li><a href="/news/celebrity-news">Celebrity news</a></li>
+                                                                                        <li><a href="/news/critics-picks">Critics` picks</a></li>
+                                                                                        <li><a href="/news/events">Events</a></li>
+                                                                                        <li><a href="/news/movie-reviews">Movie reviews</a></li>
+                                                                                        <li><a href="/news/upcoming-releases">Upcoming releases</a></li>
+                                                                                    </ul>
+                                    </li>
+                                    <li>
+                                        <a href="/movies">movies</a>
+                                        <ul>
+                                                                                        <li><a href="/movies/action">Action</a></li>
+                                                                                        <li><a href="/movies/adventure">Adventure</a></li>
+                                                                                        <li><a href="/movies/animation">Animation</a></li>
+                                                                                        <li><a href="/movies/biography">Biography</a></li>
+                                                                                        <li><a href="/movies/comedy">Comedy</a></li>
+                                                                                        <li><a href="/movies/crime">Crime</a></li>
+                                                                                        <li><a href="/movies/documentary">Documentary</a></li>
+                                                                                        <li><a href="/movies/drama">Drama</a></li>
+                                                                                        <li><a href="/movies/family">Family</a></li>
+                                                                                        <li><a href="/movies/fantasy">Fantasy</a></li>
+                                                                                        <li><a href="/movies/history">History</a></li>
+                                                                                        <li><a href="/movies/horror">Horror</a></li>
+                                                                                        <li><a href="/movies/music">Music</a></li>
+                                                                                        <li><a href="/movies/musical">Musical</a></li>
+                                                                                        <li><a href="/movies/mystery">Mystery</a></li>
+                                                                                        <li><a href="/movies/news">News</a></li>
+                                                                                        <li><a href="/movies/romance">Romance</a></li>
+                                                                                        <li><a href="/movies/sci-fi">Sci-Fi</a></li>
+                                                                                        <li><a href="/movies/short">Short</a></li>
+                                                                                        <li><a href="/movies/sport">Sport</a></li>
+                                                                                        <li><a href="/movies/thriller">Thriller</a></li>
+                                                                                        <li><a href="/movies/war">War</a></li>
+                                                                                        <li><a href="/movies/western">Western</a></li>
+                                                                                    </ul>
+                                    </li>
+                                    <li><a href="/actors">actors</a></li>
+                                </ul>
+
+                                <script type="text/javascript">
+                                    // initialise plugins
+                                    jQuery(function() {
+                                        jQuery('ul.sf-menu')
+
+                                                .superfish({
+                                                    hoverClass: 'sfHover',
+                                                    pathClass: 'overideThisToUse',
+                                                    pathLevels: 1,
+                                                    delay: 500,
+                                                    animation: {opacity: 'show', height: 'show'},
+                                                    speed: 'normal',
+                                                    speedOut: 'fast',
+                                                    autoArrows: false,
+                                                    disableHI: false,
+                                                    useClick: 0,
+                                                    easing: "swing",
+                                                    onInit: function() {
+                                                    },
+                                                    onBeforeShow: function() {
+                                                    },
+                                                    onShow: function() {
+                                                    },
+                                                    onHide: function() {
+                                                    },
+                                                    onIdle: function() {
+                                                    }
+                                                });
+                                    });
+                                </script></div>
+                        </nav>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Main Content row -->
+            <div id="content-row">
+                <div class="row-container">
+                    <div class="container">
+                        <div class="content-inner row">
+                            <div id="component" class="span12">                        
+                                <div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <h3>Privacy Policy</h3>
+            <p>At www.moviediscussionclub.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.moviediscussionclub.com and how it is used.<br>
+Log Files</p>
+<p>Like many other Web sites, www.moviediscussionclub.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.<br>
+Cookies and Web Beacons</p>
+<p>www.moviediscussionclub.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.</p>
+<p>Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense, Chitika, Adbrite and BlogAds.</p>
+<p>These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.moviediscussionclub.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.</p>
+<p>www.moviediscussionclub.com has no access to or control over these cookies that are used by third-party advertisers.</p>
+<p>You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.moviediscussionclub.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.</p>
+<p>If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.</p>
+        </div>
+    </div>
+</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            </div>
+            </div>
+
+            <div id="footer-wrapper">
+                <div class="footer-wrapper-inner">
+                    <!-- Footer -->
+                    <div id="footer-row">
+                        <div class="row-container">
+                            <div class="container">
+                                <div id="footer" class="row">
+                                    <div class="span2">
+                                        <h5>For visitors</h5>
+                                        <ul>
+                                            <li><a href="/">Home</a></li>
+                                            <li><a href="/reviews">Movie reviews</a></li>
+                                            <li><a href="/news">Movie news</a></li>
+                                            <li><a href="/movies">Movies</a></li>
+                                            <li><a href="/actors">Actors</a></li>
+                                        </ul>
+                                    </div>
+                                    <div class="span2">
+                                        <h5>Movie Discussion Club</h5>
+                                        <ul>
+                                            <li><a href="/page/contacts">Contact us</a></li>
+                                            <li><a href="/page/tos">Terms of Service</a></li>
+                                            <li><a href="/page/privacy">Privacy Policy</a></li>
+                                        </ul>
+                                    </div>
+                                    <div class="offset4 span4">
+                                        <div class="fb-like-box" data-href="https://www.facebook.com/moviediscussionclub" data-colorscheme="dark" data-show-faces="true" data-header="true" data-stream="false" data-show-border="true"></div>
+                                    </div>
+
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Copyright -->
+                    <div id="copyright-row">
+                        <div class="row-container">
+                            <div class="container">
+                                <div class="row">
+                                    <!-- Logo -->
+                                    <div id="copyright" class="span6">
+                                        <span class="siteName">Movie Discussion Club</span> <span class="copy">©</span> <span class="year">2014</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    </div>
+                    </div>
+                    <div id="back-to-top-container" style="display: block;">
+                        <div id="back-to-top" class="visible-desktop">
+                            <nobr>↑ Up</nobr>
+                        </div>
+                    </div>
+                    </div>
+                    
+                    
+</body></html>
