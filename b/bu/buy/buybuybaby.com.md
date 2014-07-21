@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buybuybaby.com privacy policy that was archived on 2014-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140416143220id_/http%3A//www.buybuybaby.com/store/static/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buybuybaby.com privacy policy that was archived on 2014-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140721071834id_/http%3A//www.buybuybaby.com/store/static/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy - buybuyBaby.com
 
