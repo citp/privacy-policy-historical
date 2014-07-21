@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the doordash.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326154728id_/https%3A//www.doordash.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doordash.com privacy policy that was archived on 2014-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140722011734id_/https%3A//www.doordash.com/privacy) for the most accurate reproduction.*
 
 # DoorDash Food Delivery | Privacy Policy
 
