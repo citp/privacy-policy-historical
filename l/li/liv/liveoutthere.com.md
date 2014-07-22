@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liveoutthere.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326114144id_/https%3A//www.liveoutthere.com/privacy-policy%3Fcamp%3Donsite%26loc%3Dfooter-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveoutthere.com privacy policy that was archived on 2014-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140722055032id_/https%3A//www.liveoutthere.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
