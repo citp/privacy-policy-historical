@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpsave.com privacy policy that was archived on 2014-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140521042612id_/http%3A//wpsave.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpsave.com privacy policy that was archived on 2014-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140722133537id_/http%3A//wpsave.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WPSave.com
 
