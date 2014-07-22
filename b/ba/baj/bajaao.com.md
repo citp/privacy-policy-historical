@@ -1,14 +1,6 @@
-> *The following text is extracted and transformed from the bajaao.com privacy policy that was archived on 2013-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130126092822id_/http%3A//46.20.125.4/shop/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bajaao.com privacy policy that was archived on 2014-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140722032837id_/http%3A//www.bajaao.com/privacy-policy-bajaao-music-private-ltd) for the most accurate reproduction.*
 
-# Privacy Policy - BAJAAO - Buy online and Review Musical Instruments, Pro Audio, Studio, P.A. Audio Equipment in India
-
-390
-
-com_content.article
-
-(2 votes, average 3.50 out of 5) 
-
-Privacy Policy3.50 out of 5 based on 2 voters.
+# Privacy Policy
 
 At BAJAAO Music Private Limited ("BAJAAO"), we are committed to protecting the privacy of our customers and users of our web site located at www.bajaao.com (the "Site") . This privacy policy ("Privacy Policy") gives you details of our privacy practices, including (a) what information we collect about you when you use the Site; (b) how the information will be used or disclosed; and (c) your rights with respect to our collection and use of your data. We may modify these policies from time to time and will provide notice of any major changes by posting such notice on the Site.
 
@@ -68,14 +60,14 @@ If you have any questions about this Privacy Policy, the privacy practices of th
 
 BAJAAO Music Pvt Ltd (India)
 
-Address:  
-Jaisingh Business Center  
-Sahar Road, Parsiwada,  
-Andheri East  
-Mumbai  
+Address:
+
+323/324, 3rd Floor, Building No. 9, Laxmi Plaza,   
+Near Gate No.3, Laxmi Industrial Estate,  
+New Link Road, Andheri West,   
+Mumbai 400053  
 Maharashtra  
-400099  
-India
+India.
 
 **FINANCIAL INFORMATION**
 
