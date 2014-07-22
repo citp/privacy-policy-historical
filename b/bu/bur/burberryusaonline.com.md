@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the burberryusaonline.com privacy policy that was archived on 2013-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130925024431id_/http%3A//us.burberry.com/store/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the burberryusaonline.com privacy policy that was archived on 2014-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140722222224id_/http%3A//us.burberry.com/legal-cookies/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Burberry
+# Burberry - STORE
 
 **Please read this privacy statement carefully. By accessing or using our website, you acknowledge that you have read, understood, and unconditionally agree to be bound by the terms of this privacy statement and the terms and conditions on this website and any changes made to the foregoing. If you do not agree to this privacy statement, you are not authorized to use this website. You should check this statement regularly to see if any changes have been made.**
 
@@ -10,7 +10,7 @@ We have made changes to this Privacy Statement which are effective as of the abo
 
 Burberry Limited, (who we refer to as "we", "us" and "our" below), take your privacy very seriously. This Privacy Statement explains what personal information and other data we collect from you through our website and through our stores and other business locations and activities including offline collection, how and when it is collected, what we use it for now and how we will use it in the future and details of the circumstances in which we may disclose it to third parties. If you provide your personal information to us offline, this Privacy Statement applies to our collection and use of your information. If you have any questions about the way in which your information is being collected or used which are not answered by this Privacy Statement and/or any complaints please contact us on [customerservice@burberry.com](mailto:customerservice@burberry.com).
 
-By visiting and using [www.burberry.com](http://www.burberry.com/) (the “ **Website** ”)or any other application or website (“ **Application** ”) for the purchase or sampling of products from Burberry (as applicable) or providing personal information to us on the Website or any Application, you are consenting to the practices in relation to use and disclosure of your personal information described in this Privacy Statement and our [Terms and Conditions](https://web.archive.org/store/legal/terms-conditions/).
+By visiting and using [www.burberry.com](http://www.burberry.com/) (the “ **Website** ”)or any other application or website (“ **Application** ”) for the purchase or sampling of products from Burberry (as applicable) or providing personal information to us on the Website or any Application, you are consenting to the practices in relation to use and disclosure of your personal information described in this Privacy Statement and our [Terms and Conditions](https://web.archive.org/legal-cookies/terms-conditions/).
 
 If you are between the ages of 13 and 17, please obtain your parent's or guardian's consent before providing us with any personal information. This website is not intended for or directed to persons under the age of 13. Any person who provides their information to us through the website or any other part of the website represents to us that they are 13 years of age or older.
 
@@ -32,13 +32,13 @@ Cookies are small pieces of information which are issued to your computer when y
 
 We use cookies to elevate your user experience and the quality of our site and service. This includes keeping track of what you have in your shopping bag, remembering you when you return to our site, identifying how you navigate around the internet, including where you click, and which website you arrived from.
 
-By continuing to use this site, you consent to our cookie settings and agree that you understand our [Cookies Policy](https://web.archive.org/store/legal/cookie-policy/) which explains how you can manage your cookie choices and preferences. Please be aware that restricting cookies will impact on your user experience and may prevent you from using part of our site.
+By continuing to use this site, you consent to our cookie settings and agree that you understand our [Cookies Policy](https://web.archive.org/legal-cookies/cookie-policy/) which explains how you can manage your cookie choices and preferences. Please be aware that restricting cookies will impact on your user experience and may prevent you from using part of our site.
 
 **HOW DO I UNSUBSCRIBE FROM BURBERRY EMAIL UPDATES?**
 
 You agree that we are authorized to transmit email to you for the purpose of informing you about your particular transaction. In addition, if you provided your email address for registration with the Website, electronic newsletters, updates and promotional emails from Burberry and its affiliates, you agree that we are authorized to send informational and promotional emails to you.
 
-If you receive email updates or promotional emails from us, and you no longer wish to receive these, you can remove your email address from our list by using the unsubscribe link which is included on all email updates, or by clicking [here.](https://web.archive.org/store/burberry/myburberry/accountdetails/myEmailPreferences.jsp)
+If you receive email updates or promotional emails from us, and you no longer wish to receive these, you can remove your email address from our list by using the unsubscribe link which is included on all email updates, or by clicking [here.](https://web.archive.org/burberry/myburberry/accountdetails/myEmailPreferences.jsp)
 
 **ACCOUNT PASSWORD AND SECURITY**
 
