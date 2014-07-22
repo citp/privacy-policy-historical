@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marined3.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625061712id_/http%3A//www.marined3.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marined3.com privacy policy that was archived on 2014-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140723015210id_/http%3A//www.marined3.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
