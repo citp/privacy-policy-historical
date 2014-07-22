@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alltheinternet.com privacy policy that was archived on 2013-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130813194939id_/http%3A//alltheinternet.com/texis/open/allthru%3Farea%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alltheinternet.com privacy policy that was archived on 2014-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140722075345id_/http%3A//www.alltheinternet.com/texis/open/allthru%3Farea%3Dprivacy) for the most accurate reproduction.*
 
 # All the Internet - Privacy Statement
 
@@ -16,10 +16,10 @@ The sites displayed as search results or linked to by All the Internet are devel
 **With Whom Does All the Internet Share Information?** All the Internet will **NOT** share information about you with any advertisers, business partners, sponsors, and other third parties. 
 
 **Is All the Internet Adware, Spyware or Malware?**  
-Absolutely not! All the Internet does **NOT** ; monitor, collect data or 'spy' on its user base. All the Internet is incapable of tracking your overall web use or deciphering anything on your hard drive. All the Internet does **NOT** display pop-up ads or any type of advertising except for paid search results.
+Absolutely not! All the Internet does **NOT** ; monitor, collect data or 'spy' on its customers. All the Internet is incapable of tracking your overall web use or deciphering anything on your hard drive. All the Internet does **NOT** display pop-up ads or any type of advertising except for paid search results and several affiliate links. All server logs are disabled. We DO NOT distribute any software programs at all (including internet browsers or toolbars). 
 
 **How does All the Internet make any money, if your offer it for free?**  
-Some of the search engines listed on the All the Internet website may pay a listing fee or may share revenue from advertising within the search results (sponsored results).
+Some of the search engines listed on the All the Internet website may pay a listing fee or may share revenue from advertising within the search results (sponsored results) as well as affiliate links.
 
 **Questions and/or Suggestions**  
 If you have questions and/or suggestions, please [Contact Us](https://web.archive.org/texis/open/allthru?area=contactus)
