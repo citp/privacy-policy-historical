@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the learningally.org privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328093311id_/https%3A//www.learningally.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learningally.org privacy policy that was archived on 2014-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140722223827id_/https%3A//www.learningally.org/privacy) for the most accurate reproduction.*
 
 # Privacy - Learning Ally
 
