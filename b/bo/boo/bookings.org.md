@@ -1,8 +1,73 @@
-> *The following text is extracted and transformed from the bookings.org privacy policy that was archived on 2012-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121130203750id_/http%3A//www.booking.com/general.en.html%3Ftmpl%3Ddocs/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookings.org privacy policy that was archived on 2014-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140722095612id_/http%3A//www.booking.com/general.html%3Ftmpl%3Ddocs/privacy-policy) for the most accurate reproduction.*
 
-# Booking.com: Privacy and Cookies. Book your hotel now!
+# Booking.com: Privacy and Cookies.
 
-This document describes how we use cookies on our website and how we handle and protect your personal data.
+Your privacy is important to us. We value your trust and are committed to protecting and safeguarding any personal information you give us. This document, which we update from time to time, describes how we use and process your personal data and how we use cookies. It also tells you how you can contact us if you have questions about your personal information.
+
+Booking.com provides online travel services through its own websites and mobile apps and through other online platforms such as partners’ websites and social media. The information that follows applies to all of these platforms.
+
+## Privacy
+
+What kind of personal information does Booking.com use?
+
+When you make a reservation, you'll be asked for your name, address, telephone number, email address, payment details, the names of guests traveling with you and your preferences for your stay.
+
+To make it easier to manage your reservations, you can open a user account. This allows you to save your personal settings, review previous bookings and manage future reservations.
+
+When you visit our website, even if you don't make a reservation, we may collect certain information, like your IP address, or browser, and information about your computer’s operating system, application version, language settings and pages that have been shown to you. If you're using a mobile device, we might also collect data that identifies your mobile device, device-specific settings and characteristics and latitude/longitude details.
+
+We may also receive information about you when you use certain social media services.
+
+Why does Booking.com collect, use and share your personal details?
+
+  * Reservations: First and foremost, we use your personal information to complete and administer your online reservation and forward your reservation details to the accommodation you have booked.
+  * Customer service: We provide international customer service 24/7 from our local offices in more than 20 languages. Sharing your details with our global customer service allows for a quick response when you need us – including helping you find an appropriate accommodation and any questions you might have about your reservation.
+  * Guest reviews: We may use your contact information to invite you to write a guest review after your stay. This can help other travelers choose a place to stay that suits them best.
+  * Account administration: We offer a user account facility on our website. We use the information you give us to administer this, allowing you to manage your bookings, take advantage of special offers, make future reservations more easily and manage your personal settings. Managing personal settings allows you to keep and share lists, share photos, see properties that you've searched for before, and see other information you've provided about accommodations and destinations. It also allows you to see any reviews you submitted about places you stayed in. If you want, you can share certain information in your user account by creating a public profile that’s associated with either your own first name or a screen name of your choice. The type of information you can share on this platform includes your photo, the names of places you've stayed in, your lists, your plans for future trips, your reviews and other information about accommodations and destinations.
+  * Marketing activities: We also use your information for marketing activities, as permitted by law. For example:
+    * When you make a reservation with us or set up a user account, we may use your contact information to send you news about similar travel-related products and services. We also send our customers regular newsletters by email. You can opt out, or unsubscribe, from marketing communication at any time.
+    * Based on the information you share with us, individualized offers may be shown to you on the Booking.com website, in mobile apps or on third-party websites, including social media sites.
+    * When we believe that a particular offer may be of interest to you, we may decide to make contact with you by phone.
+  * Other communications: There may be other times when we get in touch by email, by post, by phone or by texting you, depending on the contact information you share with us. There could be a number of reasons for this:
+    * We may need to respond to and handle requests you have made.
+    * If you haven't finalized a reservation online, we may email you a reminder to continue with your reservation. We believe that this additional service is useful to you because it allows you to carry on with a reservation without having to search for the accommodation again or fill in all the reservation details from scratch.
+    * When you use our services, we may send you a questionnaire or invite you to provide a review about your experience with Booking.com.
+    * We may also send you other material related to your reservation, such as how to contact Booking.com if you need assistance while you're away, or a summary of previous reservations you made using Booking.com.
+  * Market research: We sometimes ask our customers to take part in market research. Any additional personal details that you give us as part of the market research will only be used with your consent.
+  * Fraud detection and prevention: We may use personal information for the detection and prevention of fraud and other illegal or unwanted activities.
+  * Improving our services: Finally, we use personal information for analytical purposes, to improve our services, enhance the user experience, and improve the functionality and quality of our online travel services.
+
+
+
+How does Booking.com use social media?
+
+We use social media to promote our accommodation partners’ properties and to promote, improve and facilitate our own services. For example, we integrated social media plugins into the Booking.com website. So when you click on one of the buttons and register with your social media account, information is shared with your social media provider, and possibly presented on your social media profile to be shared with others in your network.
+
+In addition to implementing these buttons, Booking.com uses social media by maintaining accounts on several social media sites and by offering social apps. These social media services may allow you to share information with Booking.com. When you register with a social media app, you'll be told which information will be shared with Booking.com. The information you choose to share with us may include the basic information that’s already available in your social media profile, email address, status updates and your friends list. This information is necessary to create a unique user experience either in the app itself or on our website. It facilitates things like personalizing our website to suit your needs, connecting you with your friends on travel destinations and analyzing and enhancing our travel-related services.
+
+We may also enable you to sign in to Booking.com services with your social media accounts. Your social media provider will be able to tell you more about how they use and process your data in such cases.
+
+How does Booking.com share your data with third parties?
+
+In certain circumstances, we may share your personal data with third parties.
+
+  * The accommodation you booked: In order to complete your reservation, we need to transfer relevant reservation details to the accommodation you booked with. This may include information like your name, contact and payment details, the names of guests traveling with you and any preferences you specified when making a booking.
+  * Other companies within the Booking.com corporate family: In order to support you during the reservation process and throughout your stay, your details may be shared with subsidiaries of the Booking.com corporate family. To find out more about the Booking.com corporate family, visit [About Booking.com](https://web.archive.org/general.html?tmpl=docs/about). Your information might also be shared with other members of the Priceline Group (Agoda.com, Rentalcars.com and Kayak.com) for analysis to provide you with travel-related offers that may be of interest to you and to offer you customized service.
+  * Third-party service providers: We may use third-party service providers to process your personal information on our behalf for the purposes specified above. For example, we may use service providers to send the reservation information on our behalf to the accommodation you just booked, or we may instruct third parties to contact you. When a reservation requires it, we may also work with third-party payment service providers to facilitate payment or payment guarantees. We also work with third-party advertisement networks to market our accommodation and services on other platforms, or involve third-party providers for analytical purposes. These third parties involved in any of these services will be bound by confidentiality agreements and will not be allowed to use your personal information for any purposes other than those specified above.
+  * Our business partners: We work with partner websites around the world to distribute the accommodations listed on our website and mobile apps. When you make a reservation on one of these business partners’ websites, certain personal information that you give them may be shared with us. Similarly, we may share information with this business partner, for example, as part of the administration of your account, in order to manage your reservation, so that they can address queries related to your reservation and for marketing purposes. In this context, your information is governed by the privacy policies of these business partners.
+  * Competent authorities: We may share your personal information with government or investigative authorities if we are required by law (or any regulation having the force of law) to do so. Such requirements include court orders, subpoenas and orders arising from legal processes and criminal investigations. We may also disclose your personal data if it is strictly necessary for the prevention, detection or prosecution of criminal acts.
+
+
+
+How does Booking.com use mobile devices?
+
+We have free apps for a variety of mobile devices and use versions of our regular website that have been optimized for mobile. These apps and mobile websites process your personal details in a similar way as our website does – and they also allow you to use location services to find accommodations nearby.
+
+How does Booking.com use guest reviews and other destination-related information you share with us?
+
+After your stay at any property booked through us, you'll be invited to submit a guest review, which may ask for information about the property, the surrounding areas, and the destination. If you don’t want your name to show with your review, you can use your screen name (which you can choose in your user account) or it can be displayed anonymously. By completing a guest review, you're agreeing that it can be displayed (as further described in our [Terms and Conditions](https://web.archive.org/general.html?tmpl=docs/terms-and-conditions)) on, for example, the relevant property information page on our websites, in our mobile apps, in our social media accounts and in social apps, or on the website of the relevant property or on our business partner’s website, to inform other travelers about the quality and services of the property you stayed in.
+
+If you indicate that a guest review was helpful – or not helpful – we will aggregate this with feedback from other customers in order to sort and prioritize guest reviews. We may use the information in your lists or in other destination-related information you share with us in an anonymous format to help other travelers find the right destination.
 
   
 
@@ -11,117 +76,89 @@ This document describes how we use cookies on our website and how we handle and 
 
 What is a cookie?
 
-A cookie is a small amount of data placed on the computer of a user by a website.
+A cookie is a small amount of data that a website places on your computer.
 
 Why do websites use cookies?
 
-Webpages have no memory. A user who surfs from page to page within a website is not recognised as the same user across pages. Cookies enable the user's browser to be recognised by the website. Therefore, cookies are mainly used to remember the choices a user has made (e.g., remembering the language you speak), or to recognise recurring visitors to the site.
+Web pages have no memory. If you are surfing from page to page within a website, you will not be recognized as the same user across pages. Cookies enable your browser to be recognized by the website. So cookies are mainly used to remember the choices you have made – choices such as the language you prefer and the currency you use. They will also make sure you are recognized when you return to a website.
 
 Do all cookies do the same thing?
 
-No, there are different types of cookies used for different purposes. Cookies can be distinguished by function, lifetime and the party that places them.
+No, there are different types of cookies and different ways of using them. Cookies can be categorized according to their function, their lifespan and according to who places them on a website.
 
 How does Booking.com use cookies?
 
-Booking.com offers its users an advanced and user-friendly website that adapts automatically to their needs and wishes. To achieve this, our website uses 4 types of cookies:
+Our website uses the following types of cookies:
 
-  * Technical cookies: We use technical cookies to show you our website, to make it function correctly, to create your user account, to log you in and to manage your bookings. These technical cookies are strictly necessary for our website to function properly.
-  * Functional cookies: We also use functional cookies to remember your preferences and to help you use our website efficiently and effectively, for example by remembering your preferred currency and language, your searches and the accommodation you have viewed earlier. These functional cookies are not strictly necessary for the functioning of our website, but they add functionality for you as a user and enhance your experience.
-  * To gain insight into how our users use the website, to find out what works and what doesn't, to optimize and improve the website and to ensure we continue to be interesting and relevant for our users, we use analytics cookies. The data we gather includes the viewed web pages, referring/exit pages, platform type, date/time stamp information and details like the number of (mouse) clicks on a given page, mouse movements, scrolling activity and the (search) words you use and the text you type while using our website. This information is made anonymous as we really only need statistics.
-  * Lastly, we also use commercial cookies to show you Booking.com advertisements on other websites (retargeting), potentially based on which destinations you have searched for, or which accommodation you have viewed. These cookies are typically placed by trusted third parties.
+  * Technical cookies: We try to provide our visitors with an advanced and user-friendly website that adapts automatically to their needs and wishes. To achieve this, we use technical cookies to show you our website, to make it function correctly, to create your user account, to sign you in and to manage your bookings. These technical cookies are absolutely necessary for our website to function properly.
+  * Functional cookies: We also use functional cookies to remember your preferences and to help you use our website efficiently and effectively. For example, we remember your preferred currency and language, your searches and the property you viewed earlier. These functional cookies are not strictly necessary for the functioning of our website, but they add functionality for you and enhance your experience.
+  * Analytics cookies: We use these cookies to gain insight on how our visitors use the website, to find out what works and what doesn't, to optimize and improve our website and to ensure we continue to be interesting and relevant. The data we gather includes which web pages you viewed, which referring/exit pages you entered and left from, which platform type you used, date and time stamp information and details such as the number of clicks you make on a given page, your mouse movements and scrolling activity, the search words you use and the text you type while using our website. We also use analytics cookies as part of our online advertising campaigns to learn how users interact with our website after they've been shown an online advertisement, which may include advertisements on third-party websites. We will not know who you are, and we only obtain anonymous data.
+  * Commercial cookies: We use these to show you Booking.com advertisements on other websites. This is called “retargeting” and it aims to be based on your browsing activities on our website, such as the destinations you've been searching for, the properties you've viewed and the prices you've been shown.
 
 
 
 How long do Booking.com cookies stay active?
 
-Booking.com uses several cookies, with a varying lifespan. The maximum lifespan we set on some of them is 5 years. All cookies can be erased from the browser when desired.
+The cookies we use have varying lifespans. The maximum lifespan we set on some is five years from your last visit to our website. You can erase all cookies from your browser any time you want. To remove Booking.com cookies from your browser, go to the following link (please note that when you click on this link, all Booking.com cookies will be removed immediately): [Purge Cookies](http://www.booking.com/purge_cookies).
 
-How do I recognise Booking.com cookies?
+How can you recognize Booking.com cookies?
 
-You can find the Booking.com cookies in your browser settings.
+You can find our cookies in your browser settings.
 
-Does Booking.com use third party cookies?
+Does Booking.com use third-party cookies?
 
-Yes. Booking.com uses the services of trusted and recognised online advertising and marketing companies. To enable their services, these companies need to place cookies.
+Yes, Booking.com uses the services of trusted and recognized online advertising and marketing companies. Booking.com may also use third-party providers for analytical purposes. To enable their services, these companies need to place cookies.
 
-The providers we use are committed to building consumer awareness and establishing responsible business and data management practices and standards. Most of these companies are a member of the Network Advertising Initiative (NAI) and/or the Interactive Advertising Bureau (IAB). Members of NAI and IAB adhere to industry standards and codes of conduct. The NAI and IAB members offer a general opt-out function of the behavioural advertising. Please visit [www.networkadvertising.org](http://www.networkadvertising.org/managing/opt_out.asp) and [www.youronlinechoices.com](http://www.youronlinechoices.com/) to identify the NAI members that have placed an advertising cookie file on your computer. To opt out of an NAI or IAB member's behavioural advertising programme, simply check the box that corresponds to the company from which you wish to opt out.
+The providers we use are committed to building consumer awareness and establishing responsible business and data management practices and standards.
+
+When it comes to online advertising and marketing companies, we strive to only work with companies that are members of the Network Advertising Initiative (NAI) and/or the Interactive Advertising Bureau (IAB). Members of NAI and IAB adhere to industry standards and codes of conduct. NAI and IAB members allow you to opt out of the behavioral advertising. Visit [www.networkadvertising.org](http://www.networkadvertising.org/) and [www.youronlinechoices.com](http://www.youronlinechoices.com/) to identify the NAI members that may have placed an advertising cookie file on your computer. To opt out of an NAI or IAB member's behavioral advertising program, simply check the box that corresponds to the company from which you wish to opt out.
+
+In order to control the collection of data for analytical purposes by Google Analytics, you may want to visit the following link: [Google Analytics Opt-out Browser Add-on](https://tools.google.com/dlpage/gaoptout).
 
 Who has access to Booking.com cookie data?
 
-Only Booking.com has access to the cookie data of Booking.com. Please note that from time to time, we may use third party service providers for marketing analysis and quality improvement purposes. Cookies placed by third parties may be accessed by these third parties.
+Only Booking.com has access to Booking.com cookies. Cookies placed by third parties can be accessed by these third parties.
 
-Does Booking.com monitor my online behavior?
+How can you manage your cookie preferences?
 
-No. Booking.com statistically analyzes the behavior of all users only on our own website. You may receive ads from Booking.com on different sites (retargeting), which is based on your history on our website. This information is anonymous. We do not follow your behavior outside of Booking.com.
+Using your browser settings in, for example, Internet Explorer, Safari, Firefox or Chrome, you can set which cookies to accept and which to reject. Where you find these settings depends on which browser you use. Use the "Help" function in your browser to locate the settings you need.
 
-How can I manage my cookie preferences?
+If you choose not to accept certain cookies, you may not be able to use some functions on our website. Plus, opting out of an online advertising network doesn't mean that you won't receive or be subject to online advertising or marketing analysis. It means that the network you opted out of will no longer deliver ads tailored to your web preferences and browsing patterns.
 
-Using your browser settings (e.g., Internet Explorer, Safari, Firefox, Chrome) you can set which cookies to accept and reject. It depends on your brand of browser where these settings are located. Using the "Help" function in your browser, you can locate the relevant settings.
+Does Booking.com use web beacons?
 
-Please note that if you do not accept certain cookies, you may not be able to use some functions on our website. Please also note that opting out of an advertising network does not mean that you will no longer receive or be subject to online advertising or marketing analysis. It means that the network from which you opted out will no longer deliver ads tailored to your web preferences and usage patterns.
+In addition to using cookies, Booking.com sometimes uses web beacons. A web beacon is a tiny graphic image of just one pixel that’s delivered to your computer either as part of a web page request or in an HTML email message. Either directly or through service providers, we use these pixels as part of our online advertisements either on our website or on third-party websites to learn whether a user who is being shown an online advertisement also makes a reservation; to track conversion with partner websites and to analyze a user's traffic patterns in order to optimize the travel-related services we bring to you.
 
-## Privacy
+  
 
-We highly value your trust in choosing Booking.com for your online accommodation reservation. Therefore, we will duly and diligently safeguard and protect the privacy and confidentiality of your personal information, including your credit card details. This privacy policy applies to all of our services, whether accessed or made available online or through any other platform or device (hereafter collectively referred to as the "Website"). By accepting this privacy policy you consent to the processing of your personal data by Booking.com for the purposes specified below.
 
-Why we process your personal data
+## Security
 
-Booking.com processes your personal data for the following purposes:
+What security procedures does Booking.com put in place to safeguard your personal information?
 
-1) Making reservations via the Website.
+In accordance with European data protection laws, we observe reasonable procedures to prevent unauthorized access and the misuse of personal information.
 
-2) Evaluating your stay at a location booked through the Website, and placing this evaluation on the Website (only with your consent).
+We use appropriate business systems and procedures to protect and safeguard the personal information you give us. We also use security procedures and technical and physical restrictions for accessing and using the personal information on our servers. Only authorized personnel are permitted to access personal information in the course of their work.
 
-3) Informing you about interesting offers (only with your consent).
+Your credit card details – when they are needed as part of the reservation process – are stored for a maximum of 10 days. After that, your credit card data will be either permanently deleted from our systems or will remain hashed in our system for fraud detection purposes. This is unless you have chosen to store your credit card details in your personal account.
 
-We may also use your personal data to detect fraud and/or other illegal acts aimed at Booking.com.
+  
 
-Personal data collected by Booking.com
 
-Booking.com collects the following personal data: your name, address, email address, telephone number, credit card details and, to the extent available, reservation preferences and smoking preference. This information is required to process, book and complete your reservation.
+## Children
 
-Booking.com may also process data about your computing device such as IP address, browser type, and (for users of our service through a mobile device) Unique Device Identifier, operating system, application version and latitude/longitude. These data are typically non-identifying or anonymised, but may nevertheless be considered personal data either by themselves or when combined. In these cases the data will be processed in accordance with European data protection law.
+The services offered by Booking.com are not directed at children under the age of 18. The use of any of our services is only allowed with the valid consent of a parent or a guardian. When we receive information from a child under the age of 18, we reserve the right to delete it.
 
-Transfer to third parties
+## Contact
 
-Under certain conditions Booking.com may transfer your personal data to the following third parties:
+How can you control the personal information you have given to Booking.com?
 
-The accommodation you booked
+You always have the right to review the personal information we keep about you. You can request an overview of your personal data by emailing us at customer.service@booking.com. Please write "Request personal information" in the subject line of your email and include a copy of your identity card to help us prevent unauthorized individuals from accessing your personal data.
 
-For the purpose of completing your booking we will disclose your name, contact details and the credit card details to the relevant accommodation with which a booking is made. We will only provide those elements to the accommodation that are required for it to process your reservation.
+If the personal information we have for you is incorrect, we will update it at your request. You can also ask us to remove your personal data from our customer database by sending an email to [customer.service@booking.com](mailto:customer.service@booking.com) with “Request for removal of personal information” in the subject line. However, we may need to retain certain information, for example, for legal or administrative purposes, such as record keeping or to detect fraudulent activities. You can delete your user account at any time by signing into your account on the Booking.com website and choosing to remove your account.
 
-By completing a booking, you agree to be invited to complete our guest review form. If you wish, the review can be completed anonymously. By completing the guest review, you agree that it can be used on our Website on the relevant accommodation information page and on other such platforms and social media (wholly or partly) owned, controlled, managed or hosted by us or our trusted business partners for the sole purpose of informing future customers on the service level and quality of the relevant accommodation. We reserve the right to adjust, refuse or remove review forms at our sole discretion. The guest review form should be regarded as a survey and does not include any commercial offers, invitations or incentives whatsoever.
+Who is responsible for the processing of personal information on the Booking.com website and apps?
 
-Data processors
+Booking.com B.V. controls the processing of personal information on its websites and mobile apps. Booking.com B.V. is a private limited liability company, incorporated under the laws of the Netherlands and has its offices at Herengracht 597, 1017 CE Amsterdam, the Netherlands. The Dutch Data Protection Authority Notification number is 1288246. If you have any suggestions or comments about this privacy notice, please send an email to [customer.service@booking.com](mailto:customer.service@booking.com).
 
-From time to time, we may use third party service providers as data processors for the purposes specified above. For example, we may use service providers to send reservation information to accommodations electronically. Processing by these third parties takes place under our instruction. These parties are bound by data processing agreements and confidentiality agreements.
-
-Competent authorities
-
-We may share and disclose your personal details and information to a government or investigative authority if required by law (or any regulation having the force of law), legal process, criminal investigation, court order or subpoena. Booking.com may also disclose your personal data if it is strictly necessary for the prevention, detection and prosecution of criminal acts.
-
-Security
-
-In accordance with European data protection laws, strict security procedures are observed within Booking.com to prevent personal data misuse and unauthorized access.
-
-In order to protect and safeguard the personal data provided to us, we have implemented and use appropriate business systems and procedures. Furthermore, we have implemented and use security procedures and technical and physical restrictions for accessing and using personal information. Only authorized employees are permitted to access personal information for performing their duties in respect to our services.
-
-Your credit card details will be stored by us for a maximum of 10 days after a booking is made. After that period, your credit card data will be irrevocably deleted from our systems, unless you have stored your credit card details in your personal account.
-
-Control over your personal data
-
-You always have the right to review the personal data you have stored with us. You can request your personal data by emailing us at: <n uers="znvygb:phfgbzre.freivpr@obbxvat.pbz">phfgbzre.freivpr@obbxvat.pbz</n>
-
-Please write "Request personal data" as the subject line of your email.
-
-If your personal data is incorrect we will change it at your request. You can also ask Booking.com to remove your personal data from its database by sending us an email to the aforementioned email address.
-
-Contact
-
-Booking.com B.V. is the data controller for the processing personal data. Booking.com B.V. is a private limited liability company, incorporated under the laws of the Netherlands and has its offices at Herengracht 597, 1017 CE Amsterdam, the Netherlands. The Dutch Data Protection Authority Notification number is 1288246. If you have any suggestions or remarks about this privacy statement, please send an email to: <n uers="znvygb:phfgbzre.freivpr@obbxvat.pbz">phfgbzre.freivpr@obbxvat.pbz</n>
-
-Changes to this statement
-
-We are at all times entitled to change the way we use cookies and the way we collect, transmit and process the personal information and such other information as we may deem necessary. This statement may therefore be amended from time to time in order to reflect the latest changes.
-
-Last updated: July 10, 2012
+_Last updated, February 2014_
