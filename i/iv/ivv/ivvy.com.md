@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the ivvy.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625070204id_/http%3A//www.ivvy.com/index.php%3Fid%3D1012908) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ivvy.com privacy policy that was archived on 2014-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140722145335id_/http%3A//www.ivvy.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy
+
+iVvy (“iVvy” “us” or “we”) manage Personal Information in accordance with the Privacy Act 1988 (Cth) (“Privacy Act”) and the Australian Privacy Principles (“APP”) contained therein. This Privacy Policy outlines the types of Personal Information that we may collect, how that Personal Information will be used, disclosed, transferred and stored and sets out the measures that we take to comply with the Privacy Act.
 
 ##  Collection
 
@@ -13,6 +15,24 @@ iVvy collects Personal Data from you when you voluntarily provide it to us, such
 ###  Event Attendees
 
 Your Personal Data may be collected by iVvy if you voluntarily register for an event through one an Event Organiser’s account or if you request a booking or a proposal for a service through the iVvy systems, or your data is uploaded into the system by one of our Event Organisers. This data may include your name, email address, and phone number and other personally identifiable information. Event Organisers can also create event registration websites to collect virtually any information from you. If an Event Attendee voluntarily provides that information in connection with registration for an event or otherwise, it will be available to iVvy and will be held by us in accordance with this Privacy Policy
+
+###  Internet users
+
+If you access our websites or any mobile applications (“apps”), we may collect additional Personal Information about you including:
+
+  * server address / IP address;
+  * date and time of visit;
+  * pages visited;
+  * documents downloaded;
+  * the site you visited prior to visiting our website;
+  * the browser that you are using to access our website;
+  * if you have visited our website before;
+  * tracking user preferences;
+  * location data.
+
+
+
+In addition, our website uses cookies.  The main purpose of cookies is to monitor usage of our websites and apps to prepare customised web pages so that we may serve you more effectively. You may wish to configure your browser so that it does not accept cookies, however you may not be able to access some functions on our websites or apps if these are disabled.
 
 ##  Dealing with Personal Data
 
@@ -34,7 +54,7 @@ iVvy will not otherwise disclose your Personal Data and/or account information u
 
 Any Personal Data which may be collected by iVvy will be stored in Australia for Australian organizations, and either Australia, the United States or Singapore for organizations located outside Australia.
 
-##  Integrity of client information
+##  Integrity and access
 
 ###  Security
 
@@ -56,9 +76,9 @@ You should check the Privacy Policy through this link periodically for modificat
 
 If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective.
 
-##  Contact Information
+##  Contacting iVvy
 
-To find out more information, you can email iVvy through the [contact us form](https://web.archive.org/index.php?id=1009036), or you can mail:
+To find out more information, you can email iVvy through the [contact us form](mailto:info@ivvy.com?subject=Contact%20from%20Privacy%20Page), or you can mail:
 
 **Mailing Address**
 
@@ -68,6 +88,6 @@ QLD, 4230
 
 **Physical Address**
 
-Level 2/ 2 Boston Crt  
+Suite A6 / 1 Belvue Drive  
 Varsity Lakes  
-QLD, 4226
+QLD, 4227
