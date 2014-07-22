@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nextjump.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625063027id_/http%3A//www.nextjump.com/index/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nextjump.com privacy policy that was archived on 2014-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140722054325id_/http%3A//www.nextjump.com/index/privacy) for the most accurate reproduction.*
 
 # Privacy Policy -- Next Jump
 
