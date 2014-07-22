@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the castingcallpro.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330092851id_/http%3A//www.castingcallpro.com/uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the castingcallpro.com privacy policy that was archived on 2014-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140722123123id_/http%3A//www.castingcallpro.com/uk/privacy.php) for the most accurate reproduction.*
 
 # Casting Call Pro - for acting jobs, agents and auditions.
 
