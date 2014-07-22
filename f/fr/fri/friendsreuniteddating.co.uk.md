@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the friendsreuniteddating.co.uk privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331073143id_/http%3A//www.friendsreuniteddating.com/static.php%3Fhtml%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the friendsreuniteddating.co.uk privacy policy that was archived on 2014-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140722205347id_/http%3A//www.friendsreuniteddating.com/static.php%3Fhtml%3Dprivacy) for the most accurate reproduction.*
 
 # FriendsReunitedDating.com - Find local singles on FriendsReunitedDating - an online dating site
 
