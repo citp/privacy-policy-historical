@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the team-schuman.com privacy policy that was archived on 2014-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140523034654id_/http%3A//www.team-schuman.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the team-schuman.com privacy policy that was archived on 2014-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140723001419id_/http%3A//www.team-schuman.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Page
 
