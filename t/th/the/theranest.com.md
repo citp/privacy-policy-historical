@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theranest.com privacy policy that was archived on 2014-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140324201144id_/http%3A//www.theranest.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theranest.com privacy policy that was archived on 2014-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140722170953id_/https%3A//www.theranest.com/home/privacy) for the most accurate reproduction.*
 
 # Software for Counselors, Therapists & Social Workers - Privacy
 
@@ -71,7 +71,7 @@ This online privacy policy applies only to information collected through our web
 
  **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.theranest.com/home/terms>
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <https://www.theranest.com/home/terms>
 
 **Your Consent**
 
