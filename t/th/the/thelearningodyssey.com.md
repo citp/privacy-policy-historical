@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thelearningodyssey.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331075242id_/https%3A//www.thelearningodyssey.com/LoginContent/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelearningodyssey.com privacy policy that was archived on 2014-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140722131807id_/https%3A//www.thelearningodyssey.com/LoginContent/privacypolicy.html) for the most accurate reproduction.*
 
 # CompassLearning Odyssey
 
