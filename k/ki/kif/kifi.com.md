@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kifi.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330184735id_/https%3A//www.kifi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kifi.com privacy policy that was archived on 2014-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140722173309id_/https%3A//www.kifi.com/privacy) for the most accurate reproduction.*
 
 # Kifi • Privacy
 
