@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the momcentralcanada.com privacy policy that was archived on 2014-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140521185909id_/http%3A//www.momcentralcanada.com/www.momcentralcanada.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momcentralcanada.com privacy policy that was archived on 2014-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140723105146id_/http%3A//www.momcentralcanada.com/www.momcentralcanada.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mom Central Canada
 
