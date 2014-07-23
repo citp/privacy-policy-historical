@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bidsauce.com privacy policy that was archived on 2014-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140404002044id_/http%3A//www.bidsauce.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bidsauce.com privacy policy that was archived on 2014-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140723034840id_/http%3A//www.bidsauce.com/privacy-policy) for the most accurate reproduction.*
 
 # Bidsauce Privacy Policy
 
@@ -36,11 +36,9 @@ BidSauce collects anonymous, non-personal information about your use of our site
 In limited circumstances we also may use Web Beacons to collect anonymous, non-personal information about your use of our web site and the sites of selected sponsors and advertisers, and your use of emails, special promotions and newsletters we send to you. Web beacons are tiny graphic image files imbedded in a web page or email that provide a presence on the web page or email and send back to its home server information from the Users' browser. The information collected by web beacons allows us to statistically monitor how many people are using our site and selected sponsors' and advertisers' sites, opening our emails, and for what purposes. Our web beacons are not used to track your activity across Websites generally. While it may be possible to link non-personal web beacon information to Personal Information collected in other ways, we want you to know that we will not, without your consent, link the web beacon information we collect to Personal Information you provide to us on our site. 
     6. **E-mails and Newsletters**  
 BidSauce may collect anonymous, non-personal information about your use of e-mails and newsletters that we send to you. In some cases, when you click on a link or an advertisement in an e-mail or newsletter, your browser may be momentarily directed to the site of a third party which, acting on our behalf (see Disclosure to Website Service and Content Contractors, below), notes or "counts" your response to the e-mail or newsletter before re-directing your browser to its proper destination; this re-direction process will not be apparent to you. 
-  2. **Children**  
-BidSauce adheres to the Children's Online Privacy Protection Act of 1998 and the guidelines of the Children's Advertising Review Unit of the Council of Better Business Bureaus, Inc. in each of our Web sites. Parents can help by spending time online with children and monitoring children's online use. Please help us protect children's privacy by instructing them never to provide personal information on this site or any other without your permission. BidSauce does not collect and keep any personal information from persons who BidSauce actually knows are under 13 years of age. 
-  3. **Public Forums**  
+  2. **Public Forums**  
 This Privacy Policy does not protect you when you use our public forums. You should be aware that any information shared in a chat room, bulletin board, posting or online discussion is public information and may be seen, disclosed to or collected by third parties that do not adhere to our Privacy Policy. You should think carefully before disclosing any personal information in any public forum. 
-  4. **Emails to Us**  
+  3. **Emails to Us**  
 This Privacy Policy does not protect you when you send information, ideas, concepts or inventions to us by email, or to the various departments listed on the "Contact Us" link on our Website. 
 
 
