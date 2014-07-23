@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mginger.com privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621073106id_/http%3A//mginger.com/static/privacy_policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mginger.com privacy policy that was archived on 2014-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140723035146id_/http%3A//www.mginger.com/static/privacy_policy.jsp) for the most accurate reproduction.*
 
 # :: mGinger :: Privacy Policy mginger.com
 
