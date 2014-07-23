@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coc.org privacy policy that was archived on 2010-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101201202644id_/http%3A//www.coc.org/legal-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coc.org privacy policy that was archived on 2014-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140723193239id_/https%3A//www.coc.org/legal-privacy) for the most accurate reproduction.*
 
 # Legal and Privacy Policy | COC
 
@@ -35,13 +35,13 @@ Permission is granted to download and print materials from this web site for the
 
 **Permission Policy**
 
-All materials published to [www.coc.org](http://www.coc.org/ "www.coc.org") are copyrighted or are used with permission of the original copyright holder. As such, they may not be reused without express permission from the Center of Concern.   
+All materials published to [www.coc.org](http://www.coc.org/) are copyrighted or are used with permission of the original copyright holder. As such, they may not be reused without express permission from the Center of Concern.   
 We normally will give permission to reprint or use our materials when requested in writing. Please contact us stating:  
 1\. what you intend to use,  
 2\. how it will be used, and  
 3\. for what time period 
 
-After receiving permission, we require that you acknowledge the Center of Concern as the source of the material, and, if possible, note our web site address [www.coc.org](http://www.coc.org/ "www.coc.org") either in printed materials or via a link in electronically published materials. 
+After receiving permission, we require that you acknowledge the Center of Concern as the source of the material, and, if possible, note our web site address [www.coc.org](http://www.coc.org/) either in printed materials or via a link in electronically published materials. 
 
 We also request that you send us a copy for our archives of the material as you've used it. 
 
@@ -88,10 +88,6 @@ Center of Concern
 Washington, DC 20017 
 
 2\. Call us at 202-635-2757 between 9:30 a.m. and 5 p.m. EST, Monday - Friday. 
-
-3\. E-mail [communications@coc.org](mailto:communications@coc.org)
-
-**Can I change the information I have given to the Center of Concern?**
 
 If you are a Center donor or you have made a purchase from our online store that has not yet been shipped, you can update your information through one of the following methods: 
 
