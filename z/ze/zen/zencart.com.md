@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zencart.com privacy policy that was archived on 2014-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140401111834id_/http%3A//www.zen-cart.com/content.php%3F5-Privacy-Policy%26s%3D70bb90b3dc5d1165a35cfeda4d40561f) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zencart.com privacy policy that was archived on 2014-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140723105612id_/http%3A//www.zen-cart.com/content.php%3F5-Privacy-Policy%26s%3D99423ca4415a6f15b502add2953d3012) for the most accurate reproduction.*
 
 # Zen Cart Support - Privacy Policy
 
