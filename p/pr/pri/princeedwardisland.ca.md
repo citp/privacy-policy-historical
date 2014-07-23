@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the princeedwardisland.ca privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326234409id_/http%3A//www.tourismpei.com/copyright-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the princeedwardisland.ca privacy policy that was archived on 2014-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140723055534id_/http%3A//www.tourismpei.com/copyright-privacy) for the most accurate reproduction.*
 
 # Copyright and Privacy
 
@@ -12,7 +12,7 @@ The materials on this site are protect by the _Copyright Act_. Reproduction of a
 
 To request permission, contact the web content team using the [website comments and suggestions form](https://web.archive.org/contact-pei) and detail your request in the comments section.
 
-Vist the [Tourism PEI website](http://media.tourismpei.com/resources/image-library/) for information on use of Tourism PEI stock images by industry and media.
+To request images please fill out the [Image Request Form](https://web.archive.org/photo-request). 
 
 **Non-commercial Reproduction**
 
