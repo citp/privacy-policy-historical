@@ -1,100 +1,95 @@
-> *The following text is extracted and transformed from the gadgetwide.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gadgetwide.com privacy policy that was archived on 2014-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140723051825id_/http%3A//www.gadgetwide.com/privacy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy - GadgetWide Solutions
 
-**Go Daddy Respects Your Privacy**
+### **Terms of Use**
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+GadgetWide (VBD S.P) is committed to keeping any and all personal information collected of those individuals using this website, our online facilities and all associated services accurate, confidential, secure and private. Our privacy policy has been designed and created to ensure those affiliated with of our commitment and realization of our obligation not only to meet but to **exceed** most existing **privacy** **standards**.
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+THEREFORE, this privacy policy shall apply to GadgetWide and all associated content, and thus it shall govern any and all data collection and usage thereof. **Through the use** of GadgetWide’s services **you are** herein **consenting** to the **following** data **procedures** expressed within this agreement.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+#### **Collection of information**
 
-**Information Collection and Use**
+Our **software**  applications **collect** various types of **information** , such as:
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+  * Mandatory information which includes your name, address, e-mail address, ( **voluntary** ) billing and/or credit card information etc., which is used when making use of our website application services or when voluntarily selected may be used when you purchase products and/or services and to deliver the services you have requested
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+  * **Information** that is **collected** when **using** GadgetWide’s **website** is completely **inputted** **by** the **user**. Information is **NEVER**   **automatically collected** when visiting our website, third party tracking cookies or anything of that nature.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+**GadgetWide  only** **collects** personal **information** that **you knowingly** and willingly **provide** by way of registration. It is the intent of GadgetWide to use your personal information only for the purpose of which it was requested and any additional uses specifically provided on this website.
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+GadgetWide may have the occasion to collect anonymous demographic information, such as age, gender, and region at a later time. We may also gather information about the type of mobile device you are using, IMEI number, serial number or type of operating system to assist us in providing and maintaining superior quality service.
 
-**Security**
+ It is **highly recommended** and suggested that you **review** the **privacy policies** and statements of any organization you choose to use or frequent as a means to better understand the way in which other establishments garner, make use of and share information collected.
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+#### **Use of Information Collected**
 
-**Updating Your Information**
+GadgetWide may collect and may make use of personal information to assist in the operation of our website/services and associated sites and to ensure delivery of the services you need and request. At times, we may find it necessary to use personally identifiable information as a means to keep you informed of other possible products and/or services that may be available to you from GadgetWide’s website/services and associated sites. GadgetWide  **WILL NEVER** **contact you** with **regards** to completing **surveys** and/or **research** questionnaires related to your opinion of current or potential future services that may be offered by us or any other organization.
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+  **GadgetWide does not now, nor will it in the future, sell, rent or lease any of our customer lists and/or names to any third parties.**
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+ GadgetWide may deem it necessary to follow registration statistics, websites and/or pages that our users may frequent only within the GadgetWide eco-system in an effort to gleam what types of services and/or products may be the most popular to customers or the general public.
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+**GadgetWide may disclose your personal information, without prior notice to you, only if required to do so in accordance with applicable laws and/or in a good faith belief that such action is deemed necessary or is required in an effort to:**
 
-      iii.      You may call us at: (480) 505-8800
+  * **  Remain in conformance with any decrees, laws and/or statutes or in an effort to comply with any process that may be served upon GadgetWide and/or our website/services and associated sites;**
 
-       iv.      You may fax us at: (480) 505-8844
 
-**Sending Emails**
+  * **  Maintain, safeguard and/or preserve all the rights and/or property of GadgetWide; and**
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+  * **  Perform under demanding conditions in an effort to safeguard the personal safety of users of GadgetWide’s website/services and associated sites and/or its proprietors and the general public.**
 
-**Compliance with Laws and Law Enforcement**
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-**Third Party Service Providers**
+#### **Children Under Age of 13**
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+GadgetWide does not knowingly collect personal identifiable information from children under the age of thirteen (13) without verifiable parental consent. If it is determined that such information has been inadvertently collected on anyone under the age of thirteen (13), we shall immediately take the necessary steps to ensure that such information is deleted from our system’s database. Anyone under the age of thirteen (13) must seek and obtain parent or guardian permission to use our website/services and associated sites.
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+#### **Unsubscribe or Opt-Out**
 
-**Supplementation of Information**
+Although GadgetWide will not involuntarily send users any form of promotional material it is important to state that all users and/or visitors using our website/services and associated sites have the option to discontinue receiving communication from us and/or reserve the right to discontinue receiving communications by way of email or newsletters. To discontinue or unsubscribe to our website/services and associated sites please send an email that you wish to unsubscribe to unsubscribe@gadgetwide.com. If you wish to unsubscribe or opt-out from any third party websites, you must go to that specific website to unsubscribe and/or opt-out.
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+#### **The Internet and Links to Other Web Sites**
 
-**Contests/Surveys**
+Our website does contain links to affiliate and other websites. GadgetWide does not claim nor accept responsibility for any privacy policies, practices and/or procedures of other such websites. Therefore, we encourage all users and visitors to be aware when they leave our website and to read the privacy statements of each and every website that collects personally identifiable information. The aforementioned Privacy Policy Agreement applies only and solely to the information collected by our website application and associated website.
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+#### **Security**
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+GadgetWide shall endeavor and shall take every precaution to maintain adequate physical, procedural and technical security with respect to our offices and information storage facilities so as to prevent any loss, misuse, unauthorized access, disclosure or modification of the user’s personal information under our control.
 
-**Tell-A-Friend**
+ When a uses chooses to purchase products and/or services GadgetWide uses Secure Socket Layer (SSL) for billing and/or credit card information used for authentication and private communications in an effort to build users’ trust and confidence in GadgetWide by providing simple and secure access and communication of credit card and personal information.
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+#### **Changes to Privacy Policy Agreement**
 
-**What Happens to my Personal Information if I Opt Out?**
+GadgetWide reserves the right to update and/or change the terms of our privacy policy, and as such we will post those changes via website update and our website homepage at www.gadgetwide.com, so that our users and/or visitors are always aware of the type of information we collect, how it will be used, and under what circumstances, if any, we may disclose such information. If at any point in time GadgetWide decides to make use of any personally identifiable information on file, in a manner vastly different from that which was stated when this information was initially collected, the user or users shall be promptly notified by email or other media. Users at that time shall have the option as to whether or not to permit the use of their information in this separate manner.
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+#### **Acceptance of Terms**
 
-**Transfer of Data Abroad**
+Through the use of this website/service, you are hereby accepting the terms and conditions stipulated within the aforementioned Privacy Policy Agreement. If you are not in agreement with our terms and conditions, then you should refrain from further use of our website/services and associated sites. In addition, your continued use of our website/services and associated sites following the posting of any updates or changes to our terms and conditions shall mean that you are in agreement and acceptance of such changes.
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+#### **Data Removal Practices**
 
-**Changes in Our Practices**
+GadgetWide strongly believes in maintaining the privacy and rights of our users, with that we practice routine deletion of any content collected via our site and or services. We **prefer** to **keep** you, **OUR USERS** information **anonymous** unless otherwise specifically notified.
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+#### **How to Contact Us**
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+If you have any questions or concerns regarding the Privacy Policy Agreement related to our website/services and associated sites, contact us at the following email, telephone number.
 
-**Contacting Our Site**
+**Email:**  support@gadgetwide.com  
+**Telephone Number:**  818-495-5758
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+#### **_Varastad B. DerBedrosian Sole Proprietorship_**
 
-* * *
+GadgetWide is fully operated and a wholly owned subsidiary of  Varastad B. DerBedrosian Sole Proprietorship | VBD S.P |
 
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+The brands or names Varastad, GadgetWide, VBD S.P and others are typically referenced and commonly used on this website\services utilizing aliases as identifiers to label the parent entity or founder of GadgetWide. Some of  the names used are Varo DerBedrosian, Varo, GW, Us, We, Our and others not specifically mentioned
+
+**Address:  **GadgetWide | VBD S.P | Glendale | California | United
+
+**Web Address:  **http://www.gadgetwide.com
+
+#### **Concerned About Your Privacy? | Contact Us**
