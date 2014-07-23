@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avenue.io privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625121831id_/http%3A//avenue.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avenue.io privacy policy that was archived on 2014-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140723104343id_/https%3A//avenue.io/privacy) for the most accurate reproduction.*
 
 # Avenue.io
 
