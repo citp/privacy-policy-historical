@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the old-picture.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625071858id_/http%3A//www.old-picture.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the old-picture.com privacy policy that was archived on 2014-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140724005358id_/http%3A//www.old-picture.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
