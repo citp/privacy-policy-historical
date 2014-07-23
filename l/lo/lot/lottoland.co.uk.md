@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lottoland.co.uk privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630034326id_/https%3A//www.lottoland.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lottoland.co.uk privacy policy that was archived on 2014-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140723112551id_/https%3A//www.lottoland.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Lottoland UK
 
@@ -66,4 +66,4 @@ We may need to change this Privacy Policy from time to time. In such an event, w
 
 **Questions**
 
-If you have any other questions about the handling or protection of your personal data please contact our Customer Service. A written enquiry should be addressed by email to [support@lottoland.com](mailto:support@lottoland.com) or by using our [contact form.](https://www.lottoland.com/en/ask)
+If you have any other questions about the handling or protection of your personal data please contact our Customer Service. A written enquiry should be addressed by email to [support@lottoland.com](mailto:support@lottoland.com) or by using our [contact form.](https://www.lottoland.co.uk/ask)
