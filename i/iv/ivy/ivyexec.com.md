@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the ivyexec.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326115629id_/https%3A//www.ivyexec.com/professionals/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ivyexec.com privacy policy that was archived on 2014-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140723153103id_/https%3A//www.ivyexec.com/professionals/page/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Ivy Exec
+# Privacy Policy
 
 Ivy Exec is committed to respecting the privacy of our users and providing a safe and secure experience for all professionals and employers. Please read the following to learn about the ways in which we collect and use your information. Ivy Exec contains links to other Web sites over which we have no control. We are not responsible for the privacy policies or practices of other Web sites to which you choose to link from our Web sites. We encourage you to review the privacy policies of those other Web sites so you can understand how they collect, use and share your information.
 
 ### General
 
-The Ivy Exec website and all related mobile applications and other interactive properties and services (collectively, the “Web sites”) are owned, operated and distributed by Ivy Exec, Inc., a Delaware corporation (referred to in this Privacy Policy as ”Ivy Exec” or “we” and through similar words such as “us,” “our,” etc.). By accessing any part of the Web sites, you are agreeing to the terms and conditions described below (the "Privacy Policy") and the terms and conditions of our Terms of Use (the “Terms of Use”). If you do not agree to any of these terms, you should not use the Web sites. This Privacy Policy applies to all users, including both users who are simply viewing content available via the Web sites and users who have subscribed for services and/or are contributors of content via the Web sites.
+The Ivy Exec website and all related mobile applications and other interactive properties and services (collectively, the “Web sites”) are owned, operated and distributed by Ivy Exec, Inc., a Delaware corporation (referred to in this Privacy Policy as ”Ivy Exec” or “we” and through similar words such as “us,” “our,” etc.). By accessing any part of the Web sites, you are agreeing to the terms and conditions described below (the "Privacy Policy") and the terms and conditions of our Terms of Use (the “Terms of Use”). If you do not agree to any of these terms, you should not use the Web sites. This Privacy Policy applies to all users, including both users who are simply viewing content available via the Web sites and users who have subscribed for services and/or are contributors of content via the Web sites. 
 
 We may, at our sole discretion, modify this Privacy Policy at any time. By accessing the Web sites at any time after such modifications, you are agreeing to such modifications. This Privacy Policy was last modified as April 4, 2013.
 
@@ -22,9 +22,9 @@ The personal contact information (i.e. street address, phone number, email addre
 
 In your use of the Web sites, we store such information as jobs you've applied to, jobs you've viewed, your resume, and similar information. We use this information for our internal purposes and do not share it with any third parties.
 
-We use First Data to provide credit card processing services on our Web sites. For more information on First Data's privacy policy, [click here](http://www.firstdata.com/en_us/privacy.html).
+We use First Data to provide credit card processing services on our Web sites. For more information on First Data's privacy policy, [click here](http://www.firstdata.com/en_us/privacy.html "Online Privacy Statement").
 
-If you choose to use our invitation service to tell a friend about our Web sites, we will ask you for information needed to send the invitation, such as your friend's email address. If you choose to import your friend's information, we will not store your password after importing your friend's information. We will send your friend an email in your name inviting him or her to visit the Web sites, and may send up to three reminders to them. Your friend may contact us at [professionals@ivyexec.com](mailto:professionals@ivyexec.com) to request that we remove this information from our database.
+If you choose to use our invitation service to tell a friend about our Web sites, we will ask you for information needed to send the invitation, such as your friend's email address. If you choose to import your friend's information, we will not store your password after importing your friend's information. We will send your friend an email in your name inviting him or her to visit the Web sites, and may send up to three reminders to them. Your friend may contact us at [professionals@ivyexec.com](mailto:professionals@ivyexec.com "professionals@ivyexec.com") to request that we remove this information from our database.
 
 We may use your email address, phone number or other personally identifiable information to send commercial or marketing messages if you have not opted out from receiving these communications from us. We also may use your email address, phone number and other personally identifiable information for non-marketing or administrative purposes (such as notifying you of major service changes or for customer service purposes). You cannot opt out of receiving communications for non-marketing or administrative purposes.
 
@@ -62,8 +62,8 @@ The Web sites are hosted in the United States and are primarily intended for and
 
 ### California Privacy Rights
 
-California Civil Code Section 1798.83 permits users of the Web sites who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail with "California Privacy Rights" in the heading to [privacy@ivyexec.com](mailto:privacy@ivyexec.com) or write us at:
+California Civil Code Section 1798.83 permits users of the Web sites who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail with "California Privacy Rights" in the heading to [privacy@ivyexec.com](mailto:privacy@ivyexec.com "privacy@ivyexec.com") or write us at:
 
 Ivy Exec Privacy Rights   
 6 East 39th Street, 11th Floor   
-New York, New York 10016
+New York, New York 10016 
