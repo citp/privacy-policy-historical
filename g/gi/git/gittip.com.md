@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gittip.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626061810id_/https%3A//www.gittip.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gittip.com privacy policy that was archived on 2014-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140724054122id_/https%3A//www.gittip.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Gittip
 
