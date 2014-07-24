@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the royal-dansk.com privacy policy that was archived on 2014-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140408130541id_/http%3A//kelsen.com/en-US/Global_Elements/Privacy_Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royal-dansk.com privacy policy that was archived on 2014-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140724050128id_/http%3A//kelsen.com/en-US/Global_Elements/Privacy_Policy.aspx) for the most accurate reproduction.*
 
 # Kelsen Group - Privacy Policy
 
