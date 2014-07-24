@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mysocialbook.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625115202id_/http%3A//www.mysocialbook.com/index.php%3Fpage%3Dcgu) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysocialbook.com privacy policy that was archived on 2014-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140724110623id_/https%3A//www.mysocialbook.com/index.php%3Fpage%3Dcgu) for the most accurate reproduction.*
 
 # Privacy policy
 
