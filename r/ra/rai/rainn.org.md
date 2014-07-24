@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the rainn.org privacy policy that was archived on 2014-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140518235141id_/http%3A//www.rainn.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rainn.org privacy policy that was archived on 2014-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140724063145id_/http%3A//www.rainn.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | RAINN | Rape, Abuse and Incest National Network
 
 ## Privacy Policy
 
-[Printer-friendly version](http://www.rainn.org/print/299 "Display a printer-friendly version of this page.")[Send to friend](http://www.rainn.org/printmail/299 "Send this page by e-mail.")
+[Printer-friendly version](https://rainn.org/print/299 "Display a printer-friendly version of this page.")[Send by email](https://rainn.org/printmail/299 "Send this page by email.")
 
 #### Online Privacy Policy Effective Date: April 16, 2008
 
-This Online Privacy Policy is intended to describe how the Rape, Abuse & Incest National Network ("RAINN") handles information gathered at [www.rainn.org](http://rainn.org/) ("RAINN.org") and the National Sexual Assault Online Hotline, which is reached through RAINN.org, or through [https://online.rainn.org](https://online.rainn.org/) (the "Online Hotline"), or related sites of RAINN.org that may be used to access the Online Hotline. By visiting RAINN.org, or using the Online Hotline, you agree to follow the terms and conditions of this Online Privacy Policy. RAINN may change these terms and conditions from time to time without prior notification, so please consult these terms and conditions regularly for any such changes.
+This Online Privacy Policy is intended to describe how the Rape, Abuse & Incest National Network ("RAINN") handles information gathered at [www.rainn.org]() ("RAINN.org") and the National Sexual Assault Online Hotline, which is reached through RAINN.org, or through [https://online.rainn.org](https://online.rainn.org/) (the "Online Hotline"), or related sites of RAINN.org that may be used to access the Online Hotline. By visiting RAINN.org, or using the Online Hotline, you agree to follow the terms and conditions of this Online Privacy Policy. RAINN may change these terms and conditions from time to time without prior notification, so please consult these terms and conditions regularly for any such changes.
 
 Your privacy and security are very important to us. The following information will help you understand what information we collect online, and how we handle that information once we collect it. This policy will tell you if we disclose that information to anyone, and what choices you have regarding how we use that information. Please note that this Online Privacy Policy applies only to RAINN.org and to the Online Hotline website, and not to the websites of any other organizations to which we may link or that may link to us.
 
