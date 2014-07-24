@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vertical-leap.co.uk privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424144212id_/http%3A//www.verticalleap.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vertical-leap.co.uk privacy policy that was archived on 2014-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140724225312id_/http%3A//www.verticalleap.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Our Privacy Policy
+# Privacy Policy for the Vertical Leap website
 
 **Our Privacy Policy falls into two sections. 1) Privacy Statement for Customers Using Vertical Leap’s search engine marketing service 2) Privacy Statement for Visitors to Sites Tracked by Vertical Leap**
 
@@ -70,13 +70,14 @@ If Vertical Leap makes any material changes to the way we use your personally id
 **For More Information**  
 If you have any questions or comments about this policy, our services, or your experience with Vertical Leap Ltd, you can use the Feedback page on our site, or write to us at:
 
-Vertical Leap Ltd  
-Boathouse 6  
-19 College Road  
+div itemscope itemtype=”http://schema.org/LocalBusiness”>
+
+Vertical Leap  
+Boathouse 6, 19 College Road  
 Portsmouth Historic Dockyard  
 Portsmouth, Hampshire  
 PO1 3LJ  
-England
+United Kingdom
 
 **Privacy Statement for Visitors to Sites Tracked by Vertical Leap Ltd**
 
