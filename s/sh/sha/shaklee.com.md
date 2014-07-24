@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shaklee.com privacy policy that was archived on 2014-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140404055413id_/http%3A//www.shaklee.com/us/en/privacy_security_policy.s.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shaklee.com privacy policy that was archived on 2014-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140724040248id_/http%3A//www.shaklee.com/us/en/privacy_security_policy.s.html) for the most accurate reproduction.*
 
 # Shaklee
 
@@ -156,3 +156,5 @@ Shaklee Corporation
 Pleasanton, CA 94588  
 Questions or comments about Shaklee Corporation can be emailed to  
 [fieldsupport@shaklee.com](mailto:fieldsupport@shaklee.com)
+
+.
