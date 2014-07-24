@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the therange.co.uk privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330221754id_/http%3A//www.therange.co.uk/fcp/content/privacy_policy/content) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the therange.co.uk privacy policy that was archived on 2014-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140724090024id_/http%3A//www.therange.co.uk/fcp/content/privacy_policy/content) for the most accurate reproduction.*
 
 # The Range - Privacy Policy
 
@@ -42,7 +42,7 @@ Any service provider who under contract provides elements of our services, or ot
 
 Other third parties to whom you explicitly ask us to send your information, or about whom you are otherwise explicitly notified and consent to when using our communication service.
 
-Law enforcement agencies, other governmental agencies or third parties in response to a request for information (such as section 29 (3) Data Protection Act 1998) relating to a criminal investigation, alleged illegal activity or any other activity that may expose us, you or any other eBay user to legal liability. The personal information we disclose may include your User ID and User ID history, name, city, county, telephone number, email address, fraud complaints and bidding and listing history or anything else that we deem relevant.
+Law enforcement agencies, other governmental agencies or third parties in response to a request for information (such as section 29 (3) Data Protection Act 1998) relating to a criminal investigation, alleged illegal activity or any other activity that may expose us or you to legal liability. The personal information we disclose may include your User Login and User history, name, city, county, telephone number, email address, fraud complaints and payment history or anything else that we deem relevant.
 
 Back to top
 
