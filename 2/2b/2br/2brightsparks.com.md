@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2brightsparks.com privacy policy that was archived on 2013-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130208092243id_/http%3A//www.2brightsparks.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2brightsparks.com privacy policy that was archived on 2014-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140724191849id_/http%3A//www.2brightsparks.com/privacy.html) for the most accurate reproduction.*
 
 # 2BrightSparks | Privacy
 
@@ -8,7 +8,7 @@
 2BrightSparks Pte Ltd:   
 Privacy Statement
 
-You may also download our Privacy Statement as a [PDF Document](https://web.archive.org/web/20130208092243id_/http%3A//www.2brightsparks.com/assets/pdf/2BrightSparksPrivacy.pdf) [opens new window].  
+You may also download our Privacy Statement as a [PDF Document](https://web.archive.org/web/20140724191849id_/http%3A//www.2brightsparks.com/assets/pdf/2BrightSparksPrivacy.pdf) [opens new window].  
 
 
 |   | 
@@ -63,7 +63,7 @@ Our site's Support Ticketing, Mailing List, and other forms require users provid
 2BrightSparks gives users the option to opt out or [Contact Us](http://www.2brightsparks.com/help/index.php?pf=usr) for removing their information from our database so they do not receive future communications or mailing list messages.
 
 **Correct/Update**  
-You can send an email to us by visiting our [Support Area](http://www.2brightsparks.com/help/index.php?pf=usr) to change and/or modify information previously provided. 
+You can send an email to us by visiting our [Support Area](http://support.2brightsparks.com/) to change and/or modify information previously provided. 
 
 **Additional Information  
 **  
