@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myjobscotland.gov.uk privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326133010id_/https%3A//www.myjobscotland.gov.uk/termsandconditions) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myjobscotland.gov.uk privacy policy that was archived on 2014-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140724061455id_/https%3A//www.myjobscotland.gov.uk/termsandconditions) for the most accurate reproduction.*
 
 # myjobscotland.gov.uk
 
