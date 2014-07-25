@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the sex-finger.com privacy policy that was archived on 2013-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131018200713id_/http%3A//www.sex-finger.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sex-finger.com privacy policy that was archived on 2014-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140726012000id_/http%3A//www.sex-finger.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sex Finger.com
+
+[](http://www.sex-finger.com/wp-content/plugins/max-banner-ads-pro/max-banner-ads-lib/include/redirect.php?id=10)  
+
 
 _Last Modified: June 17, 2013_
 
@@ -75,5 +78,3 @@ We may offer our Members the opportunity to access or modify information provide
 **XI.        ** ** ** **Where to Direct Questions About Our Privacy Policy**
 
 If You have any questions about this Privacy Policy or the practices described herein, You may contact Us at [mailto:admin@Sex-Finger.com](mailto:admin@biglivesexcams.com)
-
-[](http://www.hupso.com/share/)
