@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the room77.com privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215030902id_/https%3A//www.room77.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the room77.com privacy policy that was archived on 2014-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140725125402id_/https%3A//www.room77.com/privacy.html) for the most accurate reproduction.*
 
 # Room 77 Privacy Policy
 
@@ -46,5 +46,5 @@ You may also write us:
 
 Room 77, Inc.  
 Attn: Privacy Officer  
-888 Villa St. 3rd Floor  
-Mountain View, CA 94041 
+P.O. Box 390835  
+Mountain View, CA 94039 
