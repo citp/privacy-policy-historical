@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geoarm.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328054724id_/http%3A//www.geoarm.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geoarm.com privacy policy that was archived on 2014-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140726010011id_/http%3A//www.geoarm.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy : GeoArm Security
 
