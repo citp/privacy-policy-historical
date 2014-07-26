@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realestateview.com.au privacy policy that was archived on 2014-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140630055923id_/http%3A//www.realestateview.com.au/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realestateview.com.au privacy policy that was archived on 2014-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140726220717id_/http%3A//www.realestateview.com.au/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Real Estate Australia on realestateview.com.au - Australian property listings
 
