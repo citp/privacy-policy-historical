@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pipedns.com privacy policy that was archived on 2014-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140303153746id_/http%3A//www.pipedns.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pipedns.com privacy policy that was archived on 2014-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140726200857id_/http%3A//pipedns.com/privacy) for the most accurate reproduction.*
 
 # Pipe DNS
 
