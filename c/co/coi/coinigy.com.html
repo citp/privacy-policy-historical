@@ -1,0 +1,287 @@
+<!--The following is the downloaded HTML source of the coinigy.com privacy policy that was archived on 2014-07-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140726182952id_/https%3A//www.coinigy.com/site/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en"><head>
+<title>Coinigy</title>
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">var base_url = 'https://www.coinigy.com/'</script>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<link rel="shortcut icon" href="https://www.coinigy.com/assets/comingsoon/img/favicon.ico?v=1" type="image/x-icon">
+<link href="https://www.coinigy.com/assets/css/stylesheets.css" rel="stylesheet" type="text/css">
+<link href="https://www.coinigy.com/assets/css/v2.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="https://www.coinigy.com/assets/javascripts/plugins/jquery/jquery.min.js"></script>
+<script type="text/javascript" src="https://www.coinigy.com/assets/javascripts/plugins/jquery/jquery-migrate.min.js"></script>
+<script type="text/javascript" src="https://www.coinigy.com/assets/javascripts/plugins/jquery/globalize.js"></script>
+<script type="text/javascript" src="https://www.coinigy.com/assets/javascripts/plugins/jquery/jquery-ui.min.js"></script>
+<script type="text/javascript" src="https://www.coinigy.com/assets/javascripts/plugins/bootstrap/bootstrap.min.js"></script>
+<script type="text/javascript" src="https://www.coinigy.com/assets/javascripts/plugins/mcustomscrollbar/jquery.mCustomScrollbar.min.js"></script>
+<script type="text/javascript" src="https://www.coinigy.com/assets/javascripts/plugins/uniform/jquery.uniform.min.js"></script>
+<script type="text/javascript" src="https://www.coinigy.com/assets/javascripts/plugins/tagsinput/jquery.tagsinput.min.js"></script>
+<script type="text/javascript" src="https://www.coinigy.com/assets/javascripts/plugins/knob/jquery.knob.js"></script>
+<script type="text/javascript" src="https://www.coinigy.com/assets/javascripts/plugins/sparkline/jquery.sparkline.min.js"></script>
+<script type="text/javascript" src="https://www.coinigy.com/assets/javascripts/plugins/datatables/jquery.dataTables.min.js"></script>
+<script type="text/javascript" src="https://www.coinigy.com/assets/javascripts/plugins/ticker/webticker.js"></script>
+<script type="text/javascript" src="https://www.coinigy.com/assets/javascripts/sprintf.js"></script>
+<script type="text/javascript" src="https://www.coinigy.com/assets/javascripts/plugins.js"></script>
+<script type="text/javascript" src="https://www.coinigy.com/assets/javascripts/actions.js"></script>
+<script type="text/javascript" src="https://www.coinigy.com/assets/javascripts/settings.js"></script>
+<script type="text/javascript" src="https://www.coinigy.com/assets/javascripts/functions.js"></script>
+<script type="text/javascript" src="https://www.coinigy.com/assets/javascripts/plugins/noty/jquery.noty.js"></script>
+<script type="text/javascript" src="https://www.coinigy.com/assets/javascripts/plugins/sanitizer/html-sanitizer-minified.js"></script>
+<script type="text/javascript" src="https://www.coinigy.com/assets/javascripts/plugins/pnotify/jquery.pnotify.js"></script>
+<link href="https://www.coinigy.com/assets/javascripts/plugins/pnotify/jquery.pnotify.default.css" rel="stylesheet" type="text/css">
+<link href="https://www.coinigy.com/assets/javascripts/plugins/pnotify/jquery.pnotify.default.icons.css" rel="stylesheet" type="text/css">
+<link href="https://www.coinigy.com/assets/css/ticker.css" rel="stylesheet" type="text/css">
+<script type="text/javascript">
+       var btn = $.fn.button.noConflict() // reverts $.fn.button to jqueryui btn
+       $.fn.btn = btn // assigns bootstrap button functionality to $.fn.btn
+        var stack_bottomright = {"dir1": "up", "dir2": "left", "firstpos1": 55, "firstpos2": 12};
+        $.pnotify.defaults.delay = 4500;                    
+        
+
+        
+      
+        function notificationTimer() {
+                the_notificationTimer = setInterval(function () {
+                            showTimedNotifications(); //assets/javascripts/plugins/pnotify/jquery.pnotify.js                             
+                    }, 10107);
+                }  
+                    
+
+        var images = new Array();                        
+        var image_urls = new Array();
+        //php spits out images_urls var
+        image_urls[0] = 'https://www.coinigy.com/assets/img/exchange/BITF.png'; image_urls[0] = 'https://www.coinigy.com/assets/img/exchange/BITS.png'; image_urls[0] = 'https://www.coinigy.com/assets/img/exchange/BTRX.png'; image_urls[0] = 'https://www.coinigy.com/assets/img/exchange/BTCC.png'; image_urls[0] = 'https://www.coinigy.com/assets/img/exchange/BTCE.png'; image_urls[0] = 'https://www.coinigy.com/assets/img/exchange/BTER.png'; image_urls[0] = 'https://www.coinigy.com/assets/img/exchange/CNGY.png'; image_urls[0] = 'https://www.coinigy.com/assets/img/exchange/CRYP.png'; image_urls[0] = 'https://www.coinigy.com/assets/img/exchange/KRKN.png'; image_urls[0] = 'https://www.coinigy.com/assets/img/exchange/MCX.png'; image_urls[0] = 'https://www.coinigy.com/assets/img/exchange/MINT.png'; image_urls[0] = 'https://www.coinigy.com/assets/img/exchange/OK.png'; image_urls[0] = 'https://www.coinigy.com/assets/img/exchange/PLNX.png'; 
+
+        function preloadImages() {                            
+
+            images[0] = new Image();
+            images[0].src = base_url + "assets/img/loading-icons/loading3.gif";
+
+            for (i = 1; i < image_urls.length; i++) {
+                images[i] = new Image();
+                images[i].src = image_urls[i];
+            }
+        } 
+                        
+                        
+        $(document).ready(function () {
+
+            var allowScrolling = false;
+          
+                        allowScrolling=true                      
+
+            if(allowScrolling==true){
+                        $('html').css('overflow', 'visible');
+                        $('body').css('overflow', 'visible');
+            }
+
+
+                       
+            preloadImages();
+            
+            $('<audio id="alertSound"><source src="' + base_url + 'assets/sounds/pop.wav" type="audio/wav"></audio>').appendTo('body');
+            
+            
+            //start a timer to track inactivity on the page
+            startTimeoutTimer();
+
+            // this bit needs to be loaded on every page where an ajax POST may happen         
+
+        });
+        
+    </script>
+<style>.hoverRow:hover{background-color:#0F2D4F;cursor:pointer;}.selectedRow{background-color:#476C87;cursor:pointer;}</style>
+<meta name="viewport" content="width=1302">
+</head>
+<body>
+<div id="mask"></div>
+<div id="mask_gif"></div>
+<div class="modal fade" id="mask_timeout" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal-dialog" style="width:300px;">
+<div class="modal-content">
+<div class="modal-body clearfix">
+<div style="width:270px;text-align:center;height:30px;"><img src="https://www.coinigy.com//assets/img/logo.png"></div>
+<div class="icon-coffee" style="font-size:70px;float:left;margin-top:38px;width:100px;height:55px;"></div><div style="width:150px;float:right;text-align:left;margin-top:17px;"><span style="font-weight:bold;">Are you still there?</span><br><button id="btnRefresh" onclick="window.location.reload();" class="btn btn-info" style="margin-top:8px;">Continue</button></div>
+</div>
+</div>
+</div>
+</div>
+<div id="mask_timeoutx" title="Inactivity Notice" class="modal fade modal-dialog"></div>
+<div id="mask_beta" title="Staged Rollout"><div class="icon-lock" style="font-size:70px;float:left;margin-top:28px;width:100px;height:40px;"></div><div style="width:160px;float:right;text-align:left;margin-top:4px;"><span style="font-weight:bold;">This feature is temporarily disabled.</span><br>Please check back soon.</div></div>
+<div id="wrap">  
+<input type="hidden" name="csrf_coinigy" id="csrf_coinigy" value="da0dcf48096ef41aceece33fa10cb10a">
+<div id="navbar_container" class="navbar-fixed-top row">
+<div class="col-md-12">
+<nav class="navbar brb" role="navigation">
+<div class="navbar-header">
+<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+<span class="sr-only">Toggle navigation</span>
+<span class="icon-reorder"></span>
+</button>
+<a class="navbar-brand" href="https://www.coinigy.com/main"><img src="https://www.coinigy.com/assets/img/logo.png"></a>
+</div>
+<div class="collapse navbar-collapse navbar-ex1-collapse">
+<div class="navbar-right">
+<ul class="nav navbar-nav">
+<li class="active">
+<a href="https://www.coinigy.com/auth/login">
+<span class="icon-user"></span> login
+</a>
+</li>
+</ul>
+</div>
+</div>
+</nav>
+</div>
+</div>
+<br><br><br>
+<div class="container">
+<div class="row">
+<div class="col-md-2">
+</div>
+<div class="col-md-8">
+<div class="block block-drop-shadow">
+<div class="header">
+<h2>Coinigy LLC Privacy Policy</h2>
+</div>
+<div class="content controls" style="overflow-y:scroll;max-height:90%;height:500px;">
+<div class="form-row">
+<div class="col-md-12">
+This Privacy Policy covers Coinigy LLC referred to as "affiliated companies," "we," "us," and "our" throughout this policy.
+<br><br>
+<span style="font-weight:bold;text-decoration:underline;">Privacy is our priority.<br></span>
+We are committed to protecting our customers' personal information.
+In the course of providing financial products and services, we need to collect and maintain certain personal information.
+This Privacy Policy answers some questions about what personal information we collect and why, what we do with it, and how we protect it.
+<br><br>
+<span style="font-weight:bold;text-decoration:underline;">What types of personal information do we collect?</span><br>
+When you apply for, open, or maintain an account with us,
+or when you agree to allow us to provide personalized advisory services, we collect the following types of information:
+<br><br>
+Information you provide online and on applications or other forms, or through discussions we have with you or your representatives, such as your name, address, date of birth, investment experience, risk tolerance, and any information about your personal investment goals or objectives.<br>
+Information about your transactions with or through us, such as your account balance, trading activity, and account history, if applicable.<br><br>
+<span style="font-weight:bold;text-decoration:underline;">Why Do We Collect Personal Information?<br></span>
+We use and disclose personal information for the purposes that we have disclosed to you, except as otherwise permitted by law. We will request your consent before we use or disclose your information for any materially different purpose. Unless specifically described below, consent may be obtained in any legally sufficient method. For example, depending on the circumstance and the laws of your jurisdiction, consent may be obtained by providing you with notice and the opportunity to opt-out.
+<br><br>
+In general, we collect, use and disclose personal information to meet the needs of our customers and for our business purposes, including:<br><br>
+-to provide the products and services you request;<br>
+-the day-to-day operation and maintenance of accounts and services;<br>
+-collection of amounts outstanding from you;<br>
+-to tell you about services or other related products and services offered by us;<br>
+-to manage our websites and services;<br>
+-to understand our customers and their needs;<br>
+-to learn about our markets and design and improve our services and related products;<br>
+-to administer and process any request for information or job application;<br>
+-to comply with our regulatory and legal obligations, including but not limited to warrants, subpoenas and court orders or to meet government tax reporting requirements;<br>
+-to contact you (including by way of e-mail), including:<br>
+-in response to your inquiries and comments, and to safeguard your interests;<br>
+-to provide you with information about our products and services, or those of others, that you may be interested in;<br>
+-to investigate suspicious activities; and<br>
+-to protect our rights and property.<br>
+<br>
+We may collect personal information from visitors to our websites and individuals who participate in a promotion, contest or survey (including online or via telephone). We may use this information to advise them of products, services and other marketing materials which may be of interest to them. We may also invite visitors to participate in market research, surveys and similar activities.
+<br><br>
+<span style="font-weight:bold;text-decoration:underline;">Where do we store personal information?<br></span>
+Generally, the personal information that we collect from you will be stored in the United States and other countries,
+which may have different privacy laws and standards than those in your country of residence. <br><br>
+It is important to note that some or all of your personal information provided to third party service providers may be held in countries other than your own, including in particular the United States.
+You acknowledge and understand that your personal information will be subject to the applicable laws of each such jurisdiction, which may not provide for the same protection as your country of residence. For example, government entities in the United States and other countries may have certain legislative rights to access your personal information. If you have questions about our policies and practices with respect to service providers outside your jurisdiction, including the collection, use, disclosure or storage of such personal information by our service providers worldwide, you may contact our Chief Privacy Officer by e-mail at CPO@coinigy.com.<script type="text/javascript">
+/* <![CDATA[ */
+(function(){try{var s,a,i,j,r,c,l,b=document.getElementsByTagName("script");l=b[b.length-1].previousSibling;a=l.getAttribute('data-cfemail');if(a){s='';r=parseInt(a.substr(0,2),16);for(j=2;a.length-j;j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}s=document.createTextNode(s);l.parentNode.replaceChild(s,l);}}catch(e){}})();
+/* ]]> */
+</script>
+<br><br>
+How do we protect the confidentiality and security of personal information?<br>
+We maintain reasonable physical, electronic, and procedural safeguards to protect your personal information. We place your account information on the secure portion of our website, using firewalls and other security technology to protect our network and systems from external attacks, and we require you to enter a unique user name and password to access your account information online. Our servers are enabled with Secure Sockets Layer (SSL) technology to prevent unauthorized parties from viewing the personal information that you provide or access during a secure session (look for the padlock icon on your browser). In addition, if you access information online, we use digital certificate services to authenticate that you are transacting with our website and not the website of an impostor.
+<br><br>
+Our employees and third party service providers have access to your personal information only on a "need to know" basis. We conduct regular internal audits of our business practices and procedures in order to protect your personal information.
+<br><br>
+<span style="font-weight:bold;text-decoration:underline;">How can customers access and update their personal information or correct any inaccuracy?<br></span>
+As a customer, you can access and update certain personal information that we collect about you.
+You may log on to our website using your user name and password. From the home page, click on you user name in the upper right and select the Account tab.
+<br><br>
+We shall make every reasonable effort to maintain your personal information in an accurate, complete and up-to-date form. If you believe that your personal information is inaccurate, incomplete or out-of-date, you may request a correction at any time. Unless we have your personal information in our capacity as a third-party administrative record keeper, when you successfully demonstrate that your personal information is inaccurate or incomplete, we will correct or update the information as required.
+<br><br>
+Please note that before we are able to provide you with any information or correct any inaccuracies we may ask you for additional information to verify your identity. We will only use this information to verify your identity.
+<br><br>
+<span style="font-weight:bold;text-decoration:underline;">Children's Privacy</span>
+Our website is not targeted to children under the age of 13 and we do not intentionally collect personal information from children under the age of 13.
+If we discover that a child under the age of 13 has provided us with personal information through this website,
+we will take reasonable steps to delete the information. If you believe we may have accidentally received personal information from a child under the age of 13,
+please contact us immediately.
+<br><br>
+<span style="font-weight:bold;text-decoration:underline;">What should I know about "cookies"?<br></span>
+"Cookies" are small amounts of data that a website can send to your web browser and store on your computer.
+Our cookies do not contain personal information about you. Coinigy LLC will not store identifying personal information in website cookies.
+<br><br>
+You do have control over cookies. Most Web browsers can be set to notify you when an HTML cookie is placed on your computer.
+You can manually delete HTML cookies and set most browsers to refuse to accept HTML cookies, although doing so may affect your website experience.
+<br><br>
+<span style="font-weight:bold;text-decoration:underline;">Updates to This Policy<br></span>
+Coinigy may amend this policy from time to time. The revisions will take effect on the date of publication of the amended policy, as stated.
+We will notify you through our website of any material changes to the policy. In the event that the changes we make to the policy are substantial or
+affect the personal information we have already collected in accordance with this policy,
+you will be entitled to withdraw your consent to such personal information handling practices provided such consent is not necessary for us to provide
+to you the services or products you have requested.
+<br><br>
+<span style="font-weight:bold;text-decoration:underline;">For questions about our Privacy policy, please email us at <a href="mailto:support@coinigy.com">support@coinigy.com<script type="text/javascript">
+/* <![CDATA[ */
+(function(){try{var s,a,i,j,r,c,l,b=document.getElementsByTagName("script");l=b[b.length-1].previousSibling;a=l.getAttribute('data-cfemail');if(a){s='';r=parseInt(a.substr(0,2),16);for(j=2;a.length-j;j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}s=document.createTextNode(s);l.parentNode.replaceChild(s,l);}}catch(e){}})();
+/* ]]> */
+</script></a></span>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="col-md-2">
+</div>
+</div>
+<script src="https://www.coinigy.com/assets/lib/bootstrap/js/bootstrap.js"></script>
+<script src="https://www.coinigy.com/assets/javascripts/fnReloadAjax.js"></script>
+<script type="text/javascript">        
+        
+        $(document).ready(function () {
+            $('.content').css('height', $(window).height() - 150);
+        });
+        	
+    </script>
+<script type="text/javascript">
+/* <![CDATA[ */
+(function(){try{var s,a,i,j,r,c,l=document.getElementsByTagName("a"),t=document.createElement("textarea");for(i=0;l.length-i;i++){try{a=l[i].getAttribute("href");if(a&&"www.cloudflare.com/email-protection"==a.substr(7 ,35)){s='';j=43;r=parseInt(a.substr(j,2),16);for(j+=2;a.length-j&&a.substr(j,1)!='X';j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}j+=1;s+=a.substr(j,a.length-j);t.innerHTML=s.replace(/</g,"&lt;").replace(/>/g,"&gt;");l[i].setAttribute("href","mailto:"+t.value);}}catch(e){}}}catch(e){}})();
+/* ]]> */
+</script>
+
+</div>  
+<div>
+<div class="page-footer">
+<div class="page-footer-wrap">
+<table style="width:100%">
+<tbody><tr>
+<td style="width:250px;">© 2014 Coinigy LLC - <a href="https://www.coinigy.com/site/terms">Terms</a> - <a href="https://www.coinigy.com/site/privacy">Privacy</a> </td>
+<td style="text-align:center;">
+<ul id="ticker_tape" class="pull-left newsticker">
+ 
+</ul>
+</td>
+<td style="width:150px;text-align:right;">
+</td>
+</tr>
+</tbody></table>
+</div>
+</div>
+</div>
+</div>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-2770327-52', 'coinigy.com');
+  ga('send', 'pageview');
+
+</script>
+
+</body></html>
