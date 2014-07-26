@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oregonscientific.com privacy policy that was archived on 2011-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111209025331id_/http%3A//www.oregonscientific.com/legal_info.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oregonscientific.com privacy policy that was archived on 2014-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140726080022id_/http%3A//corporate.oregonscientific.com/legal_info.asp) for the most accurate reproduction.*
 
 # Oregon Scientific - Smart Living
 
