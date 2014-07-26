@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cooksmarts.com privacy policy that was archived on 2014-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140216103933id_/http%3A//www.cooksmarts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cooksmarts.com privacy policy that was archived on 2014-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140726115344id_/http%3A//www.cooksmarts.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Cook Smarts
 
@@ -10,7 +10,7 @@ While we want to concentrate on the stuff that will help you cook, we want to ma
 
 #### INFORMATION WE COLLECT UPON SIGN-UP
 
-We collect and store information that you have explicitly provide to us through forms on our website when you sign up. For example, when you purchase our products and create a website membership, we collect various pieces of personal information such as name, email, and payment information. We do not record or store any payment information. Your credit card and banking information is kept with our payment processor Stripe. You can read more about their privacy policy here.
+We collect and store information that you have explicitly provide to us through forms on our website when you sign up. For example, when you purchase our products and create a website membership, we collect various pieces of personal information such as name, email, and payment information. We do not record or store any payment information. Your credit card and banking information is kept with our payment processor Stripe. You can read more about their [privacy policy here](https://stripe.com/us/privacy).
 
 We only use your personal and payment information to charge you for the services you choose to receive and to be able to provide you with those services.
 
