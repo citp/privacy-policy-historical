@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the performancehorizon.com privacy policy that was archived on 2014-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140510005331id_/http%3A//performancehorizon.com/docs/phg_privacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the performancehorizon.com privacy policy that was archived on 2014-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140726053954id_/http%3A//www.performancehorizon.com/docs/phg_privacy.pdf) for the most accurate reproduction.*
 
 # PRIVACY POLICY 1. Introduction and General Terms
 
@@ -165,8 +165,7 @@ local	  terms	  for	  additional	  information.	  
 
 If	  you	  have	  any	  questions	  or	  comments	  about	  this	  Privacy	  Policy	  please	  contact;	  
 Performance	  Horizon	  Group	  Limited	  
-The	  Quadrus	  Centre	  
-Woodstock	  Way,	  	  
-Boldon	  Business	  Pk,	  	  
-Boldon	  Colliery	  	  
-NE35	  9PF	  
+One	  Trinity	  Green	  
+Eldon	  Street	  
+South	  Shields	  
+NE33	  1SA	  
