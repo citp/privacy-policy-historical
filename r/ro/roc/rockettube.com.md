@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rockettube.com privacy policy that was archived on 2014-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140514092736id_/http%3A//www.rockettube.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockettube.com privacy policy that was archived on 2014-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140727002228id_/http%3A//www.rockettube.com/privacy.php) for the most accurate reproduction.*
 
 # RocketTube.com Terms of Use and Privacy Policy
 
