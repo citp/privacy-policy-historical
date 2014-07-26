@@ -1,6 +1,11 @@
-> *The following text is extracted and transformed from the murad.com privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330182406id_/http%3A//www.murad.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the murad.com privacy policy that was archived on 2014-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140726063457id_/http%3A//www.murad.com/privacy-policy) for the most accurate reproduction.*
 
 # Murad Privacy Policy
+
+  *     * The product AHA/BHA Exfoliating Cleanser has been added to comparison list.
+    * The product Intensive Wrinkle Reducer® for eyes has been added to comparison list.
+
+
 
 ### Security Statement
 
