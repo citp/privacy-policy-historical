@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spicyavenue.com privacy policy that was archived on 2013-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130522205515id_/http%3A//www.spicyavenue.com/pages/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spicyavenue.com privacy policy that was archived on 2014-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140726203149id_/http%3A//www.spicyavenue.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - was last modified in January 2013
+# None
 
 **PRIVACY POLICY**
 
@@ -61,5 +61,3 @@ Occasionally, at our discretion, we may include or offer third party products or
 If Spicy Avenue decides to change our Privacy Policy, we will post those changes on this page, and update the Privacy Policy modification date below.
 
 This policy was last modified in January 2013.
-
-[Home](https://web.archive.org/) / Privacy Policy
