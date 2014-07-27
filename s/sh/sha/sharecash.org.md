@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sharecash.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625070317id_/http%3A//sharecash.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharecash.org privacy policy that was archived on 2014-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140727165231id_/http%3A//sharecash.org/privacy.php) for the most accurate reproduction.*
 
 # ShareCash - Make Money Uploading Files!
 
@@ -77,4 +77,4 @@ We reserve the right to modify this privacy policy at any time without prior not
 
 #### 14\. Additional Information
 
-If you have any questions about our Privacy Policies, please [contact us](https://web.archive.org/web/20140625070317id_/http%3A//sharecash.org/contact.php).
+If you have any questions about our Privacy Policies, please [contact us](https://web.archive.org/web/20140727165231id_/http%3A//sharecash.org/contact.php).
