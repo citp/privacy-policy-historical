@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evanscycles.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625153508id_/http%3A//www.evanscycles.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evanscycles.com privacy policy that was archived on 2014-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140727174955id_/http%3A//www.evanscycles.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Help | Evans Cycles
 
@@ -22,7 +22,7 @@ Cookies are used on this shopping site only to keep track of the contents of you
 
 What is a cookie?
 
-A cookie is a small text file which we transfer to your hard drive through your web browser when you visit our website or open certain emails. It enables our own system to recognise you when you visit our website again and improve our service to you. This information can be used to enhance the content of our website and make your use of it easier. For more information about cookies please visit [www.allaboutcookies.org](https://web.archive.org/web/20140625153508id_/http%3A//www.evanscycles.com/help/www.allaboutcookies.org).
+A cookie is a small text file which we transfer to your hard drive through your web browser when you visit our website or open certain emails. It enables our own system to recognise you when you visit our website again and improve our service to you. This information can be used to enhance the content of our website and make your use of it easier. For more information about cookies please visit [www.allaboutcookies.org](https://web.archive.org/web/20140727174955id_/http%3A//www.evanscycles.com/help/www.allaboutcookies.org).
 
 Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our site.
 
