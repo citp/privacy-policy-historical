@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the needanarticle.com privacy policy that was archived on 2013-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130916001834id_/http%3A//needanarticle.com/index2/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the needanarticle.com privacy policy that was archived on 2014-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140727071214id_/http%3A//needanarticle.com/index2/privacy-policy) for the most accurate reproduction.*
 
 # NAA Privacy Policy
 
@@ -70,5 +70,6 @@ http://www.needanarticle.com
 
 NeedanArticle. LLC  
 Nampa Idaho  
-208-703-0611  
-scott@scottfoster.info
+208-703-0611
+
+http://naahub.com/go 
