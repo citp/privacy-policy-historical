@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bendigobank.com.au privacy policy that was archived on 2014-06-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140614074242id_/http%3A//www.bendigobank.com.au/public/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bendigobank.com.au privacy policy that was archived on 2014-07-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140727110455id_/http%3A//www.bendigobank.com.au/public/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" style="" class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -30,12 +30,13 @@
 					        <!-- JS -->
         <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/public/_designs/site-name-website/mobile-redirect.js" type="text/javascript"></script>
         <script src="/public/__data/assets/js_file/0019/487/modernizr.min.js?v=0.2.1" type="text/javascript"></script>
-        <script src="/public/__data/assets/js_file/0006/55464/mobile-redirect.js" type="text/javascript"></script> <!-- mobile-redirect.js ->    
+        <script>var assetID = "444";</script>
+<script src="/public/__data/assets/js_file/0006/55464/mobile-redirect.js" type="text/javascript"></script> <!-- mobile-redirect.js -->    
 <!--
   Running Squiz Matrix
   Developed by Squiz - http://www.squiz.net
   Squiz, Squiz Matrix, MySource, MySource Matrix and Squiz.net are registered Trademarks of Squiz Pty Ltd
-  Page generated: 14 June 2014 10:25:59
+  Page generated: 27 July 2014 10:12:21
 -->
 
 
@@ -88,8 +89,8 @@
   </ul>
   <ul class="aux-links">
     <li><a href="/public/contact-us" title="Contact Us"><span>Customer care</span> 1300 236 344</a></li>
-    <li class="facebook"><a href="http://www.facebook.com/BendigoBank" title="Bendigo Bank Facebook" target="_blank">Facebook</a></li>
-    <li class="twitter"><a href="https://twitter.com/bendigobank" title="Bendigo Bank Twitter" target="_blank">Twitter</a></li>
+    <li class="facebook"><a href="http://www.facebook.com/BendigoBank" title="Bendigo Bank Facebook" target="_blank" onclick="_gaq.push(['_trackEvent', 'Social Button', 'View', 'SocialButtonFacebook-View-Header']);">Facebook</a></li>
+    <li class="twitter"><a href="https://twitter.com/bendigobank" title="Bendigo Bank Twitter" target="_blank" onclick="_gaq.push(['_trackEvent', 'Social Button', 'View', 'SocialButtonTwitter-View-Header']);">Twitter</a></li>
     <!--<li class="chat-now"><a href="#">Chat now</a></li>-->
   </ul>
 </div>
@@ -165,13 +166,17 @@ if (!popName){popName = (!poptype)?"Bendigo":poptype;}
 //functions from logon.js
 function logonTo(){
 	if(document.Logon.loginType[0].checked == true){
+             if(typeof _gaq !== "undefined" && _gaq.push) {
                 _gaq.push(['_trackEvent', 'e-banking Logon', 'Logon', 'Header']);
-		checkSessionCookie();
-		setCookies();
+             }
+             checkSessionCookie();
+             setCookies();
 	}
 	else{
+             if(typeof _gaq !== "undefined" && _gaq.push) {
                 _gaq.push(['_trackEvent', 'Share trading Logon', 'Logon', 'Header']);
-		popUp('https://invest.etrade.com.au/Home.aspx?user=BENDIGOVIS', '');
+             }
+             popUp('https://invest.etrade.com.au/Home.aspx?user=BENDIGOVIS', '');
 	}
 }
 var BendigoBank = 0;
@@ -240,7 +245,7 @@ function setCookies ()
             <div class="login-portals">
                 <a href="https://www.bendigobank.com.au/e-banking/demo/index.html" class="login-demo" target="_blank">Demo</a>
                 <a href="/public/personal/ways-to-bank/online-banking/e-banking" class="login-register">Register</a>
-                <a href="/public/wealth/investing/share-trading/getting-started" class="login-register-sharetrading">Register</a>
+                <a href="/public/wealth/investing/share-trading/apply" class="login-register-sharetrading">Register</a>
                 <input type="submit" title="Logon" value="Logon" class="login-submit" onclick="logonTo();">
             </div>
         </fieldset>
@@ -671,7 +676,7 @@ function setCookies ()
                 <input type="text" id="email-input" name="SearchAddress" placeholder="Suburb or Postcode" class="closest-loc geocode-address">
             </div>
             <div class="controls">
-                <input type="submit" title="Go" value="Go" class="button">
+                <input type="submit" title="Go" value="Go" class="button" disabled="">
             </div>
         </fieldset>
     </form>
@@ -753,10 +758,25 @@ function setCookies ()
         
 			<!-- jQuery -->
 <script src="/public/__data/assets/js_file/0017/485/jquery-1.9.1.min.js" type="text/javascript"></script>
-<script src="/public/__data/assets/js_file/0006/94263/global-fallbackjs.js?v=0.1.10"></script> <!-- global.js -->
+<script src="/public/__data/assets/js_file/0016/484/global.js?v=0.2.224"></script> <!-- global.js -->
 <script src="/public/__data/assets/js_file/0014/482/custom.js?v=0.2.4" type="text/javascript"></script> <!-- custom.js -->
 <!-- ADDITIONAL -->
 <script src="https://maps.google.com/maps/api/js?sensor=false" type="text/javascript"></script>
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+   var _gaq = _gaq || [];
+   _gaq.push(['_setAccount', 'UA-2778385-1']);
+   _gaq.push(['_trackPageview']);
+
+   (function() {
+     var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+     ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+   })();
+</script>
+<!-- END Google Analytics -->
+
 
 <!-- START FUNNELBACK SCRIPTS -->
 
@@ -768,21 +788,7 @@ try { top.document.domain } catch (e)
    setInterval(f, 1);
    if (document.body) { document.body.onload = f; }
 }
-</script>
-
-<!-- Google Analytics -->
-<script type="text/javascript">
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-2778385-1']);
-  _gaq.push(['_trackPageview']);
-
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-</script>
-<!-- END Google Analytics -->			
+</script>			
         <!-- ADDITIONAL SCRIPTS -->
         
         <!-- endnoindex-->
