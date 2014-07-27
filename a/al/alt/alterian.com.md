@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the alterian.com privacy policy that was archived on 2014-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140620174958id_/http%3A//www.sdl.com/aboutus/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alterian.com privacy policy that was archived on 2014-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140727140532id_/http%3A//www.sdl.com/aboutus/privacypolicy.html) for the most accurate reproduction.*
 
-# SDL plc ("SDL") PRIVACY POLICY | SDL
+# Privacy Policy | SDL
 
   * In using our websites, SDL will ensure your privacy is protected. We will not sell your personal information and will only use it for internal purposes.
   * We place various cookies on your browser enabling us to understand how you are using our websites and to learn how we can provide you with better experiences and offers that align with your needs. Some of the cookies are for third parties that help us advertise and measure the impact of our advertising. Cookies are important to the proper functioning of a site and rejecting them will negatively affect your web experience. Should you nonetheless decide to reject cookies please refer to our Cookie Policy page.
