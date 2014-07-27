@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mybloggerbuzz.com privacy policy that was archived on 2014-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140621110500id_/http%3A//www.mybloggerbuzz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mybloggerbuzz.com privacy policy that was archived on 2014-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140727115557id_/http%3A//www.mybloggerbuzz.com/privacy) for the most accurate reproduction.*
 
 # My Blogger Buzz: Privacy Policy
 
