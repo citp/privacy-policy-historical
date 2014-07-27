@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the viddsee.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625001342id_/http%3A//viddsee.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the viddsee.com privacy policy that was archived on 2014-07-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140727191350id_/http%3A//www.viddsee.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html style="" class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
   
@@ -10,14 +10,14 @@
   <!-- Meta -->
   <!--meta name="title" property="title" content="Privacy Policy | Viddsee"-->
   <meta name="description" property="description" content="View our privacy policy.">
-  <link rel="canonical" href="https://www.viddsee.com/privacy/">
+  <link rel="canonical" href="https://www.viddsee.com/privacy">
 
   <!-- Facebook Meta -->
   <meta property="fb:app_id" content="538801979481079">
   <meta name="og:title" property="og:title" content="Privacy Policy | Viddsee">
   <meta name="og:description" property="og:description" content="View our privacy policy.">
   <!-- <meta name="og:type" property="og:type" content=""> -->
-  <meta name="og:url" property="og:url" content="https://www.viddsee.com/privacy/">
+  <meta name="og:url" property="og:url" content="https://www.viddsee.com/privacy">
   <meta name="og:image" property="og:image" content="">
   <meta name="og:image:type" property="og:image:type" content="image/jpg">
   
@@ -42,7 +42,7 @@
 <!-- Latest compiled and minified CSS -->
 <link rel="stylesheet" href="/css/bootstrap.min.css">
 <link href="https://fonts.googleapis.com/css?family=Open+Sans:400italic,600italic,400,600,700" rel="stylesheet" type="text/css">
-<link href="http://fonts.googleapis.com/css?family=Signika:300,400,600,700" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Signika:300,400,600,700" rel="stylesheet" type="text/css">
 
 <link href="/webfonts/ss-social-regular.css" rel="stylesheet">
 <link href="/webfonts/ss-standard.css" rel="stylesheet">
@@ -65,7 +65,9 @@
 <script type="text/javascript" src="/js/ladda.min.js"></script>
 <script type="text/javascript" src="/js/waypoints.min.js"></script>
 <script type="text/javascript" src="/js/jquery.dotdotdot.min.js"></script>
-<script type="text/javascript" src="/js/alertify.min.js"></script>
+<script type="text/javascript" src="/js/alertify.js"></script>
+<script type="text/javascript" src="/js/moment.min.js"></script>
+<script type="text/javascript" src="/js/Autolinker.min.js"></script>
 
 <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -140,10 +142,10 @@ googletag.enableServices();
 
 
   <meta content="authenticity_token" name="csrf-param">
-<meta content="8AJSQT4PmX0JjnjePs+HOlXxgXrHsVT1iWxso9nP3R0=" name="csrf-token">
+<meta content="AtTt/t6e+yprer8/b9kQIHpzzMZbS1z6GZZds2XMNoY=" name="csrf-token">
 
 </head>
-<body class="bg-grey-1">
+<body class="bg-grey-1" style="">
   <div class="body-container bg-grey-1">
   	<!-- Navigation -->
 <div id="nav-container" class="" role="navigation">
@@ -305,7 +307,7 @@ googletag.enableServices();
                 <li><a href="/genres">Genres</a></li>
                 <li><a href="/topics">Topics</a></li>
                 <li><a href="/channels">Channels</a></li>
-                <li><a href="http://buzz.viddsee.com">BUZZ</a></li>
+                <li><a href="/series">Series</a></li>
               </ul>
           
         </div>
@@ -384,6 +386,7 @@ googletag.enableServices();
 			<form id="signup-form" action="/sendy_subscribe" method="post">
 				<div id="sendy-tf" class="tf-email-container">
 	    			<input type="text" name="email" class="form-control tf-email" placeholder="email">
+	    			<input type="hidden" name="Origin" class="form-control tf-origin" value="viddsee">
 	    			<button id="sendy-submit" type="submit" class="btn btn-submit">Go</button>
 	    		</div>
             </form>
@@ -506,6 +509,117 @@ googletag.enableServices();
 </script>
 
 
+  <div id="modal-email" class="modal fade modal-add-account" tabindex="-1" role="dialog" aria-hidden="true">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-body">
+        <h3 class="js-welcome-title">Welcome to Viddsee</h3>
+        <p class="mt">We'd love to share with you our latest short films, which is your preferred inbox?</p>
+        <div class="clearfix email-selection">
+          <div class="use-current-email pull-left" onclick="confirmFbEmail()">
+            <div class="fb-details">
+              <img src="" class="js-profile-image">
+              <strong class="ml js-email wrap-text" style="overflow-wrap: break-word;"></strong>
+            </div>
+          </div>
+          <div class="add-new-email pull-left mt" onclick="updateEmailClicked()">
+            <div class="js-email-check">
+              <i class="ss-mail ml"></i>
+              <strong class="ml">Add new address</strong>
+            </div>
+            <form role="form" class="js-subscribe-form subscribe-form form-inline clearfix">
+              <div class="form-group pull-left has-feedback">
+                <label class="sr-only" for="subscribeEmail">Email address</label>
+                <input type="email" class="form-control js-new-email" id="subscribeEmail" placeholder="Email me at...">
+                <span class="glyphicon form-control-feedback"></span>
+              </div>
+              <button type="submit" class="pull-right js-new-email-submit"><i class="ss-icon">next</i></button>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+  function updateEmailClicked () {
+    $('.js-email-check').fadeOut(400, function() {
+      $('.js-subscribe-form').fadeIn();
+    });
+  }
+
+  function confirmFbEmail () {
+    _gaq.push(['_trackEvent', 'update-email', 'facebook-email']);
+    $('#modal-email').modal('hide');
+    var url = "/sendy_subscribe";
+    var email = $('#modal-email .js-email').html();
+    $.post(url, {
+        email: email,
+        list: "C0kimYT2XPMbzC892KJs8t2A",
+        Origin: "update"
+      },
+      function(data) {
+        
+      }
+    );
+  }
+
+  var emailIsValid = false;
+
+  $('#modal-email .js-new-email-submit').on('click', function (e) {
+    e.preventDefault();
+    e.stopPropagation();
+    if (emailIsValid) {
+      $('.js-subscribe-form button').html('<img src="/images/loading-spin.svg">');
+      confirmNewEmail();
+      setTimeout(function(){$('#modal-email').modal('hide');}, 1200);
+    }
+  });
+
+  var checkEmailValidity = _.debounce(function(e) {
+    var inputEmail = $('.js-subscribe-form input').val();
+    emailIsValid = isEmailValid(inputEmail);
+    clearAllFeedback();
+    if (inputEmail != '' && emailIsValid) {
+      $('.js-subscribe-form .form-group').addClass('has-success');
+      $('.js-subscribe-form .form-control-feedback').addClass('glyphicon-ok');
+    } else if (inputEmail != '' && !emailIsValid) {
+      $('.js-subscribe-form .form-group').addClass('has-error');
+      $('.js-subscribe-form .form-control-feedback').addClass('glyphicon-remove');
+    }
+  }, 300);
+
+  function clearAllFeedback() {
+    $('.js-subscribe-form .form-group').removeClass('has-success has-error');
+    $('.js-subscribe-form .form-control-feedback').removeClass('glyphicon-ok glyphicon-remove');
+  }
+
+  $('.js-subscribe-form input').keyup(checkEmailValidity);
+
+  function confirmNewEmail () {
+    _gaq.push(['_trackEvent', 'update-email', 'alternate-email']);
+    var url = "/sendy_subscribe";
+    var email = $('#modal-email .js-new-email').val();
+    $.post(url, {
+        email: email,
+        list: "C0kimYT2XPMbzC892KJs8t2A",
+        Origin: "update"
+      },
+      function(data) {
+        
+      }
+    );
+  }
+
+  function isEmailValid(email) {
+      var filter = /^([a-zA-Z0-9_\.\-])+\@(([a-zA-Z0-9\-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+      if (!filter.test(email))
+          return false;
+      return true;
+  }
+
+</script>
 
   <!-- Underscore Template Definition -->
 
@@ -533,16 +647,7 @@ googletag.enableServices();
                     <div class="stats stats-{{= video.uid }}" >
                   <div class="shares shares-{{= video.uid }}" data-url="http://viddsee.com/video/{{= video.friendly_url }}/{{= video.uid }}"></div>
                   <div class="likes">
-                  {{ var likes = video.rating_like + video.ext_likes + video.legacy_likes + video.lost_likes}}
-                  {{ if (video.season) { }}
-                      {{ likes += video.season.series.ext_likes }}
-                  {{ } }}
-                  
-                  {{ if (video.channels) { }}
-                      {{ video.channels.forEach (function (channel) { }}
-                          {{ likes += channel.ext_likes }}
-                      {{ }); }}
-                  {{ } }}
+                  {{ var likes = video.rating.rating_like + video.rating.ext_likes + video.rating.legacy_likes + video.rating.lost_likes + video.rating.series_likes + video.rating.channel_likes}}
                   {{ //var likes = video.rating_like }}
                   {{ if (likes < 1000 ){ }}
                     <div class="value"></div> {{= likes }} <i class="ss-icon ss-standard ss-heart"></i></div>
@@ -651,6 +756,37 @@ googletag.enableServices();
         <a href="/fb_login" class="font-black-0 font-hover-black-0">Login with Facebook</a>
       </li>
     </ul>
+  </script>
+
+  <script type="text/template" class="tpl-recommended">
+    <li class="clearfix">
+      <a onclick="recommendedClicked('{{= video.title }}')" href="/video/{{= video.friendly_url }}/{{= video.uid }}">
+        <div class="pull-left related-image" style="background-image:url('{{= video.photo_medium_url }}');">
+          <p class="duration">{{= video.duration }} min</p>
+        </div>
+        <div class="related-content pull-left">
+            {{ if(typeof(title) != 'undefined') { }}
+              <strong>{{= title }}</strong>
+            {{ } else { }}
+              <strong>{{= video.title }}</strong>
+            {{ } }}
+            <div class="wrap-text">{{= strip(video.description_long) }}</div>
+            <div class="details">
+              <div>
+                {{ var genres = video.genres.split(',') }}
+                {{ genres.forEach(function (genre) {  }}
+                  #{{= genre.trim() }}&nbsp;
+                {{ }); }}
+                
+                {{ var topics = video.topics.split(',') }}
+                {{ topics.forEach(function (topic) {  }}
+                  #{{= topic.trim() }}&nbsp;
+                {{ }); }}
+              </div>
+            </div>
+        </div>
+      </a>
+    </li>
   </script>
 
   <!-- /Underscore Template Definition -->
