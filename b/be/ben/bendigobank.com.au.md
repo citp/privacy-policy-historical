@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bendigobank.com.au privacy policy that was archived on 2014-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140614074242id_/http%3A//www.bendigobank.com.au/public/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bendigobank.com.au privacy policy that was archived on 2014-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140727110455id_/http%3A//www.bendigobank.com.au/public/privacy-policy) for the most accurate reproduction.*
 
 # Policies - Bendigo Bank
 
