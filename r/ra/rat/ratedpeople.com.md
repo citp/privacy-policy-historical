@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ratedpeople.com privacy policy that was archived on 2014-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140607063954id_/http%3A//www.ratedpeople.com/c/legal-2/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ratedpeople.com privacy policy that was archived on 2014-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140727153323id_/http%3A//www.ratedpeople.com/c/legal-2/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Home
 
