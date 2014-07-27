@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designvitality.com privacy policy that was archived on 2014-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140419120031id_/http%3A//www.designvitality.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designvitality.com privacy policy that was archived on 2014-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140727235635id_/http%3A//www.designvitality.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # DesignVitality Privacy Policy
 
