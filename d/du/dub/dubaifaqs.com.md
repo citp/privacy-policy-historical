@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the dubaifaqs.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625234333id_/http%3A//www.dubaifaqs.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dubaifaqs.com privacy policy that was archived on 2014-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140727182921id_/http%3A//www.dubaifaqs.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Dubai FAQs Privacy Policy
 
-|   [Home](http://www.dubaifaqs.com/ "Dubai FAQs home") | [Dubai forum](http://www.desertspeak.com/ "Abu Dhabi, Dubai, UAE Q&A") | Print |  |  | 
+|   [Home](http://www.dubaifaqs.com/ "DubaiFAQs home") | [Forum](http://www.desertspeak.com/ "Dubai forum") | Print |  |  | 
 
-**Thursday 26 June 2014 (UAE)   **  
+**Sunday 27 July 2014 (UAE)   **  
   
 ---|---|---|---  
    
@@ -32,7 +32,7 @@ Most pages on DubaiFAQs.com display advertisements from the Google Adsense progr
   
 ##### Related pages
 
-  * [About Dubai FAQs](https://web.archive.org/web/20140625234333id_/http%3A//www.dubaifaqs.com/about-us.php)
+  * [About Dubai FAQs](https://web.archive.org/web/20140727182921id_/http%3A//www.dubaifaqs.com/about-us.php)
 
 
 
@@ -41,8 +41,6 @@ Most pages on DubaiFAQs.com display advertisements from the Google Adsense progr
 
   
   
-##### More reading from Dubai FAQs ...
-
 * * *
 
 **www.dubaifaqs.com/privacy-policy.php**
