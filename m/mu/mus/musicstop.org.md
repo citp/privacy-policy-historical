@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musicstop.org privacy policy that was archived on 2013-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130911030426id_/http%3A//www.musicstop.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicstop.org privacy policy that was archived on 2014-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140727115243id_/http%3A//www.musicstop.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
