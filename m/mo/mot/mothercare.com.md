@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mothercare.com privacy policy that was archived on 2014-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140430095305id_/http%3A//www.mothercare.com/privacy-policy/services-ms-privacypolicy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mothercare.com privacy policy that was archived on 2014-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140727173610id_/http%3A//www.mothercare.com/privacy-policy/services-ms-privacypolicy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # privacy policy
 
@@ -10,7 +10,7 @@ This privacy statement sets out how mothercare.com will store and use informatio
 
 Mothercare.com is committed to protecting your privacy. We have taken all the essential measures to make sure that any information you give us, including credit card details, remains private and secure and that your payment and registration information is processed with total confidentiality. When you place orders or access account information, we offer the use of a secure server. The secure server software (SSL) encrypts all information you input before it is sent to us. Furthermore, as required by the UK Data Protection laws, we follow strict security procedures in the storage and disclosure of information, which you have given us, to prevent, unauthorised access. Our security procedures mean that we may occasionally require proof of identity before we are able to disclose sensitive or other information to you. If you have any further questions about our credit card security policies, please contact us. Click on the contact us tab at the top of this page. The Customer Care Centre is open from 8am to 8pm Monday to Saturday and from 9am to 5pm on Sunday.
 
-Note: If you still have questions about shopping online, but want to enjoy the benefits of shopping at Mothercare.com, call our Customer Care Centre on **0844 875 5222** (International **+44 (0)1923 210 210** ) to place an order.
+Note: If you still have questions about shopping online, but want to enjoy the benefits of shopping at Mothercare.com, call our Customer Care Centre on **0344 875 5222** (International **+44 (0)1923 210 210** ) to place an order.
 
 ## What we collect
 
@@ -57,7 +57,7 @@ If you wish to unsubscribe from email communications from mothercare you can do 
 Cherry Tree Road  
 Watford  
 WD24 6SH  
-**Tel:** 0844 875 5222  
+**Tel:** 0344 875 5222  
 [Email Us](http://help.mothercare.com/help/emailPage)
 
 What if you think we have incorrect information or you would like a copy of the information we hold about you? You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. This fee will not exceed £10, or the prevailing statutory maximum. If you would like a copy of the information held on you, please write to:
@@ -136,7 +136,7 @@ Most web browsers allow you to control cookies through your browser settings. Yo
 
 [Mozilla Firefox](http://support.mozilla.org/en-US/kb/Enabling%20and%20disabling%20cookies)
 
-If your web browser is not detailed above or you are using a mobile device, please consult your user manual or online help guide for details on how to control cookies. To find out more about cookies and how to manage them, you may wish to visit [www.allaboutcookies.org](https://web.archive.org/web/20140430095305id_/http%3A//www.mothercare.com/privacy-policy/www.allaboutcookies.org). 
+If your web browser is not detailed above or you are using a mobile device, please consult your user manual or online help guide for details on how to control cookies. To find out more about cookies and how to manage them, you may wish to visit [www.allaboutcookies.org](https://web.archive.org/web/20140727173610id_/http%3A//www.mothercare.com/privacy-policy/www.allaboutcookies.org). 
 
 Please remember that all of the links above are third party websites. We do not endorse them and are not responsible for their contents.
 
