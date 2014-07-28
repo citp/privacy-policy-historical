@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the incorporate.com privacy policy that was archived on 2014-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140409072704id_/https%3A//www.incorporate.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the incorporate.com privacy policy that was archived on 2014-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140728190348id_/https%3A//www.incorporate.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement - The Company Corporation
 
