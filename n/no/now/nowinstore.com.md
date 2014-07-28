@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nowinstore.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625141656id_/http%3A//nowinstore.com/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nowinstore.com privacy policy that was archived on 2014-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140728080450id_/http%3A//www.nowinstore.com/legal/privacy_policy) for the most accurate reproduction.*
 
 # Now In Store - Personalized Catalogs For Your Products
 
