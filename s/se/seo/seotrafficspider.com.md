@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seotrafficspider.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208091317id_/http%3A//www.seotrafficspider.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seotrafficspider.com privacy policy that was archived on 2014-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140728172317id_/http%3A//www.seotrafficspider.com/privacy-policy.html) for the most accurate reproduction.*
 
 # SEO Traffic Spider | Privacy Policy | Targeted Website Traffic | Affordable SEO Services | Website Traffic | SEO Services | Increase Website Traffic | SEO Packages
 
@@ -10,8 +10,6 @@
 ---  
 |  |   
 ---|---  
-  
-[ ](http://www.google.com/coop/trust/add?user=002487540560114585238&sig=__MIYb1REsueJQUQ2gM5xgK33yoOM=)  
   
    
 |   
