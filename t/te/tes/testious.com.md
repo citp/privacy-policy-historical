@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the testious.com privacy policy that was archived on 2014-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140523132210id_/http%3A//www.testious.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the testious.com privacy policy that was archived on 2014-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140728225343id_/http%3A//www.testious.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | testious.com
 
