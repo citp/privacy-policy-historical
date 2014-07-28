@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldnow.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627050128id_/http%3A//www.worldnow.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldnow.com privacy policy that was archived on 2014-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140728060831id_/http%3A//www.worldnow.com/privacy_policy) for the most accurate reproduction.*
 
 # WorldNow : Worldnow Privacy Policy
 
@@ -67,23 +67,3 @@ We use third-party advertising companies to serve ads when you visit this Web si
 ### Questions?
 
 Questions regarding this Privacy Policy should be directed to us at [Info@Worldnow.com](mailto:Info@Worldnow.com).
-
-##### Amplify capability, brand identity, and revenue by pairing with a suite of Services & Training, including:
-
-[ ](https://web.archive.org/services#strategic_consultation)
-
-Strategic Consultation
-
-[ ](https://web.archive.org/services#custom_development)
-
-Custom Development & Production
-
-[ ](https://web.archive.org/services#adops_management)
-
-Ad Operations and Management
-
-[ ](https://web.archive.org/services#technical_support)
-
-24/7 Customer Support
-
-[See full Worldnow SERVICES suite](https://web.archive.org/services)
