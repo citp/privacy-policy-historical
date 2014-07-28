@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watchmywebinar.com privacy policy that was archived on 2014-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140402162310id_/http%3A//www.watchmywebinar.com/mobileapps/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchmywebinar.com privacy policy that was archived on 2014-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140728065532id_/http%3A//www.watchmywebinar.com/mobileapps/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
