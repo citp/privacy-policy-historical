@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sandhira.com privacy policy that was archived on 2014-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140314011638id_/http%3A//www.sandhira.com/privacy-policy-us) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sandhira.com privacy policy that was archived on 2014-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140729005541id_/http%3A//www.sandhira.com/privacy-policy-us) for the most accurate reproduction.*
 
 # Privacy Policy
 
