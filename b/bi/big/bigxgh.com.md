@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigxgh.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625052529id_/http%3A//bigxgh.com/contact-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigxgh.com privacy policy that was archived on 2014-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140729145116id_/http%3A//bigxgh.com/contact-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - BiGxGh.Com
 
