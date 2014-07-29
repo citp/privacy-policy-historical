@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ebestproducts.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325041217id_/http%3A//www.ebestproducts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebestproducts.com privacy policy that was archived on 2014-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140729145423id_/http%3A//www.ebestproducts.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | EbestProducts.com
+# Privacy Policy - Interesting Articles on Health, Finance, Science, Business, Sports, Home, and Education
 
 **Privacy Policy for www.ebestproducts.com**
 
