@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mercurymarine.com privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529032734id_/http%3A//www.mercurymarine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercurymarine.com privacy policy that was archived on 2014-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140729041950id_/http%3A//www.mercurymarine.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mercury Marine
 
