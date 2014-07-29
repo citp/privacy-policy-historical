@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quotesea.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626233140id_/http%3A//www.quotesea.com/privacystatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quotesea.com privacy policy that was archived on 2014-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140729090318id_/http%3A//www.quotesea.com/privacystatement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -43,6 +43,8 @@ quotesea secures your personal information from unauthorized access, use or disc
 quotesea will occasionally update this Statement of Privacy to reflect company and customer feedback. quotesea encourages you to periodically review this Statement to be informed of how quotesea is protecting your information.
 
 ### Random quotes
+
+[](https://web.archive.org/quotes/by/guru-gobind-singh)
 
   
   
