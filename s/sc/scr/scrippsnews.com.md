@@ -1,20 +1,37 @@
-> *The following text is extracted and transformed from the scrippsnews.com privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622053549id_/http%3A//www.shns.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scrippsnews.com privacy policy that was archived on 2014-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140729213443id_/http%3A//jteach.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Scripps Howard News Service
+# Privacy Policy | JTeach.org
 
-**Scripps Howard News Service Copyright and Privacy Policy**
+Thank you for visiting the Board of Jewish Education of Metropolitan Chicago’s (BJE) website, JTeach.org and reviewing our privacy policy. The BJE does not collect your personal information when you visit our website unless you choose to provide that information to us. The BJE does not sell, exchange, or release your personally identifiable information to outside parties.
 
-PLEASE NOTE THAT OUR PRIVACY POLICY has changed effective September 10, 2009.
+If You Send Us Personal Information  
+BJE’s JTeach.org website only will collect personal information which you knowingly and voluntarily provide by, for example, sending emails, completing membership forms, registering for accounts, responding to surveys or ordering merchandise.  If you provide us with personal information, we normally will respond to your inquiry, request, or order.  
+When we send you information by email, you always will have an immediate opportunity to decline further communication. Please use the contact specified in the email so that we can remove you from the list that contains your name. If you are uncertain about whom to contact, you may contact us at marshallcenter@bjechicago.org.
 
-If you submitted personally identifiable information to us prior to the above effective date, and desire to opt out of having that previously submitted personally identifiable information from being treated under the new policy, please contact us at [nielsend@shns.com](mailto:nielsend@shns.com).
+Information Collected and Stored Automatically  
+If you visit our website, we automatically gather and store the following information about your visit so that we can track the use of our website in order to make improvements. This information is stored and used in aggregate form only, and is not used to contact you personally:  
+The IP address from which you access our website  
+The name of the domain from which you access the Internet (for example, aol.com, if you are connecting from an America Online account)  
+The type of browser and operating system used to access our website  
+The date and time you access our site  
+The pages, files, documents and links that you visit  
+The Internet address of the website from which you linked to this website
 
-PRIVACY POLICY  
-(Effective September 10, 2009)
+Cookies  
+In addition to information collected automatically, we use cookies, which are small pieces of information sent to your browser by a website that you visit. These cookies do not collect personally identifiable information. Cookies are used to track usage patterns, traffic trends, and customer behavior, as well as to record other information from the website. When you register on the website, cookies also allow us to save information so that you will not have to re-enter it the next time you visit. Many content adjustments and customer service improvements are made based on the data derived from cookies. Information that we collect from cookies will not be used to create profiles of users and will only be used in aggregate form.  
+The BJE’s JTeach.org privacy policy does not cover any use of information that third parties may have collected from you (e.g., type of browser, operating system, domain name, day and time of visit, page(s) visited) or the methods used by the third-parties to collect that information (e.g., cookies, web beacons).
 
-Welcome to www.shns.com ("Website"), an interactive online service operated by The E.W. Scripps Company and its subsidiaries ("us", "we", or "our"). Please read the following to learn more about our Privacy Policy.
+Children and Privacy  
+Childrens’ Online Privacy Protection Act Compliance  
+BJE is concerned about protecting children’s privacy. We do not collect personally identifiable information from children. If a visitor known to be a child (under the age of thirteen (13)) sends an email to JTeach.org, we only will use it to respond to the writer and not to create profiles or otherwise retain the information.
 
-We respect your privacy and are committed to protecting personally identifiable information you may provide us through our Website. We have adopted this Privacy Policy ("Privacy Policy") to explain what information may be collected on our Website, how we use this information, and under what circumstances we may disclose the information to third parties. This Privacy Policy applies only to information we collect through our Website and does not apply to our collection of information from other sources.
+Security  
+We take reasonable precautions to ensure that all credit card transactions that occur on the JTeach.org website are secure. When you submit your credit card for any purchase, that transaction is encrypted using “Secure Socket Layer” (SSL) encryption to protect your credit card information.  We monitor network traffic to ensure that our site remains available to all users and to identify unauthorized attempts to access, upload or change information or otherwise cause damage.  
+Unauthorized access is prohibited and punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act.
 
-This Privacy Policy, together with the Terms of Use posted on our Website, sets forth the general rules and policies governing your use of our Website. Depending on your activities when visiting our Website, you may be required to agree to additional terms and conditions.
+Comments  
+Questions and comments about this Privacy Policy may be directed to us via email at marshallcenter@bjechicago.org .  
+This policy was last modified on July 9, 2014.
 
-We generally keep this Privacy Policy posted on our Website and you should review it frequently, as it may change from time to time without notice. Any changes will be effective immediately upon the posting of the revised Privacy Policy. WHEN YOU ACCESS OUR WEBSITE, YOU AGREE TO THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, OR TO ANY CHANGES WE MAY SUBSEQUENTLY MAKE, IMMEDIATELY STOP ACCESSING OUR WEBSITE. If, at any point, we decide to use your personally identifiable information in a manner materially different than what was stated at the time it was collected, we will notify you of this change by e-mail to the last e-mail address provided to us. You will have a choice (by means of an "opt out" opportunity) as to whether we use the information in this different manner. We will use information in accordance with the Privacy Policy under which your information was collected if you opt out of the new policy.
+
+
