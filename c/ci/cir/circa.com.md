@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the circa.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625090623id_/http%3A//procapslabs.com/Content/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the circa.com privacy policy that was archived on 2014-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140730012512id_/http%3A//www.procapslabs.com/content/privacy.aspx) for the most accurate reproduction.*
 
 # ProCaps Laboratories - The Informed Choice in Vitamins and Supplements
 
@@ -68,7 +68,7 @@ If you would like to stop receiving our email alerts and newsletters, we have mu
 
   1. Click the unsubscribe link at the bottom of the email to remove your email address from our email list(s).
   2. Call our Customer Care Center at 1-800-800-1200 and request to be removed from the email list. 
-  3. For our customers with ProCapsLabs.com website accounts, you can also log-in to your [ account details](https://web.archive.org/Account/AccountSignIn.aspx) and edit your email preferences by clicking on the View/Edit email services link. [ back to top ]
+  3. For our customers with ProCapsLabs.com website accounts, you can also log-in to your [ account details](https://web.archive.org/Account/accountsignin.aspx) and edit your email preferences by clicking on the View/Edit email services link. [ back to top ]
 
 
 
