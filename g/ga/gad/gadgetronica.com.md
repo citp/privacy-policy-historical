@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gadgetronica.com privacy policy that was archived on 2014-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140317232445id_/http%3A//gadgetronica.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gadgetronica.com privacy policy that was archived on 2014-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140729135141id_/http%3A//gadgetronica.com/blog/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Gadgetronica
 
