@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the analnippon.com privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817094634id_/http%3A//www.supportidols.com/support_faq/analnippon-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the analnippon.com privacy policy that was archived on 2014-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140729190811id_/http%3A//www.supportidols.com/support_faq/analnippon-privacy.html) for the most accurate reproduction.*
 
 # Analnippon.com - Privacy Statement
 
