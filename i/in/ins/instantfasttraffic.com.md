@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instantfasttraffic.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213000554id_/http%3A//www.instantfasttraffic.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instantfasttraffic.com privacy policy that was archived on 2014-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140729203441id_/http%3A//www.instantfasttraffic.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
