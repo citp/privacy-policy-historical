@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the slowcookerfromscratch.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628135355id_/http%3A//www.slowcookerfromscratch.com/2012/01/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slowcookerfromscratch.com privacy policy that was archived on 2014-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140729111910id_/http%3A//www.slowcookerfromscratch.com/2012/01/privacy-policy.html) for the most accurate reproduction.*
 
 # Slow Cooker from Scratch®: Privacy Policy
 
