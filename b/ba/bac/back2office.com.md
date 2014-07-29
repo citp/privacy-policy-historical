@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the back2office.com privacy policy that was archived on 2014-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140228164706id_/http%3A//back2office.com/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the back2office.com privacy policy that was archived on 2014-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140729192959id_/http%3A//www.back2office.com/index.php%3Fa%3D28%26b%3D145) for the most accurate reproduction.*
 
 # 
 
