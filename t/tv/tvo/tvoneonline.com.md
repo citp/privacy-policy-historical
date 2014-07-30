@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tvoneonline.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625053315id_/http%3A//www.tvoneonline.com/inside-tv-one/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvoneonline.com privacy policy that was archived on 2014-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140730093032id_/http%3A//www.tvoneonline.com/inside-tv-one/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
