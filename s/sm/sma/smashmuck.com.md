@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smashmuck.com privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623162443id_/http%3A//www.kizstudios.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smashmuck.com privacy policy that was archived on 2014-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140730023156id_/http%3A//www.kizstudios.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Kiz Studios
 
