@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myjobhelper.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625180849id_/http%3A//www.myjobhelper.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myjobhelper.com privacy policy that was archived on 2014-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140730233429id_/http%3A//www.myjobhelper.com/privacy.php) for the most accurate reproduction.*
 
 # Job Search | Search for Jobs Near You. MyJobHelper - Privacy Policy
 
