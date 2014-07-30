@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sendreach.com privacy policy that was archived on 2014-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140604041303id_/http%3A//sendreach.com/privacy_policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sendreach.com privacy policy that was archived on 2014-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140730032357id_/http%3A//www.sendreach.com/privacy_policy.pdf) for the most accurate reproduction.*
 
 # LEGAL PRIVACY POLICY
 
@@ -8,7 +8,8 @@ to	  preserving	  your	  online	  safety	  by	  preserving	  your	
 with	  our	  site.	  	  
 Our	  Terms	  of	  Use	  and	  Privacy	  Policy	  offers	  you	  a	  thorough	  explanation	  regarding	  your	  personal	  data	  
 provided	  to	  us	  or	  any	  data	  we	  may	  collect	  from	  you.	  
-This	  Privacy	  Policy	  is	  updated	  from	  time	  to	  time;	  therefore,	  it	  should	  be	  reviewed	  occasionally.	  	  
+This	  Privacy	  Policy	  is	  updated	  from	  time	  to	  time;	  therefore,	  it	  should	  be	  reviewed	  occasionally.	  [For	  
+the	  purpose	  of	  the	  Data	  Protection	  Act	  1998,	  Genex	  Networks	  Ltd	  is	  our	  data	  controller.]	  	  
 Collected	  Information	  	  
        1. Data	  can	  be	  collected	  and	  processed	  during	  the	  operations	  of	  our	  website.	  The	  following	  are	  
              ways	  we	  may	  perform	  these	  actions:	  	  
@@ -37,9 +38,9 @@ Our	  Use	  of	  Your	  Information	  	  
        2. Any	  request	  you	  make	  of	  our	  site	  or	  personnel	  allows	  us	  to	  use	  information	  you	  provided	  us	  
              with,	  relating	  to	  the	  products	  or	  services	  we	  have.	  We	  may	  also	  send	  information	  on	  
              products	  or	  services	  you	  may	  be	  interested	  in,	  as	  long	  as	  consent	  has	  been	  received.	  	  
-       3. Contract	  Commitments:	  To	  meet	  any	  Commitment	  we	  make	  to	  you.	  	  
 
 
+   3. Contract	  Commitments:	  To	  meet	  any	  Commitment	  we	  make	  to	  you.	  	  
    a) Changes	  or	  Improvements	  made	  to	  the	  site	  can	  warrant	  use	  of	  your	  information,	  with	  regard	  
       to	  notification	  of	  such	  changes.	  	  
    b) An	  existing	  customer	  may	  be	  contacted	  regarding	  products	  and	  services	  related	  to	  any	  item	  
@@ -72,16 +73,17 @@ Personal	  Data	  Storage	  
       protect	  information	  sent	  to	  us	  electronically.	  Transmission	  of	  any	  data	  by	  you	  is	  at	  your	  own	  
       risk.	  Where	  applicable	  you	  may	  be	  given	  access	  to	  sections	  of	  our	  site	  that	  require	  a	  
       password.	  You	  are	  responsible	  for	  the	  passwords	  safety	  and	  confidentiality.	  	  
+   4. We	  do	  not	  store	  credit	  card	  details	  nor	  do	  we	  share	  customer	  details	  with	  any	  3rd	  parties.	  
 Information	  Disclosure	  	  
    1. At	  times	  we	  may	  disclose	  personal	  information	  to	  persons	  in	  our	  group.	  This	  can	  include	  
       subsidiaries,	  holding	  companies,	  or	  any	  other	  subsidiaries	  involved	  in	  our	  business,	  if	  
       applicable.	  	  
    2. Third	  Party	  disclosure	  may	  occur	  for	  the	  following	  reasons:	  
    a) Selling	  any	  or	  all	  of	  our	  business	  to	  a	  third	  party	  may	  result	  in	  sharing	  your	  information.	  	  
-   b) At	  any	  time	  when	  we	  are	  legally	  required	  to	  we	  may	  disclose	  information	  about	  you	  and	  
-      your	  visits	  to	  our	  sites.	  	  
 
 
+    b) At	  any	  time	  when	  we	  are	  legally	  required	  to	  we	  may	  disclose	  information	  about	  you	  and	  
+           your	  visits	  to	  our	  sites.	  	  
     c) To	  prevent	  fraud	  and	  help	  in	  fraud	  protection	  in	  order	  to	  reduce	  credit	  risk,	  we	  may	  disclose	  
            information.	  	  
 Third	  Party	  Links	  	  
@@ -93,9 +95,9 @@ Information	  Accessibility	  	  
     1. We	  cannot	  withhold	  data	  we	  collect	  about	  you,	  as	  per	  The	  Data	  Protection	  Act	  1998.	  This	  act	  
            provides	  you	  with	  access	  to	  any	  information	  we	  may	  hold	  on	  you.	  If	  you	  wish	  to	  have	  access	  
            to	  any	  data	  we	  have	  collected	  on	  you,	  you	  are	  able	  to	  review	  or	  modify	  it	  at	  any	  time	  though	  
-           the	  Client	  Admin	  Area	  at	  http://support.sendreach.com	  /	  account	  admin	  /	  edit	  account	  
+           the	  Client	  Admin.Area	  at	  http://support.sendreach.com	  /	  account	  admin	  /	  edit	  account	  
            details.	  
 Contacting	  Us	  	  
 Please	  feel	  free	  to	  contact	  us	  with	  queries,	  requests,	  or	  comments	  you	  may	  have	  about	  our	  Privacy	  
 Policy.	  We	  welcome	  any	  communication	  via	  the	  email	  address	  supplied	  here:	  
-cassie@SendReach.com.	  
+admin@sendreach.com.	  
