@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the muthofon.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328104131id_/http%3A//www.muthofon.com/page/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muthofon.com privacy policy that was archived on 2014-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140730205717id_/http%3A//www.muthofon.com/page/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy policy
 
