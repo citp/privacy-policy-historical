@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebuzznet.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328060124id_/http%3A//www.ebuzznet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebuzznet.com privacy policy that was archived on 2014-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140730210727id_/http%3A//www.ebuzznet.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Ebuzznet
 
@@ -43,7 +43,7 @@ Users may find advertising or other content on our Site that link to the sites a
 
 Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
 
-**[Google](http://www.ebuzznet.com/top-10-google-seo-tips-for-2013/ "Google") Adsense**
+**Google Adsense**
 
 Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html> or by visiting <http://www.google.com/ads/preferences/html/opt-out.html>
 
