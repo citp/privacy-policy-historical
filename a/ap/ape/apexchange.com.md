@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apexchange.com privacy policy that was archived on 2014-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140210125335id_/https%3A//www.apexchange.com/pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apexchange.com privacy policy that was archived on 2014-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140730020204id_/https%3A//www.apexchange.com/pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # AP Exchange
 
