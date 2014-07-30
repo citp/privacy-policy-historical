@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clubtexting.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626125327id_/http%3A//www.clubtexting.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clubtexting.com privacy policy that was archived on 2014-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140730185603id_/http%3A//www.clubtexting.com/privacy_policy.html) for the most accurate reproduction.*
 
 # About Club Texting | Club Texting
 
