@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adverts.ie privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624033806id_/http%3A//www.adverts.ie/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adverts.ie privacy policy that was archived on 2014-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140730103502id_/http%3A//www.adverts.ie/privacy) for the most accurate reproduction.*
 
 # Privacy and Info
 
@@ -156,7 +156,7 @@ From time to time we may partner with an external provider to provide other serv
 
 You may request details of personal information which we hold about you or rectify any personal information which is incorrect or incomplete under the Data Protection Acts 1988-2003. 
 
-If you would like a copy of the information held on you please email us at [hello@adverts.ie](mailto:hello@adverts.ie). If you are a registered user please supply details of your username and email address which you supplied when registering. Please note that to protect your privacy we may require further information to verify your identity. 
+If you would like a copy of the information held on you please email us at [hello@adverts.ie](mailto:hello@adverts.ie). If you are a registered user please supply details of your username and email address which you supplied when registering. Please note that to protect your privacy we may require further information to verify your identity. There is a fee of €6.00 to process your request. Once you have paid the fee, you will be given the information within 40 days. 
 
 If you believe that any information we are holding on you is incorrect or incomplete, please email us as soon as possible at [hello@adverts.ie](mailto:hello@adverts.ie). We will promptly correct any information found to be incorrect. 
 
