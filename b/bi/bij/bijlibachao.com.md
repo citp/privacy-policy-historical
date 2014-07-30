@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bijlibachao.com privacy policy that was archived on 2014-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140530135111id_/http%3A//www.bijlibachao.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bijlibachao.com privacy policy that was archived on 2014-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140730084115id_/https%3A//www.bijlibachao.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bijli Bachao
 
