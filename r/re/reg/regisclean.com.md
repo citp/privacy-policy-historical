@@ -1,24 +1,13 @@
-> *The following text is extracted and transformed from the regisclean.com privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215111014id_/http%3A//www.freeridegames.com/do/general%3Fpartner%3DDefault%26jspName%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the regisclean.com privacy policy that was archived on 2014-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140731013403id_/http%3A//www.freeridegames.com/do/general%3Fpartner%3DDefault%26jspName%3Dprivacy) for the most accurate reproduction.*
 
-# Download free games
+# PRIVACY POLICY
 
-| 
-
-ï»¿
-
-|   
----  
-  
-|   
----  
-|  | 
-
-**Privacy Policy**
+**_Privacy Policy_**
 
 This is the Privacy Policy of Exent Technologies Ltd., located at  25 Bazel St. PO Box 10131  
 49001 Israel, whose main business is game aggregation.
 
-  1. Exent thanks you (" **You** ", " **Your** ") for visiting our freeridegames website (the " **Site** "), our services and/or applications (the Site and said services and applications, the " **Exent Services** "). Your privacy is important to us. To better protect Your privacy when using the Site and/or any of the other Exent Services, and to ensure You are aware of relevant data protection issues, we request that You carefully read this Privacy Policy before accessing any of the Exent Services. Please note that by accessing and/or using any of the Exent Services and/or part or feature thereof, You represent that You have read this Privacy Policy, understand it, accept it and agree to abide by its terms. 
+  1. Exent thanks you (" **You** ", " **Your** ") for visiting our freeride games website (the " **Site** "), our services and/or applications (the Site and said services and applications, the " **Exent Services** "). Your privacy is important to us. To better protect Your privacy when using the Site and/or any of the other Exent Services, and to ensure You are aware of relevant data protection issues, we request that You carefully read this Privacy Policy before accessing any of the Exent Services. Please note that by accessing and/or using any of the Exent Services and/or part or feature thereof, You represent that You have read this Privacy Policy, understand it, accept it and agree to abide by its terms. 
 
 Collection and Processing of information 
 
@@ -55,7 +44,7 @@ Your rights
 
   12. With relation to PII collected about You pursuant to this Privacy Policy, You may:
     1. Request us the following (each a " **Data Access Request** "): (1) to obtain without constraint, at reasonable intervals and without excessive delay or expense, a copy of all PII relating to You that is in Process; (2) obtain the correction, erasure or blocking of Your PII, in particular because it is incomplete or inaccurate; (3) object, at any time on compelling legitimate grounds relating to Your particular situation, to the further Processing of Your PII, unless that Processing is required by law; and (4) object to the Processing of Your PII for the purposes of direct marketing. For each Data Access Request except for the last one we may charge a fee of up to 10 GBP (or a sum equivalent to it in another currency).
-    2. If You believe that Your right for protection of Your PII and/or a right related thereto, whether granted in this Privacy Policy or by applicable law, has been breached ‾ send us a complaint, providing clear details of the alleged breach, including, without limitation, specifying the breached right and identifying - to the best of Your knowledge - by whom it was breached (" **Complaint** "). The Complaint will be investigated and You will be notified of our findings and conclusion concerning the claim(s) in the Complaint. If we find that such breach has indeed occurred and we are responsible for it, You will be notified of the remedies to be granted to You. If we find that there are no grounds for the Complaint, You will be provided adequate proof thereof. In any event, we assure You that You will not be subjected, as a result of any Complaint, to any retaliation action.
+    2. If You believe that Your right for protection of Your PII and/or a right related thereto, whether granted in this Privacy Policy or by applicable law, has been breached – send us a complaint, providing clear details of the alleged breach, including, without limitation, specifying the breached right and identifying - to the best of Your knowledge - by whom it was breached (" **Complaint** "). The Complaint will be investigated and You will be notified of our findings and conclusion concerning the claim(s) in the Complaint. If we find that such breach has indeed occurred and we are responsible for it, You will be notified of the remedies to be granted to You. If we find that there are no grounds for the Complaint, You will be provided adequate proof thereof. In any event, we assure You that You will not be subjected, as a result of any Complaint, to any retaliation action.
 
 To enable us to efficiently handle Your communications to us, You should clearly identify Yourself in each Data Access Request, Complaint and other communication You deliver to us. 
 
@@ -72,7 +61,3 @@ General
   16. Any information collected by us and by any other acting on our behalf, and all communications and information transmitted, received and/or contained in our information systems, are our property. In the event that we sell or transfer any of our business assets, this may include the sale or transfer of such property to the acquiring party.
 
 
-
-[](http://clicktoverify.truste.com/pvr.php?page=validate&softwareProgramId=135&sealid=112 "Free Ride Games TrustE certificate")  
-  
----|---
