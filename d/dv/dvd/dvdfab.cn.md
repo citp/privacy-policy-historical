@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dvdfab.cn privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627211120id_/http%3A//dvdfab.cn/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dvdfab.cn privacy policy that was archived on 2014-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140730092900id_/http%3A//www.dvdfab.cn/privacy.htm) for the most accurate reproduction.*
 
 # DVDFab - Copy Any DVD to DVDR/PSP/iPod. Fastest DVD Copy Software!
 
