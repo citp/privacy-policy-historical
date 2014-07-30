@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nugenix.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209062543id_/http%3A//www.nugenix.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nugenix.com privacy policy that was archived on 2014-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140730195217id_/http%3A//www.nugenix.com/privacy) for the most accurate reproduction.*
 
 # Nugenix Natural Testosterone Booster|Privacy Policy
 
