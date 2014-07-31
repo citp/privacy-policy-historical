@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the essortment.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626235055id_/http%3A//www.essortment.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the essortment.com privacy policy that was archived on 2014-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140731174013id_/http%3A//www.essortment.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | Essortment
 
@@ -86,4 +86,4 @@ We reserve the right to send you customary business communications such as gener
 
 9\. CONTACT INFORMATION AND INFORMATION ABOUT ENFORCEMENT OF OUR POLICY
 
-**Contacting Us & Our Address for Legal Notices; Notices to You.** To send us a legal notice, mail it by certified mail (return receipt requested) to: Demand Media, Inc., 5808 Lake Washington Blvd., Suite 300, Kirkland, WA 98033, Attn: Legal Department. When we need to contact you, including when we give a legal notice, we may do so to an email address that we have on file for you, or we may post notice on the Site. You must keep your email address information accurate. If we make a material change to this Policy, we will notify you by posting notice to the Site for at least 30 days and, if we have an email address on record for you, sending you an email to that address.
+**Contacting Us & Our Address for Legal Notices; Notices to You.** To send us a legal notice, mail it by certified mail (return receipt requested) to: Demand Media, Inc., 1655 26th Street, Santa Monica, CA 90404, Attn: Legal Department. When we need to contact you, including when we give a legal notice, we may do so to an email address that we have on file for you, or we may post notice on the Site. You must keep your email address information accurate. If we make a material change to this Policy, we will notify you by posting notice to the Site for at least 30 days and, if we have an email address on record for you, sending you an email to that address.
