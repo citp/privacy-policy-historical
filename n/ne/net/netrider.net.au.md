@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the netrider.net.au privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625110840id_/http%3A//netrider.net.au/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netrider.net.au privacy policy that was archived on 2014-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140731181151id_/http%3A//netrider.net.au/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Netrider - connecting riders!
 
 [ ](http://netrider.net.au/)
 
-[](https://web.archive.org/web/20140625110840id_/http%3A//netrider.net.au/help/misc/quick-navigation-menu "Open quick navigation")
+[](https://web.archive.org/web/20140731181151id_/http%3A//netrider.net.au/help/misc/quick-navigation-menu "Open quick navigation")
 
 **Netrider - connecting riders!**
 
