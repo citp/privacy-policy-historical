@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the businessetiquettearticles.com privacy policy that was archived on 2013-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130512084107id_/http%3A//mannersthatsell.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessetiquettearticles.com privacy policy that was archived on 2014-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140731150927id_/http%3A//mannersthatsell.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement |
+# Privacy statement for Lydia Ramsey, author of Manners That Sell
 
 **Lydia Ramsey and mannersthatsell.com are** the sole owner of the information collected on this site. We will not sell, share, or rent this information.
 
