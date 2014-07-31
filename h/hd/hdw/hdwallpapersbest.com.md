@@ -1,31 +1,18 @@
-> *The following text is extracted and transformed from the hdwallpapersbest.com privacy policy that was archived on 2013-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130811042026id_/http%3A//www.hdwallpapersbest.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hdwallpapersbest.com privacy policy that was archived on 2014-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140731195844id_/http%3A//www.hdwallpapersbest.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | HD Wallpapers Best
 
-**Privacy Policy of HDWallpapersBest.com**
+You are here: [Home](http://www.hdwallpapersbest.com/) » Privacy Policy
 
-We at HDWallpapersBest.com take your privacy very seriously. This document details our policy about how we collect and use user personal private information. We also detail how we deal with third party advertising partners.
+At HDWallpapersBest.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit HDWallpapersBest.com, and how we safeguard your information. We never sell your personal information to third parties.
 
-**Personally identifiable data**
+**Server Logs**  
+As with most other websites, HDWallpapersBest.com logs web, database, and other server-software usage and access information. This information may include your internet protocol (IP) address, which in many cases can be translated to an affiliation (such as your work, school, or internet service provider), or a geographical location. We only use this information for debugging purposes and for aggregating into anonymous usage and traffic statistics.
 
-We strongly discourage all website visitors not to enter any personal sensitive information about themselves including full name, phone number, credit card, physical address, email address, or any other sensitive information. We strongly advice minors and other users with limited decision ability not to visit our website without elders’ supervision. HDWallpapersBest.com tries to ensure that all personally identifiable information or any offending material is removed immediately.
+**Cookies**  
+While browsing HDWallpapersBest.com, a small number of text files referred to as cookies are created on your local file system by your web browser at the request of our servers. These files allow us to personalize the browsing experience for users. You are free to delete them at any time, or configure your browser not to create them. However, we do not guarantee that every feature of HDWallpapersBest.com will function as expected without cookies enabled.
 
-**Server Logs  Data**
+**Third-Party Advertisers**  
+HDWallpapersBest.com serves ads provided by a range of third-party advertising networks. The practices of our advertising partners are not directly covered by HDWallpapersBest.com’s privacy policy. We recommend that you read their policies. For your convenience we provide a list our advertising partners below. Unfortunately we cannot guarantee it is always comprehensive and up to date.
 
-HDWallpapersBest.com also logs data about web, database, access information, and server software usage. There can be different information parameters like IP address, the place from where you are using your internet connection (workplace, school, internet service provider), or geographical location. All the information collected on our server logs is only used to improve the web services offered and debugging any problems that may affect user experience. All data aggregated is used anonymously for traffic statistics only.
-
-**Use of cookies**
-
-We also save cookies “small text files” that are saved locally on your system. These files help us personalize the way you interact with our website. You can delete these cookies whenever you want. You can also choose not to allow your browser creating these cookies in the first place. However, HDWallpapersBest.com does not provide any guarantee that all its functionality will be fully functional once cookies are enabled.
-
-**Advertisements by third parties**
-
-HDWallpapersBest.com servers advertisements by Google Adsense, Infolinks, and a number of other third party advertisers. Our privacy policy does not cover our third party advertiser’s privacy policy. Therefore, in order for you to know about the advertisements, you must refer to respect third party advertiser (s) for more information.
-
-**Selling or sharing of data**
-
-We strongly condemn the practice of selling data to anyone for any purpose. Therefore, once you are interacting with HDWallpapersBest.com, you must never be worried about us selling your data to marketers. We respect your privacy the way we respect our own privacy.
-
-**Data Retention**
-
-We only retain, create backups of data, and copy it to other machines or servers for dealing with server crises and problems. There is no hidden purpose or ill intention behind retaining your data except for backup.
+Google, We present you the following information about Google and the [DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx): Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
