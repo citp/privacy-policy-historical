@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the costumediscounters.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209201256id_/http%3A//www.costumediscounters.com/privacy-security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the costumediscounters.com privacy policy that was archived on 2014-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140731140755id_/http%3A//www.costumediscounters.com/privacy-security.html) for the most accurate reproduction.*
 
 # Cheap Halloween Costumes with the Lowest Prices Guaranteed Buy at Costume Discounters
 
