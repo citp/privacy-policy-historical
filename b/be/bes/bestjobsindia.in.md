@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestjobsindia.in privacy policy that was archived on 2014-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140329040611id_/http%3A//www.bestjobsindia.in/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestjobsindia.in privacy policy that was archived on 2014-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140731222601id_/http%3A//www.bestjobsindia.in/privacy.htm) for the most accurate reproduction.*
 
 # Privacy policy :: Best Jobs India
 
