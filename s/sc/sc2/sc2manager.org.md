@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sc2manager.org privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623003728id_/http%3A//sc2manager.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sc2manager.org privacy policy that was archived on 2014-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140731052400id_/http%3A//sc2manager.org/privacy.php) for the most accurate reproduction.*
 
 # SC2 Manager
 
