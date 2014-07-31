@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freado.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626054156id_/http%3A//www.freado.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freado.com privacy policy that was archived on 2014-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140731183531id_/http%3A//www.freado.com/privacyandterms.php) for the most accurate reproduction.*
 
-# Privacy Policy-fReado
+# Privacy Policy & Terms of Service
 
 Effective November 6, 2008
 
