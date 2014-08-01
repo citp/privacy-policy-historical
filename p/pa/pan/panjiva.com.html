@@ -1,9 +1,11 @@
-<!--The following is the downloaded HTML source of the panjiva.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625080709id_/http%3A//panjiva.com/info/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the panjiva.com privacy policy that was archived on 2014-08-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140801191208id_/https%3A//panjiva.com/info/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en" xmlns:fb="https://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#"><!--<![endif]--><head>
 
 <meta http-equiv="X-UA-Compatible" content="IE=EDGE">
+<script async="" charset="utf-8" src="//v2.zopim.com/?gNzPbnnZRH7OdEMfUj2oM0cOirQN1nMr" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-1.newrelic.com","errorBeacon":"bam.nr-data.net","licenseKey":"497b5339ce","applicationID":"440748","transactionName":"eltdEUMOW15SE0pbDV9bHBVDCEFTVBg6QgxVXVAc","queueTime":0,"applicationTime":91,"ttGuid":"","agentToken":null,"agent":"js-agent.newrelic.com/nr-411.min.js","extra":""}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgUEVlVADAcAU1Va"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
 
 <meta name="description" content="Panjiva provides data that powers global trade. Using information from 30 sources, we have shipment and customs records, company overviews and contact information on over 10 million business world wide." charset="utf-8/">
 <meta name="keywords" content="sourcing, manufacturers, factories, suppliers, customs data, import data, export data, hs code, buyers, agents, global trade" charset="utf-8/">
@@ -16,13 +18,13 @@
 <meta name="robots" content="all">
 <meta http-equiv="imagetoolbar" content="false">
 <meta name="MSSmartTagsPreventParsing" content="true">
-<meta name="Copyright" content="Copyright (c) 2013 Panjiva">
+<meta name="Copyright" content="Copyright (c) 2014 Panjiva">
 
 <link rel="shortcut icon" href="http://global-assets.panjiva.com/images/favicon.c71d6d4ad2afb0d5.ico?c71d6d4ad2afb0d5">
 
 <link rel="search" type="application/opensearchdescription+xml" title="Panjiva Manufacturer Search" href="/assets/opensearch_plugins/panjiva.xml">
 
-<script async="" charset="utf-8" src="//v2.zopim.com/?gNzPbnnZRH7OdEMfUj2oM0cOirQN1nMr" type="text/javascript"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">
+<script type="text/javascript">
 //<![CDATA[
   var _gaq = _gaq || [];
   _gaq.push(['pageTracker._setAccount', 'UA-466277-1']);
@@ -35,7 +37,7 @@
     
   _gaq.push(['pageTracker._setCustomVar', 1, 'free_trial_vs_request_demo_cta_20140411', 'request_demo', 2]);
 _gaq.push(['pageTracker._setCustomVar', 2, 'status', 'log_out', 1]);
-_gaq.push(['pageTracker._setCustomVar', 3, 'actions', '----', 2]);
+_gaq.push(['pageTracker._setCustomVar', 3, 'actions', '--trs--', 2]);
 _gaq.push(['bounceTracker._setCustomVar', 4, 'free_trial_vs_request_demo_cta_20140411', 'request_demo', 2]);
 //]]>
 </script>    
@@ -47,8 +49,8 @@ _gaq.push(['bounceTracker._setCustomVar', 4, 'free_trial_vs_request_demo_cta_201
 //]]>
 </script>
 
-<link href="http://global-assets.panjiva.com/stylesheets/base_c42ba319665cccb2.css?c42ba319665cccb2" media="screen" rel="stylesheet" type="text/css">
-<link href="http://global-assets.panjiva.com/stylesheets/base2_ac34eeda08fcd931.css?ac34eeda08fcd931" media="screen" rel="stylesheet" type="text/css">
+<link href="http://global-assets.panjiva.com/stylesheets/base_aa50ca34a3376c6d.css?aa50ca34a3376c6d" media="screen" rel="stylesheet" type="text/css">
+<link href="http://global-assets.panjiva.com/stylesheets/base2_00e255a039c9ee1c.css?00e255a039c9ee1c" media="screen" rel="stylesheet" type="text/css">
 <script type="text/javascript">
 //<![CDATA[
 
@@ -144,7 +146,7 @@ $j(document).ajaxError(function(ev, xhr, settings, ex) {
 
 
 
-<script src="http://global-assets.panjiva.com/javascripts/base_72182eb0acf6af03.js?72182eb0acf6af03" type="text/javascript"></script><script type="text/javascript">
+<script src="http://global-assets.panjiva.com/javascripts/base_ba4ad1a6fb96c07c.js?ba4ad1a6fb96c07c" type="text/javascript"></script><script type="text/javascript">
 //<![CDATA[
 $j(document).bind('init.facebox', function(e) {
       $j.facebox.settings.loadingImage = 'http://global-assets.panjiva.com/images/indicator.03ce3dcc84af110e.gif?03ce3dcc84af110e';
@@ -155,7 +157,7 @@ $j(document).bind('init.facebox', function(e) {
 <!--[if IE]>
 <link href="http://global-assets.panjiva.com/stylesheets/corporateie_64de0af8c106ab16.css?64de0af8c106ab16" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
 
-<link href="http://global-assets.panjiva.com/stylesheets/profilev4footer_4b9e905111ab367f.css?4b9e905111ab367f" media="screen" rel="stylesheet" type="text/css"><!--[if IE 8]>
+<link href="http://global-assets.panjiva.com/stylesheets/profilev4footer_50e7e72b8150357e.css?50e7e72b8150357e" media="screen" rel="stylesheet" type="text/css"><!--[if IE 8]>
 <link href="http://global-assets.panjiva.com/stylesheets/profilev4footerie8_ecf9aeb7150f0d22.css?ecf9aeb7150f0d22" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
 
 
@@ -170,24 +172,37 @@ $j(document).bind('init.facebox', function(e) {
   <div id="global_login">
     <div title="Please sign in" class="form translate">
       
+<div>
+  <form action="https://panjiva.com/account/login_submitted" id="top_login_form" method="post"><div style="margin:0;padding:0;display:inline"><input name="authenticity_token" type="hidden" value="Rx3uRNVIGHbb8GKnZLz7QwT9KOd/KjSW+g6bDoYJ2cY="></div>
+    <fieldset>
+      <label for="email">Email<span class="labelAside"></span></label>
+      <input type="text" name="email" id="top_dropdown_login_email" value="">
+    </fieldset>
 
-<form action="https://panjiva.com/account/login_submitted" id="top_login_form" method="post"><div style="margin:0;padding:0;display:inline"><input name="authenticity_token" type="hidden" value="Uw5qBIojJttWe3HRtjJKspKTGo0+gEj9MVfrFCrQ8BM="></div><fieldset class="non_pa"><legend>Sign into your account</legend><div title="Sign into your account" class="form">  <p><label for="top_dropdown_login_email">Email address</label><input id="top_dropdown_login_email" name="email" type="text"></p>  <p><label for="top_dropdown_login_password">Password</label><input id="top_dropdown_login_password" name="password" type="password"></p>
-    <div id="login_box_inner">
-    <div>
-      <input class="btn btn-primary btn-padded" name="commit" style="padding: 3px 10px" type="submit" value="Sign In">      <span class="small_text"> <a href="/account/forgot_password" class="grey" style="font-weight:normal;line-height:32px" title="Reset Password">Forgot password?</a></span>
-    </div>
-        <script type="text/javascript">
+    <fieldset>
+      <label for="password">Password<span class="labelAside"></span></label>
+      <input type="password" name="password" id="top_dropdown_login_password">
+    </fieldset>
+
+    
+    <button id="top_dropdown_login_signin" type="submit" class="buttonPrimary full-width">SIGN IN</button>
+
+    <div class="account-link">
+
+      <a href="/account/forgot_password" title="Reset Password">I forgot my password</a>          </div>
+
+    <script type="text/javascript">
 //<![CDATA[
 
-      $j('#top_dropdown_login_password').keypress(function(e) {
+    $j('#top_dropdown_login_password').keypress(function(e) {
         if (e.keyCode == 13) {
           $j(this).closest('form').find('a.generic_sliding_door_submit:first').click();
         }
       });
     
 //]]>
-</script>      </div>
-</div></fieldset></form>    </div>
+</script>      </form></div>
+    </div>
   </div>
 </div>
 
@@ -212,48 +227,51 @@ $j(document).bind('init.facebox', function(e) {
   
   </div>
 
-      <div id="sticky-header-spacer" style="height:94px"></div>
+      <div id="sticky-header-spacer" style="height:63px"></div>
 <div id="header-antibounce-spacer" style="height:0"></div>
 
 <div id="top" class="new_homepage_header container_12 group sticky translate" style="font-size: 14px;">
     <div class="grid_12">
-    <ul class="actions group" style="height: 17px;">
-      <li>
-              <a href="/account/login" class="header-signin-link">Sign in</a>            </li>
-      <li>
-        <ul id="masthead-language-select" class="notranslate header-language-select">
-                    <li class="en current" style="padding-bottom: 3px;">
-            <strong>English</strong>
-            <ul class="others">
-                                                              <li class="es">
-                  <a href="http://es.panjiva.com/info/privacy_policy" onclick="window.location = $j(this).attr('href') + '?set_session_language=1'; return false">Español</a>                </li>
-                                              <li class="de">
-                  <a href="http://de.panjiva.com/info/privacy_policy" onclick="window.location = $j(this).attr('href') + '?set_session_language=1'; return false">Deutsch</a>                </li>
-                                              <li class="zh-cn">
-                  <a href="http://cn.panjiva.com/info/privacy_policy" onclick="window.location = $j(this).attr('href') + '?set_session_language=1'; return false">中文</a>                </li>
-                          </ul>
-          </li>
-        </ul>
-      </li>
-    </ul>
+    <a class="logo" href="/" style="margin-right:40px;">Panjiva</a>
 
-    <a class="logo" href="/">Panjiva</a>
-    <form action="/search/global" class="clearfix" id="small-search" method="get" style="position: relative">      <input name="user_term" type="hidden" value="1">      <input class="search-q" id="q" name="q" placeholder="Find a buyer or supplier" type="text" value="">      <img alt="Spiffygif_30x30" id="search-spinner" src="http://global-assets.panjiva.com/images/homepage_new/spiffygif_30x30.99c9851e607999e4.gif?99c9851e607999e4">    </form>
-    <div class="nav">
+    <div class="nav" style="float:none;">
       <ul id="navbar-nav-links">
-        <li><a class="" href="/#product_tour">Overview</a></li>
-        <li style="position:relative;" id="dropdown-li">
-          <a id="how-we-help-dropdown-link" href="/for-buyers/how-we-help-buyers">How We Help<span style="padding-bottom:3px;">▼</span></a>
-          <ul id="how-we-help-dropdown" class="translate" style="display:none;">
+        <li style="position:relative;" class="header-dropdown-li">
+          <a href="/for-buyers/how-we-help-buyers">How We Help<span style="padding-bottom:3px;">▼</span></a>
+          <ul class="translate dropdown-container" style="display:none;">
             <li><a href="/for-buyers/how-we-help-buyers">Buyers</a></li>
             <li><a href="/for-suppliers/how-we-help-suppliers">Suppliers</a></li>
             <li><a href="/for-logistics/how-we-help-logistics-professionals">Logistics</a></li>
             <li><a href="/for-researchers/how-we-help-researchers">Researchers</a></li>
           </ul>
         </li>
-        <li><a class="pricing " href="/subscribe">Pricing</a></li>
-        <li>
-                      <a href="/request-demo" class="demo">Request a demo</a>                  </li>
+        
+          <li style="position:relative;" class="header-dropdown-li">
+            <a>Products<span style="padding-bottom:3px;">▼</span></a>
+            <ul class="translate dropdown-container" style="display:none; width: 220px;">
+              <li><a href="/data/chinese-trade-data">Chinese Data</a></li>
+              <li><a href="/latin-american-trade-data">Latin America Data</a></li>
+              <li><a href="/api">API</a></li>
+            </ul>
+          </li>
+        
+                <li><a class="pricing " href="/subscribe">Pricing</a></li>
+        <li><a href="/search">Search</a></li>
+        <li style="position:relative;" class="header-dropdown-li">
+          <a>English<span style="padding-bottom:3px;">▼</span></a>
+          <ul class="notranslate dropdown-container" style="display:none;">
+                                                      <li class="es">
+                <a href="http://es.panjiva.com/info/privacy_policy" onclick="window.location = $j(this).attr('href') + '?set_session_language=1'; return false">Español</a>              </li>
+                                        <li class="de">
+                <a href="http://de.panjiva.com/info/privacy_policy" onclick="window.location = $j(this).attr('href') + '?set_session_language=1'; return false">Deutsch</a>              </li>
+                                        <li class="zh-cn">
+                <a href="http://cn.panjiva.com/info/privacy_policy" onclick="window.location = $j(this).attr('href') + '?set_session_language=1'; return false">中文</a>              </li>
+                      </ul>
+        </li>
+        <li style="float:right;">
+                      <a href="/request-demo" class="demo">Demo</a>                  </li>
+        <li style="float:right;">
+                      <a href="/account/login" class="header-signin-link">Sign in</a>                  </li>
         <li style="display:none" id="connect-join" class="demo"><a href="/signup/connect_signup">Join Now</a></li>
       </ul>
     </div>
@@ -263,11 +281,8 @@ $j(document).bind('init.facebox', function(e) {
 </div>
   
 
-<div id="container">
-    <div id="content">
-      <div id="main-col">
-    
-
+<div class="everest">
+  
 
 
 
@@ -277,7 +292,10 @@ $j(document).bind('init.facebox', function(e) {
 
 
   
-  <h1>Panjiva Privacy Policy</h1>
+</div>
+<div id="container">
+    <div id="content">
+    <h1>Panjiva Privacy Policy</h1>
 
 <p>Your privacy, and the privacy of all registered users of web sites that are part of the Panjiva service, is important to us. Accordingly, we have adopted the following privacy policy. Our policy is based on the principles of notice, choice, access and security in the collection and use of all information regarding our users and their activities at our site.</p>
 <ol>
@@ -327,82 +345,7 @@ $j(document).bind('init.facebox', function(e) {
 
 <h3>Changes to Privacy Policy.</h3>
 
-<p>It may be necessary from time to time for us to modify this policy to reflect changes in the way we collect and use information or changes in privacy–related laws, regulations, and industry standards. Accordingly, we reserve the right to change this policy at any time by posting the revised policy on this web site. This policy was posted on June 17, 2008. Data will be handled in accordance with the policy in effect at the time the data is used, subject to the user’s right to opt out of revisions to this policy implemented since the data was first collected. </p>      </div>
-    <div id="sub-col">
-      <ul id="sidebar-menu" class="translate">
-       <a href="//fast.wistia.net/embed/iframe/xqsuroyxrx?popover=true" class="wistia-popover[height=405,playerColor=7b796a,width=720]">
-       <img id="video_image" src="data:image/gif;base64,R0lGODlhAQABAIAAAP///////yH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==">
-     </a>
-     <script charset="ISO-8859-1" src="//fast.wistia.com/assets/external/popover-v1.js"></script>
-    <li id="search_box"><form action="http://panjiva.com/search/results" method="get">    <div id="search_box_div">
-      <div>
-        <input name="user_term" type="hidden" value="1">        <input id="find_product" name="q" type="text" value="">      </div>
-      <div><input id="search_btn1" name="" type="submit" value="Search"></div>
-    </div>
-  </form>
-<div class="notranslate" style="display:none">
-
-<script type="text/javascript">
-//<![CDATA[
-
-    $j(function(){
-    var placeholderText = 'Search companies or products, e.g. Expack Seafood';
-$j('#m').change(function(){
-  if(!$j('#find_product').hasClass('usertext')){
-    $j('#find_product').val(placeholderText);
-  }
-}).val('supplier_combined_and_spp').parent().submit(function(){
-  if($j('#find_product').val() == placeholderText) {
-		$j('#find_product').val('');
-  }
-});
-
-$j('#find_product').focus(function(){
-  if(!$j(this).hasClass('usertext')){
-    $j(this).val('');
-    $j(this).addClass('usertext');
-  }
-}).blur(function(){
-  if($j(this).val()==''){
-    $j(this).removeClass('usertext');
-    $j(this).val(placeholderText);
-  }
-}).blur();
-
-    });
-//]]>
-</script></div>
-</li>
-
-  <li id="money">
-    <span class="money_explanation">Estimated value of goods purchased by Panjiva clients in 2014:</span>
-    <span class="money_value notranslate">$<span id="current_buyer_spend">295963587400.9985</span></span>
-<script type="text/javascript">
-//<![CDATA[
-
-  $j('#current_buyer_spend').format({format:"#,###", locale:"us"}); var current_buyer_spend = 295963587400.9985;
-  function update_buyer_spend() {
-    current_buyer_spend += 1585.5;
-    $j('#current_buyer_spend').html(current_buyer_spend).format({format:"#,###", locale:"us"});
-  }
-
-//]]>
-</script><script type="text/javascript">
-//<![CDATA[
-
-    $j(function(){
-      setInterval(update_buyer_spend, 250); /* update every quarter second */
-
-    });
-//]]>
-</script>  </li>
-  
-  <li id="sidebar_plans"><a href="/subscribe" class="icon">See plans and pricing</a></li>
-  <li id="sidebar_contact_sales"><a href="/contact" class="icon" onclick="_gaq.push(['pageTracker._trackEvent', '', 'Contact Panjiva' , 'Sidebar']);">Contact Panjiva</a></li>
-  <li id="sidebar_trends"><a href="/blog" class="icon">Visit the Panjiva Blog</a> or <a href="/trends">Panjiva Trends</a></li>
-</ul>
-    </div>
-  </div>   </div>
+<p>It may be necessary from time to time for us to modify this policy to reflect changes in the way we collect and use information or changes in privacy–related laws, regulations, and industry standards. Accordingly, we reserve the right to change this policy at any time by posting the revised policy on this web site. This policy was posted on June 17, 2008. Data will be handled in accordance with the policy in effect at the time the data is used, subject to the user’s right to opt out of revisions to this policy implemented since the data was first collected. </p>  </div>   </div>
     <div class="scroll-top">
     <div class="container_12">
       <div class="grid_12">
@@ -421,8 +364,6 @@ $j('#find_product').focus(function(){
 <li class="list-entry-ie-fix"><a href="http://panjiva.com/subscribe">Plans &amp; Pricing</a></li>
 <li class="list-entry-ie-fix"><a href="/for-buyers/our-clients">Clients</a></li>
 <li class="list-entry-ie-fix"><a href="/sitemap/buyer_directory">Buyer Directory</a></li>
-<li class="list-entry-ie-fix"><a href="/lp/find-suppliers?utm_campaign=nav-bottom">Post a Buyer Inquiry</a></li>
-<li class="list-entry-ie-fix"><a href="/api">Panjiva API</a></li>
             </ul>
         </div>
         <div class="grid_2">
@@ -435,40 +376,36 @@ $j('#find_product').focus(function(){
 <li class="list-entry-ie-fix">
 <a href="/supplier_profiles/new?ref=suppliers_menu_footer">Create Your Profile</a></li>
 <li class="list-entry-ie-fix"><a href="/sitemap/supplier_directory">Supplier Directory</a></li>
-<li class="list-entry-ie-fix"><a href="/lead/search">Buyer Inquiries</a></li>
           </ul>
         </div>
         <div class="grid_2">
           <ul>
             <li class="list-headline"><a href="/about-panjiva/intelligence-platform">Company</a></li>
-            <li class="list-entry-ie-fix"><a href="/whats-new">What's New?</a></li>
-<li class="list-entry-ie-fix"><a href="/about-panjiva/intelligence-platform">Intelligence Platform</a></li>
+            <li class="list-entry-ie-fix"><a href="/about-panjiva/intelligence-platform">Intelligence Platform</a></li>
 <li class="list-entry-ie-fix"><a href="/about-panjiva/leadership-team">Leadership Team</a></li>
 <li class="list-entry-ie-fix"><a href="/about-panjiva/press">Press</a></li>
 <li class="list-entry-ie-fix"><a href="/contact">Contact</a></li>
 <li class="list-entry-ie-fix"><a href="/jobs">Jobs at Panjiva</a></li>
 <li class="list-entry-ie-fix"><a href="/blog">Panjiva Blog</a></li>
-<li class="list-entry-ie-fix"><a href="http://panjiva.com/referrals">Referral Program</a></li>
           </ul>
         </div>
         <div class="grid_2">
           <ul>
-            <li class="list-headline"><a href="/search">Supplier Searches</a></li>
-                          <li class="list-entry-ie-fix"><a href="http://panjiva.com/Manufacturers-Of/cotton" title="Suppliers of cotton">Cotton Manufacturers</a></li>
-                          <li class="list-entry-ie-fix"><a href="http://panjiva.com/Manufacturers-Of/chocolate" title="Suppliers of chocolate">Chocolate Manufacturers</a></li>
-                          <li class="list-entry-ie-fix"><a href="http://panjiva.com/Manufacturers-Of/guitar" title="Suppliers of guitar">Guitar Manufacturers</a></li>
-                          <li class="list-entry-ie-fix"><a href="http://panjiva.com/Manufacturers-Of/rice" title="Suppliers of rice">Rice Manufacturers</a></li>
-                          <li class="list-entry-ie-fix"><a href="http://panjiva.com/Manufacturers-Of/cheese" title="Suppliers of cheese">Cheese Manufacturers</a></li>
-                      </ul>
+            <li class="list-headline"><a href="/search">Products</a></li>
+            <li class="list-entry-ie-fix"><a href="/subscribe">Plans</a></li>
+            <li class="list-entry-ie-fix"><a href="/data/chinese-trade-data">Chinese Data</a></li>
+            <li class="list-entry-ie-fix"><a href="/latin-american-trade-data">Latin America Data</a></li>
+            <li class="list-entry-ie-fix"><a href="/api">API</a></li>
+          </ul>
         </div>
         <div class="grid_2">
           <ul>
             <li class="list-headline"><a href="http://panjiva.com/trends">Import Trends</a></li>
-                          <li class="list-entry-ie-fix"><a href="http://panjiva.com/trends/valve" title="U.S. import trends for valve">Valve Trends</a></li>
-                          <li class="list-entry-ie-fix"><a href="http://panjiva.com/trends/keyboard" title="U.S. import trends for keyboard">Keyboard Trends</a></li>
-                          <li class="list-entry-ie-fix"><a href="http://panjiva.com/trends/sweater" title="U.S. import trends for sweater">Sweater Trends</a></li>
-                          <li class="list-entry-ie-fix"><a href="http://panjiva.com/trends/sunglasses" title="U.S. import trends for sunglasses">Sunglasses Trends</a></li>
                           <li class="list-entry-ie-fix"><a href="http://panjiva.com/trends/lamp" title="U.S. import trends for lamp">Lamp Trends</a></li>
+                          <li class="list-entry-ie-fix"><a href="http://panjiva.com/trends/furniture" title="U.S. import trends for furniture">Furniture Trends</a></li>
+                          <li class="list-entry-ie-fix"><a href="http://panjiva.com/trends/sweater" title="U.S. import trends for sweater">Sweater Trends</a></li>
+                          <li class="list-entry-ie-fix"><a href="http://panjiva.com/trends/fabric" title="U.S. import trends for fabric">Fabric Trends</a></li>
+                          <li class="list-entry-ie-fix"><a href="http://panjiva.com/trends/valve" title="U.S. import trends for valve">Valve Trends</a></li>
                         <li class="list-entry-ie-fix"><a href="http://panjiva.com/import-export/by-country" title="See trade details between the US and other countries.">Import/Export by Country</a></li>
           </ul>
         </div>
@@ -484,7 +421,7 @@ $j('#find_product').focus(function(){
         </div>
       </div>
       <div class="grid_4 copyright-info">
-        <a href="http://panjiva.com/homepage"><label alt="Logo Footer" class="global-logo-footer" for="" style="display:inline-block;height:27px;width:90px;"></label></a>        <p>Copyright © 2013 Panjiva, Inc. All rights reserved.<br>
+        <a href="http://panjiva.com/homepage"><label alt="Logo Footer" class="global-logo-footer" for="" style="display:inline-block;height:27px;width:90px;"></label></a>        <p>Copyright © 2014 Panjiva, Inc. All rights reserved.<br>
         <a href="/info/terms_of_use">Terms of Use</a>  /  <a href="/info/privacy_policy">Privacy Policy</a>  /  <a href="/sitemap">Sitemap</a>                </p>
       </div>
       <div class="grid_6 contact-info">
@@ -652,4 +589,4 @@ type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
 </script>
 
 
-</body></html>
+<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
