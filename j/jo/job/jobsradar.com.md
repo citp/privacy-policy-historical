@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobsradar.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625130721id_/http%3A//www.jobsradar.com/education/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsradar.com privacy policy that was archived on 2014-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140801175429id_/http%3A//jobsradar.com/education/privacy_policy) for the most accurate reproduction.*
 
 # JobsRadar.com - Find Jobs. Showcase Your Resume. Get Hired.
 
