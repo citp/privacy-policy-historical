@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arqspin.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625060453id_/https%3A//arqspin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arqspin.com privacy policy that was archived on 2014-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140802041317id_/https%3A//arqspin.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Arqspin
 
