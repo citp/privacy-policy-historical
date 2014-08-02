@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livepages.com.au privacy policy that was archived on 2013-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130810044233id_/http%3A//www.livepages.com.au/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livepages.com.au privacy policy that was archived on 2014-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140802155946id_/http%3A//www.livepages.com.au/privacy_policy.php) for the most accurate reproduction.*
 
 # PRIVACY POLICY
 
