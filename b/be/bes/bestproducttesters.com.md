@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bestproducttesters.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625075606id_/http%3A//bestproducttesters.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bestproducttesters.com privacy policy that was archived on 2014-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140802171930id_/http%3A//www.bestproducttesters.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Best Product Testers
 
