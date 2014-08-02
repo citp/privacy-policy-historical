@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sendit.com privacy policy that was archived on 2014-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140407033858id_/http%3A//www.sendit.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sendit.com privacy policy that was archived on 2014-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140802163341id_/http%3A//www.sendit.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Privacy Policy Sendit.com
 
@@ -9,6 +9,8 @@ SendIt is committed to ensuring that your privacy is protected. Should we ask yo
 We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998). We collect information about you to process your order and to provide you with the best possible service in the future. We do not send unsolicited mail and we never pass any of your personal information to third parties without first gaining your explicit consent.
 
 SendIt may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 1st June 2012.
+
+##   
 
 ## Information we need
 
@@ -55,6 +57,15 @@ We may use the information to improve our products and services.
 We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
 
 From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
+
+##  Marketing emails/communication
+
+  
+When creating an account on the site you can specify if you wish to join our newsletter, you can opt out of the newsletter by logging into your account and modify the setting within the newsletter tab.
+
+Alterntively you can unsubscribe from a newletter by using the unsubscribe button contained in each news letter that is sent from Sendit.com. 
+
+We will not under any circumstances send any unsolicitied communications.
 
 ## Security
 
@@ -116,6 +127,8 @@ England
 Email address:  
 data@notification.demon.com
 
+##    
+
 ## What are cookies?
 
 A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
@@ -155,6 +168,8 @@ Pass data to advertising networks
 Pass personally identifiable data to third parties
 
 Pay sales commissions
+
+##    
 
 ## Granting us permission to use cookies
 
