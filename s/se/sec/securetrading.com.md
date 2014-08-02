@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the securetrading.com privacy policy that was archived on 2014-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140225061716id_/http%3A//www.securetrading.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the securetrading.com privacy policy that was archived on 2014-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140802234045id_/http%3A//www.securetrading.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Secure Trading
 
@@ -6,7 +6,7 @@
 
 Secure Trading Limited (“ **We** “) are committed to protecting and respecting your privacy.
 
-This policy (together with our [Terms of Use](http://www.securetrading.com/terms-use "Terms of Use") and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, via this Website (as defined below) will be processed and stored by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting www.securetrading.com (“ **Website** ”) you are accepting and consenting to the practices described in this policy which may be amended from time to time. 
+This policy (together with our [Terms of Use](http://www.securetrading.com/terms-use "Terms of Use") and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, via this Website (as defined below) will be processed and stored by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting www.securetrading.com (“ **Website** ”) you are accepting and consenting to the practices described in this policy which may be amended from time to time.
 
 For the purpose of the Data Protection Act 1998 (the **Act** ), the data controller is Secure Trading Limited of European Operations Centre, Parc Menai, Bangor, Gwynedd, UK LL57 4BL.
 
