@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careerorbits.com privacy policy that was archived on 2014-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140513173908id_/http%3A//www.careerorbits.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careerorbits.com privacy policy that was archived on 2014-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140802073751id_/http%3A//www.careerorbits.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CareerOrbits
 
