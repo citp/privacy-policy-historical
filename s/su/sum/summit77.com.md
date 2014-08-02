@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the summit77.com privacy policy that was archived on 2014-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140521010400id_/http%3A//www.summit77.com/pdf/Privacy_Summit77.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the summit77.com privacy policy that was archived on 2014-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140802100657id_/http%3A//www.summit77.com/pdf/Privacy_Summit77.pdf) for the most accurate reproduction.*
 
 # Summit 77 Privacy Policy
 
