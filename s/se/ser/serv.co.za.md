@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the serv.co.za privacy policy that was archived on 2014-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140624034420id_/https%3A//www.serv.co.za/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the serv.co.za privacy policy that was archived on 2014-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140802134408id_/http%3A//www.serv.co.za/privacy-policy) for the most accurate reproduction.*
 
 # Terms of Service | Serve Hosting
 
