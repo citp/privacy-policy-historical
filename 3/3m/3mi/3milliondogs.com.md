@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 3milliondogs.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209012149id_/http%3A//3milliondogs.com/privacy-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3milliondogs.com privacy policy that was archived on 2014-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140803043154id_/http%3A//3milliondogs.com/privacy-terms) for the most accurate reproduction.*
 
-# Breaking Dog News, Funny Stories, Cute Stories, Tips and Tricks, Inspirational Stories, Rescue Dogs - Three Million Dogs
+# Three Million Dogs
 
 * **Introduction**
 
