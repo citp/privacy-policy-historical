@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the azspace.net privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625083757id_/http%3A//azspace.net/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azspace.net privacy policy that was archived on 2014-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140804004505id_/http%3A//azspace.net/content/privacy) for the most accurate reproduction.*
 
 # AzSpace - Privacy
 
