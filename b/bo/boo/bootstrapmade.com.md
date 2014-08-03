@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bootstrapmade.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625062855id_/https%3A//bootstrapmade.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bootstrapmade.com privacy policy that was archived on 2014-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140803092747id_/https%3A//bootstrapmade.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Bootstrap themes marketplace
 
