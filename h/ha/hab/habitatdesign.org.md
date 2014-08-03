@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the habitatdesign.org privacy policy that was archived on 2014-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140401170941id_/http%3A//www.habitatdesign.org/2011/09/privacy-policy-habitatdesignorg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the habitatdesign.org privacy policy that was archived on 2014-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140803022711id_/http%3A//www.habitatdesign.org/2011/09/privacy-policy-habitatdesignorg.html) for the most accurate reproduction.*
 
 # Privacy Policy HabitatDesign.org - Habitat Design
 
