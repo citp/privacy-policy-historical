@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livingtv.co.uk privacy policy that was archived on 2013-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130622040750id_/http%3A//www.sky.com/helpcentre/account-and-billing/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livingtv.co.uk privacy policy that was archived on 2014-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140803205718id_/http%3A//help.sky.com/security/privacy/privacy-and-cookies-notice) for the most accurate reproduction.*
 
 # Privacy and cookies notice | Sky Help
 
@@ -14,7 +14,7 @@ Any member of the British Sky Broadcasting group may use and share, within that 
   * Information about the channels, programmes, advertisements and services you access, for example how you view, record or fast forward them.
   * Information we collect using cookies stored on your device about your use of Sky and/or selected third party websites. For more information on cookies and how to manage them, please see the section on cookies.
   * Your IP address, this is a number that identifies a specific network device on the internet and is required for your device to communicate with websites.
-  * Technical information from your Sky device(s) relating to the service you receive, for example, the collection of diagnostic information.
+  * Technical information from the devices you use to receive Sky content, products and services, for example, the collection of diagnostic information.
 
 
 
@@ -47,23 +47,23 @@ Unless you've asked us not to:
 
 **Marketing**
 
-You can opt out by calling us on 08442 414141 or via your MySky account. You can also click on the "unsubscribe" link in direct marketing emails from us. You can opt out of direct marketing altogether or you can choose between post, telephone and email. Sky Bet, Sky Poker, Sky Vegas and Sky Bingo customers can opt out of marketing SMS messages by replying "STOP"
+You can opt out by calling us on 03442 414141 if you're in the UK or 0818 719 819 if you're in the Republic of Ireland or via your My Sky account. You can also click on the "unsubscribe" link in direct marketing emails from us. You can opt out of direct marketing altogether or you can choose between post, telephone and email. Sky Bet, Sky Poker, Sky Vegas and Sky Bingo customers can opt out of marketing SMS messages by replying "STOP"
 
 **Personalisation (including tailored advertising)**
 
-You can opt out by calling us on 08442 414141 or via your MySky account. Please note that if you opt out of personalisation you will not receive tailored advertising. This means you will still see the same number of adverts but they will be ones that appear as standard.
+You can opt out by calling us on 03442 414141 if you're in the UK or 0818 719 819 if you're in the Republic of Ireland or via your My Sky account. Please note that if you opt out of personalisation you will not receive tailored advertising. This means you will still see the same number of adverts but they will be ones that appear as standard.
 
 **Online behavioural advertising**
 
 If you do not want to receive online behavioural advertising, or don't want any information processed through the use of cookies, please see the section on cookies.
 
-You can also opt out of receiving our newsletters by clicking on the "unsubscribe" link in emails, or via your MySky account.
+You can also opt out of receiving our newsletters by clicking on the "unsubscribe" link in emails, or via your My Sky account.
 
 ### Contacting Sky
 
-Any queries or comments about this privacy notice or for requests of copies of the information we hold about you should be sent to [dpoffice@bskyb.com](mailto:%20dpoffice@bskyb.com) or to Customer Relations, Sky Subscriber Services Ltd, PO Box 43, Livingston, West Lothian, EH54 7DD, UK.
+Any queries or comments about this privacy notice or for requests of copies of the information we hold about you should be sent to [dp@bskyb.com](mailto:%20dp@bskyb.com) or to Customer Relations, Sky Subscriber Services Ltd, PO Box 43, Livingston, West Lothian, EH54 7DD, UK.
 
-Please ensure you notify us of any updates, amendments and corrections to your information by contacting us on 08442 414141 or through MySky.
+Please ensure you notify us of any updates, amendments and corrections to your information by contacting us on 03442 414141 if you're in the UK or 0818 719 819 if you're in the Republic of Ireland or through My Sky.
 
 When you create or log in to an online account you agree to our privacy and cookies notice. Otherwise, by continuing to use our websites or mobile services you agree to the use of cookies as described in this notice.
 
