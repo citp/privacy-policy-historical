@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the artentertainments.com privacy policy that was archived on 2014-05-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140518094849id_/https%3A//artentertainments.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the artentertainments.com privacy policy that was archived on 2014-08-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140803070039id_/https%3A//artentertainments.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 <script type="text/javascript" async="" src="//stats.g.doubleclick.net/dc.js"></script><script>window._t={start:(new Date).getTime()};</script>
@@ -15,7 +15,7 @@
 <title>
  Likes.com
 </title>
-<link type="text/css" rel="stylesheet" href="http://d38hl0pkrkpidx.cloudfront.net/s/849ac9158ee74fab35ae2987c06e75dc/theme_mint.css">
+<link type="text/css" rel="stylesheet" href="http://c.likes-media.com/s/95942e15fc29f27ff6431bddc1dfc7b7/theme_mint.css">
 
 
 <link href="http://fonts.googleapis.com/css?family=Covered+By+Your+Grace" rel="stylesheet" type="text/css">
@@ -46,7 +46,7 @@ obj.bad_ad_detect_ms = 4000;
 obj.bad_ad_detect_throttle = 100;
 obj.detect_bad_ads = (Math.random()*100 <= obj.bad_ad_detect_throttle);
 obj.report_pubm_throttle = 1;
-obj.report_pubm_ads = (Math.random()*100 <= obj.report_pubm_throttle);
+obj.report_pubm_ads = function() {return (Math.random()*100 <= obj.report_pubm_throttle);}
 
 obj.is_final_network_ad = function(event) {
 var final = false;
@@ -181,7 +181,7 @@ house_ads += '}';
 }
 } else {
 if (!event_log[i]['type']
-|| (event_log[i]['type'] != 'attempted_passback' && event_log[i]['type'] != 'ad_slot_rendered' )
+|| (event_log[i]['type'] != 'attempted_passback' && event_log[i]['type'] != 'ad_slot_rendered' && event_log[i]['type'] != 'pubmatic_api_response' && event_log[i]['type'] != 'amazon_response')
 || !event_log[i]['network']
 || !event_log[i]['position']) {
 continue;
@@ -289,6 +289,7 @@ window.clearTimeout(t);
 }
 }
 };
+
 
 
 
@@ -432,6 +433,8 @@ try {
                     window.likes_ad_server.render_better_ad("right", 0, "ad_slot_right");
                 });
             }
+        } else {
+            window.likes_ad_server.render_better_ad(position, 0, div_id);
         }
     };
 
@@ -450,7 +453,6 @@ try {
 <!--[if lte IE 9 ]> <body class="ie8  "> <![endif]-->
 <!--[if (gt IE 9)|!(IE)]><!--> <body class="not_ie  "> <!--<![endif]-->
 
-
 <div class="custom_profile_wrapper blog mint  ">
 <div id="social_site_header">
 <div id="social_site_header_inner">
@@ -460,7 +462,7 @@ try {
 <a class="tab " href="http://artentertainments.com/tagged/celebrity">celebrity</a>
 <a class="tab " href="http://artentertainments.com/tagged/fashion">fashion</a>
 <a class="tab " href="http://artentertainments.com/tagged/food">food</a>
-<a class="tab " href="http://artentertainments.com/tagged/photography">photography</a>
+<a class="tab " href="http://artentertainments.com/tagged/weird">weird</a>
 <a class="tab " href="http://artentertainments.com/tagged/art">art</a>
 
 <div class="clear"></div>
@@ -530,14 +532,17 @@ All rights reserved.</p>
 
 <script>window._t.footer=(new Date).getTime();</script>
 
+
+
+
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 
 
 <script type="text/javascript"><!--
-var pass_to_js = {"feed": {"palette": "mint", "show_plus": null, "custom_profile": true, "format": "blog"}, "domain_url": "artentertainments.com", "js_url": "http://d38hl0pkrkpidx.cloudfront.net/s/5934f119c3bb61a13a4c8c9ff653bb59/theme_mint.js", "MOBILE": false, "net_names": {"c_pubmatic": "c_pb", "c_fedmedia_passback": "c_fm", "c_cpxi": "c_ci", "fedmedia_passback": "fm", "c_valueclick": "c_vc", "c_pm1": "c_p1", "c_pm2": "c_p2", "c_pm3": "c_p3", "dfp": "dp", "aolm": "am", "rubicon": "r", "c_mylikes": "c_ml", "openx": "ox", "c_amazon": "c_az", "adcom": "ac", "amazon": "az", "c_openx": "c_ox", "c_rubicon": "c_r", "pubm_api_1": "pb1", "pubm_api_2": "pb2", "pubm_api_3": "pb3", "pubm_api_4": "pb4", "valueclick": "vc", "pulsepoint": "pp", "c_openx_lowval": "c_oxlv", "c_criteo": "c_c", "c_aolm": "c_am", "c_pubm_api_4": "c_pb4", "criteo": "c", "pubmatic_highval": "pbmh", "pm1": "p1", "pm2": "p2", "pm3": "p3", "c_pubmatic_highval": "c_pbmh", "c_pulsepoint": "c_pp", "c_adcom": "c_ac", "openx_lowval": "oxlv", "mylikes": "ml", "c_dfp": "c_dp", "c_pubm_api_1": "c_pb1", "c_pubm_api_2": "c_pb2", "c_pubm_api_3": "c_pb3", "cpxi": "ci", "pubmatic": "pb"}, "page_path": "ArtEntertainments", "css_url": "http://d38hl0pkrkpidx.cloudfront.net/s/849ac9158ee74fab35ae2987c06e75dc/theme_mint.css", "internal_only": false, "subdomain": "ArtEntertainments"};
+var pass_to_js = {"feed": {"palette": "mint", "show_plus": null, "custom_profile": true, "format": "blog"}, "domain_url": "artentertainments.com", "js_url": "http://c.likes-media.com/s/b1ca14405cd533470d28a7ab43544b46/theme_mint.js", "MOBILE": false, "net_names": {"c_pubmatic": "c_pb", "c_fedmedia_passback": "c_fm", "c_cpxi": "c_ci", "fedmedia_passback": "fm", "c_valueclick": "c_vc", "c_pm1": "c_p1", "c_pm2": "c_p2", "c_pm3": "c_p3", "dfp": "dp", "aolm": "am", "rubicon": "r", "c_mylikes": "c_ml", "openx": "ox", "c_amazon": "c_az", "adcom": "ac", "amazon": "az", "c_openx": "c_ox", "c_rubicon": "c_r", "pubm_api_1": "pb1", "pubm_api_2": "pb2", "pubm_api_3": "pb3", "pubm_api_4": "pb4", "valueclick": "vc", "pulsepoint": "pp", "c_openx_lowval": "c_oxlv", "c_criteo": "c_c", "c_aolm": "c_am", "c_pubm_api_4": "c_pb4", "criteo": "c", "pubmatic_highval": "pbmh", "pm1": "p1", "pm2": "p2", "pm3": "p3", "c_pubmatic_highval": "c_pbmh", "c_pulsepoint": "c_pp", "c_adcom": "c_ac", "openx_lowval": "oxlv", "mylikes": "ml", "c_dfp": "c_dp", "c_pubm_api_1": "c_pb1", "c_pubm_api_2": "c_pb2", "c_pubm_api_3": "c_pb3", "cpxi": "ci", "pubmatic": "pb"}, "page_path": "ArtEntertainments", "css_url": "http://c.likes-media.com/s/95942e15fc29f27ff6431bddc1dfc7b7/theme_mint.css", "internal_only": false, "subdomain": "ArtEntertainments"};
 //-->
 </script>
-<script src="http://d38hl0pkrkpidx.cloudfront.net/s/5934f119c3bb61a13a4c8c9ff653bb59/theme_mint.js" type="text/javascript"></script>
+<script src="http://c.likes-media.com/s/b1ca14405cd533470d28a7ab43544b46/theme_mint.js" type="text/javascript"></script>
 
 
 <script type="text/javascript">
@@ -556,20 +561,22 @@ s.parentNode.insertBefore(ga, s);
 
 
 
-
 <script>
 window.global_ich_data = window.global_ich_data || {};
 global_ich_data.base_domain = "artentertainments.com";
 global_ich_data.external_host = "likes.com";
 
 global_ich_data.FB_APPID = "338903566195340";
+
 window.enable_user_subdomains = 1;
 if (window.Mustache) {
 Mustache.FILTERS.profile = function(user_name, path) {
+user_name = user_name || '';
 return "//" + user_name.replace(/_/g, '-') + ".artentertainments.com" + (path || '');
 
 
 };
+if (window.Jasinja) Jasinja.filters.profile = Mustache.FILTERS.profile;
 }
 </script>
 
