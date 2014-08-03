@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artentertainments.com privacy policy that was archived on 2014-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140518094849id_/https%3A//artentertainments.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artentertainments.com privacy policy that was archived on 2014-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140803070039id_/https%3A//artentertainments.com/privacy) for the most accurate reproduction.*
 
 # Likes.com
 
