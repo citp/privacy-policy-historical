@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamesofthemonth.com privacy policy that was archived on 2013-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131022171758id_/http%3A//www.gamesofthemonth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamesofthemonth.com privacy policy that was archived on 2014-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140803115459id_/http%3A//www.gamesofthemonth.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Games of the Month
 
