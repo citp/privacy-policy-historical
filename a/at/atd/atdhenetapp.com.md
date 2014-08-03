@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atdhenetapp.com privacy policy that was archived on 2013-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130815231315id_/http%3A//atdhenetapp.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atdhenetapp.com privacy policy that was archived on 2014-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140803165413id_/http%3A//atdhenetapp.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
