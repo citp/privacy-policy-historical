@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the lashchannel.com privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529214525id_/http%3A//www.lashchannel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lashchannel.com privacy policy that was archived on 2014-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140803081429id_/http%3A//www.lashchannel.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Admissions, Jobs, Result, Naat, Mehndi Design, News, Packages, Recipes, Fashion, pregnancy
+# Privacy Policy | LashChannel.com
 
 Privacy Policy for www.Lashchannel.com  
 If you require any more information or have any questions about our  
 privacy policy, please feel free to contact us by email at  
-lashforum@gmail.com  
+sakhani@live.com  
 At www.lashchannel.com, the privacy of our visitors is of extreme  
 importance to us. This privacy policy document outlines the types of  
 personal information is received and collected by  
