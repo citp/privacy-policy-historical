@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ksfcu.org privacy policy that was archived on 2013-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130813214208id_/https%3A//www.ksfcu.org/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ksfcu.org privacy policy that was archived on 2014-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140804232207id_/https%3A//www.ksfcu.org/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Notice - Kern Schools Federal Credit Union
 
@@ -42,6 +42,6 @@ We recognize that protecting children’s identities and online privacy is impor
 
 **State and Federal Privacy Notices**
 
-[Federal Privacy Notice](http://www.ksfcu.org/ksfcu-content/wp-content/uploads/2013/05/FederalPrivacyNotice1.pdf)
+[Federal Privacy Notice](https://www.ksfcu.org/ksfcu-content/wp-content/uploads/2014/04/Federal-Privacy-Notice-Dec-2013.pdf)
 
-[State Privacy Notice](http://www.ksfcu.org/ksfcu-content/wp-content/uploads/2013/05/StatePrivacyNotice.pdf)
+[State Privacy Notice](https://www.ksfcu.org/ksfcu-content/wp-content/uploads/2014/04/State-Privacy-Notice-Dec-2013.pdf)
