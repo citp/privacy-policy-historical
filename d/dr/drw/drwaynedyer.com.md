@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drwaynedyer.com privacy policy that was archived on 2014-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140528095721id_/http%3A//www.drwaynedyer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drwaynedyer.com privacy policy that was archived on 2014-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140804151838id_/http%3A//www.drwaynedyer.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Dr. Wayne Dyer
 
