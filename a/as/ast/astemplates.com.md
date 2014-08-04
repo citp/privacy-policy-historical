@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the astemplates.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627111318id_/http%3A//www.astemplates.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astemplates.com privacy policy that was archived on 2014-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140804143432id_/http%3A//www.astemplates.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy - Best Joomla! Templates | Professional Wordpress Themes
 
