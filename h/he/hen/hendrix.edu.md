@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hendrix.edu privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627131244id_/http%3A//hendrix.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hendrix.edu privacy policy that was archived on 2014-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140804144033id_/https%3A//hendrix.edu/privacy) for the most accurate reproduction.*
 
 # Hendrix College | Privacy Policy
 
