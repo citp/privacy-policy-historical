@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thenetresults.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625043937id_/http%3A//www.thenetresults.com/misc/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenetresults.com privacy policy that was archived on 2014-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140804075943id_/http%3A//www.thenetresults.com/misc/privacy.php) for the most accurate reproduction.*
 
 # The Net Results: Privacy Policy
 
