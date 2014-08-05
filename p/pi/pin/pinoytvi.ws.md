@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinoytvi.ws privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625071714id_/http%3A//www.pinoytvi.ws/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinoytvi.ws privacy policy that was archived on 2014-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140805050509id_/http%3A//www.pinoytvi.ws/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - www.pinoytvi.ws
 
