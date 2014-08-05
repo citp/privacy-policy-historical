@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the advantage.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625101825id_/http%3A//www.advantage.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advantage.com privacy policy that was archived on 2014-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140806014044id_/http%3A//www.advantage.com/Privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | Advantage Rent A Car
 
