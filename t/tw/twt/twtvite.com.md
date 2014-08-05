@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twtvite.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625052905id_/http%3A//twtvite.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twtvite.com privacy policy that was archived on 2014-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140805104920id_/http%3A//twtvite.com/home/privacy) for the most accurate reproduction.*
 
 # Twtvite | Privacy Policy
 
