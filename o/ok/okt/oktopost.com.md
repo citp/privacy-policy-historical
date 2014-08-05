@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oktopost.com privacy policy that was archived on 2014-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140605153402id_/http%3A//www.oktopost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oktopost.com privacy policy that was archived on 2014-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140805154527id_/http%3A//www.oktopost.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Oktopost
 
@@ -53,4 +53,4 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 ## Contacting us
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [contact us](https://web.archive.org/contact).
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [contact us](https://web.archive.org/company/contact).
