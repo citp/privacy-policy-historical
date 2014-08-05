@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the coinstar.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209190355id_/https%3A//www.coinstar.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coinstar.com privacy policy that was archived on 2014-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140805155428id_/https%3A//www.coinstar.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Coinstar® privacy policy.
+# Coinstar/ Coinstar customer Privacy Policy
 
-Outerwall Inc. ("Outerwall") owns the COINSTAR brand and line of business and the Privacy Policy below describes how information is collected, used and disclosed by Outerwall, including in connection with the COINSTAR kiosks, websites and other products and services. If you have questions or concerns about Outerwall's privacy practices, please contact us at [legalaffairs@outerwall.com](mailto:legalaffairs@outerwall.com).
+Outerwall Inc. (“Outerwall”) owns the Coinstar brand and line of business and the Privacy Policy below describes how information is collected, used and disclosed by Outerwall, including in connection with the Coinstar and Coinstar Exchange kiosks, websites and other products and services. 
 
-## Last updated: July 2, 2013
+Without limiting any of the information described in the Privacy Policy below: (1) Outerwall may collect additional information from you when you use the Coinstar Exchange kiosks, websites or other products or services, including information from your driver’s license, information about the gift cards you wish to exchange and your credit card information; and (2) Outerwall may also share information about you with Cardpool, Inc. (“Cardpool”) for purposes of validating and evaluating gift cards for fraud risk, value and other factors. Information provided to Cardpool is subject to Cardpool’s [privacy policy.](http://www.cardpool.com/privacy)
+
+If you have questions or concerns about Outerwall’s privacy practices, please contact us at [legalaffairs@outerwall.com](mailto:legalaffairs@outerwall.com).
+
+## Last updated: April 7, 2014
 
 This Privacy Policy ("Policy") explains how information about you is collected, used and disclosed by Outerwall Inc. and our subsidiaries and affiliated companies ("Outerwall," "we," or "us") when you access or use our kiosks, websites or other online or mobile services or applications ("Services"); sign up for contests, sweepstakes, promotions, mailing lists or events; interact with us on social networking sites where we have an official presence; or otherwise communicate with us. This Policy does not apply to Redbox Automated Retail, LLC ("Redbox"), so we encourage you to review the [Redbox Privacy Policy](http://www.redbox.com/privacy) before providing Redbox with information about you or using the Redbox Services. In addition, information collected in connection with third parties' products and services (including prepaid cards) are governed by their own privacy policies. This Policy will not apply where we display or link to a different privacy policy.
 
@@ -65,9 +69,9 @@ We may also share aggregated or anonymized information that does not directly id
 
 The Services may offer social sharing features or other integrated tools, which let you share actions you take on the Services with other media, and vice versa. The use of such features enables the sharing of information with your friends or the public, depending on the settings you establish with the third party that provides the social sharing feature. For more information about the purpose and scope of data collection and processing in connection with social sharing features, please visit the privacy policies of the third parties that provide these features.
 
-## Third party analytics
+## Third party advertising and analytics services
 
-We may allow third parties to use cookies, web beacons and other technologies to collect information about your use of the Services, including your IP address, web browser, pages viewed, time spent on pages, links clicked and conversion information. This information may be used by Outerwall and others to, among other things, analyze and track data, determine the popularity of certain content and better understand your activities in connection with our Services.
+We may allow others to serve advertisements on our behalf across the Internet and to provide analytics services. These entities may use cookies, web beacons and other technologies to collect information about your use of the Services and other websites, including your IP address, web browser, pages viewed, time spent on pages, links clicked and conversion information. This information may be used by Outerwall and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on our Services and other websites, and better understand your online activities. For more information about Internet-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please visit [www.aboutads.info/choices.](http://www.aboutads.info/choices/)
 
 ## Security of information
 
