@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collective-media.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626203734id_/http%3A//collective.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collective-media.com privacy policy that was archived on 2014-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140805055613id_/http%3A//collective.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Collective | Privacy Policy
 
@@ -18,92 +18,9 @@ We do not ask for PII other than as outlined below for business purposes. We don
 
 ###### **NON-SENSITIVE HEALTH DATA**
 
-Where permitted by applicable laws governing online privacy, Collective uses non-sensitive health-related data segments to serve or optimize advertisements. In order to provide transparency around these data segments, we have provided a list below: ** _  
-_**
+Where permitted by applicable laws governing online privacy, Collective uses non-sensitive health-related data segments to serve or optimize advertisements. In order to provide transparency around these data segments, we have provided a [list (click here)](http://collective.com/non-sensitive-health-data-list/ "Non-Sensitve Health Data").  
+ 
 
-Psychographic : Interest : Health  
----  
-Search : Health : Beauty : Hair Care  
-Search : Business & Finance : Insurance : Health Insurance  
-Search : Health : Beauty  
-Inmarket : CPG : Health  
-Inmarket : CPG : Health : Nutrition  
-Inmarket : Services : Health : Medical Centers  
-Psychographic : Interest : Health  
-Psychographic : Interest : Health : Healthy Living  
-Psychographic : Interest : Charity : Health  
-Purchase : Retail : Health & Beauty : Hair Care  
-Psychographic: Interest : Career Seekers : Health Care  
-Inmarket : Financial : Insurance : Health Care Insurance  
-Inmarket : CPG : Beauty : Health & Beauty  
-Inmarket : CPG : Beauty : Health & Beauty : Beauty and Health Products  
-Inmarket : CPG : Beauty : Health & Beauty : Hair Care  
-Inmarket : CPG : Beauty : Health & Beauty : Skin Care  
-Inmarket : CPG : Beauty : Health & Beauty : Nail Care  
-Inmarket : CPG : Beauty : Health & Beauty : Luxury Beauty Products  
-Inmarket : CPG : Beauty : Health & Beauty : Teeth Whitening  
-Inmarket : CPG : Health : Contact Lenses  
-Inmarket : CPG : Health : Eyeglasses  
-Inmarket : CPG : Health : Health Aids  
-Inmarket : CPG : Health : Over the Counter Drugs  
-Inmarket : CPG : Health : Vitamins  
-Inmarket : CPG : Health : Cold & Flu Remedies  
-Inmarket : CPG : Health : Prescription Medication  
-Inmarket : CPG : Health : Children’s Healthcare  
-Inmarket : CPG : Health : Elder Care  
-Inmarket : CPG : Health : Herbal Remedies  
-Search : Business & Finance : Insurance : Health Insurance  
-Psychographic : Interest : Health : Medicare Coverage  
-Psychographic : Interest : Health : Nutrition  
-Psychographic : Interest : Health : Weight Control  
-Psychographic : Interest : Health : Supplements  
-Purchase : Mail Order : Health & Beauty  
-Purchaser : Nutrition, Health & Beauty : Diet & Fitness  
-Lifestyle : Affinity (Interests & Daily Activities) : Health  
-Purchaser : Nutrition, Health & Beauty : Health & Beauty  
-Inmarket : CPG : Health : Drug Store  
-Inmarket : Financial : Insurance : Health  
-Inmarket : Services : Health Club  
-Psychgraphic : Past Purchase History : Financial : Insurance : Health  
-Psychographic : Past Purchase History : Retail : Health & Beauty  
-Psychographic : Past Purchase History : Retail : Health & Beauty : Drug Store  
-Financial : Financial Services : Insurance Customers : Health  
-Psychographic : Interest : Fitness  
-Psychographic : Interest : Health : Dieting  
-Lifestyle : Affinity (Interests & Daily Activities) : Charitable Donor : Health  
-Purchase : CPG : Health : Personal Care  
-Purchaser : Nutrition, Health & Beauty : Weight Loss & Supplements  
-Purchaser : Nutrition, Health & Beauty : Cosmetics Buyers  
-Purchaser : Nutrition, Health & Beauty : Energy Drink Buyers  
-Purchaser : Nutrition, Health & Beauty : Natural & Organic  
-Purchaser : Nutrition, Health & Beauty : Sports Drink Buyers  
-Purchaser : Nutrition, Health & Beauty : Value Haircare  
-Purchaser : Nutrition, Health & Beauty : Vitamin Buyers  
-Purchase : CPG : Health : Allergy Sufferers  
-Purchase : CPG : Health : Analgesics  
-Inmarket : CPG : Health : Cold & Flu products  
-Inmarket : CPG : Health : Weight Loss products  
-Purchaser : Nutrition, Health & Beauty : Weight Loss & Supplements  
-Purchaser : Nutrition, Health & Beauty : Food : Gourmet Food  
-Purchaser : Nutrition, Health & Beauty : Beauty & Fragrance  
-Purchaser : Nutrition, Health & Beauty : Natural Wellness  
-Purchaser : Nutrition, Health & Beauty : Healthy & Fit  
-Purchaser : Nutrition, Health & Beauty : Natural & Organic  
-Purchaser : Nutrition, Health & Beauty : Wellness Buyers  
-Purchaser : Nutrition, Health & Beauty : Fitness Buyers  
-Financial : Financial Services : Healthcare  
-Purchase : Financial Services : Healthcare  
-Purchase : CPG : Health  
-Psychographic : Interest : Health : Natural  
-Psychographic : Interest : Charity : Health  
-Psychographic : Interest : Fitness : Healthy Living  
-Purchase : Retail : Health & Beauty : Female Merchandise  
-Purchase : Retail : Health & Beauty : Self Improvement Products  
-Purchase : Retail : Health & Beauty : Male Merchandise  
-Purchase : Retail : Health & Beauty : Diet & Weight Loss  
-Purchase : Retail : Health & Beauty  
-Psychographic : Interest : Entertainment : Magazine Reading : Health  
-  
 ###### **HOW WE USE YOUR INFORMATION**
 
 Collective may use your Data to better target advertisements and other content to individuals in an effort to create a more relevant experience for each person.
@@ -116,13 +33,13 @@ This information may also be combined with data from other sources, and shared w
 
 Any PII you provide may be used by Collective to contact you about services or information requested by you and may be shared between our offices in the United States and the United Kingdom for this purpose. We may share this information with third parties who provide administrative services on our behalf (and they are required to maintain the confidentiality of the information), as well as pursuant to a court order or to law enforcement or government officials, or otherwise to protect the legal rights or legitimate interests of Collective, its affiliates, partners, and each of their respective investors, directors, officers, employees, agents and suppliers.
 
-From time to time, Collective may conduct surveys through various online methods. When participating in a survey, we may ask you to provide PII. The PII you submit in a survey may be used by Collective for research and measurement purposes,  including to measure the effectiveness of content, advertising or programs.  If you wish to contact use about surveys conducted by Collective, you can reach us by email at [surveys@collective.com](mailto:surveys@collective.com).
+From time to time, Collective may conduct surveys through various online methods. When participating in a survey, we may ask you to provide PII. The PII you submit in a survey may be used by Collective for research and measurement purposes,  including to measure the effectiveness of content, advertising or programs.  If you wish to contact us about surveys conducted by Collective, you can reach us by email at [surveys@collective.com](mailto:surveys@collective.com).
 
 ###### **COOKIES**
 
 A cookie is a piece of data stored on a user’s hard drive containing information about the user. We use cookies, for example, to provide information to advertisers on users’ web browsing activity. We believe this enables us and our advertiser clients to provide users with a more meaningful web experience.
 
-###### **CHOICE**
+###### **CHOICE AND OPT-OUT**
 
 Collective is a member of the Network Advertising Initiative and the Digital Advertising Alliance (“DAA”), and adhere to their respective self-regulatory codes. The NAI and DAA administer programs that provide consumer awareness and choices regarding web viewing data. As a member of these programs, we provide choice via the DAA choice tool.
 
