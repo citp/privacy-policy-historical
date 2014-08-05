@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homeguru.com.my privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529111110id_/http%3A//www.propertyguru.com.my/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeguru.com.my privacy policy that was archived on 2014-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140806013617id_/http%3A//www.propertyguru.com.my/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
