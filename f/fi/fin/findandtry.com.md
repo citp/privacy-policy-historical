@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findandtry.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331062858id_/http%3A//www.findandtry.com/static.php%3Fprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findandtry.com privacy policy that was archived on 2014-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140805120815id_/http%3A//www.findandtry.com/static.php%3Fprivacy) for the most accurate reproduction.*
 
 # FindandTry: Privacy Policy
 
