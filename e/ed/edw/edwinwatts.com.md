@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edwinwatts.com privacy policy that was archived on 2014-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140327012954id_/http%3A//www.edwinwattsgolf.com/Privacy_Policy_2010.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edwinwatts.com privacy policy that was archived on 2014-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140805034700id_/http%3A//www.edwinwattsgolf.com/Privacy_Policy_2010.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Golf Clubs, Drivers, Irons, Hybrids, Wedges, Golf Shoes and Golf Equipment at Edwin Watts Golf
 
@@ -77,7 +77,7 @@ Our Web site may carry advertisements by third parties and links to the Web site
 
  
 
-When you register with Edwin Watts Golf a Worldwide Golf Company LoyalTee Rewards® program, you can review, maintain, and change your own account information at any time. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we also depend on our users to update or correct their personal information whenever necessary.
+When you register with Edwin Watts Golf a Worldwide Golf Company,  you can review, maintain, and change your own account information at any time. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we also depend on our users to update or correct their personal information whenever necessary.
 
  
 
@@ -95,15 +95,7 @@ To provide you with information about special sales, promotions, and other offer
 
 Our Web site is a general audience site, and we do not intentionally collect or store any personally identifiable information from children. Nevertheless, we take special precautions with children's privacy, including following the federal guidelines set by the Children's Online Privacy Protection Act ("COPPA"). In compliance with COPPA, we will not actively seek personal information about children under the age of 13 without the permission of their parent or legal guardian. If you are a parent or guardian of a child under the age of 13 and believe that child has disclosed personally identifiable information to us, you may contact us to review and request deletion of the information. For security purposes, you must provide sufficient identifying information for us to verify that you are the child's parent or guardian. At your request, we will make all reasonable efforts to delete the information provided.
 
- 
-
-**LoyalTee Rewards Program Terms and Conditions**
-
- 
-
-Edwin Watts Golf a Worldwide Golf Company's Rewards Program participation and its benefits are offered at the sole discretion of Edwin Watts Golf a Worldwide Golf Company. Edwin Watts Golf a Worldwide Golf Company has the right to modify, add or delete any of the Program rules, terms, conditions, benefits or rewards, in whole or in part, at any time, with or without notice, even though such changes may affect the value of accumulated points, the value of the LoyalTee Rewards and/or the time for redemption. The Program has no predetermined termination date and may continue until such time as Edwin Watts Golf a Worldwide Golf Company, in its sole discretion, elects to designate a Program termination date. Edwin Watts Golf a Worldwide Golf Company has the right to end the Program at any time without providing written notice to you. Participation in the Program is void if prohibited by law in the jurisdiction in which the prospective participant resides. If in any particular state the Program or Edwin Watts Golf a Worldwide Golf Company has to apply for any special license, bonding, permit or other governmental regulatory approval, the Program will be void in that particular state. 
-
- 
+   
 
 **California Privacy Rights**
 
