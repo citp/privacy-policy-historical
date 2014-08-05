@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voicebunny.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625075104id_/http%3A//voicebunny.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voicebunny.com privacy policy that was archived on 2014-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140805184339id_/http%3A//voicebunny.com/pages/privacy) for the most accurate reproduction.*
 
 # Bunny Inc privacy policy | VoiceBunny by Bunny Inc.
 
@@ -17,7 +17,7 @@ We want to develop relationships with our customers based on respect and integri
     2. **How We Directly Collect Personal Information:** There are a number of different ways that we collect Personal Information from you. These may include: 
       * **Purchases**. We collect your Personal Information when purchase Bunny Inc products through the Site. We will require sufficient information to complete your purchase, which will include your name, postal address, email address, telephone number and credit card information.
       * **Customer Support**. You may provide us with Personal Information when you call or email us to request technical assistance with our products or information that you would like to receive about our products.
-      * **Email/Direct Mail Campaigns That You Approve**. If you elect to receive promotional communications from us, from time to time we may contact you with information about new products, promotions or special offers. If you want to stop receiving promotional communications from us, you can follow the unsubscribe instructions at the bottom of a promotional email or contact us at [me@voicebunny.com](mailto:me@voicebunny.com).
+      * **Email/Direct Mail Campaigns That You Approve**. If you elect to receive promotional communications from us, from time to time we may contact you with information about new products, promotions or special offers. If you want to stop receiving promotional communications from us, you can follow the unsubscribe instructions at the bottom of a promotional email or contact us at [support@voicebunny.com](mailto:support@voicebunny.com).
     3. **Information That We Automatically Collect From Your Computer:** We (or service providers on our behalf) may automatically collect information from you using "cookies" or "web beacons". Cookies are small amounts of data that are stored within your computer's Internet browser and that are accessed and recorded by the websites that you visit so that they can recognize the same browser navigating online at a later time. Web beacons are web page elements that can recognize certain types of information on your computer such as cookies and the time and date of a page viewed. 
 
 Information collected by cookies and web beacons may include, without limitation:
@@ -62,15 +62,15 @@ We will take all steps reasonably necessary to ensure your Personal Information 
 
   7. **Corrections/Information Removal.**
 
-If your name, e-mail or postal address, telephone number or other Personal Information changes, you may update, correct or omit the relevant information by contacting us at [me@voicebunny.com](mailto:me@voicebunny.com).
+If your name, e-mail or postal address, telephone number or other Personal Information changes, you may update, correct or omit the relevant information by contacting us at [support@voicebunny.com](mailto:support@voicebunny.com).
 
   8. **Contact Information.**
 
-If you have any questions or concerns about this Privacy Policy, please e-mail us at [me@voicebunny.com](mailto:me@voicebunny.com), send a letter to: **6 Mint Plaza Suite 602. San Francisco, CA. 94103, USA** or call us at **+1 (415) 749-9221**.
+If you have any questions or concerns about this Privacy Policy, please e-mail us at [support@voicebunny.com](mailto:support@voicebunny.com), send a letter to: **6 Mint Plaza Suite 602. San Francisco, CA. 94103, USA** or call us at **+1 (415) 749-9221**.
 
   9. **Your California Privacy Rights.**
 
-California Civil Code Section 1798.83, also known as the "Shine The Light" law, permits our customers who are California residents to request and obtain from us once a year, free of charge, information about the Personal Information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of Personal Information that was shared with these third parties and the names and addresses of the third parties with which we shared information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to: [me@voicebunny.com](mailto:me@voicebunny.com)
+California Civil Code Section 1798.83, also known as the "Shine The Light" law, permits our customers who are California residents to request and obtain from us once a year, free of charge, information about the Personal Information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of Personal Information that was shared with these third parties and the names and addresses of the third parties with which we shared information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to: [support@voicebunny.com](mailto:support@voicebunny.com)
 
   10. **Business Transfer.**
 
