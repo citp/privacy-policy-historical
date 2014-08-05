@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fantasticcontraption.com privacy policy that was archived on 2014-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140607023637id_/http%3A//fantasticcontraption.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantasticcontraption.com privacy policy that was archived on 2014-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140805213431id_/http%3A//fantasticcontraption.com/privacy.php) for the most accurate reproduction.*
 
 # Fantastic Contraption: A fun online physics puzzle game
 
