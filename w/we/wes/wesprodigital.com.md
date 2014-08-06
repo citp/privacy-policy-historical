@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wesprodigital.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208021653id_/http%3A//www.wesprodigital.com/index.php/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wesprodigital.com privacy policy that was archived on 2014-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140806075602id_/http%3A//www.wesprodigital.com/index.php/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
