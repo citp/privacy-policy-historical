@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the dreambloggers.com privacy policy that was archived on 2014-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140524023224id_/http%3A//www.dreambloggers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreambloggers.com privacy policy that was archived on 2014-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140806020004id_/http%3A//www.dreambloggers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-[Home](http://www.dreambloggers.com/)  »  Privacy Policy
 
 ##### Privacy Policy for [www.dreambloggers.com](http://www.dreambloggers.com/)
 
