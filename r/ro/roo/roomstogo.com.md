@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roomstogo.com privacy policy that was archived on 2013-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131210152303id_/http%3A//www.roomstogo.com/content/Customer-Service/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roomstogo.com privacy policy that was archived on 2014-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140806185650id_/http%3A//www.roomstogo.com/content/Customer-Service/Privacy) for the most accurate reproduction.*
 
 # Rooms To Go
 
@@ -85,11 +85,11 @@ If there are any questions regarding this privacy policy you may contact us usin
 
 <http://www.roomstogo.com/content/Customer-Service/Contact-Us>
 
-Attn: Online Support  
+Attn: Internet Sales Support  
 11540 Highway 92 East  
 Seffner, FL 33584  
 USA  
-(888) 709 - 5380  
-[onlinesupport@roomstogo.com](mailto:onlinesupport@roomstogo.com)
+(888) 709 - 5380 Option #1  
+[internetSalesSupport@roomstogo.com](mailto:internetSalesSupport@roomstogo.com)
 
 This policy is powered by Trust Guard [PCI compliance](http://www.trust-guard.com/PCI-Compliance-s/65.htm) scans.
