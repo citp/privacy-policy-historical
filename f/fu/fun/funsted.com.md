@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funsted.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625133721id_/http%3A//www.funsted.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funsted.com privacy policy that was archived on 2014-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140806063145id_/http%3A//www.funsted.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Funsted.com
 
