@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ipott.com privacy policy that was archived on 2013-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130916195952id_/http%3A//www.ipott.com/jsp/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipott.com privacy policy that was archived on 2014-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140806051256id_/http%3A//www.ipott.com/jsp/privacy.jsp) for the most accurate reproduction.*
 
 # iPOTT - Our Privacy and Information Policy
 
