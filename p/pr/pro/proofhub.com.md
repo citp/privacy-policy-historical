@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proofhub.com privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606114533id_/http%3A//www.proofhub.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proofhub.com privacy policy that was archived on 2014-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140806040922id_/https%3A//www.proofhub.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - ProofHub
 
