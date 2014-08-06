@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the propertyvalue.com.au privacy policy that was archived on 2014-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140622213305id_/http%3A//www.rpdata.com/general/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propertyvalue.com.au privacy policy that was archived on 2014-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140806030316id_/http%3A//www.rpdata.com/general/privacy_policy.html) for the most accurate reproduction.*
 
 # RP Data Privacy Policy
 
