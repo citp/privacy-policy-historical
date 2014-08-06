@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forums-fta.com privacy policy that was archived on 2013-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130916053818id_/http%3A//www.forums-fta.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forums-fta.com privacy policy that was archived on 2014-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140806100916id_/http%3A//www.forums-fta.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Forums FTA
 
