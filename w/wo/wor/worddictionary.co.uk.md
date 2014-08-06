@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worddictionary.co.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625065248id_/http%3A//worddictionary.co.uk/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worddictionary.co.uk privacy policy that was archived on 2014-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140806050239id_/http%3A//worddictionary.co.uk/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Worddictionary.co.uk
 
