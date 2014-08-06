@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buyspares.co.uk privacy policy that was archived on 2014-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140330044756id_/http%3A//www.buyspares.co.uk/payment-security/help.pl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyspares.co.uk privacy policy that was archived on 2014-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140806070442id_/http%3A//www.buyspares.co.uk/payment-security/help.pl) for the most accurate reproduction.*
 
 # Terms & Conditions
 
@@ -120,7 +120,7 @@ The prices, offers and products on this website are subject to availability and 
 
 ##### Payment Methods Available
 
-We accept Visa and MasterCard credit cards and Visa Delta, Visa Electron, Maestro and Solo debit cards. We also accept payment through PayPal 
+We accept Visa and MasterCard credit cards and Visa Delta, Visa Electron, Maestro and Solo debit cards. We also accept payment through PayPal.
 
 ##### Website Transactions
 
@@ -171,17 +171,52 @@ These cookies allow us to identify and count the number of visitors to our sites
 
 Our site uses a range of cookies for marketing purposes. Marketing cookies record your visits to our sites, the pages you have visited and the links you have followed. We use this information to make our site and the advertising displayed on them more relevant to your interests. Sometimes we share anonymous information about your browsing activity recorded using cookies with our advertising partners. They may use this information to advertise products that may interest you on other sites. Please note we don’t share any of your personal or sensitive information.
 
-The use of cookies will not result in you receiving unsolicited emails. We understand that not everyone wants to receive marketing information. In order to receive marketing communications from us, you have to opt-in. This can be done during the checkout process or you can [sign up here](http://www.buyspares.co.uk/newsletter-signup.pl). You also have the option to unsubscribe from our email mailing list at any time.
+The use of cookies will not result in you receiving unsolicited emails. We understand that not everyone wants to receive marketing information. In order to receive marketing communications from us, you have to opt-in. This can be done during the checkout process or you can [sign up here](http://www.buyspares.co.uk/newsletter-signup.pl). You also have the option to unsubscribe from our email mailing list at anytime.
 
 **Use of cookies & consent**
 
-As described above we, like most other websites, use cookies in the operation of our website. By using this website you are agreeing to the use of cookies for the purposes described. If you do not consent to the use of cookies, please refrain from using this site. Please note that you can delete any cookies used during this visit in your browser settings.  
-[Learn more about deleting cookies here](http://www.aboutcookies.org/Default.aspx?page=2)
+As described above we, like most other websites, use cookies in the operation of our website. By using this website you are agreeing to the use of cookies for the purposes described. If you do not consent to the use of cookies, please refrain from using this site. You can delete and restrict cookie use in your browser:  
 
-**Restricting cookie use**
 
-Please note that cookies can be restricted. Should you wish to restrict the use of cookies, you can adjust the settings in most popular internet browsers. However, by restricting cookies you may limit the use of some areas of the site.   
-[Learn more about restricting cookies here](http://www.aboutcookies.org/Default.aspx?page=1)
+    * View more about Cookie Control
+
+      1. Locate the 'Tools' tab on the menu areas of your browser. Click on this.
+      2. There is an option called 'Internet Options' on the list, select this option.
+      3. This should open a pop up box with lots of tabbed options. Select the 'Privacy' tab from the list.
+      4. Internet Explorer has a high, medium, low auto-adjust system for internet content handling. You can configure your own settings by clicking the advanced tab and ticking the 'Override automatic cookie handling'
+      5. Settings above Medium will disable cookies, Medium or below will enable cookies.
+
+      1. Locate the 'Tools' tab on the menu areas of your browser. Click on this.
+      2. From the list of options on the drop down menu, click on 'Options'
+      3. There should be a pop up window appear with tabs along the top. Find the 'Privacy' tab and select this.
+      4. You should now have some options for 'Tracking'’ and 'History'. Under the 'History' drop down menu, select 'Use customer settings for history' if you wish to adjust your cookie settings.
+
+      1. Look for the spanner icon in Chrome  and click on this
+      2. From this menu, select settings…
+      3. Within settings you will see tabs on the left hand side. Select the tab called 'Under the Hood'
+      4. When this page loads you will see a tab at the top called 'Content Settings' – select this
+      5. This brings up your content controls including cookie permissions – select the option you feel most comfortable with
+
+      1. Locate the Cog icon at the top of your browser  and click on this.
+      2. From the list of options select 'Preferences'
+      3. This should open a pop up window with several tabs along the top. From this list select the 'Privacy' option.
+      4. This will open the tab page that allows you to control the cookie settings on your browser.
+
+      1. Click the Opera file icon in the top left hand corner of your browser.
+      2. From the drop down list of options, highlight 'Settings' and then scroll across and select 'Preferences'.
+      3. This should open a pop up window with tabs along the top. Choose the 'Advanced' tab.
+      4. This shows you the advanced options. On the left hand side there is an option called ‘Cookies’ – click on this option.
+      5. This presents the cookie options for your use on this browser.
+
+**If you have another browser …**
+
+Please check the help settings within your browser or use a search engine to find answers on the best way to enable or disable cookies in your chosen browser. Please remember we are not responsible for the content on external websites.
+
+**If you want more information…**
+
+You can visit the following website for an in-depth guide to cookies and how to control, delete and understand them. They even have a great recipe on there for cookies of the edible variety – yum!
+
+<http://www.aboutcookies.org/>
 
 **Data Protection**
 
