@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the warriorforumsucks.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626150548id_/http%3A//warriorforumsucks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the warriorforumsucks.com privacy policy that was archived on 2014-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140806150507id_/http%3A//warriorforumsucks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Warrior Forum Sucks
 
