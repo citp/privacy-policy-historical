@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the orangesoda.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626020743id_/http%3A//www.orangesoda.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orangesoda.com privacy policy that was archived on 2014-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140807161104id_/http%3A//www.orangesoda.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
