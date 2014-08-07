@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the wevideo.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626000710id_/http%3A//www.wevideo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wevideo.com privacy policy that was archived on 2014-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140807234800id_/https%3A//www.wevideo.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | WeVideo
-
-### WeVideo Privacy Policy
 
 _Last Modified: March 5, 2014_
 
