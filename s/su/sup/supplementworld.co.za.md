@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supplementworld.co.za privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627030321id_/http%3A//www.supplementworld.co.za/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supplementworld.co.za privacy policy that was archived on 2014-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140807092007id_/http%3A//www.supplementworld.co.za/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -17,7 +17,7 @@ country of residence;
 closest city;  
 non-personal browsing habits and click patterns;  
 e-mail address;  
-IP address
+IP address 
 
 ### Purpose of collection, storage and use of personal information
 
@@ -42,7 +42,7 @@ supplementworld.co.za may collect, maintain, save, compile and share any informa
 supplementworld.co.za shall not disclose personal information from users unless the user consents thereto;  
 supplementworld.co.za shall disclose information without the user's consent only through due legal process;  
 supplementworld.co.za may compile, use and share any information that does not relate to any specific individual (e.g. cookies).  
-supplementworld.co.za owns and retains all rights to non-personal statistical information collected and compiled by supplementworld.co.za.
+supplementworld.co.za owns and retains all rights to non-personal statistical information collected and compiled by supplementworld.co.za. 
 
 ### User accounts
 
