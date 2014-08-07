@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the addsocials.com privacy policy that was archived on 2013-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130424101257id_/http%3A//www.addsocials.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addsocials.com privacy policy that was archived on 2014-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140807133205id_/http%3A//www.addsocials.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy
+# Addsocials
+
+## Privacy Policy
 
 This Policy applies as to all products and services provided by Addsocials the owner and provider of addsocials, and yourself the User of AddSocials. This Policy applies to our use of any and all Data collected by us in relation to your use of AddSocials and any Services or Systems therein.
 
