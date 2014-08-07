@@ -1,465 +1,293 @@
-<!--The following is the downloaded HTML source of the formlabs.com privacy policy that was archived on 2014-02-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140207233358id_/http%3A//formlabs.com/pages/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the formlabs.com privacy policy that was archived on 2014-08-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140808014954id_/http%3A//formlabs.com/support/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
-  <meta charset="utf-8">
-  <script type="text/javascript" async="" src="//cdn.shopify.com/s/javascripts/shopify_stats.js?v=6"></script><script src="//ssl.google-analytics.com/ga.js"></script><script src="//cdn.optimizely.com/js/545422390.js"></script>
+<!DOCTYPE html><html class="no-js" lang="en" data-useragent="Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.2; Trident/6.0)"><head><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgAEVVNVGwAAUldUDgc="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e){function n(t,e,n){n||(n={});for(var r=o[t],a=r&&r.length||0,s=n[i]||(n[i]={}),u=0;a>u;u++)r[u].apply(s,e);return s}function r(t,e){var n=o[t]||(o[t]=[]);n.push(e)}var o={},i="nr@context";e.exports={on:r,emit:n}},{}],2:[function(t){function e(t,e,n,i,s){return u?u-=1:r("err",[s||new UncaughtException(t,e,n)]),"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t(5),a=window.onerror,s=!1,u=0;t("loader").features.push("err"),window.onerror=e,NREUM.noticeError=n;try{throw new Error}catch(d){"stack"in d&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(4),s=!0)}i.on("fn-start",function(){s&&(u+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&u>0&&(u-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:4,3:3,4:6,5:1,6:14,handle:"D5DuLP",loader:"G9z0Bl"}],3:[function(t){function e(t){r.inPlace(t,["addEventListener","removeEventListener"],"-",n)}function n(t){return t[1]}var r=t(1),o=(t(3),t(2));if(e(window),"getPrototypeOf"in Object){for(var i=document;i&&!i.hasOwnProperty("addEventListener");)i=Object.getPrototypeOf(i);i&&e(i);for(var a=XMLHttpRequest.prototype;a&&!a.hasOwnProperty("addEventListener");)a=Object.getPrototypeOf(a);a&&e(a)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&e(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=e["nr@wrapped"]?t[1]=e["nr@wrapped"]:e["nr@wrapped"]=t[1]=r(e,"fn-"):"function"==typeof e.handleEvent&&r.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:15,2:1,3:14}],4:[function(t){var e=(t(3),t(1)),n=t(2);e.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=e(t[0],"fn-")})},{1:15,2:1,3:14}],5:[function(t){function e(t){var e=t[0];"string"==typeof e&&(e=new Function(e)),t[0]=n(e,"fn-")}var n=(t(3),t(1)),r=t(2);n.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",e)},{1:15,2:1,3:14}],6:[function(t){function e(){o.inPlace(this,s,"fn-")}function n(t,e){o.inPlace(e,["onreadystatechange"],"fn-")}function r(t,e){return e}var o=t(1),i=t(2),a=window.XMLHttpRequest,s=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];window.XMLHttpRequest=function(t){var n=new a(t);try{i.emit("new-xhr",[],n),o.inPlace(n,["addEventListener","removeEventListener"],"-",function(t,e){return e}),n.addEventListener("readystatechange",e,!1)}catch(r){try{i.emit("internal-error",r)}catch(s){}}return n},window.XMLHttpRequest.prototype=a.prototype,o.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:15,2:1}],7:[function(t){function e(){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;u>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,d="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=e(d);if(f&&(r.rxSize=f),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}t("loader").features.push("xhr");var o=t("handle"),i=t(1),a=t(5),s=["load","error","abort","timeout"],u=s.length,d=t(2);t(3),t(4),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var d=e(o);d&&(r.txSize=d)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",e)}catch(r){}}};for(var f=0;u>f;f++)n.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&e()},{1:8,2:11,3:3,4:6,5:1,handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e){var n=r[t];return n?n.apply(this,e):(o[t]||(o[t]=[]),void o[t].push(e))}var r={},o={};e.exports=n,n.queues=o,n.handlers=r},{}],11:[function(t,e){function n(t){if(!t||"object"!=typeof t&&"function"!=typeof t)return-1;if(t===window)return 0;if(o.call(t,"__nr"))return t.__nr;try{return Object.defineProperty(t,"__nr",{value:r,writable:!0,enumerable:!1}),r}catch(e){return t.__nr=r,r}finally{r+=1}}var r=1,o=Object.prototype.hasOwnProperty;e.exports=n},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info;if(t&&t.agent&&t.licenseKey&&t.applicationID&&u&&u.body){p.proto="https"===c.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=p.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=window,u=s.document,d="addEventListener",f="attachEvent",c=(""+location).split("?")[0],p=e.exports={offset:i(),origin:c,features:[]};u[d]?(u[d]("DOMContentLoaded",o,!1),s[d]("load",n,!1)):(u[f]("onreadystatechange",r),s[f]("onload",n)),a("mark",["firstbyte",i()])},{handle:"D5DuLP"}],14:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],15:[function(t,e){function n(t,e,r,s){function nrWrapper(){try{var n,a=u(arguments),d=this,f=r&&r(a,d)||{}}catch(c){i([c,"",[a,d,s],f])}o(e+"start",[a,d,s],f);try{return n=t.apply(d,a)}catch(p){throw o(e+"err",[a,d,p],f),p}finally{o(e+"end",[a,d,n],f)}}return a(t)?t:(e||(e=""),nrWrapper[n.flag]=!0,nrWrapper)}function r(t,e,r,o){r||(r="");var i,s,u,d="-"===r.charAt(0);for(u=0;u<e.length;u++)s=e[u],i=t[s],a(i)||(t[s]=n(i,d?s+r:r,o,s,t))}function o(t,e,n){try{s.emit(t,e,n)}catch(r){i([r,t,e,n])}}function i(t){try{s.emit("internal-error",t)}catch(e){}}function a(t){return!(t&&"function"==typeof t&&t.apply&&!t[n.flag])}var s=t(1),u=t(2);e.exports=n,n.inPlace=r,n.flag="nr@wrapper"},{1:1,2:14}]},{},["G9z0Bl",2,7]);</script>
+      <script src="//cdn.optimizely.com/js/545422390.js"></script>
 
-  
-  
-  <script type="text/javascript">
-    var DEBUG = false;
-  </script>
-  
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-  <link rel="canonical" href="http://formlabs.com/pages/privacy-policy">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
 
-  <title>Formlabs - High Resolution Desktop 3D Printer</title>
-
-
-  
-  
-  
-  
-  <meta name="description" content="&amp;nbsp;Privacy Policy &amp;rsaquo;  Changes Contact Us Information We Collect Personal Information Navigational Information Information About Children Data C...">
-  
-
-  
-   <title>Privacy Policy | Formlabs</title>
-  
-
-  <script type="text/javascript">
-//<![CDATA[
-      var Shopify = Shopify || {};
-      Shopify.shop = "formlabs-ian.myshopify.com";
-      Shopify.theme = {"name":"Formlabs Shop 2.0","id":3628492,"theme_store_id":null,"role":"main"};
-
-//]]>
-</script>
-
-
-<script id="__st" type="text/javascript">
-//<![CDATA[
-var __st={"a":1832285,"offset":-18000,"u":"af98930ebe46","s":"pages-9178094"};
-//]]>
-</script>
-<script type="text/javascript">
-//<![CDATA[
-    (function() {
-      function asyncLoad() {
-        var urls = ["//cdn.shopify.com/s/javascripts/shopify_stats.js?v=6"];
-        for (var i = 0; i < urls.length; i++) {
-          var s = document.createElement('script');
-          s.type = 'text/javascript';
-          s.async = true;
-          s.src = urls[i];
-          var x = document.getElementsByTagName('script')[0];
-          x.parentNode.insertBefore(s, x);
-        }
-      }
-      window.attachEvent ? window.attachEvent('onload', asyncLoad) : window.addEventListener('load', asyncLoad, false);
-    })();
-
-//]]>
-</script>
-<script src="http://stats.g.doubleclick.net/dc.js" type="text/javascript"></script><script type="text/javascript">var pageTracker = _gat._getTracker('UA-27913555-1');pageTracker._addDevId('o5cUG');pageTracker._setAllowLinker(true);pageTracker._setDomainName('none');pageTracker._trackPageview();</script><script type="text/javascript" src="//cdn.shopify.com/s/global/ga_urchin_forms.js?58c42999c28f84ab30801647667bd11989203fcf"></script>
-
-
-  <link href="//cdn.shopify.com/s/files/1/0183/2285/t/10/assets/style.css?4240" rel="stylesheet" type="text/css" media="all">
-  <script src="//cdn.shopify.com/s/files/1/0183/2285/t/10/assets/modernizr.js?4240" type="text/javascript"></script>
-  <script src="//cdn.shopify.com/s/shopify/option_selection.js?58c42999c28f84ab30801647667bd11989203fcf" type="text/javascript"></script>
-  <script src="//cdn.shopify.com/s/files/1/0183/2285/t/10/assets/util.js?4240" type="text/javascript"></script>
-  
-  
-
-	<meta name="author" content="Formlabs">
-  
-  
-  
-    <meta property="og:image" content="//cdn.shopify.com/s/files/1/0183/2285/t/10/assets/logo.png?4240">
-  
-
-  
-  
-
-
-	
-	<link rel="shortcut icon" href="//cdn.shopify.com/s/files/1/0183/2285/t/10/assets/favicon.ico?4240">
-    <link rel="icon" href="//cdn.shopify.com/s/files/1/0183/2285/t/10/assets/favicon.ico?4240">
-    <link rel="favicon" href="//cdn.shopify.com/s/files/1/0183/2285/t/10/assets/favicon.ico?4240">
-    <link rel="apple-touch-icon" href="//cdn.shopify.com/s/files/1/0183/2285/t/10/assets/apple-touch-icon.png?4240">
-
-  <link href="//cdn.shopify.com/s/files/1/0183/2285/t/10/assets/base.css?4240" rel="stylesheet" type="text/css" media="all">
-  <link href="//cdn.shopify.com/s/files/1/0183/2285/t/10/assets/default.css?4240" rel="stylesheet" type="text/css" media="all">
-  <link href="//cdn.shopify.com/s/files/1/0183/2285/t/10/assets/default-two.css?4240" rel="stylesheet" type="text/css" media="all">
-  <link href="//cdn.shopify.com/s/files/1/0183/2285/t/10/assets/shipviz.css?4240" rel="stylesheet" type="text/css" media="all">
-  <link href="//cdn.shopify.com/s/files/1/0183/2285/t/10/assets/nivo-slider.css?4240" rel="stylesheet" type="text/css" media="all">
-  <link href="//cdn.shopify.com/s/files/1/0183/2285/t/10/assets/bx_styles.css?4240" rel="stylesheet" type="text/css" media="all">
-  <link href="//cdn.shopify.com/s/files/1/0183/2285/t/10/assets/messi.min.css?4240" rel="stylesheet" type="text/css" media="all">
-    <link href="//cdn.shopify.com/s/files/1/0183/2285/t/10/assets/jquery.fancybox.css?4240" rel="stylesheet" type="text/css" media="all">
-  <link href="//cdn.shopify.com/s/files/1/0183/2285/t/10/assets/jquery.fancybox-thumbs.css?4240" rel="stylesheet" type="text/css" media="all">
-    <!--[if lte IE 7]>
-    <link href="//cdn.shopify.com/s/files/1/0183/2285/t/10/assets/base.ie-7.css?4240" rel="stylesheet" type="text/css"  media="all"  />
-    <![endif]-->
-        <!--[if IE 8]>
-    <link href="//cdn.shopify.com/s/files/1/0183/2285/t/10/assets/base.ie-8.css?4240" rel="stylesheet" type="text/css"  media="all"  />
-    <![endif]-->
-        <!--[if gte IE 9]>
-    <link href="//cdn.shopify.com/s/files/1/0183/2285/t/10/assets/base.ie-9.css?4240" rel="stylesheet" type="text/css"  media="all"  />
-    <![endif]-->
-	
-  <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-	<script src="//cdn.shopify.com/s/files/1/0183/2285/t/10/assets/jquery.nivo.slider.js?4240" type="text/javascript"></script>
-    <script src="//cdn.shopify.com/s/files/1/0183/2285/t/10/assets/messi.min.js?4240" type="text/javascript"></script>
-    <script src="//cdn.shopify.com/s/files/1/0183/2285/t/10/assets/jquery.bxSlider.js?4240" type="text/javascript"></script>
-    <script src="//cdn.shopify.com/s/files/1/0183/2285/t/10/assets/api.jquery.js?4240" type="text/javascript"></script>
-    <script src="//cdn.shopify.com/s/files/1/0183/2285/t/10/assets/jquery.fancybox.js?4240" type="text/javascript"></script>
-  <script src="//cdn.shopify.com/s/files/1/0183/2285/t/10/assets/jquery.fancybox-thumbs.js?4240" type="text/javascript"></script>
-
-  <script type="text/javascript">
-    jQuery(document).ready(function($) {
-        $(".kickstarter").parent().hide();
-		$(".scroll").click(function(event){		
-			event.preventDefault();
-			$('html,body').animate({scrollTop:$(this.hash).offset().top}, 500);
-		});
-	});
+    <title>Privacy Policy — Formlabs</title>
     
-    BrowserDetect.init();
-  </script>
-  
-  <script>
-    jQuery(function($){
-      if ( document.location.href.indexOf('collections/all') > -1 ) {
-      $('body').addClass('collections-all');
+
+    
+    
+
+    <meta name="description" content="Formlabs is committed to protecting your privacy. Our privacy policy outlines what information we collect, how we use it, and security of your information.">
+    <meta name="author" content="">
+    <meta name="dcterms.rights" content="">
+    <meta name="p:domain_verify" content="98420f0fd1e6c3585b4050717782b00b">
+    <script type="text/javascript" src="//use.typekit.net/ram6brp.js"></script>
+    <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+    <script type="text/javascript">
+    
+        window.STORE_TYPE = 'us';
+        window.DOMAIN = 'formlabs.com';
+    
+    </script>
+    <link rel="stylesheet" href="/static/formlabs-web-frontend/stylesheets/app.css?ebe3678">
+    <link rel="stylesheet" href="/static/formlabs-web-frontend/stylesheets/animation.css?ebe3678" data-skrollr-stylesheet="">
+    <link rel="shortcut icon" href="/static/formlabs-web-frontend/img/favicon.ico?ebe3678">
+    <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-27913555-1', 'formlabs.com');
+  ga('require', 'displayfeatures');
+  ga('require', 'linkid', 'linkid.js');
+  ga('send', 'pageview');
+
+    var trackFormEvent = function(category) {
+        ga('send', 'event', category, 'submit', document.location.href,{'hitCallback':function() { } });
     }
-    });
-  </script>
-  
-  <script>
-    var _gaq=[['_setAccount','UA-27913555-1'],['_trackPageview']];
-    (function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
-    g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
-    s.parentNode.insertBefore(g,s)}(document,'script'));
-  </script>
-  
-<script async="true" type="text/javascript" src="https://s.adroll.com/j/roundtrip.js"></script></head>
-<body class="templatePage">
-  
- 
 
-	<!--[if lt IE 7]><p class="chromeframe">Your browser is <em>ancient!</em> <a href="http://browsehappy.com/">Upgrade to a different browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.</p><![endif]-->
-
-	<div class="container">
-		<!-- Header -->
-		<header>
-			<div id="top-nav-window" class="sixteen columns full"></div>
-			<div id="top-nav" class="sixteen columns full">
-              <div id="preloadimages"></div>
-				<div class="six columns alpha"><a class="logo" title="Home" href="/"></a></div>
-				<div class="ten columns omega">
-
-<!--					
-		      <div id="umbrella">
-		        <ul>
-		          
-		          <li class="customer-account-links">
-		            
-		              <p><a href="/account/login" id="customer_login_link">Log in</a></p>
-		            
-		          </li>
-		          
-
-		          
-
-		          <li class="cart-link">
-		            <a href="/cart" class="num-items-in-cart">
-		              <span class="icon">
-		               0 items
-		              </span>
-		            </a>
-		          </li>
-
-		          <li class="checkout-link">
-		            <a href="/cart" class="btn">Check out</a>
-		          </li>
-
-		        </ul>
-		        </div>
-                
-		        
-		-->
-
-				
-					
-<script type="text/javascript">
-    var navLinks = 
-    [{
-        label:"The Form 1",
-        url:"/products/our-printer",
-        subNav:
-            [{
-                label:"Overview",
-                url:"/products/our-printer"
-            },
-            {
-                label:"Material",
-                url:"/products/material"
-            },
-            {
-                label:"Software",
-                url:"/pages/software"
-            },
-            {
-                label:"Finishing",
-                url:"/pages/form-finish-kit"
-            },
-             {
-                label:"Accessories",
-                url:"/products/accessories"
-            },
-            {
-                label:"Tech Specs",
-                url:"/pages/tech-specs"
-            }]
-    },
-    {
-        label:"Blog",
-        url:"/blogs/blog"
-    },
-    {
-        label:"Support",
-      url:"http://support.formlabs.com"
-    },
-     {
-      label:"Careers",
-      url:"/pages/careers" 
-     },
-    {
-        label:"Store",
-        url:"/collections/all",
-        subNav: 
-            [{
-                label:"Products",
-                url:"/collections/all"
-            },
-            {
-                label:"Customer Service",
-                url:"/pages/customer-service"
-            },
-            {
-                label:"Shipping",
-                url:"/pages/shipping-information"
-            },
-             {
-                label:"FAQ",
-                url:"/pages/faq"
-            },
-            {
-                label:"Contact Us",
-                url:"/pages/contact-us"
-            }]
-    }];
-    
-    function navContains(navList, string) {
-        var containsString = false;
-        if (string && string != "") {
-            $.each(navList, function (index, element) {
-                if (element.url.indexOf(string) > -1)
-                    containsString = true;
-            });
-        }
-        return containsString;
-    }
-    
-    var current_submenu = null;
-</script>
-
-<div id="top-nav-menu-buttons">
-    <ul>
-        <script type="text/javascript">
-        $.each(navLinks, function (index, link) {
-            var linkClasses = "";
-            var pageURL = parseURL();
-            link.url = parseURL(link.url);
-            
-            if (!current_submenu && link.subNav && navContains(link.subNav, pageURL.file)) {
-            	current_submenu = link.subNav;
+    var trackOutboundLink = function(url) {
+       ga('send', 'event', 'Outbound Links', 'click', url,{'hitCallback':
+            function() {
+                document.location.href = url;
             }
-            
-            if (link.url.relative == "/collections/all")
-                linkClasses += "shop-button ";
-            
-            if ((current_submenu && link.subNav == current_submenu) ||
-                pageURL.file == link.url.file)
-                linkClasses += "current-nav ";
-            
-            document.writeln("<li><a href='"+link.url.full+"' class='"+linkClasses+"' title='"+link.label+"'>"+link.label+"</a></li>");
-        });
-        </script>
-        <li class="cart-link">
-            <script type="text/javascript">
-                if (window.location.pathname == "/cart") {
-                    $(".cart-link").addClass("current-nav")
-                        .css("margin-top", "-5px")
-                }
-            </script>
-            <a href="/cart" class="num-items-in-cart">
-              <span class="icon">
-               0
-              </span>
-            </a>
-        </li>
-      
-      <li class="customer-account-links">
-        
-            <script type="text/javascript">
-                if (parseURL().file == "login") {
-                    $(".customer-account-links").addClass("current-nav")
-                        .css("margin-top", "-5px")
-                }
-            </script>
-          <a href="/account/login" id="customer_login_link">Login</a>
-        
-      </li>
-      
-    </ul>
+       });
+    }
+</script>
+
+  </head>
+  <body class="privacy-policy">
+    <!-- clicktale a -->
+<script type="text/javascript">
+var WRInitTime=(new Date()).getTime();
+</script>
+
     
-    <ul class="sub-nav"> 
-        <script type="text/javascript">
-        if (current_submenu) {
-            $.each(current_submenu, function (index, link) {
-                var pageURL = parseURL();
-                link.url = parseURL(link.url);
-                
-                var linkClasses = "";
-                if (link.url.file == pageURL.file)
-                    linkClasses += "current-nav ";
+
+    
+    
+    
+      <div id="root">
+        <div class="header-backdrop">
+          <div class="row">
+            <header>
+                <!-- Navigation -->
+
+                <nav class="top-bar" data-topbar="">
+                  <ul class="title-area">
+                    <!-- Title Area -->
+
+                    <li class="name">
+                      <h1><a href="/"><img id="logo-header" class="noscale" src="/static/formlabs-web-frontend/img/logos/formlabs-logo-grey%402x.png?ebe3678" alt="Formlabs"></a></h1>
+                    </li>
+
+                    <li class="toggle-topbar menu-icon">
+                      <a href="#"><span>Menu</span></a>
+                    </li>
+                  </ul>
+
+                  <section class="top-bar-section">
+                    <ul class="left">
                     
-                document.writeln("<li><a href='"+link.url.relative+"' class='"+linkClasses+"'>"+link.label+"</a></li>");
-            });
-        }
-        </script>
-    </ul>
+
+
+<li class="child">
+	<a href="/products/form-1-plus/">Products</a>
+	
+</li>
+
+<li class="child">
+	<a href="/applications/">Applications</a>
+	
+</li>
+
+<li class="child active ancestor">
+	<a href="/support/">Support</a>
+	
+</li>
+
+<li class="child">
+	<a href="/company/careers/">Company</a>
+	
+</li>
+
+<li class="child">
+	<a href="/store/">Store</a>
+	
+</li>
+
+                    </ul>
+
+                    <ul class="right">
+                      <li>
+                        <a class="store-link" data-store-link="customer/account" href="https://formlabs.com/store/us/customer/account" id="store-your-account-link">Your Account</a>
+                      </li>
+                      <li>
+                      <a class="store-link" data-store-link="checkout/cart" href="http://formlabs.com/store/us/checkout/cart" id="store-cart-link">
+  
+                          <i class="fi-shopping-cart"></i>
+                          <span style="display:none" id="cart-status"> <span git="" style="display:none" id="cart-quantity" class="round label alert">0</span></span>
+  
+                      </a>
+                      </li>
+                    </ul>
+                  </section>
+                </nav><!-- end Navigation -->
+
+            </header>
+          </div>
+        </div><!-- end header-backdrop -->
+
+        
+        <div id="secondary-nav">
+          <div class="row">
+            <nav class="top-bar" data-topbar="">
+              <ul class="title-area">
+                <!-- Title Area -->
+
+                <li class="name">
+                </li>
+
+                <li class="toggle-topbar menu-icon">
+                  <a href="#"><span>Privacy Policy</span></a>
+                </li>
+              </ul>
+
+              <section class="top-bar-section">
+                <ul class="left">
+                  
+                  
+                  
+
+
+<li class="child sibling">
+	<a href="/support/customer-service/">Customer Service</a>
+	
+</li>
+
+<li class="child sibling">
+	<a href="https://support.formlabs.com/anonymous_requests/new">Open Support Case</a>
+	
+</li>
+
+<li class="child sibling">
+	<a href="/support/shipping/">Shipping</a>
+	
+</li>
+
+<li class="child sibling">
+	<a href="/support/terms-of-service/">Terms of Service</a>
+	
+</li>
+
+<li class="child active selected">
+	<a href="/support/privacy-policy/">Privacy Policy</a>
+	
+</li>
+
+                  
+                  
+                </ul>
+              </section>
+            </nav>
+          </div>
+        </div>
+        
+
+        
+        
+
+        <!-- Page content -->
+        <div id="content">
+        
+  <div class="row">
+    <div class="medium-4 columns sidebar">
+    	<section>
+      	  
+<div class="row ">
+  
+    <div class=" columns ">
+  
+<h5><a href="#Privacy Policy">Privacy Policy </a></h5><p><a href="#Changes">Changes</a><br>
+<a href="#Contact-Us">Contact Us</a><br>
+<a href="#Information-We-Collect">Information We Collect</a><br>
+<a href="#Personal-Information">Personal Information</a><br>
+<a href="#Navigational-Information">Navigational Information</a><br>
+<a href="#Information-About-Children">Information About Children</a><br>
+<a href="#Data-Collection">Data Collection</a><br>
+<a href="#Use-of-Information">Use of Information</a><br>
+<a href="#Selling-Personal-Information">Selling Personal Information</a><br>
+<a href="#Use-of-Personal-Information">Use of Personal Information</a><br>
+<a href="#Use-of-Navigational-Information">Use of Navigational Information</a><br>
+<a href="#Use-of-Credit-Card-Information">Use of Credit Card Information</a><br>
+<a href="#Service-Providers">Service Providers</a><br>
+<a href="#Personal-Information-Security">Personal Information Security</a><br>
+<a href="#Social-Media-Features">Social Media Features</a><br>
+<a href="#External-Websites">External Websites</a><br>
+<a href="#Public-Forums">Public Forums</a><br>
+<a href="#Retention-of-Public-Information">Retention of Personal Information</a><br>
+<a href="#Internal-Transfer-of-Information">International Transfer of Information</a><br>
+<a href="#Corporate-Events">Corporate Events</a><br>
+<a href="#Compelled-Disclosure">Compelled Disclosure</a><br>
+<a href="#Navigational-Information">Navigational Information</a><br>
+<a href="#Cookies">Cookies</a><br>
+<a href="#Log-Files">Log Files</a><br>
+<a href="#Opting-Out">Opting Out</a><br>
+<a href="#Correcting-Your-Information">Correcting Your Information</a><br>
+<a href="#Unsubscribing">Unsubscribing</a></p>
+
+
+
+
+  
+</div>
+  
 </div>
 
-
-
-				
-				
-				</div>	
-			</div>
-			<div class="clearfix"></div>
-		</header>
-		<!-- /Header -->
-		
-    <!-- Content -->
-    <div class="content-wrapper clearfix">
-				
-                    <!--gatekeeper:start-->
-
-<script src="//dk0684j3ynpoi.cloudfront.net/assets/client-d4f342faf5aee0620cc7079de554b5c2.js" type="text/javascript"></script>
-
-
-
-
-
-
-
-
-
-
-<div id="gatekeeper-content" class=" " data-customer-id="">
-
- <div id="col-main" class="content">
-
-  <p>&nbsp;</p>
-<div id="our-printer" class="sixteen columns full" style="margin-top: 0px;">
-<div class="four columns" style="margin-left: 60px;"><a href="/pages/privacy-policy" id="top">Privacy Policy ›</a><br> <br> <a href="#Changes" class="scroll">Changes</a><br> <a href="#Contact-Us" class="scroll">Contact Us</a><br> <a href="#Information-We-Collect" class="scroll">Information We Collect</a><br> <a href="#Personal-Information" class="scroll">Personal Information</a><br> <a href="#Navigational-Information" class="scroll">Navigational Information</a><br> <a href="#Information-About-Children" class="scroll">Information About Children</a><br> <a href="#data-collection" class="scroll">Data Collection</a><br> <a href="#Use-of-Information" class="scroll">Use of Information</a><br> <a href="#Selling-Personal-Information" class="scroll">Selling Personal Information</a><br> <a href="#Use-of-Personal-Information" class="scroll">Use of Personal Information</a><br> <a href="#Use-of-Navigational-Information" class="scroll">Use of Navigational Information</a><br> <a href="#Use-of-Credit-Card-Information" class="scroll">Use of Credit Card Information</a><br> <a href="#Service-Providers" class="scroll">Service Providers</a><br> <a href="#Personal-Information-Security" class="scroll">Personal Information Security</a><br> <a href="#Social-Media-Features" class="scroll">Social Media Features</a><br> <a href="#External-Websites" class="scroll">External Websites</a><br> <a href="#Public-Forums" class="scroll">Public Forums</a><br> <a href="#Retention-of-Personal-Information" class="scroll">Retention of Personal Information</a><br> <a href="#International-Transfer-of-Information" class="scroll">International Transfer of Information</a><br> <a href="#Corporate-Events" class="scroll">Corporate Events</a><br> <a href="#Compelled-Disclosure" class="scroll">Compelled Disclosure</a><br> <a href="#Navigational-Information" class="scroll">Navigational Information</a><br> <a href="#Cookies" class="scroll">Cookies</a><br> <a href="#Log-Files" class="scroll">Log Files</a><br> <a href="#Opting-Out" class="scroll">Opting Out</a><br> <a href="#Correcting-Your-Information" class="scroll">Correcting Your Information</a><br> <a href="#Unsubscribing" class="scroll">Unsubscribing</a></div>
-<div class="ten columns">
-<p style="font-family: 'DinWeb-Medium'; color: #16768a; font-size: 21px;">Privacy Policy</p>
-<hr><br>
-<p>Effective Date – August 5, 2013</p>
-<p>Formlabs is committed to protecting your privacy. This Privacy Policy applies to our websites that link to it, including www.formlabs.com, and to our online store (collectively, the “Websites”). This statement governs our data collection, processing and usage practices. By using the Websites, you consent to the data practices described in this Privacy Policy.</p>
-<a href="#top" style="font-size: 11px; float: right;" class="scroll">Return to top</a><br> <a id="Changes"></a>
-<p class="support-heading" style="margin-top: 0px;">Changes to this Privacy Policy</p>
-<p>We may update this Privacy Policy from time-to-time by posting a new version online. You should check this page occasionally to review any changes. We will provide notice of any changes by posting the revised Privacy Policy on our Websites. Your continued use of the Websites and/or continued provision of Personal Information to us will be subject to the terms of the then-current Privacy Policy.</p>
-&nbsp; <a href="#top" style="font-size: 11px; float: right;" class="scroll">Return to top</a><br> <a id="Contact-Us"></a>
-<p class="support-heading" style="margin-top: 0px;">Contact Us</p>
-<p>If you have any questions about this Privacy Policy or our treatment of the information you provide us, please write to us by email at <span>labs@formlabs.com</span><span> or by mail to Formlabs, Inc., Formlabs, 35 Medford St. #1, Somerville, MA 02139, Attn: Privacy.</span></p>
-&nbsp; <a href="#top" style="font-size: 11px; float: right;" class="scroll">Return to top</a><br> <a id="Information-We-Collect"></a>
-<p class="support-heading-big" style="margin-top: 0px;">Information We Collect</p>
-<p>You are free to explore the Websites without providing any information about yourself. When you visit the Websites or register for our store, we request that you provide Personal Information about yourself, and we collect Navigational Information.</p>
-&nbsp; <a href="#top" style="font-size: 11px; float: right;" class="scroll">Return to top</a><br> <a id="Personal-Information"></a>
-<p class="support-heading" style="margin-top: 0px;">Personal Information</p>
-<p>“Personal Information” means any information that you voluntarily submit to us and that identifies you personally, including contact information, such as your name, e-mail address, company name, address, phone number, and other information about yourself or your business. Personal Information can also include information about any transactions, both free and paid, that you enter into on the Websites.</p>
-&nbsp; <a href="#top" style="font-size: 11px; float: right;" class="scroll">Return to top</a><br> <a id="Navigational-Information"></a>
-<p class="support-heading" style="margin-top: 0px;">Navigational Information</p>
-<p>“Navigational Information” means information about your computer and your visits to this website such as your IP address, geographical location, browser type, referral source, length of visit and pages viewed. Please see the “Navigation Information” section below.</p>
-&nbsp; <a href="#top" style="font-size: 11px; float: right;" class="scroll">Return to top</a><br> <a id="Information-About-Children"></a>
-<p class="support-heading" style="margin-top: 0px;">Information About Children</p>
-<p>The Websites are not intended for or targeted at children under 13, and we do not knowingly or intentionally collect information about children under 13. If you believe that we have collected information about a child under 13, please contact us at labs@formlabs.com, so that we may delete the information.</p>
-&nbsp; <a href="#top" style="font-size: 11px; float: right;" class="scroll">Return to top</a><br> <a id="data-collection"></a>
-<p class="support-heading" style="margin-top: 0px;">Data Collection</p>
-<p><span>During installation, Formlabs software may ask you to opt-in to the collection of diagnostic information regarding your use of Formlabs’ software or hardware in order to help our engineers improve Formlabs’ products. If you opt in, you agree that Formlabs may collect, maintain, and use information about the operation of Formlabs’ hardware and software, such as hardware serial numbers, print times, laser power levels, and 3D model sizes. &nbsp;</span><span style="font-weight: bold;">No models, 3D geometry, or personal information will be collected without your additional and explicit consent.</span></p>
-<a id="Use-of-Information"></a>
-<p class="support-heading-big" style="margin-top: 0px;">How We Use Information We Collect</p>
-<p>We use the information we collect only in compliance with this Privacy Policy.</p>
-&nbsp; <a href="#top" style="font-size: 11px; float: right;" class="scroll">Return to top</a><br> <a id="Selling-Personal-Information"></a>
-<p class="support-heading" style="margin-top: 0px;">We Never Sell Personal Information</p>
-<p>We will never sell your Personal Information to any third party.</p>
-&nbsp; <a href="#top" style="font-size: 11px; float: right;" class="scroll">Return to top</a><br> <a id="Use-of-Personal-Information"></a>
-<p class="support-heading" style="margin-top: 0px;">Use of Personal Information</p>
-<p>In addition to the uses identified elsewhere in this Privacy Policy, we may use your Personal Information to: (a) improve your browsing experience by personalizing the Websites; (b) send information (other than marketing communications) to you which we think may be of interest to you by post, email, or other means; (c) send you marketing communications relating to our business or the businesses of carefully-selected third parties which we think may be of interest to you, and (d) provide other companies with statistical information about our users – but this information will not be used to identify any individual user. &nbsp;In addition, we may share data with trusted partners to contact you based on your interest to receive such communications, help us perform statistical analysis, send you email or postal mail, or provide customer support. Such third parties are prohibited from using your Personal Information except for these purposes, and they are required to maintain the confidentiality of your information.</p>
-<a href="#top" style="font-size: 11px; float: right;" class="scroll">Return to top</a><br> <a id="Use-of-Personal-Information"></a> &nbsp; <a href="#top" style="font-size: 11px; float: right;" class="scroll">Return to top</a><br> <a id="Use-of-Navigational-Information"></a>
-<p class="support-heading" style="margin-top: 0px;">Use of Navigational Information</p>
-<p>We use Navigational Information to operate and improve the Websites. We may also use Navigational Information alone or in combination with Personal Information to provide you with personalized information about Formlabs. <br> <span>Customer Testimonials and Comments</span><span> -- We post customer testimonials and comments on our Websites, which may contain Personal Information. We obtain each customer's consent via email prior to posting the customer’s name and testimonial.</span></p>
-&nbsp; <a href="#top" style="font-size: 11px; float: right;" class="scroll">Return to top</a><br> <a id="Use-of-Credit-Card-Information"></a>
-<p class="support-heading" style="margin-top: 0px;">Use of Credit Card Information</p>
-<p>If you give us credit card information, we use it solely to check your financial qualifications and collect payment from you. We use a third-party service provider to manage credit card processing. This service provider is not permitted to store, retain, or use information you provide except for the sole purpose of credit card processing on our behalf.</p>
-&nbsp; <a href="#top" style="font-size: 11px; float: right;" class="scroll">Return to top</a><br> <a id="Service-Providers"></a>
-<p class="support-heading" style="margin-top: 0px;">Service Providers</p>
-<p>We employ other companies and people to provide services to visitors to our Websites on our behalf and may need to share your information with them to provide information, products or services to you. Examples may include removing repetitive information from prospect lists, analyzing data, providing marketing assistance, processing credit card payments, and providing customer service. In all cases where we share your information with such agents, we explicitly require the agent to acknowledge and adhere to our privacy and customer data handling policies.</p>
-&nbsp; <a href="#top" style="font-size: 11px; float: right;" class="scroll">Return to top</a><br> <a id="Personal-Information-Security"></a>
-<p class="support-heading" style="margin-top: 0px;">Security of your Personal Information</p>
-<p>We use a variety of security technologies and procedures to help protect your Personal Information from unauthorized access, use or disclosure. When sensitive Personal Information (such as a credit card information) is collected on our store, it is protected by Shopify, our third-party e-commerce provider.</p>
-&nbsp; <a href="#top" style="font-size: 11px; float: right;" class="scroll">Return to top</a><br> <a id="Social-Media-Features"></a>
-<p class="support-heading" style="margin-top: 0px;">Social Media Features</p>
-<p>Our Websites include Social Media Features, such as the Facebook Like button and Widgets, such as the “Share This” button or interactive mini-programs that run on our sites. These Features may collect your IP address, which page you are visiting on our sites, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Websites. Your interactions with these Features are governed by the Privacy Policy of the companies providing them.</p>
-&nbsp; <a href="#top" style="font-size: 11px; float: right;" class="scroll">Return to top</a><br> <a id="External-Websites"></a>
-<p class="support-heading" style="margin-top: 0px;">External Websites</p>
-<p>Our Websites provide links to other websites. We do not control, and are not responsible for, the content or practices of these other websites. Our provision of such links does not constitute our endorsement of these other websites, their content, their owners, or their practices. This Privacy Policy does not apply to these other websites, which are subject to any privacy and other policies they may have.</p>
-&nbsp; <a href="#top" style="font-size: 11px; float: right;" class="scroll">Return to top</a><br> <a id="Public-Forums"></a>
-<p class="support-heading" style="margin-top: 0px;">Public Forums</p>
-<p>We may offer publicly accessible message boards, blogs, and community forums. Please keep in mind that if you directly disclose any information through our public message boards, blogs, or forums, this information may be collected and used by others. We will correct or delete any information you have posted on our servers if you so request, as described in “Opting-Out and Unsubscribing” below.</p>
-&nbsp; <a href="#top" style="font-size: 11px; float: right;" class="scroll">Return to top</a><br> <a id="Retention-of-Personal-Information"></a>
-<p class="support-heading" style="margin-top: 0px;">Retention of Personal Information</p>
-<p>We retain Personal Information that you provide us as long as we consider it potentially useful in contacting you about our company, products or services. We retain information about our customers for as long as we need it to provide service to the customer. We will delete this information from our servers at an earlier date if you so request, as described in “Opting-Out and Unsubscribing” below.</p>
-&nbsp; <a href="#top" style="font-size: 11px; float: right;" class="scroll">Return to top</a><br> <a id="International-Transfer-of-Information"></a>
-<p class="support-heading" style="margin-top: 0px;">International Transfer of Information</p>
-<p>To facilitate our global operations, we may transfer and access Personal Information from around the world, including the United States. This Privacy Statement shall apply even if we transfer Personal Information to other countries.</p>
-&nbsp; <a href="#top" style="font-size: 11px; float: right;" class="scroll">Return to top</a><br> <a id="Corporate-Events"></a>
-<p class="support-heading" style="margin-top: 0px;">Corporate Events</p>
-<p>If we (or our assets) are acquired by another company, whether by merger, acquisition, bankruptcy or otherwise, that company would receive all the Visitor Information and other information gathered by Formlabs on the Websites.</p>
-&nbsp; <a href="#top" style="font-size: 11px; float: right;" class="scroll">Return to top</a><br> <a id="Compelled-Disclosure"></a>
-<p class="support-heading" style="margin-top: 0px;">Compelled Disclosure</p>
-<p>We reserve the right to use or disclose your Personal Information if required by law or if we reasonably believe that use or disclosure is necessary to protect our rights or to comply with a law, court order, or legal process.</p>
-&nbsp; <a href="#top" style="font-size: 11px; float: right;" class="scroll">Return to top</a><br> <a id="Navigational-Information"></a>
-<p class="support-heading-big" style="margin-top: 0px;">Navigational Information</p>
-<a id="Cookies"></a>
-<p class="support-heading" style="margin-top: 0px;">Cookies</p>
-<p>We use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web server. Cookies are not used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you. One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize pages on our Websites, or register for our store, a cookie helps us to recall your specific information on subsequent visits.</p>
+      	</section>
+    </div>
+    <div class="medium-8 columns">
+    	<section>
+	      
+<div class="row ">
+  
+    <div class=" columns ">
+  
+<h1 id="Privacy-Policy">Privacy Policy</h1><p>Effective Date – June 10, 2014</p>
+<p>Formlabs is committed to protecting your privacy. This Privacy Policy applies to our websites that link to it, including <a href="http://www.formlabs.com"></a><a href="http://www.formlabs.com">www.formlabs.com</a>, and to our online store (collectively, the “Websites”). This statement governs our data collection, processing and usage practices. By using the Websites, you consent to the data practices described in this Privacy Policy.</p>
+<h3 id="Changes">Changes to this Privacy Policy</h3><p>We may update this Privacy Policy from time-to-time by posting a new version online. You should check this page occasionally to review any changes. We will provide notice of any changes by posting the revised Privacy Policy on our Websites. Your continued use of the Websites and/or continued provision of Personal Information to us will be subject to the terms of the then-current Privacy Policy.</p>
+<h3 id="Contact-Us">Contact Us</h3><p>If you have any questions about this Privacy Policy or our treatment of the information you provide us, please write to us by email at <a href="mailto:support@formlabs.com"></a><a href="mailto:support@formlabs.com">support@formlabs.com<script type="text/javascript">
+/* <![CDATA[ */
+(function(){try{var s,a,i,j,r,c,l,b=document.getElementsByTagName("script");l=b[b.length-1].previousSibling;a=l.getAttribute('data-cfemail');if(a){s='';r=parseInt(a.substr(0,2),16);for(j=2;a.length-j;j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}s=document.createTextNode(s);l.parentNode.replaceChild(s,l);}}catch(e){}})();
+/* ]]> */
+</script></a> or by mail to Formlabs, Inc., Formlabs, 35 Medford St., Suite 1, Somerville, MA 02143, Attn: Privacy.</p>
+<h2 id="Information-We-Collect">Information We Collect</h2><p>You are free to explore the Websites without providing any information about yourself. When you visit the Websites or register for our store, we request that you provide Personal Information about yourself, and we collect Navigational Information.</p>
+<h3 id="Personal-Information">Personal Information</h3><p>“Personal Information” means any information that you voluntarily submit to us and that identifies you personally, including contact information, such as your name, e-mail address, company name, address, phone number, and other information about yourself or your business. Personal Information can also include information about any transactions, both free and paid, that you enter into on the Websites.</p>
+<h3 id="Navigational-Information">Navigational Information</h3><p>“Navigational Information” means information about your computer and your visits to this website such as your IP address, geographical location, browser type, referral source, length of visit and pages viewed. Please see the “Navigation Information” section below.</p>
+<h3 id="Information-About-Children">Information About Children</h3><p>The Websites are not intended for or targeted at children under 13, and we do not knowingly or intentionally collect information about children under 13. If you believe that we have collected information about a child under 13, please contact us at <a href="mailto:support@formlabs.com"></a><a href="mailto:support@formlabs.com">support@formlabs.com<script type="text/javascript">
+/* <![CDATA[ */
+(function(){try{var s,a,i,j,r,c,l,b=document.getElementsByTagName("script");l=b[b.length-1].previousSibling;a=l.getAttribute('data-cfemail');if(a){s='';r=parseInt(a.substr(0,2),16);for(j=2;a.length-j;j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}s=document.createTextNode(s);l.parentNode.replaceChild(s,l);}}catch(e){}})();
+/* ]]> */
+</script></a>, so that we may delete the information.</p>
+<h3 id="Data-Collection">Data Collection</h3><p>During installation, Formlabs software may ask you to opt-in to the collection of diagnostic information regarding your use of Formlabs’ software or hardware in order to help our engineers improve Formlabs’ products. If you opt in, you agree that Formlabs may collect, maintain, and use information about the operation of Formlabs’ hardware and software, such as hardware serial numbers, print times, laser power levels, and 3D model sizes.  No models, 3D geometry, or personal information will be collected without your additional and explicit consent.</p>
+<h2 id="Use-of-Information">How We Use Information We Collect</h2><p>We use the information we collect only in compliance with this Privacy Policy.</p>
+<h3 id="Selling-Personal-Information">We Never Sell Personal Information</h3><p>We will never sell your Personal Information to any third party.</p>
+<h3 id="Use-of-Personal-Information">Use of Personal Information</h3><p>In addition to the uses identified elsewhere in this Privacy Policy, we may use your Personal Information to: (a) improve your browsing experience by personalizing the Websites; (b) send information (other than marketing communications) to you which we think may be of interest to you by post, email, or other means; © send you marketing communications relating to our business or the businesses of carefully-selected third parties which we think may be of interest to you, and (d) provide other companies with statistical information about our users – but this information will not be used to identify any individual user.  In addition, we may share data with trusted partners to contact you based on your interest to receive such communications, help us perform statistical analysis, send you email or postal mail, or provide customer support. Such third parties are prohibited from using your Personal Information except for these purposes, and they are required to maintain the confidentiality of your information.</p>
+<h3 id="Use-of-Navigational-Information">Use of Navigational Information</h3><p>We use Navigational Information to operate and improve the Websites. We may also use Navigational Information alone or in combination with Personal Information to provide you with personalized information about Formlabs. </p>
+<h3 id="Customer-Testimonials">Customer Testimonials and Comments</h3><p>We post customer testimonials and comments on our Websites, which may contain Personal Information. We obtain each customer's consent via email prior to posting the customer’s name and testimonial.</p>
+<h3 id="Use-of-Credit-Information">Use of Credit Card Information</h3><p>If you give us credit card information, we use it solely to check your financial qualifications and collect payment from you. We use a third-party service provider to manage credit card processing. This service provider is not permitted to store, retain, or use information you provide except for the sole purpose of credit card processing on our behalf.</p>
+<h3 id="Service-Providers">Service Providers</h3><p>We employ other companies and people to provide services to visitors to our Websites on our behalf and may need to share your information with them to provide information, products or services to you. Examples may include removing repetitive information from prospect lists, analyzing data, providing marketing assistance, processing credit card payments, and providing customer service. In all cases where we share your information with such agents, we explicitly require the agent to acknowledge and adhere to our privacy and customer data handling policies.</p>
+<h3 id="Personal-Information-Security">Security of your Personal Information</h3><p>We use a variety of security technologies and procedures to help protect your Personal Information from unauthorized access, use or disclosure. When sensitive Personal Information (such as a credit card information) is collected on our store, it is protected by our third-party e-commerce provider.</p>
+<h3 id="Social-Media-Features">Social Media Features</h3><p>Our Websites include Social Media Features, such as the Facebook Like button and Widgets, such as the “Share This” button or interactive mini-programs that run on our sites. These Features may collect your IP address, which page you are visiting on our sites, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Websites. Your interactions with these Features are governed by the Privacy Policy of the companies providing them.</p>
+<h3 id="External-Websites">External Websites</h3><p>Our Websites provide links to other websites. We do not control, and are not responsible for, the content or practices of these other websites. Our provision of such links does not constitute our endorsement of these other websites, their content, their owners, or their practices. This Privacy Policy does not apply to these other websites, which are subject to any privacy and other policies they may have.</p>
+<h3 id="Public-Forums">Public Forums</h3><p>We may offer publicly accessible message boards, blogs, and community forums. Please keep in mind that if you directly disclose any information through our public message boards, blogs, or forums, this information may be collected and used by others. We will correct or delete any information you have posted on our servers if you so request, as described in “Opting-Out and Unsubscribing” below.</p>
+<h3 id="Retention-of-Personal-Information">Retention of Personal Information</h3><p>We retain Personal Information that you provide us as long as we consider it potentially useful in contacting you about our company, products or services. We retain information about our customers for as long as we need it to provide service to the customer. We will delete this information from our servers at an earlier date if you so request, as described in “Opting-Out and Unsubscribing” below.</p>
+<h3 id="Internal-Transfer-of-Information">International Transfer of Information</h3><p>To facilitate our global operations, we may transfer and access Personal Information from around the world, including the United States. This Privacy Statement shall apply even if we transfer Personal Information to other countries.</p>
+<h3 id="Corporate-Events">Corporate Events</h3><p>If we (or our assets) are acquired by another company, whether by merger, acquisition, bankruptcy or otherwise, that company would receive all the Visitor Information and other information gathered by Formlabs on the Websites.</p>
+<h3 id="Compelled-Disclosure">Compelled Disclosure</h3><p>We reserve the right to use or disclose your Personal Information if required by law or if we reasonably believe that use or disclosure is necessary to protect our rights or to comply with a law, court order, or legal process.</p>
+<h2 id="Navigational-Information">Navigational Information</h2><h3 id="Cookies">Cookies</h3><p>We use “cookies” to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web server. Cookies are not used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you. One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize pages on our Websites, or register for our store, a cookie helps us to recall your specific information on subsequent visits.</p>
 <p>When you return to the same Website, the information you previously provided can be retrieved, so you can easily use the features that you customized. You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Websites. We keep track of the pages you visit on the Websites, in order to determine what parts of our store and the Websites are the most popular. This data is used to deliver customized content and advertising on the Websites to visitors whose behavior indicates that they are interested in a particular subject area.</p>
-&nbsp; <a href="#top" style="font-size: 11px; float: right;" class="scroll">Return to top</a><br> <a id="Log-Files"></a>
-<p class="support-heading" style="margin-top: 0px;">Log Files</p>
-<p>Formlabs may also collect anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites using log files. There is also information about your computer hardware and software that is automatically collected by Formlabs. This information can include: your IP address, browser type, domain names, access times and referring website addresses. This information is used by Formlabs for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Formlabs website. For these purposes, we do link this automatically-collected data to Personal Information such as name, email address, address, and phone number.</p>
-&nbsp; <a href="#top" style="font-size: 11px; float: right;" class="scroll">Return to top</a><br> <a id="Opting-Out"></a>
-<p class="support-heading-big" style="margin-top: 0px;">Opting-Out and Unsubscribing</p>
-<a id="Correcting-Your-Information"></a>
-<p class="support-heading" style="margin-top: 0px;">Reviewing, Correcting and Removing Your Personal Information</p>
-<p>If you provide us with your Personal Information, you have the following rights with respect to that information:</p>
-<ul style="list-style-type: circle;">
+<h3 id="Log-Files">Log Files</h3><p>Formlabs may also collect anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites using log files. There is also information about your computer hardware and software that is automatically collected by Formlabs. This information can include: your IP address, browser type, domain names, access times and referring website addresses. This information is used by Formlabs for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Formlabs website. For these purposes, we do link this automatically-collected data to Personal Information such as name, email address, address, and phone number.</p>
+<h2 id="Opting-Out">Opting-Out and Unsubscribing</h2><h3 id="Correcting-Your-Information">Reviewing, Correcting and Removing Your Personal Information</h3><p>If you provide us with your Personal Information, you have the following rights with respect to that information:</p>
+
+<ul>
 <li>To review the user information that you have supplied to us</li>
 <li>To request that we correct any errors, outdated information, or omissions in user information that you have supplied to us</li>
 <li>To request that your user information not be used to contact you</li>
@@ -467,84 +295,295 @@ var __st={"a":1832285,"offset":-18000,"u":"af98930ebe46","s":"pages-9178094"};
 <li>To request that your user information be deleted from our records</li>
 <li>To opt out of being solicited by the Websites or third parties</li>
 </ul>
-<p>To exercise any of these rights, please contact us at <span>labs@formlabs.com</span><span> or by mail to Formlabs, Inc.,&nbsp;<span>Formlabs, 35 Medford St. #1, Somerville, MA 02143</span>, Attention: Privacy. We will promptly change, correct, or delete your information.</span></p>
-&nbsp; <a href="#top" style="font-size: 11px; float: right;" class="scroll">Return to top</a><br> <a id="Unsubscribing"></a>
-<p class="support-heading" style="margin-top: 0px;">To Unsubscribe From Our Communications</p>
-<p>You may unsubscribe from our marketing communications by clicking on the “unsubscribe” link located on the bottom of our emails, or by sending us email us at <span>labs@formlabs.com</span><span>, or by sending us postal mail to Formlabs, Inc., Formlabs, <span>35 Medford St. #1, Somerville, MA 02143</span>, Attention: Privacy. Customers cannot opt out of receiving transactional emails related to their account with us or our store.</span></p>
-<p><span><br> </span></p>
-<p><span><br> </span></p>
-<p><span><br> </span></p>
+<p>To exercise any of these rights, please contact us at <a href="mailto:labs@formlabs.com"></a><a href="mailto:labs@formlabs.com">labs@formlabs.com<script type="text/javascript">
+/* <![CDATA[ */
+(function(){try{var s,a,i,j,r,c,l,b=document.getElementsByTagName("script");l=b[b.length-1].previousSibling;a=l.getAttribute('data-cfemail');if(a){s='';r=parseInt(a.substr(0,2),16);for(j=2;a.length-j;j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}s=document.createTextNode(s);l.parentNode.replaceChild(s,l);}}catch(e){}})();
+/* ]]> */
+</script></a> or by mail to Formlabs, Inc., Formlabs, 35 Medford St. #1, Somerville, MA 02143, Attention: Privacy. We will promptly change, correct, or delete your information.</p>
+<h3 id="Unsubscribing">To Unsubscribe From Our Communications</h3><p>You may unsubscribe from our marketing communications by clicking on the “unsubscribe” link located on the bottom of our emails, or by sending us email us at <a href="mailto:labs@formlabs.com"></a><a href="mailto:labs@formlabs.com">labs@formlabs.com<script type="text/javascript">
+/* <![CDATA[ */
+(function(){try{var s,a,i,j,r,c,l,b=document.getElementsByTagName("script");l=b[b.length-1].previousSibling;a=l.getAttribute('data-cfemail');if(a){s='';r=parseInt(a.substr(0,2),16);for(j=2;a.length-j;j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}s=document.createTextNode(s);l.parentNode.replaceChild(s,l);}}catch(e){}})();
+/* ]]> */
+</script></a>, or by sending us postal mail to Formlabs, Inc., Formlabs, 35 Medford St. #1, Somerville, MA 02143, Attention: Privacy. Customers cannot opt out of receiving transactional emails related to their account with us or our store.</p>
+
+
+
+
+  
 </div>
+  
 </div>
-<p>&nbsp;</p>
+
+      	</section>
+    </div>
+  </div>
+
+        </div> <!-- end #content -->
+
+        <div id="root_footer"></div>
+      </div><!-- end root -->
+      
+
+      <!-- footer -->
+      <div id="footer">
+        <div class="footer-backdrop">
+          <footer class="row inverse">
+            <div class="large-8 medium-8 columns">
+              <h5><a href="/"><img id="logo-footer" src="/static/formlabs-web-frontend/img/logos/formlabs-logo-white%402x.png?ebe3678" alt="Formlabs"></a>
+              </h5>
+
+              <ul class="inline-list sitemap">
+                
 
 
-</div><!-- /#col-main -->
-
-
-
-
-</div><!--gatekeeper:end-->
-				
-    </div><!-- /.content -->
-
-    <!-- Footer -->
-    
-			<footer>
-				<div id="bottom_nav_box" class="sixteen column full" style="padding-top: 40px;">
-					
-					<div class="six columns alpha">
-						<a href="/" class="logo logo-footer" title="Home"></a>
-					</div>
-					
-					<div class="ten columns omega">
-						
-					
-						<ul>
-    						<li><a href="/products/our-printer" title="The Form 1">The Form 1</a></li>
-    						<li><a href="/blogs/blog" title="Blog">Blog</a></li>
-                          <li><a href="http://support.formlabs.com" title="Support">Support</a></li>
-    						<li><a href="/pages/about-us" title="About Us">About Us</a></li>
-                            <li><a href="/pages/contact-us" title="Contact Us">Contact Us</a></li>
-    						<li><a href="/collections/all" title="Store">Store</a></li>
-							<li><a href="/pages/careers" title="Careers" class="">Careers</a></li>
-						</ul>
-						
-						<br><br><br>
-						
-						<p class="footer-info">© Formlabs 2013 - <a href="/pages/privacy-policy">Privacy Policy</a> - <a href="/pages/tos">Terms of Service</a></p>
-					    
-						<div class="social">
-                          <a href="http://feeds.feedburner.com/Formlabs-Blog" title="RSS" class="rss-icon"></a>
-							<a href="https://www.facebook.com/pages/Formlabs/267805116620734" title="Facebook" class="facebook-icon"></a>
-							<a href="https://twitter.com/formlabs" title="Twitter" class="twitter-icon"></a>
-							<a href="https://plus.google.com/u/0/b/112708782562577052404/112708782562577052404/posts" title="Google+" class="google-plus-icon"></a>
-						</div>
-					
-						
-					</div>
-					
-				</div>
-			</footer>
-		</div>
+<li class="child">
+	<a href="/products/form-1-plus/">Products</a>
 	
+	<ul>
+		
+
+
+<li class="child">
+	<a href="/products/form-1-plus/">Form 1+ Printer</a>
+	
+</li>
+
+<li class="child">
+	<a href="/products/materials/">Materials</a>
+	
+</li>
+
+<li class="child">
+	<a href="/products/preform/">PreForm Software</a>
+	
+</li>
+
+<li class="child">
+	<a href="/products/finishing/">Finishing</a>
+	
+</li>
+
+	</ul>
+	
+</li>
+
+<li class="child">
+	<a href="/applications/">Applications</a>
+	
+	<ul>
+		
+
+
+<li class="child">
+	<a href="/applications/engineering/">Engineering</a>
+	
+</li>
+
+<li class="child">
+	<a href="/applications/design/">Design</a>
+	
+</li>
+
+<li class="child">
+	<a href="/applications/research/">Research</a>
+	
+</li>
+
+<li class="child">
+	<a href="/applications/art/">Art</a>
+	
+</li>
+
+	</ul>
+	
+</li>
+
+<li class="child active ancestor">
+	<a href="/support/">Support</a>
+	
+	<ul>
+		
+
+
+<li class="child sibling">
+	<a href="/support/customer-service/">Customer Service</a>
+	
+</li>
+
+<li class="child sibling">
+	<a href="https://support.formlabs.com/anonymous_requests/new">Open Support Case</a>
+	
+</li>
+
+<li class="child sibling">
+	<a href="/support/shipping/">Shipping</a>
+	
+</li>
+
+<li class="child sibling">
+	<a href="/support/terms-of-service/">Terms of Service</a>
+	
+</li>
+
+<li class="child active selected">
+	<a href="/support/privacy-policy/">Privacy Policy</a>
+	
+</li>
+
+	</ul>
+	
+</li>
+
+<li class="child">
+	<a href="/company/careers/">Company</a>
+	
+	<ul>
+		
+
+
+<li class="child">
+	<a href="/company/careers/">Careers</a>
+	
+</li>
+
+<li class="child">
+	<a href="/company/press/">Press</a>
+	
+</li>
+
+<li class="child">
+	<a href="/company/contact/">Contact</a>
+	
+</li>
+
+<li class="child">
+	<a href="/company/about-us/">About Us</a>
+	
+</li>
+
+<li class="child">
+	<a href="/company/events/">Events</a>
+	
+</li>
+
+<li class="child">
+	<a href="/company/blog/">Blog</a>
+	
+</li>
+
+	</ul>
+	
+</li>
+
+<li class="child">
+	<a href="/store/">Store</a>
+	
+	<ul>
+		
+
+
+<li class="child">
+	<a href="/store/us/">North America</a>
+	
+</li>
+
+<li class="child">
+	<a href="/store/eu/">Europe</a>
+	
+</li>
+
+<li class="child">
+	<a href="/store/int/">International</a>
+	
+</li>
+
+	</ul>
+	
+</li>
+
+              </ul>
+
+              <p>
+                © Formlabs 2014 — <a href="/support/privacy-policy/">Privacy Policy</a> — <a href="/support/terms-of-service">Terms of Service</a>
+              </p>
+
+            </div>
+            <div class="large-4 medium-4 columns end">
+
+              <ul class="inline-list social-links">
+                <li><a href="http://instagram.com/formlabs" onclick="trackOutboundLink(this.href);return false;" class="button large inverse icon round"><i class="social-icon">instagram</i></a></li>
+                <li><a href="http://facebook.com/formlabs1" onclick="trackOutboundLink(this.href);return false;" class="button large inverse icon round"><i class="social-icon">facebook</i></a></li>
+                <li><a href="http://google.com/+formlabs" onclick="trackOutboundLink(this.href);return false;" class="button large inverse icon round"><i class="social-icon">googleplus</i></a></li>
+                <li><a href="http://twitter.com/formlabs" onclick="trackOutboundLink(this.href);return false;" class="button large inverse icon round"><i class="social-icon">twitter</i></a></li>
+              </ul>
+
+              <form onsubmit="trackFormEvent('Newsletter Sign-up')" action="http://formlabs.us4.list-manage.com/subscribe/post-json?u=606cbab02e0a5f2708fb473b3&amp;id=332518b908&amp;c=?" method="get" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate newsletter-signup-form" target="_blank" novalidate="">
+<div id="hide-newsletter-form" class="row collapse">
+  <label>Subscribe to our newsletter</label>
+  <div class="small-8 columns">
+        <input type="email" value="" name="EMAIL" class="email radius has-postfix" id="mce-EMAIL" placeholder="Your email address" required="">
+        <span class="error" style="display: none" id="invalid-email-message">Please enter a valid email address.</span> <!--End Invalid Email Message -->
+        <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+        <div style="position: absolute; left: -5000px;"><input type="text" name="b_606cbab02e0a5f2708fb473b3_332518b908" value=""></div>
+  </div>
+  <div class="small-4 columns">
+    <input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button postfix radius">
+  </div>
+</div>
+
+<!-- Thank you Message -->
+<p id="thank-you-message" style="display:none;"><span class="primary">Thanks for subscribing!</span> An email has been sent to the address you provided.</p><!-- End Thank You-->
+</form>
+
+
+            </div>
+          </footer>
+        </div>
+      </div><!--end footer-->
+    
+
+        
+    
+
+    
+    
+    <script src="/static/formlabs-web-frontend/components/requirejs/require.js?ebe3678" data-main="/static/formlabs-web-frontend/js/main.js?ebe3678"></script>
+    <!-- clicktale b -->
 
 <script type="text/javascript">
-adroll_adv_id = "H6BIJMURAFC4FCOW2YK5UI";
-adroll_pix_id = "EBMCV4XGZ5A3PC4RFYAUPJ";
-(function () {
-var oldonload = window.onload;
-window.onload = function(){
-   __adroll_loaded=true;
-   var scr = document.createElement("script");
-   var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
-   scr.setAttribute('async', 'true');
-   scr.type = "text/javascript";
-   scr.src = host + "/j/roundtrip.js";
-   ((document.getElementsByTagName('head') || [null])[0] ||
-    document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
-   if(oldonload){oldonload()}};
-}());
+    // The ClickTale Balkan Tracking Code may be programmatically customized using hooks:
+    // 
+    //   function ClickTalePreRecordingHook() { /* place your customized code here */  }
+    //
+    // For details about ClickTale hooks, please consult the wiki page http://wiki.clicktale.com/Article/Customizing_code_version_2
+
+    document.write(unescape("%3Cscript%20src='"+
+    (document.location.protocol=='https:'?
+    "https://cdnssl.clicktale.net/www07/ptc/a2c70b6a-4f82-4398-8d34-3571571d9267.js":
+    "http://cdn.clicktale.net/www07/ptc/a2c70b6a-4f82-4398-8d34-3571571d9267.js")+"'%20type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://cdnssl.clicktale.net/www07/ptc/a2c70b6a-4f82-4398-8d34-3571571d9267.js" type="text/javascript"></script>
+
+
+    <script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 986281190;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/986281190/?value=0&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"beacon-6.newrelic.com","queueTime":0,"licenseKey":"b406ff204a","agent":"js-agent.newrelic.com/nr-411.min.js","transactionName":"ZwEHZ0BXDEMCUBZbDF5LI0ZcVRZZDF1NUQ5DShNaV0ERCgdWFlMKXBc=","applicationID":"3066696","errorBeacon":"bam.nr-data.net","applicationTime":173}</script><script type="text/javascript">
+/* <![CDATA[ */
+(function(){try{var s,a,i,j,r,c,l=document.getElementsByTagName("a"),t=document.createElement("textarea");for(i=0;l.length-i;i++){try{a=l[i].getAttribute("href");if(a&&"www.cloudflare.com/email-protection"==a.substr(7 ,35)){s='';j=43;r=parseInt(a.substr(j,2),16);for(j+=2;a.length-j&&a.substr(j,1)!='X';j+=2){c=parseInt(a.substr(j,2),16)^r;s+=String.fromCharCode(c);}j+=1;s+=a.substr(j,a.length-j);t.innerHTML=s.replace(/</g,"&lt;").replace(/>/g,"&gt;");l[i].setAttribute("href","mailto:"+t.value);}}catch(e){}}}catch(e){}})();
+/* ]]> */
 </script>
 
-</body></html>
+
+<script src="https://js-agent.newrelic.com/nr-411.min.js"></script></body></html>
