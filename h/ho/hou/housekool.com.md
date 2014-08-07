@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the housekool.com privacy policy that was archived on 2013-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130308145316id_/http%3A//www.housekool.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the housekool.com privacy policy that was archived on 2014-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140807081444id_/http%3A//www.housekool.com/privacy-policy) for the most accurate reproduction.*
 
-# Housekool | Privacy Policy
+# Privacy Policy
 
 Version 1 Dated January 29th 2010
 
