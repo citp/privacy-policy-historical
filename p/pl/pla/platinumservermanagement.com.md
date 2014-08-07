@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the platinumservermanagement.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625114842id_/http%3A//platinumservermanagement.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the platinumservermanagement.com privacy policy that was archived on 2014-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140808005947id_/http%3A//platinumservermanagement.com/Privacy.html) for the most accurate reproduction.*
 
 # Platinum Server Management, Inc. - 24x7x365 cPanel Server Management
 
@@ -61,14 +61,8 @@ _Platinum Server Management, Inc._ also collects certain technical information f
 **How do you safeguard customer's personally identifiable information?**   
 The security and confidentiality of your personally identifiable information is extremely important to _Platinum Server Management, Inc._. Technical, administrative, and physical security measures are used to protect customer information from unauthorized access and improper use. From time to time, Platinum Server Management reviews security procedures to consider appropriate new technology and methods. Please be aware that, despite best efforts, no security measures are perfect or completely impenetrable.  **How can a customer update contact information?**   
 Contact information provide by you may be accessed and updated by simply sending an e-mail to sales@platinumservermanagement.com. Please provide information in the e-mail that will help _Platinum Server Management, Inc._ identify your account. _Platinum Server Management, Inc._ may also provide you with an opportunity to update your contact information by sending you an e-mail or other communication that invites your response.  **How can a customer ask questions, or send comments, regarding this Privacy Policy?**   
-If you have questions or wish to send comments about this Privacy Policy, please send an e-mail with your questions or comments to sales@platinumservermanagement.com or write to: 
-
-_Platinum Server Management, Inc._  
-PO Box 441,  
-Edgewater, NJ 07020
-
-Please be assured that any personal information that you provide in communications to the above email and mailing addresses will not be used to send you promotional materials, unless you so request. 
-
+If you have questions or wish to send comments about this Privacy Policy, please send an e-mail with your questions or comments to sales@platinumservermanagement.com   
+Please be assured that any personal information that you provide in communications to the above email and mailing addresses will not be used to send you promotional materials, unless you so request.    
   
 **How does a customer know when this Privacy Policy is amended?**   
 _Platinum Server Management, Inc._ may amend this Privacy Policy at any time. If any material changes are made in the way that personally identifiable information is collected, used and/or shared, you will be notified by sending you an e-mail at the last e-mail address that you provided _Platinum Server Management, Inc._ , and/or by prominently posting notice of the changes on the web sites covered by this Privacy Policy. Any material changes to this Privacy Policy will be effective upon the earlier of thirty (30) calendar days followed by dispatch of an email notice to you or thirty (30) calendar days followed by posting of notice of the changes on the web sites covered by this Privacy Policy. Please note that at all times you are responsible for updating your personal information to provide _Platinum Server Management, Inc._ with your current email address. If your last email address provided is not valid, or for any other reason is not capable of delivering to you the above described notice, dispatch of the email containing such notice will nevertheless constitute effective notice of the changes described in the notice. Changes to this Privacy Policy may effect the use, by _Platinum Server Management, Inc._ , of personally identifiable information provided by you before being notified of the changes. If you do not wish to allow changes in the use of your information, you must notify _Platinum Server Management, Inc._ before the effective date of the changes that you wish to deactivate your account with _Platinum Server Management, Inc._. 
