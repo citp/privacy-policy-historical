@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ems.com privacy policy that was archived on 2010-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101204215054id_/http%3A//www.ems.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26stillHaveQuestion%3Dyes) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ems.com privacy policy that was archived on 2014-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140807074953id_/http%3A//www.ems.com/helpdesk/index.jsp%3Fdisplay%3Dsafety%26subdisplay%3Dprivacy%26stillHaveQuestion%3Dyes) for the most accurate reproduction.*
 
 # Eastern Mountain Sports - Help Desk -
 
