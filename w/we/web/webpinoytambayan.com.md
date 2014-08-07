@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webpinoytambayan.com privacy policy that was archived on 2014-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140609233504id_/http%3A//www.webpinoytambayan.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webpinoytambayan.com privacy policy that was archived on 2014-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140807150352id_/http%3A//www.webpinoytambayan.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy
 
