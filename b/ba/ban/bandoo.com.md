@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bandoo.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627044452id_/http%3A//www.bandoo.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bandoo.com privacy policy that was archived on 2014-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140807024151id_/http%3A//www.bandoo.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Free Emoticons & Winks for Yahoo!, MSN Messenger, Gmail & Hotmail. Get Bandoo Emotions!
 
