@@ -1,30 +1,93 @@
-> *The following text is extracted and transformed from the learnabouttheweb.com privacy policy that was archived on 2012-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121209130737id_/http%3A//www.learnabouttheweb.com/learn-about-the-web-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learnabouttheweb.com privacy policy that was archived on 2014-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140807160703id_/http%3A//www.learnabouttheweb.com/privacy-policy) for the most accurate reproduction.*
 
-# Learn About The Web Privacy Policy | Learn About The Web
+# Privacy Policy -
 
-[  
-](http://www.learnabouttheweb.com/learn-about-the-web-privacy-policy/privacy-300x199/)
+The Internet is an amazing tool. It has the power to change the way we live, and we’re starting to see that potential today.
 
-privacy
+With only a few mouse-clicks, you can follow the news, look up facts, buy goods and services, and communicate with others from around the world. It’s important to LearnAboutTheWeb.com to help our customers retain their privacy when they take advantage of all the Internet has to offer.
 
-We are serious about protecting your online privacy.
+We believe your business is no one else’s. Your privacy is important to you and to us. So we’ll protect the information you share with us. To protect your privacy, LearnAboutTheWeb.com follows different principles in accordance with worldwide practices for customer privacy and data protection.
 
-This Privacy Statement explains our views and practices concerning privacy, and how they may pertain to you as a user of our website.
+## NOTICE
 
-  * All information transmitted, printed or otherwise submitted via this website shall be deemed to be the property of our company, which shall be free to use such information for any lawful purpose as detailed herein.
-  * This site contains links to other sites and we are not responsible for the privacy practices or the content of such sites.
-  * We reserve the right to release such information to law enforcement or other governmental officials as we, in our sole and absolute discretion, deem necessary to comply with the law.
-  * We use your personal, demographic and profile data to enhance your experience at our site and to enable us to present content we think you might be interested in. We use your contact information to send you information about our company and promotional material from our partners. We may also use your personal, demographic and profile data to improve our site, for statistical analysis, for marketing and promotional purposes, and for editorial or feedback purposes for our advertisers.
-  * Information collected by us may be added to our databases and used for future telemarketing, SMS text-messaging, emails or postal mailings regarding site updates, new products and services, upcoming events, and/or status of orders placed online. By using this site, you agree that you may be contacted in any manner contemplated in this section even if your number is found on a do not call registry, in-house list or similar registry.
-  * You may opt-out of receiving communications from us and/or our partners by not submitting your information. We also allow you to remove your information from our marketing lists. If you remove your information from our marketing lists it will no longer be used by us to send promotional correspondence to you. You can remove your information from our marketing lists by clicking on the “Unsubscribe” link at the bottom of every email we send you.
-  * The information and services provided to us or our affiliates, sponsors, and advertisers are not intended to be viewed by children (under 18 years old). No information collected from children is knowingly used for any marketing or promotional purposes whatsoever, either inside or outside LearnAboutTheWeb.com, Inc. No part of our web site is structured to attract anyone under the age of 18.
-  * We reserve the right to contact you regarding your account status and changes to subscriber agreements, privacy policy, or any other policies or agreements relevant to you.
-  * We reserve the right to change this policy at any time by notifying you of the existence and location of the new or revised privacy policy or by posting the changes online at our site.
+We will ask you when we need information that personally identifies you (personal information) or allows us to contact you. Generally, this information is requested when you create your membership and/or subscribe to member updates or other in house mail. We use your Personal Information for four primary purposes:
+
+  1. To make the site easier for you to use by not having to enter information more than once.
+  2. To help you quickly find software, services or information.
+  3. To help us create content most relevant to you.
+  4. To alert you to product upgrades, special offers, updated information and other new services from LearnAboutTheWeb.com.
 
 
 
-We understand consumers’ concerns over the use of their personal information. We hope this information will relieve any concerns your company may have regarding our email policies. Our firm and its affiliated sites use only an “opt-in or opt out” method of obtaining customer information, and it is not our policy or desire to send unsolicited email.
+## CONSENT
 
-We obtain email addresses and personal information from third parties that follow the same set of policies. Email messages sent always include information about the origin of the emails and instructions on how recipients can unsubscribe from receiving future email messages.
+If you choose not to register or provide personal information, you cannot access the member area.
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact us via email sent to: Privacy(at)LearnAboutTheWeb(dot)Com.
+If you decide to register, you will be able to select the kinds of information you want to receive from us by subscribing to various services, like our member update or special offers.
+
+If you do not want us to communicate with you about other offers regarding LearnAboutTheWeb.com products, programs, events, or services by email, postal mail, or telephone, you may select the option stating that you do not wish to receive marketing messages from LearnAboutTheWeb.com.
+
+## ACCESS
+
+We will provide you with the means to ensure that your personal information is correct and current. You may review and update this information at any time from your member profile. There, you can:
+
+  * View and edit personal information you have already given us.
+  * Tell us whether you want us to send you member updates or special offers.
+
+
+
+## SECURITY
+
+LearnAboutTheWeb.com has taken strong measures to protect the security of your personal information and to ensure that your choices for its intended use are honored. We take strong precautions to protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction.
+
+Your Personal Information is stored on secure servers that are not accessible by third parties. We provide you with the capability to transmit you Personal Information via secured and encrypted channels if you use a similarly equipped web browser.
+
+These security measures are in place to prevent the loss, misuse, and alteration of the information that we obtain from you, but we make no assurances about our ability to prevent any such loss, misuse, to you or to any third party arising out of any such loss, misuse, or alteration.
+
+In the event of unauthorized use of your credit card, you must notify your credit card provider in accordance with its reporting rules and procedures.
+
+LearnAboutTheWeb.com strictly protects the security of your personal information and honors your choices for its intended use. We carefully protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction.
+
+Your personal information is never shared outside the company without your permission, except under conditions explained above. Inside the company, data is stored in password-controlled servers with limited access. Your information may be stored and processed in the USA or any other country where LearnAboutTheWeb.com, its subsidiaries, affiliates or agents are located.
+
+You also have a significant role in protecting your information. No one can share these see or edit your personal information without knowing your user name and password, so do not with others.
+
+## NOTICE CONCERNING CHILDREN AND TO PARENTS
+
+We adhere to the Children’s Privacy Act. You must be 18 years of age to join or use LearnAboutTheWeb.com or any of the recommended or linked sites. This site follow the guidelines, policies and laws of the Federal Trade Commission (www.ftc.gov). We retain the right to refuse anyone membership in any of our sites. If we learn or have reason to believe that a User is underage according to the guidelines, policies and laws of the Federal Trade Commission, we will promptly revoke that User’s account and delete any personal information.
+
+## ENFORCEMENT
+
+If for some reason you believe LearnAboutTheWeb.com has not adhered to these principles, please notify us by certified mail, return receipt requested, 2248 Meridian Boulevard Suite H., Minden, NV 89423, United States. We will do our best to determine and correct the problem promptly.
+
+## ELECTRONIC PRODUCT REGISTRATION
+
+When you buy and install a new product, we may ask you to register your purchase electronically. When you do, we merge your registration information with any information you’ve already left with us (we call that information your personal profile). If you haven’t previously registered with us, we create a personal profile for you from your product registration information. If you ever want to review or update that information, you can click on Update Profile, and edit any of the Personal Information in your profile. If you haven’t already created a membership, we will ask you to do so. This ensures that only you can access your information.
+
+## CUSTOMER PROFILES
+
+As mentioned above, every registered customer has a unique personal profile. Each profile is assigned a unique personal identification username, which helps us ensure that only you can access your profile.
+
+When you register, you create your profile, your username and password. It is your passport to seamless travel across your member area, allowing you to download software and order more plug-in modules without having to fill out registration forms with information you’ve already provided. Even if you switch computers, you won’t have to re-register – just use your Registration ID to identify yourself.
+
+## WHAT WE DO WITH THE INFORMATION YOU SHARE
+
+When you join us, you provide us with your contact information, including your name and email address. We use this information to send you updates about your order, questionnaires to measure your satisfaction with our service and announcements about new and exciting services that we offer. When you order from us, our 3rd party payment processors such as PayPal ask for your credit card number and billing address. They use this information only to bill you for the product(s) you order at that time.
+
+We occasionally hire other companies to provide limited services on our behalf, including programming, answering customer questions about products or services, sending email and processing event registration. We will only provide those companies the information they need to deliver the service, and they are prohibited from using that information for any other purpose.
+
+## CONFIDENTIALITY AND SECURITY OF PERSONAL INFORMATION
+
+Except as otherwise provided in this Privacy Policy, LearnAboutTheWeb.com will not share your personal information with any third parties without your consent.
+
+LearnAboutTheWeb.com will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on LearnAboutTheWeb.com or the site; (b) protect and defend the rights or property of LearnAboutTheWeb.com and its family of Websites; (c) enforce our TOS; or (d) act under exigent circumstances to protect the safety of the public or users of the Site.
+
+If your information is lost or stolen, you must promptly notify us if your credit card, user name, or password is lost, stolen, or used without permission. In such an event, we will remove that credit card number, user name, or password from your account and update our records accordingly.
+
+The Site contains links to other websites. We are not responsible for the privacy practices or the content of such websites. We also make email services, bulletin board services, chat areas, news groups, forums, communities, personal web pages, calendars, photo albums, file cabinets and/or other message or communication facilities designed to enable User to communicate with others (each a “Communication Service” and collectively “Communication Services”) available to you.
+
+Please understand that any information that is disclosed in these areas becomes public information. We have no control over its use and you should exercise caution when deciding to disclose your Personal Information.
+
+## UPDATES AND CHANGES TO PRIVACY POLICY
+
+We reserve the right, at any time and without notice, to add to, change, update, or modify this Privacy Policy, simply by posting such change, update, or modification on the Site and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on the Site.
