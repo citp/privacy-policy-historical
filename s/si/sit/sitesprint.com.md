@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sitesprint.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625083233id_/http%3A//sitesprint.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitesprint.com privacy policy that was archived on 2014-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140808022156id_/http%3A//sitesprint.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SiteSprint
 
