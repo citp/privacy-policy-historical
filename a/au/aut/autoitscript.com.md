@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autoitscript.com privacy policy that was archived on 2014-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140607211951id_/http%3A//www.autoitconsulting.com/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autoitscript.com privacy policy that was archived on 2014-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140808053731id_/http%3A//www.autoitconsulting.com/site/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - AutoIt Consulting
 
