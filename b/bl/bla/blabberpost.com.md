@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blabberpost.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626013239id_/http%3A//www.blabberpost.com/privacy-policy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blabberpost.com privacy policy that was archived on 2014-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140808184526id_/http%3A//blabberpost.com/privacy-policy/privacy-policy) for the most accurate reproduction.*
 
 # Blabberpost Privacy Policy
 
@@ -6,7 +6,7 @@ Details
      Written by Blabber
      Category: [**Privacy Policy**](http://blabberpost.com/privacy-policy)
      Published: 11 August 2013
-     Hits: 696
+     Hits: 877
 
  **What is this **Privacy Policy** for?**
 
