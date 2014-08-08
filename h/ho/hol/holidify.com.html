@@ -1,0 +1,502 @@
+<!--The following is the downloaded HTML source of the holidify.com privacy policy that was archived on 2014-08-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140808232214id_/http%3A//www.holidify.com/privacy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<title>Privacy Policy - Holidify.com</title>
+<link rel="icon" href="favicon.ico" type="image/x-icon"> 
+
+<meta name="description" content="This privacy policy document outlines the types of personal information is received and collected by www.holidify.com and how it is used."> 
+<meta name="keywords" content="Privacy Policy, Collections of top places in India, Top Adventure, top offbeat, top monsoon">
+
+<!---- Style Sheets-->
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+
+<link rel="stylesheet" href="landing_new_files/landing_map.css" type="text/css">
+<link rel="stylesheet" href="http://code.jquery.com/ui/1.10.2/themes/smoothness/jquery-ui.css">
+<link rel="stylesheet" href="collections/css/collections.css">
+
+
+<!----------------- External Scripts -->
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script src="http://maps.googleapis.com/maps/api/js?key=AIzaSyDoXArhTtudvwVnkr7JPZvNVMMlEy0z2KU&amp;sensor=false">
+</script>
+
+<script>
+function city(cityName, lat, lng, desc, imagePath, tooltipImagePath, code, listTagsInp, bestTime, stateCode, popularity){
+	this.name = cityName;
+	this.value = cityName;
+	this.position = new google.maps.LatLng(lat, lng);
+	this.desc = desc;
+	this.icon = new google.maps.MarkerImage(imagePath, null, null, null, new google.maps.Size(25, 30));
+	this.imagePath = imagePath;
+	this.tooltipImagePath = tooltipImagePath;
+	this.code = code;
+	//this.listTags = listTagsInp.toLowerCase().replace(/ /g, "").split(",");
+	this.listTags = listTagsInp.toLowerCase().split(",");
+	this.bestTime = bestTime;
+	//this.numPlaces = numPlaces;
+	this.stateCode = stateCode;
+	
+	this.cityMarker = new google.maps.Marker({
+		position: this.position,
+		icon: this.icon
+	});
+	
+	this.popularity = popularity;
+}
+</script>
+
+<script src="http://code.jquery.com/jquery-1.7.2.min.js"></script>
+<script src="http://code.jquery.com/ui/1.10.2/jquery-ui.min.js"></script>
+
+<!----------------- Internal Scripts -->
+
+<script type="text/javascript" src="../scripts_weekend/stateConstructor.js"></script>
+<script type="text/javascript" src="../scripts_weekend/allCities_test5.js"></script>
+<script type="text/javascript" src="../scripts_weekend/facebookFunctions.js"></script>
+<script type="text/javascript" src="../scripts_weekend/jquery.lazyload.complete.js"></script>
+
+<script type="text/javascript" src="../landing_new_files/jquery.easing.min.js"></script>
+<script>
+
+function showNotification(notificationString) {
+	$(".notificationContainer").first().html(notificationString);
+	$(".notificationContainer").first().fadeIn();
+	setTimeout(function() {$(".notificationContainer").first().fadeOut();}, 3000);
+}
+
+
+// Global Variables
+var geolocationSupport=false;										// Does the browser support Geolocation, and has the user give permission to access location?
+var currentLatitude=null;											// Current Latitude of the user
+var currentLongitude=null; 											// Current Longitude of the user
+var currentLocationName=null;										// Reverse Geocoded location of the read location
+var currentLocMarker=null;												// Marker for the current location
+var cityCircle=null;												// The circle displayed around a city when the filter is selected
+var curLocTooltip=null;													// Tooltip for the *current location*
+var curTooltip;														// The name of the currently *selected* place
+var loggedIn = false;												// Is the user logged in
+var currentUserID=null;												// If the user is logged in, his current user ID
+var cityCodeToObjectMap = new Array();								// Maps the codes of the cities to the city object
+var searchLookup = new Array();										// Maps names of the cities to the city objects - used in the search box
+var autocompleteList = new Array();									// List of the names of the places and the filters for the type of places
+var cityCodeTooltipMap = new Array();								// Maps the code the city to the corresponding tooltip - used for increasing the marker size of a city
+var stateCodeTooltipMap = new Array();								// Maps the code of ths state to the corresponding tooltip - used for removing the tooltip when the state is hidden
+var stateCodeMapping = new Array();									// Maps the names of the states to the corresponding code
+var stateCountInit = new Array();									// Count of # places in each of the states
+//var stateCountCur = new Array();									// Current count of # places in each of the states
+var tagsList = ["Beaches","Mountains","Metros"];					// List of the tags which can be searched
+var map;
+var zoomListenerHandle;												// Event listener for 'zoom_changed' event
+var counter=0;
+var currentDistanceFilter=250;										// Distance from the current location filter
+var firstName;														// First name in the autocomplete list
+
+var infoWindow = new google.maps.InfoWindow({});					// The default infoWindo which can be used to show info about cities
+
+var indiaCenter = new google.maps.LatLng(23.80545,78.574219); 		// The default center of the map
+var curZoom = 4;													// The current zoom level
+var lastOpenWindow = null;											// The infowindow which is sometimes used to show some details
+var lastSelected = null;											// The city previously selected
+var previousTag = null;												// Was previously being used to remove the cities in the previous tag selected
+var currentSelectedCode = "INDIA";									// The code of the currently selected city; default should be India, but change later
+var citiesInitialized=false;										// Indicator for whether theh cities have been initialized
+var browseMode=true;												// Browsing mode is on
+var tripPlannerMode=false;											// Trip planner mode is on
+
+var currentList = new Array();										// Holder for the current list
+
+// Facebook Connect Variables
+var listFriends = new Array();										// List of friends of the current user
+var nameIdMap = new Array();										// Map of Name to Facebook ID
+var idNameMap = new Array();										// Map of Facebook user ID to name
+var selectedFriendsList = new Array();								// List of friends invited for the current trip
+
+var listCityObjects = [
+	HYDERABADCity, PUTTAPARTHICity, SRISAILAMCity, TIRUPATICity, VIJAYAWADACity, VISAKHAPATNAMCity, WARANGALCity, BHADRACHALAMCity, KURNOOLCity, SRIKALAHASTICity, TAWANGCity, ALONGCity, ANINICity, BHALUKPONGCity, BOMDILACity, CHANGLANGCity, ITANAGARCity, PASIGHATCity, ROINGCity, ZIROCity, KAZIRANGACity, DIPHUCity, GOALPARACity, GUWAHATICity, HAJOCity, JORHATCity, MAJULICity, NAMERICity, ORANGCity, SIBSAGARCity, TINSUKIACity, BODHCity, NALANDACity, PATNACity, RAJGIRCity, DANTEWADACity, DHAMTARICity, SILVASSACity, DAMANCity, DIUCity, GOACity, AHMEDABADCity, DWARKACity, SOMNATHCity, DHOLAVIRACity, BHUJCity, DANTACity, GANDHINAGARCity, GIRNARCity, JUNAGADHCity, KUTCHCity, PORBANDARCity, GIRCity, NARNAULCity, NUHCity, PANCHKULACity, GURGAONCity, KURUKSHETRACity, PANIPATCity, DALHOUSIECity, KASAULICity, KULLUCity, MANALICity, MCLEODGANJCity, SHIMLACity, SOLANCity, ARKICity, BILASPURCity, BIRCity, CHAILCity, KHAJJIARCity, MANIKARANCity, NAGGARCity, NARKANDACity, PALAMPURCity, SPITICity, GULMARGCity, JAMMUCity, LADAKHCity, PAHALGAMCity, SONAMARGCity, SRINAGARCity, VAISHNOCity, HEMISCity, LAMAYURUCity, PATNITOPCity, PULWAMACity, SANASARCity, DEOGHARCity, JAMSHEDPURCity, RANCHICity, BANGALORECity, MANGALORECity, AIHOLECity, BADAMICity, BANDIPURCity, CHIKMAGALURCity, COORGCity, GOKARNACity, HAMPICity, JOGCity, KABINICity, KEMMANAGUNDICity, MADIKERICity, MYSORECity, NAGARHOLECity, PATTADAKALCity, BRCity, BHEEMESHWARICity, BIJAPURCity, DANDELICity, DHARMASTHALACity, DUBARECity, HALEBIDCity, KARWARCity, KUDREMUKHCity, KUKKECity, MURUDESHWARCity, NANDICity, RAMNAGARAMCity, SHIVANASAMUNDRAMCity, SRAVANABELAGOLACity, SRINGERICity, SRIRANGAPATNACity, UDUPICity, KOCHICity, TRIVANDRUMCity, ALLEPPEYCity, KOVALAMCity, KOZHIKODECity, KUMARAKOMCity, MUNNARCity, THEKKADYCity, VYTHIRICity, WAYANADCity, BEKALCity, DEVIKULAMCity, GURUVAYURCity, IDUKKICity, KUMILYCity, MALAMPUZHACity, MALAPPURAMCity, MUTHANGACity, PALAKKADCity, PONMUDICity, SABARIMALACity, THATTEKADCity, THOLPETTYCity, THRISSURCity, VARKALACity, BHOPALCity, INDORECity, BANDHAVGARHCity, KHAJURAHOCity, GWALIORCity, JABALPURCity, KANHACity, OMKARESHWARCity, ORCHHACity, PACHMARHICity, PENCHCity, SANCHICity, MUMBAICity, PUNECity, NAGPURCity, ALIBAGCity, KHANDALACity, LONAVALACity, MAHABALCity, MATHERANCity, PANCHGANICity, SHIRDICity, AURANGABADCity, GANAPATIPULECity, HARIHARESHWARCity, KAMSHETCity, KASHIDCity, KOLADCity, LONARCity, MALSHEJCity, MURUDCity, NASIKCity, RATNAGIRICity, TADOBACity, TARKARLICity, IMPHALCity, CHANDELCity, TAMENGLONGCity, THOUBALCity, CHERRAPUNJEECity, SHILLONGCity, JOWAICity, TURACity, CHAMPHAICity, AIZAWLCity, LUNGLEICity, SERCHHIPCity, KOHIMACity, MOKOKCHUNGCity, MONCity, PHEKCity, DELHICity, BHUBANESWARCity, KONARKCity, PURICity, CUTTACKCity, PONDICHERRYCity, CHANDIGARHCity, AMRITSARCity, BHATINDACity, LUDHIANACity, PATHANKOTCity, PATIALACity, JAIPURCity, AJMERCity, BHARATPURCity, BIKANERCity, JAISALMERCity, JODHPURCity, MOUNTABUCity, PUSHKARCity, RANTHAMBORECity, UDAIPURCity, ALWARCity, CHITTORGARHCity, KHIMSARCity, KUMBHALGARHCity, GANGTOKCity, WESTSIKKIMCity, ARITARCity, NORTHSIKKIMCity, SOUTHSIKKIMCity, CHENNAICity, COIMBATORECity, KANCHIPURAMCity, KANYAKUMARICity, KODAIKANALCity, MADURAICity, MAHABALIPURAMCity, OOTYCity, RAMESWARAMCity, YERCAUDCity, THIRUVANNAMALAICity, MADUMALAICity, NAGAPATTINAMCity, THANJEVURCity, AGARTALACity, KAILASHAHARCity, UNAKOTICity, LUCKNOWCity, AGRACity, MATHURACity, VARANASICity, VRINDAVANCity, ALLAHABADCity, AYODHYACity, SARNATHCity, ALMORACity, CORBETTCity, DEHRADUNCity, HARIDWARCity, MUSSOORIECity, NAINITALCity, RANIKHETCity, RISHIKESHCity, AULICity, BADRINATHCity, BINSARCity, CHAKRATACity, CHAMBAUTCity, DEVPRAYAGCity, GANGOTRICity, LANSDOWNECity, MUKTESHWARCity, RAJAJICity, VALLEYCity, YAMUNOTRICity, KOLKATACity, DARJEELINGCity, KALIMPONGCity, SUNDARBANSCity, BANKURACity, BISHNUPURCity, DIGHACity, JALDAPARACity, KURSEONGCity, MALDACity, MAYAPURCity, SILIGURICity, LAKSHADWEEPCity, ANDAMANCity
+                       ];
+
+var directionsService = new google.maps.DirectionsService();
+var directionsDisplay = new google.maps.DirectionsRenderer();
+
+var pinShadow = new google.maps.MarkerImage(
+		"../images/logos/shadow.png",
+		new google.maps.Size(40, 32),
+		new google.maps.Point(0,0),
+		new google.maps.Point(20,28));
+	// The MarkerImage used across as the shadow
+
+// Initialize the auto complete list with the names of the cities and the tags 
+function createAutocompleteList(){
+	for (var i=0; i<listCityObjects.length; i++){
+		var nextCity = listCityObjects[i];
+		autocompleteList[i] = nextCity.name;
+		searchLookup[nextCity.name] = nextCity;
+	}
+	for (var i=0; i<tagsList.length; i++){
+		autocompleteList.push(tagsList[i]);
+	}
+}
+
+
+// Initialize the mapping from city codes to the city objects
+function createCodeToObjectMap() {
+	for (var i=0; i<listCityObjects.length; i++){
+		var nextCity = listCityObjects[i];
+		cityCodeToObjectMap[nextCity.code] = nextCity;
+	}
+}
+
+// Initialize the list of cities corresponding to each tag
+var tags = new Array();
+function createTagsList() {
+	for (var i=0; i<listCityObjects.length; i++){
+		var nextCity = listCityObjects[i];
+		for (var j=0; j<nextCity.listTags.length; j++){
+			var nextTag = nextCity.listTags[j];
+			if(tags[nextTag] != null) tags[nextTag].push(nextCity);
+			else tags[nextTag] = [nextCity];
+		}
+	}
+}
+
+//Close the extra info window on pressing the escape key  
+$(document).keyup(function(e) {
+  if (e.keyCode == 27) {
+	  hideCollection();
+  }
+});
+
+// The functions to be executed on loading the document
+$(function() {
+
+	$(window).trigger('scroll');
+
+	// Initialize lazyload
+	$("div.listBigDiv img").lazyload({ effect: "fadeIn", threshold:500 });
+	$("body").scroll( function() { $(window).trigger('scroll'); });
+
+	$("#collectionList li a").click(function() { 
+		var collectionID = $(this).parent().attr("data-listID");
+		showCollection(collectionID); 
+	});
+	$("#popupCollectionBackground").click(function() { hideCollection(); });
+	
+	// Initialize the lists
+	createAutocompleteList();
+	createTagsList();
+	createCodeToObjectMap();
+
+	// Create the autocomplete list for the search box
+	$.getJSON("../autocompleteList.json", 
+		function(data, status) {
+			var autoList = data.autocompleteList;
+
+			$( "#location" ).autocomplete({
+			      minLength: 0,
+			      //autoFocus: true,
+			      //source: listCityObjects,
+			      // IMP : To get back to the version which only shows the cities, just replace "autoList" by "listCityObjects"
+			      source: function(request, response) {
+		    			var counter=0;
+			    	    var filteredArray = $.map(autoList, function(item) {
+				    	    if (request.term.length < 3) return null;
+
+				    	    if(item.name.toLowerCase().indexOf(request.term.toLowerCase())==0 ) {
+					    	    if (counter==0) { firstName = item.name; $("#searchPlaceCode").val("");}
+					    	    counter++;
+			    	            return item;
+			    	        }
+
+				    	    else if ( item.name.split(",").length>1 && 
+						    	    item.name.toLowerCase().split(",")[1].replace(" ", "").indexOf(request.term.toLowerCase()) == 0) {
+					    	    if (counter==0) { firstName = item.name; $("#searchPlaceCode").val(""); }
+					    	    counter++;
+			    	            return item;
+					    	}
+			    	        
+			    	        else {
+				    	        for (var j=0; j<item.alternateNames.length; j++) {
+									if (item.alternateNames[j].toLowerCase().indexOf(request.term.toLowerCase()) == 0) {
+							    	    if (counter==0) { firstName = item.name; $("#searchPlaceCode").val(""); }
+							    	    counter++;
+										return item;
+									}
+					    	    }
+			    	            return null;
+			    	        }
+			    	    });
+			    	    response(filteredArray);
+			    	},
+			      focus: function( event, ui ) {
+			        $( "#location" ).val( ui.item.name );
+			        return false;
+			      },
+			      select: function( event, ui ) {
+			    	  if(ui.item.type == "Attraction") $("#searchPlaceCode").val(ui.item.placeCode);
+			    	  else $("#searchPlaceCode").val("");
+			    	  
+			        $( "#location" ).val( ui.item.name );
+			        $("#search").submit();
+			        return false;
+			      }
+			    })
+			    .data( "ui-autocomplete" )._renderItem = function( ul, item ) {
+			      if(item.type == "Destination"){
+				      return $( "<li>" ) 
+				      	.append("<img src=\"" + searchLookup[item.name].tooltipImagePath + 
+						      	"\" style=\"float:left;margin:5px;\" height=50 width=50 />")
+				        .append( "<a>" + item.name + "<div>" + item.desc + "</div> <div style=\"clear:both;\"></div> </a>" )
+				        .appendTo( ul );
+				      } else if (item.type == "Attraction"){
+				    	  return $( "<li>" ) 
+				    	    .append("<img src=\"../images/todo-coming-soon-small.png\" style=\"float:left;margin:5px;\" height=50 width=50 />")
+					        .append( "<a>" + item.name + "<div>" + cityCodeToObjectMap[item.placeCode].name +
+							         "</div> <div style=\"clear:both;\"></div> </a>" )
+					        .appendTo( ul );
+					  } else if (item.type == "Filter") {
+						  return $("");
+					  }
+			    };
+	});
+
+	// Get the state code mapping JSON
+	$.getJSON("../stateCodeMapping.json",
+			function(data, status) {
+				var stateCodeMappingList = data.stateCodeMapping;
+				for (var i=0; i<stateCodeMappingList.length; i++) {
+					stateCodeMapping[stateCodeMappingList[i].name] =stateCodeMappingList[i].code;  
+				}
+	});
+
+	$(document).on('click', 'a', function(e) {
+	    if ('#' == $(this).attr('href'))
+	        e.preventDefault();
+	});
+
+});
+
+
+function showSightseeing(searchVal) {
+	var placeCode = $("#searchPlaceCode").val();
+	if (placeCode.length >= 1 && cityCodeToObjectMap[placeCode] != null) {
+
+		nextPlaceName = cityCodeToObjectMap[placeCode].name;
+		
+		currentSelectedCode=placeCode;
+		window.location.href = "../" + placeCode.toLowerCase() + "/sightseeing-and-things-to-do.html#"+searchVal;
+		return true;
+	}
+	return false;
+}
+
+function showRandomPlace() {
+
+	var randNum = Math.round((Math.random()*1000)) % listCityObjects.length;
+	var randomCity = listCityObjects[randNum];
+
+	$.get("LoggingService?source=random_lannding&placeCode="+randomCity.code, function(data, response) {});
+	ga('send', 'event', 'random',randomCity.code, {'page':'/'});
+
+	window.location.href = "../"+randomCity.code.toLowerCase();
+}
+
+
+function showCity(selectedCity) {
+	window.location.href = "../"+selectedCity.code.toLowerCase();	
+}
+
+// Show only the city(-ies) corresponding to the search text
+function showSelected() {
+	var searchVal = document.forms["search"]["locationName"].value;
+
+	// Send the search query to the PHP script
+	$.get("LoggingService?source=search_landing&placeCode="+searchVal, function(data, response) {});
+	ga('send', 'event', 'search',searchVal, {'page':'/'});
+	
+	var selectedCity = searchLookup[searchVal];
+	var selectedCityOpt = searchLookup[firstName];
+	if (selectedCity != null) { showCity(selectedCity); return;}
+	else if(!showSightseeing(searchVal)) {
+		if (selectedCityOpt != null) { $( "#location" ).val( firstName ); showCity(selectedCityOpt);  }
+		else showNotification("Sorry, we don't have content for that city.. yet! <br />" + 
+					"Please try something like Agra, Delhi, Taj Mahal etc.");
+	}
+}
+
+// Select the text in the search box when you click it
+function searchBoxClick() {
+	var searchVal = document.forms["search"]["locationName"];
+	searchVal.select();
+}
+
+</script>
+
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-41790698-1', 'holidify.com');
+  ga('require', 'displayfeatures');
+  ga('send', 'pageview');
+
+  /**
+  * Function that tracks a click on an outbound link in Google Analytics.
+  * This function takes a valid URL string as an argument, and uses that URL string
+  * as the event label.
+  */
+  var trackOutboundLink = function(url) {
+     ga('send', 'event', 'outbound', 'click', url, {'hitCallback':
+       function () {
+    	 window.location.href = url;
+       }
+     });
+  }
+    
+</script>
+
+
+</head>
+
+
+<body style="margin:0px; ">
+    
+<!-- ClickTale Integration module. Please follow the accompanying documentation to properly configure it. top -->
+<!-- ClickTale Top part -->
+<script type="text/javascript">
+var WRInitTime=(new Date()).getTime();
+</script>
+<!-- ClickTale end of Top part -->
+	
+   
+
+<div id="fb-root"></div>
+
+<div id="container" style="width:100%;height:100%;">
+
+<div class="emptySpace" style="width:100%;height:54px;"> 
+	<div class="searchBox" style="width:30%;float:left;"> 
+		<a href="/" style="float:left;"><img src="../images/logo-transparent-peach_resized.png" height="50" style="margin-top:4px;margin-left:20px;"></a>	
+
+        <ul class="navList">
+        	<li style="margin-right:20px;"><a href="/explore">Explore</a></li>
+        	<li><a href="/weekend-getaways">Weekend</a></li>
+        </ul>
+
+	</div>
+	
+	<div class="searchBox" style="width:70%;float:left; margin-top:11px;">
+		<div style="float:left; width:20%;"> &nbsp; </div>
+		<div style="float:left; width:60%;" align="center">
+			<form id="search" onsubmit="showSelected()" action="javascript:void(0)" style="width: 80%;">
+				<input class="search-text placeholder" type="text" name="locationName" id="location" placeholder="Search destinations..." title="Please enter the name of the place here" onclick="searchBoxClick()" value="" style="width:58%;vertical-align:top;">
+					<input type="submit" value="Holidify" id="searchbutton" class="bttn custom">
+					<input type="hidden" id="searchPlaceCode">
+				<button type="button" class="bttn custom" id="random" onclick="showRandomPlace()">
+					Surprise Me!
+				</button> 
+			</form>
+		</div>
+		<div style="float:left; width:20%;">
+		
+			<div id="signin" style="margin-right:5px; float:right; text-decoration:none; font-size:16px;display:none;">
+				<a href="#" onclick="login()" class="bttn custom" style="text-decoration:none; font-size:12px;font-weight: bold;">SIGN IN</a>
+	        </div>
+	        
+	        <div class="FloginButton" data-dropdown="#dropdown-1" id="loggedIn_username" style="display:none;">
+	        	<img id="fbProfilePhotoSmall" src="../images/patt.png" height="30" width="30" style="float:left;">
+	        	<a href="/explore/#profile" target="_blank" class="fbUsername"></a>
+	        </div>
+	        
+		</div>
+    </div>
+
+</div>
+
+
+<div class="listSection" style="border-top:1px solid #dbdbdb;">
+	<h2 class="moreListHeading"> Privacy Policy for Holidify.com</h2>
+	<p class="sectionDescSmall"> At Holidify.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by Holidify.com and how it is used.  </p>
+	<p class="sectionDescSmall"> <b>Log Files</b> <br>Like many other Web sites, Holidify.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track userâ€™s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.  </p>
+	<p class="sectionDescSmall"> <b>Cookies and Web Beacons</b><br>Holidify.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.  </p>
+	<p class="sectionDescSmall"> <b>DoubleClick DART Cookie </b><br>Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense </p>
+	<p class="sectionDescSmall"> These third-party ad servers or ad networks use technology to the advertisements and links that appear on Holidify.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. </p>
+	<p class="sectionDescSmall"> Holidify.com has no access to or control over these cookies that are used by third-party advertisers.  </p>
+	<p class="sectionDescSmall"> You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. Holidify.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.   </p>
+	<p class="sectionDescSmall"> If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. </p>
+	<p class="sectionDescSmall"> If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at kovid@holidify.com. </p>
+	
+</div>
+
+
+
+<div class="listSection" style="background:#1F2930; border:none;">
+	<p class="textBig" style="width:60%; margin-left:20%; margin-bottom:40px;">Holidify.com is a destination discovery website that helps travelers find the right destinations according to their preferences and help them plan their holidays in a hassle free manner.</p>
+	<ul class="listSmall" style="margin-left:20%;">
+		<li><a href="/explore">Explore</a></li>
+		<li><a href="/weekend-getaways">Weekend Getaways</a></li>
+		<li><a href="/blog" target="_blank">Blog</a></li>
+		<!-- <li><a href="#">Collections</a></li> -->
+		<li><a href="/about-us" target="_blank">About Us</a></li>
+		<li><a href="/privacy.html">Privacy Policy</a></li>
+		<li><a href="/terms-of-use.html">Terms of Use</a></li>
+	</ul>
+	<ul class="listSmall">
+		<li><a href="/weekend-getaways-from-mumbai.html">Weekend Getaways from Mumbai</a></li>
+		<li><a href="/weekend-getaways-from-delhi.html">Weekend Getaways from New Delhi, NCR</a></li>
+		<li><a href="/weekend-getaways-from-bangalore.html">Weekend Getaways from Bangalore</a></li>
+		<li><a href="/weekend-getaways-from-hyderabad.html">Weekend Getaways from Hyderabad</a></li>
+		<li><a href="/weekend-getaways-from-kolkata.html">Weekend Getaways from Kolkata</a></li>
+		<!-- <li><a href="/weekend-getaways-from-ahmedabad.html">Weekend Getaways from Ahmedabad</a></li>  -->
+	</ul>
+	<ul class="listSmall">
+		<!-- <li><a href="#" class="feedbackBox" onclick="showFeedback()">Feedback</a></li>  -->
+		<li><a style="font-weight:bold; font-size:1.2em;" class="connectText">Connect With Us</a></li>
+		<li><a href="http://www.facebook.com/holidify" target="_blank">Facebook</a></li>
+		<li><a href="http://www.twitter.com/holidify" target="_blank">Twitter</a></li>
+		<li><a href="http://www.linkedin.com/holidify-com" target="_blank">LinkedIn</a></li>
+		<li><a href="http://plus.google.com/+HolidifyDotCom" target="_blank">Google Plus</a></li>
+	</ul>
+	<div style="clear:both;"></div>
+</div>
+
+
+<div class="listSection" style="background:#181F25; border:none; padding:2px;">
+	<p style="color:#999;">© 2014 Holidify.com Travels Private Limited - All Rights Reserved</p>
+</div>
+
+
+</div>
+
+<div class="notificationContainer" align="center" style="display:none;">
+	Notifications appear here
+</div>
+
+
+
+    
+<!-- ClickTale Integration module. Please follow the accompanying documentation to properly configure it. bottom -->
+<!-- ClickTale Bottom part -->
+
+<script type="text/javascript">
+// The ClickTale Balkan Tracking Code may be programmatically customized using hooks:
+// 
+//   function ClickTalePreRecordingHook() { /* place your customized code here */  }
+//
+// For details about ClickTale hooks, please consult the wiki page http://wiki.clicktale.com/Article/Customizing_code_version_2
+
+document.write(unescape("%3Cscript%20src='"+
+(document.location.protocol=='https:'?
+"https://cdnssl.clicktale.net/www07/ptc/cf28414e-8813-459b-bd77-29bf06339dc3.js":
+"http://cdn.clicktale.net/www07/ptc/cf28414e-8813-459b-bd77-29bf06339dc3.js")+"'%20type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://cdnssl.clicktale.net/www07/ptc/cf28414e-8813-459b-bd77-29bf06339dc3.js" type="text/javascript"></script>
+
+<!-- ClickTale end of Bottom part -->
+	
+  
+</body></html>
