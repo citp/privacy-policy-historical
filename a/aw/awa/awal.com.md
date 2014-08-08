@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the awal.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626084159id_/https%3A//awal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awal.com privacy policy that was archived on 2014-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140808221810id_/https%3A//awal.com/privacy-policy) for the most accurate reproduction.*
 
 # AWAL — Music Distribution, Licensing and Marketing
 
 This privacy policy (the “privacy policy”) applies to your use of our website at **awal.com** (the “website”). Please read this privacy policy carefully and in conjunction with our terms of use and ensure that you understand them before you start to use the website. By accessing and using the website, you confirm that you have read, understood, and accept the privacy policy and any changes made to the privacy policy from time to time. If you do not agree to this privacy policy, you must not use the website.
 
-This website is owned and operated by, or on behalf of, AWAl Digital Limited (“we” or “us”). We are registered in England and Wales under company number 044430703 and our registered office is at 4 Valentine Place, London SE1 8QH. Our VAT registration number is GB774150334. 
+This website is owned and operated by, or on behalf of, AWAL Digital Limited (“we” or “us”). We are registered in England and Wales under company number 044430703 and our registered office is at 4 Valentine Place, London SE1 8QH. Our VAT registration number is GB774150334. 
 
 For the purpose of the Data Protection Act 1998, the data controller in respect of any personal data that you submit to us or that we collect from you is Kobalt Music Group Limited.
 
