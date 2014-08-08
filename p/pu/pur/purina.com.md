@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the purina.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625063430id_/http%3A//www.purina.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purina.com privacy policy that was archived on 2014-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140808122958id_/https%3A//www.purina.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Purina®
 
