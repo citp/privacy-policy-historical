@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cricketmove.com privacy policy that was archived on 2014-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140331032214id_/http%3A//watchlivecricket.cricketmove.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cricketmove.com privacy policy that was archived on 2014-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140808140450id_/http%3A//watchlivecricket.cricketmove.com/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Live Cricket
 
