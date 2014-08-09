@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the usabilla.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214071201id_/https%3A//usabilla.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usabilla.com privacy policy that was archived on 2014-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140809160904id_/https%3A//usabilla.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Usabilla
-
-  
-
 
 ## 1 What information is collected?
 
@@ -32,6 +29,19 @@ Our cookie policy is available at: [usabilla.com/cookie-policy](https://usabilla
 Usabilla may share non personal aggregated data with third parties. For example, Usabilla may share an aggregated overview of the number of feedback items or number of feedback buttons being displayed to business partners. Because this form of data does not identify particular users, these third parties will not be able to contact you based solely on this data.
 
 The information that we collect may be used in aggregate form in various ways to optimize and improve Usabilla’s services. We will not identify particular users while collecting and aggregating this information. We may use this information for website management, administration and security, promotional activities, and research and analysis.
+
+## 6 What measures do we take to block privacy sensitive data?
+
+Privacy is of the utmost importance to Usabilla and our clients, therefore measures can be taken to ensure that website visitors’ sensitive data remains confidential when utilizing the feedback button. The following options are available within the Usabilla tool:
+
+  * Mask (completely black out) sensitive parts of the website, so it won’t be included in screenshots;
+  * Scramble content on the website completely illegible for the sake of upholding client confidentiality;
+  * Completely exclude screenshots from the feedback solution.
+  * Exclude IP-addresses from being logged
+
+
+
+All actions taken in the above described measures are performed on the client’s end. This prevents privacy sensitive data from reaching the Usabilla servers.
 
 Usabilla collects information to integrate Usabilla Discover with other (social) services. None of this information will be shared with or sold to 3rd parties.
 
@@ -66,6 +76,3 @@ When enabled, all actions related to our service are posted to Facebook's OpenGr
 We are doing our best to protect your information from being accessed, edited, deleted, published, and abused by or to unauthorized persons. However, we cannot ensure the security and integrity of your information and can not be held responsible for any unauthorized use. 
 
 All users of our site may make any changes to their information at any time by logging into their Usabilla Discover account and going to the 'Account & Settings' page. The connection between Usabilla Discover and Twitter or Facebook can be revoked on these respective services' websites. 
-
-  
-
