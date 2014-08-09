@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the game-lab.net privacy policy that was archived on 2014-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140608084949id_/http%3A//game-lab.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the game-lab.net privacy policy that was archived on 2014-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140809045205id_/http%3A//game-lab.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Game Lab Blog
 
