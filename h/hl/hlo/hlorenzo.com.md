@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hlorenzo.com privacy policy that was archived on 2014-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140529083614id_/http%3A//shop.hlorenzo.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hlorenzo.com privacy policy that was archived on 2014-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140809145501id_/http%3A//shop.hlorenzo.com/help/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - H. Lorenzo
 
