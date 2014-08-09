@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autoinsquote.us privacy policy that was archived on 2013-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130724175404id_/http%3A//autoinsquote.us/priv.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autoinsquote.us privacy policy that was archived on 2014-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140809075743id_/http%3A//autoinsquote.us/priv.php) for the most accurate reproduction.*
 
 # 
 
@@ -118,5 +118,7 @@ If you have any questions about this privacy policy or feel that this website ha
 Note: This privacy policy applies to all of the sites we own and operate.
 
 We comply with all the stringent standards of ethical conduct set forth by the Direct Marketing Association. 
+
+Contact: 3639 Midway Drive Ste B #182 San Diego, CA 92110-5254 best.net.advertising@gmail.com. 
 
 Effective 01/01/2010
