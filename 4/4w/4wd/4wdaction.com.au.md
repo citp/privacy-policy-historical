@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4wdaction.com.au privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625125647id_/http%3A//www.4wdaction.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4wdaction.com.au privacy policy that was archived on 2014-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140809151223id_/http%3A//www.4wdaction.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Australian 4WD Action
 
