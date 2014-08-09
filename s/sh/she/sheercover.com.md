@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sheercover.com privacy policy that was archived on 2014-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140608135720id_/http%3A//www.sheercover.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sheercover.com privacy policy that was archived on 2014-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140809213025id_/http%3A//www.sheercover.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Sheer Cover Studio
 
