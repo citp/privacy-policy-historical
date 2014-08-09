@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluntcard.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625072233id_/http%3A//www.bluntcard.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluntcard.com privacy policy that was archived on 2014-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140809124025id_/http%3A//www.bluntcard.com/privacy.php) for the most accurate reproduction.*
 
 # Bluntcard.com
 
