@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opportunitymarketers.com privacy policy that was archived on 2014-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140406122710id_/http%3A//restrictedmembersonly.com/legal/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opportunitymarketers.com privacy policy that was archived on 2014-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140810201845id_/http%3A//restrictedmembersonly.com/legal/privacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
