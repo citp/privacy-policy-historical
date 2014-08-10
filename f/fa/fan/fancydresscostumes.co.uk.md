@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fancydresscostumes.co.uk privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625114902id_/http%3A//fancydresscostumes.co.uk/content/9-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fancydresscostumes.co.uk privacy policy that was archived on 2014-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140810214405id_/http%3A//fancydresscostumes.co.uk/content/9-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
