@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the townscript.com privacy policy that was archived on 2013-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131218195309id_/http%3A//www.townscript.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the townscript.com privacy policy that was archived on 2014-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140810035807id_/http%3A//www.townscript.com/privacy-policies) for the most accurate reproduction.*
 
-# Townscript - Software Platform for Events
+# Privacy Policies | Townscript
 
 ## Information Collection
 
@@ -8,7 +8,7 @@ We collect information during registration, use of the services site, communicat
 
 ## Information Sharing
 
-We will always obtain your prior specific consent before we share or disclose your personally identifiable information to any partner, and user. We are also accountable to disclose user information and the contents of the Accounts to the local law enforcement authorities under specifically defined circumstances. In case Explara service gets merged or acquired, we will be informing on the website about such developments.
+We will always obtain your prior specific consent before we share or disclose your personally identifiable information to any partner, and user. We are also accountable to disclose user information and the contents of the Accounts to the local law enforcement authorities under specifically defined circumstances. In case Townscript service gets merged or acquired, we will be informing on the website about such developments.
 
 In case your profile is public, or your details are in public domain in our site, you will receive unsolicited messages from users in townscript.com and from external sources.
 
@@ -20,7 +20,7 @@ We use 'session' cookies for a browser session, we also store cookies in your co
 
 ## IP Address
 
-When you visit Explara.com, we receive the Internet protocol (IP) address of your computer, operating system information, browser information and name of your ISP. This information is used to improve our service offerings, we are also legally accountable to pass the same information to legal authorities when requested. We also advanced web analytics, which provides information such as the URL of the site from which you came and the site to which you are going.
+When you visit townscript.com, we receive the Internet protocol (IP) address of your computer, operating system information, browser information and name of your ISP. This information is used to improve our service offerings, we are also legally accountable to pass the same information to legal authorities when requested. We also advanced web analytics, which provides information such as the URL of the site from which you came and the site to which you are going.
 
 ## Links from Our Website
 
