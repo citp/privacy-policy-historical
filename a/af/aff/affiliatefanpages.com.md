@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affiliatefanpages.com privacy policy that was archived on 2013-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131230062419id_/http%3A//affiliatefanpages.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affiliatefanpages.com privacy policy that was archived on 2014-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140810143413id_/http%3A//affiliatefanpages.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | affiliatefanpages.com
 
@@ -105,7 +105,7 @@ More information can be found via <http://www.ico.gov.uk/>
 
 Registration number: Z2876371
 
-**9)  ’No spam’ policy** ****
+**9)  ‘No spam’ policy** ****
 
 When you sign up for any service on this website you will be asked to confirm that it was you who requested the service before it is delivered.
 
