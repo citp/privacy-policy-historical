@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the puzzlemaster.ca privacy policy that was archived on 2014-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140522054247id_/http%3A//www.puzzlemaster.ca/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the puzzlemaster.ca privacy policy that was archived on 2014-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140811003851id_/http%3A//www.puzzlemaster.ca/privacy_policy.php) for the most accurate reproduction.*
 
 # Puzzle Master Inc.
 
