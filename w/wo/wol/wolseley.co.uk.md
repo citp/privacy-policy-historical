@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wolseley.co.uk privacy policy that was archived on 2014-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140420062747id_/http%3A//www.wolseley.co.uk/site-services/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wolseley.co.uk privacy policy that was archived on 2014-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140810193202id_/http%3A//www.wolseley.co.uk/site-services/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy - Wolseley UK
 
@@ -38,14 +38,14 @@ This process may include sending personal information outside of the European Ec
 
 If you have not previously objected to us using your personal information for direct marketing purposes, you may change you mind at any time be writing to or e-mailing us. This website is operated by Wolseley UK Limited of Wolseley UK, The Wolseley Center, Harrison Way, Spa Park, Royal Leamington Spa, CV31 3HH. The data protection officer who operates as the first point of contact for Wolseley UK website users is as follows:
 
-Rachel See  
+Data Protection Officer  
 Wolseley UK  
 The Wolseley Center  
 Harrison Way  
 Leamington Spa  
 Warwickshire  
 CV31 3HH  
-E-mail: [[rachel.see@wolseley.co.uk](mailto:rachel.see@wolseley.co.uk)]
+E-mail: [[webmaster@wolseley.co.uk](mailto:webmaster@wolseley.co.uk)]
 
 ## COOKIES:
 
