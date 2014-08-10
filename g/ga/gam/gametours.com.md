@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gametours.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625111041id_/http%3A//gametours.com/page.php%3Fpage%3Dprivacy-gametours-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gametours.com privacy policy that was archived on 2014-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140810150550id_/http%3A//gametours.com/page.php%3Fpage%3Dprivacy-gametours-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Game Tours
 
