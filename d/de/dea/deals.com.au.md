@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deals.com.au privacy policy that was archived on 2014-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140312143724id_/http%3A//deals.com.au/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deals.com.au privacy policy that was archived on 2014-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140810172112id_/http%3A//deals.com.au/info/privacy-policy) for the most accurate reproduction.*
 
 # Deals - Privacy Policy
 
@@ -93,6 +93,8 @@ If you purchase a product, we will disclose your name, address and other informa
 
 2.5 The Website uses social plugins (hereinafter "Plugins") of the social network Facebook, which is operated by Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA (hereinafter "Facebook"). The plugins are marked by a Facebook logo or the words "Social Plug-in by Facebook" or "Facebook Social Plugin". Find an overview of the Facebook plugins and their appearance on http://developers.facebook.com/plugins. If you request a page of our website which contains a plugin, your browser will build up a direct connection to the servers of Facebook. Facebook directly transmits the content of the plugin to your browser and from there it is incorporated in the website. By integrating the plugin, Facebook receives the information that your browser has accessed the page of our website, even if you do not have a Facebook account or if you are not logged into Facebook at the time. This information (including your IP address) will be sent directly from your browser to a Facebook server in the U.S. and stored there. If you are logged into Facebook, Facebook can assign your visit to our website directly to your Facebook account. If you interact with the plugins, for example, by pressing the "Like" button or by leaving a comment, the corresponding information is also transmitted directly to a Facebook server and is stored there. The information is also posted on Facebook and can be seen by your Facebook friends. Facebook may use this information for purposes of advertising, market research and personalised design of Facebook pages. For this purpose, Facebook creates profiles regarding usage, interests and relationships, e.g. to evaluate your use of our website with regard to the advertisements displayed to you on Facebook, to inform other Facebook users about your activities on our website and to provide further related services with the use of Facebook. If you do not want Facebook to allocate the collected data via our website to your Facebook account, you must log out of Facebook before you visit our website. To find out more about the purpose and extent to which Facebook collects, processes and uses these data, your rights and the settings available to protect your privacy, please read the Facebook privacy policy. 
 
+2.6 Where you use a credit card to purchase an offer from Cudo.com.au of which you are not the card-holder and named on the card, you unconditionally acknowledge that you have been duly authorised by the card-holder to make purchases on Cudo.com.au or in general, and that, in the event of a claim from the credit-card holder (that this was an unauthorised transaction) - you indemnify Cudo.com.au for any claim (including legal action, fees or charge-back) that Cudo may face as a result of this unauthorised purchase.
+
 ### 3\. Direct Marketing
 
 3.1 You consent to DEALS.COM.AU Using and/or Disclosing any Personal Information Collected from you for Direct Marketing purposes, whether Collected via telephone, the Website, or otherwise, but subject to the terms of this Privacy Policy.
@@ -125,9 +127,13 @@ If you purchase a product, we will disclose your name, address and other informa
 
 ### 4\. ENSURING INFORMATION IS ACCURATE AND UP-TO-DATE
 
+We take reasonable precautions to ensure that the Personal Information we Collect, Use and Disclose is complete, relevant and up-to-date.
+
+However, the accuracy of that information depends to a large extent on the information you provide. That's why we recommend that you:
+
       (a) let us know if there are any errors in your Personal Information; and 
 
-      (b) keep us up-to-date with changes to your Personal Information such as your name or address. You may change your personal details by using the relevant facility on our Website or by contacting DEALS.COM.AU care of the contact details described in Point 12. 
+      (b) keep us up-to-date with changes to your Personal Information such as your name or address. You may change your personal details by using the relevant facility on our Website or by contacting TheGourmet.com.au care of the contact details described in Point 12. 
 
 ### 5\. HOW WE PROTECT YOUR INFORMATION
 
