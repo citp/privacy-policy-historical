@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bikerornot.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625190922id_/http%3A//www.bikerornot.com/Home/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bikerornot.com privacy policy that was archived on 2014-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140810082750id_/https%3A//www.bikerornot.com/Home/Privacy) for the most accurate reproduction.*
 
 # Privacy | BikerOrNot
 
