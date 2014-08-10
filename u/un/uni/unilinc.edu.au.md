@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unilinc.edu.au privacy policy that was archived on 2014-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140227121954id_/http%3A//www.unilinc.edu.au/%3Fq%3Dcontent/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unilinc.edu.au privacy policy that was archived on 2014-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140810031017id_/http%3A//www.unilinc.edu.au/%3Fq%3Dcontent/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | UNILINC
 
