@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the happay.in privacy policy that was archived on 2014-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140312065352id_/http%3A//www.happay.in/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the happay.in privacy policy that was archived on 2014-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140810215011id_/http%3A//www.happay.in/privacy.html) for the most accurate reproduction.*
 
 # Happay · Contact Us
 
