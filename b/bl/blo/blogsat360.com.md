@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the blogsat360.com privacy policy that was archived on 2014-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140417174335id_/http%3A//blogsat360.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogsat360.com privacy policy that was archived on 2014-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140810222502id_/http%3A//blogsat360.com/privacypolicy) for the most accurate reproduction.*
 
-# India Entertainment Blog | Fashion | Business | Lifestyle | Bollywood | Technology » PRIVACY POLICY
-
-## by KIRAN SHETH
+# PRIVACY POLICY | India Entertainment Blog | Fashion | Business | Lifestyle | Bollywood | Technology
 
 **Our Commitment**  
 Blogsat360.com  is strongly committed to your right to privacy and to keeping your personal information secure. To earn your trust and confidence in our commitment, we are fully disclosing our privacy practices. We encourage you to read our privacy statement to understand what types of personally identifiable information we collect and how we use this information.
@@ -35,6 +33,3 @@ The Blogsat360.com site contains links to other websites. Blogsat360.com is not 
 
 **Notify Us**  
 If at any time you believe that Blogsat360.com or its users/members have not adhered to these principles, please notify Blogsat360.com by e-mail at contact@blogsat360.com and we will use all commercially reasonable efforts to promptly determine and correct the problem.
-
-  
-
