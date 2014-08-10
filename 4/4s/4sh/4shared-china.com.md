@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4shared-china.com privacy policy that was archived on 2014-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140310100441id_/http%3A//www.4shared-china.com/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4shared-china.com privacy policy that was archived on 2014-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140810132054id_/http%3A//www.4shared-china.com/privacy.jsp) for the most accurate reproduction.*
 
 # 4shared.com - free file sharing and storage - Privacy Policy
 
