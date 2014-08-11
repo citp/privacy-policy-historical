@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the businessgatewayinc.com privacy policy that was archived on 2014-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140610015053id_/http%3A//www.businessgatewayinc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessgatewayinc.com privacy policy that was archived on 2014-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140811181139id_/http%3A//www.businessgatewayinc.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Roadmap for Small Business Entrepreneurs
+# Privacy Policy | Roadmap for Small Business Entrepreneurs
 
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
