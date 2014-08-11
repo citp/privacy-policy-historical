@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mcafeestore.com privacy policy that was archived on 2013-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130127005436id_/https%3A//www.mcafeestore.com/store/defaults/en_GB/DisplayDRPrivacyPolicyPage/eCommerceProvider.Digital%2BRiver%252C%2BInternational%2BSARL) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcafeestore.com privacy policy that was archived on 2014-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140811043223id_/https%3A//www.mcafeestore.com/store/defaults/en_GB/DisplayDRPrivacyPolicyPage/eCommerceProvider.Digital%2BRiver%252C%2BInternational%2BSARL) for the most accurate reproduction.*
 
 # Digital River Online Store - Privacy Policy
 
