@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chalet-hire.com privacy policy that was archived on 2014-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140613065106id_/http%3A//www.chalet-hire.com/pages/index/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chalet-hire.com privacy policy that was archived on 2014-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140811163615id_/http%3A//www.chalet-hire.com/pages/index/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Chalet-Hire.com
 
