@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aspnix.com privacy policy that was archived on 2014-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140215011510id_/https%3A//aspnix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aspnix.com privacy policy that was archived on 2014-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140811030012id_/http%3A//aspnix.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ASPnix Web Hosting
 
@@ -70,4 +70,4 @@ Revisions to This Policy
 
 ASPnix reserves the right to revise, amend, or modify this policy, our Terms of Service and our other policies and agreements at any time and in any manner.
 
-Revised January 7, 2007
+Revised December 7, 2011
