@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the purchasingpower.com privacy policy that was archived on 2014-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140101040716id_/http%3A//www.purchasingpower.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purchasingpower.com privacy policy that was archived on 2014-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140811085534id_/https%3A//www.purchasingpower.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Purchasing Power
+
+## You are here
+
+[Home](https://web.archive.org/) › Privacy Policy
 
 Purchasing Power is committed to protecting your privacy because our business is based on the trust you place in us. The information we collect is gathered to ensure secure ordering and to provide a more personalized shopping experience. 
 
