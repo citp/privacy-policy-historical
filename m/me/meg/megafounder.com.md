@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the megafounder.com privacy policy that was archived on 2014-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140517235214id_/http%3A//www.megafounder.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megafounder.com privacy policy that was archived on 2014-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140812012843id_/https%3A//www.megafounder.com/privacy-policy) for the most accurate reproduction.*
 
 # Megafounder - Privacy Policy
 
@@ -92,7 +92,7 @@ Analytical Cookies: each time a user visits the site, a tool from an external se
 
 Any personal information or content that you post on public areas of the service will be publicly available and Megafounder is not responsible for how the information is used after being posted. As a result, we ask you to be careful with the information you post publicly.
 
-Project Managers may have access to personal details as delivery addresses when necessary to provide the service.
+Project Managers may have access to personal details as names, emails or delivery addresses when necessary to provide the service.
 
 **Other Terms.**
 
