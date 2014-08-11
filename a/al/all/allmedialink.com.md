@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allmedialink.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625114442id_/http%3A//allmedialink.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allmedialink.com privacy policy that was archived on 2014-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140812012955id_/http%3A//allmedialink.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Latest News, Breaking News, BBC, CNN, Fox News, ABC News, BDnews24, Famous Newspaper Of The World, Media Directory : All Media Link
 
