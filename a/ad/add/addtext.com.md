@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the addtext.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625103534id_/http%3A//addtext.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addtext.com privacy policy that was archived on 2014-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140812001909id_/http%3A//addtext.com/privacy) for the most accurate reproduction.*
 
 # AddText — Captions for your photos, quick and easy
 
