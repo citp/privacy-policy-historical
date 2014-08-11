@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realteeniegirls.com privacy policy that was archived on 2014-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140609194054id_/http%3A//join.realteeniegirls.com/information/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realteeniegirls.com privacy policy that was archived on 2014-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140811175241id_/http%3A//join.realteeniegirls.com/information/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
