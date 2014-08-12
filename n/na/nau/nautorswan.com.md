@@ -1,28 +1,123 @@
-> *The following text is extracted and transformed from the nautorswan.com privacy policy that was archived on 2003-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030604235938id_/http%3A//www.boathook.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nautorswan.com privacy policy that was archived on 2014-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140813010431id_/http%3A//www.nautorswan.com/en/privacy/%3Fiframe%3Dtrue%26width%3D800%26height%3D500) for the most accurate reproduction.*
 
-# Boathook.com : privacy policy
+# Nautor's Swan
 
-**Overview**  
-Boaternet, operating via the website boathook.com, is strongly committed to protecting the privacy of users of its interactive products and services as well as to respecting the Data Protection Acts 1984 and 1998. Throughout the website we want to contribute to providing a safe and secure environment for consumers, and in particular, to ensure that the information of young people is protected. 
+## NAUTOR HOLDING - PRIVACY POLICY
 
-While this privacy policy applies to Boathook.com, and all of the other Internet-accessible Boathook.com-branded services, we will refer here only to Boathook.com to make reading this policy easier. The purpose of this Boathook.com privacy policy is to inform you, as a welcome visitor to Boathook.com, what kinds of information we may gather about you when you visit Boathook.com, how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct, the information. Finally, please note that this policy applies only to Boathook.com and websites that carry the Boathook.com brand, and not to the websites of other companies or organisations to which we may link. 
+Legislative Decree 196 of June 30, 2003 (Data Protection Code) 
 
-Personal data will be collected, processed and used by Boathook.com and its affiliated companies for the purpose of providing the Boathook.com service and related services to you. Boaternet is an international internet business, and many of the computer systems that provide it are currently based in the United Kingdom and also the United States. Your personal data will be transferred to, processed and held in the United Kingdom and United States.
+In conformity with Article 13 of Legislative Decree 196, we wish to inform you that Nautor Holding Srl processes the personal data of its customers and those who have voluntarily provided their registration data, directly or by telephone, fax or email to our office. 
 
-**Information about all Boathook.com visitors**  
-In general, our service automatically gathers certain usage information like the numbers and frequency of visitors to Boathook.com and its areas. This information is very much like television ratings that tell the television networks how many people tuned in to a programme. We only use such data in aggregate form. This collective data helps us determine how much our customers use specific parts of our site, so we can improve our site to assure that it is as appealing as we can make it for as many of you as possible. For example, Boathook.com uses a technology nicknamed "cookies" that tells us how and when pages in our site are visited, and by how many people. Boathook.com cookies do not collect personally identifiable information and we do not combine information collected through cookies with other personally identifiable information to tell us who you are or even what your screen name or e-mail address is. We also may provide statistical "ratings" information, but never information which could identify you personally, to our Boathook.com partners about how our members, collectively, use Boathook.com. We do this so they too can understand how much people use their areas and our site in order for them to provide you with the best possible Web experience as well. 
+In conformity with the law (Article 2 - Purposes), Nautor Holding Srl guarantees that your personal data will be processed with respect for the rights, fundamental liberties and dignity of the interested party, with particular reference to confidentiality, personal identity and the right to the protection of personal data. 
 
-**Information about you**  
-Sometimes, we may specifically ask you for information about you when you sign up to use a service, or when you order a product. We will need certain information -- such as your name, Internet address or user name, billing address, credit card number -- in order to provide that service or product to you. We may also use that information to let you know of additional products and services about which you might be interested. You can easily choose not to receive such information if you don't want to by letting us know on the registration screen when you sign up for the product or service. We may ask you for information about your interests so that both you and we can take advantage of the interactivity of the online medium, but the provision of such information is always optional. 
+### Purposes for which personal data is processed
 
-**Disclosure**  
-We do not use or disclose information about your individual visits to Boathook.com or information that you may give us, such as your name, address, email address or telephone number, to any outside companies. But as we mention above, we may share with our Web site partners aggregated statistical "ratings" information about the use of Boathook.com. 
+All data provided by interested parties are exclusively processed to fulfill obligations related to the company's business and, in particular: 
 
-**Special attention to children**  
-Boathook.com takes special care to protect the safety and privacy of young people using our services. We do not specifically collect information about children and believe that children should get their parents' consent before giving out any personal information. We encourage you to participate in your child's online experience and to review our important safety tips before your child explores the Internet. 
+  * to enter registration data in the company's computer database;
+  * to calculate internal statistics;
+  * preparing technical service sheets for support and/or training;
+  * to issue delivery documents, invoices and credit memos;
+  * issuing quotations and proposals to active and/or potential clients;
+  * to issue requests for quotations and proposals to active and/or potential suppliers;
+  * to process ordinary and VAT accounting;
+  * to process collections and payments;
+  * to send commercial and promotional information about its activities, or those of its connected companies to active and/or potential clients;
+  * to exchange information about the company's economic, administrative and sales activities by telephone, mail, shipping companies, fax, e-mail and the private areas of the web site of Nautor Holding Srl;
+  * to satisfy obligations envisaged by law, regulations, Community directives and the civil and tax codes;
 
-**Boathook.com privacy policy changes**  
-If we decide to change our privacy policy for Boathook.com, we will post those changes here so that you will always know what information we gather, how we might use that information and whether we will disclose it to anyone.
 
-  
 
+### Communication and diffusion of data
+
+If necessary, the personal data of interested parties can also be communicated: 
+
+  * to all subjects who are legally entitled to access the data;
+  * to our collaborators, employees and agents in the context of their relative duties and/or any contractual obligations with them, related to the commercial relationship with interested parties;
+  * to companies that produce and/or grant licenses to use any services/products supplied, only when the communication is necessary for the use of the services/products purchased by the interested party;
+  * to post offices, shipping companies and couriers for sending documentation and/or materials;
+  * to suppliers of Unified Messaging services via the Internet, when this channel is used to send letters and messages to interested parties;
+  * to all those physical and/or legal entities, both public and private (the offices of legal, administrative and tax consultants, the offices of payroll services, judicial offices, chambers of commerce and labor offices, etc.), when the communication is necessary or functional for our activities and in the manner and for the purposes described above;
+  * to all those physical and/or legal entities, both public and private (the offices of legal, administrative and tax consultants, the offices of payroll services, judicial offices, chambers of commerce and labor offices, etc.), when the communication is necessary or functional for our activities and in the manner and for the purposes described above;
+
+
+
+### Nature of the collection and the consequences of any failure to provide
+
+For those who intend to open a commercial relationship with our company, even if purely for the purpose of obtaining information about our activities/services, providing personal data is optional; however, a failure to provide the information could make it impossible to continue the relationship, conduct it properly or fulfill legal and even tax obligations. The data are kept at our company's operating headquarters for the time required by civil and tax regulations. 
+
+### Processing methods
+
+The personal data is exclusively processed at the headquarters of Nautor Holding Sr, using both the telephone and computers and even using automated equipment for the storage, handling and transmission of the data, taking every precaution to guarantee its security and confidentiality. 
+
+### Personal data controller for processing purposes
+
+The owner of the personal data for processing purposes is Nautor Holding Srl. 
+
+At present, the data processing manager is the President of Nautor Holding Srl. 
+
+### Place of processing
+
+The personal data collected through the online services provided by Nautor Holding Srl and the other Group companies will be held and stored in Florence, Borgo SS. Apostoli 29. 
+
+All personal information is processed exclusively by technical staff specifically employed for this purpose and, occasionally, by maintenance personnel. 
+
+### The right of access to personal data
+
+The interested party has the right to know whether or not personal data about him exists, even if not yet recorded, and to receive a copy in intelligible form. 
+
+The interested party has the right to know:
+
+  * the origin, purposes and processing methods of the personal data;
+  * the logic applied, in the case of processing by computers;
+  * the contact information of the owner, managers and representative designated under article 5, paragraph 2, of Legislative Decree 196/2003;
+  * the subjects, or categories of subjects, to whom the personal data may be communicated, or that may come to know it in their capacity as designated representative in the territory of the state, managers or appointees;
+
+
+
+The interested party has the right to:
+
+  * have the data updated, corrected or, when there is an interest, supplemented;
+  * the cancellation, transformation into anonymous form or blockage of data processed in violation of the law, including that whose preservation is not necessary in relation to the purposes for which the data was collected or subsequently processed;
+
+
+
+The interested party has the right to oppose, in whole or in part:
+
+  * the processing of personal data that regards him, even though pertinent to the purpose for which it was gathered, for legitimate reasons;
+  * the processing of personal data that regards him for the purpose of sending advertising or direct sales material or for market research or commercial communications;
+
+
+
+The above rights may be exercised by an informal request to the owner and will be acknowledged without delay. A request may be sent to the owner via registered letter, fax or e-mail.
+
+### Article 7
+
+(Right of access to personal data and other rights)
+
+  * 1\. The interested party has the right to know whether or not personal data about him exists, even if not yet recorded, and to receive a copy in intelligible form.;
+  * 2\. The interested party has the right to know:
+  * a) the origin of the personal data;
+  * b) the purposes and methods of its processing;
+  * c) the logic applied, in the case of processing by computers;
+  * d) the contact information for the owner, managers and representative designated under article 5, paragraph 2;
+  * e) the subjects, or categories of subjects, to whom the personal data may be communicated, or that may come to know it in their capacity as designated representative in the territory of the state, managers or appointees;
+  * 3\. The interested party has the right to:
+  * a) have the data updated, corrected or, when there is an interest, supplemented;
+  * b) the cancellation, transformation or blockage of data handled in violation of the law, including that which it is not necessary to preserve in relation to the purposes for which the data was gathered or subsequently handled;
+  * c) certification that the operations in letters "a" and "b" were brought to the attention, also as regards their content, of those to whom the data was communicated or published, except in the case where such fulfillment is impossible or involves a use of means that is obviously disproportionate to the right protected;
+  * 4\. The interested party has the right to oppose, in whole or in part:
+  * a) the processing of personal data that regards him, even though pertinent to the purpose for which it was gathered, for legitimate reasons;
+  * b) the handling of personal data that regards him for the purpose of sending advertising or direct sales material or for market research or commercial communications;
+
+
+
+## NAUTOR HOLDING - COOKIES
+
+### Treatment of personal data - Cookies
+
+Access to some sections of this website, including requests for information by the user may require the insertion of personal data which will be processed by Nautor Holding Srl, the data controller, is in compliance with the Legislative Decree 30 June 2003, No. 196 "Code concerning the protection of personal data." 
+
+The release of personal information is a free choice of every user to this website. There is no other record of personal data without notification. 
+
+In order to allow the activate specific functions, the Site may use cookies in some instances. The user may, by choice, be informed or prevent the use of such tools by modifying ones navigation settings. 
