@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scorebig.com privacy policy that was archived on 2013-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131019114250id_/https%3A//www.scorebig.com/home/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scorebig.com privacy policy that was archived on 2014-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140813004414id_/https%3A//www.scorebig.com/home/privacy-policy) for the most accurate reproduction.*
 
 # ScoreBig - Privacy Policy
 
@@ -12,7 +12,7 @@ We are not responsible for the content or privacy practices on any non-ScoreBig.
 
 [ ](https://privacy.truste.com/privacy-seal/ScoreBig/validation?rid=5674902a-655e-4bd8-a2e4-47917a53eca3 "TRUSTe online privacy certification")
 
-ScoreBig.com has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site, www.scorebig.com. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at 1-877-SCOREBIG or via [email](http://help.scorebig.com/anonymous_requests/new). If you are not satisfied with our response you can contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint). 
+ScoreBig.com has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site, www.scorebig.com. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at 1-877-726-7324 or via [email](http://help.scorebig.com/anonymous_requests/new). If you are not satisfied with our response you can contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint). 
 
 ###  INFORMATION COLLECTION AND USE
 
@@ -83,7 +83,7 @@ As you might expect, the majority of information that we collect is obtained thr
 
 If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site, and a limited number of reminder emails. ScoreBig, Inc. stores this information for the sole purpose of sending these invitation emails and tracking the success of our referral program.
 
-Your friend may contact us at 1-877-SCOREBIG or via [email](http://help.scorebig.com/anonymous_requests/new) to request that we remove this information from our database.
+Your friend may contact us at 1-877-726-7324 or via [email](http://help.scorebig.com/anonymous_requests/new) to request that we remove this information from our database.
 
 ### SOCIAL MEDIA WIDGETS
 
