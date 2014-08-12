@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the resumebucket.com privacy policy that was archived on 2014-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140429153253id_/http%3A//www.resumebucket.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resumebucket.com privacy policy that was archived on 2014-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140812090417id_/http%3A//www.resumebucket.com/privacy) for the most accurate reproduction.*
 
 # Online Resume Storage - ResumeBucket.com
 
@@ -66,7 +66,7 @@ RESUMEBUCKET may also disclose Information when it determines it is necessary to
 
 Access to Information. 
 
-Users may modify and correct certain Information through a written request sent to ResumeBucket, LLC , 2 Wisconsin Circle, Suite 700, Chevy Chase, MD 20815. 
+Users may modify and correct certain Information through a written request sent to ResumeBucket, LLC , 2 Wisconsin Circle, 28100 US Hwy 19 N, Suite 204, Clearw2ater, FL 33761. 
 
 Changes to this Privacy Policy. 
 
@@ -78,6 +78,6 @@ At any time, a user may opt out from receiving future offers from RESUMEBUCKET b
 
 Your California Privacy Rights. 
 
-Beginning on January 1, 2005, California Civil Code Section 1798.83 permits customers of RESUMEBUCKET who are California residents to request certain information regarding RESUMEBUCKET’s disclosure of personal information for their direct marketing purposes. To make such a request, please write to: ResumeBucket, LLC , 2 Wisconsin Circle, Suite 700, Chevy Chase, MD 20815.  Within thirty days of receiving such a request, RESUMEBUCKET will provide a list of the categories of personal information disclosed to third parties for third-party direct marketing purposes during the immediately preceding calendar year, along with the names and addresses of these third parties. This request may be made no more than once per calendar year.  RESUMEBUCKET reserves its right not to respond to requests submitted other than to the address specified in this paragraph. 
+Beginning on January 1, 2005, California Civil Code Section 1798.83 permits customers of RESUMEBUCKET who are California residents to request certain information regarding RESUMEBUCKET’s disclosure of personal information for their direct marketing purposes. To make such a request, please write to: ResumeBucket, LLC , 28100 US Hwy 19 N, Suite 204, Clearw2ater, FL 33761.  Within thirty days of receiving such a request, RESUMEBUCKET will provide a list of the categories of personal information disclosed to third parties for third-party direct marketing purposes during the immediately preceding calendar year, along with the names and addresses of these third parties. This request may be made no more than once per calendar year.  RESUMEBUCKET reserves its right not to respond to requests submitted other than to the address specified in this paragraph. 
 
 Policy Last Revised: July 26, 2007 
