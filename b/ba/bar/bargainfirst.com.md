@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bargainfirst.com privacy policy that was archived on 2011-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111224121030id_/http%3A//www.bargainfirst.com%3Ftmp%3Dfishy_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bargainfirst.com privacy policy that was archived on 2014-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140812080914id_/http%3A//bargainfirst.com%3Ftmp%3Dfishy_privacy) for the most accurate reproduction.*
 
-# www.bargainfirst.com Privacy Policy
+# bargainfirst.com Privacy Policy
 
 This Privacy Policy applies to your use of  Desktop, a software application published and distributed by  ("," "we," "us" or "our"). Your privacy is important to us and this Privacy Policy reflects our concern in safeguarding it. This Privacy Policy describes our practices regarding the collection, maintenance, use and sharing of information that we collect. Our Privacy Policy may change from time to time and those changes will be available for your review on this web site. Your continued use of  Desktop after any such changes have been made will signify your assent to the changed Privacy Policy. To contact  about privacy issues, please e-mail us at .
 
@@ -23,6 +23,6 @@ Any web sites that you click to from one of our Internet search results web page
 ## Questions:
 
 Questions regarding this Software Use Privacy Policy should be directed by e-mail to  at  or, by U.S. mail, to:  
-335 Madison Avenue,  
-Suite 840, New York, NY 10017  
+356 E 74th Street,  
+New York, NY 10021  
 Attn: Privacy Officer
