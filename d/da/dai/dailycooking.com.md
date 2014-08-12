@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailycooking.com privacy policy that was archived on 2014-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140604060824id_/http%3A//www.dailycooking.com/static/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailycooking.com privacy policy that was archived on 2014-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140812032858id_/http%3A//www.dailycooking.com/static/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
