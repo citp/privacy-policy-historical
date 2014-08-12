@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vedicrishi.in privacy policy that was archived on 2014-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140311022420id_/http%3A//www.vedicrishi.co.in/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vedicrishi.in privacy policy that was archived on 2014-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140812145552id_/http%3A//www.vedicrishi.co.in/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy and Terms of Use | Vedic Rishi
 
