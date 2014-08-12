@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the resumebucket.com privacy policy that was archived on 2014-04-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140429153253id_/http%3A//www.resumebucket.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the resumebucket.com privacy policy that was archived on 2014-08-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140812090417id_/http%3A//www.resumebucket.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
                 <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">if (top.location!= self.location) { top.location = self.location.href; }</script>
@@ -75,7 +75,7 @@
     
     
     <div class="ResumeCount">
-        Resumes Online: <span class="Count">2,630,681</span>
+        Resumes Online: <span class="Count">2,632,880</span>
     </div>
     
 </div>
@@ -378,7 +378,7 @@
                     </p>
                     <p>
                         Users may modify and correct certain Information through a written request sent
-                        to ResumeBucket, LLC , 2 Wisconsin Circle, Suite 700, Chevy Chase, MD 20815.
+                        to ResumeBucket, LLC , 2 Wisconsin Circle, 28100 US Hwy 19 N, Suite 204, Clearw2ater, FL 33761.
                     </p>
                     <p>
                         <span class="sectionTitle">Changes to this Privacy Policy</span>.
@@ -408,7 +408,7 @@
                         Beginning on January 1, 2005, California Civil Code Section 1798.83 permits customers
                         of RESUMEBUCKET who are California residents to request certain information regarding RESUMEBUCKET’s
                         disclosure of personal information for their direct marketing purposes. To make
-                        such a request, please write to: ResumeBucket, LLC , 2 Wisconsin Circle, Suite 700, Chevy Chase, MD 20815.&nbsp; Within thirty days of receiving such a request,
+                        such a request, please write to: ResumeBucket, LLC , 28100 US Hwy 19 N, Suite 204, Clearw2ater, FL 33761.&nbsp; Within thirty days of receiving such a request,
                         RESUMEBUCKET will provide a list of the categories of personal information disclosed to third
                         parties for third-party direct marketing purposes during the immediately preceding
                         calendar year, along with the names and addresses of these third parties. This request
@@ -462,50 +462,6 @@ RB.tInputs.push( { 'id': 'login_email',    'default_val': 'Your Email',  'pat': 
 
 
 E.on(window, "load", function() {
-
-    var more = D.getElementsByClassName('more', 'span');
-    E.addListener(more, 'click', function() {
-        var target = this.getAttribute('showelems');
-        if(target) {
-            var targets = target.split(/,\s*/);
-            var elems = [];
-            for(var i = 0; i < targets.length; i++) {
-                var fchar = targets[i].substr(0,1);
-                var class_id = targets[i].substr(1);
-                if(fchar=='#') {
-                    elems.push(D.get(class_id));
-                }
-                else if(fchar=='.') {
-                    var tmp =  D.getElementsByClassName(class_id);
-                    elems = elems.concat(tmp);
-                }
-            }
-            if(elems.length) {
-                D.addClass(this, 'hide');
-                for( var i = 0; i < elems.length; i++) {
-                    D.removeClass(elems[i], 'hide');
-                }
-            }
-            target = this.getAttribute('hideelems');
-            if(target) {
-                elems = [];
-                var fchar = target.substr(0,1);
-                var class_id = target.substr(1);
-                if(fchar=='#') {
-                    elems.push(D.get(class_id));
-                }
-                else if(fchar=='.') {
-                    var tmp =  D.getElementsByClassName(class_id);
-                    elems = elems.concat(tmp);
-                }
-                for( var i = 0; i < elems.length; i++) {
-                    D.addClass(elems[i], 'hide');
-                }
-
-            }
-        }
-
-    });
 
 
     for(var j=0;j<RB.tInputs.length;j++) {
