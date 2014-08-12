@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youmoron.org privacy policy that was archived on 2013-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131216043205id_/http%3A//youmoron.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youmoron.org privacy policy that was archived on 2014-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140812233109id_/http%3A//youmoron.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
