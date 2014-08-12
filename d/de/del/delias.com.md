@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the delias.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626083649id_/http%3A//store.delias.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the delias.com privacy policy that was archived on 2014-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140812033817id_/http%3A//store.delias.com/category/customer%2Bservice/privacy%2Band%2Bsecurity.do) for the most accurate reproduction.*
 
 # Privacy and Security - dELiA*s
 
