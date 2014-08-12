@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the birthdays-calendar.com privacy policy that was archived on 2013-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130726215217id_/http%3A//www.birthday-calendar.com/about/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birthdays-calendar.com privacy policy that was archived on 2014-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140812103947id_/http%3A//www.birthday-calendar.com/about/privacypolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - member & reminder information never compromised
 
@@ -79,7 +79,7 @@ Users who no longer wish to receive our promotional materials may opt-out of rec
 If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.  **Questions & More Information**   
 If you have any questions or need more information regarding this Privacy Policy, please contact us at:  
 Birthday Calendar  
-2694 Bishop Drive, Suite 211  
-San Ramon, CA 94583  
+154 East Prospect Avenue, Suite B  
+Danville, CA 94526  
 [privacy@birthdays-calendar.com](mailto:privacy@birthdays-calendar.com)  
 
