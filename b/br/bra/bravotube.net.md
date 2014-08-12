@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the bravotube.net privacy policy that was archived on 2012-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120114163114id_/http%3A//www.bravotube.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bravotube.net privacy policy that was archived on 2014-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140812025420id_/http%3A//www.bravotube.net/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy / Porn Tube / BravoTube
+# Privacy Policy
 
 ###  PRIVACY POLICY 
 
-for [www.BravoTube.net](http://www.bravotube.net/)  
-Effective Date: 14 January, 2012  
+for [BravoTube.net](http://www.bravotube.net/)  
+Effective Date: 11 August, 2014  
 Last Modified: 16 December, 2011 
 
   * I. **General**
     * A.The operative parties referred to in this policy are Company and You, the User of this site. 
-      * 1. is the publisher and operator of the website(s) listed at the beginning of this Policy. Hereinafter,  shall be referred to as “Company”. When first-person pronouns are used in this Policy, (Us, We, Our, Ours, etc.) these provisions are referring to Company. Additionally, when the terms “the Site” or “Site” are used, these terms refer to the website(s) listed at the beginning of this Policy. 
+      * 1.Anycom Publishing is the publisher and operator of the website(s) listed at the beginning of this Policy. Hereinafter, Anycom Publishing shall be referred to as “Company”. When first-person pronouns are used in this Policy, (Us, We, Our, Ours, etc.) these provisions are referring to Company. Additionally, when the terms “the Site” or “Site” are used, these terms refer to the website(s) listed at the beginning of this Policy. 
       * 2. **You, the User** – As the User of this Site, this Policy will refer to the User as “You” or through any applicable second-person pronouns, such as “Yours,” etc. Hereinafter, the User of the Site shall be referred to in applicable second-person pronouns. 
     * B.This Privacy Policy describes how we use information received about You when You visit Our Site or when You subscribe to, or otherwise use Our online services. This Policy does not cover any information that We may receive from or about You through channels other than through the use of the Site. 
   * II. **Revisions to this Policy**
