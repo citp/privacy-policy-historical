@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blendr.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626170016id_/http%3A//blendr.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blendr.com privacy policy that was archived on 2014-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140812191618id_/http%3A//blendr.com/privacy) for the most accurate reproduction.*
 
 # Badoo's Privacy Policy
 
