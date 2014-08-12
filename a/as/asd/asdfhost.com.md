@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asdfhost.com privacy policy that was archived on 2013-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130911083505id_/http%3A//asdfhost.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asdfhost.com privacy policy that was archived on 2014-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140813010938id_/http%3A//asdfhost.com/privacy-policy) for the most accurate reproduction.*
 
 # ASDF Host | Privacy Policy
 
