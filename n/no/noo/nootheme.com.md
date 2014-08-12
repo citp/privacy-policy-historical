@@ -1,6 +1,16 @@
-> *The following text is extracted and transformed from the nootheme.com privacy policy that was archived on 2014-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140525070805id_/http%3A//www.nootheme.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nootheme.com privacy policy that was archived on 2014-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140812221321id_/http%3A//www.nootheme.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
+
+×
+
+The content is for members only, please subscribe a membership plan first.
+
+The content is for members only, please subscribe a membership plan first.
+
+The content is for members only, please subscribe a membership plan first.
+
+The content is for members only, please subscribe a membership plan first.
 
 At **NOOTheme** , we recognize that privacy of customer's information is very important and we commit to protect your privacy. This policy describes the ways we collect, store, use and protect your personal information. We assume that you accepted our policy when you sign up and use our services.
 
