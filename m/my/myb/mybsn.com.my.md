@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mybsn.com.my privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626174132id_/http%3A//www.mybsn.com.my/content.xhtml%3FcontentId%3D253) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mybsn.com.my privacy policy that was archived on 2014-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140812052533id_/http%3A//www.mybsn.com.my/content.xhtml%3FcontentId%3D253) for the most accurate reproduction.*
 
 # myBSN : bsn_privacy_policy
 
