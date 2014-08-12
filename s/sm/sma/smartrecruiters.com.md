@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the smartrecruiters.com privacy policy that was archived on 2014-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140328010509id_/https%3A//www.smartrecruiters.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartrecruiters.com privacy policy that was archived on 2014-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140813010549id_/https%3A//www.smartrecruiters.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SmartRecruiters
-
-**SmartRecruiters Privacy Policy**
 
 Protecting your private information is our priority. This Statement of Privacy applies to www.smartrecruiters.com and SmartRecruiters Inc. and governs data collection and usage. For the purposes of this Privacy Policy, unless otherwise noted, all references to SmartRecruiters include www.smartrecruiters.com and SmartRecruiters Inc. www.smartrecruiters.com is an ecommerce site. By using www.smartrecruiters.com, you consent to the data practices described in this statement.
 
