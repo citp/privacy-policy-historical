@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1800recycling.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625065047id_/http%3A//1800recycling.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1800recycling.com privacy policy that was archived on 2014-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140812094916id_/http%3A//www.1800recycling.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | 1800Recycling.com
 
