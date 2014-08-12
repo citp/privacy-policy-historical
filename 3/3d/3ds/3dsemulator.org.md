@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3dsemulator.org privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625120922id_/http%3A//3dsemulator.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3dsemulator.org privacy policy that was archived on 2014-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140813012331id_/http%3A//3dsemulator.org/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - 3DS Emulator
 
@@ -33,5 +33,3 @@ If there are any questions regarding this privacy policy you may contact us usin
 http://3dsemulator.org/contact.html  
 admin@3dsemulator.org  
 This policy is powered by Trust Guard PCI compliance scans.
-
-* * *
