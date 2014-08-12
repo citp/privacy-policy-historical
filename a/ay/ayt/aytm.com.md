@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aytm.com privacy policy that was archived on 2013-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130812194136id_/http%3A//aytm.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aytm.com privacy policy that was archived on 2014-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140812093243id_/http%3A//aytm.com/pages/privacy) for the most accurate reproduction.*
 
-# 
+# Online Market Research | AYTM Market Research
 
   
 
@@ -56,7 +56,7 @@ Our Web pages contain electronic images known as Web beacons (sometimes called s
 
 We may engage third parties to assist us with performing our Services. These analytic companies may be provided with access to personally identifiable information that you had previously provided us during registration, but only upon first agreeing to uphold the confidentiality of such information. 
 
-You agree that in the event that Umongous or its affiliates enters into a merger, acquisition, sale or other transaction pursuant to which, Company or any portion of Company’s assets is acquired by or assigned to a third party, your personally identifying information and other information may be disclosed to the third party both before and after the transaction, for the sole purpose of facilitating transfer of your Website account and effecting that transaction. In the event that such a transaction is consummated, you will be notified of the transaction via email and/or through a notice on our Website, and custody of your information will be transferred subject to all the terms and restrictions in this Privacy Policy. In the event the transaction is not consummated, Umongous will require the third party not to use or disclose your personally identifying information in any manner whatsoever. 
+You agree that in the event that Umongous or its affiliates enters into a merger, acquisition, sale or other transaction pursuant to which, Company or any portion of Company's assets is acquired by or assigned to a third party, your personally identifying information and other information may be disclosed to the third party both before and after the transaction, for the sole purpose of facilitating transfer of your Website account and effecting that transaction. In the event that such a transaction is consummated, you will be notified of the transaction via email and/or through a notice on our Website, and custody of your information will be transferred subject to all the terms and restrictions in this Privacy Policy. In the event the transaction is not consummated, Umongous will require the third party not to use or disclose your personally identifying information in any manner whatsoever. 
 
   
 
