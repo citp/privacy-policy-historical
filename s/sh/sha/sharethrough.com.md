@@ -1,82 +1,172 @@
-> *The following text is extracted and transformed from the sharethrough.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209194557id_/https%3A//sharethrough.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sharethrough.com privacy policy that was archived on 2014-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140812211312id_/http%3A//www.sharethrough.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Sharethrough
+# Sharethrough - Privacy Policy
+
+## Sharethrough and Privacy
+
+We at Sharethrough respect your privacy, and your privacy choices. We also try hard to customize our content to make it more interesting to our readers. We, and partners we work with (like online ad networks), do this by collecting anonymous information (which also may include anonymous precise geolocation information), from your browser as you surf the web and use your computer or device. This customization helps us provide you, our readers, with a more sophisticated and desirable product.
+
+Nonetheless, we respect your right to opt out of this type of content tailoring if you wish to do that. You can opt out through your web browser simply by clicking the “Opt Out” button below. If you do so, we will then place an opt-out cookie on your computer. 
+
+For ads inside mobile applications, you can also opt out through your mobile device itself, in which case we will cease tailoring content to your mobile device based on your device’s mobile identifier (for instance your device’s “IDFA” or “Android Advertising ID”). These opt-out tools tell us not to use your information for customizing content we serve. This may mean, for instance, that you may receive the same content multiple times rather than receiving new or targeted content. 
+
+Please also note that if you delete, block, or otherwise restrict cookies, clear your cookie cache, update your browser, override your device settings or switch devices, you will need to renew your opt-out choices. 
+
+Read Sharethrough's full privacy policy.
+
+Opt-out of targeted advertising [for desktop](https://www.google.com/settings/u/0/ads) and [for mobile](http://native.sharethrough.com/opt_out)
+
+* * *
 
 ## Privacy Policy
 
-#### Last Updated: March 2011
+Welcome to Sharethrough.com, a Website owned and controlled by Sharethrough, Inc., (“Sharethrough,” “we”, “us”, or “our”). We operate a platform through which websites, mobile application or “app” developers and similar platforms can display content on behalf of our advertisers (the “Promoted Content”). This content we display is labeled “Promoted” or similar to identify it as paid content, and may have additional logos through which we link to information, such as regarding data usage. In fact, you have may reached this policy by clicking on an icon adjacent to our Promoted Content.
 
-This privacy policy (the “Policy”) describes the privacy practices of Sharethrough Inc.  
-(“Sharethrough,” “we,” “our,” or “us”) with respect to our online video advertising services. We select,  
-target and deliver our advertisers’ ads through use of our proprietary technology and/or technology from third party technology service providers, if any (the “Sharethrough Platform”). In addition, in order to provide our users, current and prospective customers and job seekers, with information regarding our services, we maintain our corporate website, www.sharethrough.com (the “Site”). This Policy describes how we collect, use and disclose information in connection with our operation of the Sharethrough Platform and the Site.
+Sharethrough helps websites, mobile apps and web services to provide engaging and relevant third party content to their users, thus often subsidizing their free content and media. To do this, we collect and use data received from those websites and apps and their users, in anonymous form. 
 
-Sharethrough reserves the right to modify this Policy at any time by posting the changes on the Site.
+We provide this Privacy Policy to let you know what data we collect when you view the Promoted Content or when you visit this website, and how we use, share and protect that data. We value user privacy and transparency.
 
-Your continued use of the Sharethrough Platform and/or the Site constitutes your acceptance of the current posted Policy.
+**1\. What this Policy Applies To**
 
-**What Information We Collect – Personally Identifiable Information**
+This Privacy Policy applies to the website located at [www.sharethrough.com](https://sharethrough.com/) (the “Sharethrough Website”), the tools and interactive forums made available through the Sharethrough Website and the Promoted Content-sharing platform (collectively the “Services”), which includes Promoted Content offered on websites and mobile applications.
 
-Sharethrough does not collect personally identifiable information through operation of the  
-Sharethrough Platform, but does collect personally identifiable information through the Site.
+Generally, there are three categories of users of the Sharethrough Website and Services: “Publishers” who are operators or publishers of websites and apps that display the Promoted Content; “Advertisers,” who display their content across our platform, and “Users” who are individuals that use a Publisher’s website or app. By visiting the Sharethrough Website or using the Services, you are accepting the policies and practices described in this Privacy Policy.
 
-The personally identifiable information that is collected through the Site allows us to identify a potential user as a specific individual. Such personally identifiable information includes, but is not limited to your name, email address, mailing address and phone number. The Site collects personally identifiable information about users only if a user voluntarily provides that information to the Site. Personally identifiable information is collected on the Site in various instances including, without limitation: (i) through the “Contact Us” function, which requests a user to provide his, her or its name, address, email address and telephone number, as well as some additional basic information regarding the project that requires our services, (ii) a user posts a comment in the blog section of the Site, and submits his or her name and email address in connection with the posting or (iii) a user subscribes to the Site’s subscription function to obtain content updates by providing his or her email address.
+This Privacy Policy governs two sets of data practices:
 
-**What Information We Collect – Non-Personally Identifiable Information**
+  * **Privacy Practices for Users of the Sharethrough Services and Content Links**
+  * **Privacy Practices for Users of This Website**
 
-The Sharethrough Platform collects non-personally identifiable information regarding how many times a video or other content is requested by users, what content is viewed, the dates and times of the requests, and how the video or other content is interacted with by the user. In addition, IP addresses are collected in order to determine the approximate geographic location of users so that we can serve advertisements that are more relevant to that location.
 
-The Site collects non-personally identifiable information that your browser automatically sends  
-whenever you visit the Site, including information about your web request, click stream information, IP address, browser type, browser language, date and time of the request.
 
-**Cookies and Beacons**
+**Sharethrough Services Content Choices and Opt-Out**
 
-We, and some of our third-party service providers, collect non-personally identifiable information through the use of “cookies.” A cookie is a small text file containing a string of characters that is placed by an Internet server on your hard drive. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. We use persistent cookies to store the non-personally identifiable described above, and to store inferences we make based on that non-personally identifiable information about what a User’s interests might be. Most web browsers are initially set up to accept cookies, but you can change your web browser settings to cause your browser to refuse cookies or to indicate when a cookie is being sent. You can remove and/or disable cookies by following directions provided in your Internet web browser’s “help” file or menu. Please be aware, however, that some aspects of the Sharethrough Platform may not function properly if cookies are disabled.
+We believe that delivering targeted and relevant content enhances your internet and mobile experience, and subsidizes free media and other popular content. As we describe further in this Privacy Policy, we (or a partner we work with) may collect anonymous, non-Personal Information associated with your web or mobile activities (described in Section 3). We use this information to provide content that is more relevant and engaging, and less likely to be annoying – for instance, to reduce your chances of seeing the same content repeatedly, or of seeing content that is irrelevant to your interests. If you prefer that we not collect this information about your web or mobile activity for the purpose of delivering targeted advertising, you may access our web-based opt out tools here. You may also opt out of receiving mobile-based advertising based on our collection of mobile identifiers (such as the IDFA or the Android Ad ID) through your device “settings.” 
 
-We also collect non-personally identifiable information through the use of “tracking pixels,” also known as “beacons.” A tracking pixel is a transparent graphic image (usually 1 pixel x 1 pixel) that is placed on a web page and, in combination with a cookie, allows for the collection of information regarding the use of the web page that contains the tracking pixel. We use tracking pixels to tell when an advertisement has been clicked on or otherwise interacted with, and use that information to judge which advertisements are more appealing to users. In some cases, we use third party service providers to help us collect and analyze this information.
+If you opt out through your web browser, we will place an opt-out cookie on your computer. If you opt out through your mobile device, we will cease tailoring content to your mobile device based on your device’s mobile identifier or precise location coordinates. 
 
-**Third-Party Information**
+These opt-out tools tell us not to use your information for customizing content we serve. This may mean, for instance, that you may receive the same content multiple times rather than receiving new or targeted content. Please note that if you block cookies, our opt-out process may not function properly. Please also note that if you delete, block, or otherwise restrict cookies, clear your cookie cache, update your browser, override your device settings or switch devices, you will need to renew your opt-out choices.
 
-We also receive non-personally identifiable information regarding user demographics and preferences from third-parties who collect and make available such non-personally identifiable information for advertisement-serving purposes. Because we cannot control the activities of third parties, we cannot accept responsibility for your use of their services or for any use of your personal information by such third parties and we cannot guarantee that they will adhere to the same privacy and security practices as ourselves.
+If you wish to learn more about (or opt-out of) other platforms that may customize ads or content to you, and with whom we may sometimes work, you may visit the websites hosted by the [Digital Advertising Alliance](https://www.aboutads.info/) and the [Network Advertising Initiative.](https://www.networkadvertising.org/understanding-online-advertising)
 
-**How We Use Information**
+**3\. Privacy Practices for End Users Who Receive and View The Content: The Data We Collect and How We Use and Share It.**
 
-We use non-personally identifiable information for purposes of displaying advertisements to users that are more likely to be relevant to them than what we would be able to display without the use of such information. If requested by an advertiser, we may also use non-personally identifiable information to determine whether to serve an advertisement to a user and which advertisement to serve. We also use non-personally identifiable information to analyze usage of and improve our advertising services. In some cases, we use third-party service providers to assist us with such analysis. Please note that the non-personally identifiable information we know relates only to the IP address and the recent activity of the web browser software, to the extent that cookies are enabled in that software.
+An essential part of the Service is the Sharethrough platform, which helps app developers and website owners provide more relevant third party content to their users. If you are reading this policy, you are probably familiar with the way that Sharethrough helps Advertisers display Promoted Content on websites and mobile apps. When you click on Promoted Content (web or mobile), we collect certain non-Personal Information automatically for use on our platform. We may enable Publishers to use all of some of this information through the Platform for analytics purposes and we also use this information for customizing Promoted Content to you, as described below.
 
-Sharethrough does not share the personally-identifiable information that you provide to Site with any third party, other than with its service providers that help Sharethrough provide the services that yourequest.
+**(a) The Information We Collect When You View Promoted Content**
 
-Sharethrough may transfer the information it collects on the Sharethrough Platform and the Site to any successor in interest to Sharethrough (such as a company that acquires Sharethrough), or internally to one or more affiliates (such as a corporate subsidiary or parent). Sharethrough may also disclose personally identifiable information about a user if it determines that an applicable law, regulation or legal process requires it, or if Sharethrough determines that it needs to share such information to protect or enforce Sharethrough’s rights or the rights of another user.
+When you click and view Promoted Content we may collect certain Non-Personal Information about you. Non-Personal Information is information that generally cannot by itself be used to identify who you are on an individual, personal level (unlike, for instance, name/address, telephone number or even email address). If you view the Promoted Content on through a mobile application, we may collect, retain, and use the following information, which we do not link to Personal Information:
 
-**What We Disclose and Who We Disclose it To**
+  1. A device identifier such as an Apple IDFA or an Android Advertising ID; and
+  2. Geo-location data, including precise geo-location data, such as when you view Promoted Content through a mobile application;
+  3. The application that your device is using when interacting with Sharethrough content;
+  4. Other information that you voluntarily submit to us.
 
-The non-personally identifiable information we collect and receive is provided to third-party service providers that assist us in running our business operations. These include, but are not limited to, data storage providers and processing facilities. We also provide non-personally identifiable information to our network of publishers, advertisers and other third parties in order to report the performance of advertisements displayed through use of our services.
 
-**Choice**
 
-Sharethrough uses advertising cookies to improve the online experience of its users by trying to match the ads we serve to the possible preferences and interests of users and by limiting the number of times an ad is shown. By doing so, ads that Sharethrough serves may be more relevant and useful to you. However, you may opt-out of the use of Sharethrough cookies by clicking on the “Opt-Out” link at the bottom of this page. This will set an opt-out cookie on your browser that notifies our servers that no other Sharethrough cookies should be sent. Please note that “opting out” does not mean you will not see Sharethrough’s advertisements online, but that these advertisements will not be targeted based on your online user interest profile from us. Please note further that if you change your computer, web browser or delete your cookies, you will need to renew all of your opt-out choices.
+If you view the Promoted Content in a web or mobile browser, we may collect, retain and use information including: 
 
-**Security**
+  1. The type of browser and operating system you have used to access the website;
+  2. Your IP address (which is a number automatically assigned to your computer when you access the Internet and can be used to derive your general geographic location);
+  3. Information revealed by your browser when you view or open the Promoted Content, including the website you visited before clicking and viewing the Promoted Content, time stamp and user agent string, click stream information, browser type, browser language, date and time you viewed the Promoted Content. We may collect or store this information by using cookies, web beacons, and similar technologies. You can learn more about these online technologies in Section 4 below;
+  4. Other information that you voluntarily submit to us.
 
-Sharethrough uses commercially reasonable security measures that are designed to protect the security, integrity and privacy of the personally identifiable information. Please note, however, that no data security measures can be guaranteed to be completely effective. Therefore, while we strive to protect your information, please be advised that Sharethrough assumes no responsibility or liability for disclosure of your information due to errors in transmission, unauthorized third-party access or other causes beyond our reasonable control.
 
-Sharethrough’s products, services and websites are directed to, and intended for use by, adults only. We do not knowingly collect personally identifiable information from children under the age of thirteen. If we become aware that we have inadvertently received personally identifiable information from a user under the age of thirteen, we will delete such information from our records.
 
-**Updates to this Policy**
+**(b) How We Use the Information We Collect When You View Content Links.**
 
-We may occasionally update this Policy. When we do, we will also revise the effective date at the beginning of the Policy. We encourage you to periodically review this Policy to stay informed about how we collect, use and disclose information.
+We may use the above information for the following purposes:
 
-**Contacting Us**
+  1. To tailor the content we display to you, including building relevant data segments based on what you click and view (e.g., “enjoys sports,” “enjoys classic rock”) and when or how many times you have viewed it;
+  2. To coordinate the content that we display to you across devices, including across mobile and web-based platforms, by making anonymous inferences about that device linkage;
+  3. To better understand how the Service is being used and improve the Service, including to create and share with our customers (and related third parties) aggregated and analytical models regarding how, when and by whom Content is viewed – for instance, if certain ads are viewed more often at certain times, or by certain audiences;
+  4. To provide insights to our customers (and related third parties) regarding website or mobile ad campaign optimization, ad placement or frequency metrics – for instance, to help customers understand whether and why certain ads performed well or not, and how those ads relate to other information that may be known about a user;
+  5. To help us ensure that the Service is functioning properly;
+  6. For other anonymous ad delivery and reporting purposes not specifically listed above;
+  7. For any other purpose disclosed to you at the time your information is collected.
 
-If you have any questions, comments or concerns about this Policy, please email us at  
-[[privacy@sharethrough.com](mailto:privacy@sharethrough.com)]. You may also contact us by calling (415) 644-0054 or sending a letter to: 
 
-Sharethrough, Inc.
 
-Attention: Privacy Inquiries
+**(c) How we Share the Information We Collect When You View Content Links. We may share information collected relating to the Content Links, as follows:**
 
-244 Jackson Street, Floor 2
+  1. Affiliates and Partners. We may share your non-Personal Information with our affiliates — companies that control, are controlled by, or are under common control with us — as well as select partners and service providers who help us offer our Services. We may also share this information with Publishers, Advertisers and other third party service provides (such as data management platforms and ad networks) in order to provide our Services. These entities may, for instance, use your information to make or help us make predictions about your interests, and may provide you with offers, promotional materials, and advertisements.
+  2. Service Providers. We may share any information (including Personal Information you provide to us, such as through this website) with entities that provide services to us, including companies that provide payment processing, customer and web support, web analytics, data processing, data enhancement and customer insights, advertising, email distribution, and other services.
+  3. Other Parties When Required by Law or as Necessary to Protect Our Services. We may disclose your information (including Personal Information) to other parties in order to: 
+    * protect the legal rights or property of Sharethrough, our affiliates, and sites or services we work with;
+    * protect the rights, safety and security of our users, ourselves, or any other person or entity;
+    * prevent fraud (or for risk management purposes); or
+    * comply with or respond to the law or legal process or a request for cooperation by a government entity, whether or not legally required.
+  4. Other Parties in Connection With a Transfer of Assets. If we make a sale or transfer of assets, or are otherwise involved in a merger or transfer, or in the unlikely event of bankruptcy, we may transfer your information as part of that transaction.
+  5. We may aggregate your Non-Personal Information with the Non-Personal Information of others and share that aggregated information without restriction, including with Publishers and Advertisers, such as for analytics purposes or to help them learn more about their customers and users.
 
+
+
+**4\. Cookies, Web Beacons, and Similar Technologies**
+
+This section provides more information about some of those technologies and how they work.
+
+(a) Cookies. Cookies are small text files that websites and other online services use to store information about users on the users’ own computers. For instance, cookies can be used to store sign-in credentials so that you don’t have to enter them each time you return to a website, or to store other information to make web viewing more customized or efficient upon future visits. Cookies also may store a unique identifier tied to your computer so that web services and content and advertising networks can recognize you across visits to different websites. You can configure your internet browser to warn you each time a cookie is being sent or to refuse all or certain cookies completely.
+
+(b) Sharethrough may use or support cookies as follows:
+
+  1. To collect information about your browsing activities in order to deliver the Services; 
+  2. To relate the information collected by cookies to information we obtain from you directly (such as through this Website) or from commercially available sources;
+  3. To work with third parties that help us serve Content Links (through our Services or across the internet) or provide other services to us, such as providing users the ability to view or comment on content or tracking site usage statistics;
+
+
+
+(c) Web beacons. We may use technologies called “Web beacons” that communicate information from your Internet browser to a web server. Web beacons can be embedded in web pages, videos, or emails, and can allow a web server to read certain types of information from your browser, check whether you have viewed a particular web page or email message, and determine, among other things, the time and date on which you viewed the Web beacon, the IP address of your computer, and the URL of the web page from which the Web beacon was viewed. We may use web beacons for a variety of purposes, including to analyze the use of the Services and in conjunction with cookies to provide content that is more relevant to you.
+
+**5\. Privacy Practices for Users of this Website**
+
+**(a) The Information We Gather on the Website and How We Use it:**
+
+The Sharethrough Website itself is primarily directed to Publishers and Advertisers, but we welcome Users who want to know more about our Services. When you access the Website or Services, we may collect the following information:
+
+  1. Personal Information. When you set up an account with us (for instance, to sign up as a Publisher), we may request and you may provide certain “Personal Information” to us – that is, is information that may be used to directly contact or identify a person. This may include your name, postal address, e-mail address, or phone number, and other information associated with this Personal Information. We collect Personal Information from you when you knowingly provide it, such as when you register as an Advertiser or Publisher on the Website, communicate with us and/or or request information. We may use your Personal Information to administer your account and provide you services, to send communications and administrative emails, to respond to your inquiries, and to send marketing and product update messages.
+  2. Non-Personal Information. Whether or not you sign up for an account or provide us with Personal Information, we may collect other Non-Personal Information when you visit our Website. This may include: 
+    1. The type of browser and operating system you have used to access the website;
+    2. Your IP address (which is a number automatically assigned to your computer when you access the Internet and can be used to derive your general geographic location);
+    3. What part of our Website you visit, click and view, and how long you view them;
+    4. Other information that you submit to us.
+
+
+
+We may collect or store the above information by using cookies, web beacons, and similar technologies, and may target or retarget ads to you using those cookies, device identifiers, or similar technologies, when you browse the Internet or use your mobile device. 
+
+**(b) Accessing and Controlling Our Use of Your Personal Information:**
+
+If you provide Personal Information when registering for our Website, you may access and modify that information at any time by visiting your account settings. While we would be sorry to see you go, you can delete your account at any time by contacting support@Sharethrough.com. Keep in mind, however, that even if you delete your account, we may retain your Personal Information to comply with laws, prevent fraud, resolve disputes, troubleshoot problems, assist with any investigations, enforce our Terms of Use, and take other actions otherwise permitted by law. There may be residual Personal Information that remains within our databases, access logs, and other records. In addition, we are not responsible for updating or removing your Personal Information already disclosed to third parties who have been provided information as permitted by this Policy. In addition, You can opt out of receiving certain email communications from the Website by clicking the “Unsubscribe” link at the bottom of each email. Please note that even if you unsubscribe or opt-out, we may still send you communications related to your use of the Service.
+
+**6\. MISCELLANEOUS TERMS**
+
+**(a) Information Security, Retention, and Data Integrity**
+
+We take security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. However, no security safeguard is 100 percent foolproof, and we are unable to guarantee that the security measures we take will not be penetrated or compromised or that your information will remain secure under all circumstances.
+
+**(b) Children**
+
+We do not knowingly collect or maintain Personal Information from individuals who are under 13 years of age, and no portion of our Website or Services is designed to attract people under the age of 13. Protecting the privacy of children is important to us: if we learn that a user is under the age of 13, we will take steps to remove that user’s Personal Information from our databases.
+
+**(c) Links to Other Websites**
+
+While we may link to another website or service through this Website, or allow others to share content on them, that is not an endorsement, authorization or representation that we are affiliated with that third party, nor is it an endorsement or acknowledgement of their privacy practices. Other websites and services follow different rules regarding the use or disclosure of the personal information. We encourage you to read the privacy policies or statements of the other websites you visit.
+
+**(d) International Users**
+
+The Website and Services are hosted in the United States. If you access the Website or Services from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure that differ from United States laws, you understand that through your continued use of the Website or Services, you may be transferring your Personal Information to the United States and if so, you consent to that transfer. Additionally, you understand that your Personal Information may be processed in countries (including the United States) where laws regarding processing Personal Information may be less stringent than in your country.
+
+**(e) Changes to this Privacy Policy**
+
+This Privacy Policy may change from time to time, which may occur through our posting of new terms, made effective after a reasonable period of time.
+
+**(f) Enforcement, Questions, and Complaints**
+
+If you have any inquiries or concerns regarding this Privacy Policy or our privacy practices, please contact us by emailing us at [privacy@sharethrough.com](mailto:privacy@sharethrough.com) or writing to us at:
+
+Sharethrough, Inc.  
+Attention: Privacy Inquiries  
+394 Pacific Ave, 5th Floor  
 San Francisco, CA 94111
 
-Opt-out of targeted advertising for desktop and [for mobile](http://native.sharethrough.com/opt_out)
-
-**You have successfully opted out of targeted advertisements at Sharethrough.com.**
+Last Updated: July 2014
