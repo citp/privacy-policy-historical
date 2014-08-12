@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revtrak.net privacy policy that was archived on 2012-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120131153207id_/http%3A//www.revtrak.com/company/security/our-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revtrak.net privacy policy that was archived on 2014-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140813005116id_/http%3A//www.revtrak.net/company/security/our-privacy-policy) for the most accurate reproduction.*
 
 # RevTrak - Privacy Policy | Online Processing Security | K12 School & City Payment Solutions
 
@@ -44,7 +44,7 @@ We also require that any personally identifiable consumer card holder informatio
 
 ## Account Information and Preferences
 
-RevTrak gives you the ability to edit your RevTrak Account Information and preferences at any time by using the Web Store Intranet Settings, or by emailing us at [support@revtrak.com](mailto:support@revtrak.com). 
+RevTrak gives you the ability to edit your RevTrak Account Information and preferences at any time by using the Web Store Intranet Settings, or by contacting us via our [E-Z Help online portal](http://ezhelp.revtrak.com/helpspot/). 
 
 ## Changes to this Privacy Policy
 
