@@ -1,74 +1,49 @@
-> *The following text is extracted and transformed from the geron.org privacy policy that was archived on 2014-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140604190331id_/http%3A//www.geron.org/component/content/article/380) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geron.org privacy policy that was archived on 2014-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140813215505id_/https%3A//www.geron.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy Statement
+# The Gerontological Society of America
 
-| 
+**_Who We Are_**
 
-###### PRIVACY POLICY STATEMENT
+This is The Gerontological Society of America's ("GSA") Internet Privacy Policy. You can write to us at 1220 LStreet, NW, Suite 901, Washington, DC, 20005. We can be reached by email at [geron@geron.org](mailto:geron@geron.org), or you can call us at 202-842-1175.
 
-This is the website of The Gerontological Society of America (GSA).
+GSA values individual privacy and we want to give our website visitors the opportunity to know what information we collect about them and how they can limit the use of personally-identifiable information beyond the purposes for which they first provided it. At all times, however, GSA reserves the right to disclose information where required by law or to comply with valid legal process (such as a search warrant, subpoena or court order), to protect GSA's rights or property, including without limitation in the event of a transfer of control of GSA or substantially all of its assets, or during emergencies when safety is at risk.
 
-GSA respects the privacy of its members and other visitors to its website. We have established this privacy policy to insure the confidence of members and visitors of this site; and to demonstrate our commitment to fair information practices and the protection of privacy. This privacy policy may be updated from time to time in accordance with the notification requirements set forth below. 
+Whenever we change our policy, we will give reasonable notice by posting a notice on our home page. Since these policy change notices last only for a limited time, however, you should check this Privacy Policy regularly to see if there have been any changes.
 
-Our postal address is:  
-1220 L Street, N.W.  
-Suite 901  
-Washington, D.C. 20005
+**_Data We Collect and How We Use It_**
 
-We can be reached via our [Contact Us](http://www.geron.org/About%20Us/Contact%20Us) form or you can reach us by telephone at 202-842-1275.
+**Personally Identifiable Information**
 
-GSA will ensure all email promotional announcements contain a marketing-specific subject line, concise promotional copy, accurate reply instructions, appropriate legal disclaimers, and unsubscribe instructions. 
+We collect your email address if you communicate with us by email, as well as other information that you might supply voluntarily, such as survey information.
 
-GSA will honor in a timely manner all "unsubscribe" requests by properly coding the database. GSA will not share, rent, or sell member email list to other parties for the purposes of promoting outside products or services or for any reason whatsoever. 
+If you purchase a product or service at our site, we will also ask for your credit card number or other account number you wish to be charged. We do not give out your credit card or other account information to third parties unless you authorize us to do so or if it is necessary to fulfill our responsibilities, including, but not limited to, delivering a product or service you order.
 
-GSA makes its membership list available for rental for one-time use to other associations or companies that have products or services that we deem to be of interest to our members. Additionally, GSA will make its conference attendee list available to exhibiting companies for one-time use. If you are a GSA member or conference attendee and do not wish to have your name included in these rented lists, please contact us through our [Contact Us](http://www.geron.org/About%20Us/Contact%20Us) form with your request. 
+We may use this information to respond to an email or other inquiry or request, to help improve our website and our services, to customize your experience at our website, or to send updates or notices about our organization and the products we offer that we think may be of interest to you. We may also combine this information with other generally or publicly available information to help us identify visitors' preferences or interests. We may provide information that identifies you to companies that assist us in these activities, such as helping us fulfill your request for a product, service or information.
 
-For each visitor to our site, our Web server automatically recognizes the consumer's domain name and email address (where possible). We collect the email addresses of those who post messages to our listserv; communicate with us via email;  post to our chat areas; volunteer information during surveys and/or site registrations, and submit payment information (e.g., credit card number and billing address). Data collected is used to track the areas of our site that are most frequently visited to help us continuously improve this site. In addition, this data can help diagnose problems with our server.
+GSA collects information from its members (including names, addresses, business phone numbers, business fax numbers, and email addresses) for inclusion in a membership directory that is distributed to the association's members and to purchasers of the print directory. Access to directory information is also available only to GSA's members on GSA's website. Further, with the members' express approval, GSA may occasionally provide, sell, or rent limited data to third parties, including companies that offer products and services for sale to GSA's members. This limited data includes names, job titles, companies/organizations, and business addresses, but do not include business phone numbers, business fax numbers, or email addresses.
 
-GSA periodically conducts online surveys about its service and products. GSA will ask members and users for contact information, such as email address, address, phone number; and demographic information, such as age, sex, race, and ethnicity. We may use contact data from our surveys to send information about our society. 
+**Children's Privacy**
 
-## From Members, Conference Registrants, Purchasers of Books and Other Materials, and Services
+GSA's website is intended for adults. GSA does not knowingly collect personal information from children under the age of 13. If GSA obtains knowledge that it has personally identifiable information about a child under 13 in retrievable form in its files, GSA will delete that information from our existing files.
 
-Individuals may be asked to provide personal information in order to gain access to the members-only portion of this site or in response to other requests. Information such as name, organization, address, phone, and email may also be submitted through membership applications, conference registrations, publication orders, subscriptions, and other products and services. In addition, in order to receive certain communications from GSA, such individuals may be asked to provide contact information such as their name, address, phone number, and email address so that they can become members of a communication or electronic publication distribution list. 
+**Cookies & Computer-Related Information**
 
-Additionally, for some emails sent in HTML format we will collect specific information regarding what the recipient does with that email. For those emails, GSA will monitor whether a recipient subsequently clicks through to links provided in the message. Other information collected through this tracking feature includes: email address of a user, the date and time of the user's "click," a message number, name of the list from which the message was sent, tracking URL number, and destination page. GSA only uses this information to enhance its products and distribution of those products to its members. This information is not sold or distributed in any other manner. 
+GSA does not enable "cookies" on our website with one exception. A cookie is used in website system administration to keep track of movement of an individual user from one screen to another. This information may be used by our staff to detect and resolve website problems and to assist with customer support. We do not collect any personally identifiable information about site visitors in this process.
 
-## From General Users
+Our web server automatically collects information from your computer and navigation patterns when you visit our site, including your Internet Protocol (IP) address, the computer's operating system, the type of browser you use, and the specific web pages visited during your connection. We may also track data such as the total number of visits to our website and the number of visitors to each page of our website.
 
-GSA does not collect any personal information from users browsing its site. Only aggregate data -- such as the number of hits per page -- are collected. Aggregate data are only used for internal and marketing purposes and do not provide any personally identifying information.  We also collect information relating to your IP address, which only provides information on a particular computer, and not an individual at that computer. 
+We may use this information, in aggregate form, for system maintenance and to better understand how our visitors use our site and services so that we can make them better. GSA may also share statistical or demographic information in aggregate form with third parties for marketing or research purposes. This aggregate data will not contain any information that personally identifies you.
 
-Cookies are files that contain information created by a web server that can be stored on a user's hard disk for use either during a particular session ("per-session" cookie) or for future use ("persistent" cookie). GSA uses cookies only to facilitate automated activity, store and track passwords, determine appropriate solicitations, and review navigation patterns. Cookies are not used to disseminate significant information about users over the Internet or to analyze any information that users have knowingly or unknowingly provided. 
+**_How You Can Control and Update Data About You_**
 
-Moreover, GSA may use a cookie to store a unique user ID in our system. Any such cookie will not collect personal information, cannot read data off your disk, and cannot read cookie files that were created by other websites.
+We want to be sure that we keep only the most accurate and up‑to‑date information about you in our records. Therefore, whenever you believe that your contact information needs to be updated, you can email us at [geron@geron.org](mailto:geron@geron.org) to correct or update your contact information.
 
-You may remove yourself from a distribution list by following the procedures provided when you subscribed, following the unsubscribe directions in the email, or contacting us through our [Contact Us](http://www.geron.org/About%20Us/Contact%20Us) form.
+You may choose at any time to remove your name, telephone and fax numbers, and postal and email addresses from the lists we use to send notices or updates and elect not to receive correspondence from us by emailing at [geron@geron.org](mailto:geron@geron.org).
 
-This website has industry standard security measures in place to protect the loss, misuse and alteration of the information under our control. While there is no such thing as “perfect security” on the Internet, we will take reasonable steps to insure the safety of your personal information.
+Users may request that GSA refrain from disclosing to third parties the data it collects on its membership application form or any other form on which users are providing information by refraining from checking the "opt-in" box that appears on each form on which a user provides information. Alternatively, users may contact GSA at [geron@geron.org](mailto:geron@geron.org).
 
-This site contains links to other websites. Please be aware that we are not responsible for the privacy practices of such other websites. We encourage our members and visitors to be aware when they leave our site, and to read the privacy statement of any linked site.
+Other Internet sites you visit — including those linked from the GSA website — may have their own privacy policies or no policy at all. Other websites might use personal information differently than our policy permits. We strongly encourage you to review the privacy policies of any site before providing any personal information.
 
-Upon request, we provide site visitors with access to information that we have collected and that we maintain about them. GSA members can review and modify their profile using the [Update Member Profile Form](http://www.geron.org/Membership/Update%20Member%20Profile). All other user can request to review their personal information collected by this site, please contact our webmaster using our [Contact Us](http://www.geron.org/About%20Us/Contact%20Us) form. Please specify the information being requested; and include in the email your name, address, and telephone number. Consumers can have this information corrected by sending us email at the above address.
+**_Data Integrity and Security_**
 
-If you supply us with your postal address online, you may receive periodic mailings from us with information on new products and services or upcoming events.   If you do not wish to receive such mailings, please contact our webmaster using our [Contact Us](http://www.geron.org/About%20Us/Contact%20Us) form. Please provide us with your exact name and address. We will be sure your name is removed from the list we share with other organizations 
-
-Persons who supply us with their telephone numbers online may receive telephone contact from us with information regarding new products and services or upcoming events. If you do not wish to receive such telephone calls, please let us know by sending us email at the above address.
-
-GSA’s website contains areas and forms that require user and member registration to give us contact information (e.g., their name and email address), unique identifiers (e.g., GSA member number), financial information (e.g., account or credit card numbers), and demographic information (e.g., ZIP code, age, or special interest area). 
-
-GSA does not disclose credit card account information provided by its members and visitors. When members and visitors choose to pay using their credit cards, GSA submits the information needed to obtain payment. Credit card transactions are maintained by a company called Authorize.net. All information sent to Authorize.net is encrypted, which will protect it against disclosure to third parties. When we receive your order, it is kept encrypted until Authorize.net is ready to process it. GSA does not retain any information concerning your credit card issuer, card number, expiration date or cardholder name, and Authorize.net does not provide GSA with access to this information. We only have access to the last four digits of your card number and the purchase amount once a transaction has been approved. Please review [Authorize.net’s privacy and security practices](http://authorize.net/company/privacy/). 
-
-Financial information that is collected is used to bill the user for products and services. Unique identifiers (such as membership number) are collected to verify the user's identity and that users qualify for various GSA-member discounts and promotions. Demographic and profile data is also collected at our site. All data is only used for GSA’s purposes. 
-
-We may also employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and email, removing repetitive information from customer lists, analyzing data, providing marketing assistance (including direct and targeted marketing), processing credit card payments, and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes.
-
-In certain circumstances, we may share your information with trusted service providers that need access to your information to provide operational or other support services. We also may provide information to regulatory authorities and law enforcement officials in accordance with applicable law or when we otherwise believe in good faith that the law requires it.
-
-GSA hosts two online job boards operated by JobTarget. For more information how information is used on that site, please refer to JobTarget’s [Terms and Conditions of Use](http://www.jobtarget.com/c2/tou.cfm). 
-
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice.  If our information practices change at some time in the future, we will post the policy changes to our website to notify you of these changes and we will use for these new purposes only data collected from the time of the policy change forward. If you are concerned about how your information is used, you should check back at our website periodically.
-
-Please contact our webmaster using our [Contact Us](http://www.geron.org/About%20Us/Contact%20Us) form if you feel that your privacy has been infringed upon. We will make every effort to resolve this problem.  
-
-
-   
----|---
+We use state‑of‑the‑art technology to keep any information you provide as secure as possible. We also have in place privacy protection control contractual obligations with our vendors designed to ensure that personal data is protected from unauthorized access or disclosure. All GSA employees must abide by GSA's Privacy Policy. Only authorized employees are permitted to have access to personally-identifiable data about website visitors, and that access is limited to what is reasonably needed to perform an employee's responsibilities, such as providing updates or notices or customer service. Employees who violate our privacy policies are subject to disciplinary action, up to and including termination.
