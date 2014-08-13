@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the noah-conference.com privacy policy that was archived on 2014-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140611204204id_/http%3A//www.noah-conference.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noah-conference.com privacy policy that was archived on 2014-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140813092225id_/https%3A//www.noah-conference.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Terms and Conditions - NOAH Conference
 
@@ -48,7 +48,7 @@ This website uses Google Analytics, a web analytics service provided by Google, 
 
 #### NOAH Conference Event Refund/Cancellation Policy
 
-  * Unless specifically stated on registration materials, the deadline to receive a refund for your registration is one month after the date of purchase.
+  * Unless specifically stated on registration materials, the deadline to receive a refund for your registration is one month after the date of purchase and up to 4 weeks pre event.
   * A cancellation fee of 15% of the initial ticket price is applied to all cancellations..
   * Cancellations received after the stated deadline will not be eligible for a refund.
   * Refunds will not be available for registrants who choose not to attend an event.
