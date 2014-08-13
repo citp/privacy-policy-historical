@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the article-voip.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214100122id_/http%3A//www.article-voip.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the article-voip.com privacy policy that was archived on 2014-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140813042657id_/http%3A//www.article-voip.com/privacy.php) for the most accurate reproduction.*
 
 # Telecommunication articles library
 
