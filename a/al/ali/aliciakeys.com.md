@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aliciakeys.com privacy policy that was archived on 2014-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140125115204id_/http%3A//www.mozes.com/product/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aliciakeys.com privacy policy that was archived on 2014-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140813020103id_/http%3A//www.mozes.com/product/privacy-policy) for the most accurate reproduction.*
 
-# ePrize, formerly Mozes — The Leader in Mobile Engagement
+# HelloWorld, formerly Mozes — The Leader in Mobile Engagement
 
 Privacy Policy
 
