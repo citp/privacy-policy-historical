@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everquote.com privacy policy that was archived on 2014-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140614031129id_/http%3A//www.everquote.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everquote.com privacy policy that was archived on 2014-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140813224318id_/http%3A//www.everquote.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | EverQuote.com
 
@@ -68,4 +68,5 @@ If we change our privacy practices, we will post a revised version of the Policy
 
 **Contact Information**
 
-If you have any questions or concerns regarding this policy, you should first send an email to compliance@adharmonics.com. You may also contact us via regular mail at: EverQuote.com, 210 Broadway, Suite 302, Cambridge, MA 02139. If you would prefer to contact us via phone, please call 617-466-9231
+If you have any questions or concerns regarding this policy, you should first send an email to compliance@adharmonics.com. You may also contact us via regular mail at: EverQuote.com, 210 Broadway, Suite 302, Cambridge, MA 02139. If you would prefer to contact us via phone, please call 617-466-9231  
+
