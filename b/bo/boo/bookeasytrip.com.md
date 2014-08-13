@@ -1,19 +1,19 @@
-> *The following text is extracted and transformed from the bookeasytrip.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625055044id_/http%3A//www.bookeasytrip.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookeasytrip.com privacy policy that was archived on 2014-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140813073417id_/http%3A//www.easemytrip.in/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - BookEasyTrip.com
+# Privacy Policy – EaseMyTrip.in
 
-**Privacy Policy**
+EaseMyTrip.in is a website of Easy Trip Planners Pvt. Ltd and through this privacy statement, we respect the privacy of everyone with whom we have an ongoing business association of offering products, services, or information. This Privacy Policy provides the users a faith in us associated with the usage and protection of their personal information provided by them. This personal information includes names, mailing addresses, phone & mobile numbers, e-mail IDs, credit/debit card numbers, and other personal details. Being a reliable travel agent, EaseMyTrip.in does not reveal any personal information of its clients to anybody. 
 
-BookEasyTrip.com, as being the dependable & reputed travel portal of India, respects your privacy. The 'Privacy Policy' is intended to provide the users of this website the faith associated with the usage and protection of their personal information collected by them. This personal information may include their names, addresses, telephone numbers, e-mail IDs, credit card numbers, and various details. We, as being a trusted name, do not involve in spreading out the personal information of our clients for any reason.   
-Well, just to visit our website, you don’t need to provide any personal information such as mobile no or Email-id. We explore the Internet address of the domains from which people visit our website and study these data for trends and statistics, but the user remains unidentified.   
-We only share the personal information of our clients with other companies/parties/people if:
+For visiting our website, you don't need to provide your personal information like mobile no or Email-id. Instead of tracking personal records of our visitors; we believe in enhancing the performance of our each page. This way, we provide better services to our users without knowing their identity. 
 
-  * They have given permission to share their information.
-  * We have to share it for making available the products & services demanded by them.
-  * We have to answer back to the request of any government agency/authority or officer or
-  * We have to follow the legal notices.  
+We share personal information of our clients with other companies/parties/people in rarest circumstances. These circumstances include:
 
+If user permits to share his information
 
+To make the demanded products & services available 
 
-Our privacy policy is not completely unchanging it may vary according to the requirements and situation. However, we ensure you that your privacy will not be disclosed unless in rare circumstances.   
-BookEasyTrip.com takes some appreciative steps to protect the information of its users. Modern technology, various security features and strict policy guidelines used by the website safeguards the privacy of your personal identity and stops from unauthorized access or any discloser. 
+On order of any government agency/authority or officer or to follow the legal notices 
+
+Through its privacy policy, EaseMyTrip.in makes sure that the information of its clients does not reveal except some special circumstances. 
+
+We take every initiative to protect the information of our users. Taking different security measures, using modern technology, and with strict guidelines, we protect privacy of our clients and safe it from any unauthorized access.
