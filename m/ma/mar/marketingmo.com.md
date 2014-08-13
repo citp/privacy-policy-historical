@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marketingmo.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325232134id_/http%3A//www.marketingmo.com/privacy-policy-and-security-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingmo.com privacy policy that was archived on 2014-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140813041308id_/http%3A//www.marketingmo.com/privacy-policy-and-security-statement) for the most accurate reproduction.*
 
 # Privacy Policy | Marketing MO - A Comprehensive Marketing Planning App
 
