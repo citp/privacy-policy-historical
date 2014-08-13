@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nigerianseminarsandtrainings.com privacy policy that was archived on 2013-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130827122759id_/http%3A//www.nigerianseminarsandtrainings.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nigerianseminarsandtrainings.com privacy policy that was archived on 2014-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140813034512id_/https%3A//www.nigerianseminarsandtrainings.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy: Nigerian Seminars and Trainings.com
+# Privacy Policy: Nigerian Seminars and Trainings
 
 This privacy policy sets out how Nigerian Seminars and Trainings.com (subsequent referred to as us/we) uses and protects any information that you give to us when you use this website.  
 Nigerian Seminars and Trainings.com is committed to ensuring that your privacy is protected. If we ask you to provide certain information by which you can be identified when using this website; you can be assured that it will only be used in accordance with this privacy statement.  
