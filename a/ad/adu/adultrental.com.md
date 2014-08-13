@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adultrental.com privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617195125id_/http%3A//www.adultrental.com/exit/privacy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adultrental.com privacy policy that was archived on 2014-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140813222533id_/http%3A//www.adultrental.com/exit/privacy/index.html) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
@@ -20,7 +20,6 @@ Epoch, CC Bill, Prolast and iBill are our credit card processors. Web Transactio
 
   * Epoch's Privacy Policy can be viewed by [clicking here](https://epoch.com/billingsupport "Link opens in new tab").
   * CC Bill's Privacy Policy can be viewed by [clicking here](http://about.ccbill.com/html_forms/privacy_policy-english.html "Link opens in new tab").
-  * iBill's Privacy Policy can be viewed by [clicking here](http://www.ibill.com/About/Legal.cfm#Privacy "Link opens in new tab").
   * WTS' Terms & Conditions can be viewed by [clicking here](http://www.wtsbank.com/wts_terms.htm "Link opens in new tab").
 
 
