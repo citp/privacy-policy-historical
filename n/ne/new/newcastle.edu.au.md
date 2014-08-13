@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newcastle.edu.au privacy policy that was archived on 2014-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140507095721id_/http%3A//www.newcastle.edu.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newcastle.edu.au privacy policy that was archived on 2014-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140813070734id_/http%3A//www.newcastle.edu.au/privacy) for the most accurate reproduction.*
 
 # Privacy / The University of Newcastle, Australia
 
@@ -10,7 +10,7 @@ The University of Newcastle is committed to protecting and maintaining the priva
 
 Further information on privacy at UoN can be found in the [University's Privacy Management Plan](http://www.newcastle.edu.au/policy/000258.html) and on the University's privacy site. The Privacy Management Plan outlines the University's responsibilities under the [NSW Privacy and Personal Protection Act 1998](http://www.legislation.nsw.gov.au/fullhtml/inforce/act+133+1998+FIRST+0+N) and the [Health Records and Information Privacy Act 2002](http://www.austlii.edu.au/au/legis/nsw/consol_act/hraipa2002370).
 
-If you have any further questions with regard to this notice please contact the University's Privacy Office at privacy@newcastle.edu.au or on +61 2 4921 5806
+If you have any further questions with regard to this notice please contact the University's Privacy Office at privacy@newcastle.edu.au
 
 ###  **Visiting the Website**
 
@@ -78,4 +78,4 @@ The University website hosts some interactive applications. Please be advised th
 
 If you wish to access or amend personal information the University holds/may hold, please contact the relevant division or school, the Human Resource Services office, or the Student Hub, as appropriate.
 
-The [Complaints and Information Management Office](mailto:complaints@newcastle.edu.au) can also assist you to access or amend your information, or with any other privacy related queries.
+The University's Privacy Office can also assist you to access or amend your information, or with any other privacy related queries.
