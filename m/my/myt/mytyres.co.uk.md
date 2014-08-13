@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mytyres.co.uk privacy policy that was archived on 2014-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140301121605id_/http%3A//www.mytyres.co.uk/datenschutz.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytyres.co.uk privacy policy that was archived on 2014-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140813232800id_/http%3A//www.mytyres.co.uk/datenschutz.html) for the most accurate reproduction.*
 
 # Delticom Privacy Policy - Tyres online @ mytyres.co.uk
 
-[](https://web.archive.org/web/20140301121605id_/http%3A//www.mytyres.co.uk/index.html)
+[](https://web.archive.org/web/20140813232800id_/http%3A//www.mytyres.co.uk/index.html)
 
 Contact us
 
@@ -11,7 +11,10 @@ freephone
   
 ---  
   
-|  |  |   
+| 
+
+  * 
+|  |   
 ---  
   
 Data protection as per: 7th of March 2007 
@@ -122,7 +125,7 @@ If you have any questions regarding Delticom's data protection, please, write - 
 
 #### Related topics
 
-[General Terms and Conditions](https://web.archive.org/web/20140301121605id_/http%3A//www.mytyres.co.uk/AGBs.html)
+[General Terms and Conditions](https://web.archive.org/web/20140813232800id_/http%3A//www.mytyres.co.uk/AGBs.html)
 
 #### Information you provide us with 
 
@@ -148,4 +151,6 @@ Examples for details, which we obtain from other sources, include updated detail
 
 Examples for information which you can easily access at Delticom: This includes information about past orders, personal details (including name, email address, password), Delticom newsletter, notification about special offers, including your order history and your consumer reports e.g. at http://www.tyretest.com/ or http://www.mytyres.co.uk.   
   
-#### Data privacy settings for web analysis
+#### Privacy settings for web analysis
+
+Delticom uses cookies to give you the best possible service. [Please click here if you do not wish to be tracked by Webtrekk.](http://optout.webtrekk.net/optout.php?r=http%3A%2F%2Fbizmaster.delti.com%2Fcgi-bin%2Frshop.pl%3Fdsco%3D110%26cart_id%3D%26s_p%3Ddatenschutz%26make_html_site%3D172%23webtrekk)
