@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iamnocturnal.com privacy policy that was archived on 2014-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140519013306id_/http%3A//www.iampowerful.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iamnocturnal.com privacy policy that was archived on 2014-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140814011602id_/http%3A//iampowerful.com/privacy) for the most accurate reproduction.*
 
 # I Am Powerful – Privacy Policy
 
