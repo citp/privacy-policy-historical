@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogblueprint.com privacy policy that was archived on 2014-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140614034812id_/http%3A//www.blogblueprint.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogblueprint.com privacy policy that was archived on 2014-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140814162510id_/http%3A//www.blogblueprint.com/privacy) for the most accurate reproduction.*
 
 # BlogBlueprint - Privacy Policy
 
