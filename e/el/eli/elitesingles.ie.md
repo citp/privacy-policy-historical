@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elitesingles.ie privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325030359id_/http%3A//www.elitesingles.ie/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elitesingles.ie privacy policy that was archived on 2014-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140815014647id_/http%3A//www.elitesingles.ie/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - ELITESINGLES
 
