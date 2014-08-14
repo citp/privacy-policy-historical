@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the forumhour.com privacy policy that was archived on 2014-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140614173930id_/http%3A//www.forumhour.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forumhour.com privacy policy that was archived on 2014-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140814232324id_/http%3A//www.forumhour.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Forum Hour | Webmaster Discussion, Promotion & Advertising
 
 [ ](http://www.forumhour.com/)
 
-[](https://web.archive.org/web/20140614173930id_/http://www.forumhour.com/pages/privacy/misc/quick-navigation-menu?selected=node-109 "Open quick navigation")
+[](https://web.archive.org/web/20140814232324id_/http://www.forumhour.com/pages/privacy/misc/quick-navigation-menu?selected=node-109 "Open quick navigation")
 
 **Forum Hour | Webmaster Discussion, Promotion & Advertising**
 
@@ -57,7 +57,7 @@ support@forumhour.com
 
 This document was last updated on December 09, 2013
 
-[](https://web.archive.org/web/20140614173930id_/http://www.forumhour.com/pages/privacy/misc/quick-navigation-menu?selected=node-109 "Open quick navigation")
+[](https://web.archive.org/web/20140814232324id_/http://www.forumhour.com/pages/privacy/misc/quick-navigation-menu?selected=node-109 "Open quick navigation")
 
 **Forum Hour | Webmaster Discussion, Promotion & Advertising**
 
