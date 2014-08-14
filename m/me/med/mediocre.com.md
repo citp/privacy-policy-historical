@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediocre.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325080252id_/https%3A//mediocre.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediocre.com privacy policy that was archived on 2014-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140814095250id_/https%3A//mediocre.com/privacy) for the most accurate reproduction.*
 
 # A Mediocre Privacy Policy
 
