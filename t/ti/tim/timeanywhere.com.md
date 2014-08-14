@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timeanywhere.com privacy policy that was archived on 2013-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130127032910id_/http%3A//www.timeanywhere.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timeanywhere.com privacy policy that was archived on 2014-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140814111313id_/http%3A//www.timeanywhere.com/Privacy.aspx) for the most accurate reproduction.*
 
 # NOVAtime - Privacy Policy
 
