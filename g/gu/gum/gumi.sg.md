@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gumi.sg privacy policy that was archived on 2014-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140414030201id_/http%3A//gumi.sg/%3Fpage_id%3D155) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gumi.sg privacy policy that was archived on 2014-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140814172927id_/http%3A//gumi.sg/%3Fpage_id%3D155) for the most accurate reproduction.*
 
 # Privacy Policy : GUMI SG
 
