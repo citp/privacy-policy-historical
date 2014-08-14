@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the agatagrudzinski.com privacy policy that was archived on 2014-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140325124733id_/http%3A//m.agatagrudzinski.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the agatagrudzinski.com privacy policy that was archived on 2014-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140814022259id_/http%3A//m.agatagrudzinski.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Mobile Website Mobile Website Destin Real Estate
 
