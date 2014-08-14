@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the municode.com privacy policy that was archived on 2014-03-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140305083623id_/https%3A//www.municode.com/About-Us/Privacy-Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the municode.com privacy policy that was archived on 2014-08-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140814235443id_/https%3A//www.municode.com/About-Us/Privacy-Policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" linux webkit chrome"><head>
     <meta charset="utf-8">
@@ -12,8 +12,9 @@
     <link rel="shortcut icon" href="/content/images/apple-touch-icon.png">
 
     <title>Privacy Policy - Municipal Code Corporation</title>
-    <link href="/Content/styles/all.css" rel="stylesheet" type="text/css" media="all">
-    <link href="/Content/styles/custom.css" rel="stylesheet" type="text/css" media="all">
+    <link href="/Content/styles/bundle-site?v=WxQ90UgdWZ9qy1rURL5dJifUsIb9__gJHWsRTNvIdF81" rel="stylesheet">
+
+    
     <!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="/Content/styles/ie.css" media="screen"/><![endif]-->
     <link href="/Content/styles/colorbox-custom.css" rel="stylesheet" type="text/css" media="all">
     
@@ -36,8 +37,46 @@
     
    
     
-    <noscript><p><img alt="Clicky" width="1" height="1" src="//in.getclicky.com/66509886ns.gif" /></p></noscript>
-<script type="text/javascript" async="" src="//web.archive.org/web/20140402004101/http://static.getclicky.com/js"></script><style type="text/css">.tab-hidden{position:absolute !important;left:-9999px !important;top:-9999px !important;display:block !important}</style><script type="text/javascript" async="" src="https://web.archive.org/web/20140402005051/https://in.getclicky.com/in.php?site_id=66509886&amp;res=800x600&amp;lang=en&amp;secure=1&amp;custom[username]=null&amp;type=pageview&amp;href=%2Fweb%2F20140305083623id_%2Fhttps%253A%2F%2Fwww.municode.com%2FAbout-Us%2FPrivacy-Policy&amp;title=Privacy%20Policy%20-%20Municipal%20Code%20Corporation&amp;mime=js&amp;x=0.1511785836640669"></script></head>
+    <script>
+        $(function () {
+            $(".jqScrollContainer").bind('mousewheel DOMMouseScroll', function (ev) {
+                //var delta = e.wheelDelta || -e.detail;
+                ////this.scrollTop += (delta < 0 ? 1 : -1) * 30;
+                //e.stopPropagation();
+                //return false;
+                var $this = $(this),
+                scrollTop = this.scrollTop,
+                scrollHeight = this.scrollHeight,
+                height = $this.height(),
+                delta = (ev.type == 'DOMMouseScroll' ?
+                    ev.originalEvent.detail * -40 :
+                    ev.originalEvent.wheelDelta),
+                up = delta > 0;
+                if (scrollHeight == height) {
+                    //no scroll bar - don't do anything
+                    return true;
+                }
+
+                var prevent = function () {
+                    ev.stopPropagation();
+                    ev.preventDefault();
+                    ev.returnValue = false;
+                    return false;
+                }
+
+                if (!up && -delta >= scrollHeight - height - scrollTop) {
+                    // Scrolling down, but this will take us past the bottom.
+                    $this.scrollTop(scrollHeight);
+                    return prevent();
+                } else if (up && delta > scrollTop) {
+                    // Scrolling up, but this will take us past the top.
+                    $this.scrollTop(0);
+                    return prevent();
+                }
+            });
+        })
+    </script>
+<script type="text/javascript" async="" src="//web.archive.org/web/20140402004101/http://static.getclicky.com/js"></script><style type="text/css">.tab-hidden{position:absolute !important;left:-9999px !important;top:-9999px !important;display:block !important}</style><script type="text/javascript" async="" src="https://web.archive.org/web/20140402005051/https://in.getclicky.com/in.php?site_id=66509886&amp;res=800x600&amp;lang=en&amp;secure=1&amp;custom[username]=null&amp;type=pageview&amp;href=%2Fweb%2F20140814235443id_%2Fhttps%253A%2F%2Fwww.municode.com%2FAbout-Us%2FPrivacy-Policy&amp;title=Privacy%20Policy%20-%20Municipal%20Code%20Corporation&amp;mime=js&amp;x=0.25086587454650267"></script></head>
 <body id="mcc"><div id="cboxOverlay" style="display: none;"></div><div id="colorbox" class="" style="padding-bottom: 84px; padding-right: 74px; display: none;"><div id="cboxWrapper" style=""><div style=""><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxLoadedContent" class="" style="width: 0px; height: 0px; overflow: hidden;"></div><div id="cboxLoadingOverlay" class="" style=""></div><div id="cboxLoadingGraphic" class="" style=""></div><div id="cboxTitle" class="" style=""></div><div id="cboxCurrent" class="" style=""></div><div id="cboxNext" class="" style=""></div><div id="cboxPrevious" class="" style=""></div><div id="cboxSlideshow" class="" style=""></div><div id="cboxClose" class="" style=""></div></div><div id="cboxMiddleRight" style="float: left;"></div></div><div style="clear: left;"><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div><div style="position: absolute; width: 9999px; visibility: hidden; display: none;"></div></div>
     <div id="wrapper">
         <div class="wrapper-holder">
@@ -63,9 +102,221 @@
 
 
 <ul id="nav">
-    <li>    
+    <li class=" hasdrop">    
         <a href="/Library"><span>Code Library</span></a>
 
+        <div class="drop">
+            <div class="drop-t"></div>
+            <div class="drop-c">
+                <ul class="jqScrollContainerNot">
+    <li>    
+        <a href="/Library/Tribes_and_Tribal_Nations"> Tribes and Tribal Nations</a>
+
+    </li>
+    <li>    
+        <a href="/Library/AL">Alabama</a>
+
+    </li>
+    <li>    
+        <a href="/Library/AK">Alaska</a>
+
+    </li>
+    <li>    
+        <a href="/Library/AZ">Arizona</a>
+
+    </li>
+    <li>    
+        <a href="/Library/AR">Arkansas</a>
+
+    </li>
+    <li>    
+        <a href="/Library/CA">California</a>
+
+    </li>
+    <li>    
+        <a href="/Library/CO">Colorado</a>
+
+    </li>
+    <li>    
+        <a href="/Library/CT">Connecticut</a>
+
+    </li>
+    <li>    
+        <a href="/Library/DE">Delaware</a>
+
+    </li>
+    <li>    
+        <a href="/Library/FL">Florida</a>
+
+    </li>
+    <li>    
+        <a href="/Library/GA">Georgia</a>
+
+    </li>
+    <li>    
+        <a href="/Library/HI">Hawaii</a>
+
+    </li>
+    <li>    
+        <a href="/Library/ID">Idaho</a>
+
+    </li>
+    <li>    
+        <a href="/Library/IL">Illinois</a>
+
+    </li>
+    <li>    
+        <a href="/Library/IN">Indiana</a>
+
+    </li>
+    <li>    
+        <a href="/Library/IA">Iowa</a>
+
+    </li>
+    <li>    
+        <a href="/Library/KS">Kansas</a>
+
+    </li>
+    <li>    
+        <a href="/Library/KY">Kentucky</a>
+
+    </li>
+    <li>    
+        <a href="/Library/LA">Louisiana</a>
+
+    </li>
+    <li>    
+        <a href="/Library/ME">Maine</a>
+
+    </li>
+    <li>    
+        <a href="/Library/MD">Maryland</a>
+
+    </li>
+    <li>    
+        <a href="/Library/MA">Massachusetts</a>
+
+    </li>
+    <li>    
+        <a href="/Library/MI">Michigan</a>
+
+    </li>
+    <li>    
+        <a href="/Library/MN">Minnesota</a>
+
+    </li>
+    <li>    
+        <a href="/Library/MS">Mississippi</a>
+
+    </li>
+    <li>    
+        <a href="/Library/MO">Missouri</a>
+
+    </li>
+    <li>    
+        <a href="/Library/MT">Montana</a>
+
+    </li>
+    <li>    
+        <a href="/Library/NE">Nebraska</a>
+
+    </li>
+    <li>    
+        <a href="/Library/NV">Nevada</a>
+
+    </li>
+    <li>    
+        <a href="/Library/NH">New Hampshire</a>
+
+    </li>
+    <li>    
+        <a href="/Library/NJ">New Jersey</a>
+
+    </li>
+    <li>    
+        <a href="/Library/NM">New Mexico</a>
+
+    </li>
+    <li>    
+        <a href="/Library/NY">New York</a>
+
+    </li>
+    <li>    
+        <a href="/Library/NC">North Carolina</a>
+
+    </li>
+    <li>    
+        <a href="/Library/ND">North Dakota</a>
+
+    </li>
+    <li>    
+        <a href="/Library/OH">Ohio</a>
+
+    </li>
+    <li>    
+        <a href="/Library/OK">Oklahoma</a>
+
+    </li>
+    <li>    
+        <a href="/Library/OR">Oregon</a>
+
+    </li>
+    <li>    
+        <a href="/Library/PA">Pennsylvania</a>
+
+    </li>
+    <li>    
+        <a href="/Library/RI">Rhode Island</a>
+
+    </li>
+    <li>    
+        <a href="/Library/SC">South Carolina</a>
+
+    </li>
+    <li>    
+        <a href="/Library/SD">South Dakota</a>
+
+    </li>
+    <li>    
+        <a href="/Library/TN">Tennessee</a>
+
+    </li>
+    <li>    
+        <a href="/Library/TX">Texas</a>
+
+    </li>
+    <li>    
+        <a href="/Library/UT">Utah</a>
+
+    </li>
+    <li>    
+        <a href="/Library/VT">Vermont</a>
+
+    </li>
+    <li>    
+        <a href="/Library/VA">Virginia</a>
+
+    </li>
+    <li>    
+        <a href="/Library/WA">Washington</a>
+
+    </li>
+    <li>    
+        <a href="/Library/WV">West Virginia</a>
+
+    </li>
+    <li>    
+        <a href="/Library/WI">Wisconsin</a>
+
+    </li>
+    <li>    
+        <a href="/Library/WY">Wyoming</a>
+
+    </li>
+                </ul>
+            </div>
+            <div class="drop-b"></div>
+        </div>
     </li>
     <li class=" hasdrop">    
         <a href="/Online-Services"><span>Online Services</span></a>
@@ -73,14 +324,14 @@
         <div class="drop">
             <div class="drop-t"></div>
             <div class="drop-c">
-                <ul>
+                <ul class="jqScrollContainerNot">
     <li class=" hasdrop">    
         <a href="/Online-Services/Web-Hosting">Web Hosting</a>
 
         <div class="drop">
             <div class="drop-t"></div>
             <div class="drop-c">
-                <ul>
+                <ul class="jqScrollContainerNot">
                 </ul>
             </div>
             <div class="drop-b"></div>
@@ -117,7 +368,7 @@
         <div class="drop">
             <div class="drop-t"></div>
             <div class="drop-c">
-                <ul>
+                <ul class="jqScrollContainerNot">
     <li>    
         <a href="/Codification/Why-Codify">Why Codify?</a>
 
@@ -149,7 +400,7 @@
         <div class="drop">
             <div class="drop-t"></div>
             <div class="drop-c">
-                <ul>
+                <ul class="jqScrollContainerNot">
     <li>    
         <a href="/Planning/The-Municode-Approach">The Municode Approach</a>
 
@@ -167,13 +418,13 @@
             <div class="drop-b"></div>
         </div>
     </li>
-    <li class=" hasdrop active">    
+    <li class=" hasdrop">    
         <a href="/About-Us"><span>About Us</span></a>
 
         <div class="drop">
             <div class="drop-t"></div>
             <div class="drop-c">
-                <ul>
+                <ul class="jqScrollContainerNot">
     <li>    
         <a href="/About-Us/History">History</a>
 
@@ -186,7 +437,7 @@
         <a href="/About-Us/Officers">Officers</a>
 
     </li>
-    <li class=" active">    
+    <li>    
         <a href="/About-Us/Privacy-Policy">Privacy Policy</a>
 
     </li>
@@ -215,14 +466,6 @@
                 <div id="main">
                     <div class="main-holder min-padding">
                         
-<ul class="breadcrumbs">
-        <li>    <a href="/">Home</a>
-</li>
-        <li>    <a href="/About-Us">About Us</a>
-</li>
-        <li>Privacy Policy</li>
-</ul>
-
                         <h1></h1>   
 
 
@@ -429,7 +672,6 @@
         </div>
         <div id="footer">
             
-
 <div class="footer-holder">
 	<div class="footer-frame">
 		<div class="footer-top">
@@ -485,7 +727,7 @@
 					<div class="container">
 						<p>Connect With Us</p>
 						<ul class="social-networks">
-							<li><a href="http://twitter.com/#!/munitweet" class="twitter">Twitter</a></li>
+							<li><a href="http://twitter.com/municodecorp" class="twitter">Twitter</a></li>
 
 							<li><a href="http://www.facebook.com/pages/Municipal-Code-Corporation/162938886608" class="facebook">Facebook</a></li>
 							<li><a href="#" class="in">LinkedIn</a></li>
