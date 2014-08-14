@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the revenueads.com privacy policy that was archived on 2013-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131028124804id_/http%3A//www.revenueads.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revenueads.com privacy policy that was archived on 2014-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140814023350id_/http%3A//revenueads.com/legal/privacy_policy) for the most accurate reproduction.*
 
-# RevenueAds Privacy Policy | RevenueAds
+# RevenueAds - Privacy Policy
 
 **  
-PRIVACY POLICY FOR REVENUEADS, and each of its related web sites (“RevenueAds”) Privacy Policy Last updated January 1, 2009. This Privacy Policy outlines important information regarding the use and disclosure of information collected via this Website. RevenueAds provides this Privacy Policy to help users make an informed decision as to whether to use or continue using the Website. **
+PRIVACY POLICY FOR REVENUEADS, and each of its related web sites ("RevenueAds") Privacy Policy Last updated January 1, 2009. This Privacy Policy outlines important information regarding the use and disclosure of information collected via this Website. RevenueAds provides this Privacy Policy to help users make an informed decision as to whether to use or continue using the Website. **
 
 **PLEASE NOTE: OUR PRIVACY POLICY CHANGES FROM TIME TO TIME AND CHANGES ARE EFFECTIVE UPON POSTING. PLEASE CHECK BACK FREQUENTLY FOR UPDATES AS IT IS YOUR SOLE RESPONSIBILITY TO BE AWARE OF CHANGES. REVENUEADS DOES NOT PROVIDE NOTICES OF CHANGES IN ANY MANNER OTHER THAN BY POSTING THE CHANGES AT THIS WEB SITE. IF YOU DO NOT AGREE WITH THE TERMS OF THIS PRIVACY POLICY PLEASE DO NOT PROVIDE ANY INFORMATION TO REVENUEADS OR USE ANY OF THE SERVICES OR PRODUCTS OFFERED OR PROVIDED ON ANY OF THE WEB SITES REFERRED IN THIS PRIVACY POLICY.**
 
