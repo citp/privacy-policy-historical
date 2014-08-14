@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the healthpartners.com privacy policy that was archived on 2014-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140104043559id_/https%3A//www.healthpartners.com/public/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthpartners.com privacy policy that was archived on 2014-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140814134937id_/https%3A//www.healthpartners.com/public/privacy) for the most accurate reproduction.*
 
-# Website privacy policy
+# Website Privacy Policy
 
 **Effective as of: 06/12/2012**
 
@@ -14,7 +14,7 @@ We may change or supplement our Web Privacy Practices from time to time and we w
 
 If you are a member of a HealthPartners health plan, please consult the [Health Plan Notice of Privacy Practices](https://web.archive.org/ucm/groups/public/@hp/@public/documents/documents/cntrb_009405.pdf) for a description of our privacy practices and the rights of our health plan members. If your employer is self-insured, please check with your employer for more information about your employer's health plan’s privacy practices.
 
-If you are a patient at a HealthPartners-affiliated clinic hospital, please consult the [Notice of Privacy Practices for Clinics, Hospitals and Other Care Providers Affiliated with the HealthPartners and Park Nicollet Family of Care](http://www.healthpartners.com/files/22751.pdf) for a description of our privacy practices and the rights of our clinic and hospital patients.
+If you are a patient at a HealthPartners-affiliated clinic hospital, please consult the [Notice of Privacy Practices for Clinics, Hospitals and Other Care Providers Affiliated with the HealthPartners and Park Nicollet Family of Care](https://web.archive.org/ucm/groups/public/@hp/@public/documents/documents/cntrb_042452.pdf) for a description of our privacy practices and the rights of our clinic and hospital patients.
 
 ### **WEB SITE PRIVACY**
 
