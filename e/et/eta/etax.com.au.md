@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the etax.com.au privacy policy that was archived on 2014-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140614043441id_/http%3A//www.etax.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etax.com.au privacy policy that was archived on 2014-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140814045645id_/http%3A//www.etax.com.au/privacy) for the most accurate reproduction.*
 
 # Etax Privacy and Security Statement
 
@@ -16,7 +16,7 @@ This Security and Privacy Statement may also apply to services offered by Etax o
 
 Etax takes reasonable steps to preserve the security of cookie and personal information in accordance with this Security and Privacy Statement. If your browser is suitably configured, it will advise you whether the information you are sending us will be secure (encrypted) or not secure (unencrypted).
 
-**Etax currently uses 128 bit SSL encryption.   We hold an Extended Validation SSL certificate provided by Verisign – this is the industry standard for Banks and other financial institutions. To verify our current SSL certificate you can use an independent security check tool such as [SSLShopper.com](http://www.sslshopper.com/ssl-checker.html#hostname=www.etax.com.au).**
+ **Etax currently uses 128 bit SSL encryption.   We hold an Extended Validation SSL certificate provided by Verisign – this is the industry standard for Banks and other financial institutions. To verify our current SSL certificate you can use an independent security check tool such as [SSLShopper.com](http://www.sslshopper.com/ssl-checker.html#hostname=www.etax.com.au).**
 
 Etax regularly reviews developments in security and encryption technologies. Unfortunately, no data transmission over the Internet can be guaranteed as totally secure. Accordingly, although Etax strives to protect such information, Etax cannot ensure or warrant the security of any information you transmit to us or from our online products or services and you do so at your own risk. Once we receive your transmission, we take reasonable steps to preserve the security of the information in our own systems.
 
@@ -28,9 +28,9 @@ We strongly encourage you to update your web browser software and computer opera
 
 Etax.com.au works on all browsers and all types of computers, including Apple computers, iOS devises (eg. iPhone and iPad), Android phones and tablets and all Windows computers. However, the security of your private information can be compromised by your own choice of software and whether you keep it up-to-date by installing the manufacturer’s suggested updates.
 
-Some browsers are known to be at higher risk. Older browsers such as Internet Explorer (versions 8 and older) are out-of-date and should not be used; they should be updated immediately and free updates are available from Microsoft.  
-  
-During April 2014 the IT press revealed that **all** versions of Internet Explorer contain a security vulnerability, including the newest version (IE11) on the latest versions of Windows 8. For this reason, it is commonly suggested that Windows users should use Chrome or Firefox browsers until the problem is resolved by Microsoft. 
+Some browsers are known to be at higher risk. Older browsers such as Internet Explorer (versions 8 and older) are out-of-date and should not be used; they should be updated immediately and free updates are available from Microsoft.
+
+During April 2014 the IT press revealed that **all** versions of Internet Explorer contain a security vulnerability, including the newest version (IE11) on the latest versions of Windows 8. For this reason, it is commonly suggested that Windows users should use Chrome or Firefox browsers until the problem is resolved by Microsoft.
 
 At this time we are not aware of any security problems relating to current versions of the Apple Safari browser, but we do caution users to download updates from Apple whenever they are available.
 
@@ -48,9 +48,9 @@ The Etax website offers a number of interactive facilities including the Etax He
 
 The Etax website also contains links to the websites of third party providers of goods and services (“Third Party websites”). If you have accessed Third Party websites through the Etax website and if those third parties collect information about you, Etax may also collect or have access to that information as part of our arrangements with those third parties.
 
-The Etax website may periodically be promoted using online display advertising and remarketing tools connected with Google Analytics. Etax and third-party vendors, including Google and Microsoft, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on individuals’ past visits to this website. This is intended to help make ads relating to this site more relevant to people who have or have not visited this website and to minimise ads displayed to people who may not need the services of this site. Visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using Google’s [Ads Settings](https://www.google.com/settings/ads).
+The Etax website may periodically be promoted using online display advertising and remarketing tools connected with Google Analytics. Etax and third-party vendors, including Google and Microsoft, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on individuals’ past visits to this website. This is intended to help make ads relating to this site more relevant to people who have or have not visited this website and to minimise ads displayed to people who may not need the services of this site. Visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using Google’s [Ads Settings](https://www.google.com/settings/ads).
 
-Etax respects the choice of any individual to opt out of common web tracking systems and encourages concerned individuals to investigate the [Google Analytics opt-out browser add-on](https://tools.google.com/dlpage/gaoptout/).
+Etax respects the choice of any individual to opt out of common web tracking systems and encourages concerned individuals to investigate the [Google Analytics opt-out browser add-on](https://tools.google.com/dlpage/gaoptout/).
 
 Third Party websites should have their own privacy statements and those third parties are responsible for their own privacy practices.
 
@@ -86,5 +86,3 @@ This is the current Security and Privacy Statement. It replaces any other Securi
 ## Terms and Conditions for this website
 
 You acknowledge and accept that your use of the Etax.com.au website indicates your acceptance of the [Website User Terms & Conditions](http://www.etax.com.au/terms-and-conditions).
-
-[Existing Users Login](https://secure.etax.com.au/Login)     [New Users Start Here](https://secure.etax.com.au/Register)
