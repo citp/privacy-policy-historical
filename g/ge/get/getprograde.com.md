@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getprograde.com privacy policy that was archived on 2014-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140608081004id_/http%3A//www.getprograde.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getprograde.com privacy policy that was archived on 2014-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140815123932id_/http%3A//www.getprograde.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -74,4 +74,4 @@ This Privacy Policy only applies to our Web Sites. Our Web Sites may include lin
 **Contacting Us**  
 If you have any questions concerning our Privacy Policy, you may contact us at Ultimate Wellness Systems, Inc. located at 19239 North Dale Mabry Highway, #154, Lutz, Florida 33548, Attn: James Labadie or e-mail us at using the following information. 
 
-© 2006-2009 Ultimate Wellness Systems, Inc.  All rights reserved.
+© 2006-2014 Ultimate Wellness Systems, Inc.  All rights reserved.
