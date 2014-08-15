@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allcoupononline.com privacy policy that was archived on 2014-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140208072113id_/http%3A//allcoupononline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allcoupononline.com privacy policy that was archived on 2014-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140815045312id_/http%3A//allcoupononline.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Hosting Coupon and Domain Promo
 
