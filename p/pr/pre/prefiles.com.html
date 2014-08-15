@@ -1,27 +1,61 @@
-<!--The following is the downloaded HTML source of the prefiles.com privacy policy that was archived on 2013-10-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20131020063241id_/http%3A//prefiles.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the prefiles.com privacy policy that was archived on 2014-08-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140815133311id_/http%3A//prefiles.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
 <title>PreFiles.com - Premium Files Storage</title>
-<meta name="description" content="PreFiles.com - Free file upload service">
+<meta name="description" content="PreFiles.com - Premium Files Storage">
 <meta name="keywords" content="file upload,share files,free upload">
 
-<link type="image/png" href="http://prefiles.com/v2/images/xfavicon.png.pagespeed.ic.38PPx1HMwr.png" rel="icon">
-<link type="text/css" href="http://prefiles.com/v2/css/A.main.css+style.css+filemanager.css+dashboard.css+download.css,Mcc.93FNRQnvk_.css.pagespeed.cf.kCnSOrt59r.css" rel="stylesheet">
-
-
-
-
+<link type="image/png" href="http://prefiles.com/v2/images/favicon.png" rel="icon">
+<link type="text/css" href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+<link type="text/css" href="//fonts.googleapis.com/css?family=Ubuntu:300italic,300,400italic,400,500italic,500,700italic,700" rel="stylesheet">
+<link type="text/css" href="//fonts.googleapis.com/css?family=Open+Sans:300italic,300,400italic,400,600italic,600,700italic,700,800italic,800">
+<link type="text/css" href="http://prefiles.com/v2/css/main.css" rel="stylesheet">
+<link type="text/css" href="http://prefiles.com/v2/css/style.css" rel="stylesheet">
+<link type="text/css" href="http://prefiles.com/v2/css/filemanager.css" rel="stylesheet">
+<link type="text/css" href="http://prefiles.com/v2/css/dashboard.css" rel="stylesheet">
+<link type="text/css" href="http://prefiles.com/v2/css/download.css" rel="stylesheet">
 
 <!--[if lt IE 9]><script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
 <!--[if lte IE 6]><script src="http://prefiles.com/v2/ie6/warning.js"></script><script>window.onload=function(){e("http://prefiles.com/v2/ie6/")}</script><![endif]-->
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://code.jquery.com/jquery-1.9.1.js"></script>
-<script type="text/javascript" src="http://prefiles.com/v2/js/global.js.pagespeed.ce.bi1aDghUK8.js"></script>
-<script type="text/javascript">$(document).ready(function(){$('#login-trigger').click(function(){$(this).next('#login-content').slideToggle(100);$(this).toggleClass('active');if($(this).hasClass('active'))$(this).find('span').html('&#x25B4;')
-else $(this).find('span').html('&#x25BE;')})
-$('#menu-trigger').click(function(){$(this).next('#menu-content').slideToggle(100);$(this).toggleClass('active');if($(this).hasClass('active'))$(this).find('span').html('&#x25B4;')
-else $(this).find('span').html('&#x25BE;')})});</script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="http://prefiles.com/v2/js/jquery.selectbox.js"></script>
+<script type="text/javascript" src="http://prefiles.com/v2/js/jquery.tipsy.js"></script>
+<script type="text/javascript" src="http://prefiles.com/v2/js/jquery.dtpicker.js"></script>
+<script type="text/javascript" src="http://prefiles.com/v2/js/global.js"></script>
+<script type="text/javascript">
+  $(document).ready( function() {
+	$('#p30,#p90,#p180,#p365').tipsy({gravity: 's'});
+  });
+  $(document).ready( function() {
+	$("SELECT") .selectBox()
+  });
+  $(document).ready(function(){
+  $('#login-trigger').click(function(){
+    $(this).next('#login-content').slideToggle(100);
+    $(this).toggleClass('active');
+    if ($(this).hasClass('active')) $(this).find('span').html('&#x25B4;')
+      else $(this).find('span').html('&#x25BE;')
+    })
+  $('#menu-trigger').click(function(){
+    $(this).next('#menu-content').slideToggle(100);
+    $(this).toggleClass('active');
+    if ($(this).hasClass('active')) $(this).find('span').html('&#x25B4;')
+      else $(this).find('span').html('&#x25BE;')
+    })
+  });
+  $(function(){
+    $('*[name=date1]').appendDtpicker({
+    	"dateOnly": true,
+    	"dateFormat": "YYYY-MM-DD"
+    });
+    $('*[name=date2]').appendDtpicker({
+    	"dateOnly": true,
+    	"dateFormat": "YYYY-MM-DD"
+    });
+  });
+</script>
 
 </head>
 
@@ -33,22 +67,25 @@ else $(this).find('span').html('&#x25BE;')})});</script>
 		<a class="logo" href="http://prefiles.com" title="PreFiles.com - Premium Files Storage" alt="PreFiles.com"></a>
 		<nav>
 		<ul class="nav-left">
-			<li id="menu"><a id="main-trigger" href="http://prefiles.com">Upload</a></li>
-			<li id="menu"><a id="main-trigger" href="http://prefiles.com/premium.html">Premium</a></li>
-			<li id="menu"><a id="main-trigger" href="http://prefiles.com/contact.html">Support</a></li>
-			<li id="menu"><a id="main-trigger" href="http://prefiles.com/news.html">News</a></li>
+			<li id="menu"><a id="main-trigger" href="http://prefiles.com"><i class="fa fa-home"></i> Home</a></li>
+			<li id="menu"><a id="main-trigger" href="http://prefiles.com/premium"><i class="fa fa-star"></i> Premium</a></li>
+			<li id="menu"><a id="main-trigger" href="http://prefiles.com/contact"><i class="fa fa-question-circle"></i> Support</a></li>
+			<li id="menu"><a id="main-trigger" href="http://prefiles.com/news"><i class="fa fa-bullhorn"></i> News</a></li>
+			
 		</ul>
 		
 		<ul class="nav-right">
 			
-			<li id="signup"><a id="signup-trigger" href="http://prefiles.com/register.html">Register</a></li>
-			<li id="login"><a id="login-trigger" href="#">Log In<span>▾</span></a>
+			<li id="signup"><a id="signup-trigger" href="http://prefiles.com/register"><i class="fa fa-pencil-square-o"></i> Register</a></li>
+			<li id="login"><a id="login-trigger" href="#"><i class="fa fa-sign-in"></i> Log In<span>▾</span></a>
 				<div id="login-content">
-					<fieldset id="inputs"><a href="http://prefiles.com/login/facebook.html"><img src="http://prefiles.com/v2/images/xlogin-facebook.png.pagespeed.ic.QZMY7FnKjC.png" alt="Login with Facebook"></a></fieldset>
-					<fieldset id="inputs"><a href="http://prefiles.com/login/google.html"><img src="http://prefiles.com/v2/images/xlogin-google+.png.pagespeed.ic.EIuwuzvUF_.png" alt="Login with Google"></a></fieldset>
+					<fieldset id="inputs"><a href="http://prefiles.com/login/facebook" title="Login with Facebook"><i class="login facebook"></i></a></fieldset>
+					<fieldset id="inputs"><a href="http://prefiles.com/login/google" title="Login with Google+"><i class="login google"></i></a></fieldset>
+					<fieldset id="inputs"><a href="http://prefiles.com/login/twitter" title="Login with Twitter"><i class="login twitter"></i></a></fieldset>
+					<fieldset id="inputs"><a href="http://prefiles.com/login/vk" title="Login with VKontakte"><i class="login vk"></i></a></fieldset>
 					<p>OR:</p>
 
-					<form action="http://prefiles.com/login.html" method="post" name="FL" autocomplete="off">
+					<form action="http://prefiles.com/login" method="post" name="FL" autocomplete="off">
 					<input type="hidden" name="op" value="login">
 					<input type="hidden" name="redirect" value="">
 					<fieldset id="inputs">
@@ -56,8 +93,8 @@ else $(this).find('span').html('&#x25BE;')})});</script>
 						<input type="password" id="loginPassword" name="password" placeholder="Password" required="">
 					</fieldset>
 					<fieldset id="actions">
-						<button type="submit" id="submit">Log In</button>
-						<label><a href="http://prefiles.com/forgot.html">Lost Password?</a></label>
+						<button type="submit" id="submit"><i class="fa fa-sign-in"></i> Log In</button>
+						<label><a href="http://prefiles.com/forgot">Forgot Pass?</a></label>
 					</fieldset>
 					</form>
 				</div>
@@ -75,7 +112,25 @@ else $(this).find('span').html('&#x25BE;')})});</script>
 	<div class="content">
 		<div class="wrapper" id="main_content">
 
-			<div id="readmore_bar" class="divider"><span>Updated September 03, 2012</span></div>
+			<div id="readmore_bar" class="divider">
+				<div id="users" class="left">
+					<i class="anon"></i>
+					<ul>
+						<li>Welcome, <span>Guest</span>!</li>
+						<li><a href="http://prefiles.com/register">Register a Free account now »</a></li>
+					</ul>
+				</div>
+				
+				<div id="download" class="left" style="border:none;">
+					<i class="anon"></i>
+					<ul>
+						<li>Download speed: <span>up to 2 MB/s</span></li>
+						<li>Download volume: <span>1 GB/day</span></li>
+					</ul>
+				</div>
+				
+				
+			</div>
 
 			<div id="pages">
 				<p><strong>PreFiles.com</strong> ("we") respects the privacy of the visitors to its website. <strong>PreFiles.com</strong> may update this policy from time to time. We will notify you about significant changes by placing a prominent notice on this page and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.</p>
@@ -107,7 +162,7 @@ else $(this).find('span').html('&#x25BE;')})});</script>
 				<p>In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.</p>
 
 				<h2>10. I still have questions, what should I do?</h2>
-				<p>If you still have questions regarding our services don't hesitate to contact us using our <a href="contact.html">contact form</a>.
+				<p>If you still have questions regarding our services don't hesitate to contact us using our <a href="http://prefiles.com/contact">contact form</a>.
 			</p></div>
 
 		</div>
@@ -124,33 +179,47 @@ else $(this).find('span').html('&#x25BE;')})});</script>
 				<div class="row">
 					<div class="span2">
 						<h5>Upload</h5>
-						<p><a href="http://prefiles.com/uploader.html">FTP Upload</a></p>
+						<p><a href="http://prefiles.com/uploader">FTP Upload</a></p>
 						<p><a href="http://prefiles.com">Web Upload</a></p>
-						<p><a href="http://prefiles.com/uploader.html">Desktop Upload</a></p>
+						<p><a href="http://prefiles.com/uploader">Desktop Upload</a></p>
 					</div>
 					<div class="span2">
 						<h5>Tools</h5>
-						<p><a href="http://prefiles.com/downloader.html">Downloader</a></p>
-						<p><a href="http://prefiles.com/checker.html">Link Checker</a></p>
+						<p><a href="http://prefiles.com/downloader">Downloader</a></p>
+						<p><a href="http://prefiles.com/checker">Link Checker</a></p>
 					</div>
 					<div class="span2">
 						<h5>Support</h5>
-						<p><a href="http://prefiles.com/contact.html">Contact</a></p>
-						<p><a href="http://prefiles.com/dmca.html">Report Abuse</a></p>
+						<p><a href="http://prefiles.com/contact">Contact</a></p>
+						<p><a href="http://prefiles.com/dmca">Report Abuse</a></p>
 					</div>
 					<div class="span2">
 						<h5>Information</h5>
-						<p><a href="http://prefiles.com/faq.html">FAQ</a></p>
-						<p><a href="http://prefiles.com/privacy.html">Privacy Policy</a></p>
-						<p><a href="http://prefiles.com/terms.html">Terms &amp; Conditions</a></p>
+						<p><a href="http://prefiles.com/faq">FAQ</a></p>
+						<p><a href="http://prefiles.com/privacy">Privacy Policy</a></p>
+						<p><a href="http://prefiles.com/terms">Terms &amp; Conditions</a></p>
 					</div>
 				</div>
 			</div>
 			<div class="span3"><i class="creditcards"></i></div>
 	</div>
+	<div class="copyright">
+		<div class="left">© 2012 <strong>PreFiles.com</strong>, All Rights Reserved</div>
+		<div class="right">Server Time: <strong><i class="fa fa-clock-o"></i> 2014-08-15 13:28:45 UTC</strong></div>
+		
 	
 	
-	
+	</div>
 </footer>
-<script type="text/javascript">var _gaq=_gaq||[];_gaq.push(['_setAccount','UA-36063574-1']);_gaq.push(['_setDomainName','prefiles.com']);_gaq.push(['_trackPageview']);(function(){var ga=document.createElement('script');ga.type='text/javascript';ga.async=true;ga.src=('https:'==document.location.protocol?'https://ssl':'http://www')+'.google-analytics.com/ga.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ga,s);})();</script>
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-36063574-1']);
+  _gaq.push(['_setDomainName', 'prefiles.com']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
 </body></html>
