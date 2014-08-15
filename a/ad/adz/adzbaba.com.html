@@ -1,14 +1,18 @@
-<!--The following is the downloaded HTML source of the adzbaba.com privacy policy that was archived on 2014-03-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140325021730id_/http%3A//adzbaba.com/Privacy%26Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the adzbaba.com privacy policy that was archived on 2014-08-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140815150345id_/http%3A//adzbaba.com/Privacy%26Policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
- <!--<base href="http://localhost/adz/" />-->
+<!-- <base href="http://localhost/adz/" />-->
 <base href="http://adzbaba.com/">
 <title></title>
-<meta name="description" content="">
+<meta name="alexaVerifyID" content="_WiTOTvpA1UCsQ1DaLA3bviXxTg">
+<meta name="msvalidate.01" content="D0388DA313DE7A567CFAB8CD1133A1BF">
+<meta name="google-site-verification" content="ryZOmXkjTI7Ah3HVhG454RRn-0-19t512NbJKZKsV8c">
+<meta name="nibbler-site-verification" content="e48188fed83c1c4f6fdf4af2cb636b8d6b7d698f">
+<meta name="title" content="">
 <meta name="keywords" content="">
-<meta name="author" content="">
+<meta name="description" content="">
 <link href="anand.css" rel="stylesheet" type="text/css">
 <style type="text/css">
 body {
@@ -26,7 +30,7 @@ body {
     .chosen-rtl .chosen-drop { left: -9000px; }
 
   </style>
-         
+     
  <script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script src="source/js/jquery.js"></script>
    </head><body><div id="fb-root">
 </div>
@@ -42,6 +46,12 @@ body {
 		function validate_nsearch()
 
 		{
+ if (document.getElementById("cityslct").value == 0)
+			  {
+        alert("Please Select City");
+		document.getElementById("cityslct").focus();
+		return false;
+			  }
 
 		 if(document.nsearch.key.value == '' )
 
@@ -57,10 +67,36 @@ body {
 
 		}
 
+
+function addOption( )
+/*{
+var optn = document.createElement("OPTION");
+optn.text = text;
+optn.value = value;
+selectbox.options.add(optn);
+return false;
+}*/
+
+
+{
+	//alert("nh");
+    if (document.getElementById("cityslct").value == 0)
+        alert("Please Select City");
+		document.getElementById("cityslct").focus();
+		return false;
+}
+
+
 		</script>
-         <script type="text/javascript" src="js/ajax.js"></script>    
+         <script type="text/javascript" src="js/ajax.js"></script> 
+            <script type="text/javascript" src="nicEdit.js"></script>
+<script type="text/javascript">
+	bkLib.onDomLoaded(function() { nicEditors.allTextAreas() });
+</script>  
+     
 
 
+<!--<body onLoad="addOption()";>-->
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
@@ -73,18 +109,24 @@ body {
     
       <tbody><tr>
       
-        <td height="40" align="right" valign="top">
-       
-        <table width="990" border="0" cellspacing="0" cellpadding="0">
+        <td height="40" align="right" valign="top"><table width="100%" border="0">
           <tbody><tr>
-            <td align="right" valign="top"><table border="0" cellspacing="0" cellpadding="0">
+            <td width="60%" align="right" style="color:#0045A9;">adzbaba.com India – Free Local Classifieds</td>
+            <td width="40%" align="right"><table width="400" border="0" cellspacing="0" cellpadding="0">
               <tbody><tr>
-                <td height="20" align="right" valign="middle" bgcolor="#0045A9" class="mbr">
-   <span class="bodytext">&nbsp;&nbsp;|&nbsp; </span>
-                <span class="key2"> <a href="login.php">Login</a></span><span class="bodytext">&nbsp;&nbsp;|&nbsp; </span><span class="key2"><a href="register.php">Register</a></span><span class="bodytext">&nbsp;&nbsp;|&nbsp; </span></td>
+                <td align="right" valign="top"><table border="0" cellspacing="0" cellpadding="0">
+                  <tbody><tr>
+                    <td height="20" align="right" valign="middle" bgcolor="#0045A9" class="mbr">                      <span class="bodytext">&nbsp;&nbsp;|&nbsp; </span> <span class="key2">
+                                                <a href="login.php">Login</a>
+                                                </span><span class="bodytext">&nbsp;&nbsp;|&nbsp; </span><span class="key2">
+                                                    <a href="register.php">Register</a></span><span class="bodytext">&nbsp;&nbsp;|&nbsp; </span>
+                                            </td>
+                  </tr>
+                </tbody></table></td>
+                <td style="width:20px;"></td>
+                <td align="right" valign="bottom" style="width:10%"><div class="fb-like" data-href="https://www.facebook.com/adzbaba" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div></td>
               </tr>
             </tbody></table></td>
-            <td align="right" valign="bottom" style="width:10%">  <div class="fb-like" data-href="https://www.facebook.com/adzbaba" data-layout="button_count" data-action="like" data-show-faces="false" data-share="false"></div></td>
           </tr>
         </tbody></table></td>
       </tr>
@@ -96,19 +138,19 @@ body {
                 <td align="left" valign="top"><a href="index.php" style="text-decoration:none;"><h2><span style="color:#003262">@dz</span>baba.com</h2></a>
             <span style="float:left; margin-left:132px">
             
-            <select data-placeholder="Choose a Country..." name="citys" class="chosen-select" style="width:140px" tabindex="2" onchange="sudhi(this.value);">
-<option value="">Select City</option>
+            <select data-placeholder="Choose a Country..." name="citys" class="chosen-select" style="width:140px" id="cityslct" tabindex="2" onchange="sudhi(this.value);">
+<option value="0">Select City</option>
           
-	<option value="8" class="Ahmedabad">Ahmedabad</option>
+	<option value="13" class="Ahmedbad">Ahmedbad</option>
 <option value="5" class="Bangalore">Bangalore</option>
 <option value="6" class="Chennai">Chennai</option>
 <option value="1" class="Delhi-NCR">Delhi-NCR</option>
-<option value="3" class="Gurgaon">Gurgaon</option>
+<option value="15" class="Gurgaon">Gurgaon</option>
 <option value="7" class="Hyderabad">Hyderabad</option>
 <option value="10" class="Kolkata">Kolkata</option>
 <option value="4" class="Mumbai">Mumbai</option>
-<option value="2" class="Noida">Noida</option>
-<option value="9" class="Pune">Pune</option>
+<option value="14" class="Noida">Noida</option>
+<option value="12" class="Pune">Pune</option>
 
 
 </select> 
@@ -159,15 +201,15 @@ document.location.href='index.php?country='+c;
                   <tbody><tr>
                     <td align="left" valign="top"><form name="nsearch" id="nsearch" method="get" onsubmit="return validate_nsearch();" action="searchby_tags.php" class="searchform">
                      <!-- <input class="searchfield" type="text" required="required" placeholder="e.g. website design" />-->
-     <input type="text" name="key" id="key" class="searchfield" placeholder="e.g. website design" maxlength="20" value="">
+     <input type="text" name="key" id="key" class="searchfield" placeholder="e.g. website design" maxlength="75" value="">
                       <input class="searchbutton" type="submit" name="submit" value="Go">
                     </form></td>
-                    <td align="left" valign="top"><a href="adpost.php"><button class="myButton">Post Free Ad</button></a></td>
+                    <td align="left" valign="top"><a href="adpost.php"><button class="myButton" style="font-weight:bold;">Post Free Ad</button></a></td>
                   </tr>
                 </tbody></table></td>
               </tr>
             </tbody></table></td>
-            <td width="57%" align="right" valign="middle">            <a href="http://adzbaba.com/searchview/HMDA-approved-flats-just-Rs2211000-only-in-Hyderabad-60839715"><img src="admin/images/ads/S64B03.gif" width="560" height="93" class="mbr2"></a></td>
+            <td width="57%" align="right" valign="middle">            <a href="http://srijainfra.blogspot.in/2014/01/2-bhk-deluxe-flats-alkapur-township.html"><img src="admin/images/ads/gZN1P2.jpg" width="560" height="93" class="mbr2"></a></td>
           </tr>
         </tbody></table></td>
       </tr>  
@@ -484,19 +526,18 @@ text-decoration:none;text-underline:none"><a href="http://www.clickindia.com/cim
       </tr>
       
       <tr>
-        <td align="center" valign="top"><script type="text/javascript">
-  ( function() {
-    if (window.CHITIKA === undefined) { window.CHITIKA = { 'units' : [] }; };
-    var unit = {"publisher":"vemusri1972","width":728,"height":90,"sid":"Chitika Default"};
-    var placement_id = window.CHITIKA.units.length;
-    window.CHITIKA.units.push(unit);
-    document.write('<div id="chitikaAdBlock-' + placement_id + '"></div>');
-    var s = document.createElement('script');
-    s.type = 'text/javascript';
-    s.src = '//cdn.chitika.net/getads.js';
-    try { document.getElementsByTagName('head')[0].appendChild(s); } catch(e) { document.write(s.outerHTML); }
-}());
- </td>
+        <td align="center" valign="top"><!-- BEGIN TAG - DO NOT MODIFY -->
+<script type="text/javascript">
+//<![CDATA[
+epom_key = "c4f81495198220172676646291df2350";
+epom_channel = "";
+epom_code_format = "ads-sync.js";
+epom_ads_host = "//www.adshost2.com";
+epom_click = "";
+epom_custom_params = {};
+
+document.write("<script type='text/javascript' src='"+(location.protocol == 'https:' ? 'https:' : 'http:') + "//www.adshost2.com/js/show_ads.js'></script>"
+<!-- END TAG --> </td>
       </tr>
       
        <tr>
@@ -504,38 +545,39 @@ text-decoration:none;text-underline:none"><a href="http://www.clickindia.com/cim
       </tr>
       
        <tr>
-        <td align="center" valign="top" class="bodytext">adzbaba.com India is a free local classifieds website where you can post free ads to sell, buy, rent, find real estate, services, jobs,education, pets, mobiles, electronics, home appliances, beauty, health, machines etc. Adzbaba.com is for used and new products  at best price in India.</td>
+        <td align="center" valign="top" class="bodytext">adzbaba.com India is a free local classifieds website to sell, buy, rent, find - real estate, business opportunities, services, jobs, education, pets, mobiles, electronics, home appliances, beauty, health, machines etc. adzbaba.com quickly gets you the best price for both offered and wanted classifieds.
+</td>
       </tr>
        <tr>
-        <td align="center" valign="top" height="10" ></td>
+        <td align="center" valign="top" height="10"></td>
       </tr>
         <tr>
         <td align="center" valign="top" height="1" style="background-color:#D8D8D8"></td>
       </tr>
        <tr>
-        <td align="center" valign="top" height="10" ></td>
+        <td align="center" valign="top" height="10"></td>
       </tr>
         <tr>
           <td align="center" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-            <tr>
-              <td width="50%" align="left" valign="top"><span class="key3" style="color:#999999"><a href="About_Us">About Us</a> &nbsp;|&nbsp;&nbsp;<a href="Contact_Us">Contact us</a> &nbsp;| &nbsp;<a href="Terms_of_Use">Terms of Use</a> &nbsp;| &nbsp;<a href="Privacy&Policy">Privacy Policy</a> &nbsp;| &nbsp;<a href="Advertise">Advertise</a> &nbsp;| &nbsp;<!--<a href="#">Map</a></span>--><br />
-                All Rights Reserved. Copyright © 2013 @dzBaba   | Design By <span class="AM"><a href="http://www.thecolourmoon.com/">The Colour Moon </a></span></td>
-              <td align="right" valign="top"><a href="https://www.facebook.com/pages/adzbabacom/1484107965144844?skip_nax_wizard=true"><img src="images/icon_fb.jpg" width="29" height="29" /></a><a href="https://twitter.com/"><img src="images/icon_twitter.jpg" width="29" height="29" /></a><a href="http://www.youtube.com/"><img src="images/icon_gplus.jpg" width="29" height="29" /></a></td>
+            <tbody><tr>
+              <td width="50%" align="left" valign="top"><span class="key3" style="color:#999999"><a href="About_Us">About Us</a> &nbsp;|&nbsp;&nbsp;<a href="Contact_Us">Contact us</a> &nbsp;| &nbsp;<a href="Terms_of_Use">Terms of Use</a> &nbsp;| &nbsp;<a href="Privacy&amp;Policy">Privacy Policy</a> &nbsp;| &nbsp;<a href="Advertise">Advertise</a> &nbsp;| &nbsp;<!--<a href="#">Map</a></span>--><br>
+                All Rights Reserved. Copyright © 2014 @dzBaba   <!--| Design By <span class="AM"><a href="http://www.thecolourmoon.com/">The Colour Moon </a>--></span></td>
+              <td align="right" valign="top"><a href="https://www.facebook.com/pages/adzbabacom/1484107965144844?skip_nax_wizard=true"><img src="images/icon_fb.jpg" width="29" height="29"></a><a href="https://twitter.com/adzbaba_dotcom"><img src="images/icon_twitter.jpg" width="29" height="29"></a><a href="https://plus.google.com/u/0/b/111344712152249899170/+AdzbabaCLASSIFIEDS/about"><img src="images/icon_gplus.jpg" width="29" height="29"></a></td>
             </tr>
             <tr>
               <td align="left" valign="top">&nbsp;</td>
               <td align="right" valign="top">&nbsp;</td>
             </tr>
-          </table></td>
+          </tbody></table></td>
         </tr>
-    </table></td>
+    </tbody></table></td>
   </tr>
    <tr>
     <td align="center" valign="top" bgcolor="#0045A9" height="25"></td>
   </tr>
-</table>
-</body>
-</html>
+</tbody></table>
+
+
 
   <script src="chosen.jquery.js" type="text/javascript"></script>
   <script type="text/javascript">
@@ -549,4 +591,4 @@ text-decoration:none;text-underline:none"><a href="http://www.clickindia.com/cim
     for (var selector in config) {
       $(selector).chosen(config[selector]);
     }
-  </script></td></tr></tbody></table></td></tr></tbody></table></body></html>
+  </script></body></html>
