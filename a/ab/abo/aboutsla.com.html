@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the aboutsla.com privacy policy that was archived on 2014-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140625052617id_/http%3A//aboutsla.com/index.php/serve) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the aboutsla.com privacy policy that was archived on 2014-08-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140815130432id_/http%3A//aboutsla.com/index.php/serve) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html prefix="og: http://ogp.me/ns#" lang="en-gb"><head>
 		        	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=2.0">
@@ -120,123 +120,6 @@ jQuery(document).ready(function($){$('#primary_menu').DropdownMaxiMenu({fxtransi
 	<link rel="stylesheet" href="http://lafoodmap.com/templates/gk_shop_and_buy/css/mobile.css" media="(max-width: 600px)">
 	<link rel="stylesheet" href="http://lafoodmap.com/templates/gk_shop_and_buy/css/small.mobile.css" media="(max-width: 400px)">
 	 	
-	
-	
-	
-	<script>
-		$(document).ready(function(){
-			var winwidth = jQuery(window).width();
-				if( winwidth > 550 )
-				{
-					jQuery(".login1").attr("style","display:none;");
-				}		
-		});
-	</script>
-	
-	
-	
-	<script>
-	
-	//frontpage ad 
-	(function(){
-		var FX =
-		{
-			easing: {
-            linear: function(progress) {
-                return progress;
-            },
-            quadratic: function(progress) {
-                return Math.pow(progress, 2);
-            },
-            swing: function(progress) {
-                return 0.5 - Math.cos(progress * Math.PI) / 2;
-            },
-            circ: function(progress) {
-                return 1 - Math.sin(Math.acos(progress));
-            },
-            back: function(progress, x) {
-                return Math.pow(progress, 2) * ((x + 1) * progress - x);
-            },
-            bounce: function(progress) {
-                for (var a = 0, b = 1, result; 1; a += b, b /= 2) {
-                    if (progress >= (7 - 4 * a) / 11) {
-                        return -Math.pow((11 - 6 * a - 11 * progress) / 4, 2) + Math.pow(b, 2);
-                    }
-                }
-            },
-            elastic: function(progress, x) {
-                return Math.pow(2, 10 * (progress - 1)) * Math.cos(20 * Math.PI * x / 3 * progress);
-            }
-        },
-        animate: function(options) {
-            var start = new Date;
-            var id = setInterval(function() {
-                var timePassed = new Date - start;
-                var progress = timePassed / options.duration;
-                if (progress > 1) {
-                    progress = 1;
-                }
-                options.progress = progress;
-                var delta = options.delta(progress);
-                options.step(delta);
-                if (progress == 1) {
-                    clearInterval(id);
-                    options.complete();
-                }
-            }, options.delay || 10);
-        },
-        fadeOut: function(element, options) {
-            var to = 1;
-            this.animate({
-                duration: options.duration,
-                delta: function(progress) {
-                    progress = this.progress;
-                    return FX.easing.swing(progress);
-                },
-                complete: options.complete,
-                step: function(delta) {
-					if(!element)return;
-					element.style.opacity = to - delta;
-		
-                }
-            });
-        },
-        fadeIn: function(element, options) {
-            var to = 1;
-            this.animate({
-                duration: options.duration,
-                delta: function(progress) {
-                    progress = this.progress;
-                    return FX.easing.swing(progress);
-                },
-                complete: options.complete,
-                step: function(delta) {
-                    element.style.opacity = 1;
-                }
-            });
-        }
-    };
-    window.FX = FX;
-})()
-
-	
-	
-	window.onload=function()
-	{
-		if(document.getElementById('frontpage_ad'))
-		{
-			FX.fadeIn(document.getElementById('frontpage_ad'), {
-				duration: 3000,
-				complete: function(){
-					document.getElementById('frontpage_ad').style.display="none";
-				}
-			});
-		}
-	};
-	
-	
-	</script>
-	
 	
 	<script>
 	
@@ -524,9 +407,9 @@ jQuery(document).ready(function($){$('#primary_menu').DropdownMaxiMenu({fxtransi
 <p style="margin: 7.5pt 0cm; line-height: 15.75pt;" align="left"><strong><span style="font-size: 12pt; font-family: Arial, sans-serif; color: #555555;">You have certain choices about sharing and marketing practices.</span></strong></p>
 <p style="line-height: 15.75pt;" align="left"><strong><span style="font-family: Arial, sans-serif; color: #666666;">You can opt out of receiving our marketing emails.</span></strong><span style="font-family: Arial, sans-serif; color: #666666;">&nbsp;To stop receiving our promotional emails, log into your Account and update your "Account setting." Even if you opt out of getting marketing messages, we will still send you transactional messages. These include responses to your questions. If you receive promotional emails from a third party, you will need to separately opt-out with them.</span></p>
 <p style="margin: 7.5pt 0cm; line-height: 15.75pt;" align="left"><strong><span style="font-size: 12pt; font-family: Arial, sans-serif; color: #555555;">Your California privacy rights.</span></strong></p>
-<p style="line-height: 15.75pt;" align="left"><span style="font-family: Arial, sans-serif; color: #666666;">If you reside in California, you have the right to ask us one time each year if we have shared personal information with third parties for their direct marketing purposes. To make a request, please send us an&nbsp;</span><a href="mailto:&lt;script type='text/javascript'&gt;&#10; &lt;!--&#10; var prefix = 'ma' + 'il' + 'to';&#10; var path = 'hr' + 'ef' + '=';&#10; var addy1921 = 'aboutsla' + '@';&#10; addy1921 = addy1921 + 'gmail' + '.' + 'com';&#10; document.write('&lt;a ' + path + '\'' + prefix + ':' + addy1921 + '\'&gt;');&#10; document.write(addy1921);&#10; document.write('&lt;\/a&gt;');&#10; //--&gt;\n &lt;/script&gt;&lt;script type='text/javascript'&gt;&#10; &lt;!--&#10; document.write('&lt;span style=\'display: none;\'&gt;');&#10; //--&gt;&#10; &lt;/script&gt;This email address is being protected from spambots. You need JavaScript enabled to view it.&#10; &lt;script type='text/javascript'&gt;&#10; &lt;!--&#10; document.write('&lt;/');&#10; document.write('span&gt;');&#10; //--&gt;&#10; &lt;/script&gt;"><span style="font-family: Arial, sans-serif;">email</span></a><span style="font-family: Arial, sans-serif; color: #666666;">, </span></p>
+<p style="line-height: 15.75pt;" align="left"><span style="font-family: Arial, sans-serif; color: #666666;">If you reside in California, you have the right to ask us one time each year if we have shared personal information with third parties for their direct marketing purposes. To make a request, please send us an&nbsp;</span><a href="mailto:&lt;script type='text/javascript'&gt;&#10; &lt;!--&#10; var prefix = 'ma' + 'il' + 'to';&#10; var path = 'hr' + 'ef' + '=';&#10; var addy92113 = 'aboutsla' + '@';&#10; addy92113 = addy92113 + 'gmail' + '.' + 'com';&#10; document.write('&lt;a ' + path + '\'' + prefix + ':' + addy92113 + '\'&gt;');&#10; document.write(addy92113);&#10; document.write('&lt;\/a&gt;');&#10; //--&gt;\n &lt;/script&gt;&lt;script type='text/javascript'&gt;&#10; &lt;!--&#10; document.write('&lt;span style=\'display: none;\'&gt;');&#10; //--&gt;&#10; &lt;/script&gt;This email address is being protected from spambots. You need JavaScript enabled to view it.&#10; &lt;script type='text/javascript'&gt;&#10; &lt;!--&#10; document.write('&lt;/');&#10; document.write('span&gt;');&#10; //--&gt;&#10; &lt;/script&gt;"><span style="font-family: Arial, sans-serif;">email</span></a><span style="font-family: Arial, sans-serif; color: #666666;">, </span></p>
 <p style="margin: 7.5pt 0cm; line-height: 15.75pt;" align="left"><strong><span style="font-size: 12pt; font-family: Arial, sans-serif; color: #555555;">These Sites and children.</span></strong></p>
-<p style="line-height: 15.75pt;" align="left"><span style="font-family: Arial, sans-serif; color: #666666;">Our sites is meant for adults. We do not knowingly collect personally identifiable information from children under 13 without permission from a parent or guardian. If you are a parent or legal guardian and think your child under 13 has given us information, you can&nbsp;</span><a href="mailto:&lt;script type='text/javascript'&gt;&#10; &lt;!--&#10; var prefix = 'ma' + 'il' + 'to';&#10; var path = 'hr' + 'ef' + '=';&#10; var addy36465 = 'aboutsla' + '@';&#10; addy36465 = addy36465 + 'gmail' + '.' + 'com';&#10; document.write('&lt;a ' + path + '\'' + prefix + ':' + addy36465 + '\'&gt;');&#10; document.write(addy36465);&#10; document.write('&lt;\/a&gt;');&#10; //--&gt;\n &lt;/script&gt;&lt;script type='text/javascript'&gt;&#10; &lt;!--&#10; document.write('&lt;span style=\'display: none;\'&gt;');&#10; //--&gt;&#10; &lt;/script&gt;This email address is being protected from spambots. You need JavaScript enabled to view it.&#10; &lt;script type='text/javascript'&gt;&#10; &lt;!--&#10; document.write('&lt;/');&#10; document.write('span&gt;');&#10; //--&gt;&#10; &lt;/script&gt;"><span style="font-family: Arial, sans-serif;">email</span></a><span style="font-family: Arial, sans-serif; color: #666666;"> us. </span></p>
+<p style="line-height: 15.75pt;" align="left"><span style="font-family: Arial, sans-serif; color: #666666;">Our sites is meant for adults. We do not knowingly collect personally identifiable information from children under 13 without permission from a parent or guardian. If you are a parent or legal guardian and think your child under 13 has given us information, you can&nbsp;</span><a href="mailto:&lt;script type='text/javascript'&gt;&#10; &lt;!--&#10; var prefix = 'ma' + 'il' + 'to';&#10; var path = 'hr' + 'ef' + '=';&#10; var addy77448 = 'aboutsla' + '@';&#10; addy77448 = addy77448 + 'gmail' + '.' + 'com';&#10; document.write('&lt;a ' + path + '\'' + prefix + ':' + addy77448 + '\'&gt;');&#10; document.write(addy77448);&#10; document.write('&lt;\/a&gt;');&#10; //--&gt;\n &lt;/script&gt;&lt;script type='text/javascript'&gt;&#10; &lt;!--&#10; document.write('&lt;span style=\'display: none;\'&gt;');&#10; //--&gt;&#10; &lt;/script&gt;This email address is being protected from spambots. You need JavaScript enabled to view it.&#10; &lt;script type='text/javascript'&gt;&#10; &lt;!--&#10; document.write('&lt;/');&#10; document.write('span&gt;');&#10; //--&gt;&#10; &lt;/script&gt;"><span style="font-family: Arial, sans-serif;">email</span></a><span style="font-family: Arial, sans-serif; color: #666666;"> us. </span></p>
 <p style="margin: 7.5pt 0cm; line-height: 15.75pt;" align="left"><strong><span style="font-size: 12pt; font-family: Arial, sans-serif; color: #555555;">We store information in the United States.</span></strong></p>
 <p style="line-height: 15.75pt;" align="left"><span style="font-family: Arial, sans-serif; color: #666666;">Information we maintain is stored within the United States. If you live outside of the United States, you understand and agree that we may transfer your information to the United States. This site is subject to U.S. laws, which may not afford the same level of protection as those in your country.</span></p>
 <p style="margin: 7.5pt 0cm; line-height: 15.75pt;" align="left"><strong><span style="font-size: 12pt; font-family: Arial, sans-serif; color: #555555;">We use standard security measures.</span></strong></p>
@@ -542,11 +425,11 @@ jQuery(document).ready(function($){$('#primary_menu').DropdownMaxiMenu({fxtransi
  <!--
  var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
  var path = 'hr' + 'ef' + '=';
- var addy21973 = '&#97;b&#111;&#117;tsl&#97;' + '&#64;';
- addy21973 = addy21973 + 'gm&#97;&#105;l' + '&#46;' + 'c&#111;m';
- var addy_text21973 = '&#97;b&#111;&#117;tsl&#97;' + '&#64;' + 'gm&#97;&#105;l' + '&#46;' + 'c&#111;m';
- document.write('<a ' + path + '\'' + prefix + ':' + addy21973 + '\'>');
- document.write(addy_text21973);
+ var addy24085 = '&#97;b&#111;&#117;tsl&#97;' + '&#64;';
+ addy24085 = addy24085 + 'gm&#97;&#105;l' + '&#46;' + 'c&#111;m';
+ var addy_text24085 = '&#97;b&#111;&#117;tsl&#97;' + '&#64;' + 'gm&#97;&#105;l' + '&#46;' + 'c&#111;m';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy24085 + '\'>');
+ document.write(addy_text24085);
  document.write('<\/a>');
  //-->\n </script><a href="mailto:aboutsla@gmail.com">aboutsla@gmail.com</a><script type="text/javascript">
  <!--
@@ -568,11 +451,11 @@ jQuery(document).ready(function($){$('#primary_menu').DropdownMaxiMenu({fxtransi
  <!--
  var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
  var path = 'hr' + 'ef' + '=';
- var addy69607 = '&#97;b&#111;&#117;tsl&#97;' + '&#64;';
- addy69607 = addy69607 + 'gm&#97;&#105;l' + '&#46;' + 'c&#111;m';
- var addy_text69607 = '&#97;b&#111;&#117;tsl&#97;' + '&#64;' + 'gm&#97;&#105;l' + '&#46;' + 'c&#111;m';
- document.write('<a ' + path + '\'' + prefix + ':' + addy69607 + '\'>');
- document.write(addy_text69607);
+ var addy96000 = '&#97;b&#111;&#117;tsl&#97;' + '&#64;';
+ addy96000 = addy96000 + 'gm&#97;&#105;l' + '&#46;' + 'c&#111;m';
+ var addy_text96000 = '&#97;b&#111;&#117;tsl&#97;' + '&#64;' + 'gm&#97;&#105;l' + '&#46;' + 'c&#111;m';
+ document.write('<a ' + path + '\'' + prefix + ':' + addy96000 + '\'>');
+ document.write(addy_text96000);
  document.write('<\/a>');
  //-->\n </script><a href="mailto:aboutsla@gmail.com">aboutsla@gmail.com</a><script type="text/javascript">
  <!--
@@ -734,6 +617,7 @@ jQuery(document).ready(function($){$('#primary_menu').DropdownMaxiMenu({fxtransi
 
 
 <script type="text/javascript">
+/*
 //初始化
 function C_slider(frame,list,Lframe,Llist,forwardEle,backEle,scrollType,LscrollType,acitonType,autoInterval){
 	this.frame = frame;
@@ -897,10 +781,14 @@ C_slider.prototype.extInterval = function(){
 }
 //实例化对象 
 var goSlide1 = new C_slider("big_frame","big_list","small_frame","small_list","forward","back","left","left","click",3000);
+
+*/
 </script>
 
 
 <script type="text/javascript">
+
+/*
 //初始化
 function C_slider(frame,list,Lframe,Llist,forwardEle,backEle,scrollType,LscrollType,acitonType,autoInterval){
 	this.frame = frame;
@@ -1038,15 +926,18 @@ C_slider.prototype.extInterval = function(){
 }
 //实例化对象 
 var goSlide = new C_slider("jar_big_frame","jar_big_list","jar_small_frame","jar_small_list","jar_forward","jar_back","left","left","click",3000);
+*/
 
 </script>
 
 <!-- dynamically load jquery support js file -->
-	<script src="/templates/gk_shop_and_buy/js/jquery.min.js" type="text/javascript"></script><script src="/templates/gk_shop_and_buy/js/jquery.lazyload.js" type="text/javascript"></script><script src="/templates/gk_shop_and_buy/js/all.js" type="text/javascript"></script>	
+<script src="/templates/gk_shop_and_buy/js/jquery.min.js" type="text/javascript"></script><script src="/templates/gk_shop_and_buy/js/jquery.lazyload.js" type="text/javascript"></script><script src="/templates/gk_shop_and_buy/js/all.js" type="text/javascript"></script>
+
+	
 	
 <script type="text/javascript" charset="utf-8">
   $(function(){
-	$("img.lazy").lazyload({threshold : 700});
+	//$("img.lazy").lazyload({threshold : 700});
   });
 </script>
 
