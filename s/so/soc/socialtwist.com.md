@@ -1,59 +1,69 @@
-> *The following text is extracted and transformed from the socialtwist.com privacy policy that was archived on 2014-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140220034602id_/http%3A//www.socialtwist.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialtwist.com privacy policy that was archived on 2014-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140815100742id_/http%3A//www.socialtwist.com/privacy-policy) for the most accurate reproduction.*
 
-# SocialTwist - Customer acquisition and retention platform using social referrals
+# Privacy Policy – SocialTwist
 
-## Privacy Policy[](http://www.truste.org/ivalidate.php?url=www.socialtwist.com&sealid=101)
+## Privacy **Policy**
+
+[](https://privacy.truste.com/privacy-seal/SocialTwist,-Inc--/validation?rid=e7fc31a2-98d9-4629-8734-4745e4183ffd "TRUSTe online privacy certification")
 
   
 
 
-###### Our commitment to privacy
+#### Our commitment to privacy
 
-SocialTwist, Inc. ("SocialTwist", "we", "us" or "our") has created this privacy policy to demonstrate our commitment to protecting the privacy of personally identifiable information about users of SocialTwist social marketing products and services and the SocialTwist platform (collectively, the "Services"). This privacy policy provides details about how your personal information is collected and used. Personal information is any information that identifies you or would enable someone to contact you, such as your name, email address, phone number and other non-public information associated with your individual identity. 
+SocialTwist, Inc. ("SocialTwist", "we", "us" or "our") has created this privacy policy to demonstrate our commitment to protecting the privacy of personal information about users of SocialTwist social marketing products and services and the SocialTwist platform (collectively, the "Services"). This privacy policy provides details about how your personal information is collected and used. Personal information is any information that identifies you or would enable someone to contact you, such as your name, email address, phone number and other non-public information associated with your individual identity.
+
+SocialTwist, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this website, www.socialtwist.com and through the SocialTwist social networking platform.
+
+TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [support@socialtwist.com](mailto:support@socialtwist.com). If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
 
 **Our Privacy Policy in short**
 
   * We will not disclose personal information collected from you other than as described in this policy.
   * We use the personal information we collect from you only in connection with providing the Services to our customers.
-  * We will not sell, rent or share personal information about you with third party marketers or others without your consent.
+  * We will not share personal information we collect about you to enable third party marketers to contact you without your consent.
 
 
 
 Use of Personal Information to perform Services
 
-We provide social marketing tools for our customers, which enable visitors to our customer's sites or sites we host for our customers, to share information about the customer's site with friends, using email and social networking sites. 
+We provide social marketing tools for our customers, which enable visitors to our customer's sites or sites we host for our customers, to share information about the customer's site with friends, using email and social networking sites.
 
-**If you are a customer** , we may require you to provide personal information about yourself when you register to use the Services. Such information may include your name, billing address, email address, registered domain and payment information so that we may process your order and establish your account. Upon registration, you will receive an order confirmation by email. 
+**If you are a customer,** we may require you to provide personal information about yourself when you register to use the Services. Such information may include your name, billing address, email address, registered domain and payment information so that we may process your order and establish your account. Upon registration, you will receive an order confirmation by email. 
 
 We do not sell, rent or share customer personal information with third parties. We do not sell customer lists to marketers.
 
 We may contact you by email regarding your orders and our Services. You may elect not to receive commercial marketing messages from us about the Services.
 
-We do not store any credit card numbers in our system except to process and transmit the information for payment processing. If you enter your credit card information to place an order, that information is encrypted and transmitted immediately for processing and authorization. Once the transaction is authorized, we delete the credit card information from our system, provided that if the Services you purchase require recurring billing, your information is encrypted and maintained by our payment processing provider.
+We do not store any credit card numbers in our system except to process and transmit the information for payment processing. If you enter your credit card information to place an order, that information is encrypted and transmitted immediately for processing and authorization. Once the transaction is authorized, we delete the credit card information from our system. If the Services you purchase require recurring billing, your information is encrypted and maintained by our payment processing provider.
 
 We may assign you a user ID and password to use the Services. We assume no responsibility for preventing third parties (other than our own employees) from using your login credentials, whether with or without your permission.
 
-Our customer list is an asset and trade secret of SocialTwist, Inc. and may be transferred with the company's assets in connection with any merger, acquisition or change of control of the business of the company.
+Our customer list is an asset and trade secret of SocialTwist, Inc. and may be transferred with the company's assets in connection with any merger, acquisition or change of control of the business of the company. You will be notified via email and/or a prominent notice on our website of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
 
 If you sign up for our affiliate program, we use your business contact information to communicate with you regarding the program and ours Services.
 
-**If you are a visitor to a customer's site** or a site hosted by us for a customer and you elect to share content or information from the site with your friends using our Services, you may be prompted to enter an email address and password, a social networking account ID and password, or other credentials in order to use our “tell-a-friend” widget or other Services.
+**If you are a visitor to a customer's site** or a site hosted by us for a customer and you elect to share content or information from the site with your friends using our Services, you may be prompted to enter an email address and password, a social networking account ID and password, or other credentials in order to use our platform or other Services.
 
 We do not market, sell or rent your email address or social networking account ID to third party marketers.
 
-If you tell someone about a customer's site using your email account, you will have to enter one or more friends' email addresses. A one-time email will then be sent to your friend(s) inviting them to visit the site. We do not collect, share or store your friends' email addresses. You may also access your email address book using the Services by selecting your address book service provider and entering your user ID and password. Only those friends that you select will be sent an email. We do not store your email account password or your contact lists.
+We will provide your email address to our customer (the sponsor of the program) for marketing purposes only if you have expressly agreed to share such information by checking the appropriate boxes or otherwise opting-in on any site using our Services.
 
-To refer friends to a customer's site using a social network, blog or bookmarking site, you will be asked to enter your account ID and password so that the content you want to share can be posted by you. We do not market or sell any personal information you provide to access and post content to social networks, blogs or bookmarking services.
+If you tell someone about a customer's site using your email account, you will have to enter one or more friends' email addresses. A one-time email will then be sent to your friend(s) inviting them to visit the site. We store your friends' addresses only for the purpose of allowing you to keep track of the friends with whom you share content. We do not share your friends' email addresses with any third party. You may also access your email address book using the Services by selecting your address book service provider and entering your user ID and password. Only those friends that you select will be sent an email. We do not store your email account password or your contact lists.
 
-We collect statistical data regarding the use of our Services which we use in our business. Such data may include non-personally identifiable information such as your computer IP address which we use for statistical demographic research, such as to determine the number of tell-a-friend messages directed to particular cities, states and countries. Such data also may include, for example, how many tell-a-friend messages are sent by you, which social networking or other channels are used, how many friends open the message, how many people click on the message, and how many clicks result in a purchase, signup or download.
+To refer friends to a customer's site using a social network, blog or bookmarking site, you will be asked to enter your account ID and password so that the content you want to share can be posted by you. We do not market or sell any personal information you provide to access and post content to social networks, blogs, instant messengers, or bookmarking services.
+
+We collect statistical data regarding the use of our Services which we use in our business. Such data may include non-personal information such as your computer IP address which we use for statistical demographic research, such as to determine the number of referral messages directed to particular cities, states and countries. Such data also may include, for example, how many referral messages are sent by you, which social networking or other channels are used, how many friends open the message, how many people click on the message, and how many clicks result in a purchase, signup or download.
 
 We may provide our customers with reports about the use of our Services including such statistical data. Our reports do not include personal information that can be used to identify or contact you, unless you have expressly agreed to share such information by checking the appropriate boxes or otherwise opting-in on any site using our Services.
 
-You may have the opportunity to opt-in and participate in certain programs involving rewards and benefits offered by our customers, such as Tell-a-Friend-for-Rewards contests. When you use these Services, we may collect, store and forward your name, email address or other personal information to the contest sponsor. Each customer/sponsor is responsible for any further use of your personal information as well as operation of the contest or other rewards program. Use of your personal information by a customer may be governed by contest rules or privacy statements established independently by each customer. We assume no responsibility for a customer's use of personal information you submit for the purpose of participating in contests and rewards programs.
+You may have the opportunity to opt-in and participate in certain programs involving rewards and benefits offered by our customers. When you use these Services, we may collect, store and forward your name, email address or other personal information to the contest sponsor. Each customer/sponsor is responsible for any further use of your personal information as well as operation of the contest or other rewards program. Use of your personal information by a customer may be governed by contest rules or privacy policies established independently by each customer. We assume no responsibility for a customer's use of personal information you submit for the purpose of participating in contests and rewards programs.
 
 Updating/Correcting/Deleting Personal Information
 
-If your personal information changes, or if you no longer desire to use our Services, you may correct, update, amend, delete/remove information or deactivate your account through our website or by emailing our Customer Support team at [unsubscribe@socialtwist.com.](mailto:unsubscribe@socialtwist.com) This e-mail address is protected from spambots and therefore you need JavaScript enabled to view it. Alternatively, you may contact us by telephone or postal mail at the contact information listed below.
+If your personal information changes, or if you no longer desire to use our Services, you may correct, update, amend, delete/remove information or deactivate your account through our website or by emailing our Customer Support team at [unsubscribe@socialtwist.com](mailto:unsubscribe@socialtwist.com). This e-mail address is protected from spambots and therefore you need JavaScript enabled to view it. Alternatively, you may contact us by telephone or postal mail at the contact information listed below.
+
+We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 Service-related communications and announcements
 
@@ -67,23 +77,50 @@ You must be 18 years of age or older to register and maintain an account with us
 
 Cookies and Other Sites
 
-When you access our website, we, or companies we hire to track how our website is used, may place small data files called "cookies" on your computer.
+When you access our website/services, we, or companies we hire to track how our website/service is used, may place small data files called "cookies" on your computer.
 
-We send a "session cookie" to your computer when you log in to your account. This type of cookie helps us to recognize you if you visit multiple pages on our site during the same session, so that we don't need to ask you for your password on each page. Once you log out or close your browser, this cookie expires and no longer has any effect.
+Cookies for customers accessing the SocialTwist configuration/analytics dashboard
 
-We also use longer-lasting cookies for other purposes such as to display your e-mail address on our sign-in form, so that you don't need to retype the e-mail address each time you log in to your account.
+We set a few cookies to on your browser when you log in to your SocialTwist account. This is done to ensure you are authenticated in all the screens you interact with and so we do not need to ask you for your password on each page. We also use cookies to ensure integrity of data across accounts.  
+Once you log out or close your browser, this cookie expires and no longer has any effect.
+
+Cookies for consumers using SocialTwist services
+
+We also use longer-lasting cookies for purposes such as to pre-fill your e-mail address when you return to a SocialTwist program registration form or to uniquely count you as a user of the program.
 
 We encode our cookies so that only we can interpret the information stored in them. You are free to decline our cookies if your browser permits, but doing so may interfere with your use of our website and Services.
 
-This Privacy Policy applies to www.socialtwist.com and we are not responsible for the privacy policies, practices or contents of any third party websites. Please refer to the privacy policies of such third party websites for information on what kinds of personally identifiable information such websites collect and their respective privacy practices, terms, and conditions.
+This Privacy Policy applies to [SocialTwist](http://www.socialtwist.com/) website and services and we are not responsible for the privacy policies, practices or contents of any third party websites. Please refer to the privacy policies of such third party websites for information on what kinds of personal information such websites collect and their respective privacy practices, terms, and conditions.
 
-The use of cookies by our partners/affiliates is not covered by our privacy statement. We do not have access or control over these cookies.
+The use of cookies by our customers/partners/affiliates is not covered by our privacy policy. We do not have access or control over these cookies.
+
+  * Web Beacons / Gifs
+
+
+
+We employ [or our third party advertising partner employs] a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We tie the information gathered by clear gifs to our customers’ personal information.
+
+  * Analytics / Log Files
+
+
+
+As is true of most websites, we gather certain information automatically and store it in log files. This information includes Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
+
+We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users’ movements around the site and to gather demographic information about our user base as a whole.
+
+We do not link this automatically-collected data to personal information.
+
+However, when a user submits a form on our website or in any of our social programs, we capture all the above information and map it to the user. This is done to learn more about the user, to prevent any abuse/fraud/spam and to support the user if the user reports an issue.
 
 Comments posted in public forums
 
-If you use a bulletin board, blog, or chat room on this website, you should be aware that any personal information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personal information you choose to submit in these forums.
+If you use a bulletin board, blog, or chat room on this website, you should be aware that any personal information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personal information you choose to submit in these forums. To request removal of your personal information from our blog or community forum, contact us at [support@socialtwist.com](mailto:support@socialtwist.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 We have no obligation to keep the information posted to our public website or blog private or protected in any way. All such content may be published by us in any media in our discretion. SocialTwist, its members, officers, employees and agents assume no liability or responsibility for your use of the public website or blog to post comments or other information, or for any person's use of any information you post.
+
+Social Media Services
+
+Our website and service widgets may include social media features, enabling you, for example, to choose a social media service such as Facebook to share content with your contacts. We have programmed these features to comply with this Privacy Policy to the extent these features are hosted and operated by us. Your interactions with social media services at websites or within applications not hosted and operated by us are governed by the privacy policies of such third party services, website and applications.
 
 Disclosure of information as required by law or to protect people
 
@@ -95,18 +132,18 @@ The security of your personal information is important to us. When you enter sen
 
 We follow generally accepted industry standards to protect personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-If you have any questions about security on our Web site, you can email us at [support@socialtwist.com](mailto:support@socialtwist.com)
+If you have any questions about security on our website, you can email us at [support@socialtwist.com](mailto:support@socialtwist.com)
 
 Deactivating your account
 
-You always have the option to cancel your account with us at any time. Simply sign in to your account and click on 'Details' on the side navigation; then select 'delete' and your account will be deactivated. You may request to have your registration account information removed by submitting a request to unsubscribe@socialtwist.com. This e-mail address is being protected from spambots. You need JavaScript enabled to view it. Alternatively you may call customer support at (866) 660-6044 Monday through Friday between the hours of 9am and 5pm PST or write us at SocialTwist, Inc., 1975 W. El Camino Real, Suite 301, Mountain View, CA 94040. Your account will be deactivated within 3 business days of our receipt of your request.
+You always have the option to cancel your account with us at any time. Simply sign in to your account and click on 'Details' on the side navigation; then select 'delete' and your account will be deactivated. You may request to have your registration account information removed by submitting a request to [unsubscribe@socialtwist.com](mailto:unsubscribe@socialtwist.com). This e-mail address is being protected from spambots. You need JavaScript enabled to view it. Alternatively you may call customer support at (866) 660-6044 Monday through Friday between the hours of 9am and 5pm PST or write us at SocialTwist, Inc., 1975 W. El Camino Real, Suite 301, Mountain View, CA 94040. Your account will be deactivated within 3 business days of our receipt of your request.
 
 Changes to this Privacy Policy
 
-We reserve the right to modify this privacy policy at any time, so please return to this site and review the policy regularly.
+We reserve the right to modify this privacy policy at any time. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this website prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
 How to Contact Us
 
-If you have any questions about this privacy policy, SocialTwist's information practices, or your dealings with SocialTwist, you can contact us using our Contact Us form, call (866) 660-6044 Monday through Friday between the hours of 9am and 5pm PST, or write us at SocialTwist, Inc., 1975 W. El Camino Real, Suite 301, Mountain View, CA 94040.
+If you have any questions about this privacy policy, SocialTwist's information practices, or your dealings with SocialTwist, you can contact us using our [Contact Us form](http://www.socialtwist.com/contact-us), call (866) 660-6044 Monday through Friday between the hours of 9am and 5pm PST, or write us at SocialTwist, Inc., 1975 W. El Camino Real, Suite 301, Mountain View, CA 94040.
 
-Updated March 2012
+**Updated June 4, 2014**
