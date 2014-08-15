@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifesafeol.com privacy policy that was archived on 2014-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140611235026id_/http%3A//www.lifesafeol.com/%3Fpage_id%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifesafeol.com privacy policy that was archived on 2014-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140815113839id_/http%3A//www.lifesafeol.com/%3Fpage_id%3D2) for the most accurate reproduction.*
 
 # lifesafeol.com » Privacy Policy
 
