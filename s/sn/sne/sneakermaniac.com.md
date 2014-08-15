@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sneakermaniac.com privacy policy that was archived on 2014-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140216233113id_/http%3A//www.equniu.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sneakermaniac.com privacy policy that was archived on 2014-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140815201109id_/http%3A//www.equniu.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy • EQUNIU
 
 Thank you for visiting EQUNIU.com. YOU SHOULD READ THE FOLLOWING TERMS CAREFULLY BEFORE USING THIS SITE. These Legal Conditions govern the use of and access to this website (www.equniu.com and EQUNIU).
 
