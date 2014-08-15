@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flukenetworks.com privacy policy that was archived on 2014-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140510225652id_/http%3A//www.flukenetworks.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flukenetworks.com privacy policy that was archived on 2014-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140816000234id_/http%3A//www.flukenetworks.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -103,7 +103,7 @@ When you first launch any of our mobile applications that collect location infor
 
 **Promotional Communications**
 
-You may opt out of receiving promotional emails from us by following the instructions in those emails or by emailing us at [info@flukenetworks.com](mailto:info@flukenetworks.com). If you opt out, we may still send you non-promotional communications, such as those about your account or our ongoing business relations.
+You may opt out of receiving promotional emails from us by following the instructions in those emails or by visiting our [subscription center](http://www.flukenetworks.com/subscriptions) and indicate your communication preference. If you opt out, we may still send you non-promotional communications, such as those about your account or our ongoing business relations.
 
 **Push Notifications/Alerts**
 
