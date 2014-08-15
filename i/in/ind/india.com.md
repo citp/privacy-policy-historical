@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the india.com privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627141050id_/http%3A//www.india.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the india.com privacy policy that was archived on 2014-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140815182206id_/http%3A//www.india.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Latest Stories & Gossip on Popular Trends at India.com
 
@@ -219,6 +219,6 @@ How you use data from Google’s Interest-based advertising or 3rd-party audienc
 
 India Webportal Private Limited  
 JV between PMC and Zee Entertainment Enterprises Ltd  
-B/1201 BSEL Tech Park, Near Vashi Rly Station,  
-Navi Mumbai, India 400705  
+8th floor, Vishwaroop IT Park, Opp. Vashi Railway Station, Sector 30A, Vashi,  
+Navi Mumbai-400703, Maharashtra, India  
 Main Vashi Office: +91-22-40130272
