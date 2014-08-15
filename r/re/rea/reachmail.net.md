@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the reachmail.net privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214014142id_/http%3A//www.reachmail.net/pages/privacy_policy/13.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reachmail.net privacy policy that was archived on 2014-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140815045143id_/http%3A//www.reachmail.net/privacy_policy) for the most accurate reproduction.*
 
-# ReachMail - Privacy Policy
+# Free Email Marketing Software, Services & Tools | ReachMail
 
 ReachMail is committed to the highest standards of Privacy and maintains a strict Anti-Spam policy. 
 
@@ -41,6 +41,10 @@ Your recipient lists are stored on a secure ReachMail server. We do not, under a
 
   
 
+
+## Abandoned accounts
+
+As a further measure against unauthorized access to account data and to more completely insure ReachMail's system integrity, any account which remains inactive for one year will be purged from the system. Periods of inactivity are measured from the last login date. Purges will include **all** account data including mailings, lists, users, and reports. Accounts that have been purged cannot be restored. 
 
 ## Email Recipient Policy
 
