@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aloha.com privacy policy that was archived on 2014-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140530193228id_/http%3A//aloha.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aloha.com privacy policy that was archived on 2014-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140815122146id_/https%3A//aloha.com/privacy) for the most accurate reproduction.*
 
-# ALOHA
+# Aloha.com Privacy | Privacy by ALOHA Healthy Supplements
 
 **Last Updated: 11/18/2013**
 
