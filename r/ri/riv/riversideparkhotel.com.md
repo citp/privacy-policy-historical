@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the riversideparkhotel.com privacy policy that was archived on 2014-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140612204026id_/http%3A//www.riversideparkhotel.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the riversideparkhotel.com privacy policy that was archived on 2014-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140815040701id_/http%3A//www.riversideparkhotel.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
