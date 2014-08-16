@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tirip.com privacy policy that was archived on 2013-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131203181332id_/http%3A//en.iransong.com/Privacy_Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tirip.com privacy policy that was archived on 2014-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140816034249id_/https%3A//tirip.com/Privacy_Policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
@@ -31,6 +31,10 @@ We may use “cookies” to keep, and sometimes track, information about you. Co
 You may occasionally get cookies from our advertisers, which is standard in the internet industry. We do not control these cookies, and these cookies are not subject to our privacy policies. 
 
 Most Web browsers can be set to inform you when a cookie has been sent to you and provide you with the opportunity to refuse that cookie. Additionally, if you have a Flash player installed on your computer, your Flash player can be set to reject or delete Flash cookies. However, refusing a cookie may, in some cases, preclude you from using, or negatively impact the display or function of, the Web Site or certain areas or features of the Web Site. 
+
+**Cookies & 3rd Party Advertisements**  
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.   
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit http://www.networkadvertising.org/managing/opt_out.asp. 
 
 **(ii) Clear GIFs**
 
@@ -149,3 +153,6 @@ Blue Art reserves the right to change or update this Privacy Policy, or any othe
 If you have any questions or comments regarding our privacy practices, please find our contact details and email address on our [contact page](https://web.archive.org/contact.htm). 
 
 Effective Date: December 10th, 2002 
+
+_This page was generated in 0.00 seconds._  
+© TIRIP [Persian Music](https://tirip.com/ "Persian Music and Entertainment 24/7") Jan 2002 to 2014
