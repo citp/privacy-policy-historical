@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mac-forums.com privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616134815id_/http%3A//www.mac-forums.com/blog/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mac-forums.com privacy policy that was archived on 2014-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140816122817id_/http%3A//www.mac-forums.com/blog/privacy) for the most accurate reproduction.*
 
 # Privacy | Mac-Forums BlogMac-Forums Blog
 
