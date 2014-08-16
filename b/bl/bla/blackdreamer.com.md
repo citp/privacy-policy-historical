@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blackdreamer.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625092916id_/http%3A//blackdreamer.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackdreamer.com privacy policy that was archived on 2014-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140816112027id_/http%3A//blackdreamer.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Blackdreamer.com
 
