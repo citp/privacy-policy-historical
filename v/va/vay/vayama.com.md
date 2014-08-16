@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vayama.com privacy policy that was archived on 2014-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140606205432id_/http%3A//www.vayama.com/aboutus/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vayama.com privacy policy that was archived on 2014-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140816122922id_/http%3A//www.vayama.com/aboutus/privacy) for the most accurate reproduction.*
 
 # vayama | privacy
 
