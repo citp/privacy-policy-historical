@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the 24option.com privacy policy that was archived on 2012-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121122091345id_/http%3A//24option.com/privacyandsecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 24option.com privacy policy that was archived on 2014-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140816151745id_/https%3A//www.24option.com/privacyandsecurity) for the most accurate reproduction.*
 
-# Security and Privacy - 24option
+# Security and privacy measured taken seriously at 24option
 
-Last Updated: September 21, 2011
+Last Updated: December 08, 2013
 
-YAYMAY INVESTMENTS LIMITED (Reg # 274571). (“ **we, our or us** ”) provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive when you visit www.24option.com (the “ **Site** ”) and when you use any part of our service available through the Site (the “ **Service** ”).
+Rodeler Limited (“ **we, our or us** ”) provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive when you visit [www.24option.com](http://www.24option.com/) (the “ **Site** ”) and when you use any part of our service available through the Site (the “ **Service** ”).
 
 This Policy may be amended or updated from time to time. If we make any material changes to this Policy, we will post a notice of these changes on our website and in this Policy. You are advised to consult this Policy regularly for any changes.
 
