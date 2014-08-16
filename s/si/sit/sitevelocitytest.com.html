@@ -1,254 +1,104 @@
-<!--The following is the downloaded HTML source of the sitevelocitytest.com privacy policy that was archived on 2014-02-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140209202717id_/http%3A//www.sitevelocitytest.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sitevelocitytest.com privacy policy that was archived on 2014-08-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140816110019id_/http%3A//sitevelocitytest.com/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Privacy Policy</title>
-<link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon">
-<link rel="bookmark icon" href="/img/favicon.ico" type="image/x-icon">
-<link href="/css/bootstrap.css" rel="stylesheet">
-<link href="/fonts/stylesheet.css" rel="stylesheet" type="text/css">
-<link href="/css/sitevelocitytest.css" rel="stylesheet" type="text/css">
-<link href="/js/prettify.css" rel="stylesheet">
-<link href="/css/reset.css" rel="stylesheet" type="text/css">
-<script type="text/javascript" src="/lib/jquery-1.9.0.min.js"></script>
-<script type="text/javascript" src="/js/main.js"></script>
-<script>
-$(document).ready(function() {
-	$('#test').click(function() {
-		location.href="/lookup/"+$("#appendedPrependedInput").val();
-	    return false;
-	});
-	//show form login
-	$('#login').click(function(){
-		$('#Logins').modal('show');
-	});
-	$('.login_2').click(function(){
-		$('#Logins').modal('show');
-	});
-	$('#logueo').click(function() {
-		$.post("/login/", { email: $("#inputEmail").val(), pass: $('#inputPassword').val() })
-		.done(function(data) {
-		  switch(data){
-				case '101': $('#err').fadeIn('slow'); $('#problem').replaceWith('<p id="problem" class="label label-warning">Fields should not be empty</p>'); break;
-				case '200': $('#login').modal('hide'); location.href="http://sitevelocitytest.com/privacy"; break;
-				case '404': $('#err').fadeIn('slow'); $('#problem').replaceWith('<p id="problem" class="label label-important">User not found</p>'); break;
-			}
-		});
+<link rel="stylesheet" type="text/css" href="/css/main.css">
+</head>
+<body>
+<div class="top">
+	<div class="top_center">
+		<div class="logo">
+			<a href="/">
+				<img src="/img/logo.png">
+			</a>
+		</div>
+				<div class="cont_login">
+			<button class="btn" onclick="ir()">Sign Up</button>
+			<a href="/login" class="login">Login</a>
+		</div>
+				<div class="menu">
+			<a href="/" class="home ">Home</a>
+			<a href="/about" class="about ">About</a>
+			<a href="/contact" class="contact ">Contact</a>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+ function ir(){
+ 	location.href='/sign_up';
+ }
+</script><div class="cuerpo">
+	<div class="spacetop"></div>
+	<div class="cuerpo_center padding_menos">
+		<div class="box_text_in">
+			<h1>Privacy Policy</h1>
+			<p>At Sitealytic, we are keenly aware of the trust you place in us and our responsibility to protect your privacy. As part of this responsibility, we let you know what information we collect when you use our website analysis tool, why we collect it and how we use it to improve your experience. By using the Sitealytic web tool, you consent to the data practices described in this statement.
+Information Collection</p>
+<p>
+Every data collected by the Sitealytic tool can be manually accessed by several other means publicly available online (Whois Lookup, Google Cached Pages, etc.). That's why every single report generated on www.Sitealytic.com is considered 'public' and is thus stored in our database. Furthermore it can be indexed by search engines.
+Sitealytic collects and uses website information to operate its website analysis tool and deliver the services you have requested. This information can include: IP address, domain names, estimated visitors, in-site and off-site SEO analysis, usability, access times and referring website addresses. This information is used by Sitealytic for the operation of its service and to provide general statistics regarding use of the Sitealytic web tool.
+Use of Personal Information</p>
+<p>
+If you subscribe to the newsletter Sitealytic may use your personally identifiable email to inform you of other products or services available from Sitealytic and its affiliates. Sitealytic may also contact you via surveys to conduct research about your opinion of current services or of potential new services. Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through the Sitealytic blog, this information may be collected and used by others.
+Sitealytic does not sell, rent or lease its customer lists to third parties. Sitealytic may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, Sitealytic may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. Such third parties are prohibited from using your personal information except to provide these services to Sitealytic, and they are required to maintain the confidentiality of your information.
+Sitealytic web tools will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Sitealytic or the site; (b) protect and defend the rights or property of Sitealytic (including enforcing this agreement); and, (c) act under exigent circumstances to protect the personal safety of users of Sitealytic, or the public.
+Security of your Personal Information</p>
+<p>
+No method of safeguarding information is 100% secure. Sitealytic uses a variety of security technologies and procedures to help protect your personal information from unauthorized access, use or disclosure. Sitealytic secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other websites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
+Changes to this Statement</p>
+<p>
+Sitealytic will occasionally update this Statement of Privacy to reflect company and customer feedback. Sitealytic encourages you to periodically review this Statement to be informed of how Sitealytic is protecting your information. When such a change is made, we will update the "Last Updated" date below.</p>
+		</div>
+		<div class="slider_dr">
+			<div class="search_mini">
+	<div class="input_lupa">
+		<span>
+			<img src="/img/lupa_min.png">
+		</span>
+		<form method="GET" action="/lookup">
+			<input type="text" name="domain" placeholder="Search" required="">
+			<button type="submit">Go!</button>
+		</form>
+	</div>
+</div>	
+<div class="adv">
+	<!--Copy and paste the code below into the location on your website where the ad will appear.-->
+	<script type="text/javascript">
+		var adParams = {a: '11882072', size: '300x250',serverdomain: 's.m2pub.com'  };
+	</script>
+	<script type="text/javascript" src="http://creative.m2pub.com/matomy/scripts/smart/smart.js"></script>
 
-	});
-	$('#signx').click(function() {
-		$.post("/sign_up/", { 
-			name: $("#inputName").val(), 
-			lasname: $("#apellido").val(), 
-			email: $("#inputEmails").val(), 
-			pass: $('#inputPass').val(),
-			repass: $('#inputrePass').val(),
-			challenge_field: $('#recaptcha_challenge_field').val(),
-        	response_field: $('#recaptcha_response_field').val()  
-		})
-		.done(function(data) {
-		  switch(data){
-				case '100': $('#err1_sign').fadeIn('slow'); $('#problem_sign').replaceWith('<p id="problem_sign" class="label label-warning">Existing User</p>'); break;
-				case '101': $('#err1_sign').fadeIn('slow'); $('#problem_sign').replaceWith('<p id="problem_sign" class="label label-warning">Mismatch password</p>'); break;
-				case '200': $('#Sign-up').modal('hide'); location.href="http://sitevelocitytest.com/privacy"; break;
-				case '201': $('#err1_sign').fadeIn('slow'); $('#problem_sign').replaceWith('<p id="problem_sign" class="label label-important">Incorrect captcha</p>'); break;
-				case '409': $('#err1_sign').fadeIn('slow'); $('#problem_sign').replaceWith('<p id="problem_sign" class="label label-warning">Invalid email</p>'); break;
-				case '417': $('#err1_sign').fadeIn('slow'); $('#problem_sign').replaceWith('<p id="problem_sign" class="label label-important">Fields should not be empty</p>'); break;
-			}
-		});
+	<iframe data-aa="21980" src="//ad.a-ads.com/21980?size=300x250&amp;background_color=f7f0e8&amp;text_color=444444&amp;title_color=87a803&amp;title_hover_color=36ab19&amp;link_color=36ab19&amp;link_hover_color=87a803" scrolling="no" style="width:300px; height:250px; border:0px; padding:0;overflow:hidden" allowtransparency="true"></iframe>
+</div>	
+		</div>
+		<div class="clear"></div>
+	</div>
+</div>
+<div class="footer">
+	<div class="sub_footer">
+		<div class="sub_menu">
+			<a href="/">Home</a>
+			<span>|</span>
+			<a href="/about">About</a>
+			<span>|</span>
+			<a href="/api">Api</a>
+			<span>|</span>
+			<a href="/contact">Help and Support</a>
+			<span>|</span>
+			<a href="/privacy_policy">Privacy policy</a>
 
-	});
-	
+		</div>	
+	</div>
+	<div class="copy">
+		<p>© Siteanalytic.com  - Copyright 2014  - All Rights Reserved</p>
+	</div>
+</div>
 
-	//show form register
-	$('#Sign-in').click(function(){
-		$('#Sign-up').modal('show');
-	});
-	//Submit de form test_domain
-	$('#test_form').submit(function() {
-	      location.href="/lookup/"+$("#test_input").val();
-	      return false;
-	  });
-	$('.fancybox').fancybox({
-			'width'				: '50%',
-			'height'			: '75%',
-	        'autoScale'     	: false,
-	        'transitionIn'		: 'none',
-			'transitionOut'		: 'none',
-			'type'				: 'iframe'
-		});
-});
-</script>
-<style id="holderjs-style" type="text/css">.holderjs-fluid {font-size:16px;font-weight:bold;text-align:center;font-family:sans-serif;margin:0}</style></head>
-<body style="zoom: 1;">
-
-  <header>
-      <div class="wrapper">
-          <div id="logo"><a href="/"><img src="/gfx/sitevelocitytest.png"></a></div>
-                      <div id="topsearch">
-                  <input name="" type="submit" class="searchbuttongo blanch" id="login" border="0" value="Sign In">
-			      <nav class="footernav clearfix">
-			          <ul>
-			              <li><a href="/">Home</a></li>
-			              <li><a href="/about">About</a></li>
-			              <li><a href="/contact">Contact</a></li>
-			          </ul>
-			       </nav>
-            </div><!-- topsearch -->
-                  </div><!-- wrapper -->
-    </header>
-
-	  
-    <section class="bigheadlinecontainer">
-        <div class="cont_width" style="padding-top:20px; line-height:normal;">
-          	<div class="bs-docs">
-          		<h1>Privacy Policy</h1>
-                             <p>At SiteVelocityTest, we are keenly aware of the trust you place in us and our responsibility to protect your privacy. As part of this responsibility, we let you know what information we collect when you use our website analysis tool, why we collect it and how we use it to improve your experience. By using the SiteVelocityTest web tool, you consent to the data practices described in this statement.</p>
-               <h2>Information Collection</h2>
-               <p>Every data collected by the SiteVelocityTest tool can be manually accessed by several other means publicly available online (Whois Lookup, Google Cached Pages, etc.). That's why every single report generated on www.SiteVelocityTest.com is considered 'public' and is thus stored in our database. Furthermore it can be indexed by search engines.</p>
-               <p>SiteVelocityTest collects and uses website information to operate its website analysis tool and deliver the services you have requested. This information can include: IP address, domain names, estimated visitors, in-site and off-site SEO analysis, usability, access times and referring website addresses. This information is used by SiteVelocityTest for the operation of its service and to provide general statistics regarding use of the SiteVelocityTest web tool.</p>
-               <h2>Use of Personal Information</h2>
-               <p>If you subscribe to the newsletter SiteVelocityTest may use your personally identifiable email to inform you of other products or services available from SiteVelocityTest and its affiliates. SiteVelocityTest may also contact you via surveys to conduct research about your opinion of current services or of potential new services. Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through the SiteVelocityTest blog, this information may be collected and used by others.</p>
-               <p>SiteVelocityTest does not sell, rent or lease its customer lists to third parties. SiteVelocityTest may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, SiteVelocityTest may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. Such third parties are prohibited from using your personal information except to provide these services to SiteVelocityTest, and they are required to maintain the confidentiality of your information.</p>
-               <p>SiteVelocityTest web tools will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on SiteVelocityTest or the site; (b) protect and defend the rights or property of SiteVelocityTest (including enforcing this agreement); and, (c) act under exigent circumstances to protect the personal safety of users of SiteVelocityTest, or the public.</p>
-               <h2>Security of your Personal Information</h2>
-               <p>No method of safeguarding information is 100% secure. SiteVelocityTest uses a variety of security technologies and procedures to help protect your personal information from unauthorized access, use or disclosure. SiteVelocityTest secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other websites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.</p>
-               <h2>Changes to this Statement</h2>
-               <p>SiteVelocityTest will occasionally update this Statement of Privacy to reflect company and customer feedback. SiteVelocityTest encourages you to periodically review this Statement to be informed of how SiteVelocityTest is protecting your information. When such a change is made, we will update the "Last Updated" date below.</p>
-          	</div>
-        </div> 
-
-    </section><!-- bigheadlinecontainer -->
-
-
-	<script src="/js/bootstrap-transition.js"></script>
-<script src="/js/bootstrap-dropdown.js"></script>
-<script src="/js/bootstrap-scrollspy.js"></script>
-<script src="/js/bootstrap-tab.js"></script>
-<script src="/js/bootstrap-button.js"></script>
-<script src="/js/bootstrap-collapse.js"></script>
-<script src="/js/bootstrap-affix.js"></script>
-<script src="/js/bootstrap-modal.js"></script>
-<script src="/js/holder.js"></script>
-<script src="/js/application.js"></script>
-<script src="/js/highcharts.js"></script>
-<script src="/js/modules/exporting.js"></script>	<!-- Login -->
-    <div id="Logins" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-      <div class="modal-header">
-        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-        <h3 id="myModalLabel">User Login</h3>
-      </div>
-      <div class="modal-body">
-        <form class="form-horizontal">
-          <div class="control-group">
-            <label class="control-label" for="inputEmail">Email</label>
-            <div class="controls">
-              <input type="text" id="inputEmail" placeholder="Email">
-            </div>
-          </div>
-          <div class="control-group">
-            <label class="control-label" for="inputPassword">Password</label>
-            <div class="controls">
-              <input type="password" id="inputPassword" placeholder="Password">
-            </div>
-          </div>
-          <div class="control-group">
-            <div class="controls" id="err" style="display:none;">
-              <p id="problem"></p>
-            </div>
-          </div>
-        </form>
-      </div>
-      <div class="modal-footer">
-        <button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
-        <button class="btn btn-primary" id="logueo">Login</button>
-      </div>
-    </div>
-	<!-- Sign in -->
-    <div id="Sign-up" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-      <div class="modal-header">
-        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
-        <h3 id="myModalLabel">Sign In</h3>
-      </div>
-      <div class="modal-body">
-        <form class="form-horizontal">
-          <!--Name-->
-          <div class="control-group">
-            <label class="control-label" for="inputName">Name *</label>
-            <div class="controls">
-              <input placeholder="Your name" id="inputName" type="text">
-            </div>
-          </div>
-          <!--Last name-->
-          <div class="control-group">
-            <label class="control-label" for="inputLastName">Last Name *</label>
-            <div class="controls">
-              <input placeholder="Your last name" id="apellido" type="text">
-            </div>
-          </div>
-          <!--Email-->
-          <div class="control-group">
-            <label class="control-label" for="inputEmail">Email *</label>
-            <div class="controls">
-              <input placeholder="test@example.com" id="inputEmails" type="email" required="">
-            </div>
-          </div>
-          <!--Password-->
-          <div class="control-group">
-            <label class="control-label" for="inputPassword">Password *</label>
-            <div class="controls">
-              <input type="password" id="inputPass" placeholder="Password">
-            </div>
-          </div>
-          <!--Confirm Password-->
-          <div class="control-group">
-            <label class="control-label" for="inputrePass">Confirm Password *</label>
-            <div class="controls">
-              <input type="password" id="inputrePass" placeholder="Password">
-            </div>
-          </div>
-          <div class="control-group">
-                  <label class="control-label" for="recaptcha"></label>
-                  <div class="controls">
-                   <script type="text/javascript" src="http://www.google.com/recaptcha/api/challenge?k=6LdI0N8SAAAAAL0bBw4TVOXaTh7jkxS9QzdqVFJm"></script>
-
-	<noscript>
-  		<iframe src="http://www.google.com/recaptcha/api/noscript?k=6LdI0N8SAAAAAL0bBw4TVOXaTh7jkxS9QzdqVFJm" height="300" width="500" frameborder="0"></iframe><br/>
-  		<textarea name="recaptcha_challenge_field" rows="3" cols="40"></textarea>
-  		<input type="hidden" name="recaptcha_response_field" value="manual_challenge"/>
-	</noscript>                  </div>
-                </div>
-          <!--Type of error-->
-          <div class="control-group">
-            <div class="controls" id="err1_sign" style="display:none;">
-              <p id="problem_sign"></p>
-            </div>
-          </div>
-        </form>
-      </div>
-      <div class="modal-footer">
-        <button class="btn" data-dismiss="modal" aria-hidden="true">Close</button>
-        <button class="btn btn-primary" id="signx">Sign In</button>
-      </div>
-    </div>
-      <footer>
-  <div class="wrapper">
-      <nav class="footernav clearfix">
-          <ul>
-              <li><a href="/about">About</a></li>
-                <li><a href="/report_a_policy_violation">Report a policy Violation</a></li>
-                <li><a href="/contact">Help and Support</a></li>
-                <li><a href="/privacy">Privacy Policy</a></li>
-            </ul>
-        </nav>
-        <div class="credits">SiteVelocityTest.com - Copyright 2014 - All rights reserved</div><!-- credits -->
-    </div><!-- wrapper -->
-</footer>
 <script type="text/javascript" src="http://include.reinvigorate.net/re_.js"></script>
 <script type="text/javascript">
 try {
-reinvigorate.track("p6025-9z1i464239");
+reinvigorate.track("t6i47-z8g8097c2j");
 } catch(err) {}
 </script>
 </body></html>
