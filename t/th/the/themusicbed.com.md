@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themusicbed.com privacy policy that was archived on 2014-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140415130020id_/https%3A//www.themusicbed.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themusicbed.com privacy policy that was archived on 2014-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140816103527id_/https%3A//www.themusicbed.com/privacy-policy) for the most accurate reproduction.*
 
 # Stock Music Licensing for Video, Photography & Film - The Music Bed
 
