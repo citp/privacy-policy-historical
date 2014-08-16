@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bicycletutor.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625090707id_/http%3A//bicycletutor.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bicycletutor.com privacy policy that was archived on 2014-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140816201154id_/http%3A//bicycletutor.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Bicycle Tutor
 
