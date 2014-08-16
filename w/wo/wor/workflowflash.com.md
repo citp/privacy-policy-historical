@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the workflowflash.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209235653id_/http%3A//workflowflash.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workflowflash.com privacy policy that was archived on 2014-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140816185817id_/http%3A//workflowflash.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Workflow: Flash
 
@@ -16,4 +16,4 @@ This web site contains links to other sites. Please be aware that WorkflowFlash.
 
 Additionally, WorkflowFlash.com will never sell or transmit e-mail addresses or any other personal identifiers to 3rd parties. Use of the registration system is optional; however it does maximize the user’s experience here at the site. 
 
-If you have any questions regarding our privacy policy, please do not hesitate to contact us! Thank you for your cooperation.
+If you have any questions regarding our privacy policy, please do not hesitate to [contact us](https://web.archive.org/feedback)! Thank you for your cooperation.
