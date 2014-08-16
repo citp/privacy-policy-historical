@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thelendersnetwork.com privacy policy that was archived on 2014-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140108075133id_/https%3A//thelendersnetwork.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelendersnetwork.com privacy policy that was archived on 2014-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140816110303id_/https%3A//thelendersnetwork.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | The Lenders Network
 
-**The Lenders Network Privacy Policy**
+## **The Lenders Network Privacy Policy**
 
 This privacy policy sets out how The Lenders Network uses and protects any information that you provide on our website.  
 The Lenders Network is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
@@ -36,11 +36,9 @@ Our website may contain links to enable you to visit other websites of interest 
 **
 
   * Prospect Mortgage
-  * Quicken Loans
+  * Guaranteed Rate
   * First State Mortgage
   * Blue Wave Funding
   * Rowlett Mortgage
-  * Gold Financial
-  * RH Lending
 
 
