@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iboobo.com privacy policy that was archived on 2014-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140613004636id_/http%3A//www.iboobo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iboobo.com privacy policy that was archived on 2014-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140816174310id_/http%3A//www.iboobo.com/privacy) for the most accurate reproduction.*
 
 # Iboobo Web Design Privacy page - Iboobo Web Design Pte Ltd
 
