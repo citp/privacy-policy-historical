@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barquery.com privacy policy that was archived on 2013-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130817001522id_/http%3A//barquery.com%3Ftmp%3Dhugo_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barquery.com privacy policy that was archived on 2014-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140816024513id_/http%3A//barquery.com%3Ftmp%3Dhugo_privacy) for the most accurate reproduction.*
 
 # BarQuery - Privacy Policy
 
