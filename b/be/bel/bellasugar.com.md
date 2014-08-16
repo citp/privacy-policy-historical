@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bellasugar.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629200803id_/http%3A//www.bellasugar.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bellasugar.com privacy policy that was archived on 2014-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140816043310id_/http%3A//www.bellasugar.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | POPSUGAR Beauty
 
@@ -99,7 +99,7 @@ The information you can view, update, and delete may change as the Website chang
 
 POPSUGAR complies with the U.S.-E.U. Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal information from European Union member countries. POPSUGAR has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement. To learn more about the Safe Harbor program, and to view POPSUGAR’s certification, please visit: <http://www.export.gov/safeharbor/>.
 
-If you have any questions or complaints regarding our compliance with the U.S.-E.U. Safe Harbor Framework, please contact us first at [community@popsugar.com](mailto:community@popsugar.com). We will investigate and attempt to resolve any concerns. In the event a dispute cannot be resolved through our internal dispute resolution process, POPSUGAR has agreed to participate in the dispute resolution program provided by the European Data Protection Authorities for disputes regarding organization human resources data. For disputes regarding other types of data, you may submit your complaint to JAMS for mediation under the JAMS International Mediation Rules, which are accessible on the JAMS website at: [](https://web.archive.org/web/20140629200803id_/http%3A//www.bellasugar.com/www.jamsadr.com)www.jamsadr.com.
+If you have any questions or complaints regarding our compliance with the U.S.-E.U. Safe Harbor Framework, please contact us first at [community@popsugar.com](mailto:community@popsugar.com). We will investigate and attempt to resolve any concerns. In the event a dispute cannot be resolved through our internal dispute resolution process, POPSUGAR has agreed to participate in the dispute resolution program provided by the European Data Protection Authorities for disputes regarding organization human resources data. For disputes regarding other types of data, you may submit your complaint to JAMS for mediation under the JAMS International Mediation Rules, which are accessible on the JAMS website at: [](https://web.archive.org/web/20140816043310id_/http%3A//www.bellasugar.com/www.jamsadr.com)www.jamsadr.com.
 
 
 
