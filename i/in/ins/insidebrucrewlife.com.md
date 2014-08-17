@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insidebrucrewlife.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625061446id_/http%3A//insidebrucrewlife.com/advertisingdisclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidebrucrewlife.com privacy policy that was archived on 2014-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140817091438id_/http%3A//insidebrucrewlife.com/advertisingdisclosure) for the most accurate reproduction.*
 
 # Advertising/Disclosure - Inside BruCrew Life
 
