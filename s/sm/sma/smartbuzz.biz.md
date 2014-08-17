@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the smartbuzz.biz privacy policy that was archived on 2014-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140508122704id_/http%3A//smartbuzz.biz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartbuzz.biz privacy policy that was archived on 2014-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140817184232id_/http%3A//smartbuzz.biz/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Smart BUZZ
+
+[](http://smartbuzz.biz/) **813-215-3665** **_info@smartbuzz.biz_**
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
