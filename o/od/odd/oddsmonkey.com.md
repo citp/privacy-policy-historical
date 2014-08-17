@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oddsmonkey.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625124728id_/http%3A//oddsmonkey.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oddsmonkey.com privacy policy that was archived on 2014-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140817202402id_/http%3A//www.oddsmonkey.com/privacy.aspx) for the most accurate reproduction.*
 
 # Oddsmonkey - Home
 
