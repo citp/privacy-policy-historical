@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vans.com privacy policy that was archived on 2014-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140510071909id_/http%3A//www.vans.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vans.com privacy policy that was archived on 2014-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140817132940id_/http%3A//www.vans.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
