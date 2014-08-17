@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findagames.com privacy policy that was archived on 2014-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140616225025id_/http%3A//www.findagames.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findagames.com privacy policy that was archived on 2014-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140817052524id_/http%3A//www.findagames.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Games – Free Online Games at findagames.com
 
@@ -25,41 +25,53 @@ One last area in which we ask for your name is on bulletin boards or forums–pl
 
 ## News from the Online Gaming World[show all](https://web.archive.org/h/news/)
 
-  * [ ](http://www.findagames.com/wartune/)
+  * [ ](http://www.findagames.com/spongebob-underwater-atv/)
 
-### [](http://www.findagames.com/wartune/)[Wartune](http://www.findagames.com/wartune/)
+### [](http://www.findagames.com/spongebob-underwater-atv/)[Spongebob Underwater Atv](http://www.findagames.com/spongebob-underwater-atv/)
 
-Fight demons in this multifaceted RPG. Featuring single and multi-player dungeons, PvP arenas, competitive battle grounds, thousand-player boss... ...[more](http://www.findagames.com/wartune/)
+Spongebob Underwater Atv description: Spongebob is riding his ATV in the sea. Try to reach the end as fast as possible and not be crashed. Please... ...[more](http://www.findagames.com/spongebob-underwater-atv/)
 
-  * [ ](http://www.findagames.com/clash-of-the-worlds/)
+  * [ ](http://www.findagames.com/rpg-tower-defence/)
 
-### [](http://www.findagames.com/clash-of-the-worlds/)[Clash of the Worlds](http://www.findagames.com/clash-of-the-worlds/)
+### [](http://www.findagames.com/rpg-tower-defence/)[RPG Tower Defence](http://www.findagames.com/rpg-tower-defence/)
 
-Feeling strategic? Unleash your forces in battle against hordes of orcs and other nasty beasties! Money makes soldiers, and soldiers fight back.... ...[more](http://www.findagames.com/clash-of-the-worlds/)
+RPG Tower Defence is a classic TD game. Place your towers and buldings around your map and try to stop the enemy from advancing. ...[more](http://www.findagames.com/rpg-tower-defence/)
 
-  * [ ](http://www.findagames.com/offroaders-game/)
+  * [ ](http://www.findagames.com/the-best-video-game-secrets-ever/)
 
-### [](http://www.findagames.com/offroaders-game/)[Offroaders Game](http://www.findagames.com/offroaders-game/)
+### [](http://www.findagames.com/the-best-video-game-secrets-ever/)[The Best Video Game Secrets Ever](http://www.findagames.com/the-best-video-game-secrets-ever/)
 
-Game Description: Play the Exciting Offroad Racing! enjoy playing on 10 different tracks and you win cash to unlock loads of vehicles to try... ...[more](http://www.findagames.com/offroaders-game/)
+For the most part, games are meant to be fun. They’re an escape, the quintessential form of interactive entertainment. Why watch a film, when... ...[more](http://www.findagames.com/the-best-video-game-secrets-ever/)
 
-  * [ ](http://www.findagames.com/killer-whale-game/)
+  * [ ](http://www.findagames.com/super-mud-mania/)
 
-### [](http://www.findagames.com/killer-whale-game/)[Killer Whale Game](http://www.findagames.com/killer-whale-game/)
+### [](http://www.findagames.com/super-mud-mania/)[Super Mud Mania](http://www.findagames.com/super-mud-mania/)
 
-Predator on the loose! Find your way out of Sea World. A mad remix of ecco the dolphin! Controls: Use [arrow keys] to swim. [Z] to bite (eat... ...[more](http://www.findagames.com/killer-whale-game/)
+Super Mud Mania: It’s way more fun than Super Mud Depression. Upgrade your vehicle, win races and unlock off-road racers in the toughest... ...[more](http://www.findagames.com/super-mud-mania/)
 
-  * [ ](http://www.findagames.com/modern-moto-racers/)
+  * [ ](http://www.findagames.com/conquerors-of-the-island/)
 
-### [](http://www.findagames.com/modern-moto-racers/)[Modern Moto Racers](http://www.findagames.com/modern-moto-racers/)
+### [](http://www.findagames.com/conquerors-of-the-island/)[Conquerors of the island](http://www.findagames.com/conquerors-of-the-island/)
 
-In this futuristic racer, you’ll scream down the street, weaving around obstacles and collecting power-ups to boost your bike. Modern Moto... ...[more](http://www.findagames.com/modern-moto-racers/)
+The Conquerors of the Island flash arcade game is based on the ancient game Ludo. The main objective is to lead all the characters through... ...[more](http://www.findagames.com/conquerors-of-the-island/)
 
-  * [ ](http://www.findagames.com/feel-the-beat/)
+  * [ ](http://www.findagames.com/monkey-quest/)
 
-### [](http://www.findagames.com/feel-the-beat/)[Feel The Beat](http://www.findagames.com/feel-the-beat/)
+### [](http://www.findagames.com/monkey-quest/)[Monkey Quest](http://www.findagames.com/monkey-quest/)
 
-Do you like Rock Band? Well this is the flash equivalent. Hit the corresponding keys on your keyboard in time with the music and see how high... ...[more](http://www.findagames.com/feel-the-beat/)
+You only have one tower to work with, and enemies come from both sides. But your weapons are many, your upgrades are beastly, and your tower... ...[more](http://www.findagames.com/monkey-quest/)
+
+  * [ ](http://www.findagames.com/first-aid-road-accident/)
+
+### [](http://www.findagames.com/first-aid-road-accident/)[First Aid Road Accident](http://www.findagames.com/first-aid-road-accident/)
+
+Look, this boy has just been hit by a car! Quick, call the ambulance! But you shouldn’t just sit by and wait for the doctors, the boy desperately... ...[more](http://www.findagames.com/first-aid-road-accident/)
+
+  * [ ](http://www.findagames.com/drift-runners-3d-game/)
+
+### [](http://www.findagames.com/drift-runners-3d-game/)[Drift Runners 3D Game](http://www.findagames.com/drift-runners-3d-game/)
+
+Game Description: One of fast paced cross-country racing game, with multiple unlocks, upgrades, and zones. Use the handbrake to drift on bends,... ...[more](http://www.findagames.com/drift-runners-3d-game/)
 
 
 
