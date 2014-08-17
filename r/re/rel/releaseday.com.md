@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the releaseday.com privacy policy that was archived on 2014-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140407022810id_/https%3A//www.releaseday.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the releaseday.com privacy policy that was archived on 2014-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140817134839id_/https%3A//www.releaseday.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Releaseday
-
-Privacy Policy
-
-* * *
 
 **How does Releaseday use information it collects from or about me?**
 
@@ -71,10 +67,10 @@ In addition to the sharing described in this Privacy Policy, and only with your 
 We use reasonable physical, technical, and administrative measures to safeguard information in our possession against loss, theft and unauthorized use, disclosure, or modification.. We also take steps to ensure that only those Releaseday employees, agents, and contractors who have a legitimate business reason to obtain access to your information are granted access.  
 Despite these efforts, please note that no data transmission or storage can be guaranteed to be 100% secure. We want you to feel confident using the Releaseday Services but we cannot ensure or warrant the security of any information you transmit to us.
 
- **What happens when Releaseday changes its Privacy Policy?**  
-From time to time, we may revise this Privacy Policy to reflect industry initiatives or changes in the law or changes to the scope of the Releaseday Services or for other reasons. Therefore, it is important to check the effective date of the Privacy Policy posted at [**http://www.Releaseday.com/privacy-policy**](https://web.archive.org/web/20140407022810id_/https://www.releaseday.com/privacy-policy/privacy-policy) each time you visit Releaseday.com or use any of the Releaseday Services to ensure you are familiar with the most updated policies and practices
+**What happens when Releaseday changes its Privacy Policy?**  
+From time to time, we may revise this Privacy Policy to reflect industry initiatives or changes in the law or changes to the scope of the Releaseday Services or for other reasons. Therefore, it is important to check the effective date of the Privacy Policy posted at [**http://www.Releaseday.com/privacy-policy**](https://web.archive.org/web/20140817134839id_/https%3A//www.releaseday.com/privacy-policy) each time you visit Releaseday.com or use any of the Releaseday Services to ensure you are familiar with the most updated policies and practices
 
- **How does Releaseday work with social networks such as Facebook?**
+**How does Releaseday work with social networks such as Facebook?**
 
   * Releaseday and Social Networking.
 
