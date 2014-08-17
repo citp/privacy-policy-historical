@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bedumatic.com privacy policy that was archived on 2013-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131208042602id_/http%3A//www.bedumatic.com/%3Fpage_id%3D2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bedumatic.com privacy policy that was archived on 2014-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140818004857id_/http%3A//www.bedumatic.com/%3Fpage_id%3D2) for the most accurate reproduction.*
 
 # bedumatic.com » Privacy Policy
 
