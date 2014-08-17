@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the lessonpix.com privacy policy that was archived on 2014-05-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140502014156id_/http%3A//lessonpix.com/articles/11/26/LessonPix%2BPrivacy%2BPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lessonpix.com privacy policy that was archived on 2014-08-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140817164728id_/http%3A//lessonpix.com/articles/11/26/LessonPix%2BPrivacy%2BPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html class=" webkit chrome linux js"><head>
 <meta http-equiv="Content-type" content="text/html;charset=UTF-8">
@@ -11,7 +11,7 @@
   <link rel="stylesheet" href="/css/actionButtons.css" type="text/css">
   <link rel="stylesheet" href="/cssCG/forum.css" type="text/css">
   <link rel="stylesheet" type="text/css" href="/css/jquery.selectbox.css">
-  <link rel="stylesheet" href="/cssCG/main.css" type="text/css">
+  <link rel="stylesheet" href="/cssCG/main2.css" type="text/css">
   <link rel="stylesheet" href="/css/star_rating.css" type="text/css">
   <link rel="stylesheet" href="/cssCG/dash.css" type="text/css">
   <link rel="stylesheet" href="/cssCG/home.css" type="text/css">
@@ -126,7 +126,7 @@ ga('send', 'pageview');
 
 
    $(function(){
-
+       $( "#accordion" ).accordion();
        $('.tabsContainer').tabs();
 
        //       $("#searchType").selectbox();
@@ -156,7 +156,7 @@ ga('send', 'pageview');
 	 });
 
        $('img.lpImage,#actionShots img').bind('contextmenu', function(e){
-	   var ip = '204.236.235.245';	     var username = '';	 $.ajax({
+	   var ip = '207.241.237.206';	     var username = '';	 $.ajax({
 		 url: "/reportRightClick.php",
 	       dataType: 'json',
 	       data: {event: e.target.src, ip: ip, username:username}
