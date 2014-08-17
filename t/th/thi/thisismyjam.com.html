@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the thisismyjam.com privacy policy that was archived on 2014-03-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140331104035id_/http%3A//www.thisismyjam.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the thisismyjam.com privacy policy that was archived on 2014-08-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20140817035358id_/https%3A//www.thisismyjam.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js no-touch hashchange history websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransitions fontface generatedcontent video audio svg" lang="en"><!--<![endif]--><head>
 
@@ -30,7 +30,7 @@ Privacy | This Is My Jam        </title>
 
     
         
-                <link rel="stylesheet" href="http://static01.thisismyjam.com/css/all_c3d00760e29293d84752f060d1a2b17c40ece0c3.css" type="text/css" media="all">
+                <link rel="stylesheet" href="https://s3.amazonaws.com/thisismyjam/css/all_3161e4056a9e9ecdae792e4c2e1aedb4511112ad.css" type="text/css" media="all">
 
     
         <link rel="stylesheet" href="/includes/css/retina.css" type="text/css">
@@ -357,12 +357,12 @@ Privacy | This Is My Jam        </title>
 </section>   </div>
 
 
-                        <script src="http://static01.thisismyjam.com/js/all_577df75484e4f4e891c46ee24548a695a5b2673e.js"></script>
+                        <script src="https://s3.amazonaws.com/thisismyjam/js/all_fcf91d717ba9ac2ebc1a644eda5db837dc10f4fe.js"></script>
             
 <script>
 
 function isSSL() {
-    return 0;
+    return 1;
 }
 
     window.realtime = new Realtime('realtime.thisismyjam.com', 4443);
@@ -511,13 +511,15 @@ soundManager.ontimeout(function(status) {
     }
 });
 
-window.ytPlayer = new YoutubePlayer('ytPlayer', $("#ytContainer"), window.forceHTML5);
+window.ytPlayer = new YoutubePlayer('ytPlayer', $("#ytContainer"), true); // TODO - remove me when YT has patched things?
+                                                                        //  'true' was: window.forceHTML5
+                                                                        
 window.vimeoPlayer = new VimeoPlayer($("#vimeoContainer"), !window.hasFlash()); // TODO: figure out if we need any forceHTML5 here.
                                                                                 //       seems like no, but opportunity to consolidate?
 
 // insert html5 video api script tag, everyone gets it
 var tag = document.createElement('script');
-tag.src = "http://www.youtube.com/player_api";
+tag.src = "https://www.youtube.com/player_api";
 var firstScriptTag = document.getElementsByTagName('script')[0];
 firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
 
@@ -583,7 +585,7 @@ function bg(path) {
     return path;
 }
 
-window.JS_VERSION = '577df75484e4f4e891c46ee24548a695a5b2673e';
+window.JS_VERSION = 'fcf91d717ba9ac2ebc1a644eda5db837dc10f4fe';
 
 // THIS NEEDS TO BE IN THE FOOTER, AS IT DEPENDS ON PHP, AND IT SHOULD
 // ALWAYS, ALWAYS WORK
