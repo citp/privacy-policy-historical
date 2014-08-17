@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bankinnovation.net privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617125002id_/http%3A//www.bankinnovation.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankinnovation.net privacy policy that was archived on 2014-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140817054825id_/http%3A//www.bankinnovation.net/%3Fp%3D266) for the most accurate reproduction.*
 
 # Privacy Statement | Bank Innovation
 
