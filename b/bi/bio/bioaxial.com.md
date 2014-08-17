@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bioaxial.com privacy policy that was archived on 2014-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140402032911id_/http%3A//bioaxial.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bioaxial.com privacy policy that was archived on 2014-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140817023443id_/http%3A//www.bioaxial.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
