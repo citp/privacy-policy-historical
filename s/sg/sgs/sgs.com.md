@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sgs.com privacy policy that was archived on 2014-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140617213746id_/http%3A//www.sgs.com/en/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sgs.com privacy policy that was archived on 2014-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140817174415id_/http%3A//www.sgs.com/en/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # SGS - Privacy Policy
 
@@ -20,7 +20,7 @@ Information about our clients is an important part of our business and SGS is no
 
   1. By transfer to other SGS Group companies where it is necessary to meet the purpose for which you have submitted the information. By submitting data on any SGS Group company website, you are providing explicit consent to trans-border transmission of data collected on that website. 
   2. By transfer to third party agents and subcontractors which perform certain functions on behalf of SGS, such as picking up and delivering samples, fulfilling inspection orders, sending email, removing repetitive information from client lists, analysing data and processing credit card payments. These parties only have access to such information as necessary to perform their functions and may not use it for any other purpose. 
-  3. For any reason if, in SGS' sole discretion, SGS believes it is reasonable to do so, including: to satisfy any laws, regulations, or governmental or legal requests for such information; to disclose information that is necessary to identify, contact or bring legal action against someone who may be violating our [Terms of Access ](https://web.archive.org/web/20140617213746id_/http%3A//www.sgs.com/en/~/link.aspx?_id=C2FCDBA0B5BE46C69CF86C9C428199FA&_z=z)or other terms and conditions; or to otherwise protect the SGS Group of companies.
+  3. For any reason if, in SGS' sole discretion, SGS believes it is reasonable to do so, including: to satisfy any laws, regulations, or governmental or legal requests for such information; to disclose information that is necessary to identify, contact or bring legal action against someone who may be violating our [Terms of Access ](https://web.archive.org/web/20140817174415id_/http%3A//www.sgs.com/en/~/link.aspx?_id=C2FCDBA0B5BE46C69CF86C9C428199FA&_z=z)or other terms and conditions; or to otherwise protect the SGS Group of companies.
 
 
 
@@ -28,7 +28,7 @@ Information about our clients is an important part of our business and SGS is no
 
 We follow strict security procedures in the storage and disclosure of information which you have given us in order to prevent unauthorised access. However, the SGS site contains links to other websites. SGS does not control and is not responsible for the privacy practices or the content of these other websites.
 
-["Cookies" and how SGS uses them](https://web.archive.org/web/20140617213746id_/http%3A//www.sgs.com/en/~/link.aspx?_id=90EBE8DFC33B4A14AC8BA2C61329CCDD&_z=z)
+["Cookies" and how SGS uses them](https://web.archive.org/web/20140817174415id_/http%3A//www.sgs.com/en/~/link.aspx?_id=90EBE8DFC33B4A14AC8BA2C61329CCDD&_z=z)
 
 ### Your rights
 
