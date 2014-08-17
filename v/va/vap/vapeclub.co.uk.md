@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vapeclub.co.uk privacy policy that was archived on 2014-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140619232050id_/http%3A//www.vapeclub.co.uk/about_us/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vapeclub.co.uk privacy policy that was archived on 2014-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140818000405id_/http%3A//www.vapeclub.co.uk/about_us/privacy_statement) for the most accurate reproduction.*
 
 # Vape Club - Privacy Statement
 
