@@ -1,61 +1,81 @@
-> *The following text is extracted and transformed from the concordmonitor.com privacy policy that was archived on 2012-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120627202722id_/http%3A//www.concordmonitor.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the concordmonitor.com privacy policy that was archived on 2014-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140817095455id_/http%3A//www.concordmonitor.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policies | Concord Monitor
+# Privacy Policy | Concord Monitor
 
-**Our commitment to you**
+Last Updated: November 6, 2012
 
-Concord Monitor Online and its owner, Monitor Publishing Company (collectively, "Monitor Online"), recognize the importance of protecting the privacy of personally identifiable information collected about you, our customers. This customer privacy policy is intended to outline our legitimate business interests in collecting and using information versus your reasonable expectations of privacy.
+We take seriously your interest in how your information is collected and used. Please read the following to learn about our Privacy Notice.
 
- **Security**
+This Privacy Notice discloses the privacy practices of this website (the "Site"). Specifically, it outlines the types of information that we gather about you while you are using the Site, and the ways in which we use and share this information. This Privacy Notice does not apply to any information you may provide to us, or that we may collect, offline and/or through other means (for example, at a live event, via telephone, or through the mail).
 
-We take the responsibility for keeping your payment and personal information private and secure very seriously. When entering payment and personal information on our web pages you will see that we use SSL certificates to protect your data as you submit it. We also encrypt the data as it travels from our web site to our internal systems that are not reachable from the Internet.
+Please read this Privacy Notice carefully. By visiting and using the Site, you agree that your use of our Site, and any dispute over our online privacy practices, is governed by this Privacy Notice and our [Terms of Service](http://www.concordmonitor.com/terms-of-service). Because the Web is an evolving medium, we may need to change our Privacy Notice at some point in the future, in which case we'll post the revised Privacy Notice on this website and update the "Last Updated" date to reflect the date of the changes. By continuing to use the Site after we post any such changes, you accept the Privacy Notice as modified.
 
- **User information collected**
+  1. ### How We Collect and Use Information
 
-Concord Monitor Online gathers identifying information about you only when you provide that information on a voluntary basis to use site services such purposes as member or subscriber registration, reader comments and blogs, contests, news alerts, purchasing products and social networking tools. The personal information required to use our site services varies from service to service but may include name, age, e-mail address, mailing address and phone number. For purchases, a credit card and billing information may be required.
+We may collect and store information, including personally identifiable information (such as your name, postal address or email address) or other information, that you voluntarily supply to us while on our Site. Some examples of this type of information include information that you electronically submit when you contact us with questions, information that you post on blogs, discussion forums or other community posting and social networking areas on our Site, and information that you electronically submit when you complete an online registration form to access and use certain features of our Site. We also may ask for information (including a credit card number and other financial information) from those users who make purchases or have payment transactions on our Site. If you decline to supply or provide us with certain information while using the Site, you may not be able to use or participate in some or all of the features offered through the Site. 
 
-Concord Monitor Online employs 'cookies' in circumstances that require session data or require user verification. We have several feedback forms on Monitor Online. Any feedback that is submitted through these forms or through e-mail is the property of Monitor Online. We may use this feedback for marketing purposes, or to contact you for additional feedback.
+We also collect, through a variety of technologies and practices, and store non-personally identifiable information that is generated automatically as you navigate through the Site. For example, we may collect information about your computer's connection to the Internet, which allows us, among other things, to improve the delivery of our web pages to you and to measure traffic on the Site. We also may use a standard feature found in browser software called a "cookie" to enhance your experience with the Site. Cookies are small files that your web browser places on your hard drive for record-keeping purposes. By showing how and when visitors use the Site, cookies help us deliver advertisements, identify how many unique users visit us, and track user trends and patterns. They also prevent you from having to re-enter your preferences on certain areas of the Site where you may have entered preference information before. This Site also may use single-pixel graphic files, also known as web beacons or transparent GIFs, to access cookies and to count users who visit the Site or open HTML-formatted email messages. If you choose to disable cookies or turn off other functionality, you may not be able to use or participate in some or all of the features offered through the Site. 
 
-Concord Monitor Online performs statistical analyses of its server logs to study the use and popularity of various areas of our site. We also look at IP addresses to analyze where we are getting our audience.
+The information we collect may be collected directly by us, or it may be collected by a third-party website hosting provider, or another third-party service provider, on our behalf.
 
- **Uses of information**
+We use the information we collect from you while you are using the Site in a variety of ways, including, for example, to process your registration request, provide you with services and communications that you have requested, send you email updates and other communications, customize features and advertising that appear on the Site, deliver our Site content to you, measure Site traffic, measure user interests and traffic patterns, and improve the Site and the services and features offered via the Site. 
 
-The Concord Monitor may use information it has collected from users to communicate with its users about changes in policies or operations.
+In addition, we may use any information submitted by or collected from you via the Site for any purpose related to the Site, including to contact you for customer service purposes, to inform you of important changes or additions to our Site or the services offered over our Site, and to send you administrative notices and any other communications that we believe may be of interest to you. 
 
-The Concord Monitor may use information it has collected from users to promote Monitor products and services; we will make every effort to allow users to opt out of promotional messages from the Monitor. 
+We also may provide your information to our affiliates or to third parties, including our third party service providers and contractors, for purposes related to Site administration and other services. For example, if you use a credit or debit card to complete a transaction on our Site, we may share your personal information and credit card number with a credit card processing and/or a fulfillment company in order to complete your transaction, or such service provider(s) may collect that information from you directly, on our behalf. 
 
-The Concord Monitor may use information it has collected from users to promote products and services on behalf of advertisers; we will make every effort to allow users to opt out of promotional messages from advertisers. 
+If you do not wish your personally identifiable information to be used or shared for these purposes, send a letter to the Publisher whose contact information is listed at the end of Section 7 of this Privacy Notice. 
 
-**Third-party uses of information**
+For information about use of your information by us and by third-party advertising service providers for advertising, see the section "Data Collected in Connection with Ad Serving and Targeting." 
 
-It is not the policy of the Concord Monitor to sell or make available personally identifiable user information to unrelated third parties; such information may be shared with other divisions of Monitor Publishing Company. Concord Monitor Online may provide advertisers and other third parties with general, aggregate usage data. Unless stated otherwise, we will use our best efforts not to disclose information about individual visits to Monitor Online or personal information that you provide, such as your name, address, e-mail address, telephone number, or credit card number to any outside parties, unless otherwise required by law. 
+Our Site also includes links to other websites and provides access to products and services offered by third parties, whose privacy policies we do not control. When you access another website or purchase products or services from a third-party, use of any information you provide is governed by the Privacy Notice of the operator of the site you are visiting or the provider of such products or services. 
 
-Concord Monitor Online may allow registered users, members and subscribers to establish online identities and use social networking tools, which can include befriending other users, updating profile information, posting comments on other users profiles and identifying pieces of content as something of interest. When you take advantage of these site features, you are agreeing to share personal information with other users. Concord Monitor Online provides privacy tools within its social networking framework so that you can control which types of personal information are shared with other users.
+We also make some content, products and services available through our Site through cooperative relationships with third-party providers, where the brands of our provider partner appear on the Site in connection with such content, products and/or services. We may share with our provider partner any information you provide, or that is collected, in the course of visiting any pages that are made available in cooperation with our provider partner. In some cases, the provider partner may collect information from you directly, in which cases the Privacy Notice of our provider partner may apply to the provider partner's use of your information. The Privacy Notice of our provider partners may differ from ours. If you have any questions regarding the Privacy Notice of one of our provider partners, you should contact the provider partner directly for more information. Please be aware that we may occasionally release information about our visitors if required to do so by law or if, in our business judgment, such disclosure is reasonably necessary: (a) to comply with legal process; (b) to enforce our [Terms of Service](http://www.concordmonitor.com/terms-of-service); or (c) to protect the rights, property, or personal safety of our Site, us, our affiliates, our officers, directors, employees, representatives, our licensors, other users, and/or the public. Please also note that as our business grows, we may buy or sell various publications. In the unlikely event that we sell some or all of our publications or our Site is acquired by another company, information about our Site users may be among the transferred assets. 
 
-Users should keep in mind that, when posting their user name or e-mail address on bulletin boards or in other user-posted content areas, that information, along with any information in their postings, can be read by any third parties and may result in unsolicited messages from other posters or third parties. Concord Monitor Online has no control over that.
+  2. ### Data Collected in Connection with Ad Serving and Targeting
 
-The Concord Monitor may make use of or refer to user-posted content for the purposes of promoting Concord Monitor publications, in print or online. The Concord Monitor makes no claim of ownership to such user-posted content.
+We may use cookies, web beacons and similar technologies, and/or a third-party ad serving software, to collect non-personally identifiable information about site users and site activity, and we may use this information to, among other things, serve targeted advertisements on this site. The information collected allows us to analyze how users use the site and to track user interests, trends and patterns, thus allowing us to deliver more relevant advertisements to users.
 
-Please be aware that any information submitted on a co-branded page with a third party may result in that third party using your information according to its privacy policy. We do not and cannot control such third-party uses. Examples of third parties that Monitor Online currently utilizes are Associated Press, Adicio.com and  Discover.Planet
+We also may use third-party service providers to target and serve some of the advertisements you see on the pages of our Site. We may share non-personally identifiable information, such as type of pages viewed and categories of interest, from our Site with these service providers for their use in displaying ads on our Site. These providers may use their own cookies, web beacons and similar technologies to collect non-personally identifiable information from our Site. These service providers may use that information, sometimes in conjunction with similar non-personally identifiable information gathered through other websites, to deliver advertisements on this Site, and on other websites that participate in our service providers’ advertising networks, that are tailored to match the perceived interests of consumers. The non-personally identifiable information obtained by our third-party service providers also may be used to help measure and research an advertisement’s effectiveness, or for other purposes. 
 
-We use third-party advertising companies to serve ads when you visit our  
-Website. These companies may use information (not including your name,  
-address email address or telephone number) about your visits to this and  
-other Web sites in order to provide advertisements about goods and  
-services of interest to you. If you would like more information about  
-this practice and to know your choices about not having this information  
-used by these companies, [click here](http://www.networkadvertising.org/).
+The data collected in connection with the ad serving and ad targeting on our Site does not identify you personally and does not include your name, address, email address or telephone number, but it may include the IP address of your computer. 
 
- **Process to remove your personal information**
+The use and collection of information by third-party advertising service providers is governed by the relevant third party’s policies and is not covered by our Privacy Notice. 
 
-Most of our services include information on how to remove your information and cancel the service. You may alternatively send us an email at webmaster@concordmonitor.com identifying the services and information you would like removed. Please provide explicit reasons why we should remove the content. We reserve the right to decline requests for removal of information based on maintaining the historical and archival nature of our Web site.
+  3. ### Information You Post to Blogs, Discussion Forums and Other Community Posting or Social Networking Areas
 
- **Children**
+Please keep in mind that whenever you voluntarily make your personal information or other private information available for viewing by third parties online - for example on blogs, discussion forums, or other community posting or social networking areas of our Site - that information can be seen, collected and used by others besides us. We cannot be responsible for any unauthorized third-party use of such information. 
+  4. ### Children's Privacy Statement
 
-We do not specifically collect information about children. We believe that children should get their parents’ consent before giving out personal information. We further believe that parents should participate in and guide their children's experiences on Monitor Online. 
+This children's privacy statement explains our practices with respect to the online collection and use of personal information from children under the age of 13, and provides important information regarding their rights under federal law with respect to such information. 
 
-**Privacy Policy Changes**
+This Site is not directed to children under the age of 13 and we do not knowingly collect personally identifiable information from children under the age of 13 as part of the Site. If we become aware that we have inadvertently received personally identifiable information from a user under the age of 13 as part of the Site, we will delete such information from our records. 
 
-If we decide to change our privacy policy, we will post these changes here so that you will always know what information we gather, how we might use that information and whether we will disclose it to anyone. If, at any time, you have questions or concerns about the Monitor Online’s privacy policy, please feel free to e-mail us at _[cmwebmaster@cmonitor.com](mailto:cmwebmaster@cmonitor.com)_ or call 603-224-5301 and speak to our online manager.
+Because we do not collect any personally identifiable information from children under the age of 13 via the Site, we also do not knowingly distribute such information to third parties. 
 
- _Policy updated July 1, 2010._
+We do not knowingly allow children under the age of 13 to publicly post or otherwise distribute personally identifiable contact information through the Site.
+
+  5. ### How To Make Changes to Your Information
+
+If you are a registered member of our Site, you can make changes to your account information by logging in to the Site and using the account tools available via the Site. If you have subscribed to our website or to one or more of our email newsletters, you also may change your subscriber information, modify your subscriptions, and/or unsubscribe from these newsletters at any time by logging in to your account. 
+  6. ### Storage of Information
+
+All information we gather on our Site is stored within a database to which only we and our hosting services provider and our provider of subscription and registration services are provided access. However, as effective as the reasonable security measures implemented by us may be, no physical or electronic security system is impenetrable. We cannot guarantee the security of our Site’s servers or databases, nor can we guarantee that information you supply will not be intercepted while being transmitted to us over the Internet. 
+  7. ### Questions Regarding Privacy
+
+If you have any questions about this Privacy Notice, our privacy practices, or your dealings with us, you can contact:   
+Concord Monitor  
+Newspapers of New Hampshire, Inc.   
+1 Monitor Drive   
+Concord, NH 03301   
+Attn: PUBLISHER 
+  8. ### Your California Privacy Rights
+
+California Civil Code Section 1798.83, also known as the "Shine The Light" law, permits our customers who are California residents to request and obtain from us once a year, free of charge, information about the personal information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of personal information that was shared and the names and addresses of all third parties with which we shared information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to:   
+Concord Monitor   
+Newspapers of New Hampshire, Inc.   
+1 Monitor Drive   
+Concord, NH 03301  
+Attn: PUBLISHER 
+<<
+
