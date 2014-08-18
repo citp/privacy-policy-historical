@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rockstarwarehouse.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626031646id_/http%3A//www.rockstarwarehouse.com/ContentPage%3FId%3DPrivacyPolicy%26HideBreadCrumbs%3DTrue) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockstarwarehouse.com privacy policy that was archived on 2014-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140819015203id_/http%3A//www.rockstarwarehouse.com/ContentPage%3FId%3DPrivacyPolicy%26HideBreadCrumbs%3DTrue) for the most accurate reproduction.*
 
 # Rockstar Warehouse | PrivacyPolicy
 
