@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the superbesthealth.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625085158id_/http%3A//superbesthealth.com/health/index.php/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superbesthealth.com privacy policy that was archived on 2014-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140818085723id_/http%3A//superbesthealth.com/health/index.php/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY | SUPERBESTHEALTH.COM
+# PRIVACY POLICY : SUPERBESTHEALTH.COM
 
 **Cookies & 3rd Party Advertisements**
 
