@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifeartworks.com privacy policy that was archived on 2013-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131006131654id_/http%3A//www.lifeartworks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifeartworks.com privacy policy that was archived on 2014-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140818135818id_/http%3A//www.lifeartworks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Artworks Modern Painting and Photography
 
