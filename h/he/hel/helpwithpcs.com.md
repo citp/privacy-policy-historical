@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the helpwithpcs.com privacy policy that was archived on 2014-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140323224330id_/http%3A//www.helpwithpcs.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the helpwithpcs.com privacy policy that was archived on 2014-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140818050855id_/http%3A//helpwithpcs.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy - Helpwithpcs.com
 
