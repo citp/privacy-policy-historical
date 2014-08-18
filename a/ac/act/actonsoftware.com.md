@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the actonsoftware.com privacy policy that was archived on 2014-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140304124756id_/http%3A//www.act-on.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the actonsoftware.com privacy policy that was archived on 2014-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140818190453id_/https%3A//www.act-on.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy Generator | Website Privacy Policy | Act-On Privacy Policy
+# Act-On Privacy Policy
 
 This Privacy Policy covers our collection, use and disclosure of information we collect through our website, www.act-on.com and our service Act-On. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged Act-On Software, Inc. ("Act-On"). 
 
-Act-On has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with[TRUSTe's Program Requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) and the [TRUSTed Cloud Program Requirements](http://www.truste.com/privacy-program-requirements/TRUSTed-cloud/) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@act-on.com](mailto:privacy@act-on.com).
+Act-On has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's Program Requirements](http://www.truste.com/privacy-program-requirements/) and the [TRUSTed Cloud Program Requirements](http://www.truste.com/privacy-program-requirements/TRUSTed-cloud/) including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe certification covers our collection, use and disclosure of information we collect through our website http://www.actonsoftware.com and our service Act-On. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged Act-On. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@act-on.com](mailto:privacy@act-on.com).
 
-If you are not satisfied with our response you can contact [TRUSTe here](http://watchdog.truste.com/pvr.php?page=complaint).
+If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request).
 
 ## European Reach
 
@@ -79,9 +79,9 @@ We do link some of this automatically-collected data to personally identifiable 
 
 We partner with a third party ad network to either display advertising on our Web site or to manage our advertising on other sites. Our ad network partner uses cookies and Web beacons to collect non-personally identifiable information about your activities on this and other Web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may opt-out by clicking [Here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads. 
 
-## Public Forums
+## Public Forums/Blogs
 
-Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [privacy@act-on.com](mailto:privacy@act-on.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. 
+Our blog is managed by a third party application that may require you to register to post a comment. We do not have access or control of the information posted to the blog. You will need to contact or login into the third party application if you want the personal information that was posted to the comments section removed. To learn how the third party application uses your information, please review their privacy policy 
 
 ## Testimonials
 
@@ -89,7 +89,7 @@ With your consent we may post your testimonial along with your name. If you wish
 
 ## Social Media (Features) and Widgets
 
-Our Web site includes Social Media Features, such as the Facebook Like button [and Widgets, such as the Share this button or interactive mini-programs that run on our site]. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it. 
+Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it. 
 
 ## Information Related to Data Collected for through the Act-On Platform
 
@@ -119,13 +119,23 @@ We will respond to your request to access within 30 business days.
 
 As a business service, Act-On does not target its offerings toward, and does not knowingly collect any personal information from users under 13 years of age. 
 
-## Compliance With California Online Privacy Protection Act 
+## California Privacy 
+
+If you are a California resident, California Civil Code Section 1798.83 permits you to request information regarding the disclosure of your personal information by Act-On Software, Inc or its subsidiaries to a third party for the third party's direct marketing purposes. To make such a request, please send an email to [privacy@act-on.net](mailto:privacy@act-on.net) or write us:
+
+Act-On Software INC.   
+8300 SW Creekside Place   
+Suite 250   
+Beaverton   
+Oregon, 97008
 
 Act-On complies with the California Online Privacy Protection Act of 2014. 
 
 ## Accessing and Updating Personal Information
 
-When you use the Act-On Site, we make good faith efforts to provide you with access to your personal information and either to correct this data if it is inaccurate or to delete such data at your request if it is not otherwise required to be retained by law or for legitimate business purposes. You may update your Account information by logging into your Account. When requests come to Act-On with regard to personal information, we ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. 
+When you use the Act-On Site, we make good faith efforts to provide you with access to your personal information and either to correct this data if it is inaccurate or to delete such data at your request if it is not for legitimate business purposes. You may update your Account information by logging into your Account. When requests come to Act-On with regard to personal information, we ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical (for instance, requests concerning information residing on backup tapes), or for which access is not otherwise required. We retain and use your information as necessary to comply with our legal obligations, resolve disputes and enforce our agreements. In any case where we provide information access and correction, we perform this service free of charge, except if doing so would require a disproportionate effort. 
+
+We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 ## Changes to this Policy
 
@@ -140,4 +150,4 @@ Act-On Software, Inc.,
 Suite 250  
 Beaverton, OR 97008 
 
-Updated: December 30, 2013 
+Updated: May 6, 2014 
