@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the themedguru.com privacy policy that was archived on 2013-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131209010926id_/http%3A//www.themedguru.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themedguru.com privacy policy that was archived on 2014-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140818191046id_/http%3A//www.themedguru.com/privacy_policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | TheMedGuru
+# Privacy Policy
 
 This statement describes what you can expect from us regarding personal data on TheMedGuru.com, and your associated rights and responsibilities. This statement is a part of the TheMedGuru user agreement but trumps any conflicts with the agreement. This statement does not address anyone else's practices or our practices beyond the TheMedGuru.com site.
 
