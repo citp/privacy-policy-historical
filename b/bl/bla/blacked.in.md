@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blacked.in privacy policy that was archived on 2014-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140123215520id_/http%3A//www.becanada.com/internet/1389921560/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blacked.in privacy policy that was archived on 2014-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140818114430id_/http%3A//www.becanada.com/internet/internet_marketing_resources/privacy.html) for the most accurate reproduction.*
 
 # Becanada : Privacy Policy
 
@@ -40,7 +40,7 @@ This online privacy policy applies only to information collected through our web
 
 **Terms and Conditions**
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [terms of service](http://www.becanada.com/internet/1390513240/tos.html)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [terms of service](http://www.becanada.com/internet/internet_marketing_resources/tos.html)
 
 **Your Consent**
 
