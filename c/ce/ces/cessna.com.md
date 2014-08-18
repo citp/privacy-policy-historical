@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cessna.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209211033id_/http%3A//www.cessna.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cessna.com privacy policy that was archived on 2014-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140818202158id_/http%3A//www.cessna.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
