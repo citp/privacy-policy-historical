@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfinancetree.com privacy policy that was archived on 2012-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120816060531id_/http%3A//www.myfinancetree.com/%3Fpage_id%3D1957) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfinancetree.com privacy policy that was archived on 2014-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140818132513id_/http%3A//www.myfinancetree.com/%3Fpage_id%3D1957) for the most accurate reproduction.*
 
 # Privacy Policy | MyFinanceTree.com
 
