@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the thecustomizewindows.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625090914id_/http%3A//thecustomizewindows.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecustomizewindows.com privacy policy that was archived on 2014-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140818044257id_/https%3A//thecustomizewindows.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
 ## Your Privacy
 
- **** Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
+**** Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
 ### Google Adsense and the DoubleClick DART Cookie
 
@@ -24,6 +24,6 @@ We have included links on this site for your use and reference. We are not respo
 
 ### Changes to this Privacy Statement
 
-The contents of this statement may be altered at any time, at our discretion. If you have any questions regarding the privacy policy of The Customize Windows then [you may contact us through our Contact Us form](http://thecustomizewindows.com/contact-us/ "Contact The Customize Windows").
+The contents of this statement may be altered at any time, at our discretion. If you have any questions regarding the privacy policy of The Customize Windows then [you may contact us through our Contact Us form](https://thecustomizewindows.com/contact-us/ "Contact The Customize Windows").
 
 Last updated Fri, 30 Oct 2012 01:02
