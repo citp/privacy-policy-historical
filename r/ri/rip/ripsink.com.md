@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ripsink.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625073111id_/http%3A//ripsink.com/pages/aboutcontact.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ripsink.com privacy policy that was archived on 2014-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140818030902id_/http%3A//ripsink.com/pages/aboutcontact.html) for the most accurate reproduction.*
 
 # Untitled Page
 
@@ -39,4 +39,4 @@ Peter Rip, Administrator
 Thank You for Visting **_RIPSINK.COM™_**   
 
 
-[](https://web.archive.org/web/20140625073111id_/http%3A//ripsink.com/home.html)
+[](https://web.archive.org/web/20140818030902id_/http%3A//ripsink.com/home.html)
