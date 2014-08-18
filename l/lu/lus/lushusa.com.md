@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lushusa.com privacy policy that was archived on 2014-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140614234200id_/http%3A//www.lushusa.com/Privacy-Policy/privacy-policy%2Cen_US%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lushusa.com privacy policy that was archived on 2014-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140818023224id_/http%3A//www.lushusa.com/Privacy-Policy/privacy-policy%2Cen_US%2Cpg.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
