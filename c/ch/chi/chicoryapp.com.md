@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chicoryapp.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625111525id_/http%3A//chicoryapp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chicoryapp.com privacy policy that was archived on 2014-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140818235909id_/https%3A//www.chicoryapp.com/privacy) for the most accurate reproduction.*
 
 # Chicory | Privacy
 
@@ -66,4 +66,4 @@ If you have questions about this Privacy Policy, please e-mail us at [hello@chi
 
 ## Terms and Conditions
 
-Please also visit our [Terms of Use](https://web.archive.org/tos.html) section that explains other terms and conditions governing our Site.
+Please also visit our [Terms of Use](https://web.archive.org/terms/) section that explains other terms and conditions governing our Site.
