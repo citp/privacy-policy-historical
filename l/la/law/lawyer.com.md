@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lawyer.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625060805id_/https%3A//privacy.truste.com/reseller/privacy-policy/Lawyer.com/certified/8966e2f2-0fbc-4399-827b-251e0af308e3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawyer.com privacy policy that was archived on 2014-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140819123025id_/https%3A//privacy.truste.com/reseller/privacy-policy/Lawyer.com/certified/8966e2f2-0fbc-4399-827b-251e0af308e3) for the most accurate reproduction.*
 
 # Welcome to lawyer.com
 
-[](https://privacy.truste.com/privacy-seal/Lawyer.com/validation?validationId=7c11166d-1aa2-44c5-b670-cad1a0ba7d15&referer=lawyer.com)**Effective October 28, 2011**
+[](https://privacy.truste.com/privacy-seal/Lawyer-com/validation?validationId=7c11166d-1aa2-44c5-b670-cad1a0ba7d15&referer=lawyer.com)**Effective October 28, 2011**
 
 This privacy statement describes how **lawyer.com** collects and uses your personal information. The privacy practices of this company have been certified by TRUSTe for compliance with our [Privacy Certification Requirements](http://www.truste.com/privacy-program-requirements/index.html). 
 
@@ -24,7 +24,7 @@ If a TRUSTe client has violated its privacy agreement you can file a complaint w
   
 
 
-[](https://privacy.truste.com/privacy-seal/Lawyer.com/validation?validationId=7c11166d-1aa2-44c5-b670-cad1a0ba7d15&referer=lawyer.com)
+[](https://privacy.truste.com/privacy-seal/Lawyer-com/validation?validationId=7c11166d-1aa2-44c5-b670-cad1a0ba7d15&referer=lawyer.com)
 
  **Effective on October 28, 2011**
 
