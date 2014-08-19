@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oneprojectcloser.com privacy policy that was archived on 2014-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140629110911id_/http%3A//www.oneprojectcloser.com/disclaimer_and_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oneprojectcloser.com privacy policy that was archived on 2014-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140819144711id_/http%3A//www.oneprojectcloser.com/disclaimer_and_privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy for One Project Closer - One Project Closer
 
