@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roc4life.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625070135id_/http%3A//rocawear.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roc4life.com privacy policy that was archived on 2014-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140819063017id_/http%3A//rocawear.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy | Rocawear
 
