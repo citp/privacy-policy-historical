@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videvo.net privacy policy that was archived on 2014-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140613070728id_/http%3A//www.videvo.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videvo.net privacy policy that was archived on 2014-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140819081550id_/http%3A//www.videvo.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,7 +10,7 @@
 (1) Our commitment to Privacy Policy
 
 Your privacy is important to us. We are committed to safeguarding the privacy of our website visitors. The following policy explains how we deal with the information collected from you, your personal information and options available to you in regard to the policies followed by us.  
-¬
+Â¬
 
 (2) Collection and use of information
 
@@ -35,7 +35,7 @@ We may use your personal information to:
 
 (a) Administer the website;  
 (b) Improve your browsing experience by personalizing the website;  
-(i) Provide third parties with statistical information about our users – but this information will not be used to identify any individual user;  
+(i) Provide third parties with statistical information about our users — but this information will not be used to identify any individual user;  
 (j) Deal with enquiries and complaints made by or about you relating to the website.
 
 We will not without your express consent provide your personal information to any third parties for the purpose of direct marketing.
