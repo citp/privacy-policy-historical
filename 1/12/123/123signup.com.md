@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 123signup.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625092702id_/http%3A//www.123signup.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123signup.com privacy policy that was archived on 2014-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140819125130id_/http%3A//www.123signup.com/privacy-policy.asp) for the most accurate reproduction.*
 
-# Privacy Policy
+# 123Signup - Privacy Policy
 
 123Signup is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the 123Signup Website and governs data collection and usage. By using the 123Signup Website, you consent to the data practices described in this statement.
 
