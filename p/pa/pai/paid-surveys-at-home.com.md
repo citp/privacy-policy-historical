@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paid-surveys-at-home.com privacy policy that was archived on 2014-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140615081701id_/http%3A//www.paid-surveys-at-home.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paid-surveys-at-home.com privacy policy that was archived on 2014-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140819133416id_/http%3A//www.paid-surveys-at-home.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Paid Surveys at Home
 
@@ -37,10 +37,13 @@ This web site has security measures in place to protect against loss, misuse and
 Opt-Out/Modify  
 "Paid Surveys at Home" provides every user with the opportunity to opt-out of receiving future communications from us, change and modify information previously provided, or remove their information from our databases altogether.
 
+Notice to Canada Residents  
+By choosing to provide your email address to Paid Surveys at Home, you agree and consent to be contacted by or on behalf of Paid Surveys at Home at the physical address and email or phone number you provide, regardless of your status on any Do-Not-Mail or Do-Not-Call List.
+
 Contacting "Paid Surveys at Home"  
 If you have any questions about this privacy statement, the practices of this web site, or your dealings with this web site, please contact us via one of the methods above.
 
 Policy Changes  
 "Paid Surveys at Home" reserves the right to change this privacy policy at any time. 
 
-This Privacy Policy was last revised on April 4, 2013. 
+This Privacy Policy was last revised on July 30, 2014. 
