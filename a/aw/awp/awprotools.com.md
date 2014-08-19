@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the awprotools.com privacy policy that was archived on 2014-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140628195820id_/https%3A//awprotools.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awprotools.com privacy policy that was archived on 2014-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140819184855id_/http%3A//awprotools.com/privacy) for the most accurate reproduction.*
 
 # AW Pro Tools - Privacy
 
