@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the midnightgamer.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513154429id_/http%3A//midnightgamer.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midnightgamer.com privacy policy that was archived on 2014-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140819211133id_/http%3A//midnightgamer.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
@@ -12,10 +12,10 @@ Google, as a third party vendor, uses cookies to serve ads on your site. Google'
 
 Any of the information we collect from you may be used in one of the following ways: 
 
-• To improve our website  
+� To improve our website  
 (we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-• To send periodic emails
+� To send periodic emails
 
 > The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
 
